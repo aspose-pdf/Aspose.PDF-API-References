@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.security/icustomsecurityhandler/calculateencryptionkey/
 Calculate the EncryptionKey. Generally the key is calculated based on the UserKey. You can use values from EncryptionParams, which contains the current parameters at the time of the call. This value is passed as the key argument in [Encrypt](../encrypt/) and [Decrypt](../decrypt/).
 
 ```cpp
-virtual System::ArrayPtr<uint8_t> Aspose::Pdf::Security::ICustomSecurityHandler::CalculateEncryptionKey(System::String password)=0
+virtual System::ArrayPtr<uint8_t> Aspose::Pdf::Security::ICustomSecurityHandler::CalculateEncryptionKey(const System::String &password)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| password | System::String | Password entered by the user. |
+| password | const System::String\& | Password entered by the user. |
 
 ### ReturnValue
 

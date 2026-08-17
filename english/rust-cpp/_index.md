@@ -90,6 +90,8 @@ pub struct Document { /* private fields */ }
 | [remove_pdfua_compliance](./organize/remove_pdfua_compliance/) | Remove PDF/UA compliance from a PDF-document |
 | [is_pdfa_compliant](./organize/is_pdfa_compliant/) | Get is a PDF-document PDF/A compliant |
 | [is_pdfua_compliant](./organize/is_pdfua_compliant/) | Get is a PDF-document PDF/UA compliant |
+| [reverse_pages](./organize/reverse_pages/) | Reverse the order of pages in PDF-document. |
+| [reorder_pages](./organize/reorder_pages/) | Reorder pages in PDF-document. |
 | [page_rotate](./organize/page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./organize/page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./organize/page_grayscale/) | Convert page to black and white. |

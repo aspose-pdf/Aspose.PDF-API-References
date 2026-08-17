@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/html/process/
 Starts the [Html](../) processing with the specified parameters.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::Html::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::Html::Process(const System::SharedPtr<IPluginOptions> &options) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object containing instructions for the [Html](../). |
+| options | const System::SharedPtr\<IPluginOptions\>\& | An options object containing instructions for the [Html](../). |
 
 ### ReturnValue
 

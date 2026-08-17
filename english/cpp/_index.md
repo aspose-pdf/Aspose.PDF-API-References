@@ -42,6 +42,7 @@ is_root: true
 | [Aspose::Pdf::Vector](./aspose.pdf.vector/) | The **[Aspose.Pdf.Vector](./aspose.pdf.vector/)** is a root namespace for graphics operations. |
 | [Aspose::Pdf::XfaConverter](./aspose.pdf.xfaconverter/) |  |
 | [System](./system/) |  |
+| [System::Buffers](./system.buffers/) |  |
 | [System::Collections](./system.collections/) |  |
 | [System::Collections::Concurrent](./system.collections.concurrent/) |  |
 | [System::Collections::Generic](./system.collections.generic/) |  |

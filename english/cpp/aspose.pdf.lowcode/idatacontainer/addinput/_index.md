@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/idatacontainer/addinput/
 Adds new data source to the collection.
 
 ```cpp
-virtual void Aspose::Pdf::LowCode::IDataContainer::AddInput(System::SharedPtr<IDataSource> dataSource)=0
+virtual void Aspose::Pdf::LowCode::IDataContainer::AddInput(const System::SharedPtr<IDataSource> &dataSource)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dataSource | System::SharedPtr\<IDataSource\> |  |
+| dataSource | const System::SharedPtr\<IDataSource\>\& |  |
 
 ## See Also
 

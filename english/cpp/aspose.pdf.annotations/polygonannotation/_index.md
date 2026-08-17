@@ -20,7 +20,7 @@ class PolygonAnnotation : public Aspose::Pdf::Annotations::PolyAnnotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object for annotation processing. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor object for annotation processing. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [PolygonAnnotation](./polygonannotation/)(const System::SharedPtr\<Document\>\&, const System::ArrayPtr\<System::SharedPtr\<Point\>\>\&) | Constructor for using with Generator. |
 | [PolygonAnnotation](./polygonannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&, const System::ArrayPtr\<System::SharedPtr\<Point\>\>\&) | Creates new Polygon annotation on the specified page. |

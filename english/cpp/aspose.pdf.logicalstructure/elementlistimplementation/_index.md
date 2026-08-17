@@ -20,14 +20,14 @@ class ElementListImplementation : public Aspose::Pdf::LogicalStructure::ElementL
 
 | Method | Description |
 | --- | --- |
-| [AddElement](./addelement/)(System::SharedPtr\<Element\>, bool) override | Add element to list. |
+| [AddElement](./addelement/)(const System::SharedPtr\<Element\>\&, bool) override | Add element to list. |
 | [ElementListImplementation](./elementlistimplementation/)(const System::SharedPtr\<Element\>\&) |  |
 | [get_Count](./get_count/)() override | Gets the number of elements in the [ElementList](../elementlist/). |
 | [GetEnumerator](./getenumerator/)() override | Gets an enumerator that iterates through the collection of elements. |
-| [InsertElement](./insertelement/)(System::SharedPtr\<Element\>, int32_t, bool) override | Insert element to list. |
+| [InsertElement](./insertelement/)(const System::SharedPtr\<Element\>\&, int32_t, bool) override | Insert element to list. |
 | [Item](./item/)(int32_t) override | Retrieves a element at the given index. |
 | [RemoveAt](./removeat/)(int32_t, bool) override | Remove element from list. |
-| [RemoveElement](./removeelement/)(System::SharedPtr\<Element\>, bool) override | Remove element from list. |
+| [RemoveElement](./removeelement/)(const System::SharedPtr\<Element\>\&, bool) override | Remove element from list. |
 ## See Also
 
 * Class [ElementList](../elementlist/)

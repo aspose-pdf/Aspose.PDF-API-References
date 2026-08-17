@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.tagged/iadjustposition/adjustposition/
 Adjust position.
 
 ```cpp
-virtual void Aspose::Pdf::Tagged::IAdjustPosition::AdjustPosition(System::SharedPtr<PositionSettings> positionSettings)=0
+virtual void Aspose::Pdf::Tagged::IAdjustPosition::AdjustPosition(const System::SharedPtr<PositionSettings> &positionSettings)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| positionSettings | System::SharedPtr\<PositionSettings\> | Position settings |
+| positionSettings | const System::SharedPtr\<PositionSettings\>\& | Position settings |
 
 ## See Also
 

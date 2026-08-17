@@ -20,7 +20,7 @@ class PolyAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 
 | Method | Description |
 | --- | --- |
-| [ChangeAfterResize](./changeafterresize/)(System::SharedPtr\<Matrix\>) override | Updates the points in Vertices, according to the matrix transform. |
+| [ChangeAfterResize](./changeafterresize/)(const System::SharedPtr\<Matrix\>\&) override | Updates the points in Vertices, according to the matrix transform. |
 | [get_EndingStyle](./get_endingstyle/)() | Gets the style of second line ending. |
 | [get_Intent](./get_intent/)() | Gets the intent of the polygon or polyline annotation. |
 | [get_InteriorColor](./get_interiorcolor/)() | Gets the interior color with which to fill the annotation's line endings. |

@@ -20,7 +20,7 @@ class PageDevice : public Aspose::Pdf::Devices::Device
 
 | Method | Description |
 | --- | --- |
-| virtual [Process](./process/)(System::SharedPtr\<Page\>, System::SharedPtr\<System::IO::Stream\>) | Perfoms some operation on the given page, e.g. converts page into graphic image. |
+| virtual [Process](./process/)(const System::SharedPtr\<Page\>\&, const System::SharedPtr\<System::IO::Stream\>\&) | Perfoms some operation on the given page, e.g. converts page into graphic image. |
 | [Process](./process/)(const System::SharedPtr\<Page\>\&, const System::String\&) | Perfoms some operation on the given page and saves results into the file. |
 ## See Also
 

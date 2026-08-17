@@ -22,8 +22,8 @@ class FontAbsorber : public System::Object
 | --- | --- |
 | [FontAbsorber](./fontabsorber/)() | Initializes a new instance of the [FontAbsorber](./) that performs search for fonts of the document. |
 | [get_Fonts](./get_fonts/)() const | Gets collection of search occurrences that are presented with [Font](../font/) objects. |
-| virtual [Visit](./visit/)(System::SharedPtr\<Document\>, int32_t, int32_t) | Performs search in the specified range of pages of the document. |
-| virtual [Visit](./visit/)(System::SharedPtr\<Document\>) | Performs search on the specified document. |
+| virtual [Visit](./visit/)(const System::SharedPtr\<Document\>\&, int32_t, int32_t) | Performs search in the specified range of pages of the document. |
+| virtual [Visit](./visit/)(const System::SharedPtr\<Document\>\&) | Performs search on the specified document. |
 ## See Also
 
 * Class [Object](../../system/object/)

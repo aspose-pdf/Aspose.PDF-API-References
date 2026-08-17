@@ -20,7 +20,7 @@ class ThumbnailDevice : public Aspose::Pdf::Devices::ImageDevice
 
 | Method | Description |
 | --- | --- |
-| [Process](./process/)(System::SharedPtr\<Page\>, System::SharedPtr\<System::IO::Stream\>) override | Converts the page into thumbnail image png and saves it in the output stream. |
+| [Process](./process/)(const System::SharedPtr\<Page\>\&, const System::SharedPtr\<System::IO::Stream\>\&) override | Converts the page into thumbnail image png and saves it in the output stream. |
 | [ThumbnailDevice](./thumbnaildevice/)() | Initializes a new instance of the [ThumbnailDevice](./) class with default size of thumbnail image (200x200 pixels). |
 | [ThumbnailDevice](./thumbnaildevice/)(int32_t, int32_t) | Initializes a new instance of the [ThumbnailDevice](./) class. |
 ## See Also

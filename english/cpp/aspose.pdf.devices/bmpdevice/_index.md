@@ -26,7 +26,7 @@ class BmpDevice : public Aspose::Pdf::Devices::ImageDevice
 | [BmpDevice](./bmpdevice/)(const System::SharedPtr\<PageSize\>\&, const System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>\&) | Initializes a new instance of the [BmpDevice](./) class with provided page size and resolution. |
 | [BmpDevice](./bmpdevice/)(int32_t, int32_t) | Initializes a new instance of the [BmpDevice](./) class with provided image dimensions, default resolution (=150). |
 | [BmpDevice](./bmpdevice/)(const System::SharedPtr\<PageSize\>\&) | Initializes a new instance of the [BmpDevice](./) class with provided page size, default resolution (=150). |
-| [Process](./process/)(System::SharedPtr\<Page\>, System::SharedPtr\<System::IO::Stream\>) override | Converts the page into bmp and saves it in the output stream. |
+| [Process](./process/)(const System::SharedPtr\<Page\>\&, const System::SharedPtr\<System::IO::Stream\>\&) override | Converts the page into bmp and saves it in the output stream. |
 ## See Also
 
 * Class [ImageDevice](../imagedevice/)

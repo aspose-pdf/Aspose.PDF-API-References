@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/destinationcollection/indexof/
 Returns the index of destination in collection.
 
 ```cpp
-int32_t Aspose::Pdf::DestinationCollection::IndexOf(System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<System::Object>> value) const
+int32_t Aspose::Pdf::DestinationCollection::IndexOf(System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<System::Object>> value)
 ```
 
 

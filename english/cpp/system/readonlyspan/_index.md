@@ -4,7 +4,7 @@ linktitle: ReadOnlySpan
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ReadOnlySpan class. Forward to use within Span class in C++.'
 type: docs
-weight: 5600
+weight: 5800
 url: /cpp/system/readonlyspan/
 ---
 ## ReadOnlySpan class
@@ -24,7 +24,9 @@ template<typename T>class ReadOnlySpan : public System::Details::SpanCore<const 
 
 | Method | Description |
 | --- | --- |
+| [ReadOnlySpan](./readonlyspan/)() | Constructs an empty read-only span. |
 | [ReadOnlySpan](./readonlyspan/)(const Span\<T\>\&) | Constructs a read-only span from a regular span. |
+| [ReadOnlySpan](./readonlyspan/)(const typename std::enable_if\<std::is_same\<T1, uint8_t\>::value, char\>::type(&)) | Constructs a read-only span from a string literal. |
 | static [to_ReadOnlySpan](./to_readonlyspan/)(const typename BaseType::ArrayPtrT\&) | Converts an array to a [ReadOnlySpan](./). |
 ## Remarks
 

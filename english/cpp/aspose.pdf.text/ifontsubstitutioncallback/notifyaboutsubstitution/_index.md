@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.text/ifontsubstitutioncallback/notifyaboutsubstitution/
 Sends notification about font substitution via event mechanism.
 
 ```cpp
-virtual void Aspose::Pdf::Text::IFontSubstitutionCallback::NotifyAboutSubstitution(System::SharedPtr<Aspose::Pdf::Text::Font> oldFont, System::SharedPtr<Aspose::Pdf::Text::Font> newFont)=0
+virtual void Aspose::Pdf::Text::IFontSubstitutionCallback::NotifyAboutSubstitution(const System::SharedPtr<Aspose::Pdf::Text::Font> &oldFont, const System::SharedPtr<Aspose::Pdf::Text::Font> &newFont)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| oldFont | System::SharedPtr\<Aspose::Pdf::Text::Font\> | original font |
-| newFont | System::SharedPtr\<Aspose::Pdf::Text::Font\> | new font |
+| oldFont | const System::SharedPtr\<Aspose::Pdf::Text::Font\>\& | original font |
+| newFont | const System::SharedPtr\<Aspose::Pdf::Text::Font\>\& | new font |
 
 ## See Also
 

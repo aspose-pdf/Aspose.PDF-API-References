@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/iplugin/process/
 Charges a plugin to process with defined options.
 
 ```cpp
-virtual System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::IPlugin::Process(System::SharedPtr<IPluginOptions> options)=0
+virtual System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::IPlugin::Process(const System::SharedPtr<IPluginOptions> &options)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object containing instructions for the plugin |
+| options | const System::SharedPtr\<IPluginOptions\>\& | An options object containing instructions for the plugin |
 
 ### ReturnValue
 

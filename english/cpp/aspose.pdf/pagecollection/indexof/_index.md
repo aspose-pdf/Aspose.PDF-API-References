@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/indexof/
 Returns index of the specified page.
 
 ```cpp
-int32_t Aspose::Pdf::PageCollection::IndexOf(const System::SharedPtr<Page> &entity) const
+int32_t Aspose::Pdf::PageCollection::IndexOf(const System::SharedPtr<Page> &entity)
 ```
 
 

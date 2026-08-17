@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/itexoutputdirectory/getoutputfile/
 Returns the stream to write to.
 
 ```cpp
-virtual System::SharedPtr<System::IO::Stream> Aspose::Pdf::ITeXOutputDirectory::GetOutputFile(System::String fileName, System::String &fullName)=0
+virtual System::SharedPtr<System::IO::Stream> Aspose::Pdf::ITeXOutputDirectory::GetOutputFile(const System::String &fileName, System::String &fullName)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | The file name. |
+| fileName | const System::String\& | The file name. |
 | fullName | System::String\& | The full file name. |
 
 ### ReturnValue

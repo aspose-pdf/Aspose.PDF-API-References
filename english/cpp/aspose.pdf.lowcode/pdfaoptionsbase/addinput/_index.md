@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/pdfaoptionsbase/addinput/
 Adds new data source to the collection.
 
 ```cpp
-void Aspose::Pdf::LowCode::PdfAOptionsBase::AddInput(System::SharedPtr<IDataSource> dataSource) override
+void Aspose::Pdf::LowCode::PdfAOptionsBase::AddInput(const System::SharedPtr<IDataSource> &dataSource) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dataSource | System::SharedPtr\<IDataSource\> |  |
+| dataSource | const System::SharedPtr\<IDataSource\>\& |  |
 
 ## See Also
 

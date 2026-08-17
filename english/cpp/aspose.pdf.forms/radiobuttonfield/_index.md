@@ -22,7 +22,7 @@ class RadioButtonField : public Aspose::Pdf::Forms::ChoiceField
 | --- | --- |
 | [Add](./add/)(const System::SharedPtr\<RadioButtonOptionField\>\&) | Adds new option field to RadioButton field. |
 | [AddOption](./addoption/)(const System::String\&, const System::SharedPtr\<Rectangle\>\&) | Add to radio button option with specifed rectangle. |
-| [AddOption](./addoption/)(System::String) override | Add option to radion button. |
+| [AddOption](./addoption/)(const System::String\&) override | Add option to radion button. |
 | [get_NoToggleToOff](./get_notoggletooff/)() | Get or sets the flag that allows the radiobutton to have no selected value. If **true**
 
 , exactly one radio button shall be selected at all times; selecting the currently selected button has no effect. If **false**

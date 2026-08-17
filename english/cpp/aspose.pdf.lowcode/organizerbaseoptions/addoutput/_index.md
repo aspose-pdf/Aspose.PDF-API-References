@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/organizerbaseoptions/addoutput/
 Adds new data source to the PdfOrganizer plugin data collection.
 
 ```cpp
-void Aspose::Pdf::LowCode::OrganizerBaseOptions::AddOutput(System::SharedPtr<IDataSource> saveDataSource) override
+void Aspose::Pdf::LowCode::OrganizerBaseOptions::AddOutput(const System::SharedPtr<IDataSource> &saveDataSource) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveDataSource | System::SharedPtr\<IDataSource\> | Data source (file or stream) for saving operation results. |
+| saveDataSource | const System::SharedPtr\<IDataSource\>\& | Data source (file or stream) for saving operation results. |
 
 ## See Also
 

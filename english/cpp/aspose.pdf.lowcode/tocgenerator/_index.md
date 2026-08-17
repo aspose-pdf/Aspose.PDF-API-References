@@ -22,7 +22,7 @@ class TocGenerator : public Aspose::Pdf::LowCode::IPlugin,
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Implementation of IDisposable. In fact, it is not necessary for [TocGenerator](./). |
-| [Process](./process/)(System::SharedPtr\<IPluginOptions\>) override | Starts the PdfGenerator processing with the specified parameters. |
+| [Process](./process/)(const System::SharedPtr\<IPluginOptions\>\&) override | Starts the PdfGenerator processing with the specified parameters. |
 ## See Also
 
 * Class [IPlugin](../iplugin/)

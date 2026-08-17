@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/inameddestinationcollection/remove/
 Removes destination by its name.
 
 ```cpp
-virtual void Aspose::Pdf::INamedDestinationCollection::Remove(System::String name)=0
+virtual void Aspose::Pdf::INamedDestinationCollection::Remove(const System::String &name)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name value. |
+| name | const System::String\& | Name value. |
 
 ## See Also
 

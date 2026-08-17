@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionproperty/getxml/
 Returns the list of xml elements that represent property in xml tree.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Xml::XmlElement>>> Aspose::Pdf::XmpPdfAExtensionProperty::GetXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument) override
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Xml::XmlElement>>> Aspose::Pdf::XmpPdfAExtensionProperty::GetXml(const System::SharedPtr<System::Xml::XmlDocument> &xmlDocument) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlDocument | System::SharedPtr\<System::Xml::XmlDocument\> | The source xml document. |
+| xmlDocument | const System::SharedPtr\<System::Xml::XmlDocument\>\& | The source xml document. |
 
 ### ReturnValue
 

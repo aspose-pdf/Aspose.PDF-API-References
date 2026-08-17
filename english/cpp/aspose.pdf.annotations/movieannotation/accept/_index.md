@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/movieannotation/accept/
 Accepts visitor object to process the annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::MovieAnnotation::Accept(System::SharedPtr<AnnotationSelector> visitor) override
+void Aspose::Pdf::Annotations::MovieAnnotation::Accept(const System::SharedPtr<AnnotationSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<AnnotationSelector\> | Visitor object. |
+| visitor | const System::SharedPtr\<AnnotationSelector\>\& | Visitor object. |
 
 ## See Also
 

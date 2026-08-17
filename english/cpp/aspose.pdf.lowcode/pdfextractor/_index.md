@@ -22,7 +22,7 @@ class PdfExtractor : public Aspose::Pdf::LowCode::IPlugin,
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Implementation of IDisposable. Actually, it is not necessary for [PdfExtractor](./). |
-| [Process](./process/)(System::SharedPtr\<IPluginOptions\>) override | Starts [PdfExtractor](./) processing with the specified parameters. |
+| [Process](./process/)(const System::SharedPtr\<IPluginOptions\>\&) override | Starts [PdfExtractor](./) processing with the specified parameters. |
 ## Remarks
 
 

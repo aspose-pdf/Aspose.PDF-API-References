@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.security/icustomsecurityhandler/isownerpassword/
 Check if the password is the document owner's password. The method is called after Initialize. The method call is used in the PDF API.
 
 ```cpp
-virtual bool Aspose::Pdf::Security::ICustomSecurityHandler::IsOwnerPassword(System::String password)=0
+virtual bool Aspose::Pdf::Security::ICustomSecurityHandler::IsOwnerPassword(const System::String &password)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| password | System::String | The password. |
+| password | const System::String\& | The password. |
 
 ### ReturnValue
 

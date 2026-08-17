@@ -4,7 +4,7 @@ linktitle: Cast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Runtime::InteropServices::MemoryMarshal::Cast method. Casts a Span of one primitive type TFrom to another primitive type TTo in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.runtime.interopservices/memorymarshal/cast/
 ---
 ## MemoryMarshal::Cast method
@@ -15,6 +15,20 @@ Casts a [Span](../../../system/span/) of one primitive type TFrom to another pri
 ```cpp
 template<typename TFrom,typename TTo> static Span<TTo> System::Runtime::InteropServices::MemoryMarshal::Cast(const Span<TFrom> &span)
 ```
+
+
+| Parameter | Description |
+| --- | --- |
+| TFrom | The source type of the span. |
+| TTo | The target type of the span. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| span | const Span\<TFrom\>\& | The span to cast. |
+
+### ReturnValue
+
+A span of the target type.
 
 ## See Also
 

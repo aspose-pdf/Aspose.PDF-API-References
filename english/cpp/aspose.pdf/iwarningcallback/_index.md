@@ -20,7 +20,7 @@ class IWarningCallback : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [Warning](./warning/)(System::SharedPtr\<WarningInfo\>) | The callback method for some program notifications. |
+| virtual [Warning](./warning/)(const System::SharedPtr\<WarningInfo\>\&) | The callback method for some program notifications. |
 ## See Also
 
 * Class [Object](../../system/object/)

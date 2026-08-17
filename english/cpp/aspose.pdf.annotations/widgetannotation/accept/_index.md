@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/accept/
 Accepts visitor.
 
 ```cpp
-void Aspose::Pdf::Annotations::WidgetAnnotation::Accept(System::SharedPtr<AnnotationSelector> visitor) override
+void Aspose::Pdf::Annotations::WidgetAnnotation::Accept(const System::SharedPtr<AnnotationSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<AnnotationSelector\> | Visitor to be accepted. |
+| visitor | const System::SharedPtr\<AnnotationSelector\>\& | Visitor to be accepted. |
 
 ## See Also
 

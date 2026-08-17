@@ -21,7 +21,7 @@ class ITextElement : public virtual System::Object
 | Method | Description |
 | --- | --- |
 | virtual [get_StructureTextState](./get_structuretextstate/)() | Gets [T:/Aspose::Pdf::LogicalStructure::StructureTextState](../) object for text structure element. |
-| virtual [SetText](./settext/)(System::String) | Appends text content to current text element. |
+| virtual [SetText](./settext/)(const System::String\&) | Appends text content to current text element. |
 ## See Also
 
 * Class [Object](../../system/object/)

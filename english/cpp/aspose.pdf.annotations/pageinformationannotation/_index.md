@@ -20,7 +20,7 @@ class PageInformationAnnotation : public Aspose::Pdf::Annotations::PrinterMarkAn
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor for annotation processing. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor for annotation processing. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [PageInformationAnnotation](./pageinformationannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Initializes a new instance of the [PageInformationAnnotation](./) class on the given page in the given location. |
 ## Remarks

@@ -21,7 +21,7 @@ class XmpPdfAExtensionProperty : public Aspose::Pdf::XmpPdfAExtensionField
 | Method | Description |
 | --- | --- |
 | [get_Category](./get_category/)() const | Gets the property category. |
-| [GetXml](./getxml/)(System::SharedPtr\<System::Xml::XmlDocument\>) override | Returns the list of xml elements that represent property in xml tree. |
+| [GetXml](./getxml/)(const System::SharedPtr\<System::Xml::XmlDocument\>\&) override | Returns the list of xml elements that represent property in xml tree. |
 | [XmpPdfAExtensionProperty](./xmppdfaextensionproperty/)(const System::String\&, const System::String\&, const System::String\&, XmpPdfAExtensionCategoryType, const System::String\&) | Initializes new object. |
 ## See Also
 

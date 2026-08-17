@@ -4,7 +4,7 @@ linktitle: FromStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Drawing::Image::FromStream method. Creates an Image object from the specified stream in C++.'
 type: docs
-weight: 2900
+weight: 3100
 url: /cpp/system.drawing/image/fromstream/
 ---
 ## Image::FromStream method

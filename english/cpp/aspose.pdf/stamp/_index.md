@@ -40,7 +40,7 @@ class Stamp : public System::Object
 | [get_ZoomX](./get_zoomx/)() const | Horizontal zooming factor of the stamp. Allows to scale stamp horizontally. |
 | [get_ZoomY](./get_zoomy/)() const | Vertical zooming factor of the stamp. Allows to scale stamp vertically. |
 | [getStampId](./getstampid/)() | Returns stamp ID. |
-| virtual [Put](./put/)(System::SharedPtr\<Page\>) | Adds stamp on the page. |
+| virtual [Put](./put/)(const System::SharedPtr\<Page\>\&) | Adds stamp on the page. |
 | [set_Background](./set_background/)(bool) | Sets or gets a bool value that indicates the content is stamped as background. If the value is true, the stamp content is layed at the bottom. By defalt, the value is false, the stamp content is layed at the top. |
 | [set_BottomMargin](./set_bottommargin/)(double) | Sets bottom margin of stamp. |
 | virtual [set_Height](./set_height/)(double) | Desired height of the stamp on the page. |

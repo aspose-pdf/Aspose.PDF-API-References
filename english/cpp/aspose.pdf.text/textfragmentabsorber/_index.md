@@ -53,9 +53,9 @@ class TextFragmentAbsorber : public Aspose::Pdf::Text::TextAbsorber
 | [TextFragmentAbsorber](./textfragmentabsorber/)(const System::String\&, const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\&, const System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>\&) | Initializes a new instance of the [TextFragmentAbsorber](./) class for the specified text phrase, text search options and text edit options. |
 | [TextFragmentAbsorber](./textfragmentabsorber/)(const System::String\&, const System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>\&) | Initializes a new instance of the [TextFragmentAbsorber](./) class for the specified text phrase and text edit options. |
 | [TextFragmentAbsorber](./textfragmentabsorber/)(const System::SharedPtr\<System::Text::RegularExpressions::Regex\>\&, const System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>\&) | Initializes a new instance of the [TextFragmentAbsorber](./) class for the specified text phrase and text edit options. |
-| [Visit](./visit/)(System::SharedPtr\<Page\>) override | Performs search on the specified page. |
-| [Visit](./visit/)(System::SharedPtr\<Document\>) override | Performs search on the specified document. |
-| [Visit](./visit/)(System::SharedPtr\<XForm\>) override | Performs search on the specified form object. |
+| [Visit](./visit/)(const System::SharedPtr\<Page\>\&) override | Performs search on the specified page. |
+| [Visit](./visit/)(const System::SharedPtr\<Document\>\&) override | Performs search on the specified document. |
+| [Visit](./visit/)(const System::SharedPtr\<XForm\>\&) override | Performs search on the specified form object. |
 ## Remarks
 
 

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/inameddestinationcollection/add/
 Adds new named destination.
 
 ```cpp
-virtual void Aspose::Pdf::INamedDestinationCollection::Add(System::String name, System::SharedPtr<Annotations::IAppointment> appointment)=0
+virtual void Aspose::Pdf::INamedDestinationCollection::Add(const System::String &name, const System::SharedPtr<Annotations::IAppointment> &appointment)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name value. |
-| appointment | System::SharedPtr\<Annotations::IAppointment\> | Appointment object. |
+| name | const System::String\& | Name value. |
+| appointment | const System::SharedPtr\<Annotations::IAppointment\>\& | Appointment object. |
 
 ## See Also
 

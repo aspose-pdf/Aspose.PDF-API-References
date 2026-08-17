@@ -4,7 +4,7 @@ linktitle: Range
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Range class. Represents a range with a start and end index. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 5500
+weight: 5600
 url: /cpp/system/range/
 ---
 ## Range class

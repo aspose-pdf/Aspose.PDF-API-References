@@ -20,7 +20,7 @@ class SquareAnnotation : public Aspose::Pdf::Annotations::CommonFigureAnnotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor to process annotation. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor to process annotation. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [SquareAnnotation](./squareannotation/)(const System::SharedPtr\<Document\>\&) | Constructor for using with Generator. |
 | [SquareAnnotation](./squareannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Creates new Square annotation on the specified page. |

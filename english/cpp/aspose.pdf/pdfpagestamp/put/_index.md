@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/pdfpagestamp/put/
 Put stamp on the specified page.
 
 ```cpp
-void Aspose::Pdf::PdfPageStamp::Put(System::SharedPtr<Page> page) override
+void Aspose::Pdf::PdfPageStamp::Put(const System::SharedPtr<Page> &page) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Page](../../page/) where stamp will be placed. |
+| page | const System::SharedPtr\<Page\>\& | [Page](../../page/) where stamp will be placed. |
 
 ## See Also
 

@@ -7,19 +7,19 @@ type: docs
 weight: 2100
 url: /cpp/aspose.pdf.text/textfragmentabsorber/visit/
 ---
-## TextFragmentAbsorber::Visit(System::SharedPtr\<Document\>) method
+## TextFragmentAbsorber::Visit(const System::SharedPtr\<Document\>\&) method
 
 
 Performs search on the specified document.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragmentAbsorber::Visit(System::SharedPtr<Document> pdf) override
+void Aspose::Pdf::Text::TextFragmentAbsorber::Visit(const System::SharedPtr<Document> &pdf) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdf | System::SharedPtr\<Document\> | PDF document object. |
+| pdf | const System::SharedPtr\<Document\>\& | PDF document object. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::Visit(System::SharedPtr<Document> 
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextFragmentAbsorber::Visit(System::SharedPtr\<Page\>) method
+## TextFragmentAbsorber::Visit(const System::SharedPtr\<Page\>\&) method
 
 
 Performs search on the specified page.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragmentAbsorber::Visit(System::SharedPtr<Page> page) override
+void Aspose::Pdf::Text::TextFragmentAbsorber::Visit(const System::SharedPtr<Page> &page) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | PDF document page object. |
+| page | const System::SharedPtr\<Page\>\& | PDF document page object. |
 
 ## See Also
 
@@ -49,19 +49,19 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::Visit(System::SharedPtr<Page> page
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextFragmentAbsorber::Visit(System::SharedPtr\<XForm\>) method
+## TextFragmentAbsorber::Visit(const System::SharedPtr\<XForm\>\&) method
 
 
 Performs search on the specified form object.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragmentAbsorber::Visit(System::SharedPtr<XForm> xForm) override
+void Aspose::Pdf::Text::TextFragmentAbsorber::Visit(const System::SharedPtr<XForm> &xForm) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xForm | System::SharedPtr\<XForm\> | [Pdf](../../../aspose.pdf/) form object. |
+| xForm | const System::SharedPtr\<XForm\>\& | [Pdf](../../../aspose.pdf/) form object. |
 
 ## See Also
 

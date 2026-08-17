@@ -20,8 +20,8 @@ class InkAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
-| [ChangeAfterResize](./changeafterresize/)(System::SharedPtr\<Matrix\>) override | Updates the points in InkList, according to the matrix transform. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor object to process the annotation. |
+| [ChangeAfterResize](./changeafterresize/)(const System::SharedPtr\<Matrix\>\&) override | Updates the points in InkList, according to the matrix transform. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_CapStyle](./get_capstyle/)() | Style of ink annotation line endings. |
 | [get_InkList](./get_inklist/)() | Gets list of gestures that are independent lines which are represented by [Point](../../aspose.pdf/point/)[] arrays. |

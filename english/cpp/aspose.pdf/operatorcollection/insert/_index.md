@@ -53,20 +53,20 @@ void Aspose::Pdf::OperatorCollection::Insert(int32_t at, const System::SharedPtr
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## OperatorCollection::Insert(int32_t, System::SharedPtr\<Operator\>) method
+## OperatorCollection::Insert(int32_t, const System::SharedPtr\<Operator\>\&) method
 
 
 Inserts operator into collection.
 
 ```cpp
-void Aspose::Pdf::OperatorCollection::Insert(int32_t index, System::SharedPtr<Operator> op) override
+void Aspose::Pdf::OperatorCollection::Insert(int32_t index, const System::SharedPtr<Operator> &op) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | Index where new operator must be added |
-| op | System::SharedPtr\<Operator\> | [Operator](../../operator/) which will be insterted |
+| op | const System::SharedPtr\<Operator\>\& | [Operator](../../operator/) which will be insterted |
 
 ## See Also
 

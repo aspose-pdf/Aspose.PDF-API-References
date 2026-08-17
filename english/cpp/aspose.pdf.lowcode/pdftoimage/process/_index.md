@@ -17,13 +17,13 @@ Starts
 processing with the specified parameters.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::PdfToImage::Process(System::SharedPtr<IPluginOptions> pdfImageOptions) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::PdfToImage::Process(const System::SharedPtr<IPluginOptions> &pdfImageOptions) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdfImageOptions | System::SharedPtr\<IPluginOptions\> | An options object containing instructions for the PdfImage. |
+| pdfImageOptions | const System::SharedPtr\<IPluginOptions\>\& | An options object containing instructions for the PdfImage. |
 
 ### ReturnValue
 

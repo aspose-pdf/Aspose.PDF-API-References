@@ -20,7 +20,7 @@ class PopupAnnotation : public Aspose::Pdf::Annotations::Annotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor object to process the annotation. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Open](./get_open/)() | Gets a flag specifying whether the pop-up annotation should initially be displayed open. |
 | [get_Parent](./get_parent/)() | Gets the parent annotation with which this pop-up annotation shall be associated. If this entry is present, the parent annotation's Contents, M, C, and T entries shall override those of the pop-up annotation itself. |

@@ -22,7 +22,7 @@ class XmpPdfAExtensionObject : public System::Object
 | --- | --- |
 | [get_Description](./get_description/)() const | Gets the description. |
 | [get_Value](./get_value/)() const | Gets the value. |
-| virtual [GetXml](./getxml/)(System::SharedPtr\<System::Xml::XmlDocument\>) | Returns the list of xml elements that represent object in xml tree. |
+| virtual [GetXml](./getxml/)(const System::SharedPtr\<System::Xml::XmlDocument\>\&) | Returns the list of xml elements that represent object in xml tree. |
 | [set_Value](./set_value/)(const System::String\&) | Sets the value. |
 ## See Also
 

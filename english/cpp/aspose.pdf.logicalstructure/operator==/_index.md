@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/operator==/
 
 
 ```cpp
-bool Aspose::Pdf::LogicalStructure::operator==(const AttributeName::AttributeKeyName &left, const AttributeName::AttributeKeyName &right)
+bool Aspose::Pdf::LogicalStructure::operator==(AttributeName::AttributeKeyName left, AttributeName::AttributeKeyName right)
 ```
 
 ## See Also

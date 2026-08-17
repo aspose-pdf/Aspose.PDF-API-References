@@ -20,7 +20,7 @@ class Security : public Aspose::Pdf::LowCode::IPlugin
 
 | Method | Description |
 | --- | --- |
-| [Process](./process/)(System::SharedPtr\<IPluginOptions\>) override | Starts the [Security](./) processing with the specified parameters. |
+| [Process](./process/)(const System::SharedPtr\<IPluginOptions\>\&) override | Starts the [Security](./) processing with the specified parameters. |
 ## See Also
 
 * Class [IPlugin](../iplugin/)

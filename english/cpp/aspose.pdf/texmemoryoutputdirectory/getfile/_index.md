@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/texmemoryoutputdirectory/getfile/
 Returns the stream to read from.
 
 ```cpp
-System::SharedPtr<System::IO::Stream> Aspose::Pdf::TeXMemoryOutputDirectory::GetFile(System::String fileName, System::String &fullName, bool searchSubdirectories=false) override
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::TeXMemoryOutputDirectory::GetFile(const System::String &fileName, System::String &fullName, bool searchSubdirectories=false) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | The file name. |
+| fileName | const System::String\& | The file name. |
 | fullName | System::String\& | The full file name. |
 | searchSubdirectories | bool | Indicates whether to look for a file in subdirectories. In this implementation has no effect. |
 

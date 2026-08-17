@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/tablegenerator/process/
 Starts the PdfGenerator processing with the specified parameters.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::TableGenerator::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::TableGenerator::Process(const System::SharedPtr<IPluginOptions> &options) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object contains instructions for the PdfGenerator. |
+| options | const System::SharedPtr\<IPluginOptions\>\& | An options object contains instructions for the PdfGenerator. |
 
 ### ReturnValue
 

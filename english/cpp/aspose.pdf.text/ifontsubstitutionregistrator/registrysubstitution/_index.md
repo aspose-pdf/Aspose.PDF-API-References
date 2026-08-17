@@ -7,20 +7,20 @@ type: docs
 weight: 200
 url: /cpp/aspose.pdf.text/ifontsubstitutionregistrator/registrysubstitution/
 ---
-## IFontSubstitutionRegistrator::RegistrySubstitution(System::SharedPtr\<Aspose::Font::Sources::FontDefinition\>, System::SharedPtr\<Aspose::Font::Sources::FontDefinition\>) method
+## IFontSubstitutionRegistrator::RegistrySubstitution(const System::SharedPtr\<Aspose::Font::Sources::FontDefinition\>\&, const System::SharedPtr\<Aspose::Font::Sources::FontDefinition\>\&) method
 
 
 Register substitution for fonts which are represented via FontDefinition objects. This method was added due to necessity to register "implicit" substitutions which have place in PdfFont object.
 
 ```cpp
-virtual void Aspose::Pdf::Text::IFontSubstitutionRegistrator::RegistrySubstitution(System::SharedPtr<Aspose::Font::Sources::FontDefinition> oldFontDef, System::SharedPtr<Aspose::Font::Sources::FontDefinition> newFontDef)=0
+virtual void Aspose::Pdf::Text::IFontSubstitutionRegistrator::RegistrySubstitution(const System::SharedPtr<Aspose::Font::Sources::FontDefinition> &oldFontDef, const System::SharedPtr<Aspose::Font::Sources::FontDefinition> &newFontDef)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| oldFontDef | System::SharedPtr\<Aspose::Font::Sources::FontDefinition\> | [Font](../../font/) definition for original font |
-| newFontDef | System::SharedPtr\<Aspose::Font::Sources::FontDefinition\> | [Font](../../font/) definition for new font |
+| oldFontDef | const System::SharedPtr\<Aspose::Font::Sources::FontDefinition\>\& | [Font](../../font/) definition for original font |
+| newFontDef | const System::SharedPtr\<Aspose::Font::Sources::FontDefinition\>\& | [Font](../../font/) definition for new font |
 
 ## See Also
 
@@ -28,21 +28,21 @@ virtual void Aspose::Pdf::Text::IFontSubstitutionRegistrator::RegistrySubstituti
 * Class [IFontSubstitutionRegistrator](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IFontSubstitutionRegistrator::RegistrySubstitution(System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\>, System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\>, System::SharedPtr\<Engine::Data::ITrailerable\>) method
+## IFontSubstitutionRegistrator::RegistrySubstitution(const System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\>\&, const System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\>\&, const System::SharedPtr\<Engine::Data::ITrailerable\>\&) method
 
 
 Register substitution for passed fonts. Fonts passed as IPdfFont objects in this method.
 
 ```cpp
-virtual void Aspose::Pdf::Text::IFontSubstitutionRegistrator::RegistrySubstitution(System::SharedPtr<Engine::CommonData::Text::Fonts::IPdfFont> oldFont, System::SharedPtr<Engine::CommonData::Text::Fonts::IPdfFont> newFont, System::SharedPtr<Engine::Data::ITrailerable> trailerable)=0
+virtual void Aspose::Pdf::Text::IFontSubstitutionRegistrator::RegistrySubstitution(const System::SharedPtr<Engine::CommonData::Text::Fonts::IPdfFont> &oldFont, const System::SharedPtr<Engine::CommonData::Text::Fonts::IPdfFont> &newFont, const System::SharedPtr<Engine::Data::ITrailerable> &trailerable)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| oldFont | System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\> | original font |
-| newFont | System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\> | new font which replaces an original font |
-| trailerable | System::SharedPtr\<Engine::Data::ITrailerable\> | trailerable |
+| oldFont | const System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\>\& | original font |
+| newFont | const System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\>\& | new font which replaces an original font |
+| trailerable | const System::SharedPtr\<Engine::Data::ITrailerable\>\& | trailerable |
 
 ## See Also
 

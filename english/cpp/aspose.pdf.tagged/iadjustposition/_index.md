@@ -20,7 +20,7 @@ class IAdjustPosition : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [AdjustPosition](./adjustposition/)(System::SharedPtr\<PositionSettings\>) | Adjust position. |
+| virtual [AdjustPosition](./adjustposition/)(const System::SharedPtr\<PositionSettings\>\&) | Adjust position. |
 ## See Also
 
 * Class [Object](../../system/object/)

@@ -29,7 +29,7 @@ class TableAbsorber : public System::Object
 | [set_UseFlowEngine](./set_useflowengine/)(bool) |  |
 | [TableAbsorber](./tableabsorber/)(const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\&) | Initializes a new instance of the [TableAbsorber](./) with text search options. |
 | [TableAbsorber](./tableabsorber/)() | Initializes a new instance of the [TableAbsorber](./). |
-| virtual [Visit](./visit/)(System::SharedPtr\<Page\>) | Extracts tables on the specified page. |
+| virtual [Visit](./visit/)(const System::SharedPtr\<Page\>\&) | Extracts tables on the specified page. |
 | [Visit](./visit/)(const System::SharedPtr\<Document\>\&) | Extracts tables in the specified document. |
 ## See Also
 

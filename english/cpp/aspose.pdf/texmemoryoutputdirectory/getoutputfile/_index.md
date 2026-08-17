@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/texmemoryoutputdirectory/getoutputfile/
 Returns the stream to write to.
 
 ```cpp
-System::SharedPtr<System::IO::Stream> Aspose::Pdf::TeXMemoryOutputDirectory::GetOutputFile(System::String fileName, System::String &fullName) override
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::TeXMemoryOutputDirectory::GetOutputFile(const System::String &fileName, System::String &fullName) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | The file name. |
+| fileName | const System::String\& | The file name. |
 | fullName | System::String\& | The full file name. |
 
 ### ReturnValue

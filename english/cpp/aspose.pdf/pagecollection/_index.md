@@ -42,10 +42,10 @@ class PageCollection : public System::Collections::Generic::ICollection<System::
 | [get_Count](./get_count/)() const override | Gets count of pages in the document. |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Gets value indicating of collection is readonly. Always returns false. |
 | [get_IsSynchronized](./get_issynchronized/)() | Returns true of object is synchorinzed. |
-| [get_SyncRoot](./get_syncroot/)() const | Gets synchronization object of the collection. |
+| [get_SyncRoot](./get_syncroot/)() | Gets synchronization object of the collection. |
 | [GetEnumerator](./getenumerator/)() override | Returns enumerator of pages. |
 | [idx_get](./idx_get/)(int32_t) | Gets page by index. |
-| [IndexOf](./indexof/)(const System::SharedPtr\<Page\>\&) const | Returns index of the specified page. |
+| [IndexOf](./indexof/)(const System::SharedPtr\<Page\>\&) | Returns index of the specified page. |
 | [Insert](./insert/)(int32_t) | Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
 | [Insert](./insert/)(int32_t, const System::SharedPtr\<Page\>\&) | Inserts page into page collection at specified place. |
 | [Insert](./insert/)(int32_t, const System::SharedPtr\<System::Collections::Generic::ICollection\<System::SharedPtr\<Page\>\>\>\&) | Inserts pages from the collection into document. |

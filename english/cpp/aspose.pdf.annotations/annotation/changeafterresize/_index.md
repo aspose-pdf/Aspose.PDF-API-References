@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/annotation/changeafterresize/
 Update parameters and appearance, according to the matrix transform.
 
 ```cpp
-virtual void Aspose::Pdf::Annotations::Annotation::ChangeAfterResize(System::SharedPtr<Matrix> transform)
+virtual void Aspose::Pdf::Annotations::Annotation::ChangeAfterResize(const System::SharedPtr<Matrix> &transform)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| transform | System::SharedPtr\<Matrix\> | [Matrix](../../../aspose.pdf/matrix/) that use for transformation (resize). |
+| transform | const System::SharedPtr\<Matrix\>\& | [Matrix](../../../aspose.pdf/matrix/) that use for transformation (resize). |
 
 ## See Also
 

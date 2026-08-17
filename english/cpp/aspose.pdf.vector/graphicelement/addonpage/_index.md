@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.vector/graphicelement/addonpage/
 Adds current element on the page. If there are many elements to add better use [Page::AddGraphics(GraphicElementCollection, Rectangle)](../).
 
 ```cpp
-virtual void Aspose::Pdf::Vector::GraphicElement::AddOnPage(System::SharedPtr<Page> destination)
+virtual void Aspose::Pdf::Vector::GraphicElement::AddOnPage(const System::SharedPtr<Page> &destination)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destination | System::SharedPtr\<Page\> | Destination page |
+| destination | const System::SharedPtr\<Page\>\& | Destination page |
 
 ## See Also
 

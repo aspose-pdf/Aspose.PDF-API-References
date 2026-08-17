@@ -41,6 +41,7 @@ class Image : public virtual System::IDisposable
 | [GetBounds](./getbounds/)(GraphicsUnit\&) | Returns the image bounds in the specified measurement units. |
 | [GetFrameCount](./getframecount/)(const Imaging::FrameDimensionPtr\&) | Returns the number of frames of the specified frame dimension. |
 | static [GetPixelFormatSize](./getpixelformatsize/)(Imaging::PixelFormat) | Returns the number of bits used to represent the color depth in the specified pixel format. |
+| [GetPropertyItem](./getpropertyitem/)(int) const | Gets the property item with the specified ID from this image. |
 | virtual [GetSkBitmap](./getskbitmap/)() const | Returns an underlying SkBitmap object. |
 | [GetThumbnailImage](./getthumbnailimage/)(int, int, Image::GetThumbnailImageAbort, IntPtr) | Gets a thumbnail for this [System::Drawing::Image](./) object. |
 | static [IsAlphaPixelFormat](./isalphapixelformat/)(Imaging::PixelFormat) | Determines if the specified pixel format contains alpha information. |
@@ -56,6 +57,7 @@ class Image : public virtual System::IDisposable
 | [SelectActiveFrame](./selectactiveframe/)(const Imaging::FrameDimensionPtr\&, int) | Selects the specified frame. |
 | virtual [set_Palette](./set_palette/)(Imaging::ColorPalettePtr) | Sets the color palette used by the image represented by the current object. |
 | virtual [set_Tag](./set_tag/)(const System::SharedPtr\<System::Object\>) | Sets an object that provides additional data about the image. |
+| [SetPropertyItem](./setpropertyitem/)(const SharedPtr\<Imaging::PropertyItem\>\&) | Sets the specified property item for this image. |
 ## Typedefs
 
 | Typedef | Description |

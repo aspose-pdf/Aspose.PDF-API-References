@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/stampannotation/accept/
 Acepts [AnnotationSelector](../../annotationselector/) visitor when browsing annotation collection.
 
 ```cpp
-void Aspose::Pdf::Annotations::StampAnnotation::Accept(System::SharedPtr<AnnotationSelector> visitor) override
+void Aspose::Pdf::Annotations::StampAnnotation::Accept(const System::SharedPtr<AnnotationSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<AnnotationSelector\> | Visitor object. |
+| visitor | const System::SharedPtr\<AnnotationSelector\>\& | Visitor object. |
 
 ## See Also
 

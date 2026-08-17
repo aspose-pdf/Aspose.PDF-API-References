@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/formexporter/process/
 Starts the [FormExporter](../) processing with the specified options.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::FormExporter::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::FormExporter::Process(const System::SharedPtr<IPluginOptions> &options) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object containing instructions for the [FormExporter](../). |
+| options | const System::SharedPtr\<IPluginOptions\>\& | An options object containing instructions for the [FormExporter](../). |
 
 ### ReturnValue
 

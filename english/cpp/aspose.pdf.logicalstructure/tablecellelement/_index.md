@@ -22,7 +22,7 @@ class TableCellElement : public Aspose::Pdf::LogicalStructure::TableChildElement
 
 | Method | Description |
 | --- | --- |
-| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Tagged::PositionSettings\>) override |  |
+| [AdjustPosition](./adjustposition/)(const System::SharedPtr\<Tagged::PositionSettings\>\&) override |  |
 | [get_Alignment](./get_alignment/)() const | Gets the cell alignment. |
 | [get_BackgroundColor](./get_backgroundcolor/)() const | Gets the cell background color. |
 | [get_Border](./get_border/)() const | Gets the cell border. |
@@ -44,7 +44,7 @@ class TableCellElement : public Aspose::Pdf::LogicalStructure::TableChildElement
 | [set_Margin](./set_margin/)(const System::SharedPtr\<MarginInfo\>\&) | Sets the padding. |
 | [set_RowSpan](./set_rowspan/)(int32_t) | Sets the row span. |
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Pdf::VerticalAlignment) | Sets the vertical alignment. |
-| [SetText](./settext/)(System::String) override | Appends text content to current text element. |
+| [SetText](./settext/)(const System::String\&) override | Appends text content to current text element. |
 ## See Also
 
 * Class [TableChildElement](../tablechildelement/)

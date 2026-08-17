@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/pdfaconverter/process/
 Begins a PDF/A conversion or validation process with given options.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::PdfAConverter::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::PdfAConverter::Process(const System::SharedPtr<IPluginOptions> &options) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object containing instructions for the plugin. Must be an instance of the [PdfAConvertOptions](../../pdfaconvertoptions/) or the [PdfAValidateOptions](../../pdfavalidateoptions/) class. |
+| options | const System::SharedPtr\<IPluginOptions\>\& | An options object containing instructions for the plugin. Must be an instance of the [PdfAConvertOptions](../../pdfaconvertoptions/) or the [PdfAValidateOptions](../../pdfavalidateoptions/) class. |
 
 ### ReturnValue
 

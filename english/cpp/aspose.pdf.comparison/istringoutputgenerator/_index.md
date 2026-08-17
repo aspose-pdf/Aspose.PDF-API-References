@@ -20,8 +20,8 @@ class IStringOutputGenerator : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [GenerateOutput](./generateoutput/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>) | Generates the output based on the differences between texts and saves it to a file. |
-| virtual [GenerateOutput](./generateoutput/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>) | Generates the output based on the differences between texts and saves it to a file. |
+| virtual [GenerateOutput](./generateoutput/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\&) | Generates the output based on the differences between texts and saves it to a file. |
+| virtual [GenerateOutput](./generateoutput/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>\&) | Generates the output based on the differences between texts and saves it to a file. |
 ## See Also
 
 * Class [Object](../../system/object/)

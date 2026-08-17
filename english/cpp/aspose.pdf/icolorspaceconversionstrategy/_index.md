@@ -20,7 +20,7 @@ class IColorSpaceConversionStrategy : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [Convert](./convert/)(System::SharedPtr\<Page\>) | Converts the page of document. |
+| virtual [Convert](./convert/)(const System::SharedPtr\<Page\>\&) | Converts the page of document. |
 ## See Also
 
 * Class [Object](../../system/object/)

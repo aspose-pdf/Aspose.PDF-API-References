@@ -7,20 +7,20 @@ type: docs
 weight: 500
 url: /cpp/aspose.pdf.text/fontrepository/openfont/
 ---
-## FontRepository::OpenFont(const System::SharedPtr\<System::IO::Stream\>\&, const FontTypes\&) method
+## FontRepository::OpenFont(const System::SharedPtr\<System::IO::Stream\>\&, FontTypes) method
 
 
 Opens font with specified font stream.
 
 ```cpp
-static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::OpenFont(const System::SharedPtr<System::IO::Stream> &fontStream, const FontTypes &fontType)
+static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::OpenFont(const System::SharedPtr<System::IO::Stream> &fontStream, FontTypes fontType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fontStream | const System::SharedPtr\<System::IO::Stream\>\& | [Font](../../font/) stream. |
-| fontType | const FontTypes\& | [Font](../../font/) type value. |
+| fontType | FontTypes | [Font](../../font/) type value. |
 
 ### ReturnValue
 

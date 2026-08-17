@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/xlsconverter/process/
 Starts the PdfToExcel processing with the specified parameters.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::XlsConverter::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::XlsConverter::Process(const System::SharedPtr<IPluginOptions> &options) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object containing instructions for the [XlsConverter](../). |
+| options | const System::SharedPtr\<IPluginOptions\>\& | An options object containing instructions for the [XlsConverter](../). |
 
 ### ReturnValue
 

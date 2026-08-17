@@ -4,7 +4,7 @@ linktitle: IsMultiImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Drawing::Image::IsMultiImage method. Returns whether the original format is a multi-image in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/system.drawing/image/ismultiimage/
 ---
 ## Image::IsMultiImage method

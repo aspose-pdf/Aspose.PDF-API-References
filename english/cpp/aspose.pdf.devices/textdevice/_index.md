@@ -22,7 +22,7 @@ class TextDevice : public Aspose::Pdf::Devices::PageDevice
 | --- | --- |
 | [get_Encoding](./get_encoding/)() const | Gets encoding of extracted text. |
 | [get_ExtractionOptions](./get_extractionoptions/)() const | Gets text extraction options. |
-| [Process](./process/)(System::SharedPtr\<Page\>, System::SharedPtr\<System::IO::Stream\>) override | Convert page and save it as text stream. |
+| [Process](./process/)(const System::SharedPtr\<Page\>\&, const System::SharedPtr\<System::IO::Stream\>\&) override | Convert page and save it as text stream. |
 | [set_Encoding](./set_encoding/)(const System::SharedPtr\<System::Text::Encoding\>\&) | Sets encoding of extracted text. |
 | [set_ExtractionOptions](./set_extractionoptions/)(const System::SharedPtr\<Text::TextExtractionOptions\>\&) | Sets text extraction options. |
 | [TextDevice](./textdevice/)(const System::SharedPtr\<Text::TextExtractionOptions\>\&) | Initializes a new instance of the [TextDevice](./) with text extraction options. |

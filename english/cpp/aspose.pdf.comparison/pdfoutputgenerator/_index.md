@@ -21,8 +21,8 @@ class PdfOutputGenerator : public Aspose::Pdf::Comparison::IFileOutputGenerator,
 
 | Method | Description |
 | --- | --- |
-| [GenerateOutput](./generateoutput/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>, System::String) override | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>, System::String) override | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\&, const System::String\&) override | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>\&, const System::String\&) override | Generates the output based on the differences between texts and saves it to a file. |
 | [PdfOutputGenerator](./pdfoutputgenerator/)() | Cteates an instance of [PdfOutputGenerator](./) class. |
 | [PdfOutputGenerator](./pdfoutputgenerator/)(const System::SharedPtr\<PageInfo\>\&) | Cteates an instance of [PdfOutputGenerator](./) class. |
 | [PdfOutputGenerator](./pdfoutputgenerator/)(const System::SharedPtr\<OutputTextStyle\>\&) | Cteates an instance of [PdfOutputGenerator](./) class. |

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metadata/get_syncroot/
 Gets collection synchronization object.
 
 ```cpp
-System::SharedPtr<System::Object> Aspose::Pdf::Metadata::get_SyncRoot() const
+System::SharedPtr<System::Object> Aspose::Pdf::Metadata::get_SyncRoot()
 ```
 
 ## See Also

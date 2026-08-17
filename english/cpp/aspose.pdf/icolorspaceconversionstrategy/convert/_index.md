@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/icolorspaceconversionstrategy/convert/
 Converts the page of document.
 
 ```cpp
-virtual void Aspose::Pdf::IColorSpaceConversionStrategy::Convert(System::SharedPtr<Page> page)=0
+virtual void Aspose::Pdf::IColorSpaceConversionStrategy::Convert(const System::SharedPtr<Page> &page)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | The page of document. |
+| page | const System::SharedPtr\<Page\>\& | The page of document. |
 
 ## See Also
 

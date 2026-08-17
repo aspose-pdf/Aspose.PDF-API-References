@@ -20,7 +20,7 @@ class PDF3DAnnotation : public Aspose::Pdf::Annotations::Annotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor for annotation processing. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor for annotation processing. |
 | [ClearImagePreview](./clearimagepreview/)() | Clears the image preview. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Content](./get_content/)() | Gets the content. |

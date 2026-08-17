@@ -19,7 +19,7 @@ static void System::Runtime::InteropServices::Marshal::WriteInt16(IntPtr ptr, in
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | IntPtr | Memory buffer. |
+| ptr | IntPtr | [Memory](../../../system/memory/) buffer. |
 | offset | int | Offset to memory buffer. |
 | value | int16_t | to write. |
 

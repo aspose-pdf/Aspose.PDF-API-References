@@ -20,7 +20,7 @@ class TrimMarkAnnotation : public Aspose::Pdf::Annotations::CornerPrinterMarkAnn
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor for annotation processing. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor for annotation processing. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [TrimMarkAnnotation](./trimmarkannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, PrinterMarkCornerPosition) | Initializes a new instance of the [TrimMarkAnnotation](./) class. |
 ## Remarks

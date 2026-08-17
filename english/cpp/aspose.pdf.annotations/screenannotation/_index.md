@@ -21,7 +21,7 @@ class ScreenAnnotation : public Aspose::Pdf::Annotations::Annotation,
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor object to process the annotation. |
 | [get_Action](./get_action/)() | Gets an action to be performed when the annotation is activated. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Title](./get_title/)() override | Gets the title of the screen annotation. |

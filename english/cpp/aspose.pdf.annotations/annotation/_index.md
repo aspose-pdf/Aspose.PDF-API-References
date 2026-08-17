@@ -20,8 +20,8 @@ class Annotation : public Aspose::Pdf::BaseParagraph
 
 | Method | Description |
 | --- | --- |
-| virtual [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) | Accepts visitor for annotation processing. |
-| virtual [ChangeAfterResize](./changeafterresize/)(System::SharedPtr\<Matrix\>) | Update parameters and appearance, according to the matrix transform. |
+| virtual [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) | Accepts visitor for annotation processing. |
+| virtual [ChangeAfterResize](./changeafterresize/)(const System::SharedPtr\<Matrix\>\&) | Update parameters and appearance, according to the matrix transform. |
 | virtual [Flatten](./flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
 | [get_Actions](./get_actions/)() | Gets list of annotatation actions. |
 | virtual [get_ActiveState](./get_activestate/)() | Gets current annotation appearance state. |

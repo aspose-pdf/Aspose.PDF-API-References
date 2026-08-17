@@ -19,7 +19,7 @@ static uint8_t System::Runtime::InteropServices::Marshal::ReadByte(IntPtr ptr, i
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | IntPtr | Memory buffer. |
+| ptr | IntPtr | [Memory](../../../system/memory/) buffer. |
 | offset | int | Offset to memory buffer. |
 
 ### ReturnValue

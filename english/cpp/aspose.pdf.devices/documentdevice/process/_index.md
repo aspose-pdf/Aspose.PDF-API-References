@@ -2,11 +2,61 @@
 title: Aspose::Pdf::Devices::DocumentDevice::Process method
 linktitle: Process
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Devices::DocumentDevice::Process method. Processes the whole document and saves results into stream in C++.'
+description: 'Aspose::Pdf::Devices::DocumentDevice::Process method. Each device represents some operation on the document, e.g. we can convert pdf document into another format in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.pdf.devices/documentdevice/process/
 ---
+## DocumentDevice::Process(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const int32_t\&, const int32_t\&, const System::SharedPtr\<System::IO::Stream\>\&) method
+
+
+Each device represents some operation on the document, e.g. we can convert pdf document into another format.
+
+```cpp
+virtual void Aspose::Pdf::Devices::DocumentDevice::Process(const System::SharedPtr<Aspose::Pdf::Document> &document, const int32_t &fromPage, const int32_t &toPage, const System::SharedPtr<System::IO::Stream> &output)=0
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | The document to process. |
+| fromPage | const int32_t\& | Defines the page from which to start processing. |
+| toPage | const int32_t\& | Defines the last page to process. |
+| output | const System::SharedPtr\<System::IO::Stream\>\& | Defines stream where the results of processing are stored. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Document](../../../aspose.pdf/document/)
+* Class [Stream](../../../system.io/stream/)
+* Class [DocumentDevice](../)
+* Namespace [Aspose::Pdf::Devices](../../)
+* Library [Aspose.PDF for C++](../../../)
+## DocumentDevice::Process(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const int32_t\&, const int32_t\&, const System::String\&) method
+
+
+Processes certain pages of the document and saves results into file.
+
+```cpp
+void Aspose::Pdf::Devices::DocumentDevice::Process(const System::SharedPtr<Aspose::Pdf::Document> &document, const int32_t &fromPage, const int32_t &toPage, const System::String &outputFileName)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | The document to process. |
+| fromPage | const int32_t\& | The first page to start processing. |
+| toPage | const int32_t\& | The last page of processing. |
+| outputFileName | const System::String\& | Defines file where the results of processing are stored. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Document](../../../aspose.pdf/document/)
+* Class [String](../../../system/string/)
+* Class [DocumentDevice](../)
+* Namespace [Aspose::Pdf::Devices](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## DocumentDevice::Process(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
@@ -50,56 +100,6 @@ void Aspose::Pdf::Devices::DocumentDevice::Process(const System::SharedPtr<Aspos
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [String](../../../system/string/)
-* Class [DocumentDevice](../)
-* Namespace [Aspose::Pdf::Devices](../../)
-* Library [Aspose.PDF for C++](../../../)
-## DocumentDevice::Process(const System::SharedPtr\<Aspose::Pdf::Document\>\&, int32_t, int32_t, const System::String\&) method
-
-
-Processes certain pages of the document and saves results into file.
-
-```cpp
-void Aspose::Pdf::Devices::DocumentDevice::Process(const System::SharedPtr<Aspose::Pdf::Document> &document, int32_t fromPage, int32_t toPage, const System::String &outputFileName)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | The document to process. |
-| fromPage | int32_t | The first page to start processing. |
-| toPage | int32_t | The last page of processing. |
-| outputFileName | const System::String\& | Defines file where the results of processing are stored. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
-* Class [String](../../../system/string/)
-* Class [DocumentDevice](../)
-* Namespace [Aspose::Pdf::Devices](../../)
-* Library [Aspose.PDF for C++](../../../)
-## DocumentDevice::Process(System::SharedPtr\<Aspose::Pdf::Document\>, int32_t, int32_t, System::SharedPtr\<System::IO::Stream\>) method
-
-
-Each device represents some operation on the document, e.g. we can convert pdf document into another format.
-
-```cpp
-virtual void Aspose::Pdf::Devices::DocumentDevice::Process(System::SharedPtr<Aspose::Pdf::Document> document, int32_t fromPage, int32_t toPage, System::SharedPtr<System::IO::Stream> output)=0
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | The document to process. |
-| fromPage | int32_t | Defines the page from which to start processing. |
-| toPage | int32_t | Defines the last page to process. |
-| output | System::SharedPtr\<System::IO::Stream\> | Defines stream where the results of processing are stored. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
-* Class [Stream](../../../system.io/stream/)
 * Class [DocumentDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

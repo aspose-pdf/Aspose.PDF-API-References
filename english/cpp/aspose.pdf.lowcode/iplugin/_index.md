@@ -20,7 +20,7 @@ class IPlugin : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [Process](./process/)(System::SharedPtr\<IPluginOptions\>) | Charges a plugin to process with defined options. |
+| virtual [Process](./process/)(const System::SharedPtr\<IPluginOptions\>\&) | Charges a plugin to process with defined options. |
 ## See Also
 
 * Class [Object](../../system/object/)

@@ -20,7 +20,7 @@ class FormExporter : public Aspose::Pdf::LowCode::IPlugin
 
 | Method | Description |
 | --- | --- |
-| [Process](./process/)(System::SharedPtr\<IPluginOptions\>) override | Starts the [FormExporter](./) processing with the specified options. |
+| [Process](./process/)(const System::SharedPtr\<IPluginOptions\>\&) override | Starts the [FormExporter](./) processing with the specified options. |
 ## See Also
 
 * Class [IPlugin](../iplugin/)

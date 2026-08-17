@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/iwarningcallback/warning/
 The callback method for some program notifications.
 
 ```cpp
-virtual ReturnAction Aspose::Pdf::IWarningCallback::Warning(System::SharedPtr<WarningInfo> warning)=0
+virtual ReturnAction Aspose::Pdf::IWarningCallback::Warning(const System::SharedPtr<WarningInfo> &warning)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| warning | System::SharedPtr\<WarningInfo\> | the warning information for some happened warning |
+| warning | const System::SharedPtr\<WarningInfo\>\& | the warning information for some happened warning |
 
 ### ReturnValue
 

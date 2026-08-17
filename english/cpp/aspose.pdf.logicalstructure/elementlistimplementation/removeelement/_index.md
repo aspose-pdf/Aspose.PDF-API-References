@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/elementlistimplementation/removeelement/
 Remove element from list.
 
 ```cpp
-int32_t Aspose::Pdf::LogicalStructure::ElementListImplementation::RemoveElement(System::SharedPtr<Element> element, bool updatePdfDictionary=true) override
+int32_t Aspose::Pdf::LogicalStructure::ElementListImplementation::RemoveElement(const System::SharedPtr<Element> &element, bool updatePdfDictionary=true) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| element | System::SharedPtr\<Element\> | The [T:/Aspose::Pdf::LogicalStructure::Element](../). |
+| element | const System::SharedPtr\<Element\>\& | The [T:/Aspose::Pdf::LogicalStructure::Element](../). |
 | updatePdfDictionary | bool | Should the pdf dictionary be updated. |
 
 ## See Also

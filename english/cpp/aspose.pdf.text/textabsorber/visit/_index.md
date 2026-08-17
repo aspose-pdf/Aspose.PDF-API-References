@@ -7,19 +7,19 @@ type: docs
 weight: 900
 url: /cpp/aspose.pdf.text/textabsorber/visit/
 ---
-## TextAbsorber::Visit(System::SharedPtr\<Document\>) method
+## TextAbsorber::Visit(const System::SharedPtr\<Document\>\&) method
 
 
 Extracts text on the specified document.
 
 ```cpp
-virtual void Aspose::Pdf::Text::TextAbsorber::Visit(System::SharedPtr<Document> pdf)
+virtual void Aspose::Pdf::Text::TextAbsorber::Visit(const System::SharedPtr<Document> &pdf)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdf | System::SharedPtr\<Document\> | [Pdf](../../../aspose.pdf/) pocument object. |
+| pdf | const System::SharedPtr\<Document\>\& | [Pdf](../../../aspose.pdf/) pocument object. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ virtual void Aspose::Pdf::Text::TextAbsorber::Visit(System::SharedPtr<Document> 
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextAbsorber::Visit(System::SharedPtr\<Page\>) method
+## TextAbsorber::Visit(const System::SharedPtr\<Page\>\&) method
 
 
 Extracts text on the specified page.
 
 ```cpp
-virtual void Aspose::Pdf::Text::TextAbsorber::Visit(System::SharedPtr<Page> page)
+virtual void Aspose::Pdf::Text::TextAbsorber::Visit(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Pdf](../../../aspose.pdf/) pocument page object. |
+| page | const System::SharedPtr\<Page\>\& | [Pdf](../../../aspose.pdf/) pocument page object. |
 
 ## See Also
 
@@ -49,19 +49,19 @@ virtual void Aspose::Pdf::Text::TextAbsorber::Visit(System::SharedPtr<Page> page
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextAbsorber::Visit(System::SharedPtr\<XForm\>) method
+## TextAbsorber::Visit(const System::SharedPtr\<XForm\>\&) method
 
 
 Extracts text on the specified [XForm](../../../aspose.pdf/xform/).
 
 ```cpp
-virtual void Aspose::Pdf::Text::TextAbsorber::Visit(System::SharedPtr<XForm> form)
+virtual void Aspose::Pdf::Text::TextAbsorber::Visit(const System::SharedPtr<XForm> &form)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| form | System::SharedPtr\<XForm\> | [Pdf](../../../aspose.pdf/) form object. |
+| form | const System::SharedPtr\<XForm\>\& | [Pdf](../../../aspose.pdf/) form object. |
 
 ## See Also
 

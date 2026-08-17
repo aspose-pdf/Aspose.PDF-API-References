@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/formoptions/addinput/
 Adds new data source to the Form... plugins data collection.
 
 ```cpp
-void Aspose::Pdf::LowCode::FormOptions::AddInput(System::SharedPtr<IDataSource> dataSource) override
+void Aspose::Pdf::LowCode::FormOptions::AddInput(const System::SharedPtr<IDataSource> &dataSource) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dataSource | System::SharedPtr\<IDataSource\> | Data source to add. |
+| dataSource | const System::SharedPtr\<IDataSource\>\& | Data source to add. |
 
 ## See Also
 

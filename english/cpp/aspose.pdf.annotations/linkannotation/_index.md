@@ -20,7 +20,7 @@ class LinkAnnotation : public Aspose::Pdf::Annotations::Annotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor object to process the annotation. |
 | [get_Action](./get_action/)() | An action to be performed when the link annotation is activated. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Destination](./get_destination/)() | A destination to be displayed when the annotation is activated. |

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.flow/istructurerecognitionvisitor/visitparagraph/
 Called when a paragraph node is visited.
 
 ```cpp
-virtual void Aspose::Pdf::Flow::IStructureRecognitionVisitor::VisitParagraph(System::SharedPtr<BaseParagraph> paragraph)=0
+virtual void Aspose::Pdf::Flow::IStructureRecognitionVisitor::VisitParagraph(const System::SharedPtr<BaseParagraph> &paragraph)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| paragraph | System::SharedPtr\<BaseParagraph\> | The paragraph element to process. |
+| paragraph | const System::SharedPtr\<BaseParagraph\>\& | The paragraph element to process. |
 
 ## See Also
 

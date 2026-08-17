@@ -20,8 +20,8 @@ class LineAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor to annotation processing. |
-| [ChangeAfterResize](./changeafterresize/)(System::SharedPtr\<Matrix\>) override | Updates the Starting and Ending points, according to the matrix transform. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor to annotation processing. |
+| [ChangeAfterResize](./changeafterresize/)(const System::SharedPtr\<Matrix\>\&) override | Updates the Starting and Ending points, according to the matrix transform. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_CaptionOffset](./get_captionoffset/)() | Gets caption text offset from its normal position. |
 | [get_CaptionPosition](./get_captionposition/)() | Gets annotation caption position. |

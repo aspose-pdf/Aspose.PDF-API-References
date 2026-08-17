@@ -22,9 +22,9 @@ class IStructureRecognitionVisitor : public virtual System::Object
 | --- | --- |
 | virtual [EndDocument](./enddocument/)() | Signals the end of document processing. |
 | virtual [StartDocument](./startdocument/)() | Called when the document traversal starts. |
-| virtual [VisitParagraph](./visitparagraph/)(System::SharedPtr\<BaseParagraph\>) | Called when a paragraph node is visited. |
-| virtual [VisitSectionEnd](./visitsectionend/)(System::SharedPtr\<MarginInfo\>) | Visits the end of a recognized section in the document. |
-| virtual [VisitTable](./visittable/)(System::SharedPtr\<Table\>) | Visits a recognized table in the document structure. |
+| virtual [VisitParagraph](./visitparagraph/)(const System::SharedPtr\<BaseParagraph\>\&) | Called when a paragraph node is visited. |
+| virtual [VisitSectionEnd](./visitsectionend/)(const System::SharedPtr\<MarginInfo\>\&) | Visits the end of a recognized section in the document. |
+| virtual [VisitTable](./visittable/)(const System::SharedPtr\<Table\>\&) | Visits a recognized table in the document structure. |
 ## See Also
 
 * Class [Object](../../system/object/)

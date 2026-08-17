@@ -39,7 +39,7 @@ class OperatorCollection : public Aspose::Pdf::BaseOperatorCollection,
 | [GetEnumerator](./getenumerator/)() override | Returns enumerator for collection. |
 | [idx_get](./idx_get/)(int32_t) override | Gets operator by its index. |
 | [idx_set](./idx_set/)(int32_t, System::SharedPtr\<Operator\>) override | Gets operator by its index. |
-| [Insert](./insert/)(int32_t, System::SharedPtr\<Operator\>) override | Inserts operator into collection. |
+| [Insert](./insert/)(int32_t, const System::SharedPtr\<Operator\>\&) override | Inserts operator into collection. |
 | [Insert](./insert/)(int32_t, const System::ArrayPtr\<System::SharedPtr\<Operator\>\>\&) | Insert operators at the the given position. |
 | [Insert](./insert/)(int32_t, const System::SharedPtr\<System::Collections::Generic::IList\<System::SharedPtr\<Operator\>\>\>\&) | Insert operators at the the given position. |
 | [Remove](./remove/)(const System::SharedPtr\<Operator\>\&) override | Remove operator from the collection. |

@@ -22,7 +22,7 @@ class Timestamp : public Aspose::Pdf::LowCode::IPlugin,
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Releases resources used by the plugin. |
-| [Process](./process/)(System::SharedPtr\<IPluginOptions\>) override | Processes the timestamp plugin with the supplied options. |
+| [Process](./process/)(const System::SharedPtr\<IPluginOptions\>\&) override | Processes the timestamp plugin with the supplied options. |
 ## See Also
 
 * Class [IPlugin](../iplugin/)

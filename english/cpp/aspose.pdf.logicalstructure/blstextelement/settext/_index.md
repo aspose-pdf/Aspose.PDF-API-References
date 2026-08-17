@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/blstextelement/settext/
 Appends text content to current text element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::BLSTextElement::SetText(System::String text) override
+void Aspose::Pdf::LogicalStructure::BLSTextElement::SetText(const System::String &text) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | [Text](../../../aspose.pdf.text/) content |
+| text | const System::String\& | [Text](../../../aspose.pdf.text/) content |
 
 ## See Also
 

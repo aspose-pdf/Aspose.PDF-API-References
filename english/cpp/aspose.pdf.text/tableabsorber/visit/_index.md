@@ -28,19 +28,19 @@ void Aspose::Pdf::Text::TableAbsorber::Visit(const System::SharedPtr<Document> &
 * Class [TableAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TableAbsorber::Visit(System::SharedPtr\<Page\>) method
+## TableAbsorber::Visit(const System::SharedPtr\<Page\>\&) method
 
 
 Extracts tables on the specified page.
 
 ```cpp
-virtual void Aspose::Pdf::Text::TableAbsorber::Visit(System::SharedPtr<Page> page)
+virtual void Aspose::Pdf::Text::TableAbsorber::Visit(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Pdf](../../../aspose.pdf/) pocument page object. |
+| page | const System::SharedPtr\<Page\>\& | [Pdf](../../../aspose.pdf/) pocument page object. |
 
 ## See Also
 

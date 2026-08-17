@@ -26,7 +26,7 @@ class RichMediaAnnotation : public Aspose::Pdf::Annotations::Annotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor for this annotation. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor for this annotation. |
 | [AddCustomData](./addcustomdata/)(const System::String\&, const System::SharedPtr\<System::IO::Stream\>\&) | Add custom named data (for example required for flash script). |
 | [get_ActivateOn](./get_activateon/)() | Event which activates application. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |

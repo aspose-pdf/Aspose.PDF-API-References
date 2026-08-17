@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/pdfextractor/process/
 Starts [PdfExtractor](../) processing with the specified parameters.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::PdfExtractor::Process(System::SharedPtr<IPluginOptions> pdfExtractorOptions) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::PdfExtractor::Process(const System::SharedPtr<IPluginOptions> &pdfExtractorOptions) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdfExtractorOptions | System::SharedPtr\<IPluginOptions\> | An options object containing instructions for the [PdfExtractor](../). |
+| pdfExtractorOptions | const System::SharedPtr\<IPluginOptions\>\& | An options object containing instructions for the [PdfExtractor](../). |
 
 ### ReturnValue
 

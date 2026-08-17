@@ -21,7 +21,7 @@ class MovieAnnotation : public Aspose::Pdf::Annotations::Annotation,
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor object to process the annotation. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Aspect](./get_aspect/)() | Gets the width and height of the movie's bounding box, in pixels. |
 | [get_File](./get_file/)() | Gets a file specification identifying a self-describing movie file. |

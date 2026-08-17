@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/lineannotation/changeafterresize/
 Updates the Starting and Ending points, according to the matrix transform.
 
 ```cpp
-void Aspose::Pdf::Annotations::LineAnnotation::ChangeAfterResize(System::SharedPtr<Matrix> transform) override
+void Aspose::Pdf::Annotations::LineAnnotation::ChangeAfterResize(const System::SharedPtr<Matrix> &transform) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| transform | System::SharedPtr\<Matrix\> | [Matrix](../../../aspose.pdf/matrix/) specifying the transformation. |
+| transform | const System::SharedPtr\<Matrix\>\& | [Matrix](../../../aspose.pdf/matrix/) specifying the transformation. |
 
 ## See Also
 

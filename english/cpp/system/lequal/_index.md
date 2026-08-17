@@ -4,7 +4,7 @@ linktitle: LEqual
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::LEqual method. Implements ''<='' relative pattern translation in C++.'
 type: docs
-weight: 24600
+weight: 24800
 url: /cpp/system/lequal/
 ---
 ## System::LEqual method

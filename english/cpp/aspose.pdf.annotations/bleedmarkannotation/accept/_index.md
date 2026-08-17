@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/bleedmarkannotation/accept/
 Accepts visitor for annotation processing.
 
 ```cpp
-void Aspose::Pdf::Annotations::BleedMarkAnnotation::Accept(System::SharedPtr<AnnotationSelector> visitor) override
+void Aspose::Pdf::Annotations::BleedMarkAnnotation::Accept(const System::SharedPtr<AnnotationSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<AnnotationSelector\> | [AnnotationSelector](../../annotationselector/) object. |
+| visitor | const System::SharedPtr\<AnnotationSelector\>\& | [AnnotationSelector](../../annotationselector/) object. |
 
 ## See Also
 

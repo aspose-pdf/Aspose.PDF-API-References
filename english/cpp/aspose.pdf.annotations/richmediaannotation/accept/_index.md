@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/accept/
 Accepts visitor for this annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::RichMediaAnnotation::Accept(System::SharedPtr<AnnotationSelector> visitor) override
+void Aspose::Pdf::Annotations::RichMediaAnnotation::Accept(const System::SharedPtr<AnnotationSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<AnnotationSelector\> | Visitor instance. |
+| visitor | const System::SharedPtr\<AnnotationSelector\>\& | Visitor instance. |
 
 ## See Also
 
