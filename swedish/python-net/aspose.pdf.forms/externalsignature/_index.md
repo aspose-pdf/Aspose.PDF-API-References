@@ -1,0 +1,38 @@
+---
+title: "ExternalSignature"
+second_title: "Aspose.PDF för Python via .NET API‑referens"
+description: "Skapar en fristående PKCS#7Detached‑signatur med en X509Certificate2. Den stöder usb‑smartkort, token utan exporterbara privata nycklar."
+type: docs
+weight: 80
+url: /sv/python-net/aspose.pdf.forms/externalsignature/
+---
+
+## ExternalSignature class
+
+Skapar en fristående PKCS#7Detached‑signatur med en X509Certificate2. Den stöder usb‑smartkort, token utan exporterbara privata nycklar.
+
+ExternalSignature-typen exponerar följande medlemmar:
+## Egenskaper
+| Namn | Beskrivning |
+| :- | :- |
+| custom_appearance | Hämtar/sätter den anpassade utseendet. |
+| authority | Namnet på personen eller myndigheten som signerar dokumentet. |
+| date | Tidpunkten för signering. |
+| location | CPU-värdnamnet eller den fysiska platsen för signeringen. |
+| reason | Anledningen till signeringen, till exempel (Jag samtycker…). |
+| contact_info | Information som tillhandahålls av undertecknaren för att möjliggöra att mottagaren kan kontakta undertecknaren <br/>            för att verifiera signaturen, t.ex. ett telefonnummer. |
+| byte_range | En array av par av heltal (startbyteoffset, längd i byte) <br/>             som ska beskriva det exakta byteintervallet för beräkning av digest. |
+| timestamp_settings | Hämtar/inställer tidsstämpelinställningar. |
+| ocsp_settings | Hämtar/inställer OCSP-inställningar. |
+| use_ltv | Hämtar/inställer LTV-valideringsflagga. |
+| show_properties | Tvinga att visa/dölja signaturens egenskaper.<br/>            Om ShowProperties är true har signaturfältet ett fördefinierat format för utseende (strängar att representera):<br/>            -------------------------------------------<br/>            Digitalt signerat av {certificate subject}<br/>            Datum: {signature.Date}<br/>            Orsak: {signature.Reason}<br/>            Plats: {signature.Location}<br/>            -------------------------------------------<br/>            där {X} är en platshållare för X‑värdet. Signaturen kan också ha en bild; i så fall placeras de listade strängarna över bilden.<br/>            ShowProperties är true som standard. |
+## Metoder
+| Namn | Beskrivning |
+| :- | :- |
+| verify() | Verifiera dokumentet med avseende på denna signatur och returnera true om dokumentet är giltigt <br/>            annars false. |
+
+### Se även
+
+* namespace [aspose.pdf.forms](/pdf/python-net/aspose.pdf.forms/)
+* assembly [Aspose.PDF](/pdf/python-net/)
+
