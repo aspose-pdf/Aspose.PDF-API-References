@@ -1,0 +1,62 @@
+---
+title: "SplitAtPage"
+second_title: "Aspose.PDF för Go via C++"
+description: "Dela PDF-dokumentet i två nya PDF-dokument."
+type: docs
+url: /sv/go-cpp/core/splitatpage/
+---
+
+_Dela PDF-dokumentet i två nya PDF-dokument._
+
+```go
+func SplitAtPage(document *Document, page int) (*Document, *Document, error)
+```
+
+**Parameters**: 
+  * **document** - pointer to document
+  * **page** - page number at which to split the PDF-document. Pages up to and including this page go into the first PDF-document
+
+**Return**: 
+  * **\*Document** - new PDF-document containing pages 1 to page (inclusive)
+  * **\*Document** - new PDF-document containing pages from page + 1 to the end
+  * **error** - contains an error or nil if absent
+
+
+**Example**:
+```go
+package main
+
+import (
+	"github.com/aspose-pdf/aspose-pdf-go-cpp"
+	"log"
+)
+
+func main() {
+	// Open(filename string) öppnar ett PDF-dokument med filnamn
+	pdf_split, err := asposepdf.Open("sample.pdf")
+	if err != nil {
+		log.Fatal(err)
+	}
+	// Close() frigör allokerade resurser för PDF-dokument
+	defer pdf_split.Close()
+
+	// SplitAtPage(document *Document, page int) skapar två nya PDF-dokument
+	left, right, err := asposepdf.SplitAtPage(pdf_split, 2)
+	if err != nil {
+		log.Fatal(err)
+	}
+	// Close() frigör allokerade resurser för de resulterande PDF-dokumenten
+	defer left.Close()
+	defer right.Close()
+
+	// Spara varje del som en separat fil
+	err = left.SaveAs("sample_SplitAtPage_left.pdf")
+	if err != nil {
+		log.Fatal(err)
+	}
+	err = right.SaveAs("sample_SplitAtPage_right.pdf")
+	if err != nil {
+		log.Fatal(err)
+	}
+}
+```
