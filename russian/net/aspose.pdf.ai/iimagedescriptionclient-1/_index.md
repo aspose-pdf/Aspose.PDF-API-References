@@ -1,14 +1,14 @@
 ---
-title: Interface IImageDescriptionClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.AI.IImageDescriptionClient1TOptions. Представляет интерфейс для клиента описания изображения с конкретными параметрами
+title: "Интерфейс IImageDescriptionClientTOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.AI.IImageDescriptionClient1TOptions. Представляет интерфейс клиента описания изображений с конкретными параметрами"
 type: docs
-weight: 500
+weight: 520
 url: /ru/net/aspose.pdf.ai/iimagedescriptionclient-1/
 ---
-## Интерфейс IImageDescriptionClient&lt;TOptions&gt;
+## IImageDescriptionClient&lt;TOptions&gt; interface
 
-Представляет интерфейс для клиента описания изображения с конкретными параметрами.
+Представляет интерфейс для клиента описания изображений с определёнными параметрами.
 
 ```csharp
 public interface IImageDescriptionClient<in TOptions> : IAIClient
@@ -16,16 +16,18 @@ public interface IImageDescriptionClient<in TOptions> : IAIClient
 
 | Параметр | Описание |
 | --- | --- |
-| TOptions | Тип параметров для клиента описания изображения. |
+| TOptions | Тип параметров для клиента описания изображений. |
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [GetImageDescriptionCopilot](../../aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions&lt;TOptions&gt;) | Получает экземпляр [`IImageDescriptionCopilot`](../iimagedescriptioncopilot/) с указанными параметрами. |
 
 ### См. также
 
-* интерфейс [IAIClient](../iaiclient/)
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

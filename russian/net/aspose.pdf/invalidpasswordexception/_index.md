@@ -1,14 +1,14 @@
 ---
-title: Class InvalidPasswordException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.InvalidPasswordException. Исключение, которое выбрасывается, когда пользователем предоставлен неверный пароль
+title: "Класс InvalidPasswordException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.InvalidPasswordException. Исключение, которое выбрасывается, когда пользователем предоставлен неверный пароль"
 type: docs
-weight: 6010
+weight: 6140
 url: /ru/net/aspose.pdf/invalidpasswordexception/
 ---
-## Класс InvalidPasswordException
+## InvalidPasswordException class
 
-Исключение, которое выбрасывается, когда пользователем предоставлен неверный пароль.
+Исключение, которое выбрасывается, когда пользователь предоставляет неверный пароль.
 
 ```csharp
 public sealed class InvalidPasswordException : PdfException
@@ -18,12 +18,14 @@ public sealed class InvalidPasswordException : PdfException
 
 | Имя | Описание |
 | --- | --- |
-| [InvalidPasswordException](invalidpasswordexception/#constructor)(Exception) | Инициализирует новый экземпляр класса `InvalidPasswordException` с ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidPasswordException](invalidpasswordexception/#constructor)(Exception) | Инициализирует новый экземпляр класса `InvalidPasswordException` со ссылкой на внутреннее исключение, являющееся причиной данного исключения. |
 | [InvalidPasswordException](invalidpasswordexception/#constructor_1)(string) | Инициализирует новый экземпляр класса `InvalidPasswordException`. |
-| [InvalidPasswordException](invalidpasswordexception/#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса `InvalidPasswordException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidPasswordException](invalidpasswordexception/#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса `InvalidPasswordException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, являющееся причиной данного исключения. |
 
 ### См. также
 
-* класс [PdfException](../pdfexception/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

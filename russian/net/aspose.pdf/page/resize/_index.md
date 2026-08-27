@@ -1,12 +1,12 @@
 ---
-title: Page.Resize
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Изменяет размер страницы
+title: "Page.Resize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Изменяет размер страницы"
 type: docs
 weight: 520
 url: /ru/net/aspose.pdf/page/resize/
 ---
-## Метод Page.Resize
+## Page.Resize method
 
 Изменяет размер страницы.
 
@@ -20,7 +20,9 @@ public void Resize(PageSize targetSize)
 
 ### См. также
 
-* класс [PageSize](../../pagesize/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../pagesize/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

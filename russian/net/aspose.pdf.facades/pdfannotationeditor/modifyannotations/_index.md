@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfAnnotationEditor. Изменяет аннотации указанного типа на указанном диапазоне страниц. Поддерживает изменение следующих свойств аннотации Изменено, Заголовок, Содержимое, Цвет, Тема и Открыто
+title: "PdfAnnotationEditor.ModifyAnnotations"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfAnnotationEditor. Изменяет аннотации указанного типа в заданном диапазоне страниц. Поддерживает изменение следующих свойств аннотации: Modified, Title, Contents, Color, Subject и Open."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/
 ---
-## Метод PdfAnnotationEditor.ModifyAnnotations
+## PdfAnnotationEditor.ModifyAnnotations method
 
-Изменяет аннотации указанного типа на указанном диапазоне страниц. Поддерживает изменение следующих свойств аннотации: Изменено, Заголовок, Содержимое, Цвет, Тема и Открыто.
+Изменяет аннотации указанного типа в указанном диапазоне страниц. Поддерживает изменение следующих свойств аннотации: Modified, Title, Contents, Color, Subject и Open.
 
 ```csharp
 public void ModifyAnnotations(int start, int end, Annotation annotation)
@@ -18,7 +18,7 @@ public void ModifyAnnotations(int start, int end, Annotation annotation)
 | --- | --- | --- |
 | start | Int32 | Номер начальной страницы. |
 | end | Int32 | Номер конечной страницы. |
-| annotation | Annotation | Объект аннотации содержит новые свойства. |
+| аннотация | Аннотация | Объект аннотации содержит новые свойства. |
 
 ## Примеры
 
@@ -38,7 +38,9 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [Annotation](../../../aspose.pdf.annotations/annotation/)
-* класс [PdfAnnotationEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

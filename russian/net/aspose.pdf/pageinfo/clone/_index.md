@@ -1,12 +1,12 @@
 ---
-title: PageInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageInfo. Клонировать информацию о странице
+title: "PageInfo.Clone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageInfo. Клонировать информацию о странице"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/pageinfo/clone/
 ---
-## Метод PageInfo.Clone
+## PageInfo.Clone method
 
 Клонировать информацию о странице.
 
@@ -20,6 +20,8 @@ public object Clone()
 
 ### См. также
 
-* класс [PageInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

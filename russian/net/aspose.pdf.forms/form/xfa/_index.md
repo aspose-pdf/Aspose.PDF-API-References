@@ -1,14 +1,14 @@
 ---
-title: Form.XFA
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Form. Получает данные XFA формы, если они присутствуют
+title: "Form.XFA"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Возвращает данные XFA формы, если они присутствуют."
 type: docs
-weight: 170
+weight: 190
 url: /ru/net/aspose.pdf.forms/form/xfa/
 ---
-## Свойство Form.XFA
+## Form.XFA property
 
-Получает данные XFA формы (если они присутствуют).
+Получает данные XFA формы (если присутствуют).
 
 ```csharp
 public XFA XFA { get; }
@@ -16,7 +16,9 @@ public XFA XFA { get; }
 
 ### См. также
 
-* класс [XFA](../../xfa/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [XFA](../../xfa/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

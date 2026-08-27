@@ -1,14 +1,14 @@
 ---
-title: PdfPageStamp.PdfPage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfPageStamp. Получает или устанавливает страницу, которая будет использоваться в качестве штампа
+title: "PdfPageStamp.PdfPage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfPageStamp. Получает или задаёт страницу, которая будет использоваться как штамп"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pdfpagestamp/pdfpage/
 ---
-## Свойство PdfPageStamp.PdfPage
+## PdfPageStamp.PdfPage property
 
-Получает или устанавливает страницу, которая будет использоваться в качестве штампа.
+Получает или задаёт страницу, которая будет использоваться в качестве штампа.
 
 ```csharp
 public Page PdfPage { get; set; }
@@ -16,7 +16,9 @@ public Page PdfPage { get; set; }
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PdfPageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

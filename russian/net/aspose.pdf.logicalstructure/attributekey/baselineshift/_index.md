@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BaselineShift
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут BaselineShift Владелец атрибута макета
+title: "AttributeKey.BaselineShift"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeKey. Атрибут BaselineShift, владелец атрибута Layout"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/baselineshift/
 ---
-## Поле AttributeKey.BaselineShift
+## AttributeKey.BaselineShift field
 
-Атрибут BaselineShift (Владелец атрибута макета).
+Атрибут BaselineShift (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey BaselineShift;
@@ -16,6 +16,8 @@ public static readonly AttributeKey BaselineShift;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

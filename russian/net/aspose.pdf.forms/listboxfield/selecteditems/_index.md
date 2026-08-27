@@ -1,14 +1,14 @@
 ---
-title: ListBoxField.SelectedItems
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ListBoxField. Получает или устанавливает массив выбранных элементов в списке с множественным выбором. Для списка с одиночным выбором возвращает массив с единственным элементом
+title: "ListBoxField.SelectedItems"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ListBoxField. Возвращает или задаёт массив выбранных элементов в списке с множественным выбором. Для списка с одиночным выбором возвращает массив с одним элементом."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/listboxfield/selecteditems/
 ---
-## Свойство ListBoxField.SelectedItems
+## ListBoxField.SelectedItems property
 
-Получает или устанавливает массив выбранных элементов в списке с множественным выбором. Для списка с одиночным выбором возвращает массив с единственным элементом.
+Получает или задаёт массив выбранных элементов в списке с множественным выбором. Для списка с одиночным выбором возвращает массив с одним элементом.
 
 ```csharp
 public override int[] SelectedItems { set; }
@@ -16,6 +16,8 @@ public override int[] SelectedItems { set; }
 
 ### См. также
 
-* класс [ListBoxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

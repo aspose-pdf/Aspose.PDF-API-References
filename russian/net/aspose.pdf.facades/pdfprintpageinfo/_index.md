@@ -1,26 +1,28 @@
 ---
-title: Class PdfPrintPageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.PdfPrintPageInfo. Представляет объект, содержащий информацию о текущей печатаемой странице
+title: "Класс PdfPrintPageInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Facades.PdfPrintPageInfo класс. Представляет объект, содержащий текущую информацию о печати страницы."
 type: docs
-weight: 4600
+weight: 4720
 url: /ru/net/aspose.pdf.facades/pdfprintpageinfo/
 ---
 ## PdfPrintPageInfo class
 
-Представляет объект, содержащий информацию о текущей печатаемой странице.
+Представляет объект, содержащий текущую информацию о печатных страницах.
 
 ```csharp
 public class PdfPrintPageInfo
 ```
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [PageNumber](../../aspose.pdf.facades/pdfprintpageinfo/pagenumber/) { get; } | Получает номер текущей печатаемой страницы; |
+| [PageNumber](../../aspose.pdf.facades/pdfprintpageinfo/pagenumber/) { get; } | Получает текущий номер печатаемой страницы; |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

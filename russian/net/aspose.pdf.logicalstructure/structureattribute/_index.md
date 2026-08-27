@@ -1,14 +1,14 @@
 ---
-title: Class StructureAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.LogicalStructure.StructureAttribute. Представляет атрибут структурного элемента
+title: "Класс StructureAttribute"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.LogicalStructure.StructureAttribute класс. Представляет атрибут элемента структуры"
 type: docs
-weight: 6670
+weight: 6810
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/
 ---
-## Класс StructureAttribute
+## StructureAttribute class
 
-Представляет атрибут структурного элемента.
+Представляет атрибут элемента структуры.
 
 ```csharp
 public class StructureAttribute
@@ -18,7 +18,7 @@ public class StructureAttribute
 
 | Имя | Описание |
 | --- | --- |
-| [StructureAttribute](structureattribute/)(AttributeKey) | Инициализирует новый экземпляр класса StructureAttribute. |
+| [StructureAttribute](structureattribute/)(AttributeKey) | Инициализирует новый экземпляр StructureAttribute. |
 
 ## Свойства
 
@@ -32,20 +32,22 @@ public class StructureAttribute
 | Имя | Описание |
 | --- | --- |
 | [GetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue/)() | Получает массив числовых значений. |
-| [GetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/getarrayvalue/)() | Получает массив имен значений. |
-| [GetNameValue](../../aspose.pdf.logicalstructure/structureattribute/getnamevalue/)() | Получает имя значения. |
-| [GetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getnumbervalue/)() | Получает числовое значение. |
-| [GetStringValue](../../aspose.pdf.logicalstructure/structureattribute/getstringvalue/)() | Получает строковое значение. |
+| [GetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/getarrayvalue/)() | Получает Value Name Array. |
+| [GetNameValue](../../aspose.pdf.logicalstructure/structureattribute/getnamevalue/)() | Получает Value Name. |
+| [GetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getnumbervalue/)() | Получает Value Number. |
+| [GetStringValue](../../aspose.pdf.logicalstructure/structureattribute/getstringvalue/)() | Получает Value String. |
 | [SetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue/)(double?[]) |  |
-| [SetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/setarrayvalue/)(AttributeName[]) | Устанавливает массив имен значений. |
-| [SetColorValue](../../aspose.pdf.logicalstructure/structureattribute/setcolorvalue/)(Color) | Устанавливает цвет значения. |
-| [SetNameValue](../../aspose.pdf.logicalstructure/structureattribute/setnamevalue/)(AttributeName) | Устанавливает имя значения. |
-| [SetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setnumbervalue/)(double) | Устанавливает числовое значение. |
-| [SetRectangleValue](../../aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/)(Rectangle) | Устанавливает прямоугольное значение. |
-| [SetStringValue](../../aspose.pdf.logicalstructure/structureattribute/setstringvalue/)(string) | Устанавливает строковое значение. |
+| [SetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/setarrayvalue/)(AttributeName[]) | Устанавливает Value Name Array. |
+| [SetColorValue](../../aspose.pdf.logicalstructure/structureattribute/setcolorvalue/)(Color) | Устанавливает Value Color. |
+| [SetNameValue](../../aspose.pdf.logicalstructure/structureattribute/setnamevalue/)(AttributeName) | Устанавливает Value Name. |
+| [SetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setnumbervalue/)(double) | Устанавливает Value Number. |
+| [SetRectangleValue](../../aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/)(Rectangle) | Устанавливает Value Rectangle. |
+| [SetStringValue](../../aspose.pdf.logicalstructure/structureattribute/setstringvalue/)(string) | Устанавливает Value String. |
 | override [ToString](../../aspose.pdf.logicalstructure/structureattribute/tostring/)() |  |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

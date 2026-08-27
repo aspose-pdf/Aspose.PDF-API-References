@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.FilePath
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageDescriptionResult. Получает или задает имя файла
+title: "ImageDescriptionResult.FilePath"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageDescriptionResult. Получает или задает имя файла"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/imagedescriptionresult/filepath/
 ---
-## Свойство ImageDescriptionResult.FilePath
+## ImageDescriptionResult.FilePath property
 
 Получает или задает имя файла.
 
@@ -16,6 +16,8 @@ public string FilePath { get; set; }
 
 ### См. также
 
-* класс [ImageDescriptionResult](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

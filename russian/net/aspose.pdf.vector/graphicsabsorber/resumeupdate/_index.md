@@ -1,14 +1,14 @@
 ---
-title: GraphicsAbsorber.ResumeUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: Метод GraphicsAbsorber. Возобновить обновление для Contents и всех Contents было сделано для увеличения производительности, см. также
+title: "GraphicsAbsorber.ResumeUpdate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод GraphicsAbsorber. Возобновить обновление для Contents и всех Contents. Было сделано для повышения производительности, см. также"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.vector/graphicsabsorber/resumeupdate/
 ---
-## Метод GraphicsAbsorber.ResumeUpdate
+## GraphicsAbsorber.ResumeUpdate method
 
-Возобновить обновление для [`Contents`](../../../aspose.pdf/page/contents/) и всех [`Contents`](../../../aspose.pdf/xform/contents/) было сделано для увеличения производительности, см. также .
+Возобновить обновление для [`Contents`](../../../aspose.pdf/page/contents/) и всех [`Contents`](../../../aspose.pdf/xform/contents/). Было сделано для повышения производительности, см. также.
 
 ```csharp
 public void ResumeUpdate()
@@ -28,6 +28,8 @@ va.ResumeUpdate();
 
 ### См. также
 
-* класс [GraphicsAbsorber](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

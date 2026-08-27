@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ImagePlacementCollection. Определяет, содержит ли коллекция конкретное значение
+title: "ImagePlacementCollection.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ImagePlacementCollection. Определяет, содержит ли коллекция конкретное значение"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/imageplacementcollection/contains/
 ---
-## Метод ImagePlacementCollection.Contains
+## ImagePlacementCollection.Contains method
 
 Определяет, содержит ли коллекция конкретное значение.
 
@@ -20,11 +20,13 @@ public bool Contains(ImagePlacement item)
 
 ### Возвращаемое значение
 
-true, если элемент найден в коллекции; в противном случае false.
+true, если элемент найден в коллекции; иначе false.
 
 ### См. также
 
-* класс [ImagePlacement](../../imageplacement/)
-* класс [ImagePlacementCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

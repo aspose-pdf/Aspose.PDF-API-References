@@ -1,14 +1,14 @@
 ---
-title: Class XmpPdfAExtensionValueType
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.XmpPdfAExtensionValueType. Схема ValueType PDF/A необходима для всех типов значений свойств, которые не определены в спецификации XMP 2004, т.е. для типов значений вне следующего списка - Массивы Alt, Bag, Seq - Основные типы значений Boolean, Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Типы значений управления медиа AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Основной тип значения задания/рабочего процесса Job - Типы значений схемы EXIF Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Ссылка на пространство имен схемы http//www.aiim.org/pdfa/ns/type Обязательный префикс пространства имен схемы pdfaType
+title: "Класс XmpPdfAExtensionValueType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.XmpPdfAExtensionValueType класс. Схема PDF/A ValueType требуется для всех типов значений свойств, которые не определены в спецификации XMP 2004, т.е. для типов значений, не входящих в следующий список: типы массивов — это контейнерные типы, которые могут содержать одно или несколько полей Alt, Bag, Seq; базовые типы значений Boolean, open и closed, Choice, Date, Dimensions, Integer, Lang, Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath; типы значений управления медиа AgentName, RenditionClass, ResourceEvent, ResourceRef, Version; базовый тип значения задачи/рабочего процесса Job; типы значений схемы EXIF Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational; пространство имён схемы URI http//www.aiim.org/pdfa/ns/type; обязательный префикс пространства имён схемы pdfaType."
 type: docs
-weight: 11490
+weight: 11680
 url: /ru/net/aspose.pdf/xmppdfaextensionvaluetype/
 ---
-## Класс XmpPdfAExtensionValueType
+## XmpPdfAExtensionValueType class
 
-Схема ValueType PDF/A необходима для всех типов значений свойств, которые не определены в спецификации XMP 2004, т.е. для типов значений вне следующего списка: - Массивы (это контейнерные типы, которые могут содержать одно или несколько полей): Alt, Bag, Seq - Основные типы значений: Boolean, (открытый и закрытый) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Типы значений управления медиа: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Основной тип значения задания/рабочего процесса: Job - Типы значений схемы EXIF: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Ссылка на пространство имен схемы: http://www.aiim.org/pdfa/ns/type# Обязательный префикс пространства имен схемы: pdfaType
+Схема PDF/A ValueType требуется для всех типов значений свойств, которые не определены в спецификации XMP 2004, то есть для типов значений, не входящих в следующий список: - Типы массивов (это типы‑контейнеры, которые могут содержать одно или несколько полей): Alt, Bag, Seq - Базовые типы значений: Boolean, (открытый и закрытый) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Типы значений управления медиа: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Базовый тип значения Job/Workflow: Job - Типы значений схемы EXIF: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational URI пространства имён схемы: http://www.aiim.org/pdfa/ns/type# Требуемый префикс пространства имён схемы: pdfaType.
 
 ```csharp
 public sealed class XmpPdfAExtensionValueType : XmpPdfAExtensionObject
@@ -35,14 +35,16 @@ public sealed class XmpPdfAExtensionValueType : XmpPdfAExtensionObject
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf/xmppdfaextensionvaluetype/add/)(XmpPdfAExtensionField) | Добавляет новое поле. |
+| [Add](../../aspose.pdf/xmppdfaextensionvaluetype/add/)(XmpPdfAExtensionField) | Добавить новое поле. |
 | [AddRange](../../aspose.pdf/xmppdfaextensionvaluetype/addrange/)(XmpPdfAExtensionField[]) | Добавляет диапазон полей. |
 | [Clear](../../aspose.pdf/xmppdfaextensionvaluetype/clear/)() | Очищает все поля. |
-| override [GetXml](../../aspose.pdf/xmppdfaextensionvaluetype/getxml/)(XmlDocument) | Возвращает список xml-элементов, представляющих тип значения в xml-дереве. |
+| override [GetXml](../../aspose.pdf/xmppdfaextensionvaluetype/getxml/)(XmlDocument) | Возвращает список элементов xml, представляющих тип значения в дереве xml. |
 | [Remove](../../aspose.pdf/xmppdfaextensionvaluetype/remove/)(XmpPdfAExtensionField) | Удаляет поле из списка полей. |
 
 ### См. также
 
-* класс [XmpPdfAExtensionObject](../xmppdfaextensionobject/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [XmpPdfAExtensionObject](../xmppdfaextensionobject/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

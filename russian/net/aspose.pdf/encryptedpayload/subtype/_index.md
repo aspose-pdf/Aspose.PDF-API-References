@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство EncryptedPayload. Получает подтип
+title: "EncryptedPayload.Subtype"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство EncryptedPayload. Получает подтип"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/encryptedpayload/subtype/
 ---
-## Свойство EncryptedPayload.Subtype
+## EncryptedPayload.Subtype property
 
 Получает подтип.
 
@@ -16,6 +16,8 @@ public string Subtype { get; }
 
 ### См. также
 
-* класс [EncryptedPayload](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

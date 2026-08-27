@@ -1,12 +1,12 @@
 ---
-title: XImage.Metadata
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XImage. Метаданные изображения
+title: "XImage.Metadata"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XImage. Метаданные изображения"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/ximage/metadata/
 ---
-## Свойство XImage.Metadata
+## XImage.Metadata property
 
 Метаданные изображения.
 
@@ -16,7 +16,9 @@ public Metadata Metadata { get; }
 
 ### См. также
 
-* класс [Metadata](../../metadata/)
-* класс [XImage](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Metadata](../../metadata/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

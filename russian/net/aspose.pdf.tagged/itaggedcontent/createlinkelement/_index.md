@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateLinkElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает LinkElement
+title: "ITaggedContent.CreateLinkElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает LinkElement"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createlinkelement/
 ---
-## Метод ITaggedContent.CreateLinkElement
+## ITaggedContent.CreateLinkElement method
 
 Создает [`LinkElement`](../../../aspose.pdf.logicalstructure/linkelement/).
 
@@ -16,11 +16,13 @@ public LinkElement CreateLinkElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [LinkElement](../../../aspose.pdf.logicalstructure/linkelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [LinkElement](../../../aspose.pdf.logicalstructure/linkelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

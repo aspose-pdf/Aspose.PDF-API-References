@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpPdfAExtensionSchema. Добавляет новый объект в схему
+title: "XmpPdfAExtensionSchema.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpPdfAExtensionSchema. Добавляет новый объект в схему"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/add/
 ---
-## Метод XmpPdfAExtensionSchema.Add
+## XmpPdfAExtensionSchema.Add method
 
 Добавляет новый объект в схему.
 
@@ -20,7 +20,9 @@ public void Add(XmpPdfAExtensionObject obj)
 
 ### См. также
 
-* класс [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* класс [XmpPdfAExtensionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

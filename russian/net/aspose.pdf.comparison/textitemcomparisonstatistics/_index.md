@@ -1,12 +1,12 @@
 ---
-title: Class TextItemComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Comparison.TextItemComparisonStatistics. Представляет класс статистики сравнения текста
+title: "Класс TextItemComparisonStatistics"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Comparison.TextItemComparisonStatistics. Представляет класс статистики сравнения текста."
 type: docs
-weight: 3310
+weight: 3420
 url: /ru/net/aspose.pdf.comparison/textitemcomparisonstatistics/
 ---
-## Класс TextItemComparisonStatistics
+## TextItemComparisonStatistics class
 
 Представляет класс статистики сравнения текста.
 
@@ -24,13 +24,15 @@ public class TextItemComparisonStatistics
 
 | Имя | Описание |
 | --- | --- |
-| [DeletedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/) { get; } | Получает и устанавливает количество удаленных символов. |
-| [DeleteOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/) { get; } | Получает и устанавливает количество операций удаления. |
-| [InsertedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/) { get; } | Получает и устанавливает количество вставленных символов. |
-| [InsertOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/) { get; } | Получает и устанавливает количество операций вставки. |
-| [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | Получает и устанавливает общее количество символов. |
+| [DeletedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/) { get; } | Получает и задает количество удалённых символов. |
+| [DeleteOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/) { get; } | Получает и задает количество операций удаления. |
+| [InsertedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/) { get; } | Получает и задает количество вставленных символов. |
+| [InsertOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/) { get; } | Получает и задает количество операций вставки. |
+| [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | Получает и задает общее количество символов. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

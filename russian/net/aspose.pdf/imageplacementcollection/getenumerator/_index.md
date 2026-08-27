@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ImagePlacementCollection. Возвращает перечислитель для всей коллекции
+title: "ImagePlacementCollection.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ImagePlacementCollection. Возвращает перечислитель для всей коллекции"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/imageplacementcollection/getenumerator/
 ---
-## Метод ImagePlacementCollection.GetEnumerator
+## ImagePlacementCollection.GetEnumerator method
 
 Возвращает перечислитель для всей коллекции.
 
@@ -20,7 +20,9 @@ public IEnumerator<ImagePlacement> GetEnumerator()
 
 ### См. также
 
-* класс [ImagePlacement](../../imageplacement/)
-* класс [ImagePlacementCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

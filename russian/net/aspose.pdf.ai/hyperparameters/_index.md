@@ -1,14 +1,14 @@
 ---
-title: Class Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.Hyperparameters. Представляет гиперпараметры, используемые для задачи тонкой настройки
+title: "Класс Hyperparameters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AI.Hyperparameters класс. Представляет гиперпараметры, используемые для задачи дообучения"
 type: docs
-weight: 430
+weight: 450
 url: /ru/net/aspose.pdf.ai/hyperparameters/
 ---
-## Класс гиперпараметров
+## Hyperparameters class
 
-Представляет гиперпараметры, используемые для задачи тонкой настройки.
+Представляет гиперпараметры, используемые для задачи дообучения.
 
 ```csharp
 public class Hyperparameters
@@ -16,17 +16,19 @@ public class Hyperparameters
 
 ## Конструкторы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [Hyperparameters](hyperparameters/)() | Конструктор по умолчанию. |
 
 ## Свойства
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [BatchSize](../../aspose.pdf.ai/hyperparameters/batchsize/) { get; set; } | Получает или задает количество примеров в каждой партии. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

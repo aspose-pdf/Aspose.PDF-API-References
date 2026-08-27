@@ -1,12 +1,12 @@
 ---
-title: BT.BT
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BT. Инициализирует оператор
+title: "BT.BT"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BT. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/bt/bt/
 ---
-## Конструктор BT
+## BT constructor
 
 Инициализирует оператор.
 
@@ -16,6 +16,8 @@ public BT()
 
 ### См. также
 
-* класс [BT](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [BT](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

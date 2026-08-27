@@ -1,12 +1,12 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Aw
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetSpacingMoveToNextLineShowText. Получает интервал между словами
+title: "SetSpacingMoveToNextLineShowText.Aw"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetSpacingMoveToNextLineShowText. Получает интервал между словами"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/
 ---
-## Свойство SetSpacingMoveToNextLineShowText.Aw
+## SetSpacingMoveToNextLineShowText.Aw property
 
 Получает интервал между словами.
 
@@ -16,6 +16,8 @@ public double Aw { get; }
 
 ### См. также
 
-* класс [SetSpacingMoveToNextLineShowText](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetSpacingMoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

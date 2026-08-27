@@ -1,14 +1,14 @@
 ---
-title: PaperSources.Upper
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSources. Представляет собой верхнюю корзину принтера или корзину по умолчанию, если у принтера только одна корзина
+title: "PaperSources.Upper"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSources. Представляет верхний лоток принтера или лоток по умолчанию, если у принтера только один лоток"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.printing/papersources/upper/
 ---
-## Поле PaperSources.Upper
+## PaperSources.Upper field
 
-Представляет собой верхнюю корзину принтера или корзину по умолчанию, если у принтера только одна корзина.
+Представляет верхний лоток принтера, или лоток по умолчанию, если у принтера только один лоток.
 
 ```csharp
 public static readonly PaperSource Upper;
@@ -16,7 +16,9 @@ public static readonly PaperSource Upper;
 
 ### См. также
 
-* класс [PaperSource](../../papersource/)
-* класс [PaperSources](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

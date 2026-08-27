@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.PageRotations
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfPageEditor. Хэш-таблица содержит номер страницы и угол поворота, ключ представляет номер страницы, значение ключа представляет угол поворота в градусах
+title: "PdfPageEditor.PageRotations"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfPageEditor. Хеш-таблица содержит номер страницы и степень вращения; ключ представляет номер страницы, значение ключа представляет вращение в градусах."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/pagerotations/
 ---
-## Свойство PdfPageEditor.PageRotations
+## PdfPageEditor.PageRotations property
 
-Хэш-таблица содержит номер страницы и угол поворота, ключ представляет номер страницы, значение ключа представляет угол поворота в градусах.
+Хеш-таблица содержит номер страницы и степень вращения; ключ представляет номер страницы, значение ключа — угол вращения в градусах.
 
 ```csharp
 public Dictionary<int, int> PageRotations { get; set; }
@@ -16,6 +16,8 @@ public Dictionary<int, int> PageRotations { get; set; }
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

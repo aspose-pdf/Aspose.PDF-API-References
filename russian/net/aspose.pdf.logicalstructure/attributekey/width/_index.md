@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут ширины Владелец атрибута макета
+title: "AttributeKey.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. атрибут Width владелец атрибута Layout"
 type: docs
 weight: 400
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/width/
 ---
-## Поле AttributeKey.Width
+## AttributeKey.Width field
 
-Атрибут ширины (Владелец атрибута макета).
+Атрибут Width (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey Width;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Width;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BarcodeField.XSymWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BarcodeField. Получает горизонтальное расстояние в пикселях между двумя модулями штрих-кода
+title: "BarcodeField.XSymWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "BarcodeField свойство. Получает горизонтальное расстояние в пикселях между двумя модулями штрихкода."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/barcodefield/xsymwidth/
 ---
-## Свойство BarcodeField.XSymWidth
+## BarcodeField.XSymWidth property
 
-Получает горизонтальное расстояние в пикселях между двумя модулями штрих-кода.
+Получает горизонтальное расстояние в пикселях между двумя модулями штрихкода.
 
 ```csharp
 public int XSymWidth { get; }
@@ -16,6 +16,8 @@ public int XSymWidth { get; }
 
 ### См. также
 
-* класс [BarcodeField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

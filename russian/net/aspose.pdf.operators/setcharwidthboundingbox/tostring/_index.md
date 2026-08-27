@@ -1,12 +1,12 @@
 ---
-title: SetCharWidthBoundingBox.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetCharWidthBoundingBox. Возвращает текстовое представление оператора
+title: "SetCharWidthBoundingBox.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SetCharWidthBoundingBox. Возвращает текстовое представление оператора"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.operators/setcharwidthboundingbox/tostring/
 ---
-## Метод SetCharWidthBoundingBox.ToString
+## SetCharWidthBoundingBox.ToString method
 
 Возвращает текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [SetCharWidthBoundingBox](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

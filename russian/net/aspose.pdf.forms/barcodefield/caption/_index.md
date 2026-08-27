@@ -1,14 +1,14 @@
 ---
-title: BarcodeField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BarcodeField. Получает заголовок объекта штрих-кода
+title: "BarcodeField.Caption"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "BarcodeField свойство. Получает подпись объекта штрихкода."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/barcodefield/caption/
 ---
-## Свойство BarcodeField.Caption
+## BarcodeField.Caption property
 
-Получает заголовок объекта штрих-кода.
+Получает подпись объекта штрихкода.
 
 ```csharp
 public string Caption { get; }
@@ -16,6 +16,8 @@ public string Caption { get; }
 
 ### См. также
 
-* класс [BarcodeField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

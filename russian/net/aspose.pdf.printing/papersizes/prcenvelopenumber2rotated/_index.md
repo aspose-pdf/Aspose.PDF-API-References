@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber2Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. 2 повернутый конверт 176 мм на 102 мм
+title: "PaperSizes.PrcEnvelopeNumber2Rotated"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Конверт 2, повернутый, 176 мм на 102 мм"
 type: docs
 weight: 910
 url: /ru/net/aspose.pdf.printing/papersizes/prcenvelopenumber2rotated/
 ---
-## Поле PaperSizes.PrcEnvelopeNumber2Rotated
+## PaperSizes.PrcEnvelopeNumber2Rotated field
 
-#2 повернутый конверт (176 мм на 102 мм).
+Конверт #2, повёрнутый (176 мм × 102 мм).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber2Rotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize PrcEnvelopeNumber2Rotated;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

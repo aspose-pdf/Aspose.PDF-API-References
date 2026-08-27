@@ -1,14 +1,14 @@
 ---
-title: VectorStoreModifyRequest.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство VectorStoreModifyRequest. Получает или задает имя векторного хранилища
+title: "VectorStoreModifyRequest.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство VectorStoreModifyRequest. Получает или задает имя векторного хранилища"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/vectorstoremodifyrequest/name/
 ---
-## Свойство VectorStoreModifyRequest.Name
+## VectorStoreModifyRequest.Name property
 
-Получает или задает имя векторного хранилища.
+Получает или задает название векторного хранилища.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [VectorStoreModifyRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

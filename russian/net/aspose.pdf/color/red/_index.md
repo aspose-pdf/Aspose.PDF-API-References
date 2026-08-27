@@ -1,14 +1,14 @@
 ---
-title: Color.Red
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFF0000
+title: "Color.Red"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFFF0000"
 type: docs
 weight: 1150
 url: /ru/net/aspose.pdf/color/red/
 ---
-## Свойство Color.Red
+## Color.Red property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFF0000.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FFFF0000.
 
 ```csharp
 public static Color Red { get; }
@@ -16,10 +16,12 @@ public static Color Red { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

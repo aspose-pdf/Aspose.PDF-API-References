@@ -1,14 +1,14 @@
 ---
-title: HtmlFragment.IsBreakWords
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlFragment. Получает или устанавливает разбиение слов
+title: "HtmlFragment.IsBreakWords"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlFragment. Получает или задает разрыв слов"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/htmlfragment/isbreakwords/
 ---
-## Свойство HtmlFragment.IsBreakWords
+## HtmlFragment.IsBreakWords property
 
-Получает или устанавливает разбиение слов
+Получает или задает разрыв слов
 
 ```csharp
 public bool IsBreakWords { get; set; }
@@ -16,6 +16,8 @@ public bool IsBreakWords { get; set; }
 
 ### См. также
 
-* класс [HtmlFragment](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SubmitFormAction.CanonicalFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SubmitFormAction. Если установлено, любые отправленные значения полей, представляющие даты, будут преобразованы в стандартный формат
+title: "SubmitFormAction.CanonicalFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SubmitFormAction. Если установлено, любые отправленные значения полей, представляющие даты, будут преобразованы в стандартный формат."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/submitformaction/canonicalformat/
 ---
-## Поле SubmitFormAction.CanonicalFormat
+## SubmitFormAction.CanonicalFormat field
 
 Если установлено, любые отправленные значения полей, представляющие даты, будут преобразованы в стандартный формат.
 
@@ -16,6 +16,8 @@ public const int CanonicalFormat;
 
 ### См. также
 
-* класс [SubmitFormAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

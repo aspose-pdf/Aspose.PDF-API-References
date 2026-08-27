@@ -1,12 +1,12 @@
 ---
-title: PageNumber.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PageNumber. Конструктор по умолчанию
+title: "PageNumber.PageNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PageNumber constructor. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pagenumber/pagenumber/
 ---
-## Конструктор PageNumber
+## PageNumber constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public PageNumber()
 
 ### См. также
 
-* класс [PageNumber](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageNumber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.WP
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Знаки препинания Warichu Знаки препинания, которые окружают текст WT. Обычно это текст, состоящий из одной ЛЕВОЙ или ПРАВОЙ СКОБКИ или аналогичного символа. Согласно JIS X 4051-1995, скобки, окружающие warichu, могут быть преобразованы в ПРОБЕЛ по усмотрению форматировщика.
+title: "StructureTypeStandard.WP"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard поле. Warichu пунктуация Пунктуация, окружающая текст WT. Обычно она представляет собой один левый или правый скобочный символ или аналогичный ограничительный символ. Согласно JIS X 40511995 скобки, окружающие warichu, могут быть заменены пробелом шириной примерно 1/4 EM по усмотрению форматировщика."
 type: docs
 weight: 480
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/wp/
 ---
-## Поле StructureTypeStandard.WP
+## StructureTypeStandard.WP field
 
-(Знаки препинания Warichu) Знаки препинания, которые окружают текст WT. Обычно это текст (состоящий из одной ЛЕВОЙ или ПРАВОЙ СКОБКИ или аналогичного символа). Согласно JIS X 4051-1995, скобки, окружающие warichu, могут быть преобразованы в ПРОБЕЛ (номинально 1/4 EM в ширину) по усмотрению форматировщика.
+(Warichu punctuation) Знаки препинания, окружающие текст WT. Они содержат текст (обычно одну левую или правую скобку или аналогичный ограничительный символ). Согласно JIS X 4051-1995, скобки, окружающие warichu, могут быть заменены ПРОБЕЛОМ (условно 1/4 EM в ширину) по усмотрению форматировщика.
 
 ```csharp
 public static readonly StructureTypeStandard WP;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard WP;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

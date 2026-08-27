@@ -1,7 +1,7 @@
 ---
-title: PDF3DContent.PDF3DContent
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PDF3DContent. Инициализирует новый экземпляр класса PDF3DContent
+title: "PDF3DContent.PDF3DContent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PDF3DContent. Инициализирует новый экземпляр класса PDF3DContent"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dcontent/pdf3dcontent/
@@ -16,9 +16,9 @@ public PDF3DContent()
 
 ### См. также
 
-* класс [PDF3DContent](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,16 +32,18 @@ public PDF3DContent(string filename)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filename | String | Имя файла. |
+| имя файла | String | Имя файла. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Неизвестный тип 3D графики |
+| ArgumentException | Неизвестный тип 3D Artwork |
 
 ### См. также
 
-* класс [PDF3DContent](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

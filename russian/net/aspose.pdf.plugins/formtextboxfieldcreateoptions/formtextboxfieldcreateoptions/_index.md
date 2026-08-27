@@ -1,14 +1,14 @@
 ---
-title: FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FormTextBoxFieldCreateOptions. Инициализирует новый экземпляр объекта FormTextBoxFieldCreateOptions, который содержит параметры для созданного и добавленного TextBoxField
+title: "FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FormTextBoxFieldCreateOptions. Инициализирует новый экземпляр объекта FormTextBoxFieldCreateOptions, содержащий параметры для созданного и добавленного TextBoxField"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/formtextboxfieldcreateoptions/
 ---
-## Конструктор FormTextBoxFieldCreateOptions
+## FormTextBoxFieldCreateOptions constructor
 
-Инициализирует новый экземпляр объекта [`FormTextBoxFieldCreateOptions`](../), который содержит параметры для созданного и добавленного TextBoxField.
+Инициализирует новый экземпляр объекта [`FormTextBoxFieldCreateOptions`](../), содержащего параметры для созданного и добавленного TextBoxField.
 
 ```csharp
 public FormTextBoxFieldCreateOptions(int pageNum, Rectangle rect)
@@ -16,12 +16,14 @@ public FormTextBoxFieldCreateOptions(int pageNum, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNum | Int32 | Номер страницы, на которой будет располагаться добавленный TextBoxField. |
+| pageNum | Int32 | Номер страницы, на которой будет размещён добавленный TextBoxField. |
 | rect | Rectangle | Устанавливает прямоугольник TextBoxField. |
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [FormTextBoxFieldCreateOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormTextBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

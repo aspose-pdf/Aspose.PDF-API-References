@@ -1,7 +1,7 @@
 ---
-title: InvalidFormTypeOperationException.InvalidFormTypeOperationException
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор InvalidFormTypeOperationException. Инициализирует новый экземпляр класса InvalidFormTypeOperationException
+title: "InvalidFormTypeOperationException.InvalidFormTypeOperationException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор InvalidFormTypeOperationException. Инициализирует новый экземпляр класса InvalidFormTypeOperationException"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperati
 public InvalidFormTypeOperationException()
 ```
 
-### See Also
+### См. также
 
 * class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,11 +30,11 @@ public InvalidFormTypeOperationException()
 public InvalidFormTypeOperationException(string message)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | message | String | Сообщение. |
 
-### See Also
+### См. также
 
 * class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -44,18 +44,18 @@ public InvalidFormTypeOperationException(string message)
 
 ## InvalidFormTypeOperationException(string, Exception) {#constructor_3}
 
-Инициализирует новый экземпляр класса [`InvalidFormTypeOperationException`](../) с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр класса [`InvalidFormTypeOperationException`](../) с указанным сообщением об ошибке и ссылкой на внутреннее исключение, являющееся причиной данного исключения.
 
 ```csharp
 public InvalidFormTypeOperationException(string message, Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об ошибке, которое объясняет причину исключения. |
-| innerException | Exception | Исключение, которое является причиной текущего исключения, или ссылка на null (Nothing в Visual Basic), если внутреннее исключение не указано. |
+| message | String | Сообщение об ошибке, объясняющее причину исключения. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или null‑ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
-### See Also
+### См. также
 
 * class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -65,18 +65,20 @@ public InvalidFormTypeOperationException(string message, Exception innerExceptio
 
 ## InvalidFormTypeOperationException(Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса [`InvalidFormTypeOperationException`](../) со ссылкой на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр класса [`InvalidFormTypeOperationException`](../) со ссылкой на внутреннее исключение, являющееся причиной данного исключения.
 
 ```csharp
 public InvalidFormTypeOperationException(Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, которое является причиной текущего исключения, или ссылка на null (Nothing в Visual Basic), если внутреннее исключение не указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или null‑ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
-### See Also
+### См. также
 
 * class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

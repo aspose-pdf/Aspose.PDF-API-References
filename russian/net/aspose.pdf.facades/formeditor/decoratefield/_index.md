@@ -1,7 +1,7 @@
 ---
-title: FormEditor.DecorateField
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Изменяет визуальные атрибуты указанного поля
+title: "FormEditor.DecorateField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "метод FormEditor. Изменяет визуальные атрибуты указанного поля"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/formeditor/decoratefield/
@@ -16,7 +16,7 @@ public void DecorateField(string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Полное имя поля. |
+| fieldName | String | Полностью квалифицированное имя поля. |
 
 ## Примеры
 
@@ -32,15 +32,15 @@ fe.DecorateField("textField");
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DecorateField(FieldType) {#decoratefield_1}
 
-Изменяет визуальные атрибуты всех полей с указанным типом поля.
+Изменяет визуальные атрибуты всех полей указанного типа.
 
 ```csharp
 public void DecorateField(FieldType fieldType)
@@ -59,22 +59,22 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all text fields.
+//оформить все текстовые поля.
 fe.DecorateField(FieldType.Text);
 ```
 
 ### См. также
 
-* перечисление [FieldType](../../fieldtype/)
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* enum [FieldType](../../fieldtype/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DecorateField() {#decoratefield}
 
-Изменяет визуальные атрибуты всех полей в PDF документе.
+Изменяет визуальные атрибуты всех полей в PDF‑документе.
 
 ```csharp
 public void DecorateField()
@@ -89,12 +89,14 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all fields.
+//оформить все поля.
 fe.DecorateField();
 ```
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.DelListItem
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Удалить элемент из списка
+title: "FormEditor.DelListItem"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "метод FormEditor. Удалить элемент из поля списка"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.facades/formeditor/dellistitem/
 ---
-## Метод FormEditor.DelListItem
+## FormEditor.DelListItem method
 
-Удалить элемент из списка.
+Удаляет элемент из поля списка.
 
 ```csharp
 public void DelListItem(string fieldName, string itemName)
@@ -17,7 +17,7 @@ public void DelListItem(string fieldName, string itemName)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fieldName | String | Имя поля. |
-| itemName | String | Имя элемента, который должен быть удален. |
+| itemName | String | Имя элемента, который необходимо удалить. |
 
 ## Примеры
 
@@ -28,6 +28,8 @@ formEditor.DelListItem("listboxField", "item2");
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

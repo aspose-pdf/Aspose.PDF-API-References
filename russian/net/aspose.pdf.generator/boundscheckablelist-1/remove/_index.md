@@ -1,12 +1,12 @@
 ---
-title: BoundsCheckableList1.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод BoundsCheckableList. Удаляет первое вхождение конкретного объекта из System.Collections.Generic.List
+title: "BoundsCheckableList1.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод BoundsCheckableList. Удаляет первое вхождение указанного объекта из System.Collections.Generic.List"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.generator/boundscheckablelist-1/remove/
 ---
-## BoundsCheckableList&lt;T&gt;.Remove метод
+## BoundsCheckableList&lt;T&gt;.Remove method
 
 Удаляет первое вхождение конкретного объекта из System.Collections.Generic.List.
 
@@ -20,10 +20,12 @@ public bool Remove(T item)
 
 ### Возвращаемое значение
 
-true, если *item* успешно удален; в противном случае false. Этот метод также возвращает false, если *item* не был найден в System.Collections.Generic.List.
+true, если *item* успешно удалён; иначе false. Этот метод также возвращает false, если *item* не найден в System.Collections.Generic.List.
 
 ### См. также
 
-* класс [BoundsCheckableList&lt;T&gt;](../)
-* пространство имен [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* сборка [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

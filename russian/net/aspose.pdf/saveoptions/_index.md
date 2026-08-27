@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.SaveOptions. Тип SaveOptions содержит уровень абстракции для отдельных параметров сохранения
+title: "Класс SaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.SaveOptions класс. SaveOptions тип удерживает уровень абстракции над отдельными параметрами сохранения"
 type: docs
-weight: 9870
+weight: 10020
 url: /ru/net/aspose.pdf/saveoptions/
 ---
-## Класс SaveOptions
+## SaveOptions class
 
-Тип SaveOptions содержит уровень абстракции для отдельных параметров сохранения
+Тип SaveOptions содержит уровень абстракции над отдельными параметрами сохранения
 
 ```csharp
 public abstract class SaveOptions
@@ -18,12 +18,14 @@ public abstract class SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Получает или задает логическое значение, которое указывает, будут ли глифы шрифта кэшироваться при подготовке страниц aps. Улучшает производительность конвертации pdf в другие форматы, но увеличивает потребление памяти. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Получает или задает логическое значение, которое указывает, будет ли объект Response закрыт после сохранения документа в ответ. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Получает или задает логическое значение, указывающее, будут ли кэшироваться глифы шрифтов при подготовке страниц aps. Улучшает производительность конвертации pdf в другие форматы, но увеличивает потребление памяти. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Получает или задает логическое значение, указывающее, будет ли объект Response закрыт после сохранения document в ответ. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Формат сохранения данных. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue является действием по умолчанию, и операция сохранения продолжается, однако пользователь также может вернуть Abort, в этом случае операция сохранения должна прекратиться. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция Save продолжается, однако пользователь также может вернуть Abort, в этом случае операция Save должна прекратиться. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

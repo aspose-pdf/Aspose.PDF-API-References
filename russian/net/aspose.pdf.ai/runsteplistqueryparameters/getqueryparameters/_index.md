@@ -1,14 +1,14 @@
 ---
-title: RunStepListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Метод RunStepListQueryParameters. Получает параметры запроса для списка шагов выполнения
+title: "RunStepListQueryParameters.GetQueryParameters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод RunStepListQueryParameters. Получает параметры запроса для перечисления шагов выполнения."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/runsteplistqueryparameters/getqueryparameters/
 ---
-## Метод RunStepListQueryParameters.GetQueryParameters
+## RunStepListQueryParameters.GetQueryParameters method
 
-Получает параметры запроса для списка шагов выполнения.
+Получает параметры запроса для перечисления шагов выполнения.
 
 ```csharp
 public string GetQueryParameters()
@@ -20,6 +20,8 @@ public string GetQueryParameters()
 
 ### См. также
 
-* класс [RunStepListQueryParameters](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunStepListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

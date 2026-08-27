@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OperatorCollection. Удалить оператор из коллекции
+title: "OperatorCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OperatorCollection method. Удалить оператор из коллекции."
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/operatorcollection/remove/
 ---
-## Метод OperatorCollection.Remove
+## OperatorCollection.Remove method
 
-Удалить оператор из коллекции.
+Удаляет оператор из коллекции.
 
 ```csharp
 public override bool Remove(Operator op)
@@ -16,15 +16,17 @@ public override bool Remove(Operator op)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| op | Оператор | Оператор, который необходимо удалить. |
+| op | Operator | Оператор для удаления. |
 
 ### Возвращаемое значение
 
-True, если оператор был найден и удален. False, если оператор не принадлежал коллекции.
+True, если оператор найден и удалён. False, если оператор не принадлежал коллекции.
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

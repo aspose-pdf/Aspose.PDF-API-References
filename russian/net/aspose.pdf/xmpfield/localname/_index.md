@@ -1,12 +1,12 @@
 ---
-title: XmpField.LocalName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpField. Получает или задает имя локального
+title: "XmpField.LocalName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpField. Получает или задает имя локального"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/xmpfield/localname/
 ---
-## Свойство XmpField.LocalName
+## XmpField.LocalName property
 
 Получает или задает имя локального.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf/xmpfield/localname/
 public string LocalName { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Имя локального.
 
 ### См. также
 
-* класс [XmpField](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Метод BaseOperatorCollection. Очищает коллекцию
+title: "BaseOperatorCollection.Clear"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод BaseOperatorCollection. Очищает коллекцию."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/baseoperatorcollection/clear/
 ---
-## Метод BaseOperatorCollection.Clear
+## BaseOperatorCollection.Clear method
 
 Очищает коллекцию.
 
@@ -16,6 +16,8 @@ public abstract void Clear()
 
 ### См. также
 
-* класс [BaseOperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

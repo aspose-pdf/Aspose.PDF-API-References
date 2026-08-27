@@ -1,14 +1,14 @@
 ---
-title: StreamDataSource.StreamDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор StreamDataSource. Инициализирует новый источник данных потока с указанным объектом потока
+title: "StreamDataSource.StreamDataSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор StreamDataSource. Инициализирует новый потоковый источник данных с указанным объектом потока."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/streamdatasource/streamdatasource/
 ---
-## Конструктор StreamDataSource
+## StreamDataSource constructor
 
-Инициализирует новый источник данных потока с указанным объектом потока.
+Инициализирует новый потоковый источник данных с указанным объектом потока.
 
 ```csharp
 public StreamDataSource(Stream data)
@@ -16,10 +16,12 @@ public StreamDataSource(Stream data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Stream | Объект потока |
+| data | Stream | Объект Stream |
 
 ### См. также
 
-* класс [StreamDataSource](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [StreamDataSource](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

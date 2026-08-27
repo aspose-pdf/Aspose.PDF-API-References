@@ -1,14 +1,14 @@
 ---
-title: Border.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство границы. Получает или задает ширину границы
+title: "Border.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Border. Получает или задает ширину границы"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/border/width/
 ---
-## Свойство Border.Width
+## Border.Width property
 
-Получает или задает ширину границы.
+Получает или задаёт ширину границы.
 
 ```csharp
 public int Width { get; set; }
@@ -16,6 +16,8 @@ public int Width { get; set; }
 
 ### См. также
 
-* класс [Border](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

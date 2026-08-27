@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateCaptionElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает CaptionElement
+title: "ITaggedContent.CreateCaptionElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает CaptionElement"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/
 ---
-## Метод ITaggedContent.CreateCaptionElement
+## ITaggedContent.CreateCaptionElement method
 
 Создает [`CaptionElement`](../../../aspose.pdf.logicalstructure/captionelement/).
 
@@ -16,11 +16,13 @@ public CaptionElement CreateCaptionElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

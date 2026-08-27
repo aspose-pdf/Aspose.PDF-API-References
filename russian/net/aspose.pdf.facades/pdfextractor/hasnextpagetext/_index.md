@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.HasNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfExtractor. Указывает, можно ли получить больше текстов или нет
+title: "PdfExtractor.HasNextPageText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfExtractor. Указывает, можно ли получить дополнительный текст или нет"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/pdfextractor/hasnextpagetext/
 ---
-## Метод PdfExtractor.HasNextPageText
+## PdfExtractor.HasNextPageText method
 
-Указывает, можно ли получить больше текстов или нет.
+Указывает, можно ли получить дополнительный текст или нет.
 
 ```csharp
 public bool HasNextPageText()
@@ -16,7 +16,7 @@ public bool HasNextPageText()
 
 ### Возвращаемое значение
 
-Можно получить больше текстов или нет, true - можно, или false.
+Можно получить больше текста или нет, true означает «можно», или false.
 
 ## Примеры
 
@@ -51,6 +51,8 @@ End While
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

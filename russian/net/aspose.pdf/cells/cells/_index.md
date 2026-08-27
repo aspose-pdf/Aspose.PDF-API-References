@@ -1,12 +1,12 @@
 ---
-title: Cells.Cells
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Cells. Конструктор по умолчанию
+title: "Cells.Cells"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Cells. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/cells/cells/
 ---
-## Конструктор Cells
+## Cells constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Cells()
 
 ### См. также
 
-* класс [Cells](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

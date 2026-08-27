@@ -1,25 +1,27 @@
 ---
-title: Margins.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Margins. Получает или задает верхний
+title: "Margins.Top"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Margins. Получает или задает верхнее значение"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.devices/margins/top/
 ---
-## Свойство Margins.Top
+## Margins.Top property
 
-Получает или задает верхний.
+Получает или задает верхнее значение.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Верхний.
+Верх.
 
 ### См. также
 
-* класс [Margins](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

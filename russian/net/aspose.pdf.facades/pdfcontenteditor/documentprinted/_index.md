@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DocumentPrinted
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfContentEditor. Тип события документа. Выполните действие после печати
+title: "PdfContentEditor.DocumentPrinted"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfContentEditor. Тип события документа. Выполняет действие после печати"
 type: docs
 weight: 490
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/documentprinted/
 ---
-## Поле PdfContentEditor.DocumentPrinted
+## PdfContentEditor.DocumentPrinted field
 
-Тип события документа. Выполните действие после печати.
+Тип события документа. Выполняет действие после печати.
 
 ```csharp
 public const string DocumentPrinted;
@@ -16,6 +16,8 @@ public const string DocumentPrinted;
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

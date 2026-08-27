@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.SetFaceColor
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DRenderMode. Устанавливает цвет поверхности
+title: "PDF3DRenderMode.SetFaceColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PDF3DRenderMode метод. Устанавливает цвет грани"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/setfacecolor/
 ---
-## Метод PDF3DRenderMode.SetFaceColor
+## PDF3DRenderMode.SetFaceColor method
 
-Устанавливает цвет поверхности.
+Устанавливает color грани.
 
 ```csharp
 public PDF3DRenderMode SetFaceColor(Color color)
@@ -24,7 +24,9 @@ PDF3DRenderMode.
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [PDF3DRenderMode](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

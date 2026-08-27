@@ -1,14 +1,14 @@
 ---
-title: Element.ClearChilds
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Element. Очистить всех детей
+title: "Element.ClearChilds"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Element. Очистить все дочерние элементы"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.logicalstructure/element/clearchilds/
 ---
-## Метод Element.ClearChilds
+## Element.ClearChilds method
 
-Очистить всех детей.
+Очистить все дочерние элементы.
 
 ```csharp
 public void ClearChilds()
@@ -16,6 +16,8 @@ public void ClearChilds()
 
 ### См. также
 
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

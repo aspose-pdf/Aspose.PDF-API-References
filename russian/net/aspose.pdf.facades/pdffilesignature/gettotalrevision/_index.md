@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetTotalRevision
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Получает общее количество ревизий
+title: "PdfFileSignature.GetTotalRevision"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileSignature method. Получает общее количество ревизий."
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.facades/pdffilesignature/gettotalrevision/
 ---
-## Метод PdfFileSignature.GetTotalRevision
+## PdfFileSignature.GetTotalRevision method
 
-Получает общее количество ревизий.
+Получает общую ревизию.
 
 ```csharp
 public int GetTotalRevision()
@@ -20,6 +20,8 @@ public int GetTotalRevision()
 
 ### См. также
 
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

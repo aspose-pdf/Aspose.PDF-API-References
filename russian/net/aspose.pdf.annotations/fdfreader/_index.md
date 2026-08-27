@@ -1,9 +1,9 @@
 ---
-title: Class FdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.FdfReader. Класс, который выполняет чтение формата FDF
+title: "Класс FdfReader"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.FdfReader class. Класс, который выполняет чтение формата FDF"
 type: docs
-weight: 1700
+weight: 1790
 url: /ru/net/aspose.pdf.annotations/fdfreader/
 ---
 ## FdfReader class
@@ -14,13 +14,13 @@ url: /ru/net/aspose.pdf.annotations/fdfreader/
 public sealed class FdfReader
 ```
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| static [ReadAnnotations](../../aspose.pdf.annotations/fdfreader/readannotations/)(Stream, Document) | Импортировать аннотации из FDF файла и поместить их в документ. |
+| static [ReadAnnotations](../../aspose.pdf.annotations/fdfreader/readannotations/)(Stream, Document) | Импортировать аннотации из файла FDF и поместить их в документ. |
 
-## Examples
+## Примеры
 
 ```csharp
 Document doc = new Document("example.pdf");
@@ -30,7 +30,9 @@ fdfStream.Close();
 doc.Save("example_out.pdf");
 ```
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

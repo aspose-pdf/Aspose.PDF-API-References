@@ -1,14 +1,14 @@
 ---
-title: IIndexBitmapConverter.Get8BppImage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IIndexBitmapConverter. Возвращает представление битовой карты 8Bpp
+title: "IIndexBitmapConverter.Get8BppImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IIndexBitmapConverter. Возвращает 8Bpp представление bitmap"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/iindexbitmapconverter/get8bppimage/
 ---
-## Метод IIndexBitmapConverter.Get8BppImage
+## IIndexBitmapConverter.Get8BppImage method
 
-Возвращает представление битовой карты 8Bpp
+Возвращает 8‑битное (8Bpp) представление растрового изображения
 
 ```csharp
 public Bitmap Get8BppImage(Bitmap src)
@@ -16,14 +16,16 @@ public Bitmap Get8BppImage(Bitmap src)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| src | Bitmap | Исходная битовая карта. |
+| src | Bitmap | Исходный bitmap. |
 
 ### Возвращаемое значение
 
-Битовая карта в формате изображения 8 bpp.
+Bitmap в формате изображения 8 bpp.
 
 ### См. также
 
-* интерфейс [IIndexBitmapConverter](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* interface [IIndexBitmapConverter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

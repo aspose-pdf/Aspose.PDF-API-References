@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.ButtonStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldFacade. Стиль поля флажка или радиокнопки, определяемый FormFieldFacade.CheckBoxStyle
+title: "FormFieldFacade.ButtonStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade property. Стиль поля флажка или переключателя, определенный с помощью FormFieldFacade.CheckBoxStyle"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/formfieldfacade/buttonstyle/
 ---
-## Свойство FormFieldFacade.ButtonStyle
+## FormFieldFacade.ButtonStyle property
 
-Стиль поля флажка или радиокнопки, определяемый FormFieldFacade.CheckBoxStyle*.
+Стиль поля флажка или переключателя, определяемый FormFieldFacade.CheckBoxStyle*.
 
 ```csharp
 public int ButtonStyle { get; set; }
@@ -16,6 +16,8 @@ public int ButtonStyle { get; set; }
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

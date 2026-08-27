@@ -1,14 +1,14 @@
 ---
-title: Annotation.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает или устанавливает имя аннотации на странице
+title: "Annotation.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Получает или задает имя аннотации на странице"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.annotations/annotation/name/
 ---
-## Свойство Annotation.Name
+## Annotation.Name property
 
-Получает или устанавливает имя аннотации на странице.
+Получает или задает имя аннотации на странице.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

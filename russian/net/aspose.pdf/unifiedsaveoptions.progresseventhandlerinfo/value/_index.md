@@ -1,12 +1,12 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ProgressEventHandlerInfo. Текущее значение прогресса
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.Value"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ProgressEventHandlerInfo. Текущее значение прогресса."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value/
 ---
-## Поле UnifiedSaveOptions.ProgressEventHandlerInfo.Value
+## UnifiedSaveOptions.ProgressEventHandlerInfo.Value field
 
 Текущее значение прогресса.
 
@@ -16,6 +16,8 @@ public int Value;
 
 ### См. также
 
-* класс [ProgressEventHandlerInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ProgressEventHandlerInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

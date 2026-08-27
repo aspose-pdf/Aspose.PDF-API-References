@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.BorderInfo.LeftStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Поле BorderInfo. Представляет левую часть границы
+title: "SaveOptions.BorderInfo.LeftStyleIfAny"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "BorderInfo field. Представляет левую часть, если она есть, границы."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/saveoptions.borderinfo/leftstyleifany/
 ---
-## Поле SaveOptions.BorderInfo.LeftStyleIfAny
+## SaveOptions.BorderInfo.LeftStyleIfAny field
 
 Представляет левую часть (если есть) границы
 
@@ -16,7 +16,9 @@ public BorderPartStyle LeftStyleIfAny;
 
 ### См. также
 
-* класс [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* класс [BorderInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

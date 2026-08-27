@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.PositioningMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FloatingBox. Указывает вариант для определения расположения FloatingBox на странице
+title: "FloatingBox.PositioningMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FloatingBox. Указывает вариант определения положения FloatingBox на странице"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/floatingbox/positioningmode/
 ---
-## Свойство FloatingBox.PositioningMode
+## FloatingBox.PositioningMode property
 
-Указывает вариант для определения расположения FloatingBox на странице.
+Указывает вариант определения расположения FloatingBox на странице.
 
 ```csharp
 public ParagraphPositioningMode PositioningMode { get; set; }
@@ -20,3 +20,5 @@ public ParagraphPositioningMode PositioningMode { get; set; }
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

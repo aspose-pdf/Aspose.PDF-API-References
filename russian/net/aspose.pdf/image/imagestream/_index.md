@@ -1,14 +1,14 @@
 ---
-title: Image.ImageStream
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство изображения. Получает или устанавливает поток изображения
+title: "Image.ImageStream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Image. Получает или задает поток изображения"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/image/imagestream/
 ---
-## Свойство Image.ImageStream
+## Image.ImageStream property
 
-Получает или устанавливает поток изображения.
+Получает или задаёт поток изображения.
 
 ```csharp
 public Stream ImageStream { get; set; }
@@ -16,6 +16,8 @@ public Stream ImageStream { get; set; }
 
 ### См. также
 
-* класс [Image](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

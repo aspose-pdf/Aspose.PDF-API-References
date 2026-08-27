@@ -1,14 +1,14 @@
 ---
-title: Element.RemoveChild
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Element. Удалить дочерний элемент по
+title: "Element.RemoveChild"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Element. Удалить дочерний элемент по индексу"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.logicalstructure/element/removechild/
 ---
-## Метод Element.RemoveChild
+## Element.RemoveChild method
 
-Удалить дочерний элемент по.
+Удалить дочерний элемент в позиции.
 
 ```csharp
 public void RemoveChild(int index)
@@ -20,6 +20,8 @@ public void RemoveChild(int index)
 
 ### См. также
 
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

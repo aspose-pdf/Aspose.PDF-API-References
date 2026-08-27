@@ -1,20 +1,20 @@
 ---
-title: PdfViewer.PdfViewer
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfViewer. Инициализирует новый объект PdfViewer
+title: "PdfViewer.PdfViewer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfViewer. Инициализирует новый объект PdfViewer"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfviewer/pdfviewer/
 ---
 ## PdfViewer() {#constructor}
 
-Инициализирует новый [`PdfViewer`](../) объект.
+Инициализирует новый объект [`PdfViewer`](../).
 
 ```csharp
 public PdfViewer()
 ```
 
-### See Also
+### См. также
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,19 +24,21 @@ public PdfViewer()
 
 ## PdfViewer(Document) {#constructor_1}
 
-Инициализирует новый [`PdfViewer`](../) объект.
+Инициализирует новый объект [`PdfViewer`](../).
 
 ```csharp
 public PdfViewer(Document document)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Объект документа. |
+| документ | Document | Объект Document. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

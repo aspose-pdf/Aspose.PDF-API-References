@@ -1,14 +1,14 @@
 ---
-title: Font.BaseFont
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство шрифта. Получает значение BaseFont объекта шрифта PDF. Также известен как имя PostScript шрифта
+title: "Font.BaseFont"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Font. Возвращает значение BaseFont объекта шрифта PDF. Также известно как имя PostScript шрифта"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/font/basefont/
 ---
-## Свойство Font.BaseFont
+## Font.BaseFont property
 
-Получает значение BaseFont объекта шрифта PDF. Также известен как имя PostScript шрифта.
+Получает значение BaseFont объекта шрифта PDF. Также известное как имя PostScript шрифта.
 
 ```csharp
 public string BaseFont { get; }
@@ -16,6 +16,8 @@ public string BaseFont { get; }
 
 ### См. также
 
-* класс [Font](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

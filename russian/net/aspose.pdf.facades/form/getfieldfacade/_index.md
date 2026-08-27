@@ -1,12 +1,12 @@
 ---
-title: Form.GetFieldFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Form. Возвращает объект FrofmFieldFacade, содержащий все атрибуты внешнего вида
+title: "Form.GetFieldFacade"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Возвращает объект FrofmFieldFacade, содержащий все атрибуты внешнего вида"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/form/getfieldfacade/
 ---
-## Метод Form.GetFieldFacade
+## Form.GetFieldFacade method
 
 Возвращает объект FrofmFieldFacade, содержащий все атрибуты внешнего вида.
 
@@ -30,7 +30,9 @@ public FormFieldFacade GetFieldFacade(string fieldName)
 
 ### См. также
 
-* класс [FormFieldFacade](../../formfieldfacade/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

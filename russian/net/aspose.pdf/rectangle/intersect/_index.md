@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rectangle. Пересекает два прямоугольника
+title: "Rectangle.Intersect"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Rectangle. Пересекает два прямоугольника"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf/rectangle/intersect/
 ---
-## Метод Rectangle.Intersect
+## Rectangle.Intersect method
 
-Пересекает два прямоугольника.
+Пересекает прямоугольники.
 
 ```csharp
 public Rectangle Intersect(Rectangle otherRect)
@@ -16,7 +16,7 @@ public Rectangle Intersect(Rectangle otherRect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| otherRect | Rectangle | Прямоугольник, с которым будет пересекаться этот прямоугольник. |
+| otherRect | Rectangle | Прямоугольник, с которым будет пересечён этот прямоугольник. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public Rectangle Intersect(Rectangle otherRect)
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

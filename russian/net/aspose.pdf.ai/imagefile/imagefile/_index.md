@@ -1,12 +1,12 @@
 ---
-title: ImageFile.ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ImageFile. Конструктор по умолчанию
+title: "ImageFile.ImageFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ImageFile конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/imagefile/imagefile/
 ---
-## Конструктор ImageFile
+## ImageFile constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ImageFile()
 
 ### См. также
 
-* класс [ImageFile](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageFile](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

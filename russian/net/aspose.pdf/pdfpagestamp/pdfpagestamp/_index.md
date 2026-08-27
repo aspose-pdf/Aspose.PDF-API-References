@@ -1,7 +1,7 @@
 ---
-title: PdfPageStamp.PdfPageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfPageStamp. Конструктор PdfPageStamp
+title: "PdfPageStamp.PdfPageStamp"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfPageStamp. Конструктор класса PdfPageStamp"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pdfpagestamp/pdfpagestamp/
@@ -16,20 +16,20 @@ public PdfPageStamp(Page pdfPage)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdfPage | Page | Страница, которая используется для штампования. |
+| pdfPage | Страница | Страница, используемая для штамповки. |
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PdfPageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfPageStamp(string, int) {#constructor_2}
 
-Создает штамп страницы Pdf из указанной страницы документа в указанном файле.
+Создаёт штамп страницы PDF из указанной страницы документа в указанном файле.
 
 ```csharp
 public PdfPageStamp(string fileName, int pageIndex)
@@ -37,20 +37,20 @@ public PdfPageStamp(string fileName, int pageIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileName | String | Имя и страница PDF файла. |
+| fileName | String | Имя и страница PDF‑файла. |
 | pageIndex | Int32 | Индекс страницы. |
 
 ### См. также
 
-* класс [PdfPageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfPageStamp(Stream, int) {#constructor_1}
 
-Создает штамп страницы Pdf из указанной страницы в документе из потока.
+Создаёт штамп страницы PDF из указанной страницы в документе из потока.
 
 ```csharp
 public PdfPageStamp(Stream stream, int pageIndex)
@@ -58,11 +58,13 @@ public PdfPageStamp(Stream stream, int pageIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, который содержит PDF |
+| stream | Stream | Поток, содержащий PDF |
 | pageIndex | Int32 | Индекс страницы. |
 
 ### См. также
 
-* класс [PdfPageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

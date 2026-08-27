@@ -1,12 +1,12 @@
 ---
-title: PageCollection.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageCollection. Возвращает индекс указанной страницы
+title: "PageCollection.IndexOf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageCollection. Возвращает индекс указанной страницы"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/pagecollection/indexof/
 ---
-## Метод PageCollection.IndexOf
+## PageCollection.IndexOf method
 
 Возвращает индекс указанной страницы.
 
@@ -16,7 +16,7 @@ public int IndexOf(Page entity)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| entity | Page | Объект страницы. Номера страниц начинаются с 1. |
+| сущность | Страница | Объект Page. Номера страниц начинаются с 1. |
 
 ### Возвращаемое значение
 
@@ -24,11 +24,13 @@ public int IndexOf(Page entity)
 
 ## Примечания
 
-Номера страниц начинаются с 1. Возвращает 0 в случае, если коллекция не содержит страницу.
+Номера страниц начинаются с 1. Возвращает 0, если коллекция не содержит страницу.
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

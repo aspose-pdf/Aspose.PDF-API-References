@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureTextState. Получает или задает интервал между словами текста
+title: "StructureTextState.WordSpacing"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTextState свойство. Получает или задает интервал между словами в тексте"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.logicalstructure/structuretextstate/wordspacing/
 ---
-## Свойство StructureTextState.WordSpacing
+## StructureTextState.WordSpacing property
 
 Получает или задает интервал между словами текста.
 
@@ -20,6 +20,8 @@ public float? WordSpacing { get; set; }
 
 ### См. также
 
-* класс [StructureTextState](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class TabStop
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.TabStop. Представляет пользовательскую позицию табуляции в абзаце
+title: "Класс TabStop"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.TabStop. Представляет пользовательскую позицию табуляции в абзаце"
 type: docs
-weight: 10770
+weight: 10950
 url: /ru/net/aspose.pdf.text/tabstop/
 ---
-## Класс TabStop
+## TabStop class
 
 Представляет пользовательскую позицию табуляции в абзаце.
 
@@ -25,12 +25,14 @@ public class TabStop
 
 | Имя | Описание |
 | --- | --- |
-| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype/) { get; set; } | Получает или задает значение перечисления [`AlignmentType`](./alignmenttype/), которое указывает тип выравнивания табуляции. |
-| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | Получает значение, указывающее, что этот экземпляр `TabStop` уже прикреплен к [`TextFragment`](../textfragment/) и стал доступен только для чтения. |
-| [LeaderType](../../aspose.pdf.text/tabstop/leadertype/) { get; set; } | Получает или задает значение перечисления [`TabLeaderType`](../tableadertype/), которое указывает тип лидера табуляции. |
-| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | Получает или задает значение с плавающей запятой, которое указывает позицию табуляции. |
+| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype/) { get; set; } | Получает или задает перечисление [`AlignmentType`](./alignmenttype/), указывающее тип выравнивания табуляции. |
+| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | Получает значение, указывающее, что данный экземпляр `TabStop` уже присоединён к [`TextFragment`](../textfragment/) и стал только для чтения. |
+| [LeaderType](../../aspose.pdf.text/tabstop/leadertype/) { get; set; } | Получает или задает перечисление [`TabLeaderType`](../tableadertype/), указывающее тип лидера табуляции. |
+| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | Получает или задает значение типа float, указывающее позицию табуляции. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

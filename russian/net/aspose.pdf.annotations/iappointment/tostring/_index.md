@@ -1,12 +1,12 @@
 ---
-title: IAppointment.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IAppointment. Возвращает строковое представление
+title: "IAppointment.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IAppointment. Возвращает строковое представление"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/iappointment/tostring/
 ---
-## Метод IAppointment.ToString
+## IAppointment.ToString method
 
 Возвращает строковое представление
 
@@ -20,6 +20,8 @@ public string ToString()
 
 ### См. также
 
-* интерфейс [IAppointment](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* interface [IAppointment](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

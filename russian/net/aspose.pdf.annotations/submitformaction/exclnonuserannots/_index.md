@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.ExclNonUserAnnots
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SubmitFormAction. Если установлено, оно должно включать только те аннотации разметки, чья запись T соответствует имени текущего пользователя
+title: "SubmitFormAction.ExclNonUserAnnots"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SubmitFormAction. Если установлено, будут включены только те разметочные аннотации, у которых запись T совпадает с именем текущего пользователя."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/submitformaction/exclnonuserannots/
 ---
-## Поле SubmitFormAction.ExclNonUserAnnots
+## SubmitFormAction.ExclNonUserAnnots field
 
-Если установлено, оно должно включать только те аннотации разметки, чья запись T соответствует имени текущего пользователя.
+Если установлено, будут включены только те разметочные аннотации, у которых запись T совпадает с именем текущего пользователя.
 
 ```csharp
 public const int ExclNonUserAnnots;
@@ -16,6 +16,8 @@ public const int ExclNonUserAnnots;
 
 ### См. также
 
-* класс [SubmitFormAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

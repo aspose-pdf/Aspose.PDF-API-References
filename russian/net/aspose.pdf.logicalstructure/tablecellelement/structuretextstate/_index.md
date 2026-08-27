@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableCellElement. Получает объект StructureTextState для текущего элемента
+title: "TableCellElement.StructureTextState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableCellElement. Получает объект StructureTextState для текущего элемента"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.logicalstructure/tablecellelement/structuretextstate/
 ---
-## Свойство TableCellElement.StructureTextState
+## TableCellElement.StructureTextState property
 
 Получает объект StructureTextState для текущего элемента.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf.logicalstructure/tablecellelement/structuretextstate/
 public StructureTextState StructureTextState { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Объект StructureTextState для текущего элемента.
 
 ### См. также
 
-* класс [StructureTextState](../../structuretextstate/)
-* класс [TableCellElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTextState](../../structuretextstate/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

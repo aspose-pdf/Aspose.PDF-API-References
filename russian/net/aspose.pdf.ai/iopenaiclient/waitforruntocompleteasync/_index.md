@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.WaitForRunToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Ожидает завершения выполнения в потоке асинхронно
+title: "IOpenAIClient.WaitForRunToCompleteAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Ожидает завершения запуска в потоке асинхронно"
 type: docs
 weight: 440
 url: /ru/net/aspose.pdf.ai/iopenaiclient/waitforruntocompleteasync/
 ---
-## Метод IOpenAIClient.WaitForRunToCompleteAsync
+## IOpenAIClient.WaitForRunToCompleteAsync method
 
-Ожидает завершения выполнения в потоке асинхронно.
+Ожидает завершения запуска в потоке асинхронно.
 
 ```csharp
 public Task<RunResponse> WaitForRunToCompleteAsync(string threadId, string runId, 
@@ -17,24 +17,26 @@ public Task<RunResponse> WaitForRunToCompleteAsync(string threadId, string runId
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threadId | String | Идентификатор потока, содержащего выполнение. |
-| runId | String | Идентификатор выполнения, который нужно отслеживать до завершения. |
+| threadId | String | Идентификатор потока, содержащего запуск. |
+| runId | String | Идентификатор запуска, который следует отслеживать до завершения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит окончательный статус выполнения.
+Задача, представляющая асинхронную операцию. Результат задачи содержит окончательный статус запуска.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор выполнения равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор запуска равен null или пуст. |
 
 ### См. также
 
-* класс [RunResponse](../../runresponse/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.OptimizeDimensions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RenderingOptions. Получает или устанавливает режим оптимизации размеров
+title: "RenderingOptions.OptimizeDimensions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RenderingOptions. Получает или задает режим оптимизации размеров"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/renderingoptions/optimizedimensions/
 ---
-## Свойство RenderingOptions.OptimizeDimensions
+## RenderingOptions.OptimizeDimensions property
 
-Получает или устанавливает режим оптимизации размеров.
+Получает или задает режим оптимизации размеров.
 
 ```csharp
 public bool OptimizeDimensions { get; set; }
@@ -16,6 +16,8 @@ public bool OptimizeDimensions { get; set; }
 
 ### См. также
 
-* класс [RenderingOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentCollection. Получает элемент текстового фрагмента по указанному индексу
+title: "TextFragmentCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentCollection. Возвращает элемент фрагмента текста по указанному индексу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/textfragmentcollection/item/
 ---
-## Индексатор TextFragmentCollection
+## TextFragmentCollection indexer
 
 Получает элемент текстового фрагмента по указанному индексу.
 
@@ -24,7 +24,9 @@ public TextFragment this[int index] { get; }
 
 ### См. также
 
-* класс [TextFragment](../../textfragment/)
-* класс [TextFragmentCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

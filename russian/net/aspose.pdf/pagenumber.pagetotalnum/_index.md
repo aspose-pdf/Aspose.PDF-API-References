@@ -1,9 +1,9 @@
 ---
-title: Class PageNumber.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PageNumberPageTotalNum. Представляет компонент общего количества страниц в формате номера страницы
+title: "Класс PageNumber.PageTotalNum"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.PageNumberPageTotalNum. Представляет компонент общего количества страниц в формате номера страницы"
 type: docs
-weight: 8220
+weight: 8360
 url: /ru/net/aspose.pdf/pagenumber.pagetotalnum/
 ---
 ## PageNumber.PageTotalNum class
@@ -14,14 +14,16 @@ url: /ru/net/aspose.pdf/pagenumber.pagetotalnum/
 public sealed class PageTotalNum
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum/.ctor)() | Конструктор по умолчанию. |
 
-### See Also
+### См. также
 
 * class [PageNumber](../pagenumber/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

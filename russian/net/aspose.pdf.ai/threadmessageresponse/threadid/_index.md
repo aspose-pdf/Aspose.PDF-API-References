@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.ThreadId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ThreadMessageResponse. Получает или задает идентификатор потока, к которому принадлежит это сообщение
+title: "ThreadMessageResponse.ThreadId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ThreadMessageResponse. Получает или задает идентификатор потока, к которому относится это сообщение."
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.ai/threadmessageresponse/threadid/
 ---
-## Свойство ThreadMessageResponse.ThreadId
+## ThreadMessageResponse.ThreadId property
 
-Получает или задает идентификатор потока, к которому принадлежит это сообщение.
+Получает или задает идентификатор потока, к которому относится это сообщение.
 
 ```csharp
 public string ThreadId { get; set; }
@@ -16,6 +16,8 @@ public string ThreadId { get; set; }
 
 ### См. также
 
-* класс [ThreadMessageResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

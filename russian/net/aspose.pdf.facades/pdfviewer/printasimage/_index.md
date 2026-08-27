@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintAsImage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfViewer. Устанавливает или получает режим для PdfViewer для печати как изображение
+title: "PdfViewer.PrintAsImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfViewer. Устанавливает или получает режим печати PdfViewer в виде изображения"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdfviewer/printasimage/
 ---
-## Свойство PdfViewer.PrintAsImage
+## PdfViewer.PrintAsImage property
 
-Устанавливает или получает режим для PdfViewer для печати как изображение.
+Задает или получает режим печати PdfViewer в виде изображения.
 
 ```csharp
 public bool PrintAsImage { get; set; }
@@ -16,10 +16,12 @@ public bool PrintAsImage { get; set; }
 
 ## Примечания
 
-Если true, всегда печатает как изображение (генерирует изображение, которое печатается). Если false, печатает напрямую на устройство, если все функции поддерживаются. В случае, если документ содержит неподдерживаемые функции, система может автоматически решить напечатать как изображение. Значение по умолчанию - false.
+Если true, печать всегда происходит как изображение (генерируется изображение, которое печатается). Если false, печать происходит напрямую на устройство, если все функции поддерживаются. В случае, когда документ содержит неподдерживаемые функции, система может автоматически решить печатать как изображение. Значение по умолчанию — false.
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

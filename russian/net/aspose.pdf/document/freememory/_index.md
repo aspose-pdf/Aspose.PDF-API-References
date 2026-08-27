@@ -1,12 +1,12 @@
 ---
-title: Document.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Document. Очищает память
+title: "Document.FreeMemory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Очищает память"
 type: docs
-weight: 660
+weight: 680
 url: /ru/net/aspose.pdf/document/freememory/
 ---
-## Метод Document.FreeMemory
+## Document.FreeMemory method
 
 Очищает память
 
@@ -16,6 +16,8 @@ public void FreeMemory()
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

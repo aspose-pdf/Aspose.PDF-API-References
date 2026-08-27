@@ -1,12 +1,12 @@
 ---
-title: ClosePathFillStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ClosePathFillStroke. Возвращает строковое представление оператора
+title: "ClosePathFillStroke.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ClosePathFillStroke метод. Возвращает строковое представление оператора"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/closepathfillstroke/tostring/
 ---
-## Метод ClosePathFillStroke.ToString
+## ClosePathFillStroke.ToString method
 
 Возвращает строковое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [ClosePathFillStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [ClosePathFillStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

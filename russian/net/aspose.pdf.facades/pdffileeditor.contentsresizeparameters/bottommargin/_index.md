@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.BottomMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ContentsResizeParameters. Получает или задает нижний отступ на результирующей странице
+title: "PdfFileEditor.ContentsResizeParameters.BottomMargin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ContentsResizeParameters. Получает или задает нижнее поле на результирующей странице."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/bottommargin/
 ---
-## Свойство PdfFileEditor.ContentsResizeParameters.BottomMargin
+## PdfFileEditor.ContentsResizeParameters.BottomMargin property
 
-Получает или задает нижний отступ на результирующей странице.
+Получает или задаёт нижнее поле результирующей страницы.
 
 ```csharp
 public ContentsResizeValue BottomMargin { get; set; }
@@ -16,7 +16,9 @@ public ContentsResizeValue BottomMargin { get; set; }
 
 ### См. также
 
-* класс [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
-* класс [ContentsResizeParameters](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

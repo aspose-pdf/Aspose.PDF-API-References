@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphicElement. Получает или устанавливает позицию в текущем координатном пространстве. Если Parent не равен null, то элемент имеет координатное пространство xForm
+title: "GraphicElement.Position"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphicElement. Получает или задаёт позицию в текущем пространстве координат. Если Parent не равен null, то элемент имеет пространство координат xForm."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.vector/graphicelement/position/
 ---
-## Свойство GraphicElement.Position
+## GraphicElement.Position property
 
-Получает или устанавливает позицию в текущем координатном пространстве. Если [`Parent`](../parent/) не равен !:null, то элемент имеет координатное пространство xForm.
+Получает или задаёт позицию в текущем пространстве координат. Если [`Parent`](../parent/) не равен !:null, то элемент имеет пространство координат xForm.
 
 ```csharp
 public virtual Point Position { get; set; }
@@ -16,7 +16,9 @@ public virtual Point Position { get; set; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [GraphicElement](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

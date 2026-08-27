@@ -1,14 +1,14 @@
 ---
-title: Border.VCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Border. Получает или задает вертикальный радиус угла
+title: "Border.VCornerRadius"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Border. Получает или задает вертикальный радиус угла"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/border/vcornerradius/
 ---
-## Свойство Border.VCornerRadius
+## Border.VCornerRadius property
 
-Получает или задает вертикальный радиус угла.
+Получает или задаёт вертикальный радиус угла.
 
 ```csharp
 public double VCornerRadius { get; set; }
@@ -16,6 +16,8 @@ public double VCornerRadius { get; set; }
 
 ### См. также
 
-* класс [Border](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

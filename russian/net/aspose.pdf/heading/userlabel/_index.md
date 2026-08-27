@@ -1,14 +1,14 @@
 ---
-title: Heading.UserLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство заголовка. Получает или устанавливает пользовательскую метку
+title: "Heading.UserLabel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Heading. Получает или задает пользовательскую метку"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/heading/userlabel/
 ---
-## Свойство Заголовок.UserLabel
+## Heading.UserLabel property
 
-Получает или устанавливает пользовательскую метку.
+Получает или задает пользовательскую метку.
 
 ```csharp
 public TextSegment UserLabel { get; set; }
@@ -16,7 +16,9 @@ public TextSegment UserLabel { get; set; }
 
 ### См. также
 
-* класс [TextSegment](../../../aspose.pdf.text/textsegment/)
-* класс [Heading](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextSegment](../../../aspose.pdf.text/textsegment/)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

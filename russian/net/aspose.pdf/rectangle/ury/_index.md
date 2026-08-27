@@ -1,14 +1,14 @@
 ---
-title: Rectangle.URY
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство прямоугольника. Y координата верхнего правого угла
+title: "Rectangle.URY"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Rectangle property. Y координата правого верхнего угла"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/rectangle/ury/
 ---
-## Свойство Прямоугольник.URY
+## Rectangle.URY property
 
-Y - координата верхнего правого угла.
+Координата Y верхнего‑правого угла.
 
 ```csharp
 public double URY { get; set; }
@@ -16,6 +16,8 @@ public double URY { get; set; }
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

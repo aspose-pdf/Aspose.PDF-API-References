@@ -1,14 +1,14 @@
 ---
-title: Form.GetField
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Form. Получает значение поля в соответствии с его именем поля
+title: "Form.GetField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Получает значение поля согласно его имени."
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/form/getfield/
 ---
-## Метод Form.GetField
+## Form.GetField method
 
-Получает значение поля в соответствии с его именем поля.
+Получает значение поля по его имени.
 
 ```csharp
 public string GetField(string fieldName)
@@ -16,7 +16,7 @@ public string GetField(string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Полное имя поля. |
+| fieldName | String | Полностью квалифицированное имя поля. |
 
 ### Возвращаемое значение
 
@@ -31,6 +31,8 @@ Console.WriteLine("Field value = " + form.GetField("Field1"));
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

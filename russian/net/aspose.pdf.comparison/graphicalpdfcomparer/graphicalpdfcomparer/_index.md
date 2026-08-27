@@ -1,12 +1,12 @@
 ---
-title: GraphicalPdfComparer.GraphicalPdfComparer
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор GraphicalPdfComparer. Конструктор по умолчанию
+title: "GraphicalPdfComparer.GraphicalPdfComparer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор GraphicalPdfComparer. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.comparison/graphicalpdfcomparer/graphicalpdfcomparer/
 ---
-## Конструктор GraphicalPdfComparer
+## GraphicalPdfComparer constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public GraphicalPdfComparer()
 
 ### См. также
 
-* класс [GraphicalPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

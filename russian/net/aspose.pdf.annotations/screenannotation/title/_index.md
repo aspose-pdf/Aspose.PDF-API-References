@@ -1,14 +1,14 @@
 ---
-title: ScreenAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ScreenAnnotation. Получает или задает заголовок аннотации экрана
+title: "ScreenAnnotation.Title"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ScreenAnnotation. Получает или задает заголовок экранной аннотации"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/screenannotation/title/
 ---
-## Свойство ScreenAnnotation.Title
+## ScreenAnnotation.Title property
 
-Получает или задает заголовок аннотации экрана.
+Получает или задаёт заголовок экранной аннотации.
 
 ```csharp
 public string Title { get; set; }
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### См. также
 
-* класс [ScreenAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [ScreenAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

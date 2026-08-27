@@ -1,12 +1,12 @@
 ---
-title: AnnotationSelector.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AnnotationSelector. Список выбранных объектов
+title: "AnnotationSelector.Selected"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AnnotationSelector. Список выбранных объектов."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/annotationselector/selected/
 ---
-## Свойство AnnotationSelector.Selected
+## AnnotationSelector.Selected property
 
 Список выбранных объектов.
 
@@ -16,7 +16,9 @@ public IList<Annotation> Selected { get; }
 
 ### См. также
 
-* класс [Annotation](../../annotation/)
-* класс [AnnotationSelector](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

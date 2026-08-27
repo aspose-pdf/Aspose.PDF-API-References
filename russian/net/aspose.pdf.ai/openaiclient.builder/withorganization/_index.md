@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.Builder.WithOrganization
-second_title: Aspose.PDF for .NET API Reference
-description: Метод строителя. Устанавливает идентификатор организации для клиента
+title: "OpenAIClient.Builder.WithOrganization"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Builder. Устанавливает идентификатор организации для клиента."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/openaiclient.builder/withorganization/
 ---
-## Метод OpenAIClient.Builder.WithOrganization
+## OpenAIClient.Builder.WithOrganization method
 
 Устанавливает идентификатор организации для клиента.
 
@@ -24,6 +24,8 @@ public Builder WithOrganization(string organizationId)
 
 ### См. также
 
-* класс [Builder](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

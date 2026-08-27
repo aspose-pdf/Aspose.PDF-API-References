@@ -1,12 +1,12 @@
 ---
-title: Rows.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Rows. Получает или задает строку
+title: "Rows.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Rows свойство. Получить или задать строку"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/rows/item/
 ---
-## Индексатор Rows
+## Rows indexer
 
 Получает или задает строку.
 
@@ -20,7 +20,9 @@ public Row this[int index] { get; set; }
 
 ### См. также
 
-* класс [Row](../../row/)
-* класс [Rows](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

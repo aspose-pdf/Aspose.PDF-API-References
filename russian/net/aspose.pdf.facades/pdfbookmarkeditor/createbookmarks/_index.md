@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfBookmarkEditor. Создает закладки для всех страниц
+title: "PdfBookmarkEditor.CreateBookmarks"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfBookmarkEditor. Создаёт закладки для всех страниц"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/
 ---
 ## CreateBookmarks() {#createbookmarks}
 
-Создает закладки для всех страниц.
+Создает закладки для всех pages.
 
 ```csharp
 public void CreateBookmarks()
@@ -25,15 +25,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfBookmarkEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateBookmarks(Bookmark) {#createbookmarks_1}
 
-Создает указанную закладку в документе. Метод может быть использован для формирования иерархии вложенных закладок.
+Создает указанную закладку в document. Этот метод можно использовать для формирования иерархии вложенных закладок.
 
 ```csharp
 public void CreateBookmarks(Bookmark bookmark)
@@ -41,7 +41,7 @@ public void CreateBookmarks(Bookmark bookmark)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bookmark | Bookmark | Закладка будет добавлена в документ. |
+| закладка | Закладка | Закладка будет добавлена в документ. |
 
 ## Примеры
 
@@ -68,16 +68,16 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [Bookmark](../../bookmark/)
-* класс [PdfBookmarkEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../../bookmark/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateBookmarks(Color, bool, bool) {#createbookmarks_2}
 
-Создает закладки для всех страниц с указанным цветом и стилем (жирный, курсив).
+Создайте закладки для всех pages с указанным цветом и стилем (жирный, курсив).
 
 ```csharp
 public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
@@ -100,6 +100,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfBookmarkEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

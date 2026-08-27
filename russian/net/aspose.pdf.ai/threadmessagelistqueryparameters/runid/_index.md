@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageListQueryParameters.RunId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ThreadMessageListQueryParameters. Фильтруйте сообщения по идентификатору запуска, который их сгенерировал
+title: "ThreadMessageListQueryParameters.RunId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ThreadMessageListQueryParameters свойство. Фильтрует сообщения по идентификатору выполнения, который их сгенерировал"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/threadmessagelistqueryparameters/runid/
 ---
-## Свойство ThreadMessageListQueryParameters.RunId
+## ThreadMessageListQueryParameters.RunId property
 
-Фильтруйте сообщения по идентификатору запуска, который их сгенерировал.
+Фильтровать сообщения по идентификатору выполнения, который их сгенерировал.
 
 ```csharp
 public string RunId { get; set; }
@@ -16,6 +16,8 @@ public string RunId { get; set; }
 
 ### См. также
 
-* класс [ThreadMessageListQueryParameters](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: LlamaClient.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LlamaClient. Получает экземпляр ISummaryCopilot с указанными параметрами
+title: "LlamaClient.GetSummaryCopilot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LlamaClient. Получает экземпляр ISummaryCopilot с указанными параметрами."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/llamaclient/getsummarycopilot/
 ---
-## Метод LlamaClient.GetSummaryCopilot
+## LlamaClient.GetSummaryCopilot method
 
 Получает экземпляр [`ISummaryCopilot`](../../isummarycopilot/) с указанными параметрами.
 
@@ -16,7 +16,7 @@ public ISummaryCopilot GetSummaryCopilot(ISummaryCopilotOptions<LlamaSummaryCopi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | ISummaryCopilotOptions`1 | Параметры для копилота резюме. |
+| options | ISummaryCopilotOptions`1 | Параметры для сопроводителя резюме. |
 
 ### Возвращаемое значение
 
@@ -24,9 +24,11 @@ public ISummaryCopilot GetSummaryCopilot(ISummaryCopilotOptions<LlamaSummaryCopi
 
 ### См. также
 
-* интерфейс [ISummaryCopilot](../../isummarycopilot/)
-* интерфейс [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* класс [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
-* класс [LlamaClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
+* class [LlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

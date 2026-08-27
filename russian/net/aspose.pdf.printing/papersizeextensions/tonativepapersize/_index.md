@@ -1,12 +1,12 @@
 ---
-title: PaperSizeExtensions.ToNativePaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PaperSizeExtensions. Преобразует PaperSize в специфичный для Windows System.Drawing.Printing.PaperSize
+title: "PaperSizeExtensions.ToNativePaperSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PaperSizeExtensions. Преобразует PaperSize в специфичный для Windows System.Drawing.Printing.PaperSize"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.printing/papersizeextensions/tonativepapersize/
 ---
-## Метод PaperSizeExtensions.ToNativePaperSize
+## PaperSizeExtensions.ToNativePaperSize method
 
 Преобразует [`PaperSize`](../../papersize/) в специфичный для Windows System.Drawing.Printing.PaperSize.
 
@@ -20,11 +20,13 @@ public static PaperSize ToNativePaperSize(this PaperSize paperSize)
 
 ### Возвращаемое значение
 
-Размер бумаги для Windows.
+Размер бумаги Windows.
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizeExtensions](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizeExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

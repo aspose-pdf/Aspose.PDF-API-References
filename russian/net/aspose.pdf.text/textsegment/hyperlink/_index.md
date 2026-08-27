@@ -1,14 +1,14 @@
 ---
-title: TextSegment.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextSegment. Получает или устанавливает гиперссылку сегмента для генератора pdf
+title: "TextSegment.Hyperlink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextSegment. Возвращает или задает гиперссылку сегмента для генератора pdf."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/textsegment/hyperlink/
 ---
-## Свойство TextSegment.Hyperlink
+## TextSegment.Hyperlink property
 
-Получает или устанавливает гиперссылку сегмента (для генератора pdf).
+Получает или задает гиперссылку сегмента (для генератора pdf).
 
 ```csharp
 public Hyperlink Hyperlink { get; set; }
@@ -16,7 +16,9 @@ public Hyperlink Hyperlink { get; set; }
 
 ### См. также
 
-* класс [Hyperlink](../../../aspose.pdf/hyperlink/)
-* класс [TextSegment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Hyperlink](../../../aspose.pdf/hyperlink/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

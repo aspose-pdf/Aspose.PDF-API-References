@@ -1,14 +1,14 @@
 ---
-title: Class GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.GlyphPosition. Класс описывает текст и позицию для использования с оператором TJ, устанавливающим глиф с позицией
+title: "Класс GlyphPosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Operators.GlyphPosition. Класс, описывающий текст и позицию для использования с оператором TJ, задающим глиф с позицией."
 type: docs
-weight: 7420
+weight: 7560
 url: /ru/net/aspose.pdf.operators/glyphposition/
 ---
-## Класс GlyphPosition
+## GlyphPosition class
 
-Класс описывает текст и позицию для использования с оператором TJ (установить глиф с позицией)
+Класс описывает текст и позицию для использования с оператором TJ (установка глифа с позицией).
 
 ```csharp
 public class GlyphPosition
@@ -18,17 +18,19 @@ public class GlyphPosition
 
 | Имя | Описание |
 | --- | --- |
-| [GlyphPosition](glyphposition/#constructor)(string) | Конструктор для позиции глифа. |
-| [GlyphPosition](glyphposition/#constructor_1)(string, double) | Конструктор позиции глифа. |
+| [GlyphPosition](glyphposition/#constructor)(string) | Конструктор для Glyph Position. |
+| [GlyphPosition](glyphposition/#constructor_1)(string, double) | Создаёт позицию глифа. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | Позиция текста в операторе. |
+| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | Позиция смещения текста в операторе. |
 | [Text](../../aspose.pdf.operators/glyphposition/text/) { get; } | Текст оператора. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

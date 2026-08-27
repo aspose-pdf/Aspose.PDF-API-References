@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.IsPredefinedKey
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DocumentInfo. Определяет, является ли ключ предопределенным, например, Title, Author и т.д., а не пользовательским
+title: "DocumentInfo.IsPredefinedKey"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DocumentInfo. Определяет, является ли ключ предопределённым (Title, Author и т.д.), а не пользовательским"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf/documentinfo/ispredefinedkey/
 ---
-## Метод DocumentInfo.IsPredefinedKey
+## DocumentInfo.IsPredefinedKey method
 
-Определяет, является ли ключ предопределенным (Title, Author и т.д.), а не пользовательским.
+Определяет, является ли ключ предопределённым (Title, Author и т.д.), а не пользовательским.
 
 ```csharp
 public static bool IsPredefinedKey(string key)
@@ -16,14 +16,16 @@ public static bool IsPredefinedKey(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Выбранный ключ |
+| ключ | String | Выбранный ключ |
 
 ### Возвращаемое значение
 
-True в случае, если ключ предопределенный.
+True, если ключ предопределён.
 
 ### См. также
 
-* класс [DocumentInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

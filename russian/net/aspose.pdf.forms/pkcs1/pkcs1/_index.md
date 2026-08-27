@@ -1,7 +1,7 @@
 ---
-title: PKCS1.PKCS1
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PKCS1. Инициализирует новый экземпляр класса PKCS1
+title: "PKCS1.PKCS1"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PKCS1. Инициализирует новый экземпляр класса PKCS1."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/pkcs1/pkcs1/
@@ -20,9 +20,9 @@ public PKCS1(Stream image)
 
 ### См. также
 
-* класс [PKCS1](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +36,9 @@ public PKCS1()
 
 ### См. также
 
-* класс [PKCS1](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,14 +52,14 @@ public PKCS1(string pfx, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pfx | String | Файл pfx, который содержит сертификат для подписи. |
+| pfx | String | Файл Pfx, содержащий сертификат для подписи. |
 | password | String | Пароль для сертификата. |
 
 ### См. также
 
-* класс [PKCS1](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -78,6 +78,8 @@ public PKCS1(Stream pfx, string password)
 
 ### См. также
 
-* класс [PKCS1](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

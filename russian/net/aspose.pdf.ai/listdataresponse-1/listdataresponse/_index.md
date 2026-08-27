@@ -1,12 +1,12 @@
 ---
-title: ListDataResponse1.ListDataResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ListDataResponse. Конструктор по умолчанию
+title: "ListDataResponse1.ListDataResponse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ListDataResponse. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/listdataresponse-1/listdataresponse/
 ---
-## Конструктор ListDataResponse&lt;T&gt;
+## ListDataResponse&lt;T&gt; constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ListDataResponse()
 
 ### См. также
 
-* класс [ListDataResponse&lt;T&gt;](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ListDataResponse&lt;T&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

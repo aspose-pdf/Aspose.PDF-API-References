@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.Wireframe
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DRenderMode. Режим рендеринга WireFrame
+title: "PDF3DRenderMode.Wireframe"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PDF3DRenderMode поле. Режим рендеринга WireFrame"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/wireframe/
 ---
-## Поле PDF3DRenderMode.Wireframe
+## PDF3DRenderMode.Wireframe field
 
 Режим рендеринга "WireFrame".
 
@@ -16,6 +16,8 @@ public static PDF3DRenderMode Wireframe;
 
 ### См. также
 
-* класс [PDF3DRenderMode](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

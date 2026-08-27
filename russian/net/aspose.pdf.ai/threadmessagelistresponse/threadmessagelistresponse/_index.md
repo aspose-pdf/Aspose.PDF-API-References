@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageListResponse.ThreadMessageListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ThreadMessageListResponse. Конструктор по умолчанию
+title: "ThreadMessageListResponse.ThreadMessageListResponse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ThreadMessageListResponse. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/threadmessagelistresponse/threadmessagelistresponse/
 ---
-## Конструктор ThreadMessageListResponse
+## ThreadMessageListResponse constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ThreadMessageListResponse()
 
 ### См. также
 
-* класс [ThreadMessageListResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageListResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

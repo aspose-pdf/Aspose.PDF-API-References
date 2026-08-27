@@ -1,12 +1,12 @@
 ---
-title: PngOptions.PngOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PngOptions. Конструктор по умолчанию
+title: "PngOptions.PngOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PngOptions конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/pngoptions/pngoptions/
 ---
-## Конструктор PngOptions
+## PngOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public PngOptions()
 
 ### См. также
 
-* класс [PngOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [PngOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

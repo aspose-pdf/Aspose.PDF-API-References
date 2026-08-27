@@ -1,14 +1,14 @@
 ---
-title: Border.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор границы. Конструктор для объекта границы
+title: "Border.Border"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Border. Конструктор объекта границы"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/border/border/
 ---
-## Конструктор границы
+## Border constructor
 
-Конструктор для объекта границы.
+Конструктор объекта границы.
 
 ```csharp
 public Border(Annotation parent)
@@ -16,11 +16,13 @@ public Border(Annotation parent)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| parent | Annotation | Родительская аннотация. |
+| родитель | Аннотация | Аннотация Parent. |
 
 ### См. также
 
-* класс [Annotation](../../annotation/)
-* класс [Border](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

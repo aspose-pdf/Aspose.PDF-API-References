@@ -1,12 +1,12 @@
 ---
-title: Enum PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PdfFormat Aspose.Pdf. Этот класс представляет формат pdf
+title: "Перечисление PdfFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.PdfFormat. Этот класс представляет формат PDF."
 type: docs
-weight: 8370
+weight: 8510
 url: /ru/net/aspose.pdf/pdfformat/
 ---
-## Перечисление PdfFormat
+## PdfFormat enumeration
 
 Этот класс представляет формат pdf.
 
@@ -39,13 +39,15 @@ public enum PdfFormat
 | PDF_X_1A_2001 | `18` |  |
 | PDF_X_1A | `19` |  |
 | PDF_X_3 | `20` |  |
-| ZUGFeRD | `21` | Формат ZUGFeRD |
-| PDF_A_4 | `22` | Формат PDF/A-4 |
-| PDF_A_4E | `23` | Формат PDF/A-4e |
-| PDF_A_4F | `24` | Формат PDF/A-4f |
-| PDF_X_4 | `25` | Формат PDF/X-4 |
+| ZUGFeRD | `21` | формат ZUGFeRD |
+| PDF_A_4 | `22` | формат PDF/A-4 |
+| PDF_A_4E | `23` | формат PDF/A-4e |
+| PDF_A_4F | `24` | формат PDF/A-4f |
+| PDF_X_4 | `25` | формат PDF/X-4 |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: SetRGBColorStroke.B
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetRGBColorStroke. Получает или устанавливает синий компонент
+title: "SetRGBColorStroke.B"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetRGBColorStroke. Получает или задает синий компонент"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setrgbcolorstroke/b/
 ---
-## Свойство SetRGBColorStroke.B
+## SetRGBColorStroke.B property
 
-Получает или устанавливает синий компонент.
+Получает или задает синий компонент.
 
 ```csharp
 public double B { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Уровень синего от 0.0 до 1.0
 
 ### См. также
 
-* класс [SetRGBColorStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetRGBColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

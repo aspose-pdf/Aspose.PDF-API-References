@@ -1,14 +1,14 @@
 ---
-title: LineTo.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LineTo. Y координата точки линии
+title: "LineTo.Y"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LineTo. Координата Y точки линии"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/lineto/y/
 ---
-## Свойство LineTo.Y
+## LineTo.Y property
 
-Y координата точки линии.
+Координата Y точки линии.
 
 ```csharp
 public double Y { get; set; }
@@ -16,6 +16,8 @@ public double Y { get; set; }
 
 ### См. также
 
-* класс [LineTo](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [LineTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

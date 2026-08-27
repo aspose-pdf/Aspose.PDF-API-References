@@ -1,14 +1,14 @@
 ---
-title: Color.Blue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF0000FF
+title: "Color.Blue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB‑значением c FF0000FF"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/color/blue/
 ---
-## Свойство Color.Blue
+## Color.Blue property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF0000FF.
+Возвращает системный цвет, имеющий ARGB‑значение \c \#FF0000FF.
 
 ```csharp
 public static Color Blue { get; }
@@ -16,10 +16,12 @@ public static Color Blue { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Получает текущие OpenAIImageDescriptionCopilotOptions
+title: "OpenAIImageDescriptionCopilotOptions.GetOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIImageDescriptionCopilotOptions метод. Получает текущий OpenAIImageDescriptionCopilotOptions"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/getoptions/
 ---
-## Метод OpenAIImageDescriptionCopilotOptions.GetOptions
+## OpenAIImageDescriptionCopilotOptions.GetOptions method
 
-Получает текущие [`OpenAIImageDescriptionCopilotOptions`](../).
+Получает текущий [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions GetOptions()
@@ -20,6 +20,8 @@ public OpenAIImageDescriptionCopilotOptions GetOptions()
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.Simplex
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Печать с одной стороны
+title: "ViewerPreference.Simplex"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ViewerPreference. Печать односторонняя"
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/viewerpreference/simplex/
 ---
-## Поле ViewerPreference.Simplex
+## ViewerPreference.Simplex field
 
-Печать с одной стороны.
+Печать односторонняя.
 
 ```csharp
 public const int Simplex;
@@ -16,6 +16,8 @@ public const int Simplex;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

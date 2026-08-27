@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.BTWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfPageEditor. BottomTop Wipe
+title: "PdfPageEditor.BTWIPE"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfPageEditor. BottomTop Wipe"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/btwipe/
 ---
-## Поле PdfPageEditor.BTWIPE
+## PdfPageEditor.BTWIPE field
 
-Bottom-Top Wipe
+Стирание снизу вверх
 
 ```csharp
 public const int BTWIPE;
@@ -16,6 +16,8 @@ public const int BTWIPE;
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

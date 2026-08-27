@@ -1,14 +1,14 @@
 ---
-title: FormEditor.CopyOuterField
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Копирует существующее поле из одного PDF-документа в другой документ с оригинальным номером страницы и координатами. Обратите внимание только для полей AcroForm.
+title: "FormEditor.CopyOuterField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Копирует существующее поле из одного PDF‑документа в другой документ с сохранением оригинального номера страницы и координат. Примечание: только для полей AcroForm, исключая переключатели."
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.facades/formeditor/copyouterfield/
 ---
 ## CopyOuterField(string, string) {#copyouterfield}
 
-Копирует существующее поле из одного PDF-документа в другой документ с оригинальным номером страницы и координатами. Обратите внимание: только для полей AcroForm (исключая радиокнопки).
+Копирует существующее поле из одного PDF‑документа в другой документ с оригинальным номером страницы и координатами. Примечание: только для полей AcroForm (исключая переключатели).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName)
@@ -16,29 +16,29 @@ public void CopyOuterField(string srcFileName, string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | String | Имя PDF-документа, содержащего поле, которое нужно скопировать. |
-| fieldName | String | Оригинальное полное имя поля. |
+| srcFileName | String | Имя PDF‑документа, содержащего поле, которое нужно скопировать. |
+| fieldName | String | Исходное полностью квалифицированное имя поля. |
 
 ## Примеры
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
-//copies text field from source.pdf to PdfForm.pdf
+//копирует текстовое поле из source.pdf в PdfForm.pdf
 formEditor.CopyOuterField("source.pdf", "textField");
 formEditor.Save();
 ```
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CopyOuterField(string, string, int) {#copyouterfield_1}
 
-Копирует существующее поле из одного PDF-документа в другой документ с указанным номером страницы и оригинальными координатами. Обратите внимание: только для полей AcroForm (исключая радиокнопки).
+Копирует существующее поле из одного PDF‑документа в другой документ с указанным номером страницы и оригинальными координатами. Примечание: только для полей AcroForm (исключая переключатели).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
@@ -46,9 +46,9 @@ public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | String | Имя PDF-документа, содержащего поле, которое нужно скопировать. |
-| fieldName | String | Оригинальное полное имя поля. |
-| pageNum | Int32 | Номер страницы, на которой будет находиться новое поле. Если -1, новое поле будет скопировано на ту же страницу, на которой находилось старое. |
+| srcFileName | String | Имя PDF‑документа, содержащего поле, которое нужно скопировать. |
+| fieldName | String | Исходное полностью квалифицированное имя поля. |
+| pageNum | Int32 | Номер страницы, на которой будет размещено новое поле. Если -1, новое поле будет скопировано на ту же страницу, что и старое. |
 
 ## Примеры
 
@@ -60,15 +60,15 @@ formEditor.Save();
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CopyOuterField(string, string, int, float, float) {#copyouterfield_2}
 
-Копирует существующее поле из одного PDF-документа в другой документ с указанным номером страницы и координатами. Обратите внимание: только для полей AcroForm (исключая радиокнопки).
+Копирует существующее поле из одного PDF‑документа в другой документ с указанным номером страницы и координатами. Примечание: только для полей AcroForm (исключая переключатели).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum, float abscissa, 
@@ -77,11 +77,11 @@ public void CopyOuterField(string srcFileName, string fieldName, int pageNum, fl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | String | Имя PDF-документа, содержащего поле, которое нужно скопировать. |
-| fieldName | String | Оригинальное полное имя поля. |
-| pageNum | Int32 | Номер страницы, на которой будет находиться новое поле. Если -1, новое поле будет скопировано на ту же страницу, на которой находилось старое. |
-| abscissa | Single | Абсцисса нового поля. Если -1, абсцисса будет равна оригинальной. |
-| ordinate | Single | Ордината нового поля. Если -1, ордината будет равна оригинальной. |
+| srcFileName | String | Имя PDF‑документа, содержащего поле, которое нужно скопировать. |
+| fieldName | String | Исходное полностью квалифицированное имя поля. |
+| pageNum | Int32 | Номер страницы, на которой будет размещено новое поле. Если -1, новое поле будет скопировано на ту же страницу, что и старое. |
+| абсцисса | Single | Абсцисса нового поля. Если -1, абсцисса будет равна исходной. |
+| ордината | Single | Ордината нового поля. Если -1, ордината будет равна исходной. |
 
 ## Примеры
 
@@ -92,6 +92,8 @@ formEditor.CopyOuterField("source.pdf", "textField" , 2, 100, 200);
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

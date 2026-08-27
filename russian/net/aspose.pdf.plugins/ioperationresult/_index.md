@@ -1,14 +1,14 @@
 ---
-title: Interface IOperationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.Plugins.IOperationResult. Общий интерфейс результата операции, который определяет общие методы, которые должен реализовать конкретный результат операции плагина
+title: "Интерфейс IOperationResult"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.Plugins.IOperationResult. Общий интерфейс результата операции, который определяет общие методы, которые конкретный результат плагина операции должен реализовать"
 type: docs
-weight: 8850
+weight: 8980
 url: /ru/net/aspose.pdf.plugins/ioperationresult/
 ---
-## Интерфейс IOperationResult
+## IOperationResult interface
 
-Общий интерфейс результата операции, который определяет общие методы, которые должен реализовать конкретный результат операции плагина.
+Общий интерфейс результата операции, определяющий общие методы, которые конкретный результат операции плагина должен реализовать.
 
 ```csharp
 public interface IOperationResult
@@ -19,7 +19,7 @@ public interface IOperationResult
 | Имя | Описание |
 | --- | --- |
 | [Data](../../aspose.pdf.plugins/ioperationresult/data/) { get; } | Получает необработанные данные. |
-| [IsFile](../../aspose.pdf.plugins/ioperationresult/isfile/) { get; } | Указывает, является ли результат путем к выходному файлу. |
+| [IsFile](../../aspose.pdf.plugins/ioperationresult/isfile/) { get; } | Указывает, является ли результат путём к выходному файлу. |
 | [IsStream](../../aspose.pdf.plugins/ioperationresult/isstream/) { get; } | Указывает, является ли результат выходным потоком. |
 | [IsString](../../aspose.pdf.plugins/ioperationresult/isstring/) { get; } | Указывает, является ли результат текстовой строкой. |
 
@@ -30,7 +30,9 @@ public interface IOperationResult
 | [ToFile](../../aspose.pdf.plugins/ioperationresult/tofile/)() | Пытается преобразовать результат в файл. |
 | [ToStream](../../aspose.pdf.plugins/ioperationresult/tostream/)() | Пытается преобразовать результат в объект потока. |
 
-### См. Также
+### См. также
 
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

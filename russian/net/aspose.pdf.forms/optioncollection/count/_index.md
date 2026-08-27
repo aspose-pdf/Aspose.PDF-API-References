@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptionCollection. Получает количество опций
+title: "OptionCollection.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OptionCollection. Возвращает количество опций"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/optioncollection/count/
 ---
-## Свойство OptionCollection.Count
+## OptionCollection.Count property
 
-Получает количество опций.
+Возвращает количество вариантов.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [OptionCollection](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FileResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileResponse. Получает или устанавливает идентификатор файла, который может быть использован в конечных точках API
+title: "FileResponse.Id"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileResponse. Получает или задаёт идентификатор файла, который может использоваться в конечных точках API"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/fileresponse/id/
 ---
-## Свойство FileResponse.Id
+## FileResponse.Id property
 
-Получает или устанавливает идентификатор файла, который может быть использован в конечных точках API.
+Получает или задает идентификатор файла, который может использоваться в конечных точках API.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### См. также
 
-* класс [FileResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [FileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DeleteAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Удаляет все вложения в PDF документе
+title: "PdfContentEditor.DeleteAttachments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Удаляет все вложения в PDF‑документе"
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/deleteattachments/
 ---
-## Метод PdfContentEditor.DeleteAttachments
+## PdfContentEditor.DeleteAttachments method
 
-Удаляет все вложения в PDF документе.
+Удаляет все вложения в PDF‑документе.
 
 ```csharp
 public void DeleteAttachments()
@@ -25,6 +25,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

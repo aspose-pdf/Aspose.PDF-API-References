@@ -1,12 +1,12 @@
 ---
-title: MessageCreation.MessageId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MessageCreation. Получает или задает уникальный идентификатор сообщения
+title: "MessageCreation.MessageId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MessageCreation. Получает или задает уникальный идентификатор сообщения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/messagecreation/messageid/
 ---
-## Свойство MessageCreation.MessageId
+## MessageCreation.MessageId property
 
 Получает или задает уникальный идентификатор сообщения.
 
@@ -16,6 +16,8 @@ public string MessageId { get; set; }
 
 ### См. также
 
-* класс [MessageCreation](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [MessageCreation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Placement_Block
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут Placement Block  Упакован в направлении прогрессии блока внутри заключающей области ссылки или родительского BLSE
+title: "AttributeName.Placement_Block"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName поле. Атрибут Placement Block  Стекается в направлении blockprogression внутри охватывающей справочной области или родительского BLSE"
 type: docs
 weight: 350
 url: /ru/net/aspose.pdf.logicalstructure/attributename/placement_block/
 ---
-## Поле AttributeName.Placement_Block
+## AttributeName.Placement_Block field
 
-Атрибут размещения: Block - Упакован в направлении прогрессии блока внутри заключающей области ссылки или родительского BLSE.
+Атрибут Placement: Block - Стекается в направлении блокового прогрессирования внутри охватывающей области ссылки или родительского BLSE.
 
 ```csharp
 public static readonly AttributeName Placement_Block;
@@ -16,6 +16,8 @@ public static readonly AttributeName Placement_Block;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

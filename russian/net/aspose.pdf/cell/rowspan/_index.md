@@ -1,14 +1,14 @@
 ---
-title: Cell.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ячейки. Получает или задает количество строк
+title: "Cell.RowSpan"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Получает или задает протяженность строк"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/cell/rowspan/
 ---
-## Свойство Cell.RowSpan
+## Cell.RowSpan property
 
-Получает или задает количество строк.
+Получает или задает объединение строк.
 
 ```csharp
 public int RowSpan { get; set; }
@@ -16,6 +16,8 @@ public int RowSpan { get; set; }
 
 ### См. также
 
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Metadata.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство метаданных. Получает количество элементов в коллекции
+title: "Metadata.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Metadata. Получает количество элементов в коллекции"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/metadata/count/
 ---
-## Свойство Metadata.Count
+## Metadata.Count property
 
 Получает количество элементов в коллекции.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

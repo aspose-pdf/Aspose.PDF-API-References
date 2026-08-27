@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithTruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Устанавливает стратегию усечения для параметров чат-коопилота
+title: "OpenAIChatCopilotOptions.WithTruncationStrategy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIChatCopilotOptions. Устанавливает стратегию усечения для параметров чат‑копилота"
 type: docs
-weight: 190
+weight: 200
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withtruncationstrategy/
 ---
-## Метод OpenAIChatCopilotOptions.WithTruncationStrategy
+## OpenAIChatCopilotOptions.WithTruncationStrategy method
 
-Устанавливает стратегию усечения для параметров чат-коопилота.
+Устанавливает стратегию усечения для опций чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithTruncationStrategy(TruncationStrategy truncationStrategy)
@@ -24,7 +24,9 @@ public OpenAIChatCopilotOptions WithTruncationStrategy(TruncationStrategy trunca
 
 ### См. также
 
-* класс [TruncationStrategy](../../truncationstrategy/)
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

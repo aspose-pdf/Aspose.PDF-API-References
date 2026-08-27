@@ -1,14 +1,14 @@
 ---
-title: Enum XmpPdfAExtensionCategoryType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.XmpPdfAExtensionCategoryType. Категория свойства внутренняя или внешняя
+title: "Перечисление XmpPdfAExtensionCategoryType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.XmpPdfAExtensionCategoryType перечисление. Свойство category внутреннее или внешнее"
 type: docs
-weight: 11430
+weight: 11620
 url: /ru/net/aspose.pdf/xmppdfaextensioncategorytype/
 ---
-## Перечисление XmpPdfAExtensionCategoryType
+## XmpPdfAExtensionCategoryType enumeration
 
-Категория свойства: внутренняя или внешняя.
+Категория свойства: внутренний или внешний.
 
 ```csharp
 public enum XmpPdfAExtensionCategoryType
@@ -16,12 +16,14 @@ public enum XmpPdfAExtensionCategoryType
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Внутренняя | `0` | Внутренние свойства создаются автоматически на основе содержимого документа. |
-| Внешняя | `1` | Внешние свойства основаны на вводе пользователя. |
+| Internal | `0` | Внутренние свойства создаются автоматически из содержимого документа. |
+| External | `1` | Внешние свойства основаны на вводе пользователя. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

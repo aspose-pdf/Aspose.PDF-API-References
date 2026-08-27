@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Annot
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Аннотация PDF 1.5 Ассоциация между частью содержимого ILSE и соответствующей аннотацией PDF. Annot должен использоваться для всех аннотаций PDF, кроме аннотаций ссылок и аннотаций виджетов.
+title: "StructureTypeStandard.Annot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard поле. Annotation PDF 1.5 Связь между частью содержимого ILSEs и соответствующей PDF‑аннотацией. Annot следует использовать для всех PDF‑аннотаций, кроме аннотаций ссылок и виджетов."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/annot/
 ---
-## Поле StructureTypeStandard.Annot
+## StructureTypeStandard.Annot field
 
-(Аннотация; PDF 1.5) Ассоциация между частью содержимого ILSE и соответствующей аннотацией PDF. Annot должен использоваться для всех аннотаций PDF, кроме аннотаций ссылок и аннотаций виджетов.
+(Annotation; PDF 1.5) Связь между частью содержимого ILSE и соответствующей аннотацией PDF. Annot следует использовать для всех аннотаций PDF, за исключением аннотаций ссылок и аннотаций виджетов.
 
 ```csharp
 public static readonly StructureTypeStandard Annot;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Annot;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

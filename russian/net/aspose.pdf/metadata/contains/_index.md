@@ -1,7 +1,7 @@
 ---
-title: Metadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод метаданных. Проверяет, содержится ли ключ в метаданных
+title: "Metadata.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Metadata. Проверяет, содержится ли ключ в метаданных"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/metadata/contains/
@@ -16,23 +16,23 @@ public bool Contains(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ записи для поиска. |
+| ключ | String | Ключ записи для поиска. |
 
 ### Возвращаемое значение
 
-True, если ключ содержится в метаданных.
+Истина, если ключ содержится в метаданных.
 
 ### См. также
 
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains}
 
-Проверяет, содержится ли указанная пара ключ-значение в словаре.
+Проверяет, содержится ли указанная пара ключ‑значение в словаре.
 
 ```csharp
 public bool Contains(KeyValuePair<string, XmpValue> item)
@@ -40,15 +40,17 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Пара ключ-значение. |
+| item | KeyValuePair`2 | Пара ключ‑значение. |
 
 ### Возвращаемое значение
 
-true, если эта пара была найдена.
+true если эта пара найдена.
 
 ### См. также
 
-* класс [XmpValue](../../xmpvalue/)
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

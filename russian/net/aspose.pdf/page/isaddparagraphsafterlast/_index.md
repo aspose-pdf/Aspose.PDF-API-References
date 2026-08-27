@@ -1,25 +1,27 @@
 ---
-title: Page.IsAddParagraphsAfterLast
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Page. Получает или устанавливает добавление абзацев после последнего абзаца страницы
+title: "Page.IsAddParagraphsAfterLast"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Page. Получает или задает добавление абзацев после последнего абзаца страницы"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf/page/isaddparagraphsafterlast/
 ---
-## Свойство Page.IsAddParagraphsAfterLast
+## Page.IsAddParagraphsAfterLast property
 
-Получает или устанавливает добавление абзацев после последнего абзаца страницы
+Получает или задает добавление абзацев после последнего абзаца страницы
 
 ```csharp
 public bool IsAddParagraphsAfterLast { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Значение указывает, будут ли добавлены абзацы после последнего абзаца страницы. Абзацы будут добавлены после последнего абзаца страницы, если значение истинно.
+Значение указывает, будут ли абзацы добавлены после последнего абзаца страницы. Абзацы будут добавлены после последнего абзаца страницы, если значение равно true.
 
 ### См. также
 
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

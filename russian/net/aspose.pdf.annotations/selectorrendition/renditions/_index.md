@@ -1,14 +1,14 @@
 ---
-title: SelectorRendition.Renditions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SelectorRendition. Получает массив рендеров
+title: "SelectorRendition.Renditions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SelectorRendition. Возвращает массив вариантов"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/selectorrendition/renditions/
 ---
-## Свойство SelectorRendition.Renditions
+## SelectorRendition.Renditions property
 
-Получает массив рендеров.
+Возвращает массив рендерингов.
 
 ```csharp
 public Rendition[] Renditions { get; }
@@ -16,7 +16,9 @@ public Rendition[] Renditions { get; }
 
 ### См. также
 
-* класс [Rendition](../../rendition/)
-* класс [SelectorRendition](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Rendition](../../rendition/)
+* class [SelectorRendition](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

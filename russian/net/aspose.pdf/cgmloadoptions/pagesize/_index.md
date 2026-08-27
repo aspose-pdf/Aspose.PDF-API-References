@@ -1,14 +1,14 @@
 ---
-title: CgmLoadOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CgmLoadOptions. Получает или устанавливает размер выходной страницы для импорта
+title: "CgmLoadOptions.PageSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CgmLoadOptions. Возвращает или задаёт размер выходной страницы при импорте"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/cgmloadoptions/pagesize/
 ---
-## Свойство CgmLoadOptions.PageSize
+## CgmLoadOptions.PageSize property
 
-Получает или устанавливает размер выходной страницы для импорта.
+Получает или задаёт размер выходной страницы для импорта.
 
 ```csharp
 public SizeF PageSize { get; }
@@ -16,6 +16,8 @@ public SizeF PageSize { get; }
 
 ### См. также
 
-* класс [CgmLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CgmLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

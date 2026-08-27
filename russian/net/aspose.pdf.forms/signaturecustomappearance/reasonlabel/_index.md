@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.ReasonLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает метку причины. Значение по умолчанию Причина
+title: "SignatureCustomAppearance.ReasonLabel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignatureCustomAppearance. Получает/устанавливает метку причины. Значение по умолчанию Reason"
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/
 ---
-## Свойство SignatureCustomAppearance.ReasonLabel
+## SignatureCustomAppearance.ReasonLabel property
 
-Получает/устанавливает метку причины. Значение по умолчанию: "Причина".
+Получает/устанавливает метку причины. Значение по умолчанию: "Reason".
 
 ```csharp
 public string ReasonLabel { get; set; }
@@ -16,6 +16,8 @@ public string ReasonLabel { get; set; }
 
 ### См. также
 
-* класс [SignatureCustomAppearance](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: GraphicsAbsorber.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Метод GraphicsAbsorber. Освобождает все ресурсы, используемые классом GraphicsAbsorber
+title: "GraphicsAbsorber.Dispose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод GraphicsAbsorber. Освобождает все ресурсы, используемые классом GraphicsAbsorber."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.vector/graphicsabsorber/dispose/
 ---
-## Метод GraphicsAbsorber.Dispose
+## GraphicsAbsorber.Dispose method
 
 Освобождает все ресурсы, используемые классом [`GraphicsAbsorber`](../).
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### См. также
 
-* класс [GraphicsAbsorber](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.Rendition. Класс, который описывает объект рендеринга аннотации RendtionAnnotation
+title: "Класс Rendition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.Rendition класс. Класс, описывающий объект rendition для RendtionAnnotation."
 type: docs
-weight: 2430
+weight: 2520
 url: /ru/net/aspose.pdf.annotations/rendition/
 ---
-## Класс Рендеринг
+## Rendition class
 
-Класс, который описывает объект рендеринга аннотации RendtionAnnotation.
+Класс, описывающий объект воспроизведения RendtionAnnotation.
 
 ```csharp
 public class Rendition
@@ -18,10 +18,12 @@ public class Rendition
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Строка текста, указывающая имя рендеринга для использования в пользовательском интерфейсе и для поиска имени в дереве с помощью действий JavaScript. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Получает тип рендеринга. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Текстовая строка, указывающая имя rendition для использования в пользовательском интерфейсе и для поиска в дереве имён через действия JavaScript. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Получает тип rendition. |
 
-### См. Также
+### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

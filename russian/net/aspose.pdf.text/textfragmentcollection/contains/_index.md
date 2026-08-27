@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextFragmentCollection. Определяет, содержит ли коллекция конкретное значение
+title: "TextFragmentCollection.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextFragmentCollection. Определяет, содержит ли коллекция конкретное значение"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.text/textfragmentcollection/contains/
 ---
-## Метод TextFragmentCollection.Contains
+## TextFragmentCollection.Contains method
 
 Определяет, содержит ли коллекция конкретное значение.
 
@@ -20,11 +20,13 @@ public bool Contains(TextFragment item)
 
 ### Возвращаемое значение
 
-true, если элемент найден в коллекции; в противном случае false.
+true, если элемент найден в коллекции; иначе false.
 
 ### См. также
 
-* класс [TextFragment](../../textfragment/)
-* класс [TextFragmentCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

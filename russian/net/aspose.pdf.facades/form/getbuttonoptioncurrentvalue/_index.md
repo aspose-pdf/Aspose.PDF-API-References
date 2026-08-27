@@ -1,14 +1,14 @@
 ---
-title: Form.GetButtonOptionCurrentValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Возвращает текущее значение для полей опций радиокнопок
+title: "Form.GetButtonOptionCurrentValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Возвращает текущее значение для полей вариантов радиокнопок"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.facades/form/getbuttonoptioncurrentvalue/
 ---
-## Метод Form.GetButtonOptionCurrentValue
+## Form.GetButtonOptionCurrentValue method
 
-Возвращает текущее значение для полей опций радиокнопок.
+Возвращает текущее значение для полей вариантов радиокнопок.
 
 ```csharp
 public string GetButtonOptionCurrentValue(string fieldName)
@@ -20,7 +20,7 @@ public string GetButtonOptionCurrentValue(string fieldName)
 
 ### Возвращаемое значение
 
-Строковое значение для текущей группы радиокнопок. См. также [`GetButtonOptionValues`](../getbuttonoptionvalues/)
+Строковое значение текущей группы радиокнопок. См. также [`GetButtonOptionValues`](../getbuttonoptionvalues/)
 
 ## Примеры
 
@@ -31,6 +31,8 @@ Console.WriteLine(form.GetButtonOptionCurrentValue("btnField"));
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

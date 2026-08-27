@@ -1,14 +1,14 @@
 ---
-title: ExpiresAfter.Days
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ExpiresAfter. Получает или задает количество дней после времени якоря, после которого векторное хранилище истечет
+title: "ExpiresAfter.Days"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ExpiresAfter. Получает или задает количество дней после времени якоря, через которое хранилище векторов истечет"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/expiresafter/days/
 ---
-## Свойство ExpiresAfter.Days
+## ExpiresAfter.Days property
 
-Получает или задает количество дней после времени якоря, после которого векторное хранилище истечет.
+Получает или задает количество дней после времени привязки, через которое векторное хранилище истекает.
 
 ```csharp
 public int Days { get; set; }
@@ -16,6 +16,8 @@ public int Days { get; set; }
 
 ### См. также
 
-* класс [ExpiresAfter](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ExpiresAfter](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.Goldenrod
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFDAA520
+title: "Color.Goldenrod"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB‑значением c FFDAA520"
 type: docs
 weight: 510
 url: /ru/net/aspose.pdf/color/goldenrod/
 ---
-## Свойство Color.Goldenrod
+## Color.Goldenrod property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFDAA520.
+Получает системно определённый цвет, значение ARGB которого \c \#FFDAA520.
 
 ```csharp
 public static Color Goldenrod { get; }
@@ -16,10 +16,12 @@ public static Color Goldenrod { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

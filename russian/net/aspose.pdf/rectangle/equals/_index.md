@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rectangle. Проверьте, равны ли прямоугольники, т.е. имеют ли одинаковое положение и размеры
+title: "Rectangle.Equals"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Rectangle. Проверяет, равны ли прямоугольники, т.е. имеют одинаковое положение и размеры."
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf/rectangle/equals/
 ---
-## Метод Rectangle.Equals
+## Rectangle.Equals method
 
-Проверьте, равны ли прямоугольники, т.е. имеют ли одинаковое положение и размеры.
+Проверяет, равны ли прямоугольники, т.е. имеют одинаковое положение и размеры.
 
 ```csharp
 public bool Equals(Rectangle other)
@@ -16,7 +16,7 @@ public bool Equals(Rectangle other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | Rectangle | Прямоугольник, который будет сравнен. |
+| другой | Rectangle | Прямоугольник, который будет сравниваться. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ True, если прямоугольники равны, иначе false.
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

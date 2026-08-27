@@ -1,14 +1,14 @@
 ---
-title: AttributeName.GlyphOrientationVertical_Auto
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут GlyphOrientationVertical Auto Указывает стандартную ориентацию текста в зависимости от того, является ли он полушироким, таким же широким, как и высоким
+title: "AttributeName.GlyphOrientationVertical_Auto"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName поле. Attribute GlyphOrientationVertical Auto  Указывает ориентацию текста по умолчанию в зависимости от того, является ли он полноширинным, то есть ширина равна высоте"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.logicalstructure/attributename/glyphorientationvertical_auto/
 ---
-## Поле AttributeName.GlyphOrientationVertical_Auto
+## AttributeName.GlyphOrientationVertical_Auto field
 
-Атрибут GlyphOrientationVertical: Auto - Указывает стандартную ориентацию текста в зависимости от того, является ли он полушироким (таким же широким, как и высоким).
+Атрибут GlyphOrientationVertical: Auto — Указывает ориентацию текста по умолчанию, в зависимости от того, является ли он полноширинным (так же широким, как высокий).
 
 ```csharp
 public static readonly AttributeName GlyphOrientationVertical_Auto;
@@ -16,6 +16,8 @@ public static readonly AttributeName GlyphOrientationVertical_Auto;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

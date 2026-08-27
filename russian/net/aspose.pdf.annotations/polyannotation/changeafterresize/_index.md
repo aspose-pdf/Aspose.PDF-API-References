@@ -1,14 +1,14 @@
 ---
-title: PolyAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PolyAnnotation. Обновляет точки в Vertices в соответствии с матричным преобразованием
+title: "PolyAnnotation.ChangeAfterResize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PolyAnnotation. Обновляет точки в Vertices в соответствии с преобразованием Matrix"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/polyannotation/changeafterresize/
 ---
-## Метод PolyAnnotation.ChangeAfterResize
+## PolyAnnotation.ChangeAfterResize method
 
-Обновляет точки в Vertices в соответствии с матричным преобразованием.
+Обновляет точки в Vertices в соответствии с преобразованием матрицы.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
@@ -16,11 +16,13 @@ public override void ChangeAfterResize(Matrix transform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| transform | Matrix | Матрица, задающая преобразование. |
+| преобразование | Matrix | Matrix, определяющая преобразование. |
 
 ### См. также
 
-* класс [Matrix](../../../aspose.pdf/matrix/)
-* класс [PolyAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [PolyAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

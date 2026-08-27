@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilot.GetSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAISummaryCopilot.
+title: "OpenAISummaryCopilot.GetSummaryAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAISummaryCopilot."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/openaisummarycopilot/getsummaryasync/
 ---
-## Метод OpenAISummaryCopilot.GetSummaryAsync
+## OpenAISummaryCopilot.GetSummaryAsync method
 
 ```csharp
 public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = default)
@@ -14,6 +14,8 @@ public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = defau
 
 ### См. также
 
-* класс [OpenAISummaryCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

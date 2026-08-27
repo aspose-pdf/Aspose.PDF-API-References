@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.DashArray
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphInfo. Получает или устанавливает массив штрихов
+title: "GraphInfo.DashArray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphInfo. Получает или задает массив штрихов."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/graphinfo/dasharray/
 ---
-## Свойство GraphInfo.DashArray
+## GraphInfo.DashArray property
 
-Получает или устанавливает массив штрихов.
+Получает или задает массив штрихов.
 
 ```csharp
 public int[] DashArray { get; set; }
@@ -16,6 +16,8 @@ public int[] DashArray { get; set; }
 
 ### См. также
 
-* класс [GraphInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PptxSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PptxSaveOptions. Этот обработчик может быть использован для обработки событий прогресса конвертации, например, его можно использовать для отображения индикатора прогресса или сообщений о текущем количестве обработанных страниц, пример кода обработчика, который показывает прогресс в консоли, это
+title: "PptxSaveOptions.CustomProgressHandler"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PptxSaveOptions. Этот обработчик может использоваться для обработки событий прогресса конвертации, например, для отображения индикатора прогресса или сообщений о текущем количестве обработанных страниц. Пример кода обработчика, который выводит прогресс в консоль:"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pptxsaveoptions/customprogresshandler/
 ---
-## Свойство PptxSaveOptions.CustomProgressHandler
+## PptxSaveOptions.CustomProgressHandler property
 
-Этот обработчик может быть использован для обработки событий прогресса конвертации, например, его можно использовать для отображения индикатора прогресса или сообщений о текущем количестве обработанных страниц, пример кода обработчика, который показывает прогресс в консоли, это:
+Этот обработчик можно использовать для обработки событий прогресса конвертации, например, для отображения индикатора прогресса или сообщений о текущем количестве обработанных страниц; пример кода обработчика, выводящего прогресс в консоль:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler { get; set; }
@@ -50,7 +50,9 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 
 ### См. также
 
-* делегат [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
-* класс [PptxSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableCellElement. Получает или задает границу ячейки
+title: "TableCellElement.Border"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableCellElement. Получает или задает границу ячейки"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/tablecellelement/border/
 ---
-## Свойство TableCellElement.Border
+## TableCellElement.Border property
 
-Получает или задает границу ячейки.
+Получает или задаёт границу ячейки.
 
 ```csharp
 public BorderInfo Border { get; set; }
@@ -16,7 +16,9 @@ public BorderInfo Border { get; set; }
 
 ### См. также
 
-* класс [BorderInfo](../../../aspose.pdf/borderinfo/)
-* класс [TableCellElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

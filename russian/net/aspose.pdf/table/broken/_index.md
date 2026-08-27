@@ -1,14 +1,14 @@
 ---
-title: Table.Broken
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство таблицы. Получает или устанавливает вертикальное разбиение таблицы
+title: "Table.Broken"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Table. Получает или задает вертикальное разбиение таблицы"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/table/broken/
 ---
-## Свойство Table.Broken
+## Table.Broken property
 
-Получает или устанавливает вертикальное разбиение таблицы;
+Получает или задает вертикальное разбиение таблицы;
 
 ```csharp
 public TableBroken Broken { get; set; }
@@ -20,3 +20,5 @@ public TableBroken Broken { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

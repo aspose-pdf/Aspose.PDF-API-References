@@ -1,14 +1,14 @@
 ---
-title: Form.DefaultResources
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Form. Получает стандартные ресурсы, размещенные на этой форме
+title: "Form.DefaultResources"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Возвращает ресурсы по умолчанию, размещённые в этой форме."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.forms/form/defaultresources/
 ---
-## Свойство Form.DefaultResources
+## Form.DefaultResources property
 
-Получает стандартные ресурсы, размещенные на этой форме.
+Получает ресурсы по умолчанию, размещённые в этой форме.
 
 ```csharp
 public Resources DefaultResources { get; }
@@ -16,7 +16,9 @@ public Resources DefaultResources { get; }
 
 ### См. также
 
-* класс [Resources](../../../aspose.pdf/resources/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

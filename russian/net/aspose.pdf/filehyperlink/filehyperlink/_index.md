@@ -1,7 +1,7 @@
 ---
-title: FileHyperlink.FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FileHyperlink. Инициализирует новый экземпляр класса FileHyperlink
+title: "FileHyperlink.FileHyperlink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FileHyperlink. Инициализирует новый экземпляр класса FileHyperlink"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/filehyperlink/filehyperlink/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/filehyperlink/filehyperlink/
 public FileHyperlink()
 ```
 
-### See Also
+### См. также
 
 * class [FileHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public FileHyperlink()
 public FileHyperlink(string path)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | String | Путь к файлу. |
+| путь | String | Путь к файлу. |
 
-### See Also
+### См. также
 
 * class [FileHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

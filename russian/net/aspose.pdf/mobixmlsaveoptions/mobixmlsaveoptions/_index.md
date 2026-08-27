@@ -1,12 +1,12 @@
 ---
-title: MobiXmlSaveOptions.MobiXmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор MobiXmlSaveOptions. Конструктор по умолчанию
+title: "MobiXmlSaveOptions.MobiXmlSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "MobiXmlSaveOptions конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/mobixmlsaveoptions/mobixmlsaveoptions/
 ---
-## Конструктор MobiXmlSaveOptions
+## MobiXmlSaveOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public MobiXmlSaveOptions()
 
 ### См. также
 
-* класс [MobiXmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MobiXmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Image.ImageScale
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство изображения. Получает или устанавливает масштаб изображения
+title: "Image.ImageScale"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Image. Получает или задает масштаб изображения"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/image/imagescale/
 ---
-## Свойство Image.ImageScale
+## Image.ImageScale property
 
-Получает или устанавливает масштаб изображения.
+Получает или задаёт масштаб изображения.
 
 ```csharp
 public double ImageScale { get; set; }
@@ -16,6 +16,8 @@ public double ImageScale { get; set; }
 
 ### См. также
 
-* класс [Image](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum ImageFileType
-second_title: Aspose.PDF for .NET API Reference
-description: Перечисление Aspose.Pdf.ImageFileType. Перечисляет типы файлов изображений
+title: "Перечисление ImageFileType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.ImageFileType перечисление. Перечисляет типы файлов изображений."
 type: docs
-weight: 5880
+weight: 6010
 url: /ru/net/aspose.pdf/imagefiletype/
 ---
-## Перечисление ImageFileType
+## ImageFileType enumeration
 
 Перечисляет типы файлов изображений.
 
@@ -25,5 +25,7 @@ public enum ImageFileType
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

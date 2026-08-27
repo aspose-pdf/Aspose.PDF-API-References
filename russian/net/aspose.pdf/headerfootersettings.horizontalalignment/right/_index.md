@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HorizontalAlignment. Получает или устанавливает настройки выравнивания по правому краю
+title: "HeaderFooterSettings.HorizontalAlignment.Right"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HorizontalAlignment. Получает или задает параметры правого выравнивания"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/headerfootersettings.horizontalalignment/right/
 ---
-## Свойство HeaderFooterSettings.HorizontalAlignment.Right
+## HeaderFooterSettings.HorizontalAlignment.Right property
 
-Получает или устанавливает настройки выравнивания по правому краю.
+Получает или задает параметры выравнивания по правому краю.
 
 ```csharp
 public Right Right { get; set; }
@@ -16,7 +16,9 @@ public Right Right { get; set; }
 
 ### См. также
 
-* класс [Right](../../right/)
-* класс [HorizontalAlignment](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Right](../../right/)
+* class [HorizontalAlignment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

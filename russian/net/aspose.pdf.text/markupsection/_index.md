@@ -1,14 +1,14 @@
 ---
-title: Class MarkupSection
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.MarkupSection. Представляет собой раздел разметки - прямоугольную область страницы, которая содержит текст и может быть визуально отделена от других текстовых блоков
+title: "Класс MarkupSection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Text.MarkupSection class. Представляет секцию разметки — прямоугольную область страницы, содержащую текст и которую можно визуально отделить от других блоков текста"
 type: docs
-weight: 10640
+weight: 10820
 url: /ru/net/aspose.pdf.text/markupsection/
 ---
-## Класс MarkupSection
+## MarkupSection class
 
-Представляет собой раздел разметки - прямоугольную область страницы, которая содержит текст и может быть визуально отделена от других текстовых блоков.
+Представляет секцию разметки — прямоугольную область страницы, содержащую текст и визуально отделяемую от других блоков текста.
 
 ```csharp
 public sealed class MarkupSection
@@ -18,11 +18,13 @@ public sealed class MarkupSection
 
 | Имя | Описание |
 | --- | --- |
-| [Fragments](../../aspose.pdf.text/markupsection/fragments/) { get; } | Коллекция непустых [`TextFragment`](../textfragment/) объектов, которые находятся внутри раздела. |
-| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs/) { get; } | Коллекция [`MarkupParagraph`](../markupparagraph/) объектов, которые находятся внутри раздела. |
-| [Rectangle](../../aspose.pdf.text/markupsection/rectangle/) { get; } | Прямоугольник раздела |
+| [Fragments](../../aspose.pdf.text/markupsection/fragments/) { get; } | Коллекция непустых объектов [`TextFragment`](../textfragment/), находящихся внутри секции. |
+| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs/) { get; } | Коллекция объектов [`MarkupParagraph`](../markupparagraph/), находящихся внутри секции. |
+| [Rectangle](../../aspose.pdf.text/markupsection/rectangle/) { get; } | Прямоугольник секции |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

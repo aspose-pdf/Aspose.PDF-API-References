@@ -1,14 +1,14 @@
 ---
-title: Class PdfASymbolicFontEncodingStrategy.QueueItem
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PdfASymbolicFontEncodingStrategyQueueItem. Указывает подтаблицу кодирования. Каждая подтаблица кодирования имеет уникальное сочетание параметров PlatformID, PlatformSpecificId. Перечисление [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) и свойство [`CMapEncodingTable`](./cmapencodingtable/) были реализованы для упрощения установки необходимой подтаблицы кодирования.
+title: "Класс PdfASymbolicFontEncodingStrategy.QueueItem"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.PdfASymbolicFontEncodingStrategyQueueItem. Указывает таблицу подшифрования. Каждая таблица подшифрования имеет уникальное сочетание параметров PlatformID PlatformSpecificId. Перечисление CMapEncodingTableType и свойство CMapEncodingTable были реализованы для упрощения создания необходимой таблицы подшифрования."
 type: docs
-weight: 8340
+weight: 8480
 url: /ru/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/
 ---
-## Класс PdfASymbolicFontEncodingStrategy.QueueItem
+## PdfASymbolicFontEncodingStrategy.QueueItem class
 
-Указывает подтаблицу кодирования. Каждая подтаблица кодирования имеет уникальное сочетание параметров (PlatformID, PlatformSpecificId). Перечисление [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) и свойство [`CMapEncodingTable`](./cmapencodingtable/) были реализованы для упрощения установки необходимой подтаблицы кодирования.
+Указывает таблицу подшифрования. Каждая таблица подшифрования имеет уникальное сочетание параметров (PlatformID, PlatformSpecificId). Перечисление [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) и свойство [`CMapEncodingTable`](./cmapencodingtable/) были реализованы для упрощения создания необходимой таблицы подшифрования.
 
 ```csharp
 public class QueueItem
@@ -18,7 +18,7 @@ public class QueueItem
 
 | Имя | Описание |
 | --- | --- |
-| [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor)() | Конструктор, по умолчанию указывает mac подтаблицу(1,0) |
+| [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor)() | Конструктор, по умолчанию задает mac subtable(1,0) |
 | [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor_1)(CMapEncodingTableType) | Конструктор |
 | [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor_2)(ushort, ushort) | Конструктор |
 
@@ -26,12 +26,14 @@ public class QueueItem
 
 | Имя | Описание |
 | --- | --- |
-| [CMapEncodingTable](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable) { get; set; } | Указывает подтаблицу кодирования через перечисление [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) |
-| [PlatformId](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformid) { get; set; } | Идентификатор платформы для подтаблицы кодирования |
-| [PlatformSpecificId](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid) { get; set; } | Идентификатор кодирования, специфичный для платформы, для подтаблицы кодирования |
+| [CMapEncodingTable](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable) { get; set; } | Указывает подтаблицу кодировки через перечисление [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) |
+| [PlatformId](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformid) { get; set; } | Идентификатор платформы для подтаблицы кодировки |
+| [PlatformSpecificId](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid) { get; set; } | Идентификатор кодировки, специфичный для платформы, для подтаблицы кодировки |
 
 ### См. также
 
-* класс [PdfASymbolicFontEncodingStrategy](../pdfasymbolicfontencodingstrategy/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PdfASymbolicFontEncodingStrategy](../pdfasymbolicfontencodingstrategy/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

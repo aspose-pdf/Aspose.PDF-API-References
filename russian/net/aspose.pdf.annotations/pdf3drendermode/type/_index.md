@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DRenderMode. Получает тип
+title: "PDF3DRenderMode.Type"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PDF3DRenderMode свойство. Получает тип"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/type/
 ---
-## Свойство PDF3DRenderMode.Type
+## PDF3DRenderMode.Type property
 
 Получает тип.
 
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.annotations/pdf3drendermode/type/
 public RenderModeType Type { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Тип.
 
@@ -24,3 +24,5 @@ public RenderModeType Type { get; }
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

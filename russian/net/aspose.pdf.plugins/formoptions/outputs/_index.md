@@ -1,14 +1,14 @@
 ---
-title: FormOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormOptions. Получает коллекцию добавленных целей для сохранения результатов операций
+title: "FormOptions.Outputs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormOptions. Возвращает коллекцию добавленных целей для сохранения результатов операции"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/formoptions/outputs/
 ---
-## Свойство FormOptions.Outputs
+## FormOptions.Outputs property
 
-Получает коллекцию добавленных целей для сохранения результатов операций.
+Получает коллекцию добавленных целей для сохранения результатов операции.
 
 ```csharp
 public List<IDataSource> Outputs { get; }
@@ -16,7 +16,9 @@ public List<IDataSource> Outputs { get; }
 
 ### См. также
 
-* интерфейс [IDataSource](../../idatasource/)
-* класс [FormOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [FormOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FitRExplicitDestination.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FitRExplicitDestination. Получает нижнюю вертикальную координату видимого прямоугольника
+title: "FitRExplicitDestination.Bottom"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FitRExplicitDestination. Возвращает нижнюю вертикальную координату видимого прямоугольника"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/fitrexplicitdestination/bottom/
 ---
-## Свойство FitRExplicitDestination.Bottom
+## FitRExplicitDestination.Bottom property
 
 Получает нижнюю вертикальную координату видимого прямоугольника.
 
@@ -16,6 +16,8 @@ public double Bottom { get; }
 
 ### См. также
 
-* класс [FitRExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.BoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DRenderMode. Режим рендеринга BoundingBox
+title: "PDF3DRenderMode.BoundingBox"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PDF3DRenderMode поле. Режим рендеринга BoundingBox"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/boundingbox/
 ---
-## Поле PDF3DRenderMode.BoundingBox
+## PDF3DRenderMode.BoundingBox field
 
 Режим рендеринга "BoundingBox".
 
@@ -16,6 +16,8 @@ public static PDF3DRenderMode BoundingBox;
 
 ### См. также
 
-* класс [PDF3DRenderMode](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Shape.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Shape. Получает или устанавливает объект GraphInfo, который указывает информацию о графике, такую как цвет, ширина линии и т. д.
+title: "Shape.GraphInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Shape. Получает или задает объект GraphInfo, который содержит информацию о графике, такую как цвет линии, ширина и т.д."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/shape/graphinfo/
 ---
-## Свойство Shape.GraphInfo
+## Shape.GraphInfo property
 
-Получает или устанавливает объект `GraphInfo`, который указывает информацию о графике, такую как цвет, ширина линии и т. д.
+Возвращает или задает объект `GraphInfo`, который содержит информацию о графике, такую как цвет, ширина линии и т.д.
 
 ```csharp
 public GraphInfo GraphInfo { get; set; }
@@ -16,7 +16,9 @@ public GraphInfo GraphInfo { get; set; }
 
 ### См. также
 
-* класс [GraphInfo](../../../aspose.pdf/graphinfo/)
-* класс [Shape](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphInfo](../../../aspose.pdf/graphinfo/)
+* class [Shape](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

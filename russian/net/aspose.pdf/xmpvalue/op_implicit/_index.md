@@ -1,12 +1,12 @@
 ---
-title: XmpValue.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpValue. Преобразует строку в XmpValue
+title: "XmpValue.op_Implicit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpValue. Преобразует строку в XmpValue"
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf/xmpvalue/op_implicit/
 ---
-## неявный оператор {#op_implicit_4}
+## implicit operator {#op_implicit_4}
 
 Преобразует строку в XmpValue.
 
@@ -16,7 +16,7 @@ public static implicit operator XmpValue(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение для преобразования. |
+| значение | String | Значение для преобразования. |
 
 ### Возвращаемое значение
 
@@ -24,13 +24,13 @@ XmlValue.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## неявный оператор {#op_implicit_1}
+## implicit operator {#op_implicit_1}
 
 Преобразует целое число в XmpValue.
 
@@ -40,7 +40,7 @@ public static implicit operator XmpValue(int value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Int32 | Значение для преобразования. |
+| значение | Int32 | Значение для преобразования. |
 
 ### Возвращаемое значение
 
@@ -48,15 +48,15 @@ XmlValue.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## неявный оператор {#op_implicit}
+## implicit operator {#op_implicit}
 
-Преобразует число с плавающей запятой в XmpValue.
+Преобразует число с плавающей точкой в XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(double value)
@@ -64,7 +64,7 @@ public static implicit operator XmpValue(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение для преобразования. |
+| значение | Double | Значение для преобразования. |
 
 ### Возвращаемое значение
 
@@ -72,13 +72,13 @@ XmlValue.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## неявный оператор {#op_implicit_2}
+## implicit operator {#op_implicit_2}
 
 Преобразует DateTime в XmpValue.
 
@@ -88,7 +88,7 @@ public static implicit operator XmpValue(DateTime value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | DateTime | Значение для преобразования. |
+| значение | DateTime | Значение для преобразования. |
 
 ### Возвращаемое значение
 
@@ -96,13 +96,13 @@ XmlValue.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## неявный оператор {#op_implicit_3}
+## implicit operator {#op_implicit_3}
 
 Преобразует массив в XmpValue.
 
@@ -112,7 +112,7 @@ public static implicit operator XmpValue(object[] value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Object[] | Значение для преобразования. |
+| значение | Object[] | Значение для преобразования. |
 
 ### Возвращаемое значение
 
@@ -120,6 +120,8 @@ XmlValue.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

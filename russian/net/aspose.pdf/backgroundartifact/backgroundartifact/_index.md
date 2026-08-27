@@ -1,12 +1,12 @@
 ---
-title: BackgroundArtifact.BackgroundArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BackgroundArtifact. Инициализирует объект BackgroundArtifact
+title: "BackgroundArtifact.BackgroundArtifact"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BackgroundArtifact. Инициализирует объект BackgroundArtifact"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/backgroundartifact/backgroundartifact/
 ---
-## Конструктор BackgroundArtifact
+## BackgroundArtifact constructor
 
 Инициализирует объект BackgroundArtifact.
 
@@ -16,6 +16,8 @@ public BackgroundArtifact()
 
 ### См. также
 
-* класс [BackgroundArtifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BackgroundArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormOptions. Возвращает коллекцию данных плагинов Form....
+title: "FormOptions.Inputs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormOptions. Возвращает коллекцию данных плагинов Form...."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/formoptions/inputs/
 ---
-## Свойство FormOptions.Inputs
+## FormOptions.Inputs property
 
 Возвращает коллекцию данных плагинов Form....
 
@@ -16,7 +16,9 @@ public List<IDataSource> Inputs { get; }
 
 ### См. также
 
-* интерфейс [IDataSource](../../idatasource/)
-* класс [FormOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [FormOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

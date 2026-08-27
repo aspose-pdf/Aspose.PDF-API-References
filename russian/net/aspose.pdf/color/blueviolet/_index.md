@@ -1,14 +1,14 @@
 ---
-title: Color.BlueViolet
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF8A2BE2
+title: "Color.BlueViolet"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Получает системный цвет, у которого ARGB‑значение c FF8A2BE2"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/color/blueviolet/
 ---
-## Свойство Color.BlueViolet
+## Color.BlueViolet property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF8A2BE2.
+Возвращает системный цвет, имеющий ARGB‑значение \c \#FF8A2BE2.
 
 ```csharp
 public static Color BlueViolet { get; }
@@ -16,10 +16,12 @@ public static Color BlueViolet { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

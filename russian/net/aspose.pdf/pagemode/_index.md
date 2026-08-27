@@ -1,12 +1,12 @@
 ---
-title: Enum PageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.PageMode. Класс описывает используемые компоненты страницы документа
+title: "Перечисление PageMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.PageMode. Описывает используемые компоненты страницы документа"
 type: docs
-weight: 8190
+weight: 8330
 url: /ru/net/aspose.pdf/pagemode/
 ---
-## Перечисление PageMode
+## PageMode enumeration
 
 Класс описывает используемые компоненты страницы документа.
 
@@ -18,14 +18,16 @@ public enum PageMode
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| UseNone | `0` | Не использовать никаких компонентов. |
-| UseOutlines | `1` | Видимая структура документа. |
-| UseThumbs | `2` | Видимые миниатюры изображений. |
-| FullScreen | `3` | Полноэкранный режим, без панели меню, элементов управления окнами или каких-либо других видимых окон. |
-| UseOC | `4` | Видимая панель группы дополнительного контента. |
-| UseAttachments | `5` | Видимая панель вложений. |
+| UseNone | `0` | Не используйте какие-либо компоненты. |
+| UseOutlines | `1` | Контур документа видим. |
+| UseThumbs | `2` | Миниатюры видимы. |
+| FullScreen | `3` | Полноэкранный режим FullScreenFull-screen, без строки меню, элементов управления окнами или каких‑либо других видимых окон. |
+| UseOC | `4` | Панель группы дополнительного содержимого видима. |
+| UseAttachments | `5` | Панель вложений видима. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

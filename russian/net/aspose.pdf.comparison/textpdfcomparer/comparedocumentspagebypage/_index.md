@@ -1,7 +1,7 @@
 ---
-title: TextPdfComparer.CompareDocumentsPageByPage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextPdfComparer. Сравнивает два документа постранично
+title: "TextPdfComparer.CompareDocumentsPageByPage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextPdfComparer. Сравнивает два документа постранично."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/
@@ -27,18 +27,18 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 
 ### См. также
 
-* класс [DiffOperation](../../diffoperation/)
-* класс [Document](../../../aspose.pdf/document/)
-* класс [ComparisonOptions](../../comparisonoptions/)
-* класс [TextPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../comparisonoptions/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CompareDocumentsPageByPage(Document, Document, ComparisonOptions, string) {#comparedocumentspagebypage_1}
 
-Сравнивает два документа постранично. Результат сохраняется в PDF-файл.
+Сравнивает два документа постранично. Результат сохраняется в PDF‑файле.
 
 ```csharp
 public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document document1, 
@@ -50,7 +50,7 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 | document1 | Document | Первый документ.. |
 | document2 | Document | Второй документ. |
 | options | ComparisonOptions | Параметры сравнения. |
-| resultPdfDocumentPath | String | Путь к PDF-файлу для сохранения результатов сравнения. |
+| resultPdfDocumentPath | String | Путь к PDF‑файлу для сохранения результатов сравнения. |
 
 ### Возвращаемое значение
 
@@ -58,9 +58,11 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 
 ### См. также
 
-* класс [DiffOperation](../../diffoperation/)
-* класс [Document](../../../aspose.pdf/document/)
-* класс [ComparisonOptions](../../comparisonoptions/)
-* класс [TextPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../comparisonoptions/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

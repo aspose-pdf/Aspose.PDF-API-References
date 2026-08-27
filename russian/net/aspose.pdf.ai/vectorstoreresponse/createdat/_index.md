@@ -1,14 +1,14 @@
 ---
-title: VectorStoreResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство VectorStoreResponse. Получает или задает метку времени Unix в секундах, когда был создан векторный магазин
+title: "VectorStoreResponse.CreatedAt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство VectorStoreResponse. Получает или задает Unix‑временную метку в секундах, указывающую, когда хранилище векторов было создано"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/vectorstoreresponse/createdat/
 ---
-## Свойство VectorStoreResponse.CreatedAt
+## VectorStoreResponse.CreatedAt property
 
-Получает или задает метку времени Unix (в секундах), когда был создан векторный магазин.
+Получает или задает Unix‑таймстамп (в секундах) времени создания векторного хранилища.
 
 ```csharp
 public long? CreatedAt { get; set; }
@@ -16,6 +16,8 @@ public long? CreatedAt { get; set; }
 
 ### См. также
 
-* класс [VectorStoreResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToRaw
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpValue. Сырой XML код для неизвестных/неподдерживаемых значений
+title: "XmpValue.ToRaw"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "XmpValue method. Необработанный XML-код для неизвестных/неподдерживаемых значений"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf/xmpvalue/toraw/
 ---
-## Метод XmpValue.ToRaw
+## XmpValue.ToRaw method
 
-Сырой XML код для неизвестных/неподдерживаемых значений.
+Необработанный XML‑код для неизвестных/неподдерживаемых значений.
 
 ```csharp
 public XmlNode ToRaw()
@@ -16,10 +16,12 @@ public XmlNode ToRaw()
 
 ### Возвращаемое значение
 
-XML узел для этого значения.
+XML-узел для этого значения.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

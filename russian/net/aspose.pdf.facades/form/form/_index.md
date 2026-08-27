@@ -1,14 +1,14 @@
 ---
-title: Form.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор формы. Конструктор формы без параметров
+title: "Form.Form"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Form. Конструктор Form без параметров."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/form/form/
 ---
 ## Form() {#constructor}
 
-Конструктор формы без параметров.
+Конструктор Form без параметров.
 
 ```csharp
 Form form = new Aspose.Pdf.Facades.Form();
@@ -19,7 +19,7 @@ form.SrcFileName = "file.pdf";
 public Form()
 ```
 
-### See Also
+### См. также
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -29,23 +29,23 @@ public Form()
 
 ## Form(string) {#constructor_7}
 
-Конструктор формы.
+Конструктор Form.
 
 ```csharp
 public Form(string srcFileName)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | srcFileName | String | Путь к исходному файлу. |
 
-## Examples
+## Примеры
 
 ```csharp
 Form form = new Form("PdfForm.pdf");
 ```
 
-### See Also
+### См. также
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -55,23 +55,23 @@ Form form = new Form("PdfForm.pdf");
 
 ## Form(Stream) {#constructor_4}
 
-Конструктор для формы.
+Конструктор формы.
 
 ```csharp
 public Form(Stream srcStream)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcStream | Stream | исходный поток. |
+| srcStream | Stream | Поток источника. |
 
-## Examples
+## Примеры
 
 ```csharp
 Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Read));
 ```
 
-### See Also
+### См. также
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -81,19 +81,21 @@ Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Rea
 
 ## Form(Document) {#constructor_1}
 
-Инициализирует новый [`Form`](../) объект на основе *документа*.
+Инициализирует новый объект [`Form`](../) на основе *document*.
 
 ```csharp
 public Form(Document document)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| документ | Document | Pdf документ. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

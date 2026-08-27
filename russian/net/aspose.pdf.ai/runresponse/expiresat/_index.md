@@ -1,14 +1,14 @@
 ---
-title: RunResponse.ExpiresAt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или задает метку времени Unix в секундах, когда выполнение истечет
+title: "RunResponse.ExpiresAt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает Unix‑таймстамп в секундах, указывающий, когда запуск истечёт"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/runresponse/expiresat/
 ---
-## Свойство RunResponse.ExpiresAt
+## RunResponse.ExpiresAt property
 
-Получает или задает метку времени Unix (в секундах), когда выполнение истечет.
+Получает или задает Unix‑временную метку (в секундах) момента истечения срока действия запуска.
 
 ```csharp
 public long? ExpiresAt { get; set; }
@@ -16,6 +16,8 @@ public long? ExpiresAt { get; set; }
 
 ### См. также
 
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

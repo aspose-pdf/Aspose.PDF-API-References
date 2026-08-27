@@ -1,12 +1,12 @@
 ---
-title: TextState.MeasureHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextState. Измеряет высоту символа
+title: "TextState.MeasureHeight"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextState. Измеряет высоту символа."
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.text/textstate/measureheight/
 ---
-## Метод TextState.MeasureHeight
+## TextState.MeasureHeight method
 
 Измеряет высоту символа.
 
@@ -16,14 +16,16 @@ public double MeasureHeight(char character)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| character | Char | Символ для измерения. |
+| символ | Char | Символ для измерения. |
 
 ### Возвращаемое значение
 
-Высота символа, если мы смогли получить её из шрифта; в противном случае 0.
+Высота символа, если её можно получить из шрифта; иначе 0.
 
 ### См. также
 
-* класс [TextState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

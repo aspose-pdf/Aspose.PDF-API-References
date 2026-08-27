@@ -1,12 +1,12 @@
 ---
-title: FormCheckBoxFieldCreateOptions.FormCheckBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FormCheckBoxFieldCreateOptions. Инициализирует новый экземпляр объекта FormCheckBoxFieldCreateOptions, содержащего параметры для созданного и добавленного CheckBoxField
+title: "FormCheckBoxFieldCreateOptions.FormCheckBoxFieldCreateOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FormCheckBoxFieldCreateOptions. Инициализирует новый экземпляр объекта FormCheckBoxFieldCreateOptions, содержащий параметры для созданного и добавленного CheckBoxField"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/formcheckboxfieldcreateoptions/formcheckboxfieldcreateoptions/
 ---
-## Конструктор FormCheckBoxFieldCreateOptions
+## FormCheckBoxFieldCreateOptions constructor
 
 Инициализирует новый экземпляр объекта [`FormCheckBoxFieldCreateOptions`](../), содержащего параметры для созданного и добавленного CheckBoxField.
 
@@ -16,12 +16,14 @@ public FormCheckBoxFieldCreateOptions(int pageNum, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNum | Int32 | Номер страницы, на которой будет находиться добавленный CheckBoxField. |
+| pageNum | Int32 | Номер страницы, на которой будет располагаться добавленный CheckBoxField. |
 | rect | Rectangle | Устанавливает прямоугольник CheckBoxField. |
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [FormCheckBoxFieldCreateOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormCheckBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

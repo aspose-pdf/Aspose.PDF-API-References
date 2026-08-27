@@ -1,12 +1,12 @@
 ---
-title: PageDate.MonthComponent.MonthComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор MonthComponent. Конструктор по умолчанию
+title: "PageDate.MonthComponent.MonthComponent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор MonthComponent. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pagedate.monthcomponent/monthcomponent/
 ---
-## Конструктор PageDate.MonthComponent
+## PageDate.MonthComponent constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public MonthComponent()
 
 ### См. также
 
-* класс [MonthComponent](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MonthComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

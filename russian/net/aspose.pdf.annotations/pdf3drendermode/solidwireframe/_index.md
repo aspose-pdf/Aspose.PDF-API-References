@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.SolidWireframe
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DRenderMode. Режим рендеринга SolidWireFrame
+title: "PDF3DRenderMode.SolidWireframe"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PDF3DRenderMode. Режим рендеринга SolidWireFrame"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/solidwireframe/
 ---
-## Поле PDF3DRenderMode.SolidWireframe
+## PDF3DRenderMode.SolidWireframe field
 
 Режим рендеринга "SolidWireFrame".
 
@@ -16,6 +16,8 @@ public static PDF3DRenderMode SolidWireframe;
 
 ### См. также
 
-* класс [PDF3DRenderMode](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

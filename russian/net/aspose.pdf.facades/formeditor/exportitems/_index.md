@@ -1,14 +1,14 @@
 ---
-title: FormEditor.ExportItems
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormEditor. Устанавливает параметры для комбинированного поля с экспортируемыми значениями
+title: "FormEditor.ExportItems"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormEditor. Устанавливает параметры для комбобокса с экспортируемыми значениями"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/formeditor/exportitems/
 ---
-## Свойство FormEditor.ExportItems
+## FormEditor.ExportItems property
 
-Устанавливает параметры для комбинированного поля с экспортируемыми значениями.
+Устанавливает параметры для комбобокса с экспортными значениями.
 
 ```csharp
 public string[][] ExportItems { get; set; }
@@ -30,6 +30,8 @@ formEditor.Save();
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XImageCollection. Получает массив имен изображений
+title: "XImageCollection.Names"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XImageCollection. Получает массив имён изображений"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/ximagecollection/names/
 ---
-## Свойство XImageCollection.Names
+## XImageCollection.Names property
 
-Получает массив имен изображений.
+Получает массив имён изображений.
 
 ```csharp
 public string[] Names { get; }
@@ -16,6 +16,8 @@ public string[] Names { get; }
 
 ### См. также
 
-* класс [XImageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

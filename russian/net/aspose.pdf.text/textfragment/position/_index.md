@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragment. Получает или устанавливает позицию текста для текста, представленного объектом TextFragment
+title: "TextFragment.Position"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragment. Получает или задаёт позицию текста, представленного объектом TextFragment."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.text/textfragment/position/
 ---
-## Свойство TextFragment.Position
+## TextFragment.Position property
 
-Получает или устанавливает позицию текста для текста, представленного объектом [`TextFragment`](../).
+Получает или задаёт позицию текста, представленного объектом [`TextFragment`](../).
 
 ```csharp
 public Position Position { get; set; }
@@ -16,19 +16,19 @@ public Position Position { get; set; }
 
 ## Примеры
 
-Пример демонстрирует, как просмотреть размещение текста, представленного объектом [`TextFragment`](../).
+В примере показано, как просмотреть расположение текста, представленного объектом [`TextFragment`](../).
 
 ```csharp
-// Open document
+// Открыть документ
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Создайте объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Примите поглотитель для первой страницы
 doc.Pages[1].Accept(absorber);
 
-// View text and placement info of first text occurrence
+// Просмотр текста и информации о расположении первого вхождения.
 TextFragment firstOccurrence = absorber.TextFragments[1];
 
 Console.Out.WriteLine(string.Format("fragment text: {0}", firstOccurrence.Text));
@@ -39,10 +39,12 @@ Console.Out.WriteLine(string.Format("fragment Y indent: {0}", firstOccurrence.Po
 
 ### См. также
 
-* класс [TextFragmentAbsorber](../../textfragmentabsorber/)
-* класс [Document](../../../aspose.pdf/document/)
-* класс [TextSegment](../../textsegment/)
-* класс [Position](../../position/)
-* класс [TextFragment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextSegment](../../textsegment/)
+* class [Position](../../position/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

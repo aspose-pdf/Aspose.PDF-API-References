@@ -1,12 +1,12 @@
 ---
-title: Annotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает тип аннотации
+title: "Annotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Возвращает тип аннотации"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/annotation/annotationtype/
 ---
-## Свойство Annotation.AnnotationType
+## Annotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public abstract AnnotationType AnnotationType { get; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

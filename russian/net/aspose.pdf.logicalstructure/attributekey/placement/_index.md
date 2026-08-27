@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Placement
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут размещения Владелец атрибута макета
+title: "AttributeKey.Placement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeKey. Атрибут Placement, владелец атрибута Layout"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/placement/
 ---
-## Поле AttributeKey.Placement
+## AttributeKey.Placement field
 
-Атрибут размещения (Владелец атрибута макета).
+Атрибут Placement (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey Placement;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Placement;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum TextIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.TextIcon. Перечисляет иконки, которые будут использоваться для отображения аннотации
+title: "Перечисление TextIcon"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.TextIcon enum. Перечисляет значки, используемые при отображении аннотации"
 type: docs
-weight: 2660
+weight: 2760
 url: /ru/net/aspose.pdf.annotations/texticon/
 ---
-## Перечисление TextIcon
+## TextIcon enumeration
 
-Перечисляет иконки, которые будут использоваться для отображения аннотации.
+Перечисляет значки, используемые при отображении аннотации.
 
 ```csharp
 public enum TextIcon
@@ -16,21 +16,23 @@ public enum TextIcon
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Note | `0` | Иконка заметки. |
-| Comment | `1` | Иконка комментария. |
-| Key | `2` | Иконка ключа. |
-| Help | `3` | Иконка помощи. |
-| NewParagraph | `4` | Иконка нового абзаца. |
-| Paragraph | `5` | Иконка абзаца. |
-| Insert | `6` | Иконка вставки. |
-| Check | `7` | Иконка проверки. |
-| Cross | `8` | Иконка крестика. |
-| Circle | `9` | Иконка круга. |
-| Star | `10` | Иконка звезды. |
+| Note | `0` | Значок Note. |
+| Comment | `1` | Значок Comment. |
+| Key | `2` | Значок Key. |
+| Help | `3` | Значок Help. |
+| NewParagraph | `4` | Значок NewParagraph. |
+| Paragraph | `5` | Значок Paragraph. |
+| Insert | `6` | Значок Insert. |
+| Check | `7` | Значок Check. |
+| Cross | `8` | Значок Cross. |
+| Circle | `9` | Значок Circle. |
+| Star | `10` | Значок Star. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

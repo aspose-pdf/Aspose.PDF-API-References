@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAISummaryCopilotOptions. Устанавливает максимальное количество токенов завершения для параметров копилота резюме
+title: "OpenAISummaryCopilotOptions.WithMaxCompletionTokens"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAISummaryCopilotOptions method. Устанавливает максимальное количество токенов завершения для параметров помощника резюме."
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxcompletiontokens/
 ---
-## Метод OpenAISummaryCopilotOptions.WithMaxCompletionTokens
+## OpenAISummaryCopilotOptions.WithMaxCompletionTokens method
 
-Устанавливает максимальное количество токенов завершения для параметров копилота резюме.
+Устанавливает максимальное количество токенов завершения для параметров сопилота резюме.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -24,6 +24,8 @@ public OpenAISummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTok
 
 ### См. также
 
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

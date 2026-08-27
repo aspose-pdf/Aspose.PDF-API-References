@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Ожидает завершения конкретного векторного хранилища асинхронно
+title: "IOpenAIClient.WaitForVectorStoreToCompleteAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Ожидает завершения конкретного векторного хранилища асинхронно"
 type: docs
 weight: 470
 url: /ru/net/aspose.pdf.ai/iopenaiclient/waitforvectorstoretocompleteasync/
 ---
-## Метод IOpenAIClient.WaitForVectorStoreToCompleteAsync
+## IOpenAIClient.WaitForVectorStoreToCompleteAsync method
 
 Ожидает завершения конкретного векторного хранилища асинхронно.
 
@@ -17,7 +17,7 @@ public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vector
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| vectorStoreId | String | Идентификатор векторного хранилища, который нужно отслеживать до завершения. |
+| vectorStoreId | String | Идентификатор векторного хранилища для мониторинга до завершения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
@@ -32,7 +32,9 @@ public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vector
 
 ### См. также
 
-* класс [VectorStoreResponse](../../vectorstoreresponse/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ArtifactCollection. Копирует коллекцию в массив
+title: "ArtifactCollection.CopyTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ArtifactCollection. Копирует коллекцию в массив"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/artifactcollection/copyto/
 ---
-## Метод ArtifactCollection.CopyTo
+## ArtifactCollection.CopyTo method
 
 Копирует коллекцию в массив.
 
@@ -21,7 +21,9 @@ public void CopyTo(Artifact[] dest, int index)
 
 ### См. также
 
-* класс [Artifact](../../artifact/)
-* класс [ArtifactCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

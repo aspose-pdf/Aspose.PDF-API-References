@@ -1,12 +1,12 @@
 ---
-title: ExpiresAfter.ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ExpiresAfter. Конструктор по умолчанию
+title: "ExpiresAfter.ExpiresAfter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ExpiresAfter. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/expiresafter/expiresafter/
 ---
-## Конструктор ExpiresAfter
+## ExpiresAfter constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ExpiresAfter()
 
 ### См. также
 
-* класс [ExpiresAfter](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ExpiresAfter](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

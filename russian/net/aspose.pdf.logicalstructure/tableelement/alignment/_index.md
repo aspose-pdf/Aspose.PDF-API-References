@@ -1,12 +1,12 @@
 ---
-title: TableElement.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableElement. Получает или задает выравнивание таблицы
+title: "TableElement.Alignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableElement. Получает или задает выравнивание таблицы"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/tableelement/alignment/
 ---
-## Свойство TableElement.Alignment
+## TableElement.Alignment property
 
 Получает или задает выравнивание таблицы.
 
@@ -20,3 +20,5 @@ public HorizontalAlignment Alignment { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

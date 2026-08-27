@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentState. Получает или задает горизонтальное масштабирование текста, представленного объектом TextFragment
+title: "TextFragmentState.HorizontalScaling"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentState. Получает или задает горизонтальное масштабирование текста, представленного объектом TextFragment"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.text/textfragmentstate/horizontalscaling/
 ---
-## Свойство TextFragmentState.HorizontalScaling
+## TextFragmentState.HorizontalScaling property
 
 Получает или задает горизонтальное масштабирование текста, представленного объектом [`TextFragment`](../../textfragment/).
 
@@ -16,6 +16,8 @@ public override float HorizontalScaling { get; set; }
 
 ### См. также
 
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

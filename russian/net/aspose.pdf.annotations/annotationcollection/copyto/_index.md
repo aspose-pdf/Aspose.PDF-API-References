@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AnnotationCollection. Копирует массив аннотаций в коллекцию
+title: "AnnotationCollection.CopyTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AnnotationCollection. Копирует массив аннотаций в коллекцию."
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.annotations/annotationcollection/copyto/
 ---
-## Метод AnnotationCollection.CopyTo
+## AnnotationCollection.CopyTo method
 
 Копирует массив аннотаций в коллекцию.
 
@@ -16,12 +16,14 @@ public void CopyTo(Annotation[] array, int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | Annotation[] | Массив для копирования в коллекцию. |
-| index | Int32 | Начальный индекс, с которого будет скопирована коллекция. |
+| массив | Annotation[] | Массив для копирования в коллекцию. |
+| index | Int32 | Начальный индекс, с которого будет копироваться коллекция. |
 
 ### См. также
 
-* класс [Annotation](../../annotation/)
-* класс [AnnotationCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

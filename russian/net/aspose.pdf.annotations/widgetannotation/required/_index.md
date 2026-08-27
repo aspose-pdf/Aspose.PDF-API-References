@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Required
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство WidgetAnnotation. Получает или устанавливает обязательный статус поля
+title: "WidgetAnnotation.Required"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство WidgetAnnotation. Получает или задает статус обязательности поля"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.annotations/widgetannotation/required/
 ---
-## Свойство WidgetAnnotation.Required
+## WidgetAnnotation.Required property
 
-Получает или устанавливает обязательный статус поля.
+Получает или задает обязательный статус поля.
 
 ```csharp
 public bool Required { get; set; }
@@ -16,6 +16,8 @@ public bool Required { get; set; }
 
 ### См. также
 
-* класс [WidgetAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

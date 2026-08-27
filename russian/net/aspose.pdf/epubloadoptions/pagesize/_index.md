@@ -1,14 +1,14 @@
 ---
-title: EpubLoadOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство EpubLoadOptions. Получает или устанавливает размер выходной страницы для импорта
+title: "EpubLoadOptions.PageSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство EpubLoadOptions. Получает или задаёт размер выходной страницы для импорта."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/epubloadoptions/pagesize/
 ---
-## Свойство EpubLoadOptions.PageSize
+## EpubLoadOptions.PageSize property
 
-Получает или устанавливает размер выходной страницы для импорта.
+Получает или задаёт размер выходной страницы для импорта.
 
 ```csharp
 public SizeF PageSize { get; }
@@ -16,6 +16,8 @@ public SizeF PageSize { get; }
 
 ### См. также
 
-* класс [EpubLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EpubLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSources.FormSource
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSources. Представляет собой стандартный лоток принтера
+title: "PaperSources.FormSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSources. Представляет лоток по умолчанию принтера"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.printing/papersources/formsource/
 ---
-## Поле PaperSources.FormSource
+## PaperSources.FormSource field
 
-Представляет собой стандартный лоток принтера.
+Представляет стандартный лоток принтера.
 
 ```csharp
 public static readonly PaperSource FormSource;
@@ -16,7 +16,9 @@ public static readonly PaperSource FormSource;
 
 ### См. также
 
-* класс [PaperSource](../../papersource/)
-* класс [PaperSources](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

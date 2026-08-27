@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rectangle. Возвращает координаты центра прямоугольника
+title: "Rectangle.Center"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Rectangle method. Returncs координаты центра прямоугольника"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/rectangle/center/
 ---
-## Метод Rectangle.Center
+## Rectangle.Center method
 
 Возвращает координаты центра прямоугольника.
 
@@ -16,11 +16,13 @@ public Point Center()
 
 ### Возвращаемое значение
 
-Точка, которая является центром прямоугольника.
+Точка, являющаяся центром прямоугольника.
 
 ### См. также
 
-* класс [Point](../../point/)
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../point/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

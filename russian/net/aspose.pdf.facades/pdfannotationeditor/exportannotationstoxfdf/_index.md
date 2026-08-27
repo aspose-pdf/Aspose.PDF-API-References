@@ -1,12 +1,12 @@
 ---
-title: PdfAnnotationEditor.ExportAnnotationsToXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfAnnotationEditor. Экспортирует аннотации в поток
+title: "PdfAnnotationEditor.ExportAnnotationsToXfdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfAnnotationEditor. Экспортирует аннотации в поток"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/exportannotationstoxfdf/
 ---
-## Метод PdfAnnotationEditor.ExportAnnotationsToXfdf
+## PdfAnnotationEditor.ExportAnnotationsToXfdf method
 
 Экспортирует аннотации в поток.
 
@@ -20,6 +20,8 @@ public void ExportAnnotationsToXfdf(Stream xmlOutputStream)
 
 ### См. также
 
-* класс [PdfAnnotationEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

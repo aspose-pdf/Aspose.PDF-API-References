@@ -1,14 +1,14 @@
 ---
-title: LlamaClient.CreateCompletionAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LlamaClient. Создает запрос на завершение чата в сервисе Llama
+title: "LlamaClient.CreateCompletionAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LlamaClient. Создаёт запрос завершения чата в сервисе Llama"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/llamaclient/createcompletionasync/
 ---
-## Метод LlamaClient.CreateCompletionAsync
+## LlamaClient.CreateCompletionAsync method
 
-Создает запрос на завершение чата в сервисе Llama.
+Создаёт запрос завершения чата в сервисе Llama.
 
 ```csharp
 public Task<LlamaChatCompletionResponse> CreateCompletionAsync(
@@ -18,17 +18,19 @@ public Task<LlamaChatCompletionResponse> CreateCompletionAsync(
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| chatCompletionRequest | LlamaChatCompletionRequest | Запрос на завершение чата. |
+| chatCompletionRequest | LlamaChatCompletionRequest | Запрос завершения чата. |
 | cancellationToken | Nullable`1 | Токен отмены. |
 
 ### Возвращаемое значение
 
-Ответ на запрос завершения чата.
+Ответ завершения чата.
 
 ### См. также
 
-* класс [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
-* класс [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
-* класс [LlamaClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
+* class [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
+* class [LlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

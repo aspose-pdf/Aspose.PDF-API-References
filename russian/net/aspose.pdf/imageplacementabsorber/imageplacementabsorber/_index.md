@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementAbsorber.ImagePlacementAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ImagePlacementAbsorber. Конструктор по умолчанию
+title: "ImagePlacementAbsorber.ImagePlacementAbsorber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ImagePlacementAbsorber конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/imageplacementabsorber/imageplacementabsorber/
 ---
-## Конструктор ImagePlacementAbsorber
+## ImagePlacementAbsorber constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ImagePlacementAbsorber()
 
 ### См. также
 
-* класс [ImagePlacementAbsorber](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

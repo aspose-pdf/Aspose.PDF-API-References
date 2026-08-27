@@ -1,14 +1,14 @@
 ---
-title: Bookmark.RemoteFile
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает путь к файлу, который необходим для действия GoToR закладки
+title: "Bookmark.RemoteFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Возвращает или задает путь к файлу, необходимый для действия GoToR закладки"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/bookmark/remotefile/
 ---
-## Свойство Bookmark.RemoteFile
+## Bookmark.RemoteFile property
 
-Получает или устанавливает файл (путь), который необходим для действия "GoToR" закладки.
+Получает или задает файл (путь), необходимый для действия "GoToR" закладки.
 
 ```csharp
 public string RemoteFile { get; set; }
@@ -16,6 +16,8 @@ public string RemoteFile { get; set; }
 
 ### См. также
 
-* класс [Bookmark](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

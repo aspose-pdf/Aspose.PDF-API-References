@@ -1,7 +1,7 @@
 ---
-title: OutlineCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OutlineCollection. Удаляет все элементы оглавления из оглавления документа
+title: "OutlineCollection.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OutlineCollection. Удаляет все элементы оглавления из оглавления документа"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/outlinecollection/delete/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/outlinecollection/delete/
 public void Delete()
 ```
 
-### See Also
+### См. также
 
 * class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public void Delete()
 public void Delete(string name)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Заголовок элемента оглавления, который нужно удалить |
+| имя | String | Заголовок элемента оглавления, который будет удалён |
 
-### See Also
+### См. также
 
 * class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

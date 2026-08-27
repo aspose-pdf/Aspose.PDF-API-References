@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageCreateRequest.WithMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ThreadMessageCreateRequest. Устанавливает метаданные для запроса сообщения потока
+title: "ThreadMessageCreateRequest.WithMetadata"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ThreadMessageCreateRequest. Устанавливает метаданные для запроса сообщения потока"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.ai/threadmessagecreaterequest/withmetadata/
 ---
-## Метод ThreadMessageCreateRequest.WithMetadata
+## ThreadMessageCreateRequest.WithMetadata method
 
 Устанавливает метаданные для запроса сообщения потока.
 
@@ -16,7 +16,7 @@ public ThreadMessageCreateRequest WithMetadata(Dictionary<string, string> metada
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| metadata | Dictionary`2 | Словарь метаданных для установки. |
+| метаданные | Dictionary`2 | Словарь метаданных для установки. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public ThreadMessageCreateRequest WithMetadata(Dictionary<string, string> metada
 
 ### См. также
 
-* класс [ThreadMessageCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

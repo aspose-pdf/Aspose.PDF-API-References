@@ -1,12 +1,12 @@
 ---
-title: RegistrationMarkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RegistrationMarkAnnotation. Получает тип аннотации
+title: "RegistrationMarkAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RegistrationMarkAnnotation. Возвращает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/registrationmarkannotation/annotationtype/
 ---
-## Свойство RegistrationMarkAnnotation.AnnotationType
+## RegistrationMarkAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.Repeat
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RedactionAnnotation. Если истинно, текст наложения будет повторяться на аннотации
+title: "RedactionAnnotation.Repeat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RedactionAnnotation. Если true, наложенный текст будет повторяться на аннотации."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.annotations/redactionannotation/repeat/
 ---
-## Свойство RedactionAnnotation.Repeat
+## RedactionAnnotation.Repeat property
 
-Если истинно, текст наложения будет повторяться на аннотации.
+Если true, текст наложения будет повторяться на аннотации.
 
 ```csharp
 public bool Repeat { get; set; }
@@ -16,6 +16,8 @@ public bool Repeat { get; set; }
 
 ### См. также
 
-* класс [RedactionAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

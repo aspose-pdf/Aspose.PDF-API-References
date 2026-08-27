@@ -1,14 +1,14 @@
 ---
-title: Artifact.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство артефакта. Получает или устанавливает позицию артефакта. Если это свойство указано, то отступы и выравнивания игнорируются
+title: "Artifact.Position"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Artifact. Получает или задаёт позицию артефакта. Если это свойство указано, то отступы и выравнивания игнорируются."
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/artifact/position/
 ---
-## Свойство Artifact.Position
+## Artifact.Position property
 
-Получает или устанавливает позицию артефакта. Если это свойство указано, то отступы и выравнивания игнорируются.
+Получает или задает позицию артефакта. Если это свойство указано, отступы и выравнивания игнорируются.
 
 ```csharp
 public Point Position { get; set; }
@@ -16,7 +16,9 @@ public Point Position { get; set; }
 
 ### См. также
 
-* класс [Point](../../point/)
-* класс [Artifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../point/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

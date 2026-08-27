@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsInteger
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpValue. Возвращает true, если значение является целым числом
+title: "XmpValue.IsInteger"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpValue. Возвращает true, если значение является целым числом"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/xmpvalue/isinteger/
 ---
-## Свойство XmpValue.IsInteger
+## XmpValue.IsInteger property
 
 Возвращает true, если значение является целым числом.
 
@@ -16,6 +16,8 @@ public bool IsInteger { get; }
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

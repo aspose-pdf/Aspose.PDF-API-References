@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Устанавливает температуру для параметров копилота описания изображения
+title: "OpenAIImageDescriptionCopilotOptions.WithTemperature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIImageDescriptionCopilotOptions метод. Устанавливает температуру для параметров помощника описания изображения"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtemperature/
 ---
-## Метод OpenAIImageDescriptionCopilotOptions.WithTemperature
+## OpenAIImageDescriptionCopilotOptions.WithTemperature method
 
-Устанавливает температуру для параметров копилота описания изображения.
+Устанавливает температуру для параметров помощника описания изображения.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithTemperature(double? temperature)
@@ -16,7 +16,7 @@ public OpenAIImageDescriptionCopilotOptions WithTemperature(double? temperature)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| temperature | Nullable`1 | Температура для установки. |
+| температура | Nullable`1 | Температуру для установки. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public OpenAIImageDescriptionCopilotOptions WithTemperature(double? temperature)
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

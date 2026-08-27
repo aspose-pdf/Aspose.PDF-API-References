@@ -1,12 +1,12 @@
 ---
-title: PageRange.PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PageRange. Конструктор по умолчанию
+title: "PageRange.PageRange"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PageRange. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pagerange/pagerange/
 ---
-## Конструктор PageRange
+## PageRange constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public PageRange()
 
 ### См. также
 
-* класс [PageRange](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageRange](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

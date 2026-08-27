@@ -1,7 +1,7 @@
 ---
-title: CosPdfNumber.CosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CosPdfNumber. Инициализирует новый экземпляр класса CosPdfNumber
+title: "CosPdfNumber.CosPdfNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CosPdfNumber. Инициализирует новый экземпляр класса CosPdfNumber"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/
 public CosPdfNumber()
 ```
 
-### See Also
+### См. также
 
 * class [CosPdfNumber](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
@@ -30,12 +30,14 @@ public CosPdfNumber()
 public CosPdfNumber(double value)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Число. |
+| значение | Double | Число. |
 
-### See Also
+### См. также
 
 * class [CosPdfNumber](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

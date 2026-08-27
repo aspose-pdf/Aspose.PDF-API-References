@@ -1,14 +1,14 @@
 ---
-title: Color.Gainsboro
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFDCDCDC
+title: "Color.Gainsboro"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системный цвет с ARGB‑значением c FFDCDCDC"
 type: docs
 weight: 480
 url: /ru/net/aspose.pdf/color/gainsboro/
 ---
-## Свойство Color.Gainsboro
+## Color.Gainsboro property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFDCDCDC.
+Получает системно определённый цвет, значение ARGB которого \c \#FFDCDCDC.
 
 ```csharp
 public static Color Gainsboro { get; }
@@ -16,10 +16,12 @@ public static Color Gainsboro { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

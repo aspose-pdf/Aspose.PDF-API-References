@@ -1,14 +1,14 @@
 ---
-title: Class FitHExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.FitHExplicitDestination. Представляет явное назначение, которое отображает страницу с вертикальной координатой top, расположенной на верхнем крае окна, и содержимое страницы увеличено ровно настолько, чтобы поместить всю ширину страницы в окне. Значение null для top указывает, что текущее значение этого параметра должно быть сохранено без изменений.
+title: "Класс FitHExplicitDestination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.FitHExplicitDestination класс. Представляет явный пункт назначения, который отображает страницу с вертикальной координатой top, расположенной у верхнего края окна, и содержимое страницы увеличивается ровно настолько, чтобы вся ширина страницы помещалась в окне. Значение null для top указывает, что текущее значение этого параметра должно оставаться без изменений."
 type: docs
-weight: 1770
+weight: 1860
 url: /ru/net/aspose.pdf.annotations/fithexplicitdestination/
 ---
-## Класс FitHExplicitDestination
+## FitHExplicitDestination class
 
-Представляет явное назначение, которое отображает страницу с вертикальной координатой top, расположенной на верхнем крае окна, и содержимое страницы увеличено ровно настолько, чтобы поместить всю ширину страницы в окне. Значение null для top указывает, что текущее значение этого параметра должно быть сохранено без изменений.
+Представляет явное назначение, которое отображает страницу, при этом вертикальная координата top располагается у верхнего края окна, а содержимое страницы увеличивается настолько, чтобы вся ширина страницы помещалась в окно. Значение null для top указывает, что текущий параметр должен оставаться без изменений.
 
 ```csharp
 public sealed class FitHExplicitDestination : ExplicitDestination
@@ -18,16 +18,16 @@ public sealed class FitHExplicitDestination : ExplicitDestination
 
 | Имя | Описание |
 | --- | --- |
-| [FitHExplicitDestination](fithexplicitdestination/#constructor_2)(int, double) | Создает удаленное явное назначение. |
-| [FitHExplicitDestination](fithexplicitdestination/#constructor_1)(Page, double) | Создает локальное явное назначение. |
+| [FitHExplicitDestination](fithexplicitdestination/#constructor_2)(int, double) | Создаёт удалённый явный пункт назначения. |
+| [FitHExplicitDestination](fithexplicitdestination/#constructor_1)(Page, double) | Создаёт локальный явный пункт назначения. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Получает объект страницы назначения |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Получает номер страницы назначения |
-| [Top](../../aspose.pdf.annotations/fithexplicitdestination/top/) { get; } | Получает вертикальную координату top, расположенную на верхнем крае окна. |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Получает объект целевой страницы |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Получает номер целевой страницы |
+| [Top](../../aspose.pdf.annotations/fithexplicitdestination/top/) { get; } | Получает вертикальную координату top, расположенную у верхнего края окна. |
 
 ## Методы
 
@@ -37,6 +37,8 @@ public sealed class FitHExplicitDestination : ExplicitDestination
 
 ### См. также
 
-* класс [ExplicitDestination](../explicitdestination/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [ExplicitDestination](../explicitdestination/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

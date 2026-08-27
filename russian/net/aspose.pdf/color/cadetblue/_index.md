@@ -1,14 +1,14 @@
 ---
-title: Color.CadetBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF5F9EA0
+title: "Color.CadetBlue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Color свойство. Возвращает системно определенный цвет, имеющий значение ARGB c FF5F9EA0"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/color/cadetblue/
 ---
-## Свойство Color.CadetBlue
+## Color.CadetBlue property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF5F9EA0.
+Возвращает системный цвет, имеющий ARGB‑значение \c \#FF5F9EA0.
 
 ```csharp
 public static Color CadetBlue { get; }
@@ -16,10 +16,12 @@ public static Color CadetBlue { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

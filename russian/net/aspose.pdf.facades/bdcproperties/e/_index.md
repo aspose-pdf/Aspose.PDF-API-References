@@ -1,14 +1,14 @@
 ---
-title: BDCProperties.E
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BDCProperties. Получает/устанавливает значение текста расширения
+title: "BDCProperties.E"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BDCProperties. Получает/устанавливает значение текста расширения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/bdcproperties/e/
 ---
-## Свойство BDCProperties.E
+## BDCProperties.E property
 
-Получает/устанавливает значение текста расширения.
+Получает/устанавливает значение текста Expansion.
 
 ```csharp
 public string E { get; set; }
@@ -16,6 +16,8 @@ public string E { get; set; }
 
 ### См. также
 
-* класс [BDCProperties](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

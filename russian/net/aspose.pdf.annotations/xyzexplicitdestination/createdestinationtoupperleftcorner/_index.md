@@ -1,14 +1,14 @@
 ---
-title: XYZExplicitDestination.CreateDestinationToUpperLeftCorner
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XYZExplicitDestination. Создать назначение в верхнем левом углу указанной страницы
+title: "XYZExplicitDestination.CreateDestinationToUpperLeftCorner"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XYZExplicitDestination. Создаёт назначение в верхний левый угол указанной страницы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/
 ---
 ## CreateDestinationToUpperLeftCorner(Page, double) {#createdestinationtoupperleftcorner_1}
 
-Создать назначение в верхнем левом углу указанной страницы.
+Создайте назначение в левый верхний угол указанной страницы.
 
 ```csharp
 public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page, double zoom)
@@ -16,8 +16,8 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница назначения. |
-| zoom | Double | Коэффициент увеличения. |
+| страница | Страница | Страница назначения. |
+| масштаб | Double | Коэффициент масштабирования. |
 
 ### Возвращаемое значение
 
@@ -25,16 +25,16 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [XYZExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateDestinationToUpperLeftCorner(Page) {#createdestinationtoupperleftcorner}
 
-Создать назначение для указанной страницы.
+Создайте назначение на указанную страницу.
 
 ```csharp
 public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page)
@@ -42,7 +42,7 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница назначения. |
+| страница | Страница | Страница назначения. |
 
 ### Возвращаемое значение
 
@@ -50,7 +50,9 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [XYZExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: DefaultAppearance.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор DefaultAppearance. Конструктор DefaultAppearance
+title: "DefaultAppearance.DefaultAppearance"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор DefaultAppearance. Конструктор DefaultAppearance"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/defaultappearance/defaultappearance/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.annotations/defaultappearance/defaultappearance/
 public DefaultAppearance()
 ```
 
-### See Also
+### См. также
 
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -30,13 +30,13 @@ public DefaultAppearance()
 public DefaultAppearance(string fontName, double fontSize, Color textColor)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Название шрифта. |
+| fontName | String | Имя шрифта. |
 | fontSize | Double | Размер шрифта. |
 | textColor | Color | Цвет текста. |
 
-### See Also
+### См. также
 
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -46,21 +46,23 @@ public DefaultAppearance(string fontName, double fontSize, Color textColor)
 
 ## DefaultAppearance(Font, double, Color) {#constructor_1}
 
-Конструктор Default Appearance. Ранее созданный шрифт может быть указан в качестве шрифта по умолчанию.
+Конструктор Default Appearance. Ранее созданный шрифт может быть указан как шрифт по умолчанию.
 
 ```csharp
 public DefaultAppearance(Font font, double fontSize, Color textColor)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| font | Font | Шрифт, который будет использоваться по умолчанию. |
+| шрифт | Font | Шрифт, который будет использоваться по умолчанию. |
 | fontSize | Double | Размер шрифта. |
 | textColor | Color | Цвет текста. |
 
-### See Also
+### См. также
 
 * class [Font](../../../aspose.pdf.text/font/)
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

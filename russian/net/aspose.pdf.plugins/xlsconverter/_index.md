@@ -1,12 +1,12 @@
 ---
-title: Class XlsConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.XlsConverter. Представляет плагин XlsConverter
+title: "Класс XlsConverter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.XlsConverter. Представляет плагин XlsConverter"
 type: docs
-weight: 9450
+weight: 9600
 url: /ru/net/aspose.pdf.plugins/xlsconverter/
 ---
-## Класс XlsConverter
+## XlsConverter class
 
 Представляет плагин `XlsConverter`.
 
@@ -29,22 +29,24 @@ public sealed class XlsConverter : IDisposable, IPlugin
 
 ## Примеры
 
-Пример демонстрирует, как конвертировать PDF в документ XLSX.
+Пример демонстрирует, как преобразовать PDF в документ XLSX.
 
 ```csharp
-// create XlsConverter converter
+// создать конвертер XlsConverter
 var converter = new XlsConverter();
-// create PdfToXLSOptions 
+// создать PdfToXLSOptions 
 var opt = new PdfToXLSOptions();
-// add input file path
+// добавить путь к входному файлу
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// установить путь выходного файла
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
 ### См. также
 
-* интерфейс [IPlugin](../iplugin/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

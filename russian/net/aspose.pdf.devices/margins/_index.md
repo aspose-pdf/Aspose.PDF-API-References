@@ -1,12 +1,12 @@
 ---
-title: Class Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Devices.Margins. Этот класс представляет поля изображения
+title: "Класс Margins"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Devices.Margins. Этот класс представляет отступы изображения."
 type: docs
-weight: 3630
+weight: 3750
 url: /ru/net/aspose.pdf.devices/margins/
 ---
-## Класс Полей
+## Margins class
 
 Этот класс представляет поля изображения.
 
@@ -25,12 +25,14 @@ public sealed class Margins
 
 | Имя | Описание |
 | --- | --- |
-| [Bottom](../../aspose.pdf.devices/margins/bottom/) { get; set; } | Получает или задает нижнее поле. |
-| [Left](../../aspose.pdf.devices/margins/left/) { get; set; } | Получает или задает левое поле. |
-| [Right](../../aspose.pdf.devices/margins/right/) { get; set; } | Получает или задает правое поле. |
-| [Top](../../aspose.pdf.devices/margins/top/) { get; set; } | Получает или задает верхнее поле. |
+| [Bottom](../../aspose.pdf.devices/margins/bottom/) { get; set; } | Получает или задает нижний отступ. |
+| [Left](../../aspose.pdf.devices/margins/left/) { get; set; } | Получает или задает левый отступ. |
+| [Right](../../aspose.pdf.devices/margins/right/) { get; set; } | Получает или задает правый отступ. |
+| [Top](../../aspose.pdf.devices/margins/top/) { get; set; } | Получает или задает верхнее значение. |
 
-### См. Также
+### См. также
 
-* пространство имен [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

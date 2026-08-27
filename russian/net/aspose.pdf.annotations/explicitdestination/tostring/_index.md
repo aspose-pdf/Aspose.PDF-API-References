@@ -1,12 +1,12 @@
 ---
-title: ExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ExplicitDestination. Возвращает строковое представление объекта ExplicitDestination
+title: "ExplicitDestination.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ExplicitDestination. Возвращает строковое представление объекта ExplicitDestination"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/explicitdestination/tostring/
 ---
-## Метод ExplicitDestination.ToString
+## ExplicitDestination.ToString method
 
 Возвращает строковое представление объекта ExplicitDestination.
 
@@ -20,6 +20,8 @@ public abstract string ToString()
 
 ### См. также
 
-* класс [ExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

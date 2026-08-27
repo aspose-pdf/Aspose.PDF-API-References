@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenSettings.ApplyRedactions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FlattenSettings. Если true, будет применена аннотация редактирования, указанная в Redaction
+title: "Form.FlattenSettings.ApplyRedactions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FlattenSettings. Если true, будет применена указанная аннотация Redaction"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/form.flattensettings/applyredactions/
 ---
-## Свойство Form.FlattenSettings.ApplyRedactions
+## Form.FlattenSettings.ApplyRedactions property
 
-Если true, будет применена аннотация редактирования, указанная в Redaction
+Если true, будет применена указанная аннотация Redaction.
 
 ```csharp
 public bool ApplyRedactions { get; set; }
@@ -16,6 +16,8 @@ public bool ApplyRedactions { get; set; }
 
 ### См. также
 
-* класс [FlattenSettings](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [FlattenSettings](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

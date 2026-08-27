@@ -1,12 +1,12 @@
 ---
-title: FileContentResponse1.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileContentResponse. Получает или задает содержимое файла
+title: "FileContentResponse1.Content"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileContentResponse. Получает или задает содержимое файла"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/filecontentresponse-1/content/
 ---
-## FileContentResponse&lt;T&gt;.Свойство Content
+## FileContentResponse&lt;T&gt;.Content property
 
 Получает или задает содержимое файла.
 
@@ -16,6 +16,8 @@ public T Content { get; set; }
 
 ### См. также
 
-* класс [FileContentResponse&lt;T&gt;](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [FileContentResponse&lt;T&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

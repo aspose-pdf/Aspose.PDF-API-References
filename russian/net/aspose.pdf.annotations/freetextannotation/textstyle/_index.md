@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FreeTextAnnotation. Получает или устанавливает стиль текста в отображении. Когда стиль текста изменяется, внешний вид текста обновляется.
+title: "FreeTextAnnotation.TextStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FreeTextAnnotation property. Получает или задает стиль текста в отображении. Когда стиль текста изменяется, отображение текста обновляется."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.annotations/freetextannotation/textstyle/
 ---
-## Свойство FreeTextAnnotation.TextStyle
+## FreeTextAnnotation.TextStyle property
 
-Получает или устанавливает стиль текста в отображении. Когда стиль текста изменяется, внешний вид текста обновляется.
+Получает или задает стиль текста в отображении. Когда стиль текста изменяется, отображение текста обновляется.
 
 ```csharp
 public TextStyle TextStyle { get; set; }
@@ -16,7 +16,9 @@ public TextStyle TextStyle { get; set; }
 
 ### См. также
 
-* класс [TextStyle](../../textstyle/)
-* класс [FreeTextAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [TextStyle](../../textstyle/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

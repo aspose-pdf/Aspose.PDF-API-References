@@ -1,14 +1,14 @@
 ---
-title: Color.AliceBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет с ARGB значением c FFF0F8FF
+title: "Color.AliceBlue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB‑значением c FFF0F8FF"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/color/aliceblue/
 ---
-## Свойство Color.AliceBlue
+## Color.AliceBlue property
 
-Получает системно определенный цвет с ARGB значением \c \#FFF0F8FF.
+Возвращает системный цвет, имеющий ARGB‑значение \c \#FFF0F8FF.
 
 ```csharp
 public static Color AliceBlue { get; }
@@ -16,10 +16,12 @@ public static Color AliceBlue { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

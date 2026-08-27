@@ -1,14 +1,14 @@
 ---
-title: Class OutputIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.OutputIntent. Представляет собой намерение вывода, которое соответствует цветовым характеристикам PDF-документа и характеристикам целевого устройства вывода или производственной среды, в которой документ будет напечатан.
+title: "Класс OutputIntent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.OutputIntent. Представляет намерение вывода, которое соответствует цветовым характеристикам PDF‑документа и характеристикам целевого устройства вывода или производственной среды, в которой документ будет печататься."
 type: docs
-weight: 8030
+weight: 8170
 url: /ru/net/aspose.pdf/outputintent/
 ---
-## Класс OutputIntent
+## OutputIntent class
 
-Представляет собой намерение вывода, которое соответствует цветовым характеристикам PDF-документа и характеристикам целевого устройства вывода или производственной среды, в которой документ будет напечатан.
+Представляет намерение вывода, которое сопоставляет цветовые характеристики PDF document с характеристиками целевого устройства вывода или производственной среды, в которой документ будет печататься.
 
 ```csharp
 public sealed class OutputIntent
@@ -24,13 +24,15 @@ public sealed class OutputIntent
 
 | Имя | Описание |
 | --- | --- |
-| [Info](../../aspose.pdf/outputintent/info/) { get; set; } | Получает или задает текст, удобочитаемый для человека, который содержит дополнительную информацию или комментарии о целевом устройстве или условиях производства. |
-| [OutputCondition](../../aspose.pdf/outputintent/outputcondition/) { get; set; } | Получает или задает текст, который кратко идентифицирует целевое устройство вывода или условия производства в удобочитаемой форме. |
-| [OutputConditionIdentifier](../../aspose.pdf/outputintent/outputconditionidentifier/) { get; set; } | Получает или задает текст, который идентифицирует целевое устройство вывода или условия производства в удобочитаемой или машинно-читаемой форме. |
-| [RegistryName](../../aspose.pdf/outputintent/registryname/) { get; set; } | Получает или задает текст, который идентифицирует реестр, в котором определено условие, обозначенное [`OutputConditionIdentifier`](./outputconditionidentifier/). |
+| [Info](../../aspose.pdf/outputintent/info/) { get; set; } | Получает или задает читаемый человеком текст, содержащий дополнительную информацию или комментарии о предполагаемом целевом устройстве или производственном условии. |
+| [OutputCondition](../../aspose.pdf/outputintent/outputcondition/) { get; set; } | Получает или задает текст, который кратко идентифицирует предполагаемое устройство вывода или производственное условие в читаемом человеком виде. |
+| [OutputConditionIdentifier](../../aspose.pdf/outputintent/outputconditionidentifier/) { get; set; } | Получает или задает текст, который идентифицирует предполагаемое устройство вывода или производственное условие в читаемом человеком или машиной виде. |
+| [RegistryName](../../aspose.pdf/outputintent/registryname/) { get; set; } | Получает или задает текст, который определяет реестр, в котором определено условие, обозначенное [`OutputConditionIdentifier`](./outputconditionidentifier/). |
 | [Subtype](../../aspose.pdf/outputintent/subtype/) { get; } | Получает подтип намерения вывода. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

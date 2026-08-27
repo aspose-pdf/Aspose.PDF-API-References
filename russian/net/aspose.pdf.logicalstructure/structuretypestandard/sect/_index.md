@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Sect
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Раздел Контейнер для группировки связанных элементов контента
+title: "StructureTypeStandard.Sect"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard field. Section Контейнер для группировки связанных элементов содержимого"
 type: docs
 weight: 360
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/sect/
 ---
-## Поле StructureTypeStandard.Sect
+## StructureTypeStandard.Sect field
 
-(Раздел) Контейнер для группировки связанных элементов контента.
+(Section) Контейнер для группировки связанных элементов контента.
 
 ```csharp
 public static readonly StructureTypeStandard Sect;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Sect;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

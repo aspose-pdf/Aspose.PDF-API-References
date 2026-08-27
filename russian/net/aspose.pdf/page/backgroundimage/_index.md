@@ -1,14 +1,14 @@
 ---
-title: Page.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Page. Получает или устанавливает фоновое изображение для страницы, только для генератора, не заполняется при чтении документа
+title: "Page.BackgroundImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Page. Получает или задает фон изображения для страницы, только для генератора, не заполняется при чтении документа"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/page/backgroundimage/
 ---
-## Свойство Page.BackgroundImage
+## Page.BackgroundImage property
 
-Получает или устанавливает фоновое изображение для страницы (только для генератора, не заполняется при чтении документа).
+Получает или задаёт фоновое изображение для страницы (только для генератора, не заполняется при чтении документа).
 
 ```csharp
 public Image BackgroundImage { get; set; }
@@ -16,7 +16,9 @@ public Image BackgroundImage { get; set; }
 
 ### См. также
 
-* класс [Image](../../image/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Image](../../image/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

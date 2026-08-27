@@ -1,14 +1,14 @@
 ---
-title: Class CancellationTokenExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.CancellationTokenExtensions. Предоставляет методы расширения для CancellationToken
+title: "Класс CancellationTokenExtensions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.CancellationTokenExtensions. Предоставляет методы‑расширения для CancellationToken."
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.ai/cancellationtokenextensions/
 ---
-## Класс CancellationTokenExtensions
+## CancellationTokenExtensions class
 
-Предоставляет методы расширения для CancellationToken.
+Предоставляет методы‑расширения для CancellationToken.
 
 ```csharp
 public static class CancellationTokenExtensions
@@ -22,5 +22,7 @@ public static class CancellationTokenExtensions
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

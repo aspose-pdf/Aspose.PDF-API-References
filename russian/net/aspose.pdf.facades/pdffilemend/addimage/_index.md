@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileMend. Добавляет изображение на указанную страницу PDF-документа по указанным координатам
+title: "PdfFileMend.AddImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileMend. Добавляет изображение на указанную страницу PDF‑документа в заданных координатах"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdffilemend/addimage/
 ---
 ## AddImage(Stream, int, float, float, float, float) {#addimage}
 
-Добавляет изображение на указанную страницу PDF-документа по указанным координатам.
+Добавляет изображение на указанную страницу PDF‑документа в заданных координатах.
 
 ```csharp
 public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -26,7 +26,7 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 
 ### Возвращаемое значение
 
-True, если успешно, false в противном случае.
+True если успешно, false в противном случае.
 
 ## Примеры
 
@@ -41,15 +41,15 @@ mendor.Close();
 
 ### См. также
 
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddImage(Stream, int, float, float, float, float, CompositingParameters) {#addimage_1}
 
-Добавляет изображение на указанную страницу PDF-документа по указанным координатам.
+Добавляет изображение на указанную страницу PDF‑документа в заданных координатах.
 
 ```csharp
 public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -64,11 +64,11 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 | lowerLeftY | Single | Нижний левый y прямоугольника изображения. |
 | upperRightX | Single | Верхний правый x прямоугольника изображения. |
 | upperRightY | Single | Верхний правый y прямоугольника изображения. |
-| compositingParameters | CompositingParameters | Параметры композитинга графики для изображения. |
+| compositingParameters | CompositingParameters | Параметры графического композитинга для изображения. |
 
 ### Возвращаемое значение
 
-True, если успешно, false в противном случае.
+True если успешно, false в противном случае.
 
 ## Примеры
 
@@ -83,16 +83,16 @@ mendor.Close();
 
 ### См. также
 
-* класс [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddImage(Stream, int[], float, float, float, float) {#addimage_2}
 
-Добавляет изображение на указанные страницы PDF-документа по указанным координатам.
+Добавляет изображение на указанные страницы PDF‑документа в заданных координатах.
 
 ```csharp
 public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -102,7 +102,7 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Входной поток изображения. |
-| pageNums | Int32[] | Номера страниц, которые получат изображение. |
+| pageNums | Int32[] | Количество страниц, которые получат изображение. |
 | lowerLeftX | Single | Нижний левый x прямоугольника изображения. |
 | lowerLeftY | Single | Нижний левый y прямоугольника изображения. |
 | upperRightX | Single | Верхний правый x прямоугольника изображения. |
@@ -110,7 +110,7 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 
 ### Возвращаемое значение
 
-True, если успешно, false в противном случае.
+True если успешно, false в противном случае.
 
 ## Примеры
 
@@ -125,15 +125,15 @@ mendor.Close();
 
 ### См. также
 
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddImage(Stream, int[], float, float, float, float, CompositingParameters) {#addimage_3}
 
-Добавляет изображение на указанные страницы PDF-документа по указанным координатам.
+Добавляет изображение на указанные страницы PDF‑документа в заданных координатах.
 
 ```csharp
 public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -143,16 +143,16 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Входной поток изображения. |
-| pageNums | Int32[] | Номера страниц, которые получат изображение. |
+| pageNums | Int32[] | Количество страниц, которые получат изображение. |
 | lowerLeftX | Single | Нижний левый x прямоугольника изображения. |
 | lowerLeftY | Single | Нижний левый y прямоугольника изображения. |
 | upperRightX | Single | Верхний правый x прямоугольника изображения. |
 | upperRightY | Single | Верхний правый y прямоугольника изображения. |
-| compositingParameters | CompositingParameters | Параметры композитинга графики для изображений. |
+| compositingParameters | CompositingParameters | Параметры графического композитинга для изображений. |
 
 ### Возвращаемое значение
 
-True, если успешно, false в противном случае.
+True если успешно, false в противном случае.
 
 ## Примеры
 
@@ -167,16 +167,16 @@ mendor.Close();
 
 ### См. также
 
-* класс [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddImage(string, int, float, float, float, float) {#addimage_4}
 
-Добавляет изображение на указанную страницу PDF-документа по указанным координатам.
+Добавляет изображение на указанную страницу PDF‑документа в заданных координатах.
 
 ```csharp
 public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -194,7 +194,7 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 
 ### Возвращаемое значение
 
-True, если успешно, false в противном случае.
+True если успешно, false в противном случае.
 
 ## Примеры
 
@@ -206,15 +206,15 @@ mendor.Close();
 
 ### См. также
 
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddImage(string, int, float, float, float, float, CompositingParameters) {#addimage_5}
 
-Добавляет изображение на указанную страницу PDF-документа по указанным координатам.
+Добавляет изображение на указанную страницу PDF‑документа в заданных координатах.
 
 ```csharp
 public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -229,11 +229,11 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 | lowerLeftY | Single | Нижний левый y прямоугольника изображения. |
 | upperRightX | Single | Верхний правый x прямоугольника изображения. |
 | upperRightY | Single | Верхний правый y прямоугольника изображения. |
-| compositingParameters | CompositingParameters | Параметры композитинга графики для изображений. |
+| compositingParameters | CompositingParameters | Параметры графического композитинга для изображений. |
 
 ### Возвращаемое значение
 
-True, если успешно, false в противном случае.
+True если успешно, false в противном случае.
 
 ## Примеры
 
@@ -245,16 +245,16 @@ mendor.Close();
 
 ### См. также
 
-* класс [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddImage(string, int[], float, float, float, float) {#addimage_6}
 
-Добавляет изображение на указанные страницы PDF-документа по указанным координатам.
+Добавляет изображение на указанные страницы PDF‑документа в заданных координатах.
 
 ```csharp
 public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -264,7 +264,7 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageName | String | Путь к входному файлу изображения. |
-| pageNums | Int32[] | Номера страниц, которые получат изображение. |
+| pageNums | Int32[] | Количество страниц, которые получат изображение. |
 | lowerLeftX | Single | Нижний левый x прямоугольника изображения. |
 | lowerLeftY | Single | Нижний левый y прямоугольника изображения. |
 | upperRightX | Single | Верхний правый x прямоугольника изображения. |
@@ -272,7 +272,7 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 
 ### Возвращаемое значение
 
-True, если успешно, false в противном случае.
+True если успешно, false в противном случае.
 
 ## Примеры
 
@@ -284,15 +284,15 @@ mendor.Close();
 
 ### См. также
 
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddImage(string, int[], float, float, float, float, CompositingParameters) {#addimage_7}
 
-Добавляет изображение на указанные страницы PDF-документа по указанным координатам.
+Добавляет изображение на указанные страницы PDF‑документа в заданных координатах.
 
 ```csharp
 public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -302,16 +302,16 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageName | String | Путь к входному файлу изображения. |
-| pageNums | Int32[] | Номера страниц, которые получат изображение. |
+| pageNums | Int32[] | Количество страниц, которые получат изображение. |
 | lowerLeftX | Single | Нижний левый x прямоугольника изображения. |
 | lowerLeftY | Single | Нижний левый y прямоугольника изображения. |
 | upperRightX | Single | Верхний правый x прямоугольника изображения. |
 | upperRightY | Single | Верхний правый y прямоугольника изображения. |
-| compositingParameters | CompositingParameters | Параметры композитинга графики для изображений. |
+| compositingParameters | CompositingParameters | Параметры графического композитинга для изображений. |
 
 ### Возвращаемое значение
 
-True, если успешно, false в противном случае.
+True если успешно, false в противном случае.
 
 ## Примеры
 
@@ -323,7 +323,9 @@ mendor.Close();
 
 ### См. также
 
-* класс [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

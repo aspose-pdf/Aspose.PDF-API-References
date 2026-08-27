@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.AfterText
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NumberFormat. Текст, который будет добавлен после метки
+title: "Measure.NumberFormat.AfterText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NumberFormat. Текст, который будет присоединён после метки"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/aftertext/
 ---
-## Свойство Measure.NumberFormat.AfterText
+## Measure.NumberFormat.AfterText property
 
 Текст, который будет добавлен после метки
 
@@ -16,6 +16,8 @@ public string AfterText { get; set; }
 
 ### См. также
 
-* класс [NumberFormat](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

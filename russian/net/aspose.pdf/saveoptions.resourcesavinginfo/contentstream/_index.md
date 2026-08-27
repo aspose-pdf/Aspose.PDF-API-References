@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.ResourceSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ResourceSavingInfo. Устанавливается конвертером. Представляет бинарное содержимое сохраненного файла
+title: "SaveOptions.ResourceSavingInfo.ContentStream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ResourceSavingInfo. Устанавливается конвертером. Представляет двоичное содержимое сохранённого файла."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/saveoptions.resourcesavinginfo/contentstream/
 ---
-## Поле SaveOptions.ResourceSavingInfo.ContentStream
+## SaveOptions.ResourceSavingInfo.ContentStream field
 
-Устанавливается конвертером. Представляет бинарное содержимое сохраненного файла.
+Устанавливается конвертером. Представляет бинарное содержимое сохранённого файла.
 
 ```csharp
 public Stream ContentStream;
@@ -16,6 +16,8 @@ public Stream ContentStream;
 
 ### См. также
 
-* класс [ResourceSavingInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ResourceSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

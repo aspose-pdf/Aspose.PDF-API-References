@@ -1,14 +1,14 @@
 ---
-title: Enum FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FieldSerializationStatus Aspose.Pdf. Представляет статус сериализации поля формы
+title: "Перечисление FieldSerializationStatus"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.FieldSerializationStatus. Представляет статус сериализации поля формы"
 type: docs
-weight: 4800
+weight: 4920
 url: /ru/net/aspose.pdf/fieldserializationstatus/
 ---
-## Перечисление FieldSerializationStatus
+## FieldSerializationStatus enumeration
 
-Представляет статус сериализации поля формы.
+Представляет статус сериализации полей формы.
 
 ```csharp
 public enum FieldSerializationStatus
@@ -18,11 +18,13 @@ public enum FieldSerializationStatus
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Успех | `0` | Указывает на то, что сериализация прошла успешно. |
-| Предупреждение | `1` | Указывает на то, что сериализация завершилась с предупреждениями. |
-| Ошибка | `2` | Указывает на то, что при сериализации возникли ошибки. |
+| Success | `0` | Указывает, что сериализация прошла успешно. |
+| Warning | `1` | Указывает, что сериализация завершилась с предупреждениями. |
+| Error | `2` | Указывает, что при сериализации возникли ошибки. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class SubPathGroup
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Vector.SubPathGroup. Представляет класс для группы контейнеров графических элементов. Объекты класса имеют ограничивающий прямоугольник для учета размера группы
+title: "Класс SubPathGroup"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Vector.SubPathGroup. Представляет класс для группы контейнеров графических элементов. Объекты класса имеют ограничивающий прямоугольник, учитывающий размер группы."
 type: docs
-weight: 11230
+weight: 11420
 url: /ru/net/aspose.pdf.vector/subpathgroup/
 ---
-## Класс SubPathGroup
+## SubPathGroup class
 
-Представляет класс для группы контейнеров графических элементов. Объекты класса имеют ограничивающий прямоугольник для учета размера группы.
+Представляет класс для группы контейнеров графических элементов. Объекты класса имеют ограничивающий прямоугольник, учитывающий размер группы.
 
 ```csharp
 public class SubPathGroup
@@ -16,5 +16,7 @@ public class SubPathGroup
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../)
+
+

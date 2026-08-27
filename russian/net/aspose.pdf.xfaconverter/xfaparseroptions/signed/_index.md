@@ -1,14 +1,14 @@
 ---
-title: XfaParserOptions.Signed
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XfaParserOptions. Если это свойство истинно, то документ будет преобразован с использованием потока формы xfa, если он существует. Если это ложь, то поток формы xfa будет проигнорирован. Это свойство было введено, потому что неясно, как вычислить контрольную сумму, используемую для проверки подписи.
+title: "XfaParserOptions.Signed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XfaParserOptions. Если это свойство истинно, документ будет конвертирован с использованием потока формы xfa, если он существует. Если ложно, поток формы xfa будет игнорироваться. Это свойство было введено, потому что не ясно, как вычислить контрольную сумму, используемую для проверки подписи."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.xfaconverter/xfaparseroptions/signed/
 ---
-## Свойство XfaParserOptions.Signed
+## XfaParserOptions.Signed property
 
-Если это свойство истинно, то документ будет преобразован с использованием потока формы xfa (если он существует). Если это ложь, то поток формы xfa будет проигнорирован. Это свойство было введено, потому что неясно, как вычислить контрольную сумму, используемую для проверки подписи.
+Если это свойство истинно, Document будет конвертирован с использованием потока формы xfa (если он существует). Если ложно, поток формы xfa будет игнорироваться. Это свойство было введено, потому что не ясно, как вычислить контрольную сумму, используемую для проверки подписи.
 
 ```csharp
 public bool Signed { get; set; }
@@ -16,6 +16,8 @@ public bool Signed { get; set; }
 
 ### См. также
 
-* класс [XfaParserOptions](../)
-* пространство имен [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* сборка [Aspose.PDF](../../../)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

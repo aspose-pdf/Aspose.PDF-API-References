@@ -1,14 +1,14 @@
 ---
-title: InkAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: Метод InkAnnotation. Обновляет точки в InkList в соответствии с матричным преобразованием
+title: "InkAnnotation.ChangeAfterResize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод InkAnnotation. Обновляет точки в InkList в соответствии с преобразованием матрицы"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/inkannotation/changeafterresize/
 ---
-## Метод InkAnnotation.ChangeAfterResize
+## InkAnnotation.ChangeAfterResize method
 
-Обновляет точки в InkList в соответствии с матричным преобразованием.
+Обновляет точки в InkList в соответствии с преобразованием матрицы.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
@@ -16,11 +16,13 @@ public override void ChangeAfterResize(Matrix transform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| transform | Matrix | Матрица, задающая преобразование. |
+| преобразование | Matrix | Matrix, определяющая преобразование. |
 
 ### См. также
 
-* класс [Matrix](../../../aspose.pdf/matrix/)
-* класс [InkAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [InkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

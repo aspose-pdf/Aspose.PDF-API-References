@@ -1,12 +1,12 @@
 ---
-title: PageSettings.PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageSettings. Получает или задает разрешение принтера для страницы
+title: "PageSettings.PrinterResolution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageSettings. Получает или задает разрешение принтера для страницы"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.printing/pagesettings/printerresolution/
 ---
-## Свойство PageSettings.PrinterResolution
+## PageSettings.PrinterResolution property
 
 Получает или задает разрешение принтера для страницы.
 
@@ -16,7 +16,9 @@ public PrinterResolution PrinterResolution { get; set; }
 
 ### См. также
 
-* класс [PrinterResolution](../../printerresolution/)
-* класс [PageSettings](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterResolution](../../printerresolution/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

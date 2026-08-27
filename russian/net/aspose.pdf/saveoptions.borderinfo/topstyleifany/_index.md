@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.BorderInfo.TopStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Поле BorderInfo. Представляет верхнюю часть границы
+title: "SaveOptions.BorderInfo.TopStyleIfAny"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле BorderInfo. Представляет верхнюю часть, если она есть, границы"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/saveoptions.borderinfo/topstyleifany/
 ---
-## Поле SaveOptions.BorderInfo.TopStyleIfAny
+## SaveOptions.BorderInfo.TopStyleIfAny field
 
 Представляет верхнюю часть (если есть) границы
 
@@ -16,7 +16,9 @@ public BorderPartStyle TopStyleIfAny;
 
 ### См. также
 
-* класс [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* класс [BorderInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

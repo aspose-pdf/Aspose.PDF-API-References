@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseThumbs
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Эскизные изображения видимы
+title: "ViewerPreference.NonFullScreenPageModeUseThumbs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ViewerPreference. Видимы миниатюры изображений"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/
 ---
-## Поле ViewerPreference.NonFullScreenPageModeUseThumbs
+## ViewerPreference.NonFullScreenPageModeUseThumbs field
 
-Эскизные изображения видимы
+Миниатюры видимы.
 
 ```csharp
 public const int NonFullScreenPageModeUseThumbs;
@@ -16,6 +16,8 @@ public const int NonFullScreenPageModeUseThumbs;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

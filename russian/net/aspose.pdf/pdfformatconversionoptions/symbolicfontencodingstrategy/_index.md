@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.SymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFormatConversionOptions. Стратегия копирования данных кодировки для символических шрифтов, если символический шрифт TrueType имеет более одной таблицы подкодировки
+title: "PdfFormatConversionOptions.SymbolicFontEncodingStrategy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFormatConversionOptions. Стратегия копирования данных кодировки для символических шрифтов, если символический TrueType шрифт имеет более одной таблицы кодировки"
 type: docs
-weight: 200
+weight: 210
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/symbolicfontencodingstrategy/
 ---
-## Свойство PdfFormatConversionOptions.SymbolicFontEncodingStrategy
+## PdfFormatConversionOptions.SymbolicFontEncodingStrategy property
 
-Стратегия копирования данных кодировки для символических шрифтов, если символический шрифт TrueType имеет более одной таблицы подкодировки.
+Стратегия копирования данных кодировки для символических шрифтов, если символический TrueType‑шрифт имеет более одной подтаблицы кодировки.
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set; }
@@ -16,7 +16,9 @@ public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set;
 
 ### См. также
 
-* класс [PdfASymbolicFontEncodingStrategy](../../pdfasymbolicfontencodingstrategy/)
-* класс [PdfFormatConversionOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfASymbolicFontEncodingStrategy](../../pdfasymbolicfontencodingstrategy/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

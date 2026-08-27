@@ -1,14 +1,14 @@
 ---
-title: CustomPrintEventArgs.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Поле CustomPrintEventArgs. Получает настройки, которые должны быть применены к каждой странице документа
+title: "CustomPrintEventArgs.PageSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле CustomPrintEventArgs. Получает настройки, которые должны применяться к каждой странице документа"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.printing/customprinteventargs/pagesettings/
 ---
-## Поле CustomPrintEventArgs.PageSettings
+## CustomPrintEventArgs.PageSettings field
 
-Получает настройки, которые должны быть применены к каждой странице документа.
+Возвращает настройки, которые должны применяться к каждой странице документа.
 
 ```csharp
 public readonly PageSettings PageSettings;
@@ -16,7 +16,9 @@ public readonly PageSettings PageSettings;
 
 ### См. также
 
-* класс [PageSettings](../../pagesettings/)
-* класс [CustomPrintEventArgs](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSettings](../../pagesettings/)
+* class [CustomPrintEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LaunchAction.File
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LaunchAction. Получает или задает приложение, которое должно быть запущено, или документ, который должен быть открыт или напечатан
+title: "LaunchAction.File"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LaunchAction. Возвращает или задает приложение для запуска или документ для открытия или печати"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/launchaction/file/
 ---
-## Свойство LaunchAction.File
+## LaunchAction.File property
 
-Получает или задает приложение, которое должно быть запущено, или документ, который должен быть открыт или напечатан.
+Получает или задаёт приложение, которое будет запущено, или документ, который будет открыт или распечатан.
 
 ```csharp
 public string File { get; set; }
@@ -16,6 +16,8 @@ public string File { get; set; }
 
 ### См. также
 
-* класс [LaunchAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [LaunchAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

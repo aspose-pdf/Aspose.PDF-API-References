@@ -1,12 +1,12 @@
 ---
-title: JavaScriptCollection.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство JavaScriptCollection. Список ключей в коллекции JavaScript
+title: "JavaScriptCollection.Keys"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство JavaScriptCollection. Список ключей в коллекции JavaScript"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/javascriptcollection/keys/
 ---
-## Свойство JavaScriptCollection.Keys
+## JavaScriptCollection.Keys property
 
 Список ключей в коллекции JavaScript.
 
@@ -16,6 +16,8 @@ public IList<string> Keys { get; }
 
 ### См. также
 
-* класс [JavaScriptCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

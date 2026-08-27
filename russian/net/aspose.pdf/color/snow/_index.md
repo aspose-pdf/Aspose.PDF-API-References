@@ -1,14 +1,14 @@
 ---
-title: Color.Snow
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFFFAFA
+title: "Color.Snow"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFFFFAFA"
 type: docs
 weight: 1280
 url: /ru/net/aspose.pdf/color/snow/
 ---
-## Свойство Color.Snow
+## Color.Snow property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFFFAFA.
+Получает системно определённый цвет, значение ARGB которого \c \#FFFFFAFA.
 
 ```csharp
 public static Color Snow { get; }
@@ -16,10 +16,12 @@ public static Color Snow { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.ChangeAllowLevel
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentPrivilege. Получает и устанавливает уровень изменений привилегий документов. Точно так же, как настройки Разрешенные изменения в Adobe Professionals. 0 Никаких. 1 Вставка, удаление и поворот страниц. 2 Заполнение полей формы и подписание существующих полей подписи. 3 Комментирование, заполнение полей формы и подписание существующих полей подписи. 4 Все, кроме извлечения страниц.
+title: "DocumentPrivilege.ChangeAllowLevel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentPrivilege. Получает и задает уровень изменения привилегий документа. Аналогично настройкам «Changes Allowed» в Adobe Acrobat Professional. 0 — Нет. 1 — Вставка, удаление и вращение страниц. 2 — Заполнение полей формы и подписание существующих полей подписи. 3 — Комментирование, заполнение полей формы и подписание существующих полей подписи. 4 — Всё, кроме извлечения страниц."
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.facades/documentprivilege/changeallowlevel/
 ---
-## Свойство DocumentPrivilege.ChangeAllowLevel
+## DocumentPrivilege.ChangeAllowLevel property
 
-Получает и устанавливает уровень изменений привилегий документа. Точно так же, как настройки Разрешенные изменения в Adobe Professional. 0: Никаких. 1: Вставка, удаление и поворот страниц. 2: Заполнение полей формы и подписание существующих полей подписи. 3: Комментирование, заполнение полей формы и подписание существующих полей подписи. 4: Все, кроме извлечения страниц.
+Получает и задает уровень изменения привилегий Document. Точно так же, как настройки Changes Allowed в Adobe Professional. 0: Нет. 1: Вставка, удаление и вращение страниц. 2: Заполнение полей форм и подпись существующих полей подписи. 3: Комментирование, заполнение полей форм и подпись существующих полей подписи. 4: Всё, кроме извлечения страниц.
 
 ```csharp
 public int ChangeAllowLevel { get; set; }
@@ -16,10 +16,12 @@ public int ChangeAllowLevel { get; set; }
 
 ## Примечания
 
-Если свойство имеет значение -1, то уровень не определен.
+Если у свойства значение -1, то уровень не определён.
 
 ### См. также
 
-* класс [DocumentPrivilege](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

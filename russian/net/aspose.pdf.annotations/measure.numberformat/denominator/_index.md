@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.Denominator
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NumberFormat. Если FractionDisplayment равно ShowAsFraction, это значение является знаменателем дроби. Значение по умолчанию - 16
+title: "Measure.NumberFormat.Denominator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NumberFormat. Если FractionDisplayment имеет значение ShowAsFraction, то это значение является знаменателем дроби. Значение по умолчанию — 16."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/denominator/
 ---
-## Свойство Measure.NumberFormat.Denominator
+## Measure.NumberFormat.Denominator property
 
-Если FractionDisplayment равно ShowAsFraction, это значение является знаменателем дроби. Значение по умолчанию - 16.
+Если FractionDisplayment имеет значение ShowAsFraction, это значение является знаменателем дроби. Значение по умолчанию — 16.
 
 ```csharp
 public int Denominator { get; set; }
@@ -16,6 +16,8 @@ public int Denominator { get; set; }
 
 ### См. также
 
-* класс [NumberFormat](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

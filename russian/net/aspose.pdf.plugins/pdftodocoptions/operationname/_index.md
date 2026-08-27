@@ -1,14 +1,14 @@
 ---
-title: PdfToDocOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfToDocOptions. Получает имя операции
+title: "PdfToDocOptions.OperationName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfToDocOptions. Получает название операции"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/pdftodocoptions/operationname/
 ---
-## Свойство PdfToDocOptions.OperationName
+## PdfToDocOptions.OperationName property
 
-Получает имя операции.
+Получает название операции.
 
 ```csharp
 public override string OperationName { get; }
@@ -16,6 +16,8 @@ public override string OperationName { get; }
 
 ### См. также
 
-* класс [PdfToDocOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfToDocOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

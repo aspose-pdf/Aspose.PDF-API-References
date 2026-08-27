@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Next
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Получает элемент структуры, представляющий следующий элемент относительно этого элемента в иерархии структуры
+title: "OutlineItemCollection.Next"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Возвращает элемент оглавления, представляющий следующий элемент относительно данного в иерархии оглавления"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/outlineitemcollection/next/
 ---
-## Свойство OutlineItemCollection.Next
+## OutlineItemCollection.Next property
 
-Получает элемент структуры, представляющий следующий элемент относительно этого элемента в иерархии структуры.
+Получает элемент оглавления, представляющий следующий элемент относительно данного элемента в иерархии оглавления.
 
 ```csharp
 public OutlineItemCollection Next { get; }
@@ -16,6 +16,8 @@ public OutlineItemCollection Next { get; }
 
 ### См. также
 
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

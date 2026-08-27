@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.IsEmbedFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlLoadOptions. Получает или задает встраивание шрифтов в результирующий документ
+title: "HtmlLoadOptions.IsEmbedFonts"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HtmlLoadOptions свойство. Получает или задает встраивание шрифтов в результирующий документ"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/htmlloadoptions/isembedfonts/
 ---
-## Свойство HtmlLoadOptions.IsEmbedFonts
+## HtmlLoadOptions.IsEmbedFonts property
 
-Получает или задает встраивание шрифтов в результирующий документ
+Получает или задаёт встраивание шрифтов в результирующий документ
 
 ```csharp
 public bool IsEmbedFonts { get; set; }
@@ -16,6 +16,8 @@ public bool IsEmbedFonts { get; set; }
 
 ### См. также
 
-* класс [HtmlLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

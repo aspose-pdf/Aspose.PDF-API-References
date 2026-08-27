@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор XmpPdfAExtensionSchemaDescription. Инициализирует новый объект
+title: "XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор XmpPdfAExtensionSchemaDescription. Инициализирует новый объект."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/xmppdfaextensionschemadescription/xmppdfaextensionschemadescription/
 ---
-## Конструктор XmpPdfAExtensionSchemaDescription
+## XmpPdfAExtensionSchemaDescription constructor
 
 Инициализирует новый объект.
 
@@ -17,11 +17,13 @@ public XmpPdfAExtensionSchemaDescription(string prefix, string namespaceURI, str
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | prefix | String | Префикс. |
-| namespaceURI | String | URI пространства имен. |
-| description | String | Необязательное описание. |
+| namespaceURI | String | URI пространства имён. |
+| description | String | Опциональное описание. |
 
 ### См. также
 
-* класс [XmpPdfAExtensionSchemaDescription](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchemaDescription](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

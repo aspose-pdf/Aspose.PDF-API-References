@@ -1,12 +1,12 @@
 ---
-title: Class SaveableFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.SaveableFacade. Базовый класс для всех сохраняемых фасадов
+title: "Класс SaveableFacade"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Facades.SaveableFacade. Базовый класс для всех сохраняемых фасадов"
 type: docs
-weight: 4700
+weight: 4820
 url: /ru/net/aspose.pdf.facades/saveablefacade/
 ---
-## Класс SaveableFacade
+## SaveableFacade class
 
 Базовый класс для всех сохраняемых фасадов.
 
@@ -18,7 +18,7 @@ public abstract class SaveableFacade : Facade, ISaveableFacade
 
 | Имя | Описание |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Получает фасад документа, с которым работает. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Получает document, с которым работает фасад. |
 
 ## Методы
 
@@ -29,12 +29,14 @@ public abstract class SaveableFacade : Facade, ISaveableFacade
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | Инициализирует фасад. |
 | virtual [Close](../../aspose.pdf.facades/facade/close/)() | Освобождает Aspose.Pdf.Document, связанный с фасадом. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Освобождает фасад. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save)(Stream) | Сохраняет PDF документ в указанный поток. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save_1)(string) | Сохраняет PDF документ в указанный файл. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save)(Stream) | Сохраняет PDF‑документ в указанный поток. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save_1)(string) | Сохраняет PDF‑документ в указанный файл. |
 
 ### См. также
 
-* класс [Facade](../facade/)
-* интерфейс [ISaveableFacade](../isaveablefacade/)
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* class [Facade](../facade/)
+* interface [ISaveableFacade](../isaveablefacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

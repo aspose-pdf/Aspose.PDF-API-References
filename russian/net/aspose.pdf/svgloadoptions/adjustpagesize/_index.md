@@ -1,14 +1,14 @@
 ---
-title: SvgLoadOptions.AdjustPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SvgLoadOptions. Настройка размера страницы pdf в соответствии с размером svg
+title: "SvgLoadOptions.AdjustPageSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SvgLoadOptions. Регулирует размер страницы PDF до размера SVG"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/svgloadoptions/adjustpagesize/
 ---
-## Свойство SvgLoadOptions.AdjustPageSize
+## SvgLoadOptions.AdjustPageSize property
 
-Настройка размера страницы pdf в соответствии с размером svg
+Настроить размер PDF‑страницы под размер SVG
 
 ```csharp
 public bool AdjustPageSize { get; set; }
@@ -16,6 +16,8 @@ public bool AdjustPageSize { get; set; }
 
 ### См. также
 
-* класс [SvgLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SvgLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

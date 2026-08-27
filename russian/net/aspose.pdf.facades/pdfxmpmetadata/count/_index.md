@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfXmpMetadata. Получает количество элементов в коллекции
+title: "PdfXmpMetadata.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfXmpMetadata. Возвращает количество элементов в коллекции"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/count/
 ---
-## Свойство PdfXmpMetadata.Count
+## PdfXmpMetadata.Count property
 
-Получает количество элементов в коллекции.
+Возвращает количество элементов в коллекции.
 
 ```csharp
 public int Count { get; }
@@ -24,6 +24,8 @@ Console.WriteLine("Count = " + pxm.Count);
 
 ### См. также
 
-* класс [PdfXmpMetadata](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

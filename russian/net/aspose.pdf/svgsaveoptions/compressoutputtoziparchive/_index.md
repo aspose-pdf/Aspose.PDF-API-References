@@ -1,14 +1,14 @@
 ---
-title: SvgSaveOptions.CompressOutputToZipArchive
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SvgSaveOptions. Указывает, будет ли вывод создан в виде одного zip-архива. Пожалуйста, обратитесь к комментарию к параметрам 'TreatTargetFileNameAsDirectory', чтобы увидеть правила именования svg-файлов страниц для многопользовательского исходного документа, которые также применяются к сжатому набору выходных файлов.
+title: "SvgSaveOptions.CompressOutputToZipArchive"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SvgSaveOptions. Указывает, будет ли вывод создаваться как один ziparchive. Пожалуйста, обратитесь к комментариям к параметру TreatTargetFileNameAsDirectory, чтобы увидеть правила именования svgfiles страниц для многостраничного исходного документа, которые также применяются к набору сжатых файлов вывода."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/svgsaveoptions/compressoutputtoziparchive/
 ---
-## Поле SvgSaveOptions.CompressOutputToZipArchive
+## SvgSaveOptions.CompressOutputToZipArchive field
 
-Указывает, будет ли вывод создан в виде одного zip-архива. Пожалуйста, обратитесь к комментарию к параметрам 'TreatTargetFileNameAsDirectory', чтобы увидеть правила именования svg-файлов страниц для многопользовательского исходного документа, которые также применяются к сжатому набору выходных файлов.
+Указывает, будет ли вывод создан как один zip‑архив. Пожалуйста, обратитесь к комментариям к параметру 'TreatTargetFileNameAsDirectory', чтобы увидеть правила именования svg‑файлов страниц для многостраничного исходного документа, которые также применяются к набору упакованных файлов вывода.
 
 ```csharp
 public bool CompressOutputToZipArchive;
@@ -16,6 +16,8 @@ public bool CompressOutputToZipArchive;
 
 ### См. также
 
-* класс [SvgSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SvgSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

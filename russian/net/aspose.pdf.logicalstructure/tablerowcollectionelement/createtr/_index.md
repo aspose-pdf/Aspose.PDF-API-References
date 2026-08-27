@@ -1,12 +1,12 @@
 ---
-title: TableRowCollectionElement.CreateTR
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableRowCollectionElement. Создает TableTRElement и добавляет его в текущую таблицу
+title: "TableRowCollectionElement.CreateTR"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TableRowCollectionElement. Создает TableTRElement и добавляет его в текущую таблицу"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/tablerowcollectionelement/createtr/
 ---
-## Метод TableRowCollectionElement.CreateTR
+## TableRowCollectionElement.CreateTR method
 
 Создает [`TableTRElement`](../../tabletrelement/) и добавляет его в текущую таблицу.
 
@@ -16,11 +16,13 @@ public virtual TableTRElement CreateTR()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [TableTRElement](../../tabletrelement/)
-* класс [TableRowCollectionElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [TableTRElement](../../tabletrelement/)
+* class [TableRowCollectionElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

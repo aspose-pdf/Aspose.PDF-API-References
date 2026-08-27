@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DictionaryEditor. Удаляет элемент с указанным ключом из DictionaryEditor
+title: "DictionaryEditor.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DictionaryEditor. Удаляет элемент с указанным ключом из DictionaryEditor"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.dataeditor/dictionaryeditor/remove/
@@ -16,17 +16,17 @@ public bool Remove(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ элемента, который нужно удалить. |
+| ключ | String | Ключ элемента, который нужно удалить. |
 
 ### Возвращаемое значение
 
-True, если элемент успешно удален; в противном случае false. Этот метод также возвращает false, если ключ не найден в оригинальном словаре или ключ не подлежит редактированию.
+True, если элемент успешно удалён; в противном случае — false. Этот метод также возвращает false, если ключ не найден в оригинальном словаре или ключ не редактируемый
 
 ### См. также
 
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,15 +40,17 @@ public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Объект, который нужно удалить из [`DictionaryEditor`](../). |
+| item | KeyValuePair`2 | Объект для удаления из [`DictionaryEditor`](../). |
 
 ### Возвращаемое значение
 
-true, если item был успешно удален из [`DictionaryEditor`](../); в противном случае false. Этот метод также возвращает false, если item не найден в оригинальном [`DictionaryEditor`](../).
+true, если элемент был успешно удалён из [`DictionaryEditor`](../); в противном случае — false. Этот метод также возвращает false, если элемент не найден в оригинальном [`DictionaryEditor`](../).
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../../icospdfprimitive/)
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

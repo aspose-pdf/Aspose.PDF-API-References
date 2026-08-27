@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут цвета Владелец атрибута макета
+title: "AttributeKey.Color"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. Color атрибут Layout атрибут владелец"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/color/
 ---
-## Поле AttributeKey.Color
+## AttributeKey.Color field
 
-Атрибут цвета (Владелец атрибута макета).
+Атрибут Color (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey Color;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Color;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

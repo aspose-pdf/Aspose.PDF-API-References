@@ -1,12 +1,12 @@
 ---
-title: Page.MakeGrayscale
-second_title: Aspose.PDF for .NET API Reference
-description: Метод страницы. Преобразует страницу в градации серого
+title: "Page.MakeGrayscale"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Преобразует страницу в градации серого."
 type: docs
 weight: 500
 url: /ru/net/aspose.pdf/page/makegrayscale/
 ---
-## Метод Page.MakeGrayscale
+## Page.MakeGrayscale method
 
 Преобразует страницу в градации серого.
 
@@ -16,6 +16,8 @@ public void MakeGrayscale()
 
 ### См. также
 
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

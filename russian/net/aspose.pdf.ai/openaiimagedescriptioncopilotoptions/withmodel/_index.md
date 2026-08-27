@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Устанавливает модель для параметров копилота описания изображения
+title: "OpenAIImageDescriptionCopilotOptions.WithModel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIImageDescriptionCopilotOptions. Устанавливает модель для параметров копилота описания изображения."
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmodel/
 ---
-## Метод OpenAIImageDescriptionCopilotOptions.WithModel
+## OpenAIImageDescriptionCopilotOptions.WithModel method
 
-Устанавливает модель для параметров копилота описания изображения.
+Устанавливает модель для параметров помощника описания изображения.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithModel(string model)
@@ -24,6 +24,8 @@ public OpenAIImageDescriptionCopilotOptions WithModel(string model)
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SimpleFontSubstitution.OriginalFontName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SimpleFontSubstitution. Получает оригинальное имя шрифта, которое должно быть заменено на SubstitutionFontName
+title: "SimpleFontSubstitution.OriginalFontName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SimpleFontSubstitution. Получает исходное имя шрифта, которое должно быть заменено SubstitutionFontName."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/simplefontsubstitution/originalfontname/
 ---
-## Свойство SimpleFontSubstitution.OriginalFontName
+## SimpleFontSubstitution.OriginalFontName property
 
-Получает оригинальное имя шрифта, которое должно быть заменено на [`SubstitutionFontName`](../substitutionfontname/)
+Получает исходное имя шрифта, которое должно быть заменено [`SubstitutionFontName`](../substitutionfontname/).
 
 ```csharp
 public string OriginalFontName { get; }
@@ -16,6 +16,8 @@ public string OriginalFontName { get; }
 
 ### См. также
 
-* класс [SimpleFontSubstitution](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [SimpleFontSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldFacade. Выравнивание текста поля по умолчанию - левое выравнивание
+title: "FormFieldFacade.Alignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade property. Выравнивание текста поля, по умолчанию — левое выравнивание"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/formfieldfacade/alignment/
 ---
-## Свойство FormFieldFacade.Alignment
+## FormFieldFacade.Alignment property
 
-Выравнивание текста поля, по умолчанию - левое выравнивание.
+Выравнивание текста поля, по умолчанию — выравнивание по левому краю.
 
 ```csharp
 public int Alignment { get; set; }
@@ -16,6 +16,8 @@ public int Alignment { get; set; }
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

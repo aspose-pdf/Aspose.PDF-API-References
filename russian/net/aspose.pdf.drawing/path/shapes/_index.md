@@ -1,14 +1,14 @@
 ---
-title: Path.Shapes
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Path. Получает или устанавливает коллекцию фигур
+title: "Path.Shapes"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Path. Возвращает или задает коллекцию фигур"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.drawing/path/shapes/
 ---
-## Свойство Path.Shapes
+## Path.Shapes property
 
-Получает или устанавливает коллекцию фигур.
+Получает или задает коллекцию фигур.
 
 ```csharp
 public List<Shape> Shapes { get; }
@@ -16,7 +16,9 @@ public List<Shape> Shapes { get; }
 
 ### См. также
 
-* класс [Shape](../../shape/)
-* класс [Path](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Shape](../../shape/)
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfJavaScriptStripper.Strip
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfJavaScriptStripper. Удалить Java Script из документа
+title: "PdfJavaScriptStripper.Strip"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfJavaScriptStripper. Удалить JavaScript из документа"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/pdfjavascriptstripper/strip/
@@ -17,17 +17,17 @@ public bool Strip(string inputFile, string outputFile)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Файл, содержащий документ. |
-| outputFile | String | Файл, в котором будет сохранен документ. |
+| outputFile | String | Файл, в котором будет сохранён документ. |
 
 ### Возвращаемое значение
 
-true, если JavaScript был успешно удален.
+true, если JavaScript был успешно удалён.
 
 ### См. также
 
-* класс [PdfJavaScriptStripper](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfJavaScriptStripper](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,14 +42,16 @@ public bool Strip(Stream inStream, Stream outStream)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inStream | Stream | Поток, содержащий документ. |
-| outStream | Stream | Поток, в котором будет сохранен документ. |
+| outStream | Stream | Поток, в котором будет сохранён документ. |
 
 ### Возвращаемое значение
 
-true, если JavaScript был успешно удален.
+true, если JavaScript был успешно удалён.
 
 ### См. также
 
-* класс [PdfJavaScriptStripper](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfJavaScriptStripper](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

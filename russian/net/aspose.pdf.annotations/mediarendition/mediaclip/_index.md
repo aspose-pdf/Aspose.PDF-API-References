@@ -1,14 +1,14 @@
 ---
-title: MediaRendition.MediaClip
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MediaRendition. Получает или устанавливает объекты медиа-клипов, связанные с рендерингом
+title: "MediaRendition.MediaClip"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MediaRendition. Получает или задает объекты медиа‑клипа, связанные с рендерингом"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/mediarendition/mediaclip/
 ---
-## Свойство MediaRendition.MediaClip
+## MediaRendition.MediaClip property
 
-Получает или устанавливает объекты медиа-клипов, связанные с рендерингом.
+Получает или задает медиа‑клипы, связанные с рендерингом.
 
 ```csharp
 public MediaClip MediaClip { get; }
@@ -16,7 +16,9 @@ public MediaClip MediaClip { get; }
 
 ### См. также
 
-* класс [MediaClip](../../mediaclip/)
-* класс [MediaRendition](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [MediaClip](../../mediaclip/)
+* class [MediaRendition](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

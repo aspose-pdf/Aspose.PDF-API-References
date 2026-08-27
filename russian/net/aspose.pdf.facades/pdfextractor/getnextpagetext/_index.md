@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfExtractor. Сохраняет текст одной страницы в файл
+title: "PdfExtractor.GetNextPageText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfExtractor. Сохраняет текст одной страницы в файл"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.facades/pdfextractor/getnextpagetext/
@@ -16,7 +16,7 @@ public void GetNextPageText(string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Путь к файлу и имя для сохранения текста. |
+| outputFile | String | Путь к файлу и его имя для сохранения текста. |
 
 ## Примеры
 
@@ -51,9 +51,9 @@ End While
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -91,6 +91,8 @@ while (extractor.HasNextPageText())
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

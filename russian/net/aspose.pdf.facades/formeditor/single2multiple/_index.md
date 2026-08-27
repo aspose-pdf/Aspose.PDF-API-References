@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Single2Multiple
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Измените однострочное текстовое поле на многострочное
+title: "FormEditor.Single2Multiple"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "метод FormEditor. Преобразовать однострочное текстовое поле в многострочное"
 type: docs
 weight: 350
 url: /ru/net/aspose.pdf.facades/formeditor/single2multiple/
 ---
-## Метод FormEditor.Single2Multiple
+## FormEditor.Single2Multiple method
 
-Измените однострочное текстовое поле на многострочное.
+Преобразует однострочное текстовое поле в многострочное.
 
 ```csharp
 public bool Single2Multiple(string fieldName)
@@ -16,11 +16,11 @@ public bool Single2Multiple(string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Квалифицированное имя поля. |
+| fieldName | String | Полное (квалифицированное) имя поля. |
 
 ### Возвращаемое значение
 
-Если успешно, возвращает true; в противном случае false.
+Если успешно, возвращает true; иначе false.
 
 ## Примеры
 
@@ -31,6 +31,8 @@ formEditor.Single2Multiple("textField");
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

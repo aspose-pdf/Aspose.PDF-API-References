@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Scope_Row
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут Scope Row
+title: "AttributeName.Scope_Row"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут Scope Row"
 type: docs
 weight: 540
 url: /ru/net/aspose.pdf.logicalstructure/attributename/scope_row/
 ---
-## Поле AttributeName.Scope_Row
+## AttributeName.Scope_Row field
 
-Атрибут Scope: Row.
+Атрибут Scope: Row - Строка.
 
 ```csharp
 public static readonly AttributeName Scope_Row;
@@ -16,6 +16,8 @@ public static readonly AttributeName Scope_Row;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

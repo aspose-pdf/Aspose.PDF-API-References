@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Segments
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragment. Получает текстовые сегменты для текущего TextFragment
+title: "TextFragment.Segments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragment. Возвращает текстовые сегменты текущего TextFragment."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.text/textfragment/segments/
 ---
-## Свойство TextFragment.Segments
+## TextFragment.Segments property
 
-Получает текстовые сегменты для текущего [`TextFragment`](../).
+Возвращает текстовые сегменты текущего [`TextFragment`](../).
 
 ```csharp
 public TextSegmentCollection Segments { get; set; }
@@ -16,23 +16,23 @@ public TextSegmentCollection Segments { get; set; }
 
 ## Примечания
 
-В нескольких словах, объекты [`TextSegment`](../../textsegment/) являются дочерними элементами объекта [`TextFragment`](../). Продвинутые пользователи могут получить доступ к сегментам напрямую для выполнения более сложных сценариев редактирования текста. Для получения подробной информации, пожалуйста, посмотрите описание объекта [`TextFragment`](../).
+Кратко, объекты [`TextSegment`](../../textsegment/) являются дочерними объектами [`TextFragment`](../). Продвинутые пользователи могут обращаться к сегментам напрямую для выполнения более сложных сценариев редактирования текста. Подробности см. в описании объекта [`TextFragment`](../).
 
 ## Примеры
 
-Пример демонстрирует, как пройтись по всем объектам [`TextSegment`](../../textsegment/) внутри [`TextFragment`](../).
+В примере показано, как перебрать все объекты [`TextSegment`](../../textsegment/) внутри [`TextFragment`](../).
 
 ```csharp
-// Open document
+// Открыть документ
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Создайте объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Примите поглотитель для первой страницы
 doc.Pages[1].Accept(absorber);
 
-// Navigate all text segments and out their text and placement info
+// Переберите все текстовые сегменты и выведите их текст и информацию о расположении.
 foreach (TextSegment segment in absorber.TextFragments[1].Segments)
 {
     Console.Out.WriteLine(string.Format("segment text: {0}", segment.Text));
@@ -44,10 +44,12 @@ foreach (TextSegment segment in absorber.TextFragments[1].Segments)
 
 ### См. также
 
-* класс [TextFragmentAbsorber](../../textfragmentabsorber/)
-* класс [Document](../../../aspose.pdf/document/)
-* класс [TextSegment](../../textsegment/)
-* класс [TextSegmentCollection](../../textsegmentcollection/)
-* класс [TextFragment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../../textsegmentcollection/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

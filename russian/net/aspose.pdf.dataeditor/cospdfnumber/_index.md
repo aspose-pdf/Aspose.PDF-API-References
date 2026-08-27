@@ -1,12 +1,12 @@
 ---
-title: Class CosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.DataEditor.CosPdfNumber. Этот класс представляет тип Pdf Number
+title: "Класс CosPdfNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.DataEditor.CosPdfNumber. Этот класс представляет тип Pdf Number"
 type: docs
-weight: 3440
+weight: 3560
 url: /ru/net/aspose.pdf.dataeditor/cospdfnumber/
 ---
-## Класс CosPdfNumber
+## CosPdfNumber class
 
 Этот класс представляет тип Pdf Number.
 
@@ -32,7 +32,7 @@ public sealed class CosPdfNumber : CosPdfPrimitive
 | Имя | Описание |
 | --- | --- |
 | override [Equals](../../aspose.pdf.dataeditor/cospdfnumber/equals/)(object) | Определяет, что указанный объект равен текущему объекту. |
-| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfnumber/gethashcode/)() | Получает хэш-код для текущего объекта. |
+| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfnumber/gethashcode/)() | Получить хеш-код текущего объекта. |
 | virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Пытается привести этот экземпляр к [`CosPdfBoolean`](../cospdfboolean/). |
 | virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Пытается привести этот экземпляр к [`CosPdfDictionary`](../cospdfdictionary/). |
 | virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Пытается привести этот экземпляр к [`CosPdfName`](../cospdfname/). |
@@ -42,6 +42,8 @@ public sealed class CosPdfNumber : CosPdfPrimitive
 
 ### См. также
 
-* класс [CosPdfPrimitive](../cospdfprimitive/)
-* пространство имен [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../)
+* class [CosPdfPrimitive](../cospdfprimitive/)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../)
+
+

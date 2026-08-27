@@ -1,9 +1,9 @@
 ---
-title: Class PageDate.MonthComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PageDateMonthComponent. Представляет компонент месяца даты
+title: "Класс PageDate.MonthComponent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.PageDateMonthComponent. Представляет компонент месяца даты"
 type: docs
-weight: 8130
+weight: 8270
 url: /ru/net/aspose.pdf/pagedate.monthcomponent/
 ---
 ## PageDate.MonthComponent class
@@ -14,28 +14,30 @@ url: /ru/net/aspose.pdf/pagedate.monthcomponent/
 public class MonthComponent : DateComponent
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [MonthComponent](../../aspose.pdf/pagedate.monthcomponent/.ctor)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Получает или задает формат для компонента даты. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [GetFormat](../../aspose.pdf/pagedate.monthcomponent/getformat#getformat)() | Получает строку формата для компонента месяца. |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Возвращает строку, составленную из указанного символа, повторенного в зависимости от формата. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Возвращает строку, составленную из указанного символа, повторённого в соответствии с форматом. |
 
-### See Also
+### См. также
 
 * class [DateComponent](../datecomponent/)
 * class [PageDate](../pagedate/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

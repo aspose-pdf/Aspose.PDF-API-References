@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateQuoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает QuoteElement
+title: "ITaggedContent.CreateQuoteElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает QuoteElement"
 type: docs
-weight: 230
+weight: 260
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createquoteelement/
 ---
-## Метод ITaggedContent.CreateQuoteElement
+## ITaggedContent.CreateQuoteElement method
 
 Создает [`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement/).
 
@@ -16,11 +16,13 @@ public QuoteElement CreateQuoteElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

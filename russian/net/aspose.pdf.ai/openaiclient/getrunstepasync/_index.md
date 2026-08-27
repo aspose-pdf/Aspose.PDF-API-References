@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetRunStepAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Асинхронно извлекает детали конкретного шага в рамках выполнения
+title: "OpenAIClient.GetRunStepAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно получает детали конкретного шага в запуске."
 type: docs
-weight: 270
+weight: 280
 url: /ru/net/aspose.pdf.ai/openaiclient/getrunstepasync/
 ---
-## Метод OpenAIClient.GetRunStepAsync
+## OpenAIClient.GetRunStepAsync method
 
-Асинхронно извлекает детали конкретного шага в рамках выполнения.
+Получает детали конкретного шага в запуске асинхронно.
 
 ```csharp
 public Task<RunStepResponse> GetRunStepAsync(string threadId, string runId, string runStepId, 
@@ -17,26 +17,28 @@ public Task<RunStepResponse> GetRunStepAsync(string threadId, string runId, stri
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threadId | String | Идентификатор потока, содержащего выполнение. |
-| runId | String | Идентификатор выполнения, содержащего шаг. |
-| runStepId | String | Идентификатор шага выполнения для извлечения. |
+| threadId | String | Идентификатор потока, содержащего запуск. |
+| runId | String | Идентификатор запуска, содержащего шаг. |
+| runStepId | String | Идентификатор шага запуска, который нужно получить. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит детали шага выполнения.
+Задача, представляющая асинхронную операцию. Результат задачи содержит детали шага запуска.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор выполнения равен null или пуст. |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор шага выполнения равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор запуска равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор шага запуска равен null или пуст. |
 
 ### См. также
 
-* класс [RunStepResponse](../../runstepresponse/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunStepResponse](../../runstepresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

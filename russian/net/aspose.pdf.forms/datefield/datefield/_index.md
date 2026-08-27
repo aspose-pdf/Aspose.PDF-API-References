@@ -1,7 +1,7 @@
 ---
-title: DateField.DateField
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор DateField. Инициализирует новый экземпляр DateField
+title: "DateField.DateField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор DateField. Инициализирует новый экземпляр DateField"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/datefield/datefield/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.forms/datefield/datefield/
 public DateField()
 ```
 
-### See Also
+### См. также
 
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -30,11 +30,11 @@ public DateField()
 public DateField(Document doc)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором будет создано поле. |
+| doc | Document | Document где будет создано поле. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DateField](../)
@@ -51,12 +51,12 @@ public DateField(Document doc)
 public DateField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, необходимая для создания. |
-| rect | Rectangle | Прямоугольник, в котором будет размещено текстовое поле на странице. |
+| страница | Страница | Требуется страница для создания. |
+| rect | Rectangle | Прямоугольник, в котором текстовое поле будет размещено на странице. |
 
-### See Also
+### См. также
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -74,15 +74,17 @@ public DateField(Page page, Rectangle rect)
 public DateField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором будет создано поле. |
+| doc | Document | Document где будет создано поле. |
 | rect | Rectangle | Прямоугольник поля. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

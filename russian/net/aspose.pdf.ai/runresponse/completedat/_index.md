@@ -1,14 +1,14 @@
 ---
-title: RunResponse.CompletedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или устанавливает метку времени Unix в секундах, когда выполнение было завершено
+title: "RunResponse.CompletedAt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает Unix‑временную метку в секундах, указывающую время завершения выполнения."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/runresponse/completedat/
 ---
-## Свойство RunResponse.CompletedAt
+## RunResponse.CompletedAt property
 
-Получает или устанавливает метку времени Unix (в секундах), когда выполнение было завершено.
+Получает или задает Unix‑временную метку (в секундах) момента завершения запуска.
 
 ```csharp
 public long? CompletedAt { get; set; }
@@ -16,6 +16,8 @@ public long? CompletedAt { get; set; }
 
 ### См. также
 
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

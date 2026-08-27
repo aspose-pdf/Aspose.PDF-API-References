@@ -1,7 +1,7 @@
 ---
-title: PdfToHtmlOptions.PdfToHtmlOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfToHtmlOptions. Инициализирует новый экземпляр объекта PdfToHtmlOptions с параметрами по умолчанию
+title: "PdfToHtmlOptions.PdfToHtmlOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfToHtmlOptions constructor. Инициализирует новый экземпляр объекта PdfToHtmlOptions с параметрами по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/pdftohtmloptions/pdftohtmloptions/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.plugins/pdftohtmloptions/pdftohtmloptions/
 public PdfToHtmlOptions()
 ```
 
-### See Also
+### См. также
 
 * class [PdfToHtmlOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
@@ -30,13 +30,15 @@ public PdfToHtmlOptions()
 public PdfToHtmlOptions(SaveDataType outputDataType)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputDataType | SaveDataType | Тип выходных данных. |
 
-### See Also
+### См. также
 
 * enum [SaveDataType](../../pdftohtmloptions.savedatatype/)
 * class [PdfToHtmlOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: XFormCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XFormCollection. Удалить XForm из коллекции
+title: "XFormCollection.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XFormCollection. Удаляет XForm из коллекции"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/xformcollection/delete/
@@ -16,13 +16,13 @@ public void Delete(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс XForm, который должен быть удален |
+| index | Int32 | Индекс XForm, который необходимо удалить |
 
 ### См. также
 
-* класс [XFormCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +36,9 @@ public void Delete()
 
 ### См. также
 
-* класс [XFormCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,10 +52,12 @@ public void Delete(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя XForm, который должен быть удален. |
+| имя | String | Имя XForm, который будет удалён. |
 
 ### См. также
 
-* класс [XFormCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

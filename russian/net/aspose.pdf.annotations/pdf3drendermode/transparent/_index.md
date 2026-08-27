@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.Transparent
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DRenderMode. Режим рендеринга Transparent
+title: "PDF3DRenderMode.Transparent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PDF3DRenderMode поле. Режим рендеринга Transparent"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/transparent/
 ---
-## Поле PDF3DRenderMode.Transparent
+## PDF3DRenderMode.Transparent field
 
 Режим рендеринга "Transparent".
 
@@ -16,6 +16,8 @@ public static PDF3DRenderMode Transparent;
 
 ### См. также
 
-* класс [PDF3DRenderMode](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

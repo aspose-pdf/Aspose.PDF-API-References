@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно извлекает детали конкретного запуска в рамках потока
+title: "IOpenAIClient.GetRunAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно получает детали конкретного запуска в потоке."
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.ai/iopenaiclient/getrunasync/
 ---
-## Метод IOpenAIClient.GetRunAsync
+## IOpenAIClient.GetRunAsync method
 
-Асинхронно извлекает детали конкретного запуска в рамках потока.
+Получает детали конкретного запуска в потоке асинхронно.
 
 ```csharp
 public Task<RunResponse> GetRunAsync(string threadId, string runId, 
@@ -18,23 +18,25 @@ public Task<RunResponse> GetRunAsync(string threadId, string runId,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | threadId | String | Идентификатор потока, содержащего запуск. |
-| runId | String | Идентификатор запуска для извлечения. |
+| runId | String | Идентификатор выполнения для получения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит детали запуска.
+Задача, представляющая асинхронную операцию. Результат задачи содержит детали выполнения.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 | [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор запуска равен null или пуст. |
 
 ### См. также
 
-* класс [RunResponse](../../runresponse/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

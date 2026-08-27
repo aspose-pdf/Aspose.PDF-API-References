@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.DecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSecurity. Расшифровывает зашифрованный Pdf документ с помощью пароля владельца. Если у документа нет пароля владельца, разрешается использовать пароль пользователя. Вызывает исключение, если процесс завершился неудачно.
+title: "PdfFileSecurity.DecryptFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSecurity. Расшифровывает зашифрованный PDF‑документ с помощью пароля владельца. Если у документа нет пароля владельца, допускается использование пароля пользователя. Выбрасывает исключение, если процесс завершился неудачей"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdffilesecurity/decryptfile/
 ---
-## Метод PdfFileSecurity.DecryptFile
+## PdfFileSecurity.DecryptFile method
 
-Расшифровывает зашифрованный Pdf документ с помощью пароля владельца. Если у документа нет пароля владельца, разрешается использовать пароль пользователя. Вызывает исключение, если процесс завершился неудачно.
+Расшифровывает зашифрованный PDF‑документ с помощью пароля владельца. Если у документа нет пароля владельца, допускается использование пароля пользователя. Выбрасывает исключение, если процесс завершился неудачей.
 
 ```csharp
 public bool DecryptFile(string ownerPassword)
@@ -20,7 +20,7 @@ public bool DecryptFile(string ownerPassword)
 
 ### Возвращаемое значение
 
-True для успеха.
+True при успехе.
 
 ## Примеры
 
@@ -40,6 +40,8 @@ fileSecurity.DecryptFile("ownerpass")
 
 ### См. также
 
-* класс [PdfFileSecurity](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

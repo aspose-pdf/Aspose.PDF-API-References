@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.GlyphOrientationVertical
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут GlyphOrientationVertical Владелец атрибута макета
+title: "AttributeKey.GlyphOrientationVertical"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. атрибут GlyphOrientationVertical владелец атрибута Layout"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/glyphorientationvertical/
 ---
-## Поле AttributeKey.GlyphOrientationVertical
+## AttributeKey.GlyphOrientationVertical field
 
-Атрибут GlyphOrientationVertical (Владелец атрибута макета).
+Атрибут GlyphOrientationVertical (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey GlyphOrientationVertical;
@@ -16,6 +16,8 @@ public static readonly AttributeKey GlyphOrientationVertical;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

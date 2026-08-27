@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenAllFields
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Уплощает все поля
+title: "Form.FlattenAllFields"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Преобразует все поля в плоские."
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.facades/form/flattenallfields/
 ---
-## Метод Form.FlattenAllFields
+## Form.FlattenAllFields method
 
-Уплощает все поля.
+Преобразует все поля в плоские.
 
 ```csharp
 public void FlattenAllFields()
@@ -23,6 +23,8 @@ form.FlattenAllFields();
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

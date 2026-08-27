@@ -1,14 +1,14 @@
 ---
-title: PdfAValidationResult.IsValid
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfAValidationResult. Получает значение, указывающее, была ли валидация успешной
+title: "PdfAValidationResult.IsValid"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfAValidationResult. Возвращает значение, указывающее, была ли проверка успешной"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/pdfavalidationresult/isvalid/
 ---
-## Поле PdfAValidationResult.IsValid
+## PdfAValidationResult.IsValid field
 
-Получает значение, указывающее, была ли валидация успешной.
+Получает значение, указывающее, была ли проверка успешной.
 
 ```csharp
 public readonly bool IsValid;
@@ -16,6 +16,8 @@ public readonly bool IsValid;
 
 ### См. также
 
-* класс [PdfAValidationResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAValidationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

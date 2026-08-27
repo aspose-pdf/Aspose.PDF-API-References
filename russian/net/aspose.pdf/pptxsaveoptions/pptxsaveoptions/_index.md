@@ -1,12 +1,12 @@
 ---
-title: PptxSaveOptions.PptxSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PptxSaveOptions. Конструктор по умолчанию
+title: "PptxSaveOptions.PptxSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PptxSaveOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pptxsaveoptions/pptxsaveoptions/
 ---
-## Конструктор PptxSaveOptions
+## PptxSaveOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public PptxSaveOptions()
 
 ### См. также
 
-* класс [PptxSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

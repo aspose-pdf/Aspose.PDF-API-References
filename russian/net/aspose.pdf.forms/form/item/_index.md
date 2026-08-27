@@ -1,14 +1,14 @@
 ---
-title: Form.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство формы. Получает поле формы по имени поля. Вызывает исключение, если поле не найдено
+title: "Form.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Возвращает поле формы по имени поля. Выбрасывает исключение, если поле не найдено."
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.pdf.forms/form/item/
 ---
-## Индексатор формы (1 из 2)
+## Form indexer (1 of 2)
 
-Получает поле формы по имени поля. Вызывает исключение, если поле не найдено.
+Возвращает поле формы по имени поля. Выбрасывает исключение, если поле не найдено.
 
 ```csharp
 public WidgetAnnotation this[string name] { get; }
@@ -16,7 +16,7 @@ public WidgetAnnotation this[string name] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| name | Имя поля. |
+| имя | Имя поля. |
 
 ### Возвращаемое значение
 
@@ -24,16 +24,16 @@ public WidgetAnnotation this[string name] { get; }
 
 ### См. также
 
-* класс [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Индексатор формы (2 из 2)
+## Form indexer (2 of 2)
 
-Получает поле формы по индексу поля.
+Возвращает поле формы по индексу поля.
 
 ```csharp
 public WidgetAnnotation this[int index] { get; }
@@ -49,7 +49,9 @@ public WidgetAnnotation this[int index] { get; }
 
 ### См. также
 
-* класс [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

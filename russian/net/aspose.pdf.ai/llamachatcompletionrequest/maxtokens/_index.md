@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.MaxTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaChatCompletionRequest. Устанавливает или получает максимальное количество токенов для генерации в завершении чата. Значение по умолчанию - null, что означает бесконечность
+title: "LlamaChatCompletionRequest.MaxTokens"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaChatCompletionRequest. Устанавливает или получает максимальное количество токенов, генерируемых при завершении чата. Значение по умолчанию null означает бесконечность"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/llamachatcompletionrequest/maxtokens/
 ---
-## Свойство LlamaChatCompletionRequest.MaxTokens
+## LlamaChatCompletionRequest.MaxTokens property
 
-Устанавливает или получает максимальное количество токенов для генерации в завершении чата. Значение по умолчанию - null, что означает бесконечность.
+Устанавливает или получает максимальное количество токенов для генерации в завершении чата. Значение по умолчанию — null, что означает бесконечность.
 
 ```csharp
 public int? MaxTokens { get; set; }
@@ -16,6 +16,8 @@ public int? MaxTokens { get; set; }
 
 ### См. также
 
-* класс [LlamaChatCompletionRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

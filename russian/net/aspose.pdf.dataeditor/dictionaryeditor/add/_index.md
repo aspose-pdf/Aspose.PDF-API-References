@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DictionaryEditor. Установить ICosPdfPrimitive в словарь
+title: "DictionaryEditor.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DictionaryEditor. Устанавливает ICosPdfPrimitive в словарь"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.dataeditor/dictionaryeditor/add/
@@ -16,21 +16,21 @@ public void Add(string key, ICosPdfPrimitive value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ. |
-| value | ICosPdfPrimitive | Значение. |
+| ключ | String | Ключ. |
+| значение | ICosPdfPrimitive | Значение. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Выбросить исключение, если ключ/значение не могут быть отредактированы или удалены. |
+| ArgumentException | Выбрасывает исключение, если ключ/значение нельзя отредактировать или удалить. |
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../../icospdfprimitive/)
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,17 +44,19 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Пара с ключом и значением. |
+| item | KeyValuePair`2 | Пара, содержащая ключ и значение. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Выбросить исключение, если ключ/значение не могут быть отредактированы или удалены. |
+| ArgumentException | Выбрасывает исключение, если ключ/значение нельзя отредактировать или удалить. |
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../../icospdfprimitive/)
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

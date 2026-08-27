@@ -1,16 +1,16 @@
 ---
-title: StructureTypeStandard.TOC
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Содержание Список, состоящий из элементов записи содержания типа структуры TOCI и/или других вложенных элементов записи содержания TOC
+title: "StructureTypeStandard.TOC"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard поле. Содержание Список, состоящий из записей элементов содержания типа структуры TOCI и/или других вложенных записей содержания TOC"
 type: docs
 weight: 440
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/toc/
 ---
-## Поле StructureTypeStandard.TOC
+## StructureTypeStandard.TOC field
 
-(Содержание) Список, состоящий из элементов записи содержания (тип структуры TOCI) и/или других вложенных элементов записи содержания (TOC).
+(Table of contents) Список, состоящий из записей элементов оглавления (тип структуры TOCI) и/или других вложенных записей оглавления (TOC).
 
-Элемент TOC, который включает только элементы TOCI, представляет собой плоскую иерархию. Элемент TOC, который включает другие вложенные элементы TOC (и, возможно, элементы TOCI), представляет более сложную иерархию. В идеале иерархия элемента TOC верхнего уровня отражает структуру основного текста документа.
+Запись TOC, содержащая только записи TOCI, представляет плоскую иерархию. Запись TOC, содержащая другие вложенные записи TOC (и возможно записи TOCI), представляет более сложную иерархию. В идеале иерархия записи верхнего уровня TOC отражает структуру основной части документа.
 
 ```csharp
 public static readonly StructureTypeStandard TOC;
@@ -18,6 +18,8 @@ public static readonly StructureTypeStandard TOC;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

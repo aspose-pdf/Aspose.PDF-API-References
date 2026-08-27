@@ -1,14 +1,14 @@
 ---
-title: Interface ISummaryClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.AI.ISummaryClient1TOptions. Представляет интерфейс для клиентского резюме с определенными параметрами
+title: "Интерфейс ISummaryClientTOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.AI.ISummaryClient1TOptions. Представляет интерфейс для клиента сводки с конкретными параметрами"
 type: docs
-weight: 580
+weight: 630
 url: /ru/net/aspose.pdf.ai/isummaryclient-1/
 ---
-## ISummaryClient&lt;TOptions&gt; интерфейс
+## ISummaryClient&lt;TOptions&gt; interface
 
-Представляет интерфейс для клиентского резюме с определенными параметрами.
+Представляет интерфейс для клиента резюмирования с определёнными параметрами.
 
 ```csharp
 public interface ISummaryClient<in TOptions> : IAIClient
@@ -16,16 +16,18 @@ public interface ISummaryClient<in TOptions> : IAIClient
 
 | Параметр | Описание |
 | --- | --- |
-| TOptions | Тип параметров для клиентского резюме. |
+| TOptions | Тип параметров для клиента сводки. |
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [GetSummaryCopilot](../../aspose.pdf.ai/isummaryclient-1/getsummarycopilot/)(ISummaryCopilotOptions&lt;TOptions&gt;) | Получает экземпляр [`ISummaryCopilot`](../isummarycopilot/) с указанными параметрами. |
 
 ### См. также
 
-* интерфейс [IAIClient](../iaiclient/)
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

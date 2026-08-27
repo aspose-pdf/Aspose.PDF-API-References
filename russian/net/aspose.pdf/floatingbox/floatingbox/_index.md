@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.FloatingBox
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FloatingBox. Инициализирует новый экземпляр класса FloatingBox с заданной шириной и высотой
+title: "FloatingBox.FloatingBox"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FloatingBox. Инициализирует новый экземпляр класса FloatingBox с указанной шириной и высотой"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/floatingbox/floatingbox/
 ---
 ## FloatingBox(float, float) {#constructor_1}
 
-Инициализирует новый экземпляр класса [`FloatingBox`](../) с заданной шириной и высотой.
+Инициализирует новый экземпляр класса [`FloatingBox`](../) с указанной шириной и высотой.
 
 ```csharp
 public FloatingBox(float width, float height)
@@ -21,9 +21,9 @@ public FloatingBox(float width, float height)
 
 ### См. также
 
-* класс [FloatingBox](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,6 +37,8 @@ public FloatingBox()
 
 ### См. также
 
-* класс [FloatingBox](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

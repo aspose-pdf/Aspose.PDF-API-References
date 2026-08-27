@@ -1,14 +1,14 @@
 ---
-title: Field.TabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Field. Получает или устанавливает порядок табуляции поля
+title: "Field.TabOrder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Field свойство. Получает или задает порядок табуляции поля."
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.forms/field/taborder/
 ---
-## Свойство Field.TabOrder
+## Field.TabOrder property
 
-Получает или устанавливает порядок табуляции поля.
+Получает или задает порядок табуляции поля.
 
 ```csharp
 public int TabOrder { get; set; }
@@ -16,6 +16,8 @@ public int TabOrder { get; set; }
 
 ### См. также
 
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

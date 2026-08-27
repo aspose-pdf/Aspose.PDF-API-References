@@ -1,12 +1,12 @@
 ---
-title: IBoundsCheckableItem.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IBoundsCheckableItem. Проверяет, помещается ли элемент в заданные размеры контейнера, включая
+title: "IBoundsCheckableItem.CheckBounds"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IBoundsCheckableItem. Проверяет, помещается ли элемент в заданные размеры контейнера включительно"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.generator/iboundscheckableitem/checkbounds/
 ---
-## Метод IBoundsCheckableItem.CheckBounds
+## IBoundsCheckableItem.CheckBounds method
 
 Проверяет, помещается ли элемент в заданные размеры контейнера (включительно).
 
@@ -25,6 +25,8 @@ True, если помещается; в противном случае false.
 
 ### См. также
 
-* интерфейс [IBoundsCheckableItem](../)
-* пространство имен [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* сборка [Aspose.PDF](../../../)
+* interface [IBoundsCheckableItem](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

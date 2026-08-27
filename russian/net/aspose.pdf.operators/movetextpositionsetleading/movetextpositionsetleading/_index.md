@@ -1,12 +1,12 @@
 ---
-title: MoveTextPositionSetLeading.MoveTextPositionSetLeading
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор MoveTextPositionSetLeading. Инициализирует оператор
+title: "MoveTextPositionSetLeading.MoveTextPositionSetLeading"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор MoveTextPositionSetLeading. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/movetextpositionsetleading/movetextpositionsetleading/
 ---
-## Конструктор MoveTextPositionSetLeading
+## MoveTextPositionSetLeading constructor
 
 Инициализирует оператор.
 
@@ -21,6 +21,8 @@ public MoveTextPositionSetLeading(double x, double y)
 
 ### См. также
 
-* класс [MoveTextPositionSetLeading](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveTextPositionSetLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

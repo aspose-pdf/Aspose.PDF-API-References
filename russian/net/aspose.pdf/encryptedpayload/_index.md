@@ -1,12 +1,12 @@
 ---
-title: Class EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.EncryptedPayload. Представляет зашифрованный полезный груз в спецификации файла
+title: "Класс EncryptedPayload"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.EncryptedPayload. Представляет зашифрованные данные в спецификации файла"
 type: docs
-weight: 4040
+weight: 4160
 url: /ru/net/aspose.pdf/encryptedpayload/
 ---
-## Класс EncryptedPayload
+## EncryptedPayload class
 
 Представляет зашифрованный полезный груз в спецификации файла.
 
@@ -18,7 +18,7 @@ public sealed class EncryptedPayload
 
 | Имя | Описание |
 | --- | --- |
-| [EncryptedPayload](encryptedpayload/)(FileSpecification) | Инициализирует экземпляр зашифрованного полезного груза. |
+| [EncryptedPayload](encryptedpayload/)(FileSpecification) | Инициализировать экземпляр зашифрованных данных. |
 
 ## Свойства
 
@@ -30,5 +30,7 @@ public sealed class EncryptedPayload
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

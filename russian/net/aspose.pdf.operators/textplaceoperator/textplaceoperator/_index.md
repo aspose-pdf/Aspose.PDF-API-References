@@ -1,7 +1,7 @@
 ---
-title: TextPlaceOperator.TextPlaceOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextPlaceOperator. Инициализирует TextPlaceOperator
+title: "TextPlaceOperator.TextPlaceOperator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextPlaceOperator. Инициализирует TextPlaceOperator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/textplaceoperator/textplaceoperator/
@@ -16,15 +16,15 @@ public TextPlaceOperator()
 
 ### См. также
 
-* класс [TextPlaceOperator](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [TextPlaceOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextPlaceOperator(TextProperties) {#constructor_1}
 
-Инициализирует TextPlaceOperator, который принимает TextProperties.
+Инициализирует TextPlaceOperator, принимающий TextProperties.
 
 ```csharp
 public TextPlaceOperator(TextProperties textProperties)
@@ -36,7 +36,9 @@ public TextPlaceOperator(TextProperties textProperties)
 
 ### См. также
 
-* класс [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* класс [TextPlaceOperator](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [TextPlaceOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

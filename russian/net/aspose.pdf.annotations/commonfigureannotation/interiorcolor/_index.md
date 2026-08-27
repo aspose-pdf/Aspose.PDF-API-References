@@ -1,14 +1,14 @@
 ---
-title: CommonFigureAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CommonFigureAnnotation. Цвет заливки, которым заполняется прямоугольник или эллипс аннотации
+title: "CommonFigureAnnotation.InteriorColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CommonFigureAnnotation. Цвет заливки, используемый для заполнения прямоугольника или эллипса аннотации."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/commonfigureannotation/interiorcolor/
 ---
-## Свойство CommonFigureAnnotation.InteriorColor
+## CommonFigureAnnotation.InteriorColor property
 
-Цвет заливки, которым заполняется прямоугольник или эллипс аннотации.
+Внутренний цвет, которым заполняется прямоугольник или эллипс аннотации.
 
 ```csharp
 public Color InteriorColor { get; set; }
@@ -16,7 +16,9 @@ public Color InteriorColor { get; set; }
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [CommonFigureAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [CommonFigureAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

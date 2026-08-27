@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.NumberFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор NumberFormat. Конструктор класса NumberFormat
+title: "Measure.NumberFormat.NumberFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор NumberFormat. Конструктор класса NumberFormat"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/numberformat/
 ---
-## Конструктор Measure.NumberFormat
+## Measure.NumberFormat constructor
 
 Конструктор класса NumberFormat.
 
@@ -16,11 +16,13 @@ public NumberFormat(Measure measure)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| measure | Measure | Объект Measure, который содержит этот формат числа. |
+| измерение | Измерение | Объект Measure, содержащий данный формат чисел. |
 
 ### См. также
 
-* класс [Measure](../../measure/)
-* класс [NumberFormat](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Measure](../../measure/)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

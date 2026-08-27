@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileCreateRequest.VectorStoreFileCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор VectorStoreFileCreateRequest. Конструктор по умолчанию
+title: "VectorStoreFileCreateRequest.VectorStoreFileCreateRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор VectorStoreFileCreateRequest. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/vectorstorefilecreaterequest/vectorstorefilecreaterequest/
 ---
-## Конструктор VectorStoreFileCreateRequest
+## VectorStoreFileCreateRequest constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public VectorStoreFileCreateRequest()
 
 ### См. также
 
-* класс [VectorStoreFileCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreFileCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

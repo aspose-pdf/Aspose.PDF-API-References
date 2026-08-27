@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfViewer. Получает результат задания на печать. Если успешно, то null; в противном случае объект исключения
+title: "PdfViewer.PrintStatus"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfViewer. Получает результат задания печати. Если успешно — null, иначе объект исключения"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/pdfviewer/printstatus/
 ---
-## Свойство PdfViewer.PrintStatus
+## PdfViewer.PrintStatus property
 
-Получает результат задания на печать. Если успешно, то null; в противном случае объект исключения.
+Получает результат печати. Если успешно — null; в противном случае объект исключения.
 
 ```csharp
 public object PrintStatus { get; }
@@ -16,6 +16,8 @@ public object PrintStatus { get; }
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Получает или задает цвет текста заголовка этого элемента оглавления
+title: "OutlineItemCollection.Color"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Получает или задает цвет текста заголовка этого элемента контура"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/outlineitemcollection/color/
 ---
-## Свойство OutlineItemCollection.Color
+## OutlineItemCollection.Color property
 
-Получает или задает цвет текста заголовка этого элемента оглавления.
+Получает или задаёт цвет текста заголовка этого элемента оглавления.
 
 ```csharp
 public Color Color { get; set; }
@@ -16,6 +16,8 @@ public Color Color { get; set; }
 
 ### См. также
 
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BDCProperties.BDCProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BDCProperties. Конструктор для свойств оператора BDC
+title: "BDCProperties.BDCProperties"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BDCProperties. Конструктор свойств оператора BDC"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/bdcproperties/bdcproperties/
 ---
 ## BDCProperties(string, string) {#constructor_1}
 
-Конструктор для свойств оператора BDC.
+Конструктор свойств оператора BDC.
 
 ```csharp
 public BDCProperties(string lang = null, string expansionText = null)
@@ -16,20 +16,20 @@ public BDCProperties(string lang = null, string expansionText = null)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lang | String | Языковая метка. |
+| lang | String | Тег Lang. |
 | expansionText | String | Текст расширения. |
 
 ### См. также
 
-* класс [BDCProperties](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BDCProperties(int?, string, string) {#constructor}
 
-Конструктор для свойств оператора BDC.
+Конструктор свойств оператора BDC.
 
 ```csharp
 public BDCProperties(int? mcid, string lang = null, string expansionText = null)
@@ -38,11 +38,13 @@ public BDCProperties(int? mcid, string lang = null, string expansionText = null)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | mcid | Nullable`1 | MCID. |
-| lang | String | Языковая метка. |
+| lang | String | Тег Lang. |
 | expansionText | String | Текст расширения. |
 
 ### См. также
 
-* класс [BDCProperties](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

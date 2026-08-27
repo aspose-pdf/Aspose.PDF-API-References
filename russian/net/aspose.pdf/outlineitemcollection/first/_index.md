@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.First
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Получает элемент структуры, представляющий первый элемент верхнего уровня в иерархии структуры
+title: "OutlineItemCollection.First"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Возвращает элемент оглавления, представляющий первый элемент верхнего уровня в иерархии оглавления"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/outlineitemcollection/first/
 ---
-## Свойство OutlineItemCollection.First
+## OutlineItemCollection.First property
 
-Получает элемент структуры, представляющий первый элемент верхнего уровня в иерархии структуры.
+Получает элемент оглавления, представляющий первый элемент верхнего уровня в иерархии оглавления.
 
 ```csharp
 public OutlineItemCollection First { get; }
@@ -16,6 +16,8 @@ public OutlineItemCollection First { get; }
 
 ### См. также
 
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

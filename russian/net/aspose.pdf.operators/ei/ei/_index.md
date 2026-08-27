@@ -1,12 +1,12 @@
 ---
-title: EI.EI
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор EI. Инициализирует оператор
+title: "EI.EI"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "EI конструктор. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/ei/ei/
 ---
-## Конструктор EI
+## EI constructor
 
 Инициализирует оператор.
 
@@ -16,6 +16,8 @@ public EI()
 
 ### См. также
 
-* класс [EI](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [EI](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

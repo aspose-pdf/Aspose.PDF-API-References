@@ -1,12 +1,12 @@
 ---
-title: PageDate.DayComponent.DayComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор DayComponent. Конструктор по умолчанию
+title: "PageDate.DayComponent.DayComponent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор DayComponent. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pagedate.daycomponent/daycomponent/
 ---
-## Конструктор PageDate.DayComponent
+## PageDate.DayComponent constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public DayComponent()
 
 ### См. также
 
-* класс [DayComponent](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DayComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

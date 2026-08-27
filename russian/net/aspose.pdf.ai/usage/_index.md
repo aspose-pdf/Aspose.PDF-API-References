@@ -1,12 +1,12 @@
 ---
-title: Class Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.Usage. Представляет статистику использования для запроса
+title: "Класс Usage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AI.Usage класс. Представляет статистику использования для запроса"
 type: docs
-weight: 1250
+weight: 1340
 url: /ru/net/aspose.pdf.ai/usage/
 ---
-## Класс Usage
+## Usage class
 
 Представляет статистику использования для запроса.
 
@@ -30,5 +30,7 @@ public class Usage
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

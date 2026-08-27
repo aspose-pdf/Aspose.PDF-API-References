@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.ShadedIllustration
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DRenderMode. Режим рендеринга ShadedIllustration
+title: "PDF3DRenderMode.ShadedIllustration"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PDF3DRenderMode поле. Режим рендеринга ShadedIllustration"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/shadedillustration/
 ---
-## Поле PDF3DRenderMode.ShadedIllustration
+## PDF3DRenderMode.ShadedIllustration field
 
 Режим рендеринга "ShadedIllustration".
 
@@ -16,6 +16,8 @@ public static PDF3DRenderMode ShadedIllustration;
 
 ### См. также
 
-* класс [PDF3DRenderMode](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

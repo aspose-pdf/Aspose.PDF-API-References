@@ -1,12 +1,12 @@
 ---
-title: Class ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.ToolChoice. Представляет ToolChoice, который может быть либо строковым значением, либо объектным значением
+title: "Класс ToolChoice"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.ToolChoice. Представляет ToolChoice, который может быть либо строковым значением, либо объектным значением."
 type: docs
-weight: 1210
+weight: 1300
 url: /ru/net/aspose.pdf.ai/toolchoice/
 ---
-## Класс ToolChoice
+## ToolChoice class
 
 Представляет ToolChoice, который может быть либо строковым значением, либо объектным значением.
 
@@ -31,7 +31,9 @@ public class ToolChoice : IStringOrObject<ObjectType>
 
 ### См. также
 
-* интерфейс [IStringOrObject&lt;T&gt;](../istringorobject-1/)
-* класс [ObjectType](../toolchoice.objecttype/)
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
+* class [ObjectType](../toolchoice.objecttype/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionField.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpPdfAExtensionField. Возвращает список xml-элементов, представляющих поле в xml-дереве
+title: "XmpPdfAExtensionField.GetXml"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpPdfAExtensionField. Возвращает список xml элементов, представляющих поле в xml дереве"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/xmppdfaextensionfield/getxml/
 ---
-## Метод XmpPdfAExtensionField.GetXml
+## XmpPdfAExtensionField.GetXml method
 
-Возвращает список xml-элементов, представляющих поле в xml-дереве.
+Возвращает список элементов xml, которые представляют поле в дереве xml.
 
 ```csharp
 public override List<XmlElement> GetXml(XmlDocument xmlDocument)
@@ -16,7 +16,7 @@ public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | Исходный xml-документ. |
+| xmlDocument | XmlDocument | Исходный xml‑документ. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 ### См. также
 
-* класс [XmpPdfAExtensionField](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

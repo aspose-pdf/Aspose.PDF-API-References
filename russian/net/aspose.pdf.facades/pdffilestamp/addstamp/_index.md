@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.AddStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileStamp. Добавляет штамп в файл
+title: "PdfFileStamp.AddStamp"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileStamp. Добавляет штамп в файл"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/pdffilestamp/addstamp/
 ---
-## Метод PdfFileStamp.AddStamp
+## PdfFileStamp.AddStamp method
 
 Добавляет штамп в файл.
 
@@ -16,7 +16,7 @@ public void AddStamp(Stamp stamp)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stamp | Stamp | Объект штампа. |
+| штамп | Штамп | Объект штампа, который. |
 
 ## Примеры
 
@@ -34,7 +34,9 @@ fileStamp.Close();
 
 ### См. также
 
-* класс [Stamp](../../stamp/)
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../../stamp/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

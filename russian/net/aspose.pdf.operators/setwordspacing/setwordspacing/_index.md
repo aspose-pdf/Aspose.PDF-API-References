@@ -1,12 +1,12 @@
 ---
-title: SetWordSpacing.SetWordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetWordSpacing. Инициализирует оператор
+title: "SetWordSpacing.SetWordSpacing"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetWordSpacing. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setwordspacing/setwordspacing/
 ---
-## Конструктор SetWordSpacing
+## SetWordSpacing constructor
 
 Инициализирует оператор.
 
@@ -16,10 +16,12 @@ public SetWordSpacing(double wordSpacing)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| wordSpacing | Double | Интервал между словами. |
+| wordSpacing | Double | Расстояние между словами. |
 
 ### См. также
 
-* класс [SetWordSpacing](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetWordSpacing](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

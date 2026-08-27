@@ -1,14 +1,14 @@
 ---
-title: Dash.Pattern
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Dash. Получает массив штрихов, определяющий шаблон штрихов и пробелов, который будет использоваться для рисования пунктирной границы
+title: "Dash.Pattern"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Dash. Возвращает массив штрихов, определяющий шаблон штрихов и пробелов, который будет использоваться при рисовании пунктирной рамки"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/dash/pattern/
 ---
-## Свойство Dash.Pattern
+## Dash.Pattern property
 
-Получает массив штрихов, определяющий шаблон штрихов и пробелов, который будет использоваться для рисования пунктирной границы.
+Получает массив пунктиров, определяющий шаблон пунктиров и пробелов, который будет использоваться при рисовании пунктирной границы.
 
 ```csharp
 public int[] Pattern { get; }
@@ -16,6 +16,8 @@ public int[] Pattern { get; }
 
 ### См. также
 
-* класс [Dash](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

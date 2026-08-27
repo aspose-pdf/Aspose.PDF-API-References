@@ -1,7 +1,7 @@
 ---
-title: PaperSize.PaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PaperSize. Инициализирует новый экземпляр класса PaperSize с параметрами по умолчанию
+title: "PaperSize.PaperSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PaperSize. Инициализирует новый экземпляр класса PaperSize с параметрами по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.printing/papersize/papersize/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.printing/papersize/papersize/
 public PaperSize()
 ```
 
-### See Also
+### См. также
 
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
@@ -30,14 +30,16 @@ public PaperSize()
 public PaperSize(string name, int width, int height)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Название бумаги. |
-| width | Int32 | Ширина бумаги в сотых долях дюйма. |
-| height | Int32 | Высота бумаги в сотых долях дюйма. |
+| имя | String | Название бумаги. |
+| width | Int32 | Ширина бумаги в сотых дюйма. |
+| height | Int32 | Высота бумаги в сотых дюйма. |
 
-### See Also
+### См. также
 
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

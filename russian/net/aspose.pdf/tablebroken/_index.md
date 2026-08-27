@@ -1,14 +1,14 @@
 ---
-title: Enum TableBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TableBroken Aspose.Pdf. Перечисляет разрыв таблицы
+title: "Перечисление TableBroken"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.TableBroken. Перечисляет варианты разрыва таблицы"
 type: docs
-weight: 10290
+weight: 10470
 url: /ru/net/aspose.pdf/tablebroken/
 ---
-## Перечисление TableBroken
+## TableBroken enumeration
 
-Перечисляет разрыв таблицы.
+Перечисляет разрывы таблицы.
 
 ```csharp
 public enum TableBroken
@@ -21,9 +21,11 @@ public enum TableBroken
 | None | `0` | Нет разрыва. |
 | Vertical | `1` | Вертикальный разрыв. |
 | VerticalInSamePage | `2` | Вертикальный разрыв на той же странице. |
-| IsInNextPage | `3` | Разрыв на следующей странице. |
+| IsInNextPage | `3` | Разрыв на следующую страницу. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

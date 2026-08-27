@@ -1,12 +1,12 @@
 ---
-title: Enum TabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.TabOrder. Порядок табуляции на странице
+title: "Перечисление TabOrder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.TabOrder. Порядок табуляции на странице"
 type: docs
-weight: 10270
+weight: 10450
 url: /ru/net/aspose.pdf/taborder/
 ---
-## Перечисление TabOrder
+## TabOrder enumeration
 
 Порядок табуляции на странице
 
@@ -16,15 +16,17 @@ public enum TabOrder
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | None | `0` | Нет порядка табуляции. |
-| Row | `1` | Порядок по строкам. |
-| Column | `2` | Порядок по столбцам. |
-| Default | `3` | Стандартный порядок табуляции. |
+| Row | `1` | Порядок строк. |
+| Column | `2` | Порядок столбцов. |
+| Default | `3` | Порядок табуляции по умолчанию. |
 | Manual | `4` | Ручной порядок табуляции. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.NonSpecificationCases
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFormatConversionOptions. Содержит флаги для управления процессом конвертации в PDF/A для случаев, когда исходный документ не соответствует спецификации PDF/A
+title: "PdfFormatConversionOptions.NonSpecificationCases"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFormatConversionOptions. Содержит флаги для управления процессом конвертации PDF/A в случаях, когда исходный документ не соответствует спецификации PDF/A"
 type: docs
-weight: 150
+weight: 160
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/nonspecificationcases/
 ---
-## Свойство PdfFormatConversionOptions.NonSpecificationCases
+## PdfFormatConversionOptions.NonSpecificationCases property
 
-Содержит флаги для управления процессом конвертации в PDF/A для случаев, когда исходный документ не соответствует спецификации PDF/A.
+Содержит флаги для управления процессом конвертации PDF/A в случаях, когда исходный документ не соответствует спецификации PDF/A.
 
 ```csharp
 public PdfANonSpecificationFlags NonSpecificationCases { get; }
@@ -16,7 +16,9 @@ public PdfANonSpecificationFlags NonSpecificationCases { get; }
 
 ### См. также
 
-* класс [PdfANonSpecificationFlags](../../pdfanonspecificationflags/)
-* класс [PdfFormatConversionOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfANonSpecificationFlags](../../pdfanonspecificationflags/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

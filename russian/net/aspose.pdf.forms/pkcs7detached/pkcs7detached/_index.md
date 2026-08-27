@@ -1,7 +1,7 @@
 ---
-title: PKCS7Detached.PKCS7Detached
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PKCS7Detached. Инициализирует новый экземпляр класса PKCS7Detached
+title: "PKCS7Detached.PKCS7Detached"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PKCS7Detached. Инициализирует новый экземпляр класса PKCS7Detached"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/pkcs7detached/pkcs7detached/
@@ -20,9 +20,9 @@ public PKCS7Detached(Stream image)
 
 ### См. также
 
-* класс [PKCS7Detached](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,9 +42,9 @@ public PKCS7Detached(Stream image, DigestHashAlgorithm digestHashAlgorithm)
 ### См. также
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* класс [PKCS7Detached](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -58,9 +58,9 @@ public PKCS7Detached()
 
 ### См. также
 
-* класс [PKCS7Detached](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -79,9 +79,9 @@ public PKCS7Detached(DigestHashAlgorithm digestHashAlgorithm)
 ### См. также
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* класс [PKCS7Detached](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -100,9 +100,9 @@ public PKCS7Detached(string pfx, string password)
 
 ### См. также
 
-* класс [PKCS7Detached](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -123,9 +123,9 @@ public PKCS7Detached(string pfx, string password, DigestHashAlgorithm digestHash
 ### См. также
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* класс [PKCS7Detached](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -144,9 +144,9 @@ public PKCS7Detached(Stream pfx, string password)
 
 ### См. также
 
-* класс [PKCS7Detached](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -167,6 +167,8 @@ public PKCS7Detached(Stream pfx, string password, DigestHashAlgorithm digestHash
 ### См. также
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* класс [PKCS7Detached](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

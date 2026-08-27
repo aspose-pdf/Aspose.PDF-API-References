@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfAnnotationEditor. Импортирует указанные аннотации в документ из массива других PDF-документов
+title: "PdfAnnotationEditor.ImportAnnotations"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfAnnotationEditor. Импортирует указанные аннотации в документ из массива других PDF‑документов"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/importannotations/
 ---
 ## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
 
-Импортирует указанные аннотации в документ из массива других PDF-документов.
+Импортирует указанные аннотации в документ из массива других PDF‑документов.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
@@ -16,8 +16,8 @@ public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotFile | String[] | Массив путей к PDF-документам, содержащим исходные аннотации. |
-| annotType | AnnotationType[] | Массив типов аннотаций, которые необходимо импортировать. |
+| annotFile | String[] | Массив путей к PDF‑документам, содержащим исходные аннотации. |
+| annotType | AnnotationType[] | Массив типов аннотаций для импорта. |
 
 ## Примеры
 
@@ -41,7 +41,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(string[]) {#importannotations_2}
 
-Импортирует аннотации в документ из массива других PDF-документов.
+Импортирует аннотации в документ из массива других PDF‑документов.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile)
@@ -49,7 +49,7 @@ public void ImportAnnotations(string[] annotFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotFile | String[] | Массив путей к PDF-документам, содержащим исходные аннотации. |
+| annotFile | String[] | Массив путей к PDF‑документам, содержащим исходные аннотации. |
 
 ## Примеры
 
@@ -71,7 +71,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
 
-Импортирует указанные аннотации в документ из массива потоков других PDF-документов.
+Импортирует указанные аннотации в документ из массива потоков других PDF‑документов.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotType)
@@ -79,8 +79,8 @@ public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotTy
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotFileStream | Stream[] | Массив потоков PDF-документов, содержащих исходные аннотации. |
-| annotType | AnnotationType[] | Типы аннотаций, которые необходимо импортировать. |
+| annotFileStream | Stream[] | Массив потоков PDF‑документов, содержащих исходные аннотации. |
+| annotType | AnnotationType[] | Типы аннотаций для импорта. |
 
 ## Примеры
 
@@ -108,7 +108,7 @@ stream[1].Close();
 
 ## ImportAnnotations(Stream[]) {#importannotations}
 
-Импортирует аннотации в документ из массива потоков других PDF-документов.
+Импортирует аннотации в документ из массива потоков других PDF‑документов.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream)
@@ -116,7 +116,7 @@ public void ImportAnnotations(Stream[] annotFileStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotFileStream | Stream[] | Массив потоков PDF-документов, содержащих исходные аннотации. |
+| annotFileStream | Stream[] | Массив потоков PDF‑документов, содержащих исходные аннотации. |
 
 ## Примеры
 
@@ -137,3 +137,5 @@ streams[1].Close();
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

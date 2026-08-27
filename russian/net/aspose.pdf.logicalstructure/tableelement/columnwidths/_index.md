@@ -1,12 +1,12 @@
 ---
-title: TableElement.ColumnWidths
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableElement. Получает ширины столбцов таблицы
+title: "TableElement.ColumnWidths"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableElement. Получает ширины столбцов таблицы"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.logicalstructure/tableelement/columnwidths/
 ---
-## Свойство TableElement.ColumnWidths
+## TableElement.ColumnWidths property
 
 Получает ширины столбцов таблицы.
 
@@ -16,6 +16,8 @@ public string ColumnWidths { get; set; }
 
 ### См. также
 
-* класс [TableElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

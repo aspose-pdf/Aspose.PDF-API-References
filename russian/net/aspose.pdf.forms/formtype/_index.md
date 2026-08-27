@@ -1,12 +1,12 @@
 ---
-title: Enum FormType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FormType Aspose.Pdf.Forms. Перечисление возможных типов Acro Form
+title: "Перечисление FormType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Forms.FormType перечисление. Перечисление возможных типов Acro Form"
 type: docs
-weight: 5100
+weight: 5220
 url: /ru/net/aspose.pdf.forms/formtype/
 ---
-## Перечисление FormType
+## FormType enumeration
 
 Перечисление возможных типов Acro Form.
 
@@ -19,10 +19,12 @@ public enum FormType
 | Имя | Значение | Описание |
 | --- | --- | --- |
 | Standard | `0` | Стандартный AcroForm. |
-| Static | `1` | Статическая форма XFA. |
-| Dynamic | `2` | Динамическая форма XFA. |
+| Static | `1` | Статическая XFA форма. |
+| Dynamic | `2` | Динамическая XFA форма. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

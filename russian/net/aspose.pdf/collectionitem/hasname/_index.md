@@ -1,14 +1,14 @@
 ---
-title: CollectionItem.HasName
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CollectionItem. Проверяет, существует ли данное имя в элементе коллекции
+title: "CollectionItem.HasName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CollectionItem. Проверяет, существует ли указанное имя в элементе коллекции"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/collectionitem/hasname/
 ---
-## Метод CollectionItem.HasName
+## CollectionItem.HasName method
 
-Проверяет, существует ли данное имя в элементе коллекции.
+Проверяет, существует ли указанное имя в элементе коллекции.
 
 ```csharp
 public bool HasName(string name)
@@ -16,14 +16,16 @@ public bool HasName(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя для проверки. |
+| имя | String | Имя для проверки. |
 
 ### Возвращаемое значение
 
-True, если имя существует в элементе коллекции, в противном случае false.
+True, если имя существует в элементе коллекции, иначе false.
 
 ### См. также
 
-* класс [CollectionItem](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CollectionItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

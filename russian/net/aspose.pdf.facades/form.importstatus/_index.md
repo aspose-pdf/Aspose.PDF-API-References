@@ -1,14 +1,14 @@
 ---
-title: Enum Form.ImportStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FormImportStatus Aspose.Pdf.Facades. Статус импортированного поля
+title: "Перечисление Form.ImportStatus"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Facades.FormImportStatus enum. Статус импортированного поля"
 type: docs
-weight: 4310
+weight: 4430
 url: /ru/net/aspose.pdf.facades/form.importstatus/
 ---
-## Перечисление Form.ImportStatus
+## Form.ImportStatus enumeration
 
-Статус импортированного поля
+Состояние импортированного поля
 
 ```csharp
 public enum ImportStatus
@@ -18,11 +18,13 @@ public enum ImportStatus
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Успех | `0` | Поле было успешно импортировано |
-| ПолеНеНайдено | `1` | Поле с этим именем не найдено в форме документа. |
+| Success | `0` | Поле успешно импортировано |
+| FieldNotFound | `1` | Поле с этим именем не найдено в форме документа. |
 
 ### См. также
 
-* класс [Form](../form/)
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

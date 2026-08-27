@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_None
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут ListNumbering None  Нет автоматической нумерации. Элементы Lbl содержат произвольный текст, не подлежащий какой-либо схеме нумерации.
+title: "AttributeName.ListNumbering_None"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName поле. Атрибут ListNumbering None Нет автоматической нумерации; элементы Lbl, если присутствуют, содержат произвольный текст, не подпадающий под какую-либо схему нумерации"
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.logicalstructure/attributename/listnumbering_none/
 ---
-## Поле AttributeName.ListNumbering_None
+## AttributeName.ListNumbering_None field
 
-Атрибут ListNumbering: None - Нет автоматической нумерации; Элементы Lbl (если присутствуют) содержат произвольный текст, не подлежащий какой-либо схеме нумерации.
+Атрибут ListNumbering: None — Нет автоматической нумерации; элементы Lbl (если присутствуют) содержат произвольный текст, не подпадающий под какую-либо схему нумерации.
 
 ```csharp
 public static readonly AttributeName ListNumbering_None;
@@ -16,6 +16,8 @@ public static readonly AttributeName ListNumbering_None;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

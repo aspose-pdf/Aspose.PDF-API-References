@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ToRect
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rectangle. Преобразует прямоугольник в экземпляр System.Drawing.Rectangle. Позиции с плавающей запятой и размер обрезаются
+title: "Rectangle.ToRect"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Rectangle. Преобразует прямоугольник в экземпляр System.Drawing.Rectangle. Позиции и размеры с плавающей точкой усекаются."
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf/rectangle/torect/
 ---
-## Метод Rectangle.ToRect
+## Rectangle.ToRect method
 
-Преобразует прямоугольник в экземпляр System.Drawing.Rectangle. Позиции с плавающей запятой и размер обрезаются.
+Преобразует прямоугольник в экземпляр System.Drawing.Rectangle. Позиции и размеры с плавающей точкой усекаются.
 
 ```csharp
 public Rectangle ToRect()
@@ -16,10 +16,12 @@ public Rectangle ToRect()
 
 ### Возвращаемое значение
 
-Результат преобразования.
+Результат конвертации.
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchFileListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Метод VectorStoreFileBatchFileListQueryParameters. Получает параметры запроса для перечисления файлов пакетной обработки хранилища
+title: "VectorStoreFileBatchFileListQueryParameters.GetQueryParameters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод VectorStoreFileBatchFileListQueryParameters. Получает параметры запроса для перечисления файлов пакета хранилища"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/getqueryparameters/
 ---
-## Метод VectorStoreFileBatchFileListQueryParameters.GetQueryParameters
+## VectorStoreFileBatchFileListQueryParameters.GetQueryParameters method
 
-Получает параметры запроса для перечисления файлов пакетной обработки хранилища.
+Получает параметры запроса для получения списка файлов пакетных загрузок хранилища.
 
 ```csharp
 public string GetQueryParameters()
@@ -20,6 +20,8 @@ public string GetQueryParameters()
 
 ### См. также
 
-* класс [VectorStoreFileBatchFileListQueryParameters](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchFileListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

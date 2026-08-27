@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.Stream
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaChatCompletionRequest. Устанавливает или получает, нужно ли потоковое получение ответа
+title: "LlamaChatCompletionRequest.Stream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaChatCompletionRequest. Устанавливает или получает, следует ли потоково передавать ответ"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.ai/llamachatcompletionrequest/stream/
 ---
-## Свойство LlamaChatCompletionRequest.Stream
+## LlamaChatCompletionRequest.Stream property
 
-Устанавливает или получает, нужно ли потоковое получение ответа.
+Устанавливает или получает, следует ли потоково передавать ответ.
 
 ```csharp
 public bool? Stream { get; set; }
@@ -16,6 +16,8 @@ public bool? Stream { get; set; }
 
 ### См. также
 
-* класс [LlamaChatCompletionRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

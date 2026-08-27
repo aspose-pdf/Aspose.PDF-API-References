@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.LineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentState. Получает или устанавливает межстрочное расстояние текста
+title: "TextFragmentState.LineSpacing"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentState. Получает или задает межстрочный интервал текста."
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.text/textfragmentstate/linespacing/
 ---
-## Свойство TextFragmentState.LineSpacing
+## TextFragmentState.LineSpacing property
 
-Получает или устанавливает межстрочное расстояние текста.
+Получает или задает межстрочный интервал текста.
 
 ```csharp
 public override float LineSpacing { get; set; }
@@ -16,10 +16,12 @@ public override float LineSpacing { get; set; }
 
 ## Примечания
 
-Обратите внимание, что значение не сохраняется как характеристика текста в документе. Геттер свойства LineSpacing работает для объекта в случае, если оно было явно установлено ранее с помощью сеттера LineSpacing для этих объектов. Свойство используется во время выполнения в контексте текущего процесса генерации/модификации.
+Обратите внимание, что значение не сохраняется как характеристика текста в документе. Геттер свойства LineSpacing работает для объекта, если оно было явно задано ранее с помощью сеттера LineSpacing для этого объекта. Свойство используется средой выполнения в контексте текущего процесса генерации/модификации.
 
 ### См. также
 
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

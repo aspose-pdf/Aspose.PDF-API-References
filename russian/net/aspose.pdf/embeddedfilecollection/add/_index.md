@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод EmbeddedFileCollection. Добавляет спецификацию встроенного файла в коллекцию
+title: "EmbeddedFileCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод EmbeddedFileCollection. Добавляет спецификацию вложенного файла в коллекцию"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/embeddedfilecollection/add/
 ---
 ## Add(FileSpecification) {#add}
 
-Добавляет спецификацию встроенного файла в коллекцию.
+Добавляет спецификацию вложенного файла в коллекцию.
 
 ```csharp
 public void Add(FileSpecification file)
@@ -16,20 +16,20 @@ public void Add(FileSpecification file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| file | FileSpecification | Спецификация файла, которая должна быть добавлена в коллекцию. |
+| file | FileSpecification | FileSpecification, который должен быть добавлен в коллекцию. |
 
 ### См. также
 
-* класс [FileSpecification](../../filespecification/)
-* класс [EmbeddedFileCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(string, FileSpecification) {#add_1}
 
-Добавляет файл во встроенные файлы с указанным ключом.
+Добавляет файл во вложенные файлы с указанным ключом.
 
 ```csharp
 public void Add(string key, FileSpecification file)
@@ -37,12 +37,14 @@ public void Add(string key, FileSpecification file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ во встроенных файлах. |
-| file | FileSpecification | Спецификация файла. |
+| ключ | String | Ключ во вложенных файлах. |
+| file | FileSpecification | Файловая спецификация. |
 
 ### См. также
 
-* класс [FileSpecification](../../filespecification/)
-* класс [EmbeddedFileCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

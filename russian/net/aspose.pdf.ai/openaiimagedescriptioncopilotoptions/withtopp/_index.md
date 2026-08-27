@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Устанавливает значение top P для параметров копилота описания изображения
+title: "OpenAIImageDescriptionCopilotOptions.WithTopP"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIImageDescriptionCopilotOptions. Устанавливает значение top P для параметров сопутствующего описания изображения"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtopp/
 ---
-## Метод OpenAIImageDescriptionCopilotOptions.WithTopP
+## OpenAIImageDescriptionCopilotOptions.WithTopP method
 
-Устанавливает значение top P для параметров копилота описания изображения.
+Устанавливает значение top P для параметров помощника описания изображения.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithTopP(double? topP)
@@ -24,6 +24,8 @@ public OpenAIImageDescriptionCopilotOptions WithTopP(double? topP)
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

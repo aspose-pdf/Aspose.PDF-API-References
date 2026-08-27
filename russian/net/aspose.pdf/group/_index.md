@@ -1,12 +1,12 @@
 ---
-title: Class Group
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Group. Класс атрибутов группы, определяющий атрибуты группы страниц для использования в модели прозрачного изображения
+title: "Класс Group"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Group. Класс атрибутов группы, определяющий атрибуты группы страниц для использования в модели прозрачного изображения"
 type: docs
-weight: 5350
+weight: 5470
 url: /ru/net/aspose.pdf/group/
 ---
-## Класс Группа
+## Group class
 
 Класс атрибутов группы, определяющий атрибуты группы страниц для использования в модели прозрачного изображения.
 
@@ -28,5 +28,7 @@ public sealed class Group
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

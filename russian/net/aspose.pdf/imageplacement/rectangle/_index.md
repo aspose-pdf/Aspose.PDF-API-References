@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImagePlacement. Получает прямоугольник изображения
+title: "ImagePlacement.Rectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImagePlacement. Возвращает прямоугольник изображения."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/imageplacement/rectangle/
 ---
-## Свойство ImagePlacement.Rectangle
+## ImagePlacement.Rectangle property
 
 Получает прямоугольник изображения.
 
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### См. также
 
-* класс [Rectangle](../../rectangle/)
-* класс [ImagePlacement](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

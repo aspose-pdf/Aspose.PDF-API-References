@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.DisplayDocTitle
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Флаг, указывающий, следует ли отображать заголовок документа в строке заголовка окна
+title: "ViewerPreference.DisplayDocTitle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ViewerPreference. Флаг, указывающий, должно ли заголовок окна Windows отображать заголовок документа"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/viewerpreference/displaydoctitle/
 ---
-## Поле ViewerPreference.DisplayDocTitle
+## ViewerPreference.DisplayDocTitle field
 
-Флаг, указывающий, следует ли отображать заголовок документа в строке заголовка окна
+Флаг, указывающий, должно ли заголовок окна отображать название документа.
 
 ```csharp
 public const int DisplayDocTitle;
@@ -16,6 +16,8 @@ public const int DisplayDocTitle;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

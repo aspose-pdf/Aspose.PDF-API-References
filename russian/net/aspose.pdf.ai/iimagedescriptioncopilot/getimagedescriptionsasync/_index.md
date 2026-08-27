@@ -1,14 +1,14 @@
 ---
-title: IImageDescriptionCopilot.GetImageDescriptionsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IImageDescriptionCopilot. Асинхронно получает описания изображений для изображений из PDF-документа
+title: "IImageDescriptionCopilot.GetImageDescriptionsAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IImageDescriptionCopilot. Асинхронно получает описания изображений из PDF‑документа"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/
 ---
-## Метод IImageDescriptionCopilot.GetImageDescriptionsAsync
+## IImageDescriptionCopilot.GetImageDescriptionsAsync method
 
-Асинхронно получает описания изображений для изображений из PDF-документа.
+Асинхронно получает описания изображений из PDF‑документа.
 
 ```csharp
 public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(
@@ -17,7 +17,7 @@ public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cancellationToken | Nullable`1 | Токен отмены (необязательный). |
+| cancellationToken | Nullable`1 | Токен отмены (необязательно). |
 
 ### Возвращаемое значение
 
@@ -25,7 +25,9 @@ public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(
 
 ### См. также
 
-* класс [ImageDescriptionResult](../../imagedescriptionresult/)
-* интерфейс [IImageDescriptionCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../../imagedescriptionresult/)
+* interface [IImageDescriptionCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

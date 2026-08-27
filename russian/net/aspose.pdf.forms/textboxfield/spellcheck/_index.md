@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextBoxField. Получает или устанавливает флаг проверки орфографии для поля. Если true, поле будет проверяться на орфографию
+title: "TextBoxField.SpellCheck"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TextBoxField свойство. Получает или задает флаг проверки орфографии для поля. Если true, поле будет проверяться на орфографию."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.forms/textboxfield/spellcheck/
 ---
-## Свойство TextBoxField.SpellCheck
+## TextBoxField.SpellCheck property
 
-Получает или устанавливает флаг проверки орфографии для поля. Если true, поле будет проверяться на орфографию.
+Получает или задает флаг проверки орфографии для поля. Если true, поле должно быть проверено на орфографию.
 
 ```csharp
 public bool SpellCheck { get; set; }
@@ -16,6 +16,8 @@ public bool SpellCheck { get; set; }
 
 ### См. также
 
-* класс [TextBoxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

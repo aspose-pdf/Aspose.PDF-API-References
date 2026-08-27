@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetCMYKColor. Возвращает цвет
+title: "SetCMYKColor.getColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SetCMYKColor метод. Возвращает цвет"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.operators/setcmykcolor/getcolor/
 ---
-## Метод SetCMYKColor.getColor
+## SetCMYKColor.getColor method
 
 Возвращает цвет.
 
@@ -20,6 +20,8 @@ public override Color getColor()
 
 ### См. также
 
-* класс [SetCMYKColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

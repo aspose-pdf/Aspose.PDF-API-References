@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AttributeKey. Получить владельца атрибута
+title: "AttributeKey.Owner"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AttributeKey. Получить владельца атрибута"
 type: docs
 weight: 430
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/owner/
 ---
-## Свойство AttributeKey.Owner
+## AttributeKey.Owner property
 
 Получить владельца атрибута.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf.logicalstructure/attributekey/owner/
 public AttributeOwnerStandard Owner { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Владелец атрибута.
 
 ### См. также
 
-* класс [AttributeOwnerStandard](../../attributeownerstandard/)
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

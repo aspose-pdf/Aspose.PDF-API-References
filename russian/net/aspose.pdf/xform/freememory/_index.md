@@ -1,12 +1,12 @@
 ---
-title: XForm.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XForm. Очищает кэшированные данные
+title: "XForm.FreeMemory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XForm. Очищает кэшированные данные"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/xform/freememory/
 ---
-## Метод XForm.FreeMemory
+## XForm.FreeMemory method
 
 Очищает кэшированные данные
 
@@ -16,6 +16,8 @@ public void FreeMemory()
 
 ### См. также
 
-* класс [XForm](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

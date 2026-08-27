@@ -1,14 +1,14 @@
 ---
-title: ImageFile.Detail
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageFile. Получает или устанавливает уровень детализации изображения, если это указано пользователем. low использует меньше токенов, вы можете выбрать высокое разрешение, используя high
+title: "ImageFile.Detail"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ImageFile свойство. Получает или задает уровень детализации изображения, если указан пользователем. low использует меньше токенов, вы можете выбрать высокое разрешение, используя high"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/imagefile/detail/
 ---
-## Свойство ImageFile.Detail
+## ImageFile.Detail property
 
-Получает или устанавливает уровень детализации изображения, если это указано пользователем. low использует меньше токенов, вы можете выбрать высокое разрешение, используя high.
+Получает или задает уровень детализации изображения, если он указан пользователем. low использует меньше токенов, вы можете выбрать высокое разрешение, используя high.
 
 ```csharp
 public string Detail { get; set; }
@@ -16,6 +16,8 @@ public string Detail { get; set; }
 
 ### См. также
 
-* класс [ImageFile](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageFile](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

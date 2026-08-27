@@ -1,12 +1,12 @@
 ---
-title: TeXMemoryOutputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TeXMemoryOutputDirectory. Возвращает поток для чтения
+title: "TeXMemoryOutputDirectory.GetFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TeXMemoryOutputDirectory. Возвращает поток для чтения."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/texmemoryoutputdirectory/getfile/
 ---
-## Метод TeXMemoryOutputDirectory.GetFile
+## TeXMemoryOutputDirectory.GetFile method
 
 Возвращает поток для чтения.
 
@@ -18,7 +18,7 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | --- | --- | --- |
 | fileName | String | Имя файла. |
 | fullName | String& | Полное имя файла. |
-| searchSubdirectories | Boolean | Указывает, следует ли искать файл в подкаталогах. В этой реализации не имеет эффекта. |
+| searchSubdirectories | Boolean | Указывает, следует ли искать файл в подпапках. В этой реализации не оказывает влияния. |
 
 ### Возвращаемое значение
 
@@ -26,6 +26,8 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 
 ### См. также
 
-* класс [TeXMemoryOutputDirectory](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

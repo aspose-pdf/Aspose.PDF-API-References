@@ -1,12 +1,12 @@
 ---
-title: ChoiceField.DeleteOption
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ChoiceField. Удаляет опцию по её имени
+title: "ChoiceField.DeleteOption"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ChoiceField. Удаляет вариант по его имени"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.forms/choicefield/deleteoption/
 ---
-## Метод ChoiceField.DeleteOption
+## ChoiceField.DeleteOption method
 
 Удаляет опцию по её имени.
 
@@ -16,10 +16,12 @@ public virtual void DeleteOption(string optionName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| optionName | String | Имя опции, которую необходимо удалить. |
+| optionName | String | Имя варианта, который необходимо удалить. |
 
 ### См. также
 
-* класс [ChoiceField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.MoveField
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Установить новую позицию поля
+title: "FormEditor.MoveField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Устанавливает новое положение поля"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/formeditor/movefield/
 ---
-## Метод FormEditor.MoveField
+## FormEditor.MoveField method
 
-Установить новую позицию поля.
+Установить новое положение поля.
 
 ```csharp
 public bool MoveField(string fieldName, float llx, float lly, float urx, float ury)
@@ -16,7 +16,7 @@ public bool MoveField(string fieldName, float llx, float lly, float urx, float u
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Имя поля, которое должно быть перемещено. |
+| fieldName | String | Имя поля, которое необходимо переместить. |
 | llx | Single | Абсцисса нижнего левого угла поля. |
 | lly | Single | Ордината нижнего левого угла поля. |
 | urx | Single | Абсцисса верхнего правого угла поля. |
@@ -35,6 +35,8 @@ formEditor.MoveField("textField", 20.5f, 20.3f, 120.6f, 40.8f);
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

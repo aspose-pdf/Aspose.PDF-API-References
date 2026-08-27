@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CheckBoxStyleDiamond
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет стиль флажка в форме ромба
+title: "FormFieldFacade.CheckBoxStyleDiamond"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Определяет стиль флажка в виде ромба"
 type: docs
 weight: 420
 url: /ru/net/aspose.pdf.facades/formfieldfacade/checkboxstylediamond/
 ---
-## Поле FormFieldFacade.CheckBoxStyleDiamond
+## FormFieldFacade.CheckBoxStyleDiamond field
 
-Определяет стиль флажка в форме ромба.
+Определяет стиль ромбовидного флажка.
 
 ```csharp
 public const int CheckBoxStyleDiamond;
@@ -16,6 +16,8 @@ public const int CheckBoxStyleDiamond;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.StructureAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор StructureAttribute. Инициализирует новый экземпляр StructureAttribute
+title: "StructureAttribute.StructureAttribute"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор StructureAttribute. Инициализирует новый экземпляр StructureAttribute"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/structureattribute/
 ---
-## Конструктор StructureAttribute
+## StructureAttribute constructor
 
 Инициализирует новый экземпляр StructureAttribute.
 
@@ -20,7 +20,9 @@ public StructureAttribute(AttributeKey attributeKey)
 
 ### См. также
 
-* класс [AttributeKey](../../attributekey/)
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../../attributekey/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

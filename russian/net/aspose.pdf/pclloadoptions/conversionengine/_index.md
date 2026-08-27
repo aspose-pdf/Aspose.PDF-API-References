@@ -1,14 +1,14 @@
 ---
-title: PclLoadOptions.ConversionEngine
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PclLoadOptions. Определяет движок конвертации, который будет использоваться для конвертации
+title: "PclLoadOptions.ConversionEngine"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PclLoadOptions. Определяет движок конвертации, который будет использоваться для преобразования"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/pclloadoptions/conversionengine/
 ---
-## Поле PclLoadOptions.ConversionEngine
+## PclLoadOptions.ConversionEngine field
 
-Определяет движок конвертации, который будет использоваться для конвертации
+Определяет движок конвертации, который будет использоваться для преобразования
 
 ```csharp
 public ConversionEngines ConversionEngine;
@@ -20,3 +20,5 @@ public ConversionEngines ConversionEngine;
 * class [PclLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

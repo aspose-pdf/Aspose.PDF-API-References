@@ -1,12 +1,12 @@
 ---
-title: FontSourceCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontSourceCollection. Очищает коллекцию источников шрифтов
+title: "FontSourceCollection.Clear"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontSourceCollection. Очищает коллекцию источников шрифтов"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/fontsourcecollection/clear/
 ---
-## Метод FontSourceCollection.Clear
+## FontSourceCollection.Clear method
 
 Очищает коллекцию источников шрифтов.
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### См. также
 
-* класс [FontSourceCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

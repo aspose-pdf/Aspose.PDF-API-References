@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.RedactArea
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfAnnotationEditor. Затеняет область на указанной странице. Все содержимое удаляется
+title: "PdfAnnotationEditor.RedactArea"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfAnnotationEditor. Редактирует область на указанной странице. Всё содержимое удаляется."
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/redactarea/
 ---
-## Метод PdfAnnotationEditor.RedactArea
+## PdfAnnotationEditor.RedactArea method
 
-Затеняет область на указанной странице. Все содержимое удаляется.
+Редактирует область на указанной странице. Всё содержимое удаляется.
 
 ```csharp
 public void RedactArea(int pageIndex, Rectangle rect, Color color)
@@ -22,7 +22,9 @@ public void RedactArea(int pageIndex, Rectangle rect, Color color)
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [PdfAnnotationEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.BufferSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptimizedMemoryStream. Получает или задает размер базовых буферов
+title: "OptimizedMemoryStream.BufferSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OptimizedMemoryStream. Получает или задает размер базовых буферов."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/optimizedmemorystream/buffersize/
 ---
-## Свойство OptimizedMemoryStream.BufferSize
+## OptimizedMemoryStream.BufferSize property
 
-Получает или задает размер базовых буферов.
+Получает или задаёт размер базовых буферов.
 
 ```csharp
 public int BufferSize { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Размер буферов.
 
 ### См. также
 
-* класс [OptimizedMemoryStream](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

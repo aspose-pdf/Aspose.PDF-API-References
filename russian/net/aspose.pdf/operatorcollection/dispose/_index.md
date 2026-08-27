@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OperatorCollection. Выполняет задачи, определенные приложением, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов
+title: "OperatorCollection.Dispose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OperatorCollection. Выполняет определённые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/operatorcollection/dispose/
 ---
-## Метод OperatorCollection.Dispose
+## OperatorCollection.Dispose method
 
-Выполняет задачи, определенные приложением, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов.
+Выполняет задачи, определённые приложением, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### См. также
 
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.IccProfileFileName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFormatConversionOptions. Получает или устанавливает имя файла icc профиля. В случае null используется профиль icc по умолчанию.
+title: "PdfFormatConversionOptions.IccProfileFileName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFormatConversionOptions. Получает или задаёт имя файла профиля ICC. Если значение null, используется профиль ICC по умолчанию"
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/iccprofilefilename/
 ---
-## Свойство PdfFormatConversionOptions.IccProfileFileName
+## PdfFormatConversionOptions.IccProfileFileName property
 
-Получает или устанавливает имя файла icc профиля. В случае null используется профиль icc по умолчанию.
+Получает или задает имя файла профиля icc. Если значение null, используется профиль icc по умолчанию.
 
 ```csharp
 public string IccProfileFileName { get; set; }
@@ -16,6 +16,8 @@ public string IccProfileFileName { get; set; }
 
 ### См. также
 
-* класс [PdfFormatConversionOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

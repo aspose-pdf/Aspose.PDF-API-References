@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentInfo. Получает или задает заголовок документа
+title: "DocumentInfo.Title"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentInfo. Получает или задает заголовок документа"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/documentinfo/title/
 ---
-## Свойство DocumentInfo.Title
+## DocumentInfo.Title property
 
 Получает или задает заголовок документа.
 
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### См. также
 
-* класс [DocumentInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

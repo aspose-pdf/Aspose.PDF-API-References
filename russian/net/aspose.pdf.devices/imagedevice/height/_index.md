@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageDevice. Получает высоту изображения на выходе
+title: "ImageDevice.Height"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageDevice. Получает высоту выходного изображения"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.devices/imagedevice/height/
 ---
-## Свойство ImageDevice.Height
+## ImageDevice.Height property
 
-Получает высоту изображения на выходе.
+Получает высоту выходного изображения.
 
 ```csharp
 public int Height { get; }
@@ -16,6 +16,8 @@ public int Height { get; }
 
 ### См. также
 
-* класс [ImageDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

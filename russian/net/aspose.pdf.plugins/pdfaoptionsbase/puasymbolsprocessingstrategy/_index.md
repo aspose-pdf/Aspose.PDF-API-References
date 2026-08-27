@@ -1,22 +1,22 @@
 ---
-title: PdfAOptionsBase.PuaSymbolsProcessingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfAOptionsBase. Получает или задает стратегию обработки символов области частного использования PUA в документе PDF
+title: "PdfAOptionsBase.PuaSymbolsProcessingStrategy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfAOptionsBase. Возвращает или задает стратегию обработки символов Private Use Area (PUA) в PDF‑документе."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.plugins/pdfaoptionsbase/puasymbolsprocessingstrategy/
 ---
-## Свойство PdfAOptionsBase.PuaSymbolsProcessingStrategy
+## PdfAOptionsBase.PuaSymbolsProcessingStrategy property
 
-Получает или задает стратегию обработки символов области частного использования (PUA) в документе PDF.
+Получает или задает стратегию обработки символов Private Use Area (PUA) в документе PDF.
 
 ```csharp
 public PuaProcessingStrategy PuaSymbolsProcessingStrategy { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Стратегия обработки символов PUA. По умолчанию это None для документов соответствия уровня B и SurroundPuaTextWithEmptyActualText для документов соответствия уровня A.
+Стратегия обработки символов PUA. По умолчанию — None для документов уровня соответствия B и SurroundPuaTextWithEmptyActualText для документов уровня соответствия A.
 
 ### См. также
 
@@ -24,3 +24,5 @@ public PuaProcessingStrategy PuaSymbolsProcessingStrategy { get; set; }
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

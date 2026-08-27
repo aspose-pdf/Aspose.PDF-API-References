@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfViewer. Освобождает ресурсы фасада
+title: "PdfViewer.Dispose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfViewer method. Освобождает ресурсы фасада"
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/pdfviewer/dispose/
 ---
-## Метод PdfViewer.Dispose
+## PdfViewer.Dispose method
 
 Освобождает ресурсы фасада.
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

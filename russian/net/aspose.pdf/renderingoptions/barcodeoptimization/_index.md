@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.BarcodeOptimization
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RenderingOptions. Получает или устанавливает режим оптимизации штрих-кодов
+title: "RenderingOptions.BarcodeOptimization"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RenderingOptions. Получает или задает режим оптимизации штрихкода"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/renderingoptions/barcodeoptimization/
 ---
-## Свойство RenderingOptions.BarcodeOptimization
+## RenderingOptions.BarcodeOptimization property
 
-Получает или устанавливает режим оптимизации штрих-кодов.
+Получает или задает режим оптимизации штрихкода.
 
 ```csharp
 public bool BarcodeOptimization { get; set; }
@@ -16,6 +16,8 @@ public bool BarcodeOptimization { get; set; }
 
 ### См. также
 
-* класс [RenderingOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

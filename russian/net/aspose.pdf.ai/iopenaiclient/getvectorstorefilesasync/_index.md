@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetVectorStoreFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно извлекает список файлов в конкретном векторном хранилище
+title: "IOpenAIClient.GetVectorStoreFilesAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Получает список файлов в конкретном векторном хранилище асинхронно"
 type: docs
 weight: 340
 url: /ru/net/aspose.pdf.ai/iopenaiclient/getvectorstorefilesasync/
 ---
-## Метод IOpenAIClient.GetVectorStoreFilesAsync
+## IOpenAIClient.GetVectorStoreFilesAsync method
 
-Асинхронно извлекает список файлов в конкретном векторном хранилище.
+Получает список файлов в конкретном векторном хранилище асинхронно.
 
 ```csharp
 public Task<VectorStoreFileListResponse> GetVectorStoreFilesAsync(string vectorStoreId, 
@@ -34,8 +34,10 @@ public Task<VectorStoreFileListResponse> GetVectorStoreFilesAsync(string vectorS
 
 ### См. также
 
-* класс [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
-* класс [VectorStoreFileListQueryParameters](../../vectorstorefilelistqueryparameters/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
+* class [VectorStoreFileListQueryParameters](../../vectorstorefilelistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

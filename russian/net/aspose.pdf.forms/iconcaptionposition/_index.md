@@ -1,14 +1,14 @@
 ---
-title: Enum IconCaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Enum IconCaptionPosition Aspose.Pdf.Forms. Описывает положение значка
+title: "Перечисление IconCaptionPosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Forms.IconCaptionPosition. Описывает положение значка"
 type: docs
-weight: 5110
+weight: 5230
 url: /ru/net/aspose.pdf.forms/iconcaptionposition/
 ---
-## Перечисление IconCaptionPosition
+## IconCaptionPosition enumeration
 
-Описывает положение значка.
+Описывает позицию значка.
 
 ```csharp
 public enum IconCaptionPosition
@@ -20,13 +20,15 @@ public enum IconCaptionPosition
 | --- | --- | --- |
 | NoIcon | `0` | Значок не отображается. |
 | NoCaption | `1` | Подпись не отображается. |
-| CaptionBelowIcon | `2` | Подпись находится под значком. |
-| CaptionAboveIcon | `3` | Подпись находится над значком. |
+| CaptionBelowIcon | `2` | Подпись находится ниже значка. |
+| CaptionAboveIcon | `3` | Подпись находится выше значка. |
 | CaptionToTheRight | `4` | Подпись справа. |
 | CaptionToTheLeft | `5` | Подпись слева. |
 | CaptionOverlaid | `6` | Подпись наложена. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Bookmark.PageDisplay_Top
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает верхнюю координату отображения страницы
+title: "Bookmark.PageDisplay_Top"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Возвращает или задает верхнюю координату отображения страницы"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/bookmark/pagedisplay_top/
 ---
-## Свойство Bookmark.PageDisplay_Top
+## Bookmark.PageDisplay_Top property
 
-Получает или устанавливает верхнюю координату отображения страницы.
+Получает или задает верхнюю координату отображения страницы.
 
 ```csharp
 public int PageDisplay_Top { get; set; }
@@ -16,6 +16,8 @@ public int PageDisplay_Top { get; set; }
 
 ### См. также
 
-* класс [Bookmark](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

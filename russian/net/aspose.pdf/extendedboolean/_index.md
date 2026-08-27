@@ -1,14 +1,14 @@
 ---
-title: Enum ExtendedBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.ExtendedBoolean. Представляет булевый тип, который поддерживает неопределенное значение
+title: "Перечисление ExtendedBoolean"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.ExtendedBoolean enum. Представляет тип булевого значения, поддерживающий значение Undefined"
 type: docs
-weight: 4120
+weight: 4240
 url: /ru/net/aspose.pdf/extendedboolean/
 ---
-## Перечисление ExtendedBoolean
+## ExtendedBoolean enumeration
 
-Представляет булевый тип, который поддерживает неопределенное значение.
+Представляет булевый тип, поддерживающий значение Undefined.
 
 ```csharp
 public enum ExtendedBoolean
@@ -16,13 +16,15 @@ public enum ExtendedBoolean
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Неопределено | `0` | Неопределенное значение типа ExtendnedBoolean. |
-| Ложь | `1` | Значение Ложь типа ExtendnedBoolean. |
-| Истина | `2` | Значение Истина типа ExtendnedBoolean. |
+| Undefined | `0` | Значение Undefined для ExtendnedBoolean. |
+| False | `1` | Значение False для ExtendnedBoolean. |
+| True | `2` | Значение True для ExtendnedBoolean. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

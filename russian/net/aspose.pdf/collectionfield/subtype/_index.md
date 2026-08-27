@@ -1,14 +1,14 @@
 ---
-title: CollectionField.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CollectionField. Получает подтип значения поля в схеме коллекции. Подтип коллекционного поля или связанного с файлом поля, который описывает этот словарь. Эта запись определяет тип данных, который должен храниться в поле.
+title: "CollectionField.Subtype"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CollectionField. Получает подтип значения поля в схеме коллекции. Подтип коллекционного поля или связанного с файлом поля, которое описывает этот словарь. Эта запись определяет тип данных, которые должны храниться в поле"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/collectionfield/subtype/
 ---
-## Свойство CollectionField.Subtype
+## CollectionField.Subtype property
 
-Получает подтип значения поля в схеме коллекции. Подтип коллекционного поля или связанного с файлом поля, который описывает этот словарь. Эта запись определяет тип данных, который должен храниться в поле.
+Возвращает подтип значения поля в коллекции схемы. Подтип поля коллекции или связанного с файлом поля, который описывает этот словарь. Эта запись определяет тип данных, которые должны храниться в поле.
 
 ```csharp
 public CollectionFieldSubtype Subtype { get; }
@@ -20,3 +20,5 @@ public CollectionFieldSubtype Subtype { get; }
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

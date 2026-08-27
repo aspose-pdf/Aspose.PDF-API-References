@@ -1,14 +1,14 @@
 ---
-title: Arc.Beta
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Arc. Получает или устанавливает значение с плавающей запятой, которое указывает конечный угол дуги в градусах
+title: "Arc.Beta"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Arc. Получает или задает значение типа float, которое указывает конечный угол дуги в градусах"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.drawing/arc/beta/
 ---
-## Свойство Arc.Beta
+## Arc.Beta property
 
-Получает или устанавливает значение с плавающей запятой, которое указывает конечный угол дуги в градусах.
+Получает или задает значение типа float, указывающее конечный угол дуги в градусах.
 
 ```csharp
 public double Beta { get; set; }
@@ -16,6 +16,8 @@ public double Beta { get; set; }
 
 ### См. также
 
-* класс [Arc](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

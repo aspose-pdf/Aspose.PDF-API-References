@@ -1,14 +1,14 @@
 ---
-title: Opi.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Opi. Получает массив из восьми чисел, указывающих местоположение на странице обрезанного изображения
+title: "Opi.Position"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Opi. Получает массив из восьми чисел, задающих расположение обрезанного изображения на странице"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/opi/position/
 ---
-## Свойство Opi.Position
+## Opi.Position property
 
-Получает массив из восьми чисел, указывающих местоположение на странице обрезанного изображения.
+Получает массив из восьми чисел, задающих расположение обрезанного изображения на странице.
 
 ```csharp
 public double[] Position { get; }
@@ -16,6 +16,8 @@ public double[] Position { get; }
 
 ### См. также
 
-* класс [Opi](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

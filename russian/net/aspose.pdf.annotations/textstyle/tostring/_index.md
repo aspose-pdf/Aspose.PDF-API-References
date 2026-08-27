@@ -1,12 +1,12 @@
 ---
-title: TextStyle.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextStyle. Строковое представление TextStyle
+title: "TextStyle.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextStyle. Строковое представление TextStyle"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/textstyle/tostring/
 ---
-## Метод TextStyle.ToString
+## TextStyle.ToString method
 
 Строковое представление TextStyle.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [TextStyle](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

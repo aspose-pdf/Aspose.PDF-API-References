@@ -1,14 +1,14 @@
 ---
-title: SetMiterLimit.MiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetMiterLimit. Получает или задает предел мита
+title: "SetMiterLimit.MiterLimit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetMiterLimit. Получает или задает предел среза"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setmiterlimit/miterlimit/
 ---
-## Свойство SetMiterLimit.MiterLimit
+## SetMiterLimit.MiterLimit property
 
-Получает или задает предел мита.
+Получает или задает предел среза.
 
 ```csharp
 public double MiterLimit { get; set; }
@@ -16,6 +16,8 @@ public double MiterLimit { get; set; }
 
 ### См. также
 
-* класс [SetMiterLimit](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetMiterLimit](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

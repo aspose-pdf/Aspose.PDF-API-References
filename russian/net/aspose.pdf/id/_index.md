@@ -1,12 +1,12 @@
 ---
-title: Class Id
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Id. Представляет структуру идентификатора файла
+title: "Класс Id"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Id. Представляет структуру идентификатора файла."
 type: docs
-weight: 5850
+weight: 5980
 url: /ru/net/aspose.pdf/id/
 ---
-## Класс Id
+## Id class
 
 Представляет структуру идентификатора файла.
 
@@ -18,8 +18,8 @@ public class Id
 
 | Имя | Описание |
 | --- | --- |
-| [Измененный](../../aspose.pdf/id/modified/) { get; } | Изменение идентификатора на основе содержимого документа на момент его последнего обновления. |
-| [Оригинальный](../../aspose.pdf/id/original/) { get; } | Постоянный идентификатор на основе содержимого документа на момент его первоначального создания. |
+| [Modified](../../aspose.pdf/id/modified/) { get; } | Изменение идентификатора на основе содержимого документа на момент его последнего обновления. |
+| [Original](../../aspose.pdf/id/original/) { get; } | Постоянный идентификатор, основанный на содержимом документа на момент его первоначального создания. |
 
 ## Примеры
 
@@ -31,5 +31,7 @@ string modified = doc.Id.Modified;
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

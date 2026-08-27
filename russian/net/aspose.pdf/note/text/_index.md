@@ -1,14 +1,14 @@
 ---
-title: Note.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство заметки. Получает или устанавливает текст заметки
+title: "Note.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Note. Получает или задаёт текст заметки"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/note/text/
 ---
-## Свойство Note.Text
+## Note.Text property
 
-Получает или устанавливает текст заметки.
+Получает или задает текст заметки.
 
 ```csharp
 public string Text { get; set; }
@@ -16,6 +16,8 @@ public string Text { get; set; }
 
 ### См. также
 
-* класс [Note](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

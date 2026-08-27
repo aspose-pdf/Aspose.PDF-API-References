@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AttributeKey. Выполняет явное преобразование из String в AttributeKey
+title: "AttributeKey.op_Explicit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey метод. Выполняет явное преобразование из String в AttributeKey"
 type: docs
 weight: 450
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/op_explicit/
 ---
-## Явный оператор AttributeKey
+## AttributeKey Explicit operator
 
 Выполняет явное преобразование из String в [`AttributeKey`](../).
 
@@ -16,7 +16,7 @@ public static explicit operator AttributeKey(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ атрибута. |
+| ключ | String | Ключ атрибута. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public static explicit operator AttributeKey(string key)
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

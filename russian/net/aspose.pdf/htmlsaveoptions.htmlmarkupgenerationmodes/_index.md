@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.HtmlMarkupGenerationModes
-second_title: Aspose.PDF for .NET API Reference
-description: Enum HtmlSaveOptionsHtmlMarkupGenerationModes от Aspose.Pdf. Иногда существуют специфические требования к создаваемому HTML. Этот перечисляемый тип определяет режимы подготовки HTML, которые могут быть использованы при конвертации PDF в HTML для соответствия таким специфическим требованиям.
+title: "Перечисление HtmlSaveOptions.HtmlMarkupGenerationModes"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.HtmlSaveOptionsHtmlMarkupGenerationModes. Иногда присутствуют специфические требования к создаваемому HTML. Это перечисление определяет режимы подготовки HTML, которые могут использоваться при конвертации PDF в HTML для соответствия таким специфическим требованиям"
 type: docs
-weight: 5660
+weight: 5790
 url: /ru/net/aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes/
 ---
-## Перечисление HtmlSaveOptions.HtmlMarkupGenerationModes
+## HtmlSaveOptions.HtmlMarkupGenerationModes enumeration
 
-Иногда существуют специфические требования к создаваемому HTML. Этот перечисляемый тип определяет режимы подготовки HTML, которые могут быть использованы при конвертации PDF в HTML для соответствия таким специфическим требованиям.
+Иногда присутствуют специфические требования к создаваемому HTML. Это перечисление определяет режимы подготовки HTML, которые могут использоваться при конвертации PDF в HTML для соответствия таким специфическим требованиям.
 
 ```csharp
 public enum HtmlMarkupGenerationModes
@@ -18,11 +18,13 @@ public enum HtmlMarkupGenerationModes
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| WriteAllHtml | `0` | Режим по умолчанию, когда отсутствуют специфические требования. Будет сгенерирован вывод, который будет содержать все части HTML без какой-либо специальной дополнительной обработки. |
-| WriteOnlyBodyContent | `1` | Будет удалено все содержимое HTML, которое находится вне тела HTML, т.е. останется только содержимое, которое находится внутри \c \ \c \ тегов |
+| WriteAllHtml | `0` | Режим по умолчанию, когда специфические требования отсутствуют. Будет сгенерирован вывод, содержащий все части HTML без какой-либо специальной дополнительной обработки. |
+| WriteOnlyBodyContent | `1` | будет удалено всё HTML‑содержимое, которое находится за пределами тела HTML, т.е. останется только содержимое, находящееся внутри \c \ \c \ тегов |
 
 ### См. также
 
-* класс [HtmlSaveOptions](../htmlsaveoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

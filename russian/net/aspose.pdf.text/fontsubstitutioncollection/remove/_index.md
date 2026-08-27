@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontSubstitutionCollection. Удаляет элемент замены шрифта
+title: "FontSubstitutionCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontSubstitutionCollection. Удаляет элемент замены шрифта"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.text/fontsubstitutioncollection/remove/
 ---
-## Метод FontSubstitutionCollection.Remove
+## FontSubstitutionCollection.Remove method
 
 Удаляет элемент замены шрифта.
 
@@ -20,11 +20,13 @@ public bool Remove(FontSubstitution item)
 
 ### Возвращаемое значение
 
-True - если элемент удален; в противном случае - false.
+True - если элемент удалён; иначе false.
 
 ### См. также
 
-* класс [FontSubstitution](../../fontsubstitution/)
-* класс [FontSubstitutionCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

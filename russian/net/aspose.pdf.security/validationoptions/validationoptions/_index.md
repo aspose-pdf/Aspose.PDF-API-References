@@ -1,12 +1,12 @@
 ---
-title: ValidationOptions.ValidationOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ValidationOptions. Конструктор по умолчанию
+title: "ValidationOptions.ValidationOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ValidationOptions. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.security/validationoptions/validationoptions/
 ---
-## Конструктор ValidationOptions
+## ValidationOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ValidationOptions()
 
 ### См. также
 
-* класс [ValidationOptions](../)
-* пространство имен [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* сборка [Aspose.PDF](../../../)
+* class [ValidationOptions](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

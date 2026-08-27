@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptionCollection. Получает опцию по индексу
+title: "OptionCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OptionCollection. Получает параметр по индексу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/optioncollection/item/
 ---
-## Индексатор OptionCollection (1 из 2)
+## OptionCollection indexer (1 of 2)
 
-Получает опцию по индексу.
+Получает вариант по индексу.
 
 ```csharp
 public Option this[int index] { get; }
@@ -16,24 +16,24 @@ public Option this[int index] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Индекс опции. |
+| index | Индекс параметра. |
 
 ### Возвращаемое значение
 
-Опция по указанному индексу.
+Параметр по указанному индексу.
 
 ### См. также
 
-* класс [Option](../../option/)
-* класс [OptionCollection](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Индексатор OptionCollection (2 из 2)
+## OptionCollection indexer (2 of 2)
 
-Получает опцию по её имени.
+Получает параметр по его имени.
 
 ```csharp
 public Option this[string name] { get; }
@@ -41,15 +41,17 @@ public Option this[string name] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| name | Имя опции. |
+| имя | Имя параметра. |
 
 ### Возвращаемое значение
 
-Найдена опция.
+Найден параметр.
 
 ### См. также
 
-* класс [Option](../../option/)
-* класс [OptionCollection](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

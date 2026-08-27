@@ -1,14 +1,14 @@
 ---
-title: Artifact.RemoveValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Artifact. Удалить пользовательское значение из артефакта
+title: "Artifact.RemoveValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Artifact. Удаляет пользовательское значение из артефакта"
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf/artifact/removevalue/
 ---
-## Метод Artifact.RemoveValue
+## Artifact.RemoveValue method
 
-Удалить пользовательское значение из артефакта.
+Удаляет пользовательское значение из артефакта.
 
 ```csharp
 public void RemoveValue(string name)
@@ -16,10 +16,12 @@ public void RemoveValue(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя пользовательского значения, которое нужно удалить. |
+| имя | String | Имя пользовательского значения, которое следует удалить. |
 
 ### См. также
 
-* класс [Artifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

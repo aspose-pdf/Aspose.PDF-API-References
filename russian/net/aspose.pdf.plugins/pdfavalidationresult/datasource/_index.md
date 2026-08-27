@@ -1,12 +1,12 @@
 ---
-title: PdfAValidationResult.DataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfAValidationResult. Получает источник данных, который был проверен
+title: "PdfAValidationResult.DataSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfAValidationResult. Возвращает источник данных, который был проверен"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/pdfavalidationresult/datasource/
 ---
-## Поле PdfAValidationResult.DataSource
+## PdfAValidationResult.DataSource field
 
 Получает источник данных, который был проверен.
 
@@ -16,7 +16,9 @@ public readonly IDataSource DataSource;
 
 ### См. также
 
-* интерфейс [IDataSource](../../idatasource/)
-* класс [PdfAValidationResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfAValidationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.ContactInfoLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает метку контактной информации. Значение по умолчанию Contact
+title: "SignatureCustomAppearance.ContactInfoLabel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignatureCustomAppearance. Получает/устанавливает метку контактной информации. Значение по умолчанию Contact"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/contactinfolabel/
 ---
-## Свойство SignatureCustomAppearance.ContactInfoLabel
+## SignatureCustomAppearance.ContactInfoLabel property
 
 Получает/устанавливает метку контактной информации. Значение по умолчанию: "Contact".
 
@@ -16,6 +16,8 @@ public string ContactInfoLabel { get; set; }
 
 ### См. также
 
-* класс [SignatureCustomAppearance](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ImageCompressionOptions.ImageCompressionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ImageCompressionOptions. Конструктор по умолчанию
+title: "ImageCompressionOptions.ImageCompressionOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ImageCompressionOptions. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.optimization/imagecompressionoptions/imagecompressionoptions/
 ---
-## Конструктор ImageCompressionOptions
+## ImageCompressionOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ImageCompressionOptions()
 
 ### См. также
 
-* класс [ImageCompressionOptions](../)
-* пространство имен [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageCompressionOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TxtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.TxtLoadOptions. Опции загрузки для конвертации TXT в PDF
+title: "Класс TxtLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.TxtLoadOptions. Параметры загрузки для конвертации TXT в PDF"
 type: docs
-weight: 11130
+weight: 11320
 url: /ru/net/aspose.pdf/txtloadoptions/
 ---
-## Класс TxtLoadOptions
+## TxtLoadOptions class
 
-Опции загрузки для конвертации TXT в PDF.
+Параметры загрузки для конвертации TXT в PDF.
 
 ```csharp
 public class TxtLoadOptions : LoadOptions
@@ -24,32 +24,32 @@ public class TxtLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или устанавливает флаг для отключения любых лицензионных ограничений для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, которые запрещены лицензией этого шрифта, например, позволяет встраивать шрифт в PDF-документ, даже если лицензионные правила запрещают встраивание для этого шрифта. По умолчанию `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывает [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь также может вернуть Abort, в этом случае операция загрузки должна прекратиться. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или задаёт флаг, отключающий любые лицензионные ограничения для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, запрещённые лицензией этого шрифта, например, позволяет встраивать шрифт в PDF‑документ, даже если правила лицензии запрещают встраивание. По умолчанию `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывается [`LoadOptions`](../loadoptions/). |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, в этом случае операция загрузки должна быть прекращена. |
 
 ## Примеры
 
-Следующий пример показывает, как конвертировать файл TXT в файл PDF
+В следующем примере показано, как преобразовать файл TXT в файл PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Путь к каталогу документов.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your TXT File.
+	// Путь к вашему файлу TXT.
 	string txtFile = Path.Combine(dataDir, "TXT-to-PDF.txt");
 
-	// The path to output PDF File.
+	// Путь к выходному PDF‑файлу.
 	string pdfFile = Path.Combine(dataDir, "TXT-to-PDF.pdf");
 
-	// Initialize TxtLoadOptions	
+	// Инициализировать TxtLoadOptions	
 	TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
 		
 	using (Document pdfDocument = new Document(txtFile, txtLoadOptions))
 	{
 	 
-		// Save PDF file
+		// Сохранить PDF‑файл
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -77,6 +77,8 @@ public class TxtLoadOptions : LoadOptions
 
 ### См. также
 
-* класс [LoadOptions](../loadoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

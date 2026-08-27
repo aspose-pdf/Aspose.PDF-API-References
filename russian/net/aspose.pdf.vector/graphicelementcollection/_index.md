@@ -1,12 +1,12 @@
 ---
-title: Class GraphicElementCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Vector.GraphicElementCollection. Представляет коллекцию GraphicElement
+title: "Класс GraphicElementCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Vector.GraphicElementCollection. Представляет коллекцию GraphicElement"
 type: docs
-weight: 11190
+weight: 11380
 url: /ru/net/aspose.pdf.vector/graphicelementcollection/
 ---
-## Класс GraphicElementCollection
+## GraphicElementCollection class
 
 Представляет коллекцию [`GraphicElement`](../graphicelement/).
 
@@ -33,7 +33,7 @@ public sealed class GraphicElementCollection : ICollection<GraphicElement>
 | --- | --- |
 | [Add](../../aspose.pdf.vector/graphicelementcollection/add/)(GraphicElement) | Добавляет новый [`GraphicElement`](../graphicelement/) в коллекцию. Все элементы в коллекции должны иметь одинаковый [`Parent`](../graphicelement/parent/). |
 | [Clear](../../aspose.pdf.vector/graphicelementcollection/clear/)() | Очищает коллекцию. |
-| [Contains](../../aspose.pdf.vector/graphicelementcollection/contains/)(GraphicElement) | Определяет, содержится ли элемент в коллекции. |
+| [Contains](../../aspose.pdf.vector/graphicelementcollection/contains/)(GraphicElement) | Определяет, находится ли элемент в коллекции. |
 | [CopyTo](../../aspose.pdf.vector/graphicelementcollection/copyto/)(GraphicElement[], int) | Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива. |
 | [GetEnumerator](../../aspose.pdf.vector/graphicelementcollection/getenumerator/)() | Возвращает перечислитель для всей коллекции. |
 | [Remove](../../aspose.pdf.vector/graphicelementcollection/remove/)(GraphicElement) | Удаляет элемент [`GraphicElement`](../graphicelement/). |
@@ -41,6 +41,8 @@ public sealed class GraphicElementCollection : ICollection<GraphicElement>
 
 ### См. также
 
-* класс [GraphicElement](../graphicelement/)
-* пространство имен [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../)
+* class [GraphicElement](../graphicelement/)
+* namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../)
+
+

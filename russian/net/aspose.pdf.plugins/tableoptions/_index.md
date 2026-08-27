@@ -1,12 +1,12 @@
 ---
-title: Class TableOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.TableOptions. Представляет параметры для добавления таблицы в документ с помощью плагина TableGenerator
+title: "Класс TableOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.TableOptions. Представляет параметры для добавления таблицы в документ с помощью плагина TableGenerator"
 type: docs
-weight: 9360
+weight: 9510
 url: /ru/net/aspose.pdf.plugins/tableoptions/
 ---
-## Класс TableOptions
+## TableOptions class
 
 Представляет параметры для добавления таблицы в документ с помощью плагина [`TableGenerator`](../tablegenerator/).
 
@@ -25,13 +25,13 @@ public sealed class TableOptions : PdfGeneratorOptions
 | Имя | Описание |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | Возвращает коллекцию данных плагина PdfGenerator. |
-| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операций. |
+| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операции. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [Create](../../aspose.pdf.plugins/tableoptions/create/)() | Создает экземпляр `TableOptions`. |
+| static [Create](../../aspose.pdf.plugins/tableoptions/create/)() | Создать экземпляр `TableOptions`. |
 | [AddInput](../../aspose.pdf.plugins/pdfgeneratoroptions/addinput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагина PdfGenerator. |
 | [AddOutput](../../aspose.pdf.plugins/pdfgeneratoroptions/addoutput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагина PdfGenerator. |
 | [AddTable](../../aspose.pdf.plugins/tableoptions/addtable/)() | Добавление таблицы в документ. |
@@ -40,6 +40,8 @@ public sealed class TableOptions : PdfGeneratorOptions
 
 ### См. также
 
-* класс [PdfGeneratorOptions](../pdfgeneratoroptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [PdfGeneratorOptions](../pdfgeneratoroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

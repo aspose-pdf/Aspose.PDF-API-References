@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.TBGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfPageEditor. Верхний и нижний блеск
+title: "PdfPageEditor.TBGLITTER"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfPageEditor. Блестки сверху вниз"
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/tbglitter/
 ---
-## Поле PdfPageEditor.TBGLITTER
+## PdfPageEditor.TBGLITTER field
 
-Верхний и нижний блеск
+Сверху‑вниз блестки
 
 ```csharp
 public const int TBGLITTER;
@@ -16,6 +16,8 @@ public const int TBGLITTER;
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

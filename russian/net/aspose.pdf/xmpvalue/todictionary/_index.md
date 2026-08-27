@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpValue. Возвращает словарь, который содержит именованные значения
+title: "XmpValue.ToDictionary"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpValue. Возвращает словарь, содержащий именованные значения"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/xmpvalue/todictionary/
 ---
-## Метод XmpValue.ToDictionary
+## XmpValue.ToDictionary method
 
-Возвращает словарь, который содержит именованные значения.
+Возвращает словарь, содержащий именованные значения.
 
 ```csharp
 public Dictionary<string, XmpValue> ToDictionary()
@@ -16,10 +16,12 @@ public Dictionary<string, XmpValue> ToDictionary()
 
 ### Возвращаемое значение
 
-Словарное значение.
+Значение словаря.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

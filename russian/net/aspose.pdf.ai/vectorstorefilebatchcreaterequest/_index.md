@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreFileBatchCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest. Создать пакетный запрос на создание файла векторного хранилища
+title: "Класс VectorStoreFileBatchCreateRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest. Создает запрос пакетного создания файлов в векторном хранилище"
 type: docs
-weight: 1280
+weight: 1370
 url: /ru/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/
 ---
-## Класс VectorStoreFileBatchCreateRequest
+## VectorStoreFileBatchCreateRequest class
 
-Создать пакетный запрос на создание файла векторного хранилища.
+Создать запрос на пакет файлов векторного хранилища.
 
 ```csharp
 public class VectorStoreFileBatchCreateRequest
@@ -28,5 +28,7 @@ public class VectorStoreFileBatchCreateRequest
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

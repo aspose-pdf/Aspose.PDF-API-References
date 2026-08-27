@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphicElementCollection. Получает элемент GraphicElement по указанному индексу
+title: "GraphicElementCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphicElementCollection. Возвращает элемент GraphicElement по указанному индексу."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.vector/graphicelementcollection/item/
 ---
-## Индексатор GraphicElementCollection
+## GraphicElementCollection indexer
 
-Получает элемент [`GraphicElement`](../../graphicelement/) по указанному индексу.
+Возвращает элемент [`GraphicElement`](../../graphicelement/) по указанному индексу.
 
 ```csharp
 public GraphicElement this[int index] { get; }
@@ -24,7 +24,9 @@ public GraphicElement this[int index] { get; }
 
 ### См. также
 
-* класс [GraphicElement](../../graphicelement/)
-* класс [GraphicElementCollection](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

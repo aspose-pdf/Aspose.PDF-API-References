@@ -1,14 +1,14 @@
 ---
-title: Form.AttachmentName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство формы. Получает или устанавливает имя вложения, когда результат операции сохраняется в объектах HttpResponse как вложение
+title: "Form.AttachmentName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Получает или задает имя вложения, когда результат операции сохраняется в объекты HttpResponse в виде вложения."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/form/attachmentname/
 ---
-## Свойство Form.AttachmentName
+## Form.AttachmentName property
 
-Получает или устанавливает имя вложения, когда результат операции сохраняется в объектах HttpResponse как вложение.
+Получает или задает имя вложения, когда результат операции сохраняется в объектах HttpResponse в виде вложения.
 
 ```csharp
 public string AttachmentName { get; set; }
@@ -16,6 +16,8 @@ public string AttachmentName { get; set; }
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

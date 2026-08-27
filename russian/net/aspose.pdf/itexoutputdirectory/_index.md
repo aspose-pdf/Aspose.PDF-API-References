@@ -1,14 +1,14 @@
 ---
-title: Interface ITeXOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.ITeXOutputDirectory. Интерфейс обобщенного каталога вывода TeX
+title: "Интерфейс ITeXOutputDirectory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.ITeXOutputDirectory. Интерфейс обобщённого каталога вывода TeX"
 type: docs
-weight: 5830
+weight: 5960
 url: /ru/net/aspose.pdf/itexoutputdirectory/
 ---
-## Интерфейс ITeXOutputDirectory
+## ITeXOutputDirectory interface
 
-Интерфейс обобщенного каталога вывода TeX.
+Интерфейс обобщённого каталога вывода TeX.
 
 ```csharp
 public interface ITeXOutputDirectory : ITeXInputDirectory
@@ -16,12 +16,14 @@ public interface ITeXOutputDirectory : ITeXInputDirectory
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [GetOutputFile](../../aspose.pdf/itexoutputdirectory/getoutputfile/)(string, out string) | Возвращает поток для записи. |
 
 ### См. также
 
-* интерфейс [ITeXInputDirectory](../itexinputdirectory/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* interface [ITeXInputDirectory](../itexinputdirectory/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

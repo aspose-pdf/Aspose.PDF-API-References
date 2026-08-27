@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.FontFamilyName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает имя семейства шрифтов. Оно должно существовать в документе. Значение по умолчанию Arial
+title: "SignatureCustomAppearance.FontFamilyName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignatureCustomAppearance. Получает/устанавливает имя семейства шрифтов. Оно должно существовать в документе. Значение по умолчанию Arial"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/
 ---
-## Свойство SignatureCustomAppearance.FontFamilyName
+## SignatureCustomAppearance.FontFamilyName property
 
-Получает/устанавливает имя семейства шрифтов. Оно должно существовать в документе. Значение по умолчанию: Arial.
+Получает/устанавливает название семейства шрифтов. Оно должно присутствовать в документе. Значение по умолчанию: Arial.
 
 ```csharp
 public string FontFamilyName { get; set; }
@@ -16,6 +16,8 @@ public string FontFamilyName { get; set; }
 
 ### См. также
 
-* класс [SignatureCustomAppearance](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

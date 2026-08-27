@@ -1,14 +1,14 @@
 ---
-title: LinkElement.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LinkElement. Получает или устанавливает гиперссылку для элемента ссылки
+title: "LinkElement.Hyperlink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LinkElement. Получает или задает гиперссылку для элемента Link."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/linkelement/hyperlink/
 ---
-## Свойство LinkElement.Hyperlink
+## LinkElement.Hyperlink property
 
-Получает или устанавливает гиперссылку для элемента ссылки.
+Получает или задаёт гиперссылку для элемента Link.
 
 ```csharp
 public Hyperlink Hyperlink { get; set; }
@@ -16,7 +16,9 @@ public Hyperlink Hyperlink { get; set; }
 
 ### См. также
 
-* класс [Hyperlink](../../../aspose.pdf/hyperlink/)
-* класс [LinkElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Hyperlink](../../../aspose.pdf/hyperlink/)
+* class [LinkElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

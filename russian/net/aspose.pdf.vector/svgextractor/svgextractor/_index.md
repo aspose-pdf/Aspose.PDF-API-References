@@ -1,20 +1,20 @@
 ---
-title: SvgExtractor.SvgExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SvgExtractor. Представляет класс для извлечения SVG изображений со страницы
+title: "SvgExtractor.SvgExtractor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SvgExtractor. Представляет класс для извлечения SVG‑изображений со страницы."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.vector/svgextractor/svgextractor/
 ---
 ## SvgExtractor() {#constructor}
 
-Представляет класс для извлечения SVG изображений со страницы.
+Представляет класс для извлечения SVG‑изображений со страницы.
 
 ```csharp
 public SvgExtractor()
 ```
 
-### See Also
+### См. также
 
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
@@ -24,19 +24,21 @@ public SvgExtractor()
 
 ## SvgExtractor(SvgExtractionOptions) {#constructor_1}
 
-Представляет класс для извлечения SVG изображений со страницы.
+Представляет класс для извлечения SVG‑изображений со страницы.
 
 ```csharp
 public SvgExtractor(SvgExtractionOptions options)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | options | SvgExtractionOptions | Параметры извлечения. |
 
-### See Also
+### См. также
 
 * class [SvgExtractionOptions](../../svgextractionoptions/)
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

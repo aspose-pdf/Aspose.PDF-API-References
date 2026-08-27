@@ -1,14 +1,14 @@
 ---
-title: TiffDevice.Settings
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TiffDevice. Получает настройки для отображения pdf в tiff изображение
+title: "TiffDevice.Settings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TiffDevice. Возвращает настройки для отображения pdf в изображение tiff"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.devices/tiffdevice/settings/
 ---
-## Свойство TiffDevice.Settings
+## TiffDevice.Settings property
 
-Получает настройки для отображения pdf в tiff изображение.
+Получает настройки для отображения PDF в TIFF‑изображение.
 
 ```csharp
 public TiffSettings Settings { get; }
@@ -16,7 +16,9 @@ public TiffSettings Settings { get; }
 
 ### См. также
 
-* класс [TiffSettings](../../tiffsettings/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

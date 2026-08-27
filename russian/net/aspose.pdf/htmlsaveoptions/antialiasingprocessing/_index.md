@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.AntialiasingProcessing
-second_title: Aspose.PDF for .NET API Reference
-description: Поле HtmlSaveOptions. Этот параметр определяет необходимые меры сглаживания при конвертации составных фонов изображений из PDF в HTML
+title: "HtmlSaveOptions.AntialiasingProcessing"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HtmlSaveOptions field. Этот параметр определяет необходимые меры антиалиасинга при конвертации сложных фоновых изображений из PDF в HTML."
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf/htmlsaveoptions/antialiasingprocessing/
 ---
-## Поле HtmlSaveOptions.AntialiasingProcessing
+## HtmlSaveOptions.AntialiasingProcessing field
 
-Этот параметр определяет необходимые меры сглаживания при конвертации составных фонов изображений из PDF в HTML
+Этот параметр определяет необходимые меры сглаживания при конвертации составных фоновых изображений из PDF в HTML.
 
 ```csharp
 public AntialiasingProcessingType AntialiasingProcessing;
@@ -20,3 +20,5 @@ public AntialiasingProcessingType AntialiasingProcessing;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

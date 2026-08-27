@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableTRElement. Получает границу ячейки по умолчанию
+title: "TableTRElement.DefaultCellBorder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableTRElement. Получает границу ячейки по умолчанию."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/tabletrelement/defaultcellborder/
 ---
-## Свойство TableTRElement.DefaultCellBorder
+## TableTRElement.DefaultCellBorder property
 
 Получает границу ячейки по умолчанию.
 
@@ -16,7 +16,9 @@ public BorderInfo DefaultCellBorder { get; set; }
 
 ### См. также
 
-* класс [BorderInfo](../../../aspose.pdf/borderinfo/)
-* класс [TableTRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

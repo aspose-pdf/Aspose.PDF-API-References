@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод BoundsCheckableList. Ищет указанный объект и возвращает индекс первого вхождения с нулевой основой в пределах всего System.Collections.Generic.List
+title: "BoundsCheckableList1.IndexOf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод BoundsCheckableList. Выполняет поиск указанного объекта и возвращает нуль‑индекс первого вхождения во всей System.Collections.Generic.List"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/boundscheckablelist-1/indexof/
 ---
-## BoundsCheckableList&lt;T&gt;.IndexOf метод
+## BoundsCheckableList&lt;T&gt;.IndexOf method
 
-Ищет указанный объект и возвращает индекс первого вхождения с нулевой основой в пределах всего System.Collections.Generic.List.
+Ищет указанный объект и возвращает нулевой индекс первого вхождения в пределах всего System.Collections.Generic.List.
 
 ```csharp
 public int IndexOf(T item)
@@ -20,10 +20,12 @@ public int IndexOf(T item)
 
 ### Возвращаемое значение
 
-Индекс первого вхождения *item* с нулевой основой в пределах всего System.Collections.Generic.List, если найден; в противном случае –1.
+Нуль‑индекс первого вхождения *item* во всей System.Collections.Generic.List, если найден; в противном случае –1.
 
 ### См. также
 
-* класс [BoundsCheckableList&lt;T&gt;](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

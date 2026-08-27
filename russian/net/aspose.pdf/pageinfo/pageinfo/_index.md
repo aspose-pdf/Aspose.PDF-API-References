@@ -1,12 +1,12 @@
 ---
-title: PageInfo.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PageInfo. Конструктор по умолчанию
+title: "PageInfo.PageInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PageInfo. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pageinfo/pageinfo/
 ---
-## Конструктор PageInfo
+## PageInfo constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public PageInfo()
 
 ### См. также
 
-* класс [PageInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.AutoResize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfViewer. Получает или устанавливает логическое значение, указывающее, будет ли файл напечатан с оптимизированным размером. Если false, страница печатается без масштабирования. Если true, страница печатается с масштабированием, чтобы вписаться в область печати.
+title: "PdfViewer.AutoResize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfViewer. Получает или задает логическое значение, указывающее, будет ли файл печататься с оптимизированным размером. Если false, печатает страницу без масштабирования. Если true, печатает страницу с масштабированием до области печати."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/pdfviewer/autoresize/
 ---
-## Свойство PdfViewer.AutoResize
+## PdfViewer.AutoResize property
 
-Получает или устанавливает логическое значение, указывающее, будет ли файл напечатан с оптимизированным размером. Если false, страница печатается без масштабирования. Если true, страница печатается с масштабированием, чтобы вписаться в область печати.
+Получает или задает значение типа bool, указывающее, будет ли файл печататься с оптимизированным размером. Если false, печать страницы без масштабирования. Если true, печать страницы с масштабированием для соответствия печатной области.
 
 ```csharp
 public bool AutoResize { get; set; }
@@ -16,6 +16,8 @@ public bool AutoResize { get; set; }
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class OpenAICopilotOptionsBase
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.OpenAICopilotOptionsBase. Представляет базовые параметры для настройки OpenAICopilot
+title: "Класс OpenAICopilotOptionsBase"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.OpenAICopilotOptionsBase. Представляет базовые параметры настройки OpenAICopilot"
 type: docs
-weight: 870
+weight: 930
 url: /ru/net/aspose.pdf.ai/openaicopilotoptionsbase/
 ---
-## Класс OpenAICopilotOptionsBase
+## OpenAICopilotOptionsBase class
 
 Представляет базовые параметры для настройки OpenAICopilot.
 
@@ -18,9 +18,11 @@ public abstract class OpenAICopilotOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Получает или задает модель, которую следует использовать для помощника. |
+| [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Получает или задаёт модель, используемую для помощника. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

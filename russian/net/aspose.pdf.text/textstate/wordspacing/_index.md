@@ -1,14 +1,14 @@
 ---
-title: TextState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextState. Получает или устанавливает интервал между словами текста
+title: "TextState.WordSpacing"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextState. Получает или задает межсловный интервал текста"
 type: docs
-weight: 190
+weight: 200
 url: /ru/net/aspose.pdf.text/textstate/wordspacing/
 ---
-## Свойство TextState.WordSpacing
+## TextState.WordSpacing property
 
-Получает или устанавливает интервал между словами текста.
+Получает или задает интервал между словами текста.
 
 ```csharp
 public virtual float WordSpacing { get; set; }
@@ -16,6 +16,8 @@ public virtual float WordSpacing { get; set; }
 
 ### См. также
 
-* класс [TextState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: LoadOptions.LoadFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LoadOptions. Представляет формат файла, который описывает LoadOptions
+title: "LoadOptions.LoadFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LoadOptions. Представляет формат файла, который описывает LoadOptions"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/loadoptions/loadformat/
 ---
-## Свойство LoadOptions.LoadFormat
+## LoadOptions.LoadFormat property
 
 Представляет формат файла, который описывает [`LoadOptions`](../).
 
@@ -20,3 +20,5 @@ public LoadFormat LoadFormat { get; }
 * class [LoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Prev
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Получает элемент структуры, представляющий предыдущий элемент относительно этого элемента в иерархии структуры
+title: "OutlineItemCollection.Prev"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Возвращает элемент оглавления, представляющий предыдущий элемент относительно данного элемента в иерархии оглавления"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf/outlineitemcollection/prev/
 ---
-## Свойство OutlineItemCollection.Prev
+## OutlineItemCollection.Prev property
 
-Получает элемент структуры, представляющий предыдущий элемент относительно этого элемента в иерархии структуры.
+Получает пункт оглавления, представляющий предыдущий пункт относительно этого пункта в иерархии оглавления.
 
 ```csharp
 public OutlineItemCollection Prev { get; }
@@ -16,6 +16,8 @@ public OutlineItemCollection Prev { get; }
 
 ### См. также
 
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

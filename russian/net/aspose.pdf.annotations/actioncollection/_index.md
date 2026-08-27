@@ -1,12 +1,12 @@
 ---
-title: Class ActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.ActionCollection. Коллекция действий
+title: "Класс ActionCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.ActionCollection класс. Коллекция действий"
 type: docs
-weight: 1400
+weight: 1490
 url: /ru/net/aspose.pdf.annotations/actioncollection/
 ---
-## Класс ActionCollection
+## ActionCollection class
 
 Коллекция действий
 
@@ -29,16 +29,18 @@ public sealed class ActionCollection : ICollection<PdfAction>
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.pdf.annotations/actioncollection/add/)(PdfAction) | Добавляет новое действие в коллекцию. |
-| [Clear](../../aspose.pdf.annotations/actioncollection/clear/)() | Очищает коллекцию. |
-| [Contains](../../aspose.pdf.annotations/actioncollection/contains/)(PdfAction) | Возвращает true, если данный элемент присутствует в коллекции. |
+| [Clear](../../aspose.pdf.annotations/actioncollection/clear/)() | Очистить коллекцию. |
+| [Contains](../../aspose.pdf.annotations/actioncollection/contains/)(PdfAction) | Возвращает true, если указанный элемент присутствует в коллекции. |
 | [CopyTo](../../aspose.pdf.annotations/actioncollection/copyto/)(PdfAction[], int) | Копирует массив действий в коллекцию. |
-| [Delete](../../aspose.pdf.annotations/actioncollection/delete/#delete)() | Удаляет все действия. |
+| [Delete](../../aspose.pdf.annotations/actioncollection/delete/#delete)() | Удалить все действия. |
 | [Delete](../../aspose.pdf.annotations/actioncollection/delete/#delete_1)(int) | Удаляет действие из коллекции по индексу. |
 | [GetEnumerator](../../aspose.pdf.annotations/actioncollection/getenumerator/)() | Возвращает перечислитель для коллекции. |
 | [Remove](../../aspose.pdf.annotations/actioncollection/remove/)(PdfAction) | Удаляет элемент из коллекции. |
 
 ### См. также
 
-* класс [PdfAction](../pdfaction/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

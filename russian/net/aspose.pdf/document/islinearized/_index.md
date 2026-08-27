@@ -1,14 +1,14 @@
 ---
-title: Document.IsLinearized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает значение, указывающее, является ли документ линейным
+title: "Document.IsLinearized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document свойство. Получает или задает значение, указывающее, линейризован ли документ"
 type: docs
-weight: 300
+weight: 320
 url: /ru/net/aspose.pdf/document/islinearized/
 ---
-## Свойство Document.IsLinearized
+## Document.IsLinearized property
 
-Получает или устанавливает значение, указывающее, является ли документ линейным.
+Получает или задаёт значение, указывающее, линейризирован ли документ.
 
 ```csharp
 public bool IsLinearized { get; set; }
@@ -16,6 +16,8 @@ public bool IsLinearized { get; set; }
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

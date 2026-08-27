@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AppearanceDictionary. Представляет удобную форму для получения потоков внешнего вида
+title: "AppearanceDictionary.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AppearanceDictionary. Представляет удобную форму получения потоков отображения"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/appearancedictionary/item/
 ---
-## Индексатор AppearanceDictionary
+## AppearanceDictionary indexer
 
 Представляет удобную форму для получения потоков внешнего вида.
 
@@ -16,15 +16,17 @@ public XForm this[string key] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| key | Представляет путь к потоку внешнего вида. Если словарь внешнего вида имеет подсловари, то путь должен содержать 2 части ([`Keys`](../keys/)), в противном случае путь имеет только одну часть. |
+| key | Представляет путь к потоку отображения. Если словарь отображения имеет подсловарии, то путь должен содержать 2 части ([`Keys`](../keys/)), иначе путь состоит из одной части. |
 
 ### Возвращаемое значение
 
-Объект XForm (поток внешнего вида), который соответствует данному ключу.
+Объект XForm (поток отображения), соответствующий заданному ключу.
 
 ### См. также
 
-* класс [XForm](../../../aspose.pdf/xform/)
-* класс [AppearanceDictionary](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

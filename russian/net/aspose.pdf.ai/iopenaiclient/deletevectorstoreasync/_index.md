@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.DeleteVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Удаляет векторное хранилище асинхронно
+title: "IOpenAIClient.DeleteVectorStoreAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно удаляет векторное хранилище."
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.ai/iopenaiclient/deletevectorstoreasync/
 ---
-## Метод IOpenAIClient.DeleteVectorStoreAsync
+## IOpenAIClient.DeleteVectorStoreAsync method
 
-Удаляет векторное хранилище асинхронно.
+Удаляет хранилище векторов асинхронно.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteVectorStoreAsync(string vectorStoreId, 
@@ -32,7 +32,9 @@ public Task<DeleteStatusResponse> DeleteVectorStoreAsync(string vectorStoreId,
 
 ### См. также
 
-* класс [DeleteStatusResponse](../../deletestatusresponse/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

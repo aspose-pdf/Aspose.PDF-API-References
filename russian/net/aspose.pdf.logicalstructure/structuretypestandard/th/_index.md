@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TH
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Ячейка заголовка таблицы Ячейка таблицы, содержащая текст заголовка, описывающий одну или несколько строк или столбцов таблицы
+title: "StructureTypeStandard.TH"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard поле. Ячейка заголовка таблицы Ячейка таблицы, содержащая текст заголовка, описывающий одну или несколько строк или столбцов таблицы."
 type: docs
 weight: 420
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/th/
 ---
-## Поле StructureTypeStandard.TH
+## StructureTypeStandard.TH field
 
-(Ячейка заголовка таблицы) Ячейка таблицы, содержащая текст заголовка, описывающий одну или несколько строк или столбцов таблицы.
+(Table header cell) Ячейка таблицы, содержащая заголовочный текст, описывающий одну или несколько строк или столбцов таблицы.
 
 ```csharp
 public static readonly StructureTypeStandard TH;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard TH;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

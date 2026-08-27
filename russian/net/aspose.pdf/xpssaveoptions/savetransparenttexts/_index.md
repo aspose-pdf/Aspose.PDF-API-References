@@ -1,14 +1,14 @@
 ---
-title: XpsSaveOptions.SaveTransparentTexts
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XpsSaveOptions. Указывает, следует ли сохранять прозрачный OCR-текст
+title: "XpsSaveOptions.SaveTransparentTexts"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XpsSaveOptions. Указывает, следует ли сохранять прозрачный OCR‑текст"
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.pdf/xpssaveoptions/savetransparenttexts/
 ---
-## Свойство XpsSaveOptions.SaveTransparentTexts
+## XpsSaveOptions.SaveTransparentTexts property
 
-Указывает, следует ли сохранять прозрачный (OCR'ованный) текст.
+Указывает, следует ли сохранять прозрачный (распознанный OCR) текст.
 
 ```csharp
 public bool SaveTransparentTexts { get; set; }
@@ -16,6 +16,8 @@ public bool SaveTransparentTexts { get; set; }
 
 ### См. также
 
-* класс [XpsSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XpsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

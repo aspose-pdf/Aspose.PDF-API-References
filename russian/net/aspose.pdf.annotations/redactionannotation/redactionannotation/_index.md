@@ -1,7 +1,7 @@
 ---
-title: RedactionAnnotation.RedactionAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор RedactionAnnotation. Конструктор для RedactionAnnotation. Для использования в Generator
+title: "RedactionAnnotation.RedactionAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор RedactionAnnotation. Конструктор для RedactionAnnotation. Для использования в Generator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/redactionannotation/redactionannotation/
@@ -16,14 +16,14 @@ public RedactionAnnotation(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ, в котором будет создана новая аннотация. |
+| документ | Document | Document, в котором будет создана новая аннотация. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [RedactionAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,13 +37,15 @@ public RedactionAnnotation(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которой будет размещена аннотация. |
+| страница | Страница | Page, на которой будет размещена аннотация. |
 | rect | Rectangle | Позиция аннотации на странице. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [RedactionAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

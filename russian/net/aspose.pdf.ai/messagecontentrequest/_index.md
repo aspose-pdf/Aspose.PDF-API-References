@@ -1,14 +1,14 @@
 ---
-title: Class MessageContentRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.MessageContentRequest. Содержимое сообщения в массиве текста и/или изображений
+title: "Класс MessageContentRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.MessageContentRequest. Содержимое сообщения в виде массива текста и/или изображений"
 type: docs
-weight: 780
+weight: 830
 url: /ru/net/aspose.pdf.ai/messagecontentrequest/
 ---
-## Класс MessageContentRequest
+## MessageContentRequest class
 
-Содержимое сообщения в массиве текста и/или изображений.
+Содержимое сообщения в виде массива текста и/или изображений.
 
 ```csharp
 public class MessageContentRequest : MessageContentBase
@@ -24,7 +24,7 @@ public class MessageContentRequest : MessageContentBase
 
 | Имя | Описание |
 | --- | --- |
-| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Получает или задает файл изображения в содержимом сообщения. |
+| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Получает или задаёт файл изображения в содержимом сообщения. |
 | [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Получает или задает URL изображения в содержимом сообщения. |
 | [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Получает или задает тип содержимого. |
 | [Text](../../aspose.pdf.ai/messagecontentrequest/text/) { get; set; } | Получает или задает текстовое содержимое, которое является частью сообщения. |
@@ -33,12 +33,14 @@ public class MessageContentRequest : MessageContentBase
 
 | Имя | Описание |
 | --- | --- |
-| static [CreateImageFileContent](../../aspose.pdf.ai/messagecontentrequest/createimagefilecontent/)(string, string) | Создает содержимое файла изображения для сообщения. |
-| static [CreateImageUrlContent](../../aspose.pdf.ai/messagecontentrequest/createimageurlcontent/)(string, string) | Создает содержимое URL изображения для сообщения. |
-| static [CreateTextContent](../../aspose.pdf.ai/messagecontentrequest/createtextcontent/)(string) | Создает текстовое содержимое для сообщения. |
+| static [CreateImageFileContent](../../aspose.pdf.ai/messagecontentrequest/createimagefilecontent/)(string, string) | Создаёт содержимое изображения‑файла для сообщения. |
+| static [CreateImageUrlContent](../../aspose.pdf.ai/messagecontentrequest/createimageurlcontent/)(string, string) | Создаёт содержимое URL‑изображения для сообщения. |
+| static [CreateTextContent](../../aspose.pdf.ai/messagecontentrequest/createtextcontent/)(string) | Создаёт текстовое содержимое для сообщения. |
 
 ### См. также
 
-* класс [MessageContentBase](../messagecontentbase/)
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* class [MessageContentBase](../messagecontentbase/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BX.BX
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BX. Инициализирует оператор
+title: "BX.BX"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BX. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/bx/bx/
 ---
-## Конструктор BX
+## BX constructor
 
 Инициализирует оператор.
 
@@ -16,6 +16,8 @@ public BX()
 
 ### См. также
 
-* класс [BX](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [BX](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Border.Effect
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство границы. Получает или устанавливает эффект границы
+title: "Border.Effect"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Border. Получает или задает эффект границы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/border/effect/
 ---
-## Свойство Border.Effect
+## Border.Effect property
 
-Получает или устанавливает эффект границы.
+Получает или задаёт эффект границы.
 
 ```csharp
 public BorderEffect Effect { get; set; }
@@ -20,3 +20,5 @@ public BorderEffect Effect { get; set; }
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

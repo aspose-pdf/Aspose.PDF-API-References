@@ -1,14 +1,14 @@
 ---
-title: Enum ColumnAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ColumnAdjustment Aspose.Pdf. Перечисляет типы настройки столбцов
+title: "Перечисление ColumnAdjustment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.ColumnAdjustment. Перечисляет типы настройки колонок"
 type: docs
-weight: 3110
+weight: 3220
 url: /ru/net/aspose.pdf/columnadjustment/
 ---
-## Перечисление ColumnAdjustment
+## ColumnAdjustment enumeration
 
-Перечисляет типы настройки столбцов.
+Перечисляет типы выравнивания столбцов.
 
 ```csharp
 public enum ColumnAdjustment
@@ -19,10 +19,12 @@ public enum ColumnAdjustment
 | Имя | Значение | Описание |
 | --- | --- | --- |
 | Customized | `0` | Настроенный. |
-| AutoFitToContent | `1` | Автоматическая подгонка под содержимое. |
-| AutoFitToWindow | `2` | Автоматическая подгонка под окно. |
+| AutoFitToContent | `1` | Автоматическая подгонка к содержимому. |
+| AutoFitToWindow | `2` | Автоматическая подгонка к окну. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

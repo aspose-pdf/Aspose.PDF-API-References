@@ -1,14 +1,14 @@
 ---
-title: Color.Coral
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFF7F50
+title: "Color.Coral"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий значение ARGB c FFFF7F50"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf/color/coral/
 ---
-## Свойство Color.Coral
+## Color.Coral property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFF7F50.
+Возвращает системный цвет, имеющий ARGB‑значение \c \#FFFF7F50.
 
 ```csharp
 public static Color Coral { get; }
@@ -16,10 +16,12 @@ public static Color Coral { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

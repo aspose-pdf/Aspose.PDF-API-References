@@ -1,14 +1,14 @@
 ---
-title: Class HtmlDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Comparison.HtmlDiffOutputGenerator. Представляет класс для генерации html представления различий текстов. Удаленные разрывы строк обозначаются знаком абзаца
+title: "Класс HtmlDiffOutputGenerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Comparison.HtmlDiffOutputGenerator. Представляет класс для генерации HTML‑представления различий текстов. Удалённые разрывы строк обозначаются знаком абзаца."
 type: docs
-weight: 3200
+weight: 3310
 url: /ru/net/aspose.pdf.comparison/htmldiffoutputgenerator/
 ---
-## Класс HtmlDiffOutputGenerator
+## HtmlDiffOutputGenerator class
 
-Представляет класс для генерации html представления различий текстов. Удаленные разрывы строк обозначаются знаком абзаца.
+Представляет класс для генерации HTML‑представления различий текстов. Удалённые разрывы строк обозначаются знаком абзаца.
 
 ```csharp
 public class HtmlDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenerator
@@ -18,17 +18,17 @@ public class HtmlDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenera
 
 | Имя | Описание |
 | --- | --- |
-| [HtmlDiffOutputGenerator](htmldiffoutputgenerator/#constructor)() | Создает экземпляр класса `HtmlDiffOutputGenerator`. |
-| [HtmlDiffOutputGenerator](htmldiffoutputgenerator/#constructor_1)(OutputTextStyle) | Создает экземпляр класса `HtmlDiffOutputGenerator`. |
+| [HtmlDiffOutputGenerator](htmldiffoutputgenerator/#constructor)() | Создаёт экземпляр класса `HtmlDiffOutputGenerator`. |
+| [HtmlDiffOutputGenerator](htmldiffoutputgenerator/#constructor_1)(OutputTextStyle) | Создаёт экземпляр класса `HtmlDiffOutputGenerator`. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [DeleteStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/deletestyle/) { get; set; } | Получает и устанавливает строку CSS-стиля для операции удаления. Пример: |
-| [EqualStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/equalstyle/) { get; set; } | Получает и устанавливает строку CSS-стиля для операции равенства. Пример: |
-| [InsertStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/insertstyle/) { get; set; } | Получает и устанавливает строку CSS-стиля для операции вставки. Пример: |
-| [StrikethroughDeleted](../../aspose.pdf.comparison/htmldiffoutputgenerator/strikethroughdeleted/) { get; set; } | Получает или устанавливает стиль text-decoration: line-through для операции удаления. Значение по умолчанию `False`. |
+| [DeleteStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/deletestyle/) { get; set; } | Получает и задаёт строку в стиле CSS для операции Delete. Пример: |
+| [EqualStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/equalstyle/) { get; set; } | Получает и задаёт строку в стиле CSS для операции Equal. Пример: |
+| [InsertStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/insertstyle/) { get; set; } | Получает и задаёт строку в стиле CSS для операции Insert. Пример: |
+| [StrikethroughDeleted](../../aspose.pdf.comparison/htmldiffoutputgenerator/strikethroughdeleted/) { get; set; } | Получает или задаёт стиль text-decoration: line-through для операции delete. Значение по умолчанию — `False`. |
 
 ## Методы
 
@@ -41,7 +41,9 @@ public class HtmlDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenera
 
 ### См. также
 
-* интерфейс [IFileOutputGenerator](../ifileoutputgenerator/)
-* интерфейс [IStringOutputGenerator](../istringoutputgenerator/)
-* пространство имен [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../)
+* interface [IFileOutputGenerator](../ifileoutputgenerator/)
+* interface [IStringOutputGenerator](../istringoutputgenerator/)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

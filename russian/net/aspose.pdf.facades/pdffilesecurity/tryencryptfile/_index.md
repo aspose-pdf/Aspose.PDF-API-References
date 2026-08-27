@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TryEncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSecurity. Шифрует Pdf файл с помощью userpassword и ownerpassword и устанавливает привилегии доступа к документу. Пароль пользователя и пароль владельца могут быть null или пустыми. Пароль владельца будет заменен случайной строкой, если входной пароль владельца равен null или пустой. Не вызывает исключение, если процесс завершился неудачно.
+title: "PdfFileSecurity.TryEncryptFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSecurity. Шифрует PDF‑файл с паролем пользователя и паролем владельца и задаёт привилегии доступа к документу. Пароль пользователя и пароль владельца могут быть null или пустыми. Если входной пароль владельца null или пустой, пароль владельца будет заменён случайной строкой. Не выбрасывает исключение, если процесс завершился неудачей"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdffilesecurity/tryencryptfile/
 ---
-## Метод PdfFileSecurity.TryEncryptFile
+## PdfFileSecurity.TryEncryptFile method
 
-Шифрует Pdf файл с помощью userpassword и ownerpassword и устанавливает привилегии доступа к документу. Пароль пользователя и пароль владельца могут быть null или пустыми. Пароль владельца будет заменен случайной строкой, если входной пароль владельца равен null или пустой. Не вызывает исключение, если процесс завершился неудачно.
+Шифрует PDF‑файл с пользовательским паролем и паролем владельца и задаёт привилегии доступа документа. Пользовательский пароль и пароль владельца могут быть null или пустыми. Пароль владельца будет заменён случайной строкой, если входной пароль владельца null или пустой. Не бросает исключение при неудаче процесса.
 
 ```csharp
 public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -19,12 +19,12 @@ public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPr
 | --- | --- | --- |
 | userPassword | String | Пароль пользователя. |
 | ownerPassword | String | Пароль владельца. |
-| privilege | DocumentPrivilege | Установить привилегию. |
-| keySize | KeySize | KeySize.x40 для шифрования на 40 бит, KeySize.x128 для шифрования на 128 бит и KeySize.x256 для шифрования на 256 бит. |
+| привилегия | DocumentPrivilege | Установить привилегию. |
+| keySize | KeySize | KeySize.x40 для шифрования 40‑бит, KeySize.x128 для шифрования 128‑бит и KeySize.x256 для шифрования 256‑бит. |
 
 ### Возвращаемое значение
 
-True для успеха, или false.
+True при успехе, иначе false.
 
 ## Примеры
 
@@ -44,8 +44,10 @@ Dim result As Boolean = fileSecurity.TryEncryptFile("userpass", "ownerpass", Doc
 
 ### См. также
 
-* класс [DocumentPrivilege](../../documentprivilege/)
-* перечисление [KeySize](../../keysize/)
-* класс [PdfFileSecurity](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

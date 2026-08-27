@@ -1,12 +1,12 @@
 ---
-title: CgmImportOptions.CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CgmImportOptions. Конструктор по умолчанию
+title: "CgmImportOptions.CgmImportOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CgmImportOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/cgmimportoptions/cgmimportoptions/
 ---
-## Конструктор CgmImportOptions
+## CgmImportOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public CgmImportOptions()
 
 ### См. также
 
-* класс [CgmImportOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CgmImportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает параметр обработки режима дуплекса печати, который следует использовать при печати файла из диалогового окна печати
+title: "Document.Duplex"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Получает или задает параметр обработки режима двусторонней печати, используемый при печати файла из диалогового окна печати"
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.pdf/document/duplex/
 ---
-## Свойство Document.Duplex
+## Document.Duplex property
 
-Получает или устанавливает параметр обработки режима дуплекса печати, который следует использовать при печати файла из диалогового окна печати.
+Получает или задаёт параметр обработки режима двусторонней печати, используемый при печати файла из диалогового окна печати.
 
 ```csharp
 public PrintDuplex Duplex { get; set; }
@@ -20,3 +20,5 @@ public PrintDuplex Duplex { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

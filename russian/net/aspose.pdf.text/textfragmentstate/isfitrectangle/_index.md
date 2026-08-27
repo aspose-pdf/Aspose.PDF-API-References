@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.IsFitRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextFragmentState. Проверяет, может ли входная строка быть помещена в определенный прямоугольник
+title: "TextFragmentState.IsFitRectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextFragmentState. Проверяет, может ли входная строка быть размещена внутри заданного прямоугольника."
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.text/textfragmentstate/isfitrectangle/
 ---
-## Метод TextFragmentState.IsFitRectangle
+## TextFragmentState.IsFitRectangle method
 
-Проверяет, может ли входная строка быть помещена в определенный прямоугольник.
+Проверяет, может ли входная строка быть размещена внутри определённого прямоугольника.
 
 ```csharp
 public bool IsFitRectangle(string str, Rectangle rect)
@@ -21,11 +21,13 @@ public bool IsFitRectangle(string str, Rectangle rect)
 
 ### Возвращаемое значение
 
-True, если строка помещается в прямоугольник; в противном случае false.
+True, если строка помещается в прямоугольник; иначе false.
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextBoxField.TextVerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextBoxField. Получает или задает вертикальное выравнивание текста для аннотации
+title: "TextBoxField.TextVerticalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TextBoxField свойство. Получает или задает вертикальное выравнивание текста для аннотации."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/textboxfield/textverticalalignment/
 ---
-## Свойство TextBoxField.TextVerticalAlignment
+## TextBoxField.TextVerticalAlignment property
 
 Получает или задает вертикальное выравнивание текста для аннотации.
 
@@ -20,3 +20,5 @@ public VerticalAlignment TextVerticalAlignment { get; set; }
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Документ Полный документ. Это корневой элемент любого дерева структуры, содержащего несколько частей или несколько статей
+title: "StructureTypeStandard.Document"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard поле. Документ Полный документ. Это корневой элемент любого дерева структуры, содержащего несколько частей или несколько статей."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/document/
 ---
-## Поле StructureTypeStandard.Document
+## StructureTypeStandard.Document field
 
-(Документ) Полный документ. Это корневой элемент любого дерева структуры, содержащего несколько частей или несколько статей.
+(Document) Полный документ. Это корневой элемент любой структуры дерева, содержащего несколько частей или несколько статей.
 
 ```csharp
 public static readonly StructureTypeStandard Document;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Document;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

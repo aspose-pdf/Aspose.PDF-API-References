@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImagePlacementCollection. Получает значение, указывающее, синхронизирован ли доступ к коллекции.
+title: "ImagePlacementCollection.IsSynchronized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImagePlacementCollection. Возвращает значение, указывающее, является ли доступ к коллекции синхронизированным и потокобезопасным"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/imageplacementcollection/issynchronized/
 ---
-## Свойство ImagePlacementCollection.IsSynchronized
+## ImagePlacementCollection.IsSynchronized property
 
-Получает значение, указывающее, синхронизирован ли доступ к коллекции (безопасен для потоков).
+Возвращает значение, указывающее, синхронизирован ли доступ к коллекции (потокобезопасный).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### См. также
 
-* класс [ImagePlacementCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

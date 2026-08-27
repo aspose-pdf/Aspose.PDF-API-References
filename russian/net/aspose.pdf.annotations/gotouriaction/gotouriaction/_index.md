@@ -1,14 +1,14 @@
 ---
-title: GoToURIAction.GoToURIAction
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор GoToURIAction. Создает экземпляр класса GoToURIAction
+title: "GoToURIAction.GoToURIAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор GoToURIAction. Создаёт экземпляр класса GoToURIAction."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/gotouriaction/gotouriaction/
 ---
-## Конструктор GoToURIAction
+## GoToURIAction constructor
 
-Создает экземпляр класса [`GoToURIAction`](../).
+Создаёт экземпляр класса [`GoToURIAction`](../).
 
 ```csharp
 public GoToURIAction(string uri)
@@ -16,10 +16,12 @@ public GoToURIAction(string uri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| uri | String | Уникальный идентификатор ресурса для разрешения. |
+| uri | String | Универсальный идентификатор ресурса для разрешения. |
 
 ### См. также
 
-* класс [GoToURIAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [GoToURIAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FitVExplicitDestination.FitVExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FitVExplicitDestination. Создает локальное явное назначение
+title: "FitVExplicitDestination.FitVExplicitDestination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FitVExplicitDestination. Создаёт локальное явное назначение"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/fitvexplicitdestination/fitvexplicitdestination/
 ---
 ## FitVExplicitDestination(Page, double) {#constructor_1}
 
-Создает локальное явное назначение.
+Создаёт локальный явный пункт назначения.
 
 ```csharp
 public FitVExplicitDestination(Page page, double left)
@@ -16,21 +16,21 @@ public FitVExplicitDestination(Page page, double left)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы назначения. |
-| left | Double | Горизонтальная координата, расположенная на левом крае окна. |
+| страница | Страница | Объект страницы назначения. |
+| left | Double | Горизонтальная координата left, расположенная у левого края окна. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [FitVExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitVExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FitVExplicitDestination(int, double) {#constructor_2}
 
-Создает удаленное явное назначение.
+Создаёт удалённый явный пункт назначения.
 
 ```csharp
 public FitVExplicitDestination(int pageNumber, double left)
@@ -38,11 +38,13 @@ public FitVExplicitDestination(int pageNumber, double left)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNumber | Int32 | Номер страницы назначения удаленного документа. |
-| left | Double | Горизонтальная координата, расположенная на левом крае окна. |
+| pageNumber | Int32 | Номер страницы назначения удалённого документа. |
+| left | Double | Горизонтальная координата left, расположенная у левого края окна. |
 
 ### См. также
 
-* класс [FitVExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FitVExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

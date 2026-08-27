@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Page
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragment. Получает страницу, содержащую TextFragment
+title: "TextFragment.Page"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragment. Возвращает страницу, содержащую TextFragment"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.text/textfragment/page/
 ---
-## Свойство TextFragment.Page
+## TextFragment.Page property
 
-Получает страницу, содержащую TextFragment
+Получает страницу, содержащую `TextFragment`.
 
 ```csharp
 public Page Page { get; }
@@ -16,11 +16,13 @@ public Page Page { get; }
 
 ## Примечания
 
-Значение может быть null в случае, если объект TextFragment не принадлежит ни одной странице.
+Значение может быть null, если объект TextFragment не принадлежит ни одной странице.
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [TextFragment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

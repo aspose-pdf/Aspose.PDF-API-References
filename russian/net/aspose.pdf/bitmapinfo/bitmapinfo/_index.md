@@ -1,14 +1,14 @@
 ---
-title: BitmapInfo.BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BitmapInfo. Создает новый экземпляр класса
+title: "BitmapInfo.BitmapInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BitmapInfo. Создаёт новый экземпляр класса"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/bitmapinfo/bitmapinfo/
 ---
-## Конструктор BitmapInfo
+## BitmapInfo constructor
 
-Создает новый экземпляр класса.
+Создаёт новый экземпляр класса.
 
 ```csharp
 public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
@@ -17,9 +17,9 @@ public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pixelBytes | Byte[] | Массив пикселей. |
-| width | Int32 | Ширина битмапа. |
-| height | Int32 | Высота битмапа. |
-| format | PixelFormat | Формат пикселей битмапа. |
+| width | Int32 | Ширина растрового изображения. |
+| height | Int32 | Высота растрового изображения. |
+| формат | PixelFormat | Формат пикселей растрового изображения. |
 
 ### См. также
 
@@ -27,3 +27,5 @@ public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
 * class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

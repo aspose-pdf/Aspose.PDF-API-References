@@ -1,14 +1,14 @@
 ---
-title: Class EOClip
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.EOClip. Класс, представляющий путь обрезки оператора W с использованием правила четности-нечетности
+title: "Класс EOClip"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.EOClip класс. Класс, представляющий оператор W, задающий путь отсечения с использованием правила evenodd"
 type: docs
-weight: 7310
+weight: 7450
 url: /ru/net/aspose.pdf.operators/eoclip/
 ---
-## Класс EOClip
+## EOClip class
 
-Класс, представляющий оператор W* (устанавливает путь обрезки с использованием правила четности-нечетности).
+Класс, представляющий оператор W* (set clipping path using even-odd rule).
 
 ```csharp
 public class EOClip : Operator
@@ -30,12 +30,14 @@ public class EOClip : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

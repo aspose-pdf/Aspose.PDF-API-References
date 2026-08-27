@@ -1,14 +1,14 @@
 ---
-title: Enum Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Rotation перечисление. Перечисление возможных значений поворота
+title: "Перечисление Rotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Rotation перечисление. Перечисление возможных значений вращения"
 type: docs
-weight: 9820
+weight: 9970
 url: /ru/net/aspose.pdf/rotation/
 ---
-## Перечисление Поворота
+## Rotation enumeration
 
-Перечисление возможных значений поворота.
+Перечисление возможных значений вращения.
 
 ```csharp
 public enum Rotation
@@ -18,13 +18,15 @@ public enum Rotation
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| None | `0` | Без поворота. |
+| None | `0` | Не вращено. |
 | on90 | `1` | Повернуто на 90 градусов по часовой стрелке. |
 | on180 | `2` | Повернуто на 180 градусов. |
 | on270 | `3` | Повернуто на 270 градусов по часовой стрелке. |
 | on360 | `4` | Повернуто на 360 градусов по часовой стрелке. |
 
-### См. Также
+### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

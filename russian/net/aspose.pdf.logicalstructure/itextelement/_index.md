@@ -1,14 +1,14 @@
 ---
-title: Interface ITextElement
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.LogicalStructure.ITextElement. Интерфейс для представления элементов текстовой структуры
+title: "Интерфейс ITextElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.LogicalStructure.ITextElement интерфейс. Интерфейс для представления текстовых элементов структуры"
 type: docs
-weight: 6410
+weight: 6550
 url: /ru/net/aspose.pdf.logicalstructure/itextelement/
 ---
-## Интерфейс ITextElement
+## ITextElement interface
 
-Интерфейс для представления элементов текстовой структуры.
+Интерфейс для представления элементов структуры текста.
 
 ```csharp
 public interface ITextElement
@@ -18,7 +18,7 @@ public interface ITextElement
 
 | Имя | Описание |
 | --- | --- |
-| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate/) { get; } | Получает объект StructureTextState для элемента текстовой структуры. |
+| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate/) { get; } | Получает объект StructureTextState для текстового элемента структуры. |
 
 ## Методы
 
@@ -28,5 +28,7 @@ public interface ITextElement
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

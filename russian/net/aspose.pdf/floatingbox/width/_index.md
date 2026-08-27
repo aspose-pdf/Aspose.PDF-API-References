@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FloatingBox. Получает или задает значение с плавающей точкой, которое указывает ширину плавающего блока
+title: "FloatingBox.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FloatingBox. Получает или задает значение типа float, которое указывает ширину плавающего блока"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/floatingbox/width/
 ---
-## Свойство FloatingBox.Width
+## FloatingBox.Width property
 
-Получает или задает значение с плавающей точкой, которое указывает ширину плавающего блока.
+Получает или задаёт значение типа float, указывающее ширину плавающего блока.
 
 ```csharp
 public double Width { get; set; }
@@ -16,6 +16,8 @@ public double Width { get; set; }
 
 ### См. также
 
-* класс [FloatingBox](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: RunResponse.Tools
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или задает список инструментов, которые помощник использовал для этого запуска
+title: "RunResponse.Tools"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает список инструментов, которые помощник использовал для этого выполнения."
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.ai/runresponse/tools/
 ---
-## Свойство RunResponse.Tools
+## RunResponse.Tools property
 
 Получает или задает список инструментов, которые помощник использовал для этого запуска.
 
@@ -16,7 +16,9 @@ public List<Tool> Tools { get; set; }
 
 ### См. также
 
-* класс [Tool](../../tool/)
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Tool](../../tool/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

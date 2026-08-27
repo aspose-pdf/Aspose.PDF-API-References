@@ -1,12 +1,12 @@
 ---
-title: Document.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает Acro Form документа
+title: "Document.Form"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document свойство. Получает Acro Form документа"
 type: docs
-weight: 210
+weight: 230
 url: /ru/net/aspose.pdf/document/form/
 ---
-## Свойство Document.Form
+## Document.Form property
 
 Получает Acro Form документа.
 
@@ -16,7 +16,9 @@ public Form Form { get; }
 
 ### См. также
 
-* класс [Form](../../../aspose.pdf.forms/form/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../../../aspose.pdf.forms/form/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

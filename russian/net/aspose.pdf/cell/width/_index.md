@@ -1,12 +1,12 @@
 ---
-title: Cell.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ячейки. Получает или задает ширину столбца
+title: "Cell.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Получает или задает ширину столбца"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/cell/width/
 ---
-## Свойство Cell.Width
+## Cell.Width property
 
 Получает или задает ширину столбца.
 
@@ -16,6 +16,8 @@ public double Width { get; }
 
 ### См. также
 
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

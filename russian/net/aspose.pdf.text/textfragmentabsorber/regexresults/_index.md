@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.RegexResults
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentAbsorber. Получает словарь поисковых вхождений, которые представлены классом System.Text.RegularExpressions.Regex в качестве ключа и TextFragment в качестве значения
+title: "TextFragmentAbsorber.RegexResults"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentAbsorber. Получает словарь поисковых вхождений, где ключом является класс System.Text.RegularExpressions.Regex, а значением — TextFragment."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/textfragmentabsorber/regexresults/
 ---
-## Свойство TextFragmentAbsorber.RegexResults
+## TextFragmentAbsorber.RegexResults property
 
-Получает словарь поисковых вхождений, которые представлены классом System.Text.RegularExpressions.Regex в качестве ключа и [`TextFragment`](../../textfragment/) в качестве значения.
+Получает словарь поисковых вхождений, где ключом является класс System.Text.RegularExpressions.Regex, а значением — [`TextFragment`](../../textfragment/).
 
 ```csharp
 public Dictionary<Regex, TextFragmentCollection> RegexResults { get; }
@@ -16,10 +16,10 @@ public Dictionary<Regex, TextFragmentCollection> RegexResults { get; }
 
 ## Примеры
 
-Пример демонстрирует, как найти текст с помощью массива регулярных выражений на первой странице PDF-документа.
+В примере демонстрируется, как найти текст с помощью массива регулярных выражений на первой странице PDF‑документа.
 
 ```csharp
-// Open document
+// Открыть документ
 Document doc = new Document(@"D:\Tests\input.pdf");
 
 var regexes = new Regex[]
@@ -27,16 +27,18 @@ var regexes = new Regex[]
 new Regex( @"expression1", RegexOptions.IgnoreCase),
 new Regex( @"expression2", RegexOptions.IgnoreCase),
 };
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// Создайте объект TextFragmentAbsorber, который ищет все слова, начинающиеся на 'h' и заканчивающиеся на 'o', используя регулярное выражение.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(regexes, new TextSearchOptions(true));
 doc.Pages[1].Accept(absorber);
-// Get results
+// Получить результаты
 var results = absorber.RegexResults;
 ```
 
 ### См. также
 
-* класс [TextFragmentCollection](../../textfragmentcollection/)
-* класс [TextFragmentAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentCollection](../../textfragmentcollection/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

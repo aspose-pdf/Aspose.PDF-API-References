@@ -1,14 +1,14 @@
 ---
-title: PrinterSettingsExtensions.ToAsposePrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PrinterSettingsExtensions. Преобразует специфичные для Windows System.Drawing.Printing.PrinterSettings в PrinterSettings
+title: "PrinterSettingsExtensions.ToAsposePrinterSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PrinterSettingsExtensions. Преобразует специфичный для Windows System.Drawing.Printing.PrinterSettings в PrinterSettings"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.printing/printersettingsextensions/toasposeprintersettings/
 ---
-## Метод PrinterSettingsExtensions.ToAsposePrinterSettings
+## PrinterSettingsExtensions.ToAsposePrinterSettings method
 
-Преобразует специфичные для Windows System.Drawing.Printing.PrinterSettings в [`PrinterSettings`](../../printersettings/).
+Преобразует специфичный для Windows System.Drawing.Printing.PrinterSettings в [`PrinterSettings`](../../printersettings/).
 
 ```csharp
 public static PrinterSettings ToAsposePrinterSettings(this PrinterSettings nativeSettings)
@@ -24,7 +24,9 @@ public static PrinterSettings ToAsposePrinterSettings(this PrinterSettings nativ
 
 ### См. также
 
-* класс [PrinterSettings](../../printersettings/)
-* класс [PrinterSettingsExtensions](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterSettings](../../printersettings/)
+* class [PrinterSettingsExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

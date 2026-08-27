@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetFieldLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Устанавливает максимальное количество символов в текстовом поле
+title: "FormEditor.SetFieldLimit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Устанавливает максимальное количество символов в текстовом поле"
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf.facades/formeditor/setfieldlimit/
 ---
-## Метод FormEditor.SetFieldLimit
+## FormEditor.SetFieldLimit method
 
-Устанавливает максимальное количество символов в текстовом поле.
+Устанавливает максимальное количество символов текстового поля.
 
 ```csharp
 public bool SetFieldLimit(string fieldName, int fieldLimit)
@@ -17,11 +17,11 @@ public bool SetFieldLimit(string fieldName, int fieldLimit)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fieldName | String | Имя текстового поля. |
-| fieldLimit | Int32 | Новое значение лимита для поля. |
+| fieldLimit | Int32 | Новое значение ограничения для поля. |
 
 ### Возвращаемое значение
 
-true, если лимит поля был успешно установлен.
+true, если ограничение поля успешно установлено.
 
 ## Примеры
 
@@ -32,6 +32,8 @@ formEditor.SetFieldLimit("textField", 15);
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

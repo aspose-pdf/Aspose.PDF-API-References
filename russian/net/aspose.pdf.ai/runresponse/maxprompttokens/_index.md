@@ -1,14 +1,14 @@
 ---
-title: RunResponse.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или устанавливает максимальное количество токенов подсказки, которые, как предполагается, были использованы в ходе выполнения
+title: "RunResponse.MaxPromptTokens"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает максимальное количество токенов подсказки, указанных как использованные в ходе выполнения."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.ai/runresponse/maxprompttokens/
 ---
-## Свойство RunResponse.MaxPromptTokens
+## RunResponse.MaxPromptTokens property
 
-Получает или устанавливает максимальное количество токенов подсказки, которые, как предполагается, были использованы в ходе выполнения.
+Получает или задает максимальное количество токенов подсказки, указанных как использованные в ходе выполнения запуска.
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
@@ -16,6 +16,8 @@ public int? MaxPromptTokens { get; set; }
 
 ### См. также
 
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

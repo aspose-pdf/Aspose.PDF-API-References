@@ -1,14 +1,14 @@
 ---
-title: VectorStoreResponse.UsageBytes
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство VectorStoreResponse. Получает или задает общее количество байт, используемых файлами в векторном хранилище
+title: "VectorStoreResponse.UsageBytes"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство VectorStoreResponse. Получает или задает общее количество байтов, используемых файлами в хранилище векторов"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.ai/vectorstoreresponse/usagebytes/
 ---
-## Свойство VectorStoreResponse.UsageBytes
+## VectorStoreResponse.UsageBytes property
 
-Получает или задает общее количество байт, используемых файлами в векторном хранилище.
+Получает или задает общее количество байтов, используемых файлами во векторном хранилище.
 
 ```csharp
 public int? UsageBytes { get; set; }
@@ -16,6 +16,8 @@ public int? UsageBytes { get; set; }
 
 ### См. также
 
-* класс [VectorStoreResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

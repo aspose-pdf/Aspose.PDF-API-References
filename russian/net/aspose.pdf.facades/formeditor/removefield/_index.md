@@ -1,12 +1,12 @@
 ---
-title: FormEditor.RemoveField
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Удалить поле из формы
+title: "FormEditor.RemoveField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Удаляет поле из формы"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/formeditor/removefield/
 ---
-## Метод FormEditor.RemoveField
+## FormEditor.RemoveField method
 
 Удалить поле из формы.
 
@@ -28,6 +28,8 @@ formEditor.RemoveField("textField");
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

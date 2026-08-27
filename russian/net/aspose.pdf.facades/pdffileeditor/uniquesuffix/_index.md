@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.UniqueSuffix
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileEditor. Формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при объединении форм. Эта строка должна содержать подстроку NUM, которая будет заменена на числа. Например, если UniqueSuffix = ABCNUM, то для поля fieldName имена будут fieldNameABC1, fieldNameABC2, fieldNameABC3 и т.д.
+title: "PdfFileEditor.UniqueSuffix"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileEditor. Формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при конкатенации форм. Эта строка должна содержать подстроку NUM, которая будет заменена числами. Например, если UniqueSuffix = ABCNUM, то имена полей fieldName будут выглядеть как fieldNameABC1, fieldNameABC2, fieldNameABC3 и т.д."
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/pdffileeditor/uniquesuffix/
 ---
-## Свойство PdfFileEditor.UniqueSuffix
+## PdfFileEditor.UniqueSuffix property
 
-Формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при объединении форм. Эта строка должна содержать подстроку %NUM%, которая будет заменена на числа. Например, если UniqueSuffix = "ABC%NUM%", то для поля "fieldName" имена будут: fieldNameABC1, fieldNameABC2, fieldNameABC3 и т.д.
+Формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при конкатенации форм. Эта строка должна содержать подстроку %NUM%, которая будет заменена числами. Например, если UniqueSuffix = "ABC%NUM%", то для поля "fieldName" имена будут: fieldNameABC1, fieldNameABC2, fieldNameABC3 и т.д.
 
 ```csharp
 public string UniqueSuffix { get; set; }
@@ -23,6 +23,8 @@ ed.UniqueSuffix = "_%NUM%";
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.LineBreakStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarkdownSaveOptions. Получает или устанавливает стиль разрыва строки для сгенерированного документа
+title: "MarkdownSaveOptions.LineBreakStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MarkdownSaveOptions. Получает или задает стиль разрыва строки для сгенерированного документа"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/markdownsaveoptions/linebreakstyle/
 ---
-## Свойство MarkdownSaveOptions.LineBreakStyle
+## MarkdownSaveOptions.LineBreakStyle property
 
-Получает или устанавливает стиль разрыва строки для сгенерированного документа.
+Получает или задает стиль разрыва строки для сгенерированного документа.
 
 ```csharp
 public LineBreakStyle LineBreakStyle { get; set; }
@@ -20,3 +20,5 @@ public LineBreakStyle LineBreakStyle { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

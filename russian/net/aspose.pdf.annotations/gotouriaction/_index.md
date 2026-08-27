@@ -1,14 +1,14 @@
 ---
-title: Class GoToURIAction
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.GoToURIAction. Представляет действие URI, которое вызывает разрешение URI
+title: "Класс GoToURIAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Annotations.GoToURIAction. Представляет действие URI, вызывающее разрешение URI"
 type: docs
-weight: 1850
+weight: 1940
 url: /ru/net/aspose.pdf.annotations/gotouriaction/
 ---
-## Класс GoToURIAction
+## GoToURIAction class
 
-Представляет действие URI, которое вызывает разрешение URI.
+Представляет действие URI, которое приводит к разрешению URI.
 
 ```csharp
 public sealed class GoToURIAction : PdfAction
@@ -18,14 +18,14 @@ public sealed class GoToURIAction : PdfAction
 
 | Имя | Описание |
 | --- | --- |
-| [GoToURIAction](gotouriaction/)(string) | Создает экземпляр класса `GoToURIAction`. |
+| [GoToURIAction](gotouriaction/)(string) | Создаёт экземпляр класса `GoToURIAction`. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Следующие действия в последовательности. |
-| [URI](../../aspose.pdf.annotations/gotouriaction/uri/) { get; set; } | Получает или задает унифицированный идентификатор ресурса для разрешения. |
+| [URI](../../aspose.pdf.annotations/gotouriaction/uri/) { get; set; } | Получает или задаёт унифицированный идентификатор ресурса для разрешения. |
 
 ## Методы
 
@@ -35,6 +35,8 @@ public sealed class GoToURIAction : PdfAction
 
 ### См. также
 
-* класс [PdfAction](../pdfaction/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

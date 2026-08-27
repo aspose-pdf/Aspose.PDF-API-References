@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор параграфов. Конструктор по умолчанию
+title: "Paragraphs.Paragraphs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Paragraphs. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/paragraphs/paragraphs/
 ---
-## Конструктор параграфов
+## Paragraphs constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Paragraphs()
 
 ### См. также
 
-* класс [Paragraphs](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

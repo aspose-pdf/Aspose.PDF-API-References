@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileEditor. Вставляет страницы из другого файла в Pdf файл в указанное место
+title: "PdfFileEditor.Insert"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileEditor. Вставляет страницы из другого файла в Pdf файл в указанной позиции"
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/pdffileeditor/insert/
 ---
 ## Insert(string, int, string, int, int, string) {#insert_2}
 
-Вставляет страницы из другого файла в Pdf файл в указанное место.
+Вставляет страницы из другого файла в Pdf файл в указанную позицию.
 
 ```csharp
 public bool Insert(string inputFile, int insertLocation, string portFile, int startPage, 
@@ -19,14 +19,14 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int st
 | --- | --- | --- |
 | inputFile | String | Входной Pdf файл. |
 | insertLocation | Int32 | Позиция во входном файле. |
-| portFile | String | Портируемый Pdf файл. |
+| portFile | String | Pdf файл портирования. |
 | startPage | Int32 | Начальная позиция в portFile. |
 | endPage | Int32 | Конечная позиция в portFile. |
 | outputFile | String | Выходной Pdf файл. |
 
 ### Возвращаемое значение
 
-True при успехе, или false.
+True при успехе, иначе false.
 
 ## Примеры
 
@@ -37,15 +37,15 @@ pfe.Insert("file1.pdf", 1, "file2.pdf", 2, 6, "out.pdf");
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Insert(Stream, int, Stream, int, int, Stream) {#insert}
 
-Вставляет страницы из другого файла во входной Pdf файл.
+Вставляет страницы из другого файла во входный Pdf файл.
 
 ```csharp
 public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int startPage, 
@@ -56,14 +56,14 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 | --- | --- | --- |
 | inputStream | Stream | Входной поток Pdf файла. |
 | insertLocation | Int32 | Позиция вставки во входном файле. |
-| portStream | Stream | Поток Pdf файла для страниц. |
+| portStream | Stream | Поток Pdf‑файла для страниц. |
 | startPage | Int32 | С какой страницы начинать. |
 | endPage | Int32 | На какой странице заканчивать. |
 | outputStream | Stream | Выходной поток. |
 
 ### Возвращаемое значение
 
-True при успехе, или false.
+True при успехе, иначе false.
 
 ## Примеры
 
@@ -77,15 +77,15 @@ pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Insert(string, int, string, int[], string) {#insert_3}
 
-Вставляет страницы из другого файла во входной Pdf файл.
+Вставляет страницы из другого файла во входный Pdf файл.
 
 ```csharp
 public bool Insert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
@@ -96,13 +96,13 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int[] 
 | --- | --- | --- |
 | inputFile | String | Входной Pdf файл. |
 | insertLocation | Int32 | Позиция вставки во входном файле. |
-| portFile | String | Страницы из Pdf файла. |
-| pageNumber | Int32[] | Номер страницы, портируемой в portFile. |
+| portFile | String | Страницы из Pdf‑файла. |
+| pageNumber | Int32[] | Номер страницы, перенесённой в portFile. |
 | outputFile | String | Выходной Pdf файл. |
 
 ### Возвращаемое значение
 
-True при успехе, или false.
+True при успехе, иначе false.
 
 ## Примеры
 
@@ -113,15 +113,15 @@ pfe.Insert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Insert(Stream, int, Stream, int[], Stream) {#insert_1}
 
-Вставляет страницы из другого файла во входной Pdf файл.
+Вставляет страницы из другого файла во входный Pdf файл.
 
 ```csharp
 public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
@@ -132,13 +132,13 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 | --- | --- | --- |
 | inputStream | Stream | Входной поток Pdf файла. |
 | insertLocation | Int32 | Позиция вставки во входном файле. |
-| portStream | Stream | Поток Pdf файла для страниц. |
-| pageNumber | Int32[] | Номер страницы, портируемой в portFile. |
+| portStream | Stream | Поток Pdf‑файла для страниц. |
+| pageNumber | Int32[] | Номер страницы, перенесённой в portFile. |
 | outputStream | Stream | Выходной поток. |
 
 ### Возвращаемое значение
 
-True, если операция была успешной.
+True, если операция завершилась успешно.
 
 ## Примеры
 
@@ -152,6 +152,8 @@ pfe.Insert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

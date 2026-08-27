@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetRectangleValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureAttribute. Устанавливает прямоугольник значения
+title: "StructureAttribute.SetRectangleValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureAttribute. Устанавливает значение прямоугольника"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/
 ---
-## Метод StructureAttribute.SetRectangleValue
+## StructureAttribute.SetRectangleValue method
 
-Устанавливает прямоугольник значения.
+Устанавливает Value Rectangle.
 
 ```csharp
 public void SetRectangleValue(Rectangle rectangle)
@@ -20,7 +20,9 @@ public void SetRectangleValue(Rectangle rectangle)
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

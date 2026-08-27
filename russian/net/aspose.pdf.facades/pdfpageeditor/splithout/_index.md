@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.SPLITHOUT
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfPageEditor. Выходной горизонтальный раздел
+title: "PdfPageEditor.SPLITHOUT"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfPageEditor. Out Horizontal Split"
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/splithout/
 ---
-## Поле PdfPageEditor.SPLITHOUT
+## PdfPageEditor.SPLITHOUT field
 
-Выходной горизонтальный раздел
+Внешнее горизонтальное разделение
 
 ```csharp
 public const int SPLITHOUT;
@@ -16,6 +16,8 @@ public const int SPLITHOUT;
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

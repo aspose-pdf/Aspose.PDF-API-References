@@ -1,12 +1,12 @@
 ---
-title: Document.GetCatalogValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод документа. Возвращает значение элемента из словаря каталога
+title: "Document.GetCatalogValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Возвращает значение элемента из словаря каталога"
 type: docs
-weight: 670
+weight: 690
 url: /ru/net/aspose.pdf/document/getcatalogvalue/
 ---
-## Метод Document.GetCatalogValue
+## Document.GetCatalogValue method
 
 Возвращает значение элемента из словаря каталога.
 
@@ -16,14 +16,16 @@ public object GetCatalogValue(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ элемента. |
+| ключ | String | Ключ элемента. |
 
 ### Возвращаемое значение
 
-Значение элемента - если ключ был успешно найден; в противном случае, null.
+Значение элемента — если ключ был успешно найден; иначе null.
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

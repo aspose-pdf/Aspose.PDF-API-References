@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Figure
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Figure Элемент графического контента. Его размещение может быть указано с помощью атрибута макета Placement
+title: "StructureTypeStandard.Figure"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard field. Figure Элемент графического содержимого. Его размещение может быть указано с помощью атрибута макета Placement"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/figure/
 ---
-## Поле StructureTypeStandard.Figure
+## StructureTypeStandard.Figure field
 
-(Figure) Элемент графического контента. Его размещение может быть указано с помощью атрибута макета Placement.
+(Figure) Элемент графического содержимого. Его размещение может быть указано с помощью атрибута макета Placement.
 
 ```csharp
 public static readonly StructureTypeStandard Figure;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Figure;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

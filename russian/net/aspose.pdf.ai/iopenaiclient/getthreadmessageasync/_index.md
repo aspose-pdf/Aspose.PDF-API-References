@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно извлекает детали конкретного сообщения в потоке
+title: "IOpenAIClient.GetThreadMessageAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Получает детали конкретного сообщения в потоке асинхронно"
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.ai/iopenaiclient/getthreadmessageasync/
 ---
-## Метод IOpenAIClient.GetThreadMessageAsync
+## IOpenAIClient.GetThreadMessageAsync method
 
-Асинхронно извлекает детали конкретного сообщения в потоке.
+Получает детали конкретного сообщения в потоке асинхронно.
 
 ```csharp
 public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string threadMessageId, 
@@ -18,7 +18,7 @@ public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | threadId | String | Идентификатор потока, содержащего сообщение. |
-| threadMessageId | String | Идентификатор сообщения для извлечения. |
+| threadMessageId | String | Идентификатор сообщения для получения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
@@ -29,12 +29,14 @@ public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 | [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор сообщения потока равен null или пуст. |
 
 ### См. также
 
-* класс [ThreadMessageResponse](../../threadmessageresponse/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

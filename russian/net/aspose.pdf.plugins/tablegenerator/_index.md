@@ -1,12 +1,12 @@
 ---
-title: Class TableGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.TableGenerator. Представляет плагин Aspose.PDF TableGenerator
+title: "Класс TableGenerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.TableGenerator. Представляет плагин Aspose.PDF TableGenerator"
 type: docs
-weight: 9350
+weight: 9500
 url: /ru/net/aspose.pdf.plugins/tablegenerator/
 ---
-## Класс TableGenerator
+## TableGenerator class
 
 Представляет плагин Aspose.PDF TableGenerator.
 
@@ -16,37 +16,39 @@ public sealed class TableGenerator : IDisposable, IPlugin
 
 ## Конструкторы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [TableGenerator](tablegenerator/)() | Конструктор по умолчанию. |
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/tablegenerator/dispose/)() | Реализация IDisposable. На самом деле, это не обязательно для TableGenerator. |
+| [Dispose](../../aspose.pdf.plugins/tablegenerator/dispose/)() | Реализация IDisposable. На самом деле, это не требуется для TableGenerator. |
 | [Process](../../aspose.pdf.plugins/tablegenerator/process/)(IPluginOptions) | Запускает обработку PdfGenerator с указанными параметрами. |
 
 ## Примеры
 
-Пример демонстрирует, как добавить таблицу в PDF файл.
+Пример демонстрирует, как добавить таблицу в PDF‑файл.
 
 ```csharp
-// create TableGenerator
+// создать TableGenerator
 var generator = new TableGenerator();
-// create TableOptions object to set instructions
+// создать объект TableOptions для установки инструкций
 var opt = new TableOptions();
-// add input file paths
+// добавить пути входных файлов
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// установить путь выходного файла
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// выполнить процесс извлечения
 generator.Process(opt);
 ```
 
 ### См. также
 
-* интерфейс [IPlugin](../iplugin/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

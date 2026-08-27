@@ -1,12 +1,12 @@
 ---
-title: Point.Distance
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Point. Вычисляет расстояние между двумя точками
+title: "Point.Distance"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Point. Вычисляет расстояние между двумя точками"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/point/distance/
 ---
-## Метод Point.Distance
+## Point.Distance method
 
 Вычисляет расстояние между двумя точками.
 
@@ -16,8 +16,8 @@ public static double Distance(Point point1, Point point2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point1 | Point | Первая точка. |
-| point2 | Point | Вторая точка. |
+| point1 | Точка | Первая точка. |
+| point2 | Точка | Вторая точка. |
 
 ### Возвращаемое значение
 
@@ -25,6 +25,8 @@ public static double Distance(Point point1, Point point2)
 
 ### См. также
 
-* класс [Point](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

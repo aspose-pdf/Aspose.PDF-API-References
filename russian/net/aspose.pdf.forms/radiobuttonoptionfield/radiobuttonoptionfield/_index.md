@@ -1,14 +1,14 @@
 ---
-title: RadioButtonOptionField.RadioButtonOptionField
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор RadioButtonOptionField. Создайте новый экземпляр RadioButtonOptionField
+title: "RadioButtonOptionField.RadioButtonOptionField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор RadioButtonOptionField. Создает новый экземпляр RadioButtonOptionField"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/radiobuttonoptionfield/radiobuttonoptionfield/
 ---
 ## RadioButtonOptionField() {#constructor}
 
-Создайте новый экземпляр RadioButtonOptionField.
+Создать новый экземпляр RadioButtonOptionField.
 
 ```csharp
 public RadioButtonOptionField()
@@ -16,15 +16,15 @@ public RadioButtonOptionField()
 
 ### См. также
 
-* класс [RadioButtonOptionField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [RadioButtonOptionField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## RadioButtonOptionField(Page, Rectangle) {#constructor_1}
 
-Создает радиокнопку в указанном прямоугольнике на указанной странице.
+Создает радиокнопку в указанном прямоугольнике на заданной странице.
 
 ```csharp
 public RadioButtonOptionField(Page page, Rectangle rect)
@@ -32,13 +32,15 @@ public RadioButtonOptionField(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которой будет размещена радиокнопка; |
-| rect | Rectangle | Прямоугольник радиокнопки. |
+| страница | Страница | Страница, на которой будет размещён RadioButton; |
+| rect | Rectangle | Прямоугольник RadioButton. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [RadioButtonOptionField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RadioButtonOptionField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class ImportDataAction
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.ImportDataAction. При вызове действия импорта данных формат данных FDF будет импортирован в интерактивную форму документа из указанного файла
+title: "Класс ImportDataAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.ImportDataAction class. При вызове действия importdata данные формата Forms Data Format FDF должны быть импортированы в интерактивную форму документа из указанного файла"
 type: docs
-weight: 1910
+weight: 2000
 url: /ru/net/aspose.pdf.annotations/importdataaction/
 ---
-## Класс ImportDataAction
+## ImportDataAction class
 
-При вызове действия импорта данных формат данных (FDF) будет импортирован в интерактивную форму документа из указанного файла.
+При вызове действия import-data данные формата Forms Data Format (FDF) должны быть импортированы в интерактивную форму document из указанного файла.
 
 ```csharp
 public class ImportDataAction : PdfAction
@@ -18,7 +18,7 @@ public class ImportDataAction : PdfAction
 
 | Имя | Описание |
 | --- | --- |
-| [Data](../../aspose.pdf.annotations/importdataaction/data/) { get; set; } | FDF файл, из которого будут импортированы данные. |
+| [Data](../../aspose.pdf.annotations/importdataaction/data/) { get; set; } | FDF‑файл, из которого импортировать данные. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Следующие действия в последовательности. |
 
 ## Методы
@@ -29,6 +29,8 @@ public class ImportDataAction : PdfAction
 
 ### См. также
 
-* класс [PdfAction](../pdfaction/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.Yellow
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFFFF00
+title: "Color.Yellow"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Color property. Возвращает системный цвет с ARGB‑значением c FFFFFF00"
 type: docs
 weight: 1410
 url: /ru/net/aspose.pdf/color/yellow/
 ---
-## Свойство Color.Yellow
+## Color.Yellow property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFFFF00.
+Получает системно определённый цвет, значение ARGB которого \c \#FFFFFF00.
 
 ```csharp
 public static Color Yellow { get; }
@@ -16,10 +16,12 @@ public static Color Yellow { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

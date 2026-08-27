@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormEditor. Установите флаги отправки кнопок отправки
+title: "FormEditor.SubmitFlag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormEditor. Устанавливает флаги отправки кнопок"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/formeditor/submitflag/
 ---
-## Свойство FormEditor.SubmitFlag
+## FormEditor.SubmitFlag property
 
-Установите флаги отправки кнопки отправки
+Установить флаги отправки кнопки submit
 
 ```csharp
 public SubmitFormFlag SubmitFlag { get; set; }
@@ -20,3 +20,5 @@ public SubmitFormFlag SubmitFlag { get; set; }
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

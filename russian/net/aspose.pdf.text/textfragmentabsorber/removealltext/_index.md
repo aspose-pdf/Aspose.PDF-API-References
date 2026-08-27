@@ -1,7 +1,7 @@
 ---
-title: TextFragmentAbsorber.RemoveAllText
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextFragmentAbsorber. Удаляет весь текст с указанной страницы
+title: "TextFragmentAbsorber.RemoveAllText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextFragmentAbsorber. Удаляет весь текст с указанной страницы."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.text/textfragmentabsorber/removealltext/
@@ -16,20 +16,20 @@ public void RemoveAllText(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы PDF документа. |
+| страница | Страница | Объект страницы PDF‑документа. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [TextFragmentAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## RemoveAllText(Page, Rectangle) {#removealltext_2}
 
-Удаляет текст внутри указанного прямоугольника с указанной страницы.
+Удаляет текст внутри указанного прямоугольника на указанной странице.
 
 ```csharp
 public void RemoveAllText(Page page, Rectangle rect)
@@ -37,16 +37,16 @@ public void RemoveAllText(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы PDF документа. |
+| страница | Страница | Объект страницы PDF‑документа. |
 | rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle/) для удаления текста внутри. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [TextFragmentAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,11 +60,13 @@ public void RemoveAllText(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Объект PDF документа. |
+| документ | Document | Объект PDF‑документа. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [TextFragmentAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

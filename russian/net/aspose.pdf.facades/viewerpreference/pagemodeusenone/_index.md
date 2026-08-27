@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageModeUseNone
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Ни контур документа, ни миниатюры изображений не видны
+title: "ViewerPreference.PageModeUseNone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ViewerPreference. Ни контур документа, ни миниатюры изображений не видимы"
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.facades/viewerpreference/pagemodeusenone/
 ---
-## Поле ViewerPreference.PageModeUseNone
+## ViewerPreference.PageModeUseNone field
 
-Ни контур документа, ни миниатюры изображений не видны
+Не отображаются ни оглавление документа, ни миниатюры.
 
 ```csharp
 public const int PageModeUseNone;
@@ -16,6 +16,8 @@ public const int PageModeUseNone;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

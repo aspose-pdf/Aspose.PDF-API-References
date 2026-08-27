@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfExtractor. Сохраняет вложение в файл
+title: "PdfExtractor.GetAttachment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfExtractor. Сохраняет вложение в файл"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/pdfextractor/getattachment/
@@ -16,13 +16,13 @@ public void GetAttachment(string outputPath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputPath | String | Путь к директории, где будут храниться вложения. Null или пустая строка означает, что вложения будут помещены в директорию приложения. |
+| outputPath | String | Путь к каталогу, где будут сохраняться вложения. Null или пустая строка означают, что вложения будут размещены в каталоге приложения. |
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,7 +36,7 @@ public MemoryStream[] GetAttachment()
 
 ### Возвращаемое значение
 
-Массив потоков файла вложения в документе pdf.
+Массив потока файла вложения в PDF‑документе.
 
 ## Примеры
 
@@ -92,6 +92,8 @@ for(Integer i = 0 i<tempStreams.Length i++)
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

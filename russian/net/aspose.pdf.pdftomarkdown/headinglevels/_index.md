@@ -1,7 +1,7 @@
 ---
-title: Class HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfToMarkdown.HeadingLevels класс. Представляет класс для работы с уровнями заголовков на основе размера шрифта
+title: "Класс HeadingLevels"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.PdfToMarkdown.HeadingLevels класс. Представляет класс для работы с уровнями заголовков на основе размера шрифта"
 type: docs
 weight: 8440
 url: /ru/net/aspose.pdf.pdftomarkdown/headinglevels/
@@ -14,26 +14,28 @@ url: /ru/net/aspose.pdf.pdftomarkdown/headinglevels/
 public class HeadingLevels
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [HeadingLevels](headinglevels/#constructor)() | Создает новый экземпляр класса HeadingLevels. |
-| [HeadingLevels](headinglevels/#constructor_1)(double) | Создает новый экземпляр класса HeadingLevels. |
+| [HeadingLevels](headinglevels/#constructor)() | Создаёт новый экземпляр класса HeadingLevels. |
+| [HeadingLevels](headinglevels/#constructor_1)(double) | Создаёт новый экземпляр класса HeadingLevels. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [AllLevels](../../aspose.pdf.pdftomarkdown/headinglevels/alllevels/) { get; } | Получает все уровни заголовков. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [AddLevels](../../aspose.pdf.pdftomarkdown/headinglevels/addlevels/)(ICollection&lt;double&gt;) | Добавляет уровни заголовков. Коллекция размеров шрифта должна быть отсортирована по убыванию. |
+| [AddLevels](../../aspose.pdf.pdftomarkdown/headinglevels/addlevels/)(ICollection&lt;double&gt;) | Добавляет уровни заголовков. Коллекция размеров шрифтов должна быть отсортирована по убыванию. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../)
+
+

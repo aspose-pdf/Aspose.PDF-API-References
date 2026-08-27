@@ -1,12 +1,12 @@
 ---
-title: AttributeName.AttributeKey
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AttributeName. Получает ключ атрибута
+title: "AttributeName.AttributeKey"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName свойство. Возвращает ключ атрибута"
 type: docs
 weight: 680
 url: /ru/net/aspose.pdf.logicalstructure/attributename/attributekey/
 ---
-## Свойство AttributeName.AttributeKey
+## AttributeName.AttributeKey property
 
 Получает ключ атрибута.
 
@@ -16,7 +16,9 @@ public AttributeKey AttributeKey { get; }
 
 ### См. также
 
-* класс [AttributeKey](../../attributekey/)
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../../attributekey/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

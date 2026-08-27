@@ -1,7 +1,7 @@
 ---
-title: CosPdfString.CosPdfString
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CosPdfString. Инициализирует новый экземпляр класса CosPdfString
+title: "CosPdfString.CosPdfString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CosPdfString. Инициализирует новый экземпляр класса CosPdfString."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.dataeditor/cospdfstring/cospdfstring/
@@ -16,13 +16,13 @@ public CosPdfString(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение. |
+| значение | String | Значение. |
 
 ### См. также
 
-* класс [CosPdfString](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,11 +36,13 @@ public CosPdfString(string value, bool isHexadecimal)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Строка. |
-| isHexadecimal | Boolean | если установлено в `true` [является шестнадцатеричным]. |
+| значение | String | Строка. |
+| isHexadecimal | Boolean | если установлено `true` [является шестнадцатеричным]. |
 
 ### См. также
 
-* класс [CosPdfString](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

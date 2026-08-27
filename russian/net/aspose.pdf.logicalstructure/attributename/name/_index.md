@@ -1,12 +1,12 @@
 ---
-title: AttributeName.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AttributeName. Получает значение имени атрибута
+title: "AttributeName.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName свойство. Возвращает значение имени атрибута"
 type: docs
 weight: 690
 url: /ru/net/aspose.pdf.logicalstructure/attributename/name/
 ---
-## Свойство AttributeName.Name
+## AttributeName.Name property
 
 Получает значение имени атрибута.
 
@@ -16,6 +16,8 @@ public string Name { get; }
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

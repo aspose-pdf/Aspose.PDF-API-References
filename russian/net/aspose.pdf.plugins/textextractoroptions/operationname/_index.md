@@ -1,14 +1,14 @@
 ---
-title: TextExtractorOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextExtractorOptions. Возвращает имя операции
+title: "TextExtractorOptions.OperationName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextExtractorOptions. Возвращает имя операции"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/textextractoroptions/operationname/
 ---
-## Свойство TextExtractorOptions.OperationName
+## TextExtractorOptions.OperationName property
 
-Возвращает имя операции.
+Возвращает название операции.
 
 ```csharp
 public override string OperationName { get; }
@@ -16,6 +16,8 @@ public override string OperationName { get; }
 
 ### См. также
 
-* класс [TextExtractorOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TextExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

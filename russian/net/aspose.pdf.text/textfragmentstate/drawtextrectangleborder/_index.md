@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.DrawTextRectangleBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentState. Получает или устанавливает флаг рисования границы текстового прямоугольника
+title: "TextFragmentState.DrawTextRectangleBorder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentState. Получает или задает флаг отрисовки границы прямоугольника текста."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/textfragmentstate/drawtextrectangleborder/
 ---
-## Свойство TextFragmentState.DrawTextRectangleBorder
+## TextFragmentState.DrawTextRectangleBorder property
 
-Получает или устанавливает флаг рисования границы текстового прямоугольника.
+Получает или задает флаг отрисовки границы прямоугольника текста.
 
 ```csharp
 public bool DrawTextRectangleBorder { get; set; }
@@ -16,6 +16,8 @@ public bool DrawTextRectangleBorder { get; set; }
 
 ### См. также
 
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

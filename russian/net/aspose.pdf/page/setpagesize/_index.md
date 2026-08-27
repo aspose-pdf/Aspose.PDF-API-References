@@ -1,12 +1,12 @@
 ---
-title: Page.SetPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Устанавливает размер страницы для страницы
+title: "Page.SetPageSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Устанавливает размер страницы."
 type: docs
 weight: 540
 url: /ru/net/aspose.pdf/page/setpagesize/
 ---
-## Метод Page.SetPageSize
+## Page.SetPageSize method
 
 Устанавливает размер страницы для страницы.
 
@@ -21,6 +21,8 @@ public void SetPageSize(double width, double height)
 
 ### См. также
 
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

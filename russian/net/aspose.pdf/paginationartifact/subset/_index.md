@@ -1,14 +1,14 @@
 ---
-title: PaginationArtifact.Subset
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PaginationArtifact. Получает или устанавливает подмножество страниц, к которым применяется артефакт, например, все страницы, четные страницы, нечетные страницы
+title: "PaginationArtifact.Subset"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PaginationArtifact. Получает или задает подмножество страниц, к которым применяется артефакт, например, все страницы, чётные страницы, нечётные страницы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/paginationartifact/subset/
 ---
-## Свойство PaginationArtifact.Subset
+## PaginationArtifact.Subset property
 
-Получает или устанавливает подмножество страниц, к которым применяется артефакт (например, все страницы, четные страницы, нечетные страницы).
+Получает или задает подмножество страниц, к которым применяется артефакт (например, все страницы, четные страницы, нечетные страницы).
 
 ```csharp
 public Subset Subset { get; set; }
@@ -20,3 +20,5 @@ public Subset Subset { get; set; }
 * class [PaginationArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

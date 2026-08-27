@@ -1,14 +1,14 @@
 ---
-title: ColorBarAnnotation.ColorBarAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ColorBarAnnotation. Создает новую аннотацию ColorBar на указанной странице
+title: "ColorBarAnnotation.ColorBarAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ColorBarAnnotation. Создаёт новую аннотацию ColorBar на указанной page."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/colorbarannotation/colorbarannotation/
 ---
-## Конструктор ColorBarAnnotation
+## ColorBarAnnotation constructor
 
-Создает новую аннотацию ColorBar на указанной странице.
+Создаёт новую аннотацию ColorBar на указанной странице.
 
 ```csharp
 public ColorBarAnnotation(Page page, Rectangle rect, ColorsOfCMYK colorOfCMYK = ColorsOfCMYK.Black)
@@ -16,15 +16,17 @@ public ColorBarAnnotation(Page page, Rectangle rect, ColorsOfCMYK colorOfCMYK = 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница документа, на которой должна быть создана аннотация. |
-| rect | Rectangle | Обязательный прямоугольник, который задает область рисования аннотации. |
+| страница | Страница | Document page, где должна быть создана аннотация. |
+| rect | Rectangle | Необходимый Rectangle, задающий область рисования аннотации. |
 | colorOfCMYK | ColorsOfCMYK | Цвет, для которого рисуется аннотация. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* перечисление [ColorsOfCMYK](../../colorsofcmyk/)
-* класс [ColorBarAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* enum [ColorsOfCMYK](../../colorsofcmyk/)
+* class [ColorBarAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

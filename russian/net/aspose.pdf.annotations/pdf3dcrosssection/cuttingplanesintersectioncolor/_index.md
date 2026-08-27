@@ -1,26 +1,28 @@
 ---
-title: PDF3DCrossSection.CuttingPlanesIntersectionColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DCrossSection. Получает или задает цвет пересечения сечений
+title: "PDF3DCrossSection.CuttingPlanesIntersectionColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DCrossSection. Возвращает или задает color пересечения плоскостей среза"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplanesintersectioncolor/
 ---
-## Свойство PDF3DCrossSection.CuttingPlanesIntersectionColor
+## PDF3DCrossSection.CuttingPlanesIntersectionColor property
 
-Получает или задает цвет пересечения сечений.
+Получает или задает цвет пересечения плоскостей среза.
 
 ```csharp
 public Color CuttingPlanesIntersectionColor { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Цвет пересечения сечений.
+Color пересечения плоскостей среза.
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [PDF3DCrossSection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

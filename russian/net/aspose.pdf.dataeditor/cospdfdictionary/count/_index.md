@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CosPdfDictionary. Получает количество элементов, содержащихся в CosPdfDictionary
+title: "CosPdfDictionary.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CosPdfDictionary. Возвращает количество элементов, содержащихся в CosPdfDictionary"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.dataeditor/cospdfdictionary/count/
 ---
-## Свойство CosPdfDictionary.Count
+## CosPdfDictionary.Count property
 
-Получает количество элементов, содержащихся в [`CosPdfDictionary`](../).
+Возвращает количество элементов, содержащихся в [`CosPdfDictionary`](../).
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [CosPdfDictionary](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

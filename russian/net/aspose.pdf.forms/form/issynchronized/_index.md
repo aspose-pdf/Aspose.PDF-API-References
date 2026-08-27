@@ -1,12 +1,12 @@
 ---
-title: Form.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Form. Возвращает true, если объект потокобезопасен
+title: "Form.IsSynchronized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Возвращает true, если объект является потокобезопасным."
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.pdf.forms/form/issynchronized/
 ---
-## Свойство Form.IsSynchronized
+## Form.IsSynchronized property
 
 Возвращает true, если объект потокобезопасен.
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

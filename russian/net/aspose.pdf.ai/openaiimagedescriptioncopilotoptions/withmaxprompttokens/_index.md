@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Устанавливает максимальное количество токенов запроса для параметров копилота описания изображения
+title: "OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIImageDescriptionCopilotOptions. Устанавливает максимальное количество токенов подсказки для параметров копилота описания изображения."
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmaxprompttokens/
 ---
-## Метод OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens
+## OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens method
 
-Устанавливает максимальное количество токенов запроса для параметров копилота описания изображения.
+Задаёт максимальное количество токенов подсказки для параметров копилота описания изображения.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
@@ -16,7 +16,7 @@ public OpenAIImageDescriptionCopilotOptions WithMaxPromptTokens(int? maxPromptTo
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| maxPromptTokens | Nullable`1 | Максимальное количество токенов запроса для установки. |
+| maxPromptTokens | Nullable`1 | Максимальное количество токенов подсказки для установки. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public OpenAIImageDescriptionCopilotOptions WithMaxPromptTokens(int? maxPromptTo
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

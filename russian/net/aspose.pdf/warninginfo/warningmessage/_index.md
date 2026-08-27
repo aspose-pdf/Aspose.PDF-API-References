@@ -1,12 +1,12 @@
 ---
-title: WarningInfo.WarningMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство WarningInfo. Возвращает строковое представление сообщения предупреждения
+title: "WarningInfo.WarningMessage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство WarningInfo. Возвращает строковое представление сообщения предупреждения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/warninginfo/warningmessage/
 ---
-## Свойство WarningInfo.WarningMessage
+## WarningInfo.WarningMessage property
 
 Возвращает строковое представление сообщения предупреждения.
 
@@ -20,6 +20,8 @@ public string WarningMessage { get; }
 
 ### См. также
 
-* класс [WarningInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [WarningInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

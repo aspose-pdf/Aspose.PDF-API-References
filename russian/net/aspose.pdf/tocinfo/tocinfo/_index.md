@@ -1,12 +1,12 @@
 ---
-title: TocInfo.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TocInfo. Инициализирует новый экземпляр класса TocInfo
+title: "TocInfo.TocInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TocInfo. Инициализирует новый экземпляр класса TocInfo"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/tocinfo/tocinfo/
 ---
-## Конструктор TocInfo
+## TocInfo constructor
 
 Инициализирует новый экземпляр класса [`TocInfo`](../).
 
@@ -16,6 +16,8 @@ public TocInfo()
 
 ### См. также
 
-* класс [TocInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

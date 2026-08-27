@@ -1,16 +1,16 @@
 ---
-title: StructureTypeStandard.BibEntry
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Запись библиографии Ссылка, идентифицирующая внешний источник некоторого цитируемого контента. Она может содержать структуру метки типа Lbl в качестве дочернего элемента
+title: "StructureTypeStandard.BibEntry"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeStandard. Запись библиографии. Ссылка, идентифицирующая внешний источник некоторого цитируемого содержания. Может содержать дочерний элемент типа структуры Lbl."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/bibentry/
 ---
-## Поле StructureTypeStandard.BibEntry
+## StructureTypeStandard.BibEntry field
 
-(Запись библиографии) Ссылка, идентифицирующая внешний источник некоторого цитируемого контента. Она может содержать метку (структура типа Lbl) в качестве дочернего элемента.
+(Bibliography entry) Ссылка, идентифицирующая внешний источник некоторого цитируемого содержания. Она может содержать метку (тип структуры Lbl) как дочерний элемент.
 
-Хотя запись библиографии, вероятно, будет включать составные части, идентифицирующие автора, работу, издателя и так далее, на этом уровне детализации стандартные типы структур не определены.
+Хотя запись библиографии, вероятно, будет включать составные части, идентифицирующие автора, работу, издателя и т.д. цитируемого содержания, на этом уровне детализации стандартные типы структуры не определены.
 
 ```csharp
 public static readonly StructureTypeStandard BibEntry;
@@ -18,6 +18,8 @@ public static readonly StructureTypeStandard BibEntry;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

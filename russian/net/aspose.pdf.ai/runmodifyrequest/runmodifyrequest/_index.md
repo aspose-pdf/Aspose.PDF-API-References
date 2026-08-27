@@ -1,12 +1,12 @@
 ---
-title: RunModifyRequest.RunModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор RunModifyRequest. Конструктор по умолчанию
+title: "RunModifyRequest.RunModifyRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор RunModifyRequest. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/runmodifyrequest/runmodifyrequest/
 ---
-## Конструктор RunModifyRequest
+## RunModifyRequest constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public RunModifyRequest()
 
 ### См. также
 
-* класс [RunModifyRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

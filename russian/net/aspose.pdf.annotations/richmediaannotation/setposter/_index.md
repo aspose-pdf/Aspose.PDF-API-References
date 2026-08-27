@@ -1,12 +1,12 @@
 ---
-title: RichMediaAnnotation.SetPoster
-second_title: Aspose.PDF for .NET API Reference
-description: Метод RichMediaAnnotation. Установить постер аннотации
+title: "RichMediaAnnotation.SetPoster"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод RichMediaAnnotation. Устанавливает постер аннотации"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.annotations/richmediaannotation/setposter/
 ---
-## Метод RichMediaAnnotation.SetPoster
+## RichMediaAnnotation.SetPoster method
 
 Установить постер аннотации.
 
@@ -20,6 +20,8 @@ public void SetPoster(Stream imageStream)
 
 ### См. также
 
-* класс [RichMediaAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

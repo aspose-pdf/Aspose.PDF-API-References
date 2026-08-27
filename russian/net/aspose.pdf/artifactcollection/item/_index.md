@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ArtifactCollection. Получает артефакт по индексу. Индекс начинается с 1
+title: "ArtifactCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ArtifactCollection. Получает артефакт по индексу. Индекс начинается с 1"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/artifactcollection/item/
 ---
-## Индексатор ArtifactCollection
+## ArtifactCollection indexer
 
 Получает артефакт по индексу. Индекс начинается с 1.
 
@@ -24,7 +24,9 @@ public Artifact this[int index] { get; }
 
 ### См. также
 
-* класс [Artifact](../../artifact/)
-* класс [ArtifactCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.PageLayoutOption
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlLoadOptions. Получает или задает опцию макета
+title: "HtmlLoadOptions.PageLayoutOption"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HtmlLoadOptions свойство. Получает или задает параметр компоновки"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/htmlloadoptions/pagelayoutoption/
 ---
-## Свойство HtmlLoadOptions.PageLayoutOption
+## HtmlLoadOptions.PageLayoutOption property
 
-Получает или задает опцию макета.
+Получает или задает параметр макета.
 
 ```csharp
 public HtmlPageLayoutOption PageLayoutOption { get; set; }
@@ -20,3 +20,5 @@ public HtmlPageLayoutOption PageLayoutOption { get; set; }
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

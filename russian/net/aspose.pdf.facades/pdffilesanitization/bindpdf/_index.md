@@ -1,14 +1,14 @@
 ---
-title: PdfFileSanitization.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSanitization. Привязывает Pdf файл для очистки
+title: "PdfFileSanitization.BindPdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSanitization. Привязывает PDF‑файл для очистки"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdffilesanitization/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Привязывает Pdf файл для очистки.
+Привязывает файл Pdf для очистки.
 
 ```csharp
 public override void BindPdf(string inputFile)
@@ -16,19 +16,19 @@ public override void BindPdf(string inputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Pdf файл, который нужно отредактировать. |
+| inputFile | String | PDF‑файл, который будет отредактирован. |
 
 ### См. также
 
-* класс [PdfFileSanitization](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Привязывает Pdf поток для очистки.
+Привязывает поток Pdf для очистки.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -36,13 +36,13 @@ public override void BindPdf(Stream inputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Pdf поток, который нужно отредактировать. |
+| inputStream | Stream | PDF‑поток, который будет отредактирован. |
 
 ### См. также
 
-* класс [PdfFileSanitization](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,7 +60,9 @@ public override void BindPdf(Document srcDoc)
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PdfFileSanitization](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

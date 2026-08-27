@@ -1,14 +1,14 @@
 ---
-title: Class PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PageNumber. Представляет формат номера страницы, который включает индекс, общее количество страниц и разделитель
+title: "Класс PageNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.PageNumber. Представляет формат номера страницы, который включает индекс, общее количество страниц и разделитель."
 type: docs
-weight: 8200
+weight: 8340
 url: /ru/net/aspose.pdf/pagenumber/
 ---
-## Класс PageNumber
+## PageNumber class
 
-Представляет формат номера страницы, который включает индекс, общее количество страниц и разделитель.
+Представляет формат номера страницы, включающий индекс, общее количество страниц и разделитель.
 
 ```csharp
 public sealed class PageNumber
@@ -16,28 +16,28 @@ public sealed class PageNumber
 
 ## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [PageNumber](pagenumber/)() | Конструктор по умолчанию. |
 
 ## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [Delimiter](../../aspose.pdf/pagenumber/delimiter/) { get; set; } | Получает или задает разделитель, используемый в формате номера страницы. Форматированная строка будет обновлена на основе указанного разделителя. |
-| [Index](../../aspose.pdf/pagenumber/index/) { get; set; } | Получает или задает компонент индекса страницы формата номера страницы. Форматированная строка будет включать заполнитель для индекса страницы. |
+| [Delimiter](../../aspose.pdf/pagenumber/delimiter/) { get; set; } | Получает или задает разделитель, используемый в формате номера страницы. Форматированная строка будет обновлена в соответствии с указанным разделителем. |
+| [Index](../../aspose.pdf/pagenumber/index/) { get; set; } | Получает или задает компонент индекса страницы в формате номера страницы. Форматированная строка будет содержать заполнитель для индекса страницы. |
 | [Offset](../../aspose.pdf/pagenumber/offset/) { get; set; } | Получает или задает смещение, которое будет добавлено к индексу страницы. |
-| [TotalNum](../../aspose.pdf/pagenumber/totalnum/) { get; set; } | Получает или задает компонент общего количества страниц формата номера страницы. Форматированная строка будет включать заполнитель для общего количества страниц. |
+| [TotalNum](../../aspose.pdf/pagenumber/totalnum/) { get; set; } | Получает или задает компонент общего количества страниц в формате номера страницы. Форматированная строка будет содержать заполнитель для общего количества страниц. |
 
 ## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [GetPageNumberString](../../aspose.pdf/pagenumber/getpagenumberstring/)(int, int) | Возвращает форматированную строку, представляющую номер страницы на основе текущих настроек. |
 
 ## Другие члены
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | class [PageIndex](../../aspose.pdf/pagenumber.pageindex) | Представляет компонент индекса страницы в формате номера страницы. |
 | class [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum) | Представляет компонент общего количества страниц в формате номера страницы. |
@@ -46,3 +46,5 @@ public sealed class PageNumber
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

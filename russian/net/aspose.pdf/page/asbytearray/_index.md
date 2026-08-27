@@ -1,14 +1,14 @@
 ---
-title: Page.AsByteArray
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Преобразует текущую страницу в растровое изображение и затем возвращает массив байтов
+title: "Page.AsByteArray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Преобразует текущую страницу в bitmap и затем возвращает массив байтов"
 type: docs
 weight: 370
 url: /ru/net/aspose.pdf/page/asbytearray/
 ---
-## Метод Page.AsByteArray
+## Page.AsByteArray method
 
-Преобразует текущую страницу в растровое изображение и затем возвращает массив байтов.
+Преобразует текущую страницу в bitmap и затем возвращает массив байтов.
 
 ```csharp
 public byte[] AsByteArray(Resolution resolution)
@@ -16,7 +16,7 @@ public byte[] AsByteArray(Resolution resolution)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| resolution | Resolution | Разрешение. |
+| resolution | Разрешение | Разрешение. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public byte[] AsByteArray(Resolution resolution)
 
 ### См. также
 
-* класс [Resolution](../../../aspose.pdf.devices/resolution/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.ConversionLog
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileEditor. Получает журнал процесса конвертации
+title: "PdfFileEditor.ConversionLog"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileEditor свойство. Получает журнал процесса конвертации"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/pdffileeditor/conversionlog/
 ---
-## Свойство PdfFileEditor.ConversionLog
+## PdfFileEditor.ConversionLog property
 
 Получает журнал процесса конвертации.
 
@@ -16,6 +16,8 @@ public string ConversionLog { get; }
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

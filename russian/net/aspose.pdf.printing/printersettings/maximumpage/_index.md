@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.MaximumPage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PrinterSettings. Получает или устанавливает наивысший FromPage или ToPage, который может быть выбран в диалоговом окне печати
+title: "PrinterSettings.MaximumPage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PrinterSettings. Получает или задает наибольшее значение FromPage или ToPage, которое может быть выбрано в диалоговом окне печати"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.printing/printersettings/maximumpage/
 ---
-## Свойство PrinterSettings.MaximumPage
+## PrinterSettings.MaximumPage property
 
-Получает или устанавливает наивысший [`FromPage`](../frompage/) или [`ToPage`](../topage/), который может быть выбран в диалоговом окне печати.
+Получает или задает наибольшее значение [`FromPage`](../frompage/) или [`ToPage`](../topage/), которое может быть выбрано в диалоговом окне печати.
 
 ```csharp
 public int MaximumPage { get; set; }
@@ -16,6 +16,8 @@ public int MaximumPage { get; set; }
 
 ### См. также
 
-* класс [PrinterSettings](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

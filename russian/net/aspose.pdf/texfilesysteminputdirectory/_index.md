@@ -1,12 +1,12 @@
 ---
-title: Class TeXFileSystemInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.TeXFileSystemInputDirectory. Реализует метод обычной файловой системы для получения потока файла для чтения
+title: "Класс TeXFileSystemInputDirectory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.TeXFileSystemInputDirectory. Реализует обычный метод файловой системы для получения потока файла для чтения."
 type: docs
-weight: 10340
+weight: 10520
 url: /ru/net/aspose.pdf/texfilesysteminputdirectory/
 ---
-## Класс TeXFileSystemInputDirectory
+## TeXFileSystemInputDirectory class
 
 Реализует метод обычной файловой системы для получения потока файла для чтения.
 
@@ -18,7 +18,7 @@ public class TeXFileSystemInputDirectory : ITeXInputDirectory
 
 | Имя | Описание |
 | --- | --- |
-| [TeXFileSystemInputDirectory](texfilesysteminputdirectory/)(string) | Создает новый экземпляр. |
+| [TeXFileSystemInputDirectory](texfilesysteminputdirectory/)(string) | Создаёт новый экземпляр. |
 
 ## Методы
 
@@ -27,8 +27,10 @@ public class TeXFileSystemInputDirectory : ITeXInputDirectory
 | virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | Освобождает экземпляр. |
 | [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | Возвращает поток для чтения. |
 
-### См. Также
+### См. также
 
-* интерфейс [ITeXInputDirectory](../itexinputdirectory/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* interface [ITeXInputDirectory](../itexinputdirectory/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

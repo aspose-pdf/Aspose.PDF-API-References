@@ -1,12 +1,12 @@
 ---
-title: AssistantCreateRequest.AssistantCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор AssistantCreateRequest. Конструктор по умолчанию
+title: "AssistantCreateRequest.AssistantCreateRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор AssistantCreateRequest. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/assistantcreaterequest/assistantcreaterequest/
 ---
-## Конструктор AssistantCreateRequest
+## AssistantCreateRequest constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public AssistantCreateRequest()
 
 ### См. также
 
-* класс [AssistantCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AssistantCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

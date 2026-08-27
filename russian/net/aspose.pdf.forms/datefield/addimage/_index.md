@@ -1,14 +1,14 @@
 ---
-title: DateField.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DateField. Добавление изображения для этого поля запрещено
+title: "DateField.AddImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DateField. Добавление изображения запрещено для этого поля"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/datefield/addimage/
 ---
-## Метод DateField.AddImage
+## DateField.AddImage method
 
-Добавление изображения для этого поля запрещено.
+Добавление изображения запрещено для этого поля.
 
 ```csharp
 public void AddImage(Image image)
@@ -16,7 +16,7 @@ public void AddImage(Image image)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Image | Изображение. |
+| image | Изображение | Изображение. |
 
 ### Исключения
 
@@ -26,7 +26,9 @@ public void AddImage(Image image)
 
 ### См. также
 
-* класс [Image](../../../aspose.pdf/image/)
-* класс [DateField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Image](../../../aspose.pdf/image/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

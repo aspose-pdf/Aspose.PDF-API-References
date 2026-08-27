@@ -1,12 +1,12 @@
 ---
-title: Class MarkupParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.MarkupParagraph. Представляет абзац
+title: "Класс MarkupParagraph"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.MarkupParagraph. Представляет абзац"
 type: docs
-weight: 10630
+weight: 10810
 url: /ru/net/aspose.pdf.text/markupparagraph/
 ---
-## Класс MarkupParagraph
+## MarkupParagraph class
 
 Представляет абзац.
 
@@ -18,14 +18,16 @@ public sealed class MarkupParagraph
 
 | Имя | Описание |
 | --- | --- |
-| [ContinuationPageNumbers](../../aspose.pdf.text/markupparagraph/continuationpagenumbers/) { get; } | Список номеров страниц, на которых продолжается абзац. Он будет совпадать со страницей, на которой начался абзац, если он продолжается в следующем столбце на той же странице. |
-| [Fragments](../../aspose.pdf.text/markupparagraph/fragments/) { get; } | Коллекция непустых [`TextFragment`](../textfragment/) объектов абзаца. |
-| [Lines](../../aspose.pdf.text/markupparagraph/lines/) { get; } | Строки абзаца. Каждая строка представлена списком текстовых фрагментов. |
-| [Points](../../aspose.pdf.text/markupparagraph/points/) { get; } | Точки многоугольника, описывающего абзац. Начальная точка — нижний левый угол абзаца. Следующие точки расположены в противочасовой последовательности. |
-| [SecondaryPoints](../../aspose.pdf.text/markupparagraph/secondarypoints/) { get; } | Точки вторичного многоугольника, описывающего продолжение абзаца. Она не будет равна null, если абзац продолжается в следующем столбце или на следующей странице. Начальная точка — нижний левый угол абзаца. Следующие точки расположены в противочасовой последовательности. |
+| [ContinuationPageNumbers](../../aspose.pdf.text/markupparagraph/continuationpagenumbers/) { get; } | Список номеров страниц, на которых продолжается абзац. Он будет совпадать со страницей, где абзац начался, если он продолжается в следующей колонке на той же странице. |
+| [Fragments](../../aspose.pdf.text/markupparagraph/fragments/) { get; } | Коллекция непустых объектов [`TextFragment`](../textfragment/) абзаца. |
+| [Lines](../../aspose.pdf.text/markupparagraph/lines/) { get; } | Строки абзаца. Каждая строка представлена списком фрагментов текста. |
+| [Points](../../aspose.pdf.text/markupparagraph/points/) { get; } | Точки многоугольника, описывающего абзац. Начальная точка — нижний левый угол абзаца. Последующие точки идут в порядке против часовой стрелки. |
+| [SecondaryPoints](../../aspose.pdf.text/markupparagraph/secondarypoints/) { get; } | Точки вторичного многоугольника, описывающего продолжение абзаца. Они не будут null, если абзац продолжается в следующей колонке или на странице. Начальная точка — нижний левый угол абзаца. Последующие точки идут в порядке против часовой стрелки. |
 | [Text](../../aspose.pdf.text/markupparagraph/text/) { get; set; } | Получает или задает текст абзаца. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

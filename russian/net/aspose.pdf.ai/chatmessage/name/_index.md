@@ -1,14 +1,14 @@
 ---
-title: ChatMessage.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ChatMessage. Получает или устанавливает необязательное имя участника. Предоставляет информацию модели для различения участников одной и той же роли
+title: "ChatMessage.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ChatMessage. Получает или задает необязательное имя участника. Предоставляет модели информацию для различения участников с одинаковой ролью."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/chatmessage/name/
 ---
-## Свойство ChatMessage.Name
+## ChatMessage.Name property
 
-Получает или устанавливает необязательное имя участника. Предоставляет информацию модели для различения участников одной и той же роли.
+Получает или задаёт необязательное имя участника. Предоставляет модели информацию для различения участников с одинаковой ролью.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [ChatMessage](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

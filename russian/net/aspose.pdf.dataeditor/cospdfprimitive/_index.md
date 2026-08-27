@@ -1,12 +1,12 @@
 ---
-title: Class CosPdfPrimitive
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.DataEditor.CosPdfPrimitive. Этот класс представляет базовый публичный тип CosPdfPrimitive
+title: "Класс CosPdfPrimitive"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.DataEditor.CosPdfPrimitive. Этот класс представляет базовый публичный тип CosPdfPrimitive"
 type: docs
-weight: 3450
+weight: 3570
 url: /ru/net/aspose.pdf.dataeditor/cospdfprimitive/
 ---
-## Класс CosPdfPrimitive
+## CosPdfPrimitive class
 
 Этот класс представляет базовый публичный тип `CosPdfPrimitive`.
 
@@ -16,7 +16,7 @@ public abstract class CosPdfPrimitive : ICosPdfPrimitive
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Пытается привести этот экземпляр к [`CosPdfBoolean`](../cospdfboolean/). |
 | virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Пытается привести этот экземпляр к [`CosPdfDictionary`](../cospdfdictionary/). |
@@ -26,6 +26,8 @@ public abstract class CosPdfPrimitive : ICosPdfPrimitive
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../icospdfprimitive/)
-* пространство имен [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../)
+* interface [ICosPdfPrimitive](../icospdfprimitive/)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../)
+
+

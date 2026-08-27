@@ -1,14 +1,14 @@
 ---
-title: Cell.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ячейки. Получает или устанавливает цвет фона
+title: "Cell.BackgroundColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Получает или задает цвет фона."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/cell/backgroundcolor/
 ---
-## Свойство Cell.BackgroundColor
+## Cell.BackgroundColor property
 
-Получает или устанавливает цвет фона.
+Получает или задает цвет фона.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### См. также
 
-* класс [Color](../../color/)
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../color/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

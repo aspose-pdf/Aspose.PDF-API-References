@@ -1,12 +1,12 @@
 ---
-title: EpubLoadOptions.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство EpubLoadOptions. Получает ссылку на объект, представляющий информацию о полях
+title: "EpubLoadOptions.Margin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство EpubLoadOptions. Возвращает ссылку на объект, представляющий информацию о полях."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/epubloadoptions/margin/
 ---
-## Свойство EpubLoadOptions.Margin
+## EpubLoadOptions.Margin property
 
 Получает ссылку на объект, представляющий информацию о полях.
 
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../../margininfo/)
-* класс [EpubLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [EpubLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

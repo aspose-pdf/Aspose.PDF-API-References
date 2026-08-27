@@ -1,12 +1,12 @@
 ---
-title: CompositingParameters.BlendMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompositingParameters. Получает режим смешивания текущего графического состояния
+title: "CompositingParameters.BlendMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CompositingParameters. Получает режим смешивания текущего графического состояния."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/compositingparameters/blendmode/
 ---
-## Свойство CompositingParameters.BlendMode
+## CompositingParameters.BlendMode property
 
 Получает режим смешивания текущего графического состояния.
 
@@ -20,3 +20,5 @@ public BlendMode BlendMode { get; }
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

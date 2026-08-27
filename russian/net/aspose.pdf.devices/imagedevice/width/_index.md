@@ -1,12 +1,12 @@
 ---
-title: ImageDevice.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageDevice. Получает ширину выходного изображения
+title: "ImageDevice.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageDevice. Получает ширину выходного изображения"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.devices/imagedevice/width/
 ---
-## Свойство ImageDevice.Width
+## ImageDevice.Width property
 
 Получает ширину выходного изображения.
 
@@ -16,6 +16,8 @@ public int Width { get; }
 
 ### См. также
 
-* класс [ImageDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Class RunStepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.RunStepDetails. Подробности шага выполнения
+title: "Класс RunStepDetails"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AI.RunStepDetails класс. Подробности шага выполнения."
 type: docs
-weight: 1030
+weight: 1110
 url: /ru/net/aspose.pdf.ai/runstepdetails/
 ---
 ## RunStepDetails class
@@ -14,21 +14,23 @@ url: /ru/net/aspose.pdf.ai/runstepdetails/
 public class RunStepDetails
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [RunStepDetails](runstepdetails/)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [MessageCreation](../../aspose.pdf.ai/runstepdetails/messagecreation/) { get; set; } | Получает или задает подробности создания сообщения. |
+| [MessageCreation](../../aspose.pdf.ai/runstepdetails/messagecreation/) { get; set; } | Получает или задает детали создания сообщения. |
 | [RunStepType](../../aspose.pdf.ai/runstepdetails/runsteptype/) { get; set; } | Получает или задает тип шага выполнения. |
-| [ToolCalls](../../aspose.pdf.ai/runstepdetails/toolcalls/) { get; set; } | Получает или задает подробности вызовов инструментов. |
+| [ToolCalls](../../aspose.pdf.ai/runstepdetails/toolcalls/) { get; set; } | Получает или задает детали вызовов инструмента. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

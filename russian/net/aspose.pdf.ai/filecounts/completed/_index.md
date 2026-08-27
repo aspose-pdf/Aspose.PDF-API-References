@@ -1,12 +1,12 @@
 ---
-title: FileCounts.Completed
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileCounts. Получает или задает количество файлов, которые были успешно обработаны
+title: "FileCounts.Completed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileCounts. Получает или задает количество файлов, которые были успешно обработаны"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/filecounts/completed/
 ---
-## Свойство FileCounts.Completed
+## FileCounts.Completed property
 
 Получает или задает количество файлов, которые были успешно обработаны.
 
@@ -16,6 +16,8 @@ public int Completed { get; set; }
 
 ### См. также
 
-* класс [FileCounts](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [FileCounts](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

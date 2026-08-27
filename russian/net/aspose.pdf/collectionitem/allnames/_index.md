@@ -1,14 +1,14 @@
 ---
-title: CollectionItem.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CollectionItem. Получает коллекцию всех имен значений элементов коллекции
+title: "CollectionItem.AllNames"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CollectionItem. Возвращает коллекцию всех имён значений элемента коллекции"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/collectionitem/allnames/
 ---
-## Свойство CollectionItem.AllNames
+## CollectionItem.AllNames property
 
-Получает коллекцию всех имен значений элементов коллекции.
+Получает коллекцию всех имён значений элементов коллекции.
 
 ```csharp
 public ICollection<string> AllNames { get; }
@@ -16,6 +16,8 @@ public ICollection<string> AllNames { get; }
 
 ### См. также
 
-* класс [CollectionItem](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CollectionItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

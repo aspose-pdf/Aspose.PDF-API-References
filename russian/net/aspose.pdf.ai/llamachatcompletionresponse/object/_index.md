@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaChatCompletionResponse. Получает или устанавливает тип объекта, который всегда chat.completion
+title: "LlamaChatCompletionResponse.Object"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaChatCompletionResponse. Получает или задает тип объекта, который всегда равен chat.completion"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/llamachatcompletionresponse/object/
 ---
-## Свойство LlamaChatCompletionResponse.Object
+## LlamaChatCompletionResponse.Object property
 
-Получает или устанавливает тип объекта, который всегда chat.completion.
+Получает или задает тип объекта, который всегда равен chat.completion.
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### См. также
 
-* класс [LlamaChatCompletionResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

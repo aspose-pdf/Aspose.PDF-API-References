@@ -1,14 +1,14 @@
 ---
-title: IChatCopilot.SaveResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IChatCopilot. Асинхронно сохраняет ответ для данного сообщения в PDF файл
+title: "IChatCopilot.SaveResponseAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IChatCopilot. Асинхронно сохраняет ответ для указанного сообщения в PDF‑файл."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/ichatcopilot/saveresponseasync/
 ---
 ## SaveResponseAsync(string, string, CancellationToken?) {#saveresponseasync_3}
 
-Асинхронно сохраняет ответ для данного сообщения в PDF файл.
+Асинхронно сохраняет ответ для указанного сообщения в файл PDF.
 
 ```csharp
 public Task SaveResponseAsync(string message, string outputFileName, 
@@ -17,8 +17,8 @@ public Task SaveResponseAsync(string message, string outputFileName,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Входящее сообщение, для которого сохраняется ответ. |
-| outputFileName | String | Имя выходного PDF файла для сохранения ответа. |
+| message | String | Входное сообщение, для которого сохраняется ответ. |
+| outputFileName | String | Имя выходного PDF‑файла для сохранения ответа. |
 | cancellationToken | Nullable`1 | Токен отмены (необязательно). |
 
 ### Возвращаемое значение
@@ -35,7 +35,7 @@ public Task SaveResponseAsync(string message, string outputFileName,
 
 ## SaveResponseAsync(string, string, SaveFormat, CancellationToken?) {#saveresponseasync_2}
 
-Асинхронно сохраняет ответ для данного сообщения в файл с указанным форматом.
+Асинхронно сохраняет ответ для указанного сообщения в файл указанного формата.
 
 ```csharp
 public Task SaveResponseAsync(string message, string outputFileName, SaveFormat saveFormat, 
@@ -44,9 +44,9 @@ public Task SaveResponseAsync(string message, string outputFileName, SaveFormat 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Входящее сообщение, для которого сохраняется ответ. |
+| message | String | Входное сообщение, для которого сохраняется ответ. |
 | outputFileName | String | Имя выходного файла для сохранения ответа. |
-| saveFormat | SaveFormat | Формат, в котором нужно сохранить ответ (PDF, если не указано). |
+| saveFormat | SaveFormat | Формат, в котором сохранять ответ (PDF, если не указано). |
 | cancellationToken | Nullable`1 | Токен отмены (необязательно). |
 
 ### Возвращаемое значение
@@ -64,7 +64,7 @@ public Task SaveResponseAsync(string message, string outputFileName, SaveFormat 
 
 ## SaveResponseAsync(List&lt;string&gt;, string, CancellationToken?) {#saveresponseasync_1}
 
-Асинхронно сохраняет ответы для данного списка сообщений в PDF файл.
+Асинхронно сохраняет ответы для указанного списка сообщений в файл PDF.
 
 ```csharp
 public Task SaveResponseAsync(List<string> messages, string outputFileName, 
@@ -73,8 +73,8 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| messages | List`1 | Список входящих сообщений, для которых сохраняются ответы. |
-| outputFileName | String | Имя выходного PDF файла для сохранения ответов. |
+| сообщения | List`1 | Список входных сообщений, для которых сохраняются ответы. |
+| outputFileName | String | Имя выходного PDF‑файла для сохранения ответов. |
 | cancellationToken | Nullable`1 | Токен отмены (необязательно). |
 
 ### Возвращаемое значение
@@ -91,7 +91,7 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName,
 
 ## SaveResponseAsync(List&lt;string&gt;, string, SaveFormat, CancellationToken?) {#saveresponseasync}
 
-Асинхронно сохраняет ответы для данного списка сообщений в файл с указанным форматом.
+Асинхронно сохраняет ответы для указанного списка сообщений в файл указанного формата.
 
 ```csharp
 public Task SaveResponseAsync(List<string> messages, string outputFileName, SaveFormat saveFormat, 
@@ -100,9 +100,9 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName, Save
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| messages | List`1 | Список входящих сообщений, для которых сохраняются ответы. |
+| сообщения | List`1 | Список входных сообщений, для которых сохраняются ответы. |
 | outputFileName | String | Имя выходного файла для сохранения ответов. |
-| saveFormat | SaveFormat | Формат, в котором нужно сохранить ответы (PDF, если не указано). |
+| saveFormat | SaveFormat | Формат, в котором сохранять ответы (PDF, если не указано). |
 | cancellationToken | Nullable`1 | Токен отмены (необязательно). |
 
 ### Возвращаемое значение
@@ -115,3 +115,5 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName, Save
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum Form.SignDependentElementsRenderingModes
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FormSignDependentElementsRenderingModes библиотеки Aspose.Pdf. Формы могут содержать информацию о подписании и могут быть подписаны или неподписаны. Иногда отображение форм в просмотрщике должно зависеть от того, подписана форма или нет. Этот перечисляемый тип перечисляет возможные режимы рендеринга во время конвертации типа формы в отношении подписи.
+title: "Перечисление Form.SignDependentElementsRenderingModes"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Forms.FormSignDependentElementsRenderingModes. Формы могут содержать информацию о подписи и быть подписанными или неподписанными. Иногда отображение форм в просмотрщике должно зависеть от того, подписана форма или нет. Это перечисление задаёт возможные режимы отрисовки при конвертации типа формы с учётом подписи."
 type: docs
-weight: 5090
+weight: 5210
 url: /ru/net/aspose.pdf.forms/form.signdependentelementsrenderingmodes/
 ---
-## Перечисление Form.SignDependentElementsRenderingModes
+## Form.SignDependentElementsRenderingModes enumeration
 
-Формы могут содержать информацию о подписании и могут быть подписаны или неподписаны. Иногда отображение форм в просмотрщике должно зависеть от того, подписана форма или нет. Этот перечисляемый тип перечисляет возможные режимы рендеринга во время конвертации типа формы в отношении подписи.
+Формы могут содержать информацию о подписи и могут быть подписаны или не подписаны. Иногда отображение форм в просмотрщике должно зависеть от того, подписана форма или нет. Этот перечислимый тип перечисляет возможные режимы рендеринга при преобразовании типа формы с учётом подписи.
 
 ```csharp
 public enum SignDependentElementsRenderingModes
@@ -18,11 +18,13 @@ public enum SignDependentElementsRenderingModes
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| RenderFormAsUnsigned | `0` | Отображать форму как неподписанную. |
-| RenderFormAsSigned | `1` | Отображать форму как подписанную. |
+| RenderFormAsUnsigned | `0` | Отобразить форму как неподписанную. |
+| RenderFormAsSigned | `1` | Отобразить форму как подписанную. |
 
 ### См. также
 
-* класс [Form](../form/)
-* пространство имен [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../)
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

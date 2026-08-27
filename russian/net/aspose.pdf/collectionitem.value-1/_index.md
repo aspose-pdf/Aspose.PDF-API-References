@@ -1,9 +1,9 @@
 ---
-title: Class CollectionItem.ValueT
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.CollectionItemValue1T. Представляет класс для значения элемента коллекции
+title: "Класс CollectionItem.ValueT"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.CollectionItemValue1T класс. Представляет класс для значения элемента коллекции"
 type: docs
-weight: 3060
+weight: 3170
 url: /ru/net/aspose.pdf/collectionitem.value-1/
 ---
 ## CollectionItem.Value&lt;T&gt; class
@@ -14,19 +14,21 @@ url: /ru/net/aspose.pdf/collectionitem.value-1/
 public class Value<T>
 ```
 
-| Parameter | Description |
+| Параметр | Описание |
 | --- | --- |
 | T |  |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [Data](../../aspose.pdf/collectionitem.value-1/data) { get; } | Получает значение элемента коллекции. |
-| [Prefix](../../aspose.pdf/collectionitem.value-1/prefix) { get; } | Получает строку префикса, которая будет объединена с текстовой строкой, представленной пользователю. Эта запись игнорируется, когда интерактивный PDF процессор сортирует элементы в коллекции. По умолчанию: нет |
+| [Prefix](../../aspose.pdf/collectionitem.value-1/prefix) { get; } | Получает строку префикса, которая будет конкатенирована с текстовой строкой, представленной пользователю. Эта запись игнорируется, когда интерактивный PDF‑процессор сортирует элементы в коллекции. По умолчанию: нет |
 
-### See Also
+### См. также
 
 * class [CollectionItem](../collectionitem/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

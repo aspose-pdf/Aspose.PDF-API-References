@@ -1,12 +1,12 @@
 ---
-title: TocGenerator.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TocGenerator. Запускает обработку PdfGenerator с указанными параметрами
+title: "TocGenerator.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TocGenerator. Запускает обработку PdfGenerator с указанными параметрами."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/tocgenerator/process/
 ---
-## Метод TocGenerator.Process
+## TocGenerator.Process method
 
 Запускает обработку PdfGenerator с указанными параметрами.
 
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | IPluginOptions | Объект параметров, содержащий инструкции для PdfGenerator. |
+| options | IPluginOptions | Объект options содержит инструкции для PdfGenerator. |
 
 ### Возвращаемое значение
 
@@ -30,8 +30,10 @@ public ResultContainer Process(IPluginOptions options)
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* класс [TocGenerator](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [TocGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

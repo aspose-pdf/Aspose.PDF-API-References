@@ -1,25 +1,27 @@
 ---
-title: PDF3DCrossSection.Visibility
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DCrossSection. Получает или устанавливает значение, указывающее видимость пересечения сечений
+title: "PDF3DCrossSection.Visibility"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DCrossSection. Возвращает или задает значение, указывающее видимость пересечения плоскостей среза"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/pdf3dcrosssection/visibility/
 ---
-## Свойство PDF3DCrossSection.Visibility
+## PDF3DCrossSection.Visibility property
 
-Получает или устанавливает значение, указывающее видимость пересечения сечений.
+Получает или задает значение, указывающее видимость пересечения плоскостей среза.
 
 ```csharp
 public bool Visibility { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-`true`, если видно; в противном случае `false`.
+`true`, если видимо; иначе `false`.
 
 ### См. также
 
-* класс [PDF3DCrossSection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

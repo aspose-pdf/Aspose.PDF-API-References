@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.Flush
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OptimizedMemoryStream. Функция переопределена
+title: "OptimizedMemoryStream.Flush"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OptimizedMemoryStream. Переопределённая функция."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/optimizedmemorystream/flush/
 ---
-## Метод OptimizedMemoryStream.Flush
+## OptimizedMemoryStream.Flush method
 
 Функция переопределена.
 
@@ -16,6 +16,8 @@ public override void Flush()
 
 ### См. также
 
-* класс [OptimizedMemoryStream](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FontSourceCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FontSourceCollection. Получает объект, который можно использовать для синхронизации доступа к коллекции
+title: "FontSourceCollection.SyncRoot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FontSourceCollection. Возвращает объект, который может использоваться для синхронизации доступа к коллекции"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/fontsourcecollection/syncroot/
 ---
-## Свойство FontSourceCollection.SyncRoot
+## FontSourceCollection.SyncRoot property
 
-Получает объект, который можно использовать для синхронизации доступа к коллекции.
+Возвращает объект, который можно использовать для синхронизации доступа к коллекции.
 
 ```csharp
 public object SyncRoot { get; }
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### См. также
 
-* класс [FontSourceCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

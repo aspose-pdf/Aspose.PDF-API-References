@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.AssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OpenAIImageDescriptionCopilotOptions. Получает или устанавливает имя помощника
+title: "OpenAIImageDescriptionCopilotOptions.AssistantName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OpenAIImageDescriptionCopilotOptions. Получает или задает имя помощника."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/assistantname/
 ---
-## Свойство OpenAIImageDescriptionCopilotOptions.AssistantName
+## OpenAIImageDescriptionCopilotOptions.AssistantName property
 
-Получает или устанавливает имя помощника.
+Получает или задает имя помощника.
 
 ```csharp
 public string AssistantName { get; set; }
@@ -16,6 +16,8 @@ public string AssistantName { get; set; }
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

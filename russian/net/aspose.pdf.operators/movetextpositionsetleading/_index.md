@@ -1,14 +1,14 @@
 ---
-title: Class MoveTextPositionSetLeading
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.MoveTextPositionSetLeading. Класс, представляющий оператор TD, перемещающий позицию и устанавливающий интерлиньяж
+title: "Класс MoveTextPositionSetLeading"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.MoveTextPositionSetLeading class. Класс, представляющий оператор TD, перемещающий позицию и задающий межстрочный интервал"
 type: docs
-weight: 7490
+weight: 7630
 url: /ru/net/aspose.pdf.operators/movetextpositionsetleading/
 ---
-## Класс MoveTextPositionSetLeading
+## MoveTextPositionSetLeading class
 
-Класс, представляющий оператор TD (перемещение позиции и установка интерлиньяжа).
+Класс, представляющий оператор TD (перемещение позиции и установка межстрочного интервала).
 
 ```csharp
 public class MoveTextPositionSetLeading : TextPlaceOperator
@@ -32,12 +32,14 @@ public class MoveTextPositionSetLeading : TextPlaceOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [TextPlaceOperator](../textplaceoperator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

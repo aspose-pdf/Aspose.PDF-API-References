@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ITaggedContent. Получить настройки StructureTextState для всего документа
+title: "ITaggedContent.StructureTextState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ITaggedContent. Получить настройки StructureTextState для всего документа"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/structuretextstate/
 ---
-## Свойство ITaggedContent.StructureTextState
+## ITaggedContent.StructureTextState property
 
-Получить [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) настройки для всего документа.
+Получить настройки [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) для всего документа.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) настройки для всего документа.
+[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) settings for whole document.
 
 ### См. также
 
-* класс [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

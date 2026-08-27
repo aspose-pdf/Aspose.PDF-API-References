@@ -1,14 +1,14 @@
 ---
-title: Class TableCellBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.TableCellBuilder. Класс представляет собой строителя для ячейки таблицы
+title: "Класс TableCellBuilder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.TableCellBuilder. Класс представляет построитель для ячейки таблицы"
 type: docs
-weight: 9340
+weight: 9490
 url: /ru/net/aspose.pdf.plugins/tablecellbuilder/
 ---
-## Класс TableCellBuilder
+## TableCellBuilder class
 
-Класс представляет собой строителя для ячейки таблицы.
+Класс представляет построитель ячейки таблицы.
 
 ```csharp
 public class TableCellBuilder : TableRowBuilder
@@ -16,7 +16,7 @@ public class TableCellBuilder : TableRowBuilder
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | override [AddCell](../../aspose.pdf.plugins/tablecellbuilder/addcell/)() | Добавить ячейку в таблицу. |
 | [AddParagraph](../../aspose.pdf.plugins/tablecellbuilder/addparagraph/)(params BaseParagraph[]) | Добавить абзацы в ячейку таблицы. |
@@ -27,6 +27,8 @@ public class TableCellBuilder : TableRowBuilder
 
 ### См. также
 
-* класс [TableRowBuilder](../tablerowbuilder/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [TableRowBuilder](../tablerowbuilder/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

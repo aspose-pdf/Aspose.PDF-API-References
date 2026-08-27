@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPdfVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileInfo. Получает информацию о версии PDF документа
+title: "PdfFileInfo.GetPdfVersion"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileInfo. Получает информацию о версии PDF-документа"
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/pdffileinfo/getpdfversion/
 ---
-## Метод PdfFileInfo.GetPdfVersion
+## PdfFileInfo.GetPdfVersion method
 
-Получает информацию о версии PDF документа.
+Получает информацию о версии PDF Document.
 
 ```csharp
 public string GetPdfVersion()
@@ -20,6 +20,8 @@ public string GetPdfVersion()
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

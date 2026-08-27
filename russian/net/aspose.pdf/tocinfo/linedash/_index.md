@@ -1,14 +1,14 @@
 ---
-title: TocInfo.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TocInfo. Получает или задает штриховку линии TOC
+title: "TocInfo.LineDash"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TocInfo. Получает или задает тип штриха линии оглавления"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/tocinfo/linedash/
 ---
-## Свойство TocInfo.LineDash
+## TocInfo.LineDash property
 
-Получает или задает штриховку линии TOC.
+Получает или задаёт штриховку линии оглавления.
 
 ```csharp
 public TabLeaderType LineDash { get; set; }
@@ -20,3 +20,5 @@ public TabLeaderType LineDash { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultFieldNamespacePrefix
-second_title: Aspose.PDF for .NET API Reference
-description: Поле XmpPdfAExtensionSchema. Префикс пространства имен по умолчанию для поля
+title: "XmpPdfAExtensionSchema.DefaultFieldNamespacePrefix"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле XmpPdfAExtensionSchema. Префикс пространства имён поля по умолчанию"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceprefix/
 ---
-## Поле XmpPdfAExtensionSchema.DefaultFieldNamespacePrefix
+## XmpPdfAExtensionSchema.DefaultFieldNamespacePrefix field
 
-Префикс пространства имен поля по умолчанию.
+Стандартный префикс пространства имён поля.
 
 ```csharp
 public const string DefaultFieldNamespacePrefix;
@@ -16,6 +16,8 @@ public const string DefaultFieldNamespacePrefix;
 
 ### См. также
 
-* класс [XmpPdfAExtensionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

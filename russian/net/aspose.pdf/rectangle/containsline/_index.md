@@ -1,12 +1,12 @@
 ---
-title: Rectangle.ContainsLine
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rectangle. Определяет, содержит ли прямоугольник линию, представленную двумя точками
+title: "Rectangle.ContainsLine"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Rectangle. Определяет, содержит ли прямоугольник линию, представленную двумя точками"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf/rectangle/containsline/
 ---
-## Метод Rectangle.ContainsLine
+## Rectangle.ContainsLine method
 
 Определяет, содержит ли прямоугольник линию, представленную двумя точками.
 
@@ -23,10 +23,12 @@ public bool ContainsLine(double x1, double y1, double x2, double y2)
 
 ### Возвращаемое значение
 
-`true`, если прямоугольник содержит линию; в противном случае `false`.
+`true`, если прямоугольник содержит линию; иначе `false`.
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

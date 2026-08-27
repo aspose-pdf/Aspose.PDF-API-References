@@ -1,14 +1,14 @@
 ---
-title: MessageContentRequest.CreateTextContent
-second_title: Aspose.PDF for .NET API Reference
-description: Метод MessageContentRequest. Создает текстовое содержимое для сообщения
+title: "MessageContentRequest.CreateTextContent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод MessageContentRequest. Создает текстовое содержимое для сообщения"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/messagecontentrequest/createtextcontent/
 ---
-## Метод MessageContentRequest.CreateTextContent
+## MessageContentRequest.CreateTextContent method
 
-Создает текстовое содержимое для сообщения.
+Создаёт текстовое содержимое для сообщения.
 
 ```csharp
 public static MessageContentRequest CreateTextContent(string text)
@@ -16,7 +16,7 @@ public static MessageContentRequest CreateTextContent(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое сообщения. |
+| текст | String | Текстовое содержимое сообщения. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public static MessageContentRequest CreateTextContent(string text)
 
 ### См. также
 
-* класс [MessageContentRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [MessageContentRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

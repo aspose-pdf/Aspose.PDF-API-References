@@ -1,14 +1,14 @@
 ---
-title: Interface ISaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.Plugins.ISaveTarget. Общий интерфейс целевого сохранения, который определяет общие члены, которые должен реализовать конкретный целевой результат операции сохранения
+title: "Интерфейс ISaveTarget"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.Plugins.ISaveTarget. Общий интерфейс целевого сохранения, который определяет общие члены, которые конкретный целевой объект сохранения результата операции должен реализовать"
 type: docs
-weight: 8880
+weight: 9010
 url: /ru/net/aspose.pdf.plugins/isavetarget/
 ---
-## Интерфейс ISaveTarget
+## ISaveTarget interface
 
-Общий интерфейс целевого сохранения, который определяет общие члены, которые должен реализовать конкретный целевой результат операции сохранения.
+Общий интерфейс цели сохранения, определяющий общие члены, которые конкретная цель сохранения результата операции должна реализовать.
 
 ```csharp
 public interface ISaveTarget
@@ -22,5 +22,7 @@ public interface ISaveTarget
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

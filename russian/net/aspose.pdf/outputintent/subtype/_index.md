@@ -1,14 +1,14 @@
 ---
-title: OutputIntent.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutputIntent. Получает подтип выходного намерения
+title: "OutputIntent.Subtype"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutputIntent. Получает подтип намерения вывода"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/outputintent/subtype/
 ---
-## Свойство OutputIntent.Subtype
+## OutputIntent.Subtype property
 
-Получает подтип выходного намерения.
+Получает подтип намерения вывода.
 
 ```csharp
 public string Subtype { get; }
@@ -16,6 +16,8 @@ public string Subtype { get; }
 
 ### См. также
 
-* класс [OutputIntent](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutputIntent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

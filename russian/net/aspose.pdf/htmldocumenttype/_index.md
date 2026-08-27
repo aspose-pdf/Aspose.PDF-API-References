@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlDocumentType
-second_title: Aspose.PDF for .NET API Reference
-description: Перечисление Aspose.Pdf.HtmlDocumentType. Представляет перечисление типов Html документов
+title: "Перечисление HtmlDocumentType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.HtmlDocumentType перечисление. Представляет перечисление типов Html‑документов."
 type: docs
-weight: 5510
+weight: 5640
 url: /ru/net/aspose.pdf/htmldocumenttype/
 ---
-## Перечисление HtmlDocumentType
+## HtmlDocumentType enumeration
 
-Представляет перечисление типов Html документов.
+Представляет перечисление типов HTML‑документов.
 
 ```csharp
 public enum HtmlDocumentType
@@ -23,5 +23,7 @@ public enum HtmlDocumentType
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

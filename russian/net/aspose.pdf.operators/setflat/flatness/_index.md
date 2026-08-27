@@ -1,14 +1,14 @@
 ---
-title: SetFlat.Flatness
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetFlat. Получает или устанавливает плоскостность
+title: "SetFlat.Flatness"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetFlat. Получает или задаёт плоскостность"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setflat/flatness/
 ---
-## Свойство SetFlat.Flatness
+## SetFlat.Flatness property
 
-Получает или устанавливает плоскостность.
+Получает или задает плоскостность.
 
 ```csharp
 public double Flatness { get; set; }
@@ -16,6 +16,8 @@ public double Flatness { get; set; }
 
 ### См. также
 
-* класс [SetFlat](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetFlat](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

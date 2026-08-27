@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DCuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation. Класс PDF3DCuttingPlaneOrientation
+title: "Класс PDF3DCuttingPlaneOrientation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation. Класс PDF3DCuttingPlaneOrientation"
 type: docs
-weight: 2200
+weight: 2290
 url: /ru/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/
 ---
-## Класс PDF3DCuttingPlaneOrientation
+## PDF3DCuttingPlaneOrientation class
 
 Класс PDF3DCuttingPlaneOrientation.
 
@@ -25,9 +25,9 @@ public class PDF3DCuttingPlaneOrientation
 
 | Имя | Описание |
 | --- | --- |
-| [AngleX](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/) { get; set; } | Получает или задает угол к оси X. |
-| [AngleY](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/) { get; set; } | Получает или задает угол к оси Y. |
-| [AngleZ](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/) { get; set; } | Получает или задает угол к оси Z. |
+| [AngleX](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/) { get; set; } | Получает или задает угол относительно оси X. |
+| [AngleY](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/) { get; set; } | Получает или задает угол относительно оси Y. |
+| [AngleZ](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/) { get; set; } | Получает или задает угол относительно оси Z. |
 
 ## Методы
 
@@ -37,5 +37,7 @@ public class PDF3DCuttingPlaneOrientation
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

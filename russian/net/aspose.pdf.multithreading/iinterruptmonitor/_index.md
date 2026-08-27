@@ -1,14 +1,14 @@
 ---
-title: Interface IInterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.Multithreading.IInterruptMonitor. Представляет информацию об прерывании
+title: "Интерфейс IInterruptMonitor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Multithreading.IInterruptMonitor интерфейс. Представляет информацию о прерывании"
 type: docs
-weight: 6990
+weight: 7130
 url: /ru/net/aspose.pdf.multithreading/iinterruptmonitor/
 ---
-## Интерфейс IInterruptMonitor
+## IInterruptMonitor interface
 
-Представляет информацию об прерывании.
+Представляет информацию о прерывании.
 
 ```csharp
 public interface IInterruptMonitor : IDisposable
@@ -18,7 +18,7 @@ public interface IInterruptMonitor : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [CancellationToken](../../aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/) { get; } | Токен отмены монитора, используемый для прерывания процесса. По умолчанию каждый IInterruptMonitor генерирует свой собственный cancellationSource |
+| [CancellationToken](../../aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/) { get; } | Токен отмены монитора, используемый для прерывания процесса. По умолчанию каждый IInterruptMonitor генерирует собственный cancellationSource |
 
 ## Методы
 
@@ -28,5 +28,7 @@ public interface IInterruptMonitor : IDisposable
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../)
+
+

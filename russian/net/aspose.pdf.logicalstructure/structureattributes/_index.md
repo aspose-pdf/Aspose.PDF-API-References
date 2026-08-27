@@ -1,12 +1,12 @@
 ---
-title: Class StructureAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.LogicalStructure.StructureAttributes. Представляет атрибуты элемента структуры для стандартных владельцев атрибутов
+title: "Класс StructureAttributes"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.LogicalStructure.StructureAttributes класс. Представляет атрибуты элемента структуры для стандартных владельцев атрибутов"
 type: docs
-weight: 6690
+weight: 6830
 url: /ru/net/aspose.pdf.logicalstructure/structureattributes/
 ---
-## Класс StructureAttributes
+## StructureAttributes class
 
 Представляет атрибуты элемента структуры для стандартных владельцев атрибутов.
 
@@ -29,5 +29,7 @@ public class StructureAttributes
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

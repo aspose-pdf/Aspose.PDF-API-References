@@ -1,14 +1,14 @@
 ---
-title: SignaturesCompromiseDetector.SignaturesCompromiseDetector
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SignaturesCompromiseDetector. Создает экземпляр класса SignaturesCompromiseDetector
+title: "SignaturesCompromiseDetector.SignaturesCompromiseDetector"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SignaturesCompromiseDetector. Создаёт экземпляр класса SignaturesCompromiseDetector"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/signaturescompromisedetector/signaturescompromisedetector/
 ---
-## Конструктор SignaturesCompromiseDetector
+## SignaturesCompromiseDetector constructor
 
-Создает экземпляр класса [`SignaturesCompromiseDetector`](../).
+Создаёт экземпляр класса [`SignaturesCompromiseDetector`](../).
 
 ```csharp
 public SignaturesCompromiseDetector(Document document)
@@ -16,11 +16,13 @@ public SignaturesCompromiseDetector(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document |  |
+| документ | Document |  |
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [SignaturesCompromiseDetector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [SignaturesCompromiseDetector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

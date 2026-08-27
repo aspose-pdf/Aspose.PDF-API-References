@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BitmapInfo. Получает высоту битмапа
+title: "BitmapInfo.Height"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BitmapInfo. Возвращает высоту растрового изображения"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/bitmapinfo/height/
 ---
-## Свойство BitmapInfo.Height
+## BitmapInfo.Height property
 
 Получает высоту битмапа.
 
@@ -16,6 +16,8 @@ public int Height { get; }
 
 ### См. также
 
-* класс [BitmapInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BitmapInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

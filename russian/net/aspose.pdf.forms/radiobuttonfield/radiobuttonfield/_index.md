@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.RadioButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор RadioButtonField. Конструктор для RadioButtonField
+title: "RadioButtonField.RadioButtonField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "RadioButtonField конструктор. Конструктор для RadiouttonField"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/radiobuttonfield/radiobuttonfield/
 ---
 ## RadioButtonField(Page) {#constructor_1}
 
-Конструктор для RadioButtonField
+Конструктор для RadiouttonField
 
 ```csharp
 public RadioButtonField(Page page)
@@ -16,14 +16,14 @@ public RadioButtonField(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которой будет размещена радиокнопка. |
+| страница | Страница | Страница, на которой будет размещена радиокнопка. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [RadioButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,7 +41,9 @@ public RadioButtonField(Document doc)
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [RadioButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

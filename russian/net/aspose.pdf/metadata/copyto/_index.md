@@ -1,12 +1,12 @@
 ---
-title: Metadata.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод метаданных.
+title: "Metadata.CopyTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Metadata."
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/metadata/copyto/
 ---
-## Метод Metadata.CopyTo
+## Metadata.CopyTo method
 
 ```csharp
 public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
@@ -14,7 +14,9 @@ public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
 
 ### См. также
 
-* класс [XmpValue](../../xmpvalue/)
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

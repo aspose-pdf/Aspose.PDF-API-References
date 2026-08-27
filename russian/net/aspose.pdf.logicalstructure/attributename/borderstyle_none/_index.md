@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_None
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут BorderStyle None  Без границы. Заставляет вычисленное значение BorderThicknessto быть 0
+title: "AttributeName.BorderStyle_None"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName поле. Атрибут BorderStyle None  Без границы. Принуждает вычисленное значение BorderThickness быть 0"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_none/
 ---
-## Поле AttributeName.BorderStyle_None
+## AttributeName.BorderStyle_None field
 
-Атрибут BorderStyle: None - Без границы. Заставляет вычисленное значение BorderThicknessto быть 0.
+Атрибут BorderStyle: None — Нет границы. Принуждает вычисленное значение BorderThickness быть 0.
 
 ```csharp
 public static readonly AttributeName BorderStyle_None;
@@ -16,6 +16,8 @@ public static readonly AttributeName BorderStyle_None;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.StrokingColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentState. Получает или задает цвет обводки операций обводки текста прямоугольника границы рендеринга TextFragment
+title: "TextFragmentState.StrokingColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentState. Получает или задает цвет операций штриховки при рендеринге TextFragment (обводка текста, граница прямоугольника)"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.text/textfragmentstate/strokingcolor/
 ---
-## Свойство TextFragmentState.StrokingColor
+## TextFragmentState.StrokingColor property
 
-Получает или задает цвет обводки операций обводки [`TextFragment`](../../textfragment/) (обводка текста, граница прямоугольника)
+Получает или задает цвет операций штриховки при рендеринге [`TextFragment`](../../textfragment/) (обводка текста, граница прямоугольника)
 
 ```csharp
 public override Color StrokingColor { get; set; }
@@ -16,7 +16,9 @@ public override Color StrokingColor { get; set; }
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

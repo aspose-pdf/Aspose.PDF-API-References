@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileResponse.VectorStoreId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство VectorStoreFileResponse. Получает или устанавливает ID векторного хранилища, к которому прикреплен файл
+title: "VectorStoreFileResponse.VectorStoreId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "VectorStoreFileResponse свойство. Получает или задает ID векторного хранилища, к которому прикреплен файл"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.ai/vectorstorefileresponse/vectorstoreid/
 ---
-## Свойство VectorStoreFileResponse.VectorStoreId
+## VectorStoreFileResponse.VectorStoreId property
 
-Получает или устанавливает ID векторного хранилища, к которому прикреплен файл.
+Получает или задает ID векторного хранилища, к которому прикреплен File.
 
 ```csharp
 public string VectorStoreId { get; set; }
@@ -16,6 +16,8 @@ public string VectorStoreId { get; set; }
 
 ### См. также
 
-* класс [VectorStoreFileResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreFileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

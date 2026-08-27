@@ -1,33 +1,35 @@
 ---
-title: Class ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.ToolResources. Представляет собой набор ресурсов, используемых инструментами помощника. Ресурсы специфичны для типа инструмента. Например, инструмент code_interpreter требует список идентификаторов файлов, в то время как инструмент file_search требует список идентификаторов векторного хранилища.
+title: "Класс ToolResources"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.ToolResources. Представляет набор ресурсов, используемых инструментами помощников. Ресурсы специфичны для типа инструмента. Например, инструмент code_interpreter требует список идентификаторов файлов, тогда как инструмент file_search требует список идентификаторов хранилищ векторов."
 type: docs
-weight: 1230
+weight: 1320
 url: /ru/net/aspose.pdf.ai/toolresources/
 ---
 ## ToolResources class
 
-Представляет собой набор ресурсов, используемых инструментами помощника. Ресурсы специфичны для типа инструмента. Например, инструмент code_interpreter требует список идентификаторов файлов, в то время как инструмент file_search требует список идентификаторов векторного хранилища.
+Представляет набор ресурсов, используемых инструментами помощника. Ресурсы специфичны для типа инструмента. Например, инструмент code_interpreter требует список идентификаторов файлов, тогда как инструмент file_search требует список идентификаторов векторного хранилища.
 
 ```csharp
 public class ToolResources
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [ToolResources](toolresources/)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [CodeInterpreter](../../aspose.pdf.ai/toolresources/codeinterpreter/) { get; set; } | Получает или задает ресурсы инструмента интерпретатора кода. |
-| [FileSearch](../../aspose.pdf.ai/toolresources/filesearch/) { get; set; } | Получает или задает ресурсы инструмента поиска файлов. |
+| [CodeInterpreter](../../aspose.pdf.ai/toolresources/codeinterpreter/) { get; set; } | Получает или задает ресурсы инструмента code_interpreter. |
+| [FileSearch](../../aspose.pdf.ai/toolresources/filesearch/) { get; set; } | Получает или задает ресурсы инструмента file_search. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

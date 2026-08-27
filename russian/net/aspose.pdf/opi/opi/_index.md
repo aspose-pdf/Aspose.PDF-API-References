@@ -1,12 +1,12 @@
 ---
-title: Opi.Opi
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Opi. Конструктор
+title: "Opi.Opi"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Opi. Конструктор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/opi/opi/
 ---
-## Конструктор Opi
+## Opi constructor
 
 Конструктор.
 
@@ -20,7 +20,9 @@ public Opi(XForm xform)
 
 ### См. также
 
-* класс [XForm](../../xform/)
-* класс [Opi](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: RichMediaAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Метод RichMediaAnnotation. Принимает посетителя для этой аннотации
+title: "RichMediaAnnotation.Accept"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод RichMediaAnnotation. Принимает посетителя для этой аннотации"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/richmediaannotation/accept/
 ---
-## Метод RichMediaAnnotation.Accept
+## RichMediaAnnotation.Accept method
 
 Принимает посетителя для этой аннотации.
 
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Экземпляр посетителя. |
+| посетитель | AnnotationSelector | Экземпляр Visitor. |
 
 ### См. также
 
-* класс [AnnotationSelector](../../annotationselector/)
-* класс [RichMediaAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

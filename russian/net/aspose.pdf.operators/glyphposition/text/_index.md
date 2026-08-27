@@ -1,12 +1,12 @@
 ---
-title: GlyphPosition.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GlyphPosition. Текст оператора
+title: "GlyphPosition.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "GlyphPosition свойство. Текст оператора"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/glyphposition/text/
 ---
-## Свойство GlyphPosition.Text
+## GlyphPosition.Text property
 
 Текст оператора.
 
@@ -16,6 +16,8 @@ public string Text { get; }
 
 ### См. также
 
-* класс [GlyphPosition](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [GlyphPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

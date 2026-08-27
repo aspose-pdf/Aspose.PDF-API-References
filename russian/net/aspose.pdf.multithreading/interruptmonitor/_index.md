@@ -1,41 +1,43 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Multithreading.InterruptMonitor. Представляет информацию об прерывании
+title: "Класс InterruptMonitor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Multithreading.InterruptMonitor класс. Представляет информацию о прерывании"
 type: docs
-weight: 7000
+weight: 7140
 url: /ru/net/aspose.pdf.multithreading/interruptmonitor/
 ---
 ## InterruptMonitor class
 
-Представляет информацию об прерывании.
+Представляет информацию о прерывании.
 
 ```csharp
 public class InterruptMonitor : IInterruptMonitor
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [InterruptMonitor](interruptmonitor/)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [CancellationToken](../../aspose.pdf.multithreading/interruptmonitor/cancellationtoken/) { get; } | Токен отмены монитора, используемый для прерывания процесса. По умолчанию каждый IInterruptMonitor генерирует свой собственный cancellationSource. |
+| [CancellationToken](../../aspose.pdf.multithreading/interruptmonitor/cancellationtoken/) { get; } | Токен отмены монитора, используемый для прерывания процесса. По умолчанию каждый IInterruptMonitor генерирует собственный cancellationSource. |
 | static [ThreadLocalInstance](../../aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Получает или задает экземпляр IInterruptMonitor, который уникален для каждого потока. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.pdf.multithreading/interruptmonitor/dispose/)() | Освобождает используемые ресурсы. |
 | virtual [Interrupt](../../aspose.pdf.multithreading/interruptmonitor/interrupt/)() | Отправляет запрос на прерывание операций. |
 
-### See Also
+### См. также
 
 * interface [IInterruptMonitor](../iinterruptmonitor/)
 * namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../)
+
+

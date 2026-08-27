@@ -1,12 +1,12 @@
 ---
-title: SetRGBColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetRGBColor. Возвращает цвет, указанный оператором
+title: "SetRGBColor.getColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SetRGBColor метод. Возвращает цвет, указанный оператором"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.operators/setrgbcolor/getcolor/
 ---
-## Метод SetRGBColor.getColor
+## SetRGBColor.getColor method
 
 Возвращает цвет, указанный оператором.
 
@@ -20,6 +20,8 @@ public override Color getColor()
 
 ### См. также
 
-* класс [SetRGBColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetRGBColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

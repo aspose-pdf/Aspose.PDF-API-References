@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions.MarginPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.SaveOptionsMarginPartStyle. Представляет информацию об одной части поля - верх, низ, левая сторона или правая сторона.
+title: "Класс SaveOptions.MarginPartStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.SaveOptionsMarginPartStyle. Представляет информацию об одной части поля: верх, низ, левая или правая сторона"
 type: docs
-weight: 9920
+weight: 10070
 url: /ru/net/aspose.pdf/saveoptions.marginpartstyle/
 ---
 ## SaveOptions.MarginPartStyle class
 
-Представляет информацию об одной части поля (верх, низ, левая сторона или правая сторона)
+Представляет информацию об одной части поля (верх, низ, левая или правая сторона)
 
 ```csharp
 public class MarginPartStyle
@@ -16,20 +16,22 @@ public class MarginPartStyle
 
 ## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [MarginPartStyle](../../aspose.pdf/saveoptions.marginpartstyle/.ctor#constructor)(bool) | Создает экземпляр класса MarginPartStyle и инициализирует его значение в пунктах |
-| [MarginPartStyle](../../aspose.pdf/saveoptions.marginpartstyle/.ctor#constructor_1)(int) | Создает экземпляр класса MarginPartStyle и устанавливает его значение в пунктах |
+| [MarginPartStyle](../../aspose.pdf/saveoptions.marginpartstyle/.ctor#constructor)(bool) | Создаёт экземпляр класса MarginPartStyle и инициализирует его значение в пунктах |
+| [MarginPartStyle](../../aspose.pdf/saveoptions.marginpartstyle/.ctor#constructor_1)(int) | Создает экземпляр класса MarginPartStyle и задает его значение в пунктах |
 
 ## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [IsAuto](../../aspose.pdf/saveoptions.marginpartstyle/isauto) { get; set; } | Получает или задает значение, указывающее, является ли этот экземпляр автоматическим. |
-| [ValueInPoints](../../aspose.pdf/saveoptions.marginpartstyle/valueinpoints) { get; set; } | Представляет поле в пунктах. Должно быть числом больше нуля. |
+| [ValueInPoints](../../aspose.pdf/saveoptions.marginpartstyle/valueinpoints) { get; set; } | Представляет отступ в пунктах. Должно быть число больше нуля. |
 
 ### См. также
 
-* класс [SaveOptions](../saveoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

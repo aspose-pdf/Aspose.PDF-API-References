@@ -1,12 +1,12 @@
 ---
-title: VectorStore.VectorStore
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор VectorStore. Конструктор по умолчанию
+title: "VectorStore.VectorStore"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор VectorStore. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/vectorstore/vectorstore/
 ---
-## Конструктор VectorStore
+## VectorStore constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public VectorStore()
 
 ### См. также
 
-* класс [VectorStore](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStore](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

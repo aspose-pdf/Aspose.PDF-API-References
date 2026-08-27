@@ -1,12 +1,12 @@
 ---
-title: LocalHyperlink.TargetPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LocalHyperlink. Получает или задает номер целевой страницы
+title: "LocalHyperlink.TargetPageNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LocalHyperlink. Получает или задает номер целевой страницы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/localhyperlink/targetpagenumber/
 ---
-## Свойство LocalHyperlink.TargetPageNumber
+## LocalHyperlink.TargetPageNumber property
 
 Получает или задает номер целевой страницы.
 
@@ -16,6 +16,8 @@ public int TargetPageNumber { get; set; }
 
 ### См. также
 
-* класс [LocalHyperlink](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [LocalHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

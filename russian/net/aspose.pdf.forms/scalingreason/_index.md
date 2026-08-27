@@ -1,14 +1,14 @@
 ---
-title: Enum ScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ScalingReason Aspose.Pdf.Forms. Обстоятельства, при которых значок должен быть масштабирован внутри прямоугольника аннотации
+title: "Перечисление ScalingReason"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Forms.ScalingReason. Обстоятельства, при которых значок будет масштабироваться внутри прямоугольника аннотации."
 type: docs
-weight: 5250
+weight: 5370
 url: /ru/net/aspose.pdf.forms/scalingreason/
 ---
-## Перечисление ScalingReason
+## ScalingReason enumeration
 
-Обстоятельства, при которых значок должен быть масштабирован внутри прямоугольника аннотации.
+Обстоятельства, при которых значок масштабируется внутри прямоугольника аннотации.
 
 ```csharp
 public enum ScalingReason
@@ -18,12 +18,14 @@ public enum ScalingReason
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Всегда | `0` | Всегда масштабировать. |
-| ЗначокБольше | `1` | Масштабировать только когда значок больше, чем прямоугольник аннотации. |
-| ЗначокМеньше | `2` | Масштабировать только когда значок меньше, чем прямоугольник аннотации. |
-| Никогда | `3` | Никогда не масштабировать. |
+| Always | `0` | Всегда масштабировать. |
+| IconIsBigger | `1` | BScale только когда значок больше прямоугольника аннотации. |
+| IconIsSmaller | `2` | Масштабировать только когда значок меньше прямоугольника аннотации. |
+| Never | `3` | Никогда не масштабировать. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

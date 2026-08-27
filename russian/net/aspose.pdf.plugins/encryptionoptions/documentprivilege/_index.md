@@ -1,14 +1,14 @@
 ---
-title: EncryptionOptions.DocumentPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство EncryptionOptions. Права на документ см. в разделе Права для получения подробной информации
+title: "EncryptionOptions.DocumentPrivilege"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство EncryptionOptions. Права доступа к документу, см. Permissions для деталей"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/encryptionoptions/documentprivilege/
 ---
-## Свойство EncryptionOptions.DocumentPrivilege
+## EncryptionOptions.DocumentPrivilege property
 
-Права на документ, см. [`Permissions`](../../../aspose.pdf/permissions/) для получения подробной информации.
+Права доступа к документу, см. [`Permissions`](../../../aspose.pdf/permissions/) для деталей.
 
 ```csharp
 public DocumentPrivilege DocumentPrivilege { get; set; }
@@ -16,7 +16,9 @@ public DocumentPrivilege DocumentPrivilege { get; set; }
 
 ### См. также
 
-* класс [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* класс [EncryptionOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [EncryptionOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

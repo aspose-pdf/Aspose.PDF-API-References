@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CssSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: Поле CssSavingInfo. Устанавливается конвертером. Представляет бинарное содержимое сохраненного CSS
+title: "HtmlSaveOptions.CssSavingInfo.ContentStream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле CssSavingInfo. Устанавливается конвертером. Представляет двоичное содержимое сохранённого CSS"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/htmlsaveoptions.csssavinginfo/contentstream/
 ---
-## Поле HtmlSaveOptions.CssSavingInfo.ContentStream
+## HtmlSaveOptions.CssSavingInfo.ContentStream field
 
-Устанавливается конвертером. Представляет бинарное содержимое сохраненного CSS
+Устанавливается конвертером. Представляет двоичное содержимое сохранённого CSS
 
 ```csharp
 public Stream ContentStream;
@@ -16,6 +16,8 @@ public Stream ContentStream;
 
 ### См. также
 
-* класс [CssSavingInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CssSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

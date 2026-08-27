@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageLayoutTwoColumnRight
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Отображение страниц в два столбца с нечетными страницами справа
+title: "ViewerPreference.PageLayoutTwoColumnRight"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ViewerPreference поле. Отображать страницы в два столбца, при этом нечётные страницы находятся справа"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.facades/viewerpreference/pagelayouttwocolumnright/
 ---
-## Поле ViewerPreference.PageLayoutTwoColumnRight
+## ViewerPreference.PageLayoutTwoColumnRight field
 
-Отображение страниц в два столбца, с нечетными страницами справа.
+Отобразить страницы в две колонки, при этом нечётные страницы — справа.
 
 ```csharp
 public const int PageLayoutTwoColumnRight;
@@ -16,6 +16,8 @@ public const int PageLayoutTwoColumnRight;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

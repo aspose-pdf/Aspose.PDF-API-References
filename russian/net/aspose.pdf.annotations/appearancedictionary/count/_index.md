@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AppearanceDictionary. Получает количество элементов, содержащихся в словаре
+title: "AppearanceDictionary.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AppearanceDictionary. Возвращает количество элементов, содержащихся в словаре"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/appearancedictionary/count/
 ---
-## Свойство AppearanceDictionary.Count
+## AppearanceDictionary.Count property
 
 Получает количество элементов, содержащихся в словаре.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [AppearanceDictionary](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

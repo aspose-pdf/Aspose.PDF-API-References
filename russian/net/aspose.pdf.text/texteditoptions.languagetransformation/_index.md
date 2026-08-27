@@ -1,14 +1,14 @@
 ---
-title: Enum TextEditOptions.LanguageTransformation
-second_title: Aspose.PDF for .NET API Reference
-description: Enum LanguageTransformation в Aspose.Pdf.Text.TextEditOptions. Режимы преобразования языка
+title: "Перечисление TextEditOptions.LanguageTransformation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Text.TextEditOptionsLanguageTransformation. Режимы трансформации языка"
 type: docs
-weight: 10850
+weight: 11030
 url: /ru/net/aspose.pdf.text/texteditoptions.languagetransformation/
 ---
-## Перечисление TextEditOptions.LanguageTransformation
+## TextEditOptions.LanguageTransformation enumeration
 
-Режимы преобразования языка
+Режимы трансформации языка
 
 ```csharp
 public enum LanguageTransformation
@@ -18,12 +18,14 @@ public enum LanguageTransformation
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Default | `0` | Выполняется преобразование языка по умолчанию. |
-| ExactlyAsISee | `1` | Преобразование языка выполняется так же, как в текстовом редакторе. Обычно это означает, что текст будет выглядеть в документе точно так же, как вы видите его в коде. Но без гарантий. |
-| None | `2` | Преобразование языка не выполняется. |
+| Default | `0` | Выполняется трансформация языка по умолчанию. |
+| ExactlyAsISee | `1` | Трансформация языка выполняется так же, как в текстовом редакторе. Обычно это означает, что текст в документе будет выглядеть точно так же, как вы видите его в коде. Но никаких гарантий. |
+| None | `2` | Трансформация языка не выполняется. |
 
 ### См. также
 
-* класс [TextEditOptions](../texteditoptions/)
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* class [TextEditOptions](../texteditoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

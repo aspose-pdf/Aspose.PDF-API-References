@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpPdfAExtensionValueType. Очищает все поля
+title: "XmpPdfAExtensionValueType.Clear"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpPdfAExtensionValueType. Очищает все поля"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/xmppdfaextensionvaluetype/clear/
 ---
-## Метод XmpPdfAExtensionValueType.Clear
+## XmpPdfAExtensionValueType.Clear method
 
 Очищает все поля.
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### См. также
 
-* класс [XmpPdfAExtensionValueType](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

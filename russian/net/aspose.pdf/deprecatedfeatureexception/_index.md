@@ -1,12 +1,12 @@
 ---
-title: Class DeprecatedFeatureException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.DeprecatedFeatureException. Исключение, которое выбрасывается, когда функция устарела в текущей версии pdf
+title: "Класс DeprecatedFeatureException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.DeprecatedFeatureException. Исключение, которое выбрасывается, когда функция устарела в текущей версии pdf"
 type: docs
-weight: 3500
+weight: 3620
 url: /ru/net/aspose.pdf/deprecatedfeatureexception/
 ---
-## Класс DeprecatedFeatureException
+## DeprecatedFeatureException class
 
 Исключение, которое выбрасывается, когда функция устарела в текущей версии pdf.
 
@@ -23,6 +23,8 @@ public sealed class DeprecatedFeatureException : PdfException
 
 ### См. также
 
-* класс [PdfException](../pdfexception/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

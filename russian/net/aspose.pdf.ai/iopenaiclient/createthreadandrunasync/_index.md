@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateThreadAndRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Создает поток и выполняет его асинхронно
+title: "IOpenAIClient.CreateThreadAndRunAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно создает поток и запуск в нём"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/iopenaiclient/createthreadandrunasync/
 ---
-## Метод IOpenAIClient.CreateThreadAndRunAsync
+## IOpenAIClient.CreateThreadAndRunAsync method
 
-Создает поток и выполняет его асинхронно.
+Создает поток и запуск в нем асинхронно.
 
 ```csharp
 public Task<RunResponse> CreateThreadAndRunAsync(RunThreadCreateRequest runCreateRequest, 
@@ -17,17 +17,19 @@ public Task<RunResponse> CreateThreadAndRunAsync(RunThreadCreateRequest runCreat
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| runCreateRequest | RunThreadCreateRequest | Детали запроса для создания потока и выполнения. |
+| runCreateRequest | RunThreadCreateRequest | Подробности запроса для создания потока и запуска. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит ответ на создание потока и выполнения.
+Задача, представляющая асинхронную операцию. Результат задачи содержит ответ от создания потока и запуска.
 
 ### См. также
 
-* класс [RunResponse](../../runresponse/)
-* класс [RunThreadCreateRequest](../../runthreadcreaterequest/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* class [RunThreadCreateRequest](../../runthreadcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

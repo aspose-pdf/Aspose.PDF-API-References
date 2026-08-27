@@ -1,12 +1,12 @@
 ---
-title: Class ImageDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.ImageDescription. Представляет описание изображения
+title: "Класс ImageDescription"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.ImageDescription. Представляет описание изображения"
 type: docs
-weight: 610
+weight: 660
 url: /ru/net/aspose.pdf.ai/imagedescription/
 ---
-## Класс ImageDescription
+## ImageDescription class
 
 Представляет описание изображения.
 
@@ -32,5 +32,7 @@ public class ImageDescription
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XImageCollection. Добавляет новое изображение в список изображений. Этот метод добавляет изображение как ссылку на тот же PdfObject, что позволяет уменьшить размер файла
+title: "XImageCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "XImageCollection метод. Добавляет новое изображение в список Image. Этот метод добавляет изображение как ссылку на тот же PdfObject, что позволяет уменьшить размер файла"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/ximagecollection/add/
 ---
 ## Add(XImage) {#add_2}
 
-Добавляет новое изображение в список изображений. Этот метод добавляет изображение как ссылку на тот же PdfObject (что позволяет уменьшить размер файла)
+Добавляет новое изображение в Image list. Этот метод добавляет изображение как ссылку на тот же PdfObject (что позволяет уменьшить размер файла)
 
 ```csharp
 public string Add(XImage image)
@@ -16,7 +16,7 @@ public string Add(XImage image)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | XImage | XImage, который нужно добавить. |
+| image | XImage | XImage для добавления. |
 
 ### Возвращаемое значение
 
@@ -24,16 +24,16 @@ public string Add(XImage image)
 
 ### См. также
 
-* класс [XImage](../../ximage/)
-* класс [XImageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(Stream) {#add_3}
 
-Добавляет сущность в конец коллекции, чтобы к сущности можно было получить доступ по последнему индексу.
+Добавляет объект в конец коллекции, чтобы объект можно было получить по последнему индексу.
 
 ```csharp
 public string Add(Stream image)
@@ -49,15 +49,15 @@ public string Add(Stream image)
 
 ### См. также
 
-* класс [XImageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(BitmapInfo) {#add}
 
-Добавляет сущность в конец коллекции, чтобы к сущности можно было получить доступ по последнему индексу.
+Добавляет объект в конец коллекции, чтобы объект можно было получить по последнему индексу.
 
 ```csharp
 public string Add(BitmapInfo bitmapInfo)
@@ -65,7 +65,7 @@ public string Add(BitmapInfo bitmapInfo)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bitmapInfo | BitmapInfo | Объект, содержащий массив пикселей и информацию о битмапе (Ширина, Высота, ФорматПикселей). |
+| bitmapInfo | BitmapInfo | Объект, содержащий массив пикселей и информацию о битмапе (Width, Height, PixelFormat). |
 
 ### Возвращаемое значение
 
@@ -73,16 +73,16 @@ public string Add(BitmapInfo bitmapInfo)
 
 ### См. также
 
-* класс [BitmapInfo](../../bitmapinfo/)
-* класс [XImageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BitmapInfo](../../bitmapinfo/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(Stream, ImageFilterType) {#add_4}
 
-Добавляет сущность в конец коллекции, чтобы к сущности можно было получить доступ по последнему индексу.
+Добавляет объект в конец коллекции, чтобы объект можно было получить по последнему индексу.
 
 ```csharp
 public string Add(Stream image, ImageFilterType filterType)
@@ -99,16 +99,16 @@ public string Add(Stream image, ImageFilterType filterType)
 
 ### См. также
 
-* перечисление [ImageFilterType](../../imagefiltertype/)
-* класс [XImageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* enum [ImageFilterType](../../imagefiltertype/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(BitmapInfo, ImageFilterType) {#add_1}
 
-Добавляет сущность в конец коллекции, чтобы к сущности можно было получить доступ по последнему индексу.
+Добавляет объект в конец коллекции, чтобы объект можно было получить по последнему индексу.
 
 ```csharp
 public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
@@ -116,7 +116,7 @@ public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bitmapInfo | BitmapInfo | Объект, содержащий массив пикселей и информацию о битмапе (Ширина, Высота, ФорматПикселей). |
+| bitmapInfo | BitmapInfo | Объект, содержащий массив пикселей и информацию о битмапе (Width, Height, PixelFormat). |
 | filterType | ImageFilterType | Тип фильтра изображения. |
 
 ### Возвращаемое значение
@@ -125,17 +125,17 @@ public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
 
 ### См. также
 
-* класс [BitmapInfo](../../bitmapinfo/)
-* перечисление [ImageFilterType](../../imagefiltertype/)
-* класс [XImageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BitmapInfo](../../bitmapinfo/)
+* enum [ImageFilterType](../../imagefiltertype/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(Stream, int) {#add_5}
 
-Добавляет сущность в конец коллекции, чтобы к сущности можно было получить доступ по последнему индексу.
+Добавляет объект в конец коллекции, чтобы объект можно было получить по последнему индексу.
 
 ```csharp
 public void Add(Stream image, int quality)
@@ -148,6 +148,8 @@ public void Add(Stream image, int quality)
 
 ### См. также
 
-* класс [XImageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

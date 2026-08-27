@@ -1,12 +1,12 @@
 ---
-title: ElementCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ElementCollection. Количество элементов
+title: "ElementCollection.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ElementCollection. Количество элементов"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.structure/elementcollection/count/
 ---
-## Свойство ElementCollection.Count
+## ElementCollection.Count property
 
 Количество элементов.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [ElementCollection](../)
-* пространство имен [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* сборка [Aspose.PDF](../../../)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

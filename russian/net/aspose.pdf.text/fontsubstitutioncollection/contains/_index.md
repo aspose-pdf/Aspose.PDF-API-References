@@ -1,14 +1,14 @@
 ---
-title: FontSubstitutionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontSubstitutionCollection. Определяет, содержится ли элемент в коллекции
+title: "FontSubstitutionCollection.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontSubstitutionCollection. Определяет, находится ли элемент в коллекции"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/fontsubstitutioncollection/contains/
 ---
-## Метод FontSubstitutionCollection.Contains
+## FontSubstitutionCollection.Contains method
 
-Определяет, содержится ли элемент в коллекции.
+Определяет, находится ли элемент в коллекции.
 
 ```csharp
 public bool Contains(FontSubstitution item)
@@ -20,11 +20,13 @@ public bool Contains(FontSubstitution item)
 
 ### Возвращаемое значение
 
-True - если элемент найден; в противном случае - false.
+True — если элемент найден; иначе false.
 
 ### См. также
 
-* класс [FontSubstitution](../../fontsubstitution/)
-* класс [FontSubstitutionCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.HasNext
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Проверьте, представляет ли элемент структуры следующий элемент относительно этого элемента в иерархии структуры
+title: "OutlineItemCollection.HasNext"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Проверяет, существует ли элемент оглавления, представляющий следующий элемент относительно данного в иерархии оглавления"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/outlineitemcollection/hasnext/
 ---
-## Свойство OutlineItemCollection.HasNext
+## OutlineItemCollection.HasNext property
 
-Проверьте, представляет ли элемент структуры следующий элемент относительно этого элемента в иерархии структуры.
+Проверьте, представляет ли элемент оглавления следующий элемент относительно данного элемента в иерархии оглавления.
 
 ```csharp
 public bool HasNext { get; }
@@ -16,6 +16,8 @@ public bool HasNext { get; }
 
 ### См. также
 
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

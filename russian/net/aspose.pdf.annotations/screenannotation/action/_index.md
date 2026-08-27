@@ -1,14 +1,14 @@
 ---
-title: ScreenAnnotation.Action
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ScreenAnnotation. Получает или устанавливает действие, которое должно быть выполнено при активации аннотации
+title: "ScreenAnnotation.Action"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ScreenAnnotation. Получает или задает действие, которое будет выполнено при активации аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/screenannotation/action/
 ---
-## Свойство ScreenAnnotation.Action
+## ScreenAnnotation.Action property
 
-Получает или устанавливает действие, которое должно быть выполнено при активации аннотации.
+Получает или задаёт действие, которое будет выполнено при активации аннотации.
 
 ```csharp
 public PdfAction Action { get; }
@@ -16,7 +16,9 @@ public PdfAction Action { get; }
 
 ### См. также
 
-* класс [PdfAction](../../pdfaction/)
-* класс [ScreenAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [ScreenAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

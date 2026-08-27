@@ -1,14 +1,14 @@
 ---
-title: Signature.ShowProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство подписи. Принудительно отображать/скрывать свойства подписи. Если ShowProperties равно true, поле подписи имеет предопределенный формат отображения строк для представления  Цифровая подпись от субъекта сертификата Дата подписи.Дата Причина подписи.Причина Местоположение подписи.Местоположение  где X является заполнителем для значения X. Также подпись может иметь изображение, в этом случае перечисленные строки размещаются поверх изображения. ShowProperties по умолчанию равно true
+title: "Signature.ShowProperties"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Signature. Принудительно отображать/скрывать свойства подписи. Если ShowProperties равно true, поле подписи имеет предопределённый формат строк отображения, представляющих  Digitally signed by certificate subject Date signature.Date Reason signature.Reason Location signature.Location, где X является заполнителем для значения X. Также подпись может иметь изображение, в этом случае перечисленные строки размещаются поверх изображения. По умолчанию ShowProperties равно true."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.forms/signature/showproperties/
 ---
-## Свойство Signature.ShowProperties
+## Signature.ShowProperties property
 
-Принудительно отображать/скрывать свойства подписи. Если ShowProperties равно true, поле подписи имеет предопределенный формат отображения (строки для представления): ------------------------------------------- Цифровая подпись от {субъект сертификата} Дата: {signature.Date} Причина: {signature.Reason} Местоположение: {signature.Location} ------------------------------------------- где {X} является заполнителем для значения X. Также подпись может иметь изображение, в этом случае перечисленные строки размещаются поверх изображения. ShowProperties по умолчанию равно true.
+Принудительно показывать/скрывать свойства подписи. Если ShowProperties равно true, поле подписи имеет предопределённый формат отображения (строки для представления): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- где {X} — заполнитель для значения X. Также подпись может иметь изображение; в этом случае перечисленные строки размещаются поверх изображения. ShowProperties по умолчанию равно true.
 
 ```csharp
 public bool ShowProperties { get; set; }
@@ -16,6 +16,8 @@ public bool ShowProperties { get; set; }
 
 ### См. также
 
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

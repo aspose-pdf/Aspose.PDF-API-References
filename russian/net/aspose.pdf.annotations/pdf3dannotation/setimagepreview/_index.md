@@ -1,7 +1,7 @@
 ---
-title: PDF3DAnnotation.SetImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DAnnotation. Устанавливает предварительный просмотр изображения
+title: "PDF3DAnnotation.SetImagePreview"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PDF3DAnnotation. Устанавливает предварительный просмотр изображения"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.annotations/pdf3dannotation/setimagepreview/
@@ -16,13 +16,13 @@ public void SetImagePreview(string filename)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filename | String | Имя файла предварительного просмотра изображения. |
+| имя файла | String | Имя файла предварительного просмотра изображения. |
 
 ### См. также
 
-* класс [PDF3DAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,6 +40,8 @@ public void SetImagePreview(Stream image)
 
 ### См. также
 
-* класс [PDF3DAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

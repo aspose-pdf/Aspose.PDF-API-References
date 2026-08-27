@@ -1,33 +1,35 @@
 ---
-title: Class RgbToDeviceGrayConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.RgbToDeviceGrayConversionStrategy. Представляет стратегию преобразования цветовых пространств rgb в устройство серого цвета
+title: "Класс RgbToDeviceGrayConversionStrategy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.RgbToDeviceGrayConversionStrategy класс. Представляет стратегию преобразования цветовых пространств из RGB в серый для устройства."
 type: docs
-weight: 9800
+weight: 9950
 url: /ru/net/aspose.pdf/rgbtodevicegrayconversionstrategy/
 ---
 ## RgbToDeviceGrayConversionStrategy class
 
-Представляет стратегию преобразования цветовых пространств rgb в устройство серого цвета.
+Представляет стратегию преобразования цветовых пространств из RGB в серый для устройства.
 
 ```csharp
 public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [RgbToDeviceGrayConversionStrategy](rgbtodevicegrayconversionstrategy/)() | Конструктор по умолчанию. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [Convert](../../aspose.pdf/rgbtodevicegrayconversionstrategy/convert/)(Page) | Преобразует страницу документа. |
 
-### See Also
+### См. также
 
 * interface [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

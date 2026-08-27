@@ -1,14 +1,14 @@
 ---
-title: Form.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Удаляет все поля формы и размещает их значения непосредственно на странице
+title: "Form.Flatten"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Удаляет все поля формы и размещает их значения непосредственно на странице."
 type: docs
-weight: 250
+weight: 270
 url: /ru/net/aspose.pdf.forms/form/flatten/
 ---
-## Метод Form.Flatten
+## Form.Flatten method
 
-Удаляет все поля формы и размещает их значения непосредственно на странице.
+Удаляет все поля формы и размещает их значения непосредственно на page.
 
 ```csharp
 public void Flatten()
@@ -16,6 +16,8 @@ public void Flatten()
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

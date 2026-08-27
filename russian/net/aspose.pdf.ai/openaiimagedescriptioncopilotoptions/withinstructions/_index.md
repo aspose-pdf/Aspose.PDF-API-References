@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Устанавливает инструкции для параметров копилота описания изображения
+title: "OpenAIImageDescriptionCopilotOptions.WithInstructions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIImageDescriptionCopilotOptions. Устанавливает инструкции для параметров сопутствующего описания изображения"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withinstructions/
 ---
-## Метод OpenAIImageDescriptionCopilotOptions.WithInstructions
+## OpenAIImageDescriptionCopilotOptions.WithInstructions method
 
-Устанавливает инструкции для параметров копилота описания изображения.
+Задаёт инструкции для параметров копилота описания изображения.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithInstructions(string instructions)
@@ -24,6 +24,8 @@ public OpenAIImageDescriptionCopilotOptions WithInstructions(string instructions
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

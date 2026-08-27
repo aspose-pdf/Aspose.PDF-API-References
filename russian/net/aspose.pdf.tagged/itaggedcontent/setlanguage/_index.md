@@ -1,16 +1,16 @@
 ---
-title: ITaggedContent.SetLanguage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Устанавливает естественный язык для pdf документа
+title: "ITaggedContent.SetLanguage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Устанавливает естественный язык для PDF‑документа"
 type: docs
-weight: 380
+weight: 430
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/setlanguage/
 ---
-## Метод ITaggedContent.SetLanguage
+## ITaggedContent.SetLanguage method
 
-Устанавливает естественный язык для pdf документа.
+Устанавливает естественный язык для PDF‑документа.
 
-Идентификатор языка, который должен указывать естественный язык для всего текста в документе, за исключением случаев, когда он переопределен спецификациями языка для структурных элементов или помеченного контента.
+Идентификатор языка, который указывает естественный язык для всего текста в документе, за исключением случаев, когда он переопределяется спецификациями языка для структурных элементов или маркированного контента.
 
 ```csharp
 public void SetLanguage(string lang)
@@ -18,10 +18,12 @@ public void SetLanguage(string lang)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lang | String | Идентификатор языка должен быть либо пустой строкой, чтобы указать, что язык неизвестен, либо языковым тегом, как определено в RFC 3066, Теги для идентификации языков. |
+| lang | String | Идентификатор языка должен быть либо пустой строкой, указывающей, что язык неизвестен, либо меткой языка (Language-Tag), определённой в RFC 3066, Tags for the Identification of Languages. |
 
 ### См. также
 
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

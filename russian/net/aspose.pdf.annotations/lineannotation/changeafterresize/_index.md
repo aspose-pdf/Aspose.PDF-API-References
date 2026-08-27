@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LineAnnotation. Обновляет начальные и конечные точки в соответствии с матричным преобразованием
+title: "LineAnnotation.ChangeAfterResize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "LineAnnotation method. Обновляет начальную и конечную точки в соответствии с преобразованием матрицы"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.annotations/lineannotation/changeafterresize/
 ---
-## Метод LineAnnotation.ChangeAfterResize
+## LineAnnotation.ChangeAfterResize method
 
-Обновляет начальные и конечные точки в соответствии с матричным преобразованием.
+Обновляет начальные и конечные точки в соответствии с преобразованием матрицы.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
@@ -16,11 +16,13 @@ public override void ChangeAfterResize(Matrix transform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| transform | Matrix | Матрица, задающая преобразование. |
+| преобразование | Matrix | Matrix, определяющая преобразование. |
 
 ### См. также
 
-* класс [Matrix](../../../aspose.pdf/matrix/)
-* класс [LineAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

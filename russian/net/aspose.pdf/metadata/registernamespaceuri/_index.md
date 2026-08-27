@@ -1,14 +1,14 @@
 ---
-title: Metadata.RegisterNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Метод метаданных. Регистрирует URI пространства имен
+title: "Metadata.RegisterNamespaceUri"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Metadata. Регистрирует URI пространства имён"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf/metadata/registernamespaceuri/
 ---
 ## RegisterNamespaceUri(string, string) {#registernamespaceuri}
 
-Регистрирует URI пространства имен.
+Регистрирует URI пространства имён.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
@@ -17,19 +17,19 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | prefix | String | Значение префикса. |
-| namespaceUri | String | Значение URI пространства имен. |
+| namespaceUri | String | Значение URI пространства имён. |
 
 ### См. также
 
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## RegisterNamespaceUri(string, string, string) {#registernamespaceuri_1}
 
-Регистрирует URI пространства имен.
+Регистрирует URI пространства имён.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri, string schemaDescription)
@@ -38,11 +38,13 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri, string sche
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | prefix | String | Значение префикса. |
-| namespaceUri | String | Значение URI пространства имен. |
+| namespaceUri | String | Значение URI пространства имён. |
 | schemaDescription | String | Значение описания схемы. |
 
 ### См. также
 
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

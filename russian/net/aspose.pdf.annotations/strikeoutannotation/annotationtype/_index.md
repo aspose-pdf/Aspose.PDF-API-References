@@ -1,12 +1,12 @@
 ---
-title: StrikeOutAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StrikeOutAnnotation. Получает тип аннотации
+title: "StrikeOutAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StrikeOutAnnotation свойство. Получает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/strikeoutannotation/annotationtype/
 ---
-## Свойство StrikeOutAnnotation.AnnotationType
+## StrikeOutAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [StrikeOutAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetColorStroke.C
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetColorStroke. Получает или задает компонент циана
+title: "SetColorStroke.C"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetColorStroke. Получает или задает циановый компонент"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/setcolorstroke/c/
 ---
-## Свойство SetColorStroke.C
+## SetColorStroke.C property
 
-Получает или задает компонент циана.
+Получает или задает циановый компонент.
 
 ```csharp
 public double C { get; set; }
@@ -16,6 +16,8 @@ public double C { get; set; }
 
 ### См. также
 
-* класс [SetColorStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

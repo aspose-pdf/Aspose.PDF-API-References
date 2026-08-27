@@ -1,12 +1,12 @@
 ---
-title: IncompleteDetails.IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор IncompleteDetails. Конструктор по умолчанию
+title: "IncompleteDetails.IncompleteDetails"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор IncompleteDetails. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/incompletedetails/incompletedetails/
 ---
-## Конструктор IncompleteDetails
+## IncompleteDetails constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public IncompleteDetails()
 
 ### См. также
 
-* класс [IncompleteDetails](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [IncompleteDetails](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

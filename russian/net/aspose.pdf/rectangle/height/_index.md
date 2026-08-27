@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Rectangle. Высота прямоугольника
+title: "Rectangle.Height"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Rectangle. Высота прямоугольника."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/rectangle/height/
 ---
-## Свойство Rectangle.Height
+## Rectangle.Height property
 
 Высота прямоугольника.
 
@@ -16,6 +16,8 @@ public double Height { get; }
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

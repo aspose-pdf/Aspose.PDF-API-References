@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.Logprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompletionCreateRequest. Получает или устанавливает, следует ли возвращать логарифмические вероятности выходных токенов или нет. Если true, возвращает логарифмические вероятности каждого выходного токена, возвращенного в содержимом сообщения.
+title: "CompletionCreateRequest.Logprobs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "CompletionCreateRequest свойство. Получает или задает, возвращать ли лог‑вероятности выходных токенов. Если true, возвращает лог‑вероятности каждого выходного токена, возвращаемого в содержимом сообщения"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/completioncreaterequest/logprobs/
 ---
-## Свойство CompletionCreateRequest.Logprobs
+## CompletionCreateRequest.Logprobs property
 
-Получает или устанавливает, следует ли возвращать логарифмические вероятности выходных токенов или нет. Если true, возвращает логарифмические вероятности каждого выходного токена, возвращенного в содержимом сообщения.
+Получает или задает, возвращать ли лог‑вероятности выходных токенов. Если true, возвращает лог‑вероятности каждого выходного токена, включённого в содержимое сообщения.
 
 ```csharp
 public bool? Logprobs { get; set; }
@@ -16,6 +16,8 @@ public bool? Logprobs { get; set; }
 
 ### См. также
 
-* класс [CompletionCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

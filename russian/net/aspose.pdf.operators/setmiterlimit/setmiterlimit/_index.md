@@ -1,12 +1,12 @@
 ---
-title: SetMiterLimit.SetMiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetMiterLimit. Инициализирует оператор
+title: "SetMiterLimit.SetMiterLimit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetMiterLimit. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setmiterlimit/setmiterlimit/
 ---
-## Конструктор SetMiterLimit
+## SetMiterLimit constructor
 
 Инициализирует оператор.
 
@@ -16,10 +16,12 @@ public SetMiterLimit(double miterLimit)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| miterLimit | Double | Предел мита. |
+| miterLimit | Double | Предел среза. |
 
 ### См. также
 
-* класс [SetMiterLimit](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetMiterLimit](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

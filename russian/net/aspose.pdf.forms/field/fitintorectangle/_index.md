@@ -1,14 +1,14 @@
 ---
-title: Field.FitIntoRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство поля. Если истинно, размер шрифта будет уменьшен, чтобы вписать текст в заданный прямоугольник
+title: "Field.FitIntoRectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Field свойство. Если true, размер шрифта будет уменьшен, чтобы поместить текст в указанный прямоугольник."
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.forms/field/fitintorectangle/
 ---
-## Свойство Field.FitIntoRectangle
+## Field.FitIntoRectangle property
 
-Если истинно, размер шрифта будет уменьшен, чтобы вписать текст в заданный прямоугольник.
+Если true, то размер шрифта будет уменьшен, чтобы поместить текст в указанный прямоугольник.
 
 ```csharp
 public static bool FitIntoRectangle { get; set; }
@@ -16,6 +16,8 @@ public static bool FitIntoRectangle { get; set; }
 
 ### См. также
 
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

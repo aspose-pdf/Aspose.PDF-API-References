@@ -1,14 +1,14 @@
 ---
-title: Enum EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum EmphasisStyle Aspose.Pdf. Определяет доступные стили сериализации для акцента и сильного акцента. Для спецификации см. CommonMark  Акцент и сильный акцент
+title: "Перечисление EmphasisStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.EmphasisStyle. Определяет доступные стили сериализации для выделения и сильного выделения. Для спецификации см. CommonMark  Emphasis and strong emphasis"
 type: docs
-weight: 4020
+weight: 4140
 url: /ru/net/aspose.pdf/emphasisstyle/
 ---
-## Перечисление EmphasisStyle
+## EmphasisStyle enumeration
 
-Определяет доступные стили сериализации для акцента и сильного акцента. Для спецификации см. CommonMark - Акцент и сильный акцент.
+Определяет доступные стили сериализации для выделения и сильного выделения. Для спецификации см. CommonMark — Emphasis and strong emphasis.
 
 ```csharp
 public enum EmphasisStyle
@@ -18,10 +18,12 @@ public enum EmphasisStyle
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Asterisk | `0` | Используйте '*' соответственно '**' для (сильно) акцентированного текста. |
-| Underscore | `1` | Используйте '_' соответственно '__' для (сильно) акцентированного текста. |
+| Asterisk | `0` | Используйте «*» и соответственно «**» для (сильно) выделенного текста. |
+| Underscore | `1` | Используйте «_» и соответственно «__» для (сильно) выделенного текста. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

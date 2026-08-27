@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfViewer. Получает или устанавливает значение, указывающее вертикальное выравнивание
+title: "PdfViewer.VerticalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfViewer. Получает или задает значение, указывающее вертикальное выравнивание"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.facades/pdfviewer/verticalalignment/
 ---
-## Свойство PdfViewer.VerticalAlignment
+## PdfViewer.VerticalAlignment property
 
-Получает или устанавливает значение, указывающее вертикальное выравнивание
+Получает или задает значение, указывающее вертикальное выравнивание.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

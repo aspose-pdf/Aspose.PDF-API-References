@@ -1,12 +1,12 @@
 ---
-title: CreateFineTuningJobRequest.CreateFineTuningJobRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CreateFineTuningJobRequest. Конструктор по умолчанию
+title: "CreateFineTuningJobRequest.CreateFineTuningJobRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CreateFineTuningJobRequest. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/createfinetuningjobrequest/createfinetuningjobrequest/
 ---
-## Конструктор CreateFineTuningJobRequest
+## CreateFineTuningJobRequest constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public CreateFineTuningJobRequest()
 
 ### См. также
 
-* класс [CreateFineTuningJobRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateFineTuningJobRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

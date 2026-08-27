@@ -1,12 +1,12 @@
 ---
-title: SignatureName.FullName
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SignatureName. Получает полное имя подписи, предоставляя уникальный и точный идентификатор для поля подписи
+title: "SignatureName.FullName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SignatureName. Получает полное имя подписи, предоставляющее уникальный и точный идентификатор для поля подписи"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/signaturename/fullname/
 ---
-## Поле SignatureName.FullName
+## SignatureName.FullName field
 
 Получает полное имя подписи, предоставляя уникальный и точный идентификатор для поля подписи.
 
@@ -16,6 +16,8 @@ public readonly string FullName;
 
 ### См. также
 
-* класс [SignatureName](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

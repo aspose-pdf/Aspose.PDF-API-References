@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Rectangle. Конструктор Rectangle
+title: "Rectangle.Rectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Rectangle. Конструктор Rectangle"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/rectangle/rectangle/
 ---
-## Конструктор Rectangle
+## Rectangle constructor
 
 Конструктор Rectangle.
 
@@ -18,12 +18,14 @@ public Rectangle(double llx, double lly, double urx, double ury, bool normalizeC
 | --- | --- | --- |
 | llx | Double | X нижнего левого угла. |
 | lly | Double | Y нижнего левого угла. |
-| urx | Double | X верхнего правого угла. |
-| ury | Double | Y верхнего правого угла. |
+| urx | Double | X правого верхнего угла. |
+| ury | Double | Y правого верхнего угла. |
 | normalizeCoordinates | Boolean | Нормализовать координаты прямоугольника. |
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

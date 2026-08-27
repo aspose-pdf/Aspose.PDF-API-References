@@ -1,12 +1,12 @@
 ---
-title: Class Resources.ExtGStateValue
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.ResourcesExtGStateValue. Представляет ExtGStates с некоторыми значениями
+title: "Класс Resources.ExtGStateValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.ResourcesExtGStateValue. Представляет ExtGStates с некоторыми значениями."
 type: docs
-weight: 9780
+weight: 9930
 url: /ru/net/aspose.pdf/resources.extgstatevalue/
 ---
-## Класс Resources.ExtGStateValue
+## Resources.ExtGStateValue class
 
 Представляет ExtGStates с некоторыми значениями.
 
@@ -30,6 +30,8 @@ public class ExtGStateValue
 
 ### См. также
 
-* класс [Resources](../resources/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [Resources](../resources/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FileParams.ModDate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileParams. Дата и время последнего изменения встроенного файла
+title: "FileParams.ModDate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileParams. Дата и время последнего изменения встроенного файла."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/fileparams/moddate/
 ---
-## Свойство FileParams.ModDate
+## FileParams.ModDate property
 
-Дата и время последнего изменения встроенного файла.
+Дата и время последнего изменения вложенного файла.
 
 ```csharp
 public DateTime ModDate { get; set; }
@@ -16,6 +16,8 @@ public DateTime ModDate { get; set; }
 
 ### См. также
 
-* класс [FileParams](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileParams](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

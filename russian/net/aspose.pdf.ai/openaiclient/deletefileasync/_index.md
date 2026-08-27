@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.DeleteFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Удаляет конкретный файл асинхронно
+title: "OpenAIClient.DeleteFileAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Удаляет указанный файл асинхронно"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.ai/openaiclient/deletefileasync/
 ---
-## Метод OpenAIClient.DeleteFileAsync
+## OpenAIClient.DeleteFileAsync method
 
 Удаляет конкретный файл асинхронно.
 
@@ -17,7 +17,7 @@ public Task<DeleteStatusResponse> DeleteFileAsync(string fileId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileId | String | Идентификатор файла для удаления. |
+| fileId | String | Идентификатор файла, который нужно удалить. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
@@ -32,7 +32,9 @@ public Task<DeleteStatusResponse> DeleteFileAsync(string fileId,
 
 ### См. также
 
-* класс [DeleteStatusResponse](../../deletestatusresponse/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

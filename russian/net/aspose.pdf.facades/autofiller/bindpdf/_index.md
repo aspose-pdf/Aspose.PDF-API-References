@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AutoFiller. Привязывает файл Pdf
+title: "AutoFiller.BindPdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AutoFiller. Привязывает файл Pdf"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/autofiller/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Привязывает файл Pdf.
+Привязывает Pdf файл.
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -20,15 +20,15 @@ public void BindPdf(string srcFile)
 
 ### См. также
 
-* класс [AutoFiller](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Привязывает файл Pdf.
+Привязывает Pdf файл.
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -40,15 +40,15 @@ public void BindPdf(Stream srcStream)
 
 ### См. также
 
-* класс [AutoFiller](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Document) {#bindpdf}
 
-Привязывает документ Pdf.
+Привязывает Pdf Document.
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -56,11 +56,13 @@ public void BindPdf(Document srcDoc)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcDoc | Document | Документ Pdf. |
+| srcDoc | Document | Pdf документ. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [AutoFiller](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

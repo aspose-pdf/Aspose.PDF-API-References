@@ -1,7 +1,7 @@
 ---
-title: Cells.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Cells. Добавить ячейку в коллекцию
+title: "Cells.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Cells method. Добавить ячейку в коллекцию"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/cells/add/
@@ -14,11 +14,11 @@ url: /ru/net/aspose.pdf/cells/add/
 public Cell Add()
 ```
 
-### Return Value
+### Возвращаемое значение
 
 Новая ячейка
 
-### See Also
+### См. также
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -35,16 +35,16 @@ public Cell Add()
 public Cell Add(string text, TextState ts)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст для ячейки. |
+| текст | String | Текст для ячейки. |
 | ts | TextState | Состояние текста. |
 
-### Return Value
+### Возвращаемое значение
 
 Новая ячейка
 
-### See Also
+### См. также
 
 * class [Cell](../../cell/)
 * class [TextState](../../../aspose.pdf.text/textstate/)
@@ -62,15 +62,15 @@ public Cell Add(string text, TextState ts)
 public Cell Add(string text)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст для ячейки. |
+| текст | String | Текст для ячейки. |
 
-### Return Value
+### Возвращаемое значение
 
 Новая ячейка
 
-### See Also
+### См. также
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -87,13 +87,15 @@ public Cell Add(string text)
 public void Add(Cell cell)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| cell | Cell | Ячейка для коллекции. |
+| ячейка | Cell | Ячейка в коллекцию. |
 
-### See Also
+### См. также
 
 * class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

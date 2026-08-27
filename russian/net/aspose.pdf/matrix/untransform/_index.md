@@ -1,14 +1,14 @@
 ---
-title: Matrix.UnTransform
-second_title: Aspose.PDF for .NET API Reference
-description: Метод матрицы. Преобразует обратно x1 и y1 и возвращает x и y до преобразования матрицы, используя следующую формулу x = D  x1 - C  y1 + C  F / A  D - C  B; y = A  y1 - B  x1 + B  E / A  D - C  B.
+title: "Matrix.UnTransform"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Matrix. Преобразует обратно x1 и y1 и возвращает x и y до преобразования матрицы, используя следующую формулу x  D  x1  C  y1  C  F / A  D  C  B y  A  y1  B  x1  B  E / A  D  C  B"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf/matrix/untransform/
 ---
-## Метод Matrix.UnTransform
+## Matrix.UnTransform method
 
-Преобразует обратно x1 и y1 и возвращает x и y до преобразования матрицы, используя следующую формулу: x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B).
+Обратно преобразует x1 и y1 и возвращает x и y до преобразования матрицы, используя следующую формулу: x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B).
 
 ```csharp
 public void UnTransform(double x1, double y1, out double x, out double y)
@@ -23,6 +23,8 @@ public void UnTransform(double x1, double y1, out double x, out double y)
 
 ### См. также
 
-* класс [Matrix](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

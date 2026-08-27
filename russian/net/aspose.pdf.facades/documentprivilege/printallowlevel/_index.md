@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.PrintAllowLevel
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentPrivilege. Получает и устанавливает уровень печати привилегий документов. Так же, как настройки разрешения на печать в Adobe Professionals. 0 Никакой. 1 Низкое разрешение 150 dpi. 2 Высокое разрешение.
+title: "DocumentPrivilege.PrintAllowLevel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentPrivilege. Получает и задает уровень печати привилегий документов. Аналогично настройкам Printing Allowed в Adobe Professionals. 0 — Нет. 1 — Низкое разрешение 150 dpi. 2 — Высокое разрешение."
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/documentprivilege/printallowlevel/
 ---
-## Свойство DocumentPrivilege.PrintAllowLevel
+## DocumentPrivilege.PrintAllowLevel property
 
-Получает и устанавливает уровень печати привилегий документа. Так же, как настройки разрешения на печать в Adobe Professional. 0: Никакой. 1: Низкое разрешение (150 dpi). 2: Высокое разрешение.
+Получает и задает уровень печати привилегий Document. Точно так же, как настройки Printing Allowed в Adobe Professional. 0: Нет. 1: Низкое разрешение (150 dpi). 2: Высокое разрешение.
 
 ```csharp
 public int PrintAllowLevel { get; set; }
@@ -16,10 +16,12 @@ public int PrintAllowLevel { get; set; }
 
 ## Примечания
 
-Если свойство имеет значение -1, то уровень не определен.
+Если у свойства значение -1, то уровень не определён.
 
 ### См. также
 
-* класс [DocumentPrivilege](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

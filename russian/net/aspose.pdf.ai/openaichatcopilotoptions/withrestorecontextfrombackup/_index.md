@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithRestoreContextFromBackup
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Устанавливает, следует ли восстанавливать контекст из резервной копии в параметрах чат-коопилота
+title: "OpenAIChatCopilotOptions.WithRestoreContextFromBackup"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIChatCopilotOptions метод. Устанавливает, следует ли восстанавливать контекст из резервной копии в параметрах чат‑копилота"
 type: docs
-weight: 160
+weight: 170
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withrestorecontextfrombackup/
 ---
-## Метод OpenAIChatCopilotOptions.WithRestoreContextFromBackup
+## OpenAIChatCopilotOptions.WithRestoreContextFromBackup method
 
-Устанавливает, следует ли восстанавливать контекст из резервной копии в параметрах чат-коопилота.
+Устанавливает, следует ли восстанавливать контекст из резервной копии в опциях чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithRestoreContextFromBackup(bool restoreContext)
@@ -24,6 +24,8 @@ public OpenAIChatCopilotOptions WithRestoreContextFromBackup(bool restoreContext
 
 ### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CrashReportOptions.LibraryVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CrashReportOptions. Версия используемой библиотеки
+title: "CrashReportOptions.LibraryVersion"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CrashReportOptions. Версия используемой библиотеки"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/crashreportoptions/libraryversion/
 ---
-## Свойство CrashReportOptions.LibraryVersion
+## CrashReportOptions.LibraryVersion property
 
 Версия используемой библиотеки.
 
@@ -16,6 +16,8 @@ public string LibraryVersion { get; }
 
 ### См. также
 
-* класс [CrashReportOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

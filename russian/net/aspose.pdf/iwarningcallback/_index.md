@@ -1,14 +1,14 @@
 ---
-title: Interface IWarningCallback
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.IWarningCallback. Интерфейс для поддержки механизма обратного вызова пользователя
+title: "Интерфейс IWarningCallback"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.IWarningCallback. Интерфейс поддержки механизма обратного вызова для пользователей"
 type: docs
-weight: 5840
+weight: 5970
 url: /ru/net/aspose.pdf/iwarningcallback/
 ---
-## Интерфейс IWarningCallback
+## IWarningCallback interface
 
-Интерфейс для поддержки механизма обратного вызова пользователя.
+Интерфейс поддержки механизма обратного вызова пользователя.
 
 ```csharp
 public interface IWarningCallback
@@ -16,11 +16,13 @@ public interface IWarningCallback
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [Warning](../../aspose.pdf/iwarningcallback/warning/)(WarningInfo) | Метод обратного вызова для некоторых уведомлений программы. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

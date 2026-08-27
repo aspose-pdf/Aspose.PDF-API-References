@@ -1,14 +1,14 @@
 ---
-title: Class SetCMYKColor
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetCMYKColor. Класс, представляющий оператор k для установки цвета CMYK для нештриховых операций
+title: "Класс SetCMYKColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.SetCMYKColor класс. Класс, представляющий оператор k, задающий CMYK‑цвет для операций без обводки."
 type: docs
-weight: 7580
+weight: 7720
 url: /ru/net/aspose.pdf.operators/setcmykcolor/
 ---
-## Класс SetCMYKColor
+## SetCMYKColor class
 
-Класс, представляющий оператор k (устанавливает цвет CMYK для нештриховых операций).
+Класс, представляющий оператор k (устанавливает CMYK‑цвет для операций без обводки).
 
 ```csharp
 public class SetCMYKColor : SetColorOperator
@@ -24,23 +24,25 @@ public class SetCMYKColor : SetColorOperator
 
 | Имя | Описание |
 | --- | --- |
-| [C](../../aspose.pdf.operators/setcmykcolor/c/) { get; set; } | Получает или задает компонент циан. |
+| [C](../../aspose.pdf.operators/setcmykcolor/c/) { get; set; } | Получает или задает циановый компонент. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [K](../../aspose.pdf.operators/setcmykcolor/k/) { get; set; } | Получает или задает компонент черного. |
-| [M](../../aspose.pdf.operators/setcmykcolor/m/) { get; set; } | Получает или задает компонент маджента. |
-| [Y](../../aspose.pdf.operators/setcmykcolor/y/) { get; set; } | Получает или задает компонент желтого. |
+| [K](../../aspose.pdf.operators/setcmykcolor/k/) { get; set; } | Получает или задает черный компонент. |
+| [M](../../aspose.pdf.operators/setcmykcolor/m/) { get; set; } | Получает или задает пурпурный компонент. |
+| [Y](../../aspose.pdf.operators/setcmykcolor/y/) { get; set; } | Получает или задает желтый компонент. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcmykcolor/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcmykcolor/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [getColor](../../aspose.pdf.operators/setcmykcolor/getcolor/)() | Возвращает цвет. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [SetColorOperator](../setcoloroperator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [SetColorOperator](../setcoloroperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

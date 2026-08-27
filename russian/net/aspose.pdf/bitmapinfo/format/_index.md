@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.Format
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BitmapInfo. Получает формат пикселей битмапа
+title: "BitmapInfo.Format"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BitmapInfo. Возвращает формат пикселей растрового изображения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/bitmapinfo/format/
 ---
-## Свойство BitmapInfo.Format
+## BitmapInfo.Format property
 
 Получает формат пикселей битмапа.
 
@@ -20,3 +20,5 @@ public PixelFormat Format { get; }
 * class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

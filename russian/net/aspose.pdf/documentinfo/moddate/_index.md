@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.ModDate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentInfo. Получает или устанавливает дату изменения документа
+title: "DocumentInfo.ModDate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentInfo. Получает или задает дату изменения документа"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/documentinfo/moddate/
 ---
-## Свойство DocumentInfo.ModDate
+## DocumentInfo.ModDate property
 
-Получает или устанавливает дату изменения документа.
+Получает или задает дату изменения документа.
 
 ```csharp
 public DateTime ModDate { get; set; }
@@ -16,6 +16,8 @@ public DateTime ModDate { get; set; }
 
 ### См. также
 
-* класс [DocumentInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

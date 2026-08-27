@@ -1,14 +1,14 @@
 ---
-title: Class PdfAConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.PdfAConverter. Представляет плагин для обработки конвертации PDF-документов в формат PDF/A и для проверки соответствия PDF/A
+title: "Класс PdfAConverter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.PdfAConverter. Представляет плагин для обработки конвертации PDF‑документов в формат PDF/A и для проверки соответствия PDF/A"
 type: docs
-weight: 9000
+weight: 9150
 url: /ru/net/aspose.pdf.plugins/pdfaconverter/
 ---
-## Класс PdfAConverter
+## PdfAConverter class
 
-Представляет плагин для обработки конвертации PDF-документов в формат PDF/A и для проверки соответствия PDF/A.
+Представляет плагин для обработки конвертации PDF‑документов в формат PDF/A и проверки соответствия PDF/A.
 
 ```csharp
 public sealed class PdfAConverter : IPlugin
@@ -24,31 +24,31 @@ public sealed class PdfAConverter : IPlugin
 
 | Имя | Описание |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/pdfaconverter/process/)(IPluginOptions) | Начинает процесс конвертации или проверки PDF/A с заданными параметрами. |
+| [Process](../../aspose.pdf.plugins/pdfaconverter/process/)(IPluginOptions) | Запускает процесс конвертации или проверки PDF/A с заданными параметрами. |
 
 ## Примеры
 
-Пример демонстрирует, как проверить соответствие PDF-документа формату PDF/A (в данном случае PDF/A-1a):
+Пример демонстрирует, как проверить соответствие PDF‑документа формату PDF/A (в данном случае PDF/A-1a):
 
 ```csharp
-// Create the options class to set up the validation process
+// Создайте класс параметров для настройки процесса проверки
 var options = new PdfAValidateOptions
 {
     PdfAVersion = PdfAStandardVersion.PDF_A_1A
 };
 
-// Add one or more files to be validated
+// Добавьте один или несколько файлов для проверки
 options.AddInput(new FileDataSource("path_to_your_first_pdf_file.pdf")); // replace with your actual file path
 options.AddInput(new FileDataSource("path_to_your_second_pdf_file.pdf"));
-// add more files as needed
+// добавьте дополнительные файлы по мере необходимости
 
-// Create the plugin instance
+// Создайте экземпляр плагина
 var plugin = new PdfAConverter();
 
-// Run the validation and get results
+// Запустите проверку и получите результаты
 var resultContainer = plugin.Process(options);
 
-// Check the resultContainer.ResultCollection property for validation results for each file:
+// Проверьте свойство resultContainer.ResultCollection для получения результатов проверки каждого файла:
 for (var i = 0; i < resultContainer.ResultCollection.Count; i++)
 {
     var result = resultContainer.ResultCollection[i];
@@ -57,30 +57,32 @@ for (var i = 0; i < resultContainer.ResultCollection.Count; i++)
 }
 ```
 
-Пример демонстрирует, как конвертировать PDF-документ в формат PDF/A (в данном случае PDF/A-3b):
+Пример демонстрирует, как конвертировать PDF‑документ в формат PDF/A (в данном случае PDF/A-3b):
 
 ```csharp
-// Create the options class to set up the conversion process
+// Создайте класс параметров для настройки процесса конвертации
 var options = new PdfAConvertOptions
 {
     PdfAVersion = PdfAStandardVersion.PDF_A_3B
 };
 
-// Add the source file
+// Добавьте исходный файл
 options.AddInput(new FileDataSource("path_to_your_pdf_file.pdf")); // replace with your actual file path
 
-// Add the path to save the converted file
+// Укажите путь для сохранения преобразованного файла
 options.AddOutput(new FileDataSource("path_to_the_converted_file.pdf"));
 
-// Create the plugin instance
+// Создайте экземпляр плагина
 var plugin = new PdfAConverter();
 
-// Run the conversion
+// Запустите конвертацию
 plugin.Process(options);
 ```
 
 ### См. также
 
-* интерфейс [IPlugin](../iplugin/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.PrinterUri
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PrinterSettings. Получает или устанавливает URI сетевого принтера
+title: "PrinterSettings.PrinterUri"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PrinterSettings. Получает или задает URI сетевого принтера"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.printing/printersettings/printeruri/
 ---
-## Свойство PrinterSettings.PrinterUri
+## PrinterSettings.PrinterUri property
 
-Получает или устанавливает URI сетевого принтера.
+Получает или задает URI сетевого принтера.
 
 ```csharp
 public Uri PrinterUri { get; set; }
@@ -16,6 +16,8 @@ public Uri PrinterUri { get; set; }
 
 ### См. также
 
-* класс [PrinterSettings](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

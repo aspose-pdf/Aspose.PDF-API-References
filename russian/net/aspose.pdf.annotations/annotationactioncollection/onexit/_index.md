@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnExit
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AnnotationActionCollection. Получает или задает действие, которое должно быть выполнено, когда курсор покидает активную область аннотаций
+title: "AnnotationActionCollection.OnExit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AnnotationActionCollection. Получает или задает действие, которое будет выполнено, когда курсор покидает активную область аннотации"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/annotationactioncollection/onexit/
 ---
-## Свойство AnnotationActionCollection.OnExit
+## AnnotationActionCollection.OnExit property
 
-Получает или задает действие, которое должно быть выполнено, когда курсор покидает активную область аннотации.
+Получает или задает действие, которое будет выполнено, когда курсор покидает активную область аннотации.
 
 ```csharp
 public PdfAction OnExit { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnExit { get; set; }
 
 ### См. также
 
-* класс [PdfAction](../../pdfaction/)
-* класс [AnnotationActionCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

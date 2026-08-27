@@ -1,12 +1,12 @@
 ---
-title: StructureElement.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureElement. Получает или задает заголовок для элемента структуры
+title: "StructureElement.Title"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureElement. Получает или задает заголовок для структурного элемента"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/title/
 ---
-## Свойство StructureElement.Title
+## StructureElement.Title property
 
 Получает или задает заголовок для элемента структуры.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf.logicalstructure/structureelement/title/
 public string Title { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Заголовок элемента структуры.
+Заголовок структурного элемента.
 
 ### См. также
 
-* класс [StructureElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

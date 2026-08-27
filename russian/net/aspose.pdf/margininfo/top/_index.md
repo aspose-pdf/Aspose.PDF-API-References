@@ -1,14 +1,14 @@
 ---
-title: MarginInfo.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarginInfo. Получает или задает значение с плавающей запятой, которое указывает верхний отступ
+title: "MarginInfo.Top"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MarginInfo. Получает или задает значение типа float, указывающее верхний отступ"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/margininfo/top/
 ---
-## Свойство MarginInfo.Top
+## MarginInfo.Top property
 
-Получает или задает значение с плавающей запятой, которое указывает верхний отступ.
+Получает или задает значение типа float, указывающее верхний отступ.
 
 ```csharp
 public double Top { get; set; }
@@ -16,6 +16,8 @@ public double Top { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

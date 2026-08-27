@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginPartStyle.MarginPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор MarginPartStyle. Создает экземпляр класса MarginPartStyle и устанавливает его значение в пунктах
+title: "SaveOptions.MarginPartStyle.MarginPartStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор MarginPartStyle. Создаёт экземпляр класса MarginPartStyle и задаёт его значение в пунктах"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/saveoptions.marginpartstyle/marginpartstyle/
 ---
 ## MarginPartStyle(int) {#constructor_1}
 
-Создает экземпляр класса MarginPartStyle и устанавливает его значение в пунктах
+Создает экземпляр класса MarginPartStyle и задает его значение в пунктах
 
 ```csharp
 public MarginPartStyle(int valueInPoints)
@@ -20,15 +20,15 @@ public MarginPartStyle(int valueInPoints)
 
 ### См. также
 
-* класс [MarginPartStyle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MarginPartStyle(bool) {#constructor}
 
-Создает экземпляр класса MarginPartStyle и инициализирует его значение в пунктах
+Создаёт экземпляр класса MarginPartStyle и инициализирует его значение в пунктах
 
 ```csharp
 public MarginPartStyle(bool isAuto)
@@ -36,10 +36,12 @@ public MarginPartStyle(bool isAuto)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| isAuto | Boolean | Установить автоматический отступ |
+| isAuto | Boolean | Отметить отступ как автоматический |
 
 ### См. также
 
-* класс [MarginPartStyle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

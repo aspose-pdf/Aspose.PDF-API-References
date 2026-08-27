@@ -1,14 +1,14 @@
 ---
-title: Measure.Measure
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Measure. Создает объект Measure для аннотаций измерений
+title: "Measure.Measure"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Measure. Создаёт объект Measure для измерительных аннотаций"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/measure/measure/
 ---
-## Конструктор Measure
+## Measure constructor
 
-Создает объект Measure для аннотаций измерений.
+Создаёт объект Measure для аннотаций измерения.
 
 ```csharp
 public Measure(Annotation annotation)
@@ -16,11 +16,13 @@ public Measure(Annotation annotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Аннотация, к которой будет привязано измерение. |
+| аннотация | Аннотация | Аннотация, к которой будет привязано измерение. |
 
 ### См. также
 
-* класс [Annotation](../../annotation/)
-* класс [Measure](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

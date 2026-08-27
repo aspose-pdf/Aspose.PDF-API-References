@@ -1,12 +1,12 @@
 ---
-title: Enum AnnotationStateModel
-second_title: Aspose.PDF for .NET API Reference
-description: Enum AnnotationStateModel в Aspose.Pdf.Annotations. Модель состояния, соответствующая состоянию аннотации
+title: "Перечисление AnnotationStateModel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.AnnotationStateModel перечисление. Модель состояния, соответствующая состоянию аннотации."
 type: docs
-weight: 1470
+weight: 1560
 url: /ru/net/aspose.pdf.annotations/annotationstatemodel/
 ---
-## Перечисление AnnotationStateModel
+## AnnotationStateModel enumeration
 
 Модель состояния, соответствующая состоянию аннотации.
 
@@ -18,11 +18,13 @@ public enum AnnotationStateModel
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Undefined | `0` | Неопределенная модель состояния. |
-| Marked | `1` | Аннотация была отмечена (или снята отметка) пользователем. |
-| Review | `2` | Аннотация была рассмотрена (принята, отклонена, отменена, завершена, нет) пользователем. |
+| Undefined | `0` | Неопределённая модель состояния. |
+| Marked | `1` | Аннотация была отмечена (или снята) пользователем. |
+| Review | `2` | Аннотация была проверена (принята, отклонена, отменена, завершена, нет) пользователем. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

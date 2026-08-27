@@ -1,14 +1,14 @@
 ---
-title: HighlightAnnotation.HighlightAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор HighlightAnnotation. Создает новую аннотацию выделения на указанной странице
+title: "HighlightAnnotation.HighlightAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор HighlightAnnotation. Создает новую аннотацию Highlight на указанной странице"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/highlightannotation/highlightannotation/
 ---
-## Конструктор HighlightAnnotation
+## HighlightAnnotation constructor
 
-Создает новую аннотацию выделения на указанной странице.
+Создаёт новую аннотацию Highlight на указанной странице.
 
 ```csharp
 public HighlightAnnotation(Page page, Rectangle rect)
@@ -16,13 +16,15 @@ public HighlightAnnotation(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница документа, на которой должна быть создана аннотация. |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| страница | Страница | Страница Document, где следует создать аннотацию. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий её расположение на странице. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [HighlightAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [HighlightAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

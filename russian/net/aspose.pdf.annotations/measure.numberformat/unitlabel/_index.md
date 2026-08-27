@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.UnitLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NumberFormat. Строка текста, указывающая метку для отображения единиц
+title: "Measure.NumberFormat.UnitLabel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NumberFormat. Текстовая строка, указывающая метку для отображения единиц измерения"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/unitlabel/
 ---
-## Свойство Measure.NumberFormat.UnitLabel
+## Measure.NumberFormat.UnitLabel property
 
-Строка текста, указывающая метку для отображения единиц.
+Текстовая строка, указывающая метку для отображения единиц.
 
 ```csharp
 public string UnitLabel { get; set; }
@@ -16,6 +16,8 @@ public string UnitLabel { get; set; }
 
 ### См. также
 
-* класс [NumberFormat](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

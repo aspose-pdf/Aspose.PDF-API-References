@@ -1,12 +1,12 @@
 ---
-title: Enum PageCoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PageCoordinateType Aspose.Pdf. Описывает тип координат страницы
+title: "Перечисление PageCoordinateType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.PageCoordinateType enum. Описывает тип координат страницы"
 type: docs
-weight: 8100
+weight: 8240
 url: /ru/net/aspose.pdf/pagecoordinatetype/
 ---
-## Перечисление PageCoordinateType
+## PageCoordinateType enumeration
 
 Описывает тип координат страницы.
 
@@ -18,10 +18,12 @@ public enum PageCoordinateType
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| MediaBox | `0` | MediaBox используется для указания ширины и высоты страницы. Для среднего пользователя это, вероятно, соответствует фактическому размеру страницы. MediaBox является самым большим прямоугольником страницы в PDF. Другие прямоугольники страницы могут равняться размеру MediaBox, но не могут быть больше. |
-| CropBox | `1` | CropBox определяет область, в которую будут обрезаны содержимое страницы. Acrobat использует этот размер для отображения на экране и печати. |
+| MediaBox | `0` | MediaBox используется для указания ширины и высоты страницы. Для обычного пользователя это, вероятно, соответствует фактическому размеру страницы. MediaBox является самым большим коробом страницы в PDF. Другие коробки страницы могут быть равны размеру MediaBox, но не могут быть больше его. |
+| CropBox | `1` | CropBox определяет область, к которой будет обрезано содержимое страницы. Acrobat использует этот размер для отображения на экране и печати. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

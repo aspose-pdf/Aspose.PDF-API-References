@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LlamaSummaryCopilotOptions. Устанавливает модель для параметров копилота резюме
+title: "LlamaSummaryCopilotOptions.WithModel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LlamaSummaryCopilotOptions. Устанавливает модель для параметров помощника резюмирования"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.ai/llamasummarycopilotoptions/withmodel/
 ---
-## Метод LlamaSummaryCopilotOptions.WithModel
+## LlamaSummaryCopilotOptions.WithModel method
 
-Устанавливает модель для параметров копилота резюме.
+Устанавливает модель для параметров сопилота резюме.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithModel(string model)
@@ -24,6 +24,8 @@ public LlamaSummaryCopilotOptions WithModel(string model)
 
 ### См. также
 
-* класс [LlamaSummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

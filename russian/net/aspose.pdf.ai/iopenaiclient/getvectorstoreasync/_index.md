@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно извлекает детали конкретного векторного хранилища
+title: "IOpenAIClient.GetVectorStoreAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно получает детали конкретного векторного хранилища."
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.ai/iopenaiclient/getvectorstoreasync/
 ---
-## Метод IOpenAIClient.GetVectorStoreAsync
+## IOpenAIClient.GetVectorStoreAsync method
 
-Асинхронно извлекает детали конкретного векторного хранилища.
+Получает детали конкретного векторного хранилища асинхронно.
 
 ```csharp
 public Task<VectorStoreResponse> GetVectorStoreAsync(string vectorStoreId, 
@@ -17,7 +17,7 @@ public Task<VectorStoreResponse> GetVectorStoreAsync(string vectorStoreId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| vectorStoreId | String | Идентификатор векторного хранилища для извлечения. |
+| vectorStoreId | String | Идентификатор векторного хранилища для получения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
@@ -32,7 +32,9 @@ public Task<VectorStoreResponse> GetVectorStoreAsync(string vectorStoreId,
 
 ### См. также
 
-* класс [VectorStoreResponse](../../vectorstoreresponse/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

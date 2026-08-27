@@ -1,14 +1,14 @@
 ---
-title: FormComboBoxFieldSetOptions.Editable
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormComboBoxFieldSetOptions. Получает/устанавливает значение для определения свойства Editable для измененного поля, если оно будет установлено.
+title: "FormComboBoxFieldSetOptions.Editable"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormComboBoxFieldSetOptions. Получает/устанавливает значение, определяющее свойство Editable для изменённого поля, если оно будет установлено"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/formcomboboxfieldsetoptions/editable/
 ---
-## Свойство FormComboBoxFieldSetOptions.Editable
+## FormComboBoxFieldSetOptions.Editable property
 
-Получает/устанавливает значение для определения свойства Editable для измененного поля (если оно будет установлено).
+Получает/устанавливает значение, определяющее свойство Editable для изменённого поля (если будет установлено).
 
 ```csharp
 public bool? Editable { get; set; }
@@ -16,6 +16,8 @@ public bool? Editable { get; set; }
 
 ### См. также
 
-* класс [FormComboBoxFieldSetOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormComboBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

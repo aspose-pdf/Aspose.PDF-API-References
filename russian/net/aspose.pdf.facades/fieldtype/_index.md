@@ -1,12 +1,12 @@
 ---
-title: Enum FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FieldType Aspose.Pdf.Facades. Перечисление возможных типов полей
+title: "Перечисление FieldType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Facades.FieldType. Перечисление возможных типов полей"
 type: docs
-weight: 4260
+weight: 4380
 url: /ru/net/aspose.pdf.facades/fieldtype/
 ---
-## Перечисление FieldType
+## FieldType enumeration
 
 Перечисление возможных типов полей.
 
@@ -16,17 +16,17 @@ public enum FieldType
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Text | `0` | Текстовое поле. |
-| ComboBox | `1` | Поле комбинированного списка. |
+| ComboBox | `1` | Поле комбобокса. |
 | ListBox | `2` | Поле списка. |
-| Radio | `3` | Поле радиокнопки. |
+| Radio | `3` | Поле переключателя. |
 | CheckBox | `4` | Поле флажка. |
 | PushButton | `5` | Поле кнопки. |
 | MultiLineText | `6` | Многострочное текстовое поле. |
-| Barcode | `7` | Поле штрих-кода. |
-| InvalidNameOrType | `8` | Неверный тип поля. |
+| Barcode | `7` | Поле штрих‑кода. |
+| InvalidNameOrType | `8` | Недопустимый тип поля. |
 | Signature | `9` | Поле подписи. |
 | Image | `10` | Поле изображения. |
 | Numeric | `11` | Числовое поле |
@@ -34,5 +34,7 @@ public enum FieldType
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

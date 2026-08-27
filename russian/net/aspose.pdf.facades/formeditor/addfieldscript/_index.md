@@ -1,14 +1,14 @@
 ---
-title: FormEditor.AddFieldScript
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Добавить JavaScript для поля PushButton. Если существует старое событие, новое событие добавляется после него
+title: "FormEditor.AddFieldScript"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Добавляет JavaScript для поля PushButton. Если существует старое событие, новое событие добавляется после него"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/formeditor/addfieldscript/
 ---
-## Метод FormEditor.AddFieldScript
+## FormEditor.AddFieldScript method
 
-Добавить JavaScript для поля PushButton. Если существует старое событие, новое событие добавляется после него.
+Добавить JavaScript для поля PushButton. Если существует старое событие, новое событие будет добавлено после него.
 
 ```csharp
 public bool AddFieldScript(string fieldName, string script)
@@ -16,15 +16,17 @@ public bool AddFieldScript(string fieldName, string script)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Полное имя поля. |
-| script | String | Java скрипт, который будет добавлен/размещен в поле кнопки. |
+| fieldName | String | Полностью квалифицированное имя поля. |
+| script | String | Java script, который будет добавлен/размещён в поле кнопки push button. |
 
 ### Возвращаемое значение
 
-True в случае успешного добавления скрипта.
+True, если скрипт был успешно добавлен.
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

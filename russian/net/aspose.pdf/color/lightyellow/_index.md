@@ -1,14 +1,14 @@
 ---
-title: Color.LightYellow
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFFFFE0
+title: "Color.LightYellow"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFFFFFE0"
 type: docs
 weight: 770
 url: /ru/net/aspose.pdf/color/lightyellow/
 ---
-## Свойство Color.LightYellow
+## Color.LightYellow property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFFFFE0.
+Получает системный цвет, у которого ARGB‑значение \c \#FFFFFFE0.
 
 ```csharp
 public static Color LightYellow { get; }
@@ -16,10 +16,12 @@ public static Color LightYellow { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

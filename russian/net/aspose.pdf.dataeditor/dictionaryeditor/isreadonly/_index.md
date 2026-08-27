@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DictionaryEditor. Получает значение, указывающее, является ли DictionaryEditor только для чтения
+title: "DictionaryEditor.IsReadOnly"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DictionaryEditor. Возвращает значение, указывающее, является ли DictionaryEditor только для чтения."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.dataeditor/dictionaryeditor/isreadonly/
 ---
-## Свойство DictionaryEditor.IsReadOnly
+## DictionaryEditor.IsReadOnly property
 
 Получает значение, указывающее, является ли [`DictionaryEditor`](../) только для чтения.
 
@@ -16,10 +16,12 @@ public bool IsReadOnly { get; }
 
 ### Возвращаемое значение
 
-true, если [`DictionaryEditor`](../) только для чтения; в противном случае false.
+true, если [`DictionaryEditor`](../) только для чтения; иначе false.
 
 ### См. также
 
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

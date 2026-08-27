@@ -1,14 +1,14 @@
 ---
-title: Class PclLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PclLoadOptions. Представляет параметры для загрузки / импорта файла PCL в документ PDF
+title: "Класс PclLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.PclLoadOptions. Представляет параметры для загрузки PCL‑файла в PDF‑документ."
 type: docs
-weight: 8300
+weight: 8440
 url: /ru/net/aspose.pdf/pclloadoptions/
 ---
-## Класс PclLoadOptions
+## PclLoadOptions class
 
-Представляет параметры для загрузки (импорта) файла PCL в документ PDF.
+Представляет параметры загрузки (импорта) файла PCL в PDF‑документ.
 
 ```csharp
 public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
@@ -24,41 +24,41 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 
 | Имя | Описание |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize/) { get; set; } | Определяет размер пакета, если пакетная конвертация применима к паре форматов источника и назначения. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или устанавливает флаг для отключения любых лицензионных ограничений для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, которые запрещены лицензией этого шрифта, например, позволяет встраивать шрифт в документ PDF, даже если правила лицензии запрещают встраивание для этого шрифта. По умолчанию `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывает [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых предупреждений, сгенерированных. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь также может вернуть Abort, в этом случае операция загрузки должна прекратиться. |
+| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize/) { get; set; } | Определяет размер пакета, если пакетное преобразование применимо к паре исходного и целевого форматов. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или задаёт флаг, отключающий любые лицензионные ограничения для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, запрещённые лицензией этого шрифта, например, позволяет встраивать шрифт в PDF‑документ, даже если правила лицензии запрещают встраивание. По умолчанию `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывается [`LoadOptions`](../loadoptions/). |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, в этом случае операция загрузки должна быть прекращена. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| [ConversionEngine](../../aspose.pdf/pclloadoptions/conversionengine/) | Определяет движок конвертации, который будет использоваться для конвертации |
+| [ConversionEngine](../../aspose.pdf/pclloadoptions/conversionengine/) | Определяет движок конвертации, который будет использоваться для преобразования |
 | [Exceptions](../../aspose.pdf/pclloadoptions/exceptions/) | Список ошибок конвертации. |
-| [SupressErrors](../../aspose.pdf/pclloadoptions/supresserrors/) | Получает или устанавливает логическое значение, которое указывает, следует ли подавлять ошибки конвертации PCL. |
+| [SupressErrors](../../aspose.pdf/pclloadoptions/supresserrors/) | Получает или задает логическое значение, указывающее, следует ли подавлять ошибки конвертации PCL. |
 
 ## Примеры
 
-Следующий пример показывает, как конвертировать файл PCL в файл PDF
+В следующем примере показано, как преобразовать файл PCL в файл PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Путь к каталогу документов.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your PCL File.
+	// Путь к вашему файлу PCL.
 	string pclFile = Path.Combine(dataDir, "PCL-to-PDF.pcl");
 
-	// The path to output PDF File.
+	// Путь к выходному PDF‑файлу.
 	string pdfFile = Path.Combine(dataDir, "PCL-to-PDF.pdf");
 
-	// Initialize PclLoadOptions	
+	// Инициализировать PclLoadOptions
 	PclLoadOptions pclLoadOptions = new PclLoadOptions();
 		
 	using (Document pdfDocument = new Document(pclFile, pclLoadOptions))
 	{
 	 
-		// Save PDF file
+		// Сохранить PDF‑файл
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -87,7 +87,9 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 
 ### См. также
 
-* класс [LoadOptions](../loadoptions/)
-* интерфейс [IPipelineOptions](../ipipelineoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* interface [IPipelineOptions](../ipipelineoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

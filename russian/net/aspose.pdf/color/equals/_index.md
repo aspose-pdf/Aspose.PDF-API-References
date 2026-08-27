@@ -1,14 +1,14 @@
 ---
-title: Color.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Color. Возвращает true, если два цвета равны
+title: "Color.Equals"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Color. Возвращает true, если два объекта Color равны"
 type: docs
 weight: 1530
 url: /ru/net/aspose.pdf/color/equals/
 ---
-## Метод Color.Equals
+## Color.Equals method
 
-Возвращает true, если два цвета равны.
+Возвращает true, если два объекта Colors равны.
 
 ```csharp
 public override bool Equals(object obj)
@@ -24,6 +24,8 @@ True в случае, если объекты Color равны.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FitBVExplicitDestination.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FitBVExplicitDestination. Получает горизонтальную координату, расположенную на левом крае окна
+title: "FitBVExplicitDestination.Left"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FitBVExplicitDestination свойство. Получает горизонтальную координату left, расположенную у левого края окна."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/fitbvexplicitdestination/left/
 ---
-## Свойство FitBVExplicitDestination.Left
+## FitBVExplicitDestination.Left property
 
-Получает горизонтальную координату, расположенную на левом крае окна.
+Получает горизонтальную координату left, расположенную у левого края окна.
 
 ```csharp
 public double Left { get; }
@@ -16,6 +16,8 @@ public double Left { get; }
 
 ### См. также
 
-* класс [FitBVExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FitBVExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

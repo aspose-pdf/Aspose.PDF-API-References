@@ -1,12 +1,12 @@
 ---
-title: Class Characteristics
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.Characteristics. Представляет характеристики аннотации
+title: "Класс Characteristics"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.Characteristics class. Представляет характеристики аннотации"
 type: docs
-weight: 1580
+weight: 1670
 url: /ru/net/aspose.pdf.annotations/characteristics/
 ---
-## Класс Characteristics
+## Characteristics class
 
 Представляет характеристики аннотации
 
@@ -24,5 +24,7 @@ public sealed class Characteristics
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

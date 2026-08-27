@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.GetAttachmentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfExtractor. Получает список вложений
+title: "PdfExtractor.GetAttachmentInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfExtractor. Получает список вложений"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/pdfextractor/getattachmentinfo/
 ---
-## Метод PdfExtractor.GetAttachmentInfo
+## PdfExtractor.GetAttachmentInfo method
 
 Получает список вложений.
 
@@ -20,7 +20,9 @@ public List<FileSpecification> GetAttachmentInfo()
 
 ### См. также
 
-* класс [FileSpecification](../../../aspose.pdf/filespecification/)
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

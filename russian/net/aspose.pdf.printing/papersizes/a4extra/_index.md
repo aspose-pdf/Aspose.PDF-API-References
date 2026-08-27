@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A4Extra
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага A4 extra 236 мм на 322 мм
+title: "PaperSizes.A4Extra"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Дополнительная бумага A4 236 мм на 322 мм"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.printing/papersizes/a4extra/
 ---
-## Поле PaperSizes.A4Extra
+## PaperSizes.A4Extra field
 
-Бумага A4 extra (236 мм на 322 мм).
+A4 дополнительная бумага (236 мм на 322 мм).
 
 ```csharp
 public static readonly PaperSize A4Extra;
@@ -20,7 +20,9 @@ public static readonly PaperSize A4Extra;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

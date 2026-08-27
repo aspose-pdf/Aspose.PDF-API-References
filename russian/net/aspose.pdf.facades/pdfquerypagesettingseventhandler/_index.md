@@ -1,14 +1,14 @@
 ---
-title: Delegate PdfQueryPageSettingsEventHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Представляет метод, который обрабатывает событие PdfQueryPageSettings в PdfViewer
+title: "Делегат PdfQueryPageSettingsEventHandler"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Представляет метод, который обрабатывает событие PdfQueryPageSettings объекта PdfViewer"
 type: docs
-weight: 4620
+weight: 4740
 url: /ru/net/aspose.pdf.facades/pdfquerypagesettingseventhandler/
 ---
-## Делегат PdfQueryPageSettingsEventHandler
+## PdfQueryPageSettingsEventHandler delegate
 
-Представляет метод, который обрабатывает событие [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) в [`PdfViewer`](../pdfviewer/).
+Представляет метод, который обрабатывает событие [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) объекта [`PdfViewer`](../pdfviewer/).
 
 ```csharp
 public delegate void PdfQueryPageSettingsEventHandler(object sender, 
@@ -18,12 +18,14 @@ public delegate void PdfQueryPageSettingsEventHandler(object sender,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sender | Object | Источник события. |
-| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/), который содержит данные события. |
+| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | Объект [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/), содержащий данные события. |
 | currentPageInfo | PdfPrintPageInfo | Информация о текущей печатаемой странице. |
 
 ### См. также
 
-* класс [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
-* класс [PdfPrintPageInfo](../pdfprintpageinfo/)
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* class [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
+* class [PdfPrintPageInfo](../pdfprintpageinfo/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

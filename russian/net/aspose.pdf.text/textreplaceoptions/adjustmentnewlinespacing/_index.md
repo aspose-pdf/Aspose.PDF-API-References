@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.AdjustmentNewLineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextReplaceOptions. Получает или задает значение межстрочного интервала, который используется, если замена принудительно создает новую строку текста. Ожидаемое значение - множитель размера шрифта заменяемого текста. По умолчанию 1.2
+title: "TextReplaceOptions.AdjustmentNewLineSpacing"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextReplaceOptions. Возвращает или задает значение межстрочного интервала, используемого, если корректировка замены принудительно создает новую строку текста. Ожидаемое значение — множитель размера шрифта заменяемого текста. По умолчанию 1.2."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing/
 ---
-## Свойство TextReplaceOptions.AdjustmentNewLineSpacing
+## TextReplaceOptions.AdjustmentNewLineSpacing property
 
-Получает или задает значение межстрочного интервала, который используется, если замена принудительно создает новую строку текста. Ожидаемое значение - множитель размера шрифта заменяемого текста. По умолчанию 1.2.
+Получает или задает значение межстрочного интервала, используемого, если корректировка замены принудительно создает новую строку текста. Ожидаемое значение — множитель размера шрифта заменяемого текста. По умолчанию 1,2.
 
 ```csharp
 public double AdjustmentNewLineSpacing { get; set; }
@@ -16,6 +16,8 @@ public double AdjustmentNewLineSpacing { get; set; }
 
 ### См. также
 
-* класс [TextReplaceOptions](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextReplaceOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

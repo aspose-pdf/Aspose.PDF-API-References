@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetVectorStoreFileBatchFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Асинхронно извлекает список файлов в рамках конкретной партии файлов векторного хранилища
+title: "OpenAIClient.GetVectorStoreFileBatchFilesAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно получает список файлов в конкретном пакете файлов векторного хранилища"
 type: docs
-weight: 360
+weight: 370
 url: /ru/net/aspose.pdf.ai/openaiclient/getvectorstorefilebatchfilesasync/
 ---
-## Метод OpenAIClient.GetVectorStoreFileBatchFilesAsync
+## OpenAIClient.GetVectorStoreFileBatchFilesAsync method
 
-Асинхронно извлекает список файлов в рамках конкретной партии файлов векторного хранилища.
+Получает список файлов в конкретной партии файлов векторного хранилища асинхронно.
 
 ```csharp
 public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(string vectorStoreId, 
@@ -19,13 +19,13 @@ public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(strin
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | vectorStoreId | String | Идентификатор векторного хранилища, содержащего партию файлов. |
-| fileBatchId | String | Идентификатор партии файлов, из которой нужно извлечь файлы. |
+| fileBatchId | String | Идентификатор пакета файлов, из которого нужно получить файлы. |
 | queryParameters | VectorStoreFileBatchFileListQueryParameters | Необязательные параметры запроса для фильтрации списка файлов. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит список файлов в рамках партии файлов.
+Задача, представляющая асинхронную операцию. Результат задачи содержит список файлов в пакете файлов.
 
 ### Исключения
 
@@ -36,8 +36,10 @@ public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(strin
 
 ### См. также
 
-* класс [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
-* класс [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
+* class [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

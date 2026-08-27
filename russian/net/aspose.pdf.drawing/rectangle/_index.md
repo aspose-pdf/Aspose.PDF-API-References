@@ -1,12 +1,12 @@
 ---
-title: Class Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Drawing.Rectangle. Представляет прямоугольник
+title: "Класс Rectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Drawing.Rectangle класс. Представляет прямоугольник"
 type: docs
-weight: 3990
+weight: 4110
 url: /ru/net/aspose.pdf.drawing/rectangle/
 ---
-## Класс Прямоугольник
+## Rectangle class
 
 Представляет прямоугольник.
 
@@ -24,13 +24,13 @@ public sealed class Rectangle : Shape
 
 | Имя | Описание |
 | --- | --- |
-| [Bottom](../../aspose.pdf.drawing/rectangle/bottom/) { get; set; } | Получает или задает значение типа float, которое указывает на нижнюю позицию прямоугольника. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Получает или задает объект [`GraphInfo`](../shape/graphinfo/), который указывает информацию о графике, такую как цвет, ширина линии и т.д. |
-| [Height](../../aspose.pdf.drawing/rectangle/height/) { get; set; } | Получает или задает значение типа float, которое указывает на высоту прямоугольника. |
-| [Left](../../aspose.pdf.drawing/rectangle/left/) { get; set; } | Получает или задает значение типа float, которое указывает на левую позицию прямоугольника. |
-| [RoundedCornerRadius](../../aspose.pdf.drawing/rectangle/roundedcornerradius/) { get; set; } | Получает или задает значение типа float, которое указывает на радиус углов прямоугольника. |
+| [Bottom](../../aspose.pdf.drawing/rectangle/bottom/) { get; set; } | Получает или задает значение типа float, указывающее нижнее положение прямоугольника. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Получает или задает объект [`GraphInfo`](../shape/graphinfo/), который указывает информацию о графе, такую как цвет, ширина линии и т.д. |
+| [Height](../../aspose.pdf.drawing/rectangle/height/) { get; set; } | Получает или задает значение типа float, указывающее высоту прямоугольника. |
+| [Left](../../aspose.pdf.drawing/rectangle/left/) { get; set; } | Получает или задает значение типа float, указывающее левое положение прямоугольника. |
+| [RoundedCornerRadius](../../aspose.pdf.drawing/rectangle/roundedcornerradius/) { get; set; } | Получает или задает значение типа float, указывающее радиус углов прямоугольника. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Получает или задает текст для фигуры |
-| [Width](../../aspose.pdf.drawing/rectangle/width/) { get; set; } | Получает или задает значение типа float, которое указывает на ширину прямоугольника. |
+| [Width](../../aspose.pdf.drawing/rectangle/width/) { get; set; } | Получает или задает значение типа float, указывающее ширину прямоугольника. |
 
 ## Методы
 
@@ -40,6 +40,8 @@ public sealed class Rectangle : Shape
 
 ### См. также
 
-* класс [Shape](../shape/)
-* пространство имен [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

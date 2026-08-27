@@ -1,12 +1,12 @@
 ---
-title: BDC.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод BDC. Возвращает текстовое представление оператора
+title: "BDC.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод BDC. Возвращает текстовое представление оператора"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.operators/bdc/tostring/
 ---
-## Метод BDC.ToString
+## BDC.ToString method
 
 Возвращает текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [BDC](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RunCreateRequest.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunCreateRequest. Получает или устанавливает идентификатор помощника, который будет использоваться для выполнения этого запуска
+title: "RunCreateRequest.AssistantId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunCreateRequest. Получает или задает идентификатор помощника, используемого для выполнения этого запуска."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/runcreaterequest/assistantid/
 ---
-## Свойство RunCreateRequest.AssistantId
+## RunCreateRequest.AssistantId property
 
-Получает или устанавливает идентификатор помощника, который будет использоваться для выполнения этого запуска.
+Получает или задает идентификатор помощника, используемого для выполнения этого запуска.
 
 ```csharp
 public string AssistantId { get; set; }
@@ -16,6 +16,8 @@ public string AssistantId { get; set; }
 
 ### См. также
 
-* класс [RunCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetColor.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetColor. Возвращает строковое представление цвета
+title: "SetColor.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SetColor. Возвращает строковое представление цвета"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.operators/setcolor/tostring/
 ---
-## Метод SetColor.ToString
+## SetColor.ToString method
 
 Возвращает строковое представление цвета.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [SetColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

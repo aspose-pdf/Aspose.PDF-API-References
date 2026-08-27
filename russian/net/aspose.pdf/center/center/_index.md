@@ -1,12 +1,12 @@
 ---
-title: Center.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Center. Конструктор по умолчанию
+title: "Center.Center"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Center конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/center/center/
 ---
-## Конструктор Center
+## Center constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Center()
 
 ### См. также
 
-* класс [Center](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Center](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.DodgerBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF1E90FF
+title: "Color.DodgerBlue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB‑значением c FF1E90FF"
 type: docs
 weight: 430
 url: /ru/net/aspose.pdf/color/dodgerblue/
 ---
-## Свойство Color.DodgerBlue
+## Color.DodgerBlue property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF1E90FF.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FF1E90FF.
 
 ```csharp
 public static Color DodgerBlue { get; }
@@ -16,10 +16,12 @@ public static Color DodgerBlue { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

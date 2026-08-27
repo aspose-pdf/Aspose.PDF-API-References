@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.PageMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Поле HtmlSaveOptions. Этот атрибут представляет собой набор дополнительных полей страницы, если есть, в результирующем HTML-документе вокруг области, представляющей исходную страницу PDF.
+title: "HtmlSaveOptions.PageMarginIfAny"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле HtmlSaveOptions. Этот атрибут представляет набор дополнительных полей страницы, если таковые имеются, в результирующем HTML‑документе вокруг области, представляющей исходную страницу PDF."
 type: docs
 weight: 370
 url: /ru/net/aspose.pdf/htmlsaveoptions/pagemarginifany/
 ---
-## Поле HtmlSaveOptions.PageMarginIfAny
+## HtmlSaveOptions.PageMarginIfAny field
 
-Этот атрибут представляет собой набор дополнительных полей страницы (если есть) в результирующем HTML-документе вокруг области, представляющей исходную страницу PDF.
+Этот атрибут представляет набор дополнительных полей страницы (если они есть) в результирующем HTML‑документе вокруг области, представляющей исходную страницу PDF.
 
 ```csharp
 public MarginInfo PageMarginIfAny;
@@ -16,7 +16,9 @@ public MarginInfo PageMarginIfAny;
 
 ### См. также
 
-* класс [MarginInfo](../../saveoptions.margininfo/)
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../../saveoptions.margininfo/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

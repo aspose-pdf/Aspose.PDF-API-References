@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleInset
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет стиль вставленного края
+title: "FormFieldFacade.BorderStyleInset"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Определяет вдавленный стиль границы"
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf.facades/formfieldfacade/borderstyleinset/
 ---
-## Поле FormFieldFacade.BorderStyleInset
+## FormFieldFacade.BorderStyleInset field
 
-Определяет стиль вставленного края.
+Определяет врезанный стиль границы.
 
 ```csharp
 public const int BorderStyleInset;
@@ -16,6 +16,8 @@ public const int BorderStyleInset;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

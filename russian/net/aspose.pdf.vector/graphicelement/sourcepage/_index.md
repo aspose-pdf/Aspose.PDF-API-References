@@ -1,12 +1,12 @@
 ---
-title: GraphicElement.SourcePage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphicElement. Получает страницу, из которой извлекается графический элемент
+title: "GraphicElement.SourcePage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphicElement. Возвращает страницу, из которой извлечён графический элемент"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.vector/graphicelement/sourcepage/
 ---
-## Свойство GraphicElement.SourcePage
+## GraphicElement.SourcePage property
 
 Получает страницу, из которой извлекается графический элемент.
 
@@ -16,7 +16,9 @@ public Page SourcePage { get; }
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [GraphicElement](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

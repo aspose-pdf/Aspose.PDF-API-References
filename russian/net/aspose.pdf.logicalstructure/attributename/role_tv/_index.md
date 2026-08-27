@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Role_tv
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Поле Attribute Role tv Textvalue
+title: "AttributeName.Role_tv"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут Role tv  Поле текстового значения"
 type: docs
 weight: 420
 url: /ru/net/aspose.pdf.logicalstructure/attributename/role_tv/
 ---
-## Поле AttributeName.Role_tv
+## AttributeName.Role_tv field
 
-Attribute Role: tv - Поле текстового значения.
+Атрибут Role: tv - Текстовое поле значения.
 
 ```csharp
 public static readonly AttributeName Role_tv;
@@ -16,6 +16,8 @@ public static readonly AttributeName Role_tv;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

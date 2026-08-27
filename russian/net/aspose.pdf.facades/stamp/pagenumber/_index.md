@@ -1,14 +1,14 @@
 ---
-title: Stamp.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Получает или устанавливает номер страницы
+title: "Stamp.PageNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Получает или задает номер страницы."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/stamp/pagenumber/
 ---
-## Свойство Stamp.PageNumber
+## Stamp.PageNumber property
 
-Получает или устанавливает номер страницы.
+Получает или задает номер страницы.
 
 ```csharp
 public int PageNumber { get; set; }
@@ -16,6 +16,8 @@ public int PageNumber { get; set; }
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

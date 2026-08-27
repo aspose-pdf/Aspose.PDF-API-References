@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.SummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaSummaryCopilotOptions. Получает или устанавливает подсказку для инструкции модели предоставить резюме документа
+title: "LlamaSummaryCopilotOptions.SummaryPrompt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaSummaryCopilotOptions. Получает или задаёт подсказку, инструктирующую модель предоставить резюме документа"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/llamasummarycopilotoptions/summaryprompt/
 ---
-## Свойство LlamaSummaryCopilotOptions.SummaryPrompt
+## LlamaSummaryCopilotOptions.SummaryPrompt property
 
-Получает или устанавливает подсказку для инструкции модели предоставить резюме документа.
+Получает или задает подсказку, инструктирующую модель предоставить резюме документа.
 
 ```csharp
 public string SummaryPrompt { get; set; }
@@ -16,6 +16,8 @@ public string SummaryPrompt { get; set; }
 
 ### См. также
 
-* класс [LlamaSummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

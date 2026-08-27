@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.GetCollectionField
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CollectionSchema. Получает поле коллекции по имени
+title: "CollectionSchema.GetCollectionField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CollectionSchema. Получает поле коллекции по имени"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/collectionschema/getcollectionfield/
 ---
-## Метод CollectionSchema.GetCollectionField
+## CollectionSchema.GetCollectionField method
 
 Получает поле коллекции по имени.
 
@@ -16,11 +16,13 @@ public CollectionField GetCollectionField(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя поля |
+| имя | String | Имя поля |
 
 ### См. также
 
-* класс [CollectionField](../../collectionfield/)
-* класс [CollectionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CollectionField](../../collectionfield/)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

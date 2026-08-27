@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AppearanceDictionary. Получает объект, который можно использовать для синхронизации доступа к словарю
+title: "AppearanceDictionary.SyncRoot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AppearanceDictionary. Возвращает объект, который может использоваться для синхронизации доступа к словарю"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/appearancedictionary/syncroot/
 ---
-## Свойство AppearanceDictionary.SyncRoot
+## AppearanceDictionary.SyncRoot property
 
-Получает объект, который можно использовать для синхронизации доступа к словарю.
+Получает объект, который может использоваться для синхронизации доступа к словарю.
 
 ```csharp
 public object SyncRoot { get; }
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### См. также
 
-* класс [AppearanceDictionary](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

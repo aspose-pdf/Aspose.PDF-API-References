@@ -1,12 +1,12 @@
 ---
-title: Metadata.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Metadata. Возвращает перечислитель словаря
+title: "Metadata.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Metadata. Возвращает перечислитель словаря"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf/metadata/getenumerator/
 ---
-## Метод Metadata.GetEnumerator
+## Metadata.GetEnumerator method
 
 Возвращает перечислитель словаря.
 
@@ -20,7 +20,9 @@ public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
 
 ### См. также
 
-* класс [XmpValue](../../xmpvalue/)
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

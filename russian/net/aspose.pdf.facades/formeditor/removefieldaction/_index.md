@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RemoveFieldAction
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Удалить действие отправки поля
+title: "FormEditor.RemoveFieldAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "метод FormEditor. Удалить действие отправки поля"
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.facades/formeditor/removefieldaction/
 ---
-## Метод FormEditor.RemoveFieldAction
+## FormEditor.RemoveFieldAction method
 
-Удалить действие отправки поля.
+Удалить действие отправки у поля.
 
 ```csharp
 public void RemoveFieldAction(string fieldName)
@@ -27,6 +27,8 @@ formEditor.RemoveFieldAction("btnSubmit");
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

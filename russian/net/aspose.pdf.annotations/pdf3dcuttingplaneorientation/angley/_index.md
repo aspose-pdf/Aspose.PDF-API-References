@@ -1,25 +1,27 @@
 ---
-title: PDF3DCuttingPlaneOrientation.AngleY
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DCuttingPlaneOrientation. Получает или задает угол к оси Y
+title: "PDF3DCuttingPlaneOrientation.AngleY"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PDF3DCuttingPlaneOrientation свойство. Получает или задает угол к оси Y"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/
 ---
-## Свойство PDF3DCuttingPlaneOrientation.AngleY
+## PDF3DCuttingPlaneOrientation.AngleY property
 
-Получает или задает угол к оси Y.
+Получает или задает угол относительно оси Y.
 
 ```csharp
 public double? AngleY { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Угол к оси Y.
+Угол оси Y.
 
 ### См. также
 
-* класс [PDF3DCuttingPlaneOrientation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Bookmark.PageDisplay_Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает коэффициент масштабирования отображения страницы
+title: "Bookmark.PageDisplay_Zoom"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Возвращает или задает коэффициент масштабирования отображения страницы"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/bookmark/pagedisplay_zoom/
 ---
-## Свойство Bookmark.PageDisplay_Zoom
+## Bookmark.PageDisplay_Zoom property
 
-Получает или устанавливает коэффициент масштабирования отображения страницы.
+Получает или задает коэффициент масштабирования отображения страницы.
 
 ```csharp
 public int PageDisplay_Zoom { get; set; }
@@ -16,6 +16,8 @@ public int PageDisplay_Zoom { get; set; }
 
 ### См. также
 
-* класс [Bookmark](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

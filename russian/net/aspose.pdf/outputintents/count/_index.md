@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutputIntents. Получает количество выходных намерений, содержащихся в коллекции
+title: "OutputIntents.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutputIntents. Возвращает количество выходных намерений, содержащихся в коллекции"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/outputintents/count/
 ---
-## Свойство OutputIntents.Count
+## OutputIntents.Count property
 
-Получает количество выходных намерений, содержащихся в коллекции.
+Получает количество output intents, содержащихся в коллекции.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [OutputIntents](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

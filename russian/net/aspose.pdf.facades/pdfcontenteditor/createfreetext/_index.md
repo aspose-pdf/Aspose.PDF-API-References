@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateFreeText
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает аннотацию свободного текста в PDF документе
+title: "PdfContentEditor.CreateFreeText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Создаёт свободную текстовую аннотацию в PDF‑документе."
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createfreetext/
 ---
-## Метод PdfContentEditor.CreateFreeText
+## PdfContentEditor.CreateFreeText method
 
-Создает аннотацию свободного текста в PDF документе
+Создаёт аннотацию свободного текста в PDF‑документе
 
 ```csharp
 public void CreateFreeText(Rectangle rect, string contents, int page)
@@ -16,9 +16,9 @@ public void CreateFreeText(Rectangle rect, string contents, int page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | contents | String | Содержимое аннотации. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана текстовая аннотация. |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана текстовая аннотация. |
 
 ## Примеры
 
@@ -31,6 +31,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

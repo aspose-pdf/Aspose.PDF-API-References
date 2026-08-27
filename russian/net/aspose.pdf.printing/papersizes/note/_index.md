@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Note
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага для заметок 8.5 дюйма на 11 дюймов
+title: "PaperSizes.Note"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Бумага Note 8,5 дюйм. на 11 дюйм"
 type: docs
 weight: 730
 url: /ru/net/aspose.pdf.printing/papersizes/note/
 ---
-## Поле PaperSizes.Note
+## PaperSizes.Note field
 
-Бумага для заметок (8.5 дюйма на 11 дюймов).
+Бумага Note (8.5 in. by 11 in.).
 
 ```csharp
 public static readonly PaperSize Note;
@@ -16,7 +16,9 @@ public static readonly PaperSize Note;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

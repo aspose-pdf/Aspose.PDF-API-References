@@ -1,22 +1,22 @@
 ---
-title: PdfAOptionsBase.SoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfAOptionsBase. Получает или задает действие, которое должно быть выполнено во время конвертации изображений с мягкими масками
+title: "PdfAOptionsBase.SoftMaskAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfAOptionsBase. Возвращает или задает действие, которое будет выполнено при конвертации изображений с мягкими масками."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.plugins/pdfaoptionsbase/softmaskaction/
 ---
-## Свойство PdfAOptionsBase.SoftMaskAction
+## PdfAOptionsBase.SoftMaskAction property
 
-Получает или задает действие, которое должно быть выполнено во время конвертации изображений с мягкими масками.
+Получает или задает действие, которое будет выполнено при конвертации изображений с мягкими масками.
 
 ```csharp
 public ConvertSoftMaskAction SoftMaskAction { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Действие для конвертации изображений с мягкими масками. Значение этого свойства является перечислением [`ConvertSoftMaskAction`](../../../aspose.pdf/convertsoftmaskaction/).
+Действие при конвертации изображений с мягкими масками. Значение этого свойства — перечисление [`ConvertSoftMaskAction`](../../../aspose.pdf/convertsoftmaskaction/).
 
 ### См. также
 
@@ -24,3 +24,5 @@ public ConvertSoftMaskAction SoftMaskAction { get; set; }
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

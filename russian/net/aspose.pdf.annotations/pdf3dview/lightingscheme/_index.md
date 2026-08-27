@@ -1,26 +1,28 @@
 ---
-title: PDF3DView.LightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DView. Получает или задает схему освещения вида
+title: "PDF3DView.LightingScheme"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DView. Получает или задает схему освещения представления"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/pdf3dview/lightingscheme/
 ---
-## Свойство PDF3DView.LightingScheme
+## PDF3DView.LightingScheme property
 
-Получает или задает схему освещения вида.
+Получает или задает схему освещения представления.
 
 ```csharp
 public PDF3DLightingScheme LightingScheme { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Схема освещения вида.
+Схема освещения представления.
 
 ### См. также
 
-* класс [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* класс [PDF3DView](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

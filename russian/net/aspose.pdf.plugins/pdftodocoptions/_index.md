@@ -1,14 +1,14 @@
 ---
-title: Class PdfToDocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.PdfToDocOptions. Представляет параметры конвертации PDF в DOC для плагина DocConverter
+title: "Класс PdfToDocOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.PdfToDocOptions класс. Представляет параметры конвертера PDF в DOC для плагина DocConverter"
 type: docs
-weight: 9090
+weight: 9240
 url: /ru/net/aspose.pdf.plugins/pdftodocoptions/
 ---
-## Класс PdfToDocOptions
+## PdfToDocOptions class
 
-Представляет параметры конвертации PDF в DOC для плагина [`DocConverter`](../docconverter/).
+Представляет параметры конвертера PDF в DOC для плагина [`DocConverter`](../docconverter/) плагин.
 
 ```csharp
 public sealed class PdfToDocOptions : PdfConverterOptions
@@ -25,9 +25,9 @@ public sealed class PdfToDocOptions : PdfConverterOptions
 
 | Имя | Описание |
 | --- | --- |
-| [ConversionMode](../../aspose.pdf.plugins/pdftodocoptions/conversionmode/) { get; set; } | Позволяет контролировать, как PDF-документ конвертируется в документ обработки текста. |
+| [ConversionMode](../../aspose.pdf.plugins/pdftodocoptions/conversionmode/) { get; set; } | Позволяет управлять тем, как PDF‑документ конвертируется в документ обработки текста. |
 | [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | Возвращает коллекцию данных плагина PdfConverterOptions. |
-| override [OperationName](../../aspose.pdf.plugins/pdftodocoptions/operationname/) { get; } | Получает имя операции. |
+| override [OperationName](../../aspose.pdf.plugins/pdftodocoptions/operationname/) { get; } | Получает название операции. |
 | [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операции. |
 | [SaveFormat](../../aspose.pdf.plugins/pdftodocoptions/saveformat/) { get; set; } | Формат сохранения выходного документа. |
 
@@ -40,6 +40,8 @@ public sealed class PdfToDocOptions : PdfConverterOptions
 
 ### См. также
 
-* класс [PdfConverterOptions](../pdfconverteroptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [PdfConverterOptions](../pdfconverteroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

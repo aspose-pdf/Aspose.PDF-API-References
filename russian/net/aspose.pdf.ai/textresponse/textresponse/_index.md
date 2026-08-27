@@ -1,12 +1,12 @@
 ---
-title: TextResponse.TextResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextResponse. Конструктор по умолчанию
+title: "TextResponse.TextResponse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextResponse. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/textresponse/textresponse/
 ---
-## Конструктор TextResponse
+## TextResponse constructor
 
 Конструктор по умолчанию.
 
@@ -14,8 +14,10 @@ url: /ru/net/aspose.pdf.ai/textresponse/textresponse/
 public TextResponse()
 ```
 
-### Смотрите также
+### См. также
 
-* класс [TextResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [TextResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

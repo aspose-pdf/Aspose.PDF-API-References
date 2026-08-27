@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.CancelledAt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunStepResponse. Получает или задает метку времени Unix в секундах, когда шаг выполнения был отменен
+title: "RunStepResponse.CancelledAt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunStepResponse. Получает или задает Unix‑временную метку в секундах, указывающую время отмены шага выполнения."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/runstepresponse/cancelledat/
 ---
-## Свойство RunStepResponse.CancelledAt
+## RunStepResponse.CancelledAt property
 
-Получает или задает метку времени Unix (в секундах), когда шаг выполнения был отменен.
+Получает или задает Unix‑временную метку (в секундах) момента отмены шага выполнения.
 
 ```csharp
 public long? CancelledAt { get; set; }
@@ -16,6 +16,8 @@ public long? CancelledAt { get; set; }
 
 ### См. также
 
-* класс [RunStepResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunStepResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

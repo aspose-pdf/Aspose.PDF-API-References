@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.UnFlattenFields
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AutoFiller. Устанавливает поля, которые не будут уплощены. Если это свойство не установлено, все поля будут уплощены
+title: "AutoFiller.UnFlattenFields"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AutoFiller. Устанавливает поля, которые не будут сплющены. Если это свойство не задано, все поля будут сплющены."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/autofiller/unflattenfields/
 ---
-## Свойство AutoFiller.UnFlattenFields
+## AutoFiller.UnFlattenFields property
 
-Устанавливает поля, которые не будут уплощены. Если это свойство не установлено, все поля будут уплощены.
+Устанавливает поля, которые не будут уплощены. Если это свойство не задано, все поля будут уплощены.
 
 ```csharp
 public string[] UnFlattenFields { set; }
@@ -16,6 +16,8 @@ public string[] UnFlattenFields { set; }
 
 ### См. также
 
-* класс [AutoFiller](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

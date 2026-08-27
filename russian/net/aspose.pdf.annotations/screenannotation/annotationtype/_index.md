@@ -1,12 +1,12 @@
 ---
-title: ScreenAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ScreenAnnotation. Получает тип аннотации
+title: "ScreenAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ScreenAnnotation. Получает тип аннотации"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/screenannotation/annotationtype/
 ---
-## Свойство ScreenAnnotation.AnnotationType
+## ScreenAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [ScreenAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

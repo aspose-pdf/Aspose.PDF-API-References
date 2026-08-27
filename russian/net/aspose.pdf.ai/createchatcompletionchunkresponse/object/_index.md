@@ -1,14 +1,14 @@
 ---
-title: CreateChatCompletionChunkResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CreateChatCompletionChunkResponse. Получает или устанавливает тип объекта, который всегда равен chat.completion.chunk
+title: "CreateChatCompletionChunkResponse.Object"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CreateChatCompletionChunkResponse. Получает или задает тип объекта, который всегда равен chat.completion.chunk"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/createchatcompletionchunkresponse/object/
 ---
-## Свойство CreateChatCompletionChunkResponse.Object
+## CreateChatCompletionChunkResponse.Object property
 
-Получает или устанавливает тип объекта, который всегда равен chat.completion.chunk.
+Получает или задаёт тип объекта, который всегда равен chat.completion.chunk.
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### См. также
 
-* класс [CreateChatCompletionChunkResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateChatCompletionChunkResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

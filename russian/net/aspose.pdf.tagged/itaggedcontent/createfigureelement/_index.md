@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateFigureElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает FigureElement
+title: "ITaggedContent.CreateFigureElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает FigureElement"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createfigureelement/
 ---
-## Метод ITaggedContent.CreateFigureElement
+## ITaggedContent.CreateFigureElement method
 
 Создает [`FigureElement`](../../../aspose.pdf.logicalstructure/figureelement/).
 
@@ -16,11 +16,13 @@ public FigureElement CreateFigureElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [FigureElement](../../../aspose.pdf.logicalstructure/figureelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [FigureElement](../../../aspose.pdf.logicalstructure/figureelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

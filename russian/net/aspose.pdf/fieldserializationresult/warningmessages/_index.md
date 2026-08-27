@@ -1,12 +1,12 @@
 ---
-title: FieldSerializationResult.WarningMessages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FieldSerializationResult. Получает предупреждающие сообщения, связанные с процессом сериализации
+title: "FieldSerializationResult.WarningMessages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FieldSerializationResult. Получает сообщения предупреждений, связанные с процессом сериализации"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/fieldserializationresult/warningmessages/
 ---
-## Свойство FieldSerializationResult.WarningMessages
+## FieldSerializationResult.WarningMessages property
 
 Получает предупреждающие сообщения, связанные с процессом сериализации.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf/fieldserializationresult/warningmessages/
 public HashSet<string> WarningMessages { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-Набор предупреждающих сообщений.
+Набор сообщений предупреждений.
 
 ### См. также
 
-* класс [FieldSerializationResult](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

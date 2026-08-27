@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.JapanesePostcard
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Японская открытка 100 мм на 148 мм
+title: "PaperSizes.JapanesePostcard"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Японская открытка 100 мм на 148 мм"
 type: docs
 weight: 600
 url: /ru/net/aspose.pdf.printing/papersizes/japanesepostcard/
 ---
-## Поле PaperSizes.JapanesePostcard
+## PaperSizes.JapanesePostcard field
 
 Японская открытка (100 мм на 148 мм).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize JapanesePostcard;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

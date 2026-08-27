@@ -1,14 +1,14 @@
 ---
-title: Page.CalculateContentBBox
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Вычисляет значение bbox - прямоугольник, содержащий содержимое без видимых отступов
+title: "Page.CalculateContentBBox"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Вычисляет значение bbox — прямоугольник, содержащий содержимое без видимых полей"
 type: docs
 weight: 390
 url: /ru/net/aspose.pdf/page/calculatecontentbbox/
 ---
-## Метод Page.CalculateContentBBox
+## Page.CalculateContentBBox method
 
-Вычисляет значение bbox - прямоугольник, содержащий содержимое без видимых отступов.
+Вычисляет значение bbox — прямоугольник, содержащий содержимое без видимых полей.
 
 ```csharp
 public Rectangle CalculateContentBBox()
@@ -16,11 +16,13 @@ public Rectangle CalculateContentBBox()
 
 ### Возвращаемое значение
 
-Значение bbox - прямоугольник, содержащий содержимое без видимых отступов
+Значение Bbox — прямоугольник, содержащий содержимое без видимых полей
 
 ### См. также
 
-* класс [Rectangle](../../rectangle/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

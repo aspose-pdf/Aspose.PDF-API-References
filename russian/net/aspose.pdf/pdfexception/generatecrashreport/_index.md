@@ -1,14 +1,14 @@
 ---
-title: PdfException.GenerateCrashReport
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfException. Формирует отчет о сбое на основе формата HTML исключения
+title: "PdfException.GenerateCrashReport"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfException. Формирует отчёт о сбое на основе формата Exception HTML."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pdfexception/generatecrashreport/
 ---
-## Метод PdfException.GenerateCrashReport
+## PdfException.GenerateCrashReport method
 
-Формирует отчет о сбое на основе формата HTML исключения
+Формирует отчёт о сбое на основе HTML‑формата Exception.
 
 ```csharp
 public static void GenerateCrashReport(CrashReportOptions options)
@@ -16,11 +16,13 @@ public static void GenerateCrashReport(CrashReportOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | CrashReportOptions | Набор атрибутов для настройки данных, включенных в отчет о сбое |
+| options | CrashReportOptions | Набор атрибутов для настройки данных, включаемых в отчёт о сбое. |
 
 ### См. также
 
-* класс [CrashReportOptions](../../crashreportoptions/)
-* класс [PdfException](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CrashReportOptions](../../crashreportoptions/)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

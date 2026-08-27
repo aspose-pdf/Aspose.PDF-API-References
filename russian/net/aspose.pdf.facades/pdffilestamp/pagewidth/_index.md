@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileStamp. Получает ширину первой страницы во входном файле
+title: "PdfFileStamp.PageWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileStamp. Получает ширину первой страницы во входном файле."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdffilestamp/pagewidth/
 ---
-## Свойство PdfFileStamp.PageWidth
+## PdfFileStamp.PageWidth property
 
 Получает ширину первой страницы во входном файле.
 
@@ -24,6 +24,8 @@ fileStamp.Close();
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

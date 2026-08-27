@@ -1,7 +1,7 @@
 ---
-title: PdfToDocOptions.PdfToDocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfToDocOptions. Инициализирует новый экземпляр объекта PdfToDocOptions с параметрами по умолчанию
+title: "PdfToDocOptions.PdfToDocOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfToDocOptions. Инициализирует новый экземпляр объекта PdfToDocOptions с параметрами по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/pdftodocoptions/pdftodocoptions/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.plugins/pdftodocoptions/pdftodocoptions/
 public PdfToDocOptions()
 ```
 
-### See Also
+### См. также
 
 * class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
@@ -35,10 +35,12 @@ public PdfToDocOptions(SaveFormat format, ConversionMode mode)
 | format | SaveFormat | Формат сохранения выходного документа [`SaveFormat`](../saveformat/). |
 | mode | ConversionMode | Режим конвертации выходного документа [`ConversionMode`](../conversionmode/). |
 
-### See Also
+### См. также
 
 * enum [SaveFormat](../../saveformat/)
 * enum [ConversionMode](../../conversionmode/)
 * class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

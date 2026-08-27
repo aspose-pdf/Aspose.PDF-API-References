@@ -1,14 +1,14 @@
 ---
-title: Document.LogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает логическую структуру документа
+title: "Document.LogicalStructure"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document свойство. Получает логическую структуру документа"
 type: docs
-weight: 350
+weight: 370
 url: /ru/net/aspose.pdf/document/logicalstructure/
 ---
-## Свойство Document.LogicalStructure
+## Document.LogicalStructure property
 
-Получает логическую структуру документа.
+Получает логическую структуру document.
 
 ```csharp
 public RootElement LogicalStructure { get; }
@@ -16,7 +16,9 @@ public RootElement LogicalStructure { get; }
 
 ### См. также
 
-* класс [RootElement](../../../aspose.pdf.structure/rootelement/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [RootElement](../../../aspose.pdf.structure/rootelement/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

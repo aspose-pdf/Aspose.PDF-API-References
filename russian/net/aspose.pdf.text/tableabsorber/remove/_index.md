@@ -1,12 +1,12 @@
 ---
-title: TableAbsorber.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableAbsorber. Удаляет AbsorbedTable со страницы
+title: "TableAbsorber.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TableAbsorber. Удаляет AbsorbedTable со страницы"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/tableabsorber/remove/
 ---
-## Метод TableAbsorber.Remove
+## TableAbsorber.Remove method
 
 Удаляет [`AbsorbedTable`](../../absorbedtable/) со страницы.
 
@@ -16,15 +16,17 @@ public void Remove(AbsorbedTable table)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| table | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/), который нужно удалить. |
+| table | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) для удаления. |
 
 ## Примечания
 
-Пожалуйста, учитывайте, что это изменяет коллекцию TableList. В случае удаления/замены таблиц в цикле, пожалуйста, используйте копию коллекции TableList.
+Учтите, что это изменяет коллекцию TableList. При удалении/замене таблиц в цикле используйте копию коллекции TableList.
 
 ### См. также
 
-* класс [AbsorbedTable](../../absorbedtable/)
-* класс [TableAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

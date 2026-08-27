@@ -1,12 +1,12 @@
 ---
-title: TeXMemoryOutputDirectory.TeXMemoryOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TeXMemoryOutputDirectory. Конструктор по умолчанию
+title: "TeXMemoryOutputDirectory.TeXMemoryOutputDirectory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TeXMemoryOutputDirectory. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/texmemoryoutputdirectory/texmemoryoutputdirectory/
 ---
-## Конструктор TeXMemoryOutputDirectory
+## TeXMemoryOutputDirectory constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public TeXMemoryOutputDirectory()
 
 ### См. также
 
-* класс [TeXMemoryOutputDirectory](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

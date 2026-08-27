@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptimizedMemoryStream. При переопределении в производном классе получает или устанавливает позицию в текущем потоке
+title: "OptimizedMemoryStream.Position"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OptimizedMemoryStream свойство. При переопределении в производном классе получает или задает позицию в текущем потоке"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/optimizedmemorystream/position/
 ---
-## Свойство OptimizedMemoryStream.Position
+## OptimizedMemoryStream.Position property
 
-При переопределении в производном классе получает или устанавливает позицию в текущем потоке.
+При переопределении в производном классе получает или задаёт позицию в текущем потоке.
 
 ```csharp
 public override long Position { get; set; }
@@ -20,6 +20,8 @@ public override long Position { get; set; }
 
 ### См. также
 
-* класс [OptimizedMemoryStream](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

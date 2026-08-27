@@ -1,14 +1,14 @@
 ---
-title: FileSaveTarget.FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FileSaveTarget. Инициализирует новую цель сохранения файла с указанным путем
+title: "FileSaveTarget.FileSaveTarget"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FileSaveTarget constructor. Конструктор FileSaveTarget. Инициализирует новый целевой объект сохранения файла с указанным путем"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/filesavetarget/filesavetarget/
 ---
-## Конструктор FileSaveTarget
+## FileSaveTarget constructor
 
-Инициализирует новую цель сохранения файла с указанным путем.
+Инициализирует новую цель сохранения файла с указанным путём.
 
 ```csharp
 public FileSaveTarget(string path)
@@ -16,10 +16,12 @@ public FileSaveTarget(string path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | String | Строка, представляющая путь к выходному файлу. |
+| путь | String | Строка, представляющая путь к выходному файлу. |
 
 ### См. также
 
-* класс [FileSaveTarget](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.ToAttemptGetUnderlineFromSource
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextEditOptions. Получает или устанавливает значение, которое позволяет искать подчеркивание текста на странице исходного документа. Устарело. Пожалуйста, используйте TextSearchOptions.SearchForTextRelatedGraphics вместо этого.
+title: "TextEditOptions.ToAttemptGetUnderlineFromSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextEditOptions. Получает или задаёт значение, позволяющее искать подчеркивание текста на странице исходного документа. Устарело. Пожалуйста, используйте TextSearchOptions.SearchForTextRelatedGraphics вместо этого"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource/
 ---
-## Свойство TextEditOptions.ToAttemptGetUnderlineFromSource
+## TextEditOptions.ToAttemptGetUnderlineFromSource property
 
-Получает или устанавливает значение, которое позволяет искать подчеркивание текста на странице исходного документа. (Устарело) Пожалуйста, используйте TextSearchOptions.SearchForTextRelatedGraphics вместо этого.
+Получает или задает значение, позволяющее искать подчеркивание текста на странице исходного документа. (Устарело) Пожалуйста, используйте TextSearchOptions.SearchForTextRelatedGraphics вместо этого.
 
 ```csharp
 public bool ToAttemptGetUnderlineFromSource { get; set; }
@@ -16,6 +16,8 @@ public bool ToAttemptGetUnderlineFromSource { get; set; }
 
 ### См. также
 
-* класс [TextEditOptions](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextEditOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

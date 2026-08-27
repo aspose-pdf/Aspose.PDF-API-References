@@ -1,12 +1,12 @@
 ---
-title: PrinterResolutionExtensions.ToNativePrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PrinterResolutionExtensions. Преобразует PrinterResolution в специфичный для Windows System.Drawing.Printing.PrinterResolution
+title: "PrinterResolutionExtensions.ToNativePrinterResolution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PrinterResolutionExtensions. Преобразует PrinterResolution в специфичный для Windows System.Drawing.Printing.PrinterResolution"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.printing/printerresolutionextensions/tonativeprinterresolution/
 ---
-## Метод PrinterResolutionExtensions.ToNativePrinterResolution
+## PrinterResolutionExtensions.ToNativePrinterResolution method
 
 Преобразует [`PrinterResolution`](../../printerresolution/) в специфичный для Windows System.Drawing.Printing.PrinterResolution.
 
@@ -24,7 +24,9 @@ public static PrinterResolution ToNativePrinterResolution(this PrinterResolution
 
 ### См. также
 
-* класс [PrinterResolution](../../printerresolution/)
-* класс [PrinterResolutionExtensions](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterResolution](../../printerresolution/)
+* class [PrinterResolutionExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

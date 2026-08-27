@@ -1,25 +1,27 @@
 ---
-title: NumberField.AllowedChars
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NumberField. Получает или задает разрешенные символы
+title: "NumberField.AllowedChars"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NumberField. Получает или задает разрешённые символы"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/numberfield/allowedchars/
 ---
-## Свойство NumberField.AllowedChars
+## NumberField.AllowedChars property
 
-Получает или задает разрешенные символы.
+Получает или задаёт допустимые символы.
 
 ```csharp
 public string AllowedChars { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Строка разрешенных символов. По умолчанию 0123456789
+Строка разрешённых символов. По умолчанию 0123456789
 
 ### См. также
 
-* класс [NumberField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateMovie
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает аннотации фильма
+title: "PdfContentEditor.CreateMovie"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor метод. Создает аннотации‑видео."
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createmovie/
 ---
-## Метод PdfContentEditor.CreateMovie
+## PdfContentEditor.CreateMovie method
 
-Создает аннотации фильма.
+Создаёт аннотации Movie.
 
 ```csharp
 public void CreateMovie(Rectangle rect, string filePath, int page)
@@ -16,12 +16,14 @@ public void CreateMovie(Rectangle rect, string filePath, int page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
-| filePath | String | Путь к файлу фильма, который будет воспроизводиться. |
-| page | Int32 | Страница, на которой создается аннотация линии. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
+| filePath | String | Путь к видеофайлу для воспроизведения. |
+| страница | Int32 | Страница, на которой создается линейная аннотация. |
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

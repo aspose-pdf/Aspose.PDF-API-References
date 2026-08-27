@@ -1,14 +1,14 @@
 ---
-title: Class PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PageRange. Представляет диапазон страниц для настроек заголовка и нижнего колонтитула
+title: "Класс PageRange"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.PageRange класс. Представляет диапазон страниц для настроек верхнего и нижнего колонтитулов"
 type: docs
-weight: 8240
+weight: 8380
 url: /ru/net/aspose.pdf/pagerange/
 ---
-## Класс PageRange
+## PageRange class
 
-Представляет диапазон страниц для настроек заголовка и нижнего колонтитула.
+Представляет диапазон страниц для настроек верхнего и нижнего колонтитулов.
 
 ```csharp
 public sealed class PageRange
@@ -31,5 +31,7 @@ public sealed class PageRange
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

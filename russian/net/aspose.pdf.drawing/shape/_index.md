@@ -1,14 +1,14 @@
 ---
-title: Class Shape
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Drawing.Shape. Представляет форму - базовый графический объект
+title: "Класс Shape"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Drawing.Shape класс. Представляет форму базового графического объекта"
 type: docs
-weight: 4000
+weight: 4120
 url: /ru/net/aspose.pdf.drawing/shape/
 ---
-## Класс Shape
+## Shape class
 
-Представляет форму - базовый графический объект.
+Представляет форму — базовый графический объект.
 
 ```csharp
 public abstract class Shape : IBoundsCheckableItem
@@ -19,7 +19,7 @@ public abstract class Shape : IBoundsCheckableItem
 | Имя | Описание |
 | --- | --- |
 | [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Получает или задает объект [`GraphInfo`](./graphinfo/), который указывает информацию о графике, такую как цвет, ширина линии и т.д. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Получает или задает текст для формы |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Получает или задает текст для фигуры |
 
 ## Методы
 
@@ -29,6 +29,8 @@ public abstract class Shape : IBoundsCheckableItem
 
 ### См. также
 
-* интерфейс [IBoundsCheckableItem](../../aspose.pdf/iboundscheckableitem/)
-* пространство имен [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../)
+* interface [IBoundsCheckableItem](../../aspose.pdf/iboundscheckableitem/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.FormEditor. Представляет плагин FormEditor
+title: "Класс FormEditor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.FormEditor class. Представляет плагин FormEditor."
 type: docs
-weight: 8620
+weight: 8750
 url: /ru/net/aspose.pdf.plugins/formeditor/
 ---
-## Класс FormEditor
+## FormEditor class
 
 Представляет плагин FormEditor.
 
@@ -28,6 +28,8 @@ public sealed class FormEditor : IPlugin
 
 ### См. также
 
-* интерфейс [IPlugin](../iplugin/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

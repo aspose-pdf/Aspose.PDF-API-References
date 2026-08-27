@@ -1,12 +1,12 @@
 ---
-title: Enum SubmitFormFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SubmitFormFlag в Aspose.Pdf.Facades. Перечисление возможных флагов отправки формы
+title: "Перечисление SubmitFormFlag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Facades.SubmitFormFlag. Перечисление возможных флагов отправки формы"
 type: docs
-weight: 4750
+weight: 4870
 url: /ru/net/aspose.pdf.facades/submitformflag/
 ---
-## Перечисление SubmitFormFlag
+## SubmitFormFlag enumeration
 
 Перечисление возможных флагов отправки формы.
 
@@ -24,9 +24,11 @@ public enum SubmitFormFlag
 | Xfdf | `2` | Данные будут возвращены в формате XFDF. |
 | FdfWithComments | `3` | Данные будут возвращены в формате FDF с комментариями. |
 | XfdfWithComments | `4` | Данные будут возвращены в формате XFDF с комментариями. |
-| Pdf | `5` | Весь PDF файл будет отправлен. |
+| Pdf | `5` | Весь PDF‑файл будет отправлен. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

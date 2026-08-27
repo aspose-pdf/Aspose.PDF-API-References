@@ -1,12 +1,12 @@
 ---
-title: StructureElement.StructureType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureElement. Получает тип элемента структуры
+title: "StructureElement.StructureType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureElement. Получает тип элемента структуры"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 ---
-## Свойство StructureElement.StructureType
+## StructureElement.StructureType property
 
 Получает тип элемента структуры.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 public StructureTypeStandard StructureType { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Объект StructureTypeStandard элемента структуры.
 
 ### См. также
 
-* класс [StructureTypeStandard](../../structuretypestandard/)
-* класс [StructureElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../../structuretypestandard/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

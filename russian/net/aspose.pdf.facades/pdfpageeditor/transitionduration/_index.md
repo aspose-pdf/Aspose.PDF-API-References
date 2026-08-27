@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.TransitionDuration
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfPageEditor. Получает или задает продолжительность эффекта перехода
+title: "PdfPageEditor.TransitionDuration"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfPageEditor. Получает или задаёт длительность эффекта перехода"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/transitionduration/
 ---
-## Свойство PdfPageEditor.TransitionDuration
+## PdfPageEditor.TransitionDuration property
 
-Получает или задает продолжительность эффекта перехода.
+Получает или задает длительность эффекта перехода.
 
 ```csharp
 public int TransitionDuration { get; set; }
@@ -16,6 +16,8 @@ public int TransitionDuration { get; set; }
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

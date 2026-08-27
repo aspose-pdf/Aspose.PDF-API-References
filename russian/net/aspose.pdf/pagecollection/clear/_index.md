@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageCollection. Очистить коллекцию страниц
+title: "PageCollection.Clear"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageCollection. Очищает коллекцию страниц"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/pagecollection/clear/
 ---
-## Метод PageCollection.Clear
+## PageCollection.Clear method
 
 Очистить коллекцию страниц.
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### См. также
 
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

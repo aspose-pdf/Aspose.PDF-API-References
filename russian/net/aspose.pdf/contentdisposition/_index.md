@@ -1,14 +1,14 @@
 ---
-title: Enum ContentDisposition
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.ContentDisposition. Заголовок ContentDisposition протокола MIME
+title: "Перечисление ContentDisposition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.ContentDisposition. Заголовок ContentDisposition протокола MIME"
 type: docs
-weight: 3350
+weight: 3460
 url: /ru/net/aspose.pdf/contentdisposition/
 ---
-## Перечисление ContentDisposition
+## ContentDisposition enumeration
 
-Заголовок Content-Disposition протокола MIME.
+Заголовок MIME протокола Content-Disposition.
 
 ```csharp
 public enum ContentDisposition
@@ -23,5 +23,7 @@ public enum ContentDisposition
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

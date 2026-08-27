@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Creator
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileInfo. Получает или устанавливает информацию о создателе PDF-документа
+title: "PdfFileInfo.Creator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileInfo. Получает или задает информацию о Creator PDF-документа"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/pdffileinfo/creator/
 ---
-## Свойство PdfFileInfo.Creator
+## PdfFileInfo.Creator property
 
-Получает или устанавливает информацию о создателе PDF-документа.
+Получает или задает информацию о создателе PDF‑документа.
 
 ```csharp
 public string Creator { get; set; }
@@ -16,6 +16,8 @@ public string Creator { get; set; }
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

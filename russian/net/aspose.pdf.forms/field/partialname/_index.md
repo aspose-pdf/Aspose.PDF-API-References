@@ -1,12 +1,12 @@
 ---
-title: Field.PartialName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство поля. Получает или задает частичное имя поля
+title: "Field.PartialName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Field. Получает или задает частичное имя поля"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.forms/field/partialname/
 ---
-## Свойство Field.PartialName
+## Field.PartialName property
 
 Получает или задает частичное имя поля.
 
@@ -16,6 +16,8 @@ public string PartialName { get; set; }
 
 ### См. также
 
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

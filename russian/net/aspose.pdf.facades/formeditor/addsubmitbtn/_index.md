@@ -1,14 +1,14 @@
 ---
-title: FormEditor.AddSubmitBtn
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Добавить кнопку отправки на форму
+title: "FormEditor.AddSubmitBtn"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Добавить кнопку отправки в форму"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.facades/formeditor/addsubmitbtn/
 ---
-## Метод FormEditor.AddSubmitBtn
+## FormEditor.AddSubmitBtn method
 
-Добавить кнопку отправки на форму.
+Добавить кнопку отправки в форму.
 
 ```csharp
 public void AddSubmitBtn(string fieldName, int page, string label, string url, float llx, 
@@ -18,8 +18,8 @@ public void AddSubmitBtn(string fieldName, int page, string label, string url, f
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fieldName | String | Имя новой кнопки. |
-| page | Int32 | Страница, на которой будет размещена кнопка. |
-| label | String | Надпись на кнопке. |
+| страница | Int32 | Страница, на которой будет размещена кнопка. |
+| метка | String | Подпись кнопки. |
 | url | String | URL кнопки отправки. |
 | llx | Single | Абсцисса нижнего левого угла. |
 | lly | Single | Ордината нижнего левого угла. |
@@ -35,6 +35,8 @@ formEditor.AddSubmitBtn("submit", 1, "Submit", "www.check.com", 10, 200, 70, 270
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CreateEmbeddingResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CreateEmbeddingResponse. Получает или задает модель, используемую для встраивания
+title: "CreateEmbeddingResponse.Model"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CreateEmbeddingResponse. Получает или задаёт модель, используемую для встраивания"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/createembeddingresponse/model/
 ---
-## Свойство CreateEmbeddingResponse.Model
+## CreateEmbeddingResponse.Model property
 
-Получает или задает модель, используемую для встраивания.
+Получает или задаёт модель, используемую для embedding.
 
 ```csharp
 public string Model { get; set; }
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### См. также
 
-* класс [CreateEmbeddingResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateEmbeddingResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

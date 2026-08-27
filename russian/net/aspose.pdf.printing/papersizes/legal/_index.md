@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Legal
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Юридическая бумага 8.5 дюйма на 14 дюймов
+title: "PaperSizes.Legal"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Юридическая бумага 8,5 дюйм. на 14 дюйм."
 type: docs
 weight: 630
 url: /ru/net/aspose.pdf.printing/papersizes/legal/
 ---
-## Поле PaperSizes.Legal
+## PaperSizes.Legal field
 
-Юридическая бумага (8.5 дюйма на 14 дюймов).
+Бумага Legal (8,5 дюйма × 14 дюймов).
 
 ```csharp
 public static readonly PaperSize Legal;
@@ -16,7 +16,9 @@ public static readonly PaperSize Legal;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

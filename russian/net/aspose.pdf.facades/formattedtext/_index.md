@@ -1,14 +1,14 @@
 ---
-title: Class FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.FormattedText. Класс, который представляет форматированный текст. Содержит информацию о тексте и его цвете, размере, стиле
+title: "Класс FormattedText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Facades.FormattedText класс. Класс, который представляет отформатированный текст. Содержит информацию о тексте и его цвете, размере и стиле"
 type: docs
-weight: 4350
+weight: 4470
 url: /ru/net/aspose.pdf.facades/formattedtext/
 ---
-## Класс FormattedText
+## FormattedText class
 
-Класс, который представляет форматированный текст. Содержит информацию о тексте и его цвете, размере, стиле.
+Класс, представляющий форматированный текст. Содержит информацию о тексте и его цвете, размере, стиле.
 
 ```csharp
 public sealed class FormattedText
@@ -28,7 +28,7 @@ public sealed class FormattedText
 | [FormattedText](formattedtext/#constructor_11)(string, Color, Color, string, EncodingType, bool, float) | Инициализирует FormattedText. |
 | [FormattedText](formattedtext/#constructor_7)(string, Color, FontStyle, EncodingType, bool, float, float) | Инициализирует FormattedText. |
 | [FormattedText](formattedtext/#constructor_2)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) | Инициализирует FormattedText. |
-| [FormattedText](formattedtext/#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | Инициализирует FormattedText. |
+| [FormattedText](formattedtext/#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | Инициализировать FormattedText. |
 | [FormattedText](formattedtext/#constructor_10)(string, Color, Color, FontStyle, EncodingType, bool, float, float) | Инициализирует FormattedText. |
 | [FormattedText](formattedtext/#constructor_3)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) | Инициализирует FormattedText. |
 
@@ -50,5 +50,7 @@ public sealed class FormattedText
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

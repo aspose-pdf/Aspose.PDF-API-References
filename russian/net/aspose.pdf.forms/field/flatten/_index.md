@@ -1,14 +1,14 @@
 ---
-title: Field.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Метод поля. Удаляет это поле и помещает его значение непосредственно на страницу
+title: "Field.Flatten"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Field метод. Удаляет это поле и размещает его значение непосредственно на странице."
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.forms/field/flatten/
 ---
-## Метод Field.Flatten
+## Field.Flatten method
 
-Удаляет это поле и помещает его значение непосредственно на страницу.
+Удаляет это поле и размещает его значение непосредственно на странице.
 
 ```csharp
 public override void Flatten()
@@ -20,6 +20,8 @@ public override void Flatten()
 
 ### См. также
 
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

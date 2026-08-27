@@ -1,14 +1,14 @@
 ---
-title: Row.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Row. Получает или устанавливает вертикальное выравнивание
+title: "Row.VerticalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Row. Получает или задает вертикальное выравнивание"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/row/verticalalignment/
 ---
-## Свойство Row.VerticalAlignment
+## Row.VerticalAlignment property
 
-Получает или устанавливает вертикальное выравнивание.
+Получает или задает вертикальное выравнивание.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

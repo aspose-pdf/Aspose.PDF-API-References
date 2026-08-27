@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.GetViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Возвращает предпочтение просмотра
+title: "PdfContentEditor.GetViewerPreference"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Возвращает предпочтение просмотра"
 type: docs
 weight: 390
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/getviewerpreference/
 ---
-## Метод PdfContentEditor.GetViewerPreference
+## PdfContentEditor.GetViewerPreference method
 
 Возвращает предпочтение просмотра.
 
@@ -30,6 +30,8 @@ if ((prefValue & ViewerPreference.PageModeUseOutline) != 0)
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Point3D.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Point3D. Возвращает строковое представление объекта
+title: "Point3D.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Point3D. Возвращает строковое представление объекта"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/point3d/tostring/
 ---
-## Метод Point3D.ToString
+## Point3D.ToString method
 
 Возвращает строковое представление объекта.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [Point3D](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Point3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

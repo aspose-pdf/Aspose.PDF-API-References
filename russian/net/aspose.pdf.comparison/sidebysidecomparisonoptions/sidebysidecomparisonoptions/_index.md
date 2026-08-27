@@ -1,12 +1,12 @@
 ---
-title: SideBySideComparisonOptions.SideBySideComparisonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SideBySideComparisonOptions. Конструктор по умолчанию
+title: "SideBySideComparisonOptions.SideBySideComparisonOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SideBySideComparisonOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.comparison/sidebysidecomparisonoptions/sidebysidecomparisonoptions/
 ---
-## Конструктор SideBySideComparisonOptions
+## SideBySideComparisonOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public SideBySideComparisonOptions()
 
 ### См. также
 
-* класс [SideBySideComparisonOptions](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [SideBySideComparisonOptions](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

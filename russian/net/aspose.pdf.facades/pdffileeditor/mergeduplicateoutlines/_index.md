@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.MergeDuplicateOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileEditor. Если истинно, дублирующиеся контуры объединяются
+title: "PdfFileEditor.MergeDuplicateOutlines"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileEditor свойство. Если true дублирующие контуры объединяются"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/pdffileeditor/mergeduplicateoutlines/
 ---
-## Свойство PdfFileEditor.MergeDuplicateOutlines
+## PdfFileEditor.MergeDuplicateOutlines property
 
-Если истинно, дублирующиеся контуры объединяются.
+Если true, дублирующие контуры объединяются.
 
 ```csharp
 public bool MergeDuplicateOutlines { get; set; }
@@ -16,6 +16,8 @@ public bool MergeDuplicateOutlines { get; set; }
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.MakeBooklet
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileEditor. Создает буклет из входного файла в выходной файл
+title: "PdfFileEditor.MakeBooklet"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileEditor. Создаёт буклет из входного файла в выходной файл."
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.facades/pdffileeditor/makebooklet/
@@ -16,12 +16,12 @@ public bool MakeBooklet(string inputFile, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Путь и имя входного pdf файла. |
-| outputFile | String | Путь и имя выходного pdf файла. |
+| inputFile | String | Путь и имя входного pdf‑файла. |
+| outputFile | String | Путь и имя выходного pdf‑файла. |
 
 ### Возвращаемое значение
 
-boolean - True для успеха, или false.
+boolean — True при успехе, иначе false.
 
 ## Примеры
 
@@ -32,9 +32,9 @@ pfe.MakeBooklet("input.pdf", "output.pdf");
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -48,12 +48,12 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной pdf поток. |
-| outputStream | Stream | выходной pdf поток. |
+| inputStream | Stream | Входной pdf‑поток. |
+| outputStream | Stream | Выходной pdf‑поток. |
 
 ### Возвращаемое значение
 
-True, если операция была успешной.
+True, если операция завершилась успешно.
 
 ## Примеры
 
@@ -66,9 +66,9 @@ pfe.MakeBooklet(inputStream, outputStream);
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -82,13 +82,13 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Путь и имя входного pdf файла. |
-| outputFile | String | Путь и имя выходного pdf файла. |
-| pageSize | PageSize | Размер страницы выходного pdf файла. |
+| inputFile | String | Путь и имя входного pdf‑файла. |
+| outputFile | String | Путь и имя выходного pdf‑файла. |
+| pageSize | PageSize | Размер страницы выходного pdf‑файла. |
 
 ### Возвращаемое значение
 
-True, если операция была успешной.
+True, если операция завершилась успешно.
 
 ## Примеры
 
@@ -99,10 +99,10 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -116,13 +116,13 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной PDF поток. |
-| outputStream | Stream | выходной pdf поток. |
-| pageSize | PageSize | Размер страницы выходного pdf файла. |
+| inputStream | Stream | Входной поток PDF. |
+| outputStream | Stream | Выходной pdf‑поток. |
+| pageSize | PageSize | Размер страницы выходного pdf‑файла. |
 
 ### Возвращаемое значение
 
-True, если операция была успешной.
+True, если операция завершилась успешно.
 
 ## Примеры
 
@@ -135,16 +135,16 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(string, string, int[], int[]) {#makebooklet_7}
 
-Создает настраиваемый буклет из firstInputFile в outputFile.
+Создает пользовательский буклет из firstInputFile в outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
@@ -153,13 +153,13 @@ public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, in
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Входной файл. |
-| outputFile | String | Путь и имя выходного pdf файла. |
+| outputFile | String | Путь и имя выходного pdf‑файла. |
 | leftPages | Int32[] | Левые страницы буклета. |
 | rightPages | Int32[] | Правые страницы буклета. |
 
 ### Возвращаемое значение
 
-boolean - True для успеха, или false.
+boolean — True при успехе, иначе false.
 
 ## Примеры
 
@@ -170,15 +170,15 @@ pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_3}
 
-Создает настраиваемый буклет из firstInputStream в outputStream.
+Создает пользовательский буклет из firstInputStream в outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, int[] rightPages)
@@ -187,13 +187,13 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
-| outputStream | Stream | выходной pdf поток. |
+| outputStream | Stream | Выходной pdf‑поток. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правые страницы. |
 
 ### Возвращаемое значение
 
-boolean - True для успеха, или false.
+boolean — True при успехе, иначе false.
 
 ## Примеры
 
@@ -206,15 +206,15 @@ pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_6}
 
-Создает настраиваемый буклет из firstInputFile в outputFile.
+Создает пользовательский буклет из firstInputFile в outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
@@ -224,14 +224,14 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Входной файл. |
-| outputFile | String | Путь и имя выходного pdf файла. |
-| pageSize | PageSize | Размер страницы выходного pdf файла. |
+| outputFile | String | Путь и имя выходного pdf‑файла. |
+| pageSize | PageSize | Размер страницы выходного pdf‑файла. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правые страницы. |
 
 ### Возвращаемое значение
 
-boolean - True для успеха, или false.
+boolean — True при успехе, иначе false.
 
 ## Примеры
 
@@ -242,10 +242,10 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, n
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -261,14 +261,14 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
-| outputStream | Stream | выходной pdf поток. |
-| pageSize | PageSize | Размер страницы выходного pdf файла. |
+| outputStream | Stream | Выходной pdf‑поток. |
+| pageSize | PageSize | Размер страницы выходного pdf‑файла. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правые страницы. |
 
 ### Возвращаемое значение
 
-boolean - True для успеха, или false.
+boolean — True при успехе, иначе false.
 
 ## Примеры
 
@@ -281,120 +281,9 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, n
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 
-## MakeBooklet(string, PageSize, int[], int[], HttpResponse) {#makebooklet_6}
-
-Создает буклет из исходного файла и сохраняет результат в объекты HttpResponse.
-
-```csharp
-public bool MakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
-    HttpResponse response)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| inputFile | String | Путь к исходному файлу. |
-| pageSize | PageSize | Желаемый размер страницы. |
-| leftPages | Int32[] | Массив номеров страниц, которые будут размещены слева. |
-| rightPages | Int32[] | Массив номеров страниц, которые будут размещены справа. |
-| response | HttpResponse | Объект HttpResponse, в котором будет сохранен результат. |
-
-### Возвращаемое значение
-
-True, если операция была успешной.
-
-### См. также
-
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#makebooklet}
-
-Создает буклет из PDF файла и сохраняет его в HttpResponse.
-
-```csharp
-public bool MakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, int[] rightPages, 
-    HttpResponse response)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| inputStream | Stream | Входной поток документа. |
-| pageSize | PageSize | Желаемый размер страницы. |
-| leftPages | Int32[] | Массив номеров страниц, которые будут размещены слева. |
-| rightPages | Int32[] | Массив номеров страниц, которые будут размещены справа. |
-| response | HttpResponse | Объект HttpResponse. |
-
-### Возвращаемое значение
-
-True, если операция была успешной.
-
-### См. также
-
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(string, PageSize, HttpResponse) {#makebooklet_7}
-
-Создает буклет из исходного файла и сохраняет результат в объекты HttpResponse.
-
-```csharp
-public bool MakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| inputFile | String | Путь к исходному файлу. |
-| pageSize | PageSize | Желаемый размер страницы в выходном файле. |
-| response | HttpResponse | Объект HttpResponse, в котором будет сохранен результат. |
-
-### Возвращаемое значение
-
-True, если операция была успешной.
-
-### См. также
-
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(Stream, PageSize, HttpResponse) {#makebooklet_1}
-
-Создает буклет из исходного файла и сохраняет результат в HttpResponse.
-
-```csharp
-public bool MakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| inputStream | Stream | Входной поток документа. |
-| pageSize | PageSize | Желаемый размер страницы в выходном файле. |
-| response | HttpResponse | Объект Respose, в котором будет сохранен результат. |
-
-### Возвращаемое значение
-
-true, если буклет был успешно создан.
-
-### См. также
-
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)

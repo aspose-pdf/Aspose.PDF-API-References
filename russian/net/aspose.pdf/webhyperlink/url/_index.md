@@ -1,14 +1,14 @@
 ---
-title: WebHyperlink.Url
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство WebHyperlink. Получает или задает веб-URL
+title: "WebHyperlink.Url"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство WebHyperlink. Получает или задает веб‑URL"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/webhyperlink/url/
 ---
-## Свойство WebHyperlink.Url
+## WebHyperlink.Url property
 
-Получает или задает веб-URL.
+Получает или задает веб‑URL.
 
 ```csharp
 public string Url { get; set; }
@@ -16,6 +16,8 @@ public string Url { get; set; }
 
 ### См. также
 
-* класс [WebHyperlink](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [WebHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

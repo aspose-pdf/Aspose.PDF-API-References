@@ -1,14 +1,14 @@
 ---
-title: FontColor.Green
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FontColor. Зеленый компонент цвета
+title: "FontColor.Green"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FontColor. Зелёный компонент цвета"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/fontcolor/green/
 ---
-## Свойство FontColor.Green
+## FontColor.Green property
 
-Зеленый компонент цвета.
+Зелёный компонент цвета.
 
 ```csharp
 public int Green { get; set; }
@@ -16,6 +16,8 @@ public int Green { get; set; }
 
 ### См. также
 
-* класс [FontColor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

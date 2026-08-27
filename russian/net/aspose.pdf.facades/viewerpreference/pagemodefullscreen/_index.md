@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageModeFullScreen
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Режим полноэкранного просмотра без панели меню, элементов управления окнами или каких-либо других видимых окон
+title: "ViewerPreference.PageModeFullScreen"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ViewerPreference поле. Полноэкранный режим без строки меню, элементов управления окнами или любых других видимых окон"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/viewerpreference/pagemodefullscreen/
 ---
-## Поле ViewerPreference.PageModeFullScreen
+## ViewerPreference.PageModeFullScreen field
 
-Режим полноэкранного просмотра, без панели меню, элементов управления окнами или каких-либо других видимых окон.
+Полноэкранный режим без строки меню, элементов управления окном или любого другого видимого окна.
 
 ```csharp
 public const int PageModeFullScreen;
@@ -16,6 +16,8 @@ public const int PageModeFullScreen;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

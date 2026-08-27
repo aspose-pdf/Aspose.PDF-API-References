@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LineAnnotation. Получает или устанавливает внутренний цвет аннотации
+title: "LineAnnotation.InteriorColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "LineAnnotation property. Получает или задает внутренний цвет аннотации"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/lineannotation/interiorcolor/
 ---
-## Свойство LineAnnotation.InteriorColor
+## LineAnnotation.InteriorColor property
 
-Получает или устанавливает внутренний цвет аннотации.
+Получает или задает внутренний цвет аннотации.
 
 ```csharp
 public Color InteriorColor { get; set; }
@@ -16,7 +16,9 @@ public Color InteriorColor { get; set; }
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [LineAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

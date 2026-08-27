@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.ClearInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileInfo. Очищает всю метаинформацию PDF-документа
+title: "PdfFileInfo.ClearInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileInfo. Очищает всю мета‑информацию PDF‑документа"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/pdffileinfo/clearinfo/
 ---
-## Метод PdfFileInfo.ClearInfo
+## PdfFileInfo.ClearInfo method
 
-Очищает всю метаинформацию PDF-документа.
+Очищает всю мета‑информацию PDF Document.
 
 ```csharp
 public void ClearInfo()
@@ -22,6 +22,8 @@ public void ClearInfo()
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

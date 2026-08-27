@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.InterpolationHighQuality
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RenderingOptions. Получает или устанавливает режим высокого качества для интерполяции
+title: "RenderingOptions.InterpolationHighQuality"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RenderingOptions. Получает или задаёт режим высокого качества для интерполяции"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/renderingoptions/interpolationhighquality/
 ---
-## Свойство RenderingOptions.InterpolationHighQuality
+## RenderingOptions.InterpolationHighQuality property
 
-Получает или устанавливает режим высокого качества для интерполяции.
+Получает или задает режим высокого качества для интерполяции.
 
 ```csharp
 public bool InterpolationHighQuality { get; set; }
@@ -16,6 +16,8 @@ public bool InterpolationHighQuality { get; set; }
 
 ### См. также
 
-* класс [RenderingOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSize.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PaperSize. Предоставляет интересную информацию о PaperSize в строковом формате
+title: "PaperSize.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PaperSize. Предоставляет некоторую интересную информацию о PaperSize в виде строки"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.printing/papersize/tostring/
 ---
-## Метод PaperSize.ToString
+## PaperSize.ToString method
 
-Предоставляет интересную информацию о PaperSize в строковом формате.
+Предоставляет некоторую интересную информацию о PaperSize в виде строки.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [PaperSize](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

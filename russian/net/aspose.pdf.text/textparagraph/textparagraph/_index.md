@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.TextParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextParagraph. Конструктор по умолчанию
+title: "TextParagraph.TextParagraph"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TextParagraph конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textparagraph/textparagraph/
 ---
-## Конструктор TextParagraph
+## TextParagraph constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public TextParagraph()
 
 ### См. также
 
-* класс [TextParagraph](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

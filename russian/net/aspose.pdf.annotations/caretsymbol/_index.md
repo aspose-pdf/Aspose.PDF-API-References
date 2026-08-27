@@ -1,14 +1,14 @@
 ---
-title: Enum CaretSymbol
-second_title: Aspose.PDF for .NET API Reference
-description: Enum CaretSymbol Aspose.Pdf.Annotations. Символ, который будет ассоциирован с курсором
+title: "Перечисление CaretSymbol"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.CaretSymbol enum. Символ, который должен быть связан с кареткой."
 type: docs
-weight: 1570
+weight: 1660
 url: /ru/net/aspose.pdf.annotations/caretsymbol/
 ---
-## Перечисление CaretSymbol
+## CaretSymbol enumeration
 
-Символ, который будет ассоциирован с курсором.
+Символ, который будет ассоциирован с кареткой.
 
 ```csharp
 public enum CaretSymbol
@@ -16,12 +16,14 @@ public enum CaretSymbol
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| None | `0` | Символ не должен быть ассоциирован с курсором. |
-| Paragraph | `1` | Символ нового абзаца должен быть ассоциирован с курсором. |
+| None | `0` | Не должно быть символа, связанного с кареткой. |
+| Paragraph | `1` | Новый символ абзаца должен быть связан с кареткой. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum ImageEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ImageEncoding Aspose.Pdf.Optimization. Типы кодирования изображений
+title: "Перечисление ImageEncoding"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Optimization.ImageEncoding. Типы кодирования изображений."
 type: docs
-weight: 7970
+weight: 8110
 url: /ru/net/aspose.pdf.optimization/imageencoding/
 ---
-## Перечисление ImageEncoding
+## ImageEncoding enumeration
 
 Типы кодирования изображений.
 
@@ -16,14 +16,16 @@ public enum ImageEncoding
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Unchanged | `0` | Не изменять кодирование. |
-| Jpeg | `1` | Кодирование JPEG (DCT). |
-| Flate | `2` | Кодирование Flate. |
-| Jpeg2000 | `3` | Кодирование JPEG2000 (JPX). |
+| Unchanged | `0` | Не менять кодировку. |
+| Jpeg | `1` | Кодировка JPEG (DCT). |
+| Flate | `2` | Кодировка Flate. |
+| Jpeg2000 | `3` | Кодировка JPEG2000 (JPX). |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../)
+
+

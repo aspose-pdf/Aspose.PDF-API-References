@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.IncludeNoValueFields
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SubmitFormAction. Если установлено, все поля, обозначенные массивом Fields и флагом Include/Exclude, будут отправлены
+title: "SubmitFormAction.IncludeNoValueFields"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SubmitFormAction. Если установлено, все поля, указанные в массиве Fields, и флаг Include/Exclude будут отправлены."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.annotations/submitformaction/includenovaluefields/
 ---
-## Поле SubmitFormAction.IncludeNoValueFields
+## SubmitFormAction.IncludeNoValueFields field
 
-Если установлено, все поля, обозначенные массивом Fields и флагом Include/Exclude, будут отправлены.
+Если установлено, должны быть отправлены все поля, указанные в массиве Fields, и флаг Include/Exclude.
 
 ```csharp
 public const int IncludeNoValueFields;
@@ -16,6 +16,8 @@ public const int IncludeNoValueFields;
 
 ### См. также
 
-* класс [SubmitFormAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

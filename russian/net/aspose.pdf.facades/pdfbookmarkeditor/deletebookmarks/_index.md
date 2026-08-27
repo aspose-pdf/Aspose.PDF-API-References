@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.DeleteBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfBookmarkEditor. Удаляет все закладки PDF-документа
+title: "PdfBookmarkEditor.DeleteBookmarks"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfBookmarkEditor метод. Удаляет все закладки PDF‑документа"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/
 ---
 ## DeleteBookmarks() {#deletebookmarks}
 
-Удаляет все закладки PDF-документа.
+Удаляет все закладки PDF document.
 
 ```csharp
 public void DeleteBookmarks()
@@ -25,15 +25,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfBookmarkEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DeleteBookmarks(string) {#deletebookmarks_1}
 
-Удаляет закладку PDF-документа.
+Удаляет закладку PDF document.
 
 ```csharp
 public void DeleteBookmarks(string title)
@@ -41,7 +41,7 @@ public void DeleteBookmarks(string title)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| title | String | Заголовок удаленной закладки. |
+| title | String | Заголовок удалённой закладки. |
 
 ## Примеры
 
@@ -54,6 +54,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfBookmarkEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,15 +1,17 @@
 ---
-title: Aspose.Pdf.Sanitization
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Sanitization - это пространство имен для операций по санации
+title: "Aspose.Pdf.Sanitization"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Пространство имен Aspose.Pdf.Sanitization является пространством имен для операций санитизации."
 type: docs
-weight: 210
+weight: 200
 url: /ru/net/aspose.pdf.sanitization/
 ---
-**Aspose.Pdf.Sanitization** - это пространство имен для операций по санации.
+Пространство имён **Aspose.Pdf.Sanitization** — это пространство имён для операций санитизации.
 
 ## Классы
 
 | Класс | Описание |
 | --- | --- |
-| [SanitizationException](./sanitizationexception/) | Исключение, которое выбрасывается, когда операция санации завершилась неудачей. |
+| [SanitizationException](./sanitizationexception/) | Исключение, которое выбрасывается, когда операция санитизации завершилась неудачей. |
+
+

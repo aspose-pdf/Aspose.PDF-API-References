@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.MaxDistanceBetweenTextLines
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocSaveOptions. Этот параметр используется для группировки строк текста в абзацы. Определяет, на каком расстоянии могут находиться две относительные строки текста. Указывается в сотых процентах от высоты строк текста.
+title: "DocSaveOptions.MaxDistanceBetweenTextLines"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocSaveOptions. Этот параметр используется для группировки строк текста в абзацы. Определяет, насколько далеко могут находиться две относительные строки текста. Указывается в сотнях процентов от высоты строки текста."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/docsaveoptions/maxdistancebetweentextlines/
 ---
-## Свойство DocSaveOptions.MaxDistanceBetweenTextLines
+## DocSaveOptions.MaxDistanceBetweenTextLines property
 
-Этот параметр используется для группировки строк текста в абзацы. Определяет, на каком расстоянии могут находиться две относительные строки текста. Указывается в сотых процентах от высоты строк текста.
+Этот параметр используется для группировки строк текста в абзацы. Определяет, насколько далеко могут находиться две относительные строки текста. Указывается в сотых процентах от высоты строк текста.
 
 ```csharp
 public float MaxDistanceBetweenTextLines { get; set; }
@@ -16,6 +16,8 @@ public float MaxDistanceBetweenTextLines { get; set; }
 
 ### См. также
 
-* класс [DocSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

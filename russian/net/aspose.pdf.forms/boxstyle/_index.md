@@ -1,14 +1,14 @@
 ---
-title: Enum BoxStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BoxStyle Aspose.Pdf.Forms. Представляет стили для рисования галочки в флажке
+title: "Перечисление BoxStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Forms.BoxStyle. Представляет стили отрисовки отметки в флажке."
 type: docs
-weight: 4960
+weight: 5080
 url: /ru/net/aspose.pdf.forms/boxstyle/
 ---
-## Перечисление BoxStyle
+## BoxStyle enumeration
 
-Представляет стили для рисования галочки в флажке.
+Представляет стили для отрисовки галочки в флажке.
 
 ```csharp
 public enum BoxStyle
@@ -16,16 +16,18 @@ public enum BoxStyle
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Circle | `0` | Стиль круг. |
-| Check | `1` | Стиль галочка. |
-| Cross | `2` | Стиль крест. |
-| Diamond | `3` | Стиль ромб. |
-| Square | `4` | Стиль квадрат. |
-| Star | `5` | Стиль звезда. |
+| Circle | `0` | Стиль круга. |
+| Check | `1` | Стиль галочки. |
+| Cross | `2` | Стиль крестика. |
+| Diamond | `3` | Стиль ромба. |
+| Square | `4` | Стиль квадрата. |
+| Star | `5` | Стиль звезды. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

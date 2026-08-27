@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OperatorCollection. Добавляет нового оператора в коллекцию
+title: "OperatorCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OperatorCollection. Добавляет новый оператор в коллекцию."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/operatorcollection/add/
 ---
 ## Add(Operator) {#add}
 
-Добавляет нового оператора в коллекцию.
+Добавляет новый оператор в коллекцию.
 
 ```csharp
 public override void Add(Operator op)
@@ -16,7 +16,7 @@ public override void Add(Operator op)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| op | Operator | Оператор, который должен быть добавлен |
+| op | Operator | Оператор, который должен быть добавлен. |
 
 ## Примеры
 
@@ -30,10 +30,10 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -47,7 +47,7 @@ public void Add(Operator[] ops)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ops | Operator[] | Массив операторов, которые будут добавлены. Каждый оператор может иметь любой индекс (по умолчанию -1), так как они добавляются в конец операторов содержимого, т.е. индексы назначаются автоматически. |
+| ops | Operator[] | Массив операторов для добавления. Каждый оператор может иметь любой индекс (по умолчанию -1), поскольку они помещаются в конец операторов содержимого, т.е. индексы назначаются автоматически. |
 
 ## Примеры
 
@@ -61,16 +61,16 @@ oc.Add(new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(ICollection&lt;Operator&gt;) {#add_2}
 
-Добавляет в коллекцию всех операторов из другой коллекции.
+Добавляет в коллекцию все операторы из другой коллекции.
 
 ```csharp
 public void Add(ICollection<Operator> ops)
@@ -78,7 +78,7 @@ public void Add(ICollection<Operator> ops)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ops | ICollection`1 | коллекция, которая содержит операторов, которые будут добавлены. |
+| ops | ICollection`1 | коллекция, которая содержит операторы, которые будут добавлены. |
 
 ## Примеры
 
@@ -95,7 +95,9 @@ oc.Add(opList);
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

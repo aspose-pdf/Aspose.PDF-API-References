@@ -1,14 +1,14 @@
 ---
-title: FitBHExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FitBHExplicitDestination. Получает вертикальную координату top, расположенную на верхнем крае окна
+title: "FitBHExplicitDestination.Top"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FitBHExplicitDestination. Возвращает вертикальную координату top, расположенную у верхнего края окна"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/fitbhexplicitdestination/top/
 ---
-## Свойство FitBHExplicitDestination.Top
+## FitBHExplicitDestination.Top property
 
-Получает вертикальную координату top, расположенную на верхнем крае окна.
+Получает вертикальную координату top, расположенную у верхнего края окна.
 
 ```csharp
 public double Top { get; }
@@ -16,6 +16,8 @@ public double Top { get; }
 
 ### См. также
 
-* класс [FitBHExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FitBHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

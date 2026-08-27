@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAISummaryCopilotOptions. Устанавливает модель для параметров копилота резюме
+title: "OpenAISummaryCopilotOptions.WithModel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAISummaryCopilotOptions метод. Устанавливает модель для параметров помощника сводки"
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.pdf.ai/openaisummarycopilotoptions/withmodel/
 ---
-## Метод OpenAISummaryCopilotOptions.WithModel
+## OpenAISummaryCopilotOptions.WithModel method
 
-Устанавливает модель для параметров копилота резюме.
+Устанавливает модель для параметров сопилота резюме.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithModel(string model)
@@ -24,6 +24,8 @@ public OpenAISummaryCopilotOptions WithModel(string model)
 
 ### См. также
 
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,11 +1,39 @@
 ---
-title: Document.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Метод документа. Сохраняет документ в поток
+title: "Document.Save"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Сохраняет документ в поток с параметрами сохранения"
 type: docs
-weight: 830
+weight: 850
 url: /ru/net/aspose.pdf/document/save/
 ---
+## Save(Stream, SaveOptions) {#save_4}
+
+Сохраняет документ в поток с параметрами сохранения.
+
+```csharp
+public void Save(Stream outputStream, SaveOptions options)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| outputStream | Stream | Поток, в котором будет сохранён документ. |
+| options | SaveOptions | Параметры сохранения. |
+
+### Исключения
+
+| исключение | условие |
+| --- | --- |
+| ArgumentException | ArgumentException когда [`HtmlSaveOptions`](../../htmlsaveoptions/) передается методу. Сохранение документа в html‑поток не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
+
+### См. также
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## Save(Stream) {#save_2}
 
 Сохраняет документ в поток.
@@ -16,13 +44,13 @@ public void Save(Stream output)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| output | Stream | Поток, в который будет сохранен документ. |
+| output | Stream | Поток, в котором будет храниться документ. |
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,33 +64,33 @@ public void Save(string outputFileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFileName | String | Путь к файлу, в который будет сохранен документ. |
+| outputFileName | String | Путь к файлу, в котором будет храниться документ. |
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save() {#save}
 
-Сохраняет документ инкрементально (т.е. с использованием техники инкрементального обновления).
+Сохранять документ инкрементно (т.е. используя технику инкрементного обновления).
 
 ```csharp
 public void Save()
 ```
 
-## Замечания
+## Примечания
 
-Для того чтобы сохранить документ инкрементально, мы должны открыть файл документа для записи. Поэтому Document должен быть инициализирован с помощью записываемого потока, как в следующем фрагменте кода: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // внесите изменения и сохраните документ инкрементально doc.Save();
+Чтобы сохранить документ инкрементно, необходимо открыть файл документа для записи. Поэтому Document должен быть инициализирован записываемым потоком, как в следующем фрагменте кода: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // внесите некоторые изменения и сохраните документ инкрементно doc.Save();
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -80,16 +108,16 @@ public void Save(SaveOptions options)
 
 ### См. также
 
-* класс [SaveOptions](../../saveoptions/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(string, SaveFormat) {#save_6}
 
-Сохраняет документ с новым именем и форматом файла.
+Сохраняет документ под новым именем вместе с форматом файла.
 
 ```csharp
 public void Save(string outputFileName, SaveFormat format)
@@ -97,21 +125,21 @@ public void Save(string outputFileName, SaveFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFileName | String | Путь к файлу, в который будет сохранен документ. |
-| format | SaveFormat | Параметры формата. |
+| outputFileName | String | Путь к файлу, в котором будет храниться документ. |
+| формат | SaveFormat | Параметры формата. |
 
 ### См. также
 
 * enum [SaveFormat](../../saveformat/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream, SaveFormat) {#save_3}
 
-Сохраняет документ с новым именем и форматом файла.
+Сохраняет документ под новым именем вместе с форматом файла.
 
 ```csharp
 public void Save(Stream outputStream, SaveFormat format)
@@ -119,27 +147,27 @@ public void Save(Stream outputStream, SaveFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток, в который будет сохранен документ. |
-| format | SaveFormat | Параметры формата. |
+| outputStream | Stream | Поток, в котором будет сохранён документ. |
+| формат | SaveFormat | Параметры формата. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | ArgumentException, когда [`HtmlSaveOptions`](../../htmlsaveoptions/) передан в метод. Сохранение документа в html поток не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
+| ArgumentException | ArgumentException когда [`HtmlSaveOptions`](../../htmlsaveoptions/) передается методу. Сохранение документа в html‑поток не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
 
 ### См. также
 
 * enum [SaveFormat](../../saveformat/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(string, SaveOptions) {#save_7}
 
-Сохраняет документ с новым именем, устанавливая его параметры сохранения.
+Сохраняет документ под новым именем, задавая его параметры сохранения.
 
 ```csharp
 public void Save(string outputFileName, SaveOptions options)
@@ -147,40 +175,14 @@ public void Save(string outputFileName, SaveOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFileName | String | Путь к файлу, в который будет сохранен документ. |
+| outputFileName | String | Путь к файлу, в котором будет храниться документ. |
 | options | SaveOptions | Параметры сохранения. |
 
 ### См. также
 
-* класс [SaveOptions](../../saveoptions/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
----
 
-## Save(Stream, SaveOptions) {#save_4}
-
-Сохраняет документ в поток с параметрами сохранения.
-
-```csharp
-public void Save(Stream outputStream, SaveOptions options)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| outputStream | Stream | Поток, в который будет сохранен документ. |
-| options | SaveOptions | Параметры сохранения. |
-
-### Исключения
-
-| исключение | условие |
-| --- | --- |
-| ArgumentException | ArgumentException, когда [`HtmlSaveOptions`](../../htmlsaveoptions/) передан в метод. Сохранение документа в html поток не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
-
-### См. также
-
-* класс [SaveOptions](../../saveoptions/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)

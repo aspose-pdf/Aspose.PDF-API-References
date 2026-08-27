@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFormatConversionOptions. Опции для случаев, когда невозможно встроить некоторые шрифты в PDF-документ
+title: "PdfFormatConversionOptions.FontEmbeddingOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFormatConversionOptions свойство. Параметры для случаев, когда невозможно встроить некоторые шрифты в PDF‑документ"
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/fontembeddingoptions/
 ---
-## Свойство PdfFormatConversionOptions.FontEmbeddingOptions
+## PdfFormatConversionOptions.FontEmbeddingOptions property
 
-Опции для случаев, когда невозможно встроить некоторые шрифты в PDF-документ.
+Параметры для случаев, когда невозможно встроить некоторые шрифты в PDF‑документ.
 
 ```csharp
 public FontEmbeddingOptions FontEmbeddingOptions { get; }
@@ -16,7 +16,9 @@ public FontEmbeddingOptions FontEmbeddingOptions { get; }
 
 ### См. также
 
-* класс [FontEmbeddingOptions](../../fontembeddingoptions/)
-* класс [PdfFormatConversionOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FontEmbeddingOptions](../../fontembeddingoptions/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

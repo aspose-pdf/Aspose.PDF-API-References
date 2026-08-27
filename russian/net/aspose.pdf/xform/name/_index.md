@@ -1,14 +1,14 @@
 ---
-title: XForm.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XForm. Получает или устанавливает имя формы. Имя формы - это имя, которое используется для ссылки на форму в словаре XObejct в ресурсах страницы.
+title: "XForm.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XForm. Получает или задает имя формы. Имя формы — это имя, которое используется для ссылки на форму в словаре XObejct в ресурсах страницы"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/xform/name/
 ---
-## Свойство XForm.Name
+## XForm.Name property
 
-Получает или устанавливает имя формы. Имя формы - это имя, которое используется для ссылки на форму в словаре XObejct в ресурсах страницы.
+Получает или задает имя формы. Имя формы — это имя, которое используется для ссылки на форму в словаре XObject в ресурсах страницы.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [XForm](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.IsObject
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ObjectResult. Указывает, является ли результат объектом
+title: "ObjectResult.IsObject"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ObjectResult. Указывает, является ли результат объектом"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/objectresult/isobject/
 ---
-## Свойство ObjectResult.IsObject
+## ObjectResult.IsObject property
 
 Указывает, является ли результат объектом.
 
@@ -20,6 +20,8 @@ public bool IsObject { get; }
 
 ### См. также
 
-* класс [ObjectResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

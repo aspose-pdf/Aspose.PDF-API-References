@@ -1,14 +1,14 @@
 ---
-title: Outlines.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Outlines. Удалить элемент коллекции закладок
+title: "Outlines.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Outlines. Удаляет элемент коллекции оглавления"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/outlines/remove/
 ---
-## Метод Outlines.Remove
+## Outlines.Remove method
 
-Удалить элемент коллекции закладок.
+Удаляет элемент коллекции оглавления.
 
 ```csharp
 public abstract bool Remove(OutlineItemCollection item)
@@ -20,11 +20,13 @@ public abstract bool Remove(OutlineItemCollection item)
 
 ### Возвращаемое значение
 
-True - если элемент удален; в противном случае, false.
+True — если элемент удалён; иначе false.
 
 ### См. также
 
-* класс [OutlineItemCollection](../../outlineitemcollection/)
-* класс [Outlines](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

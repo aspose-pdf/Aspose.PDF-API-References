@@ -1,12 +1,12 @@
 ---
-title: Table.ColumnWidths
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство таблицы. Получает ширины столбцов таблицы
+title: "Table.ColumnWidths"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Table. Возвращает ширины колонок таблицы"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/table/columnwidths/
 ---
-## Свойство Table.ColumnWidths
+## Table.ColumnWidths property
 
 Получает ширины столбцов таблицы.
 
@@ -16,6 +16,8 @@ public string ColumnWidths { get; set; }
 
 ### См. также
 
-* класс [Table](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

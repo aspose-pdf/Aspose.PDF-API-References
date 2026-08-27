@@ -1,12 +1,12 @@
 ---
-title: BuildVersionInfo.BuildVersionInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BuildVersionInfo. Конструктор по умолчанию
+title: "BuildVersionInfo.BuildVersionInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BuildVersionInfo. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/buildversioninfo/buildversioninfo/
 ---
-## Конструктор BuildVersionInfo
+## BuildVersionInfo constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public BuildVersionInfo()
 
 ### См. также
 
-* класс [BuildVersionInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BuildVersionInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

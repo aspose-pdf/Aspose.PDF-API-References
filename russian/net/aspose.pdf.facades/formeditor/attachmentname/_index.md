@@ -1,14 +1,14 @@
 ---
-title: FormEditor.AttachmentName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormEditor. Получает или устанавливает имя вложения, когда результат операции сохраняется в объекты HttpResponse как вложение
+title: "FormEditor.AttachmentName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormEditor. Получает или задает имя вложения, когда результат операции сохраняется в объектах HttpResponse в виде вложения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/formeditor/attachmentname/
 ---
-## Свойство FormEditor.AttachmentName
+## FormEditor.AttachmentName property
 
-Получает или устанавливает имя вложения, когда результат операции сохраняется в объекты HttpResponse как вложение.
+Получает или задает имя вложения, когда результат операции сохраняется в объектах HttpResponse в виде вложения.
 
 ```csharp
 public string AttachmentName { get; set; }
@@ -16,6 +16,8 @@ public string AttachmentName { get; set; }
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

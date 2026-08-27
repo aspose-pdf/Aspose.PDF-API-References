@@ -1,12 +1,12 @@
 ---
-title: ElementList.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ElementList. Извлекает элемент по заданному индексу
+title: "ElementList.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ElementList метод. Получает элемент по заданному индексу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.logicalstructure/elementlist/item/
 ---
-## Метод ElementList.Item
+## ElementList.Item method
 
 Извлекает элемент по заданному индексу.
 
@@ -24,7 +24,9 @@ public abstract Element Item(int index)
 
 ### См. также
 
-* класс [Element](../../element/)
-* класс [ElementList](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementList](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

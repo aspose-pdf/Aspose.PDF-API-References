@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XFormCollection. Удаляет указанный элемент из коллекции
+title: "XFormCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XFormCollection. Удаляет указанный элемент из коллекции"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/xformcollection/remove/
 ---
-## Метод XFormCollection.Remove
+## XFormCollection.Remove method
 
 Удаляет указанный элемент из коллекции.
 
@@ -20,11 +20,13 @@ public bool Remove(XForm item)
 
 ### Возвращаемое значение
 
-true, если элемент был удален из коллекции; в противном случае false.
+true, если элемент был удалён из коллекции; в противном случае — false.
 
 ### См. также
 
-* класс [XForm](../../xform/)
-* класс [XFormCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

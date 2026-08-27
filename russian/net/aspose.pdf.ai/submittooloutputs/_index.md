@@ -1,32 +1,34 @@
 ---
-title: Class SubmitToolOutputs
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.SubmitToolOutputs. Представляет детали о выходных данных инструмента, необходимых для продолжения выполнения
+title: "Класс SubmitToolOutputs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AI.SubmitToolOutputs класс. Представляет детали выводов инструмента, необходимых для продолжения выполнения"
 type: docs
-weight: 1080
+weight: 1160
 url: /ru/net/aspose.pdf.ai/submittooloutputs/
 ---
 ## SubmitToolOutputs class
 
-Представляет детали о выходных данных инструмента, необходимых для продолжения выполнения.
+Представляет детали выходных данных инструментов, необходимых для продолжения выполнения.
 
 ```csharp
 public class SubmitToolOutputs
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [SubmitToolOutputs](submittooloutputs/)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [ToolCalls](../../aspose.pdf.ai/submittooloutputs/toolcalls/) { get; set; } | Получает или задает список соответствующих вызовов инструмента. |
+| [ToolCalls](../../aspose.pdf.ai/submittooloutputs/toolcalls/) { get; set; } | Получает или задает список соответствующих вызовов инструментов. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Element.E
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство элемента. Необязательная PDF 1.5 Расширенная форма аббревиатуры
+title: "Element.E"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Element. Необязательно PDF 1.5 Расширенная форма аббревиатуры"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.structure/element/e/
 ---
-## Свойство Element.E
+## Element.E property
 
-(Необязательно; PDF 1.5) Расширенная форма аббревиатуры.
+(Optional; PDF 1.5) Расширенная форма аббревиатуры.
 
 ```csharp
 public virtual string E { get; set; }
@@ -16,6 +16,8 @@ public virtual string E { get; set; }
 
 ### См. также
 
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* сборка [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

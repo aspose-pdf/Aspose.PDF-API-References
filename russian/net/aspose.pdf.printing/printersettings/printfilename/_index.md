@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrintFileName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PrinterSettings. Указывает имя файла принтера
+title: "PrinterSettings.PrintFileName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PrinterSettings. Указывает имя файла принтера"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.printing/printersettings/printfilename/
 ---
-## Свойство PrinterSettings.PrintFileName
+## PrinterSettings.PrintFileName property
 
 Указывает имя файла принтера.
 
@@ -16,6 +16,8 @@ public string PrintFileName { get; set; }
 
 ### См. также
 
-* класс [PrinterSettings](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

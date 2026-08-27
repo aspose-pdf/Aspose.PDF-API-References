@@ -1,12 +1,12 @@
 ---
-title: PDF3DArtwork.RenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DArtwork. Получает или задает режим рендеринга
+title: "PDF3DArtwork.RenderMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DArtwork. Возвращает или задает режим рендеринга"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/pdf3dartwork/rendermode/
 ---
-## Свойство PDF3DArtwork.RenderMode
+## PDF3DArtwork.RenderMode property
 
 Получает или задает режим рендеринга.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf.annotations/pdf3dartwork/rendermode/
 public PDF3DRenderMode RenderMode { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Режим рендеринга.
 
 ### См. также
 
-* класс [PDF3DRenderMode](../../pdf3drendermode/)
-* класс [PDF3DArtwork](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

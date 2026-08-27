@@ -1,14 +1,14 @@
 ---
-title: Outlines.VisibleCount
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Outlines. Получает общее количество элементов оглавления на всех уровнях иерархии оглавления документа
+title: "Outlines.VisibleCount"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Outlines. Возвращает общее количество элементов оглавления на всех уровнях иерархии оглавления документа"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/outlines/visiblecount/
 ---
-## Свойство Outlines.VisibleCount
+## Outlines.VisibleCount property
 
-Получает общее количество элементов оглавления на всех уровнях иерархии оглавления документа.
+Получает общее количество пунктов оглавления на всех уровнях в иерархии оглавления документа.
 
 ```csharp
 public abstract int VisibleCount { get; }
@@ -16,6 +16,8 @@ public abstract int VisibleCount { get; }
 
 ### См. также
 
-* класс [Outlines](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

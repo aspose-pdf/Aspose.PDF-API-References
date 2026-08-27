@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.P
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Параграф Низкоуровневое деление текста
+title: "StructureTypeStandard.P"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard поле. Параграф Низкоуровневое деление текста."
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/p/
 ---
-## Поле StructureTypeStandard.P
+## StructureTypeStandard.P field
 
-(Параграф) Низкоуровневое деление текста.
+(Paragraph) Низкоуровневое деление текста.
 
 ```csharp
 public static readonly StructureTypeStandard P;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard P;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

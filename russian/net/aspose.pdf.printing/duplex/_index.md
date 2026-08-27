@@ -1,14 +1,14 @@
 ---
-title: Enum Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Printing.Duplex. Указывает настройку дуплекса принтера
+title: "Перечисление Duplex"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Printing.Duplex. Указывает настройку двусторонней печати принтера."
 type: docs
-weight: 9530
+weight: 9680
 url: /ru/net/aspose.pdf.printing/duplex/
 ---
-## Перечисление Duplex
+## Duplex enumeration
 
-Указывает настройку дуплекса принтера.
+Указывает настройку двусторонней печати принтера.
 
 ```csharp
 public enum Duplex
@@ -16,14 +16,16 @@ public enum Duplex
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Default | `-1` | Настройка дуплекса по умолчанию для принтера. |
-| Simplex | `1` | Печать с одной стороны. |
+| Default | `-1` | Настройка двусторонней печати принтера по умолчанию. |
+| Simplex | `1` | Односторонняя печать. |
 | Horizontal | `3` | Двусторонняя печать, горизонтальная. |
 | Vertical | `2` | Двусторонняя печать, вертикальная. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

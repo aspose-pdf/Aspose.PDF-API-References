@@ -1,14 +1,14 @@
 ---
-title: Enum FreeTextIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.FreeTextIntent. Перечисляет намерения аннотации свободного текста
+title: "Перечисление FreeTextIntent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.FreeTextIntent enum. Перечисляет назначения аннотации свободного текста"
 type: docs
-weight: 1820
+weight: 1910
 url: /ru/net/aspose.pdf.annotations/freetextintent/
 ---
-## Перечисление FreeTextIntent
+## FreeTextIntent enumeration
 
-Перечисляет намерения аннотации свободного текста.
+Перечисляет назначения аннотации свободного текста.
 
 ```csharp
 public enum FreeTextIntent
@@ -18,11 +18,13 @@ public enum FreeTextIntent
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Undefined | `0` | Неопределенное состояние. |
-| FreeTextCallout | `1` | Означает, что аннотация предназначена для функции вызова. |
-| FreeTextTypeWriter | `2` | Означает, что аннотация предназначена для функции щелчка для ввода или объекта печатной машинки. |
+| Undefined | `0` | Неопределённое состояние. |
+| FreeTextCallout | `1` | Означает, что аннотация предназначена работать как выноска. |
+| FreeTextTypeWriter | `2` | Означает, что аннотация предназначена работать как объект «кликни‑и‑печатай» или пишущая машинка. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

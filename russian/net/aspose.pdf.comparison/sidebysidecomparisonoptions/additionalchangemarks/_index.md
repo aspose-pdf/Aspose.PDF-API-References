@@ -1,14 +1,14 @@
 ---
-title: SideBySideComparisonOptions.AdditionalChangeMarks
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SideBySideComparisonOptions. Получите и установите свойство, которое определяет, отображаются ли дополнительные маркеры изменений. Если установлено, отображает маркеры изменений, которые отсутствуют на текущей странице, но присутствуют на другой странице. Если изменение находится между словами, маркер может быть не точно расположен относительно символа пробела. Значение по умолчанию - false
+title: "SideBySideComparisonOptions.AdditionalChangeMarks"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SideBySideComparisonOptions. Получайте и задавайте свойство, определяющее, отображаются ли дополнительные маркеры изменений. Если включено, отображаются метки изменений, которые отсутствуют на текущей Page, но присутствуют на другой Page. Если изменение находится между словами, метка может быть расположена не точно относительно символа пробела. Значение по умолчанию — false."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.comparison/sidebysidecomparisonoptions/additionalchangemarks/
 ---
-## Свойство SideBySideComparisonOptions.AdditionalChangeMarks
+## SideBySideComparisonOptions.AdditionalChangeMarks property
 
-Получите и установите свойство, которое определяет, отображаются ли дополнительные маркеры изменений. Если установлено, отображает маркеры изменений, которые отсутствуют на текущей странице, но присутствуют на другой странице. Если изменение находится между словами, маркер может быть не точно расположен относительно символа пробела. Значение по умолчанию - `false`.
+Получить и задать свойство, определяющее, отображаются ли дополнительные маркеры изменений. Если установлено, отображаются метки изменений, которые отсутствуют на текущей странице, но присутствуют на другой странице. Если изменение расположено между словами, метка может быть не точно позиционирована относительно пробельного символа. Значение по умолчанию — `false`.
 
 ```csharp
 public bool AdditionalChangeMarks { get; set; }
@@ -16,6 +16,8 @@ public bool AdditionalChangeMarks { get; set; }
 
 ### См. также
 
-* класс [SideBySideComparisonOptions](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [SideBySideComparisonOptions](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

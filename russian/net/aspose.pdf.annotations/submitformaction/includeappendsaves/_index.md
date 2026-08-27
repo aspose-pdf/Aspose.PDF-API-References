@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.IncludeAppendSaves
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SubmitFormAction. Если установлено, отправленный FDF файл будет включать содержимое всех инкрементных обновлений
+title: "SubmitFormAction.IncludeAppendSaves"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SubmitFormAction. Если установлено, отправляемый файл FDF должен включать содержимое всех инкрементных обновлений."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.annotations/submitformaction/includeappendsaves/
 ---
-## Поле SubmitFormAction.IncludeAppendSaves
+## SubmitFormAction.IncludeAppendSaves field
 
-Если установлено, отправленный FDF файл будет включать содержимое всех инкрементных обновлений.
+Если установлено, отправленный файл FDF должен включать содержимое всех инкрементных обновлений.
 
 ```csharp
 public const int IncludeAppendSaves;
@@ -16,6 +16,8 @@ public const int IncludeAppendSaves;
 
 ### См. также
 
-* класс [SubmitFormAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

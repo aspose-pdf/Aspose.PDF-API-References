@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.LBody
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Список тела Описательное содержание элемента списка. В словарном списке, например, оно содержит определение термина. Оно может содержать содержимое напрямую или иметь другие BLSE, возможно, включая вложенные списки в качестве дочерних элементов.
+title: "StructureTypeStandard.LBody"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeStandard. List body Описательное содержание пункта списка. В словарном списке, например, оно содержит определение термина. Может содержать контент напрямую или включать другие BLSE, возможно, включая вложенные списки как дочерние элементы."
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/lbody/
 ---
-## Поле StructureTypeStandard.LBody
+## StructureTypeStandard.LBody field
 
-(Список тела) Описательное содержание элемента списка. В словарном списке, например, оно содержит определение термина. Оно может содержать содержимое напрямую или иметь другие BLSE, возможно, включая вложенные списки, в качестве дочерних элементов.
+(List body) Описательное содержание пункта списка. Например, в словарном списке оно содержит определение термина. Оно может содержать содержание напрямую или иметь другие BLSE, возможно, включая вложенные списки, в качестве дочерних элементов.
 
 ```csharp
 public static readonly StructureTypeStandard LBody;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard LBody;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

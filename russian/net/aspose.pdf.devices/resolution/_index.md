@@ -1,12 +1,12 @@
 ---
-title: Class Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Devices.Resolution. Представляет класс для хранения разрешения изображения
+title: "Класс Resolution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Devices.Resolution. Представляет класс для хранения разрешения изображения"
 type: docs
-weight: 3660
+weight: 3780
 url: /ru/net/aspose.pdf.devices/resolution/
 ---
-## Класс Разрешение
+## Resolution class
 
 Представляет класс для хранения разрешения изображения.
 
@@ -25,10 +25,12 @@ public sealed class Resolution
 
 | Имя | Описание |
 | --- | --- |
-| [X](../../aspose.pdf.devices/resolution/x/) { get; set; } | Получает или задает горизонтальное разрешение изображения. |
-| [Y](../../aspose.pdf.devices/resolution/y/) { get; set; } | Получает или задает вертикальное разрешение изображения. |
+| [X](../../aspose.pdf.devices/resolution/x/) { get; set; } | Получает или задаёт горизонтальное разрешение изображения. |
+| [Y](../../aspose.pdf.devices/resolution/y/) { get; set; } | Получает или задаёт вертикальное разрешение изображения. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Attachment.FileId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Attachment. Получает или задает ID файла, который прикреплен
+title: "Attachment.FileId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Attachment свойство. Получает или задает идентификатор файла, который прикреплен"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/attachment/fileid/
 ---
-## Свойство Attachment.FileId
+## Attachment.FileId property
 
-Получает или задает ID файла, который прикреплен.
+Получает или задаёт ID файла File, который прикреплён.
 
 ```csharp
 public string FileId { get; set; }
@@ -16,6 +16,8 @@ public string FileId { get; set; }
 
 ### См. также
 
-* класс [Attachment](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Attachment](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.Description
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpPdfAExtensionSchemaDescription. Получает необязательное описание
+title: "XmpPdfAExtensionSchemaDescription.Description"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpPdfAExtensionSchemaDescription. Возвращает необязательное описание."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/xmppdfaextensionschemadescription/description/
 ---
-## Свойство XmpPdfAExtensionSchemaDescription.Description
+## XmpPdfAExtensionSchemaDescription.Description property
 
 Получает необязательное описание.
 
@@ -16,6 +16,8 @@ public string Description { get; }
 
 ### См. также
 
-* класс [XmpPdfAExtensionSchemaDescription](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchemaDescription](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

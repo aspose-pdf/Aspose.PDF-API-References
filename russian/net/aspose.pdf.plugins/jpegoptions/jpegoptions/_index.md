@@ -1,12 +1,12 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор JpegOptions. Конструктор по умолчанию
+title: "JpegOptions.JpegOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор JpegOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/jpegoptions/jpegoptions/
 ---
-## Конструктор JpegOptions
+## JpegOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public JpegOptions()
 
 ### См. также
 
-* класс [JpegOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [JpegOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

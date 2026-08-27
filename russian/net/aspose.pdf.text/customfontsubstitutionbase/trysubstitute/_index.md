@@ -1,12 +1,12 @@
 ---
-title: CustomFontSubstitutionBase.TrySubstitute
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CustomFontSubstitutionBase. Заменяет оригинальный шрифт другим шрифтом
+title: "CustomFontSubstitutionBase.TrySubstitute"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CustomFontSubstitutionBase. Заменяет оригинальный шрифт другим шрифтом"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/customfontsubstitutionbase/trysubstitute/
 ---
-## Метод CustomFontSubstitutionBase.TrySubstitute
+## CustomFontSubstitutionBase.TrySubstitute method
 
 Заменяет оригинальный шрифт другим шрифтом.
 
@@ -22,16 +22,18 @@ public virtual bool TrySubstitute(OriginalFontSpecification originalFontSpecific
 
 ### Возвращаемое значение
 
-True в случае успешной замены.
+True, если замена прошла успешно.
 
 ## Примечания
 
-Класс CustomFontSubstitutionBase должен быть унаследован для реализации логики замены шрифтов. Метод TrySubstitute должен быть правильно переопределен: должен возвращать true в случае, если замена требуется. substitutionFont должен быть установлен на действительный объект Font. Должен возвращать false в случае, если замена не требуется. substitutionFont может быть установлен в null.
+Класс CustomFontSubstitutionBase должен быть унаследован для реализации пользовательской логики замены шрифтов. Метод TrySubstitute следует правильно переопределить: необходимо возвращать true, если замена требуется. substitutionFont должен быть установлен в действительный объект Font. Необходимо возвращать false, если замена не требуется. substitutionFont может быть установлен в null.
 
 ### См. также
 
-* класс [OriginalFontSpecification](../../customfontsubstitutionbase.originalfontspecification/)
-* класс [Font](../../font/)
-* класс [CustomFontSubstitutionBase](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [OriginalFontSpecification](../../customfontsubstitutionbase.originalfontspecification/)
+* class [Font](../../font/)
+* class [CustomFontSubstitutionBase](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

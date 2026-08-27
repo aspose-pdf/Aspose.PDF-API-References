@@ -1,14 +1,14 @@
 ---
-title: Facade.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Facade. Получает фасад документа, с которым работает
+title: "Facade.Document"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Facade. Возвращает документ, над которым работает фасад"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/facade/document/
 ---
-## Свойство Facade.Document
+## Facade.Document property
 
-Получает фасад документа, с которым работает.
+Получает document, с которым работает фасад.
 
 ```csharp
 public Document Document { get; }
@@ -16,7 +16,9 @@ public Document Document { get; }
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [Facade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

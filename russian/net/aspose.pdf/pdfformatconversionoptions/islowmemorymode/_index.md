@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.IsLowMemoryMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFormatConversionOptions. Включен ли режим конвертации с низким потреблением памяти
+title: "PdfFormatConversionOptions.IsLowMemoryMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFormatConversionOptions. Включён режим конвертации с низким потреблением памяти"
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/islowmemorymode/
 ---
-## Свойство PdfFormatConversionOptions.IsLowMemoryMode
+## PdfFormatConversionOptions.IsLowMemoryMode property
 
-Включен ли режим конвертации с низким потреблением памяти
+Включён ли режим преобразования с низким потреблением памяти
 
 ```csharp
 public bool IsLowMemoryMode { get; set; }
@@ -16,6 +16,8 @@ public bool IsLowMemoryMode { get; set; }
 
 ### См. также
 
-* класс [PdfFormatConversionOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

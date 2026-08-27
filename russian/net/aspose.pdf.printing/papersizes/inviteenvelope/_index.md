@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.InviteEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Пригласительный конверт 220 мм на 220 мм
+title: "PaperSizes.InviteEnvelope"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Пригласительный конверт 220 мм на 220 мм"
 type: docs
 weight: 450
 url: /ru/net/aspose.pdf.printing/papersizes/inviteenvelope/
 ---
-## Поле PaperSizes.InviteEnvelope
+## PaperSizes.InviteEnvelope field
 
-Пригласительный конверт (220 мм на 220 мм).
+Конверт для приглашения (220 мм на 220 мм).
 
 ```csharp
 public static readonly PaperSize InviteEnvelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize InviteEnvelope;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

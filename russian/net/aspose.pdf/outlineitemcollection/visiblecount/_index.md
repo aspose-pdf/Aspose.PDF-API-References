@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.VisibleCount
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Получает общее количество элементов структуры на всех уровнях иерархии структуры документа
+title: "OutlineItemCollection.VisibleCount"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Возвращает общее количество элементов оглавления на всех уровнях в иерархии оглавления документа"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf/outlineitemcollection/visiblecount/
 ---
-## Свойство OutlineItemCollection.VisibleCount
+## OutlineItemCollection.VisibleCount property
 
-Получает общее количество элементов структуры на всех уровнях иерархии структуры документа.
+Получает общее количество пунктов оглавления на всех уровнях в иерархии оглавления документа.
 
 ```csharp
 public override int VisibleCount { get; }
@@ -16,6 +16,8 @@ public override int VisibleCount { get; }
 
 ### См. также
 
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

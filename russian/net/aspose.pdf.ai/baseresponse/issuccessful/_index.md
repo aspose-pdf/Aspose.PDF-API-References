@@ -1,12 +1,12 @@
 ---
-title: BaseResponse.IsSuccessful
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseResponse. Указывает, был ли ответ успешным
+title: "BaseResponse.IsSuccessful"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BaseResponse. Указывает, был ли ответ успешным"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/baseresponse/issuccessful/
 ---
-## Свойство BaseResponse.IsSuccessful
+## BaseResponse.IsSuccessful property
 
 Указывает, был ли ответ успешным.
 
@@ -16,6 +16,8 @@ public bool IsSuccessful { get; }
 
 ### См. также
 
-* класс [BaseResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

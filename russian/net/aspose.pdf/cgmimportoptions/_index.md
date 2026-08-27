@@ -1,34 +1,36 @@
 ---
-title: Class CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.CgmImportOptions. Опция импорта для импорта из формата Computer Graphics MetafileCGM
+title: "Класс CgmImportOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.CgmImportOptions class. Параметр импорта для импорта из формата Computer Graphics MetafileCGM"
 type: docs
-weight: 3000
+weight: 3110
 url: /ru/net/aspose.pdf/cgmimportoptions/
 ---
 ## CgmImportOptions class
 
-Опция импорта для импорта из формата Computer Graphics Metafile(CGM).
+Параметр импорта для импорта из формата Computer Graphics Metafile (CGM).
 
 ```csharp
 public class CgmImportOptions : ImportOptions
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [CgmImportOptions](cgmimportoptions/)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [ImportFormat](../../aspose.pdf/importoptions/importformat/) { get; } | Формат импорта. |
-| [PageSize](../../aspose.pdf/cgmimportoptions/pagesize/) { get; set; } | Получает или задает размер выходной страницы для импорта. Размер страницы по умолчанию - A4 300dpi 2480 X 3508. |
+| [PageSize](../../aspose.pdf/cgmimportoptions/pagesize/) { get; set; } | Получает или задает размер выходной страницы для импорта. Размер страницы по умолчанию — A4 300dpi 2480 X 3508. |
 
-### See Also
+### См. также
 
 * class [ImportOptions](../importoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

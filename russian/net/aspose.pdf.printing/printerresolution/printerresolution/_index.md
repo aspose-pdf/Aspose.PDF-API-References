@@ -1,14 +1,14 @@
 ---
-title: PrinterResolution.PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PrinterResolution. Инициализирует новый экземпляр класса PrinterResolution с настройками по умолчанию
+title: "PrinterResolution.PrinterResolution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PrinterResolution. Инициализирует новый экземпляр класса PrinterResolution со свойствами по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.printing/printerresolution/printerresolution/
 ---
-## Конструктор PrinterResolution
+## PrinterResolution constructor
 
-Инициализирует новый экземпляр класса [`PrinterResolution`](../) с настройками по умолчанию.
+Инициализирует новый экземпляр класса [`PrinterResolution`](../) со свойствами по умолчанию.
 
 ```csharp
 public PrinterResolution()
@@ -16,6 +16,8 @@ public PrinterResolution()
 
 ### См. также
 
-* класс [PrinterResolution](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterResolution](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

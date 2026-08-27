@@ -1,14 +1,14 @@
 ---
-title: Class PdfAValidationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.PdfAValidationResult. Представляет результат процесса валидации PDF/A
+title: "Класс PdfAValidationResult"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.PdfAValidationResult class. Представляет результат процесса проверки PDF/A"
 type: docs
-weight: 9040
+weight: 9190
 url: /ru/net/aspose.pdf.plugins/pdfavalidationresult/
 ---
-## Класс PdfAValidationResult
+## PdfAValidationResult class
 
-Представляет результат процесса валидации PDF/A.
+Представляет результат процесса проверки PDF/A.
 
 ```csharp
 public sealed class PdfAValidationResult
@@ -19,10 +19,12 @@ public sealed class PdfAValidationResult
 | Имя | Описание |
 | --- | --- |
 | readonly [DataSource](../../aspose.pdf.plugins/pdfavalidationresult/datasource/) | Получает источник данных, который был проверен. |
-| readonly [IsValid](../../aspose.pdf.plugins/pdfavalidationresult/isvalid/) | Получает значение, указывающее, была ли валидация успешной. |
-| readonly [StandardVersion](../../aspose.pdf.plugins/pdfavalidationresult/standardversion/) | Получает версию стандарта PDF/A, использованную для валидации. |
+| readonly [IsValid](../../aspose.pdf.plugins/pdfavalidationresult/isvalid/) | Получает значение, указывающее, была ли проверка успешной. |
+| readonly [StandardVersion](../../aspose.pdf.plugins/pdfavalidationresult/standardversion/) | Получает версию стандарта PDF/A, используемую для проверки. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

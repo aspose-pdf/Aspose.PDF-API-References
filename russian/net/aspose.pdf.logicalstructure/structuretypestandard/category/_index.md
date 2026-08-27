@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.Category
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureTypeStandard. Получает категорию стандартного типа структуры
+title: "StructureTypeStandard.Category"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard свойство. Получает категорию стандартного типа структуры."
 type: docs
 weight: 500
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/category/
 ---
-## Свойство StructureTypeStandard.Category
+## StructureTypeStandard.Category property
 
 Получает категорию стандартного типа структуры.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/category/
 public StructureTypeCategory Category { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Категория стандартного типа структуры.
 
 ### См. также
 
-* класс [StructureTypeCategory](../../structuretypecategory/)
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../../structuretypecategory/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

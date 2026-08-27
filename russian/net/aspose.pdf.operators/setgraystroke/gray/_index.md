@@ -1,14 +1,14 @@
 ---
-title: SetGrayStroke.Gray
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetGrayStroke. Получает или устанавливает уровень серого значения
+title: "SetGrayStroke.Gray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetGrayStroke. Получает или задает уровень значения серого"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setgraystroke/gray/
 ---
-## Свойство SetGrayStroke.Gray
+## SetGrayStroke.Gray property
 
-Получает или устанавливает уровень серого значения.
+Получает или задает уровень значения серого.
 
 ```csharp
 public double Gray { get; set; }
@@ -16,6 +16,8 @@ public double Gray { get; set; }
 
 ### См. также
 
-* класс [SetGrayStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetGrayStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

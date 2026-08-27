@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Subject
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentInfo. Получает или задает тему документа
+title: "DocumentInfo.Subject"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentInfo. Получает или задает тему документа"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/documentinfo/subject/
 ---
-## Свойство DocumentInfo.Subject
+## DocumentInfo.Subject property
 
 Получает или задает тему документа.
 
@@ -16,6 +16,8 @@ public string Subject { get; set; }
 
 ### См. также
 
-* класс [DocumentInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

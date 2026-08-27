@@ -1,14 +1,14 @@
 ---
-title: AttributeName.InlineAlign_End
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут InlineAlign End - Конечный край прямоугольника выделения каждого дочернего элемента, выровненный с прямоугольником содержимого ячеек таблицы.
+title: "AttributeName.InlineAlign_End"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут InlineAlign End  Конечный край прямоугольника распределения каждого дочернего элемента выровнен с краем прямоугольника содержимого ячеек таблицы"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.logicalstructure/attributename/inlinealign_end/
 ---
-## Поле AttributeName.InlineAlign_End
+## AttributeName.InlineAlign_End field
 
-Атрибут InlineAlign: End - Конечный край прямоугольника выделения каждого дочернего элемента, выровненный с прямоугольником содержимого ячейки таблицы.
+Атрибут InlineAlign: End — Конечный край выделенного прямоугольника каждого дочернего элемента выравнивается с краем прямоугольника содержимого ячейки таблицы.
 
 ```csharp
 public static readonly AttributeName InlineAlign_End;
@@ -16,6 +16,8 @@ public static readonly AttributeName InlineAlign_End;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

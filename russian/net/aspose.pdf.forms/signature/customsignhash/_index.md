@@ -1,12 +1,12 @@
 ---
-title: Signature.CustomSignHash
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство подписи. Делегат для пользовательской подписи хеша документа
+title: "Signature.CustomSignHash"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Signature. Делегат для пользовательской подписи хеша документа"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/signature/customsignhash/
 ---
-## Свойство Signature.CustomSignHash
+## Signature.CustomSignHash property
 
 Делегат для пользовательской подписи хеша документа.
 
@@ -16,11 +16,13 @@ public SignHash CustomSignHash { get; set; }
 
 ## Примечания
 
-`Алгоритм, с помощью которого вы подписываете хеш в делегате, должен соответствовать типу закрытого ключа сертификата.`
+`Алгоритм, которым вы подписываете хеш в делегате, должен соответствовать типу закрытого ключа сертификата.`
 
 ### См. также
 
-* делегат [SignHash](../../signhash/)
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* delegate [SignHash](../../signhash/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

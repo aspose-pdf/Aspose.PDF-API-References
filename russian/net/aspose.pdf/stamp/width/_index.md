@@ -1,12 +1,12 @@
 ---
-title: Stamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Желаемая ширина штампа на странице
+title: "Stamp.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Желаемая ширина штампа на странице"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/stamp/width/
 ---
-## Свойство Stamp.Width
+## Stamp.Width property
 
 Желаемая ширина штампа на странице.
 
@@ -16,6 +16,8 @@ public virtual double Width { get; set; }
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

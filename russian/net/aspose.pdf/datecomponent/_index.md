@@ -1,12 +1,12 @@
 ---
-title: Class DateComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.DateComponent. Представляет базовый класс для компонентов даты с атрибутом формата
+title: "Класс DateComponent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.DateComponent. Представляет базовый класс для компонентов даты с атрибутом формата"
 type: docs
-weight: 3490
+weight: 3610
 url: /ru/net/aspose.pdf/datecomponent/
 ---
-## Класс DateComponent
+## DateComponent class
 
 Представляет базовый класс для компонентов даты с атрибутом формата.
 
@@ -30,9 +30,11 @@ public class DateComponent
 
 | Имя | Описание |
 | --- | --- |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Возвращает строку, составленную из указанного символа, повторенного в зависимости от формата. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Возвращает строку, составленную из указанного символа, повторённого в соответствии с форматом. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

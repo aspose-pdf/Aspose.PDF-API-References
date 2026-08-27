@@ -1,12 +1,12 @@
 ---
-title: OrganizerBaseOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OrganizerBaseOptions. Добавляет новый источник данных в коллекцию данных плагина PdfOrganizer
+title: "OrganizerBaseOptions.AddOutput"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OrganizerBaseOptions. Добавляет новый источник данных в коллекцию данных плагина PdfOrganizer."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.plugins/organizerbaseoptions/addoutput/
 ---
-## Метод OrganizerBaseOptions.AddOutput
+## OrganizerBaseOptions.AddOutput method
 
 Добавляет новый источник данных в коллекцию данных плагина PdfOrganizer.
 
@@ -26,7 +26,9 @@ public void AddOutput(IDataSource saveDataSource)
 
 ### См. также
 
-* интерфейс [IDataSource](../../idatasource/)
-* класс [OrganizerBaseOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

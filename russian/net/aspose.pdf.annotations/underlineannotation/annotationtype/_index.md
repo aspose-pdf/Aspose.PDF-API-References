@@ -1,12 +1,12 @@
 ---
-title: UnderlineAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство UnderlineAnnotation. Получает тип аннотации
+title: "UnderlineAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство UnderlineAnnotation. Возвращает тип аннотации."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/underlineannotation/annotationtype/
 ---
-## Свойство UnderlineAnnotation.AnnotationType
+## UnderlineAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [UnderlineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

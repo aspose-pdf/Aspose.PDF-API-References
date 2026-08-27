@@ -1,12 +1,12 @@
 ---
-title: BleedMarkAnnotation.BleedMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BleedMarkAnnotation. Инициализирует новый экземпляр класса BleedMarkAnnotation
+title: "BleedMarkAnnotation.BleedMarkAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BleedMarkAnnotation. Инициализирует новый экземпляр класса BleedMarkAnnotation"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/
 ---
-## Конструктор BleedMarkAnnotation
+## BleedMarkAnnotation constructor
 
 Инициализирует новый экземпляр класса [`BleedMarkAnnotation`](../).
 
@@ -16,8 +16,8 @@ public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которую будет добавлена аннотация. |
-| position | PrinterMarkCornerPosition | Позиция метки обреза на странице. |
+| страница | Страница | Страница, на которой будет добавлена аннотация. |
+| позиция | PrinterMarkCornerPosition | Позиция метки обрезки на странице. |
 
 ## Примечания
 
@@ -25,8 +25,10 @@ public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* перечисление [PrinterMarkCornerPosition](../../printermarkcornerposition/)
-* класс [BleedMarkAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
+* class [BleedMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StampInfo.StampType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StampInfo. Получает тип штампа изображение / форма
+title: "StampInfo.StampType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StampInfo свойство. Получает тип штампа изображение / форма"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/stampinfo/stamptype/
 ---
-## Свойство StampInfo.StampType
+## StampInfo.StampType property
 
 Получает тип штампа (изображение / форма).
 
@@ -20,3 +20,5 @@ public StampType StampType { get; }
 * class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

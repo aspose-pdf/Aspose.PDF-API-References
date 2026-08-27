@@ -1,12 +1,12 @@
 ---
-title: FontColor.Red
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FontColor. Красный компонент цвета
+title: "FontColor.Red"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FontColor. Красный компонент цвета"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/fontcolor/red/
 ---
-## Свойство FontColor.Red
+## FontColor.Red property
 
 Красный компонент цвета.
 
@@ -16,6 +16,8 @@ public int Red { get; set; }
 
 ### См. также
 
-* класс [FontColor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

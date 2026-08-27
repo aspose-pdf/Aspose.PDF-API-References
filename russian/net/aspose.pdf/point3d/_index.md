@@ -1,12 +1,12 @@
 ---
-title: Class Point3D
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Point3D. Представляет точку с дробными координатами
+title: "Класс Point3D"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Point3D. Представляет точку с дробными координатами"
 type: docs
-weight: 9470
+weight: 9620
 url: /ru/net/aspose.pdf/point3d/
 ---
-## Класс Point3D
+## Point3D class
 
 Представляет точку с дробными координатами.
 
@@ -37,5 +37,7 @@ public sealed class Point3D
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

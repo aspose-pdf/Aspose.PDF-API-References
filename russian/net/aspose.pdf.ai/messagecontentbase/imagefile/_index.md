@@ -1,14 +1,14 @@
 ---
-title: MessageContentBase.ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MessageContentBase. Получает или устанавливает файл изображения в содержимом сообщения
+title: "MessageContentBase.ImageFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MessageContentBase. Получает или задает файл изображения в содержимом сообщения"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/messagecontentbase/imagefile/
 ---
-## Свойство MessageContentBase.ImageFile
+## MessageContentBase.ImageFile property
 
-Получает или устанавливает файл изображения в содержимом сообщения.
+Получает или задаёт файл изображения в содержимом сообщения.
 
 ```csharp
 public ImageFile ImageFile { get; set; }
@@ -16,7 +16,9 @@ public ImageFile ImageFile { get; set; }
 
 ### См. также
 
-* класс [ImageFile](../../imagefile/)
-* класс [MessageContentBase](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageFile](../../imagefile/)
+* class [MessageContentBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

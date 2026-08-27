@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureTextState. Получает или задает отступ для элемента блочной структуры
+title: "StructureTextState.MarginInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureTextState. Получает или задает отступ для блочного структурного элемента"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.logicalstructure/structuretextstate/margininfo/
 ---
-## Свойство StructureTextState.MarginInfo
+## StructureTextState.MarginInfo property
 
-Получает или задает отступ для элемента блочной структуры.
+Получает или задает отступ для блочного структурного элемента.
 
 ```csharp
 public MarginInfo MarginInfo { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo MarginInfo { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../../../aspose.pdf/margininfo/)
-* класс [StructureTextState](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

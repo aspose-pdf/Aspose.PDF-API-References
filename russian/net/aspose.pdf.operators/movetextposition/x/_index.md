@@ -1,14 +1,14 @@
 ---
-title: MoveTextPosition.X
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MoveTextPosition. X координата позиции текста
+title: "MoveTextPosition.X"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MoveTextPosition. Координата X позиции текста"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/movetextposition/x/
 ---
-## Свойство MoveTextPosition.X
+## MoveTextPosition.X property
 
-X координата позиции текста.
+Координата X позиции текста.
 
 ```csharp
 public double X { get; set; }
@@ -16,6 +16,8 @@ public double X { get; set; }
 
 ### См. также
 
-* класс [MoveTextPosition](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveTextPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

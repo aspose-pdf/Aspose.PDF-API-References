@@ -1,12 +1,12 @@
 ---
-title: Layer.Locked
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство слоя. Получает значение, указывающее, заблокирован ли слой
+title: "Layer.Locked"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Layer. Возвращает значение, указывающее, заблокирован ли слой."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/layer/locked/
 ---
-## Свойство Layer.Locked
+## Layer.Locked property
 
 Получает значение, указывающее, заблокирован ли слой.
 
@@ -16,6 +16,8 @@ public bool Locked { get; }
 
 ### См. также
 
-* класс [Layer](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

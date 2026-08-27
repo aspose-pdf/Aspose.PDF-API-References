@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.DLEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Конверт DL 110 мм на 220 мм
+title: "PaperSizes.DLEnvelope"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Конверт DL 110 мм на 220 мм"
 type: docs
 weight: 380
 url: /ru/net/aspose.pdf.printing/papersizes/dlenvelope/
 ---
-## Поле PaperSizes.DLEnvelope
+## PaperSizes.DLEnvelope field
 
-Конверт DL (110 мм на 220 мм).
+Конверт DL (110 mm by 220 mm).
 
 ```csharp
 public static readonly PaperSize DLEnvelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize DLEnvelope;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

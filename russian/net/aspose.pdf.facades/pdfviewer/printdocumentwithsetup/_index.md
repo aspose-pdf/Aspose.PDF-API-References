@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.PrintDocumentWithSetup
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfViewer. Печатает Pdf документ с диалогом настройки. Выберите принтер с помощью диалога
+title: "PdfViewer.PrintDocumentWithSetup"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfViewer method. Печатает PDF‑документ с диалогом настройки. Выберите принтер в диалоговом окне."
 type: docs
 weight: 340
 url: /ru/net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/
 ---
-## Метод PdfViewer.PrintDocumentWithSetup
+## PdfViewer.PrintDocumentWithSetup method
 
 Печатает Pdf документ с диалогом настройки. Выберите принтер с помощью диалога.
 
@@ -38,6 +38,8 @@ iewer.Close()
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

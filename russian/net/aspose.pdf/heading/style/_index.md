@@ -1,14 +1,14 @@
 ---
-title: Heading.Style
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство заголовка. Получает или устанавливает стиль
+title: "Heading.Style"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Heading property. Получает или задает стиль"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/heading/style/
 ---
-## Свойство Heading.Style
+## Heading.Style property
 
-Получает или устанавливает стиль.
+Получает или задает стиль.
 
 ```csharp
 public NumberingStyle Style { get; set; }
@@ -20,3 +20,5 @@ public NumberingStyle Style { get; set; }
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

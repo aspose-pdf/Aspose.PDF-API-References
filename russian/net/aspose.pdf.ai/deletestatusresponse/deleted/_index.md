@@ -1,14 +1,14 @@
 ---
-title: DeleteStatusResponse.Deleted
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DeleteStatusResponse. Получает или устанавливает значение, указывающее, был ли поток успешно удален
+title: "DeleteStatusResponse.Deleted"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DeleteStatusResponse. Получает или задает значение, указывающее, был ли поток успешно удалён"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/deletestatusresponse/deleted/
 ---
-## Свойство DeleteStatusResponse.Deleted
+## DeleteStatusResponse.Deleted property
 
-Получает или устанавливает значение, указывающее, был ли поток успешно удален.
+Получает или задаёт значение, указывающее, был ли поток Thread успешно удалён.
 
 ```csharp
 public bool Deleted { get; set; }
@@ -16,6 +16,8 @@ public bool Deleted { get; set; }
 
 ### См. также
 
-* класс [DeleteStatusResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

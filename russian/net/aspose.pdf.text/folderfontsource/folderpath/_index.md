@@ -1,12 +1,12 @@
 ---
-title: FolderFontSource.FolderPath
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FolderFontSource. Путь к папке, содержащей файлы шрифтов
+title: "FolderFontSource.FolderPath"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FolderFontSource. Путь к папке, содержащей файлы шрифтов."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/folderfontsource/folderpath/
 ---
-## Свойство FolderFontSource.FolderPath
+## FolderFontSource.FolderPath property
 
 Путь к папке, содержащей файлы шрифтов.
 
@@ -16,6 +16,8 @@ public string FolderPath { get; set; }
 
 ### См. также
 
-* класс [FolderFontSource](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FolderFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

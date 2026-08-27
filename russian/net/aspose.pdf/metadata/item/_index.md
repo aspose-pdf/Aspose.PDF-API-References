@@ -1,14 +1,14 @@
 ---
-title: Metadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство метаданных. Получает или устанавливает данные из метаданных
+title: "Metadata.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Metadata. Получает или задает данные из метаданных"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/metadata/item/
 ---
-## Индексатор метаданных
+## Metadata indexer
 
-Получает или устанавливает данные из метаданных.
+Получает или задает данные из метаданных.
 
 ```csharp
 public XmpValue this[string key] { get; set; }
@@ -16,15 +16,17 @@ public XmpValue this[string key] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| key | Имя ключа. |
+| ключ | Имя ключа. |
 
 ### Возвращаемое значение
 
-Объект метаданных.
+Объект Metadata.
 
 ### См. также
 
-* класс [XmpValue](../../xmpvalue/)
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.FitWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает флаг, указывающий, должно ли окно документа быть изменено в размере, чтобы соответствовать первой отображаемой странице
+title: "Document.FitWindow"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Возвращает или задает флаг, указывающий, должно ли окно документа изменяться в размере, чтобы соответствовать первой отображаемой странице"
 type: docs
-weight: 190
+weight: 210
 url: /ru/net/aspose.pdf/document/fitwindow/
 ---
-## Свойство Document.FitWindow
+## Document.FitWindow property
 
-Получает или устанавливает флаг, указывающий, должно ли окно документа быть изменено в размере, чтобы соответствовать первой отображаемой странице.
+Получает или задаёт флаг, указывающий, должно ли окно документа изменять размер, чтобы соответствовать первой отображаемой странице.
 
 ```csharp
 public bool FitWindow { get; set; }
@@ -25,6 +25,8 @@ bool value = document.FitWindow;
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

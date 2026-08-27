@@ -1,12 +1,12 @@
 ---
-title: StringResult.ToFile
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StringResult. Пытается преобразовать результат в файл
+title: "StringResult.ToFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StringResult. Пытается преобразовать результат в файл"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.plugins/stringresult/tofile/
 ---
-## Метод StringResult.ToFile
+## StringResult.ToFile method
 
 Пытается преобразовать результат в файл.
 
@@ -20,6 +20,8 @@ public string ToFile()
 
 ### См. также
 
-* класс [StringResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [StringResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseNone
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Ни контур документа, ни миниатюры изображений не видны
+title: "ViewerPreference.NonFullScreenPageModeUseNone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ViewerPreference. Ни контур документа, ни миниатюры изображений не видимы"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/
 ---
-## Поле ViewerPreference.NonFullScreenPageModeUseNone
+## ViewerPreference.NonFullScreenPageModeUseNone field
 
-Ни контур документа, ни миниатюры изображений не видны.
+Ни контур документа, ни миниатюры не видны.
 
 ```csharp
 public const int NonFullScreenPageModeUseNone;
@@ -16,6 +16,8 @@ public const int NonFullScreenPageModeUseNone;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

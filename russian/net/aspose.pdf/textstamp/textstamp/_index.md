@@ -1,7 +1,7 @@
 ---
-title: TextStamp.TextStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextStamp. Инициализирует новый экземпляр класса TextStamp
+title: "TextStamp.TextStamp"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextStamp. Инициализирует новый экземпляр класса TextStamp"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/textstamp/textstamp/
@@ -16,13 +16,13 @@ public TextStamp(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение штампа. |
+| значение | String | Значение печати. |
 
 ### См. также
 
-* класс [TextStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,15 +36,15 @@ public TextStamp(string value, TextState textState)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение штампа. |
-| textState | TextState | Состояние текста штампа. |
+| значение | String | Значение печати. |
+| textState | TextState | Состояние текста печати. |
 
 ### См. также
 
-* класс [TextState](../../../aspose.pdf.text/textstate/)
-* класс [TextStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -58,11 +58,13 @@ public TextStamp(FormattedText formattedText)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | FormattedText | Объект FormattedText, который содержит текст штампа. |
+| formattedText | FormattedText | Объект FormattedText, содержащий текст штампа. |
 
 ### См. также
 
-* класс [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* класс [TextStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

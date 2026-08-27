@@ -1,14 +1,14 @@
 ---
-title: Enum WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum WordWrapMode Aspose.Pdf.Facades. Определяет стратегии переноса слов
+title: "Перечисление WordWrapMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Facades.WordWrapMode. Определяет стратегии переноса слов"
 type: docs
-weight: 4780
+weight: 4900
 url: /ru/net/aspose.pdf.facades/wordwrapmode/
 ---
-## Перечисление WordWrapMode
+## WordWrapMode enumeration
 
-Определяет стратегии переноса слов
+Определяет стратегии переноса слов.
 
 ```csharp
 public enum WordWrapMode
@@ -18,10 +18,12 @@ public enum WordWrapMode
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Default | `0` | Алгоритм по умолчанию (разрешает разбиение слов посередине) |
-| ByWords | `1` | Перенос слов обрабатывает только полные слова. Если полное слово не может быть перенесено, пытается перенести слово посередине |
+| Default | `0` | Алгоритм по умолчанию (разрешает разрывать слова посередине) |
+| ByWords | `1` | Перенос слов оборачивает только полные слова. Если полное слово нельзя перенести, предпринимается попытка разорвать слово посередине |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

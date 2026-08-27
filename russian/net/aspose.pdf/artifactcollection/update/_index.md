@@ -1,14 +1,14 @@
 ---
-title: ArtifactCollection.Update
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ArtifactCollection. Обновить артефакт внутри коллекции
+title: "ArtifactCollection.Update"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ArtifactCollection. Обновить артефакт в коллекции"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/artifactcollection/update/
 ---
-## Метод ArtifactCollection.Update
+## ArtifactCollection.Update method
 
-Обновить артефакт внутри коллекции.
+Обновляет артефакт в коллекции.
 
 ```csharp
 public void Update(Artifact artifact)
@@ -16,11 +16,13 @@ public void Update(Artifact artifact)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| artifact | Artifact | Артефакт, который нужно обновить. |
+| artifact | Artifact | Артефакт для обновления. |
 
 ### См. также
 
-* класс [Artifact](../../artifact/)
-* класс [ArtifactCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

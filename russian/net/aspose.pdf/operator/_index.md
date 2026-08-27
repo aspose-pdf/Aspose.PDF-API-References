@@ -1,12 +1,12 @@
 ---
-title: Class Operator
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operator. Абстрактный класс, представляющий оператор
+title: "Класс Operator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operator класс. Абстрактный класс, представляющий оператор"
 type: docs
-weight: 7070
+weight: 7210
 url: /ru/net/aspose.pdf/operator/
 ---
-## Класс Оператор
+## Operator class
 
 Абстрактный класс, представляющий оператор.
 
@@ -24,12 +24,14 @@ public abstract class Operator
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Принимает посетителя IOperatorSelector, который предоставляет обработку операторов. |
+| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Принимает посетитель IOperatorSelector, который обеспечивает обработку операторов. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Определяет, является ли оператор оператором, ответственным за вывод текста (Tj, TJ и т.д.) |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Определяет, является ли оператор оператором, отвечающим за вывод текста (Tj, TJ и др.) |
 
-### См. Также
+### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

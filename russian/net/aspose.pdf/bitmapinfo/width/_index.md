@@ -1,14 +1,14 @@
 ---
-title: BitmapInfo.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BitmapInfo. Получает ширину битмапа
+title: "BitmapInfo.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BitmapInfo. Возвращает ширину растрового изображения"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/bitmapinfo/width/
 ---
-## Свойство BitmapInfo.Width
+## BitmapInfo.Width property
 
-Получает ширину битмапа.
+Получает ширину растрового изображения.
 
 ```csharp
 public int Width { get; }
@@ -16,6 +16,8 @@ public int Width { get; }
 
 ### См. также
 
-* класс [BitmapInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BitmapInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

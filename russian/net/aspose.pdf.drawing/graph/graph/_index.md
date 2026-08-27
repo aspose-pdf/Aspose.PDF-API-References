@@ -1,12 +1,12 @@
 ---
-title: Graph.Graph
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор графа. Инициализирует новый экземпляр класса Graph
+title: "Graph.Graph"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Graph. Инициализирует новый экземпляр класса Graph"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/graph/graph/
 ---
-## Конструктор графа
+## Graph constructor
 
 Инициализирует новый экземпляр класса [`Graph`](../).
 
@@ -16,11 +16,13 @@ public Graph(double width, double height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| width | Double | Ширина графа. |
-| height | Double | Высота графа. |
+| width | Double | Ширина графика. |
+| height | Double | Высота графика. |
 
 ### См. также
 
-* класс [Graph](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

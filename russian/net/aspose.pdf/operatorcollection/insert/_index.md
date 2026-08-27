@@ -1,7 +1,7 @@
 ---
-title: OperatorCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OperatorCollection. Вставляет оператор в коллекцию
+title: "OperatorCollection.Insert"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OperatorCollection. Вставляет оператор в коллекцию."
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/operatorcollection/insert/
@@ -16,8 +16,8 @@ public override void Insert(int index, Operator op)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс, по которому должен быть добавлен новый оператор |
-| op | Operator | Оператор, который будет вставлен |
+| index | Int32 | Индекс, где должен быть добавлен новый оператор. |
+| op | Operator | Оператор, который будет вставлен. |
 
 ## Примеры
 
@@ -32,16 +32,16 @@ oc.Add(new Aspose.Pdf.Operators.Q());
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Insert(int, Operator[]) {#insert_1}
 
-Вставить операторы в заданной позиции.
+Вставить операторы в указанную позицию.
 
 ```csharp
 public void Insert(int at, Operator[] ops)
@@ -49,8 +49,8 @@ public void Insert(int at, Operator[] ops)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| at | Int32 | Индекс, с которого начинаются вставка операторов. |
-| ops | Operator[] | Массив операторов, которые будут вставлены. Каждый оператор может иметь любой индекс (по умолчанию -1), так как их индексы автоматически настраиваются, начиная с *at*. |
+| at | Int32 | Индекс, с которого начинается вставка операторов. |
+| ops | Operator[] | Массив операторов для вставки. Каждый оператор может иметь любой индекс (по умолчанию -1), поскольку их индексы автоматически корректируются, начиная с *at*. |
 
 ## Примеры
 
@@ -64,16 +64,16 @@ oc.Insert(1, new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Opera
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Insert(int, IList&lt;Operator&gt;) {#insert_2}
 
-Вставить операторы в заданной позиции.
+Вставить операторы в указанную позицию.
 
 ```csharp
 public void Insert(int at, IList<Operator> ops)
@@ -81,8 +81,8 @@ public void Insert(int at, IList<Operator> ops)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| at | Int32 | Индекс, с которого начинаются вставка операторов. |
-| ops | IList`1 | Массив операторов, которые будут вставлены. |
+| at | Int32 | Индекс, с которого начинается вставка операторов. |
+| ops | IList`1 | Массив операторов для вставки. |
 
 ## Примеры
 
@@ -99,7 +99,9 @@ oc.Insert(1, opList);
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

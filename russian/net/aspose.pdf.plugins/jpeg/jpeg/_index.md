@@ -1,12 +1,12 @@
 ---
-title: Jpeg.Jpeg
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Jpeg. Конструктор по умолчанию
+title: "Jpeg.Jpeg"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Jpeg. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/jpeg/jpeg/
 ---
-## Конструктор Jpeg
+## Jpeg constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Jpeg()
 
 ### См. также
 
-* класс [Jpeg](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [Jpeg](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

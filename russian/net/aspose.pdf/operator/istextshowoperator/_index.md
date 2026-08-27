@@ -1,14 +1,14 @@
 ---
-title: Operator.IsTextShowOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод оператора. Определяет, является ли оператор оператором, отвечающим за вывод текста Tj TJ и т.д.
+title: "Operator.IsTextShowOperator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Operator. Определяет, является ли оператор оператором, отвечающим за вывод текста (Tj, TJ и т.д.)"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/operator/istextshowoperator/
 ---
-## Метод Operator.IsTextShowOperator
+## Operator.IsTextShowOperator method
 
-Определяет, является ли оператор оператором, отвечающим за вывод текста (Tj, TJ и т.д.)
+Определяет, является ли оператор оператором, отвечающим за вывод текста (Tj, TJ и др.)
 
 ```csharp
 public static bool IsTextShowOperator(Operator op)
@@ -16,7 +16,7 @@ public static bool IsTextShowOperator(Operator op)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| op | Operator | Объект оператора |
+| op | Operator | Объект Operator |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ True, если это оператор вывода текста
 
 ### См. также
 
-* класс [Operator](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

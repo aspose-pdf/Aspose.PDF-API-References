@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsDouble
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpValue. Возвращает true, если значение является числом с плавающей запятой
+title: "XmpValue.IsDouble"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpValue. Возвращает true, если значение является числом с плавающей запятой"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/xmpvalue/isdouble/
 ---
-## Свойство XmpValue.IsDouble
+## XmpValue.IsDouble property
 
-Возвращает true, если значение является числом с плавающей запятой.
+Возвращает true, если значение является числом с плавающей точкой.
 
 ```csharp
 public bool IsDouble { get; }
@@ -16,6 +16,8 @@ public bool IsDouble { get; }
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

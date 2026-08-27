@@ -1,12 +1,12 @@
 ---
-title: Layer.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство слоя. Получает идентификатор слоя
+title: "Layer.Id"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Layer. Получает идентификатор слоя."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/layer/id/
 ---
-## Свойство Layer.Id
+## Layer.Id property
 
 Получает идентификатор слоя.
 
@@ -16,6 +16,8 @@ public string Id { get; }
 
 ### См. также
 
-* класс [Layer](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

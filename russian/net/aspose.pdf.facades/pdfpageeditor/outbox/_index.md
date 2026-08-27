@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.OUTBOX
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfPageEditor. Внешняя коробка
+title: "PdfPageEditor.OUTBOX"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfPageEditor. Outward Box"
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/outbox/
 ---
-## Поле PdfPageEditor.OUTBOX
+## PdfPageEditor.OUTBOX field
 
-Внешняя коробка
+Внешний квадрат
 
 ```csharp
 public const int OUTBOX;
@@ -16,6 +16,8 @@ public const int OUTBOX;
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

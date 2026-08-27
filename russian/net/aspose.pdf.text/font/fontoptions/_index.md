@@ -1,12 +1,12 @@
 ---
-title: Font.FontOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство шрифта. Полезные свойства для настройки поведения шрифта
+title: "Font.FontOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Font. Полезные свойства для настройки поведения шрифта"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/font/fontoptions/
 ---
-## Свойство Font.FontOptions
+## Font.FontOptions property
 
 Полезные свойства для настройки поведения шрифта
 
@@ -16,7 +16,9 @@ public IFontOptions FontOptions { get; }
 
 ### См. также
 
-* интерфейс [IFontOptions](../../ifontoptions/)
-* класс [Font](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* interface [IFontOptions](../../ifontoptions/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

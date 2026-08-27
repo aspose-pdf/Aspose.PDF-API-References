@@ -1,7 +1,7 @@
 ---
-title: XmpValue.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpValue. Возвращает строковое представление XmpValue
+title: "XmpValue.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpValue. Возвращает строковое представление XmpValue"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf/xmpvalue/tostring/
@@ -14,11 +14,11 @@ url: /ru/net/aspose.pdf/xmpvalue/tostring/
 public override string ToString()
 ```
 
-### Return Value
+### Возвращаемое значение
 
 Строковое представление.
 
-### See Also
+### См. также
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,16 +34,18 @@ public override string ToString()
 public string ToString(IFormatProvider formatProvider)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formatProvider | IFormatProvider | Провайдер формата. |
+| formatProvider | IFormatProvider | Поставщик формата. |
 
-### Return Value
+### Возвращаемое значение
 
 Строковое представление.
 
-### See Also
+### См. также
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.SetPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Метод RadioButtonField. Переместите все подэлементы радиокнопки в указанные позиции на странице
+title: "RadioButtonField.SetPosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "RadioButtonField метод. Перемещает все подпункты радиокнопки в указанные позиции на странице"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.forms/radiobuttonfield/setposition/
 ---
-## Метод RadioButtonField.SetPosition
+## RadioButtonField.SetPosition method
 
-Переместите все подэлементы радиокнопки в указанные позиции на странице.
+Переместить все подпункты радиокнопки в указанные позиции на странице.
 
 ```csharp
 public override void SetPosition(Point point)
@@ -16,11 +16,13 @@ public override void SetPosition(Point point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | Устанавливает позицию аннотаций поля RadioButton. |
+| точка | Точка | Устанавливает позицию аннотаций поля RadioButton. |
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [RadioButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

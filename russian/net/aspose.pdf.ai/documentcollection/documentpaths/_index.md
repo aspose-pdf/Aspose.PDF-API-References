@@ -1,14 +1,14 @@
 ---
-title: DocumentCollection.DocumentPaths
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentCollection. Получает или задает коллекцию путей документов для обработки
+title: "DocumentCollection.DocumentPaths"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentCollection. Получает или задает коллекцию путей к документам, которые необходимо обработать."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/documentcollection/documentpaths/
 ---
-## Свойство DocumentCollection.DocumentPaths
+## DocumentCollection.DocumentPaths property
 
-Получает или задает коллекцию путей документов для обработки.
+Получает или задает коллекцию путей к документам для обработки.
 
 ```csharp
 public List<string> DocumentPaths { get; set; }
@@ -16,6 +16,8 @@ public List<string> DocumentPaths { get; set; }
 
 ### См. также
 
-* класс [DocumentCollection](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentCollection](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

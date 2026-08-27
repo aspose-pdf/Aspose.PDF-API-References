@@ -1,14 +1,14 @@
 ---
-title: ChatMessage.ToolCalls
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ChatMessage. Получает или задает вызовы инструментов, сгенерированные моделью, такие как вызовы функций
+title: "ChatMessage.ToolCalls"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ChatMessage. Получает или задает вызовы инструментов, сгенерированные моделью, такие как вызовы функций."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.ai/chatmessage/toolcalls/
 ---
-## Свойство ChatMessage.ToolCalls
+## ChatMessage.ToolCalls property
 
-Получает или задает вызовы инструментов, сгенерированные моделью, такие как вызовы функций.
+Получает или задаёт вызовы инструментов, сгенерированные моделью, например вызовы функций.
 
 ```csharp
 public List<ToolCall> ToolCalls { get; set; }
@@ -16,7 +16,9 @@ public List<ToolCall> ToolCalls { get; set; }
 
 ### См. также
 
-* класс [ToolCall](../../toolcall/)
-* класс [ChatMessage](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ToolCall](../../toolcall/)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

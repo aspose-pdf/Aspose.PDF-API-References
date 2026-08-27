@@ -1,14 +1,14 @@
 ---
-title: Enum SaveOptions.NodeLevelResourceType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SaveOptionsNodeLevelResourceType Aspose.Pdf. перечисляет возможные типы сохраненных внешних ресурсов
+title: "Перечисление SaveOptions.NodeLevelResourceType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.SaveOptionsNodeLevelResourceType enum. перечисляет возможные типы сохраняемых внешних ресурсов"
 type: docs
-weight: 9930
+weight: 10080
 url: /ru/net/aspose.pdf/saveoptions.nodelevelresourcetype/
 ---
-## Перечисление SaveOptions.NodeLevelResourceType
+## SaveOptions.NodeLevelResourceType enumeration
 
-перечисляет возможные типы сохраненных внешних ресурсов
+перечисляет возможные типы сохранённых внешних ресурсов
 
 ```csharp
 public enum NodeLevelResourceType
@@ -23,6 +23,8 @@ public enum NodeLevelResourceType
 
 ### См. также
 
-* класс [SaveOptions](../saveoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

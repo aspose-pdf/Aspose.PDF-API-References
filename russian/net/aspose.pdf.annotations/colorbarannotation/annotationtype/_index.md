@@ -1,12 +1,12 @@
 ---
-title: ColorBarAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ColorBarAnnotation. Получает тип аннотации
+title: "ColorBarAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ColorBarAnnotation. Возвращает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/colorbarannotation/annotationtype/
 ---
-## Свойство ColorBarAnnotation.AnnotationType
+## ColorBarAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

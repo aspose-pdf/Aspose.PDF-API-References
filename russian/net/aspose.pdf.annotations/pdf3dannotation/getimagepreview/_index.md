@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.GetImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DAnnotation. Получает предварительный просмотр изображения
+title: "PDF3DAnnotation.GetImagePreview"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PDF3DAnnotation. Получает предварительный просмотр изображения"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.annotations/pdf3dannotation/getimagepreview/
 ---
-## Метод PDF3DAnnotation.GetImagePreview
+## PDF3DAnnotation.GetImagePreview method
 
 Получает предварительный просмотр изображения.
 
@@ -16,10 +16,12 @@ public Stream GetImagePreview()
 
 ### Возвращаемое значение
 
-Предварительный просмотр изображения в виде потока.
+Предпросмотр изображения в виде потока.
 
 ### См. также
 
-* класс [PDF3DAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

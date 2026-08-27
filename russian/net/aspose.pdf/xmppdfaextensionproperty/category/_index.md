@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionProperty.Category
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpPdfAExtensionProperty. Получает категорию свойства
+title: "XmpPdfAExtensionProperty.Category"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpPdfAExtensionProperty. Получает категорию свойства"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/xmppdfaextensionproperty/category/
 ---
-## Свойство XmpPdfAExtensionProperty.Category
+## XmpPdfAExtensionProperty.Category property
 
 Получает категорию свойства.
 
@@ -20,3 +20,5 @@ public XmpPdfAExtensionCategoryType Category { get; }
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

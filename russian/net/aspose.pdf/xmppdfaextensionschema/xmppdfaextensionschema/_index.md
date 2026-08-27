@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.XmpPdfAExtensionSchema
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор XmpPdfAExtensionSchema. Инициализирует новый объект
+title: "XmpPdfAExtensionSchema.XmpPdfAExtensionSchema"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор XmpPdfAExtensionSchema. Инициализирует новый объект"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/xmppdfaextensionschema/
 ---
-## Конструктор XmpPdfAExtensionSchema
+## XmpPdfAExtensionSchema constructor
 
 Инициализирует новый объект.
 
@@ -20,7 +20,9 @@ public XmpPdfAExtensionSchema(XmpPdfAExtensionSchemaDescription description)
 
 ### См. также
 
-* класс [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
-* класс [XmpPdfAExtensionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

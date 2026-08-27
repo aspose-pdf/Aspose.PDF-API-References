@@ -1,12 +1,12 @@
 ---
-title: PageLabelCollection.GetPages
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageLabelCollection. Получает индексы страниц в коллекции
+title: "PageLabelCollection.GetPages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageLabelCollection. Получает индексы страниц в коллекции"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pagelabelcollection/getpages/
 ---
-## Метод PageLabelCollection.GetPages
+## PageLabelCollection.GetPages method
 
 Получает индексы страниц в коллекции.
 
@@ -16,10 +16,12 @@ public int[] GetPages()
 
 ### Возвращаемое значение
 
-Массив целых чисел, который содержит индексы страниц.
+Массив целых чисел, содержащий индексы страниц.
 
 ### См. также
 
-* класс [PageLabelCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

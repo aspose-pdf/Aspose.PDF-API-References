@@ -1,12 +1,12 @@
 ---
-title: OperatorCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OperatorCollection. Возвращает перечислитель для коллекции
+title: "OperatorCollection.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OperatorCollection method. Возвращает перечислитель для коллекции."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/operatorcollection/getenumerator/
 ---
-## Метод OperatorCollection.GetEnumerator
+## OperatorCollection.GetEnumerator method
 
 Возвращает перечислитель для коллекции
 
@@ -20,7 +20,9 @@ public override IEnumerator<Operator> GetEnumerator()
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

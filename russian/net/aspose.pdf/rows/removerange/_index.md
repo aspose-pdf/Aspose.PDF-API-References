@@ -1,12 +1,12 @@
 ---
-title: Rows.RemoveRange
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rows. Удалить набор строк из коллекции
+title: "Rows.RemoveRange"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Rows метод. Удалить набор строк из коллекции"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/rows/removerange/
 ---
-## Метод Rows.RemoveRange
+## Rows.RemoveRange method
 
 Удалить набор строк из коллекции.
 
@@ -17,10 +17,12 @@ public void RemoveRange(int index, int count)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Индекс коллекции. |
-| count | Int32 | Количество строк. |
+| количество | Int32 | Количество строк. |
 
 ### См. также
 
-* класс [Rows](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.RoundedBorderRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BorderInfo. Получает или устанавливает радиус закругленного края
+title: "BorderInfo.RoundedBorderRadius"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BorderInfo. Получает или задает радиус скруглённой границы"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/borderinfo/roundedborderradius/
 ---
-## Свойство BorderInfo.RoundedBorderRadius
+## BorderInfo.RoundedBorderRadius property
 
-Получает или устанавливает радиус закругленного края
+Получает или задает скруглённый радиус границы.
 
 ```csharp
 public double RoundedBorderRadius { get; set; }
@@ -16,6 +16,8 @@ public double RoundedBorderRadius { get; set; }
 
 ### См. также
 
-* класс [BorderInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

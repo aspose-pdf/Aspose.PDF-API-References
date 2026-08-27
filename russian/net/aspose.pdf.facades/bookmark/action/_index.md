@@ -1,14 +1,14 @@
 ---
-title: Bookmark.Action
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает действие, связанное с закладкой. Если указан PageNumber, действие не может быть задано. Тип действия включает GoTo, GoToR, Launch, Named
+title: "Bookmark.Action"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Возвращает или задает действие, связанное с закладкой. Если указано PageNumber, действие не может быть задано. Типы действий включают GoTo, GoToR, Launch, Named"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/bookmark/action/
 ---
-## Свойство Bookmark.Action
+## Bookmark.Action property
 
-Получает или устанавливает действие, связанное с закладкой. Если указан PageNumber, действие не может быть задано. Тип действия включает: "GoTo", "GoToR", "Launch", "Named".
+Получает или задает действие, привязанное к закладке. Если указано PageNumber, действие не может быть задано. Тип действия включает: "GoTo", "GoToR", "Launch", "Named".
 
 ```csharp
 public string Action { get; set; }
@@ -16,6 +16,8 @@ public string Action { get; set; }
 
 ### См. также
 
-* класс [Bookmark](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

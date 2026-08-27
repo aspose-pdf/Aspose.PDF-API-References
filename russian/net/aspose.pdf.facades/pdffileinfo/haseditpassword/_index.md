@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.HasEditPassword
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileInfo. Возвращает true, если для изменения разрешений или свойств безопасности документа требуется пароль. Обратите внимание, что это свойство можно читать только в том случае, если действительный пароль был предоставлен в конструкторе [`PdfFileInfo`](../). Если PasswordType недоступен, чтение этого свойства завершится неудачей с исключением [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/).
+title: "PdfFileInfo.HasEditPassword"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileInfo. Возвращает true, если требуется пароль для изменения прав или свойства безопасности документа. Обратите внимание, что это свойство можно читать только если в конструкторе PdfFileInfo был предоставлен действительный пароль. В случае, когда PasswordType имеет значение Inaccessible (это означает, что был предоставлен недействительный пароль), чтение этого свойства завершится ошибкой InvalidPasswordException."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdffileinfo/haseditpassword/
 ---
-## Свойство PdfFileInfo.HasEditPassword
+## PdfFileInfo.HasEditPassword property
 
-Возвращает true, если для изменения разрешений или свойств безопасности документа требуется пароль. Обратите внимание, что это свойство можно читать только в том случае, если действительный пароль был предоставлен в конструкторе [`PdfFileInfo`](../). Если PasswordType недоступен (означает, что был предоставлен недействительный пароль), чтение этого свойства завершится неудачей с исключением [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/).
+Возвращает true, если требуется пароль для изменения прав или свойства безопасности документа. Обратите внимание, что это свойство можно читать только если в конструкторе [`PdfFileInfo`](../) был предоставлен действительный пароль. В случае, когда PasswordType имеет значение Inaccessible (это означает, что был предоставлен недействительный пароль), чтение этого свойства завершится ошибкой [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/).
 
 ```csharp
 public bool HasEditPassword { get; }
@@ -16,6 +16,8 @@ public bool HasEditPassword { get; }
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

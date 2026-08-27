@@ -1,12 +1,12 @@
 ---
-title: Html.Html
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Html. Конструктор по умолчанию
+title: "Html.Html"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Html. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/html/html/
 ---
-## Конструктор Html
+## Html constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Html()
 
 ### См. также
 
-* класс [Html](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [Html](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ThreadMessageListQueryParameters. Получает параметры запроса для списка сообщений в потоке
+title: "ThreadMessageListQueryParameters.GetQueryParameters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ThreadMessageListQueryParameters метод. Получает параметры запроса для получения списка сообщений потока"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/threadmessagelistqueryparameters/getqueryparameters/
 ---
-## Метод ThreadMessageListQueryParameters.GetQueryParameters
+## ThreadMessageListQueryParameters.GetQueryParameters method
 
-Получает параметры запроса для списка сообщений в потоке.
+Получает параметры запроса для перечисления сообщений потока.
 
 ```csharp
 public string GetQueryParameters()
@@ -20,6 +20,8 @@ public string GetQueryParameters()
 
 ### См. также
 
-* класс [ThreadMessageListQueryParameters](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfXmpMetadata. Пытается найти ключ в словаре и извлекает значение, если найдено
+title: "PdfXmpMetadata.TryGetValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfXmpMetadata. Пытается найти ключ в словаре и получить значение, если найдено"
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/trygetvalue/
 ---
-## Метод PdfXmpMetadata.TryGetValue
+## PdfXmpMetadata.TryGetValue method
 
-Пытается найти ключ в словаре и извлекает значение, если найдено.
+Пытается найти ключ в словаре и получает значение, если найдено.
 
 ```csharp
 public bool TryGetValue(string key, out XmpValue value)
@@ -16,16 +16,18 @@ public bool TryGetValue(string key, out XmpValue value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ для поиска в словаре. |
-| value | XmpValue& | Извлеченное значение. |
+| ключ | String | Ключ для поиска в словаре. |
+| значение | XmpValue& | Полученное значение. |
 
 ### Возвращаемое значение
 
-true, если ключ был найден.
+true если ключ найден.
 
 ### См. также
 
-* класс [XmpValue](../../../aspose.pdf/xmpvalue/)
-* класс [PdfXmpMetadata](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

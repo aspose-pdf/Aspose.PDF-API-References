@@ -1,14 +1,14 @@
 ---
-title: Enum ScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ScalingMode Aspose.Pdf.Forms. Тип масштабирования, который должен быть использован
+title: "Перечисление ScalingMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Forms.ScalingMode. Тип масштабирования, который следует использовать."
 type: docs
-weight: 5240
+weight: 5360
 url: /ru/net/aspose.pdf.forms/scalingmode/
 ---
-## Перечисление ScalingMode
+## ScalingMode enumeration
 
-Тип масштабирования, который должен быть использован.
+Тип масштабирования, который следует использовать.
 
 ```csharp
 public enum ScalingMode
@@ -18,10 +18,12 @@ public enum ScalingMode
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Пропорциональный | `0` | Масштабировать значок, чтобы он соответствовал ширине или высоте аннотационного прямоугольника, сохраняя оригинальное соотношение сторон значка. |
-| Анаморфный | `1` | Масштабировать значок, чтобы он точно заполнил аннотационный прямоугольник. |
+| Proportional | `0` | Масштабировать значок так, чтобы он соответствовал ширине или высоте прямоугольника аннотации, сохраняя исходное соотношение сторон значка. |
+| Anamorphic | `1` | Масштабировать значок так, чтобы он точно заполнял прямоугольник аннотации. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

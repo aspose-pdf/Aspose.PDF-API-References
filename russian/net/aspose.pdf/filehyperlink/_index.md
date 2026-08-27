@@ -1,12 +1,12 @@
 ---
-title: Class FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.FileHyperlink. Представляет объект гиперссылки на файл
+title: "Класс FileHyperlink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.FileHyperlink. Представляет объект гиперссылки на файл"
 type: docs
-weight: 4830
+weight: 4950
 url: /ru/net/aspose.pdf/filehyperlink/
 ---
-## Класс FileHyperlink
+## FileHyperlink class
 
 Представляет объект гиперссылки на файл.
 
@@ -25,11 +25,13 @@ public sealed class FileHyperlink : Hyperlink
 
 | Имя | Описание |
 | --- | --- |
-| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | Получает или задает флаг, указывающий, следует ли открывать целевой документ в новом окне (касается только PDF-документов). |
+| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | Получает или задаёт флаг, указывающий, открывать ли целевой документ в новом окне (только для PDF‑документов). |
 | [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | Получает или задает путь к файлу. |
 
 ### См. также
 
-* класс [Hyperlink](../hyperlink/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

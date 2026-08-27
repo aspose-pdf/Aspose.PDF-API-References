@@ -1,14 +1,14 @@
 ---
-title: Class SplitOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.SplitOptions. Представляет параметры разделения для плагина Splitter
+title: "Класс SplitOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.SplitOptions class. Представляет параметры Split для плагина Splitter"
 type: docs
-weight: 9270
+weight: 9420
 url: /ru/net/aspose.pdf.plugins/splitoptions/
 ---
-## Класс SplitOptions
+## SplitOptions class
 
-Представляет параметры разделения для [`Splitter`](../splitter/) плагина.
+Представляет параметры Split для [`Splitter`](../splitter/).
 
 ```csharp
 public sealed class SplitOptions : OrganizerBaseOptions
@@ -38,6 +38,8 @@ public sealed class SplitOptions : OrganizerBaseOptions
 
 ### См. также
 
-* класс [OrganizerBaseOptions](../organizerbaseoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

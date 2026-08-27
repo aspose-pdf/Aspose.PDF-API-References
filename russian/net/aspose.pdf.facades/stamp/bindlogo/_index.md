@@ -1,12 +1,12 @@
 ---
-title: Stamp.BindLogo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Stamp. Устанавливает текст в качестве штампа
+title: "Stamp.BindLogo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Stamp. Устанавливает текст в качестве штампа"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/stamp/bindlogo/
 ---
-## Метод Stamp.BindLogo
+## Stamp.BindLogo method
 
 Устанавливает текст в качестве штампа.
 
@@ -16,11 +16,13 @@ public void BindLogo(FormattedText formattedText)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | FormattedText | Объект FormattedText, который задает текст и свойства текста. |
+| formattedText | FormattedText | Объект FormattedText, который задаёт текст и свойства текста. |
 
 ### См. также
 
-* класс [FormattedText](../../formattedtext/)
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

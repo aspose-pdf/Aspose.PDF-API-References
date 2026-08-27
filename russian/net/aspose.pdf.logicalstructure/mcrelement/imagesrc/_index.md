@@ -1,27 +1,29 @@
 ---
-title: MCRElement.ImageSrc
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MCRElement. Получает источник изображения для элемента ссылки на размеченное содержимое
+title: "MCRElement.ImageSrc"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MCRElement. Возвращает источник изображения для элемента ссылки на markedcontent"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/mcrelement/imagesrc/
 ---
-## Свойство MCRElement.ImageSrc
+## MCRElement.ImageSrc property
 
-Получает источник изображения для элемента ссылки на размеченное содержимое.
+Возвращает источник изображения для элемента ссылки на marked-content.
 
-Для только что созданного [`IllustrationElement`](../../illustrationelement/). В других случаях равно null.
+Для только что созданного [`IllustrationElement`](../../illustrationelement/). В остальных случаях равно null.
 
 ```csharp
 public string ImageSrc { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-Источник изображения для элемента ссылки на размеченное содержимое.
+Источник изображения для элемента ссылки на marked-content.
 
 ### См. также
 
-* класс [MCRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.JavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Document. Коллекция JavaScript на уровне документа
+title: "Document.JavaScript"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Коллекция JavaScript уровня документа"
 type: docs
-weight: 340
+weight: 360
 url: /ru/net/aspose.pdf/document/javascript/
 ---
-## Свойство Document.JavaScript
+## Document.JavaScript property
 
-Коллекция JavaScript на уровне документа.
+Коллекция JavaScript уровня документа.
 
 ```csharp
 public JavaScriptCollection JavaScript { get; }
@@ -16,7 +16,9 @@ public JavaScriptCollection JavaScript { get; }
 
 ### См. также
 
-* класс [JavaScriptCollection](../../javascriptcollection/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../../javascriptcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

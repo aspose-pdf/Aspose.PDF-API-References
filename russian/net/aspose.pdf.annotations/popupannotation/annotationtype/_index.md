@@ -1,12 +1,12 @@
 ---
-title: PopupAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PopupAnnotation. Получает тип аннотации
+title: "PopupAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PopupAnnotation. Получает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/popupannotation/annotationtype/
 ---
-## Свойство PopupAnnotation.AnnotationType
+## PopupAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [PopupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

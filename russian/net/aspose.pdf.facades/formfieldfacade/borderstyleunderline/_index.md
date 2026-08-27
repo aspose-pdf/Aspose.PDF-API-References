@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleUnderline
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет стиль границы с подчеркиванием
+title: "FormFieldFacade.BorderStyleUnderline"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Определяет стиль границы с подчеркиванием"
 type: docs
 weight: 340
 url: /ru/net/aspose.pdf.facades/formfieldfacade/borderstyleunderline/
 ---
-## Поле FormFieldFacade.BorderStyleUnderline
+## FormFieldFacade.BorderStyleUnderline field
 
-Определяет стиль границы с подчеркиванием.
+Определяет подчёркнутый стиль границы.
 
 ```csharp
 public const int BorderStyleUnderline;
@@ -16,6 +16,8 @@ public const int BorderStyleUnderline;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

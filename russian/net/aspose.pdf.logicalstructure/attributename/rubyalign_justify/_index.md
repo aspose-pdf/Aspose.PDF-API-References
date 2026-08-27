@@ -1,14 +1,14 @@
 ---
-title: AttributeName.RubyAlign_Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут RubyAlign Justify Содержимое должно быть расширено, чтобы заполнить доступную ширину в направлении инлайн-прогрессии
+title: "AttributeName.RubyAlign_Justify"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName поле. Атрибут RubyAlign Justify  Содержимое должно быть расширено, чтобы заполнить доступную ширину в направлении inlineprogression"
 type: docs
 weight: 460
 url: /ru/net/aspose.pdf.logicalstructure/attributename/rubyalign_justify/
 ---
-## Поле AttributeName.RubyAlign_Justify
+## AttributeName.RubyAlign_Justify field
 
-Атрибут RubyAlign: Justify - Содержимое должно быть расширено, чтобы заполнить доступную ширину в направлении инлайн-прогрессии.
+Атрибут RubyAlign: Justify - Содержимое должно расширяться, заполняя доступную ширину в направлении встроенного прогрессирования.
 
 ```csharp
 public static readonly AttributeName RubyAlign_Justify;
@@ -16,6 +16,8 @@ public static readonly AttributeName RubyAlign_Justify;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

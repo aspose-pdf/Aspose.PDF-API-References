@@ -1,14 +1,14 @@
 ---
-title: ImageDescriptionResult.PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageDescriptionResult. Получает или задает PDF-документ
+title: "ImageDescriptionResult.PdfDocument"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageDescriptionResult. Получает или задает PDF‑документ"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/imagedescriptionresult/pdfdocument/
 ---
-## Свойство ImageDescriptionResult.PdfDocument
+## ImageDescriptionResult.PdfDocument property
 
-Получает или задает PDF-документ.
+Получает или задает документ PDF.
 
 ```csharp
 public PdfDocument PdfDocument { get; set; }
@@ -16,7 +16,9 @@ public PdfDocument PdfDocument { get; set; }
 
 ### См. также
 
-* класс [PdfDocument](../../pdfdocument/)
-* класс [ImageDescriptionResult](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

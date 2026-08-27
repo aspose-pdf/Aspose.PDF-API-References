@@ -1,14 +1,14 @@
 ---
-title: TextPdfComparer.ComparePages
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextPdfComparer. Сравнивает страницы документа
+title: "TextPdfComparer.ComparePages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextPdfComparer. Сравнивает страницы документа."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.comparison/textpdfcomparer/comparepages/
 ---
-## Метод TextPdfComparer.ComparePages
+## TextPdfComparer.ComparePages method
 
-Сравнивает страницы документа.
+Сравнивает страницы документов.
 
 ```csharp
 public static List<DiffOperation> ComparePages(Page page1, Page page2, ComparisonOptions options)
@@ -16,8 +16,8 @@ public static List<DiffOperation> ComparePages(Page page1, Page page2, Compariso
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page1 | Page | Первая страница. |
-| page2 | Page | Вторая страница. |
+| page1 | Страница | Первая страница. |
+| page2 | Страница | Вторая страница. |
 | options | ComparisonOptions | Параметры сравнения. |
 
 ### Возвращаемое значение
@@ -26,9 +26,11 @@ public static List<DiffOperation> ComparePages(Page page1, Page page2, Compariso
 
 ### См. также
 
-* класс [DiffOperation](../../diffoperation/)
-* класс [Page](../../../aspose.pdf/page/)
-* класс [ComparisonOptions](../../comparisonoptions/)
-* класс [TextPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* class [Page](../../../aspose.pdf/page/)
+* class [ComparisonOptions](../../comparisonoptions/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

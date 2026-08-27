@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CreateFineTuningJobResponse. Получает или устанавливает статус задачи тонкой настройки
+title: "CreateFineTuningJobResponse.Status"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CreateFineTuningJobResponse. Получает или задает статус задачи дообучения"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.ai/createfinetuningjobresponse/status/
 ---
-## Свойство CreateFineTuningJobResponse.Status
+## CreateFineTuningJobResponse.Status property
 
-Получает или устанавливает статус задачи тонкой настройки.
+Получает или задает статус задачи дообучения.
 
 ```csharp
 public string Status { get; set; }
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### См. также
 
-* класс [CreateFineTuningJobResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

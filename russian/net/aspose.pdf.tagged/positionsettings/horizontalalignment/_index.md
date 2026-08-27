@@ -1,12 +1,12 @@
 ---
-title: PositionSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PositionSettings. Получает или задает горизонтальное выравнивание абзаца
+title: "PositionSettings.HorizontalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PositionSettings. Получает или задает горизонтальное выравнивание абзаца"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.tagged/positionsettings/horizontalalignment/
 ---
-## Свойство PositionSettings.HorizontalAlignment
+## PositionSettings.HorizontalAlignment property
 
 Получает или задает горизонтальное выравнивание абзаца.
 
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

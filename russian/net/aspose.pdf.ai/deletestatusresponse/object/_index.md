@@ -1,14 +1,14 @@
 ---
-title: DeleteStatusResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DeleteStatusResponse. Получает или устанавливает тип объекта, который всегда равен thread.deleted
+title: "DeleteStatusResponse.Object"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DeleteStatusResponse. Получает или задает тип объекта, который всегда thread.deleted"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/deletestatusresponse/object/
 ---
-## Свойство DeleteStatusResponse.Object
+## DeleteStatusResponse.Object property
 
-Получает или устанавливает тип объекта, который всегда равен "thread.deleted".
+Получает или задаёт тип объекта, который всегда равен "thread.deleted".
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### См. также
 
-* класс [DeleteStatusResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

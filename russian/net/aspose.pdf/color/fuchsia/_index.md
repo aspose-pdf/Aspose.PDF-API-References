@@ -1,14 +1,14 @@
 ---
-title: Color.Fuchsia
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFF00FF
+title: "Color.Fuchsia"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFFF00FF"
 type: docs
 weight: 470
 url: /ru/net/aspose.pdf/color/fuchsia/
 ---
-## Свойство Color.Fuchsia
+## Color.Fuchsia property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFF00FF.
+Получает системно определённый цвет, значение ARGB которого \c \#FFFF00FF.
 
 ```csharp
 public static Color Fuchsia { get; }
@@ -16,10 +16,12 @@ public static Color Fuchsia { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

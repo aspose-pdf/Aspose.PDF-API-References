@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BorderInfo. Получает или задает объект, который указывает верхнюю границу
+title: "BorderInfo.Top"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BorderInfo. Получает или задает объект, указывающий верхнюю границу"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/borderinfo/top/
 ---
-## Свойство BorderInfo.Top
+## BorderInfo.Top property
 
-Получает или задает объект, который указывает верхнюю границу.
+Получает или задает объект, указывающий верхнюю часть границы.
 
 ```csharp
 public GraphInfo Top { get; set; }
@@ -16,7 +16,9 @@ public GraphInfo Top { get; set; }
 
 ### См. также
 
-* класс [GraphInfo](../../graphinfo/)
-* класс [BorderInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

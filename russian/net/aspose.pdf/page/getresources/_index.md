@@ -1,14 +1,14 @@
 ---
-title: Page.GetResources
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Извлекает ресурсы, связанные со страницей
+title: "Page.GetResources"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Получает ресурсы, связанные со страницей"
 type: docs
 weight: 470
 url: /ru/net/aspose.pdf/page/getresources/
 ---
-## Метод Page.GetResources
+## Page.GetResources method
 
-Извлекает ресурсы, связанные со страницей.
+Получает ресурсы, связанные со страницой.
 
 ```csharp
 public Resources GetResources()
@@ -20,7 +20,9 @@ public Resources GetResources()
 
 ### См. также
 
-* класс [Resources](../../resources/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

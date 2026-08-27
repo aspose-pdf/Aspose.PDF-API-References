@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.ShowCaption
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LineAnnotation. Получает или устанавливает логический флаг, который определяет, должны ли содержимое отображаться в качестве заголовка
+title: "LineAnnotation.ShowCaption"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "LineAnnotation свойство. Получает или задает логический флаг, определяющий, должно ли содержимое отображаться в виде подписи"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.annotations/lineannotation/showcaption/
 ---
-## Свойство LineAnnotation.ShowCaption
+## LineAnnotation.ShowCaption property
 
-Получает или устанавливает логический флаг, который определяет, должны ли содержимое отображаться в качестве заголовка.
+Получает или задает логический флаг, определяющий, должно ли содержимое отображаться в виде подписи.
 
 ```csharp
 public bool ShowCaption { get; set; }
@@ -16,6 +16,8 @@ public bool ShowCaption { get; set; }
 
 ### См. также
 
-* класс [LineAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableTRElement. Получает или задает цвет фона строки
+title: "TableTRElement.BackgroundColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableTRElement. Получает или задает цвет фона строки."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/tabletrelement/backgroundcolor/
 ---
-## Свойство TableTRElement.BackgroundColor
+## TableTRElement.BackgroundColor property
 
 Получает или задает цвет фона строки.
 
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [TableTRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateVectorStoreAndWaitToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Создает новый векторный магазин и ждет его завершения асинхронно
+title: "IOpenAIClient.CreateVectorStoreAndWaitToCompleteAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Создаёт новое векторное хранилище и асинхронно ждёт его завершения"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.ai/iopenaiclient/createvectorstoreandwaittocompleteasync/
 ---
-## Метод IOpenAIClient.CreateVectorStoreAndWaitToCompleteAsync
+## IOpenAIClient.CreateVectorStoreAndWaitToCompleteAsync method
 
-Создает новый векторный магазин и ждет его завершения асинхронно.
+Создает новое хранилище векторов и ожидает его завершения асинхронно.
 
 ```csharp
 public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
@@ -18,7 +18,7 @@ public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| vectorStoreCreateRequest | VectorStoreCreateRequest | Объект запроса, содержащий детали для создания векторного магазина. |
+| vectorStoreCreateRequest | VectorStoreCreateRequest | Объект запроса, содержащий детали создания векторного хранилища. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
@@ -27,8 +27,10 @@ public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
 
 ### См. также
 
-* класс [VectorStoreResponse](../../vectorstoreresponse/)
-* класс [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

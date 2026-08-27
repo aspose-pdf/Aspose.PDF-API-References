@@ -1,14 +1,14 @@
 ---
-title: IOperationResult.ToFile
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOperationResult. Пытается конвертировать результат в файл
+title: "IOperationResult.ToFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOperationResult. Пытается преобразовать результат в файл."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.plugins/ioperationresult/tofile/
 ---
-## Метод IOperationResult.ToFile
+## IOperationResult.ToFile method
 
-Пытается конвертировать результат в файл.
+Пытается преобразовать результат в файл.
 
 ```csharp
 public string ToFile()
@@ -20,6 +20,8 @@ public string ToFile()
 
 ### См. также
 
-* интерфейс [IOperationResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

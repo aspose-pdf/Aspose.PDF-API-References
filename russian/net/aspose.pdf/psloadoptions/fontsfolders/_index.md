@@ -1,14 +1,14 @@
 ---
-title: PsLoadOptions.FontsFolders
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PsLoadOptions. Получает или устанавливает пути к папкам шрифтов
+title: "PsLoadOptions.FontsFolders"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PsLoadOptions. Получает или задает пути к папкам шрифтов"
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.pdf/psloadoptions/fontsfolders/
 ---
-## Свойство PsLoadOptions.FontsFolders
+## PsLoadOptions.FontsFolders property
 
-Получает или устанавливает пути к папкам шрифтов.
+Получает или задаёт пути к папкам шрифтов.
 
 ```csharp
 public string[] FontsFolders { get; set; }
@@ -16,6 +16,8 @@ public string[] FontsFolders { get; set; }
 
 ### См. также
 
-* класс [PsLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PsLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Matrix.GetFlipMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Matrix. Получает матрицу переворота
+title: "Matrix.GetFlipMatrix"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Matrix. Получает матрицу отражения"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/matrix/getflipmatrix/
 ---
-## Метод Matrix.GetFlipMatrix
+## Matrix.GetFlipMatrix method
 
-Получает матрицу переворота.
+Получает матрицу отражения.
 
 ```csharp
 public Matrix GetFlipMatrix()
@@ -16,6 +16,8 @@ public Matrix GetFlipMatrix()
 
 ### См. также
 
-* класс [Matrix](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

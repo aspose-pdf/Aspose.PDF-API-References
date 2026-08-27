@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.ExtractAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfAnnotationEditor. Получает список аннотаций указанных типов
+title: "PdfAnnotationEditor.ExtractAnnotations"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfAnnotationEditor. Получает список аннотаций указанных типов."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/extractannotations/
@@ -16,8 +16,8 @@ public IList<Annotation> ExtractAnnotations(int start, int end, string[] annotTy
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| start | Int32 | Начальная страница, с которой будут выбраны аннотации. |
-| end | Int32 | Конечная страница, до которой будут выбраны аннотации. |
+| start | Int32 | Начальная страница, с которой аннотации будут выбраны. |
+| end | Int32 | Конечная страница, до которой аннотации будут выбраны. |
 | annotTypes | String[] | Массив необходимых типов аннотаций. |
 
 ### Возвращаемое значение
@@ -35,10 +35,10 @@ IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 
 ### См. также
 
-* класс [Annotation](../../../aspose.pdf.annotations/annotation/)
-* класс [PdfAnnotationEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,8 +52,8 @@ public IList<Annotation> ExtractAnnotations(int start, int end, AnnotationType[]
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| start | Int32 | Начальная страница, с которой будут выбраны аннотации. |
-| end | Int32 | Конечная страница, до которой будут выбраны аннотации. |
+| start | Int32 | Начальная страница, с которой аннотации будут выбраны. |
+| end | Int32 | Конечная страница, до которой аннотации будут выбраны. |
 | annotTypes | AnnotationType[] | Массив необходимых типов аннотаций. |
 
 ### Возвращаемое значение
@@ -71,8 +71,10 @@ IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 
 ### См. также
 
-* класс [Annotation](../../../aspose.pdf.annotations/annotation/)
-* перечисление [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* класс [PdfAnnotationEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

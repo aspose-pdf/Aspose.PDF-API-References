@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.GetMethod
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SubmitFormAction. Если установлено, имена и значения полей должны быть отправлены с использованием HTTP GET запроса
+title: "SubmitFormAction.GetMethod"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SubmitFormAction. Если установлено, имена полей и их значения будут отправлены с использованием HTTP‑запроса GET."
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.annotations/submitformaction/getmethod/
 ---
-## Поле SubmitFormAction.GetMethod
+## SubmitFormAction.GetMethod field
 
-Если установлено, имена и значения полей должны быть отправлены с использованием HTTP GET запроса.
+Если установлено, имена полей и их значения будут отправлены с помощью HTTP‑GET запроса.
 
 ```csharp
 public const int GetMethod;
@@ -16,6 +16,8 @@ public const int GetMethod;
 
 ### См. также
 
-* класс [SubmitFormAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

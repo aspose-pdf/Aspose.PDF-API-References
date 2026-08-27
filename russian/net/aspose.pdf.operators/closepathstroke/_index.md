@@ -1,14 +1,14 @@
 ---
-title: Class ClosePathStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.ClosePathStroke. Класс, представляющий оператор Close и обводку пути
+title: "Класс ClosePathStroke"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Operators.ClosePathStroke. Класс, представляющий оператор s, закрывающий и обводящий путь."
 type: docs
-weight: 7220
+weight: 7360
 url: /ru/net/aspose.pdf.operators/closepathstroke/
 ---
-## Класс ClosePathStroke
+## ClosePathStroke class
 
-Класс, представляющий оператор (Закрыть и обвести путь).
+Класс, представляющий оператор s (Close and stroke path).
 
 ```csharp
 public class ClosePathStroke : Operator
@@ -30,12 +30,14 @@ public class ClosePathStroke : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepathstroke/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/closepathstroke/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/closepathstroke/tostring/)() | Возвращает текстовое представление оператора. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

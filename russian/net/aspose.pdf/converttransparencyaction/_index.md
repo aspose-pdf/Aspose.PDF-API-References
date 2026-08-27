@@ -1,12 +1,12 @@
 ---
-title: Enum ConvertTransparencyAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ConvertTransparencyAction Aspose.Pdf. Этот класс представляет действие для конвертации прозрачности
+title: "Перечисление ConvertTransparencyAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.ConvertTransparencyAction. Этот класс представляет действие для преобразования прозрачности"
 type: docs
-weight: 3380
+weight: 3500
 url: /ru/net/aspose.pdf/converttransparencyaction/
 ---
-## Перечисление ConvertTransparencyAction
+## ConvertTransparencyAction enumeration
 
 Этот класс представляет действие для конвертации прозрачности.
 
@@ -19,9 +19,11 @@ public enum ConvertTransparencyAction
 | Имя | Значение | Описание |
 | --- | --- | --- |
 | Default | `0` | Использовать стратегию по умолчанию, без добавления масок. |
-| Mask | `1` | Добавить прозрачное маскирующее изображение. |
+| Mask | `1` | Добавить изображение прозрачной маски. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

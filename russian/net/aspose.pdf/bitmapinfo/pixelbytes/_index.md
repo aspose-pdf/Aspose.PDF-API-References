@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.PixelBytes
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BitmapInfo. Получает массив пикселей
+title: "BitmapInfo.PixelBytes"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BitmapInfo. Возвращает массив пикселей"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/bitmapinfo/pixelbytes/
 ---
-## Свойство BitmapInfo.PixelBytes
+## BitmapInfo.PixelBytes property
 
 Получает массив пикселей.
 
@@ -16,6 +16,8 @@ public byte[] PixelBytes { get; }
 
 ### См. также
 
-* класс [BitmapInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BitmapInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

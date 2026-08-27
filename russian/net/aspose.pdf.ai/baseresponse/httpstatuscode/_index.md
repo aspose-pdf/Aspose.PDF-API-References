@@ -1,12 +1,12 @@
 ---
-title: BaseResponse.HttpStatusCode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseResponse. Получает или задает код состояния HTTP
+title: "BaseResponse.HttpStatusCode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BaseResponse. Получает или задает код состояния HTTP"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/baseresponse/httpstatuscode/
 ---
-## Свойство BaseResponse.HttpStatusCode
+## BaseResponse.HttpStatusCode property
 
 Получает или задает код состояния HTTP.
 
@@ -16,6 +16,8 @@ public HttpStatusCode HttpStatusCode { get; set; }
 
 ### См. также
 
-* класс [BaseResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocumentWithSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfViewer. Печатает документ Pdf с настройками. Если размер документа не соответствует размеру страницы, он будет увеличен, чтобы соответствовать размеру страницы.
+title: "PdfViewer.PrintDocumentWithSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfViewer. Печатает документ Pdf с настройками. Если размер документа не соответствует размеру страницы, он будет расширен, чтобы соответствовать размеру страницы."
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-Печатает документ Pdf с настройками. Если размер документа не соответствует размеру страницы, он будет увеличен, чтобы соответствовать размеру страницы.
+Печатает Pdf документ с настройками. Если размер документа не соответствует размеру страницы, он будет расширен до размера страницы.
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
@@ -16,8 +16,8 @@ public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageSettings | PageSettings | Настройки страницы печатаемого документа. |
-| printerSettings | PrinterSettings | Настройки принтера печатаемого документа. |
+| pageSettings | PageSettings | Настройка страницы печатаемого документа. |
+| printerSettings | PrinterSettings | Настройка принтера печатаемого документа. |
 
 ## Примеры
 
@@ -57,17 +57,17 @@ iewer.Close()
 
 ### См. также
 
-* класс [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* класс [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-Печатает документ Pdf с настройками принтера. Размер выходной страницы будет соответствовать размеру первой страницы документа.
+Печатает Pdf документ с настройками принтера. Размер выходной страницы будет соответствовать размеру первой страницы документа.
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)
@@ -75,7 +75,7 @@ public void PrintDocumentWithSettings(PrinterSettings printerSettings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | Настройки принтера печатаемого документа. |
+| printerSettings | PrinterSettings | Настройка принтера печатаемого документа. |
 
 ## Примеры
 
@@ -107,7 +107,9 @@ iewer.ClosePdfFile()
 
 ### См. также
 
-* класс [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

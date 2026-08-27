@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BorderInfo. Получает или устанавливает объект, который указывает на нижнюю часть границы
+title: "BorderInfo.Bottom"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BorderInfo. Получает или задает объект, указывающий нижнюю часть границы"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/borderinfo/bottom/
 ---
-## Свойство BorderInfo.Bottom
+## BorderInfo.Bottom property
 
-Получает или устанавливает объект, который указывает на нижнюю часть границы.
+Получает или задает объект, указывающий нижнюю часть границы.
 
 ```csharp
 public GraphInfo Bottom { get; set; }
@@ -16,7 +16,9 @@ public GraphInfo Bottom { get; set; }
 
 ### См. также
 
-* класс [GraphInfo](../../graphinfo/)
-* класс [BorderInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

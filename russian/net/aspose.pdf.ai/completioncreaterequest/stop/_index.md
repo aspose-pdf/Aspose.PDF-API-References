@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.Stop
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompletionCreateRequest. Получает или устанавливает до 4 последовательностей, на которых API прекратит генерировать дальнейшие токены
+title: "CompletionCreateRequest.Stop"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CompletionCreateRequest. Получает или задает до 4 последовательностей, при которых API прекратит генерацию дальнейших токенов."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.ai/completioncreaterequest/stop/
 ---
-## Свойство CompletionCreateRequest.Stop
+## CompletionCreateRequest.Stop property
 
-Получает или устанавливает до 4 последовательностей, на которых API прекратит генерировать дальнейшие токены.
+Получает или задает до 4 последовательностей, при которых API прекратит генерировать дальнейшие токены.
 
 ```csharp
 public List<string> Stop { get; set; }
@@ -16,6 +16,8 @@ public List<string> Stop { get; set; }
 
 ### См. также
 
-* класс [CompletionCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

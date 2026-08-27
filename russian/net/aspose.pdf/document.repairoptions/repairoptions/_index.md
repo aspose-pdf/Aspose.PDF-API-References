@@ -1,12 +1,12 @@
 ---
-title: Document.RepairOptions.RepairOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор RepairOptions. Конструктор по умолчанию
+title: "Document.RepairOptions.RepairOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор RepairOptions. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/document.repairoptions/repairoptions/
 ---
-## Конструктор Document.RepairOptions
+## Document.RepairOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public RepairOptions()
 
 ### См. также
 
-* класс [RepairOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [RepairOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

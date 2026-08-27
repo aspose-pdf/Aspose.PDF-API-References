@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Устанавливает коллекцию документов для параметров копилота описания изображения
+title: "OpenAIImageDescriptionCopilotOptions.WithDocuments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIImageDescriptionCopilotOptions. Устанавливает коллекцию документов для параметров сопутствующего описания изображения"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-Устанавливает коллекцию документов для параметров копилота описания изображения.
+Задаёт коллекцию документов для параметров копилота описания изображения.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocuments(DocumentCollection documentCollection)
@@ -16,7 +16,7 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(DocumentCollection doc
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | Коллекция документов для установки. |
+| documentCollection | DocumentCollection | Коллекцию документов для установки. |
 
 ### Возвращаемое значение
 
@@ -24,16 +24,16 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(DocumentCollection doc
 
 ### См. также
 
-* класс [DocumentCollection](../../documentcollection/)
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-Добавляет несколько PDF-документов в коллекцию документов для параметров копилота описания изображения.
+Добавляет несколько PDF‑документов в коллекцию документов для параметров копилота описания изображения.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
@@ -41,7 +41,7 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(List<PdfDocument> pdfD
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdfDocuments | List`1 | Список PDF-документов для добавления. |
+| pdfDocuments | List`1 | Список PDF‑документов для добавления. |
 
 ### Возвращаемое значение
 
@@ -49,10 +49,10 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(List<PdfDocument> pdfD
 
 ### См. также
 
-* класс [PdfDocument](../../pdfdocument/)
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -74,6 +74,8 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(List<string> filePaths
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

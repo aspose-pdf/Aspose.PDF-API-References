@@ -1,14 +1,14 @@
 ---
-title: Enum Algorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Facades.Algorithm. Представляет алгоритмы, которые могут быть использованы для шифрования pdf документа
+title: "Перечисление Algorithm"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Facades.Algorithm. Представляет алгоритмы, которые могут использоваться для шифрования PDF‑документа"
 type: docs
-weight: 4140
+weight: 4260
 url: /ru/net/aspose.pdf.facades/algorithm/
 ---
-## Перечисление алгоритмов
+## Algorithm enumeration
 
-Представляет алгоритмы, которые могут быть использованы для шифрования pdf документа.
+Представляет алгоритмы, которые могут использоваться для шифрования pdf‑документа.
 
 ```csharp
 public enum Algorithm
@@ -23,5 +23,7 @@ public enum Algorithm
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

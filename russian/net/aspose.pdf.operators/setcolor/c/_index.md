@@ -1,14 +1,14 @@
 ---
-title: SetColor.C
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetColor. Получает или устанавливает компонент циан.
+title: "SetColor.C"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetColor. Получает или задает циановый компонент"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/setcolor/c/
 ---
-## Свойство SetColor.C
+## SetColor.C property
 
-Получает или устанавливает компонент циан.
+Получает или задает циановый компонент.
 
 ```csharp
 public double C { get; set; }
@@ -16,6 +16,8 @@ public double C { get; set; }
 
 ### См. также
 
-* класс [SetColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

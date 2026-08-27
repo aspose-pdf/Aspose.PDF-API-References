@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldsInRect
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Form. Возвращает поля внутри указанного прямоугольника
+title: "Form.GetFieldsInRect"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Возвращает поля внутри указанного прямоугольника."
 type: docs
-weight: 270
+weight: 290
 url: /ru/net/aspose.pdf.forms/form/getfieldsinrect/
 ---
-## Метод Form.GetFieldsInRect
+## Form.GetFieldsInRect method
 
-Возвращает поля внутри указанного прямоугольника.
+Возвращает поля внутри указанного rectangle.
 
 ```csharp
 public Field[] GetFieldsInRect(Rectangle rect)
@@ -16,16 +16,18 @@ public Field[] GetFieldsInRect(Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник, в котором должны быть найдены поля. |
+| rect | Rectangle | Прямоугольник, в котором следует искать поля. |
 
 ### Возвращаемое значение
 
-Массив с найденными полями.
+Массив найденных полей.
 
 ### См. также
 
-* класс [Field](../../field/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../../field/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

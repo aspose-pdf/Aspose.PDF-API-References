@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaCopilotOptionsBase. Получает или задает коллекцию документов для обработки
+title: "LlamaCopilotOptionsBase.DocumentCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaCopilotOptionsBase. Получает или задает коллекцию документов для обработки"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/llamacopilotoptionsbase/documentcollection/
 ---
-## Свойство LlamaCopilotOptionsBase.DocumentCollection
+## LlamaCopilotOptionsBase.DocumentCollection property
 
-Получает или задает коллекцию документов для обработки.
+Получает или задаёт коллекцию документов для обработки.
 
 ```csharp
 public DocumentCollection DocumentCollection { get; set; }
@@ -16,7 +16,9 @@ public DocumentCollection DocumentCollection { get; set; }
 
 ### См. также
 
-* класс [DocumentCollection](../../documentcollection/)
-* класс [LlamaCopilotOptionsBase](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentCollection](../../documentcollection/)
+* class [LlamaCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

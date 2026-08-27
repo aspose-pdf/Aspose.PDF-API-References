@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.ForceCombs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextBoxField. Получает или устанавливает флаг, который указывает, разделено ли поле на равномерные позиции
+title: "TextBoxField.ForceCombs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TextBoxField свойство. Получает или задает флаг, указывающий, разделено ли поле на позиционные ячейки."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/textboxfield/forcecombs/
 ---
-## Свойство TextBoxField.ForceCombs
+## TextBoxField.ForceCombs property
 
-Получает или устанавливает флаг, который указывает, разделено ли поле на равномерные позиции.
+Получает или задает флаг, указывающий, разделено ли поле на позиционные интервалы.
 
 ```csharp
 public bool ForceCombs { get; set; }
@@ -16,6 +16,8 @@ public bool ForceCombs { get; set; }
 
 ### См. также
 
-* класс [TextBoxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

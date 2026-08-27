@@ -1,12 +1,12 @@
 ---
-title: SetGlyphsPositionShowText.GlyphPositions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetGlyphsPositionShowText. Возвращает позиции глифов
+title: "SetGlyphsPositionShowText.GlyphPositions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetGlyphsPositionShowText. Возвращает позиции глифов"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/
 ---
-## Свойство SetGlyphsPositionShowText.GlyphPositions
+## SetGlyphsPositionShowText.GlyphPositions property
 
 Возвращает позиции глифов.
 
@@ -16,7 +16,9 @@ public IEnumerable<GlyphPosition> GlyphPositions { get; }
 
 ### См. также
 
-* класс [GlyphPosition](../../glyphposition/)
-* класс [SetGlyphsPositionShowText](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [GlyphPosition](../../glyphposition/)
+* class [SetGlyphsPositionShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

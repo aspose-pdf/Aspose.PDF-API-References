@@ -1,7 +1,7 @@
 ---
-title: PDF3DAnnotation.PDF3DAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PDF3DAnnotation. Инициализирует новый экземпляр класса PDF3DAnnotation
+title: "PDF3DAnnotation.PDF3DAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PDF3DAnnotation. Инициализирует новый экземпляр класса PDF3DAnnotation"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dannotation/pdf3dannotation/
@@ -16,18 +16,18 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница. |
+| страница | Страница | Страница. |
 | rect | Rectangle | Прямоугольник. |
-| pdf3DArtwork | PDF3DArtwork | 3D Искусство. |
+| pdf3DArtwork | PDF3DArtwork | 3D-арт. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [PDF3DArtwork](../../pdf3dartwork/)
-* класс [PDF3DAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PDF3DArtwork](../../pdf3dartwork/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,23 +42,25 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница. |
+| страница | Страница | Страница. |
 | rect | Rectangle | Прямоугольник. |
-| pdf3DArtwork | PDF3DArtwork | 3D Искусство. |
-| activation | PDF3DActivation | Режим активации. |
+| pdf3DArtwork | PDF3DArtwork | 3D-арт. |
+| активация | PDF3DActivation | Режим активации. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| Exception | 3D поток уже добавлен к текущему 3D Искусству |
+| Exception | 3D‑поток уже добавлен к текущему 3D‑изображению |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [PDF3DArtwork](../../pdf3dartwork/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PDF3DArtwork](../../pdf3dartwork/)
 * enum [PDF3DActivation](../../pdf3dactivation/)
-* класс [PDF3DAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

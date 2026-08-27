@@ -1,12 +1,12 @@
 ---
-title: PdfGeneratorOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfGeneratorOptions. Получает коллекцию добавленных целей для сохранения результатов операции
+title: "PdfGeneratorOptions.Outputs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "свойство PdfGeneratorOptions. Получает коллекцию добавленных целей для сохранения результатов операции"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/pdfgeneratoroptions/outputs/
 ---
-## Свойство PdfGeneratorOptions.Outputs
+## PdfGeneratorOptions.Outputs property
 
 Получает коллекцию добавленных целей для сохранения результатов операции.
 
@@ -16,7 +16,9 @@ public List<IDataSource> Outputs { get; }
 
 ### См. также
 
-* интерфейс [IDataSource](../../idatasource/)
-* класс [PdfGeneratorOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfGeneratorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

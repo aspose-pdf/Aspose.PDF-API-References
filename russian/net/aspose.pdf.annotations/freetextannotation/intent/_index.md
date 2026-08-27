@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FreeTextAnnotation. Получает или устанавливает намерение аннотации свободного текста
+title: "FreeTextAnnotation.Intent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FreeTextAnnotation property. Получает или задает назначение свободной текстовой аннотации."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/freetextannotation/intent/
 ---
-## Свойство FreeTextAnnotation.Intent
+## FreeTextAnnotation.Intent property
 
-Получает или устанавливает намерение аннотации свободного текста.
+Получает или задаёт назначение свободной текстовой аннотации.
 
 ```csharp
 public FreeTextIntent Intent { get; set; }
@@ -20,3 +20,5 @@ public FreeTextIntent Intent { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

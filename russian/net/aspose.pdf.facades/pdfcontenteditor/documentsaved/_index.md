@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DocumentSaved
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfContentEditor. Тип события документа. Выполнить действие после сохранения
+title: "PdfContentEditor.DocumentSaved"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor поле. Тип события Document. Выполняет действие после сохранения"
 type: docs
 weight: 500
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/documentsaved/
 ---
-## Поле PdfContentEditor.DocumentSaved
+## PdfContentEditor.DocumentSaved field
 
-Тип события документа. Выполнить действие после сохранения.
+Тип события документа. Выполняет действие после сохранения.
 
 ```csharp
 public const string DocumentSaved;
@@ -16,6 +16,8 @@ public const string DocumentSaved;
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

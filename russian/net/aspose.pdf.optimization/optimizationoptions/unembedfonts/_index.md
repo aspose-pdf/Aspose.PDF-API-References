@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.UnembedFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptimizationOptions. Сделать шрифты не встроенными, если установлено значение true
+title: "OptimizationOptions.UnembedFonts"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OptimizationOptions. Делает шрифты не встроенными, если установлен true."
 type: docs
-weight: 140
+weight: 130
 url: /ru/net/aspose.pdf.optimization/optimizationoptions/unembedfonts/
 ---
-## Свойство OptimizationOptions.UnembedFonts
+## OptimizationOptions.UnembedFonts property
 
-Сделать шрифты не встроенными, если установлено значение true.
+Не встраивать шрифты, если установлен флаг true.
 
 ```csharp
 public bool UnembedFonts { get; set; }
@@ -16,6 +16,8 @@ public bool UnembedFonts { get; set; }
 
 ### См. также
 
-* класс [OptimizationOptions](../)
-* пространство имен [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

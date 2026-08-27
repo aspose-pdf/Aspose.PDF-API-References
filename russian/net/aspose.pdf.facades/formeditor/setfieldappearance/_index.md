@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Установить флаги поля
+title: "FormEditor.SetFieldAppearance"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "метод FormEditor. Установить флаги поля"
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.facades/formeditor/setfieldappearance/
 ---
-## Метод FormEditor.SetFieldAppearance
+## FormEditor.SetFieldAppearance method
 
 Установить флаги поля
 
@@ -21,7 +21,7 @@ public bool SetFieldAppearance(string fieldName, AnnotationFlags flags)
 
 ### Возвращаемое значение
 
-true, если флаги были успешно обновлены.
+true если флаги были успешно обновлены.
 
 ## Примеры
 
@@ -37,3 +37,5 @@ formEditor.SetFieldAppearance("Phone", AnnotationFlags.NoView | AnnotationFlags.
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

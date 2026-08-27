@@ -1,12 +1,12 @@
 ---
-title: SetCharWidth.Wy
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetCharWidth. Вертикальное смещение координаты глифа
+title: "SetCharWidth.Wy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetCharWidth. Вертикальное смещение координаты глифа"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/setcharwidth/wy/
 ---
-## Свойство SetCharWidth.Wy
+## SetCharWidth.Wy property
 
 Вертикальное смещение координаты глифа.
 
@@ -16,6 +16,8 @@ public double Wy { get; }
 
 ### См. также
 
-* класс [SetCharWidth](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCharWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

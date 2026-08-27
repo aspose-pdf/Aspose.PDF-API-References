@@ -1,14 +1,14 @@
 ---
-title: Class InvalidPdfFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.InvalidPdfFileFormatException. Исключение, которое выбрасывается, когда файл pdf недействителен
+title: "Класс InvalidPdfFileFormatException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.InvalidPdfFileFormatException. Исключение, которое выбрасывается, когда PDF‑файл недействителен"
 type: docs
-weight: 6020
+weight: 6150
 url: /ru/net/aspose.pdf/invalidpdffileformatexception/
 ---
-## Класс InvalidPdfFileFormatException
+## InvalidPdfFileFormatException class
 
-Исключение, которое выбрасывается, когда файл pdf недействителен.
+Исключение, которое выбрасывается, когда PDF‑файл недействителен.
 
 ```csharp
 public sealed class InvalidPdfFileFormatException : InvalidFileFormatException
@@ -18,12 +18,14 @@ public sealed class InvalidPdfFileFormatException : InvalidFileFormatException
 
 | Имя | Описание |
 | --- | --- |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor)(Exception) | Инициализирует новый экземпляр класса `InvalidPdfFileFormatException` с ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor)(Exception) | Инициализирует новый экземпляр класса `InvalidPdfFileFormatException` со ссылкой на внутреннее исключение, являющееся причиной данного исключения. |
 | [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor_1)(string) | Инициализирует новый экземпляр класса `InvalidPdfFileFormatException`. |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса `InvalidPdfFileFormatException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса `InvalidPdfFileFormatException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, являющееся причиной данного исключения. |
 
 ### См. также
 
-* класс [InvalidFileFormatException](../invalidfileformatexception/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [InvalidFileFormatException](../invalidfileformatexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

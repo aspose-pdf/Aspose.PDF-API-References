@@ -1,14 +1,14 @@
 ---
-title: TimestampSettings.ServerUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TimestampSettings. Получает/устанавливает URL сервера временных меток
+title: "TimestampSettings.ServerUrl"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TimestampSettings. Получает/устанавливает URL сервера отметки времени."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/timestampsettings/serverurl/
 ---
-## Свойство TimestampSettings.ServerUrl
+## TimestampSettings.ServerUrl property
 
-Получает/устанавливает URL сервера временных меток.
+Получает/задает URL сервера меток времени.
 
 ```csharp
 public string ServerUrl { get; set; }
@@ -16,6 +16,8 @@ public string ServerUrl { get; set; }
 
 ### См. также
 
-* класс [TimestampSettings](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TimestampSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

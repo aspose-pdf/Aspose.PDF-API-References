@@ -1,12 +1,12 @@
 ---
-title: Class FontNotFoundException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.FontNotFoundException. Исключение, которое выбрасывается, когда шрифт не найден
+title: "Класс FontNotFoundException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.FontNotFoundException. Исключение, которое выбрасывается, когда шрифт не найден."
 type: docs
-weight: 4900
+weight: 5020
 url: /ru/net/aspose.pdf/fontnotfoundexception/
 ---
-## Класс FontNotFoundException
+## FontNotFoundException class
 
 Исключение, которое выбрасывается, когда шрифт не найден.
 
@@ -18,12 +18,14 @@ public sealed class FontNotFoundException : PdfException
 
 | Имя | Описание |
 | --- | --- |
-| [FontNotFoundException](fontnotfoundexception/#constructor)(Exception) | Инициализирует новый экземпляр класса `FontNotFoundException` с ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [FontNotFoundException](fontnotfoundexception/#constructor)(Exception) | Инициализирует новый экземпляр класса `FontNotFoundException` со ссылкой на внутреннее исключение, являющееся причиной данного исключения. |
 | [FontNotFoundException](fontnotfoundexception/#constructor_1)(string) | Инициализирует новый экземпляр класса `FontNotFoundException`. |
-| [FontNotFoundException](fontnotfoundexception/#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса `FontNotFoundException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [FontNotFoundException](fontnotfoundexception/#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса `FontNotFoundException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, являющееся причиной данного исключения. |
 
 ### См. также
 
-* класс [PdfException](../pdfexception/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

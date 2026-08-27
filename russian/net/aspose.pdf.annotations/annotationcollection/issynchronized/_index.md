@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AnnotationCollection. Получает значение, указывающее, синхронизирован ли доступ к Aspose.Pdf.Annotations.AnnotationCollection.
+title: "AnnotationCollection.IsSynchronized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AnnotationCollection. Возвращает значение, указывающее, является ли доступ к Aspose.Pdf.Annotations.AnnotationCollection синхронизированным и потокобезопасным."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/annotationcollection/issynchronized/
 ---
-## Свойство AnnotationCollection.IsSynchronized
+## AnnotationCollection.IsSynchronized property
 
-Получает значение, указывающее, синхронизирован ли доступ к Aspose.Pdf.Annotations.AnnotationCollection (безопасен для потоков).
+Получает значение, указывающее, синхронизирован ли доступ к Aspose.Pdf.Annotations.AnnotationCollection (потокобезопасный).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### См. также
 
-* класс [AnnotationCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

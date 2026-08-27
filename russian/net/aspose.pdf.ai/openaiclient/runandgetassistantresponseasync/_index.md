@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.RunAndGetAssistantResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Запускает помощника с указанным threadId и runCreateRequest и асинхронно получает ответ помощника
+title: "OpenAIClient.RunAndGetAssistantResponseAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Запускает помощника с указанным threadId и runCreateRequest и асинхронно получает ответ помощника"
 type: docs
-weight: 440
+weight: 450
 url: /ru/net/aspose.pdf.ai/openaiclient/runandgetassistantresponseasync/
 ---
-## Метод OpenAIClient.RunAndGetAssistantResponseAsync
+## OpenAIClient.RunAndGetAssistantResponseAsync method
 
 Запускает помощника с указанным threadId и runCreateRequest и асинхронно получает ответ помощника.
 
@@ -18,16 +18,18 @@ public Task<string> RunAndGetAssistantResponseAsync(string threadId,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | threadId | String | Идентификатор потока. |
-| runCreateRequest | RunCreateRequest | Запрос на создание запуска. |
+| runCreateRequest | RunCreateRequest | Запрос создания выполнения. |
 | cancellationToken | Nullable`1 | Токен отмены (необязательно). |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию с строкой ответа помощника.
+Задача, представляющая асинхронную операцию со строкой ответа помощника.
 
 ### См. также
 
-* класс [RunCreateRequest](../../runcreaterequest/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunCreateRequest](../../runcreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

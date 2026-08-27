@@ -1,14 +1,14 @@
 ---
-title: PaperSources.SmallFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSources. Представляет контейнер для бумаги меньшего формата
+title: "PaperSources.SmallFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSources. Представляет лоток для бумаги меньшего формата"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.printing/papersources/smallformat/
 ---
-## Поле PaperSources.SmallFormat
+## PaperSources.SmallFormat field
 
-Представляет контейнер для бумаги меньшего формата.
+Представляет лоток для бумаги меньшего формата.
 
 ```csharp
 public static readonly PaperSource SmallFormat;
@@ -16,7 +16,9 @@ public static readonly PaperSource SmallFormat;
 
 ### См. также
 
-* класс [PaperSource](../../papersource/)
-* класс [PaperSources](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

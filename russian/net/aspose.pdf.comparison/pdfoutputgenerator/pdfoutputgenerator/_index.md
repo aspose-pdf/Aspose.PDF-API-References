@@ -1,20 +1,20 @@
 ---
-title: PdfOutputGenerator.PdfOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfOutputGenerator. Создает экземпляр класса PdfOutputGenerator
+title: "PdfOutputGenerator.PdfOutputGenerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfOutputGenerator. Создаёт экземпляр класса PdfOutputGenerator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.comparison/pdfoutputgenerator/pdfoutputgenerator/
 ---
 ## PdfOutputGenerator() {#constructor}
 
-Создает экземпляр класса [`PdfOutputGenerator`](../).
+Создаёт экземпляр класса [`PdfOutputGenerator`](../).
 
 ```csharp
 public PdfOutputGenerator()
 ```
 
-### See Also
+### См. также
 
 * class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
@@ -24,17 +24,17 @@ public PdfOutputGenerator()
 
 ## PdfOutputGenerator(PageInfo) {#constructor_3}
 
-Создает экземпляр класса [`PdfOutputGenerator`](../).
+Создаёт экземпляр класса [`PdfOutputGenerator`](../).
 
 ```csharp
 public PdfOutputGenerator(PageInfo pageInfo)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageInfo | PageInfo | Настройки размера страницы и полей. |
 
-### See Also
+### См. также
 
 * class [PageInfo](../../../aspose.pdf/pageinfo/)
 * class [PdfOutputGenerator](../)
@@ -45,17 +45,17 @@ public PdfOutputGenerator(PageInfo pageInfo)
 
 ## PdfOutputGenerator(OutputTextStyle) {#constructor_1}
 
-Создает экземпляр класса [`PdfOutputGenerator`](../).
+Создаёт экземпляр класса [`PdfOutputGenerator`](../).
 
 ```csharp
 public PdfOutputGenerator(OutputTextStyle textStyle)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| textStyle | OutputTextStyle | Стили для измененного текста. |
+| textStyle | OutputTextStyle | Стили для изменённого текста. |
 
-### See Also
+### См. также
 
 * class [OutputTextStyle](../../outputtextstyle/)
 * class [PdfOutputGenerator](../)
@@ -66,21 +66,23 @@ public PdfOutputGenerator(OutputTextStyle textStyle)
 
 ## PdfOutputGenerator(OutputTextStyle, PageInfo) {#constructor_2}
 
-Создает экземпляр класса [`PdfOutputGenerator`](../).
+Создаёт экземпляр класса [`PdfOutputGenerator`](../).
 
 ```csharp
 public PdfOutputGenerator(OutputTextStyle textStyle, PageInfo pageInfo)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| textStyle | OutputTextStyle | Стили для измененного текста. |
+| textStyle | OutputTextStyle | Стили для изменённого текста. |
 | pageInfo | PageInfo | Настройки размера страницы и полей. |
 
-### See Also
+### См. также
 
 * class [OutputTextStyle](../../outputtextstyle/)
 * class [PageInfo](../../../aspose.pdf/pageinfo/)
 * class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

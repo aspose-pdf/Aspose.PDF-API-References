@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetNameValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureAttribute. Получает имя значения
+title: "StructureAttribute.GetNameValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureAttribute. Получает имя значения"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/getnamevalue/
 ---
-## Метод StructureAttribute.GetNameValue
+## StructureAttribute.GetNameValue method
 
-Получает имя значения.
+Получает Value Name.
 
 ```csharp
 public AttributeName GetNameValue()
@@ -20,7 +20,9 @@ public AttributeName GetNameValue()
 
 ### См. также
 
-* класс [AttributeName](../../attributename/)
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

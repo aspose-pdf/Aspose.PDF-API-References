@@ -1,12 +1,12 @@
 ---
-title: Image.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор изображения. Конструктор по умолчанию
+title: "Image.Image"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Image. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/image/image/
 ---
-## Конструктор изображения
+## Image constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Image()
 
 ### См. также
 
-* класс [Image](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

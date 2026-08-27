@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.ToCosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CosPdfDictionary. Пытается привести этот экземпляр к CosPdfDictionary
+title: "CosPdfDictionary.ToCosPdfDictionary"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CosPdfDictionary. Пытается привести этот экземпляр к CosPdfDictionary"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.dataeditor/cospdfdictionary/tocospdfdictionary/
 ---
-## Метод CosPdfDictionary.ToCosPdfDictionary
+## CosPdfDictionary.ToCosPdfDictionary method
 
 Пытается привести этот экземпляр к [`CosPdfDictionary`](../).
 
@@ -20,6 +20,8 @@ null, если экземпляр не является [`CosPdfDictionary`](../
 
 ### См. также
 
-* класс [CosPdfDictionary](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

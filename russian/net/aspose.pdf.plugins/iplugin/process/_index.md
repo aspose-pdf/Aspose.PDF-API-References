@@ -1,14 +1,14 @@
 ---
-title: IPlugin.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IPlugin. Загружает плагин для обработки с заданными параметрами
+title: "IPlugin.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IPlugin. Заставляет плагин выполнять обработку с определёнными параметрами"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/iplugin/process/
 ---
-## Метод IPlugin.Process
+## IPlugin.Process method
 
-Загружает плагин для обработки с заданными параметрами
+Запускает плагин для обработки с определёнными параметрами.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -24,8 +24,10 @@ public ResultContainer Process(IPluginOptions options)
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* интерфейс [IPlugin](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* interface [IPlugin](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

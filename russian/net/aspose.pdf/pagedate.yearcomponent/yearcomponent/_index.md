@@ -1,12 +1,12 @@
 ---
-title: PageDate.YearComponent.YearComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор YearComponent. Конструктор по умолчанию
+title: "PageDate.YearComponent.YearComponent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор YearComponent. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pagedate.yearcomponent/yearcomponent/
 ---
-## Конструктор PageDate.YearComponent
+## PageDate.YearComponent constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public YearComponent()
 
 ### См. также
 
-* класс [YearComponent](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [YearComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

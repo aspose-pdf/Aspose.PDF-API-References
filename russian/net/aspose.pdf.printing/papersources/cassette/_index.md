@@ -1,14 +1,14 @@
 ---
-title: PaperSources.Cassette
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSources. Представляет бумажный кассету принтера
+title: "PaperSources.Cassette"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSources. Представляет кассету бумаги принтера"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.printing/papersources/cassette/
 ---
-## Поле PaperSources.Cassette
+## PaperSources.Cassette field
 
-Представляет бумажный кассету принтера.
+Представляет кассету бумаги принтера.
 
 ```csharp
 public static readonly PaperSource Cassette;
@@ -16,7 +16,9 @@ public static readonly PaperSource Cassette;
 
 ### См. также
 
-* класс [PaperSource](../../papersource/)
-* класс [PaperSources](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

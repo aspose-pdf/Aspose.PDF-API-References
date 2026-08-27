@@ -1,14 +1,14 @@
 ---
-title: Document.CenterWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает флаг, указывающий, будет ли положение окна документа центрировано на экране
+title: "Document.CenterWindow"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document property. Получает или задает флаг, указывающий, будет ли позиция окна documents центрирована на экране."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/document/centerwindow/
 ---
-## Свойство Document.CenterWindow
+## Document.CenterWindow property
 
-Получает или устанавливает флаг, указывающий, будет ли положение окна документа центрировано на экране.
+Получает или задаёт флаг, указывающий, будет ли позиция окна документа центрирована на экране.
 
 ```csharp
 public bool CenterWindow { get; set; }
@@ -25,6 +25,8 @@ bool value = document.CenterWindow;
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

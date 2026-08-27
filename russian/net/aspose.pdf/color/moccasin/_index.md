@@ -1,14 +1,14 @@
 ---
-title: Color.Moccasin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет, который имеет значение ARGB c FFFFE4B5
+title: "Color.Moccasin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Color свойство. Возвращает системно определенный цвет, имеющий значение ARGB c FFFFE4B5"
 type: docs
 weight: 950
 url: /ru/net/aspose.pdf/color/moccasin/
 ---
-## Свойство Color.Moccasin
+## Color.Moccasin property
 
-Получает системно определенный цвет, который имеет значение ARGB \c \#FFFFE4B5.
+Получает системный цвет, у которого ARGB‑значение \c \#FFFFE4B5.
 
 ```csharp
 public static Color Moccasin { get; }
@@ -16,10 +16,12 @@ public static Color Moccasin { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

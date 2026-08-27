@@ -1,14 +1,14 @@
 ---
-title: Document.MergeOptions.MaximumNodesInLevel
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MergeOptions. Получает и устанавливает максимальное количество узлов на уровне дерева страниц. По умолчанию 10
+title: "Document.MergeOptions.MaximumNodesInLevel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MergeOptions. Получает и задаёт максимальное количество узлов на уровне дерева страниц. По умолчанию 10"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/document.mergeoptions/maximumnodesinlevel/
 ---
-## Свойство Document.MergeOptions.MaximumNodesInLevel
+## Document.MergeOptions.MaximumNodesInLevel property
 
-Получает и устанавливает максимальное количество узлов на уровне дерева страниц. По умолчанию 10.
+Получает и задаёт максимальное количество узлов на уровне дерева страниц. По умолчанию 10.
 
 ```csharp
 public byte MaximumNodesInLevel { get; set; }
@@ -16,6 +16,8 @@ public byte MaximumNodesInLevel { get; set; }
 
 ### См. также
 
-* класс [MergeOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MergeOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

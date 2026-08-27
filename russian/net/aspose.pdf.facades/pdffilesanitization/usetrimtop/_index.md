@@ -1,14 +1,14 @@
 ---
-title: PdfFileSanitization.UseTrimTop
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileSanitization. Позволяет удалить данные перед pdf данными
+title: "PdfFileSanitization.UseTrimTop"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileSanitization. Позволяет удалить данные перед данными PDF."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdffilesanitization/usetrimtop/
 ---
-## Свойство PdfFileSanitization.UseTrimTop
+## PdfFileSanitization.UseTrimTop property
 
-Позволяет удалить данные перед pdf данными.
+Позволяет удалить данные перед pdf-данными.
 
 ```csharp
 public bool UseTrimTop { get; set; }
@@ -16,6 +16,8 @@ public bool UseTrimTop { get; set; }
 
 ### См. также
 
-* класс [PdfFileSanitization](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

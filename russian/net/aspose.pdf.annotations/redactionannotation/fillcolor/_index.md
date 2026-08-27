@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.FillColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RedactionAnnotation. Получает или устанавливает цвет для заполнения аннотации
+title: "RedactionAnnotation.FillColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RedactionAnnotation. Получает или задает цвет заполнения аннотации"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/redactionannotation/fillcolor/
 ---
-## Свойство RedactionAnnotation.FillColor
+## RedactionAnnotation.FillColor property
 
-Получает или устанавливает цвет для заполнения аннотации.
+Получает или задает цвет для заполнения аннотации.
 
 ```csharp
 public Color FillColor { get; set; }
@@ -16,7 +16,9 @@ public Color FillColor { get; set; }
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [RedactionAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

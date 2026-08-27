@@ -1,7 +1,7 @@
 ---
-title: ImageStamp.ImageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ImageStamp. Инициализирует новый экземпляр класса ImageStamp
+title: "ImageStamp.ImageStamp"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ImageStamp. Инициализирует новый экземпляр класса ImageStamp"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/imagestamp/imagestamp/
@@ -20,15 +20,15 @@ public ImageStamp(Stream image)
 
 ### См. также
 
-* класс [ImageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImageStamp(string) {#constructor_1}
 
-Создает штамп изображения по изображению в указанном файле.
+Создаёт графическую печать из изображения в указанном файле.
 
 ```csharp
 public ImageStamp(string fileName)
@@ -36,10 +36,12 @@ public ImageStamp(string fileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileName | String | Имя файла, который содержит изображение. |
+| fileName | String | Имя файла, содержащего изображение. |
 
 ### См. также
 
-* класс [ImageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

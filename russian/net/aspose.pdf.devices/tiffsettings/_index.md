@@ -1,14 +1,14 @@
 ---
-title: Class TiffSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Devices.TiffSettings. Этот класс представляет настройки для импорта pdf в Tiff
+title: "Класс TiffSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Devices.TiffSettings. Этот класс представляет настройки для импорта PDF в Tiff"
 type: docs
-weight: 3710
+weight: 3830
 url: /ru/net/aspose.pdf.devices/tiffsettings/
 ---
-## Класс TiffSettings
+## TiffSettings class
 
-Этот класс представляет настройки для импорта pdf в Tiff.
+Этот класс представляет настройки импорта pdf в Tiff.
 
 ```csharp
 public sealed class TiffSettings
@@ -32,15 +32,17 @@ public sealed class TiffSettings
 
 | Имя | Описание |
 | --- | --- |
-| [Brightness](../../aspose.pdf.devices/tiffsettings/brightness/) { get; set; } | Получает или задает значение границы преобразования цветов в белый и черный. Этот параметр может быть применен с EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle или ColorDepth.Format1bpp == 1 |
+| [Brightness](../../aspose.pdf.devices/tiffsettings/brightness/) { get; set; } | Получает или задает границу значения преобразования цветов в белый и черный. Этот параметр может быть применён с EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle или ColorDepth.Format1bpp == 1 |
 | [Compression](../../aspose.pdf.devices/tiffsettings/compression/) { get; set; } | Получает или задает тип сжатия. |
-| [CoordinateType](../../aspose.pdf.devices/tiffsettings/coordinatetype/) { get; set; } | Получает или задает тип координат страницы (Media/Crop boxes). Значение CropBox используется по умолчанию. |
+| [CoordinateType](../../aspose.pdf.devices/tiffsettings/coordinatetype/) { get; set; } | Получает или задает тип координат страницы (Media/Crop‑коробки). Значение CropBox используется по умолчанию. |
 | [Depth](../../aspose.pdf.devices/tiffsettings/depth/) { get; set; } | Получает или задает глубину цвета. |
-| [Margins](../../aspose.pdf.devices/tiffsettings/margins/) { get; } | Получает поля. |
+| [Margins](../../aspose.pdf.devices/tiffsettings/margins/) { get; } | Получает отступы. |
 | [Shape](../../aspose.pdf.devices/tiffsettings/shape/) { get; set; } | Получает или задает тип формы. |
 | [SkipBlankPages](../../aspose.pdf.devices/tiffsettings/skipblankpages/) { get; set; } | Получает или задает значение, указывающее, следует ли пропускать пустые страницы. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

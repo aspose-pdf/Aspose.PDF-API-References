@@ -1,9 +1,9 @@
 ---
-title: Class InvalidCgmFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.InvalidCgmFileFormatException. Исключение, которое выбрасывается, когда файл Cgm недействителен
+title: "Класс InvalidCgmFileFormatException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.InvalidCgmFileFormatException класс. Исключение, которое выбрасывается, когда файл Cgm недействителен."
 type: docs
-weight: 5980
+weight: 6110
 url: /ru/net/aspose.pdf/invalidcgmfileformatexception/
 ---
 ## InvalidCgmFileFormatException class
@@ -14,17 +14,19 @@ url: /ru/net/aspose.pdf/invalidcgmfileformatexception/
 public sealed class InvalidCgmFileFormatException : InvalidFileFormatException
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor)() | Инициализирует новый экземпляр класса `InvalidCgmFileFormatException`. |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_1)(Exception) | Инициализирует новый экземпляр класса `InvalidCgmFileFormatException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_1)(Exception) | Инициализирует новый экземпляр класса `InvalidCgmFileFormatException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной данного исключения. |
 | [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_2)(string) | Инициализирует новый экземпляр класса `InvalidCgmFileFormatException`. |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_3)(string, Exception) | Инициализирует новый экземпляр класса `InvalidCgmFileFormatException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_3)(string, Exception) | Инициализирует новый экземпляр класса `InvalidCgmFileFormatException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной данного исключения. |
 
-### See Also
+### См. также
 
 * class [InvalidFileFormatException](../invalidfileformatexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

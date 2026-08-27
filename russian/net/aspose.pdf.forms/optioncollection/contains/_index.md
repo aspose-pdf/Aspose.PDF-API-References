@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OptionCollection. Проверяет, существует ли элемент в коллекции, выбрасывает NotImplementedException
+title: "OptionCollection.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OptionCollection. Проверяет, существует ли элемент в коллекции, бросает NotImplementedException"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.forms/optioncollection/contains/
 ---
-## Метод OptionCollection.Contains
+## OptionCollection.Contains method
 
-Проверяет, существует ли элемент в коллекции, выбрасывает NotImplementedException.
+Проверяет, существует ли элемент в коллекции, бросает NotImplementedException.
 
 ```csharp
 public bool Contains(Option item)
@@ -16,15 +16,17 @@ public bool Contains(Option item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | Option | Элемент оператора для поиска. |
+| item | Опция | Элемент оператора для поиска. |
 
 ### Возвращаемое значение
 
-Выбрасывает NotImplementedException
+Брасывает NotImplementedException
 
 ### См. также
 
-* класс [Option](../../option/)
-* класс [OptionCollection](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

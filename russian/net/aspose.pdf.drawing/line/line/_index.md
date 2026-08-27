@@ -1,12 +1,12 @@
 ---
-title: Line.Line
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Line. Инициализирует новый экземпляр класса Line
+title: "Line.Line"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Line. Инициализирует новый экземпляр класса Line"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/line/line/
 ---
-## Конструктор Line
+## Line constructor
 
 Инициализирует новый экземпляр класса [`Line`](../).
 
@@ -20,6 +20,8 @@ public Line(float[] positionArray)
 
 ### См. также
 
-* класс [Line](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Line](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

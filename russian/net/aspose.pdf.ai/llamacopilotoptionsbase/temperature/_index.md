@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaCopilotOptionsBase. Получает или устанавливает температуру выборки, которую следует использовать для модели
+title: "LlamaCopilotOptionsBase.Temperature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaCopilotOptionsBase. Получает или задает температуру выборки, используемую для модели"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/llamacopilotoptionsbase/temperature/
 ---
-## Свойство LlamaCopilotOptionsBase.Temperature
+## LlamaCopilotOptionsBase.Temperature property
 
-Получает или устанавливает температуру выборки, которую следует использовать для модели.
+Получает или задаёт температуру выборки, используемую для модели.
 
 ```csharp
 public double? Temperature { get; set; }
@@ -16,6 +16,8 @@ public double? Temperature { get; set; }
 
 ### См. также
 
-* класс [LlamaCopilotOptionsBase](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.Stream
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompletionCreateRequest. Получает или устанавливает, использовать ли потоковую передачу. Если установлено, частичные изменения сообщений будут отправлены, как в ChatGPT. Токены будут отправлены как события, отправляемые сервером только с данными, по мере их появления, при этом поток будет завершен сообщением данных DONE
+title: "CompletionCreateRequest.Stream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CompletionCreateRequest. Получает или задает, использовать ли потоковую передачу. Если включено, частичные изменения сообщений будут отправляться, как в ChatGPT. Токены будут отправляться как события server‑sent events только с данными по мере их появления, а поток будет завершён сообщением data DONE."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.ai/completioncreaterequest/stream/
 ---
-## Свойство CompletionCreateRequest.Stream
+## CompletionCreateRequest.Stream property
 
-Получает или устанавливает, использовать ли потоковую передачу. Если установлено, частичные изменения сообщений будут отправлены, как в ChatGPT. Токены будут отправлены как события, отправляемые сервером только с данными, по мере их появления, при этом поток будет завершен сообщением данных: [DONE].
+Получает или задает, использовать ли потоковую передачу. Если включено, частичные дельты сообщений будут отправляться, как в ChatGPT. Токены будут отправляться как события только с данными, когда они становятся доступными, а поток будет завершён сообщением data: [DONE].
 
 ```csharp
 public bool? Stream { get; set; }
@@ -16,6 +16,8 @@ public bool? Stream { get; set; }
 
 ### См. также
 
-* класс [CompletionCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

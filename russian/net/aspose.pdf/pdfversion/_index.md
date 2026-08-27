@@ -1,14 +1,14 @@
 ---
-title: Enum PdfVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.PdfVersion. Этот перечисляемый тип представляет версию pdf файла
+title: "Перечисление PdfVersion"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.PdfVersion перечисление. Это перечисление представляет версию PDF‑файла."
 type: docs
-weight: 8450
+weight: 8580
 url: /ru/net/aspose.pdf/pdfversion/
 ---
-## Перечисление PdfVersion
+## PdfVersion enumeration
 
-Этот перечисляемый тип представляет версию pdf файла.
+Этот перечисление представляет версию pdf‑файла.
 
 ```csharp
 public enum PdfVersion
@@ -30,5 +30,7 @@ public enum PdfVersion
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

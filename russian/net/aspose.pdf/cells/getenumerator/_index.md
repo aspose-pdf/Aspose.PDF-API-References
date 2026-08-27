@@ -1,12 +1,12 @@
 ---
-title: Cells.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Cells. Получает перечислитель коллекции
+title: "Cells.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Cells. Получает перечислитель коллекций"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/cells/getenumerator/
 ---
-## Метод Cells.GetEnumerator
+## Cells.GetEnumerator method
 
 Получает перечислитель коллекции.
 
@@ -20,7 +20,9 @@ public IEnumerator<Cell> GetEnumerator()
 
 ### См. также
 
-* класс [Cell](../../cell/)
-* класс [Cells](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

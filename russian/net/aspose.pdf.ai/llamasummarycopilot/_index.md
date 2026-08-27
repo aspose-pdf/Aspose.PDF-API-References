@@ -1,45 +1,45 @@
 ---
-title: Class LlamaSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.LlamaSummaryCopilot. Предоставляет функциональность для получения резюме документов с использованием AI моделей. Пример использования создания клиента Llama, настройки параметров и использования помощника по резюме. Примечание Этот помощник использует API завершения, поэтому общее количество текста, которое можно отправить, ограничено контекстным окном модели.
+title: "Класс LlamaSummaryCopilot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.LlamaSummaryCopilot. Предоставляет функциональность для получения резюме документов с использованием AI‑моделей. Пример использования: создание клиента Llama, настройка параметров и использование помощника резюме. Примечание: этот помощник использует API завершения, поэтому общий объём текста, который можно отправить, ограничен контекстным окном модели."
 type: docs
-weight: 740
+weight: 790
 url: /ru/net/aspose.pdf.ai/llamasummarycopilot/
 ---
-## Класс LlamaSummaryCopilot
+## LlamaSummaryCopilot class
 
-Предоставляет функциональность для получения резюме документов с использованием AI моделей. Пример использования создания клиента Llama, настройки параметров и использования помощника по резюме. Примечание: Этот помощник использует API завершения, поэтому общее количество текста, которое можно отправить, ограничено контекстным окном модели.
+Предоставляет функциональность для получения резюме документов с использованием моделей ИИ. Пример использования: создание клиента Llama, настройка параметров и использование копилота резюме. Примечание: Этот копилот использует API завершения, поэтому общий объём текста, который можно отправить, ограничен контекстным окном модели.
 
 ```csharp
-// Create AI client.
+// Создать AI‑клиент.
 var llamaClient = LlamaClient
    .CreateWithApiKey(ApiKey) // Create Llama client with the API key.
    .Build();
 
-// Create copilot options.
+// Создать параметры помощника.
 var options = LlamaSummaryCopilotOptions
    .Create() // Create options like this, or...
-   //.Create(options => { options.Model = LlamaModels.Llama13BChat; }) // ...create using delegate.
+   //.Create(options => { options.Model = LlamaModels.Llama13BChat; }) // ...создать с помощью делегата.
    .WithTemperature(0.5) // Configure other optional parameters.
    .WithDocument("DocumentInputPath") // .WithDocument methods allows to add text, pdf and paths to documents.
    .WithDocuments(new List<TextDocument>()); // .WithDocuments methods allows to add text, pdf and path collections.
 
-// Create summary copilot.
+// Создать помощника резюме.
 var summaryCopilot = AICopilotFactory.CreateSummaryCopilot(llamaClient, options);
 
-// Get summary text.
+// Получить текст резюме.
 string summaryText = await summaryCopilot.GetSummaryAsync();
 
-// Get summary document.
+// Получить документ резюме.
 Document summaryDocument = await summaryCopilot.GetSummaryDocumentAsync();
 
-// Get summary document with page info.
+// Получить документ резюме с информацией о страницах.
 Document summaryDocumentWithPageInfo = await summaryCopilot.GetSummaryDocumentAsync(new PageInfo());
 
-// Save summary as PDF document.
+// Сохранить резюме как PDF‑документ.
 await summaryCopilot.SaveSummaryAsync("outputPath");
 
-// Save summary with specified format.
+// Сохранить резюме в указанном формате.
 await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 ```
 
@@ -71,6 +71,8 @@ public class LlamaSummaryCopilot : ISummaryCopilot
 
 ### См. также
 
-* интерфейс [ISummaryCopilot](../isummarycopilot/)
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* interface [ISummaryCopilot](../isummarycopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

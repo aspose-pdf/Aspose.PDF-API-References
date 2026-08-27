@@ -1,14 +1,14 @@
 ---
-title: Document.GetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: Метод документа. Получить XMP метаданные из документа
+title: "Document.GetXmpMetadata"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Получить XMP-метаданные из документа"
 type: docs
-weight: 690
+weight: 710
 url: /ru/net/aspose.pdf/document/getxmpmetadata/
 ---
-## Метод Document.GetXmpMetadata
+## Document.GetXmpMetadata method
 
-Получить XMP метаданные из документа.
+Получить XMP‑метаданные из документа.
 
 ```csharp
 public void GetXmpMetadata(Stream stream)
@@ -16,10 +16,12 @@ public void GetXmpMetadata(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, в котором будут храниться метаданные. |
+| stream | Stream | Поток, в котором будут сохранены метаданные. |
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

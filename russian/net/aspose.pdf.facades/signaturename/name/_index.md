@@ -1,12 +1,12 @@
 ---
-title: SignatureName.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SignatureName. Получает имя подписи
+title: "SignatureName.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SignatureName. Получает имя подписи"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/signaturename/name/
 ---
-## Поле SignatureName.Name
+## SignatureName.Name field
 
 Получает имя подписи.
 
@@ -16,6 +16,8 @@ public readonly string Name;
 
 ### См. также
 
-* класс [SignatureName](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LlamaSummaryCopilotOptions. Устанавливает температуру для параметров копилота резюме
+title: "LlamaSummaryCopilotOptions.WithTemperature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LlamaSummaryCopilotOptions. Устанавливает температуру для параметров помощника резюмирования"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.ai/llamasummarycopilotoptions/withtemperature/
 ---
-## Метод LlamaSummaryCopilotOptions.WithTemperature
+## LlamaSummaryCopilotOptions.WithTemperature method
 
-Устанавливает температуру для параметров копилота резюме.
+Устанавливает температуру для параметров сопилота резюме.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithTemperature(double? temperature)
@@ -16,7 +16,7 @@ public LlamaSummaryCopilotOptions WithTemperature(double? temperature)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| temperature | Nullable`1 | Температура для установки. |
+| температура | Nullable`1 | Температуру для установки. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public LlamaSummaryCopilotOptions WithTemperature(double? temperature)
 
 ### См. также
 
-* класс [LlamaSummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

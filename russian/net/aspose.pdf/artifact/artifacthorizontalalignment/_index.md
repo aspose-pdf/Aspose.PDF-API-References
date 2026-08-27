@@ -1,12 +1,12 @@
 ---
-title: Artifact.ArtifactHorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство артефакта. Горизонтальное выравнивание артефакта. Если позиция указана явно в свойстве Position, это значение игнорируется
+title: "Artifact.ArtifactHorizontalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Artifact. Горизонтальное выравнивание артефакта. Если позиция указана явно в свойстве Position, это значение игнорируется"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/artifact/artifacthorizontalalignment/
 ---
-## Свойство Artifact.ArtifactHorizontalAlignment
+## Artifact.ArtifactHorizontalAlignment property
 
 Горизонтальное выравнивание артефакта. Если позиция указана явно (в свойстве Position), это значение игнорируется.
 
@@ -20,3 +20,5 @@ public HorizontalAlignment ArtifactHorizontalAlignment { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

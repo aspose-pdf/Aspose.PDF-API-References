@@ -1,14 +1,14 @@
 ---
-title: ButtonField.ICPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ButtonField. Получает или устанавливает позицию заголовка значка
+title: "ButtonField.ICPosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ButtonField. Получает или задает позицию подписи иконки"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.forms/buttonfield/icposition/
 ---
-## Свойство ButtonField.ICPosition
+## ButtonField.ICPosition property
 
-Получает или устанавливает позицию заголовка значка.
+Получает или задаёт положение подписи значка.
 
 ```csharp
 public IconCaptionPosition ICPosition { get; set; }
@@ -20,3 +20,5 @@ public IconCaptionPosition ICPosition { get; set; }
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

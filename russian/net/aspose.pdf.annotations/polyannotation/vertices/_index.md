@@ -1,12 +1,12 @@
 ---
-title: PolyAnnotation.Vertices
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PolyAnnotation. Получает или задает массив точек, представляющих горизонтальные и вертикальные координаты каждой вершины
+title: "PolyAnnotation.Vertices"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PolyAnnotation. Получает или задает массив точек, представляющих горизонтальные и вертикальные координаты каждой вершины"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/polyannotation/vertices/
 ---
-## Свойство PolyAnnotation.Vertices
+## PolyAnnotation.Vertices property
 
 Получает или задает массив точек, представляющих горизонтальные и вертикальные координаты каждой вершины.
 
@@ -16,7 +16,9 @@ public Point[] Vertices { get; set; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [PolyAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [PolyAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

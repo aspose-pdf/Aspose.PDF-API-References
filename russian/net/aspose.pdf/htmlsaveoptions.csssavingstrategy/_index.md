@@ -1,14 +1,14 @@
 ---
-title: Delegate HtmlSaveOptions.CssSavingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Вы можете назначить этому свойству пользовательскую стратегию, которая реализует обработку и/или сохранение одной части CSS, созданной во время конвертации PDF в HTML. В таком случае обработка должна выполняться в этом пользовательском коде
+title: "Делегат HtmlSaveOptions.CssSavingStrategy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Вы можете присвоить этому свойству пользовательскую стратегию, реализующую обработку и/или сохранение одной части CSS, созданной во время конвертации PDF в HTML. В таком случае обработка, например сохранение в поток или на диск, должна выполняться в этом пользовательском коде."
 type: docs
-weight: 5590
+weight: 5720
 url: /ru/net/aspose.pdf/htmlsaveoptions.csssavingstrategy/
 ---
-## Делегат HtmlSaveOptions.CssSavingStrategy
+## HtmlSaveOptions.CssSavingStrategy delegate
 
-Вы можете назначить этому свойству пользовательскую стратегию, которая реализует обработку и/или сохранение одной части CSS, созданной во время конвертации PDF в HTML. В таком случае обработка (например, сохранение в поток или на диск) должна выполняться в этом пользовательском коде
+Вы можете присвоить этому свойству пользовательскую стратегию, реализующую обработку и/или сохранение одной части CSS, созданной во время конвертации PDF в HTML. В таком случае обработка (например сохранение в поток или на диск) должна выполняться в этом пользовательском коде.
 
 ```csharp
 public delegate void CssSavingStrategy(CssSavingInfo partSavingInfo);
@@ -16,11 +16,13 @@ public delegate void CssSavingStrategy(CssSavingInfo partSavingInfo);
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| partSavingInfo | CssSavingInfo | представляет набор данных, который может быть использован для сохранения предоставленной части CSS |
+| partSavingInfo | CssSavingInfo | представляет набор данных, который может использоваться для сохранения предоставленной части CSS |
 
 ### См. также
 
-* класс [CssSavingInfo](../htmlsaveoptions.csssavinginfo/)
-* класс [HtmlSaveOptions](../htmlsaveoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [CssSavingInfo](../htmlsaveoptions.csssavinginfo/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

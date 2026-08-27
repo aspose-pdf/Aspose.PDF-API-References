@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.NamespaceURI
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpPdfAExtensionSchemaDescription. Получает URI пространства имен
+title: "XmpPdfAExtensionSchemaDescription.NamespaceURI"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpPdfAExtensionSchemaDescription. Возвращает URI пространства имен."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/
 ---
-## Свойство XmpPdfAExtensionSchemaDescription.NamespaceURI
+## XmpPdfAExtensionSchemaDescription.NamespaceURI property
 
 Получает URI пространства имен.
 
@@ -16,6 +16,8 @@ public string NamespaceURI { get; }
 
 ### См. также
 
-* класс [XmpPdfAExtensionSchemaDescription](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchemaDescription](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

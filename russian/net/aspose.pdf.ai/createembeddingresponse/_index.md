@@ -1,14 +1,14 @@
 ---
-title: Class CreateEmbeddingResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.CreateEmbeddingResponse. Представляет ответ от конечной точки Создать Встраивания
+title: "Класс CreateEmbeddingResponse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AI.CreateEmbeddingResponse class. Представляет ответ от конечной точки Create Embeddings."
 type: docs
-weight: 270
+weight: 280
 url: /ru/net/aspose.pdf.ai/createembeddingresponse/
 ---
-## Класс CreateEmbeddingResponse
+## CreateEmbeddingResponse class
 
-Представляет ответ от конечной точки Создать Встраивания.
+Представляет ответ от конечной точки Create Embeddings.
 
 ```csharp
 public class CreateEmbeddingResponse
@@ -24,12 +24,14 @@ public class CreateEmbeddingResponse
 
 | Имя | Описание |
 | --- | --- |
-| [Data](../../aspose.pdf.ai/createembeddingresponse/data/) { get; set; } | Получает или задает список объектов встраивания. |
-| [Model](../../aspose.pdf.ai/createembeddingresponse/model/) { get; set; } | Получает или задает модель, используемую для встраивания. |
-| [Object](../../aspose.pdf.ai/createembeddingresponse/object/) { get; set; } | Получает или задает тип объекта, который всегда является списком. |
-| [Usage](../../aspose.pdf.ai/createembeddingresponse/usage/) { get; set; } | Получает или задает статистику использования для запроса встраивания. |
+| [Data](../../aspose.pdf.ai/createembeddingresponse/data/) { get; set; } | Получает или задаёт список объектов embedding. |
+| [Model](../../aspose.pdf.ai/createembeddingresponse/model/) { get; set; } | Получает или задаёт модель, используемую для embedding. |
+| [Object](../../aspose.pdf.ai/createembeddingresponse/object/) { get; set; } | Получает или задаёт тип объекта, который всегда равен list. |
+| [Usage](../../aspose.pdf.ai/createembeddingresponse/usage/) { get; set; } | Получает или задаёт статистику использования для запроса embedding. |
 
-### См. Также
+### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

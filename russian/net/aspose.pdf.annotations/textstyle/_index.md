@@ -1,14 +1,14 @@
 ---
-title: Class TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.TextStyle. Класс представляет стиль текста в аннотации
+title: "Класс TextStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.TextStyle class. Класс, представляющий стиль текста в аннотации"
 type: docs
-weight: 2680
+weight: 2780
 url: /ru/net/aspose.pdf.annotations/textstyle/
 ---
-## Класс TextStyle
+## TextStyle class
 
-Класс представляет стиль текста в аннотации
+Класс представляет стиль текста в аннотации.
 
 ```csharp
 public class TextStyle
@@ -21,7 +21,7 @@ public class TextStyle
 | [Color](../../aspose.pdf.annotations/textstyle/color/) { get; set; } | Цвет текста. |
 | [FontName](../../aspose.pdf.annotations/textstyle/fontname/) { get; set; } | Название шрифта. |
 | [FontSize](../../aspose.pdf.annotations/textstyle/fontsize/) { get; set; } | Размер шрифта. |
-| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment/) { get; set; } | Выравнивание текста. Допустимые значения: Слева, По центру, Справа. |
+| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment/) { get; set; } | Выравнивание текста. Допустимые значения: Left, Center, Right. |
 
 ## Методы
 
@@ -31,5 +31,7 @@ public class TextStyle
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

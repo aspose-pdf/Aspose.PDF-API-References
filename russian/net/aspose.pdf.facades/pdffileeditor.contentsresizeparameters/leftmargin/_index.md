@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.LeftMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ContentsResizeParameters. Получает или задает левый отступ на результирующей странице
+title: "PdfFileEditor.ContentsResizeParameters.LeftMargin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ContentsResizeParameters. Получает или задает левый отступ на результирующей странице."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/leftmargin/
 ---
-## Свойство PdfFileEditor.ContentsResizeParameters.LeftMargin
+## PdfFileEditor.ContentsResizeParameters.LeftMargin property
 
-Получает или задает левый отступ на результирующей странице.
+Получает или задаёт левое поле результирующей страницы.
 
 ```csharp
 public ContentsResizeValue LeftMargin { get; set; }
@@ -16,7 +16,9 @@ public ContentsResizeValue LeftMargin { get; set; }
 
 ### См. также
 
-* класс [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
-* класс [ContentsResizeParameters](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

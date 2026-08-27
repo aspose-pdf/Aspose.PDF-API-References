@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Response
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormEditor. Получает или устанавливает объект Response, в котором будет храниться результат операции
+title: "FormEditor.Response"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormEditor. Получает или задаёт объект Response, в котором будет храниться результат операции"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/formeditor/response/
 ---
-## Свойство FormEditor.Response
+## FormEditor.Response property
 
-Получает или устанавливает объект Response, в котором будет храниться результат операции.
+Получает или задаёт объект Response, в котором будет храниться результат операции.
 
 ```csharp
 public HttpResponse Response { get; set; }
@@ -16,6 +16,8 @@ public HttpResponse Response { get; set; }
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

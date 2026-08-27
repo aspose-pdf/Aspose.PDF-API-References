@@ -1,12 +1,12 @@
 ---
-title: NamedDestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NamedDestinationCollection. Количество именованных назначений
+title: "NamedDestinationCollection.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NamedDestinationCollection. Количество именованных назначений"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/nameddestinationcollection/count/
 ---
-## Свойство NamedDestinationCollection.Count
+## NamedDestinationCollection.Count property
 
 Количество именованных назначений.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [NamedDestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

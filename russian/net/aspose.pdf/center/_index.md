@@ -1,14 +1,14 @@
 ---
-title: Class Center
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Center. Представляет настройки выравнивания по центру для данных заголовка и нижнего колонтитула
+title: "Класс Center"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Center. Представляет настройки центрированного выравнивания данных верхнего и нижнего колонтитулов."
 type: docs
-weight: 2990
+weight: 3100
 url: /ru/net/aspose.pdf/center/
 ---
-## Класс Центр
+## Center class
 
-Представляет настройки выравнивания по центру для данных заголовка и нижнего колонтитула.
+Представляет настройки центрированного выравнивания данных заголовка и нижнего колонтитула.
 
 ```csharp
 public sealed class Center : HeaderFooterData
@@ -24,11 +24,13 @@ public sealed class Center : HeaderFooterData
 
 | Имя | Описание |
 | --- | --- |
-| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Получает или задает настройки даты. |
-| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Получает или задает настройки номера страницы. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Получает или задает параметры даты. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Получает или задает параметры номера страницы. |
 
 ### См. также
 
-* класс [HeaderFooterData](../headerfooterdata/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

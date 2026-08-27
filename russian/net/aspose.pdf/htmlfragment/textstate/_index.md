@@ -1,14 +1,14 @@
 ---
-title: HtmlFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlFragment. Получает или устанавливает шрифт
+title: "HtmlFragment.TextState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlFragment. Получает или задает шрифт"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/htmlfragment/textstate/
 ---
-## Свойство HtmlFragment.TextState
+## HtmlFragment.TextState property
 
-Получает или устанавливает шрифт
+Получает или задает шрифт
 
 ```csharp
 public TextState TextState { get; set; }
@@ -16,7 +16,9 @@ public TextState TextState { get; set; }
 
 ### См. также
 
-* класс [TextState](../../../aspose.pdf.text/textstate/)
-* класс [HtmlFragment](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

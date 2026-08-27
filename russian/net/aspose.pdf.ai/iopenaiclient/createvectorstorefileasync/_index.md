@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Создает новый файл векторного хранилища асинхронно
+title: "IOpenAIClient.CreateVectorStoreFileAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно создает новый файл векторного хранилища."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.ai/iopenaiclient/createvectorstorefileasync/
 ---
-## Метод IOpenAIClient.CreateVectorStoreFileAsync
+## IOpenAIClient.CreateVectorStoreFileAsync method
 
-Создает новый файл векторного хранилища асинхронно.
+Создает новый файл хранилища векторов асинхронно.
 
 ```csharp
 public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorStoreId, 
@@ -19,12 +19,12 @@ public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorSto
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | vectorStoreId | String | Идентификатор векторного хранилища, в котором будет создан файл. |
-| vectorStoreFileCreateRequest | VectorStoreFileCreateRequest | Объект запроса, содержащий детали для создания файла. |
+| vectorStoreFileCreateRequest | VectorStoreFileCreateRequest | Объект запроса, содержащий детали создания файла. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит ответ на создание файла.
+Задача, представляющая асинхронную операцию. Результат задачи содержит ответ от создания файла.
 
 ### Исключения
 
@@ -34,8 +34,10 @@ public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorSto
 
 ### См. также
 
-* класс [VectorStoreFileResponse](../../vectorstorefileresponse/)
-* класс [VectorStoreFileCreateRequest](../../vectorstorefilecreaterequest/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
+* class [VectorStoreFileCreateRequest](../../vectorstorefilecreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

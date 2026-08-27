@@ -1,14 +1,14 @@
 ---
-title: Table.CornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство таблицы. Получает или устанавливает стили углов границ
+title: "Table.CornerStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Table. Получает или задает стили углов границы"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/table/cornerstyle/
 ---
-## Свойство Table.CornerStyle
+## Table.CornerStyle property
 
-Получает или устанавливает стили углов границ
+Получает или задает стили углов границы
 
 ```csharp
 public BorderCornerStyle CornerStyle { get; set; }
@@ -20,3 +20,5 @@ public BorderCornerStyle CornerStyle { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

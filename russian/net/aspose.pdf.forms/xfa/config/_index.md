@@ -1,12 +1,12 @@
 ---
-title: XFA.Config
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XFA. Компонент XFA Config формы XFA
+title: "XFA.Config"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XFA. Компонент XFA Config XFA‑формы."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/xfa/config/
 ---
-## Свойство XFA.Config
+## XFA.Config property
 
 Компонент XFA Config формы XFA.
 
@@ -16,6 +16,8 @@ public XmlNode Config { get; }
 
 ### См. также
 
-* класс [XFA](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

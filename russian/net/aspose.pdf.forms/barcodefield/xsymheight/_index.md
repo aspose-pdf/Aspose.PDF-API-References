@@ -1,14 +1,14 @@
 ---
-title: BarcodeField.XSymHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BarcodeField. Получает вертикальное расстояние между двумя модулями штрих-кода, измеренное в пикселях. Соотношение XSymHeight/XSymWidth должно быть целым числом. Для PDF417 допустимый диапазон соотношений составляет от 1 до 4. Для QRCode и DataMatrix это соотношение всегда должно быть 1
+title: "BarcodeField.XSymHeight"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "BarcodeField свойство. Получает вертикальное расстояние между двумя модулями штрихкода, измеренное в пикселях. Отношение XSymHeight/XSymWidth должно быть целым числом. Для PDF417 допустимый диапазон отношения от 1 до 4. Для QRCode и DataMatrix это отношение всегда равно 1."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.forms/barcodefield/xsymheight/
 ---
-## Свойство BarcodeField.XSymHeight
+## BarcodeField.XSymHeight property
 
-Получает вертикальное расстояние между двумя модулями штрих-кода, измеренное в пикселях. Соотношение XSymHeight/XSymWidth должно быть целым числом. Для PDF417 допустимый диапазон соотношений составляет от 1 до 4. Для QRCode и DataMatrix это соотношение всегда должно быть 1
+Получает вертикальное расстояние между двумя модулями штрихкода, измеряемое в пикселях. Отношение XSymHeight/XSymWidth должно быть целым числом. Для PDF417 допустимый диапазон отношения от 1 до 4. Для QRCode и DataMatrix это отношение всегда должно быть 1.
 
 ```csharp
 public int XSymHeight { get; }
@@ -16,6 +16,8 @@ public int XSymHeight { get; }
 
 ### См. также
 
-* класс [BarcodeField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

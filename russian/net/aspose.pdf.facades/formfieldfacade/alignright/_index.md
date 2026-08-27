@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.AlignRight
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет выравнивание по правому краю
+title: "FormFieldFacade.AlignRight"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Определяет стиль выравнивания по правому краю"
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf.facades/formfieldfacade/alignright/
 ---
-## Поле FormFieldFacade.AlignRight
+## FormFieldFacade.AlignRight field
 
 Определяет выравнивание по правому краю.
 
@@ -16,6 +16,8 @@ public const int AlignRight;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

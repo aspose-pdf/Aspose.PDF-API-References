@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.FractionSeparator
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NumberFormat. Текст, который будет использоваться в качестве десятичного разделителя при отображении числовых значений. Пустая строка указывает на использование значения по умолчанию. Значение по умолчанию - символ точки.
+title: "Measure.NumberFormat.FractionSeparator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NumberFormat. Текст, который будет использоваться в качестве десятичного разделителя при отображении числовых значений. Пустая строка указывает, что следует использовать значение по умолчанию. По умолчанию — точка."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/fractionseparator/
 ---
-## Свойство Measure.NumberFormat.FractionSeparator
+## Measure.NumberFormat.FractionSeparator property
 
-Текст, который будет использоваться в качестве десятичного разделителя при отображении числовых значений. Пустая строка указывает на использование значения по умолчанию. Значение по умолчанию - символ точки.
+Текст, который будет использоваться в качестве десятичного разделителя при отображении числовых значений. Пустая строка указывает, что будет использоваться значение по умолчанию. По умолчанию — точка.
 
 ```csharp
 public string FractionSeparator { get; set; }
@@ -16,6 +16,8 @@ public string FractionSeparator { get; set; }
 
 ### См. также
 
-* класс [NumberFormat](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

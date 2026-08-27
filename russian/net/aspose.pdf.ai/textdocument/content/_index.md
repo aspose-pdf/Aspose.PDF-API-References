@@ -1,14 +1,14 @@
 ---
-title: TextDocument.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextDocument. Получает или устанавливает содержимое текстового документа
+title: "TextDocument.Content"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextDocument. Получает или задает содержимое текстового документа."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/textdocument/content/
 ---
-## Свойство TextDocument.Content
+## TextDocument.Content property
 
-Получает или устанавливает содержимое текстового документа.
+Получает или задает содержимое текстового документа.
 
 ```csharp
 public string Content { get; set; }
@@ -16,6 +16,8 @@ public string Content { get; set; }
 
 ### См. также
 
-* класс [TextDocument](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [TextDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

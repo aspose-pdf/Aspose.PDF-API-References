@@ -1,14 +1,14 @@
 ---
-title: XFA.Template
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XFA. Компонент шаблона XFA формы
+title: "XFA.Template"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XFA. Компонент XFA Template XFA-формы"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/xfa/template/
 ---
-## Свойство XFA.Template
+## XFA.Template property
 
-Компонент шаблона XFA формы.
+Компонент шаблона XFA в форме XFA.
 
 ```csharp
 public XmlNode Template { get; }
@@ -16,6 +16,8 @@ public XmlNode Template { get; }
 
 ### См. также
 
-* класс [XFA](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Operator
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImagePlacement. Оператор, используемый для отображения изображения
+title: "ImagePlacement.Operator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImagePlacement. Оператор, используемый для отображения изображения."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/imageplacement/operator/
 ---
-## Свойство ImagePlacement.Operator
+## ImagePlacement.Operator property
 
 Оператор, используемый для отображения изображения.
 
@@ -16,7 +16,9 @@ public Operator Operator { get; }
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [ImagePlacement](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

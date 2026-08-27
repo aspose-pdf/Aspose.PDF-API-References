@@ -1,14 +1,14 @@
 ---
-title: Color.Transparent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Color. Получает системно определенный цвет
+title: "Color.Transparent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Получает системный цвет"
 type: docs
 weight: 1350
 url: /ru/net/aspose.pdf/color/transparent/
 ---
-## Свойство Color.Transparent
+## Color.Transparent property
 
-Получает системно определенный цвет.
+Получает системно определённый цвет.
 
 ```csharp
 public static Color Transparent { get; }
@@ -16,10 +16,12 @@ public static Color Transparent { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

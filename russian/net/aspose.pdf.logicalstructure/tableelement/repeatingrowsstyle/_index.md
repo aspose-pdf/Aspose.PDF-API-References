@@ -1,14 +1,14 @@
 ---
-title: TableElement.RepeatingRowsStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableElement. Получает стиль для повторяющихся строк
+title: "TableElement.RepeatingRowsStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableElement. Получает стиль повторяющихся строк"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.logicalstructure/tableelement/repeatingrowsstyle/
 ---
-## Свойство TableElement.RepeatingRowsStyle
+## TableElement.RepeatingRowsStyle property
 
-Получает стиль для повторяющихся строк.
+Получает стиль повторяющихся строк.
 
 ```csharp
 public TextState RepeatingRowsStyle { get; set; }
@@ -16,7 +16,9 @@ public TextState RepeatingRowsStyle { get; set; }
 
 ### См. также
 
-* класс [TextState](../../../aspose.pdf.text/textstate/)
-* класс [TableElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

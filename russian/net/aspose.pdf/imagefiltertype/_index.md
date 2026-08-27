@@ -1,12 +1,12 @@
 ---
-title: Enum ImageFilterType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ImageFilterType Aspose.Pdf. Перечисление, представляющее тип фильтра изображения
+title: "Перечисление ImageFilterType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.ImageFilterType enum. Перечисление, представляющее тип фильтра изображения."
 type: docs
-weight: 5890
+weight: 6020
 url: /ru/net/aspose.pdf/imagefiltertype/
 ---
-## Перечисление ImageFilterType
+## ImageFilterType enumeration
 
 Перечисление, представляющее тип фильтра изображения.
 
@@ -21,9 +21,11 @@ public enum ImageFilterType
 | Jpeg2000 | `0` | Jpeg 2000. |
 | Jpeg | `1` | Jpeg. |
 | Flate | `2` | Flate. |
-| CCITTFax | `3` | CCIT Fax. |
+| CCITTFax | `3` | CCIT Факс. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

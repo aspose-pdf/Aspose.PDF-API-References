@@ -1,7 +1,7 @@
 ---
-title: InvalidCgmFileFormatException.InvalidCgmFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор InvalidCgmFileFormatException. Инициализирует новый экземпляр класса InvalidCgmFileFormatException
+title: "InvalidCgmFileFormatException.InvalidCgmFileFormatException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор InvalidCgmFileFormatException. Инициализирует новый экземпляр класса InvalidCgmFileFormatException"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/invalidcgmfileformatexception/invalidcgmfileformatexception/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/invalidcgmfileformatexception/invalidcgmfileformatexcept
 public InvalidCgmFileFormatException()
 ```
 
-### See Also
+### См. также
 
 * class [InvalidCgmFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,11 +30,11 @@ public InvalidCgmFileFormatException()
 public InvalidCgmFileFormatException(string message)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | message | String | Сообщение. |
 
-### See Also
+### См. также
 
 * class [InvalidCgmFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -44,18 +44,18 @@ public InvalidCgmFileFormatException(string message)
 
 ## InvalidCgmFileFormatException(string, Exception) {#constructor_3}
 
-Инициализирует новый экземпляр класса [`InvalidCgmFileFormatException`](../) с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр класса [`InvalidCgmFileFormatException`](../) с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной данного исключения.
 
 ```csharp
 public InvalidCgmFileFormatException(string message, Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об ошибке, которое объясняет причину исключения. |
-| innerException | Exception | Исключение, которое является причиной текущего исключения, или ссылка null (Nothing в Visual Basic), если внутреннее исключение не указано. |
+| message | String | Сообщение об ошибке, объясняющее причину исключения. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или null‑ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
-### See Also
+### См. также
 
 * class [InvalidCgmFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -65,18 +65,20 @@ public InvalidCgmFileFormatException(string message, Exception innerException)
 
 ## InvalidCgmFileFormatException(Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса [`InvalidCgmFileFormatException`](../) с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр класса [`InvalidCgmFileFormatException`](../) с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной данного исключения.
 
 ```csharp
 public InvalidCgmFileFormatException(Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, которое является причиной текущего исключения, или ссылка null (Nothing в Visual Basic), если внутреннее исключение не указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или null‑ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
-### See Also
+### См. также
 
 * class [InvalidCgmFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TabStops.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TabStops. Клонирует новые объекты TabStops
+title: "TabStops.Clone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TabStops. Клонирует новый объект TabStops."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/tabstops/clone/
 ---
-## Метод TabStops.Clone
+## TabStops.Clone method
 
-Клонирует новые [`TabStops`](../) объекты.
+Клонирует новый объект [`TabStops`](../).
 
 ```csharp
 public object Clone()
@@ -16,10 +16,12 @@ public object Clone()
 
 ### Возвращаемое значение
 
-Новый [`TabStops`](../) объект.
+Новый объект [`TabStops`](../).
 
 ### См. также
 
-* класс [TabStops](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

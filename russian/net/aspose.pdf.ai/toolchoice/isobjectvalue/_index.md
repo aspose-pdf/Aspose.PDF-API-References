@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.IsObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ToolChoice. Получает значение, указывающее, является ли ToolChoice объектным значением
+title: "ToolChoice.IsObjectValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ToolChoice. Возвращает значение, указывающее, является ли ToolChoice объектным значением"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/toolchoice/isobjectvalue/
 ---
-## Свойство ToolChoice.IsObjectValue
+## ToolChoice.IsObjectValue property
 
 Получает значение, указывающее, является ли ToolChoice объектным значением.
 
@@ -16,6 +16,8 @@ public bool IsObjectValue { get; }
 
 ### См. также
 
-* класс [ToolChoice](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ToolChoice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

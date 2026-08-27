@@ -1,14 +1,14 @@
 ---
-title: XpsSaveOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XpsSaveOptions. Определяет размер партии, если пакетное преобразование применимо к паре форматов источника и назначения
+title: "XpsSaveOptions.BatchSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XpsSaveOptions. Определяет размер пакета, если пакетная конверсия применима к паре форматов источника и назначения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/xpssaveoptions/batchsize/
 ---
-## Свойство XpsSaveOptions.BatchSize
+## XpsSaveOptions.BatchSize property
 
-Определяет размер партии, если пакетное преобразование применимо к паре форматов источника и назначения.
+Определяет размер пакета, если пакетное преобразование применимо к паре исходного и целевого форматов.
 
 ```csharp
 public int BatchSize { get; set; }
@@ -16,6 +16,8 @@ public int BatchSize { get; set; }
 
 ### См. также
 
-* класс [XpsSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XpsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

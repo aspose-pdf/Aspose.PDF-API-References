@@ -1,14 +1,14 @@
 ---
-title: PclLoadOptions.SupressErrors
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PclLoadOptions. Получает или устанавливает логическое значение, которое указывает, следует ли подавлять ошибки конвертации PCL
+title: "PclLoadOptions.SupressErrors"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PclLoadOptions. Получает или задаёт логическое значение, указывающее, должны ли ошибки конвертации PCL подавляться"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/pclloadoptions/supresserrors/
 ---
-## Поле PclLoadOptions.SupressErrors
+## PclLoadOptions.SupressErrors field
 
-Получает или устанавливает логическое значение, которое указывает, следует ли подавлять ошибки конвертации PCL.
+Получает или задает логическое значение, указывающее, следует ли подавлять ошибки конвертации PCL.
 
 ```csharp
 public bool SupressErrors;
@@ -16,6 +16,8 @@ public bool SupressErrors;
 
 ### См. также
 
-* класс [PclLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PclLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

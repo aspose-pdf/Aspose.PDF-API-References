@@ -1,12 +1,12 @@
 ---
-title: Form.MakeFormAnnotationsIndependent
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Делает аннотации полей формы независимыми
+title: "Form.MakeFormAnnotationsIndependent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Делает аннотации полей формы независимыми."
 type: docs
-weight: 300
+weight: 320
 url: /ru/net/aspose.pdf.forms/form/makeformannotationsindependent/
 ---
-## Метод Form.MakeFormAnnotationsIndependent
+## Form.MakeFormAnnotationsIndependent method
 
 Делает аннотации полей формы независимыми.
 
@@ -16,11 +16,13 @@ public void MakeFormAnnotationsIndependent(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Целевая страница. |
+| страница | Страница | Целевая страница. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

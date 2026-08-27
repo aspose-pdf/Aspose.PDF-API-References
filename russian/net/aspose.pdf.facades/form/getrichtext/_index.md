@@ -1,14 +1,14 @@
 ---
-title: Form.GetRichText
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Получить значение поля Rich Text, включая информацию о форматировании каждого символа
+title: "Form.GetRichText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Получает значение поля Rich Text, включая информацию о форматировании каждого символа"
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf.facades/form/getrichtext/
 ---
-## Метод Form.GetRichText
+## Form.GetRichText method
 
-Получить значение поля Rich Text, включая информацию о форматировании каждого символа.
+Получает значение поля Rich Text, включая информацию о форматировании каждого символа.
 
 ```csharp
 public string GetRichText(string fieldName)
@@ -16,7 +16,7 @@ public string GetRichText(string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Полное имя поля Rich Text. |
+| fieldName | String | Полностью квалифицированное имя поля Rich Text. |
 
 ### Возвращаемое значение
 
@@ -31,6 +31,8 @@ Console.WriteLine(form.GetRichText("txtDescriptionRTF"));
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

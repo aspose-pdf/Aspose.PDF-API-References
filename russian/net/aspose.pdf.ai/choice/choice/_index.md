@@ -1,12 +1,12 @@
 ---
-title: Choice.Choice
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор выбора. Конструктор по умолчанию
+title: "Choice.Choice"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Choice конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/choice/choice/
 ---
-## Конструктор выбора
+## Choice constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Choice()
 
 ### См. также
 
-* класс [Choice](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Choice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

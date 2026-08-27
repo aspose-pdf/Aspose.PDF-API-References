@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldFacade. Цвет фона поля по умолчанию белый
+title: "FormFieldFacade.BackgroundColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormFieldFacade. Цвет фона поля, по умолчанию — белый"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/formfieldfacade/backgroundcolor/
 ---
-## Свойство FormFieldFacade.BackgroundColor
+## FormFieldFacade.BackgroundColor property
 
-Цвет фона поля, по умолчанию белый.
+Цвет фона поля, по умолчанию — белый.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,6 +16,8 @@ public Color BackgroundColor { get; set; }
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

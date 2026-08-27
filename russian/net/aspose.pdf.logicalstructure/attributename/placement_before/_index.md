@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Placement_Before
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут Размещение Перед  Размещен так, чтобы передний край прямоугольника выделения элемента совпадал с краем ближайшей окружающей области ссылки
+title: "AttributeName.Placement_Before"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName поле. Атрибут Placement Before Размещено так, чтобы передний край прямоугольника размещения элемента совпадал с передним краем ближайшей охватывающей справочной области"
 type: docs
 weight: 340
 url: /ru/net/aspose.pdf.logicalstructure/attributename/placement_before/
 ---
-## Поле AttributeName.Placement_Before
+## AttributeName.Placement_Before field
 
-Атрибут Размещение: Перед - Размещен так, чтобы передний край прямоугольника выделения элемента совпадал с краем ближайшей окружающей области ссылки.
+Атрибут Placement: Before - Размещено так, чтобы передний край прямоугольника размещения элемента совпадал с краем ближайшей охватывающей области ссылки.
 
 ```csharp
 public static readonly AttributeName Placement_Before;
@@ -16,6 +16,8 @@ public static readonly AttributeName Placement_Before;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

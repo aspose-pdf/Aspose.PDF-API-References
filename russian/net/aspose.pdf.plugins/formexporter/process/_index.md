@@ -1,12 +1,12 @@
 ---
-title: FormExporter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormExporter. Запускает обработку FormExporter с указанными параметрами
+title: "FormExporter.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormExporter метод. Запускает обработку FormExporter с указанными параметрами"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/formexporter/process/
 ---
-## Метод FormExporter.Process
+## FormExporter.Process method
 
 Запускает обработку FormExporter с указанными параметрами.
 
@@ -26,12 +26,14 @@ public ResultContainer Process(IPluginOptions options)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Если options некорректен. |
+| ArgumentException | Если параметры некорректны. |
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* класс [FormExporter](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [FormExporter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

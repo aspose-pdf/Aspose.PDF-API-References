@@ -1,14 +1,14 @@
 ---
-title: Document.MergeDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Метод документа. Объединяет документы
+title: "Document.MergeDocuments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document метод. Объединяет документы"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/document/mergedocuments/
 ---
 ## MergeDocuments(MergeOptions, params string[]) {#mergedocuments_2}
 
-Объединяет документы.
+Объединяет documents.
 
 ```csharp
 public static Document MergeDocuments(MergeOptions mergeOptions, params string[] files)
@@ -16,25 +16,25 @@ public static Document MergeDocuments(MergeOptions mergeOptions, params string[]
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mergeOptions | MergeOptions | Параметры объединения. |
-| files | String[] | PDF-файлы для объединения. |
+| mergeOptions | MergeOptions | Опции слияния. |
+| файлы | String[] | PDF-файлы для объединения. |
 
 ### Возвращаемое значение
 
-Объединенный документ.
+Объединённый документ.
 
 ### См. также
 
-* класс [MergeOptions](../../document.mergeoptions/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MergeOptions](../../document.mergeoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MergeDocuments(MergeOptions, params Document[]) {#mergedocuments_1}
 
-Объединяет документы.
+Объединяет documents.
 
 ```csharp
 public static Document MergeDocuments(MergeOptions mergeOptions, params Document[] files)
@@ -43,24 +43,24 @@ public static Document MergeDocuments(MergeOptions mergeOptions, params Document
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | mergeOptions | MergeOptions |  |
-| files | Document[] | Документы для объединения. |
+| файлы | Document[] | Документы для объединения. |
 
 ### Возвращаемое значение
 
-Объединенный документ.
+Объединённый документ.
 
 ### См. также
 
-* класс [MergeOptions](../../document.mergeoptions/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MergeOptions](../../document.mergeoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MergeDocuments(params string[]) {#mergedocuments_3}
 
-Объединяет PDF-файлы.
+Объединяет pdf файлы.
 
 ```csharp
 public static Document MergeDocuments(params string[] files)
@@ -68,23 +68,23 @@ public static Document MergeDocuments(params string[] files)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| files | String[] | PDF-файлы для объединения. |
+| файлы | String[] | PDF-файлы для объединения. |
 
 ### Возвращаемое значение
 
-Объединенный документ.
+Объединённый документ.
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MergeDocuments(params Document[]) {#mergedocuments}
 
-Объединяет документы.
+Объединяет documents.
 
 ```csharp
 public static Document MergeDocuments(params Document[] documents)
@@ -92,14 +92,16 @@ public static Document MergeDocuments(params Document[] documents)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| documents | Document[] | Документы для объединения. |
+| документы | Document[] | Документы для объединения. |
 
 ### Возвращаемое значение
 
-Объединенный документ.
+Объединённый документ.
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

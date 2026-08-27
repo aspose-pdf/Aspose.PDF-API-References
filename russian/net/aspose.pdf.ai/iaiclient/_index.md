@@ -1,14 +1,14 @@
 ---
-title: Interface IAIClient
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.AI.IAIClient. Представляет интерфейс для AI клиента
+title: "Интерфейс IAIClient"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.AI.IAIClient. Представляет интерфейс для AI‑клиента"
 type: docs
-weight: 440
+weight: 460
 url: /ru/net/aspose.pdf.ai/iaiclient/
 ---
-## Интерфейс IAIClient
+## IAIClient interface
 
-Представляет интерфейс для AI клиента.
+Представляет интерфейс для AI‑клиента.
 
 ```csharp
 public interface IAIClient
@@ -16,5 +16,7 @@ public interface IAIClient
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

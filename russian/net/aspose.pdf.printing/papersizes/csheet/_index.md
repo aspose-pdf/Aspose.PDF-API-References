@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.CSheet
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага C размером 17 дюймов на 22 дюйма
+title: "PaperSizes.CSheet"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Бумага C 17 дюйм. на 22 дюйм"
 type: docs
 weight: 370
 url: /ru/net/aspose.pdf.printing/papersizes/csheet/
 ---
-## Поле PaperSizes.CSheet
+## PaperSizes.CSheet field
 
-Бумага C (17 дюймов на 22 дюйма).
+Бумага C (17 in. by 22 in.).
 
 ```csharp
 public static readonly PaperSize CSheet;
@@ -16,7 +16,9 @@ public static readonly PaperSize CSheet;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

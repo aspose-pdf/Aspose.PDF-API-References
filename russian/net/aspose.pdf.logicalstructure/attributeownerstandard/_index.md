@@ -1,12 +1,12 @@
 ---
-title: Class AttributeOwnerStandard
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.LogicalStructure.AttributeOwnerStandard. Представляет стандартных владельцев атрибутов
+title: "Класс AttributeOwnerStandard"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.LogicalStructure.AttributeOwnerStandard. Представляет стандартных владельцев атрибутов"
 type: docs
-weight: 6230
+weight: 6370
 url: /ru/net/aspose.pdf.logicalstructure/attributeownerstandard/
 ---
-## Класс AttributeOwnerStandard
+## AttributeOwnerStandard class
 
 Представляет стандартных владельцев атрибутов.
 
@@ -35,15 +35,17 @@ public sealed class AttributeOwnerStandard
 | static readonly [Css_200](../../aspose.pdf.logicalstructure/attributeownerstandard/css_200/) | Владелец атрибута CSS-2.00. |
 | static readonly [Html_320](../../aspose.pdf.logicalstructure/attributeownerstandard/html_320/) | Владелец атрибута HTML-3.20. |
 | static readonly [Html_401](../../aspose.pdf.logicalstructure/attributeownerstandard/html_401/) | Владелец атрибута HTML-4.01. |
-| static readonly [Layout](../../aspose.pdf.logicalstructure/attributeownerstandard/layout/) | Владелец атрибута макета. |
-| static readonly [List](../../aspose.pdf.logicalstructure/attributeownerstandard/list/) | Владелец атрибута списка. |
+| static readonly [Layout](../../aspose.pdf.logicalstructure/attributeownerstandard/layout/) | Владелец атрибута Layout. |
+| static readonly [List](../../aspose.pdf.logicalstructure/attributeownerstandard/list/) | Владелец атрибута List. |
 | static readonly [Oeb_100](../../aspose.pdf.logicalstructure/attributeownerstandard/oeb_100/) | Владелец атрибута OEB-1.00. |
 | static readonly [PrintField](../../aspose.pdf.logicalstructure/attributeownerstandard/printfield/) | Владелец атрибута PrintField. |
 | static readonly [Rtf_105](../../aspose.pdf.logicalstructure/attributeownerstandard/rtf_105/) | Владелец атрибута RTF-1.05. |
-| static readonly [Table](../../aspose.pdf.logicalstructure/attributeownerstandard/table/) | Владелец атрибута таблицы. |
+| static readonly [Table](../../aspose.pdf.logicalstructure/attributeownerstandard/table/) | Владелец атрибута Table. |
 | static readonly [Xml_100](../../aspose.pdf.logicalstructure/attributeownerstandard/xml_100/) | Владелец атрибута XML-1.0.0. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

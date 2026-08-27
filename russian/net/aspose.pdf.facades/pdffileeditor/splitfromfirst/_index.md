@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.SplitFromFirst
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileEditor. Разделяет Pdf файл с первой страницы на указанное место и сохраняет переднюю часть как новый файл
+title: "PdfFileEditor.SplitFromFirst"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileEditor. Разделяет PDF‑файл от первой страницы до указанного места и сохраняет переднюю часть как новый файл"
 type: docs
 weight: 340
 url: /ru/net/aspose.pdf.facades/pdffileeditor/splitfromfirst/
 ---
 ## SplitFromFirst(string, int, string) {#splitfromfirst_1}
 
-Разделяет Pdf файл с первой страницы на указанное место и сохраняет переднюю часть как новый файл.
+Разделяет Pdf файл с первой страницы до указанного места и сохраняет переднюю часть как новый файл.
 
 ```csharp
 public bool SplitFromFirst(string inputFile, int location, string outputFile)
@@ -16,13 +16,13 @@ public bool SplitFromFirst(string inputFile, int location, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Исходный Pdf файл. |
-| location | Int32 | Точка разделения. |
+| inputFile | String | Исходный Pdf‑файл. |
+| место | Int32 | Точка разделения. |
 | outputFile | String | Выходной Pdf файл. |
 
 ### Возвращаемое значение
 
-True для успеха, или false.
+True при успехе, иначе false.
 
 ## Примеры
 
@@ -33,15 +33,15 @@ pfe.SplitFromFirst("input.pdf", 5, "out.pdf");
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SplitFromFirst(Stream, int, Stream) {#splitfromfirst}
 
-Разделяет с начала на указанное место и сохраняет переднюю часть в выходном потоке.
+Разделяет от начала до указанного места и сохраняет переднюю часть в выходной поток.
 
 ```csharp
 public bool SplitFromFirst(Stream inputStream, int location, Stream outputStream)
@@ -49,13 +49,13 @@ public bool SplitFromFirst(Stream inputStream, int location, Stream outputStream
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Исходный поток Pdf файла. |
-| location | Int32 | Точка разделения. |
-| outputStream | Stream | Выходной поток файла. |
+| inputStream | Stream | Поток исходного Pdf‑файла. |
+| место | Int32 | Точка разделения. |
+| outputStream | Stream | Поток выходного файла. |
 
 ### Возвращаемое значение
 
-True для успеха, или false.
+True при успехе, иначе false.
 
 ## Примечания
 
@@ -72,6 +72,8 @@ pfe.SplitFromFirst(sourceStream, 5, outStream);
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

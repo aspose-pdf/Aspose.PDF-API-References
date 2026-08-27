@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.SetMetaInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileInfo. Устанавливает настраиваемую информацию о PDF-документе
+title: "PdfFileInfo.SetMetaInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileInfo. Устанавливает пользовательскую информацию PDF‑документа"
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.facades/pdffileinfo/setmetainfo/
 ---
-## Метод PdfFileInfo.SetMetaInfo
+## PdfFileInfo.SetMetaInfo method
 
-Устанавливает настраиваемую информацию о PDF-документе.
+Устанавливает пользовательскую информацию PDF Document.
 
 ```csharp
 public void SetMetaInfo(string name, string value)
@@ -16,11 +16,13 @@ public void SetMetaInfo(string name, string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Ключ настраиваемого мета-свойства. |
-| value | String | Значение настраиваемого мета-свойства. |
+| имя | String | Пользовательский ключ мета‑свойства. |
+| значение | String | Пользовательское значение мета‑свойства. |
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XslFoLoadOptions.XslFoLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор XslFoLoadOptions. Создает объект XslFoLoadOptions без данных xsl
+title: "XslFoLoadOptions.XslFoLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор XslFoLoadOptions. Создает объект XslFoLoadOptions без данных xsl."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/
 ---
 ## XslFoLoadOptions() {#constructor}
 
-Создает [`XslFoLoadOptions`](../) объект без данных xsl.
+Создает объект [`XslFoLoadOptions`](../) без данных xsl.
 
 ```csharp
 public XslFoLoadOptions()
@@ -16,15 +16,15 @@ public XslFoLoadOptions()
 
 ### См. также
 
-* класс [XslFoLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XslFoLoadOptions(string) {#constructor_2}
 
-Создает [`XslFoLoadOptions`](../) объект с данными xsl.
+Создает объект [`XslFoLoadOptions`](../) с данными xsl.
 
 ```csharp
 public XslFoLoadOptions(string xslFile)
@@ -32,19 +32,19 @@ public XslFoLoadOptions(string xslFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xslFile | String | Xsl файл для преобразования документа XSL-FO в pdf документ. |
+| xslFile | String | Файл Xsl для преобразования документа XSL-FO в PDF-документ. |
 
 ### См. также
 
-* класс [XslFoLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XslFoLoadOptions(Stream) {#constructor_1}
 
-Создает [`XslFoLoadOptions`](../) объект с данными xsl.
+Создает объект [`XslFoLoadOptions`](../) с данными xsl.
 
 ```csharp
 public XslFoLoadOptions(Stream xslStream)
@@ -52,10 +52,12 @@ public XslFoLoadOptions(Stream xslStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xslStream | Stream | Xsl поток для преобразования документа XSL-FO в pdf документ. |
+| xslStream | Stream | Поток Xsl для преобразования документа XSL-FO в PDF-документ. |
 
 ### См. также
 
-* класс [XslFoLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.IsXrefGapsAllowed
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает, соответствует ли документ стандарту pdfa
+title: "Document.IsXrefGapsAllowed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Получает или задает, является ли документ совместимым с pdfa."
 type: docs
-weight: 330
+weight: 350
 url: /ru/net/aspose.pdf/document/isxrefgapsallowed/
 ---
-## Свойство Document.IsXrefGapsAllowed
+## Document.IsXrefGapsAllowed property
 
-Получает или устанавливает, соответствует ли документ стандарту pdfa.
+Получает или задаёт, является ли документ соответствующим pdfa.
 
 ```csharp
 public bool IsXrefGapsAllowed { get; set; }
@@ -16,6 +16,8 @@ public bool IsXrefGapsAllowed { get; set; }
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: XmlLoadOptions.XmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор XmlLoadOptions. Создает объект XmlLoadOptions без данных xsl
+title: "XmlLoadOptions.XmlLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор XmlLoadOptions. Создает объект XmlLoadOptions без данных XSL"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/xmlloadoptions/xmlloadoptions/
 ---
 ## XmlLoadOptions() {#constructor}
 
-Создает [`XmlLoadOptions`](../) объект без данных xsl.
+Создает объект [`XmlLoadOptions`](../) без данных XSL.
 
 ```csharp
 public XmlLoadOptions()
 ```
 
-### See Also
+### См. также
 
 * class [XmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,17 +24,17 @@ public XmlLoadOptions()
 
 ## XmlLoadOptions(string) {#constructor_2}
 
-Создает [`XmlLoadOptions`](../) объект с данными xsl.
+Создает объект [`XmlLoadOptions`](../) с данными xsl.
 
 ```csharp
 public XmlLoadOptions(string xslFile)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| xslFile | String | Xsl файл для преобразования xml документа в pdf документ. |
+| xslFile | String | Файл Xsl для преобразования xml‑документа в pdf‑документ. |
 
-### See Also
+### См. также
 
 * class [XmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -44,18 +44,20 @@ public XmlLoadOptions(string xslFile)
 
 ## XmlLoadOptions(Stream) {#constructor_1}
 
-Создает [`XmlLoadOptions`](../) объект с данными xsl.
+Создает объект [`XmlLoadOptions`](../) с данными xsl.
 
 ```csharp
 public XmlLoadOptions(Stream xslStream)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| xslStream | Stream | Xsl поток для преобразования xml документа в pdf документ. |
+| xslStream | Stream | Поток Xsl для преобразования xml‑документа в pdf‑документ. |
 
-### See Also
+### См. также
 
 * class [XmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

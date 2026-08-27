@@ -1,7 +1,7 @@
 ---
-title: FormEditor.AddField
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Добавить поле указанного типа в форму
+title: "FormEditor.AddField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Добавить поле указанного типа в форму"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/formeditor/addfield/
@@ -21,13 +21,13 @@ public bool AddField(FieldType fieldType, string fieldName, int pageNum, float l
 | fieldName | String | Имя поля, которое должно быть добавлено. |
 | pageNum | Int32 | Номер страницы, на которой должно быть размещено новое поле. |
 | llx | Single | Абсцисса нижнего левого угла поля. |
-| lly | Single | Ордината нижнего левого угла поля. |
+| lly | Single | Координата нижнего левого угла поля. |
 | urx | Single | Абсцисса верхнего правого угла поля. |
 | ury | Single | Ордината верхнего правого угла поля. |
 
 ### Возвращаемое значение
 
-true, если поле было успешно добавлено.
+true если поле было успешно добавлено.
 
 ## Примеры
 
@@ -62,13 +62,13 @@ public bool AddField(FieldType fieldType, string fieldName, string initValue, in
 | initValue | String | Начальное значение поля. |
 | pageNum | Int32 | Номер страницы, на которой должно быть размещено новое поле. |
 | llx | Single | Абсцисса нижнего левого угла поля. |
-| lly | Single | Ордината нижнего левого угла поля. |
+| lly | Single | Координата нижнего левого угла поля. |
 | urx | Single | Абсцисса верхнего правого угла поля. |
 | ury | Single | Ордината верхнего правого угла поля. |
 
 ### Возвращаемое значение
 
-true, если поле было успешно добавлено.
+true если поле было успешно добавлено.
 
 ## Примеры
 
@@ -86,3 +86,5 @@ formEditor.Save();
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

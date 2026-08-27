@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.MaxResoultion
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptimizationOptions. Указывает максимальное разрешение изображений. Если изображение имеет более высокое разрешение, оно будет масштабировано
+title: "OptimizationOptions.MaxResoultion"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OptimizationOptions property. Указывает максимальное разрешение изображений. Если изображение имеет более высокое разрешение, оно будет масштабировано."
 type: docs
-weight: 90
+weight: 80
 url: /ru/net/aspose.pdf.optimization/optimizationoptions/maxresoultion/
 ---
-## Свойство OptimizationOptions.MaxResoultion
+## OptimizationOptions.MaxResoultion property
 
-Указывает максимальное разрешение изображений. Если изображение имеет более высокое разрешение, оно будет масштабировано
+Указывает максимальное разрешение изображений. Если у изображения разрешение выше, оно будет масштабировано.
 
 ```csharp
 public int MaxResoultion { get; set; }
@@ -16,6 +16,8 @@ public int MaxResoultion { get; set; }
 
 ### См. также
 
-* класс [OptimizationOptions](../)
-* пространство имен [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ThreadMessageResponse. Получает или устанавливает тип объекта, который всегда является thread.message
+title: "ThreadMessageResponse.Object"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ThreadMessageResponse. Получает или задает тип объекта, который всегда равен thread.message."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.ai/threadmessageresponse/object/
 ---
-## Свойство ThreadMessageResponse.Object
+## ThreadMessageResponse.Object property
 
-Получает или устанавливает тип объекта, который всегда является "thread.message".
+Получает или задает тип объекта, который всегда равен "thread.message".
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### См. также
 
-* класс [ThreadMessageResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

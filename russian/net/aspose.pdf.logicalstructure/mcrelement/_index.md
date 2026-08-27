@@ -1,14 +1,14 @@
 ---
-title: Class MCRElement
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.LogicalStructure.MCRElement. Представляет объект ссылки на размеченное содержимое в логической структуре
+title: "Класс MCRElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.LogicalStructure.MCRElement класс. Представляет объект ссылки на помеченный контент в логической структуре"
 type: docs
-weight: 6500
+weight: 6640
 url: /ru/net/aspose.pdf.logicalstructure/mcrelement/
 ---
-## Класс MCRElement
+## MCRElement class
 
-Представляет объект ссылки на размеченное содержимое в логической структуре.
+Представляет объект ссылки на отмеченный контент в логической структуре.
 
 ```csharp
 public sealed class MCRElement : Element
@@ -19,27 +19,29 @@ public sealed class MCRElement : Element
 | Имя | Описание |
 | --- | --- |
 | [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | Получает коллекцию дочерних объектов Element. |
-| [MCID](../../aspose.pdf.logicalstructure/mcrelement/mcid/) { get; } | Получает MCID объекта ссылки на размеченное содержимое. |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Получает родительский элемент. |
+| [MCID](../../aspose.pdf.logicalstructure/mcrelement/mcid/) { get; } | Получает MCID объекта ссылки на помеченный контент. |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Получить родительский элемент. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Добавляет элемент в коллекцию дочерних элементов. |
-| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Очищает всех дочерних элементов. |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Находит элементы заданного типа |
-| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Вставляет элемент в коллекцию дочерних элементов по указанному индексу. |
-| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Удаляет дочерний элемент по индексу. |
-| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag_2)(Annotation) | Привязывает элемент структуры к аннотации. |
-| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag)(Artifact) | Привязывает элемент структуры к артефакту. |
-| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag_1)(BDC) | Привязывает элемент структуры к оператору BDC потока содержимого. |
-| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag_3)(XForm) | Привязывает элемент структуры к XForm потока содержимого. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Добавить Element в коллекцию дочерних элементов. |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Очистить все дочерние элементы. |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Найти элементы заданного типа |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Вставить Element в коллекцию дочерних элементов по указанному индексу. |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Удалить дочерний элемент в позиции. |
+| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag_2)(Annotation) | Привязывает элемент структуры к Annotation. |
+| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag)(Artifact) | Привязывает элемент структуры к Artifact. |
+| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag_1)(BDC) | Привязывает элемент структуры к оператору BDC в потоке содержимого. |
+| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag_3)(XForm) | Привязывает элемент структуры к XForm в потоке содержимого. |
 | override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag_4)(XImage) | Привязывает элемент структуры к XImage. |
 | override [ToString](../../aspose.pdf.logicalstructure/mcrelement/tostring/)() | Возвращает строку, представляющую текущий объект. |
 
 ### См. также
 
-* класс [Element](../element/)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../)
+* class [Element](../element/)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

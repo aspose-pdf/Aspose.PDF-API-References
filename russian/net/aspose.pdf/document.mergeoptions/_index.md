@@ -1,34 +1,36 @@
 ---
-title: Class Document.MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.DocumentMergeOptions. Представляет параметры для методов объединения
+title: "Класс Document.MergeOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.DocumentMergeOptions. Представляет параметры для методов Merge."
 type: docs
-weight: 3830
+weight: 3950
 url: /ru/net/aspose.pdf/document.mergeoptions/
 ---
 ## Document.MergeOptions class
 
-Представляет параметры для методов объединения.
+Представляет параметры для методов Merge.
 
 ```csharp
 public class MergeOptions
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [MergeOptions](../../aspose.pdf/document.mergeoptions/.ctor)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | Получает и устанавливает требование для балансировки дерева страниц. Все дерево страниц в результирующем документе будет сбалансировано. Это создает сбалансированное дерево страниц для ускорения доступа к страницам. |
-| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | Получает и устанавливает максимальное количество узлов на уровне дерева страниц. По умолчанию 10. |
+| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | Получает и задаёт требование балансировки дерева страниц. Всё дерево страниц в результирующем документе будет перебалансировано. Это создаёт сбалансированное дерево страниц для ускорения доступа к страницам. |
+| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | Получает и задаёт максимальное количество узлов на уровне дерева страниц. По умолчанию 10. |
 
-### See Also
+### См. также
 
 * class [Document](../document/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

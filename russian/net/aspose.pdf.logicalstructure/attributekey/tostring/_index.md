@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AttributeKey. Возвращает строку, представляющую текущий объект
+title: "AttributeKey.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey метод. Возвращает строку, представляющую текущий объект"
 type: docs
 weight: 440
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/tostring/
 ---
-## Метод AttributeKey.ToString
+## AttributeKey.ToString method
 
 Возвращает строку, представляющую текущий объект.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

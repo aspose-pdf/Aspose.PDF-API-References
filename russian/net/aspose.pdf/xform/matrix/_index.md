@@ -1,14 +1,14 @@
 ---
-title: XForm.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XForm. Получает или устанавливает матрицу формы
+title: "XForm.Matrix"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XForm. Возвращает или задает матрицу формы"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/xform/matrix/
 ---
-## Свойство XForm.Matrix
+## XForm.Matrix property
 
-Получает или устанавливает матрицу формы.
+Получает или задает матрицу формы.
 
 ```csharp
 public Matrix Matrix { get; set; }
@@ -16,7 +16,9 @@ public Matrix Matrix { get; set; }
 
 ### См. также
 
-* класс [Matrix](../../matrix/)
-* класс [XForm](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../../matrix/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

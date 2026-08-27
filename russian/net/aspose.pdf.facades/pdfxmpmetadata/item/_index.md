@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfXmpMetadata. Получает или устанавливает значение по ключу
+title: "PdfXmpMetadata.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfXmpMetadata. Получает или задает значение по ключу"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/item/
 ---
-## Индексатор PdfXmpMetadata (1 из 2)
+## PdfXmpMetadata indexer (1 of 2)
 
-Получает или устанавливает значение по ключу.
+Получает или задает значение по ключу.
 
 ```csharp
 public XmpValue this[string key] { get; set; }
@@ -16,7 +16,7 @@ public XmpValue this[string key] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| key | Имя ключа для получения/установки. |
+| ключ | Имя ключа для получения/задания. |
 
 ### Возвращаемое значение
 
@@ -32,16 +32,16 @@ Console.WriteLine(pxm["xmp:Nickname"]);
 
 ### См. также
 
-* класс [XmpValue](../../../aspose.pdf/xmpvalue/)
-* класс [PdfXmpMetadata](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Индексатор PdfXmpMetadata (2 из 2)
+## PdfXmpMetadata indexer (2 of 2)
 
-Получает значение XMP метаданных по ключу.
+Получает значение XMP‑метаданных по ключу.
 
 ```csharp
 public XmpValue this[DefaultMetadataProperties key] { get; set; }
@@ -49,11 +49,11 @@ public XmpValue this[DefaultMetadataProperties key] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| key | Ключ значения. |
+| ключ | Ключ значения. |
 
 ### Возвращаемое значение
 
-Значение из XMP метаданных.
+Значение из XMP‑метаданных.
 
 ## Примеры
 
@@ -65,8 +65,10 @@ Console.WriteLine(pxm[DefaultMetadataProperties.CreatorTool]);
 
 ### См. также
 
-* класс [XmpValue](../../../aspose.pdf/xmpvalue/)
-* перечисление [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* класс [PdfXmpMetadata](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

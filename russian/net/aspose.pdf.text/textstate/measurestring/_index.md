@@ -1,12 +1,12 @@
 ---
-title: TextState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextState. Измеряет строку
+title: "TextState.MeasureString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextState. Измеряет строку."
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.text/textstate/measurestring/
 ---
-## Метод TextState.MeasureString
+## TextState.MeasureString method
 
 Измеряет строку.
 
@@ -20,10 +20,12 @@ public virtual double MeasureString(string str)
 
 ### Возвращаемое значение
 
-Ширина строки, представленная с помощью этого состояния текста.
+Ширина строки, представленной этим состоянием текста.
 
 ### См. также
 
-* класс [TextState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

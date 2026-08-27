@@ -1,12 +1,12 @@
 ---
-title: StructureTypeCategory.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureTypeCategory. Возвращает строку, представляющую текущий объект
+title: "StructureTypeCategory.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureTypeCategory. Возвращает строку, представляющую текущий объект."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.logicalstructure/structuretypecategory/tostring/
 ---
-## Метод StructureTypeCategory.ToString
+## StructureTypeCategory.ToString method
 
 Возвращает строку, представляющую текущий объект.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [StructureTypeCategory](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

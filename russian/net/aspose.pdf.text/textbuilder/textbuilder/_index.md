@@ -1,7 +1,7 @@
 ---
-title: TextBuilder.TextBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextBuilder. Инициализирует новый экземпляр класса TextBuilder для страницы Pdf
+title: "TextBuilder.TextBuilder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextBuilder. Инициализирует новый экземпляр класса TextBuilder для страницы Pdf"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textbuilder/textbuilder/
@@ -16,7 +16,7 @@ public TextBuilder(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы. |
+| страница | Страница | Объект Page. |
 
 ## Примечания
 
@@ -24,10 +24,10 @@ TextBuilder позволяет добавлять текстовые объек�
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [TextBuilder](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,7 +41,7 @@ public TextBuilder(Page page, BaseOperatorCollection operatorCollection)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы. |
+| страница | Страница | Объект Page. |
 | operatorCollection | BaseOperatorCollection | Коллекция операторов. |
 
 ## Примечания
@@ -50,8 +50,10 @@ TextBuilder позволяет добавлять текстовые объек�
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
-* класс [TextBuilder](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

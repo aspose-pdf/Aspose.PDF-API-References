@@ -1,12 +1,12 @@
 ---
-title: Operator.ValueEquals
-second_title: Aspose.PDF for .NET API Reference
-description: Метод оператора. Сравнивает этот экземпляр с заданным объектом
+title: "Operator.ValueEquals"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Operator. Сравнивает этот экземпляр с заданным объектом"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/operator/valueequals/
 ---
-## Метод Operator.ValueEquals
+## Operator.ValueEquals method
 
 Сравнивает этот экземпляр с заданным объектом.
 
@@ -16,14 +16,16 @@ public bool ValueEquals(Operator op)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| op | Operator | Оператор для сравнения. |
+| op | Operator | Operator для сравнения. |
 
 ### Возвращаемое значение
 
-True, если объекты равны, в противном случае false.
+True, если объекты равны, иначе false.
 
 ### См. также
 
-* класс [Operator](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

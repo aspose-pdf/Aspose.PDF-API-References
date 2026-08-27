@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.DoConvert
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfConverter. Выполните некоторые начальные работы для преобразования pdf-документа в изображения
+title: "PdfConverter.DoConvert"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfConverter. Выполните некоторые начальные работы по преобразованию pdf‑документа в изображения"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.facades/pdfconverter/doconvert/
 ---
-## Метод PdfConverter.DoConvert
+## PdfConverter.DoConvert method
 
-Выполните некоторые начальные работы для преобразования pdf-документа в изображения.
+Выполняет некоторые начальные работы по конвертации PDF‑документа в изображения.
 
 ```csharp
 public void DoConvert()
@@ -45,6 +45,8 @@ End While
 
 ### См. также
 
-* класс [PdfConverter](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

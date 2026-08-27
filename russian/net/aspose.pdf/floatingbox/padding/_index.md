@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Padding
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FloatingBox. Получает или задает объект MarginInfo, который указывает отступ плавающего блока
+title: "FloatingBox.Padding"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FloatingBox. Получает или задает объект MarginInfo, который указывает отступы плавающего блока"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/floatingbox/padding/
 ---
-## Свойство FloatingBox.Padding
+## FloatingBox.Padding property
 
-Получает или задает объект [`MarginInfo`](../../margininfo/), который указывает отступ плавающего блока.
+Получает или задает объект [`MarginInfo`](../../margininfo/), который указывает отступы плавающего блока.
 
 ```csharp
 public MarginInfo Padding { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo Padding { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../../margininfo/)
-* класс [FloatingBox](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

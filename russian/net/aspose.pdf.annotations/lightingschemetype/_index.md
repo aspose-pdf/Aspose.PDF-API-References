@@ -1,14 +1,14 @@
 ---
-title: Enum LightingSchemeType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum LightingSchemeType Aspose.Pdf.Annotations.LightingSchemeType. Enum LightingSchemeType набор типов схем освещения
+title: "Перечисление LightingSchemeType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.LightingSchemeType перечисление. Перечисление LightingSchemeType набор типов схем освещения"
 type: docs
-weight: 1970
+weight: 2060
 url: /ru/net/aspose.pdf.annotations/lightingschemetype/
 ---
-## Перечисление LightingSchemeType
+## LightingSchemeType enumeration
 
-Enum LightingSchemeType: набор типов схем освещения.
+Перечисление LightingSchemeType: набор типов схем освещения.
 
 ```csharp
 public enum LightingSchemeType
@@ -16,7 +16,7 @@ public enum LightingSchemeType
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Artwork | `0` | Схема освещения "Artwork". |
 | None | `1` | Схема освещения "None". |
@@ -33,5 +33,7 @@ public enum LightingSchemeType
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

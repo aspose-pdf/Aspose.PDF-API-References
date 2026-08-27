@@ -1,14 +1,14 @@
 ---
-title: Signature.Date
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство подписи. Время подписания
+title: "Signature.Date"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Signature. Время подписи"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.forms/signature/date/
 ---
-## Свойство Signature.Date
+## Signature.Date property
 
-Время подписания.
+Время подписи.
 
 ```csharp
 public DateTime Date { get; set; }
@@ -16,6 +16,8 @@ public DateTime Date { get; set; }
 
 ### См. также
 
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

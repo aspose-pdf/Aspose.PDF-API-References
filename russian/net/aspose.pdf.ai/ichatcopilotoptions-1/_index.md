@@ -1,14 +1,14 @@
 ---
-title: Interface IChatCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.AI.IChatCopilotOptions1TOptions. Представляет интерфейс для параметров чат-коопилота с определенным типом
+title: "Интерфейс IChatCopilotOptionsTOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.AI.IChatCopilotOptions1TOptions. Представляет интерфейс параметров чат‑копилота с конкретным типом"
 type: docs
-weight: 480
+weight: 500
 url: /ru/net/aspose.pdf.ai/ichatcopilotoptions-1/
 ---
-## Интерфейс IChatCopilotOptions&lt;TOptions&gt;
+## IChatCopilotOptions&lt;TOptions&gt; interface
 
-Представляет интерфейс для параметров чат-коопилота с определенным типом.
+Представляет интерфейс для параметров чат‑помощника с определённым типом.
 
 ```csharp
 public interface IChatCopilotOptions<out TOptions>
@@ -16,15 +16,17 @@ public interface IChatCopilotOptions<out TOptions>
 
 | Параметр | Описание |
 | --- | --- |
-| TOptions | Тип параметров для чат-коопилота. |
+| TOptions | Тип параметров для чат‑копилота. |
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [GetOptions](../../aspose.pdf.ai/ichatcopilotoptions-1/getoptions/)() | Получает параметры типа *TOptions*. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

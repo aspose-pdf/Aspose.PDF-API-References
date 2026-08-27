@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Получает или задает назначение для этого элемента оглавления
+title: "OutlineItemCollection.Destination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Возвращает или задаёт назначение для этого элемента оглавления"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/outlineitemcollection/destination/
 ---
-## Свойство OutlineItemCollection.Destination
+## OutlineItemCollection.Destination property
 
-Получает или задает назначение для этого элемента оглавления.
+Получает или задаёт назначение для этого элемента оглавления.
 
 ```csharp
 public IAppointment Destination { get; set; }
@@ -16,7 +16,9 @@ public IAppointment Destination { get; set; }
 
 ### См. также
 
-* интерфейс [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

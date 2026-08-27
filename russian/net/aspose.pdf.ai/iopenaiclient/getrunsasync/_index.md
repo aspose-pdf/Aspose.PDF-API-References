@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetRunsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно извлекает список запусков для указанного потока
+title: "IOpenAIClient.GetRunsAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно получает список запусков для указанного потока"
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.ai/iopenaiclient/getrunsasync/
 ---
-## Метод IOpenAIClient.GetRunsAsync
+## IOpenAIClient.GetRunsAsync method
 
-Асинхронно извлекает список запусков для указанного потока.
+Получает список запусков для указанного потока асинхронно.
 
 ```csharp
 public Task<RunListResponse> GetRunsAsync(string threadId, 
@@ -17,7 +17,7 @@ public Task<RunListResponse> GetRunsAsync(string threadId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threadId | String | Идентификатор потока, из которого нужно извлечь запуски. |
+| threadId | String | Идентификатор потока, из которого нужно получить запуски. |
 | queryParameters | RunListQueryParameters | Необязательные параметры запроса для фильтрации списка запусков. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
@@ -29,12 +29,14 @@ public Task<RunListResponse> GetRunsAsync(string threadId,
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 
 ### См. также
 
-* класс [RunListResponse](../../runlistresponse/)
-* класс [RunListQueryParameters](../../runlistqueryparameters/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunListResponse](../../runlistresponse/)
+* class [RunListQueryParameters](../../runlistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

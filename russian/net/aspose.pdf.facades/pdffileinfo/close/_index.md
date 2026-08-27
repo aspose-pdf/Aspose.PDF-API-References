@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileInfo. Деинициализирует экземпляр
+title: "PdfFileInfo.Close"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileInfo. Деинициализирует экземпляр"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/pdffileinfo/close/
 ---
-## Метод PdfFileInfo.Close
+## PdfFileInfo.Close method
 
 Деинициализирует экземпляр.
 
@@ -16,6 +16,8 @@ public override void Close()
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

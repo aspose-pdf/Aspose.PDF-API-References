@@ -1,14 +1,14 @@
 ---
-title: Color.DarkViolet
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF9400D3
+title: "Color.DarkViolet"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB‑значением c FF9400D3"
 type: docs
 weight: 390
 url: /ru/net/aspose.pdf/color/darkviolet/
 ---
-## Свойство Color.DarkViolet
+## Color.DarkViolet property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF9400D3.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FF9400D3.
 
 ```csharp
 public static Color DarkViolet { get; }
@@ -16,10 +16,12 @@ public static Color DarkViolet { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

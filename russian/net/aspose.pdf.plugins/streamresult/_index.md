@@ -1,14 +1,14 @@
 ---
-title: Class StreamResult
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.StreamResult. Представляет результат операции в виде потока
+title: "Класс StreamResult"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.StreamResult класс. Представляет результат операции в виде Stream"
 type: docs
-weight: 9300
+weight: 9450
 url: /ru/net/aspose.pdf.plugins/streamresult/
 ---
-## Класс StreamResult
+## StreamResult class
 
-Представляет результат операции в виде потока.
+Представляет результат операции в виде Stream.
 
 ```csharp
 public sealed class StreamResult : IOperationResult
@@ -19,8 +19,8 @@ public sealed class StreamResult : IOperationResult
 | Имя | Описание |
 | --- | --- |
 | [Data](../../aspose.pdf.plugins/streamresult/data/) { get; } | Получает необработанные данные. |
-| [IsFile](../../aspose.pdf.plugins/streamresult/isfile/) { get; } | Указывает, является ли результат путем к выходному файлу. |
-| [IsStream](../../aspose.pdf.plugins/streamresult/isstream/) { get; } | Указывает, является ли результат путем к выходному файлу. |
+| [IsFile](../../aspose.pdf.plugins/streamresult/isfile/) { get; } | Указывает, является ли результат путём к выходному файлу. |
+| [IsStream](../../aspose.pdf.plugins/streamresult/isstream/) { get; } | Указывает, является ли результат путём к выходному файлу. |
 | [IsString](../../aspose.pdf.plugins/streamresult/isstring/) { get; } | Указывает, является ли результат строкой. |
 
 ## Методы
@@ -32,6 +32,8 @@ public sealed class StreamResult : IOperationResult
 
 ### См. также
 
-* интерфейс [IOperationResult](../ioperationresult/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IOperationResult](../ioperationresult/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

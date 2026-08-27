@@ -1,7 +1,7 @@
 ---
-title: LineAnnotation.LineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор LineAnnotation. Конструктор для использования с Generator
+title: "LineAnnotation.LineAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "LineAnnotation конструктор. Конструктор для использования с Generator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/lineannotation/lineannotation/
@@ -16,23 +16,23 @@ public LineAnnotation(Document document, Point start, Point end)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ, в котором будет создана аннотация. |
-| start | Point | Начальная точка. |
-| end | Point | Конечная точка. |
+| документ | Document | Document, где будет создана аннотация. |
+| start | Точка | Начальная точка. |
+| end | Точка | Конечная точка. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [Point](../../../aspose.pdf/point/)
-* класс [LineAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## LineAnnotation(Page, Rectangle, Point, Point) {#constructor_1}
 
-Создает новую линию аннотации на указанной странице.
+Создает новую аннотацию Line на указанной странице.
 
 ```csharp
 public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
@@ -40,16 +40,18 @@ public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница документа, на которой должна быть создана аннотация. |
-| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
-| start | Point | Точка, указывающая начальные координаты линии. |
-| end | Point | Точка, указывающая конечные координаты линии. |
+| страница | Страница | Страница Document, где следует создать аннотацию. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий её расположение на странице. |
+| start | Точка | Точка, указывающая начальную координату линии. |
+| end | Точка | Точка, указывающая конечную координату линии. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [Point](../../../aspose.pdf/point/)
-* класс [LineAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

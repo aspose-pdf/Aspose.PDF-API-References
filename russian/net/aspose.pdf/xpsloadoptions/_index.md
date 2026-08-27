@@ -1,55 +1,55 @@
 ---
-title: Class XpsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.XpsLoadOptions. Представляет параметры для загрузки/импортирования xps файла в pdf документ
+title: "Класс XpsLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.XpsLoadOptions класс. Представляет параметры для загрузки/импорта файла XPS в PDF‑документ"
 type: docs
-weight: 11510
+weight: 11700
 url: /ru/net/aspose.pdf/xpsloadoptions/
 ---
 ## XpsLoadOptions class
 
-Представляет параметры для загрузки/импортирования xps файла в pdf документ.
+Представляет параметры загрузки/импорта файла xps в документ pdf.
 
 ```csharp
 public sealed class XpsLoadOptions : LoadOptions, IPipelineOptions
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [XpsLoadOptions](xpsloadoptions/)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/xpsloadoptions/batchsize/) { get; set; } | Определяет размер пакета, если пакетная конвертация применима к паре форматов источника и назначения. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или устанавливает флаг для отключения любых лицензионных ограничений для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, которые запрещены лицензией этого шрифта, например, позволяет встраивать шрифт в PDF документ, даже если правила лицензии запрещают встраивание для этого шрифта. По умолчанию `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывает [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых предупреждений, сгенерированных. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь также может вернуть Abort, в этом случае операция загрузки должна прекратиться. |
+| [BatchSize](../../aspose.pdf/xpsloadoptions/batchsize/) { get; set; } | Определяет размер пакета, если пакетное преобразование применимо к паре исходного и целевого форматов. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или задаёт флаг, отключающий любые лицензионные ограничения для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, запрещённые лицензией этого шрифта, например, позволяет встраивать шрифт в PDF‑документ, даже если правила лицензии запрещают встраивание. По умолчанию `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывается [`LoadOptions`](../loadoptions/). |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, в этом случае операция загрузки должна быть прекращена. |
 
-## Examples
+## Примеры
 
-Следующий пример показывает, как конвертировать XPS файл в PDF файл
+В следующем примере показано, как преобразовать файл XPS в файл PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Путь к каталогу документов.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your XPS File.
+	// Путь к вашему файлу XPS.
 	string xpsFile = Path.Combine(dataDir, "XPS-to-PDF.xps");
 
-	// The path to output PDF File.
+	// Путь к выходному PDF‑файлу.
 	string pdfFile = Path.Combine(dataDir, "XPS-to-PDF.pdf");
 
-	// Initialize XpsLoadOptions	
+	// Инициализировать XpsLoadOptions	
 	XpsLoadOptions xpsLoadOptions = new XpsLoadOptions();
 		
 	using (Document pdfDocument = new Document(xpsFile, xpsLoadOptions)){
 	 
-		// Save PDF file
+		// Сохранить PDF‑файл
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -76,9 +76,11 @@ public sealed class XpsLoadOptions : LoadOptions, IPipelineOptions
     End Using
 ```
 
-### See Also
+### См. также
 
 * class [LoadOptions](../loadoptions/)
 * interface [IPipelineOptions](../ipipelineoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

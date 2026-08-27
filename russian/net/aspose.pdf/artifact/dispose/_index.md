@@ -1,14 +1,14 @@
 ---
-title: Artifact.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Artifact. Освободить артефакт
+title: "Artifact.Dispose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Artifact. Освобождает артефакт"
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf/artifact/dispose/
 ---
-## Метод Artifact.Dispose
+## Artifact.Dispose method
 
-Освободить артефакт.
+Освободите артефакт.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### См. также
 
-* класс [Artifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

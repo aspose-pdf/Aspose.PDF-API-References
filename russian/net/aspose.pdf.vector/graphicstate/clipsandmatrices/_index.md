@@ -1,14 +1,14 @@
 ---
-title: GraphicState.ClipsAndMatrices
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphicState. Получает операторы, представляющие клипы и матрицы конкатенации
+title: "GraphicState.ClipsAndMatrices"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphicState. Получает операторы, представляющие клипы и матрицы конкатенации"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.vector/graphicstate/clipsandmatrices/
 ---
-## Свойство GraphicState.ClipsAndMatrices
+## GraphicState.ClipsAndMatrices property
 
-Получает операторы, представляющие клипы и матрицы конкатенации.
+Получает операторы, представляющие обрезки и матрицы конкатенации.
 
 ```csharp
 public List<Operator> ClipsAndMatrices { get; }
@@ -16,7 +16,9 @@ public List<Operator> ClipsAndMatrices { get; }
 
 ### См. также
 
-* класс [Operator](../../../aspose.pdf/operator/)
-* класс [GraphicState](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../../aspose.pdf/operator/)
+* class [GraphicState](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

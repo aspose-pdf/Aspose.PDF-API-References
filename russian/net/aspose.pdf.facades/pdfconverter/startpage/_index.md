@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.StartPage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfConverter. Получает или устанавливает начальную позицию, которую вы хотите конвертировать. Минимальное значение - 1
+title: "PdfConverter.StartPage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfConverter. Получает или задает начальную позицию, которую вы хотите конвертировать. Минимальное значение — 1."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/pdfconverter/startpage/
 ---
-## Свойство PdfConverter.StartPage
+## PdfConverter.StartPage property
 
-Получает или устанавливает начальную позицию, которую вы хотите конвертировать. Минимальное значение - 1.
+Получает или задаёт начальную позицию, которую вы хотите конвертировать. Минимальное значение — 1.
 
 ```csharp
 public int StartPage { get; set; }
@@ -16,6 +16,8 @@ public int StartPage { get; set; }
 
 ### См. также
 
-* класс [PdfConverter](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

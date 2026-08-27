@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.GeneratingPath
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AutoFiller. Получает или задает путь генерации маленьких pdf файлов, если необходимо сгенерировать много маленьких pdf файлов. Оно работает с другим свойством [`BasicFileName`](../basicfilename/)BasicFileName. Один из четырех режимов вывода.
+title: "AutoFiller.GeneratingPath"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AutoFiller. Получает или задает путь генерации небольших pdf‑файлов, если будет генерировано много небольших pdf‑файлов. Работает с другим свойством BasicFileNameBasicFileName. Один из четырёх режимов вывода"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/autofiller/generatingpath/
 ---
-## Свойство AutoFiller.GeneratingPath
+## AutoFiller.GeneratingPath property
 
-Получает или задает путь генерации маленьких pdf файлов, если необходимо сгенерировать много маленьких pdf файлов. Оно работает с другим свойством [`BasicFileName`](../basicfilename/)BasicFileName. Один из четырех режимов вывода.
+Получает или задает путь генерации небольших pdf‑файлов, если будет генерировано много небольших pdf‑файлов. Работает с другим свойством [`BasicFileName`](../basicfilename/)BasicFileName. Один из четырёх режимов вывода.
 
 ```csharp
 public string GeneratingPath { get; set; }
@@ -16,6 +16,8 @@ public string GeneratingPath { get; set; }
 
 ### См. также
 
-* класс [AutoFiller](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

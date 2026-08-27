@@ -1,12 +1,12 @@
 ---
-title: SetHorizontalTextScaling.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetHorizontalTextScaling. Получает или задает горизонтальное масштабирование
+title: "SetHorizontalTextScaling.HorizontalScaling"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetHorizontalTextScaling. Получает или задает горизонтальное масштабирование"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/
 ---
-## Свойство SetHorizontalTextScaling.HorizontalScaling
+## SetHorizontalTextScaling.HorizontalScaling property
 
 Получает или задает горизонтальное масштабирование.
 
@@ -16,6 +16,8 @@ public double HorizontalScaling { get; set; }
 
 ### См. также
 
-* класс [SetHorizontalTextScaling](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetHorizontalTextScaling](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

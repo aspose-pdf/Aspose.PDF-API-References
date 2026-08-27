@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DestinationCollection. Добавляет указанный элемент. Коллекция является только для чтения. Всегда вызывает исключение NotSupportedException
+title: "DestinationCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DestinationCollection. Добавляет указанный элемент. Коллекция только для чтения. Всегда бросает исключение NotSupportedException"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/destinationcollection/add/
 ---
-## Метод DestinationCollection.Add
+## DestinationCollection.Add method
 
-Добавляет указанный элемент. Коллекция является только для чтения. Всегда вызывает исключение NotSupportedException.
+Добавляет указанный элемент. Коллекция только для чтения. Всегда генерирует исключение NotSupportedException.
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
@@ -26,6 +26,8 @@ public void Add(KeyValuePair<string, object> item)
 
 ### См. также
 
-* класс [DestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaChatCompletionRequest. Устанавливает или получает список сообщений, составляющих разговор
+title: "LlamaChatCompletionRequest.Messages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaChatCompletionRequest. Устанавливает или получает список сообщений, составляющих разговор"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/llamachatcompletionrequest/messages/
 ---
-## Свойство LlamaChatCompletionRequest.Messages
+## LlamaChatCompletionRequest.Messages property
 
 Устанавливает или получает список сообщений, составляющих разговор.
 
@@ -16,7 +16,9 @@ public List<ChatMessage> Messages { get; set; }
 
 ### См. также
 
-* класс [ChatMessage](../../chatmessage/)
-* класс [LlamaChatCompletionRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ChatMessage](../../chatmessage/)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

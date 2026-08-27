@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.AddRange
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpPdfAExtensionValueType. Добавляет диапазон полей
+title: "XmpPdfAExtensionValueType.AddRange"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpPdfAExtensionValueType. Добавляет диапазон полей"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/xmppdfaextensionvaluetype/addrange/
 ---
-## Метод XmpPdfAExtensionValueType.AddRange
+## XmpPdfAExtensionValueType.AddRange method
 
 Добавляет диапазон полей.
 
@@ -16,11 +16,13 @@ public void AddRange(XmpPdfAExtensionField[] fields)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fields | XmpPdfAExtensionField[] | Поля для добавления. |
+| поля | XmpPdfAExtensionField[] | Поля для добавления. |
 
 ### См. также
 
-* класс [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* класс [XmpPdfAExtensionValueType](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

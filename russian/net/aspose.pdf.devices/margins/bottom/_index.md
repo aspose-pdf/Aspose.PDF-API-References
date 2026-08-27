@@ -1,25 +1,27 @@
 ---
-title: Margins.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Margins. Получает или задает нижний
+title: "Margins.Bottom"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Margins. Получает или задает нижнее значение"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.devices/margins/bottom/
 ---
-## Свойство Margins.Bottom
+## Margins.Bottom property
 
-Получает или задает нижний.
+Получает или задает нижний отступ.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Нижний.
+Низ.
 
 ### См. также
 
-* класс [Margins](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetGray.SetGray
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetGray. Инициализирует оператор
+title: "SetGray.SetGray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetGray. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setgray/setgray/
 ---
-## Конструктор SetGray
+## SetGray constructor
 
 Инициализирует оператор.
 
@@ -16,10 +16,12 @@ public SetGray(double gray)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| gray | Double | Уровень серого значения. |
+| серый | Double | Уровень значения серого. |
 
 ### См. также
 
-* класс [SetGray](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetGray](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

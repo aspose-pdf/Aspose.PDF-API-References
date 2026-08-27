@@ -1,12 +1,12 @@
 ---
-title: ExcelSaveOptions.ExcelSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ExcelSaveOptions. Конструктор по умолчанию
+title: "ExcelSaveOptions.ExcelSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ExcelSaveOptions. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/excelsaveoptions/excelsaveoptions/
 ---
-## Конструктор ExcelSaveOptions
+## ExcelSaveOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ExcelSaveOptions()
 
 ### См. также
 
-* класс [ExcelSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ExcelSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

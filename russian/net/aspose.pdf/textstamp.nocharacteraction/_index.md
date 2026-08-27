@@ -1,14 +1,14 @@
 ---
-title: Enum TextStamp.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TextStampNoCharacterAction Aspose.Pdf. Действие, которое необходимо выполнить, если шрифт не содержит требуемый символ
+title: "Перечисление TextStamp.NoCharacterAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.TextStampNoCharacterAction перечисление. Действие, которое следует выполнить, если шрифт не содержит требуемый символ."
 type: docs
-weight: 11090
+weight: 11280
 url: /ru/net/aspose.pdf/textstamp.nocharacteraction/
 ---
-## Перечисление TextStamp.NoCharacterAction
+## TextStamp.NoCharacterAction enumeration
 
-Действие, которое необходимо выполнить, если шрифт не содержит требуемый символ.
+Действие, которое следует выполнить, если шрифт не содержит требуемый символ.
 
 ```csharp
 public enum NoCharacterAction
@@ -18,13 +18,15 @@ public enum NoCharacterAction
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| ThrowException | `0` | Если шрифт не содержит всех символов строки, выбрасывается исключение. |
-| UseStandardFont | `1` | Заменить шрифт на стандартный шрифт, который содержит требуемый символ. |
-| ReplaceAnyway | `2` | Заменить текст в любом случае без замены шрифта. |
-| UseCustomReplacementFont | `3` | Заменить шрифт на определенный шрифт замены. |
+| ThrowException | `0` | Если шрифт не содержит всех символов строки, генерируется исключение. |
+| UseStandardFont | `1` | Заменить шрифт на стандартный шрифт, содержащий требуемый символ. |
+| ReplaceAnyway | `2` | Все равно заменить текст без замены шрифта. |
+| UseCustomReplacementFont | `3` | Заменить шрифт на определённый заменяющий шрифт. |
 
 ### См. также
 
-* класс [TextStamp](../textstamp/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [TextStamp](../textstamp/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

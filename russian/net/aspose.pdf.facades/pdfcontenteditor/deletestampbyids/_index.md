@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DeleteStampByIds
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Удаляет штампы с указанными идентификаторами со всех страниц документа
+title: "PdfContentEditor.DeleteStampByIds"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Удаляет штампы с указанными идентификаторами со всех страниц документа"
 type: docs
 weight: 350
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyids/
 ---
 ## DeleteStampByIds(int[]) {#deletestampbyids_1}
 
-Удаляет штампы с указанными идентификаторами со всех страниц документа.
+Удаляет штампы с указанными ID со всех страниц документа.
 
 ```csharp
 public void DeleteStampByIds(int[] stampIds)
@@ -29,15 +29,15 @@ contentEditor.Save("outfile.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DeleteStampByIds(int, int[]) {#deletestampbyids}
 
-Удаляет штампы на указанной странице по нескольким идентификаторам штампов.
+Удаляет штампы на указанной странице по нескольким ID штампов.
 
 ```csharp
 public void DeleteStampByIds(int pageNumber, int[] stampIds)
@@ -59,6 +59,8 @@ contentEditor.Save("outfile.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.ImportBookmarksWithXML
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfBookmarkEditor. Импортирует закладки в документ из XML файла
+title: "PdfBookmarkEditor.ImportBookmarksWithXML"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfBookmarkEditor. Импортирует закладки в документ из XML‑файла"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/
 ---
 ## ImportBookmarksWithXML(string) {#importbookmarkswithxml_1}
 
-Импортирует закладки в документ из XML файла.
+Импортирует закладки в document из файла XML.
 
 ```csharp
 public void ImportBookmarksWithXML(string xmlFile)
@@ -16,7 +16,7 @@ public void ImportBookmarksWithXML(string xmlFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmlFile | String | XML файл, содержащий список закладок. |
+| xmlFile | String | XML‑файл, содержащий список закладок. |
 
 ## Примеры
 
@@ -29,15 +29,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfBookmarkEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportBookmarksWithXML(Stream) {#importbookmarkswithxml}
 
-Импортирует закладки в документ из XML файла.
+Импортирует закладки в document из файла XML.
 
 ```csharp
 public void ImportBookmarksWithXML(Stream stream)
@@ -49,6 +49,8 @@ public void ImportBookmarksWithXML(Stream stream)
 
 ### См. также
 
-* класс [PdfBookmarkEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Measure.XYFactor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Measure. Фактор, который будет использоваться для преобразования наибольших единиц вдоль оси y в наибольшие единицы вдоль оси x
+title: "Measure.XYFactor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Measure. Коэффициент, который следует использовать для преобразования наибольших единиц вдоль оси y в наибольшие единицы вдоль оси x"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.annotations/measure/xyfactor/
 ---
-## Свойство Measure.XYFactor
+## Measure.XYFactor property
 
-Фактор, который будет использоваться для преобразования наибольших единиц вдоль оси y в наибольшие единицы вдоль оси x.
+Фактор, который будет использоваться для преобразования крупнейших единиц вдоль оси Y в крупнейшие единицы вдоль оси X.
 
 ```csharp
 public double XYFactor { get; set; }
@@ -16,6 +16,8 @@ public double XYFactor { get; set; }
 
 ### См. также
 
-* класс [Measure](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

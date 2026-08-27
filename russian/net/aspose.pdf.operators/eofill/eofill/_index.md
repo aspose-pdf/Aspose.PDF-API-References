@@ -1,12 +1,12 @@
 ---
-title: EOFill.EOFill
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор EOFill. Инициализирует оператор
+title: "EOFill.EOFill"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор EOFill. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/eofill/eofill/
 ---
-## Конструктор EOFill
+## EOFill constructor
 
 Инициализирует оператор.
 
@@ -16,6 +16,8 @@ public EOFill()
 
 ### См. также
 
-* класс [EOFill](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [EOFill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

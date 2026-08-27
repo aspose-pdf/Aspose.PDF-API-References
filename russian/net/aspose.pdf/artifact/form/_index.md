@@ -1,12 +1,12 @@
 ---
-title: Artifact.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство артефакта. Получает XForm артефакта, если используется XForm
+title: "Artifact.Form"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Artifact. Возвращает XForm артефакта, если используется XForm."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/artifact/form/
 ---
-## Свойство Artifact.Form
+## Artifact.Form property
 
 Получает XForm артефакта (если используется XForm).
 
@@ -16,7 +16,9 @@ public XForm Form { get; }
 
 ### См. также
 
-* класс [XForm](../../xform/)
-* класс [Artifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

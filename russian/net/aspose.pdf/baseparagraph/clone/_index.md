@@ -1,12 +1,12 @@
 ---
-title: BaseParagraph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Метод BaseParagraph. Клонирует этот экземпляр. Виртуальный метод. Всегда возвращает null
+title: "BaseParagraph.Clone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод BaseParagraph. Клонирует этот экземпляр. Виртуальный метод. Всегда возвращает null."
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/baseparagraph/clone/
 ---
-## Метод BaseParagraph.Clone
+## BaseParagraph.Clone method
 
 Клонирует этот экземпляр. Виртуальный метод. Всегда возвращает null.
 
@@ -20,6 +20,8 @@ Null.
 
 ### См. также
 
-* класс [BaseParagraph](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

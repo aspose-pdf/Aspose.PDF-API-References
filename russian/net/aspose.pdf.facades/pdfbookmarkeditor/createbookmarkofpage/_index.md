@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarkOfPage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfBookmarkEditor. Создает закладку для указанной страницы
+title: "PdfBookmarkEditor.CreateBookmarkOfPage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfBookmarkEditor. Создаёт закладку для указанной страницы"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
 ---
 ## CreateBookmarkOfPage(string, int) {#createbookmarkofpage}
 
-Создает закладку для указанной страницы.
+Создает закладку для указанной page.
 
 ```csharp
 public void CreateBookmarkOfPage(string bookmarkName, int pageNumber)
@@ -30,15 +30,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfBookmarkEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateBookmarkOfPage(string[], int[]) {#createbookmarkofpage_1}
 
-Создает закладки для указанных страниц.
+Создает закладки для указанных pages.
 
 ```csharp
 public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
@@ -47,7 +47,7 @@ public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | bookmarkName | String[] | Массив заголовков закладок. |
-| pageNumber | Int32[] | Массив целевых страниц закладок. |
+| pageNumber | Int32[] | Массив страниц назначения закладок. |
 
 ## Примеры
 
@@ -60,6 +60,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfBookmarkEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

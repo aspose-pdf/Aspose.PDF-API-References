@@ -1,12 +1,12 @@
 ---
-title: Rows.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rows. Получает перечислитель коллекции
+title: "Rows.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Rows метод. Получить перечислитель коллекции"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/rows/getenumerator/
 ---
-## Метод Rows.GetEnumerator
+## Rows.GetEnumerator method
 
 Получает перечислитель коллекции
 
@@ -20,7 +20,9 @@ public IEnumerator<Row> GetEnumerator()
 
 ### См. также
 
-* класс [Row](../../row/)
-* класс [Rows](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

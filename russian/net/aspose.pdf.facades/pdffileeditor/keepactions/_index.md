@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.KeepActions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileEditor. Если истинно, действия будут скопированы из исходных документов. Значение по умолчанию истинно
+title: "PdfFileEditor.KeepActions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileEditor. Если true, действия будут скопированы из исходных документов. Значение по умолчанию true."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdffileeditor/keepactions/
 ---
-## Свойство PdfFileEditor.KeepActions
+## PdfFileEditor.KeepActions property
 
-Если истинно, действия будут скопированы из исходных документов. Значение по умолчанию: истинно.
+Если true, действия будут скопированы из исходных документов. Значение по умолчанию: true.
 
 ```csharp
 public bool KeepActions { get; set; }
@@ -16,6 +16,8 @@ public bool KeepActions { get; set; }
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

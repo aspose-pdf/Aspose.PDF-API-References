@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.CosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CosPdfBoolean. Инициализирует новый экземпляр класса PdfBoolean
+title: "CosPdfBoolean.CosPdfBoolean"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CosPdfBoolean. Инициализирует новый экземпляр класса PdfBoolean"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.dataeditor/cospdfboolean/cospdfboolean/
 ---
-## Конструктор CosPdfBoolean
+## CosPdfBoolean constructor
 
 Инициализирует новый экземпляр класса PdfBoolean.
 
@@ -16,10 +16,12 @@ public CosPdfBoolean(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | если установлено в `true` [value]. |
+| значение | Boolean | если установлено в `true` [value]. |
 
 ### См. также
 
-* класс [CosPdfBoolean](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

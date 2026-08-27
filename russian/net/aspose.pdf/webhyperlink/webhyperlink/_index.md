@@ -1,7 +1,7 @@
 ---
-title: WebHyperlink.WebHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор WebHyperlink. Инициализирует новый экземпляр класса WebHyperlink
+title: "WebHyperlink.WebHyperlink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор WebHyperlink. Инициализирует новый экземпляр класса WebHyperlink"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/webhyperlink/webhyperlink/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/webhyperlink/webhyperlink/
 public WebHyperlink()
 ```
 
-### See Also
+### См. также
 
 * class [WebHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public WebHyperlink()
 public WebHyperlink(string url)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | String | Веб-URL для гиперссылки. |
+| url | String | Веб‑URL для гиперссылки. |
 
-### See Also
+### См. также
 
 * class [WebHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

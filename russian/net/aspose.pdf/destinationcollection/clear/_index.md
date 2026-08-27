@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DestinationCollection. Коллекция является только для чтения. Всегда вызывает исключение NotSupportedException
+title: "DestinationCollection.Clear"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DestinationCollection. Коллекция только для чтения. Всегда бросает исключение NotSupportedException"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/destinationcollection/clear/
 ---
-## Метод DestinationCollection.Clear
+## DestinationCollection.Clear method
 
-Коллекция является только для чтения. Всегда вызывает исключение NotSupportedException.
+Коллекция только для чтения. Всегда генерирует исключение NotSupportedException.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### См. также
 
-* класс [DestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

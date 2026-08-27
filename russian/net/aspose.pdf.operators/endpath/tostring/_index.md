@@ -1,12 +1,12 @@
 ---
-title: EndPath.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод EndPath. Текстовое представление оператора
+title: "EndPath.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод EndPath. Текстовое представление оператора"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/endpath/tostring/
 ---
-## Метод EndPath.ToString
+## EndPath.ToString method
 
 Текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [EndPath](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [EndPath](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class FontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.FontSource. Представляет базовый класс для источника шрифтов
+title: "Класс FontSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "класс Aspose.Pdf.Text.FontSource. Представляет базовый класс для источника шрифтов"
 type: docs
-weight: 10550
+weight: 10730
 url: /ru/net/aspose.pdf.text/fontsource/
 ---
-## Класс FontSource
+## FontSource class
 
 Представляет базовый класс для источника шрифтов.
 
@@ -16,5 +16,7 @@ public abstract class FontSource
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

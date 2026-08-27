@@ -1,14 +1,14 @@
 ---
-title: SetColorRenderingIntent.SetColorRenderingIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetColorRenderingIntent. Конструктор оператора установки цветового намерения
+title: "SetColorRenderingIntent.SetColorRenderingIntent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetColorRenderingIntent. Конструктор оператора Set Color Rendering Intent"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setcolorrenderingintent/setcolorrenderingintent/
 ---
-## Конструктор SetColorRenderingIntent
+## SetColorRenderingIntent constructor
 
-Конструктор оператора установки цветового намерения.
+Конструктор оператора Set Color Rendering Intent.
 
 ```csharp
 public SetColorRenderingIntent(string intentName)
@@ -16,10 +16,12 @@ public SetColorRenderingIntent(string intentName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| intentName | String | Цветовое намерение. |
+| intentName | String | Намерение цветовой отрисовки. |
 
 ### См. также
 
-* класс [SetColorRenderingIntent](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColorRenderingIntent](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

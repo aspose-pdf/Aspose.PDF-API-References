@@ -1,14 +1,14 @@
 ---
-title: Interface ILlamaClient
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.AI.ILlamaClient. Представляет клиентский интерфейс для взаимодействия с Llama API
+title: "Интерфейс ILlamaClient"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.AI.ILlamaClient. Представляет клиентский интерфейс для взаимодействия с Llama API"
 type: docs
-weight: 530
+weight: 550
 url: /ru/net/aspose.pdf.ai/illamaclient/
 ---
-## Интерфейс ILlamaClient
+## ILlamaClient interface
 
-Представляет клиентский интерфейс для взаимодействия с Llama API.
+Представляет клиентский интерфейс для взаимодействия с API Llama.
 
 ```csharp
 public interface ILlamaClient
@@ -16,11 +16,13 @@ public interface ILlamaClient
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| [CreateCompletionAsync](../../aspose.pdf.ai/illamaclient/createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | Создает запрос на завершение чата в сервисе Llama. |
+| [CreateCompletionAsync](../../aspose.pdf.ai/illamaclient/createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | Создаёт запрос завершения чата в сервисе Llama. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

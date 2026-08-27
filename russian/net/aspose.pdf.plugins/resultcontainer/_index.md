@@ -1,14 +1,14 @@
 ---
-title: Class ResultContainer
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.ResultContainer. Представляет контейнер, который содержит коллекцию результатов обработки плагина
+title: "Класс ResultContainer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.ResultContainer class. Представляет контейнер, содержащий коллекцию результатов обработки плагина."
 type: docs
-weight: 9200
+weight: 9350
 url: /ru/net/aspose.pdf.plugins/resultcontainer/
 ---
-## Класс ResultContainer
+## ResultContainer class
 
-Представляет контейнер, который содержит коллекцию результатов обработки плагина.
+Представляет контейнер, содержащий коллекцию результатов обработки плагина.
 
 ```csharp
 public class ResultContainer
@@ -22,5 +22,7 @@ public class ResultContainer
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

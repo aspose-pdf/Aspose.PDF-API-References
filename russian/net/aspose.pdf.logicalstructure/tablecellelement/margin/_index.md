@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableCellElement. Получает или задает отступ
+title: "TableCellElement.Margin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableCellElement. Получает или задает отступ"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/tablecellelement/margin/
 ---
-## Свойство TableCellElement.Margin
+## TableCellElement.Margin property
 
-Получает или задает отступ.
+Получает или задаёт отступ.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../../../aspose.pdf/margininfo/)
-* класс [TableCellElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Aspose.Pdf.Tagged
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged - это пространство имен для классов, поддерживающих документы Tagged PDF
+title: "Aspose.Pdf.Tagged"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Tagged — это пространство имён для классов, поддерживающих Tagged PDF документы."
 type: docs
-weight: 250
+weight: 240
 url: /ru/net/aspose.pdf.tagged/
 ---
-**Aspose.Pdf.Tagged** - это пространство имен для классов, поддерживающих документы Tagged PDF.
+Пространство имён **Aspose.Pdf.Tagged** — это пространство имён для классов, поддерживающих Tagged PDF документы.
 
 ## Классы
 
@@ -20,3 +20,5 @@ url: /ru/net/aspose.pdf.tagged/
 | --- | --- |
 | [IAdjustPosition](./iadjustposition/) | Интерфейс для методов позиционирования. |
 | [ITaggedContent](./itaggedcontent/) | Представляет интерфейс для работы с содержимым TaggedPdf документа. |
+
+

@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageStamp. Получает и устанавливает вертикальную координату штампа, начиная с нижней части
+title: "ImageStamp.YIndent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageStamp. Возвращает и задает вертикальную координату печати, начиная с низа"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/imagestamp/yindent/
 ---
-## Свойство ImageStamp.YIndent
+## ImageStamp.YIndent property
 
-Получает и устанавливает вертикальную координату штампа, начиная с нижней части.
+Получает и задаёт вертикальную координату печати, начиная с нижнего края.
 
 ```csharp
 public override double YIndent { get; set; }
@@ -16,6 +16,8 @@ public override double YIndent { get; set; }
 
 ### См. также
 
-* класс [ImageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

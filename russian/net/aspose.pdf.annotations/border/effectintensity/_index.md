@@ -1,14 +1,14 @@
 ---
-title: Border.EffectIntensity
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Border. Получает или устанавливает интенсивность эффекта. Допустимый диапазон значений от 0 до 2
+title: "Border.EffectIntensity"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Border. Получает или задает интенсивность эффекта. Допустимый диапазон значения 0..2"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/border/effectintensity/
 ---
-## Свойство Border.EffectIntensity
+## Border.EffectIntensity property
 
-Получает или устанавливает интенсивность эффекта. Допустимый диапазон значений [0..2].
+Получает или задаёт интенсивность эффекта. Допустимый диапазон значений — [0..2].
 
 ```csharp
 public int EffectIntensity { get; set; }
@@ -16,6 +16,8 @@ public int EffectIntensity { get; set; }
 
 ### См. также
 
-* класс [Border](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: NamedDestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NamedDestinationCollection. Получает или устанавливает назначение по его имени
+title: "NamedDestinationCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NamedDestinationCollection. Получает или задает назначение по его имени"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/nameddestinationcollection/item/
 ---
-## Индексатор NamedDestinationCollection
+## NamedDestinationCollection indexer
 
-Получает или устанавливает назначение по его имени.
+Получает или задаёт назначение по его имени.
 
 ```csharp
 public IAppointment this[string name] { get; set; }
@@ -16,15 +16,17 @@ public IAppointment this[string name] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| name | Имя назначения. |
+| имя | Имя назначения. |
 
 ### Возвращаемое значение
 
-Назначение
+Appoitnemt
 
 ### См. также
 
-* интерфейс [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* класс [NamedDestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

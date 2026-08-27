@@ -1,12 +1,12 @@
 ---
-title: SetRGBColor.G
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetRGBColor. Получает или задает зеленый компонент
+title: "SetRGBColor.G"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SetRGBColor свойство. Получает или задает зеленый компонент"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/setrgbcolor/g/
 ---
-## Свойство SetRGBColor.G
+## SetRGBColor.G property
 
 Получает или задает зеленый компонент.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf.operators/setrgbcolor/g/
 public double G { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Уровень зеленого от 0.0 до 1.0
 
 ### См. также
 
-* класс [SetRGBColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetRGBColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

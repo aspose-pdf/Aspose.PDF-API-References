@@ -1,12 +1,12 @@
 ---
-title: Merger.Merger
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Merger. Конструктор по умолчанию
+title: "Merger.Merger"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Merger. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/merger/merger/
 ---
-## Конструктор Merger
+## Merger constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Merger()
 
 ### См. также
 
-* класс [Merger](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [Merger](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

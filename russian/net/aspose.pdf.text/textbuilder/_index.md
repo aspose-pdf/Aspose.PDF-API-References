@@ -1,14 +1,14 @@
 ---
-title: Class TextBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.TextBuilder. Добавляет текстовый объект на страницу Pdf
+title: "Класс TextBuilder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс **Aspose.Pdf.Text.TextBuilder**. Добавляет объект текста на страницу Pdf"
 type: docs
-weight: 10810
+weight: 10990
 url: /ru/net/aspose.pdf.text/textbuilder/
 ---
-## Класс TextBuilder
+## TextBuilder class
 
-Добавляет текстовый объект на страницу Pdf.
+Добавляет объект текста на страницу PDF.
 
 ```csharp
 public sealed class TextBuilder
@@ -25,11 +25,13 @@ public sealed class TextBuilder
 
 | Имя | Описание |
 | --- | --- |
-| [AppendParagraph](../../aspose.pdf.text/textbuilder/appendparagraph/)(TextParagraph) | Добавляет текстовый абзац на страницу Pdf. |
+| [AppendParagraph](../../aspose.pdf.text/textbuilder/appendparagraph/)(TextParagraph) | Добавляет абзац текста на страницу Pdf. |
 | [AppendText](../../aspose.pdf.text/textbuilder/appendtext/#appendtext_1)(List&lt;TextFragment&gt;) | Добавляет список текстовых фрагментов на страницу Pdf. |
 | [AppendText](../../aspose.pdf.text/textbuilder/appendtext/#appendtext)(TextFragment) | Добавляет текстовый фрагмент на страницу Pdf |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Class FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.FontColor. Класс, представляющий цвет текста
+title: "Класс FontColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Facades.FontColor. Класс, представляющий цвет текста"
 type: docs
-weight: 4270
+weight: 4390
 url: /ru/net/aspose.pdf.facades/fontcolor/
 ---
 ## FontColor class
@@ -14,22 +14,24 @@ url: /ru/net/aspose.pdf.facades/fontcolor/
 public sealed class FontColor
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [FontColor](fontcolor/#constructor)() | Инициализирует цвет. |
 | [FontColor](fontcolor/#constructor_1)(int, int, int) | Инициализирует цвет с указанными компонентами цвета. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [Blue](../../aspose.pdf.facades/fontcolor/blue/) { get; set; } | Синяя компонента цвета. |
-| [Green](../../aspose.pdf.facades/fontcolor/green/) { get; set; } | Зеленая компонента цвета. |
-| [Red](../../aspose.pdf.facades/fontcolor/red/) { get; set; } | Красная компонента цвета. |
+| [Blue](../../aspose.pdf.facades/fontcolor/blue/) { get; set; } | Синий компонент цвета. |
+| [Green](../../aspose.pdf.facades/fontcolor/green/) { get; set; } | Зелёный компонент цвета. |
+| [Red](../../aspose.pdf.facades/fontcolor/red/) { get; set; } | Красный компонент цвета. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

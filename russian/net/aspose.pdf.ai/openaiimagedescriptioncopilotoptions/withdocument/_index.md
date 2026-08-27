@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Добавляет PDF-документ в коллекцию документов для параметров копилота описания изображения
+title: "OpenAIImageDescriptionCopilotOptions.WithDocument"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIImageDescriptionCopilotOptions. Добавляет PDF‑документ в коллекцию документов для параметров копилота описания изображения."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocument/
 ---
 ## WithDocument(PdfDocument) {#withdocument}
 
-Добавляет PDF-документ в коллекцию документов для параметров копилота описания изображения.
+Добавляет PDF‑документ в коллекцию документов для параметров копилота описания изображения.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocument(PdfDocument pdfDocument)
@@ -16,7 +16,7 @@ public OpenAIImageDescriptionCopilotOptions WithDocument(PdfDocument pdfDocument
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdfDocument | PdfDocument | PDF-документ для добавления. |
+| pdfDocument | PdfDocument | PDF‑документ для добавления. |
 
 ### Возвращаемое значение
 
@@ -24,10 +24,10 @@ public OpenAIImageDescriptionCopilotOptions WithDocument(PdfDocument pdfDocument
 
 ### См. также
 
-* класс [PdfDocument](../../pdfdocument/)
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -49,6 +49,8 @@ public OpenAIImageDescriptionCopilotOptions WithDocument(string filePath)
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

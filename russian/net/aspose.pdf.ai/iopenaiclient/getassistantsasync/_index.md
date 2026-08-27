@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetAssistantsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно получает список ассистентов
+title: "IOpenAIClient.GetAssistantsAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно получает список помощников."
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.ai/iopenaiclient/getassistantsasync/
 ---
-## Метод IOpenAIClient.GetAssistantsAsync
+## IOpenAIClient.GetAssistantsAsync method
 
-Асинхронно получает список ассистентов.
+Получает список помощников асинхронно.
 
 ```csharp
 public Task<AssistantListResponse> GetAssistantsAsync(
@@ -18,17 +18,19 @@ public Task<AssistantListResponse> GetAssistantsAsync(
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| queryParameters | AssistantListQueryParameters | Необязательные параметры запроса для фильтрации списка ассистентов. |
+| queryParameters | AssistantListQueryParameters | Необязательные параметры запроса для фильтрации списка помощников. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит список ассистентов.
+Задача, представляющая асинхронную операцию. Результат задачи содержит список помощников.
 
 ### См. также
 
-* класс [AssistantListResponse](../../assistantlistresponse/)
-* класс [AssistantListQueryParameters](../../assistantlistqueryparameters/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AssistantListResponse](../../assistantlistresponse/)
+* class [AssistantListQueryParameters](../../assistantlistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

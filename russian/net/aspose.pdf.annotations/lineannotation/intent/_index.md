@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LineAnnotation. Получает или задает намерение аннотации линии
+title: "LineAnnotation.Intent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "LineAnnotation свойство. Получает или задает назначение линейной аннотации"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/lineannotation/intent/
 ---
-## Свойство LineAnnotation.Intent
+## LineAnnotation.Intent property
 
-Получает или задает намерение аннотации линии.
+Получает или задает назначение аннотации линии.
 
 ```csharp
 public LineIntent Intent { get; set; }
@@ -20,3 +20,5 @@ public LineIntent Intent { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

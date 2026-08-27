@@ -1,40 +1,42 @@
 ---
-title: Class SaveOptions.BorderPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.SaveOptionsBorderPartStyle. Представляет информацию об одной части границы.
+title: "Класс SaveOptions.BorderPartStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.SaveOptionsBorderPartStyle. Представляет информацию об одной части границы (верх, низ, левая или правая сторона)"
 type: docs
-weight: 9890
+weight: 10040
 url: /ru/net/aspose.pdf/saveoptions.borderpartstyle/
 ---
 ## SaveOptions.BorderPartStyle class
 
-Представляет информацию об одной части границы (верхней, нижней, левой или правой стороне)
+Представляет информацию об одной части границы (верх, низ, левая сторона или правая сторона)
 
 ```csharp
 public class BorderPartStyle
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [BorderPartStyle](../../aspose.pdf/saveoptions.borderpartstyle/.ctor)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [WidthInPoints](../../aspose.pdf/saveoptions.borderpartstyle/widthinpoints) { get; set; } | Представляет ширину линии границы в пунктах. Должно быть число больше нуля. |
 
-## Fields
+## Поля
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [Color](../../aspose.pdf/saveoptions.borderpartstyle/color) | Представляет цвет линии границы |
-| [LineType](../../aspose.pdf/saveoptions.borderpartstyle/linetype) | Представляет тип линии границы - например, пунктирная или сплошная |
+| [LineType](../../aspose.pdf/saveoptions.borderpartstyle/linetype) | Представляет тип линии границы — например, пунктирный или сплошной |
 
-### See Also
+### См. также
 
 * class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfConverterOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfConverterOptions. Возвращает коллекцию данных плагина PdfConverterOptions
+title: "PdfConverterOptions.Inputs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "свойство PdfConverterOptions. Возвращает коллекцию данных плагина PdfConverterOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/pdfconverteroptions/inputs/
 ---
-## Свойство PdfConverterOptions.Inputs
+## PdfConverterOptions.Inputs property
 
 Возвращает коллекцию данных плагина PdfConverterOptions.
 
@@ -16,7 +16,9 @@ public List<IDataSource> Inputs { get; }
 
 ### См. также
 
-* интерфейс [IDataSource](../../idatasource/)
-* класс [PdfConverterOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

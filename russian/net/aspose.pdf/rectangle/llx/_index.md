@@ -1,14 +1,14 @@
 ---
-title: Rectangle.LLX
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Rectangle. Координата X нижнего левого угла
+title: "Rectangle.LLX"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Rectangle. X‑координата нижнего левого угла"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/rectangle/llx/
 ---
-## Свойство Rectangle.LLX
+## Rectangle.LLX property
 
-Координата X нижнего левого угла.
+Координата X нижнего‑левого угла.
 
 ```csharp
 public double LLX { get; set; }
@@ -16,6 +16,8 @@ public double LLX { get; set; }
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

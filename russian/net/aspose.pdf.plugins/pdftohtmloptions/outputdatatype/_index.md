@@ -1,12 +1,12 @@
 ---
-title: PdfToHtmlOptions.OutputDataType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfToHtmlOptions. Получает тип выходных данных
+title: "PdfToHtmlOptions.OutputDataType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfToHtmlOptions property. Возвращает тип выходных данных"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/pdftohtmloptions/outputdatatype/
 ---
-## Свойство PdfToHtmlOptions.OutputDataType
+## PdfToHtmlOptions.OutputDataType property
 
 Получает тип выходных данных.
 
@@ -20,3 +20,5 @@ public SaveDataType OutputDataType { get; }
 * class [PdfToHtmlOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

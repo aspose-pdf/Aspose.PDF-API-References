@@ -1,12 +1,12 @@
 ---
-title: MoveTo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод MoveTo. Возвращает текстовое представление оператора
+title: "MoveTo.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "MoveTo метод. Возвращает текстовое представление оператора"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.operators/moveto/tostring/
 ---
-## Метод MoveTo.ToString
+## MoveTo.ToString method
 
 Возвращает текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [MoveTo](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

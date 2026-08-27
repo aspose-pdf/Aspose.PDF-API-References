@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.CheckBoxStyleSquare
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет стиль квадратного флажка
+title: "FormFieldFacade.CheckBoxStyleSquare"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Определяет квадратный стиль флажка"
 type: docs
 weight: 430
 url: /ru/net/aspose.pdf.facades/formfieldfacade/checkboxstylesquare/
 ---
-## Поле FormFieldFacade.CheckBoxStyleSquare
+## FormFieldFacade.CheckBoxStyleSquare field
 
 Определяет стиль квадратного флажка.
 
@@ -16,6 +16,8 @@ public const int CheckBoxStyleSquare;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

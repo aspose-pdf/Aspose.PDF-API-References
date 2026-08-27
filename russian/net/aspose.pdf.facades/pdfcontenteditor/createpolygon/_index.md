@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePolygon
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает аннотацию в виде полигона
+title: "PdfContentEditor.CreatePolygon"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Создаёт полигональную аннотацию"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createpolygon/
 ---
-## Метод PdfContentEditor.CreatePolygon
+## PdfContentEditor.CreatePolygon method
 
-Создает аннотацию в виде полигона.
+Создаёт полигональную аннотацию.
 
 ```csharp
 public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
@@ -17,8 +17,8 @@ public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, stri
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lineInfo | LineInfo | Экземпляр класса LineInfo. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
-| annotRect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | annotContents | String | Содержимое аннотации. |
 
 ## Примеры
@@ -35,7 +35,9 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [LineInfo](../../lineinfo/)
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.UpdateAppearanceOnConvert
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldOptions. Получает/устанавливает значение, чтобы определить, будет ли созданное/измененное поле обновлять внешний вид при конвертации или нет.
+title: "FormFieldOptions.UpdateAppearanceOnConvert"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormFieldOptions. Получает/устанавливает значение, определяющее, будет ли созданное/изменённое поле обновлять внешний вид при конвертации, если будет установлено."
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.plugins/formfieldoptions/updateappearanceonconvert/
 ---
-## Свойство FormFieldOptions.UpdateAppearanceOnConvert
+## FormFieldOptions.UpdateAppearanceOnConvert property
 
-Получает/устанавливает значение, чтобы определить, будет ли созданное/измененное поле обновлять внешний вид при конвертации или нет (если будет установлено).
+Получает/устанавливает значение, определяющее, обновлять ли внешний вид поля при конвертации или нет (если будет установлено).
 
 ```csharp
 public bool? UpdateAppearanceOnConvert { get; set; }
@@ -16,6 +16,8 @@ public bool? UpdateAppearanceOnConvert { get; set; }
 
 ### См. также
 
-* класс [FormFieldOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

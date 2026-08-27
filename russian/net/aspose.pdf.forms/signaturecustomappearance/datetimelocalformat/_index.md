@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.DateTimeLocalFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает локальный формат даты и времени. Значение по умолчанию yyyy.MM.dd HHmmss zzz
+title: "SignatureCustomAppearance.DateTimeLocalFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignatureCustomAppearance. Получает/устанавливает локальный формат даты и времени. Значение по умолчанию yyyy.MM.dd HHmmss zzz"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/datetimelocalformat/
 ---
-## Свойство SignatureCustomAppearance.DateTimeLocalFormat
+## SignatureCustomAppearance.DateTimeLocalFormat property
 
 Получает/устанавливает локальный формат даты и времени. Значение по умолчанию: "yyyy.MM.dd HH:mm:ss zzz".
 
@@ -16,6 +16,8 @@ public string DateTimeLocalFormat { get; set; }
 
 ### См. также
 
-* класс [SignatureCustomAppearance](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

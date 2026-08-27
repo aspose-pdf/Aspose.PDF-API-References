@@ -1,28 +1,30 @@
 ---
-title: Class AIClientException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.AIClientException. Представляет собой исключение, специфичное для операций AI Client
+title: "Класс AIClientException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.AIClientException. Представляет исключение, специфичное для операций AI Client."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/aiclientexception/
 ---
 ## AIClientException class
 
-Представляет собой исключение, специфичное для операций AI Client.
+Представляет исключение, специфичное для операций клиента ИИ.
 
 ```csharp
 public class AIClientException : PdfException
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [AIClientException](aiclientexception/#constructor)(string) | Инициализирует новый экземпляр класса `AIClientException` с указанным сообщением об ошибке. |
-| [AIClientException](aiclientexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса `AIClientException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [AIClientException](aiclientexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса `AIClientException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, являющееся причиной данного исключения. |
 
-### See Also
+### См. также
 
 * class [PdfException](../../aspose.pdf/pdfexception/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

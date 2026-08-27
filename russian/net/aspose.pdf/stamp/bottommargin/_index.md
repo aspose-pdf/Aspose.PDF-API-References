@@ -1,14 +1,14 @@
 ---
-title: Stamp.BottomMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Получает или задает нижний отступ штампа
+title: "Stamp.BottomMargin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Получает или задает нижний отступ штампа"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/stamp/bottommargin/
 ---
-## Свойство Stamp.BottomMargin
+## Stamp.BottomMargin property
 
-Получает или задает нижний отступ штампа.
+Получает или задаёт нижний отступ штампа.
 
 ```csharp
 public double BottomMargin { get; set; }
@@ -16,6 +16,8 @@ public double BottomMargin { get; set; }
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

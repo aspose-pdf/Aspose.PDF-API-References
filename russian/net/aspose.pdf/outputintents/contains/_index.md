@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OutputIntents. Определяет, содержит ли коллекция конкретный выходной намерение
+title: "OutputIntents.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OutputIntents. Определяет, содержит ли коллекция конкретное выходное намерение."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/outputintents/contains/
 ---
-## Метод OutputIntents.Contains
+## OutputIntents.Contains method
 
-Определяет, содержит ли коллекция конкретное выходное намерение.
+Определяет, содержит ли коллекция конкретный output intent.
 
 ```csharp
 public bool Contains(OutputIntent item)
@@ -16,7 +16,7 @@ public bool Contains(OutputIntent item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | OutputIntent | Выходное намерение, которое нужно найти в коллекции. |
+| item | OutputIntent | Назначение вывода для размещения в коллекции. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public bool Contains(OutputIntent item)
 
 ### См. также
 
-* класс [OutputIntent](../../outputintent/)
-* класс [OutputIntents](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

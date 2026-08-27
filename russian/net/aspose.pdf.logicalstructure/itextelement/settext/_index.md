@@ -1,12 +1,12 @@
 ---
-title: ITextElement.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITextElement. Добавляет текстовое содержимое к текущему текстовому элементу
+title: "ITextElement.SetText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITextElement. Добавляет текстовое содержимое к текущему текстовому элементу"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/itextelement/settext/
 ---
-## Метод ITextElement.SetText
+## ITextElement.SetText method
 
 Добавляет текстовое содержимое к текущему текстовому элементу.
 
@@ -16,10 +16,12 @@ public void SetText(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое |
+| текст | String | Текстовое содержимое |
 
 ### См. также
 
-* интерфейс [ITextElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* interface [ITextElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

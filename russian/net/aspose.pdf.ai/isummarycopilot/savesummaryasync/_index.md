@@ -1,14 +1,14 @@
 ---
-title: ISummaryCopilot.SaveSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ISummaryCopilot. Асинхронно сохраняет сводку в PDF файл
+title: "ISummaryCopilot.SaveSummaryAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ISummaryCopilot. Асинхронно сохраняет сводку в PDF‑файл"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/isummarycopilot/savesummaryasync/
 ---
 ## SaveSummaryAsync(string, CancellationToken?) {#savesummaryasync_1}
 
-Асинхронно сохраняет сводку в PDF файл.
+Асинхронно сохраняет резюме в PDF‑файл.
 
 ```csharp
 public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellationToken = default)
@@ -25,15 +25,15 @@ public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellat
 
 ### См. также
 
-* интерфейс [ISummaryCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveSummaryAsync(string, SaveFormat, CancellationToken?) {#savesummaryasync}
 
-Асинхронно сохраняет сводку в файл с указанным форматом.
+Асинхронно сохраняет резюме в файл указанного формата.
 
 ```csharp
 public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat, 
@@ -43,7 +43,7 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputFileName | String | Имя выходного файла для сохранения сводки. |
-| saveFormat | SaveFormat | Формат, в котором нужно сохранить сводку. |
+| saveFormat | SaveFormat | Формат, в котором сохранять сводку. |
 | cancellationToken | Nullable`1 | Токен отмены (необязательно). |
 
 ### Возвращаемое значение
@@ -52,7 +52,9 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat,
 
 ### См. также
 
-* перечисление [SaveFormat](../../../aspose.pdf/saveformat/)
-* интерфейс [ISummaryCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TocGenerator.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TocGenerator. Реализация IDisposable. На самом деле это не обязательно для TocGenerator
+title: "TocGenerator.Dispose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TocGenerator. Реализация IDisposable. На самом деле это не требуется для TocGenerator."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/tocgenerator/dispose/
 ---
-## Метод TocGenerator.Dispose
+## TocGenerator.Dispose method
 
-Реализация IDisposable. На самом деле это не обязательно для TocGenerator.
+Реализация IDisposable. На самом деле это не требуется для TocGenerator.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### См. также
 
-* класс [TocGenerator](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TocGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

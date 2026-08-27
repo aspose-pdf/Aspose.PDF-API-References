@@ -1,12 +1,12 @@
 ---
-title: Class PdfActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.PdfActionCollection. Класс описывает список действий
+title: "Класс PdfActionCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.PdfActionCollection класс. Класс описывает список действий"
 type: docs
-weight: 2280
+weight: 2370
 url: /ru/net/aspose.pdf.annotations/pdfactioncollection/
 ---
-## Класс PdfActionCollection
+## PdfActionCollection class
 
 Класс описывает список действий.
 
@@ -31,6 +31,8 @@ public class PdfActionCollection : IEnumerable<PdfAction>
 
 ### См. также
 
-* класс [PdfAction](../pdfaction/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

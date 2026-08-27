@@ -1,14 +1,14 @@
 ---
-title: CosPdfString.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CosPdfString. Возвращает строку, представляющую текущий CosPdfString
+title: "CosPdfString.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CosPdfString. Возвращает String, представляющий текущий CosPdfString."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.dataeditor/cospdfstring/tostring/
 ---
-## Метод CosPdfString.ToString
+## CosPdfString.ToString method
 
-Возвращает строку, представляющую текущий [`CosPdfString`](../).
+Возвращает String, представляющий текущий [`CosPdfString`](../).
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-Строка, представляющая текущий [`CosPdfString`](../).
+String, представляющий текущий [`CosPdfString`](../).
 
 ### См. также
 
-* класс [CosPdfString](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

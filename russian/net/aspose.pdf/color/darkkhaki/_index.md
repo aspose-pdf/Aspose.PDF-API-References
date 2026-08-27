@@ -1,14 +1,14 @@
 ---
-title: Color.DarkKhaki
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFBDB76B
+title: "Color.DarkKhaki"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFBDB76B"
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf/color/darkkhaki/
 ---
-## Свойство Color.DarkKhaki
+## Color.DarkKhaki property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFBDB76B.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FFBDB76B.
 
 ```csharp
 public static Color DarkKhaki { get; }
@@ -16,10 +16,12 @@ public static Color DarkKhaki { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

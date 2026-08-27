@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.IsEncrypted
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileInfo. Проверяет, зашифрован ли PDF документ
+title: "PdfFileInfo.IsEncrypted"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileInfo. Проверяет, зашифрован ли PDF-документ"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/pdffileinfo/isencrypted/
 ---
-## Свойство PdfFileInfo.IsEncrypted
+## PdfFileInfo.IsEncrypted property
 
-Проверяет, зашифрован ли PDF документ.
+Проверяет, зашифрован ли PDF‑документ.
 
 ```csharp
 public bool IsEncrypted { get; }
@@ -16,6 +16,8 @@ public bool IsEncrypted { get; }
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

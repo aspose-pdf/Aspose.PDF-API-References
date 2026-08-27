@@ -1,7 +1,7 @@
 ---
-title: PdfFileMend.PdfFileMend
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfFileMend. Конструктор
+title: "PdfFileMend.PdfFileMend"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileMend конструктор. Конструктор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdffilemend/pdffilemend/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.facades/pdffilemend/pdffilemend/
 public PdfFileMend()
 ```
 
-### See Also
+### См. также
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,19 +24,21 @@ public PdfFileMend()
 
 ## PdfFileMend(Document) {#constructor_1}
 
-Инициализирует новый [`PdfFileMend`](../) объект на основе *документа*.
+Инициализирует новый объект [`PdfFileMend`](../) на основе *document*.
 
 ```csharp
 public PdfFileMend(Document document)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| документ | Document | Pdf документ. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

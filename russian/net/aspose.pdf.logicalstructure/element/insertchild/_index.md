@@ -1,14 +1,14 @@
 ---
-title: Element.InsertChild
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Element. Вставить элемент в коллекцию дочерних элементов по указанному индексу
+title: "Element.InsertChild"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Element. Вставить элемент в коллекцию дочерних элементов по указанному индексу"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.logicalstructure/element/insertchild/
 ---
-## Метод Element.InsertChild
+## Element.InsertChild method
 
-Вставить элемент в коллекцию дочерних элементов по указанному индексу.
+Вставить Element в коллекцию дочерних элементов по указанному индексу.
 
 ```csharp
 public Element InsertChild(Element element, int index, bool checkIfCanBeInserted = true)
@@ -16,13 +16,13 @@ public Element InsertChild(Element element, int index, bool checkIfCanBeInserted
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | Element | Объект элемента для добавления. |
-| index | Int32 | Индекс элемента. |
-| checkIfCanBeInserted | Boolean | Проверить, можно ли вставить. |
+| элемент | Element | Объект Element для добавления. |
+| index | Int32 | Индекс Element. |
+| checkIfCanBeInserted | Boolean | Проверьте, можно ли вставить. |
 
 ### Возвращаемое значение
 
-Элемент, который был добавлен.
+Element, который был добавлен.
 
 ### Исключения
 
@@ -32,6 +32,8 @@ public Element InsertChild(Element element, int index, bool checkIfCanBeInserted
 
 ### См. также
 
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

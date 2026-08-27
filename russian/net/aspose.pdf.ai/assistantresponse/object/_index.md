@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AssistantResponse. Получает или устанавливает тип объекта, который всегда является помощником
+title: "AssistantResponse.Object"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AssistantResponse. Получает или задает тип объекта, который всегда равен assistant."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.ai/assistantresponse/object/
 ---
-## Свойство AssistantResponse.Object
+## AssistantResponse.Object property
 
-Получает или устанавливает тип объекта, который всегда является помощником.
+Получает или задаёт тип объекта, который всегда равен assistant.
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### См. также
 
-* класс [AssistantResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AssistantResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

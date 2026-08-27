@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AttributeOwnerStandard. Возвращает строку, представляющую текущий объект
+title: "AttributeOwnerStandard.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeOwnerStandard метод. Возвращает строку, представляющую текущий объект"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.logicalstructure/attributeownerstandard/tostring/
 ---
-## Метод AttributeOwnerStandard.ToString
+## AttributeOwnerStandard.ToString method
 
 Возвращает строку, представляющую текущий объект.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [AttributeOwnerStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

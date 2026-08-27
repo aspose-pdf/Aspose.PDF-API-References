@@ -1,31 +1,33 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DCrossSection. Получает или задает непрозрачность среза
+title: "PDF3DCrossSection.CuttingPlaneOpacity"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DCrossSection. Возвращает или задает непрозрачность плоскости среза"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/
 ---
-## Свойство PDF3DCrossSection.CuttingPlaneOpacity
+## PDF3DCrossSection.CuttingPlaneOpacity property
 
-Получает или задает непрозрачность среза.
+Получает или задает непрозрачность плоскости среза.
 
 ```csharp
 public double CuttingPlaneOpacity { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Непрозрачность среза.
+Непрозрачность плоскости среза.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| Exception | Число должно быть в диапазоне [0 , 1] |
+| Exception | Число должно находиться в диапазоне [0 , 1] |
 
 ### См. также
 
-* класс [PDF3DCrossSection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

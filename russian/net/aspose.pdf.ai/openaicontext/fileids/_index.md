@@ -1,21 +1,23 @@
 ---
-title: OpenAIContext.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OpenAIContext. Получает или устанавливает список идентификаторов файлов
+title: "OpenAIContext.FileIds"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OpenAIContext. Получает или задает список идентификаторов файлов"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/openaicontext/fileids/
 ---
-## Свойство OpenAIContext.FileIds
+## OpenAIContext.FileIds property
 
-Получает или устанавливает список идентификаторов файлов.
+Получает или задаёт список ID файлов File.
 
 ```csharp
 public List<string> FileIds { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
-* класс [OpenAIContext](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

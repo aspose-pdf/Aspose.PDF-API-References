@@ -1,12 +1,12 @@
 ---
-title: StringResult.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StringResult. Возвращает строковое представление результата
+title: "StringResult.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StringResult. Возвращает строковое представление результата"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.plugins/stringresult/text/
 ---
-## Свойство StringResult.Text
+## StringResult.Text property
 
 Возвращает строковое представление результата.
 
@@ -16,6 +16,8 @@ public string Text { get; }
 
 ### См. также
 
-* класс [StringResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [StringResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

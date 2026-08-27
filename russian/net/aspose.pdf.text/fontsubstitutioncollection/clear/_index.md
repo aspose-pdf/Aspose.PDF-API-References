@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontSubstitutionCollection. Очищает коллекцию замены шрифтов
+title: "FontSubstitutionCollection.Clear"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontSubstitutionCollection. Очищает коллекцию замены шрифтов"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/fontsubstitutioncollection/clear/
 ---
-## Метод FontSubstitutionCollection.Clear
+## FontSubstitutionCollection.Clear method
 
 Очищает коллекцию замены шрифтов.
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### См. также
 
-* класс [FontSubstitutionCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

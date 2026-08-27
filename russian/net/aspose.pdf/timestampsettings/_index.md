@@ -1,14 +1,14 @@
 ---
-title: Class TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.TimestampSettings. Представляет настройки ocsp, используемые в процессе подписания
+title: "Класс TimestampSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.TimestampSettings класс. Представляет настройки ocsp, используемые в процессе подписи."
 type: docs
-weight: 11100
+weight: 11290
 url: /ru/net/aspose.pdf/timestampsettings/
 ---
-## Класс TimestampSettings
+## TimestampSettings class
 
-Представляет настройки ocsp, используемые в процессе подписания.
+Представляет настройки OCSP, используемые во время процесса подписи.
 
 ```csharp
 public class TimestampSettings
@@ -24,11 +24,13 @@ public class TimestampSettings
 
 | Имя | Описание |
 | --- | --- |
-| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials/) { get; set; } | Получает/устанавливает учетные данные базовой аутентификации, имя пользователя и пароль объединены в строку "username:password". |
-| [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm/) { get; set; } | Получает/устанавливает алгоритм дайджеста для внутренних хеш-функций. |
-| [ServerUrl](../../aspose.pdf/timestampsettings/serverurl/) { get; set; } | Получает/устанавливает URL сервера временных меток. |
+| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials/) { get; set; } | Получает/задает базовые учетные данные для аутентификации, Username и password объединяются в строку "username:password". |
+| [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm/) { get; set; } | Получает/задает алгоритм дайджеста для внутренних хеш-функций. |
+| [ServerUrl](../../aspose.pdf/timestampsettings/serverurl/) { get; set; } | Получает/задает URL сервера меток времени. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

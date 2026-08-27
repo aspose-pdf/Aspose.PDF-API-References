@@ -1,14 +1,14 @@
 ---
-title: Color.MediumAquamarine
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет с ARGB значением c FF66CDAA
+title: "Color.MediumAquamarine"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FF66CDAA"
 type: docs
 weight: 830
 url: /ru/net/aspose.pdf/color/mediumaquamarine/
 ---
-## Свойство Color.MediumAquamarine
+## Color.MediumAquamarine property
 
-Получает системно определенный цвет с ARGB значением \c \#FF66CDAA.
+Получает системный цвет, у которого ARGB‑значение \c \#FF66CDAA.
 
 ```csharp
 public static Color MediumAquamarine { get; }
@@ -16,10 +16,12 @@ public static Color MediumAquamarine { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

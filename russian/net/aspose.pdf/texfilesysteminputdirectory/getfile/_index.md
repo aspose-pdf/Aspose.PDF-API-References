@@ -1,12 +1,12 @@
 ---
-title: TeXFileSystemInputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TeXFileSystemInputDirectory. Возвращает поток для чтения
+title: "TeXFileSystemInputDirectory.GetFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TeXFileSystemInputDirectory. Возвращает поток для чтения"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/texfilesysteminputdirectory/getfile/
 ---
-## Метод TeXFileSystemInputDirectory.GetFile
+## TeXFileSystemInputDirectory.GetFile method
 
 Возвращает поток для чтения.
 
@@ -18,7 +18,7 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | --- | --- | --- |
 | fileName | String | Имя файла. |
 | fullName | String& | Полное имя файла. |
-| searchSubdirectories | Boolean | Указывает, следует ли искать файл в подкаталогах. |
+| searchSubdirectories | Boolean | Указывает, следует ли искать файл в подпапках. |
 
 ### Возвращаемое значение
 
@@ -26,6 +26,8 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 
 ### См. также
 
-* класс [TeXFileSystemInputDirectory](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXFileSystemInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

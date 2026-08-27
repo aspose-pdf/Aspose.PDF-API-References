@@ -1,14 +1,14 @@
 ---
-title: BatesNArtifact.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BatesNArtifact. Получает или устанавливает префикс, который будет добавлен к номеру Bates
+title: "BatesNArtifact.Prefix"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BatesNArtifact. Получает или задает префикс, добавляемый к номеру Bates"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/batesnartifact/prefix/
 ---
-## Свойство BatesNArtifact.Prefix
+## BatesNArtifact.Prefix property
 
-Получает или устанавливает префикс, который будет добавлен к номеру Bates.
+Получает или задаёт префикс, добавляемый к номеру Bates.
 
 ```csharp
 public string Prefix { get; set; }
@@ -16,6 +16,8 @@ public string Prefix { get; set; }
 
 ### См. также
 
-* класс [BatesNArtifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BatesNArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

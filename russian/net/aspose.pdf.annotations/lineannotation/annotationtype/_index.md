@@ -1,12 +1,12 @@
 ---
-title: LineAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LineAnnotation. Получает тип аннотации
+title: "LineAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "LineAnnotation property. Получает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/lineannotation/annotationtype/
 ---
-## Свойство LineAnnotation.AnnotationType
+## LineAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

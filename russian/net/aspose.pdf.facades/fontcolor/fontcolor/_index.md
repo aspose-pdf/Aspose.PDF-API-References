@@ -1,14 +1,14 @@
 ---
-title: FontColor.FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FontColor. Инициализирует цвет с заданными компонентами цвета
+title: "FontColor.FontColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FontColor. Инициализирует цвет с указанными компонентами цвета"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/fontcolor/fontcolor/
 ---
 ## FontColor(int, int, int) {#constructor_1}
 
-Инициализирует цвет с заданными компонентами цвета.
+Инициализирует цвет с указанными компонентами цвета.
 
 ```csharp
 public FontColor(int r, int g, int b)
@@ -17,14 +17,14 @@ public FontColor(int r, int g, int b)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | r | Int32 | Красный компонент. |
-| g | Int32 | Зеленый компонент. |
+| g | Int32 | Зелёный компонент. |
 | b | Int32 | Синий компонент. |
 
 ### См. также
 
-* класс [FontColor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,6 +38,8 @@ public FontColor()
 
 ### См. также
 
-* класс [FontColor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

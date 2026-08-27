@@ -1,14 +1,14 @@
 ---
-title: StartEndPageEventArgs.TotalCopies
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StartEndPageEventArgs. Получает общее количество копий для печати
+title: "StartEndPageEventArgs.TotalCopies"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StartEndPageEventArgs. Возвращает общее количество копий для печати"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.printing/startendpageeventargs/totalcopies/
 ---
-## Поле StartEndPageEventArgs.TotalCopies
+## StartEndPageEventArgs.TotalCopies field
 
-Получает общее количество копий для печати.
+Возвращает общее количество копий для печати.
 
 ```csharp
 public readonly int TotalCopies;
@@ -16,6 +16,8 @@ public readonly int TotalCopies;
 
 ### См. также
 
-* класс [StartEndPageEventArgs](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

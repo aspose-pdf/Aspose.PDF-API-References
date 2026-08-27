@@ -1,14 +1,14 @@
 ---
-title: Page.GetPageRect
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Возвращает прямоугольник страницы в соответствии с ее CropBox или MediaBox, если CropBox равен null
+title: "Page.GetPageRect"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Возвращает прямоугольник страницы в соответствии с её CropBox или MediaBox, если CropBox null"
 type: docs
 weight: 460
 url: /ru/net/aspose.pdf/page/getpagerect/
 ---
-## Метод Page.GetPageRect
+## Page.GetPageRect method
 
-Возвращает прямоугольник страницы в соответствии с ее CropBox (или MediaBox, если CropBox равен null).
+Возвращает прямоугольник страницы в соответствии с её CropBox (или MediaBox, если CropBox равен null).
 
 ```csharp
 public Rectangle GetPageRect(bool considerRotation)
@@ -16,7 +16,7 @@ public Rectangle GetPageRect(bool considerRotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| considerRotation | Boolean | Если true, то поворот страницы будет учитываться при расчете прямоугольника. |
+| considerRotation | Boolean | Если true, то вращение страницы будет учитываться при расчёте прямоугольника. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public Rectangle GetPageRect(bool considerRotation)
 
 ### См. также
 
-* класс [Rectangle](../../rectangle/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

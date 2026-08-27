@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Number9Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Конверт 9 размером 3.875 дюйма на 8.875 дюйма
+title: "PaperSizes.Number9Envelope"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. 9 конверт 3,875 дюйм. на 8,875 дюйм"
 type: docs
 weight: 780
 url: /ru/net/aspose.pdf.printing/papersizes/number9envelope/
 ---
-## Поле PaperSizes.Number9Envelope
+## PaperSizes.Number9Envelope field
 
-Конверт 9 (3.875 дюйма на 8.875 дюйма).
+Конверт #9 (3.875 in. by 8.875 in.).
 
 ```csharp
 public static readonly PaperSize Number9Envelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize Number9Envelope;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

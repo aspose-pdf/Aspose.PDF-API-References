@@ -1,14 +1,14 @@
 ---
-title: PageNumber.GetPageNumberString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageNumber. Возвращает отформатированную строку, представляющую номер страницы на основе текущих настроек
+title: "PageNumber.GetPageNumberString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PageNumber method. Возвращает отформатированную строку, представляющую номер страницы в соответствии с текущими настройками."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/pagenumber/getpagenumberstring/
 ---
-## Метод PageNumber.GetPageNumberString
+## PageNumber.GetPageNumberString method
 
-Возвращает отформатированную строку, представляющую номер страницы на основе текущих настроек.
+Возвращает форматированную строку, представляющую номер страницы на основе текущих настроек.
 
 ```csharp
 public string GetPageNumberString(int pageNumber, int count)
@@ -17,7 +17,7 @@ public string GetPageNumberString(int pageNumber, int count)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageNumber | Int32 | Текущий номер страницы. |
-| count | Int32 | Общее количество страниц. |
+| количество | Int32 | Общее количество страниц. |
 
 ### Возвращаемое значение
 
@@ -25,6 +25,8 @@ public string GetPageNumberString(int pageNumber, int count)
 
 ### См. также
 
-* класс [PageNumber](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageNumber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

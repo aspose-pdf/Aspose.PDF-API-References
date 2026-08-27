@@ -1,12 +1,12 @@
 ---
-title: SplitOptions.SplitOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SplitOptions. Конструктор по умолчанию
+title: "SplitOptions.SplitOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SplitOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/splitoptions/splitoptions/
 ---
-## Конструктор SplitOptions
+## SplitOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public SplitOptions()
 
 ### См. также
 
-* класс [SplitOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [SplitOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

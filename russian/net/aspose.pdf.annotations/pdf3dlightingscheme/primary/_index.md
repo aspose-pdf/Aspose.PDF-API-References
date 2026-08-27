@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Primary
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DLightingScheme. Основная схема освещения
+title: "PDF3DLightingScheme.Primary"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PDF3DLightingScheme. Схема освещения Primary"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/primary/
 ---
-## Поле PDF3DLightingScheme.Primary
+## PDF3DLightingScheme.Primary field
 
-Схема освещения "Основная".
+Схема освещения "Primary".
 
 ```csharp
 public static PDF3DLightingScheme Primary;
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme Primary;
 
 ### См. также
 
-* класс [PDF3DLightingScheme](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

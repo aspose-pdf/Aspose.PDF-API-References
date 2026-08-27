@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.List
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeOwnerStandard. Список владельцев атрибутов
+title: "AttributeOwnerStandard.List"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeOwnerStandard поле. Владелец атрибута List"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.logicalstructure/attributeownerstandard/list/
 ---
-## Поле AttributeOwnerStandard.List
+## AttributeOwnerStandard.List field
 
-Список владельцев атрибутов.
+Владелец атрибута List.
 
 ```csharp
 public static readonly AttributeOwnerStandard List;
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard List;
 
 ### См. также
 
-* класс [AttributeOwnerStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

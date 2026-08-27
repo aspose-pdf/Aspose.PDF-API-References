@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.BitsPerChannel
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SoundSampleData. Получает или задает количество бит на значение выборки на канал
+title: "SoundSampleData.BitsPerChannel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SoundSampleData. Получает или задает количество бит на значение образца для каждого канала"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/soundsampledata/bitsperchannel/
 ---
-## Свойство SoundSampleData.BitsPerChannel
+## SoundSampleData.BitsPerChannel property
 
-Получает или задает количество бит на значение выборки на канал.
+Получает или задает количество битов на значение образца для каждого канала.
 
 ```csharp
 public int BitsPerChannel { get; set; }
@@ -16,6 +16,8 @@ public int BitsPerChannel { get; set; }
 
 ### См. также
 
-* класс [SoundSampleData](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

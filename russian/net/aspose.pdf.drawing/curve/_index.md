@@ -1,12 +1,12 @@
 ---
-title: Class Curve
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Drawing.Curve. Представляет кривую Безье
+title: "Класс Curve"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Drawing.Curve класс. Представляет кривую Безье"
 type: docs
-weight: 3900
+weight: 4020
 url: /ru/net/aspose.pdf.drawing/curve/
 ---
-## Класс Curve
+## Curve class
 
 Представляет кривую Безье.
 
@@ -24,7 +24,7 @@ public sealed class Curve : Shape
 
 | Имя | Описание |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Получает или задает объект [`GraphInfo`](../shape/graphinfo/), который указывает информацию о графике, такую как цвет, ширина линии и т.д. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Получает или задает объект [`GraphInfo`](../shape/graphinfo/), который указывает информацию о графе, такую как цвет, ширина линии и т.д. |
 | [PositionArray](../../aspose.pdf.drawing/curve/positionarray/) { get; set; } | Получает или задает массив позиций типа float. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Получает или задает текст для фигуры |
 
@@ -36,6 +36,8 @@ public sealed class Curve : Shape
 
 ### См. также
 
-* класс [Shape](../shape/)
-* пространство имен [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

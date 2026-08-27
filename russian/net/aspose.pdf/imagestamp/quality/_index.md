@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.Quality
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageStamp. Получает или задает качество изображения штампа в процентах. Допустимые значения от 0 до 100
+title: "ImageStamp.Quality"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageStamp. Возвращает или задает качество графической печати в процентах. Допустимые значения от 0 до 100"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/imagestamp/quality/
 ---
-## Свойство ImageStamp.Quality
+## ImageStamp.Quality property
 
-Получает или задает качество изображения штампа в процентах. Допустимые значения от 0 до 100%.
+Получает или задаёт качество графической печати в процентах. Допустимые значения от 0 до 100%.
 
 ```csharp
 public int Quality { get; set; }
@@ -16,6 +16,8 @@ public int Quality { get; set; }
 
 ### См. также
 
-* класс [ImageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

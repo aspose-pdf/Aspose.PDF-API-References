@@ -1,14 +1,14 @@
 ---
-title: HeadingLevels.HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор УровниЗаголовков. Создает новый экземпляр класса УровниЗаголовков
+title: "HeadingLevels.HeadingLevels"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор HeadingLevels. Создаёт новый экземпляр класса HeadingLevels."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.pdftomarkdown/headinglevels/headinglevels/
 ---
-## УровниЗаголовков() {#constructor}
+## HeadingLevels() {#constructor}
 
-Создает новый экземпляр класса УровниЗаголовков.
+Создаёт новый экземпляр класса HeadingLevels.
 
 ```csharp
 public HeadingLevels()
@@ -16,15 +16,15 @@ public HeadingLevels()
 
 ### См. также
 
-* класс [УровниЗаголовков](../)
-* пространство имен [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
-* сборка [Aspose.PDF](../../../)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## УровниЗаголовков(double) {#constructor_1}
+## HeadingLevels(double) {#constructor_1}
 
-Создает новый экземпляр класса УровниЗаголовков.
+Создаёт новый экземпляр класса HeadingLevels.
 
 ```csharp
 public HeadingLevels(double threshold)
@@ -32,10 +32,12 @@ public HeadingLevels(double threshold)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| порог | Double | Значение порога для сравнения размеров шрифтов. В пределах порога уровни заголовков одинаковы. Значение порога по умолчанию равно 0.01. |
+| порог | Double | Пороговое значение для сравнения размеров шрифтов. В пределах порога уровни заголовков одинаковы. Значение порога по умолчанию равно 0,01. |
 
 ### См. также
 
-* класс [УровниЗаголовков](../)
-* пространство имен [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
-* сборка [Aspose.PDF](../../../)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../../)
+
+

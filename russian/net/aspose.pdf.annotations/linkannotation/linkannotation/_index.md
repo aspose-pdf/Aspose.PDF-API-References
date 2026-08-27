@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.LinkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор LinkAnnotation. Создает новую аннотацию ссылки на указанной странице
+title: "LinkAnnotation.LinkAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор LinkAnnotation. Создает новую аннотацию Link на указанной странице"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/linkannotation/linkannotation/
 ---
-## Конструктор LinkAnnotation
+## LinkAnnotation constructor
 
-Создает новую аннотацию ссылки на указанной странице.
+Создаёт новую аннотацию Link на указанной странице.
 
 ```csharp
 public LinkAnnotation(Page page, Rectangle rect)
@@ -16,8 +16,8 @@ public LinkAnnotation(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница документа, на которой должна быть создана аннотация. |
-| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
+| страница | Страница | Страница Document, где следует создать аннотацию. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий её расположение на странице. |
 
 ### См. также
 
@@ -26,3 +26,5 @@ public LinkAnnotation(Page page, Rectangle rect)
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

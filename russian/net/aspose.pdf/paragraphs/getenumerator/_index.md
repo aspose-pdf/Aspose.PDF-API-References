@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Paragraphs. Получает перечислитель
+title: "Paragraphs.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Paragraphs. Получить перечислитель"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/paragraphs/getenumerator/
 ---
-## Метод Paragraphs.GetEnumerator
+## Paragraphs.GetEnumerator method
 
 Получает перечислитель.
 
@@ -20,7 +20,9 @@ public IEnumerator<BaseParagraph> GetEnumerator()
 
 ### См. также
 
-* класс [BaseParagraph](../../baseparagraph/)
-* класс [Paragraphs](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Document.Convert
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Document. Конвертировать документ и сохранить ошибки в указанный файл
+title: "Document.Convert"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Конвертирует документ и сохраняет ошибки в указанный файл"
 type: docs
-weight: 580
+weight: 600
 url: /ru/net/aspose.pdf/document/convert/
 ---
 ## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_8}
@@ -17,10 +17,10 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogFileName | String | Путь к файлу, где будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть конвертированы |
-| transparencyAction | ConvertTransparencyAction | Действие для объектов с маскированными изображениями |
+| outputLogFileName | String | Путь к файлу, где будут сохранены комментарии. |
+| формат | PdfFormat | Формат pdf. |
+| действие | ConvertErrorAction | Действие для объектов, которые нельзя преобразовать |
+| transparencyAction | ConvertTransparencyAction | Действие для объектов с маской изображения |
 
 ### Возвращаемое значение
 
@@ -48,10 +48,10 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogStream | Stream | Поток, где будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть конвертированы |
-| transparencyAction | ConvertTransparencyAction | Действие для объектов с маскированными изображениями |
+| outputLogStream | Stream | Поток, где будут сохранены комментарии. |
+| формат | PdfFormat | Формат pdf. |
+| действие | ConvertErrorAction | Действие для объектов, которые нельзя преобразовать |
+| transparencyAction | ConvertTransparencyAction | Действие для объектов с маской изображения |
 
 ### Возвращаемое значение
 
@@ -78,9 +78,9 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogFileName | String | Путь к файлу, где будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть конвертированы |
+| outputLogFileName | String | Путь к файлу, где будут сохранены комментарии. |
+| формат | PdfFormat | Формат pdf. |
+| действие | ConvertErrorAction | Действие для объектов, которые нельзя преобразовать |
 
 ### Возвращаемое значение
 
@@ -98,7 +98,7 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 
 ## Convert(PdfFormatConversionOptions) {#convert_2}
 
-Конвертировать документ, используя указанные параметры конвертации
+Конвертировать документ, используя указанные параметры конверсии
 
 ```csharp
 public bool Convert(PdfFormatConversionOptions options)
@@ -106,7 +106,7 @@ public bool Convert(PdfFormatConversionOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | Набор параметров для конвертации PDF документа |
+| options | PdfFormatConversionOptions | набор параметров для преобразования PDF‑документа |
 
 ### Возвращаемое значение
 
@@ -123,7 +123,7 @@ public bool Convert(PdfFormatConversionOptions options)
 
 ## Convert(CallBackGetHocrWithPage, bool) {#convert_4}
 
-Распознать изображения внутри документа и добавить строки hocr поверх них.
+Распознаёт изображения внутри документа и добавляет hocr‑строки поверх них.
 
 ```csharp
 public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false)
@@ -132,7 +132,7 @@ public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | callback | CallBackGetHocrWithPage | Действие для изображений, которые будут обработаны распознаванием hocr. |
-| flattenImages | Boolean | Текст в pdf изображениях может быть закрашен с использованием механики масок, в этом случае изображения должны быть уплощены. |
+| flattenImages | Boolean | Текст в pdf‑изображениях может быть отрисован с использованием механики масок, в этом случае изображения должны быть сплющены. |
 
 ### Возвращаемое значение
 
@@ -149,7 +149,7 @@ public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false
 
 ## Convert(CallBackGetHocr, bool) {#convert_3}
 
-Распознать изображения внутри документа и добавить строки hocr поверх них.
+Распознаёт изображения внутри документа и добавляет hocr‑строки поверх них.
 
 ```csharp
 public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
@@ -158,7 +158,7 @@ public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | callback | CallBackGetHocr | Действие для изображений, которые будут обработаны распознаванием hocr. |
-| flattenImages | Boolean | Текст в pdf изображениях может быть закрашен с использованием механики масок, в этом случае изображения должны быть уплощены. |
+| flattenImages | Boolean | Текст в pdf‑изображениях может быть отрисован с использованием механики масок, в этом случае изображения должны быть сплющены. |
 
 ### Возвращаемое значение
 
@@ -183,9 +183,9 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogStream | Stream | Поток, где будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть конвертированы |
+| outputLogStream | Stream | Поток, где будут сохранены комментарии. |
+| формат | PdfFormat | Формат Pdf. |
+| действие | ConvertErrorAction | Действие для объектов, которые нельзя преобразовать |
 
 ### Возвращаемое значение
 
@@ -214,8 +214,8 @@ public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false,
 | --- | --- | --- |
 | fixup | Fixup | Тип Fixup. |
 | outputLog | Stream | Журнал процесса. |
-| onlyValidation | Boolean | Только валидация документа. |
-| parameters | Object[] | Свойства для Fixup, которые не могут быть установлены. |
+| onlyValidation | Boolean | Только проверка документа. |
+| параметры | Object[] | Свойства для Fixup, которые нельзя установить. |
 
 ### Возвращаемое значение
 
@@ -243,8 +243,8 @@ public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false,
 | --- | --- | --- |
 | fixup | Fixup | Тип Fixup. |
 | outputLog | String | Журнал процесса. |
-| onlyValidation | Boolean | Только валидация документа. |
-| parameters | Object[] | Свойства для Fixup, которые не могут быть установлены. |
+| onlyValidation | Boolean | Только проверка документа. |
+| параметры | Object[] | Свойства для Fixup, которые нельзя установить. |
 
 ### Возвращаемое значение
 
@@ -261,7 +261,7 @@ public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false,
 
 ## Convert(string, LoadOptions, string, SaveOptions) {#convert_3}
 
-Конвертирует исходный файл в исходном формате в целевой файл в целевом формате.
+Преобразует исходный файл в исходном формате в файл назначения в целевом формате.
 
 ```csharp
 public static void Convert(string srcFileName, LoadOptions loadOptions, string dstFileName, 
@@ -287,7 +287,7 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, string d
 
 ## Convert(Stream, LoadOptions, string, SaveOptions) {#convert_1}
 
-Конвертирует поток в исходном формате в целевой файл в целевом формате.
+Преобразует поток из исходного формата в целевой файл в целевом формате.
 
 ```csharp
 public static void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileName, 
@@ -313,7 +313,7 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, string dst
 
 ## Convert(string, LoadOptions, Stream, SaveOptions) {#convert_2}
 
-Конвертирует исходный файл в исходном формате в поток в целевом формате.
+Преобразует исходный файл из исходного формата в поток в целевом формате.
 
 ```csharp
 public static void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStream, 
@@ -324,7 +324,7 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, Stream d
 | --- | --- | --- |
 | srcFileName | String | Имя исходного файла. |
 | loadOptions | LoadOptions | Формат исходного файла. |
-| dstStream | Stream | Целевой поток. |
+| dstStream | Stream | Поток назначения. |
 | saveOptions | SaveOptions | Формат целевого потока. |
 
 ### См. также
@@ -339,7 +339,7 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, Stream d
 
 ## Convert(Stream, LoadOptions, Stream, SaveOptions) {#convert}
 
-Конвертирует поток в исходном формате в поток в целевом формате.
+Преобразует поток из исходного формата в поток в целевом формате.
 
 ```csharp
 public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream, 
@@ -350,7 +350,7 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dst
 | --- | --- | --- |
 | srcStream | Stream | Исходный поток. |
 | loadOptions | LoadOptions | Формат исходного потока. |
-| dstStream | Stream | Целевой поток. |
+| dstStream | Stream | Поток назначения. |
 | saveOptions | SaveOptions | Формат целевого файла. |
 
 ### См. также
@@ -360,3 +360,5 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dst
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

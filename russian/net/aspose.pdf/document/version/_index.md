@@ -1,12 +1,12 @@
 ---
-title: Document.Version
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает версию Pdf из заголовка файла Pdf
+title: "Document.Version"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document свойство. Получает версию PDF из заголовка PDF‑файла"
 type: docs
-weight: 530
+weight: 550
 url: /ru/net/aspose.pdf/document/version/
 ---
-## Свойство Document.Version
+## Document.Version property
 
 Получает версию Pdf из заголовка файла Pdf.
 
@@ -16,6 +16,8 @@ public string Version { get; }
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

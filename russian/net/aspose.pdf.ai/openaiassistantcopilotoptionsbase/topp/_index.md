@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OpenAIAssistantCopilotOptionsBase. Получает или устанавливает значение topp для ядерного выборки
+title: "OpenAIAssistantCopilotOptionsBase.TopP"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIAssistantCopilotOptionsBase свойство. Получает или задает значение topp для ядерной выборки"
 type: docs
-weight: 60
+weight: 50
 url: /ru/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/
 ---
-## Свойство OpenAIAssistantCopilotOptionsBase.TopP
+## OpenAIAssistantCopilotOptionsBase.TopP property
 
-Получает или устанавливает значение top-p для ядерного выборки.
+Получает или задаёт значение top-p для ядерной выборки.
 
 ```csharp
 public double? TopP { get; set; }
@@ -16,6 +16,8 @@ public double? TopP { get; set; }
 
 ### См. также
 
-* класс [OpenAIAssistantCopilotOptionsBase](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

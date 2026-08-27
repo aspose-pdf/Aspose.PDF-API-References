@@ -1,14 +1,14 @@
 ---
-title: Interface IChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.AI.IChatCopilot. Представляет собой чат-коопилота для взаимодействия с документами через AI модели
+title: "Интерфейс IChatCopilot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.AI.IChatCopilot. Представляет чат‑помощника для взаимодействия с документами через модели ИИ"
 type: docs
-weight: 470
+weight: 490
 url: /ru/net/aspose.pdf.ai/ichatcopilot/
 ---
-## Интерфейс IChatCopilot
+## IChatCopilot interface
 
-Представляет собой чат-коопилота для взаимодействия с документами через AI модели.
+Представляет чат‑помощника для взаимодействия с документами через модели ИИ.
 
 ```csharp
 public interface IChatCopilot : IAICopilot
@@ -16,19 +16,21 @@ public interface IChatCopilot : IAICopilot
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [DeleteContextAsync](../../aspose.pdf.ai/ichatcopilot/deletecontextasync/)(CancellationToken?) | Асинхронно удаляет контекст. |
-| [GetResponseAsync](../../aspose.pdf.ai/ichatcopilot/getresponseasync/#getresponseasync)(List&lt;string&gt;, CancellationToken?) | Асинхронно получает ответ для данного списка сообщений. |
-| [GetResponseAsync](../../aspose.pdf.ai/ichatcopilot/getresponseasync/#getresponseasync_1)(string, CancellationToken?) | Асинхронно получает ответ для данного сообщения. |
-| [SaveContextAsync](../../aspose.pdf.ai/ichatcopilot/savecontextasync/)(string, CancellationToken?) | Асинхронно сохраняет контекст в JSON файл. |
-| [SaveResponseAsync](../../aspose.pdf.ai/ichatcopilot/saveresponseasync/#saveresponseasync_1)(List&lt;string&gt;, string, CancellationToken?) | Асинхронно сохраняет ответы для данного списка сообщений в PDF файл. |
-| [SaveResponseAsync](../../aspose.pdf.ai/ichatcopilot/saveresponseasync/#saveresponseasync_3)(string, string, CancellationToken?) | Асинхронно сохраняет ответ для данного сообщения в PDF файл. |
-| [SaveResponseAsync](../../aspose.pdf.ai/ichatcopilot/saveresponseasync/#saveresponseasync)(List&lt;string&gt;, string, SaveFormat, CancellationToken?) | Асинхронно сохраняет ответы для данного списка сообщений в файл с указанным форматом. |
-| [SaveResponseAsync](../../aspose.pdf.ai/ichatcopilot/saveresponseasync/#saveresponseasync_2)(string, string, SaveFormat, CancellationToken?) | Асинхронно сохраняет ответ для данного сообщения в файл с указанным форматом. |
+| [GetResponseAsync](../../aspose.pdf.ai/ichatcopilot/getresponseasync/#getresponseasync)(List&lt;string&gt;, CancellationToken?) | Асинхронно получает ответ для указанного списка сообщений. |
+| [GetResponseAsync](../../aspose.pdf.ai/ichatcopilot/getresponseasync/#getresponseasync_1)(string, CancellationToken?) | Асинхронно получает ответ для указанного сообщения. |
+| [SaveContextAsync](../../aspose.pdf.ai/ichatcopilot/savecontextasync/)(string, CancellationToken?) | Асинхронно сохраняет контекст в файл JSON. |
+| [SaveResponseAsync](../../aspose.pdf.ai/ichatcopilot/saveresponseasync/#saveresponseasync_1)(List&lt;string&gt;, string, CancellationToken?) | Асинхронно сохраняет ответы для указанного списка сообщений в файл PDF. |
+| [SaveResponseAsync](../../aspose.pdf.ai/ichatcopilot/saveresponseasync/#saveresponseasync_3)(string, string, CancellationToken?) | Асинхронно сохраняет ответ для указанного сообщения в файл PDF. |
+| [SaveResponseAsync](../../aspose.pdf.ai/ichatcopilot/saveresponseasync/#saveresponseasync)(List&lt;string&gt;, string, SaveFormat, CancellationToken?) | Асинхронно сохраняет ответы для указанного списка сообщений в файл указанного формата. |
+| [SaveResponseAsync](../../aspose.pdf.ai/ichatcopilot/saveresponseasync/#saveresponseasync_2)(string, string, SaveFormat, CancellationToken?) | Асинхронно сохраняет ответ для указанного сообщения в файл указанного формата. |
 
 ### См. также
 
-* интерфейс [IAICopilot](../iaicopilot/)
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* interface [IAICopilot](../iaicopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

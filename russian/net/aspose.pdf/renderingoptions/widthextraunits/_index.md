@@ -1,12 +1,12 @@
 ---
-title: RenderingOptions.WidthExtraUnits
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RenderingOptions. Получает или задает значение, используемое для увеличения или уменьшения ширины прямоугольника для оператора AppendRectangle
+title: "RenderingOptions.WidthExtraUnits"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RenderingOptions. Получает или задает значение, используемое для увеличения или уменьшения ширины прямоугольника для оператора AppendRectangle"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/renderingoptions/widthextraunits/
 ---
-## Свойство RenderingOptions.WidthExtraUnits
+## RenderingOptions.WidthExtraUnits property
 
 Получает или задает значение, используемое для увеличения или уменьшения ширины прямоугольника для оператора AppendRectangle.
 
@@ -16,6 +16,8 @@ public float WidthExtraUnits { get; set; }
 
 ### См. также
 
-* класс [RenderingOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

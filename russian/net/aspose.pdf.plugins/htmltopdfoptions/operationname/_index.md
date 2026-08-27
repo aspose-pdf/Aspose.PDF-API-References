@@ -1,14 +1,14 @@
 ---
-title: HtmlToPdfOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlToPdfOptions. Получает имя операции
+title: "HtmlToPdfOptions.OperationName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HtmlToPdfOptions свойство. Получает имя операции"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.plugins/htmltopdfoptions/operationname/
 ---
-## Свойство HtmlToPdfOptions.OperationName
+## HtmlToPdfOptions.OperationName property
 
-Получает имя операции.
+Получает название операции.
 
 ```csharp
 public override string OperationName { get; }
@@ -16,6 +16,8 @@ public override string OperationName { get; }
 
 ### См. также
 
-* класс [HtmlToPdfOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlToPdfOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

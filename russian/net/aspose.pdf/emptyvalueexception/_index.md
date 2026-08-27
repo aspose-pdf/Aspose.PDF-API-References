@@ -1,14 +1,14 @@
 ---
-title: Class EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.EmptyValueException. Исключение, которое выбрасывается, когда запрашиваемое значение не существует
+title: "Класс EmptyValueException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.EmptyValueException. Исключение, которое выбрасывается, когда требуемое значение не существует."
 type: docs
-weight: 4030
+weight: 4150
 url: /ru/net/aspose.pdf/emptyvalueexception/
 ---
-## Класс EmptyValueException
+## EmptyValueException class
 
-Исключение, которое выбрасывается, когда запрашиваемое значение не существует.
+Исключение, которое выбрасывается, когда требуемое значение не существует.
 
 ```csharp
 public class EmptyValueException : PdfException
@@ -23,6 +23,8 @@ public class EmptyValueException : PdfException
 
 ### См. также
 
-* класс [PdfException](../pdfexception/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

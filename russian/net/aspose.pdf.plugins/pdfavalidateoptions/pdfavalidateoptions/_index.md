@@ -1,12 +1,12 @@
 ---
-title: PdfAValidateOptions.PdfAValidateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfAValidateOptions. Конструктор по умолчанию
+title: "PdfAValidateOptions.PdfAValidateOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfAValidateOptions конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/pdfavalidateoptions/pdfavalidateoptions/
 ---
-## Конструктор PdfAValidateOptions
+## PdfAValidateOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public PdfAValidateOptions()
 
 ### См. также
 
-* класс [PdfAValidateOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAValidateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

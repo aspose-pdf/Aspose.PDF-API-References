@@ -1,12 +1,12 @@
 ---
-title: Annotation.Appearance
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает словарь внешнего вида аннотации
+title: "Annotation.Appearance"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Получает словарь внешнего вида аннотации"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/annotation/appearance/
 ---
-## Свойство Annotation.Appearance
+## Annotation.Appearance property
 
 Получает словарь внешнего вида аннотации.
 
@@ -16,7 +16,9 @@ public AppearanceDictionary Appearance { get; }
 
 ### См. также
 
-* класс [AppearanceDictionary](../../appearancedictionary/)
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../../appearancedictionary/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

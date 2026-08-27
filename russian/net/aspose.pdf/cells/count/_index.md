@@ -1,12 +1,12 @@
 ---
-title: Cells.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Cells. Количество элементов
+title: "Cells.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cells. Количество элементов"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/cells/count/
 ---
-## Свойство Cells.Count
+## Cells.Count property
 
 Количество элементов.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [Cells](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

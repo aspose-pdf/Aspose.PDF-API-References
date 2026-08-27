@@ -1,12 +1,12 @@
 ---
-title: PdfActionCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfActionCollection. Удалить действие по индексу
+title: "PdfActionCollection.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfActionCollection. Удалить действие по индексу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/pdfactioncollection/delete/
 ---
-## Метод PdfActionCollection.Delete
+## PdfActionCollection.Delete method
 
 Удалить действие по индексу.
 
@@ -20,6 +20,8 @@ public void Delete(int index)
 
 ### См. также
 
-* класс [PdfActionCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

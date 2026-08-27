@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePolyLine
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает аннотацию полилинии
+title: "PdfContentEditor.CreatePolyLine"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Создаёт аннотацию полилинии."
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createpolyline/
 ---
-## Метод PdfContentEditor.CreatePolyLine
+## PdfContentEditor.CreatePolyLine method
 
-Создает аннотацию полилинии.
+Создаёт полилинейную аннотацию.
 
 ```csharp
 public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
@@ -17,8 +17,8 @@ public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, str
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lineInfo | LineInfo | Экземпляр класса LineInfo. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
-| annotRect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | annotContents | String | Содержимое аннотации. |
 
 ## Примеры
@@ -35,7 +35,9 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [LineInfo](../../lineinfo/)
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

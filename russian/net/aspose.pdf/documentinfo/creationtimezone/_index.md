@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.CreationTimeZone
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentInfo. Часовой пояс даты создания
+title: "DocumentInfo.CreationTimeZone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentInfo. Часовой пояс даты создания"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/documentinfo/creationtimezone/
 ---
-## Свойство DocumentInfo.CreationTimeZone
+## DocumentInfo.CreationTimeZone property
 
 Часовой пояс даты создания.
 
@@ -16,6 +16,8 @@ public TimeSpan CreationTimeZone { get; set; }
 
 ### См. также
 
-* класс [DocumentInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

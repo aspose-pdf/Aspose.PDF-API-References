@@ -1,14 +1,14 @@
 ---
-title: PageMarkup.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageMarkup. Получает коллекцию MarkupParagraph, найденную на странице
+title: "PageMarkup.Paragraphs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageMarkup. Возвращает коллекцию MarkupParagraph, найденных на странице."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/pagemarkup/paragraphs/
 ---
-## Свойство PageMarkup.Paragraphs
+## PageMarkup.Paragraphs property
 
-Получает коллекцию [`MarkupParagraph`](../../markupparagraph/), найденную на странице.
+Возвращает коллекцию [`MarkupParagraph`](../../markupparagraph/), найденных на странице.
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }
@@ -16,7 +16,9 @@ public List<MarkupParagraph> Paragraphs { get; }
 
 ### См. также
 
-* класс [MarkupParagraph](../../markupparagraph/)
-* класс [PageMarkup](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [MarkupParagraph](../../markupparagraph/)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

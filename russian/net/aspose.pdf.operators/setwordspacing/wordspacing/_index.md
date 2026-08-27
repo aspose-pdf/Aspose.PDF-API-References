@@ -1,14 +1,14 @@
 ---
-title: SetWordSpacing.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetWordSpacing. Получает или устанавливает интервал между словами
+title: "SetWordSpacing.WordSpacing"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetWordSpacing. Получает или задает интервал между словами"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setwordspacing/wordspacing/
 ---
-## Свойство SetWordSpacing.WordSpacing
+## SetWordSpacing.WordSpacing property
 
-Получает или устанавливает интервал между словами.
+Получает или задает интервал между словами.
 
 ```csharp
 public double WordSpacing { get; set; }
@@ -16,6 +16,8 @@ public double WordSpacing { get; set; }
 
 ### См. также
 
-* класс [SetWordSpacing](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetWordSpacing](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

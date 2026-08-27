@@ -1,12 +1,12 @@
 ---
-title: TextStyle.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStyle. Размер шрифта
+title: "TextStyle.FontSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextStyle. Размер шрифта"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/textstyle/fontsize/
 ---
-## Свойство TextStyle.FontSize
+## TextStyle.FontSize property
 
 Размер шрифта.
 
@@ -16,6 +16,8 @@ public double FontSize { get; set; }
 
 ### См. также
 
-* класс [TextStyle](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

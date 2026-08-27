@@ -1,14 +1,14 @@
 ---
-title: GradientRadialShading.End
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GradientRadialShading. Получает или устанавливает центральную точку конечного круга
+title: "GradientRadialShading.End"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GradientRadialShading. Получает или задает точку центра конечного круга"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.drawing/gradientradialshading/end/
 ---
-## Свойство GradientRadialShading.End
+## GradientRadialShading.End property
 
-Получает или устанавливает центральную точку конечного круга.
+Получает или задает центр конечного круга.
 
 ```csharp
 public Point End { get; set; }
@@ -16,7 +16,9 @@ public Point End { get; set; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [GradientRadialShading](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

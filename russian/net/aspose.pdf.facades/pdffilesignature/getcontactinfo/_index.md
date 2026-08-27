@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.GetContactInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Получает контактную информацию подписи
+title: "PdfFileSignature.GetContactInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSignature. Получает контактную информацию подписи"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.facades/pdffilesignature/getcontactinfo/
 ---
-## Метод PdfFileSignature.GetContactInfo
+## PdfFileSignature.GetContactInfo method
 
 Получает контактную информацию подписи.
 
@@ -24,7 +24,9 @@ public string GetContactInfo(SignatureName signName)
 
 ### См. также
 
-* класс [SignatureName](../../signaturename/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

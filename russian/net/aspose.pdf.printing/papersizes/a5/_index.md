@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A5
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага A5 148 мм на 210 мм
+title: "PaperSizes.A5"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Бумага A5 148 мм на 210 мм"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.printing/papersizes/a5/
 ---
-## Поле PaperSizes.A5
+## PaperSizes.A5 field
 
-Бумага A5 (148 мм на 210 мм).
+Бумага A5 (148 мм × 210 мм).
 
 ```csharp
 public static readonly PaperSize A5;
@@ -16,7 +16,9 @@ public static readonly PaperSize A5;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

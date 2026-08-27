@@ -1,14 +1,14 @@
 ---
-title: Resources.Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ресурсов. Получает коллекцию ресурсов Шрифтов
+title: "Resources.Fonts"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Resources. Возвращает коллекцию ресурсов Fonts."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/resources/fonts/
 ---
-## Свойство Ресурсы.Шрифты
+## Resources.Fonts property
 
-Получает коллекцию ресурсов `Шрифты`
+Возвращает коллекцию ресурсов `Fonts`.
 
 ```csharp
 public FontCollection Fonts { get; }
@@ -16,7 +16,9 @@ public FontCollection Fonts { get; }
 
 ### См. также
 
-* класс [FontCollection](../../../aspose.pdf.text/fontcollection/)
-* класс [Resources](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FontCollection](../../../aspose.pdf.text/fontcollection/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

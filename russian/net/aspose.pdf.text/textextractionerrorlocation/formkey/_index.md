@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.FormKey
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextExtractionErrorLocation. Имя ключа PDF Form XObject, в котором находится ошибка извлечения текста из потока содержимого. Не пусто, если ObjectType == 'xForm'
+title: "TextExtractionErrorLocation.FormKey"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextExtractionErrorLocation. Имя ключа PDF Form XObject, в котором обнаружена ошибка извлечения текста из потока содержимого. Не пусто, если ObjectType xForm"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textextractionerrorlocation/formkey/
 ---
-## Свойство TextExtractionErrorLocation.FormKey
+## TextExtractionErrorLocation.FormKey property
 
-Ключ (имя) PDF Form XObject, в котором находится ошибка извлечения текста из потока содержимого. Не пусто, если ObjectType == 'xForm'.
+Ключ (имя) PDF Form XObject, в котором обнаружена ошибка извлечения текста из потока содержимого. Не пустой, если ObjectType == 'xForm'.
 
 ```csharp
 public string FormKey { get; }
@@ -16,6 +16,8 @@ public string FormKey { get; }
 
 ### См. также
 
-* класс [TextExtractionErrorLocation](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

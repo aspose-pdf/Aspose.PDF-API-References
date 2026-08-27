@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.BLINDV
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfPageEditor. Вертикальные жалюзи
+title: "PdfPageEditor.BLINDV"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfPageEditor. Вертикальные жалюзи"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/blindv/
 ---
-## Поле PdfPageEditor.BLINDV
+## PdfPageEditor.BLINDV field
 
 Вертикальные жалюзи
 
@@ -16,6 +16,8 @@ public const int BLINDV;
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

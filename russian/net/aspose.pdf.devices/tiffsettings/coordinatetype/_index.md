@@ -1,14 +1,14 @@
 ---
-title: TiffSettings.CoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TiffSettings. Получает или устанавливает тип координат страницы Media/Crop boxes. Значение CropBox используется по умолчанию
+title: "TiffSettings.CoordinateType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TiffSettings. Получает или задает тип координат страницы Media/Crop. Значение CropBox используется по умолчанию"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.devices/tiffsettings/coordinatetype/
 ---
-## Свойство TiffSettings.CoordinateType
+## TiffSettings.CoordinateType property
 
-Получает или устанавливает тип координат страницы (Media/Crop boxes). Значение CropBox используется по умолчанию.
+Получает или задает тип координат страницы (Media/Crop‑коробки). Значение CropBox используется по умолчанию.
 
 ```csharp
 public PageCoordinateType CoordinateType { get; set; }
@@ -20,3 +20,5 @@ public PageCoordinateType CoordinateType { get; set; }
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

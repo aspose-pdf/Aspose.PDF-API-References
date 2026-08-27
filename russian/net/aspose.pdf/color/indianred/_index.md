@@ -1,14 +1,14 @@
 ---
-title: Color.IndianRed
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFCD5C5C
+title: "Color.IndianRed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFCD5C5C"
 type: docs
 weight: 570
 url: /ru/net/aspose.pdf/color/indianred/
 ---
-## Свойство Color.IndianRed
+## Color.IndianRed property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFCD5C5C.
+Получает системно определённый цвет, значение ARGB которого \c \#FFCD5C5C.
 
 ```csharp
 public static Color IndianRed { get; }
@@ -16,10 +16,12 @@ public static Color IndianRed { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

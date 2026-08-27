@@ -1,12 +1,12 @@
 ---
-title: SetTextRise.SetTextRise
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetTextRise. Инициализирует оператор
+title: "SetTextRise.SetTextRise"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetTextRise. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/settextrise/settextrise/
 ---
-## Конструктор SetTextRise
+## SetTextRise constructor
 
 Инициализирует оператор.
 
@@ -16,10 +16,12 @@ public SetTextRise(double textRise)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| textRise | Double | Подъем текста. |
+| textRise | Double | Подъём текста. |
 
 ### См. также
 
-* класс [SetTextRise](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetTextRise](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Arc.PosY
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Arc. Получает или устанавливает значение с плавающей запятой, которое указывает на координату y центра дуги
+title: "Arc.PosY"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Arc. Получает или задает значение типа float, указывающее координату y центра дуги."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.drawing/arc/posy/
 ---
-## Свойство Arc.PosY
+## Arc.PosY property
 
-Получает или устанавливает значение с плавающей запятой, которое указывает на координату y центра дуги.
+Получает или задает значение типа float, указывающее координату y центра дуги.
 
 ```csharp
 public double PosY { get; set; }
@@ -16,6 +16,8 @@ public double PosY { get; set; }
 
 ### См. также
 
-* класс [Arc](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

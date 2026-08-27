@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfXmpMetadata. Получает коллекцию значений в словаре
+title: "PdfXmpMetadata.Values"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfXmpMetadata. Возвращает коллекцию значений в словаре"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/values/
 ---
-## Свойство PdfXmpMetadata.Values
+## PdfXmpMetadata.Values property
 
 Получает коллекцию значений в словаре.
 
@@ -16,7 +16,9 @@ public ICollection<XmpValue> Values { get; }
 
 ### См. также
 
-* класс [XmpValue](../../../aspose.pdf/xmpvalue/)
-* класс [PdfXmpMetadata](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

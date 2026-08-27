@@ -1,7 +1,7 @@
 ---
-title: TabStops.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TabStops. Инициализирует новый экземпляр класса TabStop и добавляет его в коллекцию TabStops
+title: "TabStops.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TabStops. Инициализирует новый экземпляр класса TabStop и добавляет его в коллекцию TabStops"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/tabstops/add/
@@ -14,22 +14,22 @@ url: /ru/net/aspose.pdf.text/tabstops/add/
 public TabStop Add()
 ```
 
-### Return Value
+### Возвращаемое значение
 
 Новый объект [`TabStop`](../../tabstop/).
 
-### See Also
+### См. также
 
-* класс [TabStop](../../tabstop/)
-* класс [TabStops](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(float) {#add_1}
 
-Инициализирует новый экземпляр класса [`TabStop`](../../tabstop/) с заданной позицией и добавляет его в коллекцию TabStops.
+Инициализирует новый экземпляр класса [`TabStop`](../../tabstop/) с указанной позицией и добавляет его в коллекцию TabStops.
 
 ```csharp
 public TabStop Add(float position)
@@ -37,24 +37,24 @@ public TabStop Add(float position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Single | Позиция табуляции. |
+| позиция | Single | Позиция табуляции. |
 
-### Return Value
+### Возвращаемое значение
 
 Новый объект [`TabStop`](../../tabstop/).
 
-### See Also
+### См. также
 
-* класс [TabStop](../../tabstop/)
-* класс [TabStops](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(TabStop) {#add_3}
 
-Добавляет экземпляр класса [`TabStop`](../../tabstop/) в коллекцию TabStops.
+Добавьте экземпляр класса [`TabStop`](../../tabstop/) в коллекцию TabStops.
 
 ```csharp
 public void Add(TabStop tabStop)
@@ -64,18 +64,18 @@ public void Add(TabStop tabStop)
 | --- | --- | --- |
 | tabStop | TabStop | Объект [`TabStop`](../../tabstop/). |
 
-### See Also
+### См. также
 
-* класс [TabStop](../../tabstop/)
-* класс [TabStops](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(float, TabLeaderType) {#add_2}
 
-Инициализирует новый экземпляр класса [`TabStop`](../../tabstop/) с заданной позицией и типом лидера и добавляет его в коллекцию TabStops.
+Инициализирует новый экземпляр класса [`TabStop`](../../tabstop/) с указанной позицией и типом лидера и добавляет его в коллекцию TabStops.
 
 ```csharp
 public TabStop Add(float position, TabLeaderType leaderType)
@@ -83,17 +83,19 @@ public TabStop Add(float position, TabLeaderType leaderType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Single | Позиция табуляции. |
+| позиция | Single | Позиция табуляции. |
 | leaderType | TabLeaderType | Тип лидера табуляции. |
 
-### Return Value
+### Возвращаемое значение
 
 Новый объект [`TabStop`](../../tabstop/).
 
-### See Also
+### См. также
 
-* класс [TabStop](../../tabstop/)
-* перечисление [TabLeaderType](../../tableadertype/)
-* класс [TabStops](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TabStop](../../tabstop/)
+* enum [TabLeaderType](../../tableadertype/)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

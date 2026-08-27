@@ -1,14 +1,14 @@
 ---
-title: XYZExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XYZExplicitDestination. Создайте назначение в указанном месте страницы с учетом поворота страницы, если это необходимо
+title: "XYZExplicitDestination.CreateDestination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XYZExplicitDestination. Создаёт назначение в указанное место страницы, учитывая поворот страницы при необходимости"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/xyzexplicitdestination/createdestination/
 ---
-## Метод XYZExplicitDestination.CreateDestination
+## XYZExplicitDestination.CreateDestination method
 
-Создайте назначение в указанном месте страницы с учетом поворота страницы, если это необходимо.
+Создайте назначение в указанное место страницы, учитывая поворот страницы, если требуется.
 
 ```csharp
 public static XYZExplicitDestination CreateDestination(Page page, double left, double top, 
@@ -17,11 +17,11 @@ public static XYZExplicitDestination CreateDestination(Page page, double left, d
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница назначения. |
+| страница | Страница | Страница назначения. |
 | left | Double | Левая позиция на странице. |
-| top | Double | Верхняя позиция на странице. |
-| zoom | Double | Коэффициент увеличения (0 для по умолчанию). |
-| considerRotation | Boolean | Если true, позиция будет пересчитана в соответствии с поворотом страницы. |
+| верх | Double | Верхняя позиция на странице. |
+| масштаб | Double | Коэффициент масштабирования (0 — по умолчанию). |
+| considerRotation | Boolean | Если true, позиция будет пересчитана с учётом поворота страницы. |
 
 ### Возвращаемое значение
 
@@ -29,7 +29,9 @@ public static XYZExplicitDestination CreateDestination(Page page, double left, d
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [XYZExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

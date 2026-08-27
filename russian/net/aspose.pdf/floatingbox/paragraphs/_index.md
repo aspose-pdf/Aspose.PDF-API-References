@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FloatingBox. Получает или устанавливает коллекцию Paragraphs, которая указывает на все абзацы в ячейке
+title: "FloatingBox.Paragraphs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FloatingBox. Получает или задает коллекцию Paragraphs, указывающую все абзацы в ячейке"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/floatingbox/paragraphs/
 ---
-## Свойство FloatingBox.Paragraphs
+## FloatingBox.Paragraphs property
 
-Получает или устанавливает коллекцию `Paragraphs`, которая указывает на все абзацы в ячейке.
+Получает или задает коллекцию `Paragraphs`, указывающую все абзацы в ячейке.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
@@ -16,7 +16,9 @@ public Paragraphs Paragraphs { get; set; }
 
 ### См. также
 
-* класс [Paragraphs](../../paragraphs/)
-* класс [FloatingBox](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Paragraphs](../../paragraphs/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

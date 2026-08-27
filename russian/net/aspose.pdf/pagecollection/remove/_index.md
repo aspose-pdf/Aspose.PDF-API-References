@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageCollection. Удаляет указанный элемент, выбрасывает NotSupportedException
+title: "PageCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageCollection. Удаляет указанный элемент, бросает NotSupportedException"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf/pagecollection/remove/
 ---
-## Метод PageCollection.Remove
+## PageCollection.Remove method
 
-Удаляет указанный элемент, выбрасывает NotSupportedException.
+Удаляет указанный элемент, бросает NotSupportedException.
 
 ```csharp
 public bool Remove(Page item)
@@ -16,7 +16,7 @@ public bool Remove(Page item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | Page | Элемент. |
+| item | Страница | Элемент. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ NotSupportedException
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

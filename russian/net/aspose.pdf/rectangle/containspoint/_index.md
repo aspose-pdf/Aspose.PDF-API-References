@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ContainsPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rectangle. Определяет, содержится ли данная точка внутри прямоугольника
+title: "Rectangle.ContainsPoint"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Rectangle. Определяет, содержится ли заданная точка внутри прямоугольника."
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf/rectangle/containspoint/
 ---
-## Метод Rectangle.ContainsPoint
+## Rectangle.ContainsPoint method
 
-Определяет, содержится ли данная точка внутри прямоугольника.
+Определяет, содержится ли заданная точка в прямоугольнике.
 
 ```csharp
 public bool ContainsPoint(double x, double y)
@@ -16,15 +16,17 @@ public bool ContainsPoint(double x, double y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | X-координата точки. |
-| y | Double | Y-координата точки. |
+| x | Double | X‑координата точки. |
+| y | Double | Y‑координата точки. |
 
 ### Возвращаемое значение
 
-`true`, если точка содержится внутри прямоугольника; в противном случае `false`.
+`true`, если точка находится внутри прямоугольника; иначе `false`.
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

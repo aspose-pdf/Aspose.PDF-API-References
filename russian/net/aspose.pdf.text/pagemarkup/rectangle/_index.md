@@ -1,14 +1,14 @@
 ---
-title: PageMarkup.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageMarkup. Получает обработанный прямоугольник страницы
+title: "PageMarkup.Rectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageMarkup. Возвращает обработанный прямоугольник страницы."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/pagemarkup/rectangle/
 ---
-## Свойство PageMarkup.Rectangle
+## PageMarkup.Rectangle property
 
-Получает обработанный прямоугольник страницы.
+Получает прямоугольник обработанной страницы.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [PageMarkup](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

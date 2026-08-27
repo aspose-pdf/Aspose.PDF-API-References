@@ -1,14 +1,14 @@
 ---
-title: TextState.Invisible
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextState. Получает или устанавливает невидимость текста. Это в основном отражает состояние [`RenderingMode`](../renderingmode/), за исключением некоторых специальных случаев - например, обрезки.
+title: "TextState.Invisible"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextState. Получает или задает невидимость текста. По сути отражает состояние RenderingMode, за исключением некоторых особых случаев, таких как обрезка."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.text/textstate/invisible/
 ---
-## Свойство TextState.Invisible
+## TextState.Invisible property
 
-Получает или устанавливает невидимость текста. Это в основном отражает состояние [`RenderingMode`](../renderingmode/), за исключением некоторых специальных случаев (например, обрезки).
+Получает или задает невидимость текста. По сути отражает состояние [`RenderingMode`](../renderingmode/), за исключением некоторых особых случаев (например, обрезка).
 
 ```csharp
 public virtual bool Invisible { get; set; }
@@ -16,6 +16,8 @@ public virtual bool Invisible { get; set; }
 
 ### См. также
 
-* класс [TextState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

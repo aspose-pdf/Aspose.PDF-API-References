@@ -1,12 +1,12 @@
 ---
-title: BasicSetColorAndPatternOperator.PatternName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BasicSetColorAndPatternOperator. Получает имя шаблона
+title: "BasicSetColorAndPatternOperator.PatternName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BasicSetColorAndPatternOperator. Возвращает имя шаблона"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/
 ---
-## Свойство BasicSetColorAndPatternOperator.PatternName
+## BasicSetColorAndPatternOperator.PatternName property
 
 Получает имя шаблона.
 
@@ -16,6 +16,8 @@ public string PatternName { get; }
 
 ### См. также
 
-* класс [BasicSetColorAndPatternOperator](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [BasicSetColorAndPatternOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

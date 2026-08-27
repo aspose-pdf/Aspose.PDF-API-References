@@ -1,14 +1,14 @@
 ---
-title: Class RegexManager
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.RegexManager. Предоставляет обертку для операций с регулярными выражениями с настраиваемыми параметрами таймаута
+title: "Класс RegexManager"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.RegexManager. Предоставляет оболочку для операций с регулярными выражениями с настраиваемыми параметрами таймаута"
 type: docs
-weight: 10700
+weight: 10880
 url: /ru/net/aspose.pdf.text/regexmanager/
 ---
-## Класс RegexManager
+## RegexManager class
 
-Предоставляет обертку для операций с регулярными выражениями с настраиваемыми параметрами таймаута.
+Предоставляет оболочку для операций с регулярными выражениями с настраиваемыми параметрами тайм‑аута.
 
 ```csharp
 public static class RegexManager
@@ -18,9 +18,11 @@ public static class RegexManager
 
 | Имя | Описание |
 | --- | --- |
-| static [MatchTimeout](../../aspose.pdf.text/regexmanager/matchtimeout/) { get; set; } | Получает или задает таймаут для операций Regex по всей библиотеке. Значение по умолчанию - 1000 мс. |
+| static [MatchTimeout](../../aspose.pdf.text/regexmanager/matchtimeout/) { get; set; } | Получает или задаёт таймаут для операций Regex во всей библиотеке. Значение по умолчанию — 1000 мс. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

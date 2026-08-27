@@ -1,14 +1,14 @@
 ---
-title: SignatureAlgorithmInfo.DigestHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SignatureAlgorithmInfo. Получает алгоритм хеширования дайджеста, используемый для подписи. Для временной метки это алгоритм хеширования дайджеста, с помощью которого подписывается хеш содержимого документа.
+title: "SignatureAlgorithmInfo.DigestHashAlgorithm"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SignatureAlgorithmInfo. Возвращает алгоритм хеширования дайджеста, используемый для подписи. Для отметки времени это алгоритм хеширования дайджеста, с помощью которого подписывается хеш содержимого документа."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/
 ---
-## Поле SignatureAlgorithmInfo.DigestHashAlgorithm
+## SignatureAlgorithmInfo.DigestHashAlgorithm field
 
-Получает алгоритм хеширования дайджеста, используемый для подписи. Для временной метки это алгоритм хеширования дайджеста, с помощью которого подписывается хеш содержимого документа.
+Получает алгоритм хеш‑суммы (digest) используемый для подписи. Для отметки времени это алгоритм хеш‑суммы, с помощью которого подписывается хеш содержимого документа.
 
 ```csharp
 public readonly DigestHashAlgorithm DigestHashAlgorithm;
@@ -20,3 +20,5 @@ public readonly DigestHashAlgorithm DigestHashAlgorithm;
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

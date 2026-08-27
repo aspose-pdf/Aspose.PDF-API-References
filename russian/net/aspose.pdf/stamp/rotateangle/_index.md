@@ -1,14 +1,14 @@
 ---
-title: Stamp.RotateAngle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Получает или устанавливает угол поворота штампа в градусах. Это свойство позволяет установить произвольный угол поворота.
+title: "Stamp.RotateAngle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Получает или задает угол поворота штампа в градусах. Это свойство позволяет установить произвольный угол поворота"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/stamp/rotateangle/
 ---
-## Свойство Stamp.RotateAngle
+## Stamp.RotateAngle property
 
-Получает или устанавливает угол поворота штампа в градусах. Это свойство позволяет установить произвольный угол поворота.
+Получает или задаёт угол вращения штампа в градусах. Это свойство позволяет установить произвольный угол вращения.
 
 ```csharp
 public double RotateAngle { get; set; }
@@ -16,6 +16,8 @@ public double RotateAngle { get; set; }
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

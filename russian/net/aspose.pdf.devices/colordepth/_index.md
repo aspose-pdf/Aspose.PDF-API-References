@@ -1,14 +1,14 @@
 ---
-title: Enum ColorDepth
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ColorDepth из Aspose.Pdf.Devices. Используется для указания значения параметра, передаваемого в устройство изображения Tiff
+title: "Перечисление ColorDepth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Devices.ColorDepth. Используется для указания значения параметра, передаваемого устройству Tiff image device."
 type: docs
-weight: 3530
+weight: 3650
 url: /ru/net/aspose.pdf.devices/colordepth/
 ---
-## Перечисление ColorDepth
+## ColorDepth enumeration
 
-Используется для указания значения параметра, передаваемого в устройство изображения Tiff.
+Используется для указания значения параметра, передаваемого устройству изображения Tiff.
 
 ```csharp
 public enum ColorDepth
@@ -16,15 +16,17 @@ public enum ColorDepth
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Default | `0` | Цветовая глубина по умолчанию. По умолчанию используется 32-битная глубина. |
-| Format24bpp | `1` | Rgb 24-битная глубина. |
-| Format8bpp | `2` | 8 бит на пиксель. Равно !:PixelFormat.Format8bppIndexed |
-| Format4bpp | `3` | 4 бита на пиксель. Равно !:PixelFormat.Format4bppIndexed |
-| Format1bpp | `4` | 1 бит на пиксель. Равно !:PixelFormat.Format32bppRgb |
+| Default | `0` | Глубина цвета по умолчанию. По умолчанию используется глубина 32 бита. |
+| Format24bpp | `1` | Rgb глубина 24 бита. |
+| Format8bpp | `2` | 8 бит на пиксель. Эквивалентно !:PixelFormat.Format8bppIndexed |
+| Format4bpp | `3` | 4 бита на пиксель. Эквивалентно !:PixelFormat.Format4bppIndexed |
+| Format1bpp | `4` | 1 бит на пиксель. Эквивалентно !:PixelFormat.Format32bppRgb |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

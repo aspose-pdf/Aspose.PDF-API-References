@@ -1,14 +1,14 @@
 ---
-title: ColorBarAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ColorBarAnnotation. Обновите параметры и внешний вид в соответствии с матричным преобразованием и перемещением за пределы TrimBox, если это необходимо
+title: "ColorBarAnnotation.ChangeAfterResize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ColorBarAnnotation. Обновите параметры и внешний вид в соответствии с преобразованием матрицы и перемещением за пределы TrimBox, если необходимо"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/colorbarannotation/changeafterresize/
 ---
-## Метод ColorBarAnnotation.ChangeAfterResize
+## ColorBarAnnotation.ChangeAfterResize method
 
-Обновите параметры и внешний вид в соответствии с матричным преобразованием и перемещением за пределы TrimBox, если это необходимо.
+Обновляет параметры и внешний вид в соответствии с преобразованием матрицы и перемещением за пределы TrimBox, если необходимо.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
@@ -16,11 +16,13 @@ public override void ChangeAfterResize(Matrix transform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| transform | Matrix | Матрица, указывающая преобразование. |
+| преобразование | Matrix | Matrix, определяющая преобразование. |
 
 ### См. также
 
-* класс [Matrix](../../../aspose.pdf/matrix/)
-* класс [ColorBarAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [ColorBarAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

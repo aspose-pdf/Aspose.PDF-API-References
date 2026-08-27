@@ -1,14 +1,14 @@
 ---
-title: Signature.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод подписи. Запускает обработку подписи с указанными параметрами
+title: "Signature.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Signature. Запускает обработку подписи с указанными параметрами"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/signature/process/
 ---
-## Метод Signature.Process
+## Signature.Process method
 
-Запускает [`Signature`](../) обработку с указанными параметрами.
+Запускает обработку [`Signature`](../) с указанными параметрами.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -30,8 +30,10 @@ public ResultContainer Process(IPluginOptions options)
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

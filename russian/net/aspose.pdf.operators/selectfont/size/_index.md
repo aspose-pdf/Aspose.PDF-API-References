@@ -1,12 +1,12 @@
 ---
-title: SelectFont.Size
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SelectFont. Размер текста
+title: "SelectFont.Size"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SelectFont. Размер текста"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/selectfont/size/
 ---
-## Свойство SelectFont.Size
+## SelectFont.Size property
 
 Размер текста.
 
@@ -16,6 +16,8 @@ public double Size { get; }
 
 ### См. также
 
-* класс [SelectFont](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SelectFont](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

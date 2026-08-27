@@ -1,14 +1,14 @@
 ---
-title: JavascriptAction.Script
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство JavascriptAction. Получает или устанавливает код javascript
+title: "JavascriptAction.Script"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство JavascriptAction. Возвращает или задает код JavaScript"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/javascriptaction/script/
 ---
-## Свойство JavascriptAction.Script
+## JavascriptAction.Script property
 
-Получает или устанавливает код javascript.
+Получает или задает код javascript.
 
 ```csharp
 public string Script { get; set; }
@@ -16,6 +16,8 @@ public string Script { get; set; }
 
 ### См. также
 
-* класс [JavascriptAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [JavascriptAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

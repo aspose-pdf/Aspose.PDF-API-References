@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FloatingBox. Получает или устанавливает значение с плавающей запятой, которое указывает на высоту плавающего блока
+title: "FloatingBox.Height"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FloatingBox. Получает или задает значение типа float, которое указывает высоту плавающего блока"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/floatingbox/height/
 ---
-## Свойство FloatingBox.Height
+## FloatingBox.Height property
 
-Получает или устанавливает значение с плавающей запятой, которое указывает на высоту плавающего блока.
+Получает или задаёт значение типа float, указывающее высоту плавающего блока.
 
 ```csharp
 public double Height { get; set; }
@@ -16,6 +16,8 @@ public double Height { get; set; }
 
 ### См. также
 
-* класс [FloatingBox](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

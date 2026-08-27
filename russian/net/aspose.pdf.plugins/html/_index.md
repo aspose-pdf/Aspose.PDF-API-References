@@ -1,14 +1,14 @@
 ---
-title: Class Html
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.Html. Представляет Html плагин
+title: "Класс Html"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.Html. Представляет плагин Html."
 type: docs
-weight: 8820
+weight: 8950
 url: /ru/net/aspose.pdf.plugins/html/
 ---
-## Класс Html
+## Html class
 
-Представляет `Html` плагин.
+Представляет плагин `Html`.
 
 ```csharp
 public sealed class Html : IDisposable, IPlugin
@@ -29,36 +29,38 @@ public sealed class Html : IDisposable, IPlugin
 
 ## Примеры
 
-Пример демонстрирует, как конвертировать PDF в HTML документ.
+В примере показано, как преобразовать PDF в документ HTML.
 
 ```csharp
-// create Html
+// создать Html
 var converter = new Html();
-// create PdfToHtmlOptions object to set output data type as file with embedded resources
+// создать объект PdfToHtmlOptions для установки типа выходных данных как файл с встроенными ресурсами
 var opt = new PdfToHtmlOptions(PdfToHtmlOptions.SaveDataType.FileWithEmbeddedResources);
-// add input file path
+// добавить путь к входному файлу
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// установить путь выходного файла
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
-Пример демонстрирует, как конвертировать HTML в PDF документ.
+В примере показано, как преобразовать HTML в документ PDF.
 
 ```csharp
-// create Html
+// создать Html
 var converter = new Html();
-// create HtmlToPdfOptions
+// создать HtmlToPdfOptions
 var opt = new HtmlToPdfOptions();
-// add input file path
+// добавить путь к входному файлу
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// установить путь выходного файла
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
 ### См. также
 
-* интерфейс [IPlugin](../iplugin/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

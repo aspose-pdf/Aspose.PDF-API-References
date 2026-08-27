@@ -1,14 +1,14 @@
 ---
-title: Metered.IsMeteredLicensed
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Metered. Проверьте, лицензирован ли метered
+title: "Metered.IsMeteredLicensed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Metered. Проверить, лицензирован ли Metered"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/metered/ismeteredlicensed/
 ---
-## Метод Metered.IsMeteredLicensed
+## Metered.IsMeteredLicensed method
 
-Проверьте, лицензирован ли metered.
+Проверяет, лицензирован ли учёт.
 
 ```csharp
 public static bool IsMeteredLicensed()
@@ -20,6 +20,8 @@ public static bool IsMeteredLicensed()
 
 ### См. также
 
-* класс [Metered](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Open
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Получает или устанавливает статус открытия true/false для элемента оглавления
+title: "OutlineItemCollection.Open"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Получает или задает статус открытости (true/false) для элемента контура"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf/outlineitemcollection/open/
 ---
-## Свойство OutlineItemCollection.Open
+## OutlineItemCollection.Open property
 
-Получает или устанавливает статус открытия (true/false) для элемента оглавления.
+Получает или задает статус открытости (true/false) для пункта оглавления.
 
 ```csharp
 public bool Open { get; set; }
@@ -16,6 +16,8 @@ public bool Open { get; set; }
 
 ### См. также
 
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

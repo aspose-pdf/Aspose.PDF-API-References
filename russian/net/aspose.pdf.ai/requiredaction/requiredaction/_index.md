@@ -1,12 +1,12 @@
 ---
-title: RequiredAction.RequiredAction
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор RequiredAction. Конструктор по умолчанию
+title: "RequiredAction.RequiredAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор RequiredAction. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/requiredaction/requiredaction/
 ---
-## Конструктор RequiredAction
+## RequiredAction constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public RequiredAction()
 
 ### См. также
 
-* класс [RequiredAction](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RequiredAction](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

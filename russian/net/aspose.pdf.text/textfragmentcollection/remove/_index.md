@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextFragmentCollection. Удаляет указанный элемент из коллекции
+title: "TextFragmentCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextFragmentCollection. Удаляет указанный элемент из коллекции."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.text/textfragmentcollection/remove/
 ---
-## Метод TextFragmentCollection.Remove
+## TextFragmentCollection.Remove method
 
 Удаляет указанный элемент из коллекции.
 
@@ -20,11 +20,13 @@ public bool Remove(TextFragment item)
 
 ### Возвращаемое значение
 
-true, если элемент был удален из коллекции; в противном случае false.
+true, если элемент был удалён из коллекции; в противном случае — false.
 
 ### См. также
 
-* класс [TextFragment](../../textfragment/)
-* класс [TextFragmentCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ImageStamp. Добавляет графический штамп на страницу
+title: "ImageStamp.Put"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ImageStamp. Добавляет графическую печать на страницу"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/imagestamp/put/
 ---
-## Метод ImageStamp.Put
+## ImageStamp.Put method
 
-Добавляет графический штамп на страницу.
+Добавляет графическую печать на страницу.
 
 ```csharp
 public override void Put(Page page)
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница для штампования. |
+| страница | Страница | Страница для штамповки. |
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [ImageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

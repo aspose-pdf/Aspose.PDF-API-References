@@ -1,14 +1,14 @@
 ---
-title: Bookmark.CustomAcorbatViewerMenuActionName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Имя действия, соответствующее выполнению элемента меню в просмотрщике Acrobat
+title: "Bookmark.CustomAcorbatViewerMenuActionName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Имя действия, соответствующее выполнению пункта меню в просмотрщике Acrobat"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/
 ---
-## Свойство Bookmark.CustomAcorbatViewerMenuActionName
+## Bookmark.CustomAcorbatViewerMenuActionName property
 
-Имя действия, соответствующее выполнению элемента меню в просмотрщике Acrobat.
+Имя действия, соответствующее выполнению пункта меню в Acrobat viewer.
 
 ```csharp
 public Enum[] CustomAcorbatViewerMenuActionName { get; set; }
@@ -16,6 +16,8 @@ public Enum[] CustomAcorbatViewerMenuActionName { get; set; }
 
 ### См. также
 
-* класс [Bookmark](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

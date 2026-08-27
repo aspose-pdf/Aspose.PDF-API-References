@@ -1,14 +1,14 @@
 ---
-title: Table.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство таблицы. Получает или задает значение отступа ячеек по умолчанию
+title: "Table.DefaultCellPadding"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Table. Получает или задает отступ ячейки по умолчанию"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/table/defaultcellpadding/
 ---
-## Свойство Table.DefaultCellPadding
+## Table.DefaultCellPadding property
 
-Получает или задает значение отступа ячеек по умолчанию.
+Получает или задает отступ ячейки по умолчанию.
 
 ```csharp
 public MarginInfo DefaultCellPadding { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo DefaultCellPadding { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../../margininfo/)
-* класс [Table](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class StreamDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.StreamDataSource. Представляет источник потоковых данных для операций загрузки и сохранения плагина
+title: "Класс StreamDataSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.StreamDataSource класс. Представляет потоковый источник данных для операций загрузки и сохранения плагина"
 type: docs
-weight: 9290
+weight: 9440
 url: /ru/net/aspose.pdf.plugins/streamdatasource/
 ---
-## Класс StreamDataSource
+## StreamDataSource class
 
-Представляет источник потоковых данных для операций загрузки и сохранения плагина.
+Представляет потоковый источник данных для операций загрузки и сохранения плагина.
 
 ```csharp
 public sealed class StreamDataSource : IDataSource
@@ -18,7 +18,7 @@ public sealed class StreamDataSource : IDataSource
 
 | Имя | Описание |
 | --- | --- |
-| [StreamDataSource](streamdatasource/)(Stream) | Инициализирует новый источник потоковых данных с указанным объектом потока. |
+| [StreamDataSource](streamdatasource/)(Stream) | Инициализирует новый потоковый источник данных с указанным объектом потока. |
 
 ## Свойства
 
@@ -29,6 +29,8 @@ public sealed class StreamDataSource : IDataSource
 
 ### См. также
 
-* интерфейс [IDataSource](../idatasource/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IDataSource](../idatasource/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

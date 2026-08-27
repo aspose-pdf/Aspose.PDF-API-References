@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.WaitForAssistantMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Ожидает первое сообщение от помощника в потоке асинхронно
+title: "OpenAIClient.WaitForAssistantMessageAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Ожидает первое сообщение от помощника в потоке асинхронно"
 type: docs
-weight: 460
+weight: 470
 url: /ru/net/aspose.pdf.ai/openaiclient/waitforassistantmessageasync/
 ---
-## Метод OpenAIClient.WaitForAssistantMessageAsync
+## OpenAIClient.WaitForAssistantMessageAsync method
 
 Ожидает первое сообщение от помощника в потоке асинхронно.
 
@@ -18,7 +18,7 @@ public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threadId | String | Идентификатор потока, который нужно отслеживать для первого сообщения помощника. |
+| threadId | String | Идентификатор потока, в котором следует отслеживать первое сообщение помощника. |
 | queryParameters | ThreadMessageListQueryParameters | Необязательные параметры запроса для фильтрации списка сообщений. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
@@ -30,12 +30,14 @@ public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId,
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 
 ### См. также
 
-* класс [ThreadMessageResponse](../../threadmessageresponse/)
-* класс [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

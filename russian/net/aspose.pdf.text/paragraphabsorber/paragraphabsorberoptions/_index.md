@@ -1,14 +1,14 @@
 ---
-title: ParagraphAbsorber.ParagraphAbsorberOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ParagraphAbsorber. Получает или устанавливает ParagraphAbsorberOptions
+title: "ParagraphAbsorber.ParagraphAbsorberOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ParagraphAbsorber. Получает или задает ParagraphAbsorberOptions."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/
 ---
-## Свойство ParagraphAbsorber.ParagraphAbsorberOptions
+## ParagraphAbsorber.ParagraphAbsorberOptions property
 
-Получает или устанавливает ParagraphAbsorberOptions.
+Получает или задает ParagraphAbsorberOptions.
 
 ```csharp
 public ParagraphAbsorberOptions ParagraphAbsorberOptions { get; set; }
@@ -16,7 +16,9 @@ public ParagraphAbsorberOptions ParagraphAbsorberOptions { get; set; }
 
 ### См. также
 
-* класс [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
-* класс [ParagraphAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

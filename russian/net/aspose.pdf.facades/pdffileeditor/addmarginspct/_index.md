@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.AddMarginsPct
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileEditor. Изменяет размер содержимого страницы и добавляет указанные поля. Поля указываются в процентах от начального размера страницы
+title: "PdfFileEditor.AddMarginsPct"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileEditor метод. Изменяет размер содержимого страниц и добавляет указанные поля. Поля задаются в процентах от исходного размера страницы"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/pdffileeditor/addmarginspct/
 ---
 ## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 
-Изменяет размер содержимого страницы и добавляет указанные поля. Поля указываются в процентах от начального размера страницы.
+Изменяет размер содержимого страниц и добавляет указанные поля. Поля задаются в процентах от исходного размера страницы.
 
 ```csharp
 public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double leftMargin, 
@@ -17,17 +17,17 @@ public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | Stream | Поток, содержащий исходный документ. |
-| destination | Stream | Поток, в который будет сохранен результирующий документ. |
-| pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
-| leftMargin | Double | Левое поле в процентах от начального размера страницы. |
-| rightMargin | Double | Правое поле в процентах от начального размера страницы. |
-| topMargin | Double | Верхнее поле в процентах от начального размера страницы. |
-| bottomMargin | Double | Нижнее поле в процентах от начального размера страницы. |
+| источник | Stream | Поток, содержащий исходный документ. |
+| destination | Stream | Поток, в котором будет сохранён результирующий документ. |
+| страницы | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| leftMargin | Double | Левое поле в процентах от исходного размера страницы. |
+| rightMargin | Double | Правое поле в процентах от исходного размера страницы. |
+| topMargin | Double | Верхнее поле в процентах от исходного размера страницы. |
+| bottomMargin | Double | Нижнее поле в процентах от исходного размера страницы. |
 
 ### Возвращаемое значение
 
-true, если действие было выполнено успешно.
+true если действие выполнено успешно.
 
 ## Примеры
 
@@ -36,30 +36,30 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMarginsPct(src, dest, 
-    //process pages 1, 2, 3
+    //обработать страницы 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //левое поле составляет 15% от ширины страницы
     15, 
-    //right margin is 10% of page width
+    //правое поле составляет 10% от ширины страницы
     10, 
-    //top margin is 20% of page width
+    //верхнее поле составляет 20% от ширины страницы
     20, 
-    //bottom margin is 5% of page width
+    //нижнее поле составляет 5% от ширины страницы
     5);
     dest.Close();
 ```
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
 
-Изменяет размер содержимого страницы и добавляет указанные поля. Поля указываются в процентах от начального размера страницы.
+Изменяет размер содержимого страниц и добавляет указанные поля. Поля задаются в процентах от исходного размера страницы.
 
 ```csharp
 public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
@@ -68,37 +68,39 @@ public bool AddMarginsPct(string source, string destination, int[] pages, double
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | String | Путь к исходному документу. |
-| destination | String | Путь, по которому будет сохранен результирующий документ. |
-| pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
-| leftMargin | Double | Левое поле в процентах от начального размера страницы. |
-| rightMargin | Double | Правое поле в процентах от начального размера страницы. |
-| topMargin | Double | Верхнее поле в процентах от начального размера страницы. |
-| bottomMargin | Double | Нижнее поле в процентах от начального размера страницы. |
+| источник | String | Путь к исходному документу. |
+| destination | String | Путь, где будет сохранён результирующий документ. |
+| страницы | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| leftMargin | Double | Левое поле в процентах от исходного размера страницы. |
+| rightMargin | Double | Правое поле в процентах от исходного размера страницы. |
+| topMargin | Double | Верхнее поле в процентах от исходного размера страницы. |
+| bottomMargin | Double | Нижнее поле в процентах от исходного размера страницы. |
 
 ### Возвращаемое значение
 
-true, если изменение размера прошло успешно
+true если изменение размера прошло успешно
 
 ## Примеры
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
-    //process pages 1, 2, 3
+    //обработать страницы 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //левое поле составляет 15% от ширины страницы
     15, 
-    //right margin is 10% of page width
+    //правое поле составляет 10% от ширины страницы
     10, 
-    //top margin is 20% of page width
+    //верхнее поле составляет 20% от ширины страницы
     20, 
-    //bottom margin is 5% of page width
+    //нижнее поле составляет 5% от ширины страницы
     5);
 ```
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

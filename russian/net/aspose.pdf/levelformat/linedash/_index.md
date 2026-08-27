@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LevelFormat. Получает или задает штрих линии TOC
+title: "LevelFormat.LineDash"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LevelFormat. Получает или задает штриховку линии TOC"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/levelformat/linedash/
 ---
-## Свойство LevelFormat.LineDash
+## LevelFormat.LineDash property
 
-Получает или задает штрих линии TOC.
+Получает или задаёт штриховку линии оглавления.
 
 ```csharp
 public TabLeaderType LineDash { get; set; }
@@ -20,3 +20,5 @@ public TabLeaderType LineDash { get; set; }
 * class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

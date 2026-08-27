@@ -1,12 +1,12 @@
 ---
-title: Class BuildVersionInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.BuildVersionInfo. Этот класс предоставляет информацию о текущей сборке продукта
+title: "Класс BuildVersionInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.BuildVersionInfo. Этот класс предоставляет информацию о текущей сборке продукта"
 type: docs
-weight: 2950
+weight: 3060
 url: /ru/net/aspose.pdf/buildversioninfo/
 ---
-## Класс BuildVersionInfo
+## BuildVersionInfo class
 
 Этот класс предоставляет информацию о текущей сборке продукта.
 
@@ -30,5 +30,7 @@ public sealed class BuildVersionInfo
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

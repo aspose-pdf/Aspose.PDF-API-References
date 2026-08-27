@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Last
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineCollection. Получает элемент контура, представляющий последний элемент верхнего уровня в контуре
+title: "OutlineCollection.Last"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineCollection. Возвращает элемент оглавления, представляющий последний элемент верхнего уровня в оглавлении"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/outlinecollection/last/
 ---
-## Свойство OutlineCollection.Last
+## OutlineCollection.Last property
 
-Получает элемент контура, представляющий последний элемент верхнего уровня в контуре.
+Получает элемент оглавления, представляющий последний элемент верхнего уровня в оглавлении.
 
 ```csharp
 public OutlineItemCollection Last { get; }
@@ -16,7 +16,9 @@ public OutlineItemCollection Last { get; }
 
 ### См. также
 
-* класс [OutlineItemCollection](../../outlineitemcollection/)
-* класс [OutlineCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

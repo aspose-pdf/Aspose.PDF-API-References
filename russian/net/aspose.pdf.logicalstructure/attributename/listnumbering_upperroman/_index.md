@@ -1,12 +1,12 @@
 ---
-title: AttributeName.ListNumbering_UpperRoman
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут ListNumbering UpperRoman  Заглавные римские цифры I II III IV
+title: "AttributeName.ListNumbering_UpperRoman"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут ListNumbering UpperRoman  Римские цифры верхнего регистра I II III IV"
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.logicalstructure/attributename/listnumbering_upperroman/
 ---
-## Поле AttributeName.ListNumbering_UpperRoman
+## AttributeName.ListNumbering_UpperRoman field
 
 Атрибут ListNumbering: UpperRoman - Заглавные римские цифры (I, II, III, IV, ...).
 
@@ -16,6 +16,8 @@ public static readonly AttributeName ListNumbering_UpperRoman;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

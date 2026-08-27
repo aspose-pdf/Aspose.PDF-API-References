@@ -1,14 +1,14 @@
 ---
-title: LaunchAction.NewWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LaunchAction. Получает или устанавливает флаг, указывающий, следует ли открывать целевой документ в новом окне.
+title: "LaunchAction.NewWindow"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LaunchAction. Возвращает или задает флаг, указывающий, открывать ли целевой документ в новом окне; влияет только на PDF‑документы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/launchaction/newwindow/
 ---
-## Свойство LaunchAction.NewWindow
+## LaunchAction.NewWindow property
 
-Получает или устанавливает флаг, указывающий, следует ли открывать целевой документ в новом окне (касается только PDF-документов).
+Получает или задаёт флаг, указывающий, открывать ли целевой документ в новом окне (только для PDF‑документов).
 
 ```csharp
 public ExtendedBoolean NewWindow { get; set; }
@@ -20,3 +20,5 @@ public ExtendedBoolean NewWindow { get; set; }
 * class [LaunchAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

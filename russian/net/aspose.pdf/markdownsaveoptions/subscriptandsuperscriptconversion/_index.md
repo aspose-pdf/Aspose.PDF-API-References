@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.SubscriptAndSuperscriptConversion
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarkdownSaveOptions. Получает и устанавливает разрешение на преобразование нижнего и верхнего индексов. Это значение по умолчанию равно true.
+title: "MarkdownSaveOptions.SubscriptAndSuperscriptConversion"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MarkdownSaveOptions. Получает и задает разрешение на преобразование нижних и верхних индексов. Это значение по умолчанию равно true"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/markdownsaveoptions/subscriptandsuperscriptconversion/
 ---
-## Свойство MarkdownSaveOptions.SubscriptAndSuperscriptConversion
+## MarkdownSaveOptions.SubscriptAndSuperscriptConversion property
 
-Получает и устанавливает разрешение на преобразование нижнего и верхнего индексов. Это значение по умолчанию равно true.
+Получает и задает разрешение на преобразование нижних и верхних индексов. Значение по умолчанию — true.
 
 ```csharp
 public bool SubscriptAndSuperscriptConversion { get; set; }
@@ -16,6 +16,8 @@ public bool SubscriptAndSuperscriptConversion { get; set; }
 
 ### См. также
 
-* класс [MarkdownSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

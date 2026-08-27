@@ -1,12 +1,12 @@
 ---
-title: ExplicitDestination.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ExplicitDestination. Получает номер целевой страницы
+title: "ExplicitDestination.PageNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ExplicitDestination. Возвращает номер целевой страницы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/explicitdestination/pagenumber/
 ---
-## Свойство ExplicitDestination.PageNumber
+## ExplicitDestination.PageNumber property
 
 Получает номер целевой страницы
 
@@ -16,6 +16,8 @@ public int PageNumber { get; }
 
 ### См. также
 
-* класс [ExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

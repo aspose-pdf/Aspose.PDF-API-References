@@ -1,12 +1,12 @@
 ---
-title: Class OrganizerBaseOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.OrganizerBaseOptions. Представляет базовые параметры для плагинов
+title: "Класс OrganizerBaseOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.OrganizerBaseOptions. Представляет базовые параметры для плагинов."
 type: docs
-weight: 8980
+weight: 9130
 url: /ru/net/aspose.pdf.plugins/organizerbaseoptions/
 ---
-## Класс OrganizerBaseOptions
+## OrganizerBaseOptions class
 
 Представляет базовые параметры для плагинов.
 
@@ -32,6 +32,8 @@ public class OrganizerBaseOptions : IPluginOptions
 
 ### См. также
 
-* интерфейс [IPluginOptions](../ipluginoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPluginOptions](../ipluginoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

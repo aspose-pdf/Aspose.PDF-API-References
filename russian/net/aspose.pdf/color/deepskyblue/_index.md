@@ -1,14 +1,14 @@
 ---
-title: Color.DeepSkyBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет, который имеет значение ARGB c FF00BFFF
+title: "Color.DeepSkyBlue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Color property. Возвращает системный цвет с ARGB‑значением c FF00BFFF"
 type: docs
 weight: 410
 url: /ru/net/aspose.pdf/color/deepskyblue/
 ---
-## Свойство Color.DeepSkyBlue
+## Color.DeepSkyBlue property
 
-Получает системно определенный цвет, который имеет значение ARGB \c \#FF00BFFF.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FF00BFFF.
 
 ```csharp
 public static Color DeepSkyBlue { get; }
@@ -16,10 +16,12 @@ public static Color DeepSkyBlue { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: GraphicalPdfComparer.ComparePagesToPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод GraphicalPdfComparer. Сравнивает страницы графически. Результат сравнения помещается в PDF-документ
+title: "GraphicalPdfComparer.ComparePagesToPdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод GraphicalPdfComparer. Сравнивает страницы графически. Результат сравнения помещается в PDF‑документ"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/
 ---
 ## ComparePagesToPdf(Page, Page, string) {#comparepagestopdf_1}
 
-Сравнивает страницы графически. Результат сравнения помещается в PDF-документ.
+Сравнивает страницы графически. Результат сравнения помещается в PDF‑документ.
 
 ```csharp
 public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
@@ -16,28 +16,28 @@ public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page1 | Page | Первая страница. |
-| page2 | Page | Вторая страница. |
-| resultPdfPath | String | Путь к целевому PDF-файлу. |
+| page1 | Страница | Первая страница. |
+| page2 | Страница | Вторая страница. |
+| resultPdfPath | String | Путь к целевому PDF‑файлу. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Если сравниваемые страницы имеют разные размеры. Если resultPdfPath равно null или пустая строка. |
+| ArgumentException | Если сравниваемые страницы имеют разные размеры. Если resultPdfPath равен null или пустой строке. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [GraphicalPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ComparePagesToPdf(Page, Page, Document) {#comparepagestopdf}
 
-Сравнивает страницы графически. Результат сравнения помещается в PDF-документ.
+Сравнивает страницы графически. Результат сравнения помещается в PDF‑документ.
 
 ```csharp
 public void ComparePagesToPdf(Page page1, Page page2, Document pdfDocument)
@@ -45,9 +45,9 @@ public void ComparePagesToPdf(Page page1, Page page2, Document pdfDocument)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page1 | Page | Первая страница. |
-| page2 | Page | Вторая страница. |
-| pdfDocument | Document | Экземпляр PDF-документа. |
+| page1 | Страница | Первая страница. |
+| page2 | Страница | Вторая страница. |
+| pdfDocument | Document | Экземпляр PDF‑документа. |
 
 ### Исключения
 
@@ -57,8 +57,10 @@ public void ComparePagesToPdf(Page page1, Page page2, Document pdfDocument)
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Document](../../../aspose.pdf/document/)
-* класс [GraphicalPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Document](../../../aspose.pdf/document/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

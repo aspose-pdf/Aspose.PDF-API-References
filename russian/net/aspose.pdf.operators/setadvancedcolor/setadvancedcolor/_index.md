@@ -1,7 +1,7 @@
 ---
-title: SetAdvancedColor.SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetAdvancedColor. Инициализирует оператор
+title: "SetAdvancedColor.SetAdvancedColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetAdvancedColor. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
 public SetAdvancedColor()
 ```
 
-### See Also
+### См. также
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,18 +24,18 @@ public SetAdvancedColor()
 
 ## SetAdvancedColor(double, string) {#constructor_4}
 
-Конструктор для оператора scn.
+Конструктор оператора scn.
 
 ```csharp
 public SetAdvancedColor(double g, string patternName)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | g | Double | Значение цвета. |
 | patternName | String | Имя шаблона. |
 
-### See Also
+### См. также
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -45,17 +45,17 @@ public SetAdvancedColor(double g, string patternName)
 
 ## SetAdvancedColor(double) {#constructor_1}
 
-Конструктор для оператора scn.
+Конструктор оператора scn.
 
 ```csharp
 public SetAdvancedColor(double g)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | g | Double | Значение цвета. |
 
-### See Also
+### См. также
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -65,20 +65,20 @@ public SetAdvancedColor(double g)
 
 ## SetAdvancedColor(double, double, double, string) {#constructor_3}
 
-Конструктор для оператора scn.
+Конструктор оператора scn.
 
 ```csharp
 public SetAdvancedColor(double r, double g, double b, string patternName)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | r | Double | Красный компонент цвета. |
-| g | Double | Зеленый компонент цвета. |
+| g | Double | Зелёный компонент цвета. |
 | b | Double | Синий компонент цвета. |
 | patternName | String | Имя шаблона. |
 
-### See Also
+### См. также
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -88,21 +88,21 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 
 ## SetAdvancedColor(double, double, double, double, string) {#constructor_2}
 
-Конструктор для оператора scn.
+Конструктор оператора scn.
 
 ```csharp
 public SetAdvancedColor(double c, double m, double y, double k, string patternName)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| c | Double | Циановый компонент цвета. |
-| m | Double | Магентовый компонент цвета. |
-| y | Double | Желтый компонент цвета. |
-| k | Double | Черный компонент цвета. |
+| c | Double | Голубой компонент цвета. |
+| m | Double | Пурпурный компонент цвета. |
+| y | Double | Жёлтый компонент цвета. |
+| k | Double | Чёрный компонент цвета. |
 | patternName | String | Имя шаблона. |
 
-### See Also
+### См. также
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -112,17 +112,17 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 
 ## SetAdvancedColor(string) {#constructor_6}
 
-Конструктор для оператора scn.
+Конструктор оператора scn.
 
 ```csharp
 public SetAdvancedColor(string patternName)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | patternName | String | Имя шаблона. |
 
-### See Also
+### См. также
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -132,19 +132,21 @@ public SetAdvancedColor(string patternName)
 
 ## SetAdvancedColor(double[], string) {#constructor_5}
 
-Конструктор для оператора scn.
+Конструктор оператора scn.
 
 ```csharp
 public SetAdvancedColor(double[] colors, string patternName)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | patternName | Double[] | Имя шаблона. |
 | colors | String | Массив цветов. |
 
-### See Also
+### См. также
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

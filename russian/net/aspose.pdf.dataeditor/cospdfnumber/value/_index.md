@@ -1,12 +1,12 @@
 ---
-title: CosPdfNumber.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CosPdfNumber. Получает значение
+title: "CosPdfNumber.Value"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CosPdfNumber. Возвращает значение"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.dataeditor/cospdfnumber/value/
 ---
-## Свойство CosPdfNumber.Value
+## CosPdfNumber.Value property
 
 Получает значение.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf.dataeditor/cospdfnumber/value/
 public double Value { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Значение.
 
 ### См. также
 
-* класс [CosPdfNumber](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

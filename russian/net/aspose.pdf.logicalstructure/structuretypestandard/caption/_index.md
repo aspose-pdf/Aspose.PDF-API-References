@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Заголовок Краткая часть текста, описывающая таблицу или фигуру
+title: "StructureTypeStandard.Caption"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard field. Caption Краткая часть текста, описывающая таблицу или рисунок"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/caption/
 ---
-## Поле StructureTypeStandard.Caption
+## StructureTypeStandard.Caption field
 
-(Заголовок) Краткая часть текста, описывающая таблицу или фигуру.
+(Caption) Краткий фрагмент текста, описывающий таблицу или рисунок.
 
 ```csharp
 public static readonly StructureTypeStandard Caption;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Caption;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

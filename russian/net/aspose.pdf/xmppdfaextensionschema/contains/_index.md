@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpPdfAExtensionSchema. Определяет, существует ли obj в схеме
+title: "XmpPdfAExtensionSchema.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpPdfAExtensionSchema. Определяет, существует ли объект в схеме"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/contains/
 ---
-## Метод XmpPdfAExtensionSchema.Contains
+## XmpPdfAExtensionSchema.Contains method
 
-Определяет, существует ли obj в схеме.
+Определяет, существует ли объект в схеме.
 
 ```csharp
 public bool Contains(XmpPdfAExtensionObject obj)
@@ -16,15 +16,17 @@ public bool Contains(XmpPdfAExtensionObject obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | XmpPdfAExtensionObject | Объект, который нужно найти. |
+| obj | XmpPdfAExtensionObject | Объект для поиска. |
 
 ### Возвращаемое значение
 
-True - объект существует в схеме; в противном случае - false.
+True — объект существует в схеме; иначе — false.
 
 ### См. также
 
-* класс [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* класс [XmpPdfAExtensionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

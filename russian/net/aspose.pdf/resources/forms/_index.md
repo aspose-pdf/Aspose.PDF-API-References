@@ -1,14 +1,14 @@
 ---
-title: Resources.Forms
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ресурсов. Получает коллекцию форм Forms
+title: "Resources.Forms"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Resources. Возвращает коллекцию форм Forms."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/resources/forms/
 ---
-## Свойство Ресурсы.Формы
+## Resources.Forms property
 
-Получает коллекцию форм `Forms`
+Возвращает коллекцию форм `Forms`.
 
 ```csharp
 public XFormCollection Forms { get; }
@@ -16,7 +16,9 @@ public XFormCollection Forms { get; }
 
 ### См. также
 
-* класс [XFormCollection](../../xformcollection/)
-* класс [Resources](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XFormCollection](../../xformcollection/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

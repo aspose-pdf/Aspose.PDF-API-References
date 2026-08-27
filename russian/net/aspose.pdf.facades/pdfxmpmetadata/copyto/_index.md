@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfXmpMetadata.
+title: "PdfXmpMetadata.CopyTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfXmpMetadata."
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/copyto/
 ---
-## Метод PdfXmpMetadata.CopyTo
+## PdfXmpMetadata.CopyTo method
 
 ```csharp
 public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
@@ -14,7 +14,9 @@ public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
 
 ### См. также
 
-* класс [XmpValue](../../../aspose.pdf/xmpvalue/)
-* класс [PdfXmpMetadata](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

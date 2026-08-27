@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.B4Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Конверт B4 250 мм на 353 мм
+title: "PaperSizes.B4Envelope"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Конверт B4 250 мм на 353 мм"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.printing/papersizes/b4envelope/
 ---
-## Поле PaperSizes.B4Envelope
+## PaperSizes.B4Envelope field
 
-Конверт B4 (250 мм на 353 мм).
+Конверт B4 (250 mm by 353 mm).
 
 ```csharp
 public static readonly PaperSize B4Envelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize B4Envelope;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

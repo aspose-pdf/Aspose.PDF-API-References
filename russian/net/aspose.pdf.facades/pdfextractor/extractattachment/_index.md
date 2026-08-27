@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.ExtractAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfExtractor. Извлекает вложения из документа Pdf
+title: "PdfExtractor.ExtractAttachment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfExtractor. Извлекает вложения из PDF‑документа."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdfextractor/extractattachment/
 ---
 ## ExtractAttachment() {#extractattachment}
 
-Извлекает вложения из документа Pdf.
+Извлекает вложения из PDF‑документа.
 
 ```csharp
 public void ExtractAttachment()
@@ -16,15 +16,15 @@ public void ExtractAttachment()
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExtractAttachment(string) {#extractattachment_1}
 
-Извлекает вложение в файл PDF по имени вложения.
+Извлекает вложение в PDF-файл по имени вложения.
 
 ```csharp
 public void ExtractAttachment(string attachmentFileName)
@@ -36,6 +36,8 @@ public void ExtractAttachment(string attachmentFileName)
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfToXlsOptions.InsertBlankColumnAtFirst
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfToXlsOptions. Установите true, если вам нужно вставить пустой столбец в качестве первого столбца рабочего листа. Значение по умолчанию - false, это означает, что пустой столбец не будет вставлен.
+title: "PdfToXlsOptions.InsertBlankColumnAtFirst"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfToXlsOptions. Установите true, если необходимо вставить пустой столбец в качестве первого столбца листа. Значение по умолчанию — false, что означает, что пустой столбец не будет вставлен."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/pdftoxlsoptions/insertblankcolumnatfirst/
 ---
-## Свойство PdfToXlsOptions.InsertBlankColumnAtFirst
+## PdfToXlsOptions.InsertBlankColumnAtFirst property
 
-Установите true, если вам нужно вставить пустой столбец в качестве первого столбца рабочего листа. Значение по умолчанию - false; это означает, что пустой столбец не будет вставлен.
+Установите true, если необходимо вставить пустой столбец в качестве первого столбца листа. Значение по умолчанию — false; это означает, что пустой столбец не будет вставлен.
 
 ```csharp
 public bool InsertBlankColumnAtFirst { get; set; }
@@ -16,6 +16,8 @@ public bool InsertBlankColumnAtFirst { get; set; }
 
 ### См. также
 
-* класс [PdfToXlsOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfToXlsOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

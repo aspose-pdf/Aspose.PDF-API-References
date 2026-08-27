@@ -1,14 +1,14 @@
 ---
-title: Delegate Page.BeforePageGenerate
-second_title: Aspose.PDF for .NET API Reference
-description: Процедура для настройки заголовка и нижнего колонтитула
+title: "Делегировать Page.BeforePageGenerate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Процедура настройки заголовка и нижнего колонтитула"
 type: docs
-weight: 8060
+weight: 8200
 url: /ru/net/aspose.pdf/page.beforepagegenerate/
 ---
-## Делегат Page.BeforePageGenerate
+## Page.BeforePageGenerate delegate
 
-Процедура для настройки заголовка и нижнего колонтитула.
+Процедура настройки заголовка и нижнего колонтитула.
 
 ```csharp
 public delegate void BeforePageGenerate(Page page);
@@ -16,10 +16,12 @@ public delegate void BeforePageGenerate(Page page);
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Текущая страница. |
+| страница | Страница | Текущая страница. |
 
 ### См. также
 
-* класс [Page](../page/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [Page](../page/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfViewer. Получает или устанавливает режим представления формы
+title: "PdfViewer.FormPresentationMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfViewer. Получает или задает режим представления формы"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdfviewer/formpresentationmode/
 ---
-## Свойство PdfViewer.FormPresentationMode
+## PdfViewer.FormPresentationMode property
 
-Получает или устанавливает режим представления формы.
+Получает или задает режим отображения формы.
 
 ```csharp
 public FormPresentationMode FormPresentationMode { get; set; }
@@ -20,3 +20,5 @@ public FormPresentationMode FormPresentationMode { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

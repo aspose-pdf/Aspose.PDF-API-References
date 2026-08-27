@@ -1,20 +1,20 @@
 ---
-title: PdfBookmarkEditor.PdfBookmarkEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfBookmarkEditor. Инициализирует новый объект PdfBookmarkEditor
+title: "PdfBookmarkEditor.PdfBookmarkEditor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfBookmarkEditor. Инициализирует новый объект PdfBookmarkEditor"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/
 ---
 ## PdfBookmarkEditor() {#constructor}
 
-Инициализирует новый [`PdfBookmarkEditor`](../) объект.
+Инициализирует новый объект [`PdfBookmarkEditor`](../).
 
 ```csharp
 public PdfBookmarkEditor()
 ```
 
-### See Also
+### См. также
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,19 +24,21 @@ public PdfBookmarkEditor()
 
 ## PdfBookmarkEditor(Document) {#constructor_1}
 
-Инициализирует новый [`PdfBookmarkEditor`](../) объект на основе *документа*.
+Инициализирует новый объект [`PdfBookmarkEditor`](../) на основе *документа*.
 
 ```csharp
 public PdfBookmarkEditor(Document document)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| документ | Document | Pdf документ. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

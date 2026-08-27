@@ -1,14 +1,14 @@
 ---
-title: TiffOptions.SaveAsMultiPageTiff
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TiffOptions. Получает и устанавливает флаг, который позволяет сохранить все страницы в одном многопоточном tiff
+title: "TiffOptions.SaveAsMultiPageTiff"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TiffOptions. Получает и задает флаг, позволяющий сохранять все страницы в один многостраничный TIFF"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.plugins/tiffoptions/saveasmultipagetiff/
 ---
-## Свойство TiffOptions.SaveAsMultiPageTiff
+## TiffOptions.SaveAsMultiPageTiff property
 
-Получает и устанавливает флаг, который позволяет сохранить все страницы в одном многопоточном tiff.
+Получает и задает флаг, позволяющий сохранять все страницы в один многостраничный tiff.
 
 ```csharp
 public bool SaveAsMultiPageTiff { get; set; }
@@ -16,6 +16,8 @@ public bool SaveAsMultiPageTiff { get; set; }
 
 ### См. также
 
-* класс [TiffOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TiffOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

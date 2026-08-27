@@ -1,14 +1,14 @@
 ---
-title: Color.Chocolate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFD2691E
+title: "Color.Chocolate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системный цвет, у которого ARGB‑значение c FFD2691E"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf/color/chocolate/
 ---
-## Свойство Color.Chocolate
+## Color.Chocolate property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFD2691E.
+Возвращает системный цвет, имеющий ARGB‑значение \c \#FFD2691E.
 
 ```csharp
 public static Color Chocolate { get; }
@@ -16,10 +16,12 @@ public static Color Chocolate { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

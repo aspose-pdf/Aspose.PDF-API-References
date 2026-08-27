@@ -1,12 +1,12 @@
 ---
-title: DiffOperation.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DiffOperation. Получить и установить текст операции
+title: "DiffOperation.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DiffOperation. Получает и задает текст операции"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.comparison/diffoperation/text/
 ---
-## Свойство DiffOperation.Text
+## DiffOperation.Text property
 
 Получить и установить текст операции.
 
@@ -16,6 +16,8 @@ public string Text { get; }
 
 ### См. также
 
-* класс [DiffOperation](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [DiffOperation](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

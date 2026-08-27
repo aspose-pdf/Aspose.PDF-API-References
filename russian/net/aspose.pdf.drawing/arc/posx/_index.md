@@ -1,14 +1,14 @@
 ---
-title: Arc.PosX
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Arc. Получает или устанавливает значение с плавающей запятой, которое указывает на координату x центра дуги
+title: "Arc.PosX"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Arc. Получает или задает значение типа float, которое указывает x‑координату центра дуги"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.drawing/arc/posx/
 ---
-## Свойство Arc.PosX
+## Arc.PosX property
 
-Получает или устанавливает значение с плавающей запятой, которое указывает на координату x центра дуги.
+Получает или задает значение типа float, указывающее координату x центра дуги.
 
 ```csharp
 public double PosX { get; set; }
@@ -16,6 +16,8 @@ public double PosX { get; set; }
 
 ### См. также
 
-* класс [Arc](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.WritingMode_RlTb
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут WritingMode RlTb. Внутренний прогресс от права к левой; блочный прогресс сверху вниз. Это типичный режим письма для арабских и ивритских систем письма.
+title: "AttributeName.WritingMode_RlTb"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут WritingMode RlTb  Внутренняя прогрессия справа налево, блочная прогрессия сверху вниз. Это типичный режим письма для арабских и еврейских систем письма."
 type: docs
 weight: 650
 url: /ru/net/aspose.pdf.logicalstructure/attributename/writingmode_rltb/
 ---
-## Поле AttributeName.WritingMode_RlTb
+## AttributeName.WritingMode_RlTb field
 
-Атрибут WritingMode: RlTb - Внутренний прогресс от права к левой; блочный прогресс сверху вниз. Это типичный режим письма для арабских и ивритских систем письма.
+Attribute WritingMode: RlTb - Последовательность по строке справа налево; последовательность блоков сверху вниз. Это типичный режим письма для арабских и еврейских систем письма.
 
 ```csharp
 public static readonly AttributeName WritingMode_RlTb;
@@ -16,6 +16,8 @@ public static readonly AttributeName WritingMode_RlTb;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

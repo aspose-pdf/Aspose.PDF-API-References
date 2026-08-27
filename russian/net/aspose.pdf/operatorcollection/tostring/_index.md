@@ -1,12 +1,12 @@
 ---
-title: OperatorCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OperatorCollection. Возвращает текстовое представление оператора
+title: "OperatorCollection.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OperatorCollection. Возвращает текстовое представление оператора"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf/operatorcollection/tostring/
 ---
-## Метод OperatorCollection.ToString
+## OperatorCollection.ToString method
 
 Возвращает текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

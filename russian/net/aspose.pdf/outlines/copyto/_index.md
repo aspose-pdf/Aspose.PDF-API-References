@@ -1,14 +1,14 @@
 ---
-title: Outlines.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Outlines. Копирует элементы контура в System.Array, начиная с определенного индекса System.Array
+title: "Outlines.CopyTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Outlines. Копирует записи оглавления в System.Array, начиная с определённого индекса System.Array"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/outlines/copyto/
 ---
-## Метод Outlines.CopyTo
+## Outlines.CopyTo method
 
-Копирует элементы контура в System.Array, начиная с определенного индекса System.Array.
+Копирует записи оглавления в System.Array, начиная с указанного индекса System.Array.
 
 ```csharp
 public abstract void CopyTo(OutlineItemCollection[] array, int arrayIndex)
@@ -16,12 +16,14 @@ public abstract void CopyTo(OutlineItemCollection[] array, int arrayIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | OutlineItemCollection[] | Одномерный System.Array, который является местом назначения. Должен иметь индексацию с нуля. |
-| arrayIndex | Int32 | Индекс с нуля в массиве, с которого начинается копирование. |
+| массив | OutlineItemCollection[] | Одномерный System.Array, являющийся получателем. Должен использовать нулевую индексацию. |
+| arrayIndex | Int32 | Нулевой индекс в массиве, с которого начинается копирование. |
 
 ### См. также
 
-* класс [OutlineItemCollection](../../outlineitemcollection/)
-* класс [Outlines](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

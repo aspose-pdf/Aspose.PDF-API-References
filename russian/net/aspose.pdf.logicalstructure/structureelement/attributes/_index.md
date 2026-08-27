@@ -1,12 +1,12 @@
 ---
-title: StructureElement.Attributes
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureElement. Получает объект StructureAttributeCollection
+title: "StructureElement.Attributes"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureElement. Получает объект StructureAttributeCollection"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/attributes/
 ---
-## Свойство StructureElement.Attributes
+## StructureElement.Attributes property
 
 Получает объект StructureAttributeCollection.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf.logicalstructure/structureelement/attributes/
 public StructureAttributeCollection Attributes { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Объект StructureAttributeCollection.
 
 ### См. также
 
-* класс [StructureAttributeCollection](../../structureattributecollection/)
-* класс [StructureElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureAttributeCollection](../../structureattributecollection/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

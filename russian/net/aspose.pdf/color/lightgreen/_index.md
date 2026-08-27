@@ -1,14 +1,14 @@
 ---
-title: Color.LightGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF90EE90
+title: "Color.LightGreen"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системный цвет, у которого ARGB‑значение c FF90EE90"
 type: docs
 weight: 700
 url: /ru/net/aspose.pdf/color/lightgreen/
 ---
-## Свойство Color.LightGreen
+## Color.LightGreen property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF90EE90.
+Получает системный цвет, у которого ARGB‑значение \c \#FF90EE90.
 
 ```csharp
 public static Color LightGreen { get; }
@@ -16,10 +16,12 @@ public static Color LightGreen { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

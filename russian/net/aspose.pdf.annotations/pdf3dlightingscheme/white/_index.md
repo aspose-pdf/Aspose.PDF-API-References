@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.White
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DLightingScheme. Схема освещения White
+title: "PDF3DLightingScheme.White"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PDF3DLightingScheme. Белая схема освещения"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/white/
 ---
-## Поле PDF3DLightingScheme.White
+## PDF3DLightingScheme.White field
 
 Схема освещения "White".
 
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme White;
 
 ### См. также
 
-* класс [PDF3DLightingScheme](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

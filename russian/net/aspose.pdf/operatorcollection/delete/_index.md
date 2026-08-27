@@ -1,7 +1,7 @@
 ---
-title: OperatorCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OperatorCollection. Удаляет оператор из коллекции
+title: "OperatorCollection.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OperatorCollection. Удаляет оператор из коллекции"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/operatorcollection/delete/
@@ -16,7 +16,7 @@ public void Delete(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс оператора, который должен быть удалён. Нумерация операторов начинается с 1. |
+| index | Int32 | Индекс оператора, который необходимо удалить. Нумерация операторов начинается с 1. |
 
 ## Примеры
 
@@ -30,9 +30,9 @@ oc.Delete(3);
 
 ### См. также
 
-* класс [OperatorCollection](../)
-* пространство имён [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,14 +60,14 @@ oc.Delete(new Operator[] { oc[1] } );
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorCollection](../)
-* пространство имён [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Delete(IList<Operator>) {#delete_2}
+## Delete(IList&lt;Operator&gt;) {#delete_2}
 
 Удаляет операторы из коллекции.
 
@@ -77,7 +77,7 @@ public void Delete(IList<Operator> list)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| list | IList`1 | Список операторов для удаления |
+| список | IList`1 | Список операторов для удаления |
 
 ## Примеры
 
@@ -93,7 +93,9 @@ oc.Delete(opList);
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorCollection](../)
-* пространство имён [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Splitter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Splitter. Запускает обработку Splitter с указанными параметрами
+title: "Splitter.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Splitter. Запускает обработку Splitter с указанными параметрами"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/splitter/process/
 ---
-## Метод Splitter.Process
+## Splitter.Process method
 
-Запускает [`Splitter`](../) обработку с указанными параметрами.
+Запускает обработку [`Splitter`](../) с указанными параметрами.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -30,8 +30,10 @@ public ResultContainer Process(IPluginOptions options)
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* класс [Splitter](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Splitter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

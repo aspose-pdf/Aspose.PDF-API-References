@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OutlineItemCollection. Удалить элемент коллекции оглавления
+title: "OutlineItemCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OutlineItemCollection. Удаляет элемент коллекции оглавления"
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf/outlineitemcollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-Удалить элемент коллекции оглавления.
+Удаляет элемент коллекции оглавления.
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
@@ -20,13 +20,13 @@ public override bool Remove(OutlineItemCollection item)
 
 ### Возвращаемое значение
 
-True - если элемент удален; в противном случае - false.
+True — если элемент удалён; иначе false.
 
 ### См. также
 
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,10 +40,12 @@ public void Remove(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс элемента, который нужно удалить. |
+| index | Int32 | Индекс элемента, подлежащего удалению. |
 
 ### См. также
 
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageCollection. Возвращает перечислитель страниц
+title: "PageCollection.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageCollection. Возвращает перечислитель страниц"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/pagecollection/getenumerator/
 ---
-## Метод PageCollection.GetEnumerator
+## PageCollection.GetEnumerator method
 
 Возвращает перечислитель страниц.
 
@@ -20,7 +20,9 @@ public IEnumerator<Page> GetEnumerator()
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

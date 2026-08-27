@@ -1,14 +1,14 @@
 ---
-title: OutputTextStyle.EqualStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutputTextStyle. Получить и установить стиль текста для неизмененного текста
+title: "OutputTextStyle.EqualStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutputTextStyle. Получать и задавать стиль текста для неизменённого текста"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.comparison/outputtextstyle/equalstyle/
 ---
-## Свойство OutputTextStyle.EqualStyle
+## OutputTextStyle.EqualStyle property
 
-Получить и установить стиль текста для неизмененного текста.
+Получить и установить стиль текста для неизменённого текста.
 
 ```csharp
 public TextStyle EqualStyle { get; set; }
@@ -16,7 +16,9 @@ public TextStyle EqualStyle { get; set; }
 
 ### См. также
 
-* класс [TextStyle](../../textstyle/)
-* класс [OutputTextStyle](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [TextStyle](../../textstyle/)
+* class [OutputTextStyle](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

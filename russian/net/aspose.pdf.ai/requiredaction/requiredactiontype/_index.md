@@ -1,14 +1,14 @@
 ---
-title: RequiredAction.RequiredActionType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RequiredAction. Получает или задает тип действия, которое требуется
+title: "RequiredAction.RequiredActionType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RequiredAction. Получает или задает тип требуемого действия."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/requiredaction/requiredactiontype/
 ---
-## Свойство RequiredAction.RequiredActionType
+## RequiredAction.RequiredActionType property
 
-Получает или задает тип действия, которое требуется.
+Получает или задает тип требуемого действия.
 
 ```csharp
 public string RequiredActionType { get; set; }
@@ -16,6 +16,8 @@ public string RequiredActionType { get; set; }
 
 ### См. также
 
-* класс [RequiredAction](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RequiredAction](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

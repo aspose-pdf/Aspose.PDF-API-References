@@ -1,14 +1,14 @@
 ---
-title: Page.AsXml
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Преобразует текущую страницу в xml в кодировке utf8
+title: "Page.AsXml"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Преобразует текущую страницу в xml в кодировке utf8"
 type: docs
 weight: 380
 url: /ru/net/aspose.pdf/page/asxml/
 ---
-## Метод Page.AsXml
+## Page.AsXml method
 
-Преобразует текущую страницу в xml в кодировке utf8.
+Преобразует текущую страницу в XML с кодировкой UTF-8.
 
 ```csharp
 public string AsXml()
@@ -20,6 +20,8 @@ public string AsXml()
 
 ### См. также
 
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

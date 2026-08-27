@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RadioButtonField. Получает или устанавливает значение поля
+title: "RadioButtonField.Value"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RadioButtonField. Получает или задает значение поля"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/radiobuttonfield/value/
 ---
-## Свойство RadioButtonField.Value
+## RadioButtonField.Value property
 
-Получает или устанавливает значение поля.
+Получает или задает значение поля.
 
 ```csharp
 public override string Value { get; set; }
@@ -16,6 +16,8 @@ public override string Value { get; set; }
 
 ### См. также
 
-* класс [RadioButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

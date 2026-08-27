@@ -1,14 +1,14 @@
 ---
-title: Enum HeadingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum HeadingStyle Aspose.Pdf. Определяет доступные стили сериализации для заголовков. Для спецификации см. CommonMark - ATX заголовки, соответственно CommonMark - Setext заголовки
+title: "Перечисление HeadingStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.HeadingStyle. Определяет доступные стили сериализации заголовков. Для спецификации см. заголовки ATX CommonMark и заголовки Setext CommonMark."
 type: docs
-weight: 5490
+weight: 5620
 url: /ru/net/aspose.pdf/headingstyle/
 ---
-## Перечисление HeadingStyle
+## HeadingStyle enumeration
 
-Определяет доступные стили сериализации для заголовков. Для спецификации см. CommonMark - ATX заголовки, соответственно CommonMark - Setext заголовки.
+Определяет доступные стили сериализации для заголовков. Для спецификации см. CommonMark — ATX headings, соответственно CommonMark — Setext headings.
 
 ```csharp
 public enum HeadingStyle
@@ -18,10 +18,12 @@ public enum HeadingStyle
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Atx | `0` | Префикс заголовков с '#' |
-| Setext | `1` | Подчеркивание заголовков уровня 1 и 2 с "======" соответственно "------" |
+| Atx | `0` | Префикс заголовков — «#» |
+| Setext | `1` | Подчеркивайте заголовки уровней 1 и 2 символами "======" и "------" соответственно |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

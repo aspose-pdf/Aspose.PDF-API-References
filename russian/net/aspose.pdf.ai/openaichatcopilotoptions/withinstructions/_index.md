@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Устанавливает инструкции для параметров чат-коопилота
+title: "OpenAIChatCopilotOptions.WithInstructions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIChatCopilotOptions метод. Устанавливает инструкции для параметров чат‑копилота"
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/
 ---
-## Метод OpenAIChatCopilotOptions.WithInstructions
+## OpenAIChatCopilotOptions.WithInstructions method
 
-Устанавливает инструкции для параметров чат-коопилота.
+Устанавливает инструкции для параметров чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithInstructions(string instructions)
@@ -24,6 +24,8 @@ public OpenAIChatCopilotOptions WithInstructions(string instructions)
 
 ### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

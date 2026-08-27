@@ -1,12 +1,12 @@
 ---
-title: Form.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Form. Получает перечисление полей формы
+title: "Form.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Получает перечисление полей формы"
 type: docs
-weight: 260
+weight: 280
 url: /ru/net/aspose.pdf.forms/form/getenumerator/
 ---
-## Метод Form.GetEnumerator
+## Form.GetEnumerator method
 
 Получает перечисление полей формы.
 
@@ -20,7 +20,9 @@ public IEnumerator<WidgetAnnotation> GetEnumerator()
 
 ### См. также
 
-* класс [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

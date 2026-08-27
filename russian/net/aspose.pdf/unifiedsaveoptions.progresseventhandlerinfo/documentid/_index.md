@@ -1,14 +1,14 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ProgressEventHandlerInfo. Уникальный идентификатор документа
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ProgressEventHandlerInfo. Уникальный идентификатор документа."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid/
 ---
-## Поле UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId
+## UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId field
 
-Уникальный идентификатор документа.
+Уникальный идентификатор Document.
 
 ```csharp
 public Guid DocumentId;
@@ -16,6 +16,8 @@ public Guid DocumentId;
 
 ### См. также
 
-* класс [ProgressEventHandlerInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ProgressEventHandlerInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.EnableSignatureSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает флаг для управления очисткой полей подписи. Включено по умолчанию
+title: "Document.EnableSignatureSanitization"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document свойство. Получает или задаёт флаг управления санитизацией полей подписи. Включено по умолчанию"
 type: docs
-weight: 170
+weight: 190
 url: /ru/net/aspose.pdf/document/enablesignaturesanitization/
 ---
-## Свойство Document.EnableSignatureSanitization
+## Document.EnableSignatureSanitization property
 
-Получает или устанавливает флаг для управления очисткой полей подписи. Включено по умолчанию.
+Получает или задаёт флаг для управления санитизацией полей подписи. Включено по умолчанию.
 
 ```csharp
 public bool EnableSignatureSanitization { get; set; }
@@ -16,6 +16,8 @@ public bool EnableSignatureSanitization { get; set; }
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

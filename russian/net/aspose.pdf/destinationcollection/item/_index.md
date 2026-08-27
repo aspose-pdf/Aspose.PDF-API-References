@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DestinationCollection. Получает объект назначения по индексу
+title: "DestinationCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "DestinationCollection свойство. Получает объект пункта назначения по индексу."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/destinationcollection/item/
 ---
-## Индексатор DestinationCollection
+## DestinationCollection indexer
 
 Получает объект назначения по индексу.
 
@@ -16,14 +16,16 @@ public KeyValuePair<string, object> this[int index] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Индекс назначения для получения. |
+| index | Индекс пункта назначения для получения. |
 
 ### Возвращаемое значение
 
-Destination.
+Пункт назначения.
 
 ### См. также
 
-* класс [DestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

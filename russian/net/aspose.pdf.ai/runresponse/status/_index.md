@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или устанавливает статус выполнения, который может быть в очереди, в процессе, требует действия, отменяется, отменён, неудачный, завершён, незавершённый или истёкший
+title: "RunResponse.Status"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает статус выполнения, который может быть queued, in_progress, requires_action, cancelling, cancelled, failed, completed, incomplete или expired"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.ai/runresponse/status/
 ---
-## Свойство RunResponse.Status
+## RunResponse.Status property
 
-Получает или устанавливает статус выполнения, который может быть в очереди, в процессе, требует действия, отменяется, отменён, неудачный, завершён, незавершённый или истёкший.
+Получает или задает статус запуска, который может быть queued, in_progress, requires_action, cancelling, cancelled, failed, completed, incomplete или expired.
 
 ```csharp
 public string Status { get; set; }
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### См. также
 
-* класс [RunResponse](../)
-* пространство имён [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

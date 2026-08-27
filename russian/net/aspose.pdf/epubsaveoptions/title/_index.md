@@ -1,14 +1,14 @@
 ---
-title: EpubSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство EpubSaveOptions. Получает или устанавливает заголовок документа EPUB
+title: "EpubSaveOptions.Title"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство EpubSaveOptions. Получает или устанавливает заголовок EPUB‑документа"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/epubsaveoptions/title/
 ---
-## Свойство EpubSaveOptions.Title
+## EpubSaveOptions.Title property
 
-Получает или устанавливает заголовок документа EPUB.
+Получает или задаёт заголовок документа EPUB.
 
 ```csharp
 public string Title { get; set; }
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### См. также
 
-* класс [EpubSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EpubSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

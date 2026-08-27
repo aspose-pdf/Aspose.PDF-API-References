@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfASymbolicFontEncodingStrategy. Конструктор. Устанавливает таблицу подстановки по умолчанию mac 10
+title: "PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfASymbolicFontEncodingStrategy. Конструктор. Устанавливает подтаблицу mac 10 по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodingstrategy/
 ---
 ## PdfASymbolicFontEncodingStrategy() {#constructor}
 
-Конструктор. Устанавливает таблицу подстановки по умолчанию (mac 1,0)
+Конструктор. Устанавливает подтаблицу по умолчанию (mac 1,0)
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy()
@@ -16,9 +16,9 @@ public PdfASymbolicFontEncodingStrategy()
 
 ### См. также
 
-* класс [PdfASymbolicFontEncodingStrategy](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,14 +32,14 @@ public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| priorityQueue | Queue`1 | очередь таблиц подстановки для итерации |
+| priorityQueue | Queue`1 | очередь подтаблиц кодирования для итерации |
 
 ### См. также
 
-* класс [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
-* класс [PdfASymbolicFontEncodingStrategy](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -53,11 +53,13 @@ public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingT
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| preferredEncodingTable | CMapEncodingTableType | таблица подстановки кодирования, которая будет использоваться в приоритете перед таблицей подстановки mac (1,0) |
+| preferredEncodingTable | CMapEncodingTableType | подтаблица кодирования, которая будет использоваться в приоритете перед mac‑подтаблицей (1,0) |
 
 ### См. также
 
-* перечисление [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
-* класс [PdfASymbolicFontEncodingStrategy](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

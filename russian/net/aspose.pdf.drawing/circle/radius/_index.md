@@ -1,14 +1,14 @@
 ---
-title: Circle.Radius
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Circle. Получает или устанавливает значение типа float, которое указывает радиус круга
+title: "Circle.Radius"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Circle. Получает или задает значение типа float, которое указывает радиус круга"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.drawing/circle/radius/
 ---
-## Свойство Circle.Radius
+## Circle.Radius property
 
-Получает или устанавливает значение типа float, которое указывает радиус круга.
+Получает или задает значение типа float, указывающее радиус круга.
 
 ```csharp
 public double Radius { get; set; }
@@ -16,6 +16,8 @@ public double Radius { get; set; }
 
 ### См. также
 
-* класс [Circle](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Circle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

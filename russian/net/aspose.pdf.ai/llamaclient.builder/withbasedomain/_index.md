@@ -1,12 +1,12 @@
 ---
-title: LlamaClient.Builder.WithBaseDomain
-second_title: Aspose.PDF for .NET API Reference
-description: Метод строителя. Устанавливает базовый домен для клиента
+title: "LlamaClient.Builder.WithBaseDomain"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Builder. Устанавливает базовый домен для клиента"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/llamaclient.builder/withbasedomain/
 ---
-## Метод LlamaClient.Builder.WithBaseDomain
+## LlamaClient.Builder.WithBaseDomain method
 
 Устанавливает базовый домен для клиента.
 
@@ -24,6 +24,8 @@ public Builder WithBaseDomain(string baseDomain)
 
 ### См. также
 
-* класс [Builder](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

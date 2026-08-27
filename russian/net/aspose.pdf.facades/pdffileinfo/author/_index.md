@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Author
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileInfo. Получает или устанавливает информацию об авторе PDF-документа
+title: "PdfFileInfo.Author"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileInfo. Получает или задает информацию об авторе Author PDF‑документа"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/pdffileinfo/author/
 ---
-## Свойство PdfFileInfo.Author
+## PdfFileInfo.Author property
 
-Получает или устанавливает информацию об авторе PDF-документа.
+Получает или задает информацию об авторе PDF‑документа.
 
 ```csharp
 public string Author { get; set; }
@@ -16,6 +16,8 @@ public string Author { get; set; }
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

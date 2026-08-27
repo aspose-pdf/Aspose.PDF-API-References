@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.LogTextExtractionErrors
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextSearchOptions. Получает или устанавливает указание на то, что ошибки декодирования извлечения текста будут записываться в поглотитель текстовых фрагментов. true означает, что ошибки декодирования извлечения текста будут записываться. Это может снизить производительность. false по умолчанию - без записи ошибок
+title: "TextSearchOptions.LogTextExtractionErrors"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextSearchOptions. Получает или задаёт указание, что ошибки декодирования при извлечении текста будут записываться в TextFragmentAbsorber. true — ошибки будут записаны; это может снизить производительность. false (значение по умолчанию) — ошибки не записываются."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/textsearchoptions/logtextextractionerrors/
 ---
-## Свойство TextSearchOptions.LogTextExtractionErrors
+## TextSearchOptions.LogTextExtractionErrors property
 
-Получает или устанавливает указание на то, что ошибки извлечения (декодирования) текста будут записываться в поглотитель текста (фрагмента). true - означает, что ошибки извлечения (декодирования) текста будут записываться. Это может снизить производительность. false (по умолчанию) - без записи ошибок.
+Получает или задает индикатор, указывающий, что ошибки извлечения текста (декодирования) будут записываться в поглотитель текста (фрагмента). true — означает, что ошибки извлечения текста (декодирования) будут записаны. Это может снизить производительность. false (по умолчанию) — запись ошибок не производится.
 
 ```csharp
 public bool LogTextExtractionErrors { get; set; }
@@ -16,6 +16,8 @@ public bool LogTextExtractionErrors { get; set; }
 
 ### См. также
 
-* класс [TextSearchOptions](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

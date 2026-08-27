@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageStamp. Получает и устанавливает горизонтальную координату штампа, начиная с левого
+title: "ImageStamp.XIndent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageStamp. Возвращает и задает горизонтальную координату печати, начиная с левого края"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/imagestamp/xindent/
 ---
-## Свойство ImageStamp.XIndent
+## ImageStamp.XIndent property
 
-Получает и устанавливает горизонтальную координату штампа, начиная с левого.
+Получает и задаёт горизонтальную координату печати, начиная с левого края.
 
 ```csharp
 public override double XIndent { get; set; }
@@ -16,6 +16,8 @@ public override double XIndent { get; set; }
 
 ### См. также
 
-* класс [ImageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

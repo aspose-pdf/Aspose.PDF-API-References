@@ -1,14 +1,14 @@
 ---
-title: Measure.Origin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Measure. Точка, которая должна указывать на начало системы координат измерения в координатах пользовательского пространства по умолчанию
+title: "Measure.Origin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Measure. Точка, указывающая начало системы координат измерения в координатах пользовательского пространства по умолчанию"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/measure/origin/
 ---
-## Свойство Measure.Origin
+## Measure.Origin property
 
-Точка, которая должна указывать на начало системы координат измерения в координатах пользовательского пространства по умолчанию.
+Точка, указывающая начало системы координат измерения в координатах пользовательского пространства по умолчанию.
 
 ```csharp
 public Point Origin { get; set; }
@@ -16,7 +16,9 @@ public Point Origin { get; set; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [Measure](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

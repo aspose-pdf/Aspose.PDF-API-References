@@ -1,14 +1,14 @@
 ---
-title: Enum Fixup
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Fixup. Этот enum представляет собой тип Fixup
+title: "Перечисление Fixup"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Fixup. Это перечисление представляет тип Fixup"
 type: docs
-weight: 4860
+weight: 4980
 url: /ru/net/aspose.pdf/fixup/
 ---
-## Перечисление Fixup
+## Fixup enumeration
 
-Этот enum представляет собой тип Fixup.
+Это перечисление представляет тип Fixup.
 
 ```csharp
 public enum Fixup
@@ -16,16 +16,18 @@ public enum Fixup
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | ConvertAllPagesIntoCMYKImagesAndPreserveTextInformation | `0` | Не поддерживается. |
 | ConvertFontsToOutlines | `1` | Не поддерживается. |
 | DerivePageGeometryBoxesFromCropMarks | `2` | Не поддерживается. |
 | EmbedMissingFonts | `3` | Не поддерживается. |
-| RotatePagesToLandscape | `4` | Повернуть все страницы в альбомный формат, если портретный, на 90 градусов. |
-| RotatePagesToPortrait | `5` | Повернуть все страницы в портретный формат, если альбомный, на 90 градусов. |
+| RotatePagesToLandscape | `4` | Повернуть все страницы в альбомную ориентацию, если они портретные, на 90 градусов. |
+| RotatePagesToPortrait | `5` | Повернуть все страницы в портретную ориентацию, если они альбомные, на 90 градусов. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

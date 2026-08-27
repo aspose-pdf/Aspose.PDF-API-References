@@ -1,14 +1,14 @@
 ---
-title: Form.SignaturesExist
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство формы. Если установлено, документ содержит как минимум одно поле для подписи
+title: "Form.SignaturesExist"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Если установлено, документ содержит как минимум одно поле подписи."
 type: docs
-weight: 140
+weight: 160
 url: /ru/net/aspose.pdf.forms/form/signaturesexist/
 ---
-## Свойство Form.SignaturesExist
+## Form.SignaturesExist property
 
-Если установлено, документ содержит как минимум одно поле для подписи.
+Если установлено, document содержит как минимум одно поле подписи.
 
 ```csharp
 public bool SignaturesExist { get; set; }
@@ -16,6 +16,8 @@ public bool SignaturesExist { get; set; }
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

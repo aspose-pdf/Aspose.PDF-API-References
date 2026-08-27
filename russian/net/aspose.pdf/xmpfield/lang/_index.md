@@ -1,12 +1,12 @@
 ---
-title: XmpField.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpField. Получает квалификатор xmllang
+title: "XmpField.Lang"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpField. Возвращает квалификатор xmllang"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/xmpfield/lang/
 ---
-## Свойство XmpField.Lang
+## XmpField.Lang property
 
 Получает квалификатор xml:lang.
 
@@ -16,6 +16,8 @@ public static XmpField Lang { get; }
 
 ### См. также
 
-* класс [XmpField](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

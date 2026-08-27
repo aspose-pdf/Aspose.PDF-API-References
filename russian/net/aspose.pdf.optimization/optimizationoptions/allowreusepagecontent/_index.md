@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.AllowReusePageContent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptimizationOptions. Если true, содержимое страниц будет повторно использовано, когда документ оптимизирован для равных страниц
+title: "OptimizationOptions.AllowReusePageContent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OptimizationOptions. Если true, содержимое страниц будет переиспользовано при оптимизации документа для одинаковых страниц."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.optimization/optimizationoptions/allowreusepagecontent/
 ---
-## Свойство OptimizationOptions.AllowReusePageContent
+## OptimizationOptions.AllowReusePageContent property
 
-Если true, содержимое страниц будет повторно использовано, когда документ оптимизирован для равных страниц.
+Если true, содержимое страниц будет переиспользовано, когда документ оптимизируется для одинаковых страниц.
 
 ```csharp
 public bool AllowReusePageContent { get; set; }
@@ -16,6 +16,8 @@ public bool AllowReusePageContent { get; set; }
 
 ### См. также
 
-* класс [OptimizationOptions](../)
-* пространство имен [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

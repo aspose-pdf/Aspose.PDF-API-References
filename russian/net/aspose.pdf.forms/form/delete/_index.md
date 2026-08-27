@@ -1,9 +1,9 @@
 ---
-title: Form.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Удалить поле из формы
+title: "Form.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Удалить поле из формы."
 type: docs
-weight: 230
+weight: 250
 url: /ru/net/aspose.pdf.forms/form/delete/
 ---
 ## Delete(Field) {#delete}
@@ -16,14 +16,14 @@ public void Delete(Field field)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| field | Field | Поле, которое должно быть удалено. |
+| поле | Поле | Поле, которое необходимо удалить. |
 
 ### См. также
 
-* класс [Field](../../field/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,10 +37,12 @@ public void Delete(string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Имя поля, которое должно быть удалено. |
+| fieldName | String | Имя поля, которое необходимо удалить. |
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

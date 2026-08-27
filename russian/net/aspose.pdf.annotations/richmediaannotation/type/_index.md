@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RichMediaAnnotation. Получает или устанавливает тип содержимого. Возможные значения Аудио, Видео
+title: "RichMediaAnnotation.Type"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RichMediaAnnotation. Получает или задаёт тип содержимого. Возможные значения Audio Video"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/richmediaannotation/type/
 ---
-## Свойство RichMediaAnnotation.Type
+## RichMediaAnnotation.Type property
 
-Получает или устанавливает тип содержимого. Возможные значения: Аудио, Видео.
+Получает или задает тип содержимого. Возможные значения: Audio, Video.
 
 ```csharp
 public ContentType Type { get; set; }
@@ -20,3 +20,5 @@ public ContentType Type { get; set; }
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

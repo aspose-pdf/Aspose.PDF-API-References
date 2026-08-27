@@ -1,14 +1,14 @@
 ---
-title: CompletionResponse.Created
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompletionResponse. Получает или задает метку времени Unix в секундах, когда было создано завершение чата
+title: "CompletionResponse.Created"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CompletionResponse. Получает или задает Unix‑таймстамп в секундах момента создания завершения чата."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/completionresponse/created/
 ---
-## Свойство CompletionResponse.Created
+## CompletionResponse.Created property
 
-Получает или задает метку времени Unix (в секундах), когда было создано завершение чата.
+Получает или задает Unix‑временную метку (в секундах) момента создания завершения чата.
 
 ```csharp
 public long Created { get; set; }
@@ -16,6 +16,8 @@ public long Created { get; set; }
 
 ### См. также
 
-* класс [CompletionResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ThreadCreateRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ThreadCreateRequest. Получает или задает список сообщений для начала потока
+title: "ThreadCreateRequest.Messages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ThreadCreateRequest. Получает или задает список сообщений, с которыми начинается поток"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/threadcreaterequest/messages/
 ---
-## Свойство ThreadCreateRequest.Messages
+## ThreadCreateRequest.Messages property
 
-Получает или задает список сообщений для начала потока.
+Получает или задает список сообщений, с которыми начинается поток.
 
 ```csharp
 public List<ThreadMessageCreateRequest> Messages { get; set; }
@@ -16,7 +16,9 @@ public List<ThreadMessageCreateRequest> Messages { get; set; }
 
 ### См. также
 
-* класс [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
-* класс [ThreadCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
+* class [ThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

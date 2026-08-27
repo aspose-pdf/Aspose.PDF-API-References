@@ -1,14 +1,14 @@
 ---
-title: Heading.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Заголовка. Получает верхнюю Y этого заголовка
+title: "Heading.Top"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Heading property. Получает координату Y верхней границы этого заголовка"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/heading/top/
 ---
-## Свойство Заголовок.Верх
+## Heading.Top property
 
-Получает верхнюю Y этого заголовка.
+Получает верхнюю координату Y этих заголовков.
 
 ```csharp
 public double Top { get; set; }
@@ -16,6 +16,8 @@ public double Top { get; set; }
 
 ### См. также
 
-* класс [Заголовок](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

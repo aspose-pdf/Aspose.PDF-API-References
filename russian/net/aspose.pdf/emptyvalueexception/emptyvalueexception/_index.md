@@ -1,7 +1,7 @@
 ---
-title: EmptyValueException.EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор EmptyValueException. Инициализирует новый экземпляр класса EmptyValueException
+title: "EmptyValueException.EmptyValueException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор EmptyValueException. Инициализирует новый экземпляр класса EmptyValueException"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/emptyvalueexception/emptyvalueexception/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/emptyvalueexception/emptyvalueexception/
 public EmptyValueException()
 ```
 
-### See Also
+### См. также
 
 * class [EmptyValueException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public EmptyValueException()
 public EmptyValueException(string message)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 
-### See Also
+### См. также
 
 * class [EmptyValueException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

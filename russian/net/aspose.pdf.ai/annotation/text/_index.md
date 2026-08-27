@@ -1,14 +1,14 @@
 ---
-title: Annotation.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает или устанавливает текст в содержимом сообщения, который необходимо заменить
+title: "Annotation.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Получает или задает текст в содержимом сообщения, который необходимо заменить"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/annotation/text/
 ---
-## Свойство Annotation.Text
+## Annotation.Text property
 
-Получает или устанавливает текст в содержимом сообщения, который необходимо заменить.
+Получает или задает текст в содержимом сообщения, который необходимо заменить.
 
 ```csharp
 public string Text { get; set; }
@@ -16,6 +16,8 @@ public string Text { get; set; }
 
 ### См. также
 
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

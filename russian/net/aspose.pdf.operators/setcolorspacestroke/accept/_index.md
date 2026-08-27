@@ -1,14 +1,14 @@
 ---
-title: SetColorSpaceStroke.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetColorSpaceStroke. Принимает объект посетителя для обработки оператора
+title: "SetColorSpaceStroke.Accept"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SetColorSpaceStroke. Принимает объект посетителя для обработки оператора"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/setcolorspacestroke/accept/
 ---
-## Метод SetColorSpaceStroke.Accept
+## SetColorSpaceStroke.Accept method
 
-Принимает объект посетителя для обработки оператора.
+Принимает объект‑посетитель для обработки оператора.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Объект посетителя. |
+| посетитель | IOperatorSelector | Объект‑посетитель. |
 
 ### См. также
 
-* интерфейс [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* класс [SetColorSpaceStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetColorSpaceStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

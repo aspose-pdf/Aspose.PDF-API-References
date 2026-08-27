@@ -1,12 +1,12 @@
 ---
-title: Class XmpField
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.XmpField. Представляет поле XMP
+title: "Класс XmpField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.XmpField класс. Представляет поле XMP"
 type: docs
-weight: 11410
+weight: 11600
 url: /ru/net/aspose.pdf/xmpfield/
 ---
-## Класс XmpField
+## XmpField class
 
 Представляет поле XMP.
 
@@ -18,11 +18,11 @@ public class XmpField
 
 | Имя | Описание |
 | --- | --- |
-| static [Empty](../../aspose.pdf/xmpfield/empty/) { get; } | Получает пустое xmp поле. |
+| static [Empty](../../aspose.pdf/xmpfield/empty/) { get; } | Получает пустое поле xmp. |
 | static [Lang](../../aspose.pdf/xmpfield/lang/) { get; } | Получает квалификатор xml:lang. |
 | [FieldType](../../aspose.pdf/xmpfield/fieldtype/) { get; } | Получает тип поля. |
-| [IsEmpty](../../aspose.pdf/xmpfield/isempty/) { get; } | Получает значение, указывающее, является ли этот экземпляр пустым. |
-| [LocalName](../../aspose.pdf/xmpfield/localname/) { get; set; } | Получает или задает имя локали. |
+| [IsEmpty](../../aspose.pdf/xmpfield/isempty/) { get; } | Получает значение, указывающее, пустой ли этот экземпляр. |
+| [LocalName](../../aspose.pdf/xmpfield/localname/) { get; set; } | Получает или задает имя локального. |
 | [Name](../../aspose.pdf/xmpfield/name/) { get; } | Получает имя. |
 | [NamespaceUri](../../aspose.pdf/xmpfield/namespaceuri/) { get; set; } | Получает URI пространства имен. |
 | [Prefix](../../aspose.pdf/xmpfield/prefix/) { get; set; } | Получает префикс. |
@@ -32,8 +32,8 @@ public class XmpField
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.pdf/xmpfield/equals/)(object) | Указывает, равен ли этот экземпляр указанному объекту. |
-| override [GetHashCode](../../aspose.pdf/xmpfield/gethashcode/)() | Возвращает код хеша для этого экземпляра. |
+| override [Equals](../../aspose.pdf/xmpfield/equals/)(object) | Указывает, равны ли этот экземпляр и указанный объект. |
+| override [GetHashCode](../../aspose.pdf/xmpfield/gethashcode/)() | Возвращает хеш-код для этого экземпляра. |
 | [ToArray](../../aspose.pdf/xmpfield/toarray/)() | Получает значение в виде массива. |
 | [ToStructure](../../aspose.pdf/xmpfield/tostructure/)() | Получает значение в виде структуры. |
 | [operator ==](../../aspose.pdf/xmpfield/op_equality/) | Реализует оператор ==. |
@@ -41,5 +41,7 @@ public class XmpField
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

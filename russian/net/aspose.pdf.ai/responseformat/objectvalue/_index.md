@@ -1,12 +1,12 @@
 ---
-title: ResponseFormat.ObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ResponseFormat. Получает или задает объектное значение формата ответа
+title: "ResponseFormat.ObjectValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ResponseFormat. Получает или задает объектное значение формата ответа"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/responseformat/objectvalue/
 ---
-## Свойство ResponseFormat.ObjectValue
+## ResponseFormat.ObjectValue property
 
 Получает или задает объектное значение формата ответа.
 
@@ -16,7 +16,9 @@ public ObjectType ObjectValue { get; set; }
 
 ### См. также
 
-* класс [ObjectType](../../responseformat.objecttype/)
-* класс [ResponseFormat](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ObjectType](../../responseformat.objecttype/)
+* class [ResponseFormat](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

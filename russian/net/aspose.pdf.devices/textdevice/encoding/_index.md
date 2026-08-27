@@ -1,14 +1,14 @@
 ---
-title: TextDevice.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextDevice. Получает или задает кодировку извлеченного текста
+title: "TextDevice.Encoding"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextDevice. Получает или задаёт кодировку извлечённого текста."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.devices/textdevice/encoding/
 ---
-## Свойство TextDevice.Encoding
+## TextDevice.Encoding property
 
-Получает или задает кодировку извлеченного текста.
+Получает или задаёт кодировку извлечённого текста.
 
 ```csharp
 public Encoding Encoding { get; set; }
@@ -16,24 +16,26 @@ public Encoding Encoding { get; set; }
 
 ## Примеры
 
-Пример демонстрирует, как представить извлеченный текст в кодировке UTF-8.
+Пример демонстрирует, как представить извлечённый текст в кодировке UTF-8.
 
 ```csharp
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// создать текстовое устройство
 TextDevice device = new TextDevice(Encoding.UTF8);
 
-// convert the page and save text to the stream
+// преобразовать страницу и сохранить текст в поток
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// использовать извлечённый текст
 extractedText = File.ReadAllText(outFile, Encoding.UTF8);
 ```
 
 ### См. также
 
-* класс [TextDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

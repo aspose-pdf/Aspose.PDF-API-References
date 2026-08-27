@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseParagraph. Получает или задает вертикальное выравнивание абзаца
+title: "BaseParagraph.VerticalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BaseParagraph. Получает или задает вертикальное выравнивание абзаца."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/baseparagraph/verticalalignment/
 ---
-## Свойство BaseParagraph.VerticalAlignment
+## BaseParagraph.VerticalAlignment property
 
-Получает или задает вертикальное выравнивание абзаца
+Получает или задает вертикальное выравнивание абзаца.
 
 ```csharp
 public virtual VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public virtual VerticalAlignment VerticalAlignment { get; set; }
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

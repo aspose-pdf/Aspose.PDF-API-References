@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.AddDocumentAdditionalAction
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Добавляет дополнительное действие для события документа
+title: "PdfContentEditor.AddDocumentAdditionalAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Добавляет дополнительное действие для события document."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/adddocumentadditionalaction/
 ---
-## Метод PdfContentEditor.AddDocumentAdditionalAction
+## PdfContentEditor.AddDocumentAdditionalAction method
 
 Добавляет дополнительное действие для события документа.
 
@@ -16,7 +16,7 @@ public void AddDocumentAdditionalAction(string eventType, string code)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| eventType | String | Типы событий документа. |
+| eventType | String | Типы событий document. |
 | code | String | Код JavaScript. |
 
 ## Примеры
@@ -30,6 +30,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

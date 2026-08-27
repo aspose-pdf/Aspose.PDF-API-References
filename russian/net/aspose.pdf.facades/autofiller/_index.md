@@ -1,14 +1,14 @@
 ---
-title: Class AutoFiller
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.AutoFiller. Представляет класс для получения данных из базы данных или другого источника данных, заполняет их в проектируемые поля шаблона pdf и в конечном итоге генерирует новый pdf файл или поток. У него есть два режима ввода файла шаблона ввод в виде потока или pdf файла. У него есть четыре типа режимов вывода один объединенный поток, один объединенный файл, много маленьких потоков, много маленьких файлов. Он может получать буквальные данные, содержащиеся в System.Data.DataTable.
+title: "Класс AutoFiller"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Facades.AutoFiller. Представляет класс, получающий данные из базы данных или другого источника данных и заполняющий их в разработанные поля шаблона pdf, после чего генерирует новый pdf‑файл или поток. Имеет два режима ввода шаблонного файла — в виде потока или pdf‑файла. Поддерживает четыре типа режимов вывода: один объединённый поток, один объединённый файл, множество небольших потоков, множество небольших файлов. Может принимать буквальные данные, содержащиеся в System.Data.DataTable."
 type: docs
-weight: 4150
+weight: 4270
 url: /ru/net/aspose.pdf.facades/autofiller/
 ---
-## Класс AutoFiller
+## AutoFiller class
 
-Представляет класс для получения данных из базы данных или другого источника данных, заполняет их в проектируемые поля шаблона pdf и в конечном итоге генерирует новый pdf файл или поток. У него есть два режима ввода файла шаблона: ввод в виде потока или pdf файла. У него есть четыре типа режимов вывода: один объединенный поток, один объединенный файл, много маленьких потоков, много маленьких файлов. Он может получать буквальные данные, содержащиеся в System.Data.DataTable.
+Представляет класс для получения данных из базы данных или другого источника данных, заполняет их в предназначенные поля шаблона pdf и в конце генерирует новый pdf‑файл или поток. Он поддерживает два режима ввода шаблонного файла: ввод в виде потока или pdf‑файла. Он имеет четыре типа режимов вывода: один объединённый поток, один объединённый файл, множество небольших потоков, множество небольших файлов. Он может принимать буквальные данные, содержащиеся в System.Data.DataTable.
 
 ```csharp
 public sealed class AutoFiller : ISaveableFacade
@@ -24,36 +24,36 @@ public sealed class AutoFiller : ISaveableFacade
 
 | Имя | Описание |
 | --- | --- |
-| [BasicFileName](../../aspose.pdf.facades/autofiller/basicfilename/) { get; set; } | Получает или задает основное имя файла, если будет сгенерировано много маленьких файлов. Сгенерированный файл будет выглядеть как "BasicFileName0","BasicFileName1",... Это работает с другим свойством [`GeneratingPath`](./generatingpath/)GeneratingPath. |
-| [GeneratingPath](../../aspose.pdf.facades/autofiller/generatingpath/) { get; set; } | Получает или задает путь генерации маленьких pdf файлов, если будет сгенерировано много маленьких pdf файлов. Это работает с другим свойством [`BasicFileName`](./basicfilename/)BasicFileName. Один из четырех режимов вывода. |
-| [OutputStreams](../../aspose.pdf.facades/autofiller/outputstreams/) { get; set; } | Получает или задает множество выходных потоков. Один из четырех режимов вывода. |
-| [UnFlattenFields](../../aspose.pdf.facades/autofiller/unflattenfields/) { set; } | Устанавливает поля, которые не будут уплощены. Если это свойство не установлено, все поля будут уплощены. |
+| [BasicFileName](../../aspose.pdf.facades/autofiller/basicfilename/) { get; set; } | Получает или задает базовое имя файла, если будет генерировано много небольших файлов. Сгенерированный файл будет иметь вид "BasicFileName0","BasicFileName1",... Работает с другим свойством [`GeneratingPath`](./generatingpath/)GeneratingPath. |
+| [GeneratingPath](../../aspose.pdf.facades/autofiller/generatingpath/) { get; set; } | Получает или задает путь генерации небольших pdf‑файлов, если будет генерировано много небольших pdf‑файлов. Работает с другим свойством [`BasicFileName`](./basicfilename/)BasicFileName. Один из четырёх режимов вывода. |
+| [OutputStreams](../../aspose.pdf.facades/autofiller/outputstreams/) { get; set; } | Получает или задает множество Output Streams. Один из четырёх режимов вывода. |
+| [UnFlattenFields](../../aspose.pdf.facades/autofiller/unflattenfields/) { set; } | Устанавливает поля, которые не будут уплощены. Если это свойство не задано, все поля будут уплощены. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf)(Document) | Привязывает Pdf документ. |
+| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf)(Document) | Привязывает Pdf Document. |
 | [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_1)(Stream) | Привязывает Pdf файл. |
 | [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_2)(string) | Привязывает Pdf файл. |
-| [Close](../../aspose.pdf.facades/autofiller/close/)() | Закрывает объект и выходные потоки. |
-| [Dispose](../../aspose.pdf.facades/autofiller/dispose/)() | Закрывает объект и выходные потоки. |
-| [ImportDataTable](../../aspose.pdf.facades/autofiller/importdatatable/)(DataTable) | Импортирует данные типа DataTable. Имя каждой колонки dataTable должно совпадать с именем одного поля шаблона pdf с учетом регистра. |
-| [Save](../../aspose.pdf.facades/autofiller/save/#save_1)(Stream) | Сохраняет все pdf. |
-| [Save](../../aspose.pdf.facades/autofiller/save/#save_2)(string) | Сохраняет все pdf. |
+| [Close](../../aspose.pdf.facades/autofiller/close/)() | Закрывает объект и потоки вывода. |
+| [Dispose](../../aspose.pdf.facades/autofiller/dispose/)() | Закрывает объект и потоки вывода. |
+| [ImportDataTable](../../aspose.pdf.facades/autofiller/importdatatable/)(DataTable) | Импортирует данные типа DataTable. Имя каждого столбца dataTable должно точно совпадать с именем одного поля шаблона pdf (с учётом регистра). |
+| [Save](../../aspose.pdf.facades/autofiller/save/#save_1)(Stream) | Сохраняет все pdf‑файлы. |
+| [Save](../../aspose.pdf.facades/autofiller/save/#save_2)(string) | Сохраняет все pdf‑файлы. |
 
 ## Примеры
 
 ```csharp
 [C#]
-//Note: mail.pdf is a template pdf which has seven text fields. NorthWind.mdb is the microsoft access db.
-////Common part: Get the data from the database NorthWind.mdb fill it into the DataTable.
+//Примечание: mail.pdf — это шаблонный pdf, содержащий семь текстовых полей. NorthWind.mdb — это база данных Microsoft Access.
+////Общая часть: Получить данные из базы данных NorthWind.mdb и заполнить их в DataTable.
 			
 OleDbCommand mQueryCommand;
 OleDbDataAdapter mDbDataAdapter;
 OleDbConnection mDbConnection;
 
-//Construct the data table.
+//Создать таблицу данных.
 DataTable mDataTable = new DataTable("MailMerge");
 DataColumnCollection columns = mDataTable.Columns;
 columns.Add("CompanyName",typeof(string));
@@ -65,7 +65,7 @@ columns.Add("Country",typeof(string));
 columns.Add("Heading",typeof(string));
 
 
-//Connect to the database source and query the data.
+//Подключиться к источнику базы данных и выполнить запрос данных.
 mDbConnection = new OleDbConnection();
 mDbConnection.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + 
 DbPath + "NorthWind.mdb";
@@ -88,10 +88,10 @@ for (int i = 0; i<mDataTable.Rows.Count;i++)
 
 mDbDataAdapter.Dispose();
 mDbConnection.Close();
-////End of Common part.
+////Конец общей части.
 
-////case one:
-////Input template pdf is a pdf file and output is a big merged stream.		
+////случай один:
+////Входной шаблонный pdf — это pdf‑файл, а вывод — большой объединённый поток.
  
 AutoFiller autoFiller = new AutoFiller();
 		
@@ -101,8 +101,8 @@ autoFiller.OutputStream = Response.OutputStream;
 autoFiller.ImportDataTable(mDataTable);
 autoFiller.Save();
 
-////case two:
-////Input template pdf is a pdf file and output is a lot of small files.
+////случай два:
+////Входной шаблонный pdf — это pdf‑файл, а вывод — множество небольших файлов.
 AutoFiller autoFiller = new AutoFiller();
 		
 autoFiller.InputFileName = "mail.pdf";
@@ -187,6 +187,8 @@ autoFiller.Save()
 
 ### См. также
 
-* интерфейс [ISaveableFacade](../isaveablefacade/)
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* interface [ISaveableFacade](../isaveablefacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

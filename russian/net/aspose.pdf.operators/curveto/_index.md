@@ -1,14 +1,14 @@
 ---
-title: Class CurveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.CurveTo. Класс, представляющий оператор c, добавляющий кривую к пути
+title: "Класс CurveTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.CurveTo класс. Класс, представляющий оператор c, добавляющий кривую к пути"
 type: docs
-weight: 7240
+weight: 7380
 url: /ru/net/aspose.pdf.operators/curveto/
 ---
-## Класс CurveTo
+## CurveTo class
 
-Класс, представляющий оператор c (добавить кривую к пути).
+Класс, представляющий оператор c (append curve to path).
 
 ```csharp
 public class CurveTo : Operator
@@ -30,7 +30,7 @@ public class CurveTo : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/curveto/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/curveto/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/curveto/tostring/)() | Возвращает текстовое представление оператора. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
@@ -47,6 +47,8 @@ public class CurveTo : Operator
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

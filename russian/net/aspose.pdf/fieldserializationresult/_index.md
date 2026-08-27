@@ -1,12 +1,12 @@
 ---
-title: Class FieldSerializationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.FieldSerializationResult. Представляет результат процесса сериализации поля формы
+title: "Класс FieldSerializationResult"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.FieldSerializationResult класс. Представляет результат процесса сериализации поля формы."
 type: docs
-weight: 4790
+weight: 4910
 url: /ru/net/aspose.pdf/fieldserializationresult/
 ---
-## Класс FieldSerializationResult
+## FieldSerializationResult class
 
 Представляет результат процесса сериализации поля формы.
 
@@ -25,5 +25,7 @@ public class FieldSerializationResult
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

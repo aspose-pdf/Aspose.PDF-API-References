@@ -1,14 +1,14 @@
 ---
-title: Enum PdfAStandardVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Plugins.PdfAStandardVersion. Указывает версию стандарта PDF/A для PDF-документа
+title: "Перечисление PdfAStandardVersion"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.PdfAStandardVersion перечисление. Указывает версию стандарта PDF/A для PDF‑документа."
 type: docs
-weight: 9020
+weight: 9170
 url: /ru/net/aspose.pdf.plugins/pdfastandardversion/
 ---
-## Перечисление PdfAStandardVersion
+## PdfAStandardVersion enumeration
 
-Указывает версию стандарта PDF/A для PDF-документа.
+Указывает версию стандарта PDF/A для PDF‑документа.
 
 ```csharp
 public enum PdfAStandardVersion
@@ -27,8 +27,13 @@ public enum PdfAStandardVersion
 | PDF_A_3A | `6` | Указывает версию стандарта PDF/A-3a. |
 | PDF_A_3B | `7` | Указывает версию стандарта PDF/A-3b. |
 | PDF_A_3U | `8` | Указывает версию стандарта PDF/A-3u. |
+| PDF_A_4 | `9` | Указывает версию стандарта PDF/A-4. |
+| PDF_A_4E | `10` | Указывает версию стандарта PDF/A-4e. |
+| PDF_A_4F | `11` | Указывает версию стандарта PDF/A-4f. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

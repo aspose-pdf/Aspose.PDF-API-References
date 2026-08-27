@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileSpecification. Получает зашифрованный полезный груз
+title: "FileSpecification.EncryptedPayload"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileSpecification. Получает зашифрованную полезную нагрузку"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/filespecification/encryptedpayload/
 ---
-## Свойство FileSpecification.EncryptedPayload
+## FileSpecification.EncryptedPayload property
 
-Получает зашифрованный полезный груз.
+Получает зашифрованные данные.
 
 ```csharp
 public EncryptedPayload EncryptedPayload { get; }
@@ -16,7 +16,9 @@ public EncryptedPayload EncryptedPayload { get; }
 
 ### См. также
 
-* класс [EncryptedPayload](../../encryptedpayload/)
-* класс [FileSpecification](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EncryptedPayload](../../encryptedpayload/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

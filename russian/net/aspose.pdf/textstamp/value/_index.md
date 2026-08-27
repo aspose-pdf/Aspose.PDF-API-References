@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStamp. Получает или устанавливает строковое значение, которое используется в качестве штампа на странице
+title: "TextStamp.Value"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextStamp. Возвращает или задает строковое значение, используемое как штамп на странице"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/textstamp/value/
 ---
-## Свойство TextStamp.Value
+## TextStamp.Value property
 
-Получает или устанавливает строковое значение, которое используется в качестве штампа на странице.
+Получает или задает строковое значение, используемое в качестве штампа на странице.
 
 ```csharp
 public string Value { get; set; }
@@ -16,6 +16,8 @@ public string Value { get; set; }
 
 ### См. также
 
-* класс [TextStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

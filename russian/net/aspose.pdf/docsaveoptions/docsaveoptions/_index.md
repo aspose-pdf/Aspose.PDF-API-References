@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.DocSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор DocSaveOptions. Конструктор по умолчанию
+title: "DocSaveOptions.DocSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор DocSaveOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/docsaveoptions/docsaveoptions/
 ---
-## Конструктор DocSaveOptions
+## DocSaveOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public DocSaveOptions()
 
 ### См. также
 
-* класс [DocSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

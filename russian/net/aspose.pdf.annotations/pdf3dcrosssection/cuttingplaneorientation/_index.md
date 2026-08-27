@@ -1,32 +1,34 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DCrossSection. Получает или устанавливает ориентацию среза
+title: "PDF3DCrossSection.CuttingPlaneOrientation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DCrossSection. Возвращает или задает ориентацию плоскости среза"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneorientation/
 ---
-## Свойство PDF3DCrossSection.CuttingPlaneOrientation
+## PDF3DCrossSection.CuttingPlaneOrientation property
 
-Получает или устанавливает ориентацию среза.
+Получает или задает ориентацию плоскости среза.
 
 ```csharp
 public PDF3DCuttingPlaneOrientation CuttingPlaneOrientation { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Ориентация среза.
+Ориентация плоскости среза.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| Exception | Только одно из значений должно быть Null |
+| Exception | Только одно из значений может быть Null |
 
 ### См. также
 
-* класс [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)
-* класс [PDF3DCrossSection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

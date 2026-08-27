@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Создает новый векторный магазин асинхронно
+title: "OpenAIClient.CreateVectorStoreAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно создает новое векторное хранилище."
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.ai/openaiclient/createvectorstoreasync/
 ---
-## Метод OpenAIClient.CreateVectorStoreAsync
+## OpenAIClient.CreateVectorStoreAsync method
 
-Создает новый векторный магазин асинхронно.
+Создает новое хранилище векторов асинхронно.
 
 ```csharp
 public Task<VectorStoreResponse> CreateVectorStoreAsync(
@@ -18,17 +18,19 @@ public Task<VectorStoreResponse> CreateVectorStoreAsync(
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| vectorStoreCreateRequest | VectorStoreCreateRequest | Объект запроса, содержащий детали для создания векторного магазина. |
+| vectorStoreCreateRequest | VectorStoreCreateRequest | Объект запроса, содержащий детали создания векторного хранилища. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит ответ на создание векторного магазина.
+Задача, представляющая асинхронную операцию. Результат задачи содержит ответ от создания векторного хранилища.
 
 ### См. также
 
-* класс [VectorStoreResponse](../../vectorstoreresponse/)
-* класс [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

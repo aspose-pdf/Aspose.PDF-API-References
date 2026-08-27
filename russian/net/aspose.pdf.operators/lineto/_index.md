@@ -1,14 +1,14 @@
 ---
-title: Class LineTo
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.LineTo. Класс, представляющий оператор l, добавляющий линию к пути
+title: "Класс LineTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.LineTo class. Класс, представляющий оператор l, добавляющий линию к пути"
 type: docs
-weight: 7460
+weight: 7600
 url: /ru/net/aspose.pdf.operators/lineto/
 ---
-## Класс LineTo
+## LineTo class
 
-Класс, представляющий оператор l (добавить линию к пути).
+Класс, представляющий оператор l (добавление линии к пути).
 
 ```csharp
 public class LineTo : Operator
@@ -25,19 +25,21 @@ public class LineTo : Operator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [X](../../aspose.pdf.operators/lineto/x/) { get; set; } | X координата точки линии. |
-| [Y](../../aspose.pdf.operators/lineto/y/) { get; set; } | Y координата точки линии. |
+| [X](../../aspose.pdf.operators/lineto/x/) { get; set; } | Координата X точки линии. |
+| [Y](../../aspose.pdf.operators/lineto/y/) { get; set; } | Координата Y точки линии. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/lineto/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/lineto/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/lineto/tostring/)() | Возвращает текстовое представление оператора. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

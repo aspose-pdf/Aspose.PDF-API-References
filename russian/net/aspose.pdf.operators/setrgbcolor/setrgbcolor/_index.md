@@ -1,7 +1,7 @@
 ---
-title: SetRGBColor.SetRGBColor
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetRGBColor. Инициализирует оператор
+title: "SetRGBColor.SetRGBColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SetRGBColor конструктор. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setrgbcolor/setrgbcolor/
@@ -22,9 +22,9 @@ public SetRGBColor(double r, double g, double b)
 
 ### См. также
 
-* класс [SetRGBColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetRGBColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,6 +42,8 @@ public SetRGBColor(Color color)
 
 ### См. также
 
-* класс [SetRGBColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetRGBColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: AnnotationCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AnnotationCollection. Удаляет аннотацию из коллекции по индексу
+title: "AnnotationCollection.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AnnotationCollection. Удаляет аннотацию из коллекции по индексу."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.annotations/annotationcollection/delete/
@@ -16,13 +16,13 @@ public void Delete(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс аннотации, которая должна быть удалена. |
+| index | Int32 | Индекс аннотации, которая будет удалена. |
 
 ### См. также
 
-* класс [AnnotationCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +36,9 @@ public void Delete()
 
 ### См. также
 
-* класс [AnnotationCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,11 +52,13 @@ public void Delete(Annotation annotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Аннотация, которая должна быть удалена. |
+| аннотация | Аннотация | Аннотация, которая будет удалена. |
 
 ### См. также
 
-* класс [Annotation](../../annotation/)
-* класс [AnnotationCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

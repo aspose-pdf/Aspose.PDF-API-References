@@ -1,14 +1,14 @@
 ---
-title: Class EMC
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.EMC. Класс, представляющий оператор EMC - Конец последовательности размеченного содержимого
+title: "Класс EMC"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.EMC класс. Класс, представляющий оператор EMC, завершающий последовательность помеченного контента"
 type: docs
-weight: 7300
+weight: 7440
 url: /ru/net/aspose.pdf.operators/emc/
 ---
-## Класс EMC
+## EMC class
 
-Класс, представляющий оператор EMC (Конец последовательности размеченного содержимого).
+Класс, представляющий оператор EMC (End of marked-content sequence).
 
 ```csharp
 public class EMC : Operator
@@ -30,12 +30,14 @@ public class EMC : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/emc/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/emc/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/emc/tostring/)() | Возвращает текстовое представление оператора. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

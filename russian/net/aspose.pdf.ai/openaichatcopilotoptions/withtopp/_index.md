@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Устанавливает значение top P для параметров чат-коопилота
+title: "OpenAIChatCopilotOptions.WithTopP"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIChatCopilotOptions метод. Устанавливает значение top P для параметров чат‑копилота"
 type: docs
-weight: 180
+weight: 190
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withtopp/
 ---
-## Метод OpenAIChatCopilotOptions.WithTopP
+## OpenAIChatCopilotOptions.WithTopP method
 
-Устанавливает значение top P для параметров чат-коопилота.
+Устанавливает значение top P для опций чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithTopP(double? topP)
@@ -24,6 +24,8 @@ public OpenAIChatCopilotOptions WithTopP(double? topP)
 
 ### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

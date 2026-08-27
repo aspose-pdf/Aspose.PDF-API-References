@@ -1,14 +1,14 @@
 ---
-title: TimestampSettings.DigestHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TimestampSettings. Получает/устанавливает алгоритм дайджеста для внутренних хеш-функций
+title: "TimestampSettings.DigestHashAlgorithm"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TimestampSettings. Получает/устанавливает алгоритм дайджеста для внутренних хеш-функций"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/timestampsettings/digesthashalgorithm/
 ---
-## Свойство TimestampSettings.DigestHashAlgorithm
+## TimestampSettings.DigestHashAlgorithm property
 
-Получает/устанавливает алгоритм дайджеста для внутренних хеш-функций.
+Получает/задает алгоритм дайджеста для внутренних хеш-функций.
 
 ```csharp
 public DigestHashAlgorithm DigestHashAlgorithm { get; set; }
@@ -20,3 +20,5 @@ public DigestHashAlgorithm DigestHashAlgorithm { get; set; }
 * class [TimestampSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

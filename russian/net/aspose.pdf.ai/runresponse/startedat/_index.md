@@ -1,14 +1,14 @@
 ---
-title: RunResponse.StartedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или устанавливает метку времени Unix в секундах, когда запуск был начат
+title: "RunResponse.StartedAt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает Unix‑таймстамп в секундах, указывающий, когда запуск был начат"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.ai/runresponse/startedat/
 ---
-## Свойство RunResponse.StartedAt
+## RunResponse.StartedAt property
 
-Получает или устанавливает метку времени Unix (в секундах), когда запуск был начат.
+Получает или задает Unix‑временную метку (в секундах) момента начала запуска.
 
 ```csharp
 public long? StartedAt { get; set; }
@@ -16,6 +16,8 @@ public long? StartedAt { get; set; }
 
 ### См. также
 
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

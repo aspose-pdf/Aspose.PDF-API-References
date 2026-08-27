@@ -1,7 +1,7 @@
 ---
-title: ChoiceField.ChoiceField
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ChoiceField. Конструктор для ChoiceField
+title: "ChoiceField.ChoiceField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ChoiceField. Конструктор для ChoiceField"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/choicefield/choicefield/
@@ -16,22 +16,22 @@ public ChoiceField(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которой находится поле. |
+| страница | Страница | Страница, на которой расположен поле. |
 | rect | Rectangle | Прямоугольник поля. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [ChoiceField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ChoiceField(Document) {#constructor}
 
-Создает поле выбора (для Генератора)
+Создаёт поле выбора (для Generator)
 
 ```csharp
 public ChoiceField(Document doc)
@@ -39,14 +39,14 @@ public ChoiceField(Document doc)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором будет создано поле выбора. |
+| doc | Document | Документ, в котором будет создан поле выбора. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [ChoiceField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,13 +60,15 @@ public ChoiceField(Document doc, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором будет создано поле. |
+| doc | Document | Document где будет создано поле. |
 | rect | Rectangle | Прямоугольник поля. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [ChoiceField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

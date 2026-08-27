@@ -1,14 +1,14 @@
 ---
-title: Cells.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Cells. Получает или устанавливает ячейки
+title: "Cells.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cells. Получает или задает ячейки"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/cells/item/
 ---
-## Индексатор Cells
+## Cells indexer
 
-Получает или устанавливает ячейки.
+Получает или задает ячейки.
 
 ```csharp
 public Cell this[int index] { get; set; }
@@ -20,7 +20,9 @@ public Cell this[int index] { get; set; }
 
 ### См. также
 
-* класс [Cell](../../cell/)
-* класс [Cells](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

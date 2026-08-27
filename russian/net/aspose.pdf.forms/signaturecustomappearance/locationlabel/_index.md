@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.LocationLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает метку местоположения. Значение по умолчанию Местоположение
+title: "SignatureCustomAppearance.LocationLabel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignatureCustomAppearance. Получает/устанавливает метку местоположения. Значение по умолчанию Location"
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/locationlabel/
 ---
-## Свойство SignatureCustomAppearance.LocationLabel
+## SignatureCustomAppearance.LocationLabel property
 
-Получает/устанавливает метку местоположения. Значение по умолчанию: "Местоположение".
+Получает/устанавливает метку местоположения. Значение по умолчанию: "Location".
 
 ```csharp
 public string LocationLabel { get; set; }
@@ -16,6 +16,8 @@ public string LocationLabel { get; set; }
 
 ### См. также
 
-* класс [SignatureCustomAppearance](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

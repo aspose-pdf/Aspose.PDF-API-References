@@ -1,12 +1,12 @@
 ---
-title: Form.ImportJson
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Импортирует все данные полей из потока JSON в поля документа, сопоставляя поля по их полным именам
+title: "Form.ImportJson"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Импортирует все данные полей из JSON‑потока в поля документа, сопоставляя их по полным именам."
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/form/importjson/
 ---
-## Метод Form.ImportJson
+## Form.ImportJson method
 
 Импортирует все данные полей из потока JSON в поля документа, сопоставляя поля по их полным именам.
 
@@ -16,7 +16,7 @@ public void ImportJson(Stream inputJsonStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputJsonStream | Stream | Входной поток JSON, содержащий данные полей, которые необходимо импортировать в поля документа. |
+| inputJsonStream | Stream | Входной JSON‑поток, содержащий данные полей для импорта в поля документа. |
 
 ## Примеры
 
@@ -30,6 +30,8 @@ form.Save();
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

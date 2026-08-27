@@ -1,12 +1,12 @@
 ---
-title: FontColor.Blue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FontColor. Синий компонент цвета
+title: "FontColor.Blue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FontColor. Синий компонент цвета"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/fontcolor/blue/
 ---
-## Свойство FontColor.Blue
+## FontColor.Blue property
 
 Синий компонент цвета.
 
@@ -16,6 +16,8 @@ public int Blue { get; set; }
 
 ### См. также
 
-* класс [FontColor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

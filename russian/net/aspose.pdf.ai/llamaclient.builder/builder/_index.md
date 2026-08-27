@@ -1,14 +1,14 @@
 ---
-title: LlamaClient.Builder.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Builder. Инициализирует новый экземпляр класса Builder с ключом API
+title: "LlamaClient.Builder.Builder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Builder. Инициализирует новый экземпляр класса Builder с API‑ключом"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/llamaclient.builder/builder/
 ---
-## Конструктор LlamaClient.Builder
+## LlamaClient.Builder constructor
 
-Инициализирует новый экземпляр класса [`Builder`](../) с ключом API.
+Инициализирует новый экземпляр класса [`Builder`](../) с API‑ключом.
 
 ```csharp
 public Builder(string apiKey)
@@ -16,10 +16,12 @@ public Builder(string apiKey)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| apiKey | String | Ключ API, который будет использоваться для клиента. |
+| apiKey | String | API‑ключ, используемый клиентом. |
 
 ### См. также
 
-* класс [Builder](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

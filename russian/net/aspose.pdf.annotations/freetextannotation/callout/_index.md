@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.Callout
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FreeTextAnnotation. Массив точек, указывающий линию вызова
+title: "FreeTextAnnotation.Callout"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FreeTextAnnotation property. Массив точек, определяющих линию выноски."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/freetextannotation/callout/
 ---
-## Свойство FreeTextAnnotation.Callout
+## FreeTextAnnotation.Callout property
 
-Массив точек, указывающий линию вызова.
+Массив точек, задающих линию выноски.
 
 ```csharp
 public Point[] Callout { get; set; }
@@ -16,7 +16,9 @@ public Point[] Callout { get; set; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [FreeTextAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

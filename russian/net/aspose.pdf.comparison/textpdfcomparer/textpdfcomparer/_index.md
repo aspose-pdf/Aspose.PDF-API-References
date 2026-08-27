@@ -1,12 +1,12 @@
 ---
-title: TextPdfComparer.TextPdfComparer
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextPdfComparer. Конструктор по умолчанию
+title: "TextPdfComparer.TextPdfComparer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextPdfComparer. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.comparison/textpdfcomparer/textpdfcomparer/
 ---
-## Конструктор TextPdfComparer
+## TextPdfComparer constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public TextPdfComparer()
 
 ### См. также
 
-* класс [TextPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

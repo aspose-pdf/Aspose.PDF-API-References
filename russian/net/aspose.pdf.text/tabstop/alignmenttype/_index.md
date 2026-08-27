@@ -1,14 +1,14 @@
 ---
-title: TabStop.AlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TabStop. Получает или устанавливает перечисление AlignmentType, которое указывает тип выравнивания табуляции
+title: "TabStop.AlignmentType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TabStop. Получает или задаёт перечисление AlignmentType, указывающее тип выравнивания табуляции"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/tabstop/alignmenttype/
 ---
-## Свойство TabStop.AlignmentType
+## TabStop.AlignmentType property
 
-Получает или устанавливает перечисление `AlignmentType`, которое указывает тип выравнивания табуляции.
+Получает или задаёт перечисление `AlignmentType`, указывающее тип выравнивания табуляции.
 
 ```csharp
 public TabAlignmentType AlignmentType { get; set; }
@@ -16,7 +16,9 @@ public TabAlignmentType AlignmentType { get; set; }
 
 ### См. также
 
-* перечисление [TabAlignmentType](../../tabalignmenttype/)
-* класс [TabStop](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* enum [TabAlignmentType](../../tabalignmenttype/)
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

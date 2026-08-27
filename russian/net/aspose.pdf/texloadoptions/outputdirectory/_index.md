@@ -1,14 +1,14 @@
 ---
-title: TeXLoadOptions.OutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TeXLoadOptions. Получает/устанавливает каталог вывода TeX
+title: "TeXLoadOptions.OutputDirectory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TeXLoadOptions. Получает/устанавливает каталог вывода TeX"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/texloadoptions/outputdirectory/
 ---
-## Свойство TeXLoadOptions.OutputDirectory
+## TeXLoadOptions.OutputDirectory property
 
-Получает/устанавливает каталог вывода TeX.
+Получает/устанавливает каталог выходных файлов TeX.
 
 ```csharp
 public ITeXOutputDirectory OutputDirectory { get; set; }
@@ -16,7 +16,9 @@ public ITeXOutputDirectory OutputDirectory { get; set; }
 
 ### См. также
 
-* интерфейс [ITeXOutputDirectory](../../itexoutputdirectory/)
-* класс [TeXLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* interface [ITeXOutputDirectory](../../itexoutputdirectory/)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

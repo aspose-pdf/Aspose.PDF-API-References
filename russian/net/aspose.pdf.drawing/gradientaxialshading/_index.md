@@ -1,12 +1,12 @@
 ---
-title: Class GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Drawing.GradientAxialShading. Представляет класс градиентного осевого затенения
+title: "Класс GradientAxialShading"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Drawing.GradientAxialShading класс. Представляет класс градиентного аксиального затенения"
 type: docs
-weight: 3920
+weight: 4040
 url: /ru/net/aspose.pdf.drawing/gradientaxialshading/
 ---
-## Класс GradientAxialShading
+## GradientAxialShading class
 
 Представляет класс градиентного осевого затенения.
 
@@ -32,6 +32,8 @@ public class GradientAxialShading : PatternColorSpace
 
 ### См. также
 
-* класс [PatternColorSpace](../patterncolorspace/)
-* пространство имен [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../)
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

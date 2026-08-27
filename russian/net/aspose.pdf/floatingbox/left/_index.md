@@ -1,12 +1,12 @@
 ---
-title: FloatingBox.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FloatingBox. Получает или задает левую координату таблицы
+title: "FloatingBox.Left"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FloatingBox. Получает или задает левую координату таблицы"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/floatingbox/left/
 ---
-## Свойство FloatingBox.Left
+## FloatingBox.Left property
 
 Получает или задает левую координату таблицы.
 
@@ -16,6 +16,8 @@ public double Left { get; set; }
 
 ### См. также
 
-* класс [FloatingBox](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

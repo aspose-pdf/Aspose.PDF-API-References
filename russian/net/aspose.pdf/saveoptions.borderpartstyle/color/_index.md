@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderPartStyle.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Поле BorderPartStyle. Представляет цвет линий границы
+title: "SaveOptions.BorderPartStyle.Color"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "BorderPartStyle поле. Представляет цвет линии границы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/saveoptions.borderpartstyle/color/
 ---
-## Поле SaveOptions.BorderPartStyle.Color
+## SaveOptions.BorderPartStyle.Color field
 
-Представляет цвет линий границы
+Представляет цвет линии границы
 
 ```csharp
 public Color Color;
@@ -16,6 +16,8 @@ public Color Color;
 
 ### См. также
 
-* класс [BorderPartStyle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BorderPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Position.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Position. Инициализирует новый экземпляр класса Position
+title: "Position.Position"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Position. Инициализирует новый экземпляр класса Position."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/position/position/
 ---
-## Конструктор Position
+## Position constructor
 
-Инициализирует новый экземпляр класса [`Position`](../)
+Инициализирует новый экземпляр класса [`Position`](../).
 
 ```csharp
 public Position(double xIndent, double yIndent)
@@ -21,6 +21,8 @@ public Position(double xIndent, double yIndent)
 
 ### См. также
 
-* класс [Position](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

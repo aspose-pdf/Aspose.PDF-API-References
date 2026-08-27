@@ -1,12 +1,12 @@
 ---
-title: SetCharWidth.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetCharWidth. Возвращает текстовое представление оператора
+title: "SetCharWidth.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SetCharWidth. Возвращает текстовое представление оператора"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.operators/setcharwidth/tostring/
 ---
-## Метод SetCharWidth.ToString
+## SetCharWidth.ToString method
 
 Возвращает текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [SetCharWidth](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCharWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

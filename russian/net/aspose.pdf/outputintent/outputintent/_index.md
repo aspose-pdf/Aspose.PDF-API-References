@@ -1,12 +1,12 @@
 ---
-title: OutputIntent.OutputIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор OutputIntent. Инициализирует новый экземпляр класса OutputIntent с указанным идентификатором условия вывода
+title: "OutputIntent.OutputIntent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор OutputIntent. Инициализирует новый экземпляр класса OutputIntent с указанным идентификатором условия вывода"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/outputintent/outputintent/
 ---
-## Конструктор OutputIntent
+## OutputIntent constructor
 
 Инициализирует новый экземпляр класса [`OutputIntent`](../) с указанным идентификатором условия вывода.
 
@@ -16,10 +16,12 @@ public OutputIntent(string outputConditionIdentifier)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputConditionIdentifier | String | Текст, который идентифицирует предполагаемое устройство вывода или условие производства в форме, понятной человеку или машине. |
+| outputConditionIdentifier | String | Текст, идентифицирующий целевое устройство вывода или условие производства в человеко- или машиночитаемом виде. |
 
 ### См. также
 
-* класс [OutputIntent](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutputIntent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

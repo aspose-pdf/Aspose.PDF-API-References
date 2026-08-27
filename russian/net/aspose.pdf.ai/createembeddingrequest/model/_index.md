@@ -1,14 +1,14 @@
 ---
-title: CreateEmbeddingRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CreateEmbeddingRequest. Получает или задает модель для генерации встраивания
+title: "CreateEmbeddingRequest.Model"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "CreateEmbeddingRequest свойство. Получает или задает модель, для которой генерируется эмбеддинг"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/createembeddingrequest/model/
 ---
-## Свойство CreateEmbeddingRequest.Model
+## CreateEmbeddingRequest.Model property
 
-Получает или задает модель для генерации встраивания.
+Получает или задает модель, для которой генерируется эмбеддинг.
 
 ```csharp
 public string Model { get; set; }
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### См. также
 
-* класс [CreateEmbeddingRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateEmbeddingRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

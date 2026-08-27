@@ -1,9 +1,9 @@
 ---
-title: Document.ImportAnnotationsFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод документа. Импортирует аннотации из файла XFDF в документ
+title: "Document.ImportAnnotationsFromXfdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Импортирует аннотации из файла XFDF в документ"
 type: docs
-weight: 710
+weight: 730
 url: /ru/net/aspose.pdf/document/importannotationsfromxfdf/
 ---
 ## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
@@ -20,9 +20,9 @@ public void ImportAnnotationsFromXfdf(string fileName)
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,6 +40,8 @@ public void ImportAnnotationsFromXfdf(Stream stream)
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

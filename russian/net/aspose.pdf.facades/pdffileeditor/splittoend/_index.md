@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.SplitToEnd
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileEditor. Разделяет с указанного места и сохраняет заднюю часть как новый файл
+title: "PdfFileEditor.SplitToEnd"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileEditor. Делит от указанного места и сохраняет заднюю часть как новый файл."
 type: docs
 weight: 360
 url: /ru/net/aspose.pdf.facades/pdffileeditor/splittoend/
 ---
 ## SplitToEnd(string, int, string) {#splittoend_1}
 
-Разделяет с указанного места и сохраняет заднюю часть как новый файл Stream.
+Разделяет от указанного места и сохраняет заднюю часть как новый поток файла.
 
 ```csharp
 public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -16,13 +16,13 @@ public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Исходный Pdf файл Stream. |
-| location | Int32 | Позиция разделения. |
-| outputStream | Stream | Выходной Pdf файл Stream. |
+| inputStream | Stream | Поток исходного Pdf‑файла. |
+| место | Int32 | Позиция разреза. |
+| outputStream | Stream | Выходной поток Pdf‑файла. |
 
 ### Возвращаемое значение
 
-True для успеха, или false.
+True при успехе, иначе false.
 
 ## Примечания
 
@@ -39,15 +39,15 @@ pfe.SplitToEnd(sourceStream, 5, outStream);
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SplitToEnd(string, int, string) {#splittoend_2}
 
-Разделяет с указанного места и сохраняет заднюю часть как новый файл.
+Разделяет от места и сохраняет заднюю часть как новый файл.
 
 ```csharp
 public bool SplitToEnd(string inputFile, int location, string outputFile)
@@ -55,13 +55,13 @@ public bool SplitToEnd(string inputFile, int location, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Исходный Pdf файл. |
-| location | Int32 | Позиция разделения. |
-| outputFile | String | Путь к выходному Pdf файлу. |
+| inputFile | String | Исходный Pdf‑файл. |
+| место | Int32 | Позиция разреза. |
+| outputFile | String | Путь к выходному Pdf‑файлу. |
 
 ### Возвращаемое значение
 
-True для успеха, или false.
+True при успехе, иначе false.
 
 ## Примеры
 
@@ -72,15 +72,15 @@ pfe.SplitToEnd("input.pdf", 5, "out.pdf");
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SplitToEnd(Stream, int, Stream) {#splittoend}
 
-Разделяет с указанного места и сохраняет заднюю часть как новый файл Stream.
+Разделяет от указанного места и сохраняет заднюю часть как новый поток файла.
 
 ```csharp
 public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -88,13 +88,13 @@ public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Исходный Pdf файл Stream. |
-| location | Int32 | Позиция разделения. |
-| outputStream | Stream | Выходной Pdf файл Stream. |
+| inputStream | Stream | Поток исходного Pdf‑файла. |
+| место | Int32 | Позиция разреза. |
+| outputStream | Stream | Выходной поток Pdf‑файла. |
 
 ### Возвращаемое значение
 
-True для успеха, или false.
+True при успехе, иначе false.
 
 ## Примечания
 
@@ -111,6 +111,8 @@ pfe.SplitToEnd(sourceStream, 5, outStream);
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

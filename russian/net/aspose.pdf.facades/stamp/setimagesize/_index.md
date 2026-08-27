@@ -1,14 +1,14 @@
 ---
-title: Stamp.SetImageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Stamp. Устанавливает размер изображения штампа. Изображение будет масштабироваться в соответствии с указанными значениями
+title: "Stamp.SetImageSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Stamp. Устанавливает размер штампа‑изображения. Изображение будет масштабировано в соответствии с указанными значениями"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/stamp/setimagesize/
 ---
-## Метод Stamp.SetImageSize
+## Stamp.SetImageSize method
 
-Устанавливает размер изображения штампа. Изображение будет масштабироваться в соответствии с указанными значениями.
+Устанавливает размер штампа‑изображения. Изображение будет масштабировано в соответствии с указанными значениями.
 
 ```csharp
 public void SetImageSize(float width, float height)
@@ -21,6 +21,8 @@ public void SetImageSize(float width, float height)
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

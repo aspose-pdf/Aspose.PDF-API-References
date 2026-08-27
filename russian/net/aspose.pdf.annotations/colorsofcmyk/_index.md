@@ -1,14 +1,14 @@
 ---
-title: Enum ColorsOfCMYK
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ColorsOfCMYK в Aspose.Pdf.Annotations. Цвета, включенные в цветовую модель CMYK
+title: "Перечисление ColorsOfCMYK"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.ColorsOfCMYK enum. Цвета, включённые в модель CMYK."
 type: docs
-weight: 1610
+weight: 1700
 url: /ru/net/aspose.pdf.annotations/colorsofcmyk/
 ---
-## Перечисление ColorsOfCMYK
+## ColorsOfCMYK enumeration
 
-Цвета, включенные в цветовую модель CMYK.
+Цвета, включённые в цветовую модель CMYK.
 
 ```csharp
 public enum ColorsOfCMYK
@@ -19,11 +19,13 @@ public enum ColorsOfCMYK
 | Имя | Значение | Описание |
 | --- | --- | --- |
 | Cyan | `0` | Цвет циан. |
-| Magenta | `1` | Цвет маджента. |
+| Magenta | `1` | Цвет магента. |
 | Yellow | `2` | Желтый цвет. |
 | Black | `3` | Черный цвет. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

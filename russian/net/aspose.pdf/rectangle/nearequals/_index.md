@@ -1,14 +1,14 @@
 ---
-title: Rectangle.NearEquals
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rectangle. Проверьте, равны ли прямоугольники, т.е. имеют почти одинаковое положение и размеры с учетом дельты
+title: "Rectangle.NearEquals"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Rectangle. Проверяет, являются ли прямоугольники почти равными, т.е. имеют почти одинаковое положение и размеры с учётом дельты."
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf/rectangle/nearequals/
 ---
-## Метод Rectangle.NearEquals
+## Rectangle.NearEquals method
 
-Проверьте, равны ли прямоугольники, т.е. имеют почти одинаковое (с учетом дельты) положение и размеры.
+Проверяет, почти ли равны прямоугольники, т.е. имеют почти одинаковое (с учётом дельты) положение и размеры.
 
 ```csharp
 public bool NearEquals(Rectangle other, double delta)
@@ -16,15 +16,17 @@ public bool NearEquals(Rectangle other, double delta)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | Rectangle | Прямоугольник, который будет сравнен. |
-| delta | Double | Значение допустимой погрешности сравнения. |
+| другой | Rectangle | Прямоугольник, который будет сравниваться. |
+| дельта | Double | Значение допуска сравнения. |
 
 ### Возвращаемое значение
 
-True, если прямоугольники равны, false в противном случае.
+True, если прямоугольники равны, иначе false.
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

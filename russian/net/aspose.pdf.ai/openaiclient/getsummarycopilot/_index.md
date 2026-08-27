@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Получает экземпляр ISummaryCopilot с указанными параметрами
+title: "OpenAIClient.GetSummaryCopilot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Получает экземпляр ISummaryCopilot с указанными параметрами"
 type: docs
-weight: 290
+weight: 300
 url: /ru/net/aspose.pdf.ai/openaiclient/getsummarycopilot/
 ---
-## Метод OpenAIClient.GetSummaryCopilot
+## OpenAIClient.GetSummaryCopilot method
 
 Получает экземпляр [`ISummaryCopilot`](../../isummarycopilot/) с указанными параметрами.
 
@@ -17,7 +17,7 @@ public ISummaryCopilot GetSummaryCopilot(
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | ISummaryCopilotOptions`1 | Параметры для суммарного копилота. |
+| options | ISummaryCopilotOptions`1 | Параметры для сопроводителя резюме. |
 
 ### Возвращаемое значение
 
@@ -25,9 +25,11 @@ public ISummaryCopilot GetSummaryCopilot(
 
 ### См. также
 
-* интерфейс [ISummaryCopilot](../../isummarycopilot/)
-* интерфейс [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* класс [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

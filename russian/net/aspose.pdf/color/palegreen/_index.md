@@ -1,14 +1,14 @@
 ---
-title: Color.PaleGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF98FB98
+title: "Color.PaleGreen"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Получает системный цвет, у которого ARGB‑значение c FF98FB98"
 type: docs
 weight: 1050
 url: /ru/net/aspose.pdf/color/palegreen/
 ---
-## Свойство Color.PaleGreen
+## Color.PaleGreen property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF98FB98.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FF98FB98.
 
 ```csharp
 public static Color PaleGreen { get; }
@@ -16,10 +16,12 @@ public static Color PaleGreen { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

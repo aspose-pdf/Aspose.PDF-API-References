@@ -1,14 +1,14 @@
 ---
-title: Enum PdfFileEditor.ConcatenateCorruptedFileAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PdfFileEditorConcatenateCorruptedFileAction от Aspose.Pdf.Facades. Действие, выполняемое при встрече поврежденного файла в процессе конкатенации
+title: "Перечисление PdfFileEditor.ConcatenateCorruptedFileAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Facades.PdfFileEditorConcatenateCorruptedFileAction. Действие, выполняемое при встрече повреждённого файла в процессе конкатенации"
 type: docs
-weight: 4470
+weight: 4590
 url: /ru/net/aspose.pdf.facades/pdffileeditor.concatenatecorruptedfileaction/
 ---
-## Перечисление PdfFileEditor.ConcatenateCorruptedFileAction
+## PdfFileEditor.ConcatenateCorruptedFileAction enumeration
 
-Действие, выполняемое при встрече поврежденного файла в процессе конкатенации.
+Действие, выполняемое при встрече повреждённого файла в процессе конкатенации.
 
 ```csharp
 public enum ConcatenateCorruptedFileAction
@@ -18,12 +18,14 @@ public enum ConcatenateCorruptedFileAction
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| StopWithError | `0` | Если был встречен поврежденный файл, то остановить процесс конкатенации и вернуть ошибку. |
-| ConcatenateIgnoringCorrupted | `1` | Если был встречен поврежденный файл, то не останавливать конкатенацию и не обрабатывать поврежденный файл. Список поврежденных файлов доступен в свойстве Failures. |
-| ConcatenateIgnoringCorruptedObjects | `2` | Когда в исходном документе встречается поврежденный объект, процесс не останавливается, и только поврежденный объект игнорируется. |
+| StopWithError | `0` | Если обнаружен повреждённый файл, то остановите процесс конкатенации и верните ошибку. |
+| ConcatenateIgnoringCorrupted | `1` | Если обнаружен повреждённый файл, то не останавливайте конкатенацию и не обрабатывайте повреждённый файл. Список повреждённых файлов доступен в свойстве Failures. |
+| ConcatenateIgnoringCorruptedObjects | `2` | Когда в исходном документе встречается повреждённый объект, процесс не будет остановлен, и только повреждённый объект будет игнорироваться. |
 
 ### См. также
 
-* класс [PdfFileEditor](../pdffileeditor/)
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* class [PdfFileEditor](../pdffileeditor/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

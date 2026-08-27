@@ -1,14 +1,14 @@
 ---
-title: SetWordSpacing.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetWordSpacing. Принимает объект посетителя для обработки оператора
+title: "SetWordSpacing.Accept"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SetWordSpacing. Принимает объект‑посетитель для обработки оператора"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/setwordspacing/accept/
 ---
-## Метод SetWordSpacing.Accept
+## SetWordSpacing.Accept method
 
-Принимает объект посетителя для обработки оператора.
+Принимает объект‑посетитель для обработки оператора.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Объект посетителя. |
+| посетитель | IOperatorSelector | Объект‑посетитель. |
 
 ### См. также
 
-* интерфейс [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* класс [SetWordSpacing](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetWordSpacing](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

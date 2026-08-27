@@ -1,14 +1,14 @@
 ---
-title: TeXFileSystemOutputDirectory.TeXFileSystemOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TeXFileSystemOutputDirectory. Создает новый экземпляр
+title: "TeXFileSystemOutputDirectory.TeXFileSystemOutputDirectory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TeXFileSystemOutputDirectory. Создаёт новый экземпляр"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/texfilesystemoutputdirectory/texfilesystemoutputdirectory/
 ---
-## Конструктор TeXFileSystemOutputDirectory
+## TeXFileSystemOutputDirectory constructor
 
-Создает новый экземпляр.
+Создаёт новый экземпляр.
 
 ```csharp
 public TeXFileSystemOutputDirectory(string basePath)
@@ -16,10 +16,12 @@ public TeXFileSystemOutputDirectory(string basePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| basePath | String | Базовый путь к директории. |
+| basePath | String | Базовый путь каталога. |
 
 ### См. также
 
-* класс [TeXFileSystemOutputDirectory](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXFileSystemOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

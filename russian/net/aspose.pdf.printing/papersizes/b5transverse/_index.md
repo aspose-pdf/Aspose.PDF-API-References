@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.B5Transverse
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага JIS B5 в поперечном направлении 182 мм на 257 мм
+title: "PaperSizes.B5Transverse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. JIS B5 transverse бумага 182 мм на 257 мм"
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.printing/papersizes/b5transverse/
 ---
-## Поле PaperSizes.B5Transverse
+## PaperSizes.B5Transverse field
 
-Бумага JIS B5 в поперечном направлении (182 мм на 257 мм).
+JIS B5 поперечная бумага (182 мм на 257 мм).
 
 ```csharp
 public static readonly PaperSize B5Transverse;
@@ -16,7 +16,9 @@ public static readonly PaperSize B5Transverse;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

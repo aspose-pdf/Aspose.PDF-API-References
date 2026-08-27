@@ -1,12 +1,12 @@
 ---
-title: Class SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.SignatureName. Представляет класс для имени подписи
+title: "Класс SignatureName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Facades.SignatureName класс. Представляет класс для имени подписи"
 type: docs
-weight: 4710
+weight: 4830
 url: /ru/net/aspose.pdf.facades/signaturename/
 ---
-## Класс SignatureName
+## SignatureName class
 
 Представляет класс для имени подписи.
 
@@ -24,9 +24,9 @@ public sealed class SignatureName
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.pdf.facades/signaturename/equals/)(object) | Определяет, равны ли этот экземпляр и указанный объект. |
-| override [GetHashCode](../../aspose.pdf.facades/signaturename/gethashcode/)() | Возвращает код хэширования для этого экземпляра на основе свойства FullName. |
-| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | Возвращает строковое представление экземпляра `SignatureName`, в первую очередь используя его имя. |
+| override [Equals](../../aspose.pdf.facades/signaturename/equals/)(object) | Определяет, равны ли данный экземпляр и указанный объект. |
+| override [GetHashCode](../../aspose.pdf.facades/signaturename/gethashcode/)() | Возвращает хеш‑код для этого экземпляра на основе свойства FullName. |
+| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | Возвращает строковое представление экземпляра `SignatureName`, в основном используя его имя. |
 
 ## Поля
 
@@ -35,11 +35,13 @@ public sealed class SignatureName
 | readonly [FullName](../../aspose.pdf.facades/signaturename/fullname/) | Получает полное имя подписи, предоставляя уникальный и точный идентификатор для поля подписи. |
 | readonly [Name](../../aspose.pdf.facades/signaturename/name/) | Получает имя подписи. |
 
-## Замечания
+## Примечания
 
 Представляет более точное имя подписи. Используется вместо строковых имен. Позволяет представлять подписи с одинаковыми строковыми именами.
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PageCollectionExtension
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PageCollectionExtension. Представляет метод расширения для обновления нумерации заголовков и подвалов
+title: "Класс PageCollectionExtension"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.PageCollectionExtension. Представляет метод‑расширение для обновления нумерации заголовков и нижних колонтитулов"
 type: docs
 weight: 8080
 url: /ru/net/aspose.pdf/pagecollectionextension/
 ---
-## Класс PageCollectionExtension
+## PageCollectionExtension class
 
-Представляет метод расширения для обновления нумерации заголовков и подвалов.
+Представляет метод-расширение для обновления нумерации заголовков и нижних колонтитулов.
 
 ```csharp
 public static class PageCollectionExtension
@@ -18,9 +18,11 @@ public static class PageCollectionExtension
 
 | Имя | Описание |
 | --- | --- |
-| static [UpdatePagination](../../aspose.pdf/pagecollectionextension/updatepagination/)(this PageCollection) | Обновляет номера страниц и даты заголовков и подвалов для всех страниц. Это будет работать, если документ имеет хотя бы один артефакт нумерации с данными специальных настроек. Все страницы в коллекции будут обновлены с использованием исходного артефакта в соответствии с его настройками. |
+| static [UpdatePagination](../../aspose.pdf/pagecollectionextension/updatepagination/)(this PageCollection) | Обновляет номера страниц и даты в заголовках и нижних колонтитулах для всех страниц. Это будет работать, если документ содержит хотя бы один артефакт нумерации с данными специальных настроек. Все страницы в коллекции будут обновлены с использованием исходного артефакта в соответствии с его настройками. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

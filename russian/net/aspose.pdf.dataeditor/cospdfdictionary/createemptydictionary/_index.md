@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.CreateEmptyDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CosPdfDictionary. Создает пустой словарь, который будет прикреплен к странице
+title: "CosPdfDictionary.CreateEmptyDictionary"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CosPdfDictionary. Создаёт пустой словарь, который будет прикреплён к page"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/
 ---
 ## CreateEmptyDictionary(Page) {#createemptydictionary_1}
 
-Создает пустой словарь, который будет прикреплен к странице.
+Создаёт пустой словарь, который будет присоединён к странице.
 
 ```csharp
 public static CosPdfDictionary CreateEmptyDictionary(Page page)
@@ -16,7 +16,7 @@ public static CosPdfDictionary CreateEmptyDictionary(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Результирующий словарь будет прикреплен к этой странице. |
+| страница | Страница | Полученный словарь будет прикреплён к this page. |
 
 ### Возвращаемое значение
 
@@ -26,20 +26,20 @@ public static CosPdfDictionary CreateEmptyDictionary(Page page)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Страница равна null. |
+| ArgumentNullException | Страница page равна null. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [CosPdfDictionary](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateEmptyDictionary(Document) {#createemptydictionary}
 
-Создает пустой словарь, который будет прикреплен к документу.
+Создаёт пустой словарь, который будет присоединён к документу.
 
 ```csharp
 public static CosPdfDictionary CreateEmptyDictionary(Document document)
@@ -47,7 +47,7 @@ public static CosPdfDictionary CreateEmptyDictionary(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Результирующий словарь будет прикреплен к этому документу. |
+| документ | Document | Полученный словарь будет прикреплён к this document. |
 
 ### Возвращаемое значение
 
@@ -61,7 +61,9 @@ public static CosPdfDictionary CreateEmptyDictionary(Document document)
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [CosPdfDictionary](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

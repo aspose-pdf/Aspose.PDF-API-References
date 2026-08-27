@@ -1,14 +1,14 @@
 ---
-title: Interface IPipelineOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.IPipelineOptions. Определяет параметры преобразования, связанные с конфигурацией конвейера
+title: "Интерфейс IPipelineOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.IPipelineOptions. Определяет параметры конвертации, связанные с конфигурацией конвейера"
 type: docs
-weight: 5810
+weight: 5940
 url: /ru/net/aspose.pdf/ipipelineoptions/
 ---
-## Интерфейс IPipelineOptions
+## IPipelineOptions interface
 
-Определяет параметры преобразования, связанные с конфигурацией конвейера.
+Определяет параметры конвертации, связанные с конфигурацией конвейера.
 
 ```csharp
 public interface IPipelineOptions
@@ -18,9 +18,11 @@ public interface IPipelineOptions
 
 | Имя | Описание |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize/) { get; set; } | Указывает размер порции страниц, передаваемых от узла к узлу. |
+| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize/) { get; set; } | Указывает размер части страниц, передаваемых от узла к узлу. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

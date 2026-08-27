@@ -1,14 +1,14 @@
 ---
-title: Signature.ByteRange
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Signature. Массив пар целых чисел, описывающих начальный смещение в байтах и длину в байтах, которые должны описывать точный диапазон байтов для расчета дайджеста
+title: "Signature.ByteRange"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Signature. Массив пар целых чисел, указывающих начальное смещение байта и длину в байтах, которые описывают точный диапазон байтов для вычисления дайджеста."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/signature/byterange/
 ---
-## Свойство Signature.ByteRange
+## Signature.ByteRange property
 
-Массив пар целых чисел (начальное смещение в байтах, длина в байтах), который должен описывать точный диапазон байтов для расчета дайджеста.
+Массив пар целых чисел (начальное смещение в байтах, длина в байтах), описывающих точный диапазон байтов для вычисления дайджеста.
 
 ```csharp
 public int[] ByteRange { get; }
@@ -16,6 +16,8 @@ public int[] ByteRange { get; }
 
 ### См. также
 
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

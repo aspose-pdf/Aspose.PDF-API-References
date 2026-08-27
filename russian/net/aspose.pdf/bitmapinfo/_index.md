@@ -1,14 +1,14 @@
 ---
-title: Class BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.BitmapInfo. Объект, содержащий массив пикселей и информацию о битмапе
+title: "Класс BitmapInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.BitmapInfo класс. Объект, содержащий массив пикселей и информацию о битмапе"
 type: docs
-weight: 2860
+weight: 2970
 url: /ru/net/aspose.pdf/bitmapinfo/
 ---
-## Класс BitmapInfo
+## BitmapInfo class
 
-Объект, содержащий массив пикселей и информацию о битмапе.
+Объект, содержащий массив пикселей и информацию о bitmap.
 
 ```csharp
 public class BitmapInfo
@@ -16,20 +16,22 @@ public class BitmapInfo
 
 ## Конструкторы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| [BitmapInfo](bitmapinfo/)(byte[], int, int, PixelFormat) | Создает новый экземпляр класса. |
+| [BitmapInfo](bitmapinfo/)(byte[], int, int, PixelFormat) | Создаёт новый экземпляр класса. |
 
 ## Свойства
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [Format](../../aspose.pdf/bitmapinfo/format/) { get; } | Получает формат пикселей битмапа. |
 | [Height](../../aspose.pdf/bitmapinfo/height/) { get; } | Получает высоту битмапа. |
 | [PixelBytes](../../aspose.pdf/bitmapinfo/pixelbytes/) { get; } | Получает массив пикселей. |
-| [Width](../../aspose.pdf/bitmapinfo/width/) { get; } | Получает ширину битмапа. |
+| [Width](../../aspose.pdf/bitmapinfo/width/) { get; } | Получает ширину растрового изображения. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

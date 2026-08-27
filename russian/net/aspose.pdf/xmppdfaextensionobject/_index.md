@@ -1,14 +1,14 @@
 ---
-title: Class XmpPdfAExtensionObject
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.XmpPdfAExtensionObject. Представляет базовый класс для экземпляров типа значения свойства поля
+title: "Класс XmpPdfAExtensionObject"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.XmpPdfAExtensionObject. Представляет базовый класс для экземпляров типов значений свойств полей."
 type: docs
-weight: 11450
+weight: 11640
 url: /ru/net/aspose.pdf/xmppdfaextensionobject/
 ---
-## Класс XmpPdfAExtensionObject
+## XmpPdfAExtensionObject class
 
-Представляет базовый класс для экземпляров типа значения свойства поля.
+Представляет базовый класс для экземпляров полей, свойств и типов значений.
 
 ```csharp
 public abstract class XmpPdfAExtensionObject
@@ -29,5 +29,7 @@ public abstract class XmpPdfAExtensionObject
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

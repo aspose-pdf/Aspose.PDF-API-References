@@ -1,16 +1,16 @@
 ---
-title: StructureTypeStandard.Formula
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Формула Математическая формула
+title: "StructureTypeStandard.Formula"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard поле. Formula Математическая формула."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/formula/
 ---
-## Поле StructureTypeStandard.Formula
+## StructureTypeStandard.Formula field
 
-(Формула) Математическая формула.
+(Formula) Математическая формула.
 
-Этот тип структуры полезен только для идентификации целого элемента контента как формулы. Для идентификации отдельных компонентов внутри формулы стандартные типы структуры не определены. С точки зрения форматирования формула должна рассматриваться аналогично фигуре (тип структуры Figure).
+Этот тип структуры полезен только для идентификации всего элемента содержимого как формулы. Стандартные типы структур не определены для идентификации отдельных компонентов внутри формулы. С точки зрения форматирования формула должна обрабатываться аналогично рисунку (тип структуры Figure).
 
 ```csharp
 public static readonly StructureTypeStandard Formula;
@@ -18,6 +18,8 @@ public static readonly StructureTypeStandard Formula;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

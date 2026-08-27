@@ -1,14 +1,14 @@
 ---
-title: Enum FontSubsetStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Перечисление Aspose.Pdf.FontSubsetStrategy. перечисляет стратегии для подмножества шрифтов
+title: "Перечисление FontSubsetStrategy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.FontSubsetStrategy. Перечисляет стратегии подмножества шрифтов"
 type: docs
-weight: 4910
+weight: 5030
 url: /ru/net/aspose.pdf/fontsubsetstrategy/
 ---
-## Перечисление FontSubsetStrategy
+## FontSubsetStrategy enumeration
 
-перечисляет стратегии для подмножества шрифтов
+перечисляет стратегии подмножества шрифтов
 
 ```csharp
 public enum FontSubsetStrategy : byte
@@ -18,10 +18,12 @@ public enum FontSubsetStrategy : byte
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| SubsetEmbeddedFontsOnly | `0` | Объявляет, что следует использовать только шрифты, которые уже встроены в документ |
-| SubsetAllFonts | `1` | Объявляет, что следует использовать все шрифты, как встроенные, так и не встроенные |
+| SubsetEmbeddedFontsOnly | `0` | Объявляет подмножество только шрифтов, уже встроенных в документ |
+| SubsetAllFonts | `1` | Объявляет подмножество всех шрифтов, как встроенных, так и не встроенных |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

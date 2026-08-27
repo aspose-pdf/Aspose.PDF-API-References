@@ -1,12 +1,12 @@
 ---
-title: ID.ID
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ID. Инициализирует оператор
+title: "ID.ID"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ID. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/id/id/
 ---
-## Конструктор ID
+## ID constructor
 
 Инициализирует оператор.
 
@@ -16,6 +16,8 @@ public ID()
 
 ### См. также
 
-* класс [ID](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [ID](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

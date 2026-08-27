@@ -1,34 +1,36 @@
 ---
-title: Class CollectionSchema
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.CollectionSchema. Представляет класс, который описывает схему коллекции документов
+title: "Класс CollectionSchema"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.CollectionSchema. Представляет класс, описывающий схему коллекции документов"
 type: docs
-weight: 3070
+weight: 3180
 url: /ru/net/aspose.pdf/collectionschema/
 ---
 ## CollectionSchema class
 
-Представляет класс, который описывает "Схему" коллекции документов.
+Представляет класс, описывающий "Schema" коллекции документов.
 
 ```csharp
 public class CollectionSchema
 ```
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [AllFields](../../aspose.pdf/collectionschema/allfields/) { get; } | Получает все поля схемы. |
-| [AllNames](../../aspose.pdf/collectionschema/allnames/) { get; } | Получает все имена полей схемы. |
+| [AllNames](../../aspose.pdf/collectionschema/allnames/) { get; } | Получает имена всех полей схемы. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [GetCollectionField](../../aspose.pdf/collectionschema/getcollectionfield/)(string) | Получает поле коллекции по имени. |
 | [HasName](../../aspose.pdf/collectionschema/hasname/)(string) | Определяет, существует ли указанное имя в схеме. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

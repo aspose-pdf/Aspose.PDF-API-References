@@ -1,14 +1,14 @@
 ---
-title: PrintController.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PrintController. Dispose
+title: "PrintController.Dispose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PrintController. Dispose"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/printcontroller/dispose/
 ---
-## Метод PrintController.Dispose
+## PrintController.Dispose method
 
-Освобождение ресурсов.
+Освобождает ресурсы.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### См. также
 
-* класс [PrintController](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

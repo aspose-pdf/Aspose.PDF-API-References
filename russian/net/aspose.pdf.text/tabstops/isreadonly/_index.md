@@ -1,14 +1,14 @@
 ---
-title: TabStops.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TabStops. Получает значение, указывающее на то, что этот экземпляр TabStops уже прикреплен к TextFragment и стал доступен только для чтения
+title: "TabStops.IsReadOnly"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TabStops. Возвращает значение, указывающее, что данный экземпляр TabStops уже привязан к TextFragment и стал только для чтения."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/tabstops/isreadonly/
 ---
-## Свойство TabStops.IsReadOnly
+## TabStops.IsReadOnly property
 
-Получает значение, указывающее на то, что этот [`TabStops`](../) экземпляр уже прикреплен к [`TextFragment`](../../textfragment/) и стал доступен только для чтения.
+Возвращает значение, указывающее, что данный экземпляр [`TabStops`](../) уже привязан к [`TextFragment`](../../textfragment/) и стал только для чтения.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### См. также
 
-* класс [TabStops](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

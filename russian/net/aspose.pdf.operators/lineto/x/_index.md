@@ -1,14 +1,14 @@
 ---
-title: LineTo.X
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LineTo. X координата точки линии
+title: "LineTo.X"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LineTo. Координата X точки линии"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/lineto/x/
 ---
-## Свойство LineTo.X
+## LineTo.X property
 
-X координата точки линии.
+Координата X точки линии.
 
 ```csharp
 public double X { get; set; }
@@ -16,6 +16,8 @@ public double X { get; set; }
 
 ### См. также
 
-* класс [LineTo](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [LineTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

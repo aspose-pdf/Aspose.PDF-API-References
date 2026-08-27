@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.SetCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Установить файл сертификата и пароль для процедуры подписи
+title: "PdfFileSignature.SetCertificate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSignature. Устанавливает файл сертификата и пароль для процедуры подписи."
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/pdffilesignature/setcertificate/
 ---
-## Метод PdfFileSignature.SetCertificate
+## PdfFileSignature.SetCertificate method
 
-Установить файл сертификата и пароль для процедуры подписи.
+Устанавливает файл сертификата и пароль для процедуры подписи.
 
 ```csharp
 public void SetCertificate(string pfx, string pass)
@@ -21,6 +21,8 @@ public void SetCertificate(string pfx, string pass)
 
 ### См. также
 
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

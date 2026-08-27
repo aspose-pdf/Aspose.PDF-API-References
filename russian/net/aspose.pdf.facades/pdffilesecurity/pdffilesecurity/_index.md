@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.PdfFileSecurity
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfFileSecurity. Инициализирует объект PdfFileSecurity
+title: "PdfFileSecurity.PdfFileSecurity"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfFileSecurity. Инициализирует объект PdfFileSecurity"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdffilesecurity/pdffilesecurity/
 ---
 ## PdfFileSecurity() {#constructor}
 
-Инициализирует объект PdfFileSecurity.
+Инициализировать объект PdfFileSecurity.
 
 ```csharp
 public PdfFileSecurity()
@@ -16,15 +16,15 @@ public PdfFileSecurity()
 
 ### См. также
 
-* класс [PdfFileSecurity](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfFileSecurity(Document) {#constructor_1}
 
-Инициализирует новый [`PdfFileSecurity`](../) объект на основе *документа*.
+Инициализирует новый объект [`PdfFileSecurity`](../) на основе *document*.
 
 ```csharp
 public PdfFileSecurity(Document document)
@@ -32,11 +32,13 @@ public PdfFileSecurity(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| документ | Document | Pdf документ. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PdfFileSecurity](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

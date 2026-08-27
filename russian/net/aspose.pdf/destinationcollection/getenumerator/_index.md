@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DestinationCollection. Возвращает перечислитель
+title: "DestinationCollection.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "DestinationCollection метод. Возвращает перечислитель."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/destinationcollection/getenumerator/
 ---
-## Метод DestinationCollection.GetEnumerator
+## DestinationCollection.GetEnumerator method
 
 Возвращает перечислитель.
 
@@ -20,6 +20,8 @@ public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 
 ### См. также
 
-* класс [DestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

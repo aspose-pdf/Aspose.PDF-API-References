@@ -1,14 +1,14 @@
 ---
-title: HeaderFooter.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Метод HeaderFooter. Клонирует новый объект
+title: "HeaderFooter.Clone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод HeaderFooter. Клонирует новый объект"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/headerfooter/clone/
 ---
-## Метод HeaderFooter.Clone
+## HeaderFooter.Clone method
 
-Клонирует новый объект.
+Создаёт клон нового объекта.
 
 ```csharp
 public object Clone()
@@ -20,6 +20,8 @@ public object Clone()
 
 ### См. также
 
-* класс [HeaderFooter](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ButtonField.RolloverCaption
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ButtonField. Получает или устанавливает заголовок при наведении кнопки, который будет отображаться, когда пользователь наведет курсор на ее активную область, не нажимая кнопку мыши
+title: "ButtonField.RolloverCaption"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ButtonField. Получает или задает всплывающую подпись кнопки, которая отображается, когда пользователь перемещает курсор в её активную область, не нажимая кнопку мыши"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.forms/buttonfield/rollovercaption/
 ---
-## Свойство ButtonField.RolloverCaption
+## ButtonField.RolloverCaption property
 
-Получает или устанавливает заголовок при наведении кнопки, который будет отображаться, когда пользователь наведет курсор на ее активную область, не нажимая кнопку мыши.
+Получает или задаёт подпись rollover кнопки, которая будет отображаться, когда пользователь перемещает курсор в её активную область без нажатия кнопки мыши.
 
 ```csharp
 public string RolloverCaption { get; set; }
@@ -16,6 +16,8 @@ public string RolloverCaption { get; set; }
 
 ### См. также
 
-* класс [ButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

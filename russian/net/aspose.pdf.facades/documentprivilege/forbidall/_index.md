@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.ForbidAll
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentPrivilege. Все запрещено
+title: "DocumentPrivilege.ForbidAll"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentPrivilege. Всё запрещено."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/documentprivilege/forbidall/
 ---
-## Свойство DocumentPrivilege.ForbidAll
+## DocumentPrivilege.ForbidAll property
 
 Все запрещено.
 
@@ -16,6 +16,8 @@ public static DocumentPrivilege ForbidAll { get; }
 
 ### См. также
 
-* класс [DocumentPrivilege](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

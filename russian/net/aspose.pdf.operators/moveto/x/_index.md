@@ -1,12 +1,12 @@
 ---
-title: MoveTo.X
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MoveTo. Координата X
+title: "MoveTo.X"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "MoveTo свойство. Координата X"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/moveto/x/
 ---
-## Свойство MoveTo.X
+## MoveTo.X property
 
 Координата X
 
@@ -16,6 +16,8 @@ public double X { get; set; }
 
 ### См. также
 
-* класс [MoveTo](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

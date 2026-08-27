@@ -1,12 +1,12 @@
 ---
-title: XForm.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XForm. Получает операторы формы
+title: "XForm.Contents"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XForm. Возвращает операторы формы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/xform/contents/
 ---
-## Свойство XForm.Contents
+## XForm.Contents property
 
 Получает операторы формы.
 
@@ -16,7 +16,9 @@ public OperatorCollection Contents { get; }
 
 ### См. также
 
-* класс [OperatorCollection](../../operatorcollection/)
-* класс [XForm](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OperatorCollection](../../operatorcollection/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

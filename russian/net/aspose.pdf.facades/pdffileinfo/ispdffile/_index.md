@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.IsPdfFile
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileInfo. Проверяет, является ли исходный ввод действительным PDF-файлом
+title: "PdfFileInfo.IsPdfFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileInfo. Проверяет, является ли исходный ввод действительным PDF-файлом"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/pdffileinfo/ispdffile/
 ---
-## Свойство PdfFileInfo.IsPdfFile
+## PdfFileInfo.IsPdfFile property
 
-Проверяет, является ли исходный ввод действительным PDF-файлом.
+Проверяет, является ли исходный ввод действительным PDF‑файлом.
 
 ```csharp
 public bool IsPdfFile { get; }
@@ -16,6 +16,8 @@ public bool IsPdfFile { get; }
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

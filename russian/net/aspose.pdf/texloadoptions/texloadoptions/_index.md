@@ -1,12 +1,12 @@
 ---
-title: TeXLoadOptions.TeXLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TeXLoadOptions. Конструктор по умолчанию
+title: "TeXLoadOptions.TeXLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TeXLoadOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/texloadoptions/texloadoptions/
 ---
-## Конструктор TeXLoadOptions
+## TeXLoadOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public TeXLoadOptions()
 
 ### См. также
 
-* класс [TeXLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

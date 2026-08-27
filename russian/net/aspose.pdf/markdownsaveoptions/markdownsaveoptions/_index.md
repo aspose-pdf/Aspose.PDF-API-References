@@ -1,12 +1,12 @@
 ---
-title: MarkdownSaveOptions.MarkdownSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор MarkdownSaveOptions. Конструктор по умолчанию
+title: "MarkdownSaveOptions.MarkdownSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор MarkdownSaveOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/markdownsaveoptions/markdownsaveoptions/
 ---
-## Конструктор MarkdownSaveOptions
+## MarkdownSaveOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public MarkdownSaveOptions()
 
 ### См. также
 
-* класс [MarkdownSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

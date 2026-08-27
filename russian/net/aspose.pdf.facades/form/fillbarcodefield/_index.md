@@ -1,14 +1,14 @@
 ---
-title: Form.FillBarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Заполните поле штрих-кода в соответствии с его полным именем поля
+title: "Form.FillBarcodeField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Заполняет поле штрихкода согласно его полностью квалифицированному имени поля."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/form/fillbarcodefield/
 ---
-## Метод Form.FillBarcodeField
+## Form.FillBarcodeField method
 
-Заполните поле штрих-кода в соответствии с его полным именем поля.
+Заполняет поле штрихкода в соответствии с его полностью квалифицированным именем.
 
 ```csharp
 public bool FillBarcodeField(string fieldName, string data)
@@ -16,12 +16,12 @@ public bool FillBarcodeField(string fieldName, string data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Полное имя поля. |
-| data | String | Новое значение штрих-кода. |
+| fieldName | String | Полностью квалифицированное имя поля. |
+| data | String | Новое значение штрихкода. |
 
 ### Возвращаемое значение
 
-Если заполнение прошло успешно, возвращает true; в противном случае - false.
+Если заполнение успешно, возвращает true; иначе — false.
 
 ## Примеры
 
@@ -32,6 +32,8 @@ form.FillBarcodeField("textField", "42207252");
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

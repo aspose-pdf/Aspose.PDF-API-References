@@ -1,14 +1,14 @@
 ---
-title: PageSize.A2
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageSize. Размер A2 594x420 мм
+title: "PageSize.A2"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageSize. Размер A2 594x420 мм"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/pagesize/a2/
 ---
-## Свойство PageSize.A2
+## PageSize.A2 property
 
-Размер A2 (594x420 мм).
+Размер A2 (594×420 мм).
 
 ```csharp
 public static PageSize A2 { get; }
@@ -16,6 +16,8 @@ public static PageSize A2 { get; }
 
 ### См. также
 
-* класс [PageSize](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

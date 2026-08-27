@@ -1,14 +1,14 @@
 ---
-title: Bookmark.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает номер страницы назначения закладки
+title: "Bookmark.PageNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Возвращает или задает номер целевой страницы закладки"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.facades/bookmark/pagenumber/
 ---
-## Свойство Закладка.НомерСтраницы
+## Bookmark.PageNumber property
 
-Получает или устанавливает номер страницы назначения закладки.
+Получает или задает номер целевой страницы закладки.
 
 ```csharp
 public int PageNumber { get; set; }
@@ -16,6 +16,8 @@ public int PageNumber { get; set; }
 
 ### См. также
 
-* класс [Закладка](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

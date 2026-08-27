@@ -1,7 +1,7 @@
 ---
-title: ArtifactCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ArtifactCollection. Удаляет указанный артефакт
+title: "ArtifactCollection.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ArtifactCollection. Удаляет указанный артефакт"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/artifactcollection/delete/
@@ -16,14 +16,14 @@ public void Delete(Artifact artifact)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| artifact | Artifact | Артефакт, который будет удален. |
+| artifact | Artifact | Артефакт, который будет удалён. |
 
 ### См. также
 
-* класс [Artifact](../../artifact/)
-* класс [ArtifactCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,6 +41,8 @@ public void Delete(int index)
 
 ### См. также
 
-* класс [ArtifactCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

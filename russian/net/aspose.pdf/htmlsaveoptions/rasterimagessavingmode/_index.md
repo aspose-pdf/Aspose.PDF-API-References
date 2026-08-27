@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.RasterImagesSavingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Поле HtmlSaveOptions. Конвертированный PDF может содержать растровые изображения. Этот параметр определяет, как они должны обрабатываться во время конвертации PDF в HTML
+title: "HtmlSaveOptions.RasterImagesSavingMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле HtmlSaveOptions. Преобразованный PDF может содержать растровые изображения. Этот параметр определяет, как они должны обрабатываться при конвертации PDF в HTML."
 type: docs
 weight: 400
 url: /ru/net/aspose.pdf/htmlsaveoptions/rasterimagessavingmode/
 ---
-## Поле HtmlSaveOptions.RasterImagesSavingMode
+## HtmlSaveOptions.RasterImagesSavingMode field
 
-Конвертированный PDF может содержать растровые изображения. Этот параметр определяет, как они должны обрабатываться во время конвертации PDF в HTML
+Преобразованный PDF может содержать растровые изображения. Этот параметр определяет, как их следует обрабатывать при конвертации PDF в HTML
 
 ```csharp
 public RasterImagesSavingModes RasterImagesSavingMode;
@@ -20,3 +20,5 @@ public RasterImagesSavingModes RasterImagesSavingMode;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

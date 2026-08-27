@@ -1,12 +1,12 @@
 ---
-title: DecryptionOptions.DecryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор DecryptionOptions. Инициализирует новый экземпляр объекта DecryptionOptions с параметрами по умолчанию
+title: "DecryptionOptions.DecryptionOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор DecryptionOptions. Инициализирует новый экземпляр объекта DecryptionOptions с параметрами по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/decryptionoptions/decryptionoptions/
 ---
-## Конструктор DecryptionOptions
+## DecryptionOptions constructor
 
 Инициализирует новый экземпляр объекта [`DecryptionOptions`](../) с параметрами по умолчанию.
 
@@ -20,6 +20,8 @@ public DecryptionOptions(string ownerPassword)
 
 ### См. также
 
-* класс [DecryptionOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [DecryptionOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

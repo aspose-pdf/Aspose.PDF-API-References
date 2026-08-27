@@ -1,7 +1,7 @@
 ---
-title: OptimizedMemoryStream.OptimizedMemoryStream
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор OptimizedMemoryStream. Инициализирует новый экземпляр класса OptimizedMemoryStream
+title: "OptimizedMemoryStream.OptimizedMemoryStream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор OptimizedMemoryStream. Инициализирует новый экземпляр класса OptimizedMemoryStream."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/
 public OptimizedMemoryStream()
 ```
 
-### See Also
+### См. также
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,12 @@ public OptimizedMemoryStream()
 public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | bufferSize | Int32 | Размер базовых буферов. |
-| buffer | Byte[] | Массив беззнаковых байтов, из которого будет создан текущий поток. |
+| буфер | Byte[] | Массив беззнаковых байтов, из которого создаётся текущий поток. |
 
-### See Also
+### См. также
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -51,11 +51,11 @@ public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 public OptimizedMemoryStream(int bufferSize)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | bufferSize | Int32 | Размер базовых буферов. |
 
-### See Also
+### См. также
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -71,12 +71,14 @@ public OptimizedMemoryStream(int bufferSize)
 public OptimizedMemoryStream(byte[] buffer)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| buffer | Byte[] | Массив беззнаковых байтов, из которого будет создан текущий поток. |
+| буфер | Byte[] | Массив беззнаковых байтов, из которого создаётся текущий поток. |
 
-### See Also
+### См. также
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

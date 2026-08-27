@@ -1,14 +1,14 @@
 ---
-title: Page.ColorType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство страницы. Устанавливает тип цвета страниц на основе информации, получаемой от операторов SetColor, изображений и форм
+title: "Page.ColorType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Page. Устанавливает тип цвета страниц на основе информации, получаемой от операторов SetColor изображений и форм"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/page/colortype/
 ---
-## Свойство Page.ColorType
+## Page.ColorType property
 
-Устанавливает тип цвета страниц на основе информации, получаемой от операторов SetColor, изображений и форм.
+Устанавливает тип цвета страниц на основе информации, полученной от операторов SetColor, изображений и форм.
 
 ```csharp
 public ColorType ColorType { get; }
@@ -20,3 +20,5 @@ public ColorType ColorType { get; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

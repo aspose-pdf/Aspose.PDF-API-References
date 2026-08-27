@@ -1,7 +1,7 @@
 ---
-title: Note.Note
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор заметки. Инициализирует новый экземпляр класса Note
+title: "Note.Note"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Note. Инициализирует новый экземпляр класса Note"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/note/note/
@@ -16,9 +16,9 @@ public Note()
 
 ### См. также
 
-* класс [Note](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,10 +32,12 @@ public Note(string content)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Содержимое заметки. |
+| содержание | String | Содержимое заметки. |
 
 ### См. также
 
-* класс [Note](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

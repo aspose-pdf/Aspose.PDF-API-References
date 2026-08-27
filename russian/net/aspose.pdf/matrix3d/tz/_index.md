@@ -1,14 +1,14 @@
 ---
-title: Matrix3D.Tz
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Matrix3D. Член Tz матрицы преобразования
+title: "Matrix3D.Tz"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Matrix3D. Элемент Tz преобразующей матрицы"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/matrix3d/tz/
 ---
-## Свойство Matrix3D.Tz
+## Matrix3D.Tz property
 
-Член Tz матрицы преобразования.
+Элемент Tz матрицы преобразования.
 
 ```csharp
 public double Tz { get; set; }
@@ -16,6 +16,8 @@ public double Tz { get; set; }
 
 ### См. также
 
-* класс [Matrix3D](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

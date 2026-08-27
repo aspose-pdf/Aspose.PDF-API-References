@@ -1,12 +1,12 @@
 ---
-title: Png.Png
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Png. Конструктор по умолчанию
+title: "Png.Png"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Png. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/png/png/
 ---
-## Конструктор Png
+## Png constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Png()
 
 ### См. также
 
-* класс [Png](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [Png](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

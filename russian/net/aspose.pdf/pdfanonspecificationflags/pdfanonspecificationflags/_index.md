@@ -1,12 +1,12 @@
 ---
-title: PdfANonSpecificationFlags.PdfANonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfANonSpecificationFlags. Конструктор по умолчанию
+title: "PdfANonSpecificationFlags.PdfANonSpecificationFlags"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfANonSpecificationFlags конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pdfanonspecificationflags/pdfanonspecificationflags/
 ---
-## Конструктор PdfANonSpecificationFlags
+## PdfANonSpecificationFlags constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public PdfANonSpecificationFlags()
 
 ### См. также
 
-* класс [PdfANonSpecificationFlags](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfANonSpecificationFlags](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

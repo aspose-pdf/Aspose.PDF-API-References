@@ -1,12 +1,12 @@
 ---
-title: TextDocument.TextDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextDocument. Конструктор по умолчанию
+title: "TextDocument.TextDocument"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextDocument. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/textdocument/textdocument/
 ---
-## Конструктор TextDocument
+## TextDocument constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public TextDocument()
 
 ### См. также
 
-* класс [TextDocument](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [TextDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

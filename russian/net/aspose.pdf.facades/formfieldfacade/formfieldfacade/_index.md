@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.FormFieldFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FormFieldFacade. Конструктор по умолчанию
+title: "FormFieldFacade.FormFieldFacade"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FormFieldFacade. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/formfieldfacade/formfieldfacade/
 ---
-## Конструктор FormFieldFacade
+## FormFieldFacade constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public FormFieldFacade()
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CosPdfDictionary. Определяет, содержит ли CosPdfDictionary конкретное значение
+title: "CosPdfDictionary.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CosPdfDictionary. Определяет, содержит ли CosPdfDictionary конкретное значение."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.dataeditor/cospdfdictionary/contains/
 ---
-## Метод CosPdfDictionary.Contains
+## CosPdfDictionary.Contains method
 
 Определяет, содержит ли [`CosPdfDictionary`](../) конкретное значение.
 
@@ -20,11 +20,13 @@ public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
 
 ### Возвращаемое значение
 
-true, если item найден в [`CosPdfDictionary`](../); в противном случае false.
+true, если элемент найден в [`CosPdfDictionary`](../); иначе false.
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../../icospdfprimitive/)
-* класс [CosPdfDictionary](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

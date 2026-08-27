@@ -1,12 +1,12 @@
 ---
-title: TextResponse.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextResponse. Получает или задает текст сообщения
+title: "TextResponse.Value"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextResponse. Получает или задает текст сообщения."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/textresponse/value/
 ---
-## Свойство TextResponse.Value
+## TextResponse.Value property
 
 Получает или задает текст сообщения.
 
@@ -16,6 +16,8 @@ public string Value { get; set; }
 
 ### См. также
 
-* класс [TextResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [TextResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

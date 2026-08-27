@@ -1,12 +1,12 @@
 ---
-title: OrganizerBaseOptions.CloseInputStreams
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OrganizerBaseOptions. Закрыть входные потоки после завершения операции
+title: "OrganizerBaseOptions.CloseInputStreams"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OrganizerBaseOptions. Закрывает потоки ввода после завершения операции"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/
 ---
-## Свойство OrganizerBaseOptions.CloseInputStreams
+## OrganizerBaseOptions.CloseInputStreams property
 
 Закрыть входные потоки после завершения операции.
 
@@ -16,6 +16,8 @@ public bool CloseInputStreams { get; set; }
 
 ### См. также
 
-* класс [OrganizerBaseOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

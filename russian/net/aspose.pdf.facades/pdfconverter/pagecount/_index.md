@@ -1,12 +1,12 @@
 ---
-title: PdfConverter.PageCount
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfConverter. Получает количество страниц
+title: "PdfConverter.PageCount"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfConverter. Получает количество страниц."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdfconverter/pagecount/
 ---
-## Свойство PdfConverter.PageCount
+## PdfConverter.PageCount property
 
 Получает количество страниц.
 
@@ -16,6 +16,8 @@ public int PageCount { get; }
 
 ### См. также
 
-* класс [PdfConverter](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

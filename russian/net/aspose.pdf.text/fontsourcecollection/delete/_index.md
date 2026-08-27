@@ -1,12 +1,12 @@
 ---
-title: FontSourceCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontSourceCollection. Удаляет элемент источника шрифта
+title: "FontSourceCollection.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontSourceCollection. Удаляет элемент источника шрифта"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.text/fontsourcecollection/delete/
 ---
-## Метод FontSourceCollection.Delete
+## FontSourceCollection.Delete method
 
 Удаляет элемент источника шрифта.
 
@@ -16,11 +16,13 @@ public void Delete(FontSource fontSource)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontSource | FontSource | Объект FontSource, который будет удален. |
+| fontSource | FontSource | Объект FontSource, который будет удалён. |
 
 ### См. также
 
-* класс [FontSource](../../fontsource/)
-* класс [FontSourceCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

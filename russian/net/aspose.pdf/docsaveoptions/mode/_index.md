@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.Mode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocSaveOptions. Режим распознавания
+title: "DocSaveOptions.Mode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocSaveOptions. Режим распознавания"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/docsaveoptions/mode/
 ---
-## Свойство DocSaveOptions.Mode
+## DocSaveOptions.Mode property
 
 Режим распознавания.
 
@@ -20,3 +20,5 @@ public RecognitionMode Mode { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PolyAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PolyAnnotation. Получает или задает намерение аннотации полигона или полилинии
+title: "PolyAnnotation.Intent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PolyAnnotation. Получает или задает назначение полигональной или полилинейной аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/polyannotation/intent/
 ---
-## Свойство PolyAnnotation.Intent
+## PolyAnnotation.Intent property
 
-Получает или задает намерение аннотации полигона или полилинии.
+Получает или задает назначение полигональной или полилинейной аннотации.
 
 ```csharp
 public PolyIntent Intent { get; set; }
@@ -20,3 +20,5 @@ public PolyIntent Intent { get; set; }
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

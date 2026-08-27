@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosBottomRight
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfFileStamp. Позиция внизу справа
+title: "PdfFileStamp.PosBottomRight"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfFileStamp. Позиция в правом нижнем углу"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.facades/pdffilestamp/posbottomright/
 ---
-## Поле PdfFileStamp.PosBottomRight
+## PdfFileStamp.PosBottomRight field
 
 Позиция внизу справа.
 
@@ -16,6 +16,8 @@ public const int PosBottomRight;
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

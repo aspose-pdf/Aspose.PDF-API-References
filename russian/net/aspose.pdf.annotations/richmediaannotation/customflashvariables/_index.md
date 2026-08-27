@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.CustomFlashVariables
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RichMediaAnnotation. Устанавливает или получает переменные flash, которые передаются в плеер
+title: "RichMediaAnnotation.CustomFlashVariables"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RichMediaAnnotation. Устанавливает или получает переменные flash, передаваемые плееру"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/richmediaannotation/customflashvariables/
 ---
-## Свойство RichMediaAnnotation.CustomFlashVariables
+## RichMediaAnnotation.CustomFlashVariables property
 
-Устанавливает или получает переменные flash, которые передаются в плеер.
+Устанавливает или получает flash‑переменные, передаваемые плееру.
 
 ```csharp
 public string CustomFlashVariables { get; set; }
@@ -16,6 +16,8 @@ public string CustomFlashVariables { get; set; }
 
 ### См. также
 
-* класс [RichMediaAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

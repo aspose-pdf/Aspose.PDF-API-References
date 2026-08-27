@@ -1,14 +1,14 @@
 ---
-title: Graph.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство графика. Получает или устанавливает границу
+title: "Graph.Border"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Graph. Возвращает или задает границу."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.drawing/graph/border/
 ---
-## Свойство Graph.Border
+## Graph.Border property
 
-Получает или устанавливает границу.
+Получает или задает границу.
 
 ```csharp
 public BorderInfo Border { get; set; }
@@ -16,7 +16,9 @@ public BorderInfo Border { get; set; }
 
 ### См. также
 
-* класс [BorderInfo](../../../aspose.pdf/borderinfo/)
-* класс [Graph](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.MediumSlateBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF7B68EE
+title: "Color.MediumSlateBlue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FF7B68EE"
 type: docs
 weight: 880
 url: /ru/net/aspose.pdf/color/mediumslateblue/
 ---
-## Свойство Color.MediumSlateBlue
+## Color.MediumSlateBlue property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF7B68EE.
+Получает системный цвет, у которого ARGB‑значение \c \#FF7B68EE.
 
 ```csharp
 public static Color MediumSlateBlue { get; }
@@ -16,10 +16,12 @@ public static Color MediumSlateBlue { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

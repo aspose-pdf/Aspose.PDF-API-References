@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Paragraphs. Удалить абзац из коллекции
+title: "Paragraphs.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Paragraphs. Удалить абзац из коллекции"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/paragraphs/remove/
 ---
-## Метод Paragraphs.Remove
+## Paragraphs.Remove method
 
 Удалить абзац из коллекции.
 
@@ -16,11 +16,13 @@ public void Remove(BaseParagraph paragraph)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| paragraph | BaseParagraph | Абзац. |
+| абзац | BaseParagraph | Абзац. |
 
 ### См. также
 
-* класс [BaseParagraph](../../baseparagraph/)
-* класс [Paragraphs](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

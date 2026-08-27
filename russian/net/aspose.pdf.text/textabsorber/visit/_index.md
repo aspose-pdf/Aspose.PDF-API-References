@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextAbsorber. Извлекает текст на указанной странице
+title: "TextAbsorber.Visit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextAbsorber. Извлекает текст на указанной странице"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/textabsorber/visit/
 ---
 ## Visit(Page) {#visit_1}
 
-Извлекает текст на указанной странице
+Извлекает текст из указанной страницы
 
 ```csharp
 public virtual void Visit(Page page)
@@ -16,38 +16,38 @@ public virtual void Visit(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы PDF документа. |
+| страница | Страница | Объект страницы Pdf документа. |
 
 ## Примеры
 
-Пример демонстрирует, как извлечь текст на первой странице PDF документа.
+Пример демонстрирует, как извлечь текст на первой странице PDF‑документа.
 
 ```csharp
-// open document
+// открыть документ
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// создайте объект TextAbsorber для извлечения текста
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// принять поглотитель для всех страниц документа
 absorber.Visit(doc.Pages[1]);
 
-// get the extracted text
+// получить извлечённый текст
 string extractedText = absorber.Text;
 ```
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [TextAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(XForm) {#visit_2}
 
-Извлекает текст на указанном XForm.
+Извлекает текст из указанного XForm.
 
 ```csharp
 public virtual void Visit(XForm form)
@@ -55,38 +55,38 @@ public virtual void Visit(XForm form)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| form | XForm | Объект формы PDF. |
+| форма | XForm | Объект формы Pdf. |
 
 ## Примеры
 
-Пример демонстрирует, как извлечь текст на первой странице PDF документа.
+Пример демонстрирует, как извлечь текст на первой странице PDF‑документа.
 
 ```csharp
-// open document
+// открыть документ
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// создайте объект TextAbsorber для извлечения текста
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// принять поглотитель для всех страниц документа
 absorber.Visit(doc.Pages[1].Resources.Forms["Xform1"]);
 
-// get the extracted text
+// получить извлечённый текст
 string extractedText = absorber.Text;
 ```
 
 ### См. также
 
-* класс [XForm](../../../aspose.pdf/xform/)
-* класс [TextAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Document) {#visit}
 
-Извлекает текст на указанном документе
+Извлекает текст из указанного документа
 
 ```csharp
 public virtual void Visit(Document pdf)
@@ -94,29 +94,31 @@ public virtual void Visit(Document pdf)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdf | Document | Объект документа PDF. |
+| pdf | Document | Объект Pdf документа. |
 
 ## Примеры
 
-Пример демонстрирует, как извлечь текст из PDF документа.
+Пример демонстрирует, как извлечь текст из PDF‑документа.
 
 ```csharp
-// open document
+// открыть документ
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// создайте объект TextAbsorber для извлечения текста
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// принять поглотитель для всех страниц документа
 absorber.Visit(doc);
 
-// get the extracted text
+// получить извлечённый текст
 string extractedText = absorber.Text;
 ```
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [TextAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

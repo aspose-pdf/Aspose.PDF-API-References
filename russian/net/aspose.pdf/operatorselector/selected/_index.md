@@ -1,12 +1,12 @@
 ---
-title: OperatorSelector.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OperatorSelector. Список выбранных объектов
+title: "OperatorSelector.Selected"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OperatorSelector. Список выбранных объектов."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/operatorselector/selected/
 ---
-## Свойство OperatorSelector.Selected
+## OperatorSelector.Selected property
 
 Список выбранных объектов.
 
@@ -16,7 +16,9 @@ public IList<Operator> Selected { get; }
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

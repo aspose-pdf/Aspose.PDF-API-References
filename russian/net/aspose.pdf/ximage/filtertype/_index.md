@@ -1,12 +1,12 @@
 ---
-title: XImage.FilterType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XImage. Получает тип фильтра изображения
+title: "XImage.FilterType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XImage. Получает тип фильтра изображения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/ximage/filtertype/
 ---
-## Свойство XImage.FilterType
+## XImage.FilterType property
 
 Получает тип фильтра изображения.
 
@@ -20,3 +20,5 @@ public ImageFilterType FilterType { get; }
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

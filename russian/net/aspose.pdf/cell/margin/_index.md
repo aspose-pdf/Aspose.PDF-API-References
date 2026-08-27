@@ -1,14 +1,14 @@
 ---
-title: Cell.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ячейки. Получает или устанавливает отступ
+title: "Cell.Margin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Получает или задает отступ"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/cell/margin/
 ---
-## Свойство Cell.Margin
+## Cell.Margin property
 
-Получает или устанавливает отступ.
+Получает или задаёт отступ.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../../margininfo/)
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

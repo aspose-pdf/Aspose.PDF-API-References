@@ -1,12 +1,12 @@
 ---
-title: TeXSaveOptions.AddFontEncs
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TeXSaveOptions. Добавляет кодировку шрифта в список кодировок шрифтов
+title: "TeXSaveOptions.AddFontEncs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TeXSaveOptions. Добавляет кодировку шрифта в список кодировок шрифтов"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/texsaveoptions/addfontencs/
 ---
-## Метод TeXSaveOptions.AddFontEncs
+## TeXSaveOptions.AddFontEncs method
 
 Добавляет кодировку шрифта в список кодировок шрифтов
 
@@ -20,6 +20,8 @@ public void AddFontEncs(params string[] fontEncs)
 
 ### См. также
 
-* класс [TeXSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

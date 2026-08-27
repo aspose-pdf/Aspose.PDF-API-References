@@ -1,14 +1,14 @@
 ---
-title: Enum FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FormPresentationMode Aspose.Pdf.Devices. Используется для указания режима представления формы при печати или конвертации pdf-документов в изображения
+title: "Перечисление FormPresentationMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Devices.FormPresentationMode. Используется для указания режима представления формы при печати или преобразовании PDF‑документов в изображения."
 type: docs
-weight: 3590
+weight: 3710
 url: /ru/net/aspose.pdf.devices/formpresentationmode/
 ---
-## Перечисление FormPresentationMode
+## FormPresentationMode enumeration
 
-Используется для указания режима представления формы при печати или конвертации pdf-документов в изображения.
+Используется для указания режима представления формы при печати или преобразовании в изображения pdf‑документов.
 
 ```csharp
 public enum FormPresentationMode
@@ -16,12 +16,14 @@ public enum FormPresentationMode
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Production | `0` | Указывает режим представления формы Production (используется по умолчанию). |
 | Editor | `1` | Указывает режим представления формы Editor. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

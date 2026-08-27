@@ -1,14 +1,14 @@
 ---
-title: Cell.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ячейки. Получает или устанавливает фоновое изображение
+title: "Cell.BackgroundImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Получает или задает фоновое изображение"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/cell/backgroundimage/
 ---
-## Свойство Cell.BackgroundImage
+## Cell.BackgroundImage property
 
-Получает или устанавливает фоновое изображение
+Получает или задаёт фон изображения
 
 ```csharp
 public Image BackgroundImage { get; set; }
@@ -16,7 +16,9 @@ public Image BackgroundImage { get; set; }
 
 ### См. также
 
-* класс [Image](../../image/)
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Image](../../image/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

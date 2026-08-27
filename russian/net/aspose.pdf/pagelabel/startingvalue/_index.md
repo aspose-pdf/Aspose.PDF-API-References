@@ -1,14 +1,14 @@
 ---
-title: PageLabel.StartingValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageLabel. Получает или устанавливает начальное значение диапазона нумерации страниц
+title: "PageLabel.StartingValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PageLabel свойство. Получает или задает начальное значение диапазона нумерации страниц"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/pagelabel/startingvalue/
 ---
-## Свойство PageLabel.StartingValue
+## PageLabel.StartingValue property
 
-Получает или устанавливает начальное значение диапазона нумерации страниц.
+Получает или задает начальное значение диапазона нумерации страниц.
 
 ```csharp
 public int StartingValue { get; set; }
@@ -16,6 +16,8 @@ public int StartingValue { get; set; }
 
 ### См. также
 
-* класс [PageLabel](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageLabel](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

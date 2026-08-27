@@ -1,12 +1,12 @@
 ---
-title: Page.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Очищает кэшированные данные
+title: "Page.FreeMemory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Очищает кэшированные данные."
 type: docs
 weight: 440
 url: /ru/net/aspose.pdf/page/freememory/
 ---
-## Метод Page.FreeMemory
+## Page.FreeMemory method
 
 Очищает кэшированные данные
 
@@ -16,6 +16,8 @@ public void FreeMemory()
 
 ### См. также
 
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

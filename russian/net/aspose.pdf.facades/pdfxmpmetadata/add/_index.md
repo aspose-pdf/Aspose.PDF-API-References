@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfXmpMetadata. Добавляет значение в XMP метаданные
+title: "PdfXmpMetadata.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfXmpMetadata. Добавляет значение в XMP‑метаданные"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/add/
 ---
 ## Add(DefaultMetadataProperties, XmpValue) {#add}
 
-Добавляет значение в XMP метаданные.
+Добавляет значение в XMP‑метаданные.
 
 ```csharp
 public void Add(DefaultMetadataProperties key, XmpValue value)
@@ -16,8 +16,8 @@ public void Add(DefaultMetadataProperties key, XmpValue value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Имя ключа. |
-| value | XmpValue | Значение, которое будет добавлено. |
+| ключ | DefaultMetadataProperties | Имя ключа. |
+| значение | XmpValue | Значение, которое будет добавлено. |
 
 ## Примеры
 
@@ -49,9 +49,9 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmpPdfAExtensionObject | XmpPdfAExtensionObject | Объект расширения pdf для добавления. |
+| xmpPdfAExtensionObject | XmpPdfAExtensionObject | PDF‑объект расширения, который нужно добавить. |
 | namespacePrefix | String | Префикс схемы. |
-| namespaceUri | String | URI пространства имен схемы. |
+| namespaceUri | String | URI пространства имён схемы. |
 | schemaDescription | String | Необязательное описание схемы. |
 
 ### См. также
@@ -73,8 +73,8 @@ public void Add(string key, XmpValue value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ нового элемента. |
-| value | XmpValue | Значение элемента. |
+| ключ | String | Ключ нового элемента. |
+| значение | XmpValue | Значение элемента. |
 
 ## Примеры
 
@@ -103,8 +103,8 @@ public void Add(string key, object value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ нового элемента. |
-| value | Object | Значение элемента. |
+| ключ | String | Ключ нового элемента. |
+| значение | Object | Значение элемента. |
 
 ### См. также
 
@@ -116,7 +116,7 @@ public void Add(string key, object value)
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
 
-Добавляет пару с ключом и значением в словарь.
+Добавляет пару ключ‑значение в словарь.
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
@@ -124,7 +124,7 @@ public void Add(KeyValuePair<string, XmpValue> item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Элемент для добавления. |
+| item | KeyValuePair`2 | Элемент, который будет добавлен. |
 
 ### См. также
 
@@ -132,3 +132,5 @@ public void Add(KeyValuePair<string, XmpValue> item)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

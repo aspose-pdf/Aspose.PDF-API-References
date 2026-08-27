@@ -1,14 +1,14 @@
 ---
-title: FormExporterValuesToCsvOptions.FormExporterValuesToCsvOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FormExporterValuesToCsvOptions. Инициализирует новый экземпляр объекта FormExporterValuesToCsvOptions, в котором указываются поля, данные которых будут экспортированы, и разделитель для экспортируемых данных
+title: "FormExporterValuesToCsvOptions.FormExporterValuesToCsvOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FormExporterValuesToCsvOptions. Инициализирует новый экземпляр объекта FormExporterValuesToCsvOptions, в котором указаны поля, данные которых будут экспортированы, и разделитель для экспортируемых данных"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/formexportervaluestocsvoptions/formexportervaluestocsvoptions/
 ---
-## Конструктор FormExporterValuesToCsvOptions
+## FormExporterValuesToCsvOptions constructor
 
-Инициализирует новый экземпляр объекта [`FormExporterValuesToCsvOptions`](../), в котором указываются поля, данные которых будут экспортированы, и разделитель для экспортируемых данных.
+Инициализирует новый экземпляр объекта [`FormExporterValuesToCsvOptions`](../), в котором указаны поля, данные которых будут экспортированы, и разделитель для экспортируемых данных.
 
 ```csharp
 public FormExporterValuesToCsvOptions(SelectField selectField, char delimeter = ',')
@@ -16,12 +16,14 @@ public FormExporterValuesToCsvOptions(SelectField selectField, char delimeter = 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| selectField | SelectField | Делегат, который определяет свойства, для которых следует установить значения. |
-| delimeter | Char | Указывает разделитель, который следует использовать в экспортируемых данных между значениями. Значение по умолчанию - ',' |
+| selectField | SelectField | Делегат, определяющий свойства полей, значения которых необходимо установить. |
+| разделитель | Char | Указывает разделитель, используемый в экспортируемых данных между значениями. Значение по умолчанию — ',' |
 
 ### См. также
 
-* делегат [SelectField](../../selectfield/)
-* класс [FormExporterValuesToCsvOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* delegate [SelectField](../../selectfield/)
+* class [FormExporterValuesToCsvOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

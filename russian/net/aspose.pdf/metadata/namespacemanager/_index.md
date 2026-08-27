@@ -1,14 +1,14 @@
 ---
-title: Metadata.NamespaceManager
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство метаданных. Получает менеджер пространств имен
+title: "Metadata.NamespaceManager"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Metadata. Получает менеджер пространств имён"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/metadata/namespacemanager/
 ---
-## Свойство Metadata.NamespaceManager
+## Metadata.NamespaceManager property
 
-Получает менеджер пространств имен.
+Получает менеджер пространств имён.
 
 ```csharp
 public XmlNamespaceManager NamespaceManager { get; }
@@ -16,6 +16,8 @@ public XmlNamespaceManager NamespaceManager { get; }
 
 ### См. также
 
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

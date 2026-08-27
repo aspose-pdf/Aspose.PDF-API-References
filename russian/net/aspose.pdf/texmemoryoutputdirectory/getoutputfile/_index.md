@@ -1,12 +1,12 @@
 ---
-title: TeXMemoryOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TeXMemoryOutputDirectory. Возвращает поток для записи
+title: "TeXMemoryOutputDirectory.GetOutputFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TeXMemoryOutputDirectory. Возвращает поток для записи."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/texmemoryoutputdirectory/getoutputfile/
 ---
-## Метод TeXMemoryOutputDirectory.GetOutputFile
+## TeXMemoryOutputDirectory.GetOutputFile method
 
 Возвращает поток для записи.
 
@@ -25,6 +25,8 @@ public Stream GetOutputFile(string fileName, out string fullName)
 
 ### См. также
 
-* класс [TeXMemoryOutputDirectory](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.ClearImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DAnnotation. Очищает предварительный просмотр изображения
+title: "PDF3DAnnotation.ClearImagePreview"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PDF3DAnnotation. Очищает предварительный просмотр изображения"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.annotations/pdf3dannotation/clearimagepreview/
 ---
-## Метод PDF3DAnnotation.ClearImagePreview
+## PDF3DAnnotation.ClearImagePreview method
 
 Очищает предварительный просмотр изображения.
 
@@ -16,6 +16,8 @@ public void ClearImagePreview()
 
 ### См. также
 
-* класс [PDF3DAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

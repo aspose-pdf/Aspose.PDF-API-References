@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ThreadMessageResponse. Получает или устанавливает статус сообщения. Один из queued  in_progress  requires_action  или completed
+title: "ThreadMessageResponse.Status"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ThreadMessageResponse. Получает или задает статус сообщения. Один из: queued, in_progress, requires_action или completed"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.ai/threadmessageresponse/status/
 ---
-## Свойство ThreadMessageResponse.Status
+## ThreadMessageResponse.Status property
 
-Получает или устанавливает статус сообщения. Один из queued , in_progress , requires_action , или completed .
+Получает или задает статус сообщения. Одно из значений: queued, in_progress, requires_action или completed .
 
 ```csharp
 public string Status { get; set; }
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### См. также
 
-* класс [ThreadMessageResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

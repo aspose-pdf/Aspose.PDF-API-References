@@ -1,14 +1,14 @@
 ---
-title: MarginInfo.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarginInfo. Получает или устанавливает значение с плавающей запятой, которое указывает на левый отступ
+title: "MarginInfo.Left"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MarginInfo. Получает или задает значение типа float, указывающее левое поле"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/margininfo/left/
 ---
-## Свойство MarginInfo.Left
+## MarginInfo.Left property
 
-Получает или устанавливает значение с плавающей запятой, которое указывает на левый отступ.
+Получает или задает значение типа float, указывающее левый отступ.
 
 ```csharp
 public double Left { get; set; }
@@ -16,6 +16,8 @@ public double Left { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.CrashReportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CrashReportOptions. Создает CrashReportOptions с параметрами по умолчанию
+title: "CrashReportOptions.CrashReportOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CrashReportOptions. Создаёт CrashReportOptions с параметрами по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/crashreportoptions/crashreportoptions/
 ---
-## Конструктор CrashReportOptions
+## CrashReportOptions constructor
 
-Создает CrashReportOptions с параметрами по умолчанию.
+Создаёт CrashReportOptions с параметрами по умолчанию.
 
 ```csharp
 public CrashReportOptions(Exception exception)
@@ -16,16 +16,18 @@ public CrashReportOptions(Exception exception)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| exception | Exception | Исключение, на основе которого создается отчет |
+| исключение | Exception | Исключение, на основе которого составлен отчёт |
 
 ### Исключения
 
-| exception | condition |
+| исключение | условие |
 | --- | --- |
-| ArgumentNullException | Генерирует ArgumentNullException, если исключение равно null |
+| ArgumentNullException | Генерирует ArgumentNullException, если exception равен null |
 
 ### См. также
 
-* класс [CrashReportOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

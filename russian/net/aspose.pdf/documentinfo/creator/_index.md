@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Creator
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentInfo. Получает или устанавливает создателя документа
+title: "DocumentInfo.Creator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentInfo. Получает или задает создателя документа"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/documentinfo/creator/
 ---
-## Свойство DocumentInfo.Creator
+## DocumentInfo.Creator property
 
-Получает или устанавливает создателя документа.
+Получает или задает создателя документа.
 
 ```csharp
 public string Creator { get; set; }
@@ -16,6 +16,8 @@ public string Creator { get; set; }
 
 ### См. также
 
-* класс [DocumentInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

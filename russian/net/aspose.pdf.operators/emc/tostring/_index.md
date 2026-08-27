@@ -1,12 +1,12 @@
 ---
-title: EMC.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод EMC. Возвращает текстовое представление оператора
+title: "EMC.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод EMC. Возвращает текстовое представление оператора"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/emc/tostring/
 ---
-## Метод EMC.ToString
+## EMC.ToString method
 
 Возвращает текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [EMC](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [EMC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

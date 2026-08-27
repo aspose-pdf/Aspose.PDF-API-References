@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.IsHexadecimal
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CosPdfString. Получает значение, указывающее, является ли этот экземпляр шестнадцатеричным
+title: "CosPdfString.IsHexadecimal"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CosPdfString. Возвращает значение, указывающее, является ли этот экземпляр шестнадцатеричным"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.dataeditor/cospdfstring/ishexadecimal/
 ---
-## Свойство CosPdfString.IsHexadecimal
+## CosPdfString.IsHexadecimal property
 
 Получает значение, указывающее, является ли этот экземпляр шестнадцатеричным.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf.dataeditor/cospdfstring/ishexadecimal/
 public bool IsHexadecimal { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-`true`, если этот экземпляр шестнадцатеричный; в противном случае `false`.
+`true`, если этот экземпляр шестнадцатеричный; иначе `false`.
 
 ### См. также
 
-* класс [CosPdfString](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ToolResources.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ToolResources. Конструктор по умолчанию
+title: "ToolResources.ToolResources"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ToolResources. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/toolresources/toolresources/
 ---
-## Конструктор ToolResources
+## ToolResources constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ToolResources()
 
 ### См. также
 
-* класс [ToolResources](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ToolResources](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

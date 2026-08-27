@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.FillIn
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentPrivilege. Позволяет заполнять формы в файле
+title: "DocumentPrivilege.FillIn"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentPrivilege. Позволяет заполнять формы в файле"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/documentprivilege/fillin/
 ---
-## Свойство DocumentPrivilege.FillIn
+## DocumentPrivilege.FillIn property
 
-Позволяет заполнять формы в файле.
+Разрешает заполнение форм в файле.
 
 ```csharp
 public static DocumentPrivilege FillIn { get; }
@@ -16,6 +16,8 @@ public static DocumentPrivilege FillIn { get; }
 
 ### См. также
 
-* класс [DocumentPrivilege](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Tool.Function
-second_title: Aspose.PDF for .NET API Reference
-description: Метод инструмента. Создает новый экземпляр инструмента с указанной функцией
+title: "Tool.Function"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Tool метод. Создает новый экземпляр инструмента с указанной функцией."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/tool/function/
 ---
-## Метод Tool.Function
+## Tool.Function method
 
-Создает новый экземпляр инструмента с указанной функцией.
+Создаёт новый экземпляр инструмента с указанной функцией.
 
 ```csharp
 public static Tool Function(Function function)
@@ -16,7 +16,7 @@ public static Tool Function(Function function)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| function | Function | Функция, которую модель может вызвать. |
+| функция | Функция | Функция, которую может вызвать модель. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public static Tool Function(Function function)
 
 ### См. также
 
-* класс [Function](../../function/)
-* класс [Tool](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Function](../../function/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

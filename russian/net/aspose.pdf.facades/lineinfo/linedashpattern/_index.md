@@ -1,14 +1,14 @@
 ---
-title: LineInfo.LineDashPattern
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LineInfo. Получает или задает шаблон штриха линии
+title: "LineInfo.LineDashPattern"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LineInfo. Получает или задаёт шаблон пунктирной линии"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/lineinfo/linedashpattern/
 ---
-## Свойство LineInfo.LineDashPattern
+## LineInfo.LineDashPattern property
 
-Получает или задает шаблон штриха линии.
+Получает или задаёт шаблон штриха линии.
 
 ```csharp
 public int[] LineDashPattern { get; set; }
@@ -16,6 +16,8 @@ public int[] LineDashPattern { get; set; }
 
 ### См. также
 
-* класс [LineInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

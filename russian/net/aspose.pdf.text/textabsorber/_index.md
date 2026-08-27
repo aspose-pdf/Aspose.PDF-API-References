@@ -1,14 +1,14 @@
 ---
-title: Class TextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.TextAbsorber. Представляет объект-абсорбер текста. Выполняет извлечение текста и предоставляет доступ к результату через объект [`Text`](./text/).
+title: "Класс TextAbsorber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.TextAbsorber. Представляет объект‑поглотитель текста. Выполняет извлечение текста и предоставляет доступ к результату через объект Text."
 type: docs
-weight: 10800
+weight: 10980
 url: /ru/net/aspose.pdf.text/textabsorber/
 ---
-## Класс TextAbsorber
+## TextAbsorber class
 
-Представляет объект-абсорбер текста. Выполняет извлечение текста и предоставляет доступ к результату через объект [`Text`](./text/).
+Представляет объект‑поглотитель текста. Выполняет извлечение текста и предоставляет доступ к результату через объект [`Text`](./text/).
 
 ```csharp
 public class TextAbsorber
@@ -27,10 +27,10 @@ public class TextAbsorber
 
 | Имя | Описание |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | Список объектов [`TextExtractionError`](../textextractionerror/). Содержит информацию об ошибках, найденных во время извлечения текста. Поиск ошибок будет выполняться только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
-| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions/) { get; set; } | Получает или задает параметры извлечения текста. |
-| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | Значение указывает, были ли найдены ошибки во время извлечения текста. Поиск ошибок будет выполняться только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
-| virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | Получает извлеченный текст, который `TextAbsorber` извлекает из PDF-документа или страницы. |
+| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | Список объектов [`TextExtractionError`](../textextractionerror/). Он содержит информацию об ошибках, обнаруженных во время извлечения текста. Поиск ошибок будет выполнен только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
+| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions/) { get; set; } | Получает или задаёт параметры извлечения текста. |
+| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | Значение указывает, были ли обнаружены ошибки во время извлечения текста. Поиск ошибок будет выполнен только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
+| virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | Получает извлечённый текст, который `TextAbsorber` извлекает из PDF‑документа или страницы. |
 | virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions/) { get; set; } | Получает или задает параметры поиска текста. |
 
 ## Методы
@@ -41,30 +41,32 @@ public class TextAbsorber
 | virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_1)(Page) | Извлекает текст из указанной страницы |
 | virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_2)(XForm) | Извлекает текст из указанного XForm. |
 
-## Замечания
+## Примечания
 
-Объект `TextAbsorber` используется для извлечения текста из PDF-документа или страницы документа.
+Объект `TextAbsorber` используется для извлечения текста из PDF‑документа или его страницы.
 
 ## Примеры
 
-Пример демонстрирует, как извлечь текст на первой странице PDF-документа.
+Пример демонстрирует, как извлечь текст на первой странице PDF‑документа.
 
 ```csharp
-// open document
+// открыть документ
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// создайте объект TextAbsorber для извлечения текста
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for first page
+// принять абсорбер для первой страницы
 doc.Pages[1].Accept(absorber);
 
-// get the extracted text
+// получить извлечённый текст
 string extractedText = absorber.Text;
 
 ```
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

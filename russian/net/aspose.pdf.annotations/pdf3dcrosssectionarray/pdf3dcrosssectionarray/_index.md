@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSectionArray.PDF3DCrossSectionArray
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PDF3DCrossSectionArray. Инициализирует новый экземпляр класса PDF3DCrossSectionArray
+title: "PDF3DCrossSectionArray.PDF3DCrossSectionArray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PDF3DCrossSectionArray. Инициализирует новый экземпляр класса PDF3DCrossSectionArray"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dcrosssectionarray/pdf3dcrosssectionarray/
 ---
-## Конструктор PDF3DCrossSectionArray
+## PDF3DCrossSectionArray constructor
 
 Инициализирует новый экземпляр класса [`PDF3DCrossSectionArray`](../).
 
@@ -20,7 +20,9 @@ public PDF3DCrossSectionArray(Document doc)
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PDF3DCrossSectionArray](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод EmbeddedFileCollection. Удалить встроенный файл по имени
+title: "EmbeddedFileCollection.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод EmbeddedFileCollection. Удалить вложенный файл по имени"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/embeddedfilecollection/delete/
 ---
 ## Delete(string) {#delete_1}
 
-Удалить встроенный файл по имени.
+Удалить вложенный файл по имени.
 
 ```csharp
 public void Delete(string name)
@@ -16,19 +16,19 @@ public void Delete(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя встроенного файла, который должен быть удален. |
+| имя | String | Имя вложенного файла, который следует удалить. |
 
 ### См. также
 
-* класс [EmbeddedFileCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Delete() {#delete}
 
-Удалить все встроенные файлы из документа.
+Удалить все вложенные файлы из документа.
 
 ```csharp
 public void Delete()
@@ -36,6 +36,8 @@ public void Delete()
 
 ### См. также
 
-* класс [EmbeddedFileCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

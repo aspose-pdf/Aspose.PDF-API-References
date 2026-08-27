@@ -1,12 +1,12 @@
 ---
-title: XmpValue.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpValue. Преобразует XmpValue в массив
+title: "XmpValue.op_Explicit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpValue. Преобразует XmpValue в массив"
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf/xmpvalue/op_explicit/
 ---
-## явный оператор {#op_explicit}
+## explicit operator {#op_explicit}
 
 Преобразует XmpValue в массив.
 
@@ -16,7 +16,7 @@ public static explicit operator XmpValue[](XmpValue value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | XmpValue | Значение для преобразования. |
+| значение | XmpValue | Значение для преобразования. |
 
 ### Возвращаемое значение
 
@@ -24,13 +24,13 @@ XmlValue.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## явный оператор {#op_explicit_3}
+## explicit operator {#op_explicit_3}
 
 Преобразует XmpValue в массив.
 
@@ -40,7 +40,7 @@ public static explicit operator object[](XmpValue value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | XmpValue | Значение для преобразования. |
+| значение | XmpValue | Значение для преобразования. |
 
 ### Возвращаемое значение
 
@@ -48,13 +48,13 @@ XmlValue.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## явный оператор {#op_explicit_4}
+## explicit operator {#op_explicit_4}
 
 Преобразует XmpValue в строку.
 
@@ -64,7 +64,7 @@ public static explicit operator string(XmpValue value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | XmpValue | Значение для преобразования. |
+| значение | XmpValue | Значение для преобразования. |
 
 ### Возвращаемое значение
 
@@ -72,13 +72,13 @@ XmlValue.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## явный оператор {#op_explicit_1}
+## explicit operator {#op_explicit_1}
 
 Преобразует XmpValue в именованное значение.
 
@@ -88,7 +88,7 @@ public static explicit operator KeyValuePair<string, XmpValue>(XmpValue value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | XmpValue | Значение для преобразования. |
+| значение | XmpValue | Значение для преобразования. |
 
 ### Возвращаемое значение
 
@@ -96,13 +96,13 @@ XmlValue.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## явный оператор {#op_explicit_2}
+## explicit operator {#op_explicit_2}
 
 ```csharp
 public static explicit operator KeyValuePair<string, XmpValue>[](XmpValue value)
@@ -110,6 +110,8 @@ public static explicit operator KeyValuePair<string, XmpValue>[](XmpValue value)
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

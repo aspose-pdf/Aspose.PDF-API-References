@@ -1,7 +1,7 @@
 ---
-title: SetColorStroke.SetColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetColorStroke. Инициализирует оператор
+title: "SetColorStroke.SetColorStroke"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetColorStroke. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setcolorstroke/setcolorstroke/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.operators/setcolorstroke/setcolorstroke/
 public SetColorStroke()
 ```
 
-### See Also
+### См. также
 
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,17 +24,17 @@ public SetColorStroke()
 
 ## SetColorStroke(double) {#constructor_1}
 
-Устанавливает цвет для операторов обводки для цветовых пространств DeviceGray, CalGray и Indexed.
+Установить цвет для операторов обводки для цветовых пространств DeviceGray, CalGray и Indexed.
 
 ```csharp
 public SetColorStroke(double g)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | g | Double | Значение цвета. |
 
-### See Also
+### См. также
 
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -44,19 +44,19 @@ public SetColorStroke(double g)
 
 ## SetColorStroke(double, double, double) {#constructor_2}
 
-Устанавливает цвет для оператора обводки для цветовых пространств DeviceRGB, CalRGB и Lab.
+Установить цвет для оператора обводки для цветовых пространств DeviceRGB, CalRGB и Lab
 
 ```csharp
 public SetColorStroke(double r, double g, double b)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | r | Double | Красный компонент. |
-| g | Double | Зеленый компонент. |
+| g | Double | Зелёный компонент. |
 | b | Double | Синий компонент. |
 
-### See Also
+### См. также
 
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -66,17 +66,17 @@ public SetColorStroke(double r, double g, double b)
 
 ## SetColorStroke(double[]) {#constructor_4}
 
-Конструктор, который позволяет установить компоненты цвета.
+Конструктор, позволяющий установить компоненты цвета.
 
 ```csharp
 public SetColorStroke(double[] color)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | color | Double[] | Массив компонентов цвета. |
 
-### See Also
+### См. также
 
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -86,21 +86,23 @@ public SetColorStroke(double[] color)
 
 ## SetColorStroke(double, double, double, double) {#constructor_3}
 
-Устанавливает цвет для оператора обводки для цветового пространства CMYK.
+Установить цвет для оператора обводки для цветового пространства CMYK
 
 ```csharp
 public SetColorStroke(double c, double m, double y, double k)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| c | Double | Циан компонент. |
-| m | Double | Магента компонент. |
+| c | Double | Циановый компонент. |
+| m | Double | Пурпурный компонент. |
 | y | Double | Желтый компонент. |
 | k | Double | Черный компонент. |
 
-### See Also
+### См. также
 
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

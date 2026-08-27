@@ -1,12 +1,12 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ColorType Aspose.Pdf. Указывает тип цвета элементов на странице
+title: "Перечисление ColorType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.ColorType перечисление. Указывает тип цвета элементов на странице."
 type: docs
-weight: 3100
+weight: 3210
 url: /ru/net/aspose.pdf/colortype/
 ---
-## Перечисление ColorType
+## ColorType enumeration
 
 Указывает тип цвета элементов на странице.
 
@@ -16,14 +16,16 @@ public enum ColorType
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Rgb | `0` | Тип цвета RGB. |
-| Grayscale | `1` | Тип цвета в градациях серого. |
-| BlackAndWhite | `2` | Черно-белый тип цвета. |
-| Undefined | `3` | Неопределенное значение типа цвета. |
+| Grayscale | `1` | Тип цвета оттенков серого. |
+| BlackAndWhite | `2` | Тип цвета черно‑белый. |
+| Undefined | `3` | Неопределённое значение типа цвета. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

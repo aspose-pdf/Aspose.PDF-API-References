@@ -1,12 +1,12 @@
 ---
-title: TextStyle.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStyle. Название шрифта
+title: "TextStyle.FontName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextStyle. Имя шрифта"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/textstyle/fontname/
 ---
-## Свойство TextStyle.FontName
+## TextStyle.FontName property
 
 Название шрифта.
 
@@ -16,6 +16,8 @@ public string FontName { get; set; }
 
 ### См. также
 
-* класс [TextStyle](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

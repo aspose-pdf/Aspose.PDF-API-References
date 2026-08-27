@@ -1,12 +1,12 @@
 ---
-title: OcspSettings.OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор OcspSettings. Инициализирует новый экземпляр класса OcspSettings
+title: "OcspSettings.OcspSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор OcspSettings. Инициализирует новый экземпляр класса OcspSettings"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/ocspsettings/ocspsettings/
 ---
-## Конструктор OcspSettings
+## OcspSettings constructor
 
 Инициализирует новый экземпляр класса [`OcspSettings`](../).
 
@@ -16,10 +16,12 @@ public OcspSettings(string serverUrl)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| serverUrl | String | URL сервера ocsp. |
+| serverUrl | String | URL сервера OCSP. |
 
 ### См. также
 
-* класс [OcspSettings](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OcspSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

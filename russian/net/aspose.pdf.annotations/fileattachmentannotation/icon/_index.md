@@ -1,14 +1,14 @@
 ---
-title: FileAttachmentAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileAttachmentAnnotation. Получает или устанавливает значок, который будет использоваться для отображения аннотации
+title: "FileAttachmentAnnotation.Icon"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileAttachmentAnnotation. Получает или задает значок, который будет использоваться при отображении аннотации"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/fileattachmentannotation/icon/
 ---
-## Свойство FileAttachmentAnnotation.Icon
+## FileAttachmentAnnotation.Icon property
 
-Получает или устанавливает значок, который будет использоваться для отображения аннотации.
+Получает или задает значок, который будет использоваться при отображении аннотации.
 
 ```csharp
 public FileIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public FileIcon Icon { get; set; }
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AbsorbedRow.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AbsorbedRow. Получает прямоугольник, который описывает положение строки на странице
+title: "AbsorbedRow.Rectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AbsorbedRow. Возвращает прямоугольник, описывающий положение строки на странице"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/absorbedrow/rectangle/
 ---
-## Свойство AbsorbedRow.Rectangle
+## AbsorbedRow.Rectangle property
 
-Получает прямоугольник, который описывает положение строки на странице
+Получает прямоугольник, описывающий позицию строки на странице
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [AbsorbedRow](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [AbsorbedRow](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

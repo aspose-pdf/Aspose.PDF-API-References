@@ -1,9 +1,9 @@
 ---
-title: Class ResponseFormat.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.ResponseFormatObjectType. Представляет значение объекта в формате ответа
+title: "Класс ResponseFormat.ObjectType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.ResponseFormatObjectType. Представляет значение объекта в формате ответа"
 type: docs
-weight: 970
+weight: 1050
 url: /ru/net/aspose.pdf.ai/responseformat.objecttype/
 ---
 ## ResponseFormat.ObjectType class
@@ -14,20 +14,22 @@ url: /ru/net/aspose.pdf.ai/responseformat.objecttype/
 public class ObjectType
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [ObjectType](../../aspose.pdf.ai/responseformat.objecttype/.ctor)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [ResponseType](../../aspose.pdf.ai/responseformat.objecttype/responsetype) { get; set; } | Получает или задает тип значения объекта. |
 
-### See Also
+### См. также
 
 * class [ResponseFormat](../responseformat/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

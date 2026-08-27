@@ -1,14 +1,14 @@
 ---
-title: Embedding.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Embedding. Получает или устанавливает индекс встраивания в списке встраиваний
+title: "Embedding.Index"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "свойство Embedding. Получает или задает индекс embedding в списке embedding'ов"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/embedding/index/
 ---
-## Свойство Embedding.Index
+## Embedding.Index property
 
-Получает или устанавливает индекс встраивания в списке встраиваний.
+Получает или задает индекс вложения в списке вложений.
 
 ```csharp
 public int Index { get; set; }
@@ -16,6 +16,8 @@ public int Index { get; set; }
 
 ### См. также
 
-* класс [Embedding](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Embedding](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

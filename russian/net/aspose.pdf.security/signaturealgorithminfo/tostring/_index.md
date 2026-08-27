@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SignatureAlgorithmInfo. Преобразует текущий объект информации в его строковое представление
+title: "SignatureAlgorithmInfo.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SignatureAlgorithmInfo. Преобразует текущий объект информации в его строковое представление."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.security/signaturealgorithminfo/tostring/
 ---
-## Метод SignatureAlgorithmInfo.ToString
+## SignatureAlgorithmInfo.ToString method
 
 Преобразует текущий объект информации в его строковое представление.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [SignatureAlgorithmInfo](../)
-* пространство имен [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

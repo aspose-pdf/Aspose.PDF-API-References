@@ -1,12 +1,12 @@
 ---
-title: KeyedSignatureAlgorithmInfo.KeySize
-second_title: Aspose.PDF for .NET API Reference
-description: Поле KeyedSignatureAlgorithmInfo. Получает размер криптографического ключа, используемого алгоритмом подписи
+title: "KeyedSignatureAlgorithmInfo.KeySize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле KeyedSignatureAlgorithmInfo. Возвращает размер криптографического ключа, используемого алгоритмом подписи"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.security/keyedsignaturealgorithminfo/keysize/
 ---
-## Поле KeyedSignatureAlgorithmInfo.KeySize
+## KeyedSignatureAlgorithmInfo.KeySize field
 
 Получает размер криптографического ключа, используемого алгоритмом подписи.
 
@@ -16,6 +16,8 @@ public readonly int KeySize;
 
 ### См. также
 
-* класс [KeyedSignatureAlgorithmInfo](../)
-* пространство имен [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* сборка [Aspose.PDF](../../../)
+* class [KeyedSignatureAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

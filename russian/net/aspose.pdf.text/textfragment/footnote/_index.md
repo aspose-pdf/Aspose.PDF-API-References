@@ -1,14 +1,14 @@
 ---
-title: TextFragment.FootNote
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragment. Получает или устанавливает сноску абзаца.
+title: "TextFragment.FootNote"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragment. Возвращает или задает сноску абзаца. Только для генерации PDF"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/textfragment/footnote/
 ---
-## Свойство TextFragment.FootNote
+## TextFragment.FootNote property
 
-Получает или устанавливает сноску абзаца. (только для генерации pdf)
+Получает или задает сноску абзаца (только для генерации PDF).
 
 ```csharp
 public Note FootNote { get; set; }
@@ -16,7 +16,9 @@ public Note FootNote { get; set; }
 
 ### См. также
 
-* класс [Note](../../../aspose.pdf/note/)
-* класс [TextFragment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Note](../../../aspose.pdf/note/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

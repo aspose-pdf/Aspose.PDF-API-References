@@ -1,14 +1,14 @@
 ---
-title: Class DiffOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Comparison.DiffOperation. Представляет класс операции сравнения
+title: "Класс DiffOperation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Comparison.DiffOperation. Представляет класс операции diff."
 type: docs
-weight: 3160
+weight: 3270
 url: /ru/net/aspose.pdf.comparison/diffoperation/
 ---
-## Класс DiffOperation
+## DiffOperation class
 
-Представляет класс операции сравнения.
+Представляет класс операции diff.
 
 ```csharp
 public class DiffOperation : IEquatable<DiffOperation>
@@ -18,8 +18,8 @@ public class DiffOperation : IEquatable<DiffOperation>
 
 | Имя | Описание |
 | --- | --- |
-| [Operation](../../aspose.pdf.comparison/diffoperation/operation/) { get; } | Получает и устанавливает тип операции. |
-| [Text](../../aspose.pdf.comparison/diffoperation/text/) { get; } | Получает и устанавливает текст операции. |
+| [Operation](../../aspose.pdf.comparison/diffoperation/operation/) { get; } | Получает и задаёт тип операции. |
+| [Text](../../aspose.pdf.comparison/diffoperation/text/) { get; } | Получить и установить текст операции. |
 
 ## Методы
 
@@ -32,5 +32,7 @@ public class DiffOperation : IEquatable<DiffOperation>
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

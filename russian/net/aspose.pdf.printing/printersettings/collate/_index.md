@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.Collate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PrinterSettings. Получает или устанавливает значение, указывающее, сгруппирована ли печать
+title: "PrinterSettings.Collate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PrinterSettings. Получает или задает значение, указывающее, сортирована ли печать"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.printing/printersettings/collate/
 ---
-## Свойство PrinterSettings.Collate
+## PrinterSettings.Collate property
 
-Получает или устанавливает значение, указывающее, сгруппирована ли печать.
+Получает или задает значение, указывающее, объединён ли вывод печати.
 
 ```csharp
 public bool Collate { get; set; }
@@ -16,6 +16,8 @@ public bool Collate { get; set; }
 
 ### См. также
 
-* класс [PrinterSettings](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

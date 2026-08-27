@@ -1,12 +1,12 @@
 ---
-title: Enum ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Перечисление Aspose.Pdf.ColorSpace. Перечисление цветовых пространств
+title: "Перечисление ColorSpace"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.ColorSpace. Перечисление цветовых пространств"
 type: docs
-weight: 3090
+weight: 3200
 url: /ru/net/aspose.pdf/colorspace/
 ---
-## Перечисление ColorSpace
+## ColorSpace enumeration
 
 Перечисление цветовых пространств.
 
@@ -18,11 +18,13 @@ public enum ColorSpace
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| DeviceRGB | `0` | Цветовое пространство RGB, зависящее от устройства. |
-| DeviceCMYK | `1` | Цветовое пространство CMYK, зависящее от устройства. |
-| DeviceGray | `2` | Цветовое пространство серого, зависящее от устройства. |
+| DeviceRGB | `0` | Зависимое от устройства цветовое пространство RGB. |
+| DeviceCMYK | `1` | Зависимое от устройства цветовое пространство CMYK. |
+| DeviceGray | `2` | Зависимое от устройства серое цветовое пространство. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.IgnoredTextFontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlSaveOptions. Текст с указанным размером или меньше будет игнорироваться во время конвертации. Мы не удаляем этот текст, мы игнорируем его и не передаем в выходной файл
+title: "HtmlSaveOptions.IgnoredTextFontSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlSaveOptions. Текст указанного размера или меньше будет игнорироваться при конвертации. Мы не удаляем этот текст, а игнорируем его и не переносим в выходной файл."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/htmlsaveoptions/ignoredtextfontsize/
 ---
-## Свойство HtmlSaveOptions.IgnoredTextFontSize
+## HtmlSaveOptions.IgnoredTextFontSize property
 
-Текст с указанным размером или меньше будет игнорироваться во время конвертации. Мы не удаляем этот текст, мы игнорируем его и не передаем в выходной файл
+Текст указанного размера или меньше будет игнорироваться при конвертации. Мы не удаляем этот текст, а просто игнорируем его и не переносим в выходной файл.
 
 ```csharp
 public float? IgnoredTextFontSize { get; set; }
@@ -16,6 +16,8 @@ public float? IgnoredTextFontSize { get; set; }
 
 ### См. также
 
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

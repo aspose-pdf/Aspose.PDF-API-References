@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignMiddle
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет вертикальное выравнивание как стиль по центру
+title: "FormFieldFacade.AlignMiddle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле FormFieldFacade. Определяет вертикальное выравнивание как среднее"
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.facades/formfieldfacade/alignmiddle/
 ---
-## Поле FormFieldFacade.AlignMiddle
+## FormFieldFacade.AlignMiddle field
 
-Определяет вертикальное выравнивание как стиль по центру.
+Определяет вертикальное выравнивание как средний стиль.
 
 ```csharp
 public const int AlignMiddle;
@@ -16,6 +16,8 @@ public const int AlignMiddle;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

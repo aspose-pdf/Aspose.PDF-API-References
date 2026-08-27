@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Header
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileInfo. Получает или устанавливает настраиваемую информацию о PDF-документе
+title: "PdfFileInfo.Header"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileInfo. Получает или задает пользовательскую информацию PDF‑документа."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdffileinfo/header/
 ---
-## Свойство PdfFileInfo.Header
+## PdfFileInfo.Header property
 
-Получает или устанавливает настраиваемую информацию о PDF-документе.
+Получает или задает пользовательскую информацию PDF‑документа.
 
 ```csharp
 public Dictionary<string, string> Header { get; set; }
@@ -16,6 +16,8 @@ public Dictionary<string, string> Header { get; set; }
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.SimpleTextboxModeGrouping
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlSaveOptions. Этот атрибут определяет последовательную группировку глифов и слов в строки. Например, теги и слова имеют разный порядок в преобразованном HTML, и вы хотите, чтобы они совпадали. Этот параметр будет применен к документу только в том случае, если значение атрибута FixedLayout равно true.
+title: "HtmlSaveOptions.SimpleTextboxModeGrouping"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlSaveOptions. Этот атрибут задаёт последовательную группировку глифов и слов в строки. Например, теги и слова имеют разный порядок в конвертированном HTML, и вы хотите, чтобы они совпадали. Этот параметр будет применён к документу только когда значение атрибута FixedLayout равно true."
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf/htmlsaveoptions/simpletextboxmodegrouping/
 ---
-## Свойство HtmlSaveOptions.SimpleTextboxModeGrouping
+## HtmlSaveOptions.SimpleTextboxModeGrouping property
 
-Этот атрибут определяет последовательную группировку глифов и слов в строки. Например, теги и слова имеют разный порядок в преобразованном HTML, и вы хотите, чтобы они совпадали. Этот параметр будет применен к документу только в том случае, если значение атрибута FixedLayout равно true.
+Этот атрибут задает последовательную группировку глифов и слов в строки. Например, теги и слова имеют разный порядок в конвертированном HTML, и вы хотите, чтобы они совпадали. Этот параметр будет применён к документу только когда значение атрибута FixedLayout равно true.
 
 ```csharp
 public bool SimpleTextboxModeGrouping { get; set; }
@@ -16,6 +16,8 @@ public bool SimpleTextboxModeGrouping { get; set; }
 
 ### См. также
 
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Tool.ToolFunction
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Tool. Получает или устанавливает функцию, которую модель может вызывать
+title: "Tool.ToolFunction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Tool свойство. Получает или задает функцию, которую может вызвать модель."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/tool/toolfunction/
 ---
-## Свойство Tool.ToolFunction
+## Tool.ToolFunction property
 
-Получает или устанавливает функцию, которую модель может вызывать.
+Получает или задает функцию, которую может вызвать модель.
 
 ```csharp
 public Function ToolFunction { get; set; }
@@ -16,7 +16,9 @@ public Function ToolFunction { get; set; }
 
 ### См. также
 
-* класс [Function](../../function/)
-* класс [Tool](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Function](../../function/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

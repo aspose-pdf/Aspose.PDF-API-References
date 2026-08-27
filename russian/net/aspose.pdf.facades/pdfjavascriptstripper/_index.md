@@ -1,14 +1,14 @@
 ---
-title: Class PdfJavaScriptStripper
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.PdfJavaScriptStripper. Класс для удаления всего Java Script кода
+title: "Класс PdfJavaScriptStripper"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Facades.PdfJavaScriptStripper. Класс для удаления всего кода Java Script"
 type: docs
-weight: 4580
+weight: 4700
 url: /ru/net/aspose.pdf.facades/pdfjavascriptstripper/
 ---
-## Класс PdfJavaScriptStripper
+## PdfJavaScriptStripper class
 
-Класс для удаления всего Java Script кода.
+Класс для удаления всего кода Java Script.
 
 ```csharp
 public sealed class PdfJavaScriptStripper
@@ -29,5 +29,7 @@ public sealed class PdfJavaScriptStripper
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

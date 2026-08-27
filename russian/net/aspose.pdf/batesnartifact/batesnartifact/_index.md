@@ -1,14 +1,14 @@
 ---
-title: BatesNArtifact.BatesNArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BatesNArtifact. Инициализирует новый экземпляр класса BatesNArtifact. Этот конструктор является внутренним и создает экземпляр артефакта заголовка с значениями по умолчанию
+title: "BatesNArtifact.BatesNArtifact"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BatesNArtifact. Инициализирует новый экземпляр класса BatesNArtifact. Этот конструктор является внутренним и создает экземпляр артефакта заголовка со значениями по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/batesnartifact/batesnartifact/
 ---
-## Конструктор BatesNArtifact
+## BatesNArtifact constructor
 
-Инициализирует новый экземпляр класса [`BatesNArtifact`](../). Этот конструктор является внутренним и создает экземпляр артефакта заголовка с значениями по умолчанию.
+Инициализирует новый экземпляр класса [`BatesNArtifact`](../). Этот конструктор является внутренним и создает экземпляр артефакта заголовка со значениями по умолчанию.
 
 ```csharp
 public BatesNArtifact()
@@ -16,6 +16,8 @@ public BatesNArtifact()
 
 ### См. также
 
-* класс [BatesNArtifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BatesNArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

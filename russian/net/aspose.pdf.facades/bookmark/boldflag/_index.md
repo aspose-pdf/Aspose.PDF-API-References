@@ -1,14 +1,14 @@
 ---
-title: Bookmark.BoldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает флаг жирного шрифта заголовка закладок
+title: "Bookmark.BoldFlag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Возвращает или задает флаг полужирного начертания заголовка закладки"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/bookmark/boldflag/
 ---
-## Свойство Bookmark.BoldFlag
+## Bookmark.BoldFlag property
 
-Получает или устанавливает флаг жирного шрифта заголовка закладки.
+Получает или задает флаг полужирного начертания заголовка закладки.
 
 ```csharp
 public bool BoldFlag { get; set; }
@@ -16,6 +16,8 @@ public bool BoldFlag { get; set; }
 
 ### См. также
 
-* класс [Bookmark](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

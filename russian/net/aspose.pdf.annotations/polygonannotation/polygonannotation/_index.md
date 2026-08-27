@@ -1,7 +1,7 @@
 ---
-title: PolygonAnnotation.PolygonAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PolygonAnnotation. Конструктор для использования с Generator
+title: "PolygonAnnotation.PolygonAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PolygonAnnotation. Конструктор для использования с Generator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/polygonannotation/polygonannotation/
@@ -16,22 +16,22 @@ public PolygonAnnotation(Document document, Point[] vertices)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ, в который будет добавлена аннотация. |
-| vertices | Point[] | Массив точек. |
+| документ | Document | Document, в котором будет добавлена аннотация. |
+| вершины | Point[] | Массив точек. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [Point](../../../aspose.pdf/point/)
-* класс [PolygonAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Point](../../../aspose.pdf/point/)
+* class [PolygonAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PolygonAnnotation(Page, Rectangle, Point[]) {#constructor_1}
 
-Создает новую аннотацию Polygon на указанной странице.
+Создает новую полигональную аннотацию на указанной странице.
 
 ```csharp
 public PolygonAnnotation(Page page, Rectangle rect, Point[] vertices)
@@ -39,15 +39,17 @@ public PolygonAnnotation(Page page, Rectangle rect, Point[] vertices)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница документа, на которой должна быть создана аннотация. |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
-| vertices | Point[] | Массив точек вершин многоугольника. |
+| страница | Страница | Страница Document, где следует создать аннотацию. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий её расположение на странице. |
+| вершины | Point[] | Массив точек вершин полигона. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [Point](../../../aspose.pdf/point/)
-* класс [PolygonAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
+* class [PolygonAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

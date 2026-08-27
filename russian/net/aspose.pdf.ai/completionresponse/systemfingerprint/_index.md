@@ -1,14 +1,14 @@
 ---
-title: CompletionResponse.SystemFingerprint
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompletionResponse. Получает или задает отпечаток, который представляет конфигурацию бэкенда, с которой работает модель. Может использоваться вместе с параметром запроса seed для понимания, когда были внесены изменения в бэкенд, которые могут повлиять на детерминизм.
+title: "CompletionResponse.SystemFingerprint"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CompletionResponse. Получает или задает отпечаток, представляющий конфигурацию бэкенда, с которой работает модель. Может использоваться вместе с параметром seed запроса, чтобы понять, когда были внесены изменения в бэкенд, которые могут повлиять на детерминированность"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.ai/completionresponse/systemfingerprint/
 ---
-## Свойство CompletionResponse.SystemFingerprint
+## CompletionResponse.SystemFingerprint property
 
-Получает или задает отпечаток, который представляет конфигурацию бэкенда, с которой работает модель. Может использоваться вместе с параметром запроса seed для понимания, когда были внесены изменения в бэкенд, которые могут повлиять на детерминизм.
+Получает или задает отпечаток, представляющий конфигурацию бэкенда, с которой работает модель. Может использоваться вместе с параметром seed запроса, чтобы понять, когда были внесены изменения в бэкенд, которые могут повлиять на детерминированность.
 
 ```csharp
 public string SystemFingerprint { get; set; }
@@ -16,6 +16,8 @@ public string SystemFingerprint { get; set; }
 
 ### См. также
 
-* класс [CompletionResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: TiffDevice.TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TiffDevice. Инициализирует новый экземпляр класса TiffDevice
+title: "TiffDevice.TiffDevice"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TiffDevice. Инициализирует новый экземпляр класса TiffDevice"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/tiffdevice/tiffdevice/
@@ -16,14 +16,14 @@ public TiffDevice(Resolution resolution)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| resolution | Resolution | Разрешение для результирующего файла изображения. |
+| resolution | Разрешение | Разрешение для результирующего файла изображения. |
 
 ### См. также
 
-* класс [Resolution](../../resolution/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,16 +37,16 @@ public TiffDevice(Resolution resolution, TiffSettings settings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| resolution | Resolution | Разрешение для выходного изображения. |
+| resolution | Разрешение | Разрешение для выходного изображения. |
 | settings | TiffSettings | Настройки Tiff, см. класс [`TiffSettings`](../../tiffsettings/). |
 
 ### См. также
 
-* класс [Resolution](../../resolution/)
-* класс [TiffSettings](../../tiffsettings/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,18 +60,18 @@ public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConv
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| resolution | Resolution | Разрешение для выходного изображения. |
+| resolution | Разрешение | Разрешение для выходного изображения. |
 | settings | TiffSettings | Настройки Tiff, см. класс [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Внешний конвертер |
+| конвертер | IIndexBitmapConverter | Внешний конвертер |
 
 ### См. также
 
-* класс [Resolution](../../resolution/)
-* класс [TiffSettings](../../tiffsettings/)
-* интерфейс [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -89,10 +89,10 @@ public TiffDevice(TiffSettings settings)
 
 ### См. также
 
-* класс [TiffSettings](../../tiffsettings/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -107,15 +107,15 @@ public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | settings | TiffSettings | Настройки Tiff, см. класс [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Внешний конвертер |
+| конвертер | IIndexBitmapConverter | Внешний конвертер |
 
 ### См. также
 
-* класс [TiffSettings](../../tiffsettings/)
-* интерфейс [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -129,9 +129,9 @@ public TiffDevice()
 
 ### См. также
 
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -147,16 +147,16 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 | --- | --- | --- |
 | width | Int32 | Ширина выходного изображения. |
 | height | Int32 | Высота выходного изображения. |
-| resolution | Resolution | Разрешение для выходного изображения. |
+| resolution | Разрешение | Разрешение для выходного изображения. |
 | settings | TiffSettings | Настройки Tiff, см. класс [`TiffSettings`](../../tiffsettings/). |
 
 ### См. также
 
-* класс [Resolution](../../resolution/)
-* класс [TiffSettings](../../tiffsettings/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -173,18 +173,18 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 | --- | --- | --- |
 | width | Int32 | Ширина выходного изображения. |
 | height | Int32 | Высота выходного изображения. |
-| resolution | Resolution | Разрешение для выходного изображения. |
+| resolution | Разрешение | Разрешение для выходного изображения. |
 | settings | TiffSettings | Настройки Tiff, см. класс [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Внешний конвертер |
+| конвертер | IIndexBitmapConverter | Внешний конвертер |
 
 ### См. также
 
-* класс [Resolution](../../resolution/)
-* класс [TiffSettings](../../tiffsettings/)
-* интерфейс [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -199,17 +199,17 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| resolution | Resolution | Разрешение для выходного изображения. |
+| resolution | Разрешение | Разрешение для выходного изображения. |
 | settings | TiffSettings | Настройки Tiff, см. класс [`TiffSettings`](../../tiffsettings/). |
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [Resolution](../../resolution/)
-* класс [TiffSettings](../../tiffsettings/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -225,19 +225,19 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| resolution | Resolution | Разрешение для выходного изображения. |
+| resolution | Разрешение | Разрешение для выходного изображения. |
 | settings | TiffSettings | Настройки Tiff, см. класс [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Внешний конвертер |
+| конвертер | IIndexBitmapConverter | Внешний конвертер |
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [Resolution](../../resolution/)
-* класс [TiffSettings](../../tiffsettings/)
-* интерфейс [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -253,14 +253,14 @@ public TiffDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | Ширина выходного изображения. |
 | height | Int32 | Высота выходного изображения. |
-| resolution | Resolution | Разрешение для выходного изображения. |
+| resolution | Разрешение | Разрешение для выходного изображения. |
 
 ### См. также
 
-* класс [Resolution](../../resolution/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -275,15 +275,15 @@ public TiffDevice(PageSize pageSize, Resolution resolution)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| resolution | Resolution | Разрешение для выходного изображения. |
+| resolution | Разрешение | Разрешение для выходного изображения. |
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [Resolution](../../resolution/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -303,10 +303,10 @@ public TiffDevice(int width, int height, TiffSettings settings)
 
 ### См. также
 
-* класс [TiffSettings](../../tiffsettings/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -323,15 +323,15 @@ public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConv
 | width | Int32 | Ширина выходного изображения. |
 | height | Int32 | Высота выходного изображения. |
 | settings | TiffSettings | Настройки Tiff, см. класс [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Внешний конвертер |
+| конвертер | IIndexBitmapConverter | Внешний конвертер |
 
 ### См. также
 
-* класс [TiffSettings](../../tiffsettings/)
-* интерфейс [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -347,16 +347,16 @@ public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverte
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
 | settings | TiffSettings | Настройки Tiff, см. класс [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Внешний конвертер |
+| конвертер | IIndexBitmapConverter | Внешний конвертер |
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [TiffSettings](../../tiffsettings/)
-* интерфейс [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -375,11 +375,11 @@ public TiffDevice(PageSize pageSize, TiffSettings settings)
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [TiffSettings](../../tiffsettings/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -398,9 +398,9 @@ public TiffDevice(int width, int height)
 
 ### См. также
 
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -418,7 +418,9 @@ public TiffDevice(PageSize pageSize)
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

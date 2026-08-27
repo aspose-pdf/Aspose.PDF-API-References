@@ -1,12 +1,12 @@
 ---
-title: GraphicElement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphicElement. Получает ограничивающий прямоугольник GraphicElement
+title: "GraphicElement.Rectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphicElement. Возвращает ограничивающий прямоугольник GraphicElement."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.vector/graphicelement/rectangle/
 ---
-## Свойство GraphicElement.Rectangle
+## GraphicElement.Rectangle property
 
 Получает ограничивающий прямоугольник [`GraphicElement`](../).
 
@@ -16,7 +16,9 @@ public abstract Rectangle Rectangle { get; }
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [GraphicElement](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

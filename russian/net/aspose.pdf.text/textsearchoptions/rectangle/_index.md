@@ -1,12 +1,12 @@
 ---
-title: TextSearchOptions.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextSearchOptions. Получает или задает прямоугольник, ограничивающий искомый текст
+title: "TextSearchOptions.Rectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextSearchOptions. Получает или задаёт Rectangle, ограничивающий искомый текст."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/textsearchoptions/rectangle/
 ---
-## Свойство TextSearchOptions.Rectangle
+## TextSearchOptions.Rectangle property
 
 Получает или задает прямоугольник, ограничивающий искомый текст.
 
@@ -16,11 +16,13 @@ public Rectangle Rectangle { get; set; }
 
 ## Примечания
 
-Свойство может быть использовано в случае, если требуется ограничить область извлечения текста или замены текста.
+Это свойство может использоваться, если необходимо ограничить область извлечения текста или замену текста.
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [TextSearchOptions](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

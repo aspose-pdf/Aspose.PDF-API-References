@@ -1,14 +1,14 @@
 ---
-title: RunListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Метод RunListQueryParameters. Получает параметры запроса для списка запусков
+title: "RunListQueryParameters.GetQueryParameters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод RunListQueryParameters. Получает параметры запроса для перечисления запусков"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/runlistqueryparameters/getqueryparameters/
 ---
-## Метод RunListQueryParameters.GetQueryParameters
+## RunListQueryParameters.GetQueryParameters method
 
-Получает параметры запроса для списка запусков.
+Получает параметры запроса для перечисления запусков.
 
 ```csharp
 public string GetQueryParameters()
@@ -20,6 +20,8 @@ public string GetQueryParameters()
 
 ### См. также
 
-* класс [RunListQueryParameters](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

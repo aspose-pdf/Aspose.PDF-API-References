@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.Password
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfConverter. Получает или устанавливает OwnerPassword документа
+title: "PdfConverter.Password"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfConverter. Получает или задает OwnerPassword документа"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdfconverter/password/
 ---
-## Свойство PdfConverter.Password
+## PdfConverter.Password property
 
-Получает или устанавливает OwnerPassword документа.
+Получает или задаёт документ OwnerPassword.
 
 ```csharp
 public string Password { get; set; }
@@ -16,6 +16,8 @@ public string Password { get; set; }
 
 ### См. также
 
-* класс [PdfConverter](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

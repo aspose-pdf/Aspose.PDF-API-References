@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextExtractionErrorLocation. Место в PDF документе, где произошла ошибка извлечения текста
+title: "TextExtractionErrorLocation.Path"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextExtractionErrorLocation. Расположение PDF‑документа, где возникла ошибка извлечения текста"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/textextractionerrorlocation/path/
 ---
-## Свойство TextExtractionErrorLocation.Path
+## TextExtractionErrorLocation.Path property
 
-Место в PDF документе, где произошла ошибка извлечения текста.
+Местоположение PDF‑документа, где возникла ошибка извлечения текста.
 
 ```csharp
 public string Path { get; }
@@ -16,6 +16,8 @@ public string Path { get; }
 
 ### См. также
 
-* класс [TextExtractionErrorLocation](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

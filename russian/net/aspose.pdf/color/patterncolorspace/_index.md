@@ -1,14 +1,14 @@
 ---
-title: Color.PatternColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Представляет объект, который указывает цветовое пространство узора
+title: "Color.PatternColorSpace"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Представляет объект, указывающий цветовое пространство шаблона"
 type: docs
 weight: 1520
 url: /ru/net/aspose.pdf/color/patterncolorspace/
 ---
-## Свойство Color.PatternColorSpace
+## Color.PatternColorSpace property
 
-Представляет объект, который указывает цветовое пространство узора.
+Представляет объект, указывающий цветовое пространство шаблона.
 
 ```csharp
 public PatternColorSpace PatternColorSpace { get; set; }
@@ -16,7 +16,9 @@ public PatternColorSpace PatternColorSpace { get; set; }
 
 ### См. также
 
-* класс [PatternColorSpace](../../../aspose.pdf.drawing/patterncolorspace/)
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PatternColorSpace](../../../aspose.pdf.drawing/patterncolorspace/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

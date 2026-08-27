@@ -1,12 +1,12 @@
 ---
-title: GradientAxialShading.Start
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GradientAxialShading. Получает или задает начальную точку
+title: "GradientAxialShading.Start"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GradientAxialShading. Получает или задает начальную точку"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.drawing/gradientaxialshading/start/
 ---
-## Свойство GradientAxialShading.Start
+## GradientAxialShading.Start property
 
 Получает или задает начальную точку.
 
@@ -16,7 +16,9 @@ public Point Start { get; set; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [GradientAxialShading](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientAxialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

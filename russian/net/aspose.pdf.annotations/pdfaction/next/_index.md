@@ -1,12 +1,12 @@
 ---
-title: PdfAction.Next
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfAction. Следующие действия в последовательности
+title: "PdfAction.Next"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfAction. Следующие действия в последовательности"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdfaction/next/
 ---
-## Свойство PdfAction.Next
+## PdfAction.Next property
 
 Следующие действия в последовательности.
 
@@ -16,7 +16,9 @@ public ActionCollection Next { get; }
 
 ### См. также
 
-* класс [ActionCollection](../../actioncollection/)
-* класс [PdfAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [ActionCollection](../../actioncollection/)
+* class [PdfAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

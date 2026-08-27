@@ -1,14 +1,14 @@
 ---
-title: PrintController.OnEndPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PrintController. Срабатывает при начале печати страницы
+title: "PrintController.OnEndPrint"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PrintController. Срабатывает при начале печати страницы"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/printcontroller/onendprint/
 ---
-## Метод PrintController.OnEndPrint
+## PrintController.OnEndPrint method
 
-Срабатывает при начале печати страницы.
+Вызывается при начале печати страницы.
 
 ```csharp
 public override void OnEndPrint(PrintDocument document, PrintEventArgs e)
@@ -16,11 +16,13 @@ public override void OnEndPrint(PrintDocument document, PrintEventArgs e)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | PrintDocument | Документ для печати. |
+| документ | PrintDocument | Документ для печати. |
 | e | PrintEventArgs | Аргументы события. |
 
 ### См. также
 
-* класс [PrintController](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

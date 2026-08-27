@@ -1,27 +1,27 @@
 ---
-title: Aspose.Pdf.LogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: Пространство имен Aspose.Pdf.Tagged.LogicalStructure для классов логической структуры PDF
+title: "Aspose.Pdf.LogicalStructure"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Tagged.LogicalStructure является пространством имён для классов PDF Logical Structure."
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.logicalstructure/
 ---
-**Aspose.Pdf.Tagged.LogicalStructure** — это пространство имен для классов логической структуры PDF.
+Пространство имён **Aspose.Pdf.Tagged.LogicalStructure** — это пространство имён для классов логической структуры PDF.
 
 ## Классы
 
 | Класс | Описание |
 | --- | --- |
-| [AnnotationElement](./annotationelement/) | Представляет базовый класс для элементов структуры аннотации в логической структуре. |
+| [AnnotationElement](./annotationelement/) | Представляет базовый класс для элементов структуры аннотаций в логической структуре. |
 | [AnnotElement](./annotelement/) | Представляет элемент структуры Annot в логической структуре. |
 | [ArtElement](./artelement/) | Представляет элемент структуры Art в логической структуре. |
 | [AttributeKey](./attributekey/) | Представляет стандартные ключи атрибутов. |
-| [AttributeName](./attributename/) | Представляет класс для значений имен атрибутов. |
+| [AttributeName](./attributename/) | Представляет класс для значений имён атрибутов. |
 | [AttributeOwnerStandard](./attributeownerstandard/) | Представляет стандартных владельцев атрибутов. |
 | [BibEntryElement](./bibentryelement/) | Представляет элемент структуры BibEntry в логической структуре. |
 | [BlockQuoteElement](./blockquoteelement/) | Представляет элемент структуры BlockQuote в логической структуре. |
-| [BLSElement](./blselement/) | Представляет базовый класс для элементов структуры блочного уровня в логической структуре. |
-| [BLSTextElement](./blstextelement/) | Представляет базовый класс для элементов текстовой структуры блочного уровня в логической структуре. |
+| [BLSElement](./blselement/) | Представляет базовый класс для блочных элементов структуры в логической структуре. |
+| [BLSTextElement](./blstextelement/) | Представляет базовый класс для блочных текстовых элементов структуры в логической структуре. |
 | [CaptionElement](./captionelement/) | Представляет элемент структуры Caption в логической структуре. |
 | [CodeElement](./codeelement/) | Представляет элемент структуры Code в логической структуре. |
 | [DivElement](./divelement/) | Представляет элемент структуры Div в логической структуре. |
@@ -31,19 +31,19 @@ url: /ru/net/aspose.pdf.logicalstructure/
 | [FigureElement](./figureelement/) | Представляет элемент структуры Figure в логической структуре. |
 | [FormElement](./formelement/) | Представляет элемент структуры Form в логической структуре. |
 | [FormulaElement](./formulaelement/) | Представляет элемент структуры Formula в логической структуре. |
-| [GroupingElement](./groupingelement/) | Представляет базовый класс для элементов структуры группировки в логической структуре. |
+| [GroupingElement](./groupingelement/) | Представляет базовый класс для группирующих элементов структуры в логической структуре. |
 | [HeaderElement](./headerelement/) | Представляет элемент структуры Header в логической структуре. |
-| [IllustrationElement](./illustrationelement/) | Представляет базовый класс для элементов структуры иллюстрации в логической структуре. |
+| [IllustrationElement](./illustrationelement/) | Представляет базовый класс для элементов структуры иллюстраций в логической структуре. |
 | [ILSElement](./ilselement/) | Представляет базовый класс для элементов структуры уровня inline в логической структуре. |
-| [ILSTextElement](./ilstextelement/) | Представляет базовый класс для элементов текстовой структуры уровня inline в логической структуре. |
+| [ILSTextElement](./ilstextelement/) | Представляет базовый класс для элементов структуры текста уровня inline в логической структуре. |
 | [IndexElement](./indexelement/) | Представляет элемент структуры Index в логической структуре. |
 | [LinkElement](./linkelement/) | Представляет элемент структуры Link в логической структуре. |
-| [ListChildElement](./listchildelement/) | Представляет базовый класс для дочерних элементов списка в логической структуре. |
+| [ListChildElement](./listchildelement/) | Представляет базовый класс для дочерних элементов List в логической структуре. |
 | [ListElement](./listelement/) | Представляет элемент структуры List в логической структуре. |
 | [ListLblElement](./listlblelement/) | Представляет элемент структуры Lbl в логической структуре списка. |
 | [ListLBodyElement](./listlbodyelement/) | Представляет элемент структуры LBody в логической структуре списка. |
 | [ListLIElement](./listlielement/) | Представляет элемент структуры LI в логической структуре списка. |
-| [MCRElement](./mcrelement/) | Представляет объект ссылки на отмеченное содержимое в логической структуре. |
+| [MCRElement](./mcrelement/) | Представляет объект ссылки на отмеченный контент в логической структуре. |
 | [NonStructElement](./nonstructelement/) | Представляет элемент структуры NonStruct в логической структуре. |
 | [NoteElement](./noteelement/) | Представляет элемент структуры Note в логической структуре. |
 | [OBJRElement](./objrelement/) | Представляет сущность ссылки на объект в логической структуре. |
@@ -64,7 +64,7 @@ url: /ru/net/aspose.pdf.logicalstructure/
 | [StructureAttributeCollection](./structureattributecollection/) | Представляет коллекцию атрибутов элементов структуры. |
 | [StructureAttributes](./structureattributes/) | Представляет атрибуты элемента структуры для стандартных владельцев атрибутов. |
 | [StructureElement](./structureelement/) | Представляет базовый класс для элементов структуры в логической структуре. |
-| [StructureTextState](./structuretextstate/) | Представляет настройки состояния текста для элементов текстовой структуры и TaggedContent (ITextElement, ITaggedContent) |
+| [StructureTextState](./structuretextstate/) | Представляет настройки состояния текста для Text Structure Elements и TaggedContent (ITextElement, ITaggedContent) |
 | [StructureTypeCategory](./structuretypecategory/) | Представляет категории стандартных типов структуры. |
 | [StructureTypeStandard](./structuretypestandard/) | Представляет стандартные типы структуры. |
 | [TableCellElement](./tablecellelement/) | Представляет базовый класс для элементов ячеек таблицы (TH и TD) в логической структуре. |
@@ -87,4 +87,6 @@ url: /ru/net/aspose.pdf.logicalstructure/
 
 | Интерфейс | Описание |
 | --- | --- |
-| [ITextElement](./itextelement/) | Интерфейс для представления элементов текстовой структуры. |
+| [ITextElement](./itextelement/) | Интерфейс для представления элементов структуры текста. |
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetCMYKColor.M
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetCMYKColor. Получает или устанавливает компонент пурпурного цвета
+title: "SetCMYKColor.M"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SetCMYKColor свойство. Получает или задает пурпурный компонент"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.operators/setcmykcolor/m/
 ---
-## Свойство SetCMYKColor.M
+## SetCMYKColor.M property
 
-Получает или устанавливает компонент пурпурного цвета.
+Получает или задает пурпурный компонент.
 
 ```csharp
 public double M { get; set; }
@@ -16,6 +16,8 @@ public double M { get; set; }
 
 ### См. также
 
-* класс [SetCMYKColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

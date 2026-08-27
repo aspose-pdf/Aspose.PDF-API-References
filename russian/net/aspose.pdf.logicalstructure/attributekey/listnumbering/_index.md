@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.ListNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут ListNumbering владелец атрибута списка
+title: "AttributeKey.ListNumbering"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. ListNumbering атрибут List атрибут владелец"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/listnumbering/
 ---
-## Поле AttributeKey.ListNumbering
+## AttributeKey.ListNumbering field
 
-Атрибут ListNumbering (владелец атрибута списка).
+Атрибут ListNumbering (владелец атрибута List).
 
 ```csharp
 public static readonly AttributeKey ListNumbering;
@@ -16,6 +16,8 @@ public static readonly AttributeKey ListNumbering;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

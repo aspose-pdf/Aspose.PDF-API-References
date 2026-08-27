@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.ColumnWidths
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут ColumnWidths Владелец атрибута макета
+title: "AttributeKey.ColumnWidths"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. ColumnWidths атрибут Layout атрибут владелец"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/columnwidths/
 ---
-## Поле AttributeKey.ColumnWidths
+## AttributeKey.ColumnWidths field
 
-Атрибут ColumnWidths (Владелец атрибута макета).
+Атрибут ColumnWidths (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey ColumnWidths;
@@ -16,6 +16,8 @@ public static readonly AttributeKey ColumnWidths;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

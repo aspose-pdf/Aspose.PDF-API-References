@@ -1,12 +1,12 @@
 ---
-title: TeXSaveOptions.OutDirectoryPath
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TeXSaveOptions. Свойство для параметра _outDirectoryPath
+title: "TeXSaveOptions.OutDirectoryPath"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TeXSaveOptions. Свойство для параметра _outDirectoryPath"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/texsaveoptions/outdirectorypath/
 ---
-## Свойство TeXSaveOptions.OutDirectoryPath
+## TeXSaveOptions.OutDirectoryPath property
 
 Свойство для параметра _outDirectoryPath.
 
@@ -16,6 +16,8 @@ public string OutDirectoryPath { get; set; }
 
 ### См. также
 
-* класс [TeXSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: ExportFieldsToJsonOptions.WriteIndented
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ExportFieldsToJsonOptions. Получает или задает значение, указывающее, должен ли Json вывод быть с отступами
+title: "ExportFieldsToJsonOptions.WriteIndented"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ExportFieldsToJsonOptions. Возвращает или задает значение, указывающее, следует ли делать отступы в выводе Json"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/exportfieldstojsonoptions/writeindented/
 ---
-## Свойство ExportFieldsToJsonOptions.WriteIndented
+## ExportFieldsToJsonOptions.WriteIndented property
 
-Получает или задает значение, указывающее, должен ли Json вывод быть с отступами.
+Получает или задает значение, указывающее, следует ли делать отступы в выводе Json.
 
 ```csharp
 public bool WriteIndented { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-`true`, если Json вывод должен быть с отступами; в противном случае `false`.
+`true` если вывод Json должен быть отформатирован с отступами; в противном случае `false`.
 
 ### См. также
 
-* класс [ExportFieldsToJsonOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ExportFieldsToJsonOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AppearanceDictionary. Получает список значений словаря. Результирующая коллекция содержит список объектов XForm
+title: "AppearanceDictionary.Values"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AppearanceDictionary. Возвращает список значений словаря. Коллекция результата содержит список объектов XForm"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/appearancedictionary/values/
 ---
-## Свойство AppearanceDictionary.Values
+## AppearanceDictionary.Values property
 
-Получает список значений словаря. Результирующая коллекция содержит список объектов XForm.
+Получает список значений словаря. Коллекция результата содержит список объектов XForm.
 
 ```csharp
 public ICollection<XForm> Values { get; }
@@ -16,7 +16,9 @@ public ICollection<XForm> Values { get; }
 
 ### См. также
 
-* класс [XForm](../../../aspose.pdf/xform/)
-* класс [AppearanceDictionary](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

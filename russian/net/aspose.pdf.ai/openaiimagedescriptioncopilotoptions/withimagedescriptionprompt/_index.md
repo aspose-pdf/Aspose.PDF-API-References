@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Устанавливает подсказку для параметров копилота описания изображения
+title: "OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIImageDescriptionCopilotOptions. Устанавливает подсказку для параметров копилота описания изображения."
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedescriptionprompt/
 ---
-## Метод OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt
+## OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt method
 
-Устанавливает подсказку для параметров копилота описания изображения.
+Задаёт подсказку для параметров копилота описания изображения.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithImageDescriptionPrompt(
@@ -17,7 +17,7 @@ public OpenAIImageDescriptionCopilotOptions WithImageDescriptionPrompt(
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageDescriptionPrompt | String | Подсказка для описания изображения, которую нужно установить. |
+| imageDescriptionPrompt | String | Подсказка описания изображения для установки. |
 
 ### Возвращаемое значение
 
@@ -25,6 +25,8 @@ public OpenAIImageDescriptionCopilotOptions WithImageDescriptionPrompt(
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

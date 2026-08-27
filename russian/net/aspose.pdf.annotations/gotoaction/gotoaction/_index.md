@@ -1,14 +1,14 @@
 ---
-title: GoToAction.GoToAction
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор GoToAction. Конструктор для класса GoToAction
+title: "GoToAction.GoToAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "GoToAction конструктор. Конструктор для класса GoToAction."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/gotoaction/gotoaction/
 ---
 ## GoToAction(Page) {#constructor_3}
 
-Конструктор для класса GoToAction.
+Конструктор класса GoToAction.
 
 ```csharp
 public GoToAction(Page page)
@@ -16,20 +16,20 @@ public GoToAction(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы Aspose.Pdf.Page, к которому нужно перейти. |
+| страница | Страница | Aspose.Pdf.Page объект назначения для перехода. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [GoToAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GoToAction(Page, ExplicitDestinationType, params double[]) {#constructor_4}
 
-Конструктор для класса GoToAction.
+Конструктор класса GoToAction.
 
 ```csharp
 public GoToAction(Page page, ExplicitDestinationType type, params double[] values)
@@ -37,17 +37,17 @@ public GoToAction(Page page, ExplicitDestinationType type, params double[] value
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Целевая страница. |
+| страница | Страница | Страница назначения. |
 | type | ExplicitDestinationType | Тип назначения. |
-| values | Double[] | Параметры действия. |
+| значения | Double[] | Параметры действия. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* перечисление [ExplicitDestinationType](../../explicitdestinationtype/)
-* класс [GoToAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -65,16 +65,16 @@ public GoToAction(ExplicitDestination destination)
 
 ### См. также
 
-* класс [ExplicitDestination](../../explicitdestination/)
-* класс [GoToAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [ExplicitDestination](../../explicitdestination/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GoToAction(Document, string) {#constructor_2}
 
-Действие, связанное с именованным назначением.
+Действие, связанное с Named Destination.
 
 ```csharp
 public GoToAction(Document doc, string name)
@@ -83,11 +83,13 @@ public GoToAction(Document doc, string name)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | doc | Document | Документ, в котором будет создано действие. |
-| name | String | Имя назначения. |
+| имя | String | Имя назначения. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [GoToAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ObjectResult. Получает необработанные данные
+title: "ObjectResult.Data"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ObjectResult. Получает необработанные данные"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/objectresult/data/
 ---
-## Свойство ObjectResult.Data
+## ObjectResult.Data property
 
 Получает необработанные данные.
 
@@ -20,6 +20,8 @@ public object Data { get; }
 
 ### См. также
 
-* класс [ObjectResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

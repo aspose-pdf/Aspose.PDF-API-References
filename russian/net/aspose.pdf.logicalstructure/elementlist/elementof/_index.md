@@ -1,12 +1,12 @@
 ---
-title: ElementList.ElementOf
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ElementList. Получает элемент по заданному индексу
+title: "ElementList.ElementOf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ElementList свойство. Получает элемент по заданному индексу"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/elementlist/elementof/
 ---
-## Индексатор ElementList
+## ElementList indexer
 
 Получает элемент по заданному индексу.
 
@@ -20,11 +20,13 @@ public virtual Element ElementOf[int index] { get; }
 
 ### Возвращаемое значение
 
-Элемент с указанным индексом в коллекции. Если индекс больше или равен количеству элементов в списке, возвращает null.
+Элемент с указанным индексом в коллекции. Если индекс больше или равен количеству элементов в списке, возвращается null.
 
 ### См. также
 
-* класс [Element](../../element/)
-* класс [ElementList](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementList](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

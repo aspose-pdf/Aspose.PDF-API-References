@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.DocumentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор DocumentInfo. Инициализация экземпляра DocumentInfo
+title: "DocumentInfo.DocumentInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор DocumentInfo. Инициализирует экземпляр DocumentInfo"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/documentinfo/documentinfo/
 ---
-## Конструктор DocumentInfo
+## DocumentInfo constructor
 
-Инициализация экземпляра DocumentInfo.
+Инициализирует экземпляр DocumentInfo.
 
 ```csharp
 public DocumentInfo(Document document)
@@ -16,11 +16,13 @@ public DocumentInfo(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Информация об этом документе будет использована для инициализации. |
+| документ | Document | Информация об этом документе будет использована для инициализации. |
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [DocumentInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetColor. Возвращает цвет, указанный оператором
+title: "SetColor.getColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SetColor. Возвращает цвет, указанный оператором"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.operators/setcolor/getcolor/
 ---
-## Метод SetColor.getColor
+## SetColor.getColor method
 
 Возвращает цвет, указанный оператором.
 
@@ -20,6 +20,8 @@ public override Color getColor()
 
 ### См. также
 
-* класс [SetColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

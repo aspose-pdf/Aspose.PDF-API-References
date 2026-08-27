@@ -1,14 +1,14 @@
 ---
-title: Annotation.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Метод аннотации. Помещает содержимое аннотации непосредственно на страницу, объект аннотации будет удален
+title: "Annotation.Flatten"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Annotation. Размещает содержимое аннотации непосредственно на странице, объект аннотации будет удалён"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.annotations/annotation/flatten/
 ---
-## Метод Annotation.Flatten
+## Annotation.Flatten method
 
-Помещает содержимое аннотации непосредственно на страницу, объект аннотации будет удален.
+Размещает содержимое аннотации непосредственно на странице, объект аннотации будет удалён.
 
 ```csharp
 public virtual void Flatten()
@@ -16,6 +16,8 @@ public virtual void Flatten()
 
 ### См. также
 
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

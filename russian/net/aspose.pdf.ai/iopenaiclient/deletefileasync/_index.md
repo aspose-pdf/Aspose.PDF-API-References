@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.DeleteFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Удаляет конкретный файл асинхронно
+title: "IOpenAIClient.DeleteFileAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно удаляет конкретный файл"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.ai/iopenaiclient/deletefileasync/
 ---
-## Метод IOpenAIClient.DeleteFileAsync
+## IOpenAIClient.DeleteFileAsync method
 
 Удаляет конкретный файл асинхронно.
 
@@ -17,7 +17,7 @@ public Task<DeleteStatusResponse> DeleteFileAsync(string fileId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileId | String | Идентификатор файла для удаления. |
+| fileId | String | Идентификатор файла, который нужно удалить. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
@@ -28,11 +28,13 @@ public Task<DeleteStatusResponse> DeleteFileAsync(string fileId,
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор файла равен null или пустой. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор файла равен null или пуст. |
 
 ### См. также
 
-* класс [DeleteStatusResponse](../../deletestatusresponse/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

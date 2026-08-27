@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Role
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут роли Атрибут PrintField владелец
+title: "AttributeKey.Role"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. атрибут Role владелец атрибута PrintField"
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/role/
 ---
-## Поле AttributeKey.Role
+## AttributeKey.Role field
 
-Атрибут роли (владелец атрибута PrintField).
+Атрибут Role (владелец атрибута PrintField).
 
 ```csharp
 public static readonly AttributeKey Role;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Role;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

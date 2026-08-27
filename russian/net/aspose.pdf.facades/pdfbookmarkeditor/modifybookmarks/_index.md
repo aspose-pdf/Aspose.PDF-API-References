@@ -1,12 +1,12 @@
 ---
-title: PdfBookmarkEditor.ModifyBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfBookmarkEditor. Изменяет заголовок закладки в соответствии с указанным заголовком закладки
+title: "PdfBookmarkEditor.ModifyBookmarks"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfBookmarkEditor метод. Изменяет заголовок закладки в соответствии с указанным заголовком закладки"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/
 ---
-## Метод PdfBookmarkEditor.ModifyBookmarks
+## PdfBookmarkEditor.ModifyBookmarks method
 
 Изменяет заголовок закладки в соответствии с указанным заголовком закладки.
 
@@ -17,7 +17,7 @@ public void ModifyBookmarks(string sTitle, string dTitle)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sTitle | String | Исходный заголовок закладки. |
-| dTitle | String | Измененный заголовок закладки. |
+| dTitle | String | Изменённый заголовок закладки. |
 
 ## Примеры
 
@@ -30,6 +30,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfBookmarkEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

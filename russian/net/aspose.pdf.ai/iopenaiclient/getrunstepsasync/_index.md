@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetRunStepsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно извлекает список шагов для конкретного выполнения в потоке
+title: "IOpenAIClient.GetRunStepsAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Получает список шагов конкретного выполнения в потоке асинхронно"
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf.ai/iopenaiclient/getrunstepsasync/
 ---
-## Метод IOpenAIClient.GetRunStepsAsync
+## IOpenAIClient.GetRunStepsAsync method
 
-Асинхронно извлекает список шагов для конкретного выполнения в потоке.
+Получает список шагов для конкретного запуска в потоке асинхронно.
 
 ```csharp
 public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId, 
@@ -18,8 +18,8 @@ public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threadId | String | Идентификатор потока, содержащего выполнение. |
-| runId | String | Идентификатор выполнения, из которого нужно извлечь шаги. |
+| threadId | String | Идентификатор потока, содержащего запуск. |
+| runId | String | Идентификатор выполнения, из которого получать шаги. |
 | queryParameters | RunStepListQueryParameters | Необязательные параметры запроса для фильтрации списка шагов выполнения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
@@ -31,13 +31,15 @@ public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId,
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор выполнения равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор запуска равен null или пуст. |
 
 ### См. также
 
-* класс [RunStepListResponse](../../runsteplistresponse/)
-* класс [RunStepListQueryParameters](../../runsteplistqueryparameters/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunStepListResponse](../../runsteplistresponse/)
+* class [RunStepListQueryParameters](../../runsteplistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.Assembly
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentPrivilege. Позволяет собирать файл
+title: "DocumentPrivilege.Assembly"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentPrivilege. Позволяет сборку файла."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/documentprivilege/assembly/
 ---
-## Свойство DocumentPrivilege.Assembly
+## DocumentPrivilege.Assembly property
 
-Позволяет собирать файл.
+Разрешает сборку файла.
 
 ```csharp
 public static DocumentPrivilege Assembly { get; }
@@ -16,6 +16,8 @@ public static DocumentPrivilege Assembly { get; }
 
 ### См. также
 
-* класс [DocumentPrivilege](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

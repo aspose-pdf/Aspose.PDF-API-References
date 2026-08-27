@@ -1,12 +1,12 @@
 ---
-title: MCRElement.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод MCRElement. Возвращает строку, представляющую текущий объект
+title: "MCRElement.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод MCRElement. Возвращает строку, представляющую текущий объект"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/mcrelement/tostring/
 ---
-## Метод MCRElement.ToString
+## MCRElement.ToString method
 
 Возвращает строку, представляющую текущий объект.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [MCRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

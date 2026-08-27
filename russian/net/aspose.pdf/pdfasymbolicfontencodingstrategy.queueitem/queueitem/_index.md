@@ -1,20 +1,20 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор QueueItem. Конструктор по умолчанию указывает mac subtable10
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор QueueItem. Конструктор указывает подтаблицу mac subtable10 по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/
 ---
 ## QueueItem() {#constructor}
 
-Конструктор, по умолчанию указывает mac subtable(1,0)
+Конструктор, по умолчанию задает mac subtable(1,0)
 
 ```csharp
 public QueueItem()
 ```
 
-### See Also
+### См. также
 
 * class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,12 @@ public QueueItem()
 public QueueItem(ushort platformID, ushort platformSpecificID)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| platformID | UInt16 | Идентификатор платформы для кодирования подтаблицы |
-| platformSpecificID | UInt16 | Специфичный для платформы идентификатор кодирования для кодирования подтаблицы |
+| platformID | UInt16 | Идентификатор платформы для подтаблицы кодировки |
+| platformSpecificID | UInt16 | Идентификатор кодировки, специфичный для платформы, для подтаблицы кодировки |
 
-### See Also
+### См. также
 
 * class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -51,13 +51,15 @@ public QueueItem(ushort platformID, ushort platformSpecificID)
 public QueueItem(CMapEncodingTableType cmapTable)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| cmapTable | CMapEncodingTableType | кодирующая подтаблица |
+| cmapTable | CMapEncodingTableType | подтаблица кодировки |
 
-### See Also
+### См. также
 
 * enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
 * class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

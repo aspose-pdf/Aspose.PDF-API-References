@@ -1,14 +1,14 @@
 ---
-title: Stamp.BindImage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Stamp. Устанавливает изображение в качестве штампа
+title: "Stamp.BindImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Stamp. Устанавливает изображение в качестве штампа"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/stamp/bindimage/
 ---
 ## BindImage(string) {#bindimage_1}
 
-Устанавливает изображение в качестве штампа.
+Устанавливает изображение как штамп.
 
 ```csharp
 public void BindImage(string imageFile)
@@ -30,9 +30,9 @@ fileStamp.Close();
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -50,6 +50,8 @@ public void BindImage(Stream image)
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

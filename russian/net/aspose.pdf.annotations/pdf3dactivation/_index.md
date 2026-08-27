@@ -1,14 +1,14 @@
 ---
-title: Enum PDF3DActivation
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PDF3DActivation из Aspose.Pdf.Annotations. Enum PDF3DActivation набор режима активации 3D аннотации
+title: "Перечисление PDF3DActivation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Annotations.PDF3DActivation. Перечисление PDF3DActivation задаёт режим активации 3D‑аннотации"
 type: docs
-weight: 2140
+weight: 2230
 url: /ru/net/aspose.pdf.annotations/pdf3dactivation/
 ---
-## Перечисление PDF3DActivation
+## PDF3DActivation enumeration
 
-Enum PDF3DActivation: набор режима активации 3D аннотации.
+Перечисление PDF3DActivation: набор режимов активации 3D‑аннотации.
 
 ```csharp
 public enum PDF3DActivation
@@ -18,11 +18,13 @@ public enum PDF3DActivation
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| activeWhenOpen | `0` | Активно при открытии |
-| activeWhenVisible | `1` | Активно при видимости |
-| activatedUserOrScriptAction | `2` | Активировано пользователем или скриптовым действием |
+| activeWhenOpen | `0` | Активен при открытии |
+| activeWhenVisible | `1` | Активный, когда виден |
+| activatedUserOrScriptAction | `2` | Активируется действием пользователя или скрипта |
 
-### См. Также
+### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

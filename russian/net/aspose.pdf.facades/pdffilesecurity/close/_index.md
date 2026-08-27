@@ -1,12 +1,12 @@
 ---
-title: PdfFileSecurity.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSecurity. Закрывает фасад
+title: "PdfFileSecurity.Close"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSecurity. Закрывает фасад"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdffilesecurity/close/
 ---
-## Метод PdfFileSecurity.Close
+## PdfFileSecurity.Close method
 
 Закрывает фасад.
 
@@ -16,6 +16,8 @@ public override void Close()
 
 ### См. также
 
-* класс [PdfFileSecurity](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

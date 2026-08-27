@@ -1,12 +1,12 @@
 ---
-title: TextExtractor.TextExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextExtractor. Конструктор по умолчанию
+title: "TextExtractor.TextExtractor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextExtractor. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/textextractor/textextractor/
 ---
-## Конструктор TextExtractor
+## TextExtractor constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public TextExtractor()
 
 ### См. также
 
-* класс [TextExtractor](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TextExtractor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

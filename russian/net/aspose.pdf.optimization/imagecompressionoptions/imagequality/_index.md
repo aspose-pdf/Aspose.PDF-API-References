@@ -1,14 +1,14 @@
 ---
-title: ImageCompressionOptions.ImageQuality
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageCompressionOptions. Указывает уровень сжатия изображения, когда используется флаг CompressIamges
+title: "ImageCompressionOptions.ImageQuality"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageCompressionOptions. Указывает уровень сжатия изображения, когда используется флаг CompressImages."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.optimization/imagecompressionoptions/imagequality/
 ---
-## Свойство ImageCompressionOptions.ImageQuality
+## ImageCompressionOptions.ImageQuality property
 
-Указывает уровень сжатия изображения, когда используется флаг CompressIamges.
+Указывает уровень сжатия изображения, когда используется флаг CompressImages.
 
 ```csharp
 public int ImageQuality { get; set; }
@@ -16,6 +16,8 @@ public int ImageQuality { get; set; }
 
 ### См. также
 
-* класс [ImageCompressionOptions](../)
-* пространство имен [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageCompressionOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

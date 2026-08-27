@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Dotted
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут BorderStyle Dotted. Граница представляет собой серию точек.
+title: "AttributeName.BorderStyle_Dotted"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут BorderStyle Dotted  Граница представляет собой серию точек"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_dotted/
 ---
-## Поле AttributeName.BorderStyle_Dotted
+## AttributeName.BorderStyle_Dotted field
 
-Атрибут BorderStyle: Dotted - Граница представляет собой серию точек.
+Attribute BorderStyle: Dotted - Граница состоит из серии точек.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Dotted;
@@ -16,6 +16,8 @@ public static readonly AttributeName BorderStyle_Dotted;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.TextRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextParagraph. Получает прямоугольник текста, размещенного в абзаце
+title: "TextParagraph.TextRectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextParagraph. Получает прямоугольник текста, размещённого в абзаце."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.text/textparagraph/textrectangle/
 ---
-## Свойство TextParagraph.TextRectangle
+## TextParagraph.TextRectangle property
 
-Получает прямоугольник текста, размещенного в абзаце.
+Получает прямоугольник текста, размещённого в абзаце.
 
 ```csharp
 public Rectangle TextRectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle TextRectangle { get; }
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [TextParagraph](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

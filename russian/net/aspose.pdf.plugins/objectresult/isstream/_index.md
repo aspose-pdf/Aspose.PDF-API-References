@@ -1,14 +1,14 @@
 ---
-title: ObjectResult.IsStream
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ObjectResult. Указывает, является ли результат путем к выходному файлу
+title: "ObjectResult.IsStream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ObjectResult. Указывает, является ли результат путем к выходному файлу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.plugins/objectresult/isstream/
 ---
-## Свойство ObjectResult.IsStream
+## ObjectResult.IsStream property
 
-Указывает, является ли результат путем к выходному файлу.
+Указывает, является ли результат путём к выходному файлу.
 
 ```csharp
 public bool IsStream { get; }
@@ -20,6 +20,8 @@ public bool IsStream { get; }
 
 ### См. также
 
-* класс [ObjectResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

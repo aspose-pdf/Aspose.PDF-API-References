@@ -1,12 +1,12 @@
 ---
-title: ClosePath.ClosePath
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ClosePath. Инициализирует оператор
+title: "ClosePath.ClosePath"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ClosePath. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/closepath/closepath/
 ---
-## Конструктор ClosePath
+## ClosePath constructor
 
 Инициализирует оператор.
 
@@ -16,6 +16,8 @@ public ClosePath()
 
 ### См. также
 
-* класс [ClosePath](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [ClosePath](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

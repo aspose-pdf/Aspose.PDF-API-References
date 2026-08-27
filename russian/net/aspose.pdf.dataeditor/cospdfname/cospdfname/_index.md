@@ -1,12 +1,12 @@
 ---
-title: CosPdfName.CosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CosPdfName. Инициализирует новый экземпляр класса CosPdfName
+title: "CosPdfName.CosPdfName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CosPdfName. Инициализирует новый экземпляр класса CosPdfName"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.dataeditor/cospdfname/cospdfname/
 ---
-## Конструктор CosPdfName
+## CosPdfName constructor
 
 Инициализирует новый экземпляр класса [`CosPdfName`](../).
 
@@ -16,10 +16,12 @@ public CosPdfName(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Имя. |
+| значение | String | Имя. |
 
 ### См. также
 
-* класс [CosPdfName](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

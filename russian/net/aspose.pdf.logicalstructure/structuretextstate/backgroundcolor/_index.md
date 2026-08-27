@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureTextState. Получает или задает цвет фона текста
+title: "StructureTextState.BackgroundColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureTextState. Получает или задает цвет фона текста"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/structuretextstate/backgroundcolor/
 ---
-## Свойство StructureTextState.BackgroundColor
+## StructureTextState.BackgroundColor property
 
 Получает или задает цвет фона текста.
 
@@ -20,7 +20,9 @@ public Color BackgroundColor { get; set; }
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [StructureTextState](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

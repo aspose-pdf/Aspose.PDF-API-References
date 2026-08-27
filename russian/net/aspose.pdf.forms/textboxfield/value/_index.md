@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextBoxField. Получает или устанавливает значение поля
+title: "TextBoxField.Value"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TextBoxField свойство. Получает или задает значение поля."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.forms/textboxfield/value/
 ---
-## Свойство TextBoxField.Value
+## TextBoxField.Value property
 
-Получает или устанавливает значение поля.
+Получает или задает значение поля.
 
 ```csharp
 public override string Value { get; set; }
@@ -16,6 +16,8 @@ public override string Value { get; set; }
 
 ### См. также
 
-* класс [TextBoxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

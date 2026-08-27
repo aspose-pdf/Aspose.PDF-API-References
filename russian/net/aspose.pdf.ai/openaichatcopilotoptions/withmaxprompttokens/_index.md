@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Устанавливает максимальное количество токенов запроса для параметров чат-коопилота
+title: "OpenAIChatCopilotOptions.WithMaxPromptTokens"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIChatCopilotOptions. Устанавливает максимальное количество токенов подсказки для параметров чат‑копилота"
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withmaxprompttokens/
 ---
-## Метод OpenAIChatCopilotOptions.WithMaxPromptTokens
+## OpenAIChatCopilotOptions.WithMaxPromptTokens method
 
-Устанавливает максимальное количество токенов запроса для параметров чат-коопилота.
+Устанавливает максимальное количество токенов подсказки для параметров чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
@@ -16,7 +16,7 @@ public OpenAIChatCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| maxPromptTokens | Nullable`1 | Максимальное количество токенов запроса для установки. |
+| maxPromptTokens | Nullable`1 | Максимальное количество токенов подсказки для установки. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public OpenAIChatCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
 
 ### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AIClientBase.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AIClientBase. Освобождает ресурсы, используемые AIClientBase
+title: "AIClientBase.Dispose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AIClientBase. Освобождает ресурсы, используемые AIClientBase"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/aiclientbase/dispose/
 ---
-## Метод AIClientBase.Dispose
+## AIClientBase.Dispose method
 
 Освобождает ресурсы, используемые [`AIClientBase`](../).
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### См. также
 
-* класс [AIClientBase](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AIClientBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobRequest.TrainingFile
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CreateFineTuningJobRequest. Получает или задает ID загруженного файла, содержащего данные для обучения
+title: "CreateFineTuningJobRequest.TrainingFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CreateFineTuningJobRequest. Получает или задает идентификатор загруженного файла, содержащего обучающие данные."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/createfinetuningjobrequest/trainingfile/
 ---
-## Свойство CreateFineTuningJobRequest.TrainingFile
+## CreateFineTuningJobRequest.TrainingFile property
 
-Получает или задает ID загруженного файла, содержащего данные для обучения.
+Получает или задает идентификатор загруженного файла, содержащего обучающие данные.
 
 ```csharp
 public string TrainingFile { get; set; }
@@ -16,6 +16,8 @@ public string TrainingFile { get; set; }
 
 ### См. также
 
-* класс [CreateFineTuningJobRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateFineTuningJobRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

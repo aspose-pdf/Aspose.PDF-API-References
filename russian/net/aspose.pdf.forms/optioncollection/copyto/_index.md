@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OptionCollection. Копирует параметры в массив
+title: "OptionCollection.CopyTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OptionCollection. Копирует опции в массив"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.forms/optioncollection/copyto/
 ---
-## Метод OptionCollection.CopyTo
+## OptionCollection.CopyTo method
 
-Копирует параметры в массив.
+Копирует варианты в массив.
 
 ```csharp
 public void CopyTo(Option[] array, int index)
@@ -16,12 +16,14 @@ public void CopyTo(Option[] array, int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | Option[] | Массив, в который будут скопированы параметры. |
+| массив | Option[] | Массив, в который будут скопированы опции. |
 | index | Int32 | Начальный индекс в массиве. |
 
 ### См. также
 
-* класс [Option](../../option/)
-* класс [OptionCollection](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

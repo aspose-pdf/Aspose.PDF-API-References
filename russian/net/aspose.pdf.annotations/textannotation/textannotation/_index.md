@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.TextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextAnnotation. Конструктор для аннотации при использовании в Генераторе
+title: "TextAnnotation.TextAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextAnnotation. Конструктор аннотации, используемый в Generator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/textannotation/textannotation/
 ---
 ## TextAnnotation(Document) {#constructor}
 
-Конструктор для аннотации при использовании в Генераторе.
+Конструктор аннотации, когда используется в Generator.
 
 ```csharp
 public TextAnnotation(Document document)
@@ -16,20 +16,20 @@ public TextAnnotation(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ, в котором будет создана текстовая аннотация. |
+| документ | Document | Document, в котором будет создана текстовая аннотация. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [TextAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAnnotation(Page, Rectangle) {#constructor_1}
 
-Создает новую текстовую аннотацию на указанной странице.
+Создаёт новую Text аннотацию на указанной странице.
 
 ```csharp
 public TextAnnotation(Page page, Rectangle rect)
@@ -37,13 +37,15 @@ public TextAnnotation(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница документа, на которой должна быть создана аннотация. |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| страница | Страница | Страница Document, где следует создать аннотацию. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий её расположение на странице. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [TextAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

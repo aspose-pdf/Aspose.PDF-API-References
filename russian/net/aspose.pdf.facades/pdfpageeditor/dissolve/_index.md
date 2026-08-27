@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.DISSOLVE
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfPageEditor. Старая страница растворяется
+title: "PdfPageEditor.DISSOLVE"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfPageEditor. Старая page растворяется"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/dissolve/
 ---
-## Поле PdfPageEditor.DISSOLVE
+## PdfPageEditor.DISSOLVE field
 
 Старая страница растворяется
 
@@ -16,6 +16,8 @@ public const int DISSOLVE;
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.OutputStreams
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AutoFiller. Получает или задает множество выходных потоков. Один из четырех режимов вывода
+title: "AutoFiller.OutputStreams"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AutoFiller. Получает или задает множество выходных потоков. Один из четырёх режимов вывода."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/autofiller/outputstreams/
 ---
-## Свойство AutoFiller.OutputStreams
+## AutoFiller.OutputStreams property
 
-Получает или задает множество выходных потоков. Один из четырех режимов вывода.
+Получает или задает множество Output Streams. Один из четырёх режимов вывода.
 
 ```csharp
 public Stream[] OutputStreams { get; set; }
@@ -16,6 +16,8 @@ public Stream[] OutputStreams { get; set; }
 
 ### См. также
 
-* класс [AutoFiller](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

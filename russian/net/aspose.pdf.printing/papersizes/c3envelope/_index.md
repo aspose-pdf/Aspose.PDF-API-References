@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.C3Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Конверт C3 324 мм на 458 мм
+title: "PaperSizes.C3Envelope"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Конверт C3 324 мм на 458 мм"
 type: docs
 weight: 320
 url: /ru/net/aspose.pdf.printing/papersizes/c3envelope/
 ---
-## Поле PaperSizes.C3Envelope
+## PaperSizes.C3Envelope field
 
-Конверт C3 (324 мм на 458 мм).
+Конверт C3 (324 mm by 458 mm).
 
 ```csharp
 public static readonly PaperSize C3Envelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize C3Envelope;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

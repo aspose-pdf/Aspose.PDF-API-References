@@ -1,12 +1,12 @@
 ---
-title: IChatCopilot.SaveContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IChatCopilot. Асинхронно сохраняет контекст в файл JSON
+title: "IChatCopilot.SaveContextAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IChatCopilot. Асинхронно сохраняет контекст в JSON‑файл."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/ichatcopilot/savecontextasync/
 ---
-## Метод IChatCopilot.SaveContextAsync
+## IChatCopilot.SaveContextAsync method
 
 Асинхронно сохраняет контекст в файл JSON.
 
@@ -16,7 +16,7 @@ public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellatio
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| jsonFilePath | String | Путь к файлу для сохранения контекста JSON. |
+| jsonFilePath | String | Путь к файлу для сохранения JSON‑контекста. |
 | cancellationToken | Nullable`1 | Токен отмены (необязательно). |
 
 ### Возвращаемое значение
@@ -25,6 +25,8 @@ public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellatio
 
 ### См. также
 
-* интерфейс [IChatCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

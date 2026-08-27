@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FreeTextAnnotation. Получает или устанавливает строку стандартного внешнего вида, которая будет использоваться для форматирования текста
+title: "FreeTextAnnotation.DefaultAppearance"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FreeTextAnnotation. Получает или задаёт строку внешнего вида по умолчанию, используемую при форматировании текста"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/freetextannotation/defaultappearance/
 ---
-## Свойство FreeTextAnnotation.DefaultAppearance
+## FreeTextAnnotation.DefaultAppearance property
 
-Получает или устанавливает строку стандартного внешнего вида, которая будет использоваться для форматирования текста.
+Получает или задаёт строку внешнего вида по умолчанию, используемую при форматировании текста.
 
 ```csharp
 public string DefaultAppearance { get; set; }
@@ -16,6 +16,8 @@ public string DefaultAppearance { get; set; }
 
 ### См. также
 
-* класс [FreeTextAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

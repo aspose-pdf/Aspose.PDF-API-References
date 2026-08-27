@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.LanguageTransformationBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextEditOptions. Получает режим, который определяет поведение для сценариев преобразования языка
+title: "TextEditOptions.LanguageTransformationBehavior"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextEditOptions. Получает режим, определяющий поведение в сценариях трансформации языка."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/texteditoptions/languagetransformationbehavior/
 ---
-## Свойство TextEditOptions.LanguageTransformationBehavior
+## TextEditOptions.LanguageTransformationBehavior property
 
-Получает режим, который определяет поведение для сценариев преобразования языка.
+Получает режим, определяющий поведение в сценариях трансформации языка.
 
 ```csharp
 public LanguageTransformation LanguageTransformationBehavior { get; set; }
@@ -20,3 +20,5 @@ public LanguageTransformation LanguageTransformationBehavior { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

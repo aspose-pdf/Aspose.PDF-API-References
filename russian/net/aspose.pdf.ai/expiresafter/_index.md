@@ -1,14 +1,14 @@
 ---
-title: Class ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.ExpiresAfter. Представляет политику истечения срока для векторного хранилища
+title: "Класс ExpiresAfter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.ExpiresAfter. Представляет политику истечения срока действия для векторного хранилища"
 type: docs
-weight: 350
+weight: 370
 url: /ru/net/aspose.pdf.ai/expiresafter/
 ---
-## Класс ExpiresAfter
+## ExpiresAfter class
 
-Представляет политику истечения срока для векторного хранилища.
+Представляет политику истечения срока действия для векторного хранилища.
 
 ```csharp
 public class ExpiresAfter
@@ -24,10 +24,12 @@ public class ExpiresAfter
 
 | Имя | Описание |
 | --- | --- |
-| [Anchor](../../aspose.pdf.ai/expiresafter/anchor/) { get; set; } | Получает или задает временную метку якоря, после которой применяется политика истечения срока. Поддерживаемые якоря: last_active_at. |
-| [Days](../../aspose.pdf.ai/expiresafter/days/) { get; set; } | Получает или задает количество дней после времени якоря, по истечении которых векторное хранилище истечет. |
+| [Anchor](../../aspose.pdf.ai/expiresafter/anchor/) { get; set; } | Получает или задает метку времени привязки, после которой применяется политика истечения срока. Поддерживаемые привязки: last_active_at. |
+| [Days](../../aspose.pdf.ai/expiresafter/days/) { get; set; } | Получает или задает количество дней после времени привязки, через которое векторное хранилище истекает. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

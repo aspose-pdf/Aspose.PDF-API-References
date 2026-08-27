@@ -1,12 +1,12 @@
 ---
-title: Class Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Resources. Класс, представляющий ресурсы страницы
+title: "Класс Resources"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Resources class. Класс, представляющий ресурсы страницы"
 type: docs
-weight: 9770
+weight: 9920
 url: /ru/net/aspose.pdf/resources/
 ---
-## Класс ресурсов
+## Resources class
 
 Класс, представляющий ресурсы страницы.
 
@@ -28,7 +28,7 @@ public sealed class Resources
 | --- | --- |
 | [FreeMemory](../../aspose.pdf/resources/freememory/)() | Очищает кэшированные данные, освобождает память и т.д. |
 | [GetExtGStates](../../aspose.pdf/resources/getextgstates/)() | Получает все ExGStates из ресурсов. |
-| [GetFonts](../../aspose.pdf/resources/getfonts/)(bool) | Возвращает коллекцию шрифтов. Если ресурсы не содержат записи шрифтов, она будет создана в зависимости от флага CreateIfAbsent. |
+| [GetFonts](../../aspose.pdf/resources/getfonts/)(bool) | Возвращает коллекцию шрифтов. Если ресурсы не содержат запись шрифтов, она будет создана в зависимости от флага CreateIfAbsent. |
 
 ## Другие члены
 
@@ -38,5 +38,7 @@ public sealed class Resources
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

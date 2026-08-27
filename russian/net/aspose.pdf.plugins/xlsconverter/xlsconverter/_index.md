@@ -1,12 +1,12 @@
 ---
-title: XlsConverter.XlsConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор XlsConverter. Конструктор по умолчанию
+title: "XlsConverter.XlsConverter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор XlsConverter. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/xlsconverter/xlsconverter/
 ---
-## Конструктор XlsConverter
+## XlsConverter constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public XlsConverter()
 
 ### См. также
 
-* класс [XlsConverter](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [XlsConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

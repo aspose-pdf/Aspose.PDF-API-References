@@ -1,14 +1,14 @@
 ---
-title: Class NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.NamedAction. Представляет именованные действия, которые ожидается, что поддерживают приложения для просмотра PDF
+title: "Класс NamedAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.NamedAction class. Представляет именованные действия, которые ожидается поддерживать приложениями для просмотра PDF."
 type: docs
-weight: 2120
+weight: 2210
 url: /ru/net/aspose.pdf.annotations/namedaction/
 ---
-## Класс NamedAction
+## NamedAction class
 
-Представляет именованные действия, которые ожидается, что поддерживают приложения для просмотра PDF.
+Представляет именованные действия, которые, как ожидается, поддерживают приложения‑просмотрщики PDF.
 
 ```csharp
 public sealed class NamedAction : PdfAction
@@ -18,13 +18,13 @@ public sealed class NamedAction : PdfAction
 
 | Имя | Описание |
 | --- | --- |
-| [NamedAction](namedaction/)(PredefinedAction) | Конструктор для класса Named Action. |
+| [NamedAction](namedaction/)(PredefinedAction) | Конструктор класса Named Action. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/namedaction/name/) { get; set; } | Получает или задает действие, которое должно быть выполнено. |
+| [Name](../../aspose.pdf.annotations/namedaction/name/) { get; set; } | Получает или задает действие, которое будет выполнено. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Следующие действия в последовательности. |
 
 ## Методы
@@ -33,8 +33,10 @@ public sealed class NamedAction : PdfAction
 | --- | --- |
 | [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Получает строку для действия ECMAScript. |
 
-### См. Также
+### См. также
 
-* класс [PdfAction](../pdfaction/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

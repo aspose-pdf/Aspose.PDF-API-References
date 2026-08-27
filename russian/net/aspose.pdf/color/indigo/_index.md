@@ -1,14 +1,14 @@
 ---
-title: Color.Indigo
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF4B0082
+title: "Color.Indigo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FF4B0082"
 type: docs
 weight: 580
 url: /ru/net/aspose.pdf/color/indigo/
 ---
-## Свойство Color.Indigo
+## Color.Indigo property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF4B0082.
+Получает системно определённый цвет, значение ARGB которого \c \#FF4B0082.
 
 ```csharp
 public static Color Indigo { get; }
@@ -16,10 +16,12 @@ public static Color Indigo { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

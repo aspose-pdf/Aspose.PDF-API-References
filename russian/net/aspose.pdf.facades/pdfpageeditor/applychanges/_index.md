@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.ApplyChanges
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfPageEditor. Применить изменения, внесенные в страницы документа
+title: "PdfPageEditor.ApplyChanges"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfPageEditor. Применить изменения, внесённые в страницы документа"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/applychanges/
 ---
-## Метод PdfPageEditor.ApplyChanges
+## PdfPageEditor.ApplyChanges method
 
-Применить изменения, внесенные в страницы документа.
+Применить изменения, внесённые в страницы Document.
 
 ```csharp
 public void ApplyChanges()
@@ -16,6 +16,8 @@ public void ApplyChanges()
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

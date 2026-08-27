@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextFragmentCollection. Возвращает перечислитель для всей коллекции
+title: "TextFragmentCollection.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextFragmentCollection. Возвращает перечислитель для всей коллекции"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.text/textfragmentcollection/getenumerator/
 ---
-## Метод TextFragmentCollection.GetEnumerator
+## TextFragmentCollection.GetEnumerator method
 
 Возвращает перечислитель для всей коллекции.
 
@@ -20,7 +20,9 @@ public IEnumerator<TextFragment> GetEnumerator()
 
 ### См. также
 
-* класс [TextFragment](../../textfragment/)
-* класс [TextFragmentCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

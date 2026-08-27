@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.FrequencyPenalty
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaChatCompletionRequest. Устанавливает или получает штраф за частоту, который используется во время выборки
+title: "LlamaChatCompletionRequest.FrequencyPenalty"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "LlamaChatCompletionRequest свойство. Устанавливает или получает штраф за частоту, используемый при выборке"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/llamachatcompletionrequest/frequencypenalty/
 ---
-## Свойство LlamaChatCompletionRequest.FrequencyPenalty
+## LlamaChatCompletionRequest.FrequencyPenalty property
 
-Устанавливает или получает штраф за частоту, который используется во время выборки.
+Устанавливает или получает штраф за частоту, используемый при выборке.
 
 ```csharp
 public float? FrequencyPenalty { get; set; }
@@ -16,6 +16,8 @@ public float? FrequencyPenalty { get; set; }
 
 ### См. также
 
-* класс [LlamaChatCompletionRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

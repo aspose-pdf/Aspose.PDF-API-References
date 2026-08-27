@@ -1,14 +1,14 @@
 ---
-title: Enum CaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Enum CaptionPosition в Aspose.Pdf.Annotations. Перечисление позиционирования заголовков аннотаций
+title: "Перечисление CaptionPosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.CaptionPosition перечисление. Перечисление вариантов позиционирования подписи аннотации."
 type: docs
-weight: 1550
+weight: 1640
 url: /ru/net/aspose.pdf.annotations/captionposition/
 ---
-## Перечисление CaptionPosition
+## CaptionPosition enumeration
 
-Перечисление позиционирования заголовка аннотации.
+Перечисление позиционирования подписи аннотации.
 
 ```csharp
 public enum CaptionPosition
@@ -16,12 +16,14 @@ public enum CaptionPosition
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Встроенный | `0` | Заголовок будет выровнен по центру внутри строки (значение по умолчанию). |
-| Сверху | `1` | Заголовок будет находиться над строкой. |
+| Inline | `0` | Подпись будет центрирована внутри линии (значение по умолчанию). |
+| Top | `1` | Подпись будет расположена над линией. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

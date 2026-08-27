@@ -1,14 +1,14 @@
 ---
-title: Color.Pink
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFFC0CB
+title: "Color.Pink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системный цвет, у которого ARGB‑значение c FFFFC0CB"
 type: docs
 weight: 1110
 url: /ru/net/aspose.pdf/color/pink/
 ---
-## Свойство Цвет.Розовый
+## Color.Pink property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFFC0CB.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FFFFC0CB.
 
 ```csharp
 public static Color Pink { get; }
@@ -16,10 +16,12 @@ public static Color Pink { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

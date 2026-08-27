@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.LogitBias
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompletionCreateRequest. Получает или устанавливает вероятность появления заданных токенов в завершении. Принимает JSON-объект, который сопоставляет токены, указанные по их идентификатору токена в токенизаторе, с соответствующим значением смещения от -100 до 100.
+title: "CompletionCreateRequest.LogitBias"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "CompletionCreateRequest свойство. Получает или задает вероятность появления указанных токенов в завершении. Принимает объект JSON, который сопоставляет токены, указанные их ID в токенизаторе, с соответствующим значением смещения от 100 до 100"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/completioncreaterequest/logitbias/
 ---
-## Свойство CompletionCreateRequest.LogitBias
+## CompletionCreateRequest.LogitBias property
 
-Получает или устанавливает вероятность появления заданных токенов в завершении. Принимает JSON-объект, который сопоставляет токены (указанные по их идентификатору токена в токенизаторе) с соответствующим значением смещения от -100 до 100.
+Получает или задает вероятность появления указанных токенов в завершении. Принимает JSON‑объект, сопоставляющий токены (указанные их ID в токенизаторе) с соответствующим значением смещения от -100 до 100.
 
 ```csharp
 public Dictionary<string, int> LogitBias { get; set; }
@@ -16,6 +16,8 @@ public Dictionary<string, int> LogitBias { get; set; }
 
 ### См. также
 
-* класс [CompletionCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

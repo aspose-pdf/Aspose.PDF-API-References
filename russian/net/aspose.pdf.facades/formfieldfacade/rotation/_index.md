@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldFacade. Поворот текста поля
+title: "FormFieldFacade.Rotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade property. Поворот текста поля"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/formfieldfacade/rotation/
 ---
-## Свойство FormFieldFacade.Rotation
+## FormFieldFacade.Rotation property
 
 Поворот текста поля.
 
@@ -16,6 +16,8 @@ public int Rotation { get; set; }
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

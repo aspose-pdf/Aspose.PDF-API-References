@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementAbsorber.IsReadOnlyMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImagePlacementAbsorber. Получает/устанавливает режим только для чтения для коллекции операций парсинга. Это может помочь избежать исключений недостатка памяти.
+title: "ImagePlacementAbsorber.IsReadOnlyMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImagePlacementAbsorber. Получает/устанавливает режим только для чтения для коллекции операций разбора. Может помочь избежать исключений нехватки памяти"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/imageplacementabsorber/isreadonlymode/
 ---
-## Свойство ImagePlacementAbsorber.IsReadOnlyMode
+## ImagePlacementAbsorber.IsReadOnlyMode property
 
-Получает/устанавливает режим только для чтения для коллекции операций парсинга. Это может помочь избежать исключений недостатка памяти.
+Получает/устанавливает режим только для чтения для коллекции операций разбора. Это может помочь избежать исключений недостатка памяти.
 
 ```csharp
 public bool IsReadOnlyMode { get; set; }
@@ -16,6 +16,8 @@ public bool IsReadOnlyMode { get; set; }
 
 ### См. также
 
-* класс [ImagePlacementAbsorber](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

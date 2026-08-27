@@ -1,14 +1,14 @@
 ---
-title: Class XslFoLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.XslFoLoadOptions. Представляет параметры для загрузки/импортирования файла XSLFO в PDF документ
+title: "Класс XslFoLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.XslFoLoadOptions. Представляет параметры для загрузки/импорта файла XSLFO в PDF‑документ"
 type: docs
-weight: 11530
+weight: 11720
 url: /ru/net/aspose.pdf/xslfoloadoptions/
 ---
-## Класс XslFoLoadOptions
+## XslFoLoadOptions class
 
-Представляет параметры для загрузки/импортирования файла XSL-FO в PDF документ.
+Представляет параметры загрузки/импорта файла XSL-FO в документ pdf.
 
 ```csharp
 public sealed class XslFoLoadOptions : XmlLoadOptions
@@ -18,49 +18,49 @@ public sealed class XslFoLoadOptions : XmlLoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [XslFoLoadOptions](xslfoloadoptions/#constructor)() | Создает объект `XslFoLoadOptions` без данных xsl. |
-| [XslFoLoadOptions](xslfoloadoptions/#constructor_1)(Stream) | Создает объект `XslFoLoadOptions` с данными xsl. |
-| [XslFoLoadOptions](xslfoloadoptions/#constructor_2)(string) | Создает объект `XslFoLoadOptions` с данными xsl. |
+| [XslFoLoadOptions](xslfoloadoptions/#constructor)() | Создаёт объект `XslFoLoadOptions` без данных xsl. |
+| [XslFoLoadOptions](xslfoloadoptions/#constructor_1)(Stream) | Создаёт объект `XslFoLoadOptions` с данными xsl. |
+| [XslFoLoadOptions](xslfoloadoptions/#constructor_2)(string) | Создаёт объект `XslFoLoadOptions` с данными xsl. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [BasePath](../../aspose.pdf/xslfoloadoptions/basepath/) { get; set; } | Базовый путь/URL, из которого ищутся относительные пути к внешним ресурсам (если таковые имеются), на которые ссылается загруженный файл SVG. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или устанавливает флаг для отключения любых лицензионных ограничений для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, которые запрещены лицензией этого шрифта, например, позволяет встраивать шрифт в PDF документ, даже если лицензионные правила запрещают встраивание для этого шрифта. По умолчанию `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывает [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых предупреждений, сгенерированных. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue — это действие по умолчанию, и операция загрузки продолжается, однако пользователь также может вернуть Abort, в этом случае операция загрузки должна прекратиться. |
-| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | Получает данные xsl для преобразования xml в PDF документ. |
-| [XsltArgumentList](../../aspose.pdf/xslfoloadoptions/xsltargumentlist/) { get; set; } | XsltArgumentList для вставки значений в существующие параметры xls. XLS файл имеет параметр 'animal' без значения: XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); теперь конвертер предполагает, что в XLS файле есть параметр 'animal' со значением 'cat'. |
+| [BasePath](../../aspose.pdf/xslfoloadoptions/basepath/) { get; set; } | Базовый путь/URL, из которого ищутся относительные пути к внешним ресурсам (если есть), указанные в загруженном SVG‑файле. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или задаёт флаг, отключающий любые лицензионные ограничения для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, запрещённые лицензией этого шрифта, например, позволяет встраивать шрифт в PDF‑документ, даже если правила лицензии запрещают встраивание. По умолчанию `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывается [`LoadOptions`](../loadoptions/). |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, в этом случае операция загрузки должна быть прекращена. |
+| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | Получает данные xsl для преобразования xml в pdf‑документ. |
+| [XsltArgumentList](../../aspose.pdf/xslfoloadoptions/xsltargumentlist/) { get; set; } | XsltArgumentList для вставки значений в существующие параметры xls. Файл XLS имеет параметр 'animal' без значения: XsltArgumentList args = new XsltArgumentList(); args.AddParam(\"animal\", \"\", \"cat\"); теперь конвертер предполагает, что в файле XLS есть параметр 'animal' со значением 'cat'. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| [ParsingErrorsHandlingType](../../aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/) | Исходный документ XSLFO может содержать ошибки форматирования. Этот перечисляемый тип перечисляет возможные стратегии обработки этих ошибок. |
+| [ParsingErrorsHandlingType](../../aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/) | Исходный документ XSLFO может содержать ошибки форматирования. Этот enum перечисляет возможные стратегии обработки этих ошибок. |
 
 ## Примеры
 
-Следующий пример показывает, как преобразовать файл XSL-FO в PDF файл.
+Следующий пример показывает, как преобразовать файл XSL-FO в PDF‑файл.
 
 ```csharp
 [C#]
-// The path to the documents directory.
+// Путь к каталогу документов.
 string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// The path to your XSL-FO File.
+// Путь к вашему файлу XSL-FO.
 string xslFoFile = Path.Combine(dataDir, "XSLFO-to-PDF.xslfo");
 
-// The path to output PDF File.
+// Путь к выходному PDF‑файлу.
 string pdfFile = Path.Combine(dataDir, "XSLFO-to-PDF.pdf");
 
-// Initialize XslFoLoadOptions	
+// Инициализировать XslFoLoadOptions	
 XslFoLoadOptions xslFoLoadOptions = new XslFoLoadOptions();
     
 using (Document pdfDocument = new Document(xslFoFile, xslFoLoadOptions))
 {
  
-    // Save PDF file
+    // Сохранить PDF‑файл
     pdfDocument.Save(pdfFile);
 }
 ```
@@ -89,6 +89,8 @@ using (Document pdfDocument = new Document(xslFoFile, xslFoLoadOptions))
 
 ### См. также
 
-* класс [XmlLoadOptions](../xmlloadoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [XmlLoadOptions](../xmlloadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum ReplaceTextStrategy.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ReplaceTextStrategyNoCharacterAction Aspose.Pdf.Facades. Действие, которое необходимо выполнить, если шрифт не содержит требуемый символ
+title: "Перечисление ReplaceTextStrategy.NoCharacterAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction. Действие, которое следует выполнить, если шрифт не содержит требуемый символ"
 type: docs
-weight: 4680
+weight: 4800
 url: /ru/net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/
 ---
-## Перечисление ReplaceTextStrategy.NoCharacterAction
+## ReplaceTextStrategy.NoCharacterAction enumeration
 
-Действие, которое необходимо выполнить, если шрифт не содержит требуемый символ
+Действие, которое следует выполнить, если шрифт не содержит требуемый символ
 
 ```csharp
 public enum NoCharacterAction
@@ -20,10 +20,12 @@ public enum NoCharacterAction
 | --- | --- | --- |
 | ThrowException | `0` | Выбросить исключение |
 | UseStandardFont | `1` | Заменить шрифт на стандартный шрифт, который содержит требуемый символ |
-| ReplaceAnyway | `2` | Заменить текст в любом случае без замены шрифта |
+| ReplaceAnyway | `2` | Все равно заменить текст без замены шрифта |
 
 ### См. также
 
-* класс [ReplaceTextStrategy](../replacetextstrategy/)
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* class [ReplaceTextStrategy](../replacetextstrategy/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

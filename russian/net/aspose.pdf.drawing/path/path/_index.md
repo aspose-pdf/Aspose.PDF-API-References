@@ -1,7 +1,7 @@
 ---
-title: Path.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Path. Инициализирует новый экземпляр класса Path
+title: "Path.Path"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Path. Инициализирует новый экземпляр класса Path."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/path/path/
@@ -16,14 +16,14 @@ public Path(Shape[] shapes)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| shapes | Shape[] | Массив фигур содержит набор сегментов пути. |
+| фигуры | Shape[] | Массив shape содержит набор сегментов пути. |
 
 ### См. также
 
-* класс [Shape](../../shape/)
-* класс [Path](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Shape](../../shape/)
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,6 +37,8 @@ public Path()
 
 ### См. также
 
-* класс [Path](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

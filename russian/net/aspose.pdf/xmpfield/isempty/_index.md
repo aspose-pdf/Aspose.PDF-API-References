@@ -1,25 +1,27 @@
 ---
-title: XmpField.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpField. Получает значение, указывающее, является ли этот экземпляр пустым
+title: "XmpField.IsEmpty"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpField. Возвращает значение, указывающее, пустой ли этот экземпляр"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/xmpfield/isempty/
 ---
-## Свойство XmpField.IsEmpty
+## XmpField.IsEmpty property
 
-Получает значение, указывающее, является ли этот экземпляр пустым.
+Получает значение, указывающее, пустой ли этот экземпляр.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-`true`, если этот экземпляр пуст; в противном случае `false`.
+`true`, если этот экземпляр пуст; иначе `false`.
 
 ### См. также
 
-* класс [XmpField](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

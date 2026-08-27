@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство QueueItem. Идентификатор кодирования, специфичный для платформы, для подтаблицы кодирования
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство QueueItem. Идентификатор платформенно-специфичного кодирования для подтаблицы кодирования."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid/
 ---
-## Свойство PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId
+## PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId property
 
-Идентификатор кодирования, специфичный для платформы, для подтаблицы кодирования
+Идентификатор кодировки, специфичный для платформы, для подтаблицы кодировки
 
 ```csharp
 public ushort PlatformSpecificId { get; set; }
@@ -16,6 +16,8 @@ public ushort PlatformSpecificId { get; set; }
 
 ### См. также
 
-* класс [QueueItem](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

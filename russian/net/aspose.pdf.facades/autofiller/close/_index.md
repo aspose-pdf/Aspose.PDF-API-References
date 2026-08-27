@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AutoFiller. Закрывает объект и выходные потоки
+title: "AutoFiller.Close"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AutoFiller. Закрывает объект и выходные потоки"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/autofiller/close/
 ---
-## Метод AutoFiller.Close
+## AutoFiller.Close method
 
-Закрывает объект и выходные потоки.
+Закрывает объект и потоки вывода.
 
 ```csharp
 public void Close()
@@ -16,6 +16,8 @@ public void Close()
 
 ### См. также
 
-* класс [AutoFiller](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

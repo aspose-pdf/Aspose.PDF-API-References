@@ -1,7 +1,7 @@
 ---
-title: TextFragmentAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextFragmentAbsorber. Выполняет поиск на указанной странице
+title: "TextFragmentAbsorber.Visit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextFragmentAbsorber. Выполняет поиск на указанной странице"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.text/textfragmentabsorber/visit/
@@ -16,47 +16,47 @@ public override void Visit(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы PDF документа. |
+| страница | Страница | Объект страницы PDF‑документа. |
 
 ## Примеры
 
-Пример демонстрирует, как найти текст на первой странице PDF документа и заменить текст.
+Пример демонстрирует, как найти текст на первой странице PDF‑документа и заменить его.
 
 ```csharp
-// Open document
+// Открыть документ
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// Найдите шрифт, который будет использоваться для изменения шрифта текста документа
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Создайте объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Примите поглотитель для первой страницы
 absorber.Visit(doc.Pages[1]);
 
-// Change text of all search occurrences
+// Изменить текст всех найденных вхождений
 foreach (TextFragment textFragment in absorber.TextFragments)
 {
     textFragment.Text = "hi world";
 }
 
-// Save document
+// Сохранить документ
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [TextFragmentAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Document) {#visit}
 
-Выполняет поиск на указанном документе.
+Выполняет поиск в указанном документе.
 
 ```csharp
 public override void Visit(Document pdf)
@@ -64,44 +64,44 @@ public override void Visit(Document pdf)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdf | Document | Объект PDF документа. |
+| pdf | Document | Объект PDF‑документа. |
 
 ## Примеры
 
-Пример демонстрирует, как найти текст в PDF документе и заменить текст всех найденных вхождений.
+Пример демонстрирует, как находить текст в PDF‑документе и заменять текст всех найденных вхождений.
 
 ```csharp
-// Open document
+// Открыть документ
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// Найдите шрифт, который будет использоваться для изменения шрифта текста документа
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Создайте объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Примите поглотитель для первой страницы
 absorber.Visit(doc);
 
-// Change text of the first text occurrence
+// Измените текст первого вхождения
 absorber.TextFragments[1].Text = "hi world";
 
-// Save document
+// Сохранить документ
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [TextFragmentAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(XForm) {#visit_2}
 
-Выполняет поиск на указанном объекте формы.
+Выполняет поиск в указанном объекте формы.
 
 ```csharp
 public void Visit(XForm xForm)
@@ -113,7 +113,9 @@ public void Visit(XForm xForm)
 
 ### См. также
 
-* класс [XForm](../../../aspose.pdf/xform/)
-* класс [TextFragmentAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

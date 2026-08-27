@@ -1,12 +1,12 @@
 ---
-title: Table.Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство таблицы. Получает строки таблицы
+title: "Table.Rows"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Table. Получает строки таблицы"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf/table/rows/
 ---
-## Свойство Table.Rows
+## Table.Rows property
 
 Получает строки таблицы.
 
@@ -16,7 +16,9 @@ public Rows Rows { get; }
 
 ### См. также
 
-* класс [Rows](../../rows/)
-* класс [Table](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rows](../../rows/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

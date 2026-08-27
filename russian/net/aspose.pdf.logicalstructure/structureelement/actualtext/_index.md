@@ -1,12 +1,12 @@
 ---
-title: StructureElement.ActualText
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureElement. Получает или задает фактический текст для элемента структуры
+title: "StructureElement.ActualText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureElement. Получает или задает фактический текст для элемента структуры"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/actualtext/
 ---
-## Свойство StructureElement.ActualText
+## StructureElement.ActualText property
 
 Получает или задает фактический текст для элемента структуры.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf.logicalstructure/structureelement/actualtext/
 public string ActualText { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Фактический текст элемента структуры.
 
 ### См. также
 
-* класс [StructureElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

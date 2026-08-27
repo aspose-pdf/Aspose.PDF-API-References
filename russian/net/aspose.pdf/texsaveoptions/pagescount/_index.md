@@ -1,14 +1,14 @@
 ---
-title: TeXSaveOptions.PagesCount
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TeXSaveOptions. Возвращает количество страниц после конвертации
+title: "TeXSaveOptions.PagesCount"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TeXSaveOptions. Возвращает количество страниц после конвертации"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/texsaveoptions/pagescount/
 ---
-## Свойство TeXSaveOptions.PagesCount
+## TeXSaveOptions.PagesCount property
 
-Возвращает количество страниц после конвертации.
+Возвращает количество страниц после преобразования.
 
 ```csharp
 public int PagesCount { get; }
@@ -16,6 +16,8 @@ public int PagesCount { get; }
 
 ### См. также
 
-* класс [TeXSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

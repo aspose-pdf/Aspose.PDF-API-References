@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.DefaultAppearanceObject
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FreeTextAnnotation. Объект, который представляет собой внешний вид по умолчанию аннотации FreeText
+title: "FreeTextAnnotation.DefaultAppearanceObject"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FreeTextAnnotation property. Объект, представляющий отображение по умолчанию для аннотации FreeText."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/freetextannotation/defaultappearanceobject/
 ---
-## Свойство FreeTextAnnotation.DefaultAppearanceObject
+## FreeTextAnnotation.DefaultAppearanceObject property
 
-Объект, который представляет собой внешний вид по умолчанию аннотации FreeText.
+Объект, представляющий внешний вид по умолчанию аннотации FreeText.
 
 ```csharp
 public DefaultAppearance DefaultAppearanceObject { get; }
@@ -16,7 +16,9 @@ public DefaultAppearance DefaultAppearanceObject { get; }
 
 ### См. также
 
-* класс [DefaultAppearance](../../defaultappearance/)
-* класс [FreeTextAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

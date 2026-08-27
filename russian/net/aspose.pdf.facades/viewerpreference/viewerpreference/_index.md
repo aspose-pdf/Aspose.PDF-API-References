@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.ViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ViewerPreference. Конструктор по умолчанию
+title: "ViewerPreference.ViewerPreference"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ViewerPreference конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/viewerpreference/viewerpreference/
 ---
-## Конструктор ViewerPreference
+## ViewerPreference constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ViewerPreference()
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

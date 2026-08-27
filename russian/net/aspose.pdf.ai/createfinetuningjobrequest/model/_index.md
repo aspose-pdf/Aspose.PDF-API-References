@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CreateFineTuningJobRequest. Получает или задает имя модели для дообучения. Вы можете выбрать одну из поддерживаемых моделей
+title: "CreateFineTuningJobRequest.Model"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CreateFineTuningJobRequest. Получает или задает имя модели для тонкой настройки. Вы можете выбрать одну из поддерживаемых моделей."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/createfinetuningjobrequest/model/
 ---
-## Свойство CreateFineTuningJobRequest.Model
+## CreateFineTuningJobRequest.Model property
 
-Получает или задает имя модели для дообучения. Вы можете выбрать одну из поддерживаемых моделей.
+Получает или задаёт имя модели для тонкой настройки. Вы можете выбрать одну из поддерживаемых моделей.
 
 ```csharp
 public string Model { get; set; }
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### См. также
 
-* класс [CreateFineTuningJobRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateFineTuningJobRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Rectangle. Инициализирует новый экземпляр класса Rectangle
+title: "Rectangle.Rectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Rectangle конструктор. Инициализирует новый экземпляр класса Rectangle"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/rectangle/rectangle/
 ---
-## Конструктор Rectangle
+## Rectangle constructor
 
 Инициализирует новый экземпляр класса [`Rectangle`](../).
 
@@ -23,6 +23,8 @@ public Rectangle(float left, float bottom, float width, float height)
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

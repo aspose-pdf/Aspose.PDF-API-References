@@ -1,12 +1,12 @@
 ---
-title: PolyAnnotation.StartingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PolyAnnotation. Получает или задает стиль окончания первой линии
+title: "PolyAnnotation.StartingStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PolyAnnotation. Получает или задает стиль окончания первой линии"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/polyannotation/startingstyle/
 ---
-## Свойство PolyAnnotation.StartingStyle
+## PolyAnnotation.StartingStyle property
 
 Получает или задает стиль окончания первой линии.
 
@@ -20,3 +20,5 @@ public LineEnding StartingStyle { get; set; }
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

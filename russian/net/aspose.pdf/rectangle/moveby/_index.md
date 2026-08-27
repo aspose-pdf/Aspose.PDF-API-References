@@ -1,14 +1,14 @@
 ---
-title: Rectangle.MoveBy
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rectangle. Сдвинуть прямоугольник на указанные дельты
+title: "Rectangle.MoveBy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Rectangle. Сдвигает прямоугольник на указанные дельты."
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf/rectangle/moveby/
 ---
-## Метод Rectangle.MoveBy
+## Rectangle.MoveBy method
 
-Сдвинуть прямоугольник на указанные дельты.
+Смещает прямоугольник на указанные дельты.
 
 ```csharp
 public void MoveBy(double dx, double dy)
@@ -16,11 +16,13 @@ public void MoveBy(double dx, double dy)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dx | Double | Значение сдвига по оси X. |
-| dy | Double | Значение сдвига по оси Y. |
+| dx | Double | Значение смещения по оси X. |
+| dy | Double | Значение смещения по оси Y. |
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

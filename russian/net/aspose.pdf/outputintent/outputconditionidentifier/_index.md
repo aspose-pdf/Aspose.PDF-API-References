@@ -1,14 +1,14 @@
 ---
-title: OutputIntent.OutputConditionIdentifier
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutputIntent. Получает или задает текст, который идентифицирует предполагаемое устройство вывода или производственное условие в читаемой человеком или машинной форме
+title: "OutputIntent.OutputConditionIdentifier"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutputIntent. Получает или задаёт текст, идентифицирующий целевое устройство вывода или условие производства в человеко- или машиночитаемом виде"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/outputintent/outputconditionidentifier/
 ---
-## Свойство OutputIntent.OutputConditionIdentifier
+## OutputIntent.OutputConditionIdentifier property
 
-Получает или задает текст, который идентифицирует предполагаемое устройство вывода или производственное условие в читаемой человеком или машинной форме.
+Получает или задает текст, который идентифицирует предполагаемое устройство вывода или производственное условие в читаемом человеком или машиной виде.
 
 ```csharp
 public string OutputConditionIdentifier { get; set; }
@@ -16,6 +16,8 @@ public string OutputConditionIdentifier { get; set; }
 
 ### См. также
 
-* класс [OutputIntent](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutputIntent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

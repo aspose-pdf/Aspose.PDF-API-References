@@ -1,14 +1,14 @@
 ---
-title: PdfAConverter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfAConverter. Начинает процесс конвертации или валидации PDF/A с заданными параметрами
+title: "PdfAConverter.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfAConverter. Запускает процесс конвертации или проверки PDF/A с заданными параметрами."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/pdfaconverter/process/
 ---
-## Метод PdfAConverter.Process
+## PdfAConverter.Process method
 
-Начинает процесс конвертации или валидации PDF/A с заданными параметрами.
+Запускает процесс конвертации или проверки PDF/A с заданными параметрами.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,16 +16,18 @@ public ResultContainer Process(IPluginOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | IPluginOptions | Объект параметров, содержащий инструкции для плагина. Должен быть экземпляром класса [`PdfAConvertOptions`](../../pdfaconvertoptions/) или класса [`PdfAValidateOptions`](../../pdfavalidateoptions/). |
+| options | IPluginOptions | Объект параметров, содержащий инструкции для плагина. Должен быть экземпляром класса [`PdfAConvertOptions`](../../pdfaconvertoptions/) или [`PdfAValidateOptions`](../../pdfavalidateoptions/). |
 
 ### Возвращаемое значение
 
-Объект [`ResultContainer`](../../resultcontainer/) содержащий результат обработки.
+Объект [`ResultContainer`](../../resultcontainer/), содержащий результат обработки.
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* класс [PdfAConverter](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [PdfAConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

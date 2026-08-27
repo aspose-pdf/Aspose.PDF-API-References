@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.StrikeOut
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureTextState. Получает или задает зачеркивание для текста
+title: "StructureTextState.StrikeOut"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTextState свойство. Получает или задает зачеркивание текста"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.logicalstructure/structuretextstate/strikeout/
 ---
-## Свойство StructureTextState.StrikeOut
+## StructureTextState.StrikeOut property
 
-Получает или задает зачеркивание для текста.
+Получает или задает зачеркивание текста.
 
 ```csharp
 public bool? StrikeOut { get; set; }
@@ -20,6 +20,8 @@ public bool? StrikeOut { get; set; }
 
 ### См. также
 
-* класс [StructureTextState](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

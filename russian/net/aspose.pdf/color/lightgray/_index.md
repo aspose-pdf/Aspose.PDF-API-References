@@ -1,14 +1,14 @@
 ---
-title: Color.LightGray
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFD3D3D3
+title: "Color.LightGray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системный цвет с ARGB‑значением c FFD3D3D3"
 type: docs
 weight: 690
 url: /ru/net/aspose.pdf/color/lightgray/
 ---
-## Свойство Цвет.СветлоСерый
+## Color.LightGray property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFD3D3D3.
+Получает системно определённый цвет, значение ARGB которого \c \#FFD3D3D3.
 
 ```csharp
 public static Color LightGray { get; }
@@ -16,10 +16,12 @@ public static Color LightGray { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

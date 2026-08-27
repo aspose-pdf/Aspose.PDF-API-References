@@ -1,14 +1,14 @@
 ---
-title: PdfDocument.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfDocument. Получает или задает имя PDF-документа. Генерирует новый GUID, если имя не задано
+title: "PdfDocument.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfDocument. Получает или задает имя PDF document. Генерирует новый GUID, если имя не задано"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/pdfdocument/name/
 ---
-## Свойство PdfDocument.Name
+## PdfDocument.Name property
 
-Получает или задает имя PDF-документа. Генерирует новый GUID, если имя не задано.
+Получает или задаёт имя PDF‑документа. Генерирует новый GUID, если имя не задано.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [PdfDocument](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

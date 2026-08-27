@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.CreateCompletionAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Создает новое завершение асинхронно
+title: "IOpenAIClient.CreateCompletionAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно создает новое завершение."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/iopenaiclient/createcompletionasync/
 ---
-## Метод IOpenAIClient.CreateCompletionAsync
+## IOpenAIClient.CreateCompletionAsync method
 
 Создает новое завершение асинхронно.
 
@@ -26,8 +26,10 @@ public Task<CompletionResponse> CreateCompletionAsync(
 
 ### См. также
 
-* класс [CompletionResponse](../../completionresponse/)
-* класс [CompletionCreateRequest](../../completioncreaterequest/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CompletionResponse](../../completionresponse/)
+* class [CompletionCreateRequest](../../completioncreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

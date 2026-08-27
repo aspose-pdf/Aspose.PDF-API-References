@@ -1,7 +1,7 @@
 ---
-title: ConcatenateMatrix.ConcatenateMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ConcatenateMatrix. Инициализирует оператор
+title: "ConcatenateMatrix.ConcatenateMatrix"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ConcatenateMatrix. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/concatenatematrix/concatenatematrix/
@@ -25,15 +25,15 @@ public ConcatenateMatrix(double a, double b, double c, double d, double e, doubl
 
 ### См. также
 
-* класс [ConcatenateMatrix](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [ConcatenateMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ConcatenateMatrix(Matrix) {#constructor}
 
-Инициализирует оператор по матрице.
+Инициализирует оператор с помощью матрицы.
 
 ```csharp
 public ConcatenateMatrix(Matrix m)
@@ -41,11 +41,13 @@ public ConcatenateMatrix(Matrix m)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| m | Matrix | Матрица преобразования. |
+| m | Matrix | Матрица трансформации. |
 
 ### См. также
 
-* класс [Matrix](../../../aspose.pdf/matrix/)
-* класс [ConcatenateMatrix](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [ConcatenateMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

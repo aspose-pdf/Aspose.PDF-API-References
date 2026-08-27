@@ -1,14 +1,14 @@
 ---
-title: Color.Purple
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF800080
+title: "Color.Purple"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Получает системный цвет, у которого ARGB‑значение c FF800080"
 type: docs
 weight: 1140
 url: /ru/net/aspose.pdf/color/purple/
 ---
-## Свойство Color.Purple
+## Color.Purple property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF800080.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FF800080.
 
 ```csharp
 public static Color Purple { get; }
@@ -16,10 +16,12 @@ public static Color Purple { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

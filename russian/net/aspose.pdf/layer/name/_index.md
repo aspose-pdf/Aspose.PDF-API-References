@@ -1,12 +1,12 @@
 ---
-title: Layer.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство слоя. Получает имя слоя
+title: "Layer.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Layer. Получает имя слоя."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/layer/name/
 ---
-## Свойство Layer.Name
+## Layer.Name property
 
 Получает имя слоя.
 
@@ -16,6 +16,8 @@ public string Name { get; }
 
 ### См. также
 
-* класс [Layer](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

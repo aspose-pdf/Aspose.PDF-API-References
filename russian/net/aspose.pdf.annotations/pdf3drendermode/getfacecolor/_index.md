@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.GetFaceColor
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DRenderMode. Получает цвет грани
+title: "PDF3DRenderMode.GetFaceColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PDF3DRenderMode. Получает цвет грани"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/getfacecolor/
 ---
-## Метод PDF3DRenderMode.GetFaceColor
+## PDF3DRenderMode.GetFaceColor method
 
-Получает цвет грани.
+Получает color грани.
 
 ```csharp
 public object GetFaceColor()
@@ -16,10 +16,12 @@ public object GetFaceColor()
 
 ### Возвращаемое значение
 
-Объект.
+Object.
 
 ### См. также
 
-* класс [PDF3DRenderMode](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

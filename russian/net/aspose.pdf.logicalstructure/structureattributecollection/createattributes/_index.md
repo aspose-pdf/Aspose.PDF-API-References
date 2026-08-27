@@ -1,14 +1,14 @@
 ---
-title: StructureAttributeCollection.CreateAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureAttributeCollection. Создайте и верните StructureAttributes элемента структуры по стандартному владельцу атрибутов
+title: "StructureAttributeCollection.CreateAttributes"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureAttributeCollection. Создаёт и возвращает StructureAttributes структурного элемента по стандартному владельцу атрибутов"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/
 ---
-## Метод StructureAttributeCollection.CreateAttributes
+## StructureAttributeCollection.CreateAttributes method
 
-Создайте и верните [`StructureAttributes`](../../structureattributes/) элемента структуры по стандартному владельцу атрибутов.
+Создаёт и возвращает [`StructureAttributes`](../../structureattributes/) структурного элемента по стандартному владельцу атрибутов.
 
 ```csharp
 public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard)
@@ -20,12 +20,14 @@ public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard
 
 ### Возвращаемое значение
 
-[`StructureAttributes`](../../structureattributes/) элемента структуры. Structure Attributes будут созданы, если это необходимо.
+[`StructureAttributes`](../../structureattributes/) of structure element. Structure Attributes will be created if it needed.
 
 ### См. также
 
-* класс [StructureAttributes](../../structureattributes/)
-* класс [AttributeOwnerStandard](../../attributeownerstandard/)
-* класс [StructureAttributeCollection](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

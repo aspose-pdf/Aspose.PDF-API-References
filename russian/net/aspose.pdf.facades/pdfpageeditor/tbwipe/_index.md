@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.TBWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfPageEditor. Верхний-Нижний Стирание
+title: "PdfPageEditor.TBWIPE"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfPageEditor. Стирание сверху вниз"
 type: docs
 weight: 340
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/tbwipe/
 ---
-## Поле PdfPageEditor.TBWIPE
+## PdfPageEditor.TBWIPE field
 
-Верхний-Нижний Стирание
+Сверху‑вниз стирание
 
 ```csharp
 public const int TBWIPE;
@@ -16,6 +16,8 @@ public const int TBWIPE;
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

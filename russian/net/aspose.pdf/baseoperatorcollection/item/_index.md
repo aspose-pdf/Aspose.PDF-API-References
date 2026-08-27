@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseOperatorCollection. Получает оператор по его индексу
+title: "BaseOperatorCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "BaseOperatorCollection свойство. Получает оператор по его индексу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/baseoperatorcollection/item/
 ---
-## Индексатор BaseOperatorCollection
+## BaseOperatorCollection indexer
 
-Получает оператор по его индексу.
+Возвращает оператор по его индексу.
 
 ```csharp
 public abstract Operator this[int index] { get; set; }
@@ -20,11 +20,13 @@ public abstract Operator this[int index] { get; set; }
 
 ### Возвращаемое значение
 
-Оператор с запрашиваемого индекса
+Оператор по запрошенному индексу
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [BaseOperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

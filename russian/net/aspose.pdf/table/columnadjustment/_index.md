@@ -1,14 +1,14 @@
 ---
-title: Table.ColumnAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство таблицы. Получает или устанавливает настройку столбца таблицы
+title: "Table.ColumnAdjustment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Table. Получает или задает настройку столбцов таблицы"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/table/columnadjustment/
 ---
-## Свойство Table.ColumnAdjustment
+## Table.ColumnAdjustment property
 
-Получает или устанавливает настройку столбца таблицы.
+Получает или задает настройку столбцов таблицы.
 
 ```csharp
 public ColumnAdjustment ColumnAdjustment { get; set; }
@@ -20,3 +20,5 @@ public ColumnAdjustment ColumnAdjustment { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BuildVersionInfo.Product
-second_title: Aspose.PDF for .NET API Reference
-description: Поле BuildVersionInfo. Название продукта
+title: "BuildVersionInfo.Product"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле BuildVersionInfo. Название продукта"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/buildversioninfo/product/
 ---
-## Поле BuildVersionInfo.Product
+## BuildVersionInfo.Product field
 
 Название продукта
 
@@ -16,6 +16,8 @@ public const string Product;
 
 ### См. также
 
-* класс [BuildVersionInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BuildVersionInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

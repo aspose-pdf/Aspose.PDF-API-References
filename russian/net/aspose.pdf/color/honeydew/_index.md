@@ -1,14 +1,14 @@
 ---
-title: Color.Honeydew
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFF0FFF0
+title: "Color.Honeydew"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB‑значением c FFF0FFF0."
 type: docs
 weight: 550
 url: /ru/net/aspose.pdf/color/honeydew/
 ---
-## Свойство Color.Honeydew
+## Color.Honeydew property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFF0FFF0.
+Получает системно определённый цвет, значение ARGB которого \c \#FFF0FFF0.
 
 ```csharp
 public static Color Honeydew { get; }
@@ -16,10 +16,12 @@ public static Color Honeydew { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

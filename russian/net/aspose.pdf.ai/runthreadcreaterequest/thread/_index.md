@@ -1,14 +1,14 @@
 ---
-title: RunThreadCreateRequest.Thread
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunThreadCreateRequest. Получает или устанавливает запрос на создание потока
+title: "RunThreadCreateRequest.Thread"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunThreadCreateRequest. Получает или задает запрос на создание потока."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.ai/runthreadcreaterequest/thread/
 ---
-## Свойство RunThreadCreateRequest.Thread
+## RunThreadCreateRequest.Thread property
 
-Получает или устанавливает запрос на создание потока.
+Получает или задает запрос на создание потока.
 
 ```csharp
 public ThreadCreateRequest Thread { get; set; }
@@ -16,7 +16,9 @@ public ThreadCreateRequest Thread { get; set; }
 
 ### См. также
 
-* класс [ThreadCreateRequest](../../threadcreaterequest/)
-* класс [RunThreadCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadCreateRequest](../../threadcreaterequest/)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

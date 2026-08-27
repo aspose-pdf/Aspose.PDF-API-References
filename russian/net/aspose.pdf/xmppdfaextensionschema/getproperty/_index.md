@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.GetProperty
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpPdfAExtensionSchema. Возвращает свойство PDF/A по его имени
+title: "XmpPdfAExtensionSchema.GetProperty"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpPdfAExtensionSchema. Возвращает свойство PDF/A по его имени"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/getproperty/
 ---
-## Метод XmpPdfAExtensionSchema.GetProperty
+## XmpPdfAExtensionSchema.GetProperty method
 
 Возвращает свойство PDF/A по его имени.
 
@@ -16,7 +16,7 @@ public XmpPdfAExtensionProperty GetProperty(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя свойства. |
+| имя | String | Имя свойства. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public XmpPdfAExtensionProperty GetProperty(string name)
 
 ### См. также
 
-* класс [XmpPdfAExtensionProperty](../../xmppdfaextensionproperty/)
-* класс [XmpPdfAExtensionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionProperty](../../xmppdfaextensionproperty/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

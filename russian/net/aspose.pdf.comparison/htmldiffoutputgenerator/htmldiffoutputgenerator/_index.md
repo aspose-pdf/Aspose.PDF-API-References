@@ -1,20 +1,20 @@
 ---
-title: HtmlDiffOutputGenerator.HtmlDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор HtmlDiffOutputGenerator. Создает экземпляр класса HtmlDiffOutputGenerator
+title: "HtmlDiffOutputGenerator.HtmlDiffOutputGenerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор HtmlDiffOutputGenerator. Создаёт экземпляр класса HtmlDiffOutputGenerator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.comparison/htmldiffoutputgenerator/htmldiffoutputgenerator/
 ---
 ## HtmlDiffOutputGenerator() {#constructor}
 
-Создает экземпляр класса [`HtmlDiffOutputGenerator`](../).
+Создаёт экземпляр класса [`HtmlDiffOutputGenerator`](../).
 
 ```csharp
 public HtmlDiffOutputGenerator()
 ```
 
-### See Also
+### См. также
 
 * class [HtmlDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
@@ -24,19 +24,21 @@ public HtmlDiffOutputGenerator()
 
 ## HtmlDiffOutputGenerator(OutputTextStyle) {#constructor_1}
 
-Создает экземпляр класса [`HtmlDiffOutputGenerator`](../).
+Создаёт экземпляр класса [`HtmlDiffOutputGenerator`](../).
 
 ```csharp
 public HtmlDiffOutputGenerator(OutputTextStyle textStyle)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| textStyle | OutputTextStyle | Стили для измененного текста. |
+| textStyle | OutputTextStyle | Стили для изменённого текста. |
 
-### See Also
+### См. также
 
 * class [OutputTextStyle](../../outputtextstyle/)
 * class [HtmlDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

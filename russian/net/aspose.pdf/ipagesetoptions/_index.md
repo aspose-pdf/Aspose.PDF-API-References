@@ -1,14 +1,14 @@
 ---
-title: Interface IPageSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.IPageSetOptions. Определяет параметры конвертации, связанные с набором страниц для конвертации
+title: "Интерфейс IPageSetOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.IPageSetOptions. Определяет параметры конвертации, связанные с набором страниц для преобразования."
 type: docs
-weight: 5800
+weight: 5930
 url: /ru/net/aspose.pdf/ipagesetoptions/
 ---
-## Интерфейс IPageSetOptions
+## IPageSetOptions interface
 
-Определяет параметры конвертации, связанные с набором страниц для конвертации.
+Определяет параметры конвертации, связанные с набором страниц для преобразования.
 
 ```csharp
 public interface IPageSetOptions
@@ -18,9 +18,11 @@ public interface IPageSetOptions
 
 | Имя | Описание |
 | --- | --- |
-| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | Указывает массив номеров страниц для конвертации. |
+| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | Указывает массив номеров страниц для преобразования. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

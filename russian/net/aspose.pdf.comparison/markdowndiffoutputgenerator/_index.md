@@ -1,14 +1,14 @@
 ---
-title: Class MarkdownDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Comparison.MarkdownDiffOutputGenerator. Представляет класс для генерации markdown представления различий текстов. Из-за синтаксиса markdown невозможно показать изменения в символах пробела. Выбор изменений требует добавления символов пробела вокруг форматирования, иначе просмотрщик markdown не сможет корректно отобразить текст. Удаленные разрывы строк обозначаются знаком абзаца.
+title: "Класс MarkdownDiffOutputGenerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Comparison.MarkdownDiffOutputGenerator. Представляет класс для создания markdown‑представления различий текста. Из‑за синтаксиса markdown невозможно отобразить изменения пробельных символов. Выбор изменений приводит к добавлению пробельных символов вокруг форматирования, иначе markdown‑просмотрщик некорректно отобразит текст. Удалённые разрывы строк обозначаются знаком абзаца."
 type: docs
-weight: 3250
+weight: 3360
 url: /ru/net/aspose.pdf.comparison/markdowndiffoutputgenerator/
 ---
-## Класс MarkdownDiffOutputGenerator
+## MarkdownDiffOutputGenerator class
 
-Представляет класс для генерации markdown представления различий текстов. Из-за синтаксиса markdown невозможно показать изменения в символах пробела. Выбор изменений требует добавления символов пробела вокруг форматирования, иначе просмотрщик markdown не сможет корректно отобразить текст. Удаленные разрывы строк обозначаются знаком абзаца.
+Представляет класс для генерации markdown‑представления различий текстов. Из‑за синтаксиса markdown невозможно отобразить изменения пробельных символов. Выбор изменений приводит к добавлению пробельных символов вокруг форматирования, иначе markdown‑просмотрщик некорректно отобразит текст. Удалённые разрывы строк обозначаются знаком абзаца «-».
 
 ```csharp
 public class MarkdownDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenerator
@@ -31,7 +31,9 @@ public class MarkdownDiffOutputGenerator : IFileOutputGenerator, IStringOutputGe
 
 ### См. также
 
-* интерфейс [IFileOutputGenerator](../ifileoutputgenerator/)
-* интерфейс [IStringOutputGenerator](../istringoutputgenerator/)
-* пространство имен [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../)
+* interface [IFileOutputGenerator](../ifileoutputgenerator/)
+* interface [IStringOutputGenerator](../istringoutputgenerator/)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

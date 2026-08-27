@@ -1,43 +1,45 @@
 ---
-title: Class SetCharWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetCharWidth. Класс, представляющий оператор d0, устанавливающий ширину глифа
+title: "Класс SetCharWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.SetCharWidth class. Класс, представляющий оператор d0, задающий ширину глифа"
 type: docs
-weight: 7600
+weight: 7740
 url: /ru/net/aspose.pdf.operators/setcharwidth/
 ---
 ## SetCharWidth class
 
-Класс, представляющий оператор d0 (устанавливает ширину глифа).
+Класс, представляющий оператор d0 (установка ширины глифа).
 
 ```csharp
 public class SetCharWidth : Operator
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [SetCharWidth](setcharwidth/)(double, double) | Конструктор. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
 | [Wx](../../aspose.pdf.operators/setcharwidth/wx/) { get; } | Горизонтальное смещение координаты глифа. |
 | [Wy](../../aspose.pdf.operators/setcharwidth/wy/) { get; } | Вертикальное смещение координаты глифа. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcharwidth/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcharwidth/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/setcharwidth/tostring/)() | Возвращает текстовое представление оператора. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
-### See Also
+### См. также
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

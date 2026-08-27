@@ -1,14 +1,14 @@
 ---
-title: BaseListQueryParameters.Order
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseListQueryParameters. Получает или устанавливает порядок сортировки по метке времени created_at объектов. asc для восходящего порядка и desc для нисходящего порядка
+title: "BaseListQueryParameters.Order"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BaseListQueryParameters. Получает или задает порядок сортировки по метке времени created_at объектов. asc — для восходящего порядка, desc — для нисходящего."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/baselistqueryparameters/order/
 ---
-## Свойство BaseListQueryParameters.Order
+## BaseListQueryParameters.Order property
 
-Получает или устанавливает порядок сортировки по метке времени created_at объектов. asc для восходящего порядка и desc для нисходящего порядка.
+Получает или задает порядок сортировки по метке времени created_at объектов. asc — для сортировки по возрастанию, desc — для сортировки по убыванию.
 
 ```csharp
 public string Order { get; set; }
@@ -16,6 +16,8 @@ public string Order { get; set; }
 
 ### См. также
 
-* класс [BaseListQueryParameters](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

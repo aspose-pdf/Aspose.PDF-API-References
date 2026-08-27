@@ -1,7 +1,7 @@
 ---
-title: PDF3DArtwork.PDF3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PDF3DArtwork. Инициализирует новый экземпляр класса PDF3DArtwork
+title: "PDF3DArtwork.PDF3DArtwork"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PDF3DArtwork. Инициализирует новый экземпляр класса PDF3DArtwork"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dartwork/pdf3dartwork/
@@ -18,19 +18,19 @@ public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme ligh
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | doc | Document | Документ. |
-| content | PDF3DContent | Содержимое. |
+| содержание | PDF3DContent | Содержимое. |
 | lightingScheme | PDF3DLightingScheme | Схема освещения. |
 | renderMode | PDF3DRenderMode | Режим рендеринга. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PDF3DContent](../../pdf3dcontent/)
-* класс [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* класс [PDF3DRenderMode](../../pdf3drendermode/)
-* класс [PDF3DArtwork](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DContent](../../pdf3dcontent/)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -45,12 +45,14 @@ public PDF3DArtwork(Document doc, PDF3DContent content)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | doc | Document | Документ. |
-| content | PDF3DContent | Содержимое. |
+| содержание | PDF3DContent | Содержимое. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PDF3DContent](../../pdf3dcontent/)
-* класс [PDF3DArtwork](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DContent](../../pdf3dcontent/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CharInfoCollection. Определяет, содержит ли коллекция конкретное значение
+title: "CharInfoCollection.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CharInfoCollection. Определяет, содержит ли коллекция определённое значение"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.text/charinfocollection/contains/
 ---
-## Метод CharInfoCollection.Contains
+## CharInfoCollection.Contains method
 
 Определяет, содержит ли коллекция конкретное значение.
 
@@ -20,11 +20,13 @@ public bool Contains(CharInfo item)
 
 ### Возвращаемое значение
 
-true, если элемент найден в коллекции; в противном случае false.
+true, если элемент найден в коллекции; иначе false.
 
 ### См. также
 
-* класс [CharInfo](../../charinfo/)
-* класс [CharInfoCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

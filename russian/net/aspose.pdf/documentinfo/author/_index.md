@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Author
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentInfo. Получает или задает автора документа
+title: "DocumentInfo.Author"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentInfo. Получает или задает автора документа"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/documentinfo/author/
 ---
-## Свойство DocumentInfo.Author
+## DocumentInfo.Author property
 
 Получает или задает автора документа.
 
@@ -16,6 +16,8 @@ public string Author { get; set; }
 
 ### См. также
 
-* класс [DocumentInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

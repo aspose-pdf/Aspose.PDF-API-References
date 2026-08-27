@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompletionCreateRequest. Получает или задает ID модели для использования
+title: "CompletionCreateRequest.Model"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "CompletionCreateRequest свойство. Получает или задает идентификатор модели, которую следует использовать"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.ai/completioncreaterequest/model/
 ---
-## Свойство CompletionCreateRequest.Model
+## CompletionCreateRequest.Model property
 
-Получает или задает ID модели для использования.
+Получает или задает идентификатор модели, которую следует использовать.
 
 ```csharp
 public string Model { get; set; }
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### См. также
 
-* класс [CompletionCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

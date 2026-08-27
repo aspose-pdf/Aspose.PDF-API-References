@@ -1,14 +1,14 @@
 ---
-title: Class BMC
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.BMC. Класс, представляющий оператор BMC Начало последовательности размеченного содержимого
+title: "Класс BMC"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.BMC class. Класс, представляющий оператор BMC, начинающий последовательность помеченного контента"
 type: docs
-weight: 7120
+weight: 7260
 url: /ru/net/aspose.pdf.operators/bmc/
 ---
-## Класс BMC
+## BMC class
 
-Класс, представляющий оператор BMC (Начало последовательности размеченного содержимого).
+Класс, представляющий оператор BMC (Begin marked-content sequence).
 
 ```csharp
 public class BMC : Operator
@@ -25,18 +25,20 @@ public class BMC : Operator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [Tag](../../aspose.pdf.operators/bmc/tag/) { get; set; } | Получает или устанавливает тег размеченного содержимого |
+| [Tag](../../aspose.pdf.operators/bmc/tag/) { get; set; } | Получает или задает тег помеченного контента |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bmc/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/bmc/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/bmc/tostring/)() | Возвращает текстовое представление оператора. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

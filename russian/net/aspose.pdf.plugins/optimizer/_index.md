@@ -1,12 +1,12 @@
 ---
-title: Class Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.Optimizer. Представляет плагин Оптимизатор
+title: "Класс Optimizer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.Optimizer class. Представляет плагин Optimizer"
 type: docs
-weight: 8970
+weight: 9120
 url: /ru/net/aspose.pdf.plugins/optimizer/
 ---
-## Класс Оптимизатор
+## Optimizer class
 
 Представляет плагин `Optimizer`.
 
@@ -28,23 +28,25 @@ public sealed class Optimizer : IPlugin
 
 ## Примеры
 
-Пример демонстрирует, как оптимизировать PDF документ.
+Пример демонстрирует, как оптимизировать PDF-документ.
 
 ```csharp
-// create Optimizer
+// создать Optimizer
 var optimizer = new Optimizer();
-// create OptimizeOptions object to set instructions
+// создать объект OptimizeOptions для установки инструкций
 var opt = new OptimizeOptions();
-// add input file paths
+// добавить пути входных файлов
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// установить путь выходного файла
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// выполнить процесс
 optimizer.Process(opt);
 ```
 
 ### См. также
 
-* интерфейс [IPlugin](../iplugin/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: InkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство InkAnnotation. Получает тип аннотации
+title: "InkAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство InkAnnotation. Возвращает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/inkannotation/annotationtype/
 ---
-## Свойство InkAnnotation.AnnotationType
+## InkAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

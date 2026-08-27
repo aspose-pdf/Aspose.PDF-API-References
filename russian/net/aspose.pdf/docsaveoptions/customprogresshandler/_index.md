@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Поле DocSaveOptions. Этот обработчик может быть использован для обработки событий прогресса конверсии, например, его можно использовать для отображения индикатора прогресса или сообщений о текущем количестве обработанных страниц, пример кода обработчика, который показывает прогресс в консоли
+title: "DocSaveOptions.CustomProgressHandler"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле DocSaveOptions. Этот обработчик может использоваться для обработки событий прогресса конвертации, например, его можно использовать для отображения индикатора прогресса или сообщений о текущем количестве обработанных страниц. Пример кода обработчика, который выводит прогресс в консоль, выглядит так."
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/docsaveoptions/customprogresshandler/
 ---
-## Поле DocSaveOptions.CustomProgressHandler
+## DocSaveOptions.CustomProgressHandler field
 
-Этот обработчик может быть использован для обработки событий прогресса конверсии, например, его можно использовать для отображения индикатора прогресса или сообщений о текущем количестве обработанных страниц, пример кода обработчика, который показывает прогресс в консоли:
+Этот обработчик можно использовать для обработки событий прогресса конвертации, например, для отображения индикатора прогресса или сообщений о текущем количестве обработанных страниц; пример кода обработчика, выводящего прогресс в консоль:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler;
@@ -50,7 +50,9 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 
 ### См. также
 
-* делегат [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
-* класс [DocSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Signature.TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство подписи. Получает/устанавливает настройки временной метки
+title: "Signature.TimestampSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Signature. Получает/задает настройки метки времени"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.forms/signature/timestampsettings/
 ---
-## Свойство Signature.TimestampSettings
+## Signature.TimestampSettings property
 
-Получает/устанавливает настройки временной метки.
+Получает/задает настройки метки времени.
 
 ```csharp
 public TimestampSettings TimestampSettings { get; set; }
@@ -16,7 +16,9 @@ public TimestampSettings TimestampSettings { get; set; }
 
 ### См. также
 
-* класс [TimestampSettings](../../../aspose.pdf/timestampsettings/)
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Page.IntToRotation
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Преобразует целочисленное значение в соответствующий член перечисления вращения
+title: "Page.IntToRotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Преобразует целочисленное значение в соответствующий член перечисления rotation"
 type: docs
 weight: 560
 url: /ru/net/aspose.pdf/page/inttorotation/
 ---
-## Метод Page.IntToRotation
+## Page.IntToRotation method
 
-Преобразует целочисленное значение в соответствующий член перечисления вращения.
+Преобразует целочисленное значение в соответствующий элемент перечисления вращения.
 
 ```csharp
 public static Rotation IntToRotation(int rotation)
@@ -16,11 +16,11 @@ public static Rotation IntToRotation(int rotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rotation | Int32 | Целочисленное значение для преобразования |
+| вращение | Int32 | Целочисленное значение для преобразования |
 
 ### Возвращаемое значение
 
-Член перечисления вращения
+Член перечисления Rotation
 
 ### См. также
 
@@ -28,3 +28,5 @@ public static Rotation IntToRotation(int rotation)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TocGenerator.TocGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TocGenerator. Конструктор по умолчанию
+title: "TocGenerator.TocGenerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TocGenerator. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/tocgenerator/tocgenerator/
 ---
-## Конструктор TocGenerator
+## TocGenerator constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public TocGenerator()
 
 ### См. также
 
-* класс [TocGenerator](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TocGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

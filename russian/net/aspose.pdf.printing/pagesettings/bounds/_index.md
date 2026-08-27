@@ -1,14 +1,14 @@
 ---
-title: PageSettings.Bounds
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageSettings. Получает границы страницы с учетом свойства Landscape
+title: "PageSettings.Bounds"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageSettings. Возвращает границы страницы с учётом свойства Landscape."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.printing/pagesettings/bounds/
 ---
-## Свойство PageSettings.Bounds
+## PageSettings.Bounds property
 
-Получает границы страницы, с учетом свойства Landscape.
+Получает границы страницы с учётом свойства Landscape.
 
 ```csharp
 public Rectangle Bounds { get; }
@@ -16,7 +16,9 @@ public Rectangle Bounds { get; }
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [PageSettings](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

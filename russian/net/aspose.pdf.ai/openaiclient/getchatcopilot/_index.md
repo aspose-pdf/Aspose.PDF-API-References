@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Получает экземпляр IChatCopilot с указанными параметрами
+title: "OpenAIClient.GetChatCopilot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Получает экземпляр IChatCopilot с указанными параметрами."
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.ai/openaiclient/getchatcopilot/
 ---
-## Метод OpenAIClient.GetChatCopilot
+## OpenAIClient.GetChatCopilot method
 
 Получает экземпляр [`IChatCopilot`](../../ichatcopilot/) с указанными параметрами.
 
@@ -16,7 +16,7 @@ public IChatCopilot GetChatCopilot(IChatCopilotOptions<OpenAIChatCopilotOptions>
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | IChatCopilotOptions`1 | Параметры для чат-коопилота. |
+| options | IChatCopilotOptions`1 | Параметры для чат‑копилота. |
 
 ### Возвращаемое значение
 
@@ -24,9 +24,11 @@ public IChatCopilot GetChatCopilot(IChatCopilotOptions<OpenAIChatCopilotOptions>
 
 ### См. также
 
-* интерфейс [IChatCopilot](../../ichatcopilot/)
-* интерфейс [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* класс [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [IChatCopilot](../../ichatcopilot/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
+* class [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IIndexBitmapConverter.Get4BppImage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IIndexBitmapConverter. Возвращает представление битовой карты 4Bpp
+title: "IIndexBitmapConverter.Get4BppImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IIndexBitmapConverter. Возвращает 4Bpp bitmap представление"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/iindexbitmapconverter/get4bppimage/
 ---
-## Метод IIndexBitmapConverter.Get4BppImage
+## IIndexBitmapConverter.Get4BppImage method
 
-Возвращает представление битовой карты 4Bpp
+Возвращает 4‑битное (4Bpp) представление растрового изображения
 
 ```csharp
 public Bitmap Get4BppImage(Bitmap src)
@@ -16,14 +16,16 @@ public Bitmap Get4BppImage(Bitmap src)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| src | Bitmap | Исходная битовая карта. |
+| src | Bitmap | Исходный bitmap. |
 
 ### Возвращаемое значение
 
-Битовая карта в формате изображения 4 bpp.
+Bitmap в формате изображения 4 bpp.
 
 ### См. также
 
-* интерфейс [IIndexBitmapConverter](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* interface [IIndexBitmapConverter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

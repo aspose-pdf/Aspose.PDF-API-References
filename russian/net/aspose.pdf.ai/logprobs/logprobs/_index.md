@@ -1,12 +1,12 @@
 ---
-title: Logprobs.Logprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Logprobs. Конструктор по умолчанию
+title: "Logprobs.Logprobs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Logprobs. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/logprobs/logprobs/
 ---
-## Конструктор Logprobs
+## Logprobs constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Logprobs()
 
 ### См. также
 
-* класс [Logprobs](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Logprobs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

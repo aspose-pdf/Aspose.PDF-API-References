@@ -1,14 +1,14 @@
 ---
-title: TableBuilder.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableBuilder. Преобразует строителя TableBuilder в параметры TableOptions
+title: "TableBuilder.op_Implicit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TableBuilder метод. Преобразует построитель TableBuilder в параметры TableOptions"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.plugins/tablebuilder/op_implicit/
 ---
-## Неявный оператор TableBuilder
+## TableBuilder Implicit operator
 
-Преобразует строителя [`TableBuilder`](../) в параметры [`TableOptions`](../../tableoptions/)
+Преобразует построитель [`TableBuilder`](../) в параметры [`TableOptions`](../../tableoptions/)
 
 ```csharp
 public static implicit operator TableOptions(TableBuilder builder)
@@ -24,7 +24,9 @@ public static implicit operator TableOptions(TableBuilder builder)
 
 ### См. также
 
-* класс [TableOptions](../../tableoptions/)
-* класс [TableBuilder](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

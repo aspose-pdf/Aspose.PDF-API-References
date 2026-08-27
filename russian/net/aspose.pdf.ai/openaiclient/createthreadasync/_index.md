@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.CreateThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Создает новый поток асинхронно
+title: "OpenAIClient.CreateThreadAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Создаёт новый поток асинхронно."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.ai/openaiclient/createthreadasync/
 ---
-## Метод OpenAIClient.CreateThreadAsync
+## OpenAIClient.CreateThreadAsync method
 
 Создает новый поток асинхронно.
 
@@ -17,17 +17,19 @@ public Task<ThreadResponse> CreateThreadAsync(ThreadCreateRequest threadCreateRe
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threadCreateRequest | ThreadCreateRequest | Объект запроса, содержащий детали для создания потока. |
+| threadCreateRequest | ThreadCreateRequest | Объект запроса, содержащий детали создания потока. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит ответ на создание потока.
+Задача, представляющая асинхронную операцию. Результат задачи содержит ответ от создания потока.
 
 ### См. также
 
-* класс [ThreadResponse](../../threadresponse/)
-* класс [ThreadCreateRequest](../../threadcreaterequest/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadResponse](../../threadresponse/)
+* class [ThreadCreateRequest](../../threadcreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

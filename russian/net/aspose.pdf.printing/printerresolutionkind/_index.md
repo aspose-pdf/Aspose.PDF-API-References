@@ -1,12 +1,12 @@
 ---
-title: Enum PrinterResolutionKind
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PrinterResolutionKind из Aspose.Pdf.Printing. Указывает разрешение принтера
+title: "Перечисление PrinterResolutionKind"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Printing.PrinterResolutionKind. Указывает разрешение принтера"
 type: docs
-weight: 9680
+weight: 9830
 url: /ru/net/aspose.pdf.printing/printerresolutionkind/
 ---
-## Перечисление PrinterResolutionKind
+## PrinterResolutionKind enumeration
 
 Указывает разрешение принтера.
 
@@ -16,15 +16,17 @@ public enum PrinterResolutionKind
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | High | `-4` | Высокое разрешение. |
 | Medium | `-3` | Среднее разрешение. |
 | Low | `-2` | Низкое разрешение. |
-| Draft | `-1` | Разрешение качества черновика. |
+| Draft | `-1` | Разрешение чернового качества. |
 | Custom | `0` | Пользовательское разрешение. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

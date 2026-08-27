@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateSound
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает звуковые аннотации
+title: "PdfContentEditor.CreateSound"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Создаёт звуковые аннотации"
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createsound/
 ---
-## Метод PdfContentEditor.CreateSound
+## PdfContentEditor.CreateSound method
 
-Создает звуковые аннотации.
+Создаёт звуковые аннотации.
 
 ```csharp
 public void CreateSound(Rectangle rect, string filePath, string name, int page, string rate)
@@ -16,14 +16,16 @@ public void CreateSound(Rectangle rect, string filePath, string name, int page, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | filePath | String | Путь к звуковому файлу. |
-| name | String | Имя значка, который будет использоваться для отображения аннотации, включая: Speaker и Mic. |
-| page | Int32 | Страница, на которой создается звуковая аннотация. |
-| rate | String | Частота дискретизации, в выборках в секунду. |
+| имя | String | Имя значка, используемого при отображении аннотации, включающее: Speaker и Mic. |
+| страница | Int32 | Страница, на которой создаётся звуковая аннотация. |
+| частота | String | Частота дискретизации, в образцах в секунду. |
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ValidationOptions.RequestTimeout
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ValidationOptions. Получает или устанавливает продолжительность таймаута в миллисекундах для сетевых операций во время процесса валидации. Свойство RequestTimeout определяет максимальное время, которое система должна ждать ответа сети при доступе к онлайн-ресурсам, таким как статус аннулирования или OCSP-серверы.
+title: "ValidationOptions.RequestTimeout"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ValidationOptions. Возвращает или задает длительность тайм‑аута в миллисекундах для сетевых операций во время процесса проверки. Свойство RequestTimeout определяет максимальное время, которое система должна ждать сетевого ответа при доступе к онлайн‑ресурсам, таким как статус отзыва или серверы OCSP."
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.pdf.security/validationoptions/requesttimeout/
 ---
-## Свойство ValidationOptions.RequestTimeout
+## ValidationOptions.RequestTimeout property
 
-Получает или устанавливает продолжительность таймаута в миллисекундах для сетевых операций во время процесса валидации. Свойство RequestTimeout определяет максимальное время, которое система должна ждать ответа сети при доступе к онлайн-ресурсам, таким как статус аннулирования или OCSP-серверы.
+Получает или задаёт длительность тайм‑аута в миллисекундах для сетевых операций во время процесса валидации. Свойство RequestTimeout определяет максимальное время, которое система должна ждать сетевого ответа при доступе к онлайн‑ресурсам, таким как статус отзыва или серверы OCSP.
 
 ```csharp
 public int RequestTimeout { get; set; }
@@ -16,6 +16,8 @@ public int RequestTimeout { get; set; }
 
 ### См. также
 
-* класс [ValidationOptions](../)
-* пространство имен [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* сборка [Aspose.PDF](../../../)
+* class [ValidationOptions](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

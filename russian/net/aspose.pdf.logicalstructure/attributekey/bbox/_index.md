@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BBox
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут BBox Атрибут владельца макета
+title: "AttributeKey.BBox"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeKey. Атрибут BBox, владелец атрибута Layout"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/bbox/
 ---
-## Поле AttributeKey.BBox
+## AttributeKey.BBox field
 
-Атрибут BBox (владелец атрибута макета).
+Атрибут BBox (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey BBox;
@@ -16,6 +16,8 @@ public static readonly AttributeKey BBox;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

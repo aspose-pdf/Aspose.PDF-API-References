@@ -1,25 +1,27 @@
 ---
-title: MCRElement.MCID
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MCRElement. Получает MCID объекта ссылки на размеченное содержимое
+title: "MCRElement.MCID"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MCRElement. Получает MCID объекта ссылки на помеченный контент"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/mcrelement/mcid/
 ---
-## Свойство MCRElement.MCID
+## MCRElement.MCID property
 
-Получает MCID объекта ссылки на размеченное содержимое.
+Получает MCID объекта ссылки на помеченный контент.
 
 ```csharp
 public int MCID { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-MCID объекта ссылки на размеченное содержимое.
+MCID объекта ссылки на помеченный контент.
 
 ### См. также
 
-* класс [MCRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

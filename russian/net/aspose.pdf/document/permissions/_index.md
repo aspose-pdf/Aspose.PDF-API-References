@@ -1,14 +1,14 @@
 ---
-title: Document.Permissions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает разрешения документа
+title: "Document.Permissions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Возвращает разрешения документа."
 type: docs
-weight: 490
+weight: 510
 url: /ru/net/aspose.pdf/document/permissions/
 ---
-## Свойство Document.Permissions
+## Document.Permissions property
 
-Получает разрешения документа.
+Получает разрешения document.
 
 ```csharp
 public int Permissions { get; }
@@ -16,6 +16,8 @@ public int Permissions { get; }
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

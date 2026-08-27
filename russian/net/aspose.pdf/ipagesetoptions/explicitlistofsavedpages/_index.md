@@ -1,14 +1,14 @@
 ---
-title: IPageSetOptions.ExplicitListOfSavedPages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство IPageSetOptions. Указывает массив номеров страниц для конвертации
+title: "IPageSetOptions.ExplicitListOfSavedPages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство IPageSetOptions. Указывает массив номеров страниц для преобразования"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/ipagesetoptions/explicitlistofsavedpages/
 ---
-## Свойство IPageSetOptions.ExplicitListOfSavedPages
+## IPageSetOptions.ExplicitListOfSavedPages property
 
-Указывает массив номеров страниц для конвертации.
+Указывает массив номеров страниц для преобразования.
 
 ```csharp
 public int[] ExplicitListOfSavedPages { get; set; }
@@ -16,6 +16,8 @@ public int[] ExplicitListOfSavedPages { get; set; }
 
 ### См. также
 
-* интерфейс [IPageSetOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* interface [IPageSetOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

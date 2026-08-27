@@ -1,26 +1,28 @@
 ---
-title: PDF3DView.CameraPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DView. Получает или устанавливает положение камеры просмотра
+title: "PDF3DView.CameraPosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DView. Получает или задает позицию камеры представления."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/pdf3dview/cameraposition/
 ---
-## Свойство PDF3DView.CameraPosition
+## PDF3DView.CameraPosition property
 
-Получает или устанавливает положение камеры просмотра.
+Получает или задает позицию камеры представления.
 
 ```csharp
 public Matrix3D CameraPosition { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Положение камеры просмотра.
+Позиция камеры представления.
 
 ### См. также
 
-* класс [Matrix3D](../../../aspose.pdf/matrix3d/)
-* класс [PDF3DView](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix3D](../../../aspose.pdf/matrix3d/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

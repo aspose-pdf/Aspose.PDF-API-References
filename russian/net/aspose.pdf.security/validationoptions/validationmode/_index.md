@@ -1,14 +1,14 @@
 ---
-title: ValidationOptions.ValidationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ValidationOptions. Получает или задает режим проверки цифровых подписей в PDF-документе. Свойство ValidationMode определяет строгость процесса проверки.
+title: "ValidationOptions.ValidationMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ValidationOptions. Возвращает или задает режим проверки цифровых подписей в PDF‑документе. Свойство ValidationMode определяет строгость процесса проверки."
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.pdf.security/validationoptions/validationmode/
 ---
-## Свойство ValidationOptions.ValidationMode
+## ValidationOptions.ValidationMode property
 
-Получает или задает режим проверки цифровых подписей в PDF-документе. Свойство ValidationMode определяет строгость процесса проверки.
+Получает или задает режим проверки цифровых подписей в PDF‑документе. Свойство ValidationMode определяет строгость процесса проверки.
 
 ```csharp
 public ValidationMode ValidationMode { get; set; }
@@ -20,3 +20,5 @@ public ValidationMode ValidationMode { get; set; }
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

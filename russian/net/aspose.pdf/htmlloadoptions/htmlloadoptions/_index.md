@@ -1,20 +1,20 @@
 ---
-title: HtmlLoadOptions.HtmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор HtmlLoadOptions. Создает параметры загрузки для преобразования html в pdf документ с пустым базовым путем
+title: "HtmlLoadOptions.HtmlLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HtmlLoadOptions конструктор. Создает параметры загрузки для преобразования html в pdf‑документ с пустым базовым путем"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/htmlloadoptions/htmlloadoptions/
 ---
 ## HtmlLoadOptions() {#constructor}
 
-Создает параметры загрузки для преобразования html в pdf документ с пустым базовым путем.
+Создаёт параметры загрузки для преобразования html в pdf‑документ с пустым базовым путём.
 
 ```csharp
 public HtmlLoadOptions()
 ```
 
-### See Also
+### См. также
 
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,18 +24,20 @@ public HtmlLoadOptions()
 
 ## HtmlLoadOptions(string) {#constructor_1}
 
-Создает параметры загрузки для преобразования html в pdf документ с определенным базовым путем.
+Создаёт параметры загрузки для преобразования html в pdf‑документ с определённым базовым путём.
 
 ```csharp
 public HtmlLoadOptions(string basePath)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| basePath | String | Базовый путь/url для html файла. |
+| basePath | String | Базовый путь/URL для HTML‑файла. |
 
-### See Also
+### См. также
 
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Note.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Заметки. Получает или устанавливает коллекцию, которая указывает на все абзацы в сноске
+title: "Note.Paragraphs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Note. Получает или задаёт коллекцию, содержащую все абзацы в сноске"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/note/paragraphs/
 ---
-## Свойство Заметка.Абзацы
+## Note.Paragraphs property
 
-Получает или устанавливает коллекцию, которая указывает на все абзацы в сноске.
+Получает или задает коллекцию, указывающую все абзацы в сноске.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
@@ -16,7 +16,9 @@ public Paragraphs Paragraphs { get; set; }
 
 ### См. также
 
-* класс [Абзацы](../../paragraphs/)
-* класс [Заметка](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Paragraphs](../../paragraphs/)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ComHelper.OpenStream
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ComHelper. Инициализируйте и верните новый экземпляр Document из входного потока
+title: "ComHelper.OpenStream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ComHelper. Инициализирует и возвращает новый экземпляр Document из входного потока"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/comhelper/openstream/
 ---
 ## OpenStream(Stream) {#openstream}
 
-Инициализируйте и верните новый экземпляр Document из *входного* потока.
+Инициализируйте и верните новый экземпляр Document из *input* потока.
 
 ```csharp
 public Document OpenStream(Stream input)
@@ -16,7 +16,7 @@ public Document OpenStream(Stream input)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf документом. |
+| ввод | Stream | Поток с pdf‑документом. |
 
 ### Возвращаемое значение
 
@@ -24,16 +24,16 @@ public Document OpenStream(Stream input)
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [ComHelper](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, string) {#openstream_3}
 
-Инициализируйте и верните новый экземпляр Document из *входного* потока.
+Инициализируйте и верните новый экземпляр Document из *input* потока.
 
 ```csharp
 public Document OpenStream(Stream input, string password)
@@ -41,7 +41,7 @@ public Document OpenStream(Stream input, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Объект входного потока, соответствующий защищенному паролем pdf. |
+| ввод | Stream | Объект входного потока, соответствующий pdf защищён паролем. |
 | password | String | Пароль пользователя или владельца. |
 
 ### Возвращаемое значение
@@ -50,16 +50,16 @@ public Document OpenStream(Stream input, string password)
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [ComHelper](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, bool) {#openstream_2}
 
-Инициализируйте и верните новый экземпляр Document из *входного* потока.
+Инициализируйте и верните новый экземпляр Document из *input* потока.
 
 ```csharp
 public Document OpenStream(Stream input, bool isManagedStream)
@@ -67,8 +67,8 @@ public Document OpenStream(Stream input, bool isManagedStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf документом. |
-| isManagedStream | Boolean | если установлено в `true`, внутренний поток закрывается перед выходом; в противном случае - нет. |
+| ввод | Stream | Поток с pdf‑документом. |
+| isManagedStream | Boolean | если установлено `true`, внутренний поток закрывается перед выходом; иначе — нет. |
 
 ### Возвращаемое значение
 
@@ -76,16 +76,16 @@ public Document OpenStream(Stream input, bool isManagedStream)
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [ComHelper](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, string, bool) {#openstream_4}
 
-Инициализируйте и верните новый экземпляр Document из *входного* потока.
+Инициализируйте и верните новый экземпляр Document из *input* потока.
 
 ```csharp
 public Document OpenStream(Stream input, string password, bool isManagedStream)
@@ -93,9 +93,9 @@ public Document OpenStream(Stream input, string password, bool isManagedStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf документом. |
+| ввод | Stream | Поток с pdf‑документом. |
 | password | String | Пароль пользователя или владельца. |
-| isManagedStream | Boolean | если установлено в `true`, внутренний поток закрывается перед выходом; в противном случае - нет. |
+| isManagedStream | Boolean | если установлено `true`, внутренний поток закрывается перед выходом; иначе — нет. |
 
 ### Возвращаемое значение
 
@@ -103,16 +103,16 @@ public Document OpenStream(Stream input, string password, bool isManagedStream)
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [ComHelper](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, LoadOptions) {#openstream_1}
 
-Откройте и верните существующий документ из потока, предоставляя необходимые параметры для преобразования в pdf документ.
+Откройте и верните существующий документ из потока, предоставив необходимые параметры конвертации для получения PDF‑документа.
 
 ```csharp
 public Document OpenStream(Stream input, LoadOptions options)
@@ -120,8 +120,8 @@ public Document OpenStream(Stream input, LoadOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Входной поток для преобразования в pdf документ. |
-| options | LoadOptions | Представляет свойства для преобразования *входного* потока в pdf документ. |
+| ввод | Stream | Входной поток для преобразования в pdf‑документ. |
+| options | LoadOptions | Представляет свойства для преобразования *input* в pdf‑документ. |
 
 ### Возвращаемое значение
 
@@ -129,8 +129,10 @@ public Document OpenStream(Stream input, LoadOptions options)
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [LoadOptions](../../loadoptions/)
-* класс [ComHelper](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [LoadOptions](../../loadoptions/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

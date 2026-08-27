@@ -1,25 +1,27 @@
 ---
-title: PDF3DView.ViewName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DView. Получает или устанавливает имя вида
+title: "PDF3DView.ViewName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DView. Получает или задает имя представления."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/pdf3dview/viewname/
 ---
-## Свойство PDF3DView.ViewName
+## PDF3DView.ViewName property
 
-Получает или устанавливает имя вида.
+Получает или задает имя представления.
 
 ```csharp
 public string ViewName { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Имя вида.
+Имя представления.
 
 ### См. также
 
-* класс [PDF3DView](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginInfo.RightMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Поле MarginInfo. Представляет правый отступ страницы, если он есть
+title: "SaveOptions.MarginInfo.RightMarginIfAny"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле MarginInfo. Представляет правый отступ страницы, если он есть"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/saveoptions.margininfo/rightmarginifany/
 ---
-## Поле SaveOptions.MarginInfo.RightMarginIfAny
+## SaveOptions.MarginInfo.RightMarginIfAny field
 
-Представляет правый отступ страницы (если есть)
+Представляет правое поле страницы (если есть)
 
 ```csharp
 public MarginPartStyle RightMarginIfAny;
@@ -16,7 +16,9 @@ public MarginPartStyle RightMarginIfAny;
 
 ### См. также
 
-* класс [MarginPartStyle](../../saveoptions.marginpartstyle/)
-* класс [MarginInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

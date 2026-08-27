@@ -1,14 +1,14 @@
 ---
-title: PDF3DArtwork.GetViewsList
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DArtwork. Получить представления в виде списка
+title: "PDF3DArtwork.GetViewsList"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PDF3DArtwork. Получает представления в виде списка"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/pdf3dartwork/getviewslist/
 ---
-## Метод PDF3DArtwork.GetViewsList
+## PDF3DArtwork.GetViewsList method
 
-Получить представления в виде списка.
+Получает представления в виде списка.
 
 ```csharp
 public ReadOnlyCollection<PDF3DView> GetViewsList()
@@ -20,7 +20,9 @@ ReadOnlyCollection&lt;PDF3DView&gt;.
 
 ### См. также
 
-* класс [PDF3DView](../../pdf3dview/)
-* класс [PDF3DArtwork](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

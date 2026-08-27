@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetAccessPermissions
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Возвращает значение прав доступа сертифицированного документа по типу подписи MDP
+title: "PdfFileSignature.GetAccessPermissions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSignature. Возвращает значение прав доступа сертифицированного document по типу подписи MDP"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/pdffilesignature/getaccesspermissions/
 ---
-## Метод PdfFileSignature.GetAccessPermissions
+## PdfFileSignature.GetAccessPermissions method
 
-Возвращает значение прав доступа сертифицированного документа по типу подписи MDP.
+Возвращает значение прав доступа сертифицированного документа по типу MDP‑подписи.
 
 ```csharp
 public DocMDPAccessPermissions GetAccessPermissions()
@@ -16,7 +16,7 @@ public DocMDPAccessPermissions GetAccessPermissions()
 
 ### Возвращаемое значение
 
-Если документ сертифицируется, возвращает значение прав доступа; в противном случае выбрасывается исключение.
+Если document сертифицируется, то возвращает значение прав доступа; в противном случае генерируется исключение.
 
 ### См. также
 
@@ -24,3 +24,5 @@ public DocMDPAccessPermissions GetAccessPermissions()
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

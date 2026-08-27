@@ -1,25 +1,27 @@
 ---
-title: PDF3DContent.Extension
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DContent. Получает расширение
+title: "PDF3DContent.Extension"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DContent. Возвращает расширение"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/pdf3dcontent/extension/
 ---
-## Свойство PDF3DContent.Extension
+## PDF3DContent.Extension property
 
-Получает расширение .
+Получает расширение.
 
 ```csharp
 public string Extension { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Расширение.
 
 ### См. также
 
-* класс [PDF3DContent](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

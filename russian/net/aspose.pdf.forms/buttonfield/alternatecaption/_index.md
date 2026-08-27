@@ -1,14 +1,14 @@
 ---
-title: ButtonField.AlternateCaption
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ButtonField. Получает или задает альтернативный заголовок кнопки, который будет отображаться, когда кнопка мыши нажата в ее активной области
+title: "ButtonField.AlternateCaption"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ButtonField. Получает или задает альтернативный заголовок кнопки, который будет отображаться, когда кнопка мыши нажата в её активной области"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/buttonfield/alternatecaption/
 ---
-## Свойство ButtonField.AlternateCaption
+## ButtonField.AlternateCaption property
 
-Получает или задает альтернативный заголовок кнопки, который будет отображаться, когда кнопка мыши нажата в ее активной области.
+Получает или задаёт альтернативный заголовок кнопки, который будет отображаться, когда кнопка мыши нажата в её активной области.
 
 ```csharp
 public string AlternateCaption { get; set; }
@@ -16,6 +16,8 @@ public string AlternateCaption { get; set; }
 
 ### См. также
 
-* класс [ButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum PdfFormatConversionOptions.SegmentAlignStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SegmentAlignStrategy в Aspose.Pdf.PdfFormatConversionOptions. Описывает стратегии, используемые для выравнивания текстовых сегментов документа. В настоящее время поддерживается только стратегия восстановления сегментов до оригинальных границ. В будущем могут быть добавлены другие стратегии.
+title: "Перечисление PdfFormatConversionOptions.SegmentAlignStrategy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.PdfFormatConversionOptionsSegmentAlignStrategy. Описывает стратегии, используемые для выравнивания текстовых сегментов документа. В настоящее время поддерживается только стратегия восстановления сегментов до их исходных границ. В будущем могут быть добавлены другие стратегии."
 type: docs
-weight: 8410
+weight: 8550
 url: /ru/net/aspose.pdf/pdfformatconversionoptions.segmentalignstrategy/
 ---
-## Перечисление PdfFormatConversionOptions.SegmentAlignStrategy
+## PdfFormatConversionOptions.SegmentAlignStrategy enumeration
 
-Описывает стратегии, используемые для выравнивания текстовых сегментов документа. В настоящее время поддерживается только стратегия восстановления сегментов до оригинальных границ. В будущем могут быть добавлены другие стратегии.
+Описывает стратегии, используемые для выравнивания текстовых сегментов документа. В настоящее время поддерживается только стратегия восстановления сегментов до их исходных границ. В будущем могут быть добавлены другие стратегии.
 
 ```csharp
 public enum SegmentAlignStrategy : byte
@@ -23,6 +23,8 @@ public enum SegmentAlignStrategy : byte
 
 ### См. также
 
-* класс [PdfFormatConversionOptions](../pdfformatconversionoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PdfFormatConversionOptions](../pdfformatconversionoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.ClearState
-second_title: Aspose.PDF for .NET API Reference
-description: Метод MarkupAnnotation. Очищает состояние и модель состояния для аннотации. Например, очищает статус рецензирования для аннотации. Обратите внимание, что состояние хранится в других текстовых аннотациях, которые имеют ключи state и statemodel.
+title: "MarkupAnnotation.ClearState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "MarkupAnnotation метод. Очищает состояние и модель состояния для аннотации. Например, очищает статус обзора для аннотации. Обратите внимание, что состояние хранится в другой текстовой аннотации, у которой есть ключи state и statemodel."
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.annotations/markupannotation/clearstate/
 ---
-## Метод MarkupAnnotation.ClearState
+## MarkupAnnotation.ClearState method
 
-Очищает состояние и модель состояния для аннотации. Например, очищает статус рецензирования для аннотации. Обратите внимание, что состояние хранится в других текстовых аннотациях, которые имеют ключи state и statemodel.
+Очищает состояние и модель состояния аннотации. Например, очищает статус проверки для аннотации. Примечание: состояние хранится в другой текстовой аннотации, у которой есть ключи state и statemodel.
 
 ```csharp
 public void ClearState()
@@ -16,6 +16,8 @@ public void ClearState()
 
 ### См. также
 
-* класс [MarkupAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

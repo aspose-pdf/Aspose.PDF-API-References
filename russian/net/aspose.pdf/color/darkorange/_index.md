@@ -1,14 +1,14 @@
 ---
-title: Color.DarkOrange
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFF8C00
+title: "Color.DarkOrange"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFFF8C00"
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf/color/darkorange/
 ---
-## Свойство Color.DarkOrange
+## Color.DarkOrange property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFF8C00.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FFFF8C00.
 
 ```csharp
 public static Color DarkOrange { get; }
@@ -16,10 +16,12 @@ public static Color DarkOrange { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DArtwork.GetViewsArray
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DArtwork. Получает массив представлений
+title: "PDF3DArtwork.GetViewsArray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PDF3DArtwork. Возвращает массив представлений"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/pdf3dartwork/getviewsarray/
 ---
-## Метод PDF3DArtwork.GetViewsArray
+## PDF3DArtwork.GetViewsArray method
 
 Получает массив представлений.
 
@@ -20,7 +20,9 @@ public PDF3DView[] GetViewsArray()
 
 ### См. также
 
-* класс [PDF3DView](../../pdf3dview/)
-* класс [PDF3DArtwork](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

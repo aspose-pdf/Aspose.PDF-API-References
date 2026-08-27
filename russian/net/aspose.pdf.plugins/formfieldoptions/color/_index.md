@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldOptions. Получает/устанавливает значение для определения свойства Color для созданного/измененного поля, если оно будет установлено
+title: "FormFieldOptions.Color"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormFieldOptions. Получает/устанавливает значение, определяющее свойство Color для созданного/изменённого поля, если будет установлено."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/formfieldoptions/color/
 ---
-## Свойство FormFieldOptions.Color
+## FormFieldOptions.Color property
 
-Получает/устанавливает значение для определения свойства Color для созданного/измененного поля (если оно будет установлено).
+Получает/устанавливает значение, определяющее свойство Color для созданного/изменённого поля (если будет установлено).
 
 ```csharp
 public Color Color { get; set; }
@@ -16,7 +16,9 @@ public Color Color { get; set; }
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [FormFieldOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

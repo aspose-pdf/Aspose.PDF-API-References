@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.PDF3DViewArray. Класс PDF3DViewArray
+title: "Класс PDF3DViewArray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.PDF3DViewArray class. Класс PDF3DViewArray"
 type: docs
-weight: 2250
+weight: 2340
 url: /ru/net/aspose.pdf.annotations/pdf3dviewarray/
 ---
-## Класс PDF3DViewArray
+## PDF3DViewArray class
 
 Класс PDF3DViewArray.
 
@@ -19,7 +19,7 @@ public class PDF3DViewArray
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdf3dviewarray/count/) { get; } | Получает количество представлений. |
-| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item/) { get; set; } | Получает или задает [`PDF3DView`](../pdf3dview/) для массива представлений по указанному индексу. |
+| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item/) { get; set; } | Получает или задает `[`PDF3DView`](../pdf3dview/)` в массив представлений по указанному индексу. |
 
 ## Методы
 
@@ -31,5 +31,7 @@ public class PDF3DViewArray
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

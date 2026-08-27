@@ -1,14 +1,14 @@
 ---
-title: Form.AssignXfa
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Устанавливает XFA формы на указанное значение
+title: "Form.AssignXfa"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Устанавливает XFA формы в указанное значение."
 type: docs
-weight: 210
+weight: 230
 url: /ru/net/aspose.pdf.forms/form/assignxfa/
 ---
-## Метод Form.AssignXfa
+## Form.AssignXfa method
 
-Устанавливает XFA формы на указанное значение.
+Устанавливает XFA формы в указанное значение.
 
 ```csharp
 public void AssignXfa(XmlDocument xml)
@@ -16,10 +16,12 @@ public void AssignXfa(XmlDocument xml)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xml | XmlDocument | Xml документ, который содержит новые данные XFA. |
+| xml | XmlDocument | Xml документ, содержащий новые данные XFA. |
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

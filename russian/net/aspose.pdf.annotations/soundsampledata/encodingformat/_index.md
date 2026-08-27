@@ -1,12 +1,12 @@
 ---
-title: SoundSampleData.EncodingFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SoundSampleData. Получает или задает формат кодирования
+title: "SoundSampleData.EncodingFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SoundSampleData. Получает или задает формат кодирования"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/soundsampledata/encodingformat/
 ---
-## Свойство SoundSampleData.EncodingFormat
+## SoundSampleData.EncodingFormat property
 
 Получает или задает формат кодирования.
 
@@ -20,3 +20,5 @@ public SoundSampleDataEncodingFormat EncodingFormat { get; set; }
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

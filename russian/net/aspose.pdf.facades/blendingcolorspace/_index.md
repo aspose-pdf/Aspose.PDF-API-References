@@ -1,14 +1,14 @@
 ---
-title: Enum BlendingColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BlendingColorSpace Aspose.Pdf.Facades. Класс представляет цветовое пространство смешивания
+title: "Перечисление BlendingColorSpace"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Facades.BlendingColorSpace. Класс представляет пространство цветов смешивания"
 type: docs
-weight: 4180
+weight: 4300
 url: /ru/net/aspose.pdf.facades/blendingcolorspace/
 ---
-## Перечисление BlendingColorSpace
+## BlendingColorSpace enumeration
 
-Класс представляет цветовое пространство смешивания.
+Класс, представляющий пространство смешивания цветов.
 
 ```csharp
 public enum BlendingColorSpace
@@ -18,12 +18,14 @@ public enum BlendingColorSpace
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| DontChange | `0` | Цветовое пространство смешивания не изменяется. |
-| Auto | `1` | Цветовое пространство смешивания определяется автоматически. |
-| DeviceRGB | `2` | Цветовое пространство смешивания установлено на DeviceRGB. |
-| DeviceCMYK | `3` | Цветовое пространство смешивания установлено на DeviceCMYK. |
+| DontChange | `0` | Пространство цветов смешивания не изменяется. |
+| Auto | `1` | Пространство цветов смешивания определяется автоматически. |
+| DeviceRGB | `2` | Пространство цветов смешивания установлено в DeviceRGB. |
+| DeviceCMYK | `3` | Пространство цветов смешивания установлено в DeviceCMYK. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

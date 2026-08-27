@@ -1,12 +1,12 @@
 ---
-title: BaseParagraph.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseParagraph. Получает или задает горизонтальное выравнивание абзаца
+title: "BaseParagraph.HorizontalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BaseParagraph. Получает или задает горизонтальное выравнивание абзаца"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/baseparagraph/horizontalalignment/
 ---
-## Свойство BaseParagraph.HorizontalAlignment
+## BaseParagraph.HorizontalAlignment property
 
 Получает или задает горизонтальное выравнивание абзаца
 
@@ -20,3 +20,5 @@ public virtual HorizontalAlignment HorizontalAlignment { get; set; }
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

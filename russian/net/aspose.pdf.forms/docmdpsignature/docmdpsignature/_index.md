@@ -1,12 +1,12 @@
 ---
-title: DocMDPSignature.DocMDPSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор DocMDPSignature. Инициализирует новый экземпляр класса DocMDPSignature
+title: "DocMDPSignature.DocMDPSignature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор DocMDPSignature. Инициализирует новый экземпляр класса DocMDPSignature."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/docmdpsignature/docmdpsignature/
 ---
-## Конструктор DocMDPSignature
+## DocMDPSignature constructor
 
 Инициализирует новый экземпляр класса [`DocMDPSignature`](../).
 
@@ -16,13 +16,15 @@ public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermis
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| signature | Signature | Объект подписи, который используется во время подписания. |
-| accessPermissions | DocMDPAccessPermissions | Права доступа, предоставленные для этого документа. |
+| подпись | Подпись | Объект подписи, используемый во время подписания. |
+| accessPermissions | DocMDPAccessPermissions | Разрешения доступа, предоставленные для этого документа. |
 
 ### См. также
 
-* класс [Signature](../../signature/)
-* перечисление [DocMDPAccessPermissions](../../docmdpaccesspermissions/)
-* класс [DocMDPSignature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../../signature/)
+* enum [DocMDPAccessPermissions](../../docmdpaccesspermissions/)
+* class [DocMDPSignature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

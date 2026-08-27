@@ -1,14 +1,14 @@
 ---
-title: Class SetColorSpaceStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetColorSpaceStroke. Класс, представляющий оператор CS, устанавливающий цвет для операций обводки
+title: "Класс SetColorSpaceStroke"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.SetColorSpaceStroke класс. Класс, представляющий оператор CS, задающий цвет для операций обводки"
 type: docs
-weight: 7670
+weight: 7810
 url: /ru/net/aspose.pdf.operators/setcolorspacestroke/
 ---
-## Класс SetColorSpaceStroke
+## SetColorSpaceStroke class
 
-Класс, представляющий оператор CS (устанавливает цвет для операций обводки).
+Класс, представляющий оператор CS (устанавливает цвет для операций с обводкой).
 
 ```csharp
 public class SetColorSpaceStroke : Operator
@@ -25,18 +25,20 @@ public class SetColorSpaceStroke : Operator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [Name](../../aspose.pdf.operators/setcolorspacestroke/name/) { get; set; } | Получает или устанавливает имя цветового пространства. |
+| [Name](../../aspose.pdf.operators/setcolorspacestroke/name/) { get; set; } | Получает или задает имя цветового пространства. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorspacestroke/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcolorspacestroke/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

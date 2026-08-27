@@ -1,9 +1,9 @@
 ---
-title: Class TextExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.TextExtractorOptions. Представляет параметры извлечения текста для плагина TextExtractor
+title: "Класс TextExtractorOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.TextExtractorOptions class. Представляет параметры извлечения текста для плагина TextExtractor."
 type: docs
-weight: 9390
+weight: 9540
 url: /ru/net/aspose.pdf.plugins/textextractoroptions/
 ---
 ## TextExtractorOptions class
@@ -14,61 +14,63 @@ url: /ru/net/aspose.pdf.plugins/textextractoroptions/
 public sealed class TextExtractorOptions : PdfExtractorOptions
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [TextExtractorOptions](textextractoroptions/#constructor)() | Инициализирует новый экземпляр объекта `TextExtractorOptions` с режимом форматирования текста 'Raw' (по умолчанию). |
 | [TextExtractorOptions](textextractoroptions/#constructor_1)(TextFormattingMode) | Инициализирует новый экземпляр объекта `TextExtractorOptions` для указанного режима форматирования текста. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [FormattingMode](../../aspose.pdf.plugins/textextractoroptions/formattingmode/) { get; } | Получает режим форматирования. |
 | [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | Возвращает коллекцию данных плагина PdfExtractor. |
-| override [OperationName](../../aspose.pdf.plugins/textextractoroptions/operationname/) { get; } | Возвращает имя операции. |
+| override [OperationName](../../aspose.pdf.plugins/textextractoroptions/operationname/) { get; } | Возвращает название операции. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагина PdfExtractor. |
 
-## Other Members
+## Другие члены
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| enum [TextFormattingMode](../../aspose.pdf.plugins/textextractoroptions.textformattingmode) | Определяет различные режимы, которые могут быть использованы при преобразовании PDF-документа в текст. См. класс `TextExtractorOptions`. |
+| enum [TextFormattingMode](../../aspose.pdf.plugins/textextractoroptions.textformattingmode) | Определяет различные режимы, которые могут использоваться при преобразовании PDF‑документа в текст. См. класс `TextExtractorOptions`. |
 
-## Remarks
+## Примечания
 
-Объект `TextExtractorOptions` используется для установки [`TextFormattingMode`](../textextractoroptions.textformattingmode/) и других параметров для операции извлечения текста. Кроме того, он наследует функции для добавления данных (файлов, потоков), представляющих входные PDF-документы.
+Объект `TextExtractorOptions` используется для установки [`TextFormattingMode`](../textextractoroptions.textformattingmode/) и других параметров операции извлечения текста. Кроме того, он наследует функции добавления данных (файлов, потоков), представляющих входные PDF‑документы.
 
-## Examples
+## Примеры
 
-Пример демонстрирует, как извлечь текстовое содержимое PDF-документа.
+Пример демонстрирует, как извлечь текстовое содержимое PDF‑документа.
 
 ```csharp
-// create TextExtractor object to extract PDF contents
+// создайте объект TextExtractor для извлечения содержимого PDF
 using (TextExtractor extractor = new TextExtractor())
 {
-    // create TextExtractorOptions object to set TextFormattingMode (Pure,  or Raw - default)
+    // создайте объект TextExtractorOptions для установки TextFormattingMode (Pure,  или Raw — по умолчанию)
     extractorOptions = new TextExtractorOptions(TextExtractorOptions.TextFormattingMode.Pure);
     
-    // add input file path to data sources
+    // добавьте путь входного файла в источники данных
     extractorOptions.AddInput(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // выполнить процесс извлечения
     ResultContainer resultContainer = extractor.Process(extractorOptions);
     
-    // get the extracted text from the ResultContainer object
+    // получите извлечённый текст из объекта ResultContainer
     string textExtracted = resultContainer.ResultCollection[0].ToString();
 }
 ```
 
-### See Also
+### См. также
 
 * class [PdfExtractorOptions](../pdfextractoroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetColorSpace.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetColorSpace. Получает или устанавливает имя цветового пространства
+title: "SetColorSpace.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetColorSpace. Получает или задает имя цветового пространства"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setcolorspace/name/
 ---
-## Свойство SetColorSpace.Name
+## SetColorSpace.Name property
 
-Получает или устанавливает имя цветового пространства.
+Получает или задает имя цветового пространства.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [SetColorSpace](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColorSpace](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSection.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DCrossSection. Получает или задает центр вращения сечения
+title: "PDF3DCrossSection.Center"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DCrossSection. Получает или задает центр вращения поперечного сечения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/pdf3dcrosssection/center/
 ---
-## Свойство PDF3DCrossSection.Center
+## PDF3DCrossSection.Center property
 
 Получает или задает центр вращения сечения.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf.annotations/pdf3dcrosssection/center/
 public Point3D Center { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Центр.
 
 ### См. также
 
-* класс [Point3D](../../../aspose.pdf/point3d/)
-* класс [PDF3DCrossSection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Point3D](../../../aspose.pdf/point3d/)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilot.OpenAISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор OpenAISummaryCopilot. Инициализирует новый экземпляр класса OpenAISummaryCopilot
+title: "OpenAISummaryCopilot.OpenAISummaryCopilot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор OpenAISummaryCopilot. Инициализирует новый экземпляр класса OpenAISummaryCopilot."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/openaisummarycopilot/openaisummarycopilot/
 ---
-## Конструктор OpenAISummaryCopilot
+## OpenAISummaryCopilot constructor
 
 Инициализирует новый экземпляр класса [`OpenAISummaryCopilot`](../).
 
@@ -18,13 +18,15 @@ public OpenAISummaryCopilot(IOpenAIClient client,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | client | IOpenAIClient | Экземпляр клиента OpenAI. |
-| options | ISummaryCopilotOptions`1 | Опции OpenAI Summary Copilot. |
+| options | ISummaryCopilotOptions`1 | Параметры OpenAI Summary Copilot. |
 
 ### См. также
 
-* интерфейс [IOpenAIClient](../../iopenaiclient/)
-* интерфейс [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* класс [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
-* класс [OpenAISummaryCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

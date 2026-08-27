@@ -1,12 +1,12 @@
 ---
-title: FileFontSource.FileFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FileFontSource. Инициализирует новый экземпляр класса FileFontSource
+title: "FileFontSource.FileFontSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FileFontSource. Инициализирует новый экземпляр класса FileFontSource."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/filefontsource/filefontsource/
 ---
-## Конструктор FileFontSource
+## FileFontSource constructor
 
 Инициализирует новый экземпляр класса [`FileFontSource`](../).
 
@@ -20,6 +20,8 @@ public FileFontSource(string filePath)
 
 ### См. также
 
-* класс [FileFontSource](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

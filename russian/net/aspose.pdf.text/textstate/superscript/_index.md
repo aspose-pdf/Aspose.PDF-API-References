@@ -1,14 +1,14 @@
 ---
-title: TextState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextState. Получает или устанавливает верхний индекс текста
+title: "TextState.Superscript"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextState. Возвращает или задает надстрочный текст"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.text/textstate/superscript/
 ---
-## Свойство TextState.Superscript
+## TextState.Superscript property
 
-Получает или устанавливает верхний индекс текста.
+Получает или задает верхний индекс текста.
 
 ```csharp
 public virtual bool Superscript { get; set; }
@@ -16,6 +16,8 @@ public virtual bool Superscript { get; set; }
 
 ### См. также
 
-* класс [TextState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ReplaceTextStrategy.ReplaceScope
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ReplaceTextStrategy. Область операции замены заменить первое вхождение или заменить все вхождения
+title: "ReplaceTextStrategy.ReplaceScope"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ReplaceTextStrategy. Область действия операции замены: заменить первое вхождение или заменить все вхождения"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/replacetextstrategy/replacescope/
 ---
-## Свойство ReplaceTextStrategy.ReplaceScope
+## ReplaceTextStrategy.ReplaceScope property
 
-Область операции замены (заменить первое вхождение или заменить все вхождения).
+Область действия операции замены (заменить первое вхождение или заменить все вхождения).
 
 ```csharp
 public Scope ReplaceScope { get; set; }
@@ -20,3 +20,5 @@ public Scope ReplaceScope { get; set; }
 * class [ReplaceTextStrategy](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

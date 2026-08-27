@@ -1,14 +1,14 @@
 ---
-title: Class Fill
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.Fill. Класс, представляющий оператор f, заполняющий путь с правилом ненулевого числа витков
+title: "Класс Fill"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Operators.Fill. Класс, представляющий оператор f, заполняющий путь по правилу ненулевого числа оборотов."
 type: docs
-weight: 7370
+weight: 7510
 url: /ru/net/aspose.pdf.operators/fill/
 ---
-## Класс Fill
+## Fill class
 
-Класс, представляющий оператор f (заполнение пути с правилом ненулевого числа витков).
+Класс, представляющий оператор f (заполнение пути по правилу ненулевого числа оборотов).
 
 ```csharp
 public class Fill : Operator
@@ -30,12 +30,14 @@ public class Fill : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fill/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/fill/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/fill/tostring/)() | Возвращает текстовое представление оператора. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

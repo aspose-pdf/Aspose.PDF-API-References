@@ -1,12 +1,12 @@
 ---
-title: Enum Direction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Direction. Направление текста
+title: "Перечисление Direction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Direction перечисление. Направление текста"
 type: docs
-weight: 3730
+weight: 3850
 url: /ru/net/aspose.pdf/direction/
 ---
-## Перечисление Direction
+## Direction enumeration
 
 Направление текста.
 
@@ -23,5 +23,7 @@ public enum Direction
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

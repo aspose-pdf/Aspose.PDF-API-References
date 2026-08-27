@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Groove
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут BorderStyle Groove. Граница выглядит так, будто она вырезана в холсте.
+title: "AttributeName.BorderStyle_Groove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут BorderStyle Groove  Граница выглядит так, будто её вырезали в холсте."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_groove/
 ---
-## Поле AttributeName.BorderStyle_Groove
+## AttributeName.BorderStyle_Groove field
 
-Атрибут BorderStyle: Groove - Граница выглядит так, будто она вырезана в холсте.
+Атрибут BorderStyle: Groove — Граница выглядит так, как будто её вырезали в холсте.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Groove;
@@ -16,6 +16,8 @@ public static readonly AttributeName BorderStyle_Groove;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

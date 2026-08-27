@@ -1,20 +1,20 @@
 ---
-title: PdfAnnotationEditor.PdfAnnotationEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfAnnotationEditor. Инициализирует новый объект PdfAnnotationEditor
+title: "PdfAnnotationEditor.PdfAnnotationEditor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfAnnotationEditor. Инициализирует новый объект PdfAnnotationEditor."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/pdfannotationeditor/
 ---
 ## PdfAnnotationEditor() {#constructor}
 
-Инициализирует новый [`PdfAnnotationEditor`](../) объект.
+Инициализирует новый объект [`PdfAnnotationEditor`](../).
 
 ```csharp
 public PdfAnnotationEditor()
 ```
 
-### See Also
+### См. также
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,19 +24,21 @@ public PdfAnnotationEditor()
 
 ## PdfAnnotationEditor(Document) {#constructor_1}
 
-Инициализирует новый [`PdfAnnotationEditor`](../) объект на основе *документа*.
+Инициализирует новый объект [`PdfAnnotationEditor`](../) на основе *document*.
 
 ```csharp
 public PdfAnnotationEditor(Document document)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| документ | Document | Pdf документ. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

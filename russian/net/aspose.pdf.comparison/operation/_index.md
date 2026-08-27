@@ -1,12 +1,12 @@
 ---
-title: Enum Operation
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Comparison.Operation. Представляет тип операции различия
+title: "Перечисление Operation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Comparison.Operation enum. Представляет тип операции различия"
 type: docs
-weight: 3260
+weight: 3370
 url: /ru/net/aspose.pdf.comparison/operation/
 ---
-## Перечисление Operation
+## Operation enumeration
 
 Представляет тип операции различия.
 
@@ -24,5 +24,7 @@ public enum Operation
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

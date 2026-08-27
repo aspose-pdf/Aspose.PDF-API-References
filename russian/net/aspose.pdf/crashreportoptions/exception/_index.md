@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.Exception
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CrashReportOptions. Исключение, на основе которого будет создан отчет о сбое
+title: "CrashReportOptions.Exception"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CrashReportOptions. Исключение, на основе которого будет сформирован отчет о сбое"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/crashreportoptions/exception/
 ---
-## Свойство CrashReportOptions.Exception
+## CrashReportOptions.Exception property
 
-Исключение, на основе которого будет создан отчет о сбое
+Исключение, на основе которого будет сформирован отчёт о сбое
 
 ```csharp
 public Exception Exception { get; }
@@ -16,6 +16,8 @@ public Exception Exception { get; }
 
 ### См. также
 
-* класс [CrashReportOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

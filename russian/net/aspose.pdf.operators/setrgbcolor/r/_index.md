@@ -1,25 +1,27 @@
 ---
-title: SetRGBColor.R
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetRGBColor. Получает или устанавливает красный компонент
+title: "SetRGBColor.R"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SetRGBColor свойство. Получает или задает красный компонент"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.operators/setrgbcolor/r/
 ---
-## Свойство SetRGBColor.R
+## SetRGBColor.R property
 
-Получает или устанавливает красный компонент.
+Получает или задает красный компонент.
 
 ```csharp
 public double R { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Уровень красного от 0.0 до 1.0
 
 ### См. также
 
-* класс [SetRGBColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetRGBColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

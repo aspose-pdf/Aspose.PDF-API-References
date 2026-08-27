@@ -1,14 +1,14 @@
 ---
-title: TextBuilder.AppendParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextBuilder. Добавляет текстовый абзац на страницу Pdf
+title: "TextBuilder.AppendParagraph"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextBuilder. Добавляет текстовый абзац на страницу Pdf."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textbuilder/appendparagraph/
 ---
-## Метод TextBuilder.AppendParagraph
+## TextBuilder.AppendParagraph method
 
-Добавляет текстовый абзац на страницу Pdf.
+Добавляет абзац текста на страницу Pdf.
 
 ```csharp
 public void AppendParagraph(TextParagraph textParagraph)
@@ -20,38 +20,40 @@ public void AppendParagraph(TextParagraph textParagraph)
 
 ## Примеры
 
-Пример демонстрирует, как создать объект текстового абзаца и добавить его на страницу Pdf.
+В примере демонстрируется, как создать объект текстового абзаца и добавить его на страницу PDF.
 
 ```csharp
 Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// create text paragraph
+// создать текстовый абзац
 TextParagraph paragraph = new TextParagraph();
            
-// set the paragraph rectangle
+// установить прямоугольник абзаца
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// set word wrapping options
+// установить параметры переноса слов
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// append string lines
+// добавить строки текста
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// append the paragraph to the Pdf page with the TextBuilder
+// добавить абзац на страницу PDF с помощью TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// save Pdf document
+// сохранить документ PDF
 doc.Save(outFile);
 ```
 
 ### См. также
 
-* класс [TextParagraph](../../textparagraph/)
-* класс [TextBuilder](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextParagraph](../../textparagraph/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

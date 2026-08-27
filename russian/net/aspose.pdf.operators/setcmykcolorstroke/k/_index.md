@@ -1,14 +1,14 @@
 ---
-title: SetCMYKColorStroke.K
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetCMYKColorStroke. Получает или устанавливает черный компонент
+title: "SetCMYKColorStroke.K"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SetCMYKColorStroke свойство. Получает или задает черный компонент"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/setcmykcolorstroke/k/
 ---
-## Свойство SetCMYKColorStroke.K
+## SetCMYKColorStroke.K property
 
-Получает или устанавливает черный компонент.
+Получает или задает черный компонент.
 
 ```csharp
 public double K { get; set; }
@@ -16,6 +16,8 @@ public double K { get; set; }
 
 ### См. также
 
-* класс [SetCMYKColorStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCMYKColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PrinterSettingsExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Printing.PrinterSettingsExtensions. Представляет методы расширения для PrinterSettings
+title: "Класс PrinterSettingsExtensions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Printing.PrinterSettingsExtensions. Представляет методы‑расширения для PrinterSettings"
 type: docs
-weight: 9700
+weight: 9850
 url: /ru/net/aspose.pdf.printing/printersettingsextensions/
 ---
-## Класс PrinterSettingsExtensions
+## PrinterSettingsExtensions class
 
-Представляет методы расширения для [`PrinterSettings`](../printersettings/).
+Представляет методы‑расширения для [`PrinterSettings`](../printersettings/).
 
 ```csharp
 public static class PrinterSettingsExtensions
@@ -23,5 +23,7 @@ public static class PrinterSettingsExtensions
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

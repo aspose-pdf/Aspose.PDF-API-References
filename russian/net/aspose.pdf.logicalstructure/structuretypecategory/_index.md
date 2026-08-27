@@ -1,12 +1,12 @@
 ---
-title: Class StructureTypeCategory
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.LogicalStructure.StructureTypeCategory. Представляет категории стандартных типов структуры
+title: "Класс StructureTypeCategory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.LogicalStructure.StructureTypeCategory class. Представляет категории стандартных типов структуры"
 type: docs
-weight: 6720
+weight: 6860
 url: /ru/net/aspose.pdf.logicalstructure/structuretypecategory/
 ---
-## Класс StructureTypeCategory
+## StructureTypeCategory class
 
 Представляет категории стандартных типов структуры.
 
@@ -19,18 +19,20 @@ public sealed class StructureTypeCategory
 | Имя | Описание |
 | --- | --- |
 | override [ToString](../../aspose.pdf.logicalstructure/structuretypecategory/tostring/)() | Возвращает строку, представляющую текущий объект. |
-| [явный оператор](../../aspose.pdf.logicalstructure/structuretypecategory/op_explicit/) | Выполняет явное преобразование из String в `StructureTypeCategory`. |
+| [explicit operator](../../aspose.pdf.logicalstructure/structuretypecategory/op_explicit/) | Выполняет явное преобразование из String в `StructureTypeCategory`. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| static readonly [BLSEs](../../aspose.pdf.logicalstructure/structuretypecategory/blses/) | Элементы структуры на уровне блока (BLSE) описывают общий макет содержимого на странице, продвигаясь в направлении блочной прогрессии. |
-| static readonly [GroupingElements](../../aspose.pdf.logicalstructure/structuretypecategory/groupingelements/) | Элементы группировки группируют другие элементы в последовательности или иерархии, но не содержат контента напрямую и не оказывают прямого влияния на макет. |
-| static readonly [IllustrationElements](../../aspose.pdf.logicalstructure/structuretypecategory/illustrationelements/) | Элементы иллюстрации представляют собой компактные последовательности содержимого, в порядке содержимого страницы, которые считаются единичными объектами с точки зрения макета страницы. Иллюстрация может рассматриваться как BLSE или ILSE. |
-| static readonly [ILSEs](../../aspose.pdf.logicalstructure/structuretypecategory/ilses/) | Элементы структуры на уровне строки (ILSE) описывают макет содержимого внутри BLSE, продвигаясь в направлении прогрессии строки. |
+| static readonly [BLSEs](../../aspose.pdf.logicalstructure/structuretypecategory/blses/) | Элементы структуры уровня блока (BLSEs) описывают общую компоновку содержимого на странице, продвигаясь в направлении блоковой прогрессии. |
+| static readonly [GroupingElements](../../aspose.pdf.logicalstructure/structuretypecategory/groupingelements/) | Группирующие элементы объединяют другие элементы в последовательности или иерархии, но не содержат контент напрямую и не влияют непосредственно на компоновку. |
+| static readonly [IllustrationElements](../../aspose.pdf.logicalstructure/structuretypecategory/illustrationelements/) | Элементы иллюстрации — это компактные последовательности контента в порядке содержания страницы, которые рассматриваются как единые объекты относительно компоновки страницы. Иллюстрацию можно рассматривать как BLSE или ILSE. |
+| static readonly [ILSEs](../../aspose.pdf.logicalstructure/structuretypecategory/ilses/) | Элементы структуры уровня строки (ILSEs) описывают компоновку контента внутри BLSE, продвигаясь в направлении строковой прогрессии. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

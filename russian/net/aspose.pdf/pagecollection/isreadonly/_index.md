@@ -1,12 +1,12 @@
 ---
-title: PageCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageCollection. Получает значение, указывающее, является ли коллекция только для чтения. Всегда возвращает false
+title: "PageCollection.IsReadOnly"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageCollection. Возвращает значение, указывающее, что коллекция только для чтения. Всегда возвращает false."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pagecollection/isreadonly/
 ---
-## Свойство PageCollection.IsReadOnly
+## PageCollection.IsReadOnly property
 
 Получает значение, указывающее, является ли коллекция только для чтения. Всегда возвращает false.
 
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### См. также
 
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

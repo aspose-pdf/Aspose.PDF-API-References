@@ -1,14 +1,14 @@
 ---
-title: Enum NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.NumberingStyle. Перечисление поддерживаемого стиля нумерации страниц для класса PageLabel
+title: "Перечисление NumberingStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.NumberingStyle enum. Перечисление поддерживаемых стилей нумерации страниц для класса PageLabel"
 type: docs
-weight: 7030
+weight: 7170
 url: /ru/net/aspose.pdf/numberingstyle/
 ---
-## Перечисление NumberingStyle
+## NumberingStyle enumeration
 
-Перечисление поддерживаемого стиля нумерации страниц для класса PageLabel.
+Перечисление поддерживаемых стилей нумерации страниц для класса PageLabel.
 
 ```csharp
 public enum NumberingStyle
@@ -16,16 +16,18 @@ public enum NumberingStyle
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | NumeralsArabic | `0` | Арабские десятичные числа. |
-| NumeralsRomanUppercase | `1` | Заглавные римские числа (I, II, III...). |
-| NumeralsRomanLowercase | `2` | Строчные римские числа (i, ii, iii...). |
-| LettersUppercase | `3` | Заглавные латинские буквы (A, B, C...). |
-| LettersLowercase | `4` | Строчные латинские буквы (a, b, c...). |
+| NumeralsRomanUppercase | `1` | Римские цифры верхнего регистра (I, II, III...). |
+| NumeralsRomanLowercase | `2` | Римские цифры нижнего регистра (i, ii, iii...). |
+| LettersUppercase | `3` | Латинские буквы верхнего регистра (A, B, C...). |
+| LettersLowercase | `4` | Латинские буквы нижнего регистра (a, b, c...). |
 | None | `5` | Без нумерации. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

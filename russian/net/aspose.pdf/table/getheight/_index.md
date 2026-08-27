@@ -1,12 +1,12 @@
 ---
-title: Table.GetHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Table. Получить высоту
+title: "Table.GetHeight"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Table. Получить высоту."
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf/table/getheight/
 ---
-## Метод Table.GetHeight
+## Table.GetHeight method
 
 Получить высоту.
 
@@ -16,7 +16,7 @@ public double GetHeight(Page parentPage = null)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| parentPage | Page | Родительская страница таблицы (необязательно). |
+| parentPage | Страница | Родительская страница таблицы (необязательно). |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public double GetHeight(Page parentPage = null)
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [Table](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

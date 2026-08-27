@@ -1,12 +1,12 @@
 ---
-title: TeXSaveOptions.TeXSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TeXSaveOptions. Конструктор по умолчанию
+title: "TeXSaveOptions.TeXSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TeXSaveOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/texsaveoptions/texsaveoptions/
 ---
-## Конструктор TeXSaveOptions
+## TeXSaveOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public TeXSaveOptions()
 
 ### См. также
 
-* класс [TeXSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

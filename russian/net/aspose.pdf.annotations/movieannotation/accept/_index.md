@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Метод MovieAnnotation. Принимает объект посетителя для обработки аннотации
+title: "MovieAnnotation.Accept"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод MovieAnnotation. Принимает объект‑посетитель для обработки аннотации"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/movieannotation/accept/
 ---
-## Метод MovieAnnotation.Accept
+## MovieAnnotation.Accept method
 
-Принимает объект посетителя для обработки аннотации.
+Принимает объект посетителя для обработки annotation.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Объект посетителя. |
+| посетитель | AnnotationSelector | Объект‑посетитель. |
 
 ### См. также
 
-* класс [AnnotationSelector](../../annotationselector/)
-* класс [MovieAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

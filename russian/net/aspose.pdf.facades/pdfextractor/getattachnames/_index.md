@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachNames
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfExtractor. Возвращает список вложений в PDF файле. Примечание ExtractAttachments должен быть вызван перед использованием этого метода
+title: "PdfExtractor.GetAttachNames"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfExtractor. Возвращает список вложений в PDF‑файле. Примечание: ExtractAttachments должен быть вызван до использования этого метода."
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.facades/pdfextractor/getattachnames/
 ---
-## Метод PdfExtractor.GetAttachNames
+## PdfExtractor.GetAttachNames method
 
-Возвращает список вложений в PDF файле. Примечание: ExtractAttachments должен быть вызван перед использованием этого метода.
+Возвращает список вложений в PDF-файле. Примечание: перед использованием этого метода необходимо вызвать ExtractAttachments.
 
 ```csharp
 public IList<string> GetAttachNames()
@@ -20,7 +20,7 @@ public IList<string> GetAttachNames()
 
 ## Примеры
 
-Пример демонстрирует, как извлечь имена вложений из PDF файла.
+Пример демонстрирует, как извлечь имена вложений из PDF‑файла.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -33,6 +33,8 @@ foreach (string name in attachments)
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

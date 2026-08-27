@@ -1,14 +1,14 @@
 ---
-title: BackgroundArtifact.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BackgroundArtifact. Получает или задает фоновое изображение артефакта фона
+title: "BackgroundArtifact.BackgroundImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BackgroundArtifact. Возвращает или задает изображение фона артефакта"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/backgroundartifact/backgroundimage/
 ---
-## Свойство BackgroundArtifact.BackgroundImage
+## BackgroundArtifact.BackgroundImage property
 
-Получает или задает фоновое изображение артефакта фона
+Получает или задает изображение фона артефакта фона
 
 ```csharp
 public Stream BackgroundImage { get; set; }
@@ -16,6 +16,8 @@ public Stream BackgroundImage { get; set; }
 
 ### См. также
 
-* класс [BackgroundArtifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BackgroundArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

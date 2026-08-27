@@ -1,14 +1,14 @@
 ---
-title: AttributeName.LineHeight_Auto
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут LineHeight Auto. Корректировка значения BaselineShift не должна производиться
+title: "AttributeName.LineHeight_Auto"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName поле. Attribute LineHeight Auto  Корректировка значения BaselineShift не будет выполнена"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.logicalstructure/attributename/lineheight_auto/
 ---
-## Поле AttributeName.LineHeight_Auto
+## AttributeName.LineHeight_Auto field
 
-Атрибут LineHeight: Auto - Корректировка значения BaselineShift не должна производиться.
+Атрибут LineHeight: Auto — Корректировка значения BaselineShift не будет выполнена.
 
 ```csharp
 public static readonly AttributeName LineHeight_Auto;
@@ -16,6 +16,8 @@ public static readonly AttributeName LineHeight_Auto;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TocInfo.FormatArrayLength
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TocInfo. Получает или устанавливает длину массива формата
+title: "TocInfo.FormatArrayLength"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TocInfo. Получает или задает длину массива форматов"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/tocinfo/formatarraylength/
 ---
-## Свойство TocInfo.FormatArrayLength
+## TocInfo.FormatArrayLength property
 
-Получает или устанавливает длину массива формата
+Получает или задаёт длину массива форматов
 
 ```csharp
 public int FormatArrayLength { get; set; }
@@ -16,6 +16,8 @@ public int FormatArrayLength { get; set; }
 
 ### См. также
 
-* класс [TocInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

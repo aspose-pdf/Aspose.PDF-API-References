@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.ForegroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentState. Получает или задает цвет переднего плана текста, представленного объектом TextFragment
+title: "TextFragmentState.ForegroundColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentState. Получает или задает цвет переднего плана текста, представленного объектом TextFragment"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.text/textfragmentstate/foregroundcolor/
 ---
-## Свойство TextFragmentState.ForegroundColor
+## TextFragmentState.ForegroundColor property
 
 Получает или задает цвет переднего плана текста, представленного объектом [`TextFragment`](../../textfragment/)
 
@@ -16,7 +16,9 @@ public override Color ForegroundColor { get; set; }
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

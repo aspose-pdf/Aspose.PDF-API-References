@@ -1,14 +1,14 @@
 ---
-title: Usage.PromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство использования. Получает или устанавливает количество токенов в запросе
+title: "Usage.PromptTokens"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Usage. Получает или задает количество токенов в prompt"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/usage/prompttokens/
 ---
-## Свойство Использование.PromptTokens
+## Usage.PromptTokens property
 
-Получает или устанавливает количество токенов в запросе.
+Получает или задает количество токенов в подсказке.
 
 ```csharp
 public int PromptTokens { get; set; }
@@ -16,6 +16,8 @@ public int PromptTokens { get; set; }
 
 ### См. также
 
-* класс [Использование](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Usage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

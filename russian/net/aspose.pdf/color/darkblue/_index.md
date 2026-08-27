@@ -1,14 +1,14 @@
 ---
-title: Color.DarkBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF00008B
+title: "Color.DarkBlue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Получает системный цвет, у которого ARGB‑значение c FF00008B"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf/color/darkblue/
 ---
-## Свойство Color.DarkBlue
+## Color.DarkBlue property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF00008B.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FF00008B.
 
 ```csharp
 public static Color DarkBlue { get; }
@@ -16,10 +16,12 @@ public static Color DarkBlue { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

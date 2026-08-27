@@ -1,7 +1,7 @@
 ---
-title: DicomDevice.DicomDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор DicomDevice. Инициализирует новый экземпляр класса DicomDevice с разрешением по умолчанию
+title: "DicomDevice.DicomDevice"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор DicomDevice. Инициализирует новый экземпляр класса DicomDevice с разрешением по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/dicomdevice/dicomdevice/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.devices/dicomdevice/dicomdevice/
 public DicomDevice()
 ```
 
-### See Also
+### См. также
 
 * class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -30,7 +30,7 @@ public DicomDevice()
 public DicomDevice(Resolution resolution)
 ```
 
-### See Also
+### См. также
 
 * class [Resolution](../../resolution/)
 * class [DicomDevice](../)
@@ -41,17 +41,17 @@ public DicomDevice(Resolution resolution)
 
 ## DicomDevice(PageSize) {#constructor_2}
 
-Инициализирует новый экземпляр класса [`DicomDevice`](../) с заданным размером страницы, с разрешением по умолчанию (=150).
+Инициализирует новый экземпляр класса [`DicomDevice`](../) с указанным размером страницы, с разрешением по умолчанию (=150).
 
 ```csharp
 public DicomDevice(PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
 
-### See Also
+### См. также
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [DicomDevice](../)
@@ -62,18 +62,18 @@ public DicomDevice(PageSize pageSize)
 
 ## DicomDevice(int, int) {#constructor_4}
 
-Инициализирует новый экземпляр класса [`DicomDevice`](../) с заданными размерами изображения, с разрешением по умолчанию (=150).
+Инициализирует новый экземпляр класса [`DicomDevice`](../) с указанными размерами изображения, с разрешением по умолчанию (=150).
 
 ```csharp
 public DicomDevice(int width, int height)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | width | Int32 | Ширина выходного изображения. |
 | height | Int32 | Высота выходного изображения. |
 
-### See Also
+### См. также
 
 * class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -83,18 +83,18 @@ public DicomDevice(int width, int height)
 
 ## DicomDevice(PageSize, Resolution) {#constructor_3}
 
-Инициализирует новый экземпляр класса [`DicomDevice`](../) с заданным размером страницы и разрешением.
+Инициализирует новый экземпляр класса [`DicomDevice`](../) с указанным размером страницы и разрешением.
 
 ```csharp
 public DicomDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| resolution | Resolution | Разрешение для результирующего файла изображения, см. класс [`Resolution`](../../resolution/). |
+| resolution | Resolution | Разрешение результирующего файла изображения, см. класс [`Resolution`](../../resolution/). |
 
-### See Also
+### См. также
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [Resolution](../../resolution/)
@@ -106,21 +106,23 @@ public DicomDevice(PageSize pageSize, Resolution resolution)
 
 ## DicomDevice(int, int, Resolution) {#constructor_5}
 
-Инициализирует новый экземпляр класса [`DicomDevice`](../) с заданными размерами изображения и разрешением.
+Инициализирует новый экземпляр класса [`DicomDevice`](../) с указанными размерами изображения и разрешением.
 
 ```csharp
 public DicomDevice(int width, int height, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | width | Int32 | Ширина выходного изображения. |
 | height | Int32 | Высота выходного изображения. |
-| resolution | Resolution | Разрешение для результирующего файла изображения, см. класс [`Resolution`](../../resolution/). |
+| resolution | Resolution | Разрешение результирующего файла изображения, см. класс [`Resolution`](../../resolution/). |
 
-### See Also
+### См. также
 
 * class [Resolution](../../resolution/)
 * class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

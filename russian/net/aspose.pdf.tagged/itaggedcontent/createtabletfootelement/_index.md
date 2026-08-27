@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTableTFootElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает TableTFootElement
+title: "ITaggedContent.CreateTableTFootElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает TableTFootElement"
 type: docs
-weight: 310
+weight: 340
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/
 ---
-## Метод ITaggedContent.CreateTableTFootElement
+## ITaggedContent.CreateTableTFootElement method
 
 Создает [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/).
 
@@ -16,11 +16,13 @@ public TableTFootElement CreateTableTFootElement()
 
 ### Возвращаемое значение
 
-Созданный структурный элемент.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

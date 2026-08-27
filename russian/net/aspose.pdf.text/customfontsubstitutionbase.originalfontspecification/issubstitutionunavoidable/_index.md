@@ -1,14 +1,14 @@
 ---
-title: CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OriginalFontSpecification. Получает значение, указывающее на то, что замена неизбежна
+title: "CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OriginalFontSpecification. Возвращает значение, указывающее, что замена неизбежна"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/issubstitutionunavoidable/
 ---
-## Свойство CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable
+## CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable property
 
-Получает значение, указывающее на то, что замена неизбежна.
+Возвращает значение, указывающее, что замена неизбежна.
 
 ```csharp
 public bool IsSubstitutionUnavoidable { get; }
@@ -16,10 +16,12 @@ public bool IsSubstitutionUnavoidable { get; }
 
 ## Примечания
 
-Возвращает true в случае, если замена была запрошена из-за отсутствия оригинального шрифта или если оригинальный шрифт не может быть использован в контексте какой-либо задачи. В случае, если пользователь игнорирует флаг и не заменяет шрифт - выполняется процедура замены шрифта по умолчанию. Но это предоставляет возможность пользователю изменить стандартную процедуру замены шрифта и установить лучший шрифт в систему. Возвращает false в случае, если оригинальный шрифт присутствует, действителен, но пользователю разрешено его заменить.
+Возвращает true, если замена была запрошена из‑за отсутствия оригинального шрифта или если оригинальный шрифт нельзя использовать в контексте некоторой задачи. Если пользователь игнорирует флаг и не заменяет шрифт, выполняется процедура замены шрифта по умолчанию. Однако это предоставляет возможность пользователю изменить стандартную процедуру замены шрифта и установить более подходящий шрифт в системе. Возвращает false, если оригинальный шрифт присутствует, действителен, но пользователю разрешено его заменить.
 
 ### См. также
 
-* класс [OriginalFontSpecification](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [OriginalFontSpecification](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

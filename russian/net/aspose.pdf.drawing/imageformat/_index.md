@@ -1,14 +1,14 @@
 ---
-title: Enum ImageFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ImageFormat Aspose.Pdf.Drawing. Этот перечисляемый тип представляет форматы изображений
+title: "Перечисление ImageFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Drawing.ImageFormat перечисление. Это перечисление представляет форматы изображений"
 type: docs
-weight: 3950
+weight: 4070
 url: /ru/net/aspose.pdf.drawing/imageformat/
 ---
-## Перечисление ImageFormat
+## ImageFormat enumeration
 
-Этот перечисляемый тип представляет форматы изображений.
+Это перечисление представляет форматы изображений.
 
 ```csharp
 public enum ImageFormat
@@ -16,7 +16,7 @@ public enum ImageFormat
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Bmp | `0` | Формат BMP. |
 | Jpeg | `1` | Формат JPEG. |
@@ -31,5 +31,7 @@ public enum ImageFormat
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

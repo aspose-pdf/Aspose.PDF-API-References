@@ -1,14 +1,14 @@
 ---
-title: Class FigureElement
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Structure.FigureElement. Класс, представляющий логическую структуру фигуры
+title: "Класс FigureElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Structure.FigureElement класс. Класс, представляющий логическую структуру фигуры"
 type: docs
-weight: 10160
+weight: 10340
 url: /ru/net/aspose.pdf.structure/figureelement/
 ---
-## Класс FigureElement
+## FigureElement class
 
-Класс, представляющий логическую структуру фигуры.
+Класс, представляющий рисунок логической структуры.
 
 ```csharp
 public class FigureElement : Element
@@ -18,12 +18,12 @@ public class FigureElement : Element
 
 | Имя | Описание |
 | --- | --- |
-| virtual [ActualText](../../aspose.pdf.structure/element/actualtext/) { get; set; } | (Необязательно; PDF 1.4) Текст, который является точной заменой для элемента структуры и его дочерних элементов. Этот текст замены (который должен применяться к как можно меньшему объему контента) полезен при извлечении содержимого документа в поддержку доступности для пользователей с ограниченными возможностями или для других целей. |
-| virtual [Alt](../../aspose.pdf.structure/element/alt/) { get; set; } | (Необязательно) Альтернативное описание элемента структуры и его дочерних элементов в читаемой для человека форме, которое полезно при извлечении содержимого документа в поддержку доступности для пользователей с ограниченными возможностями или для других целей. |
+| virtual [ActualText](../../aspose.pdf.structure/element/actualtext/) { get; set; } | (Optional; PDF 1.4) Текст, который является точной заменой структурного элемента и его дочерних элементов. Этот заменяющий текст (который должен применяться к максимально небольшому куску содержимого) полезен при извлечении содержимого документа в целях обеспечения доступности для пользователей с ограниченными возможностями или для других целей. |
+| virtual [Alt](../../aspose.pdf.structure/element/alt/) { get; set; } | (Optional) Альтернативное описание структурного элемента и его дочерних элементов в человекочитаемой форме, которое полезно при извлечении содержимого документа в целях обеспечения доступности для пользователей с ограниченными возможностями или для других целей. |
 | [Children](../../aspose.pdf.structure/element/children/) { get; } | Получает коллекцию дочерних элементов. |
-| virtual [E](../../aspose.pdf.structure/element/e/) { get; set; } | (Необязательно; PDF 1.5) Расширенная форма аббревиатуры. |
-| [Image](../../aspose.pdf.structure/figureelement/image/) { get; } | Получает значение элемента структуры фигуры. |
-| virtual [Lang](../../aspose.pdf.structure/element/lang/) { get; set; } | (Необязательно; PDF 1.4) Язык, указывающий естественный язык для всего текста в элементе структуры, за исключением случаев, когда он переопределен языковыми спецификациями для вложенных элементов структуры или помеченного контента. |
+| virtual [E](../../aspose.pdf.structure/element/e/) { get; set; } | (Optional; PDF 1.5) Расширенная форма аббревиатуры. |
+| [Image](../../aspose.pdf.structure/figureelement/image/) { get; } | Получает значение фигурного структурного элемента. |
+| virtual [Lang](../../aspose.pdf.structure/element/lang/) { get; set; } | (Optional; PDF 1.4) Язык, указывающий естественный язык для всего текста в структурном элементе, за исключением случаев, когда он переопределяется спецификациями языка для вложенных структурных элементов или помеченного контента. |
 
 ## Методы
 
@@ -33,6 +33,8 @@ public class FigureElement : Element
 
 ### См. также
 
-* класс [Element](../element/)
-* пространство имен [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
-* сборка [Aspose.PDF](../../)
+* class [Element](../element/)
+* namespace [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../)
+
+

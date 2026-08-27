@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CreateFineTuningJobResponse. Получает или задает метку времени Unix в секундах, когда была создана работа по тонкой настройке
+title: "CreateFineTuningJobResponse.CreatedAt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CreateFineTuningJobResponse. Получает или задает Unix‑таймстамп в секундах, когда была создана задача дообучения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/createfinetuningjobresponse/createdat/
 ---
-## Свойство CreateFineTuningJobResponse.CreatedAt
+## CreateFineTuningJobResponse.CreatedAt property
 
-Получает или задает метку времени Unix (в секундах), когда была создана работа по тонкой настройке.
+Получает или задает Unix‑временную метку (в секундах) момента создания задачи дообучения.
 
 ```csharp
 public long CreatedAt { get; set; }
@@ -16,6 +16,8 @@ public long CreatedAt { get; set; }
 
 ### См. также
 
-* класс [CreateFineTuningJobResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

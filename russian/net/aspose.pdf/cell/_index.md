@@ -1,12 +1,12 @@
 ---
-title: Class Cell
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Cell. Представляет ячейку строки таблицы
+title: "Класс Cell"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Cell. Представляет ячейку строки таблицы"
 type: docs
-weight: 2970
+weight: 3080
 url: /ru/net/aspose.pdf/cell/
 ---
-## Класс Cell
+## Cell class
 
 Представляет ячейку строки таблицы.
 
@@ -25,18 +25,18 @@ public sealed class Cell : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [Alignment](../../aspose.pdf/cell/alignment/) { get; set; } | Получает или задает выравнивание. |
+| [Alignment](../../aspose.pdf/cell/alignment/) { get; set; } | Получает или задаёт выравнивание. |
 | [BackgroundColor](../../aspose.pdf/cell/backgroundcolor/) { get; set; } | Получает или задает цвет фона. |
-| [BackgroundImage](../../aspose.pdf/cell/backgroundimage/) { get; set; } | Получает или задает изображение фона |
+| [BackgroundImage](../../aspose.pdf/cell/backgroundimage/) { get; set; } | Получает или задаёт фон изображения |
 | [Border](../../aspose.pdf/cell/border/) { get; set; } | Получает или задает границу. |
-| [ColSpan](../../aspose.pdf/cell/colspan/) { get; set; } | Получает или задает охват столбцов. |
-| [DefaultCellTextState](../../aspose.pdf/cell/defaultcelltextstate/) { get; set; } | Получает или задает состояние текста по умолчанию для ячейки. |
-| [IsNoBorder](../../aspose.pdf/cell/isnoborder/) { get; set; } | Получает или задает, имеет ли ячейка границу. |
-| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | Устанавливает, переопределено ли свойство TextState ячейки свойством TextState TextFragment. |
-| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | Получает или задает, обернут ли текст ячейки. |
-| [Margin](../../aspose.pdf/cell/margin/) { get; set; } | Получает или задает отступ. |
+| [ColSpan](../../aspose.pdf/cell/colspan/) { get; set; } | Получает или задаёт охват колонок. |
+| [DefaultCellTextState](../../aspose.pdf/cell/defaultcelltextstate/) { get; set; } | Получает или задаёт состояние текста ячейки по умолчанию. |
+| [IsNoBorder](../../aspose.pdf/cell/isnoborder/) { get; set; } | Получает или задаёт наличие границы у ячейки. |
+| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | Устанавливает свойство TextState ячейки, которое переопределяется свойством TextState объекта TextFragment. |
+| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | Получает или задает перенос слов текста ячейки. |
+| [Margin](../../aspose.pdf/cell/margin/) { get; set; } | Получает или задаёт отступ. |
 | [Paragraphs](../../aspose.pdf/cell/paragraphs/) { get; set; } | Получает или задает отформатированный текст ячейки. |
-| [RowSpan](../../aspose.pdf/cell/rowspan/) { get; set; } | Получает или задает охват строк. |
+| [RowSpan](../../aspose.pdf/cell/rowspan/) { get; set; } | Получает или задает объединение строк. |
 | [VerticalAlignment](../../aspose.pdf/cell/verticalalignment/) { get; set; } | Получает или задает вертикальное выравнивание. |
 | [Width](../../aspose.pdf/cell/width/) { get; } | Получает или задает ширину столбца. |
 
@@ -44,9 +44,11 @@ public sealed class Cell : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.pdf/cell/clone/)() | Клонирует ячейку. |
+| [Clone](../../aspose.pdf/cell/clone/)() | Клонировать ячейку. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

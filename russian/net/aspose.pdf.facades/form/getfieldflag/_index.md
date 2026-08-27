@@ -1,12 +1,12 @@
 ---
-title: Form.GetFieldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Form. Возвращает флаги поля
+title: "Form.GetFieldFlag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Возвращает флаги поля"
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.facades/form/getfieldflag/
 ---
-## Метод Form.GetFieldFlag
+## Form.GetFieldFlag method
 
 Возвращает флаги поля.
 
@@ -38,3 +38,5 @@ if (form.GetFieldFlag("textField") == PropertyFlag.ReadOnly)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

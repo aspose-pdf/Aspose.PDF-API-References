@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineCollection. Получает элемент контура из коллекции по индексу
+title: "OutlineCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineCollection. Возвращает элемент оглавления из коллекции по индексу"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/outlinecollection/item/
 ---
-## Индексатор OutlineCollection
+## OutlineCollection indexer
 
-Получает элемент контура из коллекции по индексу.
+Получает элемент оглавления из коллекции по индексу.
 
 ```csharp
 public OutlineItemCollection this[int index] { get; }
@@ -16,11 +16,13 @@ public OutlineItemCollection this[int index] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Индекс запрашиваемого элемента. |
+| index | Индекс запрошенного элемента. |
 
 ### См. также
 
-* класс [OutlineItemCollection](../../outlineitemcollection/)
-* класс [OutlineCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

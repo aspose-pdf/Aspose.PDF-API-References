@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.UnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFormatConversionOptions. Правила для решения проблем с отображением юникода. Может быть null
+title: "PdfFormatConversionOptions.UnicodeProcessingRules"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFormatConversionOptions. Правила для решения проблем с отображением Unicode. Может быть null"
 type: docs
-weight: 220
+weight: 230
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/unicodeprocessingrules/
 ---
-## Свойство PdfFormatConversionOptions.UnicodeProcessingRules
+## PdfFormatConversionOptions.UnicodeProcessingRules property
 
-Правила для решения проблем с отображением юникода. Может быть null.
+Правила решения проблем с сопоставлением Unicode. Может быть null.
 
 ```csharp
 public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
@@ -16,7 +16,9 @@ public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 
 ### См. также
 
-* класс [ToUnicodeProcessingRules](../../tounicodeprocessingrules/)
-* класс [PdfFormatConversionOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ToUnicodeProcessingRules](../../tounicodeprocessingrules/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

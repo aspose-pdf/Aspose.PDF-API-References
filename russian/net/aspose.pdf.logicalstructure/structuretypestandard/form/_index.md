@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Форма A виджетная аннотация, представляющая интерактивное поле формы
+title: "StructureTypeStandard.Form"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard field. Form Виджет-аннотация, представляющая интерактивное поле формы"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/form/
 ---
-## Поле StructureTypeStandard.Form
+## StructureTypeStandard.Form field
 
-(Форма) Виджетная аннотация, представляющая интерактивное поле формы.
+(Form) Виджет‑аннотация, представляющая интерактивное поле формы.
 
 ```csharp
 public static readonly StructureTypeStandard Form;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Form;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+
