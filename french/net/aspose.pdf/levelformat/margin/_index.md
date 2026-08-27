@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LevelFormat. Obtient ou définit une marge de niveau de liste
+title: "LevelFormat.Margin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LevelFormat. Obtient ou définit la marge du niveau de liste"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/levelformat/margin/
 ---
-## Propriété LevelFormat.Margin
+## LevelFormat.Margin property
 
-Obtient ou définit une marge de niveau de liste
+Obtient ou définit la marge du niveau de liste.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### Voir aussi
 
-* classe [MarginInfo](../../margininfo/)
-* classe [LevelFormat](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [MarginInfo](../../margininfo/)
+* class [LevelFormat](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

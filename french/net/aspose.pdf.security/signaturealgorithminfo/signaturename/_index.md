@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignatureAlgorithmInfo. Obtient le nom du champ de signature
+title: "SignatureAlgorithmInfo.SignatureName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SignatureAlgorithmInfo. Obtient le nom du champ de signature"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.security/signaturealgorithminfo/signaturename/
 ---
-## Propriété SignatureAlgorithmInfo.SignatureName
+## SignatureAlgorithmInfo.SignatureName property
 
 Obtient le nom du champ de signature.
 
@@ -16,6 +16,8 @@ public string SignatureName { get; }
 
 ### Voir aussi
 
-* classe [SignatureAlgorithmInfo](../)
-* espace de noms [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* class [SignatureAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

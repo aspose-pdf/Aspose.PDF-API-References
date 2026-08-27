@@ -1,14 +1,14 @@
 ---
-title: RunResponse.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunResponse. Obtient ou définit la valeur d'échantillonnage du noyau utilisée pour cette exécution. Si non définie, par défaut à 1
+title: "RunResponse.TopP"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunResponse. Obtient ou définit la valeur d'échantillonnage nucleus utilisée pour cette exécution. Si non définie, la valeur par défaut est 1"
 type: docs
 weight: 250
 url: /fr/net/aspose.pdf.ai/runresponse/topp/
 ---
-## Propriété RunResponse.TopP
+## RunResponse.TopP property
 
-Obtient ou définit la valeur d'échantillonnage du noyau utilisée pour cette exécution. Si non définie, par défaut à 1.
+Obtient ou définit la valeur de l'échantillonnage nucleus utilisée pour ce run. Si non définie, la valeur par défaut est 1.
 
 ```csharp
 public double? TopP { get; set; }
@@ -16,6 +16,8 @@ public double? TopP { get; set; }
 
 ### Voir aussi
 
-* classe [RunResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

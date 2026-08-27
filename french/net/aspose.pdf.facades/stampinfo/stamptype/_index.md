@@ -1,14 +1,14 @@
 ---
-title: StampInfo.StampType
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StampInfo. Obtient le type de tampon image / formulaire
+title: "StampInfo.StampType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StampInfo. Obtient le type de tampon image / formulaire"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.facades/stampinfo/stamptype/
 ---
-## Propriété StampInfo.StampType
+## StampInfo.StampType property
 
-Obtient le type de tampon (image / formulaire).
+Obtient le type du tampon (image / formulaire).
 
 ```csharp
 public StampType StampType { get; }
@@ -20,3 +20,5 @@ public StampType StampType { get; }
 * class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

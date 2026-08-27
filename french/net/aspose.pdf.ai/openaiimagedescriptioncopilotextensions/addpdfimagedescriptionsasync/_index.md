@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIImageDescriptionCopilotExtensions. Ajoute de manière asynchrone des descriptions d'images à un fichier PDF et enregistre de nouveaux documents dans des dossiers spécifiés.
+title: "OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OpenAIImageDescriptionCopilotExtensions method. Ajoute de manière asynchrone des descriptions d'images à un fichier PDF et enregistre les nouveaux documents dans des dossiers spécifiés."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/
 ---
-## Méthode OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync
+## OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync method
 
-Ajoute de manière asynchrone des descriptions d'images à un fichier PDF et enregistre de nouveaux documents dans des dossiers spécifiés.
+Ajoute de manière asynchrone des descriptions d'images à un fichier PDF et enregistre les nouveaux documents dans des dossiers spécifiés.
 
 ```csharp
 public static Task AddPdfImageDescriptionsAsync(
@@ -32,3 +32,5 @@ Une tâche représentant l'opération asynchrone.
 * class [OpenAIImageDescriptionCopilotExtensions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

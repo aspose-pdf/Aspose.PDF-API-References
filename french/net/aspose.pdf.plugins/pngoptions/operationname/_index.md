@@ -1,12 +1,12 @@
 ---
-title: PngOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PngOptions. Renvoie le nom de l'opération
+title: "PngOptions.OperationName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PngOptions. Retourne le nom de l'opération"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/pngoptions/operationname/
 ---
-## Propriété PngOptions.OperationName
+## PngOptions.OperationName property
 
 Renvoie le nom de l'opération.
 
@@ -16,6 +16,8 @@ public override string OperationName { get; }
 
 ### Voir aussi
 
-* classe [PngOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PngOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

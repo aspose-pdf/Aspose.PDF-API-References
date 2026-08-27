@@ -1,12 +1,12 @@
 ---
-title: Class PrinterMarksKindExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.PrinterMarksKindExtensions. Fournit des méthodes d'extension pour l'énumération PrinterMarksKind
+title: "Classe PrinterMarksKindExtensions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.PrinterMarksKindExtensions classe. Fournit des méthodes d'extension pour l'énumération PrinterMarksKind"
 type: docs
-weight: 2390
+weight: 2480
 url: /fr/net/aspose.pdf.annotations/printermarkskindextensions/
 ---
-## Classe PrinterMarksKindExtensions
+## PrinterMarksKindExtensions class
 
 Fournit des méthodes d'extension pour l'énumération [`PrinterMarksKind`](../printermarkskind/).
 
@@ -18,9 +18,11 @@ public static class PrinterMarksKindExtensions
 
 | Nom | Description |
 | --- | --- |
-| static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | Détermine si la valeur actuelle inclut un drapeau spécifié. |
+| static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | Détermine si la valeur actuelle inclut un indicateur spécifié. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

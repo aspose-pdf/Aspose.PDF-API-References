@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Rectangle. Intersecte deux rectangles
+title: "Rectangle.Intersect"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Rectangle. Intersecte deux rectangles"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf/rectangle/intersect/
 ---
-## Méthode Rectangle.Intersect
+## Rectangle.Intersect method
 
 Intersecte deux rectangles.
 
@@ -20,10 +20,12 @@ public Rectangle Intersect(Rectangle otherRect)
 
 ### Valeur de retour
 
-Intersection des rectangles ; null si les rectangles ne s'intersectent pas.
+Intersection des rectangles ; null si les rectangles ne sont pas intersectés.
 
 ### Voir aussi
 
-* classe [Rectangle](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

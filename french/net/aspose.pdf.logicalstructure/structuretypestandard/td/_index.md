@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TD
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StructureTypeStandard. Cellule de données de tableau Une cellule de tableau contenant des données qui font partie du contenu du tableau
+title: "StructureTypeStandard.TD"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureTypeStandard champ. Table data cell Une cellule de tableau contenant des données qui font partie du contenu du tableau."
 type: docs
 weight: 400
 url: /fr/net/aspose.pdf.logicalstructure/structuretypestandard/td/
 ---
-## Champ StructureTypeStandard.TD
+## StructureTypeStandard.TD field
 
-(Cellule de données de tableau) Une cellule de tableau contenant des données qui font partie du contenu du tableau.
+(Table data cell) Une cellule de tableau contenant des données qui font partie du contenu du tableau.
 
 ```csharp
 public static readonly StructureTypeStandard TD;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard TD;
 
 ### Voir aussi
 
-* classe [StructureTypeStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

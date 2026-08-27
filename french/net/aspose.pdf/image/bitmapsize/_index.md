@@ -1,12 +1,12 @@
 ---
-title: Image.BitmapSize
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'image. Obtient la taille du bitmap de l'image
+title: "Image.BitmapSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Image. Obtient la taille du bitmap de l'image"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/image/bitmapsize/
 ---
-## Propriété Image.BitmapSize
+## Image.BitmapSize property
 
 Obtient la taille du bitmap de l'image.
 
@@ -16,7 +16,9 @@ public Rectangle BitmapSize { get; }
 
 ### Voir aussi
 
-* classe [Rectangle](../../rectangle/)
-* classe [Image](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../../rectangle/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

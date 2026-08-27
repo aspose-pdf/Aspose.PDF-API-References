@@ -1,14 +1,14 @@
 ---
-title: Document.CenterWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Document. Obtient ou définit un indicateur spécifiant si la position de la fenêtre des documents sera centrée sur l'écran
+title: "Document.CenterWindow"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété du Document. Obtient ou définit le drapeau indiquant si la position de la fenêtre du document sera centrée à l'écran"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/document/centerwindow/
 ---
-## Propriété Document.CenterWindow
+## Document.CenterWindow property
 
-Obtient ou définit un indicateur spécifiant si la position de la fenêtre du document sera centrée sur l'écran.
+Obtient ou définit le drapeau spécifiant si la position de la fenêtre du document sera centrée à l'écran.
 
 ```csharp
 public bool CenterWindow { get; set; }
@@ -16,7 +16,7 @@ public bool CenterWindow { get; set; }
 
 ## Exemples
 
-L'exemple démontre comment obtenir l'indicateur CenterWindow :
+Exemple montrant comment obtenir le drapeau CenterWindow :
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -25,6 +25,8 @@ bool value = document.CenterWindow;
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

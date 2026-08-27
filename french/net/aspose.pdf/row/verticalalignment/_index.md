@@ -1,12 +1,12 @@
 ---
-title: Row.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Row. Obtient ou définit l'alignement vertical
+title: "Row.VerticalAlignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Row. Obtient ou définit l'alignement vertical"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf/row/verticalalignment/
 ---
-## Propriété Row.VerticalAlignment
+## Row.VerticalAlignment property
 
 Obtient ou définit l'alignement vertical.
 
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

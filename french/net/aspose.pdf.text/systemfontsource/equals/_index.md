@@ -1,14 +1,14 @@
 ---
-title: SystemFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SystemFontSource. Vérifiez si les objets de source de police système sont égaux
+title: "SystemFontSource.Equals"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode SystemFontSource. Vérifie si les objets source de police système sont égaux"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/systemfontsource/equals/
 ---
-## Méthode SystemFontSource.Equals
+## SystemFontSource.Equals method
 
-Vérifiez si les objets de source de police système sont égaux.
+Vérifiez si les objets source de police système sont égaux.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| obj | Object | Objet de source de police système qui sera comparé. |
+| obj | Objet | Objet source de police système qui sera comparé. |
 
 ### Valeur de retour
 
-Vrai si les deux objets sont des sources de police système, faux sinon.
+Vrai si les deux objets sont des sources de police système, sinon faux.
 
 ### Voir aussi
 
-* classe [SystemFontSource](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [SystemFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

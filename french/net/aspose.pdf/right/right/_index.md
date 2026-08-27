@@ -1,12 +1,12 @@
 ---
-title: Right.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Droit. Le constructeur par défaut
+title: "Right.Right"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Right. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/right/right/
 ---
-## Constructeur Droit
+## Right constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Right()
 
 ### Voir aussi
 
-* classe [Right](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Right](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

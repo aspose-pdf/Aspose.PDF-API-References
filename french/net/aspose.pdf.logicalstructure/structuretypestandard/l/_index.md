@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.L
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StructureTypeStandard. Liste Une séquence d'éléments de signification et d'importance similaires. Ses enfants immédiats doivent être une structure de légende optionnelle de type Caption suivie d'un ou plusieurs éléments de liste de type LI
+title: "StructureTypeStandard.L"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureTypeStandard champ. Liste Une séquence d'éléments de même signification et importance. Ses enfants immédiats doivent être un type de structure de légende optionnel Caption suivi d'un ou plusieurs éléments de liste de type structure LI"
 type: docs
 weight: 200
 url: /fr/net/aspose.pdf.logicalstructure/structuretypestandard/l/
 ---
-## Champ StructureTypeStandard.L
+## StructureTypeStandard.L field
 
-(Liste) Une séquence d'éléments de signification et d'importance similaires. Ses enfants immédiats doivent être une légende optionnelle (type de structure Caption) suivie d'un ou plusieurs éléments de liste (type de structure LI).
+(List) Une séquence d’éléments de même signification et importance. Ses enfants immédiats doivent être une légende facultative (type de structure Caption) suivie d’un ou plusieurs éléments de liste (type de structure LI).
 
 ```csharp
 public static readonly StructureTypeStandard L;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard L;
 
 ### Voir aussi
 
-* classe [StructureTypeStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

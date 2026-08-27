@@ -1,14 +1,14 @@
 ---
-title: Cell.IsWordWrapped
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la cellule. Obtient ou définit le texte de la cellule en mode retour à la ligne
+title: "Cell.IsWordWrapped"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Cell. Obtient ou définit le texte de la cellule avec retour à la ligne"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf/cell/iswordwrapped/
 ---
-## Propriété Cell.IsWordWrapped
+## Cell.IsWordWrapped property
 
-Obtient ou définit le texte de la cellule en mode retour à la ligne.
+Obtient ou définit le texte de la cellule avec retour à la ligne.
 
 ```csharp
 public bool IsWordWrapped { get; set; }
@@ -16,6 +16,8 @@ public bool IsWordWrapped { get; set; }
 
 ### Voir aussi
 
-* classe [Cell](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

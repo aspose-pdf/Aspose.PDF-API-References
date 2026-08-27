@@ -1,12 +1,12 @@
 ---
-title: CosPdfName.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CosPdfName. Obtient la valeur
+title: "CosPdfName.Value"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CosPdfName. Obtient la valeur."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.dataeditor/cospdfname/value/
 ---
-## Propriété CosPdfName.Value
+## CosPdfName.Value property
 
 Obtient la valeur.
 
@@ -14,12 +14,14 @@ Obtient la valeur.
 public string Value { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur.
 
 ### Voir aussi
 
-* classe [CosPdfName](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

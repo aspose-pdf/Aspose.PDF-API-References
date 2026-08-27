@@ -1,14 +1,14 @@
 ---
-title: Artifact.SetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Artifact. Définit la valeur personnalisée de l'artéfact
+title: "Artifact.SetValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Artifact. Définit la valeur personnalisée de l'artifact"
 type: docs
 weight: 340
 url: /fr/net/aspose.pdf/artifact/setvalue/
 ---
-## Méthode Artifact.SetValue
+## Artifact.SetValue method
 
-Définit la valeur personnalisée de l'artéfact.
+Définit la valeur personnalisée de l'artefact.
 
 ```csharp
 public void SetValue(string name, string value)
@@ -16,11 +16,13 @@ public void SetValue(string name, string value)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| name | String | Nom de la valeur personnalisée. |
-| value | String | Valeur personnalisée dans l'artéfact. |
+| nom | String | Nom de la valeur personnalisée. |
+| valeur | String | Valeur personnalisée dans l'artifact. |
 
 ### Voir aussi
 
-* classe [Artifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

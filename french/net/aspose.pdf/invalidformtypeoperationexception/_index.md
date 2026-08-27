@@ -1,14 +1,14 @@
 ---
-title: Class InvalidFormTypeOperationException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.InvalidFormTypeOperationException. L'exception qui est levée lorsqu'une opération avec un type de formulaire n'est pas valide
+title: "Classe InvalidFormTypeOperationException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.InvalidFormTypeOperationException classe. L'exception qui est levée lorsqu'une opération avec le type de formulaire n'est pas valide"
 type: docs
-weight: 6000
+weight: 6130
 url: /fr/net/aspose.pdf/invalidformtypeoperationexception/
 ---
-## Classe InvalidFormTypeOperationException
+## InvalidFormTypeOperationException class
 
-L'exception qui est levée lorsqu'une opération avec un type de formulaire n'est pas valide.
+L'exception qui est levée lorsqu'une opération avec le type de formulaire n'est pas valide.
 
 ```csharp
 public sealed class InvalidFormTypeOperationException : InvalidOperationException
@@ -25,5 +25,7 @@ public sealed class InvalidFormTypeOperationException : InvalidOperationExceptio
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

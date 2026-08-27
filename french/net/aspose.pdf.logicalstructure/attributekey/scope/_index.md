@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Scope
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeKey. Attribut de portée Propriétaire de l'attribut de table
+title: "AttributeKey.Scope"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeKey champ. Scope attribut Table attribut propriétaire"
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf.logicalstructure/attributekey/scope/
 ---
-## Champ AttributeKey.Scope
+## AttributeKey.Scope field
 
-Attribut de portée (Propriétaire de l'attribut de table).
+Attribut Scope (propriétaire de l'attribut Table).
 
 ```csharp
 public static readonly AttributeKey Scope;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Scope;
 
 ### Voir aussi
 
-* classe [AttributeKey](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

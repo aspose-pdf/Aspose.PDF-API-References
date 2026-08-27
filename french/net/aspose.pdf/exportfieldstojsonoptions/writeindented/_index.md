@@ -1,12 +1,12 @@
 ---
-title: ExportFieldsToJsonOptions.WriteIndented
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ExportFieldsToJsonOptions. Obtient ou définit une valeur indiquant si la sortie Json doit être indentée
+title: "ExportFieldsToJsonOptions.WriteIndented"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ExportFieldsToJsonOptions. Obtient ou définit une valeur indiquant si la sortie Json doit être indentée"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/exportfieldstojsonoptions/writeindented/
 ---
-## Propriété ExportFieldsToJsonOptions.WriteIndented
+## ExportFieldsToJsonOptions.WriteIndented property
 
 Obtient ou définit une valeur indiquant si la sortie Json doit être indentée.
 
@@ -14,12 +14,14 @@ Obtient ou définit une valeur indiquant si la sortie Json doit être indentée.
 public bool WriteIndented { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 `true` si la sortie Json doit être indentée ; sinon, `false`.
 
 ### Voir aussi
 
-* classe [ExportFieldsToJsonOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ExportFieldsToJsonOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

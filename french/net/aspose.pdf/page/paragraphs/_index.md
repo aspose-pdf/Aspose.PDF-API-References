@@ -1,12 +1,12 @@
 ---
-title: Page.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la page. Obtient les paragraphes
+title: "Page.Paragraphs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Page. Obtient les paragraphes"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf/page/paragraphs/
 ---
-## Propriété Page.Paragraphs
+## Page.Paragraphs property
 
 Obtient les paragraphes.
 
@@ -14,13 +14,15 @@ Obtient les paragraphes.
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les paragraphes.
 
 ### Voir aussi
 
-* classe [Paragraphs](../../paragraphs/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Paragraphs](../../paragraphs/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.Format
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocSaveOptions. Format de sortie
+title: "DocSaveOptions.Format"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocSaveOptions. Format de sortie"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/docsaveoptions/format/
 ---
-## Propriété DocSaveOptions.Format
+## DocSaveOptions.Format property
 
 Format de sortie
 
@@ -20,3 +20,5 @@ public DocFormat Format { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

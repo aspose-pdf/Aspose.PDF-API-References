@@ -1,14 +1,14 @@
 ---
-title: XmlLoadOptions.XslStream
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XmlLoadOptions. Obtient les données xsl pour convertir xml en document pdf
+title: "XmlLoadOptions.XslStream"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XmlLoadOptions. Obtient les données xsl pour convertir le xml en document pdf"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/xmlloadoptions/xslstream/
 ---
-## Propriété XmlLoadOptions.XslStream
+## XmlLoadOptions.XslStream property
 
-Obtient les données xsl pour convertir xml en document pdf.
+Obtient les données xsl pour convertir le xml en document PDF.
 
 ```csharp
 public Stream XslStream { get; }
@@ -16,6 +16,8 @@ public Stream XslStream { get; }
 
 ### Voir aussi
 
-* classe [XmlLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

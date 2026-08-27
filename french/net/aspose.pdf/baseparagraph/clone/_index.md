@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode BaseParagraph. Clone cette instance. Méthode virtuelle. Renvoie toujours null
+title: "BaseParagraph.Clone"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode BaseParagraph. Clone cette instance. Méthode virtuelle. Retourne toujours null"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf/baseparagraph/clone/
 ---
-## Méthode BaseParagraph.Clone
+## BaseParagraph.Clone method
 
-Clone cette instance. Méthode virtuelle. Renvoie toujours null.
+Clone cette instance. Méthode virtuelle. Retourne toujours null.
 
 ```csharp
 public virtual object Clone()
@@ -20,6 +20,8 @@ Null.
 
 ### Voir aussi
 
-* classe [BaseParagraph](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

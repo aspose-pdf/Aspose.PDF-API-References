@@ -1,14 +1,14 @@
 ---
-title: Enum PdfFormatConversionOptions.SegmentAlignStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PdfFormatConversionOptionsSegmentAlignStrategy d'Aspose.Pdf. Décrit les stratégies utilisées pour aligner les segments de texte du document. Actuellement, seule la stratégie de restauration des segments à leurs limites d'origine est prise en charge. À l'avenir, d'autres stratégies pourraient être ajoutées.
+title: "Enum PdfFormatConversionOptions.SegmentAlignStrategy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.PdfFormatConversionOptionsSegmentAlignStrategy enum. Décrit les stratégies utilisées pour aligner les segments de texte du document. Actuellement, seule la stratégie de restauration des segments à leurs limites d'origine est prise en charge. D'autres stratégies pourraient être ajoutées à l'avenir."
 type: docs
-weight: 8410
+weight: 8550
 url: /fr/net/aspose.pdf/pdfformatconversionoptions.segmentalignstrategy/
 ---
-## Énumération PdfFormatConversionOptions.SegmentAlignStrategy
+## PdfFormatConversionOptions.SegmentAlignStrategy enumeration
 
-Décrit les stratégies utilisées pour aligner les segments de texte du document. Actuellement, seule la stratégie de restauration des segments à leurs limites d'origine est prise en charge. À l'avenir, d'autres stratégies pourraient être ajoutées.
+Décrit les stratégies utilisées pour aligner les segments de texte du document. Actuellement, seule la stratégie de restauration des segments à leurs limites d'origine est prise en charge. D'autres stratégies pourraient être ajoutées à l'avenir.
 
 ```csharp
 public enum SegmentAlignStrategy : byte
@@ -18,11 +18,13 @@ public enum SegmentAlignStrategy : byte
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Aucun | `0` | Aucun. |
-| RestaurerLimitesSegment | `1` | Restaurer les limites du segment. |
+| None | `0` | Aucun. |
+| RestoreSegmentBounds | `1` | Restaurer les limites du segment. |
 
 ### Voir aussi
 
-* classe [PdfFormatConversionOptions](../pdfformatconversionoptions/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [PdfFormatConversionOptions](../pdfformatconversionoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

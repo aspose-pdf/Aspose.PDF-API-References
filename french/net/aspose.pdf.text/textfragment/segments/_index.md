@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Segments
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragment. Obtient les segments de texte pour le TextFragment actuel
+title: "TextFragment.Segments"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragment. Obtient les segments de texte du TextFragment actuel."
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.text/textfragment/segments/
 ---
-## Propriété TextFragment.Segments
+## TextFragment.Segments property
 
-Obtient les segments de texte pour le [`TextFragment`](../) actuel.
+Obtient les segments de texte du [`TextFragment`](../) actuel.
 
 ```csharp
 public TextSegmentCollection Segments { get; set; }
@@ -16,23 +16,23 @@ public TextSegmentCollection Segments { get; set; }
 
 ## Remarques
 
-En quelques mots, les objets [`TextSegment`](../../textsegment/) sont des enfants de l'objet [`TextFragment`](../). Les utilisateurs avancés peuvent accéder directement aux segments pour effectuer des scénarios d'édition de texte plus complexes. Pour plus de détails, veuillez consulter la description de l'objet [`TextFragment`](../).
+En quelques mots, les objets [`TextSegment`](../../textsegment/) sont des enfants de l'objet [`TextFragment`](../). Les utilisateurs avancés peuvent accéder directement aux segments pour réaliser des scénarios d'édition de texte plus complexes. Pour plus de détails, veuillez consulter la description de l'objet [`TextFragment`](../).
 
 ## Exemples
 
-L'exemple démontre comment naviguer à travers tous les objets [`TextSegment`](../../textsegment/) à l'intérieur du [`TextFragment`](../).
+L'exemple montre comment parcourir tous les objets [`TextSegment`](../../textsegment/) à l'intérieur du [`TextFragment`](../).
 
 ```csharp
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Créer l'objet TextFragmentAbsorber pour trouver toutes les occurrences du texte "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accepter l'absorbeur pour la première page
 doc.Pages[1].Accept(absorber);
 
-// Navigate all text segments and out their text and placement info
+// Parcourez tous les segments de texte et affichez leur texte ainsi que leurs informations de position.
 foreach (TextSegment segment in absorber.TextFragments[1].Segments)
 {
     Console.Out.WriteLine(string.Format("segment text: {0}", segment.Text));
@@ -44,10 +44,12 @@ foreach (TextSegment segment in absorber.TextFragments[1].Segments)
 
 ### Voir aussi
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [TextSegment](../../textsegment/)
-* classe [TextSegmentCollection](../../textsegmentcollection/)
-* classe [TextFragment](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../../textsegmentcollection/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

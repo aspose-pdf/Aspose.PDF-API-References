@@ -1,12 +1,12 @@
 ---
-title: Matrix.Multiply
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode de matrice. Multiplie la matrice par une autre matrice
+title: "Matrix.Multiply"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Matrix. Multiplie la matrice par une autre matrice"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf/matrix/multiply/
 ---
-## Méthode Matrix.Multiply
+## Matrix.Multiply method
 
 Multiplie la matrice par une autre matrice.
 
@@ -16,7 +16,7 @@ public Matrix Multiply(Matrix other)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| other | Matrix | Matrice multiplicatrice. |
+| autre | Matrice | Matrice multiplicatrice. |
 
 ### Valeur de retour
 
@@ -32,6 +32,8 @@ Matrix c= a.Multiply(b);
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

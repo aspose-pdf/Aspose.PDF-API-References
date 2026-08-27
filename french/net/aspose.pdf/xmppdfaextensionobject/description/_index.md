@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionObject.Description
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XmpPdfAExtensionObject. Obtient la description
+title: "XmpPdfAExtensionObject.Description"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XmpPdfAExtensionObject. Obtient la description"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/xmppdfaextensionobject/description/
 ---
-## Propriété XmpPdfAExtensionObject.Description
+## XmpPdfAExtensionObject.Description property
 
 Obtient la description.
 
@@ -16,6 +16,8 @@ public string Description { get; }
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionObject](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionObject](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

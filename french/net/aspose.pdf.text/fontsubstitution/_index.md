@@ -1,14 +1,14 @@
 ---
-title: Class FontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.FontSubstitution. Représente une classe de base pour les stratégies de substitution de polices
+title: "Classe FontSubstitution"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Text.FontSubstitution. Représente une classe de base pour les stratégies de substitution de polices"
 type: docs
-weight: 10580
+weight: 10760
 url: /fr/net/aspose.pdf.text/fontsubstitution/
 ---
-## Classe FontSubstitution
+## FontSubstitution class
 
-Représente une classe de base pour les stratégies de substitution de polices.
+Représente une classe de base pour les stratégies de substitution de police.
 
 ```csharp
 public class FontSubstitution
@@ -16,5 +16,7 @@ public class FontSubstitution
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

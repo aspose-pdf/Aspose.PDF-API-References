@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.OUTBOX
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfPageEditor. Boîte Sortante
+title: "PdfPageEditor.OUTBOX"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfPageEditor. Boîte extérieure"
 type: docs
 weight: 270
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/outbox/
 ---
-## Champ PdfPageEditor.OUTBOX
+## PdfPageEditor.OUTBOX field
 
-Boîte Sortante
+Boîte vers l'extérieur
 
 ```csharp
 public const int OUTBOX;
 ```
 
-### Voir Aussi
+### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.PickTrayByPdfSize
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Obtient ou définit un indicateur spécifiant si la taille de la page PDF doit être utilisée pour sélectionner le bac à papier d'entrée
+title: "Document.PickTrayByPdfSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Obtient ou définit un drapeau indiquant si la taille de page PDF doit être utilisée pour sélectionner le bac d’alimentation du papier."
 type: docs
-weight: 500
+weight: 520
 url: /fr/net/aspose.pdf/document/picktraybypdfsize/
 ---
-## Propriété Document.PickTrayByPdfSize
+## Document.PickTrayByPdfSize property
 
-Obtient ou définit un indicateur spécifiant si la taille de la page PDF doit être utilisée pour sélectionner le bac à papier d'entrée.
+Obtient ou définit un drapeau spécifiant si la taille de page PDF doit être utilisée pour sélectionner le bac à papier d'entrée.
 
 ```csharp
 public bool PickTrayByPdfSize { get; set; }
@@ -16,6 +16,8 @@ public bool PickTrayByPdfSize { get; set; }
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

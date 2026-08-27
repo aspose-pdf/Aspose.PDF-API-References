@@ -1,14 +1,14 @@
 ---
-title: TextState.TabstopDefaultValue
-second_title: Aspose.PDF for .NET API Reference
-description: Champ TextState. Valeur par défaut de la tabulation en largeurs du caractère d'espace de la police par défaut
+title: "TextState.TabstopDefaultValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ TextState. Valeur par défaut de la tabulation dans les largeurs du caractère d'espace de la police par défaut."
 type: docs
-weight: 200
+weight: 210
 url: /fr/net/aspose.pdf.text/textstate/tabstopdefaultvalue/
 ---
-## Champ TextState.TabstopDefaultValue
+## TextState.TabstopDefaultValue field
 
-Valeur par défaut de la tabulation en largeurs du caractère d'espace de la police par défaut.
+Valeur par défaut de la tabulation dans les largeurs du caractère espace de la police par défaut.
 
 ```csharp
 public readonly float TabstopDefaultValue;
@@ -16,6 +16,8 @@ public readonly float TabstopDefaultValue;
 
 ### Voir aussi
 
-* classe [TextState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

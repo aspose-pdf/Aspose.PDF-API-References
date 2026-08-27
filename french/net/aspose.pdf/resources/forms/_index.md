@@ -1,12 +1,12 @@
 ---
-title: Resources.Forms
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Resources. Obtient la collection de formulaires Forms
+title: "Resources.Forms"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Resources. Obtient la collection de formulaires Forms"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/resources/forms/
 ---
-## Propriété Resources.Forms
+## Resources.Forms property
 
 Obtient la collection de formulaires `Forms`
 
@@ -16,7 +16,9 @@ public XFormCollection Forms { get; }
 
 ### Voir aussi
 
-* classe [XFormCollection](../../xformcollection/)
-* classe [Resources](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XFormCollection](../../xformcollection/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

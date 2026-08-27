@@ -1,7 +1,7 @@
 ---
-title: Tool.Tool
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de Tool. Initialise une nouvelle instance de la classe Tool
+title: "Tool.Tool"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Tool. Initialise une nouvelle instance de la classe Tool"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/tool/tool/
@@ -16,8 +16,8 @@ public Tool()
 
 ### Voir aussi
 
-* classe [Tool](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,8 +36,8 @@ public Tool(string toolType)
 
 ### Voir aussi
 
-* classe [Tool](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -52,11 +52,13 @@ public Tool(Function function)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| function | Function | La fonction que le modèle peut appeler. |
+| fonction | Fonction | La fonction que le modèle peut appeler. |
 
 ### Voir aussi
 
-* classe [Function](../../function/)
-* classe [Tool](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Function](../../function/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

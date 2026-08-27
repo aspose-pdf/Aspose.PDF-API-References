@@ -1,14 +1,14 @@
 ---
-title: Enum TextStamp.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TextStampNoCharacterAction d'Aspose.Pdf. Action à effectuer si la police ne contient pas le caractère requis
+title: "Enum TextStamp.NoCharacterAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.TextStampNoCharacterAction enum. Action à exécuter si la police ne contient pas le caractère requis"
 type: docs
-weight: 11090
+weight: 11280
 url: /fr/net/aspose.pdf/textstamp.nocharacteraction/
 ---
-## Énumération TextStamp.NoCharacterAction
+## TextStamp.NoCharacterAction enumeration
 
-Action à effectuer si la police ne contient pas le caractère requis.
+Action à exécuter si la police ne contient pas le caractère requis.
 
 ```csharp
 public enum NoCharacterAction
@@ -19,12 +19,14 @@ public enum NoCharacterAction
 | Nom | Valeur | Description |
 | --- | --- | --- |
 | ThrowException | `0` | Si la police ne contient pas tous les caractères de la chaîne, une exception est levée. |
-| UseStandardFont | `1` | Remplacer la police par une police standard qui contient le caractère requis. |
-| ReplaceAnyway | `2` | Remplacer le texte de toute façon sans substitution de police. |
-| UseCustomReplacementFont | `3` | Remplacer la police par la police de remplacement définie. |
+| UseStandardFont | `1` | Remplace la police par une police standard qui contient le caractère requis. |
+| ReplaceAnyway | `2` | Remplace le texte de toute façon sans substitution de police. |
+| UseCustomReplacementFont | `3` | Remplace la police par la police de remplacement définie. |
 
 ### Voir aussi
 
-* classe [TextStamp](../textstamp/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [TextStamp](../textstamp/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

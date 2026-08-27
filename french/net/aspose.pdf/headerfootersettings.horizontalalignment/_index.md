@@ -1,12 +1,12 @@
 ---
-title: Class HeaderFooterSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment. Représente les paramètres d'alignement horizontal pour l'en-tête et le pied de page
+title: "Classe HeaderFooterSettings.HorizontalAlignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment. Représente les paramètres d'alignement horizontal pour l'en-tête et le pied de page"
 type: docs
-weight: 5460
+weight: 5580
 url: /fr/net/aspose.pdf/headerfootersettings.horizontalalignment/
 ---
-## Classe HeaderFooterSettings.HorizontalAlignment
+## HeaderFooterSettings.HorizontalAlignment class
 
 Représente les paramètres d'alignement horizontal pour l'en-tête et le pied de page.
 
@@ -30,6 +30,8 @@ public class HorizontalAlignment
 
 ### Voir aussi
 
-* classe [HeaderFooterSettings](../headerfootersettings/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [HeaderFooterSettings](../headerfootersettings/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

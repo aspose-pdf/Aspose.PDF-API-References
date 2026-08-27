@@ -1,14 +1,14 @@
 ---
-title: Graph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Graph. Cloner le graphique
+title: "Graph.Clone"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Graph. Clone le graphique"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.drawing/graph/clone/
 ---
-## Méthode Graph.Clone
+## Graph.Clone method
 
-Cloner le graphique.
+Clone le graphique.
 
 ```csharp
 public override object Clone()
@@ -20,6 +20,8 @@ L'objet cloné
 
 ### Voir aussi
 
-* classe [Graph](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

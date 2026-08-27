@@ -1,14 +1,14 @@
 ---
-title: FileDataSource.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileDataSource. Obtient le chemin vers le fichier de la source de données actuelle
+title: "FileDataSource.Path"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FileDataSource. Obtient le chemin du fichier de la source de données actuelle"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/filedatasource/path/
 ---
-## Propriété FileDataSource.Path
+## FileDataSource.Path property
 
-Obtient le chemin vers le fichier de la source de données actuelle.
+Obtient le chemin du fichier de la source de données actuelle.
 
 ```csharp
 public string Path { get; }
@@ -16,6 +16,8 @@ public string Path { get; }
 
 ### Voir aussi
 
-* classe [FileDataSource](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FileDataSource](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

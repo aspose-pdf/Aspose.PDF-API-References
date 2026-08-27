@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextAlign_Start
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Attribut TextAlign Début Aligné avec le bord de début
+title: "AttributeName.TextAlign_Start"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ AttributeName. Attribut TextAlign Start  Aligné avec le bord de départ"
 type: docs
 weight: 580
 url: /fr/net/aspose.pdf.logicalstructure/attributename/textalign_start/
 ---
-## Champ AttributeName.TextAlign_Start
+## AttributeName.TextAlign_Start field
 
-Attribut TextAlign : Début - Aligné avec le bord de début.
+Attribut TextAlign : Start - Aligné avec le bord de début.
 
 ```csharp
 public static readonly AttributeName TextAlign_Start;
@@ -16,6 +16,8 @@ public static readonly AttributeName TextAlign_Start;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

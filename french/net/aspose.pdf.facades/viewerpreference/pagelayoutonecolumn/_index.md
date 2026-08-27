@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PageLayoutOneColumn
-second_title: Aspose.PDF for .NET API Reference
-description: Champ ViewerPreference. Afficher les pages en une colonne
+title: "ViewerPreference.PageLayoutOneColumn"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ ViewerPreference. Affiche les pages en une colonne"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.facades/viewerpreference/pagelayoutonecolumn/
 ---
-## Champ ViewerPreference.PageLayoutOneColumn
+## ViewerPreference.PageLayoutOneColumn field
 
 Afficher les pages en une colonne.
 
@@ -16,6 +16,8 @@ public const int PageLayoutOneColumn;
 
 ### Voir aussi
 
-* classe [ViewerPreference](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

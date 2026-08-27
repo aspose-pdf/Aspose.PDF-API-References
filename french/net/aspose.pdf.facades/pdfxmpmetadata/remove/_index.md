@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfXmpMetadata. Supprime l'élément avec la clé spécifiée
+title: "PdfXmpMetadata.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfXmpMetadata. Supprime l'élément avec la clé spécifiée"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf.facades/pdfxmpmetadata/remove/
@@ -16,7 +16,7 @@ public void Remove(DefaultMetadataProperties key)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Clé de l'élément qui sera supprimé. |
+| clé | DefaultMetadataProperties | Clé de l'élément qui sera supprimé. |
 
 ## Exemples
 
@@ -45,11 +45,11 @@ public bool Remove(string key)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | Clé qui sera supprimée. |
+| clé | String | Clé qui sera supprimée. |
 
 ### Valeur de retour
 
-Vrai - si la clé a été supprimée ; sinon, faux.
+Vrai - si la clé est supprimée ; sinon, faux.
 
 ## Exemples
 
@@ -89,3 +89,5 @@ vrai si la paire a été trouvée et supprimée.
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

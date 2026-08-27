@@ -1,14 +1,14 @@
 ---
-title: FileResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileResult. Obtient des données brutes
+title: "FileResult.Data"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FileResult. Obtient les données brutes"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/fileresult/data/
 ---
-## Propriété FileResult.Data
+## FileResult.Data property
 
-Obtient des données brutes.
+Obtient les données brutes.
 
 ```csharp
 public object Data { get; }
@@ -20,6 +20,8 @@ Un `object` représentant les données de sortie.
 
 ### Voir aussi
 
-* classe [FileResult](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FileResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.SPLITHIN
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor field. IN Horizontal Split
+title: "PdfPageEditor.SPLITHIN"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfPageEditor. IN Horizontal Split"
 type: docs
 weight: 290
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/splithin/
 ---
-## Champ PdfPageEditor.SPLITHIN
+## PdfPageEditor.SPLITHIN field
 
-IN Division Horizontale
+Division horizontale IN
 
 ```csharp
 public const int SPLITHIN;
@@ -16,6 +16,8 @@ public const int SPLITHIN;
 
 ### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

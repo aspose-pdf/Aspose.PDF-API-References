@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.NamespaceURI
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XmpPdfAExtensionSchemaDescription. Obtient l'URI de l'espace de noms
+title: "XmpPdfAExtensionSchemaDescription.NamespaceURI"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XmpPdfAExtensionSchemaDescription. Obtient l'URI de l'espace de noms"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/
 ---
-## Propriété XmpPdfAExtensionSchemaDescription.NamespaceURI
+## XmpPdfAExtensionSchemaDescription.NamespaceURI property
 
 Obtient l'URI de l'espace de noms.
 
@@ -16,6 +16,8 @@ public string NamespaceURI { get; }
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionSchemaDescription](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionSchemaDescription](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

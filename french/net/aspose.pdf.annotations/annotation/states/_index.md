@@ -1,12 +1,12 @@
 ---
-title: Annotation.States
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'annotation. Obtient le dictionnaire d'apparence de l'annotation
+title: "Annotation.States"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Annotation. Obtient le dictionnaire d'apparence de l'annotation"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.annotations/annotation/states/
 ---
-## Propriété Annotation.States
+## Annotation.States property
 
 Obtient le dictionnaire d'apparence de l'annotation.
 
@@ -16,7 +16,9 @@ public AppearanceDictionary States { get; }
 
 ### Voir aussi
 
-* classe [AppearanceDictionary](../../appearancedictionary/)
-* classe [Annotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AppearanceDictionary](../../appearancedictionary/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

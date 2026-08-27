@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.MarginPartStyle.ValueInPoints
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MarginPartStyle. Représente la marge en points. Doit être un nombre supérieur à zéro
+title: "SaveOptions.MarginPartStyle.ValueInPoints"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MarginPartStyle. Représente la marge en points. Doit être un nombre supérieur à zéro"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/saveoptions.marginpartstyle/valueinpoints/
 ---
-## Propriété SaveOptions.MarginPartStyle.ValueInPoints
+## SaveOptions.MarginPartStyle.ValueInPoints property
 
 Représente la marge en points. Doit être un nombre supérieur à zéro.
 
@@ -16,6 +16,8 @@ public int ValueInPoints { get; set; }
 
 ### Voir aussi
 
-* classe [MarginPartStyle](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

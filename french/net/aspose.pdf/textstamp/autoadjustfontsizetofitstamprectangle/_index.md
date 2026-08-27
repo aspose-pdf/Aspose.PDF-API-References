@@ -1,14 +1,14 @@
 ---
-title: TextStamp.AutoAdjustFontSizeToFitStampRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextStamp. Si activée, la taille de la police sera automatiquement ajustée pour s'adapter au rectangle du tampon de taille Largeur et Hauteur. La largeur et la hauteur par défaut sont dérivées du rectangle de la page
+title: "TextStamp.AutoAdjustFontSizeToFitStampRectangle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextStamp. Si activé, la taille de la police sera automatiquement ajustée pour s'adapter au rectangle du tampon de taille Width et Height. La largeur et la hauteur par défaut sont dérivées du rectangle de la page"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/textstamp/autoadjustfontsizetofitstamprectangle/
 ---
-## Propriété TextStamp.AutoAdjustFontSizeToFitStampRectangle
+## TextStamp.AutoAdjustFontSizeToFitStampRectangle property
 
-Si activée, la taille de la police sera automatiquement ajustée pour s'adapter au rectangle du tampon de taille : [`Width`](../width/) et [`Height`](../height/). La largeur et la hauteur par défaut sont dérivées du rectangle de la page.
+Si activé, la taille de la police sera automatiquement ajustée pour s'adapter au rectangle du tampon de taille : [`Width`](../width/) et [`Height`](../height/). La largeur et la hauteur par défaut sont dérivées du rectangle de la page.
 
 ```csharp
 public bool AutoAdjustFontSizeToFitStampRectangle { get; set; }
@@ -16,6 +16,8 @@ public bool AutoAdjustFontSizeToFitStampRectangle { get; set; }
 
 ### Voir aussi
 
-* classe [TextStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

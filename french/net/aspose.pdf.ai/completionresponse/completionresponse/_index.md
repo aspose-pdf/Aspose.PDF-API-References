@@ -1,12 +1,12 @@
 ---
-title: CompletionResponse.CompletionResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de CompletionResponse. Le constructeur par défaut
+title: "CompletionResponse.CompletionResponse"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "CompletionResponse constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/completionresponse/completionresponse/
 ---
-## Constructeur de CompletionResponse
+## CompletionResponse constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public CompletionResponse()
 
 ### Voir aussi
 
-* classe [CompletionResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum AFRelationship
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.AFRelationship. L'énumération décrit la relation des fichiers associés
+title: "Énumération AFRelationship"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.AFRelationship enum. L'énumération décrit la relation des fichiers associés"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/afrelationship/
 ---
-## Énumération AFRelationship
+## AFRelationship enumeration
 
-L'énumération décrit la relation des fichiers associés.
+Énumération décrivant la relation des fichiers associés.
 
 ```csharp
 public enum AFRelationship
@@ -23,10 +23,12 @@ public enum AFRelationship
 | Alternative | `2` | Alternative |
 | Supplement | `3` | Supplément |
 | Unspecified | `4` | Non spécifié |
-| EncryptedPayload | `5` | Chargement crypté |
+| EncryptedPayload | `5` | EncryptedPayload |
 | None | `6` | Aucun |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

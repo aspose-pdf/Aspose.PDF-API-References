@@ -1,14 +1,14 @@
 ---
-title: Form.AssignXfa
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Définit XFA du formulaire à la valeur spécifiée
+title: "Form.AssignXfa"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Définit le XFA du formulaire à la valeur spécifiée."
 type: docs
-weight: 210
+weight: 230
 url: /fr/net/aspose.pdf.forms/form/assignxfa/
 ---
-## Méthode Form.AssignXfa
+## Form.AssignXfa method
 
-Définit XFA du formulaire à la valeur spécifiée.
+Définit le XFA du formulaire à la valeur spécifiée.
 
 ```csharp
 public void AssignXfa(XmlDocument xml)
@@ -20,6 +20,8 @@ public void AssignXfa(XmlDocument xml)
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

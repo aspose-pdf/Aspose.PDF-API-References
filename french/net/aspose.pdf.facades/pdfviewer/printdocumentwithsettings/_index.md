@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocumentWithSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfViewer. Imprime le document Pdf avec des paramètres. Si la taille du document ne correspond pas à la taille de la page, elle sera étendue pour s'adapter à la taille de la page.
+title: "PdfViewer.PrintDocumentWithSettings"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfViewer. Imprime le document Pdf avec les paramètres. Si la taille du document ne correspond pas à la taille de la page, elle sera étendue pour s'adapter à la taille de la page."
 type: docs
 weight: 330
 url: /fr/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-Imprime le document Pdf avec des paramètres. Si la taille du document ne correspond pas à la taille de la page, elle sera étendue pour s'adapter à la taille de la page.
+Imprime le document Pdf avec les paramètres. Si la taille du document ne correspond pas à la taille de la page, elle sera étendue pour s'adapter à la taille de la page.
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
@@ -16,8 +16,8 @@ public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pageSettings | PageSettings | Le paramètre de page du document à imprimer. |
-| printerSettings | PrinterSettings | Le paramètre d'imprimante du document à imprimer. |
+| pageSettings | PageSettings | Le paramètre de page du document d'impression. |
+| printerSettings | PrinterSettings | Le paramètre d'imprimante du document d'impression. |
 
 ## Exemples
 
@@ -57,17 +57,17 @@ L'objet printerSettings est utilisé pour imprimer le document. L'objet pageSett
 
 ### Voir aussi
 
-* classe [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* classe [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-Imprime le document Pdf avec des paramètres d'imprimante. La taille de la page de sortie s'adaptera à la taille de la première page du document.
+Imprime le document Pdf avec les paramètres d'imprimante. La taille de la page de sortie s'adaptera à la taille de la première page du document.
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)
@@ -75,7 +75,7 @@ public void PrintDocumentWithSettings(PrinterSettings printerSettings)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | Le paramètre d'imprimante du document à imprimer. |
+| printerSettings | PrinterSettings | Le paramètre d'imprimante du document d'impression. |
 
 ## Exemples
 
@@ -107,7 +107,9 @@ iewer.ClosePdfFile()
 
 ### Voir aussi
 
-* classe [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

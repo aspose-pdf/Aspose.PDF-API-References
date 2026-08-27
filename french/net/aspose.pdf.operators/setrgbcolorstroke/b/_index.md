@@ -1,12 +1,12 @@
 ---
-title: SetRGBColorStroke.B
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetRGBColorStroke. Obtient ou définit le composant bleu
+title: "SetRGBColorStroke.B"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SetRGBColorStroke. Obtient ou définit le composant bleu"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/setrgbcolorstroke/b/
 ---
-## Propriété SetRGBColorStroke.B
+## SetRGBColorStroke.B property
 
 Obtient ou définit le composant bleu.
 
@@ -14,12 +14,14 @@ Obtient ou définit le composant bleu.
 public double B { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le niveau de bleu de 0.0 à 1.0
 
 ### Voir aussi
 
-* classe [SetRGBColorStroke](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetRGBColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

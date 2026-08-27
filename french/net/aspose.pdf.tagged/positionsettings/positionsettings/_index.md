@@ -1,12 +1,12 @@
 ---
-title: PositionSettings.PositionSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PositionSettings. Le constructeur par défaut
+title: "PositionSettings.PositionSettings"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PositionSettings. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.tagged/positionsettings/positionsettings/
 ---
-## Constructeur de PositionSettings
+## PositionSettings constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public PositionSettings()
 
 ### Voir aussi
 
-* classe [PositionSettings](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [PositionSettings](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

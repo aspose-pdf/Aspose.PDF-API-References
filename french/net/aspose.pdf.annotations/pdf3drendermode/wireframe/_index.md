@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.Wireframe
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PDF3DRenderMode. Le mode de rendu WireFrame
+title: "PDF3DRenderMode.Wireframe"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PDF3DRenderMode. Le mode de rendu WireFrame"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.annotations/pdf3drendermode/wireframe/
 ---
-## Champ PDF3DRenderMode.Wireframe
+## PDF3DRenderMode.Wireframe field
 
 Le mode de rendu "WireFrame".
 
@@ -16,6 +16,8 @@ public static PDF3DRenderMode Wireframe;
 
 ### Voir aussi
 
-* classe [PDF3DRenderMode](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

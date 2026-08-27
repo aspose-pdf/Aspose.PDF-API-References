@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableTRElement. Obtient ou définit la couleur de fond de la ligne
+title: "TableTRElement.BackgroundColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TableTRElement. Obtient ou définit la couleur d'arrière-plan de la ligne."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.logicalstructure/tabletrelement/backgroundcolor/
 ---
-## Propriété TableTRElement.BackgroundColor
+## TableTRElement.BackgroundColor property
 
-Obtient ou définit la couleur de fond de la ligne.
+Obtient ou définit la couleur d'arrière-plan de la ligne.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### Voir aussi
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [TableTRElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Color](../../../aspose.pdf/color/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

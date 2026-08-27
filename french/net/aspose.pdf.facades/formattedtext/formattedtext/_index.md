@@ -1,7 +1,7 @@
 ---
-title: FormattedText.FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: FormattedText constructor. Initializes FormattedText
+title: "FormattedText.FormattedText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FormattedText. Initialise FormattedText"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/formattedtext/formattedtext/
@@ -16,8 +16,8 @@ public FormattedText()
 
 ### Voir aussi
 
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,12 +32,12 @@ public FormattedText(string text)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Texte contenu dans FormattedText. |
+| texte | String | Texte contenu dans FormattedText. |
 
 ### Voir aussi
 
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -53,27 +53,27 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Contenu textuel de la chaîne. |
+| texte | String | Contenu texte de la chaîne. |
 | fontColor | FontColor | Couleur du texte. |
 | fontStyle | FontStyle | Style du texte. |
 | encodingType | EncodingType | Type d'encodage (valeur de l'énumération EncodingType). |
-| embedded | Boolean | Vrai si la police sera intégrée. |
+| embedded | Boolean | Vrai si la police sera incorporée. |
 | textSize | Single | Taille du texte. |
 
 ### Voir aussi
 
-* classe [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_5}
 
-Initialise FormattedText.
+Initialiser FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle textFont, 
@@ -82,21 +82,21 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Contenu textuel de la chaîne. |
+| texte | String | Contenu texte de la chaîne. |
 | fontColor | FontColor | Couleur du texte. |
 | textFont | FontStyle | Police du texte. |
 | textEncoding | EncodingType | Encodage du texte. |
-| embedded | Boolean | Vrai si le texte sera intégré. |
+| embedded | Boolean | Vrai si le texte sera incorporé. |
 | textSize | Single | Taille du texte. |
 | lineSpacing | Single | Espacement supplémentaire. |
 
 ### Voir aussi
 
-* classe [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -112,19 +112,19 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Contenu textuel de la chaîne. |
+| texte | String | Contenu texte de la chaîne. |
 | color | Color | Couleur du texte. |
 | textFont | FontStyle | Police du texte. |
 | textEncoding | EncodingType | Encodage du texte. |
-| embedded | Boolean | Vrai si le texte sera intégré. |
+| embedded | Boolean | Vrai si le texte sera incorporé. |
 | textSize | Single | Taille du texte. |
 
 ### Voir aussi
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -140,11 +140,11 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Contenu textuel de la chaîne. |
+| texte | String | Contenu texte de la chaîne. |
 | textColor | Color | Couleur du texte. |
 | textFont | FontStyle | Police du texte. |
 | textEncoding | EncodingType | Encodage du texte. |
-| embedded | Boolean | Si vrai, la police sera intégrée. |
+| embedded | Boolean | Si vrai, la police sera incorporée. |
 | textSize | Single | Taille du texte. |
 | lineSpacing | Single | Espacement supplémentaire. |
 
@@ -152,8 +152,8 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -169,21 +169,21 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Contenu textuel de la chaîne. |
+| texte | String | Contenu texte de la chaîne. |
 | textColor | FontColor | Couleur du texte. |
-| backColor | FontColor | Couleur de l'arrière-plan. |
+| backColor | FontColor | Couleur d'arrière-plan. |
 | textFont | FontStyle | Police du texte. |
 | textEncoding | EncodingType | Encodage du texte. |
-| embedded | Boolean | Si vrai, la police sera intégrée. |
+| embedded | Boolean | Si vrai, la police sera incorporée. |
 | textSize | Single | Taille du texte. |
 
 ### Voir aussi
 
-* classe [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -199,22 +199,22 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Contenu textuel. |
+| texte | String | Contenu du texte. |
 | textColor | FontColor | Couleur du texte. |
-| backColor | FontColor | Couleur de l'arrière-plan. |
+| backColor | FontColor | Couleur d'arrière-plan. |
 | textFont | FontStyle | Police du texte. |
 | textEncoding | EncodingType | Encodage du texte. |
-| embedded | Boolean | Si vrai, la police sera intégrée. |
+| embedded | Boolean | Si vrai, la police sera incorporée. |
 | textSize | Single | Taille du texte. |
 | lineSpacing | Single | Espacement supplémentaire. |
 
 ### Voir aussi
 
-* classe [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -230,20 +230,20 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Contenu textuel de la chaîne. |
+| texte | String | Contenu texte de la chaîne. |
 | textColor | Color | Couleur du texte. |
-| backColor | Color | Couleur de l'arrière-plan. |
+| backColor | Color | Couleur d'arrière-plan. |
 | textFont | FontStyle | Police du texte. |
 | encoding | EncodingType | Encodage du texte. |
-| embedded | Boolean | Vrai si la police sera intégrée. |
+| embedded | Boolean | Vrai si la police sera incorporée. |
 | textSize | Single | Taille du texte. |
 
 ### Voir aussi
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -259,12 +259,12 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Contenu textuel de la chaîne. |
+| texte | String | Contenu texte de la chaîne. |
 | textColor | Color | Couleur du texte. |
 | backColor | Color | Couleur de l'arrière-plan. |
 | textFont | FontStyle | Police du texte. |
 | textEncoding | EncodingType | Encodage du texte. |
-| embedded | Boolean | Si vrai, la police est intégrée. |
+| embedded | Boolean | Si vrai, la police est incorporée. |
 | textSize | Single | Taille du texte. |
 | lineSpacing | Single | Espacement supplémentaire. |
 
@@ -272,8 +272,8 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -289,19 +289,19 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Contenu textuel. |
+| texte | String | Contenu du texte. |
 | textColor | Color | Couleur du texte. |
-| backColor | Color | Couleur de l'arrière-plan. |
+| backColor | Color | Couleur d'arrière-plan. |
 | fontName | String | Police du texte. |
 | textEncoding | EncodingType | Encodage du texte. |
-| embedded | Boolean | Si vrai, la police sera intégrée. |
+| embedded | Boolean | Si vrai, la police sera incorporée. |
 | fontSize | Single | Taille du texte. |
 
 ### Voir aussi
 
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -316,14 +316,14 @@ public FormattedText(string text, Color textColor, Color backColor)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Contenu textuel. |
+| texte | String | Contenu du texte. |
 | textColor | Color | Couleur du texte. |
-| backColor | Color | Couleur de l'arrière-plan. |
+| backColor | Color | Couleur d'arrière-plan. |
 
 ### Voir aussi
 
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -339,16 +339,18 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Contenu textuel. |
+| texte | String | Contenu du texte. |
 | textColor | Color | Couleur du texte. |
 | fontName | String | Police du texte. |
 | textEncoding | EncodingType | Encodage du texte. |
-| embedded | Boolean | Si vrai, la police sera intégrée. |
+| embedded | Boolean | Si vrai, la police sera incorporée. |
 | fontSize | Single | Taille du texte. |
 
 ### Voir aussi
 
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

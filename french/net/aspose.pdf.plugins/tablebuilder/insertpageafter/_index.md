@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.InsertPageAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TableBuilder. Insérer une page après la page spécifiée
+title: "TableBuilder.InsertPageAfter"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TableBuilder. Insérer la page après la page spécifiée"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/tablebuilder/insertpageafter/
 ---
-## Méthode TableBuilder.InsertPageAfter
+## TableBuilder.InsertPageAfter method
 
 Insérer une page après la page spécifiée.
 
@@ -20,11 +20,13 @@ public TableOptions InsertPageAfter(int page)
 
 ### Valeur de retour
 
-Instance de l'[`TableOptions`](../../tableoptions/).
+Instance de l'actuel [`TableOptions`](../../tableoptions/).
 
 ### Voir aussi
 
-* classe [TableOptions](../../tableoptions/)
-* classe [TableBuilder](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

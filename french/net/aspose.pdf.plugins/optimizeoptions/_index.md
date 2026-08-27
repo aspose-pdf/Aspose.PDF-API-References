@@ -1,14 +1,14 @@
 ---
-title: Class OptimizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.OptimizeOptions. Représente les options d'optimisation pour le plugin Optimizer
+title: "Classe OptimizeOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Plugins.OptimizeOptions class. Représente les options Optimize pour le plugin Optimizer"
 type: docs
-weight: 8960
+weight: 9110
 url: /fr/net/aspose.pdf.plugins/optimizeoptions/
 ---
-## Classe OptimizeOptions
+## OptimizeOptions class
 
-Représente les options d'optimisation pour le plugin [`Optimizer`](../optimizer/).
+Représente les options Optimize pour le plugin [`Optimizer`](../optimizer/).
 
 ```csharp
 public sealed class OptimizeOptions : OrganizerBaseOptions
@@ -24,8 +24,8 @@ public sealed class OptimizeOptions : OrganizerBaseOptions
 
 | Nom | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Ferme les flux d'entrée après la fin de l'opération. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Ferme les flux de sortie après la fin de l'opération. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Fermez les flux d'entrée après la fin de l'opération. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Fermez les flux de sortie après la fin de l'opération. |
 | [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Renvoie la collection de données du plugin OrganizerOptions. |
 | [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
 
@@ -38,6 +38,8 @@ public sealed class OptimizeOptions : OrganizerBaseOptions
 
 ### Voir aussi
 
-* classe [OrganizerBaseOptions](../organizerbaseoptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

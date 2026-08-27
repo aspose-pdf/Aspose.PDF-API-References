@@ -1,12 +1,12 @@
 ---
-title: PaperSources.FormSource
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSources. Représente le bac par défaut de l'imprimante
+title: "PaperSources.FormSource"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSources. Représente le bac par défaut de l'imprimante"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.printing/papersources/formsource/
 ---
-## Champ PaperSources.FormSource
+## PaperSources.FormSource field
 
 Représente le bac par défaut de l'imprimante.
 
@@ -16,7 +16,9 @@ public static readonly PaperSource FormSource;
 
 ### Voir aussi
 
-* classe [PaperSource](../../papersource/)
-* classe [PaperSources](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

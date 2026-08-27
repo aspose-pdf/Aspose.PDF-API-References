@@ -1,7 +1,7 @@
 ---
-title: FileHyperlink.FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FileHyperlink. Initialise une nouvelle instance de la classe FileHyperlink
+title: "FileHyperlink.FileHyperlink"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FileHyperlink. Initialise une nouvelle instance de la classe FileHyperlink"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/filehyperlink/filehyperlink/
@@ -16,8 +16,8 @@ public FileHyperlink()
 
 ### Voir aussi
 
-* classe [FileHyperlink](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,10 +32,12 @@ public FileHyperlink(string path)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| path | String | Chemin vers le fichier. |
+| chemin | String | Chemin vers le fichier. |
 
 ### Voir aussi
 
-* classe [FileHyperlink](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

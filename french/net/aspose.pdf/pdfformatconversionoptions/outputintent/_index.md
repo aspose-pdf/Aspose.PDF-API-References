@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.OutputIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFormatConversionOptions. Obtient ou définit l'OutputIntent pour la conversion au format PDF
+title: "PdfFormatConversionOptions.OutputIntent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFormatConversionOptions. Obtient ou définit le OutputIntent pour la conversion du format PDF"
 type: docs
-weight: 180
+weight: 190
 url: /fr/net/aspose.pdf/pdfformatconversionoptions/outputintent/
 ---
-## Propriété PdfFormatConversionOptions.OutputIntent
+## PdfFormatConversionOptions.OutputIntent property
 
-Obtient ou définit l'[`OutputIntent`](../../outputintent/) pour la conversion au format PDF.
+Obtient ou définit le [`OutputIntent`](../../outputintent/) pour la conversion du format PDF.
 
 ```csharp
 public OutputIntent OutputIntent { get; set; }
@@ -16,11 +16,13 @@ public OutputIntent OutputIntent { get; set; }
 
 ## Remarques
 
-L'`OutputIntent` spécifie le périphérique de sortie ou la condition prévue pour laquelle le document PDF est préparé. Il est utilisé pour garantir que les couleurs du document sont rendues correctement sur le périphérique cible.
+Le `OutputIntent` spécifie le dispositif de sortie ou la condition prévue pour laquelle le document PDF est préparé. Il est utilisé pour garantir que les couleurs du document sont rendues correctement sur le dispositif cible.
 
 ### Voir aussi
 
-* classe [OutputIntent](../../outputintent/)
-* classe [PdfFormatConversionOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutputIntent](../../outputintent/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

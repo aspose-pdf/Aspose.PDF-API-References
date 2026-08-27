@@ -1,12 +1,12 @@
 ---
-title: Rows.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Rows. Obtient ou définit la ligne
+title: "Rows.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Rows. Obtient ou définit la ligne"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/rows/item/
 ---
-## Indexeur Rows
+## Rows indexer
 
 Obtient ou définit la ligne.
 
@@ -20,7 +20,9 @@ public Row this[int index] { get; set; }
 
 ### Voir aussi
 
-* classe [Row](../../row/)
-* classe [Rows](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

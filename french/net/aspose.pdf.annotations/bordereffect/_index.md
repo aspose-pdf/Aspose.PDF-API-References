@@ -1,12 +1,12 @@
 ---
-title: Enum BorderEffect
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BorderEffect d'Aspose.Pdf.Annotations. Décrit l'effet qui doit être appliqué à la bordure des annotations
+title: "Enum BorderEffect"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.BorderEffect enum. Décrit l'effet qui doit être appliqué à la bordure des annotations"
 type: docs
-weight: 1520
+weight: 1610
 url: /fr/net/aspose.pdf.annotations/bordereffect/
 ---
-## Énumération BorderEffect
+## BorderEffect enumeration
 
 Décrit l'effet qui doit être appliqué à la bordure des annotations.
 
@@ -18,10 +18,12 @@ public enum BorderEffect
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Aucun | `0` | Aucun effet. |
-| Nuageux | `1` | La bordure apparaîtra "nuageuse". |
+| None | `0` | Aucun effet. |
+| Cloudy | `1` | La bordure apparaîtra "cloudly". |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

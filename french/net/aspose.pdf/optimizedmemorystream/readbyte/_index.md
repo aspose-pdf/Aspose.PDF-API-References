@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.ReadByte
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OptimizedMemoryStream. Lit un octet du flux et avance la position dans le flux d'un octet ou retourne -1 si à la fin du flux
+title: "OptimizedMemoryStream.ReadByte"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OptimizedMemoryStream method. Lit un octet du flux et avance la position dans le flux d'un octet ou renvoie 1 si la fin du flux est atteinte"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/optimizedmemorystream/readbyte/
 ---
-## Méthode OptimizedMemoryStream.ReadByte
+## OptimizedMemoryStream.ReadByte method
 
-Lit un octet du flux et avance la position dans le flux d'un octet, ou retourne -1 si à la fin du flux.
+Lit un octet du flux et avance la position dans le flux d'un octet, ou renvoie -1 si la fin du flux est atteinte.
 
 ```csharp
 public override int ReadByte()
@@ -16,10 +16,12 @@ public override int ReadByte()
 
 ### Valeur de retour
 
-octet ou -1 si à la fin du flux.
+octet ou -1 si la fin du flux est atteinte.
 
 ### Voir aussi
 
-* classe [OptimizedMemoryStream](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

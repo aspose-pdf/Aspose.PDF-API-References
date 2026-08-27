@@ -1,14 +1,14 @@
 ---
-title: PdfAConvertOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfAConvertOptions. Ajoute une nouvelle cible de sauvegarde des résultats
+title: "PdfAConvertOptions.AddOutput"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfAConvertOptions. Ajoute une nouvelle cible d'enregistrement du résultat."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/pdfaconvertoptions/addoutput/
 ---
-## Méthode PdfAConvertOptions.AddOutput
+## PdfAConvertOptions.AddOutput method
 
-Ajoute une nouvelle cible de sauvegarde des résultats.
+Ajoute une nouvelle cible d'enregistrement de résultat.
 
 ```csharp
 public void AddOutput(IDataSource dataSource)
@@ -16,7 +16,7 @@ public void AddOutput(IDataSource dataSource)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| dataSource | IDataSource | Cible (source de données de fichier ou de flux) pour la sauvegarde des résultats de l'opération. |
+| dataSource | IDataSource | Cible (fichier ou flux de données) pour les résultats de l'opération d'enregistrement. |
 
 ### Voir aussi
 
@@ -24,3 +24,5 @@ public void AddOutput(IDataSource dataSource)
 * class [PdfAConvertOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

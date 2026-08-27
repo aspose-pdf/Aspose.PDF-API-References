@@ -1,12 +1,12 @@
 ---
-title: XFA.Template
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XFA. Composant de modèle XFA d'un formulaire XFA
+title: "XFA.Template"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XFA. Composant XFA Template d'un formulaire XFA"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.forms/xfa/template/
 ---
-## Propriété XFA.Template
+## XFA.Template property
 
 Composant de modèle XFA d'un formulaire XFA.
 
@@ -16,6 +16,8 @@ public XmlNode Template { get; }
 
 ### Voir aussi
 
-* classe [XFA](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

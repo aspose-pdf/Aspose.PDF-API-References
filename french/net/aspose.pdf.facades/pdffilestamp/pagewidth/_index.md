@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileStamp. Obtient la largeur de la première page dans le fichier d'entrée
+title: "PdfFileStamp.PageWidth"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFileStamp. Obtient la largeur de la première page du fichier d'entrée."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.facades/pdffilestamp/pagewidth/
 ---
-## Propriété PdfFileStamp.PageWidth
+## PdfFileStamp.PageWidth property
 
 Obtient la largeur de la première page dans le fichier d'entrée.
 
@@ -24,6 +24,8 @@ fileStamp.Close();
 
 ### Voir aussi
 
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

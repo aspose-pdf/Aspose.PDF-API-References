@@ -1,14 +1,14 @@
 ---
-title: SignOptions.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignOptions. Le numéro de page sur lequel la signature est faite
+title: "SignOptions.PageNumber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SignOptions. Le numéro de page sur lequel la signature est effectuée"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.plugins/signoptions/pagenumber/
 ---
-## Propriété SignOptions.PageNumber
+## SignOptions.PageNumber property
 
-Le numéro de page sur lequel la signature est faite.
+Le numéro de page sur lequel la signature est effectuée.
 
 ```csharp
 public int PageNumber { get; set; }
@@ -16,6 +16,8 @@ public int PageNumber { get; set; }
 
 ### Voir aussi
 
-* classe [SignOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

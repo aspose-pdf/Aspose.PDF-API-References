@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.DashPhase
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété GraphInfo. Obtient ou définit une phase de tiret
+title: "GraphInfo.DashPhase"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété GraphInfo. Obtient ou définit une phase de tiret"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/graphinfo/dashphase/
 ---
-## Propriété GraphInfo.DashPhase
+## GraphInfo.DashPhase property
 
 Obtient ou définit une phase de tiret.
 
@@ -16,6 +16,8 @@ public int DashPhase { get; set; }
 
 ### Voir aussi
 
-* classe [GraphInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

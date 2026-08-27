@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.LeaderLineOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LineAnnotation. Obtient ou définit le décalage de la ligne de leader
+title: "LineAnnotation.LeaderLineOffset"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LineAnnotation. Obtient ou définit le décalage de la ligne directrice"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.annotations/lineannotation/leaderlineoffset/
 ---
-## Propriété LineAnnotation.LeaderLineOffset
+## LineAnnotation.LeaderLineOffset property
 
-Obtient ou définit le décalage de la ligne de leader.
+Obtient ou définit le décalage de la ligne directrice.
 
 ```csharp
 public double LeaderLineOffset { get; set; }
@@ -16,6 +16,8 @@ public double LeaderLineOffset { get; set; }
 
 ### Voir aussi
 
-* classe [LineAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

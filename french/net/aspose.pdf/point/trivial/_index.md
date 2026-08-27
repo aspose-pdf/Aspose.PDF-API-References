@@ -1,14 +1,14 @@
 ---
-title: Point.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Point. Obtient un point avec des coordonnées nulles
+title: "Point.Trivial"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Point. Obtient le point avec des coordonnées zéro"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/point/trivial/
 ---
-## Propriété Point.Trivial
+## Point.Trivial property
 
-Obtient un point avec des coordonnées nulles.
+Obtient le point avec des coordonnées nulles.
 
 ```csharp
 public static Point Trivial { get; }
@@ -16,6 +16,8 @@ public static Point Trivial { get; }
 
 ### Voir aussi
 
-* classe [Point](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

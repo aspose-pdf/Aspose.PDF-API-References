@@ -1,14 +1,14 @@
 ---
-title: DocumentDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode DocumentDevice. Chaque appareil représente une opération sur le document, par exemple, nous pouvons convertir un document pdf dans un autre format
+title: "DocumentDevice.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "DocumentDevice method. Chaque dispositif représente une opération sur le document, par exemple nous pouvons convertir un document pdf en un autre format"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.devices/documentdevice/process/
 ---
 ## Process(Document, int, int, Stream) {#process}
 
-Chaque appareil représente une opération sur le document, par exemple, nous pouvons convertir un document pdf dans un autre format.
+Chaque dispositif représente une opération sur le document, par ex. nous pouvons convertir le document pdf en un autre format.
 
 ```csharp
 public abstract void Process(Document document, int fromPage, int toPage, Stream output)
@@ -54,7 +54,7 @@ public void Process(Document document, Stream output)
 
 ## Process(Document, string) {#process_3}
 
-Traite l'ensemble du document et enregistre les résultats dans un fichier.
+Traite l'ensemble du document et enregistre les résultats dans le fichier.
 
 ```csharp
 public void Process(Document document, string outputFileName)
@@ -76,7 +76,7 @@ public void Process(Document document, string outputFileName)
 
 ## Process(Document, int, int, string) {#process_1}
 
-Traite certaines pages du document et enregistre les résultats dans un fichier.
+Traite certaines pages du document et enregistre les résultats dans le fichier.
 
 ```csharp
 public void Process(Document document, int fromPage, int toPage, string outputFileName)
@@ -95,3 +95,5 @@ public void Process(Document document, int fromPage, int toPage, string outputFi
 * class [DocumentDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

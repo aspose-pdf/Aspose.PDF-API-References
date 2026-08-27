@@ -1,14 +1,14 @@
 ---
-title: TruncationStrategy.StrategyType
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TruncationStrategy. Obtient ou définit la stratégie de troncature à utiliser pour le fil. La valeur par défaut est auto. Si défini sur last_messages, le fil sera tronqué aux n messages les plus récents dans le fil. Lorsqu'il est défini sur auto, les messages au milieu du fil seront supprimés pour s'adapter à la longueur du contexte du modèle, max_prompt_tokens.
+title: "TruncationStrategy.StrategyType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "TruncationStrategy propriété. Obtient ou définit la stratégie de troncature à utiliser pour le fil. La valeur par défaut est auto. Si réglé sur last_messages, le fil sera tronqué aux n messages les plus récents du fil. Lorsque réglé sur auto, les messages au milieu du fil seront supprimés pour correspondre à la longueur de contexte du modèle max_prompt_tokens"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/truncationstrategy/strategytype/
 ---
-## Propriété TruncationStrategy.StrategyType
+## TruncationStrategy.StrategyType property
 
-Obtient ou définit la stratégie de troncature à utiliser pour le fil. La valeur par défaut est auto. Si défini sur last_messages, le fil sera tronqué aux n messages les plus récents dans le fil. Lorsqu'il est défini sur auto, les messages au milieu du fil seront supprimés pour s'adapter à la longueur du contexte du modèle, max_prompt_tokens.
+Obtient ou définit la stratégie de troncature à utiliser pour le fil. La valeur par défaut est auto. Si elle est définie sur last_messages, le fil sera tronqué aux n messages les plus récents du fil. Lorsqu'elle est définie sur auto, les messages du milieu du fil seront supprimés pour respecter la longueur de contexte du modèle, max_prompt_tokens.
 
 ```csharp
 public string StrategyType { get; set; }
@@ -16,6 +16,8 @@ public string StrategyType { get; set; }
 
 ### Voir aussi
 
-* classe [TruncationStrategy](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TruncationStrategy](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

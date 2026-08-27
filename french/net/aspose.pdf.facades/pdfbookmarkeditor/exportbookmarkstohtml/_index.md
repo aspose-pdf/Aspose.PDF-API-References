@@ -1,12 +1,12 @@
 ---
-title: PdfBookmarkEditor.ExportBookmarksToHtml
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfBookmarkEditor. Exporte les signets vers un fichier HTML
+title: "PdfBookmarkEditor.ExportBookmarksToHtml"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfBookmarkEditor. Exporte les signets vers un fichier HTML."
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml/
 ---
-## Méthode PdfBookmarkEditor.ExportBookmarksToHtml
+## PdfBookmarkEditor.ExportBookmarksToHtml method
 
 Exporte les signets vers un fichier HTML.
 
@@ -27,6 +27,8 @@ PdfBookmarkEditor.ExtractBookmarksToHTML("example.pdf", "bookmarks.html");
 
 ### Voir aussi
 
-* classe [PdfBookmarkEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

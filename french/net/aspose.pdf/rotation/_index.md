@@ -1,12 +1,12 @@
 ---
-title: Enum Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Rotation. Énumération des valeurs de rotation possibles
+title: "Énumération Rotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Rotation enum. Énumération des valeurs de rotation possibles"
 type: docs
-weight: 9820
+weight: 9970
 url: /fr/net/aspose.pdf/rotation/
 ---
-## Énumération de rotation
+## Rotation enumeration
 
 Énumération des valeurs de rotation possibles.
 
@@ -18,13 +18,15 @@ public enum Rotation
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Aucun | `0` | Non-rotaté. |
-| sur90 | `1` | Rotaté de 90 degrés dans le sens des aiguilles d'une montre. |
-| sur180 | `2` | Rotaté de 180 degrés. |
-| sur270 | `3` | Rotaté de 270 degrés dans le sens des aiguilles d'une montre. |
-| sur360 | `4` | Rotaté de 360 degrés dans le sens des aiguilles d'une montre. |
+| None | `0` | Non-rotaté. |
+| on90 | `1` | Rotaté de 90 degrés dans le sens horaire. |
+| on180 | `2` | Rotaté de 180 degrés. |
+| on270 | `3` | Rotaté de 270 degrés dans le sens horaire. |
+| on360 | `4` | Rotaté de 360 degrés dans le sens horaire. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

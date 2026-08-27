@@ -1,14 +1,14 @@
 ---
-title: Document.SetTitle
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Définir le titre pour le document Pdf
+title: "Document.SetTitle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Document. Définit le titre du document PDF"
 type: docs
-weight: 870
+weight: 890
 url: /fr/net/aspose.pdf/document/settitle/
 ---
-## Méthode Document.SetTitle
+## Document.SetTitle method
 
-Définir le titre pour le document Pdf
+Définir le titre du document Pdf
 
 ```csharp
 public void SetTitle(string title)
@@ -16,10 +16,12 @@ public void SetTitle(string title)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| title | String | Titre du document |
+| title | String | Titre du Document |
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

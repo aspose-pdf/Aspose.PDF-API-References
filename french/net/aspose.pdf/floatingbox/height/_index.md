@@ -1,12 +1,12 @@
 ---
-title: FloatingBox.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FloatingBox. Obtient ou définit une valeur flottante qui indique la hauteur de la boîte flottante
+title: "FloatingBox.Height"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FloatingBox. Obtient ou définit une valeur flottante qui indique la hauteur de la boîte flottante"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/floatingbox/height/
 ---
-## Propriété FloatingBox.Height
+## FloatingBox.Height property
 
 Obtient ou définit une valeur flottante qui indique la hauteur de la boîte flottante.
 
@@ -16,6 +16,8 @@ public double Height { get; set; }
 
 ### Voir aussi
 
-* classe [FloatingBox](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

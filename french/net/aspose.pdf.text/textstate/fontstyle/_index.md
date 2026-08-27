@@ -1,12 +1,12 @@
 ---
-title: TextState.FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextState. Définit le style de police du texte
+title: "TextState.FontStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextState. Définit le style de police du texte"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.text/textstate/fontstyle/
 ---
-## Propriété TextState.FontStyle
+## TextState.FontStyle property
 
 Définit le style de police du texte.
 
@@ -20,3 +20,5 @@ public virtual FontStyles FontStyle { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

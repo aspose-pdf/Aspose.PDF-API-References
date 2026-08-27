@@ -1,14 +1,14 @@
 ---
-title: GoToRemoteAction.NewWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété GoToRemoteAction. Obtient ou définit un indicateur spécifiant s'il faut ouvrir le document de destination dans une nouvelle fenêtre
+title: "GoToRemoteAction.NewWindow"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété GoToRemoteAction. Obtient ou définit un indicateur spécifiant s'il faut ouvrir le document de destination dans une nouvelle fenêtre"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/gotoremoteaction/newwindow/
 ---
-## Propriété GoToRemoteAction.NewWindow
+## GoToRemoteAction.NewWindow property
 
-Obtient ou définit un indicateur spécifiant s'il faut ouvrir le document de destination dans une nouvelle fenêtre.
+Obtient ou définit un drapeau indiquant s'il faut ouvrir le document de destination dans une nouvelle fenêtre.
 
 ```csharp
 public ExtendedBoolean NewWindow { get; set; }
@@ -20,3 +20,5 @@ public ExtendedBoolean NewWindow { get; set; }
 * class [GoToRemoteAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

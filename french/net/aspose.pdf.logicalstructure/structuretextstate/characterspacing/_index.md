@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.CharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StructureTextState. Obtient ou définit l'espacement des caractères du texte
+title: "StructureTextState.CharacterSpacing"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StructureTextState. Obtient ou définit l'espacement des caractères du texte"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.logicalstructure/structuretextstate/characterspacing/
 ---
-## Propriété StructureTextState.CharacterSpacing
+## StructureTextState.CharacterSpacing property
 
 Obtient ou définit l'espacement des caractères du texte.
 
@@ -20,6 +20,8 @@ Peut être nul. Utilisez null pour hériter de la propriété `CharacterSpacing`
 
 ### Voir aussi
 
-* classe [StructureTextState](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

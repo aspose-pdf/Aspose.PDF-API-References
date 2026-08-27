@@ -1,12 +1,12 @@
 ---
-title: TableCellBuilder.AddParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TableCellBuilder. Ajouter des paragraphes à la cellule du tableau
+title: "TableCellBuilder.AddParagraph"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TableCellBuilder. Ajoute des paragraphes à la cellule du tableau"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/tablecellbuilder/addparagraph/
 ---
-## Méthode TableCellBuilder.AddParagraph
+## TableCellBuilder.AddParagraph method
 
 Ajouter des paragraphes à la cellule du tableau.
 
@@ -16,15 +16,17 @@ public TableCellBuilder AddParagraph(params BaseParagraph[] paragraph)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| paragraph | BaseParagraph[] |  |
+| paragraphe | BaseParagraph[] |  |
 
 ### Valeur de retour
 
-Instance de l'[`TableCellBuilder`](../) actuel.
+Instance du [`TableCellBuilder`](../) actuel.
 
 ### Voir aussi
 
-* classe [BaseParagraph](../../../aspose.pdf/baseparagraph/)
-* classe [TableCellBuilder](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
+* class [TableCellBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

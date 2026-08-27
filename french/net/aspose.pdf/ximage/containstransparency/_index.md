@@ -1,14 +1,14 @@
 ---
-title: XImage.ContainsTransparency
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XImage. Si l'image contient de la transparence, alors retourne vrai, sinon faux
+title: "XImage.ContainsTransparency"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XImage. Si l'image contient de la transparence, renvoie true, sinon false"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/ximage/containstransparency/
 ---
-## Propriété XImage.ContainsTransparency
+## XImage.ContainsTransparency property
 
-Si l'image contient de la transparence, alors retourne vrai ; sinon, faux.
+Si l'image contient de la transparence, renvoie true ; sinon, false.
 
 ```csharp
 public bool ContainsTransparency { get; }
@@ -16,6 +16,8 @@ public bool ContainsTransparency { get; }
 
 ### Voir aussi
 
-* classe [XImage](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PDF3DContent.LoadAsU3D
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PDF3DContent. Charge le contenu 3D avec le nom de fichier spécifié au format U3D
+title: "PDF3DContent.LoadAsU3D"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PDF3DContent. Charge le contenu 3D avec le nom de fichier spécifié au format U3D"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.annotations/pdf3dcontent/loadasu3d/
@@ -16,19 +16,19 @@ public void LoadAsU3D(string filename)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| filename | String | Le nom de fichier. |
+| nom de fichier | String | Le nom de fichier. |
 
 ### Voir aussi
 
-* classe [PDF3DContent](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## LoadAsU3D(Stream) {#loadasu3d_1}
 
-Charge le contenu 3D à partir du flux au format U3D.
+Charge le contenu 3D à partir d'un flux au format U3D.
 
 ```csharp
 public void LoadAsU3D(Stream stream)
@@ -40,8 +40,8 @@ public void LoadAsU3D(Stream stream)
 
 ### Voir aussi
 
-* classe [PDF3DContent](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -60,6 +60,8 @@ public void LoadAsU3D(byte[] stream)
 
 ### Voir aussi
 
-* classe [PDF3DContent](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

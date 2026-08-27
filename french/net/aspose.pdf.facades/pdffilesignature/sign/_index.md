@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.Sign
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileSignature. Faire une signature sur le document pdf
+title: "PdfFileSignature.Sign"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileSignature. Crée une signature sur le document pdf"
 type: docs
 weight: 300
 url: /fr/net/aspose.pdf.facades/pdffilesignature/sign/
 ---
 ## Sign(int, string, string, string, bool, Rectangle) {#sign_1}
 
-Faire une signature sur le document pdf.
+Appliquez une signature sur le document PDF.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -17,10 +17,10 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Int32 | Le numéro de la page sur laquelle la signature est faite. |
+| page | Int32 | Le numéro de page sur lequel la signature est effectuée. |
 | SigReason | String | La raison de la signature. |
 | SigContact | String | Le contact de la signature. |
-| SigLocation | String | L'emplacement de la signature. |
+| SigLocation | String | Le lieu de la signature. |
 | visible | Boolean | La visibilité de la signature. |
 | annotRect | Rectangle | Le rectangle de la signature. |
 
@@ -58,7 +58,7 @@ pdfSign.Save(outFile)
 
 ## Sign(int, string, string, string, bool, Rectangle, Signature) {#sign_2}
 
-Signer le document avec le type de signature donné.
+Signez le document avec le type de signature donné.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -67,10 +67,10 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Int32 | Le numéro de la page sur laquelle la signature est faite. |
+| page | Int32 | Le numéro de page sur lequel la signature est effectuée. |
 | SigReason | String | La raison de la signature. |
 | SigContact | String | Le contact de la signature. |
-| SigLocation | String | L'emplacement de la signature. |
+| SigLocation | String | Le lieu de la signature. |
 | visible | Boolean | La visibilité de la signature. |
 | annotRect | Rectangle | Le rectangle de la signature. |
 | sig | Signature | Le type de la signature, peut être PKCS1, PKCS7 et PKCS7Detached. |
@@ -109,7 +109,7 @@ pdfSign.Save()
 
 ## Sign(int, bool, Rectangle, Signature) {#sign}
 
-Signer le document avec le type de signature donné.
+Signez le document avec le type de signature donné.
 
 ```csharp
 public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
@@ -117,10 +117,10 @@ public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Int32 | Le numéro de la page sur laquelle la signature est faite. |
+| page | Int32 | Le numéro de page sur lequel la signature est effectuée. |
 | visible | Boolean | La visibilité de la signature. |
 | annotRect | Rectangle | Le rectangle de la signature. |
-| sig | Signature | Le type de la signature, peut être PKCS1, PKCS7 et PKCS7Detached. Les données telles que la raison de la signature, le contact et l'emplacement doivent déjà être présentes dans cet objet (voir les propriétés correspondantes). |
+| sig | Signature | Le type de la signature, peut être PKCS1, PKCS7 et PKCS7Detached. Des données telles que le motif de la signature, le contact et l'emplacement doivent déjà être présentes dans cet objet (voir les propriétés correspondantes). |
 
 ## Exemples
 
@@ -163,7 +163,7 @@ pdfSign.Save()
 
 ## Sign(string, string, string, string, Signature) {#sign_5}
 
-Signer le document avec le type de signature donné qui est placé dans le champ de signature déjà présenté. Avant de signer, le champ de signature doit être vide, c'est-à-dire que le champ ne doit pas contenir de dictionnaire de signature. Ainsi, le document pdf a déjà un champ de signature, vous ne devez pas fournir l'emplacement pour tamponner la signature, la page correspondante et le rectangle sont pris du champ de signature qui est trouvé par le nom de la signature (voir le paramètre SigName).
+Signez le document avec le type de signature donné qui est placé dans un champ de signature déjà présent. Avant la signature, le champ de signature doit être vide, c'est‑à‑dire qu'il ne doit pas contenir de dictionnaire de signature. Ainsi le document PDF possède déjà un champ de signature, vous ne devez pas fournir l'emplacement pour apposer la signature, la page correspondante et le rectangle sont récupérés à partir du champ de signature trouvé par le nom de la signature (voir le paramètre SigName).
 
 ```csharp
 public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -175,7 +175,7 @@ public void Sign(string SigName, string SigReason, string SigContact, string Sig
 | SigName | String | Le nom du champ de signature. |
 | SigReason | String | La raison de la signature. |
 | SigContact | String | Le contact de la signature. |
-| SigLocation | String | L'emplacement de la signature. |
+| SigLocation | String | Le lieu de la signature. |
 | sig | Signature | Le type de la signature, peut être PKCS1, PKCS7 et PKCS7Detached. |
 
 ## Exemples
@@ -211,7 +211,7 @@ pdfSign.Save()
 
 ## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_3}
 
-Signer le document avec le type de signature donné qui est placé dans le champ de signature déjà présenté. Avant de signer, le document pdf doit déjà avoir un champ de signature, la page correspondante et le rectangle sont pris du champ de signature qui est trouvé par le nom de la signature (voir le paramètre SigName).
+Signez le document avec le type de signature donné qui est placé dans un champ de signature déjà présent. Avant la signature, le document PDF doit déjà contenir un champ de signature, la page correspondante et le rectangle sont récupérés à partir du champ de signature trouvé par le nom de la signature (voir le paramètre SigName).
 
 ```csharp
 public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -220,11 +220,11 @@ public void Sign(int page, string SigName, string SigReason, string SigContact, 
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Int32 | Le numéro de la page sur laquelle la signature est faite. |
+| page | Int32 | Le numéro de page sur lequel la signature est effectuée. |
 | SigName | String | Le nom du champ de signature. |
 | SigReason | String | La raison de la signature. |
 | SigContact | String | Le contact de la signature. |
-| SigLocation | String | L'emplacement de la signature. |
+| SigLocation | String | Le lieu de la signature. |
 | visible | Boolean | La visibilité de la signature. |
 | annotRect | Rectangle | Le rectangle de la signature. |
 | sig | Signature | Le type de la signature, peut être PKCS1, PKCS7 et PKCS7Detached. |
@@ -263,7 +263,7 @@ pdfSign.Save(outFile)
 
 ## Sign(string, Signature) {#sign_4}
 
-Signer le document avec le type de signature donné qui est placé dans le champ de signature déjà présenté. Avant de signer, le champ de signature doit être vide, c'est-à-dire que le champ ne doit pas contenir de dictionnaire de signature. Ainsi, le document pdf a déjà un champ de signature, vous ne devez pas fournir l'emplacement pour tamponner la signature, la page correspondante et le rectangle sont pris du champ de signature qui est trouvé par le nom de la signature (voir le paramètre SigName). Les données telles que la raison de la signature, le contact et l'emplacement doivent être fournies par les propriétés correspondantes de l'objet Signature sig.
+Signez le document avec le type de signature donné qui est placé dans un champ de signature déjà présent. Avant la signature, le champ de signature doit être vide, c'est‑à‑dire qu'il ne doit pas contenir de dictionnaire de signature. Ainsi le document PDF possède déjà un champ de signature, vous ne devez pas fournir l'emplacement pour apposer la signature, la page correspondante et le rectangle sont récupérés à partir du champ de signature trouvé par le nom de la signature (voir le paramètre SigName). Des données telles que le motif de la signature, le contact et l'emplacement doivent être fournies via les propriétés correspondantes de l'objet Signature sig.
 
 ```csharp
 public void Sign(string SigName, Signature sig)
@@ -272,7 +272,7 @@ public void Sign(string SigName, Signature sig)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | SigName | String | Le nom du champ de signature. |
-| sig | Signature | Le type de la signature, peut être PKCS1 (objet Pkcs1Signature), PKCS7 et PKCS7 détaché (objet Pkcs7Signature) |
+| sig | Signature | Le type de la signature, peut être PKCS1 (objet Pkcs1Signature), PKCS7 et PKCS7 detached (objet Pkcs7Signature) |
 
 ## Exemples
 
@@ -308,3 +308,5 @@ pdfSign.Save()
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

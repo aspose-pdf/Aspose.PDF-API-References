@@ -1,14 +1,14 @@
 ---
-title: Form.RenameField
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Renomme un champ. Soit un champ AcroForm soit un champ XFA est acceptable
+title: "Form.RenameField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Renomme un champ. Un champ AcroForm ou XFA est acceptable."
 type: docs
 weight: 330
 url: /fr/net/aspose.pdf.facades/form/renamefield/
 ---
-## Méthode Form.RenameField
+## Form.RenameField method
 
-Renomme un champ. Soit un champ AcroForm soit un champ XFA est acceptable.
+Renomme un champ. Un champ AcroForm ou XFA convient.
 
 ```csharp
 public void RenameField(string fieldName, string newFieldName)
@@ -16,8 +16,8 @@ public void RenameField(string fieldName, string newFieldName)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fieldName | String | l'ancien nom de champ |
-| newFieldName | String | le nouveau nom de champ |
+| fieldName | String | l'ancien nom du champ |
+| newFieldName | String | le nouveau nom du champ |
 
 ## Exemples
 
@@ -29,6 +29,8 @@ form.Save();
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

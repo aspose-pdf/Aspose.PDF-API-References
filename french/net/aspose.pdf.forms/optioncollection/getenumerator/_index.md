@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OptionCollection. Renvoie un énumérateur pour les options dans la collection
+title: "OptionCollection.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OptionCollection méthode. Retourne un énumérateur pour les options dans la collection"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.forms/optioncollection/getenumerator/
 ---
-## Méthode OptionCollection.GetEnumerator
+## OptionCollection.GetEnumerator method
 
-Renvoie un énumérateur pour les options dans la collection.
+Renvoie un énumérateur pour les options de la collection.
 
 ```csharp
 public IEnumerator<Option> GetEnumerator()
@@ -20,7 +20,9 @@ public IEnumerator<Option> GetEnumerator()
 
 ### Voir aussi
 
-* classe [Option](../../option/)
-* classe [OptionCollection](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

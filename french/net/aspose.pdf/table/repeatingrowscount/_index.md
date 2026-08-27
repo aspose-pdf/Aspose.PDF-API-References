@@ -1,14 +1,14 @@
 ---
-title: Table.RepeatingRowsCount
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la table. Obtient le nombre de premières lignes répétées sur plusieurs pages
+title: "Table.RepeatingRowsCount"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Table. Obtient le nombre de premières lignes répété sur plusieurs pages"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf/table/repeatingrowscount/
 ---
-## Propriété Table.RepeatingRowsCount
+## Table.RepeatingRowsCount property
 
-Obtient le nombre de premières lignes répétées sur plusieurs pages
+Obtient le nombre de premières lignes répété sur plusieurs pages
 
 ```csharp
 public int RepeatingRowsCount { get; set; }
@@ -16,6 +16,8 @@ public int RepeatingRowsCount { get; set; }
 
 ### Voir aussi
 
-* classe [Table](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

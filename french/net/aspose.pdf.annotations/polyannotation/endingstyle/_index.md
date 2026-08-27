@@ -1,14 +1,14 @@
 ---
-title: PolyAnnotation.EndingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PolyAnnotation. Obtient ou définit le style de la seconde ligne de fin
+title: "PolyAnnotation.EndingStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PolyAnnotation. Obtient ou définit le style de la deuxième extrémité de ligne"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/polyannotation/endingstyle/
 ---
-## Propriété PolyAnnotation.EndingStyle
+## PolyAnnotation.EndingStyle property
 
-Obtient ou définit le style de la seconde ligne de fin.
+Obtient ou définit le style de la terminaison de la deuxième ligne.
 
 ```csharp
 public LineEnding EndingStyle { get; set; }
@@ -20,3 +20,5 @@ public LineEnding EndingStyle { get; set; }
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

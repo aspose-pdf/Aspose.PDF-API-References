@@ -1,12 +1,12 @@
 ---
-title: MdLoadOptions.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MdLoadOptions. Obtient ou définit les informations de page du document
+title: "MdLoadOptions.PageInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MdLoadOptions. Obtient ou définit les informations de page du document"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/mdloadoptions/pageinfo/
 ---
-## Propriété MdLoadOptions.PageInfo
+## MdLoadOptions.PageInfo property
 
 Obtient ou définit les informations de page du document
 
@@ -16,7 +16,9 @@ public PageInfo PageInfo { get; set; }
 
 ### Voir aussi
 
-* classe [PageInfo](../../pageinfo/)
-* classe [MdLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageInfo](../../pageinfo/)
+* class [MdLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

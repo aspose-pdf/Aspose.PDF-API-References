@@ -1,14 +1,14 @@
 ---
-title: Enum TextExtractionOptions.TextFormattingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TextExtractionOptions.TextFormattingMode d'Aspose.Pdf.Text. Définit différents modes qui peuvent être utilisés lors de la conversion d'un document pdf en texte. Voir la classe TextDevice
+title: "Énumération TextExtractionOptions.TextFormattingMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.Text.TextExtractionOptionsTextFormattingMode. Définit différents modes pouvant être utilisés lors de la conversion d'un document pdf en texte. Voir la classe TextDevice"
 type: docs
-weight: 10900
+weight: 11080
 url: /fr/net/aspose.pdf.text/textextractionoptions.textformattingmode/
 ---
-## Énumération TextExtractionOptions.TextFormattingMode
+## TextExtractionOptions.TextFormattingMode enumeration
 
-Définit différents modes qui peuvent être utilisés lors de la conversion d'un document pdf en texte. Voir la classe !:TextDevice.
+Définit différents modes pouvant être utilisés lors de la conversion d'un document pdf en texte. Voir la classe !:TextDevice.
 
 ```csharp
 public enum TextFormattingMode
@@ -18,13 +18,15 @@ public enum TextFormattingMode
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Pur | `0` | Représente le contenu pdf avec un peu de routines de formatage. |
-| Brut | `1` | Représente le contenu pdf tel quel, c'est-à-dire sans formatage. |
-| Aplatir | `2` | Représente le contenu pdf en positionnant les fragments de texte par leurs coordonnées. C'est essentiellement similaire au mode "Brut". Mais alors que "Brut" se concentre sur la préservation de la structure des fragments de texte (opérateurs) dans un document, "Aplatir" se concentre sur le maintien du texte dans l'ordre dans lequel il est lu. |
-| ÉconomieDeMémoire | `3` | Extraction avec économie de mémoire. C'est presque identique au mode 'Brut' mais fonctionne légèrement plus vite et utilise moins de mémoire. |
+| Pure | `0` | Représente le contenu pdf avec un peu de routines de formatage. |
+| Raw | `1` | Représente le contenu pdf tel quel, c’est‑à‑dire sans formatage. |
+| Flatten | `2` | Représente le contenu pdf avec le positionnement des fragments de texte par leurs coordonnées. C’est essentiellement similaire au mode "Raw". Mais alors que le mode "Raw" se concentre sur la préservation de la structure des fragments de texte (opérateurs) dans un document, le mode "Flatten" se concentre sur le maintien du texte dans l'ordre de lecture. |
+| MemorySaving | `3` | Extraction avec économie de mémoire. C’est presque identique au mode 'Raw' mais fonctionne légèrement plus rapidement et utilise moins de mémoire. |
 
 ### Voir aussi
 
-* classe [TextExtractionOptions](../textextractionoptions/)
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* class [TextExtractionOptions](../textextractionoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

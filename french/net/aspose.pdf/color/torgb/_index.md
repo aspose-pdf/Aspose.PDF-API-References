@@ -1,14 +1,14 @@
 ---
-title: Color.ToRgb
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Color. Convertit la couleur en rgb
+title: "Color.ToRgb"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Color. Convertit la couleur en rgb"
 type: docs
 weight: 1540
 url: /fr/net/aspose.pdf/color/torgb/
 ---
-## Méthode Color.ToRgb
+## Color.ToRgb method
 
-Convertit la couleur en rgb.
+Convertit la couleur en RVB.
 
 ```csharp
 public Color ToRgb()
@@ -20,6 +20,8 @@ Valeur de couleur Rgb.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

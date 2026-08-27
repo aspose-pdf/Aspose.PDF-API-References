@@ -1,14 +1,14 @@
 ---
-title: FormEditor.AddSubmitBtn
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Ajouter un bouton de soumission sur le formulaire
+title: "FormEditor.AddSubmitBtn"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FormEditor. Ajouter un bouton de soumission au formulaire"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.facades/formeditor/addsubmitbtn/
 ---
-## Méthode FormEditor.AddSubmitBtn
+## FormEditor.AddSubmitBtn method
 
-Ajouter un bouton de soumission sur le formulaire.
+Ajoute un bouton d'envoi sur le formulaire.
 
 ```csharp
 public void AddSubmitBtn(string fieldName, int page, string label, string url, float llx, 
@@ -19,7 +19,7 @@ public void AddSubmitBtn(string fieldName, int page, string label, string url, f
 | --- | --- | --- |
 | fieldName | String | Nom du nouveau bouton. |
 | page | Int32 | Page où le bouton sera placé. |
-| label | String | Légende du bouton. |
+| étiquette | String | Légende du bouton. |
 | url | String | URL du bouton de soumission. |
 | llx | Single | Abscisse du coin inférieur gauche. |
 | lly | Single | Ordonnée du coin inférieur gauche. |
@@ -35,6 +35,8 @@ formEditor.AddSubmitBtn("submit", 1, "Submit", "www.check.com", 10, 200, 70, 270
 
 ### Voir aussi
 
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

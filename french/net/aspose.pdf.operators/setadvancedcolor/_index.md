@@ -1,14 +1,14 @@
 ---
-title: Class SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetAdvancedColor. Classe représentant l'opérateur scn pour définir la couleur pour les opérations non de traçage
+title: "Classe SetAdvancedColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.SetAdvancedColor classe. Classe représentant l'opérateur scn définir la couleur pour les opérations non-tracé"
 type: docs
-weight: 7560
+weight: 7700
 url: /fr/net/aspose.pdf.operators/setadvancedcolor/
 ---
-## Classe SetAdvancedColor
+## SetAdvancedColor class
 
-Classe représentant l'opérateur scn (définir la couleur pour les opérations non de traçage).
+Classe représentant l'opérateur scn (définir la couleur pour les opérations sans tracé).
 
 ```csharp
 public class SetAdvancedColor : BasicSetColorAndPatternOperator
@@ -34,8 +34,8 @@ public class SetAdvancedColor : BasicSetColorAndPatternOperator
 | [C](../../aspose.pdf.operators/basicsetcoloroperator/c/) { get; } | Obtient le composant cyan de la couleur CMYK. |
 | virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | Obtient le tableau des composants de couleur. |
 | [G](../../aspose.pdf.operators/basicsetcoloroperator/g/) { get; } | Obtient le composant vert de la couleur |
-| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | Obtient le composant noir de la couleur grise. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Index de l'opérateur dans la liste des opérateurs de page. |
+| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | Obtient le composant noir de la couleur gris. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Index de l'opérateur dans la liste des opérateurs de la page. |
 | [K](../../aspose.pdf.operators/basicsetcoloroperator/k/) { get; } | Obtient le composant noir de la couleur CMYK. |
 | [M](../../aspose.pdf.operators/basicsetcoloroperator/m/) { get; } | Obtient le composant magenta de la couleur CMYK. |
 | [PatternName](../../aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/) { get; } | Obtient le nom du motif. |
@@ -46,13 +46,15 @@ public class SetAdvancedColor : BasicSetColorAndPatternOperator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [getColor](../../aspose.pdf.operators/setadvancedcolor/getcolor/)() | Renvoie la couleur spécifiée par l'opérateur. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et de ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

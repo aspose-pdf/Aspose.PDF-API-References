@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenAllFields
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode de formulaire. Aplatit tous les champs
+title: "Form.FlattenAllFields"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Aplatisse tous les champs"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.facades/form/flattenallfields/
 ---
-## Méthode Form.FlattenAllFields
+## Form.FlattenAllFields method
 
-Aplatit tous les champs.
+Aplatisse tous les champs.
 
 ```csharp
 public void FlattenAllFields()
@@ -23,6 +23,8 @@ form.FlattenAllFields();
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

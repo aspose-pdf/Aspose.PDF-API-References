@@ -1,14 +1,14 @@
 ---
-title: Class Form.FormImportResult
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.FormFormImportResult. Classe qui décrit le résultat si l'importation de champ
+title: "Classe Form.FormImportResult"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.FormFormImportResult class. Classe qui décrit le résultat de l'importation de champ."
 type: docs
-weight: 4300
+weight: 4420
 url: /fr/net/aspose.pdf.facades/form.formimportresult/
 ---
-## Classe Form.FormImportResult
+## Form.FormImportResult class
 
-Classe qui décrit le résultat si l'importation de champ.
+Classe qui décrit le résultat de l'importation de champ.
 
 ```csharp
 public class FormImportResult
@@ -23,6 +23,8 @@ public class FormImportResult
 
 ### Voir aussi
 
-* classe [Form](../form/)
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

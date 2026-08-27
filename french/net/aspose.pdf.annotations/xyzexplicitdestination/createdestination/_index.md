@@ -1,14 +1,14 @@
 ---
-title: XYZExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XYZExplicitDestination. Créer une destination à l'emplacement spécifié de la page en tenant compte de la rotation de la page si nécessaire
+title: "XYZExplicitDestination.CreateDestination"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XYZExplicitDestination. Crée une destination vers l'emplacement spécifié de la page en tenant compte de la rotation de la page si nécessaire"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/xyzexplicitdestination/createdestination/
 ---
-## Méthode XYZExplicitDestination.CreateDestination
+## XYZExplicitDestination.CreateDestination method
 
-Créer une destination à l'emplacement spécifié de la page en tenant compte de la rotation de la page si nécessaire.
+Crée une destination vers l'emplacement spécifié de la page en tenant compte de la rotation de la page si nécessaire.
 
 ```csharp
 public static XYZExplicitDestination CreateDestination(Page page, double left, double top, 
@@ -18,18 +18,20 @@ public static XYZExplicitDestination CreateDestination(Page page, double left, d
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | page | Page | Page de destination. |
-| left | Double | Position à gauche sur la page. |
-| top | Double | Position en haut sur la page. |
-| zoom | Double | Facteur de zoom (0 pour par défaut). |
+| gauche | Double | Position gauche sur la page. |
+| haut | Double | Position supérieure sur la page. |
+| zoom | Double | Facteur de zoom (0 pour la valeur par défaut). |
 | considerRotation | Boolean | Si vrai, la position sera recalculée en fonction de la rotation de la page. |
 
 ### Valeur de retour
 
-Objet de destination.
+Objet Destination.
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [XYZExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

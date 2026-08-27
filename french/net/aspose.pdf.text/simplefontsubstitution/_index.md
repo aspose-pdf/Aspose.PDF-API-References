@@ -1,14 +1,14 @@
 ---
-title: Class SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.SimpleFontSubstitution. Représente une classe pour la stratégie de substitution de police simple
+title: "Classe SimpleFontSubstitution"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Text.SimpleFontSubstitution class. Représente une classe pour une stratégie de substitution de police simple"
 type: docs
-weight: 10710
+weight: 10890
 url: /fr/net/aspose.pdf.text/simplefontsubstitution/
 ---
-## Classe SimpleFontSubstitution
+## SimpleFontSubstitution class
 
-Représente une classe pour la stratégie de substitution de police simple.
+Représente une classe pour une stratégie simple de substitution de police.
 
 ```csharp
 public sealed class SimpleFontSubstitution : FontSubstitution
@@ -24,11 +24,13 @@ public sealed class SimpleFontSubstitution : FontSubstitution
 
 | Nom | Description |
 | --- | --- |
-| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Obtient le nom de la police originale qui doit être substituée par [`SubstitutionFontName`](./substitutionfontname/) |
-| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | Obtient le nom de la police qui doit substituer le [`OriginalFontName`](./originalfontname/) |
+| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Obtient le nom de police original qui doit être remplacé par [`SubstitutionFontName`](./substitutionfontname/) |
+| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | Obtient le nom de police qui doit remplacer le [`OriginalFontName`](./originalfontname/) |
 
 ### Voir aussi
 
-* classe [FontSubstitution](../fontsubstitution/)
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* class [FontSubstitution](../fontsubstitution/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

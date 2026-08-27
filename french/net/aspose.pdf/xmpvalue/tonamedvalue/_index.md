@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToNamedValue
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpValue. Renvoie la valeur XMP en tant que valeur nommée
+title: "XmpValue.ToNamedValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpValue. Retourne la valeur XMP en tant que valeur nommée"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf/xmpvalue/tonamedvalue/
 ---
-## Méthode XmpValue.ToNamedValue
+## XmpValue.ToNamedValue method
 
 Renvoie la valeur XMP en tant que valeur nommée.
 
@@ -20,6 +20,8 @@ Valeur nommée.
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

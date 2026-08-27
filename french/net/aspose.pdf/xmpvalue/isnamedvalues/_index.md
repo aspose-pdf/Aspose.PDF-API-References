@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsNamedValues
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XmpValue. Renvoie vrai si XmpValue représente des valeurs nommées
+title: "XmpValue.IsNamedValues"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XmpValue. Retourne true si XmpValue représente des valeurs nommées"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/xmpvalue/isnamedvalues/
 ---
-## Propriété XmpValue.IsNamedValues
+## XmpValue.IsNamedValues property
 
 Renvoie vrai si XmpValue représente des valeurs nommées.
 
@@ -16,6 +16,8 @@ public bool IsNamedValues { get; }
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Note
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Note. Cette classe représente une note de paragraphe générateur
+title: "Classe Note"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Note. Cette classe représente une note de paragraphe générateur"
 type: docs
-weight: 7020
+weight: 7160
 url: /fr/net/aspose.pdf/note/
 ---
-## Classe Note
+## Note class
 
-Cette classe représente une note de paragraphe générateur.
+Cette classe représente la note de paragraphe du générateur.
 
 ```csharp
 public sealed class Note
@@ -26,10 +26,12 @@ public sealed class Note
 | Nom | Description |
 | --- | --- |
 | [Paragraphs](../../aspose.pdf/note/paragraphs/) { get; set; } | Obtient ou définit une collection qui indique tous les paragraphes dans la note de bas de page. |
-| [Text](../../aspose.pdf/note/text/) { get; set; } | Obtient ou définit un texte de note. |
-| [TextState](../../aspose.pdf/note/textstate/) { get; set; } | Obtient ou définit un état de texte de note. |
+| [Text](../../aspose.pdf/note/text/) { get; set; } | Obtient ou définit le texte de la note. |
+| [TextState](../../aspose.pdf/note/textstate/) { get; set; } | Obtient ou définit l’état du texte de la note. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

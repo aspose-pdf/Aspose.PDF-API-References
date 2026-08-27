@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OperatorCollection. Supprime l'opérateur de la collection
+title: "OperatorCollection.Delete"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OperatorCollection. Supprime l'opérateur de la collection"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/operatorcollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-Supprime l'opérateur de la collection.
+Supprime l’opérateur de la collection.
 
 ```csharp
 public void Delete(int index)
@@ -16,11 +16,11 @@ public void Delete(int index)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | Index de l'opérateur qui doit être supprimé. La numérotation des opérateurs commence à 1. |
+| index | Int32 | Indice de l'opérateur qui doit être supprimé. La numérotation des opérateurs commence à 1. |
 
 ## Exemples
 
-L'exemple démontre comment supprimer un opérateur par son index.
+L'exemple montre comment supprimer un opérateur par son indice.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -30,8 +30,8 @@ oc.Delete(3);
 
 ### Voir aussi
 
-* classe [OperatorCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -46,11 +46,11 @@ public void Delete(Operator[] ops)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| ops | Operator[] | Tableau des opérateurs à supprimer |
+| ops | Operator[] | Tableau d'opérateurs à supprimer |
 
 ## Exemples
 
-L'exemple démontre comment retirer un opérateur du contenu de la page.
+L'exemple montre comment retirer un opérateur du contenu de la page.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -60,9 +60,9 @@ oc.Delete(new Operator[] { oc[1] } );
 
 ### Voir aussi
 
-* classe [Operator](../../operator/)
-* classe [OperatorCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -77,11 +77,11 @@ public void Delete(IList<Operator> list)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| list | IList`1 | La liste des opérateurs à supprimer |
+| liste | IList`1 | La liste des opérateurs à supprimer |
 
 ## Exemples
 
-L'exemple démontre comment retirer un opérateur du contenu de la page.
+L'exemple montre comment retirer un opérateur du contenu de la page.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -93,7 +93,9 @@ oc.Delete(opList);
 
 ### Voir aussi
 
-* classe [Operator](../../operator/)
-* classe [OperatorCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

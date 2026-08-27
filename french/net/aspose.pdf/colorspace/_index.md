@@ -1,14 +1,14 @@
 ---
-title: Enum ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ColorSpace d'Aspose.Pdf. L'énumération des espaces colorimétriques
+title: "Énumération ColorSpace"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.ColorSpace. L'énumération des espaces colorimétriques"
 type: docs
-weight: 3090
+weight: 3200
 url: /fr/net/aspose.pdf/colorspace/
 ---
-## Énumération ColorSpace
+## ColorSpace enumeration
 
-L'énumération des espaces colorimétriques.
+L’énumération des espaces colorimétriques.
 
 ```csharp
 public enum ColorSpace
@@ -18,11 +18,13 @@ public enum ColorSpace
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| DeviceRGB | `0` | L'espace colorimétrique RGB dépendant du périphérique. |
-| DeviceCMYK | `1` | L'espace colorimétrique CMYK dépendant du périphérique. |
-| DeviceGray | `2` | L'espace colorimétrique gris dépendant du périphérique. |
+| DeviceRGB | `0` | L'espace couleur RVB dépendant du dispositif. |
+| DeviceCMYK | `1` | L'espace couleur CMJN dépendant du dispositif. |
+| DeviceGray | `2` | L'espace couleur gris dépendant du dispositif. |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: XmpValue.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpValue. Renvoie la représentation sous forme de chaîne de XmpValue
+title: "XmpValue.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpValue. Retourne la représentation sous forme de chaîne de XmpValue"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf/xmpvalue/tostring/
@@ -14,11 +14,11 @@ Renvoie la représentation sous forme de chaîne de XmpValue.
 public override string ToString()
 ```
 
-### Return Value
+### Valeur de retour
 
 Représentation sous forme de chaîne.
 
-### See Also
+### Voir aussi
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,16 +34,18 @@ Renvoie la représentation sous forme de chaîne.
 public string ToString(IFormatProvider formatProvider)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | formatProvider | IFormatProvider | Fournisseur de format. |
 
-### Return Value
+### Valeur de retour
 
 Représentation sous forme de chaîne.
 
-### See Also
+### Voir aussi
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.MaxSymbolsCacheSize
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RenderingOptions. Nombre maximum de symboles dans le cache de symboles. La valeur par défaut est 100
+title: "RenderingOptions.MaxSymbolsCacheSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RenderingOptions. Nombre maximal de symboles dans le cache de symboles. La valeur par défaut est 100"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf/renderingoptions/maxsymbolscachesize/
 ---
-## Propriété RenderingOptions.MaxSymbolsCacheSize
+## RenderingOptions.MaxSymbolsCacheSize property
 
-Nombre maximum de symboles dans le cache de symboles. La valeur par défaut est 100.
+Nombre maximal de symboles dans le cache des symboles. La valeur par défaut est 100.
 
 ```csharp
 public int MaxSymbolsCacheSize { get; set; }
@@ -16,6 +16,8 @@ public int MaxSymbolsCacheSize { get; set; }
 
 ### Voir aussi
 
-* classe [RenderingOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

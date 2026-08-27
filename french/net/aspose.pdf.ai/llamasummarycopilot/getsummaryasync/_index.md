@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilot.GetSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode LlamaSummaryCopilot.
+title: "LlamaSummaryCopilot.GetSummaryAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "La méthode LlamaSummaryCopilot."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/llamasummarycopilot/getsummaryasync/
 ---
-## Méthode LlamaSummaryCopilot.GetSummaryAsync
+## LlamaSummaryCopilot.GetSummaryAsync method
 
 ```csharp
 public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = default)
@@ -14,6 +14,8 @@ public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = defau
 
 ### Voir aussi
 
-* classe [LlamaSummaryCopilot](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaSummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

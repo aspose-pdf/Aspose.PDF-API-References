@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetRunsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIClient. Récupère une liste d'exécutions pour un thread spécifié de manière asynchrone
+title: "OpenAIClient.GetRunsAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAIClient. Récupère une liste d'exécutions pour un fil spécifié de manière asynchrone"
 type: docs
-weight: 260
+weight: 270
 url: /fr/net/aspose.pdf.ai/openaiclient/getrunsasync/
 ---
-## Méthode OpenAIClient.GetRunsAsync
+## OpenAIClient.GetRunsAsync method
 
-Récupère une liste d'exécutions pour un thread spécifié de manière asynchrone.
+Récupère une liste d'exécutions pour un fil spécifié de façon asynchrone.
 
 ```csharp
 public Task<RunListResponse> GetRunsAsync(string threadId, 
@@ -17,7 +17,7 @@ public Task<RunListResponse> GetRunsAsync(string threadId,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| threadId | String | L'ID du thread à partir duquel récupérer les exécutions. |
+| threadId | String | L'ID du fil dont il faut récupérer les exécutions. |
 | queryParameters | RunListQueryParameters | Paramètres de requête optionnels pour filtrer la liste des exécutions. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
@@ -29,12 +29,14 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du thread est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du fil est nul ou vide. |
 
 ### Voir aussi
 
-* classe [RunListResponse](../../runlistresponse/)
-* classe [RunListQueryParameters](../../runlistqueryparameters/)
-* classe [OpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunListResponse](../../runlistresponse/)
+* class [RunListQueryParameters](../../runlistqueryparameters/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Re
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.Re. Classe représentant l'opérateur re ajoutant un rectangle au chemin
+title: "Classe Re"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.Re classe. Classe représentant l'opérateur re ajoutant un rectangle au chemin"
 type: docs
-weight: 7540
+weight: 7680
 url: /fr/net/aspose.pdf.operators/re/
 ---
-## Classe Re
+## Re class
 
 Classe représentant l'opérateur re (ajouter un rectangle au chemin).
 
@@ -35,12 +35,14 @@ public class Re : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/re/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/re/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/re/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

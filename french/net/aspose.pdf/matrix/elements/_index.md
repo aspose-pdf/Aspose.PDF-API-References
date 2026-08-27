@@ -1,12 +1,12 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la matrice. Éléments de la matrice
+title: "Matrix.Elements"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Matrix. Éléments de la matrice"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/matrix/elements/
 ---
-## Propriété Matrix.Elements
+## Matrix.Elements property
 
 Éléments de la matrice.
 
@@ -16,6 +16,8 @@ public float[] Elements { get; }
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

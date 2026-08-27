@@ -1,12 +1,12 @@
 ---
-title: FontSourceCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FontSourceCollection. Obtient l'élément de police à l'index spécifié
+title: "FontSourceCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FontSourceCollection. Obtient l’élément de police à l’index spécifié"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/fontsourcecollection/item/
 ---
-## Indexeur FontSourceCollection
+## FontSourceCollection indexer
 
 Obtient l'élément de police à l'index spécifié.
 
@@ -24,7 +24,9 @@ Objet source de police.
 
 ### Voir aussi
 
-* classe [FontSource](../../fontsource/)
-* classe [FontSourceCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

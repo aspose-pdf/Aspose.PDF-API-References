@@ -1,12 +1,12 @@
 ---
-title: PolylineAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PolylineAnnotation. Accepte un objet visiteur pour traiter l'annotation
+title: "PolylineAnnotation.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PolylineAnnotation méthode. Accepte l'objet visiteur pour traiter l'annotation."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/polylineannotation/accept/
 ---
-## Méthode PolylineAnnotation.Accept
+## PolylineAnnotation.Accept method
 
 Accepte un objet visiteur pour traiter l'annotation.
 
@@ -20,7 +20,9 @@ public override void Accept(AnnotationSelector visitor)
 
 ### Voir aussi
 
-* classe [AnnotationSelector](../../annotationselector/)
-* classe [PolylineAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AnnotationSelector](../../annotationselector/)
+* class [PolylineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

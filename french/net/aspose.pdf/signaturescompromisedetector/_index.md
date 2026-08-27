@@ -1,12 +1,12 @@
 ---
-title: Class SignaturesCompromiseDetector
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.SignaturesCompromiseDetector. Représente une classe pour vérifier les signatures compromettantes du document
+title: "Classe SignaturesCompromiseDetector"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.SignaturesCompromiseDetector classe. Représente une classe permettant de vérifier les signatures compromises du document"
 type: docs
-weight: 10120
+weight: 10300
 url: /fr/net/aspose.pdf/signaturescompromisedetector/
 ---
-## Classe SignaturesCompromiseDetector
+## SignaturesCompromiseDetector class
 
 Représente une classe pour vérifier les signatures compromettantes du document.
 
@@ -24,13 +24,15 @@ public sealed class SignaturesCompromiseDetector
 
 | Nom | Description |
 | --- | --- |
-| [Check](../../aspose.pdf/signaturescompromisedetector/check/)(out CompromiseCheckResult) | Vérifie les signatures numériques du document pour compromission. |
+| [Check](../../aspose.pdf/signaturescompromisedetector/check/)(out CompromiseCheckResult) | Vérifie les signatures numériques du document pour détecter toute compromission. |
 
 ## Remarques
 
-Le détecteur vérifie uniquement les méthodes connues pour compromettre les signatures. La vérification ne peut pas fournir une garantie à 100 % de l'absence de compromission de signature et peut donner un résultat faux négatif pour de nouvelles méthodes de compromission inconnues différentes de celles testées.
+Le détecteur ne vérifie que les méthodes connues de compromission des signatures. La vérification ne peut pas garantir à 100 % l'absence de compromission des signatures et peut produire un faux négatif pour de nouvelles méthodes de compromission inconnues, différentes de celles testées.
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

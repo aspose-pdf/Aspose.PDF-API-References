@@ -1,12 +1,12 @@
 ---
-title: ImportDataAction.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImportDataAction. Le fichier FDF à partir duquel importer les données
+title: "ImportDataAction.Data"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ImportDataAction. Le fichier FDF à partir duquel importer les données"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/importdataaction/data/
 ---
-## Propriété ImportDataAction.Data
+## ImportDataAction.Data property
 
 Le fichier FDF à partir duquel importer les données.
 
@@ -16,7 +16,9 @@ public FileSpecification Data { get; set; }
 
 ### Voir aussi
 
-* classe [FileSpecification](../../../aspose.pdf/filespecification/)
-* classe [ImportDataAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [ImportDataAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

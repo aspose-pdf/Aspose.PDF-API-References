@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentInfo. Obtient ou définit la date de création du document
+title: "DocumentInfo.CreationDate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentInfo. Obtient ou définit la date de création du document"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/documentinfo/creationdate/
 ---
-## Propriété DocumentInfo.DateDeCréation
+## DocumentInfo.CreationDate property
 
 Obtient ou définit la date de création du document.
 
@@ -14,8 +14,10 @@ Obtient ou définit la date de création du document.
 public DateTime CreationDate { get; set; }
 ```
 
-### Voir Aussi
+### Voir aussi
 
-* classe [DocumentInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Stamp.RightMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Stamp. Obtient ou définit la marge droite du tampon
+title: "Stamp.RightMargin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Stamp. Obtient ou définit la marge droite du tampon"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/stamp/rightmargin/
 ---
-## Propriété Stamp.RightMargin
+## Stamp.RightMargin property
 
 Obtient ou définit la marge droite du tampon.
 
@@ -16,6 +16,8 @@ public double RightMargin { get; set; }
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

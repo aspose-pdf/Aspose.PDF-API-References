@@ -1,14 +1,14 @@
 ---
-title: Class PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Printing.PageSettings. Spécifie les paramètres qui s'appliquent à une seule page imprimée
+title: "Classe PageSettings"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Printing.PageSettings classe. Spécifie les paramètres qui s'appliquent à une seule page imprimée"
 type: docs
-weight: 9540
+weight: 9690
 url: /fr/net/aspose.pdf.printing/pagesettings/
 ---
-## Classe PageSettings
+## PageSettings class
 
-Spécifie les paramètres qui s'appliquent à une seule page imprimée.
+Spécifie les paramètres qui s'appliquent à une page imprimée unique.
 
 ```csharp
 public class PageSettings
@@ -25,23 +25,25 @@ public class PageSettings
 
 | Nom | Description |
 | --- | --- |
-| [Bounds](../../aspose.pdf.printing/pagesettings/bounds/) { get; } | Obtient les limites de la page, en tenant compte de la propriété Paysage. |
+| [Bounds](../../aspose.pdf.printing/pagesettings/bounds/) { get; } | Obtient les limites de la page, en tenant compte de la propriété Landscape. |
 | [Color](../../aspose.pdf.printing/pagesettings/color/) { get; set; } | Obtient ou définit une valeur indiquant si la page est imprimée en couleur. |
 | [IsDefaultMargins](../../aspose.pdf.printing/pagesettings/isdefaultmargins/) { get; } |  |
 | [Landscape](../../aspose.pdf.printing/pagesettings/landscape/) { get; set; } | Obtient ou définit une valeur indiquant si la page doit être imprimée en orientation paysage ou portrait. |
 | [Margins](../../aspose.pdf.printing/pagesettings/margins/) { get; set; } | Obtient ou définit une valeur indiquant les marges pour cette page. |
 | [PaperSize](../../aspose.pdf.printing/pagesettings/papersize/) { get; set; } | Obtient ou définit la taille du papier. |
-| [PaperSource](../../aspose.pdf.printing/pagesettings/papersource/) { get; set; } | Obtient ou définit une valeur indiquant la source de papier (c'est-à-dire le bac supérieur). |
+| [PaperSource](../../aspose.pdf.printing/pagesettings/papersource/) { get; set; } | Obtient ou définit une valeur indiquant la source du papier (c.-à-d. le bac supérieur). |
 | [PrinterResolution](../../aspose.pdf.printing/pagesettings/printerresolution/) { get; set; } | Obtient ou définit la résolution de l'imprimante pour la page. |
-| [PrinterSettings](../../aspose.pdf.printing/pagesettings/printersettings/) { get; set; } | Obtient ou définit les paramètres de l'imprimante associés. |
+| [PrinterSettings](../../aspose.pdf.printing/pagesettings/printersettings/) { get; set; } | Obtient ou définit les paramètres d'imprimante associés. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/pagesettings/tostring/)() | Fournit des informations intéressantes sur les PageSettings sous forme de chaîne. |
+| override [ToString](../../aspose.pdf.printing/pagesettings/tostring/)() | Fournit quelques informations intéressantes sur le PageSettings sous forme de chaîne. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FileFontSource.FilePath
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileFontSource. Chemin vers le fichier de police
+title: "FileFontSource.FilePath"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FileFontSource. Chemin vers le fichier de police"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/filefontsource/filepath/
 ---
-## Propriété FileFontSource.FilePath
+## FileFontSource.FilePath property
 
-Chemin vers le fichier de police.
+Chemin du fichier de police.
 
 ```csharp
 public string FilePath { get; set; }
@@ -16,6 +16,8 @@ public string FilePath { get; set; }
 
 ### Voir aussi
 
-* classe [FileFontSource](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

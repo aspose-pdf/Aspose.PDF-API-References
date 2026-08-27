@@ -1,14 +1,14 @@
 ---
-title: AIClientBase.PollingTimeoutSeconds
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété AIClientBase. Obtient ou définit le délai d'attente de sondage en secondes
+title: "AIClientBase.PollingTimeoutSeconds"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété AIClientBase. Obtient ou définit le délai d'attente du sondage en secondes"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/aiclientbase/pollingtimeoutseconds/
 ---
-## Propriété AIClientBase.PollingTimeoutSeconds
+## AIClientBase.PollingTimeoutSeconds property
 
-Obtient ou définit le délai d'attente de sondage en secondes.
+Obtient ou définit le délai d'expiration de l'interrogation en secondes.
 
 ```csharp
 public int PollingTimeoutSeconds { get; set; }
@@ -16,6 +16,8 @@ public int PollingTimeoutSeconds { get; set; }
 
 ### Voir aussi
 
-* classe [AIClientBase](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AIClientBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Rectangle.IsPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Rectangle. Vérifie si le rectangle est un point c'est-à-dire que LLX est égal à URX et LLY est égal à URY
+title: "Rectangle.IsPoint"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Rectangle property. Vérifie si le rectangle est un point, c’est‑à‑dire que LLX est égal à URX et que LLY est égal à URY"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/rectangle/ispoint/
 ---
-## Propriété Rectangle.IsPoint
+## Rectangle.IsPoint property
 
-Vérifie si le rectangle est un point c'est-à-dire que LLX est égal à URX et LLY est égal à URY.
+Vérifie si le rectangle est un point c.-à-d. LLX est égal à URX et LLY est égal à URY.
 
 ```csharp
 public bool IsPoint { get; }
@@ -16,6 +16,8 @@ public bool IsPoint { get; }
 
 ### Voir aussi
 
-* classe [Rectangle](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

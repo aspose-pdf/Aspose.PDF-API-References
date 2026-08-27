@@ -1,12 +1,12 @@
 ---
-title: Class Cell
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Cell. Représente une cellule de la ligne des tables
+title: "Classe Cell"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Cell. Représente une cellule de la ligne du tableau"
 type: docs
-weight: 2970
+weight: 3080
 url: /fr/net/aspose.pdf/cell/
 ---
-## Classe Cell
+## Cell class
 
 Représente une cellule de la ligne du tableau.
 
@@ -26,17 +26,17 @@ public sealed class Cell : ICloneable
 | Nom | Description |
 | --- | --- |
 | [Alignment](../../aspose.pdf/cell/alignment/) { get; set; } | Obtient ou définit l'alignement. |
-| [BackgroundColor](../../aspose.pdf/cell/backgroundcolor/) { get; set; } | Obtient ou définit la couleur de fond. |
-| [BackgroundImage](../../aspose.pdf/cell/backgroundimage/) { get; set; } | Obtient ou définit l'image de fond |
+| [BackgroundColor](../../aspose.pdf/cell/backgroundcolor/) { get; set; } | Obtient ou définit la couleur d'arrière-plan. |
+| [BackgroundImage](../../aspose.pdf/cell/backgroundimage/) { get; set; } | Obtient ou définit l'image d'arrière-plan |
 | [Border](../../aspose.pdf/cell/border/) { get; set; } | Obtient ou définit la bordure. |
-| [ColSpan](../../aspose.pdf/cell/colspan/) { get; set; } | Obtient ou définit l'étendue de la colonne. |
-| [DefaultCellTextState](../../aspose.pdf/cell/defaultcelltextstate/) { get; set; } | Obtient ou définit l'état de texte par défaut de la cellule. |
-| [IsNoBorder](../../aspose.pdf/cell/isnoborder/) { get; set; } | Obtient ou définit si la cellule a une bordure. |
-| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | Définit si la propriété TextState de la cellule est remplacée par la propriété TextState de TextFragment. |
-| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | Obtient ou définit si le texte de la cellule est enroulé. |
-| [Margin](../../aspose.pdf/cell/margin/) { get; set; } | Obtient ou définit le rembourrage. |
+| [ColSpan](../../aspose.pdf/cell/colspan/) { get; set; } | Obtient ou définit l’étendue de la colonne. |
+| [DefaultCellTextState](../../aspose.pdf/cell/defaultcelltextstate/) { get; set; } | Obtient ou définit l’état de texte par défaut de la cellule. |
+| [IsNoBorder](../../aspose.pdf/cell/isnoborder/) { get; set; } | Obtient ou définit si la cellule possède une bordure. |
+| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | Définit la propriété TextState de la cellule, qui est remplacée par la propriété TextState de TextFragment. |
+| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | Obtient ou définit le texte de la cellule avec retour à la ligne. |
+| [Margin](../../aspose.pdf/cell/margin/) { get; set; } | Obtient ou définit le remplissage. |
 | [Paragraphs](../../aspose.pdf/cell/paragraphs/) { get; set; } | Obtient ou définit le texte formaté de la cellule. |
-| [RowSpan](../../aspose.pdf/cell/rowspan/) { get; set; } | Obtient ou définit l'étendue de la ligne. |
+| [RowSpan](../../aspose.pdf/cell/rowspan/) { get; set; } | Obtient ou définit la fusion de lignes. |
 | [VerticalAlignment](../../aspose.pdf/cell/verticalalignment/) { get; set; } | Obtient ou définit l'alignement vertical. |
 | [Width](../../aspose.pdf/cell/width/) { get; } | Obtient ou définit la largeur de la colonne. |
 
@@ -44,9 +44,11 @@ public sealed class Cell : ICloneable
 
 | Nom | Description |
 | --- | --- |
-| [Clone](../../aspose.pdf/cell/clone/)() | Clone la cellule. |
+| [Clone](../../aspose.pdf/cell/clone/)() | Cloner la cellule. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

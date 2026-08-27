@@ -1,14 +1,14 @@
 ---
-title: Matrix.A
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la matrice. Un membre de la matrice de transformation
+title: "Matrix.A"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Matrix. Membre A de la matrice de transformation"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/matrix/a/
 ---
-## Propriété Matrix.A
+## Matrix.A property
 
-Un membre de la matrice de transformation.
+Membre A de la matrice de transformation.
 
 ```csharp
 public double A { get; set; }
@@ -16,6 +16,8 @@ public double A { get; set; }
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

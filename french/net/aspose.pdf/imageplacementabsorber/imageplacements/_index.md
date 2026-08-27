@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementAbsorber.ImagePlacements
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImagePlacementAbsorber. Obtient la collection des occurrences de placement d'image qui sont présentées avec des objets [`ImagePlacement`](../../imageplacement/).
+title: "ImagePlacementAbsorber.ImagePlacements"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ImagePlacementAbsorber. Obtient la collection d'occurrences de placement d'image présentées avec des objets ImagePlacement"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/imageplacementabsorber/imageplacements/
 ---
-## Propriété ImagePlacementAbsorber.ImagePlacements
+## ImagePlacementAbsorber.ImagePlacements property
 
-Obtient la collection des occurrences de placement d'image qui sont présentées avec des objets [`ImagePlacement`](../../imageplacement/).
+Obtient la collection d'occurrences de placement d'image présentées avec des objets [`ImagePlacement`](../../imageplacement/).
 
 ```csharp
 public ImagePlacementCollection ImagePlacements { get; }
@@ -16,7 +16,9 @@ public ImagePlacementCollection ImagePlacements { get; }
 
 ### Voir aussi
 
-* classe [ImagePlacementCollection](../../imageplacementcollection/)
-* classe [ImagePlacementAbsorber](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ImagePlacementCollection](../../imageplacementcollection/)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Margins.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Marges. Obtient ou définit le bas
+title: "Margins.Bottom"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Margins. Obtient ou définit le bas"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.devices/margins/bottom/
 ---
-## Propriété Marges.Bas
+## Margins.Bottom property
 
 Obtient ou définit le bas.
 
@@ -14,12 +14,14 @@ Obtient ou définit le bas.
 public int Bottom { get; set; }
 ```
 
-### Valeur de la Propriété
+### Property Value
 
 Le bas.
 
-### Voir Aussi
+### Voir aussi
 
-* classe [Marges](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

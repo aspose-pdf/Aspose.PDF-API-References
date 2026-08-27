@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextDecorationType_None
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Attribut TextDecorationType Aucun  Pas de décoration de texte
+title: "AttributeName.TextDecorationType_None"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeName field. Attribute TextDecorationType None  Aucun décor de texte"
 type: docs
 weight: 600
 url: /fr/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_none/
 ---
-## Champ AttributeName.TextDecorationType_None
+## AttributeName.TextDecorationType_None field
 
-Attribut TextDecorationType : Aucun - Pas de décoration de texte.
+Attribut TextDecorationType : None - Aucune décoration de texte.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_None;
@@ -16,6 +16,8 @@ public static readonly AttributeName TextDecorationType_None;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

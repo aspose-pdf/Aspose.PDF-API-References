@@ -1,12 +1,12 @@
 ---
-title: Document.ProcessParagraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Traiter les paragraphes pour le générateur
+title: "Document.ProcessParagraphs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Document. Traiter les paragraphes pour le générateur"
 type: docs
-weight: 780
+weight: 800
 url: /fr/net/aspose.pdf/document/processparagraphs/
 ---
-## Méthode Document.ProcessParagraphs
+## Document.ProcessParagraphs method
 
 Traiter les paragraphes pour le générateur.
 
@@ -16,6 +16,8 @@ public void ProcessParagraphs()
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

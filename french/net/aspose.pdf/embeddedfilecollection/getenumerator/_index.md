@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode EmbeddedFileCollection. Renvoie l'énumérateur de la collection
+title: "EmbeddedFileCollection.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode EmbeddedFileCollection. Retourne l'énumérateur de la collection"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/embeddedfilecollection/getenumerator/
 ---
-## Méthode EmbeddedFileCollection.GetEnumerator
+## EmbeddedFileCollection.GetEnumerator method
 
-Renvoie l'énumérateur de la collection.
+Renvoie l'énumérateur de colleciton.
 
 ```csharp
 public IEnumerator<FileSpecification> GetEnumerator()
@@ -20,7 +20,9 @@ public IEnumerator<FileSpecification> GetEnumerator()
 
 ### Voir aussi
 
-* classe [FileSpecification](../../filespecification/)
-* classe [EmbeddedFileCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

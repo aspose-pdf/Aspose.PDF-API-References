@@ -1,12 +1,12 @@
 ---
-title: TextSegment.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextSegment. Obtient ou définit les options d'édition de texte. Les options définissent un comportement spécial lorsque le symbole demandé ne peut pas être écrit avec la police
+title: "TextSegment.TextEditOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextSegment. Obtient ou définit les options d'édition de texte. Les options définissent un comportement spécial lorsque le symbole demandé ne peut pas être écrit avec la police"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.text/textsegment/texteditoptions/
 ---
-## Propriété TextSegment.TextEditOptions
+## TextSegment.TextEditOptions property
 
 Obtient ou définit les options d'édition de texte. Les options définissent un comportement spécial lorsque le symbole demandé ne peut pas être écrit avec la police.
 
@@ -16,7 +16,9 @@ public TextEditOptions TextEditOptions { get; set; }
 
 ### Voir aussi
 
-* classe [TextEditOptions](../../texteditoptions/)
-* classe [TextSegment](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

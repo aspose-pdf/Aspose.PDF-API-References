@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.GetStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode StructureAttribute. Obtient la chaîne de valeur
+title: "StructureAttribute.GetStringValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureAttribute méthode. Obtient la chaîne de valeur"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.logicalstructure/structureattribute/getstringvalue/
 ---
-## Méthode StructureAttribute.GetStringValue
+## StructureAttribute.GetStringValue method
 
 Obtient la chaîne de valeur.
 
@@ -20,6 +20,8 @@ Chaîne de valeur.
 
 ### Voir aussi
 
-* classe [StructureAttribute](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.ImportDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AutoFiller. Importe des données de type DataTable. Chaque nom de colonne du dataTable doit être identique à un nom de champ du pdf modèle, en tenant compte de la casse.
+title: "AutoFiller.ImportDataTable"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AutoFiller. Importe des données de type DataTable. Le nom de chaque colonne du dataTable doit être identique à celui d'un champ du pdf modèle, en respectant la casse."
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.facades/autofiller/importdatatable/
 ---
-## Méthode AutoFiller.ImportDataTable
+## AutoFiller.ImportDataTable method
 
-Importe des données de type DataTable. Chaque nom de colonne du dataTable doit être identique à un nom de champ du pdf modèle, en tenant compte de la casse.
+Importe des données de type DataTable. Le nom de chaque colonne du dataTable doit être identique à celui d'un champ du PDF modèle, en respectant la casse.
 
 ```csharp
 public void ImportDataTable(DataTable dataTable)
@@ -16,10 +16,12 @@ public void ImportDataTable(DataTable dataTable)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| dataTable | DataTable | Le dataTable qui contient toutes les données de la base de données ou d'une autre source de données. |
+| dataTable | DataTable | Le dataTable qui contient toutes les données provenant de la base de données ou d'une autre source de données. |
 
 ### Voir aussi
 
-* classe [AutoFiller](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

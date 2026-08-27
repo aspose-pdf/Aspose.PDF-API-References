@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIChatCopilotOptions. Définit les instructions pour les options du copilote de chat
+title: "OpenAIChatCopilotOptions.WithInstructions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OpenAIChatCopilotOptions méthode. Définit les instructions pour les options du copilote de chat"
 type: docs
-weight: 120
+weight: 130
 url: /fr/net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/
 ---
-## Méthode OpenAIChatCopilotOptions.WithInstructions
+## OpenAIChatCopilotOptions.WithInstructions method
 
-Définit les instructions pour les options du copilote de chat.
+Définit les instructions pour les options du copilot de chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithInstructions(string instructions)
@@ -24,6 +24,8 @@ L'instance actuelle de [`OpenAIChatCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAIChatCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

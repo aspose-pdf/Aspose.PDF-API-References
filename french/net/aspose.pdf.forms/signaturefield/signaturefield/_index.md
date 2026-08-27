@@ -1,7 +1,7 @@
 ---
-title: SignatureField.SignatureField
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de SignatureField. Initialise une nouvelle instance de la classe SignatureField
+title: "SignatureField.SignatureField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SignatureField. Initialise une nouvelle instance de la classe SignatureField"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.forms/signaturefield/signaturefield/
@@ -21,10 +21,10 @@ public SignatureField(Page page, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [SignatureField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -44,8 +44,10 @@ public SignatureField(Document doc, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [SignatureField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

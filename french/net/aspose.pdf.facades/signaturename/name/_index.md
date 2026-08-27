@@ -1,12 +1,12 @@
 ---
-title: SignatureName.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Champ SignatureName. Obtient le nom d'une signature
+title: "SignatureName.Name"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ SignatureName. Obtient le nom d'une signature"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/signaturename/name/
 ---
-## Champ SignatureName.Name
+## SignatureName.Name field
 
 Obtient le nom d'une signature.
 
@@ -16,6 +16,8 @@ public readonly string Name;
 
 ### Voir aussi
 
-* classe [SignatureName](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

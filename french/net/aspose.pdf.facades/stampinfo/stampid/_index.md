@@ -1,14 +1,14 @@
 ---
-title: StampInfo.StampId
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StampInfo. Obtient l'identifiant du timbre
+title: "StampInfo.StampId"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StampInfo. Obtient l'identifiant du tampon"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.facades/stampinfo/stampid/
 ---
-## Propriété StampInfo.StampId
+## StampInfo.StampId property
 
-Obtient l'identifiant du timbre.
+Obtient l'identifiant du tampon.
 
 ```csharp
 public int StampId { get; }
@@ -16,6 +16,8 @@ public int StampId { get; }
 
 ### Voir aussi
 
-* classe [StampInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

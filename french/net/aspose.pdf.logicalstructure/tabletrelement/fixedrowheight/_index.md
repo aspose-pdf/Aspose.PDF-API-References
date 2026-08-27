@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.FixedRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableTRElement. Obtient la hauteur de ligne fixe - la ligne peut avoir une hauteur fixe
+title: "TableTRElement.FixedRowHeight"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TableTRElement. Obtient la hauteur fixe de la ligne ; la ligne peut avoir une hauteur fixe"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.logicalstructure/tabletrelement/fixedrowheight/
 ---
-## Propriété TableTRElement.FixedRowHeight
+## TableTRElement.FixedRowHeight property
 
-Obtient la hauteur de ligne fixe - la ligne peut avoir une hauteur fixe.
+Obtient la hauteur fixe de la ligne - la ligne peut avoir une hauteur fixe.
 
 ```csharp
 public double FixedRowHeight { get; set; }
@@ -16,6 +16,8 @@ public double FixedRowHeight { get; set; }
 
 ### Voir aussi
 
-* classe [TableTRElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

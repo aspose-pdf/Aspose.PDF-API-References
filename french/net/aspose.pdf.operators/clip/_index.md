@@ -1,14 +1,14 @@
 ---
-title: Class Clip
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.Clip. Classe représentant le chemin de découpe de l'ensemble d'opérateurs W utilisant la règle de winding non nulle
+title: "Classe Clip"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.Clip classe. Classe représentant l'opérateur W qui définit le chemin de découpe en utilisant la règle du winding non nul"
 type: docs
-weight: 7180
+weight: 7320
 url: /fr/net/aspose.pdf.operators/clip/
 ---
-## Classe Clip
+## Clip class
 
-Classe représentant l'opérateur W (définir le chemin de découpe en utilisant la règle de winding non nulle).
+Classe représentant l'opérateur W (set clipping path using non-zero winding rule).
 
 ```csharp
 public class Clip : Operator
@@ -30,12 +30,14 @@ public class Clip : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/clip/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/clip/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/clip/tostring/)() | Renvoie la représentation textuelle des opérateurs. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageCollectionExtensions.UpdatePagination
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PageCollectionExtensions. Met à jour les numéros de page et les dates d'en-tête et de pied de page pour toutes les pages. Cela fonctionnera si le document a au moins un artefact de pagination avec des données de paramètres spéciaux. Toutes les pages de la collection seront mises à jour avec l'artefact source selon ses paramètres.
+title: "PageCollectionExtensions.UpdatePagination"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PageCollectionExtensions méthode. Met à jour les numéros de page et les dates d'en-tête et de pied de page pour toutes les pages. Cela fonctionnera si le document possède au moins un artefact de pagination avec des données de paramètres spéciaux. Toutes les pages de la collection seront mises à jour avec l'artefact source selon ses paramètres"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/pagecollectionextensions/updatepagination/
 ---
-## Méthode PageCollectionExtensions.UpdatePagination
+## PageCollectionExtensions.UpdatePagination method
 
-Met à jour les numéros de page et les dates d'en-tête et de pied de page pour toutes les pages. Cela fonctionnera si le document a au moins un artefact de pagination avec des données de paramètres spéciaux. Toutes les pages de la collection seront mises à jour avec l'artefact source selon ses paramètres.
+Met à jour les numéros de page et les dates des en-têtes et pieds de page pour toutes les pages. Cela fonctionnera si le document possède au moins un artefact de pagination avec des données de paramètres spéciaux. Toutes les pages de la collection seront mises à jour avec l'artefact source selon ses paramètres.
 
 ```csharp
 public static void UpdatePagination(this PageCollection pageCollection)
@@ -20,7 +20,9 @@ public static void UpdatePagination(this PageCollection pageCollection)
 
 ### Voir aussi
 
-* classe [PageCollection](../../pagecollection/)
-* classe [PageCollectionExtensions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../../pagecollection/)
+* class [PageCollectionExtensions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

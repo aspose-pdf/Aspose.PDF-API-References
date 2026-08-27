@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OutlineCollection. Lance toujours NotImplementedException
+title: "OutlineCollection.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineCollection method. Lance toujours NotImplementedException"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf/outlinecollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-Lance toujours NotImplementedException
+Lance toujours NotImplementedException.
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
@@ -24,16 +24,16 @@ NotImplementedException
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../../outlineitemcollection/)
-* classe [OutlineCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Remove(int) {#remove_1}
 
-Supprime l'élément par index.
+Supprime l'élément par indice.
 
 ```csharp
 public void Remove(int index)
@@ -41,10 +41,12 @@ public void Remove(int index)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | Index de l'élément à supprimer. |
+| index | Int32 | Indice de l'élément à supprimer. |
 
 ### Voir aussi
 
-* classe [OutlineCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Matrix3D.Matrix3D
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Matrix3D. Le constructeur crée une matrice standard 1 à 1 A B C D E F G H I Tx Ty Tz 1 0 0 0 1 0 0 0 1 0 0 0
+title: "Matrix3D.Matrix3D"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Matrix3D. Le constructeur crée une matrice standard 1 à 1  A B C D E F G H I Tx Ty Tz   1 0 0 0 1 0 0 0 1 0 0  0"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/matrix3d/matrix3d/
@@ -22,8 +22,8 @@ Matrix3D m = new Matrix3D();
 
 ### Voir aussi
 
-* classe [Matrix3D](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Matrix3D(double[] matrix3DArray)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| matrix3DArray | Double[] | Tableau de données de la matrice. |
+| matrix3DArray | Double[] | Tableau de données Matrix. |
 
 ## Exemples
 
@@ -49,8 +49,8 @@ Matrix3D m = new Matrix3D(c);
 
 ### Voir aussi
 
-* classe [Matrix3D](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -69,8 +69,8 @@ public Matrix3D(Matrix3D matrix)
 
 ### Voir aussi
 
-* classe [Matrix3D](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -86,11 +86,11 @@ public Matrix3D(double a, double b, double c, double d, double e, double f, doub
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| a | Double | Valeur de la matrice A. |
-| b | Double | Valeur de la matrice B. |
-| c | Double | Valeur de la matrice C. |
-| d | Double | Valeur de la matrice D. |
-| e | Double | Valeur de la matrice E. |
+| a | Double | Une valeur de matrice. |
+| b | Double | Valeur de matrice B. |
+| c | Double | Valeur de matrice C. |
+| d | Double | Valeur de matrice D. |
+| e | Double | Valeur de matrice E. |
 | f | Double | Valeur de la matrice F. |
 | g | Double | Valeur de la matrice G. |
 | h | Double | Valeur de la matrice H. |
@@ -107,6 +107,8 @@ Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
 
 ### Voir aussi
 
-* classe [Matrix3D](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

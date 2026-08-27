@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.THead
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StructureTypeStandard. Groupe de lignes d'en-tête de tableau PDF 1.5 Un groupe de lignes qui constitue l'en-tête d'un tableau. Si le tableau est divisé sur plusieurs pages, ces lignes peuvent être redessinées en haut de chaque fragment de tableau bien qu'il n'y ait qu'un seul élément THead
+title: "StructureTypeStandard.THead"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureTypeStandard champ. Table header row group PDF 1.5 Un groupe de lignes qui constitue l'en-tête d'un tableau. Si le tableau est réparti sur plusieurs pages, ces lignes peuvent être redessinées en haut de chaque fragment de tableau bien qu'il n'existe qu'un seul élément THead"
 type: docs
 weight: 430
 url: /fr/net/aspose.pdf.logicalstructure/structuretypestandard/thead/
 ---
-## Champ StructureTypeStandard.THead
+## StructureTypeStandard.THead field
 
-(Groupe de lignes d'en-tête de tableau; PDF 1.5) Un groupe de lignes qui constitue l'en-tête d'un tableau. Si le tableau est divisé sur plusieurs pages, ces lignes peuvent être redessinées en haut de chaque fragment de tableau (bien qu'il n'y ait qu'un seul élément THead).
+(Table header row group; PDF 1.5) Un groupe de lignes qui constitue l’en‑tête d’un tableau. Si le tableau est réparti sur plusieurs pages, ces lignes peuvent être redessinées en haut de chaque fragment de tableau (bien qu’il n’y ait qu’un seul élément THead).
 
 ```csharp
 public static readonly StructureTypeStandard THead;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard THead;
 
 ### Voir aussi
 
-* classe [StructureTypeStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

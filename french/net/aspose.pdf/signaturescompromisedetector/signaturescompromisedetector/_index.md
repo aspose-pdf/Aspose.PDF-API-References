@@ -1,12 +1,12 @@
 ---
-title: SignaturesCompromiseDetector.SignaturesCompromiseDetector
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de SignaturesCompromiseDetector. Crée une instance de la classe SignaturesCompromiseDetector
+title: "SignaturesCompromiseDetector.SignaturesCompromiseDetector"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SignaturesCompromiseDetector. Crée une instance de la classe SignaturesCompromiseDetector"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/signaturescompromisedetector/signaturescompromisedetector/
 ---
-## Constructeur de SignaturesCompromiseDetector
+## SignaturesCompromiseDetector constructor
 
 Crée une instance de la classe [`SignaturesCompromiseDetector`](../).
 
@@ -20,7 +20,9 @@ public SignaturesCompromiseDetector(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../document/)
-* classe [SignaturesCompromiseDetector](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [SignaturesCompromiseDetector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

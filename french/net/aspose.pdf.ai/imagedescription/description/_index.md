@@ -1,12 +1,12 @@
 ---
-title: ImageDescription.Description
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImageDescription. Obtient ou définit la description associée à l'image
+title: "ImageDescription.Description"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ImageDescription propriété. Obtient ou définit la description associée à l'image"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/imagedescription/description/
 ---
-## Propriété ImageDescription.Description
+## ImageDescription.Description property
 
 Obtient ou définit la description associée à l'image.
 
@@ -16,6 +16,8 @@ public string Description { get; set; }
 
 ### Voir aussi
 
-* classe [ImageDescription](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ImageDescription](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

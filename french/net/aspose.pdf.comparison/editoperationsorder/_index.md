@@ -1,12 +1,12 @@
 ---
-title: Enum EditOperationsOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Comparison.EditOperationsOrder. Spécifie l'ordre des opérations d'édition
+title: "Énumération EditOperationsOrder"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.Comparison.EditOperationsOrder. Spécifie l'ordre des opérations d'édition."
 type: docs
-weight: 3180
+weight: 3290
 url: /fr/net/aspose.pdf.comparison/editoperationsorder/
 ---
-## Énumération EditOperationsOrder
+## EditOperationsOrder enumeration
 
 Spécifie l'ordre des opérations d'édition.
 
@@ -18,10 +18,12 @@ public enum EditOperationsOrder
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| InsertFirst | `0` | Insérer des opérations avant les opérations de suppression. |
-| DeleteFirst | `1` | Supprimer des opérations avant les opérations d'insertion. |
+| InsertFirst | `0` | Opérations d'insertion avant les opérations de suppression. |
+| DeleteFirst | `1` | Opérations de suppression avant les opérations d'insertion. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CustomResourceSavingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Champ HtmlSaveOptions. Ce champ peut contenir une stratégie d'enregistrement qui doit être utilisée si elle est présente lors de la conversion pour un traitement personnalisé des fichiers de ressources référencés créés, comme les images et les polices, liés aux nœuds du HTML enregistré. Cette stratégie doit traiter les ressources et retourner une chaîne qui représente l'URL souhaitable de la ressource enregistrée dans le HTML généré.
+title: "HtmlSaveOptions.CustomResourceSavingStrategy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "HtmlSaveOptions field. Ce champ peut contenir une stratégie d’enregistrement qui doit être utilisée, si elle est présente, pendant la conversion pour gérer de façon personnalisée les fichiers de ressources référencés créés, tels que les images et les polices liées aux nœuds du HTML enregistré. Cette stratégie doit traiter les ressources et renvoyer une chaîne représentant l’URL souhaitée de la ressource enregistrée dans le HTML généré."
 type: docs
 weight: 290
 url: /fr/net/aspose.pdf/htmlsaveoptions/customresourcesavingstrategy/
 ---
-## Champ HtmlSaveOptions.CustomResourceSavingStrategy
+## HtmlSaveOptions.CustomResourceSavingStrategy field
 
-Ce champ peut contenir une stratégie d'enregistrement qui doit être utilisée (si présente) lors de la conversion pour un traitement personnalisé des fichiers de ressources référencés créés (comme les images et les polices) liés aux nœuds du HTML enregistré. Cette stratégie doit traiter les ressources et retourner une chaîne qui représente l'URL souhaitable de la ressource enregistrée dans le HTML généré.
+Ce champ peut contenir la stratégie d’enregistrement qui doit être utilisée (si elle est présente) pendant la conversion pour la gestion personnalisée des fichiers de ressources référencés créés (comme les images et les polices) liés aux nœuds du HTML enregistré. Cette stratégie doit traiter les ressources et retourner une chaîne représentant l’URL souhaitée de la ressource enregistrée dans le HTML généré.
 
 ```csharp
 public ResourceSavingStrategy CustomResourceSavingStrategy;
@@ -16,7 +16,9 @@ public ResourceSavingStrategy CustomResourceSavingStrategy;
 
 ### Voir aussi
 
-* délégué [ResourceSavingStrategy](../../htmlsaveoptions.resourcesavingstrategy/)
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* delegate [ResourceSavingStrategy](../../htmlsaveoptions.resourcesavingstrategy/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

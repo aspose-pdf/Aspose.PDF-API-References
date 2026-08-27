@@ -1,12 +1,12 @@
 ---
-title: Function.Function
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de fonction. Le constructeur par défaut
+title: "Function.Function"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Function. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/function/function/
 ---
-## Constructeur de fonction
+## Function constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Function()
 
 ### Voir aussi
 
-* classe [Function](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Function](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Stamp.StampId
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Stamp. Obtient ou définit l'identifiant du tampon
+title: "Stamp.StampId"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Stamp. Obtient ou définit l'identifiant du tampon"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.facades/stamp/stampid/
 ---
-## Propriété Stamp.StampId
+## Stamp.StampId property
 
 Obtient ou définit l'identifiant du tampon.
 
@@ -16,6 +16,8 @@ public int StampId { get; set; }
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

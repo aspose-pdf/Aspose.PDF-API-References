@@ -1,12 +1,12 @@
 ---
-title: Table.IsBordersIncluded
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la table. Obtient ou définit la bordure incluse dans les largeurs de colonne
+title: "Table.IsBordersIncluded"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Table. Obtient ou définit la bordure incluse dans les largeurs de colonne"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf/table/isbordersincluded/
 ---
-## Propriété Table.IsBordersIncluded
+## Table.IsBordersIncluded property
 
 Obtient ou définit la bordure incluse dans les largeurs de colonne.
 
@@ -16,6 +16,8 @@ public bool IsBordersIncluded { get; set; }
 
 ### Voir aussi
 
-* classe [Table](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

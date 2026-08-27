@@ -1,14 +1,14 @@
 ---
-title: StampInfo.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StampInfo. Obtient le texte dans le tampon
+title: "StampInfo.Text"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StampInfo. Obtient le texte du tampon"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.facades/stampinfo/text/
 ---
-## Propriété StampInfo.Text
+## StampInfo.Text property
 
-Obtient le texte dans le tampon.
+Obtient le texte du tampon.
 
 ```csharp
 public string Text { get; }
@@ -16,6 +16,8 @@ public string Text { get; }
 
 ### Voir aussi
 
-* classe [StampInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

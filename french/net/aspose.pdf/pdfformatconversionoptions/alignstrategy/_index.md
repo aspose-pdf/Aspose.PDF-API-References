@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.AlignStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfFormatConversionOptions. Stratégie pour aligner le texte. Ce paramètre a du sens uniquement lorsque le drapeau [`AlignText`](../aligntext/) est défini sur true
+title: "PdfFormatConversionOptions.AlignStrategy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFormatConversionOptions champ. Stratégie pour aligner le texte. Ce paramètre n'a de sens que lorsque le drapeau AlignText est défini sur true"
 type: docs
-weight: 230
+weight: 240
 url: /fr/net/aspose.pdf/pdfformatconversionoptions/alignstrategy/
 ---
-## Champ PdfFormatConversionOptions.AlignStrategy
+## PdfFormatConversionOptions.AlignStrategy field
 
-Stratégie pour aligner le texte. Ce paramètre a du sens uniquement lorsque le drapeau [`AlignText`](../aligntext/) est défini sur true.
+Stratégie pour aligner le texte. Ce paramètre n'a de sens que lorsque le drapeau [`AlignText`](../aligntext/) est défini sur true.
 
 ```csharp
 public SegmentAlignStrategy AlignStrategy;
@@ -20,3 +20,5 @@ public SegmentAlignStrategy AlignStrategy;
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

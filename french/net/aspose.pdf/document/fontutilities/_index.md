@@ -1,14 +1,14 @@
 ---
-title: Document.FontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Instance IDocumentFontUtilities
+title: "Document.FontUtilities"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Instance IDocumentFontUtilities"
 type: docs
-weight: 200
+weight: 220
 url: /fr/net/aspose.pdf/document/fontutilities/
 ---
-## Propriété Document.FontUtilities
+## Document.FontUtilities property
 
-Instance IDocumentFontUtilities
+Instance de IDocumentFontUtilities
 
 ```csharp
 public IDocumentFontUtilities FontUtilities { get; }
@@ -17,6 +17,8 @@ public IDocumentFontUtilities FontUtilities { get; }
 ### Voir aussi
 
 * interface [IDocumentFontUtilities](../../document.idocumentfontutilities/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

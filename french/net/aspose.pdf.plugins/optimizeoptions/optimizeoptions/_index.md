@@ -1,12 +1,12 @@
 ---
-title: OptimizeOptions.OptimizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur OptimizeOptions. Le constructeur par défaut
+title: "OptimizeOptions.OptimizeOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur OptimizeOptions. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/optimizeoptions/optimizeoptions/
 ---
-## Constructeur OptimizeOptions
+## OptimizeOptions constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public OptimizeOptions()
 
 ### Voir aussi
 
-* classe [OptimizeOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [OptimizeOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

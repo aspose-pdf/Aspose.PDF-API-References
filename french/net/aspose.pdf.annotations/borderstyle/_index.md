@@ -1,12 +1,12 @@
 ---
-title: Enum BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BorderStyle d'Aspose.Pdf.Annotations. Décrit le style de la bordure de l'annotation
+title: "Énum BorderStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.BorderStyle enum. Décrit le style de la bordure de l'annotation"
 type: docs
-weight: 1530
+weight: 1620
 url: /fr/net/aspose.pdf.annotations/borderstyle/
 ---
-## Énumération BorderStyle
+## BorderStyle enumeration
 
 Décrit le style de la bordure de l'annotation.
 
@@ -18,13 +18,15 @@ public enum BorderStyle
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Solide | `0` | Bordure solide. |
-| Tirets | `1` | Bordure en tirets. |
-| Biseauté | `2` | Bordure biseautée. |
-| Enfoncé | `3` | Bordure enfoncée. |
-| Souligné | `4` | Bordure soulignée. |
+| Solid | `0` | Bordure solide. |
+| Dashed | `1` | Bordure pointillée. |
+| Beveled | `2` | Bordure biseautée. |
+| Inset | `3` | Bordure en retrait. |
+| Underline | `4` | Bordure soulignée. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

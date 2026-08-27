@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TryEncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileSecurity. Crypte le fichier Pdf avec un mot de passe utilisateur et un mot de passe propriétaire et définit les privilèges d'accès du document. Le mot de passe utilisateur et le mot de passe propriétaire peuvent être nuls ou vides. Le mot de passe propriétaire sera remplacé par une chaîne aléatoire si le mot de passe propriétaire d'entrée est nul ou vide. Ne lance pas d'exception si le processus échoue.
+title: "PdfFileSecurity.TryEncryptFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileSecurity. Chiffre le fichier Pdf avec le mot de passe utilisateur et le mot de passe propriétaire et définit les privilèges d'accès du document. Le mot de passe utilisateur et le mot de passe propriétaire peuvent être null ou vides. Le mot de passe propriétaire sera remplacé par une chaîne aléatoire si le mot de passe propriétaire fourni est null ou vide. Ne lève pas d'exception si le processus échoue."
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.facades/pdffilesecurity/tryencryptfile/
 ---
-## Méthode PdfFileSecurity.TryEncryptFile
+## PdfFileSecurity.TryEncryptFile method
 
-Crypte le fichier Pdf avec un mot de passe utilisateur et un mot de passe propriétaire et définit les privilèges d'accès du document. Le mot de passe utilisateur et le mot de passe propriétaire peuvent être nuls ou vides. Le mot de passe propriétaire sera remplacé par une chaîne aléatoire si le mot de passe propriétaire d'entrée est nul ou vide. Ne lance pas d'exception si le processus échoue.
+Crypte le fichier Pdf avec le mot de passe utilisateur et le mot de passe propriétaire et définit les privilèges du document pour l'accès. Le mot de passe utilisateur et le mot de passe propriétaire peuvent être null ou vides. Le mot de passe propriétaire sera remplacé par une chaîne aléatoire si le mot de passe propriétaire fourni est null ou vide. Ne lève pas d'exception si le processus échoue.
 
 ```csharp
 public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -17,14 +17,14 @@ public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPr
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| userPassword | String | Mot de passe utilisateur. |
-| ownerPassword | String | Mot de passe propriétaire. |
-| privilege | DocumentPrivilege | Définir le privilège. |
-| keySize | KeySize | KeySize.x40 pour le cryptage de 40 bits, KeySize.x128 pour le cryptage de 128 bits et KeySize.x256 pour le cryptage de 256 bits. |
+| userPassword | String | Mot de passe de l'utilisateur. |
+| ownerPassword | String | Mot de passe du propriétaire. |
+| privilège | DocumentPrivilege | Définir le privilège. |
+| keySize | KeySize | KeySize.x40 pour le chiffrement 40 bits, KeySize.x128 pour le chiffrement 128 bits et KeySize.x256 pour le chiffrement 256 bits. |
 
 ### Valeur de retour
 
-Vrai pour le succès, ou faux.
+Vrai en cas de succès, ou faux.
 
 ## Exemples
 
@@ -44,8 +44,10 @@ Dim result As Boolean = fileSecurity.TryEncryptFile("userpass", "ownerpass", Doc
 
 ### Voir aussi
 
-* classe [DocumentPrivilege](../../documentprivilege/)
-* énum [KeySize](../../keysize/)
-* classe [PdfFileSecurity](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

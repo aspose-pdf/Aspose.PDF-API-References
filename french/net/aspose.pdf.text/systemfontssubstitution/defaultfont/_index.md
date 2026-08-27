@@ -1,14 +1,14 @@
 ---
-title: SystemFontsSubstitution.DefaultFont
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SystemFontsSubstitution. Obtient ou définit la police de substitution par défaut. La police est utilisée lorsque aucune autre substitution valide n'a été trouvée mais que la police initiale appartient à la catégorie de substitution cible FontCategories
+title: "SystemFontsSubstitution.DefaultFont"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SystemFontsSubstitution. Obtient ou définit la police de substitution par défaut. La police est utilisée lorsqu'aucune autre substitution valide n'a été trouvée mais que la police initiale appartient à la catégorie de substitution cible FontCategories"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/systemfontssubstitution/defaultfont/
 ---
-## Propriété SystemFontsSubstitution.DefaultFont
+## SystemFontsSubstitution.DefaultFont property
 
-Obtient ou définit la police de substitution par défaut. La police est utilisée lorsque aucune autre substitution valide n'a été trouvée mais que la police initiale appartient à la catégorie de substitution cible ([`FontCategories`](../fontcategories/)).
+Obtient ou définit la police de substitution par défaut. La police est utilisée lorsqu'aucune autre substitution valide n'a été trouvée mais que la police initiale appartient à la catégorie de substitution cible ([`FontCategories`](../fontcategories/)).
 
 ```csharp
 public Font DefaultFont { get; set; }
@@ -16,7 +16,9 @@ public Font DefaultFont { get; set; }
 
 ### Voir aussi
 
-* classe [Font](../../font/)
-* classe [SystemFontsSubstitution](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Font](../../font/)
+* class [SystemFontsSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

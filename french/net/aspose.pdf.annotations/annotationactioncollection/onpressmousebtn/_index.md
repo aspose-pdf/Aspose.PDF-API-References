@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnPressMouseBtn
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété AnnotationActionCollection. Obtient ou définit une action à effectuer lorsque le bouton de la souris est enfoncé à l'intérieur de la zone active des annotations
+title: "AnnotationActionCollection.OnPressMouseBtn"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AnnotationActionCollection propriété. Obtient ou définit une action à exécuter lorsque le bouton de la souris est enfoncé dans la zone active des annotations"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.annotations/annotationactioncollection/onpressmousebtn/
 ---
-## Propriété AnnotationActionCollection.OnPressMouseBtn
+## AnnotationActionCollection.OnPressMouseBtn property
 
-Obtient ou définit une action à effectuer lorsque le bouton de la souris est enfoncé à l'intérieur de la zone active de l'annotation.
+Obtient ou définit une action à exécuter lorsque le bouton de la souris est enfoncé à l'intérieur de la zone active de l'annotation.
 
 ```csharp
 public PdfAction OnPressMouseBtn { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnPressMouseBtn { get; set; }
 
 ### Voir aussi
 
-* classe [PdfAction](../../pdfaction/)
-* classe [AnnotationActionCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

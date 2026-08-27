@@ -1,12 +1,12 @@
 ---
-title: Class GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.GraphInfo. Représente les informations graphiques
+title: "Class GraphInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.GraphInfo class. Représente les informations graphiques"
 type: docs
-weight: 5340
+weight: 5460
 url: /fr/net/aspose.pdf/graphinfo/
 ---
-## Classe GraphInfo
+## GraphInfo class
 
 Représente les informations graphiques.
 
@@ -33,8 +33,8 @@ public sealed class GraphInfo : ICloneable
 | [RotationAngle](../../aspose.pdf/graphinfo/rotationangle/) { get; set; } | Obtient ou définit une valeur flottante qui indique l'angle de rotation du système de coordonnées lors de la transformation d'un système de coordonnées. |
 | [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex/) { get; set; } | Obtient ou définit une valeur flottante qui indique le taux d'échelle de la coordonnée x lors de la transformation d'un système de coordonnées. |
 | [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey/) { get; set; } | Obtient ou définit une valeur flottante qui indique le taux d'échelle de la coordonnée y lors de la transformation d'un système de coordonnées. |
-| [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex/) { get; set; } | Obtient ou définit une valeur flottante qui indique l'angle de déformation de la coordonnée x lors de la transformation d'un système de coordonnées. |
-| [SkewAngleY](../../aspose.pdf/graphinfo/skewangley/) { get; set; } | Obtient ou définit une valeur flottante qui indique l'angle de déformation de la coordonnée y lors de la transformation d'un système de coordonnées. |
+| [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex/) { get; set; } | Obtient ou définit une valeur flottante qui indique l'angle de cisaillement de la coordonnée x lors de la transformation d'un système de coordonnées. |
+| [SkewAngleY](../../aspose.pdf/graphinfo/skewangley/) { get; set; } | Obtient ou définit une valeur flottante qui indique l'angle de cisaillement de la coordonnée y lors de la transformation d'un système de coordonnées. |
 | [X](../../aspose.pdf/graphinfo/x/) { get; } | Récupère la coordonnée X d'une bordure verticale lors de l'utilisation de TableAbsorber, et renvoie "-1" pour une bordure horizontale. |
 | [Y](../../aspose.pdf/graphinfo/y/) { get; } | Récupère la coordonnée Y d'une bordure horizontale lors de l'utilisation de TableAbsorber, et renvoie "-1" pour une bordure verticale. |
 
@@ -42,9 +42,11 @@ public sealed class GraphInfo : ICloneable
 
 | Nom | Description |
 | --- | --- |
-| [Clone](../../aspose.pdf/graphinfo/clone/)() | Clone les informations graphiques. |
+| [Clone](../../aspose.pdf/graphinfo/clone/)() | Cloner les informations graphiques. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

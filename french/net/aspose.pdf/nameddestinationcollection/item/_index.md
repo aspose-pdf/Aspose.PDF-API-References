@@ -1,12 +1,12 @@
 ---
-title: NamedDestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété NamedDestinationCollection. Obtient ou définit le rendez-vous par son nom
+title: "NamedDestinationCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété NamedDestinationCollection. Obtient ou définit le rendez-vous par son nom"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/nameddestinationcollection/item/
 ---
-## Indexeur NamedDestinationCollection
+## NamedDestinationCollection indexer
 
 Obtient ou définit le rendez-vous par son nom.
 
@@ -16,7 +16,7 @@ public IAppointment this[string name] { get; set; }
 
 | Paramètre | Description |
 | --- | --- |
-| name | Nom du rendez-vous. |
+| nom | Nom du rendez-vous. |
 
 ### Valeur de retour
 
@@ -28,3 +28,5 @@ Rendez-vous
 * class [NamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

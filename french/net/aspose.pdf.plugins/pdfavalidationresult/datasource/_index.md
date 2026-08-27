@@ -1,12 +1,12 @@
 ---
-title: PdfAValidationResult.DataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfAValidationResult. Obtient la source de données qui a été validée
+title: "PdfAValidationResult.DataSource"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfAValidationResult. Obtient la source de données qui a été validée"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/pdfavalidationresult/datasource/
 ---
-## Champ PdfAValidationResult.DataSource
+## PdfAValidationResult.DataSource field
 
 Obtient la source de données qui a été validée.
 
@@ -17,6 +17,8 @@ public readonly IDataSource DataSource;
 ### Voir aussi
 
 * interface [IDataSource](../../idatasource/)
-* classe [PdfAValidationResult](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfAValidationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

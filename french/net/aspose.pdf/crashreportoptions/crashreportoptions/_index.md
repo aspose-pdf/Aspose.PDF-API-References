@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.CrashReportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de CrashReportOptions. Crée CrashReportOptions avec des paramètres par défaut
+title: "CrashReportOptions.CrashReportOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur CrashReportOptions. Crée un CrashReportOptions avec des paramètres par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/crashreportoptions/crashreportoptions/
 ---
-## Constructeur de CrashReportOptions
+## CrashReportOptions constructor
 
-Crée CrashReportOptions avec des paramètres par défaut.
+Crée CrashReportOptions avec les paramètres par défaut.
 
 ```csharp
 public CrashReportOptions(Exception exception)
@@ -26,6 +26,8 @@ public CrashReportOptions(Exception exception)
 
 ### Voir aussi
 
-* classe [CrashReportOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

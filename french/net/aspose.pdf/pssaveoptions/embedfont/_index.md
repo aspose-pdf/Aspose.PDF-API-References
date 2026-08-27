@@ -1,14 +1,14 @@
 ---
-title: PsSaveOptions.EmbedFont
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PsSaveOptions. Obtient/définit un indicateur qui indique si les polices doivent être intégrées dans le document PS résultant
+title: "PsSaveOptions.EmbedFont"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PsSaveOptions. Obtient/definit le drapeau qui indique si les polices doivent être incorporées dans le document PS résultant"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/pssaveoptions/embedfont/
 ---
-## Propriété PsSaveOptions.EmbedFont
+## PsSaveOptions.EmbedFont property
 
-Obtient/définit un indicateur qui indique si les polices doivent être intégrées dans le document PS résultant.
+Obtient/définit le drapeau indiquant si les polices doivent être incorporées dans le document PS résultant.
 
 ```csharp
 public bool EmbedFont { get; set; }
@@ -16,6 +16,8 @@ public bool EmbedFont { get; set; }
 
 ### Voir aussi
 
-* classe [PsSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

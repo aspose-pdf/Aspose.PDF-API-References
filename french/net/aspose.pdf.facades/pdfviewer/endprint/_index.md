@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.EndPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Événement PdfViewer. Ajoute/retire l'abonnement à l'événement d'impression de la dernière page
+title: "PdfViewer.EndPrint"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfViewer événement. Ajoute/supprime l'abonnement à l'événement d'impression de la dernière page"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.facades/pdfviewer/endprint/
 ---
-## Événement PdfViewer.EndPrint
+## PdfViewer.EndPrint event
 
-Ajoute/retire l'abonnement à l'événement d'impression de la dernière page.
+Ajoute/supprime l'abonnement à l'événement d'impression de la dernière page.
 
 ```csharp
 public event CancelEventHandler EndPrint;
@@ -16,6 +16,8 @@ public event CancelEventHandler EndPrint;
 
 ### Voir aussi
 
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

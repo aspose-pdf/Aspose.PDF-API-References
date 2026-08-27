@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HorizontalAlignment. Obtient ou définit les paramètres d'alignement à gauche
+title: "HeaderFooterSettings.HorizontalAlignment.Left"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété HorizontalAlignment. Obtient ou définit les paramètres d'alignement à gauche."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/headerfootersettings.horizontalalignment/left/
 ---
-## Propriété HeaderFooterSettings.HorizontalAlignment.Left
+## HeaderFooterSettings.HorizontalAlignment.Left property
 
 Obtient ou définit les paramètres d'alignement à gauche.
 
@@ -16,7 +16,9 @@ public Left Left { get; set; }
 
 ### Voir aussi
 
-* classe [Left](../../left/)
-* classe [HorizontalAlignment](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Left](../../left/)
+* class [HorizontalAlignment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

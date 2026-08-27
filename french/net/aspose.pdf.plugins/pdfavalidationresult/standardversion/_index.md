@@ -1,12 +1,12 @@
 ---
-title: PdfAValidationResult.StandardVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfAValidationResult. Obtient la version de la norme PDF/A utilisée pour la validation
+title: "PdfAValidationResult.StandardVersion"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfAValidationResult. Obtient la version du standard PDF/A utilisée pour la validation"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/pdfavalidationresult/standardversion/
 ---
-## Champ PdfAValidationResult.StandardVersion
+## PdfAValidationResult.StandardVersion field
 
 Obtient la version de la norme PDF/A utilisée pour la validation.
 
@@ -20,3 +20,5 @@ public readonly PdfAStandardVersion StandardVersion;
 * class [PdfAValidationResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

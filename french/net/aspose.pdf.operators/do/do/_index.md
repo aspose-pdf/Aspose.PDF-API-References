@@ -1,7 +1,7 @@
 ---
-title: Do.Do
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Do. Construit un nouvel opérateur Do
+title: "Do.Do"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Do. Construit un nouvel opérateur Do"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/do/do/
@@ -16,19 +16,19 @@ public Do(string name)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| name | String | Nom de l'XObject invoqué. |
+| nom | String | Nom du XObject invoqué. |
 
 ### Voir aussi
 
-* classe [Do](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [Do](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Do() {#constructor}
 
-Construit un nouvel opérateur Do. Utilisé pour récupérer tous les opérateurs Do, c'est-à-dire sans vérifier leurs noms d'arguments.
+Construit un nouvel opérateur Do. Utilisé pour récupérer tous les opérateurs Do, c.-à-d. sans vérifier leurs noms d'argument.
 
 ```csharp
 public Do()
@@ -36,6 +36,8 @@ public Do()
 
 ### Voir aussi
 
-* classe [Do](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [Do](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

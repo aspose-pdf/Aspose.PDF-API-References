@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetArrayValue
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode StructureAttribute. Obtient le tableau des noms de valeur
+title: "StructureAttribute.GetArrayValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode StructureAttribute. Obtient le Tableau de noms de valeur"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.logicalstructure/structureattribute/getarrayvalue/
 ---
-## Méthode StructureAttribute.GetArrayValue
+## StructureAttribute.GetArrayValue method
 
-Obtient le tableau des noms de valeur.
+Obtient le tableau de noms de valeur.
 
 ```csharp
 public AttributeName[] GetArrayValue()
@@ -16,11 +16,13 @@ public AttributeName[] GetArrayValue()
 
 ### Valeur de retour
 
-Tableau des noms de valeur.
+Tableau de noms de valeur.
 
 ### Voir aussi
 
-* classe [AttributeName](../../attributename/)
-* classe [StructureAttribute](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

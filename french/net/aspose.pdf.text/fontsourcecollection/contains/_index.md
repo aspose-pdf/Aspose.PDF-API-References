@@ -1,14 +1,14 @@
 ---
-title: FontSourceCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FontSourceCollection. Détermine si un élément est dans la collection
+title: "FontSourceCollection.Contains"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FontSourceCollection. Détermine si un élément se trouve dans la collection"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.text/fontsourcecollection/contains/
 ---
-## Méthode FontSourceCollection.Contains
+## FontSourceCollection.Contains method
 
-Détermine si un élément est dans la collection.
+Détermine si un élément se trouve dans la collection.
 
 ```csharp
 public bool Contains(FontSource item)
@@ -20,11 +20,13 @@ public bool Contains(FontSource item)
 
 ### Valeur de retour
 
-Vrai - si l'élément est trouvé ; sinon, faux.
+True - si l’élément est trouvé ; sinon, false.
 
 ### Voir aussi
 
-* classe [FontSource](../../fontsource/)
-* classe [FontSourceCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

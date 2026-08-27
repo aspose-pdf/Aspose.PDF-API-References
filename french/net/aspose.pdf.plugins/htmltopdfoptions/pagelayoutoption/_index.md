@@ -1,12 +1,12 @@
 ---
-title: HtmlToPdfOptions.PageLayoutOption
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlToPdfOptions. Obtient ou définit l'option de mise en page
+title: "HtmlToPdfOptions.PageLayoutOption"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "HtmlToPdfOptions propriété. Obtient ou définit l'option de mise en page"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.plugins/htmltopdfoptions/pagelayoutoption/
 ---
-## Propriété HtmlToPdfOptions.PageLayoutOption
+## HtmlToPdfOptions.PageLayoutOption property
 
 Obtient ou définit l'option de mise en page.
 
@@ -20,3 +20,5 @@ public HtmlPageLayoutOption PageLayoutOption { get; set; }
 * class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

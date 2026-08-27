@@ -1,14 +1,14 @@
 ---
-title: LineInfo.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LineInfo. Obtient ou définit le style de bordure d'une ligne 0 représente solide 1 représente pointillé 2 représente biseauté 3 représente insérer 4 représente souligné
+title: "LineInfo.BorderStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LineInfo. Obtient ou définit le style de bordure d'une ligne 0 représente plein 1 représente pointillé 2 représente biseauté 3 représente inséré 4 représente souligné"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/lineinfo/borderstyle/
 ---
-## Propriété LineInfo.BorderStyle
+## LineInfo.BorderStyle property
 
-Obtient ou définit le style de bordure d'une ligne, 0 représente solide, 1 représente pointillé, 2 représente biseauté, 3 représente insérer, 4 représente souligné.
+Obtient ou définit le style de bordure d'une ligne, 0 représente plein, 1 représente en pointillé, 2 représente biseauté, 3 représente inséré, 4 représente souligné.
 
 ```csharp
 public int BorderStyle { get; set; }
@@ -16,6 +16,8 @@ public int BorderStyle { get; set; }
 
 ### Voir aussi
 
-* classe [LineInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

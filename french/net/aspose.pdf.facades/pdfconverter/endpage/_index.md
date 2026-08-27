@@ -1,12 +1,12 @@
 ---
-title: PdfConverter.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfConverter. Obtient ou définit la position de fin que vous souhaitez convertir
+title: "PdfConverter.EndPage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfConverter. Obtient ou définit la position de fin que vous souhaitez convertir"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/pdfconverter/endpage/
 ---
-## Propriété PdfConverter.EndPage
+## PdfConverter.EndPage property
 
 Obtient ou définit la position de fin que vous souhaitez convertir.
 
@@ -16,6 +16,8 @@ public int EndPage { get; set; }
 
 ### Voir aussi
 
-* classe [PdfConverter](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

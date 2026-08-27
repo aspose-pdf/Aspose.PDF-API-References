@@ -1,12 +1,12 @@
 ---
-title: Layer.Unlock
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Layer. Déverrouille la couche
+title: "Layer.Unlock"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Layer. Déverrouille le calque"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf/layer/unlock/
 ---
-## Méthode Layer.Unlock
+## Layer.Unlock method
 
 Déverrouille la couche.
 
@@ -16,6 +16,8 @@ public void Unlock()
 
 ### Voir aussi
 
-* classe [Layer](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

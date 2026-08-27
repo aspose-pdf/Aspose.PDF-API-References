@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIClient. Obtient une instance de ISummaryCopilot avec les options spécifiées
+title: "OpenAIClient.GetSummaryCopilot"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAIClient. Obtient une instance de ISummaryCopilot avec les options spécifiées"
 type: docs
-weight: 290
+weight: 300
 url: /fr/net/aspose.pdf.ai/openaiclient/getsummarycopilot/
 ---
-## Méthode OpenAIClient.GetSummaryCopilot
+## OpenAIClient.GetSummaryCopilot method
 
 Obtient une instance de [`ISummaryCopilot`](../../isummarycopilot/) avec les options spécifiées.
 
@@ -31,3 +31,5 @@ Une instance de [`ISummaryCopilot`](../../isummarycopilot/).
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

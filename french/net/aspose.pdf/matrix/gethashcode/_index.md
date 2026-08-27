@@ -1,12 +1,12 @@
 ---
-title: Matrix.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Matrix. Code de hachage pour l'objet
+title: "Matrix.GetHashCode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Matrix. Code de hachage pour l'objet"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf/matrix/gethashcode/
 ---
-## Méthode Matrix.GetHashCode
+## Matrix.GetHashCode method
 
 Code de hachage pour l'objet.
 
@@ -20,6 +20,8 @@ Code de hachage.
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

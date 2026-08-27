@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentsWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ContentsResizeParameters. Obtient ou définit la largeur du contenu de la page source sur la page résultante
+title: "PdfFileEditor.ContentsResizeParameters.ContentsWidth"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ContentsResizeParameters. Obtient ou définit la largeur du contenu de la page source sur la page résultante."
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentswidth/
 ---
-## Propriété PdfFileEditor.ContentsResizeParameters.ContentsWidth
+## PdfFileEditor.ContentsResizeParameters.ContentsWidth property
 
 Obtient ou définit la largeur du contenu de la page source sur la page résultante.
 
@@ -16,7 +16,9 @@ public ContentsResizeValue ContentsWidth { get; set; }
 
 ### Voir aussi
 
-* classe [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
-* classe [ContentsResizeParameters](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

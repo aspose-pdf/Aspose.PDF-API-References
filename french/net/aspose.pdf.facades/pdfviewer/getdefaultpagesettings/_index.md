@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.GetDefaultPageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfViewer. Obtient les paramètres de page par défaut
+title: "PdfViewer.GetDefaultPageSettings"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfViewer. Obtient les paramètres de page par défaut"
 type: docs
 weight: 300
 url: /fr/net/aspose.pdf.facades/pdfviewer/getdefaultpagesettings/
 ---
-## Méthode PdfViewer.GetDefaultPageSettings
+## PdfViewer.GetDefaultPageSettings method
 
 Obtient les paramètres de page par défaut.
 
@@ -16,11 +16,13 @@ public PageSettings GetDefaultPageSettings()
 
 ### Valeur de retour
 
-Objet de paramètres de page.
+Objet des paramètres de page.
 
 ### Voir aussi
 
-* classe [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

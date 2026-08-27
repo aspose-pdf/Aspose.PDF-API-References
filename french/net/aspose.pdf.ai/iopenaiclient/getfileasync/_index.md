@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IOpenAIClient. Récupère les détails d'un fichier spécifique de manière asynchrone
+title: "IOpenAIClient.GetFileAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IOpenAIClient. Récupère les détails d'un fichier spécifique de manière asynchrone"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf.ai/iopenaiclient/getfileasync/
 ---
-## Méthode IOpenAIClient.GetFileAsync
+## IOpenAIClient.GetFileAsync method
 
-Récupère les détails d'un fichier spécifique de manière asynchrone.
+Récupère les détails d'un fichier spécifique de façon asynchrone.
 
 ```csharp
 public Task<FileResponse> GetFileAsync(string fileId, 
@@ -32,7 +32,9 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 ### Voir aussi
 
-* classe [FileResponse](../../fileresponse/)
+* class [FileResponse](../../fileresponse/)
 * interface [IOpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

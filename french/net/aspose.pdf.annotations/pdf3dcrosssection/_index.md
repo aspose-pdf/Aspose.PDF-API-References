@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DCrossSection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DCrossSection class. Class PDF3DCrossSection
+title: "Classe PDF3DCrossSection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.PDF3DCrossSection class. Classe PDF3DCrossSection"
 type: docs
-weight: 2180
+weight: 2270
 url: /fr/net/aspose.pdf.annotations/pdf3dcrosssection/
 ---
-## Classe PDF3DCrossSection
+## PDF3DCrossSection class
 
 Classe PDF3DCrossSection.
 
@@ -24,7 +24,7 @@ public class PDF3DCrossSection
 
 | Nom | Description |
 | --- | --- |
-| [Center](../../aspose.pdf.annotations/pdf3dcrosssection/center/) { get; set; } | Obtient ou définit le centre de rotation de la coupe transversale. |
+| [Center](../../aspose.pdf.annotations/pdf3dcrosssection/center/) { get; set; } | Obtient ou définit le centre de rotation de la section transversale. |
 | [CuttingPlaneColor](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplanecolor/) { get; set; } | Obtient ou définit la couleur du plan de coupe. |
 | [CuttingPlaneOpacity](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/) { get; set; } | Obtient ou définit l'opacité du plan de coupe. |
 | [CuttingPlaneOrientation](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneorientation/) { get; set; } | Obtient ou définit l'orientation du plan de coupe. |
@@ -33,5 +33,7 @@ public class PDF3DCrossSection
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

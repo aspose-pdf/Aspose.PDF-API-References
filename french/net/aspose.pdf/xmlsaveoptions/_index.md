@@ -1,12 +1,12 @@
 ---
-title: Class XmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.XmlSaveOptions. Options d'enregistrement pour l'exportation au format Xml
+title: "Class XmlSaveOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.XmlSaveOptions class. Options d’enregistrement pour l’exportation au format Xml"
 type: docs
-weight: 11400
+weight: 11590
 url: /fr/net/aspose.pdf/xmlsaveoptions/
 ---
-## Classe XmlSaveOptions
+## XmlSaveOptions class
 
 Options d'enregistrement pour l'exportation au format Xml
 
@@ -24,31 +24,31 @@ public class XmlSaveOptions : SaveOptions
 
 | Nom | Description |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si les glyphes de police seront mis en cache lors de la préparation des pages aps. Améliore les performances de conversion du PDF vers d'autres formats mais augmente la consommation de mémoire. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si l'objet Response sera fermé après que le document ait été enregistré dans la réponse. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format de sauvegarde des données. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback pour gérer les avertissements générés. Le WarningHandler retourne un élément de l'énumération ReturnAction spécifiant soit Continue soit Abort. Continue est l'action par défaut et l'opération de sauvegarde continue, cependant l'utilisateur peut également retourner Abort dans ce cas l'opération de sauvegarde doit cesser. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Obtient ou définit la valeur booléenne qui indique si les glyphes de police seront mis en cache lors de la préparation des pages aps. Améliore les performances de la conversion pdf vers d’autres formats mais augmente la consommation de mémoire. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Obtient ou définit la valeur booléenne qui indique si l’objet Response sera fermé après que le document ait été enregistré dans la réponse. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format d’enregistrement des données. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Rappel pour gérer les avertissements générés. Le WarningHandler renvoie l’élément d’énumération ReturnAction spécifiant soit Continue, soit Abort. Continue est l’action par défaut et l’opération Save se poursuit, cependant l’utilisateur peut également renvoyer Abort auquel cas l’opération Save doit s’arrêter. |
 
 ## Exemples
 
-L'exemple suivant montre comment convertir un fichier PDF en fichier XML
+L’exemple suivant montre comment convertir un fichier PDF en fichier XML
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Le chemin du répertoire des documents.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your PDF File.
+	// Le chemin vers votre fichier PDF.
 	var pdfFile = Path.Combine(dataDir, "PDF-to-XML.pdf");
 
-	// The path to output XML File.
+	// Le chemin du fichier XML de sortie.
 	var xmlFile= Path.Combine(dataDir, "PDF-to-XML.xml");
 		
 	using (Document pdfDocument = new Document(pdfFile)){
-		// Initialize XmlSaveOptions	
+		// Initialiser XmlSaveOptions	
 		XmlSaveOptions saveOptions = new XmlSaveOptions();
 		
-		// Save XML file
+		// Enregistrer le fichier XML
 		pdfDocument.Save(xmlFile, saveOptions);
 	}
 ```
@@ -76,6 +76,8 @@ L'exemple suivant montre comment convertir un fichier PDF en fichier XML
 
 ### Voir aussi
 
-* classe [SaveOptions](../saveoptions/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.DeleteFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IOpenAIClient. Supprime un fichier spécifique de manière asynchrone
+title: "IOpenAIClient.DeleteFileAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "IOpenAIClient méthode. Supprime un fichier spécifique de manière asynchrone"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.ai/iopenaiclient/deletefileasync/
 ---
-## Méthode IOpenAIClient.DeleteFileAsync
+## IOpenAIClient.DeleteFileAsync method
 
-Supprime un fichier spécifique de manière asynchrone.
+Supprime un fichier spécifique de façon asynchrone.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteFileAsync(string fileId, 
@@ -32,7 +32,9 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 ### Voir aussi
 
-* classe [DeleteStatusResponse](../../deletestatusresponse/)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
 * interface [IOpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

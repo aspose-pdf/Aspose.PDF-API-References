@@ -1,14 +1,14 @@
 ---
-title: HtmlFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode HtmlFragment. Clone un fragment html
+title: "HtmlFragment.Clone"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode HtmlFragment. Clone le fragment HTML"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/htmlfragment/clone/
 ---
-## Méthode HtmlFragment.Clone
+## HtmlFragment.Clone method
 
-Clone un fragment html.
+Clone le fragment HTML.
 
 ```csharp
 public override object Clone()
@@ -16,10 +16,12 @@ public override object Clone()
 
 ### Valeur de retour
 
-Objet de fragment html cloné.
+Objet fragment HTML cloné.
 
 ### Voir aussi
 
-* classe [HtmlFragment](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

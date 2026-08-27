@@ -1,14 +1,14 @@
 ---
-title: XYZExplicitDestination.CreateDestinationToUpperLeftCorner
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XYZExplicitDestination. Créer une destination dans le coin supérieur gauche de la page spécifiée
+title: "XYZExplicitDestination.CreateDestinationToUpperLeftCorner"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XYZExplicitDestination. Crée une destination vers le coin supérieur gauche de la page spécifiée"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/
 ---
 ## CreateDestinationToUpperLeftCorner(Page, double) {#createdestinationtoupperleftcorner_1}
 
-Créer une destination dans le coin supérieur gauche de la page spécifiée.
+Crée une destination vers le coin supérieur gauche de la page spécifiée.
 
 ```csharp
 public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page, double zoom)
@@ -21,20 +21,20 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 
 ### Valeur de retour
 
-Objet de destination.
+Objet Destination.
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [XYZExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateDestinationToUpperLeftCorner(Page) {#createdestinationtoupperleftcorner}
 
-Créer une destination vers la page spécifiée.
+Crée une destination vers la page spécifiée.
 
 ```csharp
 public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page)
@@ -46,11 +46,13 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 
 ### Valeur de retour
 
-Objet de destination.
+Objet Destination.
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [XYZExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

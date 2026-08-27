@@ -1,12 +1,12 @@
 ---
-title: XpsSaveOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XpsSaveOptions. Définit la taille du lot si la conversion par lots est applicable à la paire de formats source et destination
+title: "XpsSaveOptions.BatchSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XpsSaveOptions. Définit la taille du lot si la conversion par lots est applicable à la paire de formats source et destination"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/xpssaveoptions/batchsize/
 ---
-## Propriété XpsSaveOptions.BatchSize
+## XpsSaveOptions.BatchSize property
 
 Définit la taille du lot si la conversion par lots est applicable à la paire de formats source et destination.
 
@@ -16,6 +16,8 @@ public int BatchSize { get; set; }
 
 ### Voir aussi
 
-* classe [XpsSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XpsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

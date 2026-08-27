@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextExtractionErrorLocation. Numéro de la page du document où l'erreur d'extraction de texte a été localisée
+title: "TextExtractionErrorLocation.PageNumber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextExtractionErrorLocation. Numéro de la page du document où l'erreur d'extraction de texte s'est produite"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.text/textextractionerrorlocation/pagenumber/
 ---
-## Propriété TextExtractionErrorLocation.PageNumber
+## TextExtractionErrorLocation.PageNumber property
 
-Numéro de la page du document où l'erreur d'extraction de texte a été localisée.
+Numéro de la page du document où l'erreur d'extraction de texte est située.
 
 ```csharp
 public int PageNumber { get; }
@@ -16,6 +16,8 @@ public int PageNumber { get; }
 
 ### Voir aussi
 
-* classe [TextExtractionErrorLocation](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

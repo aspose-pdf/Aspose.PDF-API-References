@@ -1,14 +1,14 @@
 ---
-title: Form.GetRichText
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Obtenez la valeur d'un champ de texte enrichi, y compris les informations de formatage de chaque caractère
+title: "Form.GetRichText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Obtient la valeur d'un champ Rich Text incluant les informations de formatage de chaque caractère"
 type: docs
 weight: 260
 url: /fr/net/aspose.pdf.facades/form/getrichtext/
 ---
-## Méthode Form.GetRichText
+## Form.GetRichText method
 
-Obtenez la valeur d'un champ de texte enrichi, y compris les informations de formatage de chaque caractère.
+Obtient la valeur d'un champ de texte enrichi, incluant les informations de formatage de chaque caractère.
 
 ```csharp
 public string GetRichText(string fieldName)
@@ -16,11 +16,11 @@ public string GetRichText(string fieldName)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fieldName | String | Le nom de champ entièrement qualifié du champ de texte enrichi. |
+| fieldName | String | Le nom complet du champ Rich Text. |
 
 ### Valeur de retour
 
-Retourne une chaîne contenant des informations de formatage du champ de texte enrichi.
+Renvoie une chaîne contenant les informations de formatage du champ Rich Text.
 
 ## Exemples
 
@@ -31,6 +31,8 @@ Console.WriteLine(form.GetRichText("txtDescriptionRTF"));
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

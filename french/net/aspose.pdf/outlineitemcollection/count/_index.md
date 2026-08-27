@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineItemCollection. Nombre d'éléments de la collection. Veuillez ne pas confondre avec VisibleCount. VisibleCount obtient le nombre d'éléments de contour visibles à tous les niveaux.
+title: "OutlineItemCollection.Count"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection propriété. Nombre d'éléments de la collection. Veuillez ne pas confondre avec VisibleCount VisibleCount obtient le nombre d'éléments de plan visibles à tous les niveaux"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/outlineitemcollection/count/
 ---
-## Propriété OutlineItemCollection.Count
+## OutlineItemCollection.Count property
 
-Nombre d'éléments de la collection. Veuillez ne pas confondre avec VisibleCount : VisibleCount obtient le nombre d'éléments de contour visibles à tous les niveaux.
+Nombre d'éléments de la collection. Veuillez ne pas confondre avec VisibleCount : VisibleCount indique le nombre d'éléments de plan visibles à tous les niveaux.
 
 ```csharp
 public override int Count { get; }
@@ -16,6 +16,8 @@ public override int Count { get; }
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Security.Security
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de sécurité. Le constructeur par défaut
+title: "Security.Security"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Security. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/security/security/
 ---
-## Constructeur de sécurité
+## Security constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Security()
 
 ### Voir aussi
 
-* classe [Security](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [Security](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

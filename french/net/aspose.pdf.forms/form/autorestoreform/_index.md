@@ -1,14 +1,14 @@
 ---
-title: Form.AutoRestoreForm
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du formulaire. Si elle est définie, les champs de formulaire absents seront automatiquement créés s'ils sont présents dans les annotations
+title: "Form.AutoRestoreForm"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Form. Si définie, les champs de formulaire absents seront automatiquement créés s'ils sont présents dans les annotations."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.forms/form/autorestoreform/
 ---
-## Propriété Form.AutoRestoreForm
+## Form.AutoRestoreForm property
 
-Si elle est définie, les champs de formulaire absents seront automatiquement créés s'ils sont présents dans les annotations.
+Si défini, les champs de formulaire absents seront automatiquement créés s'ils sont présents dans les annotations.
 
 ```csharp
 public bool AutoRestoreForm { get; set; }
@@ -16,6 +16,8 @@ public bool AutoRestoreForm { get; set; }
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

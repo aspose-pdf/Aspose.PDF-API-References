@@ -1,7 +1,7 @@
 ---
-title: FontNotFoundException.FontNotFoundException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FontNotFoundException. Initialise une nouvelle instance de la classe FontNotFoundException
+title: "FontNotFoundException.FontNotFoundException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FontNotFoundException constructeur. Initialise une nouvelle instance de la classe FontNotFoundException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/fontnotfoundexception/fontnotfoundexception/
@@ -20,8 +20,8 @@ public FontNotFoundException(string message)
 
 ### Voir aussi
 
-* classe [FontNotFoundException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FontNotFoundException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,8 +41,8 @@ public FontNotFoundException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [FontNotFoundException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FontNotFoundException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -61,6 +61,8 @@ public FontNotFoundException(Exception innerException)
 
 ### Voir aussi
 
-* classe [FontNotFoundException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FontNotFoundException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

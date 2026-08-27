@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.IsFastTextExtractionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OperatorCollection. Indique si la collection est limitée à l'extraction de texte rapide
+title: "OperatorCollection.IsFastTextExtractionMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OperatorCollection. Indique si la collection est limitée à l'extraction rapide de texte."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/operatorcollection/isfasttextextractionmode/
 ---
-## Propriété OperatorCollection.IsFastTextExtractionMode
+## OperatorCollection.IsFastTextExtractionMode property
 
-Indique si la collection est limitée à l'extraction de texte rapide
+Indique si la collection est limitée à une extraction rapide de texte.
 
 ```csharp
 public override bool IsFastTextExtractionMode { get; }
@@ -16,6 +16,8 @@ public override bool IsFastTextExtractionMode { get; }
 
 ### Voir aussi
 
-* classe [OperatorCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

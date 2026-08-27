@@ -1,12 +1,12 @@
 ---
-title: LineAnnotation.CaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LineAnnotation. Obtient ou définit la position de la légende de l'annotation
+title: "LineAnnotation.CaptionPosition"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "LineAnnotation propriété. Obtient ou définit la position de la légende de l'annotation"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/lineannotation/captionposition/
 ---
-## Propriété LineAnnotation.CaptionPosition
+## LineAnnotation.CaptionPosition property
 
 Obtient ou définit la position de la légende de l'annotation.
 
@@ -20,3 +20,5 @@ public CaptionPosition CaptionPosition { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

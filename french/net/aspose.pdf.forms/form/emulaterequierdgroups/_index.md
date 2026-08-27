@@ -1,14 +1,14 @@
 ---
-title: Form.EmulateRequierdGroups
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Form. Si cette propriété est vraie, alors des rectangles de contour rouges supplémentaires seront dessinés pour les conteneurs d'éléments exclGroup Xfa requis. Cette propriété a été introduite en raison de l'absence d'analogues pour l'exclGroup lors de la conversion de la représentation Xfa des formulaires en standard. Elle est fausse par défaut.
+title: "Form.EmulateRequierdGroups"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Form. Si cette propriété est vraie, des rectangles rouges supplémentaires seront dessinés autour des conteneurs d'éléments Xfa exclGroup requis. Cette propriété a été introduite en raison de l'absence d'analogues pour exclGroup lors de la conversion de la représentation Xfa des formulaires vers le standard. Elle est false par défaut."
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.forms/form/emulaterequierdgroups/
 ---
-## Propriété Form.EmulateRequierdGroups
+## Form.EmulateRequierdGroups property
 
-Si cette propriété est vraie, alors des rectangles de contour rouges supplémentaires seront dessinés pour les conteneurs d'éléments exclGroup Xfa requis. Cette propriété a été introduite en raison de l'absence d'analogues pour l'exclGroup lors de la conversion de la représentation Xfa des formulaires en standard. Elle est fausse par défaut.
+Si cette propriété est true, des rectangles rouges supplémentaires seront dessinés autour des conteneurs d'éléments Xfa exclGroup requis. Cette propriété a été introduite en raison de l'absence d'analogues pour exclGroup lors de la conversion de la représentation Xfa des formulaires vers le standard. Elle est false par défaut.
 
 ```csharp
 public bool EmulateRequierdGroups { get; set; }
@@ -16,6 +16,8 @@ public bool EmulateRequierdGroups { get; set; }
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

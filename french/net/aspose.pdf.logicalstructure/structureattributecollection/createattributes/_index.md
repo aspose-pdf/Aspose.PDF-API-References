@@ -1,14 +1,14 @@
 ---
-title: StructureAttributeCollection.CreateAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode StructureAttributeCollection. Crée et renvoie des StructureAttributes d'élément de structure par propriétaire d'attribut standard
+title: "StructureAttributeCollection.CreateAttributes"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode StructureAttributeCollection. Crée et retourne StructureAttributes de l'élément de structure par le propriétaire d'attribut standard"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/
 ---
-## Méthode StructureAttributeCollection.CreateAttributes
+## StructureAttributeCollection.CreateAttributes method
 
-Crée et renvoie des [`StructureAttributes`](../../structureattributes/) d'élément de structure par propriétaire d'attribut standard.
+Crée et retourne [`StructureAttributes`](../../structureattributes/) de l'élément de structure par le propriétaire d'attribut standard.
 
 ```csharp
 public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard)
@@ -20,12 +20,14 @@ public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard
 
 ### Valeur de retour
 
-[`StructureAttributes`](../../structureattributes/) d'élément de structure. Les attributs de structure seront créés si nécessaire.
+[`StructureAttributes`](../../structureattributes/) of structure element. Structure Attributes will be created if it needed.
 
 ### Voir aussi
 
-* classe [StructureAttributes](../../structureattributes/)
-* classe [AttributeOwnerStandard](../../attributeownerstandard/)
-* classe [StructureAttributeCollection](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

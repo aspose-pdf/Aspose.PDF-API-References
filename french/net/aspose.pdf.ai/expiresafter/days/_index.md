@@ -1,14 +1,14 @@
 ---
-title: ExpiresAfter.Days
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ExpiresAfter. Obtient ou définit le nombre de jours après le temps d'ancrage après lequel le magasin de vecteurs expirera
+title: "ExpiresAfter.Days"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ExpiresAfter. Obtient ou définit le nombre de jours après l'heure d'ancrage où le magasin de vecteurs expirera"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/expiresafter/days/
 ---
-## Propriété ExpiresAfter.Days
+## ExpiresAfter.Days property
 
-Obtient ou définit le nombre de jours après le temps d'ancrage après lequel le magasin de vecteurs expirera.
+Obtient ou définit le nombre de jours après l'heure d'ancrage après lesquels le vector store expirera.
 
 ```csharp
 public int Days { get; set; }
@@ -16,6 +16,8 @@ public int Days { get; set; }
 
 ### Voir aussi
 
-* classe [ExpiresAfter](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ExpiresAfter](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

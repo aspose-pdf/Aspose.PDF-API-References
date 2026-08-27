@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.ShowCaption
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LineAnnotation. Obtient ou définit un indicateur booléen qui détermine si le contenu doit être affiché en tant que légende
+title: "LineAnnotation.ShowCaption"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "LineAnnotation propriété. Obtient ou définit le drapeau booléen qui détermine si le contenu doit être affiché comme légende"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.annotations/lineannotation/showcaption/
 ---
-## Propriété LineAnnotation.ShowCaption
+## LineAnnotation.ShowCaption property
 
-Obtient ou définit un indicateur booléen qui détermine si le contenu doit être affiché en tant que légende.
+Obtient ou définit le drapeau booléen qui détermine si le contenu doit être affiché comme légende.
 
 ```csharp
 public bool ShowCaption { get; set; }
@@ -16,6 +16,8 @@ public bool ShowCaption { get; set; }
 
 ### Voir aussi
 
-* classe [LineAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

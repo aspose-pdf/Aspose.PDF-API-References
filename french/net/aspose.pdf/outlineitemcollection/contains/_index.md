@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OutlineItemCollection. Vérifie si la collection contient l'élément donné
+title: "OutlineItemCollection.Contains"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OutlineItemCollection. Vérifie si la collection contient l'élément donné"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf/outlineitemcollection/contains/
 ---
-## Méthode OutlineItemCollection.Contains
+## OutlineItemCollection.Contains method
 
 Vérifie si la collection contient l'élément donné.
 
@@ -24,6 +24,8 @@ Vrai - si l'élément est trouvé ; sinon, faux.
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Image.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur d'image. Le constructeur par défaut
+title: "Image.Image"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Image. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/image/image/
 ---
-## Constructeur d'image
+## Image constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Image()
 
 ### Voir aussi
 
-* classe [Image](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

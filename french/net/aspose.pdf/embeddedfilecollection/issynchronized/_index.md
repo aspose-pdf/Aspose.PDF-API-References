@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété EmbeddedFileCollection. Obtient une valeur indiquant si l'accès à cette collection est synchronisé et sécurisé pour les threads
+title: "EmbeddedFileCollection.IsSynchronized"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété EmbeddedFileCollection. Obtient une valeur indiquant si l'accès à cette collection est synchronisé et sûr pour les threads"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/embeddedfilecollection/issynchronized/
 ---
-## Propriété EmbeddedFileCollection.IsSynchronized
+## EmbeddedFileCollection.IsSynchronized property
 
-Obtient une valeur indiquant si l'accès à cette collection est synchronisé (sécurisé pour les threads).
+Obtient une valeur indiquant si l'accès à cette collection est synchronisé (thread‑safe).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Voir aussi
 
-* classe [EmbeddedFileCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

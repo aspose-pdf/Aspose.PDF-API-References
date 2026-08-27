@@ -1,14 +1,14 @@
 ---
-title: Page.HasVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Page. Détecte la présence de graphiques vectoriels s'ils sont présents sur la page
+title: "Page.HasVectorGraphics"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Page. Détecte la présence de graphiques vectoriels si elle est présente sur la page"
 type: docs
 weight: 480
 url: /fr/net/aspose.pdf/page/hasvectorgraphics/
 ---
-## Méthode Page.HasVectorGraphics
+## Page.HasVectorGraphics method
 
-Détecte la présence de graphiques vectoriels, s'ils sont présents sur la page.
+Détecte la présence de graphiques vectoriels, s'ils sont présents sur la Page.
 
 ```csharp
 public bool HasVectorGraphics()
@@ -20,6 +20,8 @@ Vrai si la page contient des opérateurs de construction de chemin ; sinon, Faux
 
 ### Voir aussi
 
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

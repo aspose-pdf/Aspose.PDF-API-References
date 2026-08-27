@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Oeb_100
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeOwnerStandard. Propriétaire d'attribut OEB1.00
+title: "AttributeOwnerStandard.Oeb_100"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeOwnerStandard champ. OEB1.00 propriétaire d'attribut"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.logicalstructure/attributeownerstandard/oeb_100/
 ---
-## Champ AttributeOwnerStandard.Oeb_100
+## AttributeOwnerStandard.Oeb_100 field
 
 Propriétaire d'attribut OEB-1.00.
 
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard Oeb_100;
 
 ### Voir aussi
 
-* classe [AttributeOwnerStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

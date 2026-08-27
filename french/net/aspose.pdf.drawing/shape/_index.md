@@ -1,14 +1,14 @@
 ---
-title: Class Shape
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Drawing.Shape. Représente une forme - l'objet graphique de base
+title: "Classe Shape"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Drawing.Shape. Représente la forme, l'objet graphique de base"
 type: docs
-weight: 4000
+weight: 4120
 url: /fr/net/aspose.pdf.drawing/shape/
 ---
-## Classe Shape
+## Shape class
 
-Représente une forme - l'objet graphique de base.
+Représente la forme – l'objet graphique de base.
 
 ```csharp
 public abstract class Shape : IBoundsCheckableItem
@@ -18,7 +18,7 @@ public abstract class Shape : IBoundsCheckableItem
 
 | Nom | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Obtient ou définit un objet [`GraphInfo`](./graphinfo/) qui indique les informations graphiques, telles que la couleur, la largeur de ligne, etc. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Obtient ou définit un objet [`GraphInfo`](./graphinfo/) qui indique les informations du graphique, telles que la couleur, la largeur de ligne, etc. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Obtient ou définit un texte pour la forme |
 
 ## Méthodes
@@ -32,3 +32,5 @@ public abstract class Shape : IBoundsCheckableItem
 * interface [IBoundsCheckableItem](../../aspose.pdf/iboundscheckableitem/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

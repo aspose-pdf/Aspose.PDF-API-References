@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.MonarchEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Enveloppe Monarch 3.875 po. par 7.5 po
+title: "PaperSizes.MonarchEnvelope"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. enveloppe Monarch 3.875 po. par 7.5 po"
 type: docs
 weight: 720
 url: /fr/net/aspose.pdf.printing/papersizes/monarchenvelope/
 ---
-## Champ PaperSizes.MonarchEnvelope
+## PaperSizes.MonarchEnvelope field
 
-Enveloppe Monarch (3.875 po. par 7.5 po.).
+Enveloppe Monarch (3,875 po. par 7,5 po.).
 
 ```csharp
 public static readonly PaperSize MonarchEnvelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize MonarchEnvelope;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

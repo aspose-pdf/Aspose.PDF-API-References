@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfXmpMetadata. Vérifie si le dictionnaire contient la clé spécifiée
+title: "PdfXmpMetadata.Contains"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfXmpMetadata. Vérifie si le dictionnaire contient la clé spécifiée"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.facades/pdfxmpmetadata/contains/
@@ -16,7 +16,7 @@ public bool Contains(string key)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | Clé qui sera vérifiée. |
+| clé | String | Clé qui sera vérifiée. |
 
 ### Valeur de retour
 
@@ -34,8 +34,8 @@ if (!xmp.Contains("xmp:Nickname"))
 
 ### Voir aussi
 
-* classe [PdfXmpMetadata](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -50,7 +50,7 @@ public bool Contains(DefaultMetadataProperties property)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| property | DefaultMetadataProperties | Propriété qui sera vérifiée. |
+| propriété | DefaultMetadataProperties | Propriété qui sera vérifiée. |
 
 ### Valeur de retour
 
@@ -59,8 +59,8 @@ True - si le dictionnaire contient la propriété spécifiée ; sinon, false.
 ### Voir aussi
 
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* classe [PdfXmpMetadata](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -83,7 +83,9 @@ true si cette paire a été trouvée.
 
 ### Voir aussi
 
-* classe [XmpValue](../../../aspose.pdf/xmpvalue/)
-* classe [PdfXmpMetadata](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

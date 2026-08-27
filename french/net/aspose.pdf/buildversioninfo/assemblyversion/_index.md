@@ -1,14 +1,14 @@
 ---
-title: BuildVersionInfo.AssemblyVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Champ BuildVersionInfo. Version de l'assemblage
+title: "BuildVersionInfo.AssemblyVersion"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "BuildVersionInfo champ. Version de l'assembly"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/buildversioninfo/assemblyversion/
 ---
-## Champ BuildVersionInfo.AssemblyVersion
+## BuildVersionInfo.AssemblyVersion field
 
-Version de l'assemblage
+Version de l'assembly
 
 ```csharp
 public const string AssemblyVersion;
@@ -16,6 +16,8 @@ public const string AssemblyVersion;
 
 ### Voir aussi
 
-* classe [BuildVersionInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
-* assemblage [Aspose.PDF](../../../)
+* class [BuildVersionInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

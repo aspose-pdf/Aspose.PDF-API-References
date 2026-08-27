@@ -1,7 +1,7 @@
 ---
-title: Rows.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Rows. Ajouter une ligne à la collection
+title: "Rows.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Rows. Ajoute une ligne à la collection"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/rows/add/
@@ -14,11 +14,11 @@ Ajouter une ligne à la collection.
 public Row Add()
 ```
 
-### Return Value
+### Valeur de retour
 
 La nouvelle ligne
 
-### See Also
+### Voir aussi
 
 * class [Row](../../row/)
 * class [Rows](../)
@@ -35,13 +35,15 @@ Ajouter une ligne à la collection.
 public void Add(Row row)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | row | Row | La nouvelle ligne. |
 
-### See Also
+### Voir aussi
 
 * class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

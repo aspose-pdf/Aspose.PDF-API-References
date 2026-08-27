@@ -1,12 +1,12 @@
 ---
-title: Class WarningInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.WarningInfo. Objet immuable pour encapsuler les informations d'avertissement
+title: "Classe WarningInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.WarningInfo. Objet immuable pour encapsuler les informations d'avertissement"
 type: docs
-weight: 11280
+weight: 11470
 url: /fr/net/aspose.pdf/warninginfo/
 ---
-## Classe WarningInfo
+## WarningInfo class
 
 Objet immuable pour encapsuler les informations d'avertissement.
 
@@ -18,7 +18,7 @@ public sealed class WarningInfo
 
 | Nom | Description |
 | --- | --- |
-| [WarningInfo](warninginfo/)(WarningType, string) | Construit une instance pour rassembler des informations. |
+| [WarningInfo](warninginfo/)(WarningType, string) | Construit une instance pour collecter des informations. |
 
 ## Propriétés
 
@@ -29,5 +29,7 @@ public sealed class WarningInfo
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

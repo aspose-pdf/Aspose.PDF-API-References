@@ -1,7 +1,7 @@
 ---
-title: RedactionAnnotation.RedactionAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de RedactionAnnotation. Constructeur pour RedactionAnnotation. À utiliser dans Generator
+title: "RedactionAnnotation.RedactionAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur RedactionAnnotation. Constructeur pour RedactionAnnotation. À utiliser dans Generator"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/redactionannotation/redactionannotation/
@@ -38,7 +38,7 @@ public RedactionAnnotation(Page page, Rectangle rect)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | page | Page | Page où l'annotation sera placée. |
-| rect | Rectangle | Position de l'annotation sur la page. |
+| rect | Rectangle | Position de l'Annotation sur la page. |
 
 ### Voir aussi
 
@@ -47,3 +47,5 @@ public RedactionAnnotation(Page page, Rectangle rect)
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

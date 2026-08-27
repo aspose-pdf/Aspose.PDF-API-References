@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AnnotationCollection. Renvoie l'énumérateur de collection
+title: "AnnotationCollection.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AnnotationCollection. Retourne l'énumérateur de la collection."
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.annotations/annotationcollection/getenumerator/
 ---
-## Méthode AnnotationCollection.GetEnumerator
+## AnnotationCollection.GetEnumerator method
 
-Renvoie l'énumérateur de collection.
+Renvoie l'énumérateur de la collection.
 
 ```csharp
 public IEnumerator<Annotation> GetEnumerator()
@@ -20,7 +20,9 @@ Objet énumérateur
 
 ### Voir aussi
 
-* classe [Annotation](../../annotation/)
-* classe [AnnotationCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

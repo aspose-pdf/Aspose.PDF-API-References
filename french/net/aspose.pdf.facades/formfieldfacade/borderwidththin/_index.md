@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderWidthThin
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit une largeur de bordure fine
+title: "FormFieldFacade.BorderWidthThin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ FormFieldFacade. Définit une largeur de bordure fine"
 type: docs
 weight: 370
 url: /fr/net/aspose.pdf.facades/formfieldfacade/borderwidththin/
 ---
-## Champ FormFieldFacade.BorderWidthThin
+## FormFieldFacade.BorderWidthThin field
 
 Définit une largeur de bordure fine.
 
@@ -16,6 +16,8 @@ public const float BorderWidthThin;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

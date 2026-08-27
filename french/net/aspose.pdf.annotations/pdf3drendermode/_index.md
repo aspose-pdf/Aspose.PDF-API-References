@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DRenderMode class. Class PDF3DRenderMode
+title: "Classe PDF3DRenderMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.PDF3DRenderMode class. Classe PDF3DRenderMode"
 type: docs
-weight: 2220
+weight: 2310
 url: /fr/net/aspose.pdf.annotations/pdf3drendermode/
 ---
-## Classe PDF3DRenderMode
+## PDF3DRenderMode class
 
 Classe PDF3DRenderMode.
 
@@ -32,11 +32,11 @@ public class PDF3DRenderMode
 | Nom | Description |
 | --- | --- |
 | [GetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/)() | Obtient la couleur auxiliaire. |
-| [GetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/getcreasevalue/)() | Obtient la valeur de pli. |
+| [GetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/getcreasevalue/)() | Obtient la valeur du pli. |
 | [GetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/getfacecolor/)() | Obtient la couleur de la face. |
 | [GetOpacity](../../aspose.pdf.annotations/pdf3drendermode/getopacity/)() | Obtient l'opacité. |
 | [SetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/)(Color) | Définit la couleur auxiliaire. |
-| [SetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/setcreasevalue/)(double) | Définit la valeur de pli. |
+| [SetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/setcreasevalue/)(double) | Définit la valeur du pli. |
 | [SetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/setfacecolor/)(Color) | Définit la couleur de la face. |
 | [SetOpacity](../../aspose.pdf.annotations/pdf3drendermode/setopacity/)(double) | Définit l'opacité. |
 
@@ -63,3 +63,5 @@ public class PDF3DRenderMode
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

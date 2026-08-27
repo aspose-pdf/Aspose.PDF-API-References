@@ -1,12 +1,12 @@
 ---
-title: Class Function
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Function. Représente une fonction qui peut être appelée par le modèle
+title: "Classe Function"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.Function. Représente une fonction qui peut être appelée par le modèle."
 type: docs
-weight: 420
+weight: 440
 url: /fr/net/aspose.pdf.ai/function/
 ---
-## Classe Fonction
+## Function class
 
 Représente une fonction qui peut être appelée par le modèle.
 
@@ -28,7 +28,9 @@ public class Function
 | [Name](../../aspose.pdf.ai/function/name/) { get; set; } | Obtient ou définit le nom de la fonction à appeler. |
 | [Parameters](../../aspose.pdf.ai/function/parameters/) { get; set; } | Obtient ou définit les paramètres que la fonction accepte, décrits comme un objet JSON Schema. |
 
-### Voir Aussi
+### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

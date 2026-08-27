@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CheckboxField. Ajoute une nouvelle case à cocher dans un groupe de cases à cocher dans lequel au maximum une des cases à cocher peut être cochée à tout moment. La nouvelle case à cocher est ajoutée en bas du groupe
+title: "CheckboxField.AddOption"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "CheckboxField method. Ajoute une nouvelle case à cocher dans un groupe de cases à cocher où au maximum une case peut être cochée à tout moment. La nouvelle case à cocher est ajoutée au bas du groupe."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.forms/checkboxfield/addoption/
 ---
 ## AddOption(string) {#addoption}
 
-Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une des cases à cocher peut être cochée à tout moment. La nouvelle case à cocher est ajoutée en bas du groupe.
+Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une case peut être cochée à la fois. La nouvelle case à cocher est ajoutée en bas du groupe.
 
 ```csharp
 public void AddOption(string optionName)
@@ -20,15 +20,15 @@ public void AddOption(string optionName)
 
 ### Voir aussi
 
-* classe [CheckboxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddOption(string, Rectangle) {#addoption_1}
 
-Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une des cases à cocher peut être cochée à tout moment.
+Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une case peut être cochée à la fois.
 
 ```csharp
 public void AddOption(string optionName, Rectangle rect)
@@ -41,16 +41,16 @@ public void AddOption(string optionName, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [CheckboxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddOption(string, int, Rectangle) {#addoption_2}
 
-Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une des cases à cocher peut être cochée à tout moment.
+Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une case peut être cochée à la fois.
 
 ```csharp
 public void AddOption(string optionName, int page, Rectangle rect)
@@ -64,7 +64,9 @@ public void AddOption(string optionName, int page, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [CheckboxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

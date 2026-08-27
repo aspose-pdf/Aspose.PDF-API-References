@@ -1,12 +1,12 @@
 ---
-title: Bookmarks.Bookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de signets. Le constructeur par défaut
+title: "Bookmarks.Bookmarks"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Bookmarks constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/bookmarks/bookmarks/
 ---
-## Constructeur de signets
+## Bookmarks constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Bookmarks()
 
 ### Voir aussi
 
-* classe [Bookmarks](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Bookmarks](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

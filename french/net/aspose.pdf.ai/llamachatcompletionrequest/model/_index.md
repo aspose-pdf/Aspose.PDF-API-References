@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LlamaChatCompletionRequest. Définit ou obtient l'ID du modèle à utiliser
+title: "LlamaChatCompletionRequest.Model"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LlamaChatCompletionRequest. Définit ou obtient l'ID du modèle à utiliser"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.ai/llamachatcompletionrequest/model/
 ---
-## Propriété LlamaChatCompletionRequest.Model
+## LlamaChatCompletionRequest.Model property
 
 Définit ou obtient l'ID du modèle à utiliser.
 
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### Voir aussi
 
-* classe [LlamaChatCompletionRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

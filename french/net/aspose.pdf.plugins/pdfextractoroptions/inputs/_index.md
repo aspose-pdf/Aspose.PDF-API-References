@@ -1,12 +1,12 @@
 ---
-title: PdfExtractorOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfExtractorOptions. Renvoie la collection de données du plugin PdfExtractor
+title: "PdfExtractorOptions.Inputs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfExtractorOptions. Retourne la collection de données du plugin PdfExtractor"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/pdfextractoroptions/inputs/
 ---
-## Propriété PdfExtractorOptions.Inputs
+## PdfExtractorOptions.Inputs property
 
 Renvoie la collection de données du plugin PdfExtractor.
 
@@ -17,6 +17,8 @@ public List<IDataSource> Inputs { get; }
 ### Voir aussi
 
 * interface [IDataSource](../../idatasource/)
-* classe [PdfExtractorOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

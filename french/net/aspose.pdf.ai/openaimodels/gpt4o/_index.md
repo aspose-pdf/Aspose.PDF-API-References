@@ -1,14 +1,14 @@
 ---
-title: OpenAIModels.Gpt4O
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OpenAIModels. Obtient l'identifiant pour le modèle GPT4o
+title: "OpenAIModels.Gpt4O"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OpenAIModels. Obtient l'identifiant du modèle GPT4o"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/openaimodels/gpt4o/
 ---
-## Propriété OpenAIModels.Gpt4O
+## OpenAIModels.Gpt4O property
 
-Obtient l'identifiant pour le modèle GPT-4o.
+Obtient l'identifiant du modèle GPT-4o.
 
 ```csharp
 public static string Gpt4O { get; }
@@ -16,6 +16,8 @@ public static string Gpt4O { get; }
 
 ### Voir aussi
 
-* classe [OpenAIModels](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIModels](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

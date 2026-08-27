@@ -1,14 +1,14 @@
 ---
-title: Class XmpPdfAExtensionObject
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.XmpPdfAExtensionObject. Représente la classe de base pour les instances de type valeur de propriété de champ
+title: "Classe XmpPdfAExtensionObject"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.XmpPdfAExtensionObject classe. Représente la classe de base pour les instances de type valeur de propriété de champ."
 type: docs
-weight: 11450
+weight: 11640
 url: /fr/net/aspose.pdf/xmppdfaextensionobject/
 ---
-## Classe XmpPdfAExtensionObject
+## XmpPdfAExtensionObject class
 
-Représente la classe de base pour les instances de type valeur de propriété de champ.
+Représente la classe de base pour les instances de champ, de propriété et de type de valeur.
 
 ```csharp
 public abstract class XmpPdfAExtensionObject
@@ -31,3 +31,5 @@ public abstract class XmpPdfAExtensionObject
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

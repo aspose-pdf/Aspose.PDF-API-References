@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.GetPageHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileInfo. Obtient la hauteur de la page spécifiée
+title: "PdfFileInfo.GetPageHeight"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileInfo méthode. Obtient la hauteur de la Page spécifiée"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf.facades/pdffileinfo/getpageheight/
 ---
-## Méthode PdfFileInfo.GetPageHeight
+## PdfFileInfo.GetPageHeight method
 
 Obtient la hauteur de la page spécifiée.
 
@@ -24,6 +24,8 @@ La hauteur de la page.
 
 ### Voir aussi
 
-* classe [PdfFileInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

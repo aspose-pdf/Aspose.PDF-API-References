@@ -1,14 +1,14 @@
 ---
-title: Form.FormImportResult.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormImportResult. Statut de l'importation de champ
+title: "Form.FormImportResult.Status"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FormImportResult. Statut de l'importation du champ"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/form.formimportresult/status/
 ---
-## Propriété Form.FormImportResult.Status
+## Form.FormImportResult.Status property
 
-Statut de l'importation de champ.
+Statut de l'importation du champ.
 
 ```csharp
 public ImportStatus Status { get; }
@@ -20,3 +20,5 @@ public ImportStatus Status { get; }
 * class [FormImportResult](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

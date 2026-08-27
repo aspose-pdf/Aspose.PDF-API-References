@@ -1,12 +1,12 @@
 ---
-title: Graph.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Graph. Obtient ou définit la coordonnée gauche du tableau
+title: "Graph.Left"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Graph. Obtient ou définit la coordonnée gauche du tableau"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.drawing/graph/left/
 ---
-## Propriété Graph.Left
+## Graph.Left property
 
 Obtient ou définit la coordonnée gauche du tableau.
 
@@ -16,6 +16,8 @@ public double Left { get; set; }
 
 ### Voir aussi
 
-* classe [Graph](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

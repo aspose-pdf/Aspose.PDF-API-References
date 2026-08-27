@@ -1,12 +1,12 @@
 ---
-title: SetGlyphsPositionShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetGlyphsPositionShowText. Obtient le texte de l'argument de l'opérateur
+title: "SetGlyphsPositionShowText.Text"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SetGlyphsPositionShowText. Obtient le texte de l'argument de l'opérateur, le positionnement des glyphes est ignoré"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/setglyphspositionshowtext/text/
 ---
-## Propriété SetGlyphsPositionShowText.Text
+## SetGlyphsPositionShowText.Text property
 
 Obtient le texte de l'argument de l'opérateur (le positionnement des glyphes est ignoré).
 
@@ -16,6 +16,8 @@ public override string Text { get; }
 
 ### Voir aussi
 
-* classe [SetGlyphsPositionShowText](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetGlyphsPositionShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

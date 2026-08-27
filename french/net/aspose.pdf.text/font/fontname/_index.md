@@ -1,14 +1,14 @@
 ---
-title: Font.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de police. Obtient le nom de la police de l'objet Font
+title: "Font.FontName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Font. Obtient le nom de police de l'objet Font"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/font/fontname/
 ---
-## Propriété Font.FontName
+## Font.FontName property
 
-Obtient le nom de la police de l'objet [`Font`](../).
+Obtient le nom de police de l'objet [`Font`](../).
 
 ```csharp
 public string FontName { get; }
@@ -16,26 +16,28 @@ public string FontName { get; }
 
 ## Exemples
 
-L'exemple démontre comment rechercher du texte sur la première page et afficher le nom de la police de la première occurrence de texte.
+L'exemple montre comment rechercher du texte sur la première page et afficher le nom de police de la première occurrence de texte.
 
 ```csharp
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Créer l'objet TextFragmentAbsorber pour trouver toutes les occurrences du texte "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accepter l'absorbeur pour la première page
 doc.Pages[1].Accept(absorber);
 
-// View font name of first text occurrence
+// Afficher le nom de police de la première occurrence de texte
 Console.Out.WriteLine(absorber.TextFragments[1].TextState.Font.FontName); 
 ```
 
 ### Voir aussi
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Font](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

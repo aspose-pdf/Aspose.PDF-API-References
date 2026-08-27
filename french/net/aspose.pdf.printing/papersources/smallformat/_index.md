@@ -1,14 +1,14 @@
 ---
-title: PaperSources.SmallFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSources. Représente le bac pour le papier au format plus petit
+title: "PaperSources.SmallFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSources. Représente le bac pour le papier de petit format"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.printing/papersources/smallformat/
 ---
-## Champ PaperSources.SmallFormat
+## PaperSources.SmallFormat field
 
-Représente le bac pour le papier au format plus petit.
+Représente le bac pour le papier de petit format.
 
 ```csharp
 public static readonly PaperSource SmallFormat;
@@ -16,7 +16,9 @@ public static readonly PaperSource SmallFormat;
 
 ### Voir aussi
 
-* classe [PaperSource](../../papersource/)
-* classe [PaperSources](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

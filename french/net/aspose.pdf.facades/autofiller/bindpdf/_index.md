@@ -1,7 +1,7 @@
 ---
-title: AutoFiller.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AutoFiller. Lie un fichier Pdf
+title: "AutoFiller.BindPdf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AutoFiller. Lie un fichier Pdf"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.facades/autofiller/bindpdf/
@@ -20,8 +20,8 @@ public void BindPdf(string srcFile)
 
 ### Voir aussi
 
-* classe [AutoFiller](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,19 +36,19 @@ public void BindPdf(Stream srcStream)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| srcStream | Stream | Flux de fichier Pdf. |
+| srcStream | Stream | Flux du fichier Pdf. |
 
 ### Voir aussi
 
-* classe [AutoFiller](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Document) {#bindpdf}
 
-Lie un document Pdf.
+Lie un Pdf document.
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -60,7 +60,9 @@ public void BindPdf(Document srcDoc)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [AutoFiller](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.Underline
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StructureTextState. Obtient ou définit le soulignement pour le texte
+title: "StructureTextState.Underline"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StructureTextState. Obtient ou définit le soulignement du texte"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.logicalstructure/structuretextstate/underline/
 ---
-## Propriété StructureTextState.Underline
+## StructureTextState.Underline property
 
-Obtient ou définit le soulignement pour le texte.
+Obtient ou définit le texte souligné.
 
 ```csharp
 public bool? Underline { get; set; }
@@ -20,6 +20,8 @@ Peut être nul. Utilisez null pour hériter de la propriété `Underline` de l'�
 
 ### Voir aussi
 
-* classe [StructureTextState](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

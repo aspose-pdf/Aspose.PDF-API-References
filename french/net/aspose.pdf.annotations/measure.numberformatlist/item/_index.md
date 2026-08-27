@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormatList.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété NumberFormatList. Obtient ou définit le format de nombre dans la liste par son index
+title: "Measure.NumberFormatList.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété NumberFormatList. Obtient ou définit le format de nombre dans la liste par son indice"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/measure.numberformatlist/item/
 ---
 ## Measure.NumberFormatList indexer
 
-Obtient ou définit le format de nombre dans la liste par son index.
+Obtient ou définit le format numérique dans la liste par son indice.
 
 ```csharp
 public NumberFormat this[int index] { get; set; }
@@ -16,7 +16,7 @@ public NumberFormat this[int index] { get; set; }
 
 | Paramètre | Description |
 | --- | --- |
-| index | Index de l'élément à récupérer. |
+| index | Indice de l'élément à récupérer. |
 
 ### Valeur de retour
 
@@ -24,7 +24,9 @@ public NumberFormat this[int index] { get; set; }
 
 ### Voir aussi
 
-* classe [NumberFormat](../../measure.numberformat/)
-* classe [NumberFormatList](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [NumberFormat](../../measure.numberformat/)
+* class [NumberFormatList](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

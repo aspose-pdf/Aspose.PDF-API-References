@@ -1,14 +1,14 @@
 ---
-title: Class BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.BorderInfo. Cette classe représente la bordure pour les éléments graphiques
+title: "Classe BorderInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.BorderInfo. Cette classe représente la bordure pour les éléments graphiques"
 type: docs
-weight: 2900
+weight: 3010
 url: /fr/net/aspose.pdf/borderinfo/
 ---
-## Classe BorderInfo
+## BorderInfo class
 
-Cette classe représente la bordure pour les éléments graphiques.
+Cette classe représente la bordure des éléments graphiques.
 
 ```csharp
 public sealed class BorderInfo : ICloneable
@@ -32,7 +32,7 @@ public sealed class BorderInfo : ICloneable
 | [Bottom](../../aspose.pdf/borderinfo/bottom/) { get; set; } | Obtient ou définit un objet qui indique le bas de la bordure. |
 | [Left](../../aspose.pdf/borderinfo/left/) { get; set; } | Obtient ou définit un objet qui indique la gauche de la bordure. |
 | [Right](../../aspose.pdf/borderinfo/right/) { get; set; } | Obtient ou définit un objet qui indique la droite de la bordure. |
-| [RoundedBorderRadius](../../aspose.pdf/borderinfo/roundedborderradius/) { get; set; } | Obtient ou définit un rayon de bordure arrondi. |
+| [RoundedBorderRadius](../../aspose.pdf/borderinfo/roundedborderradius/) { get; set; } | Obtient ou définit un rayon de bordure arrondi |
 | [Top](../../aspose.pdf/borderinfo/top/) { get; set; } | Obtient ou définit un objet qui indique le haut de la bordure. |
 
 ## Méthodes
@@ -43,5 +43,7 @@ public sealed class BorderInfo : ICloneable
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

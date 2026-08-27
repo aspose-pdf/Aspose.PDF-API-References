@@ -1,12 +1,12 @@
 ---
-title: FontCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FontCollection. Obtient l'élément de police à l'index spécifié
+title: "FontCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FontCollection. Obtient l'élément de police à l'index spécifié"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.text/fontcollection/item/
 ---
-## Indexeur FontCollection (1 sur 2)
+## FontCollection indexer (1 of 2)
 
 Obtient l'élément de police à l'index spécifié.
 
@@ -20,20 +20,20 @@ public Font this[int index] { get; }
 
 ### Valeur de retour
 
-Objet Font.
+Objet de police.
 
 ### Voir aussi
 
-* classe [Font](../../font/)
-* classe [FontCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Indexeur FontCollection (2 sur 2)
+## FontCollection indexer (2 of 2)
 
-Obtient la police de la collection par nom de police. Une exception est levée si la police n'a pas été trouvée.
+Obtient la police de la collection par le nom de police. Une exception est levée si la police n'a pas été trouvée.
 
 ```csharp
 public Font this[string name] { get; }
@@ -41,7 +41,7 @@ public Font this[string name] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| name | Nom de la police. |
+| nom | Nom de la police. |
 
 ### Valeur de retour
 
@@ -49,7 +49,9 @@ Police trouvée.
 
 ### Voir aussi
 
-* classe [Font](../../font/)
-* classe [FontCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

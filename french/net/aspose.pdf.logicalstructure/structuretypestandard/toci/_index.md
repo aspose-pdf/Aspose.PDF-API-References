@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TOCI
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StructureTypeStandard. Élément de table des matières Un membre individuel d'une table des matières. Les enfants de cette entrée peuvent être l'un des types de structure suivants
+title: "StructureTypeStandard.TOCI"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureTypeStandard champ. Élément de table des matières Un membre individuel d'une table des matières. Les enfants de cette entrée peuvent être l'un des types de structure suivants"
 type: docs
 weight: 450
 url: /fr/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 ---
-## Champ StructureTypeStandard.TOCI
+## StructureTypeStandard.TOCI field
 
-(Élément de table des matières) Un membre individuel d'une table des matières. Les enfants de cette entrée peuvent être l'un des types de structure suivants :
+(Table of contents item) Un membre individuel d’une table des matières. Les enfants de cette entrée peuvent être n’importe lequel des types de structure suivants :
 
 **Lbl**
 
@@ -20,7 +20,7 @@ Une référence au titre et au numéro de page
 
 **NonStruct**
 
-Éléments non-structure pour envelopper un artefact de leader
+Éléments non-structurels pour envelopper un artefact de leader
 
 **P**
 
@@ -36,6 +36,8 @@ public static readonly StructureTypeStandard TOCI;
 
 ### Voir aussi
 
-* classe [StructureTypeStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

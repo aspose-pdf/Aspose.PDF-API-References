@@ -1,14 +1,14 @@
 ---
-title: FormEditor.GetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Obtenir les indicateurs de champ
+title: "FormEditor.GetFieldAppearance"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FormEditor. Obtient les drapeaux du champ"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf.facades/formeditor/getfieldappearance/
 ---
-## Méthode FormEditor.GetFieldAppearance
+## FormEditor.GetFieldAppearance method
 
-Obtenir les indicateurs de champ.
+Obtient les indicateurs du champ.
 
 ```csharp
 public AnnotationFlags GetFieldAppearance(string fieldName)
@@ -20,7 +20,7 @@ public AnnotationFlags GetFieldAppearance(string fieldName)
 
 ### Valeur de retour
 
-Ensemble d'indicateurs de champ
+Ensemble de drapeaux du champ
 
 ### Voir aussi
 
@@ -28,3 +28,5 @@ Ensemble d'indicateurs de champ
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.DocumentCollection. Représente une collection de documents à traiter
+title: "Classe DocumentCollection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.AI.DocumentCollection classe. Représente une collection de documents à traiter"
 type: docs
-weight: 320
+weight: 340
 url: /fr/net/aspose.pdf.ai/documentcollection/
 ---
-## Classe DocumentCollection
+## DocumentCollection class
 
 Représente une collection de documents à traiter.
 
@@ -30,5 +30,7 @@ public class DocumentCollection
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

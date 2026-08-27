@@ -1,14 +1,14 @@
 ---
-title: Class FillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.FillStroke. Classe représentant l'opérateur B pour remplir et tracer un chemin en utilisant la règle de winding non nulle
+title: "Classe FillStroke"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.FillStroke classe. Classe représentant l'opérateur B qui remplit et trace le chemin en utilisant la règle du winding non nul"
 type: docs
-weight: 7380
+weight: 7520
 url: /fr/net/aspose.pdf.operators/fillstroke/
 ---
-## Classe FillStroke
+## FillStroke class
 
-Classe représentant l'opérateur B (remplir et tracer un chemin en utilisant la règle de winding non nulle)
+Classe représentant l'opérateur B (remplir et tracer le chemin en utilisant la règle du nombre de tours non nul)
 
 ```csharp
 public class FillStroke : Operator
@@ -30,12 +30,14 @@ public class FillStroke : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fillstroke/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/fillstroke/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/fillstroke/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

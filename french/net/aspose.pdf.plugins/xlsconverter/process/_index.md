@@ -1,12 +1,12 @@
 ---
-title: XlsConverter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XlsConverter. Démarre le traitement PdfToExcel avec les paramètres spécifiés
+title: "XlsConverter.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XlsConverter. Démarre le traitement PdfToExcel avec les paramètres spécifiés"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/xlsconverter/process/
 ---
-## Méthode XlsConverter.Process
+## XlsConverter.Process method
 
 Démarre le traitement PdfToExcel avec les paramètres spécifiés.
 
@@ -24,8 +24,10 @@ Un objet [`ResultContainer`](../../resultcontainer/) contenant le résultat de l
 
 ### Voir aussi
 
-* classe [ResultContainer](../../resultcontainer/)
+* class [ResultContainer](../../resultcontainer/)
 * interface [IPluginOptions](../../ipluginoptions/)
-* classe [XlsConverter](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [XlsConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlPageMarkupSavingInfo.HtmlHostPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Champ HtmlPageMarkupSavingInfo. Défini par le convertisseur. Si la propriété SplitToPages est définie, alors plusieurs fichiers HTML sont créés pendant la conversion. Cette propriété contient l'ordinal du fichier des pages HTML sauvegardées. La propriété peut être utilisée dans la logique du code personnalisé pour décider comment traiter ou où sauvegarder la page HTML et si le fractionnement en pages est désactivé, cette valeur contient toujours '1' car dans ce cas, une seule grande page HTML est générée pour l'ensemble du document source.
+title: "HtmlSaveOptions.HtmlPageMarkupSavingInfo.HtmlHostPageNumber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ HtmlPageMarkupSavingInfo. Défini par le convertisseur. Si la propriété SplitToPages est définie, plusieurs fichiers HTML (un fichier HTML par page convertie) sont créés pendant la conversion. Cette propriété contient l'ordinal du fichier HTML enregistré. La propriété peut être utilisée dans la logique du code personnalisé pour décider comment traiter ou où enregistrer la page HTML et, si la division en pages est désactivée, cette valeur contient toujours 1 puisque dans ce cas un seul grand fichier HTML est généré pour l'ensemble du document source"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/htmlhostpagenumber/
 ---
-## Champ HtmlSaveOptions.HtmlPageMarkupSavingInfo.HtmlHostPageNumber
+## HtmlSaveOptions.HtmlPageMarkupSavingInfo.HtmlHostPageNumber field
 
-Défini par le convertisseur. Si la propriété SplitToPages est définie, alors plusieurs fichiers HTML (un fichier HTML par page convertie) sont créés pendant la conversion. Cette propriété contient l'ordinal du fichier de la page HTML sauvegardée. La propriété peut être utilisée dans la logique du code personnalisé pour décider comment traiter ou où sauvegarder la page HTML et si le fractionnement en pages est désactivé, cette valeur contient toujours '1' car dans ce cas, une seule grande page HTML est générée pour l'ensemble du document source.
+Défini par le convertisseur. Si la propriété SplitToPages est activée, plusieurs fichiers HTML (un fichier HTML par page convertie) sont créés lors de la conversion. Cette propriété contient l’ordre du fichier HTML enregistré. La propriété peut être utilisée dans la logique du code personnalisé pour décider comment traiter ou où enregistrer la page HTML et, si le fractionnement en pages est désactivé, cette valeur contient toujours « 1 » puisque dans ce cas une seule grande page HTML est générée pour l’ensemble du Document source.
 
 ```csharp
 public int HtmlHostPageNumber;
@@ -16,6 +16,8 @@ public int HtmlHostPageNumber;
 
 ### Voir aussi
 
-* classe [HtmlPageMarkupSavingInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlPageMarkupSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

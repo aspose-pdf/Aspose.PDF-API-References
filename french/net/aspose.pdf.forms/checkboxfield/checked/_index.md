@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.Checked
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CheckboxField. Obtient ou définit l'état de la case à cocher
+title: "CheckboxField.Checked"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "CheckboxField property. Obtient ou définit l'état de la case à cocher"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.forms/checkboxfield/checked/
 ---
-## Propriété CheckboxField.Checked
+## CheckboxField.Checked property
 
 Obtient ou définit l'état de la case à cocher.
 
@@ -16,6 +16,8 @@ public bool Checked { get; set; }
 
 ### Voir aussi
 
-* classe [CheckboxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

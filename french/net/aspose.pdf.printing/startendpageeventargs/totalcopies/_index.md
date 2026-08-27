@@ -1,12 +1,12 @@
 ---
-title: StartEndPageEventArgs.TotalCopies
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StartEndPageEventArgs. Obtient le nombre total de copies à imprimer
+title: "StartEndPageEventArgs.TotalCopies"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ StartEndPageEventArgs. Obtient le nombre total de copies à imprimer"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.printing/startendpageeventargs/totalcopies/
 ---
-## Champ StartEndPageEventArgs.TotalCopies
+## StartEndPageEventArgs.TotalCopies field
 
 Obtient le nombre total de copies à imprimer.
 
@@ -16,6 +16,8 @@ public readonly int TotalCopies;
 
 ### Voir aussi
 
-* classe [StartEndPageEventArgs](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

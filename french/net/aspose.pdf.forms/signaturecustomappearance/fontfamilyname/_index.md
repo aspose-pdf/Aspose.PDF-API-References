@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.FontFamilyName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignatureCustomAppearance. Obtient/définit le nom de la famille de polices. Il doit exister dans le document. Valeur par défaut Arial
+title: "SignatureCustomAppearance.FontFamilyName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SignatureCustomAppearance. Obtient/Définit le nom de la famille de polices. Elle doit exister dans le document. Valeur par défaut Arial"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/
 ---
-## Propriété SignatureCustomAppearance.FontFamilyName
+## SignatureCustomAppearance.FontFamilyName property
 
-Obtient/définit le nom de la famille de polices. Il doit exister dans le document. Valeur par défaut : Arial.
+Obtient/definit le nom de la famille de polices. Elle doit exister dans le document. Valeur par défaut: Arial.
 
 ```csharp
 public string FontFamilyName { get; set; }
@@ -16,6 +16,8 @@ public string FontFamilyName { get; set; }
 
 ### Voir aussi
 
-* classe [SignatureCustomAppearance](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

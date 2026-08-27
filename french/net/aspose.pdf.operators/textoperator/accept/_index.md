@@ -1,14 +1,14 @@
 ---
-title: TextOperator.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextOperator. Accepte l'objet visiteur pour traiter l'opérateur
+title: "TextOperator.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextOperator. Accepte l'objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/textoperator/accept/
 ---
-## Méthode TextOperator.Accept
+## TextOperator.Accept method
 
-Accepte l'objet visiteur pour traiter l'opérateur.
+Accepte un objet visiteur pour traiter l'opérateur.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -21,6 +21,8 @@ public override void Accept(IOperatorSelector visitor)
 ### Voir aussi
 
 * interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [TextOperator](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [TextOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

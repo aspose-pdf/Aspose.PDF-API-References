@@ -1,14 +1,14 @@
 ---
-title: FormOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormOptions. Obtient la collection des cibles ajoutées pour les résultats des opérations de sauvegarde
+title: "FormOptions.Outputs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FormOptions. Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/formoptions/outputs/
 ---
-## Propriété FormOptions.Outputs
+## FormOptions.Outputs property
 
-Obtient la collection des cibles ajoutées pour les résultats des opérations de sauvegarde.
+Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération.
 
 ```csharp
 public List<IDataSource> Outputs { get; }
@@ -17,6 +17,8 @@ public List<IDataSource> Outputs { get; }
 ### Voir aussi
 
 * interface [IDataSource](../../idatasource/)
-* classe [FormOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FormOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

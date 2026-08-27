@@ -1,14 +1,14 @@
 ---
-title: TextExtractionError.ExtractedText
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextExtractionError. Texte qui a été réellement extrait
+title: "TextExtractionError.ExtractedText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextExtractionError. Texte réellement extrait"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/textextractionerror/extractedtext/
 ---
-## Propriété TextExtractionError.ExtractedText
+## TextExtractionError.ExtractedText property
 
-Texte qui a été réellement extrait.
+Texte qui a réellement été extrait.
 
 ```csharp
 public string ExtractedText { get; }
@@ -16,6 +16,8 @@ public string ExtractedText { get; }
 
 ### Voir aussi
 
-* classe [TextExtractionError](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

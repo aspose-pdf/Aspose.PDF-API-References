@@ -1,12 +1,12 @@
 ---
-title: Point3D.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Point3D. Renvoie la représentation sous forme de chaîne de l'objet
+title: "Point3D.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Point3D. Retourne la représentation sous forme de chaîne de l'objet"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/point3d/tostring/
 ---
-## Méthode Point3D.ToString
+## Point3D.ToString method
 
 Renvoie la représentation sous forme de chaîne de l'objet.
 
@@ -20,6 +20,8 @@ La valeur de chaîne
 
 ### Voir aussi
 
-* classe [Point3D](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Point3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

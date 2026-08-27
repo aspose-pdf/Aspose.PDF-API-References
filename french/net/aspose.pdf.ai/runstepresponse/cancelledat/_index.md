@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.CancelledAt
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunStepResponse. Obtient ou définit le timestamp Unix en secondes pour le moment où l'étape d'exécution a été annulée
+title: "RunStepResponse.CancelledAt"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunStepResponse. Obtient ou définit le horodatage Unix en secondes du moment où l'étape d'exécution a été annulée."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/runstepresponse/cancelledat/
 ---
-## Propriété RunStepResponse.CancelledAt
+## RunStepResponse.CancelledAt property
 
-Obtient ou définit le timestamp Unix (en secondes) pour le moment où l'étape d'exécution a été annulée.
+Obtient ou définit l'horodatage Unix (en secondes) du moment où l'étape du run a été annulée.
 
 ```csharp
 public long? CancelledAt { get; set; }
@@ -16,6 +16,8 @@ public long? CancelledAt { get; set; }
 
 ### Voir aussi
 
-* classe [RunStepResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunStepResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

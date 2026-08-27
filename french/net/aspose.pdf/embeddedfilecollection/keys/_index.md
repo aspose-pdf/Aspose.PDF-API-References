@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété EmbeddedFileCollection. Renvoie la liste des clés des fichiers joints
+title: "EmbeddedFileCollection.Keys"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété EmbeddedFileCollection. Retourne la liste des clés de pièces jointes de fichier"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/embeddedfilecollection/keys/
 ---
-## Propriété EmbeddedFileCollection.Keys
+## EmbeddedFileCollection.Keys property
 
-Renvoie la liste des clés des fichiers joints.
+Renvoie la liste des clés de pièces jointes de fichiers.
 
 ```csharp
 public List<string> Keys { get; }
@@ -16,6 +16,8 @@ public List<string> Keys { get; }
 
 ### Voir aussi
 
-* classe [EmbeddedFileCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

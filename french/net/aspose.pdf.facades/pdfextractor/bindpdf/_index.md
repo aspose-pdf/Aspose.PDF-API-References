@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfExtractor. Lier le fichier PDF d'entrée
+title: "PdfExtractor.BindPdf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfExtractor. Lier le fichier PDF d'entrée"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.facades/pdfextractor/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Lier le fichier PDF d'entrée.
+Lie le fichier PDF d'entrée.
 
 ```csharp
 public override void BindPdf(string inputFile)
@@ -27,15 +27,15 @@ ext.BindPdf("sample.pdf");
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Lie le document PDF à partir du flux.
+Lie le document PDF depuis le flux.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -55,6 +55,8 @@ ext.BindPdf(stream);
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

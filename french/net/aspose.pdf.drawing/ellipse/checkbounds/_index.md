@@ -1,12 +1,12 @@
 ---
-title: Ellipse.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Ellipse.
+title: "Ellipse.CheckBounds"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Ellipse."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.drawing/ellipse/checkbounds/
 ---
-## Méthode Ellipse.CheckBounds
+## Ellipse.CheckBounds method
 
 ```csharp
 public override bool CheckBounds(double containerWidth, double containerHeight)
@@ -14,6 +14,8 @@ public override bool CheckBounds(double containerWidth, double containerHeight)
 
 ### Voir aussi
 
-* classe [Ellipse](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Ellipse](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

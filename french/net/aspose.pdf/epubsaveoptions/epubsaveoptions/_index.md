@@ -1,12 +1,12 @@
 ---
-title: EpubSaveOptions.EpubSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur EpubSaveOptions. Le constructeur par défaut
+title: "EpubSaveOptions.EpubSaveOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur EpubSaveOptions. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/epubsaveoptions/epubsaveoptions/
 ---
-## Constructeur EpubSaveOptions
+## EpubSaveOptions constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public EpubSaveOptions()
 
 ### Voir aussi
 
-* classe [EpubSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [EpubSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

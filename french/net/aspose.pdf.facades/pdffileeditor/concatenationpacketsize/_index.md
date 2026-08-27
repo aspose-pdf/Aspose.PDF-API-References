@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ConcatenationPacketSize
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileEditor. Nombre de documents concaténés avant qu'une nouvelle mise à jour incrémentielle ne soit effectuée lors de la concaténation lorsque UseDiskBuffer est défini sur true
+title: "PdfFileEditor.ConcatenationPacketSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFileEditor. Nombre de documents concaténés avant qu'une nouvelle mise à jour incrémentielle ne soit effectuée pendant la concaténation lorsque UseDiskBuffer est défini sur vrai."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/pdffileeditor/concatenationpacketsize/
 ---
-## Propriété PdfFileEditor.ConcatenationPacketSize
+## PdfFileEditor.ConcatenationPacketSize property
 
-Nombre de documents concaténés avant qu'une nouvelle mise à jour incrémentielle ne soit effectuée lors de la concaténation lorsque UseDiskBuffer est défini sur true.
+Nombre de documents concaténés avant qu'une nouvelle mise à jour incrémentielle ne soit effectuée pendant la concaténation lorsque UseDiskBuffer est défini sur true.
 
 ```csharp
 public int ConcatenationPacketSize { get; set; }
@@ -16,6 +16,8 @@ public int ConcatenationPacketSize { get; set; }
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

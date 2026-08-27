@@ -1,14 +1,14 @@
 ---
-title: Class Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.Dash. Classe représentant un motif de tirets
+title: "Classe Dash"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.Dash class. Classe représentant le motif de tirets de ligne."
 type: docs
-weight: 1650
+weight: 1740
 url: /fr/net/aspose.pdf.annotations/dash/
 ---
-## Classe Dash
+## Dash class
 
-Classe représentant un motif de tirets.
+Classe représentant le motif de tirets de ligne.
 
 ```csharp
 public sealed class Dash
@@ -18,8 +18,8 @@ public sealed class Dash
 
 | Nom | Description |
 | --- | --- |
-| [Dash](dash/#constructor_1)(int[]) | Constructeur pour Dash. Définit un motif de tirets et d'espaces qui sera utilisé pour dessiner une bordure en tirets. |
-| [Dash](dash/#constructor)(int, int) | Constructeur pour Dash. Définit une bordure en tirets avec un tiret et un espace spécifiés, qui restent inchangés pour l'ensemble de la bordure en tirets. |
+| [Dash](dash/#constructor_1)(int[]) | Constructeur pour Dash. Définit un motif de tirets et d'espaces qui sera utilisé pour dessiner une bordure en pointillés. |
+| [Dash](dash/#constructor)(int, int) | Constructeur pour Dash. Définit une bordure en pointillés avec le tiret et l'espace spécifiés, qui restent inchangés pour toute la bordure en pointillés. |
 
 ## Propriétés
 
@@ -27,9 +27,11 @@ public sealed class Dash
 | --- | --- |
 | [Off](../../aspose.pdf.annotations/dash/off/) { get; set; } | Obtient ou définit la longueur du premier espace entre les tirets. |
 | [On](../../aspose.pdf.annotations/dash/on/) { get; set; } | Obtient ou définit la longueur du premier tiret. |
-| [Pattern](../../aspose.pdf.annotations/dash/pattern/) { get; } | Obtient le tableau de tirets définissant un motif de tirets et d'espaces qui sera utilisé pour dessiner une bordure en tirets. |
+| [Pattern](../../aspose.pdf.annotations/dash/pattern/) { get; } | Obtient le tableau de tirets définissant un motif de tirets et d'espaces qui sera utilisé pour dessiner une bordure en pointillés. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MediaRendition.MediaClip
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MediaRendition. Obtient ou définit les objets de clip média associés à la rendition
+title: "MediaRendition.MediaClip"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MediaRendition. Obtient ou définit les objets de clip média associés au rendu"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/mediarendition/mediaclip/
 ---
-## Propriété MediaRendition.MediaClip
+## MediaRendition.MediaClip property
 
-Obtient ou définit les objets de clip média associés à la rendition.
+Obtient ou définit les objets de clip média associés au rendu.
 
 ```csharp
 public MediaClip MediaClip { get; }
@@ -16,7 +16,9 @@ public MediaClip MediaClip { get; }
 
 ### Voir aussi
 
-* classe [MediaClip](../../mediaclip/)
-* classe [MediaRendition](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [MediaClip](../../mediaclip/)
+* class [MediaRendition](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

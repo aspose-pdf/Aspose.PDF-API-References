@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIClient. Récupère les détails d'un assistant spécifique de manière asynchrone
+title: "OpenAIClient.GetAssistantAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAIClient. Récupère les détails d'un assistant spécifique de manière asynchrone"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf.ai/openaiclient/getassistantasync/
 ---
-## Méthode OpenAIClient.GetAssistantAsync
+## OpenAIClient.GetAssistantAsync method
 
-Récupère les détails d'un assistant spécifique de manière asynchrone.
+Récupère les détails d'un assistant spécifique de façon asynchrone.
 
 ```csharp
 public Task<AssistantResponse> GetAssistantAsync(string assistantId, 
@@ -28,11 +28,13 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID de l'assistant est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID de l'assistant est nul ou vide. |
 
 ### Voir aussi
 
-* classe [AssistantResponse](../../assistantresponse/)
-* classe [OpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AssistantResponse](../../assistantresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

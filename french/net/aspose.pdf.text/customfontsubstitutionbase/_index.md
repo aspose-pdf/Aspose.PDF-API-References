@@ -1,12 +1,12 @@
 ---
-title: Class CustomFontSubstitutionBase
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.CustomFontSubstitutionBase. Représente une classe de base pour la stratégie de substitution de police personnalisée
+title: "Classe CustomFontSubstitutionBase"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Text.CustomFontSubstitutionBase. Représente une classe de base pour la stratégie de substitution de police personnalisée."
 type: docs
-weight: 10470
+weight: 10650
 url: /fr/net/aspose.pdf.text/customfontsubstitutionbase/
 ---
-## Classe CustomFontSubstitutionBase
+## CustomFontSubstitutionBase class
 
 Représente une classe de base pour la stratégie de substitution de police personnalisée.
 
@@ -24,16 +24,18 @@ public class CustomFontSubstitutionBase : FontSubstitution
 
 | Nom | Description |
 | --- | --- |
-| virtual [TrySubstitute](../../aspose.pdf.text/customfontsubstitutionbase/trysubstitute/)(OriginalFontSpecification, out Font) | Substitue la police originale par une autre police. |
+| virtual [TrySubstitute](../../aspose.pdf.text/customfontsubstitutionbase/trysubstitute/)(OriginalFontSpecification, out Font) | Remplace la police d'origine par une autre police. |
 
-## Autres Membres
+## Autres membres
 
 | Nom | Description |
 | --- | --- |
-| class [OriginalFontSpecification](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification) | Représente la spécification de la police originale. |
+| class [OriginalFontSpecification](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification) | Représente la spécification de police d'origine. |
 
-### Voir Aussi
+### Voir aussi
 
 * class [FontSubstitution](../fontsubstitution/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

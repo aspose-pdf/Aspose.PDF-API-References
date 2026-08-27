@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.Open
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextAnnotation. Obtient ou définit un indicateur spécifiant si l'annotation doit être initialement affichée ouverte
+title: "TextAnnotation.Open"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextAnnotation. Obtient ou définit un indicateur spécifiant si l'annotation doit être affichée ouverte initialement"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/textannotation/open/
 ---
-## Propriété TextAnnotation.Open
+## TextAnnotation.Open property
 
-Obtient ou définit un indicateur spécifiant si l'annotation doit être initialement affichée ouverte.
+Obtient ou définit un indicateur spécifiant si l'annotation doit être affichée ouverte initialement.
 
 ```csharp
 public bool Open { get; set; }
@@ -16,6 +16,8 @@ public bool Open { get; set; }
 
 ### Voir aussi
 
-* classe [TextAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [TextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

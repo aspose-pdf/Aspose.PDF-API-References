@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextFragmentState. Mesure la chaîne
+title: "TextFragmentState.MeasureString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextFragmentState. Mesure la chaîne"
 type: docs
 weight: 270
 url: /fr/net/aspose.pdf.text/textfragmentstate/measurestring/
 ---
-## Méthode TextFragmentState.MeasureString
+## TextFragmentState.MeasureString method
 
 Mesure la chaîne.
 
@@ -24,6 +24,8 @@ Largeur de la chaîne.
 
 ### Voir aussi
 
-* classe [TextFragmentState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

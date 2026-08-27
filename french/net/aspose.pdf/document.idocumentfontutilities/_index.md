@@ -1,12 +1,12 @@
 ---
-title: Interface Document.IDocumentFontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.DocumentIDocumentFontUtilities. Contient des fonctionnalités pour ajuster les polices
+title: "Interface Document.IDocumentFontUtilities"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.DocumentIDocumentFontUtilities. Contient des fonctionnalités pour ajuster les polices"
 type: docs
-weight: 3820
+weight: 3940
 url: /fr/net/aspose.pdf/document.idocumentfontutilities/
 ---
-## Interface Document.IDocumentFontUtilities
+## Document.IDocumentFontUtilities interface
 
 Contient des fonctionnalités pour ajuster les polices
 
@@ -19,10 +19,12 @@ public interface IDocumentFontUtilities
 | Nom | Description |
 | --- | --- |
 | [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | Renvoie toutes les polices du document |
-| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | Sous-ensembles toutes les polices dans le document |
+| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | Crée des sous-ensembles de toutes les polices du document |
 
 ### Voir aussi
 
-* classe [Document](../document/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

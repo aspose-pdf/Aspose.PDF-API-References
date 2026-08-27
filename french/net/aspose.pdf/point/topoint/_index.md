@@ -1,12 +1,12 @@
 ---
-title: Point.ToPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Point. Convertit le point en objet System.Drawing.PointF
+title: "Point.ToPoint"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Point. Convertit le point en objet System.Drawing.PointF"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/point/topoint/
 ---
-## Méthode Point.ToPoint
+## Point.ToPoint method
 
 Convertit le point en objet System.Drawing.PointF.
 
@@ -20,6 +20,8 @@ Structure PointF.
 
 ### Voir aussi
 
-* classe [Point](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

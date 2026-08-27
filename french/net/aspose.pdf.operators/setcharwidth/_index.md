@@ -1,14 +1,14 @@
 ---
-title: Class SetCharWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetCharWidth. Classe représentant l'opérateur d0 pour définir la largeur des glyphes
+title: "Classe SetCharWidth"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.SetCharWidth classe. Classe représentant l'opérateur d0 qui définit la largeur du glyphe"
 type: docs
-weight: 7600
+weight: 7740
 url: /fr/net/aspose.pdf.operators/setcharwidth/
 ---
-## Classe SetCharWidth
+## SetCharWidth class
 
-Classe représentant l'opérateur d0 (définir la largeur des glyphes).
+Classe représentant l'opérateur d0 (définir la largeur du glyphe).
 
 ```csharp
 public class SetCharWidth : Operator
@@ -32,12 +32,14 @@ public class SetCharWidth : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcharwidth/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/setcharwidth/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/setcharwidth/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

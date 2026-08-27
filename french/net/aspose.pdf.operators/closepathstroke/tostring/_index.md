@@ -1,12 +1,12 @@
 ---
-title: ClosePathStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ClosePathStroke. Renvoie la représentation textuelle de l'opérateur
+title: "ClosePathStroke.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ClosePathStroke. Retourne la représentation texte de l'opérateur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/closepathstroke/tostring/
 ---
-## Méthode ClosePathStroke.ToString
+## ClosePathStroke.ToString method
 
 Renvoie la représentation textuelle de l'opérateur.
 
@@ -20,6 +20,8 @@ Représentation textuelle de l'opérateur.
 
 ### Voir aussi
 
-* classe [ClosePathStroke](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [ClosePathStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ImageDescription.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImageDescription. Obtient ou définit le nom de l'image
+title: "ImageDescription.Name"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ImageDescription propriété. Obtient ou définit le nom de l'image"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/imagedescription/name/
 ---
-## Propriété ImageDescription.Name
+## ImageDescription.Name property
 
 Obtient ou définit le nom de l'image.
 
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Voir aussi
 
-* classe [ImageDescription](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ImageDescription](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

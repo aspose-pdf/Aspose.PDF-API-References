@@ -1,14 +1,14 @@
 ---
-title: Class FitBHExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.FitBHExplicitDestination. Représente une destination explicite qui affiche la page avec la coordonnée verticale top positionnée au bord supérieur de la fenêtre et le contenu de la page agrandi juste assez pour que la largeur entière de sa boîte englobante tienne dans la fenêtre. Une valeur nulle pour top spécifie que la valeur actuelle de ce paramètre doit être conservée inchangée.
+title: "Classe FitBHExplicitDestination"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.FitBHExplicitDestination class. Représente une destination explicite qui affiche la page avec la coordonnée verticale top positionnée au bord supérieur de la fenêtre et le contenu de la page agrandi juste assez pour que toute la largeur de sa boîte englobante tienne dans la fenêtre. Une valeur nulle pour top indique que la valeur actuelle de ce paramètre doit être conservée inchangée."
 type: docs
-weight: 1740
+weight: 1830
 url: /fr/net/aspose.pdf.annotations/fitbhexplicitdestination/
 ---
-## Classe FitBHExplicitDestination
+## FitBHExplicitDestination class
 
-Représente une destination explicite qui affiche la page avec la coordonnée verticale top positionnée au bord supérieur de la fenêtre et le contenu de la page agrandi juste assez pour que la largeur entière de sa boîte englobante tienne dans la fenêtre. Une valeur nulle pour top spécifie que la valeur actuelle de ce paramètre doit être conservée inchangée.
+Représente une destination explicite qui affiche la page avec la coordonnée verticale supérieure positionnée au bord supérieur de la fenêtre et le contenu de la page agrandi juste assez pour que la largeur totale de sa boîte englobante tienne dans la fenêtre. Une valeur nulle pour top indique que la valeur actuelle de ce paramètre doit être conservée inchangée.
 
 ```csharp
 public sealed class FitBHExplicitDestination : ExplicitDestination
@@ -25,8 +25,8 @@ public sealed class FitBHExplicitDestination : ExplicitDestination
 
 | Nom | Description |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Obtient l'objet de la page de destination |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Obtient le numéro de la page de destination |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Obtient l'objet de page de destination |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Obtient le numéro de page de destination |
 | [Top](../../aspose.pdf.annotations/fitbhexplicitdestination/top/) { get; } | Obtient la coordonnée verticale top positionnée au bord supérieur de la fenêtre. |
 
 ## Méthodes
@@ -37,6 +37,8 @@ public sealed class FitBHExplicitDestination : ExplicitDestination
 
 ### Voir aussi
 
-* classe [ExplicitDestination](../explicitdestination/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [ExplicitDestination](../explicitdestination/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

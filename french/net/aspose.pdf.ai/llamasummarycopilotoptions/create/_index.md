@@ -1,7 +1,7 @@
 ---
-title: LlamaSummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode LlamaSummaryCopilotOptions. Crée une nouvelle instance de LlamaSummaryCopilotOptions
+title: "LlamaSummaryCopilotOptions.Create"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode LlamaSummaryCopilotOptions. Crée une nouvelle instance de LlamaSummaryCopilotOptions"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/llamasummarycopilotoptions/create/
@@ -14,11 +14,11 @@ Crée une nouvelle instance de [`LlamaSummaryCopilotOptions`](../).
 public static LlamaSummaryCopilotOptions Create()
 ```
 
-### Return Value
+### Valeur de retour
 
 Une nouvelle instance de [`LlamaSummaryCopilotOptions`](../).
 
-### See Also
+### Voir aussi
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -34,16 +34,18 @@ Crée une instance de [`LlamaSummaryCopilotOptions`](../) et la configure en uti
 public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | config | Action`1 | Le délégué pour configurer les options. |
 
-### Return Value
+### Valeur de retour
 
 L'instance configurée de [`LlamaSummaryCopilotOptions`](../).
 
-### See Also
+### Voir aussi
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

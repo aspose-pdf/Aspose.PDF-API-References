@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.BoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PDF3DRenderMode. Le mode de rendu BoundingBox
+title: "PDF3DRenderMode.BoundingBox"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PDF3DRenderMode. Le mode de rendu BoundingBox"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/pdf3drendermode/boundingbox/
 ---
-## Champ PDF3DRenderMode.BoundingBox
+## PDF3DRenderMode.BoundingBox field
 
 Le mode de rendu "BoundingBox".
 
@@ -16,6 +16,8 @@ public static PDF3DRenderMode BoundingBox;
 
 ### Voir aussi
 
-* classe [PDF3DRenderMode](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

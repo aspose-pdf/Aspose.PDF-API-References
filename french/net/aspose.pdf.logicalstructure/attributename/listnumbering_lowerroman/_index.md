@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_LowerRoman
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Liste des numéros d'attributs LowerRoman - Chiffres romains minuscules i ii iii iv
+title: "AttributeName.ListNumbering_LowerRoman"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ AttributeName. Attribut ListNumbering LowerRoman  Chiffres romains minuscules i ii iii iv"
 type: docs
 weight: 290
 url: /fr/net/aspose.pdf.logicalstructure/attributename/listnumbering_lowerroman/
 ---
-## Champ AttributeName.ListNumbering_LowerRoman
+## AttributeName.ListNumbering_LowerRoman field
 
-Liste des numéros d'attributs : LowerRoman - Chiffres romains minuscules (i, ii, iii, iv, ...).
+Attribut ListNumbering : LowerRoman - Chiffres romains minuscules (i, ii, iii, iv, ...).
 
 ```csharp
 public static readonly AttributeName ListNumbering_LowerRoman;
@@ -16,6 +16,8 @@ public static readonly AttributeName ListNumbering_LowerRoman;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

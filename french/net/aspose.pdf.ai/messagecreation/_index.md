@@ -1,12 +1,12 @@
 ---
-title: Class MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.MessageCreation. Représente la création d'un message avec son identifiant unique
+title: "Classe MessageCreation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.MessageCreation. Représente la création d'un message avec son identifiant unique"
 type: docs
-weight: 800
+weight: 850
 url: /fr/net/aspose.pdf.ai/messagecreation/
 ---
-## Classe MessageCreation
+## MessageCreation class
 
 Représente la création d'un message avec son identifiant unique.
 
@@ -28,5 +28,7 @@ public class MessageCreation
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

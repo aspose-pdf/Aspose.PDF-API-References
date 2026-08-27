@@ -1,14 +1,14 @@
 ---
-title: Class PdfGeneratorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.PdfGeneratorOptions. Représente les options pour les plugins de générateur
+title: "Classe PdfGeneratorOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.PdfGeneratorOptions. Représente les options pour les plugins Generator"
 type: docs
-weight: 9080
+weight: 9230
 url: /fr/net/aspose.pdf.plugins/pdfgeneratoroptions/
 ---
-## Classe PdfGeneratorOptions
+## PdfGeneratorOptions class
 
-Représente les options pour les plugins de générateur.
+Représente les options pour les plugins Generator.
 
 ```csharp
 public abstract class PdfGeneratorOptions : IPluginOptions
@@ -19,7 +19,7 @@ public abstract class PdfGeneratorOptions : IPluginOptions
 | Nom | Description |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | Renvoie la collection de données du plugin PdfGenerator. |
-| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour les résultats des opérations de sauvegarde. |
+| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
 
 ## Méthodes
 
@@ -33,3 +33,5 @@ public abstract class PdfGeneratorOptions : IPluginOptions
 * interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.ChatMessage. Un message de complétion de chat généré par le modèle
+title: "Classe ChatMessage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.ChatMessage. Un message de complétion de chat généré par le modèle"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf.ai/chatmessage/
 ---
-## Classe ChatMessage
+## ChatMessage class
 
 Un message de complétion de chat généré par le modèle.
 
@@ -26,8 +26,8 @@ public class ChatMessage
 | Nom | Description |
 | --- | --- |
 | [Content](../../aspose.pdf.ai/chatmessage/content/) { get; set; } | Obtient ou définit le contenu du message. |
-| [Name](../../aspose.pdf.ai/chatmessage/name/) { get; set; } | Obtient ou définit un nom optionnel pour le participant. Fournit des informations au modèle pour différencier les participants du même rôle. |
-| [Role](../../aspose.pdf.ai/chatmessage/role/) { get; set; } | Obtient ou définit le rôle de l'auteur des messages. |
+| [Name](../../aspose.pdf.ai/chatmessage/name/) { get; set; } | Obtient ou définit un nom optionnel pour le participant. Fournit au modèle les informations permettant de différencier les participants du même rôle. |
+| [Role](../../aspose.pdf.ai/chatmessage/role/) { get; set; } | Obtient ou définit le rôle de l'auteur du message. |
 | [ToolCallId](../../aspose.pdf.ai/chatmessage/toolcallid/) { get; set; } | Obtient ou définit l'appel d'outil auquel ce message répond. |
 | [ToolCalls](../../aspose.pdf.ai/chatmessage/toolcalls/) { get; set; } | Obtient ou définit les appels d'outil générés par le modèle, tels que les appels de fonction. |
 
@@ -41,5 +41,7 @@ public class ChatMessage
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

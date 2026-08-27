@@ -1,14 +1,14 @@
 ---
-title: Class FitExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.FitExplicitDestination. Représente une destination explicite qui affiche la page avec son contenu agrandi juste assez pour que l'ensemble de la page tienne dans la fenêtre à la fois horizontalement et verticalement. Si les facteurs de grossissement horizontal et vertical requis sont différents, utilisez le plus petit des deux, centrant la page dans la fenêtre dans l'autre dimension.
+title: "Classe FitExplicitDestination"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.FitExplicitDestination class. Représente une destination explicite qui affiche la page avec son contenu agrandi juste assez pour faire tenir toute la page dans la fenêtre à la fois horizontalement et verticalement. Si les facteurs d'agrandissement horizontaux et verticaux requis sont différents, utilisez le plus petit des deux en centrant la page dans la fenêtre dans l'autre dimension."
 type: docs
-weight: 1760
+weight: 1850
 url: /fr/net/aspose.pdf.annotations/fitexplicitdestination/
 ---
-## Classe FitExplicitDestination
+## FitExplicitDestination class
 
-Représente une destination explicite qui affiche la page avec son contenu agrandi juste assez pour que l'ensemble de la page tienne dans la fenêtre à la fois horizontalement et verticalement. Si les facteurs de grossissement horizontal et vertical requis sont différents, utilisez le plus petit des deux, centrant la page dans la fenêtre dans l'autre dimension.
+Représente une destination explicite qui affiche la page avec son contenu agrandi juste assez pour que la page entière tienne dans la fenêtre, à la fois horizontalement et verticalement. Si les facteurs d'agrandissement horizontal et vertical requis sont différents, utilisez le plus petit des deux, en centrant la page dans la fenêtre dans l'autre dimension.
 
 ```csharp
 public sealed class FitExplicitDestination : ExplicitDestination
@@ -25,17 +25,19 @@ public sealed class FitExplicitDestination : ExplicitDestination
 
 | Nom | Description |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Obtient l'objet de la page de destination |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Obtient le numéro de la page de destination |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Obtient l'objet de page de destination |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Obtient le numéro de page de destination |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitexplicitdestination/tostring/)() | Convertit l'état de l'objet en valeur de chaîne. Exemple : "1 Fit". |
+| override [ToString](../../aspose.pdf.annotations/fitexplicitdestination/tostring/)() | Convertit l'état de l'objet en valeur chaîne. Exemple : \"1 Fit\". |
 
 ### Voir aussi
 
-* classe [ExplicitDestination](../explicitdestination/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [ExplicitDestination](../explicitdestination/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

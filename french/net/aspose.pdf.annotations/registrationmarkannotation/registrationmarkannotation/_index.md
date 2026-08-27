@@ -1,14 +1,14 @@
 ---
-title: RegistrationMarkAnnotation.RegistrationMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de RegistrationMarkAnnotation. Initialise une nouvelle instance de la classe RegistrationMarkAnnotation sur la page donnée à l'emplacement donné
+title: "RegistrationMarkAnnotation.RegistrationMarkAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur RegistrationMarkAnnotation. Initialise une nouvelle instance de la classe RegistrationMarkAnnotation sur la page donnée à l'emplacement indiqué"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/registrationmarkannotation/registrationmarkannotation/
 ---
-## Constructeur de RegistrationMarkAnnotation
+## RegistrationMarkAnnotation constructor
 
-Initialise une nouvelle instance de la classe [`RegistrationMarkAnnotation`](../) sur la page donnée à l'emplacement donné.
+Initialise une nouvelle instance de la classe [`RegistrationMarkAnnotation`](../) sur la page donnée à l'emplacement indiqué.
 
 ```csharp
 public RegistrationMarkAnnotation(Page page, PrinterMarkSidePosition position)
@@ -21,8 +21,10 @@ public RegistrationMarkAnnotation(Page page, PrinterMarkSidePosition position)
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* énum [PrinterMarkSidePosition](../../printermarksideposition/)
-* classe [RegistrationMarkAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarkSidePosition](../../printermarksideposition/)
+* class [RegistrationMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

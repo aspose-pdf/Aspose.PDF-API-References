@@ -1,14 +1,14 @@
 ---
-title: Class MdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.MdLoadOptions. Options de chargement pour la conversion au format Markdown
+title: "Classe MdLoadOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.MdLoadOptions. Options de chargement pour la conversion du format Markdown"
 type: docs
-weight: 6940
+weight: 7080
 url: /fr/net/aspose.pdf/mdloadoptions/
 ---
-## Classe MdLoadOptions
+## MdLoadOptions class
 
-Options de chargement pour la conversion au format Markdown.
+Options de chargement pour la conversion du format Markdown.
 
 ```csharp
 public class MdLoadOptions : LoadOptions
@@ -24,11 +24,11 @@ public class MdLoadOptions : LoadOptions
 
 | Nom | Description |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Obtient ou définit un indicateur pour désactiver les restrictions de licence pour toutes les polices lors du chargement du fichier. Lorsque `true`, permet d'exécuter des opérations avec des polices qui sont interdites par une licence de cette police, par exemple permet d'incorporer une police dans un document PDF même si les règles de licence interdisent l'incorporation pour cette police. Par défaut `false`. |
-| [IsPriorityCssPageRule](../../aspose.pdf/mdloadoptions/isprioritycsspagerule/) { get; set; } | Obtient ou définit l'indicateur qui spécifie que les règles @page définies dans css remplaceront les valeurs définies dans PageInfo. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Représente le format de fichier que décrit [`LoadOptions`](../loadoptions/). |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Obtient ou définit le drapeau permettant de désactiver toutes les restrictions de licence pour toutes les polices lors du chargement du fichier. Lorsque `true`, autorise l’exécution d’opérations avec une police qui sont interdites par la licence de cette police, par exemple autorise l’intégration d’une police dans un document PDF même si les règles de licence désactivent l’intégration pour cette police. Par défaut `false`. |
+| [IsPriorityCssPageRule](../../aspose.pdf/mdloadoptions/isprioritycsspagerule/) { get; set; } | Obtient ou définit l’indicateur qui spécifie que les règles @page définies dans le css remplaceront les valeurs définies dans PageInfo. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Représente le format de fichier décrit par [`LoadOptions`](../loadoptions/). |
 | [PageInfo](../../aspose.pdf/mdloadoptions/pageinfo/) { get; set; } | Obtient ou définit les informations de page du document |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Rappel pour gérer les avertissements générés. Le WarningHandler retourne un élément de l'énumération ReturnAction spécifiant soit Continue soit Abort. Continue est l'action par défaut et l'opération de chargement continue, cependant l'utilisateur peut également retourner Abort dans ce cas l'opération de chargement doit cesser. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Fonction de rappel pour gérer les avertissements générés. Le WarningHandler renvoie un élément de l’énumération ReturnAction spécifiant soit Continue, soit Abort. Continue est l’action par défaut et l’opération de chargement se poursuit, cependant l’utilisateur peut également renvoyer Abort, auquel cas l’opération de chargement doit s’arrêter. |
 
 ## Exemples
 
@@ -36,22 +36,22 @@ L'exemple suivant montre comment convertir un fichier MD en fichier PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Le chemin du répertoire des documents.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your MD File.
+	// Le chemin vers votre fichier MD.
 	string mdFile = Path.Combine(dataDir, "MD-to-PDF.md");
 
-	// The path to output PDF File.
+	// Le chemin du fichier PDF de sortie.
 	string pdfFile = Path.Combine(dataDir, "MD-to-PDF.pdf");
 
-	// Initialize MdLoadOptions	
+	// Initialiser MdLoadOptions	
 	MdLoadOptions mdLoadOptions = new MdLoadOptions();
 		
 	using (Document pdfDocument = new Document(mdFile, mdLoadOptions))
 	{
 	 
-		// Save PDF file
+		// Enregistrer le fichier PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -80,6 +80,8 @@ L'exemple suivant montre comment convertir un fichier MD en fichier PDF
 
 ### Voir aussi
 
-* classe [LoadOptions](../loadoptions/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

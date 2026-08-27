@@ -1,12 +1,12 @@
 ---
-title: Form.GetField
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Obtient la valeur des champs selon son nom de champ
+title: "Form.GetField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Obtient la valeur du champ selon son nom."
 type: docs
 weight: 200
 url: /fr/net/aspose.pdf.facades/form/getfield/
 ---
-## Méthode Form.GetField
+## Form.GetField method
 
 Obtient la valeur du champ selon son nom de champ.
 
@@ -16,11 +16,11 @@ public string GetField(string fieldName)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fieldName | String | Le nom de champ entièrement qualifié. |
+| fieldName | String | Le nom complet du champ. |
 
 ### Valeur de retour
 
-La valeur du champ.
+Valeur du champ.
 
 ## Exemples
 
@@ -31,6 +31,8 @@ Console.WriteLine("Field value = " + form.GetField("Field1"));
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

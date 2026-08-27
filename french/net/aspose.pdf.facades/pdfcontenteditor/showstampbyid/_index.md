@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.ShowStampById
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Affiche le tampon qui a été caché par HiddenStampById
+title: "PdfContentEditor.ShowStampById"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Affiche le tampon qui a été masqué par HiddenStampById"
 type: docs
 weight: 460
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/showstampbyid/
 ---
-## Méthode PdfContentEditor.ShowStampById
+## PdfContentEditor.ShowStampById method
 
-Affiche le tampon qui a été caché par HiddenStampById.
+Affiche le tampon qui a été masqué par HiddenStampById.
 
 ```csharp
 public void ShowStampById(int pageNumber, int stampId)
@@ -21,6 +21,8 @@ public void ShowStampById(int pageNumber, int stampId)
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class AICopilotException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.AICopilotException. Représente une exception spécifique aux opérations des Copilotes
+title: "Classe AICopilotException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.AI.AICopilotException classe. Représente une exception spécifique aux opérations des copilotes"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.ai/aicopilotexception/
 ---
-## Classe AICopilotException
+## AICopilotException class
 
-Représente une exception spécifique aux opérations des Copilotes.
+Représente une exception spécifique aux opérations des copilotes.
 
 ```csharp
 public class AICopilotException : PdfException
@@ -23,6 +23,8 @@ public class AICopilotException : PdfException
 
 ### Voir aussi
 
-* classe [PdfException](../../aspose.pdf/pdfexception/)
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [PdfException](../../aspose.pdf/pdfexception/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

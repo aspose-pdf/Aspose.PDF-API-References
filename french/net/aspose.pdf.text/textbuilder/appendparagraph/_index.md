@@ -1,12 +1,12 @@
 ---
-title: TextBuilder.AppendParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextBuilder. Ajoute un paragraphe de texte à la page Pdf
+title: "TextBuilder.AppendParagraph"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextBuilder. Ajoute un paragraphe de texte à la page Pdf."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/textbuilder/appendparagraph/
 ---
-## Méthode TextBuilder.AppendParagraph
+## TextBuilder.AppendParagraph method
 
 Ajoute un paragraphe de texte à la page Pdf.
 
@@ -20,38 +20,40 @@ public void AppendParagraph(TextParagraph textParagraph)
 
 ## Exemples
 
-L'exemple démontre comment créer un objet paragraphe de texte et l'ajouter à la page Pdf.
+L'exemple montre comment créer un objet de paragraphe de texte et l'ajouter à la page Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// create text paragraph
+// créer un paragraphe de texte
 TextParagraph paragraph = new TextParagraph();
            
-// set the paragraph rectangle
+// définir le rectangle du paragraphe
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// set word wrapping options
+// définir les options de retour à la ligne
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// append string lines
+// ajouter des lignes de chaîne
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// append the paragraph to the Pdf page with the TextBuilder
+// ajouter le paragraphe à la page Pdf avec le TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// save Pdf document
+// enregistrer le document Pdf
 doc.Save(outFile);
 ```
 
 ### Voir aussi
 
-* classe [TextParagraph](../../textparagraph/)
-* classe [TextBuilder](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextParagraph](../../textparagraph/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

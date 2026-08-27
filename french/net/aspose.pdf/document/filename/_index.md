@@ -1,14 +1,14 @@
 ---
-title: Document.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Nom du fichier PDF qui a causé ce document
+title: "Document.FileName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Nom du fichier PDF à l'origine de ce document"
 type: docs
-weight: 180
+weight: 200
 url: /fr/net/aspose.pdf/document/filename/
 ---
-## Propriété Document.FileName
+## Document.FileName property
 
-Nom du fichier PDF qui a causé ce document
+Nom du fichier PDF à l'origine de ce document
 
 ```csharp
 public string FileName { get; }
@@ -16,6 +16,8 @@ public string FileName { get; }
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

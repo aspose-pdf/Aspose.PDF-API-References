@@ -1,12 +1,12 @@
 ---
-title: Class FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FormFlattener. Représente le plugin FormFlattener
+title: "Classe FormFlattener"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.FormFlattener. Représente le plugin FormFlattener"
 type: docs
-weight: 8750
+weight: 8880
 url: /fr/net/aspose.pdf.plugins/formflattener/
 ---
-## Classe FormFlattener
+## FormFlattener class
 
 Représente le plugin FormFlattener.
 
@@ -24,10 +24,12 @@ public sealed class FormFlattener : IPlugin
 
 | Nom | Description |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/formflattener/process/)(IPluginOptions) | Démarre le traitement de FormFlattener avec les paramètres spécifiés. |
+| [Process](../../aspose.pdf.plugins/formflattener/process/)(IPluginOptions) | Démarre le traitement FormFlattener avec les paramètres spécifiés. |
 
 ### Voir aussi
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

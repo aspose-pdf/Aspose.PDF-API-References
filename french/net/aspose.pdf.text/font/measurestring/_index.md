@@ -1,12 +1,12 @@
 ---
-title: Font.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Font. Mesure la chaîne
+title: "Font.MeasureString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Font. Mesure la chaîne"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.text/font/measurestring/
 ---
-## Méthode Font.MeasureString
+## Font.MeasureString method
 
 Mesure la chaîne.
 
@@ -17,7 +17,7 @@ public double MeasureString(string str, float fontSize)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | str | String | La chaîne. |
-| fontSize | Single | Taille de la police. |
+| fontSize | Single | Taille de police. |
 
 ### Valeur de retour
 
@@ -25,6 +25,8 @@ Largeur de la chaîne représentée avec cette police et la taille spécifiée.
 
 ### Voir aussi
 
-* classe [Font](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

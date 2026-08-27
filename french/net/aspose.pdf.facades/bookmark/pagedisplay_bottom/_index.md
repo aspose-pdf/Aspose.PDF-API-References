@@ -1,12 +1,12 @@
 ---
-title: Bookmark.PageDisplay_Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de signet. Obtient ou définit la coordonnée inférieure de l'affichage de la page
+title: "Bookmark.PageDisplay_Bottom"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Bookmark. Obtient ou définit la coordonnée inférieure de l'affichage de la page"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.facades/bookmark/pagedisplay_bottom/
 ---
-## Propriété Bookmark.PageDisplay_Bottom
+## Bookmark.PageDisplay_Bottom property
 
 Obtient ou définit la coordonnée inférieure de l'affichage de la page.
 
@@ -16,6 +16,8 @@ public int PageDisplay_Bottom { get; set; }
 
 ### Voir aussi
 
-* classe [Bookmark](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Instructions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunResponse. Obtient ou définit les instructions que l'assistant a utilisées pour cette exécution
+title: "RunResponse.Instructions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunResponse. Obtient ou définit les instructions que l'assistant a utilisées pour cette exécution"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.ai/runresponse/instructions/
 ---
-## Propriété RunResponse.Instructions
+## RunResponse.Instructions property
 
-Obtient ou définit les instructions que l'assistant a utilisées pour cette exécution.
+Obtient ou définit les instructions que l'assistant a utilisées pour ce run.
 
 ```csharp
 public string Instructions { get; set; }
@@ -16,6 +16,8 @@ public string Instructions { get; set; }
 
 ### Voir aussi
 
-* classe [RunResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class XmpField
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.XmpField. Représente un champ XMP
+title: "Classe XmpField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.XmpField classe. Représente le champ XMP."
 type: docs
-weight: 11410
+weight: 11600
 url: /fr/net/aspose.pdf/xmpfield/
 ---
-## Classe XmpField
+## XmpField class
 
-Représente un champ XMP.
+Représente le champ XMP.
 
 ```csharp
 public class XmpField
@@ -22,7 +22,7 @@ public class XmpField
 | static [Lang](../../aspose.pdf/xmpfield/lang/) { get; } | Obtient le qualificateur xml:lang. |
 | [FieldType](../../aspose.pdf/xmpfield/fieldtype/) { get; } | Obtient le type du champ. |
 | [IsEmpty](../../aspose.pdf/xmpfield/isempty/) { get; } | Obtient une valeur indiquant si cette instance est vide. |
-| [LocalName](../../aspose.pdf/xmpfield/localname/) { get; set; } | Obtient ou définit le nom local. |
+| [LocalName](../../aspose.pdf/xmpfield/localname/) { get; set; } | Obtient ou définit le nom du local. |
 | [Name](../../aspose.pdf/xmpfield/name/) { get; } | Obtient le nom. |
 | [NamespaceUri](../../aspose.pdf/xmpfield/namespaceuri/) { get; set; } | Obtient l'URI de l'espace de noms. |
 | [Prefix](../../aspose.pdf/xmpfield/prefix/) { get; set; } | Obtient le préfixe. |
@@ -43,3 +43,5 @@ public class XmpField
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

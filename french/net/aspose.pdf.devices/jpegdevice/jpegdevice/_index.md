@@ -1,14 +1,14 @@
 ---
-title: JpegDevice.JpegDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur JpegDevice. Initialise une nouvelle instance de la classe JpegDevice avec une résolution par défaut et une qualité maximale
+title: "JpegDevice.JpegDevice"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur JpegDevice. Initialise une nouvelle instance de la classe JpegDevice avec la résolution par défaut et la qualité maximale."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.devices/jpegdevice/jpegdevice/
 ---
 ## JpegDevice() {#constructor}
 
-Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec une résolution par défaut et une qualité maximale.
+Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec la résolution par défaut et la qualité maximale.
 
 ```csharp
 public JpegDevice()
@@ -16,15 +16,15 @@ public JpegDevice()
 
 ### Voir aussi
 
-* classe [JpegDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(Resolution) {#constructor_1}
 
-Initialise une nouvelle instance de la classe [`JpegDevice`](../). Résolution pour le fichier image résultant, voir la classe [`Resolution`](../../resolution/).
+Initialise une nouvelle instance de la classe [`JpegDevice`](../). Résolution du fichier image résultant, voir la classe [`Resolution`](../../resolution/).
 
 ```csharp
 public JpegDevice(Resolution resolution)
@@ -32,9 +32,9 @@ public JpegDevice(Resolution resolution)
 
 ### Voir aussi
 
-* classe [Resolution](../../resolution/)
-* classe [JpegDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -49,12 +49,12 @@ public JpegDevice(int quality)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| quality | Int32 | Spécifie le niveau de compression pour une image. La plage de valeurs utiles pour la qualité est de 0 à 100. Plus le nombre spécifié est bas, plus la compression est élevée et donc la qualité de l'image est plus faible. Zéro donnerait l'image de la plus basse qualité et 100 la plus haute. |
+| quality | Int32 | Spécifie le niveau de compression d’une image. L’intervalle des valeurs utiles pour la qualité va de 0 à 100. Plus le nombre spécifié est bas, plus la compression est élevée et donc la qualité de l’image est moindre. Un zéro donne l’image de la plus basse qualité et 100 la plus élevée. |
 
 ### Voir aussi
 
-* classe [JpegDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -69,21 +69,21 @@ public JpegDevice(Resolution resolution, int quality)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| resolution | Resolution | Résolution pour le fichier image résultant, voir la classe [`Resolution`](../../resolution/). |
-| quality | Int32 | Spécifie le niveau de compression pour une image. La plage de valeurs utiles pour la qualité est de 0 à 100. Plus le nombre spécifié est bas, plus la compression est élevée et donc la qualité de l'image est plus faible. Zéro donnerait l'image de la plus basse qualité et 100 la plus haute. |
+| resolution | Resolution | Résolution du fichier image résultant, voir la classe [`Resolution`](../../resolution/). |
+| quality | Int32 | Spécifie le niveau de compression d’une image. L’intervalle des valeurs utiles pour la qualité va de 0 à 100. Plus le nombre spécifié est bas, plus la compression est élevée et donc la qualité de l’image est moindre. Un zéro donne l’image de la plus basse qualité et 100 la plus élevée. |
 
 ### Voir aussi
 
-* classe [Resolution](../../resolution/)
-* classe [JpegDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int) {#constructor_7}
 
-Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec les dimensions d'image fournies, une résolution par défaut (=150) et une qualité maximale.
+Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec les dimensions d’image fournies, la résolution par défaut (=150) et la qualité maximale.
 
 ```csharp
 public JpegDevice(int width, int height)
@@ -91,20 +91,20 @@ public JpegDevice(int width, int height)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| width | Int32 | Largeur de sortie de l'image. |
-| height | Int32 | Hauteur de sortie de l'image. |
+| largeur | Int32 | Largeur de sortie de l'image. |
+| hauteur | Int32 | Hauteur de sortie de l'image. |
 
 ### Voir aussi
 
-* classe [JpegDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(PageSize) {#constructor_3}
 
-Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec la taille de page fournie, une résolution par défaut (=150) et une qualité maximale.
+Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec la taille de page fournie, la résolution par défaut (=150) et la qualité maximale.
 
 ```csharp
 public JpegDevice(PageSize pageSize)
@@ -116,16 +116,16 @@ public JpegDevice(PageSize pageSize)
 
 ### Voir aussi
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [JpegDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int, Resolution) {#constructor_8}
 
-Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec les dimensions d'image fournies, la résolution et une qualité maximale.
+Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec les dimensions d’image fournies, la résolution et la qualité maximale.
 
 ```csharp
 public JpegDevice(int width, int height, Resolution resolution)
@@ -133,22 +133,22 @@ public JpegDevice(int width, int height, Resolution resolution)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| width | Int32 | Largeur de sortie de l'image. |
-| height | Int32 | Hauteur de sortie de l'image. |
-| resolution | Resolution | Résolution pour le fichier image résultant, voir la classe [`Resolution`](../../resolution/). |
+| largeur | Int32 | Largeur de sortie de l'image. |
+| hauteur | Int32 | Hauteur de sortie de l'image. |
+| resolution | Resolution | Résolution du fichier image résultant, voir la classe [`Resolution`](../../resolution/). |
 
 ### Voir aussi
 
-* classe [Resolution](../../resolution/)
-* classe [JpegDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(PageSize, Resolution) {#constructor_4}
 
-Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec la taille de page fournie, la résolution et une qualité maximale.
+Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec la taille de page fournie, la résolution et la qualité maximale.
 
 ```csharp
 public JpegDevice(PageSize pageSize, Resolution resolution)
@@ -157,21 +157,21 @@ public JpegDevice(PageSize pageSize, Resolution resolution)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | pageSize | PageSize | Taille de page de l'image de sortie. |
-| resolution | Resolution | Résolution pour le fichier image résultant, voir la classe [`Resolution`](../../resolution/). |
+| resolution | Resolution | Résolution du fichier image résultant, voir la classe [`Resolution`](../../resolution/). |
 
 ### Voir aussi
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [Resolution](../../resolution/)
-* classe [JpegDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int, Resolution, int) {#constructor_9}
 
-Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec les dimensions d'image fournies, la résolution et la qualité.
+Initialise une nouvelle instance de la classe [`JpegDevice`](../) avec les dimensions d’image fournies, la résolution et la qualité.
 
 ```csharp
 public JpegDevice(int width, int height, Resolution resolution, int quality)
@@ -179,16 +179,16 @@ public JpegDevice(int width, int height, Resolution resolution, int quality)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| width | Int32 | Largeur de sortie de l'image. |
-| height | Int32 | Hauteur de sortie de l'image. |
-| resolution | Resolution | Résolution pour le fichier image résultant, voir la classe [`Resolution`](../../resolution/). |
-| quality | Int32 | Spécifie le niveau de compression pour une image. La plage de valeurs utiles pour la qualité est de 0 à 100. Plus le nombre spécifié est bas, plus la compression est élevée et donc la qualité de l'image est plus faible. Zéro donnerait l'image de la plus basse qualité et 100 la plus haute. |
+| largeur | Int32 | Largeur de sortie de l'image. |
+| hauteur | Int32 | Hauteur de sortie de l'image. |
+| resolution | Resolution | Résolution du fichier image résultant, voir la classe [`Resolution`](../../resolution/). |
+| quality | Int32 | Spécifie le niveau de compression d’une image. L’intervalle des valeurs utiles pour la qualité va de 0 à 100. Plus le nombre spécifié est bas, plus la compression est élevée et donc la qualité de l’image est moindre. Un zéro donne l’image de la plus basse qualité et 100 la plus élevée. |
 
 ### Voir aussi
 
-* classe [Resolution](../../resolution/)
-* classe [JpegDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -204,13 +204,15 @@ public JpegDevice(PageSize pageSize, Resolution resolution, int quality)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | pageSize | PageSize | Taille de page de l'image de sortie. |
-| resolution | Resolution | Résolution pour le fichier image résultant, voir la classe [`Resolution`](../../resolution/). |
-| quality | Int32 | Spécifie le niveau de compression pour une image. La plage de valeurs utiles pour la qualité est de 0 à 100. Plus le nombre spécifié est bas, plus la compression est élevée et donc la qualité de l'image est plus faible. Zéro donnerait l'image de la plus basse qualité et 100 la plus haute. |
+| resolution | Resolution | Résolution du fichier image résultant, voir la classe [`Resolution`](../../resolution/). |
+| quality | Int32 | Spécifie le niveau de compression d’une image. L’intervalle des valeurs utiles pour la qualité va de 0 à 100. Plus le nombre spécifié est bas, plus la compression est élevée et donc la qualité de l’image est moindre. Un zéro donne l’image de la plus basse qualité et 100 la plus élevée. |
 
 ### Voir aussi
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [Resolution](../../resolution/)
-* classe [JpegDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

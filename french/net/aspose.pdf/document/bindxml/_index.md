@@ -1,14 +1,14 @@
 ---
-title: Document.BindXml
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Lier xml au document
+title: "Document.BindXml"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Document. Lie le xml au document"
 type: docs
-weight: 550
+weight: 570
 url: /fr/net/aspose.pdf/document/bindxml/
 ---
 ## BindXml(string) {#bindxml_3}
 
-Lier xml au document
+Lie le xml au document
 
 ```csharp
 public void BindXml(string file)
@@ -28,7 +28,7 @@ public void BindXml(string file)
 
 ## BindXml(string, string) {#bindxml_4}
 
-Lier xml/xsl au document
+Lie le xml/xsl au document
 
 ```csharp
 public void BindXml(string xmlFile, string xslFile)
@@ -49,7 +49,7 @@ public void BindXml(string xmlFile, string xslFile)
 
 ## BindXml(Stream, Stream) {#bindxml_1}
 
-Lier xml/xsl au document
+Lie le xml/xsl au document
 
 ```csharp
 public void BindXml(Stream xmlStream, Stream xslStream)
@@ -70,7 +70,7 @@ public void BindXml(Stream xmlStream, Stream xslStream)
 
 ## BindXml(Stream, Stream, XmlReaderSettings) {#bindxml_2}
 
-Lier xml/xsl au document
+Lie le xml/xsl au document
 
 ```csharp
 public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settings)
@@ -80,7 +80,7 @@ public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settin
 | --- | --- | --- |
 | xmlStream | Stream | Le flux xml. |
 | xslStream | Stream | Le flux xsl si XSLT est utilisé. |
-| settings | XmlReaderSettings | Les paramètres du lecteur xml. |
+| paramètres | XmlReaderSettings | Les paramètres du lecteur xml. |
 
 ### Voir aussi
 
@@ -92,7 +92,7 @@ public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settin
 
 ## BindXml(Stream) {#bindxml}
 
-Lier xml au document
+Lie le xml au document
 
 ```csharp
 public void BindXml(Stream stream)
@@ -107,3 +107,5 @@ public void BindXml(Stream stream)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

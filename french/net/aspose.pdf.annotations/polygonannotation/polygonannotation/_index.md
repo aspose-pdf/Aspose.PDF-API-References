@@ -1,7 +1,7 @@
 ---
-title: PolygonAnnotation.PolygonAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PolygonAnnotation. Constructeur à utiliser avec Generator
+title: "PolygonAnnotation.PolygonAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PolygonAnnotation. Constructeur à utiliser avec Generator"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/polygonannotation/polygonannotation/
@@ -17,14 +17,14 @@ public PolygonAnnotation(Document document, Point[] vertices)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | document | Document | Document où l'annotation sera ajoutée. |
-| vertices | Point[] | Tableau de points. |
+| sommets | Point[] | Tableau de points. |
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Point](../../../aspose.pdf/point/)
-* classe [PolygonAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Point](../../../aspose.pdf/point/)
+* class [PolygonAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -39,15 +39,17 @@ public PolygonAnnotation(Page page, Rectangle rect, Point[] vertices)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | La page du document où l'annotation doit être créée. |
-| rect | Rectangle | Le rectangle de l'annotation, définissant l'emplacement de l'annotation sur la page. |
-| vertices | Point[] | Un tableau de points de sommets de polygone. |
+| page | Page | La page du Document où l'annotation doit être créée. |
+| rect | Rectangle | Le rectangle d'annotation, définissant l'emplacement de l'annotation sur la page. |
+| sommets | Point[] | Un tableau de points de sommets de polygone. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [Point](../../../aspose.pdf/point/)
-* classe [PolygonAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
+* class [PolygonAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

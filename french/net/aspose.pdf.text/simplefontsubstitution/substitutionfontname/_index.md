@@ -1,14 +1,14 @@
 ---
-title: SimpleFontSubstitution.SubstitutionFontName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SimpleFontSubstitution. Obtient le nom de la police qui doit remplacer le OriginalFontName
+title: "SimpleFontSubstitution.SubstitutionFontName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SimpleFontSubstitution. Obtient le nom de police qui doit remplacer le OriginalFontName"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/simplefontsubstitution/substitutionfontname/
 ---
-## Propriété SimpleFontSubstitution.SubstitutionFontName
+## SimpleFontSubstitution.SubstitutionFontName property
 
-Obtient le nom de la police qui doit remplacer le [`OriginalFontName`](../originalfontname/)
+Obtient le nom de police qui doit remplacer le [`OriginalFontName`](../originalfontname/)
 
 ```csharp
 public string SubstitutionFontName { get; }
@@ -16,6 +16,8 @@ public string SubstitutionFontName { get; }
 
 ### Voir aussi
 
-* classe [SimpleFontSubstitution](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [SimpleFontSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

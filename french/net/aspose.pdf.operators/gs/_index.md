@@ -1,14 +1,14 @@
 ---
-title: Class GS
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.GS. Classe représentant les paramètres de l'opérateur gs à partir du dictionnaire des paramètres de l'état graphique
+title: "Classe GS"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.GS classe. Classe représentant l'opérateur gs définir les paramètres à partir du dictionnaire de paramètres d'état graphique"
 type: docs
-weight: 7400
+weight: 7540
 url: /fr/net/aspose.pdf.operators/gs/
 ---
-## Classe GS
+## GS class
 
-Classe représentant l'opérateur gs (définir les paramètres à partir du dictionnaire des paramètres de l'état graphique).
+Classe représentant l'opérateur gs (définir les paramètres à partir du dictionnaire d'états graphiques).
 
 ```csharp
 public class GS : Operator
@@ -31,12 +31,14 @@ public class GS : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/gs/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/gs/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/gs/tostring/)() | Renvoie la représentation sous forme de chaîne de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

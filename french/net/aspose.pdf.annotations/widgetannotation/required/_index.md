@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Required
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété WidgetAnnotation. Obtient ou définit le statut requis du champ
+title: "WidgetAnnotation.Required"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété WidgetAnnotation. Obtient ou définit le statut requis du champ"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.annotations/widgetannotation/required/
 ---
-## Propriété WidgetAnnotation.Required
+## WidgetAnnotation.Required property
 
-Obtient ou définit le statut requis du champ.
+Obtient ou définit l'état requis du champ.
 
 ```csharp
 public bool Required { get; set; }
@@ -16,6 +16,8 @@ public bool Required { get; set; }
 
 ### Voir aussi
 
-* classe [WidgetAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

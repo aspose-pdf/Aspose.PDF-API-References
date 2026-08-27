@@ -1,12 +1,12 @@
 ---
-title: NumberField.AllowedChars
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété NumberField. Obtient ou définit les caractères autorisés
+title: "NumberField.AllowedChars"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété NumberField. Obtient ou définit les caractères autorisés"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.forms/numberfield/allowedchars/
 ---
-## Propriété NumberField.AllowedChars
+## NumberField.AllowedChars property
 
 Obtient ou définit les caractères autorisés.
 
@@ -14,12 +14,14 @@ Obtient ou définit les caractères autorisés.
 public string AllowedChars { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La chaîne de caractères autorisés. 0123456789 par défaut
+La chaîne des caractères autorisés. 0123456789 par défaut
 
 ### Voir aussi
 
-* classe [NumberField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

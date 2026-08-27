@@ -1,14 +1,14 @@
 ---
-title: Cells.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Cells. Obtient ou définit des cellules
+title: "Cells.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Cells. Obtient ou définit les cellules"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/cells/item/
 ---
-## Indexeur de cellules
+## Cells indexer
 
-Obtient ou définit des cellules.
+Obtient ou définit les cellules.
 
 ```csharp
 public Cell this[int index] { get; set; }
@@ -20,7 +20,9 @@ public Cell this[int index] { get; set; }
 
 ### Voir aussi
 
-* classe [Cell](../../cell/)
-* classe [Cells](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

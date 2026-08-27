@@ -1,12 +1,12 @@
 ---
-title: Annotation.ActiveState
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'annotation. Obtient ou définit l'état d'apparence actuel de l'annotation
+title: "Annotation.ActiveState"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Annotation. Obtient ou définit l'état d'apparence actuel de l'annotation"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/annotation/activestate/
 ---
-## Propriété Annotation.ActiveState
+## Annotation.ActiveState property
 
 Obtient ou définit l'état d'apparence actuel de l'annotation.
 
@@ -16,6 +16,8 @@ public virtual string ActiveState { get; set; }
 
 ### Voir aussi
 
-* classe [Annotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

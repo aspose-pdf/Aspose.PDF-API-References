@@ -1,12 +1,12 @@
 ---
-title: Class CustomPrintEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Printing.CustomPrintEventArgs. Fournit des données pour l'événement CustomPrint
+title: "Classe CustomPrintEventArgs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Printing.CustomPrintEventArgs. Fournit des données pour l'événement CustomPrint"
 type: docs
-weight: 9520
+weight: 9670
 url: /fr/net/aspose.pdf.printing/customprinteventargs/
 ---
-## Classe CustomPrintEventArgs
+## CustomPrintEventArgs class
 
 Fournit des données pour l'événement [`CustomPrint`](../../aspose.pdf.facades/pdfviewer/customprint/).
 
@@ -18,7 +18,7 @@ public class CustomPrintEventArgs : EventArgs
 
 | Nom | Description |
 | --- | --- |
-| [CustomPrintEventArgs](customprinteventargs/)(string, PrinterSettings, PageSettings) | Initialise `CustomPrintEventArgs` avec les paramètres d'imprimante et de page donnés. |
+| [CustomPrintEventArgs](customprinteventargs/)(string, PrinterSettings, PageSettings) | Initialise `CustomPrintEventArgs` avec l'imprimante et les paramètres de page fournis. |
 
 ## Champs
 
@@ -32,3 +32,5 @@ public class CustomPrintEventArgs : EventArgs
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

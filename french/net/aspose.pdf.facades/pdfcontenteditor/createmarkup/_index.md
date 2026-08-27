@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateMarkup
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Crée une annotation de marquage dans un document PDF
+title: "PdfContentEditor.CreateMarkup"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Crée une annotation de balisage dans le document PDF"
 type: docs
 weight: 200
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/createmarkup/
 ---
-## Méthode PdfContentEditor.CreateMarkup
+## PdfContentEditor.CreateMarkup method
 
-Crée une annotation de marquage dans un document PDF.
+Crée une annotation de balisage dans le document PDF.
 
 ```csharp
 public void CreateMarkup(Rectangle rect, string contents, int type, int page, Color clr)
@@ -18,9 +18,9 @@ public void CreateMarkup(Rectangle rect, string contents, int type, int page, Co
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle définissant l'emplacement de l'annotation sur la page. |
 | contents | String | Le contenu de l'annotation. |
-| type | Int32 | Le type d'annotation de marquage. Peut être 0 (Surligner), 1 (Souligner), 2 (Barré), 3 (Ondulé). |
-| page | Int32 | Le numéro de la page originale où l'annotation sera créée. |
-| clr | Color | La couleur du marquage. |
+| type | Int32 | Le type d'annotation de balisage. Peut être 0 (Surlignage), 1 (Soulignement), 2 (Barré), 3 (Ondulé). |
+| page | Int32 | Le numéro de la page d'origine où l'annotation sera créée. |
+| clr | Color | La couleur du balisage. |
 
 ## Exemples
 
@@ -34,6 +34,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetCharWidthBoundingBox.SetCharWidthBoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de SetCharWidthBoundingBox. Initialise l'opérateur SetCharWidthBoundingBox
+title: "SetCharWidthBoundingBox.SetCharWidthBoundingBox"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SetCharWidthBoundingBox. Initialise l'opérateur SetCharWidthBoundingBox"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/setcharwidthboundingbox/setcharwidthboundingbox/
 ---
-## Constructeur de SetCharWidthBoundingBox
+## SetCharWidthBoundingBox constructor
 
 Initialise l'opérateur SetCharWidthBoundingBox.
 
@@ -16,15 +16,17 @@ public SetCharWidthBoundingBox(double wx, double wy, double llx, double lly, dou
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| wx | Double | Désigne le déplacement horizontal dans la coordonnée du glyphe. |
-| wy | Double | Désigne le déplacement vertical dans la coordonnée du glyphe. Doit être 0. |
-| llx | Double | Désigne la coordonnée X du coin inférieur gauche. |
-| lly | Double | Désigne la coordonnée Y du coin inférieur gauche. |
-| urx | Double | Désigne la coordonnée X du coin supérieur droit. |
-| ury | Double | Désigne la coordonnée Y du coin supérieur droit. |
+| wx | Double | Indique le déplacement horizontal dans les coordonnées du glyphe. |
+| wy | Double | Indique le déplacement vertical dans les coordonnées du glyphe. Doit être 0. |
+| llx | Double | Indique la coordonnée X du coin inférieur gauche. |
+| lly | Double | Indique la coordonnée Y du coin inférieur gauche. |
+| urx | Double | Indique la coordonnée X du coin supérieur droit. |
+| ury | Double | Indique la coordonnée Y du coin supérieur droit. |
 
 ### Voir aussi
 
-* classe [SetCharWidthBoundingBox](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

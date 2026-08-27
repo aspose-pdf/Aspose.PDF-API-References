@@ -1,14 +1,14 @@
 ---
-title: ArtifactCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ArtifactCollection. Supprime l'artéfact spécifié
+title: "ArtifactCollection.Delete"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ArtifactCollection. Supprime l'artefact spécifié"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/artifactcollection/delete/
 ---
 ## Delete(Artifact) {#delete}
 
-Supprime l'artéfact spécifié.
+Supprime l'artefact spécifié.
 
 ```csharp
 public void Delete(Artifact artifact)
@@ -16,20 +16,20 @@ public void Delete(Artifact artifact)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| artifact | Artifact | Artéfact qui sera supprimé. |
+| artefact | Artefact | Artefact qui sera supprimé. |
 
 ### Voir aussi
 
-* classe [Artifact](../../artifact/)
-* classe [ArtifactCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Delete(int) {#delete_1}
 
-Supprime l'artéfact par son index.
+Supprime l'artefact par son indice.
 
 ```csharp
 public void Delete(int index)
@@ -37,10 +37,12 @@ public void Delete(int index)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | Index de l'artéfact à supprimer. |
+| index | Int32 | Indice de l'artefact à supprimer. |
 
 ### Voir aussi
 
-* classe [ArtifactCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

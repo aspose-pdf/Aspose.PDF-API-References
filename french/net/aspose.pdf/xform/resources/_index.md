@@ -1,12 +1,12 @@
 ---
-title: XForm.Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XForm. Obtient les ressources XObject du formulaire
+title: "XForm.Resources"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XForm. Obtient les ressources du Form XObject"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/xform/resources/
 ---
-## Propriété XForm.Resources
+## XForm.Resources property
 
 Obtient les ressources XObject du formulaire.
 
@@ -16,7 +16,9 @@ public Resources Resources { get; }
 
 ### Voir aussi
 
-* classe [Resources](../../resources/)
-* classe [XForm](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Resources](../../resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

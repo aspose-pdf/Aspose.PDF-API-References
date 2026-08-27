@@ -1,14 +1,14 @@
 ---
-title: DP.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode DP. Accepte l'objet visiteur pour traiter l'opérateur
+title: "DP.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode DP. Accepte un objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/dp/accept/
 ---
-## Méthode DP.Accept
+## DP.Accept method
 
-Accepte l'objet visiteur pour traiter l'opérateur.
+Accepte un objet visiteur pour traiter l'opérateur.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -21,6 +21,8 @@ public override void Accept(IOperatorSelector visitor)
 ### Voir aussi
 
 * interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [DP](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [DP](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

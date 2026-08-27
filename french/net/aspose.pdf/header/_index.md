@@ -1,12 +1,12 @@
 ---
-title: Class Header
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Header. Représente les paramètres de l'en-tête
+title: "Classe Header"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Header. Représente les paramètres d'en-tête."
 type: docs
-weight: 5410
+weight: 5530
 url: /fr/net/aspose.pdf/header/
 ---
-## Classe Header
+## Header class
 
 Représente les paramètres de l'en-tête.
 
@@ -30,6 +30,8 @@ public sealed class Header : HorizontalAlignment
 
 ### Voir aussi
 
-* classe [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintLargePdf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfViewer. Ouvre et imprime un grand fichier Pdf. Si votre fichier Pdf contient des centaines de pages ou plus ou si sa taille est supérieure à 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances
+title: "PdfViewer.PrintLargePdf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfViewer. Ouvre et imprime un gros fichier Pdf. Si votre fichier Pdf comporte des centaines de pages ou plus ou si sa taille dépasse 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances."
 type: docs
 weight: 350
 url: /fr/net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
 
-Ouvre et imprime un grand fichier Pdf. Si votre fichier Pdf contient des centaines de pages ou plus ou si sa taille est supérieure à 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
+Ouvre et imprime un fichier Pdf volumineux. Si votre fichier Pdf comporte des centaines de pages ou plus ou si sa taille dépasse 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
 
 ```csharp
 public void PrintLargePdf(string filePath)
@@ -44,15 +44,15 @@ iewer.Close()
 
 ### Voir aussi
 
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream) {#printlargepdf}
 
-Ouvre et imprime un grand flux Pdf. Si votre fichier Pdf contient des centaines de pages ou plus ou si sa taille est supérieure à 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
+Ouvre et imprime un flux Pdf volumineux. Si votre fichier Pdf comporte des centaines de pages ou plus ou si sa taille dépasse 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream)
@@ -60,7 +60,7 @@ public void PrintLargePdf(Stream inputStream)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | Le flux pdf à ouvrir et à imprimer. |
+| inputStream | Stream | Le flux pdf à ouvrir et imprimer. |
 
 ## Remarques
 
@@ -88,15 +88,15 @@ iewer.Close()
 
 ### Voir aussi
 
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(string, PrinterSettings) {#printlargepdf_5}
 
-Ouvre et imprime un grand fichier Pdf avec des paramètres d'imprimante spécifiés. Si votre fichier Pdf contient des centaines de pages ou plus ou si sa taille est supérieure à 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
+Ouvre et imprime un fichier Pdf volumineux avec les paramètres d'imprimante spécifiés. Si votre fichier Pdf comporte des centaines de pages ou plus ou si sa taille dépasse 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
 
 ```csharp
 public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
@@ -105,7 +105,7 @@ public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | filePath | String | Le chemin du fichier Pdf. |
-| printerSettings | PrinterSettings | Les paramètres de l'imprimante. |
+| printerSettings | PrinterSettings | Les paramètres d'imprimante. |
 
 ## Remarques
 
@@ -139,16 +139,16 @@ iewer.Close()
 
 ### Voir aussi
 
-* classe [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream, PrinterSettings) {#printlargepdf_2}
 
-Ouvre et imprime un grand flux Pdf avec des paramètres d'imprimante spécifiés. Si votre fichier Pdf contient des centaines de pages ou plus ou si sa taille est supérieure à 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
+Ouvre et imprime un flux Pdf volumineux avec les paramètres d'imprimante spécifiés. Si votre fichier Pdf comporte des centaines de pages ou plus ou si sa taille dépasse 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
@@ -156,8 +156,8 @@ public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | Le flux pdf à ouvrir et à imprimer. |
-| printerSettings | PrinterSettings | Les paramètres de l'imprimante. |
+| inputStream | Stream | Le flux pdf à ouvrir et imprimer. |
+| printerSettings | PrinterSettings | Les paramètres d'imprimante. |
 
 ## Remarques
 
@@ -191,16 +191,16 @@ iewer.Close()
 
 ### Voir aussi
 
-* classe [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-Ouvre et imprime un grand fichier Pdf avec des paramètres de page et des paramètres d'imprimante spécifiés. Si votre fichier Pdf contient des centaines de pages ou plus ou si sa taille est supérieure à 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
+Ouvre et imprime un fichier Pdf volumineux avec les paramètres de page et d'imprimante spécifiés. Si votre fichier Pdf comporte des centaines de pages ou plus ou si sa taille dépasse 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
@@ -211,7 +211,7 @@ public void PrintLargePdf(string filePath, PageSettings pageSettings,
 | --- | --- | --- |
 | filePath | String | Le chemin du fichier Pdf. |
 | pageSettings | PageSettings | Les paramètres de page. |
-| printerSettings | PrinterSettings | Les paramètres de l'imprimante. |
+| printerSettings | PrinterSettings | Les paramètres d'imprimante. |
 
 ## Remarques
 
@@ -251,17 +251,17 @@ iewer.Close()
 
 ### Voir aussi
 
-* classe [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* classe [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream, PageSettings, PrinterSettings) {#printlargepdf_1}
 
-Ouvre et imprime un grand flux Pdf avec des paramètres de page et des paramètres d'imprimante spécifiés. Si votre fichier Pdf contient des centaines de pages ou plus ou si sa taille est supérieure à 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
+Ouvre et imprime un flux Pdf volumineux avec les paramètres de page et d'imprimante spécifiés. Si votre fichier Pdf comporte des centaines de pages ou plus ou si sa taille dépasse 3 Mo, cette méthode est recommandée pour obtenir de meilleures performances.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
@@ -270,9 +270,9 @@ public void PrintLargePdf(Stream inputStream, PageSettings pageSettings,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | Le flux pdf à ouvrir et à imprimer. |
+| inputStream | Stream | Le flux pdf à ouvrir et imprimer. |
 | pageSettings | PageSettings | Les paramètres de page. |
-| printerSettings | PrinterSettings | Les paramètres de l'imprimante. |
+| printerSettings | PrinterSettings | Les paramètres d'imprimante. |
 
 ## Remarques
 
@@ -312,8 +312,10 @@ iewer.Close()
 
 ### Voir aussi
 
-* classe [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* classe [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

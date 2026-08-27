@@ -1,12 +1,12 @@
 ---
-title: Bookmark.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de signet. Obtient ou définit la page de destination des signets. Requis si l'action est définie comme string.Empty
+title: "Bookmark.Destination"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Bookmark. Obtient ou définit la page de destination du signet. Requis si l'action est définie sur string.Empty."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.facades/bookmark/destination/
 ---
-## Propriété Bookmark.Destination
+## Bookmark.Destination property
 
 Obtient ou définit la page de destination du signet. Requis si l'action est définie comme string.Empty.
 
@@ -16,6 +16,8 @@ public string Destination { get; set; }
 
 ### Voir aussi
 
-* classe [Bookmark](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

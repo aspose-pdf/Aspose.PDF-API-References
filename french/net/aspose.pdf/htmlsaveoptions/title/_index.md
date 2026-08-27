@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlSaveOptions. Obtient ou définit le titre de la page HTML
+title: "HtmlSaveOptions.Title"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété HtmlSaveOptions. Obtient ou définit le titre de la page HTML."
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf/htmlsaveoptions/title/
 ---
-## Propriété HtmlSaveOptions.Title
+## HtmlSaveOptions.Title property
 
 Obtient ou définit le titre de la page HTML.
 
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### Voir aussi
 
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

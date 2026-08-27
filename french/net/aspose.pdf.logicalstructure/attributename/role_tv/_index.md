@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Role_tv
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Champ de valeur de texte Attribute Role tv
+title: "AttributeName.Role_tv"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ AttributeName. Attribut Role tv  Champ de valeur texte"
 type: docs
 weight: 420
 url: /fr/net/aspose.pdf.logicalstructure/attributename/role_tv/
 ---
-## Champ AttributeName.Role_tv
+## AttributeName.Role_tv field
 
-Rôle de l'attribut : tv - Champ de valeur de texte.
+Attribut Role : tv - Champ texte-valeur.
 
 ```csharp
 public static readonly AttributeName Role_tv;
@@ -16,6 +16,8 @@ public static readonly AttributeName Role_tv;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

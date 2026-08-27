@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetMetaInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileInfo. Obtient des informations personnalisées sur le document PDF avec le nom de propriété. S'il n'y a pas de correspondance de propriété avec le nom, cela renverra une chaîne vide.
+title: "PdfFileInfo.GetMetaInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileInfo. Obtient les informations personnalisées du document PDF avec le nom de la propriété. S'il n'existe aucune propriété correspondant au nom, elle renverra une chaîne vide."
 type: docs
 weight: 230
 url: /fr/net/aspose.pdf.facades/pdffileinfo/getmetainfo/
 ---
-## Méthode PdfFileInfo.GetMetaInfo
+## PdfFileInfo.GetMetaInfo method
 
-Obtient des informations personnalisées sur le document PDF avec le nom de propriété. S'il n'y a pas de correspondance de propriété avec le nom, cela renverra une chaîne vide.
+Obtient les informations personnalisées du document PDF avec le nom de propriété. S'il n'existe aucune propriété correspondant au nom, il renverra une chaîne vide.
 
 ```csharp
 public string GetMetaInfo(string name)
@@ -16,7 +16,7 @@ public string GetMetaInfo(string name)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| name | String | Clé de propriété méta personnalisée. |
+| nom | String | Clé de propriété méta personnalisée. |
 
 ### Valeur de retour
 
@@ -24,6 +24,8 @@ Valeur de propriété méta personnalisée.
 
 ### Voir aussi
 
-* classe [PdfFileInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

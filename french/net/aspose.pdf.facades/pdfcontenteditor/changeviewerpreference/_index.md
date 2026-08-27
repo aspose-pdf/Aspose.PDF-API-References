@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.ChangeViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Change la préférence d'affichage
+title: "PdfContentEditor.ChangeViewerPreference"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Modifie la préférence d'affichage"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/
 ---
-## Méthode PdfContentEditor.ChangeViewerPreference
+## PdfContentEditor.ChangeViewerPreference method
 
-Change la préférence d'affichage.
+Modifie la préférence d'affichage.
 
 ```csharp
 public void ChangeViewerPreference(int viewerAttribution)
@@ -30,6 +30,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.DefaultAppearance. Décrit l'apparence par défaut de la taille et de la couleur du texte de la police de champ
+title: "Classe DefaultAppearance"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Annotations.DefaultAppearance. Décrit l'apparence par défaut de la police du champ, la taille du texte et la couleur"
 type: docs
-weight: 1660
+weight: 1750
 url: /fr/net/aspose.pdf.annotations/defaultappearance/
 ---
-## Classe DefaultAppearance
+## DefaultAppearance class
 
 Décrit l'apparence par défaut du champ (police, taille du texte et couleur).
 
@@ -19,14 +19,14 @@ public sealed class DefaultAppearance
 | Nom | Description |
 | --- | --- |
 | [DefaultAppearance](defaultappearance/#constructor)() | Constructeur de DefaultAppearance. |
-| [DefaultAppearance](defaultappearance/#constructor_1)(Font, double, Color) | Constructeur de l'apparence par défaut. Une police précédemment créée peut être spécifiée comme police par défaut. |
+| [DefaultAppearance](defaultappearance/#constructor_1)(Font, double, Color) | Constructeur de Default Appearance. La police créée précédemment peut être spécifiée comme police par défaut. |
 | [DefaultAppearance](defaultappearance/#constructor_2)(string, double, Color) | Constructeur de DefaultAppearance. |
 
 ## Propriétés
 
 | Nom | Description |
 | --- | --- |
-| [Font](../../aspose.pdf.annotations/defaultappearance/font/) { get; } | Obtient la police spécifiée comme par défaut pour le texte. |
+| [Font](../../aspose.pdf.annotations/defaultappearance/font/) { get; } | Obtient la police spécifiée comme police par défaut pour le texte. |
 | [FontName](../../aspose.pdf.annotations/defaultappearance/fontname/) { get; set; } | Obtient le nom de la police dans l'apparence par défaut. |
 | [FontResourceName](../../aspose.pdf.annotations/defaultappearance/fontresourcename/) { get; set; } | Obtient le nom de la police dans l'apparence par défaut. |
 | [FontSize](../../aspose.pdf.annotations/defaultappearance/fontsize/) { get; set; } | Obtient la taille de la police dans l'apparence par défaut. |
@@ -35,5 +35,7 @@ public sealed class DefaultAppearance
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

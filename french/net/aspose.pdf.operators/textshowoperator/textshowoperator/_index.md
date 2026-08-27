@@ -1,7 +1,7 @@
 ---
-title: TextShowOperator.TextShowOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TextShowOperator. Initialise TextShowOperator
+title: "TextShowOperator.TextShowOperator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TextShowOperator. Initialise TextShowOperator"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/textshowoperator/textshowoperator/
@@ -16,8 +16,8 @@ public TextShowOperator()
 
 ### Voir aussi
 
-* classe [TextShowOperator](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [TextShowOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,7 +36,9 @@ public TextShowOperator(TextProperties textProperties)
 
 ### Voir aussi
 
-* classe [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* classe [TextShowOperator](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [TextShowOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum CapStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum CapStyle d'Aspose.Pdf.Annotations. Style de fin de ligne de l'annotation Ink
+title: "Énumération CapStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.Annotations.CapStyle. Style de terminaison de ligne d'annotation Ink"
 type: docs
-weight: 1540
+weight: 1630
 url: /fr/net/aspose.pdf.annotations/capstyle/
 ---
-## Énumération CapStyle
+## CapStyle enumeration
 
-Style de fin de ligne de l'annotation Ink.
+Style de terminaison de ligne d'une annotation d'encre.
 
 ```csharp
 public enum CapStyle
@@ -18,10 +18,12 @@ public enum CapStyle
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Rectangulaire | `1` | La fin est rectangulaire. |
-| Arrondi | `2` | La fin est arrondie. |
+| Rectangular | `1` | La fin est rectangulaire. |
+| Rounded | `2` | La fin est arrondie. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Field.AnnotationIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Field. Obtient ou définit l'index de cette annotation sur la page
+title: "Field.AnnotationIndex"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété du champ. Obtient ou définit l’index de cette annotation sur la page"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.forms/field/annotationindex/
 ---
-## Propriété Field.AnnotationIndex
+## Field.AnnotationIndex property
 
 Obtient ou définit l'index de cette annotation sur la page.
 
@@ -16,6 +16,8 @@ public int AnnotationIndex { get; set; }
 
 ### Voir aussi
 
-* classe [Field](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

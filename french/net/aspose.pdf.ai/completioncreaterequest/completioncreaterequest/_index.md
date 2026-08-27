@@ -1,12 +1,12 @@
 ---
-title: CompletionCreateRequest.CompletionCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de CompletionCreateRequest. Le constructeur par défaut
+title: "CompletionCreateRequest.CompletionCreateRequest"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur CompletionCreateRequest. Le constructeur par défaut."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/completioncreaterequest/completioncreaterequest/
 ---
-## Constructeur de CompletionCreateRequest
+## CompletionCreateRequest constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public CompletionCreateRequest()
 
 ### Voir aussi
 
-* classe [CompletionCreateRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

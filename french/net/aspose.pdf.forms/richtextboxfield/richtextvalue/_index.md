@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.RichTextValue
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RichTextBoxField. Obtient ou définit la valeur de texte enrichi
+title: "RichTextBoxField.RichTextValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "RichTextBoxField propriété. Obtient ou définit la valeur de texte enrichi"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.forms/richtextboxfield/richtextvalue/
 ---
-## Propriété RichTextBoxField.RichTextValue
+## RichTextBoxField.RichTextValue property
 
-Obtient ou définit la valeur de texte enrichi.
+Obtient ou définit la valeur du texte enrichi.
 
 ```csharp
 public string RichTextValue { get; set; }
@@ -16,6 +16,8 @@ public string RichTextValue { get; set; }
 
 ### Voir aussi
 
-* classe [RichTextBoxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

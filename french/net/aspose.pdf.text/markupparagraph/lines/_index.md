@@ -1,14 +1,14 @@
 ---
-title: MarkupParagraph.Lines
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MarkupParagraph. Lignes de paragraphe. Chaque ligne représentée par une liste de fragments de texte
+title: "MarkupParagraph.Lines"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MarkupParagraph. Lignes du paragraphe. Chaque ligne est représentée par une liste de fragments de texte"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/markupparagraph/lines/
 ---
-## Propriété MarkupParagraph.Lines
+## MarkupParagraph.Lines property
 
-Lignes de paragraphe. Chaque ligne représentée par une liste de fragments de texte.
+Lignes du paragraphe. Chaque ligne est représentée par une liste de fragments de texte.
 
 ```csharp
 public List<List<TextFragment>> Lines { get; }
@@ -16,11 +16,13 @@ public List<List<TextFragment>> Lines { get; }
 
 ## Remarques
 
-L'objet [`TextFragment`](../../textfragment/) fournit un accès au texte des occurrences de recherche, aux propriétés du texte, et permet d'éditer le texte et de changer l'état du texte (police, taille de police, couleur, etc.).
+L'objet [`TextFragment`](../../textfragment/) fournit l'accès au texte de l'occurrence de recherche, aux propriétés du texte, et permet de modifier le texte et de changer l'état du texte (police, taille de police, couleur, etc.).
 
 ### Voir aussi
 
-* classe [TextFragment](../../textfragment/)
-* classe [MarkupParagraph](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragment](../../textfragment/)
+* class [MarkupParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

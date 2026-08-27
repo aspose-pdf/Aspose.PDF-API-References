@@ -1,14 +1,14 @@
 ---
-title: Class OpenAIContext
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.OpenAIContext. Représente les identifiants d'entité liés à un assistant
+title: "Classe OpenAIContext"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.OpenAIContext. Représente les IDs d'entité liés à un assistant."
 type: docs
-weight: 860
+weight: 920
 url: /fr/net/aspose.pdf.ai/openaicontext/
 ---
-## Classe OpenAIContext
+## OpenAIContext class
 
-Représente les identifiants d'entité liés à un assistant.
+Représente les ID d'entité liés à un assistant.
 
 ```csharp
 public class OpenAIContext
@@ -24,12 +24,14 @@ public class OpenAIContext
 
 | Nom | Description |
 | --- | --- |
-| [AssistantId](../../aspose.pdf.ai/openaicontext/assistantid/) { get; set; } | Obtient ou définit l'ID de l'assistant. |
-| [FileIds](../../aspose.pdf.ai/openaicontext/fileids/) { get; set; } | Obtient ou définit la liste des identifiants de fichiers. |
-| [ThreadId](../../aspose.pdf.ai/openaicontext/threadid/) { get; set; } | Obtient ou définit l'ID du fil. |
-| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | Obtient ou définit l'ID du magasin de vecteurs. |
+| [AssistantId](../../aspose.pdf.ai/openaicontext/assistantid/) { get; set; } | Obtient ou définit l'ID de l'Assistant. |
+| [FileIds](../../aspose.pdf.ai/openaicontext/fileids/) { get; set; } | Obtient ou définit la liste des IDs de File. |
+| [ThreadId](../../aspose.pdf.ai/openaicontext/threadid/) { get; set; } | Obtient ou définit l'ID du Thread. |
+| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | Obtient ou définit l'ID du Vector Store. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Footer. Représente les paramètres de pied de page
+title: "Classe Footer"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Footer class. Représente les paramètres du pied de page."
 type: docs
-weight: 4920
+weight: 5040
 url: /fr/net/aspose.pdf/footer/
 ---
-## Classe Footer
+## Footer class
 
-Représente les paramètres de pied de page.
+Représente les paramètres du pied de page.
 
 ```csharp
 public sealed class Footer : HorizontalAlignment
@@ -30,6 +30,8 @@ public sealed class Footer : HorizontalAlignment
 
 ### Voir aussi
 
-* classe [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété GraphicElement. Obtient le rectangle englobant de l'élément graphique
+title: "GraphicElement.Rectangle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété GraphicElement. Obtient le rectangle englobant du GraphicElement"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.vector/graphicelement/rectangle/
 ---
-## Propriété GraphicElement.Rectangle
+## GraphicElement.Rectangle property
 
-Obtient le rectangle englobant de l'[`GraphicElement`](../).
+Obtient le rectangle englobant du [`GraphicElement`](../).
 
 ```csharp
 public abstract Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public abstract Rectangle Rectangle { get; }
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [GraphicElement](../)
-* espace de noms [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.EndingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FreeTextAnnotation. Obtient ou définit le style de fin de ligne pour le point de fin de ligne
+title: "FreeTextAnnotation.EndingStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FreeTextAnnotation. Obtient ou définit le style de terminaison de ligne pour le point de terminaison de ligne"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.annotations/freetextannotation/endingstyle/
 ---
-## Propriété FreeTextAnnotation.EndingStyle
+## FreeTextAnnotation.EndingStyle property
 
-Obtient ou définit le style de fin de ligne pour le point de fin de ligne.
+Obtient ou définit le style de terminaison de ligne pour le point de terminaison de ligne.
 
 ```csharp
 public LineEnding EndingStyle { get; set; }
@@ -20,3 +20,5 @@ public LineEnding EndingStyle { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

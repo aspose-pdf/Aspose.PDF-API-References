@@ -1,12 +1,12 @@
 ---
-title: RunListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode RunListQueryParameters. Obtient les paramètres de requête pour lister les exécutions
+title: "RunListQueryParameters.GetQueryParameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode RunListQueryParameters. Obtient les paramètres de requête pour l'énumération des exécutions"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/runlistqueryparameters/getqueryparameters/
 ---
-## Méthode RunListQueryParameters.GetQueryParameters
+## RunListQueryParameters.GetQueryParameters method
 
 Obtient les paramètres de requête pour lister les exécutions.
 
@@ -20,6 +20,8 @@ La chaîne des paramètres de requête.
 
 ### Voir aussi
 
-* classe [RunListQueryParameters](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CustomPrintEventArgs.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: Champ CustomPrintEventArgs. Obtient le nom du fichier qui est en cours d'impression
+title: "CustomPrintEventArgs.FileName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ CustomPrintEventArgs. Obtient le nom du fichier qui est imprimé"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.printing/customprinteventargs/filename/
 ---
-## Champ CustomPrintEventArgs.FileName
+## CustomPrintEventArgs.FileName field
 
 Obtient le nom du fichier qui est en cours d'impression.
 
@@ -16,6 +16,8 @@ public readonly string FileName;
 
 ### Voir aussi
 
-* classe [CustomPrintEventArgs](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [CustomPrintEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

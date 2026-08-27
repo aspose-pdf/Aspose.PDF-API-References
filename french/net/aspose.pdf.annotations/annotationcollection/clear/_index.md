@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AnnotationCollection. Supprime toutes les annotations de la collection
+title: "AnnotationCollection.Clear"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AnnotationCollection. Supprime toutes les annotations de la collection."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.annotations/annotationcollection/clear/
 ---
-## Méthode AnnotationCollection.Clear
+## AnnotationCollection.Clear method
 
 Supprime toutes les annotations de la collection.
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Voir aussi
 
-* classe [AnnotationCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: TextAnnotation.TextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TextAnnotation. Constructeur pour l'annotation lorsqu'il est utilisé dans Generator
+title: "TextAnnotation.TextAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TextAnnotation. Constructeur pour l'annotation lorsqu'il est utilisé dans Generator"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/textannotation/textannotation/
@@ -20,16 +20,16 @@ public TextAnnotation(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [TextAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAnnotation(Page, Rectangle) {#constructor_1}
 
-Crée une nouvelle annotation de texte sur la page spécifiée.
+Crée une nouvelle annotation Text sur la page spécifiée.
 
 ```csharp
 public TextAnnotation(Page page, Rectangle rect)
@@ -37,13 +37,15 @@ public TextAnnotation(Page page, Rectangle rect)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | La page du document où l'annotation doit être créée. |
-| rect | Rectangle | Le rectangle de l'annotation, définissant l'emplacement de l'annotation sur la page. |
+| page | Page | La page du Document où l'annotation doit être créée. |
+| rect | Rectangle | Le rectangle d'annotation, définissant l'emplacement de l'annotation sur la page. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [TextAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

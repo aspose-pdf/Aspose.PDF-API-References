@@ -1,17 +1,19 @@
 ---
-title: Aspose.Pdf.Generator
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.Generator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: 
 type: docs
 weight: 170
-url: /net/aspose.pdf.generator/
+url: /fr/net/aspose.pdf.generator/
 ---
+
+
 ## Classes
 
 | Classe | Description |
 | --- | --- |
 | [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | Représente BoundsCheckableList - un wrapper autour de System.Collections.Generic.List. |
-| [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Représente une exception qui se produit lorsqu'un élément ne s'inscrit pas dans les dimensions du conteneur donné. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Représente une exception qui se produit lorsqu'un élément ne tient pas dans les dimensions du conteneur donné. |
 ## Interfaces
 
 | Interface | Description |
@@ -21,4 +23,6 @@ url: /net/aspose.pdf.generator/
 
 | Énumération | Description |
 | --- | --- |
-| [BoundsCheckMode](./boundscheckmode/) | Spécifie le comportement pour la vérification des limites lors de l'ajout d'éléments à une collection. |
+| [BoundsCheckMode](./boundscheckmode/) | Spécifie le comportement du contrôle des limites lors de l'ajout d'éléments à une collection. |
+
+

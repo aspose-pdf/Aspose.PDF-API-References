@@ -1,12 +1,12 @@
 ---
-title: Class Left
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Gauche. Représente les paramètres d'alignement à gauche pour les données d'en-tête et de pied de page
+title: "Classe Left"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Left classe. Représente les paramètres d'alignement à gauche pour les données d'en-tête et de pied de page"
 type: docs
-weight: 6070
+weight: 6200
 url: /fr/net/aspose.pdf/left/
 ---
-## Classe Gauche
+## Left class
 
 Représente les paramètres d'alignement à gauche pour les données d'en-tête et de pied de page.
 
@@ -18,17 +18,19 @@ public sealed class Left : HeaderFooterData
 
 | Nom | Description |
 | --- | --- |
-| [Gauche](left/)() | Le constructeur par défaut. |
+| [Left](left/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
 | Nom | Description |
 | --- | --- |
-| [DatePage](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Obtient ou définit les paramètres de date. |
-| [NuméroPage](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Obtient ou définit les paramètres de numéro de page. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Obtient ou définit les paramètres de date. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Obtient ou définit les paramètres du numéro de page. |
 
-### Voir Aussi
+### Voir aussi
 
-* classe [HeaderFooterData](../headerfooterdata/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

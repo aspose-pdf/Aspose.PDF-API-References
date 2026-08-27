@@ -1,12 +1,12 @@
 ---
-title: Class Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Resources. Classe représentant les ressources de page
+title: "Classe Resources"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Resources. Classe représentant les ressources de page"
 type: docs
-weight: 9770
+weight: 9920
 url: /fr/net/aspose.pdf/resources/
 ---
-## Classe Ressources
+## Resources class
 
 Classe représentant les ressources de page.
 
@@ -26,11 +26,11 @@ public sealed class Resources
 
 | Nom | Description |
 | --- | --- |
-| [FreeMemory](../../aspose.pdf/resources/freememory/)() | Efface les données mises en cache, libère de la mémoire, etc. |
-| [GetExtGStates](../../aspose.pdf/resources/getextgstates/)() | Obtient tous les ExGStates des ressources. |
+| [FreeMemory](../../aspose.pdf/resources/freememory/)() | Efface les données en cache, libère la mémoire, etc. |
+| [GetExtGStates](../../aspose.pdf/resources/getextgstates/)() | Récupère tous les ExGStates des ressources. |
 | [GetFonts](../../aspose.pdf/resources/getfonts/)(bool) | Renvoie la collection de polices. Si les ressources ne contiennent pas d'entrée de polices, elle sera créée en fonction du drapeau CreateIfAbsent. |
 
-## Autres Membres
+## Autres membres
 
 | Nom | Description |
 | --- | --- |
@@ -40,3 +40,5 @@ public sealed class Resources
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

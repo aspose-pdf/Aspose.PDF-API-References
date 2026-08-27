@@ -1,14 +1,14 @@
 ---
-title: FileHyperlink.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileHyperlink. Obtient ou définit le chemin vers le fichier
+title: "FileHyperlink.Path"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FileHyperlink. Obtient ou définit le chemin vers le fichier"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/filehyperlink/path/
 ---
-## Propriété FileHyperlink.Path
+## FileHyperlink.Path property
 
-Obtient ou définit le chemin vers le fichier.
+Obtient ou définit le chemin du fichier.
 
 ```csharp
 public string Path { get; set; }
@@ -16,6 +16,8 @@ public string Path { get; set; }
 
 ### Voir aussi
 
-* classe [FileHyperlink](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

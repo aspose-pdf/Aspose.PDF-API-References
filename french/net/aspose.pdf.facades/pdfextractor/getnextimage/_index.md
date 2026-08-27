@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfExtractor. Récupère la prochaine image du document PDF. Remarque  ExtractImage doit être appelé avant d'utiliser cette méthode
+title: "PdfExtractor.GetNextImage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfExtractor. Récupère l'image suivante du document PDF. Note : ExtractImage doit être appelé avant l'utilisation de cette méthode"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf.facades/pdfextractor/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_2}
 
-Récupère la prochaine image du document PDF. Remarque : ExtractImage doit être appelé avant d'utiliser cette méthode.
+Récupère l'image suivante du document PDF. Remarque : ExtractImage doit être appelé avant d'utiliser cette méthode.
 
 ```csharp
 public bool GetNextImage(string outputFile)
@@ -20,7 +20,7 @@ public bool GetNextImage(string outputFile)
 
 ### Valeur de retour
 
-Vrai si l'image est extraite avec succès
+Vrai si l'image a été extraite avec succès
 
 ## Exemples
 
@@ -37,15 +37,15 @@ while (extractor.HasNextImage())
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_3}
 
-Récupère la prochaine image du document PDF avec le format d'image donné. Remarque : ExtractImage doit être appelé avant d'utiliser cette méthode.
+Récupère l'image suivante du document PDF avec le format d'image donné. Remarque : ExtractImage doit être appelé avant d'utiliser cette méthode.
 
 ```csharp
 public bool GetNextImage(string outputFile, ImageFormat format)
@@ -58,19 +58,19 @@ public bool GetNextImage(string outputFile, ImageFormat format)
 
 ### Valeur de retour
 
-Vrai si l'image est extraite avec succès
+Vrai si l'image a été extraite avec succès
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_1}
 
-Récupère la prochaine image du fichier PDF et la stocke dans un flux avec le format d'image donné.
+Récupère l'image suivante du fichier PDF et l'enregistre dans un flux avec le format d'image donné.
 
 ```csharp
 public bool GetNextImage(Stream outputStream, ImageFormat format)
@@ -87,15 +87,15 @@ Vrai dans le cas où l'image est extraite avec succès.
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream) {#getnextimage}
 
-Récupère la prochaine image du fichier PDF et la stocke dans un flux.
+Récupère l'image suivante du fichier PDF et l'enregistre dans un flux.
 
 ```csharp
 public bool GetNextImage(Stream outputStream)
@@ -111,6 +111,8 @@ Vrai dans le cas où l'image est extraite avec succès.
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

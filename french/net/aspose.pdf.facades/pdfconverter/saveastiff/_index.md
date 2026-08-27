@@ -1,7 +1,7 @@
 ---
-title: PdfConverter.SaveAsTIFF
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfConverter. Convertit chaque page d'un document pdf en images et enregistre les images dans un seul fichier TIFF
+title: "PdfConverter.SaveAsTIFF"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfConverter. Convertit chaque page d'un document pdf en images et enregistre les images dans un seul fichier TIFF"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.facades/pdfconverter/saveastiff/
@@ -81,7 +81,7 @@ converter.SaveAsTIFF(@"D:\Test\test.tiff")
 
 ## SaveAsTIFF(string, int, int) {#saveastiff_16}
 
-Convertit chaque page d'un document pdf en images avec des dimensions, et enregistre les images dans un seul fichier TIFF.
+Convertit chaque page d'un document pdf en images avec les dimensions, et enregistre les images dans un seul fichier TIFF.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
@@ -89,9 +89,9 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le nom du fichier pour enregistrer l'image TIFF |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
+| outputFile | String | Le nom de fichier pour enregistrer l'image TIFF |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
 
 ### Voir aussi
 
@@ -111,7 +111,7 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le nom du fichier pour enregistrer l'image TIFF |
+| outputFile | String | Le nom de fichier pour enregistrer l'image TIFF |
 | pageSize | PageSize | La taille de page de l'image. |
 
 ### Voir aussi
@@ -133,9 +133,9 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settin
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le nom du fichier pour enregistrer l'image TIFF |
+| outputFile | String | Le nom de fichier pour enregistrer l'image TIFF |
 | pageSize | PageSize | La taille de page de l'image. |
-| settings | TiffSettings | Objet de paramètres qui définit les paramètres TIFF. |
+| paramètres | TiffSettings | Objet Settings qui définit les paramètres TIFF. |
 
 ### Voir aussi
 
@@ -149,7 +149,7 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settin
 
 ## SaveAsTIFF(string, int, int, CompressionType) {#saveastiff_17}
 
-Convertit chaque page d'un document pdf en images avec des dimensions, et enregistre les images dans un seul fichier TIFF.
+Convertit chaque page d'un document pdf en images avec les dimensions, et enregistre les images dans un seul fichier TIFF.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, 
@@ -158,9 +158,9 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le nom du fichier pour enregistrer l'image TIFF |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
+| outputFile | String | Le nom de fichier pour enregistrer l'image TIFF |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
 | compressionType | CompressionType | Type de compression. |
 
 ### Voir aussi
@@ -174,7 +174,7 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight,
 
 ## SaveAsTIFF(string, int, int, TiffSettings) {#saveastiff_18}
 
-Convertit chaque page d'un document pdf en images avec des dimensions, et enregistre les images dans un seul fichier TIFF.
+Convertit chaque page d'un document pdf en images avec les dimensions, et enregistre les images dans un seul fichier TIFF.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings)
@@ -182,10 +182,10 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le nom du fichier pour enregistrer l'image TIFF |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
-| settings | TiffSettings | Objet de paramètres qui définit les paramètres TIFF. |
+| outputFile | String | Le nom de fichier pour enregistrer l'image TIFF |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
+| paramètres | TiffSettings | Objet Settings qui définit les paramètres TIFF. |
 
 ### Voir aussi
 
@@ -198,7 +198,7 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 ## SaveAsTIFF(string, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_19}
 
-Convertit chaque page d'un document pdf en images avec des dimensions, et enregistre les images dans un seul fichier TIFF.
+Convertit chaque page d'un document pdf en images avec les dimensions, et enregistre les images dans un seul fichier TIFF.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings, 
@@ -207,11 +207,11 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le nom du fichier pour enregistrer l'image TIFF |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
-| settings | TiffSettings | Objet de paramètres qui définit les paramètres TIFF. |
-| converter | IIndexBitmapConverter | Convertisseur externe |
+| outputFile | String | Le nom de fichier pour enregistrer l'image TIFF |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
+| paramètres | TiffSettings | Objet Settings qui définit les paramètres TIFF. |
+| convertisseur | IIndexBitmapConverter | Convertisseur externe |
 
 ### Voir aussi
 
@@ -299,7 +299,7 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings sett
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image TIFF. |
 | pageSize | PageSize | La taille de page de l'image. |
-| settings | TiffSettings | Objet de paramètres qui définit les paramètres TIFF. |
+| paramètres | TiffSettings | Objet Settings qui définit les paramètres TIFF. |
 
 ### Voir aussi
 
@@ -313,7 +313,7 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings sett
 
 ## SaveAsTIFF(Stream, int, int) {#saveastiff_6}
 
-Convertit chaque page d'un document pdf en images avec des dimensions, et enregistre les images dans un seul flux TIFF.
+Convertit chaque page d'un document pdf en images avec les dimensions, et enregistre les images dans un seul flux TIFF.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
@@ -322,8 +322,8 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image TIFF. |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
 
 ### Voir aussi
 
@@ -335,7 +335,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 
 ## SaveAsTIFF(Stream, int, int, CompressionType) {#saveastiff_7}
 
-Convertit chaque page d'un document pdf en images avec des dimensions, et enregistre les images dans un seul flux TIFF.
+Convertit chaque page d'un document pdf en images avec les dimensions, et enregistre les images dans un seul flux TIFF.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, 
@@ -345,8 +345,8 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight,
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image TIFF. |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
 | compressionType | CompressionType | Type de compression. |
 
 ### Voir aussi
@@ -360,7 +360,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight,
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings) {#saveastiff_8}
 
-Convertit chaque page d'un document pdf en images avec des dimensions, et enregistre les images dans un seul flux TIFF.
+Convertit chaque page d'un document pdf en images avec les dimensions, et enregistre les images dans un seul flux TIFF.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings)
@@ -369,9 +369,9 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image TIFF. |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
-| settings | TiffSettings | Objet de paramètres qui définit les paramètres TIFF. |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
+| paramètres | TiffSettings | Objet Settings qui définit les paramètres TIFF. |
 
 ### Voir aussi
 
@@ -384,7 +384,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_9}
 
-Convertit chaque page d'un document pdf en images avec des dimensions, et enregistre les images dans un seul flux TIFF.
+Convertit chaque page d'un document pdf en images avec les dimensions, et enregistre les images dans un seul flux TIFF.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings, 
@@ -394,10 +394,10 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image TIFF. |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
-| settings | TiffSettings | Objet de paramètres qui définit les paramètres TIFF. |
-| converter | IIndexBitmapConverter | Convertisseur externe |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
+| paramètres | TiffSettings | Objet Settings qui définit les paramètres TIFF. |
+| convertisseur | IIndexBitmapConverter | Convertisseur externe |
 
 ### Voir aussi
 
@@ -411,7 +411,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 ## SaveAsTIFF(string, TiffSettings) {#saveastiff_12}
 
-Convertit chaque page d'un document pdf en images et enregistre les images dans un seul fichier TIFF.
+Convertit chaque page d'un document pdf en images avec et enregistre les images dans un seul fichier TIFF.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, TiffSettings settings)
@@ -419,8 +419,8 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le nom du fichier pour enregistrer l'image TIFF |
-| settings | TiffSettings | Objet de paramètres qui définit les paramètres TIFF. |
+| outputFile | String | Le nom de fichier pour enregistrer l'image TIFF |
+| paramètres | TiffSettings | Objet Settings qui définit les paramètres TIFF. |
 
 ### Voir aussi
 
@@ -433,7 +433,7 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings)
 
 ## SaveAsTIFF(string, TiffSettings, IIndexBitmapConverter) {#saveastiff_13}
 
-Convertit chaque page d'un document pdf en images et enregistre les images dans un seul fichier TIFF.
+Convertit chaque page d'un document pdf en images avec et enregistre les images dans un seul fichier TIFF.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapConverter converter)
@@ -441,9 +441,9 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapCon
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le nom du fichier pour enregistrer l'image TIFF |
-| settings | TiffSettings | Objet de paramètres qui définit les paramètres TIFF. |
-| converter | IIndexBitmapConverter | Convertisseur externe |
+| outputFile | String | Le nom de fichier pour enregistrer l'image TIFF |
+| paramètres | TiffSettings | Objet Settings qui définit les paramètres TIFF. |
+| convertisseur | IIndexBitmapConverter | Convertisseur externe |
 
 ### Voir aussi
 
@@ -466,7 +466,7 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image TIFF. |
-| settings | TiffSettings | Objet de paramètres qui définit les paramètres TIFF. |
+| paramètres | TiffSettings | Objet Settings qui définit les paramètres TIFF. |
 
 ### Voir aussi
 
@@ -488,8 +488,8 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapC
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image TIFF. |
-| settings | TiffSettings | Objet de paramètres qui définit les paramètres TIFF. |
-| converter | IIndexBitmapConverter | Convertisseur externe |
+| paramètres | TiffSettings | Objet Settings qui définit les paramètres TIFF. |
+| convertisseur | IIndexBitmapConverter | Convertisseur externe |
 
 ### Voir aussi
 
@@ -498,3 +498,5 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapC
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

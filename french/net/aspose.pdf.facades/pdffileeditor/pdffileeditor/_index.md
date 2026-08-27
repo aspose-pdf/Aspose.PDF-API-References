@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.PdfFileEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PdfFileEditor. Le constructeur par défaut
+title: "PdfFileEditor.PdfFileEditor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PdfFileEditor. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/pdffileeditor/pdffileeditor/
 ---
-## Constructeur de PdfFileEditor
+## PdfFileEditor constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public PdfFileEditor()
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

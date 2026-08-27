@@ -1,12 +1,12 @@
 ---
-title: MarkupAnnotation.RichText
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MarkupAnnotation. Obtient ou définit une chaîne de texte enrichi à afficher dans la fenêtre contextuelle lorsque l'annotation est ouverte
+title: "MarkupAnnotation.RichText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MarkupAnnotation. Obtient ou définit une chaîne de texte enrichi à afficher dans la fenêtre popup lorsque l'annotation est ouverte."
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.annotations/markupannotation/richtext/
 ---
-## Propriété MarkupAnnotation.RichText
+## MarkupAnnotation.RichText property
 
 Obtient ou définit une chaîne de texte enrichi à afficher dans la fenêtre contextuelle lorsque l'annotation est ouverte.
 
@@ -16,6 +16,8 @@ public string RichText { get; set; }
 
 ### Voir aussi
 
-* classe [MarkupAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

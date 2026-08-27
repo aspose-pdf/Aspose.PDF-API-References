@@ -1,14 +1,14 @@
 ---
-title: Re.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Re. Accepte l'objet visiteur pour traiter l'opérateur
+title: "Re.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Re. Accepte l'objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.operators/re/accept/
 ---
-## Méthode Re.Accept
+## Re.Accept method
 
-Accepte l'objet visiteur pour traiter l'opérateur.
+Accepte un objet visiteur pour traiter l'opérateur.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -24,3 +24,5 @@ public override void Accept(IOperatorSelector visitor)
 * class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

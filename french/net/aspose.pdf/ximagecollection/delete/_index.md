@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XImageCollection. Supprime l'index de la collection par index
+title: "XImageCollection.Delete"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XImageCollection. Supprime l'élément de la collection par indice"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/ximagecollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-Supprime l'index de la collection par index.
+Supprime l'indice de la collection par indice.
 
 ```csharp
 public void Delete(int index)
@@ -16,19 +16,19 @@ public void Delete(int index)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | Index de l'image. |
+| index | Int32 | Indice de l'image. |
 
 ### Voir aussi
 
-* classe [XImageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Delete(int, ImageDeleteAction) {#delete_2}
 
-Supprime l'image de la collection par index en effectuant l'action spécifiée par le paramètre d'action.
+Supprime l'image de la collection par indice en exécutant l'action spécifiée par le paramètre action.
 
 ```csharp
 public void Delete(int index, ImageDeleteAction action)
@@ -36,14 +36,14 @@ public void Delete(int index, ImageDeleteAction action)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | Index de l'image à supprimer. |
+| index | Int32 | Indice de l'image à supprimer. |
 | action | ImageDeleteAction | Action effectuée après la suppression de l'image. |
 
 ### Voir aussi
 
 * enum [ImageDeleteAction](../../imagedeleteaction/)
-* classe [XImageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -58,12 +58,12 @@ public void Delete(string name)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| name | String | Nom de l'image qui doit être supprimée. |
+| nom | String | Nom de l'image qui doit être supprimée. |
 
 ### Voir aussi
 
-* classe [XImageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -78,14 +78,14 @@ public void Delete(string name, ImageDeleteAction action)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| name | String | Nom de l'image qui doit être supprimée. |
+| nom | String | Nom de l'image qui doit être supprimée. |
 | action | ImageDeleteAction | Action à effectuer avec l'objet image. |
 
 ### Voir aussi
 
 * enum [ImageDeleteAction](../../imagedeleteaction/)
-* classe [XImageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -100,6 +100,8 @@ public void Delete()
 
 ### Voir aussi
 
-* classe [XImageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

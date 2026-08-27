@@ -1,14 +1,14 @@
 ---
-title: PageSize.PageLetter
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageSize. Taille lettre 279x216 mm
+title: "PageSize.PageLetter"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageSize. Taille Letter 279x216 mm"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/pagesize/pageletter/
 ---
-## Propriété PageSize.PageLetter
+## PageSize.PageLetter property
 
-Taille lettre (279x216 mm).
+Taille Letter (279x216 mm).
 
 ```csharp
 public static PageSize PageLetter { get; }
@@ -16,6 +16,8 @@ public static PageSize PageLetter { get; }
 
 ### Voir aussi
 
-* classe [PageSize](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

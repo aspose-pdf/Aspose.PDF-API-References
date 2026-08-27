@@ -1,12 +1,12 @@
 ---
-title: MarkdownSaveOptions.LineBreakStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MarkdownSaveOptions. Obtient ou définit le style de saut de ligne pour le document généré
+title: "MarkdownSaveOptions.LineBreakStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MarkdownSaveOptions. Obtient ou définit le style de saut de ligne pour le document généré"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/markdownsaveoptions/linebreakstyle/
 ---
-## Propriété MarkdownSaveOptions.LineBreakStyle
+## MarkdownSaveOptions.LineBreakStyle property
 
 Obtient ou définit le style de saut de ligne pour le document généré.
 
@@ -20,3 +20,5 @@ public LineBreakStyle LineBreakStyle { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

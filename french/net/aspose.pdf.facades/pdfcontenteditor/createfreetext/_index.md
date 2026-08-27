@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateFreeText
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Crée une annotation de texte libre dans un document PDF
+title: "PdfContentEditor.CreateFreeText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Crée une annotation de texte libre dans le document PDF"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/createfreetext/
 ---
-## Méthode PdfContentEditor.CreateFreeText
+## PdfContentEditor.CreateFreeText method
 
-Crée une annotation de texte libre dans un document PDF
+Crée une annotation de texte libre dans le document PDF
 
 ```csharp
 public void CreateFreeText(Rectangle rect, string contents, int page)
@@ -18,7 +18,7 @@ public void CreateFreeText(Rectangle rect, string contents, int page)
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle d'annotation définissant l'emplacement de l'annotation sur la page. |
 | contents | String | Le contenu de l'annotation. |
-| page | Int32 | Le numéro de la page originale où l'annotation de texte sera créée. |
+| page | Int32 | Le numéro de la page d'origine où l'annotation de texte sera créée. |
 
 ## Exemples
 
@@ -31,6 +31,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

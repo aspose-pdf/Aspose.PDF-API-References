@@ -1,7 +1,7 @@
 ---
-title: XslFoLoadOptions.XslFoLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur XslFoLoadOptions. Crée un objet XslFoLoadOptions sans données xsl
+title: "XslFoLoadOptions.XslFoLoadOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur XslFoLoadOptions. Crée un objet XslFoLoadOptions sans données xsl"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/
@@ -16,8 +16,8 @@ public XslFoLoadOptions()
 
 ### Voir aussi
 
-* classe [XslFoLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,12 +32,12 @@ public XslFoLoadOptions(string xslFile)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| xslFile | String | Fichier xsl à convertir en document pdf. |
+| xslFile | String | Fichier Xsl pour convertir le document XSL-FO en document pdf. |
 
 ### Voir aussi
 
-* classe [XslFoLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -52,10 +52,12 @@ public XslFoLoadOptions(Stream xslStream)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| xslStream | Stream | Flux xsl à convertir en document pdf. |
+| xslStream | Stream | Flux Xsl pour convertir le document XSL-FO en document pdf. |
 
 ### Voir aussi
 
-* classe [XslFoLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

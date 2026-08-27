@@ -1,12 +1,12 @@
 ---
-title: Class SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.SignatureName. Représente une classe pour un nom de signature
+title: "Classe SignatureName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Facades.SignatureName. Représente une classe pour un nom de signature"
 type: docs
-weight: 4710
+weight: 4830
 url: /fr/net/aspose.pdf.facades/signaturename/
 ---
-## Classe SignatureName
+## SignatureName class
 
 Représente une classe pour un nom de signature.
 
@@ -26,7 +26,7 @@ public sealed class SignatureName
 | --- | --- |
 | override [Equals](../../aspose.pdf.facades/signaturename/equals/)(object) | Détermine si cette instance et un objet spécifié sont égaux. |
 | override [GetHashCode](../../aspose.pdf.facades/signaturename/gethashcode/)() | Renvoie un code de hachage pour cette instance basé sur la propriété FullName. |
-| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | Renvoie une représentation sous forme de chaîne de l'instance `SignatureName`, utilisant principalement son nom. |
+| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | Renvoie une représentation sous forme de chaîne de l'instance `SignatureName`, en utilisant principalement son nom. |
 
 ## Champs
 
@@ -37,9 +37,11 @@ public sealed class SignatureName
 
 ## Remarques
 
-Représente un nom de signature plus précis. Utilisé à la place de noms de chaînes. Permet de présenter des signatures avec les mêmes noms de chaînes.
+Représente un nom de signature plus précis. Utilisé à la place des noms de chaîne. Vous permet de présenter des signatures avec les mêmes noms de chaîne.
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

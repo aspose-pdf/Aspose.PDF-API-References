@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.GetPageXOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileInfo. Obtient le décalage horizontal de la zone d'affichage de la page spécifiée
+title: "PdfFileInfo.GetPageXOffset"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileInfo. Obtient le décalage horizontal de la zone d'affichage de la page spécifiée"
 type: docs
 weight: 270
 url: /fr/net/aspose.pdf.facades/pdffileinfo/getpagexoffset/
 ---
-## Méthode PdfFileInfo.GetPageXOffset
+## PdfFileInfo.GetPageXOffset method
 
 Obtient le décalage horizontal de la zone d'affichage de la page spécifiée.
 
@@ -24,6 +24,8 @@ Le décalage horizontal depuis le côté gauche de la page.
 
 ### Voir aussi
 
-* classe [PdfFileInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

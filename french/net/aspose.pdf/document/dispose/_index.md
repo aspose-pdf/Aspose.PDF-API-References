@@ -1,12 +1,12 @@
 ---
-title: Document.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Ferme toutes les ressources utilisées par ce document
+title: "Document.Dispose"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Document. Ferme toutes les ressources utilisées par ce document"
 type: docs
-weight: 610
+weight: 630
 url: /fr/net/aspose.pdf/document/dispose/
 ---
-## Méthode Document.Dispose
+## Document.Dispose method
 
 Ferme toutes les ressources utilisées par ce document.
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

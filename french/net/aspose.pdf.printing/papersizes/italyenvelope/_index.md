@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.ItalyEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Enveloppe italienne 110 mm par 230 mm
+title: "PaperSizes.ItalyEnvelope"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. Enveloppe Italie 110 mm par 230 mm"
 type: docs
 weight: 470
 url: /fr/net/aspose.pdf.printing/papersizes/italyenvelope/
 ---
-## Champ PaperSizes.ItalyEnvelope
+## PaperSizes.ItalyEnvelope field
 
-Enveloppe italienne (110 mm par 230 mm).
+Enveloppe Italie (110 mm par 230 mm).
 
 ```csharp
 public static readonly PaperSize ItalyEnvelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize ItalyEnvelope;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

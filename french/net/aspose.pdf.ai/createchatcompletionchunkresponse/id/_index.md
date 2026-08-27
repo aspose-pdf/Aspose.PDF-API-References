@@ -1,14 +1,14 @@
 ---
-title: CreateChatCompletionChunkResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CreateChatCompletionChunkResponse. Obtient ou définit un identifiant unique pour la complétion de chat. Chaque morceau a le même ID
+title: "CreateChatCompletionChunkResponse.Id"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "CreateChatCompletionChunkResponse propriété. Obtient ou définit un identifiant unique pour la complétion de chat. Chaque fragment a le même ID"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/createchatcompletionchunkresponse/id/
 ---
-## Propriété CreateChatCompletionChunkResponse.Id
+## CreateChatCompletionChunkResponse.Id property
 
-Obtient ou définit un identifiant unique pour la complétion de chat. Chaque morceau a le même ID.
+Obtient ou définit un identifiant unique pour la complétion de chat. Chaque fragment a le même ID.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Voir aussi
 
-* classe [CreateChatCompletionChunkResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CreateChatCompletionChunkResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

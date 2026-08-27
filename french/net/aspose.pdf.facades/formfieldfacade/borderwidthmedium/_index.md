@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderWidthMedium
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit une largeur de bordure moyenne
+title: "FormFieldFacade.BorderWidthMedium"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade champ. Définit une largeur de bordure moyenne"
 type: docs
 weight: 350
 url: /fr/net/aspose.pdf.facades/formfieldfacade/borderwidthmedium/
 ---
-## Champ FormFieldFacade.BorderWidthMedium
+## FormFieldFacade.BorderWidthMedium field
 
 Définit une largeur de bordure moyenne.
 
@@ -16,6 +16,8 @@ public const float BorderWidthMedium;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

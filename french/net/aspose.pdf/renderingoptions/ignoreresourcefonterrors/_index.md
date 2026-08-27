@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.IgnoreResourceFontErrors
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RenderingOptions. Obtient ou définit l'indication que les erreurs liées à l'absence de police seront ignorées. true signifie que les erreurs d'absence de police seront ignorées. Les segments de texte qui se réfèrent à des ressources incorrectes seront ignorés lors du traitement. false par défaut
+title: "RenderingOptions.IgnoreResourceFontErrors"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RenderingOptions. Obtient ou définit une indication selon laquelle les erreurs liées à l'absence de police seront ignorées. true signifie que les erreurs d'absence de police seront ignorées. Les segments de texte faisant référence à des ressources incorrectes seront sautés pendant le traitement. false par défaut."
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/renderingoptions/ignoreresourcefonterrors/
 ---
-## Propriété RenderingOptions.IgnoreResourceFontErrors
+## RenderingOptions.IgnoreResourceFontErrors property
 
-Obtient ou définit l'indication que les erreurs liées à l'absence de police seront ignorées. true - signifie que les erreurs d'absence de police seront ignorées. Les segments de texte qui se réfèrent à des ressources incorrectes seront ignorés lors du traitement. false par défaut
+Obtient ou définit l’indication selon laquelle les erreurs liées à l’absence de police seront ignorées. true - signifie que les erreurs d’absence de police seront ignorées. Les segments de texte qui font référence à des ressources incorrectes seront ignorés pendant le traitement. false par défaut
 
 ```csharp
 public bool IgnoreResourceFontErrors { get; set; }
@@ -16,6 +16,8 @@ public bool IgnoreResourceFontErrors { get; set; }
 
 ### Voir aussi
 
-* classe [RenderingOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

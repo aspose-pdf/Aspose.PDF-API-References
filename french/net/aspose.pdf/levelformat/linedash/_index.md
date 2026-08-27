@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LevelFormat. Obtient ou définit le trait de ligne TOC
+title: "LevelFormat.LineDash"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LevelFormat. Obtient ou définit le tiret de ligne du TOC"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/levelformat/linedash/
 ---
-## Propriété LevelFormat.LineDash
+## LevelFormat.LineDash property
 
-Obtient ou définit le trait de ligne TOC.
+Obtient ou définit le tiret de ligne de la TOC.
 
 ```csharp
 public TabLeaderType LineDash { get; set; }
@@ -20,3 +20,5 @@ public TabLeaderType LineDash { get; set; }
 * class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

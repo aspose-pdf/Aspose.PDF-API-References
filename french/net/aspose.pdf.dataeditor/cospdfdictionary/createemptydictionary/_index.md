@@ -1,7 +1,7 @@
 ---
-title: CosPdfDictionary.CreateEmptyDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CosPdfDictionary. Crée un dictionnaire vide qui sera attaché à la page
+title: "CosPdfDictionary.CreateEmptyDictionary"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CosPdfDictionary. Crée un dictionnaire vide qui sera attaché à la page"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/
@@ -57,7 +57,7 @@ Un dictionnaire vide.
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Le document est nul. |
+| ArgumentNullException | Le Document est nul. |
 
 ### Voir aussi
 
@@ -65,3 +65,5 @@ Un dictionnaire vide.
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

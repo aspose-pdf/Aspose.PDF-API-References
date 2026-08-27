@@ -1,7 +1,7 @@
 ---
-title: BoundsOutOfRangeException.BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de BoundsOutOfRangeException. Initialise une nouvelle instance de la classe BoundsOutOfRangeException
+title: "BoundsOutOfRangeException.BoundsOutOfRangeException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur BoundsOutOfRangeException. Initialise une nouvelle instance de la classe BoundsOutOfRangeException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/boundsoutofrangeexception/boundsoutofrangeexception/
@@ -16,8 +16,8 @@ public BoundsOutOfRangeException()
 
 ### Voir aussi
 
-* classe [BoundsOutOfRangeException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,15 +36,15 @@ public BoundsOutOfRangeException(string message)
 
 ### Voir aussi
 
-* classe [BoundsOutOfRangeException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BoundsOutOfRangeException(string, double, double) {#constructor_2}
 
-Initialise une nouvelle instance de la classe [`BoundsOutOfRangeException`](../) avec un message d'erreur spécifié et des dimensions d'élément.
+Initialise une nouvelle instance de la classe [`BoundsOutOfRangeException`](../) avec un message d'erreur spécifié et les dimensions de l'élément.
 
 ```csharp
 public BoundsOutOfRangeException(string message, double containerWidth, double containerHeight)
@@ -58,6 +58,8 @@ public BoundsOutOfRangeException(string message, double containerWidth, double c
 
 ### Voir aussi
 
-* classe [BoundsOutOfRangeException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

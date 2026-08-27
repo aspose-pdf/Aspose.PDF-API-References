@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.FitIntoRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormFieldOptions. Obtient/définit la valeur pour déterminer si le champ créé/modifié s'adapte ou non dans un rectangle s'il sera défini
+title: "FormFieldOptions.FitIntoRectangle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FormFieldOptions. Obtient/Définit la valeur permettant de déterminer si le champ créé/modifié s'adapte au rectangle ou non lorsqu'il sera défini"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.plugins/formfieldoptions/fitintorectangle/
 ---
-## Propriété FormFieldOptions.FitIntoRectangle
+## FormFieldOptions.FitIntoRectangle property
 
-Obtient/définit la valeur pour déterminer si le champ créé/modifié s'adapte ou non dans un rectangle (s'il sera défini).
+Obtient/définit la valeur pour déterminer si le champ créé/modifié s'adapte au rectangle ou non (si elle sera définie).
 
 ```csharp
 public bool? FitIntoRectangle { get; set; }
@@ -16,6 +16,8 @@ public bool? FitIntoRectangle { get; set; }
 
 ### Voir aussi
 
-* classe [FormFieldOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

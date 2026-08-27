@@ -1,14 +1,14 @@
 ---
-title: Page.RotationMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la page. Obtient la matrice de transformation pour la page
+title: "Page.RotationMatrix"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Page. Obtient la matrice de transformation pour la page"
 type: docs
 weight: 260
 url: /fr/net/aspose.pdf/page/rotationmatrix/
 ---
-## Propriété Page.RotationMatrix
+## Page.RotationMatrix property
 
-Obtient la matrice de transformation pour la page.
+Obtient la matrice de transformation pour la Page.
 
 ```csharp
 public Matrix RotationMatrix { get; }
@@ -16,7 +16,9 @@ public Matrix RotationMatrix { get; }
 
 ### Voir aussi
 
-* classe [Matrix](../../matrix/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../../matrix/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.NumberOfChoices
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LlamaChatCompletionRequest. Définit ou obtient combien de choix de complétion de chat générer pour chaque message d'entrée
+title: "LlamaChatCompletionRequest.NumberOfChoices"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LlamaChatCompletionRequest. Définit ou obtient le nombre de choix de complétion de chat à générer pour chaque message d'entrée"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.ai/llamachatcompletionrequest/numberofchoices/
 ---
-## Propriété LlamaChatCompletionRequest.NombreDeChoix
+## LlamaChatCompletionRequest.NumberOfChoices property
 
-Définit ou obtient combien de choix de complétion de chat générer pour chaque message d'entrée.
+Définit ou obtient le nombre de choix de complétion de chat à générer pour chaque message d'entrée.
 
 ```csharp
 public int? NumberOfChoices { get; set; }
@@ -16,6 +16,8 @@ public int? NumberOfChoices { get; set; }
 
 ### Voir aussi
 
-* classe [LlamaChatCompletionRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

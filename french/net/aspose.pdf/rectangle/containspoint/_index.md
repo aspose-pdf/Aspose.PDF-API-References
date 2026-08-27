@@ -1,12 +1,12 @@
 ---
-title: Rectangle.ContainsPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Rectangle. Détermine si le point donné est contenu dans le rectangle
+title: "Rectangle.ContainsPoint"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Rectangle. Détermine si le point donné est contenu dans le rectangle"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf/rectangle/containspoint/
 ---
-## Méthode Rectangle.ContainsPoint
+## Rectangle.ContainsPoint method
 
 Détermine si le point donné est contenu dans le rectangle.
 
@@ -25,6 +25,8 @@ public bool ContainsPoint(double x, double y)
 
 ### Voir aussi
 
-* classe [Rectangle](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

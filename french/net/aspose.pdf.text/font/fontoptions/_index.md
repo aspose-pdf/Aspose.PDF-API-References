@@ -1,12 +1,12 @@
 ---
-title: Font.FontOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Font. Propriétés utiles pour ajuster le comportement de la police
+title: "Font.FontOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Font. Propriétés utiles pour ajuster le comportement de Font"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.text/font/fontoptions/
 ---
-## Propriété Font.FontOptions
+## Font.FontOptions property
 
 Propriétés utiles pour ajuster le comportement de la police
 
@@ -20,3 +20,5 @@ public IFontOptions FontOptions { get; }
 * class [Font](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

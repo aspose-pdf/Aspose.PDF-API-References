@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Level
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineItemCollection. Obtient le niveau de hiérarchie de l'élément de plan
+title: "OutlineItemCollection.Level"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection propriété. Obtient le niveau hiérarchique de l'élément du plan"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf/outlineitemcollection/level/
 ---
-## Propriété OutlineItemCollection.Level
+## OutlineItemCollection.Level property
 
-Obtient le niveau de hiérarchie de l'élément de plan.
+Obtient le niveau hiérarchique de l'élément de plan.
 
 ```csharp
 public int Level { get; }
@@ -16,6 +16,8 @@ public int Level { get; }
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

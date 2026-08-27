@@ -1,14 +1,14 @@
 ---
-title: Measure.SlopeFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Measure. Un tableau de format numérique pour la mesure de la pente d'une ligne
+title: "Measure.SlopeFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Measure. Un tableau de formats numériques pour la mesure de la pente d'une ligne."
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.annotations/measure/slopeformat/
 ---
-## Propriété Measure.SlopeFormat
+## Measure.SlopeFormat property
 
-Un tableau de format numérique pour la mesure de la pente d'une ligne.
+Un tableau de formats numériques pour la mesure de la pente d'une ligne.
 
 ```csharp
 public NumberFormatList SlopeFormat { get; set; }
@@ -16,7 +16,9 @@ public NumberFormatList SlopeFormat { get; set; }
 
 ### Voir aussi
 
-* classe [NumberFormatList](../../measure.numberformatlist/)
-* classe [Measure](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StampInfo.IndexOnPage
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StampInfo. Obtient l'index du tampon sur la page
+title: "StampInfo.IndexOnPage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StampInfo. Obtient l'index du tampon sur la page"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/stampinfo/indexonpage/
 ---
-## Propriété StampInfo.IndexOnPage
+## StampInfo.IndexOnPage property
 
 Obtient l'index du tampon sur la page.
 
@@ -16,6 +16,8 @@ public int IndexOnPage { get; }
 
 ### Voir aussi
 
-* classe [StampInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

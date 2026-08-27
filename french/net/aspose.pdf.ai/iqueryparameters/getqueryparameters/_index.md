@@ -1,12 +1,12 @@
 ---
-title: IQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IQueryParameters. Obtient les paramètres de requête sous forme de chaîne
+title: "IQueryParameters.GetQueryParameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "IQueryParameters méthode. Obtient les paramètres de requête sous forme de chaîne"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/iqueryparameters/getqueryparameters/
 ---
-## Méthode IQueryParameters.GetQueryParameters
+## IQueryParameters.GetQueryParameters method
 
 Obtient les paramètres de requête sous forme de chaîne.
 
@@ -23,3 +23,5 @@ Les paramètres de requête sous forme de chaîne.
 * interface [IQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

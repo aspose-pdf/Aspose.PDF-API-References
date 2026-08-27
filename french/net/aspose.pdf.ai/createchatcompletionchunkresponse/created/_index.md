@@ -1,14 +1,14 @@
 ---
-title: CreateChatCompletionChunkResponse.Created
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CreateChatCompletionChunkResponse. Obtient ou définit le timestamp Unix en secondes de la création de la complétion de chat. Chaque morceau a le même timestamp
+title: "CreateChatCompletionChunkResponse.Created"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CreateChatCompletionChunkResponse. Obtient ou définit le horodatage Unix en secondes du moment où la complétion de chat a été créée. Chaque fragment a le même horodatage."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/createchatcompletionchunkresponse/created/
 ---
-## Propriété CreateChatCompletionChunkResponse.Created
+## CreateChatCompletionChunkResponse.Created property
 
-Obtient ou définit le timestamp Unix (en secondes) de la création de la complétion de chat. Chaque morceau a le même timestamp.
+Obtient ou définit l'horodatage Unix (en secondes) du moment où la complétion de chat a été créée. Chaque fragment a le même horodatage.
 
 ```csharp
 public long Created { get; set; }
@@ -16,6 +16,8 @@ public long Created { get; set; }
 
 ### Voir aussi
 
-* classe [CreateChatCompletionChunkResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CreateChatCompletionChunkResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.Salmon
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de couleur. Obtient une couleur définie par le système qui a une valeur ARGB de c FFFA8072
+title: "Color.Salmon"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Color. Obtient une couleur prédéfinie dont la valeur ARGB est c FFFA8072"
 type: docs
 weight: 1190
 url: /fr/net/aspose.pdf/color/salmon/
 ---
-## Propriété Color.Salmon
+## Color.Salmon property
 
 Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFFA8072.
 
@@ -16,10 +16,12 @@ public static Color Salmon { get; }
 
 ### Valeur de retour
 
-Représentant une couleur définie par le système.
+A représentant une couleur définie par le système.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

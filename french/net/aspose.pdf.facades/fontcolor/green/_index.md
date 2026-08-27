@@ -1,12 +1,12 @@
 ---
-title: FontColor.Green
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FontColor. Composant vert de la couleur
+title: "FontColor.Green"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FontColor propriété. Composante verte de la couleur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/fontcolor/green/
 ---
-## Propriété FontColor.Green
+## FontColor.Green property
 
 Composant vert de la couleur.
 
@@ -16,6 +16,8 @@ public int Green { get; set; }
 
 ### Voir aussi
 
-* classe [FontColor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

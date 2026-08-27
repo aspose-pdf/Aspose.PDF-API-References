@@ -1,7 +1,7 @@
 ---
-title: TextExtractorOptions.TextExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TextExtractorOptions. Initialise une nouvelle instance de l'objet TextExtractorOptions pour le mode de formatage de texte spécifié
+title: "TextExtractorOptions.TextExtractorOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TextExtractorOptions. Initialise une nouvelle instance de l'objet TextExtractorOptions pour le mode de formatage de texte spécifié"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/textextractoroptions/textextractoroptions/
@@ -40,3 +40,5 @@ public TextExtractorOptions()
 * class [TextExtractorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

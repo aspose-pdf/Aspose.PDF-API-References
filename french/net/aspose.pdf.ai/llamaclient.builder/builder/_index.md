@@ -1,12 +1,12 @@
 ---
-title: LlamaClient.Builder.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de Builder. Initialise une nouvelle instance de la classe Builder avec la clé API
+title: "LlamaClient.Builder.Builder"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Builder. Initialise une nouvelle instance de la classe Builder avec la clé API"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/llamaclient.builder/builder/
 ---
-## Constructeur LlamaClient.Builder
+## LlamaClient.Builder constructor
 
 Initialise une nouvelle instance de la classe [`Builder`](../) avec la clé API.
 
@@ -20,6 +20,8 @@ public Builder(string apiKey)
 
 ### Voir aussi
 
-* classe [Builder](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

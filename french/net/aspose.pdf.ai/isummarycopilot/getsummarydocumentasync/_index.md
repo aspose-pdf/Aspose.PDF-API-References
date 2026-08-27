@@ -1,7 +1,7 @@
 ---
-title: ISummaryCopilot.GetSummaryDocumentAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ISummaryCopilot. Obtient de manière asynchrone un document PDF de résumé
+title: "ISummaryCopilot.GetSummaryDocumentAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ISummaryCopilot. Obtient de manière asynchrone un document PDF de résumé"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/
@@ -24,9 +24,9 @@ Une tâche représentant l'opération asynchrone avec le document de résumé.
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
+* class [Document](../../../aspose.pdf/document/)
 * interface [ISummaryCopilot](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -51,8 +51,10 @@ Une tâche représentant l'opération asynchrone avec le document de résumé.
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
 * interface [ISummaryCopilot](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

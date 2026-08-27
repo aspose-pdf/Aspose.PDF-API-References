@@ -1,26 +1,28 @@
 ---
-title: ITextElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ITextElement. Obtient l'objet StructureTextState pour l'élément de structure de texte
+title: "ITextElement.StructureTextState"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ITextElement. Obtient l'objet StructureTextState pour l'élément de structure de texte"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.logicalstructure/itextelement/structuretextstate/
 ---
-## Propriété ITextElement.StructureTextState
+## ITextElement.StructureTextState property
 
-Obtient l'objet StructureTextState pour l'élément de structure de texte.
+Obtient l'objet StructureTextState pour l'élément de structure texte.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### Valeur de la Propriété
+### Property Value
 
 Objet StructureTextState pour l'élément de structure de texte.
 
-### Voir Aussi
+### Voir aussi
 
-* classe [StructureTextState](../../structuretextstate/)
+* class [StructureTextState](../../structuretextstate/)
 * interface [ITextElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.FreeOnDispose
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OptimizedMemoryStream. Obtient ou définit une valeur indiquant s'il faut libérer les tampons sous-jacents lors de la suppression
+title: "OptimizedMemoryStream.FreeOnDispose"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OptimizedMemoryStream property. Obtient ou définit une valeur indiquant s'il faut libérer les tampons sous-jacents lors de la libération."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/optimizedmemorystream/freeondispose/
 ---
-## Propriété OptimizedMemoryStream.FreeOnDispose
+## OptimizedMemoryStream.FreeOnDispose property
 
-Obtient ou définit une valeur indiquant s'il faut libérer les tampons sous-jacents lors de la suppression.
+Obtient ou définit une valeur indiquant s'il faut libérer les tampons sous-jacents lors de la libération.
 
 ```csharp
 public bool FreeOnDispose { get; set; }
@@ -16,6 +16,8 @@ public bool FreeOnDispose { get; set; }
 
 ### Voir aussi
 
-* classe [OptimizedMemoryStream](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Resolution.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de résolution. Obtient ou définit la résolution d'image verticale
+title: "Resolution.Y"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Resolution. Obtient ou définit la résolution verticale de l'image."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.devices/resolution/y/
 ---
-## Propriété Resolution.Y
+## Resolution.Y property
 
-Obtient ou définit la résolution d'image verticale.
+Obtient ou définit la résolution verticale de l'image.
 
 ```csharp
 public int Y { get; set; }
@@ -16,6 +16,8 @@ public int Y { get; set; }
 
 ### Voir aussi
 
-* classe [Resolution](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

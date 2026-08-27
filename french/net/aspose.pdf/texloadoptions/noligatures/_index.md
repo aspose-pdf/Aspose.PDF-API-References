@@ -1,12 +1,12 @@
 ---
-title: TeXLoadOptions.NoLigatures
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TeXLoadOptions. Obtient/définit un indicateur qui annule les ligatures dans toutes les polices
+title: "TeXLoadOptions.NoLigatures"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TeXLoadOptions. Obtient/definit un drapeau qui annule les ligatures dans toutes les polices"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/texloadoptions/noligatures/
 ---
-## Propriété TeXLoadOptions.NoLigatures
+## TeXLoadOptions.NoLigatures property
 
 Obtient/définit un indicateur qui annule les ligatures dans toutes les polices.
 
@@ -16,6 +16,8 @@ public bool NoLigatures { get; set; }
 
 ### Voir aussi
 
-* classe [TeXLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

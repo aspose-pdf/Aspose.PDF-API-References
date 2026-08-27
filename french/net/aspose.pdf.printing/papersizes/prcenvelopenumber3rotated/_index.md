@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber3Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Enveloppe 3 tournée 176 mm par 125 mm
+title: "PaperSizes.PrcEnvelopeNumber3Rotated"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Enveloppe 3 pivotée 176 mm sur 125 mm"
 type: docs
 weight: 930
 url: /fr/net/aspose.pdf.printing/papersizes/prcenvelopenumber3rotated/
 ---
-## Champ PaperSizes.PrcEnvelopeNumber3Rotated
+## PaperSizes.PrcEnvelopeNumber3Rotated field
 
-# Enveloppe 3 tournée (176 mm par 125 mm).
+Enveloppe #3 pivotée (176 mm sur 125 mm).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber3Rotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize PrcEnvelopeNumber3Rotated;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PrinterMarksKindExtensions.HasFlagFast
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PrinterMarksKindExtensions. Détermine si la valeur actuelle inclut un drapeau spécifié
+title: "PrinterMarksKindExtensions.HasFlagFast"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PrinterMarksKindExtensions. Détermine si la valeur actuelle inclut un drapeau spécifié"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/
 ---
-## Méthode PrinterMarksKindExtensions.HasFlagFast
+## PrinterMarksKindExtensions.HasFlagFast method
 
-Détermine si la valeur actuelle inclut un drapeau spécifié.
+Détermine si la valeur actuelle inclut un indicateur spécifié.
 
 ```csharp
 public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind flag)
@@ -29,3 +29,5 @@ public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind fla
 * class [PrinterMarksKindExtensions](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

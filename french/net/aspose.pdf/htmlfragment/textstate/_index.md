@@ -1,12 +1,12 @@
 ---
-title: HtmlFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlFragment. Obtient ou définit la police
+title: "HtmlFragment.TextState"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété HtmlFragment. Obtient ou définit la police"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/htmlfragment/textstate/
 ---
-## Propriété HtmlFragment.TextState
+## HtmlFragment.TextState property
 
 Obtient ou définit la police
 
@@ -16,7 +16,9 @@ public TextState TextState { get; set; }
 
 ### Voir aussi
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [HtmlFragment](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

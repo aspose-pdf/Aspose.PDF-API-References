@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragmentCollection. Obtient une valeur indiquant si la collection est en lecture seule
+title: "TextFragmentCollection.IsReadOnly"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragmentCollection. Obtient une valeur indiquant si la collection est en lecture seule"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/textfragmentcollection/isreadonly/
 ---
-## Propriété TextFragmentCollection.IsReadOnly
+## TextFragmentCollection.IsReadOnly property
 
 Obtient une valeur indiquant si la collection est en lecture seule
 
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### Voir aussi
 
-* classe [TextFragmentCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

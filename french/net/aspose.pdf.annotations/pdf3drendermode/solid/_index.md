@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.Solid
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PDF3DRenderMode. Le mode de rendu Solide
+title: "PDF3DRenderMode.Solid"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PDF3DRenderMode. Le mode de rendu Solid"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.annotations/pdf3drendermode/solid/
 ---
-## Champ PDF3DRenderMode.Solid
+## PDF3DRenderMode.Solid field
 
-Le mode de rendu "Solide".
+Le mode de rendu "Solid".
 
 ```csharp
 public static PDF3DRenderMode Solid;
@@ -16,6 +16,8 @@ public static PDF3DRenderMode Solid;
 
 ### Voir aussi
 
-* classe [PDF3DRenderMode](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

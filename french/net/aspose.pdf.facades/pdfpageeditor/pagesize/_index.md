@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfPageEditor. Obtient ou définit la taille de page des fichiers de sortie
+title: "PdfPageEditor.PageSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfPageEditor. Obtient ou définit la taille de page des fichiers de sortie"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/pagesize/
 ---
-## Propriété PdfPageEditor.PageSize
+## PdfPageEditor.PageSize property
 
 Obtient ou définit la taille de page du fichier de sortie.
 
@@ -16,7 +16,9 @@ public PageSize PageSize { get; set; }
 
 ### Voir aussi
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

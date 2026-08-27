@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CharInfoCollection. Renvoie un énumérateur pour l'ensemble de la collection
+title: "CharInfoCollection.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CharInfoCollection. Retourne un énumérateur pour l'ensemble de la collection"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.text/charinfocollection/getenumerator/
 ---
-## Méthode CharInfoCollection.GetEnumerator
+## CharInfoCollection.GetEnumerator method
 
-Renvoie un énumérateur pour l'ensemble de la collection.
+Renvoie un énumérateur pour l'intégralité de la collection.
 
 ```csharp
 public IEnumerator<CharInfo> GetEnumerator()
@@ -20,7 +20,9 @@ Objet énumérateur.
 
 ### Voir aussi
 
-* classe [CharInfo](../../charinfo/)
-* classe [CharInfoCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class TextFormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.TextFormattingOptions. Représente les options de formatage du texte
+title: "Classe TextFormattingOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Text.TextFormattingOptions. Représente les options de formatage du texte"
 type: docs
-weight: 10910
+weight: 11090
 url: /fr/net/aspose.pdf.text/textformattingoptions/
 ---
-## Classe TextFormattingOptions
+## TextFormattingOptions class
 
 Représente les options de formatage du texte
 
@@ -25,14 +25,16 @@ public sealed class TextFormattingOptions : TextOptions
 
 | Nom | Description |
 | --- | --- |
-| [FirstLineIndent](../../aspose.pdf.text/textformattingoptions/firstlineindent/) { get; set; } | Obtient ou définit la valeur d'indentation de la première ligne. |
-| [HyphenSymbol](../../aspose.pdf.text/textformattingoptions/hyphensymbol/) { get; set; } | Obtient ou définit le symbole de trait d'union utilisé dans le processus de coupure. |
+| [FirstLineIndent](../../aspose.pdf.text/textformattingoptions/firstlineindent/) { get; set; } | Obtient ou définit la valeur du retrait de la première ligne. |
+| [HyphenSymbol](../../aspose.pdf.text/textformattingoptions/hyphensymbol/) { get; set; } | Obtient ou définit le symbole de trait d'union utilisé dans le processus de césure. |
 | [LineSpacing](../../aspose.pdf.text/textformattingoptions/linespacing/) { get; set; } | Obtient ou définit le mode d'espacement des lignes. La valeur par défaut est LineSpacingMode.FontSize |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textformattingoptions/subsequentlinesindent/) { get; set; } | Obtient ou définit la valeur d'indentation des lignes suivantes. |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textformattingoptions/subsequentlinesindent/) { get; set; } | Obtient ou définit la valeur du retrait des lignes suivantes. |
 | [WrapMode](../../aspose.pdf.text/textformattingoptions/wrapmode/) { get; set; } | Obtient ou définit le mode de retour à la ligne. La valeur par défaut est WordWrapMode.NoWrap |
 
 ### Voir aussi
 
-* classe [TextOptions](../textoptions/)
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* class [TextOptions](../textoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Page.Duration
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la page. Obtient ou définit la durée d'affichage de la page. C'est le temps en secondes que la page doit être affichée pendant la présentation. Renvoie 1 si la durée n'est pas définie
+title: "Page.Duration"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Page. Obtient ou définit la durée d'affichage de la page. Il s'agit du temps en secondes pendant lequel la page doit être affichée lors d'une présentation. Retourne 1 si la durée n'est pas définie."
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/page/duration/
 ---
-## Propriété Page.Duration
+## Page.Duration property
 
-Obtient ou définit la durée d'affichage de la page. C'est le temps en secondes que la page doit être affichée pendant la présentation. Renvoie -1 si la durée n'est pas définie.
+Obtient ou définit la durée d'affichage de la page. Il s'agit du temps en secondes pendant lequel la page doit être affichée pendant la présentation. Retourne -1 si la durée n'est pas définie.
 
 ```csharp
 public double Duration { get; set; }
@@ -16,7 +16,7 @@ public double Duration { get; set; }
 
 ## Exemples
 
-L'exemple démontre comment obtenir la durée de la page
+L'exemple montre comment obtenir la durée de la page.
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -26,6 +26,8 @@ int pageRect = page.Duration;
 
 ### Voir aussi
 
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

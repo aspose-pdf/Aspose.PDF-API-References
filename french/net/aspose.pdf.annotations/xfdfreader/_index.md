@@ -1,12 +1,12 @@
 ---
-title: Class XfdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.XfdfReader. Classe qui effectue la lecture du format XFDF
+title: "Classe XfdfReader"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Annotations.XfdfReader. Classe qui effectue la lecture du format XFDF"
 type: docs
-weight: 2740
+weight: 2840
 url: /fr/net/aspose.pdf.annotations/xfdfreader/
 ---
-## Classe XfdfReader
+## XfdfReader class
 
 Classe qui effectue la lecture du format XFDF.
 
@@ -40,5 +40,7 @@ doc.Save("example_out.pdf");
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

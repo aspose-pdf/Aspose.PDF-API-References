@@ -1,105 +1,107 @@
 ---
-title: XmpValue.XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue constructor. Constructeur pour une valeur de chaîne
+title: "XmpValue.XmpValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur XmpValue. Constructeur pour une valeur chaîne"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/xmpvalue/xmpvalue/
 ---
 ## XmpValue(string) {#constructor_4}
 
-Constructeur pour une valeur de chaîne.
+Constructeur pour la valeur chaîne.
 
 ```csharp
 public XmpValue(string value)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | String | Valeur de chaîne. |
+| valeur | String | Valeur de chaîne. |
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(int) {#constructor_2}
 
-Consructor for integer value.
+Constructeur pour la valeur entière.
 
 ```csharp
 public XmpValue(int value)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Int32 | Valeur entière. |
+| valeur | Int32 | Valeur entière. |
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(double) {#constructor_1}
 
-Constructeur pour une valeur à virgule flottante.
+Constructeur pour la valeur à virgule flottante.
 
 ```csharp
 public XmpValue(double value)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Double | Valeur double. |
+| valeur | Double | Valeur Double. |
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(DateTime) {#constructor_3}
 
-Constructeur pour une valeur de date et heure.
+Constructeur pour la valeur date/heure.
 
 ```csharp
 public XmpValue(DateTime value)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | DateTime | Valeur de date et heure. |
+| valeur | DateTime | Valeur date et heure. |
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(XmpValue[]) {#constructor}
 
-Constructeur pour une valeur de tableau.
+Constructeur pour la valeur tableau.
 
 ```csharp
 public XmpValue(XmpValue[] array)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| array | XmpValue[] | Valeur de tableau. |
+| tableau | XmpValue[] | Valeur du tableau. |
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

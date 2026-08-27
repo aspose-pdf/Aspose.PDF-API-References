@@ -1,14 +1,14 @@
 ---
-title: Class ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.ShowText. Classe représentant l'opérateur Tj pour afficher du texte
+title: "Classe ShowText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.ShowText classe. Classe représentant l'opérateur Tj d'affichage du texte"
 type: docs
-weight: 7880
+weight: 8020
 url: /fr/net/aspose.pdf.operators/showtext/
 ---
-## Classe ShowText
+## ShowText class
 
-Classe représentant l'opérateur Tj (afficher du texte).
+Classe représentant l'opérateur Tj (afficher le texte).
 
 ```csharp
 public class ShowText : TextShowOperator
@@ -34,12 +34,14 @@ public class ShowText : TextShowOperator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/showtext/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/showtext/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/showtext/tostring/)() | Produit le code texte de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [TextShowOperator](../textshowoperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextShowOperator](../textshowoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

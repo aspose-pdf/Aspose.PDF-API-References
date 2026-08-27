@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.CompletedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunStepResponse. Obtient ou définit le timestamp Unix en secondes pour le moment où l'étape d'exécution est terminée
+title: "RunStepResponse.CompletedAt"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunStepResponse. Obtient ou définit le horodatage Unix en secondes du moment où l'étape d'exécution s'est terminée."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/runstepresponse/completedat/
 ---
-## Propriété RunStepResponse.CompletedAt
+## RunStepResponse.CompletedAt property
 
-Obtient ou définit le timestamp Unix (en secondes) pour le moment où l'étape d'exécution est terminée.
+Obtient ou définit l'horodatage Unix (en secondes) du moment où l'étape du run a été terminée.
 
 ```csharp
 public long? CompletedAt { get; set; }
@@ -16,6 +16,8 @@ public long? CompletedAt { get; set; }
 
 ### Voir aussi
 
-* classe [RunStepResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunStepResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

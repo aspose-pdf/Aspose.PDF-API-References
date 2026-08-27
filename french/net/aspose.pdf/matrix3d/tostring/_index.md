@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Matrix3D. Renvoie la représentation textuelle de la matrice
+title: "Matrix3D.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Matrix3D. Retourne la représentation textuelle de la matrice"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf/matrix3d/tostring/
 ---
-## Méthode Matrix3D.ToString
+## Matrix3D.ToString method
 
 Renvoie la représentation textuelle de la matrice.
 
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Valeur de retour
 
-Représentation sous forme de chaîne pour la matrice
+Représentation sous forme de chaîne de la matrice
 
 ### Voir aussi
 
-* classe [Matrix3D](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

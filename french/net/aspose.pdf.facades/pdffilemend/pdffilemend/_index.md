@@ -1,7 +1,7 @@
 ---
-title: PdfFileMend.PdfFileMend
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PdfFileMend. Constructeur
+title: "PdfFileMend.PdfFileMend"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PdfFileMend. Constructeur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/pdffilemend/pdffilemend/
@@ -16,8 +16,8 @@ public PdfFileMend()
 
 ### Voir aussi
 
-* classe [PdfFileMend](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,7 +36,9 @@ public PdfFileMend(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfFileMend](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

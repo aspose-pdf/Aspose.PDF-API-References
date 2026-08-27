@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.LogTextExtractionErrors
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextSearchOptions. Obtient ou définit l'indication que les erreurs de décodage de l'extraction de texte seront enregistrées dans l'absorbeur de fragments de texte. true signifie que les erreurs de décodage de l'extraction de texte seront enregistrées. Cela peut diminuer les performances. false par défaut pas d'enregistrement des erreurs
+title: "TextSearchOptions.LogTextExtractionErrors"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextSearchOptions. Obtient ou définit l'indication que les erreurs de décodage de l'extraction de texte seront enregistrées dans le TextFragmentAbsorber. true  signifie que les erreurs de décodage de l'extraction de texte seront enregistrées. Cela peut diminuer les performances. false valeur par défaut  aucune journalisation des erreurs"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.text/textsearchoptions/logtextextractionerrors/
 ---
-## Propriété TextSearchOptions.LogTextExtractionErrors
+## TextSearchOptions.LogTextExtractionErrors property
 
-Obtient ou définit l'indication que les erreurs d'extraction de texte (décodage) seront enregistrées dans l'absorbeur de texte (fragment). true - signifie que les erreurs d'extraction de texte (décodage) seront enregistrées. Cela peut diminuer les performances. false (par défaut) - pas d'enregistrement des erreurs.
+Obtient ou définit l'indication selon laquelle les erreurs d'extraction (décodage) du texte seront enregistrées dans l'absorbeur de texte (fragment). true - signifie que les erreurs d'extraction (décodage) du texte seront enregistrées. Cela peut réduire les performances. false (par défaut) - aucune journalisation des erreurs.
 
 ```csharp
 public bool LogTextExtractionErrors { get; set; }
@@ -16,6 +16,8 @@ public bool LogTextExtractionErrors { get; set; }
 
 ### Voir aussi
 
-* classe [TextSearchOptions](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

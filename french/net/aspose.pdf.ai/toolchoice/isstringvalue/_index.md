@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.IsStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ToolChoice. Obtient une valeur indiquant si le ToolChoice est une valeur de chaîne
+title: "ToolChoice.IsStringValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ToolChoice. Obtient une valeur indiquant si le ToolChoice est une valeur de chaîne"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/toolchoice/isstringvalue/
 ---
-## Propriété ToolChoice.IsStringValue
+## ToolChoice.IsStringValue property
 
-Obtient une valeur indiquant si le ToolChoice est une valeur de chaîne.
+Obtient une valeur indiquant si le ToolChoice est une valeur chaîne.
 
 ```csharp
 public bool IsStringValue { get; }
@@ -16,6 +16,8 @@ public bool IsStringValue { get; }
 
 ### Voir aussi
 
-* classe [ToolChoice](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ToolChoice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

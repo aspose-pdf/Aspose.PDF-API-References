@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.DocumentType
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlSaveOptions. Obtient ou définit le HtmlDocumentType
+title: "HtmlSaveOptions.DocumentType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété HtmlSaveOptions. Obtient ou définit le HtmlDocumentType."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/htmlsaveoptions/documenttype/
 ---
-## Propriété HtmlSaveOptions.DocumentType
+## HtmlSaveOptions.DocumentType property
 
 Obtient ou définit le [`HtmlDocumentType`](../../htmldocumenttype/).
 
@@ -14,7 +14,7 @@ Obtient ou définit le [`HtmlDocumentType`](../../htmldocumenttype/).
 public HtmlDocumentType DocumentType { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le [`HtmlDocumentType`](../../htmldocumenttype/).
 
@@ -24,3 +24,5 @@ Le [`HtmlDocumentType`](../../htmldocumenttype/).
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

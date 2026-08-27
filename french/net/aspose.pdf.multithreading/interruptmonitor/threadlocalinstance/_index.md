@@ -1,12 +1,12 @@
 ---
-title: InterruptMonitor.ThreadLocalInstance
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété InterruptMonitor. Obtient ou définit l'instance IInterruptMonitor qui est unique pour chaque thread
+title: "InterruptMonitor.ThreadLocalInstance"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété InterruptMonitor. Obtient ou définit l'instance IInterruptMonitor qui est unique pour chaque thread"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/
 ---
-## Propriété InterruptMonitor.ThreadLocalInstance
+## InterruptMonitor.ThreadLocalInstance property
 
 Obtient ou définit l'instance IInterruptMonitor qui est unique pour chaque thread.
 
@@ -20,3 +20,5 @@ public static IInterruptMonitor ThreadLocalInstance { get; set; }
 * class [InterruptMonitor](../)
 * namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)
+
+

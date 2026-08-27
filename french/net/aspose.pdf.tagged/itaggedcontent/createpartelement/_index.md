@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreatePartElement
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITaggedContent. Crée PartElement
+title: "ITaggedContent.CreatePartElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ITaggedContent méthode. Crée PartElement"
 type: docs
-weight: 210
+weight: 240
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/createpartelement/
 ---
-## Méthode ITaggedContent.CreatePartElement
+## ITaggedContent.CreatePartElement method
 
 Crée [`PartElement`](../../../aspose.pdf.logicalstructure/partelement/).
 
@@ -20,7 +20,9 @@ public PartElement CreatePartElement()
 
 ### Voir aussi
 
-* classe [PartElement](../../../aspose.pdf.logicalstructure/partelement/)
+* class [PartElement](../../../aspose.pdf.logicalstructure/partelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

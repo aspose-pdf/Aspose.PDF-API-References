@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Style de bordure indéfini
+title: "FormFieldFacade.BorderStyleUndefined"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade field. Style de bordure non défini"
 type: docs
 weight: 330
 url: /fr/net/aspose.pdf.facades/formfieldfacade/borderstyleundefined/
 ---
-## Champ FormFieldFacade.BorderStyleUndefined
+## FormFieldFacade.BorderStyleUndefined field
 
-Style de bordure indéfini.
+Style de bordure non défini.
 
 ```csharp
 public const int BorderStyleUndefined;
@@ -16,6 +16,8 @@ public const int BorderStyleUndefined;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

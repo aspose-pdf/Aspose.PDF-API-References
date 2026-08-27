@@ -1,14 +1,14 @@
 ---
-title: XForm.GetResources
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XForm. Renvoie les ressources de l'objet XForm
+title: "XForm.GetResources"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XForm. Retourne les ressources du Form XObject"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/xform/getresources/
 ---
 ## GetResources(bool) {#getresources_1}
 
-Renvoie les ressources de l'objet X-Form
+Renvoie les ressources du Form X-Object
 
 ```csharp
 public Resources GetResources(bool allowCreate)
@@ -16,7 +16,7 @@ public Resources GetResources(bool allowCreate)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| allowCreate | Boolean | Si le Form n'a pas de ressources et que allowCreate est vrai, les ressources seront automatiquement créées pour le formulaire. |
+| allowCreate | Boolean | Si le formulaire n'a pas de ressources et que allowCreate est vrai, Resources sera automatiquement créé pour le formulaire. |
 
 ### Valeur de retour
 
@@ -24,16 +24,16 @@ Ressources.
 
 ### Voir aussi
 
-* classe [Resources](../../resources/)
-* classe [XForm](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Resources](../../resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetResources() {#getresources}
 
-Renvoie les ressources de l'objet X-Form. Si le Form n'a pas de ressources et que allowCreate est vrai, les ressources seront automatiquement créées pour le formulaire.
+Renvoie les ressources du Form X-Object. Si le Form ne possède pas de ressources et que allowCreate est vrai, les Resources seront automatiquement créées pour le formulaire.
 
 ```csharp
 public Resources GetResources()
@@ -41,11 +41,13 @@ public Resources GetResources()
 
 ### Valeur de retour
 
-Objet Ressources
+Objet Resources
 
 ### Voir aussi
 
-* classe [Resources](../../resources/)
-* classe [XForm](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Resources](../../resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

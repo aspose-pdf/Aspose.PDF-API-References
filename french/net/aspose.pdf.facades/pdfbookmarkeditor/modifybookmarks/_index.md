@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.ModifyBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfBookmarkEditor. Modifie le titre du signet selon le titre de signet spécifié
+title: "PdfBookmarkEditor.ModifyBookmarks"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfBookmarkEditor méthode. Modifie le titre du signet selon le titre de signet spécifié"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/
 ---
-## Méthode PdfBookmarkEditor.ModifyBookmarks
+## PdfBookmarkEditor.ModifyBookmarks method
 
-Modifie le titre du signet selon le titre de signet spécifié.
+Modifie le titre du signet selon le titre du signet spécifié.
 
 ```csharp
 public void ModifyBookmarks(string sTitle, string dTitle)
@@ -30,6 +30,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfBookmarkEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

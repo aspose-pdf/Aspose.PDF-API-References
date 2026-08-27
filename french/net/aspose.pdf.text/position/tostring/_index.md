@@ -1,12 +1,12 @@
 ---
-title: Position.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Position. Obtient la représentation sous forme de chaîne de l'objet Position actuel
+title: "Position.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Position. Obtient la représentation sous forme de chaîne de l'objet Position actuel"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.text/position/tostring/
 ---
-## Méthode Position.ToString
+## Position.ToString method
 
 Obtient la représentation sous forme de chaîne de l'objet [`Position`](../) actuel.
 
@@ -20,6 +20,8 @@ Représentation sous forme de chaîne de l'objet Position.
 
 ### Voir aussi
 
-* classe [Position](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

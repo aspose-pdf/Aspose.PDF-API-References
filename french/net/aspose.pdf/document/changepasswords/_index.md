@@ -1,14 +1,14 @@
 ---
-title: Document.ChangePasswords
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode de document. Change les mots de passe des documents. Cette action ne peut être effectuée qu'en utilisant le mot de passe du propriétaire
+title: "Document.ChangePasswords"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Document method. Modifie les mots de passe du document. Cette action ne peut être effectuée qu’avec le mot de passe du propriétaire."
 type: docs
-weight: 560
+weight: 580
 url: /fr/net/aspose.pdf/document/changepasswords/
 ---
-## Méthode Document.ChangePasswords
+## Document.ChangePasswords method
 
-Change les mots de passe des documents. Cette action ne peut être effectuée qu'en utilisant le mot de passe du propriétaire.
+Modifie les mots de passe du document. Cette action ne peut être effectuée qu'avec le mot de passe du propriétaire.
 
 ```csharp
 public void ChangePasswords(string ownerPassword, string newUserPassword, string newOwnerPassword)
@@ -22,6 +22,8 @@ public void ChangePasswords(string ownerPassword, string newUserPassword, string
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

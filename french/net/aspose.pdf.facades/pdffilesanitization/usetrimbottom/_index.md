@@ -1,14 +1,14 @@
 ---
-title: PdfFileSanitization.UseTrimBottom
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileSanitization. Permet de supprimer des données après les données pdf
+title: "PdfFileSanitization.UseTrimBottom"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileSanitization propriété. Permet de supprimer les données après les données PDF"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.facades/pdffilesanitization/usetrimbottom/
 ---
-## Propriété PdfFileSanitization.UseTrimBottom
+## PdfFileSanitization.UseTrimBottom property
 
-Permet de supprimer des données après les données pdf
+Permet de supprimer les données après les données pdf
 
 ```csharp
 public bool UseTrimBottom { get; set; }
@@ -16,6 +16,8 @@ public bool UseTrimBottom { get; set; }
 
 ### Voir aussi
 
-* classe [PdfFileSanitization](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

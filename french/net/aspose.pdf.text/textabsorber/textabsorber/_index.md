@@ -1,7 +1,7 @@
 ---
-title: TextAbsorber.TextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TextAbsorber. Initialise une nouvelle instance de TextAbsorber
+title: "TextAbsorber.TextAbsorber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TextAbsorber. Initialise une nouvelle instance de TextAbsorber"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/textabsorber/textabsorber/
@@ -16,31 +16,31 @@ public TextAbsorber()
 
 ## Remarques
 
-Effectue l'extraction de texte et fournit un accès au texte extrait via l'objet [`Text`](../text/).
+Effectue l'extraction de texte et fournit l'accès au texte extrait via l'objet [`Text`](../text/).
 
 ## Exemples
 
-L'exemple démontre comment extraire du texte de toutes les pages du document PDF.
+L'exemple montre comment extraire du texte de toutes les pages du document PDF.
 
 ```csharp
-// open document
+// ouvrir le document
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// créer un objet TextAbsorber pour extraire du texte
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// accepter l'absorbeur pour toutes les pages du document
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// obtenir le texte extrait
 string extractedText = absorber.Text;
 
 ```
 
 ### Voir aussi
 
-* classe [TextAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -59,32 +59,32 @@ public TextAbsorber(TextExtractionOptions extractionOptions)
 
 ## Remarques
 
-Effectue l'extraction de texte et fournit un accès au texte extrait via l'objet [`Text`](../text/).
+Effectue l'extraction de texte et fournit l'accès au texte extrait via l'objet [`Text`](../text/).
 
 ## Exemples
 
-L'exemple démontre comment extraire du texte de toutes les pages du document PDF.
+L'exemple montre comment extraire du texte de toutes les pages du document PDF.
 
 ```csharp
-// open document
+// ouvrir le document
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text with formatting
+// créez un objet TextAbsorber pour extraire du texte avec formatage
 TextAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
 
-// accept the absorber for all document's pages
+// accepter l'absorbeur pour toutes les pages du document
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// obtenir le texte extrait
 string extractedText = absorber.Text;
 
 ```
 
 ### Voir aussi
 
-* classe [TextExtractionOptions](../../textextractionoptions/)
-* classe [TextAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -104,14 +104,14 @@ public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions t
 
 ## Remarques
 
-Effectue l'extraction de texte et fournit un accès au texte extrait via l'objet [`Text`](../text/).
+Effectue l'extraction de texte et fournit l'accès au texte extrait via l'objet [`Text`](../text/).
 
 ### Voir aussi
 
-* classe [TextExtractionOptions](../../textextractionoptions/)
-* classe [TextSearchOptions](../../textsearchoptions/)
-* classe [TextAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -130,11 +130,13 @@ public TextAbsorber(TextSearchOptions textSearchOptions)
 
 ## Remarques
 
-Effectue l'extraction de texte et fournit un accès au texte extrait via l'objet [`Text`](../text/).
+Effectue l'extraction de texte et fournit l'accès au texte extrait via l'objet [`Text`](../text/).
 
 ### Voir aussi
 
-* classe [TextSearchOptions](../../textsearchoptions/)
-* classe [TextAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

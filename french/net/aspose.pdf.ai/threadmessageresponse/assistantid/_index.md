@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageResponse.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ThreadMessageResponse. Obtient ou définit, le cas échéant, l'ID de l'assistant qui a rédigé ce message
+title: "ThreadMessageResponse.AssistantId"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ThreadMessageResponse. Obtient ou définit, le cas échéant, l'ID de l'assistant qui a rédigé ce message"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/threadmessageresponse/assistantid/
 ---
-## Propriété ThreadMessageResponse.AssistantId
+## ThreadMessageResponse.AssistantId property
 
 Obtient ou définit, le cas échéant, l'ID de l'assistant qui a rédigé ce message.
 
@@ -16,6 +16,8 @@ public string AssistantId { get; set; }
 
 ### Voir aussi
 
-* classe [ThreadMessageResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

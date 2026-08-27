@@ -1,14 +1,14 @@
 ---
-title: Rows.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Rows. Supprimer une ligne de la collection
+title: "Rows.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Rows. Supprime la ligne de la collection"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/rows/remove/
 ---
-## Méthode Rows.Remove
+## Rows.Remove method
 
-Supprimer une ligne de la collection.
+Supprime la ligne de la collection.
 
 ```csharp
 public void Remove(Row row)
@@ -20,7 +20,9 @@ public void Remove(Row row)
 
 ### Voir aussi
 
-* classe [Row](../../row/)
-* classe [Rows](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

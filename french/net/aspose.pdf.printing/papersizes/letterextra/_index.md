@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterExtra
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier lettre extra 9,275 po. par 12 po
+title: "PaperSizes.LetterExtra"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. papier Letter extra 9.275 po. sur 12 po"
 type: docs
 weight: 660
 url: /fr/net/aspose.pdf.printing/papersizes/letterextra/
 ---
-## Champ PaperSizes.LetterExtra
+## PaperSizes.LetterExtra field
 
-Papier lettre extra (9,275 po. par 12 po.).
+Papier supplémentaire lettre (9,275 po. par 12 po.).
 
 ```csharp
 public static readonly PaperSize LetterExtra;
@@ -16,11 +16,13 @@ public static readonly PaperSize LetterExtra;
 
 ## Remarques
 
-Cette valeur est spécifique au pilote PostScript et est utilisée uniquement par les imprimantes Linotronic afin de conserver du papier.
+Cette valeur est spécifique au pilote PostScript et n'est utilisée que par les imprimantes Linotronic afin d'économiser du papier.
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

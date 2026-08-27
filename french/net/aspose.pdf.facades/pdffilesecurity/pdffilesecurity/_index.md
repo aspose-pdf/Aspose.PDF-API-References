@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.PdfFileSecurity
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PdfFileSecurity. Initialiser l'objet de PdfFileSecurity
+title: "PdfFileSecurity.PdfFileSecurity"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PdfFileSecurity. Initialise l'objet PdfFileSecurity."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/pdffilesecurity/pdffilesecurity/
 ---
 ## PdfFileSecurity() {#constructor}
 
-Initialiser l'objet de PdfFileSecurity.
+Initialise l'objet PdfFileSecurity.
 
 ```csharp
 public PdfFileSecurity()
@@ -16,15 +16,15 @@ public PdfFileSecurity()
 
 ### Voir aussi
 
-* classe [PdfFileSecurity](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfFileSecurity(Document) {#constructor_1}
 
-Initialise un nouvel objet [`PdfFileSecurity`](../) sur la base du *document*.
+Initialise un nouvel objet [`PdfFileSecurity`](../) basé sur le *document*.
 
 ```csharp
 public PdfFileSecurity(Document document)
@@ -36,7 +36,9 @@ public PdfFileSecurity(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfFileSecurity](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragment.WrapLinesCount
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragment. Obtient ou définit le nombre de lignes à envelopper pour ce paragraphe
+title: "TextFragment.WrapLinesCount"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragment. Obtient ou définit le nombre de lignes d'enroulement pour ce paragraphe. uniquement pour la génération de PDF"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf.text/textfragment/wraplinescount/
 ---
-## Propriété TextFragment.WrapLinesCount
+## TextFragment.WrapLinesCount property
 
-Obtient ou définit le nombre de lignes à envelopper pour ce paragraphe (uniquement pour la génération de PDF)
+Obtient ou définit le nombre de lignes d'enroulement pour ce paragraphe (pour la génération de PDF uniquement).
 
 ```csharp
 public int WrapLinesCount { get; set; }
@@ -16,6 +16,8 @@ public int WrapLinesCount { get; set; }
 
 ### Voir aussi
 
-* classe [TextFragment](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

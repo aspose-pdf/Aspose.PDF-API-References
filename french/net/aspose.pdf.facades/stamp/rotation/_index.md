@@ -1,12 +1,12 @@
 ---
-title: Stamp.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Stamp. Obtient ou définit la rotation du tampon en degrés
+title: "Stamp.Rotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Stamp. Obtient ou définit la rotation du tampon en degrés."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.facades/stamp/rotation/
 ---
-## Propriété Stamp.Rotation
+## Stamp.Rotation property
 
 Obtient ou définit la rotation du tampon en degrés.
 
@@ -27,6 +27,8 @@ fileStamp.Close();
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

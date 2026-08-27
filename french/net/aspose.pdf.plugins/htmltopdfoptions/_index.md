@@ -1,14 +1,14 @@
 ---
-title: Class HtmlToPdfOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.HtmlToPdfOptions. Représente les options de convertisseur HTML en PDF pour le plugin Html
+title: "Classe HtmlToPdfOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.HtmlToPdfOptions. Représente les options du convertisseur HTML vers PDF pour le plugin Html"
 type: docs
-weight: 8830
+weight: 8960
 url: /fr/net/aspose.pdf.plugins/htmltopdfoptions/
 ---
-## Classe HtmlToPdfOptions
+## HtmlToPdfOptions class
 
-Représente les options de convertisseur HTML en PDF pour le plugin [`Html`](../html/).
+Représente les options du convertisseur HTML vers PDF pour le plugin [`Html`](../html/).
 
 ```csharp
 public sealed class HtmlToPdfOptions : PdfConverterOptions
@@ -24,7 +24,7 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 | Nom | Description |
 | --- | --- |
-| [BasePath](../../aspose.pdf.plugins/htmltopdfoptions/basepath/) { get; set; } | Le chemin/url de base pour le fichier html. |
+| [BasePath](../../aspose.pdf.plugins/htmltopdfoptions/basepath/) { get; set; } | Le chemin de base/URL du fichier html. |
 | [HtmlMediaType](../../aspose.pdf.plugins/htmltopdfoptions/htmlmediatype/) { get; set; } | Obtient ou définit les types de médias possibles utilisés lors du rendu. |
 | [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | Renvoie la collection de données du plugin PdfConverterOptions. |
 | [IsRenderToSinglePage](../../aspose.pdf.plugins/htmltopdfoptions/isrendertosinglepage/) { get; set; } | Obtient ou définit le rendu de tout le document sur une seule page. |
@@ -42,6 +42,8 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 ### Voir aussi
 
-* classe [PdfConverterOptions](../pdfconverteroptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfConverterOptions](../pdfconverteroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FloatingBox. Obtient ou définit la coordonnée supérieure de la table
+title: "FloatingBox.Top"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FloatingBox. Obtient ou définit la coordonnée supérieure du tableau"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf/floatingbox/top/
 ---
-## Propriété FloatingBox.Top
+## FloatingBox.Top property
 
-Obtient ou définit la coordonnée supérieure de la table.
+Obtient ou définit la coordonnée supérieure du tableau.
 
 ```csharp
 public double Top { get; set; }
@@ -16,6 +16,8 @@ public double Top { get; set; }
 
 ### Voir aussi
 
-* classe [FloatingBox](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

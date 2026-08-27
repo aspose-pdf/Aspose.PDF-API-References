@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateLocalLink
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Crée un lien local dans le document PDF
+title: "PdfContentEditor.CreateLocalLink"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Crée un lien local dans le document PDF"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/createlocallink/
@@ -19,7 +19,7 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle pour le clic actif. |
 | desPage | Int32 | La page de destination. |
-| originalPage | Int32 | Le numéro de la page originale où le rectangle lié au lien local sera créé. |
+| originalPage | Int32 | Le numéro de la page d'origine où le rectangle lié au lien local sera créé. |
 | clr | Color | La couleur du rectangle pour le clic actif. |
 | actionName | Enum[] | Le tableau d'actions (membres de l'énumération PredefinedAction) correspondant à l'exécution des éléments de menu dans le visualiseur Acrobat. |
 
@@ -36,8 +36,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -54,7 +54,7 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle pour le clic actif. |
 | desPage | Int32 | La page de destination. |
-| originalPage | Int32 | Le numéro de la page originale où le rectangle lié au lien local sera créé. |
+| originalPage | Int32 | Le numéro de la page d'origine où le rectangle lié au lien local sera créé. |
 | clr | Color | La couleur du rectangle pour le clic actif. |
 
 ## Exemples
@@ -69,8 +69,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -87,7 +87,7 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage)
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle pour le clic actif. |
 | desPage | Int32 | La page de destination. |
-| originalPage | Int32 | Le numéro de la page originale où le rectangle lié au lien local sera créé. |
+| originalPage | Int32 | Le numéro de la page d'origine où le rectangle lié au lien local sera créé. |
 
 ## Exemples
 
@@ -100,6 +100,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

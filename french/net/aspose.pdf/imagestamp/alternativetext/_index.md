@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.AlternativeText
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImageStamp. Obtient ou définit le texte alternatif pour le tampon d'image
+title: "ImageStamp.AlternativeText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ImageStamp. Obtient ou définit le texte alternatif pour le tampon d'image"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/imagestamp/alternativetext/
 ---
-## Propriété ImageStamp.AlternativeText
+## ImageStamp.AlternativeText property
 
-Obtient ou définit le texte alternatif pour le tampon d'image.
+Obtient ou définit le texte alternatif pour le tampon d’image.
 
 ```csharp
 public string AlternativeText { get; set; }
@@ -16,6 +16,8 @@ public string AlternativeText { get; set; }
 
 ### Voir aussi
 
-* classe [ImageStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

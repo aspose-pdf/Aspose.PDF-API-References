@@ -1,9 +1,9 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAISummaryCopilotOptions. Ajoute un document texte à la collection de documents pour les options du copilote de résumé
+title: "OpenAISummaryCopilotOptions.WithDocument"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAISummaryCopilotOptions. Ajoute un document texte à la collection de documents pour les options du copilote de résumé"
 type: docs
-weight: 60
+weight: 70
 url: /fr/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
@@ -20,13 +20,13 @@ public OpenAISummaryCopilotOptions WithDocument(TextDocument textDocument)
 
 ### Valeur de retour
 
-L'instance actuelle de [`OpenAISummaryCopilotOptions`](../).
+L’instance actuelle de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [TextDocument](../../textdocument/)
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TextDocument](../../textdocument/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,17 +41,17 @@ public OpenAISummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pdfDocument | PdfDocument | Le document PDF à ajouter. |
+| pdfDocument | PdfDocument | Le Document PDF à ajouter. |
 
 ### Valeur de retour
 
-L'instance actuelle de [`OpenAISummaryCopilotOptions`](../).
+L’instance actuelle de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [PdfDocument](../../pdfdocument/)
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -66,14 +66,16 @@ public OpenAISummaryCopilotOptions WithDocument(string filePath)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| filePath | String | Le chemin du fichier du document à ajouter. |
+| filePath | String | Le chemin du fichier du Document à ajouter. |
 
 ### Valeur de retour
 
-L'instance actuelle de [`OpenAISummaryCopilotOptions`](../).
+L’instance actuelle de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

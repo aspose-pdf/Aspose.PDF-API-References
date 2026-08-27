@@ -1,12 +1,12 @@
 ---
-title: Cells.Cells
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de Cells. Le constructeur par défaut
+title: "Cells.Cells"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Cells. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/cells/cells/
 ---
-## Constructeur de Cells
+## Cells constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Cells()
 
 ### Voir aussi
 
-* classe [Cells](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

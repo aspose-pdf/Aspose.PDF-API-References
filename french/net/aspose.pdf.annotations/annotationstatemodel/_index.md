@@ -1,12 +1,12 @@
 ---
-title: Enum AnnotationStateModel
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.AnnotationStateModel. Le modèle d'état correspondant à l'état de l'annotation
+title: "Énumération AnnotationStateModel"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.AnnotationStateModel enum. Le modèle d'état correspondant à l'état de l'annotation."
 type: docs
-weight: 1470
+weight: 1560
 url: /fr/net/aspose.pdf.annotations/annotationstatemodel/
 ---
-## Énumération AnnotationStateModel
+## AnnotationStateModel enumeration
 
 Le modèle d'état correspondant à l'état de l'annotation.
 
@@ -19,10 +19,12 @@ public enum AnnotationStateModel
 | Nom | Valeur | Description |
 | --- | --- | --- |
 | Undefined | `0` | Modèle d'état non défini. |
-| Marked | `1` | L'annotation a été marquée (ou démarrquée) par l'utilisateur. |
-| Review | `2` | L'annotation a été examinée (acceptée, rejetée, annulée, complétée, aucune) par l'utilisateur. |
+| Marked | `1` | L'annotation a été marquée (ou démarquée) par l'utilisateur. |
+| Review | `2` | L'annotation a été examinée (acceptée, rejetée, annulée, terminée, aucune) par l'utilisateur. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

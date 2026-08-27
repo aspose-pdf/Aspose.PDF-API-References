@@ -1,13 +1,17 @@
 ---
-title: Aspose.Pdf.PdfToMarkdown
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.PdfToMarkdown"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: 
 type: docs
 weight: 180
-url: /net/aspose.pdf.pdftomarkdown/
+url: /fr/net/aspose.pdf.pdftomarkdown/
 ---
+
+
 ## Classes
 
 | Classe | Description |
 | --- | --- |
-| [HeadingLevels](./headinglevels/) | Représente une classe pour travailler avec les niveaux de titre en fonction de la taille de la police. |
+| [HeadingLevels](./headinglevels/) | Représente une classe permettant de travailler avec les niveaux d'en-tête basés sur la taille de la police. |
+
+

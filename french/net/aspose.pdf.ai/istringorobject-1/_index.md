@@ -1,14 +1,14 @@
 ---
-title: Interface IStringOrObjectT
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.AI.IStringOrObject1T. Représente un objet qui peut être soit une valeur de chaîne, soit une valeur d'objet
+title: "Interface IStringOrObjectT"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.AI.IStringOrObject1T. Représente un objet pouvant être soit une valeur chaîne, soit une valeur objet."
 type: docs
-weight: 570
+weight: 620
 url: /fr/net/aspose.pdf.ai/istringorobject-1/
 ---
-## Interface IStringOrObject&lt;T&gt;
+## IStringOrObject&lt;T&gt; interface
 
-Représente un objet qui peut être soit une valeur de chaîne, soit une valeur d'objet.
+Représente un objet pouvant être soit une valeur chaîne, soit une valeur objet.
 
 ```csharp
 public interface IStringOrObject<T>
@@ -17,18 +17,20 @@ public interface IStringOrObject<T>
 
 | Paramètre | Description |
 | --- | --- |
-| T | Le type de la valeur d'objet. |
+| T | Le type de la valeur objet. |
 
 ## Propriétés
 
 | Nom | Description |
 | --- | --- |
-| [IsObjectValue](../../aspose.pdf.ai/istringorobject-1/isobjectvalue/) { get; } | Obtient une valeur indiquant si le format de réponse est une valeur d'objet. |
-| [IsStringValue](../../aspose.pdf.ai/istringorobject-1/isstringvalue/) { get; } | Obtient une valeur indiquant si le format de réponse est une valeur de chaîne. |
-| [ObjectValue](../../aspose.pdf.ai/istringorobject-1/objectvalue/) { get; set; } | Obtient ou définit la valeur d'objet. |
-| [StringValue](../../aspose.pdf.ai/istringorobject-1/stringvalue/) { get; set; } | Obtient ou définit la valeur de chaîne. |
+| [IsObjectValue](../../aspose.pdf.ai/istringorobject-1/isobjectvalue/) { get; } | Obtient une valeur indiquant si le format de réponse est une valeur objet. |
+| [IsStringValue](../../aspose.pdf.ai/istringorobject-1/isstringvalue/) { get; } | Obtient une valeur indiquant si le format de réponse est une valeur chaîne. |
+| [ObjectValue](../../aspose.pdf.ai/istringorobject-1/objectvalue/) { get; set; } | Obtient ou définit la valeur de l'objet. |
+| [StringValue](../../aspose.pdf.ai/istringorobject-1/stringvalue/) { get; set; } | Obtient ou définit la valeur chaîne. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

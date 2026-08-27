@@ -1,12 +1,12 @@
 ---
-title: XmpField.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpField. Obtient la valeur sous forme de tableau
+title: "XmpField.ToArray"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpField. Obtient la valeur sous forme de tableau"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf/xmpfield/toarray/
 ---
-## Méthode XmpField.ToArray
+## XmpField.ToArray method
 
 Obtient la valeur sous forme de tableau.
 
@@ -20,7 +20,9 @@ Le tableau.
 
 ### Voir aussi
 
-* classe [XmpValue](../../xmpvalue/)
-* classe [XmpField](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../../xmpvalue/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

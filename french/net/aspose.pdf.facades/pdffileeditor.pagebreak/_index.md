@@ -1,14 +1,14 @@
 ---
-title: Class PdfFileEditor.PageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.PdfFileEditorPageBreak. Données de la position de saut de page
+title: "Classe PdfFileEditor.PageBreak"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Facades.PdfFileEditorPageBreak. Données de la position du saut de page"
 type: docs
-weight: 4510
+weight: 4630
 url: /fr/net/aspose.pdf.facades/pdffileeditor.pagebreak/
 ---
-## Classe PdfFileEditor.PageBreak
+## PdfFileEditor.PageBreak class
 
-Données de la position de saut de page.
+Données de la position du saut de page.
 
 ```csharp
 public class PageBreak
@@ -18,7 +18,7 @@ public class PageBreak
 
 | Nom | Description |
 | --- | --- |
-| [PageBreak](../../aspose.pdf.facades/pdffileeditor.pagebreak/.ctor)(int, double) | Constructeur pour créer un objet PageBreak. |
+| [PageBreak](../../aspose.pdf.facades/pdffileeditor.pagebreak/.ctor)(int, double) | Constructeur pour créer l'objet PageBreak. |
 
 ## Propriétés
 
@@ -29,6 +29,8 @@ public class PageBreak
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../pdffileeditor/)
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* class [PdfFileEditor](../pdffileeditor/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

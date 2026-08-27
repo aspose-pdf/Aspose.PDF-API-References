@@ -1,14 +1,14 @@
 ---
-title: Artifact.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Artifact. Définit le texte de l'artéfact
+title: "Artifact.SetText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Artifact. Définit le texte de l'artifact."
 type: docs
 weight: 320
 url: /fr/net/aspose.pdf/artifact/settext/
 ---
-## Méthode Artifact.SetText
+## Artifact.SetText method
 
-Définit le texte de l'artéfact.
+Définit le texte de l'artefact.
 
 ```csharp
 public void SetText(FormattedText formattedText)
@@ -16,11 +16,13 @@ public void SetText(FormattedText formattedText)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| formattedText | FormattedText | Objet FormattedText qui contient le texte de l'artéfact. |
+| formattedText | FormattedText | Objet FormattedText qui contient le texte de l'artifact. |
 
 ### Voir aussi
 
-* classe [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* classe [Artifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,11 +1,13 @@
 ---
-title: Aspose.Pdf.Comparison
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.Comparison"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: 
 type: docs
 weight: 60
-url: /net/aspose.pdf.comparison/
+url: /fr/net/aspose.pdf.comparison/
 ---
+
+
 ## Classes
 
 | Classe | Description |
@@ -13,13 +15,13 @@ url: /net/aspose.pdf.comparison/
 | [ComparisonOptions](./comparisonoptions/) | Représente une classe d'options de comparaison de documents PDF. |
 | [DiffOperation](./diffoperation/) | Représente une classe d'opération de différence. |
 | [DocumentComparisonStatistics](./documentcomparisonstatistics/) | Représente une classe de statistiques de comparaison de documents. |
-| [GraphicalPdfComparer](./graphicalpdfcomparer/) | Représente une classe pour comparer graphiquement des documents PDF. Doit être utilisé pour rechercher de petits changements, principalement de nature graphique. Pour comparer les changements de contenu textuel, utilisez d'autres classes de comparaison de PDF. |
-| [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/) | Représente une classe pour générer une représentation html des différences de textes. Les sauts de ligne supprimés sont indiqués par un marqueur de paragraphe. |
+| [GraphicalPdfComparer](./graphicalpdfcomparer/) | Représente une classe permettant de comparer graphiquement des documents PDF. Elle doit être utilisée pour rechercher de petites modifications, principalement de nature graphique. Pour comparer les changements de contenu texte, utilisez d'autres classes de comparaison PDF. |
+| [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/) | Représente une classe générant une représentation HTML des différences de texte. Les sauts de ligne supprimés sont indiqués par le symbole de paragraphe. |
 | [ImagesDifference](./imagesdifference/) | Représente la classe de résultat de la comparaison de deux pages PDF. |
-| [JsonDiffOutputGenerator](./jsondiffoutputgenerator/) | Représente une classe pour afficher les résultats de la comparaison de documents ou de pages PDF au format JSON. |
-| [MarkdownDiffOutputGenerator](./markdowndiffoutputgenerator/) | Représente une classe pour générer une représentation markdown des différences de textes. En raison de la syntaxe markdown, il n'est pas possible de montrer les changements des caractères d'espacement. La sélection des changements rend l'ajout de caractères d'espacement autour du formatage nécessaire, sinon le visualiseur markdown n'affichera pas correctement le texte. Les sauts de ligne supprimés sont indiqués par - marqueur de paragraphe. |
-| [OutputTextStyle](./outputtextstyle/) | Représente une classe de jeu de styles pour marquer les changements de texte. |
-| [PdfOutputGenerator](./pdfoutputgenerator/) | Représente une classe pour générer une représentation PDF des différences de textes. |
+| [JsonDiffOutputGenerator](./jsondiffoutputgenerator/) | Représente une classe affichant les résultats de la comparaison de documents ou de pages PDF au format JSON. |
+| [MarkdownDiffOutputGenerator](./markdowndiffoutputgenerator/) | Représente une classe générant une représentation markdown des différences de texte. En raison de la syntaxe markdown, il n'est pas possible d'afficher les modifications des caractères d'espacement. La sélection des modifications entraîne l'ajout de caractères d'espacement autour du formatage, sinon le visualiseur markdown n'affichera pas correctement le texte. Les sauts de ligne supprimés sont indiqués par le symbole de paragraphe -. |
+| [OutputTextStyle](./outputtextstyle/) | Représente une classe d'ensemble de styles pour marquer les modifications de texte. |
+| [PdfOutputGenerator](./pdfoutputgenerator/) | Représente une classe générant une représentation PDF des différences de texte. |
 | [SideBySideComparisonOptions](./sidebysidecomparisonoptions/) | Représente une classe d'options pour comparer des documents avec une sortie côte à côte. |
 | [SideBySidePdfComparer](./sidebysidepdfcomparer/) |  |
 | [TextItemComparisonStatistics](./textitemcomparisonstatistics/) | Représente une classe de statistiques de comparaison de texte. |
@@ -29,12 +31,14 @@ url: /net/aspose.pdf.comparison/
 
 | Interface | Description |
 | --- | --- |
-| [IFileOutputGenerator](./ifileoutputgenerator/) | Représente une interface pour générer une sortie vers un fichier des différences entre les textes. |
-| [IStringOutputGenerator](./istringoutputgenerator/) | Représente une interface pour générer une sortie vers une chaîne des différences entre les textes. |
+| [IFileOutputGenerator](./ifileoutputgenerator/) | Représente une interface permettant de générer la sortie vers un fichier contenant les différences entre les textes. |
+| [IStringOutputGenerator](./istringoutputgenerator/) | Représente une interface permettant de générer la sortie vers une chaîne contenant les différences entre les textes. |
 ## Énumération
 
 | Énumération | Description |
 | --- | --- |
-| [ComparisonMode](./comparisonmode/) | L'énumération du mode de comparaison. |
+| [ComparisonMode](./comparisonmode/) | L'énumération des modes de comparaison. |
 | [EditOperationsOrder](./editoperationsorder/) | Spécifie l'ordre des opérations d'édition. |
 | [Operation](./operation/) | Représente un type d'opération de différence. |
+
+

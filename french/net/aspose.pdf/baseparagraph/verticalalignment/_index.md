@@ -1,12 +1,12 @@
 ---
-title: BaseParagraph.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété BaseParagraph. Obtient ou définit un alignement vertical du paragraphe
+title: "BaseParagraph.VerticalAlignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété BaseParagraph. Obtient ou définit un alignement vertical du paragraphe"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/baseparagraph/verticalalignment/
 ---
-## Propriété BaseParagraph.VerticalAlignment
+## BaseParagraph.VerticalAlignment property
 
 Obtient ou définit un alignement vertical du paragraphe
 
@@ -20,3 +20,5 @@ public virtual VerticalAlignment VerticalAlignment { get; set; }
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

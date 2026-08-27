@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.NumberOfChoices
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CompletionCreateRequest. Obtient ou définit combien de choix de complétion de chat générer pour chaque message d'entrée. Notez que vous serez facturé en fonction du nombre de jetons générés dans tous les choix. Gardez n à 1 pour minimiser les coûts.
+title: "CompletionCreateRequest.NumberOfChoices"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CompletionCreateRequest. Obtient ou définit le nombre de choix de complétion de chat à générer pour chaque message d'entrée. Notez que vous serez facturé en fonction du nombre de tokens générés sur l'ensemble des choix. Gardez n à 1 pour minimiser les coûts."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.ai/completioncreaterequest/numberofchoices/
 ---
-## Propriété CompletionCreateRequest.NumberOfChoices
+## CompletionCreateRequest.NumberOfChoices property
 
-Obtient ou définit combien de choix de complétion de chat générer pour chaque message d'entrée. Notez que vous serez facturé en fonction du nombre de jetons générés dans tous les choix. Gardez n à 1 pour minimiser les coûts.
+Obtient ou définit le nombre de choix de complétion de chat à générer pour chaque message d'entrée. Notez que vous serez facturé en fonction du nombre de jetons générés pour l'ensemble des choix. Gardez n à 1 pour minimiser les coûts.
 
 ```csharp
 public int? NumberOfChoices { get; set; }
@@ -16,6 +16,8 @@ public int? NumberOfChoices { get; set; }
 
 ### Voir aussi
 
-* classe [CompletionCreateRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

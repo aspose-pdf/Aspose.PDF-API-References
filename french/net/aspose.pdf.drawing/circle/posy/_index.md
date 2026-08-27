@@ -1,14 +1,14 @@
 ---
-title: Circle.PosY
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Circle. Obtient ou définit une valeur flottante qui indique la coordonnée y du centre du cercle
+title: "Circle.PosY"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Circle. Obtient ou définit une valeur flottante qui indique la coordonnée y du centre du cercle"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.drawing/circle/posy/
 ---
-## Propriété Circle.PosY
+## Circle.PosY property
 
-Obtient ou définit une valeur flottante qui indique la coordonnée y du centre du cercle.
+Obtient ou définit une valeur float qui indique la coordonnée y du centre du cercle.
 
 ```csharp
 public double PosY { get; set; }
@@ -16,6 +16,8 @@ public double PosY { get; set; }
 
 ### Voir aussi
 
-* classe [Circle](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Circle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

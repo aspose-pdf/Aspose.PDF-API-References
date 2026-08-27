@@ -1,14 +1,14 @@
 ---
-title: SetTextLeading.SetTextLeading
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur SetTextLeading. Initialise l'opérateur de leading de texte
+title: "SetTextLeading.SetTextLeading"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SetTextLeading. Initialise l'opérateur d'interligne du texte"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/settextleading/settextleading/
 ---
-## Constructeur SetTextLeading
+## SetTextLeading constructor
 
-Initialise l'opérateur de leading de texte.
+Initialise l'opérateur d'interligne du texte.
 
 ```csharp
 public SetTextLeading(double leading)
@@ -16,10 +16,12 @@ public SetTextLeading(double leading)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| leading | Double | Leading de texte. |
+| interligne | Double | Interligne du texte. |
 
 ### Voir aussi
 
-* classe [SetTextLeading](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetTextLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

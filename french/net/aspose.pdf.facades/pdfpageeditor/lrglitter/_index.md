@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.LRGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfPageEditor. Paillettes Gauche-Droite
+title: "PdfPageEditor.LRGLITTER"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfPageEditor. LeftRight Glitter"
 type: docs
 weight: 250
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/lrglitter/
 ---
-## Champ PdfPageEditor.LRGLITTER
+## PdfPageEditor.LRGLITTER field
 
-Paillettes Gauche-Droite
+Scintillement gauche-droite
 
 ```csharp
 public const int LRGLITTER;
@@ -16,6 +16,8 @@ public const int LRGLITTER;
 
 ### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

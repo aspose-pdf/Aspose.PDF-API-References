@@ -1,14 +1,14 @@
 ---
-title: Position.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de Position. Initialise une nouvelle instance de la classe Position
+title: "Position.Position"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Position. Initialise une nouvelle instance de la classe Position."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/position/position/
 ---
-## Constructeur de Position
+## Position constructor
 
-Initialise une nouvelle instance de la classe [`Position`](../)
+Initialise une nouvelle instance de la classe [`Position`](../).
 
 ```csharp
 public Position(double xIndent, double yIndent)
@@ -21,6 +21,8 @@ public Position(double xIndent, double yIndent)
 
 ### Voir aussi
 
-* classe [Position](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

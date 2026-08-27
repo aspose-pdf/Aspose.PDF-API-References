@@ -1,12 +1,12 @@
 ---
-title: TextState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextState. Mesure la chaîne
+title: "TextState.MeasureString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextState. Mesure la chaîne"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf.text/textstate/measurestring/
 ---
-## Méthode TextState.MeasureString
+## TextState.MeasureString method
 
 Mesure la chaîne.
 
@@ -24,6 +24,8 @@ Largeur de la chaîne représentée avec cet état de texte.
 
 ### Voir aussi
 
-* classe [TextState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

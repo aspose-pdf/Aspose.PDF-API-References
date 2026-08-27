@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.DeleteVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IOpenAIClient. Supprime un fichier dans un magasin de vecteurs de manière asynchrone
+title: "IOpenAIClient.DeleteVectorStoreFileAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IOpenAIClient. Supprime un fichier dans un magasin de vecteurs de façon asynchrone"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.ai/iopenaiclient/deletevectorstorefileasync/
 ---
-## Méthode IOpenAIClient.DeleteVectorStoreFileAsync
+## IOpenAIClient.DeleteVectorStoreFileAsync method
 
-Supprime un fichier dans un magasin de vecteurs de manière asynchrone.
+Supprime un fichier dans un magasin de vecteurs de façon asynchrone.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteVectorStoreFileAsync(string vectorStoreId, string fileId, 
@@ -17,7 +17,7 @@ public Task<DeleteStatusResponse> DeleteVectorStoreFileAsync(string vectorStoreI
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | String | L'ID du magasin de vecteurs contenant le fichier à supprimer. |
+| vectorStoreId | String | L'ID du vector store contenant le fichier à supprimer. |
 | fileId | String | L'ID du fichier à supprimer. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
@@ -29,12 +29,14 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du magasin de vecteurs est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du magasin de vecteurs est nul ou vide. |
 | [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du fichier est nul ou vide. |
 
 ### Voir aussi
 
-* classe [DeleteStatusResponse](../../deletestatusresponse/)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
 * interface [IOpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

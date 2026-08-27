@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.MultiSelect
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ChoiceField. Obtient ou définit le drapeau de multisélection
+title: "ChoiceField.MultiSelect"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ChoiceField. Obtient ou définit le drapeau de sélection multiple"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.forms/choicefield/multiselect/
 ---
-## Propriété ChoiceField.MultiSelect
+## ChoiceField.MultiSelect property
 
-Obtient ou définit le drapeau de multisélection.
+Obtient ou définit le drapeau de sélection multiple.
 
 ```csharp
 public bool MultiSelect { get; set; }
@@ -16,6 +16,8 @@ public bool MultiSelect { get; set; }
 
 ### Voir aussi
 
-* classe [ChoiceField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

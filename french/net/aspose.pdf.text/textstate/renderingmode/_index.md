@@ -1,12 +1,12 @@
 ---
-title: TextState.RenderingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextState. Obtient ou définit le mode de rendu du texte
+title: "TextState.RenderingMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextState. Obtient ou définit le mode de rendu du texte"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.text/textstate/renderingmode/
 ---
-## Propriété TextState.RenderingMode
+## TextState.RenderingMode property
 
 Obtient ou définit le mode de rendu du texte.
 
@@ -20,3 +20,5 @@ public virtual TextRenderingMode RenderingMode { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

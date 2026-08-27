@@ -1,12 +1,12 @@
 ---
-title: Layer.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Layer. Supprime la couche actuelle du document PDF
+title: "Layer.Delete"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Layer. Supprime le calque actuel du document PDF"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/layer/delete/
 ---
-## Méthode Layer.Delete
+## Layer.Delete method
 
 Supprime la couche actuelle du document PDF.
 
@@ -16,6 +16,8 @@ public void Delete()
 
 ### Voir aussi
 
-* classe [Layer](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

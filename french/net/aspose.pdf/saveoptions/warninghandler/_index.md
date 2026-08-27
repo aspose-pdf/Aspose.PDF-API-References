@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.WarningHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SaveOptions. Callback pour gérer les avertissements générés. Le WarningHandler retourne un élément de l'énumération ReturnAction spécifiant soit Continuer soit Abandonner. Continuer est l'action par défaut et l'opération de sauvegarde continue, cependant l'utilisateur peut également retourner Abandonner dans ce cas l'opération de sauvegarde doit cesser.
+title: "SaveOptions.WarningHandler"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "SaveOptions propriété. Fonction de rappel pour gérer les avertissements générés. Le WarningHandler renvoie l'élément d'énumération ReturnAction spécifiant soit Continue, soit Abort. Continue est l'action par défaut et l'opération Save continue, cependant l'utilisateur peut également renvoyer Abort auquel cas l'opération Save doit s'arrêter"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/saveoptions/warninghandler/
 ---
-## Propriété SaveOptions.WarningHandler
+## SaveOptions.WarningHandler property
 
-Callback pour gérer les avertissements générés. Le WarningHandler retourne un élément de l'énumération ReturnAction spécifiant soit Continuer soit Abandonner. Continuer est l'action par défaut et l'opération de sauvegarde continue, cependant l'utilisateur peut également retourner Abandonner dans ce cas l'opération de sauvegarde doit cesser.
+Rappel pour gérer les avertissements générés. Le WarningHandler renvoie l’élément d’énumération ReturnAction spécifiant soit Continue, soit Abort. Continue est l’action par défaut et l’opération Save se poursuit, cependant l’utilisateur peut également renvoyer Abort auquel cas l’opération Save doit s’arrêter.
 
 ```csharp
 public IWarningCallback WarningHandler { get; set; }
@@ -20,3 +20,5 @@ public IWarningCallback WarningHandler { get; set; }
 * class [SaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

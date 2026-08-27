@@ -1,14 +1,14 @@
 ---
-title: Page.Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la page. Obtient ou définit le filigrane de la page
+title: "Page.Watermark"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Page. Obtient ou définit le filigrane de la page"
 type: docs
 weight: 310
 url: /fr/net/aspose.pdf/page/watermark/
 ---
-## Propriété Page.Watermark
+## Page.Watermark property
 
-Obtient ou définit le filigrane de la page.
+Obtient ou définit le filigrane de la Page.
 
 ```csharp
 public Watermark Watermark { get; set; }
@@ -16,7 +16,9 @@ public Watermark Watermark { get; set; }
 
 ### Voir aussi
 
-* classe [Watermark](../../watermark/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Watermark](../../watermark/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

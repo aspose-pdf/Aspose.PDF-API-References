@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.Code
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StructureTypeStandard. Code Un fragment de texte de programme informatique
+title: "StructureTypeStandard.Code"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureTypeStandard champ. Code Un fragment de texte de programme informatique"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.logicalstructure/structuretypestandard/code/
 ---
-## Champ StructureTypeStandard.Code
+## StructureTypeStandard.Code field
 
 (Code) Un fragment de texte de programme informatique.
 
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Code;
 
 ### Voir aussi
 
-* classe [StructureTypeStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

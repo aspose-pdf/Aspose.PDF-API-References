@@ -1,14 +1,14 @@
 ---
-title: MP.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode MP. Accepte l'objet visiteur pour traiter l'opérateur
+title: "MP.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode MP. Accepte l'objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/mp/accept/
 ---
-## Méthode MP.Accept
+## MP.Accept method
 
-Accepte l'objet visiteur pour traiter l'opérateur.
+Accepte un objet visiteur pour traiter l'opérateur.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -24,3 +24,5 @@ public override void Accept(IOperatorSelector visitor)
 * class [MP](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

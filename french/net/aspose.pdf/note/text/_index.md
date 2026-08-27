@@ -1,14 +1,14 @@
 ---
-title: Note.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Note. Obtient ou définit un texte de note
+title: "Note.Text"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Note. Obtient ou définit le texte de la note"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/note/text/
 ---
-## Propriété Note.Text
+## Note.Text property
 
-Obtient ou définit un texte de note.
+Obtient ou définit le texte de la note.
 
 ```csharp
 public string Text { get; set; }
@@ -16,6 +16,8 @@ public string Text { get; set; }
 
 ### Voir aussi
 
-* classe [Note](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

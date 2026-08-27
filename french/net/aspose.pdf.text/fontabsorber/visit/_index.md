@@ -1,14 +1,14 @@
 ---
-title: FontAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FontAbsorber. Effectue une recherche dans la plage de pages spécifiée du document
+title: "FontAbsorber.Visit"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FontAbsorber. Effectue une recherche dans la plage spécifiée de pages du document"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/fontabsorber/visit/
 ---
 ## Visit(Document, int, int) {#visit_1}
 
-Effectue une recherche dans la plage de pages spécifiée du document.
+Effectue une recherche dans la plage spécifiée de pages du document.
 
 ```csharp
 public virtual void Visit(Document pdf, int startPage, int pageCount)
@@ -16,15 +16,15 @@ public virtual void Visit(Document pdf, int startPage, int pageCount)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pdf | Document | Objet de document Pdf. |
-| startPage | Int32 | Page de début du document Pdf. |
-| pageCount | Int32 | Nombre de pages du document Pdf |
+| pdf | Document | Objet Pdf pocument. |
+| startPage | Int32 | Page de démarrage du Pdf pocument. |
+| pageCount | Int32 | Nombre de pages du document PDF |
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [FontAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Document](../../../aspose.pdf/document/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -39,11 +39,13 @@ public virtual void Visit(Document pdf)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pdf | Document | Objet de document Pdf. |
+| pdf | Document | Objet Pdf pocument. |
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [FontAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Document](../../../aspose.pdf/document/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

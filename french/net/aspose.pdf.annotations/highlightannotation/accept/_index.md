@@ -1,12 +1,12 @@
 ---
-title: HighlightAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode HighlightAnnotation. Accepte un objet visiteur pour traiter l'annotation
+title: "HighlightAnnotation.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode HighlightAnnotation. Accepte un objet visiteur pour traiter l'annotation"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/highlightannotation/accept/
 ---
-## Méthode HighlightAnnotation.Accept
+## HighlightAnnotation.Accept method
 
 Accepte un objet visiteur pour traiter l'annotation.
 
@@ -20,7 +20,9 @@ public override void Accept(AnnotationSelector visitor)
 
 ### Voir aussi
 
-* classe [AnnotationSelector](../../annotationselector/)
-* classe [HighlightAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AnnotationSelector](../../annotationselector/)
+* class [HighlightAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

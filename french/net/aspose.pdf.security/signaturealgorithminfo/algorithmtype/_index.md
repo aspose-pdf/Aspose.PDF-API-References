@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.AlgorithmType
-second_title: Aspose.PDF for .NET API Reference
-description: Champ SignatureAlgorithmInfo. Obtient le type de l'algorithme de signature utilisé pour signer le document PDF
+title: "SignatureAlgorithmInfo.AlgorithmType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ SignatureAlgorithmInfo. Obtient le type d'algorithme de signature utilisé pour signer le document PDF"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.security/signaturealgorithminfo/algorithmtype/
 ---
-## Champ SignatureAlgorithmInfo.AlgorithmType
+## SignatureAlgorithmInfo.AlgorithmType field
 
 Obtient le type de l'algorithme de signature utilisé pour signer le document PDF.
 
@@ -20,3 +20,5 @@ public readonly SignatureAlgorithmType AlgorithmType;
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

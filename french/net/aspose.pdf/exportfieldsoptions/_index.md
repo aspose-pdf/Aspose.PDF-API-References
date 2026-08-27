@@ -1,14 +1,14 @@
 ---
-title: Class ExportFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.ExportFieldsOptions. Représente la classe de base des options pour l'exportation des champs de formulaire
+title: "Classe ExportFieldsOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.ExportFieldsOptions. Représente la classe de base des options pour l'exportation des champs de formulaire."
 type: docs
-weight: 4100
+weight: 4220
 url: /fr/net/aspose.pdf/exportfieldsoptions/
 ---
-## Classe ExportFieldsOptions
+## ExportFieldsOptions class
 
-Représente la classe de base des options pour l'exportation des champs de formulaire.
+Représente la classe de base des options d'exportation des champs de formulaire.
 
 ```csharp
 public abstract class ExportFieldsOptions
@@ -22,5 +22,7 @@ public abstract class ExportFieldsOptions
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

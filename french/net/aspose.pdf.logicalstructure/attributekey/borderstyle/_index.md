@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeKey. Attribut BorderStyle Propriétaire d'attribut de mise en page
+title: "AttributeKey.BorderStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeKey champ. attribut BorderStyle Layout attribut propriétaire"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.logicalstructure/attributekey/borderstyle/
 ---
-## Champ AttributeKey.BorderStyle
+## AttributeKey.BorderStyle field
 
-Attribut BorderStyle (Propriétaire d'attribut de mise en page).
+Attribut BorderStyle (propriétaire de l'attribut Layout).
 
 ```csharp
 public static readonly AttributeKey BorderStyle;
@@ -16,6 +16,8 @@ public static readonly AttributeKey BorderStyle;
 
 ### Voir aussi
 
-* classe [AttributeKey](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

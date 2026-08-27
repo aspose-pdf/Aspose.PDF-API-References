@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.IsDoubled
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété GraphInfo. Obtient ou définit si la bordure est doublée
+title: "GraphInfo.IsDoubled"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété GraphInfo. Obtient ou définit si la bordure est doublée."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/graphinfo/isdoubled/
 ---
-## Propriété GraphInfo.IsDoubled
+## GraphInfo.IsDoubled property
 
 Obtient ou définit si la bordure est doublée.
 
@@ -16,6 +16,8 @@ public bool IsDoubled { get; set; }
 
 ### Voir aussi
 
-* classe [GraphInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

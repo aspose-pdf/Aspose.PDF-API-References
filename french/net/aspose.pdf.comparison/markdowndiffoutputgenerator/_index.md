@@ -1,14 +1,14 @@
 ---
-title: Class MarkdownDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Comparison.MarkdownDiffOutputGenerator. Représente une classe pour générer une représentation markdown des différences de textes. En raison de la syntaxe markdown, il n'est pas possible de montrer les changements des caractères d'espacement. La sélection des changements nécessite d'ajouter des caractères d'espacement autour du formatage, sinon le visualiseur markdown n'affichera pas correctement le texte. Les sauts de ligne supprimés sont indiqués par le marqueur de paragraphe.
+title: "Classe MarkdownDiffOutputGenerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Comparison.MarkdownDiffOutputGenerator. Représente une classe permettant de générer une représentation markdown des différences de texte. En raison de la syntaxe markdown, il n'est pas possible d'afficher les modifications des caractères d'espacement. La sélection des changements entraîne l'ajout de caractères d'espacement autour du formatage, sinon le visualiseur markdown n'affichera pas correctement le texte. Les sauts de ligne supprimés sont indiqués par le symbole de marque de paragraphe."
 type: docs
-weight: 3250
+weight: 3360
 url: /fr/net/aspose.pdf.comparison/markdowndiffoutputgenerator/
 ---
-## Classe MarkdownDiffOutputGenerator
+## MarkdownDiffOutputGenerator class
 
-Représente une classe pour générer une représentation markdown des différences de textes. En raison de la syntaxe markdown, il n'est pas possible de montrer les changements des caractères d'espacement. La sélection des changements nécessite d'ajouter des caractères d'espacement autour du formatage, sinon le visualiseur markdown n'affichera pas correctement le texte. Les sauts de ligne supprimés sont indiqués par le marqueur de paragraphe.
+Représente une classe générant une représentation markdown des différences de texte. En raison de la syntaxe markdown, il n'est pas possible d'afficher les modifications des caractères d'espacement. La sélection des modifications entraîne l'ajout de caractères d'espacement autour du formatage, sinon le visualiseur markdown n'affichera pas correctement le texte. Les sauts de ligne supprimés sont indiqués par le symbole de paragraphe -.
 
 ```csharp
 public class MarkdownDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenerator
@@ -35,3 +35,5 @@ public class MarkdownDiffOutputGenerator : IFileOutputGenerator, IStringOutputGe
 * interface [IStringOutputGenerator](../istringoutputgenerator/)
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

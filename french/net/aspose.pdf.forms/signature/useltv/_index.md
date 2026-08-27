@@ -1,14 +1,14 @@
 ---
-title: Signature.UseLtv
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de signature. Obtient/définit le drapeau de validation ltv
+title: "Signature.UseLtv"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Signature. Obtient/définit le drapeau de validation ltv"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.forms/signature/useltv/
 ---
-## Propriété Signature.UseLtv
+## Signature.UseLtv property
 
-Obtient/définit le drapeau de validation ltv.
+Obtient/définit le drapeau de validation LTV.
 
 ```csharp
 public bool UseLtv { get; set; }
@@ -16,6 +16,8 @@ public bool UseLtv { get; set; }
 
 ### Voir aussi
 
-* classe [Signature](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

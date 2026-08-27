@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfViewer. Obtient ou définit le mode de présentation du formulaire
+title: "PdfViewer.FormPresentationMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfViewer propriété. Obtient ou définit le mode de présentation du formulaire"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.facades/pdfviewer/formpresentationmode/
 ---
-## Propriété PdfViewer.FormPresentationMode
+## PdfViewer.FormPresentationMode property
 
 Obtient ou définit le mode de présentation du formulaire.
 
@@ -20,3 +20,5 @@ public FormPresentationMode FormPresentationMode { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

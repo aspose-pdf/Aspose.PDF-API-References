@@ -1,14 +1,14 @@
 ---
-title: Class PageDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Devices.PageDevice. Classe abstraite pour tous les dispositifs utilisés pour traiter certaines pages du document pdf
+title: "Classe PageDevice"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Devices.PageDevice class. Classe abstraite pour tous les dispositifs qui est utilisée pour traiter une page spécifique du document pdf."
 type: docs
-weight: 3640
+weight: 3760
 url: /fr/net/aspose.pdf.devices/pagedevice/
 ---
-## Classe PageDevice
+## PageDevice class
 
-Classe abstraite pour tous les dispositifs utilisés pour traiter certaines pages du document pdf.
+Classe abstraite pour tous les dispositifs qui est utilisée pour traiter une page spécifique du document PDF.
 
 ```csharp
 public abstract class PageDevice : Device
@@ -18,11 +18,13 @@ public abstract class PageDevice : Device
 
 | Nom | Description |
 | --- | --- |
-| abstract [Process](../../aspose.pdf.devices/pagedevice/process/#process)(Page, Stream) | Effectue une opération sur la page donnée, par exemple, convertit la page en image graphique. |
+| abstract [Process](../../aspose.pdf.devices/pagedevice/process/#process)(Page, Stream) | Effectue une opération sur la page donnée, par ex. convertit la page en image graphique. |
 | [Process](../../aspose.pdf.devices/pagedevice/process/#process_1)(Page, string) | Effectue une opération sur la page donnée et enregistre les résultats dans le fichier. |
 
 ### Voir aussi
 
-* classe [Device](../device/)
-* espace de noms [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* class [Device](../device/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

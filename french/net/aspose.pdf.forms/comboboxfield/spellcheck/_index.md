@@ -1,14 +1,14 @@
 ---
-title: ComboBoxField.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ComboBoxField. Obtient ou définit l'état d'activité de la vérification orthographique
+title: "ComboBoxField.SpellCheck"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ComboBoxField propriété. Obtient ou définit le statut d'activité de la vérification orthographique"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.forms/comboboxfield/spellcheck/
 ---
-## Propriété ComboBoxField.SpellCheck
+## ComboBoxField.SpellCheck property
 
-Obtient ou définit l'état d'activité de la vérification orthographique.
+Obtient ou définit le statut de l'activité de vérification orthographique.
 
 ```csharp
 public bool SpellCheck { get; set; }
@@ -16,6 +16,8 @@ public bool SpellCheck { get; set; }
 
 ### Voir aussi
 
-* classe [ComboBoxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

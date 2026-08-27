@@ -1,12 +1,12 @@
 ---
-title: MemoryFontSource.FontBytes
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MemoryFontSource. Tableau d'octets du fichier de police
+title: "MemoryFontSource.FontBytes"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MemoryFontSource. Tableau d'octets du fichier de police"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/memoryfontsource/fontbytes/
 ---
-## Propriété MemoryFontSource.FontBytes
+## MemoryFontSource.FontBytes property
 
 Tableau d'octets du fichier de police.
 
@@ -16,6 +16,8 @@ public byte[] FontBytes { get; }
 
 ### Voir aussi
 
-* classe [MemoryFontSource](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [MemoryFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

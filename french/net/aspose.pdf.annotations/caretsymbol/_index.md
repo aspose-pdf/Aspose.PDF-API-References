@@ -1,14 +1,14 @@
 ---
-title: Enum CaretSymbol
-second_title: Aspose.PDF for .NET API Reference
-description: Enum CaretSymbol d'Aspose.Pdf.Annotations. Un symbole à associer au caret
+title: "Enum CaretSymbol"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.CaretSymbol enum. Un symbole à associer au caret"
 type: docs
-weight: 1570
+weight: 1660
 url: /fr/net/aspose.pdf.annotations/caretsymbol/
 ---
-## Énumération CaretSymbol
+## CaretSymbol enumeration
 
-Un symbole à associer au caret.
+Un symbole à associer au curseur.
 
 ```csharp
 public enum CaretSymbol
@@ -18,10 +18,12 @@ public enum CaretSymbol
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Aucun | `0` | Aucun symbole ne doit être associé au caret. |
-| Paragraphe | `1` | Un symbole de nouveau paragraphe doit être associé au caret. |
+| None | `0` | Aucun symbole ne doit être associé au caret. |
+| Paragraph | `1` | Un nouveau symbole de paragraphe doit être associé au caret. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

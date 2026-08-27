@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.AreaToExtract
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MarkdownSaveOptions. Obtenez ou définissez une zone rectangulaire pour extraire le contenu au format markdown
+title: "MarkdownSaveOptions.AreaToExtract"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MarkdownSaveOptions. Obtient ou définit une zone rectangulaire pour extraire le contenu en markdown"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/markdownsaveoptions/areatoextract/
 ---
-## Propriété MarkdownSaveOptions.AreaToExtract
+## MarkdownSaveOptions.AreaToExtract property
 
-Obtenez ou définissez une zone rectangulaire pour extraire le contenu au format markdown.
+Obtient ou définit une zone rectangulaire pour extraire le contenu en markdown.
 
 ```csharp
 public Rectangle AreaToExtract { get; set; }
@@ -16,7 +16,9 @@ public Rectangle AreaToExtract { get; set; }
 
 ### Voir aussi
 
-* classe [Rectangle](../../rectangle/)
-* classe [MarkdownSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../../rectangle/)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FileCounts.Total
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileCounts. Obtient ou définit le nombre total de fichiers dans le magasin vectoriel
+title: "FileCounts.Total"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FileCounts. Obtient ou définit le nombre total de fichiers dans le magasin de vecteurs"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.ai/filecounts/total/
 ---
-## Propriété FileCounts.Total
+## FileCounts.Total property
 
-Obtient ou définit le nombre total de fichiers dans le magasin vectoriel.
+Obtient ou définit le nombre total de fichiers dans le vector store.
 
 ```csharp
 public int Total { get; set; }
@@ -16,6 +16,8 @@ public int Total { get; set; }
 
 ### Voir aussi
 
-* classe [FileCounts](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [FileCounts](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

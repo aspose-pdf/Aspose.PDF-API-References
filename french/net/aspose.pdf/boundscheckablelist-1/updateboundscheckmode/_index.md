@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.UpdateBoundsCheckMode
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode BoundsCheckableList. Met à jour le paramètre boundsCheckMode pour la collection initialisée
+title: "BoundsCheckableList1.UpdateBoundsCheckMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode BoundsCheckableList. Met à jour le paramètre boundsCheckMode pour la collection initialisée"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf/boundscheckablelist-1/updateboundscheckmode/
@@ -48,3 +48,5 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode)
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

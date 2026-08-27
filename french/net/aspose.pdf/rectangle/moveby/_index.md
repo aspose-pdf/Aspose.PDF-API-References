@@ -1,14 +1,14 @@
 ---
-title: Rectangle.MoveBy
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Rectangle. Déplacer le rectangle par les deltas spécifiés
+title: "Rectangle.MoveBy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Rectangle. Décaler le rectangle des deltas spécifiés"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf/rectangle/moveby/
 ---
-## Méthode Rectangle.MoveBy
+## Rectangle.MoveBy method
 
-Déplacer le rectangle par les deltas spécifiés.
+Décale le rectangle des deltas spécifiés.
 
 ```csharp
 public void MoveBy(double dx, double dy)
@@ -16,11 +16,13 @@ public void MoveBy(double dx, double dy)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| dx | Double | Valeur de déplacement par l'axe X. |
-| dy | Double | Valeur de déplacement par l'axe Y. |
+| dx | Double | Valeur du décalage selon l'axe X. |
+| dy | Double | Valeur du décalage selon l'axe Y. |
 
 ### Voir aussi
 
-* classe [Rectangle](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

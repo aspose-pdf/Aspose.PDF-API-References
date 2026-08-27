@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderStyleInset
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit un style de bordure en retrait
+title: "FormFieldFacade.BorderStyleInset"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade champ. Définit un style de bordure en retrait"
 type: docs
 weight: 310
 url: /fr/net/aspose.pdf.facades/formfieldfacade/borderstyleinset/
 ---
-## Champ FormFieldFacade.BorderStyleInset
+## FormFieldFacade.BorderStyleInset field
 
 Définit un style de bordure en retrait.
 
@@ -16,6 +16,8 @@ public const int BorderStyleInset;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.StringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ToolChoice. Obtient ou définit la valeur de chaîne du ToolChoice
+title: "ToolChoice.StringValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ToolChoice. Obtient ou définit la valeur chaîne de ToolChoice"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/toolchoice/stringvalue/
 ---
-## Propriété ToolChoice.StringValue
+## ToolChoice.StringValue property
 
-Obtient ou définit la valeur de chaîne du ToolChoice.
+Obtient ou définit la valeur chaîne du ToolChoice.
 
 ```csharp
 public string StringValue { get; set; }
@@ -16,6 +16,8 @@ public string StringValue { get; set; }
 
 ### Voir aussi
 
-* classe [ToolChoice](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ToolChoice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

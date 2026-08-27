@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.StrokingColor
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragmentState. Obtient ou définit les opérations de couleur de contour du rectangle de texte rendu de TextFragment
+title: "TextFragmentState.StrokingColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragmentState. Obtient ou définit la couleur des opérations de tracé du rendu du texte, du rectangle ou de la bordure par TextFragment"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.text/textfragmentstate/strokingcolor/
 ---
-## Propriété TextFragmentState.StrokingColor
+## TextFragmentState.StrokingColor property
 
-Obtient ou définit les opérations de couleur de contour du rendu de [`TextFragment`](../../textfragment/) (contour de texte, bordure de rectangle)
+Obtient ou définit la couleur des opérations de tracé de [`TextFragment`](../../textfragment/) lors du rendu (texte en contour, bordure du rectangle)
 
 ```csharp
 public override Color StrokingColor { get; set; }
@@ -16,7 +16,9 @@ public override Color StrokingColor { get; set; }
 
 ### Voir aussi
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [TextFragmentState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

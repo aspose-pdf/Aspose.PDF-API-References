@@ -1,20 +1,20 @@
 ---
-title: TiffOptions.Shape
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TiffOptions. Obtient ou définit le type de la forme
+title: "TiffOptions.Shape"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TiffOptions. Obtient ou définit le type de la forme"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.plugins/tiffoptions/shape/
 ---
-## Propriété TiffOptions.Shape
+## TiffOptions.Shape property
 
-Obtient ou définit le type de la forme.
+Obtient ou définit le type de forme.
 
 ```csharp
 public ShapeType Shape { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le type de la forme.
 
@@ -28,3 +28,5 @@ La valeur par défaut est ShapeType.None
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

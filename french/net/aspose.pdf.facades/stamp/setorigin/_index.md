@@ -1,12 +1,12 @@
 ---
-title: Stamp.SetOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Stamp. Définit la position sur la page où le tampon sera placé
+title: "Stamp.SetOrigin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Stamp. Définit la position sur la page où le tampon sera placé"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.facades/stamp/setorigin/
 ---
-## Méthode Stamp.SetOrigin
+## Stamp.SetOrigin method
 
 Définit la position sur la page où le tampon sera placé.
 
@@ -21,6 +21,8 @@ public void SetOrigin(float originX, float originY)
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

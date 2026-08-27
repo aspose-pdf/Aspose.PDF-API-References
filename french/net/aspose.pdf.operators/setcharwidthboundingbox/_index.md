@@ -1,14 +1,14 @@
 ---
-title: Class SetCharWidthBoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetCharWidthBoundingBox. Classe représentant l'opérateur d1 définissant le glyphe et la boîte englobante
+title: "Classe SetCharWidthBoundingBox"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.SetCharWidthBoundingBox classe. Classe représentant l'opérateur d1 qui définit le glyphe et la boîte englobante."
 type: docs
-weight: 7610
+weight: 7750
 url: /fr/net/aspose.pdf.operators/setcharwidthboundingbox/
 ---
-## Classe SetCharWidthBoundingBox
+## SetCharWidthBoundingBox class
 
-Classe représentant l'opérateur d1 (définir le glyphe et la boîte englobante).
+Classe représentant l'opérateur d1 (définit le glyphe et la boîte englobante).
 
 ```csharp
 public class SetCharWidthBoundingBox : Operator
@@ -36,12 +36,14 @@ public class SetCharWidthBoundingBox : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcharwidthboundingbox/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/setcharwidthboundingbox/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/setcharwidthboundingbox/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextParagraph. Obtient ou définit l'alignement horizontal du texte à l'intérieur des rectangles de paragraphes
+title: "TextParagraph.HorizontalAlignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextParagraph. Obtient ou définit l'alignement horizontal du texte à l'intérieur du Rectangle des paragraphes"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.text/textparagraph/horizontalalignment/
 ---
-## Propriété TextParagraph.HorizontalAlignment
+## TextParagraph.HorizontalAlignment property
 
-Obtient ou définit l'alignement horizontal du texte à l'intérieur du [`Rectangle`](../rectangle/) des paragraphes.
+Obtient ou définit l'alignement horizontal du texte à l'intérieur du [`Rectangle`](../rectangle/) du paragraphe.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -24,3 +24,5 @@ HorizontalAlignment.None est égal à HorizontalAlignment.Left.
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.GetSchemaXml
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpPdfAExtensionSchema. Renvoie l'élément xml qui représente le schéma dans l'arbre xml
+title: "XmpPdfAExtensionSchema.GetSchemaXml"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "XmpPdfAExtensionSchema méthode. Retourne l'élément xml tag li qui représente le schéma dans l'arbre xml"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/xmppdfaextensionschema/getschemaxml/
 ---
-## Méthode XmpPdfAExtensionSchema.GetSchemaXml
+## XmpPdfAExtensionSchema.GetSchemaXml method
 
-Renvoie l'élément xml (tag - li) qui représente le schéma dans l'arbre xml.
+Renvoie l'élément xml (balise - li) qui représente le schéma dans l'arbre xml.
 
 ```csharp
 public XmlElement GetSchemaXml(XmlDocument xmlDocument)
@@ -24,6 +24,8 @@ L'élément xml.
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionSchema](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

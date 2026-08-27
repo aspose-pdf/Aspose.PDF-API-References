@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIChatCopilotOptions. Définit la collection de documents pour les options du copilote de chat
+title: "OpenAIChatCopilotOptions.WithDocuments"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OpenAIChatCopilotOptions méthode. Définit la collection de documents pour les options du copilote de chat"
 type: docs
-weight: 110
+weight: 120
 url: /fr/net/aspose.pdf.ai/openaichatcopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-Définit la collection de documents pour les options du copilote de chat.
+Définit la collection de Document pour les options du copilot de chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(DocumentCollection documentCollection)
@@ -16,7 +16,7 @@ public OpenAIChatCopilotOptions WithDocuments(DocumentCollection documentCollect
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | La collection de documents à définir. |
+| documentCollection | DocumentCollection | La collection de Documents à définir. |
 
 ### Valeur de retour
 
@@ -24,16 +24,16 @@ L'instance actuelle de [`OpenAIChatCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [DocumentCollection](../../documentcollection/)
-* classe [OpenAIChatCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-Ajoute plusieurs documents texte à la collection de documents pour les options du copilote de chat.
+Ajoute plusieurs documents texte à la collection de Document pour les options du copilot de chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<TextDocument> textDocuments)
@@ -49,16 +49,16 @@ L'instance actuelle de [`OpenAIChatCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [TextDocument](../../textdocument/)
-* classe [OpenAIChatCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TextDocument](../../textdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-Ajoute plusieurs documents PDF à la collection de documents pour les options du copilote de chat.
+Ajoute plusieurs documents PDF à la collection de Document pour les options du copilot de chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
@@ -74,16 +74,16 @@ L'instance actuelle de [`OpenAIChatCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [PdfDocument](../../pdfdocument/)
-* classe [OpenAIChatCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-Ajoute plusieurs chemins de documents à la collection de documents pour les options du copilote de chat.
+Ajoute plusieurs chemins de Document à la collection de Document pour les options du copilot de chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<string> filePaths)
@@ -99,6 +99,8 @@ L'instance actuelle de [`OpenAIChatCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAIChatCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

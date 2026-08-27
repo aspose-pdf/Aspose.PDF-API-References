@@ -1,12 +1,12 @@
 ---
-title: Dash.Off
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Dash. Obtient ou définit la longueur du premier espace entre les tirets
+title: "Dash.Off"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Dash. Obtient ou définit la longueur du premier espace entre les tirets"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/dash/off/
 ---
-## Propriété Dash.Off
+## Dash.Off property
 
 Obtient ou définit la longueur du premier espace entre les tirets.
 
@@ -16,6 +16,8 @@ public int Off { get; set; }
 
 ### Voir aussi
 
-* classe [Dash](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

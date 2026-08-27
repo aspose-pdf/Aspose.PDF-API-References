@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.StrikeOut
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StructureTextState. Obtient ou définit le barré pour le texte
+title: "StructureTextState.StrikeOut"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StructureTextState. Obtient ou définit le texte barré"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.logicalstructure/structuretextstate/strikeout/
 ---
-## Propriété StructureTextState.StrikeOut
+## StructureTextState.StrikeOut property
 
-Obtient ou définit le barré pour le texte.
+Obtient ou définit le texte barré.
 
 ```csharp
 public bool? StrikeOut { get; set; }
@@ -20,6 +20,8 @@ Peut être nul. Utilisez null pour hériter de la propriété `StrikeOut` de l'�
 
 ### Voir aussi
 
-* classe [StructureTextState](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

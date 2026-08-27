@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.IsPdfFile
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileInfo. Vérifie si l'entrée source est un fichier PDF valide
+title: "PdfFileInfo.IsPdfFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileInfo propriété. Vérifie si l'entrée source est un fichier PDF valide"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.facades/pdffileinfo/ispdffile/
 ---
-## Propriété PdfFileInfo.IsPdfFile
+## PdfFileInfo.IsPdfFile property
 
 Vérifie si l'entrée source est un fichier PDF valide.
 
@@ -16,6 +16,8 @@ public bool IsPdfFile { get; }
 
 ### Voir aussi
 
-* classe [PdfFileInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

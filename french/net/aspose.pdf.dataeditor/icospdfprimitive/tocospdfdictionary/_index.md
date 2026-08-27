@@ -1,14 +1,14 @@
 ---
-title: ICosPdfPrimitive.ToCosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ICosPdfPrimitive. Tente de convertir cette instance en CosPdfDictionary
+title: "ICosPdfPrimitive.ToCosPdfDictionary"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ICosPdfPrimitive. Essaye de convertir cette instance en CosPdfDictionary"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfdictionary/
 ---
-## Méthode ICosPdfPrimitive.ToCosPdfDictionary
+## ICosPdfPrimitive.ToCosPdfDictionary method
 
-Tente de convertir cette instance en [`CosPdfDictionary`](../../cospdfdictionary/).
+Essaye de convertir cette instance en [`CosPdfDictionary`](../../cospdfdictionary/).
 
 ```csharp
 public CosPdfDictionary ToCosPdfDictionary()
@@ -16,11 +16,13 @@ public CosPdfDictionary ToCosPdfDictionary()
 
 ### Valeur de retour
 
-null si l'instance n'est pas un [`CosPdfDictionary`](../../cospdfdictionary/) sinon un [`CosPdfDictionary`](../../cospdfdictionary/).
+null si l'instance n'est pas [`CosPdfDictionary`](../../cospdfdictionary/) sinon [`CosPdfDictionary`](../../cospdfdictionary/).
 
 ### Voir aussi
 
-* classe [CosPdfDictionary](../../cospdfdictionary/)
+* class [CosPdfDictionary](../../cospdfdictionary/)
 * interface [ICosPdfPrimitive](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

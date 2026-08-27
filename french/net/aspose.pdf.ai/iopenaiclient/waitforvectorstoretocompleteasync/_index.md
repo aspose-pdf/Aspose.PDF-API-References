@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IOpenAIClient. Attend qu'un magasin de vecteurs spécifique se termine de manière asynchrone
+title: "IOpenAIClient.WaitForVectorStoreToCompleteAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "IOpenAIClient méthode. Attend qu'un magasin de vecteurs spécifique se termine de manière asynchrone"
 type: docs
 weight: 470
 url: /fr/net/aspose.pdf.ai/iopenaiclient/waitforvectorstoretocompleteasync/
 ---
-## Méthode IOpenAIClient.WaitForVectorStoreToCompleteAsync
+## IOpenAIClient.WaitForVectorStoreToCompleteAsync method
 
 Attend qu'un magasin de vecteurs spécifique se termine de manière asynchrone.
 
@@ -17,22 +17,24 @@ public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vector
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | String | L'ID du magasin de vecteurs à surveiller jusqu'à la fin. |
+| vectorStoreId | String | L'ID du magasin de vecteurs à surveiller jusqu'à son achèvement. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
 ### Valeur de retour
 
-Une tâche qui représente l'opération asynchrone. Le résultat de la tâche contient le statut final du magasin de vecteurs.
+Une tâche qui représente l'opération asynchrone. Le résultat de la tâche contient l'état final du magasin de vecteurs.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du magasin de vecteurs est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du magasin de vecteurs est nul ou vide. |
 
 ### Voir aussi
 
-* classe [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
 * interface [IOpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

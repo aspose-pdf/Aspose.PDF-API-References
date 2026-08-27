@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToRaw
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpValue. Code XML brut pour des valeurs inconnues/non prises en charge
+title: "XmpValue.ToRaw"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpValue. Code XML brut pour les valeurs inconnues/non prises en charge"
 type: docs
 weight: 200
 url: /fr/net/aspose.pdf/xmpvalue/toraw/
 ---
-## Méthode XmpValue.ToRaw
+## XmpValue.ToRaw method
 
 Code XML brut pour des valeurs inconnues/non prises en charge.
 
@@ -20,6 +20,8 @@ Nœud XML pour cette valeur.
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

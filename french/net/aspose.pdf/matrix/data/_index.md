@@ -1,14 +1,14 @@
 ---
-title: Matrix.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Matrix. Obtient les données de Matrix sous forme de tableau
+title: "Matrix.Data"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Matrix. Obtient les données de la matrice sous forme de tableau"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/matrix/data/
 ---
-## Propriété Matrix.Data
+## Matrix.Data property
 
-Obtient les données de Matrix sous forme de tableau.
+Obtient les données de la Matrix sous forme de tableau.
 
 ```csharp
 public double[] Data { get; }
@@ -16,6 +16,8 @@ public double[] Data { get; }
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

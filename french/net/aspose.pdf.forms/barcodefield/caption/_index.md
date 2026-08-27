@@ -1,12 +1,12 @@
 ---
-title: BarcodeField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété BarcodeField. Obtient la légende de l'objet code-barres
+title: "BarcodeField.Caption"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété BarcodeField. Obtient la légende de l'objet code‑barres"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.forms/barcodefield/caption/
 ---
-## Propriété BarcodeField.Caption
+## BarcodeField.Caption property
 
 Obtient la légende de l'objet code-barres.
 
@@ -16,6 +16,8 @@ public string Caption { get; }
 
 ### Voir aussi
 
-* classe [BarcodeField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

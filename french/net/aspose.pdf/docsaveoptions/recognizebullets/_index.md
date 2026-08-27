@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.RecognizeBullets
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocSaveOptions. Activer la reconnaissance des puces
+title: "DocSaveOptions.RecognizeBullets"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocSaveOptions. Active la reconnaissance des puces"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/docsaveoptions/recognizebullets/
 ---
-## Propriété DocSaveOptions.RecognizeBullets
+## DocSaveOptions.RecognizeBullets property
 
 Activer la reconnaissance des puces
 
@@ -16,6 +16,8 @@ public bool RecognizeBullets { get; set; }
 
 ### Voir aussi
 
-* classe [DocSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_LowerAlpha
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Liste d'attributs ListNumbering LowerAlpha Lettres minuscules a b c
+title: "AttributeName.ListNumbering_LowerAlpha"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeName champ. Attribut ListNumbering LowerAlpha  Lettres minuscules a b c"
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf.logicalstructure/attributename/listnumbering_loweralpha/
 ---
-## Champ AttributeName.ListNumbering_LowerAlpha
+## AttributeName.ListNumbering_LowerAlpha field
 
-Liste d'attributs ListNumbering : LowerAlpha - Lettres minuscules (a, b, c, ...).
+Attribut ListNumbering : LowerAlpha - Lettres minuscules (a, b, c, ...).
 
 ```csharp
 public static readonly AttributeName ListNumbering_LowerAlpha;
@@ -16,6 +16,8 @@ public static readonly AttributeName ListNumbering_LowerAlpha;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

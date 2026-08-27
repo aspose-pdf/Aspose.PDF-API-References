@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DeleteStampById
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Supprime le tampon sur la page spécifiée par l'ID du tampon
+title: "PdfContentEditor.DeleteStampById"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Supprime le tampon sur la page spécifiée par l'ID du tampon"
 type: docs
 weight: 340
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyid/
 ---
 ## DeleteStampById(int, int) {#deletestampbyid_1}
 
-Supprime le tampon sur la page spécifiée par l'ID du tampon.
+Supprime le tampon sur la page spécifiée par son ID.
 
 ```csharp
 public void DeleteStampById(int pageNumber, int stampId)
@@ -16,8 +16,8 @@ public void DeleteStampById(int pageNumber, int stampId)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pageNumber | Int32 | Numéro de la page où le tampon sera supprimé. |
-| stampId | Int32 | Identifiant du tampon qui doit être supprimé. |
+| pageNumber | Int32 | Numéro de page où le tampon sera supprimé. |
+| stampId | Int32 | Identifiant du stanp qui doit être supprimé. |
 
 ## Exemples
 
@@ -30,8 +30,8 @@ contentEditor.Save("outfile.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -59,6 +59,8 @@ contentEditor.Save("outfile.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

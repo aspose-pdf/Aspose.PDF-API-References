@@ -1,14 +1,14 @@
 ---
-title: FileCitation.FileId
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileCitation. Obtient ou définit l'ID du fichier spécifique dont provient la citation
+title: "FileCitation.FileId"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FileCitation propriété. Obtient ou définit l’ID du fichier spécifique dont provient la citation"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/filecitation/fileid/
 ---
-## Propriété FileCitation.FileId
+## FileCitation.FileId property
 
-Obtient ou définit l'ID du fichier spécifique dont provient la citation.
+Obtient ou définit l'ID du File spécifique dont provient la citation.
 
 ```csharp
 public string FileId { get; set; }
@@ -16,6 +16,8 @@ public string FileId { get; set; }
 
 ### Voir aussi
 
-* classe [FileCitation](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [FileCitation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

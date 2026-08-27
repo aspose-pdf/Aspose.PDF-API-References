@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DCrossSectionArray
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DCrossSectionArray class. Class PDF3DCrossSectionArray
+title: "Classe PDF3DCrossSectionArray"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.PDF3DCrossSectionArray classe. Classe PDF3DCrossSectionArray"
 type: docs
-weight: 2190
+weight: 2280
 url: /fr/net/aspose.pdf.annotations/pdf3dcrosssectionarray/
 ---
-## Classe PDF3DCrossSectionArray
+## PDF3DCrossSectionArray class
 
 Classe PDF3DCrossSectionArray.
 
@@ -31,11 +31,13 @@ public class PDF3DCrossSectionArray
 
 | Nom | Description |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add/)(PDF3DCrossSection) | Ajoute la section transversale spécifiée au tableau de vues. |
+| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add/)(PDF3DCrossSection) | Ajoute la section transversale spécifiée au tableau des vues. |
 | [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/)() | Supprime toutes les sections transversales du tableau. |
 | [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/)(int) | Supprime la section transversale du tableau à l'index spécifié. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

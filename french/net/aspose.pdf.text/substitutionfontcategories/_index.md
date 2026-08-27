@@ -1,14 +1,14 @@
 ---
-title: Enum SubstitutionFontCategories
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Text.SubstitutionFontCategories. Représente les catégories de polices qui peuvent être substituées
+title: "Enum SubstitutionFontCategories"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Text.SubstitutionFontCategories enum. Représente les catégories de polices qui peuvent être substituées"
 type: docs
-weight: 10720
+weight: 10900
 url: /fr/net/aspose.pdf.text/substitutionfontcategories/
 ---
-## Énumération SubstitutionFontCategories
+## SubstitutionFontCategories enumeration
 
-Représente les catégories de polices qui peuvent être substituées.
+Représente les catégories de police qui peuvent être substituées.
 
 ```csharp
 public enum SubstitutionFontCategories
@@ -18,10 +18,12 @@ public enum SubstitutionFontCategories
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| TheSameNamedEmbeddedFonts | `0` | Les polices qui portent le même nom que les polices système. Ces polices peuvent généralement être substituées par les polices système portant le même nom. |
-| AllEmbeddedFonts | `1` | Toutes les polices intégrées sont substituées. |
+| TheSameNamedEmbeddedFonts | `0` | Les polices qui portent le même nom que les polices système. Ces polices sont généralement sûres à être substituées par les mêmes polices système. |
+| AllEmbeddedFonts | `1` | Toutes les polices incorporées sont substituées. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

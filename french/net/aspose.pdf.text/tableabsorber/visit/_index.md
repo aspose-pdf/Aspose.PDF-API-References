@@ -1,14 +1,14 @@
 ---
-title: TableAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TableAbsorber. Extrait des tables sur la page spécifiée
+title: "TableAbsorber.Visit"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TableAbsorber. Extrait les tables de la page spécifiée"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.text/tableabsorber/visit/
 ---
 ## Visit(Page) {#visit_1}
 
-Extrait des tables sur la page spécifiée
+Extrait les tables de la page spécifiée
 
 ```csharp
 public virtual void Visit(Page page)
@@ -16,44 +16,44 @@ public virtual void Visit(Page page)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | Objet de page de document Pdf. |
+| page | Page | Objet de page de document PDF. |
 
 ## Exemples
 
-L'exemple démontre comment extraire une table sur la première page du document PDF.
+L'exemple montre comment extraire une table sur la première page du document PDF.
 
 ```csharp
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TableAbsorber object to find tables
+// Créez un objet TableAbsorber pour trouver des tables
 TableAbsorber absorber = new TableAbsorber();
 
-// Visit first page with absorber
+// Visitez la première page avec l'absorbeur
 absorber.Visit(doc.Pages[1]);
 
-// Get access to first table on page, their first cell and text fragments in it
+// Obtenez l'accès à la première table de la page, à sa première cellule et aux fragments de texte qu'elle contient
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Change text of the first text fragment in the cell
+// Modifiez le texte du premier fragment de texte dans la cellule
 fragment.Text = "hi world";
 
-// Save document
+// Enregistrer le document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [TableAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Document) {#visit}
 
-Extrait des tables dans le document spécifié.
+Extrait les tables du document spécifié.
 
 ```csharp
 public void Visit(Document pdf)
@@ -61,35 +61,37 @@ public void Visit(Document pdf)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pdf | Document | Objet de document Pdf. |
+| pdf | Document | Objet Pdf pocument. |
 
 ## Exemples
 
-L'exemple démontre comment extraire une table sur la première page du document PDF.
+L'exemple montre comment extraire une table sur la première page du document PDF.
 
 ```csharp
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TableAbsorber object to find tables
+// Créez un objet TableAbsorber pour trouver des tables
 TableAbsorber absorber = new TableAbsorber();
 
-// Visit first page with absorber
+// Visitez la première page avec l'absorbeur
 absorber.Visit(doc);
 
-// Get access to first table on page, their first cell and text fragments in it
+// Obtenez l'accès à la première table de la page, à sa première cellule et aux fragments de texte qu'elle contient
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Change text of the first text fragment in the cell
+// Modifiez le texte du premier fragment de texte dans la cellule
 fragment.Text = "hi world";
 
-// Save document
+// Enregistrer le document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [TableAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

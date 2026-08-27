@@ -1,14 +1,14 @@
 ---
-title: Document.OptimizeResources
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Optimiser les ressources dans le document 1. Les ressources qui ne sont pas utilisées sur les pages du document sont supprimées 2. Les ressources égales sont regroupées en un seul objet 3. Les objets non utilisés sont supprimés
+title: "Document.OptimizeResources"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Document. Optimiser les ressources du document 1. Les ressources qui ne sont pas utilisées sur les pages du document sont supprimées 2. Les ressources égales sont regroupées en un seul objet 3. Les objets inutilisés sont supprimés"
 type: docs
-weight: 760
+weight: 780
 url: /fr/net/aspose.pdf/document/optimizeresources/
 ---
 ## OptimizeResources() {#optimizeresources}
 
-Optimiser les ressources dans le document : 1. Les ressources qui ne sont pas utilisées sur les pages du document sont supprimées ; 2. Les ressources égales sont regroupées en un seul objet ; 3. Les objets non utilisés sont supprimés.
+Optimiser les ressources du document : 1. Les ressources qui ne sont pas utilisées sur les pages du document sont supprimées ; 2. Les ressources identiques sont fusionnées en un seul objet ; 3. Les objets inutilisés sont supprimés.
 
 ```csharp
 public void OptimizeResources()
@@ -16,15 +16,15 @@ public void OptimizeResources()
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OptimizeResources(OptimizationOptions) {#optimizeresources_1}
 
-Optimiser les ressources dans le document selon la stratégie d'optimisation définie.
+Optimiser les ressources du document selon la stratégie d'optimisation définie.
 
 ```csharp
 public void OptimizeResources(OptimizationOptions strategy)
@@ -32,11 +32,13 @@ public void OptimizeResources(OptimizationOptions strategy)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| strategy | OptimizationOptions | Stratégie d'optimisation. |
+| stratégie | OptimizationOptions | Stratégie d'optimisation. |
 
 ### Voir aussi
 
-* classe [OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpPdfAExtensionValueType. Renvoie la liste des éléments xml qui représentent le type de valeur dans l'arbre xml
+title: "XmpPdfAExtensionValueType.GetXml"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpPdfAExtensionValueType. Retourne la liste des éléments xml qui représentent le type de valeur dans l'arbre xml"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/xmppdfaextensionvaluetype/getxml/
 ---
-## Méthode XmpPdfAExtensionValueType.GetXml
+## XmpPdfAExtensionValueType.GetXml method
 
 Renvoie la liste des éléments xml qui représentent le type de valeur dans l'arbre xml.
 
@@ -24,6 +24,8 @@ La liste des éléments xml.
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionValueType](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

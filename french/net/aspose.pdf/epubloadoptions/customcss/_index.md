@@ -1,14 +1,14 @@
 ---
-title: EpubLoadOptions.CustomCss
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété EpubLoadOptions. Obtient ou définit le Css personnalisé à appliquer lors de l'ouverture du document Epub
+title: "EpubLoadOptions.CustomCss"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété EpubLoadOptions. Obtient ou définit le CSS personnalisé à appliquer lors de l'ouverture du document Epub"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/epubloadoptions/customcss/
 ---
-## Propriété EpubLoadOptions.CustomCss
+## EpubLoadOptions.CustomCss property
 
-Obtient ou définit le Css personnalisé à appliquer lors de l'ouverture du document Epub.
+Obtient ou définit le CSS personnalisé à appliquer lors de l’ouverture du document Epub.
 
 ```csharp
 public string CustomCss { get; set; }
@@ -16,6 +16,8 @@ public string CustomCss { get; set; }
 
 ### Voir aussi
 
-* classe [EpubLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [EpubLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

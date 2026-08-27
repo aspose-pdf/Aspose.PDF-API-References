@@ -1,12 +1,12 @@
 ---
-title: VectorStoreListQueryParameters.VectorStoreListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de VectorStoreListQueryParameters. Le constructeur par défaut
+title: "VectorStoreListQueryParameters.VectorStoreListQueryParameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "VectorStoreListQueryParameters constructor. Le constructeur par défaut."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/vectorstorelistqueryparameters/vectorstorelistqueryparameters/
 ---
-## Constructeur de VectorStoreListQueryParameters
+## VectorStoreListQueryParameters constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public VectorStoreListQueryParameters()
 
 ### Voir aussi
 
-* classe [VectorStoreListQueryParameters](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

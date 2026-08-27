@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunResponse. Obtient ou définit le statut de l'exécution qui peut être soit en attente, en cours, nécessite une action, annulation, annulé, échoué, terminé, incomplet ou expiré
+title: "RunResponse.Status"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunResponse. Obtient ou définit le statut du run qui peut être soit queued, in_progress, requires_action, cancelling, cancelled, failed, completed, incomplete ou expired"
 type: docs
 weight: 200
 url: /fr/net/aspose.pdf.ai/runresponse/status/
 ---
-## Propriété RunResponse.Status
+## RunResponse.Status property
 
-Obtient ou définit le statut de l'exécution, qui peut être soit en attente, en cours, nécessite une action, annulation, annulé, échoué, terminé, incomplet ou expiré.
+Obtient ou définit l'état du run, qui peut être soit queued, in_progress, requires_action, cancelling, cancelled, failed, completed, incomplete ou expired.
 
 ```csharp
 public string Status { get; set; }
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### Voir aussi
 
-* classe [RunResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

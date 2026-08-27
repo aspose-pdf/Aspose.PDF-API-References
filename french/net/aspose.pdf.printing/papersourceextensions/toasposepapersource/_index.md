@@ -1,14 +1,14 @@
 ---
-title: PaperSourceExtensions.ToAsposePaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PaperSourceExtensions. Convertit System.Drawing.Printing.PaperSource spécifique à Windows en PaperSource
+title: "PaperSourceExtensions.ToAsposePaperSource"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PaperSourceExtensions. Convertit le System.Drawing.Printing.PaperSource spécifique à Windows en PaperSource."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.printing/papersourceextensions/toasposepapersource/
 ---
-## Méthode PaperSourceExtensions.ToAsposePaperSource
+## PaperSourceExtensions.ToAsposePaperSource method
 
-Convertit System.Drawing.Printing.PaperSource spécifique à Windows en [`PaperSource`](../../papersource/).
+Convertit le System.Drawing.Printing.PaperSource spécifique à Windows en [`PaperSource`](../../papersource/).
 
 ```csharp
 public static PaperSource ToAsposePaperSource(this PaperSource nativeSource)
@@ -24,7 +24,9 @@ Source de papier convertie.
 
 ### Voir aussi
 
-* classe [PaperSource](../../papersource/)
-* classe [PaperSourceExtensions](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSource](../../papersource/)
+* class [PaperSourceExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

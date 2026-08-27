@@ -1,14 +1,14 @@
 ---
-title: CancellationTokenExtensions.NoneIfNull
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CancellationTokenExtensions. Renvoie CancellationToken.None si le CancellationToken d'entrée est nul, sinon renvoie le CancellationToken d'entrée
+title: "CancellationTokenExtensions.NoneIfNull"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CancellationTokenExtensions. Retourne CancellationToken.None si le CancellationToken d'entrée est nul, sinon retourne le CancellationToken d'entrée"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/cancellationtokenextensions/noneifnull/
 ---
-## Méthode CancellationTokenExtensions.NoneIfNull
+## CancellationTokenExtensions.NoneIfNull method
 
-Renvoie CancellationToken.None si le CancellationToken d'entrée est nul ; sinon, renvoie le CancellationToken d'entrée.
+Renvoie CancellationToken.None si le CancellationToken d'entrée est null ; sinon, renvoie le CancellationToken d'entrée.
 
 ```csharp
 public static CancellationToken NoneIfNull(this CancellationToken? cancellationToken)
@@ -20,10 +20,12 @@ public static CancellationToken NoneIfNull(this CancellationToken? cancellationT
 
 ### Valeur de retour
 
-La valeur CancellationToken basée sur l'entrée.
+La valeur du CancellationToken basée sur l'entrée.
 
 ### Voir aussi
 
-* classe [CancellationTokenExtensions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CancellationTokenExtensions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

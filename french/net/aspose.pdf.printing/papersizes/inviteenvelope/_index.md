@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.InviteEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Enveloppe d'invitation 220 mm par 220 mm
+title: "PaperSizes.InviteEnvelope"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Enveloppe d'invitation 220 mm par 220 mm"
 type: docs
 weight: 450
 url: /fr/net/aspose.pdf.printing/papersizes/inviteenvelope/
 ---
-## Champ PaperSizes.InviteEnvelope
+## PaperSizes.InviteEnvelope field
 
-Enveloppe d'invitation (220 mm par 220 mm).
+Enveloppe d’invitation (220 mm par 220 mm).
 
 ```csharp
 public static readonly PaperSize InviteEnvelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize InviteEnvelope;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: FontRepository.FindFont
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FontRepository. Recherche et renvoie la police avec le nom de police spécifié
+title: "FontRepository.FindFont"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FontRepository. Recherche et renvoie la police avec le nom de police spécifié"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.text/fontrepository/findfont/
@@ -16,33 +16,33 @@ public static Font FindFont(string fontName)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fontName | String | Nom de la police. |
+| fontName | String | Nom de police. |
 
 ### Valeur de retour
 
-Objet Font.
+Objet de police.
 
 ## Exemples
 
-L'exemple démontre comment trouver une police et remplacer la police du texte de la première page.
+L'exemple montre comment trouver une police et remplacer la police du texte de la première Page.
 
 ```csharp
-// Find font
+// Trouver la police
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Créer l'objet TextFragmentAbsorber pour trouver toutes les occurrences du texte "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accepter l'absorbeur pour la première page
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Modifier la police de la première occurrence de texte
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Enregistrer le document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
@@ -65,34 +65,34 @@ public static Font FindFont(string fontName, bool ignoreCase)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fontName | String | Nom de la police. |
+| fontName | String | Nom de police. |
 | ignoreCase | Boolean | sensibilité à la casse |
 
 ### Valeur de retour
 
-Objet Font.
+Objet de police.
 
 ## Exemples
 
-L'exemple démontre comment trouver une police et remplacer la police du texte de la première page.
+L'exemple montre comment trouver une police et remplacer la police du texte de la première Page.
 
 ```csharp
-// Find font
+// Trouver la police
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Créer l'objet TextFragmentAbsorber pour trouver toutes les occurrences du texte "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accepter l'absorbeur pour la première page
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Modifier la police de la première occurrence de texte
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Enregistrer le document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
@@ -107,7 +107,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles) {#findfont_1}
 
-Recherche et renvoie la police avec le nom de police spécifié et le style de police.
+Recherche et renvoie la police avec le nom de police et le style de police spécifiés.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl)
@@ -115,34 +115,34 @@ public static Font FindFont(string fontFamilyName, FontStyles stl)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fontFamilyName | String | Nom de la famille de polices. |
+| fontFamilyName | String | Nom de famille de police. |
 | stl | FontStyles | Valeur du style de police. |
 
 ### Valeur de retour
 
-Objet Font correspondant aux paramètres de la demande de recherche.
+Objet de police correspondant aux paramètres de la requête de recherche.
 
 ## Exemples
 
-L'exemple démontre comment trouver une police et remplacer la police du texte de la première page.
+L'exemple montre comment trouver une police et remplacer la police du texte de la première Page.
 
 ```csharp
-// Find font
+// Trouver la police
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// Créer l'objet TextFragmentAbsorber pour trouver toutes les occurrences de texte "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accepter l'absorbeur pour la première page
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// Modifier la police de la première occurrence de texte
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Enregistrer le document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
@@ -158,7 +158,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-Recherche et renvoie la police avec le nom de police spécifié et le style de police en ignorant ou en respectant la sensibilité à la casse.
+Recherche et renvoie la police avec le nom de police et le style de police spécifiés en ignorant ou en respectant la sensibilité à la casse.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
@@ -166,35 +166,35 @@ public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCa
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fontFamilyName | String | Nom de la famille de polices. |
+| fontFamilyName | String | Nom de famille de police. |
 | stl | FontStyles | Valeur du style de police. |
 | ignoreCase | Boolean | sensibilité à la casse |
 
 ### Valeur de retour
 
-Objet Font correspondant aux paramètres de la demande de recherche.
+Objet de police correspondant aux paramètres de la requête de recherche.
 
 ## Exemples
 
-L'exemple démontre comment trouver une police et remplacer la police du texte de la première page.
+L'exemple montre comment trouver une police et remplacer la police du texte de la première Page.
 
 ```csharp
-// Find font
+// Trouver la police
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// Créer l'objet TextFragmentAbsorber pour trouver toutes les occurrences de texte "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accepter l'absorbeur pour la première page
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// Modifier la police de la première occurrence de texte
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Enregistrer le document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
@@ -205,3 +205,5 @@ doc.Save(@"D:\Tests\output.pdf");
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

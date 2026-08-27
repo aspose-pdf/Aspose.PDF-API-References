@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormFieldFacade. La couleur d'un fond de champ par défaut est blanche
+title: "FormFieldFacade.BackgroundColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FormFieldFacade. La couleur d'arrière-plan d'un champ, la valeur par défaut est blanc"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/formfieldfacade/backgroundcolor/
 ---
-## Propriété FormFieldFacade.BackgroundColor
+## FormFieldFacade.BackgroundColor property
 
-La couleur d'un fond de champ, par défaut est blanche.
+La couleur de l'arrière‑plan d'un champ, la valeur par défaut est blanc.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,6 +16,8 @@ public Color BackgroundColor { get; set; }
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

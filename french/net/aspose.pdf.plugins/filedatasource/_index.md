@@ -1,14 +1,14 @@
 ---
-title: Class FileDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FileDataSource. Représente la source de données de fichier pour les opérations de chargement et de sauvegarde d'un plugin
+title: "Classe FileDataSource"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.FileDataSource. Représente la source de données de fichier pour les opérations de chargement et d’enregistrement d’un plugin."
 type: docs
-weight: 8550
+weight: 8680
 url: /fr/net/aspose.pdf.plugins/filedatasource/
 ---
-## Classe FileDataSource
+## FileDataSource class
 
-Représente la source de données de fichier pour les opérations de chargement et de sauvegarde d'un plugin.
+Représente la source de données de fichier pour les opérations de chargement et d'enregistrement d'un plugin.
 
 ```csharp
 public sealed class FileDataSource : IDataSource
@@ -18,17 +18,19 @@ public sealed class FileDataSource : IDataSource
 
 | Nom | Description |
 | --- | --- |
-| [FileDataSource](filedatasource/)(string) | Initialise une nouvelle source de données de fichier avec le chemin spécifié. |
+| [FileDataSource](filedatasource/)(string) | Initialise une nouvelle source de données fichier avec le chemin spécifié. |
 
 ## Propriétés
 
 | Nom | Description |
 | --- | --- |
 | [DataType](../../aspose.pdf.plugins/filedatasource/datatype/) { get; } | Type de source de données (fichier). |
-| [Path](../../aspose.pdf.plugins/filedatasource/path/) { get; } | Obtient le chemin vers le fichier de la source de données actuelle. |
+| [Path](../../aspose.pdf.plugins/filedatasource/path/) { get; } | Obtient le chemin du fichier de la source de données actuelle. |
 
 ### Voir aussi
 
 * interface [IDataSource](../idatasource/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

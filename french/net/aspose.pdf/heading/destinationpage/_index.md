@@ -1,12 +1,12 @@
 ---
-title: Heading.DestinationPage
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Heading. Obtient la page de destination
+title: "Heading.DestinationPage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Heading. Obtient la page de destination."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/heading/destinationpage/
 ---
-## Propriété Heading.DestinationPage
+## Heading.DestinationPage property
 
 Obtient la page de destination.
 
@@ -16,7 +16,9 @@ public Page DestinationPage { get; set; }
 
 ### Voir aussi
 
-* classe [Page](../../page/)
-* classe [Heading](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

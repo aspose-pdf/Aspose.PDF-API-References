@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableCellElement. Obtient ou définit la couleur de fond de la cellule
+title: "TableCellElement.BackgroundColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "TableCellElement propriété. Obtient ou définit la couleur d'arrière-plan de la cellule"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.logicalstructure/tablecellelement/backgroundcolor/
 ---
-## Propriété TableCellElement.BackgroundColor
+## TableCellElement.BackgroundColor property
 
-Obtient ou définit la couleur de fond de la cellule.
+Obtient ou définit la couleur d’arrière‑plan de la cellule.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### Voir aussi
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [TableCellElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Color](../../../aspose.pdf/color/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

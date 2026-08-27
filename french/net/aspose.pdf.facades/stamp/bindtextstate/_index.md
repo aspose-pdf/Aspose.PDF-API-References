@@ -1,14 +1,14 @@
 ---
-title: Stamp.BindTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Stamp. Définit l'état du texte du texte du tampon
+title: "Stamp.BindTextState"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Stamp. Définit l'état du texte du tampon"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.facades/stamp/bindtextstate/
 ---
-## Méthode Stamp.BindTextState
+## Stamp.BindTextState method
 
-Définit l'état du texte du texte du tampon.
+Définit l'état du texte du tampon.
 
 ```csharp
 public void BindTextState(TextState textState)
@@ -20,7 +20,9 @@ public void BindTextState(TextState textState)
 
 ### Voir aussi
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

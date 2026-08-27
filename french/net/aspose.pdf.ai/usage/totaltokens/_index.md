@@ -1,14 +1,14 @@
 ---
-title: Usage.TotalTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'utilisation. Obtient ou définit le nombre total de jetons utilisés dans la demande invite + complétion
+title: "Usage.TotalTokens"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Usage. Obtient ou définit le nombre total de jetons utilisés dans la requête d'invite et de complétion"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/usage/totaltokens/
 ---
-## Propriété Usage.TotalTokens
+## Usage.TotalTokens property
 
-Obtient ou définit le nombre total de jetons utilisés dans la demande (invite + complétion).
+Obtient ou définit le nombre total de jetons utilisés dans la requête (invite + complétion).
 
 ```csharp
 public int TotalTokens { get; set; }
@@ -16,6 +16,8 @@ public int TotalTokens { get; set; }
 
 ### Voir aussi
 
-* classe [Usage](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Usage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

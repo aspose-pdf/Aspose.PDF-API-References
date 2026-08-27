@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignatureCustomAppearance. Obtient ou définit la rotation de la signature
+title: "SignatureCustomAppearance.Rotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SignatureCustomAppearance. Obtient ou définit la rotation de la signature"
 type: docs
-weight: 150
+weight: 160
 url: /fr/net/aspose.pdf.forms/signaturecustomappearance/rotation/
 ---
-## Propriété SignatureCustomAppearance.Rotation
+## SignatureCustomAppearance.Rotation property
 
 Obtient ou définit la rotation de la signature.
 
@@ -20,3 +20,5 @@ public Rotation Rotation { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.Honeydew
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de couleur. Obtient une couleur définie par le système qui a une valeur ARGB de c FFF0FFF0
+title: "Color.Honeydew"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Color. Obtient une couleur définie par le système qui a une valeur ARGB de c FFF0FFF0"
 type: docs
 weight: 550
 url: /fr/net/aspose.pdf/color/honeydew/
 ---
-## Propriété Color.Honeydew
+## Color.Honeydew property
 
 Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFF0FFF0.
 
@@ -16,10 +16,12 @@ public static Color Honeydew { get; }
 
 ### Valeur de retour
 
-Un représentant une couleur définie par le système.
+A représentant une couleur définie par le système.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

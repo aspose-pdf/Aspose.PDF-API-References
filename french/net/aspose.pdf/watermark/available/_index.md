@@ -1,14 +1,14 @@
 ---
-title: Watermark.Available
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Watermark. Obtient un indicateur que le filigrane est présent
+title: "Watermark.Available"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Watermark. Obtient un indicateur indiquant que le filigrane est présent"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/watermark/available/
 ---
-## Propriété Watermark.Disponible
+## Watermark.Available property
 
-Obtient un indicateur que le filigrane est présent.
+Obtient un indicateur indiquant que le filigrane est présent.
 
 ```csharp
 public bool Available { get; }
@@ -16,6 +16,8 @@ public bool Available { get; }
 
 ### Voir aussi
 
-* classe [Watermark](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

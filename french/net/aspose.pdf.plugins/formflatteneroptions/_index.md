@@ -1,14 +1,14 @@
 ---
-title: Class FormFlattenerOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FormFlattenerOptions. Classe de base pour les classes d'options pour aplatir les champs dans le document par le plugin FormFlattener
+title: "Classe FormFlattenerOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Plugins.FormFlattenerOptions class. Classe de base pour les classes d'options d'aplatissement des champs, pas des annotations, dans le document par le plugin FormFlattener"
 type: docs
-weight: 8760
+weight: 8890
 url: /fr/net/aspose.pdf.plugins/formflatteneroptions/
 ---
-## Classe FormFlattenerOptions
+## FormFlattenerOptions class
 
-Classe de base pour les classes d'options pour aplatir les champs (pas les annotations) dans le document par le plugin FormFlattener.
+Classe de base pour les classes d'options d'aplatissement des champs (pas les annotations) dans le document via le plugin FormFlattener.
 
 ```csharp
 public abstract class FormFlattenerOptions : FormOptions
@@ -19,7 +19,7 @@ public abstract class FormFlattenerOptions : FormOptions
 | Nom | Description |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Renvoie la collection de données des plugins Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour les résultats des opérations de sauvegarde. |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
 
 ## Méthodes
 
@@ -30,6 +30,8 @@ public abstract class FormFlattenerOptions : FormOptions
 
 ### Voir aussi
 
-* classe [FormOptions](../formoptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [FormOptions](../formoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

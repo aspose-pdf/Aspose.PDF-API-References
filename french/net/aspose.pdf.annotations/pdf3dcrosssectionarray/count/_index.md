@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSectionArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DCrossSectionArray. Obtient le nombre de sections transversales
+title: "PDF3DCrossSectionArray.Count"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PDF3DCrossSectionArray propriété. Obtient le nombre de sections transversales"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/pdf3dcrosssectionarray/count/
 ---
-## Propriété PDF3DCrossSectionArray.Count
+## PDF3DCrossSectionArray.Count property
 
 Obtient le nombre de sections transversales.
 
@@ -14,12 +14,14 @@ Obtient le nombre de sections transversales.
 public int Count { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nombre de sections transversales.
 
 ### Voir aussi
 
-* classe [PDF3DCrossSectionArray](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

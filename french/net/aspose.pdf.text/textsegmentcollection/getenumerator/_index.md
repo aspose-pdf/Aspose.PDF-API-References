@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextSegmentCollection. Renvoie un énumérateur pour l'ensemble de la collection
+title: "TextSegmentCollection.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextSegmentCollection. Retourne un énumérateur pour l'ensemble de la collection"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.text/textsegmentcollection/getenumerator/
 ---
-## Méthode TextSegmentCollection.GetEnumerator
+## TextSegmentCollection.GetEnumerator method
 
-Renvoie un énumérateur pour l'ensemble de la collection.
+Renvoie un énumérateur pour l'intégralité de la collection.
 
 ```csharp
 public IEnumerator<TextSegment> GetEnumerator()
@@ -20,7 +20,9 @@ Objet énumérateur.
 
 ### Voir aussi
 
-* classe [TextSegment](../../textsegment/)
-* classe [TextSegmentCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CosPdfPrimitive.ToCosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CosPdfPrimitive. Essaie de convertir cette instance en CosPdfNumber
+title: "CosPdfPrimitive.ToCosPdfNumber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CosPdfPrimitive. Tente de convertir cette instance en CosPdfNumber"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/
 ---
-## Méthode CosPdfPrimitive.ToCosPdfNumber
+## CosPdfPrimitive.ToCosPdfNumber method
 
-Essaie de convertir cette instance en [`CosPdfNumber`](../../cospdfnumber/).
+Essaye de convertir cette instance en [`CosPdfNumber`](../../cospdfnumber/).
 
 ```csharp
 public virtual CosPdfNumber ToCosPdfNumber()
@@ -16,11 +16,13 @@ public virtual CosPdfNumber ToCosPdfNumber()
 
 ### Valeur de retour
 
-null si l'instance n'est pas un [`CosPdfNumber`](../../cospdfnumber/) sinon un [`CosPdfNumber`](../../cospdfnumber/).
+null si l'instance n'est pas [`CosPdfNumber`](../../cospdfnumber/) sinon [`CosPdfNumber`](../../cospdfnumber/).
 
 ### Voir aussi
 
-* classe [CosPdfNumber](../../cospdfnumber/)
-* classe [CosPdfPrimitive](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [CosPdfNumber](../../cospdfnumber/)
+* class [CosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

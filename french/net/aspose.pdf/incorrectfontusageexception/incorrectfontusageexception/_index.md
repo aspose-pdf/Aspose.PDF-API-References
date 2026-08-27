@@ -1,7 +1,7 @@
 ---
-title: IncorrectFontUsageException.IncorrectFontUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de IncorrectFontUsageException. Initialise une nouvelle instance de la classe IncorrectFontUsageException
+title: "IncorrectFontUsageException.IncorrectFontUsageException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur IncorrectFontUsageException. Initialise une nouvelle instance de la classe IncorrectFontUsageException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/incorrectfontusageexception/incorrectfontusageexception/
@@ -20,8 +20,8 @@ public IncorrectFontUsageException(string message)
 
 ### Voir aussi
 
-* classe [IncorrectFontUsageException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [IncorrectFontUsageException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,8 +41,8 @@ public IncorrectFontUsageException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [IncorrectFontUsageException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [IncorrectFontUsageException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -61,6 +61,8 @@ public IncorrectFontUsageException(Exception innerException)
 
 ### Voir aussi
 
-* classe [IncorrectFontUsageException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [IncorrectFontUsageException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

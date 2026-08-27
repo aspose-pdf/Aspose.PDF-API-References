@@ -1,7 +1,7 @@
 ---
-title: TextBuilder.AppendText
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextBuilder. Ajoute un fragment de texte à la page Pdf
+title: "TextBuilder.AppendText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextBuilder. Ajoute un fragment de texte à la page Pdf"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/textbuilder/appendtext/
@@ -20,35 +20,35 @@ public void AppendText(TextFragment textFragment)
 
 ## Exemples
 
-L'exemple démontre comment créer un objet fragment de texte, personnaliser ses segments de texte et l'ajouter à la page Pdf.
+L'exemple montre comment créer un objet fragment de texte, personnaliser ses segments de texte et l'ajouter à la page Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-// create text fragment
+// créer un fragment de texte
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// set it's text properties
+// définir ses propriétés de texte
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-// add one more segment to text fragment's Segments collection
+// ajouter un segment supplémentaire à la collection Segments du fragment de texte
 TextSegment segment2 = new TextSegment();
 segment2.Text = "another segment";
 
 tf.Segments.Add(segment2);
 
-// create TextBuilder object
+// créer un objet TextBuilder
 TextBuilder builder = new TextBuilder(page);
 
-// append the text fragment to the Pdf page
+// ajouter le fragment de texte à la page Pdf
 builder.AppendText(tf);
 
-//save document
+//enregistrez le document
 doc.Save(outFile);
 ```
 
@@ -79,3 +79,5 @@ public void AppendText(List<TextFragment> textFragments)
 * class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

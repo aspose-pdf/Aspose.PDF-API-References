@@ -1,12 +1,12 @@
 ---
-title: TextState.ApplyChangesFrom
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextState. Applique les paramètres d'un autre textState
+title: "TextState.ApplyChangesFrom"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextState. Applique les paramètres d'un autre TextState."
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.text/textstate/applychangesfrom/
 ---
-## Méthode TextState.ApplyChangesFrom
+## TextState.ApplyChangesFrom method
 
 Applique les paramètres d'un autre textState.
 
@@ -24,6 +24,8 @@ Seules les propriétés qui ont été modifiées explicitement seront copiées.
 
 ### Voir aussi
 
-* classe [TextState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

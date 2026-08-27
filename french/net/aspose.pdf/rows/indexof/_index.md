@@ -1,12 +1,12 @@
 ---
-title: Rows.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Rows. Renvoie l'index de la ligne dans la collection
+title: "Rows.IndexOf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Rows. Retourne l'index de la ligne dans la collection"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/rows/indexof/
 ---
-## Méthode Rows.IndexOf
+## Rows.IndexOf method
 
 Renvoie l'index de la ligne dans la collection.
 
@@ -24,7 +24,9 @@ L'index de la ligne
 
 ### Voir aussi
 
-* classe [Row](../../row/)
-* classe [Rows](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

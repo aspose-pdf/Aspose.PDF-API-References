@@ -1,12 +1,12 @@
 ---
-title: RegexManager.MatchTimeout
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RegexManager. Obtient ou définit le délai d'attente pour les opérations Regex dans toute la bibliothèque. La valeur par défaut est de 1000 ms
+title: "RegexManager.MatchTimeout"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RegexManager. Obtient ou définit le délai d'attente pour les opérations Regex dans toute la bibliothèque. La valeur par défaut est de 1000 ms"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/regexmanager/matchtimeout/
 ---
-## Propriété RegexManager.MatchTimeout
+## RegexManager.MatchTimeout property
 
 Obtient ou définit le délai d'attente pour les opérations Regex dans toute la bibliothèque. La valeur par défaut est de 1000 ms.
 
@@ -14,12 +14,14 @@ Obtient ou définit le délai d'attente pour les opérations Regex dans toute la
 public static TimeSpan MatchTimeout { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Un TimeSpan représentant la durée par défaut du délai d'attente.
+Un TimeSpan représentant la durée du délai d'attente par défaut.
 
 ### Voir aussi
 
-* classe [RegexManager](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [RegexManager](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

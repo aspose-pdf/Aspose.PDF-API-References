@@ -1,12 +1,12 @@
 ---
-title: SetCharWidth.SetCharWidth
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidth constructor. Constructor
+title: "SetCharWidth.SetCharWidth"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SetCharWidth. Constructeur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/setcharwidth/setcharwidth/
 ---
-## Constructeur SetCharWidth
+## SetCharWidth constructor
 
 Constructeur.
 
@@ -21,6 +21,8 @@ public SetCharWidth(double wx, double wy)
 
 ### Voir aussi
 
-* classe [SetCharWidth](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetCharWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

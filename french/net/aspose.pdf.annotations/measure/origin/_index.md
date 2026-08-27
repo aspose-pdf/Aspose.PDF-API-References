@@ -1,14 +1,14 @@
 ---
-title: Measure.Origin
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Measure. Point qui doit spécifier l'origine du système de coordonnées de mesure dans les coordonnées de l'espace utilisateur par défaut
+title: "Measure.Origin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Measure. Point qui doit spécifier l'origine du système de coordonnées de mesure dans les coordonnées d'espace utilisateur par défaut."
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.annotations/measure/origin/
 ---
-## Propriété Measure.Origin
+## Measure.Origin property
 
-Point qui doit spécifier l'origine du système de coordonnées de mesure dans les coordonnées de l'espace utilisateur par défaut.
+Point qui doit spécifier l'origine du système de coordonnées de mesure dans les coordonnées d'espace utilisateur par défaut.
 
 ```csharp
 public Point Origin { get; set; }
@@ -16,7 +16,9 @@ public Point Origin { get; set; }
 
 ### Voir aussi
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [Measure](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Point](../../../aspose.pdf/point/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

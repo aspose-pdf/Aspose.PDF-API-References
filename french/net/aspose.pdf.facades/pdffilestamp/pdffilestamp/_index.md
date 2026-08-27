@@ -1,7 +1,7 @@
 ---
-title: PdfFileStamp.PdfFileStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PdfFileStamp. Le fichier d'entrée et le fichier de sortie peuvent être spécifiés via les propriétés correspondantes.
+title: "PdfFileStamp.PdfFileStamp"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileStamp constructeur. Constructeur du PdfFileStamp. Le fichier d'entrée et le fichier de sortie peuvent être spécifiés via les propriétés correspondantes"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/pdffilestamp/pdffilestamp/
@@ -22,15 +22,15 @@ public PdfFileStamp()
 
 ### Voir aussi
 
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfFileStamp(Document) {#constructor_1}
 
-Initialise un nouvel objet [`PdfFileStamp`](../) basé sur le *document*.
+Initialise un nouvel objet [`PdfFileStamp`](../) à partir du *document*.
 
 ```csharp
 public PdfFileStamp(Document document)
@@ -42,7 +42,9 @@ public PdfFileStamp(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum AutoRotateMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Facades.AutoRotateMode. Direction de la rotation lors de l'impression du document
+title: "Enum AutoRotateMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.AutoRotateMode enum. Direction de la rotation lors de l'impression du document"
 type: docs
-weight: 4160
+weight: 4280
 url: /fr/net/aspose.pdf.facades/autorotatemode/
 ---
-## Énumération AutoRotateMode
+## AutoRotateMode enumeration
 
 Direction de la rotation lors de l'impression du document.
 
@@ -18,11 +18,13 @@ public enum AutoRotateMode
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Aucun | `0` | Pas de rotation. |
-| Horaire | `1` | La direction de la rotation est horaire. |
-| Antihoraire | `2` | La direction de la rotation est antihoraire. |
+| None | `0` | Pas de rotation. |
+| ClockWise | `1` | Le sens de rotation est dans le sens des aiguilles d'une montre. |
+| AntiClockWise | `2` | Le sens de rotation est dans le sens inverse des aiguilles d'une montre. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.PageLayout
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Obtient ou définit la mise en page qui sera utilisée lorsque le document est ouvert
+title: "Document.PageLayout"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Document propriété. Obtient ou définit la mise en page qui doit être utilisée lorsque le document est ouvert"
 type: docs
-weight: 450
+weight: 470
 url: /fr/net/aspose.pdf/document/pagelayout/
 ---
-## Propriété Document.PageLayout
+## Document.PageLayout property
 
-Obtient ou définit la mise en page qui sera utilisée lorsque le document est ouvert.
+Obtient ou définit la mise en page qui doit être utilisée lorsque le document est ouvert.
 
 ```csharp
 public PageLayout PageLayout { get; set; }
@@ -20,3 +20,5 @@ public PageLayout PageLayout { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

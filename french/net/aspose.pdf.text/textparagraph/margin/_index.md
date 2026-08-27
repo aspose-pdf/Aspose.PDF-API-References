@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextParagraph. Obtient ou définit le remplissage
+title: "TextParagraph.Margin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextParagraph. Obtient ou définit le remplissage"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.text/textparagraph/margin/
 ---
-## Propriété TextParagraph.Margin
+## TextParagraph.Margin property
 
 Obtient ou définit le remplissage.
 
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### Voir aussi
 
-* classe [MarginInfo](../../../aspose.pdf/margininfo/)
-* classe [TextParagraph](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

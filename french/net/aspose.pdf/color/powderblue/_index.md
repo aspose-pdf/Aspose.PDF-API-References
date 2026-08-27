@@ -1,12 +1,12 @@
 ---
-title: Color.PowderBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de couleur. Obtient une couleur définie par le système qui a une valeur ARGB de c FFB0E0E6
+title: "Color.PowderBlue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Color. Obtient une couleur prédéfinie dont la valeur ARGB est c FFB0E0E6"
 type: docs
 weight: 1130
 url: /fr/net/aspose.pdf/color/powderblue/
 ---
-## Propriété Color.PowderBlue
+## Color.PowderBlue property
 
 Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFB0E0E6.
 
@@ -16,10 +16,12 @@ public static Color PowderBlue { get; }
 
 ### Valeur de retour
 
-Représentant une couleur définie par le système.
+A représentant une couleur définie par le système.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

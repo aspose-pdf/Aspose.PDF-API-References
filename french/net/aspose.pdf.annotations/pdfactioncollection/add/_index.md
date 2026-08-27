@@ -1,14 +1,14 @@
 ---
-title: PdfActionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfActionCollection. Ajouter une action à la liste des actions
+title: "PdfActionCollection.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfActionCollection. Ajoute une action à la liste des actions"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/pdfactioncollection/add/
 ---
-## Méthode PdfActionCollection.Add
+## PdfActionCollection.Add method
 
-Ajouter une action à la liste des actions.
+Ajoute une action à la liste des actions.
 
 ```csharp
 public void Add(PdfAction action)
@@ -20,7 +20,9 @@ public void Add(PdfAction action)
 
 ### Voir aussi
 
-* classe [PdfAction](../../pdfaction/)
-* classe [PdfActionCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

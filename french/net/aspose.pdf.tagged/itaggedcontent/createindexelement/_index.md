@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateIndexElement
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITaggedContent. Crée IndexElement
+title: "ITaggedContent.CreateIndexElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ITaggedContent méthode. Crée IndexElement"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/createindexelement/
 ---
-## Méthode ITaggedContent.CreateIndexElement
+## ITaggedContent.CreateIndexElement method
 
 Crée [`IndexElement`](../../../aspose.pdf.logicalstructure/indexelement/).
 
@@ -20,7 +20,9 @@ public IndexElement CreateIndexElement()
 
 ### Voir aussi
 
-* classe [IndexElement](../../../aspose.pdf.logicalstructure/indexelement/)
+* class [IndexElement](../../../aspose.pdf.logicalstructure/indexelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

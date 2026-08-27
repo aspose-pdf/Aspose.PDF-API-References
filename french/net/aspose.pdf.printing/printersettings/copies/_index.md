@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.Copies
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PrinterSettings. Obtient ou définit le nombre de copies à imprimer
+title: "PrinterSettings.Copies"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PrinterSettings. Obtient ou définit le nombre de copies à imprimer."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.printing/printersettings/copies/
 ---
-## Propriété PrinterSettings.Copies
+## PrinterSettings.Copies property
 
 Obtient ou définit le nombre de copies à imprimer.
 
@@ -16,6 +16,8 @@ public short Copies { get; set; }
 
 ### Voir aussi
 
-* classe [PrinterSettings](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AnnotationCollection. Vérifie si l'annotation spécifiée appartient à la collection
+title: "AnnotationCollection.Contains"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AnnotationCollection. Vérifie si l'annotation spécifiée appartient à la collection"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.annotations/annotationcollection/contains/
 ---
-## Méthode AnnotationCollection.Contains
+## AnnotationCollection.Contains method
 
 Vérifie si l'annotation spécifiée appartient à la collection.
 
@@ -24,7 +24,9 @@ Vrai - si l'annotation est trouvée ; sinon, faux.
 
 ### Voir aussi
 
-* classe [Annotation](../../annotation/)
-* classe [AnnotationCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

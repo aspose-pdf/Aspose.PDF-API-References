@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateFileAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Crée une annotation de fichier joint
+title: "PdfContentEditor.CreateFileAttachment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfContentEditor method. Crée une annotation de pièce jointe de fichier"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
 ---
 ## CreateFileAttachment(Rectangle, string, string, int, string) {#createfileattachment_2}
 
-Crée une annotation de fichier joint.
+Crée une annotation de pièce jointe de fichier.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
@@ -19,9 +19,9 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle d'annotation définissant l'emplacement de l'annotation sur la page. |
 | contents | String | Le contenu de l'annotation. |
-| filePath | String | Le chemin du fichier qui sera joint. |
-| page | Int32 | Le numéro de la page originale où l'annotation sera créée. |
-| name | String | Le nom d'une icône qui sera utilisée pour afficher l'annotation. Cette valeur peut être : "Graph", "PushPin", "Paperclip", "Tag". |
+| filePath | String | Le chemin du fichier sera joint. |
+| page | Int32 | Le numéro de la page d'origine où l'annotation sera créée. |
+| nom | String | Le nom d'une icône sera utilisé lors de l'affichage de l'annotation. Cette valeur peut être : "Graph", "PushPin", "Paperclip", "Tag". |
 
 ## Exemples
 
@@ -43,7 +43,7 @@ editor.Save("example_out.pdf");
 
 ## CreateFileAttachment(Rectangle, string, string, int, string, double) {#createfileattachment_3}
 
-Crée une annotation de fichier joint.
+Crée une annotation de pièce jointe de fichier.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
@@ -54,10 +54,10 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle d'annotation définissant l'emplacement de l'annotation sur la page. |
 | contents | String | Le contenu de l'annotation. |
-| filePath | String | Le chemin du fichier qui sera joint. |
-| page | Int32 | Le numéro de la page originale où l'annotation sera créée. |
-| name | String | Le nom d'une icône qui sera utilisée pour afficher l'annotation. Cette valeur peut être : "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | Opacité de l'icône de 0 à 1 : 0 - complètement transparent, 1 - complètement opaque. |
+| filePath | String | Le chemin du fichier sera joint. |
+| page | Int32 | Le numéro de la page d'origine où l'annotation sera créée. |
+| nom | String | Le nom d'une icône sera utilisé lors de l'affichage de l'annotation. Cette valeur peut être : "Graph", "PushPin", "Paperclip", "Tag". |
+| opacité | Double | Opacité de l'icône de 0 à 1 : 0 - complètement transparent, 1 - complètement opaque. |
 
 ## Exemples
 
@@ -79,7 +79,7 @@ editor.Save("example_out.pdf");
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string) {#createfileattachment}
 
-Crée une annotation de fichier joint.
+Crée une annotation de pièce jointe de fichier.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
@@ -90,10 +90,10 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle d'annotation définissant l'emplacement de l'annotation sur la page. |
 | contents | String | Le contenu de l'annotation. |
-| attachmentStream | Stream | Le flux de fichier joint. |
-| attachmentName | String | Le nom de l'attachement. |
-| page | Int32 | Le numéro de la page originale où l'annotation sera créée. |
-| name | String | Le nom d'une icône qui sera utilisée pour afficher l'annotation. Cette valeur peut être : "Graph", "PushPin", "Paperclip", "Tag". |
+| attachmentStream | Stream | Le flux du fichier de la pièce jointe. |
+| attachmentName | String | Le nom de la pièce jointe. |
+| page | Int32 | Le numéro de la page d'origine où l'annotation sera créée. |
+| nom | String | Le nom d'une icône sera utilisé lors de l'affichage de l'annotation. Cette valeur peut être : "Graph", "PushPin", "Paperclip", "Tag". |
 
 ## Exemples
 
@@ -118,7 +118,7 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string, double) {#createfileattachment_1}
 
-Crée une annotation de fichier joint.
+Crée une annotation de pièce jointe de fichier.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
@@ -129,11 +129,11 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle d'annotation définissant l'emplacement de l'annotation sur la page. |
 | contents | String | Le contenu de l'annotation. |
-| attachmentStream | Stream | Le flux de fichier joint. |
-| attachmentName | String | Le nom de l'attachement. |
-| page | Int32 | Le numéro de la page originale où l'annotation sera créée. |
-| name | String | Le nom d'une icône qui sera utilisée pour afficher l'annotation. Cette valeur peut être : "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | Opacité de l'icône de 0 à 1 : 0 - complètement transparent, 1 - complètement opaque. |
+| attachmentStream | Stream | Le flux du fichier de la pièce jointe. |
+| attachmentName | String | Le nom de la pièce jointe. |
+| page | Int32 | Le numéro de la page d'origine où l'annotation sera créée. |
+| nom | String | Le nom d'une icône sera utilisé lors de l'affichage de l'annotation. Cette valeur peut être : "Graph", "PushPin", "Paperclip", "Tag". |
+| opacité | Double | Opacité de l'icône de 0 à 1 : 0 - complètement transparent, 1 - complètement opaque. |
 
 ## Exemples
 
@@ -153,3 +153,5 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

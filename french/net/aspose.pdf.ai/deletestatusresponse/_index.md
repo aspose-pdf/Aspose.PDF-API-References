@@ -1,12 +1,12 @@
 ---
-title: Class DeleteStatusResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.DeleteStatusResponse. Représente le statut d'une suppression d'objet
+title: "Classe DeleteStatusResponse"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.DeleteStatusResponse. Représente l'état d'une suppression d'objet."
 type: docs
-weight: 310
+weight: 320
 url: /fr/net/aspose.pdf.ai/deletestatusresponse/
 ---
-## Classe DeleteStatusResponse
+## DeleteStatusResponse class
 
 Représente le statut d'une suppression d'objet.
 
@@ -29,15 +29,17 @@ public class DeleteStatusResponse : BaseResponse, IEntityId
 | [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Obtient ou définit l'erreur de réponse HTTP. |
 | [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Obtient ou définit les informations d'erreur. |
 | [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Obtient ou définit les en-têtes de réponse HTTP. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Obtient ou définit le code de statut HTTP. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Obtient ou définit le code d'état HTTP. |
 | [Id](../../aspose.pdf.ai/deletestatusresponse/id/) { get; set; } | Obtient ou définit l'ID de l'objet supprimé. |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indique si la réponse a été réussie. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indique si la réponse a réussi. |
 | [Object](../../aspose.pdf.ai/deletestatusresponse/object/) { get; set; } | Obtient ou définit le type d'objet, qui est toujours "thread.deleted". |
 | [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Obtient la phrase de raison d'erreur. |
 
 ### Voir aussi
 
-* classe [BaseResponse](../baseresponse/)
+* class [BaseResponse](../baseresponse/)
 * interface [IEntityId](../ientityid/)
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

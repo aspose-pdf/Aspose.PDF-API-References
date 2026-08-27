@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.BufferSize
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OptimizedMemoryStream. Obtient ou définit la taille des tampons sous-jacents
+title: "OptimizedMemoryStream.BufferSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OptimizedMemoryStream property. Obtient ou définit la taille des tampons sous-jacents"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/optimizedmemorystream/buffersize/
 ---
-## Propriété OptimizedMemoryStream.BufferSize
+## OptimizedMemoryStream.BufferSize property
 
 Obtient ou définit la taille des tampons sous-jacents.
 
@@ -14,12 +14,14 @@ Obtient ou définit la taille des tampons sous-jacents.
 public int BufferSize { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La taille des tampons.
 
 ### Voir aussi
 
-* classe [OptimizedMemoryStream](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

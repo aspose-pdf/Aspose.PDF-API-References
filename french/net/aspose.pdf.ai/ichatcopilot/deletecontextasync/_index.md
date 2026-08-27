@@ -1,14 +1,14 @@
 ---
-title: IChatCopilot.DeleteContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IChatCopilot. Supprime le contexte de manière asynchrone
+title: "IChatCopilot.DeleteContextAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IChatCopilot. Supprime de façon asynchrone le contexte."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/ichatcopilot/deletecontextasync/
 ---
-## Méthode IChatCopilot.DeleteContextAsync
+## IChatCopilot.DeleteContextAsync method
 
-Supprime le contexte de manière asynchrone.
+Supprime le contexte de façon asynchrone.
 
 ```csharp
 public Task DeleteContextAsync(CancellationToken? cancellationToken = default)
@@ -27,3 +27,5 @@ Une tâche représentant l'opération asynchrone.
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

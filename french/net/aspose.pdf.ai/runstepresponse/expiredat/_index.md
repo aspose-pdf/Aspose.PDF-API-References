@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.ExpiredAt
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunStepResponse. Obtient ou définit le timestamp Unix en secondes pour quand l'étape d'exécution a expiré. Une étape est considérée comme expirée si l'exécution parente est expirée.
+title: "RunStepResponse.ExpiredAt"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunStepResponse. Obtient ou définit le horodatage Unix en secondes du moment où l'étape d'exécution a expiré. Une étape est considérée comme expirée si l'exécution parent est expirée."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.ai/runstepresponse/expiredat/
 ---
-## Propriété RunStepResponse.ExpiredAt
+## RunStepResponse.ExpiredAt property
 
-Obtient ou définit le timestamp Unix (en secondes) pour quand l'étape d'exécution a expiré. Une étape est considérée comme expirée si l'exécution parente est expirée.
+Obtient ou définit l'horodatage Unix (en secondes) du moment où l'étape du run a expiré. Une étape est considérée comme expirée si le run parent a expiré.
 
 ```csharp
 public long? ExpiredAt { get; set; }
@@ -16,6 +16,8 @@ public long? ExpiredAt { get; set; }
 
 ### Voir aussi
 
-* classe [RunStepResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunStepResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

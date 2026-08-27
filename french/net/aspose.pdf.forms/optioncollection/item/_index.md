@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OptionCollection. Obtient l'option par index
+title: "OptionCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OptionCollection propriété. Obtient l'option par indice"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.forms/optioncollection/item/
 ---
-## Indexeur OptionCollection (1 sur 2)
+## OptionCollection indexer (1 of 2)
 
-Obtient l'option par index.
+Obtient l'option par indice.
 
 ```csharp
 public Option this[int index] { get; }
@@ -16,22 +16,22 @@ public Option this[int index] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| index | Index de l'option. |
+| index | Indice de l'option. |
 
 ### Valeur de retour
 
-Option à l'index spécifié.
+Option à l'indice spécifié.
 
 ### Voir aussi
 
-* classe [Option](../../option/)
-* classe [OptionCollection](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Indexeur OptionCollection (2 sur 2)
+## OptionCollection indexer (2 of 2)
 
 Obtient l'option par son nom.
 
@@ -41,7 +41,7 @@ public Option this[string name] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| name | Nom de l'option. |
+| nom | Nom de l'option. |
 
 ### Valeur de retour
 
@@ -49,7 +49,9 @@ Option trouvée.
 
 ### Voir aussi
 
-* classe [Option](../../option/)
-* classe [OptionCollection](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

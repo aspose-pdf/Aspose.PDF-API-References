@@ -1,14 +1,14 @@
 ---
-title: TocInfo.IsCountTocPages
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TocInfo. Obtient ou définit si le nombre de pages de toc est compté ou passé
+title: "TocInfo.IsCountTocPages"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TocInfo. Obtient ou définit s'il faut compter ou passer les pages de la table des matières"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/tocinfo/iscounttocpages/
 ---
-## Propriété TocInfo.IsCountTocPages
+## TocInfo.IsCountTocPages property
 
-Obtient ou définit si le nombre de pages de toc est compté ou passé.
+Obtient ou définit le nombre de pages TOC passées.
 
 ```csharp
 public bool IsCountTocPages { get; set; }
@@ -16,6 +16,8 @@ public bool IsCountTocPages { get; set; }
 
 ### Voir aussi
 
-* classe [TocInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

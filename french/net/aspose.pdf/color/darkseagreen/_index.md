@@ -1,14 +1,14 @@
 ---
-title: Color.DarkSeaGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de couleur. Obtient une couleur définie par le système qui a une valeur ARGB de c FF8FBC8F
+title: "Color.DarkSeaGreen"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Color. Obtient une couleur définie par le système qui a une valeur ARGB de c FF8FBC8F"
 type: docs
 weight: 350
 url: /fr/net/aspose.pdf/color/darkseagreen/
 ---
-## Propriété Color.DarkSeaGreen
+## Color.DarkSeaGreen property
 
-Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF8FBC8F.
+Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF8FBC8F.
 
 ```csharp
 public static Color DarkSeaGreen { get; }
@@ -16,10 +16,12 @@ public static Color DarkSeaGreen { get; }
 
 ### Valeur de retour
 
-Une représentation d'une couleur définie par le système.
+A représentant une couleur définie par le système.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

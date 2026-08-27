@@ -1,7 +1,7 @@
 ---
-title: ChatMessage.ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur ChatMessage. Initialise une nouvelle instance de la classe ChatMessage
+title: "ChatMessage.ChatMessage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ChatMessage. Initialise une nouvelle instance de la classe ChatMessage"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/chatmessage/chatmessage/
@@ -16,8 +16,8 @@ public ChatMessage()
 
 ### Voir aussi
 
-* classe [ChatMessage](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,11 +32,13 @@ public ChatMessage(string role, string content)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| role | String | Le rôle de l'auteur de ce message. |
-| content | String | Le contenu du message. |
+| rôle | String | Le rôle de l'auteur de ce message. |
+| contenu | String | Le contenu du message. |
 
 ### Voir aussi
 
-* classe [ChatMessage](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

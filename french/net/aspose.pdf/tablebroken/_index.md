@@ -1,12 +1,12 @@
 ---
-title: Enum TableBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.TableBroken. Énumère la table cassée
+title: "Énumération TableBroken"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.TableBroken enum. Énumère les ruptures de tableau"
 type: docs
-weight: 10290
+weight: 10470
 url: /fr/net/aspose.pdf/tablebroken/
 ---
-## Énumération TableBroken
+## TableBroken enumeration
 
 Énumère la table cassée.
 
@@ -18,12 +18,14 @@ public enum TableBroken
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Aucun | `0` | Pas de cassure. |
-| Vertical | `1` | Cassure verticale. |
-| VerticalDansLaMêmePage | `2` | Cassure verticale dans la même page. |
-| EstDansLaPageSuivante | `3` | Cassé à la page suivante. |
+| None | `0` | Pas de rupture. |
+| Vertical | `1` | Rupture verticale. |
+| VerticalInSamePage | `2` | Rupture verticale sur la même page. |
+| IsInNextPage | `3` | Rupture vers la page suivante. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

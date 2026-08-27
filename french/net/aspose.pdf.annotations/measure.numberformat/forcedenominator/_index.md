@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.ForceDenominator
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété NumberFormat. Si FractionDisplayment est ShowAsFraction, cette valeur détermine si la fraction peut être réduite ou non. Si la valeur est vraie, la fraction ne peut pas être réduite.
+title: "Measure.NumberFormat.ForceDenominator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "NumberFormat propriété. Si FractionDisplayment est ShowAsFraction, cette valeur détermine si la fraction doit être réduite ou non. Si la valeur est vraie, la fraction peut ne pas être réduite."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.annotations/measure.numberformat/forcedenominator/
 ---
-## Propriété Measure.NumberFormat.ForceDenominator
+## Measure.NumberFormat.ForceDenominator property
 
-Si FractionDisplayment est ShowAsFraction, cette valeur détermine si la fraction peut être réduite ou non. Si la valeur est vraie, la fraction ne peut pas être réduite.
+Si FractionDisplayment est ShowAsFraction, cette valeur détermine si la fraction doit être réduite ou non. Si la valeur est vraie, la fraction ne doit pas être réduite.
 
 ```csharp
 public bool ForceDenominator { get; set; }
@@ -16,6 +16,8 @@ public bool ForceDenominator { get; set; }
 
 ### Voir aussi
 
-* classe [NumberFormat](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

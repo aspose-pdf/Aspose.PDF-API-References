@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.SamplingRate
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SoundSampleData. Obtient ou définit la fréquence d'échantillonnage
+title: "SoundSampleData.SamplingRate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SoundSampleData. Obtient ou définit le taux d'échantillonnage"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.annotations/soundsampledata/samplingrate/
 ---
-## Propriété SoundSampleData.SamplingRate
+## SoundSampleData.SamplingRate property
 
-Obtient ou définit la fréquence d'échantillonnage.
+Obtient ou définit le taux d'échantillonnage.
 
 ```csharp
 public long SamplingRate { get; set; }
@@ -16,6 +16,8 @@ public long SamplingRate { get; set; }
 
 ### Voir aussi
 
-* classe [SoundSampleData](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

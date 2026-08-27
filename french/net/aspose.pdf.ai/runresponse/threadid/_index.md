@@ -1,14 +1,14 @@
 ---
-title: RunResponse.ThreadId
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunResponse. Obtient ou définit l'ID du thread qui a été exécuté dans le cadre de cette exécution
+title: "RunResponse.ThreadId"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunResponse. Obtient ou définit l'ID du fil qui a été exécuté dans le cadre de cette exécution."
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.ai/runresponse/threadid/
 ---
-## Propriété RunResponse.ThreadId
+## RunResponse.ThreadId property
 
-Obtient ou définit l'ID du thread qui a été exécuté dans le cadre de cette exécution.
+Obtient ou définit l'ID du thread qui a été exécuté dans le cadre de ce run.
 
 ```csharp
 public string ThreadId { get; set; }
@@ -16,6 +16,8 @@ public string ThreadId { get; set; }
 
 ### Voir aussi
 
-* classe [RunResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

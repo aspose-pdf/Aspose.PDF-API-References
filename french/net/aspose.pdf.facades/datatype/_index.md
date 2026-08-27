@@ -1,12 +1,12 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Facades.DataType. Énumère les définitions des types de champ
+title: "Énumération DataType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Enum Aspose.Pdf.Facades.DataType. Énumère les définitions des types de champs"
 type: docs
-weight: 4210
+weight: 4330
 url: /fr/net/aspose.pdf.facades/datatype/
 ---
-## Énumération DataType
+## DataType enumeration
 
 Énumère les définitions des types de champ.
 
@@ -22,10 +22,12 @@ public enum DataType
 | XML | `1` | Flux XML. |
 | XFDF | `2` | Flux XFDF. |
 | PDF | `3` | Flux PDF. |
-| OLEDB | `4` | Base de données OLEDB, comme MS Access. |
-| ODBC | `5` | Base de données ODBC, comme MS SQL Server. |
+| OLEDB | `4` | Base de données OLEDB, telle que MS Access. |
+| ODBC | `5` | Base de données ODBC, telle que MS SQL Server. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

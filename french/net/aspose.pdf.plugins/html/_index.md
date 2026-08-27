@@ -1,12 +1,12 @@
 ---
-title: Class Html
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.Html. Représente le plugin Html
+title: "Classe Html"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Plugins.Html classe. Représente le plugin Html"
 type: docs
-weight: 8820
+weight: 8950
 url: /fr/net/aspose.pdf.plugins/html/
 ---
-## Classe Html
+## Html class
 
 Représente le plugin `Html`.
 
@@ -29,30 +29,30 @@ public sealed class Html : IDisposable, IPlugin
 
 ## Exemples
 
-L'exemple démontre comment convertir un PDF en document HTML.
+L'exemple montre comment convertir un PDF en document HTML.
 
 ```csharp
-// create Html
+// créer Html
 var converter = new Html();
-// create PdfToHtmlOptions object to set output data type as file with embedded resources
+// créer un objet PdfToHtmlOptions pour définir le type de données de sortie comme fichier avec des ressources intégrées
 var opt = new PdfToHtmlOptions(PdfToHtmlOptions.SaveDataType.FileWithEmbeddedResources);
-// add input file path
+// ajouter le chemin du fichier d'entrée
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// définir le chemin du fichier de sortie
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
-L'exemple démontre comment convertir un document HTML en PDF.
+L'exemple montre comment convertir un document HTML en PDF.
 
 ```csharp
-// create Html
+// créer Html
 var converter = new Html();
-// create HtmlToPdfOptions
+// créer HtmlToPdfOptions
 var opt = new HtmlToPdfOptions();
-// add input file path
+// ajouter le chemin du fichier d'entrée
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// définir le chemin du fichier de sortie
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
@@ -62,3 +62,5 @@ converter.Process(opt);
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

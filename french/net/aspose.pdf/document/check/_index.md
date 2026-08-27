@@ -1,12 +1,12 @@
 ---
-title: Document.Check
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Valide le document
+title: "Document.Check"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Document méthode. Valide le document"
 type: docs
-weight: 570
+weight: 590
 url: /fr/net/aspose.pdf/document/check/
 ---
-## Méthode Document.Check
+## Document.Check method
 
 Valide le document.
 
@@ -16,14 +16,16 @@ public bool Check(bool doRepair)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| doRepair | Boolean | Si vrai, les problèmes trouvés seront réparés. |
+| doRepair | Boolean | Si true, les problèmes trouvés seront réparés. |
 
 ### Valeur de retour
 
-Vrai - si le document est réparé ; sinon, faux.
+True - si le document est réparé ; sinon, false.
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

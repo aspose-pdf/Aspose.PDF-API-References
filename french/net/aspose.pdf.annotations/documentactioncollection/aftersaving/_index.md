@@ -1,14 +1,14 @@
 ---
-title: DocumentActionCollection.AfterSaving
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentActionCollection. Obtient ou définit l'action qui sera effectuée après l'enregistrement du document
+title: "DocumentActionCollection.AfterSaving"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentActionCollection. Obtient ou définit l'action qui sera effectuée après l'enregistrement du document."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/documentactioncollection/aftersaving/
 ---
-## Propriété DocumentActionCollection.AfterSaving
+## DocumentActionCollection.AfterSaving property
 
-Obtient ou définit l'action qui sera effectuée après l'enregistrement du document.
+Obtient ou définit l'action qui sera exécutée après l'enregistrement du Document.
 
 ```csharp
 public PdfAction AfterSaving { get; set; }
@@ -16,7 +16,9 @@ public PdfAction AfterSaving { get; set; }
 
 ### Voir aussi
 
-* classe [PdfAction](../../pdfaction/)
-* classe [DocumentActionCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [DocumentActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Next
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineItemCollection. Obtient l'élément de plan représentant l'élément suivant relativement à cet élément dans la hiérarchie du plan
+title: "OutlineItemCollection.Next"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection propriété. Obtient l'élément du plan représentant l'élément suivant relativement à cet élément dans la hiérarchie du plan"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf/outlineitemcollection/next/
 ---
-## Propriété OutlineItemCollection.Next
+## OutlineItemCollection.Next property
 
 Obtient l'élément de plan représentant l'élément suivant relativement à cet élément dans la hiérarchie du plan.
 
@@ -16,6 +16,8 @@ public OutlineItemCollection Next { get; }
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

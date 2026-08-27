@@ -1,14 +1,14 @@
 ---
-title: Page.Background
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la page. Obtient ou définit la couleur de fond de la page
+title: "Page.Background"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Page. Obtient ou définit la couleur d'arrière-plan de la page"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/page/background/
 ---
-## Propriété Page.Background
+## Page.Background property
 
-Obtient ou définit la couleur de fond de la page.
+Obtient ou définit la couleur d'arrière-plan de la page.
 
 ```csharp
 public Color Background { get; set; }
@@ -16,7 +16,9 @@ public Color Background { get; set; }
 
 ### Voir aussi
 
-* classe [Color](../../color/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../../color/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

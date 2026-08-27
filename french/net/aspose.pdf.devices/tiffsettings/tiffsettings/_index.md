@@ -1,7 +1,7 @@
 ---
-title: TiffSettings.TiffSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur TiffSettings. Initialise une nouvelle instance de la classe TiffSettings
+title: "TiffSettings.TiffSettings"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TiffSettings. Initialise une nouvelle instance de la classe TiffSettings"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.devices/tiffsettings/tiffsettings/
@@ -16,8 +16,8 @@ public TiffSettings()
 
 ### Voir aussi
 
-* classe [TiffSettings](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,8 +37,8 @@ public TiffSettings(ShapeType shapeType)
 ### Voir aussi
 
 * enum [ShapeType](../../shapetype/)
-* classe [TiffSettings](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -53,13 +53,13 @@ public TiffSettings(CompressionType compressionType)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| compressionType | CompressionType | Type de la compression. |
+| compressionType | CompressionType | Type de compression. |
 
 ### Voir aussi
 
 * enum [CompressionType](../../compressiontype/)
-* classe [TiffSettings](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -79,8 +79,8 @@ public TiffSettings(ColorDepth colorDepth)
 ### Voir aussi
 
 * enum [ColorDepth](../../colordepth/)
-* classe [TiffSettings](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -99,9 +99,9 @@ public TiffSettings(Margins margins)
 
 ### Voir aussi
 
-* classe [Margins](../../margins/)
-* classe [TiffSettings](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -116,7 +116,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| compressionType | CompressionType | Type de la compression. |
+| compressionType | CompressionType | Type de compression. |
 | colorDepth | ColorDepth | La profondeur de couleur. |
 | margins | Margins | Les marges. |
 
@@ -124,9 +124,9 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 * enum [CompressionType](../../compressiontype/)
 * enum [ColorDepth](../../colordepth/)
-* classe [Margins](../../margins/)
-* classe [TiffSettings](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -142,7 +142,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| compressionType | CompressionType | Type de la compression. |
+| compressionType | CompressionType | Type de compression. |
 | colorDepth | ColorDepth | La profondeur de couleur. |
 | margins | Margins | Les marges. |
 | skipBlankPages | Boolean | si défini sur `true`, il faut ignorer les pages blanches. |
@@ -151,9 +151,9 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 * enum [CompressionType](../../compressiontype/)
 * enum [ColorDepth](../../colordepth/)
-* classe [Margins](../../margins/)
-* classe [TiffSettings](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -169,7 +169,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| compressionType | CompressionType | Type de la compression. |
+| compressionType | CompressionType | Type de compression. |
 | colorDepth | ColorDepth | La profondeur de couleur. |
 | margins | Margins | Les marges. |
 | skipBlankPages | Boolean | si défini sur `true`, il faut ignorer les pages blanches. |
@@ -179,10 +179,10 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 * enum [CompressionType](../../compressiontype/)
 * enum [ColorDepth](../../colordepth/)
-* classe [Margins](../../margins/)
+* class [Margins](../../margins/)
 * enum [ShapeType](../../shapetype/)
-* classe [TiffSettings](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -201,6 +201,8 @@ public TiffSettings(bool skipBlankPages)
 
 ### Voir aussi
 
-* classe [TiffSettings](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

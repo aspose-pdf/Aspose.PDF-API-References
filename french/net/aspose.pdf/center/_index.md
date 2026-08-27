@@ -1,14 +1,14 @@
 ---
-title: Class Center
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Center. Représente les paramètres d'alignement central pour les données d'en-tête et de pied de page
+title: "Classe Center"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Center. Représente les paramètres d'alignement centré pour les données d'en-tête et de pied de page"
 type: docs
-weight: 2990
+weight: 3100
 url: /fr/net/aspose.pdf/center/
 ---
-## Classe Centre
+## Center class
 
-Représente les paramètres d'alignement central pour les données d'en-tête et de pied de page.
+Représente les paramètres d'alignement centré pour les données d'en-tête et de pied de page.
 
 ```csharp
 public sealed class Center : HeaderFooterData
@@ -25,10 +25,12 @@ public sealed class Center : HeaderFooterData
 | Nom | Description |
 | --- | --- |
 | [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Obtient ou définit les paramètres de date. |
-| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Obtient ou définit les paramètres de numéro de page. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Obtient ou définit les paramètres du numéro de page. |
 
 ### Voir aussi
 
-* classe [HeaderFooterData](../headerfooterdata/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

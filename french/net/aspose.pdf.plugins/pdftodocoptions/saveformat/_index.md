@@ -1,14 +1,14 @@
 ---
-title: PdfToDocOptions.SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfToDocOptions. Format de sauvegarde du document de sortie
+title: "PdfToDocOptions.SaveFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfToDocOptions. Format d'enregistrement du document de sortie"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.plugins/pdftodocoptions/saveformat/
 ---
-## Propriété PdfToDocOptions.SaveFormat
+## PdfToDocOptions.SaveFormat property
 
-Format de sauvegarde du document de sortie.
+Format d'enregistrement du document de sortie.
 
 ```csharp
 public SaveFormat SaveFormat { get; set; }
@@ -20,3 +20,5 @@ public SaveFormat SaveFormat { get; set; }
 * class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XImage.GetNameInCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XImage. Renvoie le nom de l'image dans sa collection
+title: "XImage.GetNameInCollection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XImage. Retourne le nom de l'image dans sa collection"
 type: docs
-weight: 110
+weight: 120
 url: /fr/net/aspose.pdf/ximage/getnameincollection/
 ---
-## Méthode XImage.GetNameInCollection
+## XImage.GetNameInCollection method
 
 Renvoie le nom de l'image dans sa collection.
 
@@ -16,10 +16,12 @@ public string GetNameInCollection()
 
 ### Valeur de retour
 
-Clé de l'image (nom).
+Clé d'image (nom).
 
 ### Voir aussi
 
-* classe [XImage](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

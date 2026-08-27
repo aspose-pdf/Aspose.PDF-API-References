@@ -1,12 +1,12 @@
 ---
-title: Form.MakeFormAnnotationsIndependent
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Rend les annotations des champs de formulaire indépendantes
+title: "Form.MakeFormAnnotationsIndependent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Rend les annotations des champs de formulaire indépendantes"
 type: docs
-weight: 300
+weight: 320
 url: /fr/net/aspose.pdf.forms/form/makeformannotationsindependent/
 ---
-## Méthode Form.MakeFormAnnotationsIndependent
+## Form.MakeFormAnnotationsIndependent method
 
 Rend les annotations des champs de formulaire indépendantes.
 
@@ -20,7 +20,9 @@ public void MakeFormAnnotationsIndependent(Page page)
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

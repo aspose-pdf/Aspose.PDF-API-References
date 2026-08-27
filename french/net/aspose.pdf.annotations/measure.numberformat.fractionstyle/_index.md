@@ -1,12 +1,12 @@
 ---
-title: Enum Measure.NumberFormat.FractionStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum MeasureNumberFormatFractionStyle d'Aspose.Pdf.Annotations. Valeur qui indique de quelle manière les valeurs fractionnaires sont affichées
+title: "Enum Measure.NumberFormat.FractionStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.MeasureNumberFormatFractionStyle enum. Valeur qui indique de quelle manière les valeurs fractionnaires sont affichées"
 type: docs
-weight: 2050
+weight: 2140
 url: /fr/net/aspose.pdf.annotations/measure.numberformat.fractionstyle/
 ---
-## Énumération Measure.NumberFormat.FractionStyle
+## Measure.NumberFormat.FractionStyle enumeration
 
 Valeur qui indique de quelle manière les valeurs fractionnaires sont affichées.
 
@@ -25,6 +25,8 @@ public enum FractionStyle
 
 ### Voir aussi
 
-* classe [NumberFormat](../measure.numberformat/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [NumberFormat](../measure.numberformat/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

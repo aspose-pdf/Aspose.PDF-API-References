@@ -1,12 +1,12 @@
 ---
-title: Line.Line
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de Ligne. Initialise une nouvelle instance de la classe Ligne
+title: "Line.Line"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur de Line. Initialise une nouvelle instance de la classe Line"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.drawing/line/line/
 ---
-## Constructeur de Ligne
+## Line constructor
 
 Initialise une nouvelle instance de la classe [`Line`](../).
 
@@ -16,10 +16,12 @@ public Line(float[] positionArray)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| positionArray | Single[] | Le tableau de position de la ligne. |
+| positionArray | Single[] | Le tableau de positions de la ligne. |
 
 ### Voir aussi
 
-* classe [Line](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Line](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

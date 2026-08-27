@@ -1,12 +1,12 @@
 ---
-title: PDF3DViewArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DViewArray. Obtient le nombre de vues
+title: "PDF3DViewArray.Count"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PDF3DViewArray. Obtient le nombre de vues"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/pdf3dviewarray/count/
 ---
-## Propriété PDF3DViewArray.Count
+## PDF3DViewArray.Count property
 
 Obtient le nombre de vues.
 
@@ -14,12 +14,14 @@ Obtient le nombre de vues.
 public int Count { get; }
 ```
 
-### Valeur de la Propriété
+### Property Value
 
 Le nombre de vues.
 
-### Voir Aussi
+### Voir aussi
 
-* classe [PDF3DViewArray](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileSignature. Enregistre le PDF résultant dans un fichier
+title: "PdfFileSignature.Save"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileSignature. Enregistre le PDF résultant dans un fichier"
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf.facades/pdffilesignature/save/
 ---
 ## Save(string) {#save_2}
 
-Enregistre le PDF résultant dans un fichier.
+Enregistre le PDF résultant dans le fichier.
 
 ```csharp
 public override void Save(string outputFile)
@@ -20,15 +20,15 @@ public override void Save(string outputFile)
 
 ### Voir aussi
 
-* classe [PdfFileSignature](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream) {#save_1}
 
-Enregistre le PDF résultant dans un flux.
+Enregistre le PDF résultant dans le flux.
 
 ```csharp
 public override void Save(Stream outputStream)
@@ -40,6 +40,8 @@ public override void Save(Stream outputStream)
 
 ### Voir aussi
 
-* classe [PdfFileSignature](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

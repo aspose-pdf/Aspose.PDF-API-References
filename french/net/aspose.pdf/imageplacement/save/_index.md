@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ImagePlacement. Enregistre l'image avec les transformations correspondantes  mise à l'échelle, rotation et résolution
+title: "ImagePlacement.Save"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ImagePlacement. Enregistre l'image avec les transformations correspondantes de mise à l'échelle, de rotation et de résolution"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/imageplacement/save/
 ---
 ## Save(Stream) {#save}
 
-Enregistre l'image avec les transformations correspondantes : mise à l'échelle, rotation et résolution.
+Enregistre l'image avec les transformations correspondantes : mise à l'échelle, rotation et résolution.
 
 ```csharp
 public void Save(Stream stream)
@@ -20,15 +20,15 @@ public void Save(Stream stream)
 
 ### Voir aussi
 
-* classe [ImagePlacement](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream, ImageFormat) {#save_1}
 
-Enregistre l'image avec les transformations correspondantes : mise à l'échelle, rotation et résolution.
+Enregistre l'image avec les transformations correspondantes : mise à l'échelle, rotation et résolution.
 
 ```csharp
 public void Save(Stream stream, ImageFormat format)
@@ -41,6 +41,8 @@ public void Save(Stream stream, ImageFormat format)
 
 ### Voir aussi
 
-* classe [ImagePlacement](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

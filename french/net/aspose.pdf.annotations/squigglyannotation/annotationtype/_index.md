@@ -1,14 +1,14 @@
 ---
-title: SquigglyAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SquigglyAnnotation. Obtient le type d'annotation
+title: "SquigglyAnnotation.AnnotationType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "SquigglyAnnotation propriété. Obtient le type d'annotation"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/squigglyannotation/annotationtype/
 ---
-## Propriété SquigglyAnnotation.AnnotationType
+## SquigglyAnnotation.AnnotationType property
 
-Obtient le type d'annotation.
+Obtient le type de l'annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [SquigglyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: JavascriptExtensionsException.JavascriptExtensionsException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de JavascriptExtensionsException. Initialise une nouvelle instance de la classe JavascriptExtensionsException
+title: "JavascriptExtensionsException.JavascriptExtensionsException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur JavascriptExtensionsException. Initialise une nouvelle instance de la classe JavascriptExtensionsException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/javascriptextensionsexception/javascriptextensionsexception/
@@ -20,8 +20,8 @@ public JavascriptExtensionsException(string message)
 
 ### Voir aussi
 
-* classe [JavascriptExtensionsException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [JavascriptExtensionsException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,8 +41,8 @@ public JavascriptExtensionsException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [JavascriptExtensionsException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [JavascriptExtensionsException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -61,6 +61,8 @@ public JavascriptExtensionsException(Exception innerException)
 
 ### Voir aussi
 
-* classe [JavascriptExtensionsException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [JavascriptExtensionsException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.IsRegularExpressionUsed
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextSearchOptions. Obtient ou définit l'indication que l'expression régulière est utilisée
+title: "TextSearchOptions.IsRegularExpressionUsed"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextSearchOptions. Obtient ou définit l'indication qu'une expression régulière est utilisée"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.text/textsearchoptions/isregularexpressionused/
 ---
-## Propriété TextSearchOptions.IsRegularExpressionUsed
+## TextSearchOptions.IsRegularExpressionUsed property
 
-Obtient ou définit l'indication que l'expression régulière est utilisée.
+Obtient ou définit l'indication selon laquelle une expression régulière est utilisée.
 
 ```csharp
 public bool IsRegularExpressionUsed { get; set; }
@@ -16,6 +16,8 @@ public bool IsRegularExpressionUsed { get; set; }
 
 ### Voir aussi
 
-* classe [TextSearchOptions](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

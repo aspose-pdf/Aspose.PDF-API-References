@@ -1,12 +1,12 @@
 ---
-title: ShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ShowText. Texte de l'opérateur
+title: "ShowText.Text"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ShowText. Texte de l'opérateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/showtext/text/
 ---
-## Propriété ShowText.Text
+## ShowText.Text property
 
 Texte de l'opérateur.
 
@@ -16,6 +16,8 @@ public override string Text { get; set; }
 
 ### Voir aussi
 
-* classe [ShowText](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentPrivilege. Définit la permission qui permet d'imprimer ou non. true permet et false interdit
+title: "DocumentPrivilege.AllowPrint"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "DocumentPrivilege propriété. Définit l'autorisation d'impression ou non. true autorise et false interdit"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf.facades/documentprivilege/allowprint/
 ---
-## Propriété DocumentPrivilege.AllowPrint
+## DocumentPrivilege.AllowPrint property
 
-Définit la permission qui permet d'imprimer ou non. true permet et false interdit.
+Définit la permission qui autorise l'impression ou non. true signifie autorisé et false signifie interdit.
 
 ```csharp
 public bool AllowPrint { get; set; }
@@ -16,6 +16,8 @@ public bool AllowPrint { get; set; }
 
 ### Voir aussi
 
-* classe [DocumentPrivilege](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetTextLeading.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SetTextLeading. Produit le code texte de l'opérateur
+title: "SetTextLeading.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode SetTextLeading. Produit le code texte de l'opérateur"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.operators/settextleading/tostring/
 ---
-## Méthode SetTextLeading.ToString
+## SetTextLeading.ToString method
 
 Produit le code texte de l'opérateur.
 
@@ -20,6 +20,8 @@ Représentation textuelle de l'opérateur.
 
 ### Voir aussi
 
-* classe [SetTextLeading](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetTextLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

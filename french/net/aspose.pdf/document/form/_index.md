@@ -1,12 +1,12 @@
 ---
-title: Document.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Document. Obtient le formulaire Acro du document
+title: "Document.Form"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Obtient le Acro Form du document"
 type: docs
-weight: 210
+weight: 230
 url: /fr/net/aspose.pdf/document/form/
 ---
-## Propriété Document.Form
+## Document.Form property
 
 Obtient le formulaire Acro du document.
 
@@ -16,7 +16,9 @@ public Form Form { get; }
 
 ### Voir aussi
 
-* classe [Form](../../../aspose.pdf.forms/form/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Form](../../../aspose.pdf.forms/form/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

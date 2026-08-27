@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OutlineItemCollection. Ajoute un élément de plan à la collection
+title: "OutlineItemCollection.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection méthode. Ajoute un élément de plan à la collection"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf/outlineitemcollection/add/
 ---
-## Méthode OutlineItemCollection.Add
+## OutlineItemCollection.Add method
 
-Ajoute un élément de plan à la collection.
+Ajoute un élément d'outline à la collection.
 
 ```csharp
 public override void Add(OutlineItemCollection outline)
@@ -16,10 +16,12 @@ public override void Add(OutlineItemCollection outline)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outline | OutlineItemCollection | L'élément de plan à ajouter. |
+| plan | OutlineItemCollection | L'élément de plan à ajouter. |
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

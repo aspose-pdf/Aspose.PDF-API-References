@@ -1,12 +1,12 @@
 ---
-title: TeXSaveOptions.OutDirectoryPath
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TeXSaveOptions. Propriété pour le paramètre _outDirectoryPath
+title: "TeXSaveOptions.OutDirectoryPath"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TeXSaveOptions. Propriété pour le paramètre _outDirectoryPath"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/texsaveoptions/outdirectorypath/
 ---
-## Propriété TeXSaveOptions.OutDirectoryPath
+## TeXSaveOptions.OutDirectoryPath property
 
 Propriété pour le paramètre _outDirectoryPath.
 
@@ -16,6 +16,8 @@ public string OutDirectoryPath { get; set; }
 
 ### Voir aussi
 
-* classe [TeXSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

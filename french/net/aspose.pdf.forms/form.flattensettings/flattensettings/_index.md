@@ -1,12 +1,12 @@
 ---
-title: Form.FlattenSettings.FlattenSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FlattenSettings. Le constructeur par défaut
+title: "Form.FlattenSettings.FlattenSettings"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FlattenSettings. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.forms/form.flattensettings/flattensettings/
 ---
-## Constructeur de Form.FlattenSettings
+## Form.FlattenSettings constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public FlattenSettings()
 
 ### Voir aussi
 
-* classe [FlattenSettings](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [FlattenSettings](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

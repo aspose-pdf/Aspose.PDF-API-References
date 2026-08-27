@@ -1,12 +1,12 @@
 ---
-title: Class Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Devices.Margins. Cette classe représente les marges d'une image
+title: "Classe Margins"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Devices.Margins. Cette classe représente les marges d'une image"
 type: docs
-weight: 3630
+weight: 3750
 url: /fr/net/aspose.pdf.devices/margins/
 ---
-## Classe Marges
+## Margins class
 
 Cette classe représente les marges d'une image.
 
@@ -32,5 +32,7 @@ public sealed class Margins
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

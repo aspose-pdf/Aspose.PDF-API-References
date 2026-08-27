@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.ResumeUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode BaseOperatorCollection. Reprend la mise à jour du document. Met à jour le flux de contenu en cas de modifications en attente
+title: "BaseOperatorCollection.ResumeUpdate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "BaseOperatorCollection méthode. Reprend la mise à jour du document. Met à jour le flux de contenu au cas où il y aurait des modifications en attente"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/baseoperatorcollection/resumeupdate/
 ---
-## Méthode BaseOperatorCollection.ResumeUpdate
+## BaseOperatorCollection.ResumeUpdate method
 
-Reprend la mise à jour du document. Met à jour le flux de contenu en cas de modifications en attente.
+Reprend la mise à jour du document. Met à jour le flux de contenu au cas où il y aurait des modifications en attente.
 
 ```csharp
 public abstract void ResumeUpdate()
@@ -16,6 +16,8 @@ public abstract void ResumeUpdate()
 
 ### Voir aussi
 
-* classe [BaseOperatorCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

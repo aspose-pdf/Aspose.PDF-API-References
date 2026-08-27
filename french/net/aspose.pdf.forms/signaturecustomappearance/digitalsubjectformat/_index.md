@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.DigitalSubjectFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignatureCustomAppearance. Obtient/définit le format de l'ordre des éléments dans la chaîne Subject. Exemples de résultats CUK CNOrg OOrganization ou CNOrg CUK OOrganization ou OOrganization
+title: "SignatureCustomAppearance.DigitalSubjectFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SignatureCustomAppearance. Obtient/Définit le format de l'ordre des éléments dans la chaîne Subject. Exemples de résultats CUK CNOrg OOrganization ou CNOrg CUK OOrganization ou OOrganization"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.forms/signaturecustomappearance/digitalsubjectformat/
 ---
-## Propriété SignatureCustomAppearance.DigitalSubjectFormat
+## SignatureCustomAppearance.DigitalSubjectFormat property
 
-Obtient/définit le format de l'ordre des éléments dans la chaîne Subject. Exemples de résultats : C=UK, CN=Org, O=Organization ou CN=Org, C=UK, O=Organization ou O=Organization
+Obtient/definit le format d'ordre des éléments dans la chaîne Subject. Exemples de résultats: C=UK, CN=Org, O=Organization ou CN=Org, C=UK, O=Organization ou O=Organization
 
 ```csharp
 public SubjectNameElements[] DigitalSubjectFormat { get; set; }
@@ -20,3 +20,5 @@ public SubjectNameElements[] DigitalSubjectFormat { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

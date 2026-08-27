@@ -1,14 +1,14 @@
 ---
-title: Interface IAppointment
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.Annotations.IAppointment. Représente l'interface générale pour les actions et les destinations
+title: "Interface IAppointment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.IAppointment interface. Représente une interface générale pour les actions et les destinations"
 type: docs
-weight: 1900
+weight: 1990
 url: /fr/net/aspose.pdf.annotations/iappointment/
 ---
-## Interface IAppointment
+## IAppointment interface
 
-Représente l'interface générale pour les actions et les destinations.
+Représente une interface générale pour les actions et les destinations.
 
 ```csharp
 public interface IAppointment
@@ -22,5 +22,7 @@ public interface IAppointment
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

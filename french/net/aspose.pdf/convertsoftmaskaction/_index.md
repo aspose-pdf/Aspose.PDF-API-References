@@ -1,14 +1,14 @@
 ---
-title: Enum ConvertSoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.ConvertSoftMaskAction. Cette action représente des actions pour la conversion d'images avec un masque doux
+title: "Enum ConvertSoftMaskAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.ConvertSoftMaskAction enum. Cette action représente les actions de conversion d'images avec masque doux"
 type: docs
-weight: 3370
+weight: 3490
 url: /fr/net/aspose.pdf/convertsoftmaskaction/
 ---
-## Énumération ConvertSoftMaskAction
+## ConvertSoftMaskAction enumeration
 
-Cette action représente des actions pour la conversion d'images avec un masque doux.
+Cette action représente les actions pour la conversion d’images avec masque souple.
 
 ```csharp
 public enum ConvertSoftMaskAction
@@ -19,9 +19,11 @@ public enum ConvertSoftMaskAction
 | Nom | Valeur | Description |
 | --- | --- | --- |
 | Default | `0` | Utiliser la stratégie par défaut. |
-| ConvertToStencilMask | `1` | Le masque doux sera converti en masque de pochoir. |
+| ConvertToStencilMask | `1` | Le masque doux sera converti en masque pochoir. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

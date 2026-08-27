@@ -1,14 +1,14 @@
 ---
-title: TableElement.Broken
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableElement. Obtient ou définit la rupture verticale du tableau
+title: "TableElement.Broken"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TableElement. Obtient ou définit le tableau vertical cassé"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.logicalstructure/tableelement/broken/
 ---
-## Propriété TableElement.Broken
+## TableElement.Broken property
 
-Obtient ou définit la rupture verticale du tableau ;
+Obtient ou définit la rupture verticale du tableau;
 
 ```csharp
 public TableBroken Broken { get; set; }
@@ -20,3 +20,5 @@ public TableBroken Broken { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

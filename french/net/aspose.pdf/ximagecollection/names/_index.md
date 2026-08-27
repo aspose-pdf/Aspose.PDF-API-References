@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XImageCollection. Obtient un tableau de noms d'images
+title: "XImageCollection.Names"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XImageCollection. Obtient le tableau des noms d'images"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/ximagecollection/names/
 ---
-## Propriété XImageCollection.Names
+## XImageCollection.Names property
 
-Obtient un tableau de noms d'images.
+Obtient le tableau des noms d'images.
 
 ```csharp
 public string[] Names { get; }
@@ -16,6 +16,8 @@ public string[] Names { get; }
 
 ### Voir aussi
 
-* classe [XImageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

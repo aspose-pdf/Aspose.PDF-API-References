@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.GetViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Renvoie la préférence de vue
+title: "PdfContentEditor.GetViewerPreference"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Retourne la préférence d'affichage"
 type: docs
 weight: 390
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/getviewerpreference/
 ---
-## Méthode PdfContentEditor.GetViewerPreference
+## PdfContentEditor.GetViewerPreference method
 
-Renvoie la préférence de vue.
+Renvoie la préférence d'affichage.
 
 ```csharp
 public int GetViewerPreference()
@@ -16,7 +16,7 @@ public int GetViewerPreference()
 
 ### Valeur de retour
 
-Renvoie un ensemble de drapeaux ViewerPrefernece
+Renvoie l'ensemble des indicateurs ViewerPrefernece
 
 ## Exemples
 
@@ -30,6 +30,8 @@ if ((prefValue & ViewerPreference.PageModeUseOutline) != 0)
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

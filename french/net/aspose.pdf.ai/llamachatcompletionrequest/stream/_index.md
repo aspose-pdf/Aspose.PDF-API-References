@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.Stream
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LlamaChatCompletionRequest. Définit ou obtient si la réponse doit être diffusée
+title: "LlamaChatCompletionRequest.Stream"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LlamaChatCompletionRequest. Définit ou obtient si la réponse doit être diffusée"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.ai/llamachatcompletionrequest/stream/
 ---
-## Propriété LlamaChatCompletionRequest.Stream
+## LlamaChatCompletionRequest.Stream property
 
-Définit ou obtient si la réponse doit être diffusée.
+Définit ou obtient si la réponse doit être diffusée en continu.
 
 ```csharp
 public bool? Stream { get; set; }
@@ -16,6 +16,8 @@ public bool? Stream { get; set; }
 
 ### Voir aussi
 
-* classe [LlamaChatCompletionRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

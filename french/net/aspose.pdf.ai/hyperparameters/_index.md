@@ -1,14 +1,14 @@
 ---
-title: Class Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Hyperparameters. Représente les hyperparamètres utilisés pour un travail de fine-tuning
+title: "Classe Hyperparameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.Hyperparameters. Représente les hyperparamètres utilisés pour un travail de réglage fin"
 type: docs
-weight: 430
+weight: 450
 url: /fr/net/aspose.pdf.ai/hyperparameters/
 ---
-## Classe Hyperparamètres
+## Hyperparameters class
 
-Représente les hyperparamètres utilisés pour un travail de fine-tuning.
+Représente les hyperparamètres utilisés pour un travail de réglage fin.
 
 ```csharp
 public class Hyperparameters
@@ -28,5 +28,7 @@ public class Hyperparameters
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

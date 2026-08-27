@@ -1,26 +1,28 @@
 ---
-title: PDF3DView.CrossSectionsArray
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DView. Obtient le tableau des sections transversales de la vue
+title: "PDF3DView.CrossSectionsArray"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PDF3DView propriété. Obtient le tableau des sections transversales de la vue"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.annotations/pdf3dview/crosssectionsarray/
 ---
-## Propriété PDF3DView.CrossSectionsArray
+## PDF3DView.CrossSectionsArray property
 
-Obtient le tableau des sections transversales de la vue.
+Obtient le tableau des coupes transversales de la vue.
 
 ```csharp
 public PDF3DCrossSectionArray CrossSectionsArray { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le tableau des sections transversales de la vue.
 
 ### Voir aussi
 
-* classe [PDF3DCrossSectionArray](../../pdf3dcrosssectionarray/)
-* classe [PDF3DView](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DCrossSectionArray](../../pdf3dcrosssectionarray/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

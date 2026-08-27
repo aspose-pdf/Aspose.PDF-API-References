@@ -1,12 +1,12 @@
 ---
-title: LocalHyperlink.Target
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LocalHyperlink. Obtient ou définit le paragraphe cible
+title: "LocalHyperlink.Target"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LocalHyperlink. Obtient ou définit le paragraphe cible"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/localhyperlink/target/
 ---
-## Propriété LocalHyperlink.Target
+## LocalHyperlink.Target property
 
 Obtient ou définit le paragraphe cible.
 
@@ -16,7 +16,9 @@ public BaseParagraph Target { get; set; }
 
 ### Voir aussi
 
-* classe [BaseParagraph](../../baseparagraph/)
-* classe [LocalHyperlink](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BaseParagraph](../../baseparagraph/)
+* class [LocalHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: LlamaCopilotOptionsBase.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LlamaCopilotOptionsBase. Obtient ou définit la valeur topp pour l'échantillonnage par noyau
+title: "LlamaCopilotOptionsBase.TopP"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LlamaCopilotOptionsBase. Obtient ou définit la valeur topp pour l'échantillonnage nucléaire"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.ai/llamacopilotoptionsbase/topp/
 ---
-## Propriété LlamaCopilotOptionsBase.TopP
+## LlamaCopilotOptionsBase.TopP property
 
 Obtient ou définit la valeur top-p pour l'échantillonnage par noyau.
 
@@ -16,6 +16,8 @@ public double? TopP { get; set; }
 
 ### Voir aussi
 
-* classe [LlamaCopilotOptionsBase](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

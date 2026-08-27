@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OperatorCollection. Effectue des tâches définies par l'application associées à la libération, à la restitution ou à la réinitialisation des ressources non gérées
+title: "OperatorCollection.Dispose"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OperatorCollection. Effectue les tâches définies par l'application liées à la libération, la remise ou la réinitialisation des ressources non gérées"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf/operatorcollection/dispose/
 ---
-## Méthode OperatorCollection.Dispose
+## OperatorCollection.Dispose method
 
-Effectue des tâches définies par l'application associées à la libération, à la restitution ou à la réinitialisation des ressources non gérées.
+Effectue les tâches définies par l’application associées à la libération, la remise ou la réinitialisation des ressources non gérées.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Voir aussi
 
-* classe [OperatorCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

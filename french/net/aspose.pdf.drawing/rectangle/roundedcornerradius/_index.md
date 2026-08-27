@@ -1,14 +1,14 @@
 ---
-title: Rectangle.RoundedCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Rectangle. Obtient ou définit une valeur flottante qui indique le rayon des coins du rectangle
+title: "Rectangle.RoundedCornerRadius"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Rectangle. Obtient ou définit une valeur flottante qui indique le rayon des coins du rectangle"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.drawing/rectangle/roundedcornerradius/
 ---
-## Propriété Rectangle.RoundedCornerRadius
+## Rectangle.RoundedCornerRadius property
 
-Obtient ou définit une valeur flottante qui indique le rayon des coins du rectangle.
+Obtient ou définit une valeur float qui indique le rayon des coins du rectangle.
 
 ```csharp
 public double RoundedCornerRadius { get; set; }
@@ -16,6 +16,8 @@ public double RoundedCornerRadius { get; set; }
 
 ### Voir aussi
 
-* classe [Rectangle](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

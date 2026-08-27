@@ -1,12 +1,12 @@
 ---
-title: Class PageDate.DayComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PageDateDayComponent. Représente le composant jour d'une date
+title: "Classe PageDate.DayComponent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "classe Aspose.Pdf.PageDateDayComponent. Représente le composant jour d'une date"
 type: docs
-weight: 8120
+weight: 8260
 url: /fr/net/aspose.pdf/pagedate.daycomponent/
 ---
-## Classe PageDate.DayComponent
+## PageDate.DayComponent class
 
 Représente le composant jour d'une date.
 
@@ -24,18 +24,20 @@ public class DayComponent : DateComponent
 
 | Nom | Description |
 | --- | --- |
-| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Obtient ou définit le format pour le composant de date. |
+| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Obtient ou définit le format du composant de date. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
 | [GetFormat](../../aspose.pdf/pagedate.daycomponent/getformat#getformat)() | Obtient la chaîne de format pour le composant jour. |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Renvoie une chaîne composée d'un caractère spécifié répété en fonction du format. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Renvoie une chaîne composée d'un caractère spécifié répété selon le format. |
 
 ### Voir aussi
 
-* classe [DateComponent](../datecomponent/)
-* classe [PageDate](../pagedate/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [DateComponent](../datecomponent/)
+* class [PageDate](../pagedate/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

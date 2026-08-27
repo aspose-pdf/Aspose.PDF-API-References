@@ -1,12 +1,12 @@
 ---
-title: Enum SoundIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Annotations.SoundIcon. Énumère les icônes à utiliser pour afficher l'annotation
+title: "Énumération SoundIcon"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.SoundIcon enum. Enumère les icônes à utiliser pour afficher l'annotation"
 type: docs
-weight: 2560
+weight: 2660
 url: /fr/net/aspose.pdf.annotations/soundicon/
 ---
-## Énumération SoundIcon
+## SoundIcon enumeration
 
 Énumère les icônes à utiliser pour afficher l'annotation.
 
@@ -18,10 +18,12 @@ public enum SoundIcon
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Haut-parleur | `0` | Icône de haut-parleur. |
-| Micro | `1` | Icône de microphone. |
+| Speaker | `0` | Icône haut-parleur. |
+| Mic | `1` | Icône microphone. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

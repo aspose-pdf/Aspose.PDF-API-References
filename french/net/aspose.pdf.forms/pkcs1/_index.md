@@ -1,14 +1,14 @@
 ---
-title: Class PKCS1
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Forms.PKCS1. Représente un objet de signature concernant la norme PKCS1. L'algorithme de chiffrement RSA et la méthode de hachage SHA1 sont utilisés pour la signature.
+title: "Classe PKCS1"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Forms.PKCS1 classe. Représente l'objet signature concernant la norme PKCS1. L'algorithme de chiffrement RSA et la méthode de condensat SHA1 sont utilisés pour la signature"
 type: docs
-weight: 5170
+weight: 5290
 url: /fr/net/aspose.pdf.forms/pkcs1/
 ---
-## Classe PKCS1
+## PKCS1 class
 
-Représente un objet de signature concernant la norme PKCS#1. L'algorithme de chiffrement RSA et la méthode de hachage SHA-1 sont utilisés pour la signature.
+Représente l'objet de signature conforme à la norme PKCS#1. L'algorithme de chiffrement RSA et la méthode de hachage SHA-1 sont utilisés pour la signature.
 
 ```csharp
 public sealed class PKCS1 : Signature
@@ -29,29 +29,32 @@ public sealed class PKCS1 : Signature
 | --- | --- |
 | [Authority](../../aspose.pdf.forms/signature/authority/) { get; set; } | Le nom de la personne ou de l'autorité signant le document. |
 | [AvoidEstimatingSignatureLength](../../aspose.pdf.forms/signature/avoidestimatingsignaturelength/) { get; set; } | Obtient et définit une option indiquant s'il faut éviter d'estimer la longueur d'une signature. |
-| [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | Un tableau de paires d'entiers (décalage d'octet de départ, longueur en octets) qui décrit la plage d'octets exacte pour le calcul du hachage. |
-| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | Informations fournies par le signataire pour permettre à un destinataire de contacter le signataire pour vérifier la signature, par exemple un numéro de téléphone. |
+| [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | Un tableau de paires d'entiers (décalage d'octet de départ, longueur en octets) qui doit décrire la plage d'octets exacte pour le calcul du condensat. |
+| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | Informations fournies par le signataire pour permettre à un destinataire de contacter le signataire afin de vérifier la signature, par ex. un numéro de téléphone. |
 | [CustomAppearance](../../aspose.pdf.forms/signature/customappearance/) { get; set; } | Obtient/définit l'apparence personnalisée. |
-| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | Le délégué pour signer le hachage du document de manière personnalisée. |
-| [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | Le moment de la signature. |
+| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | Le délégué pour signer de manière personnalisée le hachage du document. |
+| [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | L'heure de la signature. |
 | [DefaultSignatureLength](../../aspose.pdf.forms/signature/defaultsignaturelength/) { get; set; } | Obtient ou définit la longueur par défaut des données de signature en octets. |
 | [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | Le nom d'hôte du CPU ou l'emplacement physique de la signature. |
 | [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | Obtient/définit les paramètres OCSP. |
 | [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | La raison de la signature, telle que (Je suis d'accord, Pip B.). |
-| [ShowProperties](../../aspose.pdf.forms/signature/showproperties/) { get; set; } | Force à afficher/masquer les propriétés de la signature. Si ShowProperties est vrai, le champ de signature a un format d'apparence prédéfini (chaînes à représenter) : ------------------------------------------- Signé numériquement par {sujet du certificat} Date : {signature.Date} Raison : {signature.Raison} Emplacement : {signature.Location} ------------------------------------------- où {X} est un espace réservé pour la valeur X. De plus, la signature peut avoir une image, dans ce cas, les chaînes énumérées sont placées sur l'image. ShowProperties est vrai par défaut. |
-| [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings/) { get; set; } | Obtient/définit les paramètres de timestamp. |
+| [ShowProperties](../../aspose.pdf.forms/signature/showproperties/) { get; set; } | Force d'afficher/masquer les propriétés de la signature. Dans le cas où ShowProperties est vrai, le champ de signature a un format d'apparence prédéfini (chaînes à représenter) : ------------------------------------------- Signé numériquement par {certificate subject} Date : {signature.Date} Raison : {signature.Reason} Lieu : {signature.Location} ------------------------------------------- où {X} est un espace réservé pour la valeur X. La signature peut également contenir une image ; dans ce cas, les chaînes listées sont placées sur l'image. ShowProperties est vrai par défaut. |
+| [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings/) { get; set; } | Obtient/définit les paramètres d'horodatage. |
 | [UseLtv](../../aspose.pdf.forms/signature/useltv/) { get; set; } | Obtient/définit le drapeau de validation LTV. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Récupère des informations sur l'algorithme de signature utilisé dans la signature. |
-| [Verify](../../aspose.pdf.forms/signature/verify/)() | Vérifie le document concernant cette signature et retourne vrai si le document est valide, sinon faux. |
-| [Verify](../../aspose.pdf.forms/signature/verify/)(ValidationOptions, out ValidationResult) | Vérifie le document concernant cette signature et retourne vrai si le document est valide, sinon faux. |
+| [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Récupère les informations sur l'algorithme de signature utilisé dans la signature. |
+| [Verify](../../aspose.pdf.forms/signature/verify/)() | Vérifie le document par rapport à cette signature et renvoie true si le document est valide, sinon false. |
+| [Verify](../../aspose.pdf.forms/signature/verify/)(ValidationOptions, out ValidationResult) | Vérifie le document par rapport à cette signature et renvoie true si le document est valide, sinon false. |
+| [Verify](../../aspose.pdf.forms/signature/verify/)(X509Certificate2, ValidationOptions, out ValidationResult) | Vérifie le document par rapport à cette signature et renvoie true si le document est valide, sinon false. La vérification est effectuée à l'aide du certificat de clé publique externe. |
 
 ### Voir aussi
 
-* classe [Signature](../signature/)
-* espace de noms [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* class [Signature](../signature/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

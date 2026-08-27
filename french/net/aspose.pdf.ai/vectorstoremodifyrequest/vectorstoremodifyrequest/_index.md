@@ -1,12 +1,12 @@
 ---
-title: VectorStoreModifyRequest.VectorStoreModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de VectorStoreModifyRequest. Le constructeur par défaut
+title: "VectorStoreModifyRequest.VectorStoreModifyRequest"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "VectorStoreModifyRequest constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/vectorstoremodifyrequest/vectorstoremodifyrequest/
 ---
-## Constructeur de VectorStoreModifyRequest
+## VectorStoreModifyRequest constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public VectorStoreModifyRequest()
 
 ### Voir aussi
 
-* classe [VectorStoreModifyRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

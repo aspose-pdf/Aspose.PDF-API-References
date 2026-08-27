@@ -1,12 +1,12 @@
 ---
-title: FormOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormOptions. Renvoie la collection de données des plugins Form....
+title: "FormOptions.Inputs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FormOptions. Retourne la collection de données des plugins Form...."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/formoptions/inputs/
 ---
-## Propriété FormOptions.Inputs
+## FormOptions.Inputs property
 
 Renvoie la collection de données des plugins Form....
 
@@ -17,6 +17,8 @@ public List<IDataSource> Inputs { get; }
 ### Voir aussi
 
 * interface [IDataSource](../../idatasource/)
-* classe [FormOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FormOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

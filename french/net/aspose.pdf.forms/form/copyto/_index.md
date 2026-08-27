@@ -1,12 +1,12 @@
 ---
-title: Form.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Copie les champs placés sur le formulaire dans un tableau
+title: "Form.CopyTo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Copie les champs placés sur le formulaire dans un tableau."
 type: docs
-weight: 220
+weight: 240
 url: /fr/net/aspose.pdf.forms/form/copyto/
 ---
-## Méthode Form.CopyTo
+## Form.CopyTo method
 
 Copie les champs placés sur le formulaire dans un tableau.
 
@@ -16,12 +16,14 @@ public void CopyTo(Field[] array, int index)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| array | Field[] | Tableau où les champs doivent être placés. |
-| index | Int32 | Index de départ. |
+| tableau | Field[] | Tableau où les champs doivent être placés. |
+| index | Int32 | Indice de départ. |
 
 ### Voir aussi
 
-* classe [Field](../../field/)
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

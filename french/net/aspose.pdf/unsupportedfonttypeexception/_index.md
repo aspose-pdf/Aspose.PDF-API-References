@@ -1,12 +1,12 @@
 ---
-title: Class UnsupportedFontTypeException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.UnsupportedFontTypeException. L'exception qui est levée lorsqu'un type de police n'est pas pris en charge
+title: "Classe UnsupportedFontTypeException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.UnsupportedFontTypeException. L'exception qui est levée lorsqu'un type de police n'est pas pris en charge"
 type: docs
-weight: 11170
+weight: 11360
 url: /fr/net/aspose.pdf/unsupportedfonttypeexception/
 ---
-## Classe UnsupportedFontTypeException
+## UnsupportedFontTypeException class
 
 L'exception qui est levée lorsqu'un type de police n'est pas pris en charge.
 
@@ -24,6 +24,8 @@ public sealed class UnsupportedFontTypeException : PdfException
 
 ### Voir aussi
 
-* classe [PdfException](../pdfexception/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

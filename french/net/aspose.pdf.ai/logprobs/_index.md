@@ -1,12 +1,12 @@
 ---
-title: Class Logprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Logprobs. Représente les informations de probabilité logarithmique pour un choix
+title: "Classe Logprobs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.Logprobs. Représente les informations de probabilité logarithmique pour un choix"
 type: docs
-weight: 760
+weight: 810
 url: /fr/net/aspose.pdf.ai/logprobs/
 ---
-## Classe Logprobs
+## Logprobs class
 
 Représente les informations de probabilité logarithmique pour un choix.
 
@@ -31,5 +31,7 @@ public class Logprobs
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

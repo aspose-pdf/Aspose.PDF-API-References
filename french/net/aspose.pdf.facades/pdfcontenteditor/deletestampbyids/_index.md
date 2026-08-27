@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DeleteStampByIds
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Supprime les tampons avec des ID spécifiés de toutes les pages du document
+title: "PdfContentEditor.DeleteStampByIds"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Supprime les stamps avec les ID spécifiés de toutes les pages du document"
 type: docs
 weight: 350
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyids/
 ---
 ## DeleteStampByIds(int[]) {#deletestampbyids_1}
 
-Supprime les tampons avec des ID spécifiés de toutes les pages du document.
+Supprime les tampons avec les ID spécifiés de toutes les pages du document.
 
 ```csharp
 public void DeleteStampByIds(int[] stampIds)
@@ -16,7 +16,7 @@ public void DeleteStampByIds(int[] stampIds)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| stampIds | Int32[] | Tableau des ID de tampon. |
+| stampIds | Int32[] | Tableau d'ID d'estampilles. |
 
 ## Exemples
 
@@ -29,8 +29,8 @@ contentEditor.Save("outfile.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -45,8 +45,8 @@ public void DeleteStampByIds(int pageNumber, int[] stampIds)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pageNumber | Int32 | Numéro de page où les tampons seront supprimés. |
-| stampIds | Int32[] | Tableau des ID de tampon. |
+| pageNumber | Int32 | Numéro de page où les estampilles seront supprimées. |
+| stampIds | Int32[] | Tableau d'ID d'estampilles. |
 
 ## Exemples
 
@@ -59,6 +59,8 @@ contentEditor.Save("outfile.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: MoveToNextLineShowText.MoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de MoveToNextLineShowText. Initialise l'opérateur
+title: "MoveToNextLineShowText.MoveToNextLineShowText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur MoveToNextLineShowText. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/
@@ -16,8 +16,8 @@ public MoveToNextLineShowText()
 
 ### Voir aussi
 
-* classe [MoveToNextLineShowText](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [MoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,10 +32,12 @@ public MoveToNextLineShowText(string text)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Le texte. |
+| texte | String | Le texte. |
 
 ### Voir aussi
 
-* classe [MoveToNextLineShowText](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [MoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

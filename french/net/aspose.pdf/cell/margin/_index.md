@@ -1,14 +1,14 @@
 ---
-title: Cell.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Cell. Obtient ou définit le rembourrage
+title: "Cell.Margin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Cell propriété. Obtient ou définit le remplissage"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/cell/margin/
 ---
-## Propriété Cell.Margin
+## Cell.Margin property
 
-Obtient ou définit le rembourrage.
+Obtient ou définit le remplissage.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### Voir aussi
 
-* classe [MarginInfo](../../margininfo/)
-* classe [Cell](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [MarginInfo](../../margininfo/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

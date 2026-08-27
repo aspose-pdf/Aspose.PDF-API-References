@@ -1,12 +1,12 @@
 ---
-title: Circle.Circle
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de Circle. Initialise une nouvelle instance de la classe Circle
+title: "Circle.Circle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Circle. Initialise une nouvelle instance de la classe Circle"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.drawing/circle/circle/
 ---
-## Constructeur de Circle
+## Circle constructor
 
 Initialise une nouvelle instance de la classe [`Circle`](../).
 
@@ -22,6 +22,8 @@ public Circle(float posX, float posY, float radius)
 
 ### Voir aussi
 
-* classe [Circle](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Circle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

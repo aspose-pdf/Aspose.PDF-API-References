@@ -1,12 +1,12 @@
 ---
-title: Jpeg.Jpeg
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Jpeg. Le constructeur par défaut
+title: "Jpeg.Jpeg"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Jpeg constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/jpeg/jpeg/
 ---
-## Constructeur Jpeg
+## Jpeg constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Jpeg()
 
 ### Voir aussi
 
-* classe [Jpeg](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [Jpeg](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

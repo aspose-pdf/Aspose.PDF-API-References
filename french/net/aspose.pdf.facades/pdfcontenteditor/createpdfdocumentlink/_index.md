@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreatePdfDocumentLink
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Crée un lien vers une autre page de document PDF
+title: "PdfContentEditor.CreatePdfDocumentLink"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Crée un lien vers la page d'un autre document PDF"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/
@@ -19,7 +19,7 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle pour le clic actif. |
 | remotePdf | String | Le document PDF dont la page sera ouverte. |
-| originalPage | Int32 | Le numéro de la page originale où le rectangle lié au lien sera créé. |
+| originalPage | Int32 | Le numéro de la page d'origine où le rectangle lié au lien sera créé. |
 | destinationPage | Int32 | La page de destination. |
 | clr | Color | La couleur du rectangle pour le clic actif. |
 | actionName | Enum[] | Le tableau d'actions (membres de l'énumération PredefinedAction) correspondant à l'exécution des éléments de menu dans le visualiseur Acrobat. |
@@ -37,8 +37,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -56,7 +56,7 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle pour le clic actif. |
 | remotePdf | String | Le document PDF dont la page sera ouverte. |
-| originalPage | Int32 | Le numéro de la page originale où le rectangle lié au lien sera créé. |
+| originalPage | Int32 | Le numéro de la page d'origine où le rectangle lié au lien sera créé. |
 | destinationPage | Int32 | La page de destination. |
 | clr | Color | La couleur du rectangle pour le clic actif. |
 
@@ -72,8 +72,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -91,7 +91,7 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle pour le clic actif. |
 | remotePdf | String | Le document PDF dont la page sera ouverte. |
-| originalPage | Int32 | Le numéro de la page originale où le rectangle lié au lien sera créé. |
+| originalPage | Int32 | Le numéro de la page d'origine où le rectangle lié au lien sera créé. |
 | destinationPage | Int32 | La page de destination. |
 
 ## Exemples
@@ -105,6 +105,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

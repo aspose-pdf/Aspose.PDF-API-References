@@ -1,12 +1,12 @@
 ---
-title: Layer.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la couche. Obtient le nom de la couche
+title: "Layer.Name"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Layer. Obtient le nom du calque"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/layer/name/
 ---
-## Propriété Layer.Name
+## Layer.Name property
 
 Obtient le nom de la couche.
 
@@ -16,6 +16,8 @@ public string Name { get; }
 
 ### Voir aussi
 
-* classe [Layer](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

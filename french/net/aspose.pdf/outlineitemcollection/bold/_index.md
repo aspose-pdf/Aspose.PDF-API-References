@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Bold
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineItemCollection. Obtient ou définit le drapeau gras pour le texte du titre de cet élément de plan
+title: "OutlineItemCollection.Bold"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection propriété. Obtient ou définit le drapeau gras pour le texte du titre de cet élément du plan"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/outlineitemcollection/bold/
 ---
-## Propriété OutlineItemCollection.Bold
+## OutlineItemCollection.Bold property
 
 Obtient ou définit le drapeau gras pour le texte du titre de cet élément de plan
 
@@ -16,6 +16,8 @@ public bool Bold { get; set; }
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

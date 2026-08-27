@@ -1,14 +1,14 @@
 ---
-title: Class FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.FontEmbeddingOptions. La norme PDF/A exige que toutes les polices doivent être intégrées dans le document. Cette classe inclut des indicateurs pour les cas où il n'est pas possible d'intégrer une certaine police car cette police est absente sur le PC de destination.
+title: "Classe FontEmbeddingOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.FontEmbeddingOptions class. La norme PDF/A exige que toutes les polices soient incorporées dans le document. Cette classe comprend des indicateurs pour les cas où il n'est pas possible d'incorporer une police parce que cette police est absente sur le PC de destination."
 type: docs
-weight: 4890
+weight: 5010
 url: /fr/net/aspose.pdf/fontembeddingoptions/
 ---
-## Classe FontEmbeddingOptions
+## FontEmbeddingOptions class
 
-La norme PDF/A exige que toutes les polices doivent être intégrées dans le document. Cette classe inclut des indicateurs pour les cas où il n'est pas possible d'intégrer une certaine police car cette police est absente sur le PC de destination.
+La norme PDF/A exige que toutes les polices soient intégrées dans le document. Cette classe inclut des indicateurs pour les cas où il n'est pas possible d'intégrer certaines polices parce que ces polices sont absentes sur le PC de destination.
 
 ```csharp
 public class FontEmbeddingOptions
@@ -24,9 +24,11 @@ public class FontEmbeddingOptions
 
 | Nom | Description |
 | --- | --- |
-| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | Indique s'il faut substituer la police non intégrée en utilisant la stratégie de substitution de police par défaut. Valeur par défaut : `false`. |
+| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | Indique s'il faut substituer une police non incorporée en utilisant la stratégie de substitution de police par défaut. Valeur par défaut: `false`. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

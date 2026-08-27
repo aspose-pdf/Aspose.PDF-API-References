@@ -1,12 +1,12 @@
 ---
-title: Form.ImportJson
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Importe toutes les données de champ d'un flux JSON dans les champs du document en faisant correspondre les champs par leurs noms complets
+title: "Form.ImportJson"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Importe toutes les données de champ depuis un flux JSON dans les champs du document en faisant correspondre les champs par leurs noms complets"
 type: docs
 weight: 290
 url: /fr/net/aspose.pdf.facades/form/importjson/
 ---
-## Méthode Form.ImportJson
+## Form.ImportJson method
 
 Importe toutes les données de champ d'un flux JSON dans les champs du document, en faisant correspondre les champs par leurs noms complets.
 
@@ -30,6 +30,8 @@ form.Save();
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

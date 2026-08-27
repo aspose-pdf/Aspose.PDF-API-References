@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.ExternalResourcesCredentials
-second_title: Aspose.PDF for .NET API Reference
-description: Champ HtmlLoadOptions. Si le chargement de données externes référencées dans HTML nécessite des identifiants, vous pouvez les mettre dans ce paramètre - ils seront utilisés lors du chargement des ressources externes
+title: "HtmlLoadOptions.ExternalResourcesCredentials"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "HtmlLoadOptions champ. Si le chargement de données externes référencées dans le HTML nécessite des informations d'identification, vous pouvez les placer dans ce paramètre ; elles seront utilisées lors du chargement des ressources externes"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/htmlloadoptions/externalresourcescredentials/
 ---
-## Champ HtmlLoadOptions.ExternalResourcesCredentials
+## HtmlLoadOptions.ExternalResourcesCredentials field
 
-Si le chargement de données externes référencées dans HTML nécessite des identifiants, vous pouvez les mettre dans ce paramètre - ils seront utilisés lors du chargement des ressources externes
+Si le chargement de données externes référencées dans le HTML nécessite des informations d’identification, vous pouvez les placer dans ce paramètre – elles seront utilisées lors du chargement des ressources externes.
 
 ```csharp
 public ICredentials ExternalResourcesCredentials;
@@ -16,6 +16,8 @@ public ICredentials ExternalResourcesCredentials;
 
 ### Voir aussi
 
-* classe [HtmlLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

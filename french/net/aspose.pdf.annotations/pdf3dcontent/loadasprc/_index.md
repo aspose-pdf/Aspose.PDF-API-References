@@ -1,7 +1,7 @@
 ---
-title: PDF3DContent.LoadAsPRC
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PDF3DContent. Charge le contenu 3D avec le nom de fichier spécifié au format PRC
+title: "PDF3DContent.LoadAsPRC"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PDF3DContent. Charge le contenu 3D avec le nom de fichier spécifié au format PRC"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.annotations/pdf3dcontent/loadasprc/
@@ -16,19 +16,19 @@ public void LoadAsPRC(string filename)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| filename | String | Le nom de fichier. |
+| nom de fichier | String | Le nom de fichier. |
 
 ### Voir aussi
 
-* classe [PDF3DContent](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## LoadAsPRC(Stream) {#loadasprc_1}
 
-Charge le contenu 3D à partir du flux au format PRC.
+Charge le contenu 3D à partir d'un flux au format PRC.
 
 ```csharp
 public void LoadAsPRC(Stream stream)
@@ -40,8 +40,8 @@ public void LoadAsPRC(Stream stream)
 
 ### Voir aussi
 
-* classe [PDF3DContent](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -60,6 +60,8 @@ public void LoadAsPRC(byte[] stream)
 
 ### Voir aussi
 
-* classe [PDF3DContent](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

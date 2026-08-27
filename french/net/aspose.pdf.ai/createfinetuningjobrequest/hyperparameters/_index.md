@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobRequest.Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CreateFineTuningJobRequest. Obtient ou définit les hyperparamètres utilisés pour le travail de finetuning
+title: "CreateFineTuningJobRequest.Hyperparameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CreateFineTuningJobRequest. Obtient ou définit les hyperparamètres utilisés pour le travail de réglage fin"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/
 ---
-## Propriété CreateFineTuningJobRequest.Hyperparameters
+## CreateFineTuningJobRequest.Hyperparameters property
 
-Obtient ou définit les hyperparamètres utilisés pour le travail de finetuning.
+Obtient ou définit les hyperparamètres utilisés pour le travail de fine‑tuning.
 
 ```csharp
 public Hyperparameters Hyperparameters { get; set; }
@@ -16,7 +16,9 @@ public Hyperparameters Hyperparameters { get; set; }
 
 ### Voir aussi
 
-* classe [Hyperparameters](../../hyperparameters/)
-* classe [CreateFineTuningJobRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Hyperparameters](../../hyperparameters/)
+* class [CreateFineTuningJobRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

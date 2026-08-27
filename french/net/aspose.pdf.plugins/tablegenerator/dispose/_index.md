@@ -1,14 +1,14 @@
 ---
-title: TableGenerator.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TableGenerator. Implémentation de IDisposable. En fait, il n'est pas nécessaire pour TableGenerator
+title: "TableGenerator.Dispose"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TableGenerator. Implémentation de IDisposable. En fait, ce n'est pas nécessaire pour TableGenerator"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/tablegenerator/dispose/
 ---
-## Méthode TableGenerator.Dispose
+## TableGenerator.Dispose method
 
-Implémentation de IDisposable. En fait, il n'est pas nécessaire pour TableGenerator.
+Implémentation de IDisposable. En fait, ce n'est pas nécessaire pour TableGenerator.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Voir aussi
 
-* classe [TableGenerator](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [TableGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

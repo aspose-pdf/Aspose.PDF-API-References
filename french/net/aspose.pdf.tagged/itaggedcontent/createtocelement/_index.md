@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTOCElement
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITaggedContent. Crée TOCElement
+title: "ITaggedContent.CreateTOCElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ITaggedContent méthode. Crée TOCElement"
 type: docs
-weight: 350
+weight: 380
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/createtocelement/
 ---
-## Méthode ITaggedContent.CreateTOCElement
+## ITaggedContent.CreateTOCElement method
 
 Crée [`TOCElement`](../../../aspose.pdf.logicalstructure/tocelement/).
 
@@ -20,7 +20,9 @@ public TOCElement CreateTOCElement()
 
 ### Voir aussi
 
-* classe [TOCElement](../../../aspose.pdf.logicalstructure/tocelement/)
+* class [TOCElement](../../../aspose.pdf.logicalstructure/tocelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

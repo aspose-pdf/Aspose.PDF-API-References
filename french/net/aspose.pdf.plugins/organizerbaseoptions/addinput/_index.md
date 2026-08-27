@@ -1,12 +1,12 @@
 ---
-title: OrganizerBaseOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OrganizerBaseOptions. Ajoute une nouvelle source de données à la collection de données du plugin PdfOrganizer
+title: "OrganizerBaseOptions.AddInput"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OrganizerBaseOptions. Ajoute une nouvelle source de données à la collection de données du plugin PdfOrganizer."
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.plugins/organizerbaseoptions/addinput/
 ---
-## Méthode OrganizerBaseOptions.AddInput
+## OrganizerBaseOptions.AddInput method
 
 Ajoute une nouvelle source de données à la collection de données du plugin PdfOrganizer.
 
@@ -24,3 +24,5 @@ public void AddInput(IDataSource dataSource)
 * class [OrganizerBaseOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

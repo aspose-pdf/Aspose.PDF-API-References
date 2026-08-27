@@ -1,14 +1,14 @@
 ---
-title: Outlines.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Outlines. Supprimer un élément de la collection d'outlines
+title: "Outlines.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Outlines. Supprime l'élément de la collection de plan"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/outlines/remove/
 ---
-## Méthode Outlines.Remove
+## Outlines.Remove method
 
-Supprimer un élément de la collection d'outlines.
+Supprime l'élément de la collection de plan.
 
 ```csharp
 public abstract bool Remove(OutlineItemCollection item)
@@ -20,11 +20,13 @@ public abstract bool Remove(OutlineItemCollection item)
 
 ### Valeur de retour
 
-Vrai - si l'élément a été supprimé ; sinon, faux.
+True - si l'élément est supprimé ; sinon, false.
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../../outlineitemcollection/)
-* classe [Outlines](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

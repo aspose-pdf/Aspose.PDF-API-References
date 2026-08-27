@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentInfo. Obtient ou définit la valeur associée à la clé spécifiée
+title: "DocumentInfo.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentInfo. Obtient ou définit la valeur associée à la clé spécifiée"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/documentinfo/item/
 ---
-## Indexeur DocumentInfo
+## DocumentInfo indexer
 
 Obtient ou définit la valeur associée à la clé spécifiée.
 
@@ -16,10 +16,12 @@ public string this[string key] { get; set; }
 
 | Paramètre | Description |
 | --- | --- |
-| key | La clé dont il faut obtenir ou définir la valeur. |
+| clé | La clé dont la valeur doit être obtenue ou définie. |
 
 ### Voir aussi
 
-* classe [DocumentInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

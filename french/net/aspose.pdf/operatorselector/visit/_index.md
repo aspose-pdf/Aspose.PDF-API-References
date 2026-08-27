@@ -1,14 +1,14 @@
 ---
-title: OperatorSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OperatorSelector. Visiter/sélectionner l'opérateur j
+title: "OperatorSelector.Visit"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OperatorSelector. Visiter/sélectionner l'opérateur j"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/operatorselector/visit/
 ---
 ## Visit(SetLineJoin) {#visit_59}
 
-Visiter/sélectionner l'opérateur j.
+Visiter/sélectionner j opérateur.
 
 ```csharp
 public void Visit(SetLineJoin j)
@@ -37,7 +37,7 @@ public void Visit(EX EX)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| EX | EX | Opérateur de section de compatibilité de fin. |
+| EX | EX | Opérateur de fin de section de compatibilité. |
 
 ### Voir aussi
 
@@ -79,7 +79,7 @@ public void Visit(EMC EMC)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| EMC | EMC | Opérateur de fin de séquence de contenu marqué. |
+| EMC | EMC | Fin de l'opérateur de séquence de contenu marqué. |
 
 ### Voir aussi
 
@@ -100,7 +100,7 @@ public void Visit(EI EI)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| EI | EI | Opérateur de fin d'objet image en ligne. |
+| EI | EI | Fin de l'opérateur d'objet image en ligne. |
 
 ### Voir aussi
 
@@ -121,7 +121,7 @@ public void Visit(DP DP)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| DP | DP | Définir l'opérateur de point de contenu marqué (avec liste de propriétés). |
+| DP | DP | Définir l'opérateur de point de contenu marqué (avec la liste de propriétés). |
 
 ### Voir aussi
 
@@ -142,7 +142,7 @@ public void Visit(Do Do)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| Do | Do | Invoker l'opérateur XObject nommé. |
+| Do | Do | Appeler l'opérateur XObject nommé. |
 
 ### Voir aussi
 
@@ -155,7 +155,7 @@ public void Visit(Do Do)
 
 ## Visit(SetCharWidthBoundingBox) {#visit_44}
 
-Visiter/sélectionner l'opérateur d1.
+Visiter/sélectionner d1 opérateur.
 
 ```csharp
 public void Visit(SetCharWidthBoundingBox d1)
@@ -163,7 +163,7 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | Définir la largeur du glyphe et la boîte englobante dans l'opérateur de police de type 3. |
+| d1 | SetCharWidthBoundingBox | Définir la largeur du glyphe et la boîte englobante dans l'opérateur de police Type 3. |
 
 ### Voir aussi
 
@@ -184,7 +184,7 @@ public void Visit(SetCharWidth d0)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| d0 | SetCharWidth | Définir la largeur du glyphe dans l'opérateur de police de type 3. |
+| d0 | SetCharWidth | Définir la largeur du glyphe dans l'opérateur de police Type 3. |
 
 ### Voir aussi
 
@@ -197,7 +197,7 @@ public void Visit(SetCharWidth d0)
 
 ## Visit(SetDash) {#visit_52}
 
-Visiter/sélectionner l'opérateur d.
+Visiter/sélectionner d opérateur.
 
 ```csharp
 public void Visit(SetDash d)
@@ -205,7 +205,7 @@ public void Visit(SetDash d)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| d | SetDash | Définir le motif de tiret de ligne. |
+| d | SetDash | Définir l'opérateur de motif de tirets de ligne. |
 
 ### Voir aussi
 
@@ -218,7 +218,7 @@ public void Visit(SetDash d)
 
 ## Visit(SetColorSpaceStroke) {#visit_50}
 
-Visiter/sélectionner l'opérateur CS.
+Visiter/sélectionner CS opérateur.
 
 ```csharp
 public void Visit(SetColorSpaceStroke CS)
@@ -226,7 +226,7 @@ public void Visit(SetColorSpaceStroke CS)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | Définir l'opérateur d'espace colorimétrique (pour les opérations de traçage). |
+| CS | SetColorSpaceStroke | Définir l'opérateur d'espace couleur (pour les opérations de tracé). |
 
 ### Voir aussi
 
@@ -239,7 +239,7 @@ public void Visit(SetColorSpaceStroke CS)
 
 ## Visit(SetColorSpace) {#visit_49}
 
-Visiter/sélectionner l'opérateur cs.
+Visiter/sélectionner cs opérateur.
 
 ```csharp
 public void Visit(SetColorSpace cs)
@@ -247,7 +247,7 @@ public void Visit(SetColorSpace cs)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| cs | SetColorSpace | Définir l'opérateur d'espace colorimétrique (pour les opérations non de traçage). |
+| cs | SetColorSpace | Définir l'opérateur d'espace couleur (pour les opérations sans tracé). |
 
 ### Voir aussi
 
@@ -268,7 +268,7 @@ public void Visit(ConcatenateMatrix cm)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | Concaténer la matrice à l'opérateur de matrice de transformation actuelle. |
+| cm | ConcatenateMatrix | Concaténer la matrice à l'opérateur de matrice de transformation courante. |
 
 ### Voir aussi
 
@@ -289,7 +289,7 @@ public void Visit(CurveTo c)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| c | CurveTo | Ajouter un segment courbé au chemin (trois points de contrôle). |
+| c | CurveTo | Ajouter un segment courbe à l'opérateur de chemin (trois points de contrôle). |
 
 ### Voir aussi
 
@@ -415,7 +415,7 @@ public void Visit(FillStroke B)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| B | FillStroke | Remplir et tracer l'opérateur de chemin (règle de nombre de tours non nul). |
+| B | FillStroke | Opérateur de remplissage et de tracé de chemin (règle du nombre de tours non nul). |
 
 ### Voir aussi
 
@@ -436,7 +436,7 @@ public void Visit(ClosePathFillStroke b)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| b | ClosePathFillStroke | Fermer, remplir et tracer l'opérateur de chemin (règle de nombre de tours non nul). |
+| b | ClosePathFillStroke | Opérateur de fermeture, remplissage et tracé de chemin (règle du nombre de tours non nul). |
 
 ### Voir aussi
 
@@ -457,7 +457,7 @@ public void Visit(EOFillStroke B_)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| B_ | EOFillStroke | Remplir et tracer l'opérateur de chemin (règle pair-impair). |
+| B_ | EOFillStroke | Opérateur de remplissage et de tracé de chemin (règle pair‑impair). |
 
 ### Voir aussi
 
@@ -478,7 +478,7 @@ public void Visit(ClosePathEOFillStroke b_)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | Fermer, remplir et tracer l'opérateur de chemin (règle pair-impair). |
+| b_ | ClosePathEOFillStroke | Opérateur de fermeture, remplissage et tracé de chemin (règle pair‑impair). |
 
 ### Voir aussi
 
@@ -499,7 +499,7 @@ public void Visit(MoveToNextLineShowText _)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | Passer à la ligne suivante et afficher le texte. |
+| _ | MoveToNextLineShowText | Opérateur de déplacement à la ligne suivante et d'affichage du texte. |
 
 ### Voir aussi
 
@@ -512,7 +512,7 @@ public void Visit(MoveToNextLineShowText _)
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
-Visiter/sélectionner l'opérateur ''.
+Visiter/sélectionner '' opérateur.
 
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
@@ -520,7 +520,7 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | Définir l'espacement des mots et des caractères, passer à la ligne suivante et afficher le texte. |
+| __ | SetSpacingMoveToNextLineShowText | Définit l'espacement des mots et des caractères, passe à la ligne suivante et affiche le texte, opérateur. |
 
 ### Voir aussi
 
@@ -541,7 +541,7 @@ public void Visit(EOFill f_)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| f_ | EOFill | Remplir l'opérateur de chemin (règle pair-impair). |
+| f_ | EOFill | Opérateur de remplissage du chemin (règle pair-impair). |
 
 ### Voir aussi
 
@@ -562,7 +562,7 @@ public void Visit(Fill f)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| f | Fill | Remplir l'opérateur de chemin (règle de nombre de tours non nul). |
+| f | Fill | Opérateur de remplissage du chemin (règle du nombre de tours non nul). |
 
 ### Voir aussi
 
@@ -583,7 +583,7 @@ public void Visit(ObsoleteFill F)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| F | ObsoleteFill | Remplir l'opérateur de chemin (règle de nombre de tours non nul). |
+| F | ObsoleteFill | Opérateur de remplissage du chemin (règle du nombre de tours non nul). |
 
 ### Voir aussi
 
@@ -596,7 +596,7 @@ public void Visit(ObsoleteFill F)
 
 ## Visit(SetGray) {#visit_55}
 
-Visiter/sélectionner l'opérateur g.
+Visiter/sélectionner g opérateur.
 
 ```csharp
 public void Visit(SetGray g)
@@ -604,7 +604,7 @@ public void Visit(SetGray g)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| g | SetGray | Définir le niveau de gris (pour les opérations non de traçage). |
+| g | SetGray | Opérateur de définition du niveau de gris (pour les opérations sans tracé). |
 
 ### Voir aussi
 
@@ -617,7 +617,7 @@ public void Visit(SetGray g)
 
 ## Visit(SetGrayStroke) {#visit_56}
 
-Visiter/sélectionner l'opérateur G.
+Visiter/sélectionner G opérateur.
 
 ```csharp
 public void Visit(SetGrayStroke G)
@@ -625,7 +625,7 @@ public void Visit(SetGrayStroke G)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| G | SetGrayStroke | Définir le niveau de gris (pour les opérations de traçage). |
+| G | SetGrayStroke | Opérateur de définition du niveau de gris (pour les opérations de tracé). |
 
 ### Voir aussi
 
@@ -646,7 +646,7 @@ public void Visit(GS gs)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| gs | GS | Définir l'état graphique. |
+| gs | GS | Opérateur de définition de l'état graphique. |
 
 ### Voir aussi
 
@@ -667,7 +667,7 @@ public void Visit(ClosePath h)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| h | ClosePath | Fermer l'opérateur de sous-chemin. |
+| h | ClosePath | Opérateur de fermeture du sous-chemin. |
 
 ### Voir aussi
 
@@ -680,7 +680,7 @@ public void Visit(ClosePath h)
 
 ## Visit(SetFlat) {#visit_53}
 
-Visiter/sélectionner l'opérateur i.
+Visiter/sélectionner i opérateur.
 
 ```csharp
 public void Visit(SetFlat i)
@@ -688,7 +688,7 @@ public void Visit(SetFlat i)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| i | SetFlat | Définir la tolérance de planéité. |
+| i | SetFlat | Opérateur de définition de la tolérance de platitude. |
 
 ### Voir aussi
 
@@ -722,7 +722,7 @@ public void Visit(ID ID)
 
 ## Visit(SetLineCap) {#visit_58}
 
-Visiter/sélectionner l'opérateur J.
+Visiter/sélectionner J opérateur.
 
 ```csharp
 public void Visit(SetLineCap J)
@@ -730,7 +730,7 @@ public void Visit(SetLineCap J)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| J | SetLineCap | Définir le style de cap de ligne. |
+| J | SetLineCap | Définir l'opérateur de style de terminaison de ligne. |
 
 ### Voir aussi
 
@@ -743,7 +743,7 @@ public void Visit(SetLineCap J)
 
 ## Visit(SetCMYKColor) {#visit_45}
 
-Visiter/sélectionner l'opérateur k.
+Visiter/sélectionner k opérateur.
 
 ```csharp
 public void Visit(SetCMYKColor k)
@@ -751,7 +751,7 @@ public void Visit(SetCMYKColor k)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| k | SetCMYKColor | Définir l'opérateur de couleur CMJN (pour les opérations non de traçage). |
+| k | SetCMYKColor | Définir l'opérateur de couleur CMYK (pour les opérations sans tracé). |
 
 ### Voir aussi
 
@@ -764,7 +764,7 @@ public void Visit(SetCMYKColor k)
 
 ## Visit(SetCMYKColorStroke) {#visit_46}
 
-Visiter/sélectionner l'opérateur K.
+Visiter/sélectionner K opérateur.
 
 ```csharp
 public void Visit(SetCMYKColorStroke K)
@@ -772,7 +772,7 @@ public void Visit(SetCMYKColorStroke K)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | Définir l'opérateur de couleur CMJN (pour les opérations de traçage). |
+| K | SetCMYKColorStroke | Définir l'opérateur de couleur CMYK (pour les opérations de tracé). |
 
 ### Voir aussi
 
@@ -814,7 +814,7 @@ public void Visit(MoveTo m)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| m | MoveTo | Débuter un nouvel opérateur de sous-chemin. |
+| m | MoveTo | Début du nouvel opérateur de sous-chemin. |
 
 ### Voir aussi
 
@@ -827,7 +827,7 @@ public void Visit(MoveTo m)
 
 ## Visit(SetMiterLimit) {#visit_61}
 
-Visiter/sélectionner l'opérateur M.
+Visiter/sélectionner M opérateur.
 
 ```csharp
 public void Visit(SetMiterLimit M)
@@ -835,7 +835,7 @@ public void Visit(SetMiterLimit M)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| M | SetMiterLimit | Définir l'opérateur de limite de miter. |
+| M | SetMiterLimit | Définir l'opérateur de limite de jointure. |
 
 ### Voir aussi
 
@@ -877,7 +877,7 @@ public void Visit(EndPath n)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| n | EndPath | Fin de l'opérateur de chemin (sans remplissage ni traçage). |
+| n | EndPath | Terminer l'opérateur de chemin (sans remplissage ni tracé). |
 
 ### Voir aussi
 
@@ -898,7 +898,7 @@ public void Visit(GSave q)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| q | GSave | Enregistrer l'état graphique. |
+| q | GSave | Enregistrer l'opérateur d'état graphique. |
 
 ### Voir aussi
 
@@ -919,7 +919,7 @@ public void Visit(GRestore Q)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| Q | GRestore | Restaurer l'état graphique. |
+| Q | GRestore | Opérateur de restauration de l'état graphique. |
 
 ### Voir aussi
 
@@ -940,7 +940,7 @@ public void Visit(Re re)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| re | Re | Ajouter un rectangle à l'opérateur de chemin. |
+| re | Re | Opérateur d'ajout de rectangle au tracé. |
 
 ### Voir aussi
 
@@ -953,7 +953,7 @@ public void Visit(Re re)
 
 ## Visit(SetRGBColor) {#visit_62}
 
-Visiter/sélectionner l'opérateur rg.
+Visiter/sélectionner rg opérateur.
 
 ```csharp
 public void Visit(SetRGBColor rg)
@@ -961,7 +961,7 @@ public void Visit(SetRGBColor rg)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| rg | SetRGBColor | Définir l'opérateur de couleur RVB (pour les opérations non de traçage). |
+| rg | SetRGBColor | Opérateur de définition de couleur RVB (pour les opérations sans tracé). |
 
 ### Voir aussi
 
@@ -974,7 +974,7 @@ public void Visit(SetRGBColor rg)
 
 ## Visit(SetRGBColorStroke) {#visit_63}
 
-Visiter/sélectionner l'opérateur RG.
+Visiter/sélectionner RG opérateur.
 
 ```csharp
 public void Visit(SetRGBColorStroke RG)
@@ -982,7 +982,7 @@ public void Visit(SetRGBColorStroke RG)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| RG | SetRGBColorStroke | Définir l'opérateur de couleur RVB (pour les opérations de traçage). |
+| RG | SetRGBColorStroke | Opérateur de définition de couleur RVB (pour les opérations de tracé). |
 
 ### Voir aussi
 
@@ -995,7 +995,7 @@ public void Visit(SetRGBColorStroke RG)
 
 ## Visit(SetColorRenderingIntent) {#visit_48}
 
-Visiter/sélectionner l'opérateur ri.
+Visiter/sélectionner ri opérateur.
 
 ```csharp
 public void Visit(SetColorRenderingIntent ri)
@@ -1003,7 +1003,7 @@ public void Visit(SetColorRenderingIntent ri)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | Définir l'intention de rendu des couleurs. |
+| ri | SetColorRenderingIntent | Opérateur de définition de l'intention de rendu des couleurs. |
 
 ### Voir aussi
 
@@ -1024,7 +1024,7 @@ public void Visit(ClosePathStroke s)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| s | ClosePathStroke | Fermer et tracer l'opérateur de chemin. |
+| s | ClosePathStroke | Opérateur de fermeture et de tracé du chemin. |
 
 ### Voir aussi
 
@@ -1045,7 +1045,7 @@ public void Visit(Stroke S)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| S | Stroke | Tracer l'opérateur de chemin. |
+| S | Stroke | Opérateur de tracé du chemin. |
 
 ### Voir aussi
 
@@ -1058,7 +1058,7 @@ public void Visit(Stroke S)
 
 ## Visit(SetColor) {#visit_47}
 
-Visiter/sélectionner l'opérateur sc.
+Visiter/sélectionner sc opérateur.
 
 ```csharp
 public void Visit(SetColor sc)
@@ -1066,7 +1066,7 @@ public void Visit(SetColor sc)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| sc | SetColor | Définir l'opérateur de couleur (pour les opérations non de traçage). |
+| sc | SetColor | Opérateur de définition de couleur (pour les opérations sans tracé). |
 
 ### Voir aussi
 
@@ -1079,7 +1079,7 @@ public void Visit(SetColor sc)
 
 ## Visit(SetColorStroke) {#visit_51}
 
-Visiter/sélectionner l'opérateur SC.
+Visiter/sélectionner SC opérateur.
 
 ```csharp
 public void Visit(SetColorStroke SC)
@@ -1087,7 +1087,7 @@ public void Visit(SetColorStroke SC)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| SC | SetColorStroke | Définir l'opérateur de couleur (pour les opérations de traçage). |
+| SC | SetColorStroke | Opérateur de couleur (pour les opérations de tracé). |
 
 ### Voir aussi
 
@@ -1108,7 +1108,7 @@ public void Visit(SetAdvancedColor scn)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| scn | SetAdvancedColor | Définir l'opérateur de couleur (pour les opérations non de traçage, espaces de couleur ICCBased et spéciaux). |
+| scn | SetAdvancedColor | Opérateur de couleur (pour les opérations de remplissage, ICCBased et espaces colorimétriques spéciaux). |
 
 ### Voir aussi
 
@@ -1129,7 +1129,7 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | Définir l'opérateur de couleur (pour les opérations de traçage, espaces de couleur ICCBased et spéciaux). |
+| SCN | SetAdvancedColorStroke | Opérateur de couleur (pour les opérations de tracé, ICCBased et espaces colorimétriques spéciaux). |
 
 ### Voir aussi
 
@@ -1150,7 +1150,7 @@ public void Visit(ShFill sh)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| sh | ShFill | Peindre la zone définie par le motif d'ombrage. |
+| sh | ShFill | Peindre la zone définie par l'opérateur de motif d'ombrage. |
 
 ### Voir aussi
 
@@ -1171,7 +1171,7 @@ public void Visit(MoveToNextLine T_)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| T_ | MoveToNextLine | Passer au début de la ligne de texte suivante. |
+| T_ | MoveToNextLine | Opérateur de déplacement au début de la ligne de texte suivante. |
 
 ### Voir aussi
 
@@ -1192,7 +1192,7 @@ public void Visit(SetCharacterSpacing Tc)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | Définir l'opérateur d'espacement des caractères. |
+| Tc | SetCharacterSpacing | Opérateur de réglage de l'espacement des caractères. |
 
 ### Voir aussi
 
@@ -1213,7 +1213,7 @@ public void Visit(MoveTextPosition Td)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| Td | MoveTextPosition | Déplacer la position du texte. |
+| Td | MoveTextPosition | Opérateur de déplacement de la position du texte. |
 
 ### Voir aussi
 
@@ -1234,7 +1234,7 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | Déplacer la position du texte et définir le leading. |
+| TD | MoveTextPositionSetLeading | Opérateur de déplacement de la position du texte et de réglage de l'interligne. |
 
 ### Voir aussi
 
@@ -1255,7 +1255,7 @@ public void Visit(SelectFont Tf)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| Tf | SelectFont | Définir la police et la taille du texte. |
+| Tf | SelectFont | Définir la police et la taille du texte, opérateur. |
 
 ### Voir aussi
 
@@ -1276,7 +1276,7 @@ public void Visit(ShowText Tj)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| Tj | ShowText | Afficher l'opérateur de texte. |
+| Tj | ShowText | Opérateur d'affichage du texte. |
 
 ### Voir aussi
 
@@ -1289,7 +1289,7 @@ public void Visit(ShowText Tj)
 
 ## Visit(SetGlyphsPositionShowText) {#visit_54}
 
-Visiter/sélectionner l'opérateur TJ.
+Visiter/sélectionner TJ opérateur.
 
 ```csharp
 public void Visit(SetGlyphsPositionShowText TJ)
@@ -1297,7 +1297,7 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | Afficher l'opérateur de texte (permettant le positionnement individuel des glyphes). |
+| TJ | SetGlyphsPositionShowText | Opérateur d'affichage du texte (permettant le positionnement individuel des glyphes). |
 
 ### Voir aussi
 
@@ -1310,7 +1310,7 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 ## Visit(SetTextLeading) {#visit_65}
 
-Visiter/sélectionner l'opérateur TL.
+Visiter/sélectionner TL opérateur.
 
 ```csharp
 public void Visit(SetTextLeading TL)
@@ -1318,7 +1318,7 @@ public void Visit(SetTextLeading TL)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| TL | SetTextLeading | Définir l'opérateur de leading du texte. |
+| TL | SetTextLeading | Opérateur de réglage de l'interligne du texte. |
 
 ### Voir aussi
 
@@ -1331,7 +1331,7 @@ public void Visit(SetTextLeading TL)
 
 ## Visit(SetTextMatrix) {#visit_66}
 
-Visiter/sélectionner l'opérateur Tm.
+Visiter/sélectionner Tm opérateur.
 
 ```csharp
 public void Visit(SetTextMatrix Tm)
@@ -1339,7 +1339,7 @@ public void Visit(SetTextMatrix Tm)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| Tm | SetTextMatrix | Définir la matrice de texte et la matrice de ligne de texte. |
+| Tm | SetTextMatrix | Opérateur de définition de la matrice du texte et de la matrice de ligne de texte. |
 
 ### Voir aussi
 
@@ -1352,7 +1352,7 @@ public void Visit(SetTextMatrix Tm)
 
 ## Visit(SetTextRenderingMode) {#visit_67}
 
-Visiter/sélectionner l'opérateur Tr.
+Visiter/sélectionner Tr opérateur.
 
 ```csharp
 public void Visit(SetTextRenderingMode Tr)
@@ -1360,7 +1360,7 @@ public void Visit(SetTextRenderingMode Tr)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | Définir l'opérateur de mode de rendu du texte. |
+| Tr | SetTextRenderingMode | Opérateur de définition du mode de rendu du texte. |
 
 ### Voir aussi
 
@@ -1373,7 +1373,7 @@ public void Visit(SetTextRenderingMode Tr)
 
 ## Visit(SetTextRise) {#visit_68}
 
-Visiter/sélectionner l'opérateur Ts.
+Visiter/sélectionner Ts opérateur.
 
 ```csharp
 public void Visit(SetTextRise Ts)
@@ -1381,7 +1381,7 @@ public void Visit(SetTextRise Ts)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| Ts | SetTextRise | Définir l'opérateur de montée du texte. |
+| Ts | SetTextRise | Opérateur de réglage de la montée du texte. |
 
 ### Voir aussi
 
@@ -1402,7 +1402,7 @@ public void Visit(SetWordSpacing Tw)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| Tw | SetWordSpacing | Définir l'opérateur d'espacement des mots. |
+| Tw | SetWordSpacing | Opérateur de réglage de l'espacement des mots. |
 
 ### Voir aussi
 
@@ -1415,7 +1415,7 @@ public void Visit(SetWordSpacing Tw)
 
 ## Visit(SetHorizontalTextScaling) {#visit_57}
 
-Visiter/sélectionner l'opérateur Tz.
+Visiter/sélectionner Tz opérateur.
 
 ```csharp
 public void Visit(SetHorizontalTextScaling Tz)
@@ -1423,7 +1423,7 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| Tz | SetHorizontalTextScaling | Définir l'opérateur d'échelle de texte horizontal. |
+| Tz | SetHorizontalTextScaling | Opérateur de réglage de l'échelle horizontale du texte. |
 
 ### Voir aussi
 
@@ -1444,7 +1444,7 @@ public void Visit(CurveTo1 v)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| v | CurveTo1 | Ajouter un segment courbé à l'opérateur de chemin (point initial répliqué). |
+| v | CurveTo1 | Ajouter un segment courbe à l'opérateur de chemin (point initial reproduit). |
 
 ### Voir aussi
 
@@ -1478,7 +1478,7 @@ public void Visit(EOClip W_)
 
 ## Visit(SetLineWidth) {#visit_60}
 
-Visiter/sélectionner l'opérateur w.
+Visiter/sélectionner w opérateur.
 
 ```csharp
 public void Visit(SetLineWidth w)
@@ -1507,7 +1507,7 @@ public void Visit(Clip W)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| W | Clip | Définir l'opérateur de chemin de découpage (règle de nombre de tours non nul). |
+| W | Clip | Définir l'opérateur de chemin de découpage (règle du nombre d'enroulements non nul). |
 
 ### Voir aussi
 
@@ -1528,7 +1528,7 @@ public void Visit(CurveTo2 y)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| y | CurveTo2 | Ajouter un segment courbé à l'opérateur de chemin (point final répliqué). |
+| y | CurveTo2 | Ajouter un segment courbe à l'opérateur de chemin (point final reproduit). |
 
 ### Voir aussi
 
@@ -1549,7 +1549,7 @@ public void Visit(TextOperator textOperator)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| textOperator | TextOperator | Opérateur de texte général utilisé pour sélectionner l'ensemble des opérateurs PDF correspondants. |
+| textOperator | TextOperator | Opérateur de texte général utilisé pour sélectionner l'ensemble des opérateurs pdf correspondants. |
 
 ### Voir aussi
 
@@ -1558,4 +1558,4 @@ public void Visit(TextOperator textOperator)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
----
+

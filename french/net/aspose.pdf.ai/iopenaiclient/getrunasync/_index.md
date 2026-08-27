@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IOpenAIClient. Récupère les détails d'une exécution spécifique dans un fil de manière asynchrone
+title: "IOpenAIClient.GetRunAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "méthode IOpenAIClient. Récupère les détails d'une exécution spécifique au sein d'un fil de discussion de façon asynchrone"
 type: docs
 weight: 230
 url: /fr/net/aspose.pdf.ai/iopenaiclient/getrunasync/
 ---
-## Méthode IOpenAIClient.GetRunAsync
+## IOpenAIClient.GetRunAsync method
 
-Récupère les détails d'une exécution spécifique dans un fil de manière asynchrone.
+Récupère les détails d'une exécution spécifique dans un fil de façon asynchrone.
 
 ```csharp
 public Task<RunResponse> GetRunAsync(string threadId, string runId, 
@@ -29,12 +29,14 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du fil est nul ou vide. |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID de l'exécution est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du fil est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID de l'exécution est nul ou vide. |
 
 ### Voir aussi
 
-* classe [RunResponse](../../runresponse/)
+* class [RunResponse](../../runresponse/)
 * interface [IOpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

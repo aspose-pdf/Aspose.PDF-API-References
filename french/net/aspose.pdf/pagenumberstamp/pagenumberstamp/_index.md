@@ -1,7 +1,7 @@
 ---
-title: PageNumberStamp.PageNumberStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PageNumberStamp. Initialise une nouvelle instance de la classe PageNumberStamp
+title: "PageNumberStamp.PageNumberStamp"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PageNumberStamp. Initialise une nouvelle instance de la classe PageNumberStamp"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/pagenumberstamp/pagenumberstamp/
@@ -20,8 +20,8 @@ public PageNumberStamp(string format)
 
 ### Voir aussi
 
-* classe [PageNumberStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,15 +36,15 @@ public PageNumberStamp()
 
 ### Voir aussi
 
-* classe [PageNumberStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PageNumberStamp(FormattedText) {#constructor_1}
 
-Crée PageNumberStamp par texte formaté.
+Crée un PageNumberStamp à partir d'un texte formaté.
 
 ```csharp
 public PageNumberStamp(FormattedText formattedText)
@@ -56,7 +56,9 @@ public PageNumberStamp(FormattedText formattedText)
 
 ### Voir aussi
 
-* classe [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* classe [PageNumberStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

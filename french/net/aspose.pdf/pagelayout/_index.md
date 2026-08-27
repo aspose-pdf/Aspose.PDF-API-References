@@ -1,14 +1,14 @@
 ---
-title: Enum PageLayout
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PageLayout d'Aspose.Pdf. Décrit la mise en page des pages
+title: "Énumération PageLayout"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.PageLayout. Décrit la mise en page"
 type: docs
-weight: 8180
+weight: 8320
 url: /fr/net/aspose.pdf/pagelayout/
 ---
-## Énumération PageLayout
+## PageLayout enumeration
 
-Décrit la mise en page des pages.
+Décrit la mise en page.
 
 ```csharp
 public enum PageLayout
@@ -19,14 +19,16 @@ public enum PageLayout
 | Nom | Valeur | Description |
 | --- | --- | --- |
 | SinglePage | `0` | Page unique. |
-| OneColumn | `1` | Afficher les pages dans une colonne. |
-| TwoColumnLeft | `2` | Afficher les pages en deux colonnes, avec les pages impaires à gauche. |
-| TwoColumnRight | `3` | Afficher les pages en deux colonnes, avec les pages impaires à droite. |
-| TwoPageLeft | `4` | Afficher les pages deux à la fois, avec les pages impaires à gauche. |
-| TwoPageRight | `5` | Afficher les pages deux à la fois, avec les pages impaires à droite. |
-| Default | `6` | Mise en page par défaut. |
+| OneColumn | `1` | Afficher les pages en une colonne. |
+| TwoColumnLeft | `2` | Affichez les pages en deux colonnes, les pages impaires à gauche. |
+| TwoColumnRight | `3` | Afficher les pages en deux colonnes, les pages impaires à droite. |
+| TwoPageLeft | `4` | Affichez les pages deux à la fois, les pages impaires à gauche. |
+| TwoPageRight | `5` | Affichez les pages deux à la fois, les pages impaires à droite. |
+| Default | `6` | Disposition par défaut. |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

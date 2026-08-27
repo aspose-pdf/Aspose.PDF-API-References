@@ -1,7 +1,7 @@
 ---
-title: SoundSampleData.SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur SoundSampleData. Initialise de nouvelles données d'échantillon sonore
+title: "SoundSampleData.SoundSampleData"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SoundSampleData. Initialise de nouvelles données d'échantillon audio"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/soundsampledata/soundsampledata/
@@ -20,8 +20,8 @@ public SoundSampleData(long samplingRate)
 
 ### Voir aussi
 
-* classe [SoundSampleData](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,12 +37,12 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | samplingRate | Int64 | Le taux d'échantillonnage. |
-| numberOfSoundChannels | Int32 | Le nombre de canaux sonores. |
+| numberOfSoundChannels | Int32 | Le nombre de canaux audio. |
 
 ### Voir aussi
 
-* classe [SoundSampleData](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -58,13 +58,13 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | samplingRate | Int64 | Le taux d'échantillonnage. |
-| numberOfSoundChannels | Int32 | Le nombre de canaux sonores. |
+| numberOfSoundChannels | Int32 | Le nombre de canaux audio. |
 | bitsPerChannel | Int32 | Le nombre de bits par valeur d'échantillon par canal. |
 
 ### Voir aussi
 
-* classe [SoundSampleData](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -81,13 +81,15 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | samplingRate | Int64 | Le taux d'échantillonnage. |
-| numberOfSoundChannels | Int32 | Le nombre de canaux sonores. |
+| numberOfSoundChannels | Int32 | Le nombre de canaux audio. |
 | bitsPerChannel | Int32 | Le nombre de bits par valeur d'échantillon par canal. |
-| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | Le format d'encodage pour les données d'échantillon. |
+| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | Le format d'encodage des données d'exemple. |
 
 ### Voir aussi
 
 * enum [SoundSampleDataEncodingFormat](../../soundsampledataencodingformat/)
-* classe [SoundSampleData](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

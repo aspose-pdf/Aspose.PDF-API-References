@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.Illustration
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PDF3DRenderMode. Le mode de rendu Illustration
+title: "PDF3DRenderMode.Illustration"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PDF3DRenderMode. Le mode de rendu Illustration"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/pdf3drendermode/illustration/
 ---
-## Champ PDF3DRenderMode.Illustration
+## PDF3DRenderMode.Illustration field
 
 Le mode de rendu "Illustration".
 
@@ -16,6 +16,8 @@ public static PDF3DRenderMode Illustration;
 
 ### Voir aussi
 
-* classe [PDF3DRenderMode](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

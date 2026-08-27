@@ -1,12 +1,12 @@
 ---
-title: GraphicsAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode GraphicsAbsorber. Effectue une recherche sur la page spécifiée
+title: "GraphicsAbsorber.Visit"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode GraphicsAbsorber. Effectue une recherche sur la page spécifiée."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.vector/graphicsabsorber/visit/
 ---
-## Méthode GraphicsAbsorber.Visit
+## GraphicsAbsorber.Visit method
 
 Effectue une recherche sur la page spécifiée.
 
@@ -20,7 +20,9 @@ public void Visit(Page page)
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [GraphicsAbsorber](../)
-* espace de noms [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

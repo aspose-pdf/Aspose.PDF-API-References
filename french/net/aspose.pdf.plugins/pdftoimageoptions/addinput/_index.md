@@ -1,12 +1,12 @@
 ---
-title: PdfToImageOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfToImageOptions. Ajoute une nouvelle source de données à la collection de données du plugin PdfToImage
+title: "PdfToImageOptions.AddInput"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfToImageOptions. Ajoute une nouvelle source de données à la collection de données du plugin PdfToImage"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.plugins/pdftoimageoptions/addinput/
 ---
-## Méthode PdfToImageOptions.AddInput
+## PdfToImageOptions.AddInput method
 
 Ajoute une nouvelle source de données à la collection de données du plugin [`PdfToImage`](../../pdftoimage/).
 
@@ -24,3 +24,5 @@ public void AddInput(IDataSource dataSource)
 * class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

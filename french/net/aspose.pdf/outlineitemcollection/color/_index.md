@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineItemCollection. Obtient ou définit la couleur du texte du titre de cet élément de plan
+title: "OutlineItemCollection.Color"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection propriété. Obtient ou définit la couleur du texte du titre de cet élément de plan"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/outlineitemcollection/color/
 ---
-## Propriété OutlineItemCollection.Color
+## OutlineItemCollection.Color property
 
 Obtient ou définit la couleur du texte du titre de cet élément de plan.
 
@@ -16,6 +16,8 @@ public Color Color { get; set; }
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.ImageDescriptionPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OpenAIImageDescriptionCopilotOptions. Obtient ou définit l'invite pour instruire le modèle à fournir une description d'image
+title: "OpenAIImageDescriptionCopilotOptions.ImageDescriptionPrompt"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OpenAIImageDescriptionCopilotOptions propriété. Obtient ou définit l'invite pour instruire le modèle à fournir une description d'image"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/imagedescriptionprompt/
 ---
-## Propriété OpenAIImageDescriptionCopilotOptions.ImageDescriptionPrompt
+## OpenAIImageDescriptionCopilotOptions.ImageDescriptionPrompt property
 
 Obtient ou définit l'invite pour instruire le modèle à fournir une description d'image.
 
@@ -16,6 +16,8 @@ public string ImageDescriptionPrompt { get; set; }
 
 ### Voir aussi
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

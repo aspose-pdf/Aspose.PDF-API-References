@@ -1,14 +1,14 @@
 ---
-title: Document.Collection
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Document. Obtient la collection de documents
+title: "Document.Collection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Obtient la collection du document"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/document/collection/
 ---
-## Propriété Document.Collection
+## Document.Collection property
 
-Obtient la collection de documents.
+Obtient la collection du document.
 
 ```csharp
 public Collection Collection { get; set; }
@@ -16,7 +16,9 @@ public Collection Collection { get; set; }
 
 ### Voir aussi
 
-* classe [Collection](../../collection/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Collection](../../collection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

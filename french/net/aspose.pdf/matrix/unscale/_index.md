@@ -1,14 +1,14 @@
 ---
-title: Matrix.UnScale
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode de matrice. Rétablit x1 et y1 et renvoie x et y avant la transformation de la matrice en utilisant la formule suivante x  D  x1  C  y1 / A  D  C  B y  A y1  B x1 / A D  C B
+title: "Matrix.UnScale"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Matrix. Réduit x1 et y1 et renvoie x et y avant la transformation de la matrice en utilisant la formule suivante x  D  x1  C  y1 / A  D  C  B y  A y1  B x1 / A D  C B"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf/matrix/unscale/
 ---
-## Méthode Matrix.UnScale
+## Matrix.UnScale method
 
-Rétablit x1 et y1 et renvoie x et y avant la transformation de la matrice en utilisant la formule suivante : x = (D * x1 - C * y1) / (A * D - C * B); y = (A* y1 - B* x1) / (A* D - C* B);
+Ramène x1 et y1 à l'échelle et renvoie x et y avant la transformation de la matrice en utilisant la formule suivante : x = (D * x1 - C * y1) / (A * D - C * B) ; y = (A * y1 - B * x1) / (A * D - C * B) ;
 
 ```csharp
 public void UnScale(double x1, double y1, out double x, out double y)
@@ -23,6 +23,8 @@ public void UnScale(double x1, double y1, out double x, out double y)
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

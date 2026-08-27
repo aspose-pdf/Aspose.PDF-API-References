@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetSubmitUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Définit l'URL du bouton
+title: "FormEditor.SetSubmitUrl"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FormEditor. Définit l'URL du bouton"
 type: docs
 weight: 340
 url: /fr/net/aspose.pdf.facades/formeditor/setsubmiturl/
 ---
-## Méthode FormEditor.SetSubmitUrl
+## FormEditor.SetSubmitUrl method
 
 Définit l'URL du bouton.
 
@@ -32,6 +32,8 @@ formEditor.SetSubmitUrl("btnSubmit", "www.mysite.com");
 
 ### Voir aussi
 
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

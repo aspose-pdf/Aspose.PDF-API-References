@@ -1,14 +1,14 @@
 ---
-title: Class AIClientException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.AIClientException. Représente une exception spécifique aux opérations du client AI
+title: "Classe AIClientException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.AIClientException. Représente une exception spécifique aux opérations du client IA."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.ai/aiclientexception/
 ---
-## Classe AIClientException
+## AIClientException class
 
-Représente une exception spécifique aux opérations du client AI.
+Représente une exception spécifique aux opérations du client IA.
 
 ```csharp
 public class AIClientException : PdfException
@@ -23,6 +23,8 @@ public class AIClientException : PdfException
 
 ### Voir aussi
 
-* classe [PdfException](../../aspose.pdf/pdfexception/)
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [PdfException](../../aspose.pdf/pdfexception/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

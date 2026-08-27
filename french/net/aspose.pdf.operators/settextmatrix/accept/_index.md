@@ -1,12 +1,12 @@
 ---
-title: SetTextMatrix.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SetTextMatrix. Accepte un objet visiteur pour traiter l'opérateur
+title: "SetTextMatrix.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode SetTextMatrix. Accepte l'objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/settextmatrix/accept/
 ---
-## Méthode SetTextMatrix.Accept
+## SetTextMatrix.Accept method
 
 Accepte un objet visiteur pour traiter l'opérateur.
 
@@ -16,7 +16,7 @@ public override void Accept(IOperatorSelector visitor)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Objet visiteur. |
+| visiteur | IOperatorSelector | Objet visiteur. |
 
 ### Voir aussi
 
@@ -24,3 +24,5 @@ public override void Accept(IOperatorSelector visitor)
 * class [SetTextMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

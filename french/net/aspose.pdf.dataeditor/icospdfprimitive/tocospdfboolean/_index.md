@@ -1,12 +1,12 @@
 ---
-title: ICosPdfPrimitive.ToCosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ICosPdfPrimitive. Tente de convertir cette instance en CosPdfBoolean
+title: "ICosPdfPrimitive.ToCosPdfBoolean"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ICosPdfPrimitive. Tente de convertir cette instance en CosPdfBoolean"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfboolean/
 ---
-## Méthode ICosPdfPrimitive.ToCosPdfBoolean
+## ICosPdfPrimitive.ToCosPdfBoolean method
 
 Tente de convertir cette instance en [`CosPdfBoolean`](../../cospdfboolean/).
 
@@ -16,11 +16,13 @@ public CosPdfBoolean ToCosPdfBoolean()
 
 ### Valeur de retour
 
-null si l'instance n'est pas un [`CosPdfBoolean`](../../cospdfboolean/) sinon un [`CosPdfBoolean`](../../cospdfboolean/).
+null si l'instance n'est pas [`CosPdfBoolean`](../../cospdfboolean/) sinon [`CosPdfBoolean`](../../cospdfboolean/).
 
 ### Voir aussi
 
-* classe [CosPdfBoolean](../../cospdfboolean/)
+* class [CosPdfBoolean](../../cospdfboolean/)
 * interface [ICosPdfPrimitive](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

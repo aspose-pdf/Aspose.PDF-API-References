@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété VectorStoreFileResponse. Obtient ou définit l'identifiant qui peut être référencé dans les points de terminaison de l'API. ///
+title: "VectorStoreFileResponse.Id"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "VectorStoreFileResponse propriété. Obtient ou définit l'identifiant qui peut être référencé dans les points de terminaison API. ///"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/vectorstorefileresponse/id/
 ---
-## Propriété VectorStoreFileResponse.Id
+## VectorStoreFileResponse.Id property
 
-Obtient ou définit l'identifiant, qui peut être référencé dans les points de terminaison de l'API. ///
+Obtient ou définit l’identifiant, qui peut être référencé dans les points de terminaison API. ///
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Voir aussi
 
-* classe [VectorStoreFileResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: MarginInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode MarginInfo. Clone un nouvel objet MarginInfo
+title: "MarginInfo.Clone"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode MarginInfo. Clone un nouvel objet MarginInfo"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/margininfo/clone/
 ---
-## Méthode MarginInfo.Clone
+## MarginInfo.Clone method
 
 Clone un nouvel objet [`MarginInfo`](../).
 
@@ -20,6 +20,8 @@ Le nouvel objet.
 
 ### Voir aussi
 
-* classe [MarginInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

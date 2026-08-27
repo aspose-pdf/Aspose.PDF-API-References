@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.FirstLineIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextParagraph. Obtient ou définit la valeur d'indentation des lignes suivantes. Si elle est définie sur une valeur non nulle, elle a un avantage sur la valeur FormattingOptions.SubsequentLinesIndent
+title: "TextParagraph.FirstLineIndent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextParagraph. Obtient ou définit la valeur d'indentation des lignes suivantes. Si elle est définie à une valeur non nulle, elle a un avantage sur la valeur FormattingOptions.SubsequentLinesIndent"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/textparagraph/firstlineindent/
 ---
-## Propriété TextParagraph.FirstLineIndent
+## TextParagraph.FirstLineIndent property
 
-Obtient ou définit la valeur d'indentation des lignes suivantes. Si elle est définie sur une valeur non nulle, elle a un avantage sur la valeur FormattingOptions.SubsequentLinesIndent.
+Obtient ou définit la valeur du retrait des lignes suivantes. Si elle est définie à une valeur non nulle, elle a un avantage sur la valeur FormattingOptions.SubsequentLinesIndent.
 
 ```csharp
 public float FirstLineIndent { get; set; }
@@ -16,6 +16,8 @@ public float FirstLineIndent { get; set; }
 
 ### Voir aussi
 
-* classe [TextParagraph](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DView.ViewName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DView. Obtient ou définit le nom de la vue
+title: "PDF3DView.ViewName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PDF3DView. Obtient ou définit le nom de la vue"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.annotations/pdf3dview/viewname/
 ---
-## Propriété PDF3DView.ViewName
+## PDF3DView.ViewName property
 
 Obtient ou définit le nom de la vue.
 
@@ -14,12 +14,14 @@ Obtient ou définit le nom de la vue.
 public string ViewName { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom de la vue.
 
 ### Voir aussi
 
-* classe [PDF3DView](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

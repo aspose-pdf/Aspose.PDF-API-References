@@ -1,12 +1,12 @@
 ---
-title: Enum ReplaceTextStrategy.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction. Action à effectuer si la police ne contient pas le caractère requis
+title: "Enum ReplaceTextStrategy.NoCharacterAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction enum. Action à effectuer si la police ne contient pas le caractère requis"
 type: docs
-weight: 4680
+weight: 4800
 url: /fr/net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/
 ---
-## Énumération ReplaceTextStrategy.NoCharacterAction
+## ReplaceTextStrategy.NoCharacterAction enumeration
 
 Action à effectuer si la police ne contient pas le caractère requis
 
@@ -19,11 +19,13 @@ public enum NoCharacterAction
 | Nom | Valeur | Description |
 | --- | --- | --- |
 | ThrowException | `0` | Lancer une exception |
-| UseStandardFont | `1` | Remplacer la police par une police standard qui contient le caractère requis |
-| ReplaceAnyway | `2` | Remplacer le texte de toute façon sans substitution de police |
+| UseStandardFont | `1` | Remplacez la police par une police standard qui contient le caractère requis |
+| ReplaceAnyway | `2` | Remplacez le texte de toute façon sans substitution de police |
 
 ### Voir aussi
 
-* classe [ReplaceTextStrategy](../replacetextstrategy/)
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* class [ReplaceTextStrategy](../replacetextstrategy/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

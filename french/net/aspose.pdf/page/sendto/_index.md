@@ -1,36 +1,14 @@
 ---
-title: Page.SendTo
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Page. Envoie la page à traiter avec le périphérique de page donné
+title: "Page.SendTo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Page. Envoie la page à traiter avec le dispositif de page fourni."
 type: docs
 weight: 530
 url: /fr/net/aspose.pdf/page/sendto/
 ---
-## SendTo(PageDevice, string) {#sendto_1}
-
-Envoie la page à traiter avec le périphérique de page donné.
-
-```csharp
-public void SendTo(PageDevice device, string outputFileName)
-```
-
-| Paramètre | Type | Description |
-| --- | --- | --- |
-| device | PageDevice | Le périphérique pour traiter la page. |
-| outputFileName | String | Fichier utilisé avec le périphérique pour enregistrer sa sortie. |
-
-### Voir aussi
-
-* classe [PageDevice](../../../aspose.pdf.devices/pagedevice/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## SendTo(PageDevice, Stream) {#sendto}
 
-Envoie la page à traiter avec le périphérique de page donné.
+Envoie la page au processus avec le dispositif de page fourni.
 
 ```csharp
 public void SendTo(PageDevice device, Stream output)
@@ -38,12 +16,36 @@ public void SendTo(PageDevice device, Stream output)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| device | PageDevice | Le périphérique pour traiter la page. |
-| output | Stream | Flux de résultat utilisé avec le périphérique pour enregistrer sa sortie. |
+| appareil | PageDevice | Le dispositif pour traiter la page. |
+| output | Stream | Flux de résultat utilisé avec le dispositif pour enregistrer sa sortie. |
 
 ### Voir aussi
 
-* classe [PageDevice](../../../aspose.pdf.devices/pagedevice/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageDevice](../../../aspose.pdf.devices/pagedevice/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+---
+
+## SendTo(PageDevice, string) {#sendto_1}
+
+Envoie la page au processus avec le dispositif de page fourni.
+
+```csharp
+public void SendTo(PageDevice device, string outputFileName)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| appareil | PageDevice | Le dispositif pour traiter la page. |
+| outputFileName | String | Fichier utilisé avec le dispositif pour enregistrer sa sortie. |
+
+### Voir aussi
+
+* class [PageDevice](../../../aspose.pdf.devices/pagedevice/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Annotation.UseFontSubset
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'annotation. Si cette propriété est définie sur true, les polices seront ajoutées au document en tant que sous-ensembles. La valeur par défaut est true
+title: "Annotation.UseFontSubset"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Annotation. Si cette propriété est définie sur vrai, les polices seront ajoutées au document sous forme de sous-ensembles. La valeur par défaut est vrai."
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf.annotations/annotation/usefontsubset/
 ---
-## Propriété Annotation.UseFontSubset
+## Annotation.UseFontSubset property
 
-Si cette propriété est définie sur true, les polices seront ajoutées au document en tant que sous-ensembles. La valeur par défaut est true.
+Si cette propriété est définie sur vrai, les polices seront ajoutées au document sous forme de sous-ensembles. La valeur par défaut est vraie.
 
 ```csharp
 public static bool UseFontSubset { get; set; }
@@ -16,6 +16,8 @@ public static bool UseFontSubset { get; set; }
 
 ### Voir aussi
 
-* classe [Annotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

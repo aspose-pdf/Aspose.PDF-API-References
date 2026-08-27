@@ -1,14 +1,14 @@
 ---
-title: StreamResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StreamResult. Obtient des données brutes
+title: "StreamResult.Data"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StreamResult. Obtient les données brutes"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/streamresult/data/
 ---
-## Propriété StreamResult.Data
+## StreamResult.Data property
 
-Obtient des données brutes.
+Obtient les données brutes.
 
 ```csharp
 public object Data { get; }
@@ -20,6 +20,8 @@ Un `object` représentant les données de sortie.
 
 ### Voir aussi
 
-* classe [StreamResult](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [StreamResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: LaunchAction.File
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LaunchAction. Obtient ou définit l'application à lancer ou le document à ouvrir ou à imprimer
+title: "LaunchAction.File"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LaunchAction. Obtient ou définit l'application à lancer ou le document à ouvrir ou imprimer"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/launchaction/file/
 ---
-## Propriété LaunchAction.File
+## LaunchAction.File property
 
 Obtient ou définit l'application à lancer ou le document à ouvrir ou à imprimer.
 
@@ -16,6 +16,8 @@ public string File { get; set; }
 
 ### Voir aussi
 
-* classe [LaunchAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [LaunchAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

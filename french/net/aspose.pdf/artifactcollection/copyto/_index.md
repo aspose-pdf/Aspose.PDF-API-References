@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ArtifactCollection. Copie la collection dans un tableau
+title: "ArtifactCollection.CopyTo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ArtifactCollection. Copie la collection dans un tableau"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/artifactcollection/copyto/
 ---
-## Méthode ArtifactCollection.CopyTo
+## ArtifactCollection.CopyTo method
 
 Copie la collection dans un tableau.
 
@@ -17,11 +17,13 @@ public void CopyTo(Artifact[] dest, int index)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | dest | Artifact[] | Tableau de destination. |
-| index | Int32 | Index de départ. |
+| index | Int32 | Indice de départ. |
 
 ### Voir aussi
 
-* classe [Artifact](../../artifact/)
-* classe [ArtifactCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

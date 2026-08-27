@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleDashed
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit un style de bordure en pointillés
+title: "FormFieldFacade.BorderStyleDashed"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ FormFieldFacade. Définit un style de bordure en pointillé"
 type: docs
 weight: 300
 url: /fr/net/aspose.pdf.facades/formfieldfacade/borderstyledashed/
 ---
-## Champ FormFieldFacade.BorderStyleDashed
+## FormFieldFacade.BorderStyleDashed field
 
-Définit un style de bordure en pointillés.
+Définit un style de bordure en pointillé.
 
 ```csharp
 public const int BorderStyleDashed;
@@ -16,6 +16,8 @@ public const int BorderStyleDashed;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

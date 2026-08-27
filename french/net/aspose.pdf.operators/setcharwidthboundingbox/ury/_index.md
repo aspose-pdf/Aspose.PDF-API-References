@@ -1,12 +1,12 @@
 ---
-title: SetCharWidthBoundingBox.Ury
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetCharWidthBoundingBox. Coordonnée verticale supérieure droite du rectangle englobant
+title: "SetCharWidthBoundingBox.Ury"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SetCharWidthBoundingBox. Coordonnée verticale supérieure droite du rectangle de délimitation"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.operators/setcharwidthboundingbox/ury/
 ---
-## Propriété SetCharWidthBoundingBox.Ury
+## SetCharWidthBoundingBox.Ury property
 
 Coordonnée verticale supérieure droite du rectangle englobant.
 
@@ -16,6 +16,8 @@ public double Ury { get; }
 
 ### Voir aussi
 
-* classe [SetCharWidthBoundingBox](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.IgnoreParagraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextReplaceOptions. Obtient ou définit une valeur indiquant s'il faut ignorer les paragraphes distincts lors de l'ajustement du texte sur la page après le remplacement du texte
+title: "TextReplaceOptions.IgnoreParagraphs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextReplaceOptions. Obtient ou définit une valeur indiquant s'il faut ignorer les paragraphes distincts lors de l'ajustement du texte sur la page après le remplacement du texte"
 type: docs
-weight: 30
+weight: 40
 url: /fr/net/aspose.pdf.text/textreplaceoptions/ignoreparagraphs/
 ---
-## Propriété TextReplaceOptions.IgnoreParagraphs
+## TextReplaceOptions.IgnoreParagraphs property
 
-Obtient ou définit une valeur indiquant s'il faut ignorer les paragraphes distincts lors de l'ajustement du texte sur la page après le remplacement du texte.
+Obtient ou définit une valeur indiquant s'il faut ignorer les paragraphes distincts lors de l'ajustement du texte sur la page après le remplacement de texte.
 
 ```csharp
 public bool IgnoreParagraphs { get; set; }
@@ -16,6 +16,8 @@ public bool IgnoreParagraphs { get; set; }
 
 ### Voir aussi
 
-* classe [TextReplaceOptions](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextReplaceOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

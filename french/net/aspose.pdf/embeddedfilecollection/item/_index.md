@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété EmbeddedFileCollection. Obtient le fichier intégré par son index
+title: "EmbeddedFileCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété EmbeddedFileCollection. Obtient le fichier incorporé par son indice"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/embeddedfilecollection/item/
 ---
-## Indexeur EmbeddedFileCollection (1 sur 2)
+## EmbeddedFileCollection indexer (1 of 2)
 
-Obtient le fichier intégré par son index.
+Obtient le fichier incorporé par son indice.
 
 ```csharp
 public FileSpecification this[int index] { get; }
@@ -16,24 +16,24 @@ public FileSpecification this[int index] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| index | Index du fichier intégré. La numérotation commence à 1. |
+| index | Indice du fichier incorporé. La numérotation commence à 1. |
 
 ### Valeur de retour
 
-Spécification du fichier intégré récupéré
+Spécification du fichier incorporé récupéré
 
 ### Voir aussi
 
-* classe [FileSpecification](../../filespecification/)
-* classe [EmbeddedFileCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Indexeur EmbeddedFileCollection (2 sur 2)
+## EmbeddedFileCollection indexer (2 of 2)
 
-Obtient le fichier intégré par son nom.
+Obtient le fichier incorporé par son nom.
 
 ```csharp
 public FileSpecification this[string name] { get; }
@@ -41,15 +41,17 @@ public FileSpecification this[string name] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| name | Nom du fichier intégré. |
+| nom | Nom du fichier incorporé. |
 
 ### Valeur de retour
 
-Spécification du fichier intégré récupéré.
+Spécification du fichier incorporé récupéré.
 
 ### Voir aussi
 
-* classe [FileSpecification](../../filespecification/)
-* classe [EmbeddedFileCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

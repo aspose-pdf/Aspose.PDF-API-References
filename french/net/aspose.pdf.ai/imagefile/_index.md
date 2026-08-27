@@ -1,14 +1,14 @@
 ---
-title: Class ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.ImageFile. Représente un fichier image dans le contenu d'un message
+title: "Classe ImageFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.ImageFile. Représente un fichier image dans le contenu d'un message"
 type: docs
-weight: 630
+weight: 680
 url: /fr/net/aspose.pdf.ai/imagefile/
 ---
-## Classe ImageFile
+## ImageFile class
 
-Représente un fichier image dans le contenu d'un message.
+Représente un fichier d'image dans le contenu d'un message.
 
 ```csharp
 public class ImageFile
@@ -24,10 +24,12 @@ public class ImageFile
 
 | Nom | Description |
 | --- | --- |
-| [Detail](../../aspose.pdf.ai/imagefile/detail/) { get; set; } | Obtient ou définit le niveau de détail de l'image si spécifié par l'utilisateur. faible utilise moins de jetons, vous pouvez opter pour une haute résolution en utilisant élevé. |
-| [FileId](../../aspose.pdf.ai/imagefile/fileid/) { get; set; } | Obtient ou définit l'ID de fichier de l'image dans le contenu du message. Définissez purpose="vision" lors du téléchargement du fichier si vous avez besoin d'afficher ultérieurement le contenu du fichier. |
+| [Detail](../../aspose.pdf.ai/imagefile/detail/) { get; set; } | Obtient ou définit le niveau de détail de l'image s'il est spécifié par l'utilisateur. low utilise moins de jetons, vous pouvez choisir la haute résolution en utilisant high. |
+| [FileId](../../aspose.pdf.ai/imagefile/fileid/) { get; set; } | Obtient ou définit le File ID de l'image dans le contenu du message. Définissez purpose=\"vision\" lors du téléchargement du File si vous devez afficher ultérieurement le contenu du File. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

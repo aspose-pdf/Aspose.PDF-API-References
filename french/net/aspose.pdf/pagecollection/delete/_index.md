@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PageCollection. Supprimer la page spécifiée
+title: "PageCollection.Delete"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PageCollection. Supprime la page spécifiée"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/pagecollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-Supprimer la page spécifiée.
+Supprime la Page spécifiée.
 
 ```csharp
 public void Delete(int index)
@@ -16,19 +16,19 @@ public void Delete(int index)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | Numéro de la page qui sera supprimée. Les numéros de page commencent à 1. |
+| index | Int32 | Numéro de la page qui sera supprimée. Les numéros de pages commencent à 1. |
 
 ### Voir aussi
 
-* classe [PageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Delete() {#delete}
 
-Supprime toutes les pages de la collection.
+Supprime toutes les Page de la collection.
 
 ```csharp
 public void Delete()
@@ -36,15 +36,15 @@ public void Delete()
 
 ### Voir aussi
 
-* classe [PageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Delete(int[]) {#delete_2}
 
-Supprimer les pages spécifiées dont les numéros sont indiqués dans le tableau.
+Supprime les pages spécifiées dont les numéros sont indiqués dans le tableau.
 
 ```csharp
 public void Delete(int[] pages)
@@ -52,10 +52,12 @@ public void Delete(int[] pages)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pages | Int32[] | Tableau des pages à supprimer. |
+| pages | Int32[] | Tableau de pages à supprimer. |
 
 ### Voir aussi
 
-* classe [PageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

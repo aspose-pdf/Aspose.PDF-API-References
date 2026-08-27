@@ -1,14 +1,14 @@
 ---
-title: PdfPageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfPageStamp. Mettre un tampon sur la page spécifiée
+title: "PdfPageStamp.Put"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfPageStamp. Appliquer le tampon sur la page spécifiée"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/pdfpagestamp/put/
 ---
-## Méthode PdfPageStamp.Put
+## PdfPageStamp.Put method
 
-Mettre un tampon sur la page spécifiée.
+Place le tampon sur la page spécifiée.
 
 ```csharp
 public override void Put(Page page)
@@ -20,7 +20,9 @@ public override void Put(Page page)
 
 ### Voir aussi
 
-* classe [Page](../../page/)
-* classe [PdfPageStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

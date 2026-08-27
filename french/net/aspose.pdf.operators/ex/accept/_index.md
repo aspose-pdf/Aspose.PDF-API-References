@@ -1,14 +1,14 @@
 ---
-title: EX.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode EX. Accepte l'objet visiteur pour traiter l'opérateur
+title: "EX.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode EX. Accepte l'objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/ex/accept/
 ---
-## Méthode EX.Accept
+## EX.Accept method
 
-Accepte l'objet visiteur pour traiter l'opérateur.
+Accepte un objet visiteur pour traiter l'opérateur.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -24,3 +24,5 @@ public override void Accept(IOperatorSelector visitor)
 * class [EX](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.SetStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode StructureAttribute. Définit la chaîne de valeur
+title: "StructureAttribute.SetStringValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode StructureAttribute. Définit la Chaîne de valeur"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.logicalstructure/structureattribute/setstringvalue/
 ---
-## Méthode StructureAttribute.SetStringValue
+## StructureAttribute.SetStringValue method
 
 Définit la chaîne de valeur.
 
@@ -16,10 +16,12 @@ public void SetStringValue(string value)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| value | String | Chaîne de valeur. |
+| valeur | String | Chaîne de valeur. |
 
 ### Voir aussi
 
-* classe [StructureAttribute](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

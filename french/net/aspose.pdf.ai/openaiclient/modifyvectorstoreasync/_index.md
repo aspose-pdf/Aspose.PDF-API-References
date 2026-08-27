@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.ModifyVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIClient. Modifie un magasin de vecteurs existant de manière asynchrone
+title: "OpenAIClient.ModifyVectorStoreAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAIClient. Modifie un magasin de vecteurs existant de manière asynchrone"
 type: docs
-weight: 430
+weight: 440
 url: /fr/net/aspose.pdf.ai/openaiclient/modifyvectorstoreasync/
 ---
-## Méthode OpenAIClient.ModifyVectorStoreAsync
+## OpenAIClient.ModifyVectorStoreAsync method
 
 Modifie un magasin de vecteurs existant de manière asynchrone.
 
@@ -19,7 +19,7 @@ public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId,
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | vectorStoreId | String | L'ID du magasin de vecteurs à modifier. |
-| vectorStoreModifyRequest | VectorStoreModifyRequest | L'objet de demande contenant les détails de la modification. |
+| vectorStoreModifyRequest | VectorStoreModifyRequest | L'objet de requête contenant les détails de la modification. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
 ### Valeur de retour
@@ -30,12 +30,14 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du magasin de vecteurs est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du magasin de vecteurs est nul ou vide. |
 
 ### Voir aussi
 
-* classe [VectorStoreResponse](../../vectorstoreresponse/)
-* classe [VectorStoreModifyRequest](../../vectorstoremodifyrequest/)
-* classe [OpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreModifyRequest](../../vectorstoremodifyrequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

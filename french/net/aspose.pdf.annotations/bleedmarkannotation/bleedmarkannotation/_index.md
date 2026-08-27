@@ -1,12 +1,12 @@
 ---
-title: BleedMarkAnnotation.BleedMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de BleedMarkAnnotation. Initialise une nouvelle instance de la classe BleedMarkAnnotation
+title: "BleedMarkAnnotation.BleedMarkAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur BleedMarkAnnotation. Initialise une nouvelle instance de la classe BleedMarkAnnotation"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/
 ---
-## Constructeur de BleedMarkAnnotation
+## BleedMarkAnnotation constructor
 
 Initialise une nouvelle instance de la classe [`BleedMarkAnnotation`](../).
 
@@ -21,12 +21,14 @@ public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 ## Remarques
 
-Ce constructeur crée une BleedMarkAnnotation et l'ajoute à la page spécifiée à la position spécifiée.
+Ce constructeur crée un BleedMarkAnnotation et l’ajoute à la page spécifiée à la position indiquée.
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* énum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
-* classe [BleedMarkAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
+* class [BleedMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

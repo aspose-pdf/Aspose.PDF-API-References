@@ -1,14 +1,14 @@
 ---
-title: Class ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.ExpiresAfter. Représente la politique d'expiration pour un magasin vectoriel
+title: "Classe ExpiresAfter"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.ExpiresAfter. Représente la politique d'expiration pour un vector store"
 type: docs
-weight: 350
+weight: 370
 url: /fr/net/aspose.pdf.ai/expiresafter/
 ---
-## Classe ExpiresAfter
+## ExpiresAfter class
 
-Représente la politique d'expiration pour un magasin vectoriel.
+Représente la politique d'expiration d'un magasin de vecteurs.
 
 ```csharp
 public class ExpiresAfter
@@ -24,10 +24,12 @@ public class ExpiresAfter
 
 | Nom | Description |
 | --- | --- |
-| [Anchor](../../aspose.pdf.ai/expiresafter/anchor/) { get; set; } | Obtient ou définit le timestamp d'ancrage après lequel la politique d'expiration s'applique. Ancrages pris en charge : last_active_at. |
-| [Days](../../aspose.pdf.ai/expiresafter/days/) { get; set; } | Obtient ou définit le nombre de jours après le temps d'ancrage après lequel le magasin vectoriel expirera. |
+| [Anchor](../../aspose.pdf.ai/expiresafter/anchor/) { get; set; } | Obtient ou définit l'horodatage d'ancrage après lequel la politique d'expiration s'applique. Ancres prises en charge : last_active_at. |
+| [Days](../../aspose.pdf.ai/expiresafter/days/) { get; set; } | Obtient ou définit le nombre de jours après l'heure d'ancrage après lesquels le vector store expirera. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

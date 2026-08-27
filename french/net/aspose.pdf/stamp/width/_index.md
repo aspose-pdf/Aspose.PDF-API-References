@@ -1,12 +1,12 @@
 ---
-title: Stamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Stamp. Largeur souhaitée du tampon sur la page
+title: "Stamp.Width"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Stamp. Largeur souhaitée du tampon sur la page"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf/stamp/width/
 ---
-## Propriété Stamp.Width
+## Stamp.Width property
 
 Largeur souhaitée du tampon sur la page.
 
@@ -16,6 +16,8 @@ public virtual double Width { get; set; }
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

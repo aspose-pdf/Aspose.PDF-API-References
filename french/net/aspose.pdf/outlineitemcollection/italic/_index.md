@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Italic
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineItemCollection. Obtient ou définit le drapeau italique pour le texte du titre de cet élément de plan
+title: "OutlineItemCollection.Italic"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OutlineItemCollection. Obtient ou définit le drapeau italique pour le texte du titre de cet élément de plan"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/outlineitemcollection/italic/
 ---
-## Propriété OutlineItemCollection.Italic
+## OutlineItemCollection.Italic property
 
 Obtient ou définit le drapeau italique pour le texte du titre de cet élément de plan
 
@@ -16,6 +16,8 @@ public bool Italic { get; set; }
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

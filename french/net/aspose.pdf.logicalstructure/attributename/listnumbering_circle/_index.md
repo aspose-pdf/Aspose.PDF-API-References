@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_Circle
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Liste des attributs Numérotation en cercle  Puce circulaire ouverte
+title: "AttributeName.ListNumbering_Circle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ AttributeName. Attribut ListNumbering Circle  Puce circulaire ouverte"
 type: docs
 weight: 250
 url: /fr/net/aspose.pdf.logicalstructure/attributename/listnumbering_circle/
 ---
-## Champ AttributeName.ListNumbering_Circle
+## AttributeName.ListNumbering_Circle field
 
-Liste des attributs Numérotation : Cercle - Puce circulaire ouverte.
+Attribut ListNumbering : Circle - Puce circulaire ouverte.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Circle;
@@ -16,6 +16,8 @@ public static readonly AttributeName ListNumbering_Circle;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

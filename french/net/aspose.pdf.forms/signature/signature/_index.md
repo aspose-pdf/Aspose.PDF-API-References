@@ -1,7 +1,7 @@
 ---
-title: Signature.Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de Signature. Initialise une nouvelle instance de la classe Signature
+title: "Signature.Signature"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Signature. Initialise une nouvelle instance de la classe Signature"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.forms/signature/signature/
@@ -16,8 +16,8 @@ public Signature()
 
 ### Voir aussi
 
-* classe [Signature](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,13 +32,13 @@ public Signature(string pfx, string password)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pfx | String | Fichier Pfx contenant le certificat pour la signature. |
-| password | String | Mot de passe pour accéder à la clé privée dans le certificat. |
+| pfx | String | Fichier Pfx qui contient le certificat pour la signature. |
+| password | String | Mot de passe pour accéder à la clé privée du certificat. |
 
 ### Voir aussi
 
-* classe [Signature](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -53,11 +53,13 @@ public Signature(Stream pfx, string password)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pfx | Stream | Flux avec les données du certificat organisées en tant que pfx. |
-| password | String | Mot de passe pour accéder à la clé privée dans le certificat. |
+| pfx | Stream | Flux contenant les données du certificat organisées en pfx. |
+| password | String | Mot de passe pour accéder à la clé privée du certificat. |
 
 ### Voir aussi
 
-* classe [Signature](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

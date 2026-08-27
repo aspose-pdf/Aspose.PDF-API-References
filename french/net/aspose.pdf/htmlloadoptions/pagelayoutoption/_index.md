@@ -1,12 +1,12 @@
 ---
-title: HtmlLoadOptions.PageLayoutOption
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlLoadOptions. Obtient ou définit l'option de mise en page
+title: "HtmlLoadOptions.PageLayoutOption"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "HtmlLoadOptions propriété. Obtient ou définit l'option de mise en page"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/htmlloadoptions/pagelayoutoption/
 ---
-## Propriété HtmlLoadOptions.PageLayoutOption
+## HtmlLoadOptions.PageLayoutOption property
 
 Obtient ou définit l'option de mise en page.
 
@@ -20,3 +20,5 @@ public HtmlPageLayoutOption PageLayoutOption { get; set; }
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PdfToHtmlOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.PdfToHtmlOptions. Représente les options de convertisseur PDF en HTML pour le plugin Html
+title: "Classe PdfToHtmlOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.PdfToHtmlOptions. Représente les options du convertisseur PDF vers HTML pour le plugin Html"
 type: docs
-weight: 9100
+weight: 9250
 url: /fr/net/aspose.pdf.plugins/pdftohtmloptions/
 ---
-## Classe PdfToHtmlOptions
+## PdfToHtmlOptions class
 
-Représente les options de convertisseur PDF en HTML pour le plugin [`Html`](../html/).
+Représente les options du convertisseur PDF vers HTML pour le plugin [`Html`](../html/)
 
 ```csharp
 public sealed class PdfToHtmlOptions : PdfConverterOptions
@@ -18,7 +18,7 @@ public sealed class PdfToHtmlOptions : PdfConverterOptions
 
 | Nom | Description |
 | --- | --- |
-| [PdfToHtmlOptions](pdftohtmloptions/#constructor)() | Initialise une nouvelle instance de l'objet `PdfToHtmlOptions` avec des options par défaut. |
+| [PdfToHtmlOptions](pdftohtmloptions/#constructor)() | Initialise une nouvelle instance de l'objet `PdfToHtmlOptions` avec les options par défaut. |
 | [PdfToHtmlOptions](pdftohtmloptions/#constructor_1)(SaveDataType) | Initialise une nouvelle instance de l'objet `PdfToHtmlOptions` pour le type de données de sortie spécifié. |
 
 ## Propriétés
@@ -37,7 +37,7 @@ public sealed class PdfToHtmlOptions : PdfConverterOptions
 | [AddInput](../../aspose.pdf.plugins/pdfconverteroptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données du plugin PdfConverter. |
 | [AddOutput](../../aspose.pdf.plugins/pdfconverteroptions/addoutput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données du plugin PdfToXLSXConverterOptions. |
 
-## Autres Membres
+## Autres membres
 
 | Nom | Description |
 | --- | --- |
@@ -45,6 +45,8 @@ public sealed class PdfToHtmlOptions : PdfConverterOptions
 
 ### Voir aussi
 
-* classe [PdfConverterOptions](../pdfconverteroptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfConverterOptions](../pdfconverteroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

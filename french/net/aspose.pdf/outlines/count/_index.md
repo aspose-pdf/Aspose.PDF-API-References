@@ -1,14 +1,14 @@
 ---
-title: Outlines.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Outlines. Obtient le compte
+title: "Outlines.Count"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Outlines. Obtient le nombre"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/outlines/count/
 ---
-## Propriété Outlines.Count
+## Outlines.Count property
 
-Obtient le compte.
+Obtient le nombre.
 
 ```csharp
 public abstract int Count { get; }
@@ -16,6 +16,8 @@ public abstract int Count { get; }
 
 ### Voir aussi
 
-* classe [Outlines](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

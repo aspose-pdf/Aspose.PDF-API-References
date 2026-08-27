@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.VisibleCount
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineItemCollection. Obtient le nombre total d'éléments de plan à tous les niveaux dans la hiérarchie du plan du document
+title: "OutlineItemCollection.VisibleCount"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection propriété. Obtient le nombre total d'éléments du plan à tous les niveaux dans la hiérarchie du plan du document"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf/outlineitemcollection/visiblecount/
 ---
-## Propriété OutlineItemCollection.VisibleCount
+## OutlineItemCollection.VisibleCount property
 
 Obtient le nombre total d'éléments de plan à tous les niveaux dans la hiérarchie du plan du document.
 
@@ -16,6 +16,8 @@ public override int VisibleCount { get; }
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

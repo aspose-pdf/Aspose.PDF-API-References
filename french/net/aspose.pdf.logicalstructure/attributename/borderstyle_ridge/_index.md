@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Ridge
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Attribut BorderStyle Ridge  La bordure semble sortir de la toile, l'opposé de Groove
+title: "AttributeName.BorderStyle_Ridge"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ AttributeName. Attribut BorderStyle Ridge  La bordure semble sortir du canevas, à l'opposé de Groove"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.logicalstructure/attributename/borderstyle_ridge/
 ---
-## Champ AttributeName.BorderStyle_Ridge
+## AttributeName.BorderStyle_Ridge field
 
-Attribut BorderStyle : Ridge - La bordure semble sortir de la toile (l'opposé de Groove).
+Attribut BorderStyle : Ridge - La bordure semble sortir du canevas (l'opposé de Groove).
 
 ```csharp
 public static readonly AttributeName BorderStyle_Ridge;
@@ -16,6 +16,8 @@ public static readonly AttributeName BorderStyle_Ridge;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

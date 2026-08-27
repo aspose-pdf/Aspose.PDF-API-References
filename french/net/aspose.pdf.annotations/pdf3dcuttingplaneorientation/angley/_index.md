@@ -1,12 +1,12 @@
 ---
-title: PDF3DCuttingPlaneOrientation.AngleY
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DCuttingPlaneOrientation. Obtient ou définit l'angle par rapport à l'axe Y
+title: "PDF3DCuttingPlaneOrientation.AngleY"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PDF3DCuttingPlaneOrientation. Obtient ou définit l'angle par rapport à l'axe Y"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/
 ---
-## Propriété PDF3DCuttingPlaneOrientation.AngleY
+## PDF3DCuttingPlaneOrientation.AngleY property
 
 Obtient ou définit l'angle par rapport à l'axe Y.
 
@@ -14,12 +14,14 @@ Obtient ou définit l'angle par rapport à l'axe Y.
 public double? AngleY { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'angle par rapport à l'axe Y.
+L'angle de l'axe Y.
 
 ### Voir aussi
 
-* classe [PDF3DCuttingPlaneOrientation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

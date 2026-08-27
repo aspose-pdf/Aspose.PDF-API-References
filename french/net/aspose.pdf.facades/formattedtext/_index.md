@@ -1,14 +1,14 @@
 ---
-title: Class FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.FormattedText. Classe qui représente du texte formaté. Contient des informations sur le texte et sa couleur, sa taille, son style.
+title: "Classe FormattedText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.FormattedText classe. Classe qui représente du texte formaté. Contient des informations sur le texte et son style de couleur, de taille et de police."
 type: docs
-weight: 4350
+weight: 4470
 url: /fr/net/aspose.pdf.facades/formattedtext/
 ---
-## Classe FormattedText
+## FormattedText class
 
-Classe qui représente du texte formaté. Contient des informations sur le texte et sa couleur, sa taille, son style.
+Classe qui représente le texte formaté. Contient des informations sur le texte ainsi que sa couleur, sa taille, son style.
 
 ```csharp
 public sealed class FormattedText
@@ -28,7 +28,7 @@ public sealed class FormattedText
 | [FormattedText](formattedtext/#constructor_11)(string, Color, Color, string, EncodingType, bool, float) | Initialise FormattedText. |
 | [FormattedText](formattedtext/#constructor_7)(string, Color, FontStyle, EncodingType, bool, float, float) | Initialise FormattedText. |
 | [FormattedText](formattedtext/#constructor_2)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) | Initialise FormattedText. |
-| [FormattedText](formattedtext/#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | Initialise FormattedText. |
+| [FormattedText](formattedtext/#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | Initialiser FormattedText. |
 | [FormattedText](formattedtext/#constructor_10)(string, Color, Color, FontStyle, EncodingType, bool, float, float) | Initialise FormattedText. |
 | [FormattedText](formattedtext/#constructor_3)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) | Initialise FormattedText. |
 
@@ -43,12 +43,14 @@ public sealed class FormattedText
 
 | Nom | Description |
 | --- | --- |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext)(string) | Ajoute une nouvelle ligne à l'objet FormattedText et définit le newLineText sur le texte de la ligne suivante. |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext_1)(string, float) | Ajoute une nouvelle ligne à l'objet FormattedText et définit le newLineText sur le texte de la ligne suivante. |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext)(string) | Ajoute une nouvelle ligne à l'objet FormattedText et définit newLineText sur le texte de la ligne suivante. |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext_1)(string, float) | Ajoute une nouvelle ligne à l'objet FormattedText et définit newLineText sur le texte de la ligne suivante. |
 | [IsCjk](../../aspose.pdf.facades/formattedtext/iscjk/)() | Vérifie si le texte est CJK (chinois, japonais ou coréen). |
-| [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle/)() | Change le style de police de FormattedText pour la police CJK (chinois, japonais ou coréen). |
+| [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle/)() | Modifie le style de police de FormattedText pour les polices CJK (chinois, japonais ou coréen). |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

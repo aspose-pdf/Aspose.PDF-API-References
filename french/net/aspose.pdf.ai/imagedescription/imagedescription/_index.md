@@ -1,12 +1,12 @@
 ---
-title: ImageDescription.ImageDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur ImageDescription. Le constructeur par défaut
+title: "ImageDescription.ImageDescription"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ImageDescription constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/imagedescription/imagedescription/
 ---
-## Constructeur ImageDescription
+## ImageDescription constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public ImageDescription()
 
 ### Voir aussi
 
-* classe [ImageDescription](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ImageDescription](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

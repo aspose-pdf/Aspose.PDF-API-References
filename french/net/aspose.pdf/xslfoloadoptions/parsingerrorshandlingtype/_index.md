@@ -1,14 +1,14 @@
 ---
-title: XslFoLoadOptions.ParsingErrorsHandlingType
-second_title: Aspose.PDF for .NET API Reference
-description: Champ XslFoLoadOptions. Le document XSLFO source peut contenir des erreurs de formatage. Cet énumération énumère les stratégies possibles de gestion de ces erreurs
+title: "XslFoLoadOptions.ParsingErrorsHandlingType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ XslFoLoadOptions. Le document source XSLFO peut contenir des erreurs de formatage. Cette énumération répertorie les stratégies possibles de gestion de ces erreurs"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/
 ---
-## Champ XslFoLoadOptions.ParsingErrorsHandlingType
+## XslFoLoadOptions.ParsingErrorsHandlingType field
 
-Le document XSLFO source peut contenir des erreurs de formatage. Cet énumération énumère les stratégies possibles de gestion de ces erreurs
+Le document XSLFO source peut contenir des erreurs de formatage. Cette énumération répertorie les stratégies possibles de gestion de ces erreurs.
 
 ```csharp
 public ParsingErrorsHandlingTypes ParsingErrorsHandlingType;
@@ -20,3 +20,5 @@ public ParsingErrorsHandlingTypes ParsingErrorsHandlingType;
 * class [XslFoLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

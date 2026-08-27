@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImagePlacement. Obtient la résolution de l'image
+title: "ImagePlacement.Resolution"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ImagePlacement. Obtient la résolution de l'Image"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/imageplacement/resolution/
 ---
-## Propriété ImagePlacement.Résolution
+## ImagePlacement.Resolution property
 
 Obtient la résolution de l'image.
 
@@ -16,7 +16,9 @@ public Resolution Resolution { get; }
 
 ### Voir aussi
 
-* classe [Résolution](../../../aspose.pdf.devices/resolution/)
-* classe [ImagePlacement](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

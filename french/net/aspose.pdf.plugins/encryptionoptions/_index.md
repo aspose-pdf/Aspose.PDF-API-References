@@ -1,14 +1,14 @@
 ---
-title: Class EncryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.EncryptionOptions. Représente les options de cryptage pour le plugin de sécurité
+title: "Classe EncryptionOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.EncryptionOptions. Représente les options de chiffrement pour le plugin Security"
 type: docs
-weight: 8540
+weight: 8670
 url: /fr/net/aspose.pdf.plugins/encryptionoptions/
 ---
-## Classe EncryptionOptions
+## EncryptionOptions class
 
-Représente les options de cryptage pour le plugin [`Security`](../security/).
+Représente les options de chiffrement pour le plugin [`Security`](../security/).
 
 ```csharp
 public class EncryptionOptions : OrganizerBaseOptions
@@ -18,16 +18,16 @@ public class EncryptionOptions : OrganizerBaseOptions
 
 | Nom | Description |
 | --- | --- |
-| [EncryptionOptions](encryptionoptions/)(string, string, DocumentPrivilege, CryptoAlgorithm) | Initialise une nouvelle instance de l'objet `EncryptionOptions` avec des options par défaut. |
+| [EncryptionOptions](encryptionoptions/)(string, string, DocumentPrivilege, CryptoAlgorithm) | Initialise une nouvelle instance de l'objet `EncryptionOptions` avec les options par défaut. |
 
 ## Propriétés
 
 | Nom | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Ferme les flux d'entrée après la fin de l'opération. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Ferme les flux de sortie après la fin de l'opération. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Fermez les flux d'entrée après la fin de l'opération. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Fermez les flux de sortie après la fin de l'opération. |
 | [CryptoAlgorithm](../../aspose.pdf.plugins/encryptionoptions/cryptoalgorithm/) { get; set; } | Algorithme cryptographique, voir [`CryptoAlgorithm`](./cryptoalgorithm/) pour plus de détails. |
-| [DocumentPrivilege](../../aspose.pdf.plugins/encryptionoptions/documentprivilege/) { get; set; } | Permissions du document, voir [`Permissions`](../../aspose.pdf/permissions/) pour plus de détails. |
+| [DocumentPrivilege](../../aspose.pdf.plugins/encryptionoptions/documentprivilege/) { get; set; } | Autorisations du document, voir [`Permissions`](../../aspose.pdf/permissions/) pour plus de détails. |
 | [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Renvoie la collection de données du plugin OrganizerOptions. |
 | [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
 | [OwnerPassword](../../aspose.pdf.plugins/encryptionoptions/ownerpassword/) { get; set; } | Mot de passe du propriétaire. |
@@ -42,6 +42,8 @@ public class EncryptionOptions : OrganizerBaseOptions
 
 ### Voir aussi
 
-* classe [OrganizerBaseOptions](../organizerbaseoptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

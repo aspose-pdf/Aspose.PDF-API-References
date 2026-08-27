@@ -1,12 +1,12 @@
 ---
-title: SetCharWidthBoundingBox.Wx
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetCharWidthBoundingBox. Déplacement horizontal du glyphe
+title: "SetCharWidthBoundingBox.Wx"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SetCharWidthBoundingBox. Déplacement horizontal du glyphe"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.operators/setcharwidthboundingbox/wx/
 ---
-## Propriété SetCharWidthBoundingBox.Wx
+## SetCharWidthBoundingBox.Wx property
 
 Déplacement horizontal du glyphe.
 
@@ -16,6 +16,8 @@ public double Wx { get; }
 
 ### Voir aussi
 
-* classe [SetCharWidthBoundingBox](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

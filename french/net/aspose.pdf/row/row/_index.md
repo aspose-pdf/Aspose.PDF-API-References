@@ -1,12 +1,12 @@
 ---
-title: Row.Row
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Row. Le constructeur par défaut
+title: "Row.Row"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Row. Le constructeur par défaut."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/row/row/
 ---
-## Constructeur Row
+## Row constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Row()
 
 ### Voir aussi
 
-* classe [Row](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ListDataResponse1.LastId
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ListDataResponse. Obtient ou définit le dernier ID dans la liste
+title: "ListDataResponse1.LastId"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ListDataResponse. Obtient ou définit le dernier ID de la liste"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/listdataresponse-1/lastid/
 ---
-## Propriété ListDataResponse&lt;T&gt;.LastId
+## ListDataResponse&lt;T&gt;.LastId property
 
-Obtient ou définit le dernier ID dans la liste.
+Obtient ou définit le dernier ID de la liste.
 
 ```csharp
 public string LastId { get; set; }
@@ -16,6 +16,8 @@ public string LastId { get; set; }
 
 ### Voir aussi
 
-* classe [ListDataResponse&lt;T&gt;](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ListDataResponse&lt;T&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XForm.IT
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XForm. Obtient le formulaire IT. Le formulaire IT est un nom décrivant l'intention de l'XObject
+title: "XForm.IT"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XForm. Obtient le IT du formulaire. Le IT du formulaire est un nom décrivant l'intention du XObject"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/xform/it/
 ---
-## Propriété XForm.IT
+## XForm.IT property
 
-Obtient le formulaire IT. Le formulaire IT est un nom décrivant l'intention de l'XObject.
+Obtient le IT du formulaire. Le IT du formulaire est un nom décrivant l'intention du XObject.
 
 ```csharp
 public string IT { get; }
@@ -16,6 +16,8 @@ public string IT { get; }
 
 ### Voir aussi
 
-* classe [XForm](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

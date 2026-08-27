@@ -1,14 +1,14 @@
 ---
-title: IAnnotationVisitor.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IAnnotationVisitor. Visiter/sélectionner l'annotation de lien
+title: "IAnnotationVisitor.Visit"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IAnnotationVisitor. Visiter/sélectionner l'annotation de lien"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/iannotationvisitor/visit/
 ---
 ## Visit(LinkAnnotation) {#visit_8}
 
-Visiter/sélectionner l'annotation de lien.
+Visiter/sélectionner une annotation de lien.
 
 ```csharp
 public void Visit(LinkAnnotation link)
@@ -16,7 +16,7 @@ public void Visit(LinkAnnotation link)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| link | LinkAnnotation | Exemple/modèle d'objet LinkAnnotation. |
+| lien | LinkAnnotation | Exemple/modèle d'objet LinkAnnotation. |
 
 ### Voir aussi
 
@@ -29,7 +29,7 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_3}
 
-Visiter/sélectionner l'annotation de pièce jointe.
+Visiter/sélectionner une annotation de pièce jointe.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
@@ -37,7 +37,7 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | Exemple/modèle d'objet FileAttachmentAnnotation. |
+| pièce jointe | FileAttachmentAnnotation | Exemple/modèle d'objet FileAttachmentAnnotation. |
 
 ### Voir aussi
 
@@ -50,7 +50,7 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ## Visit(TextAnnotation) {#visit_20}
 
-Visiter/sélectionner l'annotation de texte.
+Visiter/sélectionner l'annotation texte.
 
 ```csharp
 public void Visit(TextAnnotation text)
@@ -58,7 +58,7 @@ public void Visit(TextAnnotation text)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | TextAnnotation | Exemple/modèle d'objet TextAnnotation. |
+| texte | TextAnnotation | Exemple/modèle d'objet TextAnnotation. |
 
 ### Voir aussi
 
@@ -71,7 +71,7 @@ public void Visit(TextAnnotation text)
 
 ## Visit(FreeTextAnnotation) {#visit_4}
 
-Visiter/sélectionner l'annotation de texte libre.
+Visiter/sélectionner une annotation de texte libre.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
@@ -79,7 +79,7 @@ public void Visit(FreeTextAnnotation freetext)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | Exemple/modèle d'objet FreeTextAnnotation. |
+| texte libre | FreeTextAnnotation | Exemple/modèle d'objet FreeTextAnnotation. |
 
 ### Voir aussi
 
@@ -92,7 +92,7 @@ public void Visit(FreeTextAnnotation freetext)
 
 ## Visit(HighlightAnnotation) {#visit_5}
 
-Visiter/sélectionner l'annotation de surlignage.
+Visiter/sélectionner une annotation de surlignage.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
@@ -100,7 +100,7 @@ public void Visit(HighlightAnnotation highlight)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | Exemple/modèle d'objet HighlightAnnotation. |
+| surlignage | HighlightAnnotation | Exemple/modèle d'objet HighlightAnnotation. |
 
 ### Voir aussi
 
@@ -113,7 +113,7 @@ public void Visit(HighlightAnnotation highlight)
 
 ## Visit(UnderlineAnnotation) {#visit_22}
 
-Visiter/sélectionner l'annotation de soulignement.
+Visiter/sélectionner l'annotation soulignée.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
@@ -121,7 +121,7 @@ public void Visit(UnderlineAnnotation underline)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | Exemple/modèle d'objet UnderlineAnnotation. |
+| soulignement | UnderlineAnnotation | Exemple/modèle d'objet UnderlineAnnotation. |
 
 ### Voir aussi
 
@@ -134,7 +134,7 @@ public void Visit(UnderlineAnnotation underline)
 
 ## Visit(StrikeOutAnnotation) {#visit_19}
 
-Visiter/sélectionner l'annotation de barré.
+Visiter/sélectionner l'annotation barrée.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
@@ -142,7 +142,7 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | Exemple/modèle d'objet StrikeOutAnnotation. |
+| barré | StrikeOutAnnotation | Exemple/modèle d'objet StrikeOutAnnotation. |
 
 ### Voir aussi
 
@@ -163,7 +163,7 @@ public void Visit(SquigglyAnnotation squiggly)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | Exemple/modèle d'objet SquigglyAnnotation. |
+| ondulé | SquigglyAnnotation | Exemple/modèle d'objet SquigglyAnnotation. |
 
 ### Voir aussi
 
@@ -176,7 +176,7 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ## Visit(PopupAnnotation) {#visit_13}
 
-Visiter/sélectionner l'annotation popup.
+Visiter/sélectionner une annotation contextuelle.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
@@ -184,7 +184,7 @@ public void Visit(PopupAnnotation popup)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| popup | PopupAnnotation | Exemple/modèle d'objet PopupAnnotation. |
+| fenêtre contextuelle | PopupAnnotation | Exemple/modèle d'objet PopupAnnotation. |
 
 ### Voir aussi
 
@@ -197,7 +197,7 @@ public void Visit(PopupAnnotation popup)
 
 ## Visit(LineAnnotation) {#visit_7}
 
-Visiter/sélectionner l'annotation de ligne.
+Visiter/sélectionner une annotation de ligne.
 
 ```csharp
 public void Visit(LineAnnotation line)
@@ -205,7 +205,7 @@ public void Visit(LineAnnotation line)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| line | LineAnnotation | Exemple/modèle d'objet LineAnnotation. |
+| ligne | LineAnnotation | Exemple/modèle d'objet LineAnnotation. |
 
 ### Voir aussi
 
@@ -218,7 +218,7 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_2}
 
-Visiter/sélectionner l'annotation de cercle.
+Visiter/sélectionner une annotation de cercle.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
@@ -226,7 +226,7 @@ public void Visit(CircleAnnotation circle)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| circle | CircleAnnotation | Exemple/modèle d'objet CircleAnnotation. |
+| cercle | CircleAnnotation | Exemple/modèle d'objet CircleAnnotation. |
 
 ### Voir aussi
 
@@ -239,7 +239,7 @@ public void Visit(CircleAnnotation circle)
 
 ## Visit(SquareAnnotation) {#visit_16}
 
-Visiter/sélectionner l'annotation de carré.
+Visiter/sélectionner l'annotation carrée.
 
 ```csharp
 public void Visit(SquareAnnotation square)
@@ -260,7 +260,7 @@ public void Visit(SquareAnnotation square)
 
 ## Visit(InkAnnotation) {#visit_6}
 
-Visiter/sélectionner l'annotation d'encre.
+Visiter/sélectionner une annotation d'encre.
 
 ```csharp
 public void Visit(InkAnnotation ink)
@@ -268,7 +268,7 @@ public void Visit(InkAnnotation ink)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| ink | InkAnnotation | Exemple/modèle d'objet InkAnnotation. |
+| encre | InkAnnotation | Exemple/modèle d'objet InkAnnotation. |
 
 ### Voir aussi
 
@@ -281,7 +281,7 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_12}
 
-Visiter/sélectionner l'annotation de polyligne.
+Visiter/sélectionner une annotation de polyligne.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
@@ -289,7 +289,7 @@ public void Visit(PolylineAnnotation polyline)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | Exemple/modèle d'objet PolylineAnnotation. |
+| polyligne | PolylineAnnotation | Exemple/modèle d'objet PolylineAnnotation. |
 
 ### Voir aussi
 
@@ -302,7 +302,7 @@ public void Visit(PolylineAnnotation polyline)
 
 ## Visit(PolygonAnnotation) {#visit_11}
 
-Visiter/sélectionner l'annotation de polygone.
+Visiter/sélectionner une annotation de polygone.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
@@ -310,7 +310,7 @@ public void Visit(PolygonAnnotation polygon)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | Exemple/modèle d'objet PolygonAnnotation. |
+| polygone | PolygonAnnotation | Exemple/modèle d'objet PolygonAnnotation. |
 
 ### Voir aussi
 
@@ -323,7 +323,7 @@ public void Visit(PolygonAnnotation polygon)
 
 ## Visit(CaretAnnotation) {#visit_1}
 
-Visiter/sélectionner l'annotation de caret.
+Visiter/sélectionner une annotation de caret.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
@@ -331,7 +331,7 @@ public void Visit(CaretAnnotation caret)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| caret | CaretAnnotation | Exemple/modèle d'objet CaretAnnotation. |
+| curseur | CaretAnnotation | CaretAnnotation exemple d'objet/modèle. |
 
 ### Voir aussi
 
@@ -352,7 +352,7 @@ public void Visit(StampAnnotation stamp)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| stamp | StampAnnotation | Exemple/modèle d'objet StampAnnotation. |
+| tampon | StampAnnotation | StampAnnotation exemple d'objet/modèle. |
 
 ### Voir aussi
 
@@ -365,7 +365,7 @@ public void Visit(StampAnnotation stamp)
 
 ## Visit(WidgetAnnotation) {#visit_23}
 
-Visiter/sélectionner l'annotation de widget.
+Visiter/sélectionner l'annotation widget.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
@@ -373,7 +373,7 @@ public void Visit(WidgetAnnotation widget)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| widget | WidgetAnnotation | Exemple/modèle d'objet WidgetAnnotation. |
+| widget | WidgetAnnotation | WidgetAnnotation exemple d'objet/modèle. |
 
 ### Voir aussi
 
@@ -386,7 +386,7 @@ public void Visit(WidgetAnnotation widget)
 
 ## Visit(MovieAnnotation) {#visit_9}
 
-Visiter/sélectionner l'annotation de film.
+Visiter/sélectionner une annotation vidéo.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
@@ -394,7 +394,7 @@ public void Visit(MovieAnnotation movie)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| movie | MovieAnnotation | Exemple/modèle d'objet MovieAnnotation. |
+| film | MovieAnnotation | MovieAnnotation exemple d'objet/modèle. |
 
 ### Voir aussi
 
@@ -407,7 +407,7 @@ public void Visit(MovieAnnotation movie)
 
 ## Visit(ScreenAnnotation) {#visit_15}
 
-Visiter/sélectionner l'annotation d'écran.
+Visiter/sélectionner une annotation d'écran.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
@@ -415,7 +415,7 @@ public void Visit(ScreenAnnotation screen)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| screen | ScreenAnnotation | Exemple/modèle d'objet ScreenAnnotation. |
+| écran | ScreenAnnotation | ScreenAnnotation exemple d'objet/modèle. |
 
 ### Voir aussi
 
@@ -428,7 +428,7 @@ public void Visit(ScreenAnnotation screen)
 
 ## Visit(TrimMarkAnnotation) {#visit_21}
 
-Visiter/sélectionner une annotation de marque de coupe.
+Visiter/sélectionner une annotation de repère de coupe.
 
 ```csharp
 public void Visit(TrimMarkAnnotation trimMark)
@@ -436,7 +436,7 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | L'objet [`TrimMarkAnnotation`](../../trimmarkannotation/) exemple/modèle. |
+| trimMark | TrimMarkAnnotation | Le [`TrimMarkAnnotation`](../../trimmarkannotation/) exemple d'objet/modèle. |
 
 ### Voir aussi
 
@@ -449,7 +449,7 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 ## Visit(BleedMarkAnnotation) {#visit}
 
-Visiter/sélectionner une annotation de marque de débordement.
+Visiter/sélectionner une annotation de repère de coupe.
 
 ```csharp
 public void Visit(BleedMarkAnnotation bleedMark)
@@ -457,7 +457,7 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | L'objet [`BleedMarkAnnotation`](../../bleedmarkannotation/) exemple/modèle. |
+| bleedMark | BleedMarkAnnotation | Le [`BleedMarkAnnotation`](../../bleedmarkannotation/) exemple d'objet/modèle. |
 
 ### Voir aussi
 
@@ -470,7 +470,7 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 ## Visit(RegistrationMarkAnnotation) {#visit_14}
 
-Visiter/sélectionner une annotation de marque d'enregistrement.
+Visiter/sélectionner une annotation de repère d'enregistrement.
 
 ```csharp
 public void Visit(RegistrationMarkAnnotation registrationMark)
@@ -478,7 +478,7 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | L'objet [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) exemple/modèle. |
+| registrationMark | RegistrationMarkAnnotation | Le [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) exemple d'objet/modèle. |
 
 ### Voir aussi
 
@@ -499,7 +499,7 @@ public void Visit(PageInformationAnnotation pageInformation)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | L'objet [`PageInformationAnnotation`](../../pageinformationannotation/) exemple/modèle. |
+| pageInformation | PageInformationAnnotation | Le [`PageInformationAnnotation`](../../pageinformationannotation/) exemple d'objet/modèle. |
 
 ### Voir aussi
 
@@ -507,3 +507,5 @@ public void Visit(PageInformationAnnotation pageInformation)
 * interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

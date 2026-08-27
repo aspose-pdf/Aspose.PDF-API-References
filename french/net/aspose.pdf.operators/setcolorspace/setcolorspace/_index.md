@@ -1,12 +1,12 @@
 ---
-title: SetColorSpace.SetColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur SetColorSpace. Initialise l'opérateur
+title: "SetColorSpace.SetColorSpace"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SetColorSpace. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/setcolorspace/setcolorspace/
 ---
-## Constructeur SetColorSpace
+## SetColorSpace constructor
 
 Initialise l'opérateur.
 
@@ -16,10 +16,12 @@ public SetColorSpace(string name)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| name | String | Nom de l'espace colorimétrique. |
+| nom | String | Nom de l'espace colorimétrique. |
 
 ### Voir aussi
 
-* classe [SetColorSpace](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetColorSpace](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

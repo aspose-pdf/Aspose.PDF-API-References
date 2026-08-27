@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.AssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OpenAISummaryCopilotOptions. Obtient ou définit le nom de l'assistant
+title: "OpenAISummaryCopilotOptions.AssistantName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OpenAISummaryCopilotOptions. Obtient ou définit le nom de l’assistant"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/openaisummarycopilotoptions/assistantname/
 ---
-## Propriété OpenAISummaryCopilotOptions.AssistantName
+## OpenAISummaryCopilotOptions.AssistantName property
 
 Obtient ou définit le nom de l'assistant.
 
@@ -16,6 +16,8 @@ public string AssistantName { get; set; }
 
 ### Voir aussi
 
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

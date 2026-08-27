@@ -1,12 +1,12 @@
 ---
-title: FloatingBox.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FloatingBox. Obtient ou définit une valeur flottante qui indique la largeur de la boîte flottante
+title: "FloatingBox.Width"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FloatingBox. Obtient ou définit une valeur flottante qui indique la largeur de la boîte flottante"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/floatingbox/width/
 ---
-## Propriété FloatingBox.Width
+## FloatingBox.Width property
 
 Obtient ou définit une valeur flottante qui indique la largeur de la boîte flottante.
 
@@ -16,6 +16,8 @@ public double Width { get; set; }
 
 ### Voir aussi
 
-* classe [FloatingBox](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

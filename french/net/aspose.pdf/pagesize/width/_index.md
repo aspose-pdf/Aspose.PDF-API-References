@@ -1,12 +1,12 @@
 ---
-title: PageSize.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageSize. Obtient ou définit la largeur de la page
+title: "PageSize.Width"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageSize. Obtient ou définit la largeur de la page"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf/pagesize/width/
 ---
-## Propriété PageSize.Width
+## PageSize.Width property
 
 Obtient ou définit la largeur de la page.
 
@@ -16,6 +16,8 @@ public float Width { get; set; }
 
 ### Voir aussi
 
-* classe [PageSize](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

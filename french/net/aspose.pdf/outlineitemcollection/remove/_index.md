@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OutlineItemCollection. Supprimer un élément de la collection de contours
+title: "OutlineItemCollection.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection méthode. Supprime l'élément de la collection du plan"
 type: docs
 weight: 290
 url: /fr/net/aspose.pdf/outlineitemcollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-Supprimer un élément de la collection de contours.
+Supprime l'élément de la collection de plan.
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
@@ -20,19 +20,19 @@ public override bool Remove(OutlineItemCollection item)
 
 ### Valeur de retour
 
-Vrai - si l'élément est supprimé ; sinon, faux.
+True - si l'élément est supprimé ; sinon, false.
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Remove(int) {#remove_1}
 
-Supprimer un élément par index.
+Supprime l'élément par indice.
 
 ```csharp
 public void Remove(int index)
@@ -40,10 +40,12 @@ public void Remove(int index)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | Index de l'élément à supprimer. |
+| index | Int32 | Indice de l'élément à supprimer. |
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

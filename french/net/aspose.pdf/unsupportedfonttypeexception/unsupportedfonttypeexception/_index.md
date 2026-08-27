@@ -1,7 +1,7 @@
 ---
-title: UnsupportedFontTypeException.UnsupportedFontTypeException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de UnsupportedFontTypeException. Initialise une nouvelle instance de la classe UnsupportedFontTypeException
+title: "UnsupportedFontTypeException.UnsupportedFontTypeException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur UnsupportedFontTypeException. Initialise une nouvelle instance de la classe UnsupportedFontTypeException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/unsupportedfonttypeexception/unsupportedfonttypeexception/
@@ -20,8 +20,8 @@ public UnsupportedFontTypeException(string message)
 
 ### Voir aussi
 
-* classe [UnsupportedFontTypeException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [UnsupportedFontTypeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,8 +41,8 @@ public UnsupportedFontTypeException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [UnsupportedFontTypeException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [UnsupportedFontTypeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -61,6 +61,8 @@ public UnsupportedFontTypeException(Exception innerException)
 
 ### Voir aussi
 
-* classe [UnsupportedFontTypeException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [UnsupportedFontTypeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

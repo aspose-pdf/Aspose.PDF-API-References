@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineItemCollection. Obtient ou définit le titre de cet élément de plan
+title: "OutlineItemCollection.Title"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection propriété. Obtient ou définit le titre de cet élément de plan"
 type: docs
 weight: 200
 url: /fr/net/aspose.pdf/outlineitemcollection/title/
 ---
-## Propriété OutlineItemCollection.Title
+## OutlineItemCollection.Title property
 
 Obtient ou définit le titre de cet élément de plan.
 
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Metadata.ExtensionFields
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de métadonnées. Obtient le dictionnaire des champs d'extension
+title: "Metadata.ExtensionFields"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Metadata. Obtient le dictionnaire des champs d'extension"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/metadata/extensionfields/
 ---
-## Propriété Metadata.ExtensionFields
+## Metadata.ExtensionFields property
 
 Obtient le dictionnaire des champs d'extension.
 
@@ -16,7 +16,9 @@ public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
-* classe [Metadata](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

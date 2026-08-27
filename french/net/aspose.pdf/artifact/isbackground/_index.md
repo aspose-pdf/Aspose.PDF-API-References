@@ -1,14 +1,14 @@
 ---
-title: Artifact.IsBackground
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Artifact. Si vrai, l'Artifact est placé derrière le contenu de la page
+title: "Artifact.IsBackground"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Artifact. Si vrai, l'Artifact est placé derrière le contenu de la page"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf/artifact/isbackground/
 ---
-## Propriété Artifact.IsBackground
+## Artifact.IsBackground property
 
-Si vrai, l'Artifact est placé derrière le contenu de la page.
+Si vrai, l'artefact est placé derrière le contenu de la page.
 
 ```csharp
 public bool IsBackground { get; set; }
@@ -16,6 +16,8 @@ public bool IsBackground { get; set; }
 
 ### Voir aussi
 
-* classe [Artifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

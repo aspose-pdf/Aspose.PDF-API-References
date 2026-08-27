@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfExtractor. Stocke la pièce jointe dans un fichier
+title: "PdfExtractor.GetAttachment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfExtractor méthode. Enregistre la pièce jointe dans le fichier"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.facades/pdfextractor/getattachment/
 ---
 ## GetAttachment(string) {#getattachment_1}
 
-Stocke la pièce jointe dans un fichier.
+Enregistre la pièce jointe dans un fichier.
 
 ```csharp
 public void GetAttachment(string outputPath)
@@ -16,19 +16,19 @@ public void GetAttachment(string outputPath)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputPath | String | Chemin du répertoire où la(les) pièce(s) jointe(s) seront stockées. Null ou chaîne vide signifie que la(les) pièce(s) jointe(s) seront placées dans le répertoire de l'application. |
+| outputPath | String | Chemin du répertoire où la ou les pièces jointes seront stockées. Null ou chaîne vide signifie que la ou les pièces jointes seront placées dans le répertoire de l'application. |
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetAttachment() {#getattachment}
 
-Sauvegarde tous les fichiers de pièces jointes dans des flux.
+Enregistre tous les fichiers de pièces jointes dans des flux.
 
 ```csharp
 public MemoryStream[] GetAttachment()
@@ -36,7 +36,7 @@ public MemoryStream[] GetAttachment()
 
 ### Valeur de retour
 
-Le tableau de flux du fichier de pièce jointe dans le document pdf.
+Le tableau de flux du fichier de la pièce jointe dans le document pdf.
 
 ## Exemples
 
@@ -92,6 +92,8 @@ for(Integer i = 0 i<tempStreams.Length i++)
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

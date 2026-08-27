@@ -1,14 +1,14 @@
 ---
-title: Class MessageContentResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.MessageContentResponse. Le contenu du message de réponse dans un tableau de texte et/ou d'images
+title: "Classe MessageContentResponse"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.AI.MessageContentResponse classe. Le contenu du message de réponse sous forme de tableau de texte et/ou d'images"
 type: docs
-weight: 790
+weight: 840
 url: /fr/net/aspose.pdf.ai/messagecontentresponse/
 ---
-## Classe MessageContentResponse
+## MessageContentResponse class
 
-Le contenu du message de réponse dans un tableau de texte et/ou d'images.
+Le contenu du message de réponse sous forme de tableau de texte et/ou d'images.
 
 ```csharp
 public class MessageContentResponse : MessageContentBase
@@ -27,10 +27,12 @@ public class MessageContentResponse : MessageContentBase
 | [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Obtient ou définit un fichier image dans le contenu d'un message. |
 | [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Obtient ou définit une URL d'image dans le contenu d'un message. |
 | [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Obtient ou définit le type de contenu. |
-| [Text](../../aspose.pdf.ai/messagecontentresponse/text/) { get; set; } | Obtient ou définit le contenu textuel qui fait partie d'un message. |
+| [Text](../../aspose.pdf.ai/messagecontentresponse/text/) { get; set; } | Obtient ou définit le contenu texte qui fait partie d'un message. |
 
 ### Voir aussi
 
-* classe [MessageContentBase](../messagecontentbase/)
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [MessageContentBase](../messagecontentbase/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

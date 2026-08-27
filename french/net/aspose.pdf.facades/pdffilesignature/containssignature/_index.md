@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.ContainsSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileSignature. Vérifie si le pdf a une signature numérique ou non
+title: "PdfFileSignature.ContainsSignature"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileSignature method. Vérifie si le pdf possède une signature numérique ou non"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.facades/pdffilesignature/containssignature/
 ---
-## Méthode PdfFileSignature.ContainsSignature
+## PdfFileSignature.ContainsSignature method
 
-Vérifie si le pdf a une signature numérique ou non.
+Vérifie si le pdf possède une signature numérique ou non.
 
 ```csharp
 public bool ContainsSignature()
@@ -16,10 +16,12 @@ public bool ContainsSignature()
 
 ### Valeur de retour
 
-Retourne un résultat de type bool.
+Renvoie un résultat de type bool.
 
 ### Voir aussi
 
-* classe [PdfFileSignature](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

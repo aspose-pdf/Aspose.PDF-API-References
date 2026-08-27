@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.Vertices
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PDF3DRenderMode. Le mode de rendu Vertices
+title: "PDF3DRenderMode.Vertices"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PDF3DRenderMode. Le mode de rendu Vertices"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.annotations/pdf3drendermode/vertices/
 ---
-## Champ PDF3DRenderMode.Vertices
+## PDF3DRenderMode.Vertices field
 
 Le mode de rendu "Vertices".
 
@@ -16,6 +16,8 @@ public static PDF3DRenderMode Vertices;
 
 ### Voir aussi
 
-* classe [PDF3DRenderMode](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

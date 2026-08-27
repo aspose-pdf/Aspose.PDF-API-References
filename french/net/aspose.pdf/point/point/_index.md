@@ -1,12 +1,12 @@
 ---
-title: Point.Point
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Point. Initialise une nouvelle instance du Point
+title: "Point.Point"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Point. Initialise une nouvelle instance de Point"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/point/point/
 ---
-## Constructeur Point
+## Point constructor
 
 Initialise une nouvelle instance du [`Point`](../).
 
@@ -21,6 +21,8 @@ public Point(double x, double y)
 
 ### Voir aussi
 
-* classe [Point](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

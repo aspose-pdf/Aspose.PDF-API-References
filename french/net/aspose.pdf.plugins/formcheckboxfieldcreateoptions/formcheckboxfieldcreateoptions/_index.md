@@ -1,14 +1,14 @@
 ---
-title: FormCheckBoxFieldCreateOptions.FormCheckBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FormCheckBoxFieldCreateOptions. Initialise une nouvelle instance de l'objet FormCheckBoxFieldCreateOptions contenant des paramètres pour le CheckBoxField créé et ajouté.
+title: "FormCheckBoxFieldCreateOptions.FormCheckBoxFieldCreateOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FormCheckBoxFieldCreateOptions. Initialise une nouvelle instance de l'objet FormCheckBoxFieldCreateOptions contenant les paramètres pour le CheckBoxField créé et ajouté"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/formcheckboxfieldcreateoptions/formcheckboxfieldcreateoptions/
 ---
-## Constructeur de FormCheckBoxFieldCreateOptions
+## FormCheckBoxFieldCreateOptions constructor
 
-Initialise une nouvelle instance de l'objet [`FormCheckBoxFieldCreateOptions`](../), contenant des paramètres pour le CheckBoxField créé et ajouté.
+Initialise une nouvelle instance de l'objet [`FormCheckBoxFieldCreateOptions`](../), contenant les paramètres pour le CheckBoxField créé et ajouté.
 
 ```csharp
 public FormCheckBoxFieldCreateOptions(int pageNum, Rectangle rect)
@@ -21,7 +21,9 @@ public FormCheckBoxFieldCreateOptions(int pageNum, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [FormCheckBoxFieldCreateOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormCheckBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

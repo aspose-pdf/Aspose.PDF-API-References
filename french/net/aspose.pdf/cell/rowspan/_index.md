@@ -1,14 +1,14 @@
 ---
-title: Cell.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Cell. Obtient ou définit la portée des lignes
+title: "Cell.RowSpan"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Cell propriété. Obtient ou définit l'étendue de ligne"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/cell/rowspan/
 ---
-## Propriété Cell.RowSpan
+## Cell.RowSpan property
 
-Obtient ou définit la portée des lignes.
+Obtient ou définit la fusion de lignes.
 
 ```csharp
 public int RowSpan { get; set; }
@@ -16,6 +16,8 @@ public int RowSpan { get; set; }
 
 ### Voir aussi
 
-* classe [Cell](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

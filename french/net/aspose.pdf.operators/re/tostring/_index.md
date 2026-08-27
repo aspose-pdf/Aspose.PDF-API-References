@@ -1,12 +1,12 @@
 ---
-title: Re.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Re. Renvoie la représentation textuelle de l'opérateur
+title: "Re.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Re. Retourne la représentation texte de l'opérateur"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.operators/re/tostring/
 ---
-## Méthode Re.ToString
+## Re.ToString method
 
 Renvoie la représentation textuelle de l'opérateur.
 
@@ -20,6 +20,8 @@ Représentation textuelle de l'opérateur.
 
 ### Voir aussi
 
-* classe [Re](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

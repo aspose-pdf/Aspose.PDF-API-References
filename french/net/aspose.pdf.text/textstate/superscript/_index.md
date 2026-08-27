@@ -1,14 +1,14 @@
 ---
-title: TextState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextState. Obtient ou définit l'exposant du texte
+title: "TextState.Superscript"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextState. Obtient ou définit l'exposant du texte"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf.text/textstate/superscript/
 ---
-## Propriété TextState.Superscript
+## TextState.Superscript property
 
-Obtient ou définit l'exposant du texte.
+Obtient ou définit le texte en exposant.
 
 ```csharp
 public virtual bool Superscript { get; set; }
@@ -16,6 +16,8 @@ public virtual bool Superscript { get; set; }
 
 ### Voir aussi
 
-* classe [TextState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

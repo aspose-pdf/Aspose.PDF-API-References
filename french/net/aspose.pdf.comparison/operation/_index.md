@@ -1,12 +1,12 @@
 ---
-title: Enum Operation
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Comparison.Operation. Représente un type d'opération de différence
+title: "Enumération Operation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Comparison.Operation enum. Représente un type d'opération de différence."
 type: docs
-weight: 3260
+weight: 3370
 url: /fr/net/aspose.pdf.comparison/operation/
 ---
-## Énumération d'opération
+## Operation enumeration
 
 Représente un type d'opération de différence.
 
@@ -18,11 +18,13 @@ public enum Operation
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Égal | `0` | L'opération égale. |
-| Supprimer | `1` | L'opération de suppression. |
-| Insérer | `2` | L'opération d'insertion. |
+| Equal | `0` | L'opération d'égalité. |
+| Delete | `1` | L'opération de suppression. |
+| Insert | `2` | L'opération d'insertion. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

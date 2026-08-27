@@ -1,12 +1,12 @@
 ---
-title: Class PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PageInfo. Représente les informations de la page
+title: "Classe PageInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.PageInfo classe. Représente les informations de la page"
 type: docs
-weight: 8150
+weight: 8290
 url: /fr/net/aspose.pdf/pageinfo/
 ---
-## Classe PageInfo
+## PageInfo class
 
 Représente les informations de la page.
 
@@ -40,5 +40,7 @@ public sealed class PageInfo : ICloneable
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BasicSetColorOperator.R
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété BasicSetColorOperator. Obtient le composant rouge de la couleur
+title: "BasicSetColorOperator.R"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété BasicSetColorOperator. Obtient le composant rouge de la couleur"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.operators/basicsetcoloroperator/r/
 ---
-## Propriété BasicSetColorOperator.R
+## BasicSetColorOperator.R property
 
 Obtient le composant rouge de la couleur
 
@@ -16,6 +16,8 @@ public double R { get; }
 
 ### Voir aussi
 
-* classe [BasicSetColorOperator](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

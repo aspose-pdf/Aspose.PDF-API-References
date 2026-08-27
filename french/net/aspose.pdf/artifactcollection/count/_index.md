@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ArtifactCollection. Obtient le nombre d'artefacts dans la collection
+title: "ArtifactCollection.Count"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ArtifactCollection. Obtient le nombre d'artefacts dans la collection"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/artifactcollection/count/
 ---
-## Propriété ArtifactCollection.Count
+## ArtifactCollection.Count property
 
 Obtient le nombre d'artefacts dans la collection.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Voir aussi
 
-* classe [ArtifactCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

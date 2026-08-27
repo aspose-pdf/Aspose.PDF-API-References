@@ -1,14 +1,14 @@
 ---
-title: TableElement.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableElement. Obtient ou définit la coordonnée gauche de la table
+title: "TableElement.Left"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TableElement. Obtient ou définit la coordonnée gauche du tableau"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.logicalstructure/tableelement/left/
 ---
-## Propriété TableElement.Gauche
+## TableElement.Left property
 
-Obtient ou définit la coordonnée gauche de la table.
+Obtient ou définit la coordonnée gauche du tableau.
 
 ```csharp
 public float Left { get; set; }
@@ -16,6 +16,8 @@ public float Left { get; set; }
 
 ### Voir aussi
 
-* classe [TableElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

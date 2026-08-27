@@ -1,25 +1,27 @@
 ---
-title: TextState.TabTag
-second_title: Aspose.PDF for .NET API Reference
-description: Champ TextState. Vous pouvez placer cette balise dans le texte pour déclarer une tabulation
+title: "TextState.TabTag"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextState. Vous pouvez placer cette balise dans le texte pour déclarer une tabulation"
 type: docs
-weight: 210
+weight: 180
 url: /fr/net/aspose.pdf.text/textstate/tabtag/
 ---
-## Champ TextState.TabTag
+## TextState.TabTag property
 
 Vous pouvez placer cette balise dans le texte pour déclarer une tabulation.
 
 ```csharp
-public readonly string TabTag;
+public string TabTag { get; }
 ```
 
 ## Remarques
 
-Cela n'a d'effet que couplé avec [`TabStops`](../../tabstops/).
+Cela n’a d’effet que lorsqu’il est associé à [`TabStops`](../../tabstops/).
 
 ### Voir aussi
 
-* classe [TextState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

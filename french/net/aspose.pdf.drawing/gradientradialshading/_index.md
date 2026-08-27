@@ -1,14 +1,14 @@
 ---
-title: Class GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Drawing.GradientRadialShading. Représente le type d'ombrage radial dégradé
+title: "Classe GradientRadialShading"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Drawing.GradientRadialShading. Représente le type de dégradé radial"
 type: docs
-weight: 3930
+weight: 4050
 url: /fr/net/aspose.pdf.drawing/gradientradialshading/
 ---
-## Classe GradientRadialShading
+## GradientRadialShading class
 
-Représente le type d'ombrage radial dégradé.
+Représente le type de dégradé radial.
 
 ```csharp
 public class GradientRadialShading : PatternColorSpace
@@ -25,15 +25,17 @@ public class GradientRadialShading : PatternColorSpace
 
 | Nom | Description |
 | --- | --- |
-| [End](../../aspose.pdf.drawing/gradientradialshading/end/) { get; set; } | Obtient ou définit le point central du cercle de fin. |
+| [End](../../aspose.pdf.drawing/gradientradialshading/end/) { get; set; } | Obtient ou définit le point central du cercle final. |
 | [EndColor](../../aspose.pdf.drawing/gradientradialshading/endcolor/) { get; set; } | Obtient ou définit la couleur de fin. |
-| [EndingRadius](../../aspose.pdf.drawing/gradientradialshading/endingradius/) { get; set; } | Obtient ou définit le rayon du cercle de fin. |
+| [EndingRadius](../../aspose.pdf.drawing/gradientradialshading/endingradius/) { get; set; } | Obtient ou définit le rayon du cercle final. |
 | [Start](../../aspose.pdf.drawing/gradientradialshading/start/) { get; set; } | Obtient ou définit le point central du cercle de départ. |
 | [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor/) { get; set; } | Obtient ou définit la couleur de départ. |
 | [StartingRadius](../../aspose.pdf.drawing/gradientradialshading/startingradius/) { get; set; } | Obtient ou définit le rayon du cercle de départ. |
 
 ### Voir aussi
 
-* classe [PatternColorSpace](../patterncolorspace/)
-* espace de noms [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

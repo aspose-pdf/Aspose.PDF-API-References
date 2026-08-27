@@ -1,14 +1,14 @@
 ---
-title: Logprobs.TokenLogprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Logprobs. Obtient ou définit une liste de probabilités logarithmiques de jetons
+title: "Logprobs.TokenLogprobs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Logprobs propriété. Obtient ou définit une liste des probabilités logarithmiques des tokens"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/logprobs/tokenlogprobs/
 ---
-## Propriété Logprobs.TokenLogprobs
+## Logprobs.TokenLogprobs property
 
-Obtient ou définit une liste de probabilités logarithmiques de jetons.
+Obtient ou définit une liste de probabilités logarithmiques des jetons.
 
 ```csharp
 public List<double?> TokenLogprobs { get; set; }
@@ -16,6 +16,8 @@ public List<double?> TokenLogprobs { get; set; }
 
 ### Voir aussi
 
-* classe [Logprobs](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Logprobs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum FontSubsetStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.FontSubsetStrategy. énumère les stratégies pour le sous-ensemble de polices
+title: "Énumération FontSubsetStrategy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.FontSubsetStrategy. énumère les stratégies de sous-ensemble de polices"
 type: docs
-weight: 4910
+weight: 5030
 url: /fr/net/aspose.pdf/fontsubsetstrategy/
 ---
-## Énumération FontSubsetStrategy
+## FontSubsetStrategy enumeration
 
-énumère les stratégies pour le sous-ensemble de polices
+énumère les stratégies de sous-ensemble de polices
 
 ```csharp
 public enum FontSubsetStrategy : byte
@@ -18,10 +18,12 @@ public enum FontSubsetStrategy : byte
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| SubsetEmbeddedFontsOnly | `0` | Déclare de sous-ensembler uniquement les polices qui sont déjà intégrées dans le document |
-| SubsetAllFonts | `1` | Déclare de sous-ensembler toutes les polices, à la fois non intégrées et intégrées |
+| SubsetEmbeddedFontsOnly | `0` | Déclare de sous-ensemble uniquement les polices déjà incorporées dans le document |
+| SubsetAllFonts | `1` | Déclare de sous-ensemble toutes les polices, non incorporées et incorporées |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

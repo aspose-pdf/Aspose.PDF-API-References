@@ -1,12 +1,12 @@
 ---
-title: Measure.Measure
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Measure. Crée un objet Measure pour les annotations de mesure
+title: "Measure.Measure"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Measure. Crée un objet Measure pour les annotations de mesure"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/measure/measure/
 ---
-## Constructeur Measure
+## Measure constructor
 
 Crée un objet Measure pour les annotations de mesure.
 
@@ -20,7 +20,9 @@ public Measure(Annotation annotation)
 
 ### Voir aussi
 
-* classe [Annotation](../../annotation/)
-* classe [Measure](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

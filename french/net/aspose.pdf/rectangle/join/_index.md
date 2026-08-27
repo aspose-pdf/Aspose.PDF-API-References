@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Join
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Rectangle. Joint des rectangles
+title: "Rectangle.Join"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Rectangle. Joint des rectangles"
 type: docs
 weight: 230
 url: /fr/net/aspose.pdf/rectangle/join/
 ---
-## Méthode Rectangle.Join
+## Rectangle.Join method
 
-Joint des rectangles.
+Joint les rectangles.
 
 ```csharp
 public Rectangle Join(Rectangle otherRect)
@@ -24,6 +24,8 @@ Rectangle décrit.
 
 ### Voir aussi
 
-* classe [Rectangle](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

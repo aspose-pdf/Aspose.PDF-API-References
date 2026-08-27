@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.SaveNewInfoWithXmp
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileInfo. Modifie les propriétés spécifiées explicitement en définissant les informations sur le fichier, d'autres propriétés restent
+title: "PdfFileInfo.SaveNewInfoWithXmp"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileInfo. Modifie les propriétés spécifiées explicitement en définissant les informations du fichier, les autres propriétés restent inchangées"
 type: docs
 weight: 320
 url: /fr/net/aspose.pdf.facades/pdffileinfo/savenewinfowithxmp/
 ---
-## Méthode PdfFileInfo.SaveNewInfoWithXmp
+## PdfFileInfo.SaveNewInfoWithXmp method
 
-Modifie les propriétés spécifiées explicitement en définissant les informations sur le fichier, d'autres propriétés restent.
+Modifie les propriétés spécifiées explicitement en définissant les informations du fichier, les autres propriétés restent inchangées.
 
 ```csharp
 public bool SaveNewInfoWithXmp(string outputFileName)
@@ -20,10 +20,12 @@ public bool SaveNewInfoWithXmp(string outputFileName)
 
 ### Valeur de retour
 
-Vrai pour le succès, ou faux.
+Vrai en cas de succès, ou faux.
 
 ### Voir aussi
 
-* classe [PdfFileInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

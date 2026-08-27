@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormEditor. Définir les drapeaux de soumission des boutons de soumission
+title: "FormEditor.SubmitFlag"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FormEditor. Définit les indicateurs de soumission des boutons d'envoi"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.facades/formeditor/submitflag/
 ---
-## Propriété FormEditor.SubmitFlag
+## FormEditor.SubmitFlag property
 
-Définir les drapeaux de soumission du bouton de soumission
+Définit les indicateurs de soumission du bouton d'envoi.
 
 ```csharp
 public SubmitFormFlag SubmitFlag { get; set; }
@@ -20,3 +20,5 @@ public SubmitFormFlag SubmitFlag { get; set; }
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

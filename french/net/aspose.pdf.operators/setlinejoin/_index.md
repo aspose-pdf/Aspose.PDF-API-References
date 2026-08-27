@@ -1,14 +1,14 @@
 ---
-title: Class SetLineJoin
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetLineJoin. Classe représentant l'opérateur j pour définir le style de jointure de ligne
+title: "Classe SetLineJoin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.SetLineJoin classe. Classe représentant l'opérateur j qui définit le style de jointure de ligne"
 type: docs
-weight: 7760
+weight: 7900
 url: /fr/net/aspose.pdf.operators/setlinejoin/
 ---
-## Classe SetLineJoin
+## SetLineJoin class
 
-Classe représentant l'opérateur j (définir le style de jointure de ligne).
+Classe représentant l'opérateur j (définit le style de jointure de ligne).
 
 ```csharp
 public class SetLineJoin : Operator
@@ -32,12 +32,14 @@ public class SetLineJoin : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setlinejoin/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et de ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| override [Accept](../../aspose.pdf.operators/setlinejoin/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

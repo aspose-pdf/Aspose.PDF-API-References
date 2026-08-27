@@ -1,14 +1,14 @@
 ---
-title: IChatCopilot.GetResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IChatCopilot. Obtient de manière asynchrone une réponse pour le message donné
+title: "IChatCopilot.GetResponseAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IChatCopilot. Obtient de manière asynchrone une réponse pour le message donné."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/ichatcopilot/getresponseasync/
 ---
 ## GetResponseAsync(string, CancellationToken?) {#getresponseasync_1}
 
-Obtient de manière asynchrone une réponse pour le message donné.
+Obtient de façon asynchrone une réponse pour le message donné.
 
 ```csharp
 public Task<string> GetResponseAsync(string message, CancellationToken? cancellationToken = default)
@@ -33,7 +33,7 @@ Une tâche représentant l'opération asynchrone avec la chaîne de réponse.
 
 ## GetResponseAsync(List&lt;string&gt;, CancellationToken?) {#getresponseasync}
 
-Obtient de manière asynchrone une réponse pour la liste donnée de messages.
+Obtient de façon asynchrone une réponse pour la liste de messages donnée.
 
 ```csharp
 public Task<string> GetResponseAsync(List<string> messages, 
@@ -54,3 +54,5 @@ Une tâche représentant l'opération asynchrone avec la chaîne de réponse.
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

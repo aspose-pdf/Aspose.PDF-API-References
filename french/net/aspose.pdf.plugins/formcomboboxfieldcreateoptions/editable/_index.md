@@ -1,14 +1,14 @@
 ---
-title: FormComboBoxFieldCreateOptions.Editable
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormComboBoxFieldCreateOptions. Obtient/définit la valeur pour déterminer si le ComboBoxField créé est modifiable ou non.
+title: "FormComboBoxFieldCreateOptions.Editable"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FormComboBoxFieldCreateOptions. Obtient/définit la valeur permettant de déterminer si le ComboBoxField créé est modifiable ou non lorsqu'elle est définie"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/editable/
 ---
-## Propriété FormComboBoxFieldCreateOptions.Editable
+## FormComboBoxFieldCreateOptions.Editable property
 
-Obtient/définit la valeur pour déterminer si le ComboBoxField créé est modifiable ou non (s'il sera défini).
+Obtient/definit la valeur pour déterminer si le ComboBoxField créé est modifiable ou non (si elle est définie).
 
 ```csharp
 public bool? Editable { get; set; }
@@ -16,6 +16,8 @@ public bool? Editable { get; set; }
 
 ### Voir aussi
 
-* classe [FormComboBoxFieldCreateOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FormComboBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

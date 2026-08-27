@@ -1,12 +1,12 @@
 ---
-title: Document.FontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Événement de document. Se produit lorsque la police remplace une autre police dans le document
+title: "Document.FontSubstitution"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Document event. Se produit lorsqu’une police remplace une autre police dans le document."
 type: docs
-weight: 540
+weight: 560
 url: /fr/net/aspose.pdf/document/fontsubstitution/
 ---
-## Événement Document.FontSubstitution
+## Document.FontSubstitution event
 
 Se produit lorsque la police remplace une autre police dans le document.
 
@@ -16,7 +16,9 @@ public event FontSubstitutionHandler FontSubstitution;
 
 ### Voir aussi
 
-* délégué [FontSubstitutionHandler](../../document.fontsubstitutionhandler/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* delegate [FontSubstitutionHandler](../../document.fontsubstitutionhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAISummaryCopilotOptions. Définit le modèle pour les options du copilote de résumé
+title: "OpenAISummaryCopilotOptions.WithModel"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAISummaryCopilotOptions. Définit le modèle pour les options du copilote de résumé"
 type: docs
-weight: 110
+weight: 120
 url: /fr/net/aspose.pdf.ai/openaisummarycopilotoptions/withmodel/
 ---
-## Méthode OpenAISummaryCopilotOptions.WithModel
+## OpenAISummaryCopilotOptions.WithModel method
 
 Définit le modèle pour les options du copilote de résumé.
 
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithModel(string model)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| model | String | Le modèle à définir. |
+| modèle | String | Le modèle à définir. |
 
 ### Valeur de retour
 
-L'instance actuelle de [`OpenAISummaryCopilotOptions`](../).
+L’instance actuelle de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

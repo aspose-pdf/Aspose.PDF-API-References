@@ -1,14 +1,14 @@
 ---
-title: ComHelper.OpenFile
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ComHelper. Créez et renvoyez simplement un Document en utilisant le nom de fichier. Identique à Document
+title: "ComHelper.OpenFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ComHelper. Crée simplement et renvoie un Document en utilisant le nom de fichier. Identique à Document"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/comhelper/openfile/
 ---
 ## OpenFile(string) {#openfile}
 
-Créez et renvoyez simplement un Document en utilisant *filename*. Identique à [`Document`](../../document/document/).
+Crée simplement et renvoie un Document en utilisant *filename*. Identique à [`Document`](../../document/document/).
 
 ```csharp
 public Document OpenFile(string filename)
@@ -16,7 +16,7 @@ public Document OpenFile(string filename)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| filename | String | Le nom du fichier du document pdf. |
+| nom de fichier | String | Le nom du fichier du document PDF. |
 
 ### Valeur de retour
 
@@ -24,16 +24,16 @@ Objet Document
 
 ### Voir aussi
 
-* classe [Document](../../document/)
-* classe [ComHelper](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFile(string, string) {#openfile_2}
 
-Initialisez et renvoyez une nouvelle instance de la classe [`Document`](../../document/) pour travailler avec un document crypté.
+Initialise et renvoie une nouvelle instance de la classe [`Document`](../../document/) pour travailler avec un document chiffré.
 
 ```csharp
 public Document OpenFile(string filename, string password)
@@ -41,7 +41,7 @@ public Document OpenFile(string filename, string password)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| filename | String | Nom du fichier du document. |
+| nom de fichier | String | Nom du fichier Document. |
 | password | String | Mot de passe utilisateur ou propriétaire. |
 
 ### Valeur de retour
@@ -50,16 +50,16 @@ Objet Document
 
 ### Voir aussi
 
-* classe [Document](../../document/)
-* classe [ComHelper](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFile(string, string, bool) {#openfile_3}
 
-Initialisez une nouvelle instance de la classe [`Document`](../../document/) pour travailler avec un document crypté.
+Initialise une nouvelle instance de la classe [`Document`](../../document/) pour travailler avec un document chiffré.
 
 ```csharp
 public Document OpenFile(string filename, string password, bool isManagedStream)
@@ -67,7 +67,7 @@ public Document OpenFile(string filename, string password, bool isManagedStream)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| filename | String | Nom du fichier du document. |
+| nom de fichier | String | Nom du fichier Document. |
 | password | String | Mot de passe utilisateur ou propriétaire. |
 | isManagedStream | Boolean | si défini sur `true`, le flux interne est fermé avant la sortie ; sinon, il ne l'est pas. |
 
@@ -77,16 +77,16 @@ Objet Document
 
 ### Voir aussi
 
-* classe [Document](../../document/)
-* classe [ComHelper](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFile(string, LoadOptions) {#openfile_1}
 
-Ouvrez un document existant à partir d'un fichier en fournissant les options de conversion nécessaires pour obtenir un document pdf.
+Ouvrez un document existant à partir d'un fichier en fournissant les options de conversion nécessaires pour obtenir un document PDF.
 
 ```csharp
 public Document OpenFile(string filename, LoadOptions options)
@@ -94,7 +94,7 @@ public Document OpenFile(string filename, LoadOptions options)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| filename | String | Fichier d'entrée à convertir en document pdf. |
+| nom de fichier | String | Fichier d'entrée à convertir en document PDF. |
 | options | LoadOptions | Représente les propriétés pour convertir *filename* en document pdf. |
 
 ### Valeur de retour
@@ -103,8 +103,10 @@ Objet Document
 
 ### Voir aussi
 
-* classe [Document](../../document/)
-* classe [LoadOptions](../../loadoptions/)
-* classe [ComHelper](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [LoadOptions](../../loadoptions/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

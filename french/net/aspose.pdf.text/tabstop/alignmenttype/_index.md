@@ -1,14 +1,14 @@
 ---
-title: TabStop.AlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TabStop. Obtient ou définit un énumération AlignmentType qui indique le type d'alignement de l'onglet
+title: "TabStop.AlignmentType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TabStop. Obtient ou définit une énumération AlignmentType qui indique le type d'alignement du tabulateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/tabstop/alignmenttype/
 ---
-## Propriété TabStop.AlignmentType
+## TabStop.AlignmentType property
 
-Obtient ou définit une énumération `AlignmentType` qui indique le type d'alignement de l'onglet.
+Obtient ou définit une énumération `AlignmentType` qui indique le type d'alignement du tabulateur.
 
 ```csharp
 public TabAlignmentType AlignmentType { get; set; }
@@ -16,7 +16,9 @@ public TabAlignmentType AlignmentType { get; set; }
 
 ### Voir aussi
 
-* énum [TabAlignmentType](../../tabalignmenttype/)
-* classe [TabStop](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* enum [TabAlignmentType](../../tabalignmenttype/)
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

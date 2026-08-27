@@ -1,12 +1,12 @@
 ---
-title: Class TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.TextProperties. Représente les propriétés du texte telles que la taille, la couleur, le style, etc.
+title: "Classe TextProperties"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Facades.TextProperties. Représente les propriétés de texte telles que la taille du texte, la couleur, le style, etc."
 type: docs
-weight: 4760
+weight: 4880
 url: /fr/net/aspose.pdf.facades/textproperties/
 ---
-## Classe TextProperties
+## TextProperties class
 
 Représente les propriétés du texte telles que : taille du texte, couleur, style, etc.
 
@@ -18,7 +18,7 @@ public sealed class TextProperties
 
 | Nom | Description |
 | --- | --- |
-| [TextProperties](textproperties/)(double) | Crée un objet `TextProperties` pour la taille de texte spécifiée |
+| [TextProperties](textproperties/)(double) | Crée l'objet `TextProperties` pour la taille de texte spécifiée |
 
 ## Propriétés
 
@@ -31,5 +31,7 @@ public sealed class TextProperties
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

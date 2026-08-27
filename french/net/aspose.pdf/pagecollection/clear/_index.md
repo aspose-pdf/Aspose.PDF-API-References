@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PageCollection. Effacer la collection de pages
+title: "PageCollection.Clear"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PageCollection. Efface la collection de pages"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/pagecollection/clear/
 ---
-## Méthode PageCollection.Clear
+## PageCollection.Clear method
 
-Effacer la collection de pages.
+Efface la collection de Page.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Voir aussi
 
-* classe [PageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

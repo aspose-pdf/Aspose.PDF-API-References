@@ -1,14 +1,14 @@
 ---
-title: Interface ITeXInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.ITeXInputDirectory. Interface de répertoire d'entrée TeX généralisé
+title: "Interface ITeXInputDirectory"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.ITeXInputDirectory interface. Interface d'un répertoire d'entrée TeX généralisé"
 type: docs
-weight: 5820
+weight: 5950
 url: /fr/net/aspose.pdf/itexinputdirectory/
 ---
-## Interface ITeXInputDirectory
+## ITeXInputDirectory interface
 
-Interface de répertoire d'entrée TeX généralisé.
+Interface du répertoire d’entrée TeX généralisé.
 
 ```csharp
 public interface ITeXInputDirectory : IDisposable
@@ -18,9 +18,11 @@ public interface ITeXInputDirectory : IDisposable
 
 | Nom | Description |
 | --- | --- |
-| [GetFile](../../aspose.pdf/itexinputdirectory/getfile/)(string, out string, bool) | Renvoie le flux à partir duquel lire ou écrire. |
+| [GetFile](../../aspose.pdf/itexinputdirectory/getfile/)(string, out string, bool) | Renvoie le flux à lire ou à écrire. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.AttachmentName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Form. Obtient ou définit le nom de l'attachement lorsque le résultat de l'opération est stocké dans des objets HttpResponse en tant qu'attachement
+title: "Form.AttachmentName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Form. Obtient ou définit le nom de la pièce jointe lorsque le résultat de l'opération est stocké dans des objets HttpResponse en tant que pièce jointe."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/form/attachmentname/
 ---
-## Propriété Form.AttachmentName
+## Form.AttachmentName property
 
-Obtient ou définit le nom de l'attachement lorsque le résultat de l'opération est stocké dans des objets HttpResponse en tant qu'attachement.
+Obtient ou définit le nom de la pièce jointe lorsque le résultat de l'opération est stocké dans des objets HttpResponse en tant que pièce jointe.
 
 ```csharp
 public string AttachmentName { get; set; }
@@ -16,6 +16,8 @@ public string AttachmentName { get; set; }
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

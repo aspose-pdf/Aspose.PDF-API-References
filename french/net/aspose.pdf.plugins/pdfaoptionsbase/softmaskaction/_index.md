@@ -1,22 +1,22 @@
 ---
-title: PdfAOptionsBase.SoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfAOptionsBase. Obtient ou définit l'action à entreprendre lors de la conversion d'images avec des masques doux
+title: "PdfAOptionsBase.SoftMaskAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfAOptionsBase. Obtient ou définit l'action à entreprendre lors de la conversion d'images avec des masques souples."
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.plugins/pdfaoptionsbase/softmaskaction/
 ---
-## Propriété PdfAOptionsBase.SoftMaskAction
+## PdfAOptionsBase.SoftMaskAction property
 
-Obtient ou définit l'action à entreprendre lors de la conversion d'images avec des masques doux.
+Obtient ou définit l'action à entreprendre lors de la conversion des images avec des masques souples.
 
 ```csharp
 public ConvertSoftMaskAction SoftMaskAction { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'action pour convertir des images avec des masques doux. La valeur de cette propriété est une énumération [`ConvertSoftMaskAction`](../../../aspose.pdf/convertsoftmaskaction/).
+L'action pour convertir les images avec des masques souples. La valeur de cette propriété est une énumération [`ConvertSoftMaskAction`](../../../aspose.pdf/convertsoftmaskaction/).
 
 ### Voir aussi
 
@@ -24,3 +24,5 @@ L'action pour convertir des images avec des masques doux. La valeur de cette pro
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

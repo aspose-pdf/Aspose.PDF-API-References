@@ -1,14 +1,14 @@
 ---
-title: FormOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormOptions. Ajoute une nouvelle source de données à la collection de données des plugins du Form...
+title: "FormOptions.AddInput"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FormOptions. Ajoute une nouvelle source de données à la collection de données des plugins Form..."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/formoptions/addinput/
 ---
-## Méthode FormOptions.AddInput
+## FormOptions.AddInput method
 
-Ajoute une nouvelle source de données à la collection de données des plugins du Form...
+Ajoute une nouvelle source de données à la collection de données des plugins Form....
 
 ```csharp
 public void AddInput(IDataSource dataSource)
@@ -24,3 +24,5 @@ public void AddInput(IDataSource dataSource)
 * class [FormOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

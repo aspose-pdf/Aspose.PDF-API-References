@@ -1,14 +1,14 @@
 ---
-title: Table.BreakText
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la table. Obtient ou définit le texte de rupture pour la table
+title: "Table.BreakText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Table. Obtient ou définit le texte de rupture pour le tableau"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/table/breaktext/
 ---
-## Propriété Table.BreakText
+## Table.BreakText property
 
-Obtient ou définit le texte de rupture pour la table
+Obtient ou définit le texte de rupture pour le tableau
 
 ```csharp
 public TextFragment BreakText { get; set; }
@@ -16,7 +16,9 @@ public TextFragment BreakText { get; set; }
 
 ### Voir aussi
 
-* classe [TextFragment](../../../aspose.pdf.text/textfragment/)
-* classe [Table](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

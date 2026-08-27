@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété INamedDestinationCollection. Renvoie le nombre de destinations
+title: "INamedDestinationCollection.Count"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété INamedDestinationCollection. Renvoie le nombre de destinations"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/inameddestinationcollection/count/
 ---
-## Propriété INamedDestinationCollection.Count
+## INamedDestinationCollection.Count property
 
-Renvoie le nombre de destinations.
+Retourne le nombre de destinations.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * interface [INamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

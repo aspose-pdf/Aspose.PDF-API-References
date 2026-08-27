@@ -1,14 +1,14 @@
 ---
-title: Rows.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Rows. Dispose
+title: "Rows.Dispose"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Rows. Dispose"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/rows/dispose/
 ---
-## Méthode Rows.Dispose
+## Rows.Dispose method
 
-Dispose.
+Libère les ressources.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Voir aussi
 
-* classe [Rows](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

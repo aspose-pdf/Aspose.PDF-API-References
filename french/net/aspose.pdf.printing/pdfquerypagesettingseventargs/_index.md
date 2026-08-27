@@ -1,12 +1,12 @@
 ---
-title: Class PdfQueryPageSettingsEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs. Fournit des données pour l'événement PdfQueryPageSettings
+title: "Classe PdfQueryPageSettingsEventArgs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs classe. Fournit des données pour l'événement PdfQueryPageSettings"
 type: docs
-weight: 9640
+weight: 9790
 url: /fr/net/aspose.pdf.printing/pdfquerypagesettingseventargs/
 ---
-## Classe PdfQueryPageSettingsEventArgs
+## PdfQueryPageSettingsEventArgs class
 
 Fournit des données pour l'événement [`PdfQueryPageSettings`](../../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/).
 
@@ -28,5 +28,7 @@ public class PdfQueryPageSettingsEventArgs : CancelEventArgs
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

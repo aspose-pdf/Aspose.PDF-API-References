@@ -1,14 +1,14 @@
 ---
-title: Form.AddFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Ajoute une apparence supplémentaire du champ à la page spécifiée du document à l'emplacement spécifié
+title: "Form.AddFieldAppearance"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Ajoute une apparence supplémentaire du champ à la page spécifiée du document à l'emplacement indiqué."
 type: docs
-weight: 200
+weight: 220
 url: /fr/net/aspose.pdf.forms/form/addfieldappearance/
 ---
-## Méthode Form.AddFieldAppearance
+## Form.AddFieldAppearance method
 
-Ajoute une apparence supplémentaire du champ à la page spécifiée du document à l'emplacement spécifié.
+Ajoute une apparence supplémentaire du champ à la page spécifiée du document à l'emplacement indiqué.
 
 ```csharp
 public void AddFieldAppearance(Field field, int pageNumber, Rectangle rect)
@@ -16,14 +16,16 @@ public void AddFieldAppearance(Field field, int pageNumber, Rectangle rect)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| field | Field | Champ dont l'apparence doit être ajoutée au formulaire. |
+| champ | Champ | Champ dont l'apparence doit être ajoutée sur le formulaire. |
 | pageNumber | Int32 | Numéro de la page où le champ doit être placé. |
 | rect | Rectangle | Rectangle où le champ sera placé. |
 
 ### Voir aussi
 
-* classe [Field](../../field/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../../field/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

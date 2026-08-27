@@ -1,12 +1,12 @@
 ---
-title: XmpField.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XmpField. Obtient un champ xmp vide
+title: "XmpField.Empty"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XmpField. Obtient un champ xmp vide"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/xmpfield/empty/
 ---
-## Propriété XmpField.Empty
+## XmpField.Empty property
 
 Obtient un champ xmp vide.
 
@@ -16,6 +16,8 @@ public static XmpField Empty { get; }
 
 ### Voir aussi
 
-* classe [XmpField](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

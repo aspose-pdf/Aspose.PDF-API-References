@@ -1,14 +1,14 @@
 ---
-title: Class DecryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.DecryptionOptions. Représente les options de décryptage pour le plugin de sécurité
+title: "Classe DecryptionOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.DecryptionOptions. Représente les options de déchiffrement pour le plugin Security"
 type: docs
-weight: 8520
+weight: 8650
 url: /fr/net/aspose.pdf.plugins/decryptionoptions/
 ---
-## Classe DecryptionOptions
+## DecryptionOptions class
 
-Représente les options de décryptage pour le plugin [`Security`](../security/).
+Représente les options de déchiffrement pour le plugin [`Security`](../security/).
 
 ```csharp
 public class DecryptionOptions : OrganizerBaseOptions
@@ -18,14 +18,14 @@ public class DecryptionOptions : OrganizerBaseOptions
 
 | Nom | Description |
 | --- | --- |
-| [DecryptionOptions](decryptionoptions/)(string) | Initialise une nouvelle instance de l'objet `DecryptionOptions` avec des options par défaut. |
+| [DecryptionOptions](decryptionoptions/)(string) | Initialise une nouvelle instance de l'objet `DecryptionOptions` avec les options par défaut. |
 
 ## Propriétés
 
 | Nom | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Ferme les flux d'entrée après la fin de l'opération. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Ferme les flux de sortie après la fin de l'opération. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Fermez les flux d'entrée après la fin de l'opération. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Fermez les flux de sortie après la fin de l'opération. |
 | [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Renvoie la collection de données du plugin OrganizerOptions. |
 | [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
 | [OwnerPassword](../../aspose.pdf.plugins/decryptionoptions/ownerpassword/) { get; set; } | Mot de passe du propriétaire. |
@@ -39,6 +39,8 @@ public class DecryptionOptions : OrganizerBaseOptions
 
 ### Voir aussi
 
-* classe [OrganizerBaseOptions](../organizerbaseoptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

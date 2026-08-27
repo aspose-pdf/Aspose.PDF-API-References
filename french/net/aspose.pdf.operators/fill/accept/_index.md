@@ -1,12 +1,12 @@
 ---
-title: Fill.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Fill. Accepte un objet visiteur pour traiter l'opérateur
+title: "Fill.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Fill méthode. Accepte l'objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/fill/accept/
 ---
-## Méthode Fill.Accept
+## Fill.Accept method
 
 Accepte un objet visiteur pour traiter l'opérateur.
 
@@ -24,3 +24,5 @@ public override void Accept(IOperatorSelector visitor)
 * class [Fill](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

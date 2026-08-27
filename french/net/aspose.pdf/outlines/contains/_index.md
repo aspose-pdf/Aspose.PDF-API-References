@@ -1,12 +1,12 @@
 ---
-title: Outlines.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Outlines. Lance toujours NotImplementedException
+title: "Outlines.Contains"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Outlines. Lance toujours une NotImplementedException"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/outlines/contains/
 ---
-## Méthode Outlines.Contains
+## Outlines.Contains method
 
 Lance toujours NotImplementedException.
 
@@ -24,7 +24,9 @@ NotImplementedException
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../../outlineitemcollection/)
-* classe [Outlines](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

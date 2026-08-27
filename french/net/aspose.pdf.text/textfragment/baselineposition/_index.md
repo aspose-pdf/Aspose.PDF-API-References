@@ -1,14 +1,14 @@
 ---
-title: TextFragment.BaselinePosition
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragment. Obtient la position du texte pour le texte représenté par l'objet TextFragment. Le YIndent de la structure Position représente la coordonnée de base du fragment de texte
+title: "TextFragment.BaselinePosition"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragment. Obtient la position du texte pour le texte représenté par l'objet TextFragment. Le YIndent de la structure Position représente la coordonnée de ligne de base du fragment de texte."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/textfragment/baselineposition/
 ---
-## Propriété TextFragment.BaselinePosition
+## TextFragment.BaselinePosition property
 
-Obtient la position du texte pour le texte, représenté par l'objet [`TextFragment`](../). Le YIndent de la structure Position représente la coordonnée de base du fragment de texte.
+Obtient la position du texte, représentée par l'objet [`TextFragment`](../). Le YIndent de la structure Position représente la coordonnée de ligne de base du fragment de texte.
 
 ```csharp
 public Position BaselinePosition { get; set; }
@@ -16,7 +16,9 @@ public Position BaselinePosition { get; set; }
 
 ### Voir aussi
 
-* classe [Position](../../position/)
-* classe [TextFragment](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Position](../../position/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

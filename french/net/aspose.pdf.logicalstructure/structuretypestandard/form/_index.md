@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StructureTypeStandard. Form Une annotation de widget représentant un champ de formulaire interactif
+title: "StructureTypeStandard.Form"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureTypeStandard champ. Form Une annotation de widget représentant un champ de formulaire interactif"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.logicalstructure/structuretypestandard/form/
 ---
-## Champ StructureTypeStandard.Form
+## StructureTypeStandard.Form field
 
 (Form) Une annotation de widget représentant un champ de formulaire interactif.
 
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Form;
 
 ### Voir aussi
 
-* classe [StructureTypeStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

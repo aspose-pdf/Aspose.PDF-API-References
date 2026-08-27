@@ -1,14 +1,14 @@
 ---
-title: BasicSetColorOperator.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété BasicSetColorOperator. Obtient un tableau de composants de couleur
+title: "BasicSetColorOperator.Color"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété BasicSetColorOperator. Obtient le tableau des composants de couleur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/basicsetcoloroperator/color/
 ---
-## Propriété BasicSetColorOperator.Color
+## BasicSetColorOperator.Color property
 
-Obtient un tableau de composants de couleur.
+Obtient le tableau des composants de couleur.
 
 ```csharp
 public virtual double[] Color { get; }
@@ -16,6 +16,8 @@ public virtual double[] Color { get; }
 
 ### Voir aussi
 
-* classe [BasicSetColorOperator](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

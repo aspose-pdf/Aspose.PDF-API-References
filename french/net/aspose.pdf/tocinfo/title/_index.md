@@ -1,12 +1,12 @@
 ---
-title: TocInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TocInfo. Obtient ou définit le titre de la table des matières
+title: "TocInfo.Title"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TocInfo. Obtient ou définit le titre de la table des matières"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf/tocinfo/title/
 ---
-## Propriété TocInfo.Title
+## TocInfo.Title property
 
 Obtient ou définit le titre de la table des matières.
 
@@ -16,7 +16,9 @@ public TextFragment Title { get; set; }
 
 ### Voir aussi
 
-* classe [TextFragment](../../../aspose.pdf.text/textfragment/)
-* classe [TocInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

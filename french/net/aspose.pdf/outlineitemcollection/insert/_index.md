@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OutlineItemCollection. Insère l'élément de plan dans la collection à l'endroit spécifié
+title: "OutlineItemCollection.Insert"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OutlineItemCollection. Insère l'élément de plan dans la collection à l'emplacement spécifié"
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf/outlineitemcollection/insert/
 ---
-## Méthode OutlineItemCollection.Insert
+## OutlineItemCollection.Insert method
 
-Insère l'élément de plan dans la collection à l'endroit spécifié.
+Insère l'élément de plan dans la collection à l'emplacement spécifié.
 
 ```csharp
 public void Insert(int index, OutlineItemCollection outline)
@@ -16,11 +16,13 @@ public void Insert(int index, OutlineItemCollection outline)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | L'index spécifiant l'endroit pour l'insertion. |
-| outline | OutlineItemCollection | L'élément de plan doit être inséré. |
+| index | Int32 | L'index spécifiant l'emplacement d'insertion. |
+| plan | OutlineItemCollection | L'élément de plan doit être inséré. |
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

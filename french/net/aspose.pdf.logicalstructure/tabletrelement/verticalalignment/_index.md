@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableTRElement. Obtient ou définit l'alignement vertical
+title: "TableTRElement.VerticalAlignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TableTRElement. Obtient ou définit l'alignement vertical"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.logicalstructure/tabletrelement/verticalalignment/
 ---
-## Propriété TableTRElement.VerticalAlignment
+## TableTRElement.VerticalAlignment property
 
 Obtient ou définit l'alignement vertical.
 
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

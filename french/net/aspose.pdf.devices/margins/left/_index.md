@@ -1,12 +1,12 @@
 ---
-title: Margins.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Margins. Obtient ou définit la gauche
+title: "Margins.Left"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Margins. Obtient ou définit la gauche"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.devices/margins/left/
 ---
-## Propriété Margins.Gauche
+## Margins.Left property
 
 Obtient ou définit la gauche.
 
@@ -14,12 +14,14 @@ Obtient ou définit la gauche.
 public int Left { get; set; }
 ```
 
-### Valeur de la Propriété
+### Property Value
 
 La gauche.
 
-### Voir Aussi
+### Voir aussi
 
-* classe [Margins](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

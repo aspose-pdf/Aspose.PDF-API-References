@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateBookmarksAction
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Crée un signet avec l'action spécifiée
+title: "PdfContentEditor.CreateBookmarksAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Crée un signet avec l'action spécifiée."
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/
 ---
-## Méthode PdfContentEditor.CreateBookmarksAction
+## PdfContentEditor.CreateBookmarksAction method
 
 Crée un signet avec l'action spécifiée.
 
@@ -19,9 +19,9 @@ public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool
 | --- | --- | --- |
 | title | String | Le titre du signet. |
 | color | Color | La couleur du titre du signet. |
-| boldFlag | Boolean | Le drapeau d'attribution en gras. |
-| italicFlag | Boolean | Le drapeau d'attribution en italique. |
-| file | String | Un autre fichier ou application requis lorsque le type d'action est "GoToR" ou "Launch". |
+| boldFlag | Boolean | Le drapeau d'attribut en gras. |
+| italicFlag | Boolean | Le drapeau d'attribut en italique. |
+| file | String | Un autre fichier ou une application requis lorsque le type d'action est "GoToR" ou "Launch". |
 | actionType | String | Le type d'action. La valeur peut être : "GoToR", "Launch", "GoTo", "URI". |
 | destination | String | La destination locale ou la destination distante ou l'URL. |
 
@@ -37,6 +37,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

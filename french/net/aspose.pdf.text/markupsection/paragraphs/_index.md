@@ -1,14 +1,14 @@
 ---
-title: MarkupSection.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MarkupSection. Collection d'objets MarkupParagraph qui se trouvent à l'intérieur de la section
+title: "MarkupSection.Paragraphs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MarkupSection. Collection d'objets MarkupParagraph qui se trouvent dans la section"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/markupsection/paragraphs/
 ---
-## Propriété MarkupSection.Paragraphs
+## MarkupSection.Paragraphs property
 
-Collection d'objets [`MarkupParagraph`](../../markupparagraph/) qui se trouvent à l'intérieur de la section.
+Collection d'objets [`MarkupParagraph`](../../markupparagraph/) qui se trouvent dans la section.
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }
@@ -16,7 +16,9 @@ public List<MarkupParagraph> Paragraphs { get; }
 
 ### Voir aussi
 
-* classe [MarkupParagraph](../../markupparagraph/)
-* classe [MarkupSection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [MarkupParagraph](../../markupparagraph/)
+* class [MarkupSection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: EOClip.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode EOClip. Accepte l'objet visiteur pour traiter l'opérateur
+title: "EOClip.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode EOClip. Accepte l'objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/eoclip/accept/
 ---
-## Méthode EOClip.Accept
+## EOClip.Accept method
 
-Accepte l'objet visiteur pour traiter l'opérateur.
+Accepte un objet visiteur pour traiter l'opérateur.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,7 +16,7 @@ public override void Accept(IOperatorSelector visitor)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Objet visiteur. |
+| visiteur | IOperatorSelector | Objet visiteur. |
 
 ### Voir aussi
 
@@ -24,3 +24,5 @@ public override void Accept(IOperatorSelector visitor)
 * class [EOClip](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

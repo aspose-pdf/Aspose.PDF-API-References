@@ -1,12 +1,12 @@
 ---
-title: Enum TextIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Annotations.TextIcon. Énumère les icônes à utiliser pour afficher l'annotation
+title: "Énumération TextIcon"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.TextIcon enum. Enumère les icônes à utiliser pour l'affichage de l'annotation"
 type: docs
-weight: 2660
+weight: 2760
 url: /fr/net/aspose.pdf.annotations/texticon/
 ---
-## Énumération TextIcon
+## TextIcon enumeration
 
 Énumère les icônes à utiliser pour afficher l'annotation.
 
@@ -19,18 +19,20 @@ public enum TextIcon
 | Nom | Valeur | Description |
 | --- | --- | --- |
 | Note | `0` | Icône de note. |
-| Commentaire | `1` | Icône de commentaire. |
-| Clé | `2` | Icône de clé. |
-| Aide | `3` | Icône d'aide. |
-| NouveauParagraphe | `4` | Icône NouveauParagraphe. |
-| Paragraphe | `5` | Icône de paragraphe. |
-| Insérer | `6` | Icône d'insertion. |
-| Vérifier | `7` | Icône de vérification. |
-| Croix | `8` | Icône de croix. |
-| Cercle | `9` | Icône de cercle. |
-| Étoile | `10` | Icône d'étoile. |
+| Comment | `1` | Icône de commentaire. |
+| Key | `2` | Icône de clé. |
+| Help | `3` | Icône d'aide. |
+| NewParagraph | `4` | Icône NewParagraph. |
+| Paragraph | `5` | Icône de paragraphe. |
+| Insert | `6` | Icône d'insertion. |
+| Check | `7` | Icône de coche. |
+| Cross | `8` | Icône de croix. |
+| Circle | `9` | Icône de cercle. |
+| Star | `10` | Icône d'étoile. |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

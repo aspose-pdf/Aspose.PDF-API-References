@@ -1,14 +1,14 @@
 ---
-title: FontSourceCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FontSourceCollection. Supprime l'élément de source de police
+title: "FontSourceCollection.Delete"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FontSourceCollection. Supprime l’élément source de police"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.text/fontsourcecollection/delete/
 ---
-## Méthode FontSourceCollection.Delete
+## FontSourceCollection.Delete method
 
-Supprime l'élément de source de police.
+Supprime l'élément source de police.
 
 ```csharp
 public void Delete(FontSource fontSource)
@@ -20,7 +20,9 @@ public void Delete(FontSource fontSource)
 
 ### Voir aussi
 
-* classe [FontSource](../../fontsource/)
-* classe [FontSourceCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

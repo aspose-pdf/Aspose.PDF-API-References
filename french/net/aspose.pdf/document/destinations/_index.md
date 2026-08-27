@@ -1,14 +1,14 @@
 ---
-title: Document.Destinations
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Obtient la collection de destinations. Obsolète. Veuillez utiliser NamedDestinations
+title: "Document.Destinations"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Obtient la collection de destinations. Obsolète. Veuillez utiliser NamedDestinations"
 type: docs
-weight: 90
+weight: 100
 url: /fr/net/aspose.pdf/document/destinations/
 ---
-## Propriété Document.Destinations
+## Document.Destinations property
 
-Obtient la collection de destinations. Obsolète. Veuillez utiliser NamedDestinations.
+Obtient la collection des destinations. Obsolète. Veuillez utiliser NamedDestinations.
 
 ```csharp
 public DestinationCollection Destinations { get; }
@@ -16,7 +16,9 @@ public DestinationCollection Destinations { get; }
 
 ### Voir aussi
 
-* classe [DestinationCollection](../../destinationcollection/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DestinationCollection](../../destinationcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

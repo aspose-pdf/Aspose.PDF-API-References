@@ -1,14 +1,14 @@
 ---
-title: TextSegment.MyHtmlEncode
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextSegment. Encode une chaîne en html
+title: "TextSegment.MyHtmlEncode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextSegment. Encode la chaîne en html"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.text/textsegment/myhtmlencode/
 ---
-## Méthode TextSegment.MyHtmlEncode
+## TextSegment.MyHtmlEncode method
 
-Encode une chaîne en html.
+Encode la chaîne en html.
 
 ```csharp
 public static string MyHtmlEncode(string value)
@@ -16,14 +16,16 @@ public static string MyHtmlEncode(string value)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| value | String | Valeur de chaîne à encoder. |
+| valeur | String | Valeur de chaîne à encoder. |
 
 ### Valeur de retour
 
-Chaîne encodée en html.
+Chaîne encodée en Html.
 
 ### Voir aussi
 
-* classe [TextSegment](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

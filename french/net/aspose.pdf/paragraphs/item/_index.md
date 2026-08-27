@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Paragraphs. Obtient ou définit le paragraphe de ou vers la collection
+title: "Paragraphs.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Paragraphs. Obtient ou définit le paragraphe depuis ou vers la collection"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/paragraphs/item/
 ---
-## Indexeur de Paragraphes
+## Paragraphs indexer
 
 Obtient ou définit le paragraphe de ou vers la collection.
 
@@ -20,7 +20,9 @@ public BaseParagraph this[int index] { get; set; }
 
 ### Voir aussi
 
-* classe [BaseParagraph](../../baseparagraph/)
-* classe [Paragraphs](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

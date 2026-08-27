@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OperatorCollection. Accepte un objet visiteur IOperatorSelector pour traiter les opérateurs
+title: "OperatorCollection.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OperatorCollection. Accepte un objet visiteur IOperatorSelector pour traiter les opérateurs."
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/operatorcollection/accept/
 ---
-## Méthode OperatorCollection.Accept
+## OperatorCollection.Accept method
 
-Accepte un objet visiteur IOperatorSelector pour traiter les opérateurs.
+Accepte l’objet visiteur IOperatorSelector pour traiter les opérateurs.
 
 ```csharp
 public void Accept(IOperatorSelector visitor)
@@ -16,7 +16,7 @@ public void Accept(IOperatorSelector visitor)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Objet visiteur |
+| visiteur | IOperatorSelector | Objet Visitor |
 
 ### Voir aussi
 
@@ -24,3 +24,5 @@ public void Accept(IOperatorSelector visitor)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

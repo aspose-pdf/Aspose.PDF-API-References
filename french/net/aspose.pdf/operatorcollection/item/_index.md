@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OperatorCollection. Obtient l'opérateur par son index
+title: "OperatorCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OperatorCollection. Obtient l'opérateur par son indice."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/operatorcollection/item/
 ---
-## Indexeur OperatorCollection
+## OperatorCollection indexer
 
-Obtient l'opérateur par son index.
+Obtient l’opérateur par son indice.
 
 ```csharp
 public override Operator this[int index] { get; set; }
@@ -16,15 +16,15 @@ public override Operator this[int index] { get; set; }
 
 | Paramètre | Description |
 | --- | --- |
-| index | Index de l'opérateur. La numérotation commence à 1. |
+| index | Indice de l'opérateur. La numérotation commence à 1. |
 
 ### Valeur de retour
 
-Opérateur de l'index demandé
+Opérateur à l'indice demandé
 
 ## Exemples
 
-L'exemple démontre comment obtenir l'opérateur du contenu de la page par index.
+L'exemple montre comment obtenir l'opérateur du contenu de la page par indice.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -34,7 +34,9 @@ Operator first = oc[1];
 
 ### Voir aussi
 
-* classe [Operator](../../operator/)
-* classe [OperatorCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

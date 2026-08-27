@@ -1,12 +1,12 @@
 ---
-title: ICosPdfPrimitive.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ICosPdfPrimitive. Représentation sous forme de chaîne de l'instance ICosPdfPrimitive
+title: "ICosPdfPrimitive.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ICosPdfPrimitive. Représentation sous forme de chaîne de l'instance ICosPdfPrimitive"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/
 ---
-## Méthode ICosPdfPrimitive.ToString
+## ICosPdfPrimitive.ToString method
 
 Représentation sous forme de chaîne de l'instance [`ICosPdfPrimitive`](../).
 
@@ -23,3 +23,5 @@ Valeur de la représentation sous forme de chaîne de l'instance [`ICosPdfPrimit
 * interface [ICosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

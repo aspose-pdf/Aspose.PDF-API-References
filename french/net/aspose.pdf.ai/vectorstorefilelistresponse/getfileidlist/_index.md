@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileListResponse.GetFileIdList
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode VectorStoreFileListResponse. Obtient la liste des identifiants de fichiers du magasin de vecteurs
+title: "VectorStoreFileListResponse.GetFileIdList"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode VectorStoreFileListResponse. Obtient la liste des ID de fichiers du magasin vectoriel"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/vectorstorefilelistresponse/getfileidlist/
 ---
-## Méthode VectorStoreFileListResponse.GetFileIdList
+## VectorStoreFileListResponse.GetFileIdList method
 
-Obtient la liste des identifiants de fichiers du magasin de vecteurs.
+Obtient la liste des ID de fichiers du magasin vectoriel.
 
 ```csharp
 public List<string> GetFileIdList()
@@ -16,10 +16,12 @@ public List<string> GetFileIdList()
 
 ### Valeur de retour
 
-La liste des identifiants de fichiers.
+La liste des ID de fichiers.
 
 ### Voir aussi
 
-* classe [VectorStoreFileListResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileListResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

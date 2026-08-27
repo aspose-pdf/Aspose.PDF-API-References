@@ -1,12 +1,12 @@
 ---
-title: SetCharWidthBoundingBox.Lly
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetCharWidthBoundingBox. Coordonnée verticale inférieure gauche du rectangle englobant
+title: "SetCharWidthBoundingBox.Lly"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SetCharWidthBoundingBox. Coordonnée verticale inférieure gauche du rectangle de délimitation"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/setcharwidthboundingbox/lly/
 ---
-## Propriété SetCharWidthBoundingBox.Lly
+## SetCharWidthBoundingBox.Lly property
 
 Coordonnée verticale inférieure gauche du rectangle englobant.
 
@@ -16,6 +16,8 @@ public double Lly { get; }
 
 ### Voir aussi
 
-* classe [SetCharWidthBoundingBox](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

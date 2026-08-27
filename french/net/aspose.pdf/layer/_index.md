@@ -1,14 +1,14 @@
 ---
-title: Class Layer
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Layer. Représente une couche dans une page PDF
+title: "Classe Layer"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Layer classe. Représente une couche au sein d'une page PDF"
 type: docs
-weight: 6060
+weight: 6190
 url: /fr/net/aspose.pdf/layer/
 ---
-## Classe Layer
+## Layer class
 
-Représente une couche dans une page PDF.
+Représente un calque au sein d'une page PDF.
 
 ```csharp
 public class Layer
@@ -34,7 +34,7 @@ public class Layer
 | Nom | Description |
 | --- | --- |
 | [Delete](../../aspose.pdf/layer/delete/)() | Supprime la couche actuelle du document PDF. |
-| [Flatten](../../aspose.pdf/layer/flatten/)(bool) | Aplati la couche spécifiée. |
+| [Flatten](../../aspose.pdf/layer/flatten/)(bool) | Aplatisse la couche spécifiée. |
 | [Lock](../../aspose.pdf/layer/lock/)() | Verrouille la couche. |
 | [Save](../../aspose.pdf/layer/save/#save)(Stream) | Enregistre la couche actuelle dans un document PDF. |
 | [Save](../../aspose.pdf/layer/save/#save_1)(string) | Enregistre la couche actuelle dans un document PDF. |
@@ -42,5 +42,7 @@ public class Layer
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

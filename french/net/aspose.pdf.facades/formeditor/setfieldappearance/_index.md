@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Définir les indicateurs de champ
+title: "FormEditor.SetFieldAppearance"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormEditor méthode. Définir les indicateurs du champ"
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf.facades/formeditor/setfieldappearance/
 ---
-## Méthode FormEditor.SetFieldAppearance
+## FormEditor.SetFieldAppearance method
 
-Définir les indicateurs de champ
+Définit les indicateurs du champ
 
 ```csharp
 public bool SetFieldAppearance(string fieldName, AnnotationFlags flags)
@@ -37,3 +37,5 @@ formEditor.SetFieldAppearance("Phone", AnnotationFlags.NoView | AnnotationFlags.
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

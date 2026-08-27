@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.Format
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFormatConversionOptions. Format PDF
+title: "PdfFormatConversionOptions.Format"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFormatConversionOptions. Format PDF"
 type: docs
-weight: 80
+weight: 90
 url: /fr/net/aspose.pdf/pdfformatconversionoptions/format/
 ---
-## Propriété PdfFormatConversionOptions.Format
+## PdfFormatConversionOptions.Format property
 
 Format PDF.
 
@@ -20,3 +20,5 @@ public PdfFormat Format { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

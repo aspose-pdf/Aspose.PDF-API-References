@@ -1,14 +1,14 @@
 ---
-title: StreamSaveTarget.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StreamSaveTarget. Obtient le flux de la cible de sauvegarde actuelle
+title: "StreamSaveTarget.Data"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StreamSaveTarget. Obtient le flux de la cible d'enregistrement actuelle"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/streamsavetarget/data/
 ---
-## Propriété StreamSaveTarget.Data
+## StreamSaveTarget.Data property
 
-Obtient le flux de la cible de sauvegarde actuelle.
+Obtient le flux de la cible d'enregistrement actuelle.
 
 ```csharp
 public Stream Data { get; }
@@ -16,10 +16,12 @@ public Stream Data { get; }
 
 ### Valeur de retour
 
-Un objet de flux représentant les données de sortie.
+Un objet flux représentant les données de sortie.
 
 ### Voir aussi
 
-* classe [StreamSaveTarget](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [StreamSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

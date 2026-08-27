@@ -1,12 +1,12 @@
 ---
-title: PaperSources.Manual
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSources. Représente une source de papier à alimentation manuelle
+title: "PaperSources.Manual"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSources. Représente une source de papier à alimentation manuelle"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.printing/papersources/manual/
 ---
-## Champ PaperSources.Manual
+## PaperSources.Manual field
 
 Représente une source de papier à alimentation manuelle.
 
@@ -16,7 +16,9 @@ public static readonly PaperSource Manual;
 
 ### Voir aussi
 
-* classe [PaperSource](../../papersource/)
-* classe [PaperSources](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

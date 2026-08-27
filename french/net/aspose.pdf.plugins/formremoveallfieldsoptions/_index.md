@@ -1,12 +1,12 @@
 ---
-title: Class FormRemoveAllFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FormRemoveAllFieldsOptions. Représente les options pour supprimer tous les champs dans le document par le plugin FormEditor
+title: "Classe FormRemoveAllFieldsOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.FormRemoveAllFieldsOptions. Représente les options pour supprimer tous les champs dans le document par le plugin FormEditor"
 type: docs
-weight: 8780
+weight: 8910
 url: /fr/net/aspose.pdf.plugins/formremoveallfieldsoptions/
 ---
-## Classe FormRemoveAllFieldsOptions
+## FormRemoveAllFieldsOptions class
 
 Représente les options pour supprimer tous les champs dans le document par le plugin [`FormEditor`](../formeditor/).
 
@@ -25,17 +25,19 @@ public sealed class FormRemoveAllFieldsOptions : FormEditorRemoveOptions
 | Nom | Description |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Renvoie la collection de données des plugins Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour les résultats des opérations de sauvegarde. |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form.... |
 
 ### Voir aussi
 
-* classe [FormEditorRemoveOptions](../formeditorremoveoptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [FormEditorRemoveOptions](../formeditorremoveoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

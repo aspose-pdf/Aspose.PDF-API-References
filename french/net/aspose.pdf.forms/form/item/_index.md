@@ -1,14 +1,14 @@
 ---
-title: Form.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du formulaire. Obtient le champ du formulaire par le nom du champ. Lance une exception si le champ n'a pas été trouvé
+title: "Form.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Form. Obtient le champ du formulaire par son nom. Lève une exception si le champ n'est pas trouvé."
 type: docs
-weight: 110
+weight: 120
 url: /fr/net/aspose.pdf.forms/form/item/
 ---
-## Indexeur de formulaire (1 sur 2)
+## Form indexer (1 of 2)
 
-Obtient le champ du formulaire par le nom du champ. Lance une exception si le champ n'a pas été trouvé.
+Obtient le champ du formulaire par son nom. Lève une exception si le champ n'est pas trouvé.
 
 ```csharp
 public WidgetAnnotation this[string name] { get; }
@@ -16,7 +16,7 @@ public WidgetAnnotation this[string name] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| name | Nom du champ. |
+| nom | Nom du champ. |
 
 ### Valeur de retour
 
@@ -31,9 +31,9 @@ Champ récupéré.
 
 ---
 
-## Indexeur de formulaire (2 sur 2)
+## Form indexer (2 of 2)
 
-Obtient le champ du formulaire par l'index du champ.
+Obtient le champ du formulaire par son indice.
 
 ```csharp
 public WidgetAnnotation this[int index] { get; }
@@ -41,7 +41,7 @@ public WidgetAnnotation this[int index] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| index | Index du champ. |
+| index | Indice du champ. |
 
 ### Valeur de retour
 
@@ -53,3 +53,5 @@ Champ récupéré.
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

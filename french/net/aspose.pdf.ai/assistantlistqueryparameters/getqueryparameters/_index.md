@@ -1,14 +1,14 @@
 ---
-title: AssistantListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AssistantListQueryParameters. Obtient les paramètres de requête pour lister les assistants
+title: "AssistantListQueryParameters.GetQueryParameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AssistantListQueryParameters. Obtient les paramètres de requête pour lister les assistants"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/assistantlistqueryparameters/getqueryparameters/
 ---
-## Méthode AssistantListQueryParameters.GetQueryParameters
+## AssistantListQueryParameters.GetQueryParameters method
 
-Obtient les paramètres de requête pour lister les assistants.
+Obtient les paramètres de requête pour l'énumération des assistants.
 
 ```csharp
 public string GetQueryParameters()
@@ -20,6 +20,8 @@ La chaîne des paramètres de requête.
 
 ### Voir aussi
 
-* classe [AssistantListQueryParameters](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AssistantListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

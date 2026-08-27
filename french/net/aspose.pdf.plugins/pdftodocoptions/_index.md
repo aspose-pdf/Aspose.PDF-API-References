@@ -1,14 +1,14 @@
 ---
-title: Class PdfToDocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.PdfToDocOptions. Représente les options de conversion de PDF en DOC pour le plugin DocConverter
+title: "Classe PdfToDocOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Plugins.PdfToDocOptions class. Représente les options du convertisseur PDF vers DOC pour le plugin DocConverter."
 type: docs
-weight: 9090
+weight: 9240
 url: /fr/net/aspose.pdf.plugins/pdftodocoptions/
 ---
-## Classe PdfToDocOptions
+## PdfToDocOptions class
 
-Représente les options de conversion de PDF en DOC pour le plugin [`DocConverter`](../docconverter/).
+Représente les options du convertisseur PDF vers DOC pour le plugin [`DocConverter`](../docconverter/).
 
 ```csharp
 public sealed class PdfToDocOptions : PdfConverterOptions
@@ -18,7 +18,7 @@ public sealed class PdfToDocOptions : PdfConverterOptions
 
 | Nom | Description |
 | --- | --- |
-| [PdfToDocOptions](pdftodocoptions/#constructor)() | Initialise une nouvelle instance de l'objet `PdfToDocOptions` avec des options par défaut. |
+| [PdfToDocOptions](pdftodocoptions/#constructor)() | Initialise une nouvelle instance de l'objet `PdfToDocOptions` avec les options par défaut. |
 | [PdfToDocOptions](pdftodocoptions/#constructor_1)(SaveFormat, ConversionMode) | Initialise une nouvelle instance de l'objet `PdfToDocOptions` pour le format et le mode spécifiés. |
 
 ## Propriétés
@@ -28,8 +28,8 @@ public sealed class PdfToDocOptions : PdfConverterOptions
 | [ConversionMode](../../aspose.pdf.plugins/pdftodocoptions/conversionmode/) { get; set; } | Permet de contrôler comment un document PDF est converti en document de traitement de texte. |
 | [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | Renvoie la collection de données du plugin PdfConverterOptions. |
 | override [OperationName](../../aspose.pdf.plugins/pdftodocoptions/operationname/) { get; } | Obtient le nom de l'opération. |
-| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour les résultats de l'opération de sauvegarde. |
-| [SaveFormat](../../aspose.pdf.plugins/pdftodocoptions/saveformat/) { get; set; } | Format de sauvegarde du document de sortie. |
+| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
+| [SaveFormat](../../aspose.pdf.plugins/pdftodocoptions/saveformat/) { get; set; } | Format d'enregistrement du document de sortie. |
 
 ## Méthodes
 
@@ -40,6 +40,8 @@ public sealed class PdfToDocOptions : PdfConverterOptions
 
 ### Voir aussi
 
-* classe [PdfConverterOptions](../pdfconverteroptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfConverterOptions](../pdfconverteroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

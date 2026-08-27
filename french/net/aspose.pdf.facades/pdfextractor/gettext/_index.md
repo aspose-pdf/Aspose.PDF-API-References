@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetText
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfExtractor. Enregistre le texte dans un fichier. voir aussi ExtractText
+title: "PdfExtractor.GetText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfExtractor. Enregistre le texte dans un fichier. voir aussiExtractText"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf.facades/pdfextractor/gettext/
 ---
 ## GetText(string) {#gettext_2}
 
-Enregistre le texte dans un fichier. voir aussi : [`ExtractText`](../extracttext/)
+Enregistre le texte dans un fichier. voir aussi :[`ExtractText`](../extracttext/)
 
 ```csharp
 public void GetText(string outputFile)
@@ -16,19 +16,19 @@ public void GetText(string outputFile)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le chemin et le nom du fichier pour enregistrer le texte. |
+| outputFile | String | Le chemin d'accès et le nom du fichier pour enregistrer le texte. |
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetText(Stream) {#gettext}
 
-Enregistre le texte dans un flux. voir aussi : [`ExtractText`](../extracttext/)
+Enregistre le texte dans un flux. voir aussi :[`ExtractText`](../extracttext/)
 
 ```csharp
 public void GetText(Stream outputStream)
@@ -40,15 +40,15 @@ public void GetText(Stream outputStream)
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetText(Stream, bool) {#gettext_1}
 
-Enregistre le texte dans un flux. voir aussi : [`ExtractText`](../extracttext/)
+Enregistre le texte dans un flux. voir aussi :[`ExtractText`](../extracttext/)
 
 ```csharp
 public void GetText(Stream outputStream, bool filterNotAscii)
@@ -61,6 +61,8 @@ public void GetText(Stream outputStream, bool filterNotAscii)
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

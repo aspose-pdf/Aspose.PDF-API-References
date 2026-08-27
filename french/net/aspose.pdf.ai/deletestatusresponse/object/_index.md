@@ -1,12 +1,12 @@
 ---
-title: DeleteStatusResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DeleteStatusResponse. Obtient ou définit le type d'objet qui est toujours thread.deleted
+title: "DeleteStatusResponse.Object"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DeleteStatusResponse. Obtient ou définit le type d'objet qui est toujours thread.deleted"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/deletestatusresponse/object/
 ---
-## Propriété DeleteStatusResponse.Object
+## DeleteStatusResponse.Object property
 
 Obtient ou définit le type d'objet, qui est toujours "thread.deleted".
 
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Voir aussi
 
-* classe [DeleteStatusResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DeleteStatusResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

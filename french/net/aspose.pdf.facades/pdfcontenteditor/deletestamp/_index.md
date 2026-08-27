@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.DeleteStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Supprime plusieurs tampons sur la page spécifiée par les index de tampon
+title: "PdfContentEditor.DeleteStamp"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Supprime plusieurs tampons sur la page spécifiée par les index de tampons"
 type: docs
 weight: 330
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/
 ---
-## Méthode PdfContentEditor.DeleteStamp
+## PdfContentEditor.DeleteStamp method
 
 Supprime plusieurs tampons sur la page spécifiée par les index de tampon.
 
@@ -17,7 +17,7 @@ public void DeleteStamp(int pageNumber, int[] index)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | pageNumber | Int32 | Numéro de page où le tampon sera supprimé. |
-| index | Int32[] | Index des tampons. |
+| index | Int32[] | Index de tampons. |
 
 ## Exemples
 
@@ -30,6 +30,8 @@ contentEditor.Save("outfile.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

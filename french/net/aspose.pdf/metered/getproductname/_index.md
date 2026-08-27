@@ -1,14 +1,14 @@
 ---
-title: Metered.GetProductName
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Metered. Obtenez le nom du produit
+title: "Metered.GetProductName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Metered. Obtenir le nom du produit"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/metered/getproductname/
 ---
-## Méthode Metered.GetProductName
+## Metered.GetProductName method
 
-Obtenez le nom du produit.
+Obtenir le nom du produit.
 
 ```csharp
 public string GetProductName()
@@ -20,6 +20,8 @@ Nom du produit
 
 ### Voir aussi
 
-* classe [Metered](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

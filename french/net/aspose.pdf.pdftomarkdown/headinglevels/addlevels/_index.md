@@ -1,14 +1,14 @@
 ---
-title: HeadingLevels.AddLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode HeadingLevels. Ajoute des niveaux de titre. La collection de tailles de police doit être triée par taille décroissante
+title: "HeadingLevels.AddLevels"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode HeadingLevels. Ajoute des niveaux d'en-tête. La collection de tailles de police doit être triée par ordre décroissant."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.pdftomarkdown/headinglevels/addlevels/
 ---
-## Méthode HeadingLevels.AddLevels
+## HeadingLevels.AddLevels method
 
-Ajoute des niveaux de titre. La collection de tailles de police doit être triée par taille décroissante.
+Ajoute des niveaux d’en-tête. La collection de tailles de police doit être triée par ordre décroissant.
 
 ```csharp
 public void AddLevels(ICollection<double> fontSizes)
@@ -26,6 +26,8 @@ public void AddLevels(ICollection<double> fontSizes)
 
 ### Voir aussi
 
-* classe [HeadingLevels](../)
-* espace de noms [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
+
+

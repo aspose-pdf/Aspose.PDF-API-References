@@ -1,14 +1,14 @@
 ---
-title: Facade.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Facade. Obtient le document sur lequel la façade travaille
+title: "Facade.Document"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Facade. Obtient le Document sur lequel la façade travaille"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/facade/document/
 ---
-## Propriété Facade.Document
+## Facade.Document property
 
-Obtient le document sur lequel la façade travaille.
+Obtient la façade du document sur laquelle travaille.
 
 ```csharp
 public Document Document { get; }
@@ -16,7 +16,9 @@ public Document Document { get; }
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Facade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

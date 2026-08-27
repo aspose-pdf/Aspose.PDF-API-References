@@ -1,12 +1,12 @@
 ---
-title: Row.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Row. Obtient la hauteur de la ligne
+title: "Row.MinRowHeight"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Row. Obtient la hauteur de la ligne"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/row/minrowheight/
 ---
-## Propriété Row.MinRowHeight
+## Row.MinRowHeight property
 
 Obtient la hauteur de la ligne ;
 
@@ -16,6 +16,8 @@ public double MinRowHeight { get; set; }
 
 ### Voir aussi
 
-* classe [Row](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

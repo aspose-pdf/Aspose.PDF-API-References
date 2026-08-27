@@ -1,12 +1,12 @@
 ---
-title: Page.IntToRotation
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Page. Traduit la valeur entière en membre d'énumération de rotation correspondant
+title: "Page.IntToRotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Page. Convertit une valeur entière en le membre d'énumération de rotation correspondant"
 type: docs
 weight: 560
 url: /fr/net/aspose.pdf/page/inttorotation/
 ---
-## Méthode Page.IntToRotation
+## Page.IntToRotation method
 
 Traduit la valeur entière en membre d'énumération de rotation correspondant.
 
@@ -20,7 +20,7 @@ public static Rotation IntToRotation(int rotation)
 
 ### Valeur de retour
 
-Membre d'énumération de rotation
+Membre d'énumération Rotation
 
 ### Voir aussi
 
@@ -28,3 +28,5 @@ Membre d'énumération de rotation
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

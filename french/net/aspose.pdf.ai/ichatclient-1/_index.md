@@ -1,9 +1,9 @@
 ---
-title: Interface IChatClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.AI.IChatClient1TOptions. Représente une interface pour un client de chat avec des options spécifiques
+title: "Interface IChatClientTOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.AI.IChatClient1TOptions. Représente une interface pour un client de chat avec des options spécifiques"
 type: docs
-weight: 460
+weight: 480
 url: /fr/net/aspose.pdf.ai/ichatclient-1/
 ---
 ## IChatClient&lt;TOptions&gt; interface
@@ -29,3 +29,5 @@ public interface IChatClient<in TOptions> : IAIClient
 * interface [IAIClient](../iaiclient/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

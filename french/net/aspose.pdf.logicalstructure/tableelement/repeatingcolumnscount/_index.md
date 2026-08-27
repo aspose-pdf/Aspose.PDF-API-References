@@ -1,14 +1,14 @@
 ---
-title: TableElement.RepeatingColumnsCount
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableElement. Obtient ou définit le nombre maximum de colonnes pour le tableau
+title: "TableElement.RepeatingColumnsCount"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TableElement. Obtient ou définit le nombre maximal de colonnes pour le tableau"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.logicalstructure/tableelement/repeatingcolumnscount/
 ---
-## Propriété TableElement.RepeatingColumnsCount
+## TableElement.RepeatingColumnsCount property
 
-Obtient ou définit le nombre maximum de colonnes pour le tableau.
+Obtient ou définit le nombre maximal de colonnes pour le tableau.
 
 ```csharp
 public int RepeatingColumnsCount { get; set; }
@@ -16,6 +16,8 @@ public int RepeatingColumnsCount { get; set; }
 
 ### Voir aussi
 
-* classe [TableElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

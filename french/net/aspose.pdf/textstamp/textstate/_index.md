@@ -1,14 +1,14 @@
 ---
-title: TextStamp.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextStamp. Obtient les propriétés de texte du tampon. Voir TextState pour plus de détails
+title: "TextStamp.TextState"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextStamp. Obtient les propriétés texte du tampon. Voir TextState pour plus de détails"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/textstamp/textstate/
 ---
-## Propriété TextStamp.TextState
+## TextStamp.TextState property
 
-Obtient les propriétés de texte du tampon. Voir `TextState` pour plus de détails.
+Obtient les propriétés texte du tampon. Voir `TextState` pour plus de détails.
 
 ```csharp
 public TextState TextState { get; }
@@ -16,7 +16,9 @@ public TextState TextState { get; }
 
 ### Voir aussi
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [TextStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

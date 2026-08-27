@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpValue. Renvoie un tableau
+title: "XmpValue.ToArray"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpValue. Retourne un tableau"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf/xmpvalue/toarray/
 ---
-## Méthode XmpValue.ToArray
+## XmpValue.ToArray method
 
 Renvoie un tableau.
 
@@ -16,10 +16,12 @@ public XmpValue[] ToArray()
 
 ### Valeur de retour
 
-Valeur du tableau
+Valeur de tableau
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

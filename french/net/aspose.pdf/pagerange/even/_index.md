@@ -1,12 +1,12 @@
 ---
-title: PageRange.Even
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageRange. Obtient ou définit le paramètre pour les pages paires
+title: "PageRange.Even"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageRange. Obtient ou définit le paramètre pour les pages paires"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/pagerange/even/
 ---
-## Propriété PageRange.Paire
+## PageRange.Even property
 
 Obtient ou définit le paramètre pour les pages paires.
 
@@ -16,6 +16,8 @@ public byte Even { get; set; }
 
 ### Voir aussi
 
-* classe [PageRange](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageRange](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

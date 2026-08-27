@@ -1,12 +1,12 @@
 ---
-title: DocumentCollection.DocumentPaths
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentCollection. Obtient ou définit la collection de chemins de documents à traiter
+title: "DocumentCollection.DocumentPaths"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentCollection. Obtient ou définit la collection de chemins de document à traiter"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/documentcollection/documentpaths/
 ---
-## Propriété DocumentCollection.DocumentPaths
+## DocumentCollection.DocumentPaths property
 
 Obtient ou définit la collection de chemins de documents à traiter.
 
@@ -16,6 +16,8 @@ public List<string> DocumentPaths { get; set; }
 
 ### Voir aussi
 
-* classe [DocumentCollection](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DocumentCollection](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

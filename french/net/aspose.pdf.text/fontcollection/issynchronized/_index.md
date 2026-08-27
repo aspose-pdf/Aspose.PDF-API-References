@@ -1,14 +1,14 @@
 ---
-title: FontCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FontCollection. Obtient une valeur indiquant si l'accès à la collection est synchronisé et sûr pour les threads
+title: "FontCollection.IsSynchronized"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FontCollection. Obtient une valeur indiquant si l'accès à la collection est synchronisé et thread‑safe"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/fontcollection/issynchronized/
 ---
-## Propriété FontCollection.IsSynchronized
+## FontCollection.IsSynchronized property
 
-Obtient une valeur indiquant si l'accès à la collection est synchronisé (sûr pour les threads).
+Obtient une valeur indiquant si l'accès à la collection est synchronisé (thread safe).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Voir aussi
 
-* classe [FontCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

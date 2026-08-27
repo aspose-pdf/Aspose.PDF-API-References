@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.ExtractText
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfExtractor. Extrait le texte d'un document Pdf en utilisant l'encodage Unicode
+title: "PdfExtractor.ExtractText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfExtractor. Extrait le texte d'un document Pdf en utilisant l'encodage Unicode."
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.facades/pdfextractor/extracttext/
@@ -16,7 +16,7 @@ public void ExtractText()
 
 ## Exemples
 
-Le premier exemple démontre comment extraire tout le texte d'un fichier PDF.
+Le premier exemple montre comment extraire tout le texte d'un fichier PDF.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -32,7 +32,7 @@ extractor.ExtractText()
 extractor.GetText("D:\Text\text.txt")
 ```
 
-Le deuxième exemple démontre comment extraire le texte de chaque page dans un fichier txt.
+Le deuxième exemple montre comment extraire le texte de chaque page dans un seul fichier txt.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -63,8 +63,8 @@ End While
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -79,11 +79,11 @@ public void ExtractText(Encoding encoding)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| encoding | Encoding | L'encodage du texte extrait. |
+| encoding | Encodage | L'encodage du texte extrait. |
 
 ## Exemples
 
-Le premier exemple démontre comment extraire tout le texte d'un fichier PDF.
+Le premier exemple montre comment extraire tout le texte d'un fichier PDF.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -99,7 +99,7 @@ extractor.ExtractText(Encoding.Unicode)
 extractor.GetText("D:\Text\text.txt")
 ```
 
-Le deuxième exemple démontre comment extraire le texte de chaque page dans un fichier txt.
+Le deuxième exemple montre comment extraire le texte de chaque page dans un seul fichier txt.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -130,6 +130,8 @@ End While
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

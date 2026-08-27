@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A5Transverse
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier A5 transversal 148 mm par 210 mm
+title: "PaperSizes.A5Transverse"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Papier A5 transverse 148 mm par 210 mm"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.printing/papersizes/a5transverse/
 ---
-## Champ PaperSizes.A5Transverse
+## PaperSizes.A5Transverse field
 
-Papier A5 transversal (148 mm par 210 mm).
+Papier transversal A5 (148 mm par 210 mm).
 
 ```csharp
 public static readonly PaperSize A5Transverse;
@@ -16,7 +16,9 @@ public static readonly PaperSize A5Transverse;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

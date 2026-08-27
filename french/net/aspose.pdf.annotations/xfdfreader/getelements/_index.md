@@ -1,14 +1,14 @@
 ---
-title: XfdfReader.GetElements
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XfdfReader. Analyse le fichier XFDF et renvoie des informations sous forme de table de hachage
+title: "XfdfReader.GetElements"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XfdfReader. Analyse le fichier XFDF et renvoie les informations sous forme de table de hachage"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/xfdfreader/getelements/
 ---
-## Méthode XfdfReader.GetElements
+## XfdfReader.GetElements method
 
-Analyse le fichier XFDF et renvoie des informations sous forme de table de hachage.
+Analyse le fichier XFDF et renvoie les informations sous forme de table de hachage.
 
 ```csharp
 public static Dictionary<string, string> GetElements(XmlReader reader)
@@ -16,14 +16,16 @@ public static Dictionary<string, string> GetElements(XmlReader reader)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| reader | XmlReader | XmlReader pour le fichier source. |
+| lecteur | XmlReader | XmlReader pour le fichier source. |
 
 ### Valeur de retour
 
-Table de hachage avec les informations analysées à partir du fichier XFDF.
+Table de hachage contenant les informations analysées du fichier XFDF.
 
 ### Voir aussi
 
-* classe [XfdfReader](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [XfdfReader](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

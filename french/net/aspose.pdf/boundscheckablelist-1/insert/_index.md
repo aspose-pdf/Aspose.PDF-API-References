@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode BoundsCheckableList. Insère un élément dans le System.Collections.Generic.List à l'index spécifié
+title: "BoundsCheckableList1.Insert"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode BoundsCheckableList. Insère un élément dans le System.Collections.Generic.List à l'index spécifié"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/boundscheckablelist-1/insert/
 ---
-## BoundsCheckableList&lt;T&gt;.Insert méthode
+## BoundsCheckableList&lt;T&gt;.Insert method
 
-Insère un élément dans le System.Collections.Generic.List à l'index spécifié.
+Insère un élément dans la System.Collections.Generic.List à l'index spécifié.
 
 ```csharp
 public void Insert(int index, T item)
@@ -16,7 +16,7 @@ public void Insert(int index, T item)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | L'index basé sur zéro auquel l'élément doit être inséré. |
+| index | Int32 | L'index basé sur zéro à lequel l'élément doit être inséré. |
 | item | T | L'objet à insérer. La valeur peut être null pour les types de référence. |
 
 ### Exceptions
@@ -27,6 +27,8 @@ public void Insert(int index, T item)
 
 ### Voir aussi
 
-* classe [BoundsCheckableList&lt;T&gt;](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

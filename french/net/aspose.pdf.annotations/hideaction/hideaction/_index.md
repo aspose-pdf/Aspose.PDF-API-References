@@ -1,7 +1,7 @@
 ---
-title: HideAction.HideAction
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de HideAction. Initialise une nouvelle instance de la classe HideAction pour l'annotation spécifiée
+title: "HideAction.HideAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur HideAction. Initialise une nouvelle instance de la classe HideAction pour l'annotation spécifiée"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/hideaction/hideaction/
@@ -16,13 +16,13 @@ public HideAction(Annotation annotation)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| annotation | Annotation | Une annotation à cacher. |
+| annotation | Annotation | Une annotation à masquer. |
 
 ### Voir aussi
 
-* classe [Annotation](../../annotation/)
-* classe [HideAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,14 +37,14 @@ public HideAction(Annotation annotation, bool isHidden)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| annotation | Annotation | Une annotation à cacher ou à afficher. |
-| isHidden | Boolean | Un drapeau indiquant s'il faut cacher l'annotation (true) ou l'afficher (false). |
+| annotation | Annotation | Une annotation à masquer ou à afficher. |
+| isHidden | Boolean | Un indicateur indiquant s'il faut masquer l'annotation (true) ou l'afficher (false). |
 
 ### Voir aussi
 
-* classe [Annotation](../../annotation/)
-* classe [HideAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -63,8 +63,8 @@ public HideAction(string fieldName)
 
 ### Voir aussi
 
-* classe [HideAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -80,12 +80,12 @@ public HideAction(string fieldName, bool isHidden)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | fieldName | String | Une chaîne de texte donnant le nom de champ entièrement qualifié d'un champ de formulaire interactif. |
-| isHidden | Boolean | Un drapeau indiquant s'il faut cacher le champ (true) ou l'afficher (false). |
+| isHidden | Boolean | Un drapeau indiquant s'il faut masquer le champ (true) ou l'afficher (false). |
 
 ### Voir aussi
 
-* classe [HideAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -100,13 +100,13 @@ public HideAction(Annotation[] annotations)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| annotations | Annotation[] | Un tableau d'annotations à cacher. |
+| annotations | Annotation[] | Un tableau d'annotations à masquer. |
 
 ### Voir aussi
 
-* classe [Annotation](../../annotation/)
-* classe [HideAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -121,14 +121,14 @@ public HideAction(Annotation[] annotations, bool isHidden)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| annotations | Annotation[] | Un tableau d'annotations à cacher ou à afficher. |
-| isHidden | Boolean | Un drapeau indiquant s'il faut cacher les annotations (true) ou les afficher (false). |
+| annotations | Annotation[] | Un tableau d'annotations à masquer ou à afficher. |
+| isHidden | Boolean | Un drapeau indiquant s'il faut masquer les annotations (true) ou les afficher (false). |
 
 ### Voir aussi
 
-* classe [Annotation](../../annotation/)
-* classe [HideAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -143,12 +143,12 @@ public HideAction(string[] names)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| names | String[] | Un tableau de chaînes donnant les noms de champ entièrement qualifiés d'un champ de formulaire interactif. |
+| noms | String[] | Un tableau de chaînes donnant les noms de champ entièrement qualifiés d'un champ de formulaire interactif. |
 
 ### Voir aussi
 
-* classe [HideAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -163,11 +163,13 @@ public HideAction(string[] names, bool isHidden)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| names | String[] | Un tableau de chaînes donnant les noms de champ entièrement qualifiés d'un champ de formulaire interactif. |
-| isHidden | Boolean | Un drapeau indiquant s'il faut cacher les champs (true) ou les afficher (false). |
+| noms | String[] | Un tableau de chaînes donnant les noms de champ entièrement qualifiés d'un champ de formulaire interactif. |
+| isHidden | Boolean | Un drapeau indiquant s'il faut masquer les champs (true) ou les afficher (false). |
 
 ### Voir aussi
 
-* classe [HideAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

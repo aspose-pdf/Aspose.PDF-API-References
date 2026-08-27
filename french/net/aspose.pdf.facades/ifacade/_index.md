@@ -1,14 +1,14 @@
 ---
-title: Interface IFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.Facades.IFacade. Interface générale de façade qui définit les méthodes de façade communes
+title: "Interface IFacade"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.IFacade interface. Interface de façade générale qui définit les méthodes de façade communes."
 type: docs
-weight: 4360
+weight: 4480
 url: /fr/net/aspose.pdf.facades/ifacade/
 ---
-## Interface IFacade
+## IFacade interface
 
-Interface générale de façade qui définit les méthodes de façade communes.
+Interface de façade générale qui définit les méthodes communes des façades.
 
 ```csharp
 public interface IFacade : IDisposable
@@ -25,5 +25,7 @@ public interface IFacade : IDisposable
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

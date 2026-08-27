@@ -1,14 +1,14 @@
 ---
-title: Class TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Devices.TiffDevice. Cette classe aide à enregistrer le document pdf page par page dans une seule image tiff
+title: "Classe TiffDevice"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Devices.TiffDevice. Cette classe aide à enregistrer le document pdf page par page dans une seule image tiff."
 type: docs
-weight: 3700
+weight: 3820
 url: /fr/net/aspose.pdf.devices/tiffdevice/
 ---
-## Classe TiffDevice
+## TiffDevice class
 
-Cette classe aide à enregistrer le document pdf page par page dans une seule image tiff.
+Cette classe aide à enregistrer les pages du document PDF, page par page, dans une seule image TIFF.
 
 ```csharp
 public sealed class TiffDevice : DocumentDevice
@@ -18,7 +18,7 @@ public sealed class TiffDevice : DocumentDevice
 
 | Nom | Description |
 | --- | --- |
-| [TiffDevice](tiffdevice/#constructor)() | Initialise une nouvelle instance de la classe `TiffDevice` avec des paramètres par défaut. |
+| [TiffDevice](tiffdevice/#constructor)() | Initialise une nouvelle instance de la classe `TiffDevice` avec les paramètres par défaut. |
 | [TiffDevice](tiffdevice/#constructor_6)(PageSize) | Initialise une nouvelle instance de la classe `TiffDevice`. |
 | [TiffDevice](tiffdevice/#constructor_1)(Resolution) | Initialise une nouvelle instance de la classe `TiffDevice`. |
 | [TiffDevice](tiffdevice/#constructor_4)(TiffSettings) | Initialise une nouvelle instance de la classe `TiffDevice`. |
@@ -41,24 +41,24 @@ public sealed class TiffDevice : DocumentDevice
 
 | Nom | Description |
 | --- | --- |
-| [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode/) { get; set; } | Obtient ou définit le mode de présentation des formulaires. |
+| [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode/) { get; set; } | Obtient ou définit le mode de présentation du formulaire. |
 | [Height](../../aspose.pdf.devices/tiffdevice/height/) { get; } | Obtient la hauteur de sortie de l'image. |
 | [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions/) { get; set; } | Obtient ou définit les options de rendu. |
 | [Resolution](../../aspose.pdf.devices/tiffdevice/resolution/) { get; } | Obtient la résolution de l'image. |
-| [Settings](../../aspose.pdf.devices/tiffdevice/settings/) { get; } | Obtient les paramètres pour mapper le pdf dans l'image tiff. |
+| [Settings](../../aspose.pdf.devices/tiffdevice/settings/) { get; } | Obtient les paramètres de mappage du pdf en image tiff. |
 | [Width](../../aspose.pdf.devices/tiffdevice/width/) { get; } | Obtient la largeur de sortie de l'image. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | Effectue la binarisation de Bradley pour le flux d'entrée. |
+| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | Effectue la binarisation Bradley pour le flux d'entrée. |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, Stream) | Traite l'ensemble du document et enregistre les résultats dans le flux. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, string) | Traite l'ensemble du document et enregistre les résultats dans un fichier. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, string) | Traite l'ensemble du document et enregistre les résultats dans le fichier. |
 | override [Process](../../aspose.pdf.devices/tiffdevice/process/#process_4)(Page, Stream) |  |
 | [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Effectue une opération sur la page donnée et enregistre les résultats dans le fichier. |
-| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | Convertit certaines pages du document en tiff et les enregistre dans le flux de sortie. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | Traite certaines pages du document et enregistre les résultats dans un fichier. |
+| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | Convertit certaines pages du document en TIFF et les enregistre dans le flux de sortie. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | Traite certaines pages du document et enregistre les résultats dans le fichier. |
 
 ## Exemples
 
@@ -66,19 +66,19 @@ L'exemple suivant montre comment convertir un fichier PDF en images TIFF.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Le chemin vers votre répertoire PDF
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Le nom du fichier PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Initialiser une instance de la classe Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Créer un objet Resolution \t
 		Resolution resolution = new Resolution(300);
 		
-		// Create TiffSettings object
+		// Créer un objet TiffSettings
 		TiffSettings tiffSettings = new TiffSettings
 		{
 			Compression = CompressionType.None,
@@ -87,10 +87,10 @@ L'exemple suivant montre comment convertir un fichier PDF en images TIFF.
 			SkipBlankPages = false
 		};
 
-		// Create TIFF device
+		// Créer un dispositif TIFF
 		TiffDevice tiffDevice = new TiffDevice(resolution, tiffSettings);
 
-		// Convert a PDF document to TIFF image
+		// Convertir un document PDF en image TIFF
 		tiffDevice.Process(pdfDocument, dataDir + "AllPagesToTIFF_out.tif");
 	}
 ```
@@ -129,6 +129,8 @@ L'exemple suivant montre comment convertir un fichier PDF en images TIFF.
 
 ### Voir aussi
 
-* classe [DocumentDevice](../documentdevice/)
-* espace de noms [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* class [DocumentDevice](../documentdevice/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

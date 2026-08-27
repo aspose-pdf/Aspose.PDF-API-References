@@ -1,14 +1,14 @@
 ---
-title: Class BX
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.BX. Classe représentant le début de la section de compatibilité de l'opérateur BX
+title: "Classe BX"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.BX classe. Classe représentant l'opérateur BX début de la section de compatibilité"
 type: docs
-weight: 7140
+weight: 7280
 url: /fr/net/aspose.pdf.operators/bx/
 ---
-## Classe BX
+## BX class
 
-Classe représentant l'opérateur BX (début de la section de compatibilité).
+Classe représentant l'opérateur BX (begin compatibility section).
 
 ```csharp
 public class BX : Operator
@@ -30,12 +30,14 @@ public class BX : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bx/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/bx/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/bx/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

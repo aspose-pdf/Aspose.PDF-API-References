@@ -1,14 +1,14 @@
 ---
-title: Class NamedDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.NamedDestination. Au lieu d'être définie directement avec la syntaxe explicite, une destination peut être référencée indirectement par le biais d'un objet nom ou d'une chaîne d'octets.
+title: "Classe NamedDestination"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.NamedDestination classe. Au lieu d'être définie directement avec la syntaxe explicite, une destination peut être référencée indirectement au moyen d'un objet nom ou d'une chaîne d'octets."
 type: docs
-weight: 2130
+weight: 2220
 url: /fr/net/aspose.pdf.annotations/nameddestination/
 ---
-## Classe NamedDestination
+## NamedDestination class
 
-Au lieu d'être définie directement avec la syntaxe explicite, une destination peut être référencée indirectement par le biais d'un objet nom ou d'une chaîne d'octets.
+Au lieu d'être définie directement avec la syntaxe explicite, une destination peut être référencée indirectement au moyen d'un objet nom ou d'une chaîne d'octets.
 
 ```csharp
 public sealed class NamedDestination : IAppointment
@@ -18,7 +18,7 @@ public sealed class NamedDestination : IAppointment
 
 | Nom | Description |
 | --- | --- |
-| [NamedDestination](nameddestination/)(Document, string) | Crée une destination nommée. |
+| [NamedDestination](nameddestination/)(Document, string) | Créer une destination nommée. |
 
 ## Propriétés
 
@@ -30,10 +30,12 @@ public sealed class NamedDestination : IAppointment
 
 | Nom | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/nameddestination/tostring/)() | Convertit la destination en valeur de chaîne. |
+| override [ToString](../../aspose.pdf.annotations/nameddestination/tostring/)() | Convertit la destination en valeur chaîne. |
 
 ### Voir aussi
 
 * interface [IAppointment](../iappointment/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

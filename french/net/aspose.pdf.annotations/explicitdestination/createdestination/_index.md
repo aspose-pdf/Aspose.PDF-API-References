@@ -1,14 +1,14 @@
 ---
-title: ExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ExplicitDestination. Crée des instances des classes descendantes d'ExplicitDestination
+title: "ExplicitDestination.CreateDestination"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ExplicitDestination. Crée des instances des classes dérivées d'ExplicitDestination"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/explicitdestination/createdestination/
 ---
 ## CreateDestination(Page, ExplicitDestinationType, params double[]) {#createdestination_1}
 
-Crée des instances des classes descendantes d'ExplicitDestination.
+Crée des instances des classes dérivées d'ExplicitDestination.
 
 ```csharp
 public static ExplicitDestination CreateDestination(Page page, ExplicitDestinationType type, 
@@ -19,7 +19,7 @@ public static ExplicitDestination CreateDestination(Page page, ExplicitDestinati
 | --- | --- | --- |
 | page | Page | L'objet de la page de destination. |
 | type | ExplicitDestinationType | Le type de destination explicite. |
-| values | Double[] | Tableau de valeurs double. |
+| valeurs | Double[] | Tableau de valeurs double. |
 
 ### Valeur de retour
 
@@ -27,17 +27,17 @@ L'objet de destination explicite.
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* énum [ExplicitDestinationType](../../explicitdestinationtype/)
-* classe [ExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateDestination(int, ExplicitDestinationType, params double[]) {#createdestination_2}
 
-Crée des instances des classes descendantes d'ExplicitDestination.
+Crée des instances des classes dérivées d'ExplicitDestination.
 
 ```csharp
 public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDestinationType type, 
@@ -46,9 +46,9 @@ public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDest
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pageNumber | Int32 | Le numéro de la page de destination. |
+| pageNumber | Int32 | Le numéro de page de destination. |
 | type | ExplicitDestinationType | Le type de destination explicite. |
-| values | Double[] | Tableau de valeurs double. |
+| valeurs | Double[] | Tableau de valeurs double. |
 
 ### Valeur de retour
 
@@ -56,7 +56,9 @@ L'objet de destination explicite.
 
 ### Voir aussi
 
-* énum [ExplicitDestinationType](../../explicitdestinationtype/)
-* classe [ExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

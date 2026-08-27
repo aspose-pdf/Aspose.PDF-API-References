@@ -1,12 +1,12 @@
 ---
-title: Class PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PageRange. Représente la plage de pages pour les paramètres d'en-tête et de pied de page
+title: "Classe PageRange"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.PageRange classe. Représente la plage de pages pour les paramètres d’en-tête et de pied de page"
 type: docs
-weight: 8240
+weight: 8380
 url: /fr/net/aspose.pdf/pagerange/
 ---
-## Classe PageRange
+## PageRange class
 
 Représente la plage de pages pour les paramètres d'en-tête et de pied de page.
 
@@ -31,5 +31,7 @@ public sealed class PageRange
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

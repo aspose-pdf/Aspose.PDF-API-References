@@ -1,14 +1,14 @@
 ---
-title: Class GoToURIAction
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.GoToURIAction. Représente une action URI qui provoque la résolution d'une URI
+title: "Classe GoToURIAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Annotations.GoToURIAction. Représente une action URI qui entraîne la résolution d'une URI"
 type: docs
-weight: 1850
+weight: 1940
 url: /fr/net/aspose.pdf.annotations/gotouriaction/
 ---
-## Classe GoToURIAction
+## GoToURIAction class
 
-Représente une action URI qui provoque la résolution d'une URI.
+Représente une action URI qui entraîne la résolution d'un URI.
 
 ```csharp
 public sealed class GoToURIAction : PdfAction
@@ -25,16 +25,18 @@ public sealed class GoToURIAction : PdfAction
 | Nom | Description |
 | --- | --- |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Actions suivantes dans la séquence. |
-| [URI](../../aspose.pdf.annotations/gotouriaction/uri/) { get; set; } | Obtient ou définit l'identifiant de ressource uniforme à résoudre. |
+| [URI](../../aspose.pdf.annotations/gotouriaction/uri/) { get; set; } | Obtient ou définit l'identifiant uniforme de ressource à résoudre. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Obtient une chaîne pour l'action ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Obtient la chaîne pour l'action ECMAScript. |
 
 ### Voir aussi
 
-* classe [PdfAction](../pdfaction/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

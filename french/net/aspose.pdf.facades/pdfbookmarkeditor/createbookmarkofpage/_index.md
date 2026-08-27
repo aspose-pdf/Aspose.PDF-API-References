@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarkOfPage
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfBookmarkEditor. Crée un signet pour la page spécifiée
+title: "PdfBookmarkEditor.CreateBookmarkOfPage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfBookmarkEditor. Crée un signet pour la page spécifiée."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
@@ -46,8 +46,8 @@ public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| bookmarkName | String[] | Tableau de titres de signets. |
-| pageNumber | Int32[] | Tableau de pages de destination des signets. |
+| bookmarkName | String[] | Tableau des titres des signets. |
+| pageNumber | Int32[] | Tableau des pages de destination des signets. |
 
 ## Exemples
 
@@ -63,3 +63,5 @@ editor.Save("example_out.pdf");
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

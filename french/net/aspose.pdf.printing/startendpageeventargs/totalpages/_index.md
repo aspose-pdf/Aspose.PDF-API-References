@@ -1,12 +1,12 @@
 ---
-title: StartEndPageEventArgs.TotalPages
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StartEndPageEventArgs. Obtient le nombre total de pages à imprimer
+title: "StartEndPageEventArgs.TotalPages"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ StartEndPageEventArgs. Obtient le nombre total de pages à imprimer"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.printing/startendpageeventargs/totalpages/
 ---
-## Champ StartEndPageEventArgs.TotalPages
+## StartEndPageEventArgs.TotalPages field
 
 Obtient le nombre total de pages à imprimer.
 
@@ -16,6 +16,8 @@ public readonly int TotalPages;
 
 ### Voir aussi
 
-* classe [StartEndPageEventArgs](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

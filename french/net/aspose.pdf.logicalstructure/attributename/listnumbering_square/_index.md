@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_Square
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Liste d'attributs ListNumbering Carré  Puce carrée solide
+title: "AttributeName.ListNumbering_Square"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeName field. Attribute ListNumbering Square  Puce carrée pleine"
 type: docs
 weight: 310
 url: /fr/net/aspose.pdf.logicalstructure/attributename/listnumbering_square/
 ---
-## Champ AttributeName.ListNumbering_Square
+## AttributeName.ListNumbering_Square field
 
-Liste d'attributs ListNumbering : Carré - Puce carrée solide.
+Attribut ListNumbering : Square - Puce carrée pleine.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Square;
@@ -16,6 +16,8 @@ public static readonly AttributeName ListNumbering_Square;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

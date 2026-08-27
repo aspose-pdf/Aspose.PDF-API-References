@@ -1,12 +1,12 @@
 ---
-title: PdfFileMend.WrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileMend. Définit ou obtient l'algorithme de retour à la ligne. Voir WordWrapMode et IsWordWrap
+title: "PdfFileMend.WrapMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFileMend. Définit ou obtient l'algorithme de retour à la ligne. Voir WordWrapMode et IsWordWrap"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.facades/pdffilemend/wrapmode/
 ---
-## Propriété PdfFileMend.WrapMode
+## PdfFileMend.WrapMode property
 
 Définit ou obtient l'algorithme de retour à la ligne. Voir WordWrapMode et IsWordWrap.
 
@@ -20,3 +20,5 @@ public WordWrapMode WrapMode { get; set; }
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

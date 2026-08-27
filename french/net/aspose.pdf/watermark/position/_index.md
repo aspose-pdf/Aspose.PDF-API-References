@@ -1,14 +1,14 @@
 ---
-title: Watermark.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Watermark. Obtient une position de l'image des filigranes sur une page
+title: "Watermark.Position"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Watermark. Obtient la position de l'image du filigrane sur une page"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/watermark/position/
 ---
-## Propriété Watermark.Position
+## Watermark.Position property
 
-Obtient une position de l'image du filigrane sur une page.
+Obtient la position de l'image du filigrane sur une page.
 
 ```csharp
 public Rectangle Position { get; }
@@ -16,7 +16,9 @@ public Rectangle Position { get; }
 
 ### Voir aussi
 
-* classe [Rectangle](../../rectangle/)
-* classe [Watermark](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../../rectangle/)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

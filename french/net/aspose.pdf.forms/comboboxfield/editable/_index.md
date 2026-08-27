@@ -1,14 +1,14 @@
 ---
-title: ComboBoxField.Editable
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ComboBoxField. Obtient ou définit le statut éditable du champ
+title: "ComboBoxField.Editable"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ComboBoxField propriété. Obtient ou définit le statut modifiable du champ"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.forms/comboboxfield/editable/
 ---
-## Propriété ComboBoxField.Editable
+## ComboBoxField.Editable property
 
-Obtient ou définit le statut éditable du champ.
+Obtient ou définit le statut modifiable du champ.
 
 ```csharp
 public bool Editable { get; set; }
@@ -16,6 +16,8 @@ public bool Editable { get; set; }
 
 ### Voir aussi
 
-* classe [ComboBoxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CaretAnnotation.CaretAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de CaretAnnotation. Constructeur à utiliser dans le générateur
+title: "CaretAnnotation.CaretAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur CaretAnnotation. Constructeur pour l'utilisation dans Generator"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/caretannotation/caretannotation/
 ---
 ## CaretAnnotation(Document) {#constructor}
 
-Constructeur à utiliser dans le générateur.
+Constructeur pour l'utilisation dans Generator.
 
 ```csharp
 public CaretAnnotation(Document document)
@@ -37,7 +37,7 @@ public CaretAnnotation(Page page, Rectangle rect)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | Page du document où l'annotation doit être créée. |
+| page | Page | Page du Document où l'annotation doit être créée. |
 | rect | Rectangle | Rectangle requis qui définit la bordure de l'annotation. |
 
 ### Voir aussi
@@ -47,3 +47,5 @@ public CaretAnnotation(Page page, Rectangle rect)
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

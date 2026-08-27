@@ -1,7 +1,7 @@
 ---
-title: Matrix.Transform
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Matrix. Transforme le point en utilisant cette matrice
+title: "Matrix.Transform"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Matrix. Transforme le point en utilisant cette matrice"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf/matrix/transform/
@@ -32,9 +32,9 @@ Aspose.Pdf.Rectangle r1 = m.Transform(r);
 
 ### Voir aussi
 
-* classe [Point](../../point/)
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Point](../../point/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -64,15 +64,15 @@ m.Transform(double x, double y, out double x1, out double y1);
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Transform(Rectangle) {#transform_1}
 
-Transforme le rectangle. Si l'angle n'est pas de 90 * N degrés, alors le rectangle englobant est retourné.
+Transforme le rectangle. Si l'angle n'est pas un multiple de 90 ° alors le rectangle englobant est renvoyé.
 
 ```csharp
 public Rectangle Transform(Rectangle rect)
@@ -96,7 +96,9 @@ Rectangle r1 = m.Transform(r1);
 
 ### Voir aussi
 
-* classe [Rectangle](../../rectangle/)
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../../rectangle/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

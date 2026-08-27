@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_Disc
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Liste des numéros d'attributs Disque  Puce circulaire solide
+title: "AttributeName.ListNumbering_Disc"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ AttributeName. Attribut ListNumbering Disc  Puce circulaire pleine"
 type: docs
 weight: 270
 url: /fr/net/aspose.pdf.logicalstructure/attributename/listnumbering_disc/
 ---
-## Champ AttributeName.ListNumbering_Disc
+## AttributeName.ListNumbering_Disc field
 
-Liste des numéros d'attributs : Disque - Puce circulaire solide.
+Attribut ListNumbering : Disc - Puce circulaire pleine.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Disc;
@@ -16,6 +16,8 @@ public static readonly AttributeName ListNumbering_Disc;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

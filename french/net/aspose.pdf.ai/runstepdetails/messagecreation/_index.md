@@ -1,12 +1,12 @@
 ---
-title: RunStepDetails.MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunStepDetails. Obtient ou définit les détails de la création du message
+title: "RunStepDetails.MessageCreation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunStepDetails. Obtient ou définit les détails de la création du message"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/runstepdetails/messagecreation/
 ---
-## Propriété RunStepDetails.MessageCreation
+## RunStepDetails.MessageCreation property
 
 Obtient ou définit les détails de la création du message.
 
@@ -16,7 +16,9 @@ public MessageCreation MessageCreation { get; set; }
 
 ### Voir aussi
 
-* classe [MessageCreation](../../messagecreation/)
-* classe [RunStepDetails](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [MessageCreation](../../messagecreation/)
+* class [RunStepDetails](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

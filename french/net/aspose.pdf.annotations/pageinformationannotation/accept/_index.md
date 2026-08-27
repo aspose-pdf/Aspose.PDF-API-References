@@ -1,14 +1,14 @@
 ---
-title: PageInformationAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PageInformationAnnotation. Accepte le visiteur pour le traitement des annotations
+title: "PageInformationAnnotation.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PageInformationAnnotation. Accepte le visiteur pour le traitement de l'annotation"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/pageinformationannotation/accept/
 ---
-## Méthode PageInformationAnnotation.Accept
+## PageInformationAnnotation.Accept method
 
-Accepte le visiteur pour le traitement des annotations.
+Accepte un visiteur pour le traitement de l'annotation.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Objet AnnotationSelector. |
+| visiteur | AnnotationSelector | Objet AnnotationSelector. |
 
 ### Voir aussi
 
-* classe [AnnotationSelector](../../annotationselector/)
-* classe [PageInformationAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AnnotationSelector](../../annotationselector/)
+* class [PageInformationAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

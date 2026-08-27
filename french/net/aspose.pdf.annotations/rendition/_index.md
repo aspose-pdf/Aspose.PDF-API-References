@@ -1,12 +1,12 @@
 ---
-title: Class Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.Rendition. Classe qui décrit l'objet de rendu de RendtionAnnotation
+title: "Classe Rendition"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Annotations.Rendition. Classe qui décrit l’objet rendition de RendtionAnnotation"
 type: docs
-weight: 2430
+weight: 2520
 url: /fr/net/aspose.pdf.annotations/rendition/
 ---
-## Classe Rendition
+## Rendition class
 
 Classe qui décrit l'objet de rendu de RendtionAnnotation.
 
@@ -18,10 +18,12 @@ public class Rendition
 
 | Nom | Description |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Chaîne de texte spécifiant le nom du rendu à utiliser dans une interface utilisateur et pour la recherche de nom par des actions JavaScript. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Obtient le type de rendu. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Chaîne de texte spécifiant le nom du rendition à utiliser dans une interface utilisateur et pour la recherche dans l’arbre de noms par les actions JavaScript. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Obtient le type de rendition. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

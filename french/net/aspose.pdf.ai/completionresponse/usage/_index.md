@@ -1,14 +1,14 @@
 ---
-title: CompletionResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CompletionResponse. Obtient ou définit les statistiques d'utilisation pour la demande de complétion
+title: "CompletionResponse.Usage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CompletionResponse. Obtient ou définit les statistiques d'utilisation pour la requête de génération"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.ai/completionresponse/usage/
 ---
-## Propriété CompletionResponse.Usage
+## CompletionResponse.Usage property
 
-Obtient ou définit les statistiques d'utilisation pour la demande de complétion.
+Obtient ou définit les statistiques d'utilisation pour la requête de complétion.
 
 ```csharp
 public Usage Usage { get; set; }
@@ -16,7 +16,9 @@ public Usage Usage { get; set; }
 
 ### Voir aussi
 
-* classe [Usage](../../usage/)
-* classe [CompletionResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Usage](../../usage/)
+* class [CompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfExtractor. Enregistre le texte d'une page dans un fichier
+title: "PdfExtractor.GetNextPageText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfExtractor. Enregistre le texte d'une page dans un fichier"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.facades/pdfextractor/getnextpagetext/
@@ -16,11 +16,11 @@ public void GetNextPageText(string outputFile)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le chemin et le nom du fichier pour enregistrer le texte. |
+| outputFile | String | Le chemin d'accès et le nom du fichier pour enregistrer le texte. |
 
 ## Exemples
 
-L'exemple démontre l'utilisation de la méthode GetNextPageText dans un scénario d'extraction de texte.
+L'exemple montre l'utilisation de la méthode GetNextPageText dans un scénario d'extraction de texte.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -51,8 +51,8 @@ End While
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -71,7 +71,7 @@ public void GetNextPageText(Stream outputStream)
 
 ## Exemples
 
-L'exemple démontre l'utilisation de la méthode `GetNextPageText` dans un scénario d'extraction de texte.
+L'exemple montre l'utilisation de la méthode `GetNextPageText` dans un scénario d'extraction de texte.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -91,6 +91,8 @@ while (extractor.HasNextPageText())
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

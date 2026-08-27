@@ -1,14 +1,14 @@
 ---
-title: LaunchAction.NewWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LaunchAction. Obtient ou définit un indicateur spécifiant s'il faut ouvrir le document de destination dans une nouvelle fenêtre. affecte uniquement les documents PDF.
+title: "LaunchAction.NewWindow"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LaunchAction. Obtient ou définit un indicateur spécifiant s'il faut ouvrir le document de destination dans une nouvelle fenêtre (affecte uniquement les documents PDF)"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/launchaction/newwindow/
 ---
-## Propriété LaunchAction.NewWindow
+## LaunchAction.NewWindow property
 
-Obtient ou définit un indicateur spécifiant s'il faut ouvrir le document de destination dans une nouvelle fenêtre (affecte uniquement les documents PDF).
+Obtient ou définit un drapeau indiquant s'il faut ouvrir le document de destination dans une nouvelle fenêtre (affecte uniquement les documents PDF).
 
 ```csharp
 public ExtendedBoolean NewWindow { get; set; }
@@ -20,3 +20,5 @@ public ExtendedBoolean NewWindow { get; set; }
 * class [LaunchAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

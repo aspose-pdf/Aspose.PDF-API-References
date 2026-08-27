@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_None
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Attribut BorderStyle Aucun Pas de bordure. Force la valeur calculée de BorderThicknessto à être 0
+title: "AttributeName.BorderStyle_None"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeName field. Attribute BorderStyle None  Aucun bord. Force la valeur calculée de BorderThicknessto à être 0"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.logicalstructure/attributename/borderstyle_none/
 ---
-## Champ AttributeName.BorderStyle_None
+## AttributeName.BorderStyle_None field
 
-Attribut BorderStyle : Aucun - Pas de bordure. Force la valeur calculée de BorderThicknessto à être 0.
+Attribut BorderStyle : None - Pas de bordure. Force la valeur calculée de BorderThicknessto à 0.
 
 ```csharp
 public static readonly AttributeName BorderStyle_None;
@@ -16,6 +16,8 @@ public static readonly AttributeName BorderStyle_None;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

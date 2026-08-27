@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Executive
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier exécutif 7,25 po par 10,5 po
+title: "PaperSizes.Executive"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. Papier exécutif 7.25 in. par 10.5 in"
 type: docs
 weight: 410
 url: /fr/net/aspose.pdf.printing/papersizes/executive/
 ---
-## Champ PaperSizes.Executive
+## PaperSizes.Executive field
 
-Papier exécutif (7,25 po par 10,5 po).
+Papier Executive (7,25 po x 10,5 po).
 
 ```csharp
 public static readonly PaperSize Executive;
@@ -16,7 +16,9 @@ public static readonly PaperSize Executive;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

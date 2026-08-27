@@ -1,12 +1,12 @@
 ---
-title: Class InvalidCgmFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.InvalidCgmFileFormatException. L'exception qui est levée lorsqu'un fichier Cgm est invalide
+title: "Classe InvalidCgmFileFormatException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.InvalidCgmFileFormatException. L'exception qui est levée lorsqu'un fichier Cgm est invalide"
 type: docs
-weight: 5980
+weight: 6110
 url: /fr/net/aspose.pdf/invalidcgmfileformatexception/
 ---
-## Classe InvalidCgmFileFormatException
+## InvalidCgmFileFormatException class
 
 L'exception qui est levée lorsqu'un fichier Cgm est invalide.
 
@@ -25,6 +25,8 @@ public sealed class InvalidCgmFileFormatException : InvalidFileFormatException
 
 ### Voir aussi
 
-* classe [InvalidFileFormatException](../invalidfileformatexception/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [InvalidFileFormatException](../invalidfileformatexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

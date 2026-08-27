@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CancelVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIClient. Annule un lot de fichiers de magasin de vecteurs spécifique de manière asynchrone
+title: "OpenAIClient.CancelVectorStoreFileBatchAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAIClient. Annule un lot de fichiers d'un vector store spécifique de manière asynchrone"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/openaiclient/cancelvectorstorefilebatchasync/
 ---
-## Méthode OpenAIClient.CancelVectorStoreFileBatchAsync
+## OpenAIClient.CancelVectorStoreFileBatchAsync method
 
-Annule un lot de fichiers de magasin de vecteurs spécifique de manière asynchrone.
+Annule de manière asynchrone un lot de fichiers de magasin vectoriel spécifique.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> CancelVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -17,7 +17,7 @@ public Task<VectorStoreFileBatchResponse> CancelVectorStoreFileBatchAsync(string
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | String | L'ID du magasin de vecteurs contenant le lot de fichiers à annuler. |
+| vectorStoreId | String | L'ID du vector store contenant le lot de fichiers à annuler. |
 | fileBatchId | String | L'ID du lot de fichiers à annuler. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
@@ -29,12 +29,14 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du magasin de vecteurs est nul ou vide. |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du lot de fichiers du magasin de vecteurs est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du magasin de vecteurs est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du lot de fichiers du magasin de vecteurs est nul ou vide. |
 
 ### Voir aussi
 
-* classe [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* classe [OpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

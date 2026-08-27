@@ -1,12 +1,12 @@
 ---
-title: ImageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ImageStamp. Ajoute un tampon graphique sur la page
+title: "ImageStamp.Put"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ImageStamp. Ajoute un tampon graphique sur la page"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/imagestamp/put/
 ---
-## Méthode ImageStamp.Put
+## ImageStamp.Put method
 
 Ajoute un tampon graphique sur la page.
 
@@ -20,7 +20,9 @@ public override void Put(Page page)
 
 ### Voir aussi
 
-* classe [Page](../../page/)
-* classe [ImageStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

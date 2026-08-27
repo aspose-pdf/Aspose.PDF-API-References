@@ -1,12 +1,12 @@
 ---
-title: TextEditOptions.FontReplaceBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextEditOptions. Obtient le mode qui définit le comportement pour les scénarios de remplacement de polices
+title: "TextEditOptions.FontReplaceBehavior"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextEditOptions. Obtient le mode qui définit le comportement pour les scénarios de remplacement de polices."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.text/texteditoptions/fontreplacebehavior/
 ---
-## Propriété TextEditOptions.FontReplaceBehavior
+## TextEditOptions.FontReplaceBehavior property
 
 Obtient le mode qui définit le comportement pour les scénarios de remplacement de polices.
 
@@ -20,3 +20,5 @@ public FontReplace FontReplaceBehavior { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

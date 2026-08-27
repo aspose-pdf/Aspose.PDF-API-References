@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.G
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Matrix3D. Membre G de la matrice de transformation
+title: "Matrix3D.G"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Matrix3D. Membre G de la matrice de transformation"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/matrix3d/g/
 ---
-## Propriété Matrix3D.G
+## Matrix3D.G property
 
 Membre G de la matrice de transformation.
 
@@ -16,6 +16,8 @@ public double G { get; set; }
 
 ### Voir aussi
 
-* classe [Matrix3D](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

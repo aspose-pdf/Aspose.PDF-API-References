@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CustomFont
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormFieldFacade. Obtient ou définit le nom de la police lorsque celle-ci est non standard, autre que les 14 polices standard
+title: "FormFieldFacade.CustomFont"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade propriété. Obtient ou définit le nom de la police lorsqu'elle n'est pas standard, autre que les 14 polices standard"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.facades/formfieldfacade/customfont/
 ---
-## Propriété FormFieldFacade.CustomFont
+## FormFieldFacade.CustomFont property
 
-Obtient ou définit le nom de la police lorsque celle-ci est non standard (autre que les 14 polices standard).
+Obtient ou définit le nom de la police lorsque celle‑ci n'est pas standard (autre que les 14 polices standard).
 
 ```csharp
 public string CustomFont { get; set; }
@@ -16,6 +16,8 @@ public string CustomFont { get; set; }
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

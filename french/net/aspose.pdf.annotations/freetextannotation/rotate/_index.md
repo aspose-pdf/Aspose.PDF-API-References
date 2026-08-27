@@ -1,12 +1,12 @@
 ---
-title: FreeTextAnnotation.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FreeTextAnnotation. Angle de rotation de l'annotation
+title: "FreeTextAnnotation.Rotate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FreeTextAnnotation. Angle de rotation de l'annotation"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.annotations/freetextannotation/rotate/
 ---
-## Propriété FreeTextAnnotation.Rotate
+## FreeTextAnnotation.Rotate property
 
 Angle de rotation de l'annotation.
 
@@ -20,3 +20,5 @@ public Rotation Rotate { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

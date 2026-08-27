@@ -1,14 +1,14 @@
 ---
-title: IconFit.ScalingModeToName
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IconFit. Convertit l'objet de mode de mise à l'échelle en nom
+title: "IconFit.ScalingModeToName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IconFit. Convertit l'objet de mode de mise à l'échelle en nom"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.forms/iconfit/scalingmodetoname/
 ---
-## Méthode IconFit.ScalingModeToName
+## IconFit.ScalingModeToName method
 
-Convertit l'objet de mode de mise à l'échelle en nom.
+Convertit l'objet du mode de mise à l'échelle en nom.
 
 ```csharp
 public static string ScalingModeToName(ScalingMode mode)
@@ -28,3 +28,5 @@ Nom du mode de mise à l'échelle.
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Error
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Error. Représente une erreur dans la réponse de l'API
+title: "Classe Error"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.Error. Représente une erreur dans la réponse API"
 type: docs
-weight: 340
+weight: 360
 url: /fr/net/aspose.pdf.ai/error/
 ---
-## Classe Erreur
+## Error class
 
-Représente une erreur dans la réponse de l'API.
+Représente une erreur dans la réponse d'API.
 
 ```csharp
 public class Error
@@ -29,7 +29,9 @@ public class Error
 | [Message](../../aspose.pdf.ai/error/message/) { get; set; } | Obtient ou définit le message d'erreur. |
 | [Param](../../aspose.pdf.ai/error/param/) { get; set; } | Obtient ou définit le nom du paramètre. |
 
-### Voir Aussi
+### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

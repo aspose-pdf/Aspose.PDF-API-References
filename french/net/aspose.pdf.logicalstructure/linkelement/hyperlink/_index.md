@@ -1,14 +1,14 @@
 ---
-title: LinkElement.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LinkElement. Obtient ou définit l'hyperlien pour l'élément de lien
+title: "LinkElement.Hyperlink"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LinkElement. Obtient ou définit le Hyperlink pour l'élément Link."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.logicalstructure/linkelement/hyperlink/
 ---
-## Propriété LinkElement.Hyperlink
+## LinkElement.Hyperlink property
 
-Obtient ou définit l'hyperlien pour l'élément de lien.
+Obtient ou définit le Hyperlink pour le Link Element.
 
 ```csharp
 public Hyperlink Hyperlink { get; set; }
@@ -16,7 +16,9 @@ public Hyperlink Hyperlink { get; set; }
 
 ### Voir aussi
 
-* classe [Hyperlink](../../../aspose.pdf/hyperlink/)
-* classe [LinkElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Hyperlink](../../../aspose.pdf/hyperlink/)
+* class [LinkElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

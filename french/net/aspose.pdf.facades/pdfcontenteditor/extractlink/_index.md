@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.ExtractLink
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Extrait la collection d'instances de Link contenues dans le document PDF
+title: "PdfContentEditor.ExtractLink"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Extrait la collection d'instances Link contenues dans le document PDF"
 type: docs
 weight: 370
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/extractlink/
 ---
-## Méthode PdfContentEditor.ExtractLink
+## PdfContentEditor.ExtractLink method
 
-Extrait la collection d'instances de Link contenues dans le document PDF.
+Extrait la collection d'instances Link contenues dans le document PDF.
 
 ```csharp
 public IList<Annotation> ExtractLink()
@@ -27,13 +27,15 @@ IList links = editor.ExtractLink();
 foreach (object obj in links)
 {
     Link link = (Link)obj;
-    // work with Link instance
+    // travailler avec l'instance Link
 }
 ```
 
 ### Voir aussi
 
-* classe [Annotation](../../../aspose.pdf.annotations/annotation/)
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

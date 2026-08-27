@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PrinterSettings. Obtient ou définit le paramètre duplex de l'imprimante
+title: "PrinterSettings.Duplex"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PrinterSettings. Obtient ou définit le paramètre duplex de l'imprimante"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.printing/printersettings/duplex/
 ---
-## Propriété PrinterSettings.Duplex
+## PrinterSettings.Duplex property
 
-Obtient ou définit le paramètre duplex de l'imprimante.
+Obtient ou définit le réglage duplex de l'imprimante.
 
 ```csharp
 public Duplex Duplex { get; set; }
@@ -20,3 +20,5 @@ public Duplex Duplex { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

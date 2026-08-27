@@ -1,12 +1,12 @@
 ---
-title: PageNumberStamp.StartingNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageNumberStamp. Obtient ou définit la valeur du numéro de la page de départ. Les autres pages seront numérotées à partir de cette valeur
+title: "PageNumberStamp.StartingNumber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageNumberStamp. Obtient ou définit la valeur du numéro de la première page. Les autres pages seront numérotées à partir de cette valeur"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/pagenumberstamp/startingnumber/
 ---
-## Propriété PageNumberStamp.NuméroDeDépart
+## PageNumberStamp.StartingNumber property
 
 Obtient ou définit la valeur du numéro de la page de départ. Les autres pages seront numérotées à partir de cette valeur.
 
@@ -16,6 +16,8 @@ public int StartingNumber { get; set; }
 
 ### Voir aussi
 
-* classe [PageNumberStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

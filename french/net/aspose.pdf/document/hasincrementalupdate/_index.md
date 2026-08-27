@@ -1,12 +1,12 @@
 ---
-title: Document.HasIncrementalUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Vérifie si le document PDF actuel a été enregistré avec des mises à jour incrémentielles
+title: "Document.HasIncrementalUpdate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Document. Vérifie si le document PDF actuel a été enregistré avec des mises à jour incrémentielles"
 type: docs
-weight: 700
+weight: 720
 url: /fr/net/aspose.pdf/document/hasincrementalupdate/
 ---
-## Méthode Document.HasIncrementalUpdate
+## Document.HasIncrementalUpdate method
 
 Vérifie si le document PDF actuel a été enregistré avec des mises à jour incrémentielles.
 
@@ -16,10 +16,12 @@ public bool HasIncrementalUpdate()
 
 ### Valeur de retour
 
-`true` si le document PDF a des mises à jour incrémentielles ; sinon, `false`.
+`true` si le document PDF possède des mises à jour incrémentielles ; sinon, `false`.
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

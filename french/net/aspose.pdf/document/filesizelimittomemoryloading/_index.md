@@ -1,14 +1,14 @@
 ---
-title: Document.FileSizeLimitToMemoryLoading
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Obtenez et définissez la limite de taille de fichier pour charger un fichier entier en mémoire. La valeur est définie en mégaoctets. La valeur par défaut est de 210 Mo.
+title: "Document.FileSizeLimitToMemoryLoading"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Obtient et définit la limite de taille de fichier pour charger un fichier complet en mémoire. La valeur est définie en mégaoctets. La valeur par défaut est de 210 Mo"
 type: docs
-weight: 900
+weight: 920
 url: /fr/net/aspose.pdf/document/filesizelimittomemoryloading/
 ---
-## Propriété Document.FileSizeLimitToMemoryLoading
+## Document.FileSizeLimitToMemoryLoading property
 
-Obtenez et définissez la limite de taille de fichier pour charger un fichier entier en mémoire. La valeur est définie en mégaoctets. La valeur par défaut est de 210 Mo.
+Obtient et définit la limite de taille de fichier pour charger un fichier complet en mémoire. La valeur est définie en mégaoctets. La valeur par défaut est de 210 Mb.
 
 ```csharp
 public static int FileSizeLimitToMemoryLoading { get; set; }
@@ -16,6 +16,8 @@ public static int FileSizeLimitToMemoryLoading { get; set; }
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

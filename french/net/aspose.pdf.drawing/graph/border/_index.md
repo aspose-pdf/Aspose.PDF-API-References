@@ -1,12 +1,12 @@
 ---
-title: Graph.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Graph. Obtient ou définit la bordure
+title: "Graph.Border"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Graph. Obtient ou définit la bordure"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.drawing/graph/border/
 ---
-## Propriété Graph.Border
+## Graph.Border property
 
 Obtient ou définit la bordure.
 
@@ -16,7 +16,9 @@ public BorderInfo Border { get; set; }
 
 ### Voir aussi
 
-* classe [BorderInfo](../../../aspose.pdf/borderinfo/)
-* classe [Graph](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

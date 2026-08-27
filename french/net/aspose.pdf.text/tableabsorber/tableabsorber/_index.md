@@ -1,7 +1,7 @@
 ---
-title: TableAbsorber.TableAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TableAbsorber. Initialise une nouvelle instance de TableAbsorber avec des options de recherche de texte
+title: "TableAbsorber.TableAbsorber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TableAbsorber. Initialise une nouvelle instance de TableAbsorber avec des options de recherche de texte"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/tableabsorber/tableabsorber/
@@ -20,13 +20,13 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 
 ## Remarques
 
-Effectue la recherche de tables et fournit un accès aux tables via l'objet [`TableList`](../tablelist/).
+Effectue la recherche de tableaux et fournit l'accès aux tableaux via l'objet [`TableList`](../tablelist/).
 
 ### Voir aussi
 
-* classe [TextSearchOptions](../../textsearchoptions/)
-* classe [TableAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,10 +41,12 @@ public TableAbsorber()
 
 ## Remarques
 
-Effectue la recherche de tables et fournit un accès aux tables via l'objet [`TableList`](../tablelist/).
+Effectue la recherche de tableaux et fournit l'accès aux tableaux via l'objet [`TableList`](../tablelist/).
 
 ### Voir aussi
 
-* classe [TableAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

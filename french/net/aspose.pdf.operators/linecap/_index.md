@@ -1,14 +1,14 @@
 ---
-title: Enum LineCap
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Operators.LineCap. Le style de cap de ligne doit spécifier la forme qui sera utilisée aux extrémités des sous-chemins ouverts et des tirets le cas échéant lorsqu'ils sont tracés
+title: "Énumération LineCap"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.LineCap enum. Le style de terminaison de ligne doit spécifier la forme qui sera utilisée aux extrémités des sous‑chemins ouverts et des tirets, le cas échéant, lorsqu'ils sont tracés."
 type: docs
-weight: 7440
+weight: 7580
 url: /fr/net/aspose.pdf.operators/linecap/
 ---
-## Énumération LineCap
+## LineCap enumeration
 
-Le style de cap de ligne doit spécifier la forme qui sera utilisée aux extrémités des sous-chemins ouverts (et des tirets, le cas échéant) lorsqu'ils sont tracés.
+Le style de terminaison de ligne doit spécifier la forme qui sera utilisée aux extrémités des sous‑chemins ouverts (et des tirets, le cas échéant) lorsqu'ils sont tracés.
 
 ```csharp
 public enum LineCap
@@ -18,11 +18,13 @@ public enum LineCap
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| ButtCap | `0` | Cap de bout. Le trait sera coupé à l'extrémité du chemin. Il ne doit y avoir aucune projection au-delà de l'extrémité du chemin. |
-| RoundCap | `1` | Cap rond. Un arc semi-circulaire avec un diamètre égal à la largeur de la ligne sera dessiné autour de l'extrémité et sera rempli. |
-| SquareCap | `2` | Cap carré en saillie. Le trait continuera au-delà de l'extrémité du chemin sur une distance égale à la moitié de la largeur de la ligne et sera coupé à angle droit. |
+| ButtCap | `0` | Terminaison à plat. Le tracé doit être coupé carrément à l'extrémité du chemin. Il ne doit y avoir aucune projection au-delà de la fin du chemin. |
+| RoundCap | `1` | Terminaison ronde. Un arc semi‑circulaire d'un diamètre égal à la largeur de ligne doit être dessiné autour de l'extrémité et doit être rempli. |
+| SquareCap | `2` | Terminaison carrée projetée. Le tracé doit se prolonger au-delà de l'extrémité du chemin sur une distance égale à la moitié de la largeur de ligne et doit être coupé carrément. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Annotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode d'annotation. Accepte le visiteur pour le traitement des annotations
+title: "Annotation.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Annotation. Accepte le visiteur pour le traitement de l'annotation"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf.annotations/annotation/accept/
 ---
-## Méthode Annotation.Accept
+## Annotation.Accept method
 
-Accepte le visiteur pour le traitement des annotations.
+Accepte un visiteur pour le traitement de l'annotation.
 
 ```csharp
 public abstract void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public abstract void Accept(AnnotationSelector visitor)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Objet AnnotationSelector. |
+| visiteur | AnnotationSelector | Objet AnnotationSelector. |
 
 ### Voir aussi
 
-* classe [AnnotationSelector](../../annotationselector/)
-* classe [Annotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AnnotationSelector](../../annotationselector/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

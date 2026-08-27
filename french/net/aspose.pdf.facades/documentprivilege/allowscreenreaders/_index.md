@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowScreenReaders
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentPrivilege. Définit la permission qui permet ou non aux lecteurs d'écran. true permet et false interdit
+title: "DocumentPrivilege.AllowScreenReaders"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentPrivilege. Définit l'autorisation qui permet les lecteurs d'écran ou non. true signifie autorisé et false signifie interdit"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.facades/documentprivilege/allowscreenreaders/
 ---
-## Propriété DocumentPrivilege.AllowScreenReaders
+## DocumentPrivilege.AllowScreenReaders property
 
-Définit la permission qui permet ou non aux lecteurs d'écran. true permet et false interdit.
+Définit la permission qui autorise les lecteurs d'écran ou non. true signifie autorisé et false signifie interdit.
 
 ```csharp
 public bool AllowScreenReaders { get; set; }
@@ -16,6 +16,8 @@ public bool AllowScreenReaders { get; set; }
 
 ### Voir aussi
 
-* classe [DocumentPrivilege](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

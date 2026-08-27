@@ -1,12 +1,12 @@
 ---
-title: Class InvalidPasswordException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.InvalidPasswordException. L'exception qui est levée lorsqu'un mot de passe invalide est fourni par l'utilisateur
+title: "Classe InvalidPasswordException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.InvalidPasswordException. L'exception qui est levée lorsqu'un mot de passe invalide est fourni par l'utilisateur"
 type: docs
-weight: 6010
+weight: 6140
 url: /fr/net/aspose.pdf/invalidpasswordexception/
 ---
-## Classe InvalidPasswordException
+## InvalidPasswordException class
 
 L'exception qui est levée lorsqu'un mot de passe invalide est fourni par l'utilisateur.
 
@@ -24,6 +24,8 @@ public sealed class InvalidPasswordException : PdfException
 
 ### Voir aussi
 
-* classe [PdfException](../pdfexception/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

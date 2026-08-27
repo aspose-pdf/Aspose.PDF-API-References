@@ -1,14 +1,14 @@
 ---
-title: Signature.GetSignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode de signature. Récupère des informations sur l'algorithme de signature utilisé dans la signature
+title: "Signature.GetSignatureAlgorithmInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Signature. Récupère des informations sur l'algorithme de signature utilisé dans la signature"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.forms/signature/getsignaturealgorithminfo/
 ---
-## Méthode Signature.GetSignatureAlgorithmInfo
+## Signature.GetSignatureAlgorithmInfo method
 
-Récupère des informations sur l'algorithme de signature utilisé dans la signature.
+Récupère les informations sur l'algorithme de signature utilisé dans la signature.
 
 ```csharp
 public SignatureAlgorithmInfo GetSignatureAlgorithmInfo()
@@ -20,7 +20,9 @@ Une instance de [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signatur
 
 ### Voir aussi
 
-* classe [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
-* classe [Signature](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

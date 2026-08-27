@@ -1,14 +1,14 @@
 ---
-title: Class BT
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.BT. Classe représentant l'opérateur BT Début du bloc de texte
+title: "Classe BT"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.BT classe. Classe représentant l'opérateur BT début du bloc de texte"
 type: docs
-weight: 7130
+weight: 7270
 url: /fr/net/aspose.pdf.operators/bt/
 ---
-## Classe BT
+## BT class
 
-Classe représentant l'opérateur BT (Début du bloc de texte).
+Classe représentant l'opérateur BT (Begin of text block).
 
 ```csharp
 public class BT : BlockTextOperator
@@ -30,12 +30,14 @@ public class BT : BlockTextOperator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bt/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/bt/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/bt/tostring/)() | Produit le code texte de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [BlockTextOperator](../blocktextoperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [BlockTextOperator](../blocktextoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

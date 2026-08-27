@@ -1,14 +1,14 @@
 ---
-title: Class GoToAction
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.GoToAction. Représente une action de saut qui change la vue vers un emplacement de page de destination spécifié et un facteur de grossissement
+title: "Classe GoToAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.GoToAction class. Représente une action de navigation qui modifie la vue vers un emplacement de page de destination spécifié et un facteur de zoom."
 type: docs
-weight: 1830
+weight: 1920
 url: /fr/net/aspose.pdf.annotations/gotoaction/
 ---
-## Classe GoToAction
+## GoToAction class
 
-Représente une action de saut qui change la vue vers une destination spécifiée (page, emplacement et facteur de grossissement).
+Représente une action de navigation qui change la vue vers une destination spécifiée (page, emplacement et facteur d'agrandissement).
 
 ```csharp
 public class GoToAction : PdfAction
@@ -19,9 +19,9 @@ public class GoToAction : PdfAction
 | Nom | Description |
 | --- | --- |
 | [GoToAction](gotoaction/#constructor_1)(ExplicitDestination) | Constructeur. |
-| [GoToAction](gotoaction/#constructor_3)(Page) | Constructeur pour la classe GoToAction. |
-| [GoToAction](gotoaction/#constructor_2)(Document, string) | Action liée à une destination nommée. |
-| [GoToAction](gotoaction/#constructor_4)(Page, ExplicitDestinationType, params double[]) | Constructeur pour la classe GoToAction. |
+| [GoToAction](gotoaction/#constructor_3)(Page) | Constructeur de la classe GoToAction. |
+| [GoToAction](gotoaction/#constructor_2)(Document, string) | Action liée à une Destination nommée. |
+| [GoToAction](gotoaction/#constructor_4)(Page, ExplicitDestinationType, params double[]) | Constructeur de la classe GoToAction. |
 
 ## Propriétés
 
@@ -38,6 +38,8 @@ public class GoToAction : PdfAction
 
 ### Voir aussi
 
-* classe [PdfAction](../pdfaction/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

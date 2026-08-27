@@ -1,12 +1,12 @@
 ---
-title: CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OriginalFontSpecification. Obtient le nom de la police d'origine
+title: "CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OriginalFontSpecification. Obtient le nom de la police d'origine."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/originalfontname/
 ---
-## Propriété CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName
+## CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName property
 
 Obtient le nom de la police d'origine.
 
@@ -16,6 +16,8 @@ public string OriginalFontName { get; }
 
 ### Voir aussi
 
-* classe [OriginalFontSpecification](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [OriginalFontSpecification](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

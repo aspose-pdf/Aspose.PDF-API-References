@@ -1,14 +1,14 @@
 ---
-title: Class TextResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.TextResponse. Représente le contenu textuel qui fait partie d'un message
+title: "Classe TextResponse"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.AI.TextResponse class. Représente le contenu texte qui fait partie d'un message"
 type: docs
-weight: 1100
+weight: 1190
 url: /fr/net/aspose.pdf.ai/textresponse/
 ---
-## Classe TextResponse
+## TextResponse class
 
-Représente le contenu textuel qui fait partie d'un message.
+Représente le contenu texte qui fait partie d'un message.
 
 ```csharp
 public class TextResponse
@@ -29,5 +29,7 @@ public class TextResponse
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Table.RepeatingRowsStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la table. Obtient le style pour les lignes répétées
+title: "Table.RepeatingRowsStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Table. Obtient le style des lignes répétées"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf/table/repeatingrowsstyle/
 ---
-## Propriété Table.RepeatingRowsStyle
+## Table.RepeatingRowsStyle property
 
-Obtient le style pour les lignes répétées
+Obtient le style des lignes répétées
 
 ```csharp
 public TextState RepeatingRowsStyle { get; set; }
@@ -16,7 +16,9 @@ public TextState RepeatingRowsStyle { get; set; }
 
 ### Voir aussi
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [Table](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

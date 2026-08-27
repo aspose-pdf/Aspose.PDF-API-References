@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Tabloid
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier tabloïd 11 po. par 17 po
+title: "PaperSizes.Tabloid"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. papier Tabloid 11 in. par 17 in"
 type: docs
 weight: 1140
 url: /fr/net/aspose.pdf.printing/papersizes/tabloid/
 ---
-## Champ PaperSizes.Tabloid
+## PaperSizes.Tabloid field
 
-Papier tabloïd (11 po. par 17 po.).
+Papier Tabloid (11 po x 17 po).
 
 ```csharp
 public static readonly PaperSize Tabloid;
@@ -16,7 +16,9 @@ public static readonly PaperSize Tabloid;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Operator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operator. Classe abstraite représentant un opérateur
+title: "Classe Operator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operator classe. Classe abstraite représentant un opérateur."
 type: docs
-weight: 7070
+weight: 7210
 url: /fr/net/aspose.pdf/operator/
 ---
-## Classe Operator
+## Operator class
 
 Classe abstraite représentant un opérateur.
 
@@ -26,10 +26,12 @@ public abstract class Operator
 | --- | --- |
 | abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Accepte le visiteur IOperatorSelector qui fournit le traitement des opérateurs. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Détermine si l'opérateur est celui qui est responsable de la sortie de texte (Tj, TJ, etc) |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Détermine si l'opérateur est un opérateur responsable de la sortie de texte (Tj, TJ, etc.). |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

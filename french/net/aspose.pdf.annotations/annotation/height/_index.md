@@ -1,12 +1,12 @@
 ---
-title: Annotation.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'annotation. Obtient ou définit la hauteur de l'annotation
+title: "Annotation.Height"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Annotation. Obtient ou définit la hauteur de l'annotation"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.annotations/annotation/height/
 ---
-## Propriété Annotation.Height
+## Annotation.Height property
 
 Obtient ou définit la hauteur de l'annotation.
 
@@ -16,6 +16,8 @@ public virtual double Height { get; set; }
 
 ### Voir aussi
 
-* classe [Annotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

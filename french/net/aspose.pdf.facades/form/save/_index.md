@@ -1,7 +1,7 @@
 ---
-title: Form.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Enregistre le document dans le fichier spécifié
+title: "Form.Save"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Enregistre le document dans le fichier spécifié."
 type: docs
 weight: 340
 url: /fr/net/aspose.pdf.facades/form/save/
@@ -20,8 +20,8 @@ public override void Save(string destFile)
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -40,6 +40,8 @@ public override void Save(Stream destStream)
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

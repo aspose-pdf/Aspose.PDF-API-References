@@ -1,12 +1,12 @@
 ---
-title: Layer.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Layer. Obtient l'identifiant de la couche
+title: "Layer.Id"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Layer. Obtient l'identifiant du calque"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/layer/id/
 ---
-## Propriété Layer.Id
+## Layer.Id property
 
 Obtient l'identifiant de la couche.
 
@@ -16,6 +16,8 @@ public string Id { get; }
 
 ### Voir aussi
 
-* classe [Layer](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class IncorrectFontUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.IncorrectFontUsageException. L'exception qui est levée lorsque l'utilisation de la police est incorrecte
+title: "Classe IncorrectFontUsageException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.IncorrectFontUsageException. L'exception qui est levée lorsque l'utilisation de la police est incorrecte."
 type: docs
-weight: 5970
+weight: 6100
 url: /fr/net/aspose.pdf/incorrectfontusageexception/
 ---
-## Classe IncorrectFontUsageException
+## IncorrectFontUsageException class
 
 L'exception qui est levée lorsque l'utilisation de la police est incorrecte.
 
@@ -24,6 +24,8 @@ public sealed class IncorrectFontUsageException : InvalidFileFormatException
 
 ### Voir aussi
 
-* classe [InvalidFileFormatException](../invalidfileformatexception/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [InvalidFileFormatException](../invalidfileformatexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

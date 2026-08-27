@@ -1,12 +1,12 @@
 ---
-title: Field.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode de champ. Supprime ce champ et place sa valeur directement sur la page
+title: "Field.Flatten"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Field. Supprime ce champ et place sa valeur directement sur la page."
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf.forms/field/flatten/
 ---
-## Méthode Field.Flatten
+## Field.Flatten method
 
 Supprime ce champ et place sa valeur directement sur la page.
 
@@ -20,6 +20,8 @@ public override void Flatten()
 
 ### Voir aussi
 
-* classe [Field](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Margins.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Marges. Obtient ou définit le haut
+title: "Margins.Top"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Margins. Obtient ou définit le haut"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.devices/margins/top/
 ---
-## Propriété Marges.Haut
+## Margins.Top property
 
 Obtient ou définit le haut.
 
@@ -14,12 +14,14 @@ Obtient ou définit le haut.
 public int Top { get; set; }
 ```
 
-### Valeur de la Propriété
+### Property Value
 
 Le haut.
 
-### Voir Aussi
+### Voir aussi
 
-* classe [Marges](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

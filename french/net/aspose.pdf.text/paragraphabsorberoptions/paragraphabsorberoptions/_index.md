@@ -1,12 +1,12 @@
 ---
-title: ParagraphAbsorberOptions.ParagraphAbsorberOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de ParagraphAbsorberOptions. Le constructeur par défaut
+title: "ParagraphAbsorberOptions.ParagraphAbsorberOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ParagraphAbsorberOptions. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/paragraphabsorberoptions/paragraphabsorberoptions/
 ---
-## Constructeur de ParagraphAbsorberOptions
+## ParagraphAbsorberOptions constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public ParagraphAbsorberOptions()
 
 ### Voir aussi
 
-* classe [ParagraphAbsorberOptions](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [ParagraphAbsorberOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

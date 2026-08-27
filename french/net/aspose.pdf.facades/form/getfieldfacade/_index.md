@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Renvoie un objet FrofmFieldFacade contenant tous les attributs d'apparence
+title: "Form.GetFieldFacade"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Retourne l'objet FrofmFieldFacade contenant tous les attributs d'apparence"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf.facades/form/getfieldfacade/
 ---
-## Méthode Form.GetFieldFacade
+## Form.GetFieldFacade method
 
-Renvoie un objet FrofmFieldFacade contenant tous les attributs d'apparence.
+Renvoie l'objet FrofmFieldFacade contenant tous les attributs d'apparence.
 
 ```csharp
 Aspose.Pdf.Facades.Form form = new Aspose.Pdf.Facades.Form("form.pdf");
@@ -30,7 +30,9 @@ Objet FormFieldFacade
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../../formfieldfacade/)
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

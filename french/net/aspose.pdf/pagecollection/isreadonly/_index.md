@@ -1,14 +1,14 @@
 ---
-title: PageCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageCollection. Obtient la valeur indiquant si la collection est en lecture seule. Renvoie toujours faux
+title: "PageCollection.IsReadOnly"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageCollection. Obtient la valeur indiquant si la collection est en lecture seule. Retourne toujours false"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/pagecollection/isreadonly/
 ---
-## Propriété PageCollection.IsReadOnly
+## PageCollection.IsReadOnly property
 
-Obtient la valeur indiquant si la collection est en lecture seule. Renvoie toujours faux.
+Obtient la valeur indiquant que la collection est en lecture seule. Retourne toujours false.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### Voir aussi
 
-* classe [PageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BaseResponse.Detail
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété BaseResponse. Obtient ou définit le détail de la réponse
+title: "BaseResponse.Detail"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété BaseResponse. Obtient ou définit le détail de la réponse"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/baseresponse/detail/
 ---
-## Propriété BaseResponse.Detail
+## BaseResponse.Detail property
 
 Obtient ou définit le détail de la réponse.
 
@@ -16,6 +16,8 @@ public string Detail { get; set; }
 
 ### Voir aussi
 
-* classe [BaseResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

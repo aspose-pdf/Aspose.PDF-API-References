@@ -1,14 +1,14 @@
 ---
-title: Annotation.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'annotation. Obtient ou définit le rectangle d'annotation
+title: "Annotation.Rect"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Annotation. Obtient ou définit le rectangle de l'annotation"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.annotations/annotation/rect/
 ---
-## Propriété Annotation.Rect
+## Annotation.Rect property
 
-Obtient ou définit le rectangle d'annotation.
+Obtient ou définit le rectangle de l'annotation.
 
 ```csharp
 public virtual Rectangle Rect { get; set; }
@@ -16,7 +16,9 @@ public virtual Rectangle Rect { get; set; }
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [Annotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

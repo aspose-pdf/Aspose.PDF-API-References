@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.VectorStoreModifyRequest. Modifier une demande de magasin vectoriel
+title: "Classe VectorStoreModifyRequest"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.VectorStoreModifyRequest. Modifie une requête de magasin vectoriel"
 type: docs
-weight: 1380
+weight: 1470
 url: /fr/net/aspose.pdf.ai/vectorstoremodifyrequest/
 ---
-## Classe VectorStoreModifyRequest
+## VectorStoreModifyRequest class
 
-Modifier une demande de magasin vectoriel.
+Modifier une requête de magasin de vecteurs.
 
 ```csharp
 public class VectorStoreModifyRequest
@@ -24,11 +24,13 @@ public class VectorStoreModifyRequest
 
 | Nom | Description |
 | --- | --- |
-| [ExpiresAfter](../../aspose.pdf.ai/vectorstoremodifyrequest/expiresafter/) { get; set; } | Obtient ou définit la politique d'expiration pour un magasin vectoriel. |
-| [Metadata](../../aspose.pdf.ai/vectorstoremodifyrequest/metadata/) { get; set; } | Obtient ou définit un ensemble de 16 paires clé-valeur qui peuvent être attachées à un objet. Cela peut être utile pour stocker des informations supplémentaires sur l'objet dans un format structuré. Les clés peuvent avoir une longueur maximale de 64 caractères et les valeurs peuvent avoir une longueur maximale de 512 caractères. |
+| [ExpiresAfter](../../aspose.pdf.ai/vectorstoremodifyrequest/expiresafter/) { get; set; } | Obtient ou définit la politique d'expiration d'un magasin vectoriel. |
+| [Metadata](../../aspose.pdf.ai/vectorstoremodifyrequest/metadata/) { get; set; } | Obtient ou définit un ensemble de 16 paires clé-valeur pouvant être attachées à un objet. Cela peut être utile pour stocker des informations supplémentaires sur l'objet dans un format structuré. Les clés peuvent contenir au maximum 64 caractères et les valeurs au maximum 512 caractères. |
 | [Name](../../aspose.pdf.ai/vectorstoremodifyrequest/name/) { get; set; } | Obtient ou définit le nom du magasin vectoriel. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

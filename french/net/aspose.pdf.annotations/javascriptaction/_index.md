@@ -1,14 +1,14 @@
 ---
-title: Class JavascriptAction
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.JavascriptAction. Classe représentant une action javascript
+title: "Classe JavascriptAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.JavascriptAction classe. Classe représentant une action javascript"
 type: docs
-weight: 1930
+weight: 2020
 url: /fr/net/aspose.pdf.annotations/javascriptaction/
 ---
-## Classe JavascriptAction
+## JavascriptAction class
 
-Classe représentant une action javascript.
+Classe représentant l'action javascript.
 
 ```csharp
 public sealed class JavascriptAction : PdfAction
@@ -35,6 +35,8 @@ public sealed class JavascriptAction : PdfAction
 
 ### Voir aussi
 
-* classe [PdfAction](../pdfaction/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

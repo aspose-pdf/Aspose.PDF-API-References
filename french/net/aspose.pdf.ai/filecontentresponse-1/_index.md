@@ -1,12 +1,12 @@
 ---
-title: Class FileContentResponseT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileContentResponse1T class.
+title: "Classe FileContentResponseT"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.FileContentResponse1T."
 type: docs
-weight: 370
+weight: 390
 url: /fr/net/aspose.pdf.ai/filecontentresponse-1/
 ---
-## Classe FileContentResponse&lt;T&gt;
+## FileContentResponse&lt;T&gt; class
 
 ```csharp
 public class FileContentResponse<T> : BaseResponse
@@ -28,11 +28,13 @@ public class FileContentResponse<T> : BaseResponse
 | [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Obtient ou définit les informations d'erreur. |
 | [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Obtient ou définit les en-têtes de réponse HTTP. |
 | [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Obtient ou définit le code d'état HTTP. |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indique si la réponse a été réussie. |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Obtient la phrase de raison de l'erreur. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indique si la réponse a réussi. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Obtient la phrase de raison d'erreur. |
 
 ### Voir aussi
 
-* classe [BaseResponse](../baseresponse/)
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [BaseResponse](../baseresponse/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

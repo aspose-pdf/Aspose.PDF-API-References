@@ -1,14 +1,14 @@
 ---
-title: Class Document.MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.DocumentMergeOptions. Représente les options pour les méthodes de fusion
+title: "Classe Document.MergeOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.DocumentMergeOptions. Représente les options pour les méthodes Merge"
 type: docs
-weight: 3830
+weight: 3950
 url: /fr/net/aspose.pdf/document.mergeoptions/
 ---
-## Classe Document.MergeOptions
+## Document.MergeOptions class
 
-Représente les options pour les méthodes de fusion.
+Représente les options pour les méthodes Merge.
 
 ```csharp
 public class MergeOptions
@@ -24,11 +24,13 @@ public class MergeOptions
 
 | Nom | Description |
 | --- | --- |
-| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | Obtient et définit l'exigence d'équilibrage de l'arbre des pages. L'ensemble de l'arbre des pages dans le document résultant sera rééquilibré. Cela crée un arbre de pages équilibré pour accélérer l'accès aux pages. |
-| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | Obtient et définit le nombre maximum de nœuds dans le niveau de l'arbre des pages. Par défaut, c'est 10. |
+| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | Obtient et définit le besoin d'équilibrage de l'arbre page. L'arbre page complet du document résultant sera rééquilibré. Il crée un arbre de pages équilibré pour accélérer l'accès aux pages. |
+| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | Obtient et définit le nombre maximal de nœuds au niveau de l'arbre pages. La valeur par défaut est 10. |
 
 ### Voir aussi
 
-* classe [Document](../document/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

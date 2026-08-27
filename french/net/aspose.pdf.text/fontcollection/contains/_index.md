@@ -1,7 +1,7 @@
 ---
-title: FontCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FontCollection. Vérifie si la police existe dans la collection de polices
+title: "FontCollection.Contains"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FontCollection. Vérifie si la police existe dans la collection de polices"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.text/fontcollection/contains/
@@ -16,7 +16,7 @@ public bool Contains(string name)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| name | String | Nom de la police. |
+| nom | String | Nom de police. |
 
 ### Valeur de retour
 
@@ -24,8 +24,8 @@ Vrai si la collection contient la police avec le nom spécifié.
 
 ### Voir aussi
 
-* classe [FontCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -44,11 +44,13 @@ public bool Contains(Font item)
 
 ### Valeur de retour
 
-vrai si l'élément est trouvé dans la collection ; sinon, faux.
+true si l'élément est trouvé dans la collection ; sinon, false.
 
 ### Voir aussi
 
-* classe [Font](../../font/)
-* classe [FontCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

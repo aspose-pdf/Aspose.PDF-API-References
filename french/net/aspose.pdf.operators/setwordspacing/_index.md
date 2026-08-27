@@ -1,12 +1,12 @@
 ---
-title: Class SetWordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetWordSpacing. Classe représentant l'opérateur Tw pour définir l'espacement des mots
+title: "Classe SetWordSpacing"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.SetWordSpacing classe. Classe représentant l'opérateur Tw définissant l'espacement des mots"
 type: docs
-weight: 7860
+weight: 8000
 url: /fr/net/aspose.pdf.operators/setwordspacing/
 ---
-## Classe SetWordSpacing
+## SetWordSpacing class
 
 Classe représentant l'opérateur Tw (définir l'espacement des mots).
 
@@ -31,12 +31,14 @@ public class SetWordSpacing : TextStateOperator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setwordspacing/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/setwordspacing/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [TextStateOperator](../textstateoperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

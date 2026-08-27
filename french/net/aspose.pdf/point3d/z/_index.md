@@ -1,12 +1,12 @@
 ---
-title: Point3D.Z
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Point3D. Valeur de la coordonnée Z
+title: "Point3D.Z"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Point3D. Valeur de la coordonnée Z"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/point3d/z/
 ---
-## Propriété Point3D.Z
+## Point3D.Z property
 
 Valeur de la coordonnée Z.
 
@@ -16,6 +16,8 @@ public double Z { get; set; }
 
 ### Voir aussi
 
-* classe [Point3D](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Point3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

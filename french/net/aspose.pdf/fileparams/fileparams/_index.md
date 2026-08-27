@@ -1,14 +1,14 @@
 ---
-title: FileParams.FileParams
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FileParams. Constructeur de la classe FileParams
+title: "FileParams.FileParams"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FileParams. Constructeur pour la classe FileParams."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/fileparams/fileparams/
 ---
-## Constructeur de FileParams
+## FileParams constructor
 
-Constructeur de la classe FileParams.
+Constructeur pour la classe FileParams.
 
 ```csharp
 public FileParams(FileSpecification spec)
@@ -16,11 +16,13 @@ public FileParams(FileSpecification spec)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| spec | FileSpecification | Spécification du fichier. |
+| spéc | FileSpecification | Spécification du fichier. |
 
 ### Voir aussi
 
-* classe [FileSpecification](../../filespecification/)
-* classe [FileParams](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../../filespecification/)
+* class [FileParams](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

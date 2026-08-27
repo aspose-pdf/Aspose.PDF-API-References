@@ -1,14 +1,14 @@
 ---
-title: TextState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextState. Obtient ou définit l'exposant du texte
+title: "TextState.Subscript"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextState. Obtient ou définit l'indice du texte."
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.text/textstate/subscript/
 ---
-## Propriété TextState.Subscript
+## TextState.Subscript property
 
-Obtient ou définit l'exposant du texte.
+Obtient ou définit le texte en indice.
 
 ```csharp
 public virtual bool Subscript { get; set; }
@@ -16,6 +16,8 @@ public virtual bool Subscript { get; set; }
 
 ### Voir aussi
 
-* classe [TextState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TocInfo.CopyToOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TocInfo. Obtient ou définit si la table des matières est copiée dans les contours
+title: "TocInfo.CopyToOutlines"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TocInfo. Obtient ou définit si la table des matières est copiée dans les repères"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/tocinfo/copytooutlines/
 ---
-## Propriété TocInfo.CopyToOutlines
+## TocInfo.CopyToOutlines property
 
-Obtient ou définit si la table des matières est copiée dans les contours.
+Obtient ou définit si la TOC est copiée dans les signets.
 
 ```csharp
 public bool CopyToOutlines { get; set; }
@@ -16,6 +16,8 @@ public bool CopyToOutlines { get; set; }
 
 ### Voir aussi
 
-* classe [TocInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

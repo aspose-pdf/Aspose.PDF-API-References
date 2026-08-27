@@ -1,12 +1,12 @@
 ---
-title: Class IncorrectCMapUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.IncorrectCMapUsageException. L'exception qui est levée lorsque l'utilisation de la police est incorrecte
+title: "Classe IncorrectCMapUsageException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.IncorrectCMapUsageException. L'exception qui est levée lorsque l'utilisation de la police est incorrecte"
 type: docs
-weight: 5960
+weight: 6090
 url: /fr/net/aspose.pdf/incorrectcmapusageexception/
 ---
-## Classe IncorrectCMapUsageException
+## IncorrectCMapUsageException class
 
 L'exception qui est levée lorsque l'utilisation de la police est incorrecte.
 
@@ -22,6 +22,8 @@ public sealed class IncorrectCMapUsageException : PdfException
 
 ### Voir aussi
 
-* classe [PdfException](../pdfexception/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

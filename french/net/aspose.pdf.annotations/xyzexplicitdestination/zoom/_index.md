@@ -1,12 +1,12 @@
 ---
-title: XYZExplicitDestination.Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XYZExplicitDestination. Obtient le facteur de zoom
+title: "XYZExplicitDestination.Zoom"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XYZExplicitDestination. Obtient le facteur de zoom"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.annotations/xyzexplicitdestination/zoom/
 ---
-## Propriété XYZExplicitDestination.Zoom
+## XYZExplicitDestination.Zoom property
 
 Obtient le facteur de zoom.
 
@@ -16,6 +16,8 @@ public double Zoom { get; }
 
 ### Voir aussi
 
-* classe [XYZExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

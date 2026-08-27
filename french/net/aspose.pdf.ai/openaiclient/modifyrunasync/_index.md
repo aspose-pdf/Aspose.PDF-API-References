@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.ModifyRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIClient. Modifie une exécution existante dans un fil de manière asynchrone
+title: "OpenAIClient.ModifyRunAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAIClient. Modifie une exécution existante au sein d'un thread de manière asynchrone"
 type: docs
-weight: 400
+weight: 410
 url: /fr/net/aspose.pdf.ai/openaiclient/modifyrunasync/
 ---
-## Méthode OpenAIClient.ModifyRunAsync
+## OpenAIClient.ModifyRunAsync method
 
-Modifie une exécution existante dans un fil de manière asynchrone.
+Modifie une exécution existante dans un fil de discussion de manière asynchrone.
 
 ```csharp
 public Task<RunResponse> ModifyRunAsync(string threadId, string runId, 
@@ -19,7 +19,7 @@ public Task<RunResponse> ModifyRunAsync(string threadId, string runId,
 | --- | --- | --- |
 | threadId | String | L'ID du fil contenant l'exécution. |
 | runId | String | L'ID de l'exécution à modifier. |
-| assistantModifyRequest | RunModifyRequest | Les détails de la demande pour modifier l'exécution. |
+| assistantModifyRequest | RunModifyRequest | Les détails de la requête pour modifier l'exécution. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
 ### Valeur de retour
@@ -30,13 +30,15 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du fil est nul ou vide. |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID de l'exécution est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du fil est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID de l'exécution est nul ou vide. |
 
 ### Voir aussi
 
-* classe [RunResponse](../../runresponse/)
-* classe [RunModifyRequest](../../runmodifyrequest/)
-* classe [OpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunResponse](../../runresponse/)
+* class [RunModifyRequest](../../runmodifyrequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

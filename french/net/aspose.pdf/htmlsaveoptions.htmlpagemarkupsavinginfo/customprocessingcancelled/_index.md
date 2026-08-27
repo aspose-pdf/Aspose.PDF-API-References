@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlPageMarkupSavingInfo.CustomProcessingCancelled
-second_title: Aspose.PDF for .NET API Reference
-description: Champ HtmlPageMarkupSavingInfo. Doit être défini dans le code personnalisé si nécessaire. Ce drapeau doit être défini sur true dans le code personnalisé si, pour une raison quelconque, le htmlmarkup fourni doit être traité non pas avec le code personnalisé mais avec le code du convertisseur lui-même de manière standard pour le convertisseur. Ainsi, définir ce drapeau dans le code personnalisé signifie que le code personnalisé n'a pas traité le fichier référencé et que le convertisseur doit le gérer lui-même.
+title: "HtmlSaveOptions.HtmlPageMarkupSavingInfo.CustomProcessingCancelled"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ HtmlPageMarkupSavingInfo. Doit être défini dans le code personnalisé lorsque nécessaire. Ce drapeau doit être mis à true dans le code personnalisé si, pour certaines raisons, le balisage HTML fourni doit être traité non pas par le code personnalisé mais par le code du convertisseur lui‑même de manière standard. Ainsi, définir ce drapeau dans le code personnalisé signifie que le code personnalisé n'a pas traité le fichier référencé et que le convertisseur doit le gérer lui‑même."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/customprocessingcancelled/
 ---
-## Champ HtmlSaveOptions.HtmlPageMarkupSavingInfo.CustomProcessingCancelled
+## HtmlSaveOptions.HtmlPageMarkupSavingInfo.CustomProcessingCancelled field
 
-Doit être défini dans le code personnalisé si nécessaire. Ce drapeau doit être défini sur "true" dans le code personnalisé si, pour une raison quelconque, le html-markup fourni doit être traité non pas avec le code personnalisé mais avec le code du convertisseur lui-même de manière standard pour le convertisseur. Ainsi, définir ce drapeau dans le code personnalisé signifie que le code personnalisé n'a pas traité le fichier référencé et que le convertisseur doit le gérer lui-même.
+Doit être défini dans le code personnalisé lorsque nécessaire. Ce drapeau doit être réglé sur "true" dans le code personnalisé si, pour certaines raisons, le balisage HTML fourni doit être traité non pas par le code personnalisé mais par le code du convertisseur lui‑même de manière standard. Ainsi, définir ce drapeau dans le code personnalisé indique que le code personnalisé n’a pas traité le fichier référencé et que le convertisseur doit le gérer lui‑même.
 
 ```csharp
 public bool CustomProcessingCancelled;
@@ -16,6 +16,8 @@ public bool CustomProcessingCancelled;
 
 ### Voir aussi
 
-* classe [HtmlPageMarkupSavingInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlPageMarkupSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

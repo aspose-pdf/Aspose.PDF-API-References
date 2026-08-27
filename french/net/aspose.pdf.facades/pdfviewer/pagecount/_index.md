@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PageCount
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfViewer. Obtient le nombre de pages du fichier Pdf actuel
+title: "PdfViewer.PageCount"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfViewer propriété. Obtient le nombre de pages du fichier Pdf actuel"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.facades/pdfviewer/pagecount/
 ---
-## Propriété PdfViewer.PageCount
+## PdfViewer.PageCount property
 
-Obtient le nombre de pages du fichier Pdf actuel.
+Obtient le nombre de pages du fichier PDF actuel.
 
 ```csharp
 public int PageCount { get; }
@@ -16,10 +16,12 @@ public int PageCount { get; }
 
 ### Valeur de retour
 
-retourne le nombre de pages.
+renvoie le nombre de pages.
 
 ### Voir aussi
 
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

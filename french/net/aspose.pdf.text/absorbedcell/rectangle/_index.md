@@ -1,14 +1,14 @@
 ---
-title: AbsorbedCell.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété AbsorbedCell. Obtient le rectangle qui décrit la position de la cellule sur la page
+title: "AbsorbedCell.Rectangle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété AbsorbedCell. Obtient le rectangle qui décrit la position de la cellule sur la page"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/absorbedcell/rectangle/
 ---
-## Propriété AbsorbedCell.Rectangle
+## AbsorbedCell.Rectangle property
 
-Obtient le rectangle qui décrit la position de la cellule sur la page
+Obtient le rectangle qui décrit la position de la cellule sur la page.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [AbsorbedCell](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [AbsorbedCell](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

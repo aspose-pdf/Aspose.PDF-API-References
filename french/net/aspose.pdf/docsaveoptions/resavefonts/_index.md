@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.ReSaveFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocSaveOptions. Obtient ou définit la procédure de réenregistrement des polices. Si défini sur vrai, nous rechargeons les polices sur chaque page pour éviter l'influence des propriétés de police précédentes et charger la nouvelle police créée à partir de zéro. Définissez cette option sur faux si vous souhaitez améliorer les performances. La valeur par défaut est vrai
+title: "DocSaveOptions.ReSaveFonts"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocSaveOptions. Obtient ou définit la procédure de réenregistrement des polices. Si elle est définie sur true, nous rechargeons les polices à chaque page pour éviter l’influence des propriétés de police précédentes et charger la police nouvellement créée à partir de zéro. Réglez cette option sur false si vous souhaitez améliorer les performances. La valeur par défaut est true."
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/docsaveoptions/resavefonts/
 ---
-## Propriété DocSaveOptions.ReSaveFonts
+## DocSaveOptions.ReSaveFonts property
 
-Obtient ou définit la procédure de réenregistrement des polices. Si défini sur vrai, nous rechargeons les polices sur chaque page pour éviter l'influence des propriétés de police précédentes et charger la nouvelle police créée à partir de zéro. Définissez cette option sur faux si vous souhaitez améliorer les performances. La valeur par défaut est vrai;
+Obtient ou définit la procédure de réenregistrement des polices. Si elle est définie sur true, nous rechargeons les polices à chaque page pour éviter l'influence des propriétés de police précédentes et charger la police nouvellement créée à partir de zéro. Définissez cette option sur false si vous souhaitez améliorer les performances. La valeur par défaut est true ;
 
 ```csharp
 public bool ReSaveFonts { get; set; }
@@ -16,6 +16,8 @@ public bool ReSaveFonts { get; set; }
 
 ### Voir aussi
 
-* classe [DocSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

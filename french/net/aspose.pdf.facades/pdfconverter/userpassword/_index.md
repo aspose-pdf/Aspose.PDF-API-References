@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.UserPassword
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfConverter. Obtient ou définit le mot de passe utilisateur du document
+title: "PdfConverter.UserPassword"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfConverter. Obtient ou définit le UserPassword du document"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.facades/pdfconverter/userpassword/
 ---
-## Propriété PdfConverter.UserPassword
+## PdfConverter.UserPassword property
 
-Obtient ou définit le mot de passe utilisateur du document.
+Obtient ou définit le UserPassword du document.
 
 ```csharp
 public string UserPassword { get; set; }
@@ -16,6 +16,8 @@ public string UserPassword { get; set; }
 
 ### Voir aussi
 
-* classe [PdfConverter](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

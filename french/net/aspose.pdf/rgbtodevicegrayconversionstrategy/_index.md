@@ -1,14 +1,14 @@
 ---
-title: Class RgbToDeviceGrayConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.RgbToDeviceGrayConversionStrategy. Représente la stratégie de conversion des espaces colorimétriques rgb en gris de périphérique
+title: "Classe RgbToDeviceGrayConversionStrategy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.RgbToDeviceGrayConversionStrategy. Représente la stratégie de conversion des espaces colorimétriques rgb vers le gris dispositif"
 type: docs
-weight: 9800
+weight: 9950
 url: /fr/net/aspose.pdf/rgbtodevicegrayconversionstrategy/
 ---
-## Classe RgbToDeviceGrayConversionStrategy
+## RgbToDeviceGrayConversionStrategy class
 
-Représente la stratégie de conversion des espaces colorimétriques rgb en gris de périphérique.
+Représente la stratégie de conversion des espaces colorimétriques rgb vers gris du dispositif.
 
 ```csharp
 public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
@@ -31,3 +31,5 @@ public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
 * interface [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

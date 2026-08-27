@@ -1,14 +1,14 @@
 ---
-title: PageDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PageDevice. Effectue une opération sur la page donnée, par exemple, convertit la page en image graphique
+title: "PageDevice.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PageDevice. Effectue une opération sur la page donnée, par ex. convertit la page en image graphique"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.devices/pagedevice/process/
 ---
 ## Process(Page, Stream) {#process}
 
-Effectue une opération sur la page donnée, par exemple, convertit la page en image graphique.
+Effectue une opération sur la page donnée, par ex. convertit la page en image graphique.
 
 ```csharp
 public abstract void Process(Page page, Stream output)
@@ -21,9 +21,9 @@ public abstract void Process(Page page, Stream output)
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [PageDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Page](../../../aspose.pdf/page/)
+* class [PageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -43,7 +43,9 @@ public void Process(Page page, string outputFileName)
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [PageDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Page](../../../aspose.pdf/page/)
+* class [PageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Facade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode de façade. Initialise la façade
+title: "Facade.BindPdf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Facade. Initialise la façade"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/facade/bindpdf/
@@ -64,3 +64,5 @@ public virtual void BindPdf(Document srcDoc)
 * class [Facade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

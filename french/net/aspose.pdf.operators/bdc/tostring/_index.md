@@ -1,12 +1,12 @@
 ---
-title: BDC.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode BDC. Renvoie la représentation textuelle de l'opérateur
+title: "BDC.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode BDC. Retourne la représentation textuelle de l'opérateur"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.operators/bdc/tostring/
 ---
-## Méthode BDC.ToString
+## BDC.ToString method
 
 Renvoie la représentation textuelle de l'opérateur.
 
@@ -20,6 +20,8 @@ Représentation textuelle de l'opérateur.
 
 ### Voir aussi
 
-* classe [BDC](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

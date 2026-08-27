@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowCopy
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentPrivilege. Définit la permission qui permet de copier ou non. true permet et false interdit
+title: "DocumentPrivilege.AllowCopy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentPrivilege. Définit l'autorisation qui permet la copie ou non. true signifie autorisé et false signifie interdit"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.facades/documentprivilege/allowcopy/
 ---
-## Propriété DocumentPrivilege.AllowCopy
+## DocumentPrivilege.AllowCopy property
 
-Définit la permission qui permet de copier ou non. true permet et false interdit.
+Définit la permission qui autorise la copie ou non. true signifie autorisé et false signifie interdit.
 
 ```csharp
 public bool AllowCopy { get; set; }
@@ -16,6 +16,8 @@ public bool AllowCopy { get; set; }
 
 ### Voir aussi
 
-* classe [DocumentPrivilege](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

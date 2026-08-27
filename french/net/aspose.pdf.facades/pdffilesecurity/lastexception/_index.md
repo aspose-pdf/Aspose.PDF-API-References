@@ -1,12 +1,12 @@
 ---
-title: PdfFileSecurity.LastException
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileSecurity. Renvoie l'exception qui a été levée par la dernière opération
+title: "PdfFileSecurity.LastException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFileSecurity. Retourne l'exception qui a été levée lors de la dernière opération."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/pdffilesecurity/lastexception/
 ---
-## Propriété PdfFileSecurity.LastException
+## PdfFileSecurity.LastException property
 
 Renvoie l'exception qui a été levée par la dernière opération.
 
@@ -16,6 +16,8 @@ public Exception LastException { get; }
 
 ### Voir aussi
 
-* classe [PdfFileSecurity](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

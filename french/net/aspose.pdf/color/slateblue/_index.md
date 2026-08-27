@@ -1,12 +1,12 @@
 ---
-title: Color.SlateBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de couleur. Obtient une couleur définie par le système qui a une valeur ARGB de c FF6A5ACD
+title: "Color.SlateBlue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Color propriété. Obtient une couleur définie par le système dont la valeur ARGB est c FF6A5ACD"
 type: docs
 weight: 1260
 url: /fr/net/aspose.pdf/color/slateblue/
 ---
-## Propriété Color.SlateBlue
+## Color.SlateBlue property
 
 Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF6A5ACD.
 
@@ -16,10 +16,12 @@ public static Color SlateBlue { get; }
 
 ### Valeur de retour
 
-Un représentant une couleur définie par le système.
+A représentant une couleur définie par le système.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class LineInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.LineInfo. Représente les informations d'une ligne
+title: "Classe LineInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Facades.LineInfo. Représente les informations d'une ligne"
 type: docs
-weight: 4400
+weight: 4520
 url: /fr/net/aspose.pdf.facades/lineinfo/
 ---
-## Classe LineInfo
+## LineInfo class
 
-Représente les informations d'une ligne.
+Représente les informations de la ligne.
 
 ```csharp
 public sealed class LineInfo
@@ -24,7 +24,7 @@ public sealed class LineInfo
 
 | Nom | Description |
 | --- | --- |
-| [BorderStyle](../../aspose.pdf.facades/lineinfo/borderstyle/) { get; set; } | Obtient ou définit le style de bordure d'une ligne, 0 représente solide, 1 représente en pointillé, 2 représente biseauté, 3 représente inséré, 4 représente souligné. |
+| [BorderStyle](../../aspose.pdf.facades/lineinfo/borderstyle/) { get; set; } | Obtient ou définit le style de bordure d'une ligne, 0 représente plein, 1 représente en pointillé, 2 représente biseauté, 3 représente inséré, 4 représente souligné. |
 | [LineColor](../../aspose.pdf.facades/lineinfo/linecolor/) { get; set; } | Obtient ou définit la couleur d'une ligne. |
 | [LineDashPattern](../../aspose.pdf.facades/lineinfo/linedashpattern/) { get; set; } | Obtient ou définit le motif de tirets d'une ligne. |
 | [LineWidth](../../aspose.pdf.facades/lineinfo/linewidth/) { get; set; } | Obtient ou définit la largeur d'une ligne. |
@@ -33,5 +33,7 @@ public sealed class LineInfo
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

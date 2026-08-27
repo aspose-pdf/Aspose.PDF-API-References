@@ -1,14 +1,14 @@
 ---
-title: Graph.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Graph. Obtient ou définit la coordonnée du haut de la table
+title: "Graph.Top"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Graph. Obtient ou définit la coordonnée supérieure du tableau"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.drawing/graph/top/
 ---
-## Propriété Graph.Top
+## Graph.Top property
 
-Obtient ou définit la coordonnée du haut de la table.
+Obtient ou définit la coordonnée supérieure du tableau.
 
 ```csharp
 public double Top { get; set; }
@@ -16,6 +16,8 @@ public double Top { get; set; }
 
 ### Voir aussi
 
-* classe [Graph](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

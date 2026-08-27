@@ -1,14 +1,14 @@
 ---
-title: FontSubstitutionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FontSubstitutionCollection. Efface la collection de substitution de polices
+title: "FontSubstitutionCollection.Clear"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FontSubstitutionCollection. Vide la collection de substitution de police"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.text/fontsubstitutioncollection/clear/
 ---
-## Méthode FontSubstitutionCollection.Clear
+## FontSubstitutionCollection.Clear method
 
-Efface la collection de substitution de polices.
+Efface la collection de substitution de police.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Voir aussi
 
-* classe [FontSubstitutionCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

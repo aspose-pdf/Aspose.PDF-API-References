@@ -1,14 +1,14 @@
 ---
-title: SetColorOperator.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SetColorOperator. Retourne la couleur spécifiée par l'opérateur
+title: "SetColorOperator.getColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode SetColorOperator. Retourne la couleur spécifiée par l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/setcoloroperator/getcolor/
 ---
-## Méthode SetColorOperator.getColor
+## SetColorOperator.getColor method
 
-Retourne la couleur spécifiée par l'opérateur.
+Renvoie la couleur spécifiée par l'opérateur.
 
 ```csharp
 public abstract Color getColor()
@@ -20,6 +20,8 @@ Couleur spécifiée par l'opérateur.
 
 ### Voir aussi
 
-* classe [SetColorOperator](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

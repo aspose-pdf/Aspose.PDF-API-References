@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Trapped
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentInfo. Obtient ou définit le drapeau piégé
+title: "DocumentInfo.Trapped"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentInfo. Obtient ou définit le drapeau trapped"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/documentinfo/trapped/
 ---
-## Propriété DocumentInfo.Trapped
+## DocumentInfo.Trapped property
 
-Obtient ou définit le drapeau piégé.
+Obtient ou définit le drapeau de piégeage.
 
 ```csharp
 public string Trapped { get; set; }
@@ -16,6 +16,8 @@ public string Trapped { get; set; }
 
 ### Voir aussi
 
-* classe [DocumentInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

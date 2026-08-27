@@ -1,7 +1,7 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIImageDescriptionCopilotOptions. Crée une nouvelle instance de OpenAIImageDescriptionCopilotOptions
+title: "OpenAIImageDescriptionCopilotOptions.Create"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OpenAIImageDescriptionCopilotOptions méthode. Crée une nouvelle instance de OpenAIImageDescriptionCopilotOptions"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/
@@ -20,8 +20,8 @@ Une nouvelle instance de [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -45,6 +45,8 @@ L'instance configurée de [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

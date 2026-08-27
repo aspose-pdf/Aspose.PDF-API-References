@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextSegmentCollection. Obtient une valeur indiquant si l'accès à la collection est synchronisé et sécurisé pour les threads
+title: "TextSegmentCollection.IsSynchronized"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextSegmentCollection. Obtient une valeur indiquant si l'accès à la collection est synchronisé thread-safe"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/textsegmentcollection/issynchronized/
 ---
-## Propriété TextSegmentCollection.IsSynchronized
+## TextSegmentCollection.IsSynchronized property
 
-Obtient une valeur indiquant si l'accès à la collection est synchronisé (sécurisé pour les threads).
+Obtient une valeur indiquant si l'accès à la collection est synchronisé (thread safe).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Voir aussi
 
-* classe [TextSegmentCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

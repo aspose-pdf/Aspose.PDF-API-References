@@ -1,14 +1,14 @@
 ---
-title: Class FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FileSaveTarget. Représente la cible de sauvegarde de fichier pour un plugin
+title: "Classe FileSaveTarget"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.FileSaveTarget. Représente la cible de sauvegarde de fichier pour un plugin"
 type: docs
-weight: 8570
+weight: 8700
 url: /fr/net/aspose.pdf.plugins/filesavetarget/
 ---
-## Classe FileSaveTarget
+## FileSaveTarget class
 
-Représente la cible de sauvegarde de fichier pour un plugin.
+Représente la cible d'enregistrement du fichier pour un plugin.
 
 ```csharp
 public class FileSaveTarget : ISaveTarget
@@ -24,7 +24,7 @@ public class FileSaveTarget : ISaveTarget
 
 | Nom | Description |
 | --- | --- |
-| [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | Obtient le chemin vers le fichier de la cible de sauvegarde actuelle. |
+| [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | Obtient le chemin du fichier de la cible de sauvegarde actuelle. |
 | [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | Type de la cible de sauvegarde (fichier). |
 
 ### Voir aussi
@@ -32,3 +32,5 @@ public class FileSaveTarget : ISaveTarget
 * interface [ISaveTarget](../isavetarget/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

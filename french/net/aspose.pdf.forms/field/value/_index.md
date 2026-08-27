@@ -1,12 +1,12 @@
 ---
-title: Field.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Field. Obtient ou définit la valeur du champ
+title: "Field.Value"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété du champ. Obtient ou définit la valeur du champ"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.forms/field/value/
 ---
-## Propriété Field.Value
+## Field.Value property
 
 Obtient ou définit la valeur du champ.
 
@@ -16,6 +16,8 @@ public virtual string Value { get; set; }
 
 ### Voir aussi
 
-* classe [Field](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

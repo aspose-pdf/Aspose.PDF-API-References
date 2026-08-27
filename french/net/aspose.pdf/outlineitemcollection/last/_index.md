@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Last
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineItemCollection. Obtient l'élément de plan représentant le dernier élément de niveau supérieur dans la hiérarchie du plan
+title: "OutlineItemCollection.Last"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection propriété. Obtient l'élément de plan représentant le dernier élément de niveau supérieur dans la hiérarchie du plan"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/outlineitemcollection/last/
 ---
-## Propriété OutlineItemCollection.Last
+## OutlineItemCollection.Last property
 
 Obtient l'élément de plan représentant le dernier élément de niveau supérieur dans la hiérarchie du plan.
 
@@ -16,6 +16,8 @@ public OutlineItemCollection Last { get; }
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

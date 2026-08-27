@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Style d'alignement indéfini
+title: "FormFieldFacade.AlignUndefined"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade champ. Style d'alignement indéfini"
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf.facades/formfieldfacade/alignundefined/
 ---
-## Champ FormFieldFacade.AlignUndefined
+## FormFieldFacade.AlignUndefined field
 
-Style d'alignement indéfini.
+Style d'alignement non défini.
 
 ```csharp
 public const int AlignUndefined;
@@ -16,6 +16,8 @@ public const int AlignUndefined;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ParagraphAbsorber.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ParagraphAbsorber. Obtient ou définit les TextReplaceOptions
+title: "ParagraphAbsorber.TextReplaceOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ParagraphAbsorber. Obtient ou définit les TextReplaceOptions"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.text/paragraphabsorber/textreplaceoptions/
 ---
-## Propriété ParagraphAbsorber.TextReplaceOptions
+## ParagraphAbsorber.TextReplaceOptions property
 
 Obtient ou définit les TextReplaceOptions.
 
@@ -16,7 +16,9 @@ public TextReplaceOptions TextReplaceOptions { get; set; }
 
 ### Voir aussi
 
-* classe [TextReplaceOptions](../../textreplaceoptions/)
-* classe [ParagraphAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextReplaceOptions](../../textreplaceoptions/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

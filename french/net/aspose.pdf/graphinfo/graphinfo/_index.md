@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur GraphInfo. Le constructeur par défaut
+title: "GraphInfo.GraphInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur GraphInfo. Le constructeur par défaut."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/graphinfo/graphinfo/
 ---
-## Constructeur GraphInfo
+## GraphInfo constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public GraphInfo()
 
 ### Voir aussi
 
-* classe [GraphInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfFileStamp.AddFooter
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileStamp. Ajoute un pied de page aux pages du document
+title: "PdfFileStamp.AddFooter"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileStamp. Ajoute un pied de page aux pages du document"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.facades/pdffilestamp/addfooter/
@@ -17,7 +17,7 @@ public void AddFooter(FormattedText formattedText, float bottomMargin)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | formattedText | FormattedText | Objet FormattedText qui contient le texte du pied de page et les propriétés du texte. |
-| bottomMargin | Single | Marge en bas de la page. |
+| bottomMargin | Single | Marge en haut de la page. |
 
 ## Exemples
 
@@ -28,9 +28,9 @@ stamp.AddFooter(new FormattedText("Foot of the page"), 10);
 
 ### Voir aussi
 
-* classe [FormattedText](../../formattedtext/)
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -48,8 +48,8 @@ public void AddFooter(FormattedText formattedText, float bottomMargin, float lef
 | --- | --- | --- |
 | formattedText | FormattedText | Objet FormattedText qui contient le texte du pied de page et les propriétés du texte. |
 | bottomMargin | Single | Marge en bas de la page. |
-| leftMargin | Single | Marge sur le côté gauche de la page. |
-| rightMargin | Single | Marge sur le côté droit de la page. |
+| leftMargin | Single | Marge du côté gauche de la page. |
+| rightMargin | Single | Marge du côté droit de la page. |
 
 ## Exemples
 
@@ -60,16 +60,16 @@ stamp.AddFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 
 ### Voir aussi
 
-* classe [FormattedText](../../formattedtext/)
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(string, float) {#addfooter_4}
 
-Ajoute une image comme pied de page aux pages du document.
+Ajoute une image en pied de page aux pages du document.
 
 ```csharp
 public void AddFooter(string imageFile, float bottomMargin)
@@ -91,15 +91,15 @@ fileStamp.Close();
 
 ### Voir aussi
 
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(string, float, float, float) {#addfooter_5}
 
-Ajoute une image comme pied de page des pages.
+Ajoute une image en pied de page des pages.
 
 ```csharp
 public void AddFooter(string imageFile, float bottomMargin, float leftMargin, float rightMargin)
@@ -107,10 +107,10 @@ public void AddFooter(string imageFile, float bottomMargin, float leftMargin, fl
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| imageFile | String | Nom et chemin du fichier image. |
+| imageFile | String | Nom et chemin du fichier Iamge. |
 | bottomMargin | Single | Marge en bas de la page. |
-| leftMargin | Single | Marge sur le côté gauche de la page. |
-| rightMargin | Single | Marge sur le côté droit de la page. |
+| leftMargin | Single | Marge du côté gauche de la page. |
+| rightMargin | Single | Marge du côté droit de la page. |
 
 ## Exemples
 
@@ -123,15 +123,15 @@ fileStamp.Close();
 
 ### Voir aussi
 
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(Stream, float) {#addfooter_2}
 
-Ajoute une image comme pied de page de la page.
+Ajoute une image en pied de page de la page.
 
 ```csharp
 public void AddFooter(Stream imageStream, float bottomMargin)
@@ -153,15 +153,15 @@ fileStamp.Close();
 
 ### Voir aussi
 
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(Stream, float, float, float) {#addfooter_3}
 
-Ajoute une image comme pied de page de la page.
+Ajoute une image en pied de page de la page.
 
 ```csharp
 public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, float rightMargin)
@@ -171,8 +171,8 @@ public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, 
 | --- | --- | --- |
 | imageStream | Stream | Le flux contient les données de l'image. |
 | bottomMargin | Single | Marge en bas de la page. |
-| leftMargin | Single | Marge sur le côté gauche de la page. |
-| rightMargin | Single | Marge sur le côté droit de la page. |
+| leftMargin | Single | Marge du côté gauche de la page. |
+| rightMargin | Single | Marge du côté droit de la page. |
 
 ## Exemples
 
@@ -185,6 +185,8 @@ fileStamp.Close();
 
 ### Voir aussi
 
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

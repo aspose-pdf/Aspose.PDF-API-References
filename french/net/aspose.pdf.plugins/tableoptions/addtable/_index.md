@@ -1,14 +1,14 @@
 ---
-title: TableOptions.AddTable
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TableOptions. Ajout de table au document
+title: "TableOptions.AddTable"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "TableOptions méthode. Ajout du tableau au document"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/tableoptions/addtable/
 ---
-## Méthode TableOptions.AddTable
+## TableOptions.AddTable method
 
-Ajout de table au document.
+Ajout d'une table au document.
 
 ```csharp
 public TableBuilder AddTable()
@@ -20,7 +20,9 @@ Nouvelle instance de [`TableBuilder`](../../tablebuilder/).
 
 ### Voir aussi
 
-* classe [TableBuilder](../../tablebuilder/)
-* classe [TableOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [TableBuilder](../../tablebuilder/)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

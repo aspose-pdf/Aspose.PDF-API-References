@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilot.OpenAIChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur OpenAIChatCopilot. Initialise une nouvelle instance de la classe OpenAIChatCopilot avec le client et les options spécifiés
+title: "OpenAIChatCopilot.OpenAIChatCopilot"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur OpenAIChatCopilot. Initialise une nouvelle instance de la classe OpenAIChatCopilot avec le client et les options spécifiés."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/openaichatcopilot/openaichatcopilot/
 ---
-## Constructeur OpenAIChatCopilot
+## OpenAIChatCopilot constructor
 
 Initialise une nouvelle instance de la classe [`OpenAIChatCopilot`](../) avec le client et les options spécifiés.
 
@@ -28,3 +28,5 @@ public OpenAIChatCopilot(IOpenAIClient client,
 * class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageListQueryParameters.ThreadMessageListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de ThreadMessageListQueryParameters. Le constructeur par défaut
+title: "ThreadMessageListQueryParameters.ThreadMessageListQueryParameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ThreadMessageListQueryParameters. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/threadmessagelistqueryparameters/threadmessagelistqueryparameters/
 ---
-## Constructeur de ThreadMessageListQueryParameters
+## ThreadMessageListQueryParameters constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public ThreadMessageListQueryParameters()
 
 ### Voir aussi
 
-* classe [ThreadMessageListQueryParameters](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadMessageListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

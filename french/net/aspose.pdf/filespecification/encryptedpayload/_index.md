@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileSpecification. Obtient la charge utile chiffrée
+title: "FileSpecification.EncryptedPayload"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FileSpecification. Obtient la charge utile chiffrée"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/filespecification/encryptedpayload/
 ---
-## Propriété FileSpecification.EncryptedPayload
+## FileSpecification.EncryptedPayload property
 
 Obtient la charge utile chiffrée.
 
@@ -16,7 +16,9 @@ public EncryptedPayload EncryptedPayload { get; }
 
 ### Voir aussi
 
-* classe [EncryptedPayload](../../encryptedpayload/)
-* classe [FileSpecification](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [EncryptedPayload](../../encryptedpayload/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

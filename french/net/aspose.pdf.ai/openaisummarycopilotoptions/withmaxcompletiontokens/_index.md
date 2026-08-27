@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAISummaryCopilotOptions. Définit le nombre maximal de jetons de complétion pour les options du copilote de résumé
+title: "OpenAISummaryCopilotOptions.WithMaxCompletionTokens"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAISummaryCopilotOptions. Définit le nombre maximal de jetons de complétion pour les options du copilote de résumé"
 type: docs
-weight: 90
+weight: 100
 url: /fr/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxcompletiontokens/
 ---
-## Méthode OpenAISummaryCopilotOptions.WithMaxCompletionTokens
+## OpenAISummaryCopilotOptions.WithMaxCompletionTokens method
 
 Définit le nombre maximal de jetons de complétion pour les options du copilote de résumé.
 
@@ -20,10 +20,12 @@ public OpenAISummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTok
 
 ### Valeur de retour
 
-L'instance actuelle de [`OpenAISummaryCopilotOptions`](../).
+L’instance actuelle de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

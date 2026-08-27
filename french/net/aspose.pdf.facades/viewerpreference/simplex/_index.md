@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.Simplex
-second_title: Aspose.PDF for .NET API Reference
-description: Champ ViewerPreference. Imprimer recto seul
+title: "ViewerPreference.Simplex"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ ViewerPreference. Imprimer en simple face"
 type: docs
 weight: 290
 url: /fr/net/aspose.pdf.facades/viewerpreference/simplex/
 ---
-## Champ ViewerPreference.Simplex
+## ViewerPreference.Simplex field
 
-Imprimer recto seul.
+Imprimer recto uniquement.
 
 ```csharp
 public const int Simplex;
@@ -16,6 +16,8 @@ public const int Simplex;
 
 ### Voir aussi
 
-* classe [ViewerPreference](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class HideAction
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.HideAction. Représente une action de masquage qui masque ou affiche une ou plusieurs annotations à l'écran en définissant ou en effaçant leurs indicateurs cachés.
+title: "Classe HideAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Annotations.HideAction. Représente une action de masquage qui cache ou affiche une ou plusieurs annotations à l'écran en définissant ou en effaçant leurs indicateurs Hidden"
 type: docs
-weight: 1860
+weight: 1950
 url: /fr/net/aspose.pdf.annotations/hideaction/
 ---
-## Classe HideAction
+## HideAction class
 
-Représente une action de masquage qui masque ou affiche une ou plusieurs annotations à l'écran en définissant ou en effaçant leurs indicateurs cachés.
+Représente une action de masquage qui masque ou affiche une ou plusieurs annotations à l'écran en définissant ou en effaçant leurs indicateurs Hidden.
 
 ```csharp
 public class HideAction : PdfAction
@@ -22,16 +22,16 @@ public class HideAction : PdfAction
 | [HideAction](hideaction/#constructor_2)(Annotation[]) | Initialise une nouvelle instance de la classe `HideAction` pour les annotations spécifiées. |
 | [HideAction](hideaction/#constructor_4)(string) | Initialise une nouvelle instance de la classe `HideAction` pour le nom de champ spécifié. |
 | [HideAction](hideaction/#constructor_6)(string[]) | Initialise une nouvelle instance de la classe `HideAction` pour les noms de champ spécifiés. |
-| [HideAction](hideaction/#constructor_1)(Annotation, bool) | Initialise une nouvelle instance de la classe `HideAction` pour l'annotation spécifiée et l'indicateur d'invisibilité. |
-| [HideAction](hideaction/#constructor_3)(Annotation[], bool) | Initialise une nouvelle instance de la classe `HideAction` pour les annotations spécifiées et pour l'indicateur d'invisibilité. |
-| [HideAction](hideaction/#constructor_5)(string, bool) | Initialise une nouvelle instance de la classe `HideAction` pour le nom de champ spécifié et l'indicateur d'invisibilité. |
-| [HideAction](hideaction/#constructor_7)(string[], bool) | Initialise une nouvelle instance de la classe `HideAction` pour les noms de champ spécifiés et pour l'indicateur d'invisibilité. |
+| [HideAction](hideaction/#constructor_1)(Annotation, bool) | Initialise une nouvelle instance de la classe `HideAction` pour l'annotation spécifiée et le drapeau d'invisibilité. |
+| [HideAction](hideaction/#constructor_3)(Annotation[], bool) | Initialise une nouvelle instance de la classe `HideAction` pour les annotations spécifiées et pour le drapeau d'invisibilité. |
+| [HideAction](hideaction/#constructor_5)(string, bool) | Initialise une nouvelle instance de la classe `HideAction` pour le nom de champ spécifié et le drapeau d'invisibilité. |
+| [HideAction](hideaction/#constructor_7)(string[], bool) | Initialise une nouvelle instance de la classe `HideAction` pour les noms de champ spécifiés et pour le drapeau d'invisibilité. |
 
 ## Propriétés
 
 | Nom | Description |
 | --- | --- |
-| [IsHidden](../../aspose.pdf.annotations/hideaction/ishidden/) { get; set; } | Obtient ou définit l'état de l'annotation(s) à masquer/afficher. |
+| [IsHidden](../../aspose.pdf.annotations/hideaction/ishidden/) { get; set; } | Obtient ou définit le statut de la ou des annotations à masquer/afficher. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Actions suivantes dans la séquence. |
 
 ## Méthodes
@@ -42,6 +42,8 @@ public class HideAction : PdfAction
 
 ### Voir aussi
 
-* classe [PdfAction](../pdfaction/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

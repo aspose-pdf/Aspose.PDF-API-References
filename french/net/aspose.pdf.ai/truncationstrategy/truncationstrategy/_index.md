@@ -1,12 +1,12 @@
 ---
-title: TruncationStrategy.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TruncationStrategy. Le constructeur par défaut
+title: "TruncationStrategy.TruncationStrategy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "TruncationStrategy constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/truncationstrategy/truncationstrategy/
 ---
-## Constructeur de TruncationStrategy
+## TruncationStrategy constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public TruncationStrategy()
 
 ### Voir aussi
 
-* classe [TruncationStrategy](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TruncationStrategy](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

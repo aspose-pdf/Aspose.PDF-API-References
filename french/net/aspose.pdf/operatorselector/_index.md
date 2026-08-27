@@ -1,14 +1,14 @@
 ---
-title: Class OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.OperatorSelector. Cette classe est utilisée pour sélectionner des opérateurs en utilisant l'idée du modèle Visitor
+title: "Classe OperatorSelector"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.OperatorSelector. Cette classe est utilisée pour sélectionner des opérateurs en utilisant l'idée du modèle Visitor"
 type: docs
-weight: 7090
+weight: 7230
 url: /fr/net/aspose.pdf/operatorselector/
 ---
-## Classe OperatorSelector
+## OperatorSelector class
 
-Cette classe est utilisée pour sélectionner des opérateurs en utilisant l'idée du modèle Visitor.
+Cette classe est utilisée pour sélectionner des opérateurs en utilisant le concept de modèle Visitor.
 
 ```csharp
 public sealed class OperatorSelector : IOperatorSelector
@@ -19,7 +19,7 @@ public sealed class OperatorSelector : IOperatorSelector
 | Nom | Description |
 | --- | --- |
 | [OperatorSelector](operatorselector/#constructor)() | Initialise une nouvelle instance de la classe !:Selector. |
-| [OperatorSelector](operatorselector/#constructor_1)(Operator) | Initialise un nouvel `OperatorSelector`. |
+| [OperatorSelector](operatorselector/#constructor_1)(Operator) | Initialise un nouveau `OperatorSelector`. |
 
 ## Propriétés
 
@@ -75,31 +75,31 @@ public sealed class OperatorSelector : IOperatorSelector
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_41)(SetAdvancedColorStroke) | Visiter/sélectionner l'opérateur SCN. |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_42)(SetCharacterSpacing) | Visiter/sélectionner l'opérateur Tc. |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_43)(SetCharWidth) | Visiter/sélectionner l'opérateur d0. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_44)(SetCharWidthBoundingBox) | Visiter/sélectionner l'opérateur d1. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_45)(SetCMYKColor) | Visiter/sélectionner l'opérateur k. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_46)(SetCMYKColorStroke) | Visiter/sélectionner l'opérateur K. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_47)(SetColor) | Visiter/sélectionner l'opérateur sc. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_48)(SetColorRenderingIntent) | Visiter/sélectionner l'opérateur ri. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_49)(SetColorSpace) | Visiter/sélectionner l'opérateur cs. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_50)(SetColorSpaceStroke) | Visiter/sélectionner l'opérateur CS. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_51)(SetColorStroke) | Visiter/sélectionner l'opérateur SC. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_52)(SetDash) | Visiter/sélectionner l'opérateur d. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_53)(SetFlat) | Visiter/sélectionner l'opérateur i. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_54)(SetGlyphsPositionShowText) | Visiter/sélectionner l'opérateur TJ. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_55)(SetGray) | Visiter/sélectionner l'opérateur g. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_56)(SetGrayStroke) | Visiter/sélectionner l'opérateur G. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_57)(SetHorizontalTextScaling) | Visiter/sélectionner l'opérateur Tz. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_58)(SetLineCap) | Visiter/sélectionner l'opérateur J. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_59)(SetLineJoin) | Visiter/sélectionner l'opérateur j. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_60)(SetLineWidth) | Visiter/sélectionner l'opérateur w. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_61)(SetMiterLimit) | Visiter/sélectionner l'opérateur M. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_62)(SetRGBColor) | Visiter/sélectionner l'opérateur rg. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_63)(SetRGBColorStroke) | Visiter/sélectionner l'opérateur RG. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_64)(SetSpacingMoveToNextLineShowText) | Visiter/sélectionner l'opérateur ''. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_65)(SetTextLeading) | Visiter/sélectionner l'opérateur TL. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_66)(SetTextMatrix) | Visiter/sélectionner l'opérateur Tm. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_67)(SetTextRenderingMode) | Visiter/sélectionner l'opérateur Tr. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_68)(SetTextRise) | Visiter/sélectionner l'opérateur Ts. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_44)(SetCharWidthBoundingBox) | Visiter/sélectionner d1 opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_45)(SetCMYKColor) | Visiter/sélectionner k opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_46)(SetCMYKColorStroke) | Visiter/sélectionner K opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_47)(SetColor) | Visiter/sélectionner sc opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_48)(SetColorRenderingIntent) | Visiter/sélectionner ri opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_49)(SetColorSpace) | Visiter/sélectionner cs opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_50)(SetColorSpaceStroke) | Visiter/sélectionner CS opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_51)(SetColorStroke) | Visiter/sélectionner SC opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_52)(SetDash) | Visiter/sélectionner d opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_53)(SetFlat) | Visiter/sélectionner i opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_54)(SetGlyphsPositionShowText) | Visiter/sélectionner TJ opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_55)(SetGray) | Visiter/sélectionner g opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_56)(SetGrayStroke) | Visiter/sélectionner G opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_57)(SetHorizontalTextScaling) | Visiter/sélectionner Tz opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_58)(SetLineCap) | Visiter/sélectionner J opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_59)(SetLineJoin) | Visiter/sélectionner j opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_60)(SetLineWidth) | Visiter/sélectionner w opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_61)(SetMiterLimit) | Visiter/sélectionner M opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_62)(SetRGBColor) | Visiter/sélectionner rg opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_63)(SetRGBColorStroke) | Visiter/sélectionner RG opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_64)(SetSpacingMoveToNextLineShowText) | Visiter/sélectionner '' opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_65)(SetTextLeading) | Visiter/sélectionner TL opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_66)(SetTextMatrix) | Visiter/sélectionner Tm opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_67)(SetTextRenderingMode) | Visiter/sélectionner Tr opérateur. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_68)(SetTextRise) | Visiter/sélectionner Ts opérateur. |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_69)(SetWordSpacing) | Visiter/sélectionner l'opérateur Tw. |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_70)(ShFill) | Visiter/sélectionner l'opérateur sh. |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_71)(ShowText) | Visiter/sélectionner l'opérateur Tj. |
@@ -111,3 +111,5 @@ public sealed class OperatorSelector : IOperatorSelector
 * interface [IOperatorSelector](../ioperatorselector/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

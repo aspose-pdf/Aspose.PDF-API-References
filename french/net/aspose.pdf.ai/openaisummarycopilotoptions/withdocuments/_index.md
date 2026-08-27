@@ -1,9 +1,9 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAISummaryCopilotOptions. Définit la collection de documents pour les options du copilote de résumé
+title: "OpenAISummaryCopilotOptions.WithDocuments"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAISummaryCopilotOptions. Définit la collection de documents pour les options du copilote de résumé"
 type: docs
-weight: 70
+weight: 80
 url: /fr/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
@@ -16,17 +16,17 @@ public OpenAISummaryCopilotOptions WithDocuments(DocumentCollection documentColl
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | La collection de documents à définir. |
+| documentCollection | DocumentCollection | La collection de Documents à définir. |
 
 ### Valeur de retour
 
-L'instance actuelle de [`OpenAISummaryCopilotOptions`](../).
+L’instance actuelle de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [DocumentCollection](../../documentcollection/)
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -45,13 +45,13 @@ public OpenAISummaryCopilotOptions WithDocuments(List<TextDocument> textDocument
 
 ### Valeur de retour
 
-L'instance actuelle de [`OpenAISummaryCopilotOptions`](../).
+L’instance actuelle de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [TextDocument](../../textdocument/)
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TextDocument](../../textdocument/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -70,13 +70,13 @@ public OpenAISummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 
 ### Valeur de retour
 
-L'instance actuelle de [`OpenAISummaryCopilotOptions`](../).
+L’instance actuelle de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [PdfDocument](../../pdfdocument/)
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -95,10 +95,12 @@ public OpenAISummaryCopilotOptions WithDocuments(List<string> filePaths)
 
 ### Valeur de retour
 
-L'instance actuelle de [`OpenAISummaryCopilotOptions`](../).
+L’instance actuelle de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

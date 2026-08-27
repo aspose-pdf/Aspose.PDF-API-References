@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.PdfContentEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PdfContentEditor. Le constructeur de l'objet PdfContentEditor
+title: "PdfContentEditor.PdfContentEditor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PdfContentEditor. Le constructeur de l'objet PdfContentEditor"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/pdfcontenteditor/
@@ -16,8 +16,8 @@ public PdfContentEditor()
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,7 +36,9 @@ public PdfContentEditor(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

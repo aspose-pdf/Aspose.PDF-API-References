@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.IsEmbedFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlLoadOptions. Obtient ou définit l'incorporation des polices dans le document résultant
+title: "HtmlLoadOptions.IsEmbedFonts"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "HtmlLoadOptions propriété. Obtient ou définit l'incorporation des polices dans le document résultant"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/htmlloadoptions/isembedfonts/
 ---
-## Propriété HtmlLoadOptions.IsEmbedFonts
+## HtmlLoadOptions.IsEmbedFonts property
 
-Obtient ou définit l'incorporation des polices dans le document résultant
+Obtient ou définit l’incorporation des polices dans le document résultant
 
 ```csharp
 public bool IsEmbedFonts { get; set; }
@@ -16,6 +16,8 @@ public bool IsEmbedFonts { get; set; }
 
 ### Voir aussi
 
-* classe [HtmlLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

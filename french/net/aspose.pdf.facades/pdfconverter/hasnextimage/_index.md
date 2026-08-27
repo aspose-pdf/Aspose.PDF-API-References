@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.HasNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfConverter. Indique si le fichier pdf a plus d'images ou non
+title: "PdfConverter.HasNextImage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfConverter. Indique si le fichier pdf contient plus d'images ou non"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.facades/pdfconverter/hasnextimage/
 ---
-## Méthode PdfConverter.HasNextImage
+## PdfConverter.HasNextImage method
 
-Indique si le fichier pdf a plus d'images ou non.
+Indique si le fichier pdf contient d'autres images ou non.
 
 ```csharp
 public bool HasNextImage()
@@ -16,10 +16,12 @@ public bool HasNextImage()
 
 ### Valeur de retour
 
-Peut obtenir plus d'images ou non, vrai si c'est le cas, ou faux.
+Peut obtenir plus d'images ou non, vrai si possible, ou faux.
 
 ### Voir aussi
 
-* classe [PdfConverter](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

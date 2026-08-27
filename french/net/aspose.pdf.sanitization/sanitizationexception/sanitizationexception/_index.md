@@ -1,7 +1,7 @@
 ---
-title: SanitizationException.SanitizationException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de SanitizationException. Initialise une nouvelle instance de la classe SanitizationException
+title: "SanitizationException.SanitizationException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SanitizationException. Initialise une nouvelle instance de la classe SanitizationException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.sanitization/sanitizationexception/sanitizationexception/
@@ -16,8 +16,8 @@ public SanitizationException()
 
 ### Voir aussi
 
-* classe [SanitizationException](../)
-* espace de noms [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,8 +36,8 @@ public SanitizationException(string message)
 
 ### Voir aussi
 
-* classe [SanitizationException](../)
-* espace de noms [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -57,8 +57,8 @@ public SanitizationException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [SanitizationException](../)
-* espace de noms [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -77,6 +77,8 @@ public SanitizationException(Exception innerException)
 
 ### Voir aussi
 
-* classe [SanitizationException](../)
-* espace de noms [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
+
+

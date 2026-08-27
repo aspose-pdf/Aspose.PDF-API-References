@@ -1,12 +1,12 @@
 ---
-title: XImage.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XImage. Renvoie le flux d'image original
+title: "XImage.ToStream"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XImage. Retourne le flux d'image original"
 type: docs
-weight: 160
+weight: 170
 url: /fr/net/aspose.pdf/ximage/tostream/
 ---
-## Méthode XImage.ToStream
+## XImage.ToStream method
 
 Renvoie le flux d'image original.
 
@@ -20,6 +20,8 @@ Le flux d'image original.
 
 ### Voir aussi
 
-* classe [XImage](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

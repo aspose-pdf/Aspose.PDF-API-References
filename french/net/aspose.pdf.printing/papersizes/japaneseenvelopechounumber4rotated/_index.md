@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseEnvelopeChouNumber4Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Enveloppe Chou 4 japonaise tournée
+title: "PaperSizes.JapaneseEnvelopeChouNumber4Rotated"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Enveloppe japonaise Chou 4 pivotée"
 type: docs
 weight: 530
 url: /fr/net/aspose.pdf.printing/papersizes/japaneseenvelopechounumber4rotated/
 ---
-## Champ PaperSizes.JapaneseEnvelopeChouNumber4Rotated
+## PaperSizes.JapaneseEnvelopeChouNumber4Rotated field
 
-Enveloppe Chou #4 japonaise tournée.
+Enveloppe japonaise Chou #4 pivotée.
 
 ```csharp
 public static readonly PaperSize JapaneseEnvelopeChouNumber4Rotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize JapaneseEnvelopeChouNumber4Rotated;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

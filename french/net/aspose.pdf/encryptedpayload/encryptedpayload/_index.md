@@ -1,14 +1,14 @@
 ---
-title: EncryptedPayload.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur EncryptedPayload. Initialiser l'instance de charge utile chiffrée
+title: "EncryptedPayload.EncryptedPayload"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur EncryptedPayload. Initialise une instance de charge cryptée"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/encryptedpayload/encryptedpayload/
 ---
-## Constructeur EncryptedPayload
+## EncryptedPayload constructor
 
-Initialiser l'instance de charge utile chiffrée.
+Initialise une instance de charge chiffrée.
 
 ```csharp
 public EncryptedPayload(FileSpecification fileSpecification)
@@ -20,7 +20,9 @@ public EncryptedPayload(FileSpecification fileSpecification)
 
 ### Voir aussi
 
-* classe [FileSpecification](../../filespecification/)
-* classe [EncryptedPayload](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../../filespecification/)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

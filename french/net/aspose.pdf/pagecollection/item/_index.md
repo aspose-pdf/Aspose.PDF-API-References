@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageCollection. Obtient la page par index
+title: "PageCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageCollection. Obtient la page par indice"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/pagecollection/item/
 ---
-## Indexeur PageCollection
+## PageCollection indexer
 
-Obtient la page par index.
+Obtient la Page par indice.
 
 ```csharp
 public Page this[int index] { get; }
@@ -16,7 +16,7 @@ public Page this[int index] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| index | Index de la page. |
+| index | Indice de la page. |
 
 ### Valeur de retour
 
@@ -24,7 +24,9 @@ Page récupérée.
 
 ### Voir aussi
 
-* classe [Page](../../page/)
-* classe [PageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Embedding.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'intégration. Obtient ou définit le type d'objet qui est toujours une intégration
+title: "Embedding.Object"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Embedding property. Obtient ou définit le type d'objet qui est toujours embedding."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/embedding/object/
 ---
-## Propriété Embedding.Object
+## Embedding.Object property
 
 Obtient ou définit le type d'objet, qui est toujours "embedding".
 
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Voir aussi
 
-* classe [Embedding](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Embedding](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

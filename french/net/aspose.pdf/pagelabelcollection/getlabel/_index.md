@@ -1,14 +1,14 @@
 ---
-title: PageLabelCollection.GetLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PageLabelCollection. Obtient l'étiquette de page par index de page l'index de page commence à 0
+title: "PageLabelCollection.GetLabel"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PageLabelCollection. Obtient l'étiquette de page par index de page, l'index de page commence à 0"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/pagelabelcollection/getlabel/
 ---
-## Méthode PageLabelCollection.GetLabel
+## PageLabelCollection.GetLabel method
 
-Obtient l'étiquette de page par index de page (l'index de page commence à 0).
+Obtient l'étiquette de page par indice de page (l'indice de page commence à 0).
 
 ```csharp
 public PageLabel GetLabel(int pageIndex)
@@ -16,7 +16,7 @@ public PageLabel GetLabel(int pageIndex)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pageIndex | Int32 | Index de la page. |
+| pageIndex | Int32 | Indice de la page. |
 
 ### Valeur de retour
 
@@ -24,7 +24,9 @@ public PageLabel GetLabel(int pageIndex)
 
 ### Voir aussi
 
-* classe [PageLabel](../../pagelabel/)
-* classe [PageLabelCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageLabel](../../pagelabel/)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

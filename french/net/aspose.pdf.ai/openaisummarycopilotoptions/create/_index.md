@@ -1,7 +1,7 @@
 ---
-title: OpenAISummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAISummaryCopilotOptions. Crée une nouvelle instance de OpenAISummaryCopilotOptions
+title: "OpenAISummaryCopilotOptions.Create"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAISummaryCopilotOptions. Crée une nouvelle instance de OpenAISummaryCopilotOptions"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/openaisummarycopilotoptions/create/
@@ -20,8 +20,8 @@ Une nouvelle instance de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -40,10 +40,12 @@ public static OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOpti
 
 ### Valeur de retour
 
-L'instance configurée de [`OpenAISummaryCopilotOptions`](../).
+L’instance configurée de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

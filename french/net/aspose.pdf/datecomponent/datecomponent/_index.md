@@ -1,12 +1,12 @@
 ---
-title: DateComponent.DateComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de DateComponent. Le constructeur par défaut
+title: "DateComponent.DateComponent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur DateComponent. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/datecomponent/datecomponent/
 ---
-## Constructeur de DateComponent
+## DateComponent constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public DateComponent()
 
 ### Voir aussi
 
-* classe [DateComponent](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DateComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

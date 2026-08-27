@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.SetAuxiliaryColour
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PDF3DRenderMode. Définit la couleur auxiliaire
+title: "PDF3DRenderMode.SetAuxiliaryColour"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PDF3DRenderMode. Définit la couleur auxiliaire"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/
 ---
-## Méthode PDF3DRenderMode.SetAuxiliaryColour
+## PDF3DRenderMode.SetAuxiliaryColour method
 
 Définit la couleur auxiliaire.
 
@@ -24,7 +24,9 @@ PDF3DRenderMode.
 
 ### Voir aussi
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [PDF3DRenderMode](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: AIClientException.AIClientException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur AIClientException. Initialise une nouvelle instance de la classe AIClientException avec un message d'erreur spécifié
+title: "AIClientException.AIClientException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur AIClientException. Initialise une nouvelle instance de la classe AIClientException avec un message d'erreur spécifié."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/aiclientexception/aiclientexception/
@@ -20,8 +20,8 @@ public AIClientException(string message)
 
 ### Voir aussi
 
-* classe [AIClientException](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AIClientException](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,6 +41,8 @@ public AIClientException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [AIClientException](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AIClientException](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

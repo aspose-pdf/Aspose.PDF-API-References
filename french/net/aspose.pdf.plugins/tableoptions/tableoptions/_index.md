@@ -1,12 +1,12 @@
 ---
-title: TableOptions.TableOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TableOptions. Le constructeur par défaut
+title: "TableOptions.TableOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "TableOptions constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/tableoptions/tableoptions/
 ---
-## Constructeur de TableOptions
+## TableOptions constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public TableOptions()
 
 ### Voir aussi
 
-* classe [TableOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

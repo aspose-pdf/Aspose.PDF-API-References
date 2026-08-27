@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XImageCollection. Obtient l'image de la collection par son index
+title: "XImageCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XImageCollection. Obtient l'image de la collection par son indice"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/ximagecollection/item/
 ---
-## Indexeur XImageCollection (1 sur 2)
+## XImageCollection indexer (1 of 2)
 
-Obtient l'image de la collection par son index.
+Obtient l'image de la collection par son indice.
 
 ```csharp
 public XImage this[int index] { get; }
@@ -16,7 +16,7 @@ public XImage this[int index] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| index | Index de l'image |
+| index | Indice de l'image |
 
 ### Valeur de retour
 
@@ -24,14 +24,14 @@ Image récupérée.
 
 ### Voir aussi
 
-* classe [XImage](../../ximage/)
-* classe [XImageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Indexeur XImageCollection (2 sur 2)
+## XImageCollection indexer (2 of 2)
 
 Obtient l'image de la collection par son nom.
 
@@ -41,7 +41,7 @@ public XImage this[string name] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| name | Nom de l'image. |
+| nom | Nom de l'image. |
 
 ### Valeur de retour
 
@@ -49,7 +49,9 @@ Image récupérée.
 
 ### Voir aussi
 
-* classe [XImage](../../ximage/)
-* classe [XImageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

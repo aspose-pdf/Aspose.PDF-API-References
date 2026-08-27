@@ -1,14 +1,14 @@
 ---
-title: Class GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.GlyphPosition. La classe décrit le texte et la position à utiliser avec l'opérateur TJ pour définir le glyphe avec position
+title: "Classe GlyphPosition"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Operators.GlyphPosition. Classe décrivant le texte et la position à utiliser avec l'opérateur TJ qui définit le glyphe avec position."
 type: docs
-weight: 7420
+weight: 7560
 url: /fr/net/aspose.pdf.operators/glyphposition/
 ---
-## Classe GlyphPosition
+## GlyphPosition class
 
-La classe décrit le texte et la position à utiliser avec l'opérateur TJ (définir le glyphe avec position)
+Classe décrivant le texte et la position à utiliser avec l'opérateur TJ (définir le glyphe avec la position)
 
 ```csharp
 public class GlyphPosition
@@ -18,17 +18,19 @@ public class GlyphPosition
 
 | Nom | Description |
 | --- | --- |
-| [GlyphPosition](glyphposition/#constructor)(string) | Constructeur pour la position du glyphe. |
+| [GlyphPosition](glyphposition/#constructor)(string) | Constructeur pour Glyph Position. |
 | [GlyphPosition](glyphposition/#constructor_1)(string, double) | Construit la position du glyphe. |
 
 ## Propriétés
 
 | Nom | Description |
 | --- | --- |
-| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | Position du texte dans l'opérateur. |
+| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | Position hors du texte dans l'opérateur. |
 | [Text](../../aspose.pdf.operators/glyphposition/text/) { get; } | Texte de l'opérateur. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

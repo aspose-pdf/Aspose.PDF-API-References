@@ -1,14 +1,14 @@
 ---
-title: CompositingParameters.FilterType
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CompositingParameters. Obtient le type de filtre d'image
+title: "CompositingParameters.FilterType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CompositingParameters. Obtient le type de filtre d'image"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/compositingparameters/filtertype/
 ---
-## Propriété CompositingParameters.FilterType
+## CompositingParameters.FilterType property
 
-Obtient le type de filtre d'image.
+Obtient le type de filtre d’image.
 
 ```csharp
 public ImageFilterType FilterType { get; }
@@ -20,3 +20,5 @@ public ImageFilterType FilterType { get; }
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

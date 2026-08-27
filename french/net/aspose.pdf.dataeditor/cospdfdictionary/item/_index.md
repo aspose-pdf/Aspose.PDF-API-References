@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CosPdfDictionary. Obtient ou définit l'élément avec la clé spécifiée
+title: "CosPdfDictionary.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CosPdfDictionary. Obtient ou définit l'élément avec la clé spécifiée"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.dataeditor/cospdfdictionary/item/
 ---
-## Indexeur CosPdfDictionary
+## CosPdfDictionary indexer
 
 Obtient ou définit l'élément avec la clé spécifiée.
 
@@ -16,7 +16,7 @@ public ICosPdfPrimitive this[string key] { get; set; }
 
 | Paramètre | Description |
 | --- | --- |
-| key | La clé de l'élément à obtenir ou à définir. |
+| clé | La clé de l'élément à obtenir ou à définir. |
 
 ### Valeur de retour
 
@@ -28,7 +28,7 @@ L'élément avec la clé spécifiée.
 | --- | --- |
 | ArgumentNullException | La clé est nulle. |
 | KeyNotFoundException | La propriété est récupérée et la clé n'est pas trouvée. |
-| ArgumentException | Lève une exception si la clé ne peut pas être modifiée/définie. |
+| ArgumentException | Lancez une exception si la clé ne peut pas être modifiée/établie. |
 
 ### Voir aussi
 
@@ -36,3 +36,5 @@ L'élément avec la clé spécifiée.
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

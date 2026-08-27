@@ -1,12 +1,12 @@
 ---
-title: FileListResponse.FileListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FileListResponse. Le constructeur par défaut
+title: "FileListResponse.FileListResponse"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FileListResponse. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/filelistresponse/filelistresponse/
 ---
-## Constructeur de FileListResponse
+## FileListResponse constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public FileListResponse()
 
 ### Voir aussi
 
-* classe [FileListResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [FileListResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

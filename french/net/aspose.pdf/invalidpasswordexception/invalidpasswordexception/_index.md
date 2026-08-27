@@ -1,7 +1,7 @@
 ---
-title: InvalidPasswordException.InvalidPasswordException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de InvalidPasswordException. Initialise une nouvelle instance de la classe InvalidPasswordException
+title: "InvalidPasswordException.InvalidPasswordException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur InvalidPasswordException. Initialise une nouvelle instance de la classe InvalidPasswordException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/invalidpasswordexception/invalidpasswordexception/
@@ -20,8 +20,8 @@ public InvalidPasswordException(string message)
 
 ### Voir aussi
 
-* classe [InvalidPasswordException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidPasswordException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,8 +41,8 @@ public InvalidPasswordException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [InvalidPasswordException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidPasswordException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -61,6 +61,8 @@ public InvalidPasswordException(Exception innerException)
 
 ### Voir aussi
 
-* classe [InvalidPasswordException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidPasswordException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum Form.SignDependentElementsRenderingModes
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FormSignDependentElementsRenderingModes d'Aspose.Pdf.Forms. Les formulaires peuvent contenir des informations de signature et peuvent être signés ou non signés. Parfois, l'affichage des formulaires dans le visualiseur doit dépendre de savoir si le formulaire est signé ou non. Cet énumère énumère les modes de rendu possibles lors de la conversion du type de formulaire en ce qui concerne la signature.
+title: "Enum Form.SignDependentElementsRenderingModes"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Forms.FormSignDependentElementsRenderingModes enum. Les formulaires peuvent contenir des informations de signature et peuvent être signés ou non signés. Parfois, la vue des formulaires dans le visualiseur doit dépendre du fait que le formulaire soit signé ou non. Cette énumération répertorie les modes de rendu possibles lors de la conversion du type de formulaire concernant la signature."
 type: docs
-weight: 5090
+weight: 5210
 url: /fr/net/aspose.pdf.forms/form.signdependentelementsrenderingmodes/
 ---
-## Énumération Form.SignDependentElementsRenderingModes
+## Form.SignDependentElementsRenderingModes enumeration
 
-Les formulaires peuvent contenir des informations de signature et peuvent être signés ou non signés. Parfois, l'affichage des formulaires dans le visualiseur doit dépendre de savoir si le formulaire est signé ou non. Cet énumère énumère les modes de rendu possibles lors de la conversion du type de formulaire en ce qui concerne la signature.
+Les formulaires peuvent contenir des informations de signature et peuvent être signés ou non signés. Parfois, la vue des formulaires dans le visualiseur doit dépendre du fait que le formulaire soit signé ou non. Cette énumération répertorie les modes de rendu possibles lors de la conversion du type de formulaire concernant la signature.
 
 ```csharp
 public enum SignDependentElementsRenderingModes
@@ -19,10 +19,12 @@ public enum SignDependentElementsRenderingModes
 | Nom | Valeur | Description |
 | --- | --- | --- |
 | RenderFormAsUnsigned | `0` | Rendre le formulaire comme non signé. |
-| RenderFormAsSigned | `1` | Rendre le formulaire comme signé. |
+| RenderFormAsSigned | `1` | Rendre le formulaire signé. |
 
 ### Voir aussi
 
-* classe [Form](../form/)
-* espace de noms [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

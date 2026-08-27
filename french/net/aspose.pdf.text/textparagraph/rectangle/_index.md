@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextParagraph. Obtient ou définit le rectangle du paragraphe
+title: "TextParagraph.Rectangle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextParagraph. Obtient ou définit le rectangle du paragraphe"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.text/textparagraph/rectangle/
 ---
-## Propriété TextParagraph.Rectangle
+## TextParagraph.Rectangle property
 
 Obtient ou définit le rectangle du paragraphe.
 
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; set; }
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [TextParagraph](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

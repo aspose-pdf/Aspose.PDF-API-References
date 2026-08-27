@@ -1,14 +1,14 @@
 ---
-title: Class PageLabelCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PageLabelCollection. Classe représentant la collection d'étiquettes de page
+title: "Classe PageLabelCollection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.PageLabelCollection. Classe représentant la collection d'étiquettes de page"
 type: docs
-weight: 8170
+weight: 8310
 url: /fr/net/aspose.pdf/pagelabelcollection/
 ---
-## Classe PageLabelCollection
+## PageLabelCollection class
 
-Classe représentant la collection d'étiquettes de page.
+Classe représentant la collection de Page Label.
 
 ```csharp
 public class PageLabelCollection
@@ -18,12 +18,14 @@ public class PageLabelCollection
 
 | Nom | Description |
 | --- | --- |
-| [GetLabel](../../aspose.pdf/pagelabelcollection/getlabel/)(int) | Obtient l'étiquette de page par index de page (l'index de page commence à 0). |
-| [GetPages](../../aspose.pdf/pagelabelcollection/getpages/)() | Obtient les index de page dans la collection. |
+| [GetLabel](../../aspose.pdf/pagelabelcollection/getlabel/)(int) | Obtient l'étiquette de page par indice de page (l'indice de page commence à 0). |
+| [GetPages](../../aspose.pdf/pagelabelcollection/getpages/)() | Obtient les index de pages dans la collection. |
 | [RemoveLabel](../../aspose.pdf/pagelabelcollection/removelabel/)(int) | Supprime l'étiquette par index de page (l'index de page commence à 0). |
 | [UpdateLabel](../../aspose.pdf/pagelabelcollection/updatelabel/)(int, PageLabel) | Met à jour l'étiquette pour l'index de page donné (l'index de page commence à 0). |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

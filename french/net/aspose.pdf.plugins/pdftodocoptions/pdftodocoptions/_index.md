@@ -1,14 +1,14 @@
 ---
-title: PdfToDocOptions.PdfToDocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PdfToDocOptions. Initialise une nouvelle instance de l'objet PdfToDocOptions avec des options par défaut
+title: "PdfToDocOptions.PdfToDocOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PdfToDocOptions. Initialise une nouvelle instance de l'objet PdfToDocOptions avec les options par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/pdftodocoptions/pdftodocoptions/
 ---
 ## PdfToDocOptions() {#constructor}
 
-Initialise une nouvelle instance de l'objet [`PdfToDocOptions`](../) avec des options par défaut.
+Initialise une nouvelle instance de l'objet [`PdfToDocOptions`](../) avec les options par défaut.
 
 ```csharp
 public PdfToDocOptions()
@@ -16,8 +16,8 @@ public PdfToDocOptions()
 
 ### Voir aussi
 
-* classe [PdfToDocOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfToDocOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,13 +32,15 @@ public PdfToDocOptions(SaveFormat format, ConversionMode mode)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| format | SaveFormat | Format de sauvegarde du document de sortie [`SaveFormat`](../saveformat/). |
+| format | SaveFormat | Format d'enregistrement du document de sortie [`SaveFormat`](../saveformat/). |
 | mode | ConversionMode | Mode de conversion du document de sortie [`ConversionMode`](../conversionmode/). |
 
 ### Voir aussi
 
 * enum [SaveFormat](../../saveformat/)
 * enum [ConversionMode](../../conversionmode/)
-* classe [PdfToDocOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfToDocOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

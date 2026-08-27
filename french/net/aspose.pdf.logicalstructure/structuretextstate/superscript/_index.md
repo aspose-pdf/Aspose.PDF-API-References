@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StructureTextState. Obtient ou définit l'exposant du texte
+title: "StructureTextState.Superscript"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StructureTextState. Obtient ou définit l'exposant du texte"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.logicalstructure/structuretextstate/superscript/
 ---
-## Propriété StructureTextState.Superscript
+## StructureTextState.Superscript property
 
-Obtient ou définit l'exposant du texte.
+Obtient ou définit le texte en exposant.
 
 ```csharp
 public bool? Superscript { get; set; }
@@ -20,6 +20,8 @@ Peut être nul. Utilisez null pour hériter de la propriété `Superscript` de l
 
 ### Voir aussi
 
-* classe [StructureTextState](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

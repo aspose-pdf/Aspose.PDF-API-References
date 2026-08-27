@@ -1,14 +1,14 @@
 ---
-title: Class TextStateOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.TextStateOperator. Classe de base abstraite pour les opérateurs qui changent l'état de texte actuel Tc Tf TL etc
+title: "Classe TextStateOperator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.TextStateOperator classe. Classe de base abstraite pour les opérateurs qui modifient l'état du texte actuel Tc Tf TL etc"
 type: docs
-weight: 7930
+weight: 8070
 url: /fr/net/aspose.pdf.operators/textstateoperator/
 ---
-## Classe TextStateOperator
+## TextStateOperator class
 
-Classe de base abstraite pour les opérateurs qui changent l'état de texte actuel (Tc, Tf, TL, etc).
+Classe de base abstraite pour les opérateurs qui modifient l'état actuel du texte (Tc, Tf, TL, etc).
 
 ```csharp
 public class TextStateOperator : TextOperator
@@ -19,7 +19,7 @@ public class TextStateOperator : TextOperator
 | Nom | Description |
 | --- | --- |
 | [TextStateOperator](textstateoperator/#constructor)() | Initialise TextStateOperator. |
-| [TextStateOperator](textstateoperator/#constructor_1)(TextProperties) | Initialise TextStateOperator qui permet de passer des TextProperties. |
+| [TextStateOperator](textstateoperator/#constructor_1)(TextProperties) | Initialise TextStateoperator qui permet de transmettre TextProperties. |
 
 ## Propriétés
 
@@ -31,12 +31,14 @@ public class TextStateOperator : TextOperator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [TextOperator](../textoperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextOperator](../textoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+
