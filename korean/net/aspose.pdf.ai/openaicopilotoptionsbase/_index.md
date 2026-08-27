@@ -1,12 +1,12 @@
 ---
-title: Class OpenAICopilotOptionsBase
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAICopilotOptionsBase 클래스. OpenAICopilot을 구성하기 위한 기본 옵션을 나타냅니다.
+title: "클래스 OpenAICopilotOptionsBase"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.OpenAICopilotOptionsBase 클래스. OpenAICopilot을 구성하기 위한 기본 옵션을 나타냅니다."
 type: docs
-weight: 870
+weight: 930
 url: /ko/net/aspose.pdf.ai/openaicopilotoptionsbase/
 ---
-## OpenAICopilotOptionsBase 클래스
+## OpenAICopilotOptionsBase class
 
 OpenAICopilot을 구성하기 위한 기본 옵션을 나타냅니다.
 
@@ -18,9 +18,11 @@ public abstract class OpenAICopilotOptionsBase
 
 | 이름 | 설명 |
 | --- | --- |
-| virtual [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | 어시스턴트에 사용할 모델을 가져오거나 설정합니다. |
+| [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | 도우미에 사용할 모델을 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

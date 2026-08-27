@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.TBWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 필드. 상하 닦기
+title: "PdfPageEditor.TBWIPE"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfPageEditor 필드. 위아래 와이프"
 type: docs
 weight: 340
 url: /ko/net/aspose.pdf.facades/pdfpageeditor/tbwipe/
 ---
-## PdfPageEditor.TBWIPE 필드
+## PdfPageEditor.TBWIPE field
 
 상하 닦기
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.facades/pdfpageeditor/tbwipe/
 public const int TBWIPE;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfPageEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

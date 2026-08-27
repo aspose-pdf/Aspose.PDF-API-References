@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.Description
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema 속성. 스키마 설명을 가져옵니다.
+title: "XmpPdfAExtensionSchema.Description"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpPdfAExtensionSchema 속성. 스키마 설명을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/xmppdfaextensionschema/description/
 ---
-## XmpPdfAExtensionSchema.Description 속성
+## XmpPdfAExtensionSchema.Description property
 
 스키마 설명을 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/xmppdfaextensionschema/description/
 public XmpPdfAExtensionSchemaDescription Description { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

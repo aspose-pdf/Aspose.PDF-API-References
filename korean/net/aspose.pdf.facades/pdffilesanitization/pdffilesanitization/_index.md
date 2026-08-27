@@ -1,21 +1,23 @@
 ---
-title: PdfFileSanitization.PdfFileSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization 생성자. 기본 생성자
+title: "PdfFileSanitization.PdfFileSanitization"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSanitization 생성자. 기본 생성자."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/
 ---
-## PdfFileSanitization 생성자
+## PdfFileSanitization constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public PdfFileSanitization()
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

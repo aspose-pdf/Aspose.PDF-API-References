@@ -1,12 +1,12 @@
 ---
-title: FileResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: FileResult 속성. 결과가 텍스트 문자열인지 여부를 나타냅니다.
+title: "FileResult.IsString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FileResult 속성. 결과가 텍스트 문자열인지 여부를 나타냅니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.plugins/fileresult/isstring/
 ---
-## FileResult.IsString 속성
+## FileResult.IsString property
 
 결과가 텍스트 문자열인지 여부를 나타냅니다.
 
@@ -16,10 +16,12 @@ public bool IsString { get; }
 
 ### 반환 값
 
-`true` 결과가 문자열인 경우; 그렇지 않으면 `false`입니다.
+결과가 문자열이면 `true`; 그렇지 않으면 `false`.
 
-### 참조
+### 또 보기
 
-* 클래스 [FileResult](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FileResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

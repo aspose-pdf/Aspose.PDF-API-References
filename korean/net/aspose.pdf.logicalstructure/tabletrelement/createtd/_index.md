@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.CreateTD
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement 메서드. TableTHElement를 생성하고 현재 테이블에 추가합니다.
+title: "TableTRElement.CreateTD"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TableTRElement 메서드. TableTHElement를 생성하고 현재 테이블에 추가합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.logicalstructure/tabletrelement/createtd/
 ---
-## TableTRElement.CreateTD 메서드
+## TableTRElement.CreateTD method
 
-[`TableTHElement`](../../tablethelement/)를 생성하고 현재 테이블에 추가합니다.
+`[`TableTHElement`](../../tablethelement/)`를 생성하고 현재 테이블에 추가합니다.
 
 ```csharp
 public TableTDElement CreateTD()
@@ -16,11 +16,13 @@ public TableTDElement CreateTD()
 
 ### 반환 값
 
-생성된 구조 요소.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [TableTDElement](../../tabletdelement/)
-* 클래스 [TableTRElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TableTDElement](../../tabletdelement/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

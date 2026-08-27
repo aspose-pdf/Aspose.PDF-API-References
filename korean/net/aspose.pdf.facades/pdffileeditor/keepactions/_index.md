@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.KeepActions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 속성. true인 경우 작업이 원본 문서에서 복사됩니다. 기본값 true
+title: "PdfFileEditor.KeepActions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileEditor 속성. true이면 작업이 원본 문서에서 복사됩니다. 기본값은 true입니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.facades/pdffileeditor/keepactions/
 ---
-## PdfFileEditor.KeepActions 속성
+## PdfFileEditor.KeepActions property
 
-true인 경우 작업이 원본 문서에서 복사됩니다. 기본값 : true.
+true이면 작업이 원본 문서에서 복사됩니다. 기본값: true.
 
 ```csharp
 public bool KeepActions { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfFormatConversionOptions.PdfFormatConversionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions 생성자. 생성자
+title: "PdfFormatConversionOptions.PdfFormatConversionOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFormatConversionOptions 생성자. 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
@@ -17,11 +17,11 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputLogFileName | String | 주석이 저장될 파일의 경로입니다. |
-| format | PdfFormat | PDF 형식입니다. |
-| action | ConvertErrorAction | 변환할 수 없는 객체에 대한 작업입니다. |
+| outputLogFileName | String | 댓글이 저장될 파일 경로. |
+| 포맷 | PdfFormat | PDF 형식. |
+| 작업 | ConvertErrorAction | 변환할 수 없는 객체에 대한 동작 |
 
-### 참조
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -41,10 +41,10 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputLogFileName | String | 주석이 저장될 파일의 경로입니다. |
-| format | PdfFormat | PDF 형식입니다. |
+| outputLogFileName | String | 댓글이 저장될 파일 경로. |
+| 포맷 | PdfFormat | PDF 형식. |
 
-### 참조
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * class [PdfFormatConversionOptions](../)
@@ -63,9 +63,9 @@ public PdfFormatConversionOptions(PdfFormat format)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| format | PdfFormat | PDF 형식입니다. |
+| 포맷 | PdfFormat | PDF 형식. |
 
-### 참조
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * class [PdfFormatConversionOptions](../)
@@ -84,10 +84,10 @@ public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| format | PdfFormat | PDF 형식입니다. |
-| action | ConvertErrorAction | 변환할 수 없는 객체에 대한 작업입니다. |
+| 포맷 | PdfFormat | PDF 형식. |
+| 작업 | ConvertErrorAction | 변환할 수 없는 객체에 대한 동작 |
 
-### 참조
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -108,12 +108,12 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputLogFileName | String | 주석이 저장될 파일의 경로입니다. |
-| format | PdfFormat | PDF 형식입니다. |
-| action | ConvertErrorAction | 변환할 수 없는 객체에 대한 작업입니다. |
-| transparencyAction | ConvertTransparencyAction | 이미지 마스킹 객체에 대한 작업입니다. |
+| outputLogFileName | String | 댓글이 저장될 파일 경로. |
+| 포맷 | PdfFormat | PDF 형식. |
+| 작업 | ConvertErrorAction | 변환할 수 없는 객체에 대한 동작 |
+| transparencyAction | ConvertTransparencyAction | 이미지 마스크 객체에 대한 동작 |
 
-### 참조
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -135,14 +135,16 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputLogStream | Stream | 주석이 저장될 스트림입니다. |
-| format | PdfFormat | PDF 형식입니다. |
-| action | ConvertErrorAction | 변환할 수 없는 객체에 대한 작업입니다. |
+| outputLogStream | Stream | 댓글이 저장될 스트림 |
+| 포맷 | PdfFormat | pdf 형식 |
+| 작업 | ConvertErrorAction | 변환할 수 없는 객체에 대한 동작 |
 
-### 참조
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

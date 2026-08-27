@@ -1,12 +1,12 @@
 ---
-title: Class PrinterSettingsExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrinterSettingsExtensions 클래스. PrinterSettings에 대한 확장 메서드를 나타냅니다.
+title: "클래스 PrinterSettingsExtensions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Printing.PrinterSettingsExtensions 클래스. PrinterSettings에 대한 확장 메서드를 나타냅니다."
 type: docs
-weight: 9700
+weight: 9850
 url: /ko/net/aspose.pdf.printing/printersettingsextensions/
 ---
-## PrinterSettingsExtensions 클래스
+## PrinterSettingsExtensions class
 
 [`PrinterSettings`](../printersettings/)에 대한 확장 메서드를 나타냅니다.
 
@@ -21,7 +21,9 @@ public static class PrinterSettingsExtensions
 | static [ToAsposePrinterSettings](../../aspose.pdf.printing/printersettingsextensions/toasposeprintersettings/)(this PrinterSettings) | Windows 전용 System.Drawing.Printing.PrinterSettings를 [`PrinterSettings`](../printersettings/)로 변환합니다. |
 | static [ToNativePrinterSettings](../../aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/)(this PrinterSettings) | [`PrinterSettings`](../printersettings/)를 Windows 전용 System.Drawing.Printing.PrinterSettings로 변환합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Metadata.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: 메타데이터 메서드. 사전 열거자를 반환합니다.
+title: "Metadata.GetEnumerator"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Metadata 메서드. 딕셔너리 열거자를 반환합니다"
 type: docs
 weight: 160
 url: /ko/net/aspose.pdf/metadata/getenumerator/
 ---
-## Metadata.GetEnumerator 메서드
+## Metadata.GetEnumerator method
 
-사전 열거자를 반환합니다.
+딕셔너리 열거자를 반환합니다.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
@@ -16,11 +16,13 @@ public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
 
 ### 반환 값
 
-열거자.
+Enumerator.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpValue](../../xmpvalue/)
-* 클래스 [Metadata](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

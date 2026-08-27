@@ -1,12 +1,12 @@
 ---
-title: Class XmpField
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpField 클래스. XMP 필드를 나타냅니다.
+title: "클래스 XmpField"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.XmpField 클래스. XMP 필드를 나타냅니다."
 type: docs
-weight: 11410
+weight: 11600
 url: /ko/net/aspose.pdf/xmpfield/
 ---
-## XmpField 클래스
+## XmpField class
 
 XMP 필드를 나타냅니다.
 
@@ -18,11 +18,11 @@ public class XmpField
 
 | 이름 | 설명 |
 | --- | --- |
-| static [Empty](../../aspose.pdf/xmpfield/empty/) { get; } | 비어 있는 xmp 필드를 가져옵니다. |
+| static [Empty](../../aspose.pdf/xmpfield/empty/) { get; } | 빈 xmp 필드를 가져옵니다. |
 | static [Lang](../../aspose.pdf/xmpfield/lang/) { get; } | xml:lang 한정자를 가져옵니다. |
 | [FieldType](../../aspose.pdf/xmpfield/fieldtype/) { get; } | 필드의 유형을 가져옵니다. |
 | [IsEmpty](../../aspose.pdf/xmpfield/isempty/) { get; } | 이 인스턴스가 비어 있는지 여부를 나타내는 값을 가져옵니다. |
-| [LocalName](../../aspose.pdf/xmpfield/localname/) { get; set; } | 로컬 이름을 가져오거나 설정합니다. |
+| [LocalName](../../aspose.pdf/xmpfield/localname/) { get; set; } | 로컬의 이름을 가져오거나 설정합니다. |
 | [Name](../../aspose.pdf/xmpfield/name/) { get; } | 이름을 가져옵니다. |
 | [NamespaceUri](../../aspose.pdf/xmpfield/namespaceuri/) { get; set; } | 네임스페이스 URI를 가져옵니다. |
 | [Prefix](../../aspose.pdf/xmpfield/prefix/) { get; set; } | 접두사를 가져옵니다. |
@@ -39,7 +39,9 @@ public class XmpField
 | [operator ==](../../aspose.pdf/xmpfield/op_equality/) | 연산자 ==를 구현합니다. |
 | [operator !=](../../aspose.pdf/xmpfield/op_inequality/) | 연산자 !=를 구현합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

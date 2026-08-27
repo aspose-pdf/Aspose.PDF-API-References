@@ -1,21 +1,23 @@
 ---
-title: Border.EffectIntensity
-second_title: Aspose.PDF for .NET API Reference
-description: Border 속성. 효과 강도를 가져오거나 설정합니다. 유효한 값 범위는 0..2입니다.
+title: "Border.EffectIntensity"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Border 속성. 효과 강도를 가져오거나 설정합니다. 값의 유효 범위는 0..2입니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/border/effectintensity/
 ---
-## Border.EffectIntensity 속성
+## Border.EffectIntensity property
 
-효과 강도를 가져오거나 설정합니다. 유효한 값 범위는 [0..2]입니다.
+효과 강도를 가져오거나 설정합니다. 값의 유효 범위는 [0..2]입니다.
 
 ```csharp
 public int EffectIntensity { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Border](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

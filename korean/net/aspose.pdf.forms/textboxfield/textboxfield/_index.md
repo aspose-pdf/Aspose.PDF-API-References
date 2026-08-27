@@ -1,24 +1,24 @@
 ---
-title: TextBoxField.TextBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField 생성자. Generator와 함께 사용해야 하는 생성자
+title: "TextBoxField.TextBoxField"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextBoxField 생성자. Generator와 함께 사용해야 하는 생성자입니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.forms/textboxfield/textboxfield/
 ---
 ## TextBoxField(Document) {#constructor_1}
 
-Generator와 함께 사용해야 하는 생성자.
+Generator와 함께 사용해야 하는 생성자입니다.
 
 ```csharp
 public TextBoxField(Document doc)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| doc | Document | 필드가 생성될 문서. |
+| doc | Document | 필드가 생성될 Document. |
 
-### See Also
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [TextBoxField](../)
@@ -29,18 +29,18 @@ public TextBoxField(Document doc)
 
 ## TextBoxField(Page, Rectangle) {#constructor_3}
 
-텍스트 박스 필드의 생성자.
+TextBox 필드의 생성자입니다.
 
 ```csharp
 public TextBoxField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 텍스트 필드가 배치될 페이지. |
-| rect | Rectangle | 페이지에 텍스트 필드가 배치될 사각형. |
+| 페이지 | 페이지 | 텍스트 필드가 배치된 페이지. |
+| rect | Rectangle | 텍스트 필드가 페이지에 배치될 사각형. |
 
-### See Also
+### 또 보기
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -52,18 +52,18 @@ public TextBoxField(Page page, Rectangle rect)
 
 ## TextBoxField(Page, Rectangle[]) {#constructor_4}
 
-텍스트 박스 필드의 생성자.
+TextBox 필드의 생성자입니다.
 
 ```csharp
 public TextBoxField(Page page, Rectangle[] rects)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 텍스트 필드가 배치될 페이지. |
+| 페이지 | 페이지 | 텍스트 필드가 배치된 페이지. |
 | rects | Rectangle[] | 페이지에 TextBoxField 위젯 주석의 배치를 정의하는 사각형들. |
 
-### See Also
+### 또 보기
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -75,21 +75,23 @@ public TextBoxField(Page page, Rectangle[] rects)
 
 ## TextBoxField(Document, Rectangle) {#constructor_2}
 
-텍스트 박스 필드의 생성자.
+TextBox 필드의 생성자입니다.
 
 ```csharp
 public TextBoxField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| doc | Document | 필드가 생성될 문서. |
+| doc | Document | 필드가 생성될 Document. |
 | rect | Rectangle | 필드의 사각형. |
 
-### See Also
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

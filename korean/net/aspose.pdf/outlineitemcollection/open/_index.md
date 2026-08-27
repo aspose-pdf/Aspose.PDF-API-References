@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Open
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection 속성. 개요 항목에 대한 열림 상태 true/false를 가져오거나 설정합니다.
+title: "OutlineItemCollection.Open"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OutlineItemCollection 속성. 개요 항목의 열림 상태(true/false)를 가져오거나 설정합니다"
 type: docs
 weight: 160
 url: /ko/net/aspose.pdf/outlineitemcollection/open/
 ---
-## OutlineItemCollection.Open 속성
+## OutlineItemCollection.Open property
 
-개요 항목에 대한 열림 상태(true/false)를 가져오거나 설정합니다.
+개요 항목에 대한 열림 상태(참/거짓)를 가져오거나 설정합니다.
 
 ```csharp
 public bool Open { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [OutlineItemCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

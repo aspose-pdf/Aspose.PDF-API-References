@@ -1,7 +1,7 @@
 ---
-title: PdfOutputGenerator.PdfOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: PdfOutputGenerator 생성자. PdfOutputGenerator 클래스의 인스턴스를 생성합니다.
+title: "PdfOutputGenerator.PdfOutputGenerator"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfOutputGenerator 생성자. PdfOutputGenerator 클래스의 인스턴스를 생성합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.comparison/pdfoutputgenerator/pdfoutputgenerator/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf.comparison/pdfoutputgenerator/pdfoutputgenerator/
 public PdfOutputGenerator()
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
@@ -30,11 +30,11 @@ public PdfOutputGenerator()
 public PdfOutputGenerator(PageInfo pageInfo)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | pageInfo | PageInfo | 페이지 크기 및 여백 설정. |
 
-### See Also
+### 또 보기
 
 * class [PageInfo](../../../aspose.pdf/pageinfo/)
 * class [PdfOutputGenerator](../)
@@ -51,11 +51,11 @@ public PdfOutputGenerator(PageInfo pageInfo)
 public PdfOutputGenerator(OutputTextStyle textStyle)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| textStyle | OutputTextStyle | 변경된 텍스트의 스타일. |
+| textStyle | OutputTextStyle | 변경된 텍스트에 대한 스타일입니다. |
 
-### See Also
+### 또 보기
 
 * class [OutputTextStyle](../../outputtextstyle/)
 * class [PdfOutputGenerator](../)
@@ -72,15 +72,17 @@ public PdfOutputGenerator(OutputTextStyle textStyle)
 public PdfOutputGenerator(OutputTextStyle textStyle, PageInfo pageInfo)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| textStyle | OutputTextStyle | 변경된 텍스트의 스타일. |
+| textStyle | OutputTextStyle | 변경된 텍스트에 대한 스타일입니다. |
 | pageInfo | PageInfo | 페이지 크기 및 여백 설정. |
 
-### See Also
+### 또 보기
 
 * class [OutputTextStyle](../../outputtextstyle/)
 * class [PageInfo](../../../aspose.pdf/pageinfo/)
 * class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

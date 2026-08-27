@@ -1,21 +1,23 @@
 ---
-title: Class SignatureLengthMismatchException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.SignatureLengthMismatchException 클래스. PDF 서명 중 발생하는 오류를 나타냅니다. SignHash를 사용하여 문서에 서명할 때 서명의 실제 길이가 DefaultSignatureLength 옵션에 지정된 길이보다 클 경우 발생합니다.
+title: "클래스 SignatureLengthMismatchException"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Security.SignatureLengthMismatchException 클래스. PDF 서명 중에 발생하는 오류를 나타냅니다. SignHash를 사용해 문서를 서명하고 실제 서명 길이가 DefaultSignatureLength 옵션에 지정된 길이보다 큰 경우에 발생합니다."
 type: docs
-weight: 10020
+weight: 10200
 url: /ko/net/aspose.pdf.security/signaturelengthmismatchexception/
 ---
-## SignatureLengthMismatchException 클래스
+## SignatureLengthMismatchException class
 
-PDF 서명 중 발생하는 오류를 나타냅니다. [`SignHash`](../../aspose.pdf.forms/signhash/)를 사용하여 문서에 서명할 때 서명의 실제 길이가 [`DefaultSignatureLength`](../../aspose.pdf.forms/signature/defaultsignaturelength/) 옵션에 지정된 길이보다 클 경우 발생합니다.
+PDF 서명 중에 발생하는 오류를 나타냅니다. [`SignHash`](../../aspose.pdf.forms/signhash/)를 사용해 문서를 서명하고 실제 서명 길이가 [`DefaultSignatureLength`](../../aspose.pdf.forms/signature/defaultsignaturelength/) 옵션에 지정된 길이보다 큰 경우에 발생합니다.
 
 ```csharp
 public class SignatureLengthMismatchException : PdfException
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfException](../../aspose.pdf/pdfexception/)
-* 네임스페이스 [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [PdfException](../../aspose.pdf/pdfexception/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateJavaScriptLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. PDF 문서에서 JavaScript에 대한 링크를 생성합니다.
+title: "PdfContentEditor.CreateJavaScriptLink"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. PDF 문서에서 JavaScript에 대한 링크를 생성합니다."
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/createjavascriptlink/
 ---
-## PdfContentEditor.CreateJavaScriptLink 메서드
+## PdfContentEditor.CreateJavaScriptLink method
 
 PDF 문서에서 JavaScript에 대한 링크를 생성합니다.
 
@@ -16,10 +16,10 @@ public void CreateJavaScriptLink(string code, Rectangle rect, int originalPage, 
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| code | 문자열 | JavaScript 코드. |
-| rect | 사각형 | 활성 클릭을 위한 사각형. |
-| originalPage | Int32 | 링크와 함께 생성될 사각형의 원본 페이지 번호. |
-| color | 색상 | 활성 클릭을 위한 사각형의 색상. |
+| code | String | JavaScript 코드. |
+| rect | Rectangle | 활성 클릭을 위한 사각형입니다. |
+| originalPage | Int32 | 링크가 바인딩된 사각형이 생성될 원본 페이지 번호. |
+| color | Color | 활성 클릭을 위한 사각형의 색상입니다. |
 
 ## 예제
 
@@ -31,8 +31,10 @@ editor.CreateJavaScriptLink("app.alert('welcome to aspose!');",
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

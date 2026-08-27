@@ -1,20 +1,20 @@
 ---
-title: ButtonField.ButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField 생성자. Generator를 위한 버튼 필드 생성자
+title: "ButtonField.ButtonField"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ButtonField 생성자. Generator용 버튼 필드 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.forms/buttonfield/buttonfield/
 ---
 ## ButtonField() {#constructor}
 
-Generator를 위한 버튼 필드 생성자.
+Generator용 버튼 필드 생성자.
 
 ```csharp
 public ButtonField()
 ```
 
-### See Also
+### 또 보기
 
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -30,12 +30,12 @@ ButtonField 생성자.
 public ButtonField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 버튼이 배치될 페이지. |
-| rect | Rectangle | 페이지에 버튼이 배치된 사각형. |
+| 페이지 | 페이지 | 버튼이 배치될 페이지. |
+| rect | Rectangle | 버튼이 페이지에 배치되는 사각형. |
 
-### See Also
+### 또 보기
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -53,15 +53,17 @@ ButtonField 생성자.
 public ButtonField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | doc | Document | 새 필드가 생성될 문서. |
-| rect | Rectangle | 페이지에 버튼이 배치된 사각형. |
+| rect | Rectangle | 버튼이 페이지에 배치되는 사각형. |
 
-### See Also
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

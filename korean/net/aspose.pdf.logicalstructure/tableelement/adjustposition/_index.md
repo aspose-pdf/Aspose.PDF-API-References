@@ -1,20 +1,22 @@
 ---
-title: TableElement.AdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: 테이블 요소 메서드.
+title: "TableElement.AdjustPosition"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TableElement 메서드."
 type: docs
 weight: 190
 url: /ko/net/aspose.pdf.logicalstructure/tableelement/adjustposition/
 ---
-## TableElement.AdjustPosition 메서드
+## TableElement.AdjustPosition method
 
 ```csharp
 public void AdjustPosition(PositionSettings positionSettings)
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
-* 클래스 [TableElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

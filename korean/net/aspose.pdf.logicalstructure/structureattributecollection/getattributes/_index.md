@@ -1,12 +1,12 @@
 ---
-title: StructureAttributeCollection.GetAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttributeCollection 메서드. 표준 속성 소유자에 의해 구조 요소의 StructureAttributes를 반환합니다.
+title: "StructureAttributeCollection.GetAttributes"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureAttributeCollection 메서드. 표준 속성 소유자에 의해 구조 요소의 StructureAttributes를 반환합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/
 ---
-## StructureAttributeCollection.GetAttributes 메서드
+## StructureAttributeCollection.GetAttributes method
 
 표준 속성 소유자에 의해 구조 요소의 [`StructureAttributes`](../../structureattributes/)를 반환합니다.
 
@@ -20,12 +20,14 @@ public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 
 ### 반환 값
 
-구조 요소의 [`StructureAttributes`](../../structureattributes/). 찾을 수 없는 경우 null을 반환합니다.
+[`StructureAttributes`](../../structureattributes/) of structure element. Return null if not found.
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureAttributes](../../structureattributes/)
-* 클래스 [AttributeOwnerStandard](../../attributeownerstandard/)
-* 클래스 [StructureAttributeCollection](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

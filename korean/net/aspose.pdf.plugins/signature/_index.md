@@ -1,12 +1,12 @@
 ---
-title: Class Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Signature 클래스. 서명 플러그인을 나타냅니다.
+title: "클래스 Signature"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.Signature 클래스. Signature 플러그인을 나타냅니다"
 type: docs
-weight: 9260
+weight: 9410
 url: /ko/net/aspose.pdf.plugins/signature/
 ---
-## 서명 클래스
+## Signature class
 
 `Signature` 플러그인을 나타냅니다.
 
@@ -18,7 +18,7 @@ public sealed class Signature : IPlugin
 
 | 이름 | 설명 |
 | --- | --- |
-| [Signature](signature/)() | 기본 생성자입니다. |
+| [Signature](signature/)() | 기본 생성자. |
 
 ## 메서드
 
@@ -28,23 +28,25 @@ public sealed class Signature : IPlugin
 
 ## 예제
 
-이 예제는 PDF 문서에 서명하는 방법을 보여줍니다.
+예제는 PDF 문서에 서명하는 방법을 보여줍니다.
 
 ```csharp
-// create Signature
+// Signature 생성
 var plugin = new Signature();
-// create SignOptions object to set instructions
+// 지시사항을 설정하기 위해 SignOptions 객체를 생성합니다
 var opt = new SignOptions(inputPfx, inputPfxPassword);
-// add input file path
+// 입력 파일 경로를 추가합니다
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// 출력 파일 경로를 설정합니다.
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// 프로세스를 수행합니다.
 plugin.Process(opt);
 ```
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IPlugin](../iplugin/)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

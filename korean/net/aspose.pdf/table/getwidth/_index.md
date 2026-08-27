@@ -1,14 +1,14 @@
 ---
-title: Table.GetWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Table 메서드. 너비 가져오기
+title: "Table.GetWidth"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Table 메서드. 너비를 가져옵니다."
 type: docs
 weight: 240
 url: /ko/net/aspose.pdf/table/getwidth/
 ---
-## Table.GetWidth 메서드
+## Table.GetWidth method
 
-너비 가져오기.
+너비를 가져옵니다.
 
 ```csharp
 public double GetWidth()
@@ -16,10 +16,12 @@ public double GetWidth()
 
 ### 반환 값
 
-테이블 너비
+표의 너비
 
-### 참조
+### 또 보기
 
-* 클래스 [Table](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

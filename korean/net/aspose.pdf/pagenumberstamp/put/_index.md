@@ -1,14 +1,14 @@
 ---
-title: PageNumberStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp 메서드. 페이지 번호 추가
+title: "PageNumberStamp.Put"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageNumberStamp 메서드. 페이지 번호를 추가합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/pagenumberstamp/put/
 ---
-## PageNumberStamp.Put 메서드
+## PageNumberStamp.Put method
 
-페이지 번호를 추가합니다.
+page 번호를 추가합니다.
 
 ```csharp
 public override void Put(Page page)
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 스탬프를 찍을 페이지. |
+| 페이지 | 페이지 | 스탬프용 페이지. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../../page/)
-* 클래스 [PageNumberStamp](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

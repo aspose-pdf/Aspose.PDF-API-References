@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.ExtractLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. PDF 문서에 포함된 Link 인스턴스의 컬렉션을 추출합니다.
+title: "PdfContentEditor.ExtractLink"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. PDF 문서에 포함된 Link 인스턴스 컬렉션을 추출합니다."
 type: docs
 weight: 370
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/extractlink/
 ---
-## PdfContentEditor.ExtractLink 메서드
+## PdfContentEditor.ExtractLink method
 
-PDF 문서에 포함된 Link 인스턴스의 컬렉션을 추출합니다.
+PDF 문서에 포함된 Link 인스턴스 컬렉션을 추출합니다.
 
 ```csharp
 public IList<Annotation> ExtractLink()
@@ -27,13 +27,15 @@ IList links = editor.ExtractLink();
 foreach (object obj in links)
 {
     Link link = (Link)obj;
-    // work with Link instance
+    // Link 인스턴스를 사용합니다.
 }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Annotation](../../../aspose.pdf.annotations/annotation/)
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

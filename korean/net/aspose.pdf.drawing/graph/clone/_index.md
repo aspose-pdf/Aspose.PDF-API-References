@@ -1,12 +1,12 @@
 ---
-title: Graph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: 그래프 메서드. 그래프 복제
+title: "Graph.Clone"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Graph 메서드. 그래프를 복제합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.drawing/graph/clone/
 ---
-## Graph.Clone 메서드
+## Graph.Clone method
 
 그래프를 복제합니다.
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 복제된 객체
 
-### 참조
+### 또 보기
 
-* 클래스 [Graph](../)
-* 네임스페이스 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

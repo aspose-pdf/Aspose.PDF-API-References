@@ -1,14 +1,14 @@
 ---
-title: DateField.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: DateField 메서드. 이 필드에 대한 이미지 추가가 거부되었습니다.
+title: "DateField.AddImage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DateField 메서드. 이 필드에 이미지 추가가 거부되었습니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.forms/datefield/addimage/
 ---
-## DateField.AddImage 메서드
+## DateField.AddImage method
 
-이 필드에 대한 이미지 추가가 거부되었습니다.
+이 필드에 이미지 추가가 거부되었습니다.
 
 ```csharp
 public void AddImage(Image image)
@@ -16,7 +16,7 @@ public void AddImage(Image image)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| image | Image | 이미지. |
+| 이미지 | Image | 이미지. |
 
 ### 예외
 
@@ -24,9 +24,11 @@ public void AddImage(Image image)
 | --- | --- |
 | InvalidOperationException |  |
 
-### 참조
+### 또 보기
 
-* 클래스 [Image](../../../aspose.pdf/image/)
-* 클래스 [DateField](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Image](../../../aspose.pdf/image/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

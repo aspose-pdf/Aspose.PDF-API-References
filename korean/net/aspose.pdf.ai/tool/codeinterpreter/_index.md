@@ -1,12 +1,12 @@
 ---
-title: Tool.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: 도구 속성. 코드 인터프리터를 나타내는 도구 인스턴스를 가져옵니다.
+title: "Tool.CodeInterpreter"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Tool 속성. 코드 인터프리터를 나타내는 도구 인스턴스를 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.ai/tool/codeinterpreter/
 ---
-## Tool.CodeInterpreter 속성
+## Tool.CodeInterpreter property
 
 코드 인터프리터를 나타내는 도구 인스턴스를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.ai/tool/codeinterpreter/
 public static Tool CodeInterpreter { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Tool](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

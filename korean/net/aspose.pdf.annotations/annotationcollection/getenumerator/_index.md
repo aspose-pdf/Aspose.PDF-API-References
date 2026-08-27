@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection 메서드. 컬렉션 열거자를 반환합니다.
+title: "AnnotationCollection.GetEnumerator"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AnnotationCollection 메서드. 컬렉션 열거자를 반환합니다"
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf.annotations/annotationcollection/getenumerator/
 ---
-## AnnotationCollection.GetEnumerator 메서드
+## AnnotationCollection.GetEnumerator method
 
 컬렉션 열거자를 반환합니다.
 
@@ -18,9 +18,11 @@ public IEnumerator<Annotation> GetEnumerator()
 
 열거자 객체
 
-### 참조
+### 또 보기
 
-* 클래스 [Annotation](../../annotation/)
-* 클래스 [AnnotationCollection](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

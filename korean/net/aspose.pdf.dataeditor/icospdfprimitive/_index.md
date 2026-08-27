@@ -1,14 +1,14 @@
 ---
-title: Interface ICosPdfPrimitive
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DataEditor.ICosPdfPrimitive 인터페이스. PDF 데이터 엔티티 작업을 위한 인터페이스
+title: "인터페이스 ICosPdfPrimitive"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.DataEditor.ICosPdfPrimitive 인터페이스. PDF 데이터 엔터티 작업을 위한 인터페이스"
 type: docs
-weight: 3480
+weight: 3600
 url: /ko/net/aspose.pdf.dataeditor/icospdfprimitive/
 ---
-## ICosPdfPrimitive 인터페이스
+## ICosPdfPrimitive interface
 
-PDF 데이터 엔티티 작업을 위한 인터페이스
+PDF 데이터 엔터티 작업을 위한 인터페이스
 
 ```csharp
 public interface ICosPdfPrimitive
@@ -18,14 +18,16 @@ public interface ICosPdfPrimitive
 
 | 이름 | 설명 |
 | --- | --- |
-| [ToCosPdfBoolean](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfboolean/)() | 이 인스턴스를 [`CosPdfBoolean`](../cospdfboolean/)으로 변환하려고 시도합니다. |
-| [ToCosPdfDictionary](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfdictionary/)() | 이 인스턴스를 [`CosPdfDictionary`](../cospdfdictionary/)으로 변환하려고 시도합니다. |
-| [ToCosPdfName](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfname/)() | 이 인스턴스를 [`CosPdfName`](../cospdfname/)으로 변환하려고 시도합니다. |
-| [ToCosPdfNumber](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfnumber/)() | 이 인스턴스를 [`CosPdfNumber`](../cospdfnumber/)으로 변환하려고 시도합니다. |
-| [ToCosPdfString](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfstring/)() | 이 인스턴스를 [`CosPdfString`](../cospdfstring/)으로 변환하려고 시도합니다. |
-| [ToString](../../aspose.pdf.dataeditor/icospdfprimitive/tostring/)() | 인스턴스 `ICosPdfPrimitive`의 문자열 표현입니다. |
+| [ToCosPdfBoolean](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfboolean/)() | 이 인스턴스를 [`CosPdfBoolean`](../cospdfboolean/) 로 캐스팅을 시도합니다. |
+| [ToCosPdfDictionary](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfdictionary/)() | 이 인스턴스를 [`CosPdfDictionary`](../cospdfdictionary/) 로 캐스팅을 시도합니다. |
+| [ToCosPdfName](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfname/)() | 이 인스턴스를 [`CosPdfName`](../cospdfname/) 로 캐스팅을 시도합니다. |
+| [ToCosPdfNumber](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfnumber/)() | 이 인스턴스를 [`CosPdfNumber`](../cospdfnumber/) 로 캐스팅을 시도합니다. |
+| [ToCosPdfString](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfstring/)() | 이 인스턴스를 [`CosPdfString`](../cospdfstring/) 로 캐스팅을 시도합니다. |
+| [ToString](../../aspose.pdf.dataeditor/icospdfprimitive/tostring/)() | `ICosPdfPrimitive` 인스턴스의 문자열 표현입니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../)
+
+

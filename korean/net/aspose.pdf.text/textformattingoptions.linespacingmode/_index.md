@@ -1,14 +1,14 @@
 ---
-title: Enum TextFormattingOptions.LineSpacingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode 열거형. 줄 간격 세부정보 정의
+title: "Enum TextFormattingOptions.LineSpacingMode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode 열거형. 줄 간격 세부 정보를 정의합니다"
 type: docs
-weight: 10920
+weight: 11100
 url: /ko/net/aspose.pdf.text/textformattingoptions.linespacingmode/
 ---
-## TextFormattingOptions.LineSpacingMode 열거형
+## TextFormattingOptions.LineSpacingMode enumeration
 
-줄 간격 세부정보 정의
+줄 간격 세부 정보를 정의합니다
 
 ```csharp
 public enum LineSpacingMode
@@ -19,10 +19,12 @@ public enum LineSpacingMode
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | FontSize | `0` | 줄 간격은 글꼴 크기입니다 |
-| FullSize | `1` | 줄 간격은 하강자와 상승자 사이의 전체 공간입니다 |
+| FullSize | `1` | 줄 간격은 디센더와 어센더 사이의 전체 공간입니다 |
 
-### 참조
+### 또 보기
 
-* 클래스 [TextFormattingOptions](../textformattingoptions/)
-* 네임스페이스 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [TextFormattingOptions](../textformattingoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

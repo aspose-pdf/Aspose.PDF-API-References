@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.LetterTransverse
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 가로 방향의 편지 용지 8.275 인치 x 11 인치
+title: "PaperSizes.LetterTransverse"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 레터 가로용지 8.275 인치 x 11 인치"
 type: docs
 weight: 710
 url: /ko/net/aspose.pdf.printing/papersizes/lettertransverse/
 ---
-## PaperSizes.LetterTransverse 필드
+## PaperSizes.LetterTransverse field
 
-가로 방향의 편지 용지 (8.275 인치 x 11 인치).
+Letter 가로 용지 (8.275 인치 × 11 인치).
 
 ```csharp
 public static readonly PaperSize LetterTransverse;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

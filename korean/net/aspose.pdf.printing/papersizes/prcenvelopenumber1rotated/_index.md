@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber1Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 1회전된 봉투 165 mm x 102 mm
+title: "PaperSizes.PrcEnvelopeNumber1Rotated"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 1 회전 봉투 165 mm × 102 mm"
 type: docs
 weight: 890
 url: /ko/net/aspose.pdf.printing/papersizes/prcenvelopenumber1rotated/
 ---
-## PaperSizes.PrcEnvelopeNumber1Rotated 필드
+## PaperSizes.PrcEnvelopeNumber1Rotated field
 
-#1회전된 봉투 (165 mm x 102 mm).
+#1 회전 봉투 (165 mm × 102 mm).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber1Rotated;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

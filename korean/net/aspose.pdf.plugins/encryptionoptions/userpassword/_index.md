@@ -1,12 +1,12 @@
 ---
-title: EncryptionOptions.UserPassword
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptionOptions 속성. 사용자 비밀번호
+title: "EncryptionOptions.UserPassword"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "EncryptionOptions 속성. 사용자 비밀번호"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.plugins/encryptionoptions/userpassword/
 ---
-## EncryptionOptions.UserPassword 속성
+## EncryptionOptions.UserPassword property
 
 사용자 비밀번호.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.plugins/encryptionoptions/userpassword/
 public string UserPassword { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [EncryptionOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [EncryptionOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

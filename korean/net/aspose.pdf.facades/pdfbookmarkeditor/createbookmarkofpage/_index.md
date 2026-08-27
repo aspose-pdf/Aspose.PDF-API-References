@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarkOfPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor 메서드. 지정된 페이지에 대한 북마크를 생성합니다.
+title: "PdfBookmarkEditor.CreateBookmarkOfPage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfBookmarkEditor 메서드. 지정된 페이지에 대한 북마크를 생성합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
 ---
 ## CreateBookmarkOfPage(string, int) {#createbookmarkofpage}
 
-지정된 페이지에 대한 북마크를 생성합니다.
+지정된 페이지에 북마크를 생성합니다.
 
 ```csharp
 public void CreateBookmarkOfPage(string bookmarkName, int pageNumber)
@@ -28,7 +28,7 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -38,7 +38,7 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarkOfPage(string[], int[]) {#createbookmarkofpage_1}
 
-지정된 페이지에 대한 북마크를 생성합니다.
+지정된 페이지들에 북마크를 생성합니다.
 
 ```csharp
 public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
@@ -58,8 +58,10 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

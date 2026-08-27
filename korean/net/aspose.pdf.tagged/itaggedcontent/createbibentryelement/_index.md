@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateBibEntryElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. BibEntryElement를 생성합니다.
+title: "ITaggedContent.CreateBibEntryElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. 생성합니다 BibEntryElement"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createbibentryelement/
 ---
-## ITaggedContent.CreateBibEntryElement 메서드
+## ITaggedContent.CreateBibEntryElement method
 
-[`BibEntryElement`](../../../aspose.pdf.logicalstructure/bibentryelement/)를 생성합니다.
+생성합니다 [`BibEntryElement`](../../../aspose.pdf.logicalstructure/bibentryelement/).
 
 ```csharp
 public BibEntryElement CreateBibEntryElement()
@@ -16,11 +16,13 @@ public BibEntryElement CreateBibEntryElement()
 
 ### 반환 값
 
-생성된 구조 요소입니다.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [BibEntryElement](../../../aspose.pdf.logicalstructure/bibentryelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BibEntryElement](../../../aspose.pdf.logicalstructure/bibentryelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PngDevice.PngDevice
-second_title: Aspose.PDF for .NET API Reference
-description: PngDevice 생성자. 기본 해상도로 PngDevice 클래스의 새 인스턴스를 초기화합니다.
+title: "PngDevice.PngDevice"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PngDevice 생성자. 기본 해상도로 PngDevice 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.devices/pngdevice/pngdevice/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf.devices/pngdevice/pngdevice/
 public PngDevice()
 ```
 
-### See Also
+### 또 보기
 
 * class [PngDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -24,13 +24,13 @@ public PngDevice()
 
 ## PngDevice(Resolution) {#constructor_1}
 
-[`PngDevice`](../) 클래스의 새 인스턴스를 초기화합니다. 결과 이미지 파일의 해상도는 [`Resolution`](../../resolution/) 클래스를 참조하십시오.
+[`PngDevice`](../) 클래스를 새 인스턴스로 초기화합니다. 결과 이미지 파일의 해상도는 [`Resolution`](../../resolution/) 클래스를 참조하십시오.
 
 ```csharp
 public PngDevice(Resolution resolution)
 ```
 
-### See Also
+### 또 보기
 
 * class [Resolution](../../resolution/)
 * class [PngDevice](../)
@@ -41,19 +41,19 @@ public PngDevice(Resolution resolution)
 
 ## PngDevice(int, int, Resolution) {#constructor_5}
 
-제공된 이미지 크기와 해상도로 [`PngDevice`](../) 클래스의 새 인스턴스를 초기화합니다.
+제공된 이미지 크기와 해상도로 [`PngDevice`](../) 클래스를 새 인스턴스로 초기화합니다.
 
 ```csharp
 public PngDevice(int width, int height, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| width | Int32 | 이미지 출력 너비. |
-| height | Int32 | 이미지 출력 높이. |
-| resolution | Resolution | 결과 이미지 파일의 해상도, [`Resolution`](../../resolution/) 클래스를 참조하십시오. |
+| 너비 | Int32 | 이미지 출력 너비. |
+| 높이 | Int32 | 이미지 출력 높이. |
+| resolution | Resolution | 결과 이미지 파일의 해상도는 [`Resolution`](../../resolution/) 클래스를 참조하십시오. |
 
-### See Also
+### 또 보기
 
 * class [Resolution](../../resolution/)
 * class [PngDevice](../)
@@ -64,18 +64,18 @@ public PngDevice(int width, int height, Resolution resolution)
 
 ## PngDevice(PageSize, Resolution) {#constructor_3}
 
-제공된 페이지 크기와 해상도로 [`PngDevice`](../) 클래스의 새 인스턴스를 초기화합니다.
+제공된 페이지 크기와 해상도로 [`PngDevice`](../) 클래스를 새 인스턴스로 초기화합니다.
 
 ```csharp
 public PngDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | pageSize | PageSize | 출력 이미지의 페이지 크기. |
-| resolution | Resolution | 결과 이미지 파일의 해상도, [`Resolution`](../../resolution/) 클래스를 참조하십시오. |
+| resolution | Resolution | 결과 이미지 파일의 해상도는 [`Resolution`](../../resolution/) 클래스를 참조하십시오. |
 
-### See Also
+### 또 보기
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [Resolution](../../resolution/)
@@ -87,18 +87,18 @@ public PngDevice(PageSize pageSize, Resolution resolution)
 
 ## PngDevice(int, int) {#constructor_4}
 
-제공된 이미지 크기와 기본 해상도(=150)로 [`PngDevice`](../) 클래스의 새 인스턴스를 초기화합니다.
+제공된 이미지 크기와 기본 해상도(=150)로 [`PngDevice`](../) 클래스를 새 인스턴스로 초기화합니다.
 
 ```csharp
 public PngDevice(int width, int height)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| width | Int32 | 이미지 출력 너비. |
-| height | Int32 | 이미지 출력 높이. |
+| 너비 | Int32 | 이미지 출력 너비. |
+| 높이 | Int32 | 이미지 출력 높이. |
 
-### See Also
+### 또 보기
 
 * class [PngDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -108,19 +108,21 @@ public PngDevice(int width, int height)
 
 ## PngDevice(PageSize) {#constructor_2}
 
-제공된 페이지 크기와 기본 해상도(=150)로 [`PngDevice`](../) 클래스의 새 인스턴스를 초기화합니다.
+제공된 페이지 크기와 기본 해상도(=150)로 [`PngDevice`](../) 클래스를 새 인스턴스로 초기화합니다.
 
 ```csharp
 public PngDevice(PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | pageSize | PageSize | 출력 이미지의 페이지 크기. |
 
-### See Also
+### 또 보기
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PngDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

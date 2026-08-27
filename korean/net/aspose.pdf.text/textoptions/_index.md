@@ -1,20 +1,22 @@
 ---
-title: Class TextOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextOptions 클래스. 텍스트 처리 옵션을 나타냅니다
+title: "클래스 TextOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Text.TextOptions 클래스. 텍스트 처리 옵션을 나타냅니다"
 type: docs
-weight: 10980
+weight: 11160
 url: /ko/net/aspose.pdf.text/textoptions/
 ---
-## TextOptions 클래스
+## TextOptions class
 
-텍스트 처리 옵션을 나타냅니다
+텍스트 처리 옵션을 나타냅니다.
 
 ```csharp
 public abstract class TextOptions
 ```
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

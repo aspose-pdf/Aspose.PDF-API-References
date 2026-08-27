@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.NamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType 속성. 네임스페이스 URI를 가져옵니다.
+title: "XmpPdfAExtensionValueType.NamespaceUri"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpPdfAExtensionValueType 속성. 네임스페이스 URI를 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/xmppdfaextensionvaluetype/namespaceuri/
 ---
-## XmpPdfAExtensionValueType.NamespaceUri 속성
+## XmpPdfAExtensionValueType.NamespaceUri property
 
 네임스페이스 URI를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/xmppdfaextensionvaluetype/namespaceuri/
 public string NamespaceUri { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpPdfAExtensionValueType](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

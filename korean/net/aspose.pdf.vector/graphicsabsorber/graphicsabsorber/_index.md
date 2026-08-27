@@ -1,21 +1,23 @@
 ---
-title: GraphicsAbsorber.GraphicsAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicsAbsorber 생성자. 기본 생성자
+title: "GraphicsAbsorber.GraphicsAbsorber"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "GraphicsAbsorber 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.vector/graphicsabsorber/graphicsabsorber/
 ---
-## GraphicsAbsorber 생성자
+## GraphicsAbsorber constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public GraphicsAbsorber()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [GraphicsAbsorber](../)
-* 네임스페이스 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

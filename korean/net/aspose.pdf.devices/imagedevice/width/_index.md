@@ -1,12 +1,12 @@
 ---
-title: ImageDevice.Width
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice 속성. 이미지 출력 너비를 가져옵니다.
+title: "ImageDevice.Width"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImageDevice 속성. 이미지 출력 너비를 가져옵니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.devices/imagedevice/width/
 ---
-## ImageDevice.Width 속성
+## ImageDevice.Width property
 
 이미지 출력 너비를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.devices/imagedevice/width/
 public int Width { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ImageDevice](../)
-* 네임스페이스 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

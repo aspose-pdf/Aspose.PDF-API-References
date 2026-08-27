@@ -1,12 +1,12 @@
 ---
-title: SetFlat.Flatness
-second_title: Aspose.PDF for .NET API Reference
-description: SetFlat 속성. 평탄도를 가져오거나 설정합니다.
+title: "SetFlat.Flatness"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetFlat 속성. 평탄도를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/setflat/flatness/
 ---
-## SetFlat.Flatness 속성
+## SetFlat.Flatness property
 
 평탄도를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/setflat/flatness/
 public double Flatness { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SetFlat](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetFlat](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata 속성. 사전에서 키를 가져옵니다.
+title: "PdfXmpMetadata.Keys"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfXmpMetadata 속성. 사전에서 키를 가져옵니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.facades/pdfxmpmetadata/keys/
 ---
-## PdfXmpMetadata.Keys 속성
+## PdfXmpMetadata.Keys property
 
 사전에서 키를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.facades/pdfxmpmetadata/keys/
 public ICollection<string> Keys { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.TrySaveTextUnderliningAndStrikeoutingInCss
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 필드. PDF 자체에는 텍스트에 대한 밑줄 표시기가 포함되어 있지 않습니다. 텍스트 아래에 위치한 선으로 에뮬레이트됩니다. 이 옵션은 변환기가 이 선이 텍스트의 밑줄인지 추측하고 이 정보를 그래픽적으로 밑줄을 그리는 대신 CSS에 넣을 수 있도록 허용합니다.
+title: "HtmlSaveOptions.TrySaveTextUnderliningAndStrikeoutingInCss"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "HtmlSaveOptions 필드. PDF 자체에는 텍스트에 대한 밑줄 표시가 없으며, 텍스트 아래에 선을 배치하여 에뮬레이션합니다. 이 옵션은 변환기가 해당 선이 텍스트의 밑줄인지 추측하여 그래픽으로 밑줄을 그리는 대신 CSS에 해당 정보를 넣도록 허용합니다."
 type: docs
 weight: 460
 url: /ko/net/aspose.pdf/htmlsaveoptions/trysavetextunderliningandstrikeoutingincss/
 ---
-## HtmlSaveOptions.TrySaveTextUnderliningAndStrikeoutingInCss 필드
+## HtmlSaveOptions.TrySaveTextUnderliningAndStrikeoutingInCss field
 
-PDF 자체에는 텍스트에 대한 밑줄 표시기가 포함되어 있지 않습니다. 텍스트 아래에 위치한 선으로 에뮬레이트됩니다. 이 옵션은 변환기가 이 선이 텍스트의 밑줄인지 추측하고 이 정보를 그래픽적으로 밑줄을 그리는 대신 CSS에 넣을 수 있도록 허용합니다.
+PDF 자체에는 텍스트에 대한 밑줄 표시가 포함되어 있지 않으며 텍스트 아래에 위치한 선으로 에뮬레이션됩니다. 이 옵션은 변환기가 해당 선이 텍스트의 밑줄인지 추측하고 그래픽으로 밑줄을 그리는 대신 CSS에 해당 정보를 넣도록 허용합니다.
 
 ```csharp
 public bool TrySaveTextUnderliningAndStrikeoutingInCss;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [HtmlSaveOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

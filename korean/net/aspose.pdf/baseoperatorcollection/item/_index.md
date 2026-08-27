@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection 속성. 인덱스로 연산자를 가져옵니다.
+title: "BaseOperatorCollection.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BaseOperatorCollection 속성. 인덱스로 연산자를 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/baseoperatorcollection/item/
 ---
-## BaseOperatorCollection 인덱서
+## BaseOperatorCollection indexer
 
 인덱스로 연산자를 가져옵니다.
 
@@ -22,9 +22,11 @@ public abstract Operator this[int index] { get; set; }
 
 요청된 인덱스의 연산자
 
-### 참조
+### 또 보기
 
-* 클래스 [Operator](../../operator/)
-* 클래스 [BaseOperatorCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.AlignCenter
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 필드. 중앙 정렬 스타일을 정의합니다.
+title: "FormFieldFacade.AlignCenter"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 필드. 정렬을 가운데 스타일로 정의합니다"
 type: docs
 weight: 220
 url: /ko/net/aspose.pdf.facades/formfieldfacade/aligncenter/
 ---
-## FormFieldFacade.AlignCenter 필드
+## FormFieldFacade.AlignCenter field
 
-중앙 정렬 스타일을 정의합니다.
+정렬을 중앙 스타일로 정의합니다.
 
 ```csharp
 public const int AlignCenter;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FormTextBoxFieldSetOptions.MaxLen
-second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldSetOptions 속성. 수정된 필드에 대해 MaxLen 속성을 결정하는 값을 가져오거나 설정합니다.
+title: "FormTextBoxFieldSetOptions.MaxLen"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormTextBoxFieldSetOptions 속성. 수정된 필드에 대해 MaxLen 속성을 결정하기 위해 값을 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.plugins/formtextboxfieldsetoptions/maxlen/
 ---
-## FormTextBoxFieldSetOptions.MaxLen 속성
+## FormTextBoxFieldSetOptions.MaxLen property
 
-수정된 필드에 대해 MaxLen 속성을 결정하는 값을 가져오거나 설정합니다(설정될 경우).
+수정된 필드에 대한 MaxLen 속성을 결정하는 값을 가져오거나 설정합니다 (설정될 경우).
 
 ```csharp
 public int? MaxLen { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormTextBoxFieldSetOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormTextBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

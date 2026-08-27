@@ -1,7 +1,7 @@
 ---
-title: TextState.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: TextState 생성자. 텍스트 상태 객체를 생성합니다.
+title: "TextState.TextState"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextState 생성자. 텍스트 상태 객체를 생성합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.text/textstate/textstate/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf.text/textstate/textstate/
 public TextState()
 ```
 
-### See Also
+### 또 보기
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -24,17 +24,17 @@ public TextState()
 
 ## TextState(double) {#constructor_1}
 
-글꼴 크기 사양으로 텍스트 상태 객체를 생성합니다.
+폰트 크기 지정으로 텍스트 상태 객체를 생성합니다.
 
 ```csharp
 public TextState(double fontSize)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | fontSize | Double | 글꼴 크기. |
 
-### See Also
+### 또 보기
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -44,17 +44,17 @@ public TextState(double fontSize)
 
 ## TextState(Color) {#constructor_2}
 
-전경 색상 사양으로 텍스트 상태 객체를 생성합니다.
+전경색 지정으로 텍스트 상태 객체를 생성합니다.
 
 ```csharp
 public TextState(Color foregroundColor)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| foregroundColor | Color | 전경 색상. |
+| foregroundColor | Color | 전경색. |
 
-### See Also
+### 또 보기
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -64,18 +64,18 @@ public TextState(Color foregroundColor)
 
 ## TextState(Color, double) {#constructor_3}
 
-전경 색상 및 글꼴 크기 사양으로 텍스트 상태 객체를 생성합니다.
+전경색 및 폰트 크기 지정으로 텍스트 상태 객체를 생성합니다.
 
 ```csharp
 public TextState(Color foregroundColor, double fontSize)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| foregroundColor | Color | 전경 색상. |
+| foregroundColor | Color | 전경색. |
 | fontSize | Double | 글꼴 크기. |
 
-### See Also
+### 또 보기
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -85,17 +85,17 @@ public TextState(Color foregroundColor, double fontSize)
 
 ## TextState(string) {#constructor_4}
 
-글꼴 패밀리 사양으로 텍스트 상태 객체를 생성합니다.
+폰트 패밀리 지정으로 텍스트 상태 객체를 생성합니다.
 
 ```csharp
 public TextState(string fontFamily)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fontFamily | String | 글꼴 패밀리. |
+| fontFamily | String | 폰트 패밀리. |
 
-### See Also
+### 또 보기
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -105,19 +105,19 @@ public TextState(string fontFamily)
 
 ## TextState(string, bool, bool) {#constructor_5}
 
-글꼴 패밀리 및 글꼴 스타일 사양으로 텍스트 상태 객체를 생성합니다.
+폰트 패밀리와 폰트 스타일 지정으로 텍스트 상태 객체를 생성합니다.
 
 ```csharp
 public TextState(string fontFamily, bool bold, bool italic)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fontFamily | String | 글꼴 패밀리. |
+| fontFamily | String | 폰트 패밀리. |
 | bold | Boolean | 굵은 글꼴 스타일. |
 | italic | Boolean | 이탤릭 글꼴 스타일. |
 
-### See Also
+### 또 보기
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -127,19 +127,21 @@ public TextState(string fontFamily, bool bold, bool italic)
 
 ## TextState(string, double) {#constructor_6}
 
-글꼴 패밀리 및 글꼴 크기 사양으로 텍스트 상태 객체를 생성합니다.
+폰트 패밀리와 폰트 크기 지정으로 텍스트 상태 객체를 생성합니다.
 
 ```csharp
 public TextState(string fontFamily, double fontSize)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fontFamily | String | 글꼴 패밀리. |
+| fontFamily | String | 폰트 패밀리. |
 | fontSize | Double | 글꼴 크기. |
 
-### See Also
+### 또 보기
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PngDevice.TransparentBackground
-second_title: Aspose.PDF for .NET API Reference
-description: PngDevice 속성. 이미지에 투명 배경이 있는지 설정하거나 가져옵니다.
+title: "PngDevice.TransparentBackground"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PngDevice 속성. 이미지에 투명 배경이 있는지 여부를 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.devices/pngdevice/transparentbackground/
 ---
-## PngDevice.TransparentBackground 속성
+## PngDevice.TransparentBackground property
 
-이미지에 투명 배경이 있는지 설정하거나 가져옵니다.
+이미지에 투명 배경이 있는지 여부를 가져오거나 설정합니다.
 
 ```csharp
 public bool TransparentBackground { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PngDevice](../)
-* 네임스페이스 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PngDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Document.PageLayout
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 문서가 열릴 때 사용될 페이지 레이아웃을 가져오거나 설정합니다.
+title: "Document.PageLayout"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. 문서를 열 때 사용될 페이지 레이아웃을 가져오거나 설정합니다."
 type: docs
-weight: 450
+weight: 470
 url: /ko/net/aspose.pdf/document/pagelayout/
 ---
-## Document.PageLayout 속성
+## Document.PageLayout property
 
-문서가 열릴 때 사용될 페이지 레이아웃을 가져오거나 설정합니다.
+document를 열 때 사용할 페이지 레이아웃을 가져오거나 설정합니다.
 
 ```csharp
 public PageLayout PageLayout { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [PageLayout](../../pagelayout/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

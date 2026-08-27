@@ -1,14 +1,14 @@
 ---
-title: Enum HeadingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeadingStyle 열거형. 제목에 대한 사용 가능한 직렬화 스타일을 정의합니다. 사양은 CommonMark - ATX 제목 및 CommonMark - Setext 제목을 참조하십시오.
+title: "HeadingStyle 열거형"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.HeadingStyle 열거형. 머리글에 사용할 수 있는 직렬화 스타일을 정의합니다. 사양은 CommonMark ATX 머리글 및 CommonMark Setext 머리글을 참조하십시오."
 type: docs
-weight: 5490
+weight: 5620
 url: /ko/net/aspose.pdf/headingstyle/
 ---
-## HeadingStyle 열거형
+## HeadingStyle enumeration
 
-제목에 대한 사용 가능한 직렬화 스타일을 정의합니다. 사양은 CommonMark - ATX 제목 및 CommonMark - Setext 제목을 참조하십시오.
+제목에 사용할 수 있는 직렬화 스타일을 정의합니다. 사양은 CommonMark - ATX headings 및 CommonMark - Setext headings를 참조하십시오.
 
 ```csharp
 public enum HeadingStyle
@@ -18,10 +18,12 @@ public enum HeadingStyle
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Atx | `0` | 제목 앞에 '#'를 붙입니다. |
-| Setext | `1` | 레벨 1 및 2 제목에 각각 "======" 및 "------"로 밑줄을 긋습니다. |
+| Atx | `0` | 헤딩 앞에 '#'을 붙입니다. |
+| Setext | `1` | 레벨 1 및 2 헤딩을 각각 "======"와 "------"로 밑줄을 긋습니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

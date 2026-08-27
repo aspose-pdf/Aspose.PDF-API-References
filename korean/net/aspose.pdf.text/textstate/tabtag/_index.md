@@ -1,25 +1,27 @@
 ---
-title: TextState.TabTag
-second_title: Aspose.PDF for .NET API Reference
-description: TextState 필드. 이 태그를 텍스트에 배치하여 탭을 선언할 수 있습니다.
+title: "TextState.TabTag"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextState 속성. 텍스트에 이 태그를 배치하여 탭을 선언할 수 있습니다."
 type: docs
-weight: 210
+weight: 180
 url: /ko/net/aspose.pdf.text/textstate/tabtag/
 ---
-## TextState.TabTag 필드
+## TextState.TabTag property
 
-이 태그를 텍스트에 배치하여 탭을 선언할 수 있습니다.
+탭을 선언하려면 텍스트에 이 태그를 삽입할 수 있습니다.
 
 ```csharp
-public readonly string TabTag;
+public string TabTag { get; }
 ```
 
 ## 비고
 
-[`TabStops`](../../tabstops/)와 함께 사용할 때만 효과가 있습니다.
+이는 [`TabStops`](../../tabstops/)와 함께 사용할 때만 효과가 있습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextState](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

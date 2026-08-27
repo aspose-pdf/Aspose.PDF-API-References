@@ -1,14 +1,14 @@
 ---
-title: Enum LineCap
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.LineCap 열. 선 캡 스타일은 스트로크될 때 열린 서브패스와 대시의 끝에서 사용될 모양을 지정해야 합니다.
+title: "열거형 LineCap"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Operators.LineCap 열거형. 라인 캡 스타일은 스트로크될 때 열린 서브패스와 대시(있는 경우)의 끝에 사용될 형태를 지정합니다."
 type: docs
-weight: 7440
+weight: 7580
 url: /ko/net/aspose.pdf.operators/linecap/
 ---
-## LineCap 열거형
+## LineCap enumeration
 
-선 캡 스타일은 스트로크될 때 열린 서브패스(및 대시, 있는 경우)의 끝에서 사용될 모양을 지정해야 합니다.
+라인 캡 스타일은 스트로크될 때 열린 서브패스(및 대시가 있는 경우)의 끝에 사용될 형태를 지정해야 합니다.
 
 ```csharp
 public enum LineCap
@@ -18,11 +18,13 @@ public enum LineCap
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| ButtCap | `0` | 버트 캡. 스트로크는 경로의 끝에서 직각으로 잘려야 합니다. 경로의 끝을 넘어서는 돌출이 없어야 합니다. |
-| RoundCap | `1` | 둥근 캡. 선 너비와 같은 지름을 가진 반원 아크가 끝점 주위에 그려지고 채워져야 합니다. |
-| SquareCap | `2` | 돌출된 사각형 캡. 스트로크는 경로의 끝을 넘어 선 너비의 절반에 해당하는 거리만큼 계속되어야 하며 직각으로 잘려야 합니다. |
+| ButtCap | `0` | 버트 캡. 스트로크는 경로의 끝점에서 직각으로 마감됩니다. 경로 끝을 넘어선 투사선은 없습니다. |
+| RoundCap | `1` | 라운드 캡. 선 너비와 동일한 직경을 가진 반원형 호가 끝점 주위에 그려지고 채워집니다. |
+| SquareCap | `2` | 프로젝팅 스퀘어 캡. 스트로크는 경로의 끝점에서 선 너비의 절반에 해당하는 거리만큼 계속 이어지며 직각으로 마감됩니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

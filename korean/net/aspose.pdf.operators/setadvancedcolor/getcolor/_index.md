@@ -1,14 +1,14 @@
 ---
-title: SetAdvancedColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetAdvancedColor 메서드. 연산자가 지정한 색상을 반환합니다.
+title: "SetAdvancedColor.getColor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetAdvancedColor 메서드. 연산자에 의해 지정된 Color을 반환합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.operators/setadvancedcolor/getcolor/
 ---
-## SetAdvancedColor.getColor 메서드
+## SetAdvancedColor.getColor method
 
-연산자가 지정한 색상을 반환합니다.
+연산자에 의해 지정된 색상을 반환합니다.
 
 ```csharp
 public override Color getColor()
@@ -16,10 +16,12 @@ public override Color getColor()
 
 ### 반환 값
 
-연산자가 설정한 색상입니다.
+연산자에 의해 설정된 Color.
 
-### 참조
+### 또 보기
 
-* 클래스 [SetAdvancedColor](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

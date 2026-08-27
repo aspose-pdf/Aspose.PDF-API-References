@@ -1,14 +1,14 @@
 ---
-title: Page.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: 페이지 속성. 페이지의 콘텐츠 스트림에서 연산자 컬렉션을 가져옵니다. OperatorCollection
+title: "Page.Contents"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 속성. 페이지의 콘텐츠 스트림에 있는 연산자들의 컬렉션을 가져옵니다. OperatorCollection"
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/page/contents/
 ---
-## Page.Contents 속성
+## Page.Contents property
 
-페이지의 콘텐츠 스트림에서 연산자 컬렉션을 가져옵니다. [`OperatorCollection`](../../operatorcollection/)
+페이지의 콘텐츠 스트림에 있는 연산자들의 컬렉션을 가져옵니다. [`OperatorCollection`](../../operatorcollection/)
 
 ```csharp
 public OperatorCollection Contents { get; }
@@ -27,9 +27,11 @@ foreach(Operator op in contents)
 }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [OperatorCollection](../../operatorcollection/)
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OperatorCollection](../../operatorcollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

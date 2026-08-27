@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetFieldLimit
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 메서드. 텍스트 필드의 최대 문자 수를 설정합니다.
+title: "FormEditor.SetFieldLimit"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor 메서드. 텍스트 필드의 최대 문자 수를 설정합니다."
 type: docs
 weight: 310
 url: /ko/net/aspose.pdf.facades/formeditor/setfieldlimit/
 ---
-## FormEditor.SetFieldLimit 메서드
+## FormEditor.SetFieldLimit method
 
 텍스트 필드의 최대 문자 수를 설정합니다.
 
@@ -16,12 +16,12 @@ public bool SetFieldLimit(string fieldName, int fieldLimit)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fieldName | String | 텍스트 필드의 이름. |
-| fieldLimit | Int32 | 필드의 새로운 제한 값. |
+| fieldName | String | 텍스트 필드의 이름입니다. |
+| fieldLimit | Int32 | 필드 제한의 새 값입니다. |
 
 ### 반환 값
 
-필드 제한이 성공적으로 설정되면 true입니다.
+필드 제한이 성공적으로 설정된 경우 true입니다.
 
 ## 예제
 
@@ -30,8 +30,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetFieldLimit.
 formEditor.SetFieldLimit("textField", 15);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

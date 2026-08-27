@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.WithTruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 메서드. 채팅 코파일럿 옵션의 잘림 전략을 설정합니다.
+title: "OpenAIChatCopilotOptions.WithTruncationStrategy"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIChatCopilotOptions 메서드. 채팅 코파일럿 옵션에 대한 잘라내기 전략을 설정합니다"
 type: docs
-weight: 190
+weight: 200
 url: /ko/net/aspose.pdf.ai/openaichatcopilotoptions/withtruncationstrategy/
 ---
-## OpenAIChatCopilotOptions.WithTruncationStrategy 메서드
+## OpenAIChatCopilotOptions.WithTruncationStrategy method
 
 채팅 코파일럿 옵션의 잘림 전략을 설정합니다.
 
@@ -16,15 +16,17 @@ public OpenAIChatCopilotOptions WithTruncationStrategy(TruncationStrategy trunca
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| truncationStrategy | TruncationStrategy | 잘림 전략. |
+| truncationStrategy | TruncationStrategy | 잘라내기 전략입니다. |
 
 ### 반환 값
 
-[`OpenAIChatCopilotOptions`](../)의 현재 인스턴스입니다.
+현재 [`OpenAIChatCopilotOptions`](../) 인스턴스입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [TruncationStrategy](../../truncationstrategy/)
-* 클래스 [OpenAIChatCopilotOptions](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

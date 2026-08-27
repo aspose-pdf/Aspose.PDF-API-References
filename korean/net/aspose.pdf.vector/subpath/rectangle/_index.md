@@ -1,20 +1,22 @@
 ---
-title: SubPath.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: 서브패스 속성.
+title: "SubPath.Rectangle"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SubPath 속성."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.vector/subpath/rectangle/
 ---
-## SubPath.Rectangle 속성
+## SubPath.Rectangle property
 
 ```csharp
 public override Rectangle Rectangle { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Rectangle](../../../aspose.pdf/rectangle/)
-* 클래스 [SubPath](../)
-* 네임스페이스 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SubPath](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

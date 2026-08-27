@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection 속성. 인덱스로 옵션을 가져옵니다
+title: "OptionCollection.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OptionCollection 속성. 인덱스로 옵션을 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.forms/optioncollection/item/
 ---
-## OptionCollection 인덱서 (1 중 2)
+## OptionCollection indexer (1 of 2)
 
 인덱스로 옵션을 가져옵니다.
 
@@ -22,7 +22,7 @@ public Option this[int index] { get; }
 
 지정된 인덱스의 옵션.
 
-### 참조
+### 또 보기
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
@@ -31,9 +31,9 @@ public Option this[int index] { get; }
 
 ---
 
-## OptionCollection 인덱서 (2 중 2)
+## OptionCollection indexer (2 of 2)
 
-이름으로 옵션을 가져옵니다.
+옵션을 이름으로 가져옵니다.
 
 ```csharp
 public Option this[string name] { get; }
@@ -41,15 +41,17 @@ public Option this[string name] { get; }
 
 | 매개변수 | 설명 |
 | --- | --- |
-| name | 옵션의 이름. |
+| 이름 | 옵션의 이름. |
 
 ### 반환 값
 
-찾은 옵션.
+옵션을 찾았습니다.
 
-### 참조
+### 또 보기
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

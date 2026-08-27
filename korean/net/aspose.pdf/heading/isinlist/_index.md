@@ -1,21 +1,23 @@
 ---
-title: Heading.IsInList
-second_title: Aspose.PDF for .NET API Reference
-description: Heading 속성. 목차 목록에 있어야 하는 제목을 가져옵니다.
+title: "Heading.IsInList"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Heading 속성. 헤딩이 목차 목록에 포함되어야 함을 가져옵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/heading/isinlist/
 ---
-## Heading.IsInList 속성
+## Heading.IsInList property
 
-목차 목록에 있어야 하는 제목을 가져옵니다.
+헤딩이 목차 목록에 포함되어야 하는지를 가져옵니다.
 
 ```csharp
 public bool IsInList { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

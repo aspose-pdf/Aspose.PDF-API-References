@@ -1,21 +1,23 @@
 ---
-title: Page.Number
-second_title: Aspose.PDF for .NET API Reference
-description: 페이지 속성. 페이지 번호 가져오기
+title: "Page.Number"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 속성. 페이지 번호를 가져옵니다."
 type: docs
 weight: 200
 url: /ko/net/aspose.pdf/page/number/
 ---
-## Page.Number 속성
+## Page.Number property
 
-페이지 번호 가져오기.
+페이지 번호를 가져옵니다.
 
 ```csharp
 public int Number { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

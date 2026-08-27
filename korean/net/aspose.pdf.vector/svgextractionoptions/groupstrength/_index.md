@@ -1,21 +1,23 @@
 ---
-title: SvgExtractionOptions.GroupStrength
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractionOptions 속성. 서브패스를 이미지로 그룹화하는 강도를 설정하고 가져옵니다. 서브패스의 그룹화 정도를 구성할 수 있습니다. 값의 범위는 0에서 1까지입니다. 값이 0이면 [`ExtractEverySubPathToSvg`](../extracteverysubpathtosvg/) 옵션이 활성화됩니다. 값이 1이면 페이지의 모든 벡터 경로에 대해 단일 이미지가 생성됩니다. 이 옵션은 [`AutoGrouping`](../autogrouping/)이 false일 때 효과가 있습니다. 기본값은 `0.8`입니다.
+title: "SvgExtractionOptions.GroupStrength"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SvgExtractionOptions 속성. 하위 경로를 이미지로 그룹화하는 강도를 설정하는 옵션을 가져오고 설정합니다. 하위 경로의 그룹화 정도를 구성할 수 있습니다. 값 범위는 0에서 1 사이입니다. 0값은 ExtractEverySubPathToSvg 옵션이 활성화된 것을 의미합니다. 1값은 페이지의 모든 벡터 경로를 단일 이미지로 만듭니다. 이 옵션은 AutoGrouping이 false일 때 영향을 미칩니다. 기본값은 0.8입니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.vector/svgextractionoptions/groupstrength/
 ---
-## SvgExtractionOptions.GroupStrength 속성
+## SvgExtractionOptions.GroupStrength property
 
-서브패스를 이미지로 그룹화하는 강도를 설정하고 가져옵니다. 서브패스의 그룹화 정도를 구성할 수 있습니다. 값의 범위는 0에서 1까지입니다. 값이 0이면 [`ExtractEverySubPathToSvg`](../extracteverysubpathtosvg/) 옵션이 활성화됩니다. 값이 1이면 페이지의 모든 벡터 경로에 대해 단일 이미지가 생성됩니다. 이 옵션은 [`AutoGrouping`](../autogrouping/)이 false일 때 효과가 있습니다. 기본값은 `0.8`입니다.
+옵션을 가져오고 설정합니다. 하위 경로를 이미지로 그룹화하는 강도입니다. 하위 경로의 그룹화 정도를 구성할 수 있습니다. 값 범위는 0에서 1 사이입니다. 0값은 [`ExtractEverySubPathToSvg`](../extracteverysubpathtosvg/) 옵션이 활성화된 것을 의미합니다. 1값은 페이지의 모든 벡터 경로를 단일 이미지로 만듭니다. 이 옵션은 [`AutoGrouping`](../autogrouping/)이 false일 때 영향을 미칩니다. 기본값은 `0.8`입니다.
 
 ```csharp
 public double GroupStrength { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SvgExtractionOptions](../)
-* 네임스페이스 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

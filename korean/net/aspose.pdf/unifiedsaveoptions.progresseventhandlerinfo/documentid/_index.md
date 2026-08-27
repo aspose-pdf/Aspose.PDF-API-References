@@ -1,12 +1,12 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId
-second_title: Aspose.PDF for .NET API Reference
-description: ProgressEventHandlerInfo 필드. 고유한 문서 ID
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ProgressEventHandlerInfo 필드. 고유한 document ID."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid/
 ---
-## UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId 필드
+## UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId field
 
 고유한 문서 ID입니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid/
 public Guid DocumentId;
 ```
 
-### 참조
+### 또 보기
 
 * class [ProgressEventHandlerInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

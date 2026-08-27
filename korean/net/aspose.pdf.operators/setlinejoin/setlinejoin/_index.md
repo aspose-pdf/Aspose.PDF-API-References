@@ -1,7 +1,7 @@
 ---
-title: SetLineJoin.SetLineJoin
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineJoin 생성자. 연산자를 초기화합니다.
+title: "SetLineJoin.SetLineJoin"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetLineJoin 생성자. 연산자를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/setlinejoin/setlinejoin/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf.operators/setlinejoin/setlinejoin/
 public SetLineJoin()
 ```
 
-### See Also
+### 또 보기
 
 * class [SetLineJoin](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -28,9 +28,11 @@ public SetLineJoin()
 public SetLineJoin(LineJoin join)
 ```
 
-### See Also
+### 또 보기
 
 * enum [LineJoin](../../linejoin/)
 * class [SetLineJoin](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.FlatteningAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 메서드. 문서의 모든 주석을 평면화합니다.
+title: "PdfAnnotationEditor.FlatteningAnnotations"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAnnotationEditor 메서드. 문서의 모든 주석을 평탄화합니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.facades/pdfannotationeditor/flatteningannotations/
 ---
 ## FlatteningAnnotations() {#flatteningannotations}
 
-문서의 모든 주석을 평면화합니다.
+문서의 모든 주석을 평탄화합니다.
 
 ```csharp
 public void FlatteningAnnotations()
@@ -23,17 +23,17 @@ editor.FlatteningAnnotations();
 editor.Save(example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfAnnotationEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FlatteningAnnotations(FlattenSettings) {#flatteningannotations_1}
 
-문서의 모든 주석을 평면화합니다.
+문서의 모든 주석을 평탄화합니다.
 
 ```csharp
 public void FlatteningAnnotations(FlattenSettings flattenSettings)
@@ -41,20 +41,20 @@ public void FlatteningAnnotations(FlattenSettings flattenSettings)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| flattenSettings | FlattenSettings | 평면화 모드를 지정합니다. |
+| flattenSettings | FlattenSettings | 평탄화 모드를 지정합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
-* 클래스 [PdfAnnotationEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FlatteningAnnotations(int, int, AnnotationType[]) {#flatteningannotations_2}
 
-지정된 유형의 주석을 평면화합니다.
+지정된 유형의 주석을 평탄화합니다.
 
 ```csharp
 public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType)
@@ -63,8 +63,8 @@ public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | start | Int32 | 시작 페이지. |
-| end | Int32 | 종료 페이지. |
-| annotType | AnnotationType[] | 평면화해야 하는 주석 유형입니다. |
+| end | Int32 | 그런 다음 페이지를 끝냅니다. |
+| annotType | AnnotationType[] | 주석 유형은 평면화되어야 합니다. |
 
 ## 예제
 
@@ -76,9 +76,11 @@ editor.FlatteningAnnotations(1, 2, annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 열거형 [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* 클래스 [PdfAnnotationEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

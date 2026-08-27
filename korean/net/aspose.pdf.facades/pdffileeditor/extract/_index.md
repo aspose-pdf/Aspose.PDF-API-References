@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.Extract
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 메서드. 입력 파일에서 페이지를 추출하여 새로운 Pdf 파일로 저장합니다.
+title: "PdfFileEditor.Extract"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileEditor 메서드. 입력 파일에서 pages를 추출하여 새로운 PDF 파일로 저장합니다."
 type: docs
 weight: 280
 url: /ko/net/aspose.pdf.facades/pdffileeditor/extract/
 ---
 ## Extract(string, int, int, string) {#extract_2}
 
-입력 파일에서 페이지를 추출하여 새로운 Pdf 파일로 저장합니다.
+입력 파일에서 페이지를 추출하고 새로운 Pdf 파일로 저장합니다.
 
 ```csharp
 public bool Extract(string inputFile, int startPage, int endPage, string outputFile)
@@ -16,14 +16,14 @@ public bool Extract(string inputFile, int startPage, int endPage, string outputF
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputFile | String | 입력 Pdf 파일 경로. |
-| startPage | Int32 | 시작 페이지 번호. |
-| endPage | Int32 | 끝 페이지 번호. |
+| inputFile | String | 입력 PDF 파일 경로. |
+| startPage | Int32 | 시작 page 번호. |
+| endPage | Int32 | 끝 page 번호. |
 | outputFile | String | 출력 Pdf 파일 경로. |
 
 ### 반환 값
 
-성공 시 true, 실패 시 false.
+성공이면 true, 그렇지 않으면 false.
 
 ## 예제
 
@@ -32,7 +32,7 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", 3, 7, "output.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -51,7 +51,7 @@ public bool Extract(string inputFile, int[] pageNumber, string outputFile)
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputFile | String | 입력 파일 경로. |
-| pageNumber | Int32[] | 입력 파일의 페이지 인덱스. |
+| pageNumber | Int32[] | 입력 파일 내 페이지 인덱스. |
 | outputFile | String | 출력 파일 경로. |
 
 ### 반환 값
@@ -65,7 +65,7 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -75,7 +75,7 @@ pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ## Extract(Stream, int, int, Stream) {#extract}
 
-입력 파일에서 페이지를 추출하여 새로운 Pdf 파일로 저장합니다.
+입력 파일에서 페이지를 추출하고 새로운 Pdf 파일로 저장합니다.
 
 ```csharp
 public bool Extract(Stream inputStream, int startPage, int endPage, Stream outputStream)
@@ -84,13 +84,13 @@ public bool Extract(Stream inputStream, int startPage, int endPage, Stream outpu
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputStream | Stream | 입력 파일 스트림. |
-| startPage | Int32 | 시작 페이지 번호. |
-| endPage | Int32 | 끝 페이지 번호. |
+| startPage | Int32 | 시작 page 번호. |
+| endPage | Int32 | 끝 page 번호. |
 | outputStream | Stream | 출력 Pdf 파일 스트림. |
 
 ### 반환 값
 
-성공 시 true, 실패 시 false.
+성공이면 true, 그렇지 않으면 false.
 
 ## 예제
 
@@ -101,7 +101,7 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, 1, 3, 6, outStream);
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -120,12 +120,12 @@ public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputStream | Stream | 입력 파일 스트림. |
-| pageNumber | Int32[] | 입력 파일의 페이지 인덱스. |
+| pageNumber | Int32[] | 입력 파일 내 페이지 인덱스. |
 | outputStream | Stream | 출력 파일 스트림. |
 
 ### 반환 값
 
-성공 시 true, 실패 시 false.
+성공이면 true, 그렇지 않으면 false.
 
 ## 예제
 
@@ -136,8 +136,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

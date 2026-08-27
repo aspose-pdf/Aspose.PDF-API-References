@@ -1,14 +1,14 @@
 ---
-title: Document.DisplayDocTitle
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 문서의 창 제목 표시줄에 문서 제목을 표시할지 여부를 지정하는 플래그를 가져오거나 설정합니다.
+title: "Document.DisplayDocTitle"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document property. 문서 창 제목 표시줄에 문서 제목을 표시할지 여부를 지정하는 플래그를 가져오거나 설정합니다."
 type: docs
-weight: 120
+weight: 130
 url: /ko/net/aspose.pdf/document/displaydoctitle/
 ---
-## Document.DisplayDocTitle 속성
+## Document.DisplayDocTitle property
 
-문서의 창 제목 표시줄에 문서 제목을 표시할지 여부를 지정하는 플래그를 가져오거나 설정합니다.
+문서 창 제목 표시줄에 문서 제목을 표시할지 여부를 지정하는 플래그를 가져오거나 설정합니다.
 
 ```csharp
 public bool DisplayDocTitle { get; set; }
@@ -23,8 +23,10 @@ Document document = new Document("sample.pdf");
 bool value = document.DisplayDocTitle;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

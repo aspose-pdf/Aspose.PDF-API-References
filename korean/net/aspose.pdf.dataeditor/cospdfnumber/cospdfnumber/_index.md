@@ -1,7 +1,7 @@
 ---
-title: CosPdfNumber.CosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber 생성자. CosPdfNumber 클래스의 새 인스턴스를 초기화합니다.
+title: "CosPdfNumber.CosPdfNumber"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CosPdfNumber 생성자. CosPdfNumber 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/
 public CosPdfNumber()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CosPdfNumber](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,10 +32,12 @@ public CosPdfNumber(double value)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | Double | 숫자입니다. |
+| 값 | Double | 그 숫자. |
 
-### 참조
+### 또 보기
 
-* 클래스 [CosPdfNumber](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

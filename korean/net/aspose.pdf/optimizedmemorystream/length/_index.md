@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.Length
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream 속성. 파생 클래스에서 재정의될 때 스트림의 길이를 바이트 단위로 가져옵니다.
+title: "OptimizedMemoryStream.Length"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OptimizedMemoryStream 속성. 파생 클래스에서 재정의될 경우 스트림의 바이트 길이를 가져옵니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/optimizedmemorystream/length/
 ---
-## OptimizedMemoryStream.Length 속성
+## OptimizedMemoryStream.Length property
 
-파생 클래스에서 재정의될 때 스트림의 길이를 바이트 단위로 가져옵니다.
+파생 클래스에서 재정의될 때, 스트림의 바이트 단위 길이를 가져옵니다.
 
 ```csharp
 public override long Length { get; }
@@ -16,10 +16,12 @@ public override long Length { get; }
 
 ### 반환 값
 
-스트림의 길이를 바이트 단위로 나타내는 long 값입니다.
+스트림 길이를 바이트 단위로 나타내는 긴 값입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [OptimizedMemoryStream](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

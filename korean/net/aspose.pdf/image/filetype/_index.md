@@ -1,12 +1,12 @@
 ---
-title: Image.FileType
-second_title: Aspose.PDF for .NET API Reference
-description: 이미지 속성. 이미지 파일 유형을 가져오거나 설정합니다.
+title: "Image.FileType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Image property. 이미지 파일 형식을 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/image/filetype/
 ---
-## Image.FileType 속성
+## Image.FileType property
 
 이미지 파일 유형을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/image/filetype/
 public ImageFileType FileType { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [ImageFileType](../../imagefiletype/)
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

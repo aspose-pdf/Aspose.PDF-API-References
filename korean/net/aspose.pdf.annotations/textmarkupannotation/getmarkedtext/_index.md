@@ -1,12 +1,12 @@
 ---
-title: TextMarkupAnnotation.GetMarkedText
-second_title: Aspose.PDF for .NET API Reference
-description: TextMarkupAnnotation 메서드. 마크업 주석 아래의 텍스트를 문자열로 가져옵니다.
+title: "TextMarkupAnnotation.GetMarkedText"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextMarkupAnnotation 메서드. 마크업 주석 아래의 텍스트를 문자열로 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtext/
 ---
-## TextMarkupAnnotation.GetMarkedText 메서드
+## TextMarkupAnnotation.GetMarkedText method
 
 마크업 주석 아래의 텍스트를 문자열로 가져옵니다.
 
@@ -16,10 +16,12 @@ public string GetMarkedText()
 
 ### 반환 값
 
-마크업 주석 아래에 있는 텍스트를 포함하는 문자열입니다.
+마크업 주석 아래에 있는 텍스트를 포함하는 문자열.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextMarkupAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextMarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: TextAnnotation 메서드. 주석을 처리하기 위해 방문자 객체를 수락합니다.
+title: "TextAnnotation.Accept"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextAnnotation 메서드. 주석을 처리하기 위해 방문자 객체를 수락합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.annotations/textannotation/accept/
 ---
-## TextAnnotation.Accept 메서드
+## TextAnnotation.Accept method
 
-주석을 처리하기 위해 방문자 객체를 수락합니다.
+Annotation을 처리하기 위해 방문자 객체를 받아들입니다.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | 방문자 객체. |
+| 방문자 | AnnotationSelector | Visitor 객체. |
 
-### 참조
+### 또 보기
 
-* 클래스 [AnnotationSelector](../../annotationselector/)
-* 클래스 [TextAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [TextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

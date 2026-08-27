@@ -1,12 +1,12 @@
 ---
-title: Margins.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Margins 속성. 상단을 가져오거나 설정합니다.
+title: "Margins.Top"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Margins 속성. 상단을 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.devices/margins/top/
 ---
-## Margins.Top 속성
+## Margins.Top property
 
 상단을 가져오거나 설정합니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf.devices/margins/top/
 public int Top { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
 상단.
 
-### 참조
+### 또 보기
 
-* 클래스 [Margins](../)
-* 네임스페이스 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

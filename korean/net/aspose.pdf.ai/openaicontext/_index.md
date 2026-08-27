@@ -1,12 +1,12 @@
 ---
-title: Class OpenAIContext
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIContext 클래스. 어시스턴트와 관련된 엔터티 ID를 나타냅니다.
+title: "클래스 OpenAIContext"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.OpenAIContext 클래스. 어시스턴트와 관련된 엔터티 ID를 나타냅니다."
 type: docs
-weight: 860
+weight: 920
 url: /ko/net/aspose.pdf.ai/openaicontext/
 ---
-## OpenAIContext 클래스
+## OpenAIContext class
 
 어시스턴트와 관련된 엔터티 ID를 나타냅니다.
 
@@ -18,18 +18,20 @@ public class OpenAIContext
 
 | 이름 | 설명 |
 | --- | --- |
-| [OpenAIContext](openaicontext/)() | 기본 생성자입니다. |
+| [OpenAIContext](openaicontext/)() | 기본 생성자. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [AssistantId](../../aspose.pdf.ai/openaicontext/assistantid/) { get; set; } | 어시스턴트 ID를 가져오거나 설정합니다. |
+| [AssistantId](../../aspose.pdf.ai/openaicontext/assistantid/) { get; set; } | Assistant ID를 가져오거나 설정합니다. |
 | [FileIds](../../aspose.pdf.ai/openaicontext/fileids/) { get; set; } | 파일 ID 목록을 가져오거나 설정합니다. |
 | [ThreadId](../../aspose.pdf.ai/openaicontext/threadid/) { get; set; } | 스레드 ID를 가져오거나 설정합니다. |
-| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | 벡터 저장소 ID를 가져오거나 설정합니다. |
+| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | 벡터 스토어 ID를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

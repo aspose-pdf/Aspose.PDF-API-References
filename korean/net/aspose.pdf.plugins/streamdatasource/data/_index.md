@@ -1,12 +1,12 @@
 ---
-title: StreamDataSource.Data
-second_title: Aspose.PDF for .NET API Reference
-description: StreamDataSource 속성. 현재 데이터 소스의 스트림 객체를 가져옵니다.
+title: "StreamDataSource.Data"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StreamDataSource 속성. 현재 데이터 소스의 스트림 객체를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.plugins/streamdatasource/data/
 ---
-## StreamDataSource.Data 속성
+## StreamDataSource.Data property
 
 현재 데이터 소스의 스트림 객체를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.plugins/streamdatasource/data/
 public Stream Data { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [StreamDataSource](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StreamDataSource](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

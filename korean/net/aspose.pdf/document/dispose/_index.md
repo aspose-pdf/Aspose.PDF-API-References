@@ -1,12 +1,12 @@
 ---
-title: Document.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 방법. 이 문서에서 사용된 모든 리소스를 닫습니다.
+title: "Document.Dispose"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 메서드. 이 문서에서 사용된 모든 리소스를 닫습니다"
 type: docs
-weight: 610
+weight: 630
 url: /ko/net/aspose.pdf/document/dispose/
 ---
-## Document.Dispose 메서드
+## Document.Dispose method
 
 이 문서에서 사용된 모든 리소스를 닫습니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/document/dispose/
 public void Dispose()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

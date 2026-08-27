@@ -1,12 +1,12 @@
 ---
-title: IStatus.Status
-second_title: Aspose.PDF for .NET API Reference
-description: IStatus 속성. 작업의 상태를 가져오거나 설정합니다.
+title: "IStatus.Status"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IStatus 속성. 작업의 상태를 가져오거나 설정합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/istatus/status/
 ---
-## IStatus.Status 속성
+## IStatus.Status property
 
 작업의 상태를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.ai/istatus/status/
 public string Status { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IStatus](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [IStatus](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

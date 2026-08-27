@@ -1,21 +1,23 @@
 ---
-title: Id.Modified
-second_title: Aspose.PDF for .NET API Reference
-description: Id 속성. 마지막으로 업데이트된 시점의 문서 내용에 따라 식별자 변경
+title: "Id.Modified"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Id 속성. 마지막 업데이트 시점의 문서 내용에 따라 변경되는 식별자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/id/modified/
 ---
-## Id.Modified 속성
+## Id.Modified property
 
-마지막으로 업데이트된 시점의 문서 내용에 따라 식별자 변경.
+마지막으로 업데이트된 시점의 문서 내용에 따라 식별자를 변경합니다.
 
 ```csharp
 public string Modified { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Id](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Id](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

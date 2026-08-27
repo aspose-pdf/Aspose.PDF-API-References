@@ -1,7 +1,7 @@
 ---
-title: Margins.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Margins 생성자. Margins 클래스의 새 인스턴스를 초기화합니다.
+title: "Margins.Margins"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Margins 생성자. Margins 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.devices/margins/margins/
@@ -17,15 +17,15 @@ public Margins(int left, int right, int top, int bottom)
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | left | Int32 | 왼쪽 좌표. |
-| right | Int32 | 오른쪽 좌표. |
-| top | Int32 | 위쪽 좌표. |
-| bottom | Int32 | 아래쪽 좌표. |
+| 오른쪽 | Int32 | 오른쪽 좌표. |
+| 위쪽 | Int32 | 상단 좌표. |
+| bottom | Int32 | 하단 좌표. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Margins](../)
-* 네임스페이스 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,8 +37,10 @@ public Margins(int left, int right, int top, int bottom)
 public Margins()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Margins](../)
-* 네임스페이스 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

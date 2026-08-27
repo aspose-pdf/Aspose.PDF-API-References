@@ -1,22 +1,24 @@
 ---
-title: OutlineItemCollection.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection 속성. 이 개요 항목의 대상을 가져오거나 설정합니다.
+title: "OutlineItemCollection.Destination"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OutlineItemCollection 속성. 이 개요 항목의 목적지를 가져오거나 설정합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf/outlineitemcollection/destination/
 ---
-## OutlineItemCollection.Destination 속성
+## OutlineItemCollection.Destination property
 
-이 개요 항목의 대상을 가져오거나 설정합니다.
+이 개요 항목의 목적지를 가져오거나 설정합니다.
 
 ```csharp
 public IAppointment Destination { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* 클래스 [OutlineItemCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

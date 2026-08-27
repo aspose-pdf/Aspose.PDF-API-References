@@ -1,22 +1,24 @@
 ---
-title: FloatingBox.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox 속성. 문서를 읽을 때 채워지지 않는 생성기 전용 페이지의 배경 이미지를 가져오거나 설정합니다.
+title: "FloatingBox.BackgroundImage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FloatingBox 속성. 페이지용 배경 이미지를 가져오거나 설정합니다(생성기 전용이며 문서를 읽을 때는 채워지지 않음)."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/floatingbox/backgroundimage/
 ---
-## FloatingBox.BackgroundImage 속성
+## FloatingBox.BackgroundImage property
 
-문서 읽기 시 채워지지 않는 생성기 전용 페이지의 배경 이미지를 가져오거나 설정합니다.
+페이지의 배경 이미지를 가져오거나 설정합니다(생성기 전용이며 문서를 읽을 때는 채워지지 않습니다).
 
 ```csharp
 public Image BackgroundImage { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Image](../../image/)
-* 클래스 [FloatingBox](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Image](../../image/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAIModels.Gpt35Turbo0125
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIModels 속성. GPT3.5 Turbo 0125 모델의 식별자를 가져옵니다.
+title: "OpenAIModels.Gpt35Turbo0125"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIModels 속성. GPT3.5 Turbo 0125 모델의 식별자를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.ai/openaimodels/gpt35turbo0125/
 ---
-## OpenAIModels.Gpt35Turbo0125 속성
+## OpenAIModels.Gpt35Turbo0125 property
 
 GPT-3.5 Turbo 0125 모델의 식별자를 가져옵니다.
 
@@ -14,8 +14,10 @@ GPT-3.5 Turbo 0125 모델의 식별자를 가져옵니다.
 public static string Gpt35Turbo0125 { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [OpenAIModels](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OpenAIModels](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

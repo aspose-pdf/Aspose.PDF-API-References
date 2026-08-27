@@ -1,14 +1,14 @@
 ---
-title: Interface IWarningCallback
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IWarningCallback 인터페이스. 사용자 콜백 메커니즘 지원을 위한 인터페이스
+title: "인터페이스 IWarningCallback"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.IWarningCallback 인터페이스. 사용자 콜백 메커니즘 지원을 위한 인터페이스"
 type: docs
-weight: 5840
+weight: 5970
 url: /ko/net/aspose.pdf/iwarningcallback/
 ---
-## IWarningCallback 인터페이스
+## IWarningCallback interface
 
-사용자 콜백 메커니즘 지원을 위한 인터페이스.
+사용자 콜백 메커니즘 지원을 위한 인터페이스입니다.
 
 ```csharp
 public interface IWarningCallback
@@ -18,9 +18,11 @@ public interface IWarningCallback
 
 | 이름 | 설명 |
 | --- | --- |
-| [Warning](../../aspose.pdf/iwarningcallback/warning/)(WarningInfo) | 일부 프로그램 알림을 위한 콜백 메서드. |
+| [Warning](../../aspose.pdf/iwarningcallback/warning/)(WarningInfo) | 일부 프로그램 알림을 위한 콜백 메서드입니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

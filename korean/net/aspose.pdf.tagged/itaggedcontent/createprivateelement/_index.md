@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreatePrivateElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. PrivateElement 생성
+title: "ITaggedContent.CreatePrivateElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. PrivateElement를 생성합니다."
 type: docs
-weight: 220
+weight: 250
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createprivateelement/
 ---
-## ITaggedContent.CreatePrivateElement 메서드
+## ITaggedContent.CreatePrivateElement method
 
-[`PrivateElement`](../../../aspose.pdf.logicalstructure/privateelement/)을 생성합니다.
+생성합니다 [`PrivateElement`](../../../aspose.pdf.logicalstructure/privateelement/).
 
 ```csharp
 public PrivateElement CreatePrivateElement()
@@ -16,11 +16,13 @@ public PrivateElement CreatePrivateElement()
 
 ### 반환 값
 
-생성된 구조 요소.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [PrivateElement](../../../aspose.pdf.logicalstructure/privateelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PrivateElement](../../../aspose.pdf.logicalstructure/privateelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber 속성. 검색 옵션을 가져오거나 설정합니다. 이 옵션은 정규 표현식을 사용하여 검색을 가능하게 합니다.
+title: "TextFragmentAbsorber.TextSearchOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextFragmentAbsorber 속성. 검색 옵션을 가져오거나 설정합니다. 이 옵션은 정규식을 사용한 검색을 가능하게 합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.text/textfragmentabsorber/textsearchoptions/
 ---
-## TextFragmentAbsorber.TextSearchOptions 속성
+## TextFragmentAbsorber.TextSearchOptions property
 
-검색 옵션을 가져오거나 설정합니다. 이 옵션은 정규 표현식을 사용하여 검색을 가능하게 합니다.
+검색 옵션을 가져오거나 설정합니다. 이 옵션은 정규식을 사용한 검색을 가능하게 합니다.
 
 ```csharp
 public TextSearchOptions TextSearchOptions { get; set; }
@@ -16,30 +16,32 @@ public TextSearchOptions TextSearchOptions { get; set; }
 
 ## 예제
 
-이 예제는 정규 표현식을 사용하여 텍스트를 검색하는 방법을 보여줍니다.
+이 예제는 정규식을 사용하여 텍스트 검색을 수행하는 방법을 보여줍니다.
 
 ```csharp
-// Open document
+// 문서 열기
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object
+// TextFragmentAbsorber 객체를 생성합니다.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-// make the absorber to search all words starting 'h' and ending 'o' using regular expression.
+// 흡수기가 정규식을 사용하여 'h'로 시작하고 'o'로 끝나는 모든 단어를 검색하도록 만듭니다.
 absorber.Phrase = @"h\w*?o";
 absorber.TextSearchOptions = new TextSearchOptions(true);
 
-// we should find "hello" word and replace it with "Hi"
+// "hello" 단어를 찾아 "Hi"로 교체해야 합니다.
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
-// Save document
+// 문서 저장
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextSearchOptions](../../textsearchoptions/)
-* 클래스 [TextFragmentAbsorber](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

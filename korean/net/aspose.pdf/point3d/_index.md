@@ -1,14 +1,14 @@
 ---
-title: Class Point3D
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Point3D 클래스. 분수 좌표로 점을 나타냅니다.
+title: "클래스 Point3D"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Point3D 클래스. 소수 좌표를 가진 점을 나타냅니다."
 type: docs
-weight: 9470
+weight: 9620
 url: /ko/net/aspose.pdf/point3d/
 ---
-## Point3D 클래스
+## Point3D class
 
-분수 좌표로 점을 나타냅니다.
+소수 좌표를 가진 점을 나타냅니다.
 
 ```csharp
 public sealed class Point3D
@@ -35,7 +35,9 @@ public sealed class Point3D
 | --- | --- |
 | override [ToString](../../aspose.pdf/point3d/tostring/)() | 객체의 문자열 표현을 반환합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

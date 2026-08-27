@@ -1,21 +1,23 @@
 ---
-title: Usage.CompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: 사용 속성. 생성된 완료에서 토큰 수를 가져오거나 설정합니다.
+title: "Usage.CompletionTokens"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Usage 속성. 생성된 완료에 포함된 토큰 수를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.ai/usage/completiontokens/
 ---
-## Usage.CompletionTokens 속성
+## Usage.CompletionTokens property
 
-생성된 완료에서 토큰 수를 가져오거나 설정합니다.
+생성된 완성에 사용된 토큰 수를 가져오거나 설정합니다.
 
 ```csharp
 public int CompletionTokens { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Usage](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Usage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

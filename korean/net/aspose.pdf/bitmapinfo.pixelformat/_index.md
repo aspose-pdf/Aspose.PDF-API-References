@@ -1,12 +1,12 @@
 ---
-title: Enum BitmapInfo.PixelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BitmapInfoPixelFormat 열거형. 비트맵 픽셀 형식
+title: "열거형 BitmapInfo.PixelFormat"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.BitmapInfoPixelFormat 열거형. 비트맵 픽셀 형식"
 type: docs
-weight: 2870
+weight: 2980
 url: /ko/net/aspose.pdf/bitmapinfo.pixelformat/
 ---
-## BitmapInfo.PixelFormat 열거형
+## BitmapInfo.PixelFormat enumeration
 
 비트맵 픽셀 형식.
 
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf/bitmapinfo.pixelformat/
 public enum PixelFormat
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
@@ -24,8 +24,10 @@ public enum PixelFormat
 | Argb32 | `3` | Argb32 픽셀 형식. |
 | Bgra32 | `4` | Bgra32 픽셀 형식. |
 
-### 참조
+### 또 보기
 
-* 클래스 [BitmapInfo](../bitmapinfo/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [BitmapInfo](../bitmapinfo/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

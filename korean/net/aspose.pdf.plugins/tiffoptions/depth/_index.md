@@ -1,30 +1,32 @@
 ---
-title: TiffOptions.Depth
-second_title: Aspose.PDF for .NET API Reference
-description: TiffOptions 속성. 색상 깊이를 가져오거나 설정합니다.
+title: "TiffOptions.Depth"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TiffOptions 속성. 색 깊이를 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.plugins/tiffoptions/depth/
 ---
-## TiffOptions.Depth 속성
+## TiffOptions.Depth property
 
-색상 깊이를 가져오거나 설정합니다.
+색 깊이를 가져오거나 설정합니다.
 
 ```csharp
 public ColorDepth Depth { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-색상 깊이.
+색 깊이입니다.
 
 ## 비고
 
 기본값은 ColorDepth.Default입니다.
 
-### 참조
+### 또 보기
 
 * enum [ColorDepth](../../../aspose.pdf.devices/colordepth/)
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

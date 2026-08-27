@@ -1,22 +1,24 @@
 ---
-title: Page.OnBeforePageGenerate
-second_title: Aspose.PDF for .NET API Reference
-description: 페이지 이벤트. 헤더 및 푸터를 사용자 정의하기 위한 이벤트
+title: "Page.OnBeforePageGenerate"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 이벤트. 머리글 및 바닥글을 사용자 지정하기 위한 이벤트"
 type: docs
 weight: 320
 url: /ko/net/aspose.pdf/page/onbeforepagegenerate/
 ---
-## Page.OnBeforePageGenerate 이벤트
+## Page.OnBeforePageGenerate event
 
-헤더 및 푸터를 사용자 정의하기 위한 이벤트입니다.
+헤더와 푸터를 사용자 지정하기 위한 이벤트입니다.
 
 ```csharp
 public event BeforePageGenerate OnBeforePageGenerate;
 ```
 
-### 참조
+### 또 보기
 
 * delegate [BeforePageGenerate](../../page.beforepagegenerate/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

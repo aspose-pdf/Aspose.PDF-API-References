@@ -1,14 +1,14 @@
 ---
-title: Class SetLineJoin
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetLineJoin 클래스. j 연산자 설정 선 조인 스타일을 나타내는 클래스
+title: "클래스 SetLineJoin"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Operators.SetLineJoin 클래스. j 연산자를 사용하여 라인 조인 스타일을 설정하는 클래스를 나타냅니다"
 type: docs
-weight: 7760
+weight: 7900
 url: /ko/net/aspose.pdf.operators/setlinejoin/
 ---
-## SetLineJoin 클래스
+## SetLineJoin class
 
-j 연산자(선 조인 스타일 설정)를 나타내는 클래스입니다.
+선 조인 스타일을 설정하는 j operator를 나타내는 클래스.
 
 ```csharp
 public class SetLineJoin : Operator
@@ -25,7 +25,7 @@ public class SetLineJoin : Operator
 
 | 이름 | 설명 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | 페이지 연산자 목록에서의 연산자 인덱스입니다. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page 연산자 목록에서 연산자 인덱스입니다. |
 | [Join](../../aspose.pdf.operators/setlinejoin/join/) { get; set; } |  |
 
 ## 메서드
@@ -33,11 +33,13 @@ public class SetLineJoin : Operator
 | 이름 | 설명 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setlinejoin/accept/)(IOperatorSelector) | 연산자를 처리하기 위해 방문자 객체를 수락합니다. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | 연산자와 그 매개변수의 텍스트를 반환합니다. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | 연산자의 텍스트와 매개변수를 반환합니다. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 이 인스턴스를 주어진 객체와 비교합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Operator](../../aspose.pdf/operator/)
-* 네임스페이스 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: PDF3DStream.Content
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DStream 속성. 콘텐츠를 가져오거나 설정합니다.
+title: "PDF3DStream.Content"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DStream 속성. 내용을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/pdf3dstream/content/
 ---
-## PDF3DStream.Content 속성
+## PDF3DStream.Content property
 
-콘텐츠를 가져오거나 설정합니다.
+내용을 가져오거나 설정합니다.
 
 ```csharp
 public PDF3DContent Content { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-콘텐츠입니다.
+내용.
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DContent](../../pdf3dcontent/)
-* 클래스 [PDF3DStream](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DContent](../../pdf3dcontent/)
+* class [PDF3DStream](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

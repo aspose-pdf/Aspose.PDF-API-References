@@ -1,21 +1,23 @@
 ---
-title: FitBHExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: FitBHExplicitDestination 속성. 창의 상단 가장자리에 위치한 수직 좌표를 가져옵니다.
+title: "FitBHExplicitDestination.Top"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FitBHExplicitDestination 속성. 창 상단 가장자리에서 위치한 수직 좌표 top을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/fitbhexplicitdestination/top/
 ---
-## FitBHExplicitDestination.Top 속성
+## FitBHExplicitDestination.Top property
 
-창의 상단 가장자리에 위치한 수직 좌표를 가져옵니다.
+창의 상단 가장자리에 배치된 수직 좌표 top을 가져옵니다.
 
 ```csharp
 public double Top { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FitBHExplicitDestination](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FitBHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Page.Background
-second_title: Aspose.PDF for .NET API Reference
-description: 페이지 속성. 페이지의 배경 색상을 가져오거나 설정합니다.
+title: "Page.Background"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 속성. 페이지의 배경 색상을 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/page/background/
 ---
-## Page.Background 속성
+## Page.Background property
 
 페이지의 배경 색상을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/page/background/
 public Color Background { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Color](../../color/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

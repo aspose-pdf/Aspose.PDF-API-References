@@ -1,21 +1,23 @@
 ---
-title: Element.E
-second_title: Aspose.PDF for .NET API Reference
-description: Element 속성. 선택적 PDF 1.5 약어의 확장형
+title: "Element.E"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Element 속성. 선택 사항 PDF 1.5 약어의 확장 형태"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.structure/element/e/
 ---
-## Element.E 속성
+## Element.E property
 
-(선택적; PDF 1.5) 약어의 확장형입니다.
+(Optional; PDF 1.5) 약어의 확장 형태.
 
 ```csharp
 public virtual string E { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Element](../)
-* 네임스페이스 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

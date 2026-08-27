@@ -1,21 +1,23 @@
 ---
-title: TextSegment.StartCharIndex
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment 속성. 현재 세그먼트의 시작 문자 인덱스를 가져옵니다. 표시 텍스트 연산자 Tj TJ 세그먼트에서.
+title: "TextSegment.StartCharIndex"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextSegment 속성. 현재 세그먼트가 표시 텍스트 연산자 Tj TJ 세그먼트에서 시작하는 문자 인덱스를 가져옵니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.text/textsegment/startcharindex/
 ---
-## TextSegment.StartCharIndex 속성
+## TextSegment.StartCharIndex property
 
-현재 세그먼트의 시작 문자 인덱스를 가져옵니다. 표시 텍스트 연산자 (Tj, TJ) 세그먼트에서.
+표시 텍스트 연산자 (Tj, TJ) 세그먼트에서 현재 세그먼트의 시작 문자 인덱스를 가져옵니다.
 
 ```csharp
 public int StartCharIndex { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextSegment](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

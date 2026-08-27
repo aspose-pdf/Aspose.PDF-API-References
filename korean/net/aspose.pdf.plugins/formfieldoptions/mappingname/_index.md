@@ -1,21 +1,23 @@
 ---
-title: FormFieldOptions.MappingName
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions 속성. 생성/수정된 필드의 MappingName 속성을 결정하는 값을 가져오거나 설정합니다.
+title: "FormFieldOptions.MappingName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldOptions 속성. 설정될 경우 생성/수정된 필드의 MappingName 속성을 결정하는 값을 가져오거나 설정합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.plugins/formfieldoptions/mappingname/
 ---
-## FormFieldOptions.MappingName 속성
+## FormFieldOptions.MappingName property
 
-생성/수정된 필드의 MappingName 속성을 결정하는 값을 가져오거나 설정합니다(설정될 경우).
+생성/수정된 필드의 MappingName 속성을 결정하기 위한 값을 가져오거나 설정합니다(설정되는 경우).
 
 ```csharp
 public string MappingName { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.Form
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 문서의 Acro Form을 가져옵니다.
+title: "Document.Form"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. 문서의 Acro Form을 가져옵니다"
 type: docs
-weight: 210
+weight: 230
 url: /ko/net/aspose.pdf/document/form/
 ---
-## Document.Form 속성
+## Document.Form property
 
 문서의 Acro Form을 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/document/form/
 public Form Form { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Form](../../../aspose.pdf.forms/form/)
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Form](../../../aspose.pdf.forms/form/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

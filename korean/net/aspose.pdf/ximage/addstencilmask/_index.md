@@ -1,12 +1,12 @@
 ---
-title: XImage.AddStencilMask
-second_title: Aspose.PDF for .NET API Reference
-description: XImage 메서드. XImage에 스텐실 마스크를 추가합니다.
+title: "XImage.AddStencilMask"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XImage method. XImage에 스텐실 마스크를 추가합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/ximage/addstencilmask/
 ---
-## XImage.AddStencilMask 메서드
+## XImage.AddStencilMask method
 
 XImage에 스텐실 마스크를 추가합니다.
 
@@ -18,8 +18,10 @@ public void AddStencilMask(Stream maskStream)
 | --- | --- | --- |
 | maskStream | Stream | 스텐실 마스크 비트맵 스트림. |
 
-### 참조
+### 또 보기
 
-* 클래스 [XImage](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

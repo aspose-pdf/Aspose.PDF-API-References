@@ -1,12 +1,12 @@
 ---
-title: PdfAValidationResult.StandardVersion
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAValidationResult 필드. 검증에 사용된 PDF/A 표준 버전을 가져옵니다.
+title: "PdfAValidationResult.StandardVersion"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAValidationResult 필드. 검증에 사용된 PDF/A 표준 버전을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.plugins/pdfavalidationresult/standardversion/
 ---
-## PdfAValidationResult.StandardVersion 필드
+## PdfAValidationResult.StandardVersion field
 
 검증에 사용된 PDF/A 표준 버전을 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.plugins/pdfavalidationresult/standardversion/
 public readonly PdfAStandardVersion StandardVersion;
 ```
 
-### 참조
+### 또 보기
 
 * enum [PdfAStandardVersion](../../pdfastandardversion/)
 * class [PdfAValidationResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

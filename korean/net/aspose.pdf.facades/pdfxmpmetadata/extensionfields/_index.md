@@ -1,22 +1,24 @@
 ---
-title: PdfXmpMetadata.ExtensionFields
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata 속성. 확장 필드의 사전을 가져옵니다.
+title: "PdfXmpMetadata.ExtensionFields"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfXmpMetadata 속성. 확장 필드 사전을 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.facades/pdfxmpmetadata/extensionfields/
 ---
-## PdfXmpMetadata.ExtensionFields 속성
+## PdfXmpMetadata.ExtensionFields property
 
-확장 필드의 사전을 가져옵니다.
+확장 필드 사전을 가져옵니다.
 
 ```csharp
 public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpPdfAExtensionSchema](../../../aspose.pdf/xmppdfaextensionschema/)
-* 클래스 [PdfXmpMetadata](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../../../aspose.pdf/xmppdfaextensionschema/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

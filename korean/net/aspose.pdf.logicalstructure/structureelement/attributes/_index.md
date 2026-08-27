@@ -1,12 +1,12 @@
 ---
-title: StructureElement.Attributes
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement 속성. StructureAttributeCollection 객체를 가져옵니다.
+title: "StructureElement.Attributes"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureElement 속성. StructureAttributeCollection 객체를 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.logicalstructure/structureelement/attributes/
 ---
-## StructureElement.Attributes 속성
+## StructureElement.Attributes property
 
 StructureAttributeCollection 객체를 가져옵니다.
 
@@ -14,13 +14,15 @@ StructureAttributeCollection 객체를 가져옵니다.
 public StructureAttributeCollection Attributes { get; }
 ```
 
-### 속성 값
+### Property Value
 
 StructureAttributeCollection 객체.
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureAttributeCollection](../../structureattributecollection/)
-* 클래스 [StructureElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureAttributeCollection](../../structureattributecollection/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

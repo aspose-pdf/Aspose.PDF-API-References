@@ -1,12 +1,12 @@
 ---
-title: TextStyle.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle 속성. 텍스트 정렬. 유효한 값은 Left Center Rigth
+title: "TextStyle.HorizontalAlignment"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextStyle 속성. 텍스트 정렬. 유효한 값은 Left Center Right"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/textstyle/horizontalalignment/
 ---
-## TextStyle.HorizontalAlignment 속성
+## TextStyle.HorizontalAlignment property
 
 텍스트 정렬. 유효한 값은: Left, Center, Rigth.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.annotations/textstyle/horizontalalignment/
 public HorizontalAlignment HorizontalAlignment { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
 * class [TextStyle](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

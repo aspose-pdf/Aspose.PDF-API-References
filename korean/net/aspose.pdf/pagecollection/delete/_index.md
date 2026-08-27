@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection 메서드. 지정된 페이지 삭제
+title: "PageCollection.Delete"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageCollection 메서드. 지정된 페이지를 삭제합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/pagecollection/delete/
@@ -16,13 +16,13 @@ public void Delete(int index)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| index | Int32 | 삭제될 페이지의 번호. 페이지 번호는 1부터 시작합니다. |
+| index | Int32 | 삭제될 페이지 번호. 페이지 번호는 1부터 시작합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PageCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,11 +34,11 @@ public void Delete(int index)
 public void Delete()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PageCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,10 +52,12 @@ public void Delete(int[] pages)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pages | Int32[] | 삭제할 페이지의 배열. |
+| 페이지 | Int32[] | 삭제될 페이지 배열. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PageCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

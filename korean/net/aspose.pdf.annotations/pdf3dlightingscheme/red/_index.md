@@ -1,21 +1,23 @@
 ---
-title: PDF3DLightingScheme.Red
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme 필드. 빨간 조명 방식
+title: "PDF3DLightingScheme.Red"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DLightingScheme 필드. 빨간 조명 스키마"
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.annotations/pdf3dlightingscheme/red/
 ---
-## PDF3DLightingScheme.Red 필드
+## PDF3DLightingScheme.Red field
 
-"빨간" 조명 방식입니다.
+그 "Red" 조명 스키마.
 
 ```csharp
 public static PDF3DLightingScheme Red;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DLightingScheme](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

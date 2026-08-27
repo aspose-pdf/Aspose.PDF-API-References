@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 메서드. 지정된 매개변수로 FormEditor 처리를 시작합니다.
+title: "FormEditor.Process"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor 메서드. 지정된 매개변수로 FormEditor 처리를 시작합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.plugins/formeditor/process/
 ---
-## FormEditor.Process 메서드
+## FormEditor.Process method
 
 지정된 매개변수로 FormEditor 처리를 시작합니다.
 
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| options | IPluginOptions | FormEditor에 대한 지침을 포함하는 옵션 객체입니다. |
+| 옵션 | IPluginOptions | FormEditor에 대한 지시를 포함하는 옵션 객체입니다. |
 
 ### 반환 값
 
@@ -26,12 +26,14 @@ public ResultContainer Process(IPluginOptions options)
 
 | 예외 | 조건 |
 | --- | --- |
-| ArgumentException | options가 올바르지 않은 경우. |
+| ArgumentException | 옵션이 올바르지 않은 경우. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ResultContainer](../../resultcontainer/)
-* 인터페이스 [IPluginOptions](../../ipluginoptions/)
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

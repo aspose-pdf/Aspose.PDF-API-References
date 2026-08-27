@@ -1,21 +1,23 @@
 ---
-title: StartEndPageEventArgs.TotalCopies
-second_title: Aspose.PDF for .NET API Reference
-description: StartEndPageEventArgs 필드. 인쇄할 총 복사본 수를 가져옵니다.
+title: "StartEndPageEventArgs.TotalCopies"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StartEndPageEventArgs 필드. 인쇄될 사본의 총 수를 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.printing/startendpageeventargs/totalcopies/
 ---
-## StartEndPageEventArgs.TotalCopies 필드
+## StartEndPageEventArgs.TotalCopies field
 
-인쇄할 총 복사본 수를 가져옵니다.
+인쇄될 사본의 총 수를 가져옵니다.
 
 ```csharp
 public readonly int TotalCopies;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [StartEndPageEventArgs](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

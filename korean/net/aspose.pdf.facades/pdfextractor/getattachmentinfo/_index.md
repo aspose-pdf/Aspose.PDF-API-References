@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.GetAttachmentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 메서드. 첨부 파일 목록을 가져옵니다.
+title: "PdfExtractor.GetAttachmentInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfExtractor 메서드. 첨부 파일 목록을 가져옵니다."
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf.facades/pdfextractor/getattachmentinfo/
 ---
-## PdfExtractor.GetAttachmentInfo 메서드
+## PdfExtractor.GetAttachmentInfo method
 
 첨부 파일 목록을 가져옵니다.
 
@@ -18,9 +18,11 @@ public List<FileSpecification> GetAttachmentInfo()
 
 List&lt;FileSpecificatio&gt;&gt;를 반환합니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [FileSpecification](../../../aspose.pdf/filespecification/)
-* 클래스 [PdfExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

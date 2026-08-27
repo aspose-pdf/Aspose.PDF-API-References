@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.WithContextBackupJsonPath
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 메서드. 채팅 코파일럿 옵션에서 컨텍스트 백업 JSON의 파일 경로를 설정합니다.
+title: "OpenAIChatCopilotOptions.WithContextBackupJsonPath"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIChatCopilotOptions 메서드. 채팅 코파일럿 옵션에서 컨텍스트 백업 JSON의 파일 경로를 설정합니다"
 type: docs
-weight: 90
+weight: 100
 url: /ko/net/aspose.pdf.ai/openaichatcopilotoptions/withcontextbackupjsonpath/
 ---
-## OpenAIChatCopilotOptions.WithContextBackupJsonPath 메서드
+## OpenAIChatCopilotOptions.WithContextBackupJsonPath method
 
 채팅 코파일럿 옵션에서 컨텍스트 백업 JSON의 파일 경로를 설정합니다.
 
@@ -20,10 +20,12 @@ public OpenAIChatCopilotOptions WithContextBackupJsonPath(string filePath)
 
 ### 반환 값
 
-[`OpenAIChatCopilotOptions`](../)의 현재 인스턴스입니다.
+현재 [`OpenAIChatCopilotOptions`](../) 인스턴스입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [OpenAIChatCopilotOptions](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

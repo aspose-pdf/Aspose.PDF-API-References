@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation 메서드. 매트릭스 변환에 따라 시작 및 종료 지점을 업데이트합니다.
+title: "LineAnnotation.ChangeAfterResize"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "LineAnnotation 메서드. 매트릭스 변환에 따라 시작점과 끝점을 업데이트합니다"
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf.annotations/lineannotation/changeafterresize/
 ---
-## LineAnnotation.ChangeAfterResize 메서드
+## LineAnnotation.ChangeAfterResize method
 
-매트릭스 변환에 따라 시작 및 종료 지점을 업데이트합니다.
+행렬 변환에 따라 시작점과 종료점을 업데이트합니다.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
@@ -16,11 +16,13 @@ public override void ChangeAfterResize(Matrix transform)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| transform | Matrix | 변환을 지정하는 매트릭스. |
+| transform | Matrix | 변환을 지정하는 Matrix. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Matrix](../../../aspose.pdf/matrix/)
-* 클래스 [LineAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

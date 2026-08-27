@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachNames
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 메서드. PDF 파일의 첨부 파일 목록을 반환합니다. 주의 이 메서드를 사용하기 전에 ExtractAttachments를 호출해야 합니다.
+title: "PdfExtractor.GetAttachNames"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfExtractor 메서드. PDF 파일의 첨부 파일 목록을 반환합니다. 이 메서드를 사용하기 전에 ExtractAttachments를 호출해야 합니다."
 type: docs
 weight: 160
 url: /ko/net/aspose.pdf.facades/pdfextractor/getattachnames/
 ---
-## PdfExtractor.GetAttachNames 메서드
+## PdfExtractor.GetAttachNames method
 
-PDF 파일의 첨부 파일 목록을 반환합니다. 주의: 이 메서드를 사용하기 전에 ExtractAttachments를 호출해야 합니다.
+PDF 파일의 첨부 파일 목록을 반환합니다. 참고: 이 메서드를 사용하기 전에 ExtractAttachments를 호출해야 합니다.
 
 ```csharp
 public IList<string> GetAttachNames()
@@ -31,8 +31,10 @@ foreach (string name in attachments)
 	Console.WriteLine(name);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

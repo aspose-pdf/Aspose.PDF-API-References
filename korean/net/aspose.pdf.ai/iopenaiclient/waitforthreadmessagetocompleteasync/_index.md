@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.WaitForThreadMessageToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient 메서드. 특정 스레드 메시지가 비동기적으로 완료될 때까지 대기합니다.
+title: "IOpenAIClient.WaitForThreadMessageToCompleteAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IOpenAIClient 메서드. 특정 스레드 메시지가 완료될 때까지 비동기적으로 대기합니다"
 type: docs
 weight: 450
 url: /ko/net/aspose.pdf.ai/iopenaiclient/waitforthreadmessagetocompleteasync/
 ---
-## IOpenAIClient.WaitForThreadMessageToCompleteAsync 메서드
+## IOpenAIClient.WaitForThreadMessageToCompleteAsync method
 
-특정 스레드 메시지가 비동기적으로 완료될 때까지 대기합니다.
+특정 스레드 메시지가 완료될 때까지 비동기적으로 기다립니다.
 
 ```csharp
 public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string threadId, 
@@ -30,11 +30,13 @@ public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string th
 | 예외 | 조건 |
 | --- | --- |
 | [AIClientException](../../aiclientexception/) | 스레드 ID가 null이거나 비어 있을 때 발생합니다. |
-| [AIClientException](../../aiclientexception/) | 스레드 메시지 ID가 null이거나 비어 있을 때 발생합니다. |
+| [AIClientException](../../aiclientexception/) | thread message Id가 null이거나 비어 있을 때 발생합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ThreadMessageResponse](../../threadmessageresponse/)
-* 인터페이스 [IOpenAIClient](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

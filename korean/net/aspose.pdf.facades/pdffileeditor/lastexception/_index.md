@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.LastException
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 속성. 마지막으로 발생한 예외를 가져옵니다. 실패의 원인을 확인하는 데 사용할 수 있습니다.
+title: "PdfFileEditor.LastException"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileEditor 속성. 마지막 발생한 예외를 가져옵니다. 실패 이유를 확인하는 데 사용할 수 있습니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf.facades/pdffileeditor/lastexception/
 ---
-## PdfFileEditor.LastException 속성
+## PdfFileEditor.LastException property
 
-마지막으로 발생한 예외를 가져옵니다. 실패의 원인을 확인하는 데 사용할 수 있습니다.
+마지막 발생한 예외를 가져옵니다. 실패 원인을 확인하는 데 사용할 수 있습니다.
 
 ```csharp
 public Exception LastException { get; }
@@ -30,8 +30,10 @@ if (!pfe.TryConcatenate("file1.pdf", "file2.pdf", "file3.pdf"))
 }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Dash.Pattern
-second_title: Aspose.PDF for .NET API Reference
-description: Dash 속성. 점선 테두리를 그리는 데 사용될 대시와 간격의 패턴을 정의하는 대시 배열을 가져옵니다.
+title: "Dash.Pattern"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Dash 속성. 대시와 간격 패턴을 정의하는 대시 배열을 가져와 점선 테두리 그리기에 사용됩니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/dash/pattern/
 ---
-## Dash.Pattern 속성
+## Dash.Pattern property
 
-점선 테두리를 그리는 데 사용될 대시와 간격의 패턴을 정의하는 대시 배열을 가져옵니다.
+대시 테두리를 그릴 때 사용할 대시와 간격 패턴을 정의하는 대시 배열을 가져옵니다.
 
 ```csharp
 public int[] Pattern { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Dash](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

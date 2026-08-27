@@ -1,12 +1,12 @@
 ---
-title: BoundsCheckableList1.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 메서드. System.Collections.Generic.List에서 모든 요소를 제거합니다.
+title: "BoundsCheckableList1.Clear"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BoundsCheckableList 메서드. System.Collections.Generic.List에서 모든 요소를 제거합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.generator/boundscheckablelist-1/clear/
 ---
-## BoundsCheckableList&lt;T&gt;.Clear 메서드
+## BoundsCheckableList&lt;T&gt;.Clear method
 
 System.Collections.Generic.List에서 모든 요소를 제거합니다.
 
@@ -14,8 +14,10 @@ System.Collections.Generic.List에서 모든 요소를 제거합니다.
 public void Clear()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BoundsCheckableList&lt;T&gt;](../)
-* 네임스페이스 [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

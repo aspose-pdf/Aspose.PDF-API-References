@@ -1,14 +1,14 @@
 ---
-title: NamedAction.NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: NamedAction 생성자. Named Action 클래스의 생성자
+title: "NamedAction.NamedAction"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "NamedAction 생성자. Named Action 클래스의 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/namedaction/namedaction/
 ---
-## NamedAction 생성자
+## NamedAction constructor
 
-Named Action 클래스의 생성자입니다.
+Named Action 클래스의 생성자.
 
 ```csharp
 public NamedAction(PredefinedAction action)
@@ -16,11 +16,13 @@ public NamedAction(PredefinedAction action)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| action | PredefinedAction | 이 객체가 생성되는 액션입니다. |
+| 작업 | PredefinedAction | 이 객체가 생성된 동작. |
 
-### 참조
+### 또 보기
 
 * enum [PredefinedAction](../../predefinedaction/)
 * class [NamedAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

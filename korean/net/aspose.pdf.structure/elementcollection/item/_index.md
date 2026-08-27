@@ -1,12 +1,12 @@
 ---
-title: ElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ElementCollection 속성. 인덱스로 Element를 가져옵니다.
+title: "ElementCollection.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ElementCollection 속성. 인덱스로 요소를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.structure/elementcollection/item/
 ---
-## ElementCollection 인덱서
+## ElementCollection indexer
 
 인덱스로 Element를 가져옵니다.
 
@@ -20,11 +20,13 @@ public Element this[int index] { get; }
 
 ### 반환 값
 
-가져온 요소.
+검색된 요소.
 
-### 참조
+### 또 보기
 
-* 클래스 [Element](../../element/)
-* 클래스 [ElementCollection](../)
-* 네임스페이스 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

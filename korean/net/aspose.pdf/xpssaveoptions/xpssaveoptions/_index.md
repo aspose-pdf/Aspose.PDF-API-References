@@ -1,21 +1,23 @@
 ---
-title: XpsSaveOptions.XpsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: XpsSaveOptions 생성자. 기본 생성자
+title: "XpsSaveOptions.XpsSaveOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XpsSaveOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/xpssaveoptions/xpssaveoptions/
 ---
-## XpsSaveOptions 생성자
+## XpsSaveOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public XpsSaveOptions()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XpsSaveOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XpsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

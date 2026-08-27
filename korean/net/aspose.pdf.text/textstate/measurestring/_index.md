@@ -1,14 +1,14 @@
 ---
-title: TextState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: TextState 메서드. 문자열의 크기를 측정합니다.
+title: "TextState.MeasureString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextState 메서드. 문자열을 측정합니다."
 type: docs
 weight: 240
 url: /ko/net/aspose.pdf.text/textstate/measurestring/
 ---
-## TextState.MeasureString 메서드
+## TextState.MeasureString method
 
-문자열의 크기를 측정합니다.
+문자열을 측정합니다.
 
 ```csharp
 public virtual double MeasureString(string str)
@@ -20,10 +20,12 @@ public virtual double MeasureString(string str)
 
 ### 반환 값
 
-이 텍스트 상태로 표현된 문자열의 너비.
+이 텍스트 상태로 표시된 문자열의 너비.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextState](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

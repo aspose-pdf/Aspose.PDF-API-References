@@ -1,12 +1,12 @@
 ---
-title: XmpField.LocalName
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField 속성. 로컬의 이름을 가져오거나 설정합니다.
+title: "XmpField.LocalName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpField 속성. 로컬 이름을 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/xmpfield/localname/
 ---
-## XmpField.LocalName 속성
+## XmpField.LocalName property
 
 로컬의 이름을 가져오거나 설정합니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf/xmpfield/localname/
 public string LocalName { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-로컬의 이름.
+로컬의 이름입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpField](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

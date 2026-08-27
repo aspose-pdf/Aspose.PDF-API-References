@@ -1,14 +1,14 @@
 ---
-title: Class TabStop
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TabStop 클래스. 단락에서 사용자 정의 탭 정지 위치를 나타냅니다.
+title: "클래스 TabStop"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Text.TabStop 클래스. 단락에서 사용자 정의 탭 정지 위치를 나타냅니다."
 type: docs
-weight: 10770
+weight: 10950
 url: /ko/net/aspose.pdf.text/tabstop/
 ---
-## TabStop 클래스
+## TabStop class
 
-단락에서 사용자 정의 탭 정지 위치를 나타냅니다.
+단락 내 사용자 정의 탭 정지 위치를 나타냅니다.
 
 ```csharp
 public class TabStop
@@ -25,12 +25,14 @@ public class TabStop
 
 | 이름 | 설명 |
 | --- | --- |
-| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype/) { get; set; } | 탭 정렬 유형을 나타내는 [`AlignmentType`](./alignmenttype/) 열거형을 가져오거나 설정합니다. |
-| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | 이 `TabStop` 인스턴스가 이미 [`TextFragment`](../textfragment/)에 연결되어 있으며 읽기 전용이 되었음을 나타내는 값을 가져옵니다. |
-| [LeaderType](../../aspose.pdf.text/tabstop/leadertype/) { get; set; } | 탭 리더 유형을 나타내는 [`TabLeaderType`](../tableadertype/) 열거형을 가져오거나 설정합니다. |
-| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | 탭 정지 위치를 나타내는 부동 값(float)을 가져오거나 설정합니다. |
+| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype/) { get; set; } | [`AlignmentType`](./alignmenttype/) 열거형을 가져오거나 설정합니다. 이 열거형은 탭 정렬 유형을 나타냅니다. |
+| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | `TabStop` 인스턴스가 이미 [`TextFragment`](../textfragment/)에 연결되어 읽기 전용이 되었음을 나타내는 값을 가져옵니다. |
+| [LeaderType](../../aspose.pdf.text/tabstop/leadertype/) { get; set; } | [`TabLeaderType`](../tableadertype/) 열거형을 가져오거나 설정합니다. 이 열거형은 탭 리더 유형을 나타냅니다. |
+| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | 탭 정지 위치를 나타내는 부동 소수점 값을 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

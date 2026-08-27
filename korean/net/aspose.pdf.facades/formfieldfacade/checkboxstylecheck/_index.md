@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCheck
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 필드. 체크 박스 필드가 체크되었을 때의 모양을 정의합니다.
+title: "FormFieldFacade.CheckBoxStyleCheck"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 필드. 체크된 경우 체크 박스 필드의 모양을 정의합니다"
 type: docs
 weight: 390
 url: /ko/net/aspose.pdf.facades/formfieldfacade/checkboxstylecheck/
 ---
-## FormFieldFacade.CheckBoxStyleCheck 필드
+## FormFieldFacade.CheckBoxStyleCheck field
 
-체크 박스 필드가 체크되었을 때의 모양을 정의합니다.
+체크 박스 필드가 선택되었을 때의 모양을 정의합니다.
 
 ```csharp
 public const int CheckBoxStyleCheck;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

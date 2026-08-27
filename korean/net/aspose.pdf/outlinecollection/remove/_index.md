@@ -1,7 +1,7 @@
 ---
-title: OutlineCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection 메서드. 항상 NotImplementedException을 발생시킵니다.
+title: "OutlineCollection.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OutlineCollection 메서드. 항상 NotImplementedException을 발생시킵니다."
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf/outlinecollection/remove/
@@ -22,12 +22,12 @@ public override bool Remove(OutlineItemCollection item)
 
 NotImplementedException
 
-### 참조
+### 또 보기
 
-* 클래스 [OutlineItemCollection](../../outlineitemcollection/)
-* 클래스 [OutlineCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,10 +41,12 @@ public void Remove(int index)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| index | Int32 | 제거할 항목의 인덱스. |
+| index | Int32 | 삭제될 항목의 인덱스. |
 
-### 참조
+### 또 보기
 
-* 클래스 [OutlineCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

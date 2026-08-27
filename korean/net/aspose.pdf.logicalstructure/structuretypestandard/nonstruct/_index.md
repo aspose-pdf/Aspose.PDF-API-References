@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.NonStruct
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 필드. 비구조적 요소 본질적인 구조적 의미가 없는 그룹화 요소로, 오로지 그룹화 목적으로만 사용됩니다. 이 유형의 요소는 구분 구조 유형 Div와 다르며, 다른 문서 형식으로 해석되거나 내보내지지 않지만, 그 자손은 정상적으로 처리됩니다.
+title: "StructureTypeStandard.NonStruct"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureTypeStandard 필드. Nonstructural element 고유한 구조적 의미가 없는 그룹화 요소로, 오직 그룹화 목적에만 사용됩니다. 이 요소는 Div와 같은 구분 구조와 달리 다른 문서 형식으로 해석되거나 내보내지 않으며, 자식 요소는 정상적으로 처리됩니다."
 type: docs
 weight: 250
 url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/nonstruct/
 ---
-## StructureTypeStandard.NonStruct 필드
+## StructureTypeStandard.NonStruct field
 
-(비구조적 요소) 본질적인 구조적 의미가 없는 그룹화 요소로, 오로지 그룹화 목적으로만 사용됩니다. 이 유형의 요소는 구분(구조 유형 Div)과 다르며, 다른 문서 형식으로 해석되거나 내보내지지 않지만, 그 자손은 정상적으로 처리됩니다.
+(Nonstructural element) 고유한 구조적 의미가 없는 그룹화 요소이며, 오직 그룹화 목적에만 사용됩니다. 이 요소는 구분(Div 구조 유형)과 달리 다른 문서 형식으로 해석되거나 내보내지 않으며, 자손은 정상적으로 처리됩니다.
 
 ```csharp
 public static readonly StructureTypeStandard NonStruct;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTypeStandard](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

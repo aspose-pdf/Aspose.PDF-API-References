@@ -1,21 +1,23 @@
 ---
-title: SvgExtractionOptions.SvgExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractionOptions 생성자. 기본 생성자
+title: "SvgExtractionOptions.SvgExtractionOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SvgExtractionOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.vector/svgextractionoptions/svgextractionoptions/
 ---
-## SvgExtractionOptions 생성자
+## SvgExtractionOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public SvgExtractionOptions()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SvgExtractionOptions](../)
-* 네임스페이스 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

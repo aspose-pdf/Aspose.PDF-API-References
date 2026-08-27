@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.Mode
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions 속성. 인식 모드
+title: "DocSaveOptions.Mode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DocSaveOptions 속성. 인식 모드"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf/docsaveoptions/mode/
 ---
-## DocSaveOptions.Mode 속성
+## DocSaveOptions.Mode property
 
 인식 모드.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/docsaveoptions/mode/
 public RecognitionMode Mode { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [RecognitionMode](../../docsaveoptions.recognitionmode/)
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

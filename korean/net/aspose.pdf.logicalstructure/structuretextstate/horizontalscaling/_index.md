@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState 속성. 텍스트의 수평 스케일링을 가져오거나 설정합니다.
+title: "StructureTextState.HorizontalScaling"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureTextState 속성. 텍스트의 가로 스케일링을 가져오거나 설정합니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/
 ---
-## StructureTextState.HorizontalScaling 속성
+## StructureTextState.HorizontalScaling property
 
-텍스트의 수평 스케일링을 가져오거나 설정합니다.
+텍스트의 수평 스케일을 가져오거나 설정합니다.
 
 ```csharp
 public float? HorizontalScaling { get; set; }
@@ -16,10 +16,12 @@ public float? HorizontalScaling { get; set; }
 
 ## 비고
 
-null일 수 있습니다. null을 사용하여 부모 구조 요소에서 `HorizontalScaling` 속성을 상속받습니다.
+null일 수 있습니다. null을 사용하여 상위 구조 요소에서 `HorizontalScaling` 속성을 상속받습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTextState](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

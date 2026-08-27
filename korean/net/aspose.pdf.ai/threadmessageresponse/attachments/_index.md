@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageResponse.Attachments
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse 속성. 메시지에 첨부된 파일 목록을 가져오거나 설정합니다.
+title: "ThreadMessageResponse.Attachments"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ThreadMessageResponse 속성. 메시지에 첨부된 파일 목록을 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.ai/threadmessageresponse/attachments/
 ---
-## ThreadMessageResponse.Attachments 속성
+## ThreadMessageResponse.Attachments property
 
 메시지에 첨부된 파일 목록을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.ai/threadmessageresponse/attachments/
 public List<Attachment> Attachments { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Attachment](../../attachment/)
 * class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

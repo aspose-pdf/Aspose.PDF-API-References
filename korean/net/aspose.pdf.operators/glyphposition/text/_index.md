@@ -1,12 +1,12 @@
 ---
-title: GlyphPosition.Text
-second_title: Aspose.PDF for .NET API Reference
-description: GlyphPosition 속성. 연산자의 텍스트
+title: "GlyphPosition.Text"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "GlyphPosition 속성. 연산자의 텍스트"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.operators/glyphposition/text/
 ---
-## GlyphPosition.Text 속성
+## GlyphPosition.Text property
 
 연산자의 텍스트.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/glyphposition/text/
 public string Text { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [GlyphPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

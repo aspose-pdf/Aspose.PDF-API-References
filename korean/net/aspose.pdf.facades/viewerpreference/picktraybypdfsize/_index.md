@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PickTrayByPDFSize
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference 필드. PDF 페이지 크기를 사용하여 입력 용지 트레이를 선택합니다.
+title: "ViewerPreference.PickTrayByPDFSize"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ViewerPreference 필드. PDF 페이지 크기를 사용하여 입력 용지 트레이를 선택"
 type: docs
 weight: 260
 url: /ko/net/aspose.pdf.facades/viewerpreference/picktraybypdfsize/
 ---
-## ViewerPreference.PickTrayByPDFSize 필드
+## ViewerPreference.PickTrayByPDFSize field
 
 PDF 페이지 크기를 사용하여 입력 용지 트레이를 선택합니다.
 
@@ -14,8 +14,10 @@ PDF 페이지 크기를 사용하여 입력 용지 트레이를 선택합니다.
 public const int PickTrayByPDFSize;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ViewerPreference](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum PdfAStandardVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfAStandardVersion 열거형. PDF 문서의 PDF/A 표준 버전을 지정합니다.
+title: "열거형 PdfAStandardVersion"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.PdfAStandardVersion 열거형. PDF 문서에 대한 PDF/A 표준 버전을 지정합니다"
 type: docs
-weight: 9020
+weight: 9170
 url: /ko/net/aspose.pdf.plugins/pdfastandardversion/
 ---
-## PdfAStandardVersion 열거형
+## PdfAStandardVersion enumeration
 
-PDF 문서의 PDF/A 표준 버전을 지정합니다.
+PDF 문서에 대한 PDF/A 표준 버전을 지정합니다.
 
 ```csharp
 public enum PdfAStandardVersion
@@ -18,7 +18,7 @@ public enum PdfAStandardVersion
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Auto | `0` | PDF/A 표준 버전이 자동으로 결정됩니다. |
+| Auto | `0` | PDF/A 표준 버전은 자동으로 결정됩니다. |
 | PDF_A_1A | `1` | PDF/A-1a 표준 버전을 지정합니다. |
 | PDF_A_1B | `2` | PDF/A-1b 표준 버전을 지정합니다. |
 | PDF_A_2A | `3` | PDF/A-2a 표준 버전을 지정합니다. |
@@ -27,8 +27,13 @@ public enum PdfAStandardVersion
 | PDF_A_3A | `6` | PDF/A-3a 표준 버전을 지정합니다. |
 | PDF_A_3B | `7` | PDF/A-3b 표준 버전을 지정합니다. |
 | PDF_A_3U | `8` | PDF/A-3u 표준 버전을 지정합니다. |
+| PDF_A_4 | `9` | PDF/A-4 표준 버전을 지정합니다. |
+| PDF_A_4E | `10` | PDF/A-4e 표준 버전을 지정합니다. |
+| PDF_A_4F | `11` | PDF/A-4f 표준 버전을 지정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

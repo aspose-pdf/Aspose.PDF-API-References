@@ -1,12 +1,12 @@
 ---
-title: PDF3DView.BackGroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView 속성. 뷰의 배경 색상을 가져오거나 설정합니다.
+title: "PDF3DView.BackGroundColor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DView 속성. 보기의 배경 색상을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/pdf3dview/backgroundcolor/
 ---
-## PDF3DView.BackGroundColor 속성
+## PDF3DView.BackGroundColor property
 
 뷰의 배경 색상을 가져오거나 설정합니다.
 
@@ -14,13 +14,15 @@ url: /ko/net/aspose.pdf.annotations/pdf3dview/backgroundcolor/
 public Color BackGroundColor { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-뷰의 배경 색상입니다.
+보기의 배경 색상.
 
-### 참조
+### 또 보기
 
-* 클래스 [Color](../../../aspose.pdf/color/)
-* 클래스 [PDF3DView](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

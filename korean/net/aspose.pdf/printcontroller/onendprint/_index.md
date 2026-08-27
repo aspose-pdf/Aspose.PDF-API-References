@@ -1,14 +1,14 @@
 ---
-title: PrintController.OnEndPrint
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController 메서드. 페이지 인쇄 시작 시 발생
+title: "PrintController.OnEndPrint"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PrintController 메서드. 페이지 인쇄 시작 시 발생합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/printcontroller/onendprint/
 ---
-## PrintController.OnEndPrint 메서드
+## PrintController.OnEndPrint method
 
-페이지 인쇄 시작 시 발생합니다.
+페이지 시작 인쇄 시 발생합니다.
 
 ```csharp
 public override void OnEndPrint(PrintDocument document, PrintEventArgs e)
@@ -16,11 +16,13 @@ public override void OnEndPrint(PrintDocument document, PrintEventArgs e)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| document | PrintDocument | 인쇄할 문서. |
+| document | PrintDocument | 인쇄할 Document. |
 | e | PrintEventArgs | 이벤트 인수. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PrintController](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

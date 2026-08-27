@@ -1,22 +1,24 @@
 ---
-title: TiffDevice.Settings
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice 속성. pdf를 tiff 이미지로 매핑하기 위한 설정을 가져옵니다.
+title: "TiffDevice.Settings"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TiffDevice 속성. pdf를 tiff 이미지로 매핑하기 위한 설정을 가져옵니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.devices/tiffdevice/settings/
 ---
-## TiffDevice.Settings 속성
+## TiffDevice.Settings property
 
-pdf를 tiff 이미지로 매핑하기 위한 설정을 가져옵니다.
+PDF를 TIFF 이미지로 매핑하기 위한 설정을 가져옵니다.
 
 ```csharp
 public TiffSettings Settings { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TiffSettings](../../tiffsettings/)
-* 클래스 [TiffDevice](../)
-* 네임스페이스 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

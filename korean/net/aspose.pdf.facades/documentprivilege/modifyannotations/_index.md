@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.ModifyAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege 속성. 파일의 주석을 수정할 수 있습니다.
+title: "DocumentPrivilege.ModifyAnnotations"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DocumentPrivilege property. 파일 주석 수정을 허용합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.facades/documentprivilege/modifyannotations/
 ---
-## DocumentPrivilege.ModifyAnnotations 속성
+## DocumentPrivilege.ModifyAnnotations property
 
-파일의 주석을 수정할 수 있습니다.
+파일의 주석 수정을 허용합니다.
 
 ```csharp
 public static DocumentPrivilege ModifyAnnotations { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [DocumentPrivilege](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

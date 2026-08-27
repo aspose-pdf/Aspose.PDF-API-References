@@ -1,21 +1,23 @@
 ---
-title: Security.Security
-second_title: Aspose.PDF for .NET API Reference
-description: 보안 생성자. 기본 생성자
+title: "Security.Security"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Security 생성자. 기본 생성자입니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/security/security/
 ---
-## 보안 생성자
+## Security constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public Security()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Security](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Security](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

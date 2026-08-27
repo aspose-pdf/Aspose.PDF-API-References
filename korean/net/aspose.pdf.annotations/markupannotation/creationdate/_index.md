@@ -1,21 +1,23 @@
 ---
-title: MarkupAnnotation.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation 속성. 주석이 생성된 날짜와 시간을 가져옵니다.
+title: "MarkupAnnotation.CreationDate"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MarkupAnnotation 속성. 주석이 생성된 날짜와 시간을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/markupannotation/creationdate/
 ---
-## MarkupAnnotation.CreationDate 속성
+## MarkupAnnotation.CreationDate property
 
 주석이 생성된 날짜와 시간을 가져옵니다.
 
 ```csharp
-public DateTime CreationDate { get; }
+public DateTime CreationDate { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [MarkupAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

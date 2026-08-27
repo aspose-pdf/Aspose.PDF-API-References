@@ -1,12 +1,12 @@
 ---
-title: Enum SoundEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundEncoding 열거형. 샘플 데이터의 인코딩 형식
+title: "열거형 SoundEncoding"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.SoundEncoding 열거형. 샘플 데이터에 대한 인코딩 형식"
 type: docs
-weight: 2550
+weight: 2650
 url: /ko/net/aspose.pdf.annotations/soundencoding/
 ---
-## SoundEncoding 열거형
+## SoundEncoding enumeration
 
 샘플 데이터의 인코딩 형식입니다.
 
@@ -14,16 +14,18 @@ url: /ko/net/aspose.pdf.annotations/soundencoding/
 public enum SoundEncoding
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Raw | `0` | 0에서 2^bits - 1 범위의 지정되지 않거나 부호 없는 값. |
-| Signed | `1` | 두 보수 값. |
-| MuLaw | `2` | Mu-law로 인코딩된 샘플. |
-| ALaw | `3` | A-law로 인코딩된 샘플. |
+| Raw | `0` | 범위 0부터 2^bits - 1까지의 지정되지 않거나 부호 없는 값. |
+| Signed | `1` | 2의 보수 값. |
+| MuLaw | `2` | Mu-law 인코딩된 샘플. |
+| ALaw | `3` | A-law 인코딩된 샘플. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

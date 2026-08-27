@@ -1,21 +1,23 @@
 ---
-title: TextSegmentCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection 메서드. 컬렉션에서 모든 항목을 지웁니다.
+title: "TextSegmentCollection.Clear"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextSegmentCollection 메서드. 컬렉션의 모든 항목을 삭제합니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.text/textsegmentcollection/clear/
 ---
-## TextSegmentCollection.Clear 메서드
+## TextSegmentCollection.Clear method
 
-컬렉션에서 모든 항목을 지웁니다.
+컬렉션의 모든 항목을 비웁니다.
 
 ```csharp
 public void Clear()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextSegmentCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

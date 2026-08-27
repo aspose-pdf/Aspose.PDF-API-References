@@ -1,12 +1,12 @@
 ---
-title: PaperSize.Kind
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSize 속성. 용지 유형을 가져옵니다.
+title: "PaperSize.Kind"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSize 속성. 용지 유형을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.printing/papersize/kind/
 ---
-## PaperSize.Kind 속성
+## PaperSize.Kind property
 
 용지 유형을 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.printing/papersize/kind/
 public PaperKind Kind { get; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [PaperKind](../../paperkind/)
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

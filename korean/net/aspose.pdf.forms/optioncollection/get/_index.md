@@ -1,7 +1,7 @@
 ---
-title: OptionCollection.get
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection 메서드. 인덱스로 옵션을 가져옵니다.
+title: "OptionCollection.get"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OptionCollection 메서드. 인덱스로 옵션을 가져옵니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.forms/optioncollection/get/
@@ -14,15 +14,15 @@ url: /ko/net/aspose.pdf.forms/optioncollection/get/
 public Option get(int index)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| index | Int32 | 옵션 인덱스. 인덱스는 [1..n] 범위 내에 있어야 하며, 여기서 n은 옵션 수입니다. |
+| index | Int32 | 옵션 인덱스. 인덱스는 [1..n] 범위여야 하며, n은 옵션 수입니다. |
 
-### Return Value
+### 반환 값
 
-가져온 옵션.
+검색된 옵션.
 
-### See Also
+### 또 보기
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
@@ -39,17 +39,19 @@ public Option get(int index)
 public Option get(string name)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| name | String | 옵션 이름. |
+| 이름 | String | 옵션 이름. |
 
-### Return Value
+### 반환 값
 
-가져온 옵션.
+검색된 옵션.
 
-### See Also
+### 또 보기
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

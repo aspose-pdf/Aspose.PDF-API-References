@@ -1,12 +1,12 @@
 ---
-title: CurveTo.X2
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo 필드. X2 좌표를 가져오거나 설정합니다.
+title: "CurveTo.X2"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CurveTo 필드. X2 좌표를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.operators/curveto/x2/
 ---
-## CurveTo.X2 필드
+## CurveTo.X2 field
 
 X2 좌표를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ X2 좌표를 가져오거나 설정합니다.
 public double X2;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CurveTo](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

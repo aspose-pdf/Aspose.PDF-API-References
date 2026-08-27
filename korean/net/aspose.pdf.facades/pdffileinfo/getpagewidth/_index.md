@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.GetPageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 메서드. 지정된 페이지의 너비를 가져옵니다.
+title: "PdfFileInfo.GetPageWidth"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileInfo 메서드. 지정된 페이지의 너비를 가져옵니다."
 type: docs
 weight: 260
 url: /ko/net/aspose.pdf.facades/pdffileinfo/getpagewidth/
 ---
-## PdfFileInfo.GetPageWidth 메서드
+## PdfFileInfo.GetPageWidth method
 
 지정된 페이지의 너비를 가져옵니다.
 
@@ -22,8 +22,10 @@ public float GetPageWidth(int pageNum)
 
 페이지의 너비.
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileInfo](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

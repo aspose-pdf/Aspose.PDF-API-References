@@ -1,21 +1,23 @@
 ---
-title: VectorStoreCreateRequest.VectorStoreCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreCreateRequest 생성자. 기본 생성자
+title: "VectorStoreCreateRequest.VectorStoreCreateRequest"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "VectorStoreCreateRequest 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/vectorstorecreaterequest/vectorstorecreaterequest/
 ---
-## VectorStoreCreateRequest 생성자
+## VectorStoreCreateRequest constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public VectorStoreCreateRequest()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [VectorStoreCreateRequest](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [VectorStoreCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

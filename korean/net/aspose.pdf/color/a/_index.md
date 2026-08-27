@@ -1,12 +1,12 @@
 ---
-title: Color.A
-second_title: Aspose.PDF for .NET API Reference
-description: 색상 속성. 알파 구성 요소 값을 가져옵니다.
+title: "Color.A"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Color 속성. 알파 구성 요소 값을 가져옵니다"
 type: docs
 weight: 1490
 url: /ko/net/aspose.pdf/color/a/
 ---
-## Color.A 속성
+## Color.A property
 
 알파 구성 요소 값을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/color/a/
 public double A { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Color](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

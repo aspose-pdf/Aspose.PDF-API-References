@@ -1,7 +1,7 @@
 ---
-title: AppearanceDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary 메서드. 사전에서 키를 제거합니다.
+title: "AppearanceDictionary.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AppearanceDictionary 메서드. 사전에서 키를 제거합니다."
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf.annotations/appearancedictionary/remove/
@@ -14,15 +14,15 @@ url: /ko/net/aspose.pdf.annotations/appearancedictionary/remove/
 public bool Remove(string key)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| key | String | 사전에서 제거할 키입니다. |
+| 키 | String | 사전에서 제거할 키입니다. |
 
-### Return Value
+### 반환 값
 
-키가 성공적으로 제거되면 true입니다.
+키가 성공적으로 제거되면 true를 반환합니다.
 
-### See Also
+### 또 보기
 
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -38,17 +38,19 @@ public bool Remove(string key)
 public bool Remove(KeyValuePair<string, XForm> item)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 제거할 키/값 쌍입니다. |
+| item | KeyValuePair`2 | 제거될 키/값 쌍. |
 
-### Return Value
+### 반환 값
 
-쌍이 발견되어 제거되면 true입니다.
+쌍이 발견되어 제거되면 true.
 
-### See Also
+### 또 보기
 
 * class [XForm](../../../aspose.pdf/xform/)
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

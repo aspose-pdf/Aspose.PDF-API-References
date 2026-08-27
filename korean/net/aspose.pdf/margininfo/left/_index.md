@@ -1,21 +1,23 @@
 ---
-title: MarginInfo.Left
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo 속성. 왼쪽 여백을 나타내는 부동 값 가져오기 또는 설정
+title: "MarginInfo.Left"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MarginInfo 속성. 왼쪽 여백을 나타내는 부동 소수점 값을 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/margininfo/left/
 ---
-## MarginInfo.Left 속성
+## MarginInfo.Left property
 
-왼쪽 여백을 나타내는 부동 값을 가져오거나 설정합니다.
+왼쪽 여백을 나타내는 부동 소수점 값을 가져오거나 설정합니다.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [MarginInfo](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

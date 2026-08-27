@@ -1,21 +1,23 @@
 ---
-title: BaseActionCollection.RemoveActions
-second_title: Aspose.PDF for .NET API Reference
-description: BaseActionCollection 메서드. 주석의 모든 작업을 제거합니다.
+title: "BaseActionCollection.RemoveActions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BaseActionCollection 메서드. 주석의 모든 동작을 제거합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/baseactioncollection/removeactions/
 ---
-## BaseActionCollection.RemoveActions 메서드
+## BaseActionCollection.RemoveActions method
 
-주석의 모든 작업을 제거합니다.
+Annotation의 모든 작업을 제거합니다.
 
 ```csharp
 public void RemoveActions()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BaseActionCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BaseActionCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Reference
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 필드. 참조 문서의 다른 곳에 있는 콘텐츠에 대한 인용
+title: "StructureTypeStandard.Reference"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureTypeStandard 필드. Reference 문서 내 다른 위치의 콘텐츠에 대한 인용입니다."
 type: docs
 weight: 320
 url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/reference/
 ---
-## StructureTypeStandard.Reference 필드
+## StructureTypeStandard.Reference field
 
-(참조) 문서의 다른 곳에 있는 콘텐츠에 대한 인용입니다.
+(Reference) 문서 내 다른 위치의 콘텐츠에 대한 인용입니다.
 
 ```csharp
 public static readonly StructureTypeStandard Reference;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTypeStandard](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

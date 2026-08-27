@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.PercentValue
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue 속성. 페이지 크기의 백분율로 값을 설정합니다.
+title: "PdfFileEditor.ContentsResizeValue.PercentValue"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ContentsResizeValue property. 페이지 크기의 백분율로 값을 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percentvalue/
 ---
-## PdfFileEditor.ContentsResizeValue.PercentValue 속성
+## PdfFileEditor.ContentsResizeValue.PercentValue property
 
 페이지 크기의 백분율로 값을 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percentvalue/
 public double PercentValue { set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ContentsResizeValue](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: TabStops.Add
-second_title: Aspose.PDF for .NET API Reference
-description: TabStops 메서드. TabStop 클래스의 새 인스턴스를 초기화하고 TabStops 컬렉션에 추가합니다.
+title: "TabStops.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TabStops 메서드. TabStop 클래스를 새 인스턴스로 초기화하고 이를 TabStops 컬렉션에 추가합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.text/tabstops/add/
 ---
 ## Add() {#add}
 
-[`TabStop`](../../tabstop/) 클래스의 새 인스턴스를 초기화하고 TabStops 컬렉션에 추가합니다.
+새 인스턴스의 [`TabStop`](../../tabstop/) 클래스를 초기화하고 이를 TabStops 컬렉션에 추가합니다.
 
 ```csharp
 public TabStop Add()
 ```
 
-### Return Value
+### 반환 값
 
-새로운 [`TabStop`](../../tabstop/) 객체입니다.
+새로운 [`TabStop`](../../tabstop/) 객체.
 
-### See Also
+### 또 보기
 
 * class [TabStop](../../tabstop/)
 * class [TabStops](../)
@@ -29,21 +29,21 @@ public TabStop Add()
 
 ## Add(float) {#add_1}
 
-지정된 위치로 [`TabStop`](../../tabstop/) 클래스의 새 인스턴스를 초기화하고 TabStops 컬렉션에 추가합니다.
+지정된 위치로 새로운 [`TabStop`](../../tabstop/) 클래스 인스턴스를 초기화하고 이를 TabStops 컬렉션에 추가합니다.
 
 ```csharp
 public TabStop Add(float position)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| position | Single | 탭 정지의 위치입니다. |
+| position | Single | 탭 정지 위치. |
 
-### Return Value
+### 반환 값
 
-새로운 [`TabStop`](../../tabstop/) 객체입니다.
+새로운 [`TabStop`](../../tabstop/) 객체.
 
-### See Also
+### 또 보기
 
 * class [TabStop](../../tabstop/)
 * class [TabStops](../)
@@ -60,11 +60,11 @@ public TabStop Add(float position)
 public void Add(TabStop tabStop)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| tabStop | TabStop | [`TabStop`](../../tabstop/) 객체입니다. |
+| tabStop | TabStop | 이 [`TabStop`](../../tabstop/) 객체. |
 
-### See Also
+### 또 보기
 
 * class [TabStop](../../tabstop/)
 * class [TabStops](../)
@@ -75,25 +75,27 @@ public void Add(TabStop tabStop)
 
 ## Add(float, TabLeaderType) {#add_2}
 
-지정된 위치와 리더 유형으로 [`TabStop`](../../tabstop/) 클래스의 새 인스턴스를 초기화하고 TabStops 컬렉션에 추가합니다.
+지정된 위치와 리더 유형을 사용하여 [`TabStop`](../../tabstop/) 클래스의 새 인스턴스를 초기화하고 이를 TabStops 컬렉션에 추가합니다.
 
 ```csharp
 public TabStop Add(float position, TabLeaderType leaderType)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| position | Single | 탭 정지의 위치입니다. |
-| leaderType | TabLeaderType | 탭 정지의 리더 유형입니다. |
+| position | Single | 탭 정지 위치. |
+| leaderType | TabLeaderType | 탭 정지의 리더 유형. |
 
-### Return Value
+### 반환 값
 
-새로운 [`TabStop`](../../tabstop/) 객체입니다.
+새로운 [`TabStop`](../../tabstop/) 객체.
 
-### See Also
+### 또 보기
 
 * class [TabStop](../../tabstop/)
 * enum [TabLeaderType](../../tableadertype/)
 * class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

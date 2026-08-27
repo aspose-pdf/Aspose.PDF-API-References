@@ -1,14 +1,14 @@
 ---
-title: Class PDF3DLightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3D조명구성 클래스. 클래스 PDF3D조명구성
+title: "클래스 PDF3DLightingScheme"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.PDF3DLightingScheme 클래스. PDF3DLightingScheme 클래스"
 type: docs
-weight: 2210
+weight: 2300
 url: /ko/net/aspose.pdf.annotations/pdf3dlightingscheme/
 ---
-## PDF3DLightingScheme 클래스
+## PDF3DLightingScheme class
 
-Class PDF3DLightingScheme.
+PDF3DLightingScheme 클래스.
 
 ```csharp
 public class PDF3DLightingScheme
@@ -25,26 +25,28 @@ public class PDF3DLightingScheme
 
 | 이름 | 설명 |
 | --- | --- |
-| [Type](../../aspose.pdf.annotations/pdf3dlightingscheme/type/) { get; } | 조명 스킴 유형을 가져옵니다. |
+| [Type](../../aspose.pdf.annotations/pdf3dlightingscheme/type/) { get; } | 조명 스키마 유형을 가져옵니다. |
 
 ## 필드
 
 | 이름 | 설명 |
 | --- | --- |
-| static [Artwork](../../aspose.pdf.annotations/pdf3dlightingscheme/artwork/) | "Artwork" 조명 스킴. |
-| static [Blue](../../aspose.pdf.annotations/pdf3dlightingscheme/blue/) | "Blue" 조명 스킴. |
-| static [CAD](../../aspose.pdf.annotations/pdf3dlightingscheme/cad/) | "Cad" 조명 스킴. |
-| static [Cube](../../aspose.pdf.annotations/pdf3dlightingscheme/cube/) | "Cube" 조명 스킴. |
-| static [Day](../../aspose.pdf.annotations/pdf3dlightingscheme/day/) | "Day" 조명 스킴. |
-| static [Hard](../../aspose.pdf.annotations/pdf3dlightingscheme/hard/) | "Hard" 조명 스킴. |
-| static [Headlamp](../../aspose.pdf.annotations/pdf3dlightingscheme/headlamp/) | "Headlamp" 조명 스킴. |
-| static [Night](../../aspose.pdf.annotations/pdf3dlightingscheme/night/) | "Night" 조명 스킴. |
-| static [None](../../aspose.pdf.annotations/pdf3dlightingscheme/none/) | "None" 조명 스킴. |
-| static [Primary](../../aspose.pdf.annotations/pdf3dlightingscheme/primary/) | "Primary" 조명 스킴. |
-| static [Red](../../aspose.pdf.annotations/pdf3dlightingscheme/red/) | "Red" 조명 스킴. |
-| static [White](../../aspose.pdf.annotations/pdf3dlightingscheme/white/) | "White" 조명 스킴. |
+| static [Artwork](../../aspose.pdf.annotations/pdf3dlightingscheme/artwork/) | \"Artwork\" 조명 스키마. |
+| static [Blue](../../aspose.pdf.annotations/pdf3dlightingscheme/blue/) | \"Blue\" 조명 스키마. |
+| static [CAD](../../aspose.pdf.annotations/pdf3dlightingscheme/cad/) | \"Cad\" 조명 스키마. |
+| static [Cube](../../aspose.pdf.annotations/pdf3dlightingscheme/cube/) | \"Cube\" 조명 스키마. |
+| static [Day](../../aspose.pdf.annotations/pdf3dlightingscheme/day/) | 그 "Day" 조명 스키마. |
+| static [Hard](../../aspose.pdf.annotations/pdf3dlightingscheme/hard/) | 그 "Hard" 조명 스키마. |
+| static [Headlamp](../../aspose.pdf.annotations/pdf3dlightingscheme/headlamp/) | 그 "Headlamp" 조명 스키마. |
+| static [Night](../../aspose.pdf.annotations/pdf3dlightingscheme/night/) | 그 "Night" 조명 스키마. |
+| static [None](../../aspose.pdf.annotations/pdf3dlightingscheme/none/) | 그 "None" 조명 스키마. |
+| static [Primary](../../aspose.pdf.annotations/pdf3dlightingscheme/primary/) | 그 "Primary" 조명 스키마. |
+| static [Red](../../aspose.pdf.annotations/pdf3dlightingscheme/red/) | 그 "Red" 조명 스키마. |
+| static [White](../../aspose.pdf.annotations/pdf3dlightingscheme/white/) | 그 "White" 조명 스키마. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

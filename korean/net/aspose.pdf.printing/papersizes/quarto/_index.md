@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Quarto
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 쿼르토 용지 215 mm x 275 mm
+title: "PaperSizes.Quarto"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. Quarto 용지 215 mm × 275 mm"
 type: docs
 weight: 1060
 url: /ko/net/aspose.pdf.printing/papersizes/quarto/
 ---
-## PaperSizes.Quarto 필드
+## PaperSizes.Quarto field
 
-쿼르토 용지 (215 mm x 275 mm).
+Quarto 용지 (215 mm × 275 mm).
 
 ```csharp
 public static readonly PaperSize Quarto;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

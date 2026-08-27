@@ -1,21 +1,23 @@
 ---
-title: Splitter.Splitter
-second_title: Aspose.PDF for .NET API Reference
-description: Splitter 생성자. 기본 생성자
+title: "Splitter.Splitter"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Splitter 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/splitter/splitter/
 ---
-## Splitter 생성자
+## Splitter constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public Splitter()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Splitter](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Splitter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

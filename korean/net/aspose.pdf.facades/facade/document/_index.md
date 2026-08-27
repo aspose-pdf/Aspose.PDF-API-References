@@ -1,22 +1,24 @@
 ---
-title: Facade.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Facade 속성. 문서 파사드가 작업 중인 내용을 가져옵니다.
+title: "Facade.Document"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Facade 속성. 파사드가 작업 중인 문서를 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.facades/facade/document/
 ---
-## Facade.Document 속성
+## Facade.Document property
 
-문서 파사드가 작업 중인 내용을 가져옵니다.
+작업 중인 Document 파사드를 가져옵니다.
 
 ```csharp
 public Document Document { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../../../aspose.pdf/document/)
-* 클래스 [Facade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

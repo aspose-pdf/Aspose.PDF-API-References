@@ -1,21 +1,23 @@
 ---
-title: AttributeName.BorderStyle_None
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName 필드. Attribute BorderStyle 없음  테두리 없음. BorderThicknessto의 계산된 값을 0으로 강제합니다.
+title: "AttributeName.BorderStyle_None"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AttributeName 필드. Attribute BorderStyle None  테두리가 없습니다. BorderThickness의 계산값을 0으로 강제합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.logicalstructure/attributename/borderstyle_none/
 ---
-## AttributeName.BorderStyle_None 필드
+## AttributeName.BorderStyle_None field
 
-Attribute BorderStyle: 없음 - 테두리 없음. BorderThicknessto의 계산된 값을 0으로 강제합니다.
+Attribute BorderStyle: None - 테두리가 없습니다. 계산된 BorderThicknessto 값을 0으로 강제합니다.
 
 ```csharp
 public static readonly AttributeName BorderStyle_None;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AttributeName](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

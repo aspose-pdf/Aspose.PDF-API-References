@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ImportIntoDataBase
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter 메서드. 테이블에서 데이터베이스로 데이터를 가져옵니다.
+title: "FormDataConverter.ImportIntoDataBase"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormDataConverter 메서드. 테이블에서 데이터베이스로 데이터를 가져옵니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.facades/formdataconverter/importintodatabase/
 ---
-## FormDataConverter.ImportIntoDataBase 메서드
+## FormDataConverter.ImportIntoDataBase method
 
-테이블에서 데이터베이스로 데이터를 가져옵니다.
+테이블에서 데이터를 데이터베이스로 가져옵니다.
 
 ```csharp
 public void ImportIntoDataBase(string connectString, DataType dbType)
@@ -16,7 +16,7 @@ public void ImportIntoDataBase(string connectString, DataType dbType)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| connectString | String | 데이터베이스의 연결 문자열. |
+| connectString | String | 데이터베이스 연결 문자열. |
 | dbType | DataType | 데이터베이스 연결 유형: OLEDB 또는 ODBC. |
 
 ## 예제
@@ -36,9 +36,11 @@ string connection = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=ConverterDatab
 fc.ImportIntoDataBase(connection, DataType.OLEDB);
 ```
 
-### 참조
+### 또 보기
 
 * enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

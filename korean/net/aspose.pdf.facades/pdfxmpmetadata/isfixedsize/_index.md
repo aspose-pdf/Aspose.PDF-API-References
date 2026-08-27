@@ -1,21 +1,23 @@
 ---
-title: PdfXmpMetadata.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata 속성. 컬렉션이 고정 크기를 가지면 true를 반환합니다.
+title: "PdfXmpMetadata.IsFixedSize"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfXmpMetadata 속성. 컬렉션의 크기가 고정되어 있으면 true를 반환합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.facades/pdfxmpmetadata/isfixedsize/
 ---
-## PdfXmpMetadata.IsFixedSize 속성
+## PdfXmpMetadata.IsFixedSize property
 
-컬렉션이 고정 크기를 가지면 true를 반환합니다.
+컬렉션에 고정 크기가 있으면 true를 반환합니다.
 
 ```csharp
 public bool IsFixedSize { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfXmpMetadata](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,25 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 메서드. 다른 PDF 문서의 배열에서 문서로 지정된 주석을 가져옵니다.
+title: "PdfAnnotationEditor.ImportAnnotations"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAnnotationEditor 메서드. 다른 PDF 문서 배열에서 지정된 주석을 문서에 가져옵니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.facades/pdfannotationeditor/importannotations/
 ---
 ## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
 
-다른 PDF 문서의 배열에서 문서로 지정된 주석을 가져옵니다.
+다른 PDF 문서 배열에서 지정된 주석을 문서로 가져옵니다.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| annotFile | String[] | 소스 주석이 포함된 PDF 문서의 경로 배열입니다. |
+| annotFile | String[] | 소스 주석을 포함하는 PDF 문서 경로의 배열입니다. |
 | annotType | AnnotationType[] | 가져올 주석 유형의 배열입니다. |
 
-## Examples
+## 예제
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -30,7 +30,7 @@ editor.ImportAnnotations(paths, annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### 또 보기
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
@@ -41,17 +41,17 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(string[]) {#importannotations_2}
 
-다른 PDF 문서의 배열에서 문서로 주석을 가져옵니다.
+다른 PDF 문서 배열에서 문서로 주석을 가져옵니다.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| annotFile | String[] | 소스 주석이 포함된 PDF 문서의 경로 배열입니다. |
+| annotFile | String[] | 소스 주석을 포함하는 PDF 문서 경로의 배열입니다. |
 
-## Examples
+## 예제
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -61,7 +61,7 @@ editor.ImportAnnotations(paths);
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -71,18 +71,18 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
 
-다른 PDF 문서 스트림의 배열에서 문서로 지정된 주석을 가져옵니다.
+다른 PDF 문서 스트림 배열에서 지정된 주석을 문서로 가져옵니다.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotType)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| annotFileStream | Stream[] | 소스 주석이 포함된 PDF 문서의 스트림 배열입니다. |
+| annotFileStream | Stream[] | 소스 주석을 포함하는 PDF 문서 스트림의 배열입니다. |
 | annotType | AnnotationType[] | 가져올 주석 유형입니다. |
 
-## Examples
+## 예제
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -97,7 +97,7 @@ stream[0].Close();
 stream[1].Close();
 ```
 
-### See Also
+### 또 보기
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
@@ -108,17 +108,17 @@ stream[1].Close();
 
 ## ImportAnnotations(Stream[]) {#importannotations}
 
-다른 PDF 문서 스트림의 배열에서 문서로 주석을 가져옵니다.
+다른 PDF 문서 스트림 배열에서 문서로 주석을 가져옵니다.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| annotFileStream | Stream[] | 소스 주석이 포함된 PDF 문서의 스트림 배열입니다. |
+| annotFileStream | Stream[] | 소스 주석을 포함하는 PDF 문서 스트림의 배열입니다. |
 
-## Examples
+## 예제
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -132,8 +132,10 @@ streams[0].Close();
 streams[1].Close();
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

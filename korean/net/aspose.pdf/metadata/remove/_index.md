@@ -1,7 +1,7 @@
 ---
-title: Metadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: 메타데이터 메서드. 메타데이터에서 항목을 제거합니다.
+title: "Metadata.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Metadata 메서드. 메타데이터에서 항목을 제거합니다"
 type: docs
 weight: 200
 url: /ko/net/aspose.pdf/metadata/remove/
@@ -14,15 +14,15 @@ url: /ko/net/aspose.pdf/metadata/remove/
 public bool Remove(string key)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| key | String | 제거할 항목의 키입니다. |
+| 키 | String | 제거할 항목의 키. |
 
-### Return Value
+### 반환 값
 
-True - 키가 제거된 경우; 그렇지 않으면 false입니다.
+키가 제거되면 True, 그렇지 않으면 false.
 
-### See Also
+### 또 보기
 
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -38,17 +38,19 @@ True - 키가 제거된 경우; 그렇지 않으면 false입니다.
 public bool Remove(KeyValuePair<string, XmpValue> item)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 제거할 키/값 쌍입니다. |
+| item | KeyValuePair`2 | 제거될 키/값 쌍. |
 
-### Return Value
+### 반환 값
 
-쌍이 발견되어 제거된 경우 true입니다.
+쌍이 발견되어 제거되면 true.
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

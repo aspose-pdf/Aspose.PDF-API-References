@@ -1,7 +1,7 @@
 ---
-title: Metadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: 메타데이터 메서드. 메타데이터에 값을 추가합니다.
+title: "Metadata.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Metadata 메서드. 메타데이터에 값을 추가합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/metadata/add/
@@ -14,12 +14,12 @@ url: /ko/net/aspose.pdf/metadata/add/
 public void Add(string key, XmpValue value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| key | String | 추가할 키입니다. |
-| value | XmpValue | 추가될 값입니다. |
+| 키 | String | 추가할 키입니다. |
+| 값 | XmpValue | 추가될 값. |
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
@@ -36,12 +36,12 @@ public void Add(string key, XmpValue value)
 public void Add(string key, object value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| key | String | 추가할 키입니다. |
-| value | Object | 추가될 값입니다. |
+| 키 | String | 추가할 키입니다. |
+| 값 | Object | 추가될 값. |
 
-### See Also
+### 또 보기
 
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -51,18 +51,18 @@ public void Add(string key, object value)
 
 ## Add(string, XmpPdfAExtensionObject) {#add_1}
 
-메타데이터에 PDF 확장을 추가합니다.
+메타데이터에 pdf 확장을 추가합니다.
 
 ```csharp
 public void Add(string prefix, XmpPdfAExtensionObject value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| prefix | String | 확장의 접두사입니다. |
-| value | XmpPdfAExtensionObject | 추가될 값입니다. |
+| prefix | String | 확장자의 접두사입니다. |
+| 값 | XmpPdfAExtensionObject | 추가될 값. |
 
-### See Also
+### 또 보기
 
 * class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
 * class [Metadata](../)
@@ -73,19 +73,21 @@ public void Add(string prefix, XmpPdfAExtensionObject value)
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add}
 
-키와 값 쌍을 사전에 추가합니다.
+키와 값을 쌍으로 사전에 추가합니다.
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 추가할 항목입니다. |
+| item | KeyValuePair`2 | 추가될 항목입니다. |
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

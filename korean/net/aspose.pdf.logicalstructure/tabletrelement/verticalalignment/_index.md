@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement 속성. 수직 정렬을 가져오거나 설정합니다.
+title: "TableTRElement.VerticalAlignment"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TableTRElement 속성. 수직 정렬을 가져오거나 설정합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.logicalstructure/tabletrelement/verticalalignment/
 ---
-## TableTRElement.VerticalAlignment 속성
+## TableTRElement.VerticalAlignment property
 
 수직 정렬을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.logicalstructure/tabletrelement/verticalalignment/
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

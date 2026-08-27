@@ -1,21 +1,23 @@
 ---
-title: TableElement.Top
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement 속성. 테이블 상단 좌표를 가져오거나 설정합니다.
+title: "TableElement.Top"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TableElement 속성. 테이블 상단 좌표를 가져오거나 설정합니다."
 type: docs
 weight: 180
 url: /ko/net/aspose.pdf.logicalstructure/tableelement/top/
 ---
-## TableElement.Top 속성
+## TableElement.Top property
 
-테이블 상단 좌표를 가져오거나 설정합니다.
+표의 상단 좌표를 가져오거나 설정합니다.
 
 ```csharp
 public float Top { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TableElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

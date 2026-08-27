@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.ExtractAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 메서드. 지정된 유형의 주석 목록을 가져옵니다.
+title: "PdfAnnotationEditor.ExtractAnnotations"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAnnotationEditor 메서드. 지정된 유형의 주석 목록을 가져옵니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.facades/pdfannotationeditor/extractannotations/
@@ -16,13 +16,13 @@ public IList<Annotation> ExtractAnnotations(int start, int end, string[] annotTy
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| start | Int32 | 주석이 선택될 시작 페이지입니다. |
-| end | Int32 | 주석이 선택될 종료 페이지입니다. |
-| annotTypes | String[] | 필요한 주석 유형의 배열입니다. |
+| start | Int32 | 주석이 선택될 시작 페이지. |
+| end | Int32 | 주석이 선택될 종료 페이지. |
+| annotTypes | String[] | 필요한 주석 유형의 배열. |
 
 ### 반환 값
 
-주석 목록입니다.
+주석 목록.
 
 ## 예제
 
@@ -33,7 +33,7 @@ string[] annotTypes = new string[] {"Text", "Highlight"};
 IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 ```
 
-### 참조
+### 또 보기
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [PdfAnnotationEditor](../)
@@ -52,13 +52,13 @@ public IList<Annotation> ExtractAnnotations(int start, int end, AnnotationType[]
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| start | Int32 | 주석이 선택될 시작 페이지입니다. |
-| end | Int32 | 주석이 선택될 종료 페이지입니다. |
-| annotTypes | AnnotationType[] | 필요한 주석 유형의 배열입니다. |
+| start | Int32 | 주석이 선택될 시작 페이지. |
+| end | Int32 | 주석이 선택될 종료 페이지. |
+| annotTypes | AnnotationType[] | 필요한 주석 유형의 배열. |
 
 ### 반환 값
 
-주석 목록입니다.
+주석 목록.
 
 ## 예제
 
@@ -69,10 +69,12 @@ AnnotationType[] annotTypes = new AnnotationType[] {AnnotationType.Text, Annotat
 IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 ```
 
-### 참조
+### 또 보기
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

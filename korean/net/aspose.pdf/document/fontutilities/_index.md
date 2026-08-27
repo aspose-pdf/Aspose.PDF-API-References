@@ -1,12 +1,12 @@
 ---
-title: Document.FontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. IDocumentFontUtilities 인스턴스
+title: "Document.FontUtilities"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. IDocumentFontUtilities 인스턴스"
 type: docs
-weight: 200
+weight: 220
 url: /ko/net/aspose.pdf/document/fontutilities/
 ---
-## Document.FontUtilities 속성
+## Document.FontUtilities property
 
 IDocumentFontUtilities 인스턴스
 
@@ -14,9 +14,11 @@ IDocumentFontUtilities 인스턴스
 public IDocumentFontUtilities FontUtilities { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IDocumentFontUtilities](../../document.idocumentfontutilities/)
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [IDocumentFontUtilities](../../document.idocumentfontutilities/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

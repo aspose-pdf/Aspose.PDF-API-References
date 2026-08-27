@@ -1,21 +1,23 @@
 ---
-title: Function.Function
-second_title: Aspose.PDF for .NET API Reference
-description: 함수 생성자. 기본 생성자
+title: "Function.Function"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Function 생성자. 기본 생성자입니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/function/function/
 ---
-## 함수 생성자
+## Function constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public Function()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Function](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Function](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

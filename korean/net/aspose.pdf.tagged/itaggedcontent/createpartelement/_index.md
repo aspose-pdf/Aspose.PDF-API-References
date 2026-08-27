@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreatePartElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. PartElement를 생성합니다.
+title: "ITaggedContent.CreatePartElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. 생성합니다 PartElement"
 type: docs
-weight: 210
+weight: 240
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createpartelement/
 ---
-## ITaggedContent.CreatePartElement 메서드
+## ITaggedContent.CreatePartElement method
 
-[`PartElement`](../../../aspose.pdf.logicalstructure/partelement/)를 생성합니다.
+생성합니다 [`PartElement`](../../../aspose.pdf.logicalstructure/partelement/).
 
 ```csharp
 public PartElement CreatePartElement()
@@ -16,11 +16,13 @@ public PartElement CreatePartElement()
 
 ### 반환 값
 
-생성된 구조 요소입니다.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [PartElement](../../../aspose.pdf.logicalstructure/partelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PartElement](../../../aspose.pdf.logicalstructure/partelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

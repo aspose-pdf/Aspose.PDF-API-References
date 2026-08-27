@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber10Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 10 회전된 봉투 458 mm x 324 mm
+title: "PaperSizes.PrcEnvelopeNumber10Rotated"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 10 회전 봉투 458 mm x 324 mm"
 type: docs
 weight: 880
 url: /ko/net/aspose.pdf.printing/papersizes/prcenvelopenumber10rotated/
 ---
-## PaperSizes.PrcEnvelopeNumber10Rotated 필드
+## PaperSizes.PrcEnvelopeNumber10Rotated field
 
-#10 회전된 봉투 (458 mm x 324 mm).
+#10 회전된 봉투 (458 mm × 324 mm).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber10Rotated;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

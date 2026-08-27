@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Letter
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 레터 용지 8.5 인치 x 11 인치
+title: "PaperSizes.Letter"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. Letter 용지 8.5 인치 × 11 인치"
 type: docs
 weight: 650
 url: /ko/net/aspose.pdf.printing/papersizes/letter/
 ---
-## PaperSizes.Letter 필드
+## PaperSizes.Letter field
 
-레터 용지 (8.5 인치 x 11 인치).
+레터 용지 (8.5인치 x 11인치).
 
 ```csharp
 public static readonly PaperSize Letter;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSize.PaperName
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSize 속성. 용지 유형의 이름을 가져오거나 설정합니다.
+title: "PaperSize.PaperName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSize 속성. 용지 유형의 이름을 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.printing/papersize/papername/
 ---
-## PaperSize.PaperName 속성
+## PaperSize.PaperName property
 
 용지 유형의 이름을 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.printing/papersize/papername/
 public string PaperName { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

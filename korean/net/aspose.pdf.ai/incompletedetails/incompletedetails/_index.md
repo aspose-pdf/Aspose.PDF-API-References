@@ -1,21 +1,23 @@
 ---
-title: IncompleteDetails.IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: 불완전한 세부정보 생성자. 기본 생성자
+title: "IncompleteDetails.IncompleteDetails"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IncompleteDetails 생성자. 기본 생성자입니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/incompletedetails/incompletedetails/
 ---
-## IncompleteDetails 생성자
+## IncompleteDetails constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public IncompleteDetails()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [IncompleteDetails](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [IncompleteDetails](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PolyAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: PolyAnnotation 속성. 주석의 선 끝을 채우는 내부 색상을 가져오거나 설정합니다.
+title: "PolyAnnotation.InteriorColor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PolyAnnotation 속성. 주석 선 끝을 채우는 데 사용할 내부 색상을 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.annotations/polyannotation/interiorcolor/
 ---
-## PolyAnnotation.InteriorColor 속성
+## PolyAnnotation.InteriorColor property
 
 주석의 선 끝을 채우는 내부 색상을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.annotations/polyannotation/interiorcolor/
 public Color InteriorColor { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Color](../../../aspose.pdf/color/)
-* 클래스 [PolyAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PolyAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

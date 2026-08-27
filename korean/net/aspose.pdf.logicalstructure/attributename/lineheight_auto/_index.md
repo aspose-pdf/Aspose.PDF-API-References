@@ -1,21 +1,23 @@
 ---
-title: AttributeName.LineHeight_Auto
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName 필드. Attribute LineHeight Auto BaselineShift 값에 대한 조정은 이루어지지 않아야 합니다.
+title: "AttributeName.LineHeight_Auto"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AttributeName 필드. Attribute LineHeight Auto  BaselineShift 값에 대한 조정은 수행되지 않습니다."
 type: docs
 weight: 230
 url: /ko/net/aspose.pdf.logicalstructure/attributename/lineheight_auto/
 ---
-## AttributeName.LineHeight_Auto 필드
+## AttributeName.LineHeight_Auto field
 
-Attribute LineHeight: Auto - BaselineShift 값에 대한 조정은 이루어지지 않아야 합니다.
+Attribute LineHeight: Auto - BaselineShift 값에 대한 조정이 이루어지지 않습니다.
 
 ```csharp
 public static readonly AttributeName LineHeight_Auto;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AttributeName](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

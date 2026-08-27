@@ -1,14 +1,14 @@
 ---
-title: Class CurveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.CurveTo 클래스. 경로에 곡선을 추가하는 c 연산자를 나타내는 클래스
+title: "클래스 CurveTo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Operators.CurveTo 클래스. c 연산자를 나타내는 클래스, 경로에 곡선을 추가합니다."
 type: docs
-weight: 7240
+weight: 7380
 url: /ko/net/aspose.pdf.operators/curveto/
 ---
-## CurveTo 클래스
+## CurveTo class
 
-c 연산자(경로에 곡선 추가)를 나타내는 클래스입니다.
+c 연산자를 나타내는 클래스 (경로에 곡선 추가).
 
 ```csharp
 public class CurveTo : Operator
@@ -24,7 +24,7 @@ public class CurveTo : Operator
 
 | 이름 | 설명 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | 페이지 연산자 목록에서 연산자 인덱스입니다. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page 연산자 목록에서 연산자 인덱스입니다. |
 
 ## 메서드
 
@@ -45,8 +45,10 @@ public class CurveTo : Operator
 | [Y2](../../aspose.pdf.operators/curveto/y2/) | Y2 좌표를 가져오거나 설정합니다. |
 | [Y3](../../aspose.pdf.operators/curveto/y3/) | Y3 좌표를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Operator](../../aspose.pdf/operator/)
-* 네임스페이스 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

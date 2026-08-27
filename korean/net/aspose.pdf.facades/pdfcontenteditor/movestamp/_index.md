@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.MoveStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. 페이지에서 스탬프의 위치를 변경합니다.
+title: "PdfContentEditor.MoveStamp"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. 페이지에서 스탬프의 위치를 변경합니다."
 type: docs
 weight: 410
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/movestamp/
 ---
-## PdfContentEditor.MoveStamp 메서드
+## PdfContentEditor.MoveStamp method
 
-페이지에서 스탬프의 위치를 변경합니다.
+페이지에서 스탬프 위치를 변경합니다.
 
 ```csharp
 public void MoveStamp(int pageNumber, int stampIndex, double x, double y)
@@ -18,11 +18,13 @@ public void MoveStamp(int pageNumber, int stampIndex, double x, double y)
 | --- | --- | --- |
 | pageNumber | Int32 | 페이지 번호. |
 | stampIndex | Int32 | 페이지에서 스탬프의 인덱스. |
-| x | Double | 새로운 스탬프 수평 위치. |
-| y | Double | 새로운 스탬프 수직 위치. |
+| x | Double | 새 스탬프의 가로 위치. |
+| y | Double | 새 스탬프의 세로 위치. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

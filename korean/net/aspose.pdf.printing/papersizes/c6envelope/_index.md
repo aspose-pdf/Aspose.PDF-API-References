@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.C6Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. C6 봉투 114 mm x 162 mm
+title: "PaperSizes.C6Envelope"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. C6 봉투 114 mm × 162 mm"
 type: docs
 weight: 360
 url: /ko/net/aspose.pdf.printing/papersizes/c6envelope/
 ---
-## PaperSizes.C6Envelope 필드
+## PaperSizes.C6Envelope field
 
-C6 봉투 (114 mm x 162 mm).
+C6 봉투 (114 mm × 162 mm).
 
 ```csharp
 public static readonly PaperSize C6Envelope;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

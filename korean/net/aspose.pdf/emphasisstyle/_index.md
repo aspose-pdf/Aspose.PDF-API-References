@@ -1,14 +1,14 @@
 ---
-title: Enum EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EmphasisStyle 열거형. 강조 및 강한 강조를 위한 사용 가능한 직렬화 스타일을 정의합니다. 사양은 CommonMark 강조 및 강한 강조를 참조하십시오.
+title: "열거형 EmphasisStyle"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.EmphasisStyle 열거형. 강조와 강한 강조에 사용할 수 있는 직렬화 스타일을 정의합니다. 사양은 CommonMark 강조와 강한 강조를 참조하십시오"
 type: docs
-weight: 4020
+weight: 4140
 url: /ko/net/aspose.pdf/emphasisstyle/
 ---
-## EmphasisStyle 열거형
+## EmphasisStyle enumeration
 
-강조 및 강한 강조를 위한 사용 가능한 직렬화 스타일을 정의합니다. 사양은 CommonMark - 강조 및 강한 강조를 참조하십시오.
+강조 및 굵은 강조에 사용할 수 있는 직렬화 스타일을 정의합니다. 사양은 CommonMark - Emphasis and strong emphasis를 참조하십시오.
 
 ```csharp
 public enum EmphasisStyle
@@ -18,10 +18,12 @@ public enum EmphasisStyle
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Asterisk | `0` | 강조된 텍스트에 대해 각각 '*' 및 '**'를 사용합니다. |
-| Underscore | `1` | 강조된 텍스트에 대해 각각 '_' 및 '__'를 사용합니다. |
+| Asterisk | `0` | 텍스트를 (강하게) 강조하려면 각각 '*'와 '**'를 사용하십시오. |
+| Underscore | `1` | 텍스트를 (강하게) 강조하려면 각각 '_'와 '__'를 사용하십시오. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

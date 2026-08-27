@@ -1,14 +1,14 @@
 ---
-title: Class GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.GradientRadialShading 클래스. 그라디언트 방사형 음영 유형을 나타냅니다.
+title: "클래스 GradientRadialShading"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Drawing.GradientRadialShading 클래스. 그라디언트 방사형 셰이딩 유형을 나타냅니다"
 type: docs
-weight: 3930
+weight: 4050
 url: /ko/net/aspose.pdf.drawing/gradientradialshading/
 ---
-## GradientRadialShading 클래스
+## GradientRadialShading class
 
-그라디언트 방사형 음영 유형을 나타냅니다.
+방사형 그라디언트 쉐이딩 유형을 나타냅니다.
 
 ```csharp
 public class GradientRadialShading : PatternColorSpace
@@ -32,8 +32,10 @@ public class GradientRadialShading : PatternColorSpace
 | [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor/) { get; set; } | 시작 색상을 가져오거나 설정합니다. |
 | [StartingRadius](../../aspose.pdf.drawing/gradientradialshading/startingradius/) { get; set; } | 시작 원의 반지름을 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PatternColorSpace](../patterncolorspace/)
-* 네임스페이스 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

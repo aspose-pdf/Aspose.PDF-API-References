@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.GetPageXOffset
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 메서드. 지정된 페이지 표시 영역의 수평 오프셋을 가져옵니다.
+title: "PdfFileInfo.GetPageXOffset"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileInfo 메서드. 지정된 페이지 표시 영역의 수평 오프셋을 가져옵니다."
 type: docs
 weight: 270
 url: /ko/net/aspose.pdf.facades/pdffileinfo/getpagexoffset/
 ---
-## PdfFileInfo.GetPageXOffset 메서드
+## PdfFileInfo.GetPageXOffset method
 
 지정된 페이지 표시 영역의 수평 오프셋을 가져옵니다.
 
@@ -20,10 +20,12 @@ public float GetPageXOffset(int pageNum)
 
 ### 반환 값
 
-페이지의 왼쪽 측면에서의 수평 오프셋입니다.
+페이지 왼쪽 측면으로부터의 수평 오프셋입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileInfo](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

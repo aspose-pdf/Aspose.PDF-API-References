@@ -1,14 +1,14 @@
 ---
-title: TextFragment.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment 메서드. 모든 세그먼트와 함께 프래그먼트를 복제합니다.
+title: "TextFragment.CloneWithSegments"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextFragment 메서드. 모든 세그먼트를 포함하여 조각을 복제합니다."
 type: docs
 weight: 190
 url: /ko/net/aspose.pdf.text/textfragment/clonewithsegments/
 ---
-## TextFragment.CloneWithSegments 메서드
+## TextFragment.CloneWithSegments method
 
-모든 세그먼트와 함께 프래그먼트를 복제합니다.
+모든 세그먼트를 포함하여 조각을 복제합니다.
 
 ```csharp
 public virtual object CloneWithSegments()
@@ -18,8 +18,10 @@ public virtual object CloneWithSegments()
 
 복제된 객체
 
-### 참조
+### 또 보기
 
-* 클래스 [TextFragment](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

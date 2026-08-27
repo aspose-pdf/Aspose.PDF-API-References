@@ -1,21 +1,23 @@
 ---
-title: RgbToDeviceGrayConversionStrategy.RgbToDeviceGrayConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: RgbToDeviceGrayConversionStrategy 생성자. 기본 생성자
+title: "RgbToDeviceGrayConversionStrategy.RgbToDeviceGrayConversionStrategy"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "RgbToDeviceGrayConversionStrategy 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/rgbtodevicegrayconversionstrategy/rgbtodevicegrayconversionstrategy/
 ---
-## RgbToDeviceGrayConversionStrategy 생성자
+## RgbToDeviceGrayConversionStrategy constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public RgbToDeviceGrayConversionStrategy()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [RgbToDeviceGrayConversionStrategy](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RgbToDeviceGrayConversionStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

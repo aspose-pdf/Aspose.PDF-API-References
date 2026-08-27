@@ -1,14 +1,14 @@
 ---
-title: Enum AutoRotateMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.AutoRotateMode 열거형. 문서가 인쇄될 때 회전 방향
+title: "Enum AutoRotateMode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.AutoRotateMode enum. 문서를 인쇄할 때 회전 방향"
 type: docs
-weight: 4160
+weight: 4280
 url: /ko/net/aspose.pdf.facades/autorotatemode/
 ---
-## AutoRotateMode 열거형
+## AutoRotateMode enumeration
 
-문서가 인쇄될 때 회전 방향.
+문서를 인쇄할 때 회전 방향을 나타냅니다.
 
 ```csharp
 public enum AutoRotateMode
@@ -18,11 +18,13 @@ public enum AutoRotateMode
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| 없음 | `0` | 회전 없음. |
-| 시계 방향 | `1` | 회전 방향은 시계 방향입니다. |
-| 반시계 방향 | `2` | 회전 방향은 반시계 방향입니다. |
+| None | `0` | 회전 없음. |
+| ClockWise | `1` | 회전 방향은 시계 방향입니다. |
+| AntiClockWise | `2` | 회전 방향은 반시계 방향입니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

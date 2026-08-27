@@ -1,12 +1,12 @@
 ---
-title: HtmlToPdfOptions.HtmlMediaType
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlToPdfOptions 속성. 렌더링 중에 사용되는 가능한 미디어 유형을 가져오거나 설정합니다.
+title: "HtmlToPdfOptions.HtmlMediaType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "HtmlToPdfOptions 속성. 렌더링 중에 사용되는 가능한 미디어 유형을 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.plugins/htmltopdfoptions/htmlmediatype/
 ---
-## HtmlToPdfOptions.HtmlMediaType 속성
+## HtmlToPdfOptions.HtmlMediaType property
 
 렌더링 중에 사용되는 가능한 미디어 유형을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.plugins/htmltopdfoptions/htmlmediatype/
 public HtmlMediaType HtmlMediaType { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [HtmlMediaType](../../../aspose.pdf/htmlmediatype/)
 * class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

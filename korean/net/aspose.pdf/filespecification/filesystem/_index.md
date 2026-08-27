@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.FileSystem
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification 속성. 파일 시스템의 이름을 가져오거나 설정합니다.
+title: "FileSpecification.FileSystem"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FileSpecification 속성. 파일 시스템의 이름을 가져오거나 설정합니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf/filespecification/filesystem/
 ---
-## FileSpecification.FileSystem 속성
+## FileSpecification.FileSystem property
 
 파일 시스템의 이름을 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/filespecification/filesystem/
 public string FileSystem { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FileSpecification](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

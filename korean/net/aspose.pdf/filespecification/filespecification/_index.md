@@ -1,7 +1,7 @@
 ---
-title: FileSpecification.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification 생성자. FileSpecification의 생성자
+title: "FileSpecification.FileSpecification"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FileSpecification 생성자. FileSpecification에 대한 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/filespecification/filespecification/
@@ -14,11 +14,11 @@ FileSpecification의 생성자
 public FileSpecification(string file)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| file | String | 파일 경로. |
+| 파일 | String | 파일 경로. |
 
-### See Also
+### 또 보기
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,18 @@ public FileSpecification(string file)
 
 ## FileSpecification(Stream, string) {#constructor_1}
 
-파일 사양을 위한 생성자.
+파일 사양에 대한 생성자.
 
 ```csharp
 public FileSpecification(Stream stream, string name)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | stream | Stream | 데이터 파일을 포함하는 스트림. |
-| name | String | 파일 사양. |
+| 이름 | String | 파일 사양. |
 
-### See Also
+### 또 보기
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -55,12 +55,12 @@ FileSpecification의 생성자.
 public FileSpecification(string file, string description)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| file | String | 파일 경로. |
+| 파일 | String | 파일 경로. |
 | description | String | 파일 설명. |
 
-### See Also
+### 또 보기
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -76,13 +76,13 @@ FileSpecification의 생성자.
 public FileSpecification(Stream stream, string name, string description)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | stream | Stream | 문서에서 사용할 스트림. |
-| name | String | 파일 사양 문자열. |
+| 이름 | String | 파일 사양 문자열. |
 | description | String | 파일 설명. |
 
-### See Also
+### 또 보기
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -98,12 +98,12 @@ FileSpecification의 생성자.
 public FileSpecification(string fileName, Annotation annot)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | fileName | String | 파일 경로. |
 | annot | Annotation | 주석. |
 
-### See Also
+### 또 보기
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [FileSpecification](../)
@@ -114,14 +114,16 @@ public FileSpecification(string fileName, Annotation annot)
 
 ## FileSpecification() {#constructor}
 
-새로운 빈 파일 사양을 생성합니다.
+새 빈 파일 사양을 생성합니다.
 
 ```csharp
 public FileSpecification()
 ```
 
-### See Also
+### 또 보기
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

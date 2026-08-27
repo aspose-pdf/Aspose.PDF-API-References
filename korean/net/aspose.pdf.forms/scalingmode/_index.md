@@ -1,14 +1,14 @@
 ---
-title: Enum ScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.ScalingMode 열거형. 사용해야 할 스케일링 유형
+title: "열거형 ScalingMode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Forms.ScalingMode 열거형. 사용될 스케일링 유형"
 type: docs
-weight: 5240
+weight: 5360
 url: /ko/net/aspose.pdf.forms/scalingmode/
 ---
-## ScalingMode 열거형
+## ScalingMode enumeration
 
-사용해야 할 스케일링 유형입니다.
+사용될 스케일링 유형입니다.
 
 ```csharp
 public enum ScalingMode
@@ -18,10 +18,12 @@ public enum ScalingMode
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| 비례 | `0` | 아이콘의 원래 종횡비를 유지하면서 주석 사각형의 너비 또는 높이에 맞게 아이콘을 조정합니다. |
-| 왜곡 | `1` | 아이콘을 주석 사각형에 정확히 맞게 조정합니다. |
+| Proportional | `0` | 아이콘의 원래 가로세로 비율을 유지하면서 아이콘을 주석 사각형의 너비 또는 높이에 맞게 스케일합니다. |
+| Anamorphic | `1` | 아이콘을 주석 사각형에 정확히 채우도록 스케일합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

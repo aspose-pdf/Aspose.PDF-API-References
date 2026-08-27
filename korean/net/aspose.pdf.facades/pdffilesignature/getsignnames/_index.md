@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.GetSignNames
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 메서드. 모든 비어 있지 않은 서명의 이름을 가져옵니다.
+title: "PdfFileSignature.GetSignNames"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSignature 메서드. 비어 있지 않은 모든 서명의 이름을 가져옵니다."
 type: docs
 weight: 230
 url: /ko/net/aspose.pdf.facades/pdffilesignature/getsignnames/
 ---
-## PdfFileSignature.GetSignNames 메서드
+## PdfFileSignature.GetSignNames method
 
 모든 비어 있지 않은 서명의 이름을 가져옵니다.
 
@@ -16,11 +16,11 @@ public IList<string> GetSignNames(bool onlyActive = true)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| onlyActive | Boolean | true인 경우, 활성 서명만 반환합니다. 그렇지 않으면 모든 서명을 반환합니다. |
+| onlyActive | Boolean | true이면 활성 서명만 반환하고, 그렇지 않으면 모든 서명을 반환합니다. |
 
 ### 반환 값
 
-IList&lt;string&gt;를 반환합니다.
+IList&lt;string&gt;을 반환합니다.
 
 ## 예제
 
@@ -59,8 +59,10 @@ Next i
 Console.WriteLine("totalvision:"+pdfSign.GetTotalRevision())
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileSignature](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

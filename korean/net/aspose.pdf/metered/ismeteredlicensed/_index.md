@@ -1,14 +1,14 @@
 ---
-title: Metered.IsMeteredLicensed
-second_title: Aspose.PDF for .NET API Reference
-description: Metered 메서드. 미터링이 라이센스가 있는지 확인합니다.
+title: "Metered.IsMeteredLicensed"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Metered 메서드. 메터드가 라이선스가 부여되었는지 확인합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf/metered/ismeteredlicensed/
 ---
-## Metered.IsMeteredLicensed 메서드
+## Metered.IsMeteredLicensed method
 
-미터링이 라이센스가 있는지 확인합니다.
+메터링이 라이선스가 있는지 확인합니다.
 
 ```csharp
 public static bool IsMeteredLicensed()
@@ -18,8 +18,10 @@ public static bool IsMeteredLicensed()
 
 참 또는 거짓
 
-### 참조
+### 또 보기
 
-* 클래스 [Metered](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

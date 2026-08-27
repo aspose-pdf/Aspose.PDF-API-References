@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Number10Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 10 봉투 4.125 인치 x 9.5 인치
+title: "PaperSizes.Number10Envelope"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 10 봉투 4.125 인치 × 9.5 인치"
 type: docs
 weight: 740
 url: /ko/net/aspose.pdf.printing/papersizes/number10envelope/
 ---
-## PaperSizes.Number10Envelope 필드
+## PaperSizes.Number10Envelope field
 
-#10 봉투 (4.125 인치 x 9.5 인치).
+#10 봉투 (4.125 인치 × 9.5 인치).
 
 ```csharp
 public static readonly PaperSize Number10Envelope;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Rows.Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Rows 생성자. 기본 생성자
+title: "Rows.Rows"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Rows 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/rows/rows/
 ---
-## Rows 생성자
+## Rows constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public Rows()
 ```
 
-### 참조
+### 또 보기
 
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

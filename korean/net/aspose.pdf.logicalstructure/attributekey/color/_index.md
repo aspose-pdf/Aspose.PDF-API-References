@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Color
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey 필드. 색상 속성 레이아웃 속성 소유자
+title: "AttributeKey.Color"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AttributeKey 필드. Color 속성 Layout 속성 소유자"
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.logicalstructure/attributekey/color/
 ---
-## AttributeKey.Color 필드
+## AttributeKey.Color field
 
-색상 속성 (레이아웃 속성 소유자).
+Color 속성 (Layout 속성 소유자).
 
 ```csharp
 public static readonly AttributeKey Color;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AttributeKey](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

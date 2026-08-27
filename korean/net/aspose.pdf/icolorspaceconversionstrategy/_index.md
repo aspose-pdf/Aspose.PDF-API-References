@@ -1,14 +1,14 @@
 ---
-title: Interface IColorSpaceConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IColorSpaceConversionStrategy 인터페이스. 색상 공간 변환 전략을 위한 인터페이스
+title: "인터페이스 IColorSpaceConversionStrategy"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.IColorSpaceConversionStrategy 인터페이스. 색 공간 변환 전략을 위한 인터페이스입니다."
 type: docs
-weight: 5760
+weight: 5890
 url: /ko/net/aspose.pdf/icolorspaceconversionstrategy/
 ---
-## IColorSpaceConversionStrategy 인터페이스
+## IColorSpaceConversionStrategy interface
 
-색상 공간 변환 전략을 위한 인터페이스.
+색 공간 변환 전략을 위한 인터페이스입니다.
 
 ```csharp
 public interface IColorSpaceConversionStrategy
@@ -18,9 +18,11 @@ public interface IColorSpaceConversionStrategy
 
 | 이름 | 설명 |
 | --- | --- |
-| [Convert](../../aspose.pdf/icolorspaceconversionstrategy/convert/)(Page) | 문서의 페이지를 변환합니다. |
+| [Convert](../../aspose.pdf/icolorspaceconversionstrategy/convert/)(Page) | Document의 Page를 변환합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

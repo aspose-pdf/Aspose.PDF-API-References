@@ -1,7 +1,7 @@
 ---
-title: AnnotationSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationSelector 메서드. AnnotationSelector가 LinkAnnotation 객체로 초기화된 경우 링크 주석을 선택합니다.
+title: "AnnotationSelector.Visit"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AnnotationSelector 메서드. AnnotationSelector가 LinkAnnotation 객체로 초기화된 경우 링크 주석을 선택합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.annotations/annotationselector/visit/
@@ -14,11 +14,11 @@ AnnotationSelector가 LinkAnnotation 객체로 초기화된 경우 링크 주석
 public void Visit(LinkAnnotation link)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| link | LinkAnnotation | 선택할 LinkAnnotation 객체입니다. |
+| 링크 | LinkAnnotation | 선택을 위한 LinkAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [LinkAnnotation](../../linkannotation/)
 * class [AnnotationSelector](../)
@@ -29,17 +29,17 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_4}
 
-AnnotationSelector가 FileAttachmentAnnotation 객체로 초기화된 경우 첨부 주석을 선택합니다.
+`AnnotationSelector`가 FileAttachmentAnnotation 객체로 초기화된 경우 attachment 주석을 선택합니다.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | 선택할 FileAttachmentAnnotation 객체입니다. |
+| 첨부 파일 | FileAttachmentAnnotation | 선택을 위한 FileAttachmentAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [FileAttachmentAnnotation](../../fileattachmentannotation/)
 * class [AnnotationSelector](../)
@@ -56,11 +56,11 @@ AnnotationSelector가 TextAnnotation 객체로 초기화된 경우 텍스트 주
 public void Visit(TextAnnotation text)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | TextAnnotation | 선택할 TextAnnotation 객체입니다. |
+| 텍스트 | TextAnnotation | 선택을 위한 TextAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [TextAnnotation](../../textannotation/)
 * class [AnnotationSelector](../)
@@ -71,17 +71,17 @@ public void Visit(TextAnnotation text)
 
 ## Visit(RedactionAnnotation) {#visit_16}
 
-AnnotationSelector가 RedactAnnotation 객체로 초기화된 경우 수정 주석을 선택합니다.
+AnnotationSelector가 RedactAnnotation 객체로 초기화된 경우 Redact 주석을 선택합니다.
 
 ```csharp
 public void Visit(RedactionAnnotation redact)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| redact | RedactionAnnotation | 선택할 RedactAnnotation 객체입니다. |
+| 가리기 | RedactionAnnotation | 선택을 위한 RedactAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [RedactionAnnotation](../../redactionannotation/)
 * class [AnnotationSelector](../)
@@ -92,17 +92,17 @@ public void Visit(RedactionAnnotation redact)
 
 ## Visit(FreeTextAnnotation) {#visit_5}
 
-AnnotationSelector가 FreeTextAnnotation 객체로 초기화된 경우 자유 텍스트 주석을 선택합니다.
+`AnnotationSelector`가 FreeTextAnnotation 객체로 초기화된 경우 freetext 주석을 선택합니다.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | 선택할 FreeTextAnnotation 객체입니다. |
+| 자유 텍스트 | FreeTextAnnotation | 선택을 위한 FreeTextAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [FreeTextAnnotation](../../freetextannotation/)
 * class [AnnotationSelector](../)
@@ -113,17 +113,17 @@ public void Visit(FreeTextAnnotation freetext)
 
 ## Visit(HighlightAnnotation) {#visit_6}
 
-AnnotationSelector가 FreeTextAnnotation 객체로 초기화된 경우 강조 주석을 선택합니다.
+AnnotationSelector가 FreeTextAnnotation 객체로 초기화된 경우 첨부 주석을 선택합니다.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | 선택할 HighlightAnnotation 객체입니다. |
+| 하이라이트 | HighlightAnnotation | 선택을 위한 HighlightAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [HighlightAnnotation](../../highlightannotation/)
 * class [AnnotationSelector](../)
@@ -140,11 +140,11 @@ AnnotationSelector가 UnderlineAnnotation 객체로 초기화된 경우 밑줄 �
 public void Visit(UnderlineAnnotation underline)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | 선택할 UnderlineAnnotation 객체입니다. |
+| 밑줄 | UnderlineAnnotation | 선택을 위한 UnderlineAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [UnderlineAnnotation](../../underlineannotation/)
 * class [AnnotationSelector](../)
@@ -161,11 +161,11 @@ AnnotationSelector가 StrikeOutAnnotation 객체로 초기화된 경우 취소�
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | 선택할 StrikeOutAnnotation 객체입니다. |
+| 취소선 | StrikeOutAnnotation | 선택을 위한 StrikeOutAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [StrikeOutAnnotation](../../strikeoutannotation/)
 * class [AnnotationSelector](../)
@@ -176,17 +176,17 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ## Visit(SquigglyAnnotation) {#visit_21}
 
-AnnotationSelector가 SquigglyAnnotation 객체로 초기화된 경우 물결 주석을 선택합니다.
+AnnotationSelector가 SquigglyAnnotation 객체로 초기화된 경우 물결선 주석을 선택합니다.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | 선택할 SquigglyAnnotation 객체입니다. |
+| 물결선 | SquigglyAnnotation | 선택을 위한 SquigglyAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [SquigglyAnnotation](../../squigglyannotation/)
 * class [AnnotationSelector](../)
@@ -203,11 +203,11 @@ AnnotationSelector가 PopupAnnotation 객체로 초기화된 경우 팝업 주�
 public void Visit(PopupAnnotation popup)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| popup | PopupAnnotation | 선택할 PopupAnnotation 객체입니다. |
+| 팝업 | PopupAnnotation | 선택을 위한 PopupAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [PopupAnnotation](../../popupannotation/)
 * class [AnnotationSelector](../)
@@ -224,11 +224,11 @@ AnnotationSelector가 LineAnnotation 객체로 초기화된 경우 선 주석을
 public void Visit(LineAnnotation line)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| line | LineAnnotation | 선택할 LineAnnotation 객체입니다. |
+| 줄 | LineAnnotation | 선택을 위한 LineAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [LineAnnotation](../../lineannotation/)
 * class [AnnotationSelector](../)
@@ -239,17 +239,17 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_2}
 
-AnnotationSelector가 CircleAnnotation 객체로 초기화된 경우 원 주석을 선택합니다.
+`AnnotationSelector`가 CircleAnnotation 객체로 초기화된 경우 circle 주석을 선택합니다.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| circle | CircleAnnotation | 선택할 CircleAnnotation 객체입니다. |
+| 원 | CircleAnnotation | 선택을 위한 CircleAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [CircleAnnotation](../../circleannotation/)
 * class [AnnotationSelector](../)
@@ -266,11 +266,11 @@ AnnotationSelector가 SquareAnnotation 객체로 초기화된 경우 사각형 �
 public void Visit(SquareAnnotation square)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| square | SquareAnnotation | 선택할 SquareAnnotation 객체입니다. |
+| 정사각형 | SquareAnnotation | 선택을 위한 SquareAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [SquareAnnotation](../../squareannotation/)
 * class [AnnotationSelector](../)
@@ -287,11 +287,11 @@ AnnotationSelector가 InkAnnotation 객체로 초기화된 경우 잉크 주석�
 public void Visit(InkAnnotation ink)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| ink | InkAnnotation | 선택할 InkAnnotation 객체입니다. |
+| 잉크 | InkAnnotation | 선택을 위한 InkAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [InkAnnotation](../../inkannotation/)
 * class [AnnotationSelector](../)
@@ -308,11 +308,11 @@ AnnotationSelector가 PolylineAnnotation 객체로 초기화된 경우 폴리라
 public void Visit(PolylineAnnotation polyline)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | 선택할 PolylineAnnotation 객체입니다. |
+| 폴리라인 | PolylineAnnotation | 선택을 위한 PolylineAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [PolylineAnnotation](../../polylineannotation/)
 * class [AnnotationSelector](../)
@@ -329,11 +329,11 @@ AnnotationSelector가 PolygonAnnotation 객체로 초기화된 경우 다각형 
 public void Visit(PolygonAnnotation polygon)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | 선택할 PolygonAnnotation 객체입니다. |
+| 다각형 | PolygonAnnotation | 선택을 위한 PolygonAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [PolygonAnnotation](../../polygonannotation/)
 * class [AnnotationSelector](../)
@@ -344,17 +344,17 @@ public void Visit(PolygonAnnotation polygon)
 
 ## Visit(CaretAnnotation) {#visit_1}
 
-AnnotationSelector가 CaretAnnotation 객체로 초기화된 경우 커서 주석을 선택합니다.
+`AnnotationSelector`가 CaretAnnotation 객체로 초기화된 경우 caret 주석을 선택합니다.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| caret | CaretAnnotation | 선택할 CaretAnnotation 객체입니다. |
+| 캐럿 | CaretAnnotation | 선택을 위한 CaretAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [CaretAnnotation](../../caretannotation/)
 * class [AnnotationSelector](../)
@@ -371,11 +371,11 @@ AnnotationSelector가 StampAnnotation 객체로 초기화된 경우 스탬프 �
 public void Visit(StampAnnotation stamp)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| stamp | StampAnnotation | 선택할 StampAnnotation 객체입니다. |
+| 스탬프 | StampAnnotation | 선택을 위한 StampAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [StampAnnotation](../../stampannotation/)
 * class [AnnotationSelector](../)
@@ -392,11 +392,11 @@ AnnotationSelector가 WidgetAnnotation 객체로 초기화된 경우 위젯 주�
 public void Visit(WidgetAnnotation widget)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| widget | WidgetAnnotation | 선택할 WidgetAnnotation 객체입니다. |
+| 위젯 | WidgetAnnotation | 선택을 위한 WidgetAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [WidgetAnnotation](../../widgetannotation/)
 * class [AnnotationSelector](../)
@@ -413,11 +413,11 @@ AnnotationSelector가 WatermarkAnnotation 객체로 초기화된 경우 워터�
 public void Visit(WatermarkAnnotation watermark)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| watermark | WatermarkAnnotation | 선택할 WatermarkAnnotation 객체입니다. |
+| 워터마크 | WatermarkAnnotation | 선택을 위한 WatermarkAnnotation. |
 
-### See Also
+### 또 보기
 
 * class [WatermarkAnnotation](../../watermarkannotation/)
 * class [AnnotationSelector](../)
@@ -428,17 +428,17 @@ public void Visit(WatermarkAnnotation watermark)
 
 ## Visit(MovieAnnotation) {#visit_10}
 
-AnnotationSelector가 MovieAnnotation 객체로 초기화된 경우 영화 주석을 선택합니다.
+AnnotationSelector가 MovieAnnotation 객체로 초기화된 경우 동영상 주석을 선택합니다.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| movie | MovieAnnotation | 선택할 MovieAnnotation 객체입니다. |
+| 영화 | MovieAnnotation | 선택을 위한 MovieAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [MovieAnnotation](../../movieannotation/)
 * class [AnnotationSelector](../)
@@ -449,17 +449,17 @@ public void Visit(MovieAnnotation movie)
 
 ## Visit(RichMediaAnnotation) {#visit_18}
 
-AnnotationSelector가 RichMedia 주석 객체로 초기화된 경우 영화 주석을 선택합니다.
+AnnotationSelector가 RichMedia 주석 객체로 초기화된 경우 동영상 주석을 선택합니다.
 
 ```csharp
 public void Visit(RichMediaAnnotation richMedia)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| richMedia | RichMediaAnnotation | RichMedia 주석입니다. |
+| 리치미디어 | RichMediaAnnotation | RichMedia 주석. |
 
-### See Also
+### 또 보기
 
 * class [RichMediaAnnotation](../../richmediaannotation/)
 * class [AnnotationSelector](../)
@@ -476,11 +476,11 @@ AnnotationSelector가 ScreenAnnotation 객체로 초기화된 경우 화면 주�
 public void Visit(ScreenAnnotation screen)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| screen | ScreenAnnotation | 선택할 ScreenAnnotation 객체입니다. |
+| 스크린 | ScreenAnnotation | 선택을 위한 ScreenAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [ScreenAnnotation](../../screenannotation/)
 * class [AnnotationSelector](../)
@@ -497,11 +497,11 @@ AnnotationSelector가 PDF3DAnnotation 객체로 초기화된 경우 PDF3D 주석
 public void Visit(PDF3DAnnotation pdf3D)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pdf3D | PDF3DAnnotation | 선택할 PDF3DAnnotation 객체입니다. |
+| pdf3D | PDF3DAnnotation | 선택을 위한 PDF3DAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [PDF3DAnnotation](../../pdf3dannotation/)
 * class [AnnotationSelector](../)
@@ -512,17 +512,17 @@ public void Visit(PDF3DAnnotation pdf3D)
 
 ## Visit(ColorBarAnnotation) {#visit_3}
 
-AnnotationSelector가 ColorBar 객체로 초기화된 경우 ColorBar 주석을 선택합니다.
+`AnnotationSelector`가 ColorBar 객체로 초기화된 경우 ColorBar 주석을 선택합니다.
 
 ```csharp
 public void Visit(ColorBarAnnotation colorBar)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| colorBar | ColorBarAnnotation | 선택할 PDF3DAnnotation 객체입니다. |
+| 컬러바 | ColorBarAnnotation | 선택을 위한 PDF3DAnnotation 객체. |
 
-### See Also
+### 또 보기
 
 * class [ColorBarAnnotation](../../colorbarannotation/)
 * class [AnnotationSelector](../)
@@ -539,11 +539,11 @@ public void Visit(ColorBarAnnotation colorBar)
 public void Visit(TrimMarkAnnotation trimMark)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | 선택할 [`TrimMarkAnnotation`](../../trimmarkannotation/) 객체입니다. |
+| trimMark | TrimMarkAnnotation | 선택을 위한 [`TrimMarkAnnotation`](../../trimmarkannotation/) 객체. |
 
-### See Also
+### 또 보기
 
 * class [TrimMarkAnnotation](../../trimmarkannotation/)
 * class [AnnotationSelector](../)
@@ -554,17 +554,17 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 ## Visit(BleedMarkAnnotation) {#visit}
 
-[`AnnotationSelector`](../)가 [`BleedMarkAnnotation`](../../bleedmarkannotation/) 객체로 초기화된 경우 *bleedMark*를 선택합니다.
+`[`AnnotationSelector`](../)`가 [`BleedMarkAnnotation`](../../bleedmarkannotation/) 객체로 초기화된 경우 *bleedMark*를 선택합니다.
 
 ```csharp
 public void Visit(BleedMarkAnnotation bleedMark)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | 선택할 [`BleedMarkAnnotation`](../../bleedmarkannotation/) 객체입니다. |
+| bleedMark | BleedMarkAnnotation | 선택을 위한 [`BleedMarkAnnotation`](../../bleedmarkannotation/) 객체. |
 
-### See Also
+### 또 보기
 
 * class [BleedMarkAnnotation](../../bleedmarkannotation/)
 * class [AnnotationSelector](../)
@@ -575,17 +575,17 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 ## Visit(RegistrationMarkAnnotation) {#visit_17}
 
-[`AnnotationSelector`](../)가 [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) 객체로 초기화된 경우 *registrationMark*를 선택합니다.
+`[`AnnotationSelector`](../)`가 [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) 객체로 초기화된 경우 *registrationMark*를 선택합니다.
 
 ```csharp
 public void Visit(RegistrationMarkAnnotation registrationMark)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | 선택할 [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) 객체입니다. |
+| registrationMark | RegistrationMarkAnnotation | 선택을 위한 [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) 객체. |
 
-### See Also
+### 또 보기
 
 * class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
 * class [AnnotationSelector](../)
@@ -596,19 +596,21 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 ## Visit(PageInformationAnnotation) {#visit_11}
 
-[`AnnotationSelector`](../)가 [`PageInformationAnnotation`](../../pageinformationannotation/) 객체로 초기화된 경우 *pageInformation*을 선택합니다.
+`[`AnnotationSelector`](../)`가 [`PageInformationAnnotation`](../../pageinformationannotation/) 객체로 초기화된 경우 *pageInformation*를 선택합니다.
 
 ```csharp
 public void Visit(PageInformationAnnotation pageInformation)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | 선택할 [`PageInformationAnnotation`](../../pageinformationannotation/) 객체입니다. |
+| pageInformation | PageInformationAnnotation | 선택을 위한 [`PageInformationAnnotation`](../../pageinformationannotation/) 객체. |
 
-### See Also
+### 또 보기
 
 * class [PageInformationAnnotation](../../pageinformationannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,30 @@
 ---
-title: Enum PrintDuplex
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PrintDuplex 열거형. 인쇄 대화 상자에서 파일을 인쇄할 때 사용할 용지 처리 옵션
+title: "열거형 PrintDuplex"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.PrintDuplex 열거형. 인쇄 대화 상자에서 파일을 인쇄할 때 사용할 용지 처리 옵션입니다."
 type: docs
-weight: 9500
+weight: 9650
 url: /ko/net/aspose.pdf/printduplex/
 ---
-## PrintDuplex 열거형
+## PrintDuplex enumeration
 
-인쇄 대화 상자에서 파일을 인쇄할 때 사용할 용지 처리 옵션..
+인쇄 대화 상자에서 파일을 인쇄할 때 사용할 용지 처리 옵션입니다.
 
 ```csharp
 public enum PrintDuplex
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | Simplex | `0` | 단면 인쇄. |
-| DuplexFlipShortEdge | `1` | 양면 인쇄 및 용지의 짧은 가장자리에서 뒤집기. |
-| DuplexFlipLongEdge | `2` | 양면 인쇄 및 용지의 긴 가장자리에서 뒤집기. |
+| DuplexFlipShortEdge | `1` | 시트의 짧은 가장자리를 기준으로 양면 인쇄 및 뒤집기. |
+| DuplexFlipLongEdge | `2` | 시트의 긴 가장자리를 기준으로 양면 인쇄 및 뒤집기. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

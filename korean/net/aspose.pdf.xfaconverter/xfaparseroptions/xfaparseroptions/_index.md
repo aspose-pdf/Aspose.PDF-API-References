@@ -1,14 +1,14 @@
 ---
-title: XfaParserOptions.XfaParserOptions
-second_title: Aspose.PDF for .NET API Reference
-description: XfaParserOptions 생성자. XfaParserOptions 클래스의 새 인스턴스를 초기화합니다.
+title: "XfaParserOptions.XfaParserOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XfaParserOptions 생성자. XfaParserOptions 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.xfaconverter/xfaparseroptions/xfaparseroptions/
 ---
-## XfaParserOptions 생성자
+## XfaParserOptions constructor
 
-새로운 [`XfaParserOptions`](../) 클래스의 인스턴스를 초기화합니다.
+`[XfaParserOptions`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public XfaParserOptions(SizeF pageSize)
@@ -18,8 +18,10 @@ public XfaParserOptions(SizeF pageSize)
 | --- | --- | --- |
 | pageSize | SizeF | 페이지의 크기. |
 
-### 참조
+### 또 보기
 
-* 클래스 [XfaParserOptions](../)
-* 네임스페이스 [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: 색상 필드. 빈 색상을 나타냅니다
+title: "Color.Empty"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Color 필드. 빈 색상을 나타냅니다"
 type: docs
 weight: 1430
 url: /ko/net/aspose.pdf/color/empty/
 ---
-## Color.Empty 필드
+## Color.Empty field
 
 빈 색상을 나타냅니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/color/empty/
 public static Color Empty;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Color](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

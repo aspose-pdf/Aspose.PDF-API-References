@@ -1,14 +1,14 @@
 ---
-title: Class BaseActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BaseActionCollection 클래스. 이 클래스는 페이지/주석/필드 상호작용 작업의 기본 작업을 캡슐화합니다.
+title: "클래스 BaseActionCollection"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.BaseActionCollection 클래스. 페이지/주석/필드 인터랙티브 동작을 포함하는 기본 동작을 캡슐화하는 클래스"
 type: docs
-weight: 2820
+weight: 2930
 url: /ko/net/aspose.pdf/baseactioncollection/
 ---
-## BaseActionCollection 클래스
+## BaseActionCollection class
 
-이 클래스는 페이지/주석/필드 상호작용 작업의 기본 작업을 캡슐화합니다.
+클래스는 페이지/주석/필드 인터랙티브 동작에 대한 기본 동작을 캡슐화합니다.
 
 ```csharp
 public abstract class BaseActionCollection
@@ -18,9 +18,11 @@ public abstract class BaseActionCollection
 
 | 이름 | 설명 |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | 주석의 모든 작업을 제거합니다. |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Annotation의 모든 작업을 제거합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.FitWindow
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 문서 창이 첫 번째 표시된 페이지에 맞게 크기를 조정해야 하는지 여부를 지정하는 플래그를 가져오거나 설정합니다.
+title: "Document.FitWindow"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. 문서 창을 첫 번째 표시 페이지에 맞게 크기를 조정해야 하는지 여부를 지정하는 플래그를 가져오거나 설정합니다."
 type: docs
-weight: 190
+weight: 210
 url: /ko/net/aspose.pdf/document/fitwindow/
 ---
-## Document.FitWindow 속성
+## Document.FitWindow property
 
-문서 창이 첫 번째 표시된 페이지에 맞게 크기를 조정해야 하는지 여부를 지정하는 플래그를 가져오거나 설정합니다.
+문서 창을 첫 번째 표시 페이지에 맞게 크기 조정해야 하는지 여부를 지정하는 플래그를 가져오거나 설정합니다.
 
 ```csharp
 public bool FitWindow { get; set; }
@@ -23,8 +23,10 @@ Document document = new Document("sample.pdf");
 bool value = document.FitWindow;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

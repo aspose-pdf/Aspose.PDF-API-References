@@ -1,12 +1,12 @@
 ---
-title: Row.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Row 메서드. 행을 복제합니다.
+title: "Row.Clone"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Row 메서드. 행을 복제합니다"
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf/row/clone/
 ---
-## Row.Clone 메서드
+## Row.Clone method
 
 행을 복제합니다.
 
@@ -18,8 +18,10 @@ public object Clone()
 
 복제된 객체
 
-### 참조
+### 또 보기
 
-* 클래스 [Row](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: MemoryFontSource.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: MemoryFontSource 메서드. 내부 리소스를 해제합니다.
+title: "MemoryFontSource.Dispose"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MemoryFontSource method. 내부 리소스를 해제합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.text/memoryfontsource/dispose/
 ---
-## MemoryFontSource.Dispose 메서드
+## MemoryFontSource.Dispose method
 
 내부 리소스를 해제합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.text/memoryfontsource/dispose/
 public void Dispose()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [MemoryFontSource](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MemoryFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

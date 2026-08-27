@@ -1,14 +1,14 @@
 ---
-title: Class Point
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Point 클래스. 분수 좌표로 점을 나타냅니다.
+title: "Point 클래스"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Point 클래스. 소수 좌표를 가진 점을 나타냅니다."
 type: docs
-weight: 9460
+weight: 9610
 url: /ko/net/aspose.pdf/point/
 ---
-## 포인트 클래스
+## Point class
 
-분수 좌표로 점을 나타냅니다.
+소수 좌표를 가진 점을 나타냅니다.
 
 ```csharp
 public sealed class Point
@@ -18,7 +18,7 @@ public sealed class Point
 
 | 이름 | 설명 |
 | --- | --- |
-| [Point](point/)(double, double) | `Point`의 새 인스턴스를 초기화합니다. |
+| [Point](point/)(double, double) | 새 `Point` 인스턴스를 초기화합니다. |
 
 ## 속성
 
@@ -32,11 +32,13 @@ public sealed class Point
 
 | 이름 | 설명 |
 | --- | --- |
-| [ToPoint](../../aspose.pdf/point/topoint/)() | 점을 System.Drawing.PointF 객체로 변환합니다. |
-| override [ToString](../../aspose.pdf/point/tostring/)() | 현재 점을 나타내는 문자열을 반환합니다. |
-| static [Distance](../../aspose.pdf/point/distance/)(Point, Point) | 두 점 사이의 거리를 계산합니다. |
+| [ToPoint](../../aspose.pdf/point/topoint/)() | 포인트를 System.Drawing.PointF 객체로 변환합니다. |
+| override [ToString](../../aspose.pdf/point/tostring/)() | 현재 포인트를 나타내는 문자열을 반환합니다. |
+| static [Distance](../../aspose.pdf/point/distance/)(Point, Point) | 두 포인트 사이의 거리를 계산합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

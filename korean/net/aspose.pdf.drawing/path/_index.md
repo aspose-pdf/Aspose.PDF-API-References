@@ -1,12 +1,12 @@
 ---
-title: Class Path
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Path 클래스. 호를 나타냅니다.
+title: "클래스 Path"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Drawing.Path 클래스. 호를 나타냅니다"
 type: docs
-weight: 3970
+weight: 4090
 url: /ko/net/aspose.pdf.drawing/path/
 ---
-## 경로 클래스
+## Path class
 
 호를 나타냅니다.
 
@@ -25,9 +25,9 @@ public sealed class Path : Shape
 
 | 이름 | 설명 |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | 색상, 선 너비 등과 같은 그래프 정보를 나타내는 [`GraphInfo`](../shape/graphinfo/) 객체를 가져오거나 설정합니다. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | 그래프 정보(색상, 선 두께 등)를 나타내는 [`GraphInfo`](../shape/graphinfo/) 객체를 가져오거나 설정합니다. |
 | [Shapes](../../aspose.pdf.drawing/path/shapes/) { get; } | 도형 컬렉션을 가져오거나 설정합니다. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | 도형의 텍스트를 가져오거나 설정합니다. |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | 도형에 대한 텍스트를 가져오거나 설정합니다. |
 
 ## 메서드
 
@@ -35,8 +35,10 @@ public sealed class Path : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/path/checkbounds/)(double, double) |  |
 
-### 참조
+### 또 보기
 
-* 클래스 [Shape](../shape/)
-* 네임스페이스 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

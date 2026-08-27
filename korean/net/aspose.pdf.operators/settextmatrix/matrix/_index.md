@@ -1,12 +1,12 @@
 ---
-title: SetTextMatrix.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextMatrix 속성. 연산자의 Matrix 인수
+title: "SetTextMatrix.Matrix"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetTextMatrix 속성. 연산자의 Matrix 인수"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/settextmatrix/matrix/
 ---
-## SetTextMatrix.Matrix 속성
+## SetTextMatrix.Matrix property
 
 연산자의 Matrix 인수.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.operators/settextmatrix/matrix/
 public Matrix Matrix { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Matrix](../../../aspose.pdf/matrix/)
-* 클래스 [SetTextMatrix](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

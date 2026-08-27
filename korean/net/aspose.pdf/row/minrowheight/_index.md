@@ -1,12 +1,12 @@
 ---
-title: Row.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Row 속성. 행의 높이를 가져옵니다
+title: "Row.MinRowHeight"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Row 속성. 행의 높이를 가져옵니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/row/minrowheight/
 ---
-## Row.MinRowHeight 속성
+## Row.MinRowHeight property
 
 행의 높이를 가져옵니다;
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/row/minrowheight/
 public double MinRowHeight { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Row](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

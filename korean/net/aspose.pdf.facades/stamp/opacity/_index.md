@@ -1,12 +1,12 @@
 ---
-title: Stamp.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: 스탬프 속성. 스탬프의 불투명도를 가져오거나 설정합니다.
+title: "Stamp.Opacity"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Stamp 속성. 스탬프의 불투명도를 가져오거나 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.facades/stamp/opacity/
 ---
-## Stamp.Opacity 속성
+## Stamp.Opacity property
 
 스탬프의 불투명도를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.facades/stamp/opacity/
 public float Opacity { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Stamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

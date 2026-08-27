@@ -1,26 +1,28 @@
 ---
-title: StructureTypeStandard.Category
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 속성. 표준 구조 유형의 범주를 가져옵니다.
+title: "StructureTypeStandard.Category"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureTypeStandard 속성. 표준 구조 유형의 카테고리를 가져옵니다."
 type: docs
 weight: 500
 url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/category/
 ---
-## StructureTypeStandard.Category 속성
+## StructureTypeStandard.Category property
 
-표준 구조 유형의 범주를 가져옵니다.
+표준 구조 유형의 카테고리를 가져옵니다.
 
 ```csharp
 public StructureTypeCategory Category { get; }
 ```
 
-### 속성 값
+### Property Value
 
-표준 구조 유형의 범주.
+표준 구조 유형의 카테고리.
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTypeCategory](../../structuretypecategory/)
-* 클래스 [StructureTypeStandard](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../../structuretypecategory/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

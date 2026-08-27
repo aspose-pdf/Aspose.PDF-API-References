@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.DGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 필드. 대각선 글리터
+title: "PdfPageEditor.DGLITTER"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfPageEditor 필드. 대각선 글리터"
 type: docs
 weight: 220
 url: /ko/net/aspose.pdf.facades/pdfpageeditor/dglitter/
 ---
-## PdfPageEditor.DGLITTER 필드
+## PdfPageEditor.DGLITTER field
 
-대각선 글리터
+대각선 반짝임
 
 ```csharp
 public const int DGLITTER;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfPageEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

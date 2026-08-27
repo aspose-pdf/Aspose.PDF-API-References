@@ -1,25 +1,27 @@
 ---
-title: PDF3DViewArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DViewArray 속성. 뷰 수를 가져옵니다
+title: "PDF3DViewArray.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DViewArray 속성. 뷰 수를 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/pdf3dviewarray/count/
 ---
-## PDF3DViewArray.Count 속성
+## PDF3DViewArray.Count property
 
-뷰 수를 가져옵니다.
+뷰 개수를 가져옵니다.
 
 ```csharp
 public int Count { get; }
 ```
 
-### 속성 값
+### Property Value
 
-뷰 수입니다.
+뷰 수.
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DViewArray](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

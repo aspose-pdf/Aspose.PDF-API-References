@@ -1,12 +1,12 @@
 ---
-title: Enum PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormat 열거형. 이 클래스는 PDF 형식을 나타냅니다.
+title: "열거형 PdfFormat"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.PdfFormat 열거형. 이 클래스는 PDF 형식을 나타냅니다."
 type: docs
-weight: 8370
+weight: 8510
 url: /ko/net/aspose.pdf/pdfformat/
 ---
-## PdfFormat 열거형
+## PdfFormat enumeration
 
 이 클래스는 PDF 형식을 나타냅니다.
 
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf/pdfformat/
 public enum PdfFormat
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
@@ -45,7 +45,9 @@ public enum PdfFormat
 | PDF_A_4F | `24` | PDF/A-4f 형식 |
 | PDF_X_4 | `25` | PDF/X-4 형식 |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

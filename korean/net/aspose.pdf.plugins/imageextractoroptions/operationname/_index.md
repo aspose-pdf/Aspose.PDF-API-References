@@ -1,12 +1,12 @@
 ---
-title: ImageExtractorOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: ImageExtractorOptions 속성. 작업의 이름을 반환합니다.
+title: "ImageExtractorOptions.OperationName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImageExtractorOptions 속성. 작업 이름을 반환합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.plugins/imageextractoroptions/operationname/
 ---
-## ImageExtractorOptions.OperationName 속성
+## ImageExtractorOptions.OperationName property
 
 작업의 이름을 반환합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.plugins/imageextractoroptions/operationname/
 public override string OperationName { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ImageExtractorOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImageExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

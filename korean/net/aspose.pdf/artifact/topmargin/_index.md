@@ -1,21 +1,23 @@
 ---
-title: Artifact.TopMargin
-second_title: Aspose.PDF for .NET API Reference
-description: 아티팩트 속성. 아티팩트의 상단 여백. 위치가 Position 속성에서 명시적으로 지정된 경우 이 값은 무시됩니다.
+title: "Artifact.TopMargin"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Artifact 속성. 아티팩트의 상단 여백. Position 속성에 명시적으로 위치가 지정된 경우 이 값은 무시됩니다"
 type: docs
 weight: 210
 url: /ko/net/aspose.pdf/artifact/topmargin/
 ---
-## Artifact.TopMargin 속성
+## Artifact.TopMargin property
 
-아티팩트의 상단 여백. 위치가 명시적으로 지정된 경우(위치 속성에서) 이 값은 무시됩니다.
+아티팩트의 상단 여백. Position 속성에서 위치가 명시적으로 지정된 경우 이 값은 무시됩니다.
 
 ```csharp
 public double TopMargin { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Artifact](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

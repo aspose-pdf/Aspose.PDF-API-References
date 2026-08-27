@@ -1,21 +1,23 @@
 ---
-title: GraphInfo.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo 생성자. 기본 생성자
+title: "GraphInfo.GraphInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "GraphInfo 생성자. 기본 생성자입니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/graphinfo/graphinfo/
 ---
-## GraphInfo 생성자
+## GraphInfo constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public GraphInfo()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [GraphInfo](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 문서 작업을 가져옵니다. 이 속성은 BeforClosing, BeforSaving 등의 작업을 가져오고 설정할 수 있는 DocumentActions 클래스의 인스턴스입니다.
+title: "Document.Actions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. 문서 작업을 가져옵니다. 이 속성은 DocumentActions 클래스의 인스턴스로, BeforClosing, BeforSaving 등 작업을 가져오거나 설정할 수 있습니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/document/actions/
 ---
-## Document.Actions 속성
+## Document.Actions property
 
-문서 작업을 가져옵니다. 이 속성은 BeforClosing, BeforSaving 등의 작업을 가져오고 설정할 수 있는 DocumentActions 클래스의 인스턴스입니다.
+문서 작업을 가져옵니다. 이 속성은 DocumentActions 클래스의 인스턴스로, BeforClosing, BeforSaving 등 작업을 가져오거나 설정할 수 있습니다.
 
 ```csharp
 public DocumentActionCollection Actions { get; }
@@ -24,9 +24,11 @@ Aspose.Pdf.Annotations.DocumentActionCollection actions = document.Actions;
 Aspose.Pdf.Annotations.PdfAction afterSavingAction = actions.AfterSaving;
 ```
 
-### 참조
+### 또 보기
 
 * class [DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PdfXmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfXmlLoadOptions 클래스. PdfXml 형식의 로드 옵션
+title: "클래스 PdfXmlLoadOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.PdfXmlLoadOptions 클래스. PdfXml 형식에 대한 로드 옵션"
 type: docs
-weight: 8460
+weight: 8590
 url: /ko/net/aspose.pdf/pdfxmlloadoptions/
 ---
-## PdfXmlLoadOptions 클래스
+## PdfXmlLoadOptions class
 
-PdfXml 형식의 로드 옵션입니다.
+PdfXml 형식에 대한 로드 옵션입니다.
 
 ```csharp
 public class PdfXmlLoadOptions : LoadOptions
@@ -18,38 +18,38 @@ public class PdfXmlLoadOptions : LoadOptions
 
 | 이름 | 설명 |
 | --- | --- |
-| [PdfXmlLoadOptions](pdfxmlloadoptions/)() | 기본 생성자입니다. |
+| [PdfXmlLoadOptions](pdfxmlloadoptions/)() | 기본 생성자. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | 파일을 로드하는 동안 모든 글꼴에 대한 라이선스 제한을 비활성화하는 플래그를 가져오거나 설정합니다. `true`일 경우, 이 글꼴의 라이선스에 의해 금지된 글꼴로 작업을 수행할 수 있도록 허용합니다. 예를 들어, 이 글꼴에 대한 임베딩이 금지된 경우에도 PDF 문서에 글꼴을 임베드할 수 있도록 허용합니다. 기본값은 `false`입니다. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | [`LoadOptions`](../loadoptions/)가 설명하는 파일 형식을 나타냅니다. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 생성된 경고를 처리하기 위한 콜백입니다. WarningHandler는 Continue 또는 Abort를 지정하는 ReturnAction 열거형 항목을 반환합니다. Continue는 기본 동작이며 로드 작업이 계속되지만, 사용자가 Abort를 반환할 경우 로드 작업은 중단되어야 합니다. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | 파일을 로드하는 동안 모든 글꼴에 대한 라이선스 제한을 해제하는 플래그를 가져오거나 설정합니다. `true`인 경우 해당 글꼴의 라이선스에서 금지된 작업을 수행할 수 있게 하며, 예를 들어 라이선스 규정이 임베딩을 금지하더라도 글꼴을 PDF 문서에 삽입할 수 있습니다. 기본값은 `false`입니다. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | `[`LoadOptions`](../loadoptions/)`가 설명하는 파일 형식을 나타냅니다. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 생성된 경고를 처리하기 위한 콜백입니다. WarningHandler는 Continue 또는 Abort 중 하나를 지정하는 ReturnAction 열거형 항목을 반환합니다. Continue는 기본 동작이며 Load 작업이 계속 진행되지만, 사용자가 Abort를 반환하면 Load 작업이 중단됩니다. |
 
 ## 예제
 
-다음 예제는 PDFXML 파일을 PDF 파일로 변환하는 방법을 보여줍니다.
+다음 예제는 PDFXML 파일을 PDF 파일로 변환하는 방법을 보여줍니다
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// 문서 디렉터리 경로.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your PDFXML File.
+	// PDFXML 파일의 경로.
 	string pdfXmlFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdfxml");
 
-	// The path to output PDF File.
+	// 출력 PDF 파일 경로.
 	string pdfFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdf");
 
-	// Initialize PdfXmlLoadOptions	
+	// PdfXmlLoadOptions 초기화	
 	PdfXmlLoadOptions pdfXmlLoadOptions = new PdfXmlLoadOptions();
 		
 	using (Document pdfDocument = new Document(pdfXmlFile, pdfXmlLoadOptions))
 	{
 	 
-		// Save PDF file
+		// PDF 파일 저장
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -76,8 +76,10 @@ public class PdfXmlLoadOptions : LoadOptions
     End Using
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [LoadOptions](../loadoptions/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

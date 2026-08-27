@@ -1,22 +1,24 @@
 ---
-title: SaveOptions.MarginInfo.BottomMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo 필드. 하단 페이지 여백을 나타냅니다（있는 경우）
+title: "SaveOptions.MarginInfo.BottomMarginIfAny"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MarginInfo 필드. 하단 페이지 여백(있는 경우)을 나타냅니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/saveoptions.margininfo/bottommarginifany/
 ---
-## SaveOptions.MarginInfo.BottomMarginIfAny 필드
+## SaveOptions.MarginInfo.BottomMarginIfAny field
 
-하단 페이지 여백을 나타냅니다(있는 경우)
+하단 페이지 여백을 나타냅니다(있는 경우).
 
 ```csharp
 public MarginPartStyle BottomMarginIfAny;
 ```
 
-### 참조
+### 또 보기
 
 * class [MarginPartStyle](../../saveoptions.marginpartstyle/)
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

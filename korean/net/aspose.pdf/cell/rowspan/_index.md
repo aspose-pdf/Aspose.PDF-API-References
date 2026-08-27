@@ -1,12 +1,12 @@
 ---
-title: Cell.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: 셀 속성. 행 범위를 가져오거나 설정합니다.
+title: "Cell.RowSpan"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Cell 속성. 행 범위를 가져오거나 설정합니다"
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf/cell/rowspan/
 ---
-## Cell.RowSpan 속성
+## Cell.RowSpan property
 
 행 범위를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/cell/rowspan/
 public int RowSpan { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Cell](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

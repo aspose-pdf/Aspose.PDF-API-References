@@ -1,22 +1,24 @@
 ---
-title: CreateEmbeddingResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingResponse 속성. 임베딩 요청에 대한 사용 통계를 가져오거나 설정합니다.
+title: "CreateEmbeddingResponse.Usage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CreateEmbeddingResponse 속성. 임베딩 요청에 대한 사용 통계를 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.ai/createembeddingresponse/usage/
 ---
-## CreateEmbeddingResponse.Usage 속성
+## CreateEmbeddingResponse.Usage property
 
-임베딩 요청에 대한 사용 통계를 가져오거나 설정합니다.
+임베딩 요청에 대한 사용 통계 정보를 가져오거나 설정합니다.
 
 ```csharp
 public Usage Usage { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Usage](../../usage/)
-* 클래스 [CreateEmbeddingResponse](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Usage](../../usage/)
+* class [CreateEmbeddingResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

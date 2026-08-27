@@ -1,14 +1,14 @@
 ---
-title: Class DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.DocumentCollection 클래스. 처리할 문서의 컬렉션을 나타냅니다.
+title: "클래스 DocumentCollection"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.DocumentCollection 클래스. 처리할 문서들의 컬렉션을 나타냅니다."
 type: docs
-weight: 320
+weight: 340
 url: /ko/net/aspose.pdf.ai/documentcollection/
 ---
-## DocumentCollection 클래스
+## DocumentCollection class
 
-처리할 문서의 컬렉션을 나타냅니다.
+처리될 문서 컬렉션을 나타냅니다.
 
 ```csharp
 public class DocumentCollection
@@ -18,17 +18,19 @@ public class DocumentCollection
 
 | 이름 | 설명 |
 | --- | --- |
-| [DocumentCollection](documentcollection/)() | 기본 생성자입니다. |
+| [DocumentCollection](documentcollection/)() | 기본 생성자. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [DocumentPaths](../../aspose.pdf.ai/documentcollection/documentpaths/) { get; set; } | 처리할 문서 경로의 컬렉션을 가져오거나 설정합니다. |
-| [PdfDocuments](../../aspose.pdf.ai/documentcollection/pdfdocuments/) { get; set; } | 처리할 PDF 문서의 컬렉션을 가져오거나 설정합니다. |
-| [TextDocuments](../../aspose.pdf.ai/documentcollection/textdocuments/) { get; set; } | 처리할 텍스트 문서의 컬렉션을 가져오거나 설정합니다. |
+| [DocumentPaths](../../aspose.pdf.ai/documentcollection/documentpaths/) { get; set; } | 처리할 문서 경로 컬렉션을 가져오거나 설정합니다. |
+| [PdfDocuments](../../aspose.pdf.ai/documentcollection/pdfdocuments/) { get; set; } | 처리할 PDF 문서 컬렉션을 가져오거나 설정합니다. |
+| [TextDocuments](../../aspose.pdf.ai/documentcollection/textdocuments/) { get; set; } | 처리할 텍스트 문서 컬렉션을 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

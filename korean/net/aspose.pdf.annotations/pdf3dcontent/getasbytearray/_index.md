@@ -1,12 +1,12 @@
 ---
-title: PDF3DContent.GetAsByteArray
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent 메서드. 3D 콘텐츠를 바이트 배열로 가져옵니다.
+title: "PDF3DContent.GetAsByteArray"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DContent 메서드. 3D 콘텐츠를 바이트 배열로 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.annotations/pdf3dcontent/getasbytearray/
 ---
-## PDF3DContent.GetAsByteArray 메서드
+## PDF3DContent.GetAsByteArray method
 
 3D 콘텐츠를 바이트 배열로 가져옵니다.
 
@@ -18,8 +18,10 @@ public byte[] GetAsByteArray()
 
 System.Byte[].
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DContent](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

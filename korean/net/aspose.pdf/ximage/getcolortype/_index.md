@@ -1,12 +1,12 @@
 ---
-title: XImage.GetColorType
-second_title: Aspose.PDF for .NET API Reference
-description: XImage 메서드. 이미지의 색상 유형을 반환합니다.
+title: "XImage.GetColorType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XImage method. 이미지의 색 유형을 반환합니다."
 type: docs
-weight: 100
+weight: 110
 url: /ko/net/aspose.pdf/ximage/getcolortype/
 ---
-## XImage.GetColorType 메서드
+## XImage.GetColorType method
 
 이미지의 색상 유형을 반환합니다.
 
@@ -16,11 +16,13 @@ public ColorType GetColorType()
 
 ### 반환 값
 
-색상 유형 값입니다.
+색 유형 값.
 
-### 참조
+### 또 보기
 
 * enum [ColorType](../../colortype/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

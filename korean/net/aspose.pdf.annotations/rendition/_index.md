@@ -1,14 +1,14 @@
 ---
-title: Class Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Rendition 클래스. RendtionAnnotation의 렌디션 객체를 설명하는 클래스
+title: "클래스 Rendition"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.Rendition 클래스. RendtionAnnotation의 렌더링 객체를 설명하는 클래스."
 type: docs
-weight: 2430
+weight: 2520
 url: /ko/net/aspose.pdf.annotations/rendition/
 ---
-## 렌디션 클래스
+## Rendition class
 
-RendtionAnnotation의 렌디션 객체를 설명하는 클래스입니다.
+RendtionAnnotation의 렌디션 객체를 설명하는 클래스.
 
 ```csharp
 public class Rendition
@@ -18,10 +18,12 @@ public class Rendition
 
 | 이름 | 설명 |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | 사용자 인터페이스에서 사용하기 위한 렌디션의 이름과 JavaScript 작업에 의한 이름 트리 조회를 지정하는 텍스트 문자열입니다. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | 렌디션 유형을 가져옵니다. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | 사용자 인터페이스에서 사용하고 JavaScript 동작에 의해 이름 트리 조회에 사용되는 렌더링 이름을 지정하는 텍스트 문자열. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | 렌더링 유형을 가져옵니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

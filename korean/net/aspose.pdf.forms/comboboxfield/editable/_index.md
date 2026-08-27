@@ -1,12 +1,12 @@
 ---
-title: ComboBoxField.Editable
-second_title: Aspose.PDF for .NET API Reference
-description: ComboBoxField 속성. 필드의 편집 가능 상태를 가져오거나 설정합니다.
+title: "ComboBoxField.Editable"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ComboBoxField 속성. 필드의 편집 가능 상태를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.forms/comboboxfield/editable/
 ---
-## ComboBoxField.Editable 속성
+## ComboBoxField.Editable property
 
 필드의 편집 가능 상태를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.forms/comboboxfield/editable/
 public bool Editable { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ComboBoxField](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

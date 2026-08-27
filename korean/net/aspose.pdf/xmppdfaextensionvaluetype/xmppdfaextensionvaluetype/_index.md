@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.XmpPdfAExtensionValueType
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType 생성자. 새 객체를 초기화합니다.
+title: "XmpPdfAExtensionValueType.XmpPdfAExtensionValueType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpPdfAExtensionValueType 생성자. 새 객체를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/xmppdfaextensionvaluetype/xmppdfaextensionvaluetype/
 ---
-## XmpPdfAExtensionValueType 생성자
+## XmpPdfAExtensionValueType constructor
 
 새 객체를 초기화합니다.
 
@@ -17,13 +17,15 @@ public XmpPdfAExtensionValueType(string type, string namespaceUri, string prefix
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| type | String | 값 유형. |
-| namespaceUri | String | 네임스페이스 URI. |
-| prefix | String | 접두사. |
-| description | String | 설명. |
+| 유형 | String | 값 유형입니다. |
+| namespaceUri | String | 네임스페이스 URI입니다. |
+| prefix | String | 접두사입니다. |
+| description | String | 설명입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpPdfAExtensionValueType](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

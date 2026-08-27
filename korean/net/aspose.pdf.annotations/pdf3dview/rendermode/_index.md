@@ -1,12 +1,12 @@
 ---
-title: PDF3DView.RenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView 속성. 뷰의 렌더 모드를 가져오거나 설정합니다.
+title: "PDF3DView.RenderMode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DView 속성. 보기의 렌더 모드를 가져오거나 설정합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.annotations/pdf3dview/rendermode/
 ---
-## PDF3DView.RenderMode 속성
+## PDF3DView.RenderMode property
 
 뷰의 렌더 모드를 가져오거나 설정합니다.
 
@@ -14,13 +14,15 @@ url: /ko/net/aspose.pdf.annotations/pdf3dview/rendermode/
 public PDF3DRenderMode RenderMode { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-뷰의 렌더 모드입니다.
+보기의 렌더 모드.
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DRenderMode](../../pdf3drendermode/)
-* 클래스 [PDF3DView](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

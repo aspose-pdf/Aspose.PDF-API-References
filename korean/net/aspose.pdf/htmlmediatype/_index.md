@@ -1,12 +1,12 @@
 ---
-title: Enum HtmlMediaType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlMediaType 열거형. 렌더링 중에 사용되는 가능한 미디어 유형을 지정합니다.
+title: "Enum HtmlMediaType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.HtmlMediaType 열거형. 렌더링 중에 사용되는 가능한 미디어 유형을 지정합니다."
 type: docs
-weight: 5540
+weight: 5670
 url: /ko/net/aspose.pdf/htmlmediatype/
 ---
-## HtmlMediaType 열거형
+## HtmlMediaType enumeration
 
 렌더링 중에 사용되는 가능한 미디어 유형을 지정합니다.
 
@@ -19,9 +19,11 @@ public enum HtmlMediaType
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | Print | `0` | 인쇄. |
-| Screen | `1` | 화면. |
+| Screen | `1` | 스크린. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

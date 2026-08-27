@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection 메서드. 컬렉션에서 지정된 항목을 삭제합니다.
+title: "ImagePlacementCollection.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImagePlacementCollection 메서드. 컬렉션에서 지정된 항목을 삭제합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/imageplacementcollection/remove/
 ---
-## ImagePlacementCollection.Remove 메서드
+## ImagePlacementCollection.Remove method
 
 컬렉션에서 지정된 항목을 삭제합니다.
 
@@ -20,11 +20,13 @@ public bool Remove(ImagePlacement item)
 
 ### 반환 값
 
-항목이 삭제되면 true; 그렇지 않으면 false입니다.
+항목이 삭제되면 true, 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 클래스 [ImagePlacement](../../imageplacement/)
-* 클래스 [ImagePlacementCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

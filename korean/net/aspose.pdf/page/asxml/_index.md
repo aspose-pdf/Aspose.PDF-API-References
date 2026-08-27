@@ -1,14 +1,14 @@
 ---
-title: Page.AsXml
-second_title: Aspose.PDF for .NET API Reference
-description: Page 메서드. 현재 페이지를 utf8 인코딩의 xml로 변환합니다.
+title: "Page.AsXml"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 메서드. 현재 페이지를 UTF-8 인코딩 XML로 변환합니다"
 type: docs
 weight: 380
 url: /ko/net/aspose.pdf/page/asxml/
 ---
-## Page.AsXml 메서드
+## Page.AsXml method
 
-현재 페이지를 utf8 인코딩의 xml로 변환합니다.
+현재 페이지를 UTF-8 인코딩의 XML로 변환합니다.
 
 ```csharp
 public string AsXml()
@@ -16,10 +16,12 @@ public string AsXml()
 
 ### 반환 값
 
-변환된 xml 문자열.
+변환된 XML 문자열.
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

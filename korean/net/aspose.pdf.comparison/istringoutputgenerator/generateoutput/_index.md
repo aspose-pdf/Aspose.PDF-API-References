@@ -1,7 +1,7 @@
 ---
-title: IStringOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: IStringOutputGenerator 메서드. 텍스트 간의 차이를 기반으로 출력을 생성하고 파일에 저장합니다.
+title: "IStringOutputGenerator.GenerateOutput"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IStringOutputGenerator 메서드. 텍스트 간 차이를 기반으로 출력을 생성하고 파일에 저장합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.comparison/istringoutputgenerator/generateoutput/
@@ -14,15 +14,15 @@ url: /ko/net/aspose.pdf.comparison/istringoutputgenerator/generateoutput/
 public string GenerateOutput(List<DiffOperation> diffrences)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| diffrences | List`1 | 텍스트 간의 차이 목록입니다. |
+| 차이점 | List`1 | 텍스트 간 차이점 목록입니다. |
 
-### Return Value
+### 반환 값
 
-출력의 텍스트 표현입니다.
+출력의 텍스트 표현.
 
-### See Also
+### 또 보기
 
 * class [DiffOperation](../../diffoperation/)
 * interface [IStringOutputGenerator](../)
@@ -39,17 +39,19 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 public string GenerateOutput(List<List<DiffOperation>> diffrences)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| diffrences | List`1 | 텍스트 간의 차이 목록입니다. |
+| 차이점 | List`1 | 텍스트 간 차이점 목록입니다. |
 
-### Return Value
+### 반환 값
 
-출력의 텍스트 표현입니다.
+출력의 텍스트 표현.
 
-### See Also
+### 또 보기
 
 * class [DiffOperation](../../diffoperation/)
 * interface [IStringOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

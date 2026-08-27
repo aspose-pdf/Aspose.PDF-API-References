@@ -1,14 +1,14 @@
 ---
-title: Class UnifiedSaveOptions.ProgressEventHandlerInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.UnifiedSaveOptionsProgressEventHandlerInfo 클래스. 이 클래스는 외부 애플리케이션에서 최종 사용자에게 변환 진행 상황을 표시하는 데 사용할 수 있는 변환 진행 상황에 대한 정보를 나타냅니다.
+title: "클래스 UnifiedSaveOptions.ProgressEventHandlerInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.UnifiedSaveOptionsProgressEventHandlerInfo 클래스. 이 클래스는 외부 애플리케이션에서 최종 사용자에게 변환 진행 상황을 표시하는 데 사용할 수 있는 변환 진행 정보를 나타냅니다."
 type: docs
-weight: 11160
+weight: 11350
 url: /ko/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/
 ---
-## UnifiedSaveOptions.ProgressEventHandlerInfo 클래스
+## UnifiedSaveOptions.ProgressEventHandlerInfo class
 
-이 클래스는 외부 애플리케이션에서 최종 사용자에게 변환 진행 상황을 표시하는 데 사용할 수 있는 변환 진행 상황에 대한 정보를 나타냅니다.
+이 클래스는 외부 애플리케이션에서 최종 사용자에게 변환 진행 상황을 표시하는 데 사용할 수 있는 변환 진행 정보를 나타냅니다.
 
 ```csharp
 public class ProgressEventHandlerInfo
@@ -18,13 +18,15 @@ public class ProgressEventHandlerInfo
 
 | 이름 | 설명 |
 | --- | --- |
-| [DocumentId](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid) | 고유한 문서 ID. |
-| [EventType](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/eventtype) | 발생한 진행 이벤트의 유형. |
-| [MaxValue](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/maxvalue) | 진행 값의 최대 가능한 값. |
-| [Value](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value) | 현재 진행 값. |
+| [DocumentId](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid) | 고유한 문서 ID입니다. |
+| [EventType](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/eventtype) | 발생한 진행 이벤트 유형입니다. |
+| [MaxValue](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/maxvalue) | 진행 값의 최대 가능한 값입니다. |
+| [Value](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value) | 진행 값의 현재 값입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [UnifiedSaveOptions](../unifiedsaveoptions/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

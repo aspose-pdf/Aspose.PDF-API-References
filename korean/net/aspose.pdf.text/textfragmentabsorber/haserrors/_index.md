@@ -1,12 +1,12 @@
 ---
-title: TextFragmentAbsorber.HasErrors
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber 속성. 값은 텍스트 추출 중에 오류가 발견되었는지를 나타냅니다. 오류 검색은 TextSearchOptions.LogTextExtractionErrors가 true인 경우에만 수행되며, 성능이 저하될 수 있습니다.
+title: "TextFragmentAbsorber.HasErrors"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextFragmentAbsorber 속성. 값은 텍스트 추출 중 오류가 발견되었는지 여부를 나타냅니다. 오류 검색은 TextSearchOptions.LogTextExtractionErrors가 true인 경우에만 수행되며 성능이 저하될 수 있습니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.text/textfragmentabsorber/haserrors/
 ---
-## TextFragmentAbsorber.HasErrors 속성
+## TextFragmentAbsorber.HasErrors property
 
 값은 텍스트 추출 중에 오류가 발견되었는지를 나타냅니다. 오류 검색은 TextSearchOptions.LogTextExtractionErrors = true인 경우에만 수행되며, 성능이 저하될 수 있습니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.text/textfragmentabsorber/haserrors/
 public bool HasErrors { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextFragmentAbsorber](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

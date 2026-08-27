@@ -1,21 +1,23 @@
 ---
-title: DeleteStatusResponse.DeleteStatusResponse
-second_title: Aspose.PDF for .NET API Reference
-description: DeleteStatusResponse 생성자. 기본 생성자
+title: "DeleteStatusResponse.DeleteStatusResponse"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DeleteStatusResponse 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/deletestatusresponse/deletestatusresponse/
 ---
-## DeleteStatusResponse 생성자
+## DeleteStatusResponse constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public DeleteStatusResponse()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [DeleteStatusResponse](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

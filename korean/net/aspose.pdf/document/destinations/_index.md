@@ -1,22 +1,24 @@
 ---
-title: Document.Destinations
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 목적지 컬렉션을 가져옵니다. 더 이상 사용되지 않습니다. NamedDestinations를 사용하십시오.
+title: "Document.Destinations"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. 대상 컬렉션을 가져옵니다. 사용 중단됨. NamedDestinations를 사용하십시오"
 type: docs
-weight: 90
+weight: 100
 url: /ko/net/aspose.pdf/document/destinations/
 ---
-## Document.Destinations 속성
+## Document.Destinations property
 
-목적지 컬렉션을 가져옵니다. 더 이상 사용되지 않습니다. NamedDestinations를 사용하십시오.
+대상 컬렉션을 가져옵니다. 사용되지 않음. NamedDestinations를 사용하십시오.
 
 ```csharp
 public DestinationCollection Destinations { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [DestinationCollection](../../destinationcollection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

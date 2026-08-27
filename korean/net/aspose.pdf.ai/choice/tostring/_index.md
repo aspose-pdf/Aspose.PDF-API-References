@@ -1,21 +1,23 @@
 ---
-title: Choice.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Choice 메서드. 선택의 내용을 문자열로 반환합니다.
+title: "Choice.ToString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Choice 메서드. 선택의 내용을 문자열로 반환합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.ai/choice/tostring/
 ---
-## Choice.ToString 메서드
+## Choice.ToString method
 
-선택의 내용을 문자열로 반환합니다.
+선택지의 내용을 문자열로 반환합니다.
 
 ```csharp
 public override string ToString()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Choice](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Choice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

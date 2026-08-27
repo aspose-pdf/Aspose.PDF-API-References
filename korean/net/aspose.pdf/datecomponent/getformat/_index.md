@@ -1,14 +1,14 @@
 ---
-title: DateComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: DateComponent 메서드. 형식에 따라 반복된 지정된 문자로 구성된 문자열을 반환합니다.
+title: "DateComponent.GetFormat"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DateComponent 메서드. 지정된 형식에 따라 반복되는 지정 문자로 구성된 문자열을 반환합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/datecomponent/getformat/
 ---
-## DateComponent.GetFormat 메서드
+## DateComponent.GetFormat method
 
-형식에 따라 반복된 지정된 문자로 구성된 문자열을 반환합니다.
+형식에 따라 지정된 문자를 반복하여 구성된 문자열을 반환합니다.
 
 ```csharp
 public string GetFormat(char ch)
@@ -16,14 +16,16 @@ public string GetFormat(char ch)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| ch | Char | 반복할 문자입니다. |
+| ch | 문자 | 반복할 문자. |
 
 ### 반환 값
 
-반복된 문자가 포함된 문자열입니다.
+문자가 반복된 문자열.
 
-### 참조
+### 또 보기
 
-* 클래스 [DateComponent](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DateComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

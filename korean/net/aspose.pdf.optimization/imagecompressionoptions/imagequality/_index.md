@@ -1,21 +1,23 @@
 ---
-title: ImageCompressionOptions.ImageQuality
-second_title: Aspose.PDF for .NET API Reference
-description: ImageCompressionOptions 속성. CompressIamges 플래그가 사용될 때 이미지 압축 수준을 지정합니다.
+title: "ImageCompressionOptions.ImageQuality"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImageCompressionOptions 속성. CompressImages 플래그가 사용될 때 이미지 압축 수준을 지정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.optimization/imagecompressionoptions/imagequality/
 ---
-## ImageCompressionOptions.ImageQuality 속성
+## ImageCompressionOptions.ImageQuality property
 
-CompressIamges 플래그가 사용될 때 이미지 압축 수준을 지정합니다.
+CompressImages 플래그가 사용될 때 이미지 압축 수준을 지정합니다.
 
 ```csharp
 public int ImageQuality { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ImageCompressionOptions](../)
-* 네임스페이스 [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImageCompressionOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

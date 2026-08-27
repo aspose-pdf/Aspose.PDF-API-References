@@ -1,21 +1,23 @@
 ---
-title: ParagraphAbsorberOptions.ParagraphAbsorberOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorberOptions 생성자. 기본 생성자
+title: "ParagraphAbsorberOptions.ParagraphAbsorberOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ParagraphAbsorberOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.text/paragraphabsorberoptions/paragraphabsorberoptions/
 ---
-## ParagraphAbsorberOptions 생성자
+## ParagraphAbsorberOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public ParagraphAbsorberOptions()
 ```
 
-### 참조
+### 또 보기
 
 * class [ParagraphAbsorberOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

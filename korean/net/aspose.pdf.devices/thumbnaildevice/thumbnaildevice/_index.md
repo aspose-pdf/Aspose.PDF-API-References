@@ -1,7 +1,7 @@
 ---
-title: ThumbnailDevice.ThumbnailDevice
-second_title: Aspose.PDF for .NET API Reference
-description: ThumbnailDevice 생성자. 기본 썸네일 이미지 크기 200x200 픽셀로 ThumbnailDevice 클래스의 새 인스턴스를 초기화합니다.
+title: "ThumbnailDevice.ThumbnailDevice"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ThumbnailDevice 생성자. 기본 썸네일 이미지 크기 200x200 픽셀로 ThumbnailDevice 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.devices/thumbnaildevice/thumbnaildevice/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf.devices/thumbnaildevice/thumbnaildevice/
 public ThumbnailDevice()
 ```
 
-### See Also
+### 또 보기
 
 * class [ThumbnailDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -24,19 +24,21 @@ public ThumbnailDevice()
 
 ## ThumbnailDevice(int, int) {#constructor_1}
 
-[`ThumbnailDevice`](../) 클래스의 새 인스턴스를 초기화합니다.
+`[`ThumbnailDevice`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ThumbnailDevice(int width, int height)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| width | Int32 | 썸네일 이미지 출력 너비. |
-| height | Int32 | 썸네일 이미지 출력 높이. |
+| 너비 | Int32 | 썸네일 이미지 출력 너비. |
+| 높이 | Int32 | 썸네일 이미지 출력 높이. |
 
-### See Also
+### 또 보기
 
 * class [ThumbnailDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

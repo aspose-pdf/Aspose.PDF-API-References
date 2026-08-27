@@ -1,21 +1,23 @@
 ---
-title: CreateEmbeddingRequest.CreateEmbeddingRequest
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingRequest 생성자. 기본 생성자
+title: "CreateEmbeddingRequest.CreateEmbeddingRequest"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CreateEmbeddingRequest 생성자. 기본 생성자입니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/createembeddingrequest/createembeddingrequest/
 ---
-## CreateEmbeddingRequest 생성자
+## CreateEmbeddingRequest constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public CreateEmbeddingRequest()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CreateEmbeddingRequest](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CreateEmbeddingRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

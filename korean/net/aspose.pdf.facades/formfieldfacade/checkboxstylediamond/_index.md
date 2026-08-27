@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.CheckBoxStyleDiamond
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 필드. 다이아몬드 체크 박스 스타일을 정의합니다.
+title: "FormFieldFacade.CheckBoxStyleDiamond"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 필드. 다이아몬드 체크 박스 스타일을 정의합니다"
 type: docs
 weight: 420
 url: /ko/net/aspose.pdf.facades/formfieldfacade/checkboxstylediamond/
 ---
-## FormFieldFacade.CheckBoxStyleDiamond 필드
+## FormFieldFacade.CheckBoxStyleDiamond field
 
 다이아몬드 체크 박스 스타일을 정의합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.facades/formfieldfacade/checkboxstylediamond/
 public const int CheckBoxStyleDiamond;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

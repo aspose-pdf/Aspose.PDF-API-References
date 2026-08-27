@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectResult 속성. 원시 데이터를 가져옵니다.
+title: "ObjectResult.Data"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ObjectResult 속성. 원시 데이터를 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/objectresult/data/
 ---
-## ObjectResult.Data 속성
+## ObjectResult.Data property
 
 원시 데이터를 가져옵니다.
 
@@ -16,10 +16,12 @@ public object Data { get; }
 
 ### 반환 값
 
-출력 데이터를 나타내는 `object`입니다.
+출력 데이터를 나타내는 `object`.
 
-### 참조
+### 또 보기
 
-* 클래스 [ObjectResult](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

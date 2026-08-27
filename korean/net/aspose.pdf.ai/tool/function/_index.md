@@ -1,14 +1,14 @@
 ---
-title: Tool.Function
-second_title: Aspose.PDF for .NET API Reference
-description: 도구 메서드. 지정된 기능으로 새 도구 인스턴스를 생성합니다.
+title: "Tool.Function"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Tool 메서드. 지정된 함수를 사용하여 새로운 도구 인스턴스를 생성합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.ai/tool/function/
 ---
-## Tool.Function 메서드
+## Tool.Function method
 
-지정된 기능으로 새 도구 인스턴스를 생성합니다.
+지정된 함수를 사용하여 새로운 도구 인스턴스를 생성합니다.
 
 ```csharp
 public static Tool Function(Function function)
@@ -16,15 +16,17 @@ public static Tool Function(Function function)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| function | Function | 모델이 호출할 수 있는 기능입니다. |
+| function | Function | 모델이 호출할 수 있는 함수입니다. |
 
 ### 반환 값
 
-지정된 기능으로 새 도구 인스턴스입니다.
+지정된 함수를 사용한 새로운 도구 인스턴스입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [Function](../../function/)
-* 클래스 [Tool](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Function](../../function/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

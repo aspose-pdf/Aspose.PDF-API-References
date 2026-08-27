@@ -1,7 +1,7 @@
 ---
-title: GoToRemoteAction.GoToRemoteAction
-second_title: Aspose.PDF for .NET API Reference
-description: GoToRemoteAction 생성자. GoToRemoteAction 객체를 초기화합니다.
+title: "GoToRemoteAction.GoToRemoteAction"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "GoToRemoteAction 생성자. GoToRemoteAction 객체를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/gotoremoteaction/gotoremoteaction/
@@ -19,11 +19,11 @@ public GoToRemoteAction(string remotePdf, int remotePageNumber)
 | remotePdf | String | 대상 PDF 문서. |
 | remotePageNumber | Int32 | 대상 페이지 번호. |
 
-### 참조
+### 또 보기
 
-* 클래스 [GoToRemoteAction](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [GoToRemoteAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,11 +38,13 @@ public GoToRemoteAction(string remotePdf, ExplicitDestination destination)
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | remotePdf | String | 대상 PDF 문서. |
-| destination | ExplicitDestination | PDF 문서 내의 목적지. |
+| 대상 | ExplicitDestination | PDF 문서 내의 대상. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ExplicitDestination](../../explicitdestination/)
-* 클래스 [GoToRemoteAction](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ExplicitDestination](../../explicitdestination/)
+* class [GoToRemoteAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

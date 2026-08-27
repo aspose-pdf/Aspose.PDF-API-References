@@ -1,14 +1,14 @@
 ---
-title: Table.ImportDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: Table 메서드. System.Data.DataTable에서 Aspose.Pdf.Table로 데이터를 가져옵니다.
+title: "Table.ImportDataTable"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Table 메서드. System.Data.DataTable에서 Aspose.Pdf.Table로 데이터를 가져옵니다"
 type: docs
 weight: 260
 url: /ko/net/aspose.pdf/table/importdatatable/
 ---
 ## ImportDataTable(DataTable, bool, int, int) {#importdatatable_1}
 
-System.Data.DataTable에서 Aspose.Pdf.Table로 데이터를 가져옵니다.
+System.Data.DataTable의 데이터를 Aspose.Pdf.Table에 가져옵니다.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImported, 
@@ -18,21 +18,21 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImpor
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | importedDataTable | DataTable | System.Data.DataTable의 소스 인스턴스 |
-| isColumnNamesImported | Boolean | 열 이름이 첫 번째 행으로 가져올지 여부를 지정합니다. |
-| firstFilledRow | Int32 | 가져오기를 시작할 대상 테이블의 첫 번째 행의 0 기반 번호를 지정합니다. 해당 번호(및 일부 이전 행)가 대상 테이블에 없으면 먼저 생성됩니다. |
-| firstFilledColumn | Int32 | 대상 테이블의 첫 번째 대상 열 번호를 지정합니다. 가져오기를 시작하기 전에 열이 대상 테이블에 존재해야 합니다. |
+| isColumnNamesImported | Boolean | 열 이름을 첫 번째 행으로 가져올지 여부를 지정합니다 |
+| firstFilledRow | Int32 | 가져오기가 시작될 대상 테이블의 첫 번째 행 번호(0부터 시작)를 지정합니다. 해당 번호의 행(및 이전 행)이 대상 테이블에 없으면 먼저 생성됩니다. |
+| firstFilledColumn | Int32 | 대상 테이블에서 첫 번째 대상 열 번호를 지정합니다. 열은 가져오기를 시작하기 전에 대상 테이블에 존재해야 합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Table](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportDataTable(DataTable, bool, int, byte, int, int, bool) {#importdatatable}
 
-DataTable 객체를 테이블에 가져옵니다.
+DataTable 객체를 표에 가져옵니다.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown, 
@@ -43,24 +43,24 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | importedDataTable | DataTable | 가져올 DataTable 객체입니다. |
-| isColumnNamesShown | Boolean | 소스 데이터 테이블의 열 이름이 첫 번째 행으로 가져올지 여부를 지정합니다. |
-| firstFilledRow | Int32 | 가져오기를 시작할 대상 테이블의 첫 번째 행의 0 기반 번호를 지정합니다. 해당 번호(및 일부 이전 행)가 대상 테이블에 없으면 먼저 생성됩니다. |
-| firstFilledColumn | Byte | 대상 테이블의 첫 번째 대상 열 번호를 지정합니다. 가져오기를 시작하기 전에 열이 대상 테이블에 존재해야 합니다. |
-| maxRows | Int32 | 소스 테이블에서 가져올 최대 행 수입니다. |
-| maxColumns | Int32 | 소스 테이블에서 가져올 최대 열 수입니다. |
+| isColumnNamesShown | Boolean | 소스 데이터테이블의 열 이름을 첫 번째 행으로 가져올지 여부를 지정합니다. |
+| firstFilledRow | Int32 | 가져오기가 시작될 대상 테이블의 첫 번째 행 번호(0부터 시작)를 지정합니다. 해당 번호의 행(및 이전 행)이 대상 테이블에 없으면 먼저 생성됩니다. |
+| firstFilledColumn | Byte | 대상 테이블에서 첫 번째 대상 열 번호를 지정합니다. 열은 가져오기를 시작하기 전에 대상 테이블에 존재해야 합니다. |
+| maxRows | Int32 | 소스 테이블에서 가져올 최대 행 수. |
+| maxColumns | Int32 | 소스 테이블에서 가져올 최대 열 수. |
 | isHtmlSupported | Boolean | 텍스트가 HTML 문자열인지 여부를 지정합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Table](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportDataTable(DataTable, int[], int[], int, int, bool, bool) {#importdatatable_2}
 
-DataTable 객체를 가져오지만 전체 엔터티로 가져오지는 않습니다. 지정된 행과 열만 가져옵니다.
+DataTable 객체를 가져오지만 전체 엔터티로는 가져오지 않습니다. 지정된 행과 열만 가져옵니다.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList, 
@@ -73,13 +73,15 @@ public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList,
 | importedDataTable | DataTable | 가져올 DataTable 객체입니다. |
 | sourceRowList | Int32[] | 가져와야 하는 소스 DataTable 객체의 행 번호 배열입니다. 목록은 null이 아니어야 하며 기존 행 번호만 포함해야 하며, 그렇지 않으면 예외가 발생합니다. |
 | sourceColumnList | Int32[] | 가져와야 하는 소스 DataTable 객체의 열 번호 배열입니다. 목록은 null이 아니어야 하며 기존 열 번호만 포함해야 하며, 그렇지 않으면 예외가 발생합니다. |
-| firstFilledRow | Int32 | 가져오기를 시작할 대상 테이블의 첫 번째 셀의 0 기반 행 번호입니다. 대상 테이블에 해당 행이 없으면 (필요한 경우 모든 이전 행도) 생성됩니다. |
-| firstFilledColumn | Int32 | 가져오기를 시작할 대상 테이블의 첫 번째 셀의 0 기반 열 번호입니다. 가져오기를 시작하기 전에 대상 테이블에 해당 열이 존재해야 하며, 그렇지 않으면 예외가 발생합니다. |
-| showColumnNamesAsFirstRow | Boolean | 소스 데이터 테이블의 열 이름이 첫 번째 행으로 가져올지 여부를 지정합니다. |
+| firstFilledRow | Int32 | 가져오기가 시작될 대상 테이블의 첫 번째 셀의 0부터 시작하는 행 번호입니다. 대상 테이블에 해당 행이 없으면 (필요한 경우 이전 행도) 생성됩니다. |
+| firstFilledColumn | Int32 | 가져오기가 시작될 대상 테이블의 첫 번째 셀의 0부터 시작하는 열 번호입니다. 대상 테이블에 해당 열이 있어야 하며, 없으면 예외가 발생합니다. |
+| showColumnNamesAsFirstRow | Boolean | 소스 DataTable의 열 이름을 첫 번째 행으로 가져올지 여부를 지정합니다. |
 | isHtmlSupported | Boolean | 텍스트가 HTML 문자열인지 여부를 지정합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Table](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

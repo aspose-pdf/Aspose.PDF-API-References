@@ -1,12 +1,12 @@
 ---
-title: TextState.RenderingMode
-second_title: Aspose.PDF for .NET API Reference
-description: TextState 속성. 텍스트의 렌더링 모드를 가져오거나 설정합니다.
+title: "TextState.RenderingMode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextState 속성. 텍스트의 렌더링 모드를 가져오거나 설정합니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf.text/textstate/renderingmode/
 ---
-## TextState.RenderingMode 속성
+## TextState.RenderingMode property
 
 텍스트의 렌더링 모드를 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.text/textstate/renderingmode/
 public virtual TextRenderingMode RenderingMode { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [TextRenderingMode](../../textrenderingmode/)
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class MediaClipData
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MediaClipData 클래스. 클래스는 미디어 클립 데이터를 설명합니다.
+title: "클래스 MediaClipData"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.MediaClipData 클래스. 미디어 클립 데이터를 설명하는 클래스입니다."
 type: docs
-weight: 2080
+weight: 2170
 url: /ko/net/aspose.pdf.annotations/mediaclipdata/
 ---
-## MediaClipData 클래스
+## MediaClipData class
 
-클래스는 미디어 클립 데이터를 설명합니다.
+미디어 클립 데이터를 설명하는 클래스입니다.
 
 ```csharp
 public class MediaClipData : MediaClip
@@ -20,8 +20,10 @@ public class MediaClipData : MediaClip
 | --- | --- |
 | [Data](../../aspose.pdf.annotations/mediaclipdata/data/) { get; } | 실제 미디어 데이터를 포함하는 파일 사양을 반환합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [MediaClip](../mediaclip/)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [MediaClip](../mediaclip/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.GetOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode 메서드. 불투명도를 가져옵니다
+title: "PDF3DRenderMode.GetOpacity"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DRenderMode 메서드. 불투명도를 가져옵니다"
 type: docs
 weight: 200
 url: /ko/net/aspose.pdf.annotations/pdf3drendermode/getopacity/
 ---
-## PDF3DRenderMode.GetOpacity 메서드
+## PDF3DRenderMode.GetOpacity method
 
 불투명도를 가져옵니다.
 
@@ -18,8 +18,10 @@ public double GetOpacity()
 
 System.Double.
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DRenderMode](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

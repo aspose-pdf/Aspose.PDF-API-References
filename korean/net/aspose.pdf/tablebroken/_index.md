@@ -1,14 +1,14 @@
 ---
-title: Enum TableBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TableBroken 열거형. 테이블이 깨진 것을 열거합니다.
+title: "열거형 TableBroken"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.TableBroken 열거형. 테이블 파손을 열거합니다."
 type: docs
-weight: 10290
+weight: 10470
 url: /ko/net/aspose.pdf/tablebroken/
 ---
-## TableBroken 열거형
+## TableBroken enumeration
 
-테이블이 깨진 것을 열거합니다.
+테이블 분할을 열거합니다.
 
 ```csharp
 public enum TableBroken
@@ -18,12 +18,14 @@ public enum TableBroken
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| 없음 | `0` | 깨짐 없음. |
-| 수직 | `1` | 수직으로 깨짐. |
-| 같은 페이지에서 수직 | `2` | 같은 페이지에서 수직으로 깨짐. |
-| 다음 페이지에 있음 | `3` | 다음 페이지로 깨짐. |
+| None | `0` | 파손 없음. |
+| Vertical | `1` | 수직 파손. |
+| VerticalInSamePage | `2` | 같은 페이지 내 수직 파손. |
+| IsInNextPage | `3` | 다음 페이지로 파손. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

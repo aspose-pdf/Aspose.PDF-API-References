@@ -1,12 +1,12 @@
 ---
-title: PDF3DView.CrossSectionsArray
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView 속성. 뷰의 단면 배열을 가져옵니다.
+title: "PDF3DView.CrossSectionsArray"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DView 속성. 보기의 교차 섹션 배열을 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.annotations/pdf3dview/crosssectionsarray/
 ---
-## PDF3DView.CrossSectionsArray 속성
+## PDF3DView.CrossSectionsArray property
 
 뷰의 단면 배열을 가져옵니다.
 
@@ -14,13 +14,15 @@ url: /ko/net/aspose.pdf.annotations/pdf3dview/crosssectionsarray/
 public PDF3DCrossSectionArray CrossSectionsArray { get; }
 ```
 
-### 속성 값
+### Property Value
 
-뷰의 단면 배열입니다.
+보기의 교차 섹션 배열.
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DCrossSectionArray](../../pdf3dcrosssectionarray/)
-* 클래스 [PDF3DView](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DCrossSectionArray](../../pdf3dcrosssectionarray/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

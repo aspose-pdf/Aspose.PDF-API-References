@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary 메서드. CosPdfDictionary에서 모든 항목을 제거합니다.
+title: "CosPdfDictionary.Clear"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CosPdfDictionary 메서드. CosPdfDictionary에서 모든 항목을 제거합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.dataeditor/cospdfdictionary/clear/
 ---
-## CosPdfDictionary.Clear 메서드
+## CosPdfDictionary.Clear method
 
 [`CosPdfDictionary`](../)에서 모든 항목을 제거합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.dataeditor/cospdfdictionary/clear/
 public void Clear()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CosPdfDictionary](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

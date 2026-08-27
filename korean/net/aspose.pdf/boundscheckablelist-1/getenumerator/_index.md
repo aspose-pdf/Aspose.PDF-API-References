@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 메서드. System.Collections.Generic.List를 통해 반복하는 열거자를 반환합니다.
+title: "BoundsCheckableList1.GetEnumerator"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BoundsCheckableList 메서드. System.Collections.Generic.List를 순회하는 열거자를 반환합니다"
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/boundscheckablelist-1/getenumerator/
 ---
-## BoundsCheckableList&lt;T&gt;.GetEnumerator 메서드
+## BoundsCheckableList&lt;T&gt;.GetEnumerator method
 
-System.Collections.Generic.List를 통해 반복하는 열거자를 반환합니다.
+System.Collections.Generic.List를 반복하는 열거자를 반환합니다.
 
 ```csharp
 public IEnumerator<T> GetEnumerator()
@@ -16,10 +16,12 @@ public IEnumerator<T> GetEnumerator()
 
 ### 반환 값
 
-System.Collections.Generic.List에 대한 열거자입니다.
+System.Collections.Generic.List용 열거자.
 
-### 참조
+### 또 보기
 
-* 클래스 [BoundsCheckableList&lt;T&gt;](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

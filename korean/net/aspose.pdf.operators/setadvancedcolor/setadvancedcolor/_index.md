@@ -1,7 +1,7 @@
 ---
-title: SetAdvancedColor.SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetAdvancedColor 생성자. 연산자를 초기화합니다.
+title: "SetAdvancedColor.SetAdvancedColor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetAdvancedColor 생성자. 연산자를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
 public SetAdvancedColor()
 ```
 
-### See Also
+### 또 보기
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,18 +24,18 @@ public SetAdvancedColor()
 
 ## SetAdvancedColor(double, string) {#constructor_4}
 
-scn 연산자를 위한 생성자입니다.
+scn 연산자의 생성자입니다.
 
 ```csharp
 public SetAdvancedColor(double g, string patternName)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | g | Double | 색상 값. |
 | patternName | String | 패턴 이름. |
 
-### See Also
+### 또 보기
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -45,17 +45,17 @@ public SetAdvancedColor(double g, string patternName)
 
 ## SetAdvancedColor(double) {#constructor_1}
 
-scn 연산자를 위한 생성자입니다.
+scn 연산자의 생성자입니다.
 
 ```csharp
 public SetAdvancedColor(double g)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | g | Double | 색상 값. |
 
-### See Also
+### 또 보기
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -65,20 +65,20 @@ public SetAdvancedColor(double g)
 
 ## SetAdvancedColor(double, double, double, string) {#constructor_3}
 
-scn 연산자를 위한 생성자입니다.
+scn 연산자의 생성자입니다.
 
 ```csharp
 public SetAdvancedColor(double r, double g, double b, string patternName)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | r | Double | 색상의 빨간색 구성 요소. |
-| g | Double | 색상의 초록색 구성 요소. |
+| g | Double | 색상의 녹색 구성 요소. |
 | b | Double | 색상의 파란색 구성 요소. |
 | patternName | String | 패턴 이름. |
 
-### See Also
+### 또 보기
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -88,13 +88,13 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 
 ## SetAdvancedColor(double, double, double, double, string) {#constructor_2}
 
-scn 연산자를 위한 생성자입니다.
+scn 연산자의 생성자입니다.
 
 ```csharp
 public SetAdvancedColor(double c, double m, double y, double k, string patternName)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | c | Double | 색상의 시안 구성 요소. |
 | m | Double | 색상의 마젠타 구성 요소. |
@@ -102,7 +102,7 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 | k | Double | 색상의 검은색 구성 요소. |
 | patternName | String | 패턴 이름. |
 
-### See Also
+### 또 보기
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -112,17 +112,17 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 
 ## SetAdvancedColor(string) {#constructor_6}
 
-scn 연산자를 위한 생성자입니다.
+scn 연산자의 생성자입니다.
 
 ```csharp
 public SetAdvancedColor(string patternName)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | patternName | String | 패턴 이름. |
 
-### See Also
+### 또 보기
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -132,19 +132,21 @@ public SetAdvancedColor(string patternName)
 
 ## SetAdvancedColor(double[], string) {#constructor_5}
 
-scn 연산자를 위한 생성자입니다.
+scn 연산자의 생성자입니다.
 
 ```csharp
 public SetAdvancedColor(double[] colors, string patternName)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | patternName | Double[] | 패턴 이름. |
 | colors | String | 색상 배열. |
 
-### See Also
+### 또 보기
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

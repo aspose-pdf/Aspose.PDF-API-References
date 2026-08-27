@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreatePolygon
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. 다각형 주석을 생성합니다.
+title: "PdfContentEditor.CreatePolygon"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. 폴리곤 주석을 생성합니다"
 type: docs
 weight: 230
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/createpolygon/
 ---
-## PdfContentEditor.CreatePolygon 메서드
+## PdfContentEditor.CreatePolygon method
 
 다각형 주석을 생성합니다.
 
@@ -16,10 +16,10 @@ public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, stri
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| lineInfo | LineInfo | LineInfo 클래스의 인스턴스입니다. |
-| page | Int32 | 주석이 생성될 원본 페이지의 번호입니다. |
-| annotRect | Rectangle | 페이지에서 주석의 위치를 정의하는 주석 사각형입니다. |
-| annotContents | String | 주석의 내용입니다. |
+| lineInfo | LineInfo | LineInfo 클래스의 인스턴스. |
+| 페이지 | Int32 | 주석이 생성될 원본 페이지 번호. |
+| annotRect | Rectangle | 주석 사각형은 페이지에서 주석의 위치를 정의합니다. |
+| annotContents | String | 주석의 내용. |
 
 ## 예제
 
@@ -33,9 +33,11 @@ editor.CreatePolygon(lineInfo, 1 , new System.Drawing.Rectangle(0, 0, 0, 0), "We
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [LineInfo](../../lineinfo/)
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

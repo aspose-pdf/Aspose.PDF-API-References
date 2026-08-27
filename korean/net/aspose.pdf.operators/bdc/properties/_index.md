@@ -1,20 +1,22 @@
 ---
-title: BDC.Properties
-second_title: Aspose.PDF for .NET API Reference
-description: BDC 속성.
+title: "BDC.Properties"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BDC 속성."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/bdc/properties/
 ---
-## BDC.Properties 속성
+## BDC.Properties property
 
 ```csharp
 public BDCProperties Properties { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
-* 클래스 [BDC](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

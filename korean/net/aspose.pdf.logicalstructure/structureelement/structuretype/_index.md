@@ -1,12 +1,12 @@
 ---
-title: StructureElement.StructureType
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement 속성. 구조 요소의 유형을 가져옵니다.
+title: "StructureElement.StructureType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureElement 속성. 구조 요소의 유형을 가져옵니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 ---
-## StructureElement.StructureType 속성
+## StructureElement.StructureType property
 
 구조 요소의 유형을 가져옵니다.
 
@@ -14,13 +14,15 @@ url: /ko/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 public StructureTypeStandard StructureType { get; }
 ```
 
-### 속성 값
+### Property Value
 
-구조 요소의 StructureTypeStandard 객체입니다.
+StructureTypeStandard 구조 요소 객체.
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTypeStandard](../../structuretypestandard/)
-* 클래스 [StructureElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../../structuretypestandard/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

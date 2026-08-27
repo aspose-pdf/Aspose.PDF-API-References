@@ -1,14 +1,14 @@
 ---
-title: FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormFlattenSelectedFieldsOptions 생성자. FormFlattenSelectedFieldsOptions 객체의 새 인스턴스를 초기화합니다.
+title: "FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFlattenSelectedFieldsOptions 생성자. FormFlattenSelectedFieldsOptions 객체의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/formflattenselectedfieldsoptions/formflattenselectedfieldsoptions/
 ---
-## FormFlattenSelectedFieldsOptions 생성자
+## FormFlattenSelectedFieldsOptions constructor
 
-[`FormFlattenSelectedFieldsOptions`](../) 객체의 새 인스턴스를 초기화합니다.
+`[`FormFlattenSelectedFieldsOptions`](../)` 객체의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public FormFlattenSelectedFieldsOptions(SelectField selectField)
@@ -18,9 +18,11 @@ public FormFlattenSelectedFieldsOptions(SelectField selectField)
 | --- | --- | --- |
 | selectField | SelectField | 평탄화될 필드를 지정합니다. |
 
-### 참조
+### 또 보기
 
 * delegate [SelectField](../../selectfield/)
 * class [FormFlattenSelectedFieldsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

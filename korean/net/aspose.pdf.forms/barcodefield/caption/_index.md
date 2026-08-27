@@ -1,12 +1,12 @@
 ---
-title: BarcodeField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: BarcodeField 속성. 바코드 객체의 캡션을 가져옵니다.
+title: "BarcodeField.Caption"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BarcodeField 속성. 바코드 객체의 캡션을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.forms/barcodefield/caption/
 ---
-## BarcodeField.Caption 속성
+## BarcodeField.Caption property
 
 바코드 객체의 캡션을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.forms/barcodefield/caption/
 public string Caption { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BarcodeField](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

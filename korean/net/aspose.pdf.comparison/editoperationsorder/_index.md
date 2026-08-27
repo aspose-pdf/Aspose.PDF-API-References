@@ -1,12 +1,12 @@
 ---
-title: Enum EditOperationsOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.EditOperationsOrder 열거형. 편집 작업의 순서를 지정합니다.
+title: "열거형 EditOperationsOrder"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Comparison.EditOperationsOrder 열거형. 편집 작업의 순서를 지정합니다."
 type: docs
-weight: 3180
+weight: 3290
 url: /ko/net/aspose.pdf.comparison/editoperationsorder/
 ---
-## EditOperationsOrder 열거형
+## EditOperationsOrder enumeration
 
 편집 작업의 순서를 지정합니다.
 
@@ -14,14 +14,16 @@ url: /ko/net/aspose.pdf.comparison/editoperationsorder/
 public enum EditOperationsOrder
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| InsertFirst | `0` | 삭제 작업 전에 삽입 작업을 수행합니다. |
-| DeleteFirst | `1` | 삽입 작업 전에 삭제 작업을 수행합니다. |
+| InsertFirst | `0` | 삽입 작업을 삭제 작업보다 먼저 수행합니다. |
+| DeleteFirst | `1` | 삭제 작업을 삽입 작업보다 먼저 수행합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

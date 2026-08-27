@@ -1,12 +1,12 @@
 ---
-title: ITextElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: ITextElement 속성. 텍스트 구조 요소에 대한 StructureTextState 객체를 가져옵니다.
+title: "ITextElement.StructureTextState"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITextElement 속성. 텍스트 구조 요소에 대한 StructureTextState 객체를 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.logicalstructure/itextelement/structuretextstate/
 ---
-## ITextElement.StructureTextState 속성
+## ITextElement.StructureTextState property
 
 텍스트 구조 요소에 대한 StructureTextState 객체를 가져옵니다.
 
@@ -14,13 +14,15 @@ url: /ko/net/aspose.pdf.logicalstructure/itextelement/structuretextstate/
 public StructureTextState StructureTextState { get; }
 ```
 
-### 속성 값
+### Property Value
 
-텍스트 구조 요소에 대한 StructureTextState 객체입니다.
+텍스트 구조 요소에 대한 StructureTextState 객체.
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTextState](../../structuretextstate/)
-* 인터페이스 [ITextElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTextState](../../structuretextstate/)
+* interface [ITextElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

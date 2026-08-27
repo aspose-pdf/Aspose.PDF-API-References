@@ -1,20 +1,22 @@
 ---
-title: XFormPlacement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: XFormPlacement property.
+title: "XFormPlacement.Rectangle"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XFormPlacement 속성."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.vector/xformplacement/rectangle/
 ---
-## XFormPlacement.Rectangle 속성
+## XFormPlacement.Rectangle property
 
 ```csharp
 public override Rectangle Rectangle { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Rectangle](../../../aspose.pdf/rectangle/)
-* 클래스 [XFormPlacement](../)
-* 네임스페이스 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [XFormPlacement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

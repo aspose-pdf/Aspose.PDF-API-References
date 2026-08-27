@@ -1,22 +1,24 @@
 ---
-title: BaseParagraph.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph 속성. PDF 생성을 위한 단락의 외부 여백을 가져오거나 설정합니다.
+title: "BaseParagraph.Margin"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BaseParagraph 속성. 단락의 외부 여백을 가져오거나 설정합니다. PDF 생성용"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/baseparagraph/margin/
 ---
-## BaseParagraph.Margin 속성
+## BaseParagraph.Margin property
 
-PDF 생성을 위한 단락의 외부 여백을 가져오거나 설정합니다.
+단락의 외부 여백을 가져오거나 설정합니다. (pdf 생성용)
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [MarginInfo](../../margininfo/)
-* 클래스 [BaseParagraph](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

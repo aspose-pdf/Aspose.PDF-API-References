@@ -1,12 +1,12 @@
 ---
-title: Delegate Document.CallBackGetHocr
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "델리게이트 Document.CallBackGetHocr"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: 
 type: docs
-weight: 3790
-url: /net/aspose.pdf/document.callbackgethocr/
+weight: 3910
+url: /ko/net/aspose.pdf/document.callbackgethocr/
 ---
-## Document.CallBackGetHocr 대리자
+## Document.CallBackGetHocr delegate
 
 ```csharp
 public delegate string CallBackGetHocr(Image img);
@@ -14,14 +14,16 @@ public delegate string CallBackGetHocr(Image img);
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| img | 이미지 | hocr 이미지. |
+| img | Image | hocr 이미지. |
 
 ### 반환 값
 
 hocr 텍스트.
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../document/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

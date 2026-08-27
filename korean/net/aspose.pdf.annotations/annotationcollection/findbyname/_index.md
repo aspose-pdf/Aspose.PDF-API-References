@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.FindByName
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection 메서드. 이름으로 주석을 반환합니다.
+title: "AnnotationCollection.FindByName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AnnotationCollection 메서드. 이름으로 주석을 반환합니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.annotations/annotationcollection/findbyname/
 ---
-## AnnotationCollection.FindByName 메서드
+## AnnotationCollection.FindByName method
 
 이름으로 주석을 반환합니다.
 
@@ -16,15 +16,17 @@ public Annotation FindByName(string name)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| name | String | 주석의 이름 |
+| 이름 | String | 주석의 이름 |
 
 ### 반환 값
 
-찾으면 Annotation 객체; 그렇지 않으면 null.
+주석 객체가 있으면 반환하고, 없으면 null.
 
-### 참조
+### 또 보기
 
-* 클래스 [Annotation](../../annotation/)
-* 클래스 [AnnotationCollection](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

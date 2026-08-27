@@ -1,12 +1,12 @@
 ---
-title: GraphicalPdfComparer.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer 속성. 결과 이미지의 해상도를 가져오고 설정합니다. 기본값은 150dpi입니다.
+title: "GraphicalPdfComparer.Resolution"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "GraphicalPdfComparer 속성. 결과 이미지의 해상도를 가져오고 설정합니다. 기본값은 150dpi입니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.comparison/graphicalpdfcomparer/resolution/
 ---
-## GraphicalPdfComparer.Resolution 속성
+## GraphicalPdfComparer.Resolution property
 
 결과 이미지의 해상도를 가져오고 설정합니다. 기본값은 150dpi입니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.comparison/graphicalpdfcomparer/resolution/
 public Resolution Resolution { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

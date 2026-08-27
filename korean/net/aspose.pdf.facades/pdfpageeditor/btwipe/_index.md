@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.BTWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 필드. BottomTop Wipe
+title: "PdfPageEditor.BTWIPE"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfPageEditor 필드. 아래위 와이프"
 type: docs
 weight: 210
 url: /ko/net/aspose.pdf.facades/pdfpageeditor/btwipe/
 ---
-## PdfPageEditor.BTWIPE 필드
+## PdfPageEditor.BTWIPE field
 
-Bottom-Top Wipe
+하단-상단 와이프
 
 ```csharp
 public const int BTWIPE;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfPageEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

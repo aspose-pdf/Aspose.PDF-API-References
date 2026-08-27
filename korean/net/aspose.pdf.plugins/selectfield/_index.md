@@ -1,19 +1,21 @@
 ---
-title: Delegate SelectField
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "SelectField 대리자"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: 
 type: docs
-weight: 9240
-url: /net/aspose.pdf.plugins/selectfield/
+weight: 9390
+url: /ko/net/aspose.pdf.plugins/selectfield/
 ---
-## SelectField 위임
+## SelectField delegate
 
 ```csharp
 public delegate bool SelectField(Field field);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Field](../../aspose.pdf.forms/field/)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Field](../../aspose.pdf.forms/field/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

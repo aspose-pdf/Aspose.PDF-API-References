@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.GetSchemaXml
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema 메서드. XML 트리에서 스키마를 나타내는 XML 요소 태그 li를 반환합니다.
+title: "XmpPdfAExtensionSchema.GetSchemaXml"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpPdfAExtensionSchema 메서드. 스키마를 XML 트리에서 나타내는 xml 요소 태그 li를 반환합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/xmppdfaextensionschema/getschemaxml/
 ---
-## XmpPdfAExtensionSchema.GetSchemaXml 메서드
+## XmpPdfAExtensionSchema.GetSchemaXml method
 
-XML 트리에서 스키마를 나타내는 XML 요소(태그 - li)를 반환합니다.
+XML 트리에서 스키마를 나타내는 xml 요소(tag - li)를 반환합니다.
 
 ```csharp
 public XmlElement GetSchemaXml(XmlDocument xmlDocument)
@@ -16,14 +16,16 @@ public XmlElement GetSchemaXml(XmlDocument xmlDocument)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | 원본 XML 문서입니다. |
+| xmlDocument | XmlDocument | 소스 xml 문서. |
 
 ### 반환 값
 
 XML 요소입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpPdfAExtensionSchema](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

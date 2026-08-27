@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.BoundsCheckableList
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 생성자. BoundsCheckableList 클래스의 새 인스턴스를 초기화합니다.
+title: "BoundsCheckableList1.BoundsCheckableList"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BoundsCheckableList 생성자. BoundsCheckableList 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/boundscheckablelist-1/boundscheckablelist/
@@ -14,11 +14,11 @@ BoundsCheckableList 클래스의 새 인스턴스를 초기화합니다.
 public BoundsCheckableList()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BoundsCheckableList&lt;T&gt;](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -33,13 +33,15 @@ public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidt
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode | 경계 검사 모드입니다. |
+| boundsCheckMode | BoundsCheckMode | 경계 cCheck 모드. |
 | containerWidth | Double | 컨테이너 너비입니다. |
 | containerHeight | Double | 컨테이너 높이입니다. |
 
-### 참조
+### 또 보기
 
-* 열거형 [BoundsCheckMode](../../boundscheckmode/)
-* 클래스 [BoundsCheckableList&lt;T&gt;](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [BoundsCheckMode](../../boundscheckmode/)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

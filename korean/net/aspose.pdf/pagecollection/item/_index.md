@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection 속성. 인덱스로 페이지를 가져옵니다.
+title: "PageCollection.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageCollection 속성. 인덱스로 페이지를 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/pagecollection/item/
 ---
-## PageCollection 인덱서
+## PageCollection indexer
 
 인덱스로 페이지를 가져옵니다.
 
@@ -16,15 +16,17 @@ public Page this[int index] { get; }
 
 | 매개변수 | 설명 |
 | --- | --- |
-| index | 페이지의 인덱스. |
+| index | 페이지 인덱스입니다. |
 
 ### 반환 값
 
-가져온 페이지.
+검색된 페이지입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../../page/)
-* 클래스 [PageCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

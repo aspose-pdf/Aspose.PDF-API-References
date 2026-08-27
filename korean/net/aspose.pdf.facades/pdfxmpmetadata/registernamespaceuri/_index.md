@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.RegisterNamespaceURI
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata 메서드. 네임스페이스 URI를 등록합니다.
+title: "PdfXmpMetadata.RegisterNamespaceURI"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfXmpMetadata 메서드. 네임스페이스 URI를 등록합니다."
 type: docs
 weight: 200
 url: /ko/net/aspose.pdf.facades/pdfxmpmetadata/registernamespaceuri/
 ---
-## PdfXmpMetadata.RegisterNamespaceURI 메서드
+## PdfXmpMetadata.RegisterNamespaceURI method
 
-네임스페이스 URI를 등록합니다.
+namespace URI를 등록합니다.
 
 ```csharp
 public void RegisterNamespaceURI(string prefix, string namespaceURI)
@@ -16,8 +16,8 @@ public void RegisterNamespaceURI(string prefix, string namespaceURI)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| prefix | 문자열 | 접두사. |
-| namespaceURI | 문자열 | 네임스페이스 URI. |
+| prefix | String | 접두사입니다. |
+| namespaceURI | String | 네임스페이스 URI입니다. |
 
 ## 예제
 
@@ -26,8 +26,10 @@ PdfXmpMetadata xmp = new PdfXmpMetadata("input.pdf");
 xmp.RegisterNamespaceURI("xmp", "http://ns.adobe.com/xap/1.0/");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfXmpMetadata](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

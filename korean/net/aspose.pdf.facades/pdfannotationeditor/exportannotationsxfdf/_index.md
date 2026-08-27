@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.ExportAnnotationsXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 메서드. 지정된 주석 유형의 내용을 XFDF로 내보냅니다.
+title: "PdfAnnotationEditor.ExportAnnotationsXfdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAnnotationEditor 메서드. 지정된 주석 유형의 내용을 XFDF로 내보냅니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/
@@ -19,7 +19,7 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, st
 | xmlOutputStream | Stream | 출력 XFDF 스트림입니다. |
 | start | Int32 | 문서의 주석이 내보내질 시작 페이지입니다. |
 | end | Int32 | 문서의 주석이 내보내질 종료 페이지입니다. |
-| annotTypes | String[] | 내보내야 할 주석 유형의 배열입니다. |
+| annotTypes | String[] | 내보낼 주석 유형의 배열입니다. |
 
 ## 예제
 
@@ -33,11 +33,11 @@ using (Stream stream = File.Create("example.xfdf"))
 }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfAnnotationEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -55,7 +55,7 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end,
 | xmlOutputStream | Stream | 출력 XFDF 스트림입니다. |
 | start | Int32 | 문서의 주석이 내보내질 시작 페이지입니다. |
 | end | Int32 | 문서의 주석이 내보내질 종료 페이지입니다. |
-| annotTypes | AnnotationType[] | 내보내야 할 주석 유형의 배열입니다. |
+| annotTypes | AnnotationType[] | 내보낼 주석 유형의 배열입니다. |
 
 ## 예제
 
@@ -69,9 +69,11 @@ using (Stream stream = File.Create("example.xfdf"))
 }
 ```
 
-### 참조
+### 또 보기
 
-* 열거형 [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* 클래스 [PdfAnnotationEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

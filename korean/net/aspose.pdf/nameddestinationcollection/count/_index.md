@@ -1,21 +1,23 @@
 ---
-title: NamedDestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestinationCollection 속성. 명명된 목적지의 수
+title: "NamedDestinationCollection.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "NamedDestinationCollection 속성. 명명된 목적지의 개수"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/nameddestinationcollection/count/
 ---
-## NamedDestinationCollection.Count 속성
+## NamedDestinationCollection.Count property
 
-명명된 목적지의 수입니다.
+명명된 목적지의 수.
 
 ```csharp
 public int Count { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [NamedDestinationCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

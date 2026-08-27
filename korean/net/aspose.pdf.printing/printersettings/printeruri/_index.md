@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrinterUri
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings 속성. 네트워크 프린터의 URI를 가져오거나 설정합니다.
+title: "PrinterSettings.PrinterUri"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PrinterSettings 속성. 네트워크 프린터의 URI를 가져오거나 설정합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.printing/printersettings/printeruri/
 ---
-## PrinterSettings.PrinterUri 속성
+## PrinterSettings.PrinterUri property
 
 네트워크 프린터의 URI를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.printing/printersettings/printeruri/
 public Uri PrinterUri { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PrinterSettings](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

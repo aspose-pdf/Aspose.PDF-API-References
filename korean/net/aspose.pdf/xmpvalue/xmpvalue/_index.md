@@ -1,7 +1,7 @@
 ---
-title: XmpValue.XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 생성자. 문자열 값에 대한 생성자
+title: "XmpValue.XmpValue"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpValue 생성자. 문자열 값에 대한 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/xmpvalue/xmpvalue/
@@ -16,13 +16,13 @@ public XmpValue(string value)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | String | 문자열 값. |
+| 값 | String | 문자열 값. |
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpValue](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,13 +36,13 @@ public XmpValue(int value)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | Int32 | 정수 값. |
+| 값 | Int32 | 정수 값. |
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpValue](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -56,13 +56,13 @@ public XmpValue(double value)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | Double | 더블 값. |
+| 값 | Double | Double 값. |
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpValue](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -76,13 +76,13 @@ public XmpValue(DateTime value)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | DateTime | 날짜 시간 값. |
+| 값 | DateTime | 날짜 및 시간 값. |
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpValue](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -96,10 +96,12 @@ public XmpValue(XmpValue[] array)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| array | XmpValue[] | 배열 값. |
+| 배열 | XmpValue[] | 배열 값. |
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpValue](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

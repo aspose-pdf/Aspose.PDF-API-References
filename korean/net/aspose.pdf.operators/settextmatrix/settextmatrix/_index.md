@@ -1,7 +1,7 @@
 ---
-title: SetTextMatrix.SetTextMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextMatrix 생성자. 연산자를 초기화합니다.
+title: "SetTextMatrix.SetTextMatrix"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetTextMatrix 생성자. 연산자를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/settextmatrix/settextmatrix/
@@ -23,17 +23,17 @@ public SetTextMatrix(double a, double b, double c, double d, double e, double f)
 | e | Double | E 계수 |
 | f | Double | F 계수 |
 
-### 참조
+### 또 보기
 
-* 클래스 [SetTextMatrix](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetTextMatrix(Matrix) {#constructor}
 
-행렬로 연산자를 초기화합니다.
+Matrix로 연산자를 초기화합니다.
 
 ```csharp
 public SetTextMatrix(Matrix m)
@@ -43,9 +43,11 @@ public SetTextMatrix(Matrix m)
 | --- | --- | --- |
 | m | Matrix | 변환 행렬. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Matrix](../../../aspose.pdf/matrix/)
-* 클래스 [SetTextMatrix](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

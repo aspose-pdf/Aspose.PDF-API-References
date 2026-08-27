@@ -1,12 +1,12 @@
 ---
-title: AbsorbedRow.CellList
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedRow 속성. 행의 셀을 포함하는 읽기 전용 IList를 가져옵니다.
+title: "AbsorbedRow.CellList"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AbsorbedRow 속성. 행의 셀을 포함하는 읽기 전용 IList를 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.text/absorbedrow/celllist/
 ---
-## AbsorbedRow.CellList 속성
+## AbsorbedRow.CellList property
 
 행의 셀을 포함하는 읽기 전용 IList를 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.text/absorbedrow/celllist/
 public IList<AbsorbedCell> CellList { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AbsorbedCell](../../absorbedcell/)
-* 클래스 [AbsorbedRow](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AbsorbedCell](../../absorbedcell/)
+* class [AbsorbedRow](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

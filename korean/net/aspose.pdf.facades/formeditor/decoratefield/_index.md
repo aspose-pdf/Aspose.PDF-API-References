@@ -1,7 +1,7 @@
 ---
-title: FormEditor.DecorateField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 메서드. 지정된 필드의 시각적 속성을 변경합니다.
+title: "FormEditor.DecorateField"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor 메서드. 지정된 필드의 시각적 속성을 변경합니다."
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf.facades/formeditor/decoratefield/
@@ -16,7 +16,7 @@ public void DecorateField(string fieldName)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fieldName | String | 완전한 필드 이름입니다. |
+| fieldName | String | 전체 한정된 필드 이름. |
 
 ## 예제
 
@@ -30,17 +30,17 @@ fe.Facade.Alignment = FormFieldFacade.AlignCenter;
 fe.DecorateField("textField");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DecorateField(FieldType) {#decoratefield_1}
 
-지정된 필드 유형의 모든 필드의 시각적 속성을 변경합니다.
+지정된 필드 유형을 가진 모든 필드의 시각적 속성을 변경합니다.
 
 ```csharp
 public void DecorateField(FieldType fieldType)
@@ -48,7 +48,7 @@ public void DecorateField(FieldType fieldType)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fieldType | FieldType | 장식될 필드의 유형입니다. |
+| fieldType | FieldType | 데코레이션될 필드의 유형. |
 
 ## 예제
 
@@ -59,22 +59,22 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all text fields.
+//모든 텍스트 필드를 데코레이션합니다.
 fe.DecorateField(FieldType.Text);
 ```
 
-### 참조
+### 또 보기
 
-* 열거형 [FieldType](../../fieldtype/)
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [FieldType](../../fieldtype/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DecorateField() {#decoratefield}
 
-PDF 문서의 모든 필드의 시각적 속성을 변경합니다.
+PDF 문서의 모든 필드에 대한 시각적 속성을 변경합니다.
 
 ```csharp
 public void DecorateField()
@@ -89,12 +89,14 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all fields.
+//모든 필드를 데코레이션합니다.
 fe.DecorateField();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

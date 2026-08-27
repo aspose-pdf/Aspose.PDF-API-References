@@ -1,12 +1,12 @@
 ---
-title: GradientAxialShading.Start
-second_title: Aspose.PDF for .NET API Reference
-description: GradientAxialShading 속성. 시작점을 가져오거나 설정합니다.
+title: "GradientAxialShading.Start"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "GradientAxialShading 속성. 시작점을 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.drawing/gradientaxialshading/start/
 ---
-## GradientAxialShading.Start 속성
+## GradientAxialShading.Start property
 
 시작점을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.drawing/gradientaxialshading/start/
 public Point Start { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Point](../../../aspose.pdf/point/)
 * class [GradientAxialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

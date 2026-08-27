@@ -1,21 +1,23 @@
 ---
-title: FileFontSource.FilePath
-second_title: Aspose.PDF for .NET API Reference
-description: FileFontSource 속성. 글꼴 파일에 대한 경로
+title: "FileFontSource.FilePath"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FileFontSource 속성. 폰트 파일의 경로"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.text/filefontsource/filepath/
 ---
-## FileFontSource.FilePath 속성
+## FileFontSource.FilePath property
 
-글꼴 파일에 대한 경로.
+글꼴 파일의 경로입니다.
 
 ```csharp
 public string FilePath { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FileFontSource](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Rows.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Rows 메서드. 컬렉션에 행 추가
+title: "Rows.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Rows 메서드. 컬렉션에 행을 추가합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/rows/add/
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf/rows/add/
 public Row Add()
 ```
 
-### Return Value
+### 반환 값
 
-새로운 행
+새 행
 
-### See Also
+### 또 보기
 
 * class [Row](../../row/)
 * class [Rows](../)
@@ -35,13 +35,15 @@ public Row Add()
 public void Add(Row row)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| row | Row | 새로운 행. |
+| 행 | 행 | 새 행. |
 
-### See Also
+### 또 보기
 
 * class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

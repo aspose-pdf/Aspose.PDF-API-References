@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.Xfdf
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction 필드. 설정된 경우 필드 이름과 값은 XFDF로 제출됩니다.
+title: "SubmitFormAction.Xfdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SubmitFormAction 필드. 설정하면 필드 이름과 값이 XFDF 형식으로 전송됩니다"
 type: docs
 weight: 160
 url: /ko/net/aspose.pdf.annotations/submitformaction/xfdf/
 ---
-## SubmitFormAction.Xfdf 필드
+## SubmitFormAction.Xfdf field
 
-설정된 경우 필드 이름과 값은 XFDF로 제출됩니다.
+설정된 경우, 필드 이름과 값은 XFDF 형식으로 제출되어야 합니다.
 
 ```csharp
 public const int Xfdf;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SubmitFormAction](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

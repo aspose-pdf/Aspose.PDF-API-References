@@ -1,12 +1,12 @@
 ---
-title: PageInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo 메서드. 페이지 정보 복제
+title: "PageInfo.Clone"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageInfo 메서드. 페이지 정보를 복제합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/pageinfo/clone/
 ---
-## PageInfo.Clone 메서드
+## PageInfo.Clone method
 
 페이지 정보를 복제합니다.
 
@@ -18,8 +18,10 @@ public object Clone()
 
 복제된 객체
 
-### 참조
+### 또 보기
 
-* 클래스 [PageInfo](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

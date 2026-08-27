@@ -1,12 +1,12 @@
 ---
-title: TextDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: TextDevice 메서드. 페이지를 변환하고 텍스트 스트림으로 저장합니다.
+title: "TextDevice.Process"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextDevice 메서드. 페이지를 변환하고 텍스트 스트림으로 저장합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.devices/textdevice/process/
 ---
-## TextDevice.Process 메서드
+## TextDevice.Process method
 
 페이지를 변환하고 텍스트 스트림으로 저장합니다.
 
@@ -16,7 +16,7 @@ public override void Process(Page page, Stream output)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 변환할 페이지. |
+| 페이지 | 페이지 | 변환할 페이지. |
 | output | Stream | 결과 스트림. |
 
 ## 예제
@@ -29,21 +29,23 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-    // create text device
+    // 텍스트 장치를 생성합니다
     TextDevice device = new TextDevice();
 
-    // convert the page and save text to the stream
+    // 페이지를 변환하고 텍스트를 스트림에 저장합니다
     device.Process(doc.Pages[1], ms);
 
-    // use the extracted text
+    // 추출된 텍스트를 사용합니다
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../../../aspose.pdf/page/)
-* 클래스 [TextDevice](../)
-* 네임스페이스 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

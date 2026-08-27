@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.AddDocumentAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. 주석 없이 문서 첨부파일을 추가합니다.
+title: "PdfContentEditor.AddDocumentAttachment"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. 주석 없이 문서 첨부 파일을 추가합니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
 ---
 ## AddDocumentAttachment(string, string) {#adddocumentattachment_1}
 
-주석 없이 문서 첨부파일을 추가합니다.
+주석 없이 문서 첨부 파일을 추가합니다.
 
 ```csharp
 public void AddDocumentAttachment(string fileAttachmentPath, string description)
@@ -16,7 +16,7 @@ public void AddDocumentAttachment(string fileAttachmentPath, string description)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fileAttachmentPath | String | 첨부할 파일의 경로입니다. |
+| fileAttachmentPath | String | 첨부될 파일의 경로입니다. |
 | description | String | 설명 정보입니다. |
 
 ## 예제
@@ -28,7 +28,7 @@ editor.AddDocumentAttachment("attachment_file.pdf", "description of attachment_f
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -38,7 +38,7 @@ editor.Save("example_out.pdf");
 
 ## AddDocumentAttachment(Stream, string, string) {#adddocumentattachment}
 
-주석 없이 문서 첨부파일을 추가합니다.
+주석 없이 문서 첨부 파일을 추가합니다.
 
 ```csharp
 public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttachmentName, 
@@ -47,8 +47,8 @@ public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttach
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fileAttachmentStream | Stream | 첨부할 파일의 스트림입니다. |
-| fileAttachmentName | String | 첨부파일 이름입니다. |
+| fileAttachmentStream | Stream | 파일 스트림이 첨부됩니다. |
+| fileAttachmentName | String | 첨부 파일 이름입니다. |
 | description | String | 설명 정보입니다. |
 
 ## 예제
@@ -63,8 +63,10 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }    
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormFlattener 클래스. FormFlattener 플러그인을 나타냅니다.
+title: "클래스 FormFlattener"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.FormFlattener 클래스. FormFlattener 플러그인을 나타냅니다."
 type: docs
-weight: 8750
+weight: 8880
 url: /ko/net/aspose.pdf.plugins/formflattener/
 ---
-## FormFlattener 클래스
+## FormFlattener class
 
 FormFlattener 플러그인을 나타냅니다.
 
@@ -18,7 +18,7 @@ public sealed class FormFlattener : IPlugin
 
 | 이름 | 설명 |
 | --- | --- |
-| [FormFlattener](formflattener/)() | 기본 생성자입니다. |
+| [FormFlattener](formflattener/)() | 기본 생성자. |
 
 ## 메서드
 
@@ -26,8 +26,10 @@ public sealed class FormFlattener : IPlugin
 | --- | --- |
 | [Process](../../aspose.pdf.plugins/formflattener/process/)(IPluginOptions) | 지정된 매개변수로 FormFlattener 처리를 시작합니다. |
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IPlugin](../iplugin/)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

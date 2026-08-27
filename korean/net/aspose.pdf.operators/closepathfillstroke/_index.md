@@ -1,14 +1,14 @@
 ---
-title: Class ClosePathFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ClosePathFillStroke 클래스. 비영점 감싸기 규칙으로 경로를 닫고 채우고 그리는 b 연산자를 나타내는 클래스
+title: "클래스 ClosePathFillStroke"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Operators.ClosePathFillStroke 클래스. b 연산자를 사용하여 채우기와 스트로크 경로를 비제로 winding 규칙으로 닫는 것을 나타내는 클래스"
 type: docs
-weight: 7210
+weight: 7350
 url: /ko/net/aspose.pdf.operators/closepathfillstroke/
 ---
-## ClosePathFillStroke 클래스
+## ClosePathFillStroke class
 
-비영점 감싸기 규칙으로 경로를 닫고 채우고 그리는 b 연산자를 나타내는 클래스입니다.
+b 연산자를 나타내는 클래스 (nonzer winding rule를 사용하여 경로를 닫고, 채우고, 스트로크).
 
 ```csharp
 public class ClosePathFillStroke : Operator
@@ -24,7 +24,7 @@ public class ClosePathFillStroke : Operator
 
 | 이름 | 설명 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | 페이지 연산자 목록에서 연산자 인덱스입니다. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page 연산자 목록에서 연산자 인덱스입니다. |
 
 ## 메서드
 
@@ -34,8 +34,10 @@ public class ClosePathFillStroke : Operator
 | override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring/)() | 연산자의 문자열 표현을 반환합니다. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 이 인스턴스를 주어진 객체와 비교합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Operator](../../aspose.pdf/operator/)
-* 네임스페이스 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

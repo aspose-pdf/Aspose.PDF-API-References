@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.A3
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. A3 용지 297 mm x 420 mm
+title: "PaperSizes.A3"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. A3 용지 297 mm × 420 mm"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.printing/papersizes/a3/
 ---
-## PaperSizes.A3 필드
+## PaperSizes.A3 field
 
-A3 용지 (297 mm x 420 mm).
+A3 용지 (297 mm × 420 mm).
 
 ```csharp
 public static readonly PaperSize A3;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

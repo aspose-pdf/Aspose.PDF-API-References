@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection 속성. Aspose.Pdf.Annotations.AnnotationCollection에 대한 접근을 동기화하는 데 사용할 수 있는 객체를 가져옵니다.
+title: "AnnotationCollection.SyncRoot"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AnnotationCollection 속성. Aspose.Pdf.Annotations.AnnotationCollection에 대한 액세스를 동기화하는 데 사용할 수 있는 개체를 가져옵니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.annotations/annotationcollection/syncroot/
 ---
-## AnnotationCollection.SyncRoot 속성
+## AnnotationCollection.SyncRoot property
 
 Aspose.Pdf.Annotations.AnnotationCollection에 대한 접근을 동기화하는 데 사용할 수 있는 객체를 가져옵니다.
 
@@ -14,8 +14,10 @@ Aspose.Pdf.Annotations.AnnotationCollection에 대한 접근을 동기화하는 
 public object SyncRoot { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AnnotationCollection](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

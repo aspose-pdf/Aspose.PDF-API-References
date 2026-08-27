@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.HideStampById
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. 스탬프를 숨깁니다. 스탬프를 숨긴 후에는 ShowStampById 메서드를 사용하여 스탬프 가시성을 복원할 수 있습니다.
+title: "PdfContentEditor.HideStampById"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. 스탬프를 숨깁니다. 스탬프를 숨긴 후에는 ShowStampById 메서드로 가시성을 복원할 수 있습니다."
 type: docs
 weight: 400
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/hidestampbyid/
 ---
-## PdfContentEditor.HideStampById 메서드
+## PdfContentEditor.HideStampById method
 
-스탬프를 숨깁니다. 숨긴 후에는 ShowStampById 메서드를 사용하여 스탬프 가시성을 복원할 수 있습니다.
+스탬프를 숨깁니다. 숨긴 후에는 ShowStampById 메서드로 스탬프 가시성을 복원할 수 있습니다.
 
 ```csharp
 public void HideStampById(int pageNumber, int stampId)
@@ -19,8 +19,10 @@ public void HideStampById(int pageNumber, int stampId)
 | pageNumber | Int32 | 페이지 번호. |
 | stampId | Int32 | 숨겨야 할 스탬프의 식별자. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

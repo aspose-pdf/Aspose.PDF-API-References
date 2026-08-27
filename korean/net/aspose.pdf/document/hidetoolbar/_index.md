@@ -1,12 +1,12 @@
 ---
-title: Document.HideToolBar
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 문서가 활성화될 때 툴바를 숨길지 여부를 지정하는 플래그를 가져오거나 설정합니다.
+title: "Document.HideToolBar"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. 문서가 활성화될 때 툴바를 숨길지 여부를 지정하는 플래그를 가져오거나 설정합니다."
 type: docs
-weight: 240
+weight: 260
 url: /ko/net/aspose.pdf/document/hidetoolbar/
 ---
-## Document.HideToolBar 속성
+## Document.HideToolBar property
 
 문서가 활성화될 때 툴바를 숨길지 여부를 지정하는 플래그를 가져오거나 설정합니다.
 
@@ -23,8 +23,10 @@ Document document = new Document("sample.pdf");
 bool value = document.HideToolBar;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

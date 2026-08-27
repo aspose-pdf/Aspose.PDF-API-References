@@ -1,21 +1,23 @@
 ---
-title: Element.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: Element 속성. 선택적 PDF 1.4 구조 요소의 모든 텍스트에 대한 자연어를 지정하는 언어로, 중첩 구조 요소 또는 표시된 콘텐츠에 대한 언어 사양으로 재정의되지 않는 한 적용됩니다.
+title: "Element.Lang"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Element 속성. 선택 사항 PDF 1.4 구조 요소 내 모든 텍스트의 자연어를 지정하는 언어(중첩 구조 요소나 표시된 콘텐츠에 대한 언어 지정에 의해 재정의되지 않는 경우)"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.structure/element/lang/
 ---
-## Element.Lang 속성
+## Element.Lang property
 
-(선택적; PDF 1.4) 중첩 구조 요소 또는 표시된 콘텐츠에 대한 언어 사양으로 재정의되지 않는 한 구조 요소의 모든 텍스트에 대한 자연어를 지정하는 언어입니다.
+(Optional; PDF 1.4) 구조 요소 내 모든 텍스트에 대한 자연어를 지정하는 언어(중첩 구조 요소나 표시된 콘텐츠에 대한 언어 지정으로 재정의되지 않은 경우).
 
 ```csharp
 public virtual string Lang { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Element](../)
-* 네임스페이스 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

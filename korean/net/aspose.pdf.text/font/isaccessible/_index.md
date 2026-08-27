@@ -1,14 +1,14 @@
 ---
-title: Font.IsAccessible
-second_title: Aspose.PDF for .NET API Reference
-description: 글꼴 속성. 시스템에 글꼴이 설치되어 있는지 여부를 나타냅니다.
+title: "Font.IsAccessible"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Font 속성. 시스템에 글꼴이 설치되어 있는지 여부를 나타냅니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.text/font/isaccessible/
 ---
-## Font.IsAccessible 속성
+## Font.IsAccessible property
 
-시스템에 글꼴이 존재하는지(설치되어 있는지) 여부를 나타냅니다.
+시스템에 글꼴이 존재(설치)하는지 여부를 가져옵니다.
 
 ```csharp
 public bool IsAccessible { get; }
@@ -16,31 +16,33 @@ public bool IsAccessible { get; }
 
 ## 비고
 
-시스템에서 찾을 수 없는 글꼴로는 일부 작업을 수행할 수 없습니다.
+시스템에서 찾을 수 없는 글꼴에 대해서는 일부 작업을 사용할 수 없습니다.
 
 ## 예제
 
-이 예제는 첫 번째 페이지에서 텍스트를 검색하고 시스템에 글꼴이 설치되어 있는지 여부를 나타내는 값을 가져오는 방법을 보여줍니다.
+이 예제는 첫 페이지에서 텍스트를 검색하고 글꼴이 시스템에 설치되어 있는지 여부를 나타내는 값을 가져오는 방법을 보여줍니다.
 
 ```csharp
-// Open document
+// 문서 열기
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// \"hello world\" 텍스트 발생을 모두 찾기 위해 TextFragmentAbsorber 객체를 생성합니다.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 첫 번째 페이지에 대해 흡수기를 적용합니다.
 doc.Pages[1].Accept(absorber);
 
-// View font's IsSubset value of first text occurrence
+// 첫 번째 텍스트 발생의 글꼴 IsSubset 값을 확인합니다.
 if(absorber.TextFragments[1].TextState.Font.IsAccessible)
    Console.Out.WriteLine("the font is installed in the system");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextFragmentAbsorber](../../textfragmentabsorber/)
-* 클래스 [Document](../../../aspose.pdf/document/)
-* 클래스 [Font](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

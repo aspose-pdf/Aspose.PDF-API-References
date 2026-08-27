@@ -1,21 +1,23 @@
 ---
-title: BasicSetColorOperator.Gray
-second_title: Aspose.PDF for .NET API Reference
-description: BasicSetColorOperator 속성. 회색의 검은색 구성 요소를 가져옵니다.
+title: "BasicSetColorOperator.Gray"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BasicSetColorOperator 속성. 회색 색상의 검은색 구성 요소를 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.operators/basicsetcoloroperator/gray/
 ---
-## BasicSetColorOperator.Gray 속성
+## BasicSetColorOperator.Gray property
 
-회색의 검은색 구성 요소를 가져옵니다.
+gray Color의 검은색 구성 요소를 가져옵니다.
 
 ```csharp
 public double Gray { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BasicSetColorOperator](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

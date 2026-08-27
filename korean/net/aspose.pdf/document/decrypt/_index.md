@@ -1,14 +1,14 @@
 ---
-title: Document.Decrypt
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 메서드. 문서를 복호화합니다. 복호화된 문서 버전을 얻으려면 저장을 호출하십시오.
+title: "Document.Decrypt"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 메서드. 문서를 복호화합니다. 그런 다음 Save를 호출하여 복호화된 문서 버전을 얻습니다."
 type: docs
-weight: 600
+weight: 620
 url: /ko/net/aspose.pdf/document/decrypt/
 ---
-## Document.Decrypt 메서드
+## Document.Decrypt method
 
-문서를 복호화합니다. 복호화된 문서 버전을 얻으려면 저장을 호출하십시오.
+문서를 복호화합니다. 그런 다음 Save를 호출하여 복호화된 문서 버전을 얻습니다.
 
 ```csharp
 public void Decrypt()
@@ -20,16 +20,16 @@ public void Decrypt()
 
 ```csharp
 [C#]
-	// The path to your PDF File.
+	// PDF File의 경로입니다.
 	string pdfFilePath = "YOUR_PDF_FILE_PATH";
 
-	// Open document
+	// 문서 열기
 	using (Document document = new Document(pdfFilePath, "YOUR_PASSWORD"))
 	{
-		// Decrypt PDF
+		// PDF 복호화
 		document.Decrypt();
 
-		// Save updated PDF
+		// 업데이트된 PDF 저장
 		document.Save(pdfFilePath);
 	}
 ```
@@ -51,8 +51,10 @@ public void Decrypt()
     End Using
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

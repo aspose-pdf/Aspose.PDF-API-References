@@ -1,21 +1,23 @@
 ---
-title: PdfFileInfo.UseStrictValidation
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 속성. IsPdfFile 속성을 사용하여 엄격한 검증 규칙을 사용합니다.
+title: "PdfFileInfo.UseStrictValidation"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileInfo 속성. IsPdfFile 속성을 사용하여 엄격한 검증 규칙을 적용합니다."
 type: docs
 weight: 180
 url: /ko/net/aspose.pdf.facades/pdffileinfo/usestrictvalidation/
 ---
-## PdfFileInfo.UseStrictValidation 속성
+## PdfFileInfo.UseStrictValidation property
 
-[`IsPdfFile`](../ispdffile/) 속성을 사용하여 엄격한 검증 규칙을 사용합니다.
+[`IsPdfFile`](../ispdffile/) 속성을 사용하여 엄격한 검증 규칙을 적용합니다.
 
 ```csharp
 public bool UseStrictValidation { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileInfo](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

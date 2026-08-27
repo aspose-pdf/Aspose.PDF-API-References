@@ -1,12 +1,12 @@
 ---
-title: Annotation.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: 주석 속성. 주석 작업 목록을 가져옵니다.
+title: "Annotation.Actions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Annotation 속성. 주석 작업 목록을 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/annotation/actions/
 ---
-## Annotation.Actions 속성
+## Annotation.Actions property
 
 주석 작업 목록을 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.annotations/annotation/actions/
 public PdfActionCollection Actions { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfActionCollection](../../pdfactioncollection/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

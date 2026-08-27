@@ -1,21 +1,23 @@
 ---
-title: OpenAIImageDescriptionCopilot.GetImageDescriptionsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilot 메서드.
+title: "OpenAIImageDescriptionCopilot.GetImageDescriptionsAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIImageDescriptionCopilot 메서드."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.ai/openaiimagedescriptioncopilot/getimagedescriptionsasync/
 ---
-## OpenAIImageDescriptionCopilot.GetImageDescriptionsAsync 메서드
+## OpenAIImageDescriptionCopilot.GetImageDescriptionsAsync method
 
 ```csharp
 public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(
     CancellationToken? cancellationToken = default)
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ImageDescriptionResult](../../imagedescriptionresult/)
-* 클래스 [OpenAIImageDescriptionCopilot](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../../imagedescriptionresult/)
+* class [OpenAIImageDescriptionCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

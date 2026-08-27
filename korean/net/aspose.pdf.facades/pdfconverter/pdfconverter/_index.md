@@ -1,7 +1,7 @@
 ---
-title: PdfConverter.PdfConverter
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter 생성자. 새로운 PdfConverter 객체를 초기화합니다.
+title: "PdfConverter.PdfConverter"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfConverter 생성자. 새로운 PdfConverter 객체를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.facades/pdfconverter/pdfconverter/
@@ -14,17 +14,17 @@ url: /ko/net/aspose.pdf.facades/pdfconverter/pdfconverter/
 public PdfConverter()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfConverter](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfConverter(Document) {#constructor_1}
 
-*document*를 기반으로 새로운 [`PdfConverter`](../) 객체를 초기화합니다.
+새로운 [`PdfConverter`](../) 객체를 *document* 기반으로 초기화합니다.
 
 ```csharp
 public PdfConverter(Document document)
@@ -34,9 +34,11 @@ public PdfConverter(Document document)
 | --- | --- | --- |
 | document | Document | Pdf 문서. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../../../aspose.pdf/document/)
-* 클래스 [PdfConverter](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

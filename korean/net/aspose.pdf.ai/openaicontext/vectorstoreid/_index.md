@@ -1,21 +1,23 @@
 ---
-title: OpenAIContext.VectorStoreId
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIContext 속성. 벡터 저장소 ID를 가져오거나 설정합니다.
+title: "OpenAIContext.VectorStoreId"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIContext 속성. Vector Store ID를 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.ai/openaicontext/vectorstoreid/
 ---
-## OpenAIContext.VectorStoreId 속성
+## OpenAIContext.VectorStoreId property
 
-벡터 저장소 ID를 가져오거나 설정합니다.
+벡터 스토어 ID를 가져오거나 설정합니다.
 
 ```csharp
 public string VectorStoreId { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [OpenAIContext](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

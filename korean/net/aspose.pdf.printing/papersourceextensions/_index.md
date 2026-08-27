@@ -1,12 +1,12 @@
 ---
-title: Class PaperSourceExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PaperSourceExtensions 클래스. PaperSource에 대한 확장 메서드를 나타냅니다.
+title: "PaperSourceExtensions 클래스"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Printing.PaperSourceExtensions 클래스. PaperSource에 대한 확장 메서드를 나타냅니다."
 type: docs
-weight: 9610
+weight: 9760
 url: /ko/net/aspose.pdf.printing/papersourceextensions/
 ---
-## PaperSourceExtensions 클래스
+## PaperSourceExtensions class
 
 [`PaperSource`](../papersource/)에 대한 확장 메서드를 나타냅니다.
 
@@ -21,7 +21,9 @@ public static class PaperSourceExtensions
 | static [ToAsposePaperSource](../../aspose.pdf.printing/papersourceextensions/toasposepapersource/)(this PaperSource) | Windows 전용 System.Drawing.Printing.PaperSource를 [`PaperSource`](../papersource/)로 변환합니다. |
 | static [ToNativePaperSource](../../aspose.pdf.printing/papersourceextensions/tonativepapersource/)(this PaperSource) | [`PaperSource`](../papersource/)를 Windows 전용 System.Drawing.Printing.PaperSource로 변환합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

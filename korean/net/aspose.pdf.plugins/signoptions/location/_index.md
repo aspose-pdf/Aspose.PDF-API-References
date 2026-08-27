@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Location
-second_title: Aspose.PDF for .NET API Reference
-description: SignOptions 속성. 서명의 위치
+title: "SignOptions.Location"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SignOptions 속성. 서명의 위치"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.plugins/signoptions/location/
 ---
-## SignOptions.Location 속성
+## SignOptions.Location property
 
 서명의 위치.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.plugins/signoptions/location/
 public string Location { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SignOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

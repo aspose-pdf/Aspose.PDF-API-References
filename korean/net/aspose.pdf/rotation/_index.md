@@ -1,30 +1,32 @@
 ---
-title: Enum Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Rotation 열거형. 가능한 회전 값의 열거
+title: "열거형 Rotation"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Rotation 열거형. 가능한 회전 값들의 열거형입니다."
 type: docs
-weight: 9820
+weight: 9970
 url: /ko/net/aspose.pdf/rotation/
 ---
-## 회전 열거형
+## Rotation enumeration
 
-가능한 회전 값의 열거.
+가능한 회전 값을 열거합니다.
 
 ```csharp
 public enum Rotation
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| 없음 | `0` | 회전되지 않음. |
-| 90도 | `1` | 시계 방향으로 90도 회전됨. |
-| 180도 | `2` | 180도 회전됨. |
-| 270도 | `3` | 시계 방향으로 270도 회전됨. |
-| 360도 | `4` | 시계 방향으로 360도 회전됨. |
+| None | `0` | 회전되지 않음. |
+| on90 | `1` | 시계 방향으로 90도 회전됨. |
+| on180 | `2` | 180도 회전됨. |
+| on270 | `3` | 시계 방향으로 270도 회전됨. |
+| on360 | `4` | 시계 방향으로 360도 회전됨. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

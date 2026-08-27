@@ -1,12 +1,12 @@
 ---
-title: LineAnnotation.Starting
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation 속성. 선의 시작점을 가져오거나 설정합니다.
+title: "LineAnnotation.Starting"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "LineAnnotation 속성. 라인의 시작점을 가져오거나 설정합니다"
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf.annotations/lineannotation/starting/
 ---
-## LineAnnotation.Starting 속성
+## LineAnnotation.Starting property
 
 선의 시작점을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.annotations/lineannotation/starting/
 public Point Starting { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Point](../../../aspose.pdf/point/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

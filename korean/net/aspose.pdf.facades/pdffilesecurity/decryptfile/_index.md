@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.DecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity 메서드. 소유자 비밀번호로 암호화된 Pdf 문서를 해독합니다. 문서에 소유자 비밀번호가 없으면 사용자 비밀번호를 사용할 수 있습니다. 프로세스가 실패하면 예외가 발생합니다.
+title: "PdfFileSecurity.DecryptFile"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSecurity 메서드. 소유자 비밀번호로 암호화된 Pdf 문서를 복호화합니다. 문서에 소유자 비밀번호가 없으면 사용자 비밀번호를 사용할 수 있습니다. 처리에 실패하면 예외를 발생시킵니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.facades/pdffilesecurity/decryptfile/
 ---
-## PdfFileSecurity.DecryptFile 메서드
+## PdfFileSecurity.DecryptFile method
 
-소유자 비밀번호로 암호화된 Pdf 문서를 해독합니다. 문서에 소유자 비밀번호가 없으면 사용자 비밀번호를 사용할 수 있습니다. 프로세스가 실패하면 예외가 발생합니다.
+소유자 비밀번호로 암호화된 Pdf 문서를 복호화합니다. 문서에 소유자 비밀번호가 없을 경우 사용자 비밀번호를 사용할 수 있습니다. 작업이 실패하면 예외를 발생시킵니다.
 
 ```csharp
 public bool DecryptFile(string ownerPassword)
@@ -20,7 +20,7 @@ public bool DecryptFile(string ownerPassword)
 
 ### 반환 값
 
-성공 시 True입니다.
+성공이면 true.
 
 ## 예제
 
@@ -38,8 +38,10 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.DecryptFile("ownerpass")
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileSecurity](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

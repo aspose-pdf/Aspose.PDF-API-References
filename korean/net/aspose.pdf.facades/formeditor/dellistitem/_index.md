@@ -1,12 +1,12 @@
 ---
-title: FormEditor.DelListItem
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 메서드. 목록 필드에서 항목 삭제
+title: "FormEditor.DelListItem"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor 메서드. 리스트 필드에서 항목을 삭제합니다."
 type: docs
 weight: 180
 url: /ko/net/aspose.pdf.facades/formeditor/dellistitem/
 ---
-## FormEditor.DelListItem 메서드
+## FormEditor.DelListItem method
 
 목록 필드에서 항목을 삭제합니다.
 
@@ -16,8 +16,8 @@ public void DelListItem(string fieldName, string itemName)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fieldName | 문자열 | 필드의 이름. |
-| itemName | 문자열 | 삭제해야 하는 항목의 이름. |
+| fieldName | String | 필드 이름. |
+| itemName | String | 삭제해야 할 항목의 이름. |
 
 ## 예제
 
@@ -26,8 +26,10 @@ formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_DelLis
 formEditor.DelListItem("listboxField", "item2");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

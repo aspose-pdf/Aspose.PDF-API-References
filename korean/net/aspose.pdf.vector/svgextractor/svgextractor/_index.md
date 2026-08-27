@@ -1,7 +1,7 @@
 ---
-title: SvgExtractor.SvgExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractor 생성자. 페이지에서 SVG 이미지를 추출하는 클래스를 나타냅니다.
+title: "SvgExtractor.SvgExtractor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SvgExtractor 생성자. 페이지에서 SVG 이미지를 추출하는 클래스를 나타냅니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.vector/svgextractor/svgextractor/
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf.vector/svgextractor/svgextractor/
 public SvgExtractor()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SvgExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SvgExtractor](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,11 +32,13 @@ public SvgExtractor(SvgExtractionOptions options)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| options | SvgExtractionOptions | 추출 옵션입니다. |
+| 옵션 | SvgExtractionOptions | 추출 옵션입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [SvgExtractionOptions](../../svgextractionoptions/)
-* 클래스 [SvgExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SvgExtractionOptions](../../svgextractionoptions/)
+* class [SvgExtractor](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

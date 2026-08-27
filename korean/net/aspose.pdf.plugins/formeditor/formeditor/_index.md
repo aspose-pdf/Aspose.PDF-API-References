@@ -1,21 +1,23 @@
 ---
-title: FormEditor.FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 생성자. 기본 생성자
+title: "FormEditor.FormEditor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor 생성자. 기본 생성자입니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/formeditor/formeditor/
 ---
-## FormEditor 생성자
+## FormEditor constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public FormEditor()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

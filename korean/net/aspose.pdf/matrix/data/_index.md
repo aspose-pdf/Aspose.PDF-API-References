@@ -1,21 +1,23 @@
 ---
-title: Matrix.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix 속성. 배열로 Matrix의 데이터를 가져옵니다
+title: "Matrix.Data"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Matrix 속성. Matrix의 데이터를 배열로 가져옵니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/matrix/data/
 ---
-## Matrix.Data 속성
+## Matrix.Data property
 
-배열로 Matrix의 데이터를 가져옵니다.
+Matrix 데이터를 배열로 가져옵니다.
 
 ```csharp
 public double[] Data { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Matrix](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

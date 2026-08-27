@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 메서드. 한 페이지의 텍스트를 파일에 저장합니다.
+title: "PdfExtractor.GetNextPageText"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfExtractor 메서드. 한 페이지의 텍스트를 파일에 저장합니다."
 type: docs
 weight: 180
 url: /ko/net/aspose.pdf.facades/pdfextractor/getnextpagetext/
@@ -16,11 +16,11 @@ public void GetNextPageText(string outputFile)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | 텍스트를 저장할 파일 경로 및 이름. |
+| outputFile | String | 텍스트를 저장할 파일 경로 및 이름입니다. |
 
 ## 예제
 
-이 예제는 텍스트 추출 시나리오에서 `GetNextPageText` 메서드 사용을 보여줍니다.
+예제는 텍스트 추출 시나리오에서 GetNextPageText 메서드 사용을 보여줍니다.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -49,7 +49,7 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -67,11 +67,11 @@ public void GetNextPageText(Stream outputStream)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | 텍스트를 저장할 스트림. |
+| outputStream | Stream | 텍스트를 저장할 스트림입니다. |
 
 ## 예제
 
-이 예제는 `GetNextPageText` 메서드 사용을 텍스트 추출 시나리오에서 보여줍니다.
+예제는 텍스트 추출 시나리오에서 `GetNextPageText` 메서드 사용을 보여줍니다.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -89,8 +89,10 @@ while (extractor.HasNextPageText())
 }
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

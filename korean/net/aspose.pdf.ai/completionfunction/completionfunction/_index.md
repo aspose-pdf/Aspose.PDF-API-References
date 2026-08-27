@@ -1,21 +1,23 @@
 ---
-title: CompletionFunction.CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionFunction 생성자. 기본 생성자
+title: "CompletionFunction.CompletionFunction"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CompletionFunction 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/completionfunction/completionfunction/
 ---
-## CompletionFunction 생성자
+## CompletionFunction constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public CompletionFunction()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CompletionFunction](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CompletionFunction](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColor 메서드. 색상을 반환합니다.
+title: "SetCMYKColor.getColor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetCMYKColor 메서드. 색상을 반환합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.operators/setcmykcolor/getcolor/
 ---
-## SetCMYKColor.getColor 메서드
+## SetCMYKColor.getColor method
 
 색상을 반환합니다.
 
@@ -16,10 +16,12 @@ public override Color getColor()
 
 ### 반환 값
 
-연산자에 의해 지정된 색상입니다.
+연산자에 의해 지정된 색상.
 
-### 참조
+### 또 보기
 
-* 클래스 [SetCMYKColor](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

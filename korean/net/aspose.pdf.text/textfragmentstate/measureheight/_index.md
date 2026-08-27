@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.MeasureHeight
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState 메서드. 문자 높이를 측정합니다.
+title: "TextFragmentState.MeasureHeight"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextFragmentState 메서드. 문자 높이를 측정합니다."
 type: docs
 weight: 260
 url: /ko/net/aspose.pdf.text/textfragmentstate/measureheight/
 ---
-## TextFragmentState.MeasureHeight 메서드
+## TextFragmentState.MeasureHeight method
 
 문자 높이를 측정합니다.
 
@@ -16,14 +16,16 @@ public double MeasureHeight(char character)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| character | Char | 측정할 문자입니다. |
+| 문자 | 문자 | 측정할 문자. |
 
 ### 반환 값
 
-글꼴에서 가져올 수 있는 경우 문자의 높이; 그렇지 않으면 0입니다.
+폰트에서 가져올 수 있는 경우 문자 높이; 그렇지 않으면 0.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextFragmentState](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

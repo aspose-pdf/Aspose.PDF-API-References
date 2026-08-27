@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.AddStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 메서드. 파일에 스탬프 추가
+title: "PdfFileStamp.AddStamp"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileStamp 메서드. 파일에 스탬프를 추가합니다"
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf.facades/pdffilestamp/addstamp/
 ---
-## PdfFileStamp.AddStamp 메서드
+## PdfFileStamp.AddStamp method
 
 파일에 스탬프를 추가합니다.
 
@@ -16,7 +16,7 @@ public void AddStamp(Stamp stamp)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| stamp | Stamp | 스탬프 객체입니다. |
+| 스탬프 | 스탬프 | 스탬프 객체 |
 
 ## 예제
 
@@ -32,9 +32,11 @@ fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Stamp](../../stamp/)
-* 클래스 [PdfFileStamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Stamp](../../stamp/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+
