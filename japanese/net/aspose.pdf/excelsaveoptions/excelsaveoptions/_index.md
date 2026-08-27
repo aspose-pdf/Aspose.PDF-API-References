@@ -1,12 +1,12 @@
 ---
-title: ExcelSaveOptions.ExcelSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ExcelSaveOptions コンストラクタ。デフォルトコンストラクタ
+title: "ExcelSaveOptions.ExcelSaveOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ExcelSaveOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/excelsaveoptions/excelsaveoptions/
 ---
-## ExcelSaveOptions コンストラクタ
+## ExcelSaveOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public ExcelSaveOptions()
 * class [ExcelSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

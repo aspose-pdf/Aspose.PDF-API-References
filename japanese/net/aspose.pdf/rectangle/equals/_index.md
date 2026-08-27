@@ -1,29 +1,31 @@
 ---
-title: Rectangle.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。長方形が等しいかどうかを確認します。つまり、同じ位置とサイズを持っているかどうか。
+title: "Rectangle.Equals"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。矩形が等しいかどうかを確認します。すなわち、位置とサイズが同じであるかどうかです。"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf/rectangle/equals/
 ---
-## Rectangle.Equals メソッド
+## Rectangle.Equals method
 
-長方形が等しいかどうかを確認します。つまり、同じ位置とサイズを持っているかどうか。
+Rectangle が等しいかどうかをチェックします。すなわち同じ位置とサイズを持つかどうかです。
 
 ```csharp
 public bool Equals(Rectangle other)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| other | Rectangle | 比較される長方形。 |
+| 他 | Rectangle | 比較される Rectangle。 |
 
 ### 戻り値
 
-長方形が等しい場合は true、そうでない場合は false。
+矩形が等しい場合は true、そうでなければ false。
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

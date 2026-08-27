@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation プロパティ。アノテーションのタイプを取得します
+title: "RichMediaAnnotation.AnnotationType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RichMediaAnnotation プロパティ。アノテーションのタイプを取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/richmediaannotation/annotationtype/
 ---
-## RichMediaAnnotation.AnnotationType プロパティ
+## RichMediaAnnotation.AnnotationType property
 
-アノテーションのタイプを取得します。
+注釈のタイプを取得します。
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

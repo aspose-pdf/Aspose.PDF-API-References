@@ -1,30 +1,32 @@
 ---
-title: OperatorCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection メソッド。コレクションからオペレーターを削除します
+title: "OperatorCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OperatorCollection メソッド。コレクションから演算子を削除します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf/operatorcollection/remove/
 ---
-## OperatorCollection.Remove メソッド
+## OperatorCollection.Remove method
 
-コレクションからオペレーターを削除します。
+コレクションから演算子を削除します。
 
 ```csharp
 public override bool Remove(Operator op)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| op | Operator | 削除されるオペレーター。 |
+| op | オペレーター | 削除される演算子。 |
 
 ### 戻り値
 
-オペレーターが見つかり、削除された場合は True。オペレーターがコレクションに属していなかった場合は False。
+演算子が見つかり削除された場合は true。演算子がコレクションに属していなかった場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../operator/)
-* クラス [OperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

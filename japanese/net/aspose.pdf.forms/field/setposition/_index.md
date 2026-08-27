@@ -1,12 +1,12 @@
 ---
-title: Field.SetPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Field メソッド。フィールドの位置を設定します
+title: "Field.SetPosition"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Field メソッド。フィールドの位置を設定します。"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf.forms/field/setposition/
 ---
-## Field.SetPosition メソッド
+## Field.SetPosition method
 
 フィールドの位置を設定します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.forms/field/setposition/
 public virtual void SetPosition(Point point)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| point | Point | フィールドを配置するポイント。 |
+| ポイント | ポイント | フィールドを配置すべきポイント。 |
 
-### 参照
+### 関連項目
 
-* クラス [Point](../../../aspose.pdf/point/)
-* クラス [Field](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

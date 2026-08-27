@@ -1,7 +1,7 @@
 ---
-title: TiffDevice.TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice コンストラクタ。TiffDevice クラスの新しいインスタンスを初期化します
+title: "TiffDevice.TiffDevice"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TiffDevice コンストラクタ。TiffDevice クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.devices/tiffdevice/tiffdevice/
@@ -14,16 +14,16 @@ url: /ja/net/aspose.pdf.devices/tiffdevice/tiffdevice/
 public TiffDevice(Resolution resolution)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| resolution | Resolution | 結果の画像ファイルの解像度。 |
+| resolution | Resolution | 結果画像ファイルの解像度です。 |
 
 ### 関連項目
 
-* クラス [Resolution](../../resolution/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,18 +35,18 @@ public TiffDevice(Resolution resolution)
 public TiffDevice(Resolution resolution, TiffSettings settings)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | resolution | Resolution | 出力画像の解像度。 |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 
 ### 関連項目
 
-* クラス [Resolution](../../resolution/)
-* クラス [TiffSettings](../../tiffsettings/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -58,20 +58,20 @@ public TiffDevice(Resolution resolution, TiffSettings settings)
 public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | resolution | Resolution | 出力画像の解像度。 |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 | converter | IIndexBitmapConverter | 外部コンバータ |
 
 ### 関連項目
 
-* クラス [Resolution](../../resolution/)
-* クラス [TiffSettings](../../tiffsettings/)
-* インターフェース [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -83,16 +83,16 @@ public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConv
 public TiffDevice(TiffSettings settings)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 
 ### 関連項目
 
-* クラス [TiffSettings](../../tiffsettings/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -104,24 +104,24 @@ public TiffDevice(TiffSettings settings)
 public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 | converter | IIndexBitmapConverter | 外部コンバータ |
 
 ### 関連項目
 
-* クラス [TiffSettings](../../tiffsettings/)
-* インターフェース [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffDevice() {#constructor}
 
-デフォルト設定で[`TiffDevice`](../) クラスの新しいインスタンスを初期化します。
+デフォルト設定で [`TiffDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public TiffDevice()
@@ -129,9 +129,9 @@ public TiffDevice()
 
 ### 関連項目
 
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -143,20 +143,20 @@ public TiffDevice()
 public TiffDevice(int width, int height, Resolution resolution, TiffSettings settings)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力幅。 |
-| height | Int32 | 画像出力高さ。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
 | resolution | Resolution | 出力画像の解像度。 |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 
 ### 関連項目
 
-* クラス [Resolution](../../resolution/)
-* クラス [TiffSettings](../../tiffsettings/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -169,22 +169,22 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
     IIndexBitmapConverter converter)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力幅。 |
-| height | Int32 | 画像出力高さ。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
 | resolution | Resolution | 出力画像の解像度。 |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 | converter | IIndexBitmapConverter | 外部コンバータ |
 
 ### 関連項目
 
-* クラス [Resolution](../../resolution/)
-* クラス [TiffSettings](../../tiffsettings/)
-* インターフェース [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -196,20 +196,20 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
 | resolution | Resolution | 出力画像の解像度。 |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 
 ### 関連項目
 
-* クラス [PageSize](../../../aspose.pdf/pagesize/)
-* クラス [Resolution](../../resolution/)
-* クラス [TiffSettings](../../tiffsettings/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -222,22 +222,22 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
     IIndexBitmapConverter converter)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
 | resolution | Resolution | 出力画像の解像度。 |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 | converter | IIndexBitmapConverter | 外部コンバータ |
 
 ### 関連項目
 
-* クラス [PageSize](../../../aspose.pdf/pagesize/)
-* クラス [Resolution](../../resolution/)
-* クラス [TiffSettings](../../tiffsettings/)
-* インターフェース [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -249,18 +249,18 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 public TiffDevice(int width, int height, Resolution resolution)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力幅。 |
-| height | Int32 | 画像出力高さ。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
 | resolution | Resolution | 出力画像の解像度。 |
 
 ### 関連項目
 
-* クラス [Resolution](../../resolution/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -272,18 +272,18 @@ public TiffDevice(int width, int height, Resolution resolution)
 public TiffDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
 | resolution | Resolution | 出力画像の解像度。 |
 
 ### 関連項目
 
-* クラス [PageSize](../../../aspose.pdf/pagesize/)
-* クラス [Resolution](../../resolution/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -295,18 +295,18 @@ public TiffDevice(PageSize pageSize, Resolution resolution)
 public TiffDevice(int width, int height, TiffSettings settings)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力幅。 |
-| height | Int32 | 画像出力高さ。 |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 
 ### 関連項目
 
-* クラス [TiffSettings](../../tiffsettings/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -318,20 +318,20 @@ public TiffDevice(int width, int height, TiffSettings settings)
 public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力幅。 |
-| height | Int32 | 画像出力高さ。 |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 | converter | IIndexBitmapConverter | 外部コンバータ |
 
 ### 関連項目
 
-* クラス [TiffSettings](../../tiffsettings/)
-* インターフェース [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -343,20 +343,20 @@ public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConv
 public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 | converter | IIndexBitmapConverter | 外部コンバータ |
 
 ### 関連項目
 
-* クラス [PageSize](../../../aspose.pdf/pagesize/)
-* クラス [TiffSettings](../../tiffsettings/)
-* インターフェース [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -368,18 +368,18 @@ public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverte
 public TiffDevice(PageSize pageSize, TiffSettings settings)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
-| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスを参照してください。 |
+| settings | TiffSettings | Tiff 設定、[`TiffSettings`](../../tiffsettings/) クラスをご参照ください。 |
 
 ### 関連項目
 
-* クラス [PageSize](../../../aspose.pdf/pagesize/)
-* クラス [TiffSettings](../../tiffsettings/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -391,16 +391,16 @@ public TiffDevice(PageSize pageSize, TiffSettings settings)
 public TiffDevice(int width, int height)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力幅。 |
-| height | Int32 | 画像出力高さ。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
 
 ### 関連項目
 
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -412,13 +412,15 @@ public TiffDevice(int width, int height)
 public TiffDevice(PageSize pageSize)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
 
 ### 関連項目
 
-* クラス [PageSize](../../../aspose.pdf/pagesize/)
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Splitter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Splitter クラス。スプリッタープラグインを表します
+title: "クラス Splitter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.Splitter クラス。Splitter プラグインを表します。"
 type: docs
-weight: 9280
+weight: 9430
 url: /ja/net/aspose.pdf.plugins/splitter/
 ---
-## スプリッター クラス
+## Splitter class
 
 `Splitter` プラグインを表します。
 
@@ -14,38 +14,40 @@ url: /ja/net/aspose.pdf.plugins/splitter/
 public class Splitter : IPlugin
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Splitter](splitter/)() | デフォルトのコンストラクター。 |
+| [Splitter](splitter/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/splitter/process/)(IPluginOptions) | 指定されたパラメーターで `Splitter` 処理を開始します。 |
+| [Process](../../aspose.pdf.plugins/splitter/process/)(IPluginOptions) | 指定されたパラメータで `Splitter` の処理を開始します。 |
 
 ## 例
 
-この例は、PDF ドキュメントを分割する方法を示しています。
+この例は PDF ドキュメントの分割方法を示しています。
 
 ```csharp
-// create Splitter
+// Splitter を作成する
 var splitter = new Splitter();
-// create SplitOptions object to set instructions
+// 指示を設定するために SplitOptions オブジェクトを作成する
 var opt = new SplitOptions();
-// add input file paths
+// 入力ファイル パスを追加する
 opt.AddInput(new FileDataSource(inputPath));
-// set output file paths
+// 出力ファイルパスを設定する
 opt.AddOutput(new FileDataSource(outputPath1));
 opt.AddOutput(new FileDataSource(outputPath2));
-// perform the process
+// プロセスを実行する
 splitter.Process(opt);
 ```
 
-### 参照
+### 関連項目
 
-* インターフェース [IPlugin](../iplugin/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

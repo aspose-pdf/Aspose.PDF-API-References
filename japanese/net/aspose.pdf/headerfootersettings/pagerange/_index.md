@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooterSettings プロパティ。ヘッダーおよびフッター設定のページ範囲を取得または設定します
+title: "HeaderFooterSettings.PageRange"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HeaderFooterSettings プロパティ。ヘッダーおよびフッター設定のページ範囲を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/headerfootersettings/pagerange/
 ---
-## HeaderFooterSettings.PageRange プロパティ
+## HeaderFooterSettings.PageRange property
 
 ヘッダーおよびフッター設定のページ範囲を取得または設定します。
 
@@ -20,3 +20,5 @@ public PageRange PageRange { get; set; }
 * class [HeaderFooterSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

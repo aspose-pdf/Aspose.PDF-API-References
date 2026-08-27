@@ -1,105 +1,107 @@
 ---
-title: Document.MergeDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。ドキュメントをマージします。
+title: "Document.MergeDocuments"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document method. ドキュメントを結合します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/document/mergedocuments/
 ---
 ## MergeDocuments(MergeOptions, params string[]) {#mergedocuments_2}
 
-ドキュメントをマージします。
+Document を結合します。
 
 ```csharp
 public static Document MergeDocuments(MergeOptions mergeOptions, params string[] files)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | mergeOptions | MergeOptions | マージオプション。 |
-| files | String[] | マージするPDFファイル。 |
+| ファイル | String[] | マージする pdf ファイル。 |
 
 ### 戻り値
 
 マージされたドキュメント。
 
-### 参照
+### 関連項目
 
-* クラス [MergeOptions](../../document.mergeoptions/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MergeOptions](../../document.mergeoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MergeDocuments(MergeOptions, params Document[]) {#mergedocuments_1}
 
-ドキュメントをマージします。
+Document を結合します。
 
 ```csharp
 public static Document MergeDocuments(MergeOptions mergeOptions, params Document[] files)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | mergeOptions | MergeOptions |  |
-| files | Document[] | マージするドキュメント。 |
+| ファイル | Document[] | マージするドキュメント。 |
 
 ### 戻り値
 
 マージされたドキュメント。
 
-### 参照
+### 関連項目
 
-* クラス [MergeOptions](../../document.mergeoptions/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MergeOptions](../../document.mergeoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MergeDocuments(params string[]) {#mergedocuments_3}
 
-PDFファイルをマージします。
+Pdf ファイルを結合します。
 
 ```csharp
 public static Document MergeDocuments(params string[] files)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| files | String[] | マージするPDFファイル。 |
+| ファイル | String[] | マージする pdf ファイル。 |
 
 ### 戻り値
 
 マージされたドキュメント。
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MergeDocuments(params Document[]) {#mergedocuments}
 
-ドキュメントをマージします。
+Document を結合します。
 
 ```csharp
 public static Document MergeDocuments(params Document[] documents)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| documents | Document[] | マージするドキュメント。 |
+| ドキュメント | Document[] | マージするドキュメント。 |
 
 ### 戻り値
 
 マージされたドキュメント。
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

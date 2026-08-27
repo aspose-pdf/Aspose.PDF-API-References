@@ -1,20 +1,20 @@
 ---
-title: Class GoToRemoteAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.GoToRemoteAction クラス。現在のファイルではなく、別の PDF ファイルの宛先にジャンプする通常のジャンプアクションに似たリモートジャンプアクションを表します。
+title: "クラス GoToRemoteAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.GoToRemoteAction クラス。リモートの goto アクションを表します。これは通常の goto アクションと似ていますが、現在のファイルではなく別の PDF ファイル内の宛先へジャンプします。"
 type: docs
-weight: 1840
+weight: 1930
 url: /ja/net/aspose.pdf.annotations/gotoremoteaction/
 ---
-## GoToRemoteAction クラス
+## GoToRemoteAction class
 
-現在のファイルではなく、別の PDF ファイルの宛先にジャンプする通常のジャンプアクションに似たリモートジャンプアクションを表します。
+通常の go-to アクションと似ていますが、現在のファイルではなく別の PDF ファイル内のデスティネーションへジャンプする remote go-to アクションを表します。
 
 ```csharp
 public sealed class GoToRemoteAction : GoToAction
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -25,7 +25,7 @@ public sealed class GoToRemoteAction : GoToAction
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Destination](../../aspose.pdf.annotations/gotoremoteaction/destination/) { get; set; } | ジャンプする宛先を取得または設定します。 |
+| override [Destination](../../aspose.pdf.annotations/gotoremoteaction/destination/) { get; set; } | ジャンプ先の宛先を取得または設定します。 |
 | [File](../../aspose.pdf.annotations/gotoremoteaction/file/) { get; set; } | 宛先が存在するファイルの仕様を取得または設定します。 |
 | [NewWindow](../../aspose.pdf.annotations/gotoremoteaction/newwindow/) { get; set; } | 宛先ドキュメントを新しいウィンドウで開くかどうかを指定するフラグを取得または設定します。 |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | シーケンス内の次のアクション。 |
@@ -34,10 +34,12 @@ public sealed class GoToRemoteAction : GoToAction
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | ECMAScript アクションのための文字列を取得します。 |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | ECMAScript アクションの文字列を取得します。 |
 
-### 参照
+### 関連項目
 
-* クラス [GoToAction](../gotoaction/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* class [GoToAction](../gotoaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: RichMediaAnnotation.RichMediaAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation コンストラクタ。RichMediaAnnotation を初期化します。
+title: "RichMediaAnnotation.RichMediaAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RichMediaAnnotation コンストラクタ。RichMediaAnnotation を初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/richmediaannotation/richmediaannotation/
 ---
-## RichMediaAnnotation コンストラクタ
+## RichMediaAnnotation constructor
 
 RichMediaAnnotation を初期化します。
 
@@ -14,15 +14,17 @@ RichMediaAnnotation を初期化します。
 public RichMediaAnnotation(Page page, Rectangle rect)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | オブジェクトが作成されるページ。 |
-| rect | Rectangle | 矩形の座標。 |
+| ページ | ページ | オブジェクトが作成される Page。 |
+| rect | Rectangle | Rectangle の座標です。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [RichMediaAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D メソッド。行列のテキスト表現を返します
+title: "Matrix3D.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix3D メソッド。行列のテキスト表現を返します"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf/matrix3d/tostring/
 ---
-## Matrix3D.ToString メソッド
+## Matrix3D.ToString method
 
 行列のテキスト表現を返します。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 行列の文字列表現
 
-### 参照
+### 関連項目
 
-* クラス [Matrix3D](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

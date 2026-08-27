@@ -1,14 +1,14 @@
 ---
-title: SelectFont.Name
-second_title: Aspose.PDF for .NET API Reference
-description: SelectFont プロパティ。フォントの名前
+title: "SelectFont.Name"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SelectFont プロパティ。 フォントの名前"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.operators/selectfont/name/
 ---
-## SelectFont.Name プロパティ
+## SelectFont.Name property
 
-フォントの名前。
+フォント名。
 
 ```csharp
 public string Name { get; }
@@ -16,6 +16,8 @@ public string Name { get; }
 
 ### 関連項目
 
-* クラス [SelectFont](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SelectFont](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum ImageFileType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImageFileType 列挙型。画像ファイルタイプを列挙します
+title: "列挙体 ImageFileType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ImageFileType 列挙体。画像ファイルタイプを列挙します。"
 type: docs
-weight: 5880
+weight: 6010
 url: /ja/net/aspose.pdf/imagefiletype/
 ---
-## ImageFileType 列挙型
+## ImageFileType enumeration
 
 画像ファイルタイプを列挙します。
 
@@ -23,7 +23,9 @@ public enum ImageFileType
 | Dicom | `2` | Dicom 画像ファイルタイプ。 |
 | Base64 | `3` | Base64 画像ファイルタイプ。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

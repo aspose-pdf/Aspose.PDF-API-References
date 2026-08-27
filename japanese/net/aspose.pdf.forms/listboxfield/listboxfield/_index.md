@@ -1,20 +1,20 @@
 ---
-title: ListBoxField.ListBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: ListBoxField コンストラクタ。Generator で使用するための ListBoxField のコンストラクタ
+title: "ListBoxField.ListBoxField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ListBoxField コンストラクタ。Generator で使用される ListBoxField のコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/listboxfield/listboxfield/
 ---
 ## ListBoxField() {#constructor}
 
-Generator で使用するための ListBoxField のコンストラクタ。
+Generator で使用するための ListBoxField のコンストラクタです。
 
 ```csharp
 public ListBoxField()
 ```
 
-### See Also
+### 関連項目
 
 * class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -30,12 +30,12 @@ public ListBoxField()
 public ListBoxField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | リストボックスが配置されるページ。 |
-| rect | Rectangle | リストボックスがページ上に配置される矩形。 |
+| ページ | ページ | リストボックスが配置されるページ。 |
+| rect | Rectangle | ページ上にリストボックスが配置される Rectangle。 |
 
-### See Also
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -47,21 +47,23 @@ public ListBoxField(Page page, Rectangle rect)
 
 ## ListBoxField(Document, Rectangle) {#constructor_1}
 
-ListBox フィールドのコンストラクタ。
+ListBox フィールドのコンストラクタです。
 
 ```csharp
 public ListBoxField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | このフィールドが属するドキュメント。 |
-| rect | Rectangle | リストボックスが配置される矩形。 |
+| ドキュメント | Document | このフィールドが属する Document。 |
+| rect | Rectangle | リストボックスが配置される Rectangle。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

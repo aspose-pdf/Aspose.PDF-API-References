@@ -1,7 +1,7 @@
 ---
-title: PKCS7.PKCS7
-second_title: Aspose.PDF for .NET API Reference
-description: PKCS7 コンストラクタ。PKCS7 クラスの新しいインスタンスを初期化します
+title: "PKCS7.PKCS7"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PKCS7 コンストラクタ。PKCS7 クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/pkcs7/pkcs7/
@@ -16,9 +16,9 @@ public PKCS7()
 
 ### 関連項目
 
-* クラス [PKCS7](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PKCS7](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -30,16 +30,16 @@ public PKCS7()
 public PKCS7(string pfx, string password)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pfx | 文字列 | 署名用の証明書を含む Pfx ファイル。 |
-| password | 文字列 | 証明書のパスワード。 |
+| pfx | String | 署名用証明書を含む Pfx ファイル。 |
+| password | String | 証明書のパスワード。 |
 
 ### 関連項目
 
-* クラス [PKCS7](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PKCS7](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -51,13 +51,15 @@ public PKCS7(string pfx, string password)
 public PKCS7(Stream pfx, string password)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pfx | ストリーム | pfx として整理された証明書データを持つストリーム。 |
-| password | 文字列 | 証明書のプライベートキーにアクセスするためのパスワード。 |
+| pfx | Stream | pfx 形式で整理された証明書データのストリーム。 |
+| password | String | 証明書内のプライベートキーにアクセスするためのパスワード。 |
 
 ### 関連項目
 
-* クラス [PKCS7](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PKCS7](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

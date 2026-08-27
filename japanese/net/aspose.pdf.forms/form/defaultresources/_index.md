@@ -1,12 +1,12 @@
 ---
-title: Form.DefaultResources
-second_title: Aspose.PDF for .NET API Reference
-description: フォームプロパティ。このフォームに配置されたデフォルトリソースを取得します
+title: "Form.DefaultResources"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form プロパティ。 このフォームに配置されたデフォルトリソースを取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.forms/form/defaultresources/
 ---
-## Form.DefaultResources プロパティ
+## Form.DefaultResources property
 
 このフォームに配置されたデフォルトリソースを取得します。
 
@@ -20,3 +20,5 @@ public Resources DefaultResources { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

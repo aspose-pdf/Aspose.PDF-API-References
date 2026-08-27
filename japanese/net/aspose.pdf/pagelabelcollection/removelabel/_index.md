@@ -1,29 +1,31 @@
 ---
-title: PageLabelCollection.RemoveLabel
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabelCollection メソッド。ページインデックスによってラベルを削除します。ページインデックスは 0 から始まります。
+title: "PageLabelCollection.RemoveLabel"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageLabelCollection メソッド。ページインデックスでラベルを削除します（インデックスは 0 から開始）。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/pagelabelcollection/removelabel/
 ---
-## PageLabelCollection.RemoveLabel メソッド
+## PageLabelCollection.RemoveLabel method
 
-ページインデックスによってラベルを削除します（ページインデックスは 0 から始まります）。
+ページインデックス（インデックスは0から開始）でラベルを削除します。
 
 ```csharp
 public bool RemoveLabel(int pageIndex)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageIndex | Int32 | ラベルを削除するページのインデックス。 |
 
 ### 戻り値
 
-操作が成功した場合は true を返します。
+操作が正常に実行された場合は true。
 
-### 参照
+### 関連項目
 
-* クラス [PageLabelCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

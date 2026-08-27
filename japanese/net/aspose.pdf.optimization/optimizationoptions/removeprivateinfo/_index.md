@@ -1,12 +1,12 @@
 ---
-title: OptimizationOptions.RemovePrivateInfo
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions プロパティ。プライベート情報ページピース情報を削除
+title: "OptimizationOptions.RemovePrivateInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizationOptions プロパティ。プライベート情報やページの一部情報を削除します。"
 type: docs
-weight: 100
+weight: 90
 url: /ja/net/aspose.pdf.optimization/optimizationoptions/removeprivateinfo/
 ---
-## OptimizationOptions.RemovePrivateInfo プロパティ
+## OptimizationOptions.RemovePrivateInfo property
 
 プライベート情報（ページピース情報）を削除します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.optimization/optimizationoptions/removeprivateinfo/
 public bool RemovePrivateInfo { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [OptimizationOptions](../)
-* 名前空間 [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

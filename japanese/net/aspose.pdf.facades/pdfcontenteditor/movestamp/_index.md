@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.MoveStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。ページ上のスタンプの位置を変更します
+title: "PdfContentEditor.MoveStamp"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。ページ上のスタンプの位置を変更します"
 type: docs
 weight: 410
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/movestamp/
 ---
-## PdfContentEditor.MoveStamp メソッド
+## PdfContentEditor.MoveStamp method
 
 ページ上のスタンプの位置を変更します。
 
@@ -14,15 +14,17 @@ url: /ja/net/aspose.pdf.facades/pdfcontenteditor/movestamp/
 public void MoveStamp(int pageNumber, int stampIndex, double x, double y)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageNumber | Int32 | ページ番号。 |
 | stampIndex | Int32 | ページ上のスタンプのインデックス。 |
-| x | Double | 新しいスタンプの水平方向の位置。 |
-| y | Double | 新しいスタンプの垂直方向の位置。 |
+| x | Double | 新しいスタンプの水平位置。 |
+| y | Double | 新しいスタンプの垂直位置。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

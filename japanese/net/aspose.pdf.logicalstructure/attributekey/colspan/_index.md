@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey フィールド。ColSpan 属性 テーブル属性の所有者
+title: "AttributeKey.ColSpan"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeKey フィールド。ColSpan 属性 Table 属性の所有者"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.logicalstructure/attributekey/colspan/
 ---
-## AttributeKey.ColSpan フィールド
+## AttributeKey.ColSpan field
 
-ColSpan 属性（テーブル属性の所有者）。
+ColSpan 属性（Table 属性所有者）。
 
 ```csharp
 public static readonly AttributeKey ColSpan;
@@ -16,6 +16,8 @@ public static readonly AttributeKey ColSpan;
 
 ### 関連項目
 
-* クラス [AttributeKey](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

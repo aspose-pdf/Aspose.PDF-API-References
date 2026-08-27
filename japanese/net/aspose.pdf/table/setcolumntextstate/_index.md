@@ -1,12 +1,12 @@
 ---
-title: Table.SetColumnTextState
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルメソッド。高さを設定
+title: "Table.SetColumnTextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table メソッド。高さを設定します。"
 type: docs
 weight: 280
 url: /ja/net/aspose.pdf/table/setcolumntextstate/
 ---
-## Table.SetColumnTextState メソッド
+## Table.SetColumnTextState method
 
 高さを設定します。
 
@@ -14,14 +14,16 @@ url: /ja/net/aspose.pdf/table/setcolumntextstate/
 public void SetColumnTextState(int colNumber, TextState textState)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| colNumber | Int32 | 列番号。 |
-| textState | TextState | 列のテキスト状態。 |
+| colNumber | Int32 | 列番号です。 |
+| textState | TextState | 列のテキスト状態です。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextState](../../../aspose.pdf.text/textstate/)
-* クラス [Table](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

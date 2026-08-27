@@ -1,12 +1,12 @@
 ---
-title: Html.Html
-second_title: Aspose.PDF for .NET API Reference
-description: Html コンストラクタ。デフォルトコンストラクタ
+title: "Html.Html"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Html コンストラクタ。デフォルト コンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/html/html/
 ---
-## Html コンストラクタ
+## Html constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/html/html/
 public Html()
 ```
 
-### 参照
+### 関連項目
 
 * class [Html](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

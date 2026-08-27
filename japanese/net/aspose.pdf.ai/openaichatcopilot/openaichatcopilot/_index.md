@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilot.OpenAIChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilot コンストラクタ。指定されたクライアントとオプションで OpenAIChatCopilot クラスの新しいインスタンスを初期化します。
+title: "OpenAIChatCopilot.OpenAIChatCopilot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIChatCopilot コンストラクタ。指定されたクライアントとオプションで OpenAIChatCopilot クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/openaichatcopilot/openaichatcopilot/
 ---
-## OpenAIChatCopilot コンストラクタ
+## OpenAIChatCopilot constructor
 
 指定されたクライアントとオプションで [`OpenAIChatCopilot`](../) クラスの新しいインスタンスを初期化します。
 
@@ -15,16 +15,18 @@ public OpenAIChatCopilot(IOpenAIClient client,
     IChatCopilotOptions<OpenAIChatCopilotOptions> options)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| client | IOpenAIClient | 通信に使用される OpenAI クライアント。 |
-| options | IChatCopilotOptions`1 | チャットコパイロットオプション。 |
+| client | IOpenAIClient | 通信に使用される OpenAI クライアントです。 |
+| オプション | IChatCopilotOptions`1 | チャットコパイロットのオプションです。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IOpenAIClient](../../iopenaiclient/)
-* インターフェース [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* クラス [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
-* クラス [OpenAIChatCopilot](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
+* class [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

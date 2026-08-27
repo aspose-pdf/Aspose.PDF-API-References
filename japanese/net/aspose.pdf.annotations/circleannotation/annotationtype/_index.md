@@ -1,14 +1,14 @@
 ---
-title: CircleAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: CircleAnnotation プロパティ。アノテーションのタイプを取得します
+title: "CircleAnnotation.AnnotationType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CircleAnnotation プロパティ。アノテーションのタイプを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/circleannotation/annotationtype/
 ---
-## CircleAnnotation.AnnotationType プロパティ
+## CircleAnnotation.AnnotationType property
 
-アノテーションのタイプを取得します。
+注釈のタイプを取得します。
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [CircleAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

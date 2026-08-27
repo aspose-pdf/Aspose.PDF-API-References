@@ -1,14 +1,14 @@
 ---
-title: StampInfo.StampType
-second_title: Aspose.PDF for .NET API Reference
-description: StampInfo プロパティ。スタンプタイプの画像 / フォームを取得します
+title: "StampInfo.StampType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StampInfo プロパティ。スタンプのタイプ（画像 / フォーム）を取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/stampinfo/stamptype/
 ---
-## StampInfo.StampType プロパティ
+## StampInfo.StampType property
 
-スタンプタイプ（画像 / フォーム）を取得します。
+スタンプのタイプ（画像 / フォーム）を取得します。
 
 ```csharp
 public StampType StampType { get; }
@@ -20,3 +20,5 @@ public StampType StampType { get; }
 * class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

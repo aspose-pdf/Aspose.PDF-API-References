@@ -1,27 +1,29 @@
 ---
-title: GraphicElementCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection メソッド。指定されたターゲット配列のインデックスから始めて、互換性のある一次元配列にコレクション全体をコピーします。
+title: "GraphicElementCollection.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GraphicElementCollection メソッド。対象配列の指定インデックスから開始して、互換性のある一次元配列にコレクション全体をコピーします"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.vector/graphicelementcollection/copyto/
 ---
-## GraphicElementCollection.CopyTo メソッド
+## GraphicElementCollection.CopyTo method
 
-指定されたターゲット配列のインデックスから始めて、互換性のある一次元配列にコレクション全体をコピーします。
+対象配列の指定インデックスから、互換性のある一次元配列へコレクション全体をコピーします。
 
 ```csharp
 public void CopyTo(GraphicElement[] array, int arrayIndex)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | GraphicElement[] | コピーされるオブジェクトの配列。 |
-| arrayIndex | Int32 | コピーが開始される開始インデックス。 |
+| 配列 | GraphicElement[] | コピーされるオブジェクトの配列です。 |
+| arrayIndex | Int32 | コピーが開始される開始インデックスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [GraphicElement](../../graphicelement/)
-* クラス [GraphicElementCollection](../)
-* 名前空間 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

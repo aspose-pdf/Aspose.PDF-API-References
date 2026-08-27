@@ -1,12 +1,12 @@
 ---
-title: FitExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: FitExplicitDestination メソッド。オブジェクトの状態を文字列値に変換します。例 1 Fit
+title: "FitExplicitDestination.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FitExplicitDestination メソッド。オブジェクトの状態を文字列値に変換します。例 1 Fit"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/fitexplicitdestination/tostring/
 ---
-## FitExplicitDestination.ToString メソッド
+## FitExplicitDestination.ToString method
 
 オブジェクトの状態を文字列値に変換します。例: "1 Fit"。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 オブジェクトの状態を表す文字列値。
 
-### 参照
+### 関連項目
 
-* クラス [FitExplicitDestination](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileListResponse.VectorStoreFileListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileListResponse コンストラクタ。デフォルトコンストラクタ
+title: "VectorStoreFileListResponse.VectorStoreFileListResponse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreFileListResponse コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/vectorstorefilelistresponse/vectorstorefilelistresponse/
 ---
-## VectorStoreFileListResponse コンストラクタ
+## VectorStoreFileListResponse constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public VectorStoreFileListResponse()
 * class [VectorStoreFileListResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

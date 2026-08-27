@@ -1,12 +1,12 @@
 ---
-title: IconFit.NameToScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: IconFit メソッド。スケーリングモード名を ScalingMode オブジェクトに変換します
+title: "IconFit.NameToScalingMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IconFit メソッド。スケーリングモード名を ScalingMode オブジェクトに変換します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.forms/iconfit/nametoscalingmode/
 ---
-## IconFit.NameToScalingMode メソッド
+## IconFit.NameToScalingMode method
 
 スケーリングモード名を ScalingMode オブジェクトに変換します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf.forms/iconfit/nametoscalingmode/
 public static ScalingMode NameToScalingMode(string mode)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| mode | String | スケーリングモード名。 |
+| モード | String | スケーリングモード名。 |
 
 ### 戻り値
 
 スケーリングモードオブジェクト。
 
-### 参照
+### 関連項目
 
 * enum [ScalingMode](../../scalingmode/)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

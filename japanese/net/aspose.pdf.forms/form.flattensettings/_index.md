@@ -1,14 +1,14 @@
 ---
-title: Class Form.FlattenSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.FormFlattenSettings クラス。フォームフラッティング手順の設定を説明するクラス
+title: "クラス Form.FlattenSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Forms.FormFlattenSettings クラス。フォーム平坦化手順の設定を記述するクラスです。"
 type: docs
-weight: 5080
+weight: 5200
 url: /ja/net/aspose.pdf.forms/form.flattensettings/
 ---
-## Form.FlattenSettings クラス
+## Form.FlattenSettings class
 
-フォームフラッティング手順の設定を説明するクラスです。
+フォーム平坦化手順の設定を記述するクラスです。
 
 ```csharp
 public class FlattenSettings
@@ -18,19 +18,21 @@ public class FlattenSettings
 
 | 名前 | 説明 |
 | --- | --- |
-| [FlattenSettings](../../aspose.pdf.forms/form.flattensettings/.ctor)() | デフォルトのコンストラクタです。 |
+| [FlattenSettings](../../aspose.pdf.forms/form.flattensettings/.ctor)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ApplyRedactions](../../aspose.pdf.forms/form.flattensettings/applyredactions) { get; set; } | true の場合、指定されたレダクション注釈が適用されます |
-| [CallEvents](../../aspose.pdf.forms/form.flattensettings/callevents) { get; set; } | 設定されている場合、フォーマットやその他の JavaScript イベントが呼び出されます。デフォルトでは true です。 |
-| [HideButtons](../../aspose.pdf.forms/form.flattensettings/hidebuttons) { get; set; } | 設定されている場合、ボタンがフラット化されたドキュメントから削除されます。デフォルトでは false です。 |
-| [UpdateAppearances](../../aspose.pdf.forms/form.flattensettings/updateappearances) { get; set; } | 設定されている場合、すべてのフィールドの外観がフラット化の前に再生成されます。このオプションは、フィールドが正しくフラット化されていない場合に役立つかもしれません。このオプションはパフォーマンスを低下させる可能性があります。デフォルトでは false に設定されています。 |
+| [ApplyRedactions](../../aspose.pdf.forms/form.flattensettings/applyredactions) { get; set; } | true の場合、指定された Redaction アノテーションが適用されます。 |
+| [CallEvents](../../aspose.pdf.forms/form.flattensettings/callevents) { get; set; } | 設定されている場合、フォーマットやその他の JavaScript イベントが呼び出されます。デフォルトは true です。 |
+| [HideButtons](../../aspose.pdf.forms/form.flattensettings/hidebuttons) { get; set; } | 設定されている場合、平坦化されたドキュメントからボタンが削除されます。デフォルトは false です。 |
+| [UpdateAppearances](../../aspose.pdf.forms/form.flattensettings/updateappearances) { get; set; } | 設定されている場合、平坦化前にすべてのフィールド外観が再生成されます。このオプションはフィールドが正しく平坦化されていない場合に役立つことがあります。このオプションはパフォーマンスを低下させる可能性があります。デフォルトは false に設定されています。 |
 
-### 参照
+### 関連項目
 
-* クラス [Form](../form/)
-* 名前空間 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

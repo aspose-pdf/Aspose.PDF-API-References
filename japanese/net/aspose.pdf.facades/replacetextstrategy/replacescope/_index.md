@@ -1,14 +1,14 @@
 ---
-title: ReplaceTextStrategy.ReplaceScope
-second_title: Aspose.PDF for .NET API Reference
-description: ReplaceTextStrategy プロパティ。置換操作の範囲（最初の出現を置換するか、すべての出現を置換するか）。
+title: "ReplaceTextStrategy.ReplaceScope"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ReplaceTextStrategy プロパティ。置換操作のスコープ：最初の出現だけを置換するか、すべての出現を置換するか"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/replacetextstrategy/replacescope/
 ---
-## ReplaceTextStrategy.ReplaceScope プロパティ
+## ReplaceTextStrategy.ReplaceScope property
 
-置換操作の範囲（最初の出現を置換するか、すべての出現を置換するか）。
+置換操作の範囲（最初の出現だけを置換するか、すべての出現を置換するか）。
 
 ```csharp
 public Scope ReplaceScope { get; set; }
@@ -20,3 +20,5 @@ public Scope ReplaceScope { get; set; }
 * class [ReplaceTextStrategy](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

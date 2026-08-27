@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.SaveFullFont
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions プロパティ。フルフォントが保存されることを示し、True Type フォントのみをサポートします。デフォルトでは SaveFullFont は false で、コンバータは文書のテキストを表示するために必要な初期フォントのサブセットを保存します。
+title: "HtmlSaveOptions.SaveFullFont"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions プロパティ。フルフォントを保存することを示します。True Type フォントのみがサポートされます。デフォルトでは SaveFullFont は false で、コンバータは文書のテキスト表示に必要な初期フォントのサブセットを保存します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf/htmlsaveoptions/savefullfont/
 ---
-## HtmlSaveOptions.SaveFullFont プロパティ
+## HtmlSaveOptions.SaveFullFont property
 
-フルフォントが保存されることを示し、True Type フォントのみをサポートします。デフォルトでは SaveFullFont = false で、コンバータは文書のテキストを表示するために必要な初期フォントのサブセットを保存します。
+完全なフォントを保存することを示します。True Type フォントのみサポートします。デフォルトでは SaveFullFont = false で、変換ツールは文書のテキスト表示に必要なフォントのサブセットを保存します。
 
 ```csharp
 public bool SaveFullFont { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [HtmlSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo プロパティ。ドキュメント作成の日付を取得または設定します
+title: "DocumentInfo.CreationDate"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentInfo プロパティ。ドキュメント作成日を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/documentinfo/creationdate/
 ---
-## DocumentInfo.CreationDate プロパティ
+## DocumentInfo.CreationDate property
 
-ドキュメント作成の日付を取得または設定します。
+document 作成日の日時を取得または設定します。
 
 ```csharp
 public DateTime CreationDate { get; set; }
@@ -16,6 +16,8 @@ public DateTime CreationDate { get; set; }
 
 ### 関連項目
 
-* クラス [DocumentInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

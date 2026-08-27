@@ -1,14 +1,14 @@
 ---
-title: Enum RichMediaAnnotation.ContentType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RichMediaAnnotationContentType 列挙型。マルチメディアの種類
+title: "列挙型 RichMediaAnnotation.ContentType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.RichMediaAnnotationContentType 列挙型。マルチメディアのタイプ"
 type: docs
-weight: 2500
+weight: 2590
 url: /ja/net/aspose.pdf.annotations/richmediaannotation.contenttype/
 ---
-## RichMediaAnnotation.ContentType 列挙型
+## RichMediaAnnotation.ContentType enumeration
 
-マルチメディアの種類。
+マルチメディアのタイプです。
 
 ```csharp
 public enum ContentType
@@ -20,10 +20,12 @@ public enum ContentType
 | --- | --- | --- |
 | Audio | `0` | 音声データ。 |
 | Video | `1` | 動画データ。 |
-| Unknown | `2` | 不明/サポートされていないデータの種類。 |
+| Unknown | `2` | 不明またはサポートされていないデータの種類です。 |
 
-### 参照
+### 関連項目
 
-* クラス [RichMediaAnnotation](../richmediaannotation/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* class [RichMediaAnnotation](../richmediaannotation/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

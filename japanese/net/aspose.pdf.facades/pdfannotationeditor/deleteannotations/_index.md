@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.DeleteAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor メソッド。ドキュメント内のすべての注釈を削除します
+title: "PdfAnnotationEditor.DeleteAnnotations"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAnnotationEditor メソッド。ドキュメント内のすべての注釈を削除します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/pdfannotationeditor/deleteannotations/
@@ -23,17 +23,17 @@ editor.DeleteAnnotations();
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfAnnotationEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DeleteAnnotations(string) {#deleteannotations_1}
 
-指定されたタイプのすべての注釈をドキュメント内で削除します。
+ドキュメント内の指定されたタイプのすべての注釈を削除します。
 
 ```csharp
 public void DeleteAnnotations(string annotType)
@@ -41,7 +41,7 @@ public void DeleteAnnotations(string annotType)
 
 | パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| annotType | 文字列 | 削除される注釈のタイプ。 |
+| annotType | String | 削除される注釈のタイプです。 |
 
 ## 例
 
@@ -52,8 +52,10 @@ editor.DeleteAnnotations("Text");
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfAnnotationEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

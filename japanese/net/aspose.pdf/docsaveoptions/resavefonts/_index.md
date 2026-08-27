@@ -1,21 +1,23 @@
 ---
-title: DocSaveOptions.ReSaveFonts
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions プロパティ。フォントを再保存する手順を取得または設定します。true に設定すると、前のフォントプロパティの影響を避けるために、すべてのページでフォントを再読み込みし、新しく作成されたフォントをゼロから読み込みます。パフォーマンスを向上させたい場合は、このオプションを false に設定してください。デフォルト値は true です。
+title: "DocSaveOptions.ReSaveFonts"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocSaveOptions プロパティ。フォントの再保存手順を取得または設定します。true に設定すると、前のフォントプロパティの影響を避けるために各ページでフォントを再読み込みし、新しく作成されたフォントを最初からロードします。パフォーマンスを向上させたい場合は、このオプションを false に設定してください。既定値は true です。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/docsaveoptions/resavefonts/
 ---
-## DocSaveOptions.ReSaveFonts プロパティ
+## DocSaveOptions.ReSaveFonts property
 
-フォントを再保存する手順を取得または設定します。true に設定すると、前のフォントプロパティの影響を避けるために、すべてのページでフォントを再読み込みし、新しく作成されたフォントをゼロから読み込みます。パフォーマンスを向上させたい場合は、このオプションを false に設定してください。デフォルト値は true です。
+フォントの再保存手順を取得または設定します。true に設定すると、前のフォントプロパティの影響を避けるために各ページでフォントを再読み込みし、新しく作成されたフォントを最初からロードします。パフォーマンスを向上させたい場合は、このオプションを false に設定してください。既定値は true です。
 
 ```csharp
 public bool ReSaveFonts { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [DocSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

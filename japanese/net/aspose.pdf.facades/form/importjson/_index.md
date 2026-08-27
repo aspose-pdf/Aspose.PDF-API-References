@@ -1,22 +1,22 @@
 ---
-title: Form.ImportJson
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。JSON ストリームからすべてのフィールドデータをインポートし、フィールドの完全な名前で一致するドキュメントフィールドに配置します。
+title: "Form.ImportJson"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。JSON ストリームからすべてのフィールドデータをインポートし、完全名で一致するドキュメントのフィールドにマッピングします。"
 type: docs
 weight: 290
 url: /ja/net/aspose.pdf.facades/form/importjson/
 ---
-## Form.ImportJson メソッド
+## Form.ImportJson method
 
-JSON ストリームからすべてのフィールドデータをドキュメントフィールドにインポートし、フィールドの完全な名前で一致させます。
+JSON ストリームからすべてのフィールドデータをインポートし、完全な名前でフィールドを一致させて document フィールドに配置します。
 
 ```csharp
 public void ImportJson(Stream inputJsonStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputJsonStream | Stream | ドキュメントフィールドにインポートするフィールドデータを含む入力 JSON ストリーム。 |
+| inputJsonStream | Stream | ドキュメントのフィールドにインポートされるフィールドデータを含む入力 JSON ストリームです。 |
 
 ## 例
 
@@ -28,8 +28,10 @@ fs.Close();
 form.Save();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

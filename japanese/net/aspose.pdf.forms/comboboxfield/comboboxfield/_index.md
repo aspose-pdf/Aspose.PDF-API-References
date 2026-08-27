@@ -1,7 +1,7 @@
 ---
-title: ComboBoxField.ComboBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: ComboBoxField コンストラクタ。Generator で使用するための ComboBoxField のコンストラクタ
+title: "ComboBoxField.ComboBoxField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ComboBoxField コンストラクタ。Generator で使用される ComboBoxField のコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/comboboxfield/comboboxfield/
@@ -14,7 +14,7 @@ Generator で使用するための ComboBoxField のコンストラクタ。
 public ComboBoxField()
 ```
 
-### See Also
+### 関連項目
 
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -24,17 +24,17 @@ public ComboBoxField()
 
 ## ComboBoxField(Document) {#constructor_1}
 
-Generator と連携するための CombBox フィールドを作成します。
+Generator と連携して使用する CombBox フィールドを作成します。
 
 ```csharp
 public ComboBoxField(Document doc)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | フィールドが作成されるドキュメント。 |
+| ドキュメント | Document | フィールドが作成される Document。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [ComboBoxField](../)
@@ -51,12 +51,12 @@ Combobox フィールドのコンストラクタ。
 public ComboBoxField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | フィールドが配置されるページ。 |
-| rect | Rectangle | ページ上のフィールドのサイズと位置を定義する矩形。 |
+| ページ | ページ | フィールドが配置されるページ。 |
+| rect | Rectangle | Rectangle はページ上のフィールドのサイズと位置を定義します。 |
 
-### See Also
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -74,15 +74,17 @@ Combobox フィールドのコンストラクタ。
 public ComboBoxField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | フィールドが作成されるべきドキュメント。 |
-| rect | Rectangle | フィールドのサイズと位置を定義する矩形。 |
+| ドキュメント | Document | Document はフィールドが作成される場所を示します。 |
+| rect | Rectangle | Rectangle はフィールドのサイズと位置を定義します。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Metadata.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: メタデータメソッド。辞書の列挙子を返します
+title: "Metadata.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metadata メソッド。ディクショナリの列挙子を返します"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf/metadata/getenumerator/
 ---
-## Metadata.GetEnumerator メソッド
+## Metadata.GetEnumerator method
 
 辞書の列挙子を返します。
 
@@ -18,9 +18,11 @@ public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
 
 列挙子。
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../../xmpvalue/)
-* クラス [Metadata](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

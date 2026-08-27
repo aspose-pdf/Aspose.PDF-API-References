@@ -1,7 +1,7 @@
 ---
-title: GraphicalPdfComparer.ComparePagesToPdf
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer メソッド。ページをグラフィカルに比較します。比較結果は PDF ドキュメントに配置されます。
+title: "GraphicalPdfComparer.ComparePagesToPdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GraphicalPdfComparer メソッド。ページをグラフィカルに比較します。比較結果は PDF ドキュメントに配置されます。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/
@@ -14,24 +14,24 @@ url: /ja/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/
 public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page1 | Page | 最初のページ。 |
-| page2 | Page | 2 番目のページ。 |
-| resultPdfPath | String | 対象の PDF ファイルへのパス。 |
+| page1 | ページ | 最初のページです。 |
+| page2 | ページ | 2番目のページです。 |
+| resultPdfPath | String | 対象 PDF ファイルへのパスです。 |
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentException | 比較されるページのサイズが異なる場合。resultPdfPath が null または空の文字列の場合。 |
+| ArgumentException | 比較対象のページサイズが異なる場合。resultPdfPath が null または空文字列の場合。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [GraphicalPdfComparer](../)
-* 名前空間 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -43,22 +43,24 @@ public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
 public void ComparePagesToPdf(Page page1, Page page2, Document pdfDocument)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page1 | Page | 最初のページ。 |
-| page2 | Page | 2 番目のページ。 |
-| pdfDocument | Document | PDF ドキュメントインスタンス。 |
+| page1 | ページ | 最初のページです。 |
+| page2 | ページ | 2番目のページです。 |
+| pdfDocument | Document | PDF ドキュメントのインスタンスです。 |
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentException | 比較されるページのサイズが異なる場合。 |
+| ArgumentException | 比較対象のページのサイズが異なる場合。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [GraphicalPdfComparer](../)
-* 名前空間 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Document](../../../aspose.pdf/document/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

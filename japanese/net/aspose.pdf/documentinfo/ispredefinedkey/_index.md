@@ -1,29 +1,31 @@
 ---
-title: DocumentInfo.IsPredefinedKey
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo メソッド。キーが事前定義されているかどうかを判断します（タイトル、著者など）、カスタムではありません。
+title: "DocumentInfo.IsPredefinedKey"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentInfo メソッド。キーが事前定義された Title、Author などかどうかを判定します（カスタムではありません）。"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf/documentinfo/ispredefinedkey/
 ---
-## DocumentInfo.IsPredefinedKey メソッド
+## DocumentInfo.IsPredefinedKey method
 
-キーが事前定義されているかどうかを判断します（タイトル、著者など）、カスタムではありません。
+キーが事前定義（タイトル、作者など）かどうかを判定し、カスタムではありません。
 
 ```csharp
 public static bool IsPredefinedKey(string key)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | 選択されたキー |
+| キー | String | 選択されたキー |
 
 ### 戻り値
 
-キーが事前定義されている場合は True です。
+キーが事前定義されている場合は true です。
 
-### 参照
+### 関連項目
 
-* クラス [DocumentInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

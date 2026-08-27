@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.Rtf_105
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard フィールド。RTF1.05 属性オーナー
+title: "AttributeOwnerStandard.Rtf_105"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeOwnerStandard フィールド。RTF1.05 属性の所有者。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.logicalstructure/attributeownerstandard/rtf_105/
 ---
-## AttributeOwnerStandard.Rtf_105 フィールド
+## AttributeOwnerStandard.Rtf_105 field
 
-RTF-1.05 属性オーナー。
+RTF-1.05 属性所有者。
 
 ```csharp
 public static readonly AttributeOwnerStandard Rtf_105;
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard Rtf_105;
 
 ### 関連項目
 
-* クラス [AttributeOwnerStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

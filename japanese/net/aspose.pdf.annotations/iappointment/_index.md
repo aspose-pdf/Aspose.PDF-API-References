@@ -1,14 +1,14 @@
 ---
-title: Interface IAppointment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.IAppointment インターフェース。アクションと宛先の一般的なインターフェースを表します
+title: "インターフェイス IAppointment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.IAppointment インターフェイス。アクションとデスティネーションの一般的なインターフェイスを表します。"
 type: docs
-weight: 1900
+weight: 1990
 url: /ja/net/aspose.pdf.annotations/iappointment/
 ---
-## IAppointment インターフェース
+## IAppointment interface
 
-アクションと宛先の一般的なインターフェースを表します。
+アクションとデスティネーションの一般的なインターフェイスを表します。
 
 ```csharp
 public interface IAppointment
@@ -18,9 +18,11 @@ public interface IAppointment
 
 | 名前 | 説明 |
 | --- | --- |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | 文字列の表現を返します |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | 文字列表現を返します |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

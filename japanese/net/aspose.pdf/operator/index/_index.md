@@ -1,21 +1,23 @@
 ---
-title: Operator.Index
-second_title: Aspose.PDF for .NET API Reference
-description: オペレーターのプロパティ。ページオペレーターリスト内のオペレーターインデックス
+title: "Operator.Index"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Operator プロパティ。ページの演算子リスト内の演算子インデックス"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/operator/index/
 ---
-## Operator.Index プロパティ
+## Operator.Index property
 
-ページオペレーターリスト内のオペレーターインデックスです。
+Page operators list の演算子インデックス。
 
 ```csharp
 public int Index { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Operator](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

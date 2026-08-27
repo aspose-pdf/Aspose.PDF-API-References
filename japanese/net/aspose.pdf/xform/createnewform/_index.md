@@ -1,12 +1,12 @@
 ---
-title: XForm.CreateNewForm
-second_title: Aspose.PDF for .NET API Reference
-description: XForm メソッド。ページの内容を複製する XForm を作成します。
+title: "XForm.CreateNewForm"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XForm メソッド。ページの内容を複製する XForm を作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/xform/createnewform/
 ---
-## XForm.CreateNewForm メソッド
+## XForm.CreateNewForm method
 
 ページの内容を複製する XForm を作成します。
 
@@ -14,19 +14,21 @@ url: /ja/net/aspose.pdf/xform/createnewform/
 public static XForm CreateNewForm(Page source, Document document)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| source | Page | ソースページ |
-| document | Document | 新しい XForm が追加されるドキュメント。 |
+| source | ページ | ソースページ |
+| document | Document | 新しい XForm が追加される Document。 |
 
 ### 戻り値
 
 新しく作成された XForm。
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../page/)
-* クラス [Document](../../document/)
-* クラス [XForm](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Document](../../document/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

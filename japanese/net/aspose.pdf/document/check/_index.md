@@ -1,29 +1,31 @@
 ---
-title: Document.Check
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。ドキュメントを検証します
+title: "Document.Check"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。ドキュメントを検証します"
 type: docs
-weight: 570
+weight: 590
 url: /ja/net/aspose.pdf/document/check/
 ---
-## Document.Check メソッド
+## Document.Check method
 
-ドキュメントを検証します。
+Document を検証します。
 
 ```csharp
 public bool Check(bool doRepair)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doRepair | ブール | true の場合、見つかった問題が修正されます。 |
+| doRepair | Boolean | true の場合、検出された問題が修復されます。 |
 
 ### 戻り値
 
-True - ドキュメントが修正された場合; それ以外の場合は false。
+true - ドキュメントが修復された場合。false - それ以外の場合。
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

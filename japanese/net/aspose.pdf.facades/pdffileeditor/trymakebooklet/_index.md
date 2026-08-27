@@ -1,161 +1,31 @@
 ---
-title: PdfFileEditor.TryMakeBooklet
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor メソッド。入力ファイルから出力ファイルにブックレットを作成します。
+title: "PdfFileEditor.TryMakeBooklet"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor メソッド。入力ファイルから出力ファイルへブックレットを作成します。"
 type: docs
 weight: 430
 url: /ja/net/aspose.pdf.facades/pdffileeditor/trymakebooklet/
 ---
 ## TryMakeBooklet(string, string) {#trymakebooklet_4}
 
-ソースファイルからブックレットを作成し、結果を HttpResponse オブジェクトに保存します。
-
-```csharp
-public bool TryMakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
-    HttpResponse response)
-```
-
-| パラメータ | 型 | 説明 |
-| --- | --- | --- |
-| inputFile | String | ソースファイルのパス。 |
-| pageSize | PageSize | 希望するページサイズ。 |
-| leftPages | Int32[] | 左側に配置されるページ番号の配列。 |
-| rightPages | Int32[] | 右側に配置されるページ番号の配列。 |
-| response | HttpResponse | 結果が保存される HttpResponse オブジェクト。 |
-
-### 戻り値
-
-操作が成功した場合は true; それ以外の場合は false。
-
-## 備考
-
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
-
-### 関連項目
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#trymakebooklet}
-
-PDFファイルからブックレットを作成し、HttpResponse に保存します。
-
-```csharp
-public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, 
-    int[] rightPages, HttpResponse response)
-```
-
-| パラメータ | 型 | 説明 |
-| --- | --- | --- |
-| inputStream | Stream | 入力ドキュメントストリーム。 |
-| pageSize | PageSize | 希望するページサイズ。 |
-| leftPages | Int32[] | 左側に配置されるページ番号の配列。 |
-| rightPages | Int32[] | 右側に配置されるページ番号の配列。 |
-| response | HttpResponse | HttpResponse オブジェクト。 |
-
-### 戻り値
-
-操作が成功した場合は true; それ以外の場合は false。
-
-## 備考
-
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
-
-### 関連項目
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(string, PageSize, HttpResponse) {#trymakebooklet_7}
-
-ソースファイルからブックレットを作成し、結果を HttpResponse オブジェクトに保存します。
-
-```csharp
-public bool TryMakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
-```
-
-| パラメータ | 型 | 説明 |
-| --- | --- | --- |
-| inputFile | String | ソースファイルのパス。 |
-| pageSize | PageSize | 出力ファイルの希望するページサイズ。 |
-| response | HttpResponse | 結果が保存される HttpResponse オブジェクト。 |
-
-### 戻り値
-
-操作が成功した場合は true。
-
-## 備考
-
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
-
-### 関連項目
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(Stream, PageSize, HttpResponse) {#trymakebooklet_1}
-
-ソースファイルからブックレットを作成し、結果を HttpResponse に保存します。
-
-```csharp
-public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
-```
-
-| パラメータ | 型 | 説明 |
-| --- | --- | --- |
-| inputStream | Stream | 入力ドキュメントストリーム。 |
-| pageSize | PageSize | 出力ファイルの希望するページサイズ。 |
-| response | HttpResponse | 結果が保存されるレスポンスオブジェクト。 |
-
-### 戻り値
-
-ブックレットが正常に構築された場合は true。
-
-## 備考
-
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
-
-### 関連項目
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(string, string) {#trymakebooklet_8}
-
-入力ファイルから出力ファイルにブックレットを作成します。
+入力ファイルから出力ファイルへブックレットを作成します。
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputFile | String | 入力 PDF ファイルのパスと名前。 |
 | outputFile | String | 出力 PDF ファイルのパスと名前。 |
 
 ### 戻り値
 
-操作が成功した場合は true; それ以外の場合は false。
+操作が正常に完了した場合は true、そうでない場合は false。
 
 ## 備考
 
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
+TryMakeBooklet メソッドは MakeBooklet メソッドと同様ですが、操作が失敗した場合に例外をスローしません。
 
 ## 例
 
@@ -180,18 +50,18 @@ InputStream から outputStream へブックレットを作成します。
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputStream | Stream | 入力 PDF ストリーム。 |
 | outputStream | Stream | 出力 PDF ストリーム。 |
 
 ### 戻り値
 
-操作が成功した場合は true; それ以外の場合は false。
+操作が正常に完了した場合は true、そうでない場合は false。
 
 ## 備考
 
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
+TryMakeBooklet メソッドは MakeBooklet メソッドと同様ですが、操作が失敗した場合に例外をスローしません。
 
 ## 例
 
@@ -218,7 +88,7 @@ inputFile から outputFile へブックレットを作成します。
 public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputFile | String | 入力 PDF ファイルのパスと名前。 |
 | outputFile | String | 出力 PDF ファイルのパスと名前。 |
@@ -226,11 +96,11 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 
 ### 戻り値
 
-操作が成功した場合は true。
+操作が成功した場合は True。
 
 ## 備考
 
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
+TryMakeBooklet メソッドは MakeBooklet メソッドと同様ですが、操作が失敗した場合に例外をスローしません。
 
 ## 例
 
@@ -256,7 +126,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputStream | Stream | 入力 PDF ストリーム。 |
 | outputStream | Stream | 出力 PDF ストリーム。 |
@@ -264,11 +134,11 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 
 ### 戻り値
 
-操作が成功した場合は true; それ以外の場合は false。
+操作が正常に完了した場合は true、そうでない場合は false。
 
 ## 備考
 
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
+TryMakeBooklet メソッドは MakeBooklet メソッドと同様ですが、操作が失敗した場合に例外をスローしません。
 
 ## 例
 
@@ -296,7 +166,7 @@ firstInputFile から outputFile へカスタマイズされたブックレッ�
 public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputFile | String | 入力ファイル。 |
 | outputFile | String | 出力 PDF ファイルのパスと名前。 |
@@ -305,11 +175,11 @@ public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages,
 
 ### 戻り値
 
-操作が成功した場合は true; それ以外の場合は false。
+操作が正常に完了した場合は true、そうでない場合は false。
 
 ## 備考
 
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
+TryMakeBooklet メソッドは MakeBooklet メソッドと同様ですが、操作が失敗した場合に例外をスローしません。
 
 ## 例
 
@@ -335,20 +205,20 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPa
     int[] rightPages)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputStream | Stream | 入力ストリーム。 |
 | outputStream | Stream | 出力 PDF ストリーム。 |
-| leftPages | Int32[] | 左ページ。 |
-| rightPages | Int32[] | 右ページ。 |
+| leftPages | Int32[] | 左側のページ。 |
+| rightPages | Int32[] | 右側のページ。 |
 
 ### 戻り値
 
-操作が成功した場合は true; それ以外の場合は false。
+操作が正常に完了した場合は true、そうでない場合は false。
 
 ## 備考
 
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
+TryMakeBooklet メソッドは MakeBooklet メソッドと同様ですが、操作が失敗した場合に例外をスローしません。
 
 ## 例
 
@@ -376,21 +246,21 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
     int[] rightPages)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputFile | String | 入力ファイル。 |
 | outputFile | String | 出力 PDF ファイルのパスと名前。 |
 | pageSize | PageSize | 出力 PDF ファイルのページサイズ。 |
-| leftPages | Int32[] | 左ページ。 |
-| rightPages | Int32[] | 右ページ。 |
+| leftPages | Int32[] | 左側のページ。 |
+| rightPages | Int32[] | 右側のページ。 |
 
 ### 戻り値
 
-操作が成功した場合は true; それ以外の場合は false。
+操作が正常に完了した場合は true、そうでない場合は false。
 
 ## 備考
 
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
+TryMakeBooklet メソッドは MakeBooklet メソッドと同様ですが、操作が失敗した場合に例外をスローしません。
 
 ## 例
 
@@ -417,21 +287,21 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
     int[] leftPages, int[] rightPages)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputStream | Stream | 入力ストリーム。 |
 | outputStream | Stream | 出力 PDF ストリーム。 |
 | pageSize | PageSize | 出力 PDF ファイルのページサイズ。 |
-| leftPages | Int32[] | 左ページ。 |
-| rightPages | Int32[] | 右ページ。 |
+| leftPages | Int32[] | 左側のページ。 |
+| rightPages | Int32[] | 右側のページ。 |
 
 ### 戻り値
 
-操作が成功した場合は true; それ以外の場合は false。
+操作が正常に完了した場合は true、そうでない場合は false。
 
 ## 備考
 
-TryMakeBooklet メソッドは MakeBooklet メソッドに似ていますが、TryMakeBooklet メソッドは操作が失敗した場合に例外をスローしません。
+TryMakeBooklet メソッドは MakeBooklet メソッドと同様ですが、操作が失敗した場合に例外をスローしません。
 
 ## 例
 
@@ -449,4 +319,4 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4, new int
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
+

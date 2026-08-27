@@ -1,12 +1,12 @@
 ---
-title: StreamDataSource.DataType
-second_title: Aspose.PDF for .NET API Reference
-description: StreamDataSource プロパティ。データソースストリームのタイプ
+title: "StreamDataSource.DataType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StreamDataSource プロパティ。データソースストリームの型"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.plugins/streamdatasource/datatype/
 ---
-## StreamDataSource.DataType プロパティ
+## StreamDataSource.DataType property
 
 データソースのタイプ（ストリーム）。
 
@@ -20,3 +20,5 @@ public DataType DataType { get; }
 * class [StreamDataSource](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

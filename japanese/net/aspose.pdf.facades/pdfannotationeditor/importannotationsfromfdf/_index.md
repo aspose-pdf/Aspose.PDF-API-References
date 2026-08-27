@@ -1,12 +1,12 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationsFromFdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor メソッド。FDF ファイルからすべての注釈をインポートします
+title: "PdfAnnotationEditor.ImportAnnotationsFromFdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAnnotationEditor メソッド。FDF ファイルからすべての注釈をインポートします"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromfdf/
 ---
-## PdfAnnotationEditor.ImportAnnotationsFromFdf メソッド
+## PdfAnnotationEditor.ImportAnnotationsFromFdf method
 
 FDF ファイルからすべての注釈をインポートします。
 
@@ -14,9 +14,9 @@ FDF ファイルからすべての注釈をインポートします。
 public void ImportAnnotationsFromFdf(string fdfFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fdfFile | 文字列 | 入力 FDF ファイル。 |
+| fdfFile | String | 入力 FDF ファイルです。 |
 
 ## 例
 
@@ -29,6 +29,8 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfAnnotationEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

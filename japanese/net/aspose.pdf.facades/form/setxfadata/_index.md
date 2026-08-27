@@ -1,25 +1,27 @@
 ---
-title: Form.SetXfaData
-second_title: Aspose.PDF for .NET API Reference
-description: Form メソッド。指定されたデータパケットで XFA データを置き換えます。データパケットは ExtractXfaData を使用して抽出できます。
+title: "Form.SetXfaData"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。指定されたデータパケットで XFA データを置き換えます。データパケットは ExtractXfaData を使用して抽出できます。"
 type: docs
 weight: 350
 url: /ja/net/aspose.pdf.facades/form/setxfadata/
 ---
-## Form.SetXfaData メソッド
+## Form.SetXfaData method
 
-指定されたデータパケットで XFA データを置き換えます。データパケットは ExtractXfaData を使用して抽出できます。
+指定されたデータパケットで XFA データを置き換えます。データパケットは ExtractXfaData を使用して抽出できる場合があります。
 
 ```csharp
 public void SetXfaData(Stream inputXmlStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputXmlStream | Stream | XML が格納されているストリーム。 |
+| inputXmlStream | Stream | XML が保存されているストリームです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.Popup
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation プロパティ。 この注釈に関連付けられたテキストを入力または編集するためのポップアップ注釈
+title: "MarkupAnnotation.Popup"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarkupAnnotation プロパティ。このアノテーションに関連付けられたテキストを入力または編集するためのポップアップアノテーションです。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/markupannotation/popup/
 ---
-## MarkupAnnotation.Popup プロパティ
+## MarkupAnnotation.Popup property
 
-この注釈に関連付けられたテキストを入力または編集するためのポップアップ注釈です。
+このアノテーションに関連付けられたテキストを入力または編集するためのポップアップアノテーションです。
 
 ```csharp
 public PopupAnnotation Popup { get; set; }
@@ -20,3 +20,5 @@ public PopupAnnotation Popup { get; set; }
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

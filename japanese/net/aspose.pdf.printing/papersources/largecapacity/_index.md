@@ -1,14 +1,14 @@
 ---
-title: PaperSources.LargeCapacity
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources フィールド。プリンターの大容量ビンを表します
+title: "PaperSources.LargeCapacity"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSources フィールド。プリンターの大容量トレイを表します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.printing/papersources/largecapacity/
 ---
-## PaperSources.LargeCapacity フィールド
+## PaperSources.LargeCapacity field
 
-プリンターの大容量ビンを表します。
+プリンターの大容量トレイを表します。
 
 ```csharp
 public static readonly PaperSource LargeCapacity;
@@ -16,7 +16,9 @@ public static readonly PaperSource LargeCapacity;
 
 ### 関連項目
 
-* クラス [PaperSource](../../papersource/)
-* クラス [PaperSources](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

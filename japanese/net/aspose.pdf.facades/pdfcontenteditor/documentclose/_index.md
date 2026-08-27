@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DocumentClose
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor フィールド。ドキュメントイベントタイプ。ドキュメントを閉じます
+title: "PdfContentEditor.DocumentClose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor フィールド。ドキュメントイベントの種類です。ドキュメントを閉じます。"
 type: docs
 weight: 470
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/documentclose/
 ---
-## PdfContentEditor.DocumentClose フィールド
+## PdfContentEditor.DocumentClose field
 
-ドキュメントイベントタイプ。ドキュメントを閉じます。
+Document のイベントタイプです。Document を閉じます。
 
 ```csharp
 public const string DocumentClose;
@@ -16,6 +16,8 @@ public const string DocumentClose;
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

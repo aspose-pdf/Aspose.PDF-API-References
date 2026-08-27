@@ -1,12 +1,12 @@
 ---
-title: Line.Line
-second_title: Aspose.PDF for .NET API Reference
-description: Line コンストラクタ。Line クラスの新しいインスタンスを初期化します
+title: "Line.Line"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Line コンストラクタ。Line クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.drawing/line/line/
 ---
-## Line コンストラクタ
+## Line constructor
 
 [`Line`](../) クラスの新しいインスタンスを初期化します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.drawing/line/line/
 public Line(float[] positionArray)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| positionArray | Single[] | 線の位置配列。 |
+| positionArray | Single[] | ラインの位置配列。 |
 
-### 参照
+### 関連項目
 
-* クラス [Line](../)
-* 名前空間 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Line](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

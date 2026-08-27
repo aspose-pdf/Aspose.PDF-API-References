@@ -1,23 +1,23 @@
 ---
-title: PdfContentEditor.AddDocumentAdditionalAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。ドキュメントイベントの追加アクションを追加します。
+title: "PdfContentEditor.AddDocumentAdditionalAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。ドキュメントイベントの追加アクションを追加します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/adddocumentadditionalaction/
 ---
-## PdfContentEditor.AddDocumentAdditionalAction メソッド
+## PdfContentEditor.AddDocumentAdditionalAction method
 
-ドキュメントイベントの追加アクションを追加します。
+ドキュメントイベントに対して追加のアクションを追加します。
 
 ```csharp
 public void AddDocumentAdditionalAction(string eventType, string code)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | eventType | String | ドキュメントイベントの種類。 |
-| code | String | JavaScript のコード。 |
+| コード | String | JavaScript のコード。 |
 
 ## 例
 
@@ -30,6 +30,8 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

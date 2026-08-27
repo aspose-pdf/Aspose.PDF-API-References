@@ -1,12 +1,12 @@
 ---
-title: TextEditOptions.LanguageTransformationBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions プロパティ。言語変換シナリオの動作を定義するモードを取得します。
+title: "TextEditOptions.LanguageTransformationBehavior"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextEditOptions プロパティ。言語変換シナリオの動作を定義するモードを取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.text/texteditoptions/languagetransformationbehavior/
 ---
-## TextEditOptions.LanguageTransformationBehavior プロパティ
+## TextEditOptions.LanguageTransformationBehavior property
 
 言語変換シナリオの動作を定義するモードを取得します。
 
@@ -20,3 +20,5 @@ public LanguageTransformation LanguageTransformationBehavior { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

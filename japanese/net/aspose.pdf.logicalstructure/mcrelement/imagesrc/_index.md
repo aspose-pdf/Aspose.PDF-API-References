@@ -1,27 +1,29 @@
 ---
-title: MCRElement.ImageSrc
-second_title: Aspose.PDF for .NET API Reference
-description: MCRElement プロパティ。マークドコンテンツ参照要素の画像ソースを取得します
+title: "MCRElement.ImageSrc"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MCRElement プロパティ。markedcontent 参照要素の画像ソースを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.logicalstructure/mcrelement/imagesrc/
 ---
-## MCRElement.ImageSrc プロパティ
+## MCRElement.ImageSrc property
 
-マークドコンテンツ参照要素の画像ソースを取得します。
+marked-content 参照要素の画像ソースを取得します。
 
-新しく作成された [`IllustrationElement`](../../illustrationelement/) の場合。その他の場合は null です。
+作成直後の [`IllustrationElement`](../../illustrationelement/) です。他の場合は null です。
 
 ```csharp
 public string ImageSrc { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-マークドコンテンツ参照要素の画像ソース。
+marked-content 参照要素の画像ソースです。
 
-### 参照
+### 関連項目
 
-* クラス [MCRElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

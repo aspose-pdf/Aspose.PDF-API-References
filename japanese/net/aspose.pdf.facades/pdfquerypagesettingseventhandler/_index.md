@@ -1,29 +1,31 @@
 ---
-title: Delegate PdfQueryPageSettingsEventHandler
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer の PdfQueryPageSettings イベントを処理するメソッドを表します
+title: "デリゲート PdfQueryPageSettingsEventHandler"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer の PdfQueryPageSettings イベントを処理するメソッドを表します。"
 type: docs
-weight: 4620
+weight: 4740
 url: /ja/net/aspose.pdf.facades/pdfquerypagesettingseventhandler/
 ---
-## PdfQueryPageSettingsEventHandler デリゲート
+## PdfQueryPageSettingsEventHandler delegate
 
-[`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) イベントを処理するメソッドを表します [`PdfViewer`](../pdfviewer/) の。
+[`PdfViewer`](../pdfviewer/) の [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) イベントを処理するメソッドを表します。
 
 ```csharp
 public delegate void PdfQueryPageSettingsEventHandler(object sender, 
     PdfQueryPageSettingsEventArgs queryPageSettingsEventArgs, PdfPrintPageInfo currentPageInfo);
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| sender | Object | イベントの発生源。 |
-| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | イベントデータを含む [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) 。 |
-| currentPageInfo | PdfPrintPageInfo | 現在印刷中のページ情報。 |
+| 送信元 | Object | イベントのソースです。 |
+| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | イベント データを含む [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) です。 |
+| currentPageInfo | PdfPrintPageInfo | 現在印刷されているページ情報です。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
-* クラス [PdfPrintPageInfo](../pdfprintpageinfo/)
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
+* class [PdfPrintPageInfo](../pdfprintpageinfo/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IOperationResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: IOperationResult プロパティ。結果がテキスト文字列であるかどうかを示します
+title: "IOperationResult.IsString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IOperationResult プロパティ。結果がテキスト文字列かどうかを示します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.plugins/ioperationresult/isstring/
 ---
-## IOperationResult.IsString プロパティ
+## IOperationResult.IsString property
 
-結果がテキスト文字列であるかどうかを示します。
+結果がテキスト文字列かどうかを示します。
 
 ```csharp
 public bool IsString { get; }
@@ -16,10 +16,12 @@ public bool IsString { get; }
 
 ### 戻り値
 
-`true` は結果が文字列である場合; それ以外は `false` です。
+結果が文字列の場合は `true`、それ以外は `false`。
 
-### 参照
+### 関連項目
 
-* インターフェース [IOperationResult](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class SetTextRise
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetTextRise クラス。Ts 演算子のテキスト上昇を設定するクラス
+title: "クラス SetTextRise"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.SetTextRise クラス。Ts 演算子でテキスト上昇を設定することを表すクラス"
 type: docs
-weight: 7850
+weight: 7990
 url: /ja/net/aspose.pdf.operators/settextrise/
 ---
-## SetTextRise クラス
+## SetTextRise class
 
-Ts 演算子（テキスト上昇を設定）を表すクラス。
+Ts operator を表すクラス（テキストリフトを設定）。
 
 ```csharp
 public class SetTextRise : TextStateOperator
@@ -24,19 +24,21 @@ public class SetTextRise : TextStateOperator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リスト内の演算子インデックス。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
 | [TextRise](../../aspose.pdf.operators/settextrise/textrise/) { get; set; } | テキスト上昇を取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextrise/accept/)(IOperatorSelector) | 演算子を処理するためのビジターオブジェクトを受け入れます。 |
+| override [Accept](../../aspose.pdf.operators/settextrise/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 演算子とそのパラメータのテキストを返します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextStateOperator](../textstateoperator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

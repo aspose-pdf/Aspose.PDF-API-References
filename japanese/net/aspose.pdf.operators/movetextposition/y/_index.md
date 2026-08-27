@@ -1,14 +1,14 @@
 ---
-title: MoveTextPosition.Y
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTextPosition プロパティ。テキスト位置の Y 座標
+title: "MoveTextPosition.Y"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MoveTextPosition プロパティ。テキスト位置の Y 座標"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/movetextposition/y/
 ---
-## MoveTextPosition.Y プロパティ
+## MoveTextPosition.Y property
 
-テキスト位置の Y 座標です。
+テキスト位置の Y 座標。
 
 ```csharp
 public double Y { get; set; }
@@ -16,6 +16,8 @@ public double Y { get; set; }
 
 ### 関連項目
 
-* クラス [MoveTextPosition](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MoveTextPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: EI.EI
-second_title: Aspose.PDF for .NET API Reference
-description: EI コンストラクタ。オペレーターを初期化します
+title: "EI.EI"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "EI コンストラクタ。オペレータを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/ei/ei/
 ---
-## EI コンストラクタ
+## EI constructor
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public EI()
@@ -19,3 +19,5 @@ public EI()
 * class [EI](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

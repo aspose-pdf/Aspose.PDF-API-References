@@ -1,21 +1,23 @@
 ---
-title: TextFragmentAbsorber.Text
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber プロパティ。PDF ドキュメントまたはページで TextAbsorber が抽出したテキストを取得します。
+title: "TextFragmentAbsorber.Text"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentAbsorber プロパティ。PDF ドキュメントまたはページ上で TextAbsorber が抽出したテキストを取得します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.text/textfragmentabsorber/text/
 ---
-## TextFragmentAbsorber.Text プロパティ
+## TextFragmentAbsorber.Text property
 
-[`TextAbsorber`](../../textabsorber/) が PDF ドキュメントまたはページで抽出したテキストを取得します。
+PDF ドキュメントまたはページ上で [`TextAbsorber`](../../textabsorber/) が抽出したテキストを取得します。
 
 ```csharp
 public override string Text { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TextFragmentAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

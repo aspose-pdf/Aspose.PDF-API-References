@@ -1,12 +1,12 @@
 ---
-title: XFA.GetFieldTemplate
-second_title: Aspose.PDF for .NET API Reference
-description: XFA メソッド。XFA フィールドテンプレートの XML ノードを返します
+title: "XFA.GetFieldTemplate"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XFA メソッド。XFA フィールドテンプレートの XML ノードを返します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.forms/xfa/getfieldtemplate/
 ---
-## XFA.GetFieldTemplate メソッド
+## XFA.GetFieldTemplate method
 
 XFA フィールドテンプレートの XML ノードを返します。
 
@@ -14,16 +14,18 @@ XFA フィールドテンプレートの XML ノードを返します。
 public XmlNode GetFieldTemplate(string fieldName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fieldName | String | テンプレートを見つける必要があるフィールドのパス。 |
 
 ### 戻り値
 
-フィールドテンプレートを持つ XL ノード。
+フィールドテンプレートを含む XL ノード。
 
-### 参照
+### 関連項目
 
-* クラス [XFA](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,48 +1,48 @@
 ---
-title: PdfFileSanitization.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization メソッド。Pdf ファイルをサニタイズのためにバインドします。
+title: "PdfFileSanitization.BindPdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSanitization メソッド。サニタイズ用に PDF ファイルをバインドします。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/pdffilesanitization/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Pdf ファイルをサニタイズのためにバインドします。
+サニタイズ用に Pdf ファイルをバインドします。
 
 ```csharp
 public override void BindPdf(string inputFile)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputFile | String | 編集する pdf ファイル。 |
+| inputFile | String | 編集する PDF ファイル。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSanitization](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Pdf ストリームをサニタイズのためにバインドします。
+サニタイズ用に Pdf ストリームをバインドします。
 
 ```csharp
 public override void BindPdf(Stream inputStream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputStream | Stream | 編集する pdf ストリーム。 |
+| inputStream | Stream | 編集する PDF ストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSanitization](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -54,13 +54,15 @@ public override void BindPdf(Stream inputStream)
 public override void BindPdf(Document srcDoc)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | srcDoc | Document | Aspose.Pdf.Document オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [PdfFileSanitization](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

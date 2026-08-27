@@ -1,7 +1,7 @@
 ---
-title: TextShowOperator.TextShowOperator
-second_title: Aspose.PDF for .NET API Reference
-description: TextShowOperator コンストラクタ。TextShowOperator を初期化します。
+title: "TextShowOperator.TextShowOperator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextShowOperator コンストラクタ。TextShowOperator を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/textshowoperator/textshowoperator/
@@ -14,7 +14,7 @@ TextShowOperator を初期化します。
 public TextShowOperator()
 ```
 
-### See Also
+### 関連項目
 
 * class [TextShowOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -30,13 +30,15 @@ TextProperties を渡すことができる TextShowOperator を初期化しま�
 public TextShowOperator(TextProperties textProperties)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| textProperties | TextProperties | テキストプロパティ。 |
+| textProperties | TextProperties | テキスト プロパティ。 |
 
-### See Also
+### 関連項目
 
 * class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * class [TextShowOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

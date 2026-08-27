@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetDocumentPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo メソッド。PDF ドキュメントの権限設定を取得します
+title: "PdfFileInfo.GetDocumentPrivilege"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileInfo メソッド。PDF document privilege 設定を取得します。"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf.facades/pdffileinfo/getdocumentprivilege/
 ---
-## PdfFileInfo.GetDocumentPrivilege メソッド
+## PdfFileInfo.GetDocumentPrivilege method
 
-PDF ドキュメントの権限設定を取得します。
+PDF ドキュメントの特権設定を取得します。
 
 ```csharp
 public DocumentPrivilege GetDocumentPrivilege()
@@ -16,11 +16,13 @@ public DocumentPrivilege GetDocumentPrivilege()
 
 ### 戻り値
 
-PDF ドキュメントの権限設定。
+PDF document privilege 設定です。
 
-### 参照
+### 関連項目
 
-* クラス [DocumentPrivilege](../../documentprivilege/)
-* クラス [PdfFileInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

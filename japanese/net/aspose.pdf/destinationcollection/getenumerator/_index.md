@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection メソッド。列挙子を返します
+title: "DestinationCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DestinationCollection メソッド。列挙子を返します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/destinationcollection/getenumerator/
 ---
-## DestinationCollection.GetEnumerator メソッド
+## DestinationCollection.GetEnumerator method
 
 列挙子を返します。
 
@@ -16,10 +16,12 @@ public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 
 ### 戻り値
 
-列挙子。
+列挙子です。
 
-### 参照
+### 関連項目
 
-* クラス [DestinationCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.CloseConcatenatedStreams
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor プロパティ。true に設定すると、操作後にストリームが閉じられます。
+title: "PdfFileEditor.CloseConcatenatedStreams"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor プロパティ。true に設定すると、操作後にストリームが閉じられます。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/pdffileeditor/closeconcatenatedstreams/
 ---
-## PdfFileEditor.CloseConcatenatedStreams プロパティ
+## PdfFileEditor.CloseConcatenatedStreams property
 
 true に設定すると、操作後にストリームが閉じられます。
 
@@ -21,8 +21,10 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.CloseConcatenatedStreams = true;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

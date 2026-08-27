@@ -1,21 +1,23 @@
 ---
-title: XFA.Datasets
-second_title: Aspose.PDF for .NET API Reference
-description: XFA プロパティ。XFA フォームの XFA データセットコンポーネント
+title: "XFA.Datasets"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XFA プロパティ。XFA フォームの XFA Datasets コンポーネント"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.forms/xfa/datasets/
 ---
-## XFA.Datasets プロパティ
+## XFA.Datasets property
 
-XFA フォームの XFA データセットコンポーネント。
+XFA フォームの XFA Datasets コンポーネント。
 
 ```csharp
 public XmlNode Datasets { get; }
 ```
 
-### 参照
+### 関連項目
 
 * class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

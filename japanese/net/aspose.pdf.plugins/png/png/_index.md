@@ -1,12 +1,12 @@
 ---
-title: Png.Png
-second_title: Aspose.PDF for .NET API Reference
-description: Png コンストラクタ。デフォルトコンストラクタ
+title: "Png.Png"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Png コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/png/png/
 ---
-## Png コンストラクタ
+## Png constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public Png()
 * class [Png](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

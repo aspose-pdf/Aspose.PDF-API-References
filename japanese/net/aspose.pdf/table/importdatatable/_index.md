@@ -1,28 +1,28 @@
 ---
-title: Table.ImportDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: Table メソッド。System.Data.DataTable から Aspose.Pdf.Table にデータをインポートします。
+title: "Table.ImportDataTable"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table メソッド。System.Data.DataTable から Aspose.Pdf.Table へデータをインポートします"
 type: docs
 weight: 260
 url: /ja/net/aspose.pdf/table/importdatatable/
 ---
 ## ImportDataTable(DataTable, bool, int, int) {#importdatatable_1}
 
-System.Data.DataTable から Aspose.Pdf.Table にデータをインポートします。
+System.Data.DataTable からデータを Aspose.Pdf.Table にインポートします
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImported, 
     int firstFilledRow, int firstFilledColumn)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | importedDataTable | DataTable | System.Data.DataTable のソースインスタンス |
-| isColumnNamesImported | Boolean | 列名が最初の行としてインポートされるかどうかを指定します |
-| firstFilledRow | Int32 | インポートが開始されるターゲットテーブルの最初の行のゼロベースの番号を指定します。指定された番号の行（およびいくつかの前の行）がターゲットテーブルに存在しない場合、それらは最初に作成されます |
-| firstFilledColumn | Int32 | ターゲットテーブルの最初のターゲット列の番号を指定します。インポート開始前に列はターゲットテーブルに存在している必要があります |
+| isColumnNamesImported | Boolean | 列名を最初の行としてインポートするかどうかを指定します |
+| firstFilledRow | Int32 | インポート開始対象テーブルの最初の行のゼロベース番号を指定します。その番号の行（およびいくつかの前の行）が対象テーブルに存在しない場合、最初に作成されます |
+| firstFilledColumn | Int32 | 対象テーブルの最初の対象列番号を指定します。インポート開始前に、その列が対象テーブルに存在している必要があります |
 
-### 参照
+### 関連項目
 
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -40,17 +40,17 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
     bool isHtmlSupported = false)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| importedDataTable | DataTable | インポートされる DataTable オブジェクト。 |
-| isColumnNamesShown | Boolean | ソースデータテーブルの列名が最初の行としてインポートされるかどうかを指定します。 |
-| firstFilledRow | Int32 | インポートが開始されるターゲットテーブルの最初の行のゼロベースの番号を指定します。指定された番号の行（およびいくつかの前の行）がターゲットテーブルに存在しない場合、それらは最初に作成されます |
-| firstFilledColumn | Byte | ターゲットテーブルの最初のターゲット列の番号を指定します。インポート開始前に列はターゲットテーブルに存在している必要があります |
-| maxRows | Int32 | ソーステーブルからインポートされる最大行数。 |
-| maxColumns | Int32 | ソーステーブルからインポートされる最大列数。 |
-| isHtmlSupported | Boolean | テキストが HTML 文字列であるかどうかを指定します。 |
+| importedDataTable | DataTable | インポート対象の DataTable オブジェクトです。 |
+| isColumnNamesShown | Boolean | ソースデータテーブルの列名を最初の行としてインポートするかどうかを指定します |
+| firstFilledRow | Int32 | インポート開始対象テーブルの最初の行のゼロベース番号を指定します。その番号の行（およびいくつかの前の行）が対象テーブルに存在しない場合、最初に作成されます |
+| firstFilledColumn | Byte | 対象テーブルの最初の対象列番号を指定します。インポート開始前に、その列が対象テーブルに存在している必要があります |
+| maxRows | Int32 | ソーステーブルからインポートする最大行数 |
+| maxColumns | Int32 | ソーステーブルからインポートされる列の最大数。 |
+| isHtmlSupported | Boolean | テキストが HTML 文字列かどうかを指定します。 |
 
-### 参照
+### 関連項目
 
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -68,18 +68,20 @@ public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList,
     bool showColumnNamesAsFirstRow, bool isHtmlSupported = false)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| importedDataTable | DataTable | インポートされる DataTable オブジェクト。 |
-| sourceRowList | Int32[] | インポートされる必要があるソース DataTable オブジェクトの行番号の配列。リストは null であってはならず、既存の行の番号のみを含む必要があります。そうでない場合は例外がスローされます。 |
-| sourceColumnList | Int32[] | インポートされる必要があるソース DataTable オブジェクトの列番号の配列。リストは null であってはならず、既存の列の番号のみを含む必要があります。そうでない場合は例外がスローされます。 |
-| firstFilledRow | Int32 | インポートが開始されるターゲットテーブルの最初のセルのゼロベースの行番号。ターゲットテーブルにその行が含まれていない場合、それ（および必要に応じてすべての前の行）が作成されます |
-| firstFilledColumn | Int32 | インポートが開始されるターゲットテーブルの最初のセルのゼロベースの列番号。インポート開始前にターゲットテーブルにその列が含まれている必要があります。そうでない場合は例外がスローされます。 |
-| showColumnNamesAsFirstRow | Boolean | ソースデータテーブルの列名が最初の行としてインポートされるかどうかを指定します。 |
-| isHtmlSupported | Boolean | テキストが HTML 文字列であるかどうかを指定します。 |
+| importedDataTable | DataTable | インポート対象の DataTable オブジェクトです。 |
+| sourceRowList | Int32[] | インポートする必要があるソース DataTable オブジェクトの行番号の配列です。リストは null であってはならず、既存の行番号のみを含む必要があります。そうでない場合は例外がスローされます。 |
+| sourceColumnList | Int32[] | インポートする必要があるソース DataTable オブジェクトの列番号の配列です。リストは null であってはならず、既存の列番号のみを含む必要があります。そうでない場合は例外がスローされます。 |
+| firstFilledRow | Int32 | インポートが開始される対象テーブルの最初のセルのゼロベース行番号です。対象テーブルにその行が存在しない場合、その行（必要に応じてそれ以前の行）も作成されます。 |
+| firstFilledColumn | Int32 | インポートが開始される対象テーブルの最初のセルのゼロベース列番号です。対象テーブルがインポート開始前にその列を含んでいなければ、例外がスローされます。 |
+| showColumnNamesAsFirstRow | Boolean | ソースデータテーブルの列名を最初の行としてインポートするかどうかを指定します。 |
+| isHtmlSupported | Boolean | テキストが HTML 文字列かどうかを指定します。 |
 
-### 参照
+### 関連項目
 
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

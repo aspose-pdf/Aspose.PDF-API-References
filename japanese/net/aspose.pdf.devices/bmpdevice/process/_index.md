@@ -1,12 +1,12 @@
 ---
-title: BmpDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: BmpDevice メソッド。ページを bmp に変換し、出力ストリームに保存します
+title: "BmpDevice.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BmpDevice メソッド。ページを bmp に変換し、出力ストリームに保存します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.devices/bmpdevice/process/
 ---
-## BmpDevice.Process メソッド
+## BmpDevice.Process method
 
 ページを bmp に変換し、出力ストリームに保存します。
 
@@ -14,14 +14,16 @@ url: /ja/net/aspose.pdf.devices/bmpdevice/process/
 public override void Process(Page page, Stream output)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 変換するページ。 |
-| output | Stream | bmp 画像を含む出力ストリーム。 |
+| ページ | ページ | 変換するページです。 |
+| output | Stream | bmp画像の出力ストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [BmpDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

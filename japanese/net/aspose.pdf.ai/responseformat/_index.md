@@ -1,24 +1,24 @@
 ---
-title: Class ResponseFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ResponseFormat クラス。レスポンスの形式を表し、文字列値またはオブジェクト値のいずれかです。
+title: "クラス ResponseFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.ResponseFormat クラス。文字列値またはオブジェクト値のいずれかになるレスポンスの形式を表します。"
 type: docs
-weight: 960
+weight: 1040
 url: /ja/net/aspose.pdf.ai/responseformat/
 ---
-## ResponseFormat クラス
+## ResponseFormat class
 
-レスポンスの形式を表し、文字列値またはオブジェクト値のいずれかです。
+レスポンスの形式を表します。文字列値またはオブジェクト値のいずれかです。
 
 ```csharp
 public class ResponseFormat : IStringOrObject<ObjectType>
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ResponseFormat](responseformat/)() | デフォルトのコンストラクター。 |
+| [ResponseFormat](responseformat/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
@@ -29,9 +29,11 @@ public class ResponseFormat : IStringOrObject<ObjectType>
 | [ObjectValue](../../aspose.pdf.ai/responseformat/objectvalue/) { get; set; } | レスポンス形式のオブジェクト値を取得または設定します。 |
 | [StringValue](../../aspose.pdf.ai/responseformat/stringvalue/) { get; set; } | レスポンス形式の文字列値を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IStringOrObject&lt;T&gt;](../istringorobject-1/)
-* クラス [ObjectType](../responseformat.objecttype/)
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
+* class [ObjectType](../responseformat.objecttype/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

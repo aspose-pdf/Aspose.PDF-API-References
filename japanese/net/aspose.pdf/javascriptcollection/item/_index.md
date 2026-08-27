@@ -1,14 +1,14 @@
 ---
-title: JavaScriptCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: JavaScriptCollection プロパティ。コレクションからキーによって JavaScript を取得または設定します
+title: "JavaScriptCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "JavaScriptCollection プロパティ。キーでコレクションから JavaScript を取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/javascriptcollection/item/
 ---
-## JavaScriptCollection インデクサー
+## JavaScriptCollection indexer
 
-コレクションからキーによって JavaScript を取得または設定します。
+キーでコレクションから JavaScript を取得または設定します。
 
 ```csharp
 public string this[string key] { get; set; }
@@ -16,14 +16,16 @@ public string this[string key] { get; set; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| key | キー値。 |
+| キー | キーの値。 |
 
 ### 戻り値
 
-JavaScript コレクション。
+Javascript コレクション。
 
-### 参照
+### 関連項目
 
-* クラス [JavaScriptCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

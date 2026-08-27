@@ -1,12 +1,12 @@
 ---
-title: Image.Image
-second_title: Aspose.PDF for .NET API Reference
-description: 画像コンストラクタ。デフォルトコンストラクタ
+title: "Image.Image"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Image コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/image/image/
 ---
-## 画像コンストラクタ
+## Image constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/image/image/
 public Image()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Image](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

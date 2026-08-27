@@ -1,12 +1,12 @@
 ---
-title: XfdfReader.XfdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: XfdfReader コンストラクタ。デフォルトコンストラクタ
+title: "XfdfReader.XfdfReader"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XfdfReader コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/xfdfreader/xfdfreader/
 ---
-## XfdfReader コンストラクタ
+## XfdfReader constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public XfdfReader()
 
 ### 関連項目
 
-* クラス [XfdfReader](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XfdfReader](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

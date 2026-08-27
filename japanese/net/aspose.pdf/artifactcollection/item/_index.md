@@ -1,14 +1,14 @@
 ---
-title: ArtifactCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection プロパティ。インデックスによってアーティファクトを取得します。インデックスは 1 から始まります
+title: "ArtifactCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ArtifactCollection プロパティ。インデックスでアーティファクトを取得します。インデックスは 1 から始まります"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/artifactcollection/item/
 ---
-## ArtifactCollection インデクサ
+## ArtifactCollection indexer
 
-インデックスによってアーティファクトを取得します。インデックスは 1 から始まります。
+インデックスでアーティファクトを取得します。インデックスは 1 から始まります。
 
 ```csharp
 public Artifact this[int index] { get; }
@@ -16,15 +16,17 @@ public Artifact this[int index] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | アーティファクトのインデックス。 |
+| インデックス | アーティファクトのインデックス。 |
 
 ### 戻り値
 
 ページ上のアーティファクト。
 
-### 参照
+### 関連項目
 
-* クラス [Artifact](../../artifact/)
-* クラス [ArtifactCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

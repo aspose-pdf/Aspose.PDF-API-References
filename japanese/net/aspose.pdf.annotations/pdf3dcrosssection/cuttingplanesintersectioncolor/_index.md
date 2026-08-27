@@ -1,26 +1,28 @@
 ---
-title: PDF3DCrossSection.CuttingPlanesIntersectionColor
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSection プロパティ。カッティングプレーンの交差点の色を取得または設定します。
+title: "PDF3DCrossSection.CuttingPlanesIntersectionColor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DCrossSection プロパティ。切断平面の交差点の色を取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplanesintersectioncolor/
 ---
-## PDF3DCrossSection.CuttingPlanesIntersectionColor プロパティ
+## PDF3DCrossSection.CuttingPlanesIntersectionColor property
 
-カッティングプレーンの交差点の色を取得または設定します。
+切断平面の交点の Color を取得または設定します。
 
 ```csharp
 public Color CuttingPlanesIntersectionColor { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-カッティングプレーンの交差点の色。
+切断平面の交差点の色です。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../../../aspose.pdf/color/)
-* クラス [PDF3DCrossSection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BackgroundArtifact.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: BackgroundArtifact プロパティ。背景アーティファクトの背景色を取得または設定します
+title: "BackgroundArtifact.BackgroundColor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BackgroundArtifact プロパティ。背景アーティファクトの背景色を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/backgroundartifact/backgroundcolor/
 ---
-## BackgroundArtifact.BackgroundColor プロパティ
+## BackgroundArtifact.BackgroundColor property
 
-背景アーティファクトの背景色を取得または設定します
+背景アーティファクトの背景色を取得または設定します。
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -20,3 +20,5 @@ public Color BackgroundColor { get; set; }
 * class [BackgroundArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

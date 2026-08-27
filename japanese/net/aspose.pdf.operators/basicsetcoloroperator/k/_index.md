@@ -1,12 +1,12 @@
 ---
-title: BasicSetColorOperator.K
-second_title: Aspose.PDF for .NET API Reference
-description: BasicSetColorOperator プロパティ。CMYK カラーの黒成分を取得します
+title: "BasicSetColorOperator.K"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BasicSetColorOperator プロパティ。CMYK 色の黒成分を取得します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.operators/basicsetcoloroperator/k/
 ---
-## BasicSetColorOperator.K プロパティ
+## BasicSetColorOperator.K property
 
 CMYK カラーの黒成分を取得します。
 
@@ -16,6 +16,8 @@ public double K { get; }
 
 ### 関連項目
 
-* クラス [BasicSetColorOperator](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

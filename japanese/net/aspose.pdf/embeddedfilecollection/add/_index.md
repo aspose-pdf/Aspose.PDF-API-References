@@ -1,7 +1,7 @@
 ---
-title: EmbeddedFileCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection メソッド。コレクションに埋め込みファイル仕様を追加します。
+title: "EmbeddedFileCollection.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "EmbeddedFileCollection メソッド。埋め込みファイル仕様をコレクションに追加します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/embeddedfilecollection/add/
@@ -14,16 +14,16 @@ url: /ja/net/aspose.pdf/embeddedfilecollection/add/
 public void Add(FileSpecification file)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| file | FileSpecification | コレクションに追加されるべき FileSpecification。 |
+| file | FileSpecification | FileSpecification which should be added into colleciton. |
 
-### 参照
+### 関連項目
 
-* クラス [FileSpecification](../../filespecification/)
-* クラス [EmbeddedFileCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,14 +35,16 @@ public void Add(FileSpecification file)
 public void Add(string key, FileSpecification file)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | 埋め込みファイルのキー。 |
+| キー | String | Key in the embedded files. |
 | file | FileSpecification | ファイル仕様。 |
 
-### 参照
+### 関連項目
 
-* クラス [FileSpecification](../../filespecification/)
-* クラス [EmbeddedFileCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

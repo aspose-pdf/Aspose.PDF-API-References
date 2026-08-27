@@ -1,12 +1,12 @@
 ---
-title: TextAbsorber.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber プロパティ。テキスト抽出オプションを取得または設定します
+title: "TextAbsorber.ExtractionOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextAbsorber プロパティ。テキスト抽出オプションを取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.text/textabsorber/extractionoptions/
 ---
-## TextAbsorber.ExtractionOptions プロパティ
+## TextAbsorber.ExtractionOptions property
 
 テキスト抽出オプションを取得または設定します。
 
@@ -16,32 +16,34 @@ public virtual TextExtractionOptions ExtractionOptions { get; set; }
 
 ## 備考
 
-抽出中にテキストフォーマットモード [`TextExtractionOptions`](../../textextractionoptions/) を定義することができます。デフォルトモードは Pure です。
+抽出中にテキスト書式設定モードを [`TextExtractionOptions`](../../textextractionoptions/) で定義できます。デフォルトのモードは Pure です。
 
 ## 例
 
-この例では、Pure テキストフォーマットモードを設定し、テキスト抽出を実行する方法を示します。
+この例は Pure テキスト書式設定モードを設定し、テキスト抽出を実行する方法を示しています。
 
 ```csharp
-// open document
+// ドキュメントを開く
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text with formatting
+// 書式設定付きでテキストを抽出するために TextAbsorber オブジェクトを作成します。
 TextAbsorber absorber = new TextAbsorber();
 
-// set pure text formatting mode
+// Pure テキスト書式設定モードを設定します。
 absorber.ExtractionOptions = new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure);
 
-// accept the absorber for all document's pages
+// すべての document のページに対してアブソーバーを受け入れます
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// 抽出されたテキストを取得します。
 string extractedText = absorber.Text;
 ```
 
 ### 関連項目
 
-* クラス [TextExtractionOptions](../../textextractionoptions/)
-* クラス [TextAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

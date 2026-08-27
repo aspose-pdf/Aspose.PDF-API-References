@@ -1,21 +1,23 @@
 ---
-title: PdfFileSanitization.UseTrimTop
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitizationプロパティ。PDFデータの前にデータを削除することを許可します
+title: "PdfFileSanitization.UseTrimTop"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSanitization プロパティ。PDF データの前のデータを削除できるようにします。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.facades/pdffilesanitization/usetrimtop/
 ---
-## PdfFileSanitization.UseTrimTopプロパティ
+## PdfFileSanitization.UseTrimTop property
 
-PDFデータの前にデータを削除することを許可します。
+PDF データの前にデータを削除できるようにします。
 
 ```csharp
 public bool UseTrimTop { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSanitization](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

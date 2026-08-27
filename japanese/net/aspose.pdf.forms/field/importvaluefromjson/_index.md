@@ -1,26 +1,26 @@
 ---
-title: Field.ImportValueFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: フィールドメソッド。フィールドの完全な名前の正確な一致に基づいて、JSONストリームから指定されたフィールドにデータをインポートします。
+title: "Field.ImportValueFromJson"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Field メソッド。フィールドの完全名と完全一致する JSON ストリームから、指定されたフィールドへデータをインポートします。"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.forms/field/importvaluefromjson/
 ---
 ## ImportValueFromJson(Stream) {#importvaluefromjson}
 
-フィールドの完全な名前の正確な一致に基づいて、JSONストリームから指定されたフィールドにデータをインポートします。
+フィールドの完全名が完全一致することに基づき、JSON ストリームから指定されたフィールドにデータをインポートします。
 
 ```csharp
 public bool ImportValueFromJson(Stream inputJsonStream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputJsonStream | Stream | フィールドにインポートされるフィールドデータを含む入力JSONストリーム。 |
+| inputJsonStream | Stream | フィールドにインポートされるフィールドデータを含む入力 JSON ストリームです。 |
 
 ### 戻り値
 
-JSONストリームでフィールドが見つかった場合はtrue; それ以外の場合はfalse
+JSON ストリームでフィールドが見つかった場合は true、そうでない場合は false です。
 
 ## 例
 
@@ -33,30 +33,30 @@ fs.Close();
 document.Save();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Field](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportValueFromJson(Stream, string) {#importvaluefromjson_1}
 
-'fieldFullNameInJSON'変数で指定された完全な名前を使用して、JSONストリームから指定されたフィールドにデータをインポートします。
+JSON ストリームから指定されたフィールドにデータをインポートします。マッチングには 'fieldFullNameInJSON' 変数で指定された完全名を使用します。
 
 ```csharp
 public bool ImportValueFromJson(Stream inputJsonStream, string fieldFullNameInJSON)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputJsonStream | Stream | フィールドにインポートされるフィールドデータを含む入力JSONストリーム。 |
-| fieldFullNameInJSON | String | 一致のためのJSONストリーム内のデータの名前。JSONストリーム内のデータがネストされた構造を持つ場合、完全な名前はすべての親アイテムと子アイテムを'.'で区切って指定する必要があります。 |
+| inputJsonStream | Stream | フィールドにインポートされるフィールドデータを含む入力 JSON ストリームです。 |
+| fieldFullNameInJSON | String | The name of the data within the JSON stream for matching. If the data within the JSON stream has a nested structure, the full name should be specified with all parent and child items separated by '.' |
 
 ### 戻り値
 
-JSONファイルでフィールドが見つかった場合はtrue; それ以外の場合はfalse
+json ファイルでフィールドが見つかった場合は true、そうでなければ false
 
 ## 例
 
@@ -69,8 +69,10 @@ fs.Close();
 document.Save();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Field](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

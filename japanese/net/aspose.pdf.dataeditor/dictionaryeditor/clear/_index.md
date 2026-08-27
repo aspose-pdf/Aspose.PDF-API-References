@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor メソッド。DictionaryEditor からすべてのアイテムを削除します
+title: "DictionaryEditor.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DictionaryEditor メソッド。DictionaryEditor からすべての項目を削除します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.dataeditor/dictionaryeditor/clear/
 ---
-## DictionaryEditor.Clear メソッド
+## DictionaryEditor.Clear method
 
-[`DictionaryEditor`](../) からすべてのアイテムを削除します。
+[`DictionaryEditor`](../) からすべての項目を削除します。
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### 関連項目
 
-* クラス [DictionaryEditor](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

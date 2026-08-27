@@ -1,14 +1,14 @@
 ---
-title: Class PdfANonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfANonSpecificationFlags クラス。このクラスは、ソース PDF ドキュメントが PDF 仕様に対応していない場合の PDF/A 変換を制御するためのフラグを保持します。このクラスのフラグを使用するとパフォーマンスが低下しますが、ソース PDF ドキュメントを通常の方法で PDF/A 形式に変換できない場合には必要です。デフォルトでは、すべてのフラグは false に設定されています。
+title: "クラス PdfANonSpecificationFlags"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PdfANonSpecificationFlags クラス。このクラスは、ソース PDF ドキュメントが PDF 仕様に準拠していない場合の PDF/A 変換を制御するフラグを保持します。このクラスのフラグを使用するとパフォーマンスが低下しますが、通常の方法でソース PDF ドキュメントを PDF/A 形式に変換できない場合に必要です。デフォルトではすべてのフラグが false に設定されています"
 type: docs
-weight: 8320
+weight: 8460
 url: /ja/net/aspose.pdf/pdfanonspecificationflags/
 ---
-## PdfANonSpecificationFlags クラス
+## PdfANonSpecificationFlags class
 
-このクラスは、ソース PDF ドキュメントが PDF 仕様に対応していない場合の PDF/A 変換を制御するためのフラグを保持します。このクラスのフラグを使用するとパフォーマンスが低下しますが、ソース PDF ドキュメントを通常の方法で PDF/A 形式に変換できない場合には必要です。デフォルトでは、すべてのフラグは false に設定されています。
+このクラスは、ソース PDF Document が PDF 仕様に準拠していない場合の PDF/A 変換を制御するフラグを保持します。これらのフラグを使用するとパフォーマンスが低下しますが、通常の方法でソース PDF Document を PDF/A 形式に変換できない場合に必要です。デフォルトでは、すべてのフラグが false に設定されています。
 
 ```csharp
 public class PdfANonSpecificationFlags
@@ -18,15 +18,17 @@ public class PdfANonSpecificationFlags
 
 | 名前 | 説明 |
 | --- | --- |
-| [PdfANonSpecificationFlags](pdfanonspecificationflags/)() | デフォルトのコンストラクタ。 |
+| [PdfANonSpecificationFlags](pdfanonspecificationflags/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [CheckDifferentNamesInFontDictionaries](../../aspose.pdf/pdfanonspecificationflags/checkdifferentnamesinfontdictionaries/) { get; set; } | 一部の PDF ドキュメントには、内部データで異なる名前を持つフォントが含まれています。このフラグを使用すると、BaseFont と FontDescriptor.FontName のフィールドが異なる場合の特別な処理ロジックが強制されます。 |
+| [CheckDifferentNamesInFontDictionaries](../../aspose.pdf/pdfanonspecificationflags/checkdifferentnamesinfontdictionaries/) { get; set; } | 一部の PDF ドキュメントには、内部データで名前が異なるフォントが含まれています。このフラグを使用すると、BaseFont フィールドと FontDescriptor.FontName フィールドが異なる場合の特別な処理ロジックが適用されます |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

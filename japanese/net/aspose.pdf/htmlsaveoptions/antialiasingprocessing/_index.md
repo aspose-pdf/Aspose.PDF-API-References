@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.AntialiasingProcessing
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions フィールド。このパラメーターは、PDF から HTML への複合背景画像の変換中に必要なアンチエイリアス処理を定義します
+title: "HtmlSaveOptions.AntialiasingProcessing"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions フィールド。このパラメータは、PDF から HTML への複合背景画像の変換時に必要なアンチエイリアス処理を定義します。"
 type: docs
 weight: 240
 url: /ja/net/aspose.pdf/htmlsaveoptions/antialiasingprocessing/
 ---
-## HtmlSaveOptions.AntialiasingProcessing フィールド
+## HtmlSaveOptions.AntialiasingProcessing field
 
-このパラメーターは、PDF から HTML への複合背景画像の変換中に必要なアンチエイリアス処理を定義します
+このパラメータは、PDF から HTML への複合背景画像変換時に必要なアンチエイリアス処理を定義します。
 
 ```csharp
 public AntialiasingProcessingType AntialiasingProcessing;
@@ -20,3 +20,5 @@ public AntialiasingProcessingType AntialiasingProcessing;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

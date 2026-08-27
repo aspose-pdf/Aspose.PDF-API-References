@@ -1,21 +1,23 @@
 ---
-title: TableElement.IsBroken
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement プロパティ。テーブルが壊れているかどうかを取得または設定します - 次のページに切り捨てられます。
+title: "TableElement.IsBroken"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableElement プロパティ。テーブルが壊れているかどうかを取得または設定します。次のページに切り捨てられます。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.logicalstructure/tableelement/isbroken/
 ---
-## TableElement.IsBroken プロパティ
+## TableElement.IsBroken property
 
-テーブルが壊れているかどうかを取得または設定します - 次のページに切り捨てられます。
+テーブルが分割されるかどうかを取得または設定します - 次のページで切り捨てられます。
 
 ```csharp
 public bool IsBroken { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TableElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

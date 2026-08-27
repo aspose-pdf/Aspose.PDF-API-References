@@ -1,32 +1,34 @@
 ---
-title: Class FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FontEmbeddingOptions クラス。PDF/A 標準では、すべてのフォントを文書に埋め込む必要があります。このクラスには、宛先 PC にフォントが存在しないために一部のフォントを埋め込むことができない場合のフラグが含まれています。
+title: "クラス FontEmbeddingOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.FontEmbeddingOptions クラス。PDF/A 標準では、すべてのフォントをドキュメントに埋め込むことが必要です。このクラスは、フォントが宛先 PC に存在せず埋め込めない場合のフラグを含みます。"
 type: docs
-weight: 4890
+weight: 5010
 url: /ja/net/aspose.pdf/fontembeddingoptions/
 ---
-## FontEmbeddingOptions クラス
+## FontEmbeddingOptions class
 
-PDF/A 標準では、すべてのフォントを文書に埋め込む必要があります。このクラスには、宛先 PC にフォントが存在しないために一部のフォントを埋め込むことができない場合のフラグが含まれています。
+PDF/A 標準では、すべてのフォントを document に埋め込むことが要求されています。このクラスは、対象の PC にフォントが存在せず埋め込めない場合のフラグを含みます。
 
 ```csharp
 public class FontEmbeddingOptions
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [FontEmbeddingOptions](fontembeddingoptions/)() | デフォルトのコンストラクター。 |
+| [FontEmbeddingOptions](fontembeddingoptions/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | 非埋め込みフォントをデフォルトのフォント置換戦略を使用して置換するかどうかを示します。デフォルト値: `false`。 |
+| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | 非埋め込みフォントをデフォルトのフォント置換戦略で代替するかどうかを示します。デフォルト値: `false`。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

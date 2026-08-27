@@ -1,30 +1,32 @@
 ---
-title: Color.op_Equality
-second_title: Aspose.PDF for .NET API Reference
-description: Color メソッド。2つの Color が等しい場合は true を返します
+title: "Color.op_Equality"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color メソッド。2つの Color が等しい場合に true を返します。"
 type: docs
 weight: 1560
 url: /ja/net/aspose.pdf/color/op_equality/
 ---
-## Color 等価演算子
+## Color Equality operator
 
-2つの Color が等しい場合は true を返します。
+2 つの Color が等しい場合に true を返します。
 
 ```csharp
 public static bool operator ==(Color x, Color y)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | x | Color | 最初の Color オブジェクト。 |
-| y | Color | 2番目の Color オブジェクト。 |
+| y | Color | 2 番目の Color オブジェクト。 |
 
 ### 戻り値
 
-Color オブジェクトが等しい場合は true。
+Color オブジェクトが等しい場合は true です。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

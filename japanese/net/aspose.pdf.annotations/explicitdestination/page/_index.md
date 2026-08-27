@@ -1,14 +1,14 @@
 ---
-title: ExplicitDestination.Page
-second_title: Aspose.PDF for .NET API Reference
-description: ExplicitDestination プロパティ。デスティネーションページオブジェクトを取得します
+title: "ExplicitDestination.Page"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ExplicitDestination プロパティ。目的地ページオブジェクトを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/explicitdestination/page/
 ---
-## ExplicitDestination.Page プロパティ
+## ExplicitDestination.Page property
 
-デスティネーションページオブジェクトを取得します
+デスティネーションの Page オブジェクトを取得します。
 
 ```csharp
 public Page Page { get; }
@@ -16,7 +16,9 @@ public Page Page { get; }
 
 ### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [ExplicitDestination](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

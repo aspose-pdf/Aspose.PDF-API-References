@@ -1,20 +1,20 @@
 ---
-title: PrinterResolutionExtensions.ToAsposePrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterResolutionExtensions メソッド。Windows 特有の System.Drawing.Printing.PrinterResolution PrinterResolution を変換します。
+title: "PrinterResolutionExtensions.ToAsposePrinterResolution"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrinterResolutionExtensions メソッド。Windows 固有の System.Drawing.Printing.PrinterResolution PrinterResolution を変換します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.printing/printerresolutionextensions/toasposeprinterresolution/
 ---
-## PrinterResolutionExtensions.ToAsposePrinterResolution メソッド
+## PrinterResolutionExtensions.ToAsposePrinterResolution method
 
-Windows 特有の System.Drawing.Printing.PrinterResolution [`PrinterResolution`](../../printerresolution/) を変換します。
+Windows 固有の System.Drawing.Printing.PrinterResolution を変換します [`PrinterResolution`](../../printerresolution/)。
 
 ```csharp
 public static PrinterResolution ToAsposePrinterResolution(this PrinterResolution nativeResolution)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | nativeResolution | PrinterResolution | 変換する Windows プリンタ解像度。 |
 
@@ -22,9 +22,11 @@ public static PrinterResolution ToAsposePrinterResolution(this PrinterResolution
 
 変換されたプリンタ解像度。
 
-### 参照
+### 関連項目
 
-* クラス [PrinterResolution](../../printerresolution/)
-* クラス [PrinterResolutionExtensions](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PrinterResolution](../../printerresolution/)
+* class [PrinterResolutionExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

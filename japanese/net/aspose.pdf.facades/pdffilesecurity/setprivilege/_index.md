@@ -1,22 +1,22 @@
 ---
-title: PdfFileSecurity.SetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity メソッド。空のユーザー/オーナーパスワードで Pdf ファイルのセキュリティを設定します。オーナーパスワードはランダムな文字列によって追加されます。プロセスが失敗した場合は例外がスローされます。
+title: "PdfFileSecurity.SetPrivilege"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSecurity メソッド。空のユーザー/オーナーパスワードで Pdf ファイルのセキュリティを設定します。オーナーパスワードはランダムな文字列で追加されます。処理が失敗した場合は例外がスローされます"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/pdffilesecurity/setprivilege/
 ---
 ## SetPrivilege(DocumentPrivilege) {#setprivilege}
 
-空のユーザー/オーナーパスワードで Pdf ファイルのセキュリティを設定します。オーナーパスワードはランダムな文字列によって追加されます。プロセスが失敗した場合は例外がスローされます。
+ユーザー/オーナーパスワードを空にして Pdf ファイルのセキュリティを設定します。オーナーパスワードはランダムな文字列が追加されます。処理が失敗した場合は例外をスローします。
 
 ```csharp
 public bool SetPrivilege(DocumentPrivilege privilege)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| privilege | DocumentPrivilege | 権限を設定します。 |
+| 権限 | DocumentPrivilege | 権限を設定します。 |
 
 ### 戻り値
 
@@ -38,28 +38,28 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 ```
 
-### 参照
+### 関連項目
 
-* クラス [DocumentPrivilege](../../documentprivilege/)
-* クラス [PdfFileSecurity](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetPrivilege(string, string, DocumentPrivilege) {#setprivilege_1}
 
-元のパスワードで Pdf ファイルのセキュリティを設定します。プロセスが失敗した場合は例外がスローされます。
+元のパスワードで Pdf ファイルのセキュリティを設定します。処理が失敗した場合は例外をスローします。
 
 ```csharp
 public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | userPassword | String | 元のユーザーパスワード。 |
 | ownerPassword | String | 元のオーナーパスワード。 |
-| privilege | DocumentPrivilege | 権限を設定します。 |
+| 権限 | DocumentPrivilege | 権限を設定します。 |
 
 ### 戻り値
 
@@ -81,9 +81,11 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```
 
-### 参照
+### 関連項目
 
-* クラス [DocumentPrivilege](../../documentprivilege/)
-* クラス [PdfFileSecurity](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

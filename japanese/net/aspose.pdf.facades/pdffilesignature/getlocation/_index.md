@@ -1,20 +1,20 @@
 ---
-title: PdfFileSignature.GetLocation
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature メソッド。署名の位置を取得します。
+title: "PdfFileSignature.GetLocation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSignature メソッド。署名の位置を取得します。"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf.facades/pdffilesignature/getlocation/
 ---
-## PdfFileSignature.GetLocation メソッド
+## PdfFileSignature.GetLocation method
 
-署名の位置を取得します。
+署名の場所を取得します。
 
 ```csharp
 public string GetLocation(SignatureName signName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | signName | SignatureName | 署名の名前。 |
 
@@ -22,9 +22,11 @@ public string GetLocation(SignatureName signName)
 
 文字列型の結果を返します。
 
-### 参照
+### 関連項目
 
-* クラス [SignatureName](../../signaturename/)
-* クラス [PdfFileSignature](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

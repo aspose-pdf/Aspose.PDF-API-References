@@ -1,14 +1,14 @@
 ---
-title: Enum PdfToHtmlOptions.SaveDataType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToHtmlOptionsSaveDataType 列挙型。HTMLファイルの出力タイプを定義します
+title: "列挙型 PdfToHtmlOptions.SaveDataType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.PdfToHtmlOptionsSaveDataType 列挙型。HTML ファイルの出力タイプを定義します"
 type: docs
-weight: 9110
+weight: 9260
 url: /ja/net/aspose.pdf.plugins/pdftohtmloptions.savedatatype/
 ---
-## PdfToHtmlOptions.SaveDataType 列挙型
+## PdfToHtmlOptions.SaveDataType enumeration
 
-HTMLファイルの出力タイプを定義します。
+HTML ファイルの出力タイプを定義します。
 
 ```csharp
 public enum SaveDataType
@@ -18,12 +18,14 @@ public enum SaveDataType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| FileWithExternalResources | `0` | 外部リソースを持つファイルにHTMlを保存 |
-| FileWithEmbeddedResources | `1` | 埋め込みリソースを持つファイルにHTMlを保存 |
-| StreamWithEmbeddedResources | `2` | 埋め込みリソースを持つファイルストリームにHTMlを保存 |
+| FileWithExternalResources | `0` | 外部リソース付きで HTMl をファイルに保存する |
+| FileWithEmbeddedResources | `1` | 埋め込みリソース付きで HTMl をファイルに保存する |
+| StreamWithEmbeddedResources | `2` | 埋め込みリソース付きで HTMl をファイルストリームに保存する |
 
-### 参照
+### 関連項目
 
-* クラス [PdfToHtmlOptions](../pdftohtmloptions/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfToHtmlOptions](../pdftohtmloptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

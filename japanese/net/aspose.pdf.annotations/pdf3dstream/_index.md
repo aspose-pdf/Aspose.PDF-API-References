@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DStream
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DStream クラス。クラス PDF3DStream
+title: "クラス PDF3DStream"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.PDF3DStream クラス。クラス PDF3DStream"
 type: docs
-weight: 2230
+weight: 2320
 url: /ja/net/aspose.pdf.annotations/pdf3dstream/
 ---
-## PDF3DStream クラス
+## PDF3DStream class
 
 クラス PDF3DStream。
 
@@ -26,7 +26,9 @@ public class PDF3DStream
 | --- | --- |
 | [Content](../../aspose.pdf.annotations/pdf3dstream/content/) { get; set; } | コンテンツを取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

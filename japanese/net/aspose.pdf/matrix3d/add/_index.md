@@ -1,29 +1,31 @@
 ---
-title: Matrix3D.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D メソッド。行列を他の行列に追加します
+title: "Matrix3D.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix3D メソッド。行列を別の行列に加算します"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/matrix3d/add/
 ---
-## Matrix3D.Add メソッド
+## Matrix3D.Add method
 
-行列を他の行列に追加します。
+Matrix を別の Matrix に加算します。
 
 ```csharp
 public Matrix3D Add(Matrix3D other)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| other | Matrix3D | 追加される行列。 |
+| 他 | Matrix3D | Matrix を追加します。 |
 
 ### 戻り値
 
-行列の追加結果。
+行列の加算結果。
 
-### 参照
+### 関連項目
 
-* クラス [Matrix3D](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

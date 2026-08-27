@@ -1,12 +1,12 @@
 ---
-title: TableElement.CreateTBody
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement メソッド。TableTHeadElement を作成し、現在のテーブルに追加します。
+title: "TableElement.CreateTBody"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableElement メソッド。TableTHeadElement を作成し、現在のテーブルに追加します。"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf.logicalstructure/tableelement/createtbody/
 ---
-## TableElement.CreateTBody メソッド
+## TableElement.CreateTBody method
 
 [`TableTHeadElement`](../../tabletheadelement/) を作成し、現在のテーブルに追加します。
 
@@ -16,11 +16,13 @@ public TableTBodyElement CreateTBody()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [TableTBodyElement](../../tabletbodyelement/)
-* クラス [TableElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableTBodyElement](../../tabletbodyelement/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

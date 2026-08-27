@@ -1,12 +1,12 @@
 ---
-title: PDF3DViewArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DViewArray プロパティ。ビューの数を取得します
+title: "PDF3DViewArray.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DViewArray プロパティ。ビューの数を取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/pdf3dviewarray/count/
 ---
-## PDF3DViewArray.Count プロパティ
+## PDF3DViewArray.Count property
 
 ビューの数を取得します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.annotations/pdf3dviewarray/count/
 public int Count { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ビューの数。
+ビューの数です。
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DViewArray](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

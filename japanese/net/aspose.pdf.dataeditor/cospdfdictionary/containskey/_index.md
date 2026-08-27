@@ -1,29 +1,31 @@
 ---
-title: CosPdfDictionary.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary メソッド。CosPdfDictionary に指定されたキーを持つ要素が含まれているかどうかを判断します。
+title: "CosPdfDictionary.ContainsKey"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfDictionary メソッド。指定されたキーを持つ要素が CosPdfDictionary に含まれているかどうかを判断します"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.dataeditor/cospdfdictionary/containskey/
 ---
-## CosPdfDictionary.ContainsKey メソッド
+## CosPdfDictionary.ContainsKey method
 
-[`CosPdfDictionary`](../) に指定されたキーを持つ要素が含まれているかどうかを判断します。
+[`CosPdfDictionary`](../) が指定されたキーを持つ要素を含むかどうかを判断します。
 
 ```csharp
 public bool ContainsKey(string key)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | [`CosPdfDictionary`](../) で検索するキー。 |
+| key | String | [`CosPdfDictionary`](../) で検索するキーです。 |
 
 ### 戻り値
 
-[`CosPdfDictionary`](../) にキーを持つ編集可能な要素が含まれている場合は true; それ以外の場合は false。
+[`CosPdfDictionary`](../) がそのキーを持つ編集可能な要素を含む場合は true、そうでなければ false です。
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfDictionary](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

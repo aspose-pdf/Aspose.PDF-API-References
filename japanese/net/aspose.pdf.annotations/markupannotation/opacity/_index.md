@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation プロパティ。注釈を描画するために使用される定数不透明度値を取得または設定します。
+title: "MarkupAnnotation.Opacity"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarkupAnnotation プロパティ。annotation の描画に使用される一定の不透明度値を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/markupannotation/opacity/
 ---
-## MarkupAnnotation.Opacity プロパティ
+## MarkupAnnotation.Opacity property
 
-注釈を描画するために使用される定数不透明度値を取得または設定します。
+アノテーションの描画に使用される一定の不透明度値を取得または設定します。
 
 ```csharp
 public double Opacity { get; set; }
@@ -16,6 +16,8 @@ public double Opacity { get; set; }
 
 ### 関連項目
 
-* クラス [MarkupAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

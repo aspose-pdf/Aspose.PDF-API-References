@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation プロパティ。ラインアノテーションの意図を取得または設定します
+title: "LineAnnotation.Intent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LineAnnotation プロパティ。ラインアノテーションの意図を取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.annotations/lineannotation/intent/
 ---
-## LineAnnotation.Intent プロパティ
+## LineAnnotation.Intent property
 
-ラインアノテーションの意図を取得または設定します。
+線アノテーションの意図を取得または設定します。
 
 ```csharp
 public LineIntent Intent { get; set; }
@@ -20,3 +20,5 @@ public LineIntent Intent { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

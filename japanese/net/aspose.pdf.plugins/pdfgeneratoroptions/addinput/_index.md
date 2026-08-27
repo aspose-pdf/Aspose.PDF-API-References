@@ -1,26 +1,28 @@
 ---
-title: PdfGeneratorOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfGeneratorOptions メソッド。PdfGenerator プラグインデータコレクションに新しいデータソースを追加します。
+title: "PdfGeneratorOptions.AddInput"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfGeneratorOptions メソッド。PdfGenerator プラグインのデータコレクションに新しいデータソースを追加します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.plugins/pdfgeneratoroptions/addinput/
 ---
-## PdfGeneratorOptions.AddInput メソッド
+## PdfGeneratorOptions.AddInput method
 
-PdfGenerator プラグインデータコレクションに新しいデータソースを追加します。
+PdfGenerator プラグインのデータコレクションに新しいデータソースを追加します。
 
 ```csharp
 public void AddInput(IDataSource dataSource)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| dataSource | IDataSource | 追加するデータソース。 |
+| dataSource | IDataSource | 追加するデータソースです。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IDataSource](../../idatasource/)
-* クラス [PdfGeneratorOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfGeneratorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

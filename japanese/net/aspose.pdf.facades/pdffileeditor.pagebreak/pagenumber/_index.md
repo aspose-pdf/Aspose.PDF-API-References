@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.PageBreak.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: PageBreak プロパティ。ページ区切りを追加する必要があるページの番号（1 から始まる）
+title: "PdfFileEditor.PageBreak.PageNumber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageBreak プロパティ。1 から始まるページ番号で、改ページを追加するページ。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/pdffileeditor.pagebreak/pagenumber/
 ---
-## PdfFileEditor.PageBreak.PageNumber プロパティ
+## PdfFileEditor.PageBreak.PageNumber property
 
-ページ区切りを追加する必要があるページの番号（1 から始まる）。
+ページ区切りを追加するページ番号（1 から開始）です。
 
 ```csharp
 public int PageNumber { get; set; }
@@ -16,6 +16,8 @@ public int PageNumber { get; set; }
 
 ### 関連項目
 
-* クラス [PageBreak](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageBreak](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormDataConverter.ConvertXmlToFdf
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter メソッド。XML インポート/エクスポートフォームデータファイルを FDF 形式に変換します。
+title: "FormDataConverter.ConvertXmlToFdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormDataConverter メソッド。XML インポート/エクスポートフォームデータファイルを FDF 形式に変換します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.facades/formdataconverter/convertxmltofdf/
 ---
-## FormDataConverter.ConvertXmlToFdf メソッド
+## FormDataConverter.ConvertXmlToFdf method
 
 XML インポート/エクスポートフォームデータファイルを FDF 形式に変換します。
 
@@ -14,13 +14,15 @@ XML インポート/エクスポートフォームデータファイルを FDF �
 public static void ConvertXmlToFdf(Stream sourceXml, Stream destFdf)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | sourceXml | Stream | XML ファイルを含むソースストリーム。 |
-| destFdf | Stream | 結果の FDF ファイルが保存される宛先ソース。 |
+| destFdf | Stream | 結果として生成された FDF ファイルが保存される宛先。 |
 
 ### 関連項目
 
-* クラス [FormDataConverter](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormDataConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

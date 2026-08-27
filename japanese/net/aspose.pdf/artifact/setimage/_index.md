@@ -1,7 +1,7 @@
 ---
-title: Artifact.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: アーティファクトメソッド。アーティファクトの画像を設定します
+title: "Artifact.SetImage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Artifact メソッド。アーティファクトの画像を設定します"
 type: docs
 weight: 280
 url: /ja/net/aspose.pdf/artifact/setimage/
@@ -14,15 +14,15 @@ url: /ja/net/aspose.pdf/artifact/setimage/
 public void SetImage(Stream imageStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | imageStream | Stream | 画像データを含むストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [Artifact](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,12 +34,14 @@ public void SetImage(Stream imageStream)
 public void SetImage(string imageName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | imageName | String | 画像ファイルの名前。 |
 
-### 参照
+### 関連項目
 
-* クラス [Artifact](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

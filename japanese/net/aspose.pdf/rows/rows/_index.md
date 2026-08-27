@@ -1,12 +1,12 @@
 ---
-title: Rows.Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Rows コンストラクタ。デフォルトコンストラクタ
+title: "Rows.Rows"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rows コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/rows/rows/
 ---
-## Rows コンストラクタ
+## Rows constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/rows/rows/
 public Rows()
 ```
 
-### 参照
+### 関連項目
 
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

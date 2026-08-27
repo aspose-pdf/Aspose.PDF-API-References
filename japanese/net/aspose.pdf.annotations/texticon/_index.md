@@ -1,14 +1,14 @@
 ---
-title: Enum TextIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.TextIcon 列挙型。注釈を表示するために使用されるアイコンを列挙します。
+title: "列挙体 TextIcon"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.TextIcon 列挙体。アノテーションの表示に使用されるアイコンを列挙します。"
 type: docs
-weight: 2660
+weight: 2760
 url: /ja/net/aspose.pdf.annotations/texticon/
 ---
-## TextIcon 列挙型
+## TextIcon enumeration
 
-注釈を表示するために使用されるアイコンを列挙します。
+アノテーションの表示に使用されるアイコンを列挙します。
 
 ```csharp
 public enum TextIcon
@@ -22,15 +22,17 @@ public enum TextIcon
 | Comment | `1` | コメントアイコン。 |
 | Key | `2` | キーアイコン。 |
 | Help | `3` | ヘルプアイコン。 |
-| NewParagraph | `4` | 新しい段落アイコン。 |
-| Paragraph | `5` | 段落アイコン。 |
-| Insert | `6` | 挿入アイコン。 |
+| NewParagraph | `4` | NewParagraph アイコン。 |
+| Paragraph | `5` | Paragraph アイコン。 |
+| Insert | `6` | Insert アイコン。 |
 | Check | `7` | チェックアイコン。 |
-| Cross | `8` | クロスアイコン。 |
-| Circle | `9` | サークルアイコン。 |
-| Star | `10` | スターアイコン。 |
+| Cross | `8` | Cross アイコン。 |
+| Circle | `9` | Circle アイコン。 |
+| Star | `10` | Star アイコン。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

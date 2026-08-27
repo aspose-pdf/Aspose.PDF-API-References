@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.ConvertSoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions プロパティ。ソフトマスクを持つ画像のアクション
+title: "PdfFormatConversionOptions.ConvertSoftMaskAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFormatConversionOptions プロパティ。ソフトマスク付き画像のアクションです。"
 type: docs
-weight: 40
+weight: 50
 url: /ja/net/aspose.pdf/pdfformatconversionoptions/convertsoftmaskaction/
 ---
-## PdfFormatConversionOptions.ConvertSoftMaskAction プロパティ
+## PdfFormatConversionOptions.ConvertSoftMaskAction property
 
-ソフトマスクを持つ画像のアクションです。
+ソフトマスク付き画像に対するアクション。
 
 ```csharp
 public ConvertSoftMaskAction ConvertSoftMaskAction { get; set; }
@@ -20,3 +20,5 @@ public ConvertSoftMaskAction ConvertSoftMaskAction { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

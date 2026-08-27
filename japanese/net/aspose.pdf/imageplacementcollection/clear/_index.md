@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection メソッド。コレクションからすべてのアイテムをクリアします
+title: "ImagePlacementCollection.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImagePlacementCollection メソッド。コレクション内のすべての項目をクリアします"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/imageplacementcollection/clear/
 ---
-## ImagePlacementCollection.Clear メソッド
+## ImagePlacementCollection.Clear method
 
-コレクションからすべてのアイテムをクリアします。
+コレクションからすべての項目をクリアします。
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### 関連項目
 
-* クラス [ImagePlacementCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum CryptoAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CryptoAlgorithm列挙型。暗号化/復号化ルーチンで使用される暗号アルゴリズムのタイプを表します。
+title: "列挙型 CryptoAlgorithm"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.CryptoAlgorithm 列挙型。暗号化/復号化ルーチンで使用される暗号アルゴリズムのタイプを表します。"
 type: docs
-weight: 3400
+weight: 3520
 url: /ja/net/aspose.pdf/cryptoalgorithm/
 ---
-## CryptoAlgorithm列挙型
+## CryptoAlgorithm enumeration
 
 暗号化/復号化ルーチンで使用される暗号アルゴリズムのタイプを表します。
 
@@ -18,12 +18,15 @@ public enum CryptoAlgorithm
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| RC4x40 | `0` | キー長40のRC4。 |
-| RC4x128 | `1` | キー長128のRC4。 |
-| AESx128 | `2` | キー長128のAES。 |
-| AESx256 | `3` | キー長256のAES。 |
+| RC4x40 | `0` | キー長 40 の RC4。 |
+| RC4x128 | `1` | キー長 128 の RC4。 |
+| AESx128 | `2` | キー長 128 の AES。 |
+| AESx256 | `3` | キー長 256 の AES。 |
+| Custom | `4` | カスタム暗号化アルゴリズム |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

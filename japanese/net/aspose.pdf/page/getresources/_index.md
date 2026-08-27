@@ -1,12 +1,12 @@
 ---
-title: Page.GetResources
-second_title: Aspose.PDF for .NET API Reference
-description: Page メソッド。ページに関連付けられたリソースを取得します
+title: "Page.GetResources"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page メソッド。ページに関連付けられたリソースを取得します。"
 type: docs
 weight: 470
 url: /ja/net/aspose.pdf/page/getresources/
 ---
-## Page.GetResources メソッド
+## Page.GetResources method
 
 ページに関連付けられたリソースを取得します。
 
@@ -16,11 +16,13 @@ public Resources GetResources()
 
 ### 戻り値
 
-ページのリソースを表す [`Resources`](../resources/) オブジェクト。
+ページのリソースを表す [`Resources`](../resources/) オブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [Resources](../../resources/)
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

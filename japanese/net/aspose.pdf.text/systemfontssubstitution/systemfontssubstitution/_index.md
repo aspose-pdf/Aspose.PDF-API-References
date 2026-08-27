@@ -1,12 +1,12 @@
 ---
-title: SystemFontsSubstitution.SystemFontsSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: SystemFontsSubstitution コンストラクタ。SystemFontsSubstitution クラスの新しいインスタンスを初期化します
+title: "SystemFontsSubstitution.SystemFontsSubstitution"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SystemFontsSubstitution コンストラクタ。SystemFontsSubstitution クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/
 ---
-## SystemFontsSubstitution コンストラクタ
+## SystemFontsSubstitution constructor
 
 [`SystemFontsSubstitution`](../) クラスの新しいインスタンスを初期化します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/
 public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fontCategories | SubstitutionFontCategories | システムフォントで置き換える対象のフォントカテゴリ |
+| fontCategories | SubstitutionFontCategories | システムフォントで置換する対象フォントカテゴリ |
 
-### 参照
+### 関連項目
 
 * enum [SubstitutionFontCategories](../../substitutionfontcategories/)
 * class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BX.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: BXメソッド。演算子のテキスト表現を返します
+title: "BX.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BX メソッド。演算子のテキスト表現を返します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/bx/tostring/
 ---
-## BX.ToStringメソッド
+## BX.ToString method
 
 演算子のテキスト表現を返します。
 
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-演算子のテキスト表現。
+演算子のテキスト表現です。
 
-### 参照
+### 関連項目
 
-* クラス [BX](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BX](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: MarginInfo.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo コンストラクタ。MarginInfo クラスの新しいインスタンスを初期化します
+title: "MarginInfo.MarginInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarginInfo コンストラクタ。 MarginInfo クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/margininfo/margininfo/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf/margininfo/margininfo/
 public MarginInfo()
 ```
 
-### See Also
+### 関連項目
 
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,15 +30,17 @@ Rectangle のコンストラクタ。
 public MarginInfo(double left, double bottom, double right, double top)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| left | Double | 左マージン。 |
-| bottom | Double | 下マージン |
-| right | Double | 右マージン。 |
-| top | Double | 上マージン。 |
+| 左 | Double | 左余白。 |
+| 下 | Double | 下余白 |
+| 右 | Double | 右余白。 |
+| 上 | Double | 上余白。 |
 
-### See Also
+### 関連項目
 
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

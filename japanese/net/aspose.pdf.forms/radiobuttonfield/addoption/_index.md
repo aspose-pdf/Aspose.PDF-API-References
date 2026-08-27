@@ -1,25 +1,25 @@
 ---
-title: RadioButtonField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField メソッド。指定された矩形を持つラジオボタンオプションを追加します。
+title: "RadioButtonField.AddOption"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RadioButtonField メソッド。指定された矩形でラジオボタンのオプションを追加します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.forms/radiobuttonfield/addoption/
 ---
 ## AddOption(string, Rectangle) {#addoption_1}
 
-指定された矩形を持つラジオボタンオプションを追加します。
+指定された矩形でラジオボタンのオプションを追加します。
 
 ```csharp
 public void AddOption(string optionName, Rectangle rect)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | optionName | String | 新しいオプションの名前。 |
-| rect | Rectangle | 新しいアイテムの矩形。 |
+| rect | Rectangle | 新しい項目の矩形。 |
 
-### 参照
+### 関連項目
 
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [RadioButtonField](../)
@@ -30,18 +30,20 @@ public void AddOption(string optionName, Rectangle rect)
 
 ## AddOption(string) {#addoption}
 
-ラジオボタンにオプションを追加します。
+radion ボタンにオプションを追加します。
 
 ```csharp
 public override void AddOption(string optionName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | optionName | String | 追加されるオプションの名前。 |
 
-### 参照
+### 関連項目
 
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

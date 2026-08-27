@@ -1,12 +1,12 @@
 ---
-title: Form.IsRequiredField
-second_title: Aspose.PDF for .NET API Reference
-description: Form メソッド。フィールドが必須かどうかを判断します
+title: "Form.IsRequiredField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。フィールドが必須かどうかを判定します。"
 type: docs
 weight: 320
 url: /ja/net/aspose.pdf.facades/form/isrequiredfield/
 ---
-## Form.IsRequiredField メソッド
+## Form.IsRequiredField method
 
 フィールドが必須かどうかを判断します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.facades/form/isrequiredfield/
 public bool IsRequiredField(string fieldName)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fieldName | String | フィールドの名前。 |
 
 ### 戻り値
 
-True - フィールドは必須です。それ以外の場合は、falseです。
+True - フィールドは必須です。そうでなければ false。
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

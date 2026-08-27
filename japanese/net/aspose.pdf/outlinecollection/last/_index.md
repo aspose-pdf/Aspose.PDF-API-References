@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Last
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection プロパティ。アウトラインの最上位アイテムを表すアウトラインアイテムを取得します。
+title: "OutlineCollection.Last"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineCollection プロパティ。アウトライン内の最上位項目の最後を表すアウトライン項目を取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/outlinecollection/last/
 ---
-## OutlineCollection.Last プロパティ
+## OutlineCollection.Last property
 
-アウトラインの最上位アイテムを表すアウトラインアイテムを取得します。
+アウトライン内の最後の最上位項目を表すアウトライン項目を取得します。
 
 ```csharp
 public OutlineItemCollection Last { get; }
@@ -16,7 +16,9 @@ public OutlineItemCollection Last { get; }
 
 ### 関連項目
 
-* クラス [OutlineItemCollection](../../outlineitemcollection/)
-* クラス [OutlineCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

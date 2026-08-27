@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.Category
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard プロパティ。標準構造タイプのカテゴリを取得します
+title: "StructureTypeStandard.Category"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard プロパティ。標準構造タイプのカテゴリを取得します"
 type: docs
 weight: 500
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/category/
 ---
-## StructureTypeStandard.Category プロパティ
+## StructureTypeStandard.Category property
 
 標準構造タイプのカテゴリを取得します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/category/
 public StructureTypeCategory Category { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 標準構造タイプのカテゴリ。
 
-### 参照
+### 関連項目
 
-* クラス [StructureTypeCategory](../../structuretypecategory/)
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../../structuretypecategory/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

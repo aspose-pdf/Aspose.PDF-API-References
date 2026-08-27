@@ -1,30 +1,32 @@
 ---
-title: FormEditor.AddFieldScript
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。PushButton フィールドに JavaScript を追加します。古いイベントが存在する場合、新しいイベントはその後に追加されます。
+title: "FormEditor.AddFieldScript"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor メソッド。PushButton フィールドの JavaScript を追加します。既存のイベントがある場合、新しいイベントはその後に追加されます。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.facades/formeditor/addfieldscript/
 ---
-## FormEditor.AddFieldScript メソッド
+## FormEditor.AddFieldScript method
 
-PushButton フィールドに JavaScript を追加します。古いイベントが存在する場合、新しいイベントはその後に追加されます。
+PushButton フィールドの JavaScript を追加します。古いイベントが存在する場合、新しいイベントはその後に追加されます。
 
 ```csharp
 public bool AddFieldScript(string fieldName, string script)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fieldName | String | 完全修飾フィールド名。 |
-| script | String | PushButton フィールドに追加/配置される Java スクリプト。 |
+| script | String | プッシュボタン フィールドに追加/配置する JavaScript。 |
 
 ### 戻り値
 
 スクリプトが正常に追加された場合は True。
 
-### 参照
+### 関連項目
 
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: OpenAISummaryCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions メソッド。サマリーコパイロットオプションの最大完了トークンを設定します。
+title: "OpenAISummaryCopilotOptions.WithMaxCompletionTokens"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAISummaryCopilotOptions メソッド。サマリー コパイロット オプションの最大完了トークンを設定します。"
 type: docs
-weight: 90
+weight: 100
 url: /ja/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxcompletiontokens/
 ---
-## OpenAISummaryCopilotOptions.WithMaxCompletionTokens メソッド
+## OpenAISummaryCopilotOptions.WithMaxCompletionTokens method
 
-サマリーコパイロットオプションの最大完了トークンを設定します。
+要約コパイロットオプションの最大完了トークン数を設定します。
 
 ```csharp
 public OpenAISummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | 設定する最大完了トークン。 |
+| maxCompletionTokens | Nullable`1 | 設定する最大完了トークンです。 |
 
 ### 戻り値
 
-[`OpenAISummaryCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAISummaryCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAISummaryCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

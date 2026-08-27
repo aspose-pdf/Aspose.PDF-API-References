@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ToRect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。矩形を System.Drawing.Rectangle のインスタンスに変換します。浮動小数点の位置とサイズは切り捨てられます。
+title: "Rectangle.ToRect"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。矩形を System.Drawing.Rectangle のインスタンスに変換します。小数点以下の位置とサイズは切り捨てられます。"
 type: docs
 weight: 280
 url: /ja/net/aspose.pdf/rectangle/torect/
 ---
-## Rectangle.ToRect メソッド
+## Rectangle.ToRect method
 
-矩形を System.Drawing.Rectangle のインスタンスに変換します。浮動小数点の位置とサイズは切り捨てられます。
+矩形を System.Drawing.Rectangle のインスタンスに変換します。小数点以下の位置とサイズは切り捨てられます。
 
 ```csharp
 public Rectangle ToRect()
@@ -16,10 +16,12 @@ public Rectangle ToRect()
 
 ### 戻り値
 
-変換の結果。
+変換結果です。
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

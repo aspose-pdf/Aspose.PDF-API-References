@@ -1,14 +1,14 @@
 ---
-title: ButtonField.AlternateIcon
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField プロパティ。マウスボタンがアクティブエリア内で押されたときに表示される代替アイコンを取得または設定します。
+title: "ButtonField.AlternateIcon"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ButtonField プロパティ。アクティブ領域内でマウスボタンが押されたときに表示される代替アイコンを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.forms/buttonfield/alternateicon/
 ---
-## ButtonField.AlternateIcon プロパティ
+## ButtonField.AlternateIcon property
 
-マウスボタンがアクティブエリア内で押されたときに表示される代替アイコンを取得または設定します。
+アクティブ領域内でマウスボタンが押されたときに表示される代替アイコンを取得または設定します。
 
 ```csharp
 public XForm AlternateIcon { get; set; }
@@ -20,3 +20,5 @@ public XForm AlternateIcon { get; set; }
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

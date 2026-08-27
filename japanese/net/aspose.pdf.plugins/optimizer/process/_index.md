@@ -1,26 +1,26 @@
 ---
-title: Optimizer.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Optimizer メソッド。指定されたパラメータで Optimizer 処理を開始します
+title: "Optimizer.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Optimizer メソッド。指定されたパラメータで Optimizer の処理を開始します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/optimizer/process/
 ---
-## Optimizer.Process メソッド
+## Optimizer.Process method
 
-指定されたパラメータで [`Optimizer`](../) 処理を開始します。
+指定されたパラメータで [`Optimizer`](../) の処理を開始します。
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | IPluginOptions | [`Optimizer`](../) の指示を含むオプションオブジェクト。 |
+| options | IPluginOptions | [`Optimizer`](../) 用の指示を含むオプション オブジェクトです。 |
 
 ### 戻り値
 
-操作の結果を含む ResultContainer オブジェクト。
+操作の結果を含む ResultContainer オブジェクトです。
 
 ### 例外
 
@@ -28,10 +28,12 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- |
 | InvalidOperationException |  |
 
-### 参照
+### 関連項目
 
-* クラス [ResultContainer](../../resultcontainer/)
-* インターフェース [IPluginOptions](../../ipluginoptions/)
-* クラス [Optimizer](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Optimizer](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

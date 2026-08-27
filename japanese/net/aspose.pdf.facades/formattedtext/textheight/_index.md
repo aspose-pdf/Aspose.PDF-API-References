@@ -1,12 +1,12 @@
 ---
-title: FormattedText.TextHeight
-second_title: Aspose.PDF for .NET API Reference
-description: FormattedText プロパティ。テキストの高さを取得します
+title: "FormattedText.TextHeight"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormattedText プロパティ。テキストの高さを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/formattedtext/textheight/
 ---
-## FormattedText.TextHeight プロパティ
+## FormattedText.TextHeight property
 
 テキストの高さを取得します。
 
@@ -16,6 +16,8 @@ public float TextHeight { get; }
 
 ### 関連項目
 
-* クラス [FormattedText](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

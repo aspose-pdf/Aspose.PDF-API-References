@@ -1,14 +1,14 @@
 ---
-title: Color.RosyBrown
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFBC8F8F のシステム定義カラーを取得します。
+title: "Color.RosyBrown"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得します。ARGB 値は c FFBC8F8F です。"
 type: docs
 weight: 1160
 url: /ja/net/aspose.pdf/color/rosybrown/
 ---
-## Color.RosyBrown プロパティ
+## Color.RosyBrown property
 
-ARGB 値が \c \#FFBC8F8F のシステム定義カラーを取得します。
+システム定義の色を取得します。この色は ARGB 値 \c \#FFBC8F8F を持ちます。
 
 ```csharp
 public static Color RosyBrown { get; }
@@ -18,8 +18,10 @@ public static Color RosyBrown { get; }
 
 システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

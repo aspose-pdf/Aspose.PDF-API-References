@@ -1,14 +1,14 @@
 ---
-title: FitRExplicitDestination.Left
-second_title: Aspose.PDF for .NET API Reference
-description: FitRExplicitDestination プロパティ。可視矩形の左水平座標を取得します
+title: "FitRExplicitDestination.Left"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FitRExplicitDestination プロパティ。表示領域の左水平座標を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/fitrexplicitdestination/left/
 ---
-## FitRExplicitDestination.Left プロパティ
+## FitRExplicitDestination.Left property
 
-可視矩形の左水平座標を取得します。
+表示矩形の左側水平座標を取得します。
 
 ```csharp
 public double Left { get; }
@@ -16,6 +16,8 @@ public double Left { get; }
 
 ### 関連項目
 
-* クラス [FitRExplicitDestination](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

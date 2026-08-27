@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.AddDocumentAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。注釈なしでドキュメント添付ファイルを追加します
+title: "PdfContentEditor.AddDocumentAttachment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。注釈なしでドキュメント添付を追加します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
@@ -14,10 +14,10 @@ url: /ja/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
 public void AddDocumentAttachment(string fileAttachmentPath, string description)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fileAttachmentPath | String | 添付されるファイルのパス。 |
-| description | String | 説明情報。 |
+| fileAttachmentPath | String | 添付されるファイルのパスです。 |
+| 説明 | String | 説明情報です。 |
 
 ## 例
 
@@ -28,11 +28,11 @@ editor.AddDocumentAttachment("attachment_file.pdf", "description of attachment_f
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -45,11 +45,11 @@ public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttach
     string description)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fileAttachmentStream | Stream | 添付されるファイルのストリーム。 |
-| fileAttachmentName | String | 添付ファイル名。 |
-| description | String | 説明情報。 |
+| fileAttachmentStream | Stream | ファイルのストリームが添付されます。 |
+| fileAttachmentName | String | 添付ファイル名です。 |
+| 説明 | String | 説明情報です。 |
 
 ## 例
 
@@ -63,8 +63,10 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }    
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SquareAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: SquareAnnotation プロパティ。アノテーションのタイプを取得します
+title: "SquareAnnotation.AnnotationType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SquareAnnotation プロパティ。アノテーションのタイプを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/squareannotation/annotationtype/
 ---
-## SquareAnnotation.AnnotationType プロパティ
+## SquareAnnotation.AnnotationType property
 
-アノテーションのタイプを取得します。
+注釈のタイプを取得します。
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [SquareAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

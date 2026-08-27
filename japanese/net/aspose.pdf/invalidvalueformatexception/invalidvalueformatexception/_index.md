@@ -1,7 +1,7 @@
 ---
-title: InvalidValueFormatException.InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidValueFormatException コンストラクタ。InvalidValueFormatException クラスの新しいインスタンスを初期化します。
+title: "InvalidValueFormatException.InvalidValueFormatException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "InvalidValueFormatException コンストラクタ。InvalidValueFormatException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
 public InvalidValueFormatException()
 ```
 
-### See Also
+### 関連項目
 
 * class [InvalidValueFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public InvalidValueFormatException()
 public InvalidValueFormatException(string message)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | String | 例外メッセージ。 |
 
-### See Also
+### 関連項目
 
 * class [InvalidValueFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

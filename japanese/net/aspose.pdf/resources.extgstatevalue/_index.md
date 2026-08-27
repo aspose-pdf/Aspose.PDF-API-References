@@ -1,14 +1,14 @@
 ---
-title: Class Resources.ExtGStateValue
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ResourcesExtGStateValue クラス。いくつかの値を持つ ExtGStates を表します
+title: "クラス Resources.ExtGStateValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ResourcesExtGStateValue クラス。いくつかの値を持つ ExtGState を表します。"
 type: docs
-weight: 9780
+weight: 9930
 url: /ja/net/aspose.pdf/resources.extgstatevalue/
 ---
-## Resources.ExtGStateValue クラス
+## Resources.ExtGStateValue class
 
-いくつかの値を持つ ExtGStates を表します。
+いくつかの値を持つ ExtGState を表します。
 
 ```csharp
 public class ExtGStateValue
@@ -28,8 +28,10 @@ public class ExtGStateValue
 | [ca](../../aspose.pdf/resources.extgstatevalue/ca) { get; } |  |
 | [Name](../../aspose.pdf/resources.extgstatevalue/name) { get; } |  |
 
-### 参照
+### 関連項目
 
-* クラス [Resources](../resources/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Resources](../resources/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

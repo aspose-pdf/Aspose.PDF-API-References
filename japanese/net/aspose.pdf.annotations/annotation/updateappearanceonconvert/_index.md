@@ -1,21 +1,23 @@
 ---
-title: Annotation.UpdateAppearanceOnConvert
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation プロパティ。true の場合、注釈の外観は PF ドキュメントを画像に変換する前に更新されます。これにより、フィールドを正しく変換できますが、恐らくより多くの時間がかかります。
+title: "Annotation.UpdateAppearanceOnConvert"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Annotation プロパティ。true の場合、PF ドキュメントを画像に変換する前にアノテーションの外観が更新されます。これによりフィールドが正しく変換されますが、時間がかかる可能性があります"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf.annotations/annotation/updateappearanceonconvert/
 ---
-## Annotation.UpdateAppearanceOnConvert プロパティ
+## Annotation.UpdateAppearanceOnConvert property
 
-true の場合、注釈の外観は PF ドキュメントを画像に変換する前に更新されます。これにより、フィールドを正しく変換できますが、恐らくより多くの時間がかかります。
+true の場合、PF ドキュメントを画像に変換する前にアノテーションの外観が更新されます。これによりフィールドが正しく変換されますが、時間がかかる可能性があります。
 
 ```csharp
 public static bool UpdateAppearanceOnConvert { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

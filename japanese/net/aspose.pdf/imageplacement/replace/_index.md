@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementメソッド。コレクション内の画像を別の画像に置き換えます
+title: "ImagePlacement.Replace"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImagePlacement メソッド。コレクション内の画像を別の画像に置き換えます"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/imageplacement/replace/
 ---
-## ImagePlacement.Replaceメソッド
+## ImagePlacement.Replace method
 
 コレクション内の画像を別の画像に置き換えます。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf/imageplacement/replace/
 public void Replace(Stream image)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | Stream | 画像データを含むストリーム。 |
+| 画像 | Stream | 画像データを含むストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [ImagePlacement](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

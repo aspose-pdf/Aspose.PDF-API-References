@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.EmbedForm
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction フィールド。設定されている場合、提出された FDF の F エントリは、FDF が提出される PDF ファイルを表す埋め込まれたファイルストリームを含むファイル仕様である必要があります。
+title: "SubmitFormAction.EmbedForm"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SubmitFormAction フィールド。設定された場合、送信された FDF の F エントリは、FDF が送信される元の PDF ファイルを表す埋め込みファイルストリームを含むファイル仕様となります"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/submitformaction/embedform/
 ---
-## SubmitFormAction.EmbedForm フィールド
+## SubmitFormAction.EmbedForm field
 
-設定されている場合、提出された FDF の F エントリは、FDF が提出される PDF ファイルを表す埋め込まれたファイルストリームを含むファイル仕様である必要があります。
+設定されている場合、送信された FDF の F エントリは、FDF が送信される元の PDF ファイルを表す埋め込みファイルストリームを含むファイル仕様でなければなりません。
 
 ```csharp
 public const int EmbedForm;
@@ -16,6 +16,8 @@ public const int EmbedForm;
 
 ### 関連項目
 
-* クラス [SubmitFormAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

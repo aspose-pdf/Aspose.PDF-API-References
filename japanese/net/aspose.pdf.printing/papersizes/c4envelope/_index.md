@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.C4Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。C4 封筒 229 mm x 324 mm
+title: "PaperSizes.C4Envelope"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。C4封筒 229 mm × 324 mm"
 type: docs
 weight: 330
 url: /ja/net/aspose.pdf.printing/papersizes/c4envelope/
 ---
-## PaperSizes.C4Envelope フィールド
+## PaperSizes.C4Envelope field
 
-C4 封筒 (229 mm x 324 mm)。
+C4 封筒 (229 mm × 324 mm)。
 
 ```csharp
 public static readonly PaperSize C4Envelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize C4Envelope;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

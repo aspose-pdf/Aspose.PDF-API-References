@@ -1,14 +1,14 @@
 ---
-title: Class InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.InvalidValueFormatException クラス。要求された値が不正な形式のときにスローされる例外
+title: "クラス InvalidValueFormatException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.InvalidValueFormatException クラス。要求された値の形式が正しくない場合にスローされる例外です。"
 type: docs
-weight: 6030
+weight: 6160
 url: /ja/net/aspose.pdf/invalidvalueformatexception/
 ---
-## InvalidValueFormatException クラス
+## InvalidValueFormatException class
 
-要求された値が不正な形式のときにスローされる例外です。
+要求された値の形式が正しくない場合にスローされる例外です。
 
 ```csharp
 public class InvalidValueFormatException : PdfException
@@ -21,8 +21,10 @@ public class InvalidValueFormatException : PdfException
 | [InvalidValueFormatException](invalidvalueformatexception/#constructor)() | `InvalidValueFormatException` クラスの新しいインスタンスを初期化します。 |
 | [InvalidValueFormatException](invalidvalueformatexception/#constructor_1)(string) | コンストラクタ。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfException](../pdfexception/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

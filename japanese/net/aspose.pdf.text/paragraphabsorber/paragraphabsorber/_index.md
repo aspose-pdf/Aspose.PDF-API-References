@@ -1,7 +1,7 @@
 ---
-title: ParagraphAbsorber.ParagraphAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber コンストラクタ。ドキュメントまたはページのセクション/段落を検索する ParagraphAbsorber の新しいインスタンスを初期化します。
+title: "ParagraphAbsorber.ParagraphAbsorber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ParagraphAbsorber コンストラクタ。ドキュメントまたはページのセクション/段落を検索する ParagraphAbsorber の新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
 public ParagraphAbsorber()
 ```
 
-### See Also
+### 関連項目
 
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -30,15 +30,15 @@ public ParagraphAbsorber()
 public ParagraphAbsorber(int sectionsSearchDepth)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| sectionsSearchDepth | Int32 | より詳細な構造要素のために実行される連続検索の回数。 |
+| sectionsSearchDepth | Int32 | 構造のより細かい要素に対して実行される連続検索の回数。 |
 
-## Remarks
+## 備考
 
-パラメータに関する詳細は [`SectionsSearchDepth`](../sectionssearchdepth/) プロパティを参照してください。
+パラメータに関する詳細なヒントについては、[`SectionsSearchDepth`](../sectionssearchdepth/) プロパティをご参照ください。
 
-### See Also
+### 関連項目
 
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -54,11 +54,11 @@ public ParagraphAbsorber(int sectionsSearchDepth)
 public ParagraphAbsorber(ParagraphAbsorberOptions paragraphAbsorberOptions)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | paragraphAbsorberOptions | ParagraphAbsorberOptions | ParagraphAbsorberOptions。 |
 
-### See Also
+### 関連項目
 
 * class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * class [ParagraphAbsorber](../)
@@ -75,14 +75,16 @@ public ParagraphAbsorber(ParagraphAbsorberOptions paragraphAbsorberOptions)
 public ParagraphAbsorber(int sectionsSearchDepth, ParagraphAbsorberOptions paragraphAbsorberOptions)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| sectionsSearchDepth | Int32 | より詳細な構造要素のために実行される連続検索の回数。 |
+| sectionsSearchDepth | Int32 | 構造のより細かい要素に対して実行される連続検索の回数。 |
 | paragraphAbsorberOptions | ParagraphAbsorberOptions | ParagraphAbsorberOptions。 |
 
-### See Also
+### 関連項目
 
 * class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintAsGrayscale
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer プロパティ。ページがグレースケールで印刷されるかどうかを示す bool 値を取得または設定します。デフォルトは false です。
+title: "PdfViewer.PrintAsGrayscale"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer プロパティ。ページがグレースケールで印刷されるかどうかを示す bool 値を取得または設定します。デフォルトは false です。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/pdfviewer/printasgrayscale/
 ---
-## PdfViewer.PrintAsGrayscale プロパティ
+## PdfViewer.PrintAsGrayscale property
 
-ページがグレースケールで印刷されるかどうかを示す bool 値を取得または設定します。デフォルトは false です。
+ページがグレースケールで印刷されるかどうかを示すブール値を取得または設定します。既定値は false です。
 
 ```csharp
 public bool PrintAsGrayscale { get; set; }
@@ -18,8 +18,10 @@ public bool PrintAsGrayscale { get; set; }
 
 デフォルト値は false です。
 
-### 参照
+### 関連項目
 
-* クラス [PdfViewer](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

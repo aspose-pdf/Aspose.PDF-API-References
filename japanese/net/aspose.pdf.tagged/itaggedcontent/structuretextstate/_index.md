@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent プロパティ。文書全体の StructureTextState 設定を取得します
+title: "ITaggedContent.StructureTextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent プロパティ。Document 全体の StructureTextState 設定を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/structuretextstate/
 ---
-## ITaggedContent.StructureTextState プロパティ
+## ITaggedContent.StructureTextState property
 
-[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) 設定を文書全体から取得します。
+Document 全体の [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) 設定を取得します。
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) 設定を文書全体から取得します。
+[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) settings for whole document.
 
-### 参照
+### 関連項目
 
-* クラス [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

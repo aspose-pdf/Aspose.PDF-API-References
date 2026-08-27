@@ -1,14 +1,14 @@
 ---
-title: TiffSettings.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings プロパティ。マージンを取得します
+title: "TiffSettings.Margins"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TiffSettings プロパティ。余白を取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.devices/tiffsettings/margins/
 ---
-## TiffSettings.Margins プロパティ
+## TiffSettings.Margins property
 
-マージンを取得します。
+余白を取得します。
 
 ```csharp
 public Margins Margins { get; }
@@ -20,3 +20,5 @@ public Margins Margins { get; }
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateSectElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。SectElement を作成します
+title: "ITaggedContent.CreateSectElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。SectElement を作成します"
 type: docs
-weight: 260
+weight: 290
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createsectelement/
 ---
-## ITaggedContent.CreateSectElement メソッド
+## ITaggedContent.CreateSectElement method
 
 [`SectElement`](../../../aspose.pdf.logicalstructure/sectelement/) を作成します。
 
@@ -16,11 +16,13 @@ public SectElement CreateSectElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [SectElement](../../../aspose.pdf.logicalstructure/sectelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SectElement](../../../aspose.pdf.logicalstructure/sectelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

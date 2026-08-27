@@ -1,12 +1,12 @@
 ---
-title: Cell.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Cell プロパティ。垂直方向の配置を取得または設定します
+title: "Cell.VerticalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Cell プロパティ。垂直方向の配置を取得または設定します"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/cell/verticalalignment/
 ---
-## Cell.VerticalAlignment プロパティ
+## Cell.VerticalAlignment property
 
 垂直方向の配置を取得または設定します。
 
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

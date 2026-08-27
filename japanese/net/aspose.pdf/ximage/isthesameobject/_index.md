@@ -1,12 +1,12 @@
 ---
-title: XImage.IsTheSameObject
-second_title: Aspose.PDF for .NET API Reference
-description: XImage メソッド。両方の画像が同じオブジェクトを参照している場合は true を返します。
+title: "XImage.IsTheSameObject"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImage メソッド。両方の画像が同じオブジェクトを参照している場合に true を返します。"
 type: docs
-weight: 130
+weight: 140
 url: /ja/net/aspose.pdf/ximage/isthesameobject/
 ---
-## XImage.IsTheSameObject メソッド
+## XImage.IsTheSameObject method
 
 両方の画像が同じオブジェクトを参照している場合は true を返します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf/ximage/isthesameobject/
 public bool IsTheSameObject(XImage image)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | XImage | "this" 画像と比較される画像。 |
+| 画像 | XImage | "this" 画像と比較する画像。 |
 
 ### 戻り値
 
-画像が同じオブジェクトを参照している場合は true のブール値。
+画像が同じオブジェクトを参照している場合に true となるブール値。
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

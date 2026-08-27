@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachmentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor メソッド。添付ファイルのリストを取得します
+title: "PdfExtractor.GetAttachmentInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfExtractor メソッド。添付ファイルのリストを取得します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.facades/pdfextractor/getattachmentinfo/
 ---
-## PdfExtractor.GetAttachmentInfo メソッド
+## PdfExtractor.GetAttachmentInfo method
 
-添付ファイルのリストを取得します。
+添付ファイルの一覧を取得します。
 
 ```csharp
 public List<FileSpecification> GetAttachmentInfo()
@@ -18,9 +18,11 @@ public List<FileSpecification> GetAttachmentInfo()
 
 List&lt;FileSpecificatio&gt;&gt; を返します。
 
-### 参照
+### 関連項目
 
-* クラス [FileSpecification](../../../aspose.pdf/filespecification/)
-* クラス [PdfExtractor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

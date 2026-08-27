@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.DictionaryEditor
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor コンストラクタ。
+title: "DictionaryEditor.DictionaryEditor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DictionaryEditor のコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
@@ -12,22 +12,22 @@ url: /ja/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
 public DictionaryEditor(Page page)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 作業用の辞書を持つページ。 |
+| ページ | ページ | 作業用の辞書が含まれるページです。 |
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | ページが null であるか、ページ構造が壊れている。 |
+| ArgumentNullException | ページが null であるか、ページ構造が壊れています。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [DictionaryEditor](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,22 +37,22 @@ public DictionaryEditor(Page page)
 public DictionaryEditor(Document document)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | 作業用の辞書を持つドキュメント。 |
+| document | Document | 作業用の辞書が含まれる document です。 |
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | ドキュメントが null である。 |
+| ArgumentNullException | Document が null です。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [DictionaryEditor](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -62,19 +62,21 @@ public DictionaryEditor(Document document)
 public DictionaryEditor(Resources resources)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| resources | Resources | 作業用の辞書を持つリソース。 |
+| resources | Resources | 作業用の辞書が含まれる Resources。 |
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | リソースが null である。 |
+| ArgumentNullException | Resources が null です。 |
 
-### 参照
+### 関連項目
 
-* クラス [Resources](../../../aspose.pdf/resources/)
-* クラス [DictionaryEditor](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

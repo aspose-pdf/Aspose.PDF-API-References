@@ -1,14 +1,14 @@
 ---
-title: Color.Teal
-second_title: Aspose.PDF for .NET API Reference
-description: 色プロパティ。ARGB 値が c FF008080 のシステム定義色を取得します。
+title: "Color.Teal"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得し、ARGB 値 c FF008080 を持ちます。"
 type: docs
 weight: 1320
 url: /ja/net/aspose.pdf/color/teal/
 ---
-## Color.Teal プロパティ
+## Color.Teal property
 
-ARGB 値が \c \#FF008080 のシステム定義色を取得します。
+システム定義の色を取得します。この色は ARGB 値 \c \#FF008080 を持ちます。
 
 ```csharp
 public static Color Teal { get; }
@@ -16,10 +16,12 @@ public static Color Teal { get; }
 
 ### 戻り値
 
-システム定義色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

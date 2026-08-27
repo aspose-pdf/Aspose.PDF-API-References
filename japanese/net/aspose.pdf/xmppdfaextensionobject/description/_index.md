@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionObject.Description
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionObject プロパティ。説明を取得します
+title: "XmpPdfAExtensionObject.Description"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionObject プロパティ。説明を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/xmppdfaextensionobject/description/
 ---
-## XmpPdfAExtensionObject.Description プロパティ
+## XmpPdfAExtensionObject.Description property
 
 説明を取得します。
 
@@ -16,6 +16,8 @@ public string Description { get; }
 
 ### 関連項目
 
-* クラス [XmpPdfAExtensionObject](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

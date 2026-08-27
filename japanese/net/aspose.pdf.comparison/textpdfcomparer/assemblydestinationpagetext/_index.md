@@ -1,12 +1,12 @@
 ---
-title: TextPdfComparer.AssemblyDestinationPageText
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer メソッド。変更されたテキストを変更リストから復元します
+title: "TextPdfComparer.AssemblyDestinationPageText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextPdfComparer メソッド。変更リストから変更されたテキストを復元します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.comparison/textpdfcomparer/assemblydestinationpagetext/
 ---
-## TextPdfComparer.AssemblyDestinationPageText メソッド
+## TextPdfComparer.AssemblyDestinationPageText method
 
 変更リストから変更されたテキストを復元します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf.comparison/textpdfcomparer/assemblydestinationpagetext/
 public static string AssemblyDestinationPageText(List<DiffOperation> diffs)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| diffs | List`1 | 変更のリスト。 |
+| 差分 | List`1 | 変更リスト。 |
 
 ### 戻り値
 
 元のテキスト。
 
-### 参照
+### 関連項目
 
-* クラス [DiffOperation](../../diffoperation/)
-* クラス [TextPdfComparer](../)
-* 名前空間 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

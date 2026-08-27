@@ -1,21 +1,23 @@
 ---
-title: LoadOptions.ResourceLoadingResult.LoadingCancelled
-second_title: Aspose.PDF for .NET API Reference
-description: ResourceLoadingResult フィールド。時々、何らかの理由でカスタムコードの読み込みを行わない必要があります。その場合は、このフラグを True に設定してください。その場合、コンバーターは内部のデフォルトリソースローダーを使用して結果を取得しようとします（カスタム戦略が提供されていない場合の動作）。
+title: "LoadOptions.ResourceLoadingResult.LoadingCancelled"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ResourceLoadingResult フィールド。場合によっては、カスタムコードで読み込みを行わないようにすべきことがあります。その場合はこのフラグを True に設定してください。このフラグが設定されていると、コンバータはカスタム戦略が提供されていない状況と同様に、内部のデフォルトリソースローダーを使用して結果を取得しようとします。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/loadoptions.resourceloadingresult/loadingcancelled/
 ---
-## LoadOptions.ResourceLoadingResult.LoadingCancelled フィールド
+## LoadOptions.ResourceLoadingResult.LoadingCancelled field
 
-時々、何らかの理由でカスタムコードの読み込みを行わない必要があります。その場合は、このフラグを True に設定してください。その場合、コンバーターは内部のデフォルトリソースローダーを使用して結果を取得しようとします（カスタム戦略が提供されていない場合の動作）。
+場合によっては、カスタムコードで読み込みを行わない方がよいことがあります。その場合は、このフラグを True に設定してください。フラグが True の場合、コンバータは内部のデフォルトリソースローダーを使用して結果を取得しようとします（カスタム戦略が提供されていない状況と同様に動作します）。
 
 ```csharp
 public bool LoadingCancelled;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ResourceLoadingResult](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

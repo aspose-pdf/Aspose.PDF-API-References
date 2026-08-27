@@ -1,12 +1,12 @@
 ---
-title: TableElement.Left
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement プロパティ。テーブルの左座標を取得または設定します
+title: "TableElement.Left"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableElement プロパティ。テーブルの左座標を取得または設定します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.logicalstructure/tableelement/left/
 ---
-## TableElement.Left プロパティ
+## TableElement.Left property
 
 テーブルの左座標を取得または設定します。
 
@@ -16,6 +16,8 @@ public float Left { get; set; }
 
 ### 関連項目
 
-* クラス [TableElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

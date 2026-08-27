@@ -1,26 +1,26 @@
 ---
-title: TocGenerator.Process
-second_title: Aspose.PDF for .NET API Reference
-description: TocGenerator メソッド。指定されたパラメータで PdfGenerator 処理を開始します
+title: "TocGenerator.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TocGenerator メソッド。指定されたパラメータで PdfGenerator の処理を開始します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.plugins/tocgenerator/process/
 ---
-## TocGenerator.Process メソッド
+## TocGenerator.Process method
 
-指定されたパラメータで PdfGenerator 処理を開始します。
+指定されたパラメータで PdfGenerator の処理を開始します。
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | IPluginOptions | PdfGenerator の指示を含むオプションオブジェクト。 |
+| オプション | IPluginOptions | オプションオブジェクトは PdfGenerator の指示を含みます。 |
 
 ### 戻り値
 
-操作の結果を含む ResultContainer オブジェクト。
+ResultContainer オブジェクトは操作の結果を含みます。
 
 ### 例外
 
@@ -28,10 +28,12 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- |
 | NotSupportedException |  |
 
-### 参照
+### 関連項目
 
-* クラス [ResultContainer](../../resultcontainer/)
-* インターフェース [IPluginOptions](../../ipluginoptions/)
-* クラス [TocGenerator](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [TocGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

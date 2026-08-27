@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection メソッド。画像の配列をコレクションにコピーします
+title: "XImageCollection.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImageCollection メソッド。画像の配列をコレクションにコピーします。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/ximagecollection/copyto/
 ---
-## XImageCollection.CopyTo メソッド
+## XImageCollection.CopyTo method
 
 画像の配列をコレクションにコピーします。
 
@@ -14,14 +14,16 @@ url: /ja/net/aspose.pdf/ximagecollection/copyto/
 public void CopyTo(XImage[] array, int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | XImage[] | コピーされる配列。 |
-| index | Int32 | 画像がコレクションにコピーされるインデックス。 |
+| 配列 | XImage[] | コピーされる配列。 |
+| インデックス | Int32 | 画像がコレクションにコピーされるインデックス。 |
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../../ximage/)
-* クラス [XImageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

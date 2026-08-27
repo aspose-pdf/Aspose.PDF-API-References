@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Percents
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue メソッド。パーセントで値を初期化します
+title: "PdfFileEditor.ContentsResizeValue.Percents"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ContentsResizeValue メソッド。パーセンテージで値を初期化します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents/
 ---
-## PdfFileEditor.ContentsResizeValue.Percents メソッド
+## PdfFileEditor.ContentsResizeValue.Percents method
 
 パーセントで値を初期化します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents/
 public static ContentsResizeValue Percents(double value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | Double | パーセントでの値。 |
+| 値 | Double | パーセントでの値。 |
 
 ### 戻り値
 
 新しい値のインスタンス。
 
-### 参照
+### 関連項目
 
-* クラス [ContentsResizeValue](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

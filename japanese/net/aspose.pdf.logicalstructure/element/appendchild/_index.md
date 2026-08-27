@@ -1,27 +1,27 @@
 ---
-title: Element.AppendChild
-second_title: Aspose.PDF for .NET API Reference
-description: Element メソッド。子要素のコレクションに要素を追加します
+title: "Element.AppendChild"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Element メソッド。Element を子要素のコレクションに追加します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.logicalstructure/element/appendchild/
 ---
-## Element.AppendChild メソッド
+## Element.AppendChild method
 
-子要素のコレクションに要素を追加します。
+子コレクションに Element を追加します。
 
 ```csharp
 public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| element | Element | 追加する要素オブジェクト。 |
+| 要素 | Element | 追加する Element オブジェクト。 |
 | checkIfCanBeAppended | Boolean | 追加可能かどうかを確認します。 |
 
 ### 戻り値
 
-追加された要素。
+追加された Element。
 
 ### 例外
 
@@ -29,8 +29,10 @@ public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 | --- | --- |
 | [TaggedException](../../../aspose.pdf.tagged/taggedexception/) |  |
 
-### 参照
+### 関連項目
 
-* クラス [Element](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

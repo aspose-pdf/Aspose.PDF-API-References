@@ -1,26 +1,28 @@
 ---
-title: PdfContentEditor.HideStampById
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。スタンプを非表示にします。スタンプを非表示にした後、ShowStampById メソッドでスタンプの表示を復元できます。
+title: "PdfContentEditor.HideStampById"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。スタンプを非表示にします。スタンプを非表示にした後、表示は ShowStampById メソッドで復元できる場合があります。"
 type: docs
 weight: 400
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/hidestampbyid/
 ---
-## PdfContentEditor.HideStampById メソッド
+## PdfContentEditor.HideStampById method
 
-スタンプを非表示にします。非表示にした後、ShowStampById メソッドでスタンプの表示を復元できます。
+スタンプを非表示にします。非表示にした後、スタンプの表示は ShowStampById メソッドで復元できる場合があります。
 
 ```csharp
 public void HideStampById(int pageNumber, int stampId)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageNumber | Int32 | ページ番号。 |
-| stampId | Int32 | 非表示にするスタンプの識別子。 |
+| pageNumber | Int32 | ページの番号。 |
+| stampId | Int32 | 非表示にすべきスタンプの識別子。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

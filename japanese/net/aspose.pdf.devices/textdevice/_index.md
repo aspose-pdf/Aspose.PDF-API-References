@@ -1,14 +1,14 @@
 ---
-title: Class TextDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.TextDevice クラス。PDF ドキュメントのページをテキストに変換するためのクラスを表します。
+title: "クラス TextDevice"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Devices.TextDevice クラス。pdf ドキュメントのページをテキストに変換するクラスを表します。"
 type: docs
-weight: 3680
+weight: 3800
 url: /ja/net/aspose.pdf.devices/textdevice/
 ---
-## TextDevice クラス
+## TextDevice class
 
-PDF ドキュメントのページをテキストに変換するためのクラスを表します。
+PDF ドキュメントのページをテキストに変換するクラスを表します。
 
 ```csharp
 public sealed class TextDevice : PageDevice
@@ -18,10 +18,10 @@ public sealed class TextDevice : PageDevice
 
 | 名前 | 説明 |
 | --- | --- |
-| [TextDevice](textdevice/#constructor)() | 生のテキストフォーマットモードと Unicode テキストエンコーディングで `TextDevice` の新しいインスタンスを初期化します。 |
-| [TextDevice](textdevice/#constructor_3)(Encoding) | 指定されたエンコーディングのために `TextDevice` の新しいインスタンスを初期化します。 |
-| [TextDevice](textdevice/#constructor_1)(TextExtractionOptions) | テキスト抽出オプションを使用して `TextDevice` の新しいインスタンスを初期化します。 |
-| [TextDevice](textdevice/#constructor_2)(TextExtractionOptions, Encoding) | 指定されたエンコーディングとテキスト抽出オプションを使用して `TextDevice` の新しいインスタンスを初期化します。 |
+| [TextDevice](textdevice/#constructor)() | `TextDevice` の新しいインスタンスを、Raw テキストフォーマットモードと Unicode テキストエンコーディングで初期化します。 |
+| [TextDevice](textdevice/#constructor_3)(Encoding) | 指定されたエンコーディング用に `TextDevice` の新しいインスタンスを初期化します。 |
+| [TextDevice](textdevice/#constructor_1)(TextExtractionOptions) | `TextDevice` の新しいインスタンスをテキスト抽出オプションで初期化します。 |
+| [TextDevice](textdevice/#constructor_2)(TextExtractionOptions, Encoding) | 指定されたエンコーディング用に、テキスト抽出オプションとともに `TextDevice` の新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -35,11 +35,11 @@ public sealed class TextDevice : PageDevice
 | 名前 | 説明 |
 | --- | --- |
 | override [Process](../../aspose.pdf.devices/textdevice/process/#process)(Page, Stream) | ページを変換し、テキストストリームとして保存します。 |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | 指定されたページに対していくつかの操作を実行し、結果をファイルに保存します。 |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | 指定されたページで何らかの操作を実行し、結果をファイルに保存します。 |
 
 ## 備考
 
-`TextDevice` オブジェクトは基本的に PDF ページからテキストを抽出するために使用されます。
+`TextDevice` オブジェクトは基本的に pdf ページからテキストを抽出するために使用されます。
 
 ## 例
 
@@ -51,20 +51,22 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-    // create text device
+    // テキストデバイスを作成する
     TextDevice device = new TextDevice();
 
-    // convert the page and save text to the stream
+    // ページを変換し、テキストをストリームに保存する
     device.Process(doc.Pages[1], ms);
 
-    // use the extracted text
+    // 抽出されたテキストを使用する
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PageDevice](../pagedevice/)
-* 名前空間 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PageDevice](../pagedevice/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

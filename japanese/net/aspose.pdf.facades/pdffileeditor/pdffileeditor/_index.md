@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.PdfFileEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor コンストラクタ。デフォルトコンストラクタ
+title: "PdfFileEditor.PdfFileEditor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/pdffileeditor/pdffileeditor/
 ---
-## PdfFileEditor コンストラクタ
+## PdfFileEditor constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public PdfFileEditor()
 
 ### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

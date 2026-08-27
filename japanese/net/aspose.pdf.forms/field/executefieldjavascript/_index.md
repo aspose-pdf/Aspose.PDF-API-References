@@ -1,26 +1,28 @@
 ---
-title: Field.ExecuteFieldJavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: Field メソッド。フィールドのために指定された JavaScript アクションを実行します
+title: "Field.ExecuteFieldJavaScript"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Field メソッド。フィールドに対して指定された JavaScript アクションを実行します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.forms/field/executefieldjavascript/
 ---
-## Field.ExecuteFieldJavaScript メソッド
+## Field.ExecuteFieldJavaScript method
 
-フィールドのために指定された JavaScript アクションを実行します。
+フィールドに対して指定された JavaScript アクションを実行します。
 
 ```csharp
 public void ExecuteFieldJavaScript(JavascriptAction javaScriptAction)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| javaScriptAction | JavascriptAction | 実行する JavaScript アクション。 |
+| javaScriptAction | JavascriptAction | 実行する JavaScript アクションです。 |
 
-### 参照
+### 関連項目
 
-* クラス [JavascriptAction](../../../aspose.pdf.annotations/javascriptaction/)
-* クラス [Field](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [JavascriptAction](../../../aspose.pdf.annotations/javascriptaction/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

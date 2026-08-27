@@ -1,14 +1,14 @@
 ---
-title: Class FdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FdfReader クラス。FDF 形式の読み取りを行うクラス
+title: "クラス FdfReader"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.FdfReader クラス。FDF 形式の読み取りを行うクラスです。"
 type: docs
-weight: 1700
+weight: 1790
 url: /ja/net/aspose.pdf.annotations/fdfreader/
 ---
-## FdfReader クラス
+## FdfReader class
 
-FDF 形式の読み取りを行うクラスです。
+FDF形式の読み取りを行うクラスです。
 
 ```csharp
 public sealed class FdfReader
@@ -18,7 +18,7 @@ public sealed class FdfReader
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ReadAnnotations](../../aspose.pdf.annotations/fdfreader/readannotations/)(Stream, Document) | FDF ファイルから注釈をインポートし、それらをドキュメントに配置します。 |
+| static [ReadAnnotations](../../aspose.pdf.annotations/fdfreader/readannotations/)(Stream, Document) | FDF ファイルからアノテーションをインポートし、ドキュメントに配置します。 |
 
 ## 例
 
@@ -30,7 +30,9 @@ fdfStream.Close();
 doc.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

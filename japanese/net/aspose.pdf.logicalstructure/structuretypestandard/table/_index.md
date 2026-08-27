@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Table
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。テーブルは、複雑なサブ構造を持つ可能性のある長方形データセルの二次元レイアウトです。子として1つ以上のテーブル行構造タイプ TRを含むか、オプションのテーブルヘッダー構造タイプ THeadの後に1つ以上のテーブルボディ要素構造タイプ TBodyとオプションのテーブルフッター構造タイプ TFootが続きます。さらに、テーブルはキャプション構造タイプ Captionを最初または最後の子として持つことができます。
+title: "StructureTypeStandard.Table"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。Table 矩形データセルの二次元レイアウトで、複雑なサブ構造を持つことがあります。子として 1 つ以上のテーブル行（構造タイプ TR）を含むか、オプションのテーブルヘッド（構造タイプ THead）に続いて 1 つ以上のテーブルボディ要素（構造タイプ TBody）とオプションのテーブルフッター（構造タイプ TFoot）を含みます。さらに、テーブルは最初または最後の子として Caption 構造タイプのキャプションを持つことがあります。"
 type: docs
 weight: 380
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/table/
 ---
-## StructureTypeStandard.Table フィールド
+## StructureTypeStandard.Table field
 
-(テーブル) 複雑なサブ構造を持つ可能性のある長方形データセルの二次元レイアウトです。子として1つ以上のテーブル行（構造タイプ TR）を含むか、オプションのテーブルヘッダー（構造タイプ THead）の後に1つ以上のテーブルボディ要素（構造タイプ TBody）とオプションのテーブルフッター（構造タイプ TFoot）が続きます。さらに、テーブルはキャプション（構造タイプ Caption）を最初または最後の子として持つことができます。
+(Table) 長方形のデータセルからなる二次元レイアウトで、複雑なサブ構造を持つことがあります。子要素として1つ以上のテーブル行（構造タイプ TR）を含むか、オプションのテーブルヘッド（構造タイプ THead）に続いて1つ以上のテーブルボディ要素（構造タイプ TBody）とオプションのテーブルフッター（構造タイプ TFoot）を持ちます。さらに、テーブルは最初または最後の子としてキャプション（構造タイプ Caption）を持つことがあります。
 
 ```csharp
 public static readonly StructureTypeStandard Table;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Table;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

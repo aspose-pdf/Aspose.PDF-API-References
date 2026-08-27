@@ -1,14 +1,14 @@
 ---
-title: Class TextParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextParagraph クラス。複数行のテキストオブジェクトとしてテキスト段落を表します
+title: "クラス TextParagraph"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.TextParagraph クラス。テキスト段落を複数行テキストオブジェクトとして表します"
 type: docs
-weight: 10990
+weight: 11170
 url: /ja/net/aspose.pdf.text/textparagraph/
 ---
-## TextParagraph クラス
+## TextParagraph class
 
-複数行のテキストオブジェクトとしてテキスト段落を表します。
+テキスト段落を複数行テキストオブジェクトとして表します。
 
 ```csharp
 public sealed class TextParagraph
@@ -18,70 +18,72 @@ public sealed class TextParagraph
 
 | 名前 | 説明 |
 | --- | --- |
-| [TextParagraph](textparagraph/)() | デフォルトコンストラクタ。 |
+| [TextParagraph](textparagraph/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | 次の行のインデント値を取得または設定します。非ゼロの値に設定すると、FormattingOptions.SubsequentLinesIndent 値に対して優位性があります。 |
+| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | 後続行のインデント値を取得または設定します。0 以外の値に設定すると、FormattingOptions.SubsequentLinesIndent の値より優位になります。 |
 | [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions/) { get; set; } | 書式設定オプションを取得または設定します。 |
-| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment/) { get; set; } | 段落内のテキストの水平揃えを取得または設定します。[`Rectangle`](./rectangle/)。 |
-| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | テキストが均等揃えかどうかの値を取得または設定します。 |
-| [Margin](../../aspose.pdf.text/textparagraph/margin/) { get; set; } | パディングを取得または設定します。 |
+| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment/) { get; set; } | 段落内のテキストの水平配置を取得または設定します（[`Rectangle`](./rectangle/)）。 |
+| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | テキストが両端揃えかどうかの値を取得または設定します。 |
+| [Margin](../../aspose.pdf.text/textparagraph/margin/) { get; set; } | 余白を取得または設定します。 |
 | [Position](../../aspose.pdf.text/textparagraph/position/) { get; set; } | 段落の位置を取得または設定します。 |
-| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | 段落の矩形を取得または設定します。 |
-| [Rotation](../../aspose.pdf.text/textparagraph/rotation/) { get; set; } | 回転角度を度単位で取得または設定します。 |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | 次の行のインデント値を取得または設定します。非ゼロの値に設定すると、FormattingOptions.SubsequentLinesIndent 値に対して優位性があります。 |
+| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | 段落の rectangle を取得または設定します。 |
+| [Rotation](../../aspose.pdf.text/textparagraph/rotation/) { get; set; } | 回転角度（度）を取得または設定します。 |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | 後続行のインデント値を取得または設定します。0 以外の値に設定すると、FormattingOptions.SubsequentLinesIndent の値より優位になります。 |
 | [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle/) { get; } | 段落に配置されたテキストの矩形を取得します。 |
-| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment/) { get; set; } | 段落内のテキストの垂直揃えを取得または設定します。[`Rectangle`](./rectangle/)。 |
+| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment/) { get; set; } | 段落の[`Rectangle`](./rectangle/)内のテキストの垂直位置揃えを取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
 | [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_3)(string) | テキスト行を追加します |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline)(TextFragment) | テキスト状態パラメータを持つテキスト行を追加します。 |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline)(TextFragment) | テキスト状態パラメータを使用してテキスト行を追加します。 |
 | [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_6)(string, float) | テキスト行を追加します。 |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_4)(string, TextState) | テキスト状態パラメータを持つテキスト行を追加します。 |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_1)(TextFragment, TextState) | テキスト状態パラメータを持つテキスト行を追加します。 |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_5)(string, TextState, float) | テキスト状態パラメータを持つテキスト行を追加します |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_2)(TextFragment, TextState, float) | テキスト状態パラメータを持つテキスト行を追加します |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_4)(string, TextState) | テキスト状態パラメータを使用してテキスト行を追加します。 |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_1)(TextFragment, TextState) | テキスト状態パラメータを使用してテキスト行を追加します。 |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_5)(string, TextState, float) | テキスト状態パラメータを使用してテキスト行を追加します |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_2)(TextFragment, TextState, float) | テキスト状態パラメータを使用してテキスト行を追加します |
 | [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit/)() | TextParagraph の編集を開始します。 |
 | [EndEdit](../../aspose.pdf.text/textparagraph/endedit/)() | TextParagraph の編集を終了します。 |
 
 ## 例
 
-この例は、テキスト段落オブジェクトを作成し、それを Pdf ページに追加する方法を示しています。
+この例では、テキスト段落オブジェクトの作成方法とそれを Pdf ページに追加する方法を示しています。
 
 ```csharp
 Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// create text paragraph
+// テキスト段落を作成する
 TextParagraph paragraph = new TextParagraph();
            
-// set the paragraph rectangle
+// 段落の矩形を設定する
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// set word wrapping options
+// ワードラップオプションを設定する
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// append string lines
+// 文字列行を追加する
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// append the paragraph to the Pdf page with the TextBuilder
+// TextBuilder を使用して段落を Pdf ページに追加する
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// save Pdf document
+// Pdf ドキュメントを保存する
 doc.Save(outFile);
 ```
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

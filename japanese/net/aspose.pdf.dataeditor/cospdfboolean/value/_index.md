@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.Value
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean プロパティ。値を取得します
+title: "CosPdfBoolean.Value"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfBoolean プロパティ。 値を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.dataeditor/cospdfboolean/value/
 ---
-## CosPdfBoolean.Value プロパティ
+## CosPdfBoolean.Value property
 
 値を取得します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.dataeditor/cospdfboolean/value/
 public bool Value { get; }
 ```
 
-### プロパティの値
+### Property Value
 
-値。
+値です。
 
 ### 関連項目
 
-* クラス [CosPdfBoolean](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

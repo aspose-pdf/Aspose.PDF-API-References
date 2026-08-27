@@ -1,12 +1,12 @@
 ---
-title: AnnotationSelector.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationSelector プロパティ。選択されたオブジェクトのリスト
+title: "AnnotationSelector.Selected"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationSelector プロパティ。選択されたオブジェクトの一覧。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/annotationselector/selected/
 ---
-## AnnotationSelector.Selected プロパティ
+## AnnotationSelector.Selected property
 
 選択されたオブジェクトのリストです。
 
@@ -20,3 +20,5 @@ public IList<Annotation> Selected { get; }
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

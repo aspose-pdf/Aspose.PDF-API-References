@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle プロパティ。ゼロ位置およびサイズのトリビアルな長方形を初期化します。
+title: "Rectangle.Trivial"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle プロパティ。位置とサイズがゼロのトリビアルな Rectangle を初期化します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/rectangle/trivial/
 ---
-## Rectangle.Trivial プロパティ
+## Rectangle.Trivial property
 
-ゼロ位置およびサイズのトリビアルな長方形を初期化します。
+位置とサイズがゼロの単純な Rectangle を初期化します。
 
 ```csharp
 public static Rectangle Trivial { get; }
@@ -16,6 +16,8 @@ public static Rectangle Trivial { get; }
 
 ### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

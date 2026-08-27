@@ -1,12 +1,12 @@
 ---
-title: PclLoadOptions.PclLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PclLoadOptions コンストラクタ。デフォルトコンストラクタ
+title: "PclLoadOptions.PclLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PclLoadOptions コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pclloadoptions/pclloadoptions/
 ---
-## PclLoadOptions コンストラクタ
+## PclLoadOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/pclloadoptions/pclloadoptions/
 public PclLoadOptions()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PclLoadOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PclLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

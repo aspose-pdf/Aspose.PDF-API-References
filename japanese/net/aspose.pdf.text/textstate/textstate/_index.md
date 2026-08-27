@@ -1,7 +1,7 @@
 ---
-title: TextState.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: TextState コンストラクタ。テキスト状態オブジェクトを作成します
+title: "TextState.TextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextState コンストラクタ。テキストステートオブジェクトを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/textstate/textstate/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.text/textstate/textstate/
 public TextState()
 ```
 
-### See Also
+### 関連項目
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -24,17 +24,17 @@ public TextState()
 
 ## TextState(double) {#constructor_1}
 
-フォントサイズの指定でテキスト状態オブジェクトを作成します。
+フォントサイズの指定付きテキスト状態オブジェクトを作成します。
 
 ```csharp
 public TextState(double fontSize)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fontSize | Double | フォントサイズ。 |
 
-### See Also
+### 関連項目
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -44,17 +44,17 @@ public TextState(double fontSize)
 
 ## TextState(Color) {#constructor_2}
 
-前景色の指定でテキスト状態オブジェクトを作成します。
+前景色の指定付きテキスト状態オブジェクトを作成します。
 
 ```csharp
 public TextState(Color foregroundColor)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | foregroundColor | Color | 前景色。 |
 
-### See Also
+### 関連項目
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -64,18 +64,18 @@ public TextState(Color foregroundColor)
 
 ## TextState(Color, double) {#constructor_3}
 
-前景色とフォントサイズの指定でテキスト状態オブジェクトを作成します。
+前景色とフォントサイズの指定付きテキスト状態オブジェクトを作成します。
 
 ```csharp
 public TextState(Color foregroundColor, double fontSize)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | foregroundColor | Color | 前景色。 |
 | fontSize | Double | フォントサイズ。 |
 
-### See Also
+### 関連項目
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -85,17 +85,17 @@ public TextState(Color foregroundColor, double fontSize)
 
 ## TextState(string) {#constructor_4}
 
-フォントファミリの指定でテキスト状態オブジェクトを作成します。
+フォントファミリの指定付きテキスト状態オブジェクトを作成します。
 
 ```csharp
 public TextState(string fontFamily)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fontFamily | String | フォントファミリ。 |
+| fontFamily | String | フォントファミリー。 |
 
-### See Also
+### 関連項目
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -105,19 +105,19 @@ public TextState(string fontFamily)
 
 ## TextState(string, bool, bool) {#constructor_5}
 
-フォントファミリとフォントスタイルの指定でテキスト状態オブジェクトを作成します。
+フォントファミリとフォントスタイルの指定付きテキスト状態オブジェクトを作成します。
 
 ```csharp
 public TextState(string fontFamily, bool bold, bool italic)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fontFamily | String | フォントファミリ。 |
+| fontFamily | String | フォントファミリー。 |
 | bold | Boolean | 太字フォントスタイル。 |
 | italic | Boolean | イタリックフォントスタイル。 |
 
-### See Also
+### 関連項目
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -127,19 +127,21 @@ public TextState(string fontFamily, bool bold, bool italic)
 
 ## TextState(string, double) {#constructor_6}
 
-フォントファミリとフォントサイズの指定でテキスト状態オブジェクトを作成します。
+フォントファミリとフォントサイズの指定付きテキスト状態オブジェクトを作成します。
 
 ```csharp
 public TextState(string fontFamily, double fontSize)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fontFamily | String | フォントファミリ。 |
+| fontFamily | String | フォントファミリー。 |
 | fontSize | Double | フォントサイズ。 |
 
-### See Also
+### 関連項目
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

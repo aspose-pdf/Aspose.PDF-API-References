@@ -1,14 +1,14 @@
 ---
-title: PageSettings.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings コンストラクタ。デフォルトプリンタを使用して PageSettings クラスの新しいインスタンスを初期化します
+title: "PageSettings.PageSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageSettings コンストラクタ。デフォルトのプリンターを使用して PageSettings クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.printing/pagesettings/pagesettings/
 ---
 ## PageSettings() {#constructor}
 
-デフォルトプリンタを使用して [`PageSettings`](../) クラスの新しいインスタンスを初期化します。
+デフォルトのプリンターを使用して [`PageSettings`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PageSettings()
@@ -16,21 +16,21 @@ public PageSettings()
 
 ### 関連項目
 
-* クラス [PageSettings](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PageSettings(PrinterSettings) {#constructor_1}
 
-指定されたプリンタを使用して [`PageSettings`](../) クラスの新しいインスタンスを初期化します。
+指定されたプリンターを使用して [`PageSettings`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PageSettings(PrinterSettings printerSettings)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | printerSettings | PrinterSettings | [`PrinterSettings`](../printersettings/) オブジェクト |
 
@@ -38,11 +38,13 @@ public PageSettings(PrinterSettings printerSettings)
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *printerSettings* が null です。 |
+| ArgumentNullException | *printerSettings* は null です。 |
 
 ### 関連項目
 
-* クラス [PrinterSettings](../../printersettings/)
-* クラス [PageSettings](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

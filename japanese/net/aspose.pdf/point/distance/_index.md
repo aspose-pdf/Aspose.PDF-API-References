@@ -1,30 +1,32 @@
 ---
-title: Point.Distance
-second_title: Aspose.PDF for .NET API Reference
-description: Point メソッド。2 つの点の間の距離を計算します
+title: "Point.Distance"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Point メソッド。2 つのポイント間の距離を計算します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/point/distance/
 ---
-## Point.Distance メソッド
+## Point.Distance method
 
-2 つの点の間の距離を計算します。
+2つのポイント間の距離を計算します。
 
 ```csharp
 public static double Distance(Point point1, Point point2)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| point1 | Point | 最初の点。 |
-| point2 | Point | 2 番目の点。 |
+| point1 | ポイント | 最初のポイントです。 |
+| point2 | ポイント | 2 番目のポイントです。 |
 
 ### 戻り値
 
-2 つの点の間の距離。
+2 つのポイント間の距離。
 
-### 参照
+### 関連項目
 
-* クラス [Point](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

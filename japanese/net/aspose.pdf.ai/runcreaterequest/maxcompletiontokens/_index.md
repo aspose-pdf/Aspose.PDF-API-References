@@ -1,21 +1,23 @@
 ---
-title: RunCreateRequest.MaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: RunCreateRequest プロパティ。実行中に使用される最大の完了トークン数を取得または設定します。実行は、実行の複数のターンにわたって指定された完了トークン数のみを使用するよう最善を尽くします。実行が指定された完了トークン数を超えた場合、実行は不完全な状態で終了します。詳細については incomplete_details を参照してください。
+title: "RunCreateRequest.MaxCompletionTokens"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RunCreateRequest プロパティ。実行中に使用できる完了トークンの最大数を取得または設定します。実行は複数ターンにわたって指定された完了トークン数のみを使用するよう最善を尽くします。指定されたトークン数を超えると、実行はステータス incomplete で終了します。詳細は incomplete_details を参照してください"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.ai/runcreaterequest/maxcompletiontokens/
 ---
-## RunCreateRequest.MaxCompletionTokens プロパティ
+## RunCreateRequest.MaxCompletionTokens property
 
-実行中に使用される最大の完了トークン数を取得または設定します。実行は、実行の複数のターンにわたって指定された完了トークン数のみを使用するよう最善を尽くします。実行が指定された完了トークン数を超えた場合、実行は不完全な状態で終了します。詳細については incomplete_details を参照してください。
+実行中に使用できる最大完了トークン数を取得または設定します。実行は、実行の複数ターンにわたって指定された完了トークン数のみを使用するよう最善を尽くします。実行が指定された完了トークン数を超えると、ステータスが incomplete で終了します。詳細は incomplete_details を参照してください。
 
 ```csharp
 public int? MaxCompletionTokens { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

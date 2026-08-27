@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ToPoints
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。矩形をポイントの配列 QuadPoints に変換します。
+title: "Rectangle.ToPoints"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。矩形をポイントの配列 QuadPoints に変換します。"
 type: docs
 weight: 270
 url: /ja/net/aspose.pdf/rectangle/topoints/
 ---
-## Rectangle.ToPoints メソッド
+## Rectangle.ToPoints method
 
-矩形をポイントの配列 ("QuadPoints") に変換します。
+矩形をポイントの配列（"QuadPoints"）に変換します。
 
 ```csharp
 public Point[] ToPoints()
@@ -18,9 +18,11 @@ public Point[] ToPoints()
 
 ポイントの配列。
 
-### 参照
+### 関連項目
 
-* クラス [Point](../../point/)
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Point](../../point/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

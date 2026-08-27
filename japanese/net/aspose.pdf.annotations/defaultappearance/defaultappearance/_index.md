@@ -1,7 +1,7 @@
 ---
-title: DefaultAppearance.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance コンストラクタ。DefaultAppearance のコンストラクタ
+title: "DefaultAppearance.DefaultAppearance"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DefaultAppearance コンストラクタ。DefaultAppearance のコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/defaultappearance/defaultappearance/
@@ -14,7 +14,7 @@ DefaultAppearance のコンストラクタ。
 public DefaultAppearance()
 ```
 
-### See Also
+### 関連項目
 
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -30,13 +30,13 @@ DefaultAppearance のコンストラクタ。
 public DefaultAppearance(string fontName, double fontSize, Color textColor)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fontName | String | フォント名。 |
 | fontSize | Double | フォントサイズ。 |
 | textColor | Color | テキストの色。 |
 
-### See Also
+### 関連項目
 
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -46,21 +46,23 @@ public DefaultAppearance(string fontName, double fontSize, Color textColor)
 
 ## DefaultAppearance(Font, double, Color) {#constructor_1}
 
-デフォルトの外観のコンストラクタ。以前に作成されたフォントをデフォルトフォントとして指定できます。
+Default Appearance のコンストラクタ。以前に作成したフォントをデフォルトフォントとして指定できます。
 
 ```csharp
 public DefaultAppearance(Font font, double fontSize, Color textColor)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| font | Font | デフォルトとして使用されるフォント。 |
+| フォント | Font | デフォルトとして使用されるフォント。 |
 | fontSize | Double | フォントサイズ。 |
 | textColor | Color | テキストの色。 |
 
-### See Also
+### 関連項目
 
 * class [Font](../../../aspose.pdf.text/font/)
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

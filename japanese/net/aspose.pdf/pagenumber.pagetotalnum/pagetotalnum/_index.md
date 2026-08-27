@@ -1,12 +1,12 @@
 ---
-title: PageNumber.PageTotalNum.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: PageTotalNum コンストラクタ。デフォルトコンストラクタ
+title: "PageNumber.PageTotalNum.PageTotalNum"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageTotalNum コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pagenumber.pagetotalnum/pagetotalnum/
 ---
-## PageNumber.PageTotalNum コンストラクタ
+## PageNumber.PageTotalNum constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/pagenumber.pagetotalnum/pagetotalnum/
 public PageTotalNum()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PageTotalNum](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageTotalNum](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

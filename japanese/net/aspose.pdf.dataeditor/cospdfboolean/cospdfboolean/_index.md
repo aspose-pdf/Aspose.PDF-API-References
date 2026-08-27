@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.CosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean コンストラクタ。PdfBoolean クラスの新しいインスタンスを初期化します
+title: "CosPdfBoolean.CosPdfBoolean"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfBoolean コンストラクタ。PdfBoolean クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.dataeditor/cospdfboolean/cospdfboolean/
 ---
-## CosPdfBoolean コンストラクタ
+## CosPdfBoolean constructor
 
 PdfBoolean クラスの新しいインスタンスを初期化します。
 
@@ -14,12 +14,14 @@ PdfBoolean クラスの新しいインスタンスを初期化します。
 public CosPdfBoolean(bool value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | Boolean | `true` に設定されている場合 [value]。 |
+| 値 | Boolean | `true` に設定された場合の [value]。 |
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfBoolean](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

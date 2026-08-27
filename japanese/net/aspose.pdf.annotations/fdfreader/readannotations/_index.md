@@ -1,27 +1,29 @@
 ---
-title: FdfReader.ReadAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: FdfReader メソッド。FDF ファイルから注釈をインポートし、ドキュメントに追加します。
+title: "FdfReader.ReadAnnotations"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FdfReader メソッド。FDF ファイルから注釈をインポートし、Document に配置します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/fdfreader/readannotations/
 ---
-## FdfReader.ReadAnnotations メソッド
+## FdfReader.ReadAnnotations method
 
-FDF ファイルから注釈をインポートし、ドキュメントに追加します。
+FDF ファイルからアノテーションをインポートし、ドキュメントに配置します。
 
 ```csharp
 public static void ReadAnnotations(Stream stream, Document document)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| stream | Stream | FDF ファイルを含むソースストリーム。 |
-| document | Document | 注釈が追加されるドキュメント。 |
+| stream | Stream | FDF ファイルを含むソース ストリーム。 |
+| document | Document | 注釈が追加される Document。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [FdfReader](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [FdfReader](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

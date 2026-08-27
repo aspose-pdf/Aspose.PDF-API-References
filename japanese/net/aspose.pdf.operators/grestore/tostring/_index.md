@@ -1,14 +1,14 @@
 ---
-title: GRestore.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: GRestore メソッド。オペレーターのテキストを返します
+title: "GRestore.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GRestore メソッド。演算子のテキストを返します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/grestore/tostring/
 ---
-## GRestore.ToString メソッド
+## GRestore.ToString method
 
-オペレーターのテキストを返します。
+演算子のテキストを返します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-オペレーターのテキスト表現。
+演算子のテキスト表現です。
 
-### 参照
+### 関連項目
 
-* クラス [GRestore](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GRestore](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

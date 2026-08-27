@@ -1,29 +1,31 @@
 ---
-title: PdfConverter.MergeImagesAsTiff
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter メソッド。tiff ストリームのリストを 1 つの複数フレーム tiff ストリームとしてマージします。
+title: "PdfConverter.MergeImagesAsTiff"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfConverter メソッド。tiff ストリームのリストを 1 つのマルチフレーム tiff ストリームに結合します"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.facades/pdfconverter/mergeimagesastiff/
 ---
-## PdfConverter.MergeImagesAsTiff メソッド
+## PdfConverter.MergeImagesAsTiff method
 
-tiff ストリームのリストを 1 つの複数フレーム tiff ストリームとしてマージします。
+tiff ストリームのリストを 1 つの複数フレーム tiff ストリームに結合します。
 
 ```csharp
 public static Stream MergeImagesAsTiff(List<Stream> inputImagesStreams)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputImagesStreams | List`1 | tiff ストリームのリスト。 |
+| inputImagesStreams | List`1 | tiff ストリームのリストです。 |
 
 ### 戻り値
 
-複数フレーム tiff ストリーム。
+マルチフレーム tiff ストリームです。
 
-### 参照
+### 関連項目
 
-* クラス [PdfConverter](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

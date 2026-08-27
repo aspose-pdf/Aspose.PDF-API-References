@@ -1,12 +1,12 @@
 ---
-title: Class FormExporter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormExporter クラス。FormExporter プラグインを表します
+title: "クラス FormExporter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.FormExporter クラス。FormExporter プラグインを表します"
 type: docs
-weight: 8670
+weight: 8800
 url: /ja/net/aspose.pdf.plugins/formexporter/
 ---
-## FormExporter クラス
+## FormExporter class
 
 FormExporter プラグインを表します。
 
@@ -18,16 +18,18 @@ public sealed class FormExporter : IPlugin
 
 | 名前 | 説明 |
 | --- | --- |
-| [FormExporter](formexporter/)() | デフォルトコンストラクタ。 |
+| [FormExporter](formexporter/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/formexporter/process/)(IPluginOptions) | 指定されたパラメータで FormExporter 処理を開始します。 |
+| [Process](../../aspose.pdf.plugins/formexporter/process/)(IPluginOptions) | 指定されたパラメータで FormExporter の処理を開始します。 |
 
 ### 関連項目
 
-* インターフェース [IPlugin](../iplugin/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

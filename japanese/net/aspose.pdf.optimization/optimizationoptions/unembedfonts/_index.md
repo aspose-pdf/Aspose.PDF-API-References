@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.UnembedFonts
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions プロパティ。true に設定するとフォントが埋め込まれなくなります
+title: "OptimizationOptions.UnembedFonts"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizationOptions プロパティ。 このフラグが true に設定されている場合、フォントは埋め込まれません。"
 type: docs
-weight: 140
+weight: 130
 url: /ja/net/aspose.pdf.optimization/optimizationoptions/unembedfonts/
 ---
-## OptimizationOptions.UnembedFonts プロパティ
+## OptimizationOptions.UnembedFonts property
 
-true に設定するとフォントが埋め込まれなくなります。
+true に設定すると、フォントを埋め込まないようにします。
 
 ```csharp
 public bool UnembedFonts { get; set; }
@@ -19,3 +19,5 @@ public bool UnembedFonts { get; set; }
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

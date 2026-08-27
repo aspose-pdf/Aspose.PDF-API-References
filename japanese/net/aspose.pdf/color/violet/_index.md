@@ -1,14 +1,14 @@
 ---
-title: Color.Violet
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFEE82EE のシステム定義カラーを取得します。
+title: "Color.Violet"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得します。ARGB 値は c FFEE82EE です。"
 type: docs
 weight: 1370
 url: /ja/net/aspose.pdf/color/violet/
 ---
-## Color.Violet プロパティ
+## Color.Violet property
 
-ARGB 値が \c \#FFEE82EE のシステム定義カラーを取得します。
+システム定義の色を取得します。この色は ARGB 値 \c \#FFEE82EE を持ちます。
 
 ```csharp
 public static Color Violet { get; }
@@ -18,8 +18,10 @@ public static Color Violet { get; }
 
 システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

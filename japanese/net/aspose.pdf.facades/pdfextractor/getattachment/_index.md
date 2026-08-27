@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor メソッド。添付ファイルをファイルに保存します
+title: "PdfExtractor.GetAttachment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfExtractor メソッド。添付ファイルをファイルに保存します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.facades/pdfextractor/getattachment/
@@ -14,15 +14,15 @@ url: /ja/net/aspose.pdf.facades/pdfextractor/getattachment/
 public void GetAttachment(string outputPath)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputPath | String | 添付ファイルが保存されるディレクトリパス。Null または空の文字列は、添付ファイルがアプリケーションディレクトリに配置されることを意味します。 |
+| outputPath | String | 添付ファイルが保存されるディレクトリパス。null または空文字列の場合、添付ファイルはアプリケーションディレクトリに配置されます。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfExtractor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,7 +36,7 @@ public MemoryStream[] GetAttachment()
 
 ### 戻り値
 
-PDF ドキュメント内の添付ファイルのストリーム配列。
+PDF ドキュメント内の添付ファイルのストリーム配列です。
 
 ## 例
 
@@ -90,8 +90,10 @@ for(Integer i = 0 i<tempStreams.Length i++)
 }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfExtractor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

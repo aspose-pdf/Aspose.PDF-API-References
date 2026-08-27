@@ -1,14 +1,14 @@
 ---
-title: Enum LoadOptions.MarginsAreaUsageModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptionsMarginsAreaUsageModes 列挙型。HTML、EPUB などの変換中にマージンエリアの使用モードを表し、マージンの使用に関連するインポート形式の指示の取り扱いを定義します。
+title: "列挙型 LoadOptions.MarginsAreaUsageModes"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.LoadOptionsMarginsAreaUsageModes 列挙型。HTML、EPUB などの変換時に余白領域の使用モードを表し、インポートされたフォーマットの余白使用に関する指示の取り扱いを定義します。"
 type: docs
-weight: 6130
+weight: 6270
 url: /ja/net/aspose.pdf/loadoptions.marginsareausagemodes/
 ---
-## LoadOptions.MarginsAreaUsageModes 列挙型
+## LoadOptions.MarginsAreaUsageModes enumeration
 
-変換中のマージンエリアの使用モードを表します（HTML、EPUB など）、マージンの使用に関連するインポート形式の指示の取り扱いを定義します。
+変換時（HTML、EPUB など）の余白領域の使用モードを表し、インポートされたフォーマットの余白使用に関する指示の取り扱いを定義します。
 
 ```csharp
 public enum MarginsAreaUsageModes
@@ -18,11 +18,13 @@ public enum MarginsAreaUsageModes
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| PutContentOnMarginAreaIfNecessary | `0` | このモードでは、コンバータはインポートされたドキュメントの形式（例：インポートされた HTML の CSS）に従ってマージンエリアを使用します。したがって、インポートされたドキュメントの形式がレンダリングのためにマージンエリアの使用を要求する場合、コンバータはそれを許可します。 |
-| NeverPutContentOnMarginArea | `1` | このモードでは、マージンエリアの使用が厳格に禁止されているため、コンバータはソースドキュメントの CSS や形式がそれを許可または要求しても、マージンエリアをレンダリングに使用することはありません。 |
+| PutContentOnMarginAreaIfNecessary | `0` | このモードでは、コンバータはインポートされた Document のフォーマット（例: インポートされた HTML の CSS）に従って余白領域を使用します。そのため、インポートされた Document のフォーマットがレンダリングに余白領域の使用を要求する場合、コンバータはそれを許可します。 |
+| NeverPutContentOnMarginArea | `1` | このモードは余白領域の使用を厳格に禁止します。そのため、CSS やソース Document のフォーマットが許可または要求していても、コンバータは余白領域をレンダリングに使用しません。 |
 
-### 参照
+### 関連項目
 
-* クラス [LoadOptions](../loadoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection プロパティ。指定されたインデックスの CharInfo 要素を取得します
+title: "CharInfoCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CharInfoCollection プロパティ。指定されたインデックスの CharInfo 要素を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.text/charinfocollection/item/
 ---
-## CharInfoCollection インデクサ
+## CharInfoCollection indexer
 
 指定されたインデックスの CharInfo 要素を取得します。
 
@@ -16,15 +16,17 @@ public CharInfo this[int index] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | コレクション内のインデックス。 |
+| インデックス | コレクション内のインデックスです。 |
 
 ### 戻り値
 
-CharInfo オブジェクト。
+CharInfo オブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [CharInfo](../../charinfo/)
-* クラス [CharInfoCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

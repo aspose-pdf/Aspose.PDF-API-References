@@ -1,22 +1,24 @@
 ---
-title: Page.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。ページ注釈のコレクションを取得します。注釈
+title: "Page.Annotations"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。ページ注釈のコレクションを取得します。Annotations"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/page/annotations/
 ---
-## Page.Annotations プロパティ
+## Page.Annotations property
 
-ページ注釈のコレクションを取得します。 `Annotations`
+ページ注釈のコレクションを取得します。`Annotations`
 
 ```csharp
 public AnnotationCollection Annotations { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

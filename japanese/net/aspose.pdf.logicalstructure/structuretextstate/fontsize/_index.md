@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState プロパティ。テキストのフォントサイズを取得または設定します
+title: "StructureTextState.FontSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTextState プロパティ。テキストのフォントサイズを取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.logicalstructure/structuretextstate/fontsize/
 ---
-## StructureTextState.FontSize プロパティ
+## StructureTextState.FontSize property
 
 テキストのフォントサイズを取得または設定します。
 
@@ -16,10 +16,12 @@ public float? FontSize { get; set; }
 
 ## 備考
 
-null である可能性があります。親構造要素から `FontSize` プロパティを継承するには null を使用します。
+null に設定できます。null を使用して、親構造要素から `FontSize` プロパティを継承します。
 
-### 参照
+### 関連項目
 
-* クラス [StructureTextState](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

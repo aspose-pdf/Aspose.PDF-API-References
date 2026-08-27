@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.ReplacementFont
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions プロパティ。ユーザーフォントに必要な文字が含まれていない場合に置き換えに使用されるフォントを取得または設定します
+title: "TextEditOptions.ReplacementFont"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextEditOptions プロパティ。ユーザーのフォントに必要な文字が含まれていない場合に置換に使用されるフォントを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.text/texteditoptions/replacementfont/
 ---
-## TextEditOptions.ReplacementFont プロパティ
+## TextEditOptions.ReplacementFont property
 
-ユーザーフォントに必要な文字が含まれていない場合に置き換えに使用されるフォントを取得または設定します
+ユーザーフォントが必要な文字を含まない場合に置換に使用するフォントを取得または設定します
 
 ```csharp
 public Font ReplacementFont { get; set; }
@@ -20,3 +20,5 @@ public Font ReplacementFont { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

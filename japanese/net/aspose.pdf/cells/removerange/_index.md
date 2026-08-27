@@ -1,12 +1,12 @@
 ---
-title: Cells.RemoveRange
-second_title: Aspose.PDF for .NET API Reference
-description: Cells メソッド。コレクションからセルセットを削除します
+title: "Cells.RemoveRange"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Cells メソッド。コレクションからセルのセットを削除"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/cells/removerange/
 ---
-## Cells.RemoveRange メソッド
+## Cells.RemoveRange method
 
 コレクションからセルセットを削除します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/cells/removerange/
 public void RemoveRange(int index, int count)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | コレクションのインデックス。 |
-| count | Int32 | 行の数。 |
+| インデックス | Int32 | コレクションインデックス。 |
+| カウント | Int32 | 行数。 |
 
-### 参照
+### 関連項目
 
-* クラス [Cells](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

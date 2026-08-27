@@ -1,12 +1,12 @@
 ---
-title: DiffOperation.Operation
-second_title: Aspose.PDF for .NET API Reference
-description: DiffOperation プロパティ。操作タイプを取得および設定します
+title: "DiffOperation.Operation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DiffOperation プロパティ。操作タイプを取得および設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.comparison/diffoperation/operation/
 ---
-## DiffOperation.Operation プロパティ
+## DiffOperation.Operation property
 
 操作タイプを取得および設定します。
 
@@ -20,3 +20,5 @@ public Operation Operation { get; }
 * class [DiffOperation](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

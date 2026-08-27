@@ -1,12 +1,12 @@
 ---
-title: SubmitFormAction.SubmitCoordinates
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction フィールド。設定されている場合、submitform アクションを引き起こしたマウスクリックの座標がフォームデータの一部として送信されます。
+title: "SubmitFormAction.SubmitCoordinates"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SubmitFormAction フィールド。設定すると、submitform アクションを引き起こしたマウスクリックの座標がフォームデータの一部として送信されます"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.annotations/submitformaction/submitcoordinates/
 ---
-## SubmitFormAction.SubmitCoordinates フィールド
+## SubmitFormAction.SubmitCoordinates field
 
 設定されている場合、submit-form アクションを引き起こしたマウスクリックの座標がフォームデータの一部として送信されます。
 
@@ -16,6 +16,8 @@ public const int SubmitCoordinates;
 
 ### 関連項目
 
-* クラス [SubmitFormAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Metadata.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: メタデータプロパティ。コレクションが同期されているかどうかを確認します
+title: "Metadata.IsSynchronized"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metadata プロパティ。コレクションが同期されているかどうかを確認します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/metadata/issynchronized/
 ---
-## Metadata.IsSynchronized プロパティ
+## Metadata.IsSynchronized property
 
-コレクションが同期されているかどうかを確認します。
+コレクションが同期化されているかどうかを確認します。
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Metadata](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionObject.Value
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionObject プロパティ。値を取得または設定します
+title: "XmpPdfAExtensionObject.Value"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionObject プロパティ。値を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/xmppdfaextensionobject/value/
 ---
-## XmpPdfAExtensionObject.Value プロパティ
+## XmpPdfAExtensionObject.Value property
 
 値を取得または設定します。
 
@@ -16,6 +16,8 @@ public string Value { get; set; }
 
 ### 関連項目
 
-* クラス [XmpPdfAExtensionObject](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

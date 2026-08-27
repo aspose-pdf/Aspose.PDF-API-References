@@ -1,14 +1,14 @@
 ---
-title: PaperSources.LargeFormat
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources フィールド。大判用紙のビンを表します
+title: "PaperSources.LargeFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSources フィールド。大判用紙用のトレイを表します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.printing/papersources/largeformat/
 ---
-## PaperSources.LargeFormat フィールド
+## PaperSources.LargeFormat field
 
-大判用紙のビンを表します。
+大判用紙用トレイを表します。
 
 ```csharp
 public static readonly PaperSource LargeFormat;
@@ -16,7 +16,9 @@ public static readonly PaperSource LargeFormat;
 
 ### 関連項目
 
-* クラス [PaperSource](../../papersource/)
-* クラス [PaperSources](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

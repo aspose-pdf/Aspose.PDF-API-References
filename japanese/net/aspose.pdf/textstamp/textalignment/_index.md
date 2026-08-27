@@ -1,14 +1,14 @@
 ---
-title: TextStamp.TextAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp プロパティ。スタンプ内のテキストの配置
+title: "TextStamp.TextAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextStamp プロパティ。スタンプ内のテキストの配置"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/textstamp/textalignment/
 ---
-## TextStamp.TextAlignment プロパティ
+## TextStamp.TextAlignment property
 
-スタンプ内のテキストの配置。
+スタンプ内のテキストの配置です。
 
 ```csharp
 public HorizontalAlignment TextAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment TextAlignment { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

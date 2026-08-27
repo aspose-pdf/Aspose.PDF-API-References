@@ -1,68 +1,70 @@
 ---
-title: TextFragmentAbsorber.ApplyForAllFragments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber メソッド。吸収されたすべてのテキストフラグメントにフォントを適用します。すべてのフラグメントがページ上で吸収された場合、フラグメントをループするよりも高速に動作します。そうでない場合は、ループと同様に動作します。
+title: "TextFragmentAbsorber.ApplyForAllFragments"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentAbsorber メソッド。吸収されたすべてのテキストフラグメントにフォントを適用します。ページ上のすべてのフラグメントが吸収されている場合、フラグメントをループ処理するよりも高速に動作します。そうでない場合は、ループ処理と同様に動作します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.text/textfragmentabsorber/applyforallfragments/
 ---
 ## ApplyForAllFragments(Font) {#applyforallfragments}
 
-吸収されたすべてのテキストフラグメントにフォントを適用します。すべてのフラグメントがページ上で吸収された場合、フラグメントをループするよりも高速に動作します。そうでない場合は、ループと同様に動作します。
+吸収されたすべてのテキストフラグメントにフォントを適用します。すべてのフラグメントが page(s) 上で吸収されている場合、フラグメントをループ処理するよりも高速に動作します。そうでない場合はループ処理と同様に動作します。
 
 ```csharp
 public void ApplyForAllFragments(Font font)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| font | Font | [`Font`](../../font/)のテキスト。 |
+| font | Font | テキストの [`Font`](../../font/)。 |
 
-### 参照
+### 関連項目
 
-* クラス [Font](../../font/)
-* クラス [TextFragmentAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ApplyForAllFragments(float) {#applyforallfragments_2}
 
-吸収されたすべてのテキストフラグメントにフォントサイズを適用します。すべてのフラグメントがページ上で吸収された場合、フラグメントをループするよりも高速に動作します。そうでない場合は、ループと同様に動作します。
+吸収されたすべてのテキストフラグメントにフォントサイズを適用します。すべてのフラグメントが page(s) 上で吸収されている場合、フラグメントをループ処理するよりも高速に動作します。そうでない場合はループ処理と同様に動作します。
 
 ```csharp
 public void ApplyForAllFragments(float fontSize)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fontSize | Single | テキストのフォントサイズ。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextFragmentAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ApplyForAllFragments(Font, float) {#applyforallfragments_1}
 
-吸収されたすべてのテキストフラグメントにフォントとサイズを適用します。すべてのフラグメントがページ上で吸収された場合、フラグメントをループするよりも高速に動作します。そうでない場合は、ループと同様に動作します。
+吸収されたすべてのテキストフラグメントにフォントとサイズを適用します。すべてのフラグメントが page(s) 上で吸収されている場合、フラグメントをループ処理するよりも高速に動作します。そうでない場合はループ処理と同様に動作します。
 
 ```csharp
 public void ApplyForAllFragments(Font font, float fontSize)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| font | Font | [`Font`](../../font/)のテキスト。 |
+| font | Font | テキストの [`Font`](../../font/)。 |
 | fontSize | Single | テキストのフォントサイズ。 |
 
-### 参照
+### 関連項目
 
-* クラス [Font](../../font/)
-* クラス [TextFragmentAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

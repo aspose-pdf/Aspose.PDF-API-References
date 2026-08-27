@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.GetOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode メソッド。オパシティを取得します
+title: "PDF3DRenderMode.GetOpacity"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DRenderMode メソッド。不透明度を取得します"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf.annotations/pdf3drendermode/getopacity/
 ---
-## PDF3DRenderMode.GetOpacity メソッド
+## PDF3DRenderMode.GetOpacity method
 
-オパシティを取得します。
+不透明度を取得します。
 
 ```csharp
 public double GetOpacity()
@@ -16,10 +16,12 @@ public double GetOpacity()
 
 ### 戻り値
 
-System.Double。
+System.Double.
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DRenderMode](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

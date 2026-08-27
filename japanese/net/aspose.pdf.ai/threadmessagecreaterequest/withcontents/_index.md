@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageCreateRequest.WithContents
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest メソッド。スレッドメッセージリクエストのメッセージ内容を設定します
+title: "ThreadMessageCreateRequest.WithContents"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ThreadMessageCreateRequest メソッド。スレッドメッセージリクエストのメッセージ内容を設定します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.ai/threadmessagecreaterequest/withcontents/
 ---
-## ThreadMessageCreateRequest.WithContents メソッド
+## ThreadMessageCreateRequest.WithContents method
 
 スレッドメッセージリクエストのメッセージ内容を設定します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf.ai/threadmessagecreaterequest/withcontents/
 public ThreadMessageCreateRequest WithContents(List<MessageContentRequest> content)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| content | List`1 | 設定するメッセージ内容のリスト。 |
+| コンテンツ | List`1 | 設定するメッセージ内容のリストです。 |
 
 ### 戻り値
 
-[`ThreadMessageCreateRequest`](../) の現在のインスタンス。
+現在の [`ThreadMessageCreateRequest`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [MessageContentRequest](../../messagecontentrequest/)
-* クラス [ThreadMessageCreateRequest](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MessageContentRequest](../../messagecontentrequest/)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

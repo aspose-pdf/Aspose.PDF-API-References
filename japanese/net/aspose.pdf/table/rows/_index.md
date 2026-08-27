@@ -1,12 +1,12 @@
 ---
-title: Table.Rows
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルプロパティ。テーブルの行を取得します
+title: "Table.Rows"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table プロパティ。テーブルの行を取得します"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf/table/rows/
 ---
-## Table.Rows プロパティ
+## Table.Rows property
 
 テーブルの行を取得します。
 
@@ -20,3 +20,5 @@ public Rows Rows { get; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

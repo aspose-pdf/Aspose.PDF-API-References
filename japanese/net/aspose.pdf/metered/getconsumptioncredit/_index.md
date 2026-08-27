@@ -1,12 +1,12 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.PDF for .NET API Reference
-description: メーター方式。消費クレジットを取得します
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metered メソッド。消費クレジットを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/metered/getconsumptioncredit/
 ---
-## Metered.GetConsumptionCredit メソッド
+## Metered.GetConsumptionCredit method
 
 消費クレジットを取得します。
 
@@ -18,8 +18,10 @@ public static decimal GetConsumptionCredit()
 
 消費量。
 
-### 参照
+### 関連項目
 
-* クラス [Metered](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

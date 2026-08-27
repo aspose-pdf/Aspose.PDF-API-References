@@ -1,12 +1,12 @@
 ---
-title: FormOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: FormOptions プロパティ。Form.... プラグインのデータコレクションを返します。
+title: "FormOptions.Inputs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormOptions プロパティ。Form.... プラグインのデータコレクションを返します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/formoptions/inputs/
 ---
-## FormOptions.Inputs プロパティ
+## FormOptions.Inputs property
 
 Form.... プラグインのデータコレクションを返します。
 
@@ -14,9 +14,11 @@ Form.... プラグインのデータコレクションを返します。
 public List<IDataSource> Inputs { get; }
 ```
 
-### 参照
+### 関連項目
 
-* インターフェース [IDataSource](../../idatasource/)
-* クラス [FormOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [FormOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

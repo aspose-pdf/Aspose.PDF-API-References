@@ -1,14 +1,14 @@
 ---
-title: Document.Version
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。PdfファイルヘッダーからPdfのバージョンを取得します
+title: "Document.Version"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。Pdf ファイルヘッダーから Pdf のバージョンを取得します"
 type: docs
-weight: 530
+weight: 550
 url: /ja/net/aspose.pdf/document/version/
 ---
-## Document.Version プロパティ
+## Document.Version property
 
-PdfファイルヘッダーからPdfのバージョンを取得します。
+Pdf のファイルヘッダーからバージョンを取得します。
 
 ```csharp
 public string Version { get; }
@@ -16,6 +16,8 @@ public string Version { get; }
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

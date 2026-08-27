@@ -1,12 +1,12 @@
 ---
-title: OutputIntents.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents メソッド。コレクションを反復処理する列挙子を返します
+title: "OutputIntents.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutputIntents メソッド。コレクションを反復処理する列挙子を返します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/outputintents/getenumerator/
 ---
-## OutputIntents.GetEnumerator メソッド
+## OutputIntents.GetEnumerator method
 
 コレクションを反復処理する列挙子を返します。
 
@@ -18,9 +18,11 @@ public IEnumerator<OutputIntent> GetEnumerator()
 
 コレクションを反復処理するために使用できる列挙子。
 
-### 参照
+### 関連項目
 
-* クラス [OutputIntent](../../outputintent/)
-* クラス [OutputIntents](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

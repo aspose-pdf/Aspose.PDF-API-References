@@ -1,14 +1,14 @@
 ---
-title: CompletionResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionResponse プロパティ。常に chat.completion であるオブジェクトタイプを取得または設定します。
+title: "CompletionResponse.Object"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CompletionResponse プロパティ。常に chat.completion であるオブジェクトタイプを取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.ai/completionresponse/object/
 ---
-## CompletionResponse.Object プロパティ
+## CompletionResponse.Object property
 
-常に chat.completion であるオブジェクトタイプを取得または設定します。
+オブジェクトのタイプを取得または設定します。このタイプは常に chat.completion です。
 
 ```csharp
 public string Object { get; set; }
@@ -19,3 +19,5 @@ public string Object { get; set; }
 * class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

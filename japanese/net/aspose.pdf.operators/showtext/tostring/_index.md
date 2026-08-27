@@ -1,14 +1,14 @@
 ---
-title: ShowText.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ShowText メソッド。オペレーターのテキストコードを生成します
+title: "ShowText.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ShowText メソッド。演算子のテキストコードを生成します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.operators/showtext/tostring/
 ---
-## ShowText.ToString メソッド
+## ShowText.ToString method
 
-オペレーターのテキストコードを生成します。
+演算子のテキストコードを生成します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-オペレーターのテキスト表現。
+演算子のテキスト表現です。
 
-### 参照
+### 関連項目
 
-* クラス [ShowText](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

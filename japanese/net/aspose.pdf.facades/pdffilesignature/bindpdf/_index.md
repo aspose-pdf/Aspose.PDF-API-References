@@ -1,45 +1,47 @@
 ---
-title: PdfFileSignature.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature メソッド。編集のために Pdf ファイルをバインドします
+title: "PdfFileSignature.BindPdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSignature メソッド。編集用に Pdf ファイルをバインドします。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/pdffilesignature/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-編集のために Pdf ファイルをバインドします。
+編集用に Pdf ファイルをバインドします。
 
 ```csharp
 public override void BindPdf(string inputFile)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputFile | String | 編集する Pdf ファイル。 |
+| inputFile | String | 編集する PDF ファイル。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSignature](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-編集のために Pdf ストリームをバインドします。
+編集用に Pdf ストリームをバインドします。
 
 ```csharp
 public override void BindPdf(Stream inputStream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputStream | Stream | 編集する Pdf ストリーム。 |
+| inputStream | Stream | 編集する PDF ストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSignature](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

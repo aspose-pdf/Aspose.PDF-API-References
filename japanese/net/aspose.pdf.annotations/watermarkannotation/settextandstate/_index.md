@@ -1,27 +1,29 @@
 ---
-title: WatermarkAnnotation.SetTextAndState
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation メソッド。アノテーションのテキストを設定します。
+title: "WatermarkAnnotation.SetTextAndState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "WatermarkAnnotation メソッド。アノテーションのテキストを設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.annotations/watermarkannotation/settextandstate/
 ---
-## WatermarkAnnotation.SetTextAndState メソッド
+## WatermarkAnnotation.SetTextAndState method
 
-アノテーションのテキストを設定します。
+注釈のテキストを設定します。
 
 ```csharp
 public void SetTextAndState(string[] text, TextState textState)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String[] | テキスト値。 |
+| テキスト | String[] | テキスト値。 |
 | textState | TextState | テキスト状態。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextState](../../../aspose.pdf.text/textstate/)
-* クラス [WatermarkAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

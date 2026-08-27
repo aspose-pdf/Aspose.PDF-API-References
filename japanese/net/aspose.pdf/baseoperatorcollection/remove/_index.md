@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection メソッド。コレクションからオペレーターを削除します
+title: "BaseOperatorCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BaseOperatorCollection メソッド。コレクションから演算子を削除します"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/baseoperatorcollection/remove/
 ---
-## BaseOperatorCollection.Remove メソッド
+## BaseOperatorCollection.Remove method
 
 コレクションからオペレーターを削除します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/baseoperatorcollection/remove/
 public abstract bool Remove(Operator item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | Operator | 削除するオペレーター項目。 |
+| アイテム | オペレーター | 削除するオペレーター項目。 |
 
 ### 戻り値
 
-True - 項目が削除された場合; それ以外の場合は false。
+True - 項目が削除された場合; それ以外は false。
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../operator/)
-* クラス [BaseOperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

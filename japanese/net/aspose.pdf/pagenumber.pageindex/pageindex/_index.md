@@ -1,12 +1,12 @@
 ---
-title: PageNumber.PageIndex.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: PageIndex コンストラクタ。デフォルトコンストラクタ
+title: "PageNumber.PageIndex.PageIndex"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageIndex コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pagenumber.pageindex/pageindex/
 ---
-## PageNumber.PageIndex コンストラクタ
+## PageNumber.PageIndex constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/pagenumber.pageindex/pageindex/
 public PageIndex()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PageIndex](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageIndex](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

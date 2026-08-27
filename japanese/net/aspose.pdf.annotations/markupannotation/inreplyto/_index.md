@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.InReplyTo
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation プロパティ。このアノテーションが「返信先」としているアノテーションへの参照。両方のアノテーションはドキュメントの同じページに存在する必要があります。
+title: "MarkupAnnotation.InReplyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarkupAnnotation プロパティ。このアノテーションが返信する対象のアノテーションへの参照です。両方のアノテーションはドキュメントの同じページに存在する必要があります。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/markupannotation/inreplyto/
 ---
-## MarkupAnnotation.InReplyTo プロパティ
+## MarkupAnnotation.InReplyTo property
 
-このアノテーションが「返信先」としているアノテーションへの参照。両方のアノテーションはドキュメントの同じページに存在する必要があります。
+このアノテーションが「返信先」となるアノテーションへの参照です。両方のアノテーションは文書の同じページにある必要があります。
 
 ```csharp
 public Annotation InReplyTo { get; set; }
@@ -20,3 +20,5 @@ public Annotation InReplyTo { get; set; }
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

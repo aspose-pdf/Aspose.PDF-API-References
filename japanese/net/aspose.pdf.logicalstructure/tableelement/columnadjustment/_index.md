@@ -1,14 +1,14 @@
 ---
-title: TableElement.ColumnAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement プロパティ。テーブル列の調整を取得または設定します。
+title: "TableElement.ColumnAdjustment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableElement プロパティ。テーブル列の調整を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.logicalstructure/tableelement/columnadjustment/
 ---
-## TableElement.ColumnAdjustment プロパティ
+## TableElement.ColumnAdjustment property
 
-テーブル列の調整を取得または設定します。
+テーブルの列調整を取得または設定します。
 
 ```csharp
 public ColumnAdjustment ColumnAdjustment { get; set; }
@@ -20,3 +20,5 @@ public ColumnAdjustment ColumnAdjustment { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

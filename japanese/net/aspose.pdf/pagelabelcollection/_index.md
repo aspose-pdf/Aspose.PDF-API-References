@@ -1,14 +1,14 @@
 ---
-title: Class PageLabelCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageLabelCollection クラス。ページラベルコレクションを表すクラス
+title: "クラス PageLabelCollection"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PageLabelCollection クラス。ページラベルコレクションを表すクラス。"
 type: docs
-weight: 8170
+weight: 8310
 url: /ja/net/aspose.pdf/pagelabelcollection/
 ---
-## PageLabelCollection クラス
+## PageLabelCollection class
 
-ページラベルコレクションを表すクラスです。
+page label コレクションを表すクラスです。
 
 ```csharp
 public class PageLabelCollection
@@ -18,12 +18,14 @@ public class PageLabelCollection
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetLabel](../../aspose.pdf/pagelabelcollection/getlabel/)(int) | ページインデックスによってページラベルを取得します（ページインデックスは0から始まります）。 |
+| [GetLabel](../../aspose.pdf/pagelabelcollection/getlabel/)(int) | ページインデックス（インデックスは0から開始）でページラベルを取得します。 |
 | [GetPages](../../aspose.pdf/pagelabelcollection/getpages/)() | コレクション内のページインデックスを取得します。 |
-| [RemoveLabel](../../aspose.pdf/pagelabelcollection/removelabel/)(int) | ページインデックスによってラベルを削除します（ページインデックスは0から始まります）。 |
-| [UpdateLabel](../../aspose.pdf/pagelabelcollection/updatelabel/)(int, PageLabel) | 指定されたページインデックスのラベルを更新します（ページインデックスは0から始まります）。 |
+| [RemoveLabel](../../aspose.pdf/pagelabelcollection/removelabel/)(int) | ページインデックス（インデックスは0から開始）でラベルを削除します。 |
+| [UpdateLabel](../../aspose.pdf/pagelabelcollection/updatelabel/)(int, PageLabel) | 指定されたページインデックス（インデックスは0から開始）に対してラベルを更新します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

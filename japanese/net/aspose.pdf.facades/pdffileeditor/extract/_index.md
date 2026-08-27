@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.Extract
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor メソッド。入力ファイルからページを抽出し、新しい Pdf ファイルとして保存します。
+title: "PdfFileEditor.Extract"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor メソッド。入力ファイルからページを抽出し、新しい PDF ファイルとして保存します。"
 type: docs
 weight: 280
 url: /ja/net/aspose.pdf.facades/pdffileeditor/extract/
@@ -14,16 +14,16 @@ url: /ja/net/aspose.pdf.facades/pdffileeditor/extract/
 public bool Extract(string inputFile, int startPage, int endPage, string outputFile)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputFile | String | 入力 Pdf ファイルのパス。 |
+| inputFile | String | 入力 PDF ファイルパス。 |
 | startPage | Int32 | 開始ページ番号。 |
 | endPage | Int32 | 終了ページ番号。 |
-| outputFile | String | 出力 Pdf ファイルのパス。 |
+| outputFile | String | 出力 Pdf ファイル パス。 |
 
 ### 戻り値
 
-成功の場合は true、失敗の場合は false。
+成功した場合は true、失敗した場合は false。
 
 ## 例
 
@@ -32,11 +32,11 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", 3, 7, "output.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -48,15 +48,15 @@ pfe.Extract("input.pdf", 3, 7, "output.pdf");
 public bool Extract(string inputFile, int[] pageNumber, string outputFile)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputFile | String | 入力ファイルのパス。 |
-| pageNumber | Int32[] | 入力ファイルのページのインデックス。 |
-| outputFile | String | 出力ファイルのパス。 |
+| inputFile | String | 入力ファイルパス。 |
+| pageNumber | Int32[] | 入力ファイルのページインデックス。 |
+| outputFile | String | 出力ファイルパス。 |
 
 ### 戻り値
 
-操作が成功した場合は true。
+操作が成功した場合は True。
 
 ## 例
 
@@ -65,11 +65,11 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -81,16 +81,16 @@ pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 public bool Extract(Stream inputStream, int startPage, int endPage, Stream outputStream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputStream | Stream | 入力ファイルストリーム。 |
+| inputStream | Stream | 入力ファイル ストリーム。 |
 | startPage | Int32 | 開始ページ番号。 |
 | endPage | Int32 | 終了ページ番号。 |
-| outputStream | Stream | 出力 Pdf ファイルストリーム。 |
+| outputStream | Stream | 出力 Pdf ファイル ストリーム。 |
 
 ### 戻り値
 
-成功の場合は true、失敗の場合は false。
+成功した場合は true、失敗した場合は false。
 
 ## 例
 
@@ -101,11 +101,11 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, 1, 3, 6, outStream);
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -117,15 +117,15 @@ pfe.Extract(sourceStream, 1, 3, 6, outStream);
 public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputStream | Stream | 入力ファイルストリーム。 |
-| pageNumber | Int32[] | 入力ファイルのページのインデックス。 |
+| inputStream | Stream | 入力ファイル ストリーム。 |
+| pageNumber | Int32[] | 入力ファイルのページインデックス。 |
 | outputStream | Stream | 出力ファイルストリーム。 |
 
 ### 戻り値
 
-成功の場合は true、失敗の場合は false。
+成功した場合は true、失敗した場合は false。
 
 ## 例
 
@@ -136,8 +136,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: CurveTo2.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo2 メソッド。オペレーターを処理するために訪問者オブジェクトを受け入れます
+title: "CurveTo2.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CurveTo2 メソッド。演算子を処理するためにビジタオブジェクトを受け入れます"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/curveto2/accept/
 ---
-## CurveTo2.Accept メソッド
+## CurveTo2.Accept method
 
-オペレーターを処理するために訪問者オブジェクトを受け入れます。
+演算子を処理するためのビジタオブジェクトを受け入れます。
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | IOperatorSelector | 訪問者オブジェクト。 |
+| ビジター | IOperatorSelector | Visitor オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* クラス [CurveTo2](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [CurveTo2](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

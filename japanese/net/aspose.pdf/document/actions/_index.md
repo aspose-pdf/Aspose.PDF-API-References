@@ -1,14 +1,14 @@
 ---
-title: Document.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントアクションを取得します。このプロパティは DocumentActions クラスのインスタンスであり、BeforClosing、BeforSaving などのアクションを取得/設定することができます。
+title: "Document.Actions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントのアクションを取得します。このプロパティは DocumentActions クラスのインスタンスで、BeforClosing、BeforSaving などのアクションを取得/設定できます。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/document/actions/
 ---
-## Document.Actions プロパティ
+## Document.Actions property
 
-ドキュメントアクションを取得します。このプロパティは DocumentActions クラスのインスタンスであり、BeforClosing、BeforSaving などのアクションを取得/設定することができます。
+Document のアクションを取得します。このプロパティは DocumentActions クラスのインスタンスで、BeforClosing、BeforSaving などのアクションを取得/設定できます。
 
 ```csharp
 public DocumentActionCollection Actions { get; }
@@ -16,7 +16,7 @@ public DocumentActionCollection Actions { get; }
 
 ## 例
 
-この例では、ドキュメントのオープン後のアクションを取得する方法を示します。
+この例では、ドキュメントのオープン後アクションを取得する方法を示します。
 
 ```csharp
 Aspose.Pdf.Document document = new Aspose.Pdf.Document("d:\\work\\aspose\\aspose.pdf.kit.net.new\\trunk\\testdata\\Aspose.Pdf\\PdfWithOpenAction.pdf");
@@ -26,7 +26,9 @@ Aspose.Pdf.Annotations.PdfAction afterSavingAction = actions.AfterSaving;
 
 ### 関連項目
 
-* クラス [DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

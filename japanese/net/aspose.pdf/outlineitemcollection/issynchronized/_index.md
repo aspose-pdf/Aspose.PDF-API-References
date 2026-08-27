@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection プロパティ。 このコレクションへのアクセスが同期されているかどうかを示す値を取得します。
+title: "OutlineItemCollection.IsSynchronized"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineItemCollection プロパティ。コレクションへのアクセスが同期されておりスレッドセーフかどうかを示す値を取得します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/outlineitemcollection/issynchronized/
 ---
-## OutlineItemCollection.IsSynchronized プロパティ
+## OutlineItemCollection.IsSynchronized property
 
-このコレクションへのアクセスが同期されているかどうかを示す値を取得します。
+このコレクションへのアクセスが同期化されているか（スレッドセーフ）を示す値を取得します。
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### 関連項目
 
-* クラス [OutlineItemCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

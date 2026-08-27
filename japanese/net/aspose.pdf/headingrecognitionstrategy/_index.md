@@ -1,14 +1,14 @@
 ---
-title: Enum HeadingRecognitionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeadingRecognitionStrategy 列挙型。ヘッダー認識戦略の種類を表します
+title: "列挙型 HeadingRecognitionStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HeadingRecognitionStrategy 列挙体。ヘッダー認識戦略のタイプを表します"
 type: docs
-weight: 5480
+weight: 5610
 url: /ja/net/aspose.pdf/headingrecognitionstrategy/
 ---
-## HeadingRecognitionStrategy 列挙型
+## HeadingRecognitionStrategy enumeration
 
-ヘッダー認識戦略の種類を表します。
+ヘッダー認識戦略のタイプを表します。
 
 ```csharp
 public enum HeadingRecognitionStrategy
@@ -20,10 +20,12 @@ public enum HeadingRecognitionStrategy
 | --- | --- | --- |
 | Outlines | `0` | アウトラインによるヘッダー認識戦略を表します。 |
 | Heuristic | `1` | ヒューリスティックルールとフォントサイズ統計によるヘッダー認識戦略を表します。 |
-| Auto | `2` | 自動ヘッダー認識戦略の選択を提供します。これはデフォルトのオプションです。ドキュメントにブックマークが含まれている場合、Outlines 戦略が選択され、それ以外の場合は Heuristic が選択されます。 |
-| None | `3` | ヘッダーを認識しません。このオプションは、複雑にフォーマットされたドキュメントで役立つ場合があります。 |
+| Auto | `2` | 自動的にヘッダー認識戦略を選択します。これはデフォルトのオプションです。ドキュメントにブックマークが含まれている場合はアウトライン戦略が選択され、そうでない場合はヒューリスティックが選択されます。 |
+| None | `3` | ヘッダーを認識しません。このオプションは複雑にフォーマットされたドキュメントで役立つことがあります。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

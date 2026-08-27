@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata メソッド。オブジェクトからすべての要素を削除します
+title: "PdfXmpMetadata.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfXmpMetadata メソッド。オブジェクトからすべての要素を削除します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.facades/pdfxmpmetadata/clear/
 ---
-## PdfXmpMetadata.Clear メソッド
+## PdfXmpMetadata.Clear method
 
 オブジェクトからすべての要素を削除します。
 
@@ -24,6 +24,8 @@ xmp.Clear();
 
 ### 関連項目
 
-* クラス [PdfXmpMetadata](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

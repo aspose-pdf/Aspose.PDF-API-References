@@ -1,26 +1,26 @@
 ---
-title: Matrix.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: マトリックスメソッド。指定された回転角度のマトリックスを作成します。
+title: "Matrix.Rotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix メソッド。指定された回転角度の行列を作成します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/matrix/rotation/
 ---
 ## Rotation(double) {#rotation_1}
 
-指定された回転角度のマトリックスを作成します。
+指定された回転角度の Matrix を作成します。
 
 ```csharp
 public static Matrix Rotation(double alpha)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| alpha | Double | ラジアンでの回転角度。 |
+| alpha | Double | ラジアン単位の回転角度。 |
 
 ### 戻り値
 
-変換マトリックス。
+変換行列です。
 
 ## 例
 
@@ -28,33 +28,35 @@ public static Matrix Rotation(double alpha)
 Matrix m = Matrix.Rotation(Math.PI / 2);
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Matrix](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Rotation(Rotation) {#rotation}
 
-指定された回転のマトリックスを作成します。
+指定された回転の Matrix を作成します。
 
 ```csharp
 public static Matrix Rotation(Rotation rotation)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rotation | Rotation | 回転。 有効な値は: None, on90, on180, on270 |
+| 回転 | 回転 | 回転。有効な値は: None, on90, on180, on270 |
 
 ### 戻り値
 
-回転を含むマトリックス。
+回転付き Matrix。
 
-### 参照
+### 関連項目
 
-* 列挙型 [Rotation](../../rotation/)
-* クラス [Matrix](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [Rotation](../../rotation/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.BoundsCheckableList
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList コンストラクタ。BoundsCheckableList クラスの新しいインスタンスを初期化します
+title: "BoundsCheckableList1.BoundsCheckableList"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BoundsCheckableList コンストラクタ。BoundsCheckableList クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.generator/boundscheckablelist-1/boundscheckablelist/
@@ -14,7 +14,7 @@ BoundsCheckableList クラスの新しいインスタンスを初期化します
 public BoundsCheckableList()
 ```
 
-### See Also
+### 関連項目
 
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
@@ -31,15 +31,17 @@ public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidt
     double containerHeight)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode | バウンズチェックモード。 |
-| containerWidth | Double | コンテナの幅。 |
-| containerHeight | Double | コンテナの高さ。 |
+| boundsCheckMode | BoundsCheckMode | 境界 cCheck モードです。 |
+| containerWidth | Double | コンテナの幅です。 |
+| containerHeight | Double | コンテナの高さです。 |
 
-### See Also
+### 関連項目
 
 * enum [BoundsCheckMode](../../boundscheckmode/)
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

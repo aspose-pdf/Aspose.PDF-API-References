@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.AllowedStates
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField プロパティ。許可された状態のリストを返します
+title: "CheckboxField.AllowedStates"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CheckboxField プロパティ。許可された状態のリストを返します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.forms/checkboxfield/allowedstates/
 ---
-## CheckboxField.AllowedStates プロパティ
+## CheckboxField.AllowedStates property
 
 許可された状態のリストを返します。
 
@@ -16,6 +16,8 @@ public List<string> AllowedStates { get; }
 
 ### 関連項目
 
-* クラス [CheckboxField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

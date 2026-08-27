@@ -1,28 +1,30 @@
 ---
-title: StartEndPageEventArgs.StartEndPageEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: StartEndPageEventArgs コンストラクタ。StartEndPageEventArgs クラスの新しいインスタンスを初期化します。
+title: "StartEndPageEventArgs.StartEndPageEventArgs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StartEndPageEventArgs コンストラクタ。 StartEndPageEventArgs クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.printing/startendpageeventargs/startendpageeventargs/
 ---
-## StartEndPageEventArgs コンストラクタ
+## StartEndPageEventArgs constructor
 
-新しいインスタンスを初期化します [`StartEndPageEventArgs`](../) クラスの。
+[`StartEndPageEventArgs`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public StartEndPageEventArgs(int currentPage, int totalPages, int currentCopy, int totalCopies)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| currentPage | Int32 | 現在印刷中のページの番号。 |
-| totalPages | Int32 | 印刷するページの総数。 |
-| currentCopy | Int32 | 現在印刷中のコピーの番号。 |
-| totalCopies | Int32 | 印刷するコピーの総数。 |
+| currentPage | Int32 | 現在印刷されているページの番号です。 |
+| totalPages | Int32 | 印刷されるページの総数です。 |
+| currentCopy | Int32 | 現在印刷されているコピーの番号です。 |
+| totalCopies | Int32 | 印刷されるコピーの総数です。 |
 
-### 参照
+### 関連項目
 
-* クラス [StartEndPageEventArgs](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

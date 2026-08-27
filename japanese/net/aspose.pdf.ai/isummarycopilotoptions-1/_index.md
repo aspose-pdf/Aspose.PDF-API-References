@@ -1,14 +1,14 @@
 ---
-title: Interface ISummaryCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ISummaryCopilotOptions1TOptions インターフェース。特定の型のサマリーコパイロットオプションのインターフェースを表します
+title: "インターフェイス ISummaryCopilotOptionsTOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.ISummaryCopilotOptions1TOptions インターフェイス。特定の型を持つサマリーコパイロットオプションのインターフェイスを表します。"
 type: docs
-weight: 600
+weight: 650
 url: /ja/net/aspose.pdf.ai/isummarycopilotoptions-1/
 ---
-## ISummaryCopilotOptions&lt;TOptions&gt; インターフェース
+## ISummaryCopilotOptions&lt;TOptions&gt; interface
 
-特定の型のサマリーコパイロットオプションのインターフェースを表します。
+特定のタイプを持つサマリーコパイロットオプションのインターフェイスを表します。
 
 ```csharp
 public interface ISummaryCopilotOptions<out TOptions>
@@ -16,7 +16,7 @@ public interface ISummaryCopilotOptions<out TOptions>
 
 | パラメーター | 説明 |
 | --- | --- |
-| TOptions | サマリーコパイロットのオプションの型。 |
+| TOptions | サマリーコパイロットのオプションの型です。 |
 
 ## メソッド
 
@@ -24,7 +24,9 @@ public interface ISummaryCopilotOptions<out TOptions>
 | --- | --- |
 | [GetOptions](../../aspose.pdf.ai/isummarycopilotoptions-1/getoptions/)() | 型 *TOptions* のオプションを取得します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

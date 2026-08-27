@@ -1,26 +1,28 @@
 ---
-title: Page.Header
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。ページヘッダーを取得または設定します
+title: "Page.Header"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。ページヘッダーを取得または設定します"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf/page/header/
 ---
-## ページ.ヘッダー プロパティ
+## Page.Header property
 
-ページヘッダーを取得または設定します。
+ページのヘッダーを取得または設定します。
 
 ```csharp
 public HeaderFooter Header { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ページヘッダー。
+ページヘッダーです。
 
-### 参照
+### 関連項目
 
-* クラス [HeaderFooter](../../headerfooter/)
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HeaderFooter](../../headerfooter/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DRenderMode クラス。Class PDF3DRenderMode
+title: "クラス PDF3DRenderMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.PDF3DRenderMode クラス。PDF3DRenderMode クラスです。"
 type: docs
-weight: 2220
+weight: 2310
 url: /ja/net/aspose.pdf.annotations/pdf3drendermode/
 ---
-## PDF3DRenderMode クラス
+## PDF3DRenderMode class
 
-Class PDF3DRenderMode.
+クラス PDF3DRenderMode。
 
 ```csharp
 public class PDF3DRenderMode
@@ -44,22 +44,24 @@ public class PDF3DRenderMode
 
 | 名前 | 説明 |
 | --- | --- |
-| static [BoundingBox](../../aspose.pdf.annotations/pdf3drendermode/boundingbox/) | "BoundingBox" レンダーモード。 |
-| static [Illustration](../../aspose.pdf.annotations/pdf3drendermode/illustration/) | "Illustration" レンダーモード。 |
-| static [ShadedIllustration](../../aspose.pdf.annotations/pdf3drendermode/shadedillustration/) | "ShadedIllustration" レンダーモード。 |
-| static [ShadedVertices](../../aspose.pdf.annotations/pdf3drendermode/shadedvertices/) | "ShadedVertices" レンダーモード。 |
-| static [ShadedWireframe](../../aspose.pdf.annotations/pdf3drendermode/shadedwireframe/) | "ShadedWireFrame" レンダーモード。 |
-| static [Solid](../../aspose.pdf.annotations/pdf3drendermode/solid/) | "Solid" レンダーモード。 |
-| static [SolidOutline](../../aspose.pdf.annotations/pdf3drendermode/solidoutline/) | "SolidOutline" レンダーモード。 |
-| static [SolidWireframe](../../aspose.pdf.annotations/pdf3drendermode/solidwireframe/) | "SolidWireFrame" レンダーモード。 |
-| static [Transparent](../../aspose.pdf.annotations/pdf3drendermode/transparent/) | "Transparent" レンダーモード。 |
-| static [TransparentBoundingBox](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/) | "TransparentBoundingBox" レンダーモード。 |
-| static [TransparentBoundingBoxOutline](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingboxoutline/) | "TransparentBoundingBoxOutline" レンダーモード。 |
-| static [TransparentWareFrame](../../aspose.pdf.annotations/pdf3drendermode/transparentwareframe/) | "TransparentWareFrame" レンダーモード。 |
-| static [Vertices](../../aspose.pdf.annotations/pdf3drendermode/vertices/) | "Vertices" レンダーモード。 |
-| static [Wireframe](../../aspose.pdf.annotations/pdf3drendermode/wireframe/) | "WireFrame" レンダーモード。 |
+| static [BoundingBox](../../aspose.pdf.annotations/pdf3drendermode/boundingbox/) | 「BoundingBox」レンダリングモードです。 |
+| static [Illustration](../../aspose.pdf.annotations/pdf3drendermode/illustration/) | 「Illustration」レンダリングモードです。 |
+| static [ShadedIllustration](../../aspose.pdf.annotations/pdf3drendermode/shadedillustration/) | 「ShadedIllustration」レンダリングモードです。 |
+| static [ShadedVertices](../../aspose.pdf.annotations/pdf3drendermode/shadedvertices/) | 「ShadedVertices」レンダリングモードです。 |
+| static [ShadedWireframe](../../aspose.pdf.annotations/pdf3drendermode/shadedwireframe/) | 「ShadedWireFrame」レンダリングモードです。 |
+| static [Solid](../../aspose.pdf.annotations/pdf3drendermode/solid/) | 「Solid」レンダリングモードです。 |
+| static [SolidOutline](../../aspose.pdf.annotations/pdf3drendermode/solidoutline/) | 「SolidOutline」レンダリングモードです。 |
+| static [SolidWireframe](../../aspose.pdf.annotations/pdf3drendermode/solidwireframe/) | 「SolidWireFrame」レンダリングモードです。 |
+| static [Transparent](../../aspose.pdf.annotations/pdf3drendermode/transparent/) | 「Transparent」レンダリングモードです。 |
+| static [TransparentBoundingBox](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/) | 「TransparentBoundingBox」レンダリングモードです。 |
+| static [TransparentBoundingBoxOutline](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingboxoutline/) | 「TransparentBoundingBoxOutline」レンダリングモードです。 |
+| static [TransparentWareFrame](../../aspose.pdf.annotations/pdf3drendermode/transparentwareframe/) | 「TransparentWareFrame」レンダリングモードです。 |
+| static [Vertices](../../aspose.pdf.annotations/pdf3drendermode/vertices/) | 「Vertices」レンダリングモードです。 |
+| static [Wireframe](../../aspose.pdf.annotations/pdf3drendermode/wireframe/) | 「WireFrame」レンダリングモードです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

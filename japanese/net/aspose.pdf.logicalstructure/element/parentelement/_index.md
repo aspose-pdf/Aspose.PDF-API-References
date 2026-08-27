@@ -1,12 +1,12 @@
 ---
-title: Element.ParentElement
-second_title: Aspose.PDF for .NET API Reference
-description: Element プロパティ。親要素を取得
+title: "Element.ParentElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Element プロパティ。親要素を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.logicalstructure/element/parentelement/
 ---
-## Element.ParentElement プロパティ
+## Element.ParentElement property
 
 親要素を取得します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.logicalstructure/element/parentelement/
 public Element ParentElement { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 親要素。
 
-### 参照
+### 関連項目
 
-* クラス [Element](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

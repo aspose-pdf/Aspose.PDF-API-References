@@ -1,14 +1,14 @@
 ---
-title: Interface IImageDescriptionClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IImageDescriptionClient1TOptions インターフェース。特定のオプションを持つ画像説明クライアントのインターフェースを表します
+title: "インターフェイス IImageDescriptionClientTOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.IImageDescriptionClient1TOptions インターフェイス。特定のオプションを持つ画像説明クライアントのインターフェイスを表します。"
 type: docs
-weight: 500
+weight: 520
 url: /ja/net/aspose.pdf.ai/iimagedescriptionclient-1/
 ---
-## IImageDescriptionClient&lt;TOptions&gt; インターフェース
+## IImageDescriptionClient&lt;TOptions&gt; interface
 
-特定のオプションを持つ画像説明クライアントのインターフェースを表します。
+特定のオプションを持つ画像説明クライアントのインターフェイスを表します。
 
 ```csharp
 public interface IImageDescriptionClient<in TOptions> : IAIClient
@@ -16,16 +16,18 @@ public interface IImageDescriptionClient<in TOptions> : IAIClient
 
 | パラメーター | 説明 |
 | --- | --- |
-| TOptions | 画像説明クライアントのオプションの型。 |
+| TOptions | 画像説明クライアントのオプションのタイプです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetImageDescriptionCopilot](../../aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions&lt;TOptions&gt;) | 指定されたオプションを持つ[`IImageDescriptionCopilot`](../iimagedescriptioncopilot/)のインスタンスを取得します。 |
+| [GetImageDescriptionCopilot](../../aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions&lt;TOptions&gt;) | 指定されたオプションで[`IImageDescriptionCopilot`](../iimagedescriptioncopilot/)のインスタンスを取得します。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IAIClient](../iaiclient/)
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,27 +1,29 @@
 ---
-title: TextFragmentCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection メソッド。指定されたターゲット配列のインデックスから始めて、互換性のある一次元配列にコレクション全体をコピーします。
+title: "TextFragmentCollection.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentCollection メソッド。対象配列の指定インデックスから開始して、互換性のある一次元配列にコレクション全体をコピーします"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.text/textfragmentcollection/copyto/
 ---
-## TextFragmentCollection.CopyTo メソッド
+## TextFragmentCollection.CopyTo method
 
-指定されたターゲット配列のインデックスから始めて、互換性のある一次元配列にコレクション全体をコピーします。
+対象配列の指定インデックスから開始して、互換性のある一次元配列にコレクション全体をコピーします。
 
 ```csharp
 public void CopyTo(TextFragment[] array, int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | TextFragment[] | コピーされるオブジェクトの配列。 |
-| index | Int32 | コピーが開始される開始インデックス。 |
+| 配列 | TextFragment[] | コピーされるオブジェクトの配列です。 |
+| インデックス | Int32 | コピーが開始される開始インデックスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextFragment](../../textfragment/)
-* クラス [TextFragmentCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

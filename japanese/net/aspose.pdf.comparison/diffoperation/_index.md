@@ -1,14 +1,14 @@
 ---
-title: Class DiffOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.DiffOperation クラス。diff 操作のクラスを表します
+title: "クラス DiffOperation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Comparison.DiffOperation クラス。差分操作のクラスを表します。"
 type: docs
-weight: 3160
+weight: 3270
 url: /ja/net/aspose.pdf.comparison/diffoperation/
 ---
-## DiffOperation クラス
+## DiffOperation class
 
-diff 操作のクラスを表します。
+差分操作のクラスを表します。
 
 ```csharp
 public class DiffOperation : IEquatable<DiffOperation>
@@ -30,7 +30,9 @@ public class DiffOperation : IEquatable<DiffOperation>
 | override [GetHashCode](../../aspose.pdf.comparison/diffoperation/gethashcode/)() |  |
 | override [ToString](../../aspose.pdf.comparison/diffoperation/tostring/)() |  |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

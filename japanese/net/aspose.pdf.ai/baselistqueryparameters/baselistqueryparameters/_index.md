@@ -1,12 +1,12 @@
 ---
-title: BaseListQueryParameters.BaseListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: BaseListQueryParameters コンストラクタ。デフォルトコンストラクタ
+title: "BaseListQueryParameters.BaseListQueryParameters"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BaseListQueryParameters コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/baselistqueryparameters/baselistqueryparameters/
 ---
-## BaseListQueryParameters コンストラクタ
+## BaseListQueryParameters constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/baselistqueryparameters/baselistqueryparameters/
 public BaseListQueryParameters()
 ```
 
-### 参照
+### 関連項目
 
 * class [BaseListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

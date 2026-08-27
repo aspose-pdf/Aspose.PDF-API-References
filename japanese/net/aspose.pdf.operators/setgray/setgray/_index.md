@@ -1,25 +1,27 @@
 ---
-title: SetGray.SetGray
-second_title: Aspose.PDF for .NET API Reference
-description: SetGray コンストラクタ。オペレーターを初期化します
+title: "SetGray.SetGray"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetGray コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/setgray/setgray/
 ---
-## SetGray コンストラクタ
+## SetGray constructor
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public SetGray(double gray)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| gray | Double | グレー値のレベル。 |
+| グレー | Double | グレー値のレベルです。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetGray](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetGray](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

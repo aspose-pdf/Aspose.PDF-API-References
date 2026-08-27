@@ -1,21 +1,23 @@
 ---
-title: Document.Permissions
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントの権限を取得します
+title: "Document.Permissions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントの権限を取得します"
 type: docs
-weight: 490
+weight: 510
 url: /ja/net/aspose.pdf/document/permissions/
 ---
-## Document.Permissions プロパティ
+## Document.Permissions property
 
-ドキュメントの権限を取得します。
+document の権限を取得します。
 
 ```csharp
 public int Permissions { get; }
 ```
 
-### 参照
+### 関連項目
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

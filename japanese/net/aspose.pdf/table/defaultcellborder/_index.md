@@ -1,14 +1,14 @@
 ---
-title: Table.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルプロパティ。デフォルトのセル境界を取得します
+title: "Table.DefaultCellBorder"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table プロパティ。デフォルトのセル境界線を取得します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/table/defaultcellborder/
 ---
-## Table.DefaultCellBorder プロパティ
+## Table.DefaultCellBorder property
 
-デフォルトのセル境界を取得します;
+デフォルトのセル境界線を取得します;
 
 ```csharp
 public BorderInfo DefaultCellBorder { get; set; }
@@ -16,7 +16,9 @@ public BorderInfo DefaultCellBorder { get; set; }
 
 ### 関連項目
 
-* クラス [BorderInfo](../../borderinfo/)
-* クラス [Table](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BorderInfo](../../borderinfo/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

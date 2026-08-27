@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseOC
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference フィールド。オプションのコンテンツグループパネルが表示されます
+title: "ViewerPreference.NonFullScreenPageModeUseOC"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference フィールド。オプションコンテンツグループパネルを表示"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoc/
 ---
-## ViewerPreference.NonFullScreenPageModeUseOC フィールド
+## ViewerPreference.NonFullScreenPageModeUseOC field
 
-オプションのコンテンツグループパネルが表示されます。
+オプションコンテンツグループパネルが表示されます。
 
 ```csharp
 public const int NonFullScreenPageModeUseOC;
@@ -16,6 +16,8 @@ public const int NonFullScreenPageModeUseOC;
 
 ### 関連項目
 
-* クラス [ViewerPreference](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

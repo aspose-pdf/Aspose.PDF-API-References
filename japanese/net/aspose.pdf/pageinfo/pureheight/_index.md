@@ -1,14 +1,14 @@
 ---
-title: PageInfo.PureHeight
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo プロパティ。マージンなしのページの純粋な高さを取得または設定します
+title: "PageInfo.PureHeight"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageInfo プロパティ。余白なしのページの純粋な高さを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/pageinfo/pureheight/
 ---
-## PageInfo.PureHeight プロパティ
+## PageInfo.PureHeight property
 
-マージンなしのページの純粋な高さを取得または設定します。
+余白を除いたページの純粋な高さを取得または設定します。
 
 ```csharp
 public double PureHeight { get; }
@@ -16,6 +16,8 @@ public double PureHeight { get; }
 
 ### 関連項目
 
-* クラス [PageInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

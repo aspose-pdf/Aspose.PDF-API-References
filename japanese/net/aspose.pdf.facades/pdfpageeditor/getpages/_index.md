@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.GetPages
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor メソッド。ページの総数を返します
+title: "PdfPageEditor.GetPages"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor メソッド。ページ総数を返します"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/getpages/
 ---
-## PdfPageEditor.GetPages メソッド
+## PdfPageEditor.GetPages method
 
-ページの総数を返します。
+ページ総数を返します。
 
 ```csharp
 public int GetPages()
@@ -20,7 +20,7 @@ public int GetPages()
 
 ## 例
 
-以下の例は、GetPages() メソッドの使用を示しています：
+次の例は GetPages() メソッドの使用例を示しています：
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -28,8 +28,10 @@ editor.BindPdf("sample.pdf");
 Console.WriteLine("Document has: " + editor.GetPages());
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: MoveToNextLineShowText.MoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLineShowText コンストラクタ。オペレーターを初期化します
+title: "MoveToNextLineShowText.MoveToNextLineShowText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MoveToNextLineShowText コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/
 ---
 ## MoveToNextLineShowText() {#constructor}
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public MoveToNextLineShowText()
 ```
 
-### See Also
+### 関連項目
 
 * class [MoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,18 +24,20 @@ public MoveToNextLineShowText()
 
 ## MoveToNextLineShowText(string) {#constructor_1}
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public MoveToNextLineShowText(string text)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | テキスト。 |
+| テキスト | String | テキストです。 |
 
-### See Also
+### 関連項目
 
 * class [MoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

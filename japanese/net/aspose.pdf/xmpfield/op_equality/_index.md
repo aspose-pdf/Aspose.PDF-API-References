@@ -1,12 +1,12 @@
 ---
-title: XmpField.op_Equality
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField メソッド。演算子を実装します
+title: "XmpField.op_Equality"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpField メソッド。演算子を実装します"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/xmpfield/op_equality/
 ---
-## XmpField 等価演算子
+## XmpField Equality operator
 
 演算子 == を実装します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/xmpfield/op_equality/
 public static bool operator ==(XmpField field1, XmpField field2)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| field1 | XmpField | field1。 |
-| field2 | XmpField | field2。 |
+| field1 | XmpField | field1です。 |
+| field2 | XmpField | field2です。 |
 
 ### 戻り値
 
-演算子の結果。
+演算子の結果です。
 
-### 参照
+### 関連項目
 
-* クラス [XmpField](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

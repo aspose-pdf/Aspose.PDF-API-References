@@ -1,12 +1,12 @@
 ---
-title: Class SideBySidePdfComparer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.SideBySidePdfComparer クラス。
+title: "クラス SideBySidePdfComparer"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Comparison.SideBySidePdfComparer クラス。"
 type: docs
-weight: 3300
+weight: 3410
 url: /ja/net/aspose.pdf.comparison/sidebysidepdfcomparer/
 ---
-## SideBySidePdfComparer クラス
+## SideBySidePdfComparer class
 
 ```csharp
 public static class SideBySidePdfComparer
@@ -16,10 +16,12 @@ public static class SideBySidePdfComparer
 
 | 名前 | 説明 |
 | --- | --- |
-| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare)(Document, Document, string, SideBySideComparisonOptions) | 2つのドキュメントを比較します。ページは1つずつ比較されます。比較されたドキュメントのページは、結果のドキュメントに順番にコピーされます。最初に最初のドキュメントの最初のページ、その後に2番目のドキュメントの最初のページが続きます。次に、最初のドキュメントの2番目のページ、その後に2番目のドキュメントの2番目のページ、などが続きます。Adobe Acrobatで2ページ表示にして、変更を並べて見ることができます。削除は左側のページに記載され、挿入は右側のページに記載されます。 |
-| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare_1)(Page, Page, string, SideBySideComparisonOptions) | 2つのページを比較します。結果はPDFドキュメントに保存され、最初のページが最初に書き込まれ、その後に2番目のページが続きます。Adobe Acrobatで2ページ表示にして、変更を並べて見ることができます。削除は左側のページに記載され、挿入は右側のページに記載されます。 |
+| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare)(Document, Document, string, SideBySideComparisonOptions) | 2つのドキュメントを比較します。ページは1つずつ比較されます。比較されたドキュメントのページは、結果のドキュメントに1つずつ順にコピーされます。最初に最初のドキュメントの1ページ目、次に2番目のドキュメントの1ページ目が配置されます。その後、最初のドキュメントの2ページ目、次に2番目のドキュメントの2ページ目というように続きます。Adobe Acrobat の「2ページ表示」で開くと、変更点を左右に並べて確認できます。削除は左側のページに、挿入は右側のページに示されます。 |
+| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare_1)(Page, Page, string, SideBySideComparisonOptions) | 2つのページを比較します。結果は PDF ドキュメントに保存され、最初に1ページ目が書き込まれ、次に2ページ目が続きます。Adobe Acrobat の「2ページ表示」で開くと、変更点を左右に並べて確認できます。削除は左側のページに、挿入は右側のページに示されます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

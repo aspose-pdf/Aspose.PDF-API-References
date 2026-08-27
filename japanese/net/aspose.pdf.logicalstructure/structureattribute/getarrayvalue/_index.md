@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetArrayValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute メソッド。値名配列を取得します
+title: "StructureAttribute.GetArrayValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureAttribute メソッド。Value Name Array を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.logicalstructure/structureattribute/getarrayvalue/
 ---
-## StructureAttribute.GetArrayValue メソッド
+## StructureAttribute.GetArrayValue method
 
-値名配列を取得します。
+Value Name Array を取得します。
 
 ```csharp
 public AttributeName[] GetArrayValue()
@@ -16,11 +16,13 @@ public AttributeName[] GetArrayValue()
 
 ### 戻り値
 
-値名配列。
+Value Name Array。
 
-### 参照
+### 関連項目
 
-* クラス [AttributeName](../../attributename/)
-* クラス [StructureAttribute](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

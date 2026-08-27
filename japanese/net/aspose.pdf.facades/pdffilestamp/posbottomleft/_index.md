@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PosBottomLeft
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp フィールド。左下の位置
+title: "PdfFileStamp.PosBottomLeft"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileStamp フィールド。左下の位置"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.facades/pdffilestamp/posbottomleft/
 ---
-## PdfFileStamp.PosBottomLeft フィールド
+## PdfFileStamp.PosBottomLeft field
 
-左下の位置。
+左下位置。
 
 ```csharp
 public const int PosBottomLeft;
@@ -16,6 +16,8 @@ public const int PosBottomLeft;
 
 ### 関連項目
 
-* クラス [PdfFileStamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

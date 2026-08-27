@@ -1,14 +1,14 @@
 ---
-title: Enum FormType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.FormType 列挙型。Acro Form の可能なタイプの列挙
+title: "列挙型 FormType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Forms.FormType 列挙型。Acro Form の可能なタイプの列挙です"
 type: docs
-weight: 5100
+weight: 5220
 url: /ja/net/aspose.pdf.forms/formtype/
 ---
-## FormType 列挙型
+## FormType enumeration
 
-Acro Form の可能なタイプの列挙。
+Acro Form の可能なタイプの列挙です。
 
 ```csharp
 public enum FormType
@@ -22,7 +22,9 @@ public enum FormType
 | Static | `1` | 静的 XFA フォーム。 |
 | Dynamic | `2` | 動的 XFA フォーム。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

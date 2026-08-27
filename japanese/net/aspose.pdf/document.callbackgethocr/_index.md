@@ -1,27 +1,29 @@
 ---
-title: Delegate Document.CallBackGetHocr
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "デリゲート Document.CallBackGetHocr"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: 
 type: docs
-weight: 3790
-url: /net/aspose.pdf/document.callbackgethocr/
+weight: 3910
+url: /ja/net/aspose.pdf/document.callbackgethocr/
 ---
-## Document.CallBackGetHocr デリゲート
+## Document.CallBackGetHocr delegate
 
 ```csharp
 public delegate string CallBackGetHocr(Image img);
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| img | Image | hocr 画像。 |
+| img | 画像 | hocr 画像です。 |
 
 ### 戻り値
 
-hocr テキスト。
+hocr テキストです。
 
-### 参照
+### 関連項目
 
-* クラス [Document](../document/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

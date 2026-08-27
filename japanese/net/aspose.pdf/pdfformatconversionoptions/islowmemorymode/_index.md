@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.IsLowMemoryMode
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions プロパティ。低メモリ変換モードが有効かどうか
+title: "PdfFormatConversionOptions.IsLowMemoryMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFormatConversionOptions プロパティ。低メモリ変換モードが有効かどうか"
 type: docs
-weight: 110
+weight: 120
 url: /ja/net/aspose.pdf/pdfformatconversionoptions/islowmemorymode/
 ---
-## PdfFormatConversionOptions.IsLowMemoryMode プロパティ
+## PdfFormatConversionOptions.IsLowMemoryMode property
 
 低メモリ変換モードが有効かどうか
 
@@ -16,6 +16,8 @@ public bool IsLowMemoryMode { get; set; }
 
 ### 関連項目
 
-* クラス [PdfFormatConversionOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

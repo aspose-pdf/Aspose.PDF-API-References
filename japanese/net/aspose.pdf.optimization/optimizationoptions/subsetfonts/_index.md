@@ -1,12 +1,12 @@
 ---
-title: OptimizationOptions.SubsetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions プロパティ。true に設定すると、フォントはサブセットに変換されます。
+title: "OptimizationOptions.SubsetFonts"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizationOptions プロパティ。 このフラグが true に設定されている場合、フォントはサブセットに変換されます。"
 type: docs
-weight: 130
+weight: 120
 url: /ja/net/aspose.pdf.optimization/optimizationoptions/subsetfonts/
 ---
-## OptimizationOptions.SubsetFonts プロパティ
+## OptimizationOptions.SubsetFonts property
 
 true に設定すると、フォントはサブセットに変換されます。
 
@@ -19,3 +19,5 @@ public bool SubsetFonts { get; set; }
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

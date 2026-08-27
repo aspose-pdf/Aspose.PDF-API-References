@@ -1,14 +1,14 @@
 ---
-title: SignatureAlgorithmInfo.DigestHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureAlgorithmInfo フィールド。署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これはドキュメントコンテンツのハッシュが署名されるダイジェストハッシュアルゴリズムです。
+title: "SignatureAlgorithmInfo.DigestHashAlgorithm"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureAlgorithmInfo フィールド。署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これは document 内容のハッシュが署名されるダイジェストハッシュアルゴリズムです。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/
 ---
-## SignatureAlgorithmInfo.DigestHashAlgorithm フィールド
+## SignatureAlgorithmInfo.DigestHashAlgorithm field
 
-署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これはドキュメントコンテンツのハッシュが署名されるダイジェストハッシュアルゴリズムです。
+署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これは文書内容のハッシュが署名されるダイジェストハッシュアルゴリズムです。
 
 ```csharp
 public readonly DigestHashAlgorithm DigestHashAlgorithm;
@@ -20,3 +20,5 @@ public readonly DigestHashAlgorithm DigestHashAlgorithm;
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

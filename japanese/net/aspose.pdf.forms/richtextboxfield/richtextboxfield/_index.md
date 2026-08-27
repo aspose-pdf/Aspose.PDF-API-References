@@ -1,28 +1,30 @@
 ---
-title: RichTextBoxField.RichTextBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField コンストラクタ。リッチテキストボックスフィールドのコンストラクタ
+title: "RichTextBoxField.RichTextBoxField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RichTextBoxField コンストラクタ。リッチテキストボックスフィールドのコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/richtextboxfield/richtextboxfield/
 ---
-## RichTextBoxField コンストラクタ
+## RichTextBoxField constructor
 
-リッチテキストボックスフィールドのコンストラクタ。
+Rich Text Box フィールドのコンストラクタ。
 
 ```csharp
 public RichTextBoxField(Page page, Rectangle rect)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | フィールドが配置されるページ。 |
+| ページ | ページ | フィールドが配置されるページ。 |
 | rect | Rectangle | ページ上のフィールドの位置。 |
 
-### 参照
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

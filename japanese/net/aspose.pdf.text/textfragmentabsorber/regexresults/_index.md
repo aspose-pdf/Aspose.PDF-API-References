@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.RegexResults
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber プロパティ。System.Text.RegularExpressions.Regex クラスをキー、TextFragment を値とする検索の発生を辞書として取得します。
+title: "TextFragmentAbsorber.RegexResults"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentAbsorber プロパティ。検索結果の辞書を取得します。この辞書はキーに System.Text.RegularExpressions.Regex クラス、値に TextFragment を使用しています。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.text/textfragmentabsorber/regexresults/
 ---
-## TextFragmentAbsorber.RegexResults プロパティ
+## TextFragmentAbsorber.RegexResults property
 
-System.Text.RegularExpressions.Regex クラスをキー、[`TextFragment`](../../textfragment/) を値とする検索の発生を辞書として取得します。
+検索結果の辞書を取得します。この辞書はキーに System.Text.RegularExpressions.Regex クラス、値に [`TextFragment`](../../textfragment/) を使用しています。
 
 ```csharp
 public Dictionary<Regex, TextFragmentCollection> RegexResults { get; }
@@ -16,10 +16,10 @@ public Dictionary<Regex, TextFragmentCollection> RegexResults { get; }
 
 ## 例
 
-この例では、最初の PDF ドキュメントページで正規表現の配列を使用してテキストを見つける方法を示します。
+この例は、最初の PDF document page で正規表現の配列を使用してテキストを検索する方法を示しています。
 
 ```csharp
-// Open document
+// 開く document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
 var regexes = new Regex[]
@@ -27,16 +27,18 @@ var regexes = new Regex[]
 new Regex( @"expression1", RegexOptions.IgnoreCase),
 new Regex( @"expression2", RegexOptions.IgnoreCase),
 };
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// 正規表現を使用して、'h' で始まり 'o' で終わるすべての単語を検索する TextFragmentAbsorber オブジェクトを作成します。
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(regexes, new TextSearchOptions(true));
 doc.Pages[1].Accept(absorber);
-// Get results
+// 結果を取得
 var results = absorber.RegexResults;
 ```
 
 ### 関連項目
 
-* クラス [TextFragmentCollection](../../textfragmentcollection/)
-* クラス [TextFragmentAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragmentCollection](../../textfragmentcollection/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

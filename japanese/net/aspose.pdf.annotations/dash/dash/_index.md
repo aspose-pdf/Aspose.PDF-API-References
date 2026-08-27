@@ -1,46 +1,48 @@
 ---
-title: Dash.Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Dash コンストラクタ。指定されたダッシュとギャップでダッシュボーダーを定義し、ダッシュボーダー全体で変更されません。
+title: "Dash.Dash"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Dash コンストラクタ。Dash のコンストラクタ。指定されたダッシュとギャップで破線の境界線を定義し、破線全体で変更されません"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/dash/dash/
 ---
 ## Dash(int, int) {#constructor}
 
-Dash のコンストラクタ。指定されたダッシュとギャップでダッシュボーダーを定義し、ダッシュボーダー全体で変更されません。
+Dash のコンストラクター。指定された破線と間隔で破線枠線を定義し、全体の破線枠線で変更されません。
 
 ```csharp
 public Dash(int on, int off)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | on | Int32 | ダッシュの長さ。 |
 | off | Int32 | ギャップの長さ。 |
 
-### 参照
+### 関連項目
 
-* クラス [Dash](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Dash(int[]) {#constructor_1}
 
-Dash のコンストラクタ。ダッシュボーダーを描画する際に使用されるダッシュとギャップのパターンを定義します。
+Dash のコンストラクター。破線の枠線を描画する際に使用される破線と間隔のパターンを定義します。
 
 ```csharp
 public Dash(int[] pattern)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pattern | Int32[] | ダッシュボーダーを描画する際に使用されるダッシュとギャップのパターンを定義するダッシュ配列（最小2つの値）。 |
+| パターン | Int32[] | 破線配列（最低2つの値）で、破線とギャップのパターンを定義し、破線の境界線の描画に使用されます。 |
 
-### 参照
+### 関連項目
 
-* クラス [Dash](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

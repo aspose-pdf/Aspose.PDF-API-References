@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState プロパティ。TextFragment オブジェクトによって表されるテキストの背景色を設定します
+title: "TextFragmentState.BackgroundColor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentState プロパティ。TextFragment オブジェクトで表されるテキストの背景色を設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.text/textfragmentstate/backgroundcolor/
 ---
-## TextFragmentState.BackgroundColor プロパティ
+## TextFragmentState.BackgroundColor property
 
-[`TextFragment`](../../textfragment/) オブジェクトによって表されるテキストの背景色を設定します
+テキストの背景色を設定します（[`TextFragment`](../../textfragment/) オブジェクトで表されます）。
 
 ```csharp
 public override Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public override Color BackgroundColor { get; set; }
 
 ### 関連項目
 
-* クラス [Color](../../../aspose.pdf/color/)
-* クラス [TextFragmentState](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

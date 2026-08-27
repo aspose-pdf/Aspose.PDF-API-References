@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.Copy
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege プロパティ。ファイルのコピーを許可します
+title: "DocumentPrivilege.Copy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentPrivilege プロパティ。ファイルのコピーを許可します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/documentprivilege/copy/
 ---
-## DocumentPrivilege.Copy プロパティ
+## DocumentPrivilege.Copy property
 
 ファイルのコピーを許可します。
 
@@ -16,6 +16,8 @@ public static DocumentPrivilege Copy { get; }
 
 ### 関連項目
 
-* クラス [DocumentPrivilege](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

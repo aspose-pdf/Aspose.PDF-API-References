@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Prc32K
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。32K 用紙 97 mm x 151 mm
+title: "PaperSizes.Prc32K"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。 32K 紙 97 mm × 151 mm"
 type: docs
 weight: 820
 url: /ja/net/aspose.pdf.printing/papersizes/prc32k/
 ---
-## PaperSizes.Prc32K フィールド
+## PaperSizes.Prc32K field
 
-32K 用紙 (97 mm x 151 mm)。
+32K用紙（97 mm × 151 mm）。
 
 ```csharp
 public static readonly PaperSize Prc32K;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

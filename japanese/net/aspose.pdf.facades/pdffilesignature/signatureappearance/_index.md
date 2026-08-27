@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.SignatureAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature プロパティ。署名のグラフィック外観を設定または取得します。プロパティ値は画像ファイル名を表します。
+title: "PdfFileSignature.SignatureAppearance"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSignature プロパティ。署名のグラフィック外観を設定または取得します。プロパティ値は画像ファイル名を表します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/pdffilesignature/signatureappearance/
 ---
-## PdfFileSignature.SignatureAppearance プロパティ
+## PdfFileSignature.SignatureAppearance property
 
 署名のグラフィック外観を設定または取得します。プロパティ値は画像ファイル名を表します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.facades/pdffilesignature/signatureappearance/
 public string SignatureAppearance { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSignature](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

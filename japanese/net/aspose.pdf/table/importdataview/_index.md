@@ -1,31 +1,33 @@
 ---
-title: Table.ImportDataView
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルメソッド。DataViewオブジェクトのデータをテーブルにインポートします
+title: "Table.ImportDataView"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table メソッド。DataView オブジェクトのデータをテーブルにインポートします"
 type: docs
 weight: 270
 url: /ja/net/aspose.pdf/table/importdataview/
 ---
-## Table.ImportDataView メソッド
+## Table.ImportDataView method
 
-DataViewオブジェクトのデータをテーブルにインポートします。
+DataView オブジェクトのデータをテーブルにインポートします。
 
 ```csharp
 public void ImportDataView(DataView sourceDataView, bool isColumnNamesImported, int firstFilledRow, 
     int firstFilledColumn, int maxRows, int maxColumns)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| sourceDataView | DataView | インポートされるDataViewオブジェクト。 |
-| isColumnNamesImported | Boolean | 列名が最初の行としてインポートされるかどうかを示します。 |
-| firstFilledRow | Int32 | インポートが開始されるターゲットテーブルの最初のセルのゼロベースの行番号。ターゲットテーブルにその行が含まれていない場合は、その行（必要に応じてすべての前の行も）が作成されます。 |
-| firstFilledColumn | Int32 | インポートが開始されるターゲットテーブルの最初のセルのゼロベースの列番号。インポートが開始される前にターゲットテーブルにその列が含まれている必要があります。そうでない場合は例外がスローされます。 |
-| maxRows | Int32 | ソースDataViewからインポートされる最大行数。 |
-| maxColumns | Int32 | ソースDataViewからインポートされる最大列数。 |
+| sourceDataView | DataView | インポートされる DataView オブジェクトです。 |
+| isColumnNamesImported | Boolean | 列名を最初の行としてインポートするかどうかを示します。 |
+| firstFilledRow | Int32 | インポートが開始される対象テーブルの最初のセルのゼロベース行番号です。対象テーブルにその行が存在しない場合、その行（必要に応じてそれ以前の行）も作成されます。 |
+| firstFilledColumn | Int32 | インポートが開始される対象テーブルの最初のセルのゼロベース列番号です。インポート開始前に対象テーブルがその列を含んでいる必要があり、含まれていない場合は例外がスローされます。 |
+| maxRows | Int32 | ソース DataView からインポートされる最大行数です。 |
+| maxColumns | Int32 | ソース DataView からインポートされる最大列数です。 |
 
-### 参照
+### 関連項目
 
-* クラス [Table](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

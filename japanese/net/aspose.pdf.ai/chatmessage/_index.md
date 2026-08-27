@@ -1,14 +1,14 @@
 ---
-title: Class ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ChatMessage クラス。モデルによって生成されたチャット完了メッセージ
+title: "クラス ChatMessage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.ChatMessage クラス。モデルによって生成されるチャット完了メッセージ"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.ai/chatmessage/
 ---
-## ChatMessage クラス
+## ChatMessage class
 
-モデルによって生成されたチャット完了メッセージです。
+モデルが生成したチャット完了メッセージ。
 
 ```csharp
 public class ChatMessage
@@ -26,10 +26,10 @@ public class ChatMessage
 | 名前 | 説明 |
 | --- | --- |
 | [Content](../../aspose.pdf.ai/chatmessage/content/) { get; set; } | メッセージの内容を取得または設定します。 |
-| [Name](../../aspose.pdf.ai/chatmessage/name/) { get; set; } | 参加者のオプションの名前を取得または設定します。同じ役割の参加者を区別するためのモデル情報を提供します。 |
-| [Role](../../aspose.pdf.ai/chatmessage/role/) { get; set; } | メッセージの著者の役割を取得または設定します。 |
-| [ToolCallId](../../aspose.pdf.ai/chatmessage/toolcallid/) { get; set; } | このメッセージが応答しているツールコールを取得または設定します。 |
-| [ToolCalls](../../aspose.pdf.ai/chatmessage/toolcalls/) { get; set; } | モデルによって生成されたツールコール（関数呼び出しなど）を取得または設定します。 |
+| [Name](../../aspose.pdf.ai/chatmessage/name/) { get; set; } | 参加者のオプション名を取得または設定します。同じ役割の参加者を区別するためのモデル情報を提供します。 |
+| [Role](../../aspose.pdf.ai/chatmessage/role/) { get; set; } | メッセージ作成者の役割を取得または設定します。 |
+| [ToolCallId](../../aspose.pdf.ai/chatmessage/toolcallid/) { get; set; } | このメッセージが応答するツール呼び出しを取得または設定します。 |
+| [ToolCalls](../../aspose.pdf.ai/chatmessage/toolcalls/) { get; set; } | 関数呼び出しなど、モデルによって生成されたツール呼び出しを取得または設定します。 |
 
 ## メソッド
 
@@ -39,7 +39,9 @@ public class ChatMessage
 | static [FromSystem](../../aspose.pdf.ai/chatmessage/fromsystem/)(string) | システムメッセージを表す新しい ChatMessage オブジェクトを作成します。 |
 | static [FromUser](../../aspose.pdf.ai/chatmessage/fromuser/)(string) | ユーザーメッセージを表す新しい ChatMessage オブジェクトを作成します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

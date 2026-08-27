@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.ExtractLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。PDF ドキュメントに含まれる Link インスタンスのコレクションを抽出します
+title: "PdfContentEditor.ExtractLink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。PDF ドキュメントに含まれる Link インスタンスのコレクションを抽出します。"
 type: docs
 weight: 370
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/extractlink/
 ---
-## PdfContentEditor.ExtractLink メソッド
+## PdfContentEditor.ExtractLink method
 
-PDF ドキュメントに含まれる Link インスタンスのコレクションを抽出します。
+PDFドキュメントに含まれるLinkインスタンスのコレクションを抽出します。
 
 ```csharp
 public IList<Annotation> ExtractLink()
@@ -16,7 +16,7 @@ public IList<Annotation> ExtractLink()
 
 ### 戻り値
 
-Link オブジェクトのコレクション
+Link オブジェクトのコレクション。
 
 ## 例
 
@@ -27,13 +27,15 @@ IList links = editor.ExtractLink();
 foreach (object obj in links)
 {
     Link link = (Link)obj;
-    // work with Link instance
+    // Link インスタンスを操作する。
 }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Annotation](../../../aspose.pdf.annotations/annotation/)
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

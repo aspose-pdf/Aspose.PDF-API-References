@@ -1,12 +1,12 @@
 ---
-title: Page.MakeGrayscale
-second_title: Aspose.PDF for .NET API Reference
-description: ページメソッド。ページをグレースケールに変換します
+title: "Page.MakeGrayscale"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page メソッド。ページをグレースケールに変換します。"
 type: docs
 weight: 500
 url: /ja/net/aspose.pdf/page/makegrayscale/
 ---
-## Page.MakeGrayscale メソッド
+## Page.MakeGrayscale method
 
 ページをグレースケールに変換します。
 
@@ -16,6 +16,8 @@ public void MakeGrayscale()
 
 ### 関連項目
 
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

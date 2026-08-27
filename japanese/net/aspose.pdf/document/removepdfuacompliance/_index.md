@@ -1,21 +1,23 @@
 ---
-title: Document.RemovePdfUaCompliance
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。ドキュメントから pdfUa 準拠を削除します
+title: "Document.RemovePdfUaCompliance"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。ドキュメントから pdfUa コンプライアンスを削除します。"
 type: docs
-weight: 810
+weight: 830
 url: /ja/net/aspose.pdf/document/removepdfuacompliance/
 ---
-## Document.RemovePdfUaCompliance メソッド
+## Document.RemovePdfUaCompliance method
 
-ドキュメントから pdfUa 準拠を削除します
+document から pdfUa 準拠を削除します。
 
 ```csharp
 public void RemovePdfUaCompliance()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

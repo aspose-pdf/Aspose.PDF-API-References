@@ -1,25 +1,27 @@
 ---
-title: EmbeddedFileCollection.DeleteByKey
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection メソッド。コレクション内のキーによってファイルをコレクションから削除します。
+title: "EmbeddedFileCollection.DeleteByKey"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "EmbeddedFileCollection メソッド。コレクション内のキーでファイルを削除します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/embeddedfilecollection/deletebykey/
 ---
-## EmbeddedFileCollection.DeleteByKey メソッド
+## EmbeddedFileCollection.DeleteByKey method
 
-コレクション内のキーによってファイルをコレクションから削除します。
+コレクション内のキーでファイルを削除します。
 
 ```csharp
 public void DeleteByKey(string key)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | キー名。 |
+| キー | String | キー名。 |
 
-### 参照
+### 関連項目
 
-* クラス [EmbeddedFileCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

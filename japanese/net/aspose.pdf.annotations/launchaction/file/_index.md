@@ -1,21 +1,23 @@
 ---
-title: LaunchAction.File
-second_title: Aspose.PDF for .NET API Reference
-description: LaunchAction プロパティ。起動するアプリケーションまたは開くまたは印刷するドキュメントを取得または設定します
+title: "LaunchAction.File"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LaunchAction プロパティ。起動するアプリケーションまたは開く・印刷するドキュメントを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/launchaction/file/
 ---
-## LaunchAction.File プロパティ
+## LaunchAction.File property
 
-起動するアプリケーションまたは開くまたは印刷するドキュメントを取得または設定します。
+起動されるアプリケーションまたは開かれる・印刷される Document を取得または設定します。
 
 ```csharp
 public string File { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [LaunchAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LaunchAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

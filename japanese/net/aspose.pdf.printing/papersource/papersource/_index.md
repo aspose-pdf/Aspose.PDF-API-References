@@ -1,14 +1,14 @@
 ---
-title: PaperSource.PaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSource コンストラクタ。デフォルトプロパティを持つ PaperSource クラスの新しいインスタンスを初期化します
+title: "PaperSource.PaperSource"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSource コンストラクタ。PaperSource クラスの新しいインスタンスをデフォルトプロパティで初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.printing/papersource/papersource/
 ---
 ## PaperSource() {#constructor}
 
-デフォルトプロパティを持つ [`PaperSource`](../) クラスの新しいインスタンスを初期化します。
+デフォルトプロパティで ``[`PaperSource`](../)`` クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PaperSource()
@@ -16,28 +16,30 @@ public PaperSource()
 
 ### 関連項目
 
-* クラス [PaperSource](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PaperSource(PaperSourceKind, string) {#constructor_1}
 
-指定された種類と名前で [`PaperSource`](../) クラスの新しいインスタンスを初期化します。
+指定された kind と name を使用して ``[`PaperSource`](../)`` クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PaperSource(PaperSourceKind kind, string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| kind | PaperSourceKind | ペーパーソースの種類。 |
-| name | String | ペーパーソースの名前。 |
+| 種類 | PaperSourceKind | 紙ソースの種類です。 |
+| 名前 | String | 紙ソースの名前です。 |
 
 ### 関連項目
 
-* 列挙型 [PaperSourceKind](../../papersourcekind/)
-* クラス [PaperSource](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [PaperSourceKind](../../papersourcekind/)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

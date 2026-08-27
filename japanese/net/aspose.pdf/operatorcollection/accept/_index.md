@@ -1,26 +1,28 @@
 ---
-title: OperatorCollection.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection メソッド。オペレーターを処理するために IOperatorSelector ビジターオブジェクトを受け入れます
+title: "OperatorCollection.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OperatorCollection メソッド。IOperatorSelector ビジタオブジェクトを受け入れ、演算子を処理します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/operatorcollection/accept/
 ---
-## OperatorCollection.Accept メソッド
+## OperatorCollection.Accept method
 
-オペレーターを処理するために IOperatorSelector ビジターオブジェクトを受け入れます。
+IOperatorSelector ビジターオブジェクトを受け入れ、オペレーターを処理します。
 
 ```csharp
 public void Accept(IOperatorSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | IOperatorSelector | ビジターオブジェクト |
+| ビジター | IOperatorSelector | ビジター オブジェクト |
 
-### 参照
+### 関連項目
 
-* インターフェース [IOperatorSelector](../../ioperatorselector/)
-* クラス [OperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../ioperatorselector/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

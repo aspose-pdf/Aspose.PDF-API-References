@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderPartStyle.LineType
-second_title: Aspose.PDF for .NET API Reference
-description: BorderPartStyle フィールド。境界線のタイプを表します。例：破線または実線
+title: "SaveOptions.BorderPartStyle.LineType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BorderPartStyle フィールド。境界線のタイプを表す（例: 破線または実線）"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/saveoptions.borderpartstyle/linetype/
 ---
-## SaveOptions.BorderPartStyle.LineType フィールド
+## SaveOptions.BorderPartStyle.LineType field
 
-境界線のタイプを表します。例：破線または実線
+ボーダーラインのタイプを表します（例：破線または実線）
 
 ```csharp
 public HtmlBorderLineType LineType;
@@ -20,3 +20,5 @@ public HtmlBorderLineType LineType;
 * class [BorderPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

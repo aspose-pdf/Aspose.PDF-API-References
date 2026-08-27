@@ -1,12 +1,12 @@
 ---
-title: Form.GetFieldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Form メソッド。フィールドのフラグを返します
+title: "Form.GetFieldFlag"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。フィールドのフラグを返します"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf.facades/form/getfieldflag/
 ---
-## Form.GetFieldFlag メソッド
+## Form.GetFieldFlag method
 
 フィールドのフラグを返します。
 
@@ -14,13 +14,13 @@ url: /ja/net/aspose.pdf.facades/form/getfieldflag/
 public PropertyFlag GetFieldFlag(string fieldName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fieldName | String | フィールド名 |
 
 ### 戻り値
 
-プロパティフラグ (ReadOnly/ Required/NoExport
+プロパティフラグ（ReadOnly / Required / NoExport）
 
 ## 例
 
@@ -38,3 +38,5 @@ if (form.GetFieldFlag("textField") == PropertyFlag.ReadOnly)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

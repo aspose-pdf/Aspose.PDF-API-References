@@ -1,12 +1,12 @@
 ---
-title: Rows.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Rows メソッド。コレクションから行を削除します
+title: "Rows.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rows メソッド。コレクションから行を削除"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/rows/remove/
 ---
-## Rows.Remove メソッド
+## Rows.Remove method
 
 コレクションから行を削除します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/rows/remove/
 public void Remove(Row row)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| row | Row | 既存の行。 |
+| 行 | 行 | 既存の行。 |
 
-### 参照
+### 関連項目
 
-* クラス [Row](../../row/)
-* クラス [Rows](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

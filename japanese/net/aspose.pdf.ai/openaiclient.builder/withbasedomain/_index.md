@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.Builder.WithBaseDomain
-second_title: Aspose.PDF for .NET API Reference
-description: ビルダーメソッド。クライアントのベースドメインを設定します
+title: "OpenAIClient.Builder.WithBaseDomain"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Builder メソッド。クライアントのベースドメインを設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.ai/openaiclient.builder/withbasedomain/
 ---
-## OpenAIClient.Builder.WithBaseDomain メソッド
+## OpenAIClient.Builder.WithBaseDomain method
 
 クライアントのベースドメインを設定します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.ai/openaiclient.builder/withbasedomain/
 public Builder WithBaseDomain(string baseDomain)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| baseDomain | String | 設定するベースドメイン。 |
+| baseDomain | String | 設定するベースドメインです。 |
 
 ### 戻り値
 
-現在の[`Builder`](../)のインスタンス。
+現在の [`Builder`](../) インスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [Builder](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

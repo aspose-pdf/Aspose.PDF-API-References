@@ -1,14 +1,14 @@
 ---
-title: Enum PrintRange
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrintRange 列挙型。印刷する文書の部分を指定するオプションを指定します。
+title: "列挙体 PrintRange"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Printing.PrintRange 列挙体。印刷するドキュメントの部分を指定するオプションを表します。"
 type: docs
-weight: 9650
+weight: 9800
 url: /ja/net/aspose.pdf.printing/printrange/
 ---
-## PrintRange 列挙型
+## PrintRange enumeration
 
-印刷する文書の部分を指定するオプションを指定します。
+印刷するドキュメントの部分を指定するオプションを指定します。
 
 ```csharp
 public enum PrintRange
@@ -21,9 +21,11 @@ public enum PrintRange
 | AllPages | `0` | すべてのページが印刷されます。 |
 | SomePages | `2` | [`FromPage`](../printersettings/frompage/) と [`ToPage`](../printersettings/topage/) の間のページが印刷されます。 |
 | Selection | `1` | 選択されたページが印刷されます。 |
-| CurrentPage | `4194304` | 現在のページが印刷されます。一部のオペレーティングシステムで使用すると、すべてのページが印刷される場合があります。 |
+| CurrentPage | `4194304` | 現在のページが印刷されます。いくつかのオペレーティングシステムで使用した場合、すべてのページが印刷されることがあります。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

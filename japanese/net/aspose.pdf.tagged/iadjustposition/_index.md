@@ -1,14 +1,14 @@
 ---
-title: Interface IAdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged.IAdjustPosition インターフェース。位置決めメソッドのインターフェース
+title: "インターフェイス IAdjustPosition"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Tagged.IAdjustPosition インターフェイス。位置決めメソッド用のインターフェイス"
 type: docs
-weight: 10300
+weight: 10480
 url: /ja/net/aspose.pdf.tagged/iadjustposition/
 ---
-## IAdjustPosition インターフェース
+## IAdjustPosition interface
 
-位置決めメソッドのインターフェースです。
+位置決めメソッドのインターフェイスです。
 
 ```csharp
 public interface IAdjustPosition
@@ -20,7 +20,9 @@ public interface IAdjustPosition
 | --- | --- |
 | [AdjustPosition](../../aspose.pdf.tagged/iadjustposition/adjustposition/)(PositionSettings) | 位置を調整します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../)
+
+

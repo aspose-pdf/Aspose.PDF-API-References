@@ -1,12 +1,12 @@
 ---
-title: PageSettings.Bounds
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings プロパティ。Landscape プロパティを考慮してページの境界を取得します
+title: "PageSettings.Bounds"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageSettings プロパティ。Landscape プロパティを考慮してページの境界を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.printing/pagesettings/bounds/
 ---
-## PageSettings.Bounds プロパティ
+## PageSettings.Bounds property
 
 Landscape プロパティを考慮してページの境界を取得します。
 
@@ -16,7 +16,9 @@ public Rectangle Bounds { get; }
 
 ### 関連項目
 
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [PageSettings](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

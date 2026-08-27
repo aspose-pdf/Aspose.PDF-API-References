@@ -1,14 +1,14 @@
 ---
-title: Interface ISaveableFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ISaveableFacade インターフェース。すべての保存可能なファサードに共通するメソッドを定義するファサードインターフェース
+title: "インターフェイス ISaveableFacade"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.ISaveableFacade インターフェイス。すべての保存可能ファサードに共通のメソッドを定義するファサードインターフェイスです。"
 type: docs
-weight: 4370
+weight: 4490
 url: /ja/net/aspose.pdf.facades/isaveablefacade/
 ---
-## ISaveableFacade インターフェース
+## ISaveableFacade interface
 
-すべての保存可能なファサードに共通するメソッドを定義するファサードインターフェース。
+すべての保存可能なファサードに共通するメソッドを定義するファサードインターフェイスです。
 
 ```csharp
 public interface ISaveableFacade : IFacade
@@ -18,11 +18,13 @@ public interface ISaveableFacade : IFacade
 
 | 名前 | 説明 |
 | --- | --- |
-| [Save](../../aspose.pdf.facades/isaveablefacade/save/#save)(Stream) | 結果の PDF ドキュメントをストリームに保存します。 |
-| [Save](../../aspose.pdf.facades/isaveablefacade/save/#save_1)(string) | 結果の PDF ドキュメントをファイルに保存します。 |
+| [Save](../../aspose.pdf.facades/isaveablefacade/save/#save)(Stream) | 結果のPDFドキュメントをストリームに保存します。 |
+| [Save](../../aspose.pdf.facades/isaveablefacade/save/#save_1)(string) | 結果のPDFドキュメントをファイルに保存します。 |
 
 ### 関連項目
 
-* インターフェース [IFacade](../ifacade/)
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IFacade](../ifacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

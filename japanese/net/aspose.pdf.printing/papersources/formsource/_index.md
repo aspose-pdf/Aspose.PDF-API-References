@@ -1,22 +1,24 @@
 ---
-title: PaperSources.FormSource
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSourcesフィールド。プリンターのデフォルトのビンを表します
+title: "PaperSources.FormSource"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSources フィールド。プリンターのデフォルトトレイを表します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.printing/papersources/formsource/
 ---
-## PaperSources.FormSourceフィールド
+## PaperSources.FormSource field
 
-プリンターのデフォルトのビンを表します。
+プリンターのデフォルトトレイを表します。
 
 ```csharp
 public static readonly PaperSource FormSource;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PaperSource](../../papersource/)
-* クラス [PaperSources](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

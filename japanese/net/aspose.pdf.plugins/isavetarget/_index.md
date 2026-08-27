@@ -1,14 +1,14 @@
 ---
-title: Interface ISaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ISaveTarget インターフェース。具体的な操作結果の保存ターゲットが実装すべき共通メンバーを定義する一般的な保存ターゲットインターフェース
+title: "インターフェイス ISaveTarget"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.ISaveTarget インターフェイス。具体的な操作結果の保存対象が実装すべき共通メンバーを定義する汎用的な保存対象インターフェイスです。"
 type: docs
-weight: 8880
+weight: 9010
 url: /ja/net/aspose.pdf.plugins/isavetarget/
 ---
-## ISaveTarget インターフェース
+## ISaveTarget interface
 
-具体的な操作結果の保存ターゲットが実装すべき共通メンバーを定義する一般的な保存ターゲットインターフェースです。
+具体的な操作結果保存ターゲットが実装すべき共通メンバーを定義する汎用保存ターゲットインターフェイスです。
 
 ```csharp
 public interface ISaveTarget
@@ -18,9 +18,11 @@ public interface ISaveTarget
 
 | 名前 | 説明 |
 | --- | --- |
-| [SaveTarget](../../aspose.pdf.plugins/isavetarget/savetarget/) { get; } | 保存ターゲットのタイプ（ファイルまたはストリーム）。 |
+| [SaveTarget](../../aspose.pdf.plugins/isavetarget/savetarget/) { get; } | 保存対象のタイプ（ファイルまたはストリーム）。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XImage.Name
-second_title: Aspose.PDF for .NET API Reference
-description: XImage プロパティ。画像名を取得または設定します。ページコンテンツに参照がある画像の名前を変更すると、ドキュメントが不正になる可能性があることに注意してください。この場合は XImage.Rename メソッドを使用してください。
+title: "XImage.Name"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImage プロパティ。画像名を取得または設定します。ページコンテンツ内で参照されている画像の名前を変更すると、ドキュメントが正しくなくなる可能性があることに注意してください。この場合は XImage.Rename メソッドを使用してください。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/ximage/name/
 ---
-## XImage.Name プロパティ
+## XImage.Name property
 
-画像名を取得または設定します。ページコンテンツに参照がある画像の名前を変更すると、ドキュメントが不正になる可能性があることに注意してください。この場合は XImage.Rename メソッドを使用してください。
+画像名を取得または設定します。ページコンテンツで参照されている画像の名前を変更すると、ドキュメントが正しくなくなる可能性があることに注意してください。その場合は XImage.Rename メソッドを使用してください。
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### 関連項目
 
-* クラス [XImage](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

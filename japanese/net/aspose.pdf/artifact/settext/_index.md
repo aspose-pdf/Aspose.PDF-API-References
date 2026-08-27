@@ -1,12 +1,12 @@
 ---
-title: Artifact.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: アーティファクトメソッド。アーティファクトのテキストを設定します。
+title: "Artifact.SetText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Artifact メソッド。アーティファクトのテキストを設定します"
 type: docs
 weight: 320
 url: /ja/net/aspose.pdf/artifact/settext/
 ---
-## Artifact.SetText メソッド
+## Artifact.SetText method
 
 アーティファクトのテキストを設定します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/artifact/settext/
 public void SetText(FormattedText formattedText)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| formattedText | FormattedText | アーティファクトテキストを含むFormattedTextオブジェクト。 |
+| formattedText | FormattedText | アーティファクトのテキストを含む FormattedText オブジェクトです。 |
 
-### 参照
+### 関連項目
 
-* クラス [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* クラス [Artifact](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

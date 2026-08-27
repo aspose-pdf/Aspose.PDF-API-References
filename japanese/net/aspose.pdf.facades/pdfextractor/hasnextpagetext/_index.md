@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.HasNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor メソッド。さらにテキストを取得できるかどうかを示します。
+title: "PdfExtractor.HasNextPageText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfExtractor メソッド。さらにテキストを取得できるかどうかを示します"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/pdfextractor/hasnextpagetext/
 ---
-## PdfExtractor.HasNextPageText メソッド
+## PdfExtractor.HasNextPageText method
 
 さらにテキストを取得できるかどうかを示します。
 
@@ -16,11 +16,11 @@ public bool HasNextPageText()
 
 ### 戻り値
 
-さらにテキストを取得できるかどうか、true は可能、false は不可能です。
+さらにテキストを取得できるかどうか、取得できる場合は true、できない場合は false
 
 ## 例
 
-この例は、テキスト抽出シナリオにおける `HasNextPageText` プロパティの使用法を示しています。
+この例はテキスト抽出シナリオで `HasNextPageText` プロパティの使用方法を示しています
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -51,6 +51,8 @@ End While
 
 ### 関連項目
 
-* クラス [PdfExtractor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

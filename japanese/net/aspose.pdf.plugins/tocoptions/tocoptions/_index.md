@@ -1,12 +1,12 @@
 ---
-title: TocOptions.TocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TocOptions コンストラクタ。デフォルトコンストラクタ
+title: "TocOptions.TocOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TocOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/tocoptions/tocoptions/
 ---
-## TocOptions コンストラクタ
+## TocOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/tocoptions/tocoptions/
 public TocOptions()
 ```
 
-### 参照
+### 関連項目
 
 * class [TocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

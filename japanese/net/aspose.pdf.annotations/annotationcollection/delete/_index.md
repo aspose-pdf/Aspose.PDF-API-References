@@ -1,44 +1,44 @@
 ---
-title: AnnotationCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection メソッド。インデックスによってコレクションから注釈を削除します
+title: "AnnotationCollection.Delete"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationCollection メソッド。インデックスでコレクションからアノテーションを削除します"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.annotations/annotationcollection/delete/
 ---
 ## Delete(int) {#delete_2}
 
-インデックスによってコレクションから注釈を削除します。
+インデックスで注釈をコレクションから削除します。
 
 ```csharp
 public void Delete(int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 削除される注釈のインデックス。 |
+| インデックス | Int32 | 削除されるアノテーションのインデックス。 |
 
-### 参照
+### 関連項目
 
-* クラス [AnnotationCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Delete() {#delete}
 
-コレクションからすべての注釈を削除します。
+コレクションからすべてのアノテーションを削除します。
 
 ```csharp
 public void Delete()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [AnnotationCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -50,13 +50,15 @@ public void Delete()
 public void Delete(Annotation annotation)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| annotation | Annotation | 削除される注釈。 |
+| 注釈 | 注釈 | 削除されるアノテーション。 |
 
-### 参照
+### 関連項目
 
-* クラス [Annotation](../../annotation/)
-* クラス [AnnotationCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.RemovePermission
-second_title: Aspose.PDF for .NET API Reference
-description: フォームプロパティ。このプロパティが true の場合、Perms 辞書は動的ドキュメントを標準に変換した後に pdf ドキュメントから削除されます。Perms 辞書には、Adobe Acrobat リーダーで必須フィールドの選択を表示するのを妨げるルールが含まれている可能性があります。デフォルトでは false です。
+title: "Form.RemovePermission"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form プロパティ。 このプロパティが true の場合、動的ドキュメントを標準に変換した後、pdf ドキュメントから Perms 辞書が削除されます。Perms 辞書には、Adobe Acrobat Reader で必須フィールドの選択表示を妨げるルールが含まれることがあります。デフォルトは false です。"
 type: docs
-weight: 120
+weight: 140
 url: /ja/net/aspose.pdf.forms/form/removepermission/
 ---
-## Form.RemovePermission プロパティ
+## Form.RemovePermission property
 
-このプロパティが true の場合、"Perms" 辞書は動的ドキュメントを標準に変換した後に pdf ドキュメントから削除されます。"Perms" 辞書には、Adobe Acrobat リーダーで必須フィールドの選択を表示するのを妨げるルールが含まれている可能性があります。デフォルトでは false です。
+このプロパティが true の場合、動的Documentを標準に変換した後、pdf Documentから "Perms" 辞書が削除されます。"Perms" 辞書には、Adobe Acrobat Reader で必須フィールドの選択表示を妨げるルールが含まれることがあります。デフォルトは false です。
 
 ```csharp
 public bool RemovePermission { get; set; }
@@ -16,6 +16,8 @@ public bool RemovePermission { get; set; }
 
 ### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

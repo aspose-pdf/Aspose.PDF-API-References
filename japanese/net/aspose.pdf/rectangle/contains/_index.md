@@ -1,31 +1,33 @@
 ---
-title: Rectangle.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。指定された点が長方形の内部にあるかどうかを判断します。
+title: "Rectangle.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。指定された点が矩形の内部にあるかどうかを判定します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf/rectangle/contains/
 ---
-## Rectangle.Contains メソッド
+## Rectangle.Contains method
 
-指定された点が長方形の内部にあるかどうかを判断します。
+指定された点が Rectangle の内部にあるかどうかを判定します。
 
 ```csharp
 public bool Contains(Point point, bool inclusive = false)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| point | Point | チェックする点。 |
-| inclusive | Boolean | inclusive: 点はエッジ上にある可能性があります。 |
+| ポイント | ポイント | チェックする点。 |
+| 含む | Boolean | 含む: 点はエッジ上にある場合があります。 |
 
 ### 戻り値
 
-点が長方形の内部にある場合は True。
+点が矩形の内部にある場合は true です。
 
-### 参照
+### 関連項目
 
-* クラス [Point](../../point/)
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Point](../../point/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

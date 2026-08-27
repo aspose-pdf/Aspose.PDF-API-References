@@ -1,12 +1,12 @@
 ---
-title: ApsSaveOptions.ApsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ApsSaveOptions コンストラクタ。デフォルトコンストラクタ
+title: "ApsSaveOptions.ApsSaveOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ApsSaveOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/apssaveoptions/apssaveoptions/
 ---
-## ApsSaveOptions コンストラクタ
+## ApsSaveOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public ApsSaveOptions()
 * class [ApsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

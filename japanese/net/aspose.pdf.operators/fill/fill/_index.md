@@ -1,14 +1,14 @@
 ---
-title: Fill.Fill
-second_title: Aspose.PDF for .NET API Reference
-description: Fillコンストラクタ。新しいfオペレーターを初期化します
+title: "Fill.Fill"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Fill コンストラクタ。新しい f 演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/fill/fill/
 ---
-## Fillコンストラクタ
+## Fill constructor
 
-新しいfオペレーターを初期化します。
+新しい f 演算子を初期化します。
 
 ```csharp
 public Fill()
@@ -16,6 +16,8 @@ public Fill()
 
 ### 関連項目
 
-* クラス [Fill](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Fill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: FileAttachmentAnnotation.FileAttachmentAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: FileAttachmentAnnotation コンストラクタ。指定されたページに新しい FileAttachment 注釈を作成します
+title: "FileAttachmentAnnotation.FileAttachmentAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileAttachmentAnnotation コンストラクタ。指定されたページに新しい FileAttachment アノテーションを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/fileattachmentannotation/fileattachmentannotation/
 ---
-## FileAttachmentAnnotation コンストラクタ
+## FileAttachmentAnnotation constructor
 
-指定されたページに新しい FileAttachment 注釈を作成します。
+指定された Page に新しい FileAttachment アノテーションを作成します。
 
 ```csharp
 public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fileSpec)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 注釈を作成するドキュメントのページ。 |
-| rect | Rectangle | 注釈の境界を設定するために必要な矩形。 |
-| fileSpec | FileSpecification | 注釈にバインドされるべきファイルを説明します。 |
+| ページ | ページ | Document のページでアノテーションを作成すべき場所です。 |
+| rect | Rectangle | アノテーションの境界線を設定する必要な矩形です。 |
+| fileSpec | FileSpecification | アノテーションにバインドされるべきファイルを説明します。 |
 
 ### 関連項目
 
@@ -28,3 +28,5 @@ public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fil
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

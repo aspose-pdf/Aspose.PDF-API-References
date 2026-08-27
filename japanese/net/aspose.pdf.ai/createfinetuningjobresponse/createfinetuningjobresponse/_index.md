@@ -1,12 +1,12 @@
 ---
-title: CreateFineTuningJobResponse.CreateFineTuningJobResponse
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse コンストラクタ。デフォルトコンストラクタ
+title: "CreateFineTuningJobResponse.CreateFineTuningJobResponse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CreateFineTuningJobResponse コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/createfinetuningjobresponse/createfinetuningjobresponse/
 ---
-## CreateFineTuningJobResponse コンストラクタ
+## CreateFineTuningJobResponse constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/createfinetuningjobresponse/createfinetuningjobrespon
 public CreateFineTuningJobResponse()
 ```
 
-### 参照
+### 関連項目
 
 * class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

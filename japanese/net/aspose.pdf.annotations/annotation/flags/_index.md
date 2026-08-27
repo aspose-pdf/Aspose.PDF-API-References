@@ -1,14 +1,14 @@
 ---
-title: Annotation.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: アノテーションプロパティ。アノテーションのフラグ
+title: "Annotation.Flags"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Annotation プロパティ。アノテーションのフラグ"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.annotations/annotation/flags/
 ---
-## Annotation.Flags プロパティ
+## Annotation.Flags property
 
-アノテーションのフラグです。
+注釈のフラグ。
 
 ```csharp
 public AnnotationFlags Flags { get; set; }
@@ -20,3 +20,5 @@ public AnnotationFlags Flags { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

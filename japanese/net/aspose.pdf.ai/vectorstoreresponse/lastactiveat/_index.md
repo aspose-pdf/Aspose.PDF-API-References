@@ -1,14 +1,14 @@
 ---
-title: VectorStoreResponse.LastActiveAt
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse プロパティ。ベクターストアが最後にアクティブだった時の Unix タイムスタンプ（秒単位）を取得または設定します。
+title: "VectorStoreResponse.LastActiveAt"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreResponse プロパティ。ベクトルストアが最後にアクティブだった時刻の Unix タイムスタンプ（秒）を取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.ai/vectorstoreresponse/lastactiveat/
 ---
-## VectorStoreResponse.LastActiveAt プロパティ
+## VectorStoreResponse.LastActiveAt property
 
-ベクターストアが最後にアクティブだった時の Unix タイムスタンプ（秒単位）を取得または設定します。
+ベクトルストアが最後にアクティブだったときの Unix タイムスタンプ（秒）を取得または設定します。
 
 ```csharp
 public long? LastActiveAt { get; set; }
@@ -16,6 +16,8 @@ public long? LastActiveAt { get; set; }
 
 ### 関連項目
 
-* クラス [VectorStoreResponse](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

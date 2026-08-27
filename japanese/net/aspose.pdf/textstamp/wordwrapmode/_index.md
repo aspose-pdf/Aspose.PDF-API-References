@@ -1,12 +1,12 @@
 ---
-title: TextStamp.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp プロパティ。テキストレンダリングのワードラップモードを取得または設定します
+title: "TextStamp.WordWrapMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextStamp プロパティ。テキスト描画のためのワードラップモードを取得または設定します"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf/textstamp/wordwrapmode/
 ---
-## TextStamp.WordWrapMode プロパティ
+## TextStamp.WordWrapMode property
 
 テキストレンダリングのワードラップモードを取得または設定します。
 
@@ -20,3 +20,5 @@ public WordWrapMode WordWrapMode { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

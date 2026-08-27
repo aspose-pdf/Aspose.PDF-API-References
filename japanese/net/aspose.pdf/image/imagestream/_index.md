@@ -1,12 +1,12 @@
 ---
-title: Image.ImageStream
-second_title: Aspose.PDF for .NET API Reference
-description: 画像プロパティ。画像ストリームを取得または設定します
+title: "Image.ImageStream"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Image プロパティ。画像ストリームを取得または設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/image/imagestream/
 ---
-## Image.ImageStream プロパティ
+## Image.ImageStream property
 
 画像ストリームを取得または設定します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/image/imagestream/
 public Stream ImageStream { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Image](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

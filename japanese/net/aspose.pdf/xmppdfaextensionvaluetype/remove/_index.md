@@ -1,26 +1,28 @@
 ---
-title: XmpPdfAExtensionValueType.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType メソッド。フィールドをフィールドのリストから削除します。
+title: "XmpPdfAExtensionValueType.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionValueType メソッド。フィールドをフィールドリストから削除します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/xmppdfaextensionvaluetype/remove/
 ---
-## XmpPdfAExtensionValueType.Remove メソッド
+## XmpPdfAExtensionValueType.Remove method
 
-フィールドをフィールドのリストから削除します。
+フィールドの一覧からフィールドを削除します。
 
 ```csharp
 public void Remove(XmpPdfAExtensionField field)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| field | XmpPdfAExtensionField | 削除するフィールド。 |
+| フィールド | XmpPdfAExtensionField | 削除するフィールド。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* クラス [XmpPdfAExtensionValueType](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

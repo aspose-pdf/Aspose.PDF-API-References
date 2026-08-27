@@ -1,29 +1,31 @@
 ---
-title: PDF3DRenderMode.SetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode メソッド。クリース値を設定します
+title: "PDF3DRenderMode.SetCreaseValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DRenderMode メソッド。折り目の値を設定します"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/
 ---
-## PDF3DRenderMode.SetCreaseValue メソッド
+## PDF3DRenderMode.SetCreaseValue method
 
-クリース値を設定します。
+折り目の値を設定します。
 
 ```csharp
 public PDF3DRenderMode SetCreaseValue(double creaseValue)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| creaseValue | Double | クリース値。 |
+| creaseValue | Double | 折り目の値。 |
 
 ### 戻り値
 
-PDF3DRenderMode。
+PDF3DRenderMode.
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DRenderMode](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

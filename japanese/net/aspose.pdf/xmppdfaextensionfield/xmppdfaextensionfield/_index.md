@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionField.XmpPdfAExtensionField
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionField コンストラクタ。オブジェクトを初期化します
+title: "XmpPdfAExtensionField.XmpPdfAExtensionField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionField コンストラクタ。オブジェクトを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/
 ---
-## XmpPdfAExtensionField コンストラクタ
+## XmpPdfAExtensionField constructor
 
 オブジェクトを初期化します。
 
@@ -14,15 +14,17 @@ url: /ja/net/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/
 public XmpPdfAExtensionField(string name, string value, string valueType, string description)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | フィールド名。 |
-| value | String | フィールド値。 |
-| valueType | String | フィールド値の型。 |
-| description | String | フィールドの説明。 |
+| 名前 | String | フィールド名です。 |
+| 値 | String | フィールド値です。 |
+| valueType | String | フィールドの値タイプです。 |
+| 説明 | String | フィールドの説明です。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpPdfAExtensionField](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

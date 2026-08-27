@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.FlatteningAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor メソッド。ドキュメント内のすべての注釈をフラット化します
+title: "PdfAnnotationEditor.FlatteningAnnotations"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAnnotationEditor メソッド。ドキュメント内のすべての注釈をフラット化します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.facades/pdfannotationeditor/flatteningannotations/
@@ -25,9 +25,9 @@ editor.Save(example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfAnnotationEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,16 +39,16 @@ editor.Save(example_out.pdf");
 public void FlatteningAnnotations(FlattenSettings flattenSettings)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | flattenSettings | FlattenSettings | フラット化のモードを指定します。 |
 
 ### 関連項目
 
-* クラス [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
-* クラス [PdfAnnotationEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,11 +60,11 @@ public void FlatteningAnnotations(FlattenSettings flattenSettings)
 public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | start | Int32 | 開始ページ。 |
-| end | Int32 | 終了ページ。 |
-| annotType | AnnotationType[] | フラット化すべき注釈のタイプ。 |
+| end | Int32 | 次にページの終わりです。 |
+| annotType | AnnotationType[] | 注釈タイプはフラット化する必要があります。 |
 
 ## 例
 
@@ -78,7 +78,9 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* 列挙 [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* クラス [PdfAnnotationEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

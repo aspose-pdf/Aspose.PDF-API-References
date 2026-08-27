@@ -1,12 +1,12 @@
 ---
-title: DocConverter.DocConverter
-second_title: Aspose.PDF for .NET API Reference
-description: DocConverter コンストラクタ。デフォルトコンストラクタ
+title: "DocConverter.DocConverter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocConverter コンストラクタ。デフォルト コンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/docconverter/docconverter/
 ---
-## DocConverter コンストラクタ
+## DocConverter constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public DocConverter()
 * class [DocConverter](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

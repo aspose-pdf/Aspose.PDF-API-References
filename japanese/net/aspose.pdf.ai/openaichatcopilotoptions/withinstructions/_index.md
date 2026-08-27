@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションの指示を設定します。
+title: "OpenAIChatCopilotOptions.WithInstructions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションの指示を設定します"
 type: docs
-weight: 120
+weight: 130
 url: /ja/net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/
 ---
-## OpenAIChatCopilotOptions.WithInstructions メソッド
+## OpenAIChatCopilotOptions.WithInstructions method
 
 チャットコパイロットオプションの指示を設定します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/
 public OpenAIChatCopilotOptions WithInstructions(string instructions)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| instructions | String | 設定する指示。 |
+| 指示 | String | 設定する指示。 |
 
 ### 戻り値
 
-[`OpenAIChatCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIChatCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIChatCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

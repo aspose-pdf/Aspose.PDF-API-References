@@ -1,26 +1,28 @@
 ---
-title: FieldSerializationResult.FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: FieldSerializationResult プロパティ。フォームフィールドのシリアル化のステータスを取得します
+title: "FieldSerializationResult.FieldSerializationStatus"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FieldSerializationResult プロパティ。フォームフィールドのシリアライズ状態を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/fieldserializationresult/fieldserializationstatus/
 ---
-## FieldSerializationResult.FieldSerializationStatus プロパティ
+## FieldSerializationResult.FieldSerializationStatus property
 
-フォームフィールドのシリアル化のステータスを取得します。
+フォーム フィールドのシリアライズのステータスを取得します。
 
 ```csharp
 public FieldSerializationStatus FieldSerializationStatus { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-フォームフィールドのシリアル化ステータス。
+フォームフィールドのシリアライズ状態です。
 
-### 参照
+### 関連項目
 
 * enum [FieldSerializationStatus](../../fieldserializationstatus/)
 * class [FieldSerializationResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

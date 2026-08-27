@@ -1,20 +1,20 @@
 ---
-title: DeprecatedFeatureException.DeprecatedFeatureException
-second_title: Aspose.PDF for .NET API Reference
-description: DeprecatedFeatureException コンストラクタ。DeprecatedFeatureException クラスの新しいインスタンスを初期化します。
+title: "DeprecatedFeatureException.DeprecatedFeatureException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DeprecatedFeatureException コンストラクタ。 DeprecatedFeatureException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/deprecatedfeatureexception/deprecatedfeatureexception/
 ---
 ## DeprecatedFeatureException() {#constructor}
 
-[`DeprecatedFeatureException`](../) クラスの新しいインスタンスを初期化します。
+`[`DeprecatedFeatureException`](../)` クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public DeprecatedFeatureException()
 ```
 
-### See Also
+### 関連項目
 
 * class [DeprecatedFeatureException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public DeprecatedFeatureException()
 public DeprecatedFeatureException(string message)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | String | 例外メッセージ。 |
 
-### See Also
+### 関連項目
 
 * class [DeprecatedFeatureException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

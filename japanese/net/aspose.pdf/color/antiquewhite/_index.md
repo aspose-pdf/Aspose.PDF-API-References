@@ -1,12 +1,12 @@
 ---
-title: Color.AntiqueWhite
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFFAEBD7 のシステム定義カラーを取得します。
+title: "Color.AntiqueWhite"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得し、ARGB 値が c FFFAEBD7 です"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/color/antiquewhite/
 ---
-## Color.AntiqueWhite プロパティ
+## Color.AntiqueWhite property
 
 ARGB 値が \c \#FFFAEBD7 のシステム定義カラーを取得します。
 
@@ -18,8 +18,10 @@ public static Color AntiqueWhite { get; }
 
 システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

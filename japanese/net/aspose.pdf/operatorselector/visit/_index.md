@@ -1,22 +1,22 @@
 ---
-title: OperatorSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorSelector メソッド。j 演算子を訪問/選択
+title: "OperatorSelector.Visit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OperatorSelector メソッド。j 演算子を訪問/選択します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/operatorselector/visit/
 ---
 ## Visit(SetLineJoin) {#visit_59}
 
-j 演算子を訪問/選択します。
+j 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetLineJoin j)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| j | SetLineJoin | 線の接合スタイル演算子を設定します。 |
+| j | SetLineJoin | 線結合スタイルを設定する演算子。 |
 
 ### 関連項目
 
@@ -29,15 +29,15 @@ public void Visit(SetLineJoin j)
 
 ## Visit(EX) {#visit_23}
 
-EX 演算子を訪問/選択します。
+EX 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EX EX)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| EX | EX | 互換性セクションの終了演算子。 |
+| EX | EX | 互換性セクションを終了する演算子。 |
 
 ### 関連項目
 
@@ -50,15 +50,15 @@ public void Visit(EX EX)
 
 ## Visit(ET) {#visit_22}
 
-ET 演算子を訪問/選択します。
+ET 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(ET ET)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| ET | ET | テキストオブジェクトの終了演算子。 |
+| ET | ET | テキストオブジェクトを終了する演算子。 |
 
 ### 関連項目
 
@@ -71,15 +71,15 @@ public void Visit(ET ET)
 
 ## Visit(EMC) {#visit_17}
 
-EMC 演算子を訪問/選択します。
+EMC 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EMC EMC)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| EMC | EMC | マークされたコンテンツシーケンスの終了演算子。 |
+| EMC | EMC | マーク付きコンテンツシーケンスを終了する演算子。 |
 
 ### 関連項目
 
@@ -92,15 +92,15 @@ public void Visit(EMC EMC)
 
 ## Visit(EI) {#visit_16}
 
-EI 演算子を訪問/選択します。
+EI 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EI EI)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| EI | EI | インライン画像オブジェクトの終了演算子。 |
+| EI | EI | インライン画像オブジェクトを終了する演算子。 |
 
 ### 関連項目
 
@@ -119,9 +119,9 @@ DP 演算子を訪問/選択します。
 public void Visit(DP DP)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| DP | DP | マークされたコンテンツポイントを定義する演算子（プロパティリスト付き）。 |
+| DP | DP | マーク付きコンテンツポイントを定義する演算子（プロパティリスト付き）。 |
 
 ### 関連項目
 
@@ -140,9 +140,9 @@ Do 演算子を訪問/選択します。
 public void Visit(Do Do)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Do | Do | 名前付き XObject 演算子を呼び出します。 |
+| Do | Do | 名前付き XObject を呼び出す演算子。 |
 
 ### 関連項目
 
@@ -155,15 +155,15 @@ public void Visit(Do Do)
 
 ## Visit(SetCharWidthBoundingBox) {#visit_44}
 
-d1 演算子を訪問/選択します。
+d1 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetCharWidthBoundingBox d1)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | Type 3 フォント演算子でのグリフ幅とバウンディングボックスを設定します。 |
+| d1 | SetCharWidthBoundingBox | Type 3 フォントでグリフ幅とバウンディングボックスを設定する演算子。 |
 
 ### 関連項目
 
@@ -176,15 +176,15 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 ## Visit(SetCharWidth) {#visit_43}
 
-d0 演算子を訪問/選択します。
+d0 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetCharWidth d0)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| d0 | SetCharWidth | Type 3 フォント演算子でのグリフ幅を設定します。 |
+| d0 | SetCharWidth | Type 3 フォントでグリフ幅を設定する演算子。 |
 
 ### 関連項目
 
@@ -197,15 +197,15 @@ public void Visit(SetCharWidth d0)
 
 ## Visit(SetDash) {#visit_52}
 
-d 演算子を訪問/選択します。
+d 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetDash d)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| d | SetDash | 線のダッシュパターン演算子を設定します。 |
+| d | SetDash | 線の破線パターンを設定する演算子。 |
 
 ### 関連項目
 
@@ -218,15 +218,15 @@ public void Visit(SetDash d)
 
 ## Visit(SetColorSpaceStroke) {#visit_50}
 
-CS 演算子を訪問/選択します。
+CS 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetColorSpaceStroke CS)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | 色空間演算子を設定します（ストローク操作用）。 |
+| CS | SetColorSpaceStroke | ストローク操作用のカラースペースを設定する演算子（ストローク操作用）。 |
 
 ### 関連項目
 
@@ -239,15 +239,15 @@ public void Visit(SetColorSpaceStroke CS)
 
 ## Visit(SetColorSpace) {#visit_49}
 
-cs 演算子を訪問/選択します。
+cs 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetColorSpace cs)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| cs | SetColorSpace | 色空間演算子を設定します（非ストローク操作用）。 |
+| cs | SetColorSpace | 非ストローク操作用のカラースペース設定演算子です。 |
 
 ### 関連項目
 
@@ -266,9 +266,9 @@ cm 演算子を訪問/選択します。
 public void Visit(ConcatenateMatrix cm)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | 現在の変換行列に行列を連結する演算子。 |
+| cm | ConcatenateMatrix | 現在の変換行列に行列を連結する演算子です。 |
 
 ### 関連項目
 
@@ -287,9 +287,9 @@ c 演算子を訪問/選択します。
 public void Visit(CurveTo c)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| c | CurveTo | パス演算子に曲線セグメントを追加します（3つの制御点）。 |
+| c | CurveTo | 3つの制御点を持つ曲線セグメントをパスに追加する演算子です。 |
 
 ### 関連項目
 
@@ -308,9 +308,9 @@ BX 演算子を訪問/選択します。
 public void Visit(BX BX)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| BX | BX | 互換性セクションの開始演算子。 |
+| BX | BX | 互換性セクションを開始する演算子です。 |
 
 ### 関連項目
 
@@ -329,9 +329,9 @@ BT 演算子を訪問/選択します。
 public void Visit(BT BT)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| BT | BT | テキストオブジェクトの開始演算子。 |
+| BT | BT | テキストオブジェクトを開始する演算子です。 |
 
 ### 関連項目
 
@@ -350,9 +350,9 @@ BMC 演算子を訪問/選択します。
 public void Visit(BMC BMC)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| BMC | BMC | マークされたコンテンツシーケンスの開始演算子。 |
+| BMC | BMC | マーク付きコンテンツシーケンスを開始する演算子です。 |
 
 ### 関連項目
 
@@ -371,9 +371,9 @@ BI 演算子を訪問/選択します。
 public void Visit(BI BI)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| BI | BI | インライン画像オブジェクトの開始演算子。 |
+| BI | BI | インライン画像オブジェクトを開始する演算子です。 |
 
 ### 関連項目
 
@@ -392,9 +392,9 @@ BDC 演算子を訪問/選択します。
 public void Visit(BDC BDC)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| BDC | BDC | マークされたコンテンツシーケンスの開始演算子（プロパティリスト付き）。 |
+| BDC | BDC | プロパティリスト付きでマーク付きコンテンツシーケンスを開始する演算子です。 |
 
 ### 関連項目
 
@@ -407,15 +407,15 @@ public void Visit(BDC BDC)
 
 ## Visit(FillStroke) {#visit_25}
 
-B 演算子を訪問/選択します。
+B 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(FillStroke B)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| B | FillStroke | パスを塗りつぶし、ストロークする演算子（非ゼロ巻き数ルール）。 |
+| B | FillStroke | 非ゼロ巻き数規則でパスを塗りつぶしおよびストロークする演算子です。 |
 
 ### 関連項目
 
@@ -434,9 +434,9 @@ b 演算子を訪問/選択します。
 public void Visit(ClosePathFillStroke b)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| b | ClosePathFillStroke | パスを閉じて、塗りつぶし、ストロークする演算子（非ゼロ巻き数ルール）。 |
+| b | ClosePathFillStroke | 非ゼロ巻き数規則でパスを閉じ、塗りつぶし、ストロークする演算子です。 |
 
 ### 関連項目
 
@@ -449,15 +449,15 @@ public void Visit(ClosePathFillStroke b)
 
 ## Visit(EOFillStroke) {#visit_21}
 
-B* 演算子を訪問/選択します。
+B* 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EOFillStroke B_)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| B_ | EOFillStroke | パスを塗りつぶし、ストロークする演算子（偶数-奇数ルール）。 |
+| B_ | EOFillStroke | 偶数-奇数規則でパスを塗りつぶしおよびストロークする演算子です。 |
 
 ### 関連項目
 
@@ -476,9 +476,9 @@ b* 演算子を訪問/選択します。
 public void Visit(ClosePathEOFillStroke b_)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | パスを閉じて、塗りつぶし、ストロークする演算子（偶数-奇数ルール）。 |
+| b_ | ClosePathEOFillStroke | パスを閉じ、塗り、ストロークする演算子（偶数-奇数規則）。 |
 
 ### 関連項目
 
@@ -491,15 +491,15 @@ public void Visit(ClosePathEOFillStroke b_)
 
 ## Visit(MoveToNextLineShowText) {#visit_35}
 
-' 演算子を訪問/選択します。
+' 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MoveToNextLineShowText _)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | 次の行に移動してテキストを表示する演算子。 |
+| _ | MoveToNextLineShowText | 次の行に移動し、テキストを表示する演算子。 |
 
 ### 関連項目
 
@@ -512,15 +512,15 @@ public void Visit(MoveToNextLineShowText _)
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
-'' 演算子を訪問/選択します。
+'' 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | 単語と文字の間隔を設定し、次の行に移動してテキストを表示する演算子。 |
+| __ | SetSpacingMoveToNextLineShowText | 単語間隔と文字間隔を設定し、次の行に移動してテキストを表示する演算子。 |
 
 ### 関連項目
 
@@ -533,15 +533,15 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 ## Visit(EOFill) {#visit_20}
 
-f* 演算子を訪問/選択します。
+f* 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EOFill f_)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| f_ | EOFill | パスを塗りつぶす演算子（偶数-奇数ルール）。 |
+| f_ | EOFill | パスを塗りつぶす演算子（偶数-奇数規則）。 |
 
 ### 関連項目
 
@@ -554,15 +554,15 @@ public void Visit(EOFill f_)
 
 ## Visit(Fill) {#visit_24}
 
-f 演算子を訪問/選択します。
+f 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(Fill f)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| f | Fill | パスを塗りつぶす演算子（非ゼロ巻き数ルール）。 |
+| f | Fill | パスを塗りつぶす演算子（非ゼロ巻き数規則）。 |
 
 ### 関連項目
 
@@ -575,15 +575,15 @@ public void Visit(Fill f)
 
 ## Visit(ObsoleteFill) {#visit_37}
 
-F 演算子を訪問/選択します。
+F 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(ObsoleteFill F)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| F | ObsoleteFill | パスを塗りつぶす演算子（非ゼロ巻き数ルール）。 |
+| F | ObsoleteFill | パスを塗りつぶす演算子（非ゼロ巻き数規則）。 |
 
 ### 関連項目
 
@@ -596,15 +596,15 @@ public void Visit(ObsoleteFill F)
 
 ## Visit(SetGray) {#visit_55}
 
-g 演算子を訪問/選択します。
+g 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetGray g)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| g | SetGray | グレーのレベルを設定する演算子（非ストローク操作用）。 |
+| g | SetGray | 非ストローク操作用のグレーレベル設定演算子。 |
 
 ### 関連項目
 
@@ -617,15 +617,15 @@ public void Visit(SetGray g)
 
 ## Visit(SetGrayStroke) {#visit_56}
 
-G 演算子を訪問/選択します。
+G 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetGrayStroke G)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| G | SetGrayStroke | グレーのレベルを設定する演算子（ストローク操作用）。 |
+| G | SetGrayStroke | ストローク操作用のグレーレベル設定演算子。 |
 
 ### 関連項目
 
@@ -638,15 +638,15 @@ public void Visit(SetGrayStroke G)
 
 ## Visit(GS) {#visit_27}
 
-gs 演算子を訪問/選択します。
+gs 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(GS gs)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| gs | GS | グラフィックス状態を設定する演算子。 |
+| gs | GS | グラフィックス状態設定演算子。 |
 
 ### 関連項目
 
@@ -665,7 +665,7 @@ h 演算子を訪問/選択します。
 public void Visit(ClosePath h)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | h | ClosePath | サブパスを閉じる演算子。 |
 
@@ -680,15 +680,15 @@ public void Visit(ClosePath h)
 
 ## Visit(SetFlat) {#visit_53}
 
-i 演算子を訪問/選択します。
+i 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetFlat i)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| i | SetFlat | フラットネス許容値を設定する演算子。 |
+| i | SetFlat | 平坦度許容値を設定する演算子。 |
 
 ### 関連項目
 
@@ -701,15 +701,15 @@ public void Visit(SetFlat i)
 
 ## Visit(ID) {#visit_29}
 
-ID 演算子を訪問/選択します。
+ID 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(ID ID)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| ID | ID | インライン画像データの開始演算子。 |
+| ID | ID | インライン画像データを開始する演算子。 |
 
 ### 関連項目
 
@@ -722,15 +722,15 @@ public void Visit(ID ID)
 
 ## Visit(SetLineCap) {#visit_58}
 
-J 演算子を訪問/選択します。
+J 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetLineCap J)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| J | SetLineCap | 線のキャップスタイル演算子を設定します。 |
+| J | SetLineCap | ラインキャップスタイルを設定する演算子。 |
 
 ### 関連項目
 
@@ -743,15 +743,15 @@ public void Visit(SetLineCap J)
 
 ## Visit(SetCMYKColor) {#visit_45}
 
-k 演算子を訪問/選択します。
+k 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetCMYKColor k)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| k | SetCMYKColor | CMYK カラー演算子を設定します（非ストローク操作用）。 |
+| k | SetCMYKColor | CMYKカラーを設定する演算子（塗りなし操作用）。 |
 
 ### 関連項目
 
@@ -764,15 +764,15 @@ public void Visit(SetCMYKColor k)
 
 ## Visit(SetCMYKColorStroke) {#visit_46}
 
-K 演算子を訪問/選択します。
+K 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetCMYKColorStroke K)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | CMYK カラー演算子を設定します（ストローク操作用）。 |
+| K | SetCMYKColorStroke | CMYKカラーを設定する演算子（線描画操作用）。 |
 
 ### 関連項目
 
@@ -785,15 +785,15 @@ public void Visit(SetCMYKColorStroke K)
 
 ## Visit(LineTo) {#visit_30}
 
-l 演算子を訪問/選択します。
+l 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(LineTo l)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| l | LineTo | パス演算子に直線セグメントを追加します。 |
+| l | LineTo | パスに直線セグメントを追加する演算子。 |
 
 ### 関連項目
 
@@ -806,13 +806,13 @@ public void Visit(LineTo l)
 
 ## Visit(MoveTo) {#visit_33}
 
-m 演算子を訪問/選択します。
+m 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MoveTo m)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | m | MoveTo | 新しいサブパスを開始する演算子。 |
 
@@ -827,15 +827,15 @@ public void Visit(MoveTo m)
 
 ## Visit(SetMiterLimit) {#visit_61}
 
-M 演算子を訪問/選択します。
+M 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetMiterLimit M)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| M | SetMiterLimit | ミッタ制限を設定する演算子。 |
+| M | SetMiterLimit | マイターリミットを設定する演算子。 |
 
 ### 関連項目
 
@@ -848,15 +848,15 @@ public void Visit(SetMiterLimit M)
 
 ## Visit(MP) {#visit_36}
 
-MP 演算子を訪問/選択します。
+MP 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MP MP)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| MP | MP | マークされたコンテンツポイントを定義する演算子。 |
+| MP | MP | マーク付きコンテンツポイントを定義する演算子。 |
 
 ### 関連項目
 
@@ -869,15 +869,15 @@ public void Visit(MP MP)
 
 ## Visit(EndPath) {#visit_18}
 
-n 演算子を訪問/選択します。
+n 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EndPath n)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| n | EndPath | 塗りつぶしやストロークなしでパスを終了する演算子。 |
+| n | EndPath | エンドパス演算子（塗りつぶしやストロークなし）。 |
 
 ### 関連項目
 
@@ -890,15 +890,15 @@ public void Visit(EndPath n)
 
 ## Visit(GSave) {#visit_28}
 
-q 演算子を訪問/選択します。
+q 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(GSave q)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| q | GSave | グラフィックス状態を保存する演算子。 |
+| q | GSave | グラフィックス状態を保存する演算子です。 |
 
 ### 関連項目
 
@@ -911,15 +911,15 @@ public void Visit(GSave q)
 
 ## Visit(GRestore) {#visit_26}
 
-Q 演算子を訪問/選択します。
+Q 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(GRestore Q)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Q | GRestore | グラフィックス状態を復元する演算子。 |
+| Q | GRestore | グラフィックス状態を復元する演算子です。 |
 
 ### 関連項目
 
@@ -932,15 +932,15 @@ public void Visit(GRestore Q)
 
 ## Visit(Re) {#visit_38}
 
-re 演算子を訪問/選択します。
+re 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(Re re)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| re | Re | パス演算子に長方形を追加します。 |
+| re | Re | パスに矩形を追加する演算子です。 |
 
 ### 関連項目
 
@@ -953,15 +953,15 @@ public void Visit(Re re)
 
 ## Visit(SetRGBColor) {#visit_62}
 
-rg 演算子を訪問/選択します。
+rg 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetRGBColor rg)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rg | SetRGBColor | RGB カラー演算子を設定します（非ストローク操作用）。 |
+| rg | SetRGBColor | 非ストローク操作用のRGBカラー設定演算子です。 |
 
 ### 関連項目
 
@@ -974,15 +974,15 @@ public void Visit(SetRGBColor rg)
 
 ## Visit(SetRGBColorStroke) {#visit_63}
 
-RG 演算子を訪問/選択します。
+RG 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetRGBColorStroke RG)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| RG | SetRGBColorStroke | RGB カラー演算子を設定します（ストローク操作用）。 |
+| RG | SetRGBColorStroke | ストローク操作用のRGBカラー設定演算子です。 |
 
 ### 関連項目
 
@@ -995,15 +995,15 @@ public void Visit(SetRGBColorStroke RG)
 
 ## Visit(SetColorRenderingIntent) {#visit_48}
 
-ri 演算子を訪問/選択します。
+ri 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetColorRenderingIntent ri)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | カラーレンダリング意図演算子を設定します。 |
+| ri | SetColorRenderingIntent | カラー描画意図を設定する演算子です。 |
 
 ### 関連項目
 
@@ -1022,9 +1022,9 @@ s 演算子を訪問/選択します。
 public void Visit(ClosePathStroke s)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| s | ClosePathStroke | パスを閉じてストロークする演算子。 |
+| s | ClosePathStroke | パスを閉じてストロークする演算子です。 |
 
 ### 関連項目
 
@@ -1043,9 +1043,9 @@ S 演算子を訪問/選択します。
 public void Visit(Stroke S)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| S | Stroke | パスをストロークする演算子。 |
+| S | ストローク | パスをストロークする演算子です。 |
 
 ### 関連項目
 
@@ -1058,15 +1058,15 @@ public void Visit(Stroke S)
 
 ## Visit(SetColor) {#visit_47}
 
-sc 演算子を訪問/選択します。
+sc 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetColor sc)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| sc | SetColor | 色演算子を設定します（非ストローク操作用）。 |
+| sc | SetColor | 非ストローク操作用の色設定演算子です。 |
 
 ### 関連項目
 
@@ -1079,15 +1079,15 @@ public void Visit(SetColor sc)
 
 ## Visit(SetColorStroke) {#visit_51}
 
-SC 演算子を訪問/選択します。
+SC 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetColorStroke SC)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| SC | SetColorStroke | 色演算子を設定します（ストローク操作用）。 |
+| SC | SetColorStroke | ストローク操作用の色設定演算子です。 |
 
 ### 関連項目
 
@@ -1100,15 +1100,15 @@ public void Visit(SetColorStroke SC)
 
 ## Visit(SetAdvancedColor) {#visit_40}
 
-scn 演算子を訪問/選択します。
+scn 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(SetAdvancedColor scn)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| scn | SetAdvancedColor | 色演算子を設定します（非ストローク操作用、ICCBased および特別な色空間）。 |
+| scn | SetAdvancedColor | 非ストローク操作、ICCBased および特殊カラー空間用の色設定演算子です。 |
 
 ### 関連項目
 
@@ -1121,15 +1121,15 @@ public void Visit(SetAdvancedColor scn)
 
 ## Visit(SetAdvancedColorStroke) {#visit_41}
 
-SCN 演算子を訪問/選択します。
+SCN 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetAdvancedColorStroke SCN)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | 色演算子を設定します（ストローク操作用、ICCBased および特別な色空間）。 |
+| SCN | SetAdvancedColorStroke | ストローク操作、ICCBased および特殊カラー空間用の色設定演算子です。 |
 
 ### 関連項目
 
@@ -1148,9 +1148,9 @@ sh 演算子を訪問/選択します。
 public void Visit(ShFill sh)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| sh | ShFill | シェーディングパターン演算子で定義された領域を塗りつぶします。 |
+| sh | ShFill | シェーディングパターンで定義された領域を塗りつぶす演算子です。 |
 
 ### 関連項目
 
@@ -1163,15 +1163,15 @@ public void Visit(ShFill sh)
 
 ## Visit(MoveToNextLine) {#visit_34}
 
-T* 演算子を訪問/選択します。
+T* 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MoveToNextLine T_)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| T_ | MoveToNextLine | 次のテキスト行の開始位置に移動する演算子。 |
+| T_ | MoveToNextLine | 次のテキスト行の開始位置に移動する演算子です。 |
 
 ### 関連項目
 
@@ -1184,15 +1184,15 @@ public void Visit(MoveToNextLine T_)
 
 ## Visit(SetCharacterSpacing) {#visit_42}
 
-Tc 演算子を訪問/選択します。
+Tc 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetCharacterSpacing Tc)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | 文字間隔を設定する演算子。 |
+| Tc | SetCharacterSpacing | 文字間隔を設定する演算子です。 |
 
 ### 関連項目
 
@@ -1205,15 +1205,15 @@ public void Visit(SetCharacterSpacing Tc)
 
 ## Visit(MoveTextPosition) {#visit_31}
 
-Td 演算子を訪問/選択します。
+Td 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MoveTextPosition Td)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Td | MoveTextPosition | テキスト位置を移動する演算子。 |
+| Td | MoveTextPosition | テキスト位置を移動する演算子です。 |
 
 ### 関連項目
 
@@ -1226,15 +1226,15 @@ public void Visit(MoveTextPosition Td)
 
 ## Visit(MoveTextPositionSetLeading) {#visit_32}
 
-TD 演算子を訪問/選択します。
+TD 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MoveTextPositionSetLeading TD)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | テキスト位置を移動し、リーディングを設定する演算子。 |
+| TD | MoveTextPositionSetLeading | テキスト位置を移動し、リーディングを設定する演算子です。 |
 
 ### 関連項目
 
@@ -1247,15 +1247,15 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 ## Visit(SelectFont) {#visit_39}
 
-Tf 演算子を訪問/選択します。
+Tf 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(SelectFont Tf)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Tf | SelectFont | テキストフォントとサイズを設定する演算子。 |
+| Tf | SelectFont | テキストのフォントとサイズを設定する演算子です。 |
 
 ### 関連項目
 
@@ -1274,9 +1274,9 @@ Tj 演算子を訪問/選択します。
 public void Visit(ShowText Tj)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Tj | ShowText | テキストを表示する演算子。 |
+| Tj | ShowText | テキスト表示演算子です。 |
 
 ### 関連項目
 
@@ -1289,15 +1289,15 @@ public void Visit(ShowText Tj)
 
 ## Visit(SetGlyphsPositionShowText) {#visit_54}
 
-TJ 演算子を訪問/選択します。
+TJ 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetGlyphsPositionShowText TJ)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | テキストを表示する演算子（個々のグリフ位置を許可）。 |
+| TJ | SetGlyphsPositionShowText | 個々のグリフ位置指定を可能にするテキスト表示演算子です。 |
 
 ### 関連項目
 
@@ -1310,15 +1310,15 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 ## Visit(SetTextLeading) {#visit_65}
 
-TL 演算子を訪問/選択します。
+TL 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetTextLeading TL)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| TL | SetTextLeading | テキストリーディングを設定する演算子。 |
+| TL | SetTextLeading | テキストのリーディングを設定する演算子です。 |
 
 ### 関連項目
 
@@ -1337,9 +1337,9 @@ Tm 演算子を訪問/選択します。
 public void Visit(SetTextMatrix Tm)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Tm | SetTextMatrix | テキストマトリックスとテキスト行マトリックスを設定する演算子。 |
+| Tm | SetTextMatrix | テキスト行列とテキストライン行列を設定する演算子です。 |
 
 ### 関連項目
 
@@ -1358,9 +1358,9 @@ Tr 演算子を訪問/選択します。
 public void Visit(SetTextRenderingMode Tr)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | テキストレンダリングモードを設定する演算子。 |
+| Tr | SetTextRenderingMode | テキスト描画モードを設定する演算子です。 |
 
 ### 関連項目
 
@@ -1379,9 +1379,9 @@ Ts 演算子を訪問/選択します。
 public void Visit(SetTextRise Ts)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Ts | SetTextRise | テキストの上昇を設定する演算子。 |
+| Ts | SetTextRise | テキストの上昇量を設定する演算子です。 |
 
 ### 関連項目
 
@@ -1400,7 +1400,7 @@ Tw 演算子を訪問/選択します。
 public void Visit(SetWordSpacing Tw)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | Tw | SetWordSpacing | 単語間隔を設定する演算子。 |
 
@@ -1415,13 +1415,13 @@ public void Visit(SetWordSpacing Tw)
 
 ## Visit(SetHorizontalTextScaling) {#visit_57}
 
-Tz 演算子を訪問/選択します。
+Tz 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetHorizontalTextScaling Tz)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | Tz | SetHorizontalTextScaling | 水平テキストスケーリングを設定する演算子。 |
 
@@ -1442,9 +1442,9 @@ v 演算子を訪問/選択します。
 public void Visit(CurveTo1 v)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| v | CurveTo1 | パス演算子に曲線セグメントを追加します（初期点を複製）。 |
+| v | CurveTo1 | 曲線セグメントをパスに追加する演算子（開始点が複製されます）。 |
 
 ### 関連項目
 
@@ -1457,15 +1457,15 @@ public void Visit(CurveTo1 v)
 
 ## Visit(EOClip) {#visit_19}
 
-W* 演算子を訪問/選択します。
+W* 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EOClip W_)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| W_ | EOClip | クリッピングパスを設定する演算子（偶数-奇数ルール）。 |
+| W_ | EOClip | クリッピングパスを設定する演算子（偶数-奇数規則）。 |
 
 ### 関連項目
 
@@ -1478,15 +1478,15 @@ public void Visit(EOClip W_)
 
 ## Visit(SetLineWidth) {#visit_60}
 
-w 演算子を訪問/選択します。
+w 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetLineWidth w)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| w | SetLineWidth | 線の幅を設定する演算子。 |
+| w | SetLineWidth | 線幅を設定する演算子。 |
 
 ### 関連項目
 
@@ -1505,9 +1505,9 @@ W 演算子を訪問/選択します。
 public void Visit(Clip W)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| W | Clip | クリッピングパスを設定する演算子（非ゼロ巻き数ルール）。 |
+| W | Clip | クリッピングパスを設定する演算子（非ゼロ winding number ルール）。 |
 
 ### 関連項目
 
@@ -1526,9 +1526,9 @@ y 演算子を訪問/選択します。
 public void Visit(CurveTo2 y)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| y | CurveTo2 | パス演算子に曲線セグメントを追加します（最終点を複製）。 |
+| y | CurveTo2 | 曲線セグメントをパスに追加する演算子（終了点が複製されます）。 |
 
 ### 関連項目
 
@@ -1547,9 +1547,9 @@ public void Visit(CurveTo2 y)
 public void Visit(TextOperator textOperator)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| textOperator | TextOperator | 対応する PDF 演算子のセットを選択するために使用される一般的なテキスト演算子。 |
+| textOperator | TextOperator | 対応する pdf 演算子のセットを選択するために使用される汎用テキスト演算子。 |
 
 ### 関連項目
 
@@ -1558,4 +1558,4 @@ public void Visit(TextOperator textOperator)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
----
+

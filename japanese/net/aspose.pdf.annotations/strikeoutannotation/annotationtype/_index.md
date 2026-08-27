@@ -1,14 +1,14 @@
 ---
-title: StrikeOutAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: StrikeOutAnnotation プロパティ。注釈の種類を取得します
+title: "StrikeOutAnnotation.AnnotationType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StrikeOutAnnotation プロパティ。アノテーションのタイプを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/strikeoutannotation/annotationtype/
 ---
-## StrikeOutAnnotation.AnnotationType プロパティ
+## StrikeOutAnnotation.AnnotationType property
 
-注釈の種類を取得します。
+注釈のタイプを取得します。
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [StrikeOutAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

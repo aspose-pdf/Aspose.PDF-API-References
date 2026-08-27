@@ -1,21 +1,23 @@
 ---
-title: Id.Original
-second_title: Aspose.PDF for .NET API Reference
-description: Id プロパティ。元々作成された時点でのドキュメントの内容に基づく永続的な識別子
+title: "Id.Original"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Id プロパティ。ドキュメントが最初に作成された時点の内容に基づく永続的な識別子です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/id/original/
 ---
-## Id.Original プロパティ
+## Id.Original property
 
-元々作成された時点でのドキュメントの内容に基づく永続的な識別子。
+元々作成された時点のドキュメントの内容に基づく永続的な識別子です。
 
 ```csharp
 public string Original { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Id](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Id](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

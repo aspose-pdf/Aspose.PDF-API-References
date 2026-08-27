@@ -1,12 +1,12 @@
 ---
-title: ReplaceTextStrategy.ReplaceTextStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: ReplaceTextStrategy コンストラクタ。デフォルトコンストラクタ
+title: "ReplaceTextStrategy.ReplaceTextStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ReplaceTextStrategy コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/replacetextstrategy/replacetextstrategy/
 ---
-## ReplaceTextStrategy コンストラクタ
+## ReplaceTextStrategy constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public ReplaceTextStrategy()
 * class [ReplaceTextStrategy](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

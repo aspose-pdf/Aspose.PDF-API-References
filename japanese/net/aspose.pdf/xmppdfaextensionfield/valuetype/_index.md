@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionField.ValueType
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionField プロパティ。XMP 仕様 2004 から引き出されたフィールド値タイプまたは埋め込まれた PDF/A 値タイプ拡張スキーマ。事前定義された XMP タイプ名またはカスタムタイプの名前
+title: "XmpPdfAExtensionField.ValueType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionField プロパティ。フィールドの値タイプは XMP Specification 2004 から取得するか、埋め込み PDF/A 値タイプ拡張スキーマから取得します。事前定義された XMP タイプ名またはカスタムタイプの名前です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/xmppdfaextensionfield/valuetype/
 ---
-## XmpPdfAExtensionField.ValueType プロパティ
+## XmpPdfAExtensionField.ValueType property
 
-フィールド値タイプは、XMP 仕様 2004 から引き出されたもので、または埋め込まれた PDF/A 値タイプ拡張スキーマです。事前定義された XMP タイプ名またはカスタムタイプの名前です。
+フィールド値タイプは XMP Specification 2004 から取得するか、埋め込み PDF/A 値タイプ拡張スキーマから取得します。事前定義された XMP タイプ名またはカスタムタイプの名前です。
 
 ```csharp
 public string ValueType { get; }
@@ -16,6 +16,8 @@ public string ValueType { get; }
 
 ### 関連項目
 
-* クラス [XmpPdfAExtensionField](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

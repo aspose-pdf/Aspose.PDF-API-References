@@ -1,12 +1,12 @@
 ---
-title: PageRange.Start
-second_title: Aspose.PDF for .NET API Reference
-description: PageRange プロパティ。開始ページ番号を取得または設定します
+title: "PageRange.Start"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageRange プロパティ。開始ページ番号を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/pagerange/start/
 ---
-## PageRange.Start プロパティ
+## PageRange.Start property
 
 開始ページ番号を取得または設定します。
 
@@ -19,3 +19,5 @@ public int Start { get; set; }
 * class [PageRange](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

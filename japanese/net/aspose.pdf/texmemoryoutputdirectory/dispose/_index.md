@@ -1,12 +1,12 @@
 ---
-title: TeXMemoryOutputDirectory.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: TeXMemoryOutputDirectory メソッド。インスタンスを破棄します
+title: "TeXMemoryOutputDirectory.Dispose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TeXMemoryOutputDirectory メソッド。インスタンスを破棄します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/texmemoryoutputdirectory/dispose/
 ---
-## TeXMemoryOutputDirectory.Dispose メソッド
+## TeXMemoryOutputDirectory.Dispose method
 
 インスタンスを破棄します。
 
@@ -16,6 +16,8 @@ public virtual void Dispose()
 
 ### 関連項目
 
-* クラス [TeXMemoryOutputDirectory](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

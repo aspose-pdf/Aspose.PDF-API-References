@@ -1,26 +1,28 @@
 ---
-title: GraphicElementCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection メソッド。コレクションに新しい GraphicElement を追加します。コレクション内のすべてのアイテムは同じ Parent を持つ必要があります。
+title: "GraphicElementCollection.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GraphicElementCollection メソッド。新しい GraphicElement をコレクションに追加します。コレクション内のすべての項目は同じ Parent を持つ必要があります。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.vector/graphicelementcollection/add/
 ---
-## GraphicElementCollection.Add メソッド
+## GraphicElementCollection.Add method
 
-コレクションに新しい [`GraphicElement`](../../graphicelement/) を追加します。コレクション内のすべてのアイテムは同じ [`Parent`](../../graphicelement/parent/) を持つ必要があります。
+[`GraphicElement`](../../graphicelement/) をコレクションに新規追加します。コレクション内のすべての項目は同じ [`Parent`](../../graphicelement/parent/) を持つ必要があります。
 
 ```csharp
 public void Add(GraphicElement item)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | GraphicElement | IGraphicElement。 |
+| アイテム | GraphicElement | IGraphicElement. |
 
-### 参照
+### 関連項目
 
-* クラス [GraphicElement](../../graphicelement/)
-* クラス [GraphicElementCollection](../)
-* 名前空間 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

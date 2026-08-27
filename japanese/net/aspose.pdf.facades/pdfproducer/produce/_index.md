@@ -1,14 +1,14 @@
 ---
-title: PdfProducer.Produce
-second_title: Aspose.PDF for .NET API Reference
-description: PdfProducer メソッド。指定されたインポート形式を使用して PDF ストリームを生成します。このサンプルは、CGM ストリームから PDF ストリームを生成する方法を示しています。
+title: "PdfProducer.Produce"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfProducer メソッド。指定されたインポート形式を使用して PDF ストリームを生成します。このサンプルは CGM ストリームから PDF ストリームを生成する方法を示しています。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/pdfproducer/produce/
 ---
 ## Produce(Stream, ImportFormat, Stream) {#produce}
 
-指定されたインポート形式を使用して PDF ストリームを生成します。このサンプルは、CGM ストリームから PDF ストリームを生成する方法を示しています。
+指定されたインポート形式を使用して PDF ストリームを生成します。このサンプルは CGM ストリームから Pdf ストリームを生成する方法を示しています。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -24,10 +24,10 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(Stream inputStream, ImportFormat format, Stream outputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputStream | Stream | 入力ストリーム。 |
-| format | ImportFormat | インポート形式。 |
+| フォーマット | ImportFormat | インポート形式。 |
 | outputStream | Stream | 出力 PDF ストリーム。 |
 
 ### 例外
@@ -35,9 +35,9 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 | 例外 | 条件 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | ファイルが無効な場合に例外がスローされます。 |
-| ArgumentNullException | 入力または出力ストリームが null |
+| ArgumentNullException | 入力または出力ストリームが null です |
 
-### 参照
+### 関連項目
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -48,7 +48,7 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 ## Produce(string, ImportFormat, Stream) {#produce_4}
 
-指定されたインポート形式を使用して PDF ストリームを生成します。このサンプルは、CGM ファイルから PDF ストリームを生成する方法を示しています。
+指定されたインポート形式を使用して PDF ストリームを生成します。このサンプルは CGM ファイルから Pdf ストリームを生成する方法を示しています。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -63,10 +63,10 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(string inputFileName, ImportFormat format, Stream outputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputFileName | String | 入力ファイル名。 |
-| format | ImportFormat | インポート形式。 |
+| フォーマット | ImportFormat | インポート形式。 |
 | outputStream | Stream | 出力 PDF ストリーム。 |
 
 ### 例外
@@ -74,10 +74,10 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 | 例外 | 条件 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | ファイルが無効な場合に例外がスローされます。 |
-| ArgumentNullException | 出力ストリームが null |
-| ArgumentException | 入力ファイル名が空の文字列 |
+| ArgumentNullException | 出力ストリームが null です |
+| ArgumentException | 入力ファイル名が空文字列です |
 
-### 参照
+### 関連項目
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -88,7 +88,7 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 ## Produce(Stream, ImportFormat, string) {#produce_1}
 
-指定されたインポート形式を使用して PDF ファイルを生成します。このサンプルは、CGM ストリームから PDF ファイルを生成する方法を示しています。
+指定されたインポート形式を使用して PDF ファイルを生成します。このサンプルは CGM ストリームから Pdf ファイルを生成する方法を示しています。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -104,10 +104,10 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(Stream inputStream, ImportFormat format, string outputFileName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputStream | Stream | 入力ストリーム。 |
-| format | ImportFormat | インポート形式。 |
+| フォーマット | ImportFormat | インポート形式。 |
 | outputFileName | String | 出力 PDF ファイル |
 
 ### 例外
@@ -115,10 +115,10 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 | 例外 | 条件 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | ファイルが無効な場合に例外がスローされます。 |
-| ArgumentNullException | 入力ストリームが null |
-| ArgumentException | 出力ファイル名が空の文字列 |
+| ArgumentNullException | 入力ストリームが null です |
+| ArgumentException | 出力ファイル名が空文字列です |
 
-### 参照
+### 関連項目
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -129,7 +129,7 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 ## Produce(string, ImportFormat, string) {#produce_5}
 
-指定されたインポート形式を使用して PDF ファイルを生成します。このサンプルは、CGM ファイルから PDF ファイルを生成する方法を示しています。
+指定されたインポート形式を使用して PDF ファイルを生成します。このサンプルは CGM ファイルから Pdf ファイルを生成する方法を示しています。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -141,10 +141,10 @@ PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile);
 public static void Produce(string inputFileName, ImportFormat format, string outputFileName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputFileName | String | 入力ファイル名。 |
-| format | ImportFormat | インポート形式。 |
+| フォーマット | ImportFormat | インポート形式。 |
 | outputFileName | String | 出力 PDF ファイル |
 
 ### 例外
@@ -152,9 +152,9 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 | 例外 | 条件 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | ファイルが無効な場合に例外がスローされます。 |
-| ArgumentException | 入力または出力ファイル名が空の文字列 |
+| ArgumentException | 入力または出力ファイル名が空文字列です |
 
-### 参照
+### 関連項目
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -165,7 +165,7 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 ## Produce(string, ImportOptions, Stream) {#produce_6}
 
-指定されたインポートオプションを使用して PDF ストリームを生成します。このサンプルは、CGM ファイルから PDF ストリームを生成する方法を示しています。
+指定されたインポートオプションを使用して PDF ストリームを生成します。このサンプルは CGM ファイルから Pdf ストリームを生成する方法を示しています。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -181,10 +181,10 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(string inputFileName, ImportOptions options, Stream outputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputFileName | String | 入力ファイル名。 |
-| options | ImportOptions | インポートオプション。 |
+| オプション | ImportOptions | インポート オプション。 |
 | outputStream | Stream | 出力 PDF ストリーム。 |
 
 ### 例外
@@ -192,10 +192,10 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 | 例外 | 条件 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | ファイルが無効な場合に例外がスローされます。 |
-| ArgumentNullException | 出力ストリームが null |
-| ArgumentException | 入力ファイル名が空の文字列 |
+| ArgumentNullException | 出力ストリームが null です |
+| ArgumentException | 入力ファイル名が空文字列です |
 
-### 参照
+### 関連項目
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -206,7 +206,7 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 ## Produce(Stream, ImportOptions, string) {#produce_3}
 
-指定されたインポートオプションを使用して PDF ファイルを生成します。このサンプルは、CGM ストリームから PDF ファイルを生成する方法を示しています。
+指定されたインポートオプションを使用して PDF ファイルを生成します。このサンプルは CGM ストリームから Pdf ファイルを生成する方法を示しています。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -222,10 +222,10 @@ using (FileStream inputStream = File.OpenRead(inputFile))
 public static void Produce(Stream inputStream, ImportOptions options, string outputFileName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputStream | Stream | 入力ストリーム。 |
-| options | ImportOptions | インポートオプション。 |
+| オプション | ImportOptions | インポート オプション。 |
 | outputFileName | String | 出力 PDF ファイル。 |
 
 ### 例外
@@ -233,10 +233,10 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 | 例外 | 条件 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | ファイルが無効な場合に例外がスローされます。 |
-| ArgumentNullException | 入力ストリームが null |
-| ArgumentException | 出力ファイル名が空の文字列 |
+| ArgumentNullException | 入力ストリームが null です |
+| ArgumentException | 出力ファイル名が空文字列です |
 
-### 参照
+### 関連項目
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -247,7 +247,7 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 ## Produce(string, ImportOptions, string) {#produce_7}
 
-指定されたインポートオプションを使用して PDF ファイルを生成します。このサンプルは、CGM ファイルから PDF ファイルを生成する方法を示しています。
+指定されたインポートオプションを使用して PDF ファイルを生成します。このサンプルは CGM ファイルから PDF ファイルを生成する方法を示しています。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -260,10 +260,10 @@ PdfProducer.Produce(inputStream, importOptions, outputStream);
 public static void Produce(string inputFileName, ImportOptions options, string outputFileName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputFileName | String | 入力ファイル名。 |
-| options | ImportOptions | インポートオプション。 |
+| オプション | ImportOptions | インポート オプション。 |
 | outputFileName | String | 出力 PDF ストリーム。 |
 
 ### 例外
@@ -271,9 +271,9 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 | 例外 | 条件 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | ファイルが無効な場合に例外がスローされます。 |
-| ArgumentException | 入力または出力ファイル名が空の文字列 |
+| ArgumentException | 入力または出力ファイル名が空文字列です |
 
-### 参照
+### 関連項目
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -284,7 +284,7 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 ## Produce(Stream, ImportOptions, Stream) {#produce_2}
 
-指定されたインポートオプションを使用して PDF ファイルを生成します。このサンプルは、CGM ストリームから PDF ストリームを生成する方法を示しています。
+指定されたインポートオプションを使用して PDF ファイルを生成します。このサンプルは CGM ストリームから Pdf ストリームを生成する方法を示しています。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -301,10 +301,10 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(Stream inputStream, ImportOptions options, Stream outputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | inputStream | Stream | 入力ストリーム。 |
-| options | ImportOptions | インポートオプション。 |
+| オプション | ImportOptions | インポート オプション。 |
 | outputStream | Stream | 出力 PDF ストリーム。 |
 
 ### 例外
@@ -312,11 +312,13 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 | 例外 | 条件 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | ファイルが無効な場合に例外がスローされます。 |
-| ArgumentNullException | 入力または出力ストリームが null。 |
+| ArgumentNullException | 入力または出力ストリームが null です。 |
 
-### 参照
+### 関連項目
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

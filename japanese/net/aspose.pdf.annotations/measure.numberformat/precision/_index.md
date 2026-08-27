@@ -1,21 +1,23 @@
 ---
-title: Measure.NumberFormat.Precision
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat プロパティ。FractionDisplayment が ShowAsDecimal の場合、この値は小数値の精度です。この値は 10 の倍数でなければなりません。デフォルトは 100 です。
+title: "Measure.NumberFormat.Precision"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NumberFormat プロパティ。FractionDisplayment が ShowAsDecimal の場合、この値は小数部の精度です。10 の倍数である必要があります。デフォルトは 100 です。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.annotations/measure.numberformat/precision/
 ---
-## Measure.NumberFormat.Precision プロパティ
+## Measure.NumberFormat.Precision property
 
-FractionDisplayment が ShowAsDecimal の場合、この値は小数値の精度です。この値は 10 の倍数でなければなりません。デフォルトは 100 です。
+FractionDisplayment が ShowAsDecimal の場合、この値は分数値の精度です。10 の倍数である必要があります。デフォルトは 100 です。
 
 ```csharp
 public int Precision { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [NumberFormat](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

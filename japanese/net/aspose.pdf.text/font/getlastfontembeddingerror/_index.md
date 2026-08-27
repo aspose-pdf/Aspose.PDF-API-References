@@ -1,14 +1,14 @@
 ---
-title: Font.GetLastFontEmbeddingError
-second_title: Aspose.PDF for .NET API Reference
-description: Font メソッド。このメソッドの目的は、フォントの埋め込みが失敗した場合にエラーの説明を返すことです。エラーケースがない場合は空の文字列を返します。
+title: "Font.GetLastFontEmbeddingError"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Font メソッド。このメソッドの目的は、フォントの埋め込みが失敗した場合のエラー説明を返すことです。エラーがない場合は空文字列を返します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.text/font/getlastfontembeddingerror/
 ---
-## Font.GetLastFontEmbeddingError メソッド
+## Font.GetLastFontEmbeddingError method
 
-このメソッドの目的は、フォントの埋め込みが失敗した場合にエラーの説明を返すことです。エラーケースがない場合は空の文字列を返します。
+このメソッドの目的は、フォントの埋め込みが失敗した場合にエラーの説明を返すことです。エラーがなければ空文字列を返します。
 
 ```csharp
 public string GetLastFontEmbeddingError()
@@ -18,8 +18,10 @@ public string GetLastFontEmbeddingError()
 
 エラーの説明
 
-### 参照
+### 関連項目
 
-* クラス [Font](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

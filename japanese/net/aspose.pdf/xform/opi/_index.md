@@ -1,22 +1,24 @@
 ---
-title: XForm.Opi
-second_title: Aspose.PDF for .NET API Reference
-description: XForm プロパティ。オープンプレプレスインターフェース OPI を取得します
+title: "XForm.Opi"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XForm プロパティ。Open Prepress Interface (OPI) を取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/xform/opi/
 ---
-## XForm.Opi プロパティ
+## XForm.Opi property
 
-オープンプレプレスインターフェース (OPI) を取得します。
+Open Prepress Interface (OPI) を取得します。
 
 ```csharp
 public Opi Opi { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Opi](../../opi/)
-* クラス [XForm](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Opi](../../opi/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

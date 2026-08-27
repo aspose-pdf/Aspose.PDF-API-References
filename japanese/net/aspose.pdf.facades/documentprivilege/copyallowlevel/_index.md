@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.CopyAllowLevel
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege プロパティ。ドキュメントの権限のコピー レベルを取得および設定します。Adobe Professionals の権限設定と同様です。0 なし。1 視覚障害者のためのスクリーンリーダーデバイスへのテキストアクセスを有効にします。2 テキスト、画像、およびその他のコンテンツのコピーを有効にします。
+title: "DocumentPrivilege.CopyAllowLevel"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentPrivilege プロパティ。ドキュメント権限のコピー レベルを取得および設定します。Adobe Professionals の権限設定と同様です。0 なし。1 視覚障害者向けスクリーンリーダーデバイスのテキストアクセスを有効にする。2 テキスト、画像、その他のコンテンツのコピーを有効にする"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf.facades/documentprivilege/copyallowlevel/
 ---
-## DocumentPrivilege.CopyAllowLevel プロパティ
+## DocumentPrivilege.CopyAllowLevel property
 
-ドキュメントの権限のコピー レベルを取得および設定します。Adobe Professional の権限設定と同様です。0: なし。1: 視覚障害者のためのスクリーンリーダーデバイスへのテキストアクセスを有効にします。2: テキスト、画像、およびその他のコンテンツのコピーを有効にします。
+ドキュメントの権限のコピーレベルを取得および設定します。Adobe Professional の権限設定と同様です。0: なし。1: 視覚障害者向けスクリーンリーダーデバイスのテキストアクセスを有効にする。2: テキスト、画像、その他のコンテンツのコピーを有効にする。
 
 ```csharp
 public int CopyAllowLevel { get; set; }
@@ -20,6 +20,8 @@ public int CopyAllowLevel { get; set; }
 
 ### 関連項目
 
-* クラス [DocumentPrivilege](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

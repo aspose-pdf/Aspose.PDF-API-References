@@ -1,30 +1,32 @@
 ---
-title: Page.AsByteArray
-second_title: Aspose.PDF for .NET API Reference
-description: Page メソッド。現在のページをビットマップとして変換し、その後バイトの配列を返します。
+title: "Page.AsByteArray"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page メソッド。現在のページをビットマップに変換し、バイト配列を返します"
 type: docs
 weight: 370
 url: /ja/net/aspose.pdf/page/asbytearray/
 ---
-## Page.AsByteArray メソッド
+## Page.AsByteArray method
 
-現在のページをビットマップとして変換し、その後バイトの配列を返します。
+現在のページをビットマップに変換し、バイト配列を返します。
 
 ```csharp
 public byte[] AsByteArray(Resolution resolution)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| resolution | Resolution | 解像度。 |
+| resolution | Resolution | 解像度です。 |
 
 ### 戻り値
 
-変換された画像バイトの配列。
+変換された画像バイト配列です。
 
-### 参照
+### 関連項目
 
-* クラス [Resolution](../../../aspose.pdf.devices/resolution/)
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

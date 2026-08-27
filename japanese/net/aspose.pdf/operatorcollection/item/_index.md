@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection プロパティ。インデックスによってオペレーターを取得します
+title: "OperatorCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OperatorCollection プロパティ。インデックスで演算子を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/operatorcollection/item/
 ---
-## OperatorCollection インデクサー
+## OperatorCollection indexer
 
-インデックスによってオペレーターを取得します。
+インデックスでオペレーターを取得します。
 
 ```csharp
 public override Operator this[int index] { get; set; }
@@ -16,15 +16,15 @@ public override Operator this[int index] { get; set; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | オペレーターのインデックス。番号付けは 1 から始まります。 |
+| インデックス | 演算子のインデックス。番号は 1 から始まります。 |
 
 ### 戻り値
 
-要求されたインデックスからのオペレーター
+要求されたインデックスの演算子
 
 ## 例
 
-例は、インデックスによってページコンテンツのオペレーターを取得する方法を示しています。
+例では、インデックスでページコンテンツの演算子を取得する方法を示しています。
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -32,9 +32,11 @@ OperatorCollection oc = doc.Pages[1].Contents;
 Operator first = oc[1];
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../operator/)
-* クラス [OperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

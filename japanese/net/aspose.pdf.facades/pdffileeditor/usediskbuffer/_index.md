@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.UseDiskBuffer
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor プロパティ。このオプションを使用すると、宛先ドキュメントは定期的にディスクに保存され、その後の連結は増分更新として適用されます。
+title: "PdfFileEditor.UseDiskBuffer"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor プロパティ。このオプションを使用すると、宛先ドキュメントが定期的にディスクに保存され、以降の結合は増分更新として適用されます。"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/pdffileeditor/usediskbuffer/
 ---
-## PdfFileEditor.UseDiskBuffer プロパティ
+## PdfFileEditor.UseDiskBuffer property
 
-このオプションを使用すると、宛先ドキュメントは定期的にディスクに保存され、その後の連結は増分更新として適用されます。
+このオプションを使用すると、宛先ドキュメントが定期的にディスクに保存され、以降の結合は増分更新として適用されます。
 
 ```csharp
 public bool UseDiskBuffer { get; set; }
@@ -16,6 +16,8 @@ public bool UseDiskBuffer { get; set; }
 
 ### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

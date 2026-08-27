@@ -1,28 +1,28 @@
 ---
-title: PdfContentEditor.CreateText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。PDF ドキュメントにテキスト注釈を作成します
+title: "PdfContentEditor.CreateText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。PDF ドキュメントにテキストアノテーションを作成します"
 type: docs
 weight: 290
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createtext/
 ---
-## PdfContentEditor.CreateText メソッド
+## PdfContentEditor.CreateText method
 
-PDF ドキュメントにテキスト注釈を作成します
+PDFドキュメントにテキスト注釈を作成します
 
 ```csharp
 public void CreateText(Rectangle rect, string title, string contents, bool open, string icon, 
     int page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈矩形。 |
-| title | String | 注釈のタイトル。 |
-| contents | String | 注釈の内容。 |
-| open | Boolean | 注釈が最初に表示されるときに開いているかどうかを指定するフラグ。 |
-| icon | String | 注釈を表示する際に使用されるアイコンの名前。この値は次のいずれかです: "Comment", "Key", "Note", "Help", "NewParagraph", "Paragraph", "Insert" |
-| page | Int32 | テキスト注釈が作成される元のページの番号。 |
+| rect | Rectangle | ページ上でアノテーションの位置を定義するアノテーション矩形です。 |
+| title | String | アノテーションのタイトルです。 |
+| contents | String | アノテーションの内容です。 |
+| open | Boolean | 注釈が最初に開いた状態で表示されるかどうかを指定するフラグです。 |
+| icon | String | 注釈の表示に使用されるアイコンの名前です。この値は次のいずれかにできます: "Comment", "Key", "Note", "Help", "NewParagraph", "Paragraph", "Insert" |
+| ページ | Int32 | テキスト注釈が作成される元の Page 番号です。 |
 
 ## 例
 
@@ -36,6 +36,8 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

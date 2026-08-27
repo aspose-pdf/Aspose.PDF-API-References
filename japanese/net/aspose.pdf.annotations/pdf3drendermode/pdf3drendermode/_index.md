@@ -1,7 +1,7 @@
 ---
-title: PDF3DRenderMode.PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode コンストラクタ。PDF3DRenderMode クラスの新しいインスタンスを初期化します
+title: "PDF3DRenderMode.PDF3DRenderMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DRenderMode コンストラクタ。 PDF3DRenderMode クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/
@@ -14,9 +14,9 @@ url: /ja/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/
 public PDF3DRenderMode(RenderModeType subtype)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| subtype | RenderModeType | レンダーモードの種類。 |
+| サブタイプ | RenderModeType | レンダーモードの種類です。 |
 
 ### 関連項目
 
@@ -35,9 +35,9 @@ public PDF3DRenderMode(RenderModeType subtype)
 public PDF3DRenderMode(string typeName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| typeName | String | 型の名前。 |
+| typeName | String | 型の名前です。 |
 
 ### 例外
 
@@ -50,3 +50,5 @@ public PDF3DRenderMode(string typeName)
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

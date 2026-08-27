@@ -1,21 +1,23 @@
 ---
-title: LineAnnotation.ShowCaption
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation プロパティ。内容がキャプションとして表示されるべきかどうかを決定するブールフラグを取得または設定します。
+title: "LineAnnotation.ShowCaption"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LineAnnotation プロパティ。内容をキャプションとして表示するかどうかを決定するブールフラグを取得または設定します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.annotations/lineannotation/showcaption/
 ---
-## LineAnnotation.ShowCaption プロパティ
+## LineAnnotation.ShowCaption property
 
-内容がキャプションとして表示されるべきかどうかを決定するブールフラグを取得または設定します。
+内容をキャプションとして表示するかどうかを決定するブールフラグを取得または設定します。
 
 ```csharp
 public bool ShowCaption { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [LineAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

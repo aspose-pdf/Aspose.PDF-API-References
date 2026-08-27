@@ -1,12 +1,12 @@
 ---
-title: Annotation.Width
-second_title: Aspose.PDF for .NET API Reference
-description: 注釈プロパティ。注釈の幅を取得または設定します
+title: "Annotation.Width"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Annotation プロパティ。アノテーションの幅を取得または設定します"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf.annotations/annotation/width/
 ---
-## Annotation.Width プロパティ
+## Annotation.Width property
 
 注釈の幅を取得または設定します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.annotations/annotation/width/
 public virtual double Width { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Annotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,45 +1,47 @@
 ---
-title: Class PdfToDocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToDocOptions クラス。DocConverter プラグインの PDF から DOC への変換オプションを表します。
+title: "クラス PdfToDocOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.PdfToDocOptions クラス。DocConverter プラグイン用の PDF から DOC への変換オプションを表します。"
 type: docs
-weight: 9090
+weight: 9240
 url: /ja/net/aspose.pdf.plugins/pdftodocoptions/
 ---
-## PdfToDocOptions クラス
+## PdfToDocOptions class
 
-[`DocConverter`](../docconverter/) プラグインの PDF から DOC への変換オプションを表します。
+[`DocConverter`](../docconverter/) プラグイン用の PDF から DOC への変換オプションを表します。
 
 ```csharp
 public sealed class PdfToDocOptions : PdfConverterOptions
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [PdfToDocOptions](pdftodocoptions/#constructor)() | デフォルトオプションで `PdfToDocOptions` オブジェクトの新しいインスタンスを初期化します。 |
-| [PdfToDocOptions](pdftodocoptions/#constructor_1)(SaveFormat, ConversionMode) | 指定されたフォーマットとモードのために `PdfToDocOptions` オブジェクトの新しいインスタンスを初期化します。 |
+| [PdfToDocOptions](pdftodocoptions/#constructor)() | `PdfToDocOptions` オブジェクトの新しいインスタンスをデフォルトオプションで初期化します。 |
+| [PdfToDocOptions](pdftodocoptions/#constructor_1)(SaveFormat, ConversionMode) | 指定された形式とモード用に `PdfToDocOptions` オブジェクトの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ConversionMode](../../aspose.pdf.plugins/pdftodocoptions/conversionmode/) { get; set; } | PDF ドキュメントがワードプロセッシングドキュメントにどのように変換されるかを制御します。 |
-| [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | PdfConverterOptions プラグインデータコレクションを返します。 |
+| [ConversionMode](../../aspose.pdf.plugins/pdftodocoptions/conversionmode/) { get; set; } | PDF ドキュメントがワードプロセッシング文書に変換される方法を制御できるようにします。 |
+| [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | PdfConverterOptions プラグインのデータコレクションを返します。 |
 | override [OperationName](../../aspose.pdf.plugins/pdftodocoptions/operationname/) { get; } | 操作の名前を取得します。 |
 | [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | 保存操作結果のために追加されたターゲットのコレクションを取得します。 |
-| [SaveFormat](../../aspose.pdf.plugins/pdftodocoptions/saveformat/) { get; set; } | 出力ドキュメントの保存形式。 |
+| [SaveFormat](../../aspose.pdf.plugins/pdftodocoptions/saveformat/) { get; set; } | 出力文書の保存形式。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfconverteroptions/addinput/)(IDataSource) | PdfConverter プラグインデータコレクションに新しいデータソースを追加します。 |
-| [AddOutput](../../aspose.pdf.plugins/pdfconverteroptions/addoutput/)(IDataSource) | PdfToXLSXConverterOptions プラグインデータコレクションに新しいデータソースを追加します。 |
+| [AddInput](../../aspose.pdf.plugins/pdfconverteroptions/addinput/)(IDataSource) | PdfConverter プラグインのデータコレクションに新しいデータソースを追加します。 |
+| [AddOutput](../../aspose.pdf.plugins/pdfconverteroptions/addoutput/)(IDataSource) | PdfToXLSXConverterOptions プラグインのデータコレクションに新しいデータソースを追加します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfConverterOptions](../pdfconverteroptions/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfConverterOptions](../pdfconverteroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,23 +1,23 @@
 ---
-title: FormEditor.DelListItem
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。リストフィールドからアイテムを削除します
+title: "FormEditor.DelListItem"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor メソッド。リストフィールドから項目を削除します"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf.facades/formeditor/dellistitem/
 ---
-## FormEditor.DelListItem メソッド
+## FormEditor.DelListItem method
 
-リストフィールドからアイテムを削除します。
+リストフィールドから項目を削除します。
 
 ```csharp
 public void DelListItem(string fieldName, string itemName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fieldName | String | フィールドの名前。 |
-| itemName | String | 削除する必要があるアイテムの名前。 |
+| itemName | String | 削除すべき項目の名前。 |
 
 ## 例
 
@@ -26,8 +26,10 @@ formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_DelLis
 formEditor.DelListItem("listboxField", "item2");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

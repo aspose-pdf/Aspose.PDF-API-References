@@ -1,30 +1,32 @@
 ---
-title: AnnotationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection メソッド。コレクションから指定された注釈を削除します
+title: "AnnotationCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationCollection メソッド。指定されたアノテーションをコレクションから削除します"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.annotations/annotationcollection/remove/
 ---
-## AnnotationCollection.Remove メソッド
+## AnnotationCollection.Remove method
 
-コレクションから指定された注釈を削除します。
+指定された注釈をコレクションから削除します。
 
 ```csharp
 public bool Remove(Annotation annotation)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| annotation | Annotation | 削除される注釈。 |
+| 注釈 | 注釈 | 削除されるアノテーション。 |
 
 ### 戻り値
 
-True - 注釈が削除された場合; それ以外の場合は false。
+True - アノテーションが削除された場合; それ以外の場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [Annotation](../../annotation/)
-* クラス [AnnotationCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

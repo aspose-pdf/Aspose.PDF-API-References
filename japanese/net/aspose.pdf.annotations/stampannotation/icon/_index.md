@@ -1,14 +1,14 @@
 ---
-title: StampAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: StampAnnotation プロパティ。ゴム印のアイコンを取得または設定します
+title: "StampAnnotation.Icon"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StampAnnotation プロパティ。ゴムスタンプ用のアイコンを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/stampannotation/icon/
 ---
-## StampAnnotation.Icon プロパティ
+## StampAnnotation.Icon property
 
-ゴム印のアイコンを取得または設定します。
+ゴムスタンプのアイコンを取得または設定します。
 
 ```csharp
 public StampIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public StampIcon Icon { get; set; }
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

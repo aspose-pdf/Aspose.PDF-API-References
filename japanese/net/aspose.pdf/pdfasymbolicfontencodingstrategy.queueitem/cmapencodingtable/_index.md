@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable
-second_title: Aspose.PDF for .NET API Reference
-description: QueueItem プロパティ。CMapEncodingTableType 列挙体を介してエンコーディングサブテーブルを指定します
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "QueueItem プロパティ。CMapEncodingTableType列挙体を使用してエンコーディングサブテーブルを指定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable/
 ---
-## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable プロパティ
+## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable property
 
-[`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) 列挙体を介してエンコーディングサブテーブルを指定します
+エンコーディングサブテーブルを[`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)列挙体で指定します
 
 ```csharp
 public CMapEncodingTableType CMapEncodingTable { get; set; }
@@ -20,3 +20,5 @@ public CMapEncodingTableType CMapEncodingTable { get; set; }
 * class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

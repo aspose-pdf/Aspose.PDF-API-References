@@ -1,14 +1,14 @@
 ---
-title: Enum ImageFilterType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImageFilterType enum. 列挙型は画像フィルタータイプを表します
+title: "列挙型 ImageFilterType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ImageFilterType 列挙型。画像フィルタータイプを表す列挙体"
 type: docs
-weight: 5890
+weight: 6020
 url: /ja/net/aspose.pdf/imagefiltertype/
 ---
-## ImageFilterType 列挙型
+## ImageFilterType enumeration
 
-列挙型は画像フィルタータイプを表します。
+画像フィルタータイプを表す列挙体です。
 
 ```csharp
 public enum ImageFilterType
@@ -18,12 +18,14 @@ public enum ImageFilterType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Jpeg2000 | `0` | Jpeg 2000. |
-| Jpeg | `1` | Jpeg. |
-| Flate | `2` | Flate. |
-| CCITTFax | `3` | CCIT Fax. |
+| Jpeg2000 | `0` | Jpeg 2000。 |
+| Jpeg | `1` | Jpeg。 |
+| Flate | `2` | Flate。 |
+| CCITTFax | `3` | CCIT Fax。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

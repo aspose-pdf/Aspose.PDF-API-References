@@ -1,14 +1,14 @@
 ---
-title: Font.IsEmbedded
-second_title: Aspose.PDF for .NET API Reference
-description: フォントプロパティ。フォントが埋め込まれているかどうかを示す値を取得または設定します。IFontに基づくフォントは自動的にサブセット化され、埋め込まれます
+title: "Font.IsEmbedded"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Font プロパティ。フォントが埋め込まれているかどうかを示す値を取得または設定します。IFont に基づく Font は自動的にサブセット化され、埋め込まれます。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.text/font/isembedded/
 ---
-## Font.IsEmbedded プロパティ
+## Font.IsEmbedded property
 
-フォントが埋め込まれているかどうかを示す値を取得または設定します。IFontに基づくフォントは自動的にサブセット化され、埋め込まれます
+フォントが埋め込まれているかどうかを示す値を取得または設定します。IFont に基づくフォントは自動的にサブセット化され、埋め込まれます。
 
 ```csharp
 public bool IsEmbedded { get; set; }
@@ -16,33 +16,35 @@ public bool IsEmbedded { get; set; }
 
 ## 例
 
-次の例は、フォントを見つけて埋め込まれているとしてマークし、ドキュメントのページ上のテキストを検索してテキストフォントを置き換える方法を示しています。
+以下の例は、フォントを検索し、埋め込みとしてマークし、document のページ上でテキストを検索してテキストフォントを置換する方法を示しています。
 
 ```csharp
-// Create font and mark it to be embedded
+// フォントを作成し、埋め込み対象としてマークします。
 Font font = FontRepository.FindFont("Arial");
 font.IsEmbedded = true;
 
-// open document
+// ドキュメントを開く
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// create TextFragmentAbsorber object to find all "hello world" text occurrences
+// すべての "hello world" テキスト出現箇所を検索するために TextFragmentAbsorber オブジェクトを作成します
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-// accept the absorber for first page
+// 最初のページに対して absorber を受け入れます。
 doc.Pages[1].Accept(absorber);
 
-// change font for the first text occurrence
+// 最初のテキスト出現箇所のフォントを変更します
 absorber.TextFragments[1].TextState.Font = font;
 
-// save document
+// ドキュメントを保存する
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### 関連項目
 
-* クラス [TextFragmentAbsorber](../../textfragmentabsorber/)
-* クラス [FontRepository](../../fontrepository/)
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [Font](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [FontRepository](../../fontrepository/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

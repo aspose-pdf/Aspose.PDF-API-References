@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.RubyPosition
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey フィールド。RubyPosition 属性 レイアウト属性の所有者
+title: "AttributeKey.RubyPosition"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeKey フィールド。RubyPosition 属性 Layout 属性 所有者"
 type: docs
 weight: 270
 url: /ja/net/aspose.pdf.logicalstructure/attributekey/rubyposition/
 ---
-## AttributeKey.RubyPosition フィールド
+## AttributeKey.RubyPosition field
 
-RubyPosition 属性（レイアウト属性の所有者）。
+RubyPosition 属性 (Layout 属性の所有者)。
 
 ```csharp
 public static readonly AttributeKey RubyPosition;
@@ -16,6 +16,8 @@ public static readonly AttributeKey RubyPosition;
 
 ### 関連項目
 
-* クラス [AttributeKey](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

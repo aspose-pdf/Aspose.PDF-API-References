@@ -1,14 +1,14 @@
 ---
-title: HeaderFooter.IsClipExtraContent
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooter プロパティ。クリップの余分なコンテンツを取得または設定します
+title: "HeaderFooter.IsClipExtraContent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HeaderFooter プロパティ。余分なコンテンツをクリップするかどうかを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/headerfooter/isclipextracontent/
 ---
-## HeaderFooter.IsClipExtraContent プロパティ
+## HeaderFooter.IsClipExtraContent property
 
-クリップの余分なコンテンツを取得または設定します。
+余分なコンテンツをクリップするかどうかを取得または設定します。
 
 ```csharp
 public bool IsClipExtraContent { get; set; }
@@ -16,6 +16,8 @@ public bool IsClipExtraContent { get; set; }
 
 ### 関連項目
 
-* クラス [HeaderFooter](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

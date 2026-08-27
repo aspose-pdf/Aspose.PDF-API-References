@@ -1,7 +1,7 @@
 ---
-title: NumberField.NumberField
-second_title: Aspose.PDF for .NET API Reference
-description: NumberField コンストラクタ。NumberField クラスの新しいインスタンスを初期化します。
+title: "NumberField.NumberField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NumberField コンストラクタ。NumberField クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/numberfield/numberfield/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.forms/numberfield/numberfield/
 public NumberField()
 ```
 
-### See Also
+### 関連項目
 
 * class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -30,12 +30,12 @@ public NumberField()
 public NumberField(Page page, Rectangle rect)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | テキストフィールドが配置されるページ。 |
-| rect | Rectangle | フィールドがページ上に配置される矩形。 |
+| ページ | ページ | テキストフィールドが配置されているページです。 |
+| rect | Rectangle | ページ上にフィールドが配置される Rectangle。 |
 
-### See Also
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -53,15 +53,17 @@ public NumberField(Page page, Rectangle rect)
 public NumberField(Document doc, Rectangle rect)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | フィールドが作成されるドキュメント。 |
-| rect | Rectangle | フィールドの矩形。 |
+| ドキュメント | Document | フィールドが作成される Document。 |
+| rect | Rectangle | フィールドの矩形です。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。フィールドフラグを設定します
+title: "FormEditor.SetFieldAppearance"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor メソッド。フィールドフラグを設定します。"
 type: docs
 weight: 280
 url: /ja/net/aspose.pdf.facades/formeditor/setfieldappearance/
 ---
-## FormEditor.SetFieldAppearance メソッド
+## FormEditor.SetFieldAppearance method
 
 フィールドフラグを設定します
 
@@ -14,10 +14,10 @@ url: /ja/net/aspose.pdf.facades/formeditor/setfieldappearance/
 public bool SetFieldAppearance(string fieldName, AnnotationFlags flags)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | String | フラグを更新するフィールドの名前。 |
-| flags | AnnotationFlags | フィールドのフラグ。 |
+| fieldName | String | フラグを更新すべきフィールドの名前。 |
+| フラグ | AnnotationFlags | フィールドのフラグ。 |
 
 ### 戻り値
 
@@ -37,3 +37,5 @@ formEditor.SetFieldAppearance("Phone", AnnotationFlags.NoView | AnnotationFlags.
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

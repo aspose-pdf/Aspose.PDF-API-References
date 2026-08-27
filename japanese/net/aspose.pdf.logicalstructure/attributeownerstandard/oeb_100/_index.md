@@ -1,21 +1,23 @@
 ---
-title: AttributeOwnerStandard.Oeb_100
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard フィールド。OEB1.00 属性オーナー
+title: "AttributeOwnerStandard.Oeb_100"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeOwnerStandard フィールド。OEB1.00 属性所有者"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.logicalstructure/attributeownerstandard/oeb_100/
 ---
-## AttributeOwnerStandard.Oeb_100 フィールド
+## AttributeOwnerStandard.Oeb_100 field
 
-OEB-1.00 属性オーナー。
+OEB-1.00 属性所有者。
 
 ```csharp
 public static readonly AttributeOwnerStandard Oeb_100;
 ```
 
-### 関連情報
+### 関連項目
 
-* クラス [AttributeOwnerStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

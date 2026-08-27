@@ -1,14 +1,14 @@
 ---
-title: FormFieldSetOptions.FormFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldSetOptions コンストラクタ。デフォルトのコンストラクタ
+title: "FormFieldSetOptions.FormFieldSetOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldSetOptions コンストラクタ。 デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/formfieldsetoptions/formfieldsetoptions/
 ---
-## FormFieldSetOptions コンストラクタ
+## FormFieldSetOptions constructor
 
-デフォルトのコンストラクタです。
+デフォルトコンストラクタです。
 
 ```csharp
 public FormFieldSetOptions()
@@ -19,3 +19,5 @@ public FormFieldSetOptions()
 * class [FormFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

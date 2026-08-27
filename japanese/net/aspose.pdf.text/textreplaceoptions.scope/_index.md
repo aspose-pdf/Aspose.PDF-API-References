@@ -1,14 +1,14 @@
 ---
-title: Enum TextReplaceOptions.Scope
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextReplaceOptionsScope 列挙型。テキスト置換操作が適用される範囲はデフォルトで REPLACE_FIRST です。この廃止されたオプションは互換性のために保持されました。PdfContentEditor に影響を与え、TextFragmentAbsorber には影響を与えません。
+title: "列挙型 TextReplaceOptions.Scope"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.TextReplaceOptionsScope 列挙型。テキスト置換操作が適用されるスコープで、デフォルトは REPLACE_FIRST です。この廃止されたオプションは互換性のために保持されています。PdfContentEditor に影響し、TextFragmentAbsorber には影響しません。"
 type: docs
-weight: 11030
+weight: 11220
 url: /ja/net/aspose.pdf.text/textreplaceoptions.scope/
 ---
-## TextReplaceOptions.Scope 列挙型
+## TextReplaceOptions.Scope enumeration
 
-テキスト置換操作が適用される範囲はデフォルトで REPLACE_FIRST です。この廃止されたオプションは互換性のために保持されました。PdfContentEditor に影響を与え、TextFragmentAbsorber には影響を与えません。
+テキスト置換操作が適用されるスコープで、デフォルトは REPLACE_FIRST です。この廃止されたオプションは互換性のために保持されています。PdfContentEditor に影響し、TextFragmentAbsorber には影響しません。
 
 ```csharp
 public enum Scope
@@ -18,11 +18,13 @@ public enum Scope
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| REPLACE_FIRST | `0` | 影響を受ける各ページのテキストの最初の出現のみを置換します |
-| REPLACE_ALL | `1` | 影響を受けるすべてのページのすべてのテキストの出現を置換します |
+| REPLACE_FIRST | `0` | 影響を受けた各ページでテキストの最初の出現のみを置換します。 |
+| REPLACE_ALL | `1` | 影響を受けたすべてのページでテキストのすべての出現箇所を置換します。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextReplaceOptions](../textreplaceoptions/)
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* class [TextReplaceOptions](../textreplaceoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

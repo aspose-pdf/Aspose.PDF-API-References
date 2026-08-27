@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection プロパティ。コレクションアイテムの数。VisibleCount と混同しないでください。VisibleCount はすべてのレベルでの可視アウトラインアイテムの数を取得します。
+title: "OutlineItemCollection.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineItemCollection プロパティ。コレクション項目の数。VisibleCount と混同しないでください。VisibleCount はすべてのレベルで表示されているアウトライン項目の数を取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/outlineitemcollection/count/
 ---
-## OutlineItemCollection.Count プロパティ
+## OutlineItemCollection.Count property
 
-コレクションアイテムの数。VisibleCount と混同しないでください: VisibleCount はすべてのレベルでの可視アウトラインアイテムの数を取得します。
+コレクション項目の数です。VisibleCount と混同しないでください：VisibleCount はすべてのレベルで表示されるアウトライン項目の数を取得します。
 
 ```csharp
 public override int Count { get; }
@@ -16,6 +16,8 @@ public override int Count { get; }
 
 ### 関連項目
 
-* クラス [OutlineItemCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

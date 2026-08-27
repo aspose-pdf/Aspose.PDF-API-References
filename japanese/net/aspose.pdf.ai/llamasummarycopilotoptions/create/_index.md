@@ -1,7 +1,7 @@
 ---
-title: LlamaSummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions メソッド。LlamaSummaryCopilotOptions の新しいインスタンスを作成します。
+title: "LlamaSummaryCopilotOptions.Create"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LlamaSummaryCopilotOptions メソッド。LlamaSummaryCopilotOptions の新しいインスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/llamasummarycopilotoptions/create/
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf.ai/llamasummarycopilotoptions/create/
 public static LlamaSummaryCopilotOptions Create()
 ```
 
-### Return Value
+### 戻り値
 
-[`LlamaSummaryCopilotOptions`](../) の新しいインスタンス。
+[`LlamaSummaryCopilotOptions`](../) の新しいインスタンスです。
 
-### See Also
+### 関連項目
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -34,16 +34,18 @@ public static LlamaSummaryCopilotOptions Create()
 public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | config | Action`1 | オプションを構成するためのデリゲート。 |
 
-### Return Value
+### 戻り値
 
-構成された [`LlamaSummaryCopilotOptions`](../) のインスタンス。
+[`LlamaSummaryCopilotOptions`](../) の構成済みインスタンスです。
 
-### See Also
+### 関連項目
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

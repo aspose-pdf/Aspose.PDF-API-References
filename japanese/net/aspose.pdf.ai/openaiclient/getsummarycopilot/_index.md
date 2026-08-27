@@ -1,33 +1,35 @@
 ---
-title: OpenAIClient.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。指定されたオプションを持つ ISummaryCopilot のインスタンスを取得します。
+title: "OpenAIClient.GetSummaryCopilot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。指定されたオプションで ISummaryCopilot のインスタンスを取得します。"
 type: docs
-weight: 290
+weight: 300
 url: /ja/net/aspose.pdf.ai/openaiclient/getsummarycopilot/
 ---
-## OpenAIClient.GetSummaryCopilot メソッド
+## OpenAIClient.GetSummaryCopilot method
 
-指定されたオプションを持つ [`ISummaryCopilot`](../../isummarycopilot/) のインスタンスを取得します。
+指定されたオプションで [`ISummaryCopilot`](../../isummarycopilot/) のインスタンスを取得します。
 
 ```csharp
 public ISummaryCopilot GetSummaryCopilot(
     ISummaryCopilotOptions<OpenAISummaryCopilotOptions> options)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | ISummaryCopilotOptions`1 | サマリーコパイロットのオプション。 |
+| オプション | ISummaryCopilotOptions`1 | サマリーコパイロットのオプションです。 |
 
 ### 戻り値
 
-[`ISummaryCopilot`](../../isummarycopilot/) のインスタンス。
+[`ISummaryCopilot`](../../isummarycopilot/) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* インターフェース [ISummaryCopilot](../../isummarycopilot/)
-* インターフェース [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* クラス [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
-* クラス [OpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

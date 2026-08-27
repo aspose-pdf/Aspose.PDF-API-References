@@ -1,14 +1,14 @@
 ---
-title: Enum PrinterMarksKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarksKind 列挙型。ドキュメントに追加されるプリンターマークの種類を指定します
+title: "列挙体 PrinterMarksKind"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.PrinterMarksKind 列挙体。文書に追加されるプリンターマークの種類を指定します。"
 type: docs
-weight: 2380
+weight: 2470
 url: /ja/net/aspose.pdf.annotations/printermarkskind/
 ---
-## PrinterMarksKind 列挙型
+## PrinterMarksKind enumeration
 
-ドキュメントに追加されるプリンターマークの種類を指定します。
+ドキュメントに追加されるプリンター マークのタイプを指定します。
 
 ```csharp
 [Flags]
@@ -22,16 +22,18 @@ public enum PrinterMarksKind
 | None | `0` | プリンターマークを追加しないことを指定します。 |
 | TrimMarks | `1` | トリムマークを追加することを指定します。 |
 | BleedMarks | `2` | ブリードマークを追加することを指定します。 |
-| RegistrationMarks | `4` | 登録マークを追加することを指定します。 |
+| RegistrationMarks | `4` | レジストレーションマークを追加することを指定します。 |
 | ColorBars | `8` | カラーバーを追加することを指定します。 |
 | PageInformation | `10` | ページ情報を追加することを指定します。 |
-| All | `1F` | すべての種類のプリンターマークを追加することを指定します。 |
+| All | `1F` | すべてのタイプのプリンターマークを追加することを指定します。 |
 
 ## 備考
 
-この列挙型には FlagsAttribute 属性があり、そのメンバー値のビット単位の組み合わせを許可します。
+この列挙体は FlagsAttribute 属性を持ち、メンバー値のビット単位の組み合わせを可能にします。
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

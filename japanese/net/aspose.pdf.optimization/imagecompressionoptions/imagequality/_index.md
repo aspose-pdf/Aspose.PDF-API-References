@@ -1,21 +1,23 @@
 ---
-title: ImageCompressionOptions.ImageQuality
-second_title: Aspose.PDF for .NET API Reference
-description: ImageCompressionOptions プロパティ。CompressIamges フラグが使用されるときの画像圧縮レベルを指定します
+title: "ImageCompressionOptions.ImageQuality"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageCompressionOptions プロパティ。CompressImages フラグが使用されている場合の画像圧縮レベルを指定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.optimization/imagecompressionoptions/imagequality/
 ---
-## ImageCompressionOptions.ImageQuality プロパティ
+## ImageCompressionOptions.ImageQuality property
 
-CompressIamges フラグが使用されるときの画像圧縮レベルを指定します。
+CompressImages フラグが使用されている場合の画像圧縮レベルを指定します。
 
 ```csharp
 public int ImageQuality { get; set; }
 ```
 
-### See Also
+### 関連項目
 
 * class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

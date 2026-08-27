@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.Position
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream プロパティ。派生クラスでオーバーライドされた場合、現在のストリーム内の位置を取得または設定します。
+title: "OptimizedMemoryStream.Position"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizedMemoryStream プロパティ。派生クラスでオーバーライドされた場合、現在のストリーム内の位置を取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/optimizedmemorystream/position/
 ---
-## OptimizedMemoryStream.Position プロパティ
+## OptimizedMemoryStream.Position property
 
 派生クラスでオーバーライドされた場合、現在のストリーム内の位置を取得または設定します。
 
@@ -18,8 +18,10 @@ public override long Position { get; set; }
 
 ストリーム内の現在の位置。
 
-### 参照
+### 関連項目
 
-* クラス [OptimizedMemoryStream](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

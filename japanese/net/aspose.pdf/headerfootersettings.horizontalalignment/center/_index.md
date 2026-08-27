@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Center
-second_title: Aspose.PDF for .NET API Reference
-description: HorizontalAlignment プロパティ。中央揃えの設定を取得または設定します
+title: "HeaderFooterSettings.HorizontalAlignment.Center"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HorizontalAlignment プロパティ。中央揃え設定を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/headerfootersettings.horizontalalignment/center/
 ---
-## HeaderFooterSettings.HorizontalAlignment.Center プロパティ
+## HeaderFooterSettings.HorizontalAlignment.Center property
 
-中央揃えの設定を取得または設定します。
+中央揃え設定を取得または設定します。
 
 ```csharp
 public Center Center { get; set; }
@@ -20,3 +20,5 @@ public Center Center { get; set; }
 * class [HorizontalAlignment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Line
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Line クラス。線を表します
+title: "クラス Line"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Drawing.Line クラス。線を表します。"
 type: docs
-weight: 3960
+weight: 4080
 url: /ja/net/aspose.pdf.drawing/line/
 ---
-## Line クラス
+## Line class
 
 線を表します。
 
@@ -24,9 +24,9 @@ public sealed class Line : Shape
 
 | 名前 | 説明 |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | 色、線の幅などのグラフ情報を示す [`GraphInfo`](../shape/graphinfo/) オブジェクトを取得または設定します。 |
-| [PositionArray](../../aspose.pdf.drawing/line/positionarray/) { get; set; } | 線の各制御点の座標で構成される位置配列を示す [`PositionArray`](./positionarray/) オブジェクトを取得または設定します。 |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | 形状のテキストを取得または設定します。 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | グラフ情報（色、線幅など）を示す [`GraphInfo`](../shape/graphinfo/) オブジェクトを取得または設定します。 |
+| [PositionArray](../../aspose.pdf.drawing/line/positionarray/) { get; set; } | 位置配列を示す [`PositionArray`](./positionarray/) オブジェクトを取得または設定します。配列は線の各制御点の座標で直接構成されます。 |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | シェイプのテキストを取得または設定します |
 
 ## メソッド
 
@@ -34,8 +34,10 @@ public sealed class Line : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/line/checkbounds/)(double, double) |  |
 
-### 参照
+### 関連項目
 
-* クラス [Shape](../shape/)
-* 名前空間 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

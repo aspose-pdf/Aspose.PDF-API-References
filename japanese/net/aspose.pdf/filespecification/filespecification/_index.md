@@ -1,7 +1,7 @@
 ---
-title: FileSpecification.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification コンストラクタ。FileSpecification のコンストラクタ
+title: "FileSpecification.FileSpecification"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileSpecification コンストラクタ。FileSpecification のコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/filespecification/filespecification/
@@ -14,11 +14,11 @@ FileSpecification のコンストラクタ
 public FileSpecification(string file)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | file | String | ファイルパス。 |
 
-### 参照
+### 関連項目
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,12 +34,12 @@ public FileSpecification(string file)
 public FileSpecification(Stream stream, string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | stream | Stream | データファイルを含むストリーム。 |
-| name | String | ファイル仕様。 |
+| 名前 | String | ファイル仕様。 |
 
-### 参照
+### 関連項目
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -55,12 +55,12 @@ FileSpecification のコンストラクタ。
 public FileSpecification(string file, string description)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | file | String | ファイルパス。 |
-| description | String | ファイルの説明。 |
+| 説明 | String | ファイルの説明。 |
 
-### 参照
+### 関連項目
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -76,13 +76,13 @@ FileSpecification のコンストラクタ。
 public FileSpecification(Stream stream, string name, string description)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | stream | Stream | ドキュメントで使用されるストリーム。 |
-| name | String | ファイル仕様文字列。 |
-| description | String | ファイルの説明。 |
+| 名前 | String | ファイル仕様文字列。 |
+| 説明 | String | ファイルの説明。 |
 
-### 参照
+### 関連項目
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -98,12 +98,12 @@ FileSpecification のコンストラクタ。
 public FileSpecification(string fileName, Annotation annot)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fileName | String | ファイルパス。 |
-| annot | Annotation | 注釈。 |
+| annot | 注釈 | 注釈。 |
 
-### 参照
+### 関連項目
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [FileSpecification](../)
@@ -120,8 +120,10 @@ public FileSpecification(string fileName, Annotation annot)
 public FileSpecification()
 ```
 
-### 参照
+### 関連項目
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

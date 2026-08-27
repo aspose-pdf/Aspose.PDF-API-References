@@ -1,20 +1,20 @@
 ---
-title: PdfContentEditor.PdfContentEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor コンストラクタ。PdfContentEditor オブジェクトのコンストラクタ
+title: "PdfContentEditor.PdfContentEditor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor コンストラクタ。PdfContentEditor オブジェクトのコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/pdfcontenteditor/
 ---
 ## PdfContentEditor() {#constructor}
 
-PdfContentEditor オブジェクトのコンストラクタです。
+PdfContentEditor オブジェクトのコンストラクタ。
 
 ```csharp
 public PdfContentEditor()
 ```
 
-### See Also
+### 関連項目
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,19 +24,21 @@ public PdfContentEditor()
 
 ## PdfContentEditor(Document) {#constructor_1}
 
-*document* に基づいて新しい [`PdfContentEditor`](../) オブジェクトを初期化します。
+新しい [`PdfContentEditor`](../) オブジェクトを *document* を基に初期化します。
 
 ```csharp
 public PdfContentEditor(Document document)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | document | Document | Pdf ドキュメント。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PrinterResolution.Y
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterResolution プロパティ。プリンタの解像度を垂直方向のインチあたりのドット数で取得します
+title: "PrinterResolution.Y"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrinterResolution プロパティ。垂直方向のプリンター解像度（dpi）を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.printing/printerresolution/y/
 ---
-## PrinterResolution.Y プロパティ
+## PrinterResolution.Y property
 
-プリンタの解像度を垂直方向のインチあたりのドット数で取得します。
+垂直方向のプリンター解像度（dpi）を取得します。
 
 ```csharp
 public int Y { get; set; }
@@ -16,6 +16,8 @@ public int Y { get; set; }
 
 ### 関連項目
 
-* クラス [PrinterResolution](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PrinterResolution](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

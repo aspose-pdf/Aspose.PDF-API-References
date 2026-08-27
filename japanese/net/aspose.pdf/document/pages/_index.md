@@ -1,14 +1,14 @@
 ---
-title: Document.Pages
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントページのコレクションを取得または設定します。コレクション内のページは1から番号が付けられていることに注意してください。
+title: "Document.Pages"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document property. ドキュメントページのコレクションを取得または設定します。コレクション内のページ番号は 1 から始まりますのでご注意ください"
 type: docs
-weight: 470
+weight: 490
 url: /ja/net/aspose.pdf/document/pages/
 ---
-## Document.Pages プロパティ
+## Document.Pages property
 
-ドキュメントページのコレクションを取得または設定します。コレクション内のページは1から番号が付けられていることに注意してください。
+document のページコレクションを取得または設定します。コレクション内の pages は 1 から番号付けされていることに注意してください。
 
 ```csharp
 public PageCollection Pages { get; }
@@ -16,7 +16,7 @@ public PageCollection Pages { get; }
 
 ## 例
 
-以下の例は、ドキュメントページを操作する方法を示しています：ページ数を取得する方法と、ドキュメントの最初のページの矩形を取得する方法。
+以下の例はドキュメントページの操作方法を示しています。ページ数の取得方法と、ドキュメントの開始ページの矩形を取得する方法です。
 
 ```csharp
 Aspose.Pdf.Document document = new Aspose.Pdf.Document("sample.pdf");
@@ -26,9 +26,11 @@ Page page = pages[1];
 Rectangle rect = page.Rect;        
 ```
 
-### 参照
+### 関連項目
 
 * class [PageCollection](../../pagecollection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

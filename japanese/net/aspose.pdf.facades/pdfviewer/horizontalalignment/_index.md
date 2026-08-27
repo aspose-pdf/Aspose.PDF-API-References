@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer プロパティ。水平方向の配置を示す値を取得または設定します
+title: "PdfViewer.HorizontalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer プロパティ。水平方向の配置を示す値を取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.facades/pdfviewer/horizontalalignment/
 ---
-## PdfViewer.HorizontalAlignment プロパティ
+## PdfViewer.HorizontalAlignment property
 
-水平方向の配置を示す値を取得または設定します
+水平揃えを示す値を取得または設定します
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

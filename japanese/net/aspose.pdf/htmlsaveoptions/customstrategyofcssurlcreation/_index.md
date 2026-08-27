@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.CustomStrategyOfCssUrlCreation
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions フィールド。このフィールドには、URL または URL テンプレートを返すカスタムメソッドを含めることができます。マルチページ生成がオンの場合、生成された結果の HTML に配置されるべき CSS の詳細については、以下を参照してください。たとえば、コンバータが生成された CSS に標準の CSS ファイル名の代わりに特定の URL を配置したい場合は、望ましい URL を生成するメソッドを作成し、このプロパティに設定するだけです。フラグ 'SplitCssIntoPages' が設定されている場合、このカスタム戦略（ある場合）は、CSS の正確な URL ではなく、プレースホルダーをページ番号で置き換えた後に、コンバータ内の string.Format 関数を使用して解決できるテンプレート文字列を返す必要があります。
+title: "HtmlSaveOptions.CustomStrategyOfCssUrlCreation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions フィールド。このフィールドには、マルチページ生成が有効な場合に URL または URL テンプレートを返すカスタムメソッドを含めることができます。以下の CSS に関する詳細は、生成された結果 HTML に配置されるべきものです。たとえば、変換時に標準の CSS ファイル名の代わりに特定の URL を生成したい場合は、このプロパティに望ましい URL を生成するメソッドを作成して設定します。SplitCssIntoPages フラグが設定されている場合、このカスタム戦略は CSS の正確な URL ではなく、プレースホルダーをページ番号に置換し、コンバータ内の string.Format 関数で解決できるテンプレート文字列を返す必要があります。このようなケースで期待される戻り文字列の例は、SomeTargetLocationpage_0.css../PartHandlers/GetCss.aspxDocumentId45654CssPage0 です。"
 type: docs
 weight: 300
 url: /ja/net/aspose.pdf/htmlsaveoptions/customstrategyofcssurlcreation/
 ---
-## HtmlSaveOptions.CustomStrategyOfCssUrlCreation フィールド
+## HtmlSaveOptions.CustomStrategyOfCssUrlCreation field
 
-このフィールドには、生成された結果の HTML に配置されるべき CSS の URL（またはマルチページ生成がオンの場合の URL テンプレート）を返すカスタムメソッドを含めることができます。たとえば、コンバータが生成された CSS に標準の CSS ファイル名の代わりに特定の URL を配置したい場合は、望ましい URL を生成するメソッドを作成し、このプロパティに設定するだけです。フラグ 'SplitCssIntoPages' が設定されている場合、このカスタム戦略（ある場合）は、CSS の正確な URL ではなく、プレースホルダーをページ番号で置き換えた後に、コンバータ内の string.Format() 関数を使用して解決できるテンプレート文字列を返す必要があります。この場合の期待される戻り値の文字列の例は、'SomeTargetLocation-page_{0}.css','../PartHandlers/GetCss.aspx?DocumentId=45654&amp;CssPage={0}' です。
+このフィールドには、生成された結果 HTML に配置すべき対象 CSS の URL（マルチページ生成が有効な場合は URL テンプレート）を返すカスタムメソッドを指定できます。たとえば、標準の CSS ファイル名の代わりに特定の URL を使用したい場合は、望ましい URL を生成するメソッドを作成し、このプロパティに設定してください。フラグ 'SplitCssIntoPages' が設定されている場合、このカスタム戦略（存在する場合）は CSS の正確な URL ではなく、プレースホルダーをページ番号で置換する（converter 内の string.Format() 関数を使用）ことで各ページの CSS URL に解決できるテンプレート文字列を返す必要があります。そのような場合に期待される返却文字列の例は、'SomeTargetLocation-page_{0}.css'、'../PartHandlers/GetCss.aspx?DocumentId=45654&amp;CssPage={0}' です。
 
 ```csharp
 public CssUrlMakingStrategy CustomStrategyOfCssUrlCreation;
 ```
 
-### 参照
+### 関連項目
 
 * delegate [CssUrlMakingStrategy](../../htmlsaveoptions.cssurlmakingstrategy/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Matrix.D
-second_title: Aspose.PDF for .NET API Reference
-description: マトリックスプロパティ。変換行列の D メンバー
+title: "Matrix.D"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix プロパティ。変換行列の D 成分。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/matrix/d/
 ---
-## Matrix.D プロパティ
+## Matrix.D property
 
 変換行列の D メンバーです。
 
@@ -16,6 +16,8 @@ public double D { get; set; }
 
 ### 関連項目
 
-* クラス [Matrix](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PdfSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfSaveOptions クラス。Pdf 形式へのエクスポートのための保存オプション
+title: "クラス PdfSaveOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PdfSaveOptions クラス。PDF 形式へのエクスポート用の保存オプションです。"
 type: docs
-weight: 8430
+weight: 8570
 url: /ja/net/aspose.pdf/pdfsaveoptions/
 ---
-## PdfSaveOptions クラス
+## PdfSaveOptions class
 
-Pdf 形式へのエクスポートのための保存オプション
+Pdf 形式へのエクスポート用保存オプションです。
 
 ```csharp
 public class PdfSaveOptions : SaveOptions
@@ -18,29 +18,29 @@ public class PdfSaveOptions : SaveOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [PdfSaveOptions](pdfsaveoptions/)() | デフォルトのコンストラクタ。 |
+| [PdfSaveOptions](pdfsaveoptions/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | aps ページを準備する際にフォントグリフがキャッシュされるかどうかを示すブール値を取得または設定します。PDFから他の形式への変換のパフォーマンスを向上させますが、メモリ消費が増加します。 |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | ドキュメントがレスポンスに保存された後、Response オブジェクトが閉じられるかどうかを示すブール値を取得または設定します。 |
-| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname/) { get; set; } | コンピュータに存在しないフォントのデフォルトで使用されるフォント名。保存されたPDFドキュメントに、ドキュメント自体およびデバイスで利用できないフォントが含まれている場合、APIはこのフォントをデフォルトフォント（デバイス上に [`DefaultFontName`](./defaultfontname/) が見つかった場合）に置き換えます。 |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | フォントグリフをページ作成中にキャッシュするかどうかを示すブール値を取得または設定します。PDF を他の形式に変換する際のパフォーマンスが向上しますが、メモリ使用量が増加します。 |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Document がレスポンスに保存された後に Response オブジェクトを閉じるかどうかを示すブール値を取得または設定します。 |
+| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname/) { get; set; } | コンピュータに存在しないフォントに対してデフォルトで使用されるフォント名です。PDF に保存されるドキュメントに、ドキュメント自体やデバイスに存在しないフォントが含まれている場合、API は（デバイス上に [`DefaultFontName`](./defaultfontname/) のフォントが見つかった場合）そのフォントをデフォルトフォントに置き換えます。 |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | データ保存の形式。 |
-| [TempPath](../../aspose.pdf/pdfsaveoptions/temppath/) { get; set; } | 一時ファイルのパス。 |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | 生成された警告を処理するためのコールバック。WarningHandlerは、Continue または Abort のいずれかを指定する ReturnAction 列挙項目を返します。Continue はデフォルトのアクションであり、保存操作は続行されますが、ユーザーは Abort を返すこともでき、その場合保存操作は中止されるべきです。 |
+| [TempPath](../../aspose.pdf/pdfsaveoptions/temppath/) { get; set; } | 一時ファイルのパスです。 |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | 生成された警告を処理するコールバックです。WarningHandler は Continue または Abort を指定する ReturnAction 列挙体項目を返します。Continue はデフォルトの動作で、保存操作は続行されますが、ユーザーが Abort を返した場合は保存操作を中止する必要があります。 |
 
 ## 例
 
-以下の例は、PDFを保存する際にデフォルトのフォント名を設定する方法を示しています。
+次の例は、PDF を保存する際にデフォルトフォント名を設定する方法を示しています。
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// documents ディレクトリへのパス。
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// Load an existing PDF document with missing font
+	// フォントが欠落している既存の PDF ドキュメントを読み込む
 	string documentName = dataDir + "input.pdf";
 	string fontName = "Arial";
 	using (System.IO.FileStream fs = new System.IO.FileStream(documentName, System.IO.FileMode.Open))
@@ -48,7 +48,7 @@ public class PdfSaveOptions : SaveOptions
 	{
 		PdfSaveOptions pdfSaveOptions = new PdfSaveOptions();
 
-		// Specify Default Font Name
+		// デフォルトフォント名を指定する
 		pdfSaveOptions.DefaultFontName = fontName;
 		document.Save(dataDir + "output_out.pdf", pdfSaveOptions);
 	}
@@ -76,8 +76,10 @@ public class PdfSaveOptions : SaveOptions
     End Using
 ```
 
-### 参照
+### 関連項目
 
-* クラス [SaveOptions](../saveoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

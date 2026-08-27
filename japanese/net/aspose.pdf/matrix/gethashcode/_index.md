@@ -1,14 +1,14 @@
 ---
-title: Matrix.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix メソッド。オブジェクトのハッシュコード
+title: "Matrix.GetHashCode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix メソッド。オブジェクトのハッシュコード"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf/matrix/gethashcode/
 ---
-## Matrix.GetHashCode メソッド
+## Matrix.GetHashCode method
 
-オブジェクトのハッシュコード。
+オブジェクトのハッシュコードです。
 
 ```csharp
 public override int GetHashCode()
@@ -18,8 +18,10 @@ public override int GetHashCode()
 
 ハッシュコード。
 
-### 参照
+### 関連項目
 
-* クラス [Matrix](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

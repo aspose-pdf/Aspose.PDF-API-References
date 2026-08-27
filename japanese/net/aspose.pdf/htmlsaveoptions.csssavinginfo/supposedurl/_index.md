@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.CssSavingInfo.SupposedURL
-second_title: Aspose.PDF for .NET API Reference
-description: CssSavingInfo フィールド。コンバータによって設定されます。コンバータからカスタムメソッドのコードに渡される想定ファイル名。カスタムコードでコンテンツを処理する方法や保存先を決定するために使用できます。
+title: "HtmlSaveOptions.CssSavingInfo.SupposedURL"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CssSavingInfo フィールド。コンバータによって設定されます。コンバータからカスタムメソッドのコードへ渡される想定のファイル名です。カスタムコードで、コンテンツの処理方法や保存場所を決定する際に使用できます。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/htmlsaveoptions.csssavinginfo/supposedurl/
 ---
-## HtmlSaveOptions.CssSavingInfo.SupposedURL フィールド
+## HtmlSaveOptions.CssSavingInfo.SupposedURL field
 
-コンバータによって設定されます。コンバータからカスタムメソッドのコードに渡される想定ファイル名。カスタムコードでコンテンツを処理する方法や保存先を決定するために使用できます。
+コンバータによって設定されます。コンバータからカスタムメソッドのコードに渡される想定ファイル名で、カスタムコードでコンテンツの処理方法や保存場所を決定するために使用できます。
 
 ```csharp
 public string SupposedURL;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [CssSavingInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CssSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

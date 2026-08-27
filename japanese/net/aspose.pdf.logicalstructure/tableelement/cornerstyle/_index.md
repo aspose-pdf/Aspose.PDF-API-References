@@ -1,14 +1,14 @@
 ---
-title: TableElement.CornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement プロパティ。ボーダーコーナーのスタイルを取得または設定します
+title: "TableElement.CornerStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableElement プロパティ。罫線の角のスタイルを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.logicalstructure/tableelement/cornerstyle/
 ---
-## TableElement.CornerStyle プロパティ
+## TableElement.CornerStyle property
 
-ボーダーコーナーのスタイルを取得または設定します
+罫線の角のスタイルを取得または設定します
 
 ```csharp
 public BorderCornerStyle CornerStyle { get; set; }
@@ -20,3 +20,5 @@ public BorderCornerStyle CornerStyle { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

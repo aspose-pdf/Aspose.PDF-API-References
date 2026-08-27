@@ -1,14 +1,14 @@
 ---
-title: Class ResultContainer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ResultContainer クラス。プラグイン処理の結果コレクションを含むコンテナを表します。
+title: "クラス ResultContainer"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.ResultContainer クラス。プラグインの処理結果コレクションを含むコンテナを表します。"
 type: docs
-weight: 9200
+weight: 9350
 url: /ja/net/aspose.pdf.plugins/resultcontainer/
 ---
-## ResultContainer クラス
+## ResultContainer class
 
-プラグイン処理の結果コレクションを含むコンテナを表します。
+プラグインの処理結果コレクションを含むコンテナを表します。
 
 ```csharp
 public class ResultContainer
@@ -18,9 +18,11 @@ public class ResultContainer
 
 | 名前 | 説明 |
 | --- | --- |
-| [ResultCollection](../../aspose.pdf.plugins/resultcontainer/resultcollection/) { get; } | 操作結果のコレクションを取得します。 |
+| [ResultCollection](../../aspose.pdf.plugins/resultcontainer/resultcollection/) { get; } | 操作結果のコレクションを取得します |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

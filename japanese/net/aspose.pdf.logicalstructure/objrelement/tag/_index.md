@@ -1,20 +1,20 @@
 ---
-title: OBJRElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: OBJRElement メソッド。構造要素をコンテンツストリーム BDC 演算子にバインドします。
+title: "OBJRElement.Tag"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OBJRElement メソッド。構造要素をコンテンツストリームの BDC 演算子にバインドします"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.logicalstructure/objrelement/tag/
 ---
 ## Tag(BDC) {#tag_1}
 
-構造要素をコンテンツストリーム BDC 演算子にバインドします。
+構造要素をコンテンツストリームの BDC 演算子にバインドします。
 
 ```csharp
 public override MCRElement Tag(BDC bdc)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | bdc | BDC | コンテンツストリーム bdc 演算子。 |
 
@@ -22,7 +22,7 @@ public override MCRElement Tag(BDC bdc)
 
 MCRElementStructure 要素。
 
-### 参照
+### 関連項目
 
 * class [MCRElement](../../mcrelement/)
 * class [BDC](../../../aspose.pdf.operators/bdc/)
@@ -34,21 +34,21 @@ MCRElementStructure 要素。
 
 ## Tag(XForm) {#tag_3}
 
-構造要素をコンテンツストリーム XForm にバインドします。
+構造要素をコンテンツストリームの XForm にバインドします。
 
 ```csharp
 public override OBJRElement Tag(XForm form)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| form | XForm | Pdf フォーム。 |
+| フォーム | XForm | Pdf フォーム。 |
 
 ### 戻り値
 
 OBJRElementStructure 要素。
 
-### 参照
+### 関連項目
 
 * class [XForm](../../../aspose.pdf/xform/)
 * class [OBJRElement](../)
@@ -65,15 +65,15 @@ OBJRElementStructure 要素。
 public override OBJRElement Tag(XImage image)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | XImage | Pdf 画像。 |
+| 画像 | XImage | Pdf 画像。 |
 
 ### 戻り値
 
 OBJRElementStructure 要素。
 
-### 参照
+### 関連項目
 
 * class [XImage](../../../aspose.pdf/ximage/)
 * class [OBJRElement](../)
@@ -90,15 +90,15 @@ OBJRElementStructure 要素。
 public override MCRElement Tag(Artifact artifact)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| artifact | Artifact | Pdf アーティファクト。 |
+| アーティファクト | アーティファクト | Pdf アーティファクト。 |
 
 ### 戻り値
 
 MCRElementStructure 要素。
 
-### 参照
+### 関連項目
 
 * class [MCRElement](../../mcrelement/)
 * class [Artifact](../../../aspose.pdf/artifact/)
@@ -116,17 +116,19 @@ MCRElementStructure 要素。
 public override OBJRElement Tag(Annotation annotation)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| annotation | Annotation | Pdf 注釈。 |
+| 注釈 | 注釈 | Pdf アノテーション。 |
 
 ### 戻り値
 
 OBJRElementStructure 要素。
 
-### 参照
+### 関連項目
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [OBJRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

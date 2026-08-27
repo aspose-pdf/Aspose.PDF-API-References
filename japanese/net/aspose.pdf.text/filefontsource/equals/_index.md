@@ -1,12 +1,12 @@
 ---
-title: FileFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: FileFontSource メソッド。フォントファイルソースオブジェクトが等しいかどうかを確認します
+title: "FileFontSource.Equals"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileFontSource メソッド。フォントファイルソースオブジェクトが等しいかどうかを確認します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.text/filefontsource/equals/
 ---
-## FileFontSource.Equals メソッド
+## FileFontSource.Equals method
 
 フォントファイルソースオブジェクトが等しいかどうかを確認します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.text/filefontsource/equals/
 public override bool Equals(object obj)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| obj | Object | 比較されるフォントファイルソースオブジェクト。 |
+| obj | Object | 比較対象となるフォントファイルソースオブジェクト。 |
 
 ### 戻り値
 
-両方のオブジェクトが同じファイルを対象とするフォントファイルソースである場合は True。
+両方のオブジェクトが同じファイルを対象とするフォントファイルソースである場合は true。
 
-### 参照
+### 関連項目
 
-* クラス [FileFontSource](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class XmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmlLoadOptions クラス。PDF ドキュメントに XML ファイルを読み込む/インポートするためのオプションを表します。
+title: "クラス XmlLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.XmlLoadOptions クラス。XML ファイルを PDF ドキュメントにロード/インポートするためのオプションを表します。"
 type: docs
-weight: 11390
+weight: 11580
 url: /ja/net/aspose.pdf/xmlloadoptions/
 ---
-## XmlLoadOptions クラス
+## XmlLoadOptions class
 
-PDF ドキュメントに XML ファイルを読み込む/インポートするためのオプションを表します。
+XML ファイルを pdf ドキュメントにロード/インポートするオプションを表します。
 
 ```csharp
 public class XmlLoadOptions : LoadOptions
@@ -18,41 +18,41 @@ public class XmlLoadOptions : LoadOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [XmlLoadOptions](xmlloadoptions/#constructor)() | xsl データなしで `XmlLoadOptions` オブジェクトを作成します。 |
-| [XmlLoadOptions](xmlloadoptions/#constructor_1)(Stream) | xsl データを持つ `XmlLoadOptions` オブジェクトを作成します。 |
-| [XmlLoadOptions](xmlloadoptions/#constructor_2)(string) | xsl データを持つ `XmlLoadOptions` オブジェクトを作成します。 |
+| [XmlLoadOptions](xmlloadoptions/#constructor)() | `XmlLoadOptions` オブジェクトを XSL データなしで作成します。 |
+| [XmlLoadOptions](xmlloadoptions/#constructor_1)(Stream) | `XmlLoadOptions` オブジェクトを XSL データ付きで作成します。 |
+| [XmlLoadOptions](xmlloadoptions/#constructor_2)(string) | `XmlLoadOptions` オブジェクトを XSL データ付きで作成します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | ファイルを読み込む際にすべてのフォントに対するライセンス制限を無効にするフラグを取得または設定します。`true` の場合、ライセンスによって禁止されているフォントでの操作を実行できるようになります。たとえば、ライセンスルールがこのフォントの埋め込みを無効にしていても、PDF ドキュメントにフォントを埋め込むことができます。デフォルトは `false` です。 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | [`LoadOptions`](../loadoptions/) が説明するファイル形式を表します。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 生成された警告を処理するためのコールバック。WarningHandler は、Continue または Abort のいずれかを指定する ReturnAction 列挙項目を返します。Continue はデフォルトのアクションで、Load 操作は続行されますが、ユーザーが Abort を返すこともでき、その場合 Load 操作は中止されるべきです。 |
-| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | XML を PDF ドキュメントに変換するための xsl データを取得します。 |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | ファイルをロードする際に、すべてのフォントに対するライセンス制限を無効にするフラグを取得または設定します。`true` の場合、このフォントのライセンスで禁止されている操作（例として、ライセンス規則で埋め込みが禁止されているフォントでも PDF Document に埋め込むこと）が実行可能になります。デフォルトは `false` です。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | [`LoadOptions`](../loadoptions/) が記述するファイル形式を表します。 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 生成された警告を処理するコールバックです。WarningHandler は ReturnAction 列挙型の項目を返し、Continue または Abort を指定します。Continue はデフォルトの動作で、Load 操作は継続しますが、ユーザーは Abort を返すこともでき、その場合 Load 操作は中止されます。 |
+| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | XML を PDF ドキュメントに変換するための XSL データを取得します。 |
 
 ## 例
 
-以下の例は、XML ファイルを PDF ファイルに変換する方法を示しています。
+次の例は XML ファイルを PDF ファイルに変換する方法を示しています
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// documents ディレクトリへのパス。
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your XML File.
+	// XML ファイルへのパスです。
 	string xmlFile = Path.Combine(dataDir, "XML-to-PDF.xml");
 
-	// The path to output PDF File.
+	// 出力 PDF ファイルへのパス。
 	string pdfFile = Path.Combine(dataDir, "XML-to-PDF.pdf");
 
-	// Initialize XmlLoadOptions	
+	// XmlLoadOptions を初期化	
 	XmlLoadOptions xmlLoadOptions = new XmlLoadOptions();
 		
 	using (Document pdfDocument = new Document(xmlFile, xmlLoadOptions))
 	{
 	 
-		// Save XML file
+		// XML ファイルを保存
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -81,6 +81,8 @@ public class XmlLoadOptions : LoadOptions
 
 ### 関連項目
 
-* クラス [LoadOptions](../loadoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

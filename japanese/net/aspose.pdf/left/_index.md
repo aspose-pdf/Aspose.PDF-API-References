@@ -1,12 +1,12 @@
 ---
-title: Class Left
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Left クラス。ヘッダーおよびフッターデータの左揃え設定を表します。
+title: "クラス Left"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Left クラス。ヘッダーおよびフッターデータの左揃え設定を表します"
 type: docs
-weight: 6070
+weight: 6200
 url: /ja/net/aspose.pdf/left/
 ---
-## Left クラス
+## Left class
 
 ヘッダーおよびフッターデータの左揃え設定を表します。
 
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf/left/
 public sealed class Left : HeaderFooterData
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Left](left/)() | デフォルトコンストラクター。 |
+| [Left](left/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
@@ -27,8 +27,10 @@ public sealed class Left : HeaderFooterData
 | [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | 日付設定を取得または設定します。 |
 | [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | ページ番号設定を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [HeaderFooterData](../headerfooterdata/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,30 +1,32 @@
 ---
-title: Rectangle.NearEquals
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。矩形が近似等しいかどうかを確認します。すなわち、デルタ位置とサイズがほぼ同じであるかどうかを確認します。
+title: "Rectangle.NearEquals"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。矩形がほぼ等しいかどうかを確認します。すなわち、位置とサイズが delta までほぼ同じかどうか。"
 type: docs
 weight: 250
 url: /ja/net/aspose.pdf/rectangle/nearequals/
 ---
-## Rectangle.NearEquals メソッド
+## Rectangle.NearEquals method
 
-矩形が近似等しいかどうかを確認します。すなわち、デルタ位置とサイズがほぼ同じであるかどうかを確認します。
+Rectangle がほぼ等しいかどうかをチェックします。すなわちデルタ以内でほぼ同じ位置とサイズを持つかどうかです。
 
 ```csharp
 public bool NearEquals(Rectangle other, double delta)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| other | Rectangle | 比較される矩形。 |
-| delta | Double | 比較の許容値。 |
+| 他 | Rectangle | 比較される Rectangle。 |
+| delta | Double | 比較許容値。 |
 
 ### 戻り値
 
-矩形が等しい場合は真、そうでない場合は偽。
+矩形が等しい場合は true、そうでなければ false。
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

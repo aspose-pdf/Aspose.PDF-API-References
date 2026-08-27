@@ -1,14 +1,14 @@
 ---
-title: Enum Symbology
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.Symbology 列挙型。バーコードシンボロジーは、バーの幅、文字セット、エンコーディング方法、チェックサム仕様など、特定のタイプのバーコードの技術的詳細を定義します。
+title: "列挙体 Symbology"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Forms.Symbology 列挙体。バーコードシンボロジーは、特定のタイプのバーコードの技術的詳細（バーの幅、文字セット、エンコーディング方式、チェックサムの仕様など）を定義します。"
 type: docs
-weight: 5310
+weight: 5430
 url: /ja/net/aspose.pdf.forms/symbology/
 ---
-## シンボロジー列挙型
+## Symbology enumeration
 
-(バーコード)シンボロジーは、特定のタイプのバーコードの技術的詳細を定義します：バーの幅、文字セット、エンコーディング方法、チェックサム仕様など。
+(バーコード) シンボロジーは特定のバーコードタイプの技術的詳細、例えばバーの幅、文字セット、エンコード方法、チェックサムの仕様などを定義します。
 
 ```csharp
 public enum Symbology
@@ -18,11 +18,13 @@ public enum Symbology
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| PDF417 | `0` | 高いデータ容量とエラー訂正機能を持つ、複数行の可変長2Dシンボロジー。 |
-| QRCode | `1` | QRコード（クイックレスポンスの略）は、専用のQRバーコードリーダーやカメラ付き携帯電話で読み取れる特定のマトリックスバーコード（2Dコード）です。 |
-| DataMatrix | `2` | 正方形または長方形のパターンで配置された黒と白の正方形モジュールからなる2Dマトリックスシンボロジー。 |
+| PDF417 | `0` | 高いデータ容量と誤り訂正機能を持つ、複数行で可変長の 2D シンボロジーです。 |
+| QRCode | `1` | QR コード（Quick Response の略）は、専用の QR バーコードリーダーやカメラ付き携帯電話で読み取れる特定のマトリックスバーコード（2D コード）です。 |
+| DataMatrix | `2` | 正方形または長方形のパターンで配置された黒と白の正方形モジュールからなる 2D マトリックスシンボロジーです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

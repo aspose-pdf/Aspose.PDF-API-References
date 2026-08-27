@@ -1,28 +1,28 @@
 ---
-title: PdfFileEditor.Concatenate
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor メソッド。2 つのファイルを連結します
+title: "PdfFileEditor.Concatenate"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor メソッド。2 つのファイルを連結します。"
 type: docs
 weight: 260
 url: /ja/net/aspose.pdf.facades/pdffileeditor/concatenate/
 ---
 ## Concatenate(string, string, string) {#concatenate_4}
 
-2 つのファイルを連結します。
+2つのファイルを連結します。
 
 ```csharp
 public bool Concatenate(string firstInputFile, string secInputFile, string outputFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| firstInputFile | String | 連結する最初のファイル。 |
-| secInputFile | String | 連結する2番目のファイル。 |
+| firstInputFile | String | 結合する最初のファイル。 |
+| secInputFile | String | 結合する2番目のファイル。 |
 | outputFile | String | 出力ファイル。 |
 
 ### 戻り値
 
-操作が成功した場合は真。
+操作が成功した場合は True。
 
 ## 例
 
@@ -31,33 +31,33 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.Concatenate("file1.pdf", "file2.pdf", "outfile.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Concatenate(Stream, Stream, Stream) {#concatenate_1}
 
-2 つのファイルを連結します。
+2つのファイルを連結します。
 
 ```csharp
 public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream outputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | firstInputStream | Stream | 最初のファイルのストリーム。 |
-| secInputStream | Stream | 2 番目のファイルのストリーム。 |
+| secInputStream | Stream | 2番目のファイルのストリーム。 |
 | outputStream | Stream | 結果ファイルが保存されるストリーム。 |
 
 ### 戻り値
 
-操作が成功した場合は真。
+操作が成功した場合は True。
 
-操作が成功した場合は真。
+操作が成功した場合は True。
 
 ## 例
 
@@ -69,11 +69,11 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(stream1, stream2, outstream);
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -85,21 +85,21 @@ fileEditor.Concatenate(stream1, stream2, outstream);
 public bool Concatenate(Document[] src, Document dest)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| src | Document[] | ソースドキュメントの配列。 |
-| dest | Document | 目的のドキュメント。 |
+| src | Document[] | ソース文書の配列。 |
+| dest | Document | 宛先文書。 |
 
 ### 戻り値
 
-連結が成功した場合は真。
+結合が成功した場合は True。
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -111,14 +111,14 @@ public bool Concatenate(Document[] src, Document dest)
 public bool Concatenate(string[] inputFiles, string outputFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputFiles | String[] | 連結するファイルの配列。 |
+| inputFiles | String[] | 結合するファイルの配列。 |
 | outputFile | String | 出力ファイルの名前。 |
 
 ### 戻り値
 
-操作が成功した場合は真。
+操作が成功した場合は True。
 
 ## 例
 
@@ -127,11 +127,11 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Concatenate(new string[]  { "src1.pdf", "src2.pdf" }, "dest.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -143,14 +143,14 @@ pfe.Concatenate(new string[]  { "src1.pdf", "src2.pdf" }, "dest.pdf");
 public bool Concatenate(Stream[] inputStream, Stream outputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputStream | Stream[] | 連結されるストリームの配列。 |
+| inputStream | Stream[] | 結合されるストリームの配列。 |
 | outputStream | Stream | 結果ファイルが保存されるストリーム。 |
 
 ### 戻り値
 
-操作が成功した場合は真。
+操作が成功した場合は True。
 
 ## 例
 
@@ -162,33 +162,33 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(new Stream[] { stream1, stream2 } , outstream);
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Concatenate(string, string, string, string) {#concatenate_5}
 
-2 つの Pdf ドキュメントを新しい Pdf ドキュメントにマージし、ページを交互に配置し、空白の場所を空白のページで埋めます。例：document1 は 5 ページを持っています：p1、p2、p3、p4、p5。document2 は 3 ページを持っています：p1'、p2'、p3'。2 つの Pdf ドキュメントをマージすると、結果のドキュメントは次のページを持ちます：p1、p1'、p2、p2'、p3、p3'、p4、空白ページ、p5、空白ページ。
+2つの Pdf ドキュメントを交互にページを配置し、空白の場所を空白ページで埋めた新しい Pdf ドキュメントに結合します。例: document1 は 5 ページ (p1, p2, p3, p4, p5) を持ち、document2 は 3 ページ (p1', p2', p3') を持ちます。2つの Pdf ドキュメントを結合すると、結果のドキュメントはページ順に p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage となります。
 
 ```csharp
 public bool Concatenate(string firstInputFile, string secInputFile, string blankPageFile, 
     string outputFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | firstInputFile | String | 最初のファイル。 |
-| secInputFile | String | 2 番目のファイル。 |
-| blankPageFile | String | 空白ページのある PDF ファイル。 |
+| secInputFile | String | 2番目のファイル。 |
+| blankPageFile | String | 空白ページを含む PDF ファイル。 |
 | outputFile | String | 結果ファイル。 |
 
 ### 戻り値
 
-操作が成功した場合は真。
+操作が成功した場合は True。
 
 ## 例
 
@@ -197,33 +197,33 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Concatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Concatenate(Stream, Stream, Stream, Stream) {#concatenate_2}
 
-2 つの Pdf ドキュメントを新しい Pdf ドキュメントにマージし、ページを交互に配置し、空白の場所を空白のページで埋めます。例：document1 は 5 ページを持っています：p1、p2、p3、p4、p5。document2 は 3 ページを持っています：p1'、p2'、p3'。2 つの Pdf ドキュメントをマージすると、結果のドキュメントは次のページを持ちます：p1、p1'、p2、p2'、p3、p3'、p4、空白ページ、p5、空白ページ。
+2つの Pdf ドキュメントを交互にページを配置し、空白の場所を空白ページで埋めた新しい Pdf ドキュメントに結合します。例: document1 は 5 ページ (p1, p2, p3, p4, p5) を持ち、document2 は 3 ページ (p1', p2', p3') を持ちます。2つの Pdf ドキュメントを結合すると、結果のドキュメントはページ順に p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage となります。
 
 ```csharp
 public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
     Stream outputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | firstInputStream | Stream | 最初の Pdf ストリーム。 |
-| secInputStream | Stream | 2 番目の Pdf ストリーム。 |
-| blankPageStream | Stream | 空白ページのある Pdf ストリーム。 |
+| secInputStream | Stream | 2番目の Pdf ストリーム。 |
+| blankPageStream | Stream | 空白ページがある Pdf ストリーム。 |
 | outputStream | Stream | 出力 Pdf ストリーム。 |
 
 ### 戻り値
 
-操作が成功した場合は真。
+操作が成功した場合は True。
 
 ## 例
 
@@ -236,57 +236,10 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(new Stream[] { stream1, stream2, blank } , outstream);
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 
-## Concatenate(string[], HttpResponse) {#concatenate_8}
-
-ファイルを連結し、結果を HttpResponse オブジェクトに保存します。
-
-```csharp
-public bool Concatenate(string[] inputFiles, HttpResponse response)
-```
-
-| パラメーター | 型 | 説明 |
-| --- | --- | --- |
-| inputFiles | String[] | 連結するファイルの配列。 |
-| response | HttpResponse | レスポンスオブジェクト。 |
-
-### 戻り値
-
-連結が成功した場合は真。
-
-### 参照
-
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
-
----
-
-## Concatenate(Stream[], HttpResponse) {#concatenate_4}
-
-ファイルを連結し、結果を HttpResponse オブジェクトに保存します。
-
-```csharp
-public bool Concatenate(Stream[] inputStream, HttpResponse response)
-```
-
-| パラメーター | 型 | 説明 |
-| --- | --- | --- |
-| inputStream | Stream[] | 連結するファイルを含むストリームの配列。 |
-| response | HttpResponse | レスポンスオブジェクト。 |
-
-### 戻り値
-
-操作が成功した場合は真。
-
-### 参照
-
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class SaveableFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.SaveableFacade クラス。すべての保存可能なファサードの基本クラス
+title: "クラス SaveableFacade"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.SaveableFacade クラス。すべての保存可能ファサードの基底クラス"
 type: docs
-weight: 4700
+weight: 4820
 url: /ja/net/aspose.pdf.facades/saveablefacade/
 ---
-## SaveableFacade クラス
+## SaveableFacade class
 
-すべての保存可能なファサードの基本クラスです。
+保存可能なすべてのファサードの基底クラスです。
 
 ```csharp
 public abstract class SaveableFacade : Facade, ISaveableFacade
@@ -18,7 +18,7 @@ public abstract class SaveableFacade : Facade, ISaveableFacade
 
 | 名前 | 説明 |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | ファサードが作業しているドキュメントを取得します。 |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | 作業対象の document ファサードを取得します。 |
 
 ## メソッド
 
@@ -32,9 +32,11 @@ public abstract class SaveableFacade : Facade, ISaveableFacade
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save)(Stream) | PDF ドキュメントを指定されたストリームに保存します。 |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save_1)(string) | PDF ドキュメントを指定されたファイルに保存します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Facade](../facade/)
-* インターフェース [ISaveableFacade](../isaveablefacade/)
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Facade](../facade/)
+* interface [ISaveableFacade](../isaveablefacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

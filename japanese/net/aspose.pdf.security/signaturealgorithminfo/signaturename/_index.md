@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureAlgorithmInfo プロパティ。署名フィールドの名前を取得します
+title: "SignatureAlgorithmInfo.SignatureName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureAlgorithmInfo プロパティ。署名フィールドの名前を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.security/signaturealgorithminfo/signaturename/
 ---
-## SignatureAlgorithmInfo.SignatureName プロパティ
+## SignatureAlgorithmInfo.SignatureName property
 
 署名フィールドの名前を取得します。
 
@@ -16,6 +16,8 @@ public string SignatureName { get; }
 
 ### 関連項目
 
-* クラス [SignatureAlgorithmInfo](../)
-* 名前空間 [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SignatureAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

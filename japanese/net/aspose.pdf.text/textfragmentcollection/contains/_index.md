@@ -1,30 +1,32 @@
 ---
-title: TextFragmentCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection メソッド。コレクションに特定の値が含まれているかどうかを判断します
+title: "TextFragmentCollection.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentCollection メソッド。コレクションが特定の値を含むかどうかを判断します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.text/textfragmentcollection/contains/
 ---
-## TextFragmentCollection.Contains メソッド
+## TextFragmentCollection.Contains method
 
-コレクションに特定の値が含まれているかどうかを判断します。
+コレクションが特定の値を含むかどうかを判断します。
 
 ```csharp
 public bool Contains(TextFragment item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | TextFragment | コレクション内で位置を特定するオブジェクト |
+| アイテム | TextFragment | コレクション内で検索するオブジェクト |
 
 ### 戻り値
 
-item がコレクション内に見つかった場合は true; それ以外の場合は false。
+コレクション内に項目が見つかった場合は true、そうでない場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [TextFragment](../../textfragment/)
-* クラス [TextFragmentCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

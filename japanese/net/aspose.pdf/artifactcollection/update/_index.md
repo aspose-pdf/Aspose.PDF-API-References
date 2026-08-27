@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.Update
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection メソッド。コレクション内のアーティファクトを更新します
+title: "ArtifactCollection.Update"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ArtifactCollection メソッド。コレクション内のアーティファクトを更新します"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/artifactcollection/update/
 ---
-## ArtifactCollection.Update メソッド
+## ArtifactCollection.Update method
 
 コレクション内のアーティファクトを更新します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/artifactcollection/update/
 public void Update(Artifact artifact)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| artifact | Artifact | 更新するアーティファクト。 |
+| アーティファクト | アーティファクト | 更新されるアーティファクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [Artifact](../../artifact/)
-* クラス [ArtifactCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

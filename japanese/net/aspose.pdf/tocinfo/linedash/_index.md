@@ -1,14 +1,14 @@
 ---
-title: TocInfo.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo プロパティ。TOC ラインダッシュを取得または設定します
+title: "TocInfo.LineDash"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TocInfo プロパティ。 TOC のラインダッシュを取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/tocinfo/linedash/
 ---
-## TocInfo.LineDash プロパティ
+## TocInfo.LineDash property
 
-TOC ラインダッシュを取得または設定します。
+目次の線の破線設定を取得または設定します。
 
 ```csharp
 public TabLeaderType LineDash { get; set; }
@@ -20,3 +20,5 @@ public TabLeaderType LineDash { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

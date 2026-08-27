@@ -1,28 +1,28 @@
 ---
-title: ActionCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection メソッド。インデックスによってコレクションからアクションを削除します
+title: "ActionCollection.Delete"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ActionCollection メソッド。インデックスでコレクションからアクションを削除します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.annotations/actioncollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-インデックスによってコレクションからアクションを削除します。
+インデックスでコレクションからアクションを削除します。
 
 ```csharp
 public void Delete(int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 削除するアクションのインデックス。 |
+| インデックス | Int32 | 削除するアクションのインデックスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [ActionCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,8 +34,10 @@ public void Delete(int index)
 public void Delete()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ActionCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

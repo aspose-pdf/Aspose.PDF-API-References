@@ -1,24 +1,24 @@
 ---
-title: Class HeaderFooterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeaderFooterSettings クラス。ヘッダーおよびフッターアーティファクトの設定を表します
+title: "クラス HeaderFooterSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HeaderFooterSettings クラス。ヘッダーとフッターのアーティファクトの設定を表します。"
 type: docs
-weight: 5450
+weight: 5570
 url: /ja/net/aspose.pdf/headerfootersettings/
 ---
-## HeaderFooterSettings クラス
+## HeaderFooterSettings class
 
-ヘッダーおよびフッターアーティファクトの設定を表します。
+ヘッダーとフッターのアーティファクト設定を表します。
 
 ```csharp
 public sealed class HeaderFooterSettings
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [HeaderFooterSettings](headerfootersettings/)() | デフォルトコンストラクター。 |
+| [HeaderFooterSettings](headerfootersettings/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
@@ -28,7 +28,9 @@ public sealed class HeaderFooterSettings
 | [Header](../../aspose.pdf/headerfootersettings/header/) { get; set; } | ヘッダー設定を取得または設定します。 |
 | [PageRange](../../aspose.pdf/headerfootersettings/pagerange/) { get; set; } | ヘッダーおよびフッター設定のページ範囲を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

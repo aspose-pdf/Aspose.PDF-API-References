@@ -1,14 +1,14 @@
 ---
-title: EncryptionOptions.CryptoAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptionOptions プロパティ。暗号アルゴリズムの詳細については CryptoAlgorithm を参照してください
+title: "EncryptionOptions.CryptoAlgorithm"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "EncryptionOptions プロパティ。暗号アルゴリズムの詳細は CryptoAlgorithm を参照してください。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/encryptionoptions/cryptoalgorithm/
 ---
-## EncryptionOptions.CryptoAlgorithm プロパティ
+## EncryptionOptions.CryptoAlgorithm property
 
-暗号アルゴリズムについては、`CryptoAlgorithm` を参照してください。
+暗号アルゴリズム、詳細は `CryptoAlgorithm` を参照してください。
 
 ```csharp
 public CryptoAlgorithm CryptoAlgorithm { get; set; }
@@ -20,3 +20,5 @@ public CryptoAlgorithm CryptoAlgorithm { get; set; }
 * class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

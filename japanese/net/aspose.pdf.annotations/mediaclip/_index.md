@@ -1,20 +1,22 @@
 ---
-title: Class MediaClip
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MediaClip クラス。クラスはレンディションのメディアクリップオブジェクトを説明します
+title: "クラス MediaClip"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.MediaClip クラス。レンダリングのメディアクリップオブジェクトを記述するクラス"
 type: docs
-weight: 2070
+weight: 2160
 url: /ja/net/aspose.pdf.annotations/mediaclip/
 ---
-## MediaClip クラス
+## MediaClip class
 
-クラスはレンディションのメディアクリップオブジェクトを説明します。
+レンダリングのメディアクリップオブジェクトを記述するクラスです。
 
 ```csharp
 public class MediaClip
 ```
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

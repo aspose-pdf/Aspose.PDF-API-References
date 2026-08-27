@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor プロパティ。編集可能なキーのコレクション
+title: "DictionaryEditor.Keys"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DictionaryEditor プロパティ。編集可能なキーのコレクション。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.dataeditor/dictionaryeditor/keys/
 ---
-## DictionaryEditor.Keys プロパティ
+## DictionaryEditor.Keys property
 
-編集可能なキーのコレクションです。
+編集可能なキーのコレクション。
 
 ```csharp
 public ICollection<string> Keys { get; }
@@ -16,6 +16,8 @@ public ICollection<string> Keys { get; }
 
 ### 関連項目
 
-* クラス [DictionaryEditor](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

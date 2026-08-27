@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo メソッド。グラフィックス情報をクローンします
+title: "GraphInfo.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GraphInfo メソッド。グラフィック情報をクローンします"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf/graphinfo/clone/
 ---
-## GraphInfo.Clone メソッド
+## GraphInfo.Clone method
 
-グラフィックス情報をクローンします。
+グラフィック情報をクローンします。
 
 ```csharp
 public object Clone()
@@ -18,8 +18,10 @@ public object Clone()
 
 クローンされたオブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [GraphInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

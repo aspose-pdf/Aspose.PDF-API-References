@@ -1,12 +1,12 @@
 ---
-title: Bookmark.Title
-second_title: Aspose.PDF for .NET API Reference
-description: ブックマークプロパティ。ブックマークのタイトルを取得または設定します
+title: "Bookmark.Title"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Bookmark プロパティ。ブックマークのタイトルを取得または設定します"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf.facades/bookmark/title/
 ---
-## ブックマーク.タイトルプロパティ
+## Bookmark.Title property
 
 ブックマークのタイトルを取得または設定します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.facades/bookmark/title/
 public string Title { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Bookmark](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

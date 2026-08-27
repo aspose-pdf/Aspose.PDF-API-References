@@ -1,14 +1,14 @@
 ---
-title: FileParams.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: FileParams プロパティ。埋め込まれたファイルが作成された日時
+title: "FileParams.CreationDate"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileParams プロパティ。埋め込みファイルが作成された日時"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/fileparams/creationdate/
 ---
-## FileParams.CreationDate プロパティ
+## FileParams.CreationDate property
 
-埋め込まれたファイルが作成された日時です。
+埋め込みファイルが作成された日時。
 
 ```csharp
 public DateTime CreationDate { get; set; }
@@ -16,6 +16,8 @@ public DateTime CreationDate { get; set; }
 
 ### 関連項目
 
-* クラス [FileParams](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileParams](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

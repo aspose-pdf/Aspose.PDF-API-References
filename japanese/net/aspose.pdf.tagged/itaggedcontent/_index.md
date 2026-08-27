@@ -1,14 +1,14 @@
 ---
-title: Interface ITaggedContent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged.ITaggedContent インターフェース。ドキュメントの TaggedPdf コンテンツを扱うためのインターフェースを表します
+title: "ITaggedContent インターフェイス"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Tagged.ITaggedContent インターフェイス。ドキュメントの TaggedPdf コンテンツを操作するためのインターフェイスを表します。"
 type: docs
-weight: 10310
+weight: 10490
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/
 ---
-## ITaggedContent インターフェース
+## ITaggedContent interface
 
-ドキュメントの TaggedPdf コンテンツを扱うためのインターフェースを表します。
+ドキュメントの TaggedPdf コンテンツの操作用インターフェイスを表します。
 
 ```csharp
 public interface ITaggedContent
@@ -18,7 +18,7 @@ public interface ITaggedContent
 
 | 名前 | 説明 |
 | --- | --- |
-| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement/) { get; } | PDF ドキュメントの論理構造のルート [`StructureElement`](../../aspose.pdf.logicalstructure/structureelement/) を取得します。 |
+| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement/) { get; } | PDF ドキュメントの論理構造のルートである [`StructureElement`](../../aspose.pdf.logicalstructure/structureelement/) を取得します。 |
 | [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement/) { get; } | PDF ドキュメントの [`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement/) を取得します。 |
 | [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate/) { get; } | ドキュメント全体の [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate/) 設定を取得します。 |
 
@@ -35,36 +35,43 @@ public interface ITaggedContent
 | [CreateDivElement](../../aspose.pdf.tagged/itaggedcontent/createdivelement/)() | [`DivElement`](../../aspose.pdf.logicalstructure/divelement/) を作成します。 |
 | [CreateFigureElement](../../aspose.pdf.tagged/itaggedcontent/createfigureelement/)() | [`FigureElement`](../../aspose.pdf.logicalstructure/figureelement/) を作成します。 |
 | [CreateFormElement](../../aspose.pdf.tagged/itaggedcontent/createformelement/)() | [`FormElement`](../../aspose.pdf.logicalstructure/formelement/) を作成します。 |
-| [CreateFormulaElement](../../aspose.pdf.tagged/itaggedcontent/createformulaelement/)() | [`FormulaElement`](../../aspose.pdf.logicalstructure/formulaelement/) を作成します。 |
-| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement/#createheaderelement)() | [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/) を作成します。 |
-| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement/#createheaderelement_1)(int) | レベル付きの [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/) を作成します。 |
-| [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement/)() | [`IndexElement`](../../aspose.pdf.logicalstructure/indexelement/) を作成します。 |
-| [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement/)() | [`LinkElement`](../../aspose.pdf.logicalstructure/linkelement/) を作成します。 |
-| [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement/)() | [`ListElement`](../../aspose.pdf.logicalstructure/listelement/) を作成します。 |
-| [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement/)() | [`NonStructElement`](../../aspose.pdf.logicalstructure/nonstructelement/) を作成します。 |
-| [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement/)() | [`NoteElement`](../../aspose.pdf.logicalstructure/noteelement/) を作成します。 |
-| [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement/)() | [`ParagraphElement`](../../aspose.pdf.logicalstructure/paragraphelement/) を作成します。 |
-| [CreatePartElement](../../aspose.pdf.tagged/itaggedcontent/createpartelement/)() | [`PartElement`](../../aspose.pdf.logicalstructure/partelement/) を作成します。 |
-| [CreatePrivateElement](../../aspose.pdf.tagged/itaggedcontent/createprivateelement/)() | [`PrivateElement`](../../aspose.pdf.logicalstructure/privateelement/) を作成します。 |
-| [CreateQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createquoteelement/)() | [`QuoteElement`](../../aspose.pdf.logicalstructure/quoteelement/) を作成します。 |
-| [CreateReferenceElement](../../aspose.pdf.tagged/itaggedcontent/createreferenceelement/)() | [`ReferenceElement`](../../aspose.pdf.logicalstructure/referenceelement/) を作成します。 |
-| [CreateRubyElement](../../aspose.pdf.tagged/itaggedcontent/createrubyelement/)() | [`RubyElement`](../../aspose.pdf.logicalstructure/rubyelement/) を作成します。 |
-| [CreateSectElement](../../aspose.pdf.tagged/itaggedcontent/createsectelement/)() | [`SectElement`](../../aspose.pdf.logicalstructure/sectelement/) を作成します。 |
-| [CreateSpanElement](../../aspose.pdf.tagged/itaggedcontent/createspanelement/)() | [`SpanElement`](../../aspose.pdf.logicalstructure/spanelement/) を作成します。 |
-| [CreateTableElement](../../aspose.pdf.tagged/itaggedcontent/createtableelement/)() | [`TableElement`](../../aspose.pdf.logicalstructure/tableelement/) を作成します。 |
-| [CreateTableTBodyElement](../../aspose.pdf.tagged/itaggedcontent/createtabletbodyelement/)() | [`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement/) を作成します。 |
-| [CreateTableTDElement](../../aspose.pdf.tagged/itaggedcontent/createtabletdelement/)() | [`TableTDElement`](../../aspose.pdf.logicalstructure/tabletdelement/) を作成します。 |
-| [CreateTableTFootElement](../../aspose.pdf.tagged/itaggedcontent/createtabletfootelement/)() | [`TableTFootElement`](../../aspose.pdf.logicalstructure/tabletfootelement/) を作成します。 |
-| [CreateTableTHeadElement](../../aspose.pdf.tagged/itaggedcontent/createtabletheadelement/)() | [`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement/) を作成します。 |
-| [CreateTableTHElement](../../aspose.pdf.tagged/itaggedcontent/createtablethelement/)() | [`TableTHElement`](../../aspose.pdf.logicalstructure/tablethelement/) を作成します。 |
-| [CreateTableTRElement](../../aspose.pdf.tagged/itaggedcontent/createtabletrelement/)() | [`TableTRElement`](../../aspose.pdf.logicalstructure/tabletrelement/) を作成します。 |
-| [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement/)() | [`TOCElement`](../../aspose.pdf.logicalstructure/tocelement/) を作成します。 |
-| [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement/)() | [`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement/) を作成します。 |
-| [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement/)() | [`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement/) を作成します。 |
+| [CreateFormulaElement](../../aspose.pdf.tagged/itaggedcontent/createformulaelement/)() | 作成します [`FormulaElement`](../../aspose.pdf.logicalstructure/formulaelement/). |
+| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement/#createheaderelement)() | 作成します [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/). |
+| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement/#createheaderelement_1)(int) | レベル付きで [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/) を作成します. |
+| [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement/)() | 作成します [`IndexElement`](../../aspose.pdf.logicalstructure/indexelement/). |
+| [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement/)() | 作成します [`LinkElement`](../../aspose.pdf.logicalstructure/linkelement/). |
+| [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement/)() | 作成します [`ListElement`](../../aspose.pdf.logicalstructure/listelement/). |
+| [CreateListLblElement](../../aspose.pdf.tagged/itaggedcontent/createlistlblelement/)() | 作成します [`ListLblElement`](../../aspose.pdf.logicalstructure/listlblelement/). |
+| [CreateListLBodyElement](../../aspose.pdf.tagged/itaggedcontent/createlistlbodyelement/)() | 作成します [`ListLBodyElement`](../../aspose.pdf.logicalstructure/listlbodyelement/). |
+| [CreateListLIElement](../../aspose.pdf.tagged/itaggedcontent/createlistlielement/)() | 作成します [`ListLIElement`](../../aspose.pdf.logicalstructure/listlielement/). |
+| [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement/)() | 作成します [`NonStructElement`](../../aspose.pdf.logicalstructure/nonstructelement/). |
+| [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement/)() | 作成します [`NoteElement`](../../aspose.pdf.logicalstructure/noteelement/). |
+| [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement/)() | 作成します [`ParagraphElement`](../../aspose.pdf.logicalstructure/paragraphelement/). |
+| [CreatePartElement](../../aspose.pdf.tagged/itaggedcontent/createpartelement/)() | 作成します [`PartElement`](../../aspose.pdf.logicalstructure/partelement/). |
+| [CreatePrivateElement](../../aspose.pdf.tagged/itaggedcontent/createprivateelement/)() | 作成します [`PrivateElement`](../../aspose.pdf.logicalstructure/privateelement/). |
+| [CreateQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createquoteelement/)() | 作成します [`QuoteElement`](../../aspose.pdf.logicalstructure/quoteelement/). |
+| [CreateReferenceElement](../../aspose.pdf.tagged/itaggedcontent/createreferenceelement/)() | 作成します [`ReferenceElement`](../../aspose.pdf.logicalstructure/referenceelement/). |
+| [CreateRubyElement](../../aspose.pdf.tagged/itaggedcontent/createrubyelement/)() | 作成します [`RubyElement`](../../aspose.pdf.logicalstructure/rubyelement/). |
+| [CreateSectElement](../../aspose.pdf.tagged/itaggedcontent/createsectelement/)() | 作成します [`SectElement`](../../aspose.pdf.logicalstructure/sectelement/). |
+| [CreateSpanElement](../../aspose.pdf.tagged/itaggedcontent/createspanelement/)() | 作成します [`SpanElement`](../../aspose.pdf.logicalstructure/spanelement/). |
+| [CreateTableElement](../../aspose.pdf.tagged/itaggedcontent/createtableelement/)() | 作成します [`TableElement`](../../aspose.pdf.logicalstructure/tableelement/). |
+| [CreateTableTBodyElement](../../aspose.pdf.tagged/itaggedcontent/createtabletbodyelement/)() | 作成します [`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement/). |
+| [CreateTableTDElement](../../aspose.pdf.tagged/itaggedcontent/createtabletdelement/)() | 作成します [`TableTDElement`](../../aspose.pdf.logicalstructure/tabletdelement/). |
+| [CreateTableTFootElement](../../aspose.pdf.tagged/itaggedcontent/createtabletfootelement/)() | 作成します [`TableTFootElement`](../../aspose.pdf.logicalstructure/tabletfootelement/). |
+| [CreateTableTHeadElement](../../aspose.pdf.tagged/itaggedcontent/createtabletheadelement/)() | 作成します [`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement/). |
+| [CreateTableTHElement](../../aspose.pdf.tagged/itaggedcontent/createtablethelement/)() | 作成します [`TableTHElement`](../../aspose.pdf.logicalstructure/tablethelement/). |
+| [CreateTableTRElement](../../aspose.pdf.tagged/itaggedcontent/createtabletrelement/)() | 作成します [`TableTRElement`](../../aspose.pdf.logicalstructure/tabletrelement/). |
+| [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement/)() | `[`TOCElement`](../../aspose.pdf.logicalstructure/tocelement/) を作成します。` |
+| [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement/)() | `[`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement/) を作成します。` |
+| [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement/)() | `[`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement/) を作成します。` |
+| [PreSave](../../aspose.pdf.tagged/itaggedcontent/presave/)() | ドキュメントのタグ付けされたコンテンツを保存のために準備します。このメソッドは必要な保存前操作を実行し、構造ツリーやその他のタグ付けコンテンツ要素がドキュメントの保存前に適切に構成されていることを保証します。 |
+| [Save](../../aspose.pdf.tagged/itaggedcontent/save/)() | タグ付けされたコンテンツの現在の状態を関連付けられた PDF ドキュメントに保存します。 |
 | [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage/)(string) | PDF ドキュメントの自然言語を設定します。 |
 | [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle/)(string) | PDF ドキュメントのタイトルを設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../)
+
+

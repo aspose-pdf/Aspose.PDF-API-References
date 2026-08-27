@@ -1,7 +1,7 @@
 ---
-title: XImageCollection.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection メソッド。コレクション内の画像を別の画像に置き換えます
+title: "XImageCollection.Replace"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImageCollection メソッド。コレクション内の画像を別の画像に置き換えます。"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf/ximagecollection/replace/
@@ -14,16 +14,16 @@ url: /ja/net/aspose.pdf/ximagecollection/replace/
 public void Replace(int index, Stream stream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | [1..images count] 範囲内で置き換えられるコレクションアイテムのインデックス。 |
-| stream | Stream | 画像データを含むストリーム（JPEG形式）。 |
+| インデックス | Int32 | 置き換えられるコレクション項目のインデックス（範囲は [1..images count]）。 |
+| stream | Stream | 画像データ（JPEG 形式）のストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [XImageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,18 +35,18 @@ public void Replace(int index, Stream stream)
 public void Replace(int index, Stream stream, int quality, bool isBlackAndWhite)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | [1..images count] 範囲内で置き換えられるコレクションアイテムのインデックス。 |
-| stream | Stream | 画像データを含むストリーム（JPEG形式）。 |
-| quality | Int32 | JPEG圧縮の品質（パーセント）。有効な値は 0..100。 |
-| isBlackAndWhite | Boolean | true の場合、画像は CCITT 圧縮方式で圧縮され、白黒画像に対してより良い圧縮を提供します。白黒画像のみに使用できます。 |
+| インデックス | Int32 | 置き換えられるコレクション項目のインデックス（範囲は [1..images count]）。 |
+| stream | Stream | 画像データ（JPEG 形式）のストリーム。 |
+| quality | Int32 | JPEG 圧縮の品質（パーセンテージ）。有効な値は 0〜100 です。 |
+| isBlackAndWhite | Boolean | true の場合、画像は CCITT 圧縮方式で圧縮され、黒白画像に対してより高い圧縮率が得られます。黒白画像にのみ使用できます。 |
 
-### 参照
+### 関連項目
 
-* クラス [XImageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -58,14 +58,16 @@ public void Replace(int index, Stream stream, int quality, bool isBlackAndWhite)
 public void Replace(int index, Stream stream, int quality)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | [1..images count] 範囲内で置き換えられるコレクションアイテムのインデックス。 |
-| stream | Stream | 画像データを含むストリーム（JPEG形式）。 |
-| quality | Int32 | JPEG品質。 |
+| インデックス | Int32 | 置き換えられるコレクション項目のインデックス（範囲は [1..images count]）。 |
+| stream | Stream | 画像データ（JPEG 形式）のストリーム。 |
+| quality | Int32 | JPEG の品質。 |
 
-### 参照
+### 関連項目
 
-* クラス [XImageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class KeyedSignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.KeyedSignatureAlgorithmInfo クラス。キー付き署名アルゴリズムに関する情報を表すクラス
+title: "クラス KeyedSignatureAlgorithmInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Security.KeyedSignatureAlgorithmInfo クラス。キー署名アルゴリズムに関する情報を表すクラスです。"
 type: docs
-weight: 9980
+weight: 10160
 url: /ja/net/aspose.pdf.security/keyedsignaturealgorithminfo/
 ---
-## KeyedSignatureAlgorithmInfo クラス
+## KeyedSignatureAlgorithmInfo class
 
 キー付き署名アルゴリズムに関する情報を表すクラスです。
 
@@ -30,13 +30,15 @@ public abstract class KeyedSignatureAlgorithmInfo : SignatureAlgorithmInfo
 
 | 名前 | 説明 |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF ドキュメントに署名するために使用される署名アルゴリズムのタイプを取得します。 |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF ドキュメントに署名するために使用される暗号標準を取得します。 |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これはドキュメントコンテンツのハッシュが署名されるダイジェストハッシュアルゴリズムです。 |
-| readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | 署名アルゴリズムによって使用される暗号鍵のサイズを取得します。 |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF ドキュメントの署名に使用される署名アルゴリズムのタイプを取得します。 |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF ドキュメントの署名に使用される暗号標準を取得します。 |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これは文書内容のハッシュが署名されるダイジェストハッシュアルゴリズムです。 |
+| readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | 署名アルゴリズムで使用される暗号鍵のサイズを取得します。 |
 
-### 参照
+### 関連項目
 
-* クラス [SignatureAlgorithmInfo](../signaturealgorithminfo/)
-* 名前空間 [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* アセンブリ [Aspose.PDF](../../)
+* class [SignatureAlgorithmInfo](../signaturealgorithminfo/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

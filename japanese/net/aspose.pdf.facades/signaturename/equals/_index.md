@@ -1,12 +1,12 @@
 ---
-title: SignatureName.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName メソッド。 このインスタンスと指定されたオブジェクトが等しいかどうかを判断します。
+title: "SignatureName.Equals"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureName メソッド。このインスタンスと指定されたオブジェクトが等しいかどうかを判断します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/signaturename/equals/
 ---
-## SignatureName.Equals メソッド
+## SignatureName.Equals method
 
 このインスタンスと指定されたオブジェクトが等しいかどうかを判断します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.facades/signaturename/equals/
 public override bool Equals(object obj)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| obj | Object | 現在のインスタンスと比較するオブジェクト。 |
+| obj | Object | 現在のインスタンスと比較するオブジェクトです。 |
 
 ### 戻り値
 
-指定されたオブジェクトが現在のインスタンスと等しい場合は true; それ以外の場合は false。
+指定されたオブジェクトが現在のインスタンスと等しい場合は true、そうでない場合は false です。
 
-### 参照
+### 関連項目
 
-* クラス [SignatureName](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum ContentDisposition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ContentDisposition 列挙型。MIME プロトコル ContentDisposition ヘッダー
+title: "列挙体 ContentDisposition"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ContentDisposition 列挙型。MIME プロトコルの ContentDisposition ヘッダー"
 type: docs
-weight: 3350
+weight: 3460
 url: /ja/net/aspose.pdf/contentdisposition/
 ---
-## ContentDisposition 列挙型
+## ContentDisposition enumeration
 
-MIME プロトコル Content-Disposition ヘッダー。
+MIME プロトコルの Content-Disposition ヘッダー。
 
 ```csharp
 public enum ContentDisposition
@@ -21,7 +21,9 @@ public enum ContentDisposition
 | Inline | `0` | 結果はインラインで表示されます。 |
 | Attachment | `1` | 結果は添付ファイルとして保存されます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

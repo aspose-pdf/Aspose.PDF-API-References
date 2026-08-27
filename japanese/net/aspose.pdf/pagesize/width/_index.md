@@ -1,12 +1,12 @@
 ---
-title: PageSize.Width
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize プロパティ。ページの幅を取得または設定します
+title: "PageSize.Width"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageSize プロパティ。ページ幅を取得または設定します"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf/pagesize/width/
 ---
-## PageSize.Width プロパティ
+## PageSize.Width property
 
 ページの幅を取得または設定します。
 
@@ -16,6 +16,8 @@ public float Width { get; set; }
 
 ### 関連項目
 
-* クラス [PageSize](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

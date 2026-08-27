@@ -1,26 +1,28 @@
 ---
-title: FontSourceCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection メソッド。コレクションに新しいフォントソースオブジェクトを追加します。
+title: "FontSourceCollection.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontSourceCollection メソッド。新しいフォントソースオブジェクトをコレクションに追加します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.text/fontsourcecollection/add/
 ---
-## FontSourceCollection.Add メソッド
+## FontSourceCollection.Add method
 
-コレクションに新しいフォントソースオブジェクトを追加します。
+新しいフォントソースオブジェクトをコレクションに追加します。
 
 ```csharp
 public void Add(FontSource fontSource)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fontSource | FontSource | フォントソース。 |
 
-### 参照
+### 関連項目
 
-* クラス [FontSource](../../fontsource/)
-* クラス [FontSourceCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

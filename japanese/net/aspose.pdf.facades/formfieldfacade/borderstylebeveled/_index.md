@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleBeveled
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade フィールド。ベベルボーダースタイルを定義します
+title: "FormFieldFacade.BorderStyleBeveled"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldFacade フィールド。ベベル加工された枠線スタイルを定義します"
 type: docs
 weight: 290
 url: /ja/net/aspose.pdf.facades/formfieldfacade/borderstylebeveled/
 ---
-## FormFieldFacade.BorderStyleBeveled フィールド
+## FormFieldFacade.BorderStyleBeveled field
 
-ベベルボーダースタイルを定義します。
+ベベル加工されたボーダースタイルを定義します。
 
 ```csharp
 public const int BorderStyleBeveled;
@@ -16,6 +16,8 @@ public const int BorderStyleBeveled;
 
 ### 関連項目
 
-* クラス [FormFieldFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum TextEditOptions.ClippingPathsProcessingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextEditOptionsClippingPathsProcessingMode 列挙型。クリッピングパス処理モード
+title: "列挙体 TextEditOptions.ClippingPathsProcessingMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.TextEditOptionsClippingPathsProcessingMode 列挙体。クリッピングパス処理モード"
 type: docs
-weight: 10830
+weight: 11010
 url: /ja/net/aspose.pdf.text/texteditoptions.clippingpathsprocessingmode/
 ---
-## TextEditOptions.ClippingPathsProcessingMode 列挙型
+## TextEditOptions.ClippingPathsProcessingMode enumeration
 
 クリッピングパス処理モード
 
@@ -18,12 +18,14 @@ public enum ClippingPathsProcessingMode
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| KeepIntact | `0` | 元のページレイアウトのクリッピングパスを保持します。（デフォルト） |
+| KeepIntact | `0` | 元のページレイアウトのクリッピングパスを保持します。（既定） |
 | Expand | `1` | 編集されたテキストがより多くのスペースを必要とする場合、元のクリッピングパスが拡張されます。 |
-| Remove | `2` | 編集されたテキストがより多くのスペースを必要とする場合、元のクリッピングパスが削除されます。注意：クリッピングパスが互いに影響を与える可能性があるため、削除するとページレイアウトに予期しない結果をもたらすことがあります。 |
+| Remove | `2` | 編集されたテキストがより多くのスペースを必要とする場合、元のクリッピングパスは削除されます。注意: クリッピングパス同士が相互作用する可能性があるため、削除するとページレイアウトで予期しない結果になることがあります。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextEditOptions](../texteditoptions/)
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* class [TextEditOptions](../texteditoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

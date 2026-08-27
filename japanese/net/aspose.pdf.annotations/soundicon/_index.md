@@ -1,14 +1,14 @@
 ---
-title: Enum SoundIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundIcon 列挙型。注釈を表示するために使用されるアイコンを列挙します。
+title: "SoundIcon 列挙体"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.SoundIcon 列挙体。アノテーションの表示に使用されるアイコンを列挙します。"
 type: docs
-weight: 2560
+weight: 2660
 url: /ja/net/aspose.pdf.annotations/soundicon/
 ---
-## SoundIcon 列挙型
+## SoundIcon enumeration
 
-注釈を表示するために使用されるアイコンを列挙します。
+アノテーションの表示に使用されるアイコンを列挙します。
 
 ```csharp
 public enum SoundIcon
@@ -18,10 +18,12 @@ public enum SoundIcon
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| スピーカー | `0` | スピーカーアイコン。 |
-| マイク | `1` | マイクアイコン。 |
+| Speaker | `0` | スピーカー アイコン。 |
+| Mic | `1` | マイクロフォン アイコン。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

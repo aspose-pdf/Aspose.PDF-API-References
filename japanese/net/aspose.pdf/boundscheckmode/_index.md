@@ -1,12 +1,12 @@
 ---
-title: Enum BoundsCheckMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BoundsCheckMode 列挙型。コレクションにアイテムを追加する際の境界チェックの動作を指定します。
+title: "列挙体 BoundsCheckMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.BoundsCheckMode 列挙型。コレクションに項目を追加する際の境界チェックの動作を指定します"
 type: docs
-weight: 2920
+weight: 3030
 url: /ja/net/aspose.pdf/boundscheckmode/
 ---
-## BoundsCheckMode 列挙型
+## BoundsCheckMode enumeration
 
 コレクションにアイテムを追加する際の境界チェックの動作を指定します。
 
@@ -18,10 +18,12 @@ public enum BoundsCheckMode
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Default | `0` | デフォルトの動作：境界チェックなしでアイテムを追加します。 |
-| ThrowExceptionIfDoesNotFit | `1` | アイテムが指定されたコンテナの寸法内に収まらない場合、BoundsNotFitException をスローします。 |
+| Default | `0` | デフォルトの動作: 境界チェックなしで項目を追加します。 |
+| ThrowExceptionIfDoesNotFit | `1` | アイテムが指定されたコンテナのサイズ（境界を含む）に収まらない場合、BoundsNotFitException をスローします。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.OnActivated
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation プロパティ。アノテーションがアクティブ化されたときに実行されるアクション
+title: "WidgetAnnotation.OnActivated"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "WidgetAnnotation プロパティ。アノテーションが有効化されたときに実行されるアクション"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.annotations/widgetannotation/onactivated/
 ---
-## WidgetAnnotation.OnActivated プロパティ
+## WidgetAnnotation.OnActivated property
 
-アノテーションがアクティブ化されたときに実行されるアクションです。
+Annotation がアクティブ化されたときに実行されるアクションです。
 
 ```csharp
 public PdfAction OnActivated { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnActivated { get; set; }
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

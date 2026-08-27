@@ -1,14 +1,14 @@
 ---
-title: Graph.Border
-second_title: Aspose.PDF for .NET API Reference
-description: グラフプロパティ。ボーダーを取得または設定します
+title: "Graph.Border"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Graph プロパティ。ボーダーを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.drawing/graph/border/
 ---
-## Graph.Border プロパティ
+## Graph.Border property
 
-ボーダーを取得または設定します。
+境界線を取得または設定します。
 
 ```csharp
 public BorderInfo Border { get; set; }
@@ -16,7 +16,9 @@ public BorderInfo Border { get; set; }
 
 ### 関連項目
 
-* クラス [BorderInfo](../../../aspose.pdf/borderinfo/)
-* クラス [Graph](../)
-* 名前空間 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

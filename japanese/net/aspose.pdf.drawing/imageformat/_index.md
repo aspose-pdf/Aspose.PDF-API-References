@@ -1,12 +1,12 @@
 ---
-title: Enum ImageFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.ImageFormat 列挙型。この列挙型は画像フォーマットを表します
+title: "列挙体 ImageFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Drawing.ImageFormat 列挙体。この列挙体は画像フォーマットを表します"
 type: docs
-weight: 3950
+weight: 4070
 url: /ja/net/aspose.pdf.drawing/imageformat/
 ---
-## ImageFormat 列挙型
+## ImageFormat enumeration
 
 この列挙型は画像フォーマットを表します。
 
@@ -23,13 +23,15 @@ public enum ImageFormat
 | Gif | `2` | GIF フォーマット。 |
 | Png | `3` | PNG フォーマット。 |
 | Tiff | `4` | TIFF フォーマット。 |
-| Emf | `5` | EMF フォーマット。 |
-| Dicom | `6` | DICOM フォーマット。 |
-| MemoryBmp | `7` | MemoryBmp フォーマット。 |
-| Wmf | `8` | Wmf フォーマット。 |
-| Exif | `9` | Exif フォーマット。 |
+| Emf | `5` | EMF 形式。 |
+| Dicom | `6` | DICOM 形式。 |
+| MemoryBmp | `7` | MemoryBmp 形式。 |
+| Wmf | `8` | Wmf 形式。 |
+| Exif | `9` | Exif 形式。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

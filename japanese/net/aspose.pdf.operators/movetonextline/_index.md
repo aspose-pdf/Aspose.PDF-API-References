@@ -1,20 +1,20 @@
 ---
-title: Class MoveToNextLine
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.MoveToNextLine クラス。T 演算子の移動を表すクラス、次の行の先頭に移動します。
+title: "クラス MoveToNextLine"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.MoveToNextLine クラス。T 演算子は次の行の先頭へ移動することを表すクラスです。"
 type: docs
-weight: 7510
+weight: 7650
 url: /ja/net/aspose.pdf.operators/movetonextline/
 ---
-## MoveToNextLine クラス
+## MoveToNextLine class
 
-T* 演算子 (次の行の先頭に移動) を表すクラスです。
+T* 演算子 (次の行の開始位置へ移動) を表すクラス。
 
 ```csharp
 public class MoveToNextLine : TextPlaceOperator
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -24,18 +24,20 @@ public class MoveToNextLine : TextPlaceOperator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リスト内の演算子インデックス。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetonextline/accept/)(IOperatorSelector) | 演算子を処理するためのビジターオブジェクトを受け入れます。 |
+| override [Accept](../../aspose.pdf.operators/movetonextline/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
 | override [ToString](../../aspose.pdf.operators/movetonextline/tostring/)() | 演算子のテキストを返します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextPlaceOperator](../textplaceoperator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

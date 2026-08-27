@@ -1,14 +1,14 @@
 ---
-title: XmpField.ToStructure
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField メソッド。値を構造体として取得します
+title: "XmpField.ToStructure"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpField メソッド。値を構造体として取得します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/xmpfield/tostructure/
 ---
-## XmpField.ToStructure メソッド
+## XmpField.ToStructure method
 
-値を構造体として取得します。
+構造体として値を取得します。
 
 ```csharp
 public XmpField[] ToStructure()
@@ -16,10 +16,12 @@ public XmpField[] ToStructure()
 
 ### 戻り値
 
-構造体。
+構造体です。
 
-### 参照
+### 関連項目
 
-* クラス [XmpField](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

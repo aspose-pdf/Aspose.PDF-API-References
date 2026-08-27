@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.GetCheckedStateName
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation メソッド。既存の状態名に従ってチェックされた状態の名前を返します
+title: "WidgetAnnotation.GetCheckedStateName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "WidgetAnnotation メソッド。既存の状態名に基づいてチェックされた状態の名前を返します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.annotations/widgetannotation/getcheckedstatename/
 ---
-## WidgetAnnotation.GetCheckedStateName メソッド
+## WidgetAnnotation.GetCheckedStateName method
 
-既存の状態名に従って「チェックされた」状態の名前を返します。
+既存の状態名に従って「checked」状態の名前を返します。
 
 ```csharp
 public string GetCheckedStateName()
@@ -16,10 +16,12 @@ public string GetCheckedStateName()
 
 ### 戻り値
 
-この注釈の「チェックされた」状態の名前。
+このアノテーションの "checked" 状態の名前です。
 
-### 参照
+### 関連項目
 
-* クラス [WidgetAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

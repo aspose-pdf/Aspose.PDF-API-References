@@ -1,12 +1,12 @@
 ---
-title: StructureElement.StructureType
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement プロパティ。構造要素のタイプを取得します
+title: "StructureElement.StructureType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureElement プロパティ。構造要素のタイプを取得します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 ---
-## StructureElement.StructureType プロパティ
+## StructureElement.StructureType property
 
 構造要素のタイプを取得します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 public StructureTypeStandard StructureType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-構造要素の StructureTypeStandard オブジェクト。
+StructureTypeStandard オブジェクト（構造要素の）。
 
-### 参照
+### 関連項目
 
-* クラス [StructureTypeStandard](../../structuretypestandard/)
-* クラス [StructureElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../../structuretypestandard/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

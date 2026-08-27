@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.Denominator
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat プロパティ。FractionDisplayment が ShowAsFraction の場合、この値は分数の分母です。デフォルト値は 16 です。
+title: "Measure.NumberFormat.Denominator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NumberFormat プロパティ。FractionDisplayment が ShowAsFraction の場合、この値は分数の分母です。デフォルト値は 16 です。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/measure.numberformat/denominator/
 ---
-## Measure.NumberFormat.Denominator プロパティ
+## Measure.NumberFormat.Denominator property
 
 FractionDisplayment が ShowAsFraction の場合、この値は分数の分母です。デフォルト値は 16 です。
 
@@ -19,3 +19,5 @@ public int Denominator { get; set; }
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

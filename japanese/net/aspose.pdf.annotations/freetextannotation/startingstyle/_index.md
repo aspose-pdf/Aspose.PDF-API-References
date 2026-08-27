@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.StartingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation プロパティ。行の終了点の行の終了スタイルを取得または設定します。このプロパティは廃止予定ですので、EndingStyle を使用してください。
+title: "FreeTextAnnotation.StartingStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FreeTextAnnotation プロパティ。ラインエンドポイントのラインエンドスタイルを取得または設定します。このプロパティは廃止予定です。EndingStyle を使用してください。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.annotations/freetextannotation/startingstyle/
 ---
-## FreeTextAnnotation.StartingStyle プロパティ
+## FreeTextAnnotation.StartingStyle property
 
-行の終了点の行の終了スタイルを取得または設定します。このプロパティは廃止予定ですので、EndingStyle を使用してください。
+終点のラインエンドスタイルを取得または設定します。このプロパティは廃止予定です。代わりに EndingStyle を使用してください。
 
 ```csharp
 public LineEnding StartingStyle { get; set; }
@@ -20,3 +20,5 @@ public LineEnding StartingStyle { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

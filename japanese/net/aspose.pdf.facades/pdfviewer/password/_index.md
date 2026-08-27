@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.Password
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer プロパティ。入力ドキュメントのパスワードを取得または設定します
+title: "PdfViewer.Password"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer プロパティ。入力ドキュメントのパスワードを取得または設定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/pdfviewer/password/
 ---
-## PdfViewer.Password プロパティ
+## PdfViewer.Password property
 
 入力ドキュメントのパスワードを取得または設定します。
 
@@ -16,6 +16,8 @@ public string Password { get; set; }
 
 ### 関連項目
 
-* クラス [PdfViewer](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

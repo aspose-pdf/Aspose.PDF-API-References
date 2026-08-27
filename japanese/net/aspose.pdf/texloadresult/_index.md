@@ -1,14 +1,14 @@
 ---
-title: Enum TeXLoadResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TeXLoadResult 列挙型。TeX の読み込みとコンパイルの結果
+title: "Enum TeXLoadResult"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.TeXLoadResult 列挙型。TeX のロードとコンパイルの結果。"
 type: docs
-weight: 10380
+weight: 10560
 url: /ja/net/aspose.pdf/texloadresult/
 ---
-## TeXLoadResult 列挙型
+## TeXLoadResult enumeration
 
-TeX の読み込みとコンパイルの結果。
+TeX のロードとコンパイルの結果。
 
 ```csharp
 public enum TeXLoadResult
@@ -18,14 +18,16 @@ public enum TeXLoadResult
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| NotExecuted | `0` | 読み込みはまだ実行されていません。 |
-| Spotless | `1` | 読み込みとコンパイルの結果は完璧です。 |
-| WarningIssued | `2` | 読み込みとコンパイルに警告があります。 |
-| ErrorMessageIssued | `3` | 読み込みとコンパイルにエラーがあります。 |
-| FatalErrorStop | `4` | 読み込みとコンパイルに致命的なエラーがあります。 |
-| InvalidResult | `5` | 読み込みとコンパイルの結果が無効です。 |
+| NotExecuted | `0` | ロードはまだ実行されていません。 |
+| Spotless | `1` | ロードとコンパイルの完璧な結果。 |
+| WarningIssued | `2` | ロードとコンパイル時に警告が存在します。 |
+| ErrorMessageIssued | `3` | ロードとコンパイル時にエラーが存在します。 |
+| FatalErrorStop | `4` | ロードとコンパイル時に致命的なエラーが存在します。 |
+| InvalidResult | `5` | ロードとコンパイルの無効な結果。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

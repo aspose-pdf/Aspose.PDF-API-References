@@ -1,26 +1,28 @@
 ---
-title: WatermarkAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation メソッド。空の本体で基底クラスの定義をオーバーライドします。
+title: "WatermarkAnnotation.ChangeAfterResize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "WatermarkAnnotation メソッド。基底クラスの定義を空の本体でオーバーライドします"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.annotations/watermarkannotation/changeafterresize/
 ---
-## WatermarkAnnotation.ChangeAfterResize メソッド
+## WatermarkAnnotation.ChangeAfterResize method
 
-空の本体で基底クラスの定義をオーバーライドします。
+基底クラスの定義を空の本体でオーバーライドします。
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| transform | Matrix | 変換を指定する行列。 |
+| transform | Matrix | 変換を指定する Matrix。 |
 
-### 参照
+### 関連項目
 
-* クラス [Matrix](../../../aspose.pdf/matrix/)
-* クラス [WatermarkAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

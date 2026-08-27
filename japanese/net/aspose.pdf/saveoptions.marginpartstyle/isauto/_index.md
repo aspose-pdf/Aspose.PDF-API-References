@@ -1,25 +1,27 @@
 ---
-title: SaveOptions.MarginPartStyle.IsAuto
-second_title: Aspose.PDF for .NET API Reference
-description: MarginPartStyle プロパティ。このインスタンスが自動であるかどうかを示す値を取得または設定します
+title: "SaveOptions.MarginPartStyle.IsAuto"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarginPartStyle プロパティ。このインスタンスが自動かどうかを示す値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/saveoptions.marginpartstyle/isauto/
 ---
-## SaveOptions.MarginPartStyle.IsAuto プロパティ
+## SaveOptions.MarginPartStyle.IsAuto property
 
-このインスタンスが自動であるかどうかを示す値を取得または設定します。
+このインスタンスが自動かどうかを示す値を取得または設定します。
 
 ```csharp
 public bool IsAuto { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`true` このインスタンスが自動である場合; それ以外の場合は `false`。
+`true` はこのインスタンスが自動の場合、そうでなければ `false` です。
 
-### 参照
+### 関連項目
 
-* クラス [MarginPartStyle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

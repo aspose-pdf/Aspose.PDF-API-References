@@ -1,29 +1,31 @@
 ---
-title: OpenAISummaryCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions メソッド。サマリーコパイロットオプションの指示を設定します。
+title: "OpenAISummaryCopilotOptions.WithInstructions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAISummaryCopilotOptions メソッド。要約コパイロットオプションの指示を設定します"
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.pdf.ai/openaisummarycopilotoptions/withinstructions/
 ---
-## OpenAISummaryCopilotOptions.WithInstructions メソッド
+## OpenAISummaryCopilotOptions.WithInstructions method
 
-サマリーコパイロットオプションの指示を設定します。
+要約コパイロットオプションの指示を設定します。
 
 ```csharp
 public OpenAISummaryCopilotOptions WithInstructions(string instructions)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| instructions | String | 設定する指示。 |
+| 指示 | String | 設定する指示。 |
 
 ### 戻り値
 
-[`OpenAISummaryCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAISummaryCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAISummaryCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

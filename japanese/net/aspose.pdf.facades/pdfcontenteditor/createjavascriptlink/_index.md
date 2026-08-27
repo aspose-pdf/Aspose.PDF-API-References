@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateJavaScriptLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。PDF ドキュメント内の JavaScript へのリンクを作成します。
+title: "PdfContentEditor.CreateJavaScriptLink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。PDF ドキュメント内の JavaScript へのリンクを作成します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createjavascriptlink/
 ---
-## PdfContentEditor.CreateJavaScriptLink メソッド
+## PdfContentEditor.CreateJavaScriptLink method
 
 PDF ドキュメント内の JavaScript へのリンクを作成します。
 
@@ -14,12 +14,12 @@ PDF ドキュメント内の JavaScript へのリンクを作成します。
 public void CreateJavaScriptLink(string code, Rectangle rect, int originalPage, Color color)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| code | String | JavaScript コード。 |
-| rect | Rectangle | アクティブクリック用の矩形。 |
-| originalPage | Int32 | リンクと結びつけられた矩形が作成される元のページの番号。 |
-| color | Color | アクティブクリック用の矩形の色。 |
+| コード | String | この JavaScript コードです。 |
+| rect | Rectangle | クリック可能な領域の矩形。 |
+| originalPage | Int32 | リンクでバインドされた矩形が作成される元のページ番号。 |
+| color | Color | クリック可能な領域の矩形の色。 |
 
 ## 例
 
@@ -31,8 +31,10 @@ editor.CreateJavaScriptLink("app.alert('welcome to aspose!');",
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

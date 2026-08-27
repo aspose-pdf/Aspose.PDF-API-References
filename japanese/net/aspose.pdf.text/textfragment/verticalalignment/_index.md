@@ -1,14 +1,14 @@
 ---
-title: TextFragment.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment プロパティ。テキストフラグメントの垂直方向の配置を取得または設定します。
+title: "TextFragment.VerticalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragment プロパティ。テキストフラグメントの垂直方向の配置を取得または設定します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.text/textfragment/verticalalignment/
 ---
-## TextFragment.VerticalAlignment プロパティ
+## TextFragment.VerticalAlignment property
 
-テキストフラグメントの垂直方向の配置を取得または設定します。
+テキストフラグメントの垂直揃えを取得または設定します。
 
 ```csharp
 public override VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public override VerticalAlignment VerticalAlignment { get; set; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

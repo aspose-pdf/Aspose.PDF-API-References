@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.GetPageRotation
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor メソッド。指定されたページの回転を返します
+title: "PdfPageEditor.GetPageRotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor メソッド。指定されたページの回転角度を返します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/getpagerotation/
 ---
-## PdfPageEditor.GetPageRotation メソッド
+## PdfPageEditor.GetPageRotation method
 
 指定されたページの回転を返します。
 
@@ -14,17 +14,17 @@ url: /ja/net/aspose.pdf.facades/pdfpageeditor/getpagerotation/
 public int GetPageRotation(int page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Int32 | ページインデックス。ドキュメントのページは1から番号が付けられます。 |
+| ページ | Int32 | ページインデックス。ドキュメントのページは 1 から番号付けされます。 |
 
 ### 戻り値
 
-度数でのページ回転。
+ページの回転角度（度）。
 
 ## 例
 
-以下の例は、ページの回転を取得する方法を示しています。
+以下の例はページの回転角度を取得する方法を示しています：
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -33,8 +33,10 @@ int rotation = editor.GetPageSize(1);
 Console.WriteLine("Rotation of 1st page : " + rotation + " degrees");        
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

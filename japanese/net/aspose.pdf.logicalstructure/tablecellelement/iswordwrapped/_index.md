@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.IsWordWrapped
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement プロパティ。セルのテキストがワードラップされているかどうかを取得または設定します。
+title: "TableCellElement.IsWordWrapped"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableCellElement プロパティ。セルのテキストの改行設定を取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/
 ---
-## TableCellElement.IsWordWrapped プロパティ
+## TableCellElement.IsWordWrapped property
 
-セルのテキストがワードラップされているかどうかを取得または設定します。
+セルのテキストの折り返しを取得または設定します。
 
 ```csharp
 public bool IsWordWrapped { get; set; }
@@ -16,6 +16,8 @@ public bool IsWordWrapped { get; set; }
 
 ### 関連項目
 
-* クラス [TableCellElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

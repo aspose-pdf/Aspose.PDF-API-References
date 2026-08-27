@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.HideToolbar
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference フィールド。ドキュメントがアクティブなときに準拠リーダーのツールバーを非表示にするかどうかを指定するフラグ
+title: "ViewerPreference.HideToolbar"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference フィールド。ドキュメントがアクティブなときに準拠リーダーのツールバーを非表示にするかどうかを指定するフラグ"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/viewerpreference/hidetoolbar/
 ---
-## ViewerPreference.HideToolbar フィールド
+## ViewerPreference.HideToolbar field
 
-ドキュメントがアクティブなときに準拠リーダーのツールバーを非表示にするかどうかを指定するフラグです。
+document がアクティブなときに、準拠リーダーのツールバーを非表示にするかどうかを指定するフラグ。
 
 ```csharp
 public const int HideToolbar;
@@ -16,6 +16,8 @@ public const int HideToolbar;
 
 ### 関連項目
 
-* クラス [ViewerPreference](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection メソッド。ページをコレクションに追加します
+title: "PageCollection.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageCollection メソッド。ページをコレクションに追加します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/pagecollection/add/
@@ -14,26 +14,26 @@ url: /ja/net/aspose.pdf/pagecollection/add/
 public Page Add(Page entity)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| entity | Page | 追加されるページ。 |
+| エンティティ | ページ | 追加すべきページです。 |
 
 ### 戻り値
 
-追加されたページ。
+追加されたページです。
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../page/)
-* クラス [PageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add() {#add}
 
-空のページを追加します。ドキュメントに異なるサイズのページがすでに含まれている場合、最も頻繁に出現するページのサイズが選択されます。異なるページが2つだけの場合、最初のページのサイズが使用されます。
+空のページを追加します。Document にすでにサイズが異なるページが含まれている場合、最も頻繁に出現するページのサイズが選択されます。異なるページが2枚だけの場合は、最初のページのサイズが使用されます。
 
 ```csharp
 public Page Add()
@@ -41,14 +41,14 @@ public Page Add()
 
 ### 戻り値
 
-追加されたページ。
+追加されたページです。
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../page/)
-* クラス [PageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,16 +60,16 @@ public Page Add()
 public void Add(ICollection<Page> pages)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pages | ICollection`1 | 追加されるすべてのページを含むリスト。 |
+| pages | ICollection`1 | 追加が必要なすべてのページを含むリストです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../page/)
-* クラス [PageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -81,13 +81,15 @@ public void Add(ICollection<Page> pages)
 public void Add(Page[] pages)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pages | Page[] | 追加されるページの配列。 |
+| pages | Page[] | 追加されるページの配列です。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../page/)
-* クラス [PageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

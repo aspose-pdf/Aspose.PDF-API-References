@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.BeforeText
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat プロパティ。ラベルの左側に連結されるテキスト
+title: "Measure.NumberFormat.BeforeText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NumberFormat プロパティ。ラベルの左側に連結されるテキストです。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/measure.numberformat/beforetext/
 ---
-## Measure.NumberFormat.BeforeText プロパティ
+## Measure.NumberFormat.BeforeText property
 
-ラベルの左側に連結されるテキストです。
+ラベルの左側に連結されるテキスト。
 
 ```csharp
 public string BeforeText { get; set; }
@@ -19,3 +19,5 @@ public string BeforeText { get; set; }
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

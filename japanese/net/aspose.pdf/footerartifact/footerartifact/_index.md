@@ -1,14 +1,14 @@
 ---
-title: FooterArtifact.FooterArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: FooterArtifact コンストラクタ。Footer Artifact インスタンスを作成します
+title: "FooterArtifact.FooterArtifact"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FooterArtifact コンストラクタ。Footer Artifact インスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/footerartifact/footerartifact/
 ---
-## FooterArtifact コンストラクタ
+## FooterArtifact constructor
 
-Footer Artifact インスタンスを作成します。
+Footer Artifact のインスタンスを作成します。
 
 ```csharp
 public FooterArtifact()
@@ -19,3 +19,5 @@ public FooterArtifact()
 * class [FooterArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

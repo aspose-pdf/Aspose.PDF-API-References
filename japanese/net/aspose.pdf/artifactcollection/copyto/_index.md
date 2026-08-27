@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection メソッド。コレクションを配列にコピーします。
+title: "ArtifactCollection.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ArtifactCollection メソッド。コレクションを配列にコピーします"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/artifactcollection/copyto/
 ---
-## ArtifactCollection.CopyTo メソッド
+## ArtifactCollection.CopyTo method
 
 コレクションを配列にコピーします。
 
@@ -14,14 +14,16 @@ url: /ja/net/aspose.pdf/artifactcollection/copyto/
 public void CopyTo(Artifact[] dest, int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| dest | Artifact[] | 目的地の配列。 |
-| index | Int32 | 開始インデックス。 |
+| dest | Artifact[] | コピー先配列。 |
+| インデックス | Int32 | 開始インデックスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Artifact](../../artifact/)
-* クラス [ArtifactCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

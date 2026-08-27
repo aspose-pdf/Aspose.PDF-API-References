@@ -1,12 +1,12 @@
 ---
-title: FormEditor.RemoveField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。フォームからフィールドを削除します
+title: "FormEditor.RemoveField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor メソッド。フォームからフィールドを削除します"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/formeditor/removefield/
 ---
-## FormEditor.RemoveField メソッド
+## FormEditor.RemoveField method
 
 フォームからフィールドを削除します。
 
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.facades/formeditor/removefield/
 public void RemoveField(string fieldName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fieldName | String | 削除する必要があるフィールドの名前。 |
 
@@ -26,8 +26,10 @@ formEditor.RemoveField("listboxField");
 formEditor.RemoveField("textField");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

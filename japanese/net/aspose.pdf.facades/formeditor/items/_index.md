@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Items
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor プロパティ。新しく作成されたリストボックスまたはコンボボックスに追加されるアイテムを設定します。
+title: "FormEditor.Items"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor プロパティ。新しく作成されたリストボックスまたはコンボボックスに追加される項目を設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.facades/formeditor/items/
 ---
-## FormEditor.Items プロパティ
+## FormEditor.Items property
 
-新しく作成されたリストボックスまたはコンボボックスに追加されるアイテムを設定します。
+新しく作成されたリストボックスまたはコンボボックスに追加される項目を設定します。
 
 ```csharp
 formEditor = new Aspose.Pdf.Facades.FormEditor("input.pdf", "output.pdf");
@@ -23,6 +23,8 @@ public string[] Items { get; set; }
 
 ### 関連項目
 
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

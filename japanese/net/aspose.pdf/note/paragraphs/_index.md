@@ -1,14 +1,14 @@
 ---
-title: Note.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Note プロパティ。フットノート内のすべての段落を示すコレクションを取得または設定します。
+title: "Note.Paragraphs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Note プロパティ。フットノート内のすべての段落を示すコレクションを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/note/paragraphs/
 ---
-## Note.Paragraphs プロパティ
+## Note.Paragraphs property
 
-フットノート内のすべての段落を示すコレクションを取得または設定します。
+脚注内のすべての段落を示すコレクションを取得または設定します。
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
@@ -20,3 +20,5 @@ public Paragraphs Paragraphs { get; set; }
 * class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

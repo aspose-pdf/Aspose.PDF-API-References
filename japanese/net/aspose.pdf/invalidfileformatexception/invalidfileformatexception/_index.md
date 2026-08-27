@@ -1,7 +1,7 @@
 ---
-title: InvalidFileFormatException.InvalidFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidFileFormatException コンストラクタ。InvalidFileFormatException クラスの新しいインスタンスを初期化します
+title: "InvalidFileFormatException.InvalidFileFormatException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "InvalidFileFormatException コンストラクタ。InvalidFileFormatException クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/invalidfileformatexception/invalidfileformatexception/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf/invalidfileformatexception/invalidfileformatexception/
 public InvalidFileFormatException()
 ```
 
-### See Also
+### 関連項目
 
 * class [InvalidFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,11 +30,11 @@ public InvalidFileFormatException()
 public InvalidFileFormatException(string message)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
+| メッセージ | String | メッセージ。 |
 
-### See Also
+### 関連項目
 
 * class [InvalidFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -44,18 +44,18 @@ public InvalidFileFormatException(string message)
 
 ## InvalidFileFormatException(string, Exception) {#constructor_3}
 
-指定されたエラーメッセージと、この例外の原因となる内部例外への参照を持つ [`InvalidFileFormatException`](../) クラスの新しいインスタンスを初期化します。
+指定されたエラーメッセージと、この例外の原因となる内部例外への参照を使用して、[`InvalidFileFormatException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public InvalidFileFormatException(string message, Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| message | String | 例外の理由を説明するエラーメッセージ。 |
-| innerException | Exception | 現在の例外の原因となる例外、または内部例外が指定されていない場合は null 参照 (Visual Basic では Nothing)。 |
+| メッセージ | String | 例外の原因を説明するエラーメッセージです。 |
+| innerException | Exception | 現在の例外の原因となる例外、または内部例外が指定されていない場合は null 参照（Visual Basic では Nothing）です。 |
 
-### See Also
+### 関連項目
 
 * class [InvalidFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -65,18 +65,20 @@ public InvalidFileFormatException(string message, Exception innerException)
 
 ## InvalidFileFormatException(Exception) {#constructor_1}
 
-この例外の原因となる内部例外への参照を持つ [`InvalidFileFormatException`](../) クラスの新しいインスタンスを初期化します。
+この例外の原因となる内部例外への参照を使用して、[`InvalidFileFormatException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public InvalidFileFormatException(Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| innerException | Exception | 現在の例外の原因となる例外、または内部例外が指定されていない場合は null 参照 (Visual Basic では Nothing)。 |
+| innerException | Exception | 現在の例外の原因となる例外、または内部例外が指定されていない場合は null 参照（Visual Basic では Nothing）です。 |
 
-### See Also
+### 関連項目
 
 * class [InvalidFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

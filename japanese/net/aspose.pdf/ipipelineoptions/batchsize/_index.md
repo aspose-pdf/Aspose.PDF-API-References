@@ -1,14 +1,14 @@
 ---
-title: IPipelineOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: IPipelineOptions プロパティ。ノードからノードへ渡すページの部分のサイズを指定します。
+title: "IPipelineOptions.BatchSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IPipelineOptions プロパティ。ノード間で渡すページの一部のサイズを指定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/ipipelineoptions/batchsize/
 ---
-## IPipelineOptions.BatchSize プロパティ
+## IPipelineOptions.BatchSize property
 
-ノードからノードへ渡すページの部分のサイズを指定します。
+ノード間で渡すページの一部のサイズを指定します。
 
 ```csharp
 public int BatchSize { get; set; }
@@ -16,6 +16,8 @@ public int BatchSize { get; set; }
 
 ### 関連項目
 
-* インターフェース [IPipelineOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IPipelineOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

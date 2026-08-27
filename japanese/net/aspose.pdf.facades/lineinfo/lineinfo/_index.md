@@ -1,12 +1,12 @@
 ---
-title: LineInfo.LineInfo
-second_title: Aspose.PDF for .NET API Reference
-description: LineInfo コンストラクタ。デフォルトコンストラクタ
+title: "LineInfo.LineInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LineInfo コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/lineinfo/lineinfo/
 ---
-## LineInfo コンストラクタ
+## LineInfo constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.facades/lineinfo/lineinfo/
 public LineInfo()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [LineInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

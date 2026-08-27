@@ -1,12 +1,12 @@
 ---
-title: FontCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection プロパティ。指定されたインデックスのフォント要素を取得します
+title: "FontCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontCollection プロパティ。指定されたインデックスのフォント要素を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.text/fontcollection/item/
 ---
-## FontCollection インデクサー (1 / 2)
+## FontCollection indexer (1 of 2)
 
 指定されたインデックスのフォント要素を取得します。
 
@@ -16,13 +16,13 @@ public Font this[int index] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | コレクション内のインデックス。 |
+| インデックス | コレクション内のインデックスです。 |
 
 ### 戻り値
 
-Font オブジェクト。
+フォント オブジェクト。
 
-### 参照
+### 関連項目
 
 * class [Font](../../font/)
 * class [FontCollection](../)
@@ -31,9 +31,9 @@ Font オブジェクト。
 
 ---
 
-## FontCollection インデクサー (2 / 2)
+## FontCollection indexer (2 of 2)
 
-フォント名によってコレクションからフォントを取得します。フォントが見つからない場合は例外がスローされます。
+フォント名でコレクションからフォントを取得します。フォントが見つからない場合は例外がスローされます。
 
 ```csharp
 public Font this[string name] { get; }
@@ -41,15 +41,17 @@ public Font this[string name] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| name | フォントの名前。 |
+| 名前 | フォントの名前。 |
 
 ### 戻り値
 
-見つかったフォント。
+フォントが見つかりました。
 
-### 参照
+### 関連項目
 
 * class [Font](../../font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

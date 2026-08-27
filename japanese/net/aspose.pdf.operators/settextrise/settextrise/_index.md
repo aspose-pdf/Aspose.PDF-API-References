@@ -1,25 +1,27 @@
 ---
-title: SetTextRise.SetTextRise
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextRise コンストラクタ。オペレーターを初期化します。
+title: "SetTextRise.SetTextRise"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetTextRise コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/settextrise/settextrise/
 ---
-## SetTextRise コンストラクタ
+## SetTextRise constructor
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public SetTextRise(double textRise)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | textRise | Double | テキストの上昇。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetTextRise](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetTextRise](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

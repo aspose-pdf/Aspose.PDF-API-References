@@ -1,12 +1,12 @@
 ---
-title: XImage.GetRawImageData
-second_title: Aspose.PDF for .NET API Reference
-description: XImage メソッド。ソース画像から生の画像データを取得します
+title: "XImage.GetRawImageData"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImage メソッド。ソース画像から生の画像データを取得します。"
 type: docs
-weight: 120
+weight: 130
 url: /ja/net/aspose.pdf/ximage/getrawimagedata/
 ---
-## XImage.GetRawImageData メソッド
+## XImage.GetRawImageData method
 
 ソース画像から生の画像データを取得します。
 
@@ -18,8 +18,10 @@ public MemoryStream GetRawImageData()
 
 元の画像データを含む MemoryStream。
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

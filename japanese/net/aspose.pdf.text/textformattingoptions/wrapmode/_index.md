@@ -1,14 +1,14 @@
 ---
-title: TextFormattingOptions.WrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: TextFormattingOptions プロパティ。単語の折り返しモードを取得または設定します。デフォルト値は WordWrapMode.NoWrap です。
+title: "TextFormattingOptions.WrapMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFormattingOptions プロパティ。単語折り返しモードを取得または設定します。デフォルト値は WordWrapMode.NoWrap です。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.text/textformattingoptions/wrapmode/
 ---
-## TextFormattingOptions.WrapMode プロパティ
+## TextFormattingOptions.WrapMode property
 
-単語の折り返しモードを取得または設定します。デフォルト値は WordWrapMode.NoWrap です。
+ワードラップモードを取得または設定します。デフォルト値は WordWrapMode.NoWrap です。
 
 ```csharp
 public WordWrapMode WrapMode { get; set; }
@@ -20,3 +20,5 @@ public WordWrapMode WrapMode { get; set; }
 * class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderInfo.TopStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo フィールド。ボーダーの上部部分（ある場合）を表します
+title: "SaveOptions.BorderInfo.TopStyleIfAny"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BorderInfo フィールド。ボーダーの上部（該当する場合）を表します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/saveoptions.borderinfo/topstyleifany/
 ---
-## SaveOptions.BorderInfo.TopStyleIfAny フィールド
+## SaveOptions.BorderInfo.TopStyleIfAny field
 
-ボーダーの上部部分（ある場合）を表します
+境界線の上部（存在する場合）を表します。
 
 ```csharp
 public BorderPartStyle TopStyleIfAny;
@@ -20,3 +20,5 @@ public BorderPartStyle TopStyleIfAny;
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

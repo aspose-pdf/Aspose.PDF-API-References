@@ -1,14 +1,14 @@
 ---
-title: Interface IOperationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.IOperationResult インターフェース。具体的なプラグイン操作結果が実装すべき共通メソッドを定義する一般的な操作結果インターフェース
+title: "インターフェイス IOperationResult"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.IOperationResult インターフェイス。具体的なプラグインの操作結果が実装すべき共通メソッドを定義する汎用的な操作結果インターフェイスです。"
 type: docs
-weight: 8850
+weight: 8980
 url: /ja/net/aspose.pdf.plugins/ioperationresult/
 ---
-## IOperationResult インターフェース
+## IOperationResult interface
 
-具体的なプラグイン操作結果が実装すべき共通メソッドを定義する一般的な操作結果インターフェースです。
+具体的なプラグイン操作結果が実装すべき共通メソッドを定義する汎用操作結果インターフェイスです。
 
 ```csharp
 public interface IOperationResult
@@ -19,9 +19,9 @@ public interface IOperationResult
 | 名前 | 説明 |
 | --- | --- |
 | [Data](../../aspose.pdf.plugins/ioperationresult/data/) { get; } | 生データを取得します。 |
-| [IsFile](../../aspose.pdf.plugins/ioperationresult/isfile/) { get; } | 結果が出力ファイルへのパスであるかどうかを示します。 |
-| [IsStream](../../aspose.pdf.plugins/ioperationresult/isstream/) { get; } | 結果が出力ストリームであるかどうかを示します。 |
-| [IsString](../../aspose.pdf.plugins/ioperationresult/isstring/) { get; } | 結果がテキスト文字列であるかどうかを示します。 |
+| [IsFile](../../aspose.pdf.plugins/ioperationresult/isfile/) { get; } | 結果が出力ファイルへのパスかどうかを示します。 |
+| [IsStream](../../aspose.pdf.plugins/ioperationresult/isstream/) { get; } | 結果が出力ストリームかどうかを示します。 |
+| [IsString](../../aspose.pdf.plugins/ioperationresult/isstring/) { get; } | 結果がテキスト文字列かどうかを示します。 |
 
 ## メソッド
 
@@ -30,7 +30,9 @@ public interface IOperationResult
 | [ToFile](../../aspose.pdf.plugins/ioperationresult/tofile/)() | 結果をファイルに変換しようとします。 |
 | [ToStream](../../aspose.pdf.plugins/ioperationresult/tostream/)() | 結果をストリームオブジェクトに変換しようとします。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

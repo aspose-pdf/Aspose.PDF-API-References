@@ -1,12 +1,12 @@
 ---
-title: Class Layer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Layer クラス。PDF ページ内のレイヤーを表します
+title: "クラス Layer"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Layer クラス。PDFページ内のレイヤーを表します"
 type: docs
-weight: 6060
+weight: 6190
 url: /ja/net/aspose.pdf/layer/
 ---
-## レイヤークラス
+## Layer class
 
 PDF ページ内のレイヤーを表します。
 
@@ -14,7 +14,7 @@ PDF ページ内のレイヤーを表します。
 public class Layer
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -40,7 +40,9 @@ public class Layer
 | [Save](../../aspose.pdf/layer/save/#save_1)(string) | 現在のレイヤーを PDF ドキュメントに保存します。 |
 | [Unlock](../../aspose.pdf/layer/unlock/)() | レイヤーのロックを解除します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

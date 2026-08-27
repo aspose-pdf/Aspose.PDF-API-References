@@ -1,14 +1,14 @@
 ---
-title: ImageDescriptionResult.ImageDescriptions
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescriptionResult プロパティ。画像の説明のリストを取得または設定します
+title: "ImageDescriptionResult.ImageDescriptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageDescriptionResult プロパティ。画像説明のリストを取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.ai/imagedescriptionresult/imagedescriptions/
 ---
-## ImageDescriptionResult.ImageDescriptions プロパティ
+## ImageDescriptionResult.ImageDescriptions property
 
-画像の説明のリストを取得または設定します。
+画像説明の一覧を取得または設定します。
 
 ```csharp
 public List<ImageDescription> ImageDescriptions { get; }
@@ -16,7 +16,9 @@ public List<ImageDescription> ImageDescriptions { get; }
 
 ### 関連項目
 
-* クラス [ImageDescription](../../imagedescription/)
-* クラス [ImageDescriptionResult](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImageDescription](../../imagedescription/)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: MergeOptions.MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: MergeOptions コンストラクタ。デフォルトコンストラクタ
+title: "MergeOptions.MergeOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MergeOptions コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/mergeoptions/mergeoptions/
 ---
-## MergeOptions コンストラクタ
+## MergeOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public MergeOptions()
 * class [MergeOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection メソッド。コレクション内のオプションの列挙子を返します
+title: "OptionCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptionCollection メソッド。 コレクション内のオプションの列挙子を返します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.forms/optioncollection/getenumerator/
 ---
-## OptionCollection.GetEnumerator メソッド
+## OptionCollection.GetEnumerator method
 
 コレクション内のオプションの列挙子を返します。
 
@@ -16,11 +16,13 @@ public IEnumerator<Option> GetEnumerator()
 
 ### 戻り値
 
-オプションの列挙子。
+オプション列挙子。
 
-### 参照
+### 関連項目
 
-* クラス [Option](../../option/)
-* クラス [OptionCollection](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

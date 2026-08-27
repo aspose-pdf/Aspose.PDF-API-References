@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetVectorStoreFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。特定のベクターストア内のファイルのリストを非同期で取得します
+title: "OpenAIClient.GetVectorStoreFilesAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。特定のベクトルストア内のファイル一覧を非同期で取得します"
 type: docs
-weight: 370
+weight: 380
 url: /ja/net/aspose.pdf.ai/openaiclient/getvectorstorefilesasync/
 ---
-## OpenAIClient.GetVectorStoreFilesAsync メソッド
+## OpenAIClient.GetVectorStoreFilesAsync method
 
-特定のベクターストア内のファイルのリストを非同期で取得します。
+特定のベクトルストア内のファイル一覧を非同期で取得します。
 
 ```csharp
 public Task<VectorStoreFileListResponse> GetVectorStoreFilesAsync(string vectorStoreId, 
@@ -16,26 +16,28 @@ public Task<VectorStoreFileListResponse> GetVectorStoreFilesAsync(string vectorS
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| vectorStoreId | String | ファイルを含むベクターストアの ID。 |
-| queryParameters | VectorStoreFileListQueryParameters | ファイルのリストをフィルタリングするためのオプションのクエリパラメーター。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| vectorStoreId | String | ファイルを含むベクトルストアの ID。 |
+| queryParameters | VectorStoreFileListQueryParameters | ファイル一覧をフィルタリングするためのオプションのクエリ パラメータ。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果には、ベクターストア内のファイルのリストが含まれます。
+非同期操作を表すタスク。タスクの結果にはベクトルストア内のファイル一覧が含まれます。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | ベクターストア ID が null または空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | ベクトルストアの Id が null または空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
-* クラス [VectorStoreFileListQueryParameters](../../vectorstorefilelistqueryparameters/)
-* クラス [OpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
+* class [VectorStoreFileListQueryParameters](../../vectorstorefilelistqueryparameters/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

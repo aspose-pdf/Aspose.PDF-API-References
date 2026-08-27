@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor プロパティ。テキスト検索オプションを取得または設定します
+title: "PdfContentEditor.TextSearchOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor プロパティ。テキスト検索オプションを取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/textsearchoptions/
 ---
-## PdfContentEditor.TextSearchOptions プロパティ
+## PdfContentEditor.TextSearchOptions property
 
 テキスト検索オプションを取得または設定します。
 
@@ -20,3 +20,5 @@ public TextSearchOptions TextSearchOptions { get; set; }
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

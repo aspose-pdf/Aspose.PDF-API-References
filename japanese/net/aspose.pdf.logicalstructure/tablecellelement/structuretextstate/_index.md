@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement プロパティ。現在の要素の StructureTextState オブジェクトを取得します
+title: "TableCellElement.StructureTextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableCellElement プロパティ。現在の要素の StructureTextState オブジェクトを取得します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.logicalstructure/tablecellelement/structuretextstate/
 ---
-## TableCellElement.StructureTextState プロパティ
+## TableCellElement.StructureTextState property
 
 現在の要素の StructureTextState オブジェクトを取得します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.logicalstructure/tablecellelement/structuretextstate/
 public StructureTextState StructureTextState { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 現在の要素の StructureTextState オブジェクト。
 
 ### 関連項目
 
-* クラス [StructureTextState](../../structuretextstate/)
-* クラス [TableCellElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTextState](../../structuretextstate/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

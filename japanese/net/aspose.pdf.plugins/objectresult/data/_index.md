@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectResult プロパティ。生データを取得します
+title: "ObjectResult.Data"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ObjectResult プロパティ。生データを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/objectresult/data/
 ---
-## ObjectResult.Data プロパティ
+## ObjectResult.Data property
 
 生データを取得します。
 
@@ -18,8 +18,10 @@ public object Data { get; }
 
 出力データを表す `object`。
 
-### 参照
+### 関連項目
 
-* クラス [ObjectResult](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

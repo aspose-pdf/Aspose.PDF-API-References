@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。非同期で新しいベクターストアファイルを作成します
+title: "OpenAIClient.CreateVectorStoreFileAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。新しいベクトルストアファイルを非同期に作成します"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.ai/openaiclient/createvectorstorefileasync/
 ---
-## OpenAIClient.CreateVectorStoreFileAsync メソッド
+## OpenAIClient.CreateVectorStoreFileAsync method
 
-非同期で新しいベクターストアファイルを作成します。
+既存のアシスタントを非同期に削除します。
 
 ```csharp
 public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorStoreId, 
@@ -16,26 +16,28 @@ public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorSto
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| vectorStoreId | String | ファイルが作成されるベクターストアの ID。 |
+| vectorStoreId | String | ファイルが作成されるベクトルストアの ID。 |
 | vectorStoreFileCreateRequest | VectorStoreFileCreateRequest | ファイル作成の詳細を含むリクエストオブジェクト。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果にはファイル作成からの応答が含まれます。
+非同期操作を表すタスクです。タスクの結果にはファイル作成のレスポンスが含まれます。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | ベクターストア ID が null または空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | ベクトルストアの Id が null または空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [VectorStoreFileResponse](../../vectorstorefileresponse/)
-* クラス [VectorStoreFileCreateRequest](../../vectorstorefilecreaterequest/)
-* クラス [OpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
+* class [VectorStoreFileCreateRequest](../../vectorstorefilecreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Signature.Date
-second_title: Aspose.PDF for .NET API Reference
-description: Signature プロパティ。署名の時間
+title: "Signature.Date"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Signature プロパティ。署名時刻。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.forms/signature/date/
 ---
-## Signature.Date プロパティ
+## Signature.Date property
 
-署名の時間です。
+署名時刻。
 
 ```csharp
 public DateTime Date { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

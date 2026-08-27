@@ -1,12 +1,12 @@
 ---
-title: Form.FlattenAllFields
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。すべてのフィールドをフラット化します
+title: "Form.FlattenAllFields"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。すべてのフィールドをフラット化します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.facades/form/flattenallfields/
 ---
-## Form.FlattenAllFields メソッド
+## Form.FlattenAllFields method
 
 すべてのフィールドをフラット化します。
 
@@ -21,8 +21,10 @@ Form form = new Form("PdfForm.pdf");
 form.FlattenAllFields();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

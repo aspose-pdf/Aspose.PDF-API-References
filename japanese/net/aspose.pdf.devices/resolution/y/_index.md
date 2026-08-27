@@ -1,12 +1,12 @@
 ---
-title: Resolution.Y
-second_title: Aspose.PDF for .NET API Reference
-description: 解像度プロパティ。垂直画像解像度を取得または設定します
+title: "Resolution.Y"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Resolution プロパティ。垂直画像解像度を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.devices/resolution/y/
 ---
-## Resolution.Y プロパティ
+## Resolution.Y property
 
 垂直画像解像度を取得または設定します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.devices/resolution/y/
 public int Y { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Resolution](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

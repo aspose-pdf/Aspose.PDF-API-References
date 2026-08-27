@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.LinkDuplicateStreams
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions プロパティ。このフラグが true に設定されている場合、リソースストリームが分析されます。重複ストリームが見つかった場合（つまり、ストリームの内容が等しい場合）、これらのストリームは 1 つのオブジェクトとして保存されます。これにより、同じドキュメントが複数回連結された場合など、一部のケースでドキュメントサイズを減少させることができます。
+title: "OptimizationOptions.LinkDuplicateStreams"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizationOptions プロパティ。このフラグが true に設定されている場合、リソースストリームが解析されます。重複するストリーム（内容が同一）が見つかった場合、これらのストリームは1つのオブジェクトとして保存されます。これにより、たとえば同じドキュメントが複数回連結された場合など、場合によってはドキュメントサイズを削減できます。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.optimization/optimizationoptions/linkduplicatestreams/
 ---
-## OptimizationOptions.LinkDuplicateStreams プロパティ
+## OptimizationOptions.LinkDuplicateStreams property
 
-このフラグが true に設定されている場合、リソースストリームが分析されます。重複ストリームが見つかった場合（つまり、ストリームの内容が等しい場合）、これらのストリームは 1 つのオブジェクトとして保存されます。これにより、同じドキュメントが複数回連結された場合など、一部のケースでドキュメントサイズを減少させることができます。
+このフラグが true に設定されていると、リソースストリームが解析されます。重複するストリームが見つかった場合（例：ストリーム内容が同じ場合）、それらのストリームは1つのオブジェクトとして保存されます。これにより、同じドキュメントが複数回連結された場合など、いくつかのケースでドキュメントサイズを減少させることができます。
 
 ```csharp
 public bool LinkDuplicateStreams { get; set; }
@@ -16,6 +16,8 @@ public bool LinkDuplicateStreams { get; set; }
 
 ### 関連項目
 
-* クラス [OptimizationOptions](../)
-* 名前空間 [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

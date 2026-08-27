@@ -1,27 +1,29 @@
 ---
-title: TiffDevice.BinarizeBradley
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice メソッド。入力ストリームに対してブラッドリー二値化を行います
+title: "TiffDevice.BinarizeBradley"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TiffDevice メソッド。入力ストリームに対して Bradley 二値化を実行します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.devices/tiffdevice/binarizebradley/
 ---
-## TiffDevice.BinarizeBradley メソッド
+## TiffDevice.BinarizeBradley method
 
-入力ストリームに対してブラッドリー二値化を行います。
+入力ストリームに対してブラッドリー二値化を実行します。
 
 ```csharp
 public void BinarizeBradley(Stream inputImageStream, Stream outputImageStream, double threshold)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputImageStream | Stream | 入力画像ストリーム。 |
-| outputImageStream | Stream | 出力画像ストリーム。 |
-| threshold | Double | 0.0 と 1.0 の間の閾値。 |
+| inputImageStream | Stream | 入力画像ストリームです。 |
+| outputImageStream | Stream | 出力画像ストリームです。 |
+| しきい値 | Double | 0.0 から 1.0 の間のしきい値です。 |
 
-### 参照
+### 関連項目
 
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: XImage.Rename
-second_title: Aspose.PDF for .NET API Reference
-description: XImage メソッド。画像の名前を変更し、新しい名前で画像へのすべての参照を置き換えます
+title: "XImage.Rename"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImage メソッド。画像の名前を変更し、画像へのすべての参照を新しい名前に置き換えます"
 type: docs
-weight: 140
+weight: 150
 url: /ja/net/aspose.pdf/ximage/rename/
 ---
-## XImage.Rename メソッド
+## XImage.Rename method
 
-画像の名前を変更し、新しい名前で画像へのすべての参照を置き換えます
+画像の名前を変更し、画像へのすべての参照を新しい名前に置き換えます。
 
 ```csharp
 public void Rename(string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | 新しい画像名。 |
+| 名前 | String | 新しい画像名。 |
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

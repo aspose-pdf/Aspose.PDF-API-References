@@ -1,26 +1,28 @@
 ---
-title: ITextElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: ITextElement プロパティ。テキスト構造要素のための StructureTextState オブジェクトを取得します
+title: "ITextElement.StructureTextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITextElement プロパティ。テキスト構造要素の StructureTextState オブジェクトを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.logicalstructure/itextelement/structuretextstate/
 ---
-## ITextElement.StructureTextState プロパティ
+## ITextElement.StructureTextState property
 
-テキスト構造要素のための StructureTextState オブジェクトを取得します。
+テキスト構造要素の StructureTextState オブジェクトを取得します。
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-テキスト構造要素のための StructureTextState オブジェクト。
+テキスト構造要素の StructureTextState オブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [StructureTextState](../../structuretextstate/)
-* インターフェース [ITextElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTextState](../../structuretextstate/)
+* interface [ITextElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

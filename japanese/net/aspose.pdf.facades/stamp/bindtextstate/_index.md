@@ -1,12 +1,12 @@
 ---
-title: Stamp.BindTextState
-second_title: Aspose.PDF for .NET API Reference
-description: スタンプメソッド。スタンプテキストのテキスト状態を設定します。
+title: "Stamp.BindTextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp メソッド。スタンプテキストのテキスト状態を設定します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.facades/stamp/bindtextstate/
 ---
-## Stamp.BindTextState メソッド
+## Stamp.BindTextState method
 
 スタンプテキストのテキスト状態を設定します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.facades/stamp/bindtextstate/
 public void BindTextState(TextState textState)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| textState | TextState | テキストプロパティを指定する TextState オブジェクト。 |
+| textState | TextState | テキストプロパティを指定する TextState オブジェクトです。 |
 
 ### 関連項目
 
-* クラス [TextState](../../../aspose.pdf.text/textstate/)
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: SaveOptions.CacheGlyphs
-second_title: Aspose.PDF for .NET API Reference
-description: SaveOptions プロパティ。aps ページを準備する際にフォントグリフがキャッシュされるかどうかを示すブール値を取得または設定します。PDFを他の形式に変換する際のパフォーマンスを向上させますが、メモリ消費が増加します。
+title: "SaveOptions.CacheGlyphs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SaveOptions プロパティ。フォントグリフが APS ページの準備中にキャッシュされるかどうかを示すブール値を取得または設定します。PDF を他の形式に変換する際のパフォーマンスを向上させますが、メモリ使用量が増加します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/saveoptions/cacheglyphs/
 ---
-## SaveOptions.CacheGlyphs プロパティ
+## SaveOptions.CacheGlyphs property
 
-aps ページを準備する際にフォントグリフがキャッシュされるかどうかを示すブール値を取得または設定します。PDFを他の形式に変換する際のパフォーマンスを向上させますが、メモリ消費が増加します。
+フォントグリフをページ作成中にキャッシュするかどうかを示すブール値を取得または設定します。PDF を他の形式に変換する際のパフォーマンスが向上しますが、メモリ使用量が増加します。
 
 ```csharp
 public bool CacheGlyphs { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [SaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

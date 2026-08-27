@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.MaximumPage
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings プロパティ。印刷ダイアログボックスで選択できる最高の FromPage または ToPage を取得または設定します。
+title: "PrinterSettings.MaximumPage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrinterSettings プロパティ。印刷ダイアログで選択できる最大の FromPage または ToPage を取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.printing/printersettings/maximumpage/
 ---
-## PrinterSettings.MaximumPage プロパティ
+## PrinterSettings.MaximumPage property
 
-印刷ダイアログボックスで選択できる最高の [`FromPage`](../frompage/) または [`ToPage`](../topage/) を取得または設定します。
+印刷ダイアログで選択できる最大の [`FromPage`](../frompage/) または [`ToPage`](../topage/) を取得または設定します。
 
 ```csharp
 public int MaximumPage { get; set; }
@@ -16,6 +16,8 @@ public int MaximumPage { get; set; }
 
 ### 関連項目
 
-* クラス [PrinterSettings](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ValidationOptions.ValidationOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ValidationOptions コンストラクタ。デフォルトコンストラクタ
+title: "ValidationOptions.ValidationOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ValidationOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.security/validationoptions/validationoptions/
 ---
-## ValidationOptions コンストラクタ
+## ValidationOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.security/validationoptions/validationoptions/
 public ValidationOptions()
 ```
 
-### 参照
+### 関連項目
 
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

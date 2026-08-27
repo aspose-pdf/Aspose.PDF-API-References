@@ -1,22 +1,24 @@
 ---
-title: Watermark.Position
-second_title: Aspose.PDF for .NET API Reference
-description: ウォーターマークプロパティ。ページ上のウォーターマーク画像の位置を取得します
+title: "Watermark.Position"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Watermark プロパティ。ページ上の透かし画像の位置を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/watermark/position/
 ---
-## ウォーターマーク.位置プロパティ
+## Watermark.Position property
 
-ページ上のウォーターマークの画像の位置を取得します。
+ページ上の透かし画像の位置を取得します。
 
 ```csharp
 public Rectangle Position { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../../rectangle/)
-* クラス [Watermark](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

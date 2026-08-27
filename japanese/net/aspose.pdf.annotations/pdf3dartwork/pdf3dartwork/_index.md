@@ -1,7 +1,7 @@
 ---
-title: PDF3DArtwork.PDF3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DArtwork コンストラクタ。PDF3DArtwork クラスの新しいインスタンスを初期化します
+title: "PDF3DArtwork.PDF3DArtwork"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DArtwork コンストラクタ。PDF3DArtwork クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/pdf3dartwork/pdf3dartwork/
@@ -15,22 +15,22 @@ public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme ligh
     PDF3DRenderMode renderMode)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | ドキュメント。 |
-| content | PDF3DContent | コンテンツ。 |
-| lightingScheme | PDF3DLightingScheme | 照明スキーム。 |
-| renderMode | PDF3DRenderMode | レンダーモード。 |
+| ドキュメント | Document | Document。 |
+| コンテンツ | PDF3DContent | そのコンテンツです。 |
+| lightingScheme | PDF3DLightingScheme | 照明スキームです。 |
+| renderMode | PDF3DRenderMode | レンダリングモードです。 |
 
 ### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [PDF3DContent](../../pdf3dcontent/)
-* クラス [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* クラス [PDF3DRenderMode](../../pdf3drendermode/)
-* クラス [PDF3DArtwork](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DContent](../../pdf3dcontent/)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,15 +42,17 @@ public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme ligh
 public PDF3DArtwork(Document doc, PDF3DContent content)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | ドキュメント。 |
-| content | PDF3DContent | コンテンツ。 |
+| ドキュメント | Document | Document。 |
+| コンテンツ | PDF3DContent | そのコンテンツです。 |
 
 ### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [PDF3DContent](../../pdf3dcontent/)
-* クラス [PDF3DArtwork](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DContent](../../pdf3dcontent/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

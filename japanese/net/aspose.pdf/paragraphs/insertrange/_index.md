@@ -1,27 +1,29 @@
 ---
-title: Paragraphs.InsertRange
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs メソッド。指定されたインデックスにコレクションの要素をリストに挿入します
+title: "Paragraphs.InsertRange"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Paragraphs メソッド。指定されたインデックスにコレクションの要素をリストに挿入します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/paragraphs/insertrange/
 ---
-## Paragraphs.InsertRange メソッド
+## Paragraphs.InsertRange method
 
-コレクションの要素を指定されたインデックスにリストに挿入します。
+指定されたインデックスにコレクションの要素をリストに挿入します。
 
 ```csharp
 public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | インデックス値。 |
-| collection | IEnumerable`1 | コレクション。 |
+| インデックス | Int32 | インデックス値です。 |
+| コレクション | IEnumerable`1 | コレクション。 |
 
-### 参照
+### 関連項目
 
-* クラス [BaseParagraph](../../baseparagraph/)
-* クラス [Paragraphs](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

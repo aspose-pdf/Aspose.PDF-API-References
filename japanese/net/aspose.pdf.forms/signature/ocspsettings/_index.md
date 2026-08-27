@@ -1,14 +1,14 @@
 ---
-title: Signature.OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Signature プロパティ。ocsp 設定を取得/設定します
+title: "Signature.OcspSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Signature プロパティ。OCSP 設定を取得/設定します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.forms/signature/ocspsettings/
 ---
-## Signature.OcspSettings プロパティ
+## Signature.OcspSettings property
 
-ocsp 設定を取得/設定します。
+OCSP 設定を取得/設定します。
 
 ```csharp
 public OcspSettings OcspSettings { get; set; }
@@ -20,3 +20,5 @@ public OcspSettings OcspSettings { get; set; }
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

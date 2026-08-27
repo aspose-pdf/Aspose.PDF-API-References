@@ -1,12 +1,12 @@
 ---
-title: Stamp.StampId
-second_title: Aspose.PDF for .NET API Reference
-description: スタンププロパティ。スタンプの識別子を取得または設定します
+title: "Stamp.StampId"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp プロパティ。スタンプの識別子を取得または設定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/stamp/stampid/
 ---
-## Stamp.StampId プロパティ
+## Stamp.StampId property
 
 スタンプの識別子を取得または設定します。
 
@@ -16,6 +16,8 @@ public int StampId { get; set; }
 
 ### 関連項目
 
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

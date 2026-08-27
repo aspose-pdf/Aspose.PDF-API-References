@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection メソッド。新しいアクションをコレクションに追加します。
+title: "ActionCollection.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ActionCollection メソッド。新しいアクションをコレクションに追加します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.annotations/actioncollection/add/
 ---
-## ActionCollection.Add メソッド
+## ActionCollection.Add method
 
 新しいアクションをコレクションに追加します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.annotations/actioncollection/add/
 public void Add(PdfAction action)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| action | PdfAction | 追加されるべきアクション。 |
+| アクション | PdfAction | 追加すべきアクション。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfAction](../../pdfaction/)
-* クラス [ActionCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

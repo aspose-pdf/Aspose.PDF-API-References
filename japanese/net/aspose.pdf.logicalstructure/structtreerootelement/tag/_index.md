@@ -1,20 +1,20 @@
 ---
-title: StructTreeRootElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: StructTreeRootElement メソッド。構造要素をコンテンツストリーム BDC 演算子にバインドします。
+title: "StructTreeRootElement.Tag"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructTreeRootElement メソッド。構造要素をコンテンツストリームの BDC 演算子にバインドします"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.logicalstructure/structtreerootelement/tag/
 ---
 ## Tag(BDC) {#tag_1}
 
-構造要素をコンテンツストリーム BDC 演算子にバインドします。
+構造要素をコンテンツストリームの BDC 演算子にバインドします。
 
 ```csharp
 public override MCRElement Tag(BDC bdc)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | bdc | BDC | コンテンツストリーム bdc 演算子。 |
 
@@ -22,39 +22,39 @@ public override MCRElement Tag(BDC bdc)
 
 MCRElementStructure 要素。
 
-### 参照
+### 関連項目
 
-* クラス [MCRElement](../../mcrelement/)
-* クラス [BDC](../../../aspose.pdf.operators/bdc/)
-* クラス [StructTreeRootElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MCRElement](../../mcrelement/)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(XForm) {#tag_3}
 
-構造要素をコンテンツストリーム XForm にバインドします。
+構造要素をコンテンツストリームの XForm にバインドします。
 
 ```csharp
 public override OBJRElement Tag(XForm form)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| form | XForm | Pdf フォーム。 |
+| フォーム | XForm | Pdf フォーム。 |
 
 ### 戻り値
 
 OBJRElementStructure 要素。
 
-### 参照
+### 関連項目
 
-* クラス [OBJRElement](../../objrelement/)
-* クラス [XForm](../../../aspose.pdf/xform/)
-* クラス [StructTreeRootElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -66,21 +66,21 @@ OBJRElementStructure 要素。
 public override OBJRElement Tag(XImage image)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | XImage | Pdf 画像。 |
+| 画像 | XImage | Pdf 画像。 |
 
 ### 戻り値
 
 OBJRElementStructure 要素。
 
-### 参照
+### 関連項目
 
-* クラス [OBJRElement](../../objrelement/)
-* クラス [XImage](../../../aspose.pdf/ximage/)
-* クラス [StructTreeRootElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [XImage](../../../aspose.pdf/ximage/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -92,21 +92,21 @@ OBJRElementStructure 要素。
 public override MCRElement Tag(Artifact artifact)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| artifact | Artifact | Pdf アーティファクト。 |
+| アーティファクト | アーティファクト | Pdf アーティファクト。 |
 
 ### 戻り値
 
 MCRElementStructure 要素。
 
-### 参照
+### 関連項目
 
-* クラス [MCRElement](../../mcrelement/)
-* クラス [Artifact](../../../aspose.pdf/artifact/)
-* クラス [StructTreeRootElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MCRElement](../../mcrelement/)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -118,18 +118,20 @@ MCRElementStructure 要素。
 public override OBJRElement Tag(Annotation annotation)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| annotation | Annotation | Pdf 注釈。 |
+| 注釈 | 注釈 | Pdf アノテーション。 |
 
 ### 戻り値
 
 OBJRElementStructure 要素。
 
-### 参照
+### 関連項目
 
-* クラス [OBJRElement](../../objrelement/)
-* クラス [Annotation](../../../aspose.pdf.annotations/annotation/)
-* クラス [StructTreeRootElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

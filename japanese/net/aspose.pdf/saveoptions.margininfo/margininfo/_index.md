@@ -1,7 +1,7 @@
 ---
-title: SaveOptions.MarginInfo.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo コンストラクタ。MarginInfo のインスタンスを作成します
+title: "SaveOptions.MarginInfo.MarginInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarginInfo コンストラクタ。 MarginInfo のインスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/saveoptions.margininfo/margininfo/
@@ -14,7 +14,7 @@ MarginInfo のインスタンスを作成します
 public MarginInfo()
 ```
 
-### See Also
+### 関連項目
 
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,19 +24,21 @@ public MarginInfo()
 
 ## MarginInfo(MarginPartStyle) {#constructor_1}
 
-MarginInfo クラスのインスタンスを作成し、提供されたマージンスタイルからコピーされた属性でページマージンのすべての要素（上、左、右、下）を初期化します
+MarginInfo クラスのインスタンスを作成し、ページ余白 (Top, Left, Right, Bottom) のすべての要素を、提供された余白スタイルからコピーされた属性で初期化します。
 
 ```csharp
 public MarginInfo(MarginPartStyle commonMargin)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| commonMargin | MarginPartStyle | マージンのすべての要素（左、右、上、下）に使用されるマージン部分のスタイル |
+| commonMargin | MarginPartStyle | 余白（左、右、上、下）のすべての要素に使用される余白パーツのスタイル |
 
-### See Also
+### 関連項目
 
 * class [MarginPartStyle](../../saveoptions.marginpartstyle/)
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

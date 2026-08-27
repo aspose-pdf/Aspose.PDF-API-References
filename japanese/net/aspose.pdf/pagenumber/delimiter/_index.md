@@ -1,21 +1,23 @@
 ---
-title: PageNumber.Delimiter
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberプロパティ。ページ番号形式で使用される区切り文字を取得または設定します。指定された区切り文字に基づいてフォーマットされた文字列が更新されます。
+title: "PageNumber.Delimiter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageNumber プロパティ。ページ番号形式で使用される区切り文字を取得または設定します。指定された区切り文字に基づいて、書式化された文字列が更新されます。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/pagenumber/delimiter/
 ---
-## PageNumber.Delimiterプロパティ
+## PageNumber.Delimiter property
 
-ページ番号形式で使用される区切り文字を取得または設定します。指定された区切り文字に基づいてフォーマットされた文字列が更新されます。
+page number 形式で使用される区切り文字を取得または設定します。指定された区切り文字に基づいて書式化された文字列が更新されます。
 
 ```csharp
 public string Delimiter { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PageNumber](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageNumber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

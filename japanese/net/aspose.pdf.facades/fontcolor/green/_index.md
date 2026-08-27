@@ -1,14 +1,14 @@
 ---
-title: FontColor.Green
-second_title: Aspose.PDF for .NET API Reference
-description: FontColor プロパティ。色の緑成分
+title: "FontColor.Green"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontColor プロパティ。色の緑成分です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/fontcolor/green/
 ---
-## FontColor.Green プロパティ
+## FontColor.Green property
 
-色の緑成分です。
+色の緑成分。
 
 ```csharp
 public int Green { get; set; }
@@ -16,6 +16,8 @@ public int Green { get; set; }
 
 ### 関連項目
 
-* クラス [FontColor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

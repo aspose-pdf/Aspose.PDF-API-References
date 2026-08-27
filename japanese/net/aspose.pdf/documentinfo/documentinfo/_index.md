@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.DocumentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo コンストラクタ。DocumentInfo インスタンスを初期化します
+title: "DocumentInfo.DocumentInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentInfo コンストラクタ。DocumentInfo インスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/documentinfo/documentinfo/
 ---
-## DocumentInfo コンストラクタ
+## DocumentInfo constructor
 
 DocumentInfo インスタンスを初期化します。
 
@@ -14,13 +14,15 @@ DocumentInfo インスタンスを初期化します。
 public DocumentInfo(Document document)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | このドキュメントの情報が初期化に使用されます。 |
+| document | Document | このドキュメントの情報は初期化に使用されます。 |
 
-### 参照
+### 関連項目
 
 * class [Document](../../document/)
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

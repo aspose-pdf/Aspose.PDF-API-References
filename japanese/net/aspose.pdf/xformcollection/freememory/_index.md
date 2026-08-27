@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection メソッド。キャッシュされたデータをクリアし、メモリを解放します。
+title: "XFormCollection.FreeMemory"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XFormCollection メソッド。キャッシュされたデータをクリアし、メモリを解放しますなど"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/xformcollection/freememory/
 ---
-## XFormCollection.FreeMemory メソッド
+## XFormCollection.FreeMemory method
 
-キャッシュされたデータをクリアし、メモリを解放します。
+キャッシュされたデータをクリアし、メモリを解放しますなど
 
 ```csharp
 public void FreeMemory()
@@ -16,6 +16,8 @@ public void FreeMemory()
 
 ### 関連項目
 
-* クラス [XFormCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

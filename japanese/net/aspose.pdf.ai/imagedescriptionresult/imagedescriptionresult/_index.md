@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.ImageDescriptionResult
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescriptionResult コンストラクタ。デフォルトコンストラクタ
+title: "ImageDescriptionResult.ImageDescriptionResult"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageDescriptionResult コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/imagedescriptionresult/imagedescriptionresult/
 ---
-## ImageDescriptionResult コンストラクタ
+## ImageDescriptionResult constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public ImageDescriptionResult()
 
 ### 関連項目
 
-* クラス [ImageDescriptionResult](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

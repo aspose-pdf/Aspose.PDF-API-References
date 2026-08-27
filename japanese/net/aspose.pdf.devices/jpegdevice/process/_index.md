@@ -1,12 +1,12 @@
 ---
-title: JpegDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: JpegDevice メソッド。ページを jpeg に変換し、出力ストリームに保存します。
+title: "JpegDevice.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "JpegDevice メソッド。ページを jpeg に変換し、出力ストリームに保存します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.devices/jpegdevice/process/
 ---
-## JpegDevice.Process メソッド
+## JpegDevice.Process method
 
 ページを jpeg に変換し、出力ストリームに保存します。
 
@@ -14,14 +14,16 @@ url: /ja/net/aspose.pdf.devices/jpegdevice/process/
 public override void Process(Page page, Stream output)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 変換するページ。 |
+| ページ | ページ | 変換するページです。 |
 | output | Stream | jpeg 画像を含む出力ストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [JpegDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

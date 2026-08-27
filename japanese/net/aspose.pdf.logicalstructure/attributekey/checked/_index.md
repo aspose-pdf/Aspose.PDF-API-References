@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Checked
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey フィールド。チェックされた属性 PrintField 属性の所有者
+title: "AttributeKey.Checked"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeKey フィールド. Checked 属性 PrintField 属性 所有者"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.logicalstructure/attributekey/checked/
 ---
-## AttributeKey.Checked フィールド
+## AttributeKey.Checked field
 
-チェックされた属性 (PrintField 属性の所有者)。
+Checked 属性（PrintField 属性所有者）。
 
 ```csharp
 public static readonly AttributeKey Checked;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Checked;
 
 ### 関連項目
 
-* クラス [AttributeKey](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

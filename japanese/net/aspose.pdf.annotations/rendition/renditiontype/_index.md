@@ -1,14 +1,14 @@
 ---
-title: Rendition.RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: レンディションプロパティ。レンディションタイプを取得します
+title: "Rendition.RenditionType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rendition プロパティ。 レンダリングタイプを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/rendition/renditiontype/
 ---
-## Rendition.RenditionType プロパティ
+## Rendition.RenditionType property
 
-レンディションタイプを取得します。
+レンダレーションのタイプを取得します。
 
 ```csharp
 public RenditionType RenditionType { get; }
@@ -20,3 +20,5 @@ public RenditionType RenditionType { get; }
 * class [Rendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

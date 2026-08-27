@@ -1,27 +1,29 @@
 ---
-title: Cells.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Cells メソッド。コレクションにセルを挿入します。
+title: "Cells.Insert"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Cells メソッド。コレクションにセルを挿入します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/cells/insert/
 ---
-## Cells.Insert メソッド
+## Cells.Insert method
 
-コレクションにセルを挿入します。
+セルをコレクションに挿入します。
 
 ```csharp
 public void Insert(int index, Cell cell)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 選択されたインデックス。 |
-| cell | Cell | 選択されたセル。 |
+| インデックス | Int32 | 選択されたインデックスです。 |
+| セル | セル | 選択されたセルです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Cell](../../cell/)
-* クラス [Cells](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

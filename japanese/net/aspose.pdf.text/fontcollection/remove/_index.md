@@ -1,30 +1,32 @@
 ---
-title: FontCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection メソッド。コレクションから指定されたアイテムを削除します
+title: "FontCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontCollection メソッド。コレクションから指定された項目を削除します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.text/fontcollection/remove/
 ---
-## FontCollection.Remove メソッド
+## FontCollection.Remove method
 
-コレクションから指定されたアイテムを削除します。
+コレクションから指定された項目を削除します。
 
 ```csharp
 public bool Remove(Font item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | Font | 削除するオブジェクト |
+| アイテム | Font | 削除するオブジェクト |
 
 ### 戻り値
 
-アイテムがコレクションから削除された場合は true; それ以外の場合は false。
+項目がコレクションから削除された場合は true、そうでない場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [Font](../../font/)
-* クラス [FontCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

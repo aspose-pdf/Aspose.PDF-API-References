@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.GetAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient メソッド。特定のアシスタントの詳細を非同期で取得します
+title: "IOpenAIClient.GetAssistantAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IOpenAIClient メソッド。特定のアシスタントの詳細を非同期で取得します"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.ai/iopenaiclient/getassistantasync/
 ---
-## IOpenAIClient.GetAssistantAsync メソッド
+## IOpenAIClient.GetAssistantAsync method
 
 特定のアシスタントの詳細を非同期で取得します。
 
@@ -15,10 +15,10 @@ public Task<AssistantResponse> GetAssistantAsync(string assistantId,
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | assistantId | String | 取得するアシスタントの ID。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
@@ -30,9 +30,11 @@ public Task<AssistantResponse> GetAssistantAsync(string assistantId,
 | --- | --- |
 | [AIClientException](../../aiclientexception/) | アシスタント ID が null または空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [AssistantResponse](../../assistantresponse/)
-* インターフェース [IOpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AssistantResponse](../../assistantresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

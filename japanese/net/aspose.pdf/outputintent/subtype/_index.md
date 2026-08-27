@@ -1,12 +1,12 @@
 ---
-title: OutputIntent.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntent プロパティ。出力インテントのサブタイプを取得します
+title: "OutputIntent.Subtype"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutputIntent プロパティ。出力インテントのサブタイプを取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/outputintent/subtype/
 ---
-## OutputIntent.Subtype プロパティ
+## OutputIntent.Subtype property
 
 出力インテントのサブタイプを取得します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/outputintent/subtype/
 public string Subtype { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [OutputIntent](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutputIntent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

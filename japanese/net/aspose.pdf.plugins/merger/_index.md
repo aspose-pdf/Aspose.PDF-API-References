@@ -1,14 +1,14 @@
 ---
-title: Class Merger
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Mergerクラス。マージャプラグインを表します
+title: "クラス Merger"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.Merger クラス。Merger プラグインを表します"
 type: docs
-weight: 8940
+weight: 9070
 url: /ja/net/aspose.pdf.plugins/merger/
 ---
-## マージャクラス
+## Merger class
 
-`Merger`プラグインを表します。
+`Merger` プラグインを表します。
 
 ```csharp
 public sealed class Merger : IPlugin
@@ -18,34 +18,36 @@ public sealed class Merger : IPlugin
 
 | 名前 | 説明 |
 | --- | --- |
-| [Merger](merger/)() | デフォルトコンストラクタ。 |
+| [Merger](merger/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/merger/process/)(IPluginOptions) | 指定されたパラメータで`Merger`処理を開始します。 |
+| [Process](../../aspose.pdf.plugins/merger/process/)(IPluginOptions) | 指定されたパラメータで `Merger` の処理を開始します。 |
 
 ## 例
 
-この例は、2つのPDFドキュメントをマージする方法を示しています。
+この例は、2 つの PDF ドキュメントをマージする方法を示しています。
 
 ```csharp
-// create Merger
+// Merger を作成する
 var merger = new Merger();
-// create MergeOptions object to set instructions
+// 指示を設定するために MergeOptions オブジェクトを作成する
 var opt = new MergeOptions();
-// add input file paths
+// 入力ファイル パスを追加する
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// 出力ファイル パスを設定する
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// プロセスを実行する
 merger.Process(opt);
 ```
 
-### 参照
+### 関連項目
 
-* インターフェース [IPlugin](../iplugin/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

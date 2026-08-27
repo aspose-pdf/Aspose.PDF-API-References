@@ -1,24 +1,24 @@
 ---
-title: Class Center
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Center クラス。ヘッダーおよびフッターデータの中央揃え設定を表します
+title: "クラス Center"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Center クラス。ヘッダーとフッターデータの中央揃え設定を表します。"
 type: docs
-weight: 2990
+weight: 3100
 url: /ja/net/aspose.pdf/center/
 ---
-## センター クラス
+## Center class
 
-ヘッダーおよびフッターデータの中央揃え設定を表します。
+ヘッダーとフッター データの中央揃え設定を表します。
 
 ```csharp
 public sealed class Center : HeaderFooterData
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Center](center/)() | デフォルトコンストラクター。 |
+| [Center](center/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
@@ -27,8 +27,10 @@ public sealed class Center : HeaderFooterData
 | [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | 日付設定を取得または設定します。 |
 | [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | ページ番号設定を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [HeaderFooterData](../headerfooterdata/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

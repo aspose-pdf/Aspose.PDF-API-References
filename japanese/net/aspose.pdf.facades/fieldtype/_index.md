@@ -1,14 +1,14 @@
 ---
-title: Enum FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FieldType 列挙型。可能なフィールドタイプの列挙
+title: "列挙体 FieldType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.FieldType 列挙体。可能なフィールドタイプの列挙です。"
 type: docs
-weight: 4260
+weight: 4380
 url: /ja/net/aspose.pdf.facades/fieldtype/
 ---
-## FieldType 列挙型
+## FieldType enumeration
 
-可能なフィールドタイプの列挙。
+可能なフィールドタイプの列挙です。
 
 ```csharp
 public enum FieldType
@@ -24,7 +24,7 @@ public enum FieldType
 | Radio | `3` | ラジオボタンフィールド。 |
 | CheckBox | `4` | チェックボックスフィールド。 |
 | PushButton | `5` | プッシュボタンフィールド。 |
-| MultiLineText | `6` | マルチラインテキストフィールド。 |
+| MultiLineText | `6` | 複数行テキストフィールド。 |
 | Barcode | `7` | バーコードフィールド。 |
 | InvalidNameOrType | `8` | 無効なフィールドタイプ。 |
 | Signature | `9` | 署名フィールド。 |
@@ -32,7 +32,9 @@ public enum FieldType
 | Numeric | `11` | 数値フィールド |
 | DateTime | `12` | 日付/時刻フィールド |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

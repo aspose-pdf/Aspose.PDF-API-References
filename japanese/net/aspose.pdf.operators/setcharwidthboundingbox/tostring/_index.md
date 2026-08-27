@@ -1,14 +1,14 @@
 ---
-title: SetCharWidthBoundingBox.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidthBoundingBox メソッド。オペレーターのテキスト表現を返します
+title: "SetCharWidthBoundingBox.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetCharWidthBoundingBox メソッド。演算子のテキスト表現を返します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.operators/setcharwidthboundingbox/tostring/
 ---
-## SetCharWidthBoundingBox.ToString メソッド
+## SetCharWidthBoundingBox.ToString method
 
-オペレーターのテキスト表現を返します。
+演算子のテキスト表現を返します。
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 表現のテキスト表現
 
-### 参照
+### 関連項目
 
-* クラス [SetCharWidthBoundingBox](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

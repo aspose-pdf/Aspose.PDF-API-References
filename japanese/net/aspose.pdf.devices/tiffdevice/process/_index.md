@@ -1,20 +1,20 @@
 ---
-title: TiffDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice メソッド。特定のドキュメントページを tiff に変換し、出力ストリームに保存します。
+title: "TiffDevice.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TiffDevice メソッド。特定のドキュメントページを tiff に変換し、出力ストリームに保存します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.devices/tiffdevice/process/
 ---
 ## Process(Document, int, int, Stream) {#process}
 
-特定のドキュメントページを tiff に変換し、出力ストリームに保存します。
+特定のドキュメントページをTIFFに変換し、出力ストリームに保存します。
 
 ```csharp
 public override void Process(Document document, int fromPage, int toPage, Stream output)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | document | Document | 変換するドキュメント。 |
 | fromPage | Int32 | 変換を開始するページ番号を定義します。 |
@@ -42,3 +42,5 @@ public override void Process(Page page, Stream output)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

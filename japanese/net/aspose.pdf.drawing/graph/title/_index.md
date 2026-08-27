@@ -1,12 +1,12 @@
 ---
-title: Graph.Title
-second_title: Aspose.PDF for .NET API Reference
-description: グラフプロパティ。グラフのタイトルを示す文字列値を取得または設定します。
+title: "Graph.Title"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Graph プロパティ。グラフのタイトルを示す文字列値を取得または設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.drawing/graph/title/
 ---
-## グラフ.タイトルプロパティ
+## Graph.Title property
 
 グラフのタイトルを示す文字列値を取得または設定します。
 
@@ -14,9 +14,11 @@ url: /ja/net/aspose.pdf.drawing/graph/title/
 public TextFragment Title { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TextFragment](../../../aspose.pdf.text/textfragment/)
-* クラス [Graph](../)
-* 名前空間 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

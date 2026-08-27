@@ -1,68 +1,70 @@
 ---
-title: TextSearchOptions.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions コンストラクタ。TextSearchOptions オブジェクトの新しいインスタンスを初期化します。正規表現の使用モードを指定します。
+title: "TextSearchOptions.TextSearchOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextSearchOptions コンストラクタ。TextSearchOptions オブジェクトの新しいインスタンスを初期化します。正規表現の使用モードを指定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/textsearchoptions/textsearchoptions/
 ---
 ## TextSearchOptions(bool) {#constructor_2}
 
-[`TextSearchOptions`](../) オブジェクトの新しいインスタンスを初期化します。正規表現の使用モードを指定します。
+新しい [`TextSearchOptions`](../) オブジェクトのインスタンスを初期化します。正規表現の使用モードを指定します。
 
 ```csharp
 public TextSearchOptions(bool isRegularExpressionUsed)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| isRegularExpressionUsed | Boolean | 正規表現が使用されていることを示す値。 |
+| isRegularExpressionUsed | Boolean | 正規表現が使用されていることを示す値です。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextSearchOptions](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextSearchOptions(Rectangle) {#constructor}
 
-[`TextSearchOptions`](../) オブジェクトの新しいインスタンスを初期化します。検索されたテキストを限定する矩形を指定します。
+新しい [`TextSearchOptions`](../) オブジェクトのインスタンスを初期化します。検索対象テキストを限定する Rectangle を指定します。
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rectangle | Rectangle | 抽出されたテキストを含む矩形。 |
+| rectangle | Rectangle | 抽出されたテキストを含む Rectangle。 |
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [TextSearchOptions](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextSearchOptions(Rectangle, bool) {#constructor_1}
 
-[`TextSearchOptions`](../) オブジェクトの新しいインスタンスを初期化します。検索されたテキストを限定する矩形と正規表現の使用モードを指定します。
+新しい [`TextSearchOptions`](../) オブジェクトのインスタンスを初期化します。検索対象テキストを限定する Rectangle と正規表現の使用モードを指定します。
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rectangle | Rectangle | 抽出されたテキストを含む矩形。 |
-| isRegularExpressionUsed | Boolean | 正規表現が使用されていることを示す値。 |
+| rectangle | Rectangle | 抽出されたテキストを含む Rectangle。 |
+| isRegularExpressionUsed | Boolean | 正規表現が使用されていることを示す値です。 |
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [TextSearchOptions](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: ShowText.ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: ShowText コンストラクタ。Tj 演算子を初期化します。
+title: "ShowText.ShowText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ShowText コンストラクタ。Tj 演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/showtext/showtext/
@@ -14,16 +14,16 @@ Tj 演算子を初期化します。
 public ShowText(int index, string text)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 演算子リスト内の演算子のインデックス。 |
-| text | String | 演算子の引数。 |
+| インデックス | Int32 | 演算子リスト内の演算子のインデックス。 |
+| テキスト | String | 演算子の引数。 |
 
 ### 関連項目
 
-* クラス [ShowText](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,15 +35,15 @@ Tj 演算子を初期化します。
 public ShowText(string text)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | 演算子の引数。 |
+| テキスト | String | 演算子の引数。 |
 
 ### 関連項目
 
-* クラス [ShowText](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -55,17 +55,17 @@ Tj 演算子を初期化します。
 public ShowText(string text, Font font)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | 追加するテキスト。 |
-| font | Font | テキストを描画するために使用されるフォント。 |
+| テキスト | String | 追加するテキスト。 |
+| フォント | Font | テキストの描画に使用されるフォント。 |
 
 ### 関連項目
 
-* クラス [Font](../../../aspose.pdf.text/font/)
-* クラス [ShowText](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -79,6 +79,8 @@ public ShowText()
 
 ### 関連項目
 
-* クラス [ShowText](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

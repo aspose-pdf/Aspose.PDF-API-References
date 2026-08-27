@@ -1,12 +1,12 @@
 ---
-title: Interface IBoundsCheckableItem
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Generator.IBoundsCheckableItem インターフェース。
+title: "インターフェイス IBoundsCheckableItem"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Generator.IBoundsCheckableItem インターフェイス。"
 type: docs
 weight: 5360
 url: /ja/net/aspose.pdf.generator/iboundscheckableitem/
 ---
-## IBoundsCheckableItem インターフェース
+## IBoundsCheckableItem interface
 
 ```csharp
 public interface IBoundsCheckableItem
@@ -16,9 +16,11 @@ public interface IBoundsCheckableItem
 
 | 名前 | 説明 |
 | --- | --- |
-| [CheckBounds](../../aspose.pdf.generator/iboundscheckableitem/checkbounds/)(double, double) | アイテムが指定されたコンテナの寸法内に収まるかどうかをチェックします（含む）。 |
+| [CheckBounds](../../aspose.pdf.generator/iboundscheckableitem/checkbounds/)(double, double) | アイテムが指定されたコンテナのサイズ（境界を含む）に収まるかどうかをチェックします。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../)
+
+

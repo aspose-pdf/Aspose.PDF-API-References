@@ -1,14 +1,14 @@
 ---
-title: Page.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。ページの矩形を取得または設定します。取得する場合、指定されていればページのクロップボックスが返され、それ以外の場合はページのメディアボックスが返されます。設定する場合、ページのメディアボックスは常に設定されます。このプロパティはページの回転を考慮しないことに注意してください。回転を考慮したページの矩形を取得するには、ActualRectを使用してください。
+title: "Page.Rect"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。ページの矩形を取得または設定します。取得時は、指定されている場合はページのトリムボックスが返され、指定がない場合はページのメディアボックスが返されます。設定時は常にページのメディアボックスを設定します。このプロパティはページの回転を考慮しません。回転を考慮したページ矩形を取得するには ActualRect を使用してください。"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf/page/rect/
 ---
-## Page.Rect プロパティ
+## Page.Rect property
 
-ページの矩形を取得または設定します。取得する場合: 指定されていればページのクロップボックスが返され、それ以外の場合はページのメディアボックスが返されます。設定する場合: ページのメディアボックスは常に設定されます。このプロパティはページの回転を考慮しないことに注意してください。回転を考慮したページの矩形を取得するには、ActualRectを使用してください。
+ページの矩形を取得または設定します。取得時: 指定されていればページのクロップボックスが返され、そうでなければページのメディアボックスが返されます。設定時: 常にページのメディアボックスが設定されます。このプロパティはページの回転を考慮しないことに注意してください。回転を考慮したページ矩形を取得するには ActualRect を使用してください。
 
 ```csharp
 public Rectangle Rect { get; set; }
@@ -16,7 +16,7 @@ public Rectangle Rect { get; set; }
 
 ## 例
 
-例はページの矩形を取得する方法を示しています:
+例ではページ矩形の取得方法を示しています：
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -24,9 +24,11 @@ Page page = document.Pages[1];
 Rectangle pageRect = page.Rect;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../../rectangle/)
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

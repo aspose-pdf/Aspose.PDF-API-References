@@ -1,12 +1,12 @@
 ---
-title: HtmlFragment.HtmlFragment
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment コンストラクタ。HtmlFragment クラスの新しいインスタンスを初期化します
+title: "HtmlFragment.HtmlFragment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlFragment コンストラクタ。HtmlFragment クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/htmlfragment/htmlfragment/
 ---
-## HtmlFragment コンストラクタ
+## HtmlFragment constructor
 
 HtmlFragment クラスの新しいインスタンスを初期化します。
 
@@ -14,12 +14,14 @@ HtmlFragment クラスの新しいインスタンスを初期化します。
 public HtmlFragment(string text)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | フラグメントテキスト |
+| テキスト | String | フラグメントテキスト |
 
-### 参照
+### 関連項目
 
-* クラス [HtmlFragment](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

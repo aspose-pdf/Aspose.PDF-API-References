@@ -1,14 +1,14 @@
 ---
-title: PageSettings.PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings プロパティ。ページのプリンタ解像度を取得または設定します
+title: "PageSettings.PrinterResolution"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageSettings プロパティ。ページのプリンター解像度を取得または設定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.printing/pagesettings/printerresolution/
 ---
-## PageSettings.PrinterResolution プロパティ
+## PageSettings.PrinterResolution property
 
-ページのプリンタ解像度を取得または設定します。
+ページのプリンター解像度を取得または設定します。
 
 ```csharp
 public PrinterResolution PrinterResolution { get; set; }
@@ -20,3 +20,5 @@ public PrinterResolution PrinterResolution { get; set; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

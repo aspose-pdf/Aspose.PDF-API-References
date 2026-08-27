@@ -1,12 +1,12 @@
 ---
-title: BuildVersionInfo.AssemblyVersion
-second_title: Aspose.PDF for .NET API Reference
-description: BuildVersionInfo フィールド。アセンブリ バージョン
+title: "BuildVersionInfo.AssemblyVersion"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BuildVersionInfo フィールド。アセンブリ バージョン"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/buildversioninfo/assemblyversion/
 ---
-## BuildVersionInfo.AssemblyVersion フィールド
+## BuildVersionInfo.AssemblyVersion field
 
 アセンブリ バージョン
 
@@ -16,6 +16,8 @@ public const string AssemblyVersion;
 
 ### 関連項目
 
-* クラス [BuildVersionInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BuildVersionInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

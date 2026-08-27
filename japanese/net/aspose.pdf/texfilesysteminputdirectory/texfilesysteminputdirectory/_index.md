@@ -1,12 +1,12 @@
 ---
-title: TeXFileSystemInputDirectory.TeXFileSystemInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFileSystemInputDirectory コンストラクタ。新しいインスタンスを作成します
+title: "TeXFileSystemInputDirectory.TeXFileSystemInputDirectory"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TeXFileSystemInputDirectory コンストラクタ。新しいインスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/texfilesysteminputdirectory/texfilesysteminputdirectory/
 ---
-## TeXFileSystemInputDirectory コンストラクタ
+## TeXFileSystemInputDirectory constructor
 
 新しいインスタンスを作成します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf/texfilesysteminputdirectory/texfilesysteminputdirectory/
 public TeXFileSystemInputDirectory(string basePath)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| basePath | String | ディレクトリのベースパス。 |
+| basePath | String | ディレクトリのベースパスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [TeXFileSystemInputDirectory](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TeXFileSystemInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

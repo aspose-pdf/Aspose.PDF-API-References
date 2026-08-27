@@ -1,14 +1,14 @@
 ---
-title: Page.Resources
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。ページリソースを取得します。リソースオブジェクトには、画像、フォーム、フォントのコレクションが含まれています。リソース
+title: "Page.Resources"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。ページのリソースを取得します。Resources オブジェクトは画像、フォーム、フォントのコレクションを含みます。Resources"
 type: docs
 weight: 240
 url: /ja/net/aspose.pdf/page/resources/
 ---
-## Page.Resources プロパティ
+## Page.Resources property
 
-ページリソースを取得します。リソースオブジェクトには、画像、フォーム、フォントのコレクションが含まれています。 `Resources`
+ページのリソースを取得します。Resources オブジェクトは画像、フォーム、フォントのコレクションを含みます。 `Resources`
 
 ```csharp
 public Resources Resources { get; }
@@ -16,7 +16,7 @@ public Resources Resources { get; }
 
 ## 例
 
-例はページ画像をスキャンすることを示しています:
+例ではページ画像のスキャンを示しています：
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -28,9 +28,11 @@ foreach(XImage image in resources.Images)
 }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Resources](../../resources/)
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

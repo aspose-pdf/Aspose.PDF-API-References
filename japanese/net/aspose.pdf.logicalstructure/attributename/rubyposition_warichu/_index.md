@@ -1,14 +1,14 @@
 ---
-title: AttributeName.RubyPosition_Warichu
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName フィールド。属性 RubyPosition Warichu RT および関連する RP 要素は、RB 要素に続いてワリチュウとしてフォーマットされる必要があります。
+title: "AttributeName.RubyPosition_Warichu"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeName フィールド。属性 RubyPosition Warichu  RT とそれに関連する RP 要素は RB 要素に続く割り注としてフォーマットされます"
 type: docs
 weight: 510
 url: /ja/net/aspose.pdf.logicalstructure/attributename/rubyposition_warichu/
 ---
-## AttributeName.RubyPosition_Warichu フィールド
+## AttributeName.RubyPosition_Warichu field
 
-属性 RubyPosition: ワリチュウ - RT および関連する RP 要素は、RB 要素に続いてワリチュウとしてフォーマットされる必要があります。
+属性 RubyPosition: Warichu - RT と関連する RP 要素は RB 要素の後に、割注としてフォーマットされます。
 
 ```csharp
 public static readonly AttributeName RubyPosition_Warichu;
@@ -16,6 +16,8 @@ public static readonly AttributeName RubyPosition_Warichu;
 
 ### 関連項目
 
-* クラス [AttributeName](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

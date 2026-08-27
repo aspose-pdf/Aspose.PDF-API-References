@@ -1,14 +1,14 @@
 ---
-title: Class FileParams
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FileParams クラス。追加のファイル固有情報を含む埋め込みファイルパラメータ辞書を定義します。
+title: "クラス FileParams"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.FileParams クラス。埋め込みファイルパラメータ辞書を定義し、追加のファイル固有情報を含むものです"
 type: docs
-weight: 4840
+weight: 4960
 url: /ja/net/aspose.pdf/fileparams/
 ---
-## FileParams クラス
+## FileParams class
 
-追加のファイル固有情報を含む埋め込みファイルパラメータ辞書を定義します。
+埋め込みファイルパラメータ辞書を定義し、追加のファイル固有情報を含めます。
 
 ```csharp
 public sealed class FileParams
@@ -24,12 +24,14 @@ public sealed class FileParams
 
 | 名前 | 説明 |
 | --- | --- |
-| [CheckSum](../../aspose.pdf/fileparams/checksum/) { get; } | 圧縮されていない埋め込みファイルのバイトのチェックサムである16バイトの文字列。チェックサムは、埋め込みファイルストリームのバイトに標準のMD5メッセージダイジェストアルゴリズムを適用することによって計算されます。 |
+| [CheckSum](../../aspose.pdf/fileparams/checksum/) { get; } | 非圧縮の埋め込みファイルのバイトのチェックサムである 16 バイトの文字列です。チェックサムは、埋め込みファイルストリームのバイトに標準的な MD5 メッセージダイジェストアルゴリズムを適用して計算されます。 |
 | [CreationDate](../../aspose.pdf/fileparams/creationdate/) { get; set; } | 埋め込みファイルが作成された日時。 |
-| [ModDate](../../aspose.pdf/fileparams/moddate/) { get; set; } | 埋め込みファイルが最後に修正された日時。 |
-| [Size](../../aspose.pdf/fileparams/size/) { get; } | 圧縮されていない埋め込みファイルのサイズ（バイト単位）。 |
+| [ModDate](../../aspose.pdf/fileparams/moddate/) { get; set; } | 埋め込みファイルが最後に変更された日時。 |
+| [Size](../../aspose.pdf/fileparams/size/) { get; } | 非圧縮の埋め込みファイルのサイズ（バイト単位）。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

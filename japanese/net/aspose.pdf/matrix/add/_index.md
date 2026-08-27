@@ -1,29 +1,31 @@
 ---
-title: Matrix.Add
-second_title: Aspose.PDF for .NET API Reference
-description: マトリックスメソッド。マトリックスを他のマトリックスに追加します
+title: "Matrix.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix メソッド。行列を別の行列に加算します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/matrix/add/
 ---
-## Matrix.Add メソッド
+## Matrix.Add method
 
-マトリックスを他のマトリックスに追加します。
+Matrix を別の Matrix に加算します。
 
 ```csharp
 public Matrix Add(Matrix other)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| other | Matrix | 追加されるマトリックス。 |
+| 他 | Matrix | Matrix を追加します。 |
 
 ### 戻り値
 
-マトリックス追加の結果。
+行列の加算結果。
 
-### 参照
+### 関連項目
 
-* クラス [Matrix](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

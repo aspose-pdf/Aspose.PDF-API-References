@@ -1,54 +1,56 @@
 ---
-title: CosPdfDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary メソッド。指定されたキーを持つ要素を CosPdfDictionary から削除します。
+title: "CosPdfDictionary.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfDictionary メソッド。指定されたキーを持つ要素を CosPdfDictionary から削除します"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.dataeditor/cospdfdictionary/remove/
 ---
 ## Remove(string) {#remove_1}
 
-指定されたキーを持つ要素を [`CosPdfDictionary`](../) から削除します。
+[`CosPdfDictionary`](../) から指定されたキーを持つ要素を削除します。
 
 ```csharp
 public bool Remove(string key)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | 削除する要素のキー。 |
+| キー | String | 削除する要素のキー。 |
 
 ### 戻り値
 
-要素が正常に削除された場合は true; それ以外の場合は false。このメソッドは、元の辞書にキーが見つからなかった場合や、キーが編集不可能な場合にも false を返します。
+要素が正常に削除された場合は true、そうでない場合は false を返します。このメソッドは、元の辞書にキーが見つからない場合やキーが編集不可の場合も false を返します。
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfDictionary](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Remove(KeyValuePair&lt;string, ICosPdfPrimitive&gt;) {#remove}
 
-特定のオブジェクトの最初の出現を [`CosPdfDictionary`](../) から削除します。
+[`CosPdfDictionary`](../) から特定のオブジェクトの最初の出現を削除します。
 
 ```csharp
 public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | [`CosPdfDictionary`](../) から削除するオブジェクト。 |
+| item | KeyValuePair`2 | [`CosPdfDictionary`](../) から削除するオブジェクトです。 |
 
 ### 戻り値
 
-item が [`CosPdfDictionary`](../) から正常に削除された場合は true; それ以外の場合は false。このメソッドは、item が元の [`CosPdfDictionary`](../) に見つからなかった場合にも false を返します。
+[`CosPdfDictionary`](../) から項目が正常に削除された場合は true、そうでなければ false です。このメソッドは、元の [`CosPdfDictionary`](../) に項目が見つからない場合も false を返します。
 
-### 参照
+### 関連項目
 
-* インターフェース [ICosPdfPrimitive](../../icospdfprimitive/)
-* クラス [CosPdfDictionary](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

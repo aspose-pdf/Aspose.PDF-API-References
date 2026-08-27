@@ -1,12 +1,12 @@
 ---
-title: Heading.Heading
-second_title: Aspose.PDF for .NET API Reference
-description: 見出しコンストラクタ。Cell クラスの新しいインスタンスを初期化します
+title: "Heading.Heading"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Heading コンストラクタ。Cell クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/heading/heading/
 ---
-## 見出しコンストラクタ
+## Heading constructor
 
 Cell クラスの新しいインスタンスを初期化します。
 
@@ -14,12 +14,14 @@ Cell クラスの新しいインスタンスを初期化します。
 public Heading(int level)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| level | Int32 | 見出しのレベル。 |
+| レベル | Int32 | 見出しのレベルです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Heading](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

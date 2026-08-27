@@ -1,25 +1,25 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotationsAuthor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor メソッド。指定されたページ範囲の注釈の著者を変更します。
+title: "PdfAnnotationEditor.ModifyAnnotationsAuthor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAnnotationEditor メソッド。指定されたページ範囲の注釈の作成者を変更します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/
 ---
-## PdfAnnotationEditor.ModifyAnnotationsAuthor メソッド
+## PdfAnnotationEditor.ModifyAnnotationsAuthor method
 
-指定されたページ範囲の注釈の著者を変更します。
+指定されたページ範囲の注釈の作成者を変更します。
 
 ```csharp
 public void ModifyAnnotationsAuthor(int start, int end, string srcAuthor, string desAuthor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| start | Int32 | 開始ページ番号。 |
-| end | Int32 | 終了ページ番号。 |
-| srcAuthor | String | 変更する著者。 |
-| desAuthor | String | 新しい著者。 |
+| start | Int32 | 開始ページ番号です。 |
+| end | Int32 | 終了ページ番号です。 |
+| srcAuthor | String | 変更対象の作成者です。 |
+| desAuthor | String | 新しい作成者です。 |
 
 ## 例
 
@@ -32,6 +32,8 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfAnnotationEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

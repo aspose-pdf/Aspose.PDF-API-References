@@ -1,12 +1,12 @@
 ---
-title: Graph.Left
-second_title: Aspose.PDF for .NET API Reference
-description: グラフプロパティ。テーブルの左座標を取得または設定します
+title: "Graph.Left"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Graph プロパティ。テーブルの左側座標を取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.drawing/graph/left/
 ---
-## Graph.Left プロパティ
+## Graph.Left property
 
 テーブルの左座標を取得または設定します。
 
@@ -16,6 +16,8 @@ public double Left { get; set; }
 
 ### 関連項目
 
-* クラス [Graph](../)
-* 名前空間 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

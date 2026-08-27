@@ -1,14 +1,14 @@
 ---
-title: Enum ProgressEventType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ProgressEventType 列挙型。この列挙型は、変換中に発生する可能性のある進行イベントの種類を説明します。
+title: "列挙型 ProgressEventType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ProgressEventType 列挙型。この列挙は変換中に発生し得る可能な進捗イベントタイプを記述します。"
 type: docs
-weight: 9720
+weight: 9870
 url: /ja/net/aspose.pdf/progresseventtype/
 ---
-## ProgressEventType 列挙型
+## ProgressEventType enumeration
 
-この列挙型は、変換中に発生する可能性のある進行イベントの種類を説明します。
+この列挙体は、変換中に発生し得る可能な進行状況イベントタイプを説明します。
 
 ```csharp
 public enum ProgressEventType
@@ -18,12 +18,14 @@ public enum ProgressEventType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| TotalProgress | `0` | 発生したイベントが変換の総進行状況について通知することを意味します。 |
-| SourcePageAnalysed | `1` | 発生したイベントが変換前のページの分析の終了について通知することを意味します。 |
-| ResultPageCreated | `2` | 発生したイベントが物理的なエクスポート前に1つの結果ページが作成されたことについて通知することを意味します。 |
-| ResultPageSaved | `3` | 発生したイベントが1つの結果ページの保存が完了したことについて通知することを意味します。 |
+| TotalProgress | `0` | 発生したイベントが変換の総合的な進捗を通知することを意味します。 |
+| SourcePageAnalysed | `1` | 発生したイベントが変換前にページの一つの解析終了を通知することを意味します。 |
+| ResultPageCreated | `2` | 発生したイベントが物理的エクスポート前に結果ページの一つの作成を通知することを意味します。 |
+| ResultPageSaved | `3` | 発生したイベントが結果ページの一つの保存完了を通知することを意味します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

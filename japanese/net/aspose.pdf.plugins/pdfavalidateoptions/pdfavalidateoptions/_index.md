@@ -1,12 +1,12 @@
 ---
-title: PdfAValidateOptions.PdfAValidateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAValidateOptions コンストラクタ。デフォルトコンストラクタ
+title: "PdfAValidateOptions.PdfAValidateOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAValidateOptions コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/pdfavalidateoptions/pdfavalidateoptions/
 ---
-## PdfAValidateOptions コンストラクタ
+## PdfAValidateOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public PdfAValidateOptions()
 * class [PdfAValidateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

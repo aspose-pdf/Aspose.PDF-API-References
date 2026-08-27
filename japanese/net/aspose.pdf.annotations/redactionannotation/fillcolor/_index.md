@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.FillColor
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation プロパティ。注釈を塗りつぶす色を取得または設定します
+title: "RedactionAnnotation.FillColor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RedactionAnnotation プロパティ。アノテーションを塗りつぶす色を取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/redactionannotation/fillcolor/
 ---
-## RedactionAnnotation.FillColor プロパティ
+## RedactionAnnotation.FillColor property
 
-注釈を塗りつぶす色を取得または設定します。
+アノテーションを塗りつぶす色を取得または設定します。
 
 ```csharp
 public Color FillColor { get; set; }
@@ -20,3 +20,5 @@ public Color FillColor { get; set; }
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

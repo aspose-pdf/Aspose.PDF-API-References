@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.Value
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfString プロパティ。文字列 ANSII を取得します
+title: "CosPdfString.Value"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfString プロパティ。文字列 ANSII を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.dataeditor/cospdfstring/value/
 ---
-## CosPdfString.Value プロパティ
+## CosPdfString.Value property
 
 文字列 (ANSII) を取得します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.dataeditor/cospdfstring/value/
 public string Value { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-文字列。
+文字列です。
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfString](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

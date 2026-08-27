@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.WithRestoreContextFromBackup
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションでバックアップからコンテキストを復元するかどうかを設定します。
+title: "OpenAIChatCopilotOptions.WithRestoreContextFromBackup"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションでバックアップからコンテキストを復元するかどうかを設定します"
 type: docs
-weight: 160
+weight: 170
 url: /ja/net/aspose.pdf.ai/openaichatcopilotoptions/withrestorecontextfrombackup/
 ---
-## OpenAIChatCopilotOptions.WithRestoreContextFromBackup メソッド
+## OpenAIChatCopilotOptions.WithRestoreContextFromBackup method
 
 チャットコパイロットオプションでバックアップからコンテキストを復元するかどうかを設定します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.ai/openaichatcopilotoptions/withrestorecontextfrombackup
 public OpenAIChatCopilotOptions WithRestoreContextFromBackup(bool restoreContext)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| restoreContext | Boolean | バックアップからコンテキストを復元するかどうかを示す値。 |
+| restoreContext | Boolean | バックアップからコンテキストを復元するかどうかを示す値です。 |
 
 ### 戻り値
 
-[`OpenAIChatCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIChatCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIChatCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

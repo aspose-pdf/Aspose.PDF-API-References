@@ -1,12 +1,12 @@
 ---
-title: CurveTo.X2
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo フィールド。X2 座標を取得または設定します
+title: "CurveTo.X2"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CurveTo フィールド。X2 座標を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/curveto/x2/
 ---
-## CurveTo.X2 フィールド
+## CurveTo.X2 field
 
 X2 座標を取得または設定します。
 
@@ -16,6 +16,8 @@ public double X2;
 
 ### 関連項目
 
-* クラス [CurveTo](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

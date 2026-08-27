@@ -1,14 +1,14 @@
 ---
-title: SimpleFontSubstitution.SubstitutionFontName
-second_title: Aspose.PDF for .NET API Reference
-description: SimpleFontSubstitution プロパティ。OriginalFontName を置き換えるべきフォント名を取得します。
+title: "SimpleFontSubstitution.SubstitutionFontName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SimpleFontSubstitution プロパティ。OriginalFontName を置き換えるフォント名を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.text/simplefontsubstitution/substitutionfontname/
 ---
-## SimpleFontSubstitution.SubstitutionFontName プロパティ
+## SimpleFontSubstitution.SubstitutionFontName property
 
-[`OriginalFontName`](../originalfontname/) を置き換えるべきフォント名を取得します。
+[`OriginalFontName`](../originalfontname/) を置き換えるフォント名を取得します
 
 ```csharp
 public string SubstitutionFontName { get; }
@@ -16,6 +16,8 @@ public string SubstitutionFontName { get; }
 
 ### 関連項目
 
-* クラス [SimpleFontSubstitution](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SimpleFontSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

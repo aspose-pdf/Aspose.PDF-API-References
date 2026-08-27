@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateTableTFootElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。TableTFootElement を作成します。
+title: "ITaggedContent.CreateTableTFootElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。TableTFootElement を作成します"
 type: docs
-weight: 310
+weight: 340
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/
 ---
-## ITaggedContent.CreateTableTFootElement メソッド
+## ITaggedContent.CreateTableTFootElement method
 
-[`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/) を作成します。
+作成します [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/)。
 
 ```csharp
 public TableTFootElement CreateTableTFootElement()
@@ -16,11 +16,13 @@ public TableTFootElement CreateTableTFootElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

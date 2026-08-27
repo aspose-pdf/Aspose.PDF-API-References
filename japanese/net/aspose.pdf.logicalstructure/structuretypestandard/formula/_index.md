@@ -1,16 +1,16 @@
 ---
-title: StructureTypeStandard.Formula
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。数式 数学的な数式
+title: "StructureTypeStandard.Formula"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。式 数学的な式です"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/formula/
 ---
-## StructureTypeStandard.Formula フィールド
+## StructureTypeStandard.Formula field
 
-(数式) 数学的な数式です。
+(Formula) 数学的な式です。
 
-この構造タイプは、数式として全体のコンテンツ要素を識別するためにのみ役立ちます。数式内の個々のコンポーネントを識別するための標準構造タイプは定義されていません。フォーマットの観点から、数式は図（構造タイプ Figure）と同様に扱われるべきです。
+この構造タイプは、コンテンツ要素全体を式として識別する場合にのみ有用です。式内の個々の構成要素を識別するための標準構造タイプは定義されていません。書式設定の観点から、式は図（構造タイプ Figure）と同様に扱われます。
 
 ```csharp
 public static readonly StructureTypeStandard Formula;
@@ -18,6 +18,8 @@ public static readonly StructureTypeStandard Formula;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: GraphicElement.SaveToSvg
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement メソッド。要素を単一の SVG 画像に変換します
+title: "GraphicElement.SaveToSvg"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GraphicElement メソッド。要素を単一の SVG 画像に変換します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.vector/graphicelement/savetosvg/
@@ -16,13 +16,13 @@ public string SaveToSvg()
 
 ### 戻り値
 
-SVG 文字列。
+SVG 文字列です。
 
-### 参照
+### 関連項目
 
-* クラス [GraphicElement](../)
-* 名前空間 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,12 +34,14 @@ SVG 文字列。
 public void SaveToSvg(string svgFilePath)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| svgFilePath | 文字列 | svg 画像を保存するファイルパス。 |
+| svgFilePath | String | svg 画像を保存するファイルパスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [GraphicElement](../)
-* 名前空間 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

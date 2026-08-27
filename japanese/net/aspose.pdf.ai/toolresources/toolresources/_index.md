@@ -1,12 +1,12 @@
 ---
-title: ToolResources.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: ToolResources コンストラクタ。デフォルトコンストラクタ
+title: "ToolResources.ToolResources"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ToolResources コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/toolresources/toolresources/
 ---
-## ToolResources コンストラクタ
+## ToolResources constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/toolresources/toolresources/
 public ToolResources()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ToolResources](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ToolResources](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

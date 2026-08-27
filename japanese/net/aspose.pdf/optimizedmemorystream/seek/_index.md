@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.Seek
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream メソッド。派生クラスでオーバーライドされた場合、現在のストリーム内の位置を設定します。
+title: "OptimizedMemoryStream.Seek"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizedMemoryStream メソッド。派生クラスでオーバーライドされた場合、現在のストリーム内の位置を設定します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/optimizedmemorystream/seek/
 ---
-## OptimizedMemoryStream.Seek メソッド
+## OptimizedMemoryStream.Seek method
 
 派生クラスでオーバーライドされた場合、現在のストリーム内の位置を設定します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/optimizedmemorystream/seek/
 public override long Seek(long offset, SeekOrigin origin)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| offset | Int64 | *origin* パラメーターに対するバイトオフセット。 |
-| origin | SeekOrigin | 新しい位置を取得するために使用される参照点を示す SeekOrigin 型の値。 |
+| オフセット | Int64 | *origin* パラメータに対するバイトオフセットです。 |
+| origin | SeekOrigin | 新しい位置を取得するために使用される基準点を示す SeekOrigin 型の値です。 |
 
 ### 戻り値
 
-現在のストリーム内の新しい位置。
+現在のストリーム内の新しい位置です。
 
-### 参照
+### 関連項目
 
-* クラス [OptimizedMemoryStream](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

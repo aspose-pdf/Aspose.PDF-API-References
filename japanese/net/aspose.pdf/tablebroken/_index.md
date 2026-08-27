@@ -1,14 +1,14 @@
 ---
-title: Enum TableBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TableBroken 列挙型。テーブルの破損を列挙します。
+title: "列挙型 TableBroken"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.TableBroken 列挙型。テーブルの破損状態を列挙します"
 type: docs
-weight: 10290
+weight: 10470
 url: /ja/net/aspose.pdf/tablebroken/
 ---
-## TableBroken 列挙型
+## TableBroken enumeration
 
-テーブルの破損を列挙します。
+テーブルの分割を列挙します。
 
 ```csharp
 public enum TableBroken
@@ -19,11 +19,13 @@ public enum TableBroken
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
 | None | `0` | 破損なし。 |
-| Vertical | `1` | 垂直に破損。 |
-| VerticalInSamePage | `2` | 同じページで垂直に破損。 |
-| IsInNextPage | `3` | 次のページに破損。 |
+| Vertical | `1` | 垂直方向の破損。 |
+| VerticalInSamePage | `2` | 同一ページ内の垂直方向の破損。 |
+| IsInNextPage | `3` | 次ページへの破損。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

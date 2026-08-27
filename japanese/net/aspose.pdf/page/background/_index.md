@@ -1,12 +1,12 @@
 ---
-title: Page.Background
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。ページの背景色を取得または設定します
+title: "Page.Background"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。ページの背景色を取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/page/background/
 ---
-## Page.Background プロパティ
+## Page.Background property
 
 ページの背景色を取得または設定します。
 
@@ -20,3 +20,5 @@ public Color Background { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema フィールド。デフォルトのスキーマ名前空間 URI
+title: "XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionSchema フィールド。 デフォルトのスキーマ名前空間 URI"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceuri/
 ---
-## XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri フィールド
+## XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri field
 
 デフォルトのスキーマ名前空間 URI。
 
@@ -16,6 +16,8 @@ public const string DefaultSchemaNamespaceUri;
 
 ### 関連項目
 
-* クラス [XmpPdfAExtensionSchema](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

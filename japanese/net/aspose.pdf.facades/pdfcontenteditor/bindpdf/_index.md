@@ -1,45 +1,47 @@
 ---
-title: PdfContentEditor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。PDF ファイルを編集のためにバインドします
+title: "PdfContentEditor.BindPdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。PDF ファイルを編集用にバインドします"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-PDF ファイルを編集のためにバインドします。
+編集用に PDF ファイルをバインドします。
 
 ```csharp
 public override void BindPdf(string inputFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputFile | String | 編集する PDF ファイル。 |
+| inputFile | String | 編集対象の PDF ファイルです。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-PDF ストリームを編集のためにバインドします。
+編集用に PDF ストリームをバインドします。
 
 ```csharp
 public override void BindPdf(Stream inputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputStream | Stream | 編集する PDF ストリーム。 |
+| inputStream | Stream | 編集対象の PDF ストリームです。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

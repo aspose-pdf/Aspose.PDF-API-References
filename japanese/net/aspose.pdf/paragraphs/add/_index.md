@@ -1,26 +1,28 @@
 ---
-title: Paragraphs.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphsメソッド。コレクションに段落を追加します
+title: "Paragraphs.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Paragraphs メソッド。コレクションに段落を追加します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/paragraphs/add/
 ---
-## Paragraphs.Addメソッド
+## Paragraphs.Add method
 
-コレクションに段落を追加します。
+段落をコレクションに追加します。
 
 ```csharp
 public void Add(BaseParagraph paragraph)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| paragraph | BaseParagraph | 段落。 |
+| 段落 | BaseParagraph | 段落。 |
 
-### 参照
+### 関連項目
 
-* クラス [BaseParagraph](../../baseparagraph/)
-* クラス [Paragraphs](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

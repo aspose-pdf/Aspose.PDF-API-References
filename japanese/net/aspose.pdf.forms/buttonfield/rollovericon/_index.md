@@ -1,22 +1,24 @@
 ---
-title: ButtonField.RolloverIcon
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField プロパティ。ユーザーがマウスボタンを押さずにカーソルをアクティブエリアに移動させたときに表示されるボタンのロールオーバーアイコンを取得または設定します。
+title: "ButtonField.RolloverIcon"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ButtonField プロパティ。ユーザーがマウスボタンを押さずにカーソルをアクティブ領域に入れたときに表示されるボタンのロールオーバーアイコンを取得または設定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.forms/buttonfield/rollovericon/
 ---
-## ButtonField.RolloverIcon プロパティ
+## ButtonField.RolloverIcon property
 
-ユーザーがマウスボタンを押さずにカーソルをアクティブエリアに移動させたときに表示されるボタンのロールオーバーアイコンを取得または設定します。
+ユーザーがマウスボタンを押さずにカーソルをアクティブ領域に入れたときに表示されるボタンのロールオーバーアイコンを取得または設定します。
 
 ```csharp
 public XForm RolloverIcon { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [XForm](../../../aspose.pdf/xform/)
-* クラス [ButtonField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

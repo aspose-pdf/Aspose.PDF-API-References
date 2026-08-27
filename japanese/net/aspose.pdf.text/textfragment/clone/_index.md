@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment メソッド。フラグメントをクローンします
+title: "TextFragment.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragment メソッド。フラグメントをクローンします。"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf.text/textfragment/clone/
 ---
-## TextFragment.Clone メソッド
+## TextFragment.Clone method
 
-フラグメントをクローンします。
+フラグメントを複製します。
 
 ```csharp
 public override object Clone()
@@ -18,8 +18,10 @@ public override object Clone()
 
 クローンされたオブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [TextFragment](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

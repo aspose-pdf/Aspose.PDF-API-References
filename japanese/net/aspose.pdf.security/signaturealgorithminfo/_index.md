@@ -1,14 +1,14 @@
 ---
-title: Class SignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.SignatureAlgorithmInfo クラス。署名アルゴリズムに関する情報を表すクラスで、そのタイプ、暗号標準、およびダイジェストハッシュアルゴリズムを含みます。
+title: "クラス SignatureAlgorithmInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Security.SignatureAlgorithmInfo クラス。署名アルゴリズムの種類、暗号標準、ダイジェストハッシュアルゴリズムなどに関する情報を表すクラスです。"
 type: docs
-weight: 10000
+weight: 10180
 url: /ja/net/aspose.pdf.security/signaturealgorithminfo/
 ---
-## SignatureAlgorithmInfo クラス
+## SignatureAlgorithmInfo class
 
-署名アルゴリズムに関する情報を表すクラスで、そのタイプ、暗号標準、およびダイジェストハッシュアルゴリズムを含みます。
+署名アルゴリズムに関する情報（タイプ、暗号標準、ダイジェストハッシュアルゴリズムを含む）を表すクラスです。
 
 ```csharp
 public abstract class SignatureAlgorithmInfo
@@ -30,11 +30,13 @@ public abstract class SignatureAlgorithmInfo
 
 | 名前 | 説明 |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF ドキュメントに署名するために使用される署名アルゴリズムのタイプを取得します。 |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF ドキュメントに署名するために使用される暗号標準を取得します。 |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これはドキュメントコンテンツのハッシュに署名されるダイジェストハッシュアルゴリズムです。 |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF ドキュメントの署名に使用される署名アルゴリズムのタイプを取得します。 |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF ドキュメントの署名に使用される暗号標準を取得します。 |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これは文書内容のハッシュが署名されるダイジェストハッシュアルゴリズムです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

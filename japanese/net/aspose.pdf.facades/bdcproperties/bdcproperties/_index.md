@@ -1,48 +1,50 @@
 ---
-title: BDCProperties.BDCProperties
-second_title: Aspose.PDF for .NET API Reference
-description: BDCProperties コンストラクタ。BDC オペレーターのプロパティ用のコンストラクタ
+title: "BDCProperties.BDCProperties"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BDCProperties コンストラクタ。BDC 演算子のプロパティ用コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/bdcproperties/bdcproperties/
 ---
 ## BDCProperties(string, string) {#constructor_1}
 
-BDC オペレーターのプロパティ用のコンストラクタ。
+BDC 演算子のプロパティ用コンストラクタ。
 
 ```csharp
 public BDCProperties(string lang = null, string expansionText = null)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| lang | String | 言語タグ。 |
+| lang | String | Lang タグ。 |
 | expansionText | String | 拡張テキスト。 |
 
-### 参照
+### 関連項目
 
-* クラス [BDCProperties](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BDCProperties(int?, string, string) {#constructor}
 
-BDC オペレーターのプロパティ用のコンストラクタ。
+BDC 演算子のプロパティ用コンストラクタ。
 
 ```csharp
 public BDCProperties(int? mcid, string lang = null, string expansionText = null)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| mcid | Nullable`1 | MCID。 |
-| lang | String | 言語タグ。 |
+| mcid | Nullable`1 | MCID. |
+| lang | String | Lang タグ。 |
 | expansionText | String | 拡張テキスト。 |
 
-### 参照
+### 関連項目
 
-* クラス [BDCProperties](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

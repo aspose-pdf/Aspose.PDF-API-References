@@ -1,29 +1,29 @@
 ---
-title: PopupAnnotation.PopupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: PopupAnnotation コンストラクタ。Generator で使用するためのコンストラクタ。
+title: "PopupAnnotation.PopupAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PopupAnnotation コンストラクタ。Generator で使用するためのコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/popupannotation/popupannotation/
 ---
 ## PopupAnnotation(Document) {#constructor}
 
-コンストラクタ。Generator で使用するためのコンストラクタ。
+Generatorで使用するためのコンストラクタ。
 
 ```csharp
 public PopupAnnotation(Document document)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | 新しいポップアップ注釈が作成されるドキュメント。 |
+| document | Document | 新しいポップアップ注釈が作成される Document。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [PopupAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PopupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,15 +35,17 @@ public PopupAnnotation(Document document)
 public PopupAnnotation(Page page, Rectangle rect)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 注釈が作成されるドキュメントのページ。 |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈の矩形。 |
+| ページ | ページ | アノテーションが作成されるべき Document の Page。 |
+| rect | Rectangle | ページ上の annotation rectangle、アノテーションの位置を定義します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [PopupAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PopupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

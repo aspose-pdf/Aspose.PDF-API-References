@@ -1,14 +1,14 @@
 ---
-title: Enum RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RenditionType 列挙型。列挙は可能なレンディションのタイプを説明します
+title: "列挙体 RenditionType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.RenditionType 列挙体。Rendition の可能なタイプを示す列挙です"
 type: docs
-weight: 2460
+weight: 2550
 url: /ja/net/aspose.pdf.annotations/renditiontype/
 ---
-## RenditionType 列挙型
+## RenditionType enumeration
 
-列挙は可能なレンディションのタイプを説明します。
+Rendition の可能なタイプを列挙します。
 
 ```csharp
 public enum RenditionType
@@ -18,11 +18,13 @@ public enum RenditionType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Media | `0` | メディアレンディションオブジェクト。 |
-| Selector | `1` | セレクタレンディションオブジェクト。 |
-| Undefined | `2` | レンディションタイプは未定義です。 |
+| Media | `0` | メディアレンダリングオブジェクトです。 |
+| Selector | `1` | セレクターレンダリングオブジェクトです。 |
+| Undefined | `2` | レンダリングタイプは未定義です。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

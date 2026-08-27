@@ -1,14 +1,14 @@
 ---
-title: Color.Peru
-second_title: Aspose.PDF for .NET API Reference
-description: 色プロパティ。ARGB値がc FFCD853Fのシステム定義色を取得します。
+title: "Color.Peru"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得します（ARGB 値は c FFCD853F）。"
 type: docs
 weight: 1100
 url: /ja/net/aspose.pdf/color/peru/
 ---
-## Color.Peru プロパティ
+## Color.Peru property
 
-ARGB値が\c \#FFCD853Fのシステム定義色を取得します。
+システム定義の色を取得します。ARGB 値が \c \#FFCD853F のものです。
 
 ```csharp
 public static Color Peru { get; }
@@ -16,10 +16,12 @@ public static Color Peru { get; }
 
 ### 戻り値
 
-システム定義色を表すA。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

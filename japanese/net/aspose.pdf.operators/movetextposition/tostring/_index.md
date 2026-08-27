@@ -1,14 +1,14 @@
 ---
-title: MoveTextPosition.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTextPosition メソッド。オペレーターのテキスト表現を返します
+title: "MoveTextPosition.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MoveTextPosition メソッド。演算子のテキスト表現を返します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.operators/movetextposition/tostring/
 ---
-## MoveTextPosition.ToString メソッド
+## MoveTextPosition.ToString method
 
-オペレーターのテキスト表現を返します。
+演算子のテキスト表現を返します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-オペレーターのテキスト表現。
+演算子のテキスト表現です。
 
-### 参照
+### 関連項目
 
-* クラス [MoveTextPosition](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MoveTextPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

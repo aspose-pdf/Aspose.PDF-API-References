@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.FixedLayout
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions プロパティ。HTML が固定レイアウトとして作成されるかどうかを示す値を取得または設定します。
+title: "HtmlSaveOptions.FixedLayout"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions プロパティ。HTML が固定レイアウトとして作成されるかどうかを示す値を取得または設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/htmlsaveoptions/fixedlayout/
 ---
-## HtmlSaveOptions.FixedLayout プロパティ
+## HtmlSaveOptions.FixedLayout property
 
 HTML が固定レイアウトとして作成されるかどうかを示す値を取得または設定します。
 
@@ -14,12 +14,14 @@ HTML が固定レイアウトとして作成されるかどうかを示す値を
 public bool FixedLayout { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`true` は [固定レイアウト] の場合。そうでない場合は `false`。
+`true` は [fixed layout] の場合です。そうでなければ `false` です。
 
-### 参照
+### 関連項目
 
-* クラス [HtmlSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

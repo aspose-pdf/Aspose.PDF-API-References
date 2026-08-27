@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.AlignBottom
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade フィールド。垂直配置を下部スタイルとして定義します。
+title: "FormFieldFacade.AlignBottom"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldFacade フィールド。垂直配置を下部スタイルとして定義します"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/formfieldfacade/alignbottom/
 ---
-## FormFieldFacade.AlignBottom フィールド
+## FormFieldFacade.AlignBottom field
 
 垂直配置を下部スタイルとして定義します。
 
@@ -16,6 +16,8 @@ public const int AlignBottom;
 
 ### 関連項目
 
-* クラス [FormFieldFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

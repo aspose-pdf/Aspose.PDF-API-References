@@ -1,12 +1,12 @@
 ---
-title: TeXFileSystemOutputDirectory.TeXFileSystemOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFileSystemOutputDirectory コンストラクタ。新しいインスタンスを作成します
+title: "TeXFileSystemOutputDirectory.TeXFileSystemOutputDirectory"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TeXFileSystemOutputDirectory コンストラクタ。新しいインスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/texfilesystemoutputdirectory/texfilesystemoutputdirectory/
 ---
-## TeXFileSystemOutputDirectory コンストラクタ
+## TeXFileSystemOutputDirectory constructor
 
 新しいインスタンスを作成します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf/texfilesystemoutputdirectory/texfilesystemoutputdirector
 public TeXFileSystemOutputDirectory(string basePath)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| basePath | String | ディレクトリのベースパス。 |
+| basePath | String | ディレクトリのベースパスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [TeXFileSystemOutputDirectory](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TeXFileSystemOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

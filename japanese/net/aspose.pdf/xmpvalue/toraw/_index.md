@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToRaw
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue メソッド。未知/未サポートの値の生の XML コード
+title: "XmpValue.ToRaw"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpValue メソッド。未知またはサポートされていない値の生 XML コード"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf/xmpvalue/toraw/
 ---
-## XmpValue.ToRaw メソッド
+## XmpValue.ToRaw method
 
-未知/未サポートの値の生の XML コード。
+不明またはサポートされていない値の生の XML コードです。
 
 ```csharp
 public XmlNode ToRaw()
@@ -18,8 +18,10 @@ public XmlNode ToRaw()
 
 この値の XML ノード。
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

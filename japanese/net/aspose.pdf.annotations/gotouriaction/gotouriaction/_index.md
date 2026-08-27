@@ -1,12 +1,12 @@
 ---
-title: GoToURIAction.GoToURIAction
-second_title: Aspose.PDF for .NET API Reference
-description: GoToURIAction コンストラクタ。GoToURIAction クラスのインスタンスを作成します。
+title: "GoToURIAction.GoToURIAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GoToURIAction コンストラクタ。GoToURIAction クラスのインスタンスを作成します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/gotouriaction/gotouriaction/
 ---
-## GoToURIAction コンストラクタ
+## GoToURIAction constructor
 
 [`GoToURIAction`](../) クラスのインスタンスを作成します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.annotations/gotouriaction/gotouriaction/
 public GoToURIAction(string uri)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| uri | 文字列 | 解決するための一意のリソース識別子。 |
+| uri | String | 解決するための統一リソース識別子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [GoToURIAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GoToURIAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

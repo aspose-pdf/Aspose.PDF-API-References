@@ -1,14 +1,14 @@
 ---
-title: BasicSetColorOperator.Gray
-second_title: Aspose.PDF for .NET API Reference
-description: BasicSetColorOperator プロパティ。グレーの色の黒成分を取得します
+title: "BasicSetColorOperator.Gray"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BasicSetColorOperator プロパティ。グレイカラーの黒成分を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.operators/basicsetcoloroperator/gray/
 ---
-## BasicSetColorOperator.Gray プロパティ
+## BasicSetColorOperator.Gray property
 
-グレーの色の黒成分を取得します。
+グレイカラーの黒成分を取得します。
 
 ```csharp
 public double Gray { get; }
@@ -16,6 +16,8 @@ public double Gray { get; }
 
 ### 関連項目
 
-* クラス [BasicSetColorOperator](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

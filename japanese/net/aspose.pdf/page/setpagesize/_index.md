@@ -1,12 +1,12 @@
 ---
-title: Page.SetPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Page メソッド。ページのサイズを設定します
+title: "Page.SetPageSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page メソッド。ページのサイズを設定します。"
 type: docs
 weight: 540
 url: /ja/net/aspose.pdf/page/setpagesize/
 ---
-## Page.SetPageSize メソッド
+## Page.SetPageSize method
 
 ページのサイズを設定します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/page/setpagesize/
 public void SetPageSize(double width, double height)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Double | ページの幅。 |
-| height | Double | ページのサイズ。 |
+| width | Double | ページ幅です。 |
+| height | Double | ページサイズです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

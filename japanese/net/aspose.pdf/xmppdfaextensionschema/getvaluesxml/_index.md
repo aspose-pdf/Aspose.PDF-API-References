@@ -1,26 +1,28 @@
 ---
-title: XmpPdfAExtensionSchema.GetValuesXml
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema メソッド。プロパティの値を XML ツリー表現として取得します。
+title: "XmpPdfAExtensionSchema.GetValuesXml"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionSchema メソッド。 プロパティの値を XML ツリー表現として取得します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/xmppdfaextensionschema/getvaluesxml/
 ---
-## XmpPdfAExtensionSchema.GetValuesXml メソッド
+## XmpPdfAExtensionSchema.GetValuesXml method
 
-プロパティの値を XML ツリー表現として取得します。
+プロパティの値を xml ツリー表現として取得します。
 
 ```csharp
 public void GetValuesXml(XmlDocument xmlDocument, XmlElement rootElement)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | ソース XML ドキュメント。 |
-| rootElement | XmlElement | プロパティ値リストのルートノード。 |
+| xmlDocument | XmlDocument | ソース XML ドキュメントです。 |
+| rootElement | XmlElement | プロパティ値リストのルートノードです。 |
 
 ### 関連項目
 
-* クラス [XmpPdfAExtensionSchema](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

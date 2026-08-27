@@ -1,14 +1,14 @@
 ---
-title: Rectangle.IsTrivial
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle プロパティ。矩形がトリビアルであるかどうかをチェックします。すなわち、サイズと位置がゼロであるかどうか。
+title: "Rectangle.IsTrivial"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle プロパティ。矩形が自明かどうかをチェックします。すなわち、サイズと位置がゼロの場合です。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/rectangle/istrivial/
 ---
-## Rectangle.IsTrivial プロパティ
+## Rectangle.IsTrivial property
 
-矩形がトリビアルであるかどうかをチェックします。すなわち、サイズと位置がゼロであるかどうか。
+Rectangle が単純かどうかをチェックします。すなわちサイズと位置がゼロの場合です。
 
 ```csharp
 public bool IsTrivial { get; }
@@ -16,6 +16,8 @@ public bool IsTrivial { get; }
 
 ### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

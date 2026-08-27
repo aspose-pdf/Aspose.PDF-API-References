@@ -1,12 +1,12 @@
 ---
-title: Class PaperSourceExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PaperSourceExtensions クラス。PaperSource の拡張メソッドを表します。
+title: "クラス PaperSourceExtensions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Printing.PaperSourceExtensions クラス。PaperSource の拡張メソッドを表します。"
 type: docs
-weight: 9610
+weight: 9760
 url: /ja/net/aspose.pdf.printing/papersourceextensions/
 ---
-## PaperSourceExtensions クラス
+## PaperSourceExtensions class
 
 [`PaperSource`](../papersource/) の拡張メソッドを表します。
 
@@ -18,10 +18,12 @@ public static class PaperSourceExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToAsposePaperSource](../../aspose.pdf.printing/papersourceextensions/toasposepapersource/)(this PaperSource) | Windows 特有の System.Drawing.Printing.PaperSource を [`PaperSource`](../papersource/) に変換します。 |
-| static [ToNativePaperSource](../../aspose.pdf.printing/papersourceextensions/tonativepapersource/)(this PaperSource) | [`PaperSource`](../papersource/) を Windows 特有の System.Drawing.Printing.PaperSource に変換します。 |
+| static [ToAsposePaperSource](../../aspose.pdf.printing/papersourceextensions/toasposepapersource/)(this PaperSource) | Windows 固有の System.Drawing.Printing.PaperSource を [`PaperSource`](../papersource/) に変換します。 |
+| static [ToNativePaperSource](../../aspose.pdf.printing/papersourceextensions/tonativepapersource/)(this PaperSource) | [`PaperSource`](../papersource/) を Windows 固有の System.Drawing.Printing.PaperSource に変換します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

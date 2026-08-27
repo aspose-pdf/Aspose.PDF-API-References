@@ -1,7 +1,7 @@
 ---
-title: HtmlSaveOptions.HtmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions コンストラクタ。HtmlSaveOptions クラスの新しいインスタンスを初期化します
+title: "HtmlSaveOptions.HtmlSaveOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions コンストラクタ。HtmlSaveOptions クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
 public HtmlSaveOptions()
 ```
 
-### See Also
+### 関連項目
 
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,11 +30,11 @@ public HtmlSaveOptions()
 public HtmlSaveOptions(HtmlDocumentType documentType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| documentType | HtmlDocumentType | [`HtmlDocumentType`](../../htmldocumenttype/)。 |
+| documentType | HtmlDocumentType | 次の [`HtmlDocumentType`](../../htmldocumenttype/)。 |
 
-### See Also
+### 関連項目
 
 * enum [HtmlDocumentType](../../htmldocumenttype/)
 * class [HtmlSaveOptions](../)
@@ -51,11 +51,11 @@ public HtmlSaveOptions(HtmlDocumentType documentType)
 public HtmlSaveOptions(bool fixedLayout)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fixedLayout | Boolean | `true` に設定すると、HTML は固定レイアウトとして作成されます。 |
+| fixedLayout | Boolean | `true` に設定されている場合、HTML は固定レイアウトとして作成されます。 |
 
-### See Also
+### 関連項目
 
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -71,14 +71,16 @@ public HtmlSaveOptions(bool fixedLayout)
 public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| documentType | HtmlDocumentType | [`HtmlDocumentType`](../../htmldocumenttype/)。 |
-| fixedLayout | Boolean | `true` に設定すると、HTML は固定レイアウトとして作成されます。 |
+| documentType | HtmlDocumentType | 次の [`HtmlDocumentType`](../../htmldocumenttype/)。 |
+| fixedLayout | Boolean | `true` に設定されている場合、HTML は固定レイアウトとして作成されます。 |
 
-### See Also
+### 関連項目
 
 * enum [HtmlDocumentType](../../htmldocumenttype/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

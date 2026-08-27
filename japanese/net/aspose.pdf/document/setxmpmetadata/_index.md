@@ -1,12 +1,12 @@
 ---
-title: Document.SetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。ドキュメントの XMP メタデータを設定します
+title: "Document.SetXmpMetadata"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。ドキュメントの XMP メタデータを設定します"
 type: docs
-weight: 880
+weight: 900
 url: /ja/net/aspose.pdf/document/setxmpmetadata/
 ---
-## Document.SetXmpMetadata メソッド
+## Document.SetXmpMetadata method
 
 ドキュメントの XMP メタデータを設定します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf/document/setxmpmetadata/
 public void SetXmpMetadata(Stream stream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | stream | Stream | XMP メタデータを含むストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

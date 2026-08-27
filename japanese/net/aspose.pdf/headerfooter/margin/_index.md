@@ -1,14 +1,14 @@
 ---
-title: HeaderFooter.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooter プロパティ。マージン情報を取得または設定します
+title: "HeaderFooter.Margin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HeaderFooter プロパティ。余白情報を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/headerfooter/margin/
 ---
-## HeaderFooter.Margin プロパティ
+## HeaderFooter.Margin property
 
-マージン情報を取得または設定します。
+余白情報を取得または設定します。
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [HeaderFooter](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

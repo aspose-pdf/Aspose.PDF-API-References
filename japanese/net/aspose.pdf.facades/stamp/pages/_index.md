@@ -1,14 +1,14 @@
 ---
-title: Stamp.Pages
-second_title: Aspose.PDF for .NET API Reference
-description: スタンププロパティ。スタンプの影響を受けるページ番号の配列を取得または設定します。Pages が null の場合、ドキュメントのすべてのページが影響を受けます。
+title: "Stamp.Pages"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp プロパティ。スタンプの影響を受けるページ番号の配列を取得または設定します。Pages が null の場合、ドキュメントのすべてのページが対象になります"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/stamp/pages/
 ---
-## Stamp.Pages プロパティ
+## Stamp.Pages property
 
-スタンプの影響を受けるページ番号の配列を取得または設定します。Pages = null の場合、ドキュメントのすべてのページが影響を受けます。
+スタンプの影響を受けるページ番号の配列を取得または設定します。Pages が null の場合、ドキュメントのすべてのページが対象になります。
 
 ```csharp
 public int[] Pages { get; set; }
@@ -20,7 +20,7 @@ public int[] Pages { get; set; }
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Aspose.Pdf.Facades.Stamp();
 stamp.BindLogo(new FormattedText(text));
-//put stamp only on 1st, 4th and 6th page.
+//スタンプは 1 ページ目、4 ページ目、6 ページ目にのみ適用します。
 stamp.Pages = new int[] { 1, 4, 6 };
 fileStamp.AddStamp(stamp);
 fileStamp.Close();
@@ -28,6 +28,8 @@ fileStamp.Close();
 
 ### 関連項目
 
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

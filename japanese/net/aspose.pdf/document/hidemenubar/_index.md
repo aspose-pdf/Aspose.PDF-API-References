@@ -1,14 +1,14 @@
 ---
-title: Document.HideMenubar
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントがアクティブなときにメニューバーを非表示にするかどうかを指定するフラグを取得または設定します。
+title: "Document.HideMenubar"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントがアクティブなときにメニューバーを非表示にするかどうかを指定するフラグを取得または設定します。"
 type: docs
-weight: 230
+weight: 250
 url: /ja/net/aspose.pdf/document/hidemenubar/
 ---
-## Document.HideMenubar プロパティ
+## Document.HideMenubar property
 
-ドキュメントがアクティブなときにメニューバーを非表示にするかどうかを指定するフラグを取得または設定します。
+Document がアクティブなときにメニューバーを非表示にするかどうかを示すフラグを取得または設定します。
 
 ```csharp
 public bool HideMenubar { get; set; }
@@ -16,15 +16,17 @@ public bool HideMenubar { get; set; }
 
 ## 例
 
-例は、HideMenubar フラグを取得する方法を示しています。
+例では、HideMenubar フラグを取得する方法を示します。
 
 ```csharp
 Document document = new Document("sample.pdf");
 bool value = document.HideMenubar;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

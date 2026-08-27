@@ -1,12 +1,12 @@
 ---
-title: OutlineCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection プロパティ。コレクションが読み取り専用かどうかを示す値を取得します
+title: "OutlineCollection.IsReadOnly"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineCollection プロパティ。コレクションが読み取り専用かどうかを示す値を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/outlinecollection/isreadonly/
 ---
-## OutlineCollection.IsReadOnly プロパティ
+## OutlineCollection.IsReadOnly property
 
 コレクションが読み取り専用かどうかを示す値を取得します。
 
@@ -16,6 +16,8 @@ public override bool IsReadOnly { get; }
 
 ### 関連項目
 
-* クラス [OutlineCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

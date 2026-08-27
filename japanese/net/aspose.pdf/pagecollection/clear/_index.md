@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection メソッド。ページコレクションをクリア
+title: "PageCollection.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageCollection メソッド。ページコレクションをクリアします"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/pagecollection/clear/
 ---
-## PageCollection.Clear メソッド
+## PageCollection.Clear method
 
 ページコレクションをクリアします。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/pagecollection/clear/
 public void Clear()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

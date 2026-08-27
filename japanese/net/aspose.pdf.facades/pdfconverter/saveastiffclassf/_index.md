@@ -1,7 +1,7 @@
 ---
-title: PdfConverter.SaveAsTIFFClassF
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter メソッド。PDF ドキュメントの各ページを画像に変換し、画像を単一の TIFF ClassF ファイルに保存します。
+title: "PdfConverter.SaveAsTIFFClassF"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfConverter メソッド。PDF ドキュメントの各ページを画像に変換し、画像を単一の TIFF ClassF ファイルに保存します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.facades/pdfconverter/saveastiffclassf/
@@ -14,11 +14,11 @@ PDF ドキュメントの各ページを画像に変換し、画像を単一の 
 public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputFile | String | TIFF 画像を保存するストリーム。 |
-| imageWidth | Int32 | 画像の幅、単位はピクセル。 |
-| imageHeight | Int32 | 画像の高さ、単位はピクセル。 |
+| outputFile | String | TIFF画像を保存するストリーム。 |
+| imageWidth | Int32 | 画像の幅（単位はピクセル）。 |
+| imageHeight | Int32 | 画像の高さ（単位はピクセル）。 |
 
 ## 例
 
@@ -36,11 +36,11 @@ converter.DoConvert()
 converter.SaveAsTIFFClassF(@"D:\Test\test.tiff",204,196)
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfConverter](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,17 +52,17 @@ PDF ドキュメントの各ページを画像に変換し、画像を単一の 
 public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputFile | String | TIFF 画像を保存するストリーム。 |
+| outputFile | String | TIFF画像を保存するストリーム。 |
 | pageSize | PageSize | 画像のページサイズ。 |
 
-### 参照
+### 関連項目
 
-* クラス [PageSize](../../../aspose.pdf/pagesize/)
-* クラス [PdfConverter](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -74,17 +74,17 @@ PDF ドキュメントの各ページを画像に変換し、画像を単一の 
 public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeight)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 画像を保存するストリーム。 |
-| imageWidth | Int32 | 画像の幅、単位はピクセル。 |
-| imageHeight | Int32 | 画像の高さ、単位はピクセル。 |
+| outputStream | Stream | TIFF画像を保存するストリーム。 |
+| imageWidth | Int32 | 画像の幅（単位はピクセル）。 |
+| imageHeight | Int32 | 画像の高さ（単位はピクセル）。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfConverter](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -96,17 +96,17 @@ PDF ドキュメントの各ページを画像に変換し、画像を単一の 
 public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 画像を保存するストリーム。 |
+| outputStream | Stream | TIFF画像を保存するストリーム。 |
 | pageSize | PageSize | 画像のページサイズ。 |
 
-### 参照
+### 関連項目
 
-* クラス [PageSize](../../../aspose.pdf/pagesize/)
-* クラス [PdfConverter](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -118,9 +118,9 @@ PDF ドキュメントの各ページを画像に変換し、画像を単一の 
 public void SaveAsTIFFClassF(string outputFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputFile | String | TIFF 画像を保存するストリーム。 |
+| outputFile | String | TIFF画像を保存するストリーム。 |
 
 ## 例
 
@@ -138,11 +138,11 @@ converter.DoConvert()
 converter.SaveAsTIFFClassF(@"D:\Test\test.tiff")
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfConverter](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -154,12 +154,14 @@ PDF ドキュメントの各ページを画像に変換し、画像を単一の 
 public void SaveAsTIFFClassF(Stream outputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 画像を保存するストリーム。 |
+| outputStream | Stream | TIFF画像を保存するストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfConverter](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

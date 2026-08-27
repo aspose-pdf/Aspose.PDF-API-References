@@ -1,25 +1,25 @@
 ---
-title: FreeTextAnnotation.FreeTextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation コンストラクタ。Generator と一緒に使用するためのコンストラクタ
+title: "FreeTextAnnotation.FreeTextAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FreeTextAnnotation コンストラクタ。Generator と共に使用するコンストラクタ。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/freetextannotation/freetextannotation/
 ---
 ## FreeTextAnnotation(Document, DefaultAppearance) {#constructor}
 
-Generator と一緒に使用するためのコンストラクタ。
+Generator と共に使用するコンストラクタです。
 
 ```csharp
 public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | 注釈が作成されるドキュメント。 |
-| appearance | DefaultAppearance | デフォルトの外観 |
+| document | Document | アノテーションが作成される Document。 |
+| 外観 | DefaultAppearance | デフォルト外観 |
 
-### 参照
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DefaultAppearance](../../defaultappearance/)
@@ -37,13 +37,13 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearance)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 注釈が作成されるドキュメントのページ。 |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈の矩形。 |
-| appearance | DefaultAppearance | テキストのフォーマットに使用されるデフォルトの外観。 |
+| ページ | ページ | アノテーションが作成されるべき Document の Page。 |
+| rect | Rectangle | ページ上の annotation rectangle、アノテーションの位置を定義します。 |
+| 外観 | DefaultAppearance | テキストの書式設定に使用されるデフォルト外観。 |
 
-### 参照
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -51,3 +51,5 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

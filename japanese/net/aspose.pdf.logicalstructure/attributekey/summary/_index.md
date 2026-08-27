@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Summary
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey フィールド。サマリー属性 テーブル属性オーナー
+title: "AttributeKey.Summary"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeKey フィールド。Summary 属性 Table 属性の所有者"
 type: docs
 weight: 320
 url: /ja/net/aspose.pdf.logicalstructure/attributekey/summary/
 ---
-## AttributeKey.Summary フィールド
+## AttributeKey.Summary field
 
-サマリー属性（テーブル属性オーナー）。
+Summary 属性 (Table 属性の所有者)。
 
 ```csharp
 public static readonly AttributeKey Summary;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Summary;
 
 ### 関連項目
 
-* クラス [AttributeKey](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

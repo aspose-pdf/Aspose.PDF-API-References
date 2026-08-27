@@ -1,14 +1,14 @@
 ---
-title: XFA.Template
-second_title: Aspose.PDF for .NET API Reference
-description: XFA プロパティ。XFA フォームの XFA テンプレートコンポーネント
+title: "XFA.Template"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XFA プロパティ。XFA フォームの XFA テンプレート コンポーネント"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.forms/xfa/template/
 ---
-## XFA.Template プロパティ
+## XFA.Template property
 
-XFA フォームの XFA テンプレートコンポーネントです。
+XFA フォームの XFA Template コンポーネント。
 
 ```csharp
 public XmlNode Template { get; }
@@ -16,6 +16,8 @@ public XmlNode Template { get; }
 
 ### 関連項目
 
-* クラス [XFA](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

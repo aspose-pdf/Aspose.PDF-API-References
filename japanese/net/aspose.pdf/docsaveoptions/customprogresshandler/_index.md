@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions フィールド。このハンドラーは、変換進行状況イベントを処理するために使用できます。例えば、進行状況バーや現在処理中のページ数に関するメッセージを表示するために使用できます。進行状況をコンソールに表示するハンドラーのコードの例は次のとおりです。
+title: "DocSaveOptions.CustomProgressHandler"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocSaveOptions フィールド。このハンドラは、変換進行イベントを処理するために使用できます。例えば、進捗バーや現在処理されたページ数に関するメッセージを表示するために利用できます。コンソールに進捗を表示するハンドラのコード例は次のとおりです。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/docsaveoptions/customprogresshandler/
 ---
-## DocSaveOptions.CustomProgressHandler フィールド
+## DocSaveOptions.CustomProgressHandler field
 
-このハンドラーは、変換進行状況イベントを処理するために使用できます。例えば、進行状況バーや現在処理中のページ数に関するメッセージを表示するために使用できます。進行状況をコンソールに表示するハンドラーのコードの例は次のとおりです。
+このハンドラは変換の進捗イベントを処理するために使用できます。たとえば、プログレスバーや現在処理中のページ数を示すメッセージの表示に利用できます。コンソールに進捗を表示するハンドラのコード例は以下の通りです：
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler;
@@ -48,9 +48,11 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 
 ```
 
-### 参照
+### 関連項目
 
 * delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

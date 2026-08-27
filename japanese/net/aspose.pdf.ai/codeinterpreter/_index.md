@@ -1,32 +1,34 @@
 ---
-title: Class CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CodeInterpreter クラス。コードインタープリターツールリソースを表します
+title: "クラス CodeInterpreter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "クラス Aspose.Pdf.AI.CodeInterpreter。コードインタプリタツールのリソースを表します。"
 type: docs
-weight: 210
+weight: 220
 url: /ja/net/aspose.pdf.ai/codeinterpreter/
 ---
-## CodeInterpreter クラス
+## CodeInterpreter class
 
-コードインタープリターツールリソースを表します。
+コードインタプリタツールのリソースを表します。
 
 ```csharp
 public class CodeInterpreter
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [CodeInterpreter](codeinterpreter/)() | デフォルトコンストラクター。 |
+| [CodeInterpreter](codeinterpreter/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/codeinterpreter/fileids/) { get; set; } | コードインタープリターツールに提供されるファイルIDのリストを取得または設定します。ツールに関連付けられるファイルは最大20個です。 |
+| [FileIds](../../aspose.pdf.ai/codeinterpreter/fileids/) { get; set; } | code_interpreter ツールで利用可能なファイル ID のリストを取得または設定します。ツールに関連付けられるファイルは最大 20 個までです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

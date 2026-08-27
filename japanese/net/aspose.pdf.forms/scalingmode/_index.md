@@ -1,14 +1,14 @@
 ---
-title: Enum ScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.ScalingMode 列挙型。使用されるスケーリングの種類
+title: "列挙体 ScalingMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Forms.ScalingMode 列挙体。使用すべきスケーリングのタイプ"
 type: docs
-weight: 5240
+weight: 5360
 url: /ja/net/aspose.pdf.forms/scalingmode/
 ---
-## ScalingMode 列挙型
+## ScalingMode enumeration
 
-使用されるスケーリングの種類。
+使用すべき拡大縮小のタイプです。
 
 ```csharp
 public enum ScalingMode
@@ -18,10 +18,12 @@ public enum ScalingMode
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Proportional | `0` | アイコンの元のアスペクト比を維持しながら、注釈矩形の幅または高さに合わせてアイコンをスケーリングします。 |
-| Anamorphic | `1` | アイコンを注釈矩形に正確にフィットさせるようにスケーリングします。 |
+| Proportional | `0` | アイコンの元のアスペクト比を維持しながら、注釈矩形の幅または高さに合わせてアイコンをスケールします。 |
+| Anamorphic | `1` | アイコンを注釈矩形に正確にフィットさせるようにスケールします。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

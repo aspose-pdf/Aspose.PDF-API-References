@@ -1,20 +1,20 @@
 ---
-title: SaveOptions.BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo コンストラクタ。BorderInfo クラスのインスタンスを作成します
+title: "SaveOptions.BorderInfo.BorderInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BorderInfo コンストラクタ。BorderInfo クラスのインスタンスを作成します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/saveoptions.borderinfo/borderinfo/
 ---
 ## BorderInfo() {#constructor}
 
-BorderInfo クラスのインスタンスを作成します
+BorderInfo クラスのインスタンスを作成します。
 
 ```csharp
 public BorderInfo()
 ```
 
-### See Also
+### 関連項目
 
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,19 +24,21 @@ public BorderInfo()
 
 ## BorderInfo(BorderPartStyle) {#constructor_1}
 
-BorderInfo クラスのインスタンスを作成し、提供されたボーダースタイルからコピーされた属性でボーダーのすべての要素（上、左、右、下）を初期化します
+BorderInfo クラスのインスタンスを作成し、提供された境界線スタイルからコピーされた属性で境界線のすべての要素（Top、Left、Right、Bottom）を初期化します。
 
 ```csharp
 public BorderInfo(BorderPartStyle commonStyle)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| commonStyle | BorderPartStyle | ボーダーのすべての要素（左、右、上、下）に使用されるボーダー部分のスタイル |
+| commonStyle | BorderPartStyle | ボーダー（左、右、上、下）のすべての要素に使用されるボーダー部品のスタイル |
 
-### See Also
+### 関連項目
 
 * class [BorderPartStyle](../../saveoptions.borderpartstyle/)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

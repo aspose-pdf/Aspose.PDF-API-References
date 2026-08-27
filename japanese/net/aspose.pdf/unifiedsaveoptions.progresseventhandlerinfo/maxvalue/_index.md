@@ -1,14 +1,14 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue
-second_title: Aspose.PDF for .NET API Reference
-description: ProgressEventHandlerInfo フィールド。進行状況値の最大可能値
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ProgressEventHandlerInfo フィールド。進捗値の最大可能値。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/maxvalue/
 ---
-## UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue フィールド
+## UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue field
 
-進行状況値の最大可能値。
+進捗値の最大可能値です。
 
 ```csharp
 public int MaxValue;
@@ -16,6 +16,8 @@ public int MaxValue;
 
 ### 関連項目
 
-* クラス [ProgressEventHandlerInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ProgressEventHandlerInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

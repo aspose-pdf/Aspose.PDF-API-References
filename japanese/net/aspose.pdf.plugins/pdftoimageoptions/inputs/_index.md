@@ -1,14 +1,14 @@
 ---
-title: PdfToImageOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImageOptions プロパティ。PdfToImage プラグインデータコレクションを返します
+title: "PdfToImageOptions.Inputs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfToImageOptions プロパティ。PdfToImage プラグインのデータコレクションを返します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/pdftoimageoptions/inputs/
 ---
-## PdfToImageOptions.Inputs プロパティ
+## PdfToImageOptions.Inputs property
 
-[`PdfToImage`](../../pdftoimage/) プラグインデータコレクションを返します。
+[`PdfToImage`](../../pdftoimage/) プラグインのデータコレクションを返します。
 
 ```csharp
 public List<IDataSource> Inputs { get; }
@@ -16,7 +16,9 @@ public List<IDataSource> Inputs { get; }
 
 ### 関連項目
 
-* インターフェース [IDataSource](../../idatasource/)
-* クラス [PdfToImageOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

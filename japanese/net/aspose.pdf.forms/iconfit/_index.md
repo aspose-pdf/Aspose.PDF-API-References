@@ -1,14 +1,14 @@
 ---
-title: Class IconFit
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.IconFit クラス。ウィジェット注釈のアイコンがその注釈の矩形内でどのように表示されるかを説明します。
+title: "クラス IconFit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Forms.IconFit クラス。ウィジェット注釈アイコンがその注釈矩形内でどのように表示されるかを記述します"
 type: docs
-weight: 5120
+weight: 5240
 url: /ja/net/aspose.pdf.forms/iconfit/
 ---
-## IconFit クラス
+## IconFit class
 
-ウィジェット注釈のアイコンがその注釈の矩形内でどのように表示されるかを説明します。
+ウィジェットアノテーションのアイコンがアノテーション矩形内にどのように表示されるかを記述します。
 
 ```csharp
 public sealed class IconFit
@@ -20,9 +20,9 @@ public sealed class IconFit
 | --- | --- |
 | [LeftoverBottom](../../aspose.pdf.forms/iconfit/leftoverbottom/) { get; set; } | アイコンの下部に割り当てるスペースを取得または設定します。 |
 | [LeftoverLeft](../../aspose.pdf.forms/iconfit/leftoverleft/) { get; set; } | アイコンの左側に割り当てるスペースを取得または設定します。 |
-| [ScalingMode](../../aspose.pdf.forms/iconfit/scalingmode/) { get; set; } | 使用されるスケーリングの種類。/// |
+| [ScalingMode](../../aspose.pdf.forms/iconfit/scalingmode/) { get; set; } | 使用すべきスケーリングのタイプ。 /// |
 | [ScalingReason](../../aspose.pdf.forms/iconfit/scalingreason/) { get; set; } | スケーリング理由を取得または設定します。 |
-| [SpreadOnBorder](../../aspose.pdf.forms/iconfit/spreadonborder/) { get; set; } | true の場合、ボタンの外観が注釈の境界内に完全に収まるようにスケーリングされることを示します。境界の線幅は考慮されません。 |
+| [SpreadOnBorder](../../aspose.pdf.forms/iconfit/spreadonborder/) { get; set; } | true の場合、ボタンの外観が注釈の境界内に完全に収まるようにスケーリングされ、境界線の幅は考慮されません。 |
 
 ## メソッド
 
@@ -33,7 +33,9 @@ public sealed class IconFit
 | static [ScalingModeToName](../../aspose.pdf.forms/iconfit/scalingmodetoname/)(ScalingMode) | スケーリングモードオブジェクトを名前に変換します。 |
 | static [ScalingReasonToName](../../aspose.pdf.forms/iconfit/scalingreasontoname/)(ScalingReason) | スケーリング理由オブジェクトを名前に変換します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

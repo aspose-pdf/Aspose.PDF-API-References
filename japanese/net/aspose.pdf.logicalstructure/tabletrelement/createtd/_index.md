@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.CreateTD
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement メソッド。TableTHElement を作成し、現在のテーブルに追加します。
+title: "TableTRElement.CreateTD"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableTRElement メソッド。TableTHElement を作成し、現在のテーブルに追加します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.logicalstructure/tabletrelement/createtd/
 ---
-## TableTRElement.CreateTD メソッド
+## TableTRElement.CreateTD method
 
 [`TableTHElement`](../../tablethelement/) を作成し、現在のテーブルに追加します。
 
@@ -16,11 +16,13 @@ public TableTDElement CreateTD()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [TableTDElement](../../tabletdelement/)
-* クラス [TableTRElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableTDElement](../../tabletdelement/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

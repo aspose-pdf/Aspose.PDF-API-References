@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnShowPage
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection プロパティ。アノテーションを含むページがビューワーアプリケーションのユーザーインターフェイスに表示されるときに実行されるアクションを取得または設定します。
+title: "AnnotationActionCollection.OnShowPage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationActionCollection プロパティ。アノテーションを含むページがビューアアプリケーションのユーザーインターフェイスで表示されるときに実行されるアクションを取得または設定します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.annotations/annotationactioncollection/onshowpage/
 ---
-## AnnotationActionCollection.OnShowPage プロパティ
+## AnnotationActionCollection.OnShowPage property
 
-アノテーションを含むページがビューワーアプリケーションのユーザーインターフェイスに表示されるときに実行されるアクションを取得または設定します。
+Annotation を含む Page がビューア アプリケーションのユーザー インターフェイスで表示されるようになったときに実行されるアクションを取得または設定します。
 
 ```csharp
 public PdfAction OnShowPage { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnShowPage { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

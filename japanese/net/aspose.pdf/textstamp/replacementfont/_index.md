@@ -1,14 +1,14 @@
 ---
-title: TextStamp.ReplacementFont
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp プロパティ。ユーザーフォントに必要な文字が含まれていない場合に置き換えに使用されるフォントを取得または設定します。
+title: "TextStamp.ReplacementFont"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextStamp プロパティ。ユーザーのフォントに必要な文字が含まれていない場合に置換に使用されるフォントを取得または設定します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/textstamp/replacementfont/
 ---
-## TextStamp.ReplacementFont プロパティ
+## TextStamp.ReplacementFont property
 
-ユーザーフォントに必要な文字が含まれていない場合に置き換えに使用されるフォントを取得または設定します。
+必要な文字がユーザーフォントに含まれていない場合に置換に使用されるフォントを取得または設定します。
 
 ```csharp
 public Font ReplacementFont { get; set; }
@@ -16,7 +16,9 @@ public Font ReplacementFont { get; set; }
 
 ### 関連項目
 
-* クラス [Font](../../../aspose.pdf.text/font/)
-* クラス [TextStamp](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

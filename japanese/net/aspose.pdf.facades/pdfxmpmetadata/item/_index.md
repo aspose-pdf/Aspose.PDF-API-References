@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata プロパティ。キーによって値を取得または設定します
+title: "PdfXmpMetadata.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfXmpMetadata プロパティ。 キーで値を取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.facades/pdfxmpmetadata/item/
 ---
-## PdfXmpMetadata インデクサー (1 of 2)
+## PdfXmpMetadata indexer (1 of 2)
 
-キーによって値を取得または設定します。
+キーで値を取得または設定します。
 
 ```csharp
 public XmpValue this[string key] { get; set; }
@@ -16,7 +16,7 @@ public XmpValue this[string key] { get; set; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| key | 取得/設定するキー名。 |
+| キー | 取得/設定するキー名。 |
 
 ### 戻り値
 
@@ -30,7 +30,7 @@ pxm.BindPdf("PdfFile.pdf");
 Console.WriteLine(pxm["xmp:Nickname"]);
 ```
 
-### 参照
+### 関連項目
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
@@ -39,9 +39,9 @@ Console.WriteLine(pxm["xmp:Nickname"]);
 
 ---
 
-## PdfXmpMetadata インデクサー (2 of 2)
+## PdfXmpMetadata indexer (2 of 2)
 
-キーによって XMP メタデータの値を取得します。
+キーで XMP メタデータの値を取得します。
 
 ```csharp
 public XmpValue this[DefaultMetadataProperties key] { get; set; }
@@ -49,11 +49,11 @@ public XmpValue this[DefaultMetadataProperties key] { get; set; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| key | 値のキー。 |
+| キー | 値のキーです。 |
 
 ### 戻り値
 
-XMP メタデータからの値。
+XMP メタデータからの値です。
 
 ## 例
 
@@ -63,10 +63,12 @@ pxm.BindPdf("PdfFile.pdf");
 Console.WriteLine(pxm[DefaultMetadataProperties.CreatorTool]);
 ```
 
-### 参照
+### 関連項目
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

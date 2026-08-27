@@ -1,14 +1,14 @@
 ---
-title: SignatureName.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName メソッド。SignatureName インスタンスの文字列表現を主にその名前を使用して返します
+title: "SignatureName.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureName メソッド。SignatureName インスタンスの文字列表現を、主にその名前を使用して返します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/signaturename/tostring/
 ---
-## SignatureName.ToString メソッド
+## SignatureName.ToString method
 
-[`SignatureName`](../) インスタンスの文字列表現を主にその名前を使用して返します。
+`[`SignatureName`](../)` インスタンスの文字列表現を返します。主にその名前を使用します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-署名の名前を表す文字列。
+署名の名前を表す文字列です。
 
-### 参照
+### 関連項目
 
-* クラス [SignatureName](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

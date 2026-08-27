@@ -1,14 +1,14 @@
 ---
-title: Class Group
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Group クラス。透明なイメージングモデルで使用するページグループの属性を指定するグループ属性クラス
+title: "クラス Group"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Group クラス。透過イメージングモデルで使用するページグループの属性を指定するグループ属性クラスです"
 type: docs
-weight: 5350
+weight: 5470
 url: /ja/net/aspose.pdf/group/
 ---
-## グループ クラス
+## Group class
 
-透明なイメージングモデルで使用するページのページグループの属性を指定するグループ属性クラスです。
+透過イメージングモデルで使用するページのページグループの属性を指定するグループ属性クラスです。
 
 ```csharp
 public sealed class Group
@@ -18,15 +18,17 @@ public sealed class Group
 
 | 名前 | 説明 |
 | --- | --- |
-| [Group](group/)(Page) | コンストラクタ。 |
+| [Group](group/)(Page) | コンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ColorSpace](../../aspose.pdf/group/colorspace/) { get; set; } | グループのカラースペース。 |
+| [ColorSpace](../../aspose.pdf/group/colorspace/) { get; set; } | グループのカラースペースです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

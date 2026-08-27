@@ -1,14 +1,14 @@
 ---
-title: Class FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FontColor クラス。テキストの色を表すクラス
+title: "Class FontColor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.FontColor クラス。テキストの色を表すクラス"
 type: docs
-weight: 4270
+weight: 4390
 url: /ja/net/aspose.pdf.facades/fontcolor/
 ---
-## FontColor クラス
+## FontColor class
 
-テキストの色を表すクラス。
+テキストの色を表すクラスです。
 
 ```csharp
 public sealed class FontColor
@@ -19,7 +19,7 @@ public sealed class FontColor
 | 名前 | 説明 |
 | --- | --- |
 | [FontColor](fontcolor/#constructor)() | 色を初期化します。 |
-| [FontColor](fontcolor/#constructor_1)(int, int, int) | 指定された色成分で色を初期化します。 |
+| [FontColor](fontcolor/#constructor_1)(int, int, int) | 指定されたカラーコンポーネントで色を初期化します。 |
 
 ## プロパティ
 
@@ -29,7 +29,9 @@ public sealed class FontColor
 | [Green](../../aspose.pdf.facades/fontcolor/green/) { get; set; } | 色の緑成分。 |
 | [Red](../../aspose.pdf.facades/fontcolor/red/) { get; set; } | 色の赤成分。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

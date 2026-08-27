@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.UnitValue
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue プロパティ。デフォルトの空間単位で値を設定します
+title: "PdfFileEditor.ContentsResizeValue.UnitValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ContentsResizeValue プロパティ。デフォルトの空間単位で値を設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/unitvalue/
 ---
-## PdfFileEditor.ContentsResizeValue.UnitValue プロパティ
+## PdfFileEditor.ContentsResizeValue.UnitValue property
 
-デフォルトの空間単位で値を設定します。
+デフォルト空間単位で値を設定します。
 
 ```csharp
 public double UnitValue { set; }
@@ -16,6 +16,8 @@ public double UnitValue { set; }
 
 ### 関連項目
 
-* クラス [ContentsResizeValue](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

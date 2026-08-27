@@ -1,12 +1,12 @@
 ---
-title: DocMDPSignature.AccessPermissions
-second_title: Aspose.PDF for .NET API Reference
-description: DocMDPSignature プロパティ。このドキュメントに付与されたアクセス許可を返します
+title: "DocMDPSignature.AccessPermissions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocMDPSignature プロパティ。 このドキュメントに付与されたアクセス許可を返します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.forms/docmdpsignature/accesspermissions/
 ---
-## DocMDPSignature.AccessPermissions プロパティ
+## DocMDPSignature.AccessPermissions property
 
 このドキュメントに付与されたアクセス許可を返します。
 
@@ -20,3 +20,5 @@ public DocMDPAccessPermissions AccessPermissions { get; }
 * class [DocMDPSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

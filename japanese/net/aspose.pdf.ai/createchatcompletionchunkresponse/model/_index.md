@@ -1,14 +1,14 @@
 ---
-title: CreateChatCompletionChunkResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: CreateChatCompletionChunkResponse プロパティ。完了を生成するためのモデルを取得または設定します
+title: "CreateChatCompletionChunkResponse.Model"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CreateChatCompletionChunkResponse プロパティ。完了を生成するモデルを取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.ai/createchatcompletionchunkresponse/model/
 ---
-## CreateChatCompletionChunkResponse.Model プロパティ
+## CreateChatCompletionChunkResponse.Model property
 
-完了を生成するためのモデルを取得または設定します。
+完了を生成するモデルを取得または設定します。
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [CreateChatCompletionChunkResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

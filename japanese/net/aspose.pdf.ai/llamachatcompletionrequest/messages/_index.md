@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionRequest プロパティ。会話を構成するメッセージのリストを設定または取得します。
+title: "LlamaChatCompletionRequest.Messages"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LlamaChatCompletionRequest プロパティ。会話を構成するメッセージのリストを設定または取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.ai/llamachatcompletionrequest/messages/
 ---
-## LlamaChatCompletionRequest.Messages プロパティ
+## LlamaChatCompletionRequest.Messages property
 
 会話を構成するメッセージのリストを設定または取得します。
 
@@ -20,3 +20,5 @@ public List<ChatMessage> Messages { get; set; }
 * class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

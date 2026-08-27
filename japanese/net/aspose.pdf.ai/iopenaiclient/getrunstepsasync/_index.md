@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetRunStepsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient メソッド。スレッド内の特定の実行のステップのリストを非同期で取得します。
+title: "IOpenAIClient.GetRunStepsAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IOpenAIClient メソッド。スレッド内の特定の実行のステップ一覧を非同期で取得します"
 type: docs
 weight: 260
 url: /ja/net/aspose.pdf.ai/iopenaiclient/getrunstepsasync/
 ---
-## IOpenAIClient.GetRunStepsAsync メソッド
+## IOpenAIClient.GetRunStepsAsync method
 
-スレッド内の特定の実行のステップのリストを非同期で取得します。
+スレッド内の特定の実行のステップ一覧を非同期で取得します。
 
 ```csharp
 public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId, 
@@ -16,28 +16,30 @@ public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId,
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| threadId | String | 実行を含むスレッドの ID。 |
+| threadId | String | ランを含むスレッドのID。 |
 | runId | String | ステップを取得する実行の ID。 |
-| queryParameters | RunStepListQueryParameters | 実行ステップのリストをフィルタリングするためのオプションのクエリパラメーター。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| queryParameters | RunStepListQueryParameters | 実行ステップの一覧をフィルタリングするためのオプションのクエリ パラメータ。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果には実行ステップのリストが含まれます。
+非同期操作を表すタスク。タスクの結果には実行ステップの一覧が含まれます。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | スレッド ID が null または空の場合にスローされます。 |
-| [AIClientException](../../aiclientexception/) | 実行 ID が null または空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | スレッドIDがnullまたは空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | run Id が null または空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [RunStepListResponse](../../runsteplistresponse/)
-* クラス [RunStepListQueryParameters](../../runsteplistqueryparameters/)
-* インターフェース [IOpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RunStepListResponse](../../runsteplistresponse/)
+* class [RunStepListQueryParameters](../../runsteplistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

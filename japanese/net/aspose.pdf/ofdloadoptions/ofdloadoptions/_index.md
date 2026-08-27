@@ -1,12 +1,12 @@
 ---
-title: OfdLoadOptions.OfdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OfdLoadOptions コンストラクタ。デフォルトコンストラクタ
+title: "OfdLoadOptions.OfdLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OfdLoadOptions コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/ofdloadoptions/ofdloadoptions/
 ---
-## OfdLoadOptions コンストラクタ
+## OfdLoadOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public OfdLoadOptions()
 * class [OfdLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

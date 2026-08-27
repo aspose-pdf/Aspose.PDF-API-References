@@ -1,20 +1,20 @@
 ---
-title: DicomDevice.DicomDevice
-second_title: Aspose.PDF for .NET API Reference
-description: DicomDevice コンストラクタ。デフォルト解像度で DicomDevice クラスの新しいインスタンスを初期化します
+title: "DicomDevice.DicomDevice"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DicomDevice コンストラクタ。デフォルトの解像度で DicomDevice クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.devices/dicomdevice/dicomdevice/
 ---
 ## DicomDevice() {#constructor}
 
-デフォルト解像度で [`DicomDevice`](../) クラスの新しいインスタンスを初期化します。
+デフォルトの解像度で [`DicomDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public DicomDevice()
 ```
 
-### See Also
+### 関連項目
 
 * class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -24,13 +24,13 @@ public DicomDevice()
 
 ## DicomDevice(Resolution) {#constructor_1}
 
-[`DicomDevice`](../) クラスの新しいインスタンスを初期化します。結果画像ファイルの解像度については、[`Resolution`](../../resolution/) クラスを参照してください。
+[`DicomDevice`](../) クラスの新しいインスタンスを初期化します。  結果の画像ファイルの解像度については、[`Resolution`](../../resolution/) クラスをご参照ください。
 
 ```csharp
 public DicomDevice(Resolution resolution)
 ```
 
-### See Also
+### 関連項目
 
 * class [Resolution](../../resolution/)
 * class [DicomDevice](../)
@@ -41,17 +41,17 @@ public DicomDevice(Resolution resolution)
 
 ## DicomDevice(PageSize) {#constructor_2}
 
-提供されたページサイズで、デフォルト解像度 (=150) の [`DicomDevice`](../) クラスの新しいインスタンスを初期化します。
+提供されたページサイズ、デフォルトの解像度 (=150) で [`DicomDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public DicomDevice(PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
 
-### See Also
+### 関連項目
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [DicomDevice](../)
@@ -62,18 +62,18 @@ public DicomDevice(PageSize pageSize)
 
 ## DicomDevice(int, int) {#constructor_4}
 
-提供された画像の寸法で、デフォルト解像度 (=150) の [`DicomDevice`](../) クラスの新しいインスタンスを初期化します。
+提供された画像サイズ、デフォルトの解像度 (=150) で [`DicomDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public DicomDevice(int width, int height)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力の幅。 |
-| height | Int32 | 画像出力の高さ。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
 
-### See Also
+### 関連項目
 
 * class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -89,12 +89,12 @@ public DicomDevice(int width, int height)
 public DicomDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
-| resolution | Resolution | 結果画像ファイルの解像度については、[`Resolution`](../../resolution/) クラスを参照してください。 |
+| resolution | Resolution | 結果画像ファイルの解像度は、[`Resolution`](../../resolution/) クラスをご参照ください。 |
 
-### See Also
+### 関連項目
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [Resolution](../../resolution/)
@@ -106,21 +106,23 @@ public DicomDevice(PageSize pageSize, Resolution resolution)
 
 ## DicomDevice(int, int, Resolution) {#constructor_5}
 
-提供された画像の寸法と解像度で [`DicomDevice`](../) クラスの新しいインスタンスを初期化します。
+提供された画像サイズと解像度で [`DicomDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public DicomDevice(int width, int height, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力の幅。 |
-| height | Int32 | 画像出力の高さ。 |
-| resolution | Resolution | 結果画像ファイルの解像度については、[`Resolution`](../../resolution/) クラスを参照してください。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
+| resolution | Resolution | 結果画像ファイルの解像度は、[`Resolution`](../../resolution/) クラスをご参照ください。 |
 
-### See Also
+### 関連項目
 
 * class [Resolution](../../resolution/)
 * class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

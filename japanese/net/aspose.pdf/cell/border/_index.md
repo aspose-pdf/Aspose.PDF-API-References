@@ -1,14 +1,14 @@
 ---
-title: Cell.Border
-second_title: Aspose.PDF for .NET API Reference
-description: セルプロパティ。ボーダーを取得または設定します
+title: "Cell.Border"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Cell プロパティ。ボーダーを取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/cell/border/
 ---
-## Cell.Border プロパティ
+## Cell.Border property
 
-ボーダーを取得または設定します。
+境界線を取得または設定します。
 
 ```csharp
 public BorderInfo Border { get; set; }
@@ -20,3 +20,5 @@ public BorderInfo Border { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

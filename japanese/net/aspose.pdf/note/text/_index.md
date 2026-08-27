@@ -1,12 +1,12 @@
 ---
-title: Note.Text
-second_title: Aspose.PDF for .NET API Reference
-description: ノートプロパティ。ノートテキストを取得または設定します
+title: "Note.Text"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Note プロパティ。ノートのテキストを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/note/text/
 ---
-## Note.Text プロパティ
+## Note.Text property
 
 ノートテキストを取得または設定します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/note/text/
 public string Text { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Note](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

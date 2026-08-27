@@ -1,12 +1,12 @@
 ---
-title: XmpField.Name
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField プロパティ。名前を取得します
+title: "XmpField.Name"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpField プロパティ。名前を取得します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/xmpfield/name/
 ---
-## XmpField.Name プロパティ
+## XmpField.Name property
 
 名前を取得します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf/xmpfield/name/
 public string Name { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-名前。
+名前です。
 
-### 参照
+### 関連項目
 
-* クラス [XmpField](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

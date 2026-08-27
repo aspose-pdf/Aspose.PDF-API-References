@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState プロパティ。TextFragment オブジェクトによって表されるテキストの下付き文字を取得または設定します
+title: "TextFragmentState.Subscript"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentState プロパティ。TextFragment オブジェクトで表されるテキストのサブスクリプトを取得または設定します。"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.text/textfragmentstate/subscript/
 ---
-## TextFragmentState.Subscript プロパティ
+## TextFragmentState.Subscript property
 
-[`TextFragment`](../../textfragment/) オブジェクトによって表されるテキストの下付き文字を取得または設定します。
+[`TextFragment`](../../textfragment/) オブジェクトで表されるテキストのサブスクリプトを取得または設定します。
 
 ```csharp
 public override bool Subscript { get; set; }
@@ -16,6 +16,8 @@ public override bool Subscript { get; set; }
 
 ### 関連項目
 
-* クラス [TextFragmentState](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

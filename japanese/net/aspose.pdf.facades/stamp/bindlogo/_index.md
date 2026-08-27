@@ -1,12 +1,12 @@
 ---
-title: Stamp.BindLogo
-second_title: Aspose.PDF for .NET API Reference
-description: スタンプメソッド。テキストをスタンプとして設定します。
+title: "Stamp.BindLogo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp メソッド。テキストをスタンプとして設定します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.facades/stamp/bindlogo/
 ---
-## Stamp.BindLogo メソッド
+## Stamp.BindLogo method
 
 テキストをスタンプとして設定します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.facades/stamp/bindlogo/
 public void BindLogo(FormattedText formattedText)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| formattedText | FormattedText | テキストとテキストプロパティを指定するFormattedTextオブジェクト。 |
+| formattedText | FormattedText | テキストとテキストプロパティを指定する FormattedText オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [FormattedText](../../formattedtext/)
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

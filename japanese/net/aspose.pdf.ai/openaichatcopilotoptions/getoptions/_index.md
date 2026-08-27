@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions メソッド。現在の OpenAIChatCopilotOptions を取得します
+title: "OpenAIChatCopilotOptions.GetOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIChatCopilotOptions メソッド。現在の OpenAIChatCopilotOptions を取得します"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.pdf.ai/openaichatcopilotoptions/getoptions/
 ---
-## OpenAIChatCopilotOptions.GetOptions メソッド
+## OpenAIChatCopilotOptions.GetOptions method
 
 現在の [`OpenAIChatCopilotOptions`](../) を取得します。
 
@@ -16,10 +16,12 @@ public OpenAIChatCopilotOptions GetOptions()
 
 ### 戻り値
 
-現在のインスタンスの [`OpenAIChatCopilotOptions`](../) です。
+現在の [`OpenAIChatCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIChatCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

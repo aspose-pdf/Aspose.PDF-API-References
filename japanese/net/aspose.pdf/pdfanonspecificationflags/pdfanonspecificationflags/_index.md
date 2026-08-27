@@ -1,12 +1,12 @@
 ---
-title: PdfANonSpecificationFlags.PdfANonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: PdfANonSpecificationFlags コンストラクタ。デフォルトコンストラクタ
+title: "PdfANonSpecificationFlags.PdfANonSpecificationFlags"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfANonSpecificationFlags コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pdfanonspecificationflags/pdfanonspecificationflags/
 ---
-## PdfANonSpecificationFlags コンストラクタ
+## PdfANonSpecificationFlags constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public PdfANonSpecificationFlags()
 * class [PdfANonSpecificationFlags](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

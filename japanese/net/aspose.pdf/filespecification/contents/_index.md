@@ -1,21 +1,23 @@
 ---
-title: FileSpecification.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification プロパティ。コンテンツファイルを取得または設定します。このプロパティは、メモリにロードされたデータを返し、大きなデータの場合はメモリ不足例外を引き起こす可能性があります。メモリ使用量を減らすには、StreamContents を使用してください。
+title: "FileSpecification.Contents"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileSpecification プロパティ。コンテンツファイルを取得または設定します。このプロパティはメモリにロードされたデータを返すため、大量のデータでメモリ不足例外が発生する可能性があります。メモリ使用量を減らすには StreamContents を使用してください"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/filespecification/contents/
 ---
-## FileSpecification.Contents プロパティ
+## FileSpecification.Contents property
 
-コンテンツファイルを取得または設定します。このプロパティは、メモリにロードされたデータを返し、大きなデータの場合はメモリ不足例外を引き起こす可能性があります。メモリ使用量を減らすには、StreamContents を使用してください。
+contents file を取得または設定します。このプロパティはメモリに読み込まれたデータを返しますが、大量のデータでは Out of memory 例外が発生する可能性があります。メモリ使用量を減らすには StreamContents を使用してください。
 
 ```csharp
 public Stream Contents { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FileSpecification](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

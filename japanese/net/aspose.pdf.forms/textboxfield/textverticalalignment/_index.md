@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.TextVerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField プロパティ。注釈のテキストの垂直揃えを取得または設定します。
+title: "TextBoxField.TextVerticalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextBoxField プロパティ。アノテーションのテキスト垂直位置揃えを取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.forms/textboxfield/textverticalalignment/
 ---
-## TextBoxField.TextVerticalAlignment プロパティ
+## TextBoxField.TextVerticalAlignment property
 
-注釈のテキストの垂直揃えを取得または設定します。
+アノテーションのテキスト垂直位置揃えを取得または設定します。
 
 ```csharp
 public VerticalAlignment TextVerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment TextVerticalAlignment { get; set; }
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

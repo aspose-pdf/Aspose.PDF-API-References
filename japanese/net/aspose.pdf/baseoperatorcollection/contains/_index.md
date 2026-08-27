@@ -1,30 +1,32 @@
 ---
-title: BaseOperatorCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection メソッド。コレクション内にオペレーターが存在するかを確認します
+title: "BaseOperatorCollection.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BaseOperatorCollection メソッド。演算子がコレクションに存在するか確認します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/baseoperatorcollection/contains/
 ---
-## BaseOperatorCollection.Contains メソッド
+## BaseOperatorCollection.Contains method
 
-コレクション内にオペレーターが存在するかを確認します。
+コレクションにオペレーターが存在するか確認します。
 
 ```csharp
 public abstract bool Contains(Operator item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | Operator | 検索するオペレーター項目。 |
+| アイテム | オペレーター | 検索するオペレーター項目。 |
 
 ### 戻り値
 
-True - 項目が見つかった場合; それ以外の場合は、false。
+True - 項目が見つかった場合; それ以外は false。
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../operator/)
-* クラス [BaseOperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

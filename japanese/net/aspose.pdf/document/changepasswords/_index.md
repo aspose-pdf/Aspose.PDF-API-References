@@ -1,14 +1,14 @@
 ---
-title: Document.ChangePasswords
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。ドキュメントのパスワードを変更します。このアクションはオーナーパスワードを使用してのみ実行できます。
+title: "Document.ChangePasswords"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。ドキュメントのパスワードを変更します。この操作は所有者パスワードを使用してのみ実行できます。"
 type: docs
-weight: 560
+weight: 580
 url: /ja/net/aspose.pdf/document/changepasswords/
 ---
-## Document.ChangePasswords メソッド
+## Document.ChangePasswords method
 
-ドキュメントのパスワードを変更します。このアクションはオーナーパスワードを使用してのみ実行できます。
+Document のパスワードを変更します。この操作は所有者パスワードを使用した場合にのみ実行できます。
 
 ```csharp
 public void ChangePasswords(string ownerPassword, string newUserPassword, string newOwnerPassword)
@@ -16,12 +16,14 @@ public void ChangePasswords(string ownerPassword, string newUserPassword, string
 
 | パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| ownerPassword | 文字列 | オーナーパスワード。 |
-| newUserPassword | 文字列 | 新しいユーザーパスワード。 |
-| newOwnerPassword | 文字列 | 新しいオーナーパスワード。 |
+| ownerPassword | String | 所有者パスワード。 |
+| newUserPassword | String | 新しいユーザーパスワード。 |
+| newOwnerPassword | String | 新しい所有者パスワード。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

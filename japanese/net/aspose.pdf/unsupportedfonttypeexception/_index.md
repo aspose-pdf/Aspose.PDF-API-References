@@ -1,14 +1,14 @@
 ---
-title: Class UnsupportedFontTypeException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.UnsupportedFontTypeException クラス。フォントタイプがサポートされていないときにスローされる例外
+title: "クラス UnsupportedFontTypeException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.UnsupportedFontTypeException クラス。フォントタイプがサポートされていない場合にスローされる例外"
 type: docs
-weight: 11170
+weight: 11360
 url: /ja/net/aspose.pdf/unsupportedfonttypeexception/
 ---
-## UnsupportedFontTypeException クラス
+## UnsupportedFontTypeException class
 
-フォントタイプがサポートされていないときにスローされる例外です。
+フォントタイプがサポートされていない場合にスローされる例外です。
 
 ```csharp
 public sealed class UnsupportedFontTypeException : PdfException
@@ -18,12 +18,14 @@ public sealed class UnsupportedFontTypeException : PdfException
 
 | 名前 | 説明 |
 | --- | --- |
-| [UnsupportedFontTypeException](unsupportedfonttypeexception/#constructor)(Exception) | この例外の原因となる内部例外への参照を持つ `UnsupportedFontTypeException` クラスの新しいインスタンスを初期化します。 |
+| [UnsupportedFontTypeException](unsupportedfonttypeexception/#constructor)(Exception) | `UnsupportedFontTypeException` クラスの新しいインスタンスを初期化し、この例外の原因となる内部例外への参照を設定します。 |
 | [UnsupportedFontTypeException](unsupportedfonttypeexception/#constructor_1)(string) | `UnsupportedFontTypeException` クラスの新しいインスタンスを初期化します。 |
-| [UnsupportedFontTypeException](unsupportedfonttypeexception/#constructor_2)(string, Exception) | 指定されたエラーメッセージとこの例外の原因となる内部例外への参照を持つ `UnsupportedFontTypeException` クラスの新しいインスタンスを初期化します。 |
+| [UnsupportedFontTypeException](unsupportedfonttypeexception/#constructor_2)(string, Exception) | `UnsupportedFontTypeException` クラスの新しいインスタンスを、指定されたエラーメッセージと、この例外の原因となる内部例外への参照とともに初期化します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfException](../pdfexception/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

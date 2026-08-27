@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection メソッド。コレクションをクリア
+title: "ActionCollection.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ActionCollection メソッド。コレクションをクリアします"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.annotations/actioncollection/clear/
 ---
-## ActionCollection.Clear メソッド
+## ActionCollection.Clear method
 
 コレクションをクリアします。
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### 関連項目
 
-* クラス [ActionCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

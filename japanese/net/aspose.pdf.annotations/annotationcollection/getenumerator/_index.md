@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection メソッド。コレクションの列挙子を返します
+title: "AnnotationCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationCollection メソッド。コレクションの列挙子を返します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.annotations/annotationcollection/getenumerator/
 ---
-## AnnotationCollection.GetEnumerator メソッド
+## AnnotationCollection.GetEnumerator method
 
 コレクションの列挙子を返します。
 
@@ -18,9 +18,11 @@ public IEnumerator<Annotation> GetEnumerator()
 
 列挙子オブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [Annotation](../../annotation/)
-* クラス [AnnotationCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

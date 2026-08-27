@@ -1,29 +1,31 @@
 ---
-title: Page.TrySaveVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Page メソッド。ページにベクターグラフィックスが存在する場合、それを保存しようとします。保存形式は SVG です。
+title: "Page.TrySaveVectorGraphics"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page メソッド。ページにベクターグラフィックが存在する場合、保存を試みます。保存形式は SVG です"
 type: docs
 weight: 550
 url: /ja/net/aspose.pdf/page/trysavevectorgraphics/
 ---
-## Page.TrySaveVectorGraphics メソッド
+## Page.TrySaveVectorGraphics method
 
-ページにベクターグラフィックスが存在する場合、それを保存しようとします。保存形式は SVG です。
+ページにベクターグラフィックが存在する場合、保存を試みます。保存形式は SVG です。
 
 ```csharp
 public bool TrySaveVectorGraphics(string pathToSave)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pathToSave | 文字列 | 出力ファイル |
+| pathToSave | String | 出力ファイル |
 
 ### 戻り値
 
-ページにパス構築演算子が含まれている場合は True; それ以外の場合は False。
+ページにパス構築オペレーターが含まれている場合は true、そうでない場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

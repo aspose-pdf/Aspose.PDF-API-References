@@ -1,7 +1,7 @@
 ---
-title: OpenAISummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions メソッド。OpenAISummaryCopilotOptions の新しいインスタンスを作成します。
+title: "OpenAISummaryCopilotOptions.Create"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAISummaryCopilotOptions メソッド。新しい OpenAISummaryCopilotOptions のインスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/openaisummarycopilotoptions/create/
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf.ai/openaisummarycopilotoptions/create/
 public static OpenAISummaryCopilotOptions Create()
 ```
 
-### Return Value
+### 戻り値
 
-[`OpenAISummaryCopilotOptions`](../) の新しいインスタンス。
+[`OpenAISummaryCopilotOptions`](../) の新しいインスタンスです。
 
-### See Also
+### 関連項目
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -34,16 +34,18 @@ public static OpenAISummaryCopilotOptions Create()
 public static OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | config | Action`1 | オプションを構成するためのデリゲート。 |
 
-### Return Value
+### 戻り値
 
-構成されたインスタンスの [`OpenAISummaryCopilotOptions`](../)。
+[`OpenAISummaryCopilotOptions`](../) の構成済みインスタンスです。
 
-### See Also
+### 関連項目
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

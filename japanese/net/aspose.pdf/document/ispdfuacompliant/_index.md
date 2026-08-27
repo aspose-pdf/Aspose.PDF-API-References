@@ -1,21 +1,23 @@
 ---
-title: Document.IsPdfUaCompliant
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントが pdfua 準拠であるかどうかを取得します
+title: "Document.IsPdfUaCompliant"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document property. ドキュメントが PDF/UA に準拠しているかを取得します"
 type: docs
-weight: 320
+weight: 340
 url: /ja/net/aspose.pdf/document/ispdfuacompliant/
 ---
-## Document.IsPdfUaCompliant プロパティ
+## Document.IsPdfUaCompliant property
 
-ドキュメントが pdfua 準拠であるかどうかを取得します。
+document が pdfua に準拠しているかどうかを取得します。
 
 ```csharp
 public bool IsPdfUaCompliant { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

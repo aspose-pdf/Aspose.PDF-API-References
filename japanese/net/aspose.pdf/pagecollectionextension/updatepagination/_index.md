@@ -1,26 +1,28 @@
 ---
-title: PageCollectionExtension.UpdatePagination
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollectionExtension メソッド。すべてのページのヘッダーとフッターのページ番号と日付を更新します。これは、ドキュメントに特別な設定データを持つ少なくとも1つのページネーションアーティファクトがある場合に機能します。コレクション内のすべてのページは、その設定に従ってソースアーティファクトで更新されます。
+title: "PageCollectionExtension.UpdatePagination"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageCollectionExtension メソッド。すべてのページのヘッダーとフッターのページ番号と日付を更新します。ドキュメントに少なくとも 1 つのページネーション アーティファクトが特別な設定データを持っている場合に機能します。コレクション内のすべてのページは、設定に従ってソース アーティファクトで更新されます。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pagecollectionextension/updatepagination/
 ---
-## PageCollectionExtension.UpdatePagination メソッド
+## PageCollectionExtension.UpdatePagination method
 
-すべてのページのヘッダーとフッターのページ番号と日付を更新します。これは、ドキュメントに特別な設定データを持つ少なくとも1つのページネーションアーティファクトがある場合に機能します。コレクション内のすべてのページは、その設定に従ってソースアーティファクトで更新されます。
+すべてのページのヘッダーとフッターのページ番号と日付を更新します。文書に少なくとも 1 つの特別な設定データを持つページ番号付けアーティファクトがある場合に機能します。コレクション内のすべてのページは、設定に従って元のアーティファクトで更新されます
 
 ```csharp
 public static void UpdatePagination(this PageCollection pageCollection)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageCollection | PageCollection | ページコレクション。 |
+| pageCollection | PageCollection | この PageCollection。 |
 
-### 参照
+### 関連項目
 
-* クラス [PageCollection](../../pagecollection/)
-* クラス [PageCollectionExtension](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageCollection](../../pagecollection/)
+* class [PageCollectionExtension](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: TeXFragment.TeXFragment
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFragment コンストラクタ。HtmlFragment クラスの新しいインスタンスを初期化します
+title: "TeXFragment.TeXFragment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TeXFragment コンストラクタ。HtmlFragment クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/texfragment/texfragment/
@@ -14,15 +14,15 @@ HtmlFragment クラスの新しいインスタンスを初期化します。
 public TeXFragment(string text)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | フラグメントテキスト |
+| テキスト | String | フラグメントテキスト |
 
-### 参照
+### 関連項目
 
-* クラス [TeXFragment](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,13 +34,15 @@ HtmlFragment クラスの新しいインスタンスを初期化します。
 public TeXFragment(string text, bool removeIndents)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | フラグメントテキスト |
-| removeIndents | Boolean | LaTeX フラグメントを組版する際にインデントを作成するかどうかを決定します |
+| テキスト | String | フラグメントテキスト |
+| removeIndents | Boolean | LaTeX フラグメントの組版時にインデントを付けないかどうかを判定します |
 
-### 参照
+### 関連項目
 
-* クラス [TeXFragment](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

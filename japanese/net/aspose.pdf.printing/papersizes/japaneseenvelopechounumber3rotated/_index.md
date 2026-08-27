@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseEnvelopeChouNumber3Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。日本の回転したチョウ 3 封筒
+title: "PaperSizes.JapaneseEnvelopeChouNumber3Rotated"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。 回転した長形3封筒"
 type: docs
 weight: 510
 url: /ja/net/aspose.pdf.printing/papersizes/japaneseenvelopechounumber3rotated/
 ---
-## PaperSizes.JapaneseEnvelopeChouNumber3Rotated フィールド
+## PaperSizes.JapaneseEnvelopeChouNumber3Rotated field
 
-日本の回転したチョウ #3 封筒。
+日本の回転Chou #3封筒。
 
 ```csharp
 public static readonly PaperSize JapaneseEnvelopeChouNumber3Rotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize JapaneseEnvelopeChouNumber3Rotated;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

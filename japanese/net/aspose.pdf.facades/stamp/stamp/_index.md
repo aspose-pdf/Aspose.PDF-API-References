@@ -1,12 +1,12 @@
 ---
-title: Stamp.Stamp
-second_title: Aspose.PDF for .NET API Reference
-description: スタンプコンストラクタ。デフォルトコンストラクタ
+title: "Stamp.Stamp"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/stamp/stamp/
 ---
-## スタンプコンストラクタ
+## Stamp constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public Stamp()
 
 ### 関連項目
 
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

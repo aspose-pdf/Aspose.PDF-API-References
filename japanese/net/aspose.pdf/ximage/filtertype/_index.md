@@ -1,14 +1,14 @@
 ---
-title: XImage.FilterType
-second_title: Aspose.PDF for .NET API Reference
-description: XImage プロパティ。画像フィルタータイプを取得します
+title: "XImage.FilterType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImage プロパティ。画像フィルタのタイプを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/ximage/filtertype/
 ---
-## XImage.FilterType プロパティ
+## XImage.FilterType property
 
-画像フィルタータイプを取得します。
+画像フィルターのタイプを取得します。
 
 ```csharp
 public ImageFilterType FilterType { get; }
@@ -20,3 +20,5 @@ public ImageFilterType FilterType { get; }
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

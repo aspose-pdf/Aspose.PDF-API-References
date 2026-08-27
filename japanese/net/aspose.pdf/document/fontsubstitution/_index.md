@@ -1,14 +1,14 @@
 ---
-title: Document.FontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントイベント。フォントがドキュメント内の別のフォントに置き換わると発生します。
+title: "Document.FontSubstitution"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document イベント。フォントがドキュメント内で別のフォントに置き換えられたときに発生します。"
 type: docs
-weight: 540
+weight: 560
 url: /ja/net/aspose.pdf/document/fontsubstitution/
 ---
-## Document.FontSubstitution イベント
+## Document.FontSubstitution event
 
-フォントがドキュメント内の別のフォントに置き換わると発生します。
+フォントがドキュメント内で別のフォントに置き換えられたときに発生します。
 
 ```csharp
 public event FontSubstitutionHandler FontSubstitution;
@@ -20,3 +20,5 @@ public event FontSubstitutionHandler FontSubstitution;
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

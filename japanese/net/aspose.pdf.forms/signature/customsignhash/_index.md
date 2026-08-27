@@ -1,14 +1,14 @@
 ---
-title: Signature.CustomSignHash
-second_title: Aspose.PDF for .NET API Reference
-description: Signature プロパティ。ドキュメントハッシュをカスタム署名するためのデリゲート
+title: "Signature.CustomSignHash"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Signature プロパティ。ドキュメントハッシュをカスタム署名するためのデリゲートです。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.forms/signature/customsignhash/
 ---
-## Signature.CustomSignHash プロパティ
+## Signature.CustomSignHash property
 
-ドキュメントハッシュをカスタム署名するためのデリゲートです。
+ドキュメントハッシュをカスタム署名するためのデリゲート。
 
 ```csharp
 public SignHash CustomSignHash { get; set; }
@@ -16,11 +16,13 @@ public SignHash CustomSignHash { get; set; }
 
 ## 備考
 
-`デリゲートでハッシュに署名するアルゴリズムは、証明書の秘密鍵のタイプと一致する必要があります。`
+`デリゲートでハッシュに署名するアルゴリズムは、証明書のプライベートキーのタイプと一致しなければなりません。`
 
 ### 関連項目
 
-* デリゲート [SignHash](../../signhash/)
-* クラス [Signature](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* delegate [SignHash](../../signhash/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

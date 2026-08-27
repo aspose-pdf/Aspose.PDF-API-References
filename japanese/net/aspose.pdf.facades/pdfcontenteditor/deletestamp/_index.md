@@ -1,23 +1,23 @@
 ---
-title: PdfContentEditor.DeleteStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。指定されたページのスタンプインデックスによって複数のスタンプを削除します。
+title: "PdfContentEditor.DeleteStamp"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。指定されたページ上のスタンプインデックスにより複数のスタンプを削除します。"
 type: docs
 weight: 330
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/
 ---
-## PdfContentEditor.DeleteStamp メソッド
+## PdfContentEditor.DeleteStamp method
 
-指定されたページのスタンプインデックスによって複数のスタンプを削除します。
+指定されたページ上でスタンプインデックスで複数のスタンプを削除します。
 
 ```csharp
 public void DeleteStamp(int pageNumber, int[] index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageNumber | Int32 | スタンプが削除されるページ番号。 |
-| index | Int32[] | スタンプインデックス。 |
+| pageNumber | Int32 | スタンプが削除される Page 番号です。 |
+| インデックス | Int32[] | スタンプインデックス。 |
 
 ## 例
 
@@ -30,6 +30,8 @@ contentEditor.Save("outfile.pdf");
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

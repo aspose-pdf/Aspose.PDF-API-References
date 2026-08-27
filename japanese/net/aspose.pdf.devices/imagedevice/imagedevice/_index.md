@@ -1,20 +1,20 @@
 ---
-title: ImageDevice.ImageDevice
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice コンストラクタ。ImageDevice の子孫の抽象初期化子は解像度を 150x150 に設定します。
+title: "ImageDevice.ImageDevice"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageDevice コンストラクタ。ImageDevice の派生クラス用の抽象初期化子で、解像度を 150x150 に設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.devices/imagedevice/imagedevice/
 ---
 ## ImageDevice() {#constructor}
 
-[`ImageDevice`](../) の子孫のための抽象初期化子で、解像度を 150x150 に設定します。
+[`ImageDevice`](../) の派生クラス用抽象初期化子、解像度を 150x150 に設定します。
 
 ```csharp
 public ImageDevice()
 ```
 
-### See Also
+### 関連項目
 
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -24,13 +24,13 @@ public ImageDevice()
 
 ## ImageDevice(Resolution) {#constructor_1}
 
-[`ImageDevice`](../) の子孫のための抽象初期化子。結果の画像ファイルの解像度については、[`Resolution`](../resolution/) クラスを参照してください。
+[`ImageDevice`](../) の派生クラス用抽象初期化子。結果画像ファイルの解像度については、[`Resolution`](../resolution/) クラスをご参照ください。
 
 ```csharp
 public ImageDevice(Resolution resolution)
 ```
 
-### See Also
+### 関連項目
 
 * class [Resolution](../../resolution/)
 * class [ImageDevice](../)
@@ -41,18 +41,18 @@ public ImageDevice(Resolution resolution)
 
 ## ImageDevice(int, int) {#constructor_4}
 
-提供された画像の寸法とデフォルトの解像度 (=150) で [`JpegDevice`](../../jpegdevice/) クラスの新しいインスタンスを初期化します。
+提供された画像サイズとデフォルト解像度 (=150) を使用して、[`JpegDevice`](../../jpegdevice/) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageDevice(int width, int height)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力の幅。 |
-| height | Int32 | 画像出力の高さ。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
 
-### See Also
+### 関連項目
 
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -62,17 +62,17 @@ public ImageDevice(int width, int height)
 
 ## ImageDevice(PageSize) {#constructor_2}
 
-提供された画像の寸法とデフォルトの解像度 (=150) で [`JpegDevice`](../../jpegdevice/) クラスの新しいインスタンスを初期化します。
+提供された画像サイズとデフォルト解像度 (=150) を使用して、[`JpegDevice`](../../jpegdevice/) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageDevice(PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
 
-### See Also
+### 関連項目
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [ImageDevice](../)
@@ -83,19 +83,19 @@ public ImageDevice(PageSize pageSize)
 
 ## ImageDevice(int, int, Resolution) {#constructor_5}
 
-提供された画像の寸法と解像度で [`JpegDevice`](../../jpegdevice/) クラスの新しいインスタンスを初期化します。
+提供された画像サイズと解像度を使用して、[`JpegDevice`](../../jpegdevice/) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageDevice(int width, int height, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力の幅。 |
-| height | Int32 | 画像出力の高さ。 |
-| resolution | Resolution | 結果の画像ファイルの解像度については、[`Resolution`](../resolution/) クラスを参照してください。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
+| resolution | Resolution | 結果画像ファイルの解像度については、[`Resolution`](../resolution/) クラスをご参照ください。 |
 
-### See Also
+### 関連項目
 
 * class [Resolution](../../resolution/)
 * class [ImageDevice](../)
@@ -106,21 +106,23 @@ public ImageDevice(int width, int height, Resolution resolution)
 
 ## ImageDevice(PageSize, Resolution) {#constructor_3}
 
-提供された画像の寸法と解像度で [`JpegDevice`](../../jpegdevice/) クラスの新しいインスタンスを初期化します。
+提供された画像サイズと解像度を使用して、[`JpegDevice`](../../jpegdevice/) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
-| resolution | Resolution | 結果の画像ファイルの解像度については、[`Resolution`](../resolution/) クラスを参照してください。 |
+| resolution | Resolution | 結果画像ファイルの解像度については、[`Resolution`](../resolution/) クラスをご参照ください。 |
 
-### See Also
+### 関連項目
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [Resolution](../../resolution/)
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

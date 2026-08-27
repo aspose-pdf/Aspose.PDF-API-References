@@ -1,12 +1,12 @@
 ---
-title: FormDataConverter.ConvertToStreams
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter メソッド。テーブル内のデータをストリームに変換します。
+title: "FormDataConverter.ConvertToStreams"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormDataConverter メソッド。テーブル内のデータをストリームに変換します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/formdataconverter/converttostreams/
 ---
-## FormDataConverter.ConvertToStreams メソッド
+## FormDataConverter.ConvertToStreams method
 
 テーブル内のデータをストリームに変換します。
 
@@ -14,10 +14,10 @@ url: /ja/net/aspose.pdf.facades/formdataconverter/converttostreams/
 public void ConvertToStreams(Stream[] destStream, DataType destType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | destStream | Stream[] | データが保存されるストリーム。 |
-| destType | DataType | 保存されるデータの型。有効な値は: XML, FDF, XFDF。 |
+| destType | DataType | 保存されたデータのタイプ。有効な値は: XML, FDF, XFDFです。 |
 
 ## 例
 
@@ -45,3 +45,5 @@ fc.ConvertToStreams(new Stream[] { stream }, DataType.XML);
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

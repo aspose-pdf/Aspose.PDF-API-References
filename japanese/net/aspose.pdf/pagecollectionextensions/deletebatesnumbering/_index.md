@@ -1,26 +1,28 @@
 ---
-title: PageCollectionExtensions.DeleteBatesNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollectionExtensions メソッド。指定されたページコレクション内の各ページからすべてのベイツ番号付けアーティファクトを削除します。
+title: "PageCollectionExtensions.DeleteBatesNumbering"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageCollectionExtensions メソッド。指定された PageCollection の各 Page からすべての Bates numbering アーティファクトを削除します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/pagecollectionextensions/deletebatesnumbering/
 ---
-## PageCollectionExtensions.DeleteBatesNumbering メソッド
+## PageCollectionExtensions.DeleteBatesNumbering method
 
-指定されたページコレクション内の各ページからすべてのベイツ番号付けアーティファクトを削除します。
+指定されたページコレクションの各ページからすべてのBates番号付けアーティファクトを削除します。
 
 ```csharp
 public static void DeleteBatesNumbering(this PageCollection pageCollection)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageCollection | PageCollection | ベイツ番号付けが削除されるページのコレクション。 |
+| pageCollection | PageCollection | Bates numbering が削除される Page のコレクション |
 
-### 参照
+### 関連項目
 
-* クラス [PageCollection](../../pagecollection/)
-* クラス [PageCollectionExtensions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageCollection](../../pagecollection/)
+* class [PageCollectionExtensions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

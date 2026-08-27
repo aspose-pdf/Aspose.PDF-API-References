@@ -1,21 +1,23 @@
 ---
-title: Measure.NumberFormat.ThousandsSeparator
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat プロパティ。数値の表示において千の位の間に使用されるテキスト。空の文字列はテキストが追加されないことを示します。デフォルトはカンマです。
+title: "Measure.NumberFormat.ThousandsSeparator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NumberFormat プロパティ。数値を表示する際に千単位の区切りとして使用されるテキストです。空文字列はテキストを追加しないことを示します。デフォルトはカンマです。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.annotations/measure.numberformat/thousandsseparator/
 ---
-## Measure.NumberFormat.ThousandsSeparator プロパティ
+## Measure.NumberFormat.ThousandsSeparator property
 
-数値の表示において千の位の間に使用されるテキスト。空の文字列はテキストが追加されないことを示します。デフォルトはカンマです。
+数値を表示する際、千位ごとの区切りに使用されるテキスト。空文字列はテキストが追加されないことを示します。デフォルトはカンマです。
 
 ```csharp
 public string ThousandsSeparator { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [NumberFormat](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

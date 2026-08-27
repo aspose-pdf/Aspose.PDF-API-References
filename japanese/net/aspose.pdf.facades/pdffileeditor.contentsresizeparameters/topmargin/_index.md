@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.TopMargin
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters プロパティ。結果ページの上余白を取得または設定します
+title: "PdfFileEditor.ContentsResizeParameters.TopMargin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ContentsResizeParameters プロパティ。結果ページの上部余白を取得または設定します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/topmargin/
 ---
-## PdfFileEditor.ContentsResizeParameters.TopMargin プロパティ
+## PdfFileEditor.ContentsResizeParameters.TopMargin property
 
 結果ページの上余白を取得または設定します。
 
@@ -20,3 +20,5 @@ public ContentsResizeValue TopMargin { get; set; }
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

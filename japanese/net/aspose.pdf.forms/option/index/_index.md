@@ -1,12 +1,12 @@
 ---
-title: Option.Index
-second_title: Aspose.PDF for .NET API Reference
-description: オプションプロパティ。オプションのインデックスを取得します
+title: "Option.Index"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Option プロパティ。オプションのインデックスを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/option/index/
 ---
-## Option.Indexプロパティ
+## Option.Index property
 
 オプションのインデックスを取得します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.forms/option/index/
 public int Index { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Option](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Option](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

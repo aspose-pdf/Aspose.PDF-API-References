@@ -1,12 +1,12 @@
 ---
-title: Enum PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormat 列挙型。このクラスは PDF フォーマットを表します
+title: "列挙体 PdfFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PdfFormat 列挙体。このクラスは PDF フォーマットを表します。"
 type: docs
-weight: 8370
+weight: 8510
 url: /ja/net/aspose.pdf/pdfformat/
 ---
-## PdfFormat 列挙型
+## PdfFormat enumeration
 
 このクラスは PDF フォーマットを表します。
 
@@ -39,13 +39,15 @@ public enum PdfFormat
 | PDF_X_1A_2001 | `18` |  |
 | PDF_X_1A | `19` |  |
 | PDF_X_3 | `20` |  |
-| ZUGFeRD | `21` | ZUGFeRD フォーマット |
-| PDF_A_4 | `22` | PDF/A-4 フォーマット |
-| PDF_A_4E | `23` | PDF/A-4e フォーマット |
-| PDF_A_4F | `24` | PDF/A-4f フォーマット |
-| PDF_X_4 | `25` | PDF/X-4 フォーマット |
+| ZUGFeRD | `21` | ZUGFeRD 形式 |
+| PDF_A_4 | `22` | PDF/A-4 形式 |
+| PDF_A_4E | `23` | PDF/A-4e 形式 |
+| PDF_A_4F | `24` | PDF/A-4f 形式 |
+| PDF_X_4 | `25` | PDF/X-4 形式 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

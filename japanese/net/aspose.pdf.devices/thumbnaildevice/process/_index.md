@@ -1,12 +1,12 @@
 ---
-title: ThumbnailDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: ThumbnailDevice メソッド。ページをサムネイル画像 png に変換し、出力ストリームに保存します。
+title: "ThumbnailDevice.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ThumbnailDevice メソッド。ページをサムネイル画像 PNG に変換し、出力ストリームに保存します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.devices/thumbnaildevice/process/
 ---
-## ThumbnailDevice.Process メソッド
+## ThumbnailDevice.Process method
 
 ページをサムネイル画像 png に変換し、出力ストリームに保存します。
 
@@ -14,14 +14,16 @@ url: /ja/net/aspose.pdf.devices/thumbnaildevice/process/
 public override void Process(Page page, Stream output)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 変換するページ。 |
-| output | Stream | png 画像を含む出力ストリーム。 |
+| ページ | ページ | 変換するページです。 |
+| output | Stream | png画像の出力ストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [ThumbnailDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [ThumbnailDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

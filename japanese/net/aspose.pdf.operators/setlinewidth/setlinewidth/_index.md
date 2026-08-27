@@ -1,25 +1,27 @@
 ---
-title: SetLineWidth.SetLineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineWidth コンストラクタ。幅の値でオペレーターを初期化します
+title: "SetLineWidth.SetLineWidth"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetLineWidth コンストラクタ。幅の値で演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/setlinewidth/setlinewidth/
 ---
-## SetLineWidth コンストラクタ
+## SetLineWidth constructor
 
-オペレーターを幅の値で初期化します。
+幅の値で演算子を初期化します。
 
 ```csharp
 public SetLineWidth(double width)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Double | 線の幅。 |
+| width | Double | 線幅。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetLineWidth](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetLineWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

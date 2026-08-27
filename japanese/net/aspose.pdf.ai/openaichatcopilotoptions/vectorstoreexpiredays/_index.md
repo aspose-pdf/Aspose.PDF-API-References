@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.VectorStoreExpireDays
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions プロパティ。ベクターストアが期限切れになるまでの日数を取得または設定します。
+title: "OpenAIChatCopilotOptions.VectorStoreExpireDays"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIChatCopilotOptions プロパティ。ベクトルストアが期限切れになるまでの日数を取得または設定します"
 type: docs
-weight: 60
+weight: 70
 url: /ja/net/aspose.pdf.ai/openaichatcopilotoptions/vectorstoreexpiredays/
 ---
-## OpenAIChatCopilotOptions.VectorStoreExpireDays プロパティ
+## OpenAIChatCopilotOptions.VectorStoreExpireDays property
 
-ベクターストアが期限切れになるまでの日数を取得または設定します。
+ベクトルストアが期限切れになるまでの日数を取得または設定します。
 
 ```csharp
 public int VectorStoreExpireDays { get; set; }
@@ -16,6 +16,8 @@ public int VectorStoreExpireDays { get; set; }
 
 ### 関連項目
 
-* クラス [OpenAIChatCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

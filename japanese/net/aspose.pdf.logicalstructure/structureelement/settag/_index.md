@@ -1,12 +1,12 @@
 ---
-title: StructureElement.SetTag
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement メソッド。構造要素のカスタムタグを設定します
+title: "StructureElement.SetTag"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureElement メソッド。構造要素のカスタムタグを設定します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.logicalstructure/structureelement/settag/
 ---
-## StructureElement.SetTag メソッド
+## StructureElement.SetTag method
 
 構造要素のカスタムタグを設定します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.logicalstructure/structureelement/settag/
 public void SetTag(string newTag)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | newTag | String | タグ名 |
 
-### 参照
+### 関連項目
 
-* クラス [StructureElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

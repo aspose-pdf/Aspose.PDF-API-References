@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor メソッド。すべてのページのブックマークを作成します
+title: "PdfBookmarkEditor.CreateBookmarks"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfBookmarkEditor メソッド。すべてのページのブックマークを作成します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/
@@ -33,15 +33,15 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarks(Bookmark) {#createbookmarks_1}
 
-ドキュメントに指定されたブックマークを作成します。このメソッドは、ネストされたブックマーク階層を形成するために使用できます。
+Document 内に指定されたブックマークを作成します。このメソッドは入れ子になったブックマーク階層を形成するために使用できます。
 
 ```csharp
 public void CreateBookmarks(Bookmark bookmark)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| bookmark | Bookmark | ブックマークがドキュメントに追加されます。 |
+| ブックマーク | ブックマーク | ブックマークがドキュメントに追加されます。 |
 
 ## 例
 
@@ -83,11 +83,11 @@ editor.Save("example_out.pdf");
 public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | color | Color | タイトルの色。 |
-| boldFlag | Boolean | 太字属性のフラグ。 |
-| italicFlag | Boolean | 斜体属性のフラグ。 |
+| boldFlag | Boolean | 太字属性のフラグです。 |
+| italicFlag | Boolean | 斜体属性のフラグです。 |
 
 ## 例
 
@@ -103,3 +103,5 @@ editor.Save("example_out.pdf");
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class CollectionSchema
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CollectionSchema クラス。ドキュメントコレクションのスキーマを説明するクラスを表します
+title: "クラス CollectionSchema"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.CollectionSchema クラス。ドキュメントコレクションのスキーマを記述するクラスを表します。"
 type: docs
-weight: 3070
+weight: 3180
 url: /ja/net/aspose.pdf/collectionschema/
 ---
-## CollectionSchema クラス
+## CollectionSchema class
 
-ドキュメントコレクションの「スキーマ」を説明するクラスを表します。
+ドキュメントコレクションの "Schema" を記述するクラスを表します。
 
 ```csharp
 public class CollectionSchema
@@ -18,17 +18,19 @@ public class CollectionSchema
 
 | 名前 | 説明 |
 | --- | --- |
-| [AllFields](../../aspose.pdf/collectionschema/allfields/) { get; } | すべてのスキーマのフィールドを取得します。 |
-| [AllNames](../../aspose.pdf/collectionschema/allnames/) { get; } | すべてのスキーマのフィールド名を取得します。 |
+| [AllFields](../../aspose.pdf/collectionschema/allfields/) { get; } | スキーマのすべてのフィールドを取得します。 |
+| [AllNames](../../aspose.pdf/collectionschema/allnames/) { get; } | スキーマのすべてのフィールド名を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetCollectionField](../../aspose.pdf/collectionschema/getcollectionfield/)(string) | 名前でコレクションフィールドを取得します。 |
+| [GetCollectionField](../../aspose.pdf/collectionschema/getcollectionfield/)(string) | 名前でコレクション フィールドを取得します。 |
 | [HasName](../../aspose.pdf/collectionschema/hasname/)(string) | 指定された名前がスキーマに存在するかどうかを判断します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

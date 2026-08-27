@@ -1,12 +1,12 @@
 ---
-title: Right.Right
-second_title: Aspose.PDF for .NET API Reference
-description: 右コンストラクタ。デフォルトコンストラクタ
+title: "Right.Right"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Right コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/right/right/
 ---
-## 右コンストラクタ
+## Right constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/right/right/
 public Right()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [右](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Right](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

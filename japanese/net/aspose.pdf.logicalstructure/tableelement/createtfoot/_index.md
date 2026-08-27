@@ -1,12 +1,12 @@
 ---
-title: TableElement.CreateTFoot
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement メソッド。TableTFootElement を作成し、現在のテーブルに追加します。
+title: "TableElement.CreateTFoot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableElement メソッド。TableTFootElement を作成し、現在のテーブルに追加します。"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.logicalstructure/tableelement/createtfoot/
 ---
-## TableElement.CreateTFoot メソッド
+## TableElement.CreateTFoot method
 
 [`TableTFootElement`](../../tabletfootelement/) を作成し、現在のテーブルに追加します。
 
@@ -16,11 +16,13 @@ public TableTFootElement CreateTFoot()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [TableTFootElement](../../tabletfootelement/)
-* クラス [TableElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableTFootElement](../../tabletfootelement/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

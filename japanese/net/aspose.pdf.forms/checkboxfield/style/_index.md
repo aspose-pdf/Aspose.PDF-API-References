@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField プロパティ。チェックボックスのスタイルを取得または設定します
+title: "CheckboxField.Style"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CheckboxField プロパティ。チェックボックスのスタイルを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.forms/checkboxfield/style/
 ---
-## CheckboxField.Style プロパティ
+## CheckboxField.Style property
 
 チェックボックスのスタイルを取得または設定します。
 
@@ -20,3 +20,5 @@ public BoxStyle Style { get; set; }
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

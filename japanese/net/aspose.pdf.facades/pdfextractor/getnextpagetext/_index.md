@@ -1,26 +1,26 @@
 ---
-title: PdfExtractor.GetNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor メソッド。1ページのテキストをファイルに保存します
+title: "PdfExtractor.GetNextPageText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfExtractor メソッド。1 ページのテキストをファイルに保存します。"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf.facades/pdfextractor/getnextpagetext/
 ---
 ## GetNextPageText(string) {#getnextpagetext_1}
 
-1ページのテキストをファイルに保存します。
+1ページ分のテキストをファイルに保存します。
 
 ```csharp
 public void GetNextPageText(string outputFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputFile | String | テキストを保存するファイルのパスと名前。 |
 
 ## 例
 
-この例は、テキスト抽出シナリオにおける GetNextPageText メソッドの使用を示しています。
+この例は、テキスト抽出シナリオにおける GetNextPageText メソッドの使用例を示しています。
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -51,27 +51,27 @@ End While
 
 ### 関連項目
 
-* クラス [PdfExtractor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextPageText(Stream) {#getnextpagetext}
 
-1ページのテキストをストリームに保存します。
+1ページ分のテキストをストリームに保存します。
 
 ```csharp
 public void GetNextPageText(Stream outputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputStream | Stream | テキストを保存するストリーム。 |
 
 ## 例
 
-この例は、テキスト抽出シナリオにおける `GetNextPageText` メソッドの使用を示しています。
+この例は、テキスト抽出シナリオにおける `GetNextPageText` メソッドの使用例を示しています。
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -91,6 +91,8 @@ while (extractor.HasNextPageText())
 
 ### 関連項目
 
-* クラス [PdfExtractor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

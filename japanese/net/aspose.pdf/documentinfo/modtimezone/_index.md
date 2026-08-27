@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.ModTimeZone
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo プロパティ。変更日の日付のタイムゾーン
+title: "DocumentInfo.ModTimeZone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentInfo プロパティ。変更日時のタイムゾーン。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/documentinfo/modtimezone/
 ---
-## DocumentInfo.ModTimeZone プロパティ
+## DocumentInfo.ModTimeZone property
 
-変更日の日付のタイムゾーンです。
+変更日付のタイムゾーン。
 
 ```csharp
 public TimeSpan ModTimeZone { get; set; }
@@ -16,6 +16,8 @@ public TimeSpan ModTimeZone { get; set; }
 
 ### 関連項目
 
-* クラス [DocumentInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

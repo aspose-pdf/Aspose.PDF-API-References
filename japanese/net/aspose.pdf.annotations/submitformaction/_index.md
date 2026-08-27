@@ -1,14 +1,14 @@
 ---
-title: Class SubmitFormAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SubmitFormAction クラス。submitform アクションを説明するクラス
+title: "クラス SubmitFormAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.SubmitFormAction クラス。submitform アクションを記述するクラス"
 type: docs
-weight: 2640
+weight: 2740
 url: /ja/net/aspose.pdf.annotations/submitformaction/
 ---
-## SubmitFormAction クラス
+## SubmitFormAction class
 
-submit-form アクションを説明するクラスです。
+submit-form アクションを記述するクラス。
 
 ```csharp
 public sealed class SubmitFormAction : PdfAction
@@ -24,36 +24,38 @@ public sealed class SubmitFormAction : PdfAction
 
 | 名前 | 説明 |
 | --- | --- |
-| [Flags](../../aspose.pdf.annotations/submitformaction/flags/) { get; set; } | submit アクションのフラグを取得または設定します。 |
+| [Flags](../../aspose.pdf.annotations/submitformaction/flags/) { get; set; } | 送信アクションのフラグを取得または設定します |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | シーケンス内の次のアクション。 |
-| [Url](../../aspose.pdf.annotations/submitformaction/url/) { get; set; } | 送信先の URL。 |
+| [Url](../../aspose.pdf.annotations/submitformaction/url/) { get; set; } | 宛先 URL。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | ECMAScript アクションのための文字列を取得します。 |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | ECMAScript アクションの文字列を取得します。 |
 
 ## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [CanonicalFormat](../../aspose.pdf.annotations/submitformaction/canonicalformat/) | 設定されている場合、提出されたフィールド値が日付を表す場合は、標準形式に変換されます。 |
-| const [EmbedForm](../../aspose.pdf.annotations/submitformaction/embedform/) | 設定されている場合、提出された FDF の F エントリは、FDF が提出される PDF ファイルを表す埋め込まれたファイルストリームを含むファイル仕様になります。 |
-| const [ExclFKey](../../aspose.pdf.annotations/submitformaction/exclfkey/) | 設定されている場合、提出された FDF は F エントリを除外します。 |
-| const [ExclNonUserAnnots](../../aspose.pdf.annotations/submitformaction/exclnonuserannots/) | 設定されている場合、現在のユーザーの名前と一致する T エントリを持つマークアップ注釈のみが含まれます。 |
-| const [Exclude](../../aspose.pdf.annotations/submitformaction/exclude/) | クリアされている場合、Fields 配列は提出に含めるフィールドを指定します。 |
-| const [ExportFormat](../../aspose.pdf.annotations/submitformaction/exportformat/) | 設定されている場合、フィールド名と値は HTML フォーム形式で提出されます。 |
-| const [GetMethod](../../aspose.pdf.annotations/submitformaction/getmethod/) | 設定されている場合、フィールド名と値は HTTP GET リクエストを使用して提出されます。 |
-| const [IncludeAnnotations](../../aspose.pdf.annotations/submitformaction/includeannotations/) | 設定されている場合、提出された FDF ファイルは、基になる PDF ドキュメント内のすべてのマークアップ注釈を含みます。 |
-| const [IncludeAppendSaves](../../aspose.pdf.annotations/submitformaction/includeappendsaves/) | 設定されている場合、提出された FDF ファイルは、すべての増分更新の内容を含みます。 |
-| const [IncludeNoValueFields](../../aspose.pdf.annotations/submitformaction/includenovaluefields/) | 設定されている場合、Fields 配列および Include/Exclude フラグによって指定されたすべてのフィールドが提出されます。 |
+| const [CanonicalFormat](../../aspose.pdf.annotations/submitformaction/canonicalformat/) | 設定されている場合、日付を表す送信されたフィールド値は標準形式に変換されます。 |
+| const [EmbedForm](../../aspose.pdf.annotations/submitformaction/embedform/) | 設定されている場合、送信された FDF の F エントリは、FDF が送信される元の PDF ファイルを表す埋め込みファイルストリームを含むファイル仕様でなければなりません。 |
+| const [ExclFKey](../../aspose.pdf.annotations/submitformaction/exclfkey/) | 設定されている場合、送信された FDF は F エントリを除外します。 |
+| const [ExclNonUserAnnots](../../aspose.pdf.annotations/submitformaction/exclnonuserannots/) | 設定されている場合、現在のユーザー名と一致する T エントリを持つマークアップ注釈のみを含めます。 |
+| const [Exclude](../../aspose.pdf.annotations/submitformaction/exclude/) | クリアされている場合、Fields 配列は送信に含めるフィールドを指定します。 |
+| const [ExportFormat](../../aspose.pdf.annotations/submitformaction/exportformat/) | 設定されている場合、フィールド名と値は HTML フォーム形式で送信されます。 |
+| const [GetMethod](../../aspose.pdf.annotations/submitformaction/getmethod/) | 設定されている場合、フィールド名と値は HTTP GET リクエストを使用して送信されます。 |
+| const [IncludeAnnotations](../../aspose.pdf.annotations/submitformaction/includeannotations/) | 設定されている場合、送信された FDF ファイルは基礎となる PDF ドキュメント内のすべてのマークアップ注釈を含めます。 |
+| const [IncludeAppendSaves](../../aspose.pdf.annotations/submitformaction/includeappendsaves/) | 設定されている場合、送信された FDF ファイルはすべての増分更新の内容を含めます。 |
+| const [IncludeNoValueFields](../../aspose.pdf.annotations/submitformaction/includenovaluefields/) | 設定されている場合、Fields 配列と Include/Exclude フラグで指定されたすべてのフィールドが送信されます。 |
 | const [SubmitCoordinates](../../aspose.pdf.annotations/submitformaction/submitcoordinates/) | 設定されている場合、submit-form アクションを引き起こしたマウスクリックの座標がフォームデータの一部として送信されます。 |
-| const [SubmitPdf](../../aspose.pdf.annotations/submitformaction/submitpdf/) | 設定されている場合、ドキュメントは PDF として提出され、MIME コンテンツタイプ application/pdf が使用されます。 |
-| const [Xfdf](../../aspose.pdf.annotations/submitformaction/xfdf/) | 設定されている場合、フィールド名と値は XFDF として提出されます。 |
+| const [SubmitPdf](../../aspose.pdf.annotations/submitformaction/submitpdf/) | 設定されている場合、ドキュメントは MIME コンテンツタイプ application/pdf を使用して PDF として送信されます。 |
+| const [Xfdf](../../aspose.pdf.annotations/submitformaction/xfdf/) | 設定されている場合、フィールド名と値は XFDF として送信されます。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfAction](../pdfaction/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

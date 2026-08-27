@@ -1,12 +1,12 @@
 ---
-title: StampAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: StampAnnotation プロパティ。注釈のタイプを取得します
+title: "StampAnnotation.AnnotationType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StampAnnotation プロパティ。アノテーションのタイプを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/stampannotation/annotationtype/
 ---
-## StampAnnotation.AnnotationType プロパティ
+## StampAnnotation.AnnotationType property
 
 注釈のタイプを取得します。
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

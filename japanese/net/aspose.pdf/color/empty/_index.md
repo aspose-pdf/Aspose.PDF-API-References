@@ -1,21 +1,23 @@
 ---
-title: Color.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: カラー フィールド。空の色を表します
+title: "Color.Empty"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color フィールド。空の色を表します"
 type: docs
 weight: 1430
 url: /ja/net/aspose.pdf/color/empty/
 ---
-## Color.Empty フィールド
+## Color.Empty field
 
-空の色を表します。
+空のカラーを表します。
 
 ```csharp
 public static Color Empty;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

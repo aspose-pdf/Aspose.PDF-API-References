@@ -1,14 +1,14 @@
 ---
-title: SvgSaveOptions.ScaleToPixels
-second_title: Aspose.PDF for .NET API Reference
-description: SvgSaveOptions フィールド。出力ドキュメントをタイポグラフィポイントからピクセルにスケーリングするかどうかを指定します。
+title: "SvgSaveOptions.ScaleToPixels"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SvgSaveOptions フィールド。出力ドキュメントを組版ポイントからピクセルにスケールするかどうかを指定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/svgsaveoptions/scaletopixels/
 ---
-## SvgSaveOptions.ScaleToPixels フィールド
+## SvgSaveOptions.ScaleToPixels field
 
-出力ドキュメントをタイポグラフィポイントからピクセルにスケーリングするかどうかを指定します。
+出力ドキュメントを組版ポイントからピクセルにスケーリングするかどうかを指定します。
 
 ```csharp
 public bool ScaleToPixels;
@@ -16,6 +16,8 @@ public bool ScaleToPixels;
 
 ### 関連項目
 
-* クラス [SvgSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SvgSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

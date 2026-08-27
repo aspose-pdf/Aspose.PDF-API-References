@@ -1,12 +1,12 @@
 ---
-title: Class WebHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.WebHyperlink クラス。ウェブハイパーリンクオブジェクトを表します
+title: "クラス WebHyperlink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.WebHyperlink クラス。Web ハイパーリンクオブジェクトを表します。"
 type: docs
-weight: 11320
+weight: 11510
 url: /ja/net/aspose.pdf/webhyperlink/
 ---
-## WebHyperlink クラス
+## WebHyperlink class
 
 ウェブハイパーリンクオブジェクトを表します。
 
@@ -25,10 +25,12 @@ public sealed class WebHyperlink : Hyperlink
 
 | 名前 | 説明 |
 | --- | --- |
-| [Url](../../aspose.pdf/webhyperlink/url/) { get; set; } | ウェブ URL を取得または設定します。 |
+| [Url](../../aspose.pdf/webhyperlink/url/) { get; set; } | Web URL を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Hyperlink](../hyperlink/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

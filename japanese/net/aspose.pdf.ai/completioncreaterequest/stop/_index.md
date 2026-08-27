@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.Stop
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionCreateRequest プロパティ。API がさらにトークンを生成するのを停止する最大 4 つのシーケンスを取得または設定します。
+title: "CompletionCreateRequest.Stop"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CompletionCreateRequest プロパティ。API がそれ以上トークンの生成を停止する最大 4 つのシーケンスを取得または設定します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.ai/completioncreaterequest/stop/
 ---
-## CompletionCreateRequest.Stop プロパティ
+## CompletionCreateRequest.Stop property
 
-API がさらにトークンを生成するのを停止する最大 4 つのシーケンスを取得または設定します。
+API がそれ以上トークンを生成しない最大 4 つのシーケンスを取得または設定します。
 
 ```csharp
 public List<string> Stop { get; set; }
@@ -16,6 +16,8 @@ public List<string> Stop { get; set; }
 
 ### 関連項目
 
-* クラス [CompletionCreateRequest](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

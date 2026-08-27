@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse プロパティ。API エンドポイントで参照できる識別子を取得または設定します。
+title: "ThreadMessageResponse.Id"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ThreadMessageResponse プロパティ。API エンドポイントで参照できる識別子を取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.ai/threadmessageresponse/id/
 ---
-## ThreadMessageResponse.Id プロパティ
+## ThreadMessageResponse.Id property
 
 API エンドポイントで参照できる識別子を取得または設定します。
 
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### 関連項目
 
-* クラス [ThreadMessageResponse](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

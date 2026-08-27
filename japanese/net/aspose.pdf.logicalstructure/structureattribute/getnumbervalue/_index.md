@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetNumberValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute メソッド。値の数を取得します
+title: "StructureAttribute.GetNumberValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureAttribute メソッド。Value Number を取得します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.logicalstructure/structureattribute/getnumbervalue/
 ---
-## StructureAttribute.GetNumberValue メソッド
+## StructureAttribute.GetNumberValue method
 
-値の数を取得します。
+Value Number を取得します。
 
 ```csharp
 public double? GetNumberValue()
@@ -16,10 +16,12 @@ public double? GetNumberValue()
 
 ### 戻り値
 
-値の数。
+数値。
 
-### 参照
+### 関連項目
 
-* クラス [StructureAttribute](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

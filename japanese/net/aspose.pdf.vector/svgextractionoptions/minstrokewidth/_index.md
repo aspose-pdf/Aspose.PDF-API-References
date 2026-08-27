@@ -1,14 +1,14 @@
 ---
-title: SvgExtractionOptions.MinStrokeWidth
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractionOptions プロパティ。結果の SVG で使用される最小ストローク幅を取得または設定します。PDF がより細いストローク幅を使用している場合は、この幅に置き換えられます。デフォルト値は 0.5 です。
+title: "SvgExtractionOptions.MinStrokeWidth"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SvgExtractionOptions プロパティ。結果の SVG で使用される最小ストローク幅を取得または設定します。PDF がより細いストローク幅を使用している場合、この幅に置き換えられます。既定値は 0.5 です。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.vector/svgextractionoptions/minstrokewidth/
 ---
-## SvgExtractionOptions.MinStrokeWidth プロパティ
+## SvgExtractionOptions.MinStrokeWidth property
 
-結果の SVG で使用される最小ストローク幅を取得または設定します。PDF がより細いストローク幅を使用している場合は、この幅に置き換えられます。デフォルト値は 0.5 です。
+結果の SVG で使用される最小ストローク幅を取得または設定します。PDF がそれより細いストローク幅を使用している場合、この幅に置き換えられます。デフォルト値は 0.5 です。
 
 ```csharp
 public double MinStrokeWidth { get; set; }
@@ -16,10 +16,12 @@ public double MinStrokeWidth { get; set; }
 
 ## 備考
 
-値は変換された PDF ページの変換されたユーザー空間単位で表されます。デフォルトでは、1 ユーザー空間単位は 1/72 インチ (0.35 mm) ですが、これは PDF ドキュメントによって上書きされる可能性があります。変換は生成された SVG の実際の最小幅に影響を与える可能性があります。
+この値は変換された PDF ページの変換後ユーザースペース単位で表されます。デフォルトでは 1 ユーザースペース単位は 1/72 インチ (0.35 mm) ですが、PDF ドキュメントで上書きできる場合があります。変換は生成された SVG の実際の最小幅に影響する可能性があります。
 
-### 参照
+### 関連項目
 
-* クラス [SvgExtractionOptions](../)
-* 名前空間 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TiffSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.TiffSettings クラス。このクラスは、PDFをTiffにインポートするための設定を表します。
+title: "クラス TiffSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Devices.TiffSettings クラス。このクラスは pdf を Tiff にインポートするための設定を表します。"
 type: docs
-weight: 3710
+weight: 3830
 url: /ja/net/aspose.pdf.devices/tiffsettings/
 ---
-## TiffSettings クラス
+## TiffSettings class
 
-このクラスは、PDFをTiffにインポートするための設定を表します。
+このクラスは PDF を TIFF にインポートするための設定を表します。
 
 ```csharp
 public sealed class TiffSettings
@@ -32,15 +32,17 @@ public sealed class TiffSettings
 
 | 名前 | 説明 |
 | --- | --- |
-| [Brightness](../../aspose.pdf.devices/tiffsettings/brightness/) { get; set; } | 白と黒の色の変換の境界値を取得または設定します。このパラメータは、EncoderValue.CompressionCCITT4、EncoderValue.CompressionCCITT3、EncoderValue.CompressionRle または ColorDepth.Format1bpp == 1 と共に適用できます。 |
-| [Compression](../../aspose.pdf.devices/tiffsettings/compression/) { get; set; } | 圧縮の種類を取得または設定します。 |
-| [CoordinateType](../../aspose.pdf.devices/tiffsettings/coordinatetype/) { get; set; } | ページの座標タイプ（メディア/クロップボックス）を取得または設定します。デフォルトではCropBoxの値が使用されます。 |
+| [Brightness](../../aspose.pdf.devices/tiffsettings/brightness/) { get; set; } | 白と黒の色変換の境界値を取得または設定します。このパラメータは EncoderValue.CompressionCCITT4、EncoderValue.CompressionCCITT3、EncoderValue.CompressionRle、または ColorDepth.Format1bpp == 1 と共に適用できます |
+| [Compression](../../aspose.pdf.devices/tiffsettings/compression/) { get; set; } | 圧縮のタイプを取得または設定します。 |
+| [CoordinateType](../../aspose.pdf.devices/tiffsettings/coordinatetype/) { get; set; } | Page 座標タイプ（Media/Crop ボックス）を取得または設定します。デフォルトでは CropBox の値が使用されます。 |
 | [Depth](../../aspose.pdf.devices/tiffsettings/depth/) { get; set; } | カラーデプスを取得または設定します。 |
-| [Margins](../../aspose.pdf.devices/tiffsettings/margins/) { get; } | マージンを取得します。 |
-| [Shape](../../aspose.pdf.devices/tiffsettings/shape/) { get; set; } | 形状のタイプを取得または設定します。 |
+| [Margins](../../aspose.pdf.devices/tiffsettings/margins/) { get; } | 余白を取得します。 |
+| [Shape](../../aspose.pdf.devices/tiffsettings/shape/) { get; set; } | シェイプのタイプを取得または設定します。 |
 | [SkipBlankPages](../../aspose.pdf.devices/tiffsettings/skipblankpages/) { get; set; } | 空白ページをスキップするかどうかを示す値を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

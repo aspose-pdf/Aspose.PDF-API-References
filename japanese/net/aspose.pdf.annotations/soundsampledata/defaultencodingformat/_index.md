@@ -1,12 +1,12 @@
 ---
-title: SoundSampleData.DefaultEncodingFormat
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData フィールド。エンコーディング形式のデフォルト値
+title: "SoundSampleData.DefaultEncodingFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SoundSampleData フィールド。エンコーディング形式のデフォルト値。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.annotations/soundsampledata/defaultencodingformat/
 ---
-## SoundSampleData.DefaultEncodingFormat フィールド
+## SoundSampleData.DefaultEncodingFormat field
 
 エンコーディング形式のデフォルト値です。
 
@@ -20,3 +20,5 @@ public const SoundSampleDataEncodingFormat DefaultEncodingFormat;
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

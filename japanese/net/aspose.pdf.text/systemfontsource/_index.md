@@ -1,12 +1,12 @@
 ---
-title: Class SystemFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.SystemFontSource クラス。システムにインストールされているすべてのフォントを表します
+title: "クラス SystemFontSource"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.SystemFontSource クラス。システムにインストールされているすべてのフォントを表します"
 type: docs
-weight: 10730
+weight: 10910
 url: /ja/net/aspose.pdf.text/systemfontsource/
 ---
-## SystemFontSource クラス
+## SystemFontSource class
 
 システムにインストールされているすべてのフォントを表します。
 
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf.text/systemfontsource/
 public sealed class SystemFontSource : FontSource
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [SystemFontSource](systemfontsource/)() | デフォルトのコンストラクター。 |
+| [SystemFontSource](systemfontsource/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
@@ -26,8 +26,10 @@ public sealed class SystemFontSource : FontSource
 | --- | --- |
 | override [Equals](../../aspose.pdf.text/systemfontsource/equals/)(object) | システムフォントソースオブジェクトが等しいかどうかを確認します。 |
 
-### 参照
+### 関連項目
 
-* クラス [FontSource](../fontsource/)
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* class [FontSource](../fontsource/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

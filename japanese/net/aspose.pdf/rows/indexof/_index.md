@@ -1,12 +1,12 @@
 ---
-title: Rows.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Rows メソッド。コレクション内の行のインデックスを返します。
+title: "Rows.IndexOf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rows メソッド。コレクション内の行のインデックスを返す"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/rows/indexof/
 ---
-## Rows.IndexOf メソッド
+## Rows.IndexOf method
 
 コレクション内の行のインデックスを返します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/rows/indexof/
 public int IndexOf(Row row)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| row | Row | 既存の行。 |
+| 行 | 行 | 既存の行。 |
 
 ### 戻り値
 
-行のインデックス
+行インデックス
 
-### 参照
+### 関連項目
 
-* クラス [Row](../../row/)
-* クラス [Rows](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Rows.RemoveRange
-second_title: Aspose.PDF for .NET API Reference
-description: Rows メソッド。コレクションから行セットを削除します
+title: "Rows.RemoveRange"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rows メソッド。コレクションから行のセットを削除"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/rows/removerange/
 ---
-## Rows.RemoveRange メソッド
+## Rows.RemoveRange method
 
 コレクションから行セットを削除します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/rows/removerange/
 public void RemoveRange(int index, int count)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | コレクションのインデックス。 |
-| count | Int32 | 行の数。 |
+| インデックス | Int32 | コレクションインデックス。 |
+| カウント | Int32 | 行数。 |
 
-### 参照
+### 関連項目
 
-* クラス [Rows](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

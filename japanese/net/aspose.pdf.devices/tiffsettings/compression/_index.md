@@ -1,12 +1,12 @@
 ---
-title: TiffSettings.Compression
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings プロパティ。圧縮のタイプを取得または設定します
+title: "TiffSettings.Compression"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TiffSettings プロパティ。圧縮のタイプを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.devices/tiffsettings/compression/
 ---
-## TiffSettings.Compression プロパティ
+## TiffSettings.Compression property
 
 圧縮のタイプを取得または設定します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf.devices/tiffsettings/compression/
 public CompressionType Compression { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-圧縮のタイプ。
+圧縮の種類です。
 
 ## 備考
 
 デフォルト値は CompressionType.LZW です。
 
-### 参照
+### 関連項目
 
 * enum [CompressionType](../../compressiontype/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

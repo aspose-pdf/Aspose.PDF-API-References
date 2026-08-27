@@ -1,7 +1,7 @@
 ---
-title: TabStops.Add
-second_title: Aspose.PDF for .NET API Reference
-description: TabStops メソッド。TabStop クラスの新しいインスタンスを初期化し、TabStops コレクションに追加します。
+title: "TabStops.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TabStops メソッド。TabStop クラスの新しいインスタンスを初期化し、TabStops コレクションに追加します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.text/tabstops/add/
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf.text/tabstops/add/
 public TabStop Add()
 ```
 
-### Return Value
+### 戻り値
 
-新しい [`TabStop`](../../tabstop/) オブジェクト。
+新しい [`TabStop`](../../tabstop/) オブジェクトです。
 
-### See Also
+### 関連項目
 
 * class [TabStop](../../tabstop/)
 * class [TabStops](../)
@@ -35,15 +35,15 @@ public TabStop Add()
 public TabStop Add(float position)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| position | Single | タブストップの位置。 |
+| position | Single | タブストップの位置です。 |
 
-### Return Value
+### 戻り値
 
-新しい [`TabStop`](../../tabstop/) オブジェクト。
+新しい [`TabStop`](../../tabstop/) オブジェクトです。
 
-### See Also
+### 関連項目
 
 * class [TabStop](../../tabstop/)
 * class [TabStops](../)
@@ -60,11 +60,11 @@ public TabStop Add(float position)
 public void Add(TabStop tabStop)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| tabStop | TabStop | [`TabStop`](../../tabstop/) オブジェクト。 |
+| tabStop | TabStop | この [`TabStop`](../../tabstop/) オブジェクトです。 |
 
-### See Also
+### 関連項目
 
 * class [TabStop](../../tabstop/)
 * class [TabStops](../)
@@ -81,19 +81,21 @@ public void Add(TabStop tabStop)
 public TabStop Add(float position, TabLeaderType leaderType)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| position | Single | タブストップの位置。 |
-| leaderType | TabLeaderType | タブストップのリーダータイプ。 |
+| position | Single | タブストップの位置です。 |
+| leaderType | TabLeaderType | タブストップのリーダータイプです。 |
 
-### Return Value
+### 戻り値
 
-新しい [`TabStop`](../../tabstop/) オブジェクト。
+新しい [`TabStop`](../../tabstop/) オブジェクトです。
 
-### See Also
+### 関連項目
 
 * class [TabStop](../../tabstop/)
 * enum [TabLeaderType](../../tableadertype/)
 * class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

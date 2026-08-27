@@ -1,30 +1,32 @@
 ---
-title: AnnotationCollection.FindByName
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection メソッド。名前によってアノテーションを返します
+title: "AnnotationCollection.FindByName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationCollection メソッド。名前で注釈を返します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.annotations/annotationcollection/findbyname/
 ---
-## AnnotationCollection.FindByName メソッド
+## AnnotationCollection.FindByName method
 
-名前によってアノテーションを返します。
+名前で注釈を返します。
 
 ```csharp
 public Annotation FindByName(string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | アノテーションの名前 |
+| 名前 | String | 注釈の名前 |
 
 ### 戻り値
 
-見つかった場合はアノテーションオブジェクト; それ以外の場合は null。
+見つかった場合は Annotation オブジェクト、そうでなければ null。
 
-### 参照
+### 関連項目
 
-* クラス [Annotation](../../annotation/)
-* クラス [AnnotationCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

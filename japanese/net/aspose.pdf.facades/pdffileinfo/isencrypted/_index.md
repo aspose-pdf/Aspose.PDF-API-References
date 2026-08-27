@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.IsEncrypted
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo プロパティ。PDF ドキュメントが暗号化されているかどうかを確認します
+title: "PdfFileInfo.IsEncrypted"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileInfo プロパティ。PDF ドキュメントが暗号化されているかどうかをチェックします"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/pdffileinfo/isencrypted/
 ---
-## PdfFileInfo.IsEncrypted プロパティ
+## PdfFileInfo.IsEncrypted property
 
-PDF ドキュメントが暗号化されているかどうかを確認します。
+PDF ドキュメントが暗号化されているかどうかをチェックします。
 
 ```csharp
 public bool IsEncrypted { get; }
@@ -16,6 +16,8 @@ public bool IsEncrypted { get; }
 
 ### 関連項目
 
-* クラス [PdfFileInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

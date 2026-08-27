@@ -1,14 +1,14 @@
 ---
-title: Class ParagraphAbsorberOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.ParagraphAbsorberOptions クラス。ParagraphAbsorber のオプションを表します。
+title: "クラス ParagraphAbsorberOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.ParagraphAbsorberOptions クラス。ParagraphAbsorber のオプションを表します"
 type: docs
-weight: 10680
+weight: 10860
 url: /ja/net/aspose.pdf.text/paragraphabsorberoptions/
 ---
-## ParagraphAbsorberOptions クラス
+## ParagraphAbsorberOptions class
 
-[`ParagraphAbsorber`](../paragraphabsorber/) のオプションを表します。
+`ParagraphAbsorber` のオプションを表します。
 
 ```csharp
 public sealed class ParagraphAbsorberOptions
@@ -18,17 +18,19 @@ public sealed class ParagraphAbsorberOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [ParagraphAbsorberOptions](paragraphabsorberoptions/)() | デフォルトのコンストラクタ。 |
+| [ParagraphAbsorberOptions](paragraphabsorberoptions/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
 | [SearchRectangle](../../aspose.pdf.text/paragraphabsorberoptions/searchrectangle/) { get; set; } | 段落検索矩形を取得または設定します。 |
-| [SectionUnbreakingHorizontalOverride](../../aspose.pdf.text/paragraphabsorberoptions/sectionunbreakinghorizontaloverride/) { get; set; } | 実際の水平セクション区切りとして扱われない「ゼロ充填レベル」のゾーンの最大長さを取得または設定します（ページの幅/高さの割合として）。デフォルト値は 0.005 です。 |
-| [SectionUnbreakingVerticalOverride](../../aspose.pdf.text/paragraphabsorberoptions/sectionunbreakingverticaloverride/) { get; set; } | 実際の垂直セクション区切りとして扱われない「ゼロ充填レベル」のゾーンの最大長さを取得または設定します（ページの幅/高さの割合として）。デフォルト値は 0.005 です。 |
+| [SectionUnbreakingHorizontalOverride](../../aspose.pdf.text/paragraphabsorberoptions/sectionunbreakinghorizontaloverride/) { get; set; } | ページの幅/高さに対する比率として、実際の水平セクション区切りとして扱われない「ゼロ埋めレベル」の領域の最大長さを取得または設定します。デフォルト値は 0.005 です。 |
+| [SectionUnbreakingVerticalOverride](../../aspose.pdf.text/paragraphabsorberoptions/sectionunbreakingverticaloverride/) { get; set; } | ページの幅/高さに対する比率として、実際の垂直セクション区切りとして扱われない「ゼロ埋めレベル」の領域の最大長さを取得または設定します。デフォルト値は 0.005 です。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

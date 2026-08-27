@@ -1,14 +1,14 @@
 ---
-title: Class EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EmptyValueException クラス。要求された値が存在しないときにスローされる例外
+title: "クラス EmptyValueException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.EmptyValueException クラス。要求された値が存在しない場合にスローされる例外"
 type: docs
-weight: 4030
+weight: 4150
 url: /ja/net/aspose.pdf/emptyvalueexception/
 ---
-## EmptyValueException クラス
+## EmptyValueException class
 
-要求された値が存在しないときにスローされる例外です。
+要求された値が存在しないときにスローされる例外。
 
 ```csharp
 public class EmptyValueException : PdfException
@@ -21,8 +21,10 @@ public class EmptyValueException : PdfException
 | [EmptyValueException](emptyvalueexception/#constructor)() | `EmptyValueException` クラスの新しいインスタンスを初期化します。 |
 | [EmptyValueException](emptyvalueexception/#constructor_1)(string) | コンストラクタ。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfException](../pdfexception/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Collection.GetSortedCollection
-second_title: Aspose.PDF for .NET API Reference
-description: コレクションメソッド。仕様に従ってソートされたファイルのコレクションを取得します
+title: "Collection.GetSortedCollection"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Collection メソッド。 仕様に従ってソートされたファイルのコレクションを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/collection/getsortedcollection/
 ---
-## Collection.GetSortedCollection メソッド
+## Collection.GetSortedCollection method
 
 仕様に従ってソートされたファイルのコレクションを取得します。
 
@@ -16,11 +16,13 @@ public IList<FileSpecification> GetSortedCollection()
 
 ### 戻り値
 
-ソートされたファイルのリスト。
+ソートされたファイルのリストです。
 
-### 参照
+### 関連項目
 
-* クラス [FileSpecification](../../filespecification/)
-* クラス [Collection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [Collection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

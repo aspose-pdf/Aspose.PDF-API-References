@@ -1,14 +1,14 @@
 ---
-title: Class ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ShowText クラス。Tj 演算子でテキストを表示するクラス
+title: "クラス ShowText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.ShowText クラス。Tj 演算子（テキスト表示）を表すクラス。"
 type: docs
-weight: 7880
+weight: 8020
 url: /ja/net/aspose.pdf.operators/showtext/
 ---
-## ShowText クラス
+## ShowText class
 
-Tj 演算子（テキストを表示）を表すクラス。
+Tj 演算子（テキストを表示する）を表すクラスです。
 
 ```csharp
 public class ShowText : TextShowOperator
@@ -27,19 +27,21 @@ public class ShowText : TextShowOperator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リスト内の演算子インデックス。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
 | override [Text](../../aspose.pdf.operators/showtext/text/) { get; set; } | 演算子のテキスト。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/showtext/accept/)(IOperatorSelector) | 演算子を処理するためのビジターオブジェクトを受け入れます。 |
+| override [Accept](../../aspose.pdf.operators/showtext/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
 | override [ToString](../../aspose.pdf.operators/showtext/tostring/)() | 演算子のテキストコードを生成します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextShowOperator](../textshowoperator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [TextShowOperator](../textshowoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

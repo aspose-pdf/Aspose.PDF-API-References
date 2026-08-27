@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber1
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。1 通信袋 102 mm x 165 mm
+title: "PaperSizes.PrcEnvelopeNumber1"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。1封筒 102 mm × 165 mm"
 type: docs
 weight: 860
 url: /ja/net/aspose.pdf.printing/papersizes/prcenvelopenumber1/
 ---
-## PaperSizes.PrcEnvelopeNumber1 フィールド
+## PaperSizes.PrcEnvelopeNumber1 field
 
-#1 通信袋 (102 mm x 165 mm)。
+#1封筒（102 mm × 165 mm）。
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber1;
@@ -16,7 +16,9 @@ public static readonly PaperSize PrcEnvelopeNumber1;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

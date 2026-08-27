@@ -1,14 +1,14 @@
 ---
-title: SystemFontsSubstitution.FontCategories
-second_title: Aspose.PDF for .NET API Reference
-description: SystemFontsSubstitution プロパティ。システムフォントで置き換えるべき置換フォントカテゴリを取得または設定します。
+title: "SystemFontsSubstitution.FontCategories"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SystemFontsSubstitution プロパティ。システムフォントで置換すべき置換フォントカテゴリを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.text/systemfontssubstitution/fontcategories/
 ---
-## SystemFontsSubstitution.FontCategories プロパティ
+## SystemFontsSubstitution.FontCategories property
 
-システムフォントで置き換えるべき置換フォントカテゴリを取得または設定します。
+システムフォントに置換すべき置換フォントカテゴリを取得または設定します。
 
 ```csharp
 public SubstitutionFontCategories FontCategories { get; set; }
@@ -20,3 +20,5 @@ public SubstitutionFontCategories FontCategories { get; set; }
 * class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

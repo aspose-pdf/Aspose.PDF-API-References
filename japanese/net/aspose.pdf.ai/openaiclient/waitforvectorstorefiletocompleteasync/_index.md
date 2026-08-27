@@ -1,25 +1,25 @@
 ---
-title: OpenAIClient.WaitForVectorStoreFileToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。特定のベクターストアファイルが非同期で完了するのを待ちます
+title: "OpenAIClient.WaitForVectorStoreFileToCompleteAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。特定のベクトルストアファイルが完了するまで非同期で待機します"
 type: docs
-weight: 490
+weight: 500
 url: /ja/net/aspose.pdf.ai/openaiclient/waitforvectorstorefiletocompleteasync/
 ---
-## OpenAIClient.WaitForVectorStoreFileToCompleteAsync メソッド
+## OpenAIClient.WaitForVectorStoreFileToCompleteAsync method
 
-特定のベクターストアファイルが非同期で完了するのを待ちます。
+特定のベクトルストアファイルが完了するのを非同期で待機します。
 
 ```csharp
 public Task<VectorStoreFileResponse> WaitForVectorStoreFileToCompleteAsync(string vectorStoreId, 
     string fileId, CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| vectorStoreId | String | ファイルを含むベクターストアの ID。 |
+| vectorStoreId | String | ファイルを含むベクトルストアの ID。 |
 | fileId | String | 完了まで監視するファイルの ID。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
@@ -29,12 +29,14 @@ public Task<VectorStoreFileResponse> WaitForVectorStoreFileToCompleteAsync(strin
 
 | 例外 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | ベクターストア ID が null または空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | ベクトルストアの Id が null または空の場合にスローされます。 |
 | [AIClientException](../../aiclientexception/) | ファイル ID が null または空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [VectorStoreFileResponse](../../vectorstorefileresponse/)
-* クラス [OpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

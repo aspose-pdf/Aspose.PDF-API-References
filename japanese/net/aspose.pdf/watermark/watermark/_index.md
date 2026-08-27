@@ -1,47 +1,49 @@
 ---
-title: Watermark.Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: ウォーターマークコンストラクタ。画像とページ上の位置を持つウォーターマークオブジェクトを初期化します
+title: "Watermark.Watermark"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Watermark コンストラクタ。画像とページ上の位置を指定して透かしオブジェクトを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/watermark/watermark/
 ---
-## ウォーターマーク(Image, Rectangle) {#constructor_1}
+## Watermark(Image, Rectangle) {#constructor_1}
 
-画像とページ上の位置を持つウォーターマークオブジェクトを初期化します。
+画像とページ上の位置で透かしオブジェクトを初期化します。
 
 ```csharp
 public Watermark(Image image, Rectangle rect)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | Image | ウォーターマークの画像。 |
-| rect | Rectangle | ページ上のウォーターマークの位置。 |
+| 画像 | 画像 | 透かしの画像。 |
+| rect | Rectangle | ページ上の透かしの位置。 |
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../../rectangle/)
-* クラス [Watermark](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ウォーターマーク(Image) {#constructor}
+## Watermark(Image) {#constructor}
 
-画像を持つウォーターマークオブジェクトを初期化します。
+画像で透かしオブジェクトを初期化します。
 
 ```csharp
 public Watermark(Image image)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | Image | ウォーターマークの画像。 |
+| 画像 | 画像 | 透かしの画像。 |
 
-### 参照
+### 関連項目
 
-* クラス [Watermark](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Metadata.NamespaceManager
-second_title: Aspose.PDF for .NET API Reference
-description: メタデータプロパティ。名前空間マネージャを取得します
+title: "Metadata.NamespaceManager"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metadata プロパティ。名前空間マネージャーを取得します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/metadata/namespacemanager/
 ---
-## メタデータ.NamespaceManager プロパティ
+## Metadata.NamespaceManager property
 
-名前空間マネージャを取得します。
+名前空間マネージャーを取得します。
 
 ```csharp
 public XmlNamespaceManager NamespaceManager { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Metadata](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

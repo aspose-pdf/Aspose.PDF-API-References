@@ -1,30 +1,32 @@
 ---
-title: DestinationCollection.GetPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection メソッド。名前によって目的地のページ番号を返します
+title: "DestinationCollection.GetPageNumber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DestinationCollection メソッド。名前でデスティネーションのページ番号を返します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/destinationcollection/getpagenumber/
 ---
-## DestinationCollection.GetPageNumber メソッド
+## DestinationCollection.GetPageNumber method
 
-名前によって目的地のページ番号を返します。
+名前で宛先のページ番号を返します。
 
 ```csharp
 public int GetPageNumber(string destinameName, bool useCache)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| destinameName | String | 目的地の名前。 |
-| useCache | Boolean | キャッシュされたコレクションのバージョンが使用されるかどうかを決定します。 |
+| destinameName | String | デスティネーションの名前です。 |
+| useCache | Boolean | コレクションのキャッシュされたバージョンが使用されるかどうかを決定します。 |
 
 ### 戻り値
 
-目的地が見つかった場合のページ番号; それ以外の場合は -1。
+デスティネーションが見つかった場合のページ番号；それ以外の場合は -1 です。
 
-### 参照
+### 関連項目
 
-* クラス [DestinationCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

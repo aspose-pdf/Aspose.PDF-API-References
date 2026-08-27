@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.Font
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade プロパティ。フィールドテキストのフォントタイプ
+title: "FormFieldFacade.Font"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldFacade プロパティ。フィールドテキストのフォントの種類"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.facades/formfieldfacade/font/
 ---
-## FormFieldFacade.Font プロパティ
+## FormFieldFacade.Font property
 
 フィールドテキストのフォントタイプです。
 
@@ -20,3 +20,5 @@ public FontStyle Font { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

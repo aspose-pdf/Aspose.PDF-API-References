@@ -1,12 +1,12 @@
 ---
-title: Color.Beige
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFF5F5DC のシステム定義カラーを取得します。
+title: "Color.Beige"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得します。ARGB 値は c FFF5F5DC です。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/color/beige/
 ---
-## Color.Beige プロパティ
+## Color.Beige property
 
 ARGB 値が \c \#FFF5F5DC のシステム定義カラーを取得します。
 
@@ -18,8 +18,10 @@ public static Color Beige { get; }
 
 システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

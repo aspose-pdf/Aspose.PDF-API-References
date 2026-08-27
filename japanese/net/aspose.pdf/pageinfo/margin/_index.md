@@ -1,12 +1,12 @@
 ---
-title: PageInfo.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo プロパティ。ページの余白を取得または設定します
+title: "PageInfo.Margin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageInfo プロパティ。ページの余白を取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/pageinfo/margin/
 ---
-## PageInfo.Margin プロパティ
+## PageInfo.Margin property
 
 ページの余白を取得または設定します。
 
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### 関連項目
 
-* クラス [MarginInfo](../../margininfo/)
-* クラス [PageInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

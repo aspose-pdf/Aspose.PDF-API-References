@@ -1,25 +1,27 @@
 ---
-title: DP.DP
-second_title: Aspose.PDF for .NET API Reference
-description: DPコンストラクタ。オペレーターを初期化します
+title: "DP.DP"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DP コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/dp/dp/
 ---
-## DPコンストラクタ
+## DP constructor
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public DP(string tag)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| tag | 文字列 | タグ値。 |
+| タグ | String | タグの値。 |
 
-### 参照
+### 関連項目
 
-* クラス [DP](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DP](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

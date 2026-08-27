@@ -1,12 +1,12 @@
 ---
-title: TeXFileSystemInputDirectory.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFileSystemInputDirectory メソッド。インスタンスを破棄します
+title: "TeXFileSystemInputDirectory.Dispose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TeXFileSystemInputDirectory メソッド。インスタンスを破棄します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/texfilesysteminputdirectory/dispose/
 ---
-## TeXFileSystemInputDirectory.Dispose メソッド
+## TeXFileSystemInputDirectory.Dispose method
 
 インスタンスを破棄します。
 
@@ -16,6 +16,8 @@ public virtual void Dispose()
 
 ### 関連項目
 
-* クラス [TeXFileSystemInputDirectory](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TeXFileSystemInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

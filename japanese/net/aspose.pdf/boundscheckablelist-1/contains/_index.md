@@ -1,29 +1,31 @@
 ---
-title: BoundsCheckableList1.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList メソッド。要素が System.Collections.Generic.List に存在するかどうかを判断します。
+title: "BoundsCheckableList1.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BoundsCheckableList メソッド。要素が System.Collections.Generic.List に含まれているかどうかを判断します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/boundscheckablelist-1/contains/
 ---
-## BoundsCheckableList&lt;T&gt;.Contains メソッド
+## BoundsCheckableList&lt;T&gt;.Contains method
 
-要素が System.Collections.Generic.List に存在するかどうかを判断します。
+要素が System.Collections.Generic.List に含まれているかどうかを判断します。
 
 ```csharp
 public bool Contains(T item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | T | System.Collections.Generic.List で探すオブジェクト。値は参照型の場合、null であることができます。 |
+| アイテム | T | System.Collections.Generic.List で検索するオブジェクトです。参照型の場合、値は null にすることができます。 |
 
 ### 戻り値
 
-*item* が System.Collections.Generic.List に見つかった場合は true; それ以外の場合は false。
+System.Collections.Generic.List に *item* が見つかった場合は true、そうでない場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [BoundsCheckableList&lt;T&gt;](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileCreateRequest.FileId
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileCreateRequest プロパティ。ベクターストアが使用すべきファイル ID を取得または設定します。ファイルにアクセスできる file_search のようなツールに便利です。
+title: "VectorStoreFileCreateRequest.FileId"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreFileCreateRequest プロパティ。ベクトルストアが使用すべきファイル ID を取得または設定します。ファイルにアクセスできる file_search などのツールに便利です"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/vectorstorefilecreaterequest/fileid/
 ---
-## VectorStoreFileCreateRequest.FileId プロパティ
+## VectorStoreFileCreateRequest.FileId property
 
-ベクターストアが使用すべきファイル ID を取得または設定します。ファイルにアクセスできる file_search のようなツールに便利です。
+ベクトルストアが使用すべき File ID を取得または設定します。ファイルにアクセスできる file_search のようなツールに便利です。
 
 ```csharp
 public string FileId { get; set; }
@@ -19,3 +19,5 @@ public string FileId { get; set; }
 * class [VectorStoreFileCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PngDevice.PngDevice
-second_title: Aspose.PDF for .NET API Reference
-description: PngDevice コンストラクタ。デフォルト解像度で PngDevice クラスの新しいインスタンスを初期化します
+title: "PngDevice.PngDevice"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PngDevice コンストラクタ。デフォルト解像度で PngDevice クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.devices/pngdevice/pngdevice/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.devices/pngdevice/pngdevice/
 public PngDevice()
 ```
 
-### See Also
+### 関連項目
 
 * class [PngDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -24,13 +24,13 @@ public PngDevice()
 
 ## PngDevice(Resolution) {#constructor_1}
 
-[`PngDevice`](../) クラスの新しいインスタンスを初期化します。結果画像ファイルの解像度については、[`Resolution`](../../resolution/) クラスを参照してください。
+[`PngDevice`](../) クラスの新しいインスタンスを初期化します。 結果の画像ファイルの解像度については、[`Resolution`](../../resolution/) クラスをご参照ください。
 
 ```csharp
 public PngDevice(Resolution resolution)
 ```
 
-### See Also
+### 関連項目
 
 * class [Resolution](../../resolution/)
 * class [PngDevice](../)
@@ -41,19 +41,19 @@ public PngDevice(Resolution resolution)
 
 ## PngDevice(int, int, Resolution) {#constructor_5}
 
-提供された画像の寸法と解像度で [`PngDevice`](../) クラスの新しいインスタンスを初期化します。
+指定された画像サイズと解像度で、[`PngDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PngDevice(int width, int height, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力幅。 |
-| height | Int32 | 画像出力高さ。 |
-| resolution | Resolution | 結果画像ファイルの解像度については、[`Resolution`](../../resolution/) クラスを参照してください。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
+| resolution | Resolution | 結果画像ファイルの解像度は、[`Resolution`](../../resolution/) クラスをご参照ください。 |
 
-### See Also
+### 関連項目
 
 * class [Resolution](../../resolution/)
 * class [PngDevice](../)
@@ -64,18 +64,18 @@ public PngDevice(int width, int height, Resolution resolution)
 
 ## PngDevice(PageSize, Resolution) {#constructor_3}
 
-提供されたページサイズと解像度で [`PngDevice`](../) クラスの新しいインスタンスを初期化します。
+指定されたページサイズと解像度で、[`PngDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PngDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
-| resolution | Resolution | 結果画像ファイルの解像度については、[`Resolution`](../../resolution/) クラスを参照してください。 |
+| resolution | Resolution | 結果画像ファイルの解像度は、[`Resolution`](../../resolution/) クラスをご参照ください。 |
 
-### See Also
+### 関連項目
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [Resolution](../../resolution/)
@@ -87,18 +87,18 @@ public PngDevice(PageSize pageSize, Resolution resolution)
 
 ## PngDevice(int, int) {#constructor_4}
 
-提供された画像の寸法で、デフォルト解像度 (=150) の [`PngDevice`](../) クラスの新しいインスタンスを初期化します。
+指定された画像サイズで、デフォルト解像度 (=150) を使用して、[`PngDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PngDevice(int width, int height)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像出力幅。 |
-| height | Int32 | 画像出力高さ。 |
+| width | Int32 | 画像の出力幅。 |
+| height | Int32 | 画像の出力高さ。 |
 
-### See Also
+### 関連項目
 
 * class [PngDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -108,19 +108,21 @@ public PngDevice(int width, int height)
 
 ## PngDevice(PageSize) {#constructor_2}
 
-提供されたページサイズで、デフォルト解像度 (=150) の [`PngDevice`](../) クラスの新しいインスタンスを初期化します。
+指定されたページサイズで、デフォルト解像度 (=150) を使用して、[`PngDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PngDevice(PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageSize | PageSize | 出力画像のページサイズ。 |
 
-### See Also
+### 関連項目
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PngDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Form プロパティ。結果が HttpResponse として保存されるときの保存オプションを取得または設定します。デフォルト値 PdfSaveOptions
+title: "Form.SaveOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form プロパティ。結果が HttpResponse として保存される際の保存オプションを取得または設定します。デフォルト値は PdfSaveOptions です。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/form/saveoptions/
 ---
-## Form.SaveOptions プロパティ
+## Form.SaveOptions property
 
-結果が HttpResponse として保存されるときの保存オプションを取得または設定します。デフォルト値: PdfSaveOptions。
+結果が HttpResponse に保存されるときの保存オプションを取得または設定します。デフォルト値: PdfSaveOptions。
 
 ```csharp
 public SaveOptions SaveOptions { get; set; }
@@ -20,3 +20,5 @@ public SaveOptions SaveOptions { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

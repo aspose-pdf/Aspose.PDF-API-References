@@ -1,22 +1,22 @@
 ---
-title: SquareAnnotation.SquareAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: SquareAnnotation コンストラクタ。Generator と一緒に使用するためのコンストラクタ
+title: "SquareAnnotation.SquareAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SquareAnnotation コンストラクタ。Generator と共に使用するためのコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/squareannotation/squareannotation/
 ---
 ## SquareAnnotation(Document) {#constructor}
 
-Generator と一緒に使用するためのコンストラクタ。
+Generator と共に使用するためのコンストラクタです。
 
 ```csharp
 public SquareAnnotation(Document document)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | 注釈が作成されるドキュメント。 |
+| document | Document | アノテーションが作成される Documennt |
 
 ### 関連項目
 
@@ -29,16 +29,16 @@ public SquareAnnotation(Document document)
 
 ## SquareAnnotation(Page, Rectangle) {#constructor_1}
 
-指定されたページに新しい四角形注釈を作成します。
+指定されたページに新しい Square 注釈を作成します。
 
 ```csharp
 public SquareAnnotation(Page page, Rectangle rect)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 注釈が作成されるドキュメントのページ。 |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈の矩形。 |
+| ページ | ページ | アノテーションが作成されるべき Document の Page。 |
+| rect | Rectangle | ページ上の annotation rectangle、アノテーションの位置を定義します。 |
 
 ### 関連項目
 
@@ -47,3 +47,5 @@ public SquareAnnotation(Page page, Rectangle rect)
 * class [SquareAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

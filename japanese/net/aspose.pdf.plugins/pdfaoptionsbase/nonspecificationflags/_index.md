@@ -1,26 +1,28 @@
 ---
-title: PdfAOptionsBase.NonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase プロパティ。ソース PDF ドキュメントが PDF 仕様に対応していない場合の PDF/A 変換を制御するフラグを取得します。
+title: "PdfAOptionsBase.NonSpecificationFlags"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAOptionsBase プロパティ。ソース PDF 文書が PDF 仕様に合致しない場合の PDF/A 変換を制御するフラグを取得します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.plugins/pdfaoptionsbase/nonspecificationflags/
 ---
-## PdfAOptionsBase.NonSpecificationFlags プロパティ
+## PdfAOptionsBase.NonSpecificationFlags property
 
-ソース PDF ドキュメントが PDF 仕様に対応していない場合の PDF/A 変換を制御するフラグを取得します。
+ソース PDF 文書が PDF 仕様に準拠していない場合の PDF/A 変換を制御するフラグを取得します。
 
 ```csharp
 public PdfANonSpecificationFlags NonSpecificationFlags { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-PDF/A 変換中の非仕様ケースのためのフラグです。
+PDF/A 変換中の非仕様ケースに対するフラグです。
 
-### 参照
+### 関連項目
 
-* クラス [PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)
-* クラス [PdfAOptionsBase](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

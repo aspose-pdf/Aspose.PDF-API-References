@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.ViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation プロパティ。ビュー配列を取得します
+title: "PDF3DAnnotation.ViewArray"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DAnnotation プロパティ。ビュー配列を取得します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.annotations/pdf3dannotation/viewarray/
 ---
-## PDF3DAnnotation.ViewArray プロパティ
+## PDF3DAnnotation.ViewArray property
 
 ビュー配列を取得します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.annotations/pdf3dannotation/viewarray/
 public PDF3DViewArray ViewArray { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ビュー配列。
+ビュー配列です。
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DViewArray](../../pdf3dviewarray/)
-* クラス [PDF3DAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DViewArray](../../pdf3dviewarray/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

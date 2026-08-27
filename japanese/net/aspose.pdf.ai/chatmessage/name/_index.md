@@ -1,21 +1,23 @@
 ---
-title: ChatMessage.Name
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage プロパティ。参加者のオプションの名前を取得または設定します。同じ役割の参加者を区別するためのモデル情報を提供します。
+title: "ChatMessage.Name"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ChatMessage プロパティ。参加者のオプション名を取得または設定します。同じ役割の参加者を区別するためのモデル情報を提供します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.ai/chatmessage/name/
 ---
-## ChatMessage.Name プロパティ
+## ChatMessage.Name property
 
-参加者のオプションの名前を取得または設定します。同じ役割の参加者を区別するためのモデル情報を提供します。
+参加者のオプション名を取得または設定します。同じ役割の参加者を区別するためのモデル情報を提供します。
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ChatMessage](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

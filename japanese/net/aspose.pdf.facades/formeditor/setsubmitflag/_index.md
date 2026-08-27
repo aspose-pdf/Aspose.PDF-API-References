@@ -1,27 +1,27 @@
 ---
-title: FormEditor.SetSubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。送信ボタンの送信フラグを設定します。
+title: "FormEditor.SetSubmitFlag"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor メソッド。送信ボタンの submit フラグを設定します。"
 type: docs
 weight: 330
 url: /ja/net/aspose.pdf.facades/formeditor/setsubmitflag/
 ---
-## FormEditor.SetSubmitFlag メソッド
+## FormEditor.SetSubmitFlag method
 
-送信ボタンの送信フラグを設定します。
+送信ボタンの submit フラグを設定します。
 
 ```csharp
 public bool SetSubmitFlag(string fieldName, SubmitFormFlag submitFormFlag)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | String | 送信ボタンの名前。 |
-| submitFormFlag | SubmitFormFlag | 送信フラグ。 |
+| fieldName | String | 送信ボタンの名前です。 |
+| submitFormFlag | SubmitFormFlag | Submit フラグです。 |
 
 ### 戻り値
 
-フィールドが見つかり、送信フラグが正常に設定された場合は true。
+フィールドが見つかり、submit フラグが正常に設定された場合は true です。
 
 ## 例
 
@@ -36,3 +36,5 @@ formEditor.SetSubmitFlag("btnSubmit", SubmitFormFlag.Fdf);
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

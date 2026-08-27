@@ -1,24 +1,24 @@
 ---
-title: Class RgbToDeviceGrayConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.RgbToDeviceGrayConversionStrategy クラス。rgb からデバイスグレーのカラースペース変換戦略を表します
+title: "クラス RgbToDeviceGrayConversionStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.RgbToDeviceGrayConversionStrategy クラス。RGB からデバイス グレー カラースペースへの変換戦略を表します"
 type: docs
-weight: 9800
+weight: 9950
 url: /ja/net/aspose.pdf/rgbtodevicegrayconversionstrategy/
 ---
-## RgbToDeviceGrayConversionStrategy クラス
+## RgbToDeviceGrayConversionStrategy class
 
-rgb からデバイスグレーのカラースペース変換戦略を表します。
+RGB からデバイスグレイ カラースペースへの変換戦略を表します。
 
 ```csharp
 public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [RgbToDeviceGrayConversionStrategy](rgbtodevicegrayconversionstrategy/)() | デフォルトコンストラクター。 |
+| [RgbToDeviceGrayConversionStrategy](rgbtodevicegrayconversionstrategy/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
@@ -26,8 +26,10 @@ public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
 | --- | --- |
 | [Convert](../../aspose.pdf/rgbtodevicegrayconversionstrategy/convert/)(Page) | ドキュメントのページを変換します。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

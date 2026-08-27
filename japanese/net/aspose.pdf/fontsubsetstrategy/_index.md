@@ -1,14 +1,14 @@
 ---
-title: Enum FontSubsetStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FontSubsetStrategy 列挙型。フォントサブセット戦略を列挙します
+title: "列挙型 FontSubsetStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.FontSubsetStrategy 列挙型。フォントサブセット化の戦略を列挙します。"
 type: docs
-weight: 4910
+weight: 5030
 url: /ja/net/aspose.pdf/fontsubsetstrategy/
 ---
-## FontSubsetStrategy 列挙型
+## FontSubsetStrategy enumeration
 
-フォントサブセット戦略を列挙します
+フォントサブセット化の戦略を列挙します。
 
 ```csharp
 public enum FontSubsetStrategy : byte
@@ -18,10 +18,12 @@ public enum FontSubsetStrategy : byte
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| SubsetEmbeddedFontsOnly | `0` | ドキュメントに既に埋め込まれているフォントのみをサブセット化することを宣言します |
-| SubsetAllFonts | `1` | 埋め込まれていないフォントと埋め込まれたフォントの両方をサブセット化することを宣言します |
+| SubsetEmbeddedFontsOnly | `0` | 文書にすでに埋め込まれているフォントのみをサブセット化することを宣言します。 |
+| SubsetAllFonts | `1` | 埋め込みフォントと非埋め込みフォントの両方をすべてサブセット化することを宣言します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

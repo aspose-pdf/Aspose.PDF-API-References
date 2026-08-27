@@ -1,14 +1,14 @@
 ---
-title: DefaultAppearance.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance プロパティ。デフォルトの外観でフォント名を取得します
+title: "DefaultAppearance.FontName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DefaultAppearance プロパティ。デフォルトの外観におけるフォント名を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/defaultappearance/fontname/
 ---
-## DefaultAppearance.FontName プロパティ
+## DefaultAppearance.FontName property
 
-デフォルトの外観でフォント名を取得します。
+デフォルト外観のフォント名を取得します。
 
 ```csharp
 public string FontName { get; set; }
@@ -16,6 +16,8 @@ public string FontName { get; set; }
 
 ### 関連項目
 
-* クラス [DefaultAppearance](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.PdfBookmarkEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor コンストラクタ。新しい PdfBookmarkEditor オブジェクトを初期化します
+title: "PdfBookmarkEditor.PdfBookmarkEditor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfBookmarkEditor コンストラクタ。新しい PdfBookmarkEditor オブジェクトを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/
@@ -14,29 +14,31 @@ url: /ja/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/
 public PdfBookmarkEditor()
 ```
 
-### 関連情報
+### 関連項目
 
-* クラス [PdfBookmarkEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfBookmarkEditor(Document) {#constructor_1}
 
-*document* に基づいて新しい [`PdfBookmarkEditor`](../) オブジェクトを初期化します。
+新しい [`PdfBookmarkEditor`](../) オブジェクトを *document* を基に初期化します。
 
 ```csharp
 public PdfBookmarkEditor(Document document)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | document | Document | Pdf ドキュメント。 |
 
-### 関連情報
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [PdfBookmarkEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

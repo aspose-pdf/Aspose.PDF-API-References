@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A6
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。A6 用紙 105 mm x 148 mm
+title: "PaperSizes.A6"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。 A6 用紙 105 mm × 148 mm"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.printing/papersizes/a6/
 ---
-## PaperSizes.A6 フィールド
+## PaperSizes.A6 field
 
-A6 用紙 (105 mm x 148 mm)。
+A6用紙（105 mm × 148 mm）。
 
 ```csharp
 public static readonly PaperSize A6;
@@ -16,7 +16,9 @@ public static readonly PaperSize A6;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

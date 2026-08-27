@@ -1,21 +1,23 @@
 ---
-title: DocSaveOptions.MaxDistanceBetweenTextLines
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions プロパティ。このパラメータは、テキスト行を段落にグループ化するために使用されます。相対的なテキスト行がどれくらい離れていることができるかを決定します。テキスト行の高さの百分の一で指定されます。
+title: "DocSaveOptions.MaxDistanceBetweenTextLines"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocSaveOptions プロパティ。このパラメータはテキスト行を段落にグループ化するために使用されます。2 つの相対的なテキスト行がどれだけ離れていてもよいかを決定します。テキスト行の高さの数百パーセントで指定されます。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/docsaveoptions/maxdistancebetweentextlines/
 ---
-## DocSaveOptions.MaxDistanceBetweenTextLines プロパティ
+## DocSaveOptions.MaxDistanceBetweenTextLines property
 
-このパラメータは、テキスト行を段落にグループ化するために使用されます。相対的なテキスト行がどれくらい離れていることができるかを決定します。テキスト行の高さの百分の一で指定されます。
+このパラメータはテキスト行を段落にグループ化するために使用されます。2 つの相対的なテキスト行の間隔を決定します。テキスト行の高さの百分率（100 分の単位）で指定します。
 
 ```csharp
 public float MaxDistanceBetweenTextLines { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [DocSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

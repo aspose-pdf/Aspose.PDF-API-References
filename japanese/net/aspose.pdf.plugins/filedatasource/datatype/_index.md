@@ -1,14 +1,14 @@
 ---
-title: FileDataSource.DataType
-second_title: Aspose.PDF for .NET API Reference
-description: FileDataSource プロパティ。データソースファイルの種類
+title: "FileDataSource.DataType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileDataSource プロパティ。データソースファイルの種類"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/filedatasource/datatype/
 ---
-## FileDataSource.DataType プロパティ
+## FileDataSource.DataType property
 
-データソースの種類（ファイル）。
+データ ソースのタイプ（ファイル）。
 
 ```csharp
 public DataType DataType { get; }
@@ -20,3 +20,5 @@ public DataType DataType { get; }
 * class [FileDataSource](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

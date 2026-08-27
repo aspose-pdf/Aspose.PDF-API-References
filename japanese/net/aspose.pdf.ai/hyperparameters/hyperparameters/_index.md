@@ -1,21 +1,23 @@
 ---
-title: Hyperparameters.Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: ハイパーパラメータのコンストラクタ。デフォルトのコンストラクタ
+title: "Hyperparameters.Hyperparameters"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Hyperparameters コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/hyperparameters/hyperparameters/
 ---
-## ハイパーパラメータのコンストラクタ
+## Hyperparameters constructor
 
-デフォルトのコンストラクタです。
+デフォルトコンストラクタです。
 
 ```csharp
 public Hyperparameters()
 ```
 
-### 参照
+### 関連項目
 
 * class [Hyperparameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

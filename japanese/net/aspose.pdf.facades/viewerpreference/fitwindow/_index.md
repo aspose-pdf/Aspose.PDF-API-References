@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.FitWindow
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference フィールド。最初に表示されるページのサイズに合わせてドキュメントウィンドウをリサイズするかどうかを指定するフラグ
+title: "ViewerPreference.FitWindow"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference フィールド。最初に表示されたページのサイズに合わせてドキュメントウィンドウのサイズを変更するかどうかを指定するフラグ"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/viewerpreference/fitwindow/
 ---
-## ViewerPreference.FitWindow フィールド
+## ViewerPreference.FitWindow field
 
-最初に表示されるページのサイズに合わせてドキュメントのウィンドウをリサイズするかどうかを指定するフラグです。
+document のウィンドウのサイズを、最初に表示される page のサイズに合わせて変更するかどうかを指定するフラグ。
 
 ```csharp
 public const int FitWindow;
@@ -16,6 +16,8 @@ public const int FitWindow;
 
 ### 関連項目
 
-* クラス [ViewerPreference](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

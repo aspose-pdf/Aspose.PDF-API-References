@@ -1,29 +1,31 @@
 ---
-title: Class InvalidPasswordException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.InvalidPasswordException クラス。ユーザーによって無効なパスワードが提供されたときにスローされる例外
+title: "クラス InvalidPasswordException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.InvalidPasswordException クラス。ユーザーが無効なパスワードを提供したときにスローされる例外です。"
 type: docs
-weight: 6010
+weight: 6140
 url: /ja/net/aspose.pdf/invalidpasswordexception/
 ---
-## InvalidPasswordException クラス
+## InvalidPasswordException class
 
-ユーザーによって無効なパスワードが提供されたときにスローされる例外です。
+ユーザーが無効なパスワードを提供した場合にスローされる例外です。
 
 ```csharp
 public sealed class InvalidPasswordException : PdfException
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [InvalidPasswordException](invalidpasswordexception/#constructor)(Exception) | この例外の原因となる内部例外への参照を持つ `InvalidPasswordException` クラスの新しいインスタンスを初期化します。 |
+| [InvalidPasswordException](invalidpasswordexception/#constructor)(Exception) | この例外の原因となる内部例外への参照を指定して、`InvalidPasswordException` クラスの新しいインスタンスを初期化します。 |
 | [InvalidPasswordException](invalidpasswordexception/#constructor_1)(string) | `InvalidPasswordException` クラスの新しいインスタンスを初期化します。 |
-| [InvalidPasswordException](invalidpasswordexception/#constructor_2)(string, Exception) | 指定されたエラーメッセージとこの例外の原因となる内部例外への参照を持つ `InvalidPasswordException` クラスの新しいインスタンスを初期化します。 |
+| [InvalidPasswordException](invalidpasswordexception/#constructor_2)(string, Exception) | 指定されたエラーメッセージと、この例外の原因となる内部例外への参照を使用して、`InvalidPasswordException` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
-* クラス [PdfException](../pdfexception/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

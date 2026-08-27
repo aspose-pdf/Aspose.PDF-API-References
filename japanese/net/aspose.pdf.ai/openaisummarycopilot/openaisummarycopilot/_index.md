@@ -1,30 +1,32 @@
 ---
-title: OpenAISummaryCopilot.OpenAISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilot コンストラクタ。OpenAISummaryCopilot クラスの新しいインスタンスを初期化します
+title: "OpenAISummaryCopilot.OpenAISummaryCopilot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAISummaryCopilot コンストラクタ。OpenAISummaryCopilot クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/openaisummarycopilot/openaisummarycopilot/
 ---
-## OpenAISummaryCopilot コンストラクタ
+## OpenAISummaryCopilot constructor
 
-[`OpenAISummaryCopilot`](../) クラスの新しいインスタンスを初期化します。
+新しいインスタンスを初期化します [`OpenAISummaryCopilot`](../) クラス。
 
 ```csharp
 public OpenAISummaryCopilot(IOpenAIClient client, 
     ISummaryCopilotOptions<OpenAISummaryCopilotOptions> options)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| client | IOpenAIClient | OpenAI クライアントインスタンス。 |
-| options | ISummaryCopilotOptions`1 | OpenAI サマリーコパイロットオプション。 |
+| client | IOpenAIClient | OpenAI クライアントインスタンスです。 |
+| オプション | ISummaryCopilotOptions`1 | OpenAI Summary Copilot のオプションです。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IOpenAIClient](../../iopenaiclient/)
-* インターフェース [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* クラス [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
-* クラス [OpenAISummaryCopilot](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

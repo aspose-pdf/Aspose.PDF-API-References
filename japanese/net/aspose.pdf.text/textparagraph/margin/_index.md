@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph プロパティ。パディングを取得または設定します
+title: "TextParagraph.Margin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextParagraph プロパティ。パディングを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.text/textparagraph/margin/
 ---
-## TextParagraph.Margin プロパティ
+## TextParagraph.Margin property
 
-パディングを取得または設定します。
+余白を取得または設定します。
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

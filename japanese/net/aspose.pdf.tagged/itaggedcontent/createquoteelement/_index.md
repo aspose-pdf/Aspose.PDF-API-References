@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateQuoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。QuoteElement を作成します。
+title: "ITaggedContent.CreateQuoteElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。QuoteElement を作成します"
 type: docs
-weight: 230
+weight: 260
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createquoteelement/
 ---
-## ITaggedContent.CreateQuoteElement メソッド
+## ITaggedContent.CreateQuoteElement method
 
-[`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement/) を作成します。
+`[`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement/) を作成します。`
 
 ```csharp
 public QuoteElement CreateQuoteElement()
@@ -16,11 +16,13 @@ public QuoteElement CreateQuoteElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

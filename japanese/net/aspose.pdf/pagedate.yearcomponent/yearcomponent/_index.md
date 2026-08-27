@@ -1,12 +1,12 @@
 ---
-title: PageDate.YearComponent.YearComponent
-second_title: Aspose.PDF for .NET API Reference
-description: YearComponent コンストラクタ。デフォルトコンストラクタ
+title: "PageDate.YearComponent.YearComponent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "YearComponent コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pagedate.yearcomponent/yearcomponent/
 ---
-## PageDate.YearComponent コンストラクタ
+## PageDate.YearComponent constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/pagedate.yearcomponent/yearcomponent/
 public YearComponent()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [YearComponent](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [YearComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

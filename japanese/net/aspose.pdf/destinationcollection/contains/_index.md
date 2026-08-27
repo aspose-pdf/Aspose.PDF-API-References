@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection メソッド。このインスタンスがオブジェクトを含むかどうかを判断します
+title: "DestinationCollection.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DestinationCollection メソッド。このインスタンスがオブジェクトを含むかどうかを判定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/destinationcollection/contains/
 ---
-## DestinationCollection.Contains メソッド
+## DestinationCollection.Contains method
 
 このインスタンスがオブジェクトを含むかどうかを判断します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf/destinationcollection/contains/
 public bool Contains(KeyValuePair<string, object> value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | KeyValuePair`2 | 値。 |
+| 値 | KeyValuePair`2 | 値です。 |
 
 ### 戻り値
 
-`true` もし [contains] [指定された値] を含む場合; それ以外の場合は `false`。
+`true` は [contains] [the specified value] の場合、そうでなければ `false`。
 
-### 参照
+### 関連項目
 
-* クラス [DestinationCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

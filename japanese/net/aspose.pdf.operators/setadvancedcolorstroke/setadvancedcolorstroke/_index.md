@@ -1,20 +1,20 @@
 ---
-title: SetAdvancedColorStroke.SetAdvancedColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: SetAdvancedColorStroke コンストラクタ。オペレーターを初期化します
+title: "SetAdvancedColorStroke.SetAdvancedColorStroke"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetAdvancedColorStroke コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/setadvancedcolorstroke/setadvancedcolorstroke/
 ---
 ## SetAdvancedColorStroke() {#constructor}
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public SetAdvancedColorStroke()
 ```
 
-### See Also
+### 関連項目
 
 * class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,17 +24,17 @@ public SetAdvancedColorStroke()
 
 ## SetAdvancedColorStroke(double) {#constructor_1}
 
-scn オペレーターのコンストラクタ
+scn 演算子のコンストラクタ
 
 ```csharp
 public SetAdvancedColorStroke(double g)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| g | Double | グレーの色値。 |
+| g | Double | グレーのカラー値。 |
 
-### See Also
+### 関連項目
 
 * class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -44,18 +44,18 @@ public SetAdvancedColorStroke(double g)
 
 ## SetAdvancedColorStroke(double, string) {#constructor_4}
 
-scn オペレーターのコンストラクタ。
+scn 演算子のコンストラクタです。
 
 ```csharp
 public SetAdvancedColorStroke(double g, string patternName)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| g | Double | グレーの色値。 |
+| g | Double | グレーのカラー値。 |
 | patternName | String | パターンの名前。 |
 
-### See Also
+### 関連項目
 
 * class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -65,20 +65,20 @@ public SetAdvancedColorStroke(double g, string patternName)
 
 ## SetAdvancedColorStroke(double, double, double, string) {#constructor_3}
 
-scn オペレーターのコンストラクタ。
+scn 演算子のコンストラクタです。
 
 ```csharp
 public SetAdvancedColorStroke(double r, double g, double b, string patternName)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| r | Double | 色の赤成分。 |
+| r | Double | 色の赤成分/ |
 | g | Double | 色の緑成分。 |
 | b | Double | 色の青成分。 |
 | patternName | String | パターンの名前。 |
 
-### See Also
+### 関連項目
 
 * class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -88,21 +88,21 @@ public SetAdvancedColorStroke(double r, double g, double b, string patternName)
 
 ## SetAdvancedColorStroke(double, double, double, double, string) {#constructor_2}
 
-scn オペレーターのコンストラクタ。
+scn 演算子のコンストラクタです。
 
 ```csharp
 public SetAdvancedColorStroke(double c, double m, double y, double k, string patternName)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | c | Double | 色のシアン成分。 |
 | m | Double | 色のマゼンタ成分。 |
-| y | Double | 色のイエロー成分。 |
-| k | Double | 色の黒成分。 |
+| y | Double | 色の黄色成分。 |
+| k | Double | 色の黒成分 |
 | patternName | String | パターンの名前。 |
 
-### See Also
+### 関連項目
 
 * class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -112,19 +112,21 @@ public SetAdvancedColorStroke(double c, double m, double y, double k, string pat
 
 ## SetAdvancedColorStroke(double[], string) {#constructor_5}
 
-scn オペレーターのコンストラクタ。
+scn 演算子のコンストラクタです。
 
 ```csharp
 public SetAdvancedColorStroke(double[] colors, string patternName)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | patternName | Double[] | パターン名。 |
-| colors | String | 色の配列。 |
+| 色 | String | 色配列。 |
 
-### See Also
+### 関連項目
 
 * class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

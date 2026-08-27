@@ -1,14 +1,14 @@
 ---
-title: Class CreateFineTuningJobRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CreateFineTuningJobRequest クラス。Create FineTuning Job エンドポイントへのリクエストを表します。
+title: "クラス CreateFineTuningJobRequest"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.CreateFineTuningJobRequest クラス。Create FineTuning Job エンドポイントへのリクエストを表します。"
 type: docs
-weight: 280
+weight: 290
 url: /ja/net/aspose.pdf.ai/createfinetuningjobrequest/
 ---
-## CreateFineTuningJobRequest クラス
+## CreateFineTuningJobRequest class
 
-Create Fine-Tuning Job エンドポイントへのリクエストを表します。
+Fine-Tuning ジョブ作成エンドポイントへのリクエストを表します。
 
 ```csharp
 public class CreateFineTuningJobRequest
@@ -18,17 +18,19 @@ public class CreateFineTuningJobRequest
 
 | 名前 | 説明 |
 | --- | --- |
-| [CreateFineTuningJobRequest](createfinetuningjobrequest/)() | デフォルトコンストラクタ。 |
+| [CreateFineTuningJobRequest](createfinetuningjobrequest/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Hyperparameters](../../aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/) { get; set; } | ファインチューニングジョブに使用されるハイパーパラメータを取得または設定します。 |
-| [Model](../../aspose.pdf.ai/createfinetuningjobrequest/model/) { get; set; } | ファインチューニングするモデルの名前を取得または設定します。サポートされているモデルのいずれかを選択できます。 |
-| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobrequest/trainingfile/) { get; set; } | トレーニングデータを含むアップロードされたファイルのIDを取得または設定します。 |
+| [Hyperparameters](../../aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/) { get; set; } | ファインチューニングジョブで使用されるハイパーパラメータを取得または設定します。 |
+| [Model](../../aspose.pdf.ai/createfinetuningjobrequest/model/) { get; set; } | ファインチューニング対象のモデル名を取得または設定します。サポートされているモデルから選択できます。 |
+| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobrequest/trainingfile/) { get; set; } | トレーニングデータを含むアップロードされたファイルの ID を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

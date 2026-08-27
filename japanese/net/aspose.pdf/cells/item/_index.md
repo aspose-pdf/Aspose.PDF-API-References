@@ -1,12 +1,12 @@
 ---
-title: Cells.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Cells プロパティ。セルを取得または設定します
+title: "Cells.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Cells プロパティ。セルを取得または設定"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/cells/item/
 ---
-## Cells インデクサー
+## Cells indexer
 
 セルを取得または設定します。
 
@@ -16,11 +16,13 @@ public Cell this[int index] { get; set; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | セルのインデックス。 |
+| インデックス | セルインデックス。 |
 
-### 参照
+### 関連項目
 
 * class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

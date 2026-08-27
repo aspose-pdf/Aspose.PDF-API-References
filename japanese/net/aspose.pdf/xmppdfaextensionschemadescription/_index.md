@@ -1,20 +1,20 @@
 ---
-title: Class XmpPdfAExtensionSchemaDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionSchemaDescription クラス。PDF/A-1 によって提供される XMP 拡張スキーマの説明を表します。
+title: "クラス XmpPdfAExtensionSchemaDescription"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.XmpPdfAExtensionSchemaDescription クラス。PDF/A1 が提供する XMP 拡張スキーマの説明を表します。"
 type: docs
-weight: 11480
+weight: 11670
 url: /ja/net/aspose.pdf/xmppdfaextensionschemadescription/
 ---
-## XmpPdfAExtensionSchemaDescription クラス
+## XmpPdfAExtensionSchemaDescription class
 
-PDF/A-1 によって提供される XMP 拡張スキーマの説明を表します。
+PDF/A-1 が提供する XMP 拡張スキーマの説明を表します。
 
 ```csharp
 public class XmpPdfAExtensionSchemaDescription
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -32,9 +32,11 @@ public class XmpPdfAExtensionSchemaDescription
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetXml](../../aspose.pdf/xmppdfaextensionschemadescription/getxml/)(XmlDocument) | XML ツリー内のスキーマ説明を表す XML 要素のリストを返します。 |
+| [GetXml](../../aspose.pdf/xmppdfaextensionschemadescription/getxml/)(XmlDocument) | XML ツリー内でスキーマ説明を表す XML 要素のリストを返します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

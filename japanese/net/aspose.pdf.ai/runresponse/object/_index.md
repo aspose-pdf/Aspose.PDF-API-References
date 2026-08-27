@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse プロパティ。常に thread.run であるオブジェクトタイプを取得または設定します。
+title: "RunResponse.Object"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RunResponse プロパティ。オブジェクトタイプを取得または設定します（常に thread.run です）。"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.ai/runresponse/object/
 ---
-## RunResponse.Object プロパティ
+## RunResponse.Object property
 
-常に thread.run であるオブジェクトタイプを取得または設定します。
+オブジェクトのタイプを取得または設定します。これは常に thread.run です。
 
 ```csharp
 public string Object { get; set; }
@@ -19,3 +19,5 @@ public string Object { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

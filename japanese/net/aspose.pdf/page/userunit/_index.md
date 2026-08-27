@@ -1,21 +1,23 @@
 ---
-title: Page.UserUnit
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。UserUnit 値を取得または設定します。1 / 72 インチの倍数で、デフォルトのユーザースペース単位のサイズを示す正の数です。デフォルト値は 1 です。このエントリをページからクリアするには、ゼロまたは負の値を設定してください。
+title: "Page.UserUnit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。UserUnit の値を取得または設定します。デフォルトのユーザー空間単位のサイズを 1/72 インチの倍数で示す正の数です。デフォルト値は 1 です。このエントリをクリアするには、0 または負の値を設定してください。"
 type: docs
 weight: 300
 url: /ja/net/aspose.pdf/page/userunit/
 ---
-## Page.UserUnit プロパティ
+## Page.UserUnit property
 
-UserUnit 値を取得または設定します。1 / 72 インチの倍数で、デフォルトのユーザースペース単位のサイズを示す正の数です。デフォルト値は 1 です。このエントリをページからクリアするには、ゼロまたは負の値を設定してください。
+UserUnit の値を取得または設定します。デフォルトのユーザースペース単位のサイズを 1/72 インチの倍数で示す正の数です。デフォルト値は 1 です。このエントリをページからクリアするには、0 または負の値を設定してください。
 
 ```csharp
 public double UserUnit { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

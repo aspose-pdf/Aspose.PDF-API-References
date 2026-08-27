@@ -1,12 +1,12 @@
 ---
-title: Enum Direction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Direction 列挙型。テキストの方向
+title: "列挙体 Direction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Direction 列挙体。テキストの方向"
 type: docs
-weight: 3730
+weight: 3850
 url: /ja/net/aspose.pdf/direction/
 ---
-## 方向列挙型
+## Direction enumeration
 
 テキストの方向。
 
@@ -21,7 +21,9 @@ public enum Direction
 | L2R | `0` | 左から右への方向。 |
 | R2L | `1` | 右から左への方向。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FloatingBox.IsNeedRepeating
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox プロパティ。段落が次のページで繰り返される必要があるかどうかを示す bool 値を取得または設定します。デフォルト値は false です。この属性は、段落自体とその ReferenceParagraphID が参照するオブジェクトの両方が RepeatingRows に含まれている場合にのみ有効です。
+title: "FloatingBox.IsNeedRepeating"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FloatingBox プロパティ。段落を次のページで繰り返す必要があるかどうかを示す bool 値を取得または設定します。デフォルト値は false です。この属性は、段落自体とその ReferenceParagraphID が指すオブジェクトの両方が RepeatingRows に含まれている場合にのみ有効です"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/floatingbox/isneedrepeating/
 ---
-## FloatingBox.IsNeedRepeating プロパティ
+## FloatingBox.IsNeedRepeating property
 
-段落が次のページで繰り返される必要があるかどうかを示す bool 値を取得または設定します。デフォルト値は false です。この属性は、段落自体とその ReferenceParagraphID が参照するオブジェクトの両方が RepeatingRows に含まれている場合にのみ有効です。
+取得または設定する bool 値は、段落を次のページで繰り返す必要があるかどうかを示します。デフォルト値は false です。この属性は、段落自体と、その ReferenceParagraphID が参照するオブジェクトの両方が RepeatingRows に含まれている場合にのみ有効です。
 
 ```csharp
 public bool IsNeedRepeating { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FloatingBox](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

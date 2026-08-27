@@ -1,27 +1,29 @@
 ---
-title: Field.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Field メソッド。指定されたインデックスから始まる配列にこのフィールドのサブフィールドをコピーします
+title: "Field.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Field メソッド。このフィールドのサブフィールドを指定されたインデックスから配列にコピーします"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.forms/field/copyto/
 ---
-## Field.CopyTo メソッド
+## Field.CopyTo method
 
-指定されたインデックスから始まる配列にこのフィールドのサブフィールドをコピーします。
+このフィールドのサブフィールドを、指定されたインデックスから配列にコピーします。
 
 ```csharp
 public void CopyTo(WidgetAnnotation[] array, int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | WidgetAnnotation[] | フィールドがコピーされる配列。 |
-| index | Int32 | フィールドがコピーされる開始インデックス。 |
+| 配列 | WidgetAnnotation[] | フィールドをコピーする配列 |
+| インデックス | Int32 | フィールドがコピーされる開始インデックス |
 
-### 参照
+### 関連項目
 
-* クラス [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* クラス [Field](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

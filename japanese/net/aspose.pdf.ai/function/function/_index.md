@@ -1,21 +1,23 @@
 ---
-title: Function.Function
-second_title: Aspose.PDF for .NET API Reference
-description: 関数コンストラクタ。デフォルトのコンストラクタ
+title: "Function.Function"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Function コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/function/function/
 ---
-## 関数コンストラクタ
+## Function constructor
 
-デフォルトのコンストラクタです。
+デフォルトコンストラクタです。
 
 ```csharp
 public Function()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Function](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Function](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ParagraphAbsorberOptions.ParagraphAbsorberOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorberOptions コンストラクタ。デフォルトコンストラクタ
+title: "ParagraphAbsorberOptions.ParagraphAbsorberOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ParagraphAbsorberOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/paragraphabsorberoptions/paragraphabsorberoptions/
 ---
-## ParagraphAbsorberOptions コンストラクタ
+## ParagraphAbsorberOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public ParagraphAbsorberOptions()
 * class [ParagraphAbsorberOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

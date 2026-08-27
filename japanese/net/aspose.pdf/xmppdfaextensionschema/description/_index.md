@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.Description
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema プロパティ。スキーマの説明を取得します
+title: "XmpPdfAExtensionSchema.Description"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionSchema プロパティ。スキーマの説明を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/xmppdfaextensionschema/description/
 ---
-## XmpPdfAExtensionSchema.Description プロパティ
+## XmpPdfAExtensionSchema.Description property
 
 スキーマの説明を取得します。
 
@@ -14,9 +14,11 @@ url: /ja/net/aspose.pdf/xmppdfaextensionschema/description/
 public XmpPdfAExtensionSchemaDescription Description { get; }
 ```
 
-### 参照
+### 関連項目
 
 * class [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

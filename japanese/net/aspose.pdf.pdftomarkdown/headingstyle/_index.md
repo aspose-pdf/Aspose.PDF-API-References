@@ -1,14 +1,14 @@
 ---
-title: Enum HeadingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfToMarkdown.HeadingStyle 列挙型。見出しのための利用可能なシリアル化スタイルを定義します。仕様については CommonMark - ATX 見出しおよび CommonMark - Setext 見出しを参照してください。
+title: "列挙型 HeadingStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PdfToMarkdown.HeadingStyle 列挙型。見出しの利用可能なシリアライズスタイルを定義します。仕様については、CommonMark の ATX 見出しおよび CommonMark の Setext 見出しをご参照ください。"
 type: docs
 weight: 8390
 url: /ja/net/aspose.pdf.pdftomarkdown/headingstyle/
 ---
-## HeadingStyle 列挙型
+## HeadingStyle enumeration
 
-見出しのための利用可能なシリアル化スタイルを定義します。仕様については CommonMark - ATX 見出しおよび CommonMark - Setext 見出しを参照してください。
+見出しの利用可能なシリアライズスタイルを定義します。仕様については CommonMark - ATX headings、または CommonMark - Setext headings を参照してください。
 
 ```csharp
 public enum HeadingStyle
@@ -18,10 +18,12 @@ public enum HeadingStyle
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Atx | `0` | 見出しを '#' でプレフィックスします |
-| Setext | `1` | レベル 1 および 2 の見出しをそれぞれ "======" と "------" でアンダースコアします |
+| Atx | `0` | 見出しの前に '#' を付けます |
+| Setext | `1` | レベル 1 と 2 の見出しをそれぞれ "======" と "------" で下線します |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../)
+
+

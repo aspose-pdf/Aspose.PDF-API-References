@@ -1,12 +1,12 @@
 ---
-title: FormDataConverter.ConvertToDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter メソッド。ストリームのファイルをテーブルに変換します
+title: "FormDataConverter.ConvertToDataTable"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormDataConverter メソッド。ストリームのファイルをテーブルに変換します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/formdataconverter/converttodatatable/
 ---
-## FormDataConverter.ConvertToDataTable メソッド
+## FormDataConverter.ConvertToDataTable method
 
 ストリームのファイルをテーブルに変換します。
 
@@ -14,10 +14,10 @@ url: /ja/net/aspose.pdf.facades/formdataconverter/converttodatatable/
 public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | sourceStreams | Stream[] | 指定された形式のソースストリームの配列。 |
-| sourceType | DataType | ストリーム内のデータの形式。 有効な値は: PDF, FDF, XFDF, XML。 |
+| sourceType | DataType | ストリーム内データの形式。有効な値は: PDF, FDF, XFDF, XMLです。 |
 
 ## 例
 
@@ -41,3 +41,5 @@ stream.Close();
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

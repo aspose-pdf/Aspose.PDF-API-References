@@ -1,14 +1,14 @@
 ---
-title: Class PageActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageActionCollection クラス。このクラスはページアクションを説明します
+title: "クラス PageActionCollection"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PageActionCollection クラス。このクラスはページアクションを記述します。"
 type: docs
-weight: 8070
+weight: 8210
 url: /ja/net/aspose.pdf/pageactioncollection/
 ---
-## PageActionCollection クラス
+## PageActionCollection class
 
-このクラスはページアクションを説明します
+このクラスは page アクションを記述します。
 
 ```csharp
 public class PageActionCollection : BaseActionCollection
@@ -18,17 +18,19 @@ public class PageActionCollection : BaseActionCollection
 
 | 名前 | 説明 |
 | --- | --- |
-| [OnClose](../../aspose.pdf/pageactioncollection/onclose/) { get; set; } | ページが閉じられたときに実行されるアクション。 |
-| [OnOpen](../../aspose.pdf/pageactioncollection/onopen/) { get; set; } | ページが開かれたときに実行されるアクション。 |
+| [OnClose](../../aspose.pdf/pageactioncollection/onclose/) { get; set; } | ページが閉じられたときに実行されるアクションです。 |
+| [OnOpen](../../aspose.pdf/pageactioncollection/onopen/) { get; set; } | ページが開かれたときに実行されるアクションです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | アノテーションのすべてのアクションを削除します。 |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Annotation のすべてのアクションを削除します。 |
 
-### 参照
+### 関連項目
 
-* クラス [BaseActionCollection](../baseactioncollection/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [BaseActionCollection](../baseactioncollection/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

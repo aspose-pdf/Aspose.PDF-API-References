@@ -1,12 +1,12 @@
 ---
-title: RunCreateRequest.RunCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: RunCreateRequest コンストラクタ。デフォルトコンストラクタ
+title: "RunCreateRequest.RunCreateRequest"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RunCreateRequest コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/runcreaterequest/runcreaterequest/
 ---
-## RunCreateRequest コンストラクタ
+## RunCreateRequest constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public RunCreateRequest()
 * class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ElementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: ElementCollection メソッド。コレクションを反復処理する列挙子を返します
+title: "ElementCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ElementCollection メソッド。コレクションを反復処理する列挙子を返します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.structure/elementcollection/getenumerator/
 ---
-## ElementCollection.GetEnumerator メソッド
+## ElementCollection.GetEnumerator method
 
 コレクションを反復処理する列挙子を返します。
 
@@ -18,9 +18,11 @@ public IEnumerator<Element> GetEnumerator()
 
 要素の列挙子。
 
-### 参照
+### 関連項目
 
-* クラス [Element](../../element/)
-* クラス [ElementCollection](../)
-* 名前空間 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

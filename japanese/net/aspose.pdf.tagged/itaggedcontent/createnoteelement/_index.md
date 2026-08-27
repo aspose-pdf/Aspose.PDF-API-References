@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateNoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。NoteElement を作成します
+title: "ITaggedContent.CreateNoteElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。NoteElement を作成します"
 type: docs
-weight: 190
+weight: 220
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createnoteelement/
 ---
-## ITaggedContent.CreateNoteElement メソッド
+## ITaggedContent.CreateNoteElement method
 
-[`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement/) を作成します。
+作成します [`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement/)。
 
 ```csharp
 public NoteElement CreateNoteElement()
@@ -16,11 +16,13 @@ public NoteElement CreateNoteElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

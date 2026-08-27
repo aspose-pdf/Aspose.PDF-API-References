@@ -1,26 +1,26 @@
 ---
-title: Splitter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Splitter メソッド。指定されたパラメータで Splitter 処理を開始します
+title: "Splitter.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Splitter メソッド。指定されたパラメータで Splitter の処理を開始します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/splitter/process/
 ---
-## Splitter.Process メソッド
+## Splitter.Process method
 
-指定されたパラメータで [`Splitter`](../) 処理を開始します。
+指定されたパラメータで [`Splitter`](../) の処理を開始します。
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | IPluginOptions | [`Splitter`](../) のための指示を含むオプションオブジェクト。 |
+| options | IPluginOptions | `[`Splitter`](../)` の指示を含むオプションオブジェクトです。 |
 
 ### 戻り値
 
-操作の結果を含む ResultContainer オブジェクト。
+操作の結果を含む ResultContainer オブジェクトです。
 
 ### 例外
 
@@ -28,10 +28,12 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- |
 | InvalidOperationException |  |
 
-### 参照
+### 関連項目
 
-* クラス [ResultContainer](../../resultcontainer/)
-* インターフェース [IPluginOptions](../../ipluginoptions/)
-* クラス [Splitter](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Splitter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

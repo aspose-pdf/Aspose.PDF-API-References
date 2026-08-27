@@ -1,12 +1,12 @@
 ---
-title: PdfSaveOptions.TempPath
-second_title: Aspose.PDF for .NET API Reference
-description: PdfSaveOptions プロパティ。 一時ファイルのパス
+title: "PdfSaveOptions.TempPath"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfSaveOptions プロパティ。一時ファイルのパスです。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/pdfsaveoptions/temppath/
 ---
-## PdfSaveOptions.TempPath プロパティ
+## PdfSaveOptions.TempPath property
 
 一時ファイルのパスです。
 
@@ -16,6 +16,8 @@ public string TempPath { get; set; }
 
 ### 関連項目
 
-* クラス [PdfSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

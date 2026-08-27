@@ -1,26 +1,28 @@
 ---
-title: OutlineItemCollection.OutlineItemCollection
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection コンストラクタ。ルート階層オブジェクトを使用してアウトラインアイテムインスタンスを初期化します。
+title: "OutlineItemCollection.OutlineItemCollection"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineItemCollection コンストラクタ。ルート階層オブジェクトを使用してアウトライン項目のインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/outlineitemcollection/outlineitemcollection/
 ---
-## OutlineItemCollection コンストラクタ
+## OutlineItemCollection constructor
 
-ルート階層オブジェクトを使用してアウトラインアイテムインスタンスを初期化します。
+ルート階層オブジェクトを使用してアウトライン項目インスタンスを初期化します。
 
 ```csharp
 public OutlineItemCollection(OutlineCollection outlines)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outlines | OutlineCollection | アウトラインコレクション。 |
+| アウトライン | OutlineCollection | Outlune コレクション。 |
 
-### 参照
+### 関連項目
 
-* クラス [OutlineCollection](../../outlinecollection/)
-* クラス [OutlineItemCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineCollection](../../outlinecollection/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

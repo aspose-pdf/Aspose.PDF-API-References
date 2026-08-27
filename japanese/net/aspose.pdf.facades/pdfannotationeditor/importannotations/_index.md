@@ -1,23 +1,23 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor メソッド。別の PDF ドキュメントの配列からドキュメントに指定された注釈をインポートします
+title: "PdfAnnotationEditor.ImportAnnotations"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAnnotationEditor メソッド。別の PDF ドキュメントの配列から指定された注釈をドキュメントにインポートします。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/pdfannotationeditor/importannotations/
 ---
 ## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
 
-別の PDF ドキュメントの配列からドキュメントに指定された注釈をインポートします。
+別の PDF ドキュメントの配列から指定された注釈をドキュメントにインポートします。
 
 ```csharp
 public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| annotFile | String[] | ソース注釈を含む PDF ドキュメントのパスの配列。 |
-| annotType | AnnotationType[] | インポートする注釈の種類の配列。 |
+| annotFile | String[] | ソース注釈を含む PDF ドキュメントのパスの配列です。 |
+| annotType | AnnotationType[] | インポートする注釈タイプの配列です。 |
 
 ## 例
 
@@ -30,7 +30,7 @@ editor.ImportAnnotations(paths, annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
@@ -47,9 +47,9 @@ editor.Save("example_out.pdf");
 public void ImportAnnotations(string[] annotFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| annotFile | String[] | ソース注釈を含む PDF ドキュメントのパスの配列。 |
+| annotFile | String[] | ソース注釈を含む PDF ドキュメントのパスの配列です。 |
 
 ## 例
 
@@ -61,7 +61,7 @@ editor.ImportAnnotations(paths);
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -71,16 +71,16 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
 
-別の PDF ドキュメントストリームの配列からドキュメントに指定された注釈をインポートします。
+別の PDF ドキュメントストリームの配列から指定された注釈をドキュメントにインポートします。
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| annotFileStream | Stream[] | ソース注釈を含む PDF ドキュメントのストリームの配列。 |
-| annotType | AnnotationType[] | インポートする注釈の種類。 |
+| annotFileStream | Stream[] | ソース注釈を含む PDF ドキュメントのストリームの配列です。 |
+| annotType | AnnotationType[] | インポートする注釈タイプです。 |
 
 ## 例
 
@@ -97,7 +97,7 @@ stream[0].Close();
 stream[1].Close();
 ```
 
-### 参照
+### 関連項目
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
@@ -114,9 +114,9 @@ stream[1].Close();
 public void ImportAnnotations(Stream[] annotFileStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| annotFileStream | Stream[] | ソース注釈を含む PDF ドキュメントのストリームの配列。 |
+| annotFileStream | Stream[] | ソース注釈を含む PDF ドキュメントのストリームの配列です。 |
 
 ## 例
 
@@ -132,8 +132,10 @@ streams[0].Close();
 streams[1].Close();
 ```
 
-### 参照
+### 関連項目
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

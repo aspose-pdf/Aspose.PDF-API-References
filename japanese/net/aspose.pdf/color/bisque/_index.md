@@ -1,12 +1,12 @@
 ---
-title: Color.Bisque
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFFFE4C4 のシステム定義カラーを取得します。
+title: "Color.Bisque"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーで、ARGB 値が c FFFFE4C4 のものを取得します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/color/bisque/
 ---
-## Color.Bisque プロパティ
+## Color.Bisque property
 
 ARGB 値が \c \#FFFFE4C4 のシステム定義カラーを取得します。
 
@@ -18,8 +18,10 @@ public static Color Bisque { get; }
 
 システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class FormEditorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditorOptions クラス。FormEditor プラグインのオプションを表します
+title: "クラス FormEditorOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.FormEditorOptions クラス。FormEditor プラグインのオプションを表します。"
 type: docs
-weight: 8640
+weight: 8770
 url: /ja/net/aspose.pdf.plugins/formeditoroptions/
 ---
-## FormEditorOptions クラス
+## FormEditorOptions class
 
-[`FormEditor`](../formeditor/) プラグインのオプションを表します。
+`[`FormEditor`](../formeditor/)` プラグインのオプションを表します。
 
 ```csharp
 public abstract class FormEditorOptions : FormOptions
@@ -28,8 +28,10 @@ public abstract class FormEditorOptions : FormOptions
 | [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Form... プラグインのデータコレクションに新しいデータソースを追加します。 |
 | [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Form... プラグインのデータコレクションに新しいデータソースを追加します。 |
 
-### 参照
+### 関連項目
 
-* クラス [FormOptions](../formoptions/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* class [FormOptions](../formoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Measure.YFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Measure プロパティ。y 軸に沿った変化の測定のための数値フォーマット配列
+title: "Measure.YFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Measure プロパティ。y 軸方向の変化の測定のための数値書式配列です。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.annotations/measure/yformat/
 ---
-## Measure.YFormat プロパティ
+## Measure.YFormat property
 
-y 軸に沿った変化の測定のための数値フォーマット配列です。
+Y 軸方向の変化測定用の数値書式配列です。
 
 ```csharp
 public NumberFormatList YFormat { get; set; }
@@ -20,3 +20,5 @@ public NumberFormatList YFormat { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

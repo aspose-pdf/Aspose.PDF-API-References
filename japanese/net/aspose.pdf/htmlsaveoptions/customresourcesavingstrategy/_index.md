@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.CustomResourceSavingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions フィールド。このフィールドには、保存された HTML のノードに関連する画像やフォントなどの作成された参照リソースファイルのカスタマイズされた処理のために、変換中に存在する場合に使用される必要がある保存戦略を含めることができます。その戦略はリソースを処理し、生成された HTML 内の保存されたリソースの望ましい URL を表す文字列を返す必要があります。
+title: "HtmlSaveOptions.CustomResourceSavingStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions フィールド。このフィールドには、変換中に作成された参照リソースファイル（画像やフォントなど）をカスタマイズして処理するための保存戦略を含めることができます。その戦略はリソースを処理し、生成された HTML で保存されたリソースの望ましい URL を表す文字列を返す必要があります。"
 type: docs
 weight: 290
 url: /ja/net/aspose.pdf/htmlsaveoptions/customresourcesavingstrategy/
 ---
-## HtmlSaveOptions.CustomResourceSavingStrategy フィールド
+## HtmlSaveOptions.CustomResourceSavingStrategy field
 
-このフィールドには、保存された HTML のノードに関連する作成された参照リソースファイル（画像やフォントなど）のカスタマイズされた処理のために、変換中に存在する場合に使用される必要がある保存戦略を含めることができます。その戦略はリソースを処理し、生成された HTML 内の保存されたリソースの望ましい URL を表す文字列を返す必要があります。
+このフィールドには、変換中に使用すべき（存在する場合）カスタマイズされたリソースファイル（画像やフォントなど）の保存戦略を指定できます。保存された HTML のノードに関連する参照リソースファイルを処理し、生成された HTML で使用する望ましい URL を表す文字列を返す必要があります。
 
 ```csharp
 public ResourceSavingStrategy CustomResourceSavingStrategy;
 ```
 
-### 参照
+### 関連項目
 
 * delegate [ResourceSavingStrategy](../../htmlsaveoptions.resourcesavingstrategy/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

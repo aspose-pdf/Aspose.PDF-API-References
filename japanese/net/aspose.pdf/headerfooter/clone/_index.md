@@ -1,12 +1,12 @@
 ---
-title: HeaderFooter.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooter メソッド。新しいオブジェクトをクローンします
+title: "HeaderFooter.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HeaderFooter メソッド。新しいオブジェクトをクローンします"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/headerfooter/clone/
 ---
-## HeaderFooter.Clone メソッド
+## HeaderFooter.Clone method
 
 新しいオブジェクトをクローンします。
 
@@ -18,8 +18,10 @@ public object Clone()
 
 新しいオブジェクト。
 
-### 参照
+### 関連項目
 
-* クラス [HeaderFooter](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class SelectorRendition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SelectorRendition クラス。クラスはセレクタレンディションを説明します
+title: "クラス SelectorRendition"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.SelectorRendition クラス。クラスはセレクターレンダリングを記述します。"
 type: docs
-weight: 2520
+weight: 2620
 url: /ja/net/aspose.pdf.annotations/selectorrendition/
 ---
-## SelectorRendition クラス
+## SelectorRendition class
 
-クラスはセレクタレンディションを説明します。
+セレクターレンディションを記述するクラス。
 
 ```csharp
 public sealed class SelectorRendition : Rendition
@@ -18,12 +18,14 @@ public sealed class SelectorRendition : Rendition
 
 | 名前 | 説明 |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | ユーザーインターフェイスで使用するためのレンディションの名前を指定するテキスト文字列およびJavaScriptアクションによる名前ツリーの検索に使用されます。 |
-| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | レンディションの配列を取得します。 |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | レンディションタイプを取得します。 |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | ユーザーインターフェイスで使用し、JavaScript アクションによる名前ツリー検索に利用するための、レンダレーション名を指定するテキスト文字列。 |
+| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | レンダリングの配列を取得します。 |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | レンダレーションのタイプを取得します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Rendition](../rendition/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Rendition](../rendition/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

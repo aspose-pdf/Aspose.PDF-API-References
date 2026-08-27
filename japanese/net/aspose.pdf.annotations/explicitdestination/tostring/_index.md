@@ -1,12 +1,12 @@
 ---
-title: ExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ExplicitDestination メソッド。ExplicitDestination オブジェクトの文字列表現を返します
+title: "ExplicitDestination.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ExplicitDestination メソッド。ExplicitDestination オブジェクトの文字列表現を返します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/explicitdestination/tostring/
 ---
-## ExplicitDestination.ToString メソッド
+## ExplicitDestination.ToString method
 
 ExplicitDestination オブジェクトの文字列表現を返します。
 
@@ -18,8 +18,10 @@ public abstract string ToString()
 
 文字列表現。
 
-### 参照
+### 関連項目
 
-* クラス [ExplicitDestination](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

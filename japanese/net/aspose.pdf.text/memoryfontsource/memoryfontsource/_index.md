@@ -1,12 +1,12 @@
 ---
-title: MemoryFontSource.MemoryFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: MemoryFontSource コンストラクタ。MemoryFontSource クラスの新しいインスタンスを初期化します
+title: "MemoryFontSource.MemoryFontSource"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MemoryFontSource コンストラクタ。MemoryFontSource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/memoryfontsource/memoryfontsource/
 ---
-## MemoryFontSource コンストラクタ
+## MemoryFontSource constructor
 
 [`MemoryFontSource`](../) クラスの新しいインスタンスを初期化します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.text/memoryfontsource/memoryfontsource/
 public MemoryFontSource(byte[] fontBytes)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fontBytes | Byte[] | フォントファイルのバイト配列。 |
 
-### 参照
+### 関連項目
 
-* クラス [MemoryFontSource](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MemoryFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

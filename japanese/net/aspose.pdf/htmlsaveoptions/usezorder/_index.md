@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.UseZOrder
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions プロパティ。属性 UseZOrder が true に設定されている場合、グラフィックスとテキストは元の PDF ドキュメントの Z オーダーに応じて結果の HTML ドキュメントに追加されます。この属性が false の場合、すべてのグラフィックスは単一のレイヤーとして配置され、重なったオブジェクトに対して不必要な効果を引き起こす可能性があります。
+title: "HtmlSaveOptions.UseZOrder"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions プロパティ。属性 UseZORder が true に設定されている場合、元の PDF ドキュメントの Zorder に従ってグラフィックとテキストが結果の HTML ドキュメントに追加されます。この属性が false の場合、すべてのグラフィックが単一レイヤーとして配置され、重なったオブジェクトに不要な影響を与える可能性があります。"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf/htmlsaveoptions/usezorder/
 ---
-## HtmlSaveOptions.UseZOrder プロパティ
+## HtmlSaveOptions.UseZOrder property
 
-属性 UseZOrder が true に設定されている場合、グラフィックスとテキストは元の PDF ドキュメントの Z オーダーに応じて結果の HTML ドキュメントに追加されます。この属性が false の場合、すべてのグラフィックスは単一のレイヤーとして配置され、重なったオブジェクトに対して不必要な効果を引き起こす可能性があります。
+属性 UseZORder が true に設定されている場合、元の PDF 文書の Z オーダーに従ってグラフィックとテキストが結果の HTML 文書に追加されます。この属性が false の場合、すべてのグラフィックが単一レイヤーとして配置され、重なったオブジェクトに不要な影響を与える可能性があります。
 
 ```csharp
 public bool UseZOrder { get; set; }
@@ -16,6 +16,8 @@ public bool UseZOrder { get; set; }
 
 ### 関連項目
 
-* クラス [HtmlSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

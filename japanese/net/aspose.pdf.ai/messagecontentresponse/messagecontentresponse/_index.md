@@ -1,12 +1,12 @@
 ---
-title: MessageContentResponse.MessageContentResponse
-second_title: Aspose.PDF for .NET API Reference
-description: MessageContentResponse コンストラクタ。デフォルトコンストラクタ
+title: "MessageContentResponse.MessageContentResponse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MessageContentResponse コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/messagecontentresponse/messagecontentresponse/
 ---
-## MessageContentResponse コンストラクタ
+## MessageContentResponse constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public MessageContentResponse()
 * class [MessageContentResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

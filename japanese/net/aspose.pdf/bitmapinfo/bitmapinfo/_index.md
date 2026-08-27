@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: BitmapInfo コンストラクタ。クラスの新しいインスタンスを作成します
+title: "BitmapInfo.BitmapInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BitmapInfo コンストラクタ。クラスの新しいインスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/bitmapinfo/bitmapinfo/
 ---
-## BitmapInfo コンストラクタ
+## BitmapInfo constructor
 
 クラスの新しいインスタンスを作成します。
 
@@ -14,12 +14,12 @@ url: /ja/net/aspose.pdf/bitmapinfo/bitmapinfo/
 public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pixelBytes | Byte[] | ピクセルの配列。 |
 | width | Int32 | ビットマップの幅。 |
 | height | Int32 | ビットマップの高さ。 |
-| format | PixelFormat | ビットマップのピクセル形式。 |
+| フォーマット | PixelFormat | ビットマップのピクセル形式。 |
 
 ### 関連項目
 
@@ -27,3 +27,5 @@ public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
 * class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

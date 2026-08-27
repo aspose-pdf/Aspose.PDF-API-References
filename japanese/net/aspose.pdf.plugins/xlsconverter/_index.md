@@ -1,12 +1,12 @@
 ---
-title: Class XlsConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.XlsConverter クラス。XlsConverter プラグインを表します
+title: "クラス XlsConverter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.XlsConverter クラス。XlsConverter プラグインを表します"
 type: docs
-weight: 9450
+weight: 9600
 url: /ja/net/aspose.pdf.plugins/xlsconverter/
 ---
-## XlsConverter クラス
+## XlsConverter class
 
 `XlsConverter` プラグインを表します。
 
@@ -14,37 +14,39 @@ url: /ja/net/aspose.pdf.plugins/xlsconverter/
 public sealed class XlsConverter : IDisposable, IPlugin
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [XlsConverter](xlsconverter/)() | デフォルトコンストラクター。 |
+| [XlsConverter](xlsconverter/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/xlsconverter/dispose/)() | IDisposable の実装。 |
-| [Process](../../aspose.pdf.plugins/xlsconverter/process/)(IPluginOptions) | 指定されたパラメーターで PdfToExcel 処理を開始します。 |
+| [Dispose](../../aspose.pdf.plugins/xlsconverter/dispose/)() | IDisposable の実装です。 |
+| [Process](../../aspose.pdf.plugins/xlsconverter/process/)(IPluginOptions) | 指定されたパラメータで PdfToExcel の処理を開始します。 |
 
 ## 例
 
-この例は、PDF を XLSX ドキュメントに変換する方法を示しています。
+この例は PDF を XLSX ドキュメントに変換する方法を示しています。
 
 ```csharp
-// create XlsConverter converter
+// XlsConverter コンバータを作成します
 var converter = new XlsConverter();
-// create PdfToXLSOptions 
+// PdfToXLSOptions を作成します
 var opt = new PdfToXLSOptions();
-// add input file path
+// 入力ファイルパスを追加します
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// 出力ファイル パスを設定する
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
-### 参照
+### 関連項目
 
-* インターフェース [IPlugin](../iplugin/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

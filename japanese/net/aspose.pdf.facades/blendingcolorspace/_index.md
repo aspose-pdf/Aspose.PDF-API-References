@@ -1,14 +1,14 @@
 ---
-title: Enum BlendingColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.BlendingColorSpace 列挙型。クラスはブレンディングカラースペースを表します
+title: "列挙体 BlendingColorSpace"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.BlendingColorSpace 列挙体。ブレンドカラー空間を表すクラス。"
 type: docs
-weight: 4180
+weight: 4300
 url: /ja/net/aspose.pdf.facades/blendingcolorspace/
 ---
-## BlendingColorSpace 列挙型
+## BlendingColorSpace enumeration
 
-クラスはブレンディングカラースペースを表します。
+ブレンドカラー空間を表すクラスです。
 
 ```csharp
 public enum BlendingColorSpace
@@ -18,12 +18,14 @@ public enum BlendingColorSpace
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| DontChange | `0` | ブレンディングカラースペースは変更されません。 |
-| Auto | `1` | ブレンディングカラースペースは自動的に決定されます。 |
-| DeviceRGB | `2` | ブレンディングカラースペースは DeviceRGB に設定されます。 |
-| DeviceCMYK | `3` | ブレンディングカラースペースは DeviceCMYK に設定されます。 |
+| DontChange | `0` | ブレンドカラー空間は変更されません。 |
+| Auto | `1` | ブレンドカラー空間は自動的に決定されます。 |
+| DeviceRGB | `2` | ブレンドカラー空間は DeviceRGB に設定されています。 |
+| DeviceCMYK | `3` | ブレンドカラー空間は DeviceCMYK に設定されています。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

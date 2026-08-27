@@ -1,7 +1,7 @@
 ---
-title: PdfFormatConversionOptions.PdfFormatConversionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions コンストラクタ。コンストラクタ
+title: "PdfFormatConversionOptions.PdfFormatConversionOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFormatConversionOptions コンストラクタ。コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
@@ -15,11 +15,11 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
     ConvertErrorAction action)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputLogFileName | String | コメントが保存されるファイルへのパス。 |
-| format | PdfFormat | PDFフォーマット。 |
-| action | ConvertErrorAction | 変換できないオブジェクトに対するアクション |
+| フォーマット | PdfFormat | PDF フォーマット。 |
+| アクション | ConvertErrorAction | 変換できないオブジェクトに対するアクション |
 
 ### 関連項目
 
@@ -39,10 +39,10 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputLogFileName | String | コメントが保存されるファイルへのパス。 |
-| format | PdfFormat | PDFフォーマット。 |
+| フォーマット | PdfFormat | PDF フォーマット。 |
 
 ### 関連項目
 
@@ -61,9 +61,9 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 public PdfFormatConversionOptions(PdfFormat format)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| format | PdfFormat | PDFフォーマット。 |
+| フォーマット | PdfFormat | PDF フォーマット。 |
 
 ### 関連項目
 
@@ -82,10 +82,10 @@ public PdfFormatConversionOptions(PdfFormat format)
 public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| format | PdfFormat | PDFフォーマット。 |
-| action | ConvertErrorAction | 変換できないオブジェクトに対するアクション |
+| フォーマット | PdfFormat | PDF フォーマット。 |
+| アクション | ConvertErrorAction | 変換できないオブジェクトに対するアクション |
 
 ### 関連項目
 
@@ -106,12 +106,12 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
     ConvertErrorAction action, ConvertTransparencyAction transparencyAction)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputLogFileName | String | コメントが保存されるファイルへのパス。 |
-| format | PdfFormat | PDFフォーマット。 |
-| action | ConvertErrorAction | 変換できないオブジェクトに対するアクション |
-| transparencyAction | ConvertTransparencyAction | 画像マスクオブジェクトに対するアクション |
+| フォーマット | PdfFormat | PDF フォーマット。 |
+| アクション | ConvertErrorAction | 変換できないオブジェクトに対するアクション |
+| transparencyAction | ConvertTransparencyAction | 画像マスクオブジェクトに対するアクション。 |
 
 ### 関連項目
 
@@ -133,11 +133,11 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
     ConvertErrorAction action)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputLogStream | Stream | コメントが保存されるストリーム |
-| format | PdfFormat | PDFフォーマット |
-| action | ConvertErrorAction | 変換できないオブジェクトに対するアクション |
+| フォーマット | PdfFormat | PDF 形式 |
+| アクション | ConvertErrorAction | 変換できないオブジェクトに対するアクション |
 
 ### 関連項目
 
@@ -146,3 +146,5 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

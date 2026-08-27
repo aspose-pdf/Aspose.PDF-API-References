@@ -1,21 +1,23 @@
 ---
-title: Layer.Unlock
-second_title: Aspose.PDF for .NET API Reference
-description: レイヤーのメソッド。レイヤーを解除します
+title: "Layer.Unlock"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Layer メソッド。レイヤーのロックを解除します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/layer/unlock/
 ---
-## Layer.Unlock メソッド
+## Layer.Unlock method
 
-レイヤーを解除します。
+レイヤーのロックを解除します。
 
 ```csharp
 public void Unlock()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Layer](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

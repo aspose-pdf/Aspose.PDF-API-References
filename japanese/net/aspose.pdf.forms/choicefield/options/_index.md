@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.Options
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField プロパティ。選択肢のオプションのコレクションを取得します
+title: "ChoiceField.Options"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ChoiceField プロパティ。選択肢オプションのコレクションを取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.forms/choicefield/options/
 ---
-## ChoiceField.Options プロパティ
+## ChoiceField.Options property
 
-選択肢のオプションのコレクションを取得します。
+選択肢オプションのコレクションを取得します。
 
 ```csharp
 public virtual OptionCollection Options { get; }
@@ -20,3 +20,5 @@ public virtual OptionCollection Options { get; }
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

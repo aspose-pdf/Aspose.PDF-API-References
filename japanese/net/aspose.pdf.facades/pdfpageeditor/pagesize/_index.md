@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor プロパティ。出力ファイルのページサイズを取得または設定します
+title: "PdfPageEditor.PageSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor プロパティ。取得または設定できる出力ファイルのページサイズ"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/pagesize/
 ---
-## PdfPageEditor.PageSize プロパティ
+## PdfPageEditor.PageSize property
 
 出力ファイルのページサイズを取得または設定します。
 
@@ -20,3 +20,5 @@ public PageSize PageSize { get; set; }
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

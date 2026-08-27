@@ -1,14 +1,14 @@
 ---
-title: Dash.Off
-second_title: Aspose.PDF for .NET API Reference
-description: Dash プロパティ。ダッシュ間の最初の隙間の長さを取得または設定します
+title: "Dash.Off"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Dash プロパティ。ダッシュ間の最初のギャップの長さを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/dash/off/
 ---
-## Dash.Off プロパティ
+## Dash.Off property
 
-ダッシュ間の最初の隙間の長さを取得または設定します。
+最初の破線間の間隔の長さを取得または設定します。
 
 ```csharp
 public int Off { get; set; }
@@ -16,6 +16,8 @@ public int Off { get; set; }
 
 ### 関連項目
 
-* クラス [Dash](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

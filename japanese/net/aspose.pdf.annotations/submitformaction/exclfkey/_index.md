@@ -1,12 +1,12 @@
 ---
-title: SubmitFormAction.ExclFKey
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction フィールド。設定されている場合、送信された FDF は F エントリを除外します
+title: "SubmitFormAction.ExclFKey"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SubmitFormAction フィールド。設定すると、送信された FDF から F エントリが除外されます"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.annotations/submitformaction/exclfkey/
 ---
-## SubmitFormAction.ExclFKey フィールド
+## SubmitFormAction.ExclFKey field
 
 設定されている場合、送信された FDF は F エントリを除外します。
 
@@ -16,6 +16,8 @@ public const int ExclFKey;
 
 ### 関連項目
 
-* クラス [SubmitFormAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

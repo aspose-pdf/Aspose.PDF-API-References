@@ -1,12 +1,12 @@
 ---
-title: CompletionCreateRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionCreateRequest プロパティ。これまでの会話を構成するメッセージのリストを取得または設定します
+title: "CompletionCreateRequest.Messages"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CompletionCreateRequest プロパティ。これまでの会話を構成するメッセージのリストを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.ai/completioncreaterequest/messages/
 ---
-## CompletionCreateRequest.Messages プロパティ
+## CompletionCreateRequest.Messages property
 
 これまでの会話を構成するメッセージのリストを取得または設定します。
 
@@ -20,3 +20,5 @@ public List<ChatMessage> Messages { get; set; }
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

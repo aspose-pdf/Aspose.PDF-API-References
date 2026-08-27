@@ -1,30 +1,32 @@
 ---
-title: ElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: ElementCollection メソッド。コレクションからアイテムを削除します
+title: "ElementCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ElementCollection メソッド。コレクションから項目を削除します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.structure/elementcollection/remove/
 ---
-## ElementCollection.Remove メソッド
+## ElementCollection.Remove method
 
-コレクションからアイテムを削除します。
+コレクションから項目を削除します。
 
 ```csharp
 public bool Remove(Element item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | Element | 削除するアイテム。 |
+| アイテム | Element | 削除する項目。 |
 
 ### 戻り値
 
-要素が削除された場合は真。
+要素が削除された場合は true。
 
-### 参照
+### 関連項目
 
-* クラス [Element](../../element/)
-* クラス [ElementCollection](../)
-* 名前空間 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

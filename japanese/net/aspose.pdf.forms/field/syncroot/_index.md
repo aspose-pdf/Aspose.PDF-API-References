@@ -1,21 +1,23 @@
 ---
-title: Field.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: フィールドプロパティ。同期オブジェクト
+title: "Field.SyncRoot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Field プロパティ。同期オブジェクトです。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.forms/field/syncroot/
 ---
-## Field.SyncRoot プロパティ
+## Field.SyncRoot property
 
-同期オブジェクト。
+同期オブジェクトです。
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Field](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

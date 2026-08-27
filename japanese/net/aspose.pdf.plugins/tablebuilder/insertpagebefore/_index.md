@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.InsertPageBefore
-second_title: Aspose.PDF for .NET API Reference
-description: TableBuilder メソッド。指定されたページの前にページを挿入します
+title: "TableBuilder.InsertPageBefore"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableBuilder メソッド。指定されたページの前にページを挿入します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.plugins/tablebuilder/insertpagebefore/
 ---
-## TableBuilder.InsertPageBefore メソッド
+## TableBuilder.InsertPageBefore method
 
 指定されたページの前にページを挿入します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf.plugins/tablebuilder/insertpagebefore/
 public TableOptions InsertPageBefore(int page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Int32 | テーブルを挿入するページ番号。 |
+| ページ | Int32 | テーブルを挿入する対象ページの後のページ番号。 |
 
 ### 戻り値
 
-現在の [`TableOptions`](../../tableoptions/) のインスタンス。
+現在の [`TableOptions`](../../tableoptions/) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [TableOptions](../../tableoptions/)
-* クラス [TableBuilder](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

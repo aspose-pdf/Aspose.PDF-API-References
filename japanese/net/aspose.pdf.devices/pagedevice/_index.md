@@ -1,12 +1,12 @@
 ---
-title: Class PageDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.PageDevice クラス。PDF ドキュメントの特定のページを処理するために使用されるすべてのデバイスの抽象クラス
+title: "クラス PageDevice"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Devices.PageDevice クラス。PDF Document の特定の Page を処理するために使用されるすべてのデバイスの抽象クラスです。"
 type: docs
-weight: 3640
+weight: 3760
 url: /ja/net/aspose.pdf.devices/pagedevice/
 ---
-## PageDevice クラス
+## PageDevice class
 
 PDF ドキュメントの特定のページを処理するために使用されるすべてのデバイスの抽象クラスです。
 
@@ -18,11 +18,13 @@ public abstract class PageDevice : Device
 
 | 名前 | 説明 |
 | --- | --- |
-| abstract [Process](../../aspose.pdf.devices/pagedevice/process/#process)(Page, Stream) | 指定されたページに対して何らかの操作を実行します。たとえば、ページをグラフィック画像に変換します。 |
-| [Process](../../aspose.pdf.devices/pagedevice/process/#process_1)(Page, string) | 指定されたページに対して何らかの操作を実行し、結果をファイルに保存します。 |
+| abstract [Process](../../aspose.pdf.devices/pagedevice/process/#process)(Page, Stream) | 指定された Page でいくつかの操作を実行します。例として、Page をグラフィック画像に変換します。 |
+| [Process](../../aspose.pdf.devices/pagedevice/process/#process_1)(Page, string) | 指定されたページで何らかの操作を実行し、結果をファイルに保存します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Device](../device/)
-* 名前空間 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Device](../device/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

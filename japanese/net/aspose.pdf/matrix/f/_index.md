@@ -1,21 +1,23 @@
 ---
-title: Matrix.F
-second_title: Aspose.PDF for .NET API Reference
-description: マトリックスプロパティ。変換マトリックスの F メンバー
+title: "Matrix.F"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix プロパティ。変換行列の F 成分。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/matrix/f/
 ---
-## Matrix.F プロパティ
+## Matrix.F property
 
-変換マトリックスの F メンバーです。
+変換行列の F メンバーです。
 
 ```csharp
 public double F { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Matrix](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

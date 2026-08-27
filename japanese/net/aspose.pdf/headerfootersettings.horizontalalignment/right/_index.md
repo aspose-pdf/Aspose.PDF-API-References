@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Right
-second_title: Aspose.PDF for .NET API Reference
-description: HorizontalAlignment プロパティ。右揃えの設定を取得または設定します
+title: "HeaderFooterSettings.HorizontalAlignment.Right"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HorizontalAlignment プロパティ。右揃え設定を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/headerfootersettings.horizontalalignment/right/
 ---
-## HeaderFooterSettings.HorizontalAlignment.Right プロパティ
+## HeaderFooterSettings.HorizontalAlignment.Right property
 
-右揃えの設定を取得または設定します。
+右揃え設定を取得または設定します。
 
 ```csharp
 public Right Right { get; set; }
@@ -20,3 +20,5 @@ public Right Right { get; set; }
 * class [HorizontalAlignment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

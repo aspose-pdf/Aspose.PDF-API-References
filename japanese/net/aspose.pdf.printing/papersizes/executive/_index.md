@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Executive
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。エグゼクティブ用紙 7.25 インチ x 10.5 インチ
+title: "PaperSizes.Executive"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。エグゼクティブ用紙 7.25 インチ × 10.5 インチ"
 type: docs
 weight: 410
 url: /ja/net/aspose.pdf.printing/papersizes/executive/
 ---
-## PaperSizes.Executive フィールド
+## PaperSizes.Executive field
 
-エグゼクティブ用紙 (7.25 インチ x 10.5 インチ)。
+エグゼクティブ用紙（7.25インチ x 10.5インチ）。
 
 ```csharp
 public static readonly PaperSize Executive;
@@ -16,7 +16,9 @@ public static readonly PaperSize Executive;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

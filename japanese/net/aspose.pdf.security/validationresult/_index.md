@@ -1,12 +1,12 @@
 ---
-title: Class ValidationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.ValidationResult クラス。証明書の検証プロセスの結果を表します。
+title: "クラス ValidationResult"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Security.ValidationResult クラス。証明書の検証プロセスの結果を表します。"
 type: docs
-weight: 10080
+weight: 10260
 url: /ja/net/aspose.pdf.security/validationresult/
 ---
-## ValidationResult クラス
+## ValidationResult class
 
 証明書の検証プロセスの結果を表します。
 
@@ -23,9 +23,11 @@ public sealed class ValidationResult
 
 ## 備考
 
-ValidationResult クラスは、証明書の検証結果に関する情報を提供し、そのステータスや検証中に発生した問題を説明するメッセージを含みます。
+ValidationResult クラスは、証明書の検証結果に関する情報を提供します。ステータスや、検証中に発生した問題を説明するメッセージを含みます。
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

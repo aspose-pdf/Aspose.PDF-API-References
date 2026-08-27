@@ -1,12 +1,12 @@
 ---
-title: PdfDocument.PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: PdfDocument コンストラクタ。デフォルトコンストラクタ
+title: "PdfDocument.PdfDocument"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfDocument コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/pdfdocument/pdfdocument/
 ---
-## PdfDocument コンストラクタ
+## PdfDocument constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/pdfdocument/pdfdocument/
 public PdfDocument()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfDocument](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

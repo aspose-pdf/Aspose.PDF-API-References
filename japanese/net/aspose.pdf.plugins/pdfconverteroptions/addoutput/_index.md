@@ -1,22 +1,22 @@
 ---
-title: PdfConverterOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverterOptions メソッド。PdfToXLSXConverterOptions プラグインデータコレクションに新しいデータソースを追加します。
+title: "PdfConverterOptions.AddOutput"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfConverterOptions メソッド。PdfToXLSXConverterOptions プラグインのデータコレクションに新しいデータソースを追加します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.plugins/pdfconverteroptions/addoutput/
 ---
-## PdfConverterOptions.AddOutput メソッド
+## PdfConverterOptions.AddOutput method
 
-PdfToXLSXConverterOptions プラグインデータコレクションに新しいデータソースを追加します。
+PdfToXLSXConverterOptions プラグインのデータコレクションに新しいデータソースを追加します。
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| saveDataSource | IDataSource | 保存操作の結果のためのデータソース（ファイルまたはストリーム）。 |
+| saveDataSource | IDataSource | 操作結果を保存するためのデータ ソース（ファイルまたはストリーム）。 |
 
 ### 例外
 
@@ -24,9 +24,11 @@ public void AddOutput(IDataSource saveDataSource)
 | --- | --- |
 | NotImplementedException |  |
 
-### 参照
+### 関連項目
 
-* インターフェース [IDataSource](../../idatasource/)
-* クラス [PdfConverterOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

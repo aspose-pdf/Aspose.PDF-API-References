@@ -1,7 +1,7 @@
 ---
-title: Metadata.RegisterNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: メタデータメソッド。名前空間 URI を登録します
+title: "Metadata.RegisterNamespaceUri"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metadata メソッド。名前空間 URI を登録します。"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf/metadata/registernamespaceuri/
@@ -14,16 +14,16 @@ url: /ja/net/aspose.pdf/metadata/registernamespaceuri/
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | prefix | String | プレフィックスの値。 |
 | namespaceUri | String | 名前空間 URI の値。 |
 
-### 参照
+### 関連項目
 
-* クラス [Metadata](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,14 +35,16 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 public void RegisterNamespaceUri(string prefix, string namespaceUri, string schemaDescription)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | prefix | String | プレフィックスの値。 |
 | namespaceUri | String | 名前空間 URI の値。 |
-| schemaDescription | String | スキーマの説明の値。 |
+| schemaDescription | String | スキーマ記述の値。 |
 
-### 参照
+### 関連項目
 
-* クラス [Metadata](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

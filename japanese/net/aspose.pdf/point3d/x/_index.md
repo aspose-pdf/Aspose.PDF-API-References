@@ -1,14 +1,14 @@
 ---
-title: Point3D.X
-second_title: Aspose.PDF for .NET API Reference
-description: Point3D プロパティ。X 座標値
+title: "Point3D.X"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Point3D プロパティ。X 座標の値"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/point3d/x/
 ---
-## Point3D.X プロパティ
+## Point3D.X property
 
-X 座標値。
+X 座標の値。
 
 ```csharp
 public double X { get; set; }
@@ -16,6 +16,8 @@ public double X { get; set; }
 
 ### 関連項目
 
-* クラス [Point3D](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Point3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

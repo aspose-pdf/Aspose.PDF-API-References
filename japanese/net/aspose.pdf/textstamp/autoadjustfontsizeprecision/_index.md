@@ -1,12 +1,12 @@
 ---
-title: TextStamp.AutoAdjustFontSizePrecision
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp プロパティ。フォントサイズの精度を自動的に調整します。デフォルト値 0.1
+title: "TextStamp.AutoAdjustFontSizePrecision"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextStamp プロパティ。フォントサイズの精度を自動的に調整します。デフォルト値は 0.1 です"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/textstamp/autoadjustfontsizeprecision/
 ---
-## TextStamp.AutoAdjustFontSizePrecision プロパティ
+## TextStamp.AutoAdjustFontSizePrecision property
 
 フォントサイズの精度を自動的に調整します。デフォルト値: 0.1;
 
@@ -16,6 +16,8 @@ public float AutoAdjustFontSizePrecision { get; set; }
 
 ### 関連項目
 
-* クラス [TextStamp](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

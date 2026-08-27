@@ -1,7 +1,7 @@
 ---
-title: Do.Do
-second_title: Aspose.PDF for .NET API Reference
-description: Do コンストラクタ。新しい Do 演算子を構築します
+title: "Do.Do"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Do コンストラクタ。新しい Do 演算子を作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/do/do/
@@ -14,21 +14,21 @@ url: /ja/net/aspose.pdf.operators/do/do/
 public Do(string name)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | 呼び出された XObject の名前。 |
+| 名前 | String | 呼び出された XObject の名前。 |
 
 ### 関連項目
 
-* クラス [Do](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Do](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Do() {#constructor}
 
-新しい Do 演算子を構築します。引数名を確認せずにすべての Do 演算子を取得するために使用されます。
+新しい Do 演算子を構築します。すべての Do 演算子を取得するために使用され、引数名を確認しません。
 
 ```csharp
 public Do()
@@ -36,6 +36,8 @@ public Do()
 
 ### 関連項目
 
-* クラス [Do](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Do](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

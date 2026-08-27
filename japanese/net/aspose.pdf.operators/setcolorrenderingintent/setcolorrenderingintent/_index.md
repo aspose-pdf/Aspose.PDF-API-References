@@ -1,25 +1,27 @@
 ---
-title: SetColorRenderingIntent.SetColorRenderingIntent
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorRenderingIntent コンストラクタ。カラー レンダリング インテント オペレーター コンストラクタ
+title: "SetColorRenderingIntent.SetColorRenderingIntent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetColorRenderingIntent コンストラクタ。カラー描画インテント演算子のコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/setcolorrenderingintent/setcolorrenderingintent/
 ---
-## SetColorRenderingIntent コンストラクタ
+## SetColorRenderingIntent constructor
 
-カラー レンダリング インテント オペレーター コンストラクタです。
+Set Color Rendering Intent 演算子のコンストラクタ。
 
 ```csharp
 public SetColorRenderingIntent(string intentName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| intentName | String | カラー レンダリング インテント。 |
+| intentName | String | カラー描画インテント。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetColorRenderingIntent](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetColorRenderingIntent](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

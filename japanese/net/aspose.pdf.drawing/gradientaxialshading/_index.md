@@ -1,20 +1,20 @@
 ---
-title: Class GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.GradientAxialShading クラス。グラデーション軸方向シェーディングクラスを表します
+title: "クラス GradientAxialShading"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Drawing.GradientAxialShading クラス。グラデーション軸シェーディングクラスを表します。"
 type: docs
-weight: 3920
+weight: 4040
 url: /ja/net/aspose.pdf.drawing/gradientaxialshading/
 ---
-## GradientAxialShading クラス
+## GradientAxialShading class
 
-グラデーション軸方向シェーディングクラスを表します。
+グラデーション軸シェーディング クラスを表します。
 
 ```csharp
 public class GradientAxialShading : PatternColorSpace
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -27,11 +27,13 @@ public class GradientAxialShading : PatternColorSpace
 | --- | --- |
 | [End](../../aspose.pdf.drawing/gradientaxialshading/end/) { get; set; } | 終点を取得または設定します。 |
 | [EndColor](../../aspose.pdf.drawing/gradientaxialshading/endcolor/) { get; set; } | 終了色を取得または設定します。 |
-| [Start](../../aspose.pdf.drawing/gradientaxialshading/start/) { get; set; } | 開始点を取得または設定します。 |
+| [Start](../../aspose.pdf.drawing/gradientaxialshading/start/) { get; set; } | 始点を取得または設定します。 |
 | [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor/) { get; set; } | 開始色を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PatternColorSpace](../patterncolorspace/)
-* 名前空間 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageDate.YearComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: YearComponent メソッド。年コンポーネントのフォーマット文字列を取得します
+title: "PageDate.YearComponent.GetFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "YearComponent メソッド。年コンポーネントの書式文字列を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/pagedate.yearcomponent/getformat/
 ---
-## PageDate.YearComponent.GetFormat メソッド
+## PageDate.YearComponent.GetFormat method
 
-年コンポーネントのフォーマット文字列を取得します。
+年コンポーネントの書式文字列を取得します。
 
 ```csharp
 public string GetFormat()
@@ -16,10 +16,12 @@ public string GetFormat()
 
 ### 戻り値
 
-年フォーマットを表す文字列。
+年の書式を表す文字列です。
 
-### 参照
+### 関連項目
 
-* クラス [YearComponent](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [YearComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

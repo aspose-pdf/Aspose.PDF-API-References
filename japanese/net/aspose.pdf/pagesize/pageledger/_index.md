@@ -1,14 +1,14 @@
 ---
-title: PageSize.PageLedger
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize プロパティ。台帳サイズ 432x279 mm
+title: "PageSize.PageLedger"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageSize プロパティ。Ledger サイズ 432x279 mm"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/pagesize/pageledger/
 ---
-## PageSize.PageLedger プロパティ
+## PageSize.PageLedger property
 
-台帳サイズ (432x279 mm)。
+Ledgerサイズ (432x279 mm)。
 
 ```csharp
 public static PageSize PageLedger { get; }
@@ -16,6 +16,8 @@ public static PageSize PageLedger { get; }
 
 ### 関連項目
 
-* クラス [PageSize](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioHoriz
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor プロパティ。ラジオボタンが水平または垂直に配置されているかどうかを示すフラグ、デフォルト値は true
+title: "FormEditor.RadioHoriz"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor プロパティ。ラジオボタンが水平に配置されるか垂直に配置されるかを示すフラグです。デフォルト値は true です。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/formeditor/radiohoriz/
 ---
-## FormEditor.RadioHoriz プロパティ
+## FormEditor.RadioHoriz property
 
-ラジオボタンが水平または垂直に配置されているかどうかを示すフラグ、デフォルト値は true です。
+ラジオボタンが水平に配置されているか垂直に配置されているかを示すフラグで、デフォルト値は true です。
 
 ```csharp
 public bool RadioHoriz { get; set; }
@@ -27,6 +27,8 @@ formEditor.Save();
 
 ### 関連項目
 
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

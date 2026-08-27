@@ -1,7 +1,7 @@
 ---
-title: ToUnicodeProcessingRules.ToUnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: ToUnicodeProcessingRules コンストラクタ。ToUnicodeProcessingRules クラスの新しいインスタンスを初期化します。
+title: "ToUnicodeProcessingRules.ToUnicodeProcessingRules"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ToUnicodeProcessingRules コンストラクタ。ToUnicodeProcessingRules クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/tounicodeprocessingrules/tounicodeprocessingrules/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf/tounicodeprocessingrules/tounicodeprocessingrules/
 public ToUnicodeProcessingRules()
 ```
 
-### See Also
+### 関連項目
 
 * class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,17 +24,17 @@ public ToUnicodeProcessingRules()
 
 ## ToUnicodeProcessingRules(bool) {#constructor_1}
 
-CMap 名からスペースを削除するオプションを指定して、[`ToUnicodeProcessingRules`](../) クラスの新しいインスタンスを初期化します。
+指定された CMap 名からスペースを削除するオプションを使用して、[`ToUnicodeProcessingRules`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| removeSpaces | Boolean | CMap 名からスペースを削除するかどうかを示すブール値。 |
+| removeSpaces | Boolean | CMap 名からスペースを削除するかどうかを示すブール値です。 |
 
-### See Also
+### 関連項目
 
 * class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -44,19 +44,21 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 
 ## ToUnicodeProcessingRules(bool, bool) {#constructor_2}
 
-指定されたオプションで[`ToUnicodeProcessingRules`](../) クラスの新しいインスタンスを初期化します。
+指定されたオプションで、[`ToUnicodeProcessingRules`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSpace)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| removeSpaces | Boolean | CMap 名からスペースを削除するかどうかを示します。 |
-| mapNonLinkedUnicodesOnSpace | Boolean | 非リンクの Unicode シンボルをスペースにマッピングするかどうかを示します。 |
+| removeSpaces | Boolean | CMap 名からスペースを削除すべきかどうかを示します。 |
+| mapNonLinkedUnicodesOnSpace | Boolean | リンクされていない Unicode シンボルをスペースにマッピングすべきかどうかを示します。 |
 
-### See Also
+### 関連項目
 
 * class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

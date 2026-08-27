@@ -1,12 +1,12 @@
 ---
-title: OptimizeOptions.OptimizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizeOptions コンストラクタ。デフォルトコンストラクタ
+title: "OptimizeOptions.OptimizeOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizeOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/optimizeoptions/optimizeoptions/
 ---
-## OptimizeOptions コンストラクタ
+## OptimizeOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public OptimizeOptions()
 * class [OptimizeOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

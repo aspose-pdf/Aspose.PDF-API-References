@@ -1,22 +1,24 @@
 ---
-title: CustomPrintEventArgs.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: CustomPrintEventArgs フィールド。ドキュメントが印刷されるプリンターに関する情報を取得します
+title: "CustomPrintEventArgs.PrinterSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CustomPrintEventArgs フィールド。ドキュメントを印刷すべきプリンターに関する情報を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.printing/customprinteventargs/printersettings/
 ---
-## CustomPrintEventArgs.PrinterSettings フィールド
+## CustomPrintEventArgs.PrinterSettings field
 
-ドキュメントが印刷されるプリンターに関する情報を取得します。
+document が印刷されるべきプリンターに関する情報を取得します。
 
 ```csharp
 public readonly PrinterSettings PrinterSettings;
 ```
 
-### 参照
+### 関連項目
 
 * class [PrinterSettings](../../printersettings/)
 * class [CustomPrintEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

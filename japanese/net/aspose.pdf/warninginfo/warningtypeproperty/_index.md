@@ -1,12 +1,12 @@
 ---
-title: WarningInfo.WarningTypeProperty
-second_title: Aspose.PDF for .NET API Reference
-description: WarningInfo プロパティ。警告タイプを返します
+title: "WarningInfo.WarningTypeProperty"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "WarningInfo プロパティ。警告タイプを返します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/warninginfo/warningtypeproperty/
 ---
-## WarningInfo.WarningTypeProperty プロパティ
+## WarningInfo.WarningTypeProperty property
 
 警告タイプを返します。
 
@@ -24,3 +24,5 @@ public WarningType WarningTypeProperty { get; }
 * class [WarningInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。このドキュメントを引き起こしたPDFファイルの名前
+title: "Document.FileName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。 このドキュメントを生成した PDF ファイルの名前"
 type: docs
-weight: 180
+weight: 200
 url: /ja/net/aspose.pdf/document/filename/
 ---
-## Document.FileName プロパティ
+## Document.FileName property
 
-このドキュメントを引き起こしたPDFファイルの名前
+この Document を引き起こした PDF ファイルの名前
 
 ```csharp
 public string FileName { get; }
@@ -16,6 +16,8 @@ public string FileName { get; }
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

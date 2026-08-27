@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.FontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions フィールド。現在のドキュメントの PDF デコーディングを調整するためのエンコーディング特別ルールを定義します
+title: "HtmlSaveOptions.FontEncodingStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions フィールド。現在のドキュメントの PDF デコードを調整するためのエンコーディング特別ルールを定義します。"
 type: docs
 weight: 320
 url: /ja/net/aspose.pdf/htmlsaveoptions/fontencodingstrategy/
 ---
-## HtmlSaveOptions.FontEncodingStrategy フィールド
+## HtmlSaveOptions.FontEncodingStrategy field
 
-現在のドキュメントの PDF デコーディングを調整するためのエンコーディング特別ルールを定義します
+現在のドキュメントの PDF デコードを調整するためのエンコーディング特別ルールを定義します
 
 ```csharp
 public FontEncodingRules FontEncodingStrategy;
@@ -20,3 +20,5 @@ public FontEncodingRules FontEncodingStrategy;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

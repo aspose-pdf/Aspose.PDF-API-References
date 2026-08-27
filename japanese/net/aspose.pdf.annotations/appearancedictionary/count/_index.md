@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Count
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary プロパティ。辞書に含まれる要素の数を取得します
+title: "AppearanceDictionary.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AppearanceDictionary プロパティ。辞書に含まれる要素数を取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/appearancedictionary/count/
 ---
-## AppearanceDictionary.Count プロパティ
+## AppearanceDictionary.Count property
 
-辞書に含まれる要素の数を取得します。
+辞書に含まれる要素数を取得します。
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### 関連項目
 
-* クラス [AppearanceDictionary](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

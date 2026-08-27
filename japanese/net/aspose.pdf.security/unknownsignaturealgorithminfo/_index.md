@@ -1,14 +1,14 @@
 ---
-title: Class UnknownSignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.UnknownSignatureAlgorithmInfo クラス。未知の署名アルゴリズム情報のためのクラスを表します
+title: "クラス UnknownSignatureAlgorithmInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Security.UnknownSignatureAlgorithmInfo クラス。未知の署名アルゴリズム情報を表すクラスです。"
 type: docs
-weight: 10040
+weight: 10220
 url: /ja/net/aspose.pdf.security/unknownsignaturealgorithminfo/
 ---
-## UnknownSignatureAlgorithmInfo クラス
+## UnknownSignatureAlgorithmInfo class
 
-未知の署名アルゴリズム情報のためのクラスを表します。
+不明な署名アルゴリズム情報を表すクラスです。
 
 ```csharp
 public sealed class UnknownSignatureAlgorithmInfo : SignatureAlgorithmInfo
@@ -30,12 +30,14 @@ public sealed class UnknownSignatureAlgorithmInfo : SignatureAlgorithmInfo
 
 | 名前 | 説明 |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF ドキュメントに署名するために使用される署名アルゴリズムのタイプを取得します。 |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF ドキュメントに署名するために使用される暗号標準を取得します。 |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これはドキュメント内容のハッシュに署名されるダイジェストハッシュアルゴリズムです。 |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF ドキュメントの署名に使用される署名アルゴリズムのタイプを取得します。 |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF ドキュメントの署名に使用される暗号標準を取得します。 |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これは文書内容のハッシュが署名されるダイジェストハッシュアルゴリズムです。 |
 
-### 参照
+### 関連項目
 
-* クラス [SignatureAlgorithmInfo](../signaturealgorithminfo/)
-* 名前空間 [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* アセンブリ [Aspose.PDF](../../)
+* class [SignatureAlgorithmInfo](../signaturealgorithminfo/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

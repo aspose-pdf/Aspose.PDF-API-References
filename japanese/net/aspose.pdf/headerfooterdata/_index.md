@@ -1,12 +1,12 @@
 ---
-title: Class HeaderFooterData
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeaderFooterData クラス。ヘッダーとフッターのページネーションデータを表します。
+title: "クラス HeaderFooterData"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HeaderFooterData クラス。ヘッダーとフッターのページ付けデータを表します。"
 type: docs
-weight: 5440
+weight: 5560
 url: /ja/net/aspose.pdf/headerfooterdata/
 ---
-## HeaderFooterData クラス
+## HeaderFooterData class
 
 ヘッダーとフッターのページネーションデータを表します。
 
@@ -18,7 +18,7 @@ public class HeaderFooterData
 
 | 名前 | 説明 |
 | --- | --- |
-| [HeaderFooterData](headerfooterdata/)() | デフォルトコンストラクタ。 |
+| [HeaderFooterData](headerfooterdata/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
@@ -27,7 +27,9 @@ public class HeaderFooterData
 | [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | 日付設定を取得または設定します。 |
 | [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | ページ番号設定を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

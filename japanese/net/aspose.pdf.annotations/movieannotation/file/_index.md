@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.File
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotation プロパティ。自己記述型のムービーファイルを識別するファイル仕様を取得または設定します。
+title: "MovieAnnotation.File"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MovieAnnotation プロパティ。自己記述型映画ファイルを識別するファイル仕様を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/movieannotation/file/
 ---
-## MovieAnnotation.File プロパティ
+## MovieAnnotation.File property
 
-自己記述型のムービーファイルを識別するファイル仕様を取得または設定します。
+自己記述型映画ファイルを識別するファイル仕様を取得または設定します。
 
 ```csharp
 public FileSpecification File { get; set; }
@@ -16,7 +16,9 @@ public FileSpecification File { get; set; }
 
 ### 関連項目
 
-* クラス [FileSpecification](../../../aspose.pdf/filespecification/)
-* クラス [MovieAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

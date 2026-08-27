@@ -1,21 +1,23 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: Aspose.PDF for .NET API Reference
-description: BuildVersionInfo フィールド。ファイルバージョン
+title: "BuildVersionInfo.FileVersion"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BuildVersionInfo フィールド。ファイル バージョン"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/buildversioninfo/fileversion/
 ---
-## BuildVersionInfo.FileVersion フィールド
+## BuildVersionInfo.FileVersion field
 
-ファイルバージョン
+ファイル バージョン
 
 ```csharp
 public const string FileVersion;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [BuildVersionInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BuildVersionInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

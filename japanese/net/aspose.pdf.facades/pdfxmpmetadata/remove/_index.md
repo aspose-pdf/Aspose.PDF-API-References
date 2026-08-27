@@ -1,22 +1,22 @@
 ---
-title: PdfXmpMetadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata メソッド。指定されたキーを持つ要素を削除します。
+title: "PdfXmpMetadata.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfXmpMetadata メソッド。 指定されたキーを持つ要素を削除します。"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/pdfxmpmetadata/remove/
 ---
 ## Remove(DefaultMetadataProperties) {#remove_2}
 
-指定されたキーを持つ要素を削除します。
+指定されたキーの要素を削除します。
 
 ```csharp
 public void Remove(DefaultMetadataProperties key)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | 削除される要素のキー。 |
+| キー | DefaultMetadataProperties | 削除される要素のキー。 |
 
 ## 例
 
@@ -26,7 +26,7 @@ xmp.BindPdf("input.pdf");
 xmp.Remove(DefaultMetadataProperties.Nickname);
 ```
 
-### 参照
+### 関連項目
 
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * class [PdfXmpMetadata](../)
@@ -43,13 +43,13 @@ xmp.Remove(DefaultMetadataProperties.Nickname);
 public bool Remove(string key)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | 削除されるキー。 |
+| キー | String | 削除されるキー。 |
 
 ### 戻り値
 
-True - キーが削除された場合; それ以外の場合は false。
+キーが削除された場合は true、そうでない場合は false。
 
 ## 例
 
@@ -59,7 +59,7 @@ xmp.BindPdf("input.pdf");
 xmp.Remove("xmp:Nickname");
 ```
 
-### 参照
+### 関連項目
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -69,23 +69,25 @@ xmp.Remove("xmp:Nickname");
 
 ## Remove(KeyValuePair&lt;string, XmpValue&gt;) {#remove}
 
-コレクションからキー/値ペアを削除します。
+コレクションからキー/値のペアを削除します。
 
 ```csharp
 public bool Remove(KeyValuePair<string, XmpValue> item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 削除されるキー/値ペア。 |
+| アイテム | KeyValuePair`2 | 削除されるキー/値のペア。 |
 
 ### 戻り値
 
-ペアが見つかり、削除された場合は true。
+ペアが見つかり削除された場合は true。
 
-### 参照
+### 関連項目
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

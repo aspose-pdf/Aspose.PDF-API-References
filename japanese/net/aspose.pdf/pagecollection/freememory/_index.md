@@ -1,12 +1,12 @@
 ---
-title: PageCollection.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection メソッド。キャッシュされたデータをクリアします
+title: "PageCollection.FreeMemory"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageCollection メソッド。キャッシュされたデータをクリアします"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/pagecollection/freememory/
 ---
-## PageCollection.FreeMemory メソッド
+## PageCollection.FreeMemory method
 
 キャッシュされたデータをクリアします
 
@@ -16,6 +16,8 @@ public void FreeMemory()
 
 ### 関連項目
 
-* クラス [PageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

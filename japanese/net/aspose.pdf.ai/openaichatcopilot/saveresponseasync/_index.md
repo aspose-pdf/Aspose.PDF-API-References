@@ -1,7 +1,7 @@
 ---
-title: OpenAIChatCopilot.SaveResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilot メソッド。
+title: "OpenAIChatCopilot.SaveResponseAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIChatCopilot メソッド。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.ai/openaichatcopilot/saveresponseasync/
@@ -13,7 +13,7 @@ public Task SaveResponseAsync(string message, string outputFileName,
     CancellationToken? cancellationToken = default)
 ```
 
-### See Also
+### 関連項目
 
 * class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,7 +28,7 @@ public Task SaveResponseAsync(string message, string outputFileName, SaveFormat 
     CancellationToken? cancellationToken = default)
 ```
 
-### See Also
+### 関連項目
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * class [OpenAIChatCopilot](../)
@@ -44,7 +44,7 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName,
     CancellationToken? cancellationToken = default)
 ```
 
-### See Also
+### 関連項目
 
 * class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -59,9 +59,11 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName, Save
     CancellationToken? cancellationToken = default)
 ```
 
-### See Also
+### 関連項目
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

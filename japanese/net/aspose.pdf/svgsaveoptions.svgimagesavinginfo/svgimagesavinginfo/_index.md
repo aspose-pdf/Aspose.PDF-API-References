@@ -1,12 +1,12 @@
 ---
-title: SvgSaveOptions.SvgImageSavingInfo.SvgImageSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: SvgImageSavingInfo コンストラクタ。デフォルトコンストラクタ
+title: "SvgSaveOptions.SvgImageSavingInfo.SvgImageSavingInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SvgImageSavingInfo コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/svgimagesavinginfo/
 ---
-## SvgSaveOptions.SvgImageSavingInfo コンストラクタ
+## SvgSaveOptions.SvgImageSavingInfo constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public SvgImageSavingInfo()
 
 ### 関連項目
 
-* クラス [SvgImageSavingInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SvgImageSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

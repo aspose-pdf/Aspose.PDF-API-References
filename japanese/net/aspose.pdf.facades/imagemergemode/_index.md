@@ -1,14 +1,14 @@
 ---
-title: Enum ImageMergeMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ImageMergeMode 列挙型。画像をマージするためのモードを表します
+title: "列挙型 ImageMergeMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.ImageMergeMode 列挙型。画像を結合するモードを表します。"
 type: docs
-weight: 4380
+weight: 4500
 url: /ja/net/aspose.pdf.facades/imagemergemode/
 ---
-## ImageMergeMode 列挙型
+## ImageMergeMode enumeration
 
-画像をマージするためのモードを表します。
+画像の結合モードを表します。
 
 ```csharp
 public enum ImageMergeMode
@@ -18,11 +18,13 @@ public enum ImageMergeMode
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| 垂直 | `1` | 画像が垂直にマージされます。 |
-| 水平 | `2` | 画像が水平にマージされます。 |
-| 中央 | `3` | 画像が中央に揃えられます。 |
+| Vertical | `1` | 画像が垂直方向に結合されます。 |
+| Horizontal | `2` | 画像が水平方向に結合されます。 |
+| Center | `3` | 画像が中央揃えされます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

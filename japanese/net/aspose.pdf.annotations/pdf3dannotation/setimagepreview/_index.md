@@ -1,7 +1,7 @@
 ---
-title: PDF3DAnnotation.SetImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation メソッド。画像プレビューを設定します
+title: "PDF3DAnnotation.SetImagePreview"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DAnnotation メソッド。画像プレビューを設定します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.annotations/pdf3dannotation/setimagepreview/
@@ -14,15 +14,15 @@ url: /ja/net/aspose.pdf.annotations/pdf3dannotation/setimagepreview/
 public void SetImagePreview(string filename)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filename | String | 画像プレビューのファイル名。 |
+| filename | String | 画像プレビューのファイル名です。 |
 
 ### 関連項目
 
-* クラス [PDF3DAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,12 +34,14 @@ public void SetImagePreview(string filename)
 public void SetImagePreview(Stream image)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | Stream | 画像ストリーム。 |
+| 画像 | Stream | 画像ストリームです。 |
 
 ### 関連項目
 
-* クラス [PDF3DAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

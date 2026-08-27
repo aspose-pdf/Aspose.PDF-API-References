@@ -1,115 +1,119 @@
 ---
-title: Aspose.Pdf.Plugins
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Pluginsは、PdfOrganizerのように直接含まれているか、いくつかのサブネームスペースを介して間接的に含まれているAspose.Pdf.Pluginsクラスのすべてのクラスのルートネームスペースです。
+title: "Aspose.Pdf.Plugins"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins は、PdfOrganizer のように直接含まれるクラスや、いくつかのサブ名前空間を介して間接的に含まれるクラスを含む、Aspose.Pdf.Plugins のすべてのクラスのルート名前空間です。"
 type: docs
-weight: 190
+weight: 180
 url: /ja/net/aspose.pdf.plugins/
 ---
-**Aspose.Pdf.Plugins**は、PdfOrganizerのように直接含まれているか、いくつかのサブネームスペースを介して間接的に含まれているAspose.Pdf.Pluginsクラスのすべてのクラスのルートネームスペースです。
+**Aspose.Pdf.Plugins** は、**PdfOrganizer** のように直接含まれるクラスや、いくつかのサブ名前空間を介して間接的に含まれるクラスのすべてに対するルート名前空間です。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [CompressOptions](./compressoptions/) | [`Optimizer`](../aspose.pdf.plugins/optimizer/)プラグインの圧縮オプションを表します。 |
-| [DecryptionOptions](./decryptionoptions/) | [`Security`](../aspose.pdf.plugins/security/)プラグインの復号オプションを表します。 |
-| [DocConverter](./docconverter/) | [`DocConverter`](../aspose.pdf.plugins/docconverter/)プラグインを表します。 |
-| [EncryptionOptions](./encryptionoptions/) | [`Security`](../aspose.pdf.plugins/security/)プラグインの暗号化オプションを表します。 |
-| [FileDataSource](./filedatasource/) | プラグインのロードおよび保存操作のためのファイルデータソースを表します。 |
-| [FileResult](./fileresult/) | ファイルへの文字列パスの形式での操作結果を表します。 |
-| [FileSaveTarget](./filesavetarget/) | プラグインのファイル保存ターゲットを表します。 |
-| [FormCheckBoxFieldCreateOptions](./formcheckboxfieldcreateoptions/) | FormEditorプラグインによるCheckBoxFieldの作成オプションを表します。 |
-| [FormCheckBoxFieldSetOptions](./formcheckboxfieldsetoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/)プラグインによるCheckboxFieldのプロパティ設定オプションを表します。 |
-| [FormComboBoxFieldCreateOptions](./formcomboboxfieldcreateoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/)プラグインによるComboBoxFieldの作成オプションを表します。 |
-| [FormComboBoxFieldSetOptions](./formcomboboxfieldsetoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/)プラグインによるComboBoxFieldのプロパティ設定オプションを表します。 |
-| [FormEditor](./formeditor/) | FormEditorプラグインを表します。 |
-| [FormEditorAddOptions](./formeditoraddoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/)プラグインによるドキュメントへのフィールド追加オプションを表します。 |
-| [FormEditorOptions](./formeditoroptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/)プラグインのオプションを表します。 |
-| [FormEditorRemoveOptions](./formeditorremoveoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/)プラグインによるドキュメント内のフィールド削除オプションクラスの基底クラスです。 |
-| [FormEditorSetOptions](./formeditorsetoptions/) | フィールド（注釈ではない）のプロパティを設定するためのオプションを表します。 |
-| [FormExporter](./formexporter/) | FormExporterプラグインを表します。 |
-| [FormExporterOptions](./formexporteroptions/) | FormExporterプラグインのオプションを表します。 |
-| [FormExporterValuesToCsvOptions](./formexportervaluestocsvoptions/) | 指定されたフィールド（注釈ではない）のValueプロパティをエクスポートするためのオプションを表します。 |
-| [FormFieldCreateOptions](./formfieldcreateoptions/) | フィールド作成のためのオプションを表します。 |
-| [FormFieldOptions](./formfieldoptions/) | フィールドオプションを表します。PdfFormFieldCreateOptionsおよびPdfFormFillFieldOptionsの基底クラスです。 |
-| [FormFieldSetOptions](./formfieldsetoptions/) | フィールド内のプロパティを設定するためのオプションを表します。 |
-| [FormFlattenAllFieldsOptions](./formflattenallfieldsoptions/) | [`FormFlattener`](../aspose.pdf.plugins/formflattener/)プラグインによるドキュメント内のすべてのフィールド（注釈ではない）をフラット化するためのオプションを表します。 |
-| [FormFlattener](./formflattener/) | FormFlattenerプラグインを表します。 |
-| [FormFlattenerOptions](./formflatteneroptions/) | FormFlattenerプラグインによるフィールド（注釈ではない）をフラット化するためのオプションクラスの基底クラスです。 |
-| [FormFlattenSelectedFieldsOptions](./formflattenselectedfieldsoptions/) | [`FormFlattener`](../aspose.pdf.plugins/formflattener/)プラグインによる選択されたフィールド（注釈ではない）をフラット化するためのオプションを表します。 |
-| [FormOptions](./formoptions/) | 一連のForm....プラグインのオプションを表します。 |
-| [FormRemoveAllFieldsOptions](./formremoveallfieldsoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/)プラグインによるドキュメント内のすべてのフィールドを削除するためのオプションを表します。 |
-| [FormRemoveSelectedFieldsOptions](./formremoveselectedfieldsoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/)プラグインによるドキュメント内の選択されたフィールドを削除するためのオプションを表します。 |
-| [FormTextBoxFieldCreateOptions](./formtextboxfieldcreateoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/)プラグインによるTextBoxFieldの作成オプションを表します。 |
-| [FormTextBoxFieldSetOptions](./formtextboxfieldsetoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/)プラグインによるTextBoxFieldのプロパティ設定オプションを表します。 |
-| [Html](./html/) | [`Html`](../aspose.pdf.plugins/html/)プラグインを表します。 |
-| [HtmlToPdfOptions](./htmltopdfoptions/) | [`Html`](../aspose.pdf.plugins/html/)プラグインのHTMLからPDFへの変換オプションを表します。 |
-| [ImageExtractor](./imageextractor/) | ImageExtractorプラグインを表します。 |
-| [ImageExtractorOptions](./imageextractoroptions/) | ImageExtractorプラグインの画像抽出オプションを表します。 |
-| [Jpeg](./jpeg/) | PdfからJpegへのプラグインを表します。 |
-| [JpegOptions](./jpegoptions/) | [`Jpeg`](../aspose.pdf.plugins/jpeg/)プラグインのPdfからJpegへの変換オプションを表します。 |
-| [MergeOptions](./mergeoptions/) | [`Merger`](../aspose.pdf.plugins/merger/)プラグインのマージオプションを表します。 |
-| [Merger](./merger/) | [`Merger`](../aspose.pdf.plugins/merger/)プラグインを表します。 |
-| [ObjectResult](./objectresult/) | 文字列の形式での操作結果を表します。 |
-| [OptimizeOptions](./optimizeoptions/) | [`Optimizer`](../aspose.pdf.plugins/optimizer/)プラグインの最適化オプションを表します。 |
-| [Optimizer](./optimizer/) | [`Optimizer`](../aspose.pdf.plugins/optimizer/)プラグインを表します。 |
+| [CompressOptions](./compressoptions/) | [`Optimizer`](../aspose.pdf.plugins/optimizer/) プラグインの圧縮オプションを表します。 |
+| [DecryptionOptions](./decryptionoptions/) | [`Security`](../aspose.pdf.plugins/security/) プラグインの復号化オプションを表します。 |
+| [DocConverter](./docconverter/) | [`DocConverter`](../aspose.pdf.plugins/docconverter/) プラグインを表します。 |
+| [EncryptionOptions](./encryptionoptions/) | [`Security`](../aspose.pdf.plugins/security/) プラグインの暗号化オプションを表します。 |
+| [FileDataSource](./filedatasource/) | プラグインのロードおよび保存操作のためのファイル データ ソースを表します。 |
+| [FileResult](./fileresult/) | ファイルへの文字列パス形式の操作結果を表します。 |
+| [FileSaveTarget](./filesavetarget/) | プラグインのファイル保存先を表します。 |
+| [FormCheckBoxFieldCreateOptions](./formcheckboxfieldcreateoptions/) | FormEditor プラグインによる CheckBoxField 作成オプションを表します。 |
+| [FormCheckBoxFieldSetOptions](./formcheckboxfieldsetoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/) プラグインによる CheckboxField のプロパティ設定オプションを表します。 |
+| [FormComboBoxFieldCreateOptions](./formcomboboxfieldcreateoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/) プラグインによる ComboBoxField 作成オプションを表します。 |
+| [FormComboBoxFieldSetOptions](./formcomboboxfieldsetoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/) プラグインによる ComboBoxField のプロパティ設定オプションを表します。 |
+| [FormEditor](./formeditor/) | FormEditor プラグインを表します。 |
+| [FormEditorAddOptions](./formeditoraddoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/) プラグインによる Documentへのフィールド追加オプションを表します。 |
+| [FormEditorOptions](./formeditoroptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/) プラグインのオプションを表します。 |
+| [FormEditorRemoveOptions](./formeditorremoveoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/) プラグインによる Documentのフィールド削除のためのオプション クラスの基底クラスです。 |
+| [FormEditorSetOptions](./formeditorsetoptions/) | フィールド（注釈ではない）のプロパティ設定オプションを表します。 |
+| [FormExporter](./formexporter/) | FormExporter プラグインを表します。 |
+| [FormExporterOptions](./formexporteroptions/) | FormExporter プラグインのオプションを表します。 |
+| [FormExporterValuesToCsvOptions](./formexportervaluestocsvoptions/) | 指定されたフィールド（Annotation を除く）の Value プロパティをエクスポートするオプションを表します。 |
+| [FormFieldCreateOptions](./formfieldcreateoptions/) | フィールドを作成するためのオプションを表します。 |
+| [FormFieldOptions](./formfieldoptions/) | フィールドオプションを表します。PdfFormFieldCreateOptions と PdfFormFillFieldOptions の基底クラスです。 |
+| [FormFieldSetOptions](./formfieldsetoptions/) | フィールドのプロパティを設定するためのオプションを表します。 |
+| [FormFlattenAllFieldsOptions](./formflattenallfieldsoptions/) | [`FormFlattener`](../aspose.pdf.plugins/formflattener/) プラグインにより、Document 内のすべてのフィールド（Annotation を除く）をフラット化するオプションを表します。 |
+| [FormFlattener](./formflattener/) | FormFlattener プラグインを表します。 |
+| [FormFlattenerOptions](./formflatteneroptions/) | FormFlattener プラグインにより、Document 内のフィールド（Annotation を除く）をフラット化するオプションクラスの基底クラスです。 |
+| [FormFlattenSelectedFieldsOptions](./formflattenselectedfieldsoptions/) | [`FormFlattener`](../aspose.pdf.plugins/formflattener/) プラグインにより、Document 内の選択されたフィールド（Annotation を除く）をフラット化するオプションを表します。 |
+| [FormOptions](./formoptions/) | Form.... プラグインファミリーのオプションを表します。 |
+| [FormRemoveAllFieldsOptions](./formremoveallfieldsoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/) プラグインにより、Document 内のすべてのフィールドを削除するオプションを表します。 |
+| [FormRemoveSelectedFieldsOptions](./formremoveselectedfieldsoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/) プラグインにより、Document 内の選択されたフィールドを削除するオプションを表します。 |
+| [FormTextBoxFieldCreateOptions](./formtextboxfieldcreateoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/) プラグインにより、Document 内の TextBoxField を作成するオプションを表します。 |
+| [FormTextBoxFieldSetOptions](./formtextboxfieldsetoptions/) | [`FormEditor`](../aspose.pdf.plugins/formeditor/) プラグインにより、Document 内の TextBoxField のプロパティを設定するオプションを表します。 |
+| [Html](./html/) | [`Html`](../aspose.pdf.plugins/html/) プラグインを表します。 |
+| [HtmlToPdfOptions](./htmltopdfoptions/) | [`Html`](../aspose.pdf.plugins/html/) プラグイン用の HTML から PDF への変換オプションを表します。 |
+| [ImageExtractor](./imageextractor/) | ImageExtractor プラグインを表します。 |
+| [ImageExtractorOptions](./imageextractoroptions/) | ImageExtractor プラグインの画像抽出オプションを表します。 |
+| [Jpeg](./jpeg/) | Pdf to Jpeg プラグインを表します。 |
+| [JpegOptions](./jpegoptions/) | [`Jpeg`](../aspose.pdf.plugins/jpeg/) プラグイン用の Pdf から Jpeg への変換オプションを表します。 |
+| [MergeOptions](./mergeoptions/) | [`Merger`](../aspose.pdf.plugins/merger/) プラグインのマージオプションを表します。 |
+| [Merger](./merger/) | [`Merger`](../aspose.pdf.plugins/merger/) プラグインを表します。 |
+| [ObjectResult](./objectresult/) | 文字列形式の操作結果を表します。 |
+| [Ofd](./ofd/) | [`Ofd`](../aspose.pdf.plugins/ofd/) プラグインを表します。 |
+| [OfdToPdfOptions](./ofdtopdfoptions/) | OFD を PDF に変換するオプションを表します。 |
+| [OptimizeOptions](./optimizeoptions/) | [`Optimizer`](../aspose.pdf.plugins/optimizer/) プラグインの最適化オプションを表します。 |
+| [Optimizer](./optimizer/) | [`Optimizer`](../aspose.pdf.plugins/optimizer/) プラグインを表します。 |
 | [OrganizerBaseOptions](./organizerbaseoptions/) | プラグインの基本オプションを表します。 |
-| [PdfAConverter](./pdfaconverter/) | PDF/A形式のPDFドキュメントの変換を処理し、PDF/A準拠の検証を行うためのプラグインを表します。 |
-| [PdfAConvertOptions](./pdfaconvertoptions/) | [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/)プラグインを使用してPDFドキュメントをPDF/A形式に変換するためのオプションを表します。 |
-| [PdfAOptionsBase](./pdfaoptionsbase/) | [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/)プラグインオプションの基底クラスを表します。このクラスは、PDF/A変換および検証プロセスを構成するためのプロパティとメソッドを提供します。 |
-| [PdfAValidateOptions](./pdfavalidateoptions/) | [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/)プラグインを使用してPDFドキュメントのPDF/A準拠を検証するためのオプションを表します。 |
-| [PdfAValidationResult](./pdfavalidationresult/) | PDF/A検証プロセスの結果を表します。 |
-| [PdfConverterOptions](./pdfconverteroptions/) | Pdfコンバータプラグインのオプションを表します。 |
-| [PdfExtractor](./pdfextractor/) | PDFドキュメントのページに発生する可能性のあるテキスト、画像、およびその他の種類のコンテンツを抽出するための基本機能を表します。 |
-| [PdfExtractorOptions](./pdfextractoroptions/) | TextExtractorおよびImageExtractorプラグインのオプションを表します。 |
-| [PdfGeneratorOptions](./pdfgeneratoroptions/) | Generatorプラグインのオプションを表します。 |
-| [PdfToDocOptions](./pdftodocoptions/) | [`DocConverter`](../aspose.pdf.plugins/docconverter/)プラグインのPDFからDOCへの変換オプションを表します。 |
-| [PdfToHtmlOptions](./pdftohtmloptions/) | [`Html`](../aspose.pdf.plugins/html/)プラグインのPDFからHTMLへの変換オプションを表します。 |
-| [PdfToImage](./pdftoimage/) | PDFから画像へのプラグインを表します。 |
-| [PdfToImageOptions](./pdftoimageoptions/) | [`PdfToImage`](../aspose.pdf.plugins/pdftoimage/)プラグインのオプションを表します。 |
-| [PdfToXlsOptions](./pdftoxlsoptions/) | [`XlsConverter`](../aspose.pdf.plugins/xlsconverter/)プラグインのPDFからXLSXへの変換オプションを表します。 |
-| [Png](./png/) | PdfからPngへのプラグインを表します。 |
-| [PngOptions](./pngoptions/) | [`Png`](../aspose.pdf.plugins/png/)プラグインのPdfからPngへの変換オプションを表します。 |
-| [ResizeOptions](./resizeoptions/) | [`Optimizer`](../aspose.pdf.plugins/optimizer/)プラグインのリサイズオプションを表します。 |
+| [PdfAConverter](./pdfaconverter/) | PDF/A 形式での PDF ドキュメントの変換と PDF/A 準拠性の検証を処理するプラグインを表します。 |
+| [PdfAConvertOptions](./pdfaconvertoptions/) | `[`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/)` プラグインを使用して PDF ドキュメントを PDF/A 形式に変換するオプションを表します。 |
+| [PdfAOptionsBase](./pdfaoptionsbase/) | `[`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/)` プラグインオプションの基本クラスを表します。このクラスは PDF/A 変換および検証プロセスを構成するためのプロパティとメソッドを提供します。 |
+| [PdfAValidateOptions](./pdfavalidateoptions/) | `[`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/)` プラグインを使用して PDF ドキュメントの PDF/A 準拠性を検証するオプションを表します。 |
+| [PdfAValidationResult](./pdfavalidationresult/) | PDF/A 検証プロセスの結果を表します。 |
+| [PdfConverterOptions](./pdfconverteroptions/) | Pdf コンバータプラグインのオプションを表します。 |
+| [PdfExtractor](./pdfextractor/) | PDF ドキュメントのページに存在する可能性のあるテキスト、画像、その他のコンテンツを抽出する基本機能を表します。 |
+| [PdfExtractorOptions](./pdfextractoroptions/) | TextExtractor と ImageExtractor プラグインのオプションを表します。 |
+| [PdfGeneratorOptions](./pdfgeneratoroptions/) | Generator プラグインのオプションを表します。 |
+| [PdfToDocOptions](./pdftodocoptions/) | `[`DocConverter`](../aspose.pdf.plugins/docconverter/)` プラグインの PDF から DOC へのコンバータオプションを表します。 |
+| [PdfToHtmlOptions](./pdftohtmloptions/) | `[`Html`](../aspose.pdf.plugins/html/)` プラグインの PDF から HTML へのコンバータオプションを表します。 |
+| [PdfToImage](./pdftoimage/) | PDF から画像へのプラグインを表します。 |
+| [PdfToImageOptions](./pdftoimageoptions/) | `[`PdfToImage`](../aspose.pdf.plugins/pdftoimage/)` プラグインのオプションを表します。 |
+| [PdfToXlsOptions](./pdftoxlsoptions/) | `[`XlsConverter`](../aspose.pdf.plugins/xlsconverter/)` プラグインの PDF から XLSX へのコンバータオプションを表します。 |
+| [Png](./png/) | Pdf から Png へのプラグインを表します。 |
+| [PngOptions](./pngoptions/) | `[`Png`](../aspose.pdf.plugins/png/)` プラグインの Pdf から Png へのコンバータオプションを表します。 |
+| [ResizeOptions](./resizeoptions/) | `[`Optimizer`](../aspose.pdf.plugins/optimizer/)` プラグインのリサイズオプションを表します。 |
 | [ResultContainer](./resultcontainer/) | プラグインの処理結果コレクションを含むコンテナを表します。 |
-| [RotateOptions](./rotateoptions/) | [`Optimizer`](../aspose.pdf.plugins/optimizer/)プラグインの回転オプションを表します。 |
-| [Security](./security/) | [`Security`](../aspose.pdf.plugins/security/)プラグインを表します。 |
+| [RotateOptions](./rotateoptions/) | `[`Optimizer`](../aspose.pdf.plugins/optimizer/)` プラグインの回転オプションを表します。 |
+| [Security](./security/) | `[`Security`](../aspose.pdf.plugins/security/)` プラグインを表します。 |
 | [SelectField](./selectfield/) |  |
-| [Signature](./signature/) | [`Signature`](../aspose.pdf.plugins/signature/)プラグインを表します。 |
-| [SignOptions](./signoptions/) | [`Signature`](../aspose.pdf.plugins/signature/)プラグインの署名オプションを表します。 |
-| [SplitOptions](./splitoptions/) | [`Splitter`](../aspose.pdf.plugins/splitter/)プラグインの分割オプションを表します。 |
-| [Splitter](./splitter/) | [`Splitter`](../aspose.pdf.plugins/splitter/)プラグインを表します。 |
-| [StreamDataSource](./streamdatasource/) | プラグインのロードおよび保存操作のためのストリームデータソースを表します。 |
-| [StreamResult](./streamresult/) | ストリームの形式での操作結果を表します。 |
-| [StreamSaveTarget](./streamsavetarget/) | プラグインのストリーム保存ターゲットを表します。 |
-| [StringResult](./stringresult/) | 文字列の形式での操作結果を表します。 |
-| [TableBuilder](./tablebuilder/) | PDFページ内のテーブルのビルダーを表すクラスです。 |
-| [TableCellBuilder](./tablecellbuilder/) | テーブルセルのビルダーを表すクラスです。 |
-| [TableGenerator](./tablegenerator/) | Aspose.PDF TableGeneratorプラグインを表します。 |
-| [TableOptions](./tableoptions/) | [`TableGenerator`](../aspose.pdf.plugins/tablegenerator/)プラグインによるドキュメントへのテーブル追加オプションを表します。 |
-| [TableRowBuilder](./tablerowbuilder/) | テーブル行のビルダーを表すクラスです。 |
-| [TextExtractor](./textextractor/) | TextExtractorプラグインを表します。 |
-| [TextExtractorOptions](./textextractoroptions/) | TextExtractorプラグインのテキスト抽出オプションを表します。 |
-| [Tiff](./tiff/) | PdfからTiffへのプラグインを表します。 |
-| [TiffOptions](./tiffoptions/) | [`Tiff`](../aspose.pdf.plugins/tiff/)プラグインのPdfからTiffへの変換オプションを表します。 |
-| [TocGenerator](./tocgenerator/) | Aspose.PDF TocGeneratorプラグインを表します。 |
-| [TocOptions](./tocoptions/) | [`TocGenerator`](../aspose.pdf.plugins/tocgenerator/)プラグインによるドキュメントへの目次追加オプションを表します。 |
-| [XlsConverter](./xlsconverter/) | [`XlsConverter`](../aspose.pdf.plugins/xlsconverter/)プラグインを表します。 |
-## インターフェース
+| [Signature](./signature/) | `[`Signature`](../aspose.pdf.plugins/signature/)` プラグインを表します。 |
+| [SignOptions](./signoptions/) | `[`Signature`](../aspose.pdf.plugins/signature/)` プラグインのサインオプションを表します。 |
+| [SplitOptions](./splitoptions/) | `[`Splitter`](../aspose.pdf.plugins/splitter/)` プラグインの分割オプションを表します。 |
+| [Splitter](./splitter/) | [`Splitter`](../aspose.pdf.plugins/splitter/) プラグインを表します。 |
+| [StreamDataSource](./streamdatasource/) | プラグインのロードおよび保存操作用のストリーム データ ソースを表します。 |
+| [StreamResult](./streamresult/) | ストリーム形式の操作結果を表します。 |
+| [StreamSaveTarget](./streamsavetarget/) | プラグイン用のストリーム保存ターゲットを表します。 |
+| [StringResult](./stringresult/) | 文字列形式の操作結果を表します。 |
+| [TableBuilder](./tablebuilder/) | クラスは PDF ページ内のテーブル用ビルダーを表します。 |
+| [TableCellBuilder](./tablecellbuilder/) | クラスはテーブルセル用ビルダーを表します。 |
+| [TableGenerator](./tablegenerator/) | Aspose.PDF TableGenerator プラグインを表します。 |
+| [TableOptions](./tableoptions/) | [`TableGenerator`](../aspose.pdf.plugins/tablegenerator/) プラグインによってドキュメントにテーブルを追加するオプションを表します。 |
+| [TableRowBuilder](./tablerowbuilder/) | クラスはテーブル行用ビルダーを表します。 |
+| [TextExtractor](./textextractor/) | TextExtractor プラグインを表します。 |
+| [TextExtractorOptions](./textextractoroptions/) | TextExtractor プラグイン用のテキスト抽出オプションを表します。 |
+| [Tiff](./tiff/) | Pdf to Tiff プラグインを表します。 |
+| [TiffOptions](./tiffoptions/) | [`Tiff`](../aspose.pdf.plugins/tiff/) プラグイン用の Pdf to Tiff コンバータオプションを表します。 |
+| [TocGenerator](./tocgenerator/) | Aspose.PDF TocGenerator プラグインを表します。 |
+| [TocOptions](./tocoptions/) | [`TocGenerator`](../aspose.pdf.plugins/tocgenerator/) プラグインによってドキュメントに目次を追加するオプションを表します。 |
+| [XlsConverter](./xlsconverter/) | [`XlsConverter`](../aspose.pdf.plugins/xlsconverter/) プラグインを表します。 |
+## インターフェイス
 
-| インターフェース | 説明 |
+| インターフェイス | 説明 |
 | --- | --- |
-| [IDataSource](./idatasource/) | 具体的なデータソースが実装すべき共通メンバーを定義する一般的なデータソースインターフェースです。 |
-| [IOperationResult](./ioperationresult/) | 具体的なプラグイン操作結果が実装すべき共通メソッドを定義する一般的な操作結果インターフェースです。 |
-| [IPlugin](./iplugin/) | 具体的なプラグインが実装すべき共通メソッドを定義する一般的なプラグインインターフェースです。 |
-| [IPluginOptions](./ipluginoptions/) | 具体的なプラグインオプションが実装すべき共通メソッドを定義する一般的なプラグインオプションインターフェースです。 |
-| [ISaveTarget](./isavetarget/) | 具体的な操作結果保存ターゲットが実装すべき共通メンバーを定義する一般的な保存ターゲットインターフェースです。 |
-## 列挙型
+| [IDataSource](./idatasource/) | 具体的なデータ ソースが実装すべき共通メンバーを定義する汎用データ ソース インターフェイスです。 |
+| [IOperationResult](./ioperationresult/) | 具体的なプラグイン操作結果が実装すべき共通メソッドを定義する汎用操作結果インターフェイスです。 |
+| [IPlugin](./iplugin/) | 具体的なプラグインが実装すべき共通メソッドを定義する汎用プラグインインターフェイスです。 |
+| [IPluginOptions](./ipluginoptions/) | 具体的なプラグインオプションが実装すべき共通メソッドを定義する汎用プラグインオプションインターフェイスです。 |
+| [ISaveTarget](./isavetarget/) | 具体的な操作結果保存ターゲットが実装すべき共通メンバーを定義する汎用保存ターゲットインターフェイスです。 |
+## 列挙体
 
-| 列挙型 | 説明 |
+| 列挙体 | 説明 |
 | --- | --- |
 | [ConversionMode](./conversionmode/) | 出力ドキュメントの変換モードを定義します。 |
-| [DataType](./datatype/) | プラグイン処理のための可能なデータタイプを表します。 |
-| [PdfAStandardVersion](./pdfastandardversion/) | PDFドキュメントのPDF/A標準バージョンを指定します。 |
-| [SaveFormat](./saveformat/) | .docまたは.docxファイル形式を指定することを可能にします。 |
+| [DataType](./datatype/) | プラグイン処理用の可能なデータ型を表します。 |
+| [PdfAStandardVersion](./pdfastandardversion/) | PDF ドキュメントの PDF/A 標準バージョンを指定します。 |
+| [SaveFormat](./saveformat/) | .doc または .docx ファイル形式を指定できます。 |
+
+

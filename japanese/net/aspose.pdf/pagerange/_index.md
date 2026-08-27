@@ -1,14 +1,14 @@
 ---
-title: Class PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageRange クラス。ヘッダーとフッター設定のためのページ範囲を表します
+title: "クラス PageRange"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PageRange クラス。ヘッダーおよびフッター設定のページ範囲を表します。"
 type: docs
-weight: 8240
+weight: 8380
 url: /ja/net/aspose.pdf/pagerange/
 ---
-## PageRange クラス
+## PageRange class
 
-ヘッダーとフッター設定のためのページ範囲を表します。
+ヘッダーおよびフッター設定用のページ範囲を表します。
 
 ```csharp
 public sealed class PageRange
@@ -18,7 +18,7 @@ public sealed class PageRange
 
 | 名前 | 説明 |
 | --- | --- |
-| [PageRange](pagerange/)() | デフォルトコンストラクタ。 |
+| [PageRange](pagerange/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
@@ -29,7 +29,9 @@ public sealed class PageRange
 | [Odd](../../aspose.pdf/pagerange/odd/) { get; set; } | 奇数ページの設定を取得または設定します。 |
 | [Start](../../aspose.pdf/pagerange/start/) { get; set; } | 開始ページ番号を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

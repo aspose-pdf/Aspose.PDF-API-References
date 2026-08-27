@@ -1,14 +1,14 @@
 ---
-title: Document.HideWindowUI
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントがアクティブなときにユーザーインターフェース要素を非表示にするかどうかを指定するフラグを取得または設定します。
+title: "Document.HideWindowUI"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントがアクティブなときにユーザーインターフェイス要素を非表示にすべきかを指定するフラグを取得または設定します"
 type: docs
-weight: 250
+weight: 270
 url: /ja/net/aspose.pdf/document/hidewindowui/
 ---
-## Document.HideWindowUI プロパティ
+## Document.HideWindowUI property
 
-ドキュメントがアクティブなときにユーザーインターフェース要素を非表示にするかどうかを指定するフラグを取得または設定します。
+Document がアクティブなときにユーザーインターフェイス要素を非表示にするかどうかを示すフラグを取得または設定します。
 
 ```csharp
 public bool HideWindowUI { get; set; }
@@ -16,7 +16,7 @@ public bool HideWindowUI { get; set; }
 
 ## 例
 
-例は、HideWindowUI フラグを取得する方法を示しています。
+例は HideWindowUI フラグの取得方法を示します:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -25,6 +25,8 @@ bool value = document.HideWindowUI;
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

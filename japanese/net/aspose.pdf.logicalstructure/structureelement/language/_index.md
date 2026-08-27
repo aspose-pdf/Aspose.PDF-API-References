@@ -1,12 +1,12 @@
 ---
-title: StructureElement.Language
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement プロパティ。構造要素の言語を取得または設定します
+title: "StructureElement.Language"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureElement プロパティ。構造要素の言語を取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.logicalstructure/structureelement/language/
 ---
-## StructureElement.Language プロパティ
+## StructureElement.Language property
 
 構造要素の言語を取得または設定します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.logicalstructure/structureelement/language/
 public string Language { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 構造要素の言語。
 
-### 参照
+### 関連項目
 
-* クラス [StructureElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

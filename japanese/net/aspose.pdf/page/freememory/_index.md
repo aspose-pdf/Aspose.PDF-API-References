@@ -1,14 +1,14 @@
 ---
-title: Page.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Page メソッド。キャッシュデータをクリアします
+title: "Page.FreeMemory"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page メソッド。キャッシュされたデータをクリアします。"
 type: docs
 weight: 440
 url: /ja/net/aspose.pdf/page/freememory/
 ---
-## Page.FreeMemory メソッド
+## Page.FreeMemory method
 
-キャッシュデータをクリアします
+キャッシュされたデータをクリアします
 
 ```csharp
 public void FreeMemory()
@@ -16,6 +16,8 @@ public void FreeMemory()
 
 ### 関連項目
 
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

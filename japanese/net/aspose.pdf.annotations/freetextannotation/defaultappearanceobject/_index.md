@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.DefaultAppearanceObject
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation プロパティ。FreeText 注釈のデフォルトの外観を表すオブジェクト
+title: "FreeTextAnnotation.DefaultAppearanceObject"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FreeTextAnnotation プロパティ。FreeText アノテーションのデフォルト外観を表すオブジェクト。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/freetextannotation/defaultappearanceobject/
 ---
-## FreeTextAnnotation.DefaultAppearanceObject プロパティ
+## FreeTextAnnotation.DefaultAppearanceObject property
 
-FreeText 注釈のデフォルトの外観を表すオブジェクトです。
+FreeText アノテーションのデフォルト外観を表すオブジェクトです。
 
 ```csharp
 public DefaultAppearance DefaultAppearanceObject { get; }
@@ -20,3 +20,5 @@ public DefaultAppearance DefaultAppearanceObject { get; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

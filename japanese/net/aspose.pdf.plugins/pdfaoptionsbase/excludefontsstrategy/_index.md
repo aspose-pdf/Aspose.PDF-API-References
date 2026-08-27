@@ -1,26 +1,26 @@
 ---
-title: PdfAOptionsBase.ExcludeFontsStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase プロパティ。PDF/A 変換プロセス中に出力ファイルサイズを最小限に抑えるためにフォントを削除する戦略を取得または設定します。
+title: "PdfAOptionsBase.ExcludeFontsStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAOptionsBase プロパティ。PDF/A 変換プロセス中に出力ファイルサイズを最小化するためのフォント除去戦略を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.plugins/pdfaoptionsbase/excludefontsstrategy/
 ---
-## PdfAOptionsBase.ExcludeFontsStrategy プロパティ
+## PdfAOptionsBase.ExcludeFontsStrategy property
 
-PDF/A 変換プロセス中に出力ファイルサイズを最小限に抑えるためにフォントを削除する戦略を取得または設定します。
+PDF/A 変換プロセス中に出力ファイルサイズを最小化するためのフォント削除戦略を取得または設定します。
 
 ```csharp
 public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-フォントを削除するための戦略。これは [`RemoveFontsStrategy`](../../../aspose.pdf/pdfformatconversionoptions.removefontsstrategy/) 列挙型の値のいずれかです。デフォルトは SubsetFonts と RemoveDuplicatedFonts の組み合わせです。
+フォント除去の戦略です。これは [`RemoveFontsStrategy`](../../../aspose.pdf/pdfformatconversionoptions.removefontsstrategy/) 列挙体の値のいずれかを指定できます。デフォルトは SubsetFonts と RemoveDuplicatedFonts の組み合わせです。
 
 ## 備考
 
-このプロパティを使用すると、変換プロセス中にフォントの扱いを制御できます。重複したフォントを削除したり、異なる幅の類似フォントを削除したり、フォントをサブセット化したりすることができます。
+このプロパティを使用すると、変換プロセス中のフォント処理方法を制御できます。重複フォントの除去、幅が異なる類似フォントの除去、またはフォントのサブセット化を選択できます。
 
 ### 関連項目
 
@@ -28,3 +28,5 @@ public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

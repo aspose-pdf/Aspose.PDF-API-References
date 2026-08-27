@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo プロパティ。ボーダーの下部を示すオブジェクトを取得または設定します
+title: "BorderInfo.Bottom"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BorderInfo プロパティ。下側の境界を示すオブジェクトを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/borderinfo/bottom/
 ---
-## BorderInfo.Bottom プロパティ
+## BorderInfo.Bottom property
 
-ボーダーの下部を示すオブジェクトを取得または設定します。
+境界線の下部を示すオブジェクトを取得または設定します。
 
 ```csharp
 public GraphInfo Bottom { get; set; }
@@ -16,7 +16,9 @@ public GraphInfo Bottom { get; set; }
 
 ### 関連項目
 
-* クラス [GraphInfo](../../graphinfo/)
-* クラス [BorderInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

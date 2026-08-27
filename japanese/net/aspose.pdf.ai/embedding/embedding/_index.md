@@ -1,12 +1,12 @@
 ---
-title: Embedding.Embedding
-second_title: Aspose.PDF for .NET API Reference
-description: 埋め込みコンストラクタ。デフォルトコンストラクタ
+title: "Embedding.Embedding"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Embedding コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/embedding/embedding/
 ---
-## 埋め込みコンストラクタ
+## Embedding constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/embedding/embedding/
 public Embedding()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Embedding](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Embedding](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

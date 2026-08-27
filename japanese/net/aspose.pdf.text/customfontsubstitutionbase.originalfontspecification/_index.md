@@ -1,12 +1,12 @@
 ---
-title: Class CustomFontSubstitutionBase.OriginalFontSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.CustomFontSubstitutionBaseOriginalFontSpecification クラス。元のフォント仕様を表します
+title: "クラス CustomFontSubstitutionBase.OriginalFontSpecification"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.CustomFontSubstitutionBaseOriginalFontSpecification クラス。元のフォント仕様を表します。"
 type: docs
-weight: 10480
+weight: 10660
 url: /ja/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/
 ---
-## CustomFontSubstitutionBase.OriginalFontSpecification クラス
+## CustomFontSubstitutionBase.OriginalFontSpecification class
 
 元のフォント仕様を表します。
 
@@ -19,15 +19,17 @@ public sealed class OriginalFontSpecification
 | 名前 | 説明 |
 | --- | --- |
 | [IsEmbedded](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/isembedded) { get; } | フォントが埋め込まれているかどうかを示す値を取得します。 |
-| [IsSubstitutionUnavoidable](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/issubstitutionunavoidable) { get; } | 置き換えが避けられないことを示す値を取得します。 |
+| [IsSubstitutionUnavoidable](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/issubstitutionunavoidable) { get; } | 置換が不可避であることを示す値を取得します。 |
 | [OriginalFontName](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/originalfontname) { get; } | 元のフォント名を取得します。 |
 
 ## 備考
 
-元のフォントに関連する情報を提供します。フラグも提供され、フォントに対して置き換えが発生するかどうかを確認するのに役立ち、ユーザーはデフォルトの置き換えロジックをオーバーライドできます。
+元のフォントに関連する情報（例：、フラグ）を提供します。また、置換がフォントで必ず発生するかどうかを確認し、ユーザーがデフォルトの置換ロジックを上書きできるフラグも提供します。
 
-### 参照
+### 関連項目
 
-* クラス [CustomFontSubstitutionBase](../customfontsubstitutionbase/)
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* class [CustomFontSubstitutionBase](../customfontsubstitutionbase/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

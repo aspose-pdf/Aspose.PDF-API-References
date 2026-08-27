@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateCaptionElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。CaptionElement を作成します。
+title: "ITaggedContent.CreateCaptionElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。CaptionElement を作成します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/
 ---
-## ITaggedContent.CreateCaptionElement メソッド
+## ITaggedContent.CreateCaptionElement method
 
-[`CaptionElement`](../../../aspose.pdf.logicalstructure/captionelement/) を作成します。
+作成します [`CaptionElement`](../../../aspose.pdf.logicalstructure/captionelement/)。
 
 ```csharp
 public CaptionElement CreateCaptionElement()
@@ -16,11 +16,13 @@ public CaptionElement CreateCaptionElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

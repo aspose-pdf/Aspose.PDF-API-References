@@ -1,14 +1,14 @@
 ---
-title: Class HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfToMarkdown.HeadingLevels クラス。フォントサイズに基づいてヘッダー レベルを操作するためのクラスを表します。
+title: "クラス HeadingLevels"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PdfToMarkdown.HeadingLevels クラス。フォントサイズに基づくヘッダーレベルを操作するためのクラスを表します。"
 type: docs
 weight: 8440
 url: /ja/net/aspose.pdf.pdftomarkdown/headinglevels/
 ---
-## HeadingLevels クラス
+## HeadingLevels class
 
-フォントサイズに基づいてヘッダー レベルを操作するためのクラスを表します。
+フォントサイズに基づくヘッダーレベルを扱うクラスを表します。
 
 ```csharp
 public class HeadingLevels
@@ -25,15 +25,17 @@ public class HeadingLevels
 
 | 名前 | 説明 |
 | --- | --- |
-| [AllLevels](../../aspose.pdf.pdftomarkdown/headinglevels/alllevels/) { get; } | すべての見出しレベルを取得します。 |
+| [AllLevels](../../aspose.pdf.pdftomarkdown/headinglevels/alllevels/) { get; } | すべてのヘッダーレベルを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [AddLevels](../../aspose.pdf.pdftomarkdown/headinglevels/addlevels/)(ICollection&lt;double&gt;) | 見出しレベルを追加します。フォントサイズのコレクションは、サイズが減少する順にソートされている必要があります。 |
+| [AddLevels](../../aspose.pdf.pdftomarkdown/headinglevels/addlevels/)(ICollection&lt;double&gt;) | ヘッダーレベルを追加します。フォントサイズのコレクションはサイズの降順にソートされている必要があります。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../)
+
+

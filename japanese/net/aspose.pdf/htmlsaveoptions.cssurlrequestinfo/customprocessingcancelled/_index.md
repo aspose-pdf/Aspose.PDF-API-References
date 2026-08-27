@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CssUrlRequestInfo.CustomProcessingCancelled
-second_title: Aspose.PDF for .NET API Reference
-description: CssUrlRequestInfo フィールド。生成された HTML でその CSS を参照するために使用される URL を定義できない場合、または定義すべきでない場合は、カスタム コードによって設定する必要があります。これが 'true' の場合、CSS ファイルは標準的な方法で標準的な場所に保存されます。
+title: "HtmlSaveOptions.CssUrlRequestInfo.CustomProcessingCancelled"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CssUrlRequestInfo フィールド。カスタムコードで設定する必要があります。生成された HTML でその CSS を参照するために使用される URL を定義できない、または定義すべきでない場合です。true の場合、CSS ファイルは標準的な方法で標準の場所に保存されます。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled/
 ---
-## HtmlSaveOptions.CssUrlRequestInfo.CustomProcessingCancelled フィールド
+## HtmlSaveOptions.CssUrlRequestInfo.CustomProcessingCancelled field
 
-生成された HTML でその CSS を参照するために使用される URL を定義できない場合、または定義すべきでない場合は、カスタム コードによって設定する必要があります。これが 'true' の場合、CSS ファイルは標準的な方法で標準的な場所に保存されます。
+カスタムコードが、生成された HTML でその CSS を参照するために使用される URL を定義できない、または定義すべきでない場合に設定する必要があります。'true' の場合、CSS ファイルは標準的な方法で標準の場所に保存されます。
 
 ```csharp
 public bool CustomProcessingCancelled;
@@ -16,6 +16,8 @@ public bool CustomProcessingCancelled;
 
 ### 関連項目
 
-* クラス [CssUrlRequestInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CssUrlRequestInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

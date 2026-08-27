@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.FreeOnDispose
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream プロパティ。破棄時に基盤となるバッファを解放するかどうかを示す値を取得または設定します。
+title: "OptimizedMemoryStream.FreeOnDispose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizedMemoryStream プロパティ。破棄時に基礎バッファを解放するかどうかを示す値を取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/optimizedmemorystream/freeondispose/
 ---
-## OptimizedMemoryStream.FreeOnDispose プロパティ
+## OptimizedMemoryStream.FreeOnDispose property
 
-破棄時に基盤となるバッファを解放するかどうかを示す値を取得または設定します。
+破棄時に基礎バッファを解放するかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool FreeOnDispose { get; set; }
@@ -16,6 +16,8 @@ public bool FreeOnDispose { get; set; }
 
 ### 関連項目
 
-* クラス [OptimizedMemoryStream](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

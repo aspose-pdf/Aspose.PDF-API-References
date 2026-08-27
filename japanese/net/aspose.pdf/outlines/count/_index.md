@@ -1,12 +1,12 @@
 ---
-title: Outlines.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Outlinesプロパティ。カウントを取得します
+title: "Outlines.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Outlines プロパティ。カウントを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/outlines/count/
 ---
-## Outlines.Countプロパティ
+## Outlines.Count property
 
 カウントを取得します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/outlines/count/
 public abstract int Count { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Outlines](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

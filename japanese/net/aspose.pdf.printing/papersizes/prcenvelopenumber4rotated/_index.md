@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber4Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。4 回転した封筒 208 mm x 110 mm
+title: "PaperSizes.PrcEnvelopeNumber4Rotated"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。 4 回転封筒 208 mm × 110 mm"
 type: docs
 weight: 950
 url: /ja/net/aspose.pdf.printing/papersizes/prcenvelopenumber4rotated/
 ---
-## PaperSizes.PrcEnvelopeNumber4Rotated フィールド
+## PaperSizes.PrcEnvelopeNumber4Rotated field
 
-#4 回転した封筒 (208 mm x 110 mm)。
+#4 回転封筒 (208 mm × 110 mm)。
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber4Rotated;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

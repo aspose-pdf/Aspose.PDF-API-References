@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.TextEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade プロパティ。フィールドテキストのテキストエンコーディングタイプ
+title: "FormFieldFacade.TextEncoding"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldFacade プロパティ。フィールドテキストのテキストエンコーディングタイプ"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.facades/formfieldfacade/textencoding/
 ---
-## FormFieldFacade.TextEncoding プロパティ
+## FormFieldFacade.TextEncoding property
 
 フィールドテキストのテキストエンコーディングタイプです。
 
@@ -20,3 +20,5 @@ public EncodingType TextEncoding { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

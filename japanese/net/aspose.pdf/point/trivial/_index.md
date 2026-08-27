@@ -1,14 +1,14 @@
 ---
-title: Point.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: Point プロパティ。ゼロ座標のポイントを取得します
+title: "Point.Trivial"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Point プロパティ。座標が 0 のポイントを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/point/trivial/
 ---
-## Point.Trivial プロパティ
+## Point.Trivial property
 
-ゼロ座標のポイントを取得します。
+座標が0の点を取得します。
 
 ```csharp
 public static Point Trivial { get; }
@@ -16,6 +16,8 @@ public static Point Trivial { get; }
 
 ### 関連項目
 
-* クラス [Point](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,28 @@
 ---
-title: Form.ExportToJson
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。PDFフォームフィールドをJSON形式にエクスポートし、結果を指定されたストリームに書き込みます。
+title: "Form.ExportToJson"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。 PDF フォームフィールドを JSON 形式でエクスポートし、結果を提供されたストリームに書き込みます。"
 type: docs
-weight: 240
+weight: 260
 url: /ja/net/aspose.pdf.forms/form/exporttojson/
 ---
 ## ExportToJson(Stream, ExportFieldsToJsonOptions) {#exporttojson}
 
-PDFフォームフィールドをJSON形式にエクスポートし、結果を指定されたストリームに書き込みます。
+PDF フォームフィールドを JSON 形式でエクスポートし、結果を提供されたストリームに書き込みます。
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream, 
     ExportFieldsToJsonOptions options = null)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| stream | Stream | JSON出力を書き込むストリーム。 |
-| options | ExportFieldsToJsonOptions | フォームフィールドをJSONにエクスポートするためのオプション設定。 |
+| stream | Stream | JSON 出力を書き込むストリームです。 |
+| オプション | ExportFieldsToJsonOptions | フォームフィールドを JSON にエクスポートするためのオプション設定です。 |
 
 ### 戻り値
 
-各フォームフィールドのエクスポート操作の結果を示す[`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/)のコレクション。
+各フォームフィールドのエクスポート操作の結果を示す [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) のコレクションです。
 
 ## 例
 
@@ -33,33 +33,33 @@ document.Form.ExportFormFieldsToJson(fs);
 fs.Close();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* クラス [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExportToJson(string, ExportFieldsToJsonOptions) {#exporttojson_1}
 
-PDFフォームフィールドをJSON形式にエクスポートし、結果を指定されたファイルに書き込みます。
+PDF フォーム フィールドを JSON 形式でエクスポートし、結果を指定されたファイルに書き込みます。
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ExportToJson(string fileName, 
     ExportFieldsToJsonOptions options = null)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fileName | String | JSON出力を書き込むファイルの名前。 |
-| options | ExportFieldsToJsonOptions | フォームフィールドをJSONにエクスポートするためのオプション設定。 |
+| fileName | String | JSON 出力を書き込むファイル名です。 |
+| オプション | ExportFieldsToJsonOptions | フォームフィールドを JSON にエクスポートするためのオプション設定です。 |
 
 ### 戻り値
 
-各フォームフィールドのエクスポート操作の結果を示す[`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/)のコレクション。
+各フォームフィールドのエクスポート操作の結果を示す [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) のコレクションです。
 
 ## 例
 
@@ -69,10 +69,12 @@ string jsonPath = "export.json";
 document.Form..ExportFormFieldsToJson(jsonPath);
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* クラス [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

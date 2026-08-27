@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.CreateMissingTable
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter プロパティ。ImportIntoDatabase は、テーブルが存在しない場合に作成します
+title: "FormDataConverter.CreateMissingTable"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormDataConverter プロパティ。ImportIntoDatabase はテーブルが存在しない場合に作成します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/formdataconverter/createmissingtable/
 ---
-## FormDataConverter.CreateMissingTable プロパティ
+## FormDataConverter.CreateMissingTable property
 
-ImportIntoDatabase は、テーブルが存在しない場合に作成します。
+ImportIntoDatabase はテーブルが存在しない場合、テーブルを作成します。
 
 ```csharp
 public bool CreateMissingTable { get; set; }
@@ -16,6 +16,8 @@ public bool CreateMissingTable { get; set; }
 
 ### 関連項目
 
-* クラス [FormDataConverter](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormDataConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

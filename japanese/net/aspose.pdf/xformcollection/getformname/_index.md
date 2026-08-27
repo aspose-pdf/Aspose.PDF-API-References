@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.GetFormName
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection メソッド。 このフォームコレクション内のフォームの名前を返します
+title: "XFormCollection.GetFormName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XFormCollection メソッド。このフォームコレクション内のフォーム名を返します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/xformcollection/getformname/
 ---
-## XFormCollection.GetFormName メソッド
+## XFormCollection.GetFormName method
 
 このフォームコレクション内のフォームの名前を返します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/xformcollection/getformname/
 public string GetFormName(XForm form)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| form | XForm | 名前が検索されるフォーム。 |
+| フォーム | XForm | 検索対象のフォーム名。 |
 
 ### 戻り値
 
-コレクション内のフォーム名; コレクションにフォームが含まれていない場合は Null。
+コレクション内のフォーム名。コレクションにフォームが含まれていない場合は Null です。
 
-### 参照
+### 関連項目
 
-* クラス [XForm](../../xform/)
-* クラス [XFormCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

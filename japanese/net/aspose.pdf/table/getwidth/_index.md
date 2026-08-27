@@ -1,12 +1,12 @@
 ---
-title: Table.GetWidth
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルメソッド。幅を取得
+title: "Table.GetWidth"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table メソッド。幅を取得します"
 type: docs
 weight: 240
 url: /ja/net/aspose.pdf/table/getwidth/
 ---
-## Table.GetWidth メソッド
+## Table.GetWidth method
 
 幅を取得します。
 
@@ -18,8 +18,10 @@ public double GetWidth()
 
 テーブルの幅
 
-### 参照
+### 関連項目
 
-* クラス [Table](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

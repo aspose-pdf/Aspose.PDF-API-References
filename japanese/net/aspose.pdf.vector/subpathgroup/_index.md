@@ -1,20 +1,22 @@
 ---
-title: Class SubPathGroup
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vector.SubPathGroup クラス。グラフィック要素コンテナのグループのためのクラスを表します。クラスオブジェクトは、グループサイズを考慮したバウンディングボックスを持っています。
+title: "クラス SubPathGroup"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Vector.SubPathGroup クラス。グラフィック要素コンテナのグループを表すクラスです。クラスオブジェクトは、グループサイズを考慮したバウンディングボックスを持ちます。"
 type: docs
-weight: 11230
+weight: 11420
 url: /ja/net/aspose.pdf.vector/subpathgroup/
 ---
-## SubPathGroup クラス
+## SubPathGroup class
 
-グラフィック要素コンテナのグループのためのクラスを表します。クラスオブジェクトは、グループサイズを考慮したバウンディングボックスを持っています。
+グラフィック要素コンテナのグループ用クラスを表します。クラスオブジェクトはグループサイズを考慮したバウンディングボックスを持ちます。
 
 ```csharp
 public class SubPathGroup
 ```
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../)
+
+

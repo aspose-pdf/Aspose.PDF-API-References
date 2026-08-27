@@ -1,12 +1,12 @@
 ---
-title: Enum TextEditOptions.FontReplace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextEditOptionsFontReplace 列挙型。フォント置換の動作
+title: "列挙体 TextEditOptions.FontReplace"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.TextEditOptionsFontReplace 列挙体。フォント置換の動作"
 type: docs
-weight: 10840
+weight: 11020
 url: /ja/net/aspose.pdf.text/texteditoptions.fontreplace/
 ---
-## TextEditOptions.FontReplace 列挙型
+## TextEditOptions.FontReplace enumeration
 
 フォント置換の動作。
 
@@ -21,8 +21,10 @@ public enum FontReplace
 | Default | `0` | フォント置換中に追加の変更は行われません。 |
 | RemoveUnusedFonts | `1` | フォント置換中に未使用となったフォントは、結果のドキュメントから削除されます。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextEditOptions](../texteditoptions/)
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* class [TextEditOptions](../texteditoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

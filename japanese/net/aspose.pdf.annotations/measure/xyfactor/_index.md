@@ -1,14 +1,14 @@
 ---
-title: Measure.XYFactor
-second_title: Aspose.PDF for .NET API Reference
-description: Measure プロパティ。y 軸に沿った最大単位を x 軸に沿った最大単位に変換するために使用される係数
+title: "Measure.XYFactor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Measure プロパティ。y 軸の最大単位を x 軸の最大単位に変換するために使用される係数です。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.annotations/measure/xyfactor/
 ---
-## Measure.XYFactor プロパティ
+## Measure.XYFactor property
 
-y 軸に沿った最大単位を x 軸に沿った最大単位に変換するために使用される係数です。
+Y 軸の最大単位を X 軸の最大単位に変換するために使用される係数です。
 
 ```csharp
 public double XYFactor { get; set; }
@@ -16,6 +16,8 @@ public double XYFactor { get; set; }
 
 ### 関連項目
 
-* クラス [Measure](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

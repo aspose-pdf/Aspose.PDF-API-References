@@ -1,12 +1,12 @@
 ---
-title: Matrix.Reverse
-second_title: Aspose.PDF for .NET API Reference
-description: マトリックスメソッド。逆行列を計算します
+title: "Matrix.Reverse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix メソッド。逆行列を計算します"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf/matrix/reverse/
 ---
-## Matrix.Reverse メソッド
+## Matrix.Reverse method
 
 逆行列を計算します。
 
@@ -16,7 +16,7 @@ public Matrix Reverse()
 
 ### 戻り値
 
-逆行列。
+逆行列です。
 
 ## 例
 
@@ -27,6 +27,8 @@ Matrix m1 = m.Reverse();
 
 ### 関連項目
 
-* クラス [Matrix](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

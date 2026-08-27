@@ -1,20 +1,20 @@
 ---
-title: PaperSize.PaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSize コンストラクタ。デフォルトプロパティを持つ PaperSize クラスの新しいインスタンスを初期化します
+title: "PaperSize.PaperSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSize コンストラクタ。PaperSize クラスの新しいインスタンスをデフォルト プロパティで初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.printing/papersize/papersize/
 ---
 ## PaperSize() {#constructor}
 
-デフォルトプロパティを持つ [`PaperSize`](../) クラスの新しいインスタンスを初期化します。
+デフォルト プロパティで [`PaperSize`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PaperSize()
 ```
 
-### See Also
+### 関連項目
 
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
@@ -30,14 +30,16 @@ public PaperSize()
 public PaperSize(string name, int width, int height)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | 用紙の名前。 |
+| 名前 | String | 用紙の名前。 |
 | width | Int32 | 用紙の幅（インチの百分の一単位）。 |
 | height | Int32 | 用紙の高さ（インチの百分の一単位）。 |
 
-### See Also
+### 関連項目
 
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Heading.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: ヘッディングメソッド。ヘッディングをクローンします
+title: "Heading.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Heading メソッド。見出しを複製します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/heading/clone/
 ---
-## Heading.Clone メソッド
+## Heading.Clone method
 
-ヘッディングをクローンします。
+見出しを複製します。
 
 ```csharp
 public override object Clone()
@@ -18,8 +18,10 @@ public override object Clone()
 
 クローンされたオブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [Heading](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

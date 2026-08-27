@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor メソッド。PDF ファイルから画像を抽出します
+title: "PdfExtractor.ExtractImage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfExtractor メソッド。PDF ファイルから画像を抽出します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.facades/pdfextractor/extractimage/
 ---
-## PdfExtractor.ExtractImage メソッド
+## PdfExtractor.ExtractImage method
 
-PDF ファイルから画像を抽出します。
+PDFファイルから画像を抽出します。
 
 ```csharp
 public void ExtractImage()
@@ -29,6 +29,8 @@ while (extractor.HasNextImage())
 
 ### 関連項目
 
-* クラス [PdfExtractor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

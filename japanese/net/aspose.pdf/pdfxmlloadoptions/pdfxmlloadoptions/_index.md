@@ -1,12 +1,12 @@
 ---
-title: PdfXmlLoadOptions.PdfXmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmlLoadOptions コンストラクタ。デフォルトコンストラクタ
+title: "PdfXmlLoadOptions.PdfXmlLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfXmlLoadOptions コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pdfxmlloadoptions/pdfxmlloadoptions/
 ---
-## PdfXmlLoadOptions コンストラクタ
+## PdfXmlLoadOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public PdfXmlLoadOptions()
 * class [PdfXmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Facade.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Facade プロパティ。ドキュメントファサードが作業しているものを取得します
+title: "Facade.Document"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Facade プロパティ。ファサードが操作しているドキュメントを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/facade/document/
 ---
-## Facade.Document プロパティ
+## Facade.Document property
 
-ドキュメントファサードが作業しているものを取得します。
+作業対象の document ファサードを取得します。
 
 ```csharp
 public Document Document { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [Facade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

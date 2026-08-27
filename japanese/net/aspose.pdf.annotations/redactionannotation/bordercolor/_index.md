@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.BorderColor
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation プロパティ。非アクティブなときに描画される境界線の色を取得または設定します。
+title: "RedactionAnnotation.BorderColor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RedactionAnnotation プロパティ。レダクションが非アクティブなときに描画される境界線の色を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/redactionannotation/bordercolor/
 ---
-## RedactionAnnotation.BorderColor プロパティ
+## RedactionAnnotation.BorderColor property
 
-非アクティブなときに描画される境界線の色を取得または設定します。
+赤字が非アクティブなときに描画される境界線の色を取得または設定します。
 
 ```csharp
 public Color BorderColor { get; set; }
@@ -16,7 +16,9 @@ public Color BorderColor { get; set; }
 
 ### 関連項目
 
-* クラス [Color](../../../aspose.pdf/color/)
-* クラス [RedactionAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

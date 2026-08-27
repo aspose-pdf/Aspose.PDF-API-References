@@ -1,12 +1,12 @@
 ---
-title: Image.GetMimeType
-second_title: Aspose.PDF for .NET API Reference
-description: 画像メソッド。画像の MIME タイプを返します
+title: "Image.GetMimeType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Image メソッド。画像の MIME タイプを返します"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/image/getmimetype/
 ---
-## Image.GetMimeType メソッド
+## Image.GetMimeType method
 
 画像の MIME タイプを返します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf/image/getmimetype/
 public static string GetMimeType(Image i)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| i | Image | 画像オブジェクト。 |
+| i | 画像 | Image オブジェクト。 |
 
 ### 戻り値
 
-見つかった場合は文字列としての MIME タイプ; それ以外の場合は "image/unknown" 値。
+見つかった場合は文字列としての MIME タイプ、見つからない場合は "image/unknown" の値です。
 
-### 参照
+### 関連項目
 
-* クラス [Image](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

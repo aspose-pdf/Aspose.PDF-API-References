@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.LBody
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandardフィールド。リストボディ リスト項目の記述内容。辞書リストでは、例えば、用語の定義が含まれています。内容を直接含む場合もあれば、他のBLSEを持ち、子としてネストされたリストを含む場合もあります。
+title: "StructureTypeStandard.LBody"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。List body リスト項目の記述的コンテンツです。たとえば辞書リストでは用語の定義が含まれます。コンテンツを直接含むか、他の BLSE を持ち、子として入れ子リストを含むこともあります。"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/lbody/
 ---
-## StructureTypeStandard.LBodyフィールド
+## StructureTypeStandard.LBody field
 
-（リストボディ）リスト項目の記述内容。辞書リストでは、例えば、用語の定義が含まれています。内容を直接含む場合もあれば、他のBLSEを持ち、子としてネストされたリストを含む場合もあります。
+(List body) リスト項目の記述内容です。たとえば辞書リストでは、用語の定義が含まれます。コンテンツを直接含むことも、他のBLSEを子として持つこともでき、ネストされたリストを含む場合もあります。
 
 ```csharp
 public static readonly StructureTypeStandard LBody;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard LBody;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XFormPlacement.XForm
-second_title: Aspose.PDF for .NET API Reference
-description: XFormPlacement プロパティ。この XFormPlacement に関連付けられた XForm を取得します
+title: "XFormPlacement.XForm"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XFormPlacement プロパティ。この XFormPlacement に関連付けられた XForm を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.vector/xformplacement/xform/
 ---
-## XFormPlacement.XForm プロパティ
+## XFormPlacement.XForm property
 
 この XFormPlacement に関連付けられた XForm を取得します。
 
@@ -20,3 +20,5 @@ public XForm XForm { get; }
 * class [XFormPlacement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

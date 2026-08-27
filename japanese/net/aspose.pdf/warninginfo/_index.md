@@ -1,12 +1,12 @@
 ---
-title: Class WarningInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.WarningInfo クラス。警告情報をカプセル化する不変オブジェクト
+title: "クラス WarningInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.WarningInfo クラス。警告情報をカプセル化するための不変オブジェクト"
 type: docs
-weight: 11280
+weight: 11470
 url: /ja/net/aspose.pdf/warninginfo/
 ---
-## WarningInfo クラス
+## WarningInfo class
 
 警告情報をカプセル化する不変オブジェクトです。
 
@@ -18,7 +18,7 @@ public sealed class WarningInfo
 
 | 名前 | 説明 |
 | --- | --- |
-| [WarningInfo](warninginfo/)(WarningType, string) | 情報を収集するためのインスタンスを構築します。 |
+| [WarningInfo](warninginfo/)(WarningType, string) | 情報収集のためのインスタンスを構築します。 |
 
 ## プロパティ
 
@@ -27,7 +27,9 @@ public sealed class WarningInfo
 | [WarningMessage](../../aspose.pdf/warninginfo/warningmessage/) { get; } | 警告メッセージの文字列表現を返します。 |
 | [WarningTypeProperty](../../aspose.pdf/warninginfo/warningtypeproperty/) { get; } | 警告タイプを返します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PrinterResolution.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterResolution メソッド。String 形式の PrinterResolution に関する興味深い情報を提供します
+title: "PrinterResolution.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrinterResolution メソッド。PrinterResolution に関する情報を文字列形式で提供します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.printing/printerresolution/tostring/
 ---
-## PrinterResolution.ToString メソッド
+## PrinterResolution.ToString method
 
-String 形式の PrinterResolution に関する興味深い情報を提供します。
+PrinterResolution に関する興味深い情報を文字列形式で提供します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-PrinterResolution を表す String。
+PrinterResolution を表す文字列です。
 
-### 参照
+### 関連項目
 
 * class [PrinterResolution](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormFlattener クラス。FormFlattener プラグインを表します
+title: "クラス FormFlattener"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.FormFlattener クラス。FormFlattener プラグインを表します。"
 type: docs
-weight: 8750
+weight: 8880
 url: /ja/net/aspose.pdf.plugins/formflattener/
 ---
-## FormFlattener クラス
+## FormFlattener class
 
 FormFlattener プラグインを表します。
 
@@ -18,16 +18,18 @@ public sealed class FormFlattener : IPlugin
 
 | 名前 | 説明 |
 | --- | --- |
-| [FormFlattener](formflattener/)() | デフォルトのコンストラクタ。 |
+| [FormFlattener](formflattener/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/formflattener/process/)(IPluginOptions) | 指定されたパラメータで FormFlattener 処理を開始します。 |
+| [Process](../../aspose.pdf.plugins/formflattener/process/)(IPluginOptions) | 指定されたパラメータで FormFlattener の処理を開始します。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IPlugin](../iplugin/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

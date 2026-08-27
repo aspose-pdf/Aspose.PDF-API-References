@@ -1,12 +1,12 @@
 ---
-title: PositionSettings.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: PositionSettings プロパティ。段落の垂直揃えを取得または設定します
+title: "PositionSettings.VerticalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PositionSettings プロパティ。段落の垂直方向の配置を取得または設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.tagged/positionsettings/verticalalignment/
 ---
-## PositionSettings.VerticalAlignment プロパティ
+## PositionSettings.VerticalAlignment property
 
 段落の垂直揃えを取得または設定します。
 
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

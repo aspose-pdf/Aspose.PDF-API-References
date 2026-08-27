@@ -1,14 +1,14 @@
 ---
-title: AbsorbedTable.PageNum
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedTable プロパティ。このテーブルを含むページの番号を取得します
+title: "AbsorbedTable.PageNum"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AbsorbedTable プロパティ。このテーブルが含まれるページ番号を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/absorbedtable/pagenum/
 ---
-## AbsorbedTable.PageNum プロパティ
+## AbsorbedTable.PageNum property
 
-このテーブルを含むページの番号を取得します
+このテーブルが含まれるページ番号を取得します
 
 ```csharp
 public int PageNum { get; }
@@ -16,6 +16,8 @@ public int PageNum { get; }
 
 ### 関連項目
 
-* クラス [AbsorbedTable](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AbsorbedTable](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

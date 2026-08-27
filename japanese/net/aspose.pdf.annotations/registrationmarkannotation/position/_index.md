@@ -1,14 +1,14 @@
 ---
-title: RegistrationMarkAnnotation.Position
-second_title: Aspose.PDF for .NET API Reference
-description: RegistrationMarkAnnotation プロパティ。ページ上の登録マークの位置を取得または設定します
+title: "RegistrationMarkAnnotation.Position"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RegistrationMarkAnnotation プロパティ。ページ上のレジストレーションマークの位置を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/registrationmarkannotation/position/
 ---
-## RegistrationMarkAnnotation.Position プロパティ
+## RegistrationMarkAnnotation.Position property
 
-ページ上の登録マークの位置を取得または設定します。
+ページ上のレジストレーションマークの位置を取得または設定します。
 
 ```csharp
 public PrinterMarkSidePosition Position { get; set; }
@@ -20,3 +20,5 @@ public PrinterMarkSidePosition Position { get; set; }
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: DateField.Init
-second_title: Aspose.PDF for .NET API Reference
-description: DateField メソッド。JS アクションを初期化します
+title: "DateField.Init"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DateField メソッド。JS アクションを初期化します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.forms/datefield/init/
 ---
-## DateField.Init メソッド
+## DateField.Init method
 
 JS アクションを初期化します。
 
@@ -14,13 +14,15 @@ JS アクションを初期化します。
 public void Init(Page page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | ページ。 |
+| ページ | ページ | ページです。 |
 
-### 参照
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

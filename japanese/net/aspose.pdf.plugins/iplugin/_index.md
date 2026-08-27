@@ -1,14 +1,14 @@
 ---
-title: Interface IPlugin
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.IPlugin インターフェース。具体的なプラグインが実装すべき共通メソッドを定義する一般的なプラグインインターフェース
+title: "インターフェイス IPlugin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.IPlugin インターフェイス。具体的なプラグインが実装すべき共通メソッドを定義する一般的なプラグインインターフェイスです"
 type: docs
-weight: 8860
+weight: 8990
 url: /ja/net/aspose.pdf.plugins/iplugin/
 ---
-## IPlugin インターフェース
+## IPlugin interface
 
-具体的なプラグインが実装すべき共通メソッドを定義する一般的なプラグインインターフェースです。
+具体的なプラグインが実装すべき共通メソッドを定義する汎用プラグインインターフェイスです。
 
 ```csharp
 public interface IPlugin
@@ -18,9 +18,11 @@ public interface IPlugin
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/iplugin/process/)(IPluginOptions) | 定義されたオプションで処理するためのプラグインを充電します |
+| [Process](../../aspose.pdf.plugins/iplugin/process/)(IPluginOptions) | 定義されたオプションでプラグインを処理させます |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

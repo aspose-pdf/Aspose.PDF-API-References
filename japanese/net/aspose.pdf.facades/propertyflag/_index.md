@@ -1,14 +1,14 @@
 ---
-title: Enum PropertyFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PropertyFlag 列挙型。可能なフィールドフラグの列挙
+title: "列挙体 PropertyFlag"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.PropertyFlag 列挙体。可能なフィールドフラグの列挙です。"
 type: docs
-weight: 4660
+weight: 4780
 url: /ja/net/aspose.pdf.facades/propertyflag/
 ---
-## PropertyFlag 列挙型
+## PropertyFlag enumeration
 
-可能なフィールドフラグの列挙。
+可能なフィールドフラグの列挙です。
 
 ```csharp
 public enum PropertyFlag
@@ -23,7 +23,9 @@ public enum PropertyFlag
 | NoExport | `2` | フィールドはエクスポートできません。 |
 | InvalidFlag | `3` | 無効なフィールドフラグです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema メソッド。スキーマからオブジェクトを削除します。
+title: "XmpPdfAExtensionSchema.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionSchema メソッド。スキーマからオブジェクトを削除します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/xmppdfaextensionschema/remove/
 ---
-## XmpPdfAExtensionSchema.Remove メソッド
+## XmpPdfAExtensionSchema.Remove method
 
 スキーマからオブジェクトを削除します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/xmppdfaextensionschema/remove/
 public void Remove(XmpPdfAExtensionObject obj)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| obj | XmpPdfAExtensionObject | 削除するオブジェクト。 |
+| obj | XmpPdfAExtensionObject | 削除するオブジェクトです。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* クラス [XmpPdfAExtensionSchema](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

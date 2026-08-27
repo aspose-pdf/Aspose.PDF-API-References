@@ -1,12 +1,12 @@
 ---
-title: FormComboBoxFieldSetOptions.FormComboBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormComboBoxFieldSetOptions コンストラクタ。デフォルトコンストラクタ
+title: "FormComboBoxFieldSetOptions.FormComboBoxFieldSetOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormComboBoxFieldSetOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/formcomboboxfieldsetoptions/formcomboboxfieldsetoptions/
 ---
-## FormComboBoxFieldSetOptions コンストラクタ
+## FormComboBoxFieldSetOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public FormComboBoxFieldSetOptions()
 * class [FormComboBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

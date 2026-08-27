@@ -1,12 +1,12 @@
 ---
-title: UnderlineAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: UnderlineAnnotation プロパティ。注釈のタイプを取得します
+title: "UnderlineAnnotation.AnnotationType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "UnderlineAnnotation プロパティ。 アノテーションのタイプを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/underlineannotation/annotationtype/
 ---
-## UnderlineAnnotation.AnnotationType プロパティ
+## UnderlineAnnotation.AnnotationType property
 
 注釈のタイプを取得します。
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [UnderlineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

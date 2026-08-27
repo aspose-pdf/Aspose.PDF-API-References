@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey メソッド。String から AttributeKey への明示的な変換を実行します。
+title: "AttributeKey.op_Explicit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeKey メソッド。String から AttributeKey への明示的な変換を実行"
 type: docs
 weight: 450
 url: /ja/net/aspose.pdf.logicalstructure/attributekey/op_explicit/
 ---
-## AttributeKey 明示的演算子
+## AttributeKey Explicit operator
 
 String から [`AttributeKey`](../) への明示的な変換を実行します。
 
@@ -14,16 +14,18 @@ String から [`AttributeKey`](../) への明示的な変換を実行します�
 public static explicit operator AttributeKey(string key)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | 属性キー。 |
+| キー | String | 属性キーです。 |
 
 ### 戻り値
 
-変換の結果。
+変換の結果です。
 
-### 参照
+### 関連項目
 
-* クラス [AttributeKey](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

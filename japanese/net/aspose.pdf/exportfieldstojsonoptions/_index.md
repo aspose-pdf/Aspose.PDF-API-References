@@ -1,12 +1,12 @@
 ---
-title: Class ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExportFieldsToJsonOptions クラス。フォームフィールドを Json 形式にエクスポートするためのオプションを表します。
+title: "クラス ExportFieldsToJsonOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ExportFieldsToJsonOptions クラス。フォームフィールドを Json 形式でエクスポートするためのオプションを表します。"
 type: docs
-weight: 4110
+weight: 4230
 url: /ja/net/aspose.pdf/exportfieldstojsonoptions/
 ---
-## ExportFieldsToJsonOptions クラス
+## ExportFieldsToJsonOptions class
 
 フォームフィールドを Json 形式にエクスポートするためのオプションを表します。
 
@@ -18,21 +18,23 @@ public class ExportFieldsToJsonOptions : ExportFieldsOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [ExportFieldsToJsonOptions](exportfieldstojsonoptions/)() | デフォルトのコンストラクタ。 |
+| [ExportFieldsToJsonOptions](exportfieldstojsonoptions/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | パスワード値をエクスポートするかどうかを示す値を取得または設定します。 |
+| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | パスワードの値をエクスポートするかどうかを示す値を取得または設定します。 |
 | [WriteIndented](../../aspose.pdf/exportfieldstojsonoptions/writeindented/) { get; set; } | Json 出力をインデントするかどうかを示す値を取得または設定します。 |
 
 ## 備考
 
-[`ExportFieldsOptions`](../exportfieldsoptions/) から継承し、Json エクスポートのための特定のオプションを追加します。
+[`ExportFieldsOptions`](../exportfieldsoptions/) から継承し、Json エクスポート用の特定オプションを追加します。
 
-### 参照
+### 関連項目
 
-* クラス [ExportFieldsOptions](../exportfieldsoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [ExportFieldsOptions](../exportfieldsoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

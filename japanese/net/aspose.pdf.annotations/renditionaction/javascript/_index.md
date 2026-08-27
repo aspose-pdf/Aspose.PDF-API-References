@@ -1,12 +1,12 @@
 ---
-title: RenditionAction.JavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: RenditionAction プロパティ。アクションに関連付けられた JavaScript コードを取得または設定します。
+title: "RenditionAction.JavaScript"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RenditionAction プロパティ。アクションに関連付けられた JavaScript コードを取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/renditionaction/javascript/
 ---
-## RenditionAction.JavaScript プロパティ
+## RenditionAction.JavaScript property
 
 アクションに関連付けられた JavaScript コードを取得または設定します。
 
@@ -16,6 +16,8 @@ public string JavaScript { get; set; }
 
 ### 関連項目
 
-* クラス [RenditionAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RenditionAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

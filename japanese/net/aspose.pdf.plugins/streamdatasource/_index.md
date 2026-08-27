@@ -1,14 +1,14 @@
 ---
-title: Class StreamDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.StreamDataSource クラス。プラグインのロードおよび保存操作のためのストリームデータソースを表します
+title: "クラス StreamDataSource"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.StreamDataSource クラス。プラグインのロードおよび保存操作のためのストリーム データ ソースを表します。"
 type: docs
-weight: 9290
+weight: 9440
 url: /ja/net/aspose.pdf.plugins/streamdatasource/
 ---
-## StreamDataSource クラス
+## StreamDataSource class
 
-プラグインのロードおよび保存操作のためのストリームデータソースを表します。
+プラグインのロードおよび保存操作用のストリーム データ ソースを表します。
 
 ```csharp
 public sealed class StreamDataSource : IDataSource
@@ -18,17 +18,19 @@ public sealed class StreamDataSource : IDataSource
 
 | 名前 | 説明 |
 | --- | --- |
-| [StreamDataSource](streamdatasource/)(Stream) | 指定されたストリームオブジェクトで新しいストリームデータソースを初期化します。 |
+| [StreamDataSource](streamdatasource/)(Stream) | 指定されたストリーム オブジェクトで新しいストリーム データ ソースを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Data](../../aspose.pdf.plugins/streamdatasource/data/) { get; } | 現在のデータソースのストリームオブジェクトを取得します。 |
+| [Data](../../aspose.pdf.plugins/streamdatasource/data/) { get; } | 現在のデータソースのストリーム オブジェクトを取得します。 |
 | [DataType](../../aspose.pdf.plugins/streamdatasource/datatype/) { get; } | データソースのタイプ（ストリーム）。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IDataSource](../idatasource/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IDataSource](../idatasource/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OutputIntents.Add
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents メソッド。コレクションに出力インテントを追加します。
+title: "OutputIntents.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutputIntents メソッド。コレクションに出力インテントを追加します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/outputintents/add/
 ---
-## OutputIntents.Add メソッド
+## OutputIntents.Add method
 
 コレクションに出力インテントを追加します。
 
@@ -14,20 +14,22 @@ url: /ja/net/aspose.pdf/outputintents/add/
 public void Add(OutputIntent item)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | OutputIntent | コレクションに追加する出力インテント。 |
+| アイテム | OutputIntent | コレクションに追加する出力インテントです。 |
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *item* が null です。 |
-| InvalidOperationException | コレクションを含むドキュメントに OutputIntents にアクセスするためのカタログがありません。 |
+| ArgumentNullException | The *item* が null です。 |
+| InvalidOperationException | コレクションを含むドキュメントには、OutputIntents にアクセスするカタログがありません。 |
 
-### 参照
+### 関連項目
 
-* クラス [OutputIntent](../../outputintent/)
-* クラス [OutputIntents](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

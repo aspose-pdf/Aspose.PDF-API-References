@@ -1,14 +1,14 @@
 ---
-title: Enum IconCaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.IconCaptionPosition 列挙型。アイコンの位置を説明します。
+title: "列挙型 IconCaptionPosition"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Forms.IconCaptionPosition 列挙型。アイコンの位置を表します。"
 type: docs
-weight: 5110
+weight: 5230
 url: /ja/net/aspose.pdf.forms/iconcaptionposition/
 ---
-## IconCaptionPosition 列挙型
+## IconCaptionPosition enumeration
 
-アイコンの位置を説明します。
+アイコンの位置を記述します。
 
 ```csharp
 public enum IconCaptionPosition
@@ -24,9 +24,11 @@ public enum IconCaptionPosition
 | CaptionAboveIcon | `3` | キャプションはアイコンの上にあります。 |
 | CaptionToTheRight | `4` | キャプションは右側にあります。 |
 | CaptionToTheLeft | `5` | キャプションは左側にあります。 |
-| CaptionOverlaid | `6` | キャプションが重なっています。 |
+| CaptionOverlaid | `6` | キャプションが重ねて表示されます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

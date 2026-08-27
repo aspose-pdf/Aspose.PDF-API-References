@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.DefaultOfSoundChannels
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData フィールド。Channels パラメータのデフォルト値
+title: "SoundSampleData.DefaultOfSoundChannels"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SoundSampleData フィールド。Channels パラメータのデフォルト値。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/
 ---
-## SoundSampleData.DefaultOfSoundChannels フィールド
+## SoundSampleData.DefaultOfSoundChannels field
 
-Channels パラメータのデフォルト値です。
+Channels パラメーターのデフォルト値です。
 
 ```csharp
 public const int DefaultOfSoundChannels;
@@ -16,6 +16,8 @@ public const int DefaultOfSoundChannels;
 
 ### 関連項目
 
-* クラス [SoundSampleData](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.Format
-second_title: Aspose.PDF for .NET API Reference
-description: BitmapInfo プロパティ。ビットマップのピクセル形式を取得します
+title: "BitmapInfo.Format"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BitmapInfo プロパティ。ビットマップのピクセル形式を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/bitmapinfo/format/
 ---
-## BitmapInfo.Format プロパティ
+## BitmapInfo.Format property
 
 ビットマップのピクセル形式を取得します。
 
@@ -20,3 +20,5 @@ public PixelFormat Format { get; }
 * class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

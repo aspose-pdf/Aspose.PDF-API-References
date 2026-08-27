@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection プロパティ。コレクションへのアクセスを同期するために使用できるオブジェクトを取得します。
+title: "ImagePlacementCollection.SyncRoot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImagePlacementCollection プロパティ。コレクションへのアクセスを同期するために使用できるオブジェクトを取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/imageplacementcollection/syncroot/
 ---
-## ImagePlacementCollection.SyncRoot プロパティ
+## ImagePlacementCollection.SyncRoot property
 
-コレクションへのアクセスを同期するために使用できるオブジェクトを取得します。
+コレクションへのアクセスを同期化するために使用できるオブジェクトを取得します。
 
 ```csharp
 public object SyncRoot { get; }
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### 関連項目
 
-* クラス [ImagePlacementCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

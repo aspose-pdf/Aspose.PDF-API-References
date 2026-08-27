@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateReferenceElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。ReferenceElement を作成します。
+title: "ITaggedContent.CreateReferenceElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。ReferenceElement を作成します"
 type: docs
-weight: 240
+weight: 270
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createreferenceelement/
 ---
-## ITaggedContent.CreateReferenceElement メソッド
+## ITaggedContent.CreateReferenceElement method
 
-[`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement/) を作成します。
+作成します [`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement/)。
 
 ```csharp
 public ReferenceElement CreateReferenceElement()
@@ -16,11 +16,13 @@ public ReferenceElement CreateReferenceElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [ReferenceElement](../../../aspose.pdf.logicalstructure/referenceelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ReferenceElement](../../../aspose.pdf.logicalstructure/referenceelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

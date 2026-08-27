@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse プロパティ。ファインチューニングジョブに使用されるモデルを取得または設定します
+title: "CreateFineTuningJobResponse.Model"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CreateFineTuningJobResponse プロパティ。ファインチューニングジョブで使用されるモデルを取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.ai/createfinetuningjobresponse/model/
 ---
-## CreateFineTuningJobResponse.Model プロパティ
+## CreateFineTuningJobResponse.Model property
 
-ファインチューニングジョブに使用されるモデルを取得または設定します。
+ファインチューニングジョブで使用されるモデルを取得または設定します。
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

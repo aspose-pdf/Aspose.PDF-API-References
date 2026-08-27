@@ -1,12 +1,12 @@
 ---
-title: Stamp.BottomMargin
-second_title: Aspose.PDF for .NET API Reference
-description: スタンププロパティ。スタンプの下余白を取得または設定します
+title: "Stamp.BottomMargin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp プロパティ。スタンプの下余白を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/stamp/bottommargin/
 ---
-## Stamp.BottomMargin プロパティ
+## Stamp.BottomMargin property
 
 スタンプの下余白を取得または設定します。
 
@@ -16,6 +16,8 @@ public double BottomMargin { get; set; }
 
 ### 関連項目
 
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.FormattedValue
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField プロパティ。マークアップ付きのフォーマットされたリッチテキスト値を取得または設定します。
+title: "RichTextBoxField.FormattedValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RichTextBoxField プロパティ。マークアップ付きのフォーマット済みリッチテキスト値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.forms/richtextboxfield/formattedvalue/
 ---
-## RichTextBoxField.FormattedValue プロパティ
+## RichTextBoxField.FormattedValue property
 
-マークアップ付きのフォーマットされたリッチテキスト値を取得または設定します。
+書式設定されたリッチテキスト値（マークアップ付き）を取得または設定します。
 
 ```csharp
 public string FormattedValue { get; set; }
@@ -16,6 +16,8 @@ public string FormattedValue { get; set; }
 
 ### 関連項目
 
-* クラス [RichTextBoxField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

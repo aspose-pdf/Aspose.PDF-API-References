@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DeleteAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。PDF ドキュメント内のすべての添付ファイルを削除します
+title: "PdfContentEditor.DeleteAttachments"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。PDF ドキュメント内のすべての添付ファイルを削除します"
 type: docs
 weight: 310
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/deleteattachments/
 ---
-## PdfContentEditor.DeleteAttachments メソッド
+## PdfContentEditor.DeleteAttachments method
 
-PDF ドキュメント内のすべての添付ファイルを削除します。
+PDFドキュメント内のすべての添付ファイルを削除します。
 
 ```csharp
 public void DeleteAttachments()
@@ -25,6 +25,8 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

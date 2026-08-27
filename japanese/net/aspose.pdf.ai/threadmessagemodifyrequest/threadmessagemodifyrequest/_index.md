@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageModifyRequest.ThreadMessageModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageModifyRequest コンストラクタ。デフォルトコンストラクタ
+title: "ThreadMessageModifyRequest.ThreadMessageModifyRequest"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ThreadMessageModifyRequest コンストラクタ。デフォルト コンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/threadmessagemodifyrequest/threadmessagemodifyrequest/
 ---
-## ThreadMessageModifyRequest コンストラクタ
+## ThreadMessageModifyRequest constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public ThreadMessageModifyRequest()
 * class [ThreadMessageModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FontSourceCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection メソッド。コレクション全体の列挙子を返します
+title: "FontSourceCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontSourceCollection メソッド。コレクション全体の列挙子を返します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.text/fontsourcecollection/getenumerator/
 ---
-## FontSourceCollection.GetEnumerator メソッド
+## FontSourceCollection.GetEnumerator method
 
 コレクション全体の列挙子を返します。
 
@@ -16,11 +16,13 @@ public IEnumerator<FontSource> GetEnumerator()
 
 ### 戻り値
 
-列挙子オブジェクト。
+列挙子オブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [FontSource](../../fontsource/)
-* クラス [FontSourceCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

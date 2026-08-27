@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs メソッド。新しい Clone オブジェクトをクローンします
+title: "Paragraphs.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Paragraphs メソッド。新しい Clone オブジェクトをクローンします"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/paragraphs/clone/
 ---
-## Paragraphs.Clone メソッド
+## Paragraphs.Clone method
 
-新しい `Clone` オブジェクトをクローンします。
+`Clone` オブジェクトを新しくクローンします。
 
 ```csharp
 public object Clone()
@@ -16,10 +16,12 @@ public object Clone()
 
 ### 戻り値
 
-新しい `Clone` オブジェクト。
+新しい `Clone` オブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [Paragraphs](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

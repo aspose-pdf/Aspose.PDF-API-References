@@ -1,22 +1,22 @@
 ---
-title: Document.ExportAnnotationsToXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。すべてのドキュメント注釈をXFDFファイルにエクスポートします
+title: "Document.ExportAnnotationsToXfdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。すべてのドキュメント注釈を XFDF ファイルにエクスポートします。"
 type: docs
-weight: 630
+weight: 650
 url: /ja/net/aspose.pdf/document/exportannotationstoxfdf/
 ---
 ## ExportAnnotationsToXfdf(string) {#exportannotationstoxfdf_1}
 
-すべてのドキュメント注釈をXFDFファイルにエクスポートします
+すべての Document 注釈を XFDF ファイルにエクスポートします
 
 ```csharp
 public void ExportAnnotationsToXfdf(string fileName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fileName | String | XFDFファイル名 |
+| fileName | String | XFDF ファイル名 |
 
 ### 関連項目
 
@@ -28,18 +28,20 @@ public void ExportAnnotationsToXfdf(string fileName)
 
 ## ExportAnnotationsToXfdf(Stream) {#exportannotationstoxfdf}
 
-すべてのドキュメント注釈をストリームにエクスポートします。
+すべての Document 注釈をストリームにエクスポートします。
 
 ```csharp
 public void ExportAnnotationsToXfdf(Stream stream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| stream | Stream | XFDFを保存するストリーム。 |
+| stream | Stream | XFDF を格納するストリーム。 |
 
 ### 関連項目
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

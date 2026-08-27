@@ -1,25 +1,27 @@
 ---
-title: XImage.ImageMask
-second_title: Aspose.PDF for .NET API Reference
-description: XImage プロパティ。画像が画像マスクとして扱われるかどうかを示すフラグを取得します（8.9.6 マスク付き画像を参照）。このフラグが true の場合、BitsPerComponent の値は 1 であり、Mask と ColorSpace は指定されないものとし、マスクされていない領域は現在の非ストロークカラーを使用して塗りつぶされます。デフォルト値 false
+title: "XImage.ImageMask"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImage プロパティ。画像がイメージマスクとして扱われるかどうかを示すフラグを取得します（8.9.6 Masked Images を参照）。このフラグが true の場合、BitsPerComponent の値は 1 となり、Mask と ColorSpace は指定できません。マスクされていない領域は現在の非ストローク色で塗りつぶされます。デフォルト値は false です。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/ximage/imagemask/
 ---
-## XImage.ImageMask プロパティ
+## XImage.ImageMask property
 
-画像が画像マスクとして扱われるかどうかを示すフラグを取得します（8.9.6、「マスク付き画像」を参照）。このフラグが true の場合、BitsPerComponent の値は 1 であり、Mask と ColorSpace は指定されず、マスクされていない領域は現在の非ストロークカラーを使用して塗りつぶされます。デフォルト値: false。
+画像がイメージマスクとして扱われるかどうかを示すフラグを取得します（8.9.6「Masked Images」参照）。このフラグが true の場合、BitsPerComponent の値は 1 であり、Mask と ColorSpace は指定されません。マスクされていない領域は現在の非ストロークカラーで塗りつぶされます。既定値: false。
 
 ```csharp
 public bool ImageMask { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-画像が画像マスクである場合は true です。
+画像がイメージマスクである場合は True です。
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Artifact.Type
-second_title: Aspose.PDF for .NET API Reference
-description: アーティファクトプロパティ。アーティファクトタイプを取得します
+title: "Artifact.Type"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Artifact プロパティ。 アーティファクトのタイプを取得します"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf/artifact/type/
 ---
-## Artifact.Type プロパティ
+## Artifact.Type property
 
-アーティファクトタイプを取得します。
+アーティファクトのタイプを取得します。
 
 ```csharp
 public ArtifactType Type { get; set; }
@@ -20,3 +20,5 @@ public ArtifactType Type { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

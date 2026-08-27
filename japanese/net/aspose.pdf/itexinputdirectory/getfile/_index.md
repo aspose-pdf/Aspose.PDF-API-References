@@ -1,31 +1,33 @@
 ---
-title: ITeXInputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: ITeXInputDirectory メソッド。読み取りまたは書き込みのためのストリームを返します
+title: "ITeXInputDirectory.GetFile"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITeXInputDirectory メソッド。読み取りまたは書き込み用のストリームを返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/itexinputdirectory/getfile/
 ---
-## ITeXInputDirectory.GetFile メソッド
+## ITeXInputDirectory.GetFile method
 
-読み取りまたは書き込みのためのストリームを返します。
+読み取りまたは書き込みに使用するストリームを返します。
 
 ```csharp
 public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fileName | String | ファイル名。 |
-| fullName | String& | フルファイル名。 |
-| searchSubdirectories | Boolean | サブディレクトリ内でファイルを探すかどうかを示します。 |
+| fullName | String& | 完全なファイル名です |
+| searchSubdirectories | Boolean | サブディレクトリ内のファイルを検索するかどうかを示します |
 
 ### 戻り値
 
 ストリーム。
 
-### 参照
+### 関連項目
 
-* インターフェース [ITeXInputDirectory](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ITeXInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

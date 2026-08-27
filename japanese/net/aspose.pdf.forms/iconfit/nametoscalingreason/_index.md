@@ -1,12 +1,12 @@
 ---
-title: IconFit.NameToScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: IconFit メソッド。スケーリング理由の名前を ScalingReason オブジェクトに変換します。
+title: "IconFit.NameToScalingReason"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IconFit メソッド。スケーリング理由の名前を ScalingReason オブジェクトに変換します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.forms/iconfit/nametoscalingreason/
 ---
-## IconFit.NameToScalingReason メソッド
+## IconFit.NameToScalingReason method
 
 スケーリング理由の名前を ScalingReason オブジェクトに変換します。
 
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.forms/iconfit/nametoscalingreason/
 public static ScalingReason NameToScalingReason(string reason)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | reason | String | スケーリング理由の名前。 |
 
@@ -22,9 +22,11 @@ public static ScalingReason NameToScalingReason(string reason)
 
 スケーリング理由オブジェクト。
 
-### 参照
+### 関連項目
 
 * enum [ScalingReason](../../scalingreason/)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

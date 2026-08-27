@@ -1,12 +1,12 @@
 ---
-title: Row.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Row プロパティ。背景色を取得または設定します
+title: "Row.BackgroundColor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Row プロパティ。背景色を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/row/backgroundcolor/
 ---
-## Row.BackgroundColor プロパティ
+## Row.BackgroundColor property
 
 背景色を取得または設定します。
 
@@ -20,3 +20,5 @@ public Color BackgroundColor { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

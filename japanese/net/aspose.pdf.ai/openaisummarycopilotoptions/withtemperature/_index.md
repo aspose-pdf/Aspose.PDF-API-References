@@ -1,29 +1,31 @@
 ---
-title: OpenAISummaryCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions メソッド。サマリーコパイロットオプションの温度を設定します
+title: "OpenAISummaryCopilotOptions.WithTemperature"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAISummaryCopilotOptions メソッド。サマリーコパイロットオプションの温度を設定します"
 type: docs
-weight: 130
+weight: 140
 url: /ja/net/aspose.pdf.ai/openaisummarycopilotoptions/withtemperature/
 ---
-## OpenAISummaryCopilotOptions.WithTemperature メソッド
+## OpenAISummaryCopilotOptions.WithTemperature method
 
-サマリーコパイロットオプションの温度を設定します。
+要約コパイロットオプションの温度を設定します。
 
 ```csharp
 public OpenAISummaryCopilotOptions WithTemperature(double? temperature)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | temperature | Nullable`1 | 設定する温度。 |
 
 ### 戻り値
 
-[`OpenAISummaryCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAISummaryCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAISummaryCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

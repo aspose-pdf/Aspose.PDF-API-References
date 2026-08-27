@@ -1,28 +1,28 @@
 ---
-title: PdfFileSecurity.TrySetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity メソッド。元のパスワードで Pdf ファイルのセキュリティを設定します。プロセスが失敗した場合は例外をスローしません。
+title: "PdfFileSecurity.TrySetPrivilege"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSecurity メソッド。元のパスワードで Pdf ファイルのセキュリティを設定します。処理が失敗しても例外はスローされません。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/
 ---
-## PdfFileSecurity.TrySetPrivilege メソッド
+## PdfFileSecurity.TrySetPrivilege method
 
-元のパスワードで Pdf ファイルのセキュリティを設定します。プロセスが失敗した場合は例外をスローしません。
+元のパスワードで Pdf ファイルのセキュリティを設定します。処理が失敗しても例外はスローされません。
 
 ```csharp
 public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| userPassword | 文字列 | 元のユーザーパスワード。 |
-| ownerPassword | 文字列 | 元のオーナーパスワード。 |
-| privilege | DocumentPrivilege | 権限を設定します。 |
+| userPassword | String | 元のユーザーパスワード。 |
+| ownerPassword | String | 元のオーナーパスワード。 |
+| 権限 | DocumentPrivilege | 権限を設定します。 |
 
 ### 戻り値
 
-成功の場合は true、失敗の場合は false。
+成功した場合は true、失敗した場合は false。
 
 ## 例
 
@@ -42,7 +42,9 @@ Dim result As Boolean = fileSecurity.TrySetPrivilege(userPassword, ownerPassword
 
 ### 関連項目
 
-* クラス [DocumentPrivilege](../../documentprivilege/)
-* クラス [PdfFileSecurity](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

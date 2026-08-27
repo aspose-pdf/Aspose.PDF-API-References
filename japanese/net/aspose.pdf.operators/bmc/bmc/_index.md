@@ -1,25 +1,27 @@
 ---
-title: BMC.BMC
-second_title: Aspose.PDF for .NET API Reference
-description: BMC コンストラクタ。オペレーターを初期化します
+title: "BMC.BMC"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BMC コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/bmc/bmc/
 ---
-## BMC コンストラクタ
+## BMC constructor
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public BMC(string tag)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| tag | String | マークされたコンテンツタグ。 |
+| タグ | String | マークされたコンテンツタグ。 |
 
-### 参照
+### 関連項目
 
-* クラス [BMC](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BMC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

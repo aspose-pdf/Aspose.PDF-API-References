@@ -1,104 +1,106 @@
 ---
-title: LlamaSummaryCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions メソッド。サマリーコパイロットオプションのためのドキュメントコレクションを設定します
+title: "LlamaSummaryCopilotOptions.WithDocuments"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LlamaSummaryCopilotOptions メソッド。要約コパイロットオプションのドキュメントコレクションを設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-サマリーコパイロットオプションのためのドキュメントコレクションを設定します。
+要約コパイロットオプションのドキュメントコレクションを設定します。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(DocumentCollection documentCollection)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | 設定するドキュメントコレクション。 |
+| documentCollection | DocumentCollection | 設定するドキュメントコレクションです。 |
 
 ### 戻り値
 
-現在のインスタンスの [`LlamaSummaryCopilotOptions`](../)。
+現在の [`LlamaSummaryCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [DocumentCollection](../../documentcollection/)
-* クラス [LlamaSummaryCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentCollection](../../documentcollection/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-サマリーコパイロットオプションのためのドキュメントコレクションに複数のテキストドキュメントを追加します。
+要約コパイロットオプションのドキュメントコレクションに複数のテキストドキュメントを追加します。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| textDocuments | List`1 | 追加するテキストドキュメントのリスト。 |
+| textDocuments | List`1 | 追加するテキスト ドキュメントの一覧です。 |
 
 ### 戻り値
 
-現在のインスタンスの [`LlamaSummaryCopilotOptions`](../)。
+現在の [`LlamaSummaryCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [TextDocument](../../textdocument/)
-* クラス [LlamaSummaryCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-サマリーコパイロットオプションのためのドキュメントコレクションに複数のPDFドキュメントを追加します。
+要約コパイロットオプションのドキュメントコレクションに複数の PDF ドキュメントを追加します。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pdfDocuments | List`1 | 追加するPDFドキュメントのリスト。 |
+| pdfDocuments | List`1 | 追加する PDF ドキュメントのリストです。 |
 
 ### 戻り値
 
-現在のインスタンスの [`LlamaSummaryCopilotOptions`](../)。
+現在の [`LlamaSummaryCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [PdfDocument](../../pdfdocument/)
-* クラス [LlamaSummaryCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-サマリーコパイロットオプションのためのドキュメントコレクションに複数のドキュメントパスを追加します。
+要約コパイロットオプションのドキュメントコレクションに複数のドキュメントパスを追加します。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<string> filePaths)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filePaths | List`1 | 追加するファイルパスのリスト。 |
+| filePaths | List`1 | 追加するファイルパスのリストです。 |
 
 ### 戻り値
 
-現在のインスタンスの [`LlamaSummaryCopilotOptions`](../)。
+現在の [`LlamaSummaryCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [LlamaSummaryCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

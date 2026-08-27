@@ -1,7 +1,7 @@
 ---
-title: TextFragment.TextFragment
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment コンストラクタ。TextFragment オブジェクトの新しいインスタンスを初期化します
+title: "TextFragment.TextFragment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragment コンストラクタ。TextFragment オブジェクトの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/textfragment/textfragment/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.text/textfragment/textfragment/
 public TextFragment()
 ```
 
-### See Also
+### 関連項目
 
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -24,17 +24,17 @@ public TextFragment()
 
 ## TextFragment(TabStops) {#constructor_1}
 
-事前定義された [`TabStops`](../../tabstops/) 位置を持つ [`TextFragment`](../) オブジェクトの新しいインスタンスを初期化します。
+事前定義された [`TabStops`](../../tabstops/) の位置を使用して、[`TextFragment`](../) オブジェクトの新しいインスタンスを初期化します。
 
 ```csharp
 public TextFragment(TabStops tabStops)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | tabStops | TabStops | タブ位置 |
 
-### See Also
+### 関連項目
 
 * class [TabStops](../../tabstops/)
 * class [TextFragment](../)
@@ -45,17 +45,17 @@ public TextFragment(TabStops tabStops)
 
 ## TextFragment(string) {#constructor_2}
 
-単一の [`TextSegment`](../../textsegment/) オブジェクトを含む [`TextFragment`](../) オブジェクトを作成します。セグメント内のテキスト文字列を指定します。
+単一の [`TextSegment`](../../textsegment/) オブジェクトを内部に持つ [`TextFragment`](../) オブジェクトを作成します。セグメント内のテキスト文字列を指定します。
 
 ```csharp
 public TextFragment(string text)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | テキストフラグメントのテキスト。 |
+| テキスト | String | テキストフラグメントのテキストです。 |
 
-### See Also
+### 関連項目
 
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -65,20 +65,22 @@ public TextFragment(string text)
 
 ## TextFragment(string, TabStops) {#constructor_3}
 
-単一の [`TextSegment`](../../textsegment/) オブジェクトを含む [`TextFragment`](../) オブジェクトを作成し、事前定義された [`TabStops`](../../tabstops/) 位置を持ちます。
+`[`TextFragment`](../)` オブジェクトを作成し、内部に単一の `[`TextSegment`](../../textsegment/)` オブジェクトと事前定義された `[`TabStops`](../../tabstops/)` 位置を設定します。
 
 ```csharp
 public TextFragment(string text, TabStops tabStops)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | テキストフラグメントのテキスト。 |
+| テキスト | String | テキストフラグメントのテキストです。 |
 | tabStops | TabStops | タブ位置 |
 
-### See Also
+### 関連項目
 
 * class [TabStops](../../tabstops/)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

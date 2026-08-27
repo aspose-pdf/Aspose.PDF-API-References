@@ -1,12 +1,12 @@
 ---
-title: Form.Response
-second_title: Aspose.PDF for .NET API Reference
-description: フォームプロパティ。操作の結果が格納される Response オブジェクトを取得または設定します。
+title: "Form.Response"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form プロパティ。操作結果が格納される Response オブジェクトを取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/form/response/
 ---
-## Form.Response プロパティ
+## Form.Response property
 
 操作の結果が格納される Response オブジェクトを取得または設定します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.facades/form/response/
 public HttpResponse Response { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

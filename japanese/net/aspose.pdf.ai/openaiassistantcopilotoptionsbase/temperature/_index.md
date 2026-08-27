@@ -1,21 +1,23 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIAssistantCopilotOptionsBaseプロパティ。モデルに使用するサンプリング温度を取得または設定します。
+title: "OpenAIAssistantCopilotOptionsBase.Temperature"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIAssistantCopilotOptionsBase プロパティ。モデルで使用するサンプリング温度を取得または設定します"
 type: docs
-weight: 50
+weight: 40
 url: /ja/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/temperature/
 ---
-## OpenAIAssistantCopilotOptionsBase.Temperatureプロパティ
+## OpenAIAssistantCopilotOptionsBase.Temperature property
 
-モデルに使用するサンプリング温度を取得または設定します。
+モデルで使用するサンプリング温度を取得または設定します。
 
 ```csharp
 public double? Temperature { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIAssistantCopilotOptionsBase](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

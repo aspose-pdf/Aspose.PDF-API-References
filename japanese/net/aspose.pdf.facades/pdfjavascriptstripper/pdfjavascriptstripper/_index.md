@@ -1,14 +1,14 @@
 ---
-title: PdfJavaScriptStripper.PdfJavaScriptStripper
-second_title: Aspose.PDF for .NET API Reference
-description: PdfJavaScriptStripper コンストラクタ。デフォルトのコンストラクタ
+title: "PdfJavaScriptStripper.PdfJavaScriptStripper"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfJavaScriptStripper コンストラクタ。デフォルトコンストラクタ。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/pdfjavascriptstripper/pdfjavascriptstripper/
 ---
-## PdfJavaScriptStripper コンストラクタ
+## PdfJavaScriptStripper constructor
 
-デフォルトのコンストラクタです。
+デフォルトコンストラクタです。
 
 ```csharp
 public PdfJavaScriptStripper()
@@ -16,6 +16,8 @@ public PdfJavaScriptStripper()
 
 ### 関連項目
 
-* クラス [PdfJavaScriptStripper](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfJavaScriptStripper](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

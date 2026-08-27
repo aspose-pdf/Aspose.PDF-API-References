@@ -1,7 +1,7 @@
 ---
-title: PsSaveOptions.PsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PsSaveOptions コンストラクタ。コンストラクタ
+title: "PsSaveOptions.PsSaveOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PsSaveOptions コンストラクタ。コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pssaveoptions/pssaveoptions/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf/pssaveoptions/pssaveoptions/
 public PsSaveOptions()
 ```
 
-### See Also
+### 関連項目
 
 * class [PsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,13 +30,15 @@ public PsSaveOptions()
 public PsSaveOptions(SaveFormat saveFormat)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | saveFormat | SaveFormat | 保存形式。 |
 
-### See Also
+### 関連項目
 
 * enum [SaveFormat](../../saveformat/)
 * class [PsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

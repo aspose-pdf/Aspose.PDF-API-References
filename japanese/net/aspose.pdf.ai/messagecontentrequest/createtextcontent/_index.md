@@ -1,12 +1,12 @@
 ---
-title: MessageContentRequest.CreateTextContent
-second_title: Aspose.PDF for .NET API Reference
-description: MessageContentRequest メソッド。メッセージのテキストコンテンツを作成します。
+title: "MessageContentRequest.CreateTextContent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MessageContentRequest メソッド。メッセージ用のテキストコンテンツを作成します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.ai/messagecontentrequest/createtextcontent/
 ---
-## MessageContentRequest.CreateTextContent メソッド
+## MessageContentRequest.CreateTextContent method
 
 メッセージのテキストコンテンツを作成します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.ai/messagecontentrequest/createtextcontent/
 public static MessageContentRequest CreateTextContent(string text)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | メッセージのテキストコンテンツ。 |
+| テキスト | String | メッセージのテキストコンテンツです。 |
 
 ### 戻り値
 
-テキストコンテンツを持つ新しい MessageContentRequest のインスタンス。
+テキストコンテンツを持つ MessageContentRequest の新しいインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [MessageContentRequest](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MessageContentRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

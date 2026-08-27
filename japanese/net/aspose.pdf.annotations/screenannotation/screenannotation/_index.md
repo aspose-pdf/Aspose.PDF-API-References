@@ -1,24 +1,24 @@
 ---
-title: ScreenAnnotation.ScreenAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: ScreenAnnotation コンストラクタ。指定されたページに新しいスクリーン注釈を作成します。
+title: "ScreenAnnotation.ScreenAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ScreenAnnotation コンストラクタ。指定されたページに新しい Screen アノテーションを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/screenannotation/screenannotation/
 ---
-## ScreenAnnotation コンストラクタ
+## ScreenAnnotation constructor
 
-指定されたページに新しいスクリーン注釈を作成します。
+指定されたページに新しい Screen アノテーションを作成します。
 
 ```csharp
 public ScreenAnnotation(Page page, Rectangle rect, string mediaFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 注釈を作成するドキュメントのページ。 |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈の矩形。 |
-| mediaFile | String | マルチメディアファイルへのパス。 |
+| ページ | ページ | アノテーションが作成されるべき Document の Page。 |
+| rect | Rectangle | ページ上の annotation rectangle、アノテーションの位置を定義します。 |
+| mediaFile | String | マルチメディア ファイルへのパスです。 |
 
 ### 関連項目
 
@@ -27,3 +27,5 @@ public ScreenAnnotation(Page page, Rectangle rect, string mediaFile)
 * class [ScreenAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

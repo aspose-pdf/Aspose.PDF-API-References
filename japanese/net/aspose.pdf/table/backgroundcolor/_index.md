@@ -1,12 +1,12 @@
 ---
-title: Table.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルプロパティ。テーブルの背景色を取得または設定します
+title: "Table.BackgroundColor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table プロパティ。テーブルの背景色を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/table/backgroundcolor/
 ---
-## Table.BackgroundColor プロパティ
+## Table.BackgroundColor property
 
 テーブルの背景色を取得または設定します
 
@@ -20,3 +20,5 @@ public Color BackgroundColor { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

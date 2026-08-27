@@ -1,12 +1,12 @@
 ---
-title: MarkupSection.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupSection プロパティ。セクションの矩形
+title: "MarkupSection.Rectangle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarkupSection プロパティ。セクションの Rectangle"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.text/markupsection/rectangle/
 ---
-## MarkupSection.Rectangle プロパティ
+## MarkupSection.Rectangle property
 
 セクションの矩形
 
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [MarkupSection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

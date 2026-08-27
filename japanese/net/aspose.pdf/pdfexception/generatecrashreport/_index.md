@@ -1,26 +1,28 @@
 ---
-title: PdfException.GenerateCrashReport
-second_title: Aspose.PDF for .NET API Reference
-description: PdfException メソッド。例外 HTML 形式に基づいてクラッシュレポートを生成します
+title: "PdfException.GenerateCrashReport"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfException メソッド。例外の HTML 形式に基づいてクラッシュレポートを作成します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/pdfexception/generatecrashreport/
 ---
-## PdfException.GenerateCrashReport メソッド
+## PdfException.GenerateCrashReport method
 
-例外 HTML 形式に基づいてクラッシュレポートを生成します
+例外 HTML 形式に基づくクラッシュレポートを作成します。
 
 ```csharp
 public static void GenerateCrashReport(CrashReportOptions options)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | CrashReportOptions | クラッシュレポートに含まれるデータをカスタマイズするための属性のセット |
+| オプション | CrashReportOptions | クラッシュレポートに含めるデータをカスタマイズするための属性セットです。 |
 
-### 参照
+### 関連項目
 
-* クラス [CrashReportOptions](../../crashreportoptions/)
-* クラス [PdfException](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CrashReportOptions](../../crashreportoptions/)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

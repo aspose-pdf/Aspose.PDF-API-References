@@ -1,27 +1,29 @@
 ---
-title: CharInfoCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection メソッド。指定されたターゲット配列のインデックスから始めて、互換性のある一次元配列にコレクション全体をコピーします。
+title: "CharInfoCollection.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CharInfoCollection メソッド。コレクション全体を互換性のある一次元配列に、対象配列の指定インデックスから開始してコピーします"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.text/charinfocollection/copyto/
 ---
-## CharInfoCollection.CopyTo メソッド
+## CharInfoCollection.CopyTo method
 
-指定されたターゲット配列のインデックスから始めて、互換性のある一次元配列にコレクション全体をコピーします。
+対象配列の指定インデックスから開始して、互換性のある一次元配列にコレクション全体をコピーします。
 
 ```csharp
 public void CopyTo(CharInfo[] array, int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | CharInfo[] | コピーされるオブジェクトの配列。 |
-| index | Int32 | コピーが開始される開始インデックス。 |
+| 配列 | CharInfo[] | コピーされるオブジェクトの配列です。 |
+| インデックス | Int32 | コピーが開始される開始インデックスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [CharInfo](../../charinfo/)
-* クラス [CharInfoCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

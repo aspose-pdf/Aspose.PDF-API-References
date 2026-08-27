@@ -1,23 +1,23 @@
 ---
-title: FormEditor.AddListItem
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。リストボックスに新しいアイテムを追加します
+title: "FormEditor.AddListItem"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor メソッド。リストボックスに新しい項目を追加します"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.facades/formeditor/addlistitem/
 ---
 ## AddListItem(string, string) {#addlistitem}
 
-リストボックスに新しいアイテムを追加します。
+リストボックスに新しい項目を追加します。
 
 ```csharp
 public void AddListItem(string fieldName, string itemName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | String | 新しいアイテムが追加されるフィールドの名前。 |
-| itemName | String | 新しいアイテムの名前。 |
+| fieldName | String | 新しい項目が追加されるフィールドの名前。 |
+| itemName | String | 新しい項目の名前。 |
 
 ## 例
 
@@ -26,26 +26,26 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", PdfForm_out.pdf");
 formEditor.AddListItem("listBoxField", "Item 4 (New Item)");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddListItem(string, string[]) {#addlistitem_1}
 
-既存のリストボックスフィールドにエクスポート値を持つ新しいアイテムを追加します。これはAcroFormコンボボックスフィールドのみです。
+既存のリストボックスフィールドにエクスポート値を持つ新しい項目を追加します（AcroForm コンボボックスフィールドにのみ適用）。
 
 ```csharp
 public void AddListItem(string fieldName, string[] exportName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | String | アイテムが追加されるフィールドの名前。 |
-| exportName | String[] | エクスポート値を持つ新しいリストアイテムを示す文字列配列、すなわち（アイテムラベル、エクスポート値）。 |
+| fieldName | String | 項目が追加されるフィールドの名前。 |
+| exportName | String[] | エクスポート値を持つ新しいリスト項目を示す文字列配列、例: (項目ラベル, エクスポート値)。 |
 
 ## 例
 
@@ -54,8 +54,10 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_AddListItem2.pdf");
 fe.AddListItem("listboxField", new string[] { "4", "Item4(Added)" });
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

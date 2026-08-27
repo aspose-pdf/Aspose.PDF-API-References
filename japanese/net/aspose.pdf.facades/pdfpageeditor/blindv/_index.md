@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.BLINDV
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor フィールド。バーチカルブラインド
+title: "PdfPageEditor.BLINDV"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor フィールド。Vertical Blinds"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/blindv/
 ---
-## PdfPageEditor.BLINDV フィールド
+## PdfPageEditor.BLINDV field
 
-バーチカルブラインド
+垂直ブラインド
 
 ```csharp
 public const int BLINDV;
@@ -16,6 +16,8 @@ public const int BLINDV;
 
 ### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

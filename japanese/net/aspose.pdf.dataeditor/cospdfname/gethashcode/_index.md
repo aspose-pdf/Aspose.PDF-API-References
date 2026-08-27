@@ -1,12 +1,12 @@
 ---
-title: CosPdfName.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfName メソッド。現在のオブジェクトのハッシュコードを取得します
+title: "CosPdfName.GetHashCode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfName メソッド。現在のオブジェクトのハッシュコードを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.dataeditor/cospdfname/gethashcode/
 ---
-## CosPdfName.GetHashCode メソッド
+## CosPdfName.GetHashCode method
 
 現在のオブジェクトのハッシュコードを取得します。
 
@@ -16,10 +16,12 @@ public override int GetHashCode()
 
 ### 戻り値
 
-現在のオブジェクトのハッシュコード。
+現在のオブジェクトのハッシュコードです。
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfName](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

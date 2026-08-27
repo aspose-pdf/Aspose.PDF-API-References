@@ -1,12 +1,12 @@
 ---
-title: PageNumber.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumber コンストラクタ。デフォルトコンストラクタ
+title: "PageNumber.PageNumber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageNumber コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pagenumber/pagenumber/
 ---
-## PageNumber コンストラクタ
+## PageNumber constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/pagenumber/pagenumber/
 public PageNumber()
 ```
 
-### 参照
+### 関連項目
 
 * class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

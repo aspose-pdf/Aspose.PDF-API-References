@@ -1,26 +1,28 @@
 ---
-title: Measure.Measure
-second_title: Aspose.PDF for .NET API Reference
-description: Measure コンストラクタ。測定注釈のための Measure オブジェクトを作成します
+title: "Measure.Measure"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Measure コンストラクタ。測定アノテーション用の Measure オブジェクトを作成します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/measure/measure/
 ---
-## Measure コンストラクタ
+## Measure constructor
 
-測定注釈のための Measure オブジェクトを作成します。
+測定注釈用の Measure オブジェクトを作成します。
 
 ```csharp
 public Measure(Annotation annotation)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| annotation | Annotation | 測定がバインドされる注釈。 |
+| 注釈 | 注釈 | 測定がバインドされるアノテーション。 |
 
-### 参照
+### 関連項目
 
-* クラス [Annotation](../../annotation/)
-* クラス [Measure](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

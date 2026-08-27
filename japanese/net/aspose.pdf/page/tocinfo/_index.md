@@ -1,12 +1,12 @@
 ---
-title: Page.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。目次情報を取得または設定します
+title: "Page.TocInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。目次情報を取得または設定します"
 type: docs
 weight: 280
 url: /ja/net/aspose.pdf/page/tocinfo/
 ---
-## Page.TocInfoプロパティ
+## Page.TocInfo property
 
 目次情報を取得または設定します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/page/tocinfo/
 public TocInfo TocInfo { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-目次情報 - デフォルトはnullです。これが設定されると、このページには目次が含まれます。
+目次情報 - デフォルトは nullです。設定するとこのページに目次が含まれます。
 
-### 参照
+### 関連項目
 
-* クラス [TocInfo](../../tocinfo/)
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TocInfo](../../tocinfo/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

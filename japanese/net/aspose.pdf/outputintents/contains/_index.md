@@ -1,12 +1,12 @@
 ---
-title: OutputIntents.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents メソッド。コレクションに特定の出力インテントが含まれているかどうかを判断します。
+title: "OutputIntents.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutputIntents メソッド。コレクションに特定の出力インテントが含まれているかどうかを判定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/outputintents/contains/
 ---
-## OutputIntents.Contains メソッド
+## OutputIntents.Contains method
 
 コレクションに特定の出力インテントが含まれているかどうかを判断します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/outputintents/contains/
 public bool Contains(OutputIntent item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | OutputIntent | コレクション内で位置を特定する出力インテント。 |
+| アイテム | OutputIntent | コレクション内で検索する出力インテントです。 |
 
 ### 戻り値
 
-`true` は *item* がコレクション内に見つかった場合。それ以外の場合は `false`。
+コレクションで *item* が見つかった場合は `true`、それ以外は `false` です。
 
-### 参照
+### 関連項目
 
-* クラス [OutputIntent](../../outputintent/)
-* クラス [OutputIntents](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.JavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: Document プロパティ。ドキュメントレベルの JavaScript のコレクション
+title: "Document.JavaScript"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントレベルの JavaScript のコレクション"
 type: docs
-weight: 340
+weight: 360
 url: /ja/net/aspose.pdf/document/javascript/
 ---
-## Document.JavaScript プロパティ
+## Document.JavaScript property
 
-ドキュメントレベルの JavaScript のコレクションです。
+document レベルの JavaScript のコレクション。
 
 ```csharp
 public JavaScriptCollection JavaScript { get; }
@@ -16,7 +16,9 @@ public JavaScriptCollection JavaScript { get; }
 
 ### 関連項目
 
-* クラス [JavaScriptCollection](../../javascriptcollection/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../../javascriptcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

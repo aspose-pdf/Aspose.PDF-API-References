@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.Height
-second_title: Aspose.PDF for .NET API Reference
-description: BitmapInfo プロパティ。ビットマップの高さを取得します
+title: "BitmapInfo.Height"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BitmapInfo プロパティ。ビットマップの高さを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/bitmapinfo/height/
 ---
-## BitmapInfo.Height プロパティ
+## BitmapInfo.Height property
 
 ビットマップの高さを取得します。
 
@@ -16,6 +16,8 @@ public int Height { get; }
 
 ### 関連項目
 
-* クラス [BitmapInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BitmapInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

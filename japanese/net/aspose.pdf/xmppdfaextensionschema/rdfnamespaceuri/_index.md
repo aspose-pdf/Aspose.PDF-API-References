@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.RdfNamespaceURI
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema フィールド。デフォルトの rdf 名前空間 uri
+title: "XmpPdfAExtensionSchema.RdfNamespaceURI"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionSchema フィールド。 デフォルトの RDF 名前空間 URI"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf/xmppdfaextensionschema/rdfnamespaceuri/
 ---
-## XmpPdfAExtensionSchema.RdfNamespaceURI フィールド
+## XmpPdfAExtensionSchema.RdfNamespaceURI field
 
-デフォルトの rdf 名前空間 uri。
+デフォルトの rdf 名前空間 URI。
 
 ```csharp
 public const string RdfNamespaceURI;
@@ -16,6 +16,8 @@ public const string RdfNamespaceURI;
 
 ### 関連項目
 
-* クラス [XmpPdfAExtensionSchema](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

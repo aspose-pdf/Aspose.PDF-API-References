@@ -1,14 +1,14 @@
 ---
-title: Resources.Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: Resources プロパティ。フォントリソースコレクションを取得します
+title: "Resources.Fonts"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Resources プロパティ。Fonts コレクションを取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/resources/fonts/
 ---
-## Resources.Fonts プロパティ
+## Resources.Fonts property
 
-`Fonts` リソースコレクションを取得します
+`Fonts` コレクションを取得します。
 
 ```csharp
 public FontCollection Fonts { get; }
@@ -20,3 +20,5 @@ public FontCollection Fonts { get; }
 * class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PdfFileSignature.GetSignatureNames
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature メソッド。すべての空でない署名の名前を取得します
+title: "PdfFileSignature.GetSignatureNames"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSignature メソッド。空でないすべての署名の名前を取得します。"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/pdffilesignature/getsignaturenames/
 ---
-## PdfFileSignature.GetSignatureNames メソッド
+## PdfFileSignature.GetSignatureNames method
 
-すべての空でない署名の名前を取得します。
+空でないすべての署名の名前を取得します。
 
 ```csharp
 public IList<SignatureName> GetSignatureNames(bool onlyActive = true)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| onlyActive | Boolean | true の場合、アクティブな署名のみを返します。それ以外の場合は、すべての署名を返します。 |
+| onlyActive | Boolean | true の場合、アクティブな署名のみを返します。false の場合、すべての署名を返します。 |
 
 ### 戻り値
 
@@ -59,9 +59,11 @@ Next i
 Console.WriteLine("totalvision:" + pdfSign.GetTotalRevision())
 ```
 
-### 参照
+### 関連項目
 
-* クラス [SignatureName](../../signaturename/)
-* クラス [PdfFileSignature](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

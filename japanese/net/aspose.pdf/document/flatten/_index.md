@@ -1,20 +1,20 @@
 ---
-title: Document.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Document メソッド。ドキュメントからすべてのフィールドを削除し、その値を代わりに配置します
+title: "Document.Flatten"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。ドキュメントからすべてのフィールドを削除し、その値を代わりに配置します"
 type: docs
-weight: 640
+weight: 660
 url: /ja/net/aspose.pdf/document/flatten/
 ---
 ## Flatten() {#flatten}
 
-ドキュメントからすべてのフィールドを削除し、その値を代わりに配置します。
+Document からすべてのフィールドを削除し、その代わりに値を配置します。
 
 ```csharp
 public void Flatten()
 ```
 
-### See Also
+### 関連項目
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,19 +24,21 @@ public void Flatten()
 
 ## Flatten(FlattenSettings) {#flatten_1}
 
-ドキュメントからすべてのフィールド（および注釈）を削除し、その値を代わりに配置します。
+Document からすべてのフィールド（および注釈）を削除し、その代わりに値を配置します。
 
 ```csharp
 public void Flatten(FlattenSettings flattenSettings)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| flattenSettings | FlattenSettings | フラッティングプロセスの設定。 |
+| flattenSettings | FlattenSettings | フラット化プロセスの設定。 |
 
-### See Also
+### 関連項目
 
 * class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

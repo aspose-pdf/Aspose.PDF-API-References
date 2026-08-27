@@ -1,14 +1,14 @@
 ---
-title: Class StreamSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.StreamSaveTarget クラス。プラグインのストリーム保存ターゲットを表します
+title: "クラス StreamSaveTarget"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.StreamSaveTarget クラス。プラグイン用のストリーム保存ターゲットを表します。"
 type: docs
-weight: 9310
+weight: 9460
 url: /ja/net/aspose.pdf.plugins/streamsavetarget/
 ---
-## StreamSaveTarget クラス
+## StreamSaveTarget class
 
-プラグインのストリーム保存ターゲットを表します。
+プラグイン用のストリーム保存ターゲットを表します。
 
 ```csharp
 public class StreamSaveTarget : ISaveTarget
@@ -18,17 +18,19 @@ public class StreamSaveTarget : ISaveTarget
 
 | 名前 | 説明 |
 | --- | --- |
-| [StreamSaveTarget](streamsavetarget/)(Stream) | 新しいストリーム保存ターゲットを初期化します。 |
+| [StreamSaveTarget](streamsavetarget/)(Stream) | 新しいストリーム保存対象を初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Data](../../aspose.pdf.plugins/streamsavetarget/data/) { get; } | 現在の保存ターゲットのストリームを取得します。 |
-| [SaveTarget](../../aspose.pdf.plugins/streamsavetarget/savetarget/) { get; } | 保存ターゲットのタイプ（ストリーム）。 |
+| [Data](../../aspose.pdf.plugins/streamsavetarget/data/) { get; } | 現在の保存対象のストリームを取得します。 |
+| [SaveTarget](../../aspose.pdf.plugins/streamsavetarget/savetarget/) { get; } | 保存対象のタイプ（ストリーム）。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [ISaveTarget](../isavetarget/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [ISaveTarget](../isavetarget/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

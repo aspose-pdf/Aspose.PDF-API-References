@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.ImageParentTypes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsImageParentTypes 列挙型。HTML ページまたは SVG 親画像に関連する画像の親の可能なタイプを列挙します。
+title: "Enum HtmlSaveOptions.ImageParentTypes"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HtmlSaveOptionsImageParentTypes 列挙型。画像の親が HTML ページまたは SVG 親画像に該当する可能なタイプを列挙します"
 type: docs
-weight: 5690
+weight: 5820
 url: /ja/net/aspose.pdf/htmlsaveoptions.imageparenttypes/
 ---
-## HtmlSaveOptions.ImageParentTypes 列挙型
+## HtmlSaveOptions.ImageParentTypes enumeration
 
-HTML ページまたは SVG 親画像に関連する画像の親の可能なタイプを列挙します。
+画像の親が HTML ページまたは SVG 親画像に該当する可能なタイプを列挙します
 
 ```csharp
 public enum ImageParentTypes
@@ -18,11 +18,13 @@ public enum ImageParentTypes
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| HtmlPage | `0` | 画像は HTML ページ自体に関連しています |
-| SvgImage | `1` | 画像は SVG 画像に埋め込まれています |
+| HtmlPage | `0` | 画像は HTML ページ自体に該当します |
+| SvgImage | `1` | 画像は SVG 画像に埋め込まれました |
 
-### 参照
+### 関連項目
 
-* クラス [HtmlSaveOptions](../htmlsaveoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

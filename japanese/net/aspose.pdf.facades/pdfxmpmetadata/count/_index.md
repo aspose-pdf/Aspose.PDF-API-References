@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Count
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata プロパティ。コレクション内のアイテムの数を取得します
+title: "PdfXmpMetadata.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfXmpMetadata プロパティ。コレクション内の項目数を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/pdfxmpmetadata/count/
 ---
-## PdfXmpMetadata.Count プロパティ
+## PdfXmpMetadata.Count property
 
-コレクション内のアイテムの数を取得します。
+コレクション内の項目数を取得します。
 
 ```csharp
 public int Count { get; }
@@ -24,6 +24,8 @@ Console.WriteLine("Count = " + pxm.Count);
 
 ### 関連項目
 
-* クラス [PdfXmpMetadata](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

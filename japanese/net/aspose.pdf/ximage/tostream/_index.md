@@ -1,12 +1,12 @@
 ---
-title: XImage.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: XImage メソッド。元の画像ストリームを返します
+title: "XImage.ToStream"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImage メソッド。元の画像ストリームを返します。"
 type: docs
-weight: 160
+weight: 170
 url: /ja/net/aspose.pdf/ximage/tostream/
 ---
-## XImage.ToStream メソッド
+## XImage.ToStream method
 
 元の画像ストリームを返します。
 
@@ -18,8 +18,10 @@ public Stream ToStream()
 
 元の画像ストリーム。
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

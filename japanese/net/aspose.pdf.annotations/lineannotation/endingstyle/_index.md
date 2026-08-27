@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.EndingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation プロパティ。線の終点のエンディングスタイルを取得または設定します
+title: "LineAnnotation.EndingStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LineAnnotation プロパティ。ラインの終了点の終端スタイルを取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.annotations/lineannotation/endingstyle/
 ---
-## LineAnnotation.EndingStyle プロパティ
+## LineAnnotation.EndingStyle property
 
-線の終点のエンディングスタイルを取得または設定します。
+線の終点の終了スタイルを取得または設定します。
 
 ```csharp
 public LineEnding EndingStyle { get; set; }
@@ -20,3 +20,5 @@ public LineEnding EndingStyle { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

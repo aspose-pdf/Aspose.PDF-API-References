@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.P
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandardフィールド。段落 テキストの低レベルの区分
+title: "StructureTypeStandard.P"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。段落 テキストの低レベルの区分"
 type: docs
 weight: 270
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/p/
 ---
-## StructureTypeStandard.Pフィールド
+## StructureTypeStandard.P field
 
-(段落) テキストの低レベルの区分。
+(Paragraph) テキストの低レベルの区分です。
 
 ```csharp
 public static readonly StructureTypeStandard P;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard P;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

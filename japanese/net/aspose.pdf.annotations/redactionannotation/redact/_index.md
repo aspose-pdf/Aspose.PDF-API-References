@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.Redact
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation メソッド。注釈をフラット化し、ページの内容を赤acted注釈の下にあるテキストと画像を削除します。
+title: "RedactionAnnotation.Redact"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RedactionAnnotation メソッド。Annotation をフラット化し、Page 内容を削除します。すなわち、削除された Annotation の下にあるテキストと画像を除去します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.annotations/redactionannotation/redact/
 ---
-## RedactionAnnotation.Redact メソッド
+## RedactionAnnotation.Redact method
 
-注釈をフラット化し、ページの内容を赤acted注釈の下にあるテキストと画像を削除します。
+アノテーションをフラット化し、ページ内容を赤字化します（つまり、赤字アノテーションの下のテキストと画像を削除します）。
 
 ```csharp
 public void Redact()
@@ -16,6 +16,8 @@ public void Redact()
 
 ### 関連項目
 
-* クラス [RedactionAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

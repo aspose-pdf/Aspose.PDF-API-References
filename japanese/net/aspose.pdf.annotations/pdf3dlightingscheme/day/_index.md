@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Day
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme フィールド。デイライティングスキーム
+title: "PDF3DLightingScheme.Day"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DLightingScheme フィールド。昼間の照明スキーム"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.annotations/pdf3dlightingscheme/day/
 ---
-## PDF3DLightingScheme.Day フィールド
+## PDF3DLightingScheme.Day field
 
-「デイ」ライティングスキーム。
+この "Day" 照明スキーム。
 
 ```csharp
 public static PDF3DLightingScheme Day;
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme Day;
 
 ### 関連項目
 
-* クラス [PDF3DLightingScheme](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

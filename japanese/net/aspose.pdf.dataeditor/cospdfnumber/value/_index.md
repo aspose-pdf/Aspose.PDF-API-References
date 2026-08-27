@@ -1,12 +1,12 @@
 ---
-title: CosPdfNumber.Value
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber プロパティ。値を取得します
+title: "CosPdfNumber.Value"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfNumber プロパティ。値を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.dataeditor/cospdfnumber/value/
 ---
-## CosPdfNumber.Value プロパティ
+## CosPdfNumber.Value property
 
 値を取得します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.dataeditor/cospdfnumber/value/
 public double Value { get; }
 ```
 
-### プロパティの値
+### Property Value
 
-値。
+値です。
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfNumber](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

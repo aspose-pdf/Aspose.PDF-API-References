@@ -1,9 +1,9 @@
 ---
-title: Form.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。フォームからフィールドを削除します
+title: "Form.Delete"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。 フィールドをフォームから削除します。"
 type: docs
-weight: 230
+weight: 250
 url: /ja/net/aspose.pdf.forms/form/delete/
 ---
 ## Delete(Field) {#delete}
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf.forms/form/delete/
 public void Delete(Field field)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| field | Field | 削除する必要があるフィールド。 |
+| フィールド | フィールド | 削除すべきフィールド。 |
 
-### 参照
+### 関連項目
 
 * class [Field](../../field/)
 * class [Form](../)
@@ -29,18 +29,20 @@ public void Delete(Field field)
 
 ## Delete(string) {#delete_1}
 
-名前によってフォームからフィールドを削除します。
+名前でフォームからフィールドを削除します。
 
 ```csharp
 public void Delete(string fieldName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | String | 削除する必要があるフィールドの名前。 |
+| fieldName | String | 削除すべきフィールドの名前。 |
 
-### 参照
+### 関連項目
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

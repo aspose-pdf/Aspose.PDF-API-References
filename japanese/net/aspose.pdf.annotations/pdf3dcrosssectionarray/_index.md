@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DCrossSectionArray
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DCrossSectionArray クラス。クラス PDF3DCrossSectionArray
+title: "クラス PDF3DCrossSectionArray"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.PDF3DCrossSectionArray クラス。クラス PDF3DCrossSectionArray"
 type: docs
-weight: 2190
+weight: 2280
 url: /ja/net/aspose.pdf.annotations/pdf3dcrosssectionarray/
 ---
-## PDF3DCrossSectionArray クラス
+## PDF3DCrossSectionArray class
 
 クラス PDF3DCrossSectionArray。
 
@@ -24,18 +24,20 @@ public class PDF3DCrossSectionArray
 
 | 名前 | 説明 |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | クロスセクションのカウントを取得します。 |
+| [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | 断面の数を取得します。 |
 | [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item/) { get; set; } | 指定されたインデックスの [`PDF3DCrossSection`](../pdf3dcrosssection/) を取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add/)(PDF3DCrossSection) | 指定されたクロスセクションをビュー配列に追加します。 |
-| [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/)() | 配列からすべてのクロスセクションを削除します。 |
-| [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/)(int) | 指定されたインデックスの配列からクロスセクションを削除します。 |
+| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add/)(PDF3DCrossSection) | 指定された断面をビュー配列に追加します。 |
+| [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/)() | 配列からすべての断面を削除します。 |
+| [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/)(int) | 指定されたインデックスの配列から断面を削除します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

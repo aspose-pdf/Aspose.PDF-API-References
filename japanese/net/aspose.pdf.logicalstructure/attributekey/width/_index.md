@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Width
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey フィールド。幅属性 レイアウト属性オーナー
+title: "AttributeKey.Width"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeKey フィールド。Width 属性 Layout 属性の所有者"
 type: docs
 weight: 400
 url: /ja/net/aspose.pdf.logicalstructure/attributekey/width/
 ---
-## AttributeKey.Width フィールド
+## AttributeKey.Width field
 
-幅属性（レイアウト属性オーナー）。
+Width 属性 (Layout 属性の所有者)。
 
 ```csharp
 public static readonly AttributeKey Width;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Width;
 
 ### 関連項目
 
-* クラス [AttributeKey](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

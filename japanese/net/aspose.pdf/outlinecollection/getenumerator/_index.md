@@ -1,12 +1,12 @@
 ---
-title: OutlineCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection メソッド。コレクションを反復処理する列挙子を返します
+title: "OutlineCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineCollection メソッド。コレクションを反復処理する列挙子を返します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/outlinecollection/getenumerator/
 ---
-## OutlineCollection.GetEnumerator メソッド
+## OutlineCollection.GetEnumerator method
 
 コレクションを反復処理する列挙子を返します。
 
@@ -18,9 +18,11 @@ public override IEnumerator<OutlineItemCollection> GetEnumerator()
 
 コレクションを反復処理するために使用できる System.Collections.IEnumerator オブジェクト。
 
-### 参照
+### 関連項目
 
-* クラス [OutlineItemCollection](../../outlineitemcollection/)
-* クラス [OutlineCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

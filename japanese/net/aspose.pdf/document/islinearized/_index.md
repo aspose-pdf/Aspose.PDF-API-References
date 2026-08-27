@@ -1,14 +1,14 @@
 ---
-title: Document.IsLinearized
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントが線形化されているかどうかを示す値を取得または設定します。
+title: "Document.IsLinearized"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document property. ドキュメントがリニアライズされているかどうかを示す値を取得または設定します"
 type: docs
-weight: 300
+weight: 320
 url: /ja/net/aspose.pdf/document/islinearized/
 ---
-## Document.IsLinearized プロパティ
+## Document.IsLinearized property
 
-ドキュメントが線形化されているかどうかを示す値を取得または設定します。
+document がリニアライズされているかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool IsLinearized { get; set; }
@@ -16,6 +16,8 @@ public bool IsLinearized { get; set; }
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

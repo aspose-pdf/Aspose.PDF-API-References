@@ -1,14 +1,14 @@
 ---
-title: Color.DarkSlateBlue
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FF483D8B のシステム定義カラーを取得します。
+title: "Color.DarkSlateBlue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。ARGB 値が c FF483D8B のシステム定義カラーを取得します"
 type: docs
 weight: 360
 url: /ja/net/aspose.pdf/color/darkslateblue/
 ---
-## Color.DarkSlateBlue プロパティ
+## Color.DarkSlateBlue property
 
-ARGB 値が \c \#FF483D8B のシステム定義カラーを取得します。
+システム定義の色を取得します。この色の ARGB 値は \c \#FF483D8B です。
 
 ```csharp
 public static Color DarkSlateBlue { get; }
@@ -18,8 +18,10 @@ public static Color DarkSlateBlue { get; }
 
 システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

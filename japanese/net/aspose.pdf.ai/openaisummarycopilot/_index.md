@@ -1,46 +1,46 @@
 ---
-title: Class OpenAISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAISummaryCopilot クラス。AI モデルを使用してドキュメントの要約を取得する機能を提供します。OpenAI クライアントを作成し、オプションを構成し、要約コパイロットを使用する例。
+title: "クラス OpenAISummaryCopilot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.OpenAISummaryCopilot クラス。AI モデルを使用して文書の要約を取得する機能を提供します。OpenAI クライアントを作成し、オプションを構成してサマリーコパイロットを使用する例です。"
 type: docs
-weight: 920
+weight: 1000
 url: /ja/net/aspose.pdf.ai/openaisummarycopilot/
 ---
-## OpenAISummaryCopilot クラス
+## OpenAISummaryCopilot class
 
-AI モデルを使用してドキュメントの要約を取得する機能を提供します。OpenAI クライアントを作成し、オプションを構成し、要約コパイロットを使用する例。
+AI モデルを使用してドキュメントの要約を取得する機能を提供します。OpenAI クライアントの作成、オプションの構成、サマリーコパイロットの使用例です。
 
 ```csharp
-// Create AI client.
+// AI クライアントを作成します。
 var openAiClient = OpenAIClient
     .CreateWithApiKey(ApiKey) // Create OpenAI client with the API key.
     .WithProject("proj_RoywW1DLqDC89GoAW5ngoVN8") // Configure optional parameters.
     .Build();
 
-// Create copilot options.
+// コパイロットオプションを作成します。
 var options = OpenAISummaryCopilotOptions
     .Create() // Create options like this, or...
-    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...create using delegate.
+    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...デリゲートを使用して作成します。
     .WithTemperature(0.5) // Configure other optional parameters.
     .WithDocument("DocumentInputPath") // .WithDocument methods allows to add text, pdf and paths to documents.
     .WithDocuments(new List<TextDocument>()); // .WithDocuments methods allows to add text, pdf and path collections.
 
-// Create summary copilot.
+// サマリーコパイロットを作成します。
 var summaryCopilot = AICopilotFactory.CreateSummaryCopilot(openAiClient, options);
 
-// Get summary text.
+// 要約テキストを取得します。
 string summaryText = await summaryCopilot.GetSummaryAsync();
 
-// Get summary document.
+// 要約ドキュメントを取得します。
 Document summaryDocument = await summaryCopilot.GetSummaryDocumentAsync();
 
-// Get summary document with page info.
+// ページ情報付きの要約ドキュメントを取得します。
 Document summaryDocumentWithPageInfo = await summaryCopilot.GetSummaryDocumentAsync(new PageInfo());
 
-// Save summary as PDF document.
+// 要約を PDF ドキュメントとして保存します。
 await summaryCopilot.SaveSummaryAsync("outputPath");
 
-// Save summary with specified format.
+// 指定された形式で要約を保存します。
 await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 ```
 
@@ -48,7 +48,7 @@ await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 public class OpenAISummaryCopilot : ISummaryCopilot
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -70,8 +70,10 @@ public class OpenAISummaryCopilot : ISummaryCopilot
 | [SaveSummaryAsync](../../aspose.pdf.ai/openaisummarycopilot/savesummaryasync/#savesummaryasync_1)(string, CancellationToken?) |  |
 | [SaveSummaryAsync](../../aspose.pdf.ai/openaisummarycopilot/savesummaryasync/#savesummaryasync)(string, SaveFormat, CancellationToken?) |  |
 
-### 参照
+### 関連項目
 
-* インターフェース [ISummaryCopilot](../isummarycopilot/)
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [ISummaryCopilot](../isummarycopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

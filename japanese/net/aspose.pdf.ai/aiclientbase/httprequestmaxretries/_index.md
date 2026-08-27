@@ -1,14 +1,14 @@
 ---
-title: AIClientBase.HttpRequestMaxRetries
-second_title: Aspose.PDF for .NET API Reference
-description: AIClientBase プロパティ。HTTP リクエストの最大再試行回数を取得または設定します
+title: "AIClientBase.HttpRequestMaxRetries"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AIClientBase プロパティ。HTTP リクエストの最大再試行回数を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/aiclientbase/httprequestmaxretries/
 ---
-## AIClientBase.HttpRequestMaxRetries プロパティ
+## AIClientBase.HttpRequestMaxRetries property
 
-HTTP リクエストの最大再試行回数を取得または設定します。
+ポーリングタイムアウト（秒）を取得または設定します。
 
 ```csharp
 public int HttpRequestMaxRetries { get; set; }
@@ -16,6 +16,8 @@ public int HttpRequestMaxRetries { get; set; }
 
 ### 関連項目
 
-* クラス [AIClientBase](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AIClientBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

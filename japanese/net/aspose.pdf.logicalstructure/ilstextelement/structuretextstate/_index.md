@@ -1,12 +1,12 @@
 ---
-title: ILSTextElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: ILSTextElement プロパティ。現在の要素の StructureTextState オブジェクトを取得します
+title: "ILSTextElement.StructureTextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ILSTextElement プロパティ。現在の要素の StructureTextState オブジェクトを取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.logicalstructure/ilstextelement/structuretextstate/
 ---
-## ILSTextElement.StructureTextState プロパティ
+## ILSTextElement.StructureTextState property
 
 現在の要素の StructureTextState オブジェクトを取得します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.logicalstructure/ilstextelement/structuretextstate/
 public StructureTextState StructureTextState { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 現在の要素の StructureTextState オブジェクト。
 
-### 参照
+### 関連項目
 
-* クラス [StructureTextState](../../structuretextstate/)
-* クラス [ILSTextElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTextState](../../structuretextstate/)
+* class [ILSTextElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

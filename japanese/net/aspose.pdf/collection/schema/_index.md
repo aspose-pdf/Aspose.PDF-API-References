@@ -1,22 +1,24 @@
 ---
-title: Collection.Schema
-second_title: Aspose.PDF for .NET API Reference
-description: コレクションプロパティ。ドキュメントコレクションのスキーマを取得します
+title: "Collection.Schema"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Collection プロパティ。 ドキュメントコレクションのスキーマを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/collection/schema/
 ---
-## Collection.Schemaプロパティ
+## Collection.Schema property
 
-ドキュメントコレクションの「スキーマ」を取得します。
+ドキュメントコレクションの「Schema」を取得します。
 
 ```csharp
 public CollectionSchema Schema { get; }
 ```
 
-### 参照
+### 関連項目
 
 * class [CollectionSchema](../../collectionschema/)
 * class [Collection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

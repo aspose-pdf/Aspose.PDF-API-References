@@ -1,12 +1,12 @@
 ---
-title: BasicSetColorOperator.M
-second_title: Aspose.PDF for .NET API Reference
-description: BasicSetColorOperator プロパティ。CMYK カラーのマゼンタ成分を取得します。
+title: "BasicSetColorOperator.M"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BasicSetColorOperator プロパティ。CMYK カラーのマゼンタ成分を取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.operators/basicsetcoloroperator/m/
 ---
-## BasicSetColorOperator.M プロパティ
+## BasicSetColorOperator.M property
 
 CMYK カラーのマゼンタ成分を取得します。
 
@@ -16,6 +16,8 @@ public double M { get; }
 
 ### 関連項目
 
-* クラス [BasicSetColorOperator](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

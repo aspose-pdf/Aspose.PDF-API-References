@@ -1,14 +1,14 @@
 ---
-title: ImportDataAction.Data
-second_title: Aspose.PDF for .NET API Reference
-description: ImportDataAction プロパティ。データをインポートするための FDF ファイル
+title: "ImportDataAction.Data"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImportDataAction プロパティ。データをインポートする元となる FDF ファイル"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/importdataaction/data/
 ---
-## ImportDataAction.Data プロパティ
+## ImportDataAction.Data property
 
-データをインポートするための FDF ファイルです。
+データをインポートする元となる FDF ファイルです。
 
 ```csharp
 public FileSpecification Data { get; set; }
@@ -20,3 +20,5 @@ public FileSpecification Data { get; set; }
 * class [ImportDataAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum AnnotationStateModel
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.AnnotationStateModel 列挙型。注釈の状態に対応する状態モデル
+title: "列挙体 AnnotationStateModel"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.AnnotationStateModel 列挙体。注釈の状態に対応する状態モデルです。"
 type: docs
-weight: 1470
+weight: 1560
 url: /ja/net/aspose.pdf.annotations/annotationstatemodel/
 ---
-## AnnotationStateModel 列挙型
+## AnnotationStateModel enumeration
 
-注釈の状態に対応する状態モデル。
+注釈の状態に対応するステートモデルです。
 
 ```csharp
 public enum AnnotationStateModel
@@ -18,11 +18,13 @@ public enum AnnotationStateModel
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Undefined | `0` | 定義されていない状態モデル。 |
-| Marked | `1` | 注釈がユーザーによってマーク（またはマーク解除）されています。 |
-| Review | `2` | 注釈がユーザーによってレビュー（受け入れ、拒否、キャンセル、完了、なし）されています。 |
+| Undefined | `0` | 未定義の状態モデルです。 |
+| Marked | `1` | 注釈はユーザーによってマークされました（またはマークが解除されました）。 |
+| Review | `2` | 注釈はユーザーによってレビューされました（受諾、却下、キャンセル、完了、なし）。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

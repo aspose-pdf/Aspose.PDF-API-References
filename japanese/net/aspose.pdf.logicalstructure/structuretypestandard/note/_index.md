@@ -1,16 +1,16 @@
 ---
-title: StructureTypeStandard.Note
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandardフィールド。ノート 文書の本文から参照される脚注やエンドノートなどの説明テキストの項目。子としてラベル構造タイプLblを持つことがあります。ノートは、それを参照する本文の構造要素の子として含まれる場合もあれば、エンドノートセクションなどの他の場所に含まれ、参照構造タイプReferenceを介してアクセスされる場合もあります。
+title: "StructureTypeStandard.Note"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。注釈 説明テキストの項目で、脚注や文末脚注など、文書本文から参照されます。子要素としてラベル構造タイプ Lbl を持つことがあります。注釈はそれを参照する本文テキスト内の構造要素の子として含めることも、文末注釈セクションなど別の場所に含めて参照構造タイプ Reference によってアクセスすることもできます"
 type: docs
 weight: 260
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/note/
 ---
-## StructureTypeStandard.Noteフィールド
+## StructureTypeStandard.Note field
 
-(ノート) 文書の本文から参照される説明テキストの項目で、脚注やエンドノートなどがあります。子としてラベル（構造タイプLbl）を持つことがあります。ノートは、それを参照する本文の構造要素の子として含まれる場合もあれば、他の場所（エンドノートセクションなど）に含まれ、参照（構造タイプReference）を介してアクセスされる場合もあります。
+(Note) 文書本文から参照される説明テキスト項目（脚注や文末脚注など）です。子要素としてラベル（構造タイプ Lbl）を持つことがあります。ノートはそれを参照する本文テキスト内の構造要素の子として含めることも、別の場所（例：文末脚注セクション）に配置し、参照（構造タイプ Reference）によってアクセスすることもできます。
 
-タグ付きPDFは、ページコンテンツの順序における脚注の配置を規定していません。脚注は、準拠する作成者の裁量により、インラインまたはページの最後に配置される場合があります。
+Tagged PDF はページコンテンツの順序における脚注の配置を規定していません。脚注はインラインに配置することも、ページの末尾に配置することもでき、これは準拠ライターの裁量によります
 
 ```csharp
 public static readonly StructureTypeStandard Note;
@@ -18,6 +18,8 @@ public static readonly StructureTypeStandard Note;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

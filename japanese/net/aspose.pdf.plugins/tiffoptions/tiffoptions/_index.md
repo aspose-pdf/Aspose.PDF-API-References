@@ -1,12 +1,12 @@
 ---
-title: TiffOptions.TiffOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TiffOptions コンストラクタ。デフォルトコンストラクタ
+title: "TiffOptions.TiffOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TiffOptions コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/tiffoptions/tiffoptions/
 ---
-## TiffOptions コンストラクタ
+## TiffOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/tiffoptions/tiffoptions/
 public TiffOptions()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TiffOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TiffOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

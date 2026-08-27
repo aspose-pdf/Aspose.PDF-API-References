@@ -1,12 +1,12 @@
 ---
-title: TextEditOptions.ClippingPathsProcessing
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions プロパティ。編集されたテキストのクリッピングパスを処理するモードを取得します
+title: "TextEditOptions.ClippingPathsProcessing"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextEditOptions プロパティ。編集されたテキストのクリッピングパスを処理するモードを取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.text/texteditoptions/clippingpathsprocessing/
 ---
-## TextEditOptions.ClippingPathsProcessing プロパティ
+## TextEditOptions.ClippingPathsProcessing property
 
 編集されたテキストのクリッピングパスを処理するモードを取得します。
 
@@ -20,3 +20,5 @@ public ClippingPathsProcessingMode ClippingPathsProcessing { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

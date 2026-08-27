@@ -1,30 +1,32 @@
 ---
-title: Document.IsRepairNeeded
-second_title: Aspose.PDF for .NET API Reference
-description: Document メソッド。ドキュメントが Repair メソッドの呼び出しを必要とするかどうかをチェックします
+title: "Document.IsRepairNeeded"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。ドキュメントが Repair メソッドの呼び出しを必要とするかどうかをチェックします"
 type: docs
-weight: 720
+weight: 740
 url: /ja/net/aspose.pdf/document/isrepairneeded/
 ---
-## Document.IsRepairNeeded メソッド
+## Document.IsRepairNeeded method
 
-ドキュメントが Repair メソッドの呼び出しを必要とするかどうかをチェックします。
+document が Repair メソッドの呼び出しを必要としているか確認します。
 
 ```csharp
 public bool IsRepairNeeded(out RepairOptions options)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | RepairOptions& | Repair メソッドで使用することが推奨される、入力済みの RepairOptions |
+| オプション | RepairOptions& | Repair メソッドで使用することが推奨される、設定済みの RepairOptions |
 
 ### 戻り値
 
-Repair メソッドで使用するための入力済みのオプションを返します
+Repair メソッドで使用される設定済みオプションを返します
 
-### 参照
+### 関連項目
 
-* クラス [RepairOptions](../../document.repairoptions/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RepairOptions](../../document.repairoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

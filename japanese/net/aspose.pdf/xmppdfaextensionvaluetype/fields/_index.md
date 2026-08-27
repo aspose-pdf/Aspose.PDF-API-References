@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionValueType.Fields
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType プロパティ。フィールドのリストを取得します
+title: "XmpPdfAExtensionValueType.Fields"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionValueType プロパティ。フィールドの一覧を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/xmppdfaextensionvaluetype/fields/
 ---
-## XmpPdfAExtensionValueType.Fields プロパティ
+## XmpPdfAExtensionValueType.Fields property
 
-フィールドのリストを取得します。
+フィールドの一覧を取得します。
 
 ```csharp
 public IList<XmpPdfAExtensionField> Fields { get; }
@@ -20,3 +20,5 @@ public IList<XmpPdfAExtensionField> Fields { get; }
 * class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

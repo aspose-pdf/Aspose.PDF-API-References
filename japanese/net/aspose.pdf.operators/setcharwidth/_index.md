@@ -1,14 +1,14 @@
 ---
-title: Class SetCharWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetCharWidth クラス。d0 演算子のグリフ幅を設定するクラス
+title: "クラス SetCharWidth"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.SetCharWidth クラス。d0 演算子でグリフ幅を設定することを表すクラス"
 type: docs
-weight: 7600
+weight: 7740
 url: /ja/net/aspose.pdf.operators/setcharwidth/
 ---
-## SetCharWidth クラス
+## SetCharWidth class
 
-d0 演算子（グリフ幅を設定）を表すクラス。
+d0 演算子 (グリフ幅を設定) を表すクラス。
 
 ```csharp
 public class SetCharWidth : Operator
@@ -24,20 +24,22 @@ public class SetCharWidth : Operator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リスト内の演算子インデックス。 |
-| [Wx](../../aspose.pdf.operators/setcharwidth/wx/) { get; } | グリフ座標の水平方向の変位。 |
-| [Wy](../../aspose.pdf.operators/setcharwidth/wy/) { get; } | グリフ座標の垂直方向の変位。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
+| [Wx](../../aspose.pdf.operators/setcharwidth/wx/) { get; } | グリフ座標の水平変位。 |
+| [Wy](../../aspose.pdf.operators/setcharwidth/wy/) { get; } | グリフ座標の垂直変位。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcharwidth/accept/)(IOperatorSelector) | 演算子を処理するためのビジターオブジェクトを受け入れます。 |
+| override [Accept](../../aspose.pdf.operators/setcharwidth/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
 | override [ToString](../../aspose.pdf.operators/setcharwidth/tostring/)() | 演算子のテキスト表現を返します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../aspose.pdf/operator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

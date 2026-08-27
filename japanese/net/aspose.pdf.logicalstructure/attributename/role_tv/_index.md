@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Role_tv
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName フィールド。Attribute Role tv テキスト値フィールド
+title: "AttributeName.Role_tv"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeName フィールド。属性 Role tv  テキスト値フィールド"
 type: docs
 weight: 420
 url: /ja/net/aspose.pdf.logicalstructure/attributename/role_tv/
 ---
-## AttributeName.Role_tv フィールド
+## AttributeName.Role_tv field
 
-Attribute Role: tv - テキスト値フィールド。
+属性 Role: tv - テキスト値フィールド。
 
 ```csharp
 public static readonly AttributeName Role_tv;
@@ -16,6 +16,8 @@ public static readonly AttributeName Role_tv;
 
 ### 関連項目
 
-* クラス [AttributeName](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

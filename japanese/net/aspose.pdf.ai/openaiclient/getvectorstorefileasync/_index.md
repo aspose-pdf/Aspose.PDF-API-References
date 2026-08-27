@@ -1,40 +1,42 @@
 ---
-title: OpenAIClient.GetVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。ベクターストア内の特定のファイルの詳細を非同期で取得します。
+title: "OpenAIClient.GetVectorStoreFileAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。ベクトルストア内の特定のファイルの詳細を非同期で取得します。"
 type: docs
-weight: 340
+weight: 350
 url: /ja/net/aspose.pdf.ai/openaiclient/getvectorstorefileasync/
 ---
-## OpenAIClient.GetVectorStoreFileAsync メソッド
+## OpenAIClient.GetVectorStoreFileAsync method
 
-ベクターストア内の特定のファイルの詳細を非同期で取得します。
+ベクトルストア内の特定のファイルの詳細を非同期で取得します。
 
 ```csharp
 public Task<VectorStoreFileResponse> GetVectorStoreFileAsync(string vectorStoreId, string fileId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| vectorStoreId | String | ファイルを含むベクターストアの ID。 |
+| vectorStoreId | String | ファイルを含むベクトルストアの ID。 |
 | fileId | String | 取得するファイルの ID。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果にはファイルの詳細が含まれます。
+非同期操作を表すタスクです。タスクの結果にはファイルの詳細が含まれます。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | ベクターストア ID が null または空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | ベクトルストアの Id が null または空の場合にスローされます。 |
 | [AIClientException](../../aiclientexception/) | ファイル ID が null または空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [VectorStoreFileResponse](../../vectorstorefileresponse/)
-* クラス [OpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

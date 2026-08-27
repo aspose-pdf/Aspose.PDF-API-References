@@ -1,12 +1,12 @@
 ---
-title: ToolCall.ToolCall
-second_title: Aspose.PDF for .NET API Reference
-description: ToolCall コンストラクタ。デフォルトコンストラクタ
+title: "ToolCall.ToolCall"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ToolCall コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/toolcall/toolcall/
 ---
-## ToolCall コンストラクタ
+## ToolCall constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/toolcall/toolcall/
 public ToolCall()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ToolCall](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ToolCall](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

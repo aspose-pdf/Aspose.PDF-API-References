@@ -1,12 +1,12 @@
 ---
-title: FormEditor.RenameField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。フィールドの名前を変更します。
+title: "FormEditor.RenameField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor メソッド。フィールドの名前を変更します"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf.facades/formeditor/renamefield/
 ---
-## FormEditor.RenameField メソッド
+## FormEditor.RenameField method
 
 フィールドの名前を変更します。
 
@@ -14,10 +14,10 @@ url: /ja/net/aspose.pdf.facades/formeditor/renamefield/
 public void RenameField(string fieldName, string newFieldName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | String | フィールドの旧名。 |
-| newFieldName | String | フィールドの新名。 |
+| fieldName | String | フィールドの古い名前。 |
+| newFieldName | String | フィールドの新しい名前。 |
 
 ## 例
 
@@ -26,8 +26,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
 formEditor.RenameField("textField", "textField_Renamed");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

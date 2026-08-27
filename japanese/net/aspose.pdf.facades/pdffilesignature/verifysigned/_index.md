@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.VerifySigned
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature メソッド。署名の有効性をチェックします
+title: "PdfFileSignature.VerifySigned"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSignature メソッド。署名の有効性を確認します。"
 type: docs
 weight: 310
 url: /ja/net/aspose.pdf.facades/pdffilesignature/verifysigned/
 ---
-## PdfFileSignature.VerifySigned メソッド
+## PdfFileSignature.VerifySigned method
 
 署名の有効性をチェックします。
 
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.facades/pdffilesignature/verifysigned/
 public bool VerifySigned(string signName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | signName | String | 署名の名前。 |
 
@@ -22,8 +22,10 @@ public bool VerifySigned(string signName)
 
 bool 型の結果を返します。
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSignature](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

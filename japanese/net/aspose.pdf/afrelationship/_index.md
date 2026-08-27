@@ -1,14 +1,14 @@
 ---
-title: Enum AFRelationship
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AFRelationship 列挙型。列挙型は関連ファイルの関係を説明します
+title: "列挙体 AFRelationship"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AFRelationship 列挙体。列挙体は関連ファイルの関係を記述します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/afrelationship/
 ---
-## AFRelationship 列挙型
+## AFRelationship enumeration
 
-列挙型は関連ファイルの関係を説明します。
+関連ファイルの関係を記述する列挙です。
 
 ```csharp
 public enum AFRelationship
@@ -23,10 +23,12 @@ public enum AFRelationship
 | Alternative | `2` | 代替 |
 | Supplement | `3` | 補足 |
 | Unspecified | `4` | 未指定 |
-| EncryptedPayload | `5` | 暗号化ペイロード |
+| EncryptedPayload | `5` | EncryptedPayload |
 | None | `6` | なし |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

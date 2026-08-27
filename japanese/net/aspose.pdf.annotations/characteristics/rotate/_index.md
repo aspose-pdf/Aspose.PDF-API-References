@@ -1,14 +1,14 @@
 ---
-title: Characteristics.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: Characteristics プロパティ。注釈の回転を取得または設定します
+title: "Characteristics.Rotate"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Characteristics プロパティ。アノテーションの回転を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/characteristics/rotate/
 ---
-## Characteristics.Rotate プロパティ
+## Characteristics.Rotate property
 
-注釈の回転を取得または設定します。
+アノテーションの回転を取得または設定します。
 
 ```csharp
 public Rotation Rotate { get; set; }
@@ -20,3 +20,5 @@ public Rotation Rotate { get; set; }
 * class [Characteristics](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

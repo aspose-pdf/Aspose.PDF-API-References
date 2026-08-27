@@ -1,26 +1,26 @@
 ---
-title: Signature.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Signature メソッド。指定されたパラメータで Signature 処理を開始します
+title: "Signature.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Signature メソッド。指定されたパラメータで Signature の処理を開始します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/signature/process/
 ---
-## Signature.Process メソッド
+## Signature.Process method
 
-指定されたパラメータで [`Signature`](../) 処理を開始します。
+`[`Signature`](../)` の処理を指定されたパラメータで開始します。
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | IPluginOptions | [`Signature`](../) の指示を含むオプションオブジェクト。 |
+| options | IPluginOptions | `[`Signature`](../)` の指示を含むオプションオブジェクトです。 |
 
 ### 戻り値
 
-操作の結果を含む ResultContainer オブジェクト。
+操作の結果を含む ResultContainer オブジェクトです。
 
 ### 例外
 
@@ -28,10 +28,12 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- |
 | InvalidOperationException |  |
 
-### 参照
+### 関連項目
 
-* クラス [ResultContainer](../../resultcontainer/)
-* インターフェース [IPluginOptions](../../ipluginoptions/)
-* クラス [Signature](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

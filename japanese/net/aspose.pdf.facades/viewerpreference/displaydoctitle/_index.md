@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.DisplayDocTitle
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference フィールド。ウィンドウのタイトルバーにドキュメントのタイトルを表示するかどうかを指定するフラグ
+title: "ViewerPreference.DisplayDocTitle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference フィールド。ウィンドウのタイトルバーにドキュメントタイトルを表示するかどうかを指定するフラグ"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.facades/viewerpreference/displaydoctitle/
 ---
-## ViewerPreference.DisplayDocTitle フィールド
+## ViewerPreference.DisplayDocTitle field
 
-ウィンドウのタイトルバーにドキュメントのタイトルを表示するかどうかを指定するフラグ
+ウィンドウのタイトルバーにドキュメントのタイトルを表示するかどうかを指定するフラグです。
 
 ```csharp
 public const int DisplayDocTitle;
@@ -16,6 +16,8 @@ public const int DisplayDocTitle;
 
 ### 関連項目
 
-* クラス [ViewerPreference](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

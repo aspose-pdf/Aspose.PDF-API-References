@@ -1,21 +1,23 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIAssistantCopilotOptionsBaseプロパティ。核サンプリングのためのtop-p値を取得または設定します。
+title: "OpenAIAssistantCopilotOptionsBase.TopP"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIAssistantCopilotOptionsBase プロパティ。核サンプリングの top-p 値を取得または設定します"
 type: docs
-weight: 60
+weight: 50
 url: /ja/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/
 ---
-## OpenAIAssistantCopilotOptionsBase.TopPプロパティ
+## OpenAIAssistantCopilotOptionsBase.TopP property
 
-核サンプリングのためのtop-p値を取得または設定します。
+核サンプリングの top-p 値を取得または設定します。
 
 ```csharp
 public double? TopP { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIAssistantCopilotOptionsBase](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetCharWidthBoundingBox.Lly
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidthBoundingBox プロパティ。境界矩形の左下の垂直座標
+title: "SetCharWidthBoundingBox.Lly"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetCharWidthBoundingBox プロパティ。バウンディング矩形の左下垂直座標"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/setcharwidthboundingbox/lly/
 ---
-## SetCharWidthBoundingBox.Lly プロパティ
+## SetCharWidthBoundingBox.Lly property
 
-境界矩形の左下の垂直座標です。
+バウンディング矩形の左下垂直座標。
 
 ```csharp
 public double Lly { get; }
@@ -16,6 +16,8 @@ public double Lly { get; }
 
 ### 関連項目
 
-* クラス [SetCharWidthBoundingBox](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: GraphicElement.SourcePage
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement プロパティ。グラフィック要素が抽出されるページを取得します
+title: "GraphicElement.SourcePage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GraphicElement プロパティ。グラフィック要素が抽出されるページを取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.vector/graphicelement/sourcepage/
 ---
-## GraphicElement.SourcePage プロパティ
+## GraphicElement.SourcePage property
 
 グラフィック要素が抽出されるページを取得します。
 
@@ -16,7 +16,9 @@ public Page SourcePage { get; }
 
 ### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [GraphicElement](../)
-* 名前空間 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

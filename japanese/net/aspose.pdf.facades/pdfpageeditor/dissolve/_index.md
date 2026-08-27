@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.DISSOLVE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor フィールド。古いページが溶ける
+title: "PdfPageEditor.DISSOLVE"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor フィールド。古いページが溶解します"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/dissolve/
 ---
-## PdfPageEditor.DISSOLVE フィールド
+## PdfPageEditor.DISSOLVE field
 
-古いページが溶ける
+古いページが溶解します
 
 ```csharp
 public const int DISSOLVE;
@@ -16,6 +16,8 @@ public const int DISSOLVE;
 
 ### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

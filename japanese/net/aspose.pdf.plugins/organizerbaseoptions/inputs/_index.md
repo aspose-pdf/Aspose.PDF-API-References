@@ -1,14 +1,14 @@
 ---
-title: OrganizerBaseOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: OrganizerBaseOptions プロパティ。OrganizerOptions プラグインデータコレクションを返します
+title: "OrganizerBaseOptions.Inputs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OrganizerBaseOptions プロパティ。OrganizerOptions プラグインのデータ コレクションを返します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.plugins/organizerbaseoptions/inputs/
 ---
-## OrganizerBaseOptions.Inputs プロパティ
+## OrganizerBaseOptions.Inputs property
 
-OrganizerOptions プラグインデータコレクションを返します。
+OrganizerOptions プラグインのデータコレクションを返します。
 
 ```csharp
 public List<IDataSource> Inputs { get; }
@@ -20,3 +20,5 @@ public List<IDataSource> Inputs { get; }
 * class [OrganizerBaseOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

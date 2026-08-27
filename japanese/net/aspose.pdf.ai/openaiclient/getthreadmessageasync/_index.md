@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。スレッド内の特定のメッセージの詳細を非同期で取得します。
+title: "OpenAIClient.GetThreadMessageAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。スレッド内の特定のメッセージの詳細を非同期で取得します"
 type: docs
-weight: 310
+weight: 320
 url: /ja/net/aspose.pdf.ai/openaiclient/getthreadmessageasync/
 ---
-## OpenAIClient.GetThreadMessageAsync メソッド
+## OpenAIClient.GetThreadMessageAsync method
 
 スレッド内の特定のメッセージの詳細を非同期で取得します。
 
@@ -15,26 +15,28 @@ public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| threadId | String | メッセージを含むスレッドの ID。 |
-| threadMessageId | String | 取得するメッセージの ID。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| threadId | String | メッセージを含むスレッドの ID です。 |
+| threadMessageId | String | 取得するメッセージのID。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果にはスレッドメッセージの詳細が含まれます。
+非同期操作を表すタスクです。タスクの結果にはスレッドメッセージの詳細が含まれます。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | スレッド ID が null または空の場合にスローされます。 |
-| [AIClientException](../../aiclientexception/) | スレッドメッセージ ID が null または空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | スレッドIDがnullまたは空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | thread message Id が null または空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [ThreadMessageResponse](../../threadmessageresponse/)
-* クラス [OpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

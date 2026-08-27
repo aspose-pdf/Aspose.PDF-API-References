@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileListQueryParameters.VectorStoreFileListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileListQueryParameters コンストラクタ。デフォルトコンストラクタ
+title: "VectorStoreFileListQueryParameters.VectorStoreFileListQueryParameters"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreFileListQueryParameters コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/vectorstorefilelistqueryparameters/vectorstorefilelistqueryparameters/
 ---
-## VectorStoreFileListQueryParameters コンストラクタ
+## VectorStoreFileListQueryParameters constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public VectorStoreFileListQueryParameters()
 * class [VectorStoreFileListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

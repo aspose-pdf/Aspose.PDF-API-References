@@ -1,12 +1,12 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.DataType 列挙型。フィールドタイプの定義を列挙します
+title: "列挙体 DataType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.DataType 列挙体。フィールドタイプの定義を列挙します。"
 type: docs
-weight: 4210
+weight: 4330
 url: /ja/net/aspose.pdf.facades/datatype/
 ---
-## DataType 列挙型
+## DataType enumeration
 
 フィールドタイプの定義を列挙します。
 
@@ -22,10 +22,12 @@ public enum DataType
 | XML | `1` | XML ストリーム。 |
 | XFDF | `2` | XFDF ストリーム。 |
 | PDF | `3` | PDF ストリーム。 |
-| OLEDB | `4` | OLEDB データベース、例えば MS Access。 |
-| ODBC | `5` | ODBC データベース、例えば MS SQL Server。 |
+| OLEDB | `4` | OLEDB データベース（例：MS Access）。 |
+| ODBC | `5` | ODBC データベース（例：MS SQL Server）。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

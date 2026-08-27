@@ -1,14 +1,14 @@
 ---
-title: TextStyle.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle メソッド。TextStyle の文字列表現
+title: "TextStyle.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextStyle メソッド。TextStyle の文字列表現"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/textstyle/tostring/
 ---
-## TextStyle.ToString メソッド
+## TextStyle.ToString method
 
-TextStyle の文字列表現です。
+TextStyle の文字列表現。
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 文字列表現。
 
-### 参照
+### 関連項目
 
-* クラス [TextStyle](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

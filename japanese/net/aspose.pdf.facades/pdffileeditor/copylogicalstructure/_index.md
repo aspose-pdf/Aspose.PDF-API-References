@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.CopyLogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor プロパティ。真の場合、連結が行われるときにファイルの論理構造がコピーされます。
+title: "PdfFileEditor.CopyLogicalStructure"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor プロパティ。true の場合、結合が実行されるとファイルの論理構造がコピーされます。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/pdffileeditor/copylogicalstructure/
 ---
-## PdfFileEditor.CopyLogicalStructure プロパティ
+## PdfFileEditor.CopyLogicalStructure property
 
-真の場合、連結が行われるときにファイルの論理構造がコピーされます。
+true の場合、結合が実行されるとファイルの論理構造がコピーされます。
 
 ```csharp
 public bool CopyLogicalStructure { get; set; }
@@ -16,6 +16,8 @@ public bool CopyLogicalStructure { get; set; }
 
 ### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

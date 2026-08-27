@@ -1,20 +1,20 @@
 ---
-title: PdfFileSecurity.TryChangePassword
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity メソッド。ユーザーパスワードとオーナーパスワードを変更し、オーナーパスワードが元のセキュリティ設定を保持します。新しいユーザーパスワードと新しいオーナーパスワードは null または空であることができます。新しいオーナーパスワードが null または空の場合、オーナーパスワードはランダムな文字列に置き換えられます。プロセスが失敗した場合は例外をスローしません。
+title: "PdfFileSecurity.TryChangePassword"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSecurity メソッド。オーナーパスワードでユーザーパスワードとオーナーパスワードを変更し、元のセキュリティ設定を保持します。新しいユーザーパスワードと新しいオーナーパスワードは null または空にすることができます。新しいオーナーパスワードが null または空の場合、オーナーパスワードはランダムな文字列に置き換えられます。処理が失敗しても例外はスローされません。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/pdffilesecurity/trychangepassword/
 ---
 ## TryChangePassword(string, string, string) {#trychangepassword}
 
-オーナーパスワードによってユーザーパスワードとオーナーパスワードを変更し、元のセキュリティ設定を保持します。新しいユーザーパスワードと新しいオーナーパスワードは null または空であることができます。新しいオーナーパスワードが null または空の場合、オーナーパスワードはランダムな文字列に置き換えられます。プロセスが失敗した場合は例外をスローしません。
+オーナーパスワードを使用してユーザーパスワードとオーナーパスワードを変更し、元のセキュリティ設定を保持します。新しいユーザーパスワードと新しいオーナーパスワードは null または空にすることができます。新しいオーナーパスワードが null または空の場合、オーナーパスワードはランダムな文字列に置き換えられます。処理が失敗しても例外はスローされません。
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | ownerPassword | String | 元のオーナーパスワード。 |
 | newUserPassword | String | 新しいユーザーパスワード。 |
@@ -22,7 +22,7 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword, stri
 
 ### 戻り値
 
-成功の場合は true、失敗の場合は false。
+成功した場合は True、失敗した場合は false。
 
 ## 例
 
@@ -40,34 +40,34 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword, stri
  Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner")	
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSecurity](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryChangePassword(string, string, string, DocumentPrivilege, KeySize) {#trychangepassword_1}
 
-オーナーパスワードによってユーザーパスワードとパスワードを変更し、Pdf ドキュメントのセキュリティをリセットします。新しいユーザーパスワードと新しいオーナーパスワードは null または空であることができます。新しいオーナーパスワードが null または空の場合、オーナーパスワードはランダムな文字列に置き換えられます。プロセスが失敗した場合は例外をスローしません。
+オーナーパスワードでユーザーパスワードとオーナーパスワードを変更し、Pdf ドキュメントのセキュリティをリセットできるようにします。新しいユーザーパスワードと新しいオーナーパスワードは null または空にすることができます。新しいオーナーパスワードが null または空の場合、オーナーパスワードはランダムな文字列に置き換えられます。処理が失敗しても例外はスローされません。
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, 
     string newOwnerPassword, DocumentPrivilege privilege, KeySize keySize)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | ownerPassword | String | 元のオーナーパスワード。 |
 | newUserPassword | String | 新しいユーザーパスワード。 |
 | newOwnerPassword | String | 新しいオーナーパスワード。 |
-| privilege | DocumentPrivilege | セキュリティをリセットします。 |
-| keySize | KeySize | KeySize.x40 は 40 ビット暗号化、KeySize.x128 は 128 ビット暗号化、KeySize.x256 は 256 ビット暗号化です。 |
+| 権限 | DocumentPrivilege | セキュリティをリセットします。 |
+| keySize | KeySize | KeySize.x40 は 40 ビット暗号化、KeySize.x128 は 128 ビット暗号化、KeySize.x256 は 256 ビット暗号化に使用します。 |
 
 ### 戻り値
 
-成功の場合は true、失敗の場合は false。
+成功した場合は true、失敗した場合は false。
 
 ## 例
 
@@ -85,37 +85,37 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256)
 ```
 
-### 参照
+### 関連項目
 
-* クラス [DocumentPrivilege](../../documentprivilege/)
-* 列挙 [KeySize](../../keysize/)
-* クラス [PdfFileSecurity](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#trychangepassword_2}
 
-オーナーパスワードによってユーザーパスワードとパスワードを変更し、Pdf ドキュメントのセキュリティをリセットします。新しいユーザーパスワードと新しいオーナーパスワードは null または空であることができます。新しいオーナーパスワードが null または空の場合、オーナーパスワードはランダムな文字列に置き換えられます。KeySize と Algorithm の値の組み合わせは 6 通りあります。ただし、(KeySize.x40, Algorithm.AES) と (KeySize.x256, Algorithm.RC4) は無効であり、この組み合わせに遭遇した場合は対応する例外が発生します。プロセスが失敗した場合は例外をスローしません。
+オーナーパスワードでユーザーパスワードとオーナーパスワードを変更し、Pdf ドキュメントのセキュリティをリセットできるようにします。新しいユーザーパスワードと新しいオーナーパスワードは null または空にすることができます。新しいオーナーパスワードが null または空の場合、オーナーパスワードはランダムな文字列に置き換えられます。KeySize と Algorithm の組み合わせは 6 通り可能です。ただし (KeySize.x40, Algorithm.AES) と (KeySize.x256, Algorithm.RC4) は無効で、キットがこの組み合わせに遭遇した場合は対応する例外が発生します。処理が失敗しても例外はスローされません。
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, 
     string newOwnerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | ownerPassword | String | 元のオーナーパスワード。 |
 | newUserPassword | String | 新しいユーザーパスワード。 |
 | newOwnerPassword | String | 新しいオーナーパスワード。 |
-| privilege | DocumentPrivilege | セキュリティをリセットします。 |
-| keySize | KeySize | KeySize.x40 は 40 ビット暗号化、KeySize.x128 は 128 ビット暗号化、KeySize.x256 は 256 ビット暗号化です。 |
-| cipher | Algorithm | Algorithm.AES は AES アルゴリズムを使用して暗号化するため、Algorithm.RC4 は RC4 暗号化のためです。 |
+| 権限 | DocumentPrivilege | セキュリティをリセットします。 |
+| keySize | KeySize | KeySize.x40 は 40 ビット暗号化、KeySize.x128 は 128 ビット暗号化、KeySize.x256 は 256 ビット暗号化に使用します。 |
+| cipher | Algorithm | Algorithm.AES は AES アルゴリズムを使用して暗号化し、Algorithm.RC4 は RC4 暗号化に使用します。 |
 
 ### 戻り値
 
-成功の場合は true、失敗の場合は false。
+成功した場合は true、失敗した場合は false。
 
 ## 例
 
@@ -133,11 +133,13 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
-### 参照
+### 関連項目
 
-* クラス [DocumentPrivilege](../../documentprivilege/)
-* 列挙 [KeySize](../../keysize/)
-* 列挙 [Algorithm](../../algorithm/)
-* クラス [PdfFileSecurity](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* enum [Algorithm](../../algorithm/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

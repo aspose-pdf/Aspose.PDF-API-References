@@ -1,26 +1,28 @@
 ---
-title: PdfToImageOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImageOptions メソッド。PdfToImage プラグインデータコレクションに新しいデータソースを追加します
+title: "PdfToImageOptions.AddInput"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfToImageOptions メソッド。PdfToImage プラグインのデータコレクションに新しいデータソースを追加します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.plugins/pdftoimageoptions/addinput/
 ---
-## PdfToImageOptions.AddInput メソッド
+## PdfToImageOptions.AddInput method
 
-[`PdfToImage`](../../pdftoimage/) プラグインデータコレクションに新しいデータソースを追加します。
+[`PdfToImage`](../../pdftoimage/) プラグインのデータコレクションに新しいデータソースを追加します。
 
 ```csharp
 public void AddInput(IDataSource dataSource)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| dataSource | IDataSource | 追加するデータソース。 |
+| dataSource | IDataSource | 追加するデータソースです。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IDataSource](../../idatasource/)
-* クラス [PdfToImageOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Signature.Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Signatureコンストラクタ。デフォルトコンストラクタ
+title: "Signature.Signature"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Signature コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/signature/signature/
 ---
-## Signatureコンストラクタ
+## Signature constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/signature/signature/
 public Signature()
 ```
 
-### 参照
+### 関連項目
 
 * class [Signature](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

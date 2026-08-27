@@ -1,29 +1,31 @@
 ---
-title: XmpPdfAExtensionSchema.GetSchemaXml
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema メソッド。XML ツリー内のスキーマを表す XML 要素タグ li を返します。
+title: "XmpPdfAExtensionSchema.GetSchemaXml"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionSchema メソッド。XML ツリーでスキーマを表す xml 要素タグ li を返します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/xmppdfaextensionschema/getschemaxml/
 ---
-## XmpPdfAExtensionSchema.GetSchemaXml メソッド
+## XmpPdfAExtensionSchema.GetSchemaXml method
 
-XML ツリー内のスキーマを表す XML 要素 (タグ - li) を返します。
+xml ツリーでスキーマを表す xml 要素（タグ - li）を返します。
 
 ```csharp
 public XmlElement GetSchemaXml(XmlDocument xmlDocument)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | ソース XML ドキュメント。 |
+| xmlDocument | XmlDocument | ソース XML ドキュメントです。 |
 
 ### 戻り値
 
-XML 要素。
+XML 要素です。
 
-### 参照
+### 関連項目
 
-* クラス [XmpPdfAExtensionSchema](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.FileSizeLimitToMemoryLoading
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ファイル全体をメモリに読み込むためのファイルサイズ制限を取得および設定します。値はメガバイト単位で設定されます。デフォルト値は210 Mbです。
+title: "Document.FileSizeLimitToMemoryLoading"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。メモリにファイル全体をロードする際のファイルサイズ上限を取得および設定します。値はメガバイトで設定されます。デフォルト値は 210 MB です。"
 type: docs
-weight: 900
+weight: 920
 url: /ja/net/aspose.pdf/document/filesizelimittomemoryloading/
 ---
-## Document.FileSizeLimitToMemoryLoading プロパティ
+## Document.FileSizeLimitToMemoryLoading property
 
-ファイル全体をメモリに読み込むためのファイルサイズ制限を取得および設定します。値はメガバイト単位で設定されます。デフォルト値は210 Mbです。
+ファイル全体をメモリに読み込む際のファイルサイズ上限を取得および設定します。値はメガバイトで設定されます。デフォルト値は 210 MB です。
 
 ```csharp
 public static int FileSizeLimitToMemoryLoading { get; set; }
@@ -16,6 +16,8 @@ public static int FileSizeLimitToMemoryLoading { get; set; }
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

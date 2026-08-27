@@ -1,20 +1,20 @@
 ---
-title: DateField.DateField
-second_title: Aspose.PDF for .NET API Reference
-description: DateField コンストラクタ。DateField の新しいインスタンスを初期化します。
+title: "DateField.DateField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DateField コンストラクタ。DateField の新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/datefield/datefield/
 ---
 ## DateField() {#constructor}
 
-[`DateField`](../) の新しいインスタンスを初期化します。
+`[`DateField`](../)` の新しいインスタンスを初期化します。
 
 ```csharp
 public DateField()
 ```
 
-### See Also
+### 関連項目
 
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -24,17 +24,17 @@ public DateField()
 
 ## DateField(Document) {#constructor_1}
 
-Generator と共に使用する必要があるコンストラクタです。
+Generator と共に使用すべきコンストラクタです。
 
 ```csharp
 public DateField(Document doc)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | フィールドが作成されるドキュメント。 |
+| ドキュメント | Document | フィールドが作成される Document。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DateField](../)
@@ -45,18 +45,18 @@ public DateField(Document doc)
 
 ## DateField(Page, Rectangle) {#constructor_3}
 
-[`DateField`](../) の新しいインスタンスを初期化します。
+`[`DateField`](../)` の新しいインスタンスを初期化します。
 
 ```csharp
 public DateField(Page page, Rectangle rect)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 作成に必要なページ。 |
-| rect | Rectangle | テキストフィールドがページに配置される矩形。 |
+| ページ | ページ | 作成に必要なページです。 |
+| rect | Rectangle | ページ上にテキストフィールドが配置される矩形です。 |
 
-### See Also
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -68,21 +68,23 @@ public DateField(Page page, Rectangle rect)
 
 ## DateField(Document, Rectangle) {#constructor_2}
 
-[`DateField`](../) の新しいインスタンスを初期化します。
+`[`DateField`](../)` の新しいインスタンスを初期化します。
 
 ```csharp
 public DateField(Document doc, Rectangle rect)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | フィールドが作成されるドキュメント。 |
-| rect | Rectangle | フィールドの矩形。 |
+| ドキュメント | Document | フィールドが作成される Document。 |
+| rect | Rectangle | フィールドの矩形です。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

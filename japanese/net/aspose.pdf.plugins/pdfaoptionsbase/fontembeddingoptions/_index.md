@@ -1,26 +1,26 @@
 ---
-title: PdfAOptionsBase.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase プロパティ。ドキュメントに埋め込むことができないフォントを処理するためのオプションを取得します
+title: "PdfAOptionsBase.FontEmbeddingOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAOptionsBase プロパティ。ドキュメントに埋め込めないフォントを処理するためのオプションを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.plugins/pdfaoptionsbase/fontembeddingoptions/
 ---
-## PdfAOptionsBase.FontEmbeddingOptions プロパティ
+## PdfAOptionsBase.FontEmbeddingOptions property
 
-ドキュメントに埋め込むことができないフォントを処理するためのオプションを取得します。
+文書に埋め込めないフォントを処理するためのオプションを取得します。
 
 ```csharp
 public FontEmbeddingOptions FontEmbeddingOptions { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 フォント埋め込みオプション。
 
 ## 備考
 
-PDF/A 標準では、すべてのフォントをドキュメントに埋め込む必要があります。このプロパティは、宛先 PC に存在しないために一部のフォントを埋め込むことができない場合の処理オプションを提供します。
+PDF/A 標準では、すべてのフォントを文書に埋め込むことが必須とされています。このプロパティは、宛先 PC にフォントが存在せず埋め込めない場合の処理オプションを提供します。
 
 ### 関連項目
 
@@ -28,3 +28,5 @@ PDF/A 標準では、すべてのフォントをドキュメントに埋め込�
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

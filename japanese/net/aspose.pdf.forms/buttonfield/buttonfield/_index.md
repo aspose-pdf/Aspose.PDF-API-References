@@ -1,20 +1,20 @@
 ---
-title: ButtonField.ButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField コンストラクタ。Generator 用のボタンフィールドコンストラクタ
+title: "ButtonField.ButtonField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ButtonField コンストラクタ。Generator 用のボタンフィールドコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/buttonfield/buttonfield/
 ---
 ## ButtonField() {#constructor}
 
-Generator 用のボタンフィールドコンストラクタ。
+Generator 用のボタンフィールドコンストラクタです。
 
 ```csharp
 public ButtonField()
 ```
 
-### See Also
+### 関連項目
 
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -24,18 +24,18 @@ public ButtonField()
 
 ## ButtonField(Page, Rectangle) {#constructor_2}
 
-ButtonField コンストラクタ。
+ButtonField コンストラクタです。
 
 ```csharp
 public ButtonField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | ボタンが配置されるページ。 |
+| ページ | ページ | ボタンが配置されるページ。 |
 | rect | Rectangle | ページ上にボタンが配置される矩形。 |
 
-### See Also
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -47,21 +47,23 @@ public ButtonField(Page page, Rectangle rect)
 
 ## ButtonField(Document, Rectangle) {#constructor_1}
 
-ButtonField コンストラクタ。
+ButtonField コンストラクタです。
 
 ```csharp
 public ButtonField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | 新しいフィールドが作成されるドキュメント。 |
+| ドキュメント | Document | 新しいフィールドが作成される Docuemtn。 |
 | rect | Rectangle | ページ上にボタンが配置される矩形。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

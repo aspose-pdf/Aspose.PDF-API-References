@@ -1,25 +1,27 @@
 ---
-title: FieldSerializationResult.FieldFullName
-second_title: Aspose.PDF for .NET API Reference
-description: FieldSerializationResult プロパティ。フィールドのフルネームを取得します
+title: "FieldSerializationResult.FieldFullName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FieldSerializationResult プロパティ。フィールドの完全名を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/fieldserializationresult/fieldfullname/
 ---
-## FieldSerializationResult.FieldFullName プロパティ
+## FieldSerializationResult.FieldFullName property
 
-フィールドのフルネームを取得します。
+フィールドの完全名を取得します。
 
 ```csharp
 public string FieldFullName { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-フィールドのフルネーム。
+フィールドの完全名です。
 
-### 参照
+### 関連項目
 
-* クラス [FieldSerializationResult](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

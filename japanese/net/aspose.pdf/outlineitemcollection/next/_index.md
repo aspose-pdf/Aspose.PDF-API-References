@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Next
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection プロパティ。このアイテムに対してアウトライン階層内で相対的に次のアイテムを表すアウトラインアイテムを取得します
+title: "OutlineItemCollection.Next"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineItemCollection プロパティ。この項目に対して相対的に次の項目を表すアウトライン項目を取得します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf/outlineitemcollection/next/
 ---
-## OutlineItemCollection.Next プロパティ
+## OutlineItemCollection.Next property
 
-このアイテムに対してアウトライン階層内で相対的に次のアイテムを表すアウトラインアイテムを取得します。
+アウトライン階層でこの項目に対して次の項目を表すアウトライン項目を取得します。
 
 ```csharp
 public OutlineItemCollection Next { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [OutlineItemCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

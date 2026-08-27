@@ -1,29 +1,31 @@
 ---
-title: OpenAIChatCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションのためのトップ P 値を設定します
+title: "OpenAIChatCopilotOptions.WithTopP"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションの top P 値を設定します。"
 type: docs
-weight: 180
+weight: 190
 url: /ja/net/aspose.pdf.ai/openaichatcopilotoptions/withtopp/
 ---
-## OpenAIChatCopilotOptions.WithTopP メソッド
+## OpenAIChatCopilotOptions.WithTopP method
 
-チャットコパイロットオプションのためのトップ P 値を設定します。
+チャットコパイロットオプションの top P 値を設定します。
 
 ```csharp
 public OpenAIChatCopilotOptions WithTopP(double? topP)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| topP | Nullable`1 | 設定するトップ P 値。 |
+| topP | Nullable`1 | 設定する top P 値です。 |
 
 ### 戻り値
 
-[`OpenAIChatCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIChatCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIChatCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

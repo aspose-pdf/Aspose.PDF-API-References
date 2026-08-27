@@ -1,14 +1,14 @@
 ---
-title: Class AIClientBase
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.AIClientBase クラス。AI API にアクセスするためのクライアントを表します。
+title: "クラス AIClientBase"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.AIClientBase クラス。AI API にアクセスするクライアントを表します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.ai/aiclientbase/
 ---
-## AIClientBase クラス
+## AIClientBase class
 
-AI API にアクセスするためのクライアントを表します。
+AI API にアクセスするクライアントを表します。
 
 ```csharp
 public abstract class AIClientBase : IDisposable
@@ -18,18 +18,20 @@ public abstract class AIClientBase : IDisposable
 
 | 名前 | 説明 |
 | --- | --- |
-| [BackoffDelaySeconds](../../aspose.pdf.ai/aiclientbase/backoffdelayseconds/) { get; set; } | バックオフ遅延を秒単位で取得または設定します。 |
-| [HttpRequestMaxRetries](../../aspose.pdf.ai/aiclientbase/httprequestmaxretries/) { get; set; } | HTTP リクエストの最大再試行回数を取得または設定します。 |
-| [PollingIntervalSeconds](../../aspose.pdf.ai/aiclientbase/pollingintervalseconds/) { get; set; } | ポーリング間隔を秒単位で取得または設定します。 |
-| [PollingTimeoutSeconds](../../aspose.pdf.ai/aiclientbase/pollingtimeoutseconds/) { get; set; } | ポーリングタイムアウトを秒単位で取得または設定します。 |
+| [BackoffDelaySeconds](../../aspose.pdf.ai/aiclientbase/backoffdelayseconds/) { get; set; } | ポーリング間隔（秒）を取得または設定します。 |
+| [HttpRequestMaxRetries](../../aspose.pdf.ai/aiclientbase/httprequestmaxretries/) { get; set; } | ポーリングタイムアウト（秒）を取得または設定します。 |
+| [PollingIntervalSeconds](../../aspose.pdf.ai/aiclientbase/pollingintervalseconds/) { get; set; } | スレッド内の既存の実行を非同期にキャンセルします。 |
+| [PollingTimeoutSeconds](../../aspose.pdf.ai/aiclientbase/pollingtimeoutseconds/) { get; set; } | 特定のベクトルストアファイルバッチを非同期にキャンセルします。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | `AIClientBase` によって使用されるリソースを解放します。 |
+| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | `AIClientBase` が使用するリソースを解放します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

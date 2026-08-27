@@ -1,29 +1,31 @@
 ---
-title: Document.GetCatalogValue
-second_title: Aspose.PDF for .NET API Reference
-description: Document メソッド。カタログ辞書からアイテムの値を返します
+title: "Document.GetCatalogValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。カタログ辞書から項目の値を返します"
 type: docs
-weight: 670
+weight: 690
 url: /ja/net/aspose.pdf/document/getcatalogvalue/
 ---
-## Document.GetCatalogValue メソッド
+## Document.GetCatalogValue method
 
-カタログ辞書からアイテムの値を返します。
+カタログ辞書から項目の値を返します。
 
 ```csharp
 public object GetCatalogValue(string key)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | アイテムのキー。 |
+| キー | String | 項目のキーです。 |
 
 ### 戻り値
 
-アイテムの値 - キーが正常に見つかった場合; それ以外の場合は、null。
+項目の値 - キーが正常に見つかった場合; それ以外は null。
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

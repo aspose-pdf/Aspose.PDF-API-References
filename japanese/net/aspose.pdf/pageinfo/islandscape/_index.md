@@ -1,12 +1,12 @@
 ---
-title: PageInfo.IsLandscape
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo プロパティ。ページが横向きかどうかを取得または設定します。
+title: "PageInfo.IsLandscape"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageInfo プロパティ。ページが横向きかどうかを取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/pageinfo/islandscape/
 ---
-## PageInfo.IsLandscape プロパティ
+## PageInfo.IsLandscape property
 
 ページが横向きかどうかを取得または設定します。
 
@@ -16,6 +16,8 @@ public bool IsLandscape { get; set; }
 
 ### 関連項目
 
-* クラス [PageInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

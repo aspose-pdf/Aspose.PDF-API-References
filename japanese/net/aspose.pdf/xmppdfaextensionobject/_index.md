@@ -1,14 +1,14 @@
 ---
-title: Class XmpPdfAExtensionObject
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionObject クラス。フィールドプロパティ値タイプインスタンスの基本クラスを表します。
+title: "クラス XmpPdfAExtensionObject"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.XmpPdfAExtensionObject クラス。フィールドプロパティ値タイプのインスタンスの基底クラスを表します。"
 type: docs
-weight: 11450
+weight: 11640
 url: /ja/net/aspose.pdf/xmppdfaextensionobject/
 ---
-## XmpPdfAExtensionObject クラス
+## XmpPdfAExtensionObject class
 
-フィールド、プロパティ、値タイプインスタンスの基本クラスを表します。
+フィールド、プロパティ、値タイプインスタンスの基底クラスを表します。
 
 ```csharp
 public abstract class XmpPdfAExtensionObject
@@ -25,9 +25,11 @@ public abstract class XmpPdfAExtensionObject
 
 | 名前 | 説明 |
 | --- | --- |
-| abstract [GetXml](../../aspose.pdf/xmppdfaextensionobject/getxml/)(XmlDocument) | オブジェクトを XML ツリーで表す XML 要素のリストを返します。 |
+| abstract [GetXml](../../aspose.pdf/xmppdfaextensionobject/getxml/)(XmlDocument) | オブジェクトをXMLツリーで表すXML要素のリストを返します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

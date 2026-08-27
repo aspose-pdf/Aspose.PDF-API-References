@@ -1,14 +1,14 @@
 ---
-title: CosPdfNumber.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber メソッド。現在の CosPdfNumber を表す文字列を返します
+title: "CosPdfNumber.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfNumber メソッド。現在の CosPdfNumber を表す文字列を返します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.dataeditor/cospdfnumber/tostring/
 ---
-## CosPdfNumber.ToString メソッド
+## CosPdfNumber.ToString method
 
-現在の [`CosPdfNumber`](../) を表す文字列を返します。
+現在の[`CosPdfNumber`](../) を表す文字列を返します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-現在の [`CosPdfNumber`](../) を表す文字列。
+現在の[`CosPdfNumber`](../) を表す文字列。
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfNumber](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

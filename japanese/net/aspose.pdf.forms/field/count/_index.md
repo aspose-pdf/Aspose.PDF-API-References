@@ -1,14 +1,14 @@
 ---
-title: Field.Count
-second_title: Aspose.PDF for .NET API Reference
-description: フィールドプロパティ。このフィールド内のサブフィールドの数を取得します。例えば、ラジオボタンフィールド内のアイテムの数です。
+title: "Field.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Field プロパティ。このフィールド内のサブフィールド数を取得します。たとえばラジオボタンフィールドの項目数などです"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.forms/field/count/
 ---
-## Field.Count プロパティ
+## Field.Count property
 
-このフィールド内のサブフィールドの数を取得します。（例えば、ラジオボタンフィールド内のアイテムの数です）。
+このフィールドのサブフィールド数を取得します。（例：ラジオボタンフィールドの項目数）
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### 関連項目
 
-* クラス [Field](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

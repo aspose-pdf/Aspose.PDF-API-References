@@ -1,21 +1,23 @@
 ---
-title: PdfContentEditor.DocumentWillSave
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor フィールド。ドキュメントイベントタイプ。保存前にアクションを実行します。
+title: "PdfContentEditor.DocumentWillSave"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor フィールド。ドキュメントイベントの種類です。保存前にアクションを実行します。"
 type: docs
 weight: 520
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/documentwillsave/
 ---
-## PdfContentEditor.DocumentWillSave フィールド
+## PdfContentEditor.DocumentWillSave field
 
-ドキュメントイベントタイプ。保存前にアクションを実行します。
+Document のイベントタイプです。保存前にアクションを実行します。
 
 ```csharp
 public const string DocumentWillSave;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

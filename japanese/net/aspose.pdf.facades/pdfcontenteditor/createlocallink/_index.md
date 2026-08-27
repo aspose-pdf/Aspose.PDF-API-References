@@ -1,27 +1,27 @@
 ---
-title: PdfContentEditor.CreateLocalLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。PDF ドキュメントにローカルリンクを作成します。
+title: "PdfContentEditor.CreateLocalLink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。PDF ドキュメントにローカルリンクを作成します。"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createlocallink/
 ---
 ## CreateLocalLink(Rectangle, int, int, Color, Enum[]) {#createlocallink_2}
 
-PDF ドキュメントにローカルリンクを作成します。
+PDF ドキュメント内にローカルリンクを作成します。
 
 ```csharp
 public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color clr, 
     Enum[] actionName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | アクティブクリック用の矩形。 |
-| desPage | Int32 | 目的のページ。 |
-| originalPage | Int32 | ローカルリンクにバウンドされた矩形が作成される元のページの番号。 |
-| clr | Color | アクティブクリック用の矩形の色。 |
-| actionName | Enum[] | Acrobat ビューアでメニュー項目を実行するのに対応するアクションの配列 (PredefinedAction 列挙型のメンバー)。 |
+| rect | Rectangle | クリック可能な領域の矩形。 |
+| desPage | Int32 | 宛先ページ。 |
+| originalPage | Int32 | ローカルリンクでバインドされた矩形が作成される元ページの番号。 |
+| clr | Color | クリック可能な領域の矩形の色。 |
+| actionName | Enum[] | Acrobat ビューアでメニュー項目を実行することに対応するアクションの配列（PredefinedAction enum のメンバー）。 |
 
 ## 例
 
@@ -36,26 +36,26 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateLocalLink(Rectangle, int, int, Color) {#createlocallink_1}
 
-PDF ドキュメントにローカルリンクを作成します。
+PDF ドキュメント内にローカルリンクを作成します。
 
 ```csharp
 public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color clr)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | アクティブクリック用の矩形。 |
-| desPage | Int32 | 目的のページ。 |
-| originalPage | Int32 | ローカルリンクにバウンドされた矩形が作成される元のページの番号。 |
-| clr | Color | アクティブクリック用の矩形の色。 |
+| rect | Rectangle | クリック可能な領域の矩形。 |
+| desPage | Int32 | 宛先ページ。 |
+| originalPage | Int32 | ローカルリンクでバインドされた矩形が作成される元ページの番号。 |
+| clr | Color | クリック可能な領域の矩形の色。 |
 
 ## 例
 
@@ -69,25 +69,25 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateLocalLink(Rectangle, int, int) {#createlocallink}
 
-PDF ドキュメントにローカルリンクを作成します。
+PDF ドキュメント内にローカルリンクを作成します。
 
 ```csharp
 public void CreateLocalLink(Rectangle rect, int desPage, int originalPage)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | アクティブクリック用の矩形。 |
-| desPage | Int32 | 目的のページ。 |
-| originalPage | Int32 | ローカルリンクにバウンドされた矩形が作成される元のページの番号。 |
+| rect | Rectangle | クリック可能な領域の矩形。 |
+| desPage | Int32 | 宛先ページ。 |
+| originalPage | Int32 | ローカルリンクでバインドされた矩形が作成される元ページの番号。 |
 
 ## 例
 
@@ -100,6 +100,8 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

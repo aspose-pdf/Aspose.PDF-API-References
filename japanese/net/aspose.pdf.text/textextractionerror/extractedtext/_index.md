@@ -1,21 +1,23 @@
 ---
-title: TextExtractionError.ExtractedText
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionError プロパティ。実際に抽出されたテキスト
+title: "TextExtractionError.ExtractedText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextExtractionError プロパティ。実際に抽出されたテキスト"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.text/textextractionerror/extractedtext/
 ---
-## TextExtractionError.ExtractedText プロパティ
+## TextExtractionError.ExtractedText property
 
-実際に抽出されたテキストです。
+実際に抽出されたテキスト。
 
 ```csharp
 public string ExtractedText { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TextExtractionError](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

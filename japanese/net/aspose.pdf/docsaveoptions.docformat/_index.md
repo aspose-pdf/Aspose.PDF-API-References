@@ -1,12 +1,12 @@
 ---
-title: Enum DocSaveOptions.DocFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocSaveOptionsDocFormat 列挙型。 .doc または .docx ファイル形式を指定できます
+title: "Enum DocSaveOptions.DocFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.DocSaveOptionsDocFormat 列挙体。.doc または .docx ファイル形式を指定できます"
 type: docs
-weight: 3760
+weight: 3880
 url: /ja/net/aspose.pdf/docsaveoptions.docformat/
 ---
-## DocSaveOptions.DocFormat 列挙型
+## DocSaveOptions.DocFormat enumeration
 
 .doc または .docx ファイル形式を指定できます。
 
@@ -21,8 +21,10 @@ public enum DocFormat
 | Doc | `0` | \c \[MS-DOC]: Word (.doc) バイナリファイル形式 |
 | DocX | `1` | Office Open XML (.docx) ファイル形式 |
 
-### 参照
+### 関連項目
 
-* クラス [DocSaveOptions](../docsaveoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [DocSaveOptions](../docsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

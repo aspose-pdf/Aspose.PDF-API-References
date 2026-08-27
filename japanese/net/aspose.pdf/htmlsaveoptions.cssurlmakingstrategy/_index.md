@@ -1,30 +1,32 @@
 ---
-title: Delegate HtmlSaveOptions.CssUrlMakingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: このプロパティには、生成された HTML ドキュメントで参照される CSS の URL を作成するカスタム メソッドから作成されたデリゲートを割り当てることができます。たとえば、HTML で "otherPage.ASPXCssIDzjjkklj" として参照される CSS を作成したい場合、そのカスタム戦略は "otherPage.ASPXCssIDzjjkklj" を返す必要があります。
+title: "デリゲート HtmlSaveOptions.CssUrlMakingStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "このプロパティには、生成されたHTMLドキュメントで参照されるCSSのURL作成を実装したカスタムメソッドから作成されたデリゲートを割り当てることができます。例えば、HTMLで参照されるCSSを otherPage.ASPXCssIDzjjkklj としたい場合、そのようなカスタム戦略は otherPage.ASPXCssIDzjjkklj を返す必要があります。"
 type: docs
-weight: 5600
+weight: 5730
 url: /ja/net/aspose.pdf/htmlsaveoptions.cssurlmakingstrategy/
 ---
-## HtmlSaveOptions.CssUrlMakingStrategy デリゲート
+## HtmlSaveOptions.CssUrlMakingStrategy delegate
 
-このプロパティには、生成された HTML ドキュメントで参照される CSS の URL を作成するカスタム メソッドから作成されたデリゲートを割り当てることができます。たとえば、HTML で "otherPage.ASPX?CssID=zjjkklj" として参照される CSS を作成したい場合、そのカスタム戦略は "otherPage.ASPX?CssID=zjjkklj" を返す必要があります。
+このプロパティには、生成されたHTMLドキュメントで参照されるCSSのURL作成を実装したカスタムメソッドから作成されたデリゲートを割り当てることができます。例えば、HTMLで参照されるCSSを "otherPage.ASPX?CssID=zjjkklj" としたい場合、そのようなカスタム戦略は "otherPage.ASPX?CssID=zjjkklj" を返す必要があります。
 
 ```csharp
 public delegate string CssUrlMakingStrategy(CssUrlRequestInfo cssUrlRequestInfo);
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| cssUrlRequestInfo | CssUrlRequestInfo | CSS の URL を生成するために使用できるデータのセットを表します。 |
+| cssUrlRequestInfo | CssUrlRequestInfo | CSSのURL生成に使用できるデータの集合を表します |
 
 ### 戻り値
 
-CSS の URL または URL のテンプレートを表す文字列を返す必要があります。
+CSSのURLまたはURLテンプレートを表す文字列を返す必要があります
 
-### 参照
+### 関連項目
 
-* クラス [CssUrlRequestInfo](../htmlsaveoptions.cssurlrequestinfo/)
-* クラス [HtmlSaveOptions](../htmlsaveoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [CssUrlRequestInfo](../htmlsaveoptions.cssurlrequestinfo/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

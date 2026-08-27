@@ -1,12 +1,12 @@
 ---
-title: CustomExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: CustomExplicitDestination メソッド。ページ番号に変換します
+title: "CustomExplicitDestination.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CustomExplicitDestination メソッド。ページ番号に変換します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/customexplicitdestination/tostring/
 ---
-## CustomExplicitDestination.ToString メソッド
+## CustomExplicitDestination.ToString method
 
 ページ番号に変換します。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 ページ番号。
 
-### 参照
+### 関連項目
 
-* クラス [CustomExplicitDestination](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CustomExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

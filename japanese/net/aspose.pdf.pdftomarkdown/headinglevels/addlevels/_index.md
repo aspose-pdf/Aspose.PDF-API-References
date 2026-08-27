@@ -1,22 +1,22 @@
 ---
-title: HeadingLevels.AddLevels
-second_title: Aspose.PDF for .NET API Reference
-description: HeadingLevels メソッド。見出しレベルを追加します。フォントサイズのコレクションは、サイズが減少する順にソートされている必要があります。
+title: "HeadingLevels.AddLevels"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HeadingLevels メソッド。見出しレベルを追加します。フォントサイズのコレクションはサイズの降順にソートされている必要があります。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.pdftomarkdown/headinglevels/addlevels/
 ---
-## HeadingLevels.AddLevels メソッド
+## HeadingLevels.AddLevels method
 
-見出しレベルを追加します。フォントサイズのコレクションは、サイズが減少する順にソートされている必要があります。
+ヘッダーレベルを追加します。フォントサイズのコレクションはサイズの降順にソートされている必要があります。
 
 ```csharp
 public void AddLevels(ICollection<double> fontSizes)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fontSizes | ICollection`1 | 値は減少する順にソートされている必要があります。 |
+| fontSizes | ICollection`1 | 値は降順にソートされている必要があります。 |
 
 ### 例外
 
@@ -24,8 +24,10 @@ public void AddLevels(ICollection<double> fontSizes)
 | --- | --- |
 | ArgumentException | 値がソートされていない場合、または値が1未満の場合。 |
 
-### 参照
+### 関連項目
 
-* クラス [HeadingLevels](../)
-* 名前空間 [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../../)
+
+

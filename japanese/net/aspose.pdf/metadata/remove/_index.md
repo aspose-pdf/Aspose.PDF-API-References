@@ -1,7 +1,7 @@
 ---
-title: Metadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: メタデータメソッド。メタデータからエントリを削除します。
+title: "Metadata.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metadata メソッド。メタデータからエントリを削除します"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf/metadata/remove/
@@ -14,41 +14,43 @@ url: /ja/net/aspose.pdf/metadata/remove/
 public bool Remove(string key)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | 削除するエントリのキー。 |
+| キー | String | 削除するエントリのキー。 |
 
 ### 戻り値
 
-キーが削除された場合は true; それ以外の場合は false。
+キーが削除された場合は true、そうでない場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [Metadata](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Remove(KeyValuePair&lt;string, XmpValue&gt;) {#remove}
 
-コレクションからキー/値ペアを削除します。
+コレクションからキー/値のペアを削除します。
 
 ```csharp
 public bool Remove(KeyValuePair<string, XmpValue> item)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 削除されるキー/値ペア。 |
+| アイテム | KeyValuePair`2 | 削除されるキー/値のペア。 |
 
 ### 戻り値
 
-ペアが見つかり、削除された場合は true。
+ペアが見つかり削除された場合は true。
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../../xmpvalue/)
-* クラス [Metadata](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

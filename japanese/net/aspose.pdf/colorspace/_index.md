@@ -1,14 +1,14 @@
 ---
-title: Enum ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColorSpace 列挙型。カラースペースの列挙
+title: "列挙型 ColorSpace"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ColorSpace 列挙型。カラースペースの列挙"
 type: docs
-weight: 3090
+weight: 3200
 url: /ja/net/aspose.pdf/colorspace/
 ---
-## ColorSpace 列挙型
+## ColorSpace enumeration
 
-カラースペースの列挙。
+カラー空間の列挙です。
 
 ```csharp
 public enum ColorSpace
@@ -18,11 +18,13 @@ public enum ColorSpace
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| DeviceRGB | `0` | デバイス依存の RGB カラースペース。 |
-| DeviceCMYK | `1` | デバイス依存の CMYK カラースペース。 |
-| DeviceGray | `2` | デバイス依存のグレー カラースペース。 |
+| DeviceRGB | `0` | デバイス依存の RGB カラースペースです。 |
+| DeviceCMYK | `1` | デバイス依存の CMYK カラースペースです。 |
+| DeviceGray | `2` | デバイス依存のグレイ カラースペースです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

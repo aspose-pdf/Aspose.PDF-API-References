@@ -1,12 +1,12 @@
 ---
-title: Class ToolChoice.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ToolChoiceObjectType クラス。ToolChoice のオブジェクト値を表します。
+title: "クラス ToolChoice.ObjectType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.ToolChoiceObjectType クラス。ToolChoice のオブジェクト値を表します"
 type: docs
-weight: 1220
+weight: 1310
 url: /ja/net/aspose.pdf.ai/toolchoice.objecttype/
 ---
-## ToolChoice.ObjectType クラス
+## ToolChoice.ObjectType class
 
 ToolChoice のオブジェクト値を表します。
 
@@ -25,10 +25,12 @@ public class ObjectType
 | 名前 | 説明 |
 | --- | --- |
 | [Function](../../aspose.pdf.ai/toolchoice.objecttype/function) { get; set; } | 呼び出す関数を取得または設定します。 |
-| [ToolType](../../aspose.pdf.ai/toolchoice.objecttype/tooltype) { get; set; } | ツールのタイプを取得または設定します。現在、関数のみがサポートされています。 |
+| [ToolType](../../aspose.pdf.ai/toolchoice.objecttype/tooltype) { get; set; } | ツールのタイプを取得または設定します。現在、function のみがサポートされています。 |
 
-### 参照
+### 関連項目
 
-* クラス [ToolChoice](../toolchoice/)
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* class [ToolChoice](../toolchoice/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

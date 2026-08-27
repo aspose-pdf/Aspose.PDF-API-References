@@ -1,14 +1,14 @@
 ---
-title: Enum ReturnAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ReturnAction 列挙型。Warning メソッドを呼び出す場合のプログラムワークフローアクションを表す列挙型
+title: "列挙型 ReturnAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ReturnAction 列挙型。列挙型は Warning メソッドを呼び出した場合のプログラムワークフローアクションを表します"
 type: docs
-weight: 9790
+weight: 9940
 url: /ja/net/aspose.pdf/returnaction/
 ---
-## ReturnAction 列挙型
+## ReturnAction enumeration
 
-列挙型は、[`Warning`](../iwarningcallback/warning/) メソッドを呼び出す場合のプログラムワークフローアクションを表します。
+列挙型は、[`Warning`](../iwarningcallback/warning/) メソッドを呼び出した場合のプログラムワークフローアクションを表します
 
 ```csharp
 public enum ReturnAction
@@ -18,10 +18,12 @@ public enum ReturnAction
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Continue | `0` | フローを続行するために使用されます。 |
+| Continue | `0` | フローを継続するために使用されます。 |
 | Abort | `1` | フローを中止するために使用されます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PDF for .NET API Reference
-description: ライセンスメソッド。コンポーネントにライセンスを付与します
+title: "License.SetLicense"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "License メソッド。コンポーネントにライセンスを設定します"
 type: docs
-weight: 20
+weight: 40
 url: /ja/net/aspose.pdf/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}
@@ -14,25 +14,25 @@ url: /ja/net/aspose.pdf/license/setlicense/
 public void SetLicense(string licenseName)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| licenseName | String | フルファイル名または短いファイル名、または埋め込まれたリソースの名前である可能性があります。空の文字列を使用すると評価モードに切り替わります。 |
+| licenseName | String | 完全なファイル名または短いファイル名、または埋め込みリソースの名前を指定できます。空文字列を使用すると評価モードに切り替わります。 |
 
 ## 備考
 
-次の場所でライセンスを探します:
+次の場所でライセンスを検索します：
 
 1. 明示的なパス。
 
-2. Asposeコンポーネントアセンブリを含むフォルダー。
+2. Aspose コンポーネント アセンブリが含まれるフォルダー。
 
-3. クライアントの呼び出しアセンブリを含むフォルダー。
+3. クライアントの呼び出しアセンブリが含まれるフォルダー。
 
-4. エントリ（スタートアップ）アセンブリを含むフォルダー。
+4. エントリ（スタートアップ）アセンブリが含まれるフォルダー。
 
 5. クライアントの呼び出しアセンブリに埋め込まれたリソース。
 
-**注意:** .NET Compact Frameworkでは、次の場所でのみライセンスを探します:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. 明示的なパス。
 
@@ -40,15 +40,15 @@ public void SetLicense(string licenseName)
 
 [Java]
 
-2. AsposeコンポーネントJARファイルを含むフォルダー。
+2. Aspose コンポーネント JAR ファイルが含まれるフォルダー。
 
-3. クライアントの呼び出しJARファイルを含むフォルダー。
+3. クライアントの呼び出し JAR ファイルが含まれるフォルダー。
 
 ### 関連項目
 
-* クラス [License](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,7 +60,7 @@ public void SetLicense(string licenseName)
 public void SetLicense(Stream stream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | stream | Stream | ライセンスを含むストリーム。 |
 
@@ -70,6 +70,8 @@ public void SetLicense(Stream stream)
 
 ### 関連項目
 
-* クラス [License](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

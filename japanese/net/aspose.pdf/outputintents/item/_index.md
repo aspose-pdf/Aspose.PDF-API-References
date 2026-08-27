@@ -1,12 +1,12 @@
 ---
-title: OutputIntents.Item
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents プロパティ。指定されたインデックスの出力インテントを取得します
+title: "OutputIntents.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutputIntents プロパティ。指定されたインデックスの出力インテントを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/outputintents/item/
 ---
-## OutputIntents インデクサ
+## OutputIntents indexer
 
 指定された *index* の出力インテントを取得します。
 
@@ -16,22 +16,24 @@ public OutputIntent this[int index] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | 取得する出力インテントのゼロベースのインデックス。 |
+| インデックス | 取得する出力インテントのゼロベースインデックスです。 |
 
 ### 戻り値
 
-指定された *index* の出力インテント。
+指定された *index* の出力インテントです。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | *index* が 0 未満であるか、*index* が [`Count`](../count/) と等しいかそれ以上です。 |
-| InvalidOperationException | コレクションを含むドキュメントに OutputIntents にアクセスするためのカタログがありません。 |
+| ArgumentOutOfRangeException | *index* が 0 未満、または *index* が [`Count`](../count/) と等しいかそれ以上です。 |
+| InvalidOperationException | コレクションを含むドキュメントには、OutputIntents にアクセスするカタログがありません。 |
 
-### 参照
+### 関連項目
 
-* クラス [OutputIntent](../../outputintent/)
-* クラス [OutputIntents](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

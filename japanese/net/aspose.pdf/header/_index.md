@@ -1,12 +1,12 @@
 ---
-title: Class Header
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Headerクラス。ヘッダー設定を表します
+title: "クラス Header"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Header クラス。ヘッダー設定を表します"
 type: docs
-weight: 5410
+weight: 5530
 url: /ja/net/aspose.pdf/header/
 ---
-## ヘッダークラス
+## Header class
 
 ヘッダー設定を表します。
 
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf/header/
 public sealed class Header : HorizontalAlignment
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Header](header/)() | デフォルトコンストラクター。 |
+| [Header](header/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
@@ -28,8 +28,10 @@ public sealed class Header : HorizontalAlignment
 | [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | 左揃え設定を取得または設定します。 |
 | [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | 右揃え設定を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

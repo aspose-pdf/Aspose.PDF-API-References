@@ -1,12 +1,12 @@
 ---
-title: Field.ExportValueToJson
-second_title: Aspose.PDF for .NET API Reference
-description: Field メソッド。指定されたフィールドの内容を JSON ストリームにエクスポートします。ボタンフィールドの値はエクスポートされません。
+title: "Field.ExportValueToJson"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Field メソッド。指定されたフィールドの内容を JSON ストリームにエクスポートします。ボタン フィールドの値はエクスポートされません。"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf.forms/field/exportvaluetojson/
 ---
-## Field.ExportValueToJson メソッド
+## Field.ExportValueToJson method
 
 指定されたフィールドの内容を JSON ストリームにエクスポートします。ボタンフィールドの値はエクスポートされません。
 
@@ -14,10 +14,10 @@ url: /ja/net/aspose.pdf.forms/field/exportvaluetojson/
 public void ExportValueToJson(Stream outputJsonStream, bool indented = true)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputJsonStream | Stream | フィールドデータが書き込まれる出力 JSON ストリーム。 |
-| indented | Boolean | オプション。JSON 出力をより読みやすくするためにインデントするかどうかを指定します。デフォルト値は true です。 |
+| outputJsonStream | Stream | フィールド データが書き込まれる出力 JSON ストリーム。 |
+| indented | Boolean | オプション。JSON 出力を読みやすくするためにインデントするかどうかを指定します。デフォルト値は true です。 |
 
 ## 例
 
@@ -29,8 +29,10 @@ field.ExportValueToJson(fs);
 fs.Close();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Field](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

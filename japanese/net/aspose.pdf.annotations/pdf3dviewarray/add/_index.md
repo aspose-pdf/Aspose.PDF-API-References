@@ -1,12 +1,12 @@
 ---
-title: PDF3DViewArray.Add
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DViewArray メソッド。指定されたビューを追加します
+title: "PDF3DViewArray.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DViewArray メソッド。指定されたビューを追加します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/pdf3dviewarray/add/
 ---
-## PDF3DViewArray.Add メソッド
+## PDF3DViewArray.Add method
 
 指定されたビューを追加します。
 
@@ -14,19 +14,21 @@ url: /ja/net/aspose.pdf.annotations/pdf3dviewarray/add/
 public void Add(PDF3DView view)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| view | PDF3DView | ビュー。 |
+| view | PDF3DView | ビューです。 |
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentException | 3D ビューのエントリは1つのみ許可されます |
+| ArgumentException | 3D ビューは 1 つだけしか許可されていません |
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DView](../../pdf3dview/)
-* クラス [PDF3DViewArray](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

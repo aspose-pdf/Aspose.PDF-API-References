@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.GetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata メソッド。入力 PDF の XmpMetadata を XML 形式で取得します。
+title: "PdfXmpMetadata.GetXmpMetadata"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfXmpMetadata メソッド。 入力 PDF の XmpMetadata を XML 形式で取得します。"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/
 public byte[] GetXmpMetadata()
 ```
 
-### Return Value
+### 戻り値
 
-XmpMetadata のバイト列。
+XmpMetadata のバイト配列。
 
-## Examples
+## 例
 
 ```csharp
 PdfXmpMetadata pxm = new PdfXmpMetadata();
@@ -26,7 +26,7 @@ pxm.BindPdf("PdfFile.pdf");
 byte[] data = pxm.GetXmpMetadata();
 ```
 
-### See Also
+### 関連項目
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -36,21 +36,21 @@ byte[] data = pxm.GetXmpMetadata();
 
 ## GetXmpMetadata(string) {#getxmpmetadata_1}
 
-メタ名に従って入力 PDF の XmpMetadata の一部を取得します。
+メタ名に基づいて入力 PDF の XmpMetadata の一部を取得します。
 
 ```csharp
 public byte[] GetXmpMetadata(string name)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | メタデータ名。 |
+| 名前 | String | メタデータ名。 |
 
-### Return Value
+### 戻り値
 
 メタデータのバイト。
 
-## Examples
+## 例
 
 ```csharp
 PdfXmpMetadata pxm = new PdfXmpMetadata();
@@ -58,8 +58,10 @@ pxm.BindPdf("PdfFile.pdf");
 byte[] data = pxm.GetXmpMetadata("dc:creator");
 ```
 
-### See Also
+### 関連項目
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

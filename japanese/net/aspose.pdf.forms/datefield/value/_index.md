@@ -1,12 +1,12 @@
 ---
-title: DateField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: DateField プロパティ。日付を取得または設定します
+title: "DateField.Value"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DateField プロパティ。Date を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.forms/datefield/value/
 ---
-## DateField.Value プロパティ
+## DateField.Value property
 
 日付を取得または設定します。
 
@@ -16,6 +16,8 @@ public DateTime Value { get; set; }
 
 ### 関連項目
 
-* クラス [DateField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

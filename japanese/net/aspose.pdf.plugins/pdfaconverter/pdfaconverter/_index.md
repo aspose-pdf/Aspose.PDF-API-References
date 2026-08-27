@@ -1,12 +1,12 @@
 ---
-title: PdfAConverter.PdfAConverter
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAConverter コンストラクタ。デフォルトコンストラクタ
+title: "PdfAConverter.PdfAConverter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAConverter コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/pdfaconverter/pdfaconverter/
 ---
-## PdfAConverter コンストラクタ
+## PdfAConverter constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/pdfaconverter/pdfaconverter/
 public PdfAConverter()
 ```
 
-### 参照
+### 関連項目
 
 * class [PdfAConverter](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade プロパティ。フィールドテキストのサイズ
+title: "FormFieldFacade.FontSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldFacade プロパティ。フィールドテキストのサイズ"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.facades/formfieldfacade/fontsize/
 ---
-## FormFieldFacade.FontSize プロパティ
+## FormFieldFacade.FontSize property
 
 フィールドテキストのサイズです。
 
@@ -16,6 +16,8 @@ public float FontSize { get; set; }
 
 ### 関連項目
 
-* クラス [FormFieldFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

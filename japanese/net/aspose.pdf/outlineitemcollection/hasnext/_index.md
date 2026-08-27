@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.HasNext
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection プロパティ。このアイテムに対してアウトライン階層内の次のアイテムを表すアウトラインアイテムがあるかどうかを確認します。
+title: "OutlineItemCollection.HasNext"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineItemCollection プロパティ。この項目に対して相対的に次の項目を表すアウトライン項目があるかどうかを確認します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/outlineitemcollection/hasnext/
 ---
-## OutlineItemCollection.HasNext プロパティ
+## OutlineItemCollection.HasNext property
 
-このアイテムに対してアウトライン階層内の次のアイテムを表すアウトラインアイテムがあるかどうかを確認します。
+アウトライン階層でこの項目に対して次の項目を表すアウトライン項目かどうかを確認します。
 
 ```csharp
 public bool HasNext { get; }
@@ -16,6 +16,8 @@ public bool HasNext { get; }
 
 ### 関連項目
 
-* クラス [OutlineItemCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.LightGray
-second_title: Aspose.PDF for .NET API Reference
-description: Color プロパティ。ARGB 値が c FFD3D3D3 のシステム定義色を取得します。
+title: "Color.LightGray"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得します。ARGB 値は c FFD3D3D3 です。"
 type: docs
 weight: 690
 url: /ja/net/aspose.pdf/color/lightgray/
 ---
-## Color.LightGray プロパティ
+## Color.LightGray property
 
-ARGB 値が \c \#FFD3D3D3 のシステム定義色を取得します。
+システム定義の色を取得します（ARGB 値は \c \#FFD3D3D3）。
 
 ```csharp
 public static Color LightGray { get; }
@@ -16,10 +16,12 @@ public static Color LightGray { get; }
 
 ### 戻り値
 
-システム定義色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

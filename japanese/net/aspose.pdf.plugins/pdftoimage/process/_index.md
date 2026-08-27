@@ -1,31 +1,33 @@
 ---
-title: PdfToImage.Process
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImage メソッド。指定されたパラメーターで処理を開始します。
+title: "PdfToImage.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfToImage メソッド。指定されたパラメータで処理を開始します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/pdftoimage/process/
 ---
-## PdfToImage.Process メソッド
+## PdfToImage.Process method
 
-指定されたパラメーターで処理を開始します。
+指定されたパラメータで処理を開始します。
 
 ```csharp
 public ResultContainer Process(IPluginOptions pdfImageOptions)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pdfImageOptions | IPluginOptions | PdfImage の指示を含むオプションオブジェクト。 |
+| pdfImageOptions | IPluginOptions | PdfImage 用の指示を含むオプション オブジェクトです。 |
 
 ### 戻り値
 
-変換の結果を含む ResultContainer オブジェクト。
+変換結果を含む ResultContainer オブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [ResultContainer](../../resultcontainer/)
-* インターフェース [IPluginOptions](../../ipluginoptions/)
-* クラス [PdfToImage](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [PdfToImage](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

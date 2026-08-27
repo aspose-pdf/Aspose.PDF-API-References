@@ -1,25 +1,27 @@
 ---
-title: UnifiedSaveOptions.ExtractOcrSublayerOnly
-second_title: Aspose.PDF for .NET API Reference
-description: UnifiedSaveOptions プロパティ。この属性は、OCR サブレイヤーを持つ PDF ドキュメントから画像またはテキストを抽出する機能をオンにします。
+title: "UnifiedSaveOptions.ExtractOcrSublayerOnly"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "UnifiedSaveOptions プロパティ。この属性は OCR サブレイヤーを持つ PDF ドキュメントから画像またはテキストを抽出する機能を有効にします。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/
 ---
-## UnifiedSaveOptions.ExtractOcrSublayerOnly プロパティ
+## UnifiedSaveOptions.ExtractOcrSublayerOnly property
 
-この属性は、OCR サブレイヤーを持つ PDF ドキュメントから画像またはテキストを抽出する機能をオンにします。
+この属性は、OCR サブレイヤーを使用して PDF Document から画像またはテキストを抽出する機能を有効にします。
 
 ```csharp
 public bool ExtractOcrSublayerOnly { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`true` テキストは結果のドキュメントに抽出されます。それ以外の場合は、`false` です。
+`true` のテキストは結果ドキュメントに抽出されます。そうでない場合は `false` です。
 
-### 参照
+### 関連項目
 
-* クラス [UnifiedSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [UnifiedSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

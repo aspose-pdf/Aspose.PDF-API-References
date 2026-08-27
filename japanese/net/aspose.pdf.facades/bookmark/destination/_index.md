@@ -1,21 +1,23 @@
 ---
-title: Bookmark.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: ブックマークプロパティ。ブックマークの宛先ページを取得または設定します。アクションがstring.Emptyに設定されている場合は必須です。
+title: "Bookmark.Destination"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Bookmark プロパティ。ブックマークの目的ページを取得または設定します。action が string.Empty に設定されている場合は必須です"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/bookmark/destination/
 ---
-## Bookmark.Destinationプロパティ
+## Bookmark.Destination property
 
-ブックマークの宛先ページを取得または設定します。アクションがstring.Emptyに設定されている場合は必須です。
+ブックマークの目的ページを取得または設定します。action が string.Empty に設定されている場合は必須です。
 
 ```csharp
 public string Destination { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

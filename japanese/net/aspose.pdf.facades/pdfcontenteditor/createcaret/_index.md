@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateCaret
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。キャレット注釈を作成します。
+title: "PdfContentEditor.CreateCaret"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。キャレット注釈を作成します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createcaret/
 ---
-## PdfContentEditor.CreateCaret メソッド
+## PdfContentEditor.CreateCaret method
 
 キャレット注釈を作成します。
 
@@ -15,14 +15,14 @@ public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, stri
     string annotContents, Color color)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Int32 | 注釈が作成される元のページの番号。 |
-| annotRect | Rectangle | ページ上の注釈の位置を定義する注釈矩形。 |
-| caretRect | Rectangle | 基本となるキャレットの実際の境界。 |
-| symbol | String | キャレットに関連付けられるシンボル。値は「P」（段落）または「None」です。 |
-| annotContents | String | 注釈の内容。 |
-| color | Color | 注釈の色。 |
+| ページ | Int32 | アノテーションが作成される元のページ番号です。 |
+| annotRect | Rectangle | ページ上でアノテーションの位置を定義するアノテーション矩形です。 |
+| caretRect | Rectangle | 基になるキャレットの実際の境界です。 |
+| シンボル | String | キャレットにシンボルが関連付けられます。値は "P"（段落）または "None" にできます。 |
+| annotContents | String | アノテーションの内容です。 |
+| color | Color | アノテーションの色です。 |
 
 ## 例
 
@@ -38,6 +38,8 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

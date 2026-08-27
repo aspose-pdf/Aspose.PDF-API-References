@@ -1,14 +1,14 @@
 ---
-title: Color.Lime
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB値がc FF00FF00のシステム定義カラーを取得します。
+title: "Color.Lime"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得します。このカラーは ARGB 値 c FF00FF00 を持ちます。"
 type: docs
 weight: 780
 url: /ja/net/aspose.pdf/color/lime/
 ---
-## Color.Lime プロパティ
+## Color.Lime property
 
-ARGB値が\c \#FF00FF00のシステム定義カラーを取得します。
+システム定義の色を取得します（ARGB 値は \c \#FF00FF00）。
 
 ```csharp
 public static Color Lime { get; }
@@ -16,10 +16,12 @@ public static Color Lime { get; }
 
 ### 戻り値
 
-システム定義カラーを表すA。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

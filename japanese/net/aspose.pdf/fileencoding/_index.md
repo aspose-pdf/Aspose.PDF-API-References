@@ -1,14 +1,14 @@
 ---
-title: Enum FileEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FileEncoding enum. 添付ファイルのエンコーディング。可能な値 Zip - ファイルはZIPで圧縮されています None - ファイルは非圧縮です
+title: "列挙体 FileEncoding"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.FileEncoding 列挙体。添付ファイルのエンコーディングです。可能な値は Zip（ファイルが ZIP で圧縮されます） と None（ファイルは圧縮されていません）です。"
 type: docs
-weight: 4820
+weight: 4940
 url: /ja/net/aspose.pdf/fileencoding/
 ---
-## FileEncoding 列挙型
+## FileEncoding enumeration
 
-添付ファイルのエンコーディング。可能な値: Zip - ファイルはZIPで圧縮されています、None - ファイルは非圧縮です。
+添付ファイルのエンコーディング。可能な値: Zip - ファイルは ZIP で圧縮、None - ファイルは圧縮されていません。
 
 ```csharp
 public enum FileEncoding
@@ -19,9 +19,11 @@ public enum FileEncoding
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
 | None | `0` | ファイルは圧縮されていません。 |
-| Zip | `1` | ファイルはZIPアルゴリズムで圧縮されています。 |
+| Zip | `1` | ファイルは ZIP アルゴリズムで圧縮されています。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

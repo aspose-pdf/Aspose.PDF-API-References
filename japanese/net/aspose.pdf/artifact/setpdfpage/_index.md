@@ -1,26 +1,28 @@
 ---
-title: Artifact.SetPdfPage
-second_title: Aspose.PDF for .NET API Reference
-description: アーティファクトメソッド。ドキュメントページにアーティファクトとして配置されるPDFページを設定します。
+title: "Artifact.SetPdfPage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Artifact メソッド。ドキュメントページ上にアーティファクトとして配置される PDF ページを設定します"
 type: docs
 weight: 310
 url: /ja/net/aspose.pdf/artifact/setpdfpage/
 ---
-## Artifact.SetPdfPage メソッド
+## Artifact.SetPdfPage method
 
-ドキュメントページにアーティファクトとして配置されるPDFページを設定します。
+PDF ページを設定します。このページは document ページ上にアーティファクトとして配置されます。
 
 ```csharp
 public void SetPdfPage(Page page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | アーティファクトとして配置されるページ。 |
+| ページ | ページ | Page はアーティファクトとして配置されます。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../page/)
-* クラス [Artifact](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

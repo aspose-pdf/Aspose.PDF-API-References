@@ -1,14 +1,14 @@
 ---
-title: FileListResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: FileListResponse プロパティ。常にリストであるオブジェクトタイプを取得または設定します。
+title: "FileListResponse.Object"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileListResponse プロパティ。常に list であるオブジェクトタイプを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/filelistresponse/object/
 ---
-## FileListResponse.Object プロパティ
+## FileListResponse.Object property
 
-常にリストであるオブジェクトタイプを取得または設定します。
+オブジェクトのタイプを取得または設定します。これは常に list です。
 
 ```csharp
 public string Object { get; set; }
@@ -19,3 +19,5 @@ public string Object { get; set; }
 * class [FileListResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

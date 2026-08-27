@@ -1,14 +1,14 @@
 ---
-title: Class XslFoLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XslFoLoadOptions クラス。PDF ドキュメントに XSLFO ファイルを読み込む/インポートするためのオプションを表します。
+title: "クラス XslFoLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.XslFoLoadOptions クラス。XSLFO ファイルを PDF ドキュメントにロード/インポートするためのオプションを表します"
 type: docs
-weight: 11530
+weight: 11720
 url: /ja/net/aspose.pdf/xslfoloadoptions/
 ---
-## XslFoLoadOptions クラス
+## XslFoLoadOptions class
 
-PDF ドキュメントに XSL-FO ファイルを読み込む/インポートするためのオプションを表します。
+XSL-FO ファイルを pdf ドキュメントにロード/インポートするオプションを表します。
 
 ```csharp
 public sealed class XslFoLoadOptions : XmlLoadOptions
@@ -19,48 +19,48 @@ public sealed class XslFoLoadOptions : XmlLoadOptions
 | 名前 | 説明 |
 | --- | --- |
 | [XslFoLoadOptions](xslfoloadoptions/#constructor)() | XSL データなしで `XslFoLoadOptions` オブジェクトを作成します。 |
-| [XslFoLoadOptions](xslfoloadoptions/#constructor_1)(Stream) | XSL データを持つ `XslFoLoadOptions` オブジェクトを作成します。 |
-| [XslFoLoadOptions](xslfoloadoptions/#constructor_2)(string) | XSL データを持つ `XslFoLoadOptions` オブジェクトを作成します。 |
+| [XslFoLoadOptions](xslfoloadoptions/#constructor_1)(Stream) | XSL データ付きで `XslFoLoadOptions` オブジェクトを作成します。 |
+| [XslFoLoadOptions](xslfoloadoptions/#constructor_2)(string) | XSL データ付きで `XslFoLoadOptions` オブジェクトを作成します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [BasePath](../../aspose.pdf/xslfoloadoptions/basepath/) { get; set; } | 読み込まれた SVG ファイルで参照される外部リソースへの相対パスを検索するためのベースパス/URL。 |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | ファイルを読み込む際にすべてのフォントに対するライセンス制限を無効にするフラグを取得または設定します。`true` の場合、このフォントのライセンスによって禁止されているフォントでの操作を実行できるようにします。たとえば、このフォントの埋め込みを無効にするライセンスルールがある場合でも、PDF ドキュメントにフォントを埋め込むことを許可します。デフォルトは `false` です。 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | [`LoadOptions`](../loadoptions/) が説明するファイル形式を表します。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 生成された警告を処理するためのコールバック。WarningHandler は、Continue または Abort のいずれかを指定する ReturnAction 列挙型の項目を返します。Continue はデフォルトのアクションで、Load 操作は続行されますが、ユーザーが Abort を返すこともでき、その場合 Load 操作は停止する必要があります。 |
+| [BasePath](../../aspose.pdf/xslfoloadoptions/basepath/) { get; set; } | ロードされた SVG ファイルで参照されている外部リソース（存在する場合）の相対パスを検索する基礎パス/URL。 |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | ファイルをロードする際に、すべてのフォントに対するライセンス制限を無効にするフラグを取得または設定します。`true` の場合、このフォントのライセンスで禁止されている操作（例として、ライセンス規則で埋め込みが禁止されているフォントでも PDF Document に埋め込むこと）が実行可能になります。デフォルトは `false` です。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | [`LoadOptions`](../loadoptions/) が記述するファイル形式を表します。 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 生成された警告を処理するコールバックです。WarningHandler は ReturnAction 列挙型の項目を返し、Continue または Abort を指定します。Continue はデフォルトの動作で、Load 操作は継続しますが、ユーザーは Abort を返すこともでき、その場合 Load 操作は中止されます。 |
 | [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | XML を PDF ドキュメントに変換するための XSL データを取得します。 |
-| [XsltArgumentList](../../aspose.pdf/xslfoloadoptions/xsltargumentlist/) { get; set; } | 既存の XLS パラメータに値を挿入するための XsltArgumentList。XLS ファイルには値のない 'animal' パラメータがあります: XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); これにより、変換器は XLS ファイルに 'cat' という値の 'animal' パラメータがあると仮定します。 |
+| [XsltArgumentList](../../aspose.pdf/xslfoloadoptions/xsltargumentlist/) { get; set; } | 既存の XLS パラメータに値を挿入するための XsltArgumentList。XLS ファイルに値のない 'animal' パラメータがある場合：XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); これにより、コンバータは XLS ファイルに値 'cat' の 'animal' パラメータがあるとみなします。 |
 
 ## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| [ParsingErrorsHandlingType](../../aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/) | ソース XSLFO ドキュメントにはフォーマットエラーが含まれている可能性があります。この列挙型は、そのエラーの処理に関する可能な戦略を列挙します。 |
+| [ParsingErrorsHandlingType](../../aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/) | ソース XSLFO ドキュメントには書式エラーが含まれる可能性があります。この列挙体はそのエラーの処理戦略を列挙します。 |
 
 ## 例
 
-次の例は、XSL-FO ファイルを PDF ファイルに変換する方法を示しています。
+次の例は XSL-FO ファイルを PDF ファイルに変換する方法を示しています。
 
 ```csharp
 [C#]
-// The path to the documents directory.
+// documents ディレクトリへのパス。
 string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// The path to your XSL-FO File.
+// XSL-FO ファイルへのパス。
 string xslFoFile = Path.Combine(dataDir, "XSLFO-to-PDF.xslfo");
 
-// The path to output PDF File.
+// 出力 PDF ファイルへのパス。
 string pdfFile = Path.Combine(dataDir, "XSLFO-to-PDF.pdf");
 
-// Initialize XslFoLoadOptions	
+// XslFoLoadOptions を初期化する	
 XslFoLoadOptions xslFoLoadOptions = new XslFoLoadOptions();
     
 using (Document pdfDocument = new Document(xslFoFile, xslFoLoadOptions))
 {
  
-    // Save PDF file
+    // PDF ファイルを保存する
     pdfDocument.Save(pdfFile);
 }
 ```
@@ -87,8 +87,10 @@ using (Document pdfDocument = new Document(xslFoFile, xslFoLoadOptions))
     End Using
 ```
 
-### 参照
+### 関連項目
 
-* クラス [XmlLoadOptions](../xmlloadoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [XmlLoadOptions](../xmlloadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

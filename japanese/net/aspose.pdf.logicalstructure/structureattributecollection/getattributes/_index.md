@@ -1,31 +1,33 @@
 ---
-title: StructureAttributeCollection.GetAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttributeCollection メソッド。標準属性オーナーによる構造要素の StructureAttributes を返します
+title: "StructureAttributeCollection.GetAttributes"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureAttributeCollection メソッド。標準属性所有者によって構造要素の StructureAttributes を返します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/
 ---
-## StructureAttributeCollection.GetAttributes メソッド
+## StructureAttributeCollection.GetAttributes method
 
-標準属性オーナーによる構造要素の [`StructureAttributes`](../../structureattributes/) を返します。
+標準属性所有者によって構造要素の [`StructureAttributes`](../../structureattributes/) を返します。
 
 ```csharp
 public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| ownerStandard | AttributeOwnerStandard | 標準属性オーナー。 |
+| ownerStandard | AttributeOwnerStandard | 標準属性所有者です。 |
 
 ### 戻り値
 
-構造要素の [`StructureAttributes`](../../structureattributes/)。見つからない場合は null を返します。
+[`StructureAttributes`](../../structureattributes/) of structure element. Return null if not found.
 
-### 参照
+### 関連項目
 
-* クラス [StructureAttributes](../../structureattributes/)
-* クラス [AttributeOwnerStandard](../../attributeownerstandard/)
-* クラス [StructureAttributeCollection](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

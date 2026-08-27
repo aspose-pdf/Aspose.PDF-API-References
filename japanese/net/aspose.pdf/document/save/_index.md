@@ -1,54 +1,82 @@
 ---
-title: Document.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Document メソッド。ドキュメントをストリームに保存します
+title: "Document.Save"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。保存オプションを使用してドキュメントをストリームに保存します。"
 type: docs
-weight: 830
+weight: 850
 url: /ja/net/aspose.pdf/document/save/
 ---
+## Save(Stream, SaveOptions) {#save_4}
+
+save options を使用して document をストリームに保存します。
+
+```csharp
+public void Save(Stream outputStream, SaveOptions options)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| outputStream | Stream | ドキュメントが保存されるストリーム。 |
+| オプション | SaveOptions | 保存オプションです。 |
+
+### 例外
+
+| 例外 | 条件 |
+| --- | --- |
+| ArgumentException | メソッドに [`HtmlSaveOptions`](../../htmlsaveoptions/) が渡されたときに ArgumentException がスローされます。ドキュメントを HTML ストリームに保存することはサポートされていません。ファイルに保存するメソッドを使用してください。 |
+
+### 関連項目
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## Save(Stream) {#save_2}
 
-ドキュメントをストリームに保存します。
+document をストリームに保存します。
 
 ```csharp
 public void Save(Stream output)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| output | Stream | ドキュメントが保存されるストリーム。 |
+| output | Stream | ドキュメントが格納されるストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(string) {#save_5}
 
-指定されたファイルにドキュメントを保存します。
+document を指定されたファイルに保存します。
 
 ```csharp
 public void Save(string outputFileName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputFileName | String | ドキュメントが保存されるファイルのパス。 |
+| outputFileName | String | ドキュメントが保存されるファイルへのパス。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save() {#save}
 
-ドキュメントをインクリメンタルに保存します（すなわち、インクリメンタル更新技術を使用します）。
+document をインクリメンタルに保存します（すなわちインクリメンタル更新手法を使用）。
 
 ```csharp
 public void Save()
@@ -56,131 +84,105 @@ public void Save()
 
 ## 備考
 
-ドキュメントをインクリメンタルに保存するには、書き込み用にドキュメントファイルを開く必要があります。したがって、Document は次のコードスニペットのように書き込み可能なストリームで初期化する必要があります: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // いくつかの変更を加え、ドキュメントをインクリメンタルに保存します doc.Save();
+ドキュメントをインクリメンタルに保存するには、ドキュメントファイルを写し込みモードで開く必要があります。そのため、Document は次のコードスニペットのように書き込み可能なストリームで初期化しなければなりません: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // 変更を加えてドキュメントをインクリメンタルに保存 doc.Save();
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(SaveOptions) {#save_1}
 
-保存オプションを使用してドキュメントを保存します。
+save options を使用して document を保存します。
 
 ```csharp
 public void Save(SaveOptions options)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | SaveOptions | 保存オプション。 |
+| オプション | SaveOptions | 保存オプションです。 |
 
-### 参照
+### 関連項目
 
-* クラス [SaveOptions](../../saveoptions/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(string, SaveFormat) {#save_6}
 
-新しい名前とファイル形式でドキュメントを保存します。
+document を新しい名前とファイル形式で保存します。
 
 ```csharp
 public void Save(string outputFileName, SaveFormat format)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputFileName | String | ドキュメントが保存されるファイルのパス。 |
-| format | SaveFormat | 形式オプション。 |
+| outputFileName | String | ドキュメントが保存されるファイルへのパス。 |
+| フォーマット | SaveFormat | フォーマットオプション。 |
 
-### 参照
+### 関連項目
 
-* 列挙 [SaveFormat](../../saveformat/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [SaveFormat](../../saveformat/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream, SaveFormat) {#save_3}
 
-新しい名前とファイル形式でドキュメントを保存します。
+document を新しい名前とファイル形式で保存します。
 
 ```csharp
 public void Save(Stream outputStream, SaveFormat format)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputStream | Stream | ドキュメントが保存されるストリーム。 |
-| format | SaveFormat | 形式オプション。 |
+| フォーマット | SaveFormat | フォーマットオプション。 |
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentException | [`HtmlSaveOptions`](../../htmlsaveoptions/) がメソッドに渡されたときの ArgumentException。HTML ストリームにドキュメントを保存することはサポートされていません。ファイルに保存するメソッドを使用してください。 |
+| ArgumentException | メソッドに [`HtmlSaveOptions`](../../htmlsaveoptions/) が渡されたときに ArgumentException がスローされます。ドキュメントを HTML ストリームに保存することはサポートされていません。ファイルに保存するメソッドを使用してください。 |
 
-### 参照
+### 関連項目
 
-* 列挙 [SaveFormat](../../saveformat/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [SaveFormat](../../saveformat/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(string, SaveOptions) {#save_7}
 
-新しい名前を設定し、その保存オプションを設定してドキュメントを保存します。
+新しい名前を設定し、save options を指定して document を保存します。
 
 ```csharp
 public void Save(string outputFileName, SaveOptions options)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputFileName | String | ドキュメントが保存されるファイルのパス。 |
-| options | SaveOptions | 保存オプション。 |
+| outputFileName | String | ドキュメントが保存されるファイルへのパス。 |
+| オプション | SaveOptions | 保存オプションです。 |
 
-### 参照
+### 関連項目
 
-* クラス [SaveOptions](../../saveoptions/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
----
 
-## Save(Stream, SaveOptions) {#save_4}
-
-保存オプションを使用してストリームにドキュメントを保存します。
-
-```csharp
-public void Save(Stream outputStream, SaveOptions options)
-```
-
-| パラメーター | 型 | 説明 |
-| --- | --- | --- |
-| outputStream | Stream | ドキュメントが保存されるストリーム。 |
-| options | SaveOptions | 保存オプション。 |
-
-### 例外
-
-| 例外 | 条件 |
-| --- | --- |
-| ArgumentException | [`HtmlSaveOptions`](../../htmlsaveoptions/) がメソッドに渡されたときの ArgumentException。HTML ストリームにドキュメントを保存することはサポートされていません。ファイルに保存するメソッドを使用してください。 |
-
-### 参照
-
-* クラス [SaveOptions](../../saveoptions/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)

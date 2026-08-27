@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Quarto
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。クォート紙 215 mm x 275 mm
+title: "PaperSizes.Quarto"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。 クォート用紙 215 mm × 275 mm"
 type: docs
 weight: 1060
 url: /ja/net/aspose.pdf.printing/papersizes/quarto/
 ---
-## PaperSizes.Quarto フィールド
+## PaperSizes.Quarto field
 
-クォート紙 (215 mm x 275 mm)。
+クォート用紙 (215 mm × 275 mm)。
 
 ```csharp
 public static readonly PaperSize Quarto;
@@ -16,7 +16,9 @@ public static readonly PaperSize Quarto;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

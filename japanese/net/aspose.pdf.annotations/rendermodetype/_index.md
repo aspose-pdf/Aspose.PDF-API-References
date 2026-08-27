@@ -1,12 +1,12 @@
 ---
-title: Enum RenderModeType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RenderModeType 列挙型。Enum RenderModeType のレンダーモードタイプのセット
+title: "列挙体 RenderModeType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.RenderModeType 列挙体。RenderModeType 列挙体はレンダーモードの種類の集合です。"
 type: docs
-weight: 2420
+weight: 2510
 url: /ja/net/aspose.pdf.annotations/rendermodetype/
 ---
-## RenderModeType 列挙型
+## RenderModeType enumeration
 
 Enum RenderModeType: レンダーモードタイプのセット
 
@@ -18,22 +18,24 @@ public enum RenderModeType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Solid | `0` | "Solid" レンダーモード。 |
-| SolidWireframe | `1` | "SolidWireFrame" レンダーモード。 |
-| Transparent | `2` | "Transparent" レンダーモード。 |
-| TransparentWareFrame | `3` | "TransparentWareFrame" レンダーモード。 |
-| BoundingBox | `4` | "BoundingBox" レンダーモード。 |
-| TransparentBoundingBox | `5` | "TransparentBoundingBox" レンダーモード。 |
-| TransparentBoundingBoxOutline | `6` | "TransparentBoundingBoxOutline" レンダーモード。 |
-| Wireframe | `7` | "WireFrame" レンダーモード。 |
-| ShadedWireframe | `8` | "ShadedWireFrame" レンダーモード。 |
-| Vertices | `9` | "Vertices" レンダーモード。 |
-| ShadedVertices | `10` | "ShadedVertices" レンダーモード。 |
-| Illustration | `11` | "Illustration" レンダーモード。 |
-| SolidOutline | `12` | "SolidOutline" レンダーモード。 |
-| ShadedIllustration | `13` | "ShadedIllustration" レンダーモード。 |
+| Solid | `0` | 「Solid」レンダリングモードです。 |
+| SolidWireframe | `1` | 「SolidWireFrame」レンダリングモードです。 |
+| Transparent | `2` | 「Transparent」レンダリングモードです。 |
+| TransparentWareFrame | `3` | 「TransparentWareFrame」レンダリングモードです。 |
+| BoundingBox | `4` | 「BoundingBox」レンダリングモードです。 |
+| TransparentBoundingBox | `5` | 「TransparentBoundingBox」レンダリングモードです。 |
+| TransparentBoundingBoxOutline | `6` | 「TransparentBoundingBoxOutline」レンダリングモードです。 |
+| Wireframe | `7` | 「WireFrame」レンダリングモードです。 |
+| ShadedWireframe | `8` | 「ShadedWireFrame」レンダリングモードです。 |
+| Vertices | `9` | 「Vertices」レンダリングモードです。 |
+| ShadedVertices | `10` | 「ShadedVertices」レンダリングモードです。 |
+| Illustration | `11` | 「Illustration」レンダリングモードです。 |
+| SolidOutline | `12` | 「SolidOutline」レンダリングモードです。 |
+| ShadedIllustration | `13` | 「ShadedIllustration」レンダリングモードです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

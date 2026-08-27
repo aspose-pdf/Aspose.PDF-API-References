@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateTOCIElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。TOCIElement を作成します。
+title: "ITaggedContent.CreateTOCIElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。TOCIElement を作成します。"
 type: docs
-weight: 360
+weight: 390
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createtocielement/
 ---
-## ITaggedContent.CreateTOCIElement メソッド
+## ITaggedContent.CreateTOCIElement method
 
-[`TOCIElement`](../../../aspose.pdf.logicalstructure/tocielement/) を作成します。
+Creates [`TOCIElement`](../../../aspose.pdf.logicalstructure/tocielement/) を作成します。
 
 ```csharp
 public TOCIElement CreateTOCIElement()
@@ -16,11 +16,13 @@ public TOCIElement CreateTOCIElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
-* インターフェイス [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

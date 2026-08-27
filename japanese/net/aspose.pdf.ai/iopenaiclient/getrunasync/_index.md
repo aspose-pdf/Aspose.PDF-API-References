@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.GetRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient メソッド。スレッド内の特定の実行の詳細を非同期で取得します。
+title: "IOpenAIClient.GetRunAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IOpenAIClient メソッド。スレッド内の特定の実行の詳細を非同期で取得します"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf.ai/iopenaiclient/getrunasync/
 ---
-## IOpenAIClient.GetRunAsync メソッド
+## IOpenAIClient.GetRunAsync method
 
 スレッド内の特定の実行の詳細を非同期で取得します。
 
@@ -15,11 +15,11 @@ public Task<RunResponse> GetRunAsync(string threadId, string runId,
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| threadId | String | 実行を含むスレッドの ID。 |
+| threadId | String | ランを含むスレッドのID。 |
 | runId | String | 取得する実行の ID。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
@@ -29,12 +29,14 @@ public Task<RunResponse> GetRunAsync(string threadId, string runId,
 
 | 例外 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | スレッド ID が null または空の場合にスローされます。 |
-| [AIClientException](../../aiclientexception/) | 実行 ID が null または空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | スレッドIDがnullまたは空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | run Id が null または空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [RunResponse](../../runresponse/)
-* インターフェース [IOpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

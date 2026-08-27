@@ -1,23 +1,23 @@
 ---
-title: Element.InsertChild
-second_title: Aspose.PDF for .NET API Reference
-description: Element メソッド。指定されたインデックスで子のコレクションに Element を挿入します。
+title: "Element.InsertChild"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Element メソッド。指定されたインデックスで子要素のコレクションに Element を挿入します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.logicalstructure/element/insertchild/
 ---
-## Element.InsertChild メソッド
+## Element.InsertChild method
 
-指定されたインデックスで子のコレクションに Element を挿入します。
+指定されたインデックスで子コレクションに要素を挿入します。
 
 ```csharp
 public Element InsertChild(Element element, int index, bool checkIfCanBeInserted = true)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| element | Element | 追加する Element オブジェクト。 |
-| index | Int32 | Element インデックス。 |
+| 要素 | Element | 追加する Element オブジェクト。 |
+| インデックス | Int32 | Element のインデックス。 |
 | checkIfCanBeInserted | Boolean | 挿入可能かどうかを確認します。 |
 
 ### 戻り値
@@ -30,8 +30,10 @@ public Element InsertChild(Element element, int index, bool checkIfCanBeInserted
 | --- | --- |
 | [TaggedException](../../../aspose.pdf.tagged/taggedexception/) |  |
 
-### 参照
+### 関連項目
 
-* クラス [Element](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

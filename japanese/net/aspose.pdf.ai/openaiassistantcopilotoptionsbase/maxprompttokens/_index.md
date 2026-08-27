@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIAssistantCopilotOptionsBase プロパティ。実行中に使用できる最大のプロンプトトークン数を取得または設定します。
+title: "OpenAIAssistantCopilotOptionsBase.MaxPromptTokens"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIAssistantCopilotOptionsBase プロパティ。実行中に使用できるプロンプトトークンの最大数を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxprompttokens/
 ---
-## OpenAIAssistantCopilotOptionsBase.MaxPromptTokens プロパティ
+## OpenAIAssistantCopilotOptionsBase.MaxPromptTokens property
 
-実行中に使用できる最大のプロンプトトークン数を取得または設定します。
+ランの実行中に使用できるプロンプトトークンの最大数を取得または設定します。
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
@@ -19,3 +19,5 @@ public int? MaxPromptTokens { get; set; }
 * class [OpenAIAssistantCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: RenditionAction.RenditionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: RenditionAction プロパティ。アクションがトリガーされたときに実行する操作
+title: "RenditionAction.RenditionOperation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RenditionAction プロパティ。アクションがトリガーされたときに実行される操作です"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/renditionaction/renditionoperation/
 ---
-## RenditionAction.RenditionOperation プロパティ
+## RenditionAction.RenditionOperation property
 
 アクションがトリガーされたときに実行する操作です。
 
@@ -20,3 +20,5 @@ public RenditionOperation RenditionOperation { get; set; }
 * class [RenditionAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

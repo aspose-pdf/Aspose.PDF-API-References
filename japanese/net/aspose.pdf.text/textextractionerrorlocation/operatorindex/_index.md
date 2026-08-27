@@ -1,21 +1,23 @@
 ---
-title: TextExtractionErrorLocation.OperatorIndex
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation プロパティ。テキスト抽出エラーを引き起こすコンテンツストリームオペレーターコレクション内のオペレーターを示すテキストのインデックス
+title: "TextExtractionErrorLocation.OperatorIndex"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextExtractionErrorLocation プロパティ。テキスト抽出エラーを引き起こす、コンテンツストリームのオペレータコレクション内でテキストを表示するオペレータのインデックス"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.text/textextractionerrorlocation/operatorindex/
 ---
-## TextExtractionErrorLocation.OperatorIndex プロパティ
+## TextExtractionErrorLocation.OperatorIndex property
 
-テキスト抽出エラーを引き起こすコンテンツストリーム（オペレーターコレクション）内のオペレーターを示すテキストのインデックス。
+テキスト抽出エラーを引き起こす内容ストリーム（演算子コレクション）内のテキスト表示演算子のインデックス
 
 ```csharp
 public int OperatorIndex { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TextExtractionErrorLocation](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: Form.GetFullFieldName
-second_title: Aspose.PDF for .NET API Reference
-description: Form メソッド。短いフィールド名に基づいて完全なフィールド名を取得します。
+title: "Form.GetFullFieldName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。短いフィールド名に基づいて完全なフィールド名を取得します"
 type: docs
 weight: 250
 url: /ja/net/aspose.pdf.facades/form/getfullfieldname/
 ---
-## Form.GetFullFieldName メソッド
+## Form.GetFullFieldName method
 
-短いフィールド名に基づいて完全なフィールド名を取得します。
+短いフィールド名に従って完全なフィールド名を取得します。
 
 ```csharp
 public string GetFullFieldName(string fieldName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fieldName | String | 完全修飾フィールド名。 |
 
 ### 戻り値
 
-完全なフィールド名。
+完全なフィールド名です。
 
 ## 例
 
@@ -29,8 +29,10 @@ Form form = new Form("PdfForm.pdf");
 Console.WriteLine("Full field name is : " + form.GetFullFieldName("textField"));
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

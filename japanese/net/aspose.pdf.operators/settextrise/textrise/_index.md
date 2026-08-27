@@ -1,21 +1,23 @@
 ---
-title: SetTextRise.TextRise
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextRise プロパティ。テキストの上昇を取得または設定します
+title: "SetTextRise.TextRise"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetTextRise プロパティ。テキストの上昇を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.operators/settextrise/textrise/
 ---
-## SetTextRise.TextRise プロパティ
+## SetTextRise.TextRise property
 
-テキストの上昇を取得または設定します。
+テキスト上昇を取得または設定します。
 
 ```csharp
 public double TextRise { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [SetTextRise](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetTextRise](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

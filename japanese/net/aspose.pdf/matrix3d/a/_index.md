@@ -1,14 +1,14 @@
 ---
-title: Matrix3D.A
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D プロパティ。変換行列のメンバー
+title: "Matrix3D.A"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix3D プロパティ。変換行列の A 成分です"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/matrix3d/a/
 ---
-## Matrix3D.A プロパティ
+## Matrix3D.A property
 
-変換行列のメンバーです。
+変換行列の A メンバーです。
 
 ```csharp
 public double A { get; set; }
@@ -16,6 +16,8 @@ public double A { get; set; }
 
 ### 関連項目
 
-* クラス [Matrix3D](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

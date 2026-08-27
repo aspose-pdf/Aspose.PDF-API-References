@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.SetDefaultViewIndex
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation メソッド。デフォルトビューのインデックスを設定します
+title: "PDF3DAnnotation.SetDefaultViewIndex"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DAnnotation メソッド。デフォルトビューのインデックスを設定します"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.annotations/pdf3dannotation/setdefaultviewindex/
 ---
-## PDF3DAnnotation.SetDefaultViewIndex メソッド
+## PDF3DAnnotation.SetDefaultViewIndex method
 
 デフォルトビューのインデックスを設定します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.annotations/pdf3dannotation/setdefaultviewindex/
 public void SetDefaultViewIndex(int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | デフォルトビューのインデックス。 |
+| インデックス | Int32 | デフォルトビューのインデックスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

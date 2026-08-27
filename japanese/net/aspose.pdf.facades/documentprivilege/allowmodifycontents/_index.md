@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.AllowModifyContents
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege プロパティ。コンテンツを変更する許可を設定します。true は許可、false は禁止です。
+title: "DocumentPrivilege.AllowModifyContents"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentPrivilege プロパティ。内容の変更を許可するかどうかの権限を設定します。true は許可、false は禁止です"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.facades/documentprivilege/allowmodifycontents/
 ---
-## DocumentPrivilege.AllowModifyContents プロパティ
+## DocumentPrivilege.AllowModifyContents property
 
-コンテンツを変更する許可を設定します。true は許可、false は禁止です。
+コンテンツの変更を許可するかどうかの権限を設定します。true は許可、false は禁止です。
 
 ```csharp
 public bool AllowModifyContents { get; set; }
 ```
 
-### See Also
+### 関連項目
 
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

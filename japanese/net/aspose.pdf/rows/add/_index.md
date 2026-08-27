@@ -1,7 +1,7 @@
 ---
-title: Rows.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Rows メソッド。コレクションに行を追加
+title: "Rows.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rows メソッド。コレクションに行を追加"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/rows/add/
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf/rows/add/
 public Row Add()
 ```
 
-### Return Value
+### 戻り値
 
 新しい行
 
-### See Also
+### 関連項目
 
 * class [Row](../../row/)
 * class [Rows](../)
@@ -35,13 +35,15 @@ public Row Add()
 public void Add(Row row)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| row | Row | 新しい行。 |
+| 行 | 行 | 新しい行。 |
 
-### See Also
+### 関連項目
 
 * class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.PDF for .NET API Reference
-description: マトリックスプロパティ。マトリックスの要素
+title: "Matrix.Elements"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix プロパティ。行列の要素"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/matrix/elements/
 ---
-## Matrix.Elements プロパティ
+## Matrix.Elements property
 
-マトリックスの要素。
+Matrix の要素です。
 
 ```csharp
 public float[] Elements { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Matrix](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

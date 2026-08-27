@@ -1,12 +1,12 @@
 ---
-title: MessageCreation.MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: MessageCreation コンストラクタ。デフォルトコンストラクタ
+title: "MessageCreation.MessageCreation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MessageCreation コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/messagecreation/messagecreation/
 ---
-## MessageCreation コンストラクタ
+## MessageCreation constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/messagecreation/messagecreation/
 public MessageCreation()
 ```
 
-### 参照
+### 関連項目
 
 * class [MessageCreation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

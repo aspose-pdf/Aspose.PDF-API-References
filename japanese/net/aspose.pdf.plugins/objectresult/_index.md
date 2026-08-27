@@ -1,14 +1,14 @@
 ---
-title: Class ObjectResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ObjectResult クラス。文字列の形式で操作結果を表します
+title: "クラス ObjectResult"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.ObjectResult クラス。操作結果を文字列の形で表します。"
 type: docs
-weight: 8950
+weight: 9080
 url: /ja/net/aspose.pdf.plugins/objectresult/
 ---
-## ObjectResult クラス
+## ObjectResult class
 
-文字列の形式で操作結果を表します。
+文字列形式の操作結果を表します。
 
 ```csharp
 public sealed class ObjectResult : IOperationResult
@@ -19,10 +19,10 @@ public sealed class ObjectResult : IOperationResult
 | 名前 | 説明 |
 | --- | --- |
 | [Data](../../aspose.pdf.plugins/objectresult/data/) { get; } | 生データを取得します。 |
-| [IsFile](../../aspose.pdf.plugins/objectresult/isfile/) { get; } | 結果が出力ファイルへのパスであるかどうかを示します。 |
-| [IsObject](../../aspose.pdf.plugins/objectresult/isobject/) { get; } | 結果がオブジェクトであるかどうかを示します。 |
-| [IsStream](../../aspose.pdf.plugins/objectresult/isstream/) { get; } | 結果が出力ファイルへのパスであるかどうかを示します。 |
-| [IsString](../../aspose.pdf.plugins/objectresult/isstring/) { get; } | 結果が文字列であるかどうかを示します。 |
+| [IsFile](../../aspose.pdf.plugins/objectresult/isfile/) { get; } | 結果が出力ファイルへのパスかどうかを示します。 |
+| [IsObject](../../aspose.pdf.plugins/objectresult/isobject/) { get; } | 結果がオブジェクトかどうかを示します。 |
+| [IsStream](../../aspose.pdf.plugins/objectresult/isstream/) { get; } | 結果が出力ファイルへのパスかどうかを示します。 |
+| [IsString](../../aspose.pdf.plugins/objectresult/isstring/) { get; } | 結果が文字列かどうかを示します。 |
 | [Text](../../aspose.pdf.plugins/objectresult/text/) { get; } | 結果の文字列表現を返します。 |
 
 ## メソッド
@@ -33,8 +33,10 @@ public sealed class ObjectResult : IOperationResult
 | [ToStream](../../aspose.pdf.plugins/objectresult/tostream/)() | 結果をストリームオブジェクトに変換しようとします。 |
 | override [ToString](../../aspose.pdf.plugins/objectresult/tostring/)() | 結果を文字列に変換しようとします。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IOperationResult](../ioperationresult/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IOperationResult](../ioperationresult/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

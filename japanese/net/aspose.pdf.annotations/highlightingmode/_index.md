@@ -1,14 +1,14 @@
 ---
-title: Enum HighlightingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.HighlightingMode enum. 注釈のハイライトモードを列挙し、マウスボタンがそのアクティブエリア内で押されたり保持されたりしているときに使用される視覚効果を示します。
+title: "列挙体 HighlightingMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.HighlightingMode 列挙体。マウス ボタンがアクティブ領域内で押されたり押し続けられたりしたときに使用される Annotation のハイライトモード（視覚効果）を列挙します"
 type: docs
-weight: 1880
+weight: 1970
 url: /ja/net/aspose.pdf.annotations/highlightingmode/
 ---
-## HighlightingMode 列挙型
+## HighlightingMode enumeration
 
-注釈のハイライトモードを列挙し、マウスボタンがそのアクティブエリア内で押されたり保持されたりしているときに使用される視覚効果を示します。
+注釈のハイライトモードを列挙します。これは、マウスボタンがアクティブ領域内で押されたり保持されたりしたときに使用される視覚効果です。
 
 ```csharp
 public enum HighlightingMode
@@ -19,12 +19,14 @@ public enum HighlightingMode
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
 | None | `0` | ハイライトなし。 |
-| Invert | `1` | 注釈の矩形の内容を反転します。 |
-| Outline | `2` | 注釈の境界を反転します。 |
-| Push | `3` | 注釈の押下外観を表示します。押下外観が定義されていない場合は、注釈矩形の内容をオフセットして、ページの表面下に押し込まれているように見せます。 |
-| Toggle | `4` | Push と同じです（こちらが推奨されます）。 |
+| Invert | `1` | Annotation 矩形の内容を反転します。 |
+| Outline | `2` | Annotation の枠線を反転します。 |
+| Push | `3` | Annotation のダウン外観がある場合はそれを表示します。ダウン外観が定義されていない場合は、Annotation 矩形の内容をオフセットして、Page の表面の下に押し込まれたように見えるようにします。 |
+| Toggle | `4` | Push と同じです（推奨されます）。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

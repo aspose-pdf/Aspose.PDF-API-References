@@ -1,12 +1,12 @@
 ---
-title: Enum ConvertErrorAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ConvertErrorAction 列挙型。このクラスは変換エラーのアクションを表します
+title: "列挙型 ConvertErrorAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ConvertErrorAction 列挙型。この列挙型は変換エラーに対するアクションを表します。"
 type: docs
-weight: 3360
+weight: 3470
 url: /ja/net/aspose.pdf/converterroraction/
 ---
-## ConvertErrorAction 列挙型
+## ConvertErrorAction enumeration
 
 このクラスは変換エラーのアクションを表します。
 
@@ -21,7 +21,9 @@ public enum ConvertErrorAction
 | Delete | `0` |  |
 | None | `1` |  |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

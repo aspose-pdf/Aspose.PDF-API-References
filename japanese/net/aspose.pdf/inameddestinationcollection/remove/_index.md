@@ -1,25 +1,27 @@
 ---
-title: INamedDestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: INamedDestinationCollection メソッド。名前によって宛先を削除します
+title: "INamedDestinationCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "INamedDestinationCollection メソッド。名前でデスティネーションを削除します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/inameddestinationcollection/remove/
 ---
-## INamedDestinationCollection.Remove メソッド
+## INamedDestinationCollection.Remove method
 
-名前によって宛先を削除します。
+名前でデスティネーションを削除します。
 
 ```csharp
 public void Remove(string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | 名前の値。 |
+| 名前 | String | 名前の値。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [INamedDestinationCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.ModifyVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。既存のベクターストアを非同期で変更します
+title: "OpenAIClient.ModifyVectorStoreAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。既存のベクトルストアを非同期に変更します"
 type: docs
-weight: 430
+weight: 440
 url: /ja/net/aspose.pdf.ai/openaiclient/modifyvectorstoreasync/
 ---
-## OpenAIClient.ModifyVectorStoreAsync メソッド
+## OpenAIClient.ModifyVectorStoreAsync method
 
-既存のベクターストアを非同期で変更します。
+既存のベクトルストアを非同期で変更します。
 
 ```csharp
 public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId, 
@@ -16,26 +16,28 @@ public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId,
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| vectorStoreId | String | 変更するベクターストアの ID。 |
-| vectorStoreModifyRequest | VectorStoreModifyRequest | 変更の詳細を含むリクエストオブジェクト。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| vectorStoreId | String | 変更するベクトルストアの ID。 |
+| vectorStoreModifyRequest | VectorStoreModifyRequest | 変更の詳細を含むリクエスト オブジェクトです。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果には、ベクターストアの変更からの応答が含まれます。
+非同期操作を表すタスクです。タスクの結果にはベクトルストアの変更に対するレスポンスが含まれます。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | ベクターストア ID が null または空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | ベクトルストアの Id が null または空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [VectorStoreResponse](../../vectorstoreresponse/)
-* クラス [VectorStoreModifyRequest](../../vectorstoremodifyrequest/)
-* クラス [OpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreModifyRequest](../../vectorstoremodifyrequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageSettings.PaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings プロパティ。用紙サイズを取得または設定します
+title: "PageSettings.PaperSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageSettings プロパティ。用紙サイズを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.printing/pagesettings/papersize/
 ---
-## PageSettings.PaperSize プロパティ
+## PageSettings.PaperSize property
 
 用紙サイズを取得または設定します。
 
@@ -20,3 +20,5 @@ public PaperSize PaperSize { get; set; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

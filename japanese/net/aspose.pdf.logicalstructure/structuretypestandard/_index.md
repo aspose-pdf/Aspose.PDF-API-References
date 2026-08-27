@@ -1,12 +1,12 @@
 ---
-title: Class StructureTypeStandard
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.StructureTypeStandard クラス。標準構造タイプを表します。
+title: "クラス StructureTypeStandard"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.LogicalStructure.StructureTypeStandard クラス。標準構造タイプを表します"
 type: docs
-weight: 6730
+weight: 6870
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/
 ---
-## StructureTypeStandard クラス
+## StructureTypeStandard class
 
 標準構造タイプを表します。
 
@@ -26,63 +26,65 @@ public sealed class StructureTypeStandard
 | 名前 | 説明 |
 | --- | --- |
 | override [ToString](../../aspose.pdf.logicalstructure/structuretypestandard/tostring/)() | 現在のオブジェクトを表す文字列を返します。 |
-| [explicit operator](../../aspose.pdf.logicalstructure/structuretypestandard/op_explicit/) | 文字列から `StructureTypeStandard` への明示的な変換を行います。 |
+| [explicit operator](../../aspose.pdf.logicalstructure/structuretypestandard/op_explicit/) | String から `StructureTypeStandard` への明示的な変換を実行します。 |
 
 ## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| static readonly [Annot](../../aspose.pdf.logicalstructure/structuretypestandard/annot/) | (注釈; PDF 1.5) ILSE のコンテンツの一部と対応する PDF 注釈との関連付け。Annot はリンク注釈とウィジェット注釈を除くすべての PDF 注釈に使用されます。 |
-| static readonly [Art](../../aspose.pdf.logicalstructure/structuretypestandard/art/) | (記事) 単一の物語または説明を構成する比較的独立したテキストの塊。記事は互いに重複しないべきです。 |
-| static readonly [BibEntry](../../aspose.pdf.logicalstructure/structuretypestandard/bibentry/) | (参考文献エントリ) 引用されたコンテンツの外部ソースを特定する参照。子としてラベル（構造タイプ Lbl）を含むことがあります。 |
-| static readonly [BlockQuote](../../aspose.pdf.logicalstructure/structuretypestandard/blockquote/) | (ブロック引用) 周囲のテキストの著者以外の誰かに帰属する1つ以上の段落からなるテキストの部分。 |
-| static readonly [Caption](../../aspose.pdf.logicalstructure/structuretypestandard/caption/) | (キャプション) 表または図を説明する短いテキストの部分。 |
-| static readonly [Code](../../aspose.pdf.logicalstructure/structuretypestandard/code/) | (コード) コンピュータプログラムのテキストの断片。 |
-| static readonly [Div](../../aspose.pdf.logicalstructure/structuretypestandard/div/) | (区分) 一般的なブロックレベルの要素または要素のグループ。 |
-| static readonly [Document](../../aspose.pdf.logicalstructure/structuretypestandard/document/) | (文書) 完全な文書。これは、複数の部分または複数の記事を含む任意の構造ツリーのルート要素です。 |
-| static readonly [Figure](../../aspose.pdf.logicalstructure/structuretypestandard/figure/) | (図) グラフィカルコンテンツの項目。配置は配置レイアウト属性で指定できます。 |
-| static readonly [Form](../../aspose.pdf.logicalstructure/structuretypestandard/form/) | (フォーム) インタラクティブなフォームフィールドを表すウィジェット注釈。 |
-| static readonly [Formula](../../aspose.pdf.logicalstructure/structuretypestandard/formula/) | (数式) 数学的な数式。 |
-| static readonly [H](../../aspose.pdf.logicalstructure/structuretypestandard/h/) | (見出し) 文書のコンテンツのサブディビジョンのラベル。これは、その見出しが属する区分の最初の子であるべきです。 |
-| static readonly [H1](../../aspose.pdf.logicalstructure/structuretypestandard/h1/) | レベル1見出し、階層的にセクションをネストできない準拠ライターで使用され、見出しのレベルをネストのレベルから判断できません。 |
-| static readonly [H2](../../aspose.pdf.logicalstructure/structuretypestandard/h2/) | レベル2見出し、階層的にセクションをネストできない準拠ライターで使用され、見出しのレベルをネストのレベルから判断できません。 |
-| static readonly [H3](../../aspose.pdf.logicalstructure/structuretypestandard/h3/) | レベル3見出し、階層的にセクションをネストできない準拠ライターで使用され、見出しのレベルをネストのレベルから判断できません。 |
-| static readonly [H4](../../aspose.pdf.logicalstructure/structuretypestandard/h4/) | レベル4見出し、階層的にセクションをネストできない準拠ライターで使用され、見出しのレベルをネストのレベルから判断できません。 |
-| static readonly [H5](../../aspose.pdf.logicalstructure/structuretypestandard/h5/) | レベル5見出し、階層的にセクションをネストできない準拠ライターで使用され、見出しのレベルをネストのレベルから判断できません。 |
-| static readonly [H6](../../aspose.pdf.logicalstructure/structuretypestandard/h6/) | レベル6見出し、階層的にセクションをネストできない準拠ライターで使用され、見出しのレベルをネストのレベルから判断できません。 |
-| static readonly [Index](../../aspose.pdf.logicalstructure/structuretypestandard/index/) | (索引) 特定のテキストの出現を文書の本文で指摘する参照要素を伴う識別テキストを含むエントリのシーケンス。 |
-| static readonly [L](../../aspose.pdf.logicalstructure/structuretypestandard/l/) | (リスト) 同じ意味と重要性を持つ項目のシーケンス。即時の子は、オプションのキャプション（構造タイプキャプション）に続いて1つ以上のリスト項目（構造タイプLI）であるべきです。 |
-| static readonly [Lbl](../../aspose.pdf.logicalstructure/structuretypestandard/lbl/) | (ラベル) 同じリストまたは他の同様の項目のグループ内の特定の項目を区別する名前または番号。 |
-| static readonly [LBody](../../aspose.pdf.logicalstructure/structuretypestandard/lbody/) | (リスト本文) リスト項目の説明コンテンツ。辞書リストの場合、用語の定義が含まれます。直接コンテンツを含むか、他のBLSEを子として持つことがあります。 |
-| static readonly [LI](../../aspose.pdf.logicalstructure/structuretypestandard/li/) | (リスト項目) リストの個々のメンバー。子は1つ以上のラベル、リスト本文、またはその両方（構造タイプLblまたはLBody）である可能性があります。 |
-| static readonly [Link](../../aspose.pdf.logicalstructure/structuretypestandard/link/) | (リンク) ILSE のコンテンツの一部と対応するリンク注釈または注釈との関連付け。子は1つ以上のコンテンツ項目または子ILSEと、関連するリンク注釈を特定する1つ以上のオブジェクト参照であるべきです。 |
-| static readonly [NonStruct](../../aspose.pdf.logicalstructure/structuretypestandard/nonstruct/) | (非構造要素) 固有の構造的意義を持たないグルーピング要素; グルーピング目的のみに使用されます。このタイプの要素は、区分（構造タイプDiv）とは異なり、他の文書形式に解釈またはエクスポートされることはありませんが、その子孫は通常処理されます。 |
-| static readonly [Note](../../aspose.pdf.logicalstructure/structuretypestandard/note/) | (注) 文書の本文から参照される脚注やエンドノートなどの説明テキストの項目。子としてラベル（構造タイプLbl）を持つことがあります。ノートは、参照する本文の構造要素の子として含まれるか、他の場所（エンドノートセクションなど）に含まれ、参照（構造タイプReference）を介してアクセスされることがあります。 |
-| static readonly [P](../../aspose.pdf.logicalstructure/structuretypestandard/p/) | (段落) テキストの低レベルの区分。 |
-| static readonly [Part](../../aspose.pdf.logicalstructure/structuretypestandard/part/) | (部分) 文書の大規模な区分。このタイプの要素は、記事やセクションをグループ化するのに適しています。 |
-| static readonly [Private](../../aspose.pdf.logicalstructure/structuretypestandard/private/) | (プライベート要素) アプリケーションが生成するプライベートコンテンツを含むグルーピング要素。このタイプの要素の構造的意義は不明であり、準拠ライターによって完全に決定されます。プライベート要素およびその子孫は、他の文書形式に解釈またはエクスポートされることはありません。 |
-| static readonly [Quote](../../aspose.pdf.logicalstructure/structuretypestandard/quote/) | (引用) 周囲のテキストの著者以外の誰かに帰属するインラインのテキスト部分。 |
-| static readonly [RB](../../aspose.pdf.logicalstructure/structuretypestandard/rb/) | (ルビベーステキスト) ルビ注釈が適用されるフルサイズのテキスト。RB はテキスト、他のインライン要素、またはその両方を含むことがあります。RubyAlign属性を持つことがあります。 |
-| static readonly [Reference](../../aspose.pdf.logicalstructure/structuretypestandard/reference/) | (参照) 文書内の他のコンテンツへの引用。 |
-| static readonly [RP](../../aspose.pdf.logicalstructure/structuretypestandard/rp/) | (ルビ句読点) ルビ注釈テキストを囲む句読点。ルビ注釈が適切にルビスタイルでフォーマットできない場合、通常のコメントとしてフォーマットされるか、ワリチュとしてフォーマットされます。テキスト（通常は単一の左または右の括弧または類似の括弧文字）を含みます。 |
-| static readonly [RT](../../aspose.pdf.logicalstructure/structuretypestandard/rt/) | (ルビ注釈テキスト) ルビベーステキストの隣に配置される小さいサイズのテキスト。テキスト、他のインライン要素、またはその両方を含むことがあります。RubyAlignおよびRubyPosition属性を持つことがあります。 |
-| static readonly [Ruby](../../aspose.pdf.logicalstructure/structuretypestandard/ruby/) | (ルビ; PDF 1.5) 基本テキストの隣に配置される小さいサイズのテキストで書かれたサイドノート（注釈）。ルビ要素はRB、RT、およびRP要素を含むことがあります。 |
-| static readonly [Sect](../../aspose.pdf.logicalstructure/structuretypestandard/sect/) | (セクション) 関連するコンテンツ要素をグループ化するためのコンテナ。 |
-| static readonly [Span](../../aspose.pdf.logicalstructure/structuretypestandard/span/) | (スパン) 特に固有の特性を持たない一般的なインラインテキストの部分。特定のスタイリング属性のセットでテキストの範囲を区切るために使用できます。 |
-| static readonly [Table](../../aspose.pdf.logicalstructure/structuretypestandard/table/) | (テーブル) 複雑なサブ構造を持つ可能性のある長方形データセルの二次元レイアウト。子として1つ以上のテーブル行（構造タイプTR）を含むか、オプションのテーブルヘッダー（構造タイプTHead）に続いて1つ以上のテーブルボディ要素（構造タイプTBody）およびオプションのテーブルフッター（構造タイプTFoot）を含みます。さらに、テーブルはキャプション（構造タイプCaption）を最初または最後の子として持つことができます。 |
-| static readonly [TBody](../../aspose.pdf.logicalstructure/structuretypestandard/tbody/) | (テーブルボディ行グループ; PDF 1.5) テーブルのメインボディ部分を構成する行のグループ。テーブルが複数のページに分割される場合、ボディエリアは行境界で分割されることがあります。テーブルは、行のセットのために境界線や背景を描画するために複数のTBody要素を持つことができます。 |
-| static readonly [TD](../../aspose.pdf.logicalstructure/structuretypestandard/td/) | (テーブルデータセル) テーブルのコンテンツの一部であるデータを含むテーブルセル。 |
-| static readonly [TFoot](../../aspose.pdf.logicalstructure/structuretypestandard/tfoot/) | (テーブルフッター行グループ; PDF 1.5) テーブルのフッターを構成する行のグループ。テーブルが複数のページに分割される場合、これらの行は各テーブルフラグメントの下部で再描画されることがあります（ただし、TFoot要素は1つだけです）。 |
-| static readonly [TH](../../aspose.pdf.logicalstructure/structuretypestandard/th/) | (テーブルヘッダーセル) テーブルの1つ以上の行または列を説明するヘッダーテキストを含むテーブルセル。 |
-| static readonly [THead](../../aspose.pdf.logicalstructure/structuretypestandard/thead/) | (テーブルヘッダー行グループ; PDF 1.5) テーブルのヘッダーを構成する行のグループ。テーブルが複数のページに分割される場合、これらの行は各テーブルフラグメントの上部で再描画されることがあります（ただし、THead要素は1つだけです）。 |
-| static readonly [TOC](../../aspose.pdf.logicalstructure/structuretypestandard/toc/) | (目次) 目次項目エントリ（構造タイプTOCI）および/または他のネストされた目次エントリ（TOC）で構成されるリスト。 |
-| static readonly [TOCI](../../aspose.pdf.logicalstructure/structuretypestandard/toci/) | (目次項目) 目次の個々のメンバー。このエントリの子は、次の構造タイプのいずれかである可能性があります。 |
-| static readonly [TR](../../aspose.pdf.logicalstructure/structuretypestandard/tr/) | (テーブル行) テーブル内の見出しまたはデータの行。テーブルヘッダーセルおよびテーブルデータセル（構造タイプTHおよびTD）を含むことがあります。 |
-| static readonly [Warichu](../../aspose.pdf.logicalstructure/structuretypestandard/warichu/) | (ワリチュ; PDF 1.5) 小さいテキストサイズで書かれ、含まれるテキスト行の高さ内に2行にフォーマットされたコメントまたは注釈。ワリチュ要素はWTおよびWP要素を含むことがあります。 |
-| static readonly [WP](../../aspose.pdf.logicalstructure/structuretypestandard/wp/) | (ワリチュ句読点) WTテキストを囲む句読点。テキスト（通常は単一の左または右の括弧または類似の括弧文字）を含みます。JIS X 4051-1995に従って、ワリチュを囲む括弧はフォーマッタの裁量でスペース（名目上1/4 EMの幅）に変換されることがあります。 |
-| static readonly [WT](../../aspose.pdf.logicalstructure/structuretypestandard/wt/) | (ワリチュテキスト) 2行にフォーマットされ、周囲のWP要素の間に配置されるワリチュコメントの小さいサイズのテキスト。 |
+| static readonly [Annot](../../aspose.pdf.logicalstructure/structuretypestandard/annot/) | (Annotation; PDF 1.5) ILSE のコンテンツの一部と対応する PDF アノテーションとの関連付けです。Annot はリンクアノテーションとウィジェットアノテーションを除くすべての PDF アノテーションに使用されるべきです。 |
+| static readonly [Art](../../aspose.pdf.logicalstructure/structuretypestandard/art/) | (Article) 単一の物語または説明からなる、比較的自己完結型のテキスト本文です。記事は互いに重複しないようにすべきで、他の文章を構成要素として含んではいけません。 |
+| static readonly [BibEntry](../../aspose.pdf.logicalstructure/structuretypestandard/bibentry/) | (Bibliography entry) 引用されたコンテンツの外部ソースを特定する参照です。子要素としてラベル（構造タイプ Lbl）を含むことがあります。 |
+| static readonly [BlockQuote](../../aspose.pdf.logicalstructure/structuretypestandard/blockquote/) | (Block quotation) 複数の段落からなるテキストで、周囲のテキストの作者とは別の人物に帰属されます。 |
+| static readonly [Caption](../../aspose.pdf.logicalstructure/structuretypestandard/caption/) | (Caption) 表や図を説明する短いテキストです。 |
+| static readonly [Code](../../aspose.pdf.logicalstructure/structuretypestandard/code/) | (Code) コンピュータプログラムのテキスト断片です。 |
+| static readonly [Div](../../aspose.pdf.logicalstructure/structuretypestandard/div/) | (Division) 汎用的なブロックレベル要素または要素のグループです。 |
+| static readonly [Document](../../aspose.pdf.logicalstructure/structuretypestandard/document/) | (Document) 完全な文書です。これは複数のパートまたは複数の記事を含む任意の構造ツリーのルート要素です。 |
+| static readonly [Figure](../../aspose.pdf.logicalstructure/structuretypestandard/figure/) | (Figure) グラフィックコンテンツの項目です。その配置は Placement レイアウト属性で指定できる場合があります。 |
+| static readonly [Form](../../aspose.pdf.logicalstructure/structuretypestandard/form/) | (Form) インタラクティブなフォームフィールドを表すウィジェットアノテーションです。 |
+| static readonly [Formula](../../aspose.pdf.logicalstructure/structuretypestandard/formula/) | (Formula) 数学的な式です。 |
+| static readonly [H](../../aspose.pdf.logicalstructure/structuretypestandard/h/) | (Heading) 文書のコンテンツのサブディビジョンのラベルです。見出しが付くセクションの最初の子要素である必要があります。 |
+| static readonly [H1](../../aspose.pdf.logicalstructure/structuretypestandard/h1/) | レベル 1 見出し。階層的にセクションを入れ子にできない準拠ライターで使用され、入れ子のレベルから見出しのレベルを判定できない場合に使用します。 |
+| static readonly [H2](../../aspose.pdf.logicalstructure/structuretypestandard/h2/) | レベル 2 見出し。階層的にセクションを入れ子にできない準拠ライターで使用され、入れ子のレベルから見出しのレベルを判定できない場合に使用します。 |
+| static readonly [H3](../../aspose.pdf.logicalstructure/structuretypestandard/h3/) | レベル 3 見出し。階層的にセクションを入れ子にできない準拠ライターで使用され、入れ子のレベルから見出しのレベルを判定できない場合に使用します。 |
+| static readonly [H4](../../aspose.pdf.logicalstructure/structuretypestandard/h4/) | レベル 4 見出し。階層的にセクションを入れ子にできない準拠ライターで使用され、入れ子のレベルから見出しのレベルを判定できない場合に使用します。 |
+| static readonly [H5](../../aspose.pdf.logicalstructure/structuretypestandard/h5/) | レベル 5 見出し。階層的にセクションを入れ子にできない準拠ライターで使用され、入れ子のレベルから見出しのレベルを判定できない場合に使用します。 |
+| static readonly [H6](../../aspose.pdf.logicalstructure/structuretypestandard/h6/) | レベル 6 見出し。階層的にセクションを入れ子にできない準拠ライターで使用され、入れ子のレベルから見出しのレベルを判定できない場合に使用します。 |
+| static readonly [Index](../../aspose.pdf.logicalstructure/structuretypestandard/index/) | (Index) 文書本体の指定されたテキストの出現箇所を指し示す参照要素を伴う、識別テキストを含むエントリのシーケンスです。 |
+| static readonly [L](../../aspose.pdf.logicalstructure/structuretypestandard/l/) | (List) 同等の意味と重要性を持つ項目のシーケンスです。その直下の子要素はオプションのキャプション（構造タイプ Caption）に続き、1 つ以上のリスト項目（構造タイプ LI）である必要があります。 |
+| static readonly [Lbl](../../aspose.pdf.logicalstructure/structuretypestandard/lbl/) | (Label) 同じリストまたは同種の項目グループ内で、特定の項目を他と区別する名前または番号です。 |
+| static readonly [LBody](../../aspose.pdf.logicalstructure/structuretypestandard/lbody/) | (List body) リスト項目の記述内容です。たとえば辞書リストでは、用語の定義が含まれます。コンテンツを直接含むことも、他のBLSEを子として持つこともでき、ネストされたリストを含む場合もあります。 |
+| static readonly [LI](../../aspose.pdf.logicalstructure/structuretypestandard/li/) | (List item) リストの個々のメンバーです。その子要素はラベル、リスト本文のいずれか、または両方（構造タイプ Lbl または LBody）になることがあります。 |
+| static readonly [Link](../../aspose.pdf.logicalstructure/structuretypestandard/link/) | (Link) ILSE のコンテンツの一部と対応するリンクアノテーションまたは複数のリンクアノテーションとの関連付けです。その子要素は、1つ以上のコンテンツ項目または子 ILSE と、関連付けられたリンクアノテーションを特定するオブジェクト参照が1つ以上含まれる必要があります。 |
+| static readonly [NonStruct](../../aspose.pdf.logicalstructure/structuretypestandard/nonstruct/) | (Nonstructural element) 本質的な構造的意味を持たないグルーピング要素で、単にグループ化の目的で使用されます。この種の要素は、分割（構造タイプ Div）とは異なり、他の文書形式へ解釈またはエクスポートされるべきではありませんが、子孫要素は通常通り処理されます。 |
+| static readonly [Note](../../aspose.pdf.logicalstructure/structuretypestandard/note/) | (Note) 文書本文から参照される説明テキスト項目（脚注や文末脚注など）です。子要素としてラベル（構造タイプ Lbl）を持つことがあります。ノートはそれを参照する本文テキスト内の構造要素の子として含めることも、別の場所（例：文末脚注セクション）に配置し、参照（構造タイプ Reference）によってアクセスすることもできます。 |
+| static readonly [P](../../aspose.pdf.logicalstructure/structuretypestandard/p/) | (Paragraph) テキストの低レベルの区分です。 |
+| static readonly [Part](../../aspose.pdf.logicalstructure/structuretypestandard/part/) | (Part) 文書の大規模な区分です。この種の要素は記事やセクションをグループ化するのに適しています。 |
+| static readonly [Private](../../aspose.pdf.logicalstructure/structuretypestandard/private/) | (Private element) 生成アプリケーションに属するプライベートコンテンツを含むグルーピング要素です。この種の要素の構造的意味は未定義で、準拠する作成者が完全に決定します。Private element およびその子孫は、他の文書形式へ解釈またはエクスポートされてはなりません。 |
+| static readonly [Quote](../../aspose.pdf.logicalstructure/structuretypestandard/quote/) | (Quotation) 周囲のテキストの作者以外の人物に帰属するインラインテキストです。 |
+| static readonly [RB](../../aspose.pdf.logicalstructure/structuretypestandard/rb/) | (Ruby base text) ルビ注釈が適用される全サイズのテキストです。RB はテキスト、他のインライン要素、またはその混合を含むことができます。RubyAlign属性を持つことがあります。 |
+| static readonly [Reference](../../aspose.pdf.logicalstructure/structuretypestandard/reference/) | (Reference) 文書内の他の場所のコンテンツへの引用です。 |
+| static readonly [RP](../../aspose.pdf.logicalstructure/structuretypestandard/rp/) | (Ruby punctuation) ルビ注釈テキストを囲む句読点です。ルビスタイルで正しくフォーマットできない場合に通常のコメントとして、または割注としてフォーマットされるときに使用されます。テキスト（通常は単一の左括弧または右括弧などの括弧文字）を含みます。 |
+| static readonly [RT](../../aspose.pdf.logicalstructure/structuretypestandard/rt/) | (Ruby annotation text) ルビベーステキストに隣接して配置される小さいサイズのテキストです。テキスト、他のインライン要素、またはその混合を含むことができます。RubyAlign および RubyPosition 属性を持つことがあります。 |
+| static readonly [Ruby](../../aspose.pdf.logicalstructure/structuretypestandard/ruby/) | (Ruby; PDF 1.5) 参照先のベーステキストに隣接して配置される、より小さい文字サイズで書かれたサイドノート（アノテーション）です。Ruby 要素は RB、RT、RP 要素を含むこともあります。 |
+| static readonly [Sect](../../aspose.pdf.logicalstructure/structuretypestandard/sect/) | (Section) 関連するコンテンツ要素をグループ化するコンテナです。 |
+| static readonly [Span](../../aspose.pdf.logicalstructure/structuretypestandard/span/) | (Span) 特定の固有特性を持たない汎用的なインラインテキストです。たとえば、特定のスタイリング属性セットでテキスト範囲を区切るために使用できます。 |
+| static readonly [Table](../../aspose.pdf.logicalstructure/structuretypestandard/table/) | (Table) 長方形のデータセルからなる二次元レイアウトで、複雑なサブ構造を持つことがあります。子要素として1つ以上のテーブル行（構造タイプ TR）を含むか、オプションのテーブルヘッド（構造タイプ THead）に続いて1つ以上のテーブルボディ要素（構造タイプ TBody）とオプションのテーブルフッター（構造タイプ TFoot）を持ちます。さらに、テーブルは最初または最後の子としてキャプション（構造タイプ Caption）を持つことがあります。 |
+| static readonly [TBody](../../aspose.pdf.logicalstructure/structuretypestandard/tbody/) | (Table body row group; PDF 1.5) テーブルの主本文部分を構成する行のグループです。テーブルが複数ページにまたがる場合、本文領域は行境界で分割されることがあります。テーブルは複数の TBody 要素を持ち、行のセットに対して枠線や背景を描画できるようにします。 |
+| static readonly [TD](../../aspose.pdf.logicalstructure/structuretypestandard/td/) | (Table data cell) テーブルのコンテンツの一部であるデータを含むテーブルセルです。 |
+| static readonly [TFoot](../../aspose.pdf.logicalstructure/structuretypestandard/tfoot/) | (Table footer row group; PDF 1.5) テーブルのフッターを構成する行のグループです。テーブルが複数ページに分割される場合、これらの行は各テーブル断片の下部に再描画されることがあります（ただし TFoot 要素は1つだけです）。 |
+| static readonly [TH](../../aspose.pdf.logicalstructure/structuretypestandard/th/) | (Table header cell) テーブルの1つ以上の行または列を説明するヘッダーテキストを含むテーブルセルです。 |
+| static readonly [THead](../../aspose.pdf.logicalstructure/structuretypestandard/thead/) | (Table header row group; PDF 1.5) テーブルのヘッダーを構成する行のグループです。テーブルが複数ページに分割される場合、これらの行は各テーブル断片の上部に再描画されることがあります（ただし THead 要素は1つだけです）。 |
+| static readonly [TOC](../../aspose.pdf.logicalstructure/structuretypestandard/toc/) | (Table of contents) 目次項目エントリ（構造タイプ TOCI）や他の入れ子になった目次エントリ（TOC）から構成されるリストです。 |
+| static readonly [TOCI](../../aspose.pdf.logicalstructure/structuretypestandard/toci/) | (Table of contents item) 目次の個々のメンバーです。このエントリの子要素は以下の構造タイプのいずれかになる可能性があります： |
+| static readonly [TR](../../aspose.pdf.logicalstructure/structuretypestandard/tr/) | (Table row) テーブル内の見出しまたはデータの行です。テーブルヘッダーセルとテーブルデータセル（構造タイプ TH と TD）を含むことがあります。 |
+| static readonly [Warichu](../../aspose.pdf.logicalstructure/structuretypestandard/warichu/) | (Warichu; PDF 1.5) 基本テキストに続く（インラインで）参照先のテキスト行の高さ内に、より小さい文字サイズで2行にフォーマットされたコメントまたは注釈です。Warichu 要素は WT および WP 要素を含むこともあります。 |
+| static readonly [WP](../../aspose.pdf.logicalstructure/structuretypestandard/wp/) | (Warichu punctuation) WT テキストを囲む句読点です。通常は単一の左括弧または右括弧などの括弧文字が含まれます。JIS X 4051-1995 によれば、Warichu を囲む括弧はフォーマッタの判断でスペース（幅は名目上 1/4 EM）に変換できる場合があります。 |
+| static readonly [WT](../../aspose.pdf.logicalstructure/structuretypestandard/wt/) | (Warichu text) Warichu コメントの小さい文字サイズのテキストで、2 行にフォーマットされ、周囲の WP 要素の間に配置されます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageSettings.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings プロパティ。このページのマージンを示す値を取得または設定します
+title: "PageSettings.Margins"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageSettings プロパティ。このページの余白を示す値を取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.printing/pagesettings/margins/
 ---
-## PageSettings.Margins プロパティ
+## PageSettings.Margins property
 
-このページのマージンを示す値を取得または設定します。
+このページの余白を示す値を取得または設定します。
 
 ```csharp
 public Margins Margins { get; set; }
@@ -20,3 +20,5 @@ public Margins Margins { get; set; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

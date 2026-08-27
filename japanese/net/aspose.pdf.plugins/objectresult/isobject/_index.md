@@ -1,14 +1,14 @@
 ---
-title: ObjectResult.IsObject
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectResult プロパティ。結果がオブジェクトであるかどうかを示します
+title: "ObjectResult.IsObject"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ObjectResult プロパティ。結果がオブジェクトかどうかを示します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.plugins/objectresult/isobject/
 ---
-## ObjectResult.IsObject プロパティ
+## ObjectResult.IsObject property
 
-結果がオブジェクトであるかどうかを示します。
+結果がオブジェクトかどうかを示します。
 
 ```csharp
 public bool IsObject { get; }
@@ -16,10 +16,12 @@ public bool IsObject { get; }
 
 ### 戻り値
 
-`true` は結果がオブジェクトである場合、そうでなければ `false` です。
+結果がオブジェクトの場合は `true`、それ以外は `false`。
 
-### 参照
+### 関連項目
 
-* クラス [ObjectResult](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

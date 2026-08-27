@@ -1,25 +1,27 @@
 ---
-title: Document.GetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。ドキュメントから XMP メタデータを取得します
+title: "Document.GetXmpMetadata"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。ドキュメントから XMP メタデータを取得します"
 type: docs
-weight: 690
+weight: 710
 url: /ja/net/aspose.pdf/document/getxmpmetadata/
 ---
-## Document.GetXmpMetadata メソッド
+## Document.GetXmpMetadata method
 
-ドキュメントから XMP メタデータを取得します。
+document から XMP メタデータを取得します。
 
 ```csharp
 public void GetXmpMetadata(Stream stream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | stream | Stream | メタデータが保存されるストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

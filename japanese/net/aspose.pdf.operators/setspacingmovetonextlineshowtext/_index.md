@@ -1,24 +1,24 @@
 ---
-title: Class SetSpacingMoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetSpacingMoveToNextLineShowText クラス。次の行に移動してテキストを表示するための単語と文字の間隔を設定するオペレーターを表すクラス
+title: "クラス SetSpacingMoveToNextLineShowText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.SetSpacingMoveToNextLineShowText クラス。単語と文字間隔を設定し、次の行に移動してテキストを表示する演算子を表すクラス"
 type: docs
-weight: 7810
+weight: 7950
 url: /ja/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/
 ---
-## SetSpacingMoveToNextLineShowText クラス
+## SetSpacingMoveToNextLineShowText class
 
-「オペレーター」（単語と文字の間隔を設定し、次の行に移動してテキストを表示する）を表すクラス。
+\" operator を表すクラス（単語間と文字間のスペースを設定し、次の行に移動してテキストを表示）。
 
 ```csharp
 public class SetSpacingMoveToNextLineShowText : TextShowOperator
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [SetSpacingMoveToNextLineShowText](setspacingmovetonextlineshowtext/)(double, double, string) | オペレーターを初期化します。 |
+| [SetSpacingMoveToNextLineShowText](setspacingmovetonextlineshowtext/)(double, double, string) | 演算子を初期化します。 |
 
 ## プロパティ
 
@@ -26,19 +26,21 @@ public class SetSpacingMoveToNextLineShowText : TextShowOperator
 | --- | --- |
 | [Ac](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/) { get; } | 文字間隔を取得します。 |
 | [Aw](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/) { get; } | 単語間隔を取得します。 |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページオペレーターリスト内のオペレーターインデックス。 |
-| override [Text](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/text/) { get; } | オペレーターのテキストを取得します。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
+| override [Text](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/text/) { get; } | 演算子のテキストを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/accept/)(IOperatorSelector) | オペレーターを処理するために訪問者オブジェクトを受け入れます。 |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | オペレーターとそのパラメーターのテキストを返します。 |
+| override [Accept](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | 演算子とそのパラメータのテキストを返します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextShowOperator](../textshowoperator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [TextShowOperator](../textshowoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

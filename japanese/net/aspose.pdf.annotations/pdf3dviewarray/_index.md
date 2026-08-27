@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DViewArray クラス。クラス PDF3DViewArray
+title: "クラス PDF3DViewArray"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.PDF3DViewArray クラス。PDF3DViewArray クラスです。"
 type: docs
-weight: 2250
+weight: 2340
 url: /ja/net/aspose.pdf.annotations/pdf3dviewarray/
 ---
-## PDF3DViewArray クラス
+## PDF3DViewArray class
 
 クラス PDF3DViewArray。
 
@@ -19,7 +19,7 @@ public class PDF3DViewArray
 | 名前 | 説明 |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdf3dviewarray/count/) { get; } | ビューの数を取得します。 |
-| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item/) { get; set; } | 指定されたインデックスのビュー配列に対する [`PDF3DView`](../pdf3dview/) を取得または設定します。 |
+| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item/) { get; set; } | 指定されたインデックスのビュー配列に対して [`PDF3DView`](../pdf3dview/) を取得または設定します。 |
 
 ## メソッド
 
@@ -29,7 +29,9 @@ public class PDF3DViewArray
 | [RemoveAll](../../aspose.pdf.annotations/pdf3dviewarray/removeall/)() | すべてのビューを削除します。 |
 | [RemoveAt](../../aspose.pdf.annotations/pdf3dviewarray/removeat/)(int) | 指定されたインデックスのビュー配列からビューを削除します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

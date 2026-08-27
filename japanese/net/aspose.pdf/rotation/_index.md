@@ -1,14 +1,14 @@
 ---
-title: Enum Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Rotation 列挙型。可能な回転値の列挙
+title: "列挙体 Rotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Rotation 列挙体。可能な回転値の列挙体。"
 type: docs
-weight: 9820
+weight: 9970
 url: /ja/net/aspose.pdf/rotation/
 ---
-## 回転列挙型
+## Rotation enumeration
 
-可能な回転値の列挙。
+可能な回転値の列挙です。
 
 ```csharp
 public enum Rotation
@@ -24,7 +24,9 @@ public enum Rotation
 | on270 | `3` | 時計回りに270度回転。 |
 | on360 | `4` | 時計回りに360度回転。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FileResponse.FileResponse
-second_title: Aspose.PDF for .NET API Reference
-description: FileResponse コンストラクタ。デフォルトコンストラクタ
+title: "FileResponse.FileResponse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileResponse コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/fileresponse/fileresponse/
 ---
-## FileResponse コンストラクタ
+## FileResponse constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/fileresponse/fileresponse/
 public FileResponse()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FileResponse](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

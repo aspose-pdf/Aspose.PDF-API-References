@@ -1,14 +1,14 @@
 ---
-title: Class Measure.NumberFormatList
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MeasureNumberFormatList クラス。数値フォーマットのリストを表します
+title: "クラス Measure.NumberFormatList"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.MeasureNumberFormatList クラス。数値形式のリストを表します"
 type: docs
-weight: 2060
+weight: 2150
 url: /ja/net/aspose.pdf.annotations/measure.numberformatlist/
 ---
-## Measure.NumberFormatList クラス
+## Measure.NumberFormatList class
 
-数値フォーマットのリストを表します。
+数値形式のリストを表します。
 
 ```csharp
 public class NumberFormatList
@@ -18,25 +18,27 @@ public class NumberFormatList
 
 | 名前 | 説明 |
 | --- | --- |
-| [NumberFormatList](../../aspose.pdf.annotations/measure.numberformatlist/.ctor)(Measure) | NumberFormatList のコンストラクタ。 |
+| [NumberFormatList](../../aspose.pdf.annotations/measure.numberformatlist/.ctor)(Measure) | NumberFormatList のコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/measure.numberformatlist/count) { get; } | リスト内のアイテムの数。 |
-| [Item](../../aspose.pdf.annotations/measure.numberformatlist/item) { get; set; } | インデックスによってリスト内の数値フォーマットを取得または設定します。 |
+| [Count](../../aspose.pdf.annotations/measure.numberformatlist/count) { get; } | リスト内の項目数。 |
+| [Item](../../aspose.pdf.annotations/measure.numberformatlist/item) { get; set; } | インデックスでリスト内の数値形式を取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/measure.numberformatlist/add)(NumberFormat) | リストに数値フォーマットを追加します。 |
-| [Insert](../../aspose.pdf.annotations/measure.numberformatlist/insert)(int, NumberFormat) | リストに数値フォーマットを挿入します。 |
-| [RemoveAt](../../aspose.pdf.annotations/measure.numberformatlist/removeat)(int) | リストから数値フォーマットを削除します。 |
+| [Add](../../aspose.pdf.annotations/measure.numberformatlist/add)(NumberFormat) | 数値形式をリストに追加します。 |
+| [Insert](../../aspose.pdf.annotations/measure.numberformatlist/insert)(int, NumberFormat) | 数値形式をリストに挿入します。 |
+| [RemoveAt](../../aspose.pdf.annotations/measure.numberformatlist/removeat)(int) | リストから数値形式を削除します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Measure](../measure/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Measure](../measure/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

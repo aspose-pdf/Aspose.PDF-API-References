@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.ToPage
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings プロパティ。印刷する最後のページを取得または設定します
+title: "PrinterSettings.ToPage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrinterSettings プロパティ。印刷する最後のページを取得または設定します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.printing/printersettings/topage/
 ---
-## PrinterSettings.ToPage プロパティ
+## PrinterSettings.ToPage property
 
 印刷する最後のページを取得または設定します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.printing/printersettings/topage/
 public int ToPage { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PrinterSettings](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

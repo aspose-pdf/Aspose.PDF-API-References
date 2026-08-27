@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.IsObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: ToolChoice プロパティ。ToolChoice がオブジェクト値であるかどうかを示す値を取得します。
+title: "ToolChoice.IsObjectValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ToolChoice プロパティ。ToolChoice がオブジェクト値かどうかを示す値を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/toolchoice/isobjectvalue/
 ---
-## ToolChoice.IsObjectValue プロパティ
+## ToolChoice.IsObjectValue property
 
-ToolChoice がオブジェクト値であるかどうかを示す値を取得します。
+ToolChoice がオブジェクト値かどうかを示す値を取得します。
 
 ```csharp
 public bool IsObjectValue { get; }
@@ -19,3 +19,5 @@ public bool IsObjectValue { get; }
 * class [ToolChoice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CosPdfPrimitive.ToCosPdfString
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfPrimitive メソッド。このインスタンスを CosPdfString にキャストしようとします
+title: "CosPdfPrimitive.ToCosPdfString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfPrimitive メソッド。このインスタンスを CosPdfString にキャストしようとします"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/
 ---
-## CosPdfPrimitive.ToCosPdfString メソッド
+## CosPdfPrimitive.ToCosPdfString method
 
 このインスタンスを [`CosPdfString`](../../cospdfstring/) にキャストしようとします。
 
@@ -16,11 +16,13 @@ public virtual CosPdfString ToCosPdfString()
 
 ### 戻り値
 
-インスタンスが [`CosPdfString`](../../cospdfstring/) でない場合は null、それ以外の場合は [`CosPdfString`](../../cospdfstring/) です。
+インスタンスが [`CosPdfString`](../../cospdfstring/) でない場合は null、そうでない場合は [`CosPdfString`](../../cospdfstring/)。
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfString](../../cospdfstring/)
-* クラス [CosPdfPrimitive](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfString](../../cospdfstring/)
+* class [CosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

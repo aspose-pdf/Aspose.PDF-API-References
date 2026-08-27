@@ -1,25 +1,27 @@
 ---
-title: Document.SaveXml
-second_title: Aspose.PDF for .NET API Reference
-description: Document メソッド。ドキュメントを XML に保存
+title: "Document.SaveXml"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。ドキュメントを XML に保存します。"
 type: docs
-weight: 850
+weight: 870
 url: /ja/net/aspose.pdf/document/savexml/
 ---
-## Document.SaveXml メソッド
+## Document.SaveXml method
 
-ドキュメントを XML に保存します。
+document を XML に保存します。
 
 ```csharp
 public void SaveXml(string file)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| file | String | ドキュメントモデルの XML ファイル |
+| file | String | ドキュメントモデルの XML ファイル。 |
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

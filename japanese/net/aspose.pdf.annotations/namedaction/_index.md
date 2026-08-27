@@ -1,14 +1,14 @@
 ---
-title: Class NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.NamedAction クラス。PDF ビューア アプリケーションがサポートすることが期待される名前付きアクションを表します。
+title: "クラス NamedAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.NamedAction クラス。PDF ビューア アプリケーションがサポートすると期待される名前付きアクションを表します"
 type: docs
-weight: 2120
+weight: 2210
 url: /ja/net/aspose.pdf.annotations/namedaction/
 ---
-## NamedAction クラス
+## NamedAction class
 
-PDF ビューア アプリケーションがサポートすることが期待される名前付きアクションを表します。
+PDFビューアアプリケーションがサポートすると想定される名前付きアクションを表します。
 
 ```csharp
 public sealed class NamedAction : PdfAction
@@ -24,7 +24,7 @@ public sealed class NamedAction : PdfAction
 
 | 名前 | 説明 |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/namedaction/name/) { get; set; } | 実行されるアクションを取得または設定します。 |
+| [Name](../../aspose.pdf.annotations/namedaction/name/) { get; set; } | 実行するアクションを取得または設定します。 |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | シーケンス内の次のアクション。 |
 
 ## メソッド
@@ -33,8 +33,10 @@ public sealed class NamedAction : PdfAction
 | --- | --- |
 | [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | ECMAScript アクションの文字列を取得します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfAction](../pdfaction/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

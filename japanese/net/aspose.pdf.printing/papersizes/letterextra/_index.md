@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterExtra
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。レターエクストラ用紙 9.275 インチ x 12 インチ
+title: "PaperSizes.LetterExtra"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。レターエクストラ用紙 9.275 in. × 12 in"
 type: docs
 weight: 660
 url: /ja/net/aspose.pdf.printing/papersizes/letterextra/
 ---
-## PaperSizes.LetterExtra フィールド
+## PaperSizes.LetterExtra field
 
-レターエクストラ用紙 (9.275 インチ x 12 インチ)。
+レターエクストラ用紙（9.275 インチ × 12 インチ）。
 
 ```csharp
 public static readonly PaperSize LetterExtra;
@@ -16,11 +16,13 @@ public static readonly PaperSize LetterExtra;
 
 ## 備考
 
-この値は PostScript ドライバーに特有であり、紙を節約するために Linotronic プリンターでのみ使用されます。
+この値は PostScript ドライバー固有で、紙の節約のために Linotronic プリンタでのみ使用されます。
 
-### 参照
+### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

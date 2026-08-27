@@ -1,12 +1,12 @@
 ---
-title: Class FileFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FileFontSource クラス。単一のフォントファイルソースを表します
+title: "クラス FileFontSource"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.FileFontSource クラス。単一フォントファイルソースを表します"
 type: docs
-weight: 10490
+weight: 10670
 url: /ja/net/aspose.pdf.text/filefontsource/
 ---
-## FileFontSource クラス
+## FileFontSource class
 
 単一のフォントファイルソースを表します。
 
@@ -24,7 +24,7 @@ public sealed class FileFontSource : FontSource
 
 | 名前 | 説明 |
 | --- | --- |
-| [FilePath](../../aspose.pdf.text/filefontsource/filepath/) { get; set; } | フォントファイルへのパス。 |
+| [FilePath](../../aspose.pdf.text/filefontsource/filepath/) { get; set; } | フォントファイルへのパスです。 |
 
 ## メソッド
 
@@ -32,8 +32,10 @@ public sealed class FileFontSource : FontSource
 | --- | --- |
 | override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | フォントファイルソースオブジェクトが等しいかどうかを確認します。 |
 
-### 参照
+### 関連項目
 
-* クラス [FontSource](../fontsource/)
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* class [FontSource](../fontsource/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

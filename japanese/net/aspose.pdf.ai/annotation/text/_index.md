@@ -1,14 +1,14 @@
 ---
-title: Annotation.Text
-second_title: Aspose.PDF for .NET API Reference
-description: 注釈プロパティ。置き換える必要があるメッセージコンテンツのテキストを取得または設定します
+title: "Annotation.Text"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Annotation プロパティ。置換が必要なメッセージ内容のテキストを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.ai/annotation/text/
 ---
-## Annotation.Text プロパティ
+## Annotation.Text property
 
-置き換える必要があるメッセージコンテンツのテキストを取得または設定します。
+置換が必要なメッセージコンテンツ内のテキストを取得または設定します。
 
 ```csharp
 public string Text { get; set; }
@@ -19,3 +19,5 @@ public string Text { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

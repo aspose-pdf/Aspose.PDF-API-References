@@ -1,21 +1,23 @@
 ---
-title: FontSubstitutionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollectionプロパティ。コレクションへのアクセスが同期されているかどうかを示す値を取得します。
+title: "FontSubstitutionCollection.IsSynchronized"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontSubstitutionCollection プロパティ。コレクションへのアクセスが同期されスレッドセーフかどうかを示す値を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.text/fontsubstitutioncollection/issynchronized/
 ---
-## FontSubstitutionCollection.IsSynchronizedプロパティ
+## FontSubstitutionCollection.IsSynchronized property
 
-コレクションへのアクセスが同期されているかどうかを示す値を取得します（スレッドセーフ）。
+コレクションへのアクセスが同期化されているか（スレッドセーフ）を示す値を取得します。
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FontSubstitutionCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

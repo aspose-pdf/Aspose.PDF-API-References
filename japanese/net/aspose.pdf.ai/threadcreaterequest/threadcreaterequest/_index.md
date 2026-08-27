@@ -1,12 +1,12 @@
 ---
-title: ThreadCreateRequest.ThreadCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadCreateRequest コンストラクタ。デフォルトコンストラクタ
+title: "ThreadCreateRequest.ThreadCreateRequest"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ThreadCreateRequest コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/threadcreaterequest/threadcreaterequest/
 ---
-## ThreadCreateRequest コンストラクタ
+## ThreadCreateRequest constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public ThreadCreateRequest()
 * class [ThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

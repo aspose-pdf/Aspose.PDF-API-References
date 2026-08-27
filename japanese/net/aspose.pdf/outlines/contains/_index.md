@@ -1,30 +1,32 @@
 ---
-title: Outlines.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Outlinesメソッド。常にNotImplementedExceptionをスローします
+title: "Outlines.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Outlines メソッド。常に NotImplementedException をスローします"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/outlines/contains/
 ---
-## Outlines.Containsメソッド
+## Outlines.Contains method
 
-常にNotImplementedExceptionをスローします。
+常に NotImplementedException をスローします。
 
 ```csharp
 public abstract bool Contains(OutlineItemCollection item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | OutlineItemCollection | コレクション内で位置を特定するオブジェクト |
+| アイテム | OutlineItemCollection | コレクション内で検索するオブジェクト |
 
 ### 戻り値
 
 NotImplementedException
 
-### 参照
+### 関連項目
 
-* クラス [OutlineItemCollection](../../outlineitemcollection/)
-* クラス [Outlines](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

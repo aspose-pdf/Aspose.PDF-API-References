@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.FixedRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement プロパティ。固定行の高さを取得します - 行は固定の高さを持つ場合があります。
+title: "TableTRElement.FixedRowHeight"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableTRElement プロパティ。固定行高さを取得します。行は固定高さになる場合があります。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.logicalstructure/tabletrelement/fixedrowheight/
 ---
-## TableTRElement.FixedRowHeight プロパティ
+## TableTRElement.FixedRowHeight property
 
-固定行の高さを取得します - 行は固定の高さを持つ場合があります。
+固定行の高さを取得します - 行は固定高さになる場合があります。
 
 ```csharp
 public double FixedRowHeight { get; set; }
@@ -16,6 +16,8 @@ public double FixedRowHeight { get; set; }
 
 ### 関連項目
 
-* クラス [TableTRElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

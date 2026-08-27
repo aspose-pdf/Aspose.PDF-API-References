@@ -1,26 +1,28 @@
 ---
-title: XmpPdfAExtensionSchema.Add
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema メソッド。スキーマに新しいオブジェクトを追加します
+title: "XmpPdfAExtensionSchema.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionSchema メソッド。スキーマに新しいオブジェクトを追加します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/xmppdfaextensionschema/add/
 ---
-## XmpPdfAExtensionSchema.Add メソッド
+## XmpPdfAExtensionSchema.Add method
 
-スキーマに新しいオブジェクトを追加します。
+新しいオブジェクトをスキーマに追加します。
 
 ```csharp
 public void Add(XmpPdfAExtensionObject obj)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | obj | XmpPdfAExtensionObject | 新しいオブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* クラス [XmpPdfAExtensionSchema](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

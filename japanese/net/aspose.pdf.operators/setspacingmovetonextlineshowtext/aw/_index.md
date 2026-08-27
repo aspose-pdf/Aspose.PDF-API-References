@@ -1,21 +1,23 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Aw
-second_title: Aspose.PDF for .NET API Reference
-description: SetSpacingMoveToNextLineShowText プロパティ。単語の間隔を取得します。
+title: "SetSpacingMoveToNextLineShowText.Aw"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetSpacingMoveToNextLineShowText プロパティ。単語間隔を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/
 ---
-## SetSpacingMoveToNextLineShowText.Aw プロパティ
+## SetSpacingMoveToNextLineShowText.Aw property
 
-単語の間隔を取得します。
+単語間隔を取得します。
 
 ```csharp
 public double Aw { get; }
 ```
 
-### See Also
+### 関連項目
 
 * class [SetSpacingMoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

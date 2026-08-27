@@ -1,12 +1,12 @@
 ---
-title: Error.Param
-second_title: Aspose.PDF for .NET API Reference
-description: エラープロパティ。パラメータ名を取得または設定します
+title: "Error.Param"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Error プロパティ。パラメータ名を取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.ai/error/param/
 ---
-## Error.Paramプロパティ
+## Error.Param property
 
 パラメータ名を取得または設定します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/error/param/
 public string Param { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Error](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Error](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

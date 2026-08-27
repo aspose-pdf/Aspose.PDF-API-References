@@ -1,26 +1,28 @@
 ---
-title: PdfAOptionsBase.LogOutputSource
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase プロパティ。ログ出力のデータソースを取得または設定します。
+title: "PdfAOptionsBase.LogOutputSource"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAOptionsBase プロパティ。ログ出力のデータソースを取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.plugins/pdfaoptionsbase/logoutputsource/
 ---
-## PdfAOptionsBase.LogOutputSource プロパティ
+## PdfAOptionsBase.LogOutputSource property
 
-ログ出力のデータソースを取得または設定します。
+ログ出力用のデータ ソースを取得または設定します。
 
 ```csharp
 public IDataSource LogOutputSource { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ログ出力のデータソース。
+ログ出力のデータ ソースです。
 
-### 参照
+### 関連項目
 
-* インターフェース [IDataSource](../../idatasource/)
-* クラス [PdfAOptionsBase](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

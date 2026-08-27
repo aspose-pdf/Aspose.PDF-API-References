@@ -1,12 +1,12 @@
 ---
-title: StructureAttributes.GetAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttributes メソッド。AttributeKey によって StructureAttribute を取得します。
+title: "StructureAttributes.GetAttribute"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureAttributes メソッド。AttributeKey によって StructureAttribute を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.logicalstructure/structureattributes/getattribute/
 ---
-## StructureAttributes.GetAttribute メソッド
+## StructureAttributes.GetAttribute method
 
 AttributeKey によって StructureAttribute を取得します。
 
@@ -14,18 +14,20 @@ AttributeKey によって StructureAttribute を取得します。
 public StructureAttribute GetAttribute(AttributeKey key)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | AttributeKey | AttributeKey。 |
+| キー | AttributeKey | AttributeKey. |
 
 ### 戻り値
 
 StructureAttribute
 
-### 参照
+### 関連項目
 
-* クラス [StructureAttribute](../../structureattribute/)
-* クラス [AttributeKey](../../attributekey/)
-* クラス [StructureAttributes](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureAttribute](../../structureattribute/)
+* class [AttributeKey](../../attributekey/)
+* class [StructureAttributes](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

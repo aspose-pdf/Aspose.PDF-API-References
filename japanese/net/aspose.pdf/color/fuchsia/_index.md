@@ -1,14 +1,14 @@
 ---
-title: Color.Fuchsia
-second_title: Aspose.PDF for .NET API Reference
-description: Color プロパティ。ARGB 値が c FFFF00FF のシステム定義色を取得します。
+title: "Color.Fuchsia"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得します。この色の ARGB 値は c FFFF00FF です。"
 type: docs
 weight: 470
 url: /ja/net/aspose.pdf/color/fuchsia/
 ---
-## Color.Fuchsia プロパティ
+## Color.Fuchsia property
 
-ARGB 値が \c \#FFFF00FF のシステム定義色を取得します。
+システム定義の色を取得します。この色の ARGB 値は \c \#FFFF00FF です。
 
 ```csharp
 public static Color Fuchsia { get; }
@@ -16,10 +16,12 @@ public static Color Fuchsia { get; }
 
 ### 戻り値
 
-システム定義色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

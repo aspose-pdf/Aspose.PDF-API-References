@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.WriteByte
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream メソッド。ストリームの現在の位置にバイトを書き込み、ストリーム内の位置を1バイト進めます。
+title: "OptimizedMemoryStream.WriteByte"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizedMemoryStream メソッド。ストリームの現在位置にバイトを書き込み、ストリーム内の位置を 1 バイト進めます。"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf/optimizedmemorystream/writebyte/
 ---
-## OptimizedMemoryStream.WriteByte メソッド
+## OptimizedMemoryStream.WriteByte method
 
-ストリームの現在の位置にバイトを書き込み、ストリーム内の位置を1バイト進めます。
+ストリームの現在位置に 1 バイトを書き込み、ストリーム内の位置を 1 バイト進めます。
 
 ```csharp
 public override void WriteByte(byte value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | Byte | ストリームに書き込むバイト。 |
+| 値 | Byte | ストリームに書き込むバイトです。 |
 
-### 参照
+### 関連項目
 
-* クラス [OptimizedMemoryStream](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Color.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Color コンストラクタ。デフォルトコンストラクタ
+title: "Color.Color"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/color/color/
 ---
-## Color コンストラクタ
+## Color constructor
 
-デフォルトコンストラクタです。
+デフォルトコンストラクタ。
 
 ```csharp
 public Color()
 ```
 
-### 参照
+### 関連項目
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

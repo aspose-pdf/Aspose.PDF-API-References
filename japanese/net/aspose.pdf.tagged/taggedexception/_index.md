@@ -1,12 +1,12 @@
 ---
-title: Class TaggedException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged.TaggedException クラス。ドキュメントの TaggedPDF コンテンツに対する例外を表します
+title: "クラス TaggedException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Tagged.TaggedException クラス。ドキュメントの TaggedPDF コンテンツに対する例外を表します"
 type: docs
-weight: 10330
+weight: 10510
 url: /ja/net/aspose.pdf.tagged/taggedexception/
 ---
-## TaggedException クラス
+## TaggedException class
 
 ドキュメントの TaggedPDF コンテンツに対する例外を表します。
 
@@ -14,14 +14,16 @@ url: /ja/net/aspose.pdf.tagged/taggedexception/
 public class TaggedException : PdfException
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
 | [TaggedException](taggedexception/)() | `TaggedException` クラスの新しいインスタンスを初期化します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfException](../../aspose.pdf/pdfexception/)
-* 名前空間 [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfException](../../aspose.pdf/pdfexception/)
+* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../)
+
+
