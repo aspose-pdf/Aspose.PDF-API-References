@@ -1,12 +1,12 @@
 ---
-title: RunListResponse.RunListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: RunListResponse-konstruktorn. Standardkonstruktorn
+title: "RunListResponse.RunListResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunListResponse‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/runlistresponse/runlistresponse/
 ---
-## RunListResponse-konstruktorn
+## RunListResponse constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public RunListResponse()
 ```
 
-### Se Även
+### Se även
 
-* klass [RunListResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RunListResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

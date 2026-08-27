@@ -1,21 +1,23 @@
 ---
-title: FileSpecification.IncludeContents
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification-egenskap. Om sant kommer innehållet i filen att inkluderas i filspecifikationen
+title: "FileSpecification.IncludeContents"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSpecification property. Om true inkluderas filens innehåll i filspecifikationen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/filespecification/includecontents/
 ---
-## FileSpecification.IncludeContents-egenskap
+## FileSpecification.IncludeContents property
 
-Om sant kommer innehållet i filen att inkluderas i filspecifikationen.
+Om true, kommer filens innehåll att inkluderas i filspecificeringen.
 
 ```csharp
 public bool IncludeContents { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

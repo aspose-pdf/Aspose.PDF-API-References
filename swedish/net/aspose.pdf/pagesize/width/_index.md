@@ -1,21 +1,23 @@
 ---
-title: PageSize.Width
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize-egenskap. Hämtar eller ställer in sidbredd
+title: "PageSize.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageSize egenskap. Hämtar eller anger sidbredd"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf/pagesize/width/
 ---
-## PageSize.Width-egenskap
+## PageSize.Width property
 
-Hämtar eller ställer in sidbredd.
+Hämtar eller anger sidbredd.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSize](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: AbsorbedTable.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedTable-egenskap. Hämtar rektangel som beskriver positionen för tabellen på sidan
+title: "AbsorbedTable.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AbsorbedTable property. Hämtar rektangeln som beskriver tabellens position på sidan."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/absorbedtable/rectangle/
 ---
-## AbsorbedTable.Rectangle-egenskap
+## AbsorbedTable.Rectangle property
 
-Hämtar rektangel som beskriver positionen för tabellen på sidan
+Hämtar rektangeln som beskriver tabellens position på sidan
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [AbsorbedTable](../)
-* namnrum [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [AbsorbedTable](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PdfAValidationResult.StandardVersion
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAValidationResult-fält. Hämtar den PDF/A-standardversion som används för validering
+title: "PdfAValidationResult.StandardVersion"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAValidationResult-fält. Hämtar PDF/A-standardversionen som används för validering"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.plugins/pdfavalidationresult/standardversion/
 ---
-## PdfAValidationResult.StandardVersion-fält
+## PdfAValidationResult.StandardVersion field
 
-Hämtar den PDF/A-standardversion som används för validering.
+Hämtar PDF/A-standardversionen som användes för validering.
 
 ```csharp
 public readonly PdfAStandardVersion StandardVersion;
 ```
 
-### Se Även
+### Se även
 
 * enum [PdfAStandardVersion](../../pdfastandardversion/)
 * class [PdfAValidationResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

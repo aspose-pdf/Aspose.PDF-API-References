@@ -1,25 +1,27 @@
 ---
-title: PDF3DView.CameraOrbit
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView-egenskap. Hämtar eller ställer in kamerans omloppsbana för vy
+title: "PDF3DView.CameraOrbit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DView-egenskap. Hämtar eller anger kamerabanan för vyn."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/pdf3dview/cameraorbit/
 ---
-## PDF3DView.CameraOrbit-egenskap
+## PDF3DView.CameraOrbit property
 
-Hämtar eller ställer in kamerans omloppsbana för vy.
+Hämtar eller anger kamerans bana för vyn.
 
 ```csharp
 public double CameraOrbit { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Kamerans omloppsbana för vy.
+Kamerabanan för vyn.
 
-### Se Även
+### Se även
 
-* klass [PDF3DView](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StartEndPageEventArgs.TotalCopies
-second_title: Aspose.PDF for .NET API Reference
-description: StartEndPageEventArgs-fält. Hämtar det totala antalet kopior som ska skrivas ut
+title: "StartEndPageEventArgs.TotalCopies"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StartEndPageEventArgs-fältet. Hämtar det totala antalet kopior som ska skrivas ut"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.printing/startendpageeventargs/totalcopies/
 ---
-## StartEndPageEventArgs.TotalCopies-fält
+## StartEndPageEventArgs.TotalCopies field
 
 Hämtar det totala antalet kopior som ska skrivas ut.
 
@@ -14,8 +14,10 @@ Hämtar det totala antalet kopior som ska skrivas ut.
 public readonly int TotalCopies;
 ```
 
-### Se Även
+### Se även
 
-* klass [StartEndPageEventArgs](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

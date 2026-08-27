@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.UseDiskBuffer
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-egenskap. Om detta alternativ används kommer destinationsdokumentet att sparas på disk periodiskt och ytterligare sammanfogning kommer att tillämpas på det som inkrementella uppdateringar
+title: "PdfFileEditor.UseDiskBuffer"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor-egenskap. Om detta alternativ används sparas destination document på disk periodiskt och vidare sammanfogning tillämpas på det som inkrementella uppdateringar."
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.facades/pdffileeditor/usediskbuffer/
 ---
-## PdfFileEditor.UseDiskBuffer-egenskap
+## PdfFileEditor.UseDiskBuffer property
 
-Om detta alternativ används kommer destinationsdokumentet att sparas på disk periodiskt och ytterligare sammanfogning kommer att tillämpas på det som inkrementella uppdateringar.
+Om detta alternativ används sparas destinationsdokumentet på disken periodiskt och vidare sammanslagning kommer att tillämpas på det som inkrementella uppdateringar.
 
 ```csharp
 public bool UseDiskBuffer { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

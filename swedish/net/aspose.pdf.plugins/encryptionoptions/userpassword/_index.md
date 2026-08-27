@@ -1,12 +1,12 @@
 ---
-title: EncryptionOptions.UserPassword
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptionOptions egenskap. Användarlösenord
+title: "EncryptionOptions.UserPassword"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EncryptionOptions-egenskap. Användarlösenord"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.plugins/encryptionoptions/userpassword/
 ---
-## EncryptionOptions.UserPassword egenskap
+## EncryptionOptions.UserPassword property
 
 Användarlösenord.
 
@@ -14,8 +14,10 @@ Användarlösenord.
 public string UserPassword { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [EncryptionOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [EncryptionOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

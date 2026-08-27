@@ -1,22 +1,24 @@
 ---
-title: Path.Shapes
-second_title: Aspose.PDF for .NET API Reference
-description: Path-egenskap. Hämtar eller ställer in samling av former
+title: "Path.Shapes"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Path-egenskap. Hämtar eller anger en samling av former."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.drawing/path/shapes/
 ---
-## Path.Shapes-egenskap
+## Path.Shapes property
 
-Hämtar eller ställer in samling av former.
+Hämtar eller anger samling av former.
 
 ```csharp
 public List<Shape> Shapes { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Shape](../../shape/)
-* klass [Path](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Shape](../../shape/)
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

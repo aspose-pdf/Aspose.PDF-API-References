@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TrySetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity-metod. Ställer in Pdf-filens säkerhet med originallösenord. Kastar inte ett undantag om processen misslyckas
+title: "PdfFileSecurity.TrySetPrivilege"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSecurity-metoden. Ställer in Pdf-filens säkerhet med det ursprungliga lösenordet. Kastar inte ett undantag om processen misslyckas."
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/
 ---
-## PdfFileSecurity.TrySetPrivilege metod
+## PdfFileSecurity.TrySetPrivilege method
 
-Ställer in Pdf-filens säkerhet med originallösenord. Kastar inte ett undantag om processen misslyckas.
+Ställer in Pdf‑filens säkerhet med originallösenordet. Kastar inte ett undantag om processen misslyckas.
 
 ```csharp
 public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
@@ -16,13 +16,13 @@ public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentP
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| userPassword | Sträng | Originalanvändarlösenord. |
-| ownerPassword | Sträng | Originalägarlösenord. |
-| privilege | DocumentPrivilege | Ställ in privilegiet. |
+| userPassword | String | Ursprungligt användarlösenord. |
+| ownerPassword | String | Ursprungligt ägarlösenord. |
+| behörighet | DocumentPrivilege | Ange behörighet. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för framgång, annars falskt.
 
 ## Exempel
 
@@ -40,9 +40,11 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.TrySetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../../documentprivilege/)
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

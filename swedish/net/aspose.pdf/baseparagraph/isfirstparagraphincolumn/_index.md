@@ -1,21 +1,23 @@
 ---
-title: BaseParagraph.IsFirstParagraphInColumn
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph-egenskap. Hämtar eller ställer in ett bool-värde som indikerar om detta stycke kommer att vara i nästa kolumn. Standard är false. för pdf-generering.
+title: "BaseParagraph.IsFirstParagraphInColumn"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseParagraph egenskap. Hämtar eller anger ett bool‑värde som indikerar om detta stycke kommer att vara i nästa kolumn. Standard är falskt. för pdf-generering"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/baseparagraph/isfirstparagraphincolumn/
 ---
-## BaseParagraph.IsFirstParagraphInColumn-egenskap
+## BaseParagraph.IsFirstParagraphInColumn property
 
-Hämtar eller ställer in ett bool-värde som indikerar om detta stycke kommer att vara i nästa kolumn. Standard är false. (för pdf-generering)
+Hämtar eller anger ett booleskt värde som indikerar om detta stycke ska vara i nästa kolumn. Standard är false. (för PDF‑generering)
 
 ```csharp
 public bool IsFirstParagraphInColumn { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

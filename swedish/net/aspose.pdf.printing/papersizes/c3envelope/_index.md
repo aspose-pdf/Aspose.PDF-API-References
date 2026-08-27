@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.C3Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. C3-kuvert 324 mm med 458 mm
+title: "PaperSizes.C3Envelope"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. C3 kuvert 324 mm x 458 mm"
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf.printing/papersizes/c3envelope/
 ---
-## PaperSizes.C3Envelope-fält
+## PaperSizes.C3Envelope field
 
-C3-kuvert (324 mm med 458 mm).
+C3-kuvert (324 mm by 458 mm).
 
 ```csharp
 public static readonly PaperSize C3Envelope;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

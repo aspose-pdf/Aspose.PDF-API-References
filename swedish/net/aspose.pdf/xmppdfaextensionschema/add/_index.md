@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.Add
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema-metod. Lägger till nytt objekt i schemat
+title: "XmpPdfAExtensionSchema.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionSchema-metod. Lägger till ett nytt objekt i schemat"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/xmppdfaextensionschema/add/
 ---
-## XmpPdfAExtensionSchema.Add metod
+## XmpPdfAExtensionSchema.Add method
 
-Lägger till nytt objekt i schemat.
+Lägger till ett nytt objekt i schemat.
 
 ```csharp
 public void Add(XmpPdfAExtensionObject obj)
@@ -18,9 +18,11 @@ public void Add(XmpPdfAExtensionObject obj)
 | --- | --- | --- |
 | obj | XmpPdfAExtensionObject | Det nya objektet. |
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* klass [XmpPdfAExtensionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

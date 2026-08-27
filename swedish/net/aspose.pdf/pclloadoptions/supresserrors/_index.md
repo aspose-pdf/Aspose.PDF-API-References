@@ -1,21 +1,23 @@
 ---
-title: PclLoadOptions.SupressErrors
-second_title: Aspose.PDF for .NET API Reference
-description: PclLoadOptions-fält. Hämtar eller ställer in ett booleskt värde som indikerar om PCL-konverteringsfel ska undertryckas
+title: "PclLoadOptions.SupressErrors"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PclLoadOptions-fältet. Hämtar eller sätter ett booleskt värde som indikerar om PCL-konverteringsfel ska undertryckas"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/pclloadoptions/supresserrors/
 ---
-## PclLoadOptions.SupressErrors-fält
+## PclLoadOptions.SupressErrors field
 
-Hämtar eller ställer in ett booleskt värde som indikerar om PCL-konverteringsfel ska undertryckas.
+Hämtar eller anger ett booleskt värde som indikerar om PCL-konverteringsfel ska undertryckas.
 
 ```csharp
 public bool SupressErrors;
 ```
 
-### Se Även
+### Se även
 
-* klass [PclLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PclLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

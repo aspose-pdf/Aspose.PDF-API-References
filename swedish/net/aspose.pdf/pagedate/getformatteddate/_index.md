@@ -1,12 +1,12 @@
 ---
-title: PageDate.GetFormattedDate
-second_title: Aspose.PDF for .NET API Reference
-description: PageDate-metod. Returnerar den formaterade datumsträngen baserat på det aktuella datumformatet
+title: "PageDate.GetFormattedDate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageDate metod. Returnerar den formaterade datumsträngen baserat på det aktuella datumformatet"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/pagedate/getformatteddate/
 ---
-## PageDate.GetFormattedDate metod
+## PageDate.GetFormattedDate method
 
 Returnerar den formaterade datumsträngen baserat på det aktuella datumformatet.
 
@@ -18,8 +18,10 @@ public string GetFormattedDate()
 
 En formaterad datumsträng.
 
-### Se Även
+### Se även
 
-* klass [PageDate](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageDate](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

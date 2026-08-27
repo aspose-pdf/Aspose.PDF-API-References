@@ -1,21 +1,23 @@
 ---
-title: LlamaChatCompletionRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionRequest-egenskap. Sätter eller hämtar ID för modellen som ska användas
+title: "LlamaChatCompletionRequest.Model"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaChatCompletionRequest-egenskap. Anger eller hämtar ID för den modell som ska användas"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/llamachatcompletionrequest/model/
 ---
-## LlamaChatCompletionRequest.Model-egenskap
+## LlamaChatCompletionRequest.Model property
 
-Sätter eller hämtar ID för modellen som ska användas.
+Ställer in eller hämtar ID för modellen som ska användas.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LlamaChatCompletionRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

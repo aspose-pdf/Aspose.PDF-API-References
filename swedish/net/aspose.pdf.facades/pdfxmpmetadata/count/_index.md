@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.Count
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-egenskap. Hämtar antalet objekt i samlingen
+title: "PdfXmpMetadata.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata egenskap. Hämtar antalet objekt i samlingen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/count/
 ---
-## PdfXmpMetadata.Count-egenskap
+## PdfXmpMetadata.Count property
 
 Hämtar antalet objekt i samlingen.
 
@@ -22,8 +22,10 @@ pxm.BindPdf("PdfFile.pdf");
 Console.WriteLine("Count = " + pxm.Count);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfXmpMetadata](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

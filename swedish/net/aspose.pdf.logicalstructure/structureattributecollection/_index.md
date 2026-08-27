@@ -1,14 +1,14 @@
 ---
-title: Class StructureAttributeCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.StructureAttributeCollection klass. Representerar en samling av attribut för strukturelement
+title: "Klass StructureAttributeCollection"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.LogicalStructure.StructureAttributeCollection klass. Representerar en samling av attribut för strukturelement"
 type: docs
-weight: 6680
+weight: 6820
 url: /sv/net/aspose.pdf.logicalstructure/structureattributecollection/
 ---
-## StructureAttributeCollection klass
+## StructureAttributeCollection class
 
-Representerar en samling av attribut för strukturelement.
+Representerar en samling av attribut för strukturselementen.
 
 ```csharp
 public class StructureAttributeCollection
@@ -18,10 +18,12 @@ public class StructureAttributeCollection
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes/)(AttributeOwnerStandard) | Skapa och returnera [`StructureAttributes`](../structureattributes/) för strukturelementet av standardattributägare. |
-| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes/)(AttributeOwnerStandard) | Returnera [`StructureAttributes`](../structureattributes/) för strukturelementet av standardattributägare. |
+| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes/)(AttributeOwnerStandard) | Skapa och returnera [`StructureAttributes`](../structureattributes/) för strukturelementet via standardattributägare. |
+| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes/)(AttributeOwnerStandard) | Returnera [`StructureAttributes`](../structureattributes/) för strukturelementet via standardattributägare. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

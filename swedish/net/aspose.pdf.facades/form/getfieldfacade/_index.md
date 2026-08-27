@@ -1,12 +1,12 @@
 ---
-title: Form.GetFieldFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Returnerar ett FrofmFieldFacade-objekt som innehåller alla utseendeattribut
+title: "Form.GetFieldFacade"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-metod. Returnerar FrofmFieldFacade-objekt som innehåller alla utseendeattribut"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.facades/form/getfieldfacade/
 ---
-## Form.GetFieldFacade metod
+## Form.GetFieldFacade method
 
 Returnerar ett FrofmFieldFacade-objekt som innehåller alla utseendeattribut.
 
@@ -22,15 +22,17 @@ public FormFieldFacade GetFieldFacade(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namn på fältet som ska läsas. |
+| fieldName | String | Namn på fält att läsa. |
 
 ### Returvärde
 
-FormFieldFacade-objekt
+FormFieldFacade object
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../../formfieldfacade/)
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

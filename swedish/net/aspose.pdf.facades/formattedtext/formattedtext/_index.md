@@ -1,7 +1,7 @@
 ---
-title: FormattedText.FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: FormattedText-konstruktör. Initierar FormattedText
+title: "FormattedText.FormattedText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormattedText-konstruktorn. Initierar FormattedText"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/formattedtext/formattedtext/
@@ -14,10 +14,10 @@ Initierar FormattedText.
 public FormattedText()
 ```
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,12 +32,12 @@ public FormattedText(string text)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Text som ingår i FormattedText. |
+| text | String | Text som finns i FormattedText. |
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -53,27 +53,27 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textinnehåll i strängen. |
+| text | String | Textinnehåll i strängen. |
 | fontColor | FontColor | Färg på texten. |
-| fontStyle | FontStyle | Stil på texten. |
-| encodingType | EncodingType | Kodningstyp (värde av Enumeration EncodingType). |
-| embedded | Boolean | Sant om typsnittet kommer att vara inbäddat. |
+| fontStyle | FontStyle | Stil för texten. |
+| encodingType | EncodingType | Kodningstyp (värde av EncodingType‑enumerationen). |
+| inbäddad | Boolean | Sant om teckensnittet kommer att inbäddas. |
 | textSize | Single | Storlek på texten. |
 
-### Se Även
+### Se även
 
-* klass [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_5}
 
-Initierar FormattedText.
+Initiera FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle textFont, 
@@ -82,21 +82,21 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textinnehåll i strängen. |
+| text | String | Textinnehåll i strängen. |
 | fontColor | FontColor | Färg på texten. |
-| textFont | FontStyle | Typsnitt på texten. |
+| textFont | FontStyle | Teckensnitt för texten. |
 | textEncoding | EncodingType | Kodning av texten. |
-| embedded | Boolean | Sant om texten kommer att vara inbäddad. |
+| inbäddad | Boolean | Sant om texten kommer att inbäddas. |
 | textSize | Single | Storlek på texten. |
 | lineSpacing | Single | Ytterligare avstånd. |
 
-### Se Även
+### Se även
 
-* klass [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -112,19 +112,19 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textinnehåll i strängen. |
+| text | String | Textinnehåll i strängen. |
 | color | Color | Färg på texten. |
-| textFont | FontStyle | Typsnitt på texten. |
+| textFont | FontStyle | Teckensnitt för texten. |
 | textEncoding | EncodingType | Kodning av texten. |
-| embedded | Boolean | Sant om texten kommer att vara inbäddad. |
+| inbäddad | Boolean | Sant om texten kommer att inbäddas. |
 | textSize | Single | Storlek på texten. |
 
-### Se Även
+### Se även
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -140,20 +140,20 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textinnehåll i strängen. |
+| text | String | Textinnehåll i strängen. |
 | textColor | Color | Färg på texten. |
-| textFont | FontStyle | Typsnitt på texten. |
+| textFont | FontStyle | Teckensnitt för texten. |
 | textEncoding | EncodingType | Kodning av texten. |
-| embedded | Boolean | Om sant kommer typsnittet att vara inbäddat. |
+| inbäddad | Boolean | Om sant kommer teckensnittet att inbäddas. |
 | textSize | Single | Storlek på texten. |
 | lineSpacing | Single | Ytterligare avstånd. |
 
-### Se Även
+### Se även
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -169,21 +169,21 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textinnehåll i strängen. |
+| text | String | Textinnehåll i strängen. |
 | textColor | FontColor | Färg på texten. |
 | backColor | FontColor | Färg på bakgrunden. |
-| textFont | FontStyle | Typsnitt på texten. |
+| textFont | FontStyle | Teckensnitt för texten. |
 | textEncoding | EncodingType | Kodning av texten. |
-| embedded | Boolean | Om sant kommer typsnittet att vara inbäddat. |
+| inbäddad | Boolean | Om sant kommer teckensnittet att inbäddas. |
 | textSize | Single | Storlek på texten. |
 
-### Se Även
+### Se även
 
-* klass [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -199,22 +199,22 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textinnehåll. |
+| text | String | Textinnehåll. |
 | textColor | FontColor | Färg på texten. |
 | backColor | FontColor | Färg på bakgrunden. |
-| textFont | FontStyle | Typsnitt på texten. |
+| textFont | FontStyle | Teckensnitt för texten. |
 | textEncoding | EncodingType | Kodning av texten. |
-| embedded | Boolean | Om sant kommer typsnittet att vara inbäddat. |
+| inbäddad | Boolean | Om sant kommer teckensnittet att inbäddas. |
 | textSize | Single | Storlek på texten. |
 | lineSpacing | Single | Ytterligare avstånd. |
 
-### Se Även
+### Se även
 
-* klass [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -230,20 +230,20 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textinnehåll i strängen. |
+| text | String | Textinnehåll i strängen. |
 | textColor | Color | Färg på texten. |
 | backColor | Color | Färg på bakgrunden. |
-| textFont | FontStyle | Typsnitt på texten. |
+| textFont | FontStyle | Teckensnitt för texten. |
 | encoding | EncodingType | Kodning av texten. |
-| embedded | Boolean | Sant om typsnittet kommer att vara inbäddat. |
+| inbäddad | Boolean | Sant om teckensnittet kommer att inbäddas. |
 | textSize | Single | Storlek på texten. |
 
-### Se Även
+### Se även
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -259,21 +259,21 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textinnehåll i strängen. |
+| text | String | Textinnehåll i strängen. |
 | textColor | Color | Färg på texten. |
 | backColor | Color | Färg på bakgrunden. |
-| textFont | FontStyle | Typsnitt på texten. |
+| textFont | FontStyle | Teckensnitt för texten. |
 | textEncoding | EncodingType | Kodning av texten. |
-| embedded | Boolean | Om sant är typsnittet inbäddat. |
+| inbäddad | Boolean | Om sant är teckensnittet inbäddat. |
 | textSize | Single | Storlek på texten. |
 | lineSpacing | Single | Ytterligare avstånd. |
 
-### Se Även
+### Se även
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -289,19 +289,19 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textinnehåll. |
+| text | String | Textinnehåll. |
 | textColor | Color | Färg på texten. |
 | backColor | Color | Färg på bakgrunden. |
-| fontName | Sträng | Typsnitt på texten. |
+| fontName | String | Teckensnitt för texten. |
 | textEncoding | EncodingType | Kodning av texten. |
-| embedded | Boolean | Om sant kommer typsnittet att vara inbäddat. |
+| inbäddad | Boolean | Om sant kommer teckensnittet att inbäddas. |
 | fontSize | Single | Storlek på texten. |
 
-### Se Även
+### Se även
 
 * enum [EncodingType](../../encodingtype/)
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -316,14 +316,14 @@ public FormattedText(string text, Color textColor, Color backColor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textinnehåll. |
+| text | String | Textinnehåll. |
 | textColor | Color | Färg på texten. |
 | backColor | Color | Färg på bakgrunden. |
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -339,16 +339,18 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textinnehåll. |
+| text | String | Textinnehåll. |
 | textColor | Color | Färg på texten. |
-| fontName | Sträng | Typsnitt på texten. |
+| fontName | String | Teckensnitt för texten. |
 | textEncoding | EncodingType | Kodning av texten. |
-| embedded | Boolean | Om sant kommer typsnittet att vara inbäddat. |
+| inbäddad | Boolean | Om sant kommer teckensnittet att inbäddas. |
 | fontSize | Single | Storlek på texten. |
 
-### Se Även
+### Se även
 
 * enum [EncodingType](../../encodingtype/)
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

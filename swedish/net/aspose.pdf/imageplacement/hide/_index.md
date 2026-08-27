@@ -1,21 +1,23 @@
 ---
-title: ImagePlacement.Hide
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement-metod. Ta bort bild från sidan
+title: "ImagePlacement.Hide"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacement-metod. Ta bort bild från sidan"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/imageplacement/hide/
 ---
-## ImagePlacement.Hide metod
+## ImagePlacement.Hide method
 
-Ta bort bild från sidan.
+Ta bort bilden från sidan.
 
 ```csharp
 public void Hide()
 ```
 
-### Se Även
+### Se även
 
-* klass [ImagePlacement](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextPdfComparer.AssemblySourcePageText
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer-metod. Återställer den ursprungliga texten från listan över ändringar
+title: "TextPdfComparer.AssemblySourcePageText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextPdfComparer-metod. Återställer originaltexten från listan över ändringar"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/
 ---
-## TextPdfComparer.AssemblySourcePageText metod
+## TextPdfComparer.AssemblySourcePageText method
 
 Återställer den ursprungliga texten från listan över ändringar.
 
@@ -20,11 +20,13 @@ public static string AssemblySourcePageText(List<DiffOperation> diffs)
 
 ### Returvärde
 
-Ursprunglig text.
+Originaltext.
 
-### Se Även
+### Se även
 
-* klass [DiffOperation](../../diffoperation/)
-* klass [TextPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [DiffOperation](../../diffoperation/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

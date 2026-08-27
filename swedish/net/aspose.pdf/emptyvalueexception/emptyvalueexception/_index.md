@@ -1,24 +1,24 @@
 ---
-title: EmptyValueException.EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: EmptyValueException-konstruktorn. Initierar en ny instans av klassen EmptyValueException
+title: "EmptyValueException.EmptyValueException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EmptyValueException-konstruktor. Initierar en ny instans av EmptyValueException-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/emptyvalueexception/emptyvalueexception/
 ---
 ## EmptyValueException() {#constructor}
 
-Initierar en ny instans av klassen [`EmptyValueException`](../).
+Initierar en ny instans av [`EmptyValueException`](../)-klassen.
 
 ```csharp
 public EmptyValueException()
 ```
 
-### Se Även
+### Se även
 
-* klass [EmptyValueException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [EmptyValueException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,10 +32,12 @@ public EmptyValueException(string message)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Undantagsmeddelande. |
+| meddelande | String | Undantagsmeddelande. |
 
-### Se Även
+### Se även
 
-* klass [EmptyValueException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [EmptyValueException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

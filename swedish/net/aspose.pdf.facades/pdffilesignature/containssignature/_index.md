@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.ContainsSignature
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-metod. Kontrollerar om pdfen har en digital signatur eller inte
+title: "PdfFileSignature.ContainsSignature"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature‑metod. Kontrollerar om pdf‑filen har en digital signatur eller inte"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdffilesignature/containssignature/
 ---
-## PdfFileSignature.ContainsSignature metod
+## PdfFileSignature.ContainsSignature method
 
-Kontrollerar om pdf:en har en digital signatur eller inte.
+Kontrollerar om pdf-filen har en digital signatur eller inte.
 
 ```csharp
 public bool ContainsSignature()
@@ -16,10 +16,12 @@ public bool ContainsSignature()
 
 ### Returvärde
 
-Returnerar ett resultat av bool-typ.
+Returnerar ett resultat av bool‑typ.
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

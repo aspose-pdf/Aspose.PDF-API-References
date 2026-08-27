@@ -1,21 +1,23 @@
 ---
-title: Point.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: Point-egenskap. Hämtar punkt med nollkoordinater
+title: "Point.Trivial"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Point-egenskap. Hämtar en punkt med nollkoordinater"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/point/trivial/
 ---
-## Point.Trivial-egenskap
+## Point.Trivial property
 
-Hämtar punkt med nollkoordinater.
+Hämtar en punkt med nollkoordinater.
 
 ```csharp
 public static Point Trivial { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

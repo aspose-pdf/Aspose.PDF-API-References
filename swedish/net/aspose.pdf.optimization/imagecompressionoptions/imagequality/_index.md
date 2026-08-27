@@ -1,21 +1,23 @@
 ---
-title: ImageCompressionOptions.ImageQuality
-second_title: Aspose.PDF for .NET API Reference
-description: ImageCompressionOptions-egenskap. Anger nivån av bildkomprimering när CompressIamges-flaggan används
+title: "ImageCompressionOptions.ImageQuality"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageCompressionOptions-egenskap. Anger komprimeringsnivå för bilder när CompressImages-flaggan används."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.optimization/imagecompressionoptions/imagequality/
 ---
-## ImageCompressionOptions.ImageQuality-egenskap
+## ImageCompressionOptions.ImageQuality property
 
-Anger nivån av bildkomprimering när CompressIamges-flaggan används.
+Anger nivå för bildkomprimering när flaggan CompressImages används.
 
 ```csharp
 public int ImageQuality { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageCompressionOptions](../)
-* namnrymd [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ImageCompressionOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

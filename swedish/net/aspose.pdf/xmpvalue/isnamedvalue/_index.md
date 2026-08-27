@@ -1,21 +1,23 @@
 ---
-title: XmpValue.IsNamedValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-egenskap. Returnerar sant om XmpValue är ett namngivet värde
+title: "XmpValue.IsNamedValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue-egenskap. Returnerar true om XmpValue är ett namngivet värde"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/xmpvalue/isnamedvalue/
 ---
-## XmpValue.IsNamedValue-egenskap
+## XmpValue.IsNamedValue property
 
-Returnerar sant om XmpValue är ett namngivet värde.
+Returnerar true om XmpValue är ett namngivet värde.
 
 ```csharp
 public bool IsNamedValue { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

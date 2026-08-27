@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.TextAlign
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. TextAlign-attribut Layout-attribut ägare
+title: "AttributeKey.TextAlign"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. TextAlign attribut Layout-attributägare"
 type: docs
 weight: 340
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/textalign/
 ---
-## AttributeKey.TextAlign-fält
+## AttributeKey.TextAlign field
 
-TextAlign-attribut (Layout-attribut ägare).
+TextAlign-attribut (Layout attributägare).
 
 ```csharp
 public static readonly AttributeKey TextAlign;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

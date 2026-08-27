@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs metod. Ta bort stycke från samlingen
+title: "Paragraphs.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Paragraphs metod. Ta bort stycke från samling"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/paragraphs/remove/
 ---
-## Paragraphs.Remove metod
+## Paragraphs.Remove method
 
 Ta bort stycke från samlingen.
 
@@ -16,11 +16,13 @@ public void Remove(BaseParagraph paragraph)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| paragraph | BaseParagraph | Stycket. |
+| stycke | BaseParagraph | Stycket. |
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../../baseparagraph/)
-* klass [Paragraphs](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

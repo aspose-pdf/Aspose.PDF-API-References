@@ -1,21 +1,23 @@
 ---
-title: CreateFineTuningJobResponse.ResultFiles
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse-egenskap. Hämtar eller ställer in listan över resultatfiler för finjusteringsjobbet
+title: "CreateFineTuningJobResponse.ResultFiles"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateFineTuningJobResponse‑egenskap. Hämtar eller anger listan över resultatfiler för finetuning‑jobbet"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.ai/createfinetuningjobresponse/resultfiles/
 ---
-## CreateFineTuningJobResponse.ResultFiles-egenskap
+## CreateFineTuningJobResponse.ResultFiles property
 
-Hämtar eller ställer in listan över resultatfiler för finjusteringsjobbet.
+Hämtar eller anger listan över resultatfiler för finjusteringsjobbet.
 
 ```csharp
 public List<string> ResultFiles { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateFineTuningJobResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

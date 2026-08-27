@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Figure
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Figur Ett objekt av grafiskt innehåll. Dess placering kan specificeras med layoutattributet Placering
+title: "StructureTypeStandard.Figure"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard field. Figure Ett grafiskt innehållsobjekt. Dess placering kan specificeras med layoutattributet Placement"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/figure/
 ---
-## StructureTypeStandard.Figure-fält
+## StructureTypeStandard.Figure field
 
-(Figur) Ett objekt av grafiskt innehåll. Dess placering kan specificeras med layoutattributet Placering.
+(Figure) Ett grafiskt innehållsobjekt. Dess placering kan specificeras med layoutattributet Placement.
 
 ```csharp
 public static readonly StructureTypeStandard Figure;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

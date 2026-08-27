@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.SetCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-metod. Ställ in certifikatfil och lösenord för signeringsrutin
+title: "PdfFileSignature.SetCertificate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature-metod. Ställer in certifikatfil och lösenord för signeringsrutinen."
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf.facades/pdffilesignature/setcertificate/
 ---
-## PdfFileSignature.SetCertificate metod
+## PdfFileSignature.SetCertificate method
 
-Ställ in certifikatfil och lösenord för signeringsrutin.
+Ange certifikatfil och lösenord för signeringsrutinen.
 
 ```csharp
 public void SetCertificate(string pfx, string pass)
@@ -16,11 +16,13 @@ public void SetCertificate(string pfx, string pass)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pfx | Sträng | PKCS #12 certifikatfil. |
-| pass | Sträng | Lösenord för att få åtkomst till certifikatets privata nyckel. |
+| pfx | String | PKCS #12-certifikatfil. |
+| pass | String | Lösenord för att få åtkomst till certifikatets privata nyckel. |
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

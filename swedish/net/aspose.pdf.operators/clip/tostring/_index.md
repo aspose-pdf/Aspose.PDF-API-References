@@ -1,14 +1,14 @@
 ---
-title: Clip.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Clip-metod. Returnerar textrepresentation av operatörer
+title: "Clip.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Clip-metod. Returnerar textrepresentation av operatorer"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/clip/tostring/
 ---
-## Clip.ToString metod
+## Clip.ToString method
 
-Returnerar textrepresentation av operatörer.
+Returnerar textrepresentation av operatorer.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av operatör.
+Textrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [Clip](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [Clip](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

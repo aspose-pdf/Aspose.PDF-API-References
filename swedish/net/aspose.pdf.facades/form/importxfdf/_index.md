@@ -1,14 +1,14 @@
 ---
-title: Form.ImportXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Importerar innehållet i fälten från xfdfxml-filen och lägger dem i den nya pdfen
+title: "Form.ImportXfdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form metod. Importerar innehållet i fälten från xfdfxml-filen och placerar dem i den nya pdf-filen"
 type: docs
 weight: 300
 url: /sv/net/aspose.pdf.facades/form/importxfdf/
 ---
-## Form.ImportXfdf metod
+## Form.ImportXfdf method
 
-Importerar innehållet i fälten från xfdf(xml)-filen och lägger dem i den nya pdf:en.
+Importerar fältens innehåll från xfdf(xml)-filen och placerar dem i den nya pdf-filen.
 
 ```csharp
 public void ImportXfdf(Stream inputXfdfStream)
@@ -16,7 +16,7 @@ public void ImportXfdf(Stream inputXfdfStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputXfdfStream | Stream | Inmatningsxfdf(xml)-strömmen. |
+| inputXfdfStream | Stream | Den inmatade xfdf(xml)-strömmen. |
 
 ## Exempel
 
@@ -28,8 +28,10 @@ fs.Close();
 form.Save();
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

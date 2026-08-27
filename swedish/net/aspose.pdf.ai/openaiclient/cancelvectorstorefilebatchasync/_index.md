@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CancelVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Avbryter en specifik vektorbutik filbatch asynkront
+title: "OpenAIClient.CancelVectorStoreFileBatchAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient-metod. Avbryter en specifik filbatch i ett vektorlager asynkront"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/openaiclient/cancelvectorstorefilebatchasync/
 ---
-## OpenAIClient.CancelVectorStoreFileBatchAsync metod
+## OpenAIClient.CancelVectorStoreFileBatchAsync method
 
-Avbryter en specifik vektorbutik filbatch asynkront.
+Avbryter en specifik vektorlagringsfilbatch asynkront.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> CancelVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -17,8 +17,8 @@ public Task<VectorStoreFileBatchResponse> CancelVectorStoreFileBatchAsync(string
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreId | Sträng | ID:t för vektorbutiken som innehåller filbatchen som ska avbrytas. |
-| fileBatchId | Sträng | ID:t för filbatchen som ska avbrytas. |
+| vectorStoreId | String | ID för vektorlager som innehåller filbatchen som ska avbrytas. |
+| fileBatchId | String | ID för filbatchen som ska avbrytas. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
@@ -29,12 +29,14 @@ En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet inneh
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorbutikens Id är null eller tom. |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorbutikens filbatch Id är null eller tom. |
+| [AIClientException](../../aiclientexception/) | Kastas när vektorlager-ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när vector store‑filbatch‑Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

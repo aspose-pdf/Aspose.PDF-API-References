@@ -1,30 +1,30 @@
 ---
-title: PdfFileMend.PdfFileMend
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend-konstruktör. Konstruktör
+title: "PdfFileMend.PdfFileMend"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileMend konstruktor. Konstruktor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdffilemend/pdffilemend/
 ---
 ## PdfFileMend() {#constructor}
 
-Konstruktör.
+Konstruktor.
 
 ```csharp
 public PdfFileMend()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileMend](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfFileMend(Document) {#constructor_1}
 
-Initierar ett nytt [`PdfFileMend`](../) objekt baserat på *dokumentet*.
+Initierar ett nytt [`PdfFileMend`](../)-objekt baserat på *dokumentet*.
 
 ```csharp
 public PdfFileMend(Document document)
@@ -32,11 +32,13 @@ public PdfFileMend(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dokument | Dokument | Pdf-dokument. |
+| dokument | Dokument | Pdf‑dokument. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfFileMend](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

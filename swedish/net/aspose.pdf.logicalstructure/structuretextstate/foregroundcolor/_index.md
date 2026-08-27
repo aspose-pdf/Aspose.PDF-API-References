@@ -1,26 +1,28 @@
 ---
-title: StructureTextState.ForegroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState-egenskap. Hämtar eller ställer in förgrundsfärgen för texten
+title: "StructureTextState.ForegroundColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTextState-egenskap. Hämtar eller anger förgrundsfärg för texten"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.logicalstructure/structuretextstate/foregroundcolor/
 ---
-## StructureTextState.ForegroundColor-egenskap
+## StructureTextState.ForegroundColor property
 
-Hämtar eller ställer in förgrundsfärgen för texten.
+Hämtar eller anger förgrundsfärgen för texten.
 
 ```csharp
 public Color ForegroundColor { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Kan vara null. Använd null för att ärva `ForegroundColor`-egenskapen från överordnat strukturelement.
+Kan vara null. Använd null för att ärva `ForegroundColor`-egenskapen från föräldra strukturelementet.
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [StructureTextState](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

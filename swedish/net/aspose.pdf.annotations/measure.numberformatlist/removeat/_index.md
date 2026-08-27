@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormatList.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormatList metod. Tar bort nummerformat från listan
+title: "Measure.NumberFormatList.RemoveAt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NumberFormatList metod. Tar bort talformat från listan"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/measure.numberformatlist/removeat/
 ---
-## Measure.NumberFormatList.RemoveAt metod
+## Measure.NumberFormatList.RemoveAt method
 
-Tar bort nummerformat från listan.
+Tar bort talformat från listan.
 
 ```csharp
 public void RemoveAt(int index)
@@ -18,8 +18,10 @@ public void RemoveAt(int index)
 | --- | --- | --- |
 | index | Int32 | Index för objektet som ska tas bort. |
 
-### Se Även
+### Se även
 
-* klass [NumberFormatList](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [NumberFormatList](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

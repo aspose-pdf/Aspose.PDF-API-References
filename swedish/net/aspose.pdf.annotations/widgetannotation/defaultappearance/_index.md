@@ -1,22 +1,24 @@
 ---
-title: WidgetAnnotation.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation-egenskap. Hämtar eller ställer in standardutseendet för fältet
+title: "WidgetAnnotation.DefaultAppearance"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WidgetAnnotation-egenskap. Hämtar eller anger standardutseendet för fältet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/widgetannotation/defaultappearance/
 ---
-## WidgetAnnotation.DefaultAppearance-egenskap
+## WidgetAnnotation.DefaultAppearance property
 
-Hämtar eller ställer in standardutseendet för fältet.
+Hämtar eller anger standardutseende för fältet.
 
 ```csharp
 public DefaultAppearance DefaultAppearance { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DefaultAppearance](../../defaultappearance/)
-* klass [WidgetAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

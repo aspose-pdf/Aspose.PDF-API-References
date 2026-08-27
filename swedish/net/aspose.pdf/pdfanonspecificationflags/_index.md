@@ -1,14 +1,14 @@
 ---
-title: Class PdfANonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfANonSpecificationFlags klass. Denna klass innehåller flaggor för att kontrollera PDF/A-konvertering för fall när käll-PDF-dokumentet inte överensstämmer med PDF-specifikationen. Om flaggorna i denna klass används minskar det prestanda men det är nödvändigt när käll-PDF-dokumentet inte kan konverteras till PDF/A-format på vanligt sätt. Som standard är alla flaggor inställda på falskt.
+title: "Klass PdfANonSpecificationFlags"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PdfANonSpecificationFlags-klass. Denna klass innehåller flaggor för att styra PDF/A-konvertering i fall då källdokumentet PDF inte motsvarar PDF-specifikationen. Om flaggorna i denna klass används minskar prestandan men det är nödvändigt när källdokumentet PDF inte kan konverteras till PDF/A-format på vanligt sätt. Som standard är alla flaggor satta till false."
 type: docs
-weight: 8320
+weight: 8460
 url: /sv/net/aspose.pdf/pdfanonspecificationflags/
 ---
-## PdfANonSpecificationFlags klass
+## PdfANonSpecificationFlags class
 
-Denna klass innehåller flaggor för att kontrollera PDF/A-konvertering för fall när käll-PDF-dokumentet inte överensstämmer med PDF-specifikationen. Om flaggorna i denna klass används minskar det prestanda men det är nödvändigt när käll-PDF-dokumentet inte kan konverteras till PDF/A-format på vanligt sätt. Som standard är alla flaggor inställda på falskt.
+Denna klass innehåller flaggor för att styra PDF/A-konvertering för fall då källdokumentet PDF inte motsvarar PDF-specifikationen. Om flaggorna för denna klass används minskar prestandan, men det är nödvändigt när källdokumentet PDF inte kan konverteras till PDF/A-format på vanligt sätt. Som standard är alla flaggor satta till falskt.
 
 ```csharp
 public class PdfANonSpecificationFlags
@@ -18,15 +18,17 @@ public class PdfANonSpecificationFlags
 
 | Namn | Beskrivning |
 | --- | --- |
-| [PdfANonSpecificationFlags](pdfanonspecificationflags/)() | Standardkonstruktören. |
+| [PdfANonSpecificationFlags](pdfanonspecificationflags/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CheckDifferentNamesInFontDictionaries](../../aspose.pdf/pdfanonspecificationflags/checkdifferentnamesinfontdictionaries/) { get; set; } | Vissa PDF-dokument innehåller typsnitt som har olika namn i intern data. Användning av denna flagga tvingar fram speciell bearbetningslogik för fall när fälten BaseFont och FontDescriptor.FontName är olika. |
+| [CheckDifferentNamesInFontDictionaries](../../aspose.pdf/pdfanonspecificationflags/checkdifferentnamesinfontdictionaries/) { get; set; } | Vissa PDF-dokument innehåller teckensnitt som har olika namn i intern data. Användning av denna flagga tvingar specialbehandlingslogik för fall då fälten BaseFont och FontDescriptor.FontName är olika. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

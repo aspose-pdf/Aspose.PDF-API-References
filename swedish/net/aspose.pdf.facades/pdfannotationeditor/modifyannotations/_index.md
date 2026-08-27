@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor-metod. Modifierar annotationerna av den angivna typen på det angivna sidintervallet. Den stöder att modifiera följande annotationsegenskaper Modifierad, Titel, Innehåll, Färg, Ämne och Öppen
+title: "PdfAnnotationEditor.ModifyAnnotations"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAnnotationEditor-metod. Modifierar annoteringarna av den angivna typen inom det angivna sidintervallet. Den stöder att ändra följande annoteringsegenskaper: Modifierad, Titel, Innehåll, Färg, Ämne och Öppen."
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/
 ---
-## PdfAnnotationEditor.ModifyAnnotations metod
+## PdfAnnotationEditor.ModifyAnnotations method
 
-Modifierar annotationerna av den angivna typen på det angivna sidintervallet. Den stöder att modifiera följande annotationsegenskaper: Modifierad, Titel, Innehåll, Färg, Ämne och Öppen.
+Modifierar annotationerna av den angivna typen på det angivna sidintervallet. Det stöder att ändra följande annotationsegenskaper: Modified, Title, Contents, Color, Subject och Open.
 
 ```csharp
 public void ModifyAnnotations(int start, int end, Annotation annotation)
@@ -16,9 +16,9 @@ public void ModifyAnnotations(int start, int end, Annotation annotation)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| start | Int32 | Det första sidnumret. |
+| start | Int32 | Startsidans nummer. |
 | end | Int32 | Det sista sidnumret. |
-| annotation | Annotation | Annoteringen objektet innehåller nya egenskaper. |
+| annotation | Annotation | Annotation-objektet innehåller nya egenskaper. |
 
 ## Exempel
 
@@ -36,9 +36,11 @@ editor.ModifyAnnotations(1, 2, annot);
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../../aspose.pdf.annotations/annotation/)
-* klass [PdfAnnotationEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

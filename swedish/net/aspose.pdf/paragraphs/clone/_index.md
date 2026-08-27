@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs metod. Klonar ett nytt Clone-objekt
+title: "Paragraphs.Clone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Paragraphs metod. Klonar ett nytt Clone-objekt"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/paragraphs/clone/
 ---
-## Paragraphs.Clone metod
+## Paragraphs.Clone method
 
 Klonar ett nytt `Clone`-objekt.
 
@@ -18,8 +18,10 @@ public object Clone()
 
 Det nya `Clone`-objektet.
 
-### Se Även
+### Se även
 
-* klass [Paragraphs](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

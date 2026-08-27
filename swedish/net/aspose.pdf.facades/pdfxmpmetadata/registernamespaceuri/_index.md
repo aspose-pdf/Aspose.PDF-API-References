@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.RegisterNamespaceURI
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-metod. Registrerar namespace URI
+title: "PdfXmpMetadata.RegisterNamespaceURI"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata metod. Registrerar namnrymdens URI"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/registernamespaceuri/
 ---
-## PdfXmpMetadata.RegisterNamespaceURI metod
+## PdfXmpMetadata.RegisterNamespaceURI method
 
-Registrerar namespace URI.
+Registrerar namespace‑URI.
 
 ```csharp
 public void RegisterNamespaceURI(string prefix, string namespaceURI)
@@ -16,8 +16,8 @@ public void RegisterNamespaceURI(string prefix, string namespaceURI)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| prefix | Sträng | Prefixet. |
-| namespaceURI | Sträng | Namespace URI. |
+| prefix | String | Prefixet. |
+| namespaceURI | String | Namnrummets URI. |
 
 ## Exempel
 
@@ -26,8 +26,10 @@ PdfXmpMetadata xmp = new PdfXmpMetadata("input.pdf");
 xmp.RegisterNamespaceURI("xmp", "http://ns.adobe.com/xap/1.0/");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

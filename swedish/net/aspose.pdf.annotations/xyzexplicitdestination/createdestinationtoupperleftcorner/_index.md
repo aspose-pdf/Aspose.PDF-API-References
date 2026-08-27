@@ -1,14 +1,14 @@
 ---
-title: XYZExplicitDestination.CreateDestinationToUpperLeftCorner
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination-metod. Skapa destination till övre vänstra hörnet av den angivna sidan
+title: "XYZExplicitDestination.CreateDestinationToUpperLeftCorner"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XYZExplicitDestination-metod. Skapa destination till övre vänstra hörnet på den angivna sidan"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/
 ---
 ## CreateDestinationToUpperLeftCorner(Page, double) {#createdestinationtoupperleftcorner_1}
 
-Skapa destination till övre vänstra hörnet av den angivna sidan.
+Skapa destination till övre vänstra hörnet på den angivna sidan.
 
 ```csharp
 public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page, double zoom)
@@ -16,18 +16,18 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Destinationssidan. |
-| zoom | Double | Zoomfaktor. |
+| sida | Page | Destinationssida. |
+| zoom | Double | Zoom‑faktor. |
 
-### Return Value
+### Returvärde
 
-Destinationobjekt.
+Destination-objekt.
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [XYZExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -42,15 +42,17 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Destinationssidan. |
+| sida | Page | Destinationssida. |
 
-### Return Value
+### Returvärde
 
-Destinationobjekt.
+Destination-objekt.
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [XYZExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

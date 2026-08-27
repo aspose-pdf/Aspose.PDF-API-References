@@ -1,21 +1,23 @@
 ---
-title: XImageCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection-egenskap. Hämtar en array av bildnamn
+title: "XImageCollection.Names"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImageCollection egenskap. Hämtar en array av bildnamn"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/ximagecollection/names/
 ---
-## XImageCollection.Names-egenskap
+## XImageCollection.Names property
 
-Hämtar en array av bildnamn.
+Hämtar en array med bildnamn.
 
 ```csharp
 public string[] Names { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XImageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

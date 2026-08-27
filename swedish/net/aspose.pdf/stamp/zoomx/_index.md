@@ -1,21 +1,23 @@
 ---
-title: Stamp.ZoomX
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Horisontell zoomfaktor för stämpeln. Möjliggör att skala stämpeln horisontellt
+title: "Stamp.ZoomX"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp-egenskap. Horisontell zoomfaktor för stämpeln. Tillåter att skala stämpeln horisontellt"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf/stamp/zoomx/
 ---
-## Stamp.ZoomX-egenskap
+## Stamp.ZoomX property
 
-Horisontell zoomfaktor för stämpeln. Möjliggör att skala stämpeln horisontellt.
+Horisontell zoomfaktor för stämpeln. Tillåter att skala stämpeln horisontellt.
 
 ```csharp
 public double ZoomX { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

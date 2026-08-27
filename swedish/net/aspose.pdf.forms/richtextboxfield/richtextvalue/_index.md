@@ -1,21 +1,23 @@
 ---
-title: RichTextBoxField.RichTextValue
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField-egenskap. Hämtar eller ställer in rik textvärde
+title: "RichTextBoxField.RichTextValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RichTextBoxField-egenskap. Hämtar eller anger rich text‑värde"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/richtextboxfield/richtextvalue/
 ---
-## RichTextBoxField.RichTextValue-egenskap
+## RichTextBoxField.RichTextValue property
 
-Hämtar eller ställer in rik textvärde.
+Hämtar eller anger riktextvärde.
 
 ```csharp
 public string RichTextValue { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RichTextBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

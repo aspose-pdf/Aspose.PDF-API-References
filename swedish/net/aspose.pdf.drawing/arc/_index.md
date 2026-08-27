@@ -1,12 +1,12 @@
 ---
-title: Class Arc
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Arc klass. Representerar båge
+title: "Klass Arc"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Drawing.Arc klass. Representerar båg"
 type: docs
-weight: 3880
+weight: 4000
 url: /sv/net/aspose.pdf.drawing/arc/
 ---
-## Arc klass
+## Arc class
 
 Representerar båge.
 
@@ -18,19 +18,19 @@ public sealed class Arc : Shape
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Arc](arc/)(float, float, float, float, float) | Initierar en ny instans av `Arc` klassen. |
+| [Arc](arc/)(float, float, float, float, float) | Initialiserar en ny instans av klassen `Arc`. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Alpha](../../aspose.pdf.drawing/arc/alpha/) { get; set; } | Hämtar eller ställer in ett float-värde som anger startvinkeln i grader för bågen. |
-| [Beta](../../aspose.pdf.drawing/arc/beta/) { get; set; } | Hämtar eller ställer in ett float-värde som anger slutvinkeln i grader för bågen. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Hämtar eller ställer in ett [`GraphInfo`](../shape/graphinfo/) objekt som anger grafinformation, såsom färg, linjebredd, etc. |
-| [PosX](../../aspose.pdf.drawing/arc/posx/) { get; set; } | Hämtar eller ställer in ett float-värde som anger x-koordinaten för centrum av bågen. |
-| [PosY](../../aspose.pdf.drawing/arc/posy/) { get; set; } | Hämtar eller ställer in ett float-värde som anger y-koordinaten för centrum av bågen. |
-| [Radius](../../aspose.pdf.drawing/arc/radius/) { get; set; } | Hämtar eller ställer in ett float-värde som anger radien för bågen. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Hämtar eller ställer in en text för formen |
+| [Alpha](../../aspose.pdf.drawing/arc/alpha/) { get; set; } | Hämtar eller anger ett flyttal som indikerar startvinkeln i grader för bågen. |
+| [Beta](../../aspose.pdf.drawing/arc/beta/) { get; set; } | Hämtar eller anger ett flyttal som indikerar slutvinkeln i grader för bågen. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Hämtar eller anger ett [`GraphInfo`](../shape/graphinfo/)‑objekt som indikerar grafinformationen, såsom färg, linjebredd, etc. |
+| [PosX](../../aspose.pdf.drawing/arc/posx/) { get; set; } | Hämtar eller anger ett flyttal som indikerar x‑koordinaten för centrum av bågen. |
+| [PosY](../../aspose.pdf.drawing/arc/posy/) { get; set; } | Hämtar eller anger ett flyttal som indikerar y‑koordinaten för centrum av bågen. |
+| [Radius](../../aspose.pdf.drawing/arc/radius/) { get; set; } | Hämtar eller anger ett flyttal som indikerar radien för bågen. |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Hämtar eller anger en text för formen |
 
 ## Metoder
 
@@ -38,8 +38,10 @@ public sealed class Arc : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/arc/checkbounds/)(double, double) |  |
 
-### Se Även
+### Se även
 
-* klass [Shape](../shape/)
-* namnrymd [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

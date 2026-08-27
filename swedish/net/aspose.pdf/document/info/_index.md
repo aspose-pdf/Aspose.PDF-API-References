@@ -1,12 +1,12 @@
 ---
-title: Document.Info
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar dokumentinformation
+title: "Document.Info"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document egenskap. Hämtar dokumentinformation."
 type: docs
-weight: 280
+weight: 300
 url: /sv/net/aspose.pdf/document/info/
 ---
-## Document.Info-egenskap
+## Document.Info property
 
 Hämtar dokumentinformation.
 
@@ -14,9 +14,11 @@ Hämtar dokumentinformation.
 public DocumentInfo Info { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../../documentinfo/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentInfo](../../documentinfo/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Skapar en ny vektorbutik filbatch asynkront
+title: "OpenAIClient.CreateVectorStoreFileBatchAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient metod. Skapar en ny vektorbutiksfilbatch asynkront"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.ai/openaiclient/createvectorstorefilebatchasync/
 ---
-## OpenAIClient.CreateVectorStoreFileBatchAsync metod
+## OpenAIClient.CreateVectorStoreFileBatchAsync method
 
-Skapar en ny vektorbutik filbatch asynkront.
+Skapar en ny batch av vektorlagerfiler asynkront.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -18,24 +18,26 @@ public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreId | Sträng | ID:t för vektorbutiken där filbatchen kommer att skapas. |
-| vectorStoreFileCreateRequest | VectorStoreFileBatchCreateRequest | Begärningsobjektet som innehåller detaljer för att skapa filbatchen. |
+| vectorStoreId | String | ID:t för vektorbutiken där filbatchen kommer att skapas. |
+| vectorStoreFileCreateRequest | VectorStoreFileBatchCreateRequest | Begäranobjektet som innehåller detaljer för att skapa filbatchen. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från filbatchskapandet.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från skapandet av filbatchen.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorbutikens Id är null eller tom. |
+| [AIClientException](../../aiclientexception/) | Kastas när vektorlager-ID är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* klass [VectorStoreFileBatchCreateRequest](../../vectorstorefilebatchcreaterequest/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [VectorStoreFileBatchCreateRequest](../../vectorstorefilebatchcreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

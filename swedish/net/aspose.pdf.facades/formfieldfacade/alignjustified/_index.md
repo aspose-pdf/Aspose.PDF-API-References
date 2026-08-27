@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.AlignJustified
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar textjusteringsstil
+title: "FormFieldFacade.AlignJustified"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade fält. Definierar textjusteringens stil"
 type: docs
 weight: 230
 url: /sv/net/aspose.pdf.facades/formfieldfacade/alignjustified/
 ---
-## FormFieldFacade.AlignJustified fält
+## FormFieldFacade.AlignJustified field
 
 Definierar textjusteringsstil.
 
@@ -14,8 +14,10 @@ Definierar textjusteringsstil.
 public const int AlignJustified;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

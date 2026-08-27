@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.ExtractCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-metod. Extraherar signaturens enskilda X.509-certifikat som en ström
+title: "PdfFileSignature.ExtractCertificate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature‑metod. Extraherar signaturens enkla X.509‑certifikat som en ström."
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.facades/pdffilesignature/extractcertificate/
 ---
-## PdfFileSignature.ExtractCertificate metod
+## PdfFileSignature.ExtractCertificate method
 
-Extraherar signaturens enskilda X.509-certifikat som en ström.
+Extraherar signaturens enda X.509-certifikat som en ström.
 
 ```csharp
 public Stream ExtractCertificate(SignatureName signName)
@@ -20,11 +20,13 @@ public Stream ExtractCertificate(SignatureName signName)
 
 ### Returvärde
 
-Om certifikatet hittades returneras X.509 enskilt certifikat; annars, null.
+Om ett certifikat hittas returneras X.509‑certifikatet; annars null.
 
-### Se Även
+### Se även
 
-* klass [SignatureName](../../signaturename/)
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

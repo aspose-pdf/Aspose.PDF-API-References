@@ -1,14 +1,14 @@
 ---
-title: XmpValue.XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-konstruktör. Konstruktör för strängvärde
+title: "XmpValue.XmpValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue konstruktor. Konstruktor för strängvärde"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/xmpvalue/xmpvalue/
 ---
 ## XmpValue(string) {#constructor_4}
 
-Konstruktör för strängvärde.
+Konstruktor för strängvärde.
 
 ```csharp
 public XmpValue(string value)
@@ -16,19 +16,19 @@ public XmpValue(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | String | Strängvärde. |
+| värde | String | Strängvärde. |
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(int) {#constructor_2}
 
-Konstruktör för heltalsvärde.
+Konstruktor för heltalsvärde.
 
 ```csharp
 public XmpValue(int value)
@@ -36,19 +36,19 @@ public XmpValue(int value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Int32 | Heltalsvärde. |
+| värde | Int32 | Heltal‑värde. |
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(double) {#constructor_1}
 
-Konstruktör för flyttalvärde.
+Konstruktor för flyttalvärde.
 
 ```csharp
 public XmpValue(double value)
@@ -56,19 +56,19 @@ public XmpValue(double value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Double | Dubbelvärde. |
+| värde | Double | Double‑värde. |
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(DateTime) {#constructor_3}
 
-Konstruktör för datum- och tidsvärde.
+Konstruktor för datum/tidsvärde.
 
 ```csharp
 public XmpValue(DateTime value)
@@ -76,19 +76,19 @@ public XmpValue(DateTime value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | DateTime | Datum- och tidsvärde. |
+| värde | DateTime | Datum‑tid‑värde. |
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(XmpValue[]) {#constructor}
 
-Konstruktör för arrayvärde.
+Konstruktor för arrayvärde.
 
 ```csharp
 public XmpValue(XmpValue[] array)
@@ -96,10 +96,12 @@ public XmpValue(XmpValue[] array)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| array | XmpValue[] | Arrayvärde. |
+| array | XmpValue[] | Array‑värde. |
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

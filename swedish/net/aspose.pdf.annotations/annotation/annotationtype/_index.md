@@ -1,12 +1,12 @@
 ---
-title: Annotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-egenskap. Hämtar typ av annotation
+title: "Annotation.AnnotationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation-egenskap. Hämtar typen av annotering"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/annotation/annotationtype/
 ---
-## Annotation.AnnotationType-egenskap
+## Annotation.AnnotationType property
 
 Hämtar typ av annotation.
 
@@ -14,9 +14,11 @@ Hämtar typ av annotation.
 public abstract AnnotationType AnnotationType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../annotationtype/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

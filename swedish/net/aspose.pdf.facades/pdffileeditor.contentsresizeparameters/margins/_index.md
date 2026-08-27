@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters-metod. Skapar storleksändringsparametrar med angivet marginalvärde. Innehållets storlek beräknas automatiskt
+title: "PdfFileEditor.ContentsResizeParameters.Margins"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metoden ContentsResizeParameters. Skapar storleksändringsparametrar med angivet marginalvärde. Innehållsstorleken beräknas automatiskt"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins/
 ---
-## PdfFileEditor.ContentsResizeParameters.Margins metod
+## PdfFileEditor.ContentsResizeParameters.Margins method
 
-Skapar storleksändringsparametrar med angivet marginalvärde. Innehållets storlek beräknas automatiskt.
+Skapar ändringsparametrar med specificerade marginalvärden. Innehållsstorleken beräknas automatiskt.
 
 ```csharp
 public static ContentsResizeParameters Margins(double left, double right, double top, double bottom)
@@ -17,16 +17,18 @@ public static ContentsResizeParameters Margins(double left, double right, double
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | left | Double | Vänster marginal. |
-| right | Double | Höger marginal. |
-| top | Double | Övre marginal. |
+| höger | Double | Höger marginal. |
+| övre | Double | Övre marginal. |
 | bottom | Double | Nedre marginal. |
 
 ### Returvärde
 
 Skapade storleksändringsparametrar.
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeParameters](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

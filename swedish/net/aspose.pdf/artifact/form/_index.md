@@ -1,12 +1,12 @@
 ---
-title: Artifact.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-egenskap. Hämtar XForm för artefakten om XForm används
+title: "Artifact.Form"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact egenskap. Hämtar XForm för artefakten om XForm används"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/artifact/form/
 ---
-## Artifact.Form-egenskap
+## Artifact.Form property
 
 Hämtar XForm för artefakten (om XForm används).
 
@@ -14,9 +14,11 @@ Hämtar XForm för artefakten (om XForm används).
 public XForm Form { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XForm](../../xform/)
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [XForm](../../xform/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

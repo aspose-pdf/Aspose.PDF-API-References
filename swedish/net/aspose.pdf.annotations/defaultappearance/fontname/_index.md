@@ -1,12 +1,12 @@
 ---
-title: DefaultAppearance.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance-egenskap. Hämtar teckensnittets namn i standardutseendet
+title: "DefaultAppearance.FontName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DefaultAppearance-egenskap. Hämtar teckensnittets namn i standardutseendet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/defaultappearance/fontname/
 ---
-## DefaultAppearance.FontName-egenskap
+## DefaultAppearance.FontName property
 
 Hämtar teckensnittets namn i standardutseendet.
 
@@ -14,8 +14,10 @@ Hämtar teckensnittets namn i standardutseendet.
 public string FontName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DefaultAppearance](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

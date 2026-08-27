@@ -1,21 +1,23 @@
 ---
-title: Arc.Radius
-second_title: Aspose.PDF for .NET API Reference
-description: Arc-egenskap. Hämtar eller ställer in ett flyttal som anger radien för bågen
+title: "Arc.Radius"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Arc-egenskap. Hämtar eller anger ett flyttal som indikerar radien för arcens"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.drawing/arc/radius/
 ---
-## Arc.Radius-egenskap
+## Arc.Radius property
 
-Hämtar eller ställer in ett flyttal som anger radien för bågen.
+Hämtar eller anger ett flyttal som indikerar radien för bågen.
 
 ```csharp
 public double Radius { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Arc](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

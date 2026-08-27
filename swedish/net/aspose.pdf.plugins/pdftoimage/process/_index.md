@@ -1,12 +1,12 @@
 ---
-title: PdfToImage.Process
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImage-metod. Startar bearbetning med de angivna parametrarna
+title: "PdfToImage.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfToImage-metoden. Startar bearbetning med de angivna parametrarna"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/pdftoimage/process/
 ---
-## PdfToImage.Process metod
+## PdfToImage.Process method
 
 Startar bearbetning med de angivna parametrarna.
 
@@ -16,16 +16,18 @@ public ResultContainer Process(IPluginOptions pdfImageOptions)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pdfImageOptions | IPluginOptions | Ett optionsobjekt som innehåller instruktioner för PdfImage. |
+| pdfImageOptions | IPluginOptions | Ett alternativobjekt som innehåller instruktioner för PdfImage. |
 
 ### Returvärde
 
 Ett ResultContainer-objekt som innehåller resultatet av konverteringen.
 
-### Se Även
+### Se även
 
-* klass [ResultContainer](../../resultcontainer/)
-* gränssnitt [IPluginOptions](../../ipluginoptions/)
-* klass [PdfToImage](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [PdfToImage](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

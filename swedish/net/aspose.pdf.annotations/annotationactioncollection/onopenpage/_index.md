@@ -1,22 +1,24 @@
 ---
-title: AnnotationActionCollection.OnOpenPage
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection-egenskap. Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller annoteringen öppnas
+title: "AnnotationActionCollection.OnOpenPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationActionCollection egenskap. Hämtar eller anger en åtgärd som ska utföras när sidan som innehåller annotationen öppnas"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.annotations/annotationactioncollection/onopenpage/
 ---
-## AnnotationActionCollection.OnOpenPage-egenskap
+## AnnotationActionCollection.OnOpenPage property
 
-Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller annoteringen öppnas.
+Hämtar eller anger en åtgärd som ska utföras när sidan som innehåller annoteringen öppnas.
 
 ```csharp
 public PdfAction OnOpenPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [AnnotationActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PageNumber.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageNumberPageIndex klass. Representerar sidindexkomponenten i sidnummerformatet
+title: "Klass PageNumber.PageIndex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PageNumberPageIndex-klass. Representerar sidindexkomponenten i sidnumreringsformatet"
 type: docs
-weight: 8210
+weight: 8350
 url: /sv/net/aspose.pdf/pagenumber.pageindex/
 ---
-## PageNumber.PageIndex klass
+## PageNumber.PageIndex class
 
-Representerar sidindexkomponenten i sidnummerformatet.
+Representerar sidindexkomponenten i sidnumreringsformatet.
 
 ```csharp
 public sealed class PageIndex
@@ -20,8 +20,10 @@ public sealed class PageIndex
 | --- | --- |
 | [PageIndex](../../aspose.pdf/pagenumber.pageindex/.ctor)() | Standardkonstruktorn. |
 
-### Se Även
+### Se även
 
-* klass [PageNumber](../pagenumber/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [PageNumber](../pagenumber/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

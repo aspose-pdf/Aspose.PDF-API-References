@@ -1,21 +1,23 @@
 ---
-title: Artifact.Lines
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-egenskap. Rader av flerlinjig textartifact
+title: "Artifact.Lines"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact egenskap. Rader i flerradig textartefakt"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/artifact/lines/
 ---
-## Artifact.Lines-egenskap
+## Artifact.Lines property
 
-Rader av flerlinjig textartifact.
+Rader i flerradig textartefakt.
 
 ```csharp
 public List<string> Lines { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

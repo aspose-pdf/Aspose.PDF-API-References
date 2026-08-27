@@ -1,21 +1,23 @@
 ---
-title: LevelFormat.SubsequentLinesIndent
-second_title: Aspose.PDF for .NET API Reference
-description: LevelFormat-egenskap. Hämtar eller ställer in en indragning för efterföljande rader
+title: "**LevelFormat.SubsequentLinesIndent**"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "**LevelFormat** egenskap. Hämtar eller anger indrag för efterföljande rader."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/levelformat/subsequentlinesindent/
 ---
-## LevelFormat.SubsequentLinesIndent-egenskap
+## LevelFormat.SubsequentLinesIndent property
 
-Hämtar eller ställer in en indragning för efterföljande rader
+Hämtar eller anger indrag för efterföljande rader
 
 ```csharp
 public float SubsequentLinesIndent { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LevelFormat](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [LevelFormat](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

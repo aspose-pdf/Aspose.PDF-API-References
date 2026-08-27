@@ -1,21 +1,23 @@
 ---
-title: PdfANonSpecificationFlags.CheckDifferentNamesInFontDictionaries
-second_title: Aspose.PDF for .NET API Reference
-description: PdfANonSpecificationFlags-egenskap. Vissa PDF-dokument innehåller typsnitt som har olika namn i intern data. Användning av denna flagga tvingar fram speciell bearbetningslogik för fall när fälten BaseFont och FontDescriptor.FontName är olika
+title: "PdfANonSpecificationFlags.CheckDifferentNamesInFontDictionaries"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfANonSpecificationFlags-egenskap. Vissa PDF-dokument innehåller teckensnitt som har olika namn i intern data. Användning av detta flagg tvingar fram särskild bearbetningslogik för fall då fälten BaseFont och FontDescriptor.FontName är olika"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pdfanonspecificationflags/checkdifferentnamesinfontdictionaries/
 ---
-## PdfANonSpecificationFlags.CheckDifferentNamesInFontDictionaries-egenskap
+## PdfANonSpecificationFlags.CheckDifferentNamesInFontDictionaries property
 
-Vissa PDF-dokument innehåller typsnitt som har olika namn i intern data. Användning av denna flagga tvingar fram speciell bearbetningslogik för fall när fälten BaseFont och FontDescriptor.FontName är olika.
+Vissa PDF-dokument innehåller teckensnitt som har olika namn i intern data. Användning av denna flagga tvingar specialbehandlingslogik för fall då fälten BaseFont och FontDescriptor.FontName är olika.
 
 ```csharp
 public bool CheckDifferentNamesInFontDictionaries { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfANonSpecificationFlags](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PdfANonSpecificationFlags](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

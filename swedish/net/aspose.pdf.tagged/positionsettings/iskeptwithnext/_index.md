@@ -1,21 +1,23 @@
 ---
-title: PositionSettings.IsKeptWithNext
-second_title: Aspose.PDF for .NET API Reference
-description: PositionSettings-egenskap. Hämtar eller ställer in ett bool-värde som indikerar om den aktuella paragrafen förblir på samma sida tillsammans med nästa paragraf. Standard är false
+title: "PositionSettings.IsKeptWithNext"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PositionSettings egenskap. Hämtar eller anger ett bool-värde som indikerar om aktuellt stycke förblir på samma sida tillsammans med nästa stycke. Standard är falskt"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.tagged/positionsettings/iskeptwithnext/
 ---
-## PositionSettings.IsKeptWithNext-egenskap
+## PositionSettings.IsKeptWithNext property
 
-Hämtar eller ställer in ett bool-värde som indikerar om den aktuella paragrafen förblir på samma sida tillsammans med nästa paragraf. Standard är false.
+Hämtar eller anger ett booleskt värde som visar om aktuellt stycke förblir på samma sida tillsammans med nästa stycke. Standardvärdet är falskt.
 
 ```csharp
 public bool IsKeptWithNext { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PositionSettings](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PositionSettings](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

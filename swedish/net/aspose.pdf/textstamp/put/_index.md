@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-metod. Lägger till textstämplar på sidan
+title: "TextStamp.Put"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp-metod. Lägger till en textstämpel på sidan"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf/textstamp/put/
 ---
-## TextStamp.Put metod
+## TextStamp.Put method
 
-Lägger till textstämplar på sidan.
+Lägger till en textstämpel på sidan.
 
 ```csharp
 public override void Put(Page page)
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sida för stämpling. |
+| sida | Page | Sida för stämpling. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

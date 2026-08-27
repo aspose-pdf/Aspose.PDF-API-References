@@ -1,14 +1,14 @@
 ---
-title: FormExporter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: FormExporter-metod. Startar FormExporter-behandlingen med de angivna parametrarna
+title: "FormExporter.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormExporter-metod. Startar FormExporter-behandlingen med de angivna parametrarna"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/formexporter/process/
 ---
-## FormExporter.Process metod
+## FormExporter.Process method
 
-Startar FormExporter-behandlingen med de angivna parametrarna.
+Startar FormExporter‑bearbetningen med de angivna parametrarna.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | IPluginOptions | Ett options-objekt som innehåller instruktioner för FormExporter. |
+| options | IPluginOptions | Ett alternativobjekt som innehåller instruktioner för FormExporter. |
 
 ### Returvärde
 
@@ -26,12 +26,14 @@ Ett ResultContainer-objekt som innehåller resultatet av operationen.
 
 | undantag | villkor |
 | --- | --- |
-| ArgumentException | Om options inte är korrekt. |
+| ArgumentException | Om alternativen är felaktiga. |
 
-### Se Även
+### Se även
 
-* klass [ResultContainer](../../resultcontainer/)
-* gränssnitt [IPluginOptions](../../ipluginoptions/)
-* klass [FormExporter](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [FormExporter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

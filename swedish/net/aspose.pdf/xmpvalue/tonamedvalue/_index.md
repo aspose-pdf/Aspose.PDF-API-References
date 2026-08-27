@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToNamedValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-metod. Returnerar XMP-värde som namngivet värde
+title: "XmpValue.ToNamedValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue metod. Returnerar XMP‑värde som namngivet värde"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf/xmpvalue/tonamedvalue/
 ---
-## XmpValue.ToNamedValue metod
+## XmpValue.ToNamedValue method
 
-Returnerar XMP-värde som namngivet värde.
+Returnerar XMP‑värde som namngivet värde.
 
 ```csharp
 public KeyValuePair<string, XmpValue> ToNamedValue()
@@ -18,8 +18,10 @@ public KeyValuePair<string, XmpValue> ToNamedValue()
 
 Namngivet värde.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

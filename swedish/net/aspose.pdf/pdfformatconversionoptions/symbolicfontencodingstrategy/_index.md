@@ -1,22 +1,24 @@
 ---
-title: PdfFormatConversionOptions.SymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions egenskap. Strategi för att kopiera kodningsdata för symboliska typsnitt om symboliskt TrueType-typsnitt har mer än en kodningssubtabell
+title: "PdfFormatConversionOptions.SymbolicFontEncodingStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFormatConversionOptions-egenskap. Strategi för att kopiera kodningsdata för symboliska teckensnitt om ett symboliskt TrueType-teckensnitt har mer än en kodningstabell."
 type: docs
-weight: 200
+weight: 210
 url: /sv/net/aspose.pdf/pdfformatconversionoptions/symbolicfontencodingstrategy/
 ---
-## PdfFormatConversionOptions.SymbolicFontEncodingStrategy egenskap
+## PdfFormatConversionOptions.SymbolicFontEncodingStrategy property
 
-Strategi för att kopiera kodningsdata för symboliska typsnitt om symboliskt TrueType-typsnitt har mer än en kodningssubtabell.
+Strategi för att kopiera kodningsdata för symboliska teckensnitt om ett symboliskt TrueType font har mer än en kodningstabell.
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfASymbolicFontEncodingStrategy](../../pdfasymbolicfontencodingstrategy/)
-* klass [PdfFormatConversionOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PdfASymbolicFontEncodingStrategy](../../pdfasymbolicfontencodingstrategy/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,30 +1,32 @@
 ---
-title: PdfAOptionsBase.SymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase-egenskap. Hämtar eller ställer in strategin för kodning av symboliska typsnitt vid konvertering till PDF/A-format
+title: "PdfAOptionsBase.SymbolicFontEncodingStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAOptionsBase-egenskap. Hämtar eller anger strategin för kodning av symboliska teckensnitt vid konvertering till PDF/A-format."
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.plugins/pdfaoptionsbase/symbolicfontencodingstrategy/
 ---
-## PdfAOptionsBase.SymbolicFontEncodingStrategy-egenskap
+## PdfAOptionsBase.SymbolicFontEncodingStrategy property
 
-Hämtar eller ställer in strategin för kodning av symboliska typsnitt vid konvertering till PDF/A-format.
+Hämtar eller anger strategin för kodning av symbolteckensnitt vid konvertering till PDF/A‑format.
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Den symboliska typsnittskodningsstrategin.
+Strategin för kodning av symboliska teckensnitt.
 
-## Kommentarer
+## Anmärkningar
 
-Denna egenskap gör att du kan kontrollera vilken CMap-subtabell som skulle kopieras till resultatdokumentet i fall där det ursprungliga TrueType-symboliska typsnittet i källdokumentet innehåller flera CMap-subtabeller.
+Denna egenskap låter dig kontrollera vilken CMap-subtabell som ska kopieras till resultatsdokumentet när det ursprungliga TrueType-symbolteckensnittet i källdokumentet innehåller flera CMap-subtabeller.
 
-### Se Även
+### Se även
 
-* klass [PdfASymbolicFontEncodingStrategy](../../../aspose.pdf/pdfasymbolicfontencodingstrategy/)
-* klass [PdfAOptionsBase](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfASymbolicFontEncodingStrategy](../../../aspose.pdf/pdfasymbolicfontencodingstrategy/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FormTextBoxFieldSetOptions.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldSetOptions-egenskap. Hämtar/anger värdet för att bestämma egenskapen Stavningskontroll för modifierat fält om det kommer att ställas in.
+title: "FormTextBoxFieldSetOptions.SpellCheck"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormTextBoxFieldSetOptions-egenskap. Hämtar/sätter värdet för att bestämma egenskapen SpellCheck för modifierat fält om den ska sättas"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.plugins/formtextboxfieldsetoptions/spellcheck/
 ---
-## FormTextBoxFieldSetOptions.Stavningskontroll-egenskap
+## FormTextBoxFieldSetOptions.SpellCheck property
 
-Hämtar/anger värdet för att bestämma egenskapen Stavningskontroll för modifierat fält (om det kommer att ställas in).
+Hämtar/sätter värdet för att bestämma egenskapen SpellCheck för modifierat fält (om den ska sättas).
 
 ```csharp
 public bool? SpellCheck { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormTextBoxFieldSetOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [FormTextBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

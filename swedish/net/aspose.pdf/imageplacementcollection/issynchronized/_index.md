@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection-egenskap. Hämtar ett värde som indikerar om åtkomst till samlingen är synkroniserad trådsäker
+title: "ImagePlacementCollection.IsSynchronized"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacementCollection egenskap. Hämtar ett värde som indikerar om åtkomst till samlingen är synkroniserad trådsäker"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/imageplacementcollection/issynchronized/
 ---
-## ImagePlacementCollection.IsSynchronized-egenskap
+## ImagePlacementCollection.IsSynchronized property
 
 Hämtar ett värde som indikerar om åtkomst till samlingen är synkroniserad (trådsäker).
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om åtkomst till samlingen är synkroniserad (t
 public bool IsSynchronized { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImagePlacementCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

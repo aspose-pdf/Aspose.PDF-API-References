@@ -1,14 +1,14 @@
 ---
-title: Class CollectionItem.ValueT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CollectionItemValue1T klass. Representerar en klass för ett värde av samlingsobjekt
+title: "Klass CollectionItem.ValueT"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.CollectionItemValue1T-klass. Representerar en klass för ett värde av ett samlingsobjekt"
 type: docs
-weight: 3060
+weight: 3170
 url: /sv/net/aspose.pdf/collectionitem.value-1/
 ---
-## CollectionItem.Value&lt;T&gt; klass
+## CollectionItem.Value&lt;T&gt; class
 
-Representerar en klass för ett värde av samlingsobjekt.
+Representerar en klass för ett värde av ett samlingsobjekt.
 
 ```csharp
 public class Value<T>
@@ -22,11 +22,13 @@ public class Value<T>
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Data](../../aspose.pdf/collectionitem.value-1/data) { get; } | Hämtar ett värde av samlingsobjekt. |
-| [Prefix](../../aspose.pdf/collectionitem.value-1/prefix) { get; } | Hämtar en prefixsträng som ska sammanfogas med textsträngen som presenteras för användaren. Denna post ignoreras när en interaktiv PDF-processor sorterar objekten i samlingen. Standard: ingen |
+| [Data](../../aspose.pdf/collectionitem.value-1/data) { get; } | Hämtar ett värde för en samlingspost. |
+| [Prefix](../../aspose.pdf/collectionitem.value-1/prefix) { get; } | Hämtar en prefixsträng som ska konkateneras med textsträngen som visas för användaren. Detta element ignoreras när en interaktiv PDF‑processor sorterar posterna i samlingen. Standard: ingen |
 
-### Se Även
+### Se även
 
-* klass [CollectionItem](../collectionitem/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [CollectionItem](../collectionitem/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

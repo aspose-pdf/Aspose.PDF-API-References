@@ -1,12 +1,12 @@
 ---
-title: Enum FieldValueType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FieldValueType enum. Representerar typen av ett fältvärde i en schemakollektion
+title: "Enum FieldValueType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.FieldValueType enum. Representerar typen av ett fältvärde i en schemasamling"
 type: docs
-weight: 4810
+weight: 4930
 url: /sv/net/aspose.pdf/fieldvaluetype/
 ---
-## FieldValueType-uppräkning
+## FieldValueType enumeration
 
 Representerar typen av ett fältvärde i en schemakollektion.
 
@@ -18,12 +18,14 @@ public enum FieldValueType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Ingen | `0` | Representerar ett värde för icke definierad typ. |
+| None | `0` | Representerar ett värde för odefinierad typ. |
 | Text | `1` | Representerar en texttyp. |
-| Nummer | `2` | Representerar en numret. |
-| Datum | `3` | Representerar en datatyp. |
+| Number | `2` | Representerar en numerisk typ. |
+| Date | `3` | Representerar en datumtyp. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

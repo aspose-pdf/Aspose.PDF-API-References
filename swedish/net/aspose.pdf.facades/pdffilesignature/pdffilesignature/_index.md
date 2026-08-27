@@ -1,7 +1,7 @@
 ---
-title: PdfFileSignature.PdfFileSignature
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-konstruktorn. Konstruktorn för PdfFileSignature-klassen
+title: "PdfFileSignature.PdfFileSignature"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature konstruktor. Konstruktorn för klassen PdfFileSignature"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdffilesignature/pdffilesignature/
@@ -14,17 +14,17 @@ Konstruktorn för PdfFileSignature-klassen.
 public PdfFileSignature()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfFileSignature(Document) {#constructor_1}
 
-Initierar ett nytt [`PdfFileSignature`](../) objekt baserat på *dokumentet*.
+Initierar ett nytt [`PdfFileSignature`](../) objekt på basen av *dokumentet*.
 
 ```csharp
 public PdfFileSignature(Document document)
@@ -32,11 +32,13 @@ public PdfFileSignature(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dokument | Dokument | Pdf-dokument. |
+| dokument | Dokument | Pdf‑dokument. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

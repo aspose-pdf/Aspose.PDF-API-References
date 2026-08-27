@@ -1,12 +1,12 @@
 ---
-title: KeyedSignatureAlgorithmInfo.KeySize
-second_title: Aspose.PDF for .NET API Reference
-description: KeyedSignatureAlgorithmInfo-fält. Hämtar storleken på den kryptografiska nyckeln som används av signaturalgoritmen
+title: "KeyedSignatureAlgorithmInfo.KeySize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "KeyedSignatureAlgorithmInfo-fält. Hämtar storleken på den kryptografiska nyckeln som används av signaturalgoritmen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.security/keyedsignaturealgorithminfo/keysize/
 ---
-## KeyedSignatureAlgorithmInfo.KeySize-fält
+## KeyedSignatureAlgorithmInfo.KeySize field
 
 Hämtar storleken på den kryptografiska nyckeln som används av signaturalgoritmen.
 
@@ -14,8 +14,10 @@ Hämtar storleken på den kryptografiska nyckeln som används av signaturalgorit
 public readonly int KeySize;
 ```
 
-### Se Även
+### Se även
 
-* klass [KeyedSignatureAlgorithmInfo](../)
-* namnrymd [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* samling [Aspose.PDF](../../../)
+* class [KeyedSignatureAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

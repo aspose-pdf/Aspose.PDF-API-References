@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPdfVersion
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-metod. Hämtar versionsinformationen för PDF-dokument
+title: "PdfFileInfo.GetPdfVersion"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo metod. Hämtar versionsinformationen för PDF-dokument"
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf.facades/pdffileinfo/getpdfversion/
 ---
-## PdfFileInfo.GetPdfVersion metod
+## PdfFileInfo.GetPdfVersion method
 
-Hämtar versionsinformationen för PDF-dokument.
+Hämtar versionsinformationen för PDF-dokumentet.
 
 ```csharp
 public string GetPdfVersion()
@@ -18,8 +18,10 @@ public string GetPdfVersion()
 
 Versionssträngen.
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

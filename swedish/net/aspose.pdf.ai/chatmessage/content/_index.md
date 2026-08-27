@@ -1,21 +1,24 @@
 ---
-title: ChatMessage.Content
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage-egenskap. Hämtar eller ställer in innehållet i meddelandet
+title: "ChatMessage.Content"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ChatMessage-egenskap. Hämtar eller anger innehållet i meddelandet"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/chatmessage/content/
 ---
-## ChatMessage.Content-egenskap
+## ChatMessage.Content property
 
-Hämtar eller ställer in innehållet i meddelandet.
+Hämtar eller anger innehållet i meddelandet.
 
 ```csharp
-public string Content { get; set; }
+public List<MessageContentRequest> Content { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ChatMessage](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [MessageContentRequest](../../messagecontentrequest/)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

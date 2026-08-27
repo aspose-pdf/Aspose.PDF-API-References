@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.TextParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph-konstruktorn. Standardkonstruktorn
+title: "TextParagraph.TextParagraph"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextParagraph konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/textparagraph/textparagraph/
 ---
-## TextParagraph-konstruktorn
+## TextParagraph constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public TextParagraph()
 ```
 
-### Se Även
+### Se även
 
-* klass [TextParagraph](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TableGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.TableGenerator klass. Representerar Aspose.PDF TableGenerator-plugin
+title: "Klass TableGenerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.TableGenerator-klass. Representerar Aspose.PDF TableGenerator-plugin."
 type: docs
-weight: 9350
+weight: 9500
 url: /sv/net/aspose.pdf.plugins/tablegenerator/
 ---
-## TableGenerator klass
+## TableGenerator class
 
-Representerar Aspose.PDF TableGenerator-plugin.
+Representerar Aspose.PDF TableGenerator‑plugin.
 
 ```csharp
 public sealed class TableGenerator : IDisposable, IPlugin
@@ -18,35 +18,37 @@ public sealed class TableGenerator : IDisposable, IPlugin
 
 | Namn | Beskrivning |
 | --- | --- |
-| [TableGenerator](tablegenerator/)() | Standardkonstruktören. |
+| [TableGenerator](tablegenerator/)() | Standardkonstruktorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | [Dispose](../../aspose.pdf.plugins/tablegenerator/dispose/)() | Implementering av IDisposable. Faktum är att det inte är nödvändigt för TableGenerator. |
-| [Process](../../aspose.pdf.plugins/tablegenerator/process/)(IPluginOptions) | Startar PdfGenerator-behandlingen med de angivna parametrarna. |
+| [Process](../../aspose.pdf.plugins/tablegenerator/process/)(IPluginOptions) | Startar PdfGenerator-bearbetningen med de angivna parametrarna. |
 
 ## Exempel
 
 Exemplet visar hur man lägger till en tabell i PDF-filen.
 
 ```csharp
-// create TableGenerator
+// skapa TableGenerator
 var generator = new TableGenerator();
-// create TableOptions object to set instructions
+// skapa TableOptions-objekt för att ange instruktioner
 var opt = new TableOptions();
-// add input file paths
+// lägg till indatafilvägar
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// ange utdatafilens sökväg
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// utför extraktionsprocessen
 generator.Process(opt);
 ```
 
-### Se Även
+### Se även
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

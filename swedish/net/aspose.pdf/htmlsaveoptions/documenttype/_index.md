@@ -1,26 +1,28 @@
 ---
-title: HtmlSaveOptions.DocumentType
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Hämtar eller ställer in HtmlDocumentType
+title: "HtmlSaveOptions.DocumentType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-egenskap. Hämtar eller anger HtmlDocumentType."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/htmlsaveoptions/documenttype/
 ---
-## HtmlSaveOptions.DocumentType-egenskap
+## HtmlSaveOptions.DocumentType property
 
-Hämtar eller ställer in den [`HtmlDocumentType`](../../htmldocumenttype/).
+Hämtar eller anger [`HtmlDocumentType`](../../htmldocumenttype/).
 
 ```csharp
 public HtmlDocumentType DocumentType { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Den [`HtmlDocumentType`](../../htmldocumenttype/).
 
-### Se Även
+### Se även
 
 * enum [HtmlDocumentType](../../htmldocumenttype/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

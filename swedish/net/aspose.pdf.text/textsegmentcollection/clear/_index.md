@@ -1,12 +1,12 @@
 ---
-title: TextSegmentCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection method. Clears all items from the collection
+title: "TextSegmentCollection.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSegmentCollection-metoden. Rensar alla objekt från samlingen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/textsegmentcollection/clear/
 ---
-## TextSegmentCollection.Clear metod
+## TextSegmentCollection.Clear method
 
 Rensar alla objekt från samlingen.
 
@@ -14,8 +14,10 @@ Rensar alla objekt från samlingen.
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [TextSegmentCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

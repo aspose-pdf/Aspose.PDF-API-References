@@ -1,12 +1,12 @@
 ---
-title: IncompleteDetails.IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: IncompleteDetails-konstruktorn. Standardkonstruktorn
+title: "IncompleteDetails.IncompleteDetails"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IncompleteDetails konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/incompletedetails/incompletedetails/
 ---
-## IncompleteDetails-konstruktorn
+## IncompleteDetails constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public IncompleteDetails()
 ```
 
-### Se Även
+### Se även
 
-* klass [IncompleteDetails](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [IncompleteDetails](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

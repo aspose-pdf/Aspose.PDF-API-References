@@ -1,14 +1,14 @@
 ---
-title: Class PdfFileEditor.ContentsResizeValue
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeValue klass. Värde av marginal eller innehållsstorlek angivet i procent av standardutrymmesenheter. Denna klass används i ContentsResizeParameters
+title: "Klass PdfFileEditor.ContentsResizeValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.PdfFileEditorContentsResizeValue-klass. Värde för marginal eller innehållsstorlek angivet i procent av standardrymdsenheter. Denna klass används i ContentsResizeParameters."
 type: docs
-weight: 4490
+weight: 4610
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/
 ---
-## PdfFileEditor.ContentsResizeValue klass
+## PdfFileEditor.ContentsResizeValue class
 
-Värde av marginal eller innehållsstorlek angivet i procent av standardutrymmesenheter. Denna klass används i ContentsResizeParameters.
+Värde för marginal eller innehållsstorlek angivet i procent av standardrymdsenheter. Denna klass används i ContentsResizeParameters.
 
 ```csharp
 public class ContentsResizeValue
@@ -19,20 +19,22 @@ public class ContentsResizeValue
 | Namn | Beskrivning |
 | --- | --- |
 | [IsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/ispercent) { get; } | Returnerar true om värdet uttrycks i procent; False om värdet uttrycks i standardenheter. |
-| [PercentValue](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/percentvalue) { set; } | Sätter värde i procent av sidstorlek. |
-| [UnitValue](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/unitvalue) { set; } | Sätter värde i standardutrymmesenheter. |
-| [Value](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/value) { get; } | Returnerar angivet värde. Använd egenskapen Unit för att få värdeenheter. |
+| [PercentValue](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/percentvalue) { set; } | Ställer in värdet i procent av sidans storlek. |
+| [UnitValue](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/unitvalue) { set; } | Ställer in värdet i standardrymdsenheter. |
+| [Value](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/value) { get; } | Hämtar angivet värde. Använd Unit-egenskapen för att få värdeenheterna. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | static [Auto](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/auto)() | Initierar automatiskt beräknat värde. |
-| static [Percents](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents)(double) | Initierar värde i procent. |
-| static [Units](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/units)(double) | Initierar värde i standardutrymmesenheter. |
+| static [Percents](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents)(double) | Initierar värdet i procent. |
+| static [Units](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/units)(double) | Initierar värdet i standardrymdsenheter. |
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../pdffileeditor/)
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../)
+* class [PdfFileEditor](../pdffileeditor/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

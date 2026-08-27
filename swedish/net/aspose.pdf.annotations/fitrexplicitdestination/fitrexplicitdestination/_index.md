@@ -1,7 +1,7 @@
 ---
-title: FitRExplicitDestination.FitRExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: FitRExplicitDestination-konstruktör. Skapar lokal explicit destination
+title: "FitRExplicitDestination.FitRExplicitDestination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FitRExplicitDestination-konstruktor. Skapar en lokal explicit destination"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/fitrexplicitdestination/fitrexplicitdestination/
@@ -16,18 +16,18 @@ public FitRExplicitDestination(Page page, double left, double bottom, double rig
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Objektet för destinationssidan. |
+| sida | Page | Destinationens sidobjekt. |
 | left | Double | Vänster horisontell koordinat för den synliga rektangeln. |
-| bottom | Double | Nederkant vertikal koordinat för den synliga rektangeln. |
-| right | Double | Höger horisontell koordinat för den synliga rektangeln. |
-| top | Double | Överkant vertikal koordinat för den synliga rektangeln. |
+| bottom | Double | Nedre vertikala koordinaten för den synliga rektangeln. |
+| höger | Double | Höger horisontell koordinat för den synliga rektangeln. |
+| övre | Double | Övre vertikala koordinaten för den synliga rektangeln. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [FitRExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,14 +41,16 @@ public FitRExplicitDestination(int pageNumber, double left, double bottom, doubl
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageNumber | Int32 | Destinationssidans nummer för det fjärrdokumentet. |
+| pageNumber | Int32 | Destinationens sidnummer för fjärrdokumentet. |
 | left | Double | Vänster horisontell koordinat för den synliga rektangeln. |
-| bottom | Double | Nederkant vertikal koordinat för den synliga rektangeln. |
-| right | Double | Höger horisontell koordinat för den synliga rektangeln. |
-| top | Double | Överkant vertikal koordinat för den synliga rektangeln. |
+| bottom | Double | Nedre vertikala koordinaten för den synliga rektangeln. |
+| höger | Double | Höger horisontell koordinat för den synliga rektangeln. |
+| övre | Double | Övre vertikala koordinaten för den synliga rektangeln. |
 
-### Se Även
+### Se även
 
-* klass [FitRExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

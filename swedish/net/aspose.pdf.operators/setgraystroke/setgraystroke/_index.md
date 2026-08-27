@@ -1,14 +1,14 @@
 ---
-title: SetGrayStroke.SetGrayStroke
-second_title: Aspose.PDF for .NET API Reference
-description: SetGrayStroke-konstruktorn. Initierar operatören med den angivna färgen
+title: "SetGrayStroke.SetGrayStroke"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetGrayStroke konstruktor. Initierar operatorn med den specificerade färgen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/setgraystroke/setgraystroke/
 ---
-## SetGrayStroke-konstruktorn
+## SetGrayStroke constructor
 
-Initierar operatören med den angivna färgen.
+Initierar operatorn med den angivna färgen.
 
 ```csharp
 public SetGrayStroke(double gray)
@@ -16,10 +16,12 @@ public SetGrayStroke(double gray)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| gray | Double | Nivån av gråvärde. |
+| grå | Double | Nivån på gråvärdet. |
 
-### Se Även
+### Se även
 
-* klass [SetGrayStroke](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetGrayStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

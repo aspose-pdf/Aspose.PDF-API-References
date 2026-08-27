@@ -1,21 +1,23 @@
 ---
-title: ObsoleteFill.ObsoleteFill
-second_title: Aspose.PDF for .NET API Reference
-description: Föråldrad Fill-konstruktor. Initierar operatör
+title: "ObsoleteFill.ObsoleteFill"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ObsoleteFill konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/obsoletefill/obsoletefill/
 ---
-## ObsoleteFill-konstruktorn
+## ObsoleteFill constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public ObsoleteFill()
 ```
 
-### Se Även
+### Se även
 
-* klass [ObsoleteFill](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ObsoleteFill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Cell.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Cell-egenskap. Hämtar eller ställer in cellens formaterade text
+title: "Cell.Paragraphs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cell-egenskap. Hämtar eller anger cellens formaterade text"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/cell/paragraphs/
 ---
-## Cell.Paragraphs-egenskap
+## Cell.Paragraphs property
 
-Hämtar eller ställer in cellens formaterade text.
+Hämtar eller anger cellens formaterade text.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Paragraphs](../../paragraphs/)
-* klass [Cell](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Paragraphs](../../paragraphs/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

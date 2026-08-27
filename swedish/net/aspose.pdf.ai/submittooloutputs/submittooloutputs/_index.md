@@ -1,12 +1,12 @@
 ---
-title: SubmitToolOutputs.SubmitToolOutputs
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitToolOutputs-konstruktorn. Standardkonstruktorn
+title: "SubmitToolOutputs.SubmitToolOutputs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SubmitToolOutputs konstruktor. Standardkonstruktor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/submittooloutputs/submittooloutputs/
 ---
-## SubmitToolOutputs-konstruktorn
+## SubmitToolOutputs constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public SubmitToolOutputs()
 ```
 
-### Se Även
+### Se även
 
-* klass [SubmitToolOutputs](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SubmitToolOutputs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: SvgExtractionOptions.UnpackXFormPredicate
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractionOptions-egenskap. Hämtar och ställer in alternativet att endast packa upp XForm som motsvarar den angivna predikatet
+title: "SvgExtractionOptions.UnpackXFormPredicate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SvgExtractionOptions egenskap. Hämtar och anger alternativet för att packa upp endast den XForm som motsvarar det angivna predikatet"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.vector/svgextractionoptions/unpackxformpredicate/
 ---
-## SvgExtractionOptions.UnpackXFormPredicate-egenskap
+## SvgExtractionOptions.UnpackXFormPredicate property
 
-Hämtar och ställer in alternativet att endast packa upp XForm som motsvarar den angivna predikatet.
+Hämtar och anger alternativet för att packa upp endast den XForm som motsvarar det angivna predikatet.
 
 ```csharp
 public Predicate<XFormPlacement> UnpackXFormPredicate { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XFormPlacement](../../xformplacement/)
-* klass [SvgExtractionOptions](../)
-* namnrum [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [XFormPlacement](../../xformplacement/)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

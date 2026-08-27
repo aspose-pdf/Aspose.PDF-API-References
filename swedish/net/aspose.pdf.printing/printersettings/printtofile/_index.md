@@ -1,21 +1,23 @@
 ---
-title: PrinterSettings.PrintToFile
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings-egenskap. Indikerar huruvida man ska skriva ut till en fil istället för en port
+title: "PrinterSettings.PrintToFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrinterSettings-egenskap. Anger om utskrift ska ske till en fil istället för en port."
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.printing/printersettings/printtofile/
 ---
-## PrinterSettings.PrintToFile-egenskap
+## PrinterSettings.PrintToFile property
 
-Indikerar huruvida man ska skriva ut till en fil istället för en port.
+Anger om utskrift ska ske till en fil istället för en port.
 
 ```csharp
 public bool PrintToFile { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

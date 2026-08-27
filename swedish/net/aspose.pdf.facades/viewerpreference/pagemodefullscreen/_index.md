@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.PageModeFullScreen
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. Fullskärmsläge utan menyrad, fönsterkontroller eller något annat fönster synligt
+title: "ViewerPreference.PageModeFullScreen"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-fält. Helskärmsläge utan menyrad, fönsterkontroller eller något annat fönster synligt"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.facades/viewerpreference/pagemodefullscreen/
 ---
-## ViewerPreference.PageModeFullScreen-fält
+## ViewerPreference.PageModeFullScreen field
 
-Fullskärmsläge, utan menyrad, fönsterkontroller eller något annat fönster synligt.
+Fullskärmsläge, utan menyfält, fönsterkontroller eller något annat fönster synligt.
 
 ```csharp
 public const int PageModeFullScreen;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

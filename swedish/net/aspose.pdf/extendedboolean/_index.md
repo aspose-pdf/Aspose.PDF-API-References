@@ -1,14 +1,14 @@
 ---
-title: Enum ExtendedBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExtendedBoolean enum. Representerar en boolesk typ som stöder odefinierat värde
+title: "Enum ExtendedBoolean"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ExtendedBoolean-enum. Representerar en boolesk typ som stöder värdet Undefined."
 type: docs
-weight: 4120
+weight: 4240
 url: /sv/net/aspose.pdf/extendedboolean/
 ---
-## ExtendedBoolean-uppräkning
+## ExtendedBoolean enumeration
 
-Representerar en boolesk typ som stöder odefinierat värde.
+Representerar boolesk typ som stödjer värdet Undefined.
 
 ```csharp
 public enum ExtendedBoolean
@@ -18,11 +18,13 @@ public enum ExtendedBoolean
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Odefinierad | `0` | Odefinierat värde av ExtendnedBoolean. |
-| Falsk | `1` | Falskt värde av ExtendnedBoolean. |
-| Sann | `2` | Sann värde av ExtendnedBoolean. |
+| Undefined | `0` | Undefined-värde för ExtendnedBoolean. |
+| False | `1` | Falskt värde för ExtendnedBoolean. |
+| True | `2` | Sant värde för ExtendnedBoolean. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

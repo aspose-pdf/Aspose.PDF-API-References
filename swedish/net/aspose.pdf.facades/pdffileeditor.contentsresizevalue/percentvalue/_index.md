@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.PercentValue
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue-egenskap. Ställer in värde i procent av sidstorlek
+title: "PdfFileEditor.ContentsResizeValue.PercentValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ContentsResizeValue-egenskap. Anger värde i procent av sidans storlek"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percentvalue/
 ---
-## PdfFileEditor.ContentsResizeValue.PercentValue-egenskap
+## PdfFileEditor.ContentsResizeValue.PercentValue property
 
-Ställer in värde i procent av sidstorlek.
+Ställer in värdet i procent av sidans storlek.
 
 ```csharp
 public double PercentValue { set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeValue](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

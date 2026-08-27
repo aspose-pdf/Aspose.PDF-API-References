@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary metod. Returnerar ett IDictionaryEnumerator-objekt för ordboken
+title: "AppearanceDictionary.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AppearanceDictionary-metod. Returnerar ett IDictionaryEnumerator-objekt för ordboken."
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.annotations/appearancedictionary/getenumerator/
 ---
-## AppearanceDictionary.GetEnumerator metod
+## AppearanceDictionary.GetEnumerator method
 
-Returnerar ett IDictionaryEnumerator-objekt för ordboken.
+Returnerar ett IDictionaryEnumerator‑objekt för ordboken.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, XForm>> GetEnumerator()
@@ -18,9 +18,11 @@ public IEnumerator<KeyValuePair<string, XForm>> GetEnumerator()
 
 Enumerator för ordboken.
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

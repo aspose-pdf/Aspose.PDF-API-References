@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.Add
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary metod. Ställ in ICosPdfPrimitive till ordbok
+title: "CosPdfDictionary.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfDictionary‑metod. Sätt ICosPdfPrimitive till dictionary"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.dataeditor/cospdfdictionary/add/
 ---
 ## Add(string, ICosPdfPrimitive) {#add_1}
 
-Ställ in [`ICosPdfPrimitive`](../../icospdfprimitive/) till ordbok.
+Sätt [`ICosPdfPrimitive`](../../icospdfprimitive/) till ordbok.
 
 ```csharp
 public void Add(string key, ICosPdfPrimitive value)
@@ -16,8 +16,8 @@ public void Add(string key, ICosPdfPrimitive value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckel. |
-| value | ICosPdfPrimitive | Värde. |
+| nyckel | String | Nyckel. |
+| värde | ICosPdfPrimitive | Värde. |
 
 ### Undantag
 
@@ -25,7 +25,7 @@ public void Add(string key, ICosPdfPrimitive value)
 | --- | --- |
 | ArgumentException | Kasta undantag om nyckel/värde inte kan redigeras eller tas bort. |
 
-### Se Även
+### Se även
 
 * interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [CosPdfDictionary](../)
@@ -36,7 +36,7 @@ public void Add(string key, ICosPdfPrimitive value)
 
 ## Add(KeyValuePair&lt;string, ICosPdfPrimitive&gt;) {#add}
 
-Ställ in [`ICosPdfPrimitive`](../../icospdfprimitive/) till ordbok.
+Sätt [`ICosPdfPrimitive`](../../icospdfprimitive/) till ordbok.
 
 ```csharp
 public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
@@ -44,7 +44,7 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Parets nyckel och värde. |
+| item | KeyValuePair`2 | Paret med en nyckel och ett värde. |
 
 ### Undantag
 
@@ -52,9 +52,11 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 | --- | --- |
 | ArgumentException | Kasta undantag om nyckel/värde inte kan redigeras eller tas bort. |
 
-### Se Även
+### Se även
 
 * interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

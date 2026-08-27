@@ -1,12 +1,12 @@
 ---
-title: XmpField.op_Equality
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField metod. Implementerar operatorn
+title: "XmpField.op_Equality"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField method. Implementerar operatorn"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/xmpfield/op_equality/
 ---
-## XmpField Likhetsoperator
+## XmpField Equality operator
 
 Implementerar operatorn ==.
 
@@ -23,8 +23,10 @@ public static bool operator ==(XmpField field1, XmpField field2)
 
 Resultatet av operatorn.
 
-### Se Även
+### Se även
 
-* klass [XmpField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

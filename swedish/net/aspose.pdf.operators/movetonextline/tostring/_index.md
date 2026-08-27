@@ -1,14 +1,14 @@
 ---
-title: MoveToNextLine.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLine method. Returns text of the operator
+title: "MoveToNextLine.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MoveToNextLine‑metod. Returnerar texten för operatorn."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/movetonextline/tostring/
 ---
-## MoveToNextLine.ToString metod
+## MoveToNextLine.ToString method
 
-Returnerar texten av operatören.
+Returnerar text för operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av operatören.
+Textrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [MoveToNextLine](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [MoveToNextLine](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

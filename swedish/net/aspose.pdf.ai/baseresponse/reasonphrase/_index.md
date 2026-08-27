@@ -1,21 +1,23 @@
 ---
-title: BaseResponse.ReasonPhrase
-second_title: Aspose.PDF for .NET API Reference
-description: BaseResponse-egenskap. Hämtar felorsaksfrasen
+title: "BaseResponse.ReasonPhrase"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseResponse-egenskap. Hämtar felorsakens fras"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.ai/baseresponse/reasonphrase/
 ---
-## BaseResponse.ReasonPhrase-egenskap
+## BaseResponse.ReasonPhrase property
 
-Hämtar felorsaksfrasen.
+Hämtar felorsakens fras.
 
 ```csharp
 public string ReasonPhrase { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

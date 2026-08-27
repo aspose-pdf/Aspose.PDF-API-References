@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.WaitForThreadMessageToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Väntar på att ett specifikt trådmeddelande ska slutföras asynkront
+title: "OpenAIClient.WaitForThreadMessageToCompleteAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient‑metod. Väntar på att ett specifikt trådmeddelande ska slutföras asynkront."
 type: docs
-weight: 480
+weight: 490
 url: /sv/net/aspose.pdf.ai/openaiclient/waitforthreadmessagetocompleteasync/
 ---
-## OpenAIClient.WaitForThreadMessageToCompleteAsync metod
+## OpenAIClient.WaitForThreadMessageToCompleteAsync method
 
-Väntar på att ett specifikt trådmeddelande ska slutföras asynkront.
+Väntar asynkront på att ett specifikt trådmeddelande ska slutföras.
 
 ```csharp
 public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string threadId, 
@@ -17,24 +17,26 @@ public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string th
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadId | Sträng | ID:t för tråden som innehåller meddelandet. |
-| threadMessageId | Sträng | ID:t för meddelandet som ska övervakas tills det är slutfört. |
+| threadId | String | ID för tråden som innehåller meddelandet. |
+| threadMessageId | String | ID för meddelandet som ska övervakas tills det är slutfört. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller det slutliga status för meddelandet.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller det slutgiltiga statusvärdet för meddelandet.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när tråd-ID:t är null eller tomt. |
-| [AIClientException](../../aiclientexception/) | Utlöses när trådmeddelande-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när tråd-Id är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när trådens meddelande‑Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageResponse](../../threadmessageresponse/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

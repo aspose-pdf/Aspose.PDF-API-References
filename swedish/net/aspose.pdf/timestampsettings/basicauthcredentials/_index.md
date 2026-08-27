@@ -1,21 +1,23 @@
 ---
-title: TimestampSettings.BasicAuthCredentials
-second_title: Aspose.PDF for .NET API Reference
-description: TimestampSettings-egenskap. Hämtar/anger de grundläggande autentiseringsuppgifterna Användarnamn och lösenord kombineras till en sträng användarnamnlösenord
+title: "TimestampSettings.BasicAuthCredentials"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TimestampSettings egenskap. Hämtar/anger de grundläggande autentiseringsuppgifterna Username och password kombineras till en sträng usernamepassword"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/timestampsettings/basicauthcredentials/
 ---
-## TimestampSettings.BasicAuthCredentials-egenskap
+## TimestampSettings.BasicAuthCredentials property
 
-Hämtar/anger de grundläggande autentiseringsuppgifterna, Användarnamn och lösenord kombineras till en sträng "användarnamn:lösenord".
+Hämtar/anger de grundläggande autentiseringsuppgifterna, Username och password kombineras till en sträng "username:password".
 
 ```csharp
 public string BasicAuthCredentials { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TimestampSettings](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TimestampSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

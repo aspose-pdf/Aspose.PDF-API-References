@@ -1,21 +1,23 @@
 ---
-title: AnnotationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection-egenskap. Hämtar antalet anteckningar i samlingen
+title: "AnnotationCollection.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationCollection egenskap. Hämtar antalet annotationer i samlingen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/annotationcollection/count/
 ---
-## AnnotationCollection.Count-egenskap
+## AnnotationCollection.Count property
 
-Hämtar antalet anteckningar i samlingen.
+Hämtar antalet annoteringar i samlingen.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AnnotationCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

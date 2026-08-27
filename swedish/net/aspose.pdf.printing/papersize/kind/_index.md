@@ -1,22 +1,24 @@
 ---
-title: PaperSize.Kind
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSize-egenskap. Hämtar typen av papper
+title: "PaperSize.Kind"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSize-egenskapen. Hämtar papperstypen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.printing/papersize/kind/
 ---
-## PaperSize.Kind-egenskap
+## PaperSize.Kind property
 
-Hämtar typen av papper.
+Hämtar papperstypen.
 
 ```csharp
 public PaperKind Kind { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [PaperKind](../../paperkind/)
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

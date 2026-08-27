@@ -1,21 +1,23 @@
 ---
-title: Form.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Formegenskap. Hämtar antalet fält på detta formulär
+title: "Form.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-egenskap. Hämtar antalet fält i detta formulär."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/form/count/
 ---
-## Form.Count-egenskap
+## Form.Count property
 
-Hämtar antalet fält på detta formulär.
+Hämtar antalet fält i detta formulär.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

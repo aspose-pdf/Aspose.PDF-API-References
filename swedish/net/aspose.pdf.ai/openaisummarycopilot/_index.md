@@ -1,23 +1,23 @@
 ---
-title: Class OpenAISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAISummaryCopilot klass. Ger funktionalitet för att få dokument sammanfattningar med hjälp av AI-modeller. Exempel på användning av att skapa en OpenAI-klient, konfigurera alternativ och använda sammanfattningskopiloten
+title: "Klass OpenAISummaryCopilot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.OpenAISummaryCopilot-klass. Tillhandahåller funktionalitet för att hämta dokumentsammanfattningar med AI‑modeller. Exempel på hur man skapar en OpenAI‑klient, konfigurerar alternativ och använder sammanfattnings‑copiloten."
 type: docs
-weight: 920
+weight: 1000
 url: /sv/net/aspose.pdf.ai/openaisummarycopilot/
 ---
-## OpenAISummaryCopilot klass
+## OpenAISummaryCopilot class
 
-Ger funktionalitet för att få dokument sammanfattningar med hjälp av AI-modeller. Exempel på användning av att skapa en OpenAI-klient, konfigurera alternativ och använda sammanfattningskopiloten.
+Tillhandahåller funktionalitet för att hämta dokumentsammanfattningar med AI‑modeller. Exempel på användning av att skapa en OpenAI‑klient, konfigurera alternativ och använda sammanfattnings‑copilot.
 
 ```csharp
-// Create AI client.
+// Skapa AI‑klient.
 var openAiClient = OpenAIClient
     .CreateWithApiKey(ApiKey) // Create OpenAI client with the API key.
     .WithProject("proj_RoywW1DLqDC89GoAW5ngoVN8") // Configure optional parameters.
     .Build();
 
-// Create copilot options.
+// Skapa copilot‑alternativ.
 var options = OpenAISummaryCopilotOptions
     .Create() // Create options like this, or...
     //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...create using delegate.
@@ -25,22 +25,22 @@ var options = OpenAISummaryCopilotOptions
     .WithDocument("DocumentInputPath") // .WithDocument methods allows to add text, pdf and paths to documents.
     .WithDocuments(new List<TextDocument>()); // .WithDocuments methods allows to add text, pdf and path collections.
 
-// Create summary copilot.
+// Skapa sammanfattnings‑copilot.
 var summaryCopilot = AICopilotFactory.CreateSummaryCopilot(openAiClient, options);
 
-// Get summary text.
+// Hämta sammanfattningstext.
 string summaryText = await summaryCopilot.GetSummaryAsync();
 
-// Get summary document.
+// Hämta sammanfattningsdokument.
 Document summaryDocument = await summaryCopilot.GetSummaryDocumentAsync();
 
-// Get summary document with page info.
+// Hämta sammanfattningsdokument med sidinformation.
 Document summaryDocumentWithPageInfo = await summaryCopilot.GetSummaryDocumentAsync(new PageInfo());
 
-// Save summary as PDF document.
+// Spara sammanfattning som PDF‑dokument.
 await summaryCopilot.SaveSummaryAsync("outputPath");
 
-// Save summary with specified format.
+// Spara sammanfattning med angivet format.
 await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 ```
 
@@ -70,8 +70,10 @@ public class OpenAISummaryCopilot : ISummaryCopilot
 | [SaveSummaryAsync](../../aspose.pdf.ai/openaisummarycopilot/savesummaryasync/#savesummaryasync_1)(string, CancellationToken?) |  |
 | [SaveSummaryAsync](../../aspose.pdf.ai/openaisummarycopilot/savesummaryasync/#savesummaryasync)(string, SaveFormat, CancellationToken?) |  |
 
-### Se Även
+### Se även
 
 * interface [ISummaryCopilot](../isummarycopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageNumber.PageIndex.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: PageIndex-konstruktorn. Standardkonstruktorn
+title: "PageNumber.PageIndex.PageIndex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageIndex‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pagenumber.pageindex/pageindex/
 ---
-## PageNumber.PageIndex-konstruktorn
+## PageNumber.PageIndex constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PageIndex()
 ```
 
-### Se Även
+### Se även
 
-* klass [PageIndex](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageIndex](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

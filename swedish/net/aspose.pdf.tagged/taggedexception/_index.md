@@ -1,14 +1,14 @@
 ---
-title: Class TaggedException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged.TaggedException klass. Representerar undantag för TaggedPDF-innehåll i dokumentet
+title: "Klass TaggedException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Tagged.TaggedException‑klass. Representerar ett undantag för TaggedPDF‑innehållet i dokumentet"
 type: docs
-weight: 10330
+weight: 10510
 url: /sv/net/aspose.pdf.tagged/taggedexception/
 ---
-## TaggedException klass
+## TaggedException class
 
-Representerar undantag för TaggedPDF-innehåll i dokumentet.
+Representerar ett undantag för TaggedPDF-innehåll i dokumentet.
 
 ```csharp
 public class TaggedException : PdfException
@@ -18,10 +18,12 @@ public class TaggedException : PdfException
 
 | Namn | Beskrivning |
 | --- | --- |
-| [TaggedException](taggedexception/)() | Initierar en ny instans av `TaggedException` klassen. |
+| [TaggedException](taggedexception/)() | Initierar en ny instans av klassen `TaggedException`. |
 
-### Se Även
+### Se även
 
-* klass [PdfException](../../aspose.pdf/pdfexception/)
-* namnrymd [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* class [PdfException](../../aspose.pdf/pdfexception/)
+* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../)
+
+

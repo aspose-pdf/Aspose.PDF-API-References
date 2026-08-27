@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.SubmitFormAction
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction-konstruktör. Initierar SubmitFormAction-objekt
+title: "SubmitFormAction.SubmitFormAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SubmitFormAction-konstruktor. Initierar SubmitFormAction‑objektet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/submitformaction/submitformaction/
 ---
-## SubmitFormAction-konstruktör
+## SubmitFormAction constructor
 
-Initierar SubmitFormAction-objekt.
+Initierar SubmitFormAction‑objekt.
 
 ```csharp
 public SubmitFormAction()
 ```
 
-### Se Även
+### Se även
 
-* klass [SubmitFormAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

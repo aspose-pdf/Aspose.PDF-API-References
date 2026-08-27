@@ -1,14 +1,14 @@
 ---
-title: Delegate PdfQueryPageSettingsEventHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Representerar metoden som hanterar PdfQueryPageSettings-händelsen för en PdfViewer
+title: "Delegat PdfQueryPageSettingsEventHandler"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Representerar metoden som hanterar PdfQueryPageSettings‑händelsen för en PdfViewer"
 type: docs
-weight: 4620
+weight: 4740
 url: /sv/net/aspose.pdf.facades/pdfquerypagesettingseventhandler/
 ---
-## PdfQueryPageSettingsEventHandler-delegat
+## PdfQueryPageSettingsEventHandler delegate
 
-Representerar metoden som hanterar [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) händelsen för en [`PdfViewer`](../pdfviewer/).
+Representerar metoden som hanterar [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/)‑händelsen för en [`PdfViewer`](../pdfviewer/).
 
 ```csharp
 public delegate void PdfQueryPageSettingsEventHandler(object sender, 
@@ -17,13 +17,15 @@ public delegate void PdfQueryPageSettingsEventHandler(object sender,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| sender | Objekt | Källan till händelsen. |
-| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | En [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) som innehåller händelsedata. |
-| currentPageInfo | PdfPrintPageInfo | För närvarande utskriven sidinformation. |
+| avsändare | Objekt | Källan till händelsen. |
+| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | Ett [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) som innehåller händelsedata. |
+| currentPageInfo | PdfPrintPageInfo | Information om den aktuella utskrivna sidan. |
 
-### Se Även
+### Se även
 
-* klass [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
-* klass [PdfPrintPageInfo](../pdfprintpageinfo/)
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* class [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
+* class [PdfPrintPageInfo](../pdfprintpageinfo/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

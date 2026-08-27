@@ -1,21 +1,23 @@
 ---
-title: LineInfo.LineDashPattern
-second_title: Aspose.PDF for .NET API Reference
-description: LineInfo-egenskap. Hämtar eller ställer in dash-mönstret för en linje
+title: "LineInfo.LineDashPattern"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineInfo property. Hämtar eller anger streckmönstret för en linje"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/lineinfo/linedashpattern/
 ---
-## LineInfo.LineDashPattern-egenskap
+## LineInfo.LineDashPattern property
 
-Hämtar eller ställer in dash-mönstret för en linje.
+Hämtar eller anger streckmönstret för en linje.
 
 ```csharp
 public int[] LineDashPattern { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LineInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

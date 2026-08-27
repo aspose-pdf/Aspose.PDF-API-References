@@ -1,12 +1,12 @@
 ---
-title: Form.GetField
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Hämtar fältets värde enligt dess fältnamn
+title: "Form.GetField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-metod. Hämtar fältets värde enligt dess fältnamn."
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.facades/form/getfield/
 ---
-## Form.GetField metod
+## Form.GetField method
 
 Hämtar fältets värde enligt dess fältnamn.
 
@@ -16,7 +16,7 @@ public string GetField(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Det fullständigt kvalificerade fältnamnet. |
+| fieldName | String | Det fullständigt kvalificerade fältnamnet. |
 
 ### Returvärde
 
@@ -29,8 +29,10 @@ Form form = new Form("PdfForm.pdf");
 Console.WriteLine("Field value = " + form.GetField("Field1"));
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

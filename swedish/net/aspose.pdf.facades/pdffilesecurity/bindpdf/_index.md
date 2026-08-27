@@ -1,7 +1,7 @@
 ---
-title: PdfFileSecurity.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity-metod. Initierar fasaden
+title: "PdfFileSecurity.BindPdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSecurity‑metod. Initierar fasaden"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/pdffilesecurity/bindpdf/
@@ -16,13 +16,13 @@ public override void BindPdf(string srcFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcFile | Sträng | PDF-filen. |
+| srcFile | String | PDF-filen. |
 
-### Se Även
+### Se även
 
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public override void BindPdf(Stream srcStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcStream | Ström | Strömmen av PDF-filen. |
+| srcStream | Stream | Strömmen av PDF-filen. |
 
-### Se Även
+### Se även
 
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

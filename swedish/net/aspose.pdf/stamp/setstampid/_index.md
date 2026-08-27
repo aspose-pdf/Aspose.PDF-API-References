@@ -1,14 +1,14 @@
 ---
-title: Stamp.setStampId
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-metod. Sätter stämpel-ID
+title: "Stamp.setStampId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp‑metoden. Ställer in stamp‑Id"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf/stamp/setstampid/
 ---
-## Stamp.setStampId metod
+## Stamp.setStampId method
 
-Sätter stämpel-ID.
+Anger stämpelns ID.
 
 ```csharp
 public void setStampId(int value)
@@ -16,10 +16,12 @@ public void setStampId(int value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Int32 | Nytt värde för stämpel-ID. |
+| värde | Int32 | Nytt värde för Stamp‑ID. |
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

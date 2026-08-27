@@ -1,14 +1,14 @@
 ---
-title: TableOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: TableOptions metod. Skapa instans av TableOptions
+title: "TableOptions.Create"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableOptions metod. Skapa en instans av TableOptions"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/tableoptions/create/
 ---
-## TableOptions.Create metod
+## TableOptions.Create method
 
-Skapa instans av [`TableOptions`](../).
+Skapa en instans av [`TableOptions`](../).
 
 ```csharp
 public static TableOptions Create()
@@ -18,8 +18,10 @@ public static TableOptions Create()
 
 Ny instans av [`TableOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [TableOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StringResult.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: StringResult-metod. Försöker konvertera resultatet till en sträng
+title: "StringResult.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StringResult-metod. Försöker konvertera resultatet till en sträng"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.plugins/stringresult/tostring/
 ---
-## StringResult.ToString metod
+## StringResult.ToString method
 
 Försöker konvertera resultatet till en sträng.
 
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-En sträng som representerar textinnehållet om resultatet är en sträng; annars returnerar den base.ToString().
+En sträng som representerar textinnehållet om resultatet är en sträng; annars returneras base.ToString().
 
-### Se Även
+### Se även
 
-* klass [StringResult](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StringResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

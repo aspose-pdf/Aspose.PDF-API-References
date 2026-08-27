@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreFileBatchCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest klass. Skapa en batchförfrågan för vektorbutiksfiler
+title: "Klass VectorStoreFileBatchCreateRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest klass. Skapa en vektorlagringsfilbatch-förfrågan"
 type: docs
-weight: 1280
+weight: 1370
 url: /sv/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/
 ---
-## VectorStoreFileBatchCreateRequest klass
+## VectorStoreFileBatchCreateRequest class
 
-Skapa en batchförfrågan för vektorbutiksfiler.
+Skapa en begäran om vektorlagerfilbatch.
 
 ```csharp
 public class VectorStoreFileBatchCreateRequest
@@ -18,15 +18,17 @@ public class VectorStoreFileBatchCreateRequest
 
 | Namn | Beskrivning |
 | --- | --- |
-| [VectorStoreFileBatchCreateRequest](vectorstorefilebatchcreaterequest/)() | Standardkonstruktören. |
+| [VectorStoreFileBatchCreateRequest](vectorstorefilebatchcreaterequest/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/) { get; set; } | Hämtar eller ställer in en lista över fil-ID:n som vektorbutiken ska använda. Användbart för verktyg som file_search som kan komma åt filer. |
+| [FileIds](../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/) { get; set; } | Hämtar eller anger en lista med File IDs som vektorlagringen ska använda. Användbart för verktyg som file_search som kan komma åt filer. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

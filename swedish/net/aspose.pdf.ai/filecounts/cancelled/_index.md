@@ -1,21 +1,23 @@
 ---
-title: FileCounts.Cancelled
-second_title: Aspose.PDF for .NET API Reference
-description: FileCounts-egenskap. Hämtar eller ställer in antalet filer som avbröts
+title: "FileCounts.Cancelled"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileCounts egenskap. Hämtar eller anger antalet filer som avbröts"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/filecounts/cancelled/
 ---
-## FileCounts.Cancelled-egenskap
+## FileCounts.Cancelled property
 
-Hämtar eller ställer in antalet filer som avbröts.
+Hämtar eller anger antalet filer som avbröts.
 
 ```csharp
 public int Cancelled { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileCounts](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [FileCounts](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

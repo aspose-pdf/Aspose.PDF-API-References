@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.EmbedForm
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction-fält. Om det är inställt ska F-posten i den inskickade FDF vara en filspecifikation som innehåller en inbäddad filström som representerar PDF-filen från vilken FDF skickas in
+title: "SubmitFormAction.EmbedForm"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SubmitFormAction-fält. Om den är inställd ska F‑posten i den inskickade FDF vara en filspecificering som innehåller en inbäddad filström som representerar PDF‑filen som FDF‑filen skickas från"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/submitformaction/embedform/
 ---
-## SubmitFormAction.EmbedForm-fält
+## SubmitFormAction.EmbedForm field
 
-Om det är inställt ska F-posten i den inskickade FDF vara en filspecifikation som innehåller en inbäddad filström som representerar PDF-filen från vilken FDF skickas in.
+Om angivet, ska F‑posten i den inskickade FDF vara en filspecificering som innehåller ett inbäddat filström som representerar PDF‑filen som FDF‑filen skickas från.
 
 ```csharp
 public const int EmbedForm;
 ```
 
-### Se Även
+### Se även
 
-* klass [SubmitFormAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

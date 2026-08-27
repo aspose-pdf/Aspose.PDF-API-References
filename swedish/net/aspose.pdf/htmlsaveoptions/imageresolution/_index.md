@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.ImageResolution
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Hämtar eller ställer in upplösning för bildrendering
+title: "HtmlSaveOptions.ImageResolution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions property. Hämtar eller anger upplösning för bildrendering"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/htmlsaveoptions/imageresolution/
 ---
-## HtmlSaveOptions.ImageResolution-egenskap
+## HtmlSaveOptions.ImageResolution property
 
-Hämtar eller ställer in upplösning för bildrendering.
+Hämtar eller anger upplösning för bildrendering.
 
 ```csharp
 public int ImageResolution { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Upplösning
+Resolution
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Stamp.BindTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-metod. Ställer in texttillstånd för stämpeltext
+title: "Stamp.BindTextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp-metoden. Anger texttillstånd för stämpelns text"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/stamp/bindtextstate/
 ---
-## Stamp.BindTextState metod
+## Stamp.BindTextState method
 
-Ställer in texttillstånd för stämpeltext.
+Anger texttillstånd för stämpeltext.
 
 ```csharp
 public void BindTextState(TextState textState)
@@ -16,11 +16,13 @@ public void BindTextState(TextState textState)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| textState | TextState | TextState-objekt som specificerar textens egenskaper. |
+| textState | TextState | TextState-objekt som specificerar textegenskaper. |
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

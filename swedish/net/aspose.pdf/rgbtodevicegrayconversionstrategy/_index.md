@@ -1,14 +1,14 @@
 ---
-title: Class RgbToDeviceGrayConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.RgbToDeviceGrayConversionStrategy klass. Representerar rgb till enhetsgrå färgrum konverteringsstrategi
+title: "Klass RgbToDeviceGrayConversionStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.RgbToDeviceGrayConversionStrategy klass. Representerar rgb till device gray färgrymdsomvandlingsstrategi"
 type: docs
-weight: 9800
+weight: 9950
 url: /sv/net/aspose.pdf/rgbtodevicegrayconversionstrategy/
 ---
-## RgbToDeviceGrayConversionStrategy klass
+## RgbToDeviceGrayConversionStrategy class
 
-Representerar rgb till enhetsgrå färgrum konverteringsstrategi.
+Representerar strategi för konvertering från rgb till enhetens gråa färgrymder.
 
 ```csharp
 public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
@@ -24,10 +24,12 @@ public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Convert](../../aspose.pdf/rgbtodevicegrayconversionstrategy/convert/)(Page) | Konverterar sidan av dokumentet. |
+| [Convert](../../aspose.pdf/rgbtodevicegrayconversionstrategy/convert/)(Page) | Konverterar sidan i dokumentet. |
 
-### Se Även
+### Se även
 
 * interface [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

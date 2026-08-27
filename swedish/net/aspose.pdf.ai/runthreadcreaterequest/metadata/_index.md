@@ -1,21 +1,23 @@
 ---
-title: RunThreadCreateRequest.Metadata
-second_title: Aspose.PDF for .NET API Reference
-description: RunThreadCreateRequest-egenskap. Hämtar eller ställer in en uppsättning av 16 nyckel-värde-par som kan kopplas till ett objekt. Detta kan vara användbart för att lagra ytterligare information om objektet i ett strukturerat format. Nycklar kan vara maximalt 64 tecken långa och värden kan vara maximalt 512 tecken långa.
+title: "RunThreadCreateRequest.Metadata"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunThreadCreateRequest egenskap. Hämtar eller anger en uppsättning av 16 nyckel‑värde‑par som kan bifogas ett objekt. Detta kan vara användbart för att lagra ytterligare information om objektet i ett strukturerat format. Nycklar kan vara högst 64 tecken långa och värden högst 512 tecken långa."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/runthreadcreaterequest/metadata/
 ---
-## RunThreadCreateRequest.Metadata-egenskap
+## RunThreadCreateRequest.Metadata property
 
-Hämtar eller ställer in en uppsättning av 16 nyckel-värde-par som kan kopplas till ett objekt. Detta kan vara användbart för att lagra ytterligare information om objektet i ett strukturerat format. Nycklar kan vara maximalt 64 tecken långa och värden kan vara maximalt 512 tecken långa.
+Hämtar eller anger en uppsättning på 16 nyckel‑värde‑par som kan bifogas ett objekt. Detta kan vara användbart för att lagra ytterligare information om objektet i ett strukturerat format. Nycklar kan vara högst 64 tecken långa och värden kan vara högst 512 tecken långa.
 
 ```csharp
 public Dictionary<string, string> Metadata { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RunThreadCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

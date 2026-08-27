@@ -1,30 +1,30 @@
 ---
-title: Document.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Tar bort alla fält från dokumentet och placerar deras värden istället
+title: "Document.Flatten"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Tar bort alla fält från dokumentet och placerar deras värden istället."
 type: docs
-weight: 640
+weight: 660
 url: /sv/net/aspose.pdf/document/flatten/
 ---
 ## Flatten() {#flatten}
 
-Tar bort alla fält från dokumentet och placerar deras värden istället.
+Tar bort alla fält från document och placerar deras värden istället.
 
 ```csharp
 public void Flatten()
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Flatten(FlattenSettings) {#flatten_1}
 
-Tar bort alla fält (och anteckningar) från dokumentet och placerar deras värden istället.
+Tar bort alla fält (och annotationer) från document och placerar deras värden istället.
 
 ```csharp
 public void Flatten(FlattenSettings flattenSettings)
@@ -34,9 +34,11 @@ public void Flatten(FlattenSettings flattenSettings)
 | --- | --- | --- |
 | flattenSettings | FlattenSettings | Inställningar för plattningsprocessen. |
 
-### Se Även
+### Se även
 
-* klass [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

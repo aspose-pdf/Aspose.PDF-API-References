@@ -1,21 +1,23 @@
 ---
-title: SetHorizontalTextScaling.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: SetHorizontalTextScaling-egenskapen. Hämtar eller ställer in den horisontella skalningen
+title: "SetHorizontalTextScaling.HorizontalScaling"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetHorizontalTextScaling egenskap. Hämtar eller anger den horisontella skalningen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/
 ---
-## SetHorizontalTextScaling.HorizontalScaling-egenskap
+## SetHorizontalTextScaling.HorizontalScaling property
 
-Hämtar eller ställer in den horisontella skalningen.
+Hämtar eller anger den horisontella skalningen.
 
 ```csharp
 public double HorizontalScaling { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetHorizontalTextScaling](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetHorizontalTextScaling](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

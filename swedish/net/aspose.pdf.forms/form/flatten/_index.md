@@ -1,12 +1,12 @@
 ---
-title: Form.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Tar bort alla formulärfält och placerar deras värden direkt på sidan
+title: "Form.Flatten"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form metod. Tar bort alla formulärfält och placerar deras värden direkt på sidan"
 type: docs
-weight: 250
+weight: 270
 url: /sv/net/aspose.pdf.forms/form/flatten/
 ---
-## Form.Flatten metod
+## Form.Flatten method
 
 Tar bort alla formulärfält och placerar deras värden direkt på sidan.
 
@@ -14,8 +14,10 @@ Tar bort alla formulärfält och placerar deras värden direkt på sidan.
 public void Flatten()
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

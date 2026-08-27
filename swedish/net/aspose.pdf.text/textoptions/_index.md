@@ -1,12 +1,12 @@
 ---
-title: Class TextOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextOptions klass. Representerar alternativ för textbehandling
+title: "Klass TextOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.TextOptions‑klass. Representerar alternativ för textbehandling"
 type: docs
-weight: 10980
+weight: 11160
 url: /sv/net/aspose.pdf.text/textoptions/
 ---
-## TextOptions klass
+## TextOptions class
 
 Representerar alternativ för textbehandling
 
@@ -14,7 +14,9 @@ Representerar alternativ för textbehandling
 public abstract class TextOptions
 ```
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

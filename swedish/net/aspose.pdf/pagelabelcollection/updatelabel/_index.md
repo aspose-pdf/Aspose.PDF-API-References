@@ -1,14 +1,14 @@
 ---
-title: PageLabelCollection.UpdateLabel
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabelCollection metod. Uppdatera etikett för given sidindex, sidindex börjar från 0
+title: "PageLabelCollection.UpdateLabel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageLabelCollection-metod. Uppdatera etikett för angivet sidindex, sidindex börjar från 0"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/pagelabelcollection/updatelabel/
 ---
-## PageLabelCollection.UpdateLabel metod
+## PageLabelCollection.UpdateLabel method
 
-Uppdatera etikett för given sidindex (sidindex börjar från 0).
+Uppdatera etikett för angivet sidindex (sidindex startar från 0).
 
 ```csharp
 public void UpdateLabel(int pageIndex, PageLabel pageLabel)
@@ -19,9 +19,11 @@ public void UpdateLabel(int pageIndex, PageLabel pageLabel)
 | pageIndex | Int32 | Index för sidan vars etikett ska ändras. |
 | pageLabel | PageLabel | Ny etikett för sidan. |
 
-### Se Även
+### Se även
 
-* klass [PageLabel](../../pagelabel/)
-* klass [PageLabelCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageLabel](../../pagelabel/)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

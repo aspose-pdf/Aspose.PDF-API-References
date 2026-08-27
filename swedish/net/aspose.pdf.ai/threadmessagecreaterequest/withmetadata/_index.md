@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.WithMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest-metod. Sätter metadata för trådmeddelandeförfrågan
+title: "ThreadMessageCreateRequest.WithMetadata"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageCreateRequest-metod. Ställer in metadata för trådmeddelandeförfrågan"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.ai/threadmessagecreaterequest/withmetadata/
 ---
-## ThreadMessageCreateRequest.WithMetadata metod
+## ThreadMessageCreateRequest.WithMetadata method
 
-Sätter metadata för trådmeddelandeförfrågan.
+Anger metadata för trådmeldande förfrågan.
 
 ```csharp
 public ThreadMessageCreateRequest WithMetadata(Dictionary<string, string> metadata)
@@ -16,14 +16,16 @@ public ThreadMessageCreateRequest WithMetadata(Dictionary<string, string> metada
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| metadata | Dictionary`2 | Ordboken med metadata som ska sättas. |
+| metadata | Dictionary`2 | Ordboken med metadata att ange. |
 
 ### Returvärde
 
 Den aktuella instansen av [`ThreadMessageCreateRequest`](../).
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

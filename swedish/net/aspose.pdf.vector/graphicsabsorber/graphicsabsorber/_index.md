@@ -1,12 +1,12 @@
 ---
-title: GraphicsAbsorber.GraphicsAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicsAbsorber-konstruktorn. Standardkonstruktorn
+title: "GraphicsAbsorber.GraphicsAbsorber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicsAbsorber‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.vector/graphicsabsorber/graphicsabsorber/
 ---
-## GraphicsAbsorber-konstruktorn
+## GraphicsAbsorber constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public GraphicsAbsorber()
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphicsAbsorber](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

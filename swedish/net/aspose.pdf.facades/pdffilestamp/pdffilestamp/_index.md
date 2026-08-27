@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PdfFileStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-konstruktör. Konstruktör för PdfFileStamp. Inmatningsfil och utmatningsfil kan specificeras via motsvarande egenskaper
+title: "PdfFileStamp.PdfFileStamp"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileStamp-konstruktor. Konstruktor för PdfFileStamp. Indatafil och utdatafil kan anges via motsvarande egenskaper"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdffilestamp/pdffilestamp/
 ---
 ## PdfFileStamp() {#constructor}
 
-Konstruktör för PdfFileStamp. Inmatningsfil och utmatningsfil kan specificeras via motsvarande egenskaper.
+Konstruktor för PdfFileStamp. Indatafil och utdatafil kan anges via motsvarande egenskaper.
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp();
@@ -20,17 +20,17 @@ fileStamp.OutputFile = "output.pdf";
 public PdfFileStamp()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfFileStamp(Document) {#constructor_1}
 
-Initierar ett nytt [`PdfFileStamp`](../) objekt baserat på *dokumentet*.
+Initierar ett nytt [`PdfFileStamp`](../)-objekt baserat på *dokumentet*.
 
 ```csharp
 public PdfFileStamp(Document document)
@@ -38,11 +38,13 @@ public PdfFileStamp(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dokument | Dokument | Pdf-dokument. |
+| dokument | Dokument | Pdf‑dokument. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

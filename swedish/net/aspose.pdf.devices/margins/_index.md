@@ -1,14 +1,14 @@
 ---
-title: Class Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.Margins klass. Denna klass representerar marginaler av en bild
+title: "Klass Margins"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Devices.Margins-klass. Denna klass representerar marginaler för en bild."
 type: docs
-weight: 3630
+weight: 3750
 url: /sv/net/aspose.pdf.devices/margins/
 ---
-## Marginaler klass
+## Margins class
 
-Denna klass representerar marginaler av en bild.
+Denna klass representerar marginaler för en bild.
 
 ```csharp
 public sealed class Margins
@@ -18,19 +18,21 @@ public sealed class Margins
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Margins](margins/#constructor)() | Initierar en ny instans av `Margins` klassen. |
-| [Margins](margins/#constructor_1)(int, int, int, int) | Initierar en ny instans av `Margins` klassen. |
+| [Margins](margins/#constructor)() | Initierar en ny instans av klassen `Margins`. |
+| [Margins](margins/#constructor_1)(int, int, int, int) | Initierar en ny instans av klassen `Margins`. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Bottom](../../aspose.pdf.devices/margins/bottom/) { get; set; } | Hämtar eller ställer in botten. |
-| [Left](../../aspose.pdf.devices/margins/left/) { get; set; } | Hämtar eller ställer in vänster. |
-| [Right](../../aspose.pdf.devices/margins/right/) { get; set; } | Hämtar eller ställer in höger. |
-| [Top](../../aspose.pdf.devices/margins/top/) { get; set; } | Hämtar eller ställer in toppen. |
+| [Bottom](../../aspose.pdf.devices/margins/bottom/) { get; set; } | Hämtar eller anger botten. |
+| [Left](../../aspose.pdf.devices/margins/left/) { get; set; } | Hämtar eller anger vänster. |
+| [Right](../../aspose.pdf.devices/margins/right/) { get; set; } | Hämtar eller anger höger. |
+| [Top](../../aspose.pdf.devices/margins/top/) { get; set; } | Hämtar eller anger toppen. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

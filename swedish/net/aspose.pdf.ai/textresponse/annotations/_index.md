@@ -1,22 +1,24 @@
 ---
-title: TextResponse.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: TextResponse-egenskap. Hämtar eller ställer in en lista med anteckningar för meddelandet
+title: "TextResponse.Annotations"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextResponse-egenskap. Hämtar eller anger en lista med annotationer för meddelandet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/textresponse/annotations/
 ---
-## TextResponse.Annotations-egenskap
+## TextResponse.Annotations property
 
-Hämtar eller ställer in en lista med anteckningar för meddelandet.
+Hämtar eller anger en lista med annotationer för meddelandet.
 
 ```csharp
 public List<Annotation> Annotations { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../annotation/)
-* klass [TextResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [TextResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

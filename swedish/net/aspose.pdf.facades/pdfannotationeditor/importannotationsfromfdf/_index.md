@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationsFromFdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor metod. Importerar alla anteckningar från FDF-fil
+title: "PdfAnnotationEditor.ImportAnnotationsFromFdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAnnotationEditor metod. Importerar alla annotationer från FDF-fil"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromfdf/
 ---
-## PdfAnnotationEditor.ImportAnnotationsFromFdf metod
+## PdfAnnotationEditor.ImportAnnotationsFromFdf method
 
-Importerar alla anteckningar från FDF-fil.
+Importerar alla annotationer från en FDF-fil.
 
 ```csharp
 public void ImportAnnotationsFromFdf(string fdfFile)
@@ -16,7 +16,7 @@ public void ImportAnnotationsFromFdf(string fdfFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fdfFile | Sträng | Den inmatade FDF-filen. |
+| fdfFile | String | Den inmatade FDF-filen. |
 
 ## Exempel
 
@@ -27,8 +27,10 @@ editor.ImportAnnotationsFromFdf("annots.fdf");
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAnnotationEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

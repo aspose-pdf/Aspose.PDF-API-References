@@ -1,14 +1,14 @@
 ---
-title: Class Opi
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Opi klass. Representerar The Open Prepress Interface OPI är en mekanism för att skapa lågupplösta platshållare eller proxyer för sådana högupplösta bilder
+title: "Klass Opi"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Opi-klass. Representerar Det öppna förtryckgränssnittet OPI är en mekanism för att skapa lågupplösta platshållare eller proxys för sådana högupplösta bilder"
 type: docs
-weight: 7940
+weight: 8080
 url: /sv/net/aspose.pdf/opi/
 ---
-## Opi klass
+## Opi class
 
-Representerar The Open Prepress Interface (OPI) är en mekanism för att skapa lågupplösta platshållare, eller proxyer, för sådana högupplösta bilder.
+Representerar The Open Prepress Interface (OPI), en mekanism för att skapa lågupplösta platshållare eller proxyer för sådana högupplösta bilder.
 
 ```csharp
 public sealed class Opi
@@ -24,11 +24,13 @@ public sealed class Opi
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FileSpecification](../../aspose.pdf/opi/filespecification/) { get; } | Hämtar den externa filen som innehåller den lågupplösta proxybilden. |
-| [Position](../../aspose.pdf/opi/position/) { get; } | Hämtar en array av åtta nummer av formen som specificerar platsen på sidan för den beskurna bilden. |
-| [Version](../../aspose.pdf/opi/version/) { get; } | Hämtar versionen av OPI som denna ordbok hänvisar till. |
+| [FileSpecification](../../aspose.pdf/opi/filespecification/) { get; } | Hämtar den externa filen som innehåller den lågupplösta proxy-bilden. |
+| [Position](../../aspose.pdf/opi/position/) { get; } | Hämtar en array med åtta tal i formen som specificerar platsen på sidan för den beskurna bilden. |
+| [Version](../../aspose.pdf/opi/version/) { get; } | Hämtar versionen av OPI som den här ordboken refererar till. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

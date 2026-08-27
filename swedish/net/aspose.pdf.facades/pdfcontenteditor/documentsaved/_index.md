@@ -1,21 +1,23 @@
 ---
-title: PdfContentEditor.DocumentSaved
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-fält. En dokumenthändelsetyp. Utför en åtgärd efter att ha sparat
+title: "PdfContentEditor.DocumentSaved"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor-fält. En dokumenthändelsetyp. Utför en åtgärd efter sparande."
 type: docs
 weight: 500
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/documentsaved/
 ---
-## PdfContentEditor.DocumentSaved-fält
+## PdfContentEditor.DocumentSaved field
 
-En dokumenthändelsetyp. Utför en åtgärd efter att ha sparat.
+En dokumenthändelsetyp. Utför en åtgärd efter sparande.
 
 ```csharp
 public const string DocumentSaved;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Page.Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Sidans egenskap. Hämtar eller ställer in sidans vattenstämpel
+title: "Page.Watermark"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar eller anger vattenstämpeln för sidan."
 type: docs
 weight: 310
 url: /sv/net/aspose.pdf/page/watermark/
 ---
-## Page.Watermark egenskap
+## Page.Watermark property
 
-Hämtar eller ställer in sidans vattenstämpel.
+Hämtar eller anger vattenstämpeln för sidan.
 
 ```csharp
 public Watermark Watermark { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Watermark](../../watermark/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Watermark](../../watermark/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

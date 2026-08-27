@@ -1,22 +1,24 @@
 ---
-title: Graph.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Grafegenskap. Hämtar eller ställer in ett strängvärde som anger titeln på grafen
+title: "Graph.Title"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Graph-egenskap. Hämtar eller anger ett strängvärde som indikerar diagrammets titel"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.drawing/graph/title/
 ---
-## Graph.Title egenskap
+## Graph.Title property
 
-Hämtar eller ställer in ett strängvärde som anger titeln på grafen.
+Hämtar eller anger ett strängvärde som indikerar diagrammets titel.
 
 ```csharp
 public TextFragment Title { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragment](../../../aspose.pdf.text/textfragment/)
-* klass [Graph](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

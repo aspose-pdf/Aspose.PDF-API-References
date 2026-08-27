@@ -1,22 +1,24 @@
 ---
-title: TextParagraph.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph-egenskap. Hämtar eller ställer in rektangeln för stycket
+title: "TextParagraph.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextParagraph-egenskap. Hämtar eller anger rektangeln för stycket"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.text/textparagraph/rectangle/
 ---
-## TextParagraph.Rectangle-egenskap
+## TextParagraph.Rectangle property
 
-Hämtar eller ställer in rektangeln för stycket.
+Hämtar eller anger rektangeln för paragrafen.
 
 ```csharp
 public Rectangle Rectangle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [TextParagraph](../)
-* namnrum [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

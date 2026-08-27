@@ -1,14 +1,14 @@
 ---
-title: Font.IsEmbedded
-second_title: Aspose.PDF for .NET API Reference
-description: Font-egenskap. Hämtar eller ställer in ett värde som indikerar om teckensnittet är inbäddat. Teckensnitt baserat på IFont kommer automatiskt att delas upp och inbäddas
+title: "Font.IsEmbedded"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Font egenskap. Hämtar eller anger ett värde som indikerar om teckensnittet är inbäddat. Font baserad på IFont kommer automatiskt att bli delmängd och inbäddad"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/font/isembedded/
 ---
-## Font.IsEmbedded-egenskap
+## Font.IsEmbedded property
 
-Hämtar eller ställer in ett värde som indikerar om teckensnittet är inbäddat. Teckensnitt baserat på IFont kommer automatiskt att delas upp och inbäddas
+Hämtar eller anger ett värde som indikerar om teckensnittet är inbäddat. Teckensnitt baserade på IFont kommer automatiskt att bli delmängd och inbäddade.
 
 ```csharp
 public bool IsEmbedded { get; set; }
@@ -19,30 +19,32 @@ public bool IsEmbedded { get; set; }
 Följande exempel visar hur man hittar ett teckensnitt, markerar det som inbäddat, söker text på dokumentets sida och ersätter textens teckensnitt.
 
 ```csharp
-// Create font and mark it to be embedded
+// Skapa teckensnitt och markera det för inbäddning
 Font font = FontRepository.FindFont("Arial");
 font.IsEmbedded = true;
 
-// open document
+// öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// create TextFragmentAbsorber object to find all "hello world" text occurrences
+// skapa TextFragmentAbsorber-objekt för att hitta alla "hello world"-textförekomster
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-// accept the absorber for first page
+// acceptera absorberaren för första sidan
 doc.Pages[1].Accept(absorber);
 
-// change font for the first text occurrence
+// ändra teckensnitt för den första textförekomsten
 absorber.TextFragments[1].TextState.Font = font;
 
-// save document
+// spara dokumentet
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragmentAbsorber](../../textfragmentabsorber/)
-* klass [FontRepository](../../fontrepository/)
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Font](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [FontRepository](../../fontrepository/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

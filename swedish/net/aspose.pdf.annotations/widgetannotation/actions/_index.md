@@ -1,22 +1,24 @@
 ---
-title: WidgetAnnotation.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation-egenskap. Hämtar annotationsåtgärder
+title: "WidgetAnnotation.Actions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WidgetAnnotation-egenskap. Hämtar annotationens åtgärder"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/widgetannotation/actions/
 ---
-## WidgetAnnotation.Actions-egenskap
+## WidgetAnnotation.Actions property
 
-Hämtar annotationsåtgärder.
+Hämtar annotationens åtgärder.
 
 ```csharp
 public AnnotationActionCollection Actions { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AnnotationActionCollection](../../annotationactioncollection/)
-* klass [WidgetAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AnnotationActionCollection](../../annotationactioncollection/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

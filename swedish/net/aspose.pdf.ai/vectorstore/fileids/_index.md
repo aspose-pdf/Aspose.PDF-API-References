@@ -1,21 +1,23 @@
 ---
-title: VectorStore.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStore-egenskap. Hämtar eller ställer in en lista med fil-IDn som ska läggas till vektorbutiken. Det kan finnas högst 10000 filer i en vektorbutik
+title: "VectorStore.FileIds"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStore-egenskap. Hämtar eller anger en lista med fil-ID:n att lägga till i vektorlager. Det kan finnas högst 10000 filer i ett vektorlager."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/vectorstore/fileids/
 ---
-## VectorStore.FileIds-egenskap
+## VectorStore.FileIds property
 
-Hämtar eller ställer in en lista med fil-ID:n som ska läggas till vektorbutiken. Det kan finnas högst 10000 filer i en vektorbutik.
+Hämtar eller anger en lista med fil‑ID:n att lägga till i vektorlageret. Det kan högst finnas 10 000 filer i ett vektorlager.
 
 ```csharp
 public List<string> FileIds { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [VectorStore](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [VectorStore](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

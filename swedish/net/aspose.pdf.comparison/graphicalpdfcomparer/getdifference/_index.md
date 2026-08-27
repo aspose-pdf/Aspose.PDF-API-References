@@ -1,14 +1,14 @@
 ---
-title: GraphicalPdfComparer.GetDifference
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer-metod. Hämtar skillnader mellan sidbilder. Resultatet innehåller en bild av den första jämförda sidan och en array av skillnader
+title: "GraphicalPdfComparer.GetDifference"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicalPdfComparer metod. Hämtar skillnader mellan sidbilder. Resultatet innehåller en bild av den jämförda första sidan och en lista med skillnader."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.comparison/graphicalpdfcomparer/getdifference/
 ---
-## GraphicalPdfComparer.GetDifference metod
+## GraphicalPdfComparer.GetDifference method
 
-Hämtar skillnader mellan sidbilder. Resultatet innehåller en bild av den första jämförda sidan och en array av skillnader.
+Hämtar skillnader mellan sidbilder. Resultatet innehåller en bild av den första jämförda sidan och en matris av skillnader.
 
 ```csharp
 public ImagesDifference GetDifference(Page page1, Page page2)
@@ -21,7 +21,7 @@ public ImagesDifference GetDifference(Page page1, Page page2)
 
 ### Returvärde
 
-Den [`ImagesDifference`](../../imagesdifference/) instansen.
+Instansen av [`ImagesDifference`](../../imagesdifference/).
 
 ### Undantag
 
@@ -29,10 +29,12 @@ Den [`ImagesDifference`](../../imagesdifference/) instansen.
 | --- | --- |
 | ArgumentException | Om de jämförda sidorna har olika storlekar. |
 
-### Se Även
+### Se även
 
-* klass [ImagesDifference](../../imagesdifference/)
-* klass [Page](../../../aspose.pdf/page/)
-* klass [GraphicalPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [ImagesDifference](../../imagesdifference/)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

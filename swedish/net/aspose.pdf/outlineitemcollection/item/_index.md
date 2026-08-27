@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Hämtar ett utkastselement från samlingen med hjälp av index
+title: "OutlineItemCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection-egenskap. Hämtar konturposten från samlingen med hjälp av index"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/outlineitemcollection/item/
 ---
 ## OutlineItemCollection indexer
 
-Hämtar ett utkastselement från samlingen med hjälp av index.
+Hämtar outline-item från samlingen med hjälp av index.
 
 ```csharp
 public OutlineItemCollection this[int index] { get; }
@@ -16,14 +16,16 @@ public OutlineItemCollection this[int index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Index inom samlingen. |
+| index | Index i samlingen. |
 
 ### Returvärde
 
 OutlineItemCollection-objekt.
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

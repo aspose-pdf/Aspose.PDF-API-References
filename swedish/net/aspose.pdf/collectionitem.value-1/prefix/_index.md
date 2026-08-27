@@ -1,21 +1,23 @@
 ---
-title: CollectionItem.Value1.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: Värdeegenskap. Hämtar en prefixsträng som ska sammanfogas med textsträngen som presenteras för användaren. Denna post ignoreras när en interaktiv PDF-processor sorterar objekten i samlingen. Standard ingen
+title: "CollectionItem.Value1.Prefix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Value-egenskap. Hämtar en prefixsträng som ska konkateneras med textsträngen som presenteras för användaren. Denna post ignoreras när en interaktiv PDF-processor sorterar objekten i samlingen. Standard: ingen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/collectionitem.value-1/prefix/
 ---
-## CollectionItem.Value&lt;T&gt;.Prefix-egenskap
+## CollectionItem.Value&lt;T&gt;.Prefix property
 
-Hämtar en prefixsträng som ska sammanfogas med textsträngen som presenteras för användaren. Denna post ignoreras när en interaktiv PDF-processor sorterar objekten i samlingen. Standard: ingen
+Hämtar en prefixsträng som ska konkateneras med textsträngen som visas för användaren. Detta element ignoreras när en interaktiv PDF‑processor sorterar posterna i samlingen. Standard: ingen
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Value&lt;T&gt;](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Value&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

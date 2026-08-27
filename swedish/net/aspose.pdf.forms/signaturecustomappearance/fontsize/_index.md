@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-egenskap. Hämtar/anger teckenstorlek. Standardvärde 10
+title: "SignatureCustomAppearance.FontSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureCustomAppearance-egenskap. Hämtar/anger teckenstorlek. Standardvärde 10"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/fontsize/
 ---
-## SignatureCustomAppearance.FontSize-egenskap
+## SignatureCustomAppearance.FontSize property
 
-Hämtar/anger teckenstorlek. Standardvärde: 10.
+Hämtar/sätter teckenstorlek. Standardvärde: 10.
 
 ```csharp
 public double FontSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureCustomAppearance](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

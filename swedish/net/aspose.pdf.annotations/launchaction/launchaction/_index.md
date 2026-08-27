@@ -1,7 +1,7 @@
 ---
-title: LaunchAction.LaunchAction
-second_title: Aspose.PDF for .NET API Reference
-description: LaunchAction-konstruktör. Skapar en startåtgärd
+title: "LaunchAction.LaunchAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LaunchAction-konstruktor. Skapar en startåtgärd"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/launchaction/launchaction/
@@ -16,13 +16,13 @@ public LaunchAction(string file)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| file | Sträng | Filen som ska startas. |
+| fil | String | Filen som ska startas. |
 
-### Se Även
+### Se även
 
-* klass [LaunchAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [LaunchAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,12 +36,14 @@ public LaunchAction(Document document, string file)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Dokument | Dokument där åtgärden kommer att skapas. |
-| file | Sträng | Filen som ska startas. |
+| dokument | Dokument | Document där åtgärden kommer att skapas. |
+| fil | String | Filen som ska startas. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [LaunchAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [LaunchAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

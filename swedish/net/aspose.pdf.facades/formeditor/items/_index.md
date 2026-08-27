@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Items
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-egenskap. Ställer in objekt som kommer att läggas till i den nyss skapade listboxen eller kombinationsrutan
+title: "FormEditor.Items"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor egenskap. Anger objekt som kommer att läggas till i en ny skapad list box eller combo box"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/formeditor/items/
 ---
-## FormEditor.Items-egenskap
+## FormEditor.Items property
 
-Ställer in objekt som kommer att läggas till i den nyss skapade listboxen eller kombinationsrutan.
+Ställer in objekt som kommer att läggas till i en ny skapad listbox eller kombinationsruta.
 
 ```csharp
 formEditor = new Aspose.Pdf.Facades.FormEditor("input.pdf", "output.pdf");
@@ -21,8 +21,10 @@ formEditor.Save();
 public string[] Items { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

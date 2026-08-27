@@ -1,14 +1,14 @@
 ---
-title: UnderlineAnnotation.UnderlineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: UnderlineAnnotation-konstruktorn. Skapar en ny Underline-annotering på den angivna sidan
+title: "UnderlineAnnotation.UnderlineAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "UnderlineAnnotation-konstruktorn. Skapar en ny Underline-annotering på den angivna sidan"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/underlineannotation/underlineannotation/
 ---
-## UnderlineAnnotation-konstruktorn
+## UnderlineAnnotation constructor
 
-Skapar en ny Underline-annotering på den angivna sidan.
+Skapar en ny understrykningsannotation på den angivna sidan.
 
 ```csharp
 public UnderlineAnnotation(Page page, Rectangle rect)
@@ -16,13 +16,15 @@ public UnderlineAnnotation(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Dokumentets sida där annoteringen ska skapas. |
-| rect | Rectangle | Annoteringens rektangel, som definierar platsen för annoteringen på sidan. |
+| sida | Page | Document-sidan där annotationen bör skapas. |
+| rect | Rectangle | Annotationsrektangeln, som definierar placeringen av annotationen på sidan. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [UnderlineAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [UnderlineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

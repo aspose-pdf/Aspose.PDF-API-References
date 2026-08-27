@@ -1,22 +1,24 @@
 ---
-title: AnnotationActionCollection.OnCalculate
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection-egenskap. Hämtar eller ställer in en åtgärd för att beräkna fältvärde
+title: "AnnotationActionCollection.OnCalculate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationActionCollection egenskap. Hämtar eller anger en åtgärd för att beräkna fältvärdet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/annotationactioncollection/oncalculate/
 ---
-## AnnotationActionCollection.OnCalculate-egenskap
+## AnnotationActionCollection.OnCalculate property
 
-Hämtar eller ställer in en åtgärd för att beräkna fältvärde.
+Hämtar eller anger en åtgärd för att beräkna fältvärdet.
 
 ```csharp
 public PdfAction OnCalculate { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [AnnotationActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

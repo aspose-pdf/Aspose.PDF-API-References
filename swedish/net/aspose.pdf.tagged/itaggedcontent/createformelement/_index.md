@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateFormElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent metod. Skapar FormElement
+title: "ITaggedContent.CreateFormElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar FormElement"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createformelement/
 ---
-## ITaggedContent.CreateFormElement metod
+## ITaggedContent.CreateFormElement method
 
 Skapar [`FormElement`](../../../aspose.pdf.logicalstructure/formelement/).
 
@@ -16,11 +16,13 @@ public FormElement CreateFormElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [FormElement](../../../aspose.pdf.logicalstructure/formelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [FormElement](../../../aspose.pdf.logicalstructure/formelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

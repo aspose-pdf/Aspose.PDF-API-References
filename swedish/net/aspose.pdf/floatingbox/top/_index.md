@@ -1,21 +1,23 @@
 ---
-title: FloatingBox.Top
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox-egenskap. Hämtar eller ställer in koordinaten för bordets överkant
+title: "FloatingBox.Top"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FloatingBox-egenskap. Hämtar eller anger tabellens övre koordinat"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/floatingbox/top/
 ---
-## FloatingBox.Top-egenskap
+## FloatingBox.Top property
 
-Hämtar eller ställer in koordinaten för bordets överkant.
+Hämtar eller anger tabellens övre koordinat.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FloatingBox](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

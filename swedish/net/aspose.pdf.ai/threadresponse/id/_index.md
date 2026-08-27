@@ -1,21 +1,23 @@
 ---
-title: ThreadResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadResponse-egenskap. Hämtar eller ställer in identifieraren som kan refereras i API-slutpunkter
+title: "ThreadResponse.Id"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadResponse‑egenskap. Hämtar eller anger identifieraren som kan refereras i API‑ändpunkter"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/threadresponse/id/
 ---
-## ThreadResponse.Id-egenskap
+## ThreadResponse.Id property
 
-Hämtar eller ställer in identifieraren, som kan refereras i API-slutpunkter.
+Hämtar eller anger identifieraren, som kan refereras i API‑slutpunkter.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ThreadResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ThreadResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

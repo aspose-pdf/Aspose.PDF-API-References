@@ -1,21 +1,23 @@
 ---
-title: Graph.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Grafegenskap. Hämtar eller ställer in ett flyttal som anger grafens bredd. Enheten är punkt
+title: "Graph.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Graph-egenskap. Hämtar eller anger ett flyttal som indikerar diagrammets bredd. Enheten är punkt"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.drawing/graph/width/
 ---
-## Graph.Width egenskap
+## Graph.Width property
 
-Hämtar eller ställer in ett flyttal som anger grafens bredd. Enheten är punkt.
+Hämtar eller anger ett flyttal som indikerar diagrammets bredd. Enheten är punkt.
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Graph](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

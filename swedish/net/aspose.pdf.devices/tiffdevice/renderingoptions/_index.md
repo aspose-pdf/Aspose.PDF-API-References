@@ -1,22 +1,24 @@
 ---
-title: TiffDevice.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice-egenskap. Hämtar eller ställer in renderingalternativ
+title: "TiffDevice.RenderingOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TiffDevice egenskap. Hämtar eller anger renderingsalternativ"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.devices/tiffdevice/renderingoptions/
 ---
-## TiffDevice.RenderingOptions-egenskap
+## TiffDevice.RenderingOptions property
 
-Hämtar eller ställer in renderingalternativ.
+Hämtar eller anger renderingsalternativ.
 
 ```csharp
 public RenderingOptions RenderingOptions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RenderingOptions](../../../aspose.pdf/renderingoptions/)
-* klass [TiffDevice](../)
-* namnrum [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

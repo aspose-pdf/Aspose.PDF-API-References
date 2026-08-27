@@ -1,21 +1,23 @@
 ---
-title: CompletionCreateRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionCreateRequest-egenskap. Hämtar eller ställer in ID för modellen som ska användas
+title: "CompletionCreateRequest.Model"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CompletionCreateRequest egenskap. Hämtar eller anger ID‑t för den modell som ska användas."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.ai/completioncreaterequest/model/
 ---
-## CompletionCreateRequest.Model-egenskap
+## CompletionCreateRequest.Model property
 
-Hämtar eller ställer in ID för modellen som ska användas.
+Hämtar eller anger ID för modellen som ska användas.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CompletionCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

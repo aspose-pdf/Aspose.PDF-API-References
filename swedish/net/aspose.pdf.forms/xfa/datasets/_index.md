@@ -1,21 +1,23 @@
 ---
-title: XFA.Datasets
-second_title: Aspose.PDF for .NET API Reference
-description: XFA-egenskap. XFA Dataset-komponent i ett XFA-formulär
+title: "XFA.Datasets"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFA egenskap. XFA Datasets-komponent i ett XFA-formulär."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/xfa/datasets/
 ---
-## XFA.Datasets-egenskap
+## XFA.Datasets property
 
-XFA Datasets-komponenten av ett XFA-formulär.
+XFA Datasets-komponent i ett XFA-formulär.
 
 ```csharp
 public XmlNode Datasets { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XFA](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

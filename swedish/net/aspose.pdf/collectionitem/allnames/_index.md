@@ -1,21 +1,23 @@
 ---
-title: CollectionItem.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionItem-egenskap. Hämtar en samling av alla namn på värden för samlingsobjekt
+title: "CollectionItem.AllNames"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CollectionItem property. Hämtar en samling av alla namn på samlingsobjektets värden"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/collectionitem/allnames/
 ---
-## CollectionItem.AllNames-egenskap
+## CollectionItem.AllNames property
 
-Hämtar en samling av alla namn på värden för samlingsobjekt.
+Hämtar en samling av alla namn på samlingsobjektets värden.
 
 ```csharp
 public ICollection<string> AllNames { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CollectionItem](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CollectionItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

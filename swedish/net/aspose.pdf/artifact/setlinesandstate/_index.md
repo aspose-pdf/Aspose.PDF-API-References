@@ -1,14 +1,14 @@
 ---
-title: Artifact.SetLinesAndState
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-metod. Ställ in text och textegenskaper för artefakten. Möjliggör att specificera flera rader
+title: "Artifact.SetLinesAndState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact metod. Ställer in text och textegenskaper för artefakten. Tillåter att ange flera rader"
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf/artifact/setlinesandstate/
 ---
-## Artifact.SetLinesAndState metod
+## Artifact.SetLinesAndState method
 
-Ställ in text och textegenskaper för artefakten. Möjliggör att specificera flera rader.
+Anger text och textegenskaper för artefakten. Tillåter att ange flera rader.
 
 ```csharp
 public void SetLinesAndState(string[] text, TextState textState)
@@ -16,12 +16,14 @@ public void SetLinesAndState(string[] text, TextState textState)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | String[] | Array av textsträngar. |
+| text | String[] | Array av textsträng. |
 | textState | TextState | Textegenskaper. |
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

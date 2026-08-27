@@ -1,14 +1,14 @@
 ---
-title: Interface ISaveableFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ISaveableFacade-gränssnitt. Facade-gränssnitt som definierar metoder som är gemensamma för alla sparbara facader
+title: "Gränssnitt ISaveableFacade"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.ISaveableFacade‑gränssnitt. Facade‑gränssnitt som definierar metoder gemensamma för alla sparbara fasader"
 type: docs
-weight: 4370
+weight: 4490
 url: /sv/net/aspose.pdf.facades/isaveablefacade/
 ---
-## ISaveableFacade-gränssnitt
+## ISaveableFacade interface
 
-Facade-gränssnitt som definierar metoder som är gemensamma för alla sparbara facader.
+Fasadgränssnitt som definierar metoder gemensamma för alla sparbara fasader.
 
 ```csharp
 public interface ISaveableFacade : IFacade
@@ -18,11 +18,13 @@ public interface ISaveableFacade : IFacade
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Save](../../aspose.pdf.facades/isaveablefacade/save/#save)(Stream) | Sparar den resulterande PDF-dokumentet till ström. |
-| [Save](../../aspose.pdf.facades/isaveablefacade/save/#save_1)(string) | Sparar den resulterande PDF-dokumentet till fil. |
+| [Save](../../aspose.pdf.facades/isaveablefacade/save/#save)(Stream) | Sparar det resulterande PDF-dokumentet till en ström. |
+| [Save](../../aspose.pdf.facades/isaveablefacade/save/#save_1)(string) | Sparar det resulterande PDF-dokumentet till en fil. |
 
-### Se Även
+### Se även
 
-* gränssnitt [IFacade](../ifacade/)
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../)
+* interface [IFacade](../ifacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

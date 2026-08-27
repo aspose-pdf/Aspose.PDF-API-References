@@ -1,12 +1,12 @@
 ---
-title: Interface IInterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Multithreading.IInterruptMonitor-gränssnitt. Representerar information om avbrott
+title: "Gränssnitt IInterruptMonitor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Multithreading.IInterruptMonitor-gränssnitt. Representerar information om avbrott."
 type: docs
-weight: 6990
+weight: 7130
 url: /sv/net/aspose.pdf.multithreading/iinterruptmonitor/
 ---
-## IInterruptMonitor-gränssnitt
+## IInterruptMonitor interface
 
 Representerar information om avbrott.
 
@@ -18,7 +18,7 @@ public interface IInterruptMonitor : IDisposable
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CancellationToken](../../aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/) { get; } | Övervakningens avbokningstoken som används för processavbrott. Som standard genererar varje IInterruptMonitor sin egen cancellationSource |
+| [CancellationToken](../../aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/) { get; } | Monitorens avbokningstoken som används för processavbrott. Som standard genererar varje IInterruptMonitor sin egen cancellationSource. |
 
 ## Metoder
 
@@ -26,7 +26,9 @@ public interface IInterruptMonitor : IDisposable
 | --- | --- |
 | [Interrupt](../../aspose.pdf.multithreading/iinterruptmonitor/interrupt/)() | Skickar en begäran om att avbryta operationer. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../)
+
+

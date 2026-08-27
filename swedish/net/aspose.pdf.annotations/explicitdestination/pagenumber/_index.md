@@ -1,21 +1,23 @@
 ---
-title: ExplicitDestination.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: ExplicitDestination-egenskap. Hämtar destinationssidanummer
+title: "ExplicitDestination.PageNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExplicitDestination-egenskap. Hämtar destinationssidans nummer"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/explicitdestination/pagenumber/
 ---
-## ExplicitDestination.PageNumber-egenskap
+## ExplicitDestination.PageNumber property
 
-Hämtar destinationssidanummer
+Hämtar destinationssidans sidnummer
 
 ```csharp
 public int PageNumber { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

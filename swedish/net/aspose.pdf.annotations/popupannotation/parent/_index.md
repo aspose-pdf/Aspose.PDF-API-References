@@ -1,22 +1,24 @@
 ---
-title: PopupAnnotation.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: PopupAnnotation-egenskap. Hämtar eller ställer in den överordnade anteckningen som denna popup-anteckning ska associeras med. Om denna post är närvarande ska den överordnade anteckningens Innehåll, M, C och T-poster åsidosätta de för popup-anteckningen själv
+title: "PopupAnnotation.Parent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PopupAnnotation egenskap. Hämtar eller anger den överordnade anteckningen som denna popup‑anteckning ska vara associerad med. Om detta fält finns ska den överordnade anteckningens Contents M C och T poster åsidosätta dem i popup‑anteckningen själv."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/popupannotation/parent/
 ---
-## PopupAnnotation.Parent-egenskap
+## PopupAnnotation.Parent property
 
-Hämtar eller ställer in den överordnade anteckningen som denna popup-anteckning ska associeras med. Om denna post är närvarande, ska den överordnade anteckningens Innehåll, M, C och T-poster åsidosätta de för popup-anteckningen själv.
+Hämtar eller anger den överordnade annotationen som denna popup-annotation ska vara associerad med. Om detta fält finns, ska överordnad annoterings innehåll, M, C och T-uppgifter åsidosätta motsvarande uppgifter i popup-annotation själv.
 
 ```csharp
 public Annotation Parent { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../annotation/)
-* klass [PopupAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [PopupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

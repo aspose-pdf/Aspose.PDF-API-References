@@ -1,12 +1,12 @@
 ---
-title: PositionSettings.PositionSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PositionSettings-konstruktorn. Standardkonstruktorn
+title: "PositionSettings.PositionSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PositionSettings konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.tagged/positionsettings/positionsettings/
 ---
-## PositionSettings-konstruktorn
+## PositionSettings constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PositionSettings()
 ```
 
-### Se Även
+### Se även
 
-* klass [PositionSettings](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [PositionSettings](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

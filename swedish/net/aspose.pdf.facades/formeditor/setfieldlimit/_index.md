@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetFieldLimit
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-metod. Ställer in maximalt teckenantal för textfältet
+title: "FormEditor.SetFieldLimit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor-metod. Ställer in maximalt teckenantal för textfältet"
 type: docs
 weight: 310
 url: /sv/net/aspose.pdf.facades/formeditor/setfieldlimit/
 ---
-## FormEditor.SetFieldLimit metod
+## FormEditor.SetFieldLimit method
 
 Ställer in maximalt teckenantal för textfältet.
 
@@ -16,12 +16,12 @@ public bool SetFieldLimit(string fieldName, int fieldLimit)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namn på textfältet. |
-| fieldLimit | Int32 | Nytt värde för begränsningen av fältet. |
+| fieldName | String | Namnet på textfältet. |
+| fieldLimit | Int32 | Nytt värde för gränsen för fältet. |
 
 ### Returvärde
 
-true om fältbegränsningen har ställts in framgångsrikt.
+true om fältgränsen sattes framgångsrikt.
 
 ## Exempel
 
@@ -30,8 +30,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetFieldLimit.
 formEditor.SetFieldLimit("textField", 15);
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Resources.Images
-second_title: Aspose.PDF for .NET API Reference
-description: Resursens egenskap. Hämtar samlingen av Bilder bilder
+title: "Resources.Images"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Resources‑egenskap. Hämtar Images‑bildsamling"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/resources/images/
 ---
-## Resurser.Bilder egenskap
+## Resources.Images property
 
-Hämtar `Bilder` bilder samling
+Hämtar `Images`‑bildsamling
 
 ```csharp
 public XImageCollection Images { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XImageCollection](../../ximagecollection/)
-* klass [Resurser](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImageCollection](../../ximagecollection/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

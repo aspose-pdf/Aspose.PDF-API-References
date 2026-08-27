@@ -1,21 +1,23 @@
 ---
-title: MarkupAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation-egenskap. Hämtar eller ställer in en text som ska visas i titelraden för anteckningen
+title: "MarkupAnnotation.Title"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkupAnnotation-egenskap. Hämtar eller anger en textetikett som ska visas i titelraden på anteckningens popup-fönster när det är öppet och aktivt. Denna post ska identifiera användaren som lade till anteckningen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.annotations/markupannotation/title/
 ---
-## MarkupAnnotation.Title-egenskap
+## MarkupAnnotation.Title property
 
-Hämtar eller ställer in en text som ska visas i titelraden för anteckningen.
+Hämtar eller anger en textetikett som ska visas i titelraden på annoteringens popup-fönster när det är öppet och aktivt. Detta fält ska identifiera användaren som lade till annoteringen.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarkupAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

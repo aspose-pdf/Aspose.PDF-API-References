@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.WithAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest-metod. Sätter bilagorna för trådmeddelandeförfrågan
+title: "ThreadMessageCreateRequest.WithAttachments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageCreateRequest-metod. Ställer in bilagorna för trådmeddelandeförfrågan"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.ai/threadmessagecreaterequest/withattachments/
 ---
-## ThreadMessageCreateRequest.WithAttachments metod
+## ThreadMessageCreateRequest.WithAttachments method
 
-Sätter bilagorna för trådmeddelandeförfrågan.
+Anger bilagorna för trådmeldande förfrågan.
 
 ```csharp
 public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
@@ -16,15 +16,17 @@ public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| attachments | List`1 | Listan över bilagor som ska sättas. |
+| bilagor | List`1 | Listan med bilagor att ange. |
 
 ### Returvärde
 
 Den aktuella instansen av [`ThreadMessageCreateRequest`](../).
 
-### Se Även
+### Se även
 
-* klass [Attachment](../../attachment/)
-* klass [ThreadMessageCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Attachment](../../attachment/)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

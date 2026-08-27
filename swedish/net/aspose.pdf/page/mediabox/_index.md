@@ -1,14 +1,14 @@
 ---
-title: Page.MediaBox
-second_title: Aspose.PDF for .NET API Reference
-description: Sidans egenskap. Hämtar eller ställer in mediarutan för sidan
+title: "Page.MediaBox"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar eller anger mediabox för sidan."
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf/page/mediabox/
 ---
-## Page.MediaBox-egenskap
+## Page.MediaBox property
 
-Hämtar eller ställer in mediarutan för sidan.
+Hämtar eller anger mediabox för page.
 
 ```csharp
 public Rectangle MediaBox { get; set; }
@@ -16,16 +16,18 @@ public Rectangle MediaBox { get; set; }
 
 ## Exempel
 
-Exemplet visar hur man hämtar mediarutan för sidan:
+Exempel visar hur man hämtar mediabox för sidan:
 
 ```csharp
 Document document = new Document("sample.pdf");
 Rectangle mediaBox = document.Pages[1].MediaBox;
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../rectangle/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

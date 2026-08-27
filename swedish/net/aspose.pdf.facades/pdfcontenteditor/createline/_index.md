@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateLine
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Skapar linjeannotering
+title: "PdfContentEditor.CreateLine"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor method. Skapar linjeanteckning"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createline/
 ---
-## PdfContentEditor.CreateLine metod
+## PdfContentEditor.CreateLine method
 
-Skapar linjeannotering.
+Skapar linjeannotation.
 
 ```csharp
 public void CreateLine(Rectangle rect, string contents, float x1, float y1, float x2, float y2, 
@@ -17,18 +17,18 @@ public void CreateLine(Rectangle rect, string contents, float x1, float y1, floa
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Annoteringsrektangeln som definierar platsen för annoteringen på sidan. |
-| contents | String | Innehållet i annoteringen. |
-| x1 | Single | Den startande horisontella koordinaten för linjen. |
-| y1 | Single | Den startande vertikala koordinaten för linjen. |
-| x2 | Single | Den avslutande horisontella koordinaten för linjen. |
-| y2 | Single | Den avslutande vertikala koordinaten för linjen. |
-| page | Int32 | Numret på den ursprungliga sidan där annoteringen kommer att skapas. |
+| rect | Rectangle | Rektangeln för annotationen som definierar placeringen av annotationen på sidan. |
+| innehåll | String | Innehållet i annotationen. |
+| x1 | Single | Den horisontella startkoordinaten för linjen. |
+| y1 | Single | Den vertikala startkoordinaten för linjen. |
+| x2 | Single | Den horisontella slutkoordinaten för linjen. |
+| y2 | Single | Den vertikala slutkoordinaten för linjen. |
+| sida | Int32 | Numret på den ursprungliga sidan där annotationen kommer att skapas. |
 | border | Int32 | Kantens bredd i punkter. Om detta värde är 0 ritas ingen kant. Standardvärdet är 1. |
 | clr | Color | Färgen på linjen. |
-| borderStyle | String | Kantstilen som specificerar bredden och streckmönstret som ska användas vid ritning av linjen. Detta värde kan vara: "S" (Solid), "D" (Streckad), "B" (Avfasad), "I" (Inskuren), "U" (Understruken). |
-| dashArray | Int32[] | En streckarray som definierar ett mönster av streck och luckor som ska användas vid ritning av en streckad kant. Om det används måste borderStyle ställas in på "D". |
-| LEArray | String[] | En array med två värden som respektive specificerar början och slutstil för ritlinjen. Värdena kan vara: "Square", "Circle", "Diamond", "OpenArrow", "ClosedArrow", "None", "Butt", "ROpenArrow", "RClosedArrow", "Slash". |
+| borderStyle | String | Kantstilen som specificerar bredden och streckmönstret som ska användas vid ritning av linjen. Detta värde kan vara: "S" (Solid), "D" (Dashed), "B" (Beveled), "I" (Inset), "U" (Underline). |
+| dashArray | Int32[] | En dash-array som definierar ett mönster av streck och mellanrum som ska användas vid ritning av en streckad kant. Om den används måste borderSyle sättas till "D". |
+| LEArray | String[] | En array med två värden som respektive specificerar början och slutstil för den ritade linjen. Värdena kan vara: "Square", "Circle", "Diamond", "OpenArrow", "ClosedArrow", "None", "Butt", "ROpenArrow", "RClosedArrow", "Slash". |
 
 ## Exempel
 
@@ -40,8 +40,10 @@ editor.CreateLine(new System.Drawing.Rectangle(0, 0, 100, 100), "Welcome to Aspo
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

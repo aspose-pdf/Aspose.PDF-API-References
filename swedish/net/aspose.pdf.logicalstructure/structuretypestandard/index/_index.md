@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Index
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Index En sekvens av poster som innehåller identifierande text åtföljd av referenselement som pekar ut förekomster av den angivna texten i huvuddelen av ett dokument
+title: "StructureTypeStandard.Index"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard field. Index En sekvens av poster som innehåller identifierande text följd av referenselement som pekar på förekomster av den angivna texten i huvudtexten av ett Document"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/index/
 ---
-## StructureTypeStandard.Index-fält
+## StructureTypeStandard.Index field
 
-(Index) En sekvens av poster som innehåller identifierande text åtföljd av referenselement som pekar ut förekomster av den angivna texten i huvuddelen av ett dokument.
+(Index) En sekvens av poster som innehåller identifierande text följd av referenselement som pekar på förekomster av den specificerade texten i huvudtexten i ett dokument.
 
 ```csharp
 public static readonly StructureTypeStandard Index;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

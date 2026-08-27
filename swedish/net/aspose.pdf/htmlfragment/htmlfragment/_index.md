@@ -1,12 +1,12 @@
 ---
-title: HtmlFragment.HtmlFragment
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment-konstruktorn. Initierar en ny instans av HtmlFragment-klassen
+title: "HtmlFragment.HtmlFragment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlFragment constructor. Initierar en ny instans av HtmlFragment-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/htmlfragment/htmlfragment/
 ---
-## HtmlFragment-konstruktorn
+## HtmlFragment constructor
 
 Initierar en ny instans av HtmlFragment-klassen.
 
@@ -18,8 +18,10 @@ public HtmlFragment(string text)
 | --- | --- | --- |
 | text | String | Fragmenttexten |
 
-### Se Även
+### Se även
 
-* klass [HtmlFragment](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

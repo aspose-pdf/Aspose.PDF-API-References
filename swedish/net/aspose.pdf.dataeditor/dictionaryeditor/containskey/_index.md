@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor-metod. Bestämmer om DictionaryEditor innehåller ett element med den angivna nyckeln
+title: "DictionaryEditor.ContainsKey"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DictionaryEditor metod. Avgör om DictionaryEditor innehåller ett element med den angivna nyckeln"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.dataeditor/dictionaryeditor/containskey/
 ---
-## DictionaryEditor.ContainsKey metod
+## DictionaryEditor.ContainsKey method
 
-Bestämmer om [`DictionaryEditor`](../) innehåller ett element med den angivna nyckeln.
+Avgör om [`DictionaryEditor`](../) innehåller ett element med den angivna nyckeln.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,14 +16,16 @@ public bool ContainsKey(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckeln som ska lokaliseras i [`DictionaryEditor`](../). |
+| key | String | Nyckeln att hitta i [`DictionaryEditor`](../). |
 
 ### Returvärde
 
-true om [`DictionaryEditor`](../) innehåller ett redigerbart element med nyckeln; annars, false.
+true om [`DictionaryEditor`](../) innehåller ett redigerbart element med nyckeln; annars false.
 
-### Se Även
+### Se även
 
-* klass [DictionaryEditor](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

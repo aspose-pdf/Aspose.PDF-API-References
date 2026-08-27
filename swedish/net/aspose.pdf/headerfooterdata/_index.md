@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooterData
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeaderFooterData klass. Representerar pagineringsdata för header och footer
+title: "Klass HeaderFooterData"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.HeaderFooterData-klass. Representerar pagineringsdata för sidhuvud och sidfot"
 type: docs
-weight: 5440
+weight: 5560
 url: /sv/net/aspose.pdf/headerfooterdata/
 ---
-## HeaderFooterData klass
+## HeaderFooterData class
 
-Representerar pagineringsdata för header och footer.
+Representerar pagineringsdata för sidhuvud och sidfot.
 
 ```csharp
 public class HeaderFooterData
@@ -24,10 +24,12 @@ public class HeaderFooterData
 
 | Namn | Beskrivning |
 | --- | --- |
-| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Hämtar eller ställer in datuminställningarna. |
-| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Hämtar eller ställer in sidnummerinställningarna. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Hämtar eller anger datuminställningarna. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Hämtar eller anger sidnumreringsinställningarna. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

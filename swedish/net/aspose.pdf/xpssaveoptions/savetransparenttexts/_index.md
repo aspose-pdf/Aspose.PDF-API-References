@@ -1,21 +1,23 @@
 ---
-title: XpsSaveOptions.SaveTransparentTexts
-second_title: Aspose.PDF for .NET API Reference
-description: XpsSaveOptions-egenskap. Indikerar huruvida man ska bevara transparent OCRad text
+title: "XpsSaveOptions.SaveTransparentTexts"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XpsSaveOptions‑egenskap. Anger om transparent OCR‑text ska bevaras"
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.pdf/xpssaveoptions/savetransparenttexts/
 ---
-## XpsSaveOptions.SaveTransparentTexts-egenskap
+## XpsSaveOptions.SaveTransparentTexts property
 
-Indikerar huruvida man ska bevara transparent (OCR:ad) text.
+Indikerar om transparent (OCR:ad) text ska bevaras.
 
 ```csharp
 public bool SaveTransparentTexts { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XpsSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XpsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

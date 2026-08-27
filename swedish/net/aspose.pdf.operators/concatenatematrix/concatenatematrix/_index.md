@@ -1,14 +1,14 @@
 ---
-title: ConcatenateMatrix.ConcatenateMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: ConcatenateMatrix constructor. Initializes operator
+title: "ConcatenateMatrix.ConcatenateMatrix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ConcatenateMatrix-konstruktör. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/concatenatematrix/concatenatematrix/
 ---
 ## ConcatenateMatrix(double, double, double, double, double, double) {#constructor_1}
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public ConcatenateMatrix(double a, double b, double c, double d, double e, double f)
@@ -16,24 +16,24 @@ public ConcatenateMatrix(double a, double b, double c, double d, double e, doubl
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| a | Double | En koefficient |
-| b | Double | B koefficient |
-| c | Double | C koefficient |
-| d | Double | D koefficient |
-| e | Double | E koefficient |
-| f | Double | F koefficient |
+| a | Double | A-koefficient |
+| b | Double | B-koefficient |
+| c | Double | C-koefficient |
+| d | Double | D-koefficient |
+| e | Double | E-koefficient |
+| f | Double | F-koefficient |
 
-### Se Även
+### Se även
 
-* klass [ConcatenateMatrix](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [ConcatenateMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ConcatenateMatrix(Matrix) {#constructor}
 
-Initierar operatör med matris.
+Initierar operatorn med en matris.
 
 ```csharp
 public ConcatenateMatrix(Matrix m)
@@ -41,11 +41,13 @@ public ConcatenateMatrix(Matrix m)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| m | Matrix | Transformationsmatris. |
+| m | Matrix | Transfomation matris. |
 
-### Se Även
+### Se även
 
-* klass [Matrix](../../../aspose.pdf/matrix/)
-* klass [ConcatenateMatrix](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [ConcatenateMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

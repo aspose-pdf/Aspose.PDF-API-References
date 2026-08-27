@@ -1,22 +1,24 @@
 ---
-title: TextEditOptions.NoCharacterBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions-egenskap. Hämtar eller ställer in läge som definierar beteende om teckensnitt inte innehåller begärda tecken
+title: "TextEditOptions.NoCharacterBehavior"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextEditOptions-egenskap. Hämtar eller anger läge som definierar beteende när teckensnitt inte innehåller begärda tecken"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/texteditoptions/nocharacterbehavior/
 ---
-## TextEditOptions.NoCharacterBehavior-egenskap
+## TextEditOptions.NoCharacterBehavior property
 
-Hämtar eller ställer in läge som definierar beteende om teckensnitt inte innehåller begärda tecken.
+Hämtar eller anger läget som definierar beteendet om teckensnitt inte innehåller de begärda tecknen.
 
 ```csharp
 public NoCharacterAction NoCharacterBehavior { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [NoCharacterAction](../../texteditoptions.nocharacteraction/)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

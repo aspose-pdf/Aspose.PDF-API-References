@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.Value
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean-egenskap. Hämtar värdet
+title: "CosPdfBoolean.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfBoolean-egenskap. Hämtar värdet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.dataeditor/cospdfboolean/value/
 ---
-## CosPdfBoolean.Value-egenskap
+## CosPdfBoolean.Value property
 
 Hämtar värdet.
 
@@ -14,12 +14,14 @@ Hämtar värdet.
 public bool Value { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Värdet.
 
-### Se Även
+### Se även
 
-* klass [CosPdfBoolean](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: OutputTextStyle.EqualStyle
-second_title: Aspose.PDF for .NET API Reference
-description: OutputTextStyle-egenskap. Hämta och ställ in en textstil för oförändrad text
+title: "OutputTextStyle.EqualStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutputTextStyle egenskap. Hämta och sätt en textstil för oförändrad text"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.comparison/outputtextstyle/equalstyle/
 ---
-## OutputTextStyle.EqualStyle-egenskap
+## OutputTextStyle.EqualStyle property
 
-Hämta och ställ in en textstil för oförändrad text.
+Hämta och ange en textstil för oförändrad text.
 
 ```csharp
 public TextStyle EqualStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStyle](../../textstyle/)
-* klass [OutputTextStyle](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [TextStyle](../../textstyle/)
+* class [OutputTextStyle](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

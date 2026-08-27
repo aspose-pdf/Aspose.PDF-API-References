@@ -1,25 +1,27 @@
 ---
-title: SetColorStroke.R
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke-egenskap. Hämtar eller ställer in den röda komponenten
+title: "SetColorStroke.R"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetColorStroke-egenskap. Hämtar eller anger den röda komponenten"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.operators/setcolorstroke/r/
 ---
-## SetColorStroke.R-egenskap
+## SetColorStroke.R property
 
-Hämtar eller ställer in den röda komponenten.
+Hämtar eller anger den röda komponenten.
 
 ```csharp
 public double R { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Nivån av röd från 0.0 till 1.0
+Nivån av rött från 0,0 till 1,0
 
-### Se Även
+### Se även
 
-* klass [SetColorStroke](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

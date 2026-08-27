@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.DeleteVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Tar bort en vektorbutik asynkront
+title: "IOpenAIClient.DeleteVectorStoreAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Raderar en vector store asynkront"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.ai/iopenaiclient/deletevectorstoreasync/
 ---
-## IOpenAIClient.DeleteVectorStoreAsync metod
+## IOpenAIClient.DeleteVectorStoreAsync method
 
-Tar bort en vektorbutik asynkront.
+Raderar ett vektorlager asynkront.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteVectorStoreAsync(string vectorStoreId, 
@@ -17,22 +17,24 @@ public Task<DeleteStatusResponse> DeleteVectorStoreAsync(string vectorStoreId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreId | Sträng | ID:t för vektorbutiken som ska tas bort. |
+| vectorStoreId | String | ID för vektorlager att ta bort. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller statusen för borttagningsoperationen.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller statusen för raderingsoperationen.
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorbutikens ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när vektorlager-ID är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [DeleteStatusResponse](../../deletestatusresponse/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

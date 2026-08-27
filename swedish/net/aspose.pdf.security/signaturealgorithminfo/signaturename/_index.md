@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureAlgorithmInfo-egenskap. Hämtar namnet på signaturfältet
+title: "SignatureAlgorithmInfo.SignatureName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureAlgorithmInfo egenskap. Hämtar namnet på signaturfältet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.security/signaturealgorithminfo/signaturename/
 ---
-## SignatureAlgorithmInfo.SignatureName-egenskap
+## SignatureAlgorithmInfo.SignatureName property
 
 Hämtar namnet på signaturfältet.
 
@@ -14,8 +14,10 @@ Hämtar namnet på signaturfältet.
 public string SignatureName { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureAlgorithmInfo](../)
-* namnrymd [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.DisplayDuration
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-egenskap. Hämtar eller ställer in visningstid för sidor
+title: "PdfPageEditor.DisplayDuration"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-egenskap. Hämtar eller anger visningstid för sidor"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/displayduration/
 ---
-## PdfPageEditor.DisplayDuration-egenskap
+## PdfPageEditor.DisplayDuration property
 
-Hämtar eller ställer in visningstid för sidor.
+Hämtar eller anger visningstid för sidor.
 
 ```csharp
 public int DisplayDuration { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

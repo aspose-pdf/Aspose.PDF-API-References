@@ -1,14 +1,14 @@
 ---
-title: Artifact.SetPdfPage
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-metod. Ställer in PDF-sidan som placeras på dokumentets sida som artefakt
+title: "Artifact.SetPdfPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact metod. Ställer in PDF-sida som placeras på dokumentets sida som artefakt"
 type: docs
 weight: 310
 url: /sv/net/aspose.pdf/artifact/setpdfpage/
 ---
-## Artifact.SetPdfPage metod
+## Artifact.SetPdfPage method
 
-Ställer in PDF-sidan som placeras på dokumentets sida som artefakt.
+Anger PDF‑sida som placeras på dokumentets sida som artefakt.
 
 ```csharp
 public void SetPdfPage(Page page)
@@ -16,11 +16,13 @@ public void SetPdfPage(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sidan som placeras som Artefakt. |
+| sida | Page | Sida som placeras som Artifcact. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

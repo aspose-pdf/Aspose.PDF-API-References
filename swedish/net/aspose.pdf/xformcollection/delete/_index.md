@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection metod. Ta bort XForm från samlingen
+title: "XFormCollection.Delete"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFormCollection-metod. Tar bort XForm från samlingen"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/xformcollection/delete/
 ---
-## Ta bort(int) {#delete_1}
+## Delete(int) {#delete_1}
 
 Ta bort XForm från samlingen
 
@@ -16,17 +16,17 @@ public void Delete(int index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| index | Int32 | Index för XForm som måste tas bort |
+| index | Int32 | Index för XForm som ska tas bort |
 
-### Se Även
+### Se även
 
-* klass [XFormCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Ta bort() {#delete}
+## Delete() {#delete}
 
 Tar bort alla XForms från samlingen.
 
@@ -34,15 +34,15 @@ Tar bort alla XForms från samlingen.
 public void Delete()
 ```
 
-### Se Även
+### Se även
 
-* klass [XFormCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Ta bort(string) {#delete_2}
+## Delete(string) {#delete_2}
 
 Tar bort XForm från samlingen efter formulärnamn.
 
@@ -52,10 +52,12 @@ public void Delete(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Namn på XForm som ska tas bort. |
+| namn | String | Namn på XForm som ska tas bort. |
 
-### Se Även
+### Se även
 
-* klass [XFormCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

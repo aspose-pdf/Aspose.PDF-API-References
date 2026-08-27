@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.CssUrlRequestInfo.CssUrlRequestInfo
-second_title: Aspose.PDF for .NET API Reference
-description: CssUrlRequestInfo-konstruktorn. Standardkonstruktorn
+title: "HtmlSaveOptions.CssUrlRequestInfo.CssUrlRequestInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CssUrlRequestInfo‑konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/cssurlrequestinfo/
 ---
-## HtmlSaveOptions.CssUrlRequestInfo-konstruktorn
+## HtmlSaveOptions.CssUrlRequestInfo constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public CssUrlRequestInfo()
 ```
 
-### Se Även
+### Se även
 
-* klass [CssUrlRequestInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CssUrlRequestInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

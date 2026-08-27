@@ -1,14 +1,14 @@
 ---
-title: Class Png
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Png klass. Representerar Pdf till Png-plugin
+title: "Klass Png"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.Png-klass. Representerar Pdf till Png-plugin"
 type: docs
-weight: 9170
+weight: 9320
 url: /sv/net/aspose.pdf.plugins/png/
 ---
-## Png klass
+## Png class
 
-Representerar Pdf till Png-plugin.
+Representerar Pdf‑till‑Png‑plugin.
 
 ```csharp
 public sealed class Png : PdfToImage
@@ -18,7 +18,7 @@ public sealed class Png : PdfToImage
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Png](png/)() | Standardkonstruktören. |
+| [Png](png/)() | Standardkonstruktorn. |
 
 ## Metoder
 
@@ -27,8 +27,10 @@ public sealed class Png : PdfToImage
 | [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implementering av . Faktiskt, det är inte nödvändigt för . |
 | [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | Startar bearbetning med de angivna parametrarna. |
 
-### Se Även
+### Se även
 
-* klass [PdfToImage](../pdftoimage/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../)
+* class [PdfToImage](../pdftoimage/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

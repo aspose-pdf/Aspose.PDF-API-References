@@ -1,14 +1,14 @@
 ---
-title: Class Logprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.Logprobs klass. Representerar logg sannolikhetsinformation för ett val
+title: "Klass Logprobs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.Logprobs klass. Representerar loggsannolikhetsinformation för ett val"
 type: docs
-weight: 760
+weight: 810
 url: /sv/net/aspose.pdf.ai/logprobs/
 ---
-## Logprobs klass
+## Logprobs class
 
-Representerar logg sannolikhetsinformation för ett val.
+Representerar loggsannolikhetsinformation för ett val.
 
 ```csharp
 public class Logprobs
@@ -18,18 +18,20 @@ public class Logprobs
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Logprobs](logprobs/)() | Standardkonstruktören. |
+| [Logprobs](logprobs/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [TextOffset](../../aspose.pdf.ai/logprobs/textoffset/) { get; set; } | Hämtar eller ställer in en lista med heltal som representerar UTF-8 byte-representationen av varje token. |
-| [TokenLogprobs](../../aspose.pdf.ai/logprobs/tokenlogprobs/) { get; set; } | Hämtar eller ställer in en lista med token logg sannolikheter. |
-| [Tokens](../../aspose.pdf.ai/logprobs/tokens/) { get; set; } | Hämtar eller ställer in en lista med meddelandeinnehållstokens med logg sannolikhetsinformation. |
-| [TopLogprobs](../../aspose.pdf.ai/logprobs/toplogprobs/) { get; set; } | Hämtar eller ställer in en lista med de mest sannolika tokens och deras logg sannolikhet, vid varje tokenposition. |
+| [TextOffset](../../aspose.pdf.ai/logprobs/textoffset/) { get; set; } | Hämtar eller anger en lista med heltal som representerar UTF-8-byte-representationen av varje token. |
+| [TokenLogprobs](../../aspose.pdf.ai/logprobs/tokenlogprobs/) { get; set; } | Hämtar eller anger en lista med tokenloggsannolikheter. |
+| [Tokens](../../aspose.pdf.ai/logprobs/tokens/) { get; set; } | Hämtar eller anger en lista med meddelandeinnehållstoken med loggsannolikhetsinformation. |
+| [TopLogprobs](../../aspose.pdf.ai/logprobs/toplogprobs/) { get; set; } | Hämtar eller anger en lista med de mest sannolika tokenerna och deras loggsannolikhet, för varje tokenposition. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

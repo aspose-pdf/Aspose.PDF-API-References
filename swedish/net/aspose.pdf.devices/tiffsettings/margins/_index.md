@@ -1,12 +1,12 @@
 ---
-title: TiffSettings.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings-egenskap. Hämtar marginalerna
+title: "TiffSettings.Margins"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TiffSettings egenskap. Hämtar marginalerna"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.devices/tiffsettings/margins/
 ---
-## TiffSettings.Margins-egenskap
+## TiffSettings.Margins property
 
 Hämtar marginalerna.
 
@@ -14,9 +14,11 @@ Hämtar marginalerna.
 public Margins Margins { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Margins](../../margins/)
-* klass [TiffSettings](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

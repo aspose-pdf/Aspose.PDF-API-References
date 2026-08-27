@@ -1,21 +1,23 @@
 ---
-title: SetTextRise.TextRise
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextRise-egenskapen. Hämtar eller ställer in textens höjning
+title: "SetTextRise.TextRise"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetTextRise-egenskap. Hämtar eller anger texthöjden"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/settextrise/textrise/
 ---
-## SetTextRise.TextRise-egenskap
+## SetTextRise.TextRise property
 
-Hämtar eller ställer in textens höjning.
+Hämtar eller anger texthöjden.
 
 ```csharp
 public double TextRise { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetTextRise](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetTextRise](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

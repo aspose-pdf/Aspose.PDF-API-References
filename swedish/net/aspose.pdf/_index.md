@@ -1,95 +1,98 @@
 ---
-title: Aspose.Pdf
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf är ett rot-namespac för alla klasser i Aspose.Pdf-biblioteket som antingen finns direkt i det, som Document, eller indirekt genom flera subnamespaces
+title: "Aspose.Pdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf är ett rot-namnområde för alla klasser i Aspose.Pdf-biblioteket som antingen finns direkt i det, som Document, eller indirekt genom flera undernamnområden"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/
 ---
-**Aspose.Pdf** är ett rot-namespac för alla klasser i Aspose.Pdf-biblioteket som antingen finns direkt i det, som **Document**, eller indirekt genom flera subnamespaces.
+Den **Aspose.Pdf** är ett rot‑namnområde för alla klasser i Aspose.Pdf‑biblioteket som antingen finns direkt i det, som **Document**, eller indirekt via flera undernamnområden.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [ApsLoadOptions](./apsloadoptions/) | Klassen beskriver aps-laddningsalternativ. |
+| [ApsLoadOptions](./apsloadoptions/) | Klassen beskriver APS-inläsningsalternativ. |
 | [ApsSaveOptions](./apssaveoptions/) | Spara alternativ för export till APS XML-format. |
 | [Artifact](./artifact/) | Klassen representerar PDF Artifact-objekt. |
 | [ArtifactCollection](./artifactcollection/) | Klassen representerar artefaktsamling. |
-| [BackgroundArtifact](./backgroundartifact/) | Klassen beskriver bakgrundsartefakt. Denna artefakt tillåter att ställa in bakgrunden för sidan. |
-| [BaseActionCollection](./baseactioncollection/) | Klassen inkapslar grundläggande åtgärder med sid-/anteckning-/fältinteraktiva åtgärder. |
+| [AutoTaggingSettings](./autotaggingsettings/) | Tillhandahåller inställningar för automatisk taggning-funktionaliteten i PDF-dokument. |
+| [BackgroundArtifact](./backgroundartifact/) | Klassen beskriver bakgrundsartefakt. Detta artefakt möjliggör att sätta bakgrund för sidan. |
+| [BaseActionCollection](./baseactioncollection/) | Klassen inkapslar grundläggande åtgärder med interaktiva åtgärder för sida/annotation/fält. |
 | [BaseOperatorCollection](./baseoperatorcollection/) | Representerar basklass för operator-samling. |
-| [BaseParagraph](./baseparagraph/) | Representerar ett abstrakt basobjekt som kan läggas till sidan (doc.Paragraphs.Add()). |
-| [BatesNArtifact](./batesnartifact/) | Klassen beskriver Bates-nummereringsartefakt. |
+| [BaseParagraph](./baseparagraph/) | Representerar ett abstrakt basobjekt som kan läggas till på sidan (doc.Paragraphs.Add()). |
+| [BatesNArtifact](./batesnartifact/) | Klassen beskriver Bates Numbering-artefakt. |
 | [BitmapInfo](./bitmapinfo/) | Objekt som innehåller en array av pixlar och bitmap-information. |
-| [BorderInfo](./borderinfo/) | Denna klass representerar kant för grafiska element. |
-| [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | Representerar BoundsCheckableList - wrapper runt System.Collections.Generic.List. |
-| [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Representerar ett undantag som inträffar när ett objekt inte passar inom de angivna containerdimensionerna. |
-| [BuildVersionInfo](./buildversioninfo/) | Denna klass tillhandahåller information om aktuell produktversion. |
-| [CdrLoadOptions](./cdrloadoptions/) | Klassen beskriver CDR-laddningsalternativ. |
-| [Cell](./cell/) | Representerar en cell i tabellens rad. |
-| [Cells](./cells/) | Representerar en cellkollektion av rad. |
-| [Center](./center/) | Representerar centreringens inställningar för header- och footer-data. |
-| [CgmImportOptions](./cgmimportoptions/) | Importalternativ för import från Computer Graphics Metafile (CGM) format. |
-| [CgmLoadOptions](./cgmloadoptions/) | Innehåller alternativ för att ladda/importera CGM-fil till pdf-dokument. |
-| [Collection](./collection/) | Representerar klass för Collection (12.3.5 Samlingar). |
-| [CollectionField](./collectionfield/) | Representerar en dokumentkollektionsschema-fältklass. |
-| [CollectionItem](./collectionitem/) | Representerar en samlingsobjektklass. Samlingsobjektet innehåller de data som beskrivs av samlingsschemat. |
-| [CollectionSchema](./collectionschema/) | Representerar en klass som beskriver "Schema" för en dokumentkollektion. |
-| [Color](./color/) | Representerar klass för färgvärde som kan uttryckas i olika färgrum. |
-| [ColumnInfo](./columninfo/) | Denna klass representerar kolumninformation. |
-| [ComHelper](./comhelper/) | Tillhandahåller metoder för COM-klienter att ladda ett dokument i Aspose.Pdf. |
-| [CompositingParameters](./compositingparameters/) | Representerar ett objekt som innehåller grafiska sammansättningsparametrar för det aktuella grafiska tillståndet. |
-| [CrashReportOptions](./crashreportoptions/) | Alternativ för att generera kraschanmälan. |
+| [BorderInfo](./borderinfo/) | Denna klass representerar en kant för grafikelement. |
+| [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | Representerar BoundsCheckableList – en omslag runt System.Collections.Generic.List. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Representerar ett undantag som uppstår när ett objekt inte får plats inom de angivna behållardimensionerna. |
+| [BuildVersionInfo](./buildversioninfo/) | Denna klass tillhandahåller information om den aktuella produktbyggnaden. |
+| [CdrLoadOptions](./cdrloadoptions/) | Klassen beskriver CDR-inläsningsalternativ. |
+| [Cell](./cell/) | Representerar en cell i en tabellrad. |
+| [Cells](./cells/) | Representerar en samling av celler i en rad. |
+| [Center](./center/) | Representerar inställningarna för centrering av sidhuvud- och sidfotdata. |
+| [CgmImportOptions](./cgmimportoptions/) | Importalternativ för import från Computer Graphics Metafile (CGM)-formatet. |
+| [CgmLoadOptions](./cgmloadoptions/) | Innehåller alternativ för att läsa in/importera CGM-fil till ett pdf-dokument. |
+| [Collection](./collection/) | Representerar en klass för Collection (12.3.5 Collections). |
+| [CollectionField](./collectionfield/) | Representerar en klass för fält i dokumentsamlingens schema. |
+| [CollectionItem](./collectionitem/) | Representerar en klass för ett samlingsobjekt. Samlingsobjektet innehåller de data som beskrivs av samlingsschemat. |
+| [CollectionSchema](./collectionschema/) | Representerar en klass som beskriver "Schema" för en dokumentsamling. |
+| [Color](./color/) | Representerar en klass för färgvärde som kan uttryckas i olika färgrymder. |
+| [ColumnInfo](./columninfo/) | Denna klass representerar information om kolumner. |
+| [ComHelper](./comhelper/) | Tillhandahåller metoder för COM-klienter för att läsa in ett dokument i Aspose.Pdf. |
+| [CompositingParameters](./compositingparameters/) | Representerar ett objekt som innehåller sammansättningsparametrar för grafik i det aktuella grafiska tillståndet. |
+| [ConvertException](./convertexception/) | Representerar fel som uppstår under PDF_A-konvertering med hjälparobjekt. |
+| [CrashReportOptions](./crashreportoptions/) | Alternativ för generering av kraschrapport. |
 | [DateComponent](./datecomponent/) | Representerar en basklass för datumkomponenter med ett formatattribut. |
-| [DeprecatedFeatureException](./deprecatedfeatureexception/) | Undantaget som kastas när en funktion är avvecklad i den aktuella pdf-versionen. |
-| [DestinationCollection](./destinationcollection/) | Klassen representerar samlingen av alla destinationer (ett namntree som kartlägger namnsträngar till destinationer (se 12.3.2.3, "Namngivna destinationer") och (se 7.7.4, "Namndokument")) i pdf-dokumentet. |
-| [DjvuLoadOptions](./djvuloadoptions/) | Klassen beskriver DJVU-laddningsalternativ. |
+| [DeprecatedFeatureException](./deprecatedfeatureexception/) | Undantaget som kastas när en funktion är föråldrad i den aktuella pdf-versionen. |
+| [DestinationCollection](./destinationcollection/) | Klassen representerar samlingen av alla destinationer (ett namntre som mappar namnsträngar till destinationer (se 12.3.2.3, "Named Destinations") och (se 7.7.4, "Name Dictionary")) i pdf-dokumentet. |
+| [DjvuLoadOptions](./djvuloadoptions/) | Klassen beskriver DJVU-inläsningsalternativ. |
 | [DocSaveOptions](./docsaveoptions/) | Spara alternativ för export till Doc-format. |
-| [Document](./document/) | Klassen representerar PDF-dokument. |
+| [Document](./document/) | Klass som representerar PDF-dokument. |
 | [DocumentExtensions](./documentextensions/) | Tillhandahåller ytterligare funktioner för Document-klassen. |
-| [DocumentFactory](./documentfactory/) | Klassen som tillåter att skapa/ladda dokument av olika typer. |
-| [DocumentInfo](./documentinfo/) | Representerar meta-information om PDF-dokument. |
-| [EmbeddedFileCollection](./embeddedfilecollection/) | Klassen representerar samlingen av inbäddade filer. |
+| [DocumentFactory](./documentfactory/) | Klass som möjliggör att skapa/ladda dokument av olika typer. |
+| [DocumentInfo](./documentinfo/) | Representerar metadata för PDF-dokument. |
+| [EmbeddedFileCollection](./embeddedfilecollection/) | Klass som representerar samling av inbäddade filer. |
 | [EmptyValueException](./emptyvalueexception/) | Undantag som kastas när det begärda värdet inte finns. |
-| [EncryptedPayload](./encryptedpayload/) | Representerar krypterad payload i filspecifikationen. |
-| [EpubLoadOptions](./epubloadoptions/) | Innehåller alternativ för att ladda/importera EPUB-fil till pdf-dokument. |
+| [EncryptedPayload](./encryptedpayload/) | Representerar krypterad nyttolast i filspecifikationen. |
+| [EpubLoadOptions](./epubloadoptions/) | Innehåller alternativ för att läsa in/importera EPUB-fil till pdf-dokument. |
 | [EpubSaveOptions](./epubsaveoptions/) | Spara alternativ för export till EPUB-format. |
 | [ExcelSaveOptions](./excelsaveoptions/) | Spara alternativ för export till Excel-format. |
-| [ExportFieldsOptions](./exportfieldsoptions/) | Representerar basklass av alternativ för att exportera formulärfält. |
-| [ExportFieldsToJsonOptions](./exportfieldstojsonoptions/) | Representerar alternativ för att exportera formulärfält till Json-format. |
-| [FieldSerializationResult](./fieldserializationresult/) | Representerar resultatet av en formulärfältserialiseringsprocess. |
-| [FileHyperlink](./filehyperlink/) | Representerar filhyperlänkobjekt. |
+| [ExportFieldsOptions](./exportfieldsoptions/) | Representerar basklass för alternativ för export av formulärfält. |
+| [ExportFieldsToJsonOptions](./exportfieldstojsonoptions/) | Representerar alternativ för export av formulärfält till Json-format. |
+| [FieldSerializationResult](./fieldserializationresult/) | Representerar resultatet av en serialiseringsprocess för formulärfält. |
+| [FileHyperlink](./filehyperlink/) | Representerar filhyperlänksobjekt. |
 | [FileParams](./fileparams/) | Definierar en inbäddad filparameterordbok som ska innehålla ytterligare filspecifik information. |
-| [FileSpecification](./filespecification/) | Klassen representerar inbäddad fil. |
+| [FileSpecification](./filespecification/) | Klass som representerar inbäddad fil. |
 | [FloatingBox](./floatingbox/) |  |
-| [FontEmbeddingException](./fontembeddingexception/) | Undantaget som kastas när ett försök att bädda in teckensnitt misslyckas. |
-| [FontEmbeddingOptions](./fontembeddingoptions/) | PDF/A-standarden kräver att alla teckensnitt måste bäddas in i dokumentet. Denna klass inkluderar flaggor för fall när det inte är möjligt att bädda in något teckensnitt eftersom det saknas på destinationens PC. |
+| [FontEmbeddingException](./fontembeddingexception/) | Undantaget som kastas när ett försök att bädda in ett teckensnitt misslyckas. |
+| [FontEmbeddingOptions](./fontembeddingoptions/) | PDF/A-standarden kräver att alla teckensnitt måste bäddas in i dokumentet. Denna klass inkluderar flaggor för fall då det inte är möjligt att bädda in vissa teckensnitt eftersom teckensnittet saknas på mål‑datorn. |
 | [FontNotFoundException](./fontnotfoundexception/) | Undantaget som kastas när ett teckensnitt inte hittas. |
-| [Footer](./footer/) | Representerar inställningarna för sidfoten. |
-| [FooterArtifact](./footerartifact/) | Beskriver sidfotsartefakt. Detta kan användas för att ställa in sidfoten för sidan. |
-| [FormattedFragment](./formattedfragment/) | Representerar ett abstrakt formaterat fragment. |
+| [Footer](./footer/) | Representerar sidfotinställningarna. |
+| [FooterArtifact](./footerartifact/) | Beskriver sidfotartefakt. Detta kan användas för att ange sidfot på sidan. |
+| [FormattedFragment](./formattedfragment/) | Representerar abstrakt formaterat fragment. |
 | [GraphInfo](./graphinfo/) | Representerar grafikinformation. |
 | [Group](./group/) | En gruppattributklass som specificerar attributen för sidans sidgrupp för användning i den transparenta bildmodellen. |
-| [Header](./header/) | Representerar inställningarna för header. |
-| [HeaderArtifact](./headerartifact/) | Klassen beskriver headerartefakt. Denna artefakt kan användas för att ställa in rubriken för sidan. |
-| [HeaderFooter](./headerfooter/) | Klassen representerar header eller footer pdf-sida. |
-| [HeaderFooterData](./headerfooterdata/) | Representerar pagineringsdata för header och footer. |
-| [HeaderFooterSettings](./headerfootersettings/) | Representerar inställningarna för header- och footerartefakter. |
+| [Header](./header/) | Representerar sidhuvudinställningarna. |
+| [HeaderArtifact](./headerartifact/) | Klass beskriver sidhuvudartefakt. Detta artefakt kan användas för att ange rubrik på sidan. |
+| [HeaderFooter](./headerfooter/) | Klass som representerar sidhuvud eller sidfot i pdf-sida. |
+| [HeaderFooterData](./headerfooterdata/) | Representerar pagineringsdata för sidhuvud och sidfot. |
+| [HeaderFooterSettings](./headerfootersettings/) | Representerar inställningarna för sidhuvud- och sidfotartefakter. |
 | [Heading](./heading/) | Representerar rubrik. |
+| [HeadingLevels](./headinglevels/) | Representerar en klass för att arbeta med rubriknivåer baserat på teckenstorlek. |
 | [HtmlFragment](./htmlfragment/) | Representerar html-fragment. |
-| [HtmlLoadOptions](./htmlloadoptions/) | Representerar alternativ för att ladda/importera html-fil till pdf-dokument. |
-| [HtmlSaveOptions](./htmlsaveoptions/) | Spara alternativ för export till Html-format. |
+| [HtmlLoadOptions](./htmlloadoptions/) | Representerar alternativ för att läsa in/ importera html-fil till pdf-dokument. |
+| [HtmlSaveOptions](./htmlsaveoptions/) | Spara alternativ för export till Html-format |
 | [Hyperlink](./hyperlink/) | Representerar abstrakt hyperlänk. |
-| [Id](./id/) | Representerar filidentifierarstruktur. |
+| [Id](./id/) | Representerar filidentifieringsstruktur. |
 | [Image](./image/) | Representerar bild. |
-| [ImagePlacement](./imageplacement/) | Representerar egenskaperna för en bild som placeras på Pdf-dokumentets sida. |
-| [ImagePlacementAbsorber](./imageplacementabsorber/) | Representerar en absorberobjekt av bildplaceringobjekt. Utför sökning av bildanvändningar och ger åtkomst till sökresultat via [`ImagePlacements`](../aspose.pdf/imageplacementabsorber/imageplacements/) samling. |
-| [ImagePlacementCollection](./imageplacementcollection/) | Representerar en samling av bildplaceringar. |
+| [ImagePlacement](./imageplacement/) | Representerar egenskaperna för en bild placerad på en Pdf-dokumentsida. |
+| [ImagePlacementAbsorber](./imageplacementabsorber/) | Representerar ett absorberande objekt för bildplaceringsobjekt. Utför sökning efter bildanvändningar och ger åtkomst till sökresultaten via [`ImagePlacements`](../aspose.pdf/imageplacementabsorber/imageplacements/) samling. |
+| [ImagePlacementCollection](./imageplacementcollection/) | Representerar en samling av bildplaceringar |
 | [ImageStamp](./imagestamp/) | Representerar en grafisk stämpel. |
-| [ImportOptions](./importoptions/) | ImportOptions-typ håller nivå av abstraktion på individuella importalternativ. |
-| [IncorrectCMapUsageException](./incorrectcmapusageexception/) | Undantaget som kastas när teckensnitts användning är felaktig. |
-| [IncorrectFontUsageException](./incorrectfontusageexception/) | Undantaget som kastas när teckensnitts användning är felaktig. |
+| [ImportOptions](./importoptions/) | ImportOptions-typen håller en abstraktionsnivå för enskilda importalternativ. |
+| [IncorrectCMapUsageException](./incorrectcmapusageexception/) | Undantaget som kastas när teckensnittsanvändning är felaktig. |
+| [IncorrectFontUsageException](./incorrectfontusageexception/) | Undantaget som kastas när teckensnittsanvändning är felaktig. |
 | [InvalidCgmFileFormatException](./invalidcgmfileformatexception/) | Undantaget som kastas när en Cgm-fil är ogiltig. |
 | [InvalidFileFormatException](./invalidfileformatexception/) | Undantaget som kastas när en fil är ogiltig. |
 | [InvalidFormTypeOperationException](./invalidformtypeoperationexception/) | Undantaget som kastas när en operation med formulärtyp inte är giltig. |
@@ -99,186 +102,189 @@ url: /sv/net/aspose.pdf/
 | [JavaScriptCollection](./javascriptcollection/) | Denna klass representerar en samling av JavaScript. |
 | [JavascriptExtensionsException](./javascriptextensionsexception/) | Undantaget som kastas vid fel när man arbetar med JavascriptExtensions. |
 | [Layer](./layer/) | Representerar ett lager inom en PDF-sida. |
-| [Left](./left/) | Representerar vänsterjusteringens inställningar för header- och footer-data. |
+| [Left](./left/) | Representerar inställningarna för vänsterjustering av sidhuvud- och sidfotdata. |
 | [LevelFormat](./levelformat/) | Representerar formatet för innehållsförteckningen. |
 | [License](./license/) | Tillhandahåller metoder för att licensiera komponenten. |
-| [LoadOptions](./loadoptions/) | LoadOptions-typ håller nivå av abstraktion på individuella laddningsalternativ. |
-| [LocalHyperlink](./localhyperlink/) | Representerar lokal hyperlänkobjekt. |
+| [LicenseInfo](./licenseinfo/) | Representerar licensinformation. |
+| [LoadOptions](./loadoptions/) | LoadOptions-typen innehåller abstraheringsnivån för enskilda laddningsalternativ. |
+| [LocalHyperlink](./localhyperlink/) | Representerar ett lokalt hyperlänk-objekt. |
 | [MarginInfo](./margininfo/) | Denna klass representerar en marginal för olika objekt. |
-| [MarkdownSaveOptions](./markdownsaveoptions/) | Representerar dokumentets spara alternativklass i markdown-format. |
-| [Matrix](./matrix/) | Klassen representerar transformationsmatris. |
-| [Matrix3D](./matrix3d/) | Klassen representerar transformationsmatris. |
-| [MdLoadOptions](./mdloadoptions/) | Laddningsalternativ för Markdown-formatkonvertering. |
-| [Metadata](./metadata/) | Tillhandahåller åtkomst till XMP-metadata-ström. |
-| [Metered](./metered/) | Tillhandahåller metoder för att ställa in mätnyckel. |
-| [MhtLoadOptions](./mhtloadoptions/) | Representerar alternativ för att ladda/importera .mht-fil till pdf-dokument. |
-| [MobiXmlSaveOptions](./mobixmlsaveoptions/) | Spara alternativ för export till Xml-format. |
-| [NamedDestinationCollection](./nameddestinationcollection/) | Klassen representerar samlingen av alla destinationer (ett namntree som kartlägger namnsträngar till destinationer (se 12.3.2.3, "Namngivna destinationer") och (se 7.7.4, "Namndokument")) i pdf-dokumentet. |
-| [Note](./note/) | Denna klass representerar generatorparagrafnot. |
-| [ObjectReferenceCorruptedException](./objectreferencecorruptedexception/) | Representerar ett undantag som kastas när en objektreferens i ett PDF-dokument visar sig vara korrupt. Det betyder att det inte finns något objekt som pekas på av länken. |
-| [OcspSettings](./ocspsettings/) | Representerar ocsp-inställningarna som används under signeringsprocessen. |
+| [MarkdownSaveOptions](./markdownsaveoptions/) | Representerar dokumentets sparalternativsklass i markdown-format. |
+| [Matrix](./matrix/) | Klassen representerar en transformationsmatris. |
+| [Matrix3D](./matrix3d/) | Klassen representerar en transformationsmatris. |
+| [MdLoadOptions](./mdloadoptions/) | Laddningsalternativ för konvertering till Markdown-format. |
+| [Metadata](./metadata/) | Tillhandahåller åtkomst till XMP-metadataström. |
+| [Metered](./metered/) | Tillhandahåller metoder för att ställa in mätad nyckel. |
+| [MhtLoadOptions](./mhtloadoptions/) | Representerar alternativ för laddning/import av .mht-fil till pdf-dokument. |
+| [MobiXmlSaveOptions](./mobixmlsaveoptions/) | Sparalternativ för export till Xml-format. |
+| [NamedDestinationCollection](./nameddestinationcollection/) | Klassen representerar samlingen av alla destinationer (ett namntre som mappar namnsträngar till destinationer (se 12.3.2.3, "Named Destinations") och (se 7.7.4, "Name Dictionary")) i pdf-dokumentet. |
+| [Note](./note/) | Denna klass representerar en generatorparagrafnot. |
+| [ObjectReferenceCorruptedException](./objectreferencecorruptedexception/) | Representerar ett undantag som kastas när en objektreferens i ett PDF-dokument visar sig vara korrupt. Det betyder att det inte finns något objekt som länken pekar på. |
+| [OcspSettings](./ocspsettings/) | Representerar OCSP-inställningarna som används under signeringsprocessen. |
 | [OfdLoadOptions](./ofdloadoptions/) | Laddningsalternativ för OFD-format. |
-| [Operator](./operator/) | Abstrakt klass som representerar operator. |
-| [OperatorCollection](./operatorcollection/) | Klassen representerar samlingen av operatörer. |
-| [OperatorSelector](./operatorselector/) | Denna klass används för att välja operatörer med hjälp av Visitor-mallens idé. |
-| [Opi](./opi/) | Representerar The Open Prepress Interface (OPI) som är en mekanism för att skapa lågupplösta platshållare, eller proxies, för sådana högupplösta bilder. |
-| [OptimizedMemoryStream](./optimizedmemorystream/) | Definierar en MemoryStream som kan innehålla mer standardkapacitet. |
+| [Operator](./operator/) | Abstrakt klass som representerar en operator. |
+| [OperatorCollection](./operatorcollection/) | Klassen representerar en samling av operatorer. |
+| [OperatorSelector](./operatorselector/) | Denna klass används för att välja operatorer med hjälp av Visitor-mallidén. |
+| [Opi](./opi/) | Representerar The Open Prepress Interface (OPI), en mekanism för att skapa lågupplösta platshållare eller proxyer för sådana högupplösta bilder. |
+| [OptimizedMemoryStream](./optimizedmemorystream/) | Definierar en MemoryStream som kan innehålla större standardkapacitet. |
 | [OutlineCollection](./outlinecollection/) | Representerar dokumentets dispositionshierarki. |
-| [OutlineItemCollection](./outlineitemcollection/) | Representerar dispositionens post i dispositionshierarkin för PDF-dokument. |
-| [Outlines](./outlines/) | Klassen beskriver samlingen av dispositioner. |
-| [OutputIntent](./outputintent/) | Representerar en output-intent som matchar färgens egenskaper hos ett PDF-dokument med de hos en målenhet eller produktionsmiljö där dokumentet kommer att skrivas ut. |
+| [OutlineItemCollection](./outlineitemcollection/) | Representerar ett dispositionsinlägg i dispositionshierarkin för ett PDF-dokument. |
+| [Outlines](./outlines/) | Klassen beskriver en samling av dispositioner. |
+| [OutputIntent](./outputintent/) | Representerar en utskriftsavsikt som matchar färgkaraktäristiken hos ett PDF-dokument med den för en målutskriftsenhet eller produktionsmiljö där dokumentet kommer att skrivas ut. |
 | [OutputIntents](./outputintents/) | Representerar samlingen av [`OutputIntent`](../aspose.pdf/outputintent/). |
-| [Page](./page/) | Klassen representerar sidan av PDF-dokumentet. |
+| [Page](./page/) | Klass som representerar en sida i ett PDF-dokument. |
 | [PageActionCollection](./pageactioncollection/) | Denna klass beskriver sidåtgärder. |
-| [PageCollection](./pagecollection/) | Samling av PDF-dokumentets sidor. |
-| [PageCollectionExtensions](./pagecollectionextensions/) | Representerar förlängningsmetoden för att uppdatera header- och footer-paginering. |
-| [PageDate](./pagedate/) | Representerar ett datumformat som består av dag-, månad- och årskomponenter. |
+| [PageCollection](./pagecollection/) | Samling av PDF-dokumentsidor. |
+| [PageCollectionExtensions](./pagecollectionextensions/) | Representerar förlängningsmetoden för att uppdatera sidnumrering i sidhuvud och sidfot. |
+| [PageDate](./pagedate/) | Representerar ett datumformat bestående av dag-, månads- och årkomponenter. |
 | [PageInfo](./pageinfo/) | Representerar sidinformationen. |
-| [PageLabel](./pagelabel/) | Klassen representerar sidetikettens intervall. |
-| [PageLabelCollection](./pagelabelcollection/) | Klassen representerar samlingen av sidetiketter. |
-| [PageNumber](./pagenumber/) | Representerar ett sidnummerformat som inkluderar ett index, totalt antal sidor och en avgränsare. |
-| [PageNumberStamp](./pagenumberstamp/) | Representerar sidnummerstämpel och används för att numrera sidor. |
-| [PageRange](./pagerange/) | Representerar intervallet av sidor för header- och footer-inställningar. |
-| [PageSize](./pagesize/) | Klassen representerar storleken på sidan i PDF-dokumentet. |
+| [PageLabel](./pagelabel/) | Klass som representerar ett intervall för sidetiketter. |
+| [PageLabelCollection](./pagelabelcollection/) | Klass som representerar en samling av sidetiketter. |
+| [PageNumber](./pagenumber/) | Representerar ett sidnummerformat som inkluderar ett index, totalt antal sidor och ett avgränsningstecken. |
+| [PageNumberStamp](./pagenumberstamp/) | Representerar en sidnummerstämpel som används för att numrera sidor. |
+| [PageRange](./pagerange/) | Representerar intervallet av sidor för inställningar av sidhuvud och sidfot. |
+| [PageSize](./pagesize/) | Klass som representerar sidans storlek i ett PDF-dokument. |
 | [PaginationArtifact](./paginationartifact/) | Representerar en abstrakt basklass för pagineringsartefakter i ett dokument. |
-| [Paragraphs](./paragraphs/) | Denna klass representerar paragrafkollektion. |
-| [PclLoadOptions](./pclloadoptions/) | Representerar alternativ för att ladda (importera) PCL-fil till pdf-dokument. |
-| [PdfANonSpecificationFlags](./pdfanonspecificationflags/) | Denna klass håller flaggor för att styra PDF/A-konvertering för fall när käll-PDF-dokumentet inte motsvarar PDF-specifikationen. Om flaggor från denna klass används minskar det prestandan men det är nödvändigt när käll-PDF-dokumentet inte kan konverteras till PDF/A-format på vanligt sätt. Som standard är alla flaggor inställda på falskt. |
-| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/) | Denna klass beskriver regler som kan användas för att justera processen för att kopiera kodningsdata för fall när TrueType-symboliska teckensnitt har mer än en kodning. Vissa PDF-dokument efter konvertering till PDF/A-format kan ge ett fel "Mer än en kodning i symboliskt TrueType-teckensnitts cmap". Vad är orsaken till detta fel? Alla TrueType-symboliska teckensnitt har en speciell tabell "cmap" i sina interna data. Denna tabell kartlägger teckenkoder till glyfindex. Och denna tabell kan innehålla olika kodningsunderbord som beskriver använda kodningar. Se avancerad information om cmap-tabeller på https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html. Vanligtvis innehåller cmap-tabellen flera kodningsunderbord, men PDF/A-standarden kräver att antingen endast en kodningsunderbord måste lämnas för detta teckensnitt i PDF/A-dokumentet eller att det måste finnas en (3,0) kodningsunderbord bland detta teckensnitts underbord. Och nyckelfrågan här - vilka data som måste tas från andra underbord för att kopieras till destinationens kodningstabell (3,0)? Majoriteten av teckensnitt har 'välformade' cmap-tabeller där varje kodningsunderbord är helt konsekvent med ett annat underbord. Men vissa teckensnitt har cmap-tabeller med kollisioner - där till exempel ett underbord har glyfindex 100 för unicode 100, men ett annat underbord har glyfindex 200 för samma unicode 100. För att lösa dessa problem behövs en speciell strategi. Som standard används följande strategi: mac-underbord (1,0) letas efter. Om denna tabell hittas används endast dessa data för att fylla destinationstabellen (3,0). Om mac-underbordet inte hittas itereras alla underbord utom (3,0) och används för att kopiera data till destinationens (3,0) underbord. Dessutom kopieras mappningen för varje unicode (unicode, glyfindex) till destinationstabellen endast om destinationstabellen inte har denna unicode för tillfället. Så, till exempel, om det första underbordet har glyfindex 100 för unicode 100, och nästa underbord har glyfindex 200 för samma unicode 100, kommer endast data från det första underbordet (unicode=100, glyfindex=100) att kopieras. Så varje tidigare underbord har företräde framför det nästa. Egenskaperna för denna klass [`PdfASymbolicFontEncodingStrategy`](../aspose.pdf/pdfasymbolicfontencodingstrategy/) hjälper till att justera standardbeteendet. Om egenskapen [`PreferredCmapEncodingTable`](../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) av typen [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) är inställd, kommer relevant underbord att användas i företräde framför mac-underbordet (1,0). Värdet 'MacTable' från uppräkningen [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) har ingen mening i detta fall, eftersom det pekar på samma mac-underbord (1,0) som kommer att användas som standard. Egenskapen [`CmapEncodingTablesPriorityQueue`](../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) avvisar alla prioriteringar för något underbord. Om denna egenskap är inställd kommer endast underbord från den deklarerade kön att användas i angiven ordning. Om de angivna underborden inte hittas kommer standarditeration av alla underbord och kopieringsstrategin som beskrivs ovan att användas. Objektet [`QueueItem`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/) specificerar den använda kodningsunderbordet. Detta underbord kan ställas in via en kombination av medlemmar (PlatformID, PlatformSpecificId) eller via uppräkningen [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/). I fall där teckensnittet inte har (3,0) underbord kommer något annat underbord att användas för att upprätthålla PDF/A-kompatibilitet. Valet av det underbord som ska användas görs enligt samma regler som beskrivits tidigare, så att egenskaperna [`PreferredCmapEncodingTable`](../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) och [`CmapEncodingTablesPriorityQueue`](../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) används för att bestämma det resulterande underbordet, och om teckensnittet inte har de begärda underborden kommer något existerande underbord att användas. |
-| [PdfException](./pdfexception/) | Representerar fel som inträffar under PDF-applikationens körning. |
+| [Paragraphs](./paragraphs/) | Denna klass representerar en styckesamling. |
+| [PclLoadOptions](./pclloadoptions/) | Representerar alternativ för att ladda (importera) PCL-fil till ett pdf-dokument. |
+| [PdfANonSpecificationFlags](./pdfanonspecificationflags/) | Denna klass innehåller flaggor för att styra PDF/A-konvertering för fall då källdokumentet PDF inte motsvarar PDF-specifikationen. Om flaggorna för denna klass används minskar prestandan, men det är nödvändigt när källdokumentet PDF inte kan konverteras till PDF/A-format på vanligt sätt. Som standard är alla flaggor satta till falskt. |
+| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/) | Denna klass beskriver regler som kan användas för att finjustera processen för att kopiera kodningsdata i fall då en TrueType-symbolisk teckensnitt har mer än en kodning. Vissa PDF-dokument efter konvertering till PDF/A-format kan ge ett fel "More than one encoding in symbolic TrueType font's cmap". Vad är orsaken till detta fel? Alla TrueType-symboliska teckensnitt har en speciell tabell "cmap" i sin interna data. Denna tabell mappar teckenkoder till glyfindex. Och denna tabell kan innehålla olika kodning undertabeller som beskriver vilka kodningar som används. Se avancerad information om cmap-tabeller på https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html. Vanligtvis innehåller cmap-tabellen flera kodningsundertabeller, men PDF/A-standarden kräver att antingen endast en kodningsundertabell får finnas kvar för detta teckensnitt i PDF/A-dokumentet eller att det finns en (3,0) kodningsundertabell bland teckensnittets undertabeller. Och den centrala frågan här – vilka data måste tas från andra undertabeller för att kopieras till destinationskodningstabellen (3,0)? Majoriteten av teckensnitten har "well-formed" cmap-tabeller där varje kodningsundertabell är fullt konsistent med en annan undertabell. Men vissa teckensnitt har cmap-tabeller med kollisioner – där till exempel en undertabell har glyfindex 100 för unicode 100, men en annan undertabell har glyfindex 200 för samma unicode 100. För att lösa dessa problem behövs en speciell strategi. Som standard används följande strategi: mac-untertabell(1,0) söks. Om denna tabell hittas används endast dessa data för att fylla destinationstabellen (3,0). Om mac-untertabell inte hittas itereras alla undertabeller förutom (3,0) och används för att kopiera data till destinations- (3,0)-undertabellen. Även mappning för varje unicode (unicode, glyfindex) kopieras till destinations-tabellen endast om destinations-tabellen för närvarande inte har denna unicode. Så, till exempel om den första undertabellen har glyfindex 100 för unicode 100, och nästa undertabell har glyfindex 200 för samma unicode 100, kommer endast data från den första undertabellen (unicode=100, glyfindex = 100) att kopieras. Så varje tidigare undertabell har företräde framför nästa. Egenskaperna för denna klass [`PdfASymbolicFontEncodingStrategy`](../aspose.pdf/pdfasymbolicfontencodingstrategy/) hjälper till att finjustera standardbeteendet. Om egenskapen [`PreferredCmapEncodingTable`](../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) av typen [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) är satt, kommer relevant undertabell att användas i företräde framför mac-untertabell(1,0). Värdet 'MacTable' från uppräkningen [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) har ingen mening i detta fall, eftersom det pekar på samma mac-untertabell (1,0) som används som standard. Egenskapen [`CmapEncodingTablesPriorityQueue`](../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) förkastar alla prioriteringar för någon undertabell. Om denna egenskap är satt, används endast undertabeller från den deklarerade kön i angiven ordning. Om de specificerade undertabellerna inte hittas används standarditeration av alla undertabeller och kopieringsstrategin som beskrivits ovan. Objektet [`QueueItem`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/) specificerar den använda kodningsundertabellen. Denna undertabell kan sättas via en kombination av medlemmar (PlatformID, PlatformSpecificId) eller via uppräkningen [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/). Om teckensnittet saknar (3,0)-undertabell kommer någon annan undertabell att användas för att upprätthålla PDF/A-kompatibiliteten. Valet av vilken undertabell som ska användas görs enligt samma regler som beskrivits tidigare, så att egenskaperna [`PreferredCmapEncodingTable`](../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) och [`CmapEncodingTablesPriorityQueue`](../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) används för att bestämma den resulterande undertabellen, och om teckensnittet inte har den begärda undertabellen/undertabellerna används någon befintlig undertabell. |
+| [PdfException](./pdfexception/) | Representerar fel som uppstår under PDF-applikationens körning. |
 | [PdfFormatConversionOptions](./pdfformatconversionoptions/) | representerar en uppsättning alternativ för att konvertera PDF-dokument. |
-| [PdfPageStamp](./pdfpagestamp/) | Klassen representerar stämpel som använder PDF-sidan som stämpel. |
-| [PdfSaveOptions](./pdfsaveoptions/) | Spara alternativ för export till Pdf-format. |
-| [PdfXmlLoadOptions](./pdfxmlloadoptions/) | Laddningsalternativ för PdfXml-format. |
-| [PdfXmlSaveOptions](./pdfxmlsaveoptions/) | Spara alternativ för PdfXml-format. |
-| [Point](./point/) | Representerar punkt med bråkdelar av koordinater. |
-| [Point3D](./point3d/) | Representerar punkt med bråkdelar av koordinater. |
-| [PptxSaveOptions](./pptxsaveoptions/) | Spara alternativ för export till SVG-format. |
+| [PdfPageStamp](./pdfpagestamp/) | Klassen representerar en stämpel som använder en PDF-sida som stämpel. |
+| [PdfSaveOptions](./pdfsaveoptions/) | Spara alternativ för export till Pdf-format |
+| [PdfXmlLoadOptions](./pdfxmlloadoptions/) | Läsalternativ för PdfXml-format. |
+| [PdfXmlSaveOptions](./pdfxmlsaveoptions/) | Sparaalternativ för PdfXml-format. |
+| [Point](./point/) | Representerar en punkt med bråkliga koordinater. |
+| [Point3D](./point3d/) | Representerar en punkt med bråkliga koordinater. |
+| [PptxSaveOptions](./pptxsaveoptions/) | Sparaalternativ för export till SVG-format |
 | [PrintController](./printcontroller/) | Representerar utskriftskontroller. |
-| [PsLoadOptions](./psloadoptions/) | Representerar alternativ för att ladda/importera .mht-fil till pdf-dokument. |
-| [PsSaveOptions](./pssaveoptions/) | Spara alternativ för export till PS (PostScript) eller EPS-format. |
-| [Rectangle](./rectangle/) | Klassen representerar rektangel. |
-| [RenderingOptions](./renderingoptions/) | Representerar renderingalternativ. |
-| [Resources](./resources/) | Klassen representerar sidresurser. |
-| [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/) | Representerar rgb till enhetsgrå färgrumskonverteringsstrategi. |
-| [Right](./right/) | Representerar högerjusteringens inställningar för header- och footer-data. |
+| [PsLoadOptions](./psloadoptions/) | Representerar alternativ för laddning/import av .mht-fil till pdf-dokument. |
+| [PsSaveOptions](./pssaveoptions/) | Sparaalternativ för export till PS (PostScript) eller EPS-format. |
+| [Rectangle](./rectangle/) | Klassen representerar en rektangel. |
+| [RenderingOptions](./renderingoptions/) | Representerar renderingsalternativ. |
+| [Resources](./resources/) | Klassen som representerar sidresurser. |
+| [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/) | Representerar strategi för konvertering från rgb till enhetens gråa färgrymder. |
+| [Right](./right/) | Representerar inställningarna för högerjustering av sidhuvud- och sidfotdata. |
 | [Row](./row/) | Representerar en rad i tabellen. |
-| [Rows](./rows/) | Representerar en radkollektion av tabellen. |
-| [SaveOptions](./saveoptions/) | SaveOptions-typ håller nivå av abstraktion på individuella spara alternativ. |
-| [SignaturesCompromiseDetector](./signaturescompromisedetector/) | Representerar en klass för att kontrollera komprometterade signaturer i dokumentet. |
-| [Stamp](./stamp/) | En abstrakt klass för olika typer av stämplar som kommer som ättlingar. |
-| [SvgLoadOptions](./svgloadoptions/) | Representerar alternativ för att ladda/importera SVG-fil till pdf-dokument. |
-| [SvgSaveOptions](./svgsaveoptions/) | Spara alternativ för export till SVG-format. |
-| [Table](./table/) | Representerar en tabell som kan läggas till sidan. |
-| [TeXFileSystemInputDirectory](./texfilesysteminputdirectory/) | Implementerar den vanliga filsystemmetoden för att få en filström att läsa från. |
-| [TeXFileSystemOutputDirectory](./texfilesystemoutputdirectory/) | Implementerar den vanliga filsystemmetoden för att få en filström att skriva till. |
+| [Rows](./rows/) | Representerar en samling rader i tabellen. |
+| [SaveOptions](./saveoptions/) | SaveOptions-typen håller en abstraktionsnivå för individuella sparaalternativ |
+| [SignaturesCompromiseDetector](./signaturescompromisedetector/) | Representerar en klass för att kontrollera komprometterande signaturer i dokumentet. |
+| [Stamp](./stamp/) | En abstrakt klass för olika typer av stämplar som kommer som underklasser. |
+| [SvgLoadOptions](./svgloadoptions/) | Representerar alternativ för att läsa in/importera SVG-fil i pdf-dokument. |
+| [SvgSaveOptions](./svgsaveoptions/) | Sparaalternativ för export till SVG-format |
+| [Table](./table/) | Representerar en tabell som kan läggas till på sidan. |
+| [TeXFileSystemInputDirectory](./texfilesysteminputdirectory/) | Implementerar den vanliga filsystemets metod för att hämta en filström att läsa från. |
+| [TeXFileSystemOutputDirectory](./texfilesystemoutputdirectory/) | Implementerar den vanliga filsystemets metod för att hämta en filström att skriva till. |
 | [TeXFragment](./texfragment/) | Representerar TeX-fragment. |
-| [TeXLoadOptions](./texloadoptions/) | Representerar alternativ för att ladda/importera TeX-fil till PDF-dokument. |
-| [TeXMemoryOutputDirectory](./texmemoryoutputdirectory/) | Implementerar hämtning av en utdataström från minnet. Du kan använda det, till exempel när du inte vill att den medföljande utdata (som en loggfil) ska skrivas till disk men du vill läsa den senare från minnet. |
-| [TeXSaveOptions](./texsaveoptions/) | Spara alternativ för export till TeX-format. |
-| [TextStamp](./textstamp/) | Representerar textuell stämpel. |
-| [TimestampSettings](./timestampsettings/) | Representerar ocsp-inställningarna som används under signeringsprocessen. |
-| [TocInfo](./tocinfo/) | Representerar information om innehållsförteckningen. |
-| [ToUnicodeProcessingRules](./tounicodeprocessingrules/) | Denna klass beskriver regler som kan användas för att lösa Adobe Preflight-fel "Text kan inte mappas till Unicode". |
-| [TxtLoadOptions](./txtloadoptions/) | Laddningsalternativ för TXT till PDF-konvertering. |
-| [UnifiedSaveOptions](./unifiedsaveoptions/) | Denna klass representerar spara alternativ för sparande som använder en enhetlig konverteringsmetod (med en enhetlig intern dokumentmodell). |
-| [UnsupportedFontTypeException](./unsupportedfonttypeexception/) | Undantaget som kastas när en teckensnittstyp inte stöds. |
+| [TeXLoadOptions](./texloadoptions/) | Representerar alternativ för att läsa in/importera TeX‑fil till PDF‑dokument. |
+| [TeXMemoryOutputDirectory](./texmemoryoutputdirectory/) | Implementerar hämtning av en utdataström från minnet. Du kan använda den, till exempel, när du inte vill att den medföljande utdata (som en loggfil) ska skrivas till disk men du vill läsa den senare från minnet. |
+| [TeXSaveOptions](./texsaveoptions/) | Spara alternativ för export till TeX‑format. |
+| [TextStamp](./textstamp/) | Representerar textstämpel. |
+| [TimestampSettings](./timestampsettings/) | Representerar OCSP-inställningarna som används under signeringsprocessen. |
+| [TocInfo](./tocinfo/) | Representerar information om innehållsförteckning. |
+| [ToUnicodeProcessingRules](./tounicodeprocessingrules/) | Denna klass beskriver regler som kan användas för att lösa Adobe Preflight‑felet \"Text kan inte mappas till Unicode\". |
+| [TxtLoadOptions](./txtloadoptions/) | Läsalternativ för TXT till PDF‑konvertering. |
+| [UnifiedSaveOptions](./unifiedsaveoptions/) | Denna klass representerar sparalternativ för sparande som använder en enhetlig konverteringsmetod (med en enhetlig intern dokumentmodell). |
+| [UnsupportedFontTypeException](./unsupportedfonttypeexception/) | Undantaget som kastas när en typsnittstyp inte stöds. |
 | [WarningInfo](./warninginfo/) | Oföränderligt objekt för att kapsla in varningsinformation. |
-| [Watermark](./watermark/) | Representerar en vattenstämpel på sidan. |
-| [WatermarkArtifact](./watermarkartifact/) | Klassen beskriver vattenstämpelartefakt. Detta kan användas för att |
-| [WebHyperlink](./webhyperlink/) | Representerar webbhyperlänkobjekt. |
+| [Watermark](./watermark/) | Representerar en vattenstämpel för sidan. |
+| [WatermarkArtifact](./watermarkartifact/) | Klassen beskriver vattenstämpel‑artefakt. Detta kan användas för att |
+| [WebHyperlink](./webhyperlink/) | Representerar webbhyperlänksobjekt. |
 | [XForm](./xform/) | Klassen representerar XForm. |
-| [XFormCollection](./xformcollection/) | Klassen representerar samlingen av XFormCollection. |
-| [XImage](./ximage/) | Klassen representerar bild X-Objekt. |
-| [XImageCollection](./ximagecollection/) | Klassen representerar XImage-samlingen. |
-| [XmlLoadOptions](./xmlloadoptions/) | Representerar alternativ för att ladda/importera XML-fil till pdf-dokument. |
-| [XmlSaveOptions](./xmlsaveoptions/) | Spara alternativ för export till Xml-format. |
-| [XmpField](./xmpfield/) | Representerar XMP-fält. |
-| [XmpPdfAExtensionField](./xmppdfaextensionfield/) | Detta schema beskriver ett fält i en strukturerad typ. Det liknar mycket PDF/A Property Value Type-schemat, men definierar ett fält i en struktur istället för en egenskap. Schemas namnrymd URI: http://www.aiim.org/pdfa/ns/field# Obligatorisk schemas namnrymdprefix: pdfaField. |
-| [XmpPdfAExtensionObject](./xmppdfaextensionobject/) | Representerar basklassen för fält, egenskap, värdetypinstanser. |
-| [XmpPdfAExtensionProperty](./xmppdfaextensionproperty/) | Beskriver en enda egenskap. Schemas namnrymd URI: http://www.aiim.org/pdfa/ns/property# Obligatorisk schemas namnrymdprefix: pdfaProperty. |
-| [XmpPdfAExtensionSchema](./xmppdfaextensionschema/) | Beskriver XMP-tilläggsschemat som tillhandahålls av PDF/A-1. |
-| [XmpPdfAExtensionSchemaDescription](./xmppdfaextensionschemadescription/) | Representerar beskrivningen av XMP-tilläggsschemat som tillhandahålls av PDF/A-1. |
-| [XmpPdfAExtensionValueType](./xmppdfaextensionvaluetype/) | PDF/A ValueType-schemat krävs för alla egenskapsvärdetyper som inte definieras i XMP 2004-specifikationen, dvs. för värdetyper utanför följande lista: - Arraytyper (dessa är behållartyper som kan innehålla ett eller flera fält): Alt, Bag, Seq - Grundläggande värdetyper: Boolean, (öppen och stängd) Val, Datum, Dimensioner, Heltal, Lang Alt, Lokalt, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Mediehantering värdetyper: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Grundläggande Jobb/Arbetsflöde värdetyper: Jobb - EXIF-schemas värdetyper: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational. Schemas namnrymd URI: http://www.aiim.org/pdfa/ns/type# Obligatorisk schemas namnrymdprefix: pdfaType. |
-| [XmpValue](./xmpvalue/) | Representerar XMP-värde. |
-| [XpsLoadOptions](./xpsloadoptions/) | Representerar alternativ för att ladda/importera xps-fil till pdf-dokument. |
-| [XpsSaveOptions](./xpssaveoptions/) | Spara alternativ för export till Xps-format. |
-| [XslFoLoadOptions](./xslfoloadoptions/) | Representerar alternativ för att ladda/importera XSL-FO-fil till pdf-dokument. |
+| [XFormCollection](./xformcollection/) | Klassen representerar en samling av XFormCollection. |
+| [XImage](./ximage/) | Klassen representerar bild‑X‑Object. |
+| [XImageCollection](./ximagecollection/) | Klassen representerar XImage‑samling. |
+| [XmlLoadOptions](./xmlloadoptions/) | Representerar alternativ för att läsa in/importera XML‑fil till pdf‑dokument. |
+| [XmlSaveOptions](./xmlsaveoptions/) | Sparalternativ för export till Xml-format. |
+| [XmpField](./xmpfield/) | Representerar XMP‑fält. |
+| [XmpPdfAExtensionField](./xmppdfaextensionfield/) | Detta schema beskriver ett fält i en strukturerad typ. Det liknar mycket PDF/A Property Value Type‑schemat, men definierar ett fält i en struktur istället för en egenskap. Schemanamnrymd URI: http://www.aiim.org/pdfa/ns/field# Krävd schemanamnsprefix: pdfaField. |
+| [XmpPdfAExtensionObject](./xmppdfaextensionobject/) | Representerar basklassen för fält-, egenskaps- och värdetyp‑instanser. |
+| [XmpPdfAExtensionProperty](./xmppdfaextensionproperty/) | Beskriver en enskild egenskap. Schemanamnrymd URI: http://www.aiim.org/pdfa/ns/property# Krävd schemanamnsprefix: pdfaProperty. |
+| [XmpPdfAExtensionSchema](./xmppdfaextensionschema/) | Beskriver XMP‑utökningens schema som tillhandahålls av PDF/A-1. |
+| [XmpPdfAExtensionSchemaDescription](./xmppdfaextensionschemadescription/) | Representerar beskrivningen av XMP‑utökningens schema som tillhandahålls av PDF/A-1. |
+| [XmpPdfAExtensionValueType](./xmppdfaextensionvaluetype/) | PDF/A ValueType‑schemat krävs för alla egenskapsvärdetyper som inte är definierade i XMP 2004‑specifikationen, d.v.s. för värdetyper utanför följande lista: - Array types (these are container types which may contain one or more fields): Alt, Bag, Seq - Basic value types: Boolean, (open and closed) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Media Management value types: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Basic Job/Workflow value type: Job - EXIF schema value types: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schemanamnrymd URI: http://www.aiim.org/pdfa/ns/type# Krävd schemanamnsprefix: pdfaType |
+| [XmpValue](./xmpvalue/) | Representerar XMP‑värde |
+| [XpsLoadOptions](./xpsloadoptions/) | Representerar alternativ för att läsa in/importera xps‑fil till pdf‑dokument. |
+| [XpsSaveOptions](./xpssaveoptions/) | Spara alternativ för export till Xps‑format |
+| [XslFoLoadOptions](./xslfoloadoptions/) | Representerar alternativ för att läsa in/importera XSL-FO‑fil till pdf‑dokument. |
 ## Gränssnitt
 
 | Gränssnitt | Beskrivning |
 | --- | --- |
 | [IBoundsCheckableItem](./iboundscheckableitem/) |  |
-| [IColorSpaceConversionStrategy](./icolorspaceconversionstrategy/) | Gränssnitt för färgrumskonverteringsstrategier. |
-| [IIndexBitmapConverter](./iindexbitmapconverter/) | Detta gränssnitt deklareras för anpassning av kvantiseringens algoritmer. Användare kan implementera sin egen realisering av dessa algoritmer (till exempel algoritmer baserade på osäker kod). |
+| [IColorSpaceConversionStrategy](./icolorspaceconversionstrategy/) | Gränssnitt för konverteringsstrategier för färgrymder. |
+| [IIndexBitmapConverter](./iindexbitmapconverter/) | Detta gränssnitt deklareras för anpassning av kvantiseringsalgoritmer. Användare kan implementera sin egen realisering av dessa algoritmer (till exempel algoritmer baserade på okontrollerad kod). |
 | [INamedDestinationCollection](./inameddestinationcollection/) | Samling av namngivna destinationer. |
-| [IOperatorSelector](./ioperatorselector/) | Definierar Visitor för att besöka olika pdf-operatörer. |
+| [IOperatorSelector](./ioperatorselector/) | Definierar besökare för att besöka olika pdf‑operatorer. |
 | [IPageSetOptions](./ipagesetoptions/) | Definierar konverteringsalternativ relaterade till en uppsättning sidor att konvertera. |
-| [IPipelineOptions](./ipipelineoptions/) | Definierar konverteringsalternativ relaterade till pipeline-konfiguration. |
-| [ITeXInputDirectory](./itexinputdirectory/) | Gränssnitt för generaliserad TeX-inmatningskatalog. |
-| [ITeXOutputDirectory](./itexoutputdirectory/) | Gränssnitt för generaliserad TeX-utmatningskatalog. |
-| [IWarningCallback](./iwarningcallback/) | Gränssnitt för användarens callback-mekanismsupport. |
+| [IPipelineOptions](./ipipelineoptions/) | Definierar konverteringsalternativ relaterade till pipeline‑konfiguration. |
+| [ITeXInputDirectory](./itexinputdirectory/) | Gränssnitt för en generaliserad TeX‑indatamapp. |
+| [ITeXOutputDirectory](./itexoutputdirectory/) | Gränssnitt för en generaliserad TeX‑utdatamapp. |
+| [IWarningCallback](./iwarningcallback/) | Gränssnitt för stöd av användarens återuppringningsmekanism. |
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [AFRelationship](./afrelationship/) | Uppräkningen beskriver relationen mellan associerade filer. |
-| [BlendMode](./blendmode/) | Uppräkningen av blandningslägen. |
-| [BorderCornerStyle](./bordercornerstyle/) | Uppräkning av kantens hörnstilar för kant. |
-| [BorderSide](./borderside/) | Uppräkning av kantens sidor. |
-| [BoundsCheckMode](./boundscheckmode/) | Anger beteendet för gränskontroll när objekt läggs till en samling. |
-| [CollectionFieldSubtype](./collectionfieldsubtype/) | Representerar subtype-parametern för ett fält i ett schema. |
-| [ColorSpace](./colorspace/) | Uppräkningen av färgrum. |
+| [AFRelationship](./afrelationship/) | Enumeration beskriver relationen mellan associerade filer. |
+| [BlendMode](./blendmode/) | Enumeration av blandningslägen. |
+| [BorderCornerStyle](./bordercornerstyle/) | Enumererar hörnstilar för kant. |
+| [BorderSide](./borderside/) | Enumererar kantens sidor. |
+| [BoundsCheckMode](./boundscheckmode/) | Specificerar beteendet för gränskontroll när objekt läggs till i en samling. |
+| [CollectionFieldSubtype](./collectionfieldsubtype/) | Representerar subtyp‑parametern för ett fält i en schemasamling. |
+| [ColorSpace](./colorspace/) | Enumeration av färgrymder. |
 | [ColorType](./colortype/) | Anger färgtyp för element på sidan. |
-| [ColumnAdjustment](./columnadjustment/) | Uppräkning av kolumnjusteringstyper. |
-| [ContentDisposition](./contentdisposition/) | MIME-protokollens Content-Disposition-header. |
+| [ColumnAdjustment](./columnadjustment/) | Enumererar kolumnjusteringstyper. |
+| [ContentDisposition](./contentdisposition/) | MIME‑protokollets Content‑Disposition‑header. |
 | [ConvertErrorAction](./converterroraction/) | Denna klass representerar åtgärd för konverteringsfel. |
-| [ConvertSoftMaskAction](./convertsoftmaskaction/) | Denna åtgärd representerar åtgärder för konvertering av bilder med mjuk mask. |
+| [ConvertSoftMaskAction](./convertsoftmaskaction/) | Denna åtgärd representerar handlingar för konvertering av bilder med mjuk mask. |
 | [ConvertTransparencyAction](./converttransparencyaction/) | Denna klass representerar åtgärd för konvertering av transparens. |
-| [CryptoAlgorithm](./cryptoalgorithm/) | Representerar typ av kryptografisk algoritm som används i krypterings-/dekrypteringsrutiner. |
-| [DigestHashAlgorithm](./digesthashalgorithm/) | Representerar typ av algoritm som kartlägger data till en "hash". |
-| [Direction](./direction/) | Textens riktning. |
-| [EmphasisStyle](./emphasisstyle/) | Definierar de tillgängliga serialiseringsstilarna för betoning och stark betoning. För specifikation se CommonMark - Betoning och stark betoning. |
-| [ExtendedBoolean](./extendedboolean/) | Representerar boolesk typ som stöder odefinierat värde. |
+| [CryptoAlgorithm](./cryptoalgorithm/) | Representerar typ av kryptografisk algoritm som används i krypterings-/avkrypteringsrutiner. |
+| [DigestHashAlgorithm](./digesthashalgorithm/) | Representerar typ av algoritm som mappar data till en \"hash\" |
+| [Direction](./direction/) | Textriktning. |
+| [EmphasisStyle](./emphasisstyle/) | Definierar de tillgängliga serialiseringsstilarna för betoning och stark betoning. För specifikationen, se CommonMark - Emphasis and strong emphasis. |
+| [ExtendedBoolean](./extendedboolean/) | Representerar boolesk typ som stödjer värdet Undefined. |
 | [ExtractImageMode](./extractimagemode/) | Definierar olika lägen som kan användas vid extrahering av bilder från dokument. |
-| [FieldSerializationStatus](./fieldserializationstatus/) | Representerar statusen för formulärfältets serialisering. |
-| [FieldValueType](./fieldvaluetype/) | Representerar typen av ett fältvärde i en schemasamling. |
-| [FileEncoding](./fileencoding/) | Kodning av den bifogade filen. Möjliga värden: Zip - filen är komprimerad med ZIP, Ingen - filen är okomprimerad. |
+| [FieldSerializationStatus](./fieldserializationstatus/) | Representerar statusen för serialisering av formulärfält. |
+| [FieldValueType](./fieldvaluetype/) | Representerar typen av ett fältvärde i en schemakollektion. |
+| [FileEncoding](./fileencoding/) | Kodning av den bifogade filen. Möjliga värden: Zip - filen är komprimerad med ZIP, None - filen är okomprimerad. |
 | [Fixup](./fixup/) | Denna enum representerar en typ av Fixup. |
-| [FontSubsetStrategy](./fontsubsetstrategy/) | uppräkning av strategier för teckensnittssubsettering. |
+| [FontSubsetStrategy](./fontsubsetstrategy/) | enumererar strategier för teckensnittssubsetting |
 | [HeadingRecognitionStrategy](./headingrecognitionstrategy/) | Representerar typer av rubrikigenkänningsstrategier. |
-| [HeadingStyle](./headingstyle/) | Definierar de tillgängliga serialiseringsstilarna för rubriker. För specifikation se CommonMark - ATX-rubriker, respektive CommonMark - Setext-rubriker. |
+| [HeadingStyle](./headingstyle/) | Definierar de tillgängliga serialiseringsstilarna för rubriker. För specifikationen, se CommonMark - ATX headings, respektive CommonMark - Setext headings. |
 | [HorizontalAlignment](./horizontalalignment/) | Beskriver horisontell justering. |
-| [HtmlDocumentType](./htmldocumenttype/) | Representerar uppräkningen av HTML-dokumenttyper. |
-| [HtmlMediaType](./htmlmediatype/) | Anger möjliga medietyper som används under rendering. |
+| [HtmlDocumentType](./htmldocumenttype/) | Representerar uppräkning av Html-dokumenttyper. |
+| [HtmlMediaType](./htmlmediatype/) | Anger möjliga mediatyper som används under rendering. |
 | [HtmlPageLayoutOption](./htmlpagelayoutoption/) | Anger flaggor som tillsammans med andra alternativ bestämmer storlekar och layouter för sidor. |
-| [ImageDeleteAction](./imagedeleteaction/) | Åtgärd som utförs med bildobjekt när bilden tas bort från samlingen. Om bildobjektet tas bort. |
-| [ImageFileType](./imagefiletype/) | Uppräkning av bildfiltyper. |
-| [ImageFilterType](./imagefiltertype/) | Uppräkning som representerar bildfiltertyp. |
+| [ImageDeleteAction](./imagedeleteaction/) | Åtgärd som utförs med bildobjektet när bilden tas bort från samlingen. Om bildobjektet tas bort |
+| [ImageFileType](./imagefiletype/) | Enumererar bildfiltyperna. |
+| [ImageFilterType](./imagefiltertype/) | Enum som representerar bildfiltertyp. |
 | [ImportFormat](./importformat/) | Anger importformat. |
-| [LineBreakStyle](./linebreakstyle/) | Representerar de möjliga radbrytningstyperna för en fil. |
+| [LineBreakStyle](./linebreakstyle/) | Representerar möjliga radbrytningsstilar för en fil. |
 | [LoadFormat](./loadformat/) | Anger laddningsformat. |
-| [NumberingStyle](./numberingstyle/) | Uppräkning av stödda sidnumreringsstilar för PageLabel-klassen. |
-| [PageCoordinateType](./pagecoordinatetype/) | Beskriver sidkoordinattype. |
-| [PageLayout](./pagelayout/) | Beskriver sidlayout. |
-| [PageMode](./pagemode/) | Klassen beskriver använda komponenter av dokumentets sida. |
-| [ParagraphPositioningMode](./paragraphpositioningmode/) | Anger variant för att bestämma elementets plats på sidan. |
+| [NumberingStyle](./numberingstyle/) | Uppräkning av stödjade sidnumreringsstilar för PageLabel-klassen. |
+| [PageCoordinateType](./pagecoordinatetype/) | Beskriver sidkoordinattyp. |
+| [PageLayout](./pagelayout/) | Beskriver page-layout. |
+| [PageMode](./pagemode/) | Klassen beskriver använda komponenter på document page. |
+| [ParagraphPositioningMode](./paragraphpositioningmode/) | Anger variant för att bestämma elementets placering på page. |
 | [PasswordType](./passwordtype/) | Denna enum representerar kända lösenordstyper som används för lösenordsskyddade pdf-dokument. |
 | [PdfFormat](./pdfformat/) | Denna klass representerar ett pdf-format. |
-| [PdfVersion](./pdfversion/) | Denna enum representerar versionen av pdf-filen. |
+| [PdfVersion](./pdfversion/) | Denna enum representerar versionen av en pdf-fil. |
 | [Permissions](./permissions/) | Denna enum representerar användarens behörigheter för en pdf. |
-| [PrintDuplex](./printduplex/) | Pappershanteringsalternativ som ska användas när filen skrivs ut från utskriftsdialogen. |
-| [PrintScaling](./printscaling/) | Sidans skalningsalternativ som ska väljas när en utskriftsdialog visas för detta dokument. |
-| [ProgressEventType](./progresseventtype/) | Denna enum beskriver möjliga framstegshändelsetyper som kan inträffa under konvertering. |
-| [ReturnAction](./returnaction/) | Enum representerade en programarbetsflödesåtgärd vid anrop av [`Warning`](../aspose.pdf/iwarningcallback/warning/) metoden. |
-| [Rotation](./rotation/) | Uppräkning av möjliga rotationsvärden. |
-| [SaveFormat](./saveformat/) | Anger format. |
-| [Subset](./subset/) | Representerar delmängden av sidor som en pagineringsartefakt kan tillämpas på. |
-| [TableBroken](./tablebroken/) | Uppräkning av den brutna tabellen. |
-| [TabOrder](./taborder/) | Tabordning på sidan. |
-| [TeXLoadResult](./texloadresult/) | Resultat för TeX-laddning och kompilering. |
-| [VerticalAlignment](./verticalalignment/) | Uppräkning av möjliga vertikala justeringsvärden. |
+| [PrintDuplex](./printduplex/) | Pappershanteringsalternativet att använda när filen skrivs ut från utskriftsdialogen. |
+| [PrintScaling](./printscaling/) | Page-skalningsalternativet som ska väljas när en utskriftsdialog visas för detta document. |
+| [ProgressEventType](./progresseventtype/) | Denna enum beskriver möjliga typer av förloppshändelser som kan inträffa under konvertering. |
+| [ReturnAction](./returnaction/) | Enum representerade en programarbetsflödesåtgärd vid anrop av metoden [`Warning`](../aspose.pdf/iwarningcallback/warning/). |
+| [Rotation](./rotation/) | Enumeration av möjliga rotationsvärden. |
+| [SaveFormat](./saveformat/) | Anger format |
+| [Subset](./subset/) | Representerar delmängden av sidor som ett pagineringsartefakt kan tillämpas på. |
+| [TableBroken](./tablebroken/) | Enumererar den brutna tabellen. |
+| [TabOrder](./taborder/) | Tabbordning på page |
+| [TeXLoadResult](./texloadresult/) | Resultat för TeX-inläsning och kompilering. |
+| [VerticalAlignment](./verticalalignment/) | Enumeration av möjliga vertikala justeringsvärden. |
 | [WarningType](./warningtype/) | Enum representerade varningstyp. |
-| [XfaTag](./xfatag/) | Xfa-strömmen tagg. |
+| [XfaTag](./xfatag/) | Xfa-strömtaggen |
 | [XmpFieldType](./xmpfieldtype/) | Denna enum representerar typer av ett XMP-fält. |
 | [XmpPdfAExtensionCategoryType](./xmppdfaextensioncategorytype/) | Egenskapskategori: intern eller extern. |
+
+

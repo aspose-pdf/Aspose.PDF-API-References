@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Form
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard fält. Form En widget-annotering som representerar ett interaktivt formulärfält
+title: "StructureTypeStandard.Form"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard field. Form En widget-annotation som representerar ett interaktivt formulärfält"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/form/
 ---
-## StructureTypeStandard.Form fält
+## StructureTypeStandard.Form field
 
-(Form) En widget-annotering som representerar ett interaktivt formulärfält.
+(Form) En widget-annotation som representerar ett interaktivt formulärfält.
 
 ```csharp
 public static readonly StructureTypeStandard Form;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

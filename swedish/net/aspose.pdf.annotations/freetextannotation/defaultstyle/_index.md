@@ -1,21 +1,23 @@
 ---
-title: FreeTextAnnotation.DefaultStyle
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation-egenskap. Hämtar eller ställer in en standardstilsträng
+title: "FreeTextAnnotation.DefaultStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FreeTextAnnotation-egenskap. Hämtar eller anger en standardstilssträng."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/freetextannotation/defaultstyle/
 ---
-## FreeTextAnnotation.DefaultStyle-egenskap
+## FreeTextAnnotation.DefaultStyle property
 
-Hämtar eller ställer in en standardstilsträng.
+Hämtar eller anger en standardstilssträng.
 
 ```csharp
 public string DefaultStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FreeTextAnnotation](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

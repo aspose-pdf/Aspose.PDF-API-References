@@ -1,14 +1,14 @@
 ---
-title: Enum PdfToHtmlOptions.SaveDataType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToHtmlOptionsSaveDataType enum. Definierar utgångstyp av HTML-fil
+title: "Enum PdfToHtmlOptions.SaveDataType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.PdfToHtmlOptionsSaveDataType-enum. Definierar utmatningstyp för HTML-fil"
 type: docs
-weight: 9110
+weight: 9260
 url: /sv/net/aspose.pdf.plugins/pdftohtmloptions.savedatatype/
 ---
 ## PdfToHtmlOptions.SaveDataType enumeration
 
-Definierar utgångstyp av HTML-fil.
+Definierar utmatningstyp för HTML-fil.
 
 ```csharp
 public enum SaveDataType
@@ -22,8 +22,10 @@ public enum SaveDataType
 | FileWithEmbeddedResources | `1` | Spara HTMl till fil med inbäddade resurser |
 | StreamWithEmbeddedResources | `2` | Spara HTMl till filström med inbäddade resurser |
 
-### Se Även
+### Se även
 
-* klass [PdfToHtmlOptions](../pdftohtmloptions/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../)
+* class [PdfToHtmlOptions](../pdftohtmloptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

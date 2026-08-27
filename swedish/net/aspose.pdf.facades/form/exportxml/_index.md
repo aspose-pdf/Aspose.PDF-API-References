@@ -1,14 +1,14 @@
 ---
-title: Form.ExportXml
-second_title: Aspose.PDF for .NET API Reference
-description: Formulärmetod. Exporterar innehållet i fälten i pdfen till xml-strömmen. Värdet av knappfälten kommer inte att exporteras
+title: "Form.ExportXml"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formulärmetod. Exporterar innehållet i fälten i pdf-filen till xml‑strömmen. Värdet för knappraderna exporteras inte."
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/form/exportxml/
 ---
-## Form.ExportXml metod
+## Form.ExportXml method
 
-Exporterar innehållet i fälten i pdf:en till xml-strömmen. Värdet av knappfältet kommer inte att exporteras.
+Exporterar innehållet i pdf-fältens data till xml-strömmen. Värdet för knappfältet exporteras inte.
 
 ```csharp
 public void ExportXml(Stream outputXmlStream)
@@ -16,7 +16,7 @@ public void ExportXml(Stream outputXmlStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputXmlStream | Stream | Utdata Xml-ström. |
+| outputXmlStream | Stream | Utdata Xml‑ström. |
 
 ## Exempel
 
@@ -27,8 +27,10 @@ form.ExportXml(fs);
 fs.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

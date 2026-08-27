@@ -1,22 +1,24 @@
 ---
-title: RedactionAnnotation.BorderColor
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation-egenskap. Hämtar eller ställer in färgen på kanten som ritas när redigering inte är aktiv
+title: "RedactionAnnotation.BorderColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RedactionAnnotation egenskap. Hämtar eller anger färgen på kanten som ritas när redaction inte är aktiv"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/redactionannotation/bordercolor/
 ---
-## RedactionAnnotation.BorderColor-egenskap
+## RedactionAnnotation.BorderColor property
 
-Hämtar eller ställer in färgen på kanten som ritas när redigering inte är aktiv.
+Hämtar eller anger färg på kantlinjen som ritas när raderingen inte är aktiv.
 
 ```csharp
 public Color BorderColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [RedactionAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Color](../../../aspose.pdf/color/)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

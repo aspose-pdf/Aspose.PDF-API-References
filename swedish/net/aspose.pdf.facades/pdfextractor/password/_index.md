@@ -1,21 +1,23 @@
 ---
-title: PdfExtractor.Password
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-egenskap. Hämtar eller ställer in lösenord för inmatningsfiler
+title: "PdfExtractor.Password"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-egenskap. Hämtar eller anger lösenordet för inmatningsfiler."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.facades/pdfextractor/password/
 ---
-## PdfExtractor.Password-egenskap
+## PdfExtractor.Password property
 
-Hämtar eller ställer in lösenordet för inmatningsfilen.
+Hämtar eller anger lösenordet för indatafilen.
 
 ```csharp
 public string Password { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

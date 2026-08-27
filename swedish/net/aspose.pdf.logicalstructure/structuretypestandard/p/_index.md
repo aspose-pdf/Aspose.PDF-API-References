@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.P
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Stycke En låg nivå av text
+title: "StructureTypeStandard.P"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard fält. Stycke En låg‑nivå indelning av text."
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/p/
 ---
-## StructureTypeStandard.P-fält
+## StructureTypeStandard.P field
 
-(Stykke) En låg nivå av text.
+(Paragraph) En låg nivå division av text.
 
 ```csharp
 public static readonly StructureTypeStandard P;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

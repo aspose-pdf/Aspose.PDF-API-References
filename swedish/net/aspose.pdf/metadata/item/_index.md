@@ -1,14 +1,14 @@
 ---
-title: Metadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-egenskap. Hämtar eller ställer in data från metadata
+title: "Metadata.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata‑egenskap. Hämtar eller anger data från metadata"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/metadata/item/
 ---
-## Metadata-indexer
+## Metadata indexer
 
-Hämtar eller ställer in data från metadata.
+Hämtar eller anger data från metadata.
 
 ```csharp
 public XmpValue this[string key] { get; set; }
@@ -16,15 +16,17 @@ public XmpValue this[string key] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| key | Nyckelnamn. |
+| nyckel | Nyckelnamnet. |
 
 ### Returvärde
 
-Metadata-objekt.
+Metadata‑objekt.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../xmpvalue/)
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

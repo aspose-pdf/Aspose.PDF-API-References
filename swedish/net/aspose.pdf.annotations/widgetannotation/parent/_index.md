@@ -1,22 +1,24 @@
 ---
-title: WidgetAnnotation.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation-egenskap. Hämtar annoteringens förälder
+title: "WidgetAnnotation.Parent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WidgetAnnotation-egenskap. Hämtar annoteringens förälder"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.annotations/widgetannotation/parent/
 ---
-## WidgetAnnotation.Parent-egenskap
+## WidgetAnnotation.Parent property
 
-Hämtar annoteringens förälder.
+Hämtar annotationens förälder.
 
 ```csharp
 public Field Parent { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Field](../../../aspose.pdf.forms/field/)
-* klass [WidgetAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Field](../../../aspose.pdf.forms/field/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum ProgressEventType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ProgressEventType enum. Denna enum beskriver möjliga framstegshändelsetyper som kan inträffa under konvertering
+title: "Enum ProgressEventType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ProgressEventType enum. Denna enum beskriver möjliga typer av förloppshändelser som kan inträffa under konvertering"
 type: docs
-weight: 9720
+weight: 9870
 url: /sv/net/aspose.pdf/progresseventtype/
 ---
-## ProgressEventType-uppräkning
+## ProgressEventType enumeration
 
-Denna enum beskriver möjliga framstegshändelsetyper som kan inträffa under konvertering
+Denna enum beskriver möjliga typer av förloppshändelser som kan inträffa under konvertering.
 
 ```csharp
 public enum ProgressEventType
@@ -18,12 +18,14 @@ public enum ProgressEventType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| TotalProgress | `0` | betyder att den inträffade händelsen informerar om den totala framstegen av konverteringen |
-| SourcePageAnalysed | `1` | betyder att den inträffade händelsen informerar om slutet av analysen av en av sidorna före konverteringen |
-| ResultPageCreated | `2` | betyder att den inträffade händelsen informerar om skapandet av en resultat sida före den fysiska exporten |
-| ResultPageSaved | `3` | betyder att den inträffade händelsen informerar om att sparandet av en resultat sida är klart |
+| TotalProgress | `0` | betyder att den inträffade händelsen informerar om total konverteringsförlopp |
+| SourcePageAnalysed | `1` | betyder att den inträffade händelsen informerar om slutet av analysen av en av sidorna före konvertering |
+| ResultPageCreated | `2` | betyder att den inträffade händelsen informerar om skapandet av en resultatsida före fysisk export |
+| ResultPageSaved | `3` | betyder att den inträffade händelsen informerar om att sparandet av en resultatsida har slutförts |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

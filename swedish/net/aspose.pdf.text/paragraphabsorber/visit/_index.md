@@ -1,7 +1,7 @@
 ---
-title: ParagraphAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber-metod. Utför sökning efter sektioner och stycken i det angivna Dokumentet
+title: "ParagraphAbsorber.Visit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ParagraphAbsorber metod. Utför sökning efter sektioner och stycken i det angivna Document"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/paragraphabsorber/visit/
@@ -14,15 +14,15 @@ Utför sökning efter sektioner och stycken i det angivna [`Document`](../../../
 public void Visit(Document doc)
 ```
 
-| Parameter | Type | Beskrivning |
+| Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Document | Pdf-dokumentobjekt. |
+| doc | Dokument | Pdf-dokumentobjekt. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [ParagraphAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Document](../../../aspose.pdf/document/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -35,13 +35,15 @@ Utför sökning på den angivna [`Page`](../../../aspose.pdf/page/).
 public void Visit(Page page)
 ```
 
-| Parameter | Type | Beskrivning |
+| Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Pdf-dokument sidobjekt. |
+| sida | Page | Pdf-dokumentsidesobjekt. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [ParagraphAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.SPLITVOUT
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-fält. Ut Vertikal Split
+title: "PdfPageEditor.SPLITVOUT"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-fält. Ut vertikal delning"
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/splitvout/
 ---
-## PdfPageEditor.SPLITVOUT-fält
+## PdfPageEditor.SPLITVOUT field
 
-Ut Vertikal Split
+Ut vertikal delning
 
 ```csharp
 public const int SPLITVOUT;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BarcodeField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: BarcodeField-egenskap. Hämtar rubriken för streckkodobjektet
+title: "BarcodeField.Caption"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BarcodeField-egenskap. Hämtar rubriken för streckkodobjektet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/barcodefield/caption/
 ---
-## BarcodeField.Caption-egenskap
+## BarcodeField.Caption property
 
 Hämtar rubriken för streckkodobjektet.
 
@@ -14,8 +14,10 @@ Hämtar rubriken för streckkodobjektet.
 public string Caption { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BarcodeField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

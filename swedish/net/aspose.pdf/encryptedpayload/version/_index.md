@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.Version
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptedPayload-egenskap. Hämtar versionsnummer
+title: "EncryptedPayload.Version"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EncryptedPayload egenskap. Hämtar versionsnummer"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/encryptedpayload/version/
 ---
-## EncryptedPayload.Version-egenskap
+## EncryptedPayload.Version property
 
 Hämtar versionsnummer.
 
@@ -14,8 +14,10 @@ Hämtar versionsnummer.
 public string Version { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [EncryptedPayload](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

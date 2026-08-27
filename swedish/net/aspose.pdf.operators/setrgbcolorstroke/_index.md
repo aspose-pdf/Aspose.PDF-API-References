@@ -1,14 +1,14 @@
 ---
-title: Class SetRGBColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetRGBColorStroke klass. Klass som representerar RG-operatorn som ställer in RGB-färg för strokningoperatorer
+title: "Klass SetRGBColorStroke"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetRGBColorStroke klass. Klass som representerar RG-operatorn som sätter RGB-färg för strekningsoperatorer."
 type: docs
-weight: 7800
+weight: 7940
 url: /sv/net/aspose.pdf.operators/setrgbcolorstroke/
 ---
-## SetRGBColorStroke klass
+## SetRGBColorStroke class
 
-Klass som representerar RG-operatorn (ställer in RGB-färg för strokningoperatorer).
+Klass som representerar RG-operatorn (sätter RGB-färg för strokande operatorer).
 
 ```csharp
 public class SetRGBColorStroke : SetColorOperator
@@ -25,22 +25,24 @@ public class SetRGBColorStroke : SetColorOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [B](../../aspose.pdf.operators/setrgbcolorstroke/b/) { get; set; } | Hämtar eller ställer in den blå komponenten. |
-| [G](../../aspose.pdf.operators/setrgbcolorstroke/g/) { get; set; } | Hämtar eller ställer in den gröna komponenten. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i listan över sidoperatorer. |
-| [R](../../aspose.pdf.operators/setrgbcolorstroke/r/) { get; set; } | Hämtar eller ställer in den röda komponenten. |
+| [B](../../aspose.pdf.operators/setrgbcolorstroke/b/) { get; set; } | Hämtar eller anger den blå komponenten. |
+| [G](../../aspose.pdf.operators/setrgbcolorstroke/g/) { get; set; } | Hämtar eller anger den gröna komponenten. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [R](../../aspose.pdf.operators/setrgbcolorstroke/r/) { get; set; } | Hämtar eller anger den röda komponenten. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setrgbcolorstroke/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [getColor](../../aspose.pdf.operators/setrgbcolorstroke/getcolor/)() | Returnerar färgen som specificeras av operatorn. |
-| override [ToString](../../aspose.pdf.operators/setrgbcolorstroke/tostring/)() | Returnerar textrepresentationen av operatorn. |
+| override [getColor](../../aspose.pdf.operators/setrgbcolorstroke/getcolor/)() | Returnerar färgen som specificerats av operatorn. |
+| override [ToString](../../aspose.pdf.operators/setrgbcolorstroke/tostring/)() | Returnerar textrepresentation av operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [SetColorOperator](../setcoloroperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../)
+* class [SetColorOperator](../setcoloroperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

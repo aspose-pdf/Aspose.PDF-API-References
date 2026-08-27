@@ -1,21 +1,23 @@
 ---
-title: CreateFineTuningJobResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse-egenskap. Hämtar eller ställer in statusen för finjusteringsjobbet
+title: "CreateFineTuningJobResponse.Status"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateFineTuningJobResponse‑egenskap. Hämtar eller anger statusen för finetuning‑jobbet"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.ai/createfinetuningjobresponse/status/
 ---
-## CreateFineTuningJobResponse.Status-egenskap
+## CreateFineTuningJobResponse.Status property
 
-Hämtar eller ställer in statusen för finjusteringsjobbet.
+Hämtar eller anger statusen för finjusteringsjobbet.
 
 ```csharp
 public string Status { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateFineTuningJobResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

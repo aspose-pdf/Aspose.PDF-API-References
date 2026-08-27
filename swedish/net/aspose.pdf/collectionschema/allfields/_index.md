@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.AllFields
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionSchema-egenskap. Hämtar alla schemats fält
+title: "CollectionSchema.AllFields"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CollectionSchema-egenskap. Hämtar alla fält i schemat"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/collectionschema/allfields/
 ---
-## CollectionSchema.AllFields-egenskap
+## CollectionSchema.AllFields property
 
 Hämtar alla schemats fält.
 
@@ -14,9 +14,11 @@ Hämtar alla schemats fält.
 public ICollection<CollectionField> AllFields { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CollectionField](../../collectionfield/)
-* klass [CollectionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [CollectionField](../../collectionfield/)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

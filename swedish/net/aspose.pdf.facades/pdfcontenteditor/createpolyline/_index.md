@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePolyLine
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Skapar polyline-annotering
+title: "`PdfContentEditor.CreatePolyLine`"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "`PdfContentEditor`-metod. Skapar en polylinjeanteckning"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createpolyline/
 ---
-## PdfContentEditor.CreatePolyLine metod
+## PdfContentEditor.CreatePolyLine method
 
-Skapar polyline-annotering.
+Skapar polylinjeannotation.
 
 ```csharp
 public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
@@ -17,9 +17,9 @@ public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, str
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | lineInfo | LineInfo | Instansen av LineInfo-klassen. |
-| page | Int32 | Numret på den ursprungliga sidan där annoteringen kommer att skapas. |
-| annotRect | Rectangle | Annoteringsrektangeln som definierar platsen för annoteringen på sidan. |
-| annotContents | String | Innehållet i annoteringen. |
+| sida | Int32 | Numret på den ursprungliga sidan där annotationen kommer att skapas. |
+| annotRect | Rectangle | Rektangeln för annotationen som definierar placeringen av annotationen på sidan. |
+| annotContents | String | Innehållet i annotationen. |
 
 ## Exempel
 
@@ -33,9 +33,11 @@ editor.CreatePolyLine(lineInfo, 1 , new System.Drawing.Rectangle(0, 0, 0, 0), "W
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [LineInfo](../../lineinfo/)
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

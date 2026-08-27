@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptions klass. SaveOptions-typ håller en nivå av abstraktion på individuella spara alternativ
+title: "Klass SaveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.SaveOptions-klass. SaveOptions-typen håller en abstraktionsnivå för individuella sparalternativ"
 type: docs
-weight: 9870
+weight: 10020
 url: /sv/net/aspose.pdf/saveoptions/
 ---
-## SaveOptions klass
+## SaveOptions class
 
-SaveOptions-typ håller en nivå av abstraktion på individuella spara alternativ
+SaveOptions-typen håller en abstraktionsnivå för individuella sparaalternativ
 
 ```csharp
 public abstract class SaveOptions
@@ -18,12 +18,14 @@ public abstract class SaveOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Hämtar eller ställer in ett booleanvärde som indikerar om teckensnittsglypher kommer att cachas medan aps-sidor förbereds. Förbättrar prestandan vid konvertering av pdf till andra format men ökar minnesanvändningen. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Hämtar eller ställer in ett booleanvärde som indikerar om Response-objektet kommer att stängas efter att dokumentet har sparats i svaret. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format för datalagring. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och sparaoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall sparaoperationen ska upphöra. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Hämtar eller anger ett booleskt värde som indikerar om teckenglyfer ska cachas medan APS‑sidor förbereds. Förbättrar prestanda för konvertering av PDF till andra format men ökar minnesanvändningen. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Hämtar eller anger ett booleskt värde som indikerar om Response‑objektet ska stängas efter att dokumentet har sparats i svaret. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format för datasparning. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Återuppringning för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction‑enum‑element som specificerar antingen Continue eller Abort. Continue är standardåtgärden och Save‑operationen fortsätter, men användaren kan också returnera Abort, varvid Save‑operationen ska avbrytas. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

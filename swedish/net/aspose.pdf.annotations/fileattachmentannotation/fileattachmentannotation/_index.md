@@ -1,14 +1,14 @@
 ---
-title: FileAttachmentAnnotation.FileAttachmentAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: FileAttachmentAnnotation-konstruktorn. Skapar en ny FileAttachment-anteckning på den angivna sidan
+title: "FileAttachmentAnnotation.FileAttachmentAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileAttachmentAnnotation-konstruktor. Skapar en ny FileAttachment-annotation på den angivna sidan"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/fileattachmentannotation/fileattachmentannotation/
 ---
-## FileAttachmentAnnotation-konstruktorn
+## FileAttachmentAnnotation constructor
 
-Skapar en ny FileAttachment-anteckning på den angivna sidan.
+Skapar en ny FileAttachment‑anteckning på den angivna sidan.
 
 ```csharp
 public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fileSpec)
@@ -16,15 +16,17 @@ public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fil
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Dokumentets sida där anteckningen ska skapas. |
-| rect | Rectangle | Obligatorisk rektangel som sätter anteckningens kant. |
-| fileSpec | FileSpecification | Beskriver filen som ska kopplas till anteckningen. |
+| sida | Page | Dokumentets sida där annoteringen ska skapas. |
+| rect | Rectangle | Krävd rektangel som anger annotationens kant. |
+| fileSpec | FileSpecification | Beskriver filen som ska bindas till annotationen. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [FileSpecification](../../../aspose.pdf/filespecification/)
-* klass [FileAttachmentAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [FileAttachmentAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

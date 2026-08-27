@@ -1,30 +1,30 @@
 ---
-title: InvalidCgmFileFormatException.InvalidCgmFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidCgmFileFormatException-konstruktorn. Initierar en ny instans av InvalidCgmFileFormatException-klassen
+title: "InvalidCgmFileFormatException.InvalidCgmFileFormatException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "InvalidCgmFileFormatException-konstruktor. Initierar en ny instans av klassen InvalidCgmFileFormatException"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/invalidcgmfileformatexception/invalidcgmfileformatexception/
 ---
 ## InvalidCgmFileFormatException() {#constructor}
 
-Initierar en ny instans av den [`InvalidCgmFileFormatException`](../) klassen.
+Initierar en ny instans av klassen [`InvalidCgmFileFormatException`](../).
 
 ```csharp
 public InvalidCgmFileFormatException()
 ```
 
-### Se Även
+### Se även
 
-* klass [InvalidCgmFileFormatException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidCgmFileFormatException(string) {#constructor_2}
 
-Initierar en ny instans av den [`InvalidCgmFileFormatException`](../) klassen.
+Initierar en ny instans av klassen [`InvalidCgmFileFormatException`](../).
 
 ```csharp
 public InvalidCgmFileFormatException(string message)
@@ -32,19 +32,19 @@ public InvalidCgmFileFormatException(string message)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Meddelandet. |
+| meddelande | String | Meddelandet. |
 
-### Se Även
+### Se även
 
-* klass [InvalidCgmFileFormatException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidCgmFileFormatException(string, Exception) {#constructor_3}
 
-Initierar en ny instans av den [`InvalidCgmFileFormatException`](../) klassen med ett specificerat felmeddelande och en referens till den inre undantaget som orsakar detta undantag.
+Initierar en ny instans av klassen [`InvalidCgmFileFormatException`](../) med ett specificerat felmeddelande och en referens till det inre undantaget som är orsaken till detta undantag.
 
 ```csharp
 public InvalidCgmFileFormatException(string message, Exception innerException)
@@ -52,20 +52,20 @@ public InvalidCgmFileFormatException(string message, Exception innerException)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Felmeddelandet som förklarar orsaken till undantaget. |
-| innerException | Exception | Undantaget som orsakar det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag anges. |
+| meddelande | String | Felmeddelandet som förklarar orsaken till undantaget. |
+| innerException | Exception | Undantaget som är orsaken till det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag har angetts. |
 
-### Se Även
+### Se även
 
-* klass [InvalidCgmFileFormatException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidCgmFileFormatException(Exception) {#constructor_1}
 
-Initierar en ny instans av den [`InvalidCgmFileFormatException`](../) klassen med ett specificerat felmeddelande och en referens till den inre undantaget som orsakar detta undantag.
+Initierar en ny instans av klassen [`InvalidCgmFileFormatException`](../) med ett specificerat felmeddelande och en referens till det inre undantaget som är orsaken till detta undantag.
 
 ```csharp
 public InvalidCgmFileFormatException(Exception innerException)
@@ -73,10 +73,12 @@ public InvalidCgmFileFormatException(Exception innerException)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| innerException | Exception | Undantaget som orsakar det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag anges. |
+| innerException | Exception | Undantaget som är orsaken till det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag har angetts. |
 
-### Se Även
+### Se även
 
-* klass [InvalidCgmFileFormatException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

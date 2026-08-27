@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.AllKeys
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor-egenskap. Fullständig samling av nycklar. Innehåller redigerbara och icke-redigerbara nycklar
+title: "DictionaryEditor.AllKeys"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DictionaryEditor‑egenskap. Fullständig samling av nycklar. Innehåller redigerbara och icke‑redigerbara nycklar"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.dataeditor/dictionaryeditor/allkeys/
 ---
-## DictionaryEditor.AllKeys-egenskap
+## DictionaryEditor.AllKeys property
 
 Fullständig samling av nycklar. Innehåller redigerbara och icke-redigerbara nycklar.
 
@@ -14,8 +14,10 @@ Fullständig samling av nycklar. Innehåller redigerbara och icke-redigerbara ny
 public ICollection<string> AllKeys { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DictionaryEditor](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

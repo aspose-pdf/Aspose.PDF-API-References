@@ -1,12 +1,12 @@
 ---
-title: EcdsaAlgorithmInfo.EccName
-second_title: Aspose.PDF for .NET API Reference
-description: EcdsaAlgorithmInfo-fält. Hämtar namnet på den elliptiska kurvan som används av ECDSA
+title: "EcdsaAlgorithmInfo.EccName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EcdsaAlgorithmInfo fält. Hämtar namnet på den elliptiska kurvan som används av ECDSA."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.security/ecdsaalgorithminfo/eccname/
 ---
-## EcdsaAlgorithmInfo.EccName-fält
+## EcdsaAlgorithmInfo.EccName field
 
 Hämtar namnet på den elliptiska kurvan som används av ECDSA.
 
@@ -14,8 +14,10 @@ Hämtar namnet på den elliptiska kurvan som används av ECDSA.
 public readonly string EccName;
 ```
 
-### Se Även
+### Se även
 
-* klass [EcdsaAlgorithmInfo](../)
-* namnrymd [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* sammansättning [Aspose.PDF](../../../)
+* class [EcdsaAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

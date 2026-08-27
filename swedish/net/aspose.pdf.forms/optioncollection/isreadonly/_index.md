@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection-egenskap. Hämtar ett värde som indikerar om samlingen är skrivskyddad
+title: "OptionCollection.IsReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptionCollection-egenskap. Hämtar ett värde som indikerar om samlingen är skrivskyddad"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/optioncollection/isreadonly/
 ---
-## OptionCollection.IsReadOnly-egenskap
+## OptionCollection.IsReadOnly property
 
 Hämtar ett värde som indikerar om samlingen är skrivskyddad.
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om samlingen är skrivskyddad.
 public bool IsReadOnly { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OptionCollection](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: DiffOperation.Text
-second_title: Aspose.PDF for .NET API Reference
-description: DiffOperation-egenskap. Hämta och ställ in operationstext
+title: "DiffOperation.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DiffOperation egenskap. Hämta och ange operationstext"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.comparison/diffoperation/text/
 ---
-## DiffOperation.Text-egenskap
+## DiffOperation.Text property
 
-Hämta och ställ in operationstext.
+Hämta och ange operationstext.
 
 ```csharp
 public string Text { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DiffOperation](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DiffOperation](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

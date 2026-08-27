@@ -1,21 +1,23 @@
 ---
-title: TextStamp.Scale
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-egenskap. Definierar skalning av texten. Om denna egenskap är inställd på true och breddvärdet anges, kommer texten att skalas för att passa den angivna bredden.
+title: "TextStamp.Scale"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp egenskap. Definierar skalning av texten. Om denna egenskap är satt till true och ett Width‑värde har angetts kommer texten att skalas för att passa den angivna bredden"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/textstamp/scale/
 ---
-## TextStamp.Scale-egenskap
+## TextStamp.Scale property
 
-Definierar skalning av texten. Om denna egenskap är inställd på true och breddvärdet anges, kommer texten att skalas för att passa den angivna bredden.
+Definierar skalning av texten. Om denna egenskap är satt till true och ett Width‑värde har angetts, kommer texten att skalas för att passa den angivna bredden.
 
 ```csharp
 public bool Scale { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class ET
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ET klass. Klass som representerar operatorn ET Slut på textblock
+title: "Klass ET"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.ET klass. Klass som representerar operatorn ET Slutet på textblock"
 type: docs
-weight: 7340
+weight: 7480
 url: /sv/net/aspose.pdf.operators/et/
 ---
-## ET klass
+## ET class
 
-Klass som representerar operatorn ET (Slut på textblock).
+Klass som representerar ET-operatorn (slutet på textblock).
 
 ```csharp
 public class ET : BlockTextOperator
@@ -18,13 +18,13 @@ public class ET : BlockTextOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ET](et/)() | Initierar operator. |
+| [ET](et/)() | Initierar operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
@@ -32,10 +32,12 @@ public class ET : BlockTextOperator
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/et/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
 | override [ToString](../../aspose.pdf.operators/et/tostring/)() | Producerar textkod för operatorn. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [BlockTextOperator](../blocktextoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [BlockTextOperator](../blocktextoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

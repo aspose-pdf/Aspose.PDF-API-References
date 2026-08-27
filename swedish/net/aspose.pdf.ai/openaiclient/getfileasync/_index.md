@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Hämtar detaljer om en specifik fil asynkront
+title: "OpenAIClient.GetFileAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient metod. Hämtar detaljer för en specifik fil asynkront"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.ai/openaiclient/getfileasync/
 ---
-## OpenAIClient.GetFileAsync metod
+## OpenAIClient.GetFileAsync method
 
-Hämtar detaljer om en specifik fil asynkront.
+Hämtar detaljer för en specifik fil asynkront.
 
 ```csharp
 public Task<FileResponse> GetFileAsync(string fileId, 
@@ -17,22 +17,24 @@ public Task<FileResponse> GetFileAsync(string fileId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileId | Sträng | ID:t för filen som ska hämtas. |
+| fileId | String | ID för filen som ska hämtas. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljerna om filen.
+En Task som representerar den asynkrona operationen. Task-resultatet innehåller filens detaljer.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när fil-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när fil‑ID är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [FileResponse](../../fileresponse/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [FileResponse](../../fileresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

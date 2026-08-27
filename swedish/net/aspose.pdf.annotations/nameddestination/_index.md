@@ -1,14 +1,14 @@
 ---
-title: Class NamedDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.NamedDestination klass. Istället för att definieras direkt med den explicita syntaksen kan en destination hänvisas indirekt genom ett namnobjekt eller en byte-sträng
+title: "Klass NamedDestination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.NamedDestination class. Istället för att definieras direkt med den explicita syntaxen kan en destination refereras indirekt via ett namnobjekt eller en bytesträng"
 type: docs
-weight: 2130
+weight: 2220
 url: /sv/net/aspose.pdf.annotations/nameddestination/
 ---
-## NamedDestination klass
+## NamedDestination class
 
-Istället för att definieras direkt med den explicita syntaksen kan en destination hänvisas indirekt genom ett namnobjekt eller en byte-sträng.
+Istället för att definieras direkt med den explicita syntaxen kan en destination refereras indirekt via ett namnobjekt eller en bytesträng.
 
 ```csharp
 public sealed class NamedDestination : IAppointment
@@ -30,10 +30,12 @@ public sealed class NamedDestination : IAppointment
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/nameddestination/tostring/)() | Konverterar destinationen till en strängvärde. |
+| override [ToString](../../aspose.pdf.annotations/nameddestination/tostring/)() | Konverterar destination till ett strängvärde. |
 
-### Se Även
+### Se även
 
 * interface [IAppointment](../iappointment/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

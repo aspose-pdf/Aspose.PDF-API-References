@@ -1,21 +1,23 @@
 ---
-title: Font.BaseFont
-second_title: Aspose.PDF for .NET API Reference
-description: Font-egenskap. Hämtar BaseFont-värdet för PDF-teckensnittobjektet. Också känt som PostScript-namn för teckensnittet
+title: "Font.BaseFont"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Font‑egenskap. Hämtar BaseFont‑värdet för PDF‑teckensnittobjektet. Även känt som PostScript‑namnet för teckensnittet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/font/basefont/
 ---
-## Font.BaseFont-egenskap
+## Font.BaseFont property
 
-Hämtar BaseFont-värdet för PDF-teckensnittobjektet. Också känt som PostScript-namn för teckensnittet.
+Hämtar BaseFont‑värdet för PDF‑teckensnittobjektet. Även känt som PostScript‑namnet på teckensnittet.
 
 ```csharp
 public string BaseFont { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Font](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

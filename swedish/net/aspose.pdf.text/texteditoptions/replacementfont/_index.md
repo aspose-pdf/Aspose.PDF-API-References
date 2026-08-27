@@ -1,22 +1,24 @@
 ---
-title: TextEditOptions.ReplacementFont
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions-egenskap. Hämtar eller ställer in teckensnitt som används för att ersätta om användarteckensnittet inte innehåller det nödvändiga tecknet
+title: "TextEditOptions.ReplacementFont"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextEditOptions-egenskap. Hämtar eller anger teckensnitt som används för ersättning om användarens teckensnitt inte innehåller det erforderliga tecknet"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/texteditoptions/replacementfont/
 ---
-## TextEditOptions.ReplacementFont-egenskap
+## TextEditOptions.ReplacementFont property
 
-Hämtar eller ställer in teckensnitt som används för att ersätta om användarteckensnittet inte innehåller det nödvändiga tecknet
+Hämtar eller anger teckensnittet som används för ersättning om användarens teckensnitt inte innehåller det nödvändiga tecknet
 
 ```csharp
 public Font ReplacementFont { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Font](../../font/)
-* klass [TextEditOptions](../)
-* namnrum [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [TextEditOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PrintController.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController-egenskap. Hämtar eller ställer in filnamn
+title: "PrintController.FileName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrintController‑egenskap. Hämtar eller anger filnamn"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/printcontroller/filename/
 ---
-## PrintController.FileName-egenskap
+## PrintController.FileName property
 
-Hämtar eller ställer in filnamn.
+Hämtar eller anger filnamn.
 
 ```csharp
 public string FileName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PrintController](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions-metod. Ställer in modellen för bildbeskrivningskopilotalternativen
+title: "OpenAIImageDescriptionCopilotOptions.WithModel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIImageDescriptionCopilotOptions-metod. Anger modellen för bildbeskrivnings‑copilot‑alternativen"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmodel/
 ---
-## OpenAIImageDescriptionCopilotOptions.WithModel metod
+## OpenAIImageDescriptionCopilotOptions.WithModel method
 
-Ställer in modellen för bildbeskrivningskopilotalternativen.
+Ställer in modellen för alternativen för bildbeskrivnings‑copilot.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithModel(string model)
@@ -16,14 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithModel(string model)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| model | Sträng | Modellen som ska ställas in. |
+| modell | String | Modellen som ska anges. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIImageDescriptionCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

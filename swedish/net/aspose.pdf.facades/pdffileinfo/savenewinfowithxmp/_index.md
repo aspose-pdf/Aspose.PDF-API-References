@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.SaveNewInfoWithXmp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-metod. Ändrar de egenskaper som anges uttryckligen genom att ställa in filinformation, andra egenskaper förblir
+title: "PdfFileInfo.SaveNewInfoWithXmp"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo metod. Ändrar de egenskaper som specificerats explicit genom att ange filinformation, andra egenskaper förblir"
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf.facades/pdffileinfo/savenewinfowithxmp/
 ---
-## PdfFileInfo.SaveNewInfoWithXmp metod
+## PdfFileInfo.SaveNewInfoWithXmp method
 
-Ändrar de egenskaper som anges uttryckligen genom att ställa in filinformation, andra egenskaper förblir.
+Ändrar de egenskaper som specificerats explicit genom att sätta filinformation, övriga egenskaper förblir.
 
 ```csharp
 public bool SaveNewInfoWithXmp(string outputFileName)
@@ -16,14 +16,16 @@ public bool SaveNewInfoWithXmp(string outputFileName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFileName | Sträng | Utdatafil. |
+| outputFileName | String | Utdatafil. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för framgång, annars falskt.
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

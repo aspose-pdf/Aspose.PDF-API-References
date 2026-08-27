@@ -1,21 +1,23 @@
 ---
-title: AttributeOwnerStandard.Layout
-second_title: Aspose.PDF for .NET API Reference
-description: AttributägareStandard fält. Layout attributägare
+title: "AttributeOwnerStandard.Layout"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeOwnerStandard-fält. Layout-attributägare"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.logicalstructure/attributeownerstandard/layout/
 ---
-## AttributeOwnerStandard.Layout fält
+## AttributeOwnerStandard.Layout field
 
-Layout attributägare.
+Layout-attributägare.
 
 ```csharp
 public static readonly AttributeOwnerStandard Layout;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

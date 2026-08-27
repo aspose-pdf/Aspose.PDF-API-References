@@ -1,22 +1,24 @@
 ---
-title: GraphInfo.FillColor
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo-egenskap. Hämtar eller ställer in ett Color-objekt som indikerar fyllfärgen på grafen
+title: "GraphInfo.FillColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphInfo-egenskap. Hämtar eller anger ett Color-objekt som indikerar fyllningsfärgen för grafen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/graphinfo/fillcolor/
 ---
-## GraphInfo.FillColor-egenskap
+## GraphInfo.FillColor property
 
-Hämtar eller ställer in ett [`Color`](../color/) objekt som indikerar fyllfärgen på grafen.
+Hämtar eller anger ett [`Color`](../color/)‑objekt som indikerar fyllningsfärgen för grafen.
 
 ```csharp
 public Color FillColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../color/)
-* klass [GraphInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../color/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

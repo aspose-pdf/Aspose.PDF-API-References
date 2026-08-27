@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.ModifyBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor-metod. Ändrar bokmärkets titel enligt den angivna bokmärkets titel
+title: "PdfBookmarkEditor.ModifyBookmarks"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfBookmarkEditor metod. Ändrar bokmärkesrubriken enligt den angivna bokmärkesrubriken"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/
 ---
-## PdfBookmarkEditor.ModifyBookmarks metod
+## PdfBookmarkEditor.ModifyBookmarks method
 
-Ändrar bokmärkets titel enligt den angivna bokmärkets titel.
+Modifierar bokmärkestitel enligt den angivna bokmärkestiteln.
 
 ```csharp
 public void ModifyBookmarks(string sTitle, string dTitle)
@@ -16,8 +16,8 @@ public void ModifyBookmarks(string sTitle, string dTitle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| sTitle | Sträng | Källbokmärkets titel. |
-| dTitle | Sträng | Ändrad bokmärkets titel. |
+| sTitle | String | Källbokmärkesrubrik. |
+| dTitle | String | Modifierad bokmärkesrubrik. |
 
 ## Exempel
 
@@ -28,8 +28,10 @@ editor.ModifyBookmarks("existing bookmark title", "new bookmark title");
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfBookmarkEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

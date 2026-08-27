@@ -1,21 +1,23 @@
 ---
-title: LineAnnotation.LeaderLineOffset
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation-egenskap. Hämtar eller ställer in ledarlinjeoffset
+title: "LineAnnotation.LeaderLineOffset"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineAnnotation-egenskap. Hämtar eller anger offset för ledarlinje"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.annotations/lineannotation/leaderlineoffset/
 ---
-## LineAnnotation.LeaderLineOffset-egenskap
+## LineAnnotation.LeaderLineOffset property
 
-Hämtar eller ställer in ledarlinjeoffset.
+Hämtar eller anger förskjutning för ledarlinje.
 
 ```csharp
 public double LeaderLineOffset { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LineAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

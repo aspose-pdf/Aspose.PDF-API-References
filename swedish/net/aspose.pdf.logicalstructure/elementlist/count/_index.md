@@ -1,12 +1,12 @@
 ---
-title: ElementList.Count
-second_title: Aspose.PDF for .NET API Reference
-description: ElementList-egenskap. Hämtar antalet element i ElementList
+title: "ElementList.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ElementList egenskap. Hämtar antalet element i ElementList"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/elementlist/count/
 ---
-## ElementList.Count-egenskap
+## ElementList.Count property
 
 Hämtar antalet element i ElementList.
 
@@ -14,8 +14,10 @@ Hämtar antalet element i ElementList.
 public abstract int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ElementList](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ElementList](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

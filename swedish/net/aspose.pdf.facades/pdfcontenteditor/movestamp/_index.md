@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.MoveStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Ändrar positionen för stämpeln på sidan
+title: "PdfContentEditor.MoveStamp"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor metod. Ändrar stämpelns position på sidan"
 type: docs
 weight: 410
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/movestamp/
 ---
-## PdfContentEditor.MoveStamp metod
+## PdfContentEditor.MoveStamp method
 
 Ändrar positionen för stämpeln på sidan.
 
@@ -21,8 +21,10 @@ public void MoveStamp(int pageNumber, int stampIndex, double x, double y)
 | x | Double | Ny horisontell position för stämpeln. |
 | y | Double | Ny vertikal position för stämpeln. |
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

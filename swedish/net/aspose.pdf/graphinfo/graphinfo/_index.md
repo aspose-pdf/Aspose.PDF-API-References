@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo-konstruktorn. Standardkonstruktorn
+title: "GraphInfo.GraphInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphInfo-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/graphinfo/graphinfo/
 ---
-## GraphInfo-konstruktorn
+## GraphInfo constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public GraphInfo()
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

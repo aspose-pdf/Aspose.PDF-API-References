@@ -1,12 +1,12 @@
 ---
-title: AttributeName.AttributeKey
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn egenskap. Hämtar attributnyckel
+title: "AttributeName.AttributeKey"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName egenskap. Hämtar attributnyckel"
 type: docs
 weight: 680
 url: /sv/net/aspose.pdf.logicalstructure/attributename/attributekey/
 ---
-## Attributnamn.Attributnyckel egenskap
+## AttributeName.AttributeKey property
 
 Hämtar attributnyckel.
 
@@ -14,9 +14,11 @@ Hämtar attributnyckel.
 public AttributeKey AttributeKey { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Attributnyckel](../../attributekey/)
-* klass [Attributnamn](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../../attributekey/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

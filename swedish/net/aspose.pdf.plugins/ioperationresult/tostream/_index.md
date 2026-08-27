@@ -1,14 +1,14 @@
 ---
-title: IOperationResult.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: IOperationResult-metod. Försöker konvertera resultatet till stream-objektet
+title: "IOperationResult.ToStream"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOperationResult-metod. Försöker konvertera resultatet till strömobjektet."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.plugins/ioperationresult/tostream/
 ---
-## IOperationResult.ToStream metod
+## IOperationResult.ToStream method
 
-Försöker konvertera resultatet till stream-objektet.
+Försöker konvertera resultatet till strömobjektet.
 
 ```csharp
 public Stream ToStream()
@@ -16,10 +16,12 @@ public Stream ToStream()
 
 ### Returvärde
 
-Ett stream-objekt som representerar utdata om resultatet är en stream; annars `null`.
+Ett strömobjekt som representerar utdata om resultatet är en ström; annars `null`.
 
-### Se Även
+### Se även
 
 * interface [IOperationResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.InsertPageAfter
-second_title: Aspose.PDF for .NET API Reference
-description: TableBuilder-metod. Infoga sida efter angiven sida
+title: "TableBuilder.InsertPageAfter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableBuilder‑metod. Infoga sida efter angiven sida."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.plugins/tablebuilder/insertpageafter/
 ---
-## TableBuilder.InsertPageAfter metod
+## TableBuilder.InsertPageAfter method
 
 Infoga sida efter angiven sida.
 
@@ -16,15 +16,17 @@ public TableOptions InsertPageAfter(int page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Sidnummer att infoga tabell efter. |
+| sida | Int32 | Sidnummer för att infoga tabell efter. |
 
 ### Returvärde
 
-Instans av nuvarande [`TableOptions`](../../tableoptions/).
+Instans av aktuell [`TableOptions`](../../tableoptions/).
 
-### Se Även
+### Se även
 
-* klass [TableOptions](../../tableoptions/)
-* klass [TableBuilder](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

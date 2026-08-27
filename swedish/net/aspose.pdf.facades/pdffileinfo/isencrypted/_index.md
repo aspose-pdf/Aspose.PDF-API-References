@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.IsEncrypted
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-egenskap. Kontrollerar om PDF-dokumentet är krypterat
+title: "PdfFileInfo.IsEncrypted"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo egenskap. Kontrollerar om PDF-dokumentet är krypterat"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdffileinfo/isencrypted/
 ---
-## PdfFileInfo.IsEncrypted-egenskap
+## PdfFileInfo.IsEncrypted property
 
 Kontrollerar om PDF-dokumentet är krypterat.
 
@@ -14,8 +14,10 @@ Kontrollerar om PDF-dokumentet är krypterat.
 public bool IsEncrypted { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

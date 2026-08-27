@@ -1,20 +1,22 @@
 ---
-title: IllustrationElement.AdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: IllustrationElement method.
+title: "IllustrationElement.AdjustPosition"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IllustrationElement‑metod."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/illustrationelement/adjustposition/
 ---
-## IllustrationElement.JusteraPosition metod
+## IllustrationElement.AdjustPosition method
 
 ```csharp
 public void AdjustPosition(PositionSettings positionSettings)
 ```
 
-### Se Även
+### Se även
 
-* klass [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
-* klass [IllustrationElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
+* class [IllustrationElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

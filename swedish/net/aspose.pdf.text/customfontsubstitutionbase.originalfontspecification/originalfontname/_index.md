@@ -1,21 +1,23 @@
 ---
-title: CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName
-second_title: Aspose.PDF for .NET API Reference
-description: OriginalFontSpecification-egenskap. Hämtar det ursprungliga teckensnittets namn
+title: "CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OriginalFontSpecification-egenskap. Hämtar det ursprungliga teckensnittets namn."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/originalfontname/
 ---
-## CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName-egenskap
+## CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName property
 
-Hämtar det ursprungliga teckensnittets namn.
+Hämtar originalteckensnittets namn.
 
 ```csharp
 public string OriginalFontName { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OriginalFontSpecification](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [OriginalFontSpecification](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

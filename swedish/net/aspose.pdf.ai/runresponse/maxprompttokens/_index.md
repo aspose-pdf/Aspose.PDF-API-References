@@ -1,21 +1,23 @@
 ---
-title: RunResponse.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse-egenskap. Hämtar eller ställer in det maximala antalet prompttokens som specificerats att ha använts under körningen
+title: "RunResponse.MaxPromptTokens"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunResponse-egenskap. Hämtar eller anger det maximala antalet prompt‑token som specificerats att ha använts under körningens gång"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.ai/runresponse/maxprompttokens/
 ---
-## RunResponse.MaxPromptTokens-egenskap
+## RunResponse.MaxPromptTokens property
 
-Hämtar eller ställer in det maximala antalet prompttokens som specificerats att ha använts under körningen.
+Hämtar eller anger det maximala antalet prompt-token som specificerats att ha använts under körningens gång.
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RunResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

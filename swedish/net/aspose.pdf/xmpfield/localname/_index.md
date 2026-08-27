@@ -1,25 +1,27 @@
 ---
-title: XmpField.LocalName
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField-egenskap. Hämtar eller ställer in namnet på den lokala
+title: "XmpField.LocalName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField property. Hämtar eller anger namnet på den lokala"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/xmpfield/localname/
 ---
-## XmpField.LocalName-egenskap
+## XmpField.LocalName property
 
-Hämtar eller ställer in namnet på den lokala.
+Hämtar eller anger namnet på den lokala.
 
 ```csharp
 public string LocalName { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Namnet på den lokala.
 
-### Se Även
+### Se även
 
-* klass [XmpField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

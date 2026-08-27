@@ -1,14 +1,14 @@
 ---
-title: IFacade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: IFacade-metod. Binder PDF-dokument för redigering
+title: "IFacade.BindPdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IFacade metod. Binder PDF-dokument för redigering."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/ifacade/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Binder PDF-dokument för redigering.
+Kopplar PDF-dokument för redigering.
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -16,9 +16,9 @@ public void BindPdf(string srcFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcFile | Sträng | Sökvägen till inmatat PDF-dokument. |
+| srcFile | String | Sökvägen till inmatnings-PDF-dokumentet. |
 
-### Se Även
+### Se även
 
 * interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,7 +28,7 @@ public void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Binder PDF-dokument för redigering.
+Kopplar PDF-dokument för redigering.
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -36,9 +36,9 @@ public void BindPdf(Stream srcStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcStream | Ström | Strömmen av inmatat PDF-dokument. |
+| srcStream | Stream | Strömmen för inmatnings-PDF-dokumentet. |
 
-### Se Även
+### Se även
 
 * interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -48,7 +48,7 @@ public void BindPdf(Stream srcStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-Binder PDF-dokument för redigering.
+Kopplar PDF-dokument för redigering.
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -56,11 +56,13 @@ public void BindPdf(Document srcDoc)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcDoc | Dokument | Inmatat PDF-dokument. |
+| srcDoc | Dokument | Inmatnings-PDF-dokument. |
 
-### Se Även
+### Se även
 
 * class [Document](../../../aspose.pdf/document/)
 * interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

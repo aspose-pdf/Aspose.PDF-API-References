@@ -1,21 +1,23 @@
 ---
-title: Header.Header
-second_title: Aspose.PDF for .NET API Reference
-description: Header-konstruktör. Standardkonstruktören
+title: "Header.Header"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Header‑konstruktorn. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/header/header/
 ---
-## Header-konstruktör
+## Header constructor
 
-Standardkonstruktören.
+Standardkonstruktorn.
 
 ```csharp
 public Header()
 ```
 
-### Se Även
+### Se även
 
-* klass [Header](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Header](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

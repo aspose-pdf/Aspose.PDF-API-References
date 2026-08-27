@@ -1,12 +1,12 @@
 ---
-title: Class ExportFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExportFieldsOptions klass. Representerar basklass för alternativ för export av formulärfält
+title: "Klass ExportFieldsOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ExportFieldsOptions-klass. Representerar basklass för alternativ för export av formulärfält."
 type: docs
-weight: 4100
+weight: 4220
 url: /sv/net/aspose.pdf/exportfieldsoptions/
 ---
-## ExportFieldsOptions klass
+## ExportFieldsOptions class
 
 Representerar basklass för alternativ för export av formulärfält.
 
@@ -18,9 +18,11 @@ public abstract class ExportFieldsOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om lösenordsvärdet ska exporteras. |
+| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | Hämtar eller anger ett värde som indikerar om lösenordsvärdet ska exporteras. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfProducer.Produce
-second_title: Aspose.PDF for .NET API Reference
-description: PdfProducer metod. Producera PDF-ström med angivet importformat. Detta exempel visar hur man producerar Pdf-ström från CGM-ström
+title: "PdfProducer.Produce"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfProducer-metod. Skapa PDF-strömmen med angivet importformat. Detta exempel visar hur man producerar Pdf-ström från CGM-ström"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdfproducer/produce/
 ---
 ## Produce(Stream, ImportFormat, Stream) {#produce}
 
-Producera PDF-ström med angivet importformat. Detta exempel visar hur man producerar Pdf-ström från CGM-ström.
+Skapa PDF‑strömmen med angivet importformat. Detta exempel visar hur man producerar en Pdf‑ström från en CGM‑ström.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -26,18 +26,18 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Indata-ström. |
+| inputStream | Stream | Inmatningsström. |
 | format | ImportFormat | Importformat. |
-| outputStream | Stream | Utdata PDF-ström. |
+| outputStream | Stream | Utdata-PDF-ström. |
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Undantaget kastas när en fil är ogiltig. |
-| ArgumentNullException | Indata- eller utdata-ström är null |
+| ArgumentNullException | Inmatnings- eller utdataström är null |
 
-### Se Även
+### Se även
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -48,7 +48,7 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 ## Produce(string, ImportFormat, Stream) {#produce_4}
 
-Producera PDF-ström med angivet importformat. Detta exempel visar hur man producerar Pdf-ström från CGM-fil.
+Skapa PDF‑strömmen med angivet importformat. Detta exempel visar hur man producerar en Pdf‑ström från en CGM‑fil.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -65,19 +65,19 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFileName | String | Indata filnamn. |
+| inputFileName | String | Inmatningsfilnamn. |
 | format | ImportFormat | Importformat. |
-| outputStream | Stream | Utdata PDF-ström. |
+| outputStream | Stream | Utdata-PDF-ström. |
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Undantaget kastas när en fil är ogiltig. |
-| ArgumentNullException | Utdata-ström är null |
-| ArgumentException | Indata filnamn är en tom sträng |
+| ArgumentNullException | Utdataström är null |
+| ArgumentException | Inmatningsfilnamn är en tom sträng |
 
-### Se Även
+### Se även
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -88,7 +88,7 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 ## Produce(Stream, ImportFormat, string) {#produce_1}
 
-Producera PDF-fil med angivet importformat. Detta exempel visar hur man producerar Pdf-fil från CGM-ström.
+Skapa PDF‑filen med angivet importformat. Detta exempel visar hur man producerar en Pdf‑fil från en CGM‑ström.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -106,19 +106,19 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Indata-ström. |
+| inputStream | Stream | Inmatningsström. |
 | format | ImportFormat | Importformat. |
-| outputFileName | String | Utdata PDF-fil |
+| outputFileName | String | Utdata-PDF-fil |
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Undantaget kastas när en fil är ogiltig. |
-| ArgumentNullException | Indata-ström är null |
-| ArgumentException | Utdata filnamn är en tom sträng |
+| ArgumentNullException | Inmatningsström är null |
+| ArgumentException | Utdatafilnamn är en tom sträng |
 
-### Se Även
+### Se även
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -129,7 +129,7 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 ## Produce(string, ImportFormat, string) {#produce_5}
 
-Producera PDF-fil med angivet importformat. Detta exempel visar hur man producerar Pdf-fil från CGM-fil.
+Skapa PDF‑filen med angivet importformat. Detta exempel visar hur man producerar en Pdf‑fil från en CGM‑fil.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -143,18 +143,18 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFileName | String | Indata filnamn. |
+| inputFileName | String | Inmatningsfilnamn. |
 | format | ImportFormat | Importformat. |
-| outputFileName | String | Utdata PDF-fil |
+| outputFileName | String | Utdata-PDF-fil |
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Undantaget kastas när en fil är ogiltig. |
-| ArgumentException | Indata eller utdata filnamn är en tom sträng |
+| ArgumentException | Inmatnings- eller utdatafilnamn är en tom sträng |
 
-### Se Även
+### Se även
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -165,7 +165,7 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 ## Produce(string, ImportOptions, Stream) {#produce_6}
 
-Producera PDF-ström med angiven importoption. Detta exempel visar hur man producerar Pdf-ström från CGM-fil.
+Skapa PDF‑strömmen med angivet importalternativ. Detta exempel visar hur man producerar en Pdf‑ström från en CGM‑fil.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -183,19 +183,19 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFileName | String | Indata filnamn. |
-| options | ImportOptions | Importoption. |
-| outputStream | Stream | Utdata PDF-ström. |
+| inputFileName | String | Inmatningsfilnamn. |
+| options | ImportOptions | Importalternativ. |
+| outputStream | Stream | Utdata-PDF-ström. |
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Undantaget kastas när en fil är ogiltig. |
-| ArgumentNullException | Utdata-ström är null |
-| ArgumentException | Indata filnamn är en tom sträng |
+| ArgumentNullException | Utdataström är null |
+| ArgumentException | Inmatningsfilnamn är en tom sträng |
 
-### Se Även
+### Se även
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -206,7 +206,7 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 ## Produce(Stream, ImportOptions, string) {#produce_3}
 
-Producera PDF-fil med angiven importoption. Detta exempel visar hur man producerar Pdf-fil från CGM-ström.
+Skapa PDF‑filen med angivet importalternativ. Detta exempel visar hur man producerar en Pdf‑fil från en CGM‑ström.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -224,8 +224,8 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Indata-ström. |
-| options | ImportOptions | Importoption. |
+| inputStream | Stream | Inmatningsström. |
+| options | ImportOptions | Importalternativ. |
 | outputFileName | String | Utdata PDF-fil. |
 
 ### Undantag
@@ -233,10 +233,10 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 | undantag | villkor |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Undantaget kastas när en fil är ogiltig. |
-| ArgumentNullException | Indata-ström är null |
-| ArgumentException | Utdata filnamn är en tom sträng |
+| ArgumentNullException | Inmatningsström är null |
+| ArgumentException | Utdatafilnamn är en tom sträng |
 
-### Se Även
+### Se även
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -247,7 +247,7 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 ## Produce(string, ImportOptions, string) {#produce_7}
 
-Producera PDF-fil med angiven importoption. Detta exempel visar hur man producerar Pdf-fil från CGM-fil.
+Skapa PDF‑filen med angivet importalternativ. Detta exempel visar hur man producerar en Pdf‑fil från en CGM‑fil.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -262,18 +262,18 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFileName | String | Indata filnamn. |
-| options | ImportOptions | Importoption. |
-| outputFileName | String | Utdata PDF-ström. |
+| inputFileName | String | Inmatningsfilnamn. |
+| options | ImportOptions | Importalternativ. |
+| outputFileName | String | Utdata-PDF-ström. |
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Undantaget kastas när en fil är ogiltig. |
-| ArgumentException | Indata eller utdata filnamn är en tom sträng |
+| ArgumentException | Inmatnings- eller utdatafilnamn är en tom sträng |
 
-### Se Även
+### Se även
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -284,7 +284,7 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 ## Produce(Stream, ImportOptions, Stream) {#produce_2}
 
-Producera PDF-fil med angiven importoption. Detta exempel visar hur man producerar Pdf-ström från CGM-ström.
+Skapa PDF‑filen med angivet importalternativ. Detta exempel visar hur man producerar en Pdf‑ström från en CGM‑ström.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -303,20 +303,22 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Indata-ström. |
-| options | ImportOptions | Importoption. |
-| outputStream | Stream | Utdata PDF-ström. |
+| inputStream | Stream | Inmatningsström. |
+| options | ImportOptions | Importalternativ. |
+| outputStream | Stream | Utdata-PDF-ström. |
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Undantaget kastas när en fil är ogiltig. |
-| ArgumentNullException | Indata- eller utdata-ström är null. |
+| ArgumentNullException | In- eller utmatningsström är null. |
 
-### Se Även
+### Se även
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

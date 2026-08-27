@@ -1,22 +1,24 @@
 ---
-title: ImagePlacement.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement-egenskap. Hämtar upplösningen av bilden
+title: "ImagePlacement.Resolution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacement-egenskap. Hämtar upplösning för bilden"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/imageplacement/resolution/
 ---
-## ImagePlacement.Resolution-egenskap
+## ImagePlacement.Resolution property
 
-Hämtar upplösningen av bilden.
+Hämtar upplösningen för bilden.
 
 ```csharp
 public Resolution Resolution { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Resolution](../../../aspose.pdf.devices/resolution/)
-* klass [ImagePlacement](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-metod. Returnerar koordinaterna för rektangelns centrum
+title: "Rectangle.Center"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-metod. Returnerar koordinater för rektangelns centrum"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/rectangle/center/
 ---
-## Rectangle.Center metod
+## Rectangle.Center method
 
 Returnerar koordinaterna för rektangelns centrum.
 
@@ -16,11 +16,13 @@ public Point Center()
 
 ### Returvärde
 
-Punkt som är centrum av rektangeln.
+Punkt som är rektangelns centrum.
 
-### Se Även
+### Se även
 
-* klass [Point](../../point/)
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Point](../../point/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.Length
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream-egenskap. När den åsidosätts i en härledd klass får den längden i byte av strömmen
+title: "OptimizedMemoryStream.Length"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizedMemoryStream-egenskap. När den åsidosätts i en avledd klass hämtas längden i byte för strömmen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/optimizedmemorystream/length/
 ---
-## OptimizedMemoryStream.Length-egenskap
+## OptimizedMemoryStream.Length property
 
-När den åsidosätts i en härledd klass, får den längden i byte av strömmen.
+När den åsidosätts i en avledd klass, hämtar strömmens längd i byte.
 
 ```csharp
 public override long Length { get; }
@@ -16,10 +16,12 @@ public override long Length { get; }
 
 ### Returvärde
 
-Ett långt värde som representerar längden av strömmen i byte.
+Ett långt värde som representerar strömmens längd i byte.
 
-### Se Även
+### Se även
 
-* klass [OptimizedMemoryStream](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

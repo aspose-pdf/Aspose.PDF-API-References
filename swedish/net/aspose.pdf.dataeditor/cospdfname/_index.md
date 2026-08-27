@@ -1,14 +1,14 @@
 ---
-title: Class CosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DataEditor.CosPdfName klass. Denna klass representerar Pdf Namn objekt
+title: "Klass CosPdfName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.DataEditor.CosPdfName klass. Denna klass representerar Pdf Name-objekt"
 type: docs
-weight: 3430
+weight: 3550
 url: /sv/net/aspose.pdf.dataeditor/cospdfname/
 ---
-## CosPdfName klass
+## CosPdfName class
 
-Denna klass representerar Pdf Namn objekt.
+Denna klass representerar Pdf Name-objekt.
 
 ```csharp
 public sealed class CosPdfName : CosPdfPrimitive
@@ -18,7 +18,7 @@ public sealed class CosPdfName : CosPdfPrimitive
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CosPdfName](cospdfname/)(string) | Initierar en ny instans av `CosPdfName` klassen. |
+| [CosPdfName](cospdfname/)(string) | Initierar en ny instans av klassen `CosPdfName`. |
 
 ## Egenskaper
 
@@ -30,17 +30,19 @@ public sealed class CosPdfName : CosPdfPrimitive
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Equals](../../aspose.pdf.dataeditor/cospdfname/equals/)(object) | Bestämmer att det angivna objektet är lika med det aktuella objektet. |
-| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfname/gethashcode/)() | Hämtar hashkod för aktuellt objekt. |
+| override [Equals](../../aspose.pdf.dataeditor/cospdfname/equals/)(object) | Avgör att det angivna objektet är lika med det aktuella objektet. |
+| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfname/gethashcode/)() | Hämta hashkod för aktuellt objekt. |
 | virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Försöker kasta denna instans till [`CosPdfBoolean`](../cospdfboolean/). |
 | virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Försöker kasta denna instans till [`CosPdfDictionary`](../cospdfdictionary/). |
 | override [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfname/tocospdfname/)() | Försöker kasta denna instans till `CosPdfName`. |
-| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Försöker kasta denna instans till [`CosPdfNumber`](../cospdfnumber/). |
-| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Försöker kasta denna instans till [`CosPdfString`](../cospdfstring/). |
-| override [ToString](../../aspose.pdf.dataeditor/cospdfname/tostring/)() | Returnerar en sträng som representerar den aktuella `CosPdfName`. |
+| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Försöker kasta detta objekt till [`CosPdfNumber`](../cospdfnumber/). |
+| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Försöker kasta detta objekt till [`CosPdfString`](../cospdfstring/). |
+| override [ToString](../../aspose.pdf.dataeditor/cospdfname/tostring/)() | Returnerar en String som representerar den aktuella `CosPdfName`. |
 
-### Se Även
+### Se även
 
-* klass [CosPdfPrimitive](../cospdfprimitive/)
-* namnrymd [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* class [CosPdfPrimitive](../cospdfprimitive/)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../)
+
+

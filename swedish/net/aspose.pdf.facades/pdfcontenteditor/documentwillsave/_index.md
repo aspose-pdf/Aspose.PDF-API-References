@@ -1,21 +1,23 @@
 ---
-title: PdfContentEditor.DocumentWillSave
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-fält. En dokumenthändelsetyp. Utför en åtgärd innan du sparar
+title: "PdfContentEditor.DocumentWillSave"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor fält. En dokumenthändelsetyp. Utför en åtgärd innan sparande"
 type: docs
 weight: 520
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/documentwillsave/
 ---
-## PdfContentEditor.DocumentWillSave-fält
+## PdfContentEditor.DocumentWillSave field
 
-En dokumenthändelsetyp. Utför en åtgärd innan du sparar.
+En dokumenthändelsetyp. Utför en åtgärd före sparande.
 
 ```csharp
 public const string DocumentWillSave;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

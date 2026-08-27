@@ -1,21 +1,23 @@
 ---
-title: XImage.ContainsTransparency
-second_title: Aspose.PDF for .NET API Reference
-description: XImage-egenskap. Om bilden innehåller transparens, returnera true, annars false
+title: "XImage.ContainsTransparency"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImage-egenskap. Om bilden innehåller transparens returneras sant, annars falskt."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/ximage/containstransparency/
 ---
-## XImage.ContainsTransparency-egenskap
+## XImage.ContainsTransparency property
 
-Om bilden innehåller transparens, returnera true; annars false.
+Om bilden innehåller transparens returneras true; annars false.
 
 ```csharp
 public bool ContainsTransparency { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XImage](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

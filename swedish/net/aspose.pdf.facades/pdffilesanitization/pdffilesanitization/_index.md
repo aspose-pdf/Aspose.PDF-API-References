@@ -1,12 +1,12 @@
 ---
-title: PdfFileSanitization.PdfFileSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization-konstruktorn. Standardkonstruktorn
+title: "PdfFileSanitization.PdfFileSanitization"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSanitization‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/
 ---
-## PdfFileSanitization-konstruktorn
+## PdfFileSanitization constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PdfFileSanitization()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSanitization](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

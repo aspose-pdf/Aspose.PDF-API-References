@@ -1,21 +1,23 @@
 ---
-title: TocInfo.IsShowPageNumbers
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo-egenskap. Hämtar eller ställer in om sidnummer ska visas i Toc
+title: "TocInfo.IsShowPageNumbers"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TocInfo-egenskap. Hämtar eller anger om sidnummer ska visas i TOC"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/tocinfo/isshowpagenumbers/
 ---
-## TocInfo.IsShowPageNumbers-egenskap
+## TocInfo.IsShowPageNumbers property
 
-Hämtar eller ställer in om sidnummer ska visas i Toc.
+Hämtar eller anger om sidnummer visas i Toc.
 
 ```csharp
 public bool IsShowPageNumbers { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TocInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

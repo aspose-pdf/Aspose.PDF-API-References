@@ -1,22 +1,24 @@
 ---
-title: Measure.Origin
-second_title: Aspose.PDF for .NET API Reference
-description: Mät egenskap. Punkt som ska specificera ursprunget för mätningens koordinatsystem i standard användarutrymmeskoordinater
+title: "Measure.Origin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Measure-egenskap. En punkt som ska specificera ursprunget för mätsystemets koordinater i standardanvändarens rymdkoordinater"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/measure/origin/
 ---
-## Measure.Origin egenskap
+## Measure.Origin property
 
-Punkt som ska specificera ursprunget för mätningens koordinatsystem i standard användarutrymmeskoordinater.
+Punkt som ska ange ursprunget för mätningskoordinatsystemet i standardanvändarrymdens koordinater.
 
 ```csharp
 public Point Origin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../../../aspose.pdf/point/)
-* klass [Measure](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Point](../../../aspose.pdf/point/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

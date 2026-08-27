@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.TransitionType
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-egenskap. Hämtar eller ställer in övergångsstil som ska användas när man går till denna sida från en annan under en presentation
+title: "PdfPageEditor.TransitionType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor egenskap. Hämtar eller anger övergångsstilen som ska användas när man går till den här sidan från en annan under en presentation"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/transitiontype/
 ---
-## PdfPageEditor.TransitionType-egenskap
+## PdfPageEditor.TransitionType property
 
-Hämtar eller ställer in övergångsstil som ska användas när man går till denna sida från en annan under en presentation.
+Hämtar eller anger övergångsstilen som ska användas när man går till den här sidan från en annan under en presentation.
 
 ```csharp
 public int TransitionType { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

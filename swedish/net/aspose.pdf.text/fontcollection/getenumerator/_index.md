@@ -1,14 +1,14 @@
 ---
-title: FontCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection-metod. Returnerar en uppräkning för hela samlingen
+title: "FontCollection.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontCollection metod. Returnerar en enumerator för hela samlingen."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.text/fontcollection/getenumerator/
 ---
-## FontCollection.GetEnumerator metod
+## FontCollection.GetEnumerator method
 
-Returnerar en uppräkning för hela samlingen.
+Returnerar en enumerator för hela samlingen.
 
 ```csharp
 public IEnumerator<Font> GetEnumerator()
@@ -16,11 +16,13 @@ public IEnumerator<Font> GetEnumerator()
 
 ### Returvärde
 
-Uppräkningsobjekt.
+Enumerator-objekt.
 
-### Se Även
+### Se även
 
-* klass [Font](../../font/)
-* klass [FontCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

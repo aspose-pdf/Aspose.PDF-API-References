@@ -1,14 +1,14 @@
 ---
-title: Class Cells
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Cells klass. Representerar en samling av celler i rad
+title: "Klass Cells"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Cells-klass. Representerar en cellsamling för en rad"
 type: docs
-weight: 2980
+weight: 3090
 url: /sv/net/aspose.pdf/cells/
 ---
-## Celler klass
+## Cells class
 
-Representerar en samling av celler i rad.
+Representerar en samling av celler i en rad.
 
 ```csharp
 public sealed class Cells : IEnumerable<Cell>
@@ -18,14 +18,14 @@ public sealed class Cells : IEnumerable<Cell>
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Cells](cells/)() | Standardkonstruktören. |
+| [Cells](cells/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
 | [Count](../../aspose.pdf/cells/count/) { get; } | Antalet objekt. |
-| [Item](../../aspose.pdf/cells/item/) { get; set; } | Hämtar eller sätter celler. |
+| [Item](../../aspose.pdf/cells/item/) { get; set; } | Hämtar eller anger celler. |
 
 ## Metoder
 
@@ -35,14 +35,16 @@ public sealed class Cells : IEnumerable<Cell>
 | [Add](../../aspose.pdf/cells/add/#add_3)(Cell) | Lägg till cell i samlingen. |
 | [Add](../../aspose.pdf/cells/add/#add_1)(string) | Lägg till cell i samlingen. |
 | [Add](../../aspose.pdf/cells/add/#add_2)(string, TextState) | Lägg till cell i samlingen. |
-| [Dispose](../../aspose.pdf/cells/dispose/)() | Dispose metod |
+| [Dispose](../../aspose.pdf/cells/dispose/)() | Dispose-metod |
 | [GetEnumerator](../../aspose.pdf/cells/getenumerator/)() | Hämtar samlingens enumerator. |
 | [Insert](../../aspose.pdf/cells/insert/)(int, Cell) | Infoga cell i samlingen. |
-| [Remove](../../aspose.pdf/cells/remove/#remove)(Cell) | Ta bort cellset från samlingen. |
-| [RemoveRange](../../aspose.pdf/cells/removerange/)(int, int) | Ta bort cellset från samlingen. |
+| [Remove](../../aspose.pdf/cells/remove/#remove)(Cell) | Ta bort celluppsättning från samlingen. |
+| [RemoveRange](../../aspose.pdf/cells/removerange/)(int, int) | Ta bort celluppsättning från samlingen. |
 
-### Se Även
+### Se även
 
-* klass [Cell](../cell/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [Cell](../cell/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

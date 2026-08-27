@@ -1,14 +1,14 @@
 ---
-title: Stamp.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-metod. Anger PDF-fil och sidnummer som kommer att användas som stämpel
+title: "Stamp.BindPdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp metod. Anger PDF-fil och sidnummer som ska användas som stamp"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.facades/stamp/bindpdf/
 ---
 ## BindPdf(string, int) {#bindpdf_1}
 
-Anger PDF-fil och sidnummer som kommer att användas som stämpel.
+Anger PDF‑fil och sidnummer som kommer att användas som stämpel.
 
 ```csharp
 public void BindPdf(string pdfFile, int pageNumber)
@@ -16,7 +16,7 @@ public void BindPdf(string pdfFile, int pageNumber)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pdfFile | Sträng | Sökväg till PDF-fil. |
+| pdfFile | String | Sökväg till PDF-fil. |
 | pageNumber | Int32 | Sidnummer i PDF-fil |
 
 ## Exempel
@@ -24,24 +24,24 @@ public void BindPdf(string pdfFile, int pageNumber)
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Stamp();
-//First page will be used as stamp.
+//Första sidan kommer att användas som stamp.
 stamp.BindPdf("stamp.pdf", 1);
 stamp.IsBackground = true;
 fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream, int) {#bindpdf}
 
-Anger PDF-fil och sidnummer som kommer att användas som stämpel.
+Anger PDF‑fil och sidnummer som kommer att användas som stämpel.
 
 ```csharp
 public void BindPdf(Stream pdfStream, int pageNumber)
@@ -49,23 +49,25 @@ public void BindPdf(Stream pdfStream, int pageNumber)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pdfStream | Stream | Stream som innehåller PDF-dokument. |
-| pageNumber | Int32 | Sidindex för dokumentet som kommer att användas som stämpel. |
+| pdfStream | Stream | Ström som innehåller PDF-dokument. |
+| pageNumber | Int32 | Sidindex för dokumentet som kommer att användas som stamp. |
 
 ## Exempel
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Stamp();
-//First page will be used as stamp.
+//Första sidan kommer att användas som stamp.
 Stream stream = new FileStream("stamp.pdf", FileMode.Open, FileAccess.Read);
 stamp.BindPdf(stream, 1);
 fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

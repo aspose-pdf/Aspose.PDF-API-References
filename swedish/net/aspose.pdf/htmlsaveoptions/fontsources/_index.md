@@ -1,26 +1,28 @@
 ---
-title: HtmlSaveOptions.FontSources
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Teckensnittskällor för förhandsbesparade teckensnitt
+title: "HtmlSaveOptions.FontSources"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions egenskap. Fontkällor för förhandslagrade typsnitt."
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/htmlsaveoptions/fontsources/
 ---
-## HtmlSaveOptions.FontSources-egenskap
+## HtmlSaveOptions.FontSources property
 
-Teckensnittskällor för förhandsbesparade teckensnitt.
+Teckensnittskällor för förhandssparade teckensnitt.
 
 ```csharp
 public FontSourceCollection FontSources { get; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Teckensnitt kan sparas preliminärt för cacheändamål och sedan överföras till Html-konverteringsprocessen. Till exempel kan det vara användbart i scenarier för dokumentuppdelning och bearbetning av dokument sidor i flera trådar med en enda uppsättning teckensnitt.
+Typsnitt kan sparas preliminärt för cache‑ändamål och sedan skickas in i Html‑konverteringsprocessen. Till exempel kan det vara användbart i scenarier med dokumentuppdelning och bearbetning av dokumentsidor i flera trådar med en enda uppsättning typsnitt.
 
-### Se Även
+### Se även
 
-* klass [FontSourceCollection](../../../aspose.pdf.text/fontsourcecollection/)
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FontSourceCollection](../../../aspose.pdf.text/fontsourcecollection/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

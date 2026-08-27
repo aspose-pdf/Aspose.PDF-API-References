@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithVectorStoreExpireDays
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions-metod. Anger antalet dagar för utgång av vektorlager i chattkopilotalternativen
+title: "OpenAIChatCopilotOptions.WithVectorStoreExpireDays"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions metod. Anger antalet dagar för utgång av vektorlager i chat‑copilot‑alternativen"
 type: docs
-weight: 200
+weight: 210
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/withvectorstoreexpiredays/
 ---
-## OpenAIChatCopilotOptions.WithVectorStoreExpireDays metod
+## OpenAIChatCopilotOptions.WithVectorStoreExpireDays method
 
-Anger antalet dagar för utgång av vektorlager i chattkopilotalternativen.
+Ställer in antalet dagar för utgång av vektorlager i chat copilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithVectorStoreExpireDays(int days)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithVectorStoreExpireDays(int days)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| days | Int32 | Antalet dagar för utgång av vektorlager. |
+| dagar | Int32 | Antalet dagar för vektorlagerutgång. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

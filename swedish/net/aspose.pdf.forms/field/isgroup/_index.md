@@ -1,21 +1,23 @@
 ---
-title: Field.IsGroup
-second_title: Aspose.PDF for .NET API Reference
-description: Fält egenskap. Hämtar eller ställer in ett booleskt värde som indikerar om detta fält är ett icke-terminalt fält, dvs. en grupp av fält
+title: "Field.IsGroup"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Field-egenskap. Hämtar eller anger booleskt värde som indikerar om detta är ett icke-terminalt fält, dvs. en grupp av fält"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/field/isgroup/
 ---
-## Field.IsGroup egenskap
+## Field.IsGroup property
 
-Hämtar eller ställer in ett booleskt värde som indikerar om detta fält är ett icke-terminalt fält, dvs. en grupp av fält.
+Hämtar eller anger ett booleskt värde som indikerar om detta fält är ett icke‑terminalt fält, dvs. en grupp av fält.
 
 ```csharp
 public bool IsGroup { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Stamp.SetOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-metod. Ställer in position på sidan där stämpeln kommer att placeras
+title: "Stamp.SetOrigin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp-metoden. Anger position på sidan där stämpeln ska placeras"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.facades/stamp/setorigin/
 ---
-## Stamp.SetOrigin metod
+## Stamp.SetOrigin method
 
-Ställer in position på sidan där stämpeln kommer att placeras.
+Anger position på sidan där stämpeln kommer att placeras.
 
 ```csharp
 public void SetOrigin(float originX, float originY)
@@ -19,8 +19,10 @@ public void SetOrigin(float originX, float originY)
 | originX | Single | X-koordinat för stämpeln. |
 | originY | Single | Y-koordinat för stämpeln. |
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

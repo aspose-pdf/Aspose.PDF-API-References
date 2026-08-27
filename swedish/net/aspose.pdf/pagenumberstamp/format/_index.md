@@ -1,21 +1,23 @@
 ---
-title: PageNumberStamp.Format
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp-egenskap. Strängvärde för stämpling av sidnummer. Värdet måste inkludera tecknet '#' som ersätts med sidnumret i stämplingsprocessen.
+title: "PageNumberStamp.Format"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageNumberStamp egenskap. Strängvärde för stämpling av sidnummer. Värdet måste inkludera tecknet som ersätts med sidnumret under stämplingsprocessen."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pagenumberstamp/format/
 ---
-## PageNumberStamp.Format-egenskap
+## PageNumberStamp.Format property
 
-Strängvärde för stämpling av sidnummer. Värdet måste inkludera tecknet '#' som ersätts med sidnumret i stämplingsprocessen.
+Strängvärde för att stämpla sidnummer. Värdet måste innehålla tecknet '#' som ersätts med sidnumret under stämplingsprocessen.
 
 ```csharp
 public string Format { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageNumberStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

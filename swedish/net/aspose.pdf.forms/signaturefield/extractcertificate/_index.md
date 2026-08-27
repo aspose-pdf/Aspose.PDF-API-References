@@ -1,12 +1,12 @@
 ---
-title: SignatureField.ExtractCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureField-metod. Extraherar det enda X.509-certifikatet i DER-format som en ström
+title: "SignatureField.ExtractCertificate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureField-metod. Extraherar det enkla X.509-certifikatet i DER-format som en ström"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/signaturefield/extractcertificate/
 ---
-## SignatureField.ExtractCertificate metod
+## SignatureField.ExtractCertificate method
 
 Extraherar det enda X.509-certifikatet i DER-format som en ström.
 
@@ -16,10 +16,12 @@ public Stream ExtractCertificate()
 
 ### Returvärde
 
-Om certifikatet hittades returneras X.509 enda certifikat; annars, null.
+Om certifikatet hittades returneras ett enkelt X.509-certifikat; annars null.
 
-### Se Även
+### Se även
 
-* klass [SignatureField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

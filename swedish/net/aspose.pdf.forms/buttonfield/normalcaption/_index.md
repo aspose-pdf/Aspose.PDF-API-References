@@ -1,21 +1,23 @@
 ---
-title: ButtonField.NormalCaption
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField-egenskap. Hämtar eller ställer in normal rubrik
+title: "ButtonField.NormalCaption"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ButtonField egenskap. Hämtar eller anger normal rubrik."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.forms/buttonfield/normalcaption/
 ---
-## ButtonField.NormalCaption-egenskap
+## ButtonField.NormalCaption property
 
-Hämtar eller ställer in normal rubrik.
+Hämtar eller anger normal rubrik.
 
 ```csharp
 public string NormalCaption { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ButtonField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

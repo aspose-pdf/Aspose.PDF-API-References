@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions-metod. Ställer in temperaturen för bildbeskrivningskopilotalternativen
+title: "OpenAIImageDescriptionCopilotOptions.WithTemperature"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIImageDescriptionCopilotOptions-metod. Anger temperaturen för bildbeskrivnings‑copilot‑alternativen"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtemperature/
 ---
-## OpenAIImageDescriptionCopilotOptions.WithTemperature metod
+## OpenAIImageDescriptionCopilotOptions.WithTemperature method
 
-Ställer in temperaturen för bildbeskrivningskopilotalternativen.
+Ställer in temperaturen för alternativen för bildbeskrivnings‑copilot.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithTemperature(double? temperature)
@@ -16,14 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithTemperature(double? temperature)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| temperature | Nullable`1 | Temperaturen som ska ställas in. |
+| temperatur | Nullable`1 | Temperaturen att ställa in. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIImageDescriptionCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

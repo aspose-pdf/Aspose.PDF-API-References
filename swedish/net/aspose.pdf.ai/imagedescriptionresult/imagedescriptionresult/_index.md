@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.ImageDescriptionResult
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescriptionResult-konstruktorn. Standardkonstruktorn
+title: "ImageDescriptionResult.ImageDescriptionResult"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageDescriptionResult konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/imagedescriptionresult/imagedescriptionresult/
 ---
-## ImageDescriptionResult-konstruktorn
+## ImageDescriptionResult constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ImageDescriptionResult()
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageDescriptionResult](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

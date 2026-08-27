@@ -1,14 +1,14 @@
 ---
-title: Class ClosePathFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ClosePathFillStroke klass. Klass som representerar b-operatorn som stänger, fyller och ritar en väg med icke-noll vindningsregel
+title: "Klass ClosePathFillStroke"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.ClosePathFillStroke klass. Klass som representerar b-operatorn som stänger, fyller och ritar vägen med icke-noll winding-regel"
 type: docs
-weight: 7210
+weight: 7350
 url: /sv/net/aspose.pdf.operators/closepathfillstroke/
 ---
-## ClosePathFillStroke klass
+## ClosePathFillStroke class
 
-Klass som representerar b-operatorn (stänger, fyller och ritar en väg med icke-noll vindningsregel).
+Klass som representerar b-operatorn (close, fill and stroke path with non-zero winding rule).
 
 ```csharp
 public class ClosePathFillStroke : Operator
@@ -24,7 +24,7 @@ public class ClosePathFillStroke : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
@@ -32,10 +32,12 @@ public class ClosePathFillStroke : Operator
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
 | override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring/)() | Returnerar strängrepresentation av operatorn. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

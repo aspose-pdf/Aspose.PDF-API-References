@@ -1,14 +1,14 @@
 ---
-title: Class SetMiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetMiterLimit klass. Klass som representerar M-operatorn för att ställa in mitergräns
+title: "Klass SetMiterLimit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetMiterLimit class. Klass som representerar M-operatorn som ställer in snittgräns."
 type: docs
-weight: 7780
+weight: 7920
 url: /sv/net/aspose.pdf.operators/setmiterlimit/
 ---
-## SetMiterLimit klass
+## SetMiterLimit class
 
-Klass som representerar M-operatorn (ställer in mitergräns).
+Klass som representerar M-operatorn (sätter mitergräns).
 
 ```csharp
 public class SetMiterLimit : Operator
@@ -18,25 +18,27 @@ public class SetMiterLimit : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SetMiterLimit](setmiterlimit/)(double) | Initierar operator. |
+| [SetMiterLimit](setmiterlimit/)(double) | Initierar operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit/) { get; set; } | Hämtar eller ställer in mitergränsen. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit/) { get; set; } | Hämtar eller anger snittgränsen. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

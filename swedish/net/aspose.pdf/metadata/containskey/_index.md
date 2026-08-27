@@ -1,14 +1,14 @@
 ---
-title: Metadata.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-metod. Bestämmer om denna ordbok innehåller angiven nyckel
+title: "Metadata.ContainsKey"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata‑metod. Avgör om detta lexikon innehåller angiven nyckel"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/metadata/containskey/
 ---
-## Metadata.ContainsKey metod
+## Metadata.ContainsKey method
 
-Bestämmer om denna ordbok innehåller angiven nyckel.
+Fastställer om detta dictionary innehåller den angivna nyckeln.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,14 +16,16 @@ public bool ContainsKey(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckel att söka i ordboken. |
+| nyckel | String | Nyckel att söka i ordboken. |
 
 ### Returvärde
 
 true om nyckeln hittas.
 
-### Se Även
+### Se även
 
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

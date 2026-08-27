@@ -1,14 +1,14 @@
 ---
-title: CosPdfBoolean.CosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean-konstruktorn. Initierar en ny instans av PdfBoolean-klassen
+title: "CosPdfBoolean.CosPdfBoolean"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfBoolean-konstruktör. Initierar en ny instans av klassen PdfBoolean"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.dataeditor/cospdfboolean/cospdfboolean/
 ---
-## CosPdfBoolean-konstruktorn
+## CosPdfBoolean constructor
 
-Initierar en ny instans av PdfBoolean-klassen.
+Initierar en ny instans av klassen PdfBoolean.
 
 ```csharp
 public CosPdfBoolean(bool value)
@@ -16,10 +16,12 @@ public CosPdfBoolean(bool value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Boolean | om inställt på `true` [value]. |
+| värde | Boolean | om satt till `true` [värde]. |
 
-### Se Även
+### Se även
 
-* klass [CosPdfBoolean](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.AlignBottom
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar vertikal justering som bottenstil
+title: "FormFieldFacade.AlignBottom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade field. Definierar vertikal justering som bottenstil"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.facades/formfieldfacade/alignbottom/
 ---
-## FormFieldFacade.AlignBottom fält
+## FormFieldFacade.AlignBottom field
 
 Definierar vertikal justering som bottenstil.
 
@@ -14,8 +14,10 @@ Definierar vertikal justering som bottenstil.
 public const int AlignBottom;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Scope_Row
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut Scope Rad
+title: "AttributeName.Scope_Row"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName fält. Attribute Scope Row"
 type: docs
 weight: 540
 url: /sv/net/aspose.pdf.logicalstructure/attributename/scope_row/
 ---
-## Attributnamn.Scope_Row fält
+## AttributeName.Scope_Row field
 
-Attribut Scope: Rad.
+Attributomfång: Rad.
 
 ```csharp
 public static readonly AttributeName Scope_Row;
 ```
 
-### Se Även
+### Se även
 
-* klass [Attributnamn](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

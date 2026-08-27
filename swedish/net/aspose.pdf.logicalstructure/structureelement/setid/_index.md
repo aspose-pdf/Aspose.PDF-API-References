@@ -1,14 +1,14 @@
 ---
-title: StructureElement.SetId
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement-metod. Sätter ID för struktur element
+title: "StructureElement.SetId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-metoden. Ställer in ID för strukturelementet"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/setid/
 ---
-## StructureElement.SetId metod
+## StructureElement.SetId method
 
-Sätter ID för struktur element.
+Ställer in ID för strukturelementet.
 
 ```csharp
 public void SetId(string id)
@@ -16,10 +16,12 @@ public void SetId(string id)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| id | Sträng | ID-värde för struktur element |
+| id | String | ID-värde för strukturelementet |
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

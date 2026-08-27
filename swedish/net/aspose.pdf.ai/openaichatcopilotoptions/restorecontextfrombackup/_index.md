@@ -1,21 +1,23 @@
 ---
-title: OpenAIChatCopilotOptions.RestoreContextFromBackup
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions-egenskap. Hämtar eller ställer in ett värde som indikerar om kontexten ska återställas från säkerhetskopiering
+title: "OpenAIChatCopilotOptions.RestoreContextFromBackup"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions egenskap. Hämtar eller anger ett värde som indikerar om kontexten ska återställas från säkerhetskopian"
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/restorecontextfrombackup/
 ---
-## OpenAIChatCopilotOptions.RestoreContextFromBackup-egenskap
+## OpenAIChatCopilotOptions.RestoreContextFromBackup property
 
-Hämtar eller ställer in ett värde som indikerar om kontexten ska återställas från säkerhetskopiering.
+Hämtar eller anger ett värde som indikerar om kontexten ska återställas från backup.
 
 ```csharp
 public bool RestoreContextFromBackup { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

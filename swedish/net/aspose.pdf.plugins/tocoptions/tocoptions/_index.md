@@ -1,12 +1,12 @@
 ---
-title: TocOptions.TocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TocOptions constructor. The default constructor
+title: "TocOptions.TocOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TocOptions‑konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/tocoptions/tocoptions/
 ---
-## TocOptions-konstruktorn
+## TocOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public TocOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [TocOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TocOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: SetDash.Pattern
-second_title: Aspose.PDF for .NET API Reference
-description: SetDash-egenskap. Dash-mönster. Array-elementen ska vara siffror som specificerar längderna på växlande streck och mellanrum. I fallet med en enstaka element-array är längderna på streck och mellanrum lika.
+title: "SetDash.Pattern"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetDash‑egenskap. Streckmönster. Arrayens element ska vara tal som anger längderna på alternerande streck och mellanrum. Vid en array med ett element är streck- och mellanrumslängderna lika."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/setdash/pattern/
 ---
-## SetDash.Pattern-egenskap
+## SetDash.Pattern property
 
-Dash-mönster. Array-elementen ska vara siffror som specificerar längderna på växlande streck och mellanrum. I fallet med en enstaka element-array är längderna på streck och mellanrum lika.
+Streckmönster. Arrayens element ska vara tal som specificerar längderna på alternerande streck och mellanrum. Om arrayen har ett element är streck- och mellanrumslängderna lika.
 
 ```csharp
 public int[] Pattern { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetDash](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetDash](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: TextMarkupAnnotation.QuadPoints
-second_title: Aspose.PDF for .NET API Reference
-description: TextMarkupAnnotation-egenskap. Hämtar eller ställer in en array av punkter som specificerar koordinaterna för n fyrhörningar. Varje fyrhörning omfattar ett ord eller en grupp av sammanhängande ord i texten som ligger till grund för anteckningen
+title: "TextMarkupAnnotation.QuadPoints"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextMarkupAnnotation‑egenskap. Hämtar eller anger en array av punkter som specificerar koordinaterna för n fyrhörningar. Varje fyrhörning omfattar ett ord eller en grupp av sammanhängande ord i den text som ligger under annotationen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/textmarkupannotation/quadpoints/
 ---
-## TextMarkupAnnotation.QuadPoints-egenskap
+## TextMarkupAnnotation.QuadPoints property
 
-Hämtar eller ställer in en array av punkter som specificerar koordinaterna för n fyrhörningar. Varje fyrhörning omfattar ett ord eller en grupp av sammanhängande ord i texten som ligger till grund för anteckningen.
+Hämtar eller anger en array av punkter som specificerar koordinaterna för n fyrhörningar. Varje fyrhörning omfattar ett ord eller en grupp av sammanhängande ord i den text som ligger under annoteringen.
 
 ```csharp
 public Point[] QuadPoints { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../../../aspose.pdf/point/)
-* klass [TextMarkupAnnotation](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [TextMarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

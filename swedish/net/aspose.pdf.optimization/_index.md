@@ -1,22 +1,24 @@
 ---
-title: Aspose.Pdf.Optimization
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Optimization är ett namnrum för klasser för hantering av dokumentoptimeringsprocessen
+title: "Aspose.Pdf.Optimization"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Optimization är ett namnrymd för klasser som hanterar dokumentoptimeringsprocessen."
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.optimization/
 ---
-Den **Aspose.Pdf.Optimization** är ett namnrum för klasser för hantering av dokumentoptimeringsprocessen.
+Namnområdet **Aspose.Pdf.Optimization** är ett namnrum för klasser som hanterar dokumentoptimeringsprocessen.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [ImageCompressionOptions](./imagecompressionoptions/) | Klassen innehåller inställningar för bildkomprimering. |
-| [OptimizationOptions](./optimizationoptions/) | Klassen som beskriver dokumentoptimeringsalgoritmen. En instans av denna klass kan användas som parameter för metoden OptimizeResources(). |
+| [ImageCompressionOptions](./imagecompressionoptions/) | Klassen innehåller en uppsättning alternativ för bildkomprimering. |
+| [OptimizationOptions](./optimizationoptions/) | Klassen som beskriver dokumentoptimeringsalgoritmen. En instans av denna klass kan användas som parameter till metoden OptimizeResources(). |
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
 | [ImageCompressionVersion](./imagecompressionversion/) | Beskriver versioner av bildkomprimeringsalgoritmen. |
-| [ImageEncoding](./imageencoding/) | Typer av bildkodning. |
+| [ImageEncoding](./imageencoding/) | Bildkodningstyper. |
+
+

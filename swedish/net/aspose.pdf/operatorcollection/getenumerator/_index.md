@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection metod. Returnerar enumerator för samlingen
+title: "OperatorCollection.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OperatorCollection metod. Returnerar en enumerator för samlingen"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/operatorcollection/getenumerator/
 ---
-## OperatorCollection.GetEnumerator metod
+## OperatorCollection.GetEnumerator method
 
-Returnerar enumerator för samlingen
+Returnerar en enumerator för samlingen
 
 ```csharp
 public override IEnumerator<Operator> GetEnumerator()
@@ -16,11 +16,13 @@ public override IEnumerator<Operator> GetEnumerator()
 
 ### Returvärde
 
-Samlingens enumerator
+Samlingsenumerator
 
-### Se Även
+### Se även
 
-* klass [Operator](../../operator/)
-* klass [OperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

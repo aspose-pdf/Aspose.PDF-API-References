@@ -1,12 +1,12 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Ac
-second_title: Aspose.PDF for .NET API Reference
-description: SetSpacingMoveToNextLineShowText-egenskap. Hämta teckenavstånd
+title: "SetSpacingMoveToNextLineShowText.Ac"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetSpacingMoveToNextLineShowText egenskap. Hämtar teckenavstånd"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/
 ---
-## SetSpacingMoveToNextLineShowText.Ac-egenskap
+## SetSpacingMoveToNextLineShowText.Ac property
 
 Hämta teckenavstånd.
 
@@ -14,8 +14,10 @@ Hämta teckenavstånd.
 public double Ac { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetSpacingMoveToNextLineShowText](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SetSpacingMoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

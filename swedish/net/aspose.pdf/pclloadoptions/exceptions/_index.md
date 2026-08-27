@@ -1,12 +1,12 @@
 ---
-title: PclLoadOptions.Exceptions
-second_title: Aspose.PDF for .NET API Reference
-description: PclLoadOptions field. List of conversion errors
+title: "PclLoadOptions.Exceptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PclLoadOptions-fältet. Lista över konverteringsfel"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/pclloadoptions/exceptions/
 ---
-## PclLoadOptions.Exceptions-fält
+## PclLoadOptions.Exceptions field
 
 Lista över konverteringsfel.
 
@@ -14,8 +14,10 @@ Lista över konverteringsfel.
 public IList<Exception> Exceptions;
 ```
 
-### Se Även
+### Se även
 
-* klass [PclLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PclLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

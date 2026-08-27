@@ -1,14 +1,14 @@
 ---
-title: OcspSettings.OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: OcspSettings-konstruktorn. Initierar en ny instans av OcspSettings-klassen
+title: "OcspSettings.OcspSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OcspSettings-konstruktor. Initierar en ny instans av klassen OcspSettings"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/ocspsettings/ocspsettings/
 ---
-## OcspSettings-konstruktorn
+## OcspSettings constructor
 
-Initierar en ny instans av [`OcspSettings`](../) klassen.
+Initierar en ny instans av klassen [`OcspSettings`](../).
 
 ```csharp
 public OcspSettings(string serverUrl)
@@ -16,10 +16,12 @@ public OcspSettings(string serverUrl)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| serverUrl | String | URL:en till ocsp-servern. |
+| serverUrl | String | OCSP-serverns URL. |
 
-### Se Även
+### Se även
 
-* klass [OcspSettings](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OcspSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

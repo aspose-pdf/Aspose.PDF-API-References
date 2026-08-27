@@ -1,22 +1,24 @@
 ---
-title: GraphicState.ColorsAndStyles
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicState-egenskap. Hämtar operatörerna som representerar färgrum, färger och linjestilar
+title: "GraphicState.ColorsAndStyles"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicState-egenskap. Hämtar operatorerna som representerar färgrymder, färger och linjestilar"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.vector/graphicstate/colorsandstyles/
 ---
-## GraphicState.ColorsAndStyles-egenskap
+## GraphicState.ColorsAndStyles property
 
-Hämtar operatörerna som representerar färgrum, färger och linjestilar.
+Hämtar operatorerna som representerar färgrymder, färger och linjestilar.
 
 ```csharp
 public SortedDictionary<byte, Operator> ColorsAndStyles { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Operator](../../../aspose.pdf/operator/)
-* klass [GraphicState](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [Operator](../../../aspose.pdf/operator/)
+* class [GraphicState](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

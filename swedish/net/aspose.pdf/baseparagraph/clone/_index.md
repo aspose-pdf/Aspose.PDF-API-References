@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph metod. Klonar denna instans. Virtuell metod. Återvänder alltid null
+title: "BaseParagraph.Clone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseParagraph metod. Klonar denna instans. Virtuell metod. Returnerar alltid null"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/baseparagraph/clone/
 ---
-## BaseParagraph.Clone metod
+## BaseParagraph.Clone method
 
-Klonar denna instans. Virtuell metod. Återvänder alltid null.
+Klonar denna instans. Virtuell metod. Returnerar alltid null.
 
 ```csharp
 public virtual object Clone()
@@ -18,8 +18,10 @@ public virtual object Clone()
 
 Null.
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

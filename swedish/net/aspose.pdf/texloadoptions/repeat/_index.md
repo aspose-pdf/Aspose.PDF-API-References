@@ -1,21 +1,23 @@
 ---
-title: TeXLoadOptions.Repeat
-second_title: Aspose.PDF for .NET API Reference
-description: TeXLoadOptions-egenskap. Hämtar/anger flaggan som indikerar huruvida det är nödvändigt att köra TeX-jobbet två gånger om det till exempel finns referenser i inmatade TeX-filer. I allmänhet är detta beteende användbart när motorn samlar in viss data under typografiprocessen och lagrar den i en hjälpfiler vid första körningen. Och vid den andra körningen använder motorn på något sätt den datan.
+title: "TeXLoadOptions.Repeat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXLoadOptions-egenskap. Hämtar/sätter flaggan som indikerar om det är nödvändigt att köra TeX-jobbet två gånger, till exempel om det finns referenser i inmatade TeX-filer. I allmänhet är detta beteende användbart när motorn samlar in data under typograferingsprocessen och lagrar den i en hjälpfil vid första körningen. Och vid den andra körningen använder motorn på något sätt den datan."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/texloadoptions/repeat/
 ---
-## TeXLoadOptions.Repeat-egenskap
+## TeXLoadOptions.Repeat property
 
-Hämtar/anger flaggan som indikerar huruvida det är nödvändigt att köra TeX-jobbet två gånger om det till exempel finns referenser i inmatade TeX-fil(er). I allmänhet är detta beteende användbart när motorn samlar in viss data under typografiprocessen och lagrar den i en hjälpfiler, allt vid första körningen. Och vid den andra körningen använder motorn på något sätt den datan.
+Hämtar/sätter flaggan som anger om det är nödvändigt att köra TeX‑jobbet två gånger i fall, till exempel, det finns referenser i indata‑TeX‑fil(er). I allmänhet är detta beteende användbart när motorn samlar in data under typografiprocessen och lagrar den i en hjälpfil under första körningen. Och vid den andra körningen använder motorn på något sätt den datan.
 
 ```csharp
 public bool Repeat { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TeXLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

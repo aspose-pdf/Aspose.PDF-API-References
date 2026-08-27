@@ -1,14 +1,14 @@
 ---
-title: Document.BindXml
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Binda xml till dokument
+title: "Document.BindXml"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Binda xml till dokument"
 type: docs
-weight: 550
+weight: 570
 url: /sv/net/aspose.pdf/document/bindxml/
 ---
 ## BindXml(string) {#bindxml_3}
 
-Binda xml till dokument
+Koppla xml till document.
 
 ```csharp
 public void BindXml(string file)
@@ -16,19 +16,19 @@ public void BindXml(string file)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| file | Sträng | Xml-filen |
+| fil | String | Xml-filen |
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindXml(string, string) {#bindxml_4}
 
-Binda xml/xsl till dokument
+Koppla xml/xsl till document.
 
 ```csharp
 public void BindXml(string xmlFile, string xslFile)
@@ -36,20 +36,20 @@ public void BindXml(string xmlFile, string xslFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xmlFile | Sträng | Xml-filen. |
-| xslFile | Sträng | Xsl-filen om XSLT används. |
+| xmlFile | String | Xml-filen. |
+| xslFile | String | Xsl-filen om XSLT används. |
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindXml(Stream, Stream) {#bindxml_1}
 
-Binda xml/xsl till dokument
+Koppla xml/xsl till document.
 
 ```csharp
 public void BindXml(Stream xmlStream, Stream xslStream)
@@ -60,17 +60,17 @@ public void BindXml(Stream xmlStream, Stream xslStream)
 | xmlStream | Stream | Xml-strömmen. |
 | xslStream | Stream | Xsl-strömmen om XSLT används. |
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindXml(Stream, Stream, XmlReaderSettings) {#bindxml_2}
 
-Binda xml/xsl till dokument
+Koppla xml/xsl till document.
 
 ```csharp
 public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settings)
@@ -80,19 +80,19 @@ public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settin
 | --- | --- | --- |
 | xmlStream | Stream | Xml-strömmen. |
 | xslStream | Stream | Xsl-strömmen om XSLT används. |
-| settings | XmlReaderSettings | Inställningarna för xml-läsaren. |
+| inställningar | XmlReaderSettings | Inställningarna för xml-läsaren. |
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindXml(Stream) {#bindxml}
 
-Binda xml till dokument
+Koppla xml till document.
 
 ```csharp
 public void BindXml(Stream stream)
@@ -100,10 +100,12 @@ public void BindXml(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Xml-strömmen. |
+| ström | Stream | Xml-strömmen. |
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

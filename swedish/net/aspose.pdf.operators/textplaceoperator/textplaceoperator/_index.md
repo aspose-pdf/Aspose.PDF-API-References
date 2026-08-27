@@ -1,7 +1,7 @@
 ---
-title: TextPlaceOperator.TextPlaceOperator
-second_title: Aspose.PDF for .NET API Reference
-description: TextPlaceOperator-konstruktör. Initierar TextPlaceOperator
+title: "TextPlaceOperator.TextPlaceOperator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextPlaceOperator-konstruktor. Initierar TextPlaceOperator"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/textplaceoperator/textplaceoperator/
@@ -14,11 +14,11 @@ Initierar TextPlaceOperator.
 public TextPlaceOperator()
 ```
 
-### Se Även
+### Se även
 
-* klass [TextPlaceOperator](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextPlaceOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,9 +34,11 @@ public TextPlaceOperator(TextProperties textProperties)
 | --- | --- | --- |
 | textProperties | TextProperties | Textegenskaper. |
 
-### Se Även
+### Se även
 
-* klass [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* klass [TextPlaceOperator](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [TextPlaceOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

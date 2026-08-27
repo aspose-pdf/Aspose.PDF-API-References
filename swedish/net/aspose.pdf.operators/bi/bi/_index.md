@@ -1,21 +1,23 @@
 ---
-title: BI.BI
-second_title: Aspose.PDF for .NET API Reference
-description: BI-konstruktör. Initierar operatör
+title: "BI.BI"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BI-konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/bi/bi/
 ---
-## BI-konstruktör
+## BI constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public BI()
 ```
 
-### Se Även
+### Se även
 
-* klass [BI](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [BI](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

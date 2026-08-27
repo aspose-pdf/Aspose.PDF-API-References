@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageResponse.ThreadMessageResponse
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse-konstruktorn. Standardkonstruktorn
+title: "ThreadMessageResponse.ThreadMessageResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageResponse‑konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/threadmessageresponse/threadmessageresponse/
 ---
-## ThreadMessageResponse-konstruktorn
+## ThreadMessageResponse constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ThreadMessageResponse()
 ```
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

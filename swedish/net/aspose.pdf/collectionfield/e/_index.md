@@ -1,21 +1,23 @@
 ---
-title: CollectionField.E
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionField-egenskap. Hämtar en flagga som indikerar om den interaktiva PDF-processorn ska ge stöd för att redigera fältvärdet. Standardvärde falskt
+title: "CollectionField.E"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CollectionField egenskap. Hämtar en flagga som indikerar om den interaktiva PDF-processorn ska erbjuda stöd för redigering av fältvärdet. Standardvärde false"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/collectionfield/e/
 ---
-## CollectionField.E-egenskap
+## CollectionField.E property
 
-Hämtar en flagga som indikerar om den interaktiva PDF-processorn ska ge stöd för att redigera fältvärdet. Standardvärde: falskt
+Hämtar en flagga som indikerar om den interaktiva PDF‑processorn ska erbjuda stöd för att redigera fältvärdet. Standardvärde: false
 
 ```csharp
 public bool E { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CollectionField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [CollectionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

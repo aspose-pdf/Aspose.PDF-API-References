@@ -1,12 +1,12 @@
 ---
-title: Heading.Level
-second_title: Aspose.PDF for .NET API Reference
-description: Heading-egenskap. Hämtar nivån
+title: "Heading.Level"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Heading-egenskap. Hämtar nivån."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/heading/level/
 ---
-## Heading.Level-egenskap
+## Heading.Level property
 
 Hämtar nivån.
 
@@ -14,8 +14,10 @@ Hämtar nivån.
 public int Level { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Heading](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection-egenskap. Returnerar true om objektet är synkroniserat
+title: "OptionCollection.IsSynchronized"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptionCollection-egenskap. Returnerar true om objektet är synkroniserat"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/optioncollection/issynchronized/
 ---
-## OptionCollection.IsSynchronized-egenskap
+## OptionCollection.IsSynchronized property
 
 Returnerar true om objektet är synkroniserat.
 
@@ -14,8 +14,10 @@ Returnerar true om objektet är synkroniserat.
 public bool IsSynchronized { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OptionCollection](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

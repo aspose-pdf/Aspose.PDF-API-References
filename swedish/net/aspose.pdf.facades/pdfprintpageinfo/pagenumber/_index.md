@@ -1,12 +1,12 @@
 ---
-title: PdfPrintPageInfo.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPrintPageInfo-egenskap. Hämtar det för närvarande utskrivna sidnumret
+title: "PdfPrintPageInfo.PageNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPrintPageInfo-egenskap. Hämtar aktuellt utskrivet sidnummer"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdfprintpageinfo/pagenumber/
 ---
-## PdfPrintPageInfo.PageNumber-egenskap
+## PdfPrintPageInfo.PageNumber property
 
 Hämtar det för närvarande utskrivna sidnumret;
 
@@ -14,8 +14,10 @@ Hämtar det för närvarande utskrivna sidnumret;
 public int PageNumber { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPrintPageInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfPrintPageInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

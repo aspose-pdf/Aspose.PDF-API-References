@@ -1,22 +1,24 @@
 ---
-title: FreeTextAnnotation.StartingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation-egenskap. Hämtar eller ställer in linjeavslutningsstil för linjeavslutningspunkt. Denna egenskap är föråldrad, vänligen använd EndingStyle
+title: "FreeTextAnnotation.StartingStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FreeTextAnnotation-egenskap. Hämtar eller anger stil för linjeändpunkt. Denna egenskap är föråldrad, vänligen använd EndingStyle."
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.annotations/freetextannotation/startingstyle/
 ---
-## FreeTextAnnotation.StartingStyle-egenskap
+## FreeTextAnnotation.StartingStyle property
 
-Hämtar eller ställer in linjeavslutningsstil för linjeavslutningspunkt. Denna egenskap är föråldrad, vänligen använd EndingStyle.
+Hämtar eller anger stil för linjeändpunkt. Denna egenskap är föråldrad, vänligen använd EndingStyle.
 
 ```csharp
 public LineEnding StartingStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [LineEnding](../../lineending/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

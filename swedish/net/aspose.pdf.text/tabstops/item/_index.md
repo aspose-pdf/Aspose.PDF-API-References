@@ -1,14 +1,14 @@
 ---
-title: TabStops.Item
-second_title: Aspose.PDF for .NET API Reference
-description: TabStops-egenskap. Hämtar eller ställer in ett TabStop-objekt från samlingen enligt TabStop-index
+title: "TabStops.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TabStops-egenskap. Hämtar eller anger ett TabStop-objekt från samlingen enligt TabStop-index"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/tabstops/item/
 ---
 ## TabStops indexer
 
-Hämtar eller ställer in ett [`TabStop`](../../tabstop/) objekt från samlingen enligt TabStop-index.
+Hämtar eller anger ett [`TabStop`](../../tabstop/) objekt från samlingen enligt TabStop-index.
 
 ```csharp
 public TabStop this[int index] { get; set; }
@@ -16,15 +16,17 @@ public TabStop this[int index] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Nollbaserat index för elementet i [`TabStops`](../) samlingen. |
+| index | Nollbaserat index för element i [`TabStops`](../) samlingen. |
 
 ### Returvärde
 
-[`TabStop`](../../tabstop/) objekt.
+[`TabStop`](../../tabstop/) object.
 
-### Se Även
+### Se även
 
-* klass [TabStop](../../tabstop/)
-* klass [TabStops](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

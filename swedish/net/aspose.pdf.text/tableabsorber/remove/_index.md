@@ -1,12 +1,12 @@
 ---
-title: TableAbsorber.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: TableAbsorber-metod. Tar bort en AbsorbedTable från sidan
+title: "TableAbsorber.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableAbsorber‑metod. Tar bort en AbsorbedTable från sidan."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/tableabsorber/remove/
 ---
-## TableAbsorber.Remove metod
+## TableAbsorber.Remove method
 
 Tar bort en [`AbsorbedTable`](../../absorbedtable/) från sidan.
 
@@ -18,13 +18,15 @@ public void Remove(AbsorbedTable table)
 | --- | --- | --- |
 | table | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) att ta bort. |
 
-## Kommentarer
+## Anmärkningar
 
-Vänligen ta hänsyn till att det ändrar TableList-samlingen. Vid borttagning/ersättning av tabeller i loop, vänligen använd en kopia av TableList-samlingen.
+Observera att det ändrar TableList‑samlingen. Vid borttagning/ersättning av tabeller i en loop, använd en kopia av TableList‑samlingen.
 
-### Se Även
+### Se även
 
-* klass [AbsorbedTable](../../absorbedtable/)
-* klass [TableAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Ellipse.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Ellipse-egenskap. Hämtar eller ställer in ett flyttal som anger den vänstra positionen för ellipsen
+title: "Ellipse.Left"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Ellipse-egenskap. Hämtar eller anger ett flyttal som indikerar ellipsens vänstra position."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.drawing/ellipse/left/
 ---
-## Ellipse.Vänster egenskap
+## Ellipse.Left property
 
-Hämtar eller ställer in ett flyttal som anger den vänstra positionen för ellipsen.
+Hämtar eller anger ett flyttal som indikerar den vänstra positionen för ellipsen.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Ellipse](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Ellipse](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

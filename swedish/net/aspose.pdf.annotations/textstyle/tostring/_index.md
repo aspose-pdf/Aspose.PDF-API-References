@@ -1,12 +1,12 @@
 ---
-title: TextStyle.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle-metod. Strängrepresentation av TextStyle
+title: "TextStyle.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStyle metod. Strängrepresentation av TextStyle."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/textstyle/tostring/
 ---
-## TextStyle.ToString metod
+## TextStyle.ToString method
 
 Strängrepresentation av TextStyle.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Strängrepresentation.
 
-### Se Även
+### Se även
 
-* klass [TextStyle](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

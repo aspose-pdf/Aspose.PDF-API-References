@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.HideToolbar
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. En flagga som specificerar huruvida verktygsfältet för de överensstämmande läsarna ska döljas när dokumentet är aktivt
+title: "ViewerPreference.HideToolbar"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference‑fält. En flagga som anger om läsarnas verktygsfält ska döljas när dokumentet är aktivt"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/viewerpreference/hidetoolbar/
 ---
-## ViewerPreference.HideToolbar-fält
+## ViewerPreference.HideToolbar field
 
-En flagga som specificerar huruvida verktygsfältet för den överensstämmande läsaren ska döljas när dokumentet är aktivt.
+En flagga som anger om den konforma läsarens verktygsfält ska döljas när dokumentet är aktivt.
 
 ```csharp
 public const int HideToolbar;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

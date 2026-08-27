@@ -1,7 +1,7 @@
 ---
-title: FitBVExplicitDestination.FitBVExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: FitBVExplicitDestination-konstruktör. Skapar lokal explicit destination
+title: "FitBVExplicitDestination.FitBVExplicitDestination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FitBVExplicitDestination‑konstruktor. Skapar en lokal explicit destination"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/fitbvexplicitdestination/fitbvexplicitdestination/
@@ -16,15 +16,15 @@ public FitBVExplicitDestination(Page page, double left)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Det destination sida objekt. |
-| left | Double | Den horisontella koordinaten vänster placerad vid vänster kant av fönstret. |
+| sida | Page | Destinationens sidobjekt. |
+| left | Double | Den horisontella koordinaten vänster placerad vid fönstrets vänstra kant. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [FitBVExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitBVExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,11 +38,13 @@ public FitBVExplicitDestination(int pageNumber, double left)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageNumber | Int32 | Det destination sidnummer av fjärrdokumentet. |
-| left | Double | Den horisontella koordinaten vänster placerad vid vänster kant av fönstret. |
+| pageNumber | Int32 | Destinationens sidnummer för fjärrdokumentet. |
+| left | Double | Den horisontella koordinaten vänster placerad vid fönstrets vänstra kant. |
 
-### Se Även
+### Se även
 
-* klass [FitBVExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FitBVExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

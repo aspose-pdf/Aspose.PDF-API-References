@@ -1,22 +1,24 @@
 ---
-title: TextBoxField.TextVerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField-egenskap. Hämtar eller ställer in textens vertikala justering för annotation
+title: "TextBoxField.TextVerticalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextBoxField-egenskap. Hämtar eller anger vertikal textjustering för annotation"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.forms/textboxfield/textverticalalignment/
 ---
-## TextBoxField.TextVerticalAlignment-egenskap
+## TextBoxField.TextVerticalAlignment property
 
-Hämtar eller ställer in textens vertikala justering för annotation.
+Hämtar eller anger vertikal textjustering för annotation.
 
 ```csharp
 public VerticalAlignment TextVerticalAlignment { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

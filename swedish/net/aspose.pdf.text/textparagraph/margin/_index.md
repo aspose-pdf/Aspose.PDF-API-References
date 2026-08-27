@@ -1,22 +1,24 @@
 ---
-title: TextParagraph.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph-egenskap. Hämtar eller ställer in padding
+title: "TextParagraph.Margin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextParagraph-egenskap. Hämtar eller anger utfyllnaden"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/textparagraph/margin/
 ---
-## TextParagraph.Margin-egenskap
+## TextParagraph.Margin property
 
-Hämtar eller ställer in padding.
+Hämtar eller anger utfyllnaden.
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../../../aspose.pdf/margininfo/)
-* klass [TextParagraph](../)
-* namnrum [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

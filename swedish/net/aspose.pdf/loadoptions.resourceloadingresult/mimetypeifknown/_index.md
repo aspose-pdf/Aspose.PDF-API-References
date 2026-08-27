@@ -1,21 +1,23 @@
 ---
-title: LoadOptions.ResourceLoadingResult.MIMETypeIfKnown
-second_title: Aspose.PDF for .NET API Reference
-description: ResourceLoadingResult-fält. Ibland är kunskap om MIME-typ för den inlästa resursen användbar för konverteraren. Du kan ange MIME-typ i denna parameter. Vänligen lämna parametern lika med null när MIME-typ är okänd eller det inte är nödvändigt att ange den.
+title: "LoadOptions.ResourceLoadingResult.MIMETypeIfKnown"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ResourceLoadingResult-fältet. Ibland är kunskap om MIME‑typen för den inlästa resursen användbar för konverteraren. Du kan ange MIME‑typen i denna parameter om den är känd efter inläsning. Lämna parametern som null när MIME‑typen är okänd eller inte behövs."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/loadoptions.resourceloadingresult/mimetypeifknown/
 ---
-## LoadOptions.ResourceLoadingResult.MIMETypeIfKnown-fält
+## LoadOptions.ResourceLoadingResult.MIMETypeIfKnown field
 
-Ibland är kunskap om MIME-typ för den inlästa resursen användbar för konverteraren. Du kan ange MIME-typ (om den är känd efter inläsning) i denna parameter. Vänligen lämna parametern lika med null när MIME-typ är okänd eller det inte är nödvändigt att ange den.
+Ibland är kunskap om MIME‑typen för den inlästa resursen användbar för konverteraren. Du kan ange MIME‑typen (om den är känd efter inläsning) i denna parameter. Lämna parametern som null när MIME‑typen är okänd eller inte behöver anges.
 
 ```csharp
 public string MIMETypeIfKnown;
 ```
 
-### Se Även
+### Se även
 
-* klass [ResourceLoadingResult](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

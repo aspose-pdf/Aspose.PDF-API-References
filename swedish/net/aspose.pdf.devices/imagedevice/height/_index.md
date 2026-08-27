@@ -1,21 +1,23 @@
 ---
-title: ImageDevice.Height
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice-egenskap. Hämtar bildutgångshöjd
+title: "ImageDevice.Height"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageDevice-egenskap. Hämtar bildens utmatningshöjd."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.devices/imagedevice/height/
 ---
-## ImageDevice.Height-egenskap
+## ImageDevice.Height property
 
-Hämtar bildutgångshöjd.
+Hämtar bildens utdatahöjd.
 
 ```csharp
 public int Height { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: MarkupAnnotation.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation-egenskap. Hämtar eller ställer in det konstanta opacitetsvärdet som ska användas vid målning av annoteringen
+title: "MarkupAnnotation.Opacity"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkupAnnotation-egenskap. Hämtar eller anger det konstanta opacitetsvärdet som ska användas vid målning av anteckningen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/markupannotation/opacity/
 ---
-## MarkupAnnotation.Opacity-egenskap
+## MarkupAnnotation.Opacity property
 
-Hämtar eller ställer in det konstanta opacitetsvärdet som ska användas vid målning av annoteringen.
+Hämtar eller anger det konstanta opacitetsvärdet som ska användas vid målning av annoteringen.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarkupAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

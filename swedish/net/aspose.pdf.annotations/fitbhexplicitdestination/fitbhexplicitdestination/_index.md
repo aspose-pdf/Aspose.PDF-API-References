@@ -1,7 +1,7 @@
 ---
-title: FitBHExplicitDestination.FitBHExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: FitBHExplicitDestination-konstruktör. Skapar lokal explicit destination
+title: "FitBHExplicitDestination.FitBHExplicitDestination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FitBHExplicitDestination konstruktör. Skapar en lokal explicit destination"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/fitbhexplicitdestination/fitbhexplicitdestination/
@@ -16,15 +16,15 @@ public FitBHExplicitDestination(Page page, double top)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Objektet för destinationssidan. |
-| top | Double | Den vertikala koordinaten top placerad vid övre kanten av fönstret. |
+| sida | Page | Destinationens sidobjekt. |
+| övre | Double | Den vertikala koordinaten top placerad vid fönstrets övre kant. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [FitBHExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitBHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,11 +38,13 @@ public FitBHExplicitDestination(int pageNumber, double top)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageNumber | Int32 | Destinationssidnumret för det fjärrdokumentet. |
-| top | Double | Den vertikala koordinaten top placerad vid övre kanten av fönstret. |
+| pageNumber | Int32 | Destinationens sidnummer för fjärrdokumentet. |
+| övre | Double | Den vertikala koordinaten top placerad vid fönstrets övre kant. |
 
-### Se Även
+### Se även
 
-* klass [FitBHExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FitBHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

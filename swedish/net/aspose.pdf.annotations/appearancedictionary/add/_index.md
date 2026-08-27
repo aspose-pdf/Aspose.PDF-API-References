@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Add
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary metod. Lägg till X-form för angiven nyckel
+title: "AppearanceDictionary.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AppearanceDictionary-metod. Lägg till X-form för angiven nyckel"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.annotations/appearancedictionary/add/
 ---
 ## Add(string, XForm) {#add_2}
 
-Lägg till X-form för angiven nyckel.
+Lägg till X‑form för angiven nyckel.
 
 ```csharp
 public void Add(string key, XForm value)
@@ -16,21 +16,21 @@ public void Add(string key, XForm value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Elementnyckel. |
-| value | XForm | XForm-objektvärde. |
+| nyckel | String | Elementnyckel. |
+| värde | XForm | XForm-objektvärde. |
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(KeyValuePair&lt;string, XForm&gt;) {#add}
 
-Lägger till par med nyckel och värde i ordboken.
+Lägger till ett par med nyckel och värde i ordboken.
 
 ```csharp
 public void Add(KeyValuePair<string, XForm> item)
@@ -38,11 +38,13 @@ public void Add(KeyValuePair<string, XForm> item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Objekt som ska läggas till. |
+| item | KeyValuePair`2 | Objekt att läggas till. |
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

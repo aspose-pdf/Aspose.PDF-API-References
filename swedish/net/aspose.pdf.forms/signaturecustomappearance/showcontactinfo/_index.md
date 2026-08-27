@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.ShowContactInfo
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-egenskap. Hämtar/ställer in synlighet för kontaktinformation. Standardvärde true
+title: "SignatureCustomAppearance.ShowContactInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureCustomAppearance-egenskap. Hämtar/anger synlighet för kontaktinformation. Standardvärde true"
 type: docs
-weight: 160
+weight: 170
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/showcontactinfo/
 ---
-## SignatureCustomAppearance.ShowContactInfo-egenskap
+## SignatureCustomAppearance.ShowContactInfo property
 
-Hämtar/ställer in synlighet för kontaktinformation. Standardvärde: true.
+Hämtar/sätter synlighet för kontaktinformation. Standardvärde: true.
 
 ```csharp
 public bool ShowContactInfo { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureCustomAppearance](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

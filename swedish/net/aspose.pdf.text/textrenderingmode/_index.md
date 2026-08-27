@@ -1,14 +1,14 @@
 ---
-title: Enum TextRenderingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextRenderingMode enum. Textrenderingsläget Tmode avgör om visning av text ska orsaka att glyfer konturer fylls, stryks, används som en avskärmningsgräns eller någon kombination av de tre.
+title: "Enum TextRenderingMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.TextRenderingMode enum. Textrenderingsläget Tmode bestämmer om visning av text ska orsaka att glyfkonturer streckas, fyllas, används som en klippningsgräns eller någon kombination av de tre"
 type: docs
-weight: 11000
+weight: 11180
 url: /sv/net/aspose.pdf.text/textrenderingmode/
 ---
-## TextRenderingMode-uppräkning
+## TextRenderingMode enumeration
 
-Textrenderingsläget, Tmode, avgör om visning av text ska orsaka att glyfer konturer fylls, stryks, används som en avskärmningsgräns eller någon kombination av de tre.
+Textåtergivningsläget, Tmode, bestämmer om visning av text ska leda till att glyfkonturer streckas, fylls, används som en beskärningsgräns, eller någon kombination av de tre.
 
 ```csharp
 public enum TextRenderingMode
@@ -20,14 +20,16 @@ public enum TextRenderingMode
 | --- | --- | --- |
 | FillText | `0` | Fyll text. |
 | StrokeText | `1` | Stryk text. |
-| FillThenStrokeText | `2` | Fyll, stryk sedan text. |
+| FillThenStrokeText | `2` | Fyll, sedan stryk text. |
 | Invisible | `3` | Varken fyll eller stryk text (osynlig). |
-| FillTextAndAddPathToClipping | `4` | Fyll text och lägg till i bana för avskärmning (se 9.3.6, "Text Rendering Mode,"). |
-| StrokeTextAndAddPathToClipping | `5` | Stryk text och lägg till i bana för avskärmning. |
-| FillThenStrokeTextAndAddPathToClipping | `6` | Fyll, stryk sedan text och lägg till i bana för avskärmning. |
-| AddPathToClipping | `7` | Lägg till text i bana för avskärmning. |
+| FillTextAndAddPathToClipping | `4` | Fyll text och lägg till i sökväg för beskärning (se 9.3.6, "Text Rendering Mode,"). |
+| StrokeTextAndAddPathToClipping | `5` | Stryk text och lägg till i sökväg för beskärning. |
+| FillThenStrokeTextAndAddPathToClipping | `6` | Fyll, sedan stryk text och lägg till i sökväg för beskärning. |
+| AddPathToClipping | `7` | Lägg till text i sökväg för beskärning. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

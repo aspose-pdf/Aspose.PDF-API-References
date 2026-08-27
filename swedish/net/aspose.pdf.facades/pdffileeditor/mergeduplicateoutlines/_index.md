@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.MergeDuplicateOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-egenskap. Om sant slås duplicerade konturer samman
+title: "PdfFileEditor.MergeDuplicateOutlines"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor-egenskapen. Om sant slås dubbla konturer ihop."
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.facades/pdffileeditor/mergeduplicateoutlines/
 ---
-## PdfFileEditor.MergeDuplicateOutlines-egenskap
+## PdfFileEditor.MergeDuplicateOutlines property
 
-Om sant slås duplicerade konturer samman.
+Om true slås dubblettkonturer ihop.
 
 ```csharp
 public bool MergeDuplicateOutlines { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.GetValuesXml
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema-metod. Hämtar värdena för egenskaper som xml-trädrepresentation
+title: "XmpPdfAExtensionSchema.GetValuesXml"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionSchema metod. Hämtar egenskapsvärdena som xml-trädsrepresentation"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/xmppdfaextensionschema/getvaluesxml/
 ---
-## XmpPdfAExtensionSchema.GetValuesXml metod
+## XmpPdfAExtensionSchema.GetValuesXml method
 
-Hämtar värdena för egenskaper som xml-trädrepresentation.
+Hämtar värdena för egenskaper som xml‑trädsrepresentation.
 
 ```csharp
 public void GetValuesXml(XmlDocument xmlDocument, XmlElement rootElement)
@@ -16,11 +16,13 @@ public void GetValuesXml(XmlDocument xmlDocument, XmlElement rootElement)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | Den källxml-dokumentet. |
-| rootElement | XmlElement | Rotnoden för egenskapsvärdenas lista. |
+| xmlDocument | XmlDocument | Källdokumentet i xml. |
+| rootElement | XmlElement | Rotnoden för listan med egenskapsvärden. |
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

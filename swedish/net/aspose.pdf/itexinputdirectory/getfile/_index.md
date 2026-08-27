@@ -1,14 +1,14 @@
 ---
-title: ITeXInputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: ITeXInputDirectory-metod. Returnerar strömmen att läsa från eller skriva till
+title: "ITeXInputDirectory.GetFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITeXInputDirectory method. Returnerar strömmen för läsning eller skrivning"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/itexinputdirectory/getfile/
 ---
-## ITeXInputDirectory.GetFile metod
+## ITeXInputDirectory.GetFile method
 
-Returnerar strömmen att läsa från eller skriva till.
+Returnerar strömmen för läsning eller skrivning.
 
 ```csharp
 public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
@@ -16,16 +16,18 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | Sträng | Filnamnet. |
-| fullName | Sträng& | Det fullständiga filnamnet. |
-| searchSubdirectories | Boolean | Anger om man ska leta efter en fil i undermappar. |
+| `fileName` | String | Filnamnet. |
+| fullName | String& | Det fullständiga filnamnet. |
+| searchSubdirectories | Boolean | Anger om en fil ska sökas i underkataloger. |
 
 ### Returvärde
 
 Strömmen.
 
-### Se Även
+### Se även
 
 * interface [ITeXInputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

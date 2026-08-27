@@ -1,21 +1,23 @@
 ---
-title: CheckboxField.ExportValue
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField-egenskap. Hämtar eller ställer in exportvärdet för CheckBox-fältet
+title: "CheckboxField.ExportValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CheckboxField-egenskap. Hämtar eller anger exportvärde för CheckBox-fältet."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/checkboxfield/exportvalue/
 ---
-## CheckboxField.ExportValue-egenskap
+## CheckboxField.ExportValue property
 
-Hämtar eller ställer in exportvärdet för CheckBox-fältet.
+Hämtar eller anger exportvärde för CheckBox-fältet.
 
 ```csharp
 public string ExportValue { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CheckboxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

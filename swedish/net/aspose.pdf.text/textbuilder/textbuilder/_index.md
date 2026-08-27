@@ -1,14 +1,14 @@
 ---
-title: TextBuilder.TextBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: TextBuilder-konstruktör. Initierar en ny instans av TextBuilder-klassen för Pdf-sidan
+title: "TextBuilder.TextBuilder"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextBuilder-konstruktor. Initierar en ny instans av TextBuilder-klassen för Pdf-sidan."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/textbuilder/textbuilder/
 ---
 ## TextBuilder(Page) {#constructor}
 
-Initierar en ny instans av [`TextBuilder`](../) klassen för Pdf-sidan.
+Initierar en ny instans av [`TextBuilder`](../) klass för Pdf-sidan.
 
 ```csharp
 public TextBuilder(Page page)
@@ -16,24 +16,24 @@ public TextBuilder(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sida objekt. |
+| sida | Page | Page-objekt. |
 
-## Kommentarer
+## Anmärkningar
 
 TextBuilder tillåter att lägga till textobjekt till Pdf-sidor.
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [TextBuilder](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextBuilder(Page, BaseOperatorCollection) {#constructor_1}
 
-Initierar en ny instans av [`TextBuilder`](../) klassen för Pdf-sidan.
+Initierar en ny instans av [`TextBuilder`](../) klass för Pdf-sidan.
 
 ```csharp
 public TextBuilder(Page page, BaseOperatorCollection operatorCollection)
@@ -41,17 +41,19 @@ public TextBuilder(Page page, BaseOperatorCollection operatorCollection)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sida objekt. |
-| operatorCollection | BaseOperatorCollection | Operatörssamling. |
+| sida | Page | Page-objekt. |
+| operatorCollection | BaseOperatorCollection | Operator-samling. |
 
-## Kommentarer
+## Anmärkningar
 
 TextBuilder tillåter att lägga till textobjekt till Pdf-sidor.
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
-* klass [TextBuilder](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

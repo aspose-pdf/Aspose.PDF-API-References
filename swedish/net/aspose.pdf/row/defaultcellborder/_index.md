@@ -1,22 +1,24 @@
 ---
-title: Row.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Rad egenskap. Hämtar standard cellgräns
+title: "Row.DefaultCellBorder"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-egenskap. Hämtar standardcellens kant"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/row/defaultcellborder/
 ---
-## Row.DefaultCellBorder egenskap
+## Row.DefaultCellBorder property
 
-Hämtar standard cellgräns;
+Hämtar standardcellram;
 
 ```csharp
 public BorderInfo DefaultCellBorder { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderInfo](../../borderinfo/)
-* klass [Row](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderInfo](../../borderinfo/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

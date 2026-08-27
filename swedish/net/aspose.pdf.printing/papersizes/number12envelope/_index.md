@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Number12Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes fält. 12 kuvert 4.75 tum. med 11 tum
+title: "PaperSizes.Number12Envelope"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. 12-kuvert 4,75 tum × 11 tum"
 type: docs
 weight: 760
 url: /sv/net/aspose.pdf.printing/papersizes/number12envelope/
 ---
-## PaperSizes.Number12Envelope fält
+## PaperSizes.Number12Envelope field
 
-#12 kuvert (4.75 tum. med 11 tum.).
+#12 kuvert (4,75 tum x 11 tum).
 
 ```csharp
 public static readonly PaperSize Number12Envelope;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

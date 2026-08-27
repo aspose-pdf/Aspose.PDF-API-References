@@ -1,21 +1,23 @@
 ---
-title: PdfFormatConversionOptions.IsTransferInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions-egenskap. Hämtar eller ställer in om data ska överföras från Info till Metadata när det konverteras till PDF 2.0. Sant som standard
+title: "PdfFormatConversionOptions.IsTransferInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFormatConversionOptions-egenskap. Hämtar eller anger om data ska överföras från Info till Metadata vid konvertering till PDF 2.0. True som standard"
 type: docs
-weight: 120
+weight: 130
 url: /sv/net/aspose.pdf/pdfformatconversionoptions/istransferinfo/
 ---
-## PdfFormatConversionOptions.IsTransferInfo-egenskap
+## PdfFormatConversionOptions.IsTransferInfo property
 
-Hämtar eller ställer in om data ska överföras från Info till Metadata när det konverteras till PDF 2.0. Sant som standard.
+Hämtar eller anger om data ska överföras från Info till Metadata vid konvertering till PDF 2.0. True som standard.
 
 ```csharp
 public bool IsTransferInfo { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFormatConversionOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

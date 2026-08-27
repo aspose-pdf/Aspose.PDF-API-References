@@ -1,21 +1,23 @@
 ---
-title: FormCheckBoxFieldCreateOptions.Checked
-second_title: Aspose.PDF for .NET API Reference
-description: FormCheckBoxFieldCreateOptions egenskap. Hämtar/anger värdet för att avgöra om den skapade CheckboxField är markerad eller inte. om den kommer att ställas in.
+title: "FormCheckBoxFieldCreateOptions.Checked"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormCheckBoxFieldCreateOptions‑egenskap. Hämtar/sätter värdet för att avgöra om den skapade CheckboxField är markerad eller inte om den kommer att sättas"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/formcheckboxfieldcreateoptions/checked/
 ---
-## FormCheckBoxFieldCreateOptions.Checked egenskap
+## FormCheckBoxFieldCreateOptions.Checked property
 
-Hämtar/anger värdet för att avgöra om den skapade CheckboxField är markerad eller inte (om den kommer att ställas in).
+Hämtar/sätter värdet för att avgöra om den skapade CheckboxField är markerad eller inte (om den kommer att sättas).
 
 ```csharp
 public bool? Checked { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormCheckBoxFieldCreateOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [FormCheckBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

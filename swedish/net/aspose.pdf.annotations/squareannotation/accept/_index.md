@@ -1,14 +1,14 @@
 ---
-title: SquareAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SquareAnnotation-metod. Accepterar besökare för att bearbeta annotation
+title: "SquareAnnotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SquareAnnotation metod. Accepterar besökare för att bearbeta annoteringen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/squareannotation/accept/
 ---
-## SquareAnnotation.Accept metod
+## SquareAnnotation.Accept method
 
-Accepterar besökare för att bearbeta annotation.
+Accepterar besökare för att bearbeta annotationen.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Besökarobjekt. |
+| besökare | AnnotationSelector | Besökarobjekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [SquareAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AnnotationSelector](../../annotationselector/)
+* class [SquareAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

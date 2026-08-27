@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.UnitLabel
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat-egenskap. En textsträng som specificerar en etikett för att visa enheterna
+title: "Measure.NumberFormat.UnitLabel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NumberFormat-egenskap. En textsträng som specificerar en etikett för att visa enheterna"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.annotations/measure.numberformat/unitlabel/
 ---
-## Measure.NumberFormat.UnitLabel-egenskap
+## Measure.NumberFormat.UnitLabel property
 
 En textsträng som specificerar en etikett för att visa enheterna.
 
@@ -14,8 +14,10 @@ En textsträng som specificerar en etikett för att visa enheterna.
 public string UnitLabel { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [NumberFormat](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Document.IsPdfUaCompliant
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar om dokumentet är pdfua-kompatibelt
+title: "Document.IsPdfUaCompliant"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar om dokumentet är pdfua-kompatibelt"
 type: docs
-weight: 320
+weight: 340
 url: /sv/net/aspose.pdf/document/ispdfuacompliant/
 ---
-## Document.IsPdfUaCompliant-egenskap
+## Document.IsPdfUaCompliant property
 
-Hämtar om dokumentet är pdfua-kompatibelt.
+Hämtar om dokumentet är PDF/UA-kompatibelt.
 
 ```csharp
 public bool IsPdfUaCompliant { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

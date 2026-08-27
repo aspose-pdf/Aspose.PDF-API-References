@@ -1,21 +1,23 @@
 ---
-title: ImageStamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp-egenskap. Hämtar eller ställer in bildens bredd. Att ställa in denna egenskap tillåter att skala bilden horisontellt
+title: "ImageStamp.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageStamp egenskap. Hämtar eller anger bildens bredd. Att ange denna egenskap möjliggör horisontell skalning av bilden"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/imagestamp/width/
 ---
-## ImageStamp.Width-egenskap
+## ImageStamp.Width property
 
-Hämtar eller ställer in bildens bredd. Att ställa in denna egenskap tillåter att skala bilden horisontellt.
+Hämtar eller anger bildbredd. Att ställa in denna egenskap möjliggör horisontell skalning av bilden.
 
 ```csharp
 public override double Width { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

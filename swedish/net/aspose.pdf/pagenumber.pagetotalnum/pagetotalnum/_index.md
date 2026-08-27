@@ -1,12 +1,12 @@
 ---
-title: PageNumber.PageTotalNum.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: PageTotalNum-konstruktorn. Standardkonstruktorn
+title: "PageNumber.PageTotalNum.PageTotalNum"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageTotalNum-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pagenumber.pagetotalnum/pagetotalnum/
 ---
-## PageNumber.PageTotalNum-konstruktorn
+## PageNumber.PageTotalNum constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PageTotalNum()
 ```
 
-### Se Även
+### Se även
 
-* klass [PageTotalNum](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageTotalNum](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

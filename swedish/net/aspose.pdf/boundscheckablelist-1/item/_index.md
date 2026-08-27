@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.Item
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList-egenskap. Hämtar eller ställer in stycke från eller till samling
+title: "BoundsCheckableList1.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BoundsCheckableList-egenskap. Hämtar eller anger stycke från eller till samlingen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/boundscheckablelist-1/item/
 ---
 ## BoundsCheckableList&lt;T&gt; indexer
 
-Hämtar eller ställer in stycke från eller till samling.
+Hämtar eller anger stycke från eller till samlingen.
 
 ```csharp
 public T this[int index] { get; set; }
@@ -16,10 +16,12 @@ public T this[int index] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Styckeindex. |
+| index | Styckeindexet. |
 
-### Se Även
+### Se även
 
-* klass [BoundsCheckableList&lt;T&gt;](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

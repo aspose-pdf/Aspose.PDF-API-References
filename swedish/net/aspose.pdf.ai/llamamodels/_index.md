@@ -1,12 +1,12 @@
 ---
-title: Class LlamaModels
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.LlamaModels klass. Innehåller konstanter relaterade till olika Llama-modeller
+title: "Klass LlamaModels"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.LlamaModels klass. Innehåller konstanter relaterade till olika Llama-modeller"
 type: docs
-weight: 730
+weight: 780
 url: /sv/net/aspose.pdf.ai/llamamodels/
 ---
-## LlamaModels klass
+## LlamaModels class
 
 Innehåller konstanter relaterade till olika Llama-modeller.
 
@@ -20,7 +20,9 @@ public static class LlamaModels
 | --- | --- |
 | static [Llama13BChat](../../aspose.pdf.ai/llamamodels/llama13bchat/) { get; } | Llama 13b chattmodell. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

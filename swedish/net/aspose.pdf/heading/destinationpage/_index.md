@@ -1,22 +1,24 @@
 ---
-title: Heading.DestinationPage
-second_title: Aspose.PDF for .NET API Reference
-description: Heading-egenskap. Hämtar destinationssidan
+title: "Heading.DestinationPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Heading-egenskap. Hämtar destinationssidan."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/heading/destinationpage/
 ---
-## Heading.DestinationPage-egenskap
+## Heading.DestinationPage property
 
-Hämtar destinationssidan.
+Hämtar destination Page.
 
 ```csharp
 public Page DestinationPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [Heading](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

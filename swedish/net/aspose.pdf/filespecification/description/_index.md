@@ -1,21 +1,23 @@
 ---
-title: FileSpecification.Description
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification-egenskap. Hämtar eller ställer in text kopplad till filspecifikationen
+title: "FileSpecification.Description"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSpecification property. Hämtar eller anger text som är associerad med filspecifikationen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/filespecification/description/
 ---
-## FileSpecification.Beskrivning-egenskap
+## FileSpecification.Description property
 
-Hämtar eller ställer in text kopplad till filspecifikationen.
+Hämtar eller anger text som är associerad med filspecificeringen.
 
 ```csharp
 public string Description { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeName.RubyPosition_Before
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut RubyPosition Före  RT-innehållet ska justeras längs den främre kanten av elementet
+title: "AttributeName.RubyPosition_Before"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName field. Attribute RubyPosition Before  RT‑innehållet ska justeras längs elementets före‑kant"
 type: docs
 weight: 490
 url: /sv/net/aspose.pdf.logicalstructure/attributename/rubyposition_before/
 ---
-## AttributeName.RubyPosition_Before fält
+## AttributeName.RubyPosition_Before field
 
-Attribut RubyPosition: Före - RT-innehållet ska justeras längs den främre kanten av elementet.
+Attribut RubyPosition: Before - RT-innehållet ska justeras längs elementets före-kant.
 
 ```csharp
 public static readonly AttributeName RubyPosition_Before;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.SetMetaInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-metod. Ställer in anpassad information om PDF-dokument
+title: "PdfFileInfo.SetMetaInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo-metod. Anger anpassad information för PDF-dokumentet."
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf.facades/pdffileinfo/setmetainfo/
 ---
-## PdfFileInfo.SetMetaInfo metod
+## PdfFileInfo.SetMetaInfo method
 
-Ställer in anpassad information om PDF-dokument.
+Anger anpassad information för PDF-dokumentet.
 
 ```csharp
 public void SetMetaInfo(string name, string value)
@@ -16,11 +16,13 @@ public void SetMetaInfo(string name, string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Anpassad metaegenskap nyckel. |
-| value | Sträng | Anpassad metaegenskap värde. |
+| namn | String | Anpassad metaegenskapsnyckel. |
+| värde | String | Anpassat metaegenskapsvärde. |
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: OptimizationOptions.MaxResoultion
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions-egenskap. Anger maximal upplösning av bilder. Om bilden har högre upplösning kommer den att skalas
+title: "OptimizationOptions.MaxResoultion"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizationOptions-egenskap. Anger maximal upplösning för bilder. Om en bild har högre upplösning kommer den att skalas."
 type: docs
-weight: 90
+weight: 80
 url: /sv/net/aspose.pdf.optimization/optimizationoptions/maxresoultion/
 ---
-## OptimizationOptions.MaxResoultion-egenskap
+## OptimizationOptions.MaxResoultion property
 
-Anger maximal upplösning av bilder. Om bilden har högre upplösning kommer den att skalas
+Anger maximal upplösning för bilder. Om en bild har högre upplösning kommer den att skalas.
 
 ```csharp
 public int MaxResoultion { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OptimizationOptions](../)
-* namnrymd [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

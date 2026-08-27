@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs metod. Infoga stycke i samlingen
+title: "Paragraphs.Insert"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Paragraphs metod. Infoga stycke i samlingen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/paragraphs/insert/
 ---
-## Paragraphs.Insert metod
+## Paragraphs.Insert method
 
 Infoga stycke i samlingen.
 
@@ -16,12 +16,14 @@ public void Insert(int index, BaseParagraph paragraph)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| index | Int32 | Indexet för stycket. |
-| paragraph | BaseParagraph | Stycket. |
+| index | Int32 | Index för stycke. |
+| stycke | BaseParagraph | Stycket. |
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../../baseparagraph/)
-* klass [Paragraphs](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

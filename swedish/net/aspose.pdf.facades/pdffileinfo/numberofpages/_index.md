@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.NumberOfPages
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-egenskap. Hämtar antalet sidor i dokumentet
+title: "PdfFileInfo.NumberOfPages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo egenskap. Hämtar antalet dokumentsidor"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/pdffileinfo/numberofpages/
 ---
-## PdfFileInfo.NumberOfPages-egenskap
+## PdfFileInfo.NumberOfPages property
 
 Hämtar antalet sidor i dokumentet.
 
@@ -14,8 +14,10 @@ Hämtar antalet sidor i dokumentet.
 public int NumberOfPages { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

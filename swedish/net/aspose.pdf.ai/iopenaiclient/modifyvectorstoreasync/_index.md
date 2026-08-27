@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.ModifyVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Modifierar en befintlig vektorbutik asynkront
+title: "IOpenAIClient.ModifyVectorStoreAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Ändrar ett befintligt vektorlager asynkront"
 type: docs
 weight: 400
 url: /sv/net/aspose.pdf.ai/iopenaiclient/modifyvectorstoreasync/
 ---
-## IOpenAIClient.ModifyVectorStoreAsync metod
+## IOpenAIClient.ModifyVectorStoreAsync method
 
-Modifierar en befintlig vektorbutik asynkront.
+Modifierar ett befintligt vektorlager asynkront.
 
 ```csharp
 public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId, 
@@ -18,24 +18,26 @@ public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreId | Sträng | ID:t för den vektorbutik som ska modifieras. |
-| vectorStoreModifyRequest | VectorStoreModifyRequest | Begärningsobjektet som innehåller modifieringsdetaljer. |
+| vectorStoreId | String | ID för vektorlager som ska modifieras. |
+| vectorStoreModifyRequest | VectorStoreModifyRequest | Begäranobjektet som innehåller modifieringsdetaljer. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från modifieringen av vektorbutiken.
+En Task som representerar den asynkrona operationen. Task-resultatet innehåller svaret från vektorlager-modifieringen.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorbutikens ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när vektorlager-ID är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [VectorStoreResponse](../../vectorstoreresponse/)
-* klass [VectorStoreModifyRequest](../../vectorstoremodifyrequest/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreModifyRequest](../../vectorstoremodifyrequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

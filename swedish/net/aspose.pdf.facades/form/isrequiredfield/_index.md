@@ -1,14 +1,14 @@
 ---
-title: Form.IsRequiredField
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Bestämmer om fältet är obligatoriskt eller inte
+title: "Form.IsRequiredField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-metod. Bestämmer om fältet är obligatoriskt eller inte"
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf.facades/form/isrequiredfield/
 ---
-## Form.IsRequiredField metod
+## Form.IsRequiredField method
 
-Bestämmer om fältet är obligatoriskt eller inte.
+Avgör om fältet är obligatoriskt eller inte.
 
 ```csharp
 public bool IsRequiredField(string fieldName)
@@ -16,14 +16,16 @@ public bool IsRequiredField(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namnet på fältet. |
+| fieldName | String | Namnet på fältet. |
 
 ### Returvärde
 
-Sant - fältet är obligatoriskt; annars, falskt.
+True - fältet är obligatoriskt; annars false.
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

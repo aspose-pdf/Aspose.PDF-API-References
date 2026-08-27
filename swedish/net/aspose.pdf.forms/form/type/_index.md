@@ -1,22 +1,24 @@
 ---
-title: Form.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Formegenskap. Hämtar typ av formuläret. Möjliga värden är Standard Statisk Dynamisk
+title: "Form.Type"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form egenskap. Hämtar typ av formuläret. Möjliga värden är Standard Static Dynamic"
 type: docs
-weight: 160
+weight: 180
 url: /sv/net/aspose.pdf.forms/form/type/
 ---
-## Form.Type-egenskap
+## Form.Type property
 
-Hämtar typ av formuläret. Möjliga värden är: Standard, Statisk, Dynamisk.
+Hämtar formulärets typ. Möjliga värden är: Standard, Static, Dynamic.
 
 ```csharp
 public FormType Type { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [FormType](../../formtype/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

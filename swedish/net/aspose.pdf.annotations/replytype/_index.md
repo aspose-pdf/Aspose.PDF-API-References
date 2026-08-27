@@ -1,14 +1,14 @@
 ---
-title: Enum ReplyType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ReplyType enum. Uppräkning av typerna av relationer mellan annoteringen och en som specificeras av InReplyTo
+title: "Enum ReplyType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.ReplyType enum. Enumererar typerna av relationer för svarstypen mellan annotationen och den som specificeras av InReplyTo"
 type: docs
-weight: 2470
+weight: 2560
 url: /sv/net/aspose.pdf.annotations/replytype/
 ---
-## ReplyType-uppräkning
+## ReplyType enumeration
 
-Uppräkning av typerna av relationer ("svarstyp") mellan annoteringen och en som specificeras av InReplyTo.
+Enumererar typerna av relationer ("svarstypen") mellan annotationen och den som anges av InReplyTo.
 
 ```csharp
 public enum ReplyType
@@ -19,10 +19,12 @@ public enum ReplyType
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Undefined | `0` | Odefinierad relation. |
-| Reply | `1` | Annoteringen betraktas som ett svar på den annotering som specificeras av InReplyTo. Visningsapplikationer bör inte visa svar på en annotering individuellt utan tillsammans i form av trådade kommentarer. |
-| Group | `2` | Annoteringen är grupperad med den annotering som specificeras av InReplyTo. |
+| Reply | `1` | Annotationen anses vara ett svar på annotationen som specificeras av InReplyTo. Visningsprogram bör inte visa svar på en annotation individuellt utan tillsammans i form av trådade kommentarer. |
+| Group | `2` | Annotationen är grupperad med annotationen som specificeras av InReplyTo. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

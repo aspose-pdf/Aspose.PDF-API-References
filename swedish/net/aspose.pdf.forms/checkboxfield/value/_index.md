@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField-egenskap. Hämtar eller ställer in värdet för kryssrutan
+title: "CheckboxField.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CheckboxField-egenskap. Hämtar eller anger värdet för kryssrutan."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.forms/checkboxfield/value/
 ---
-## CheckboxField.Value-egenskap
+## CheckboxField.Value property
 
-Hämtar eller ställer in värdet för kryssrutan.
+Hämtar eller anger värde för kryssruta.
 
 ```csharp
 public override string Value { get; set; }
@@ -16,7 +16,7 @@ public override string Value { get; set; }
 
 ## Exempel
 
-Exemplet visar hur man hämtar och ställer in värdet för en flervalskryssruta.
+Exemplet visar hur man hämtar och sätter värdet för en kryssruta med flera värden.
 
 ```csharp
 using (Document doc = new Document("example.pdf"))
@@ -24,25 +24,27 @@ using (Document doc = new Document("example.pdf"))
 Form form = doc.Form;
 CheckboxField checkbox = form.Fields[0] as CheckboxField;
 
-// Allowed values may be retrieved from the AllowedStates collection
-// Set the checkbox value using Value property
+// Tillåtna värden kan hämtas från samlingen AllowedStates.
+// Ställ in kryssrutans värde med egenskapen Value.
 checkbox.Value = checkbox.AllowedStates[0];
 checkboxValue = checkbox.Value; // the previously set value, e.g. "option 1"
 
-// The value should be any element of AllowedStates
+// Värdet bör vara ett element i AllowedStates.
 checkbox.Value = "option 2";
 checkboxValue = checkbox.Value; // option 2
 
-// Uncheck boxes by either setting Value to "Off" or setting Checked to false
+// Avmarkera rutor genom att antingen sätta Value till "Off" eller sätta Checked till false.
 checkbox.Value = "Off";
-// or, alternately:
+// eller, alternativt:
 // checkbox.Checked = false;
 checkboxValue = checkbox.Value; // Off
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [CheckboxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

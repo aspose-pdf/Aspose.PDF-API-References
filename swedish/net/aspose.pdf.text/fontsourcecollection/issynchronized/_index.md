@@ -1,12 +1,12 @@
 ---
-title: FontSourceCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection-egenskap. Hämtar ett värde som indikerar om åtkomst till samlingen är synkroniserad trådsäker
+title: "FontSourceCollection.IsSynchronized"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontSourceCollection egenskap. Hämtar ett värde som indikerar om åtkomst till samlingen är trådsäker och synkroniserad"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/fontsourcecollection/issynchronized/
 ---
-## FontSourceCollection.IsSynchronized-egenskap
+## FontSourceCollection.IsSynchronized property
 
 Hämtar ett värde som indikerar om åtkomst till samlingen är synkroniserad (trådsäker).
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om åtkomst till samlingen är synkroniserad (t
 public bool IsSynchronized { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FontSourceCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

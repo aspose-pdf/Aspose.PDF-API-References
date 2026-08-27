@@ -1,12 +1,12 @@
 ---
-title: PdfToXlsOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToXlsOptions egenskap. Hämtar namnet på operationen
+title: "PdfToXlsOptions.OperationName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfToXlsOptions egenskap. Hämtar namn på operationen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.plugins/pdftoxlsoptions/operationname/
 ---
-## PdfToXlsOptions.OperationName egenskap
+## PdfToXlsOptions.OperationName property
 
 Hämtar namnet på operationen.
 
@@ -14,8 +14,10 @@ Hämtar namnet på operationen.
 public override string OperationName { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfToXlsOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [PdfToXlsOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: OutputTextStyle.StrikethroughDeleted
-second_title: Aspose.PDF for .NET API Reference
-description: OutputTextStyle-egenskap. Hämta eller ställ in textdekoration linje-genom stil för raderingsoperationen. Standardvärde är False
+title: "OutputTextStyle.StrikethroughDeleted"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutputTextStyle egenskap. Hämta eller sätt textdekoration genomstruken stil för borttagningsoperationen. Standardvärdet är False"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.comparison/outputtextstyle/strikethroughdeleted/
 ---
-## OutputTextStyle.StrikethroughDeleted-egenskap
+## OutputTextStyle.StrikethroughDeleted property
 
-Hämta eller ställ in textdekoration: linje-genom stil för raderingsoperationen. Standardvärde är `False`.
+Hämta eller ange text-decoration: line-through‑stil för delete‑operationen. Standardvärdet är `False`.
 
 ```csharp
 public bool StrikethroughDeleted { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutputTextStyle](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [OutputTextStyle](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

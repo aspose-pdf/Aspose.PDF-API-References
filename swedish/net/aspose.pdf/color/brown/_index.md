@@ -1,14 +1,14 @@
 ---
-title: Color.Brown
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FFA52A2A
+title: "Color.Brown"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde på c FFA52A2A"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/color/brown/
 ---
-## Color.Brown egenskap
+## Color.Brown property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FFA52A2A.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FFA52A2A.
 
 ```csharp
 public static Color Brown { get; }
@@ -16,10 +16,12 @@ public static Color Brown { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

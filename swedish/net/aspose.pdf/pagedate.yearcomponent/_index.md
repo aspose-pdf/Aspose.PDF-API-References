@@ -1,14 +1,14 @@
 ---
-title: Class PageDate.YearComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageDateYearComponent klass. Representerar årskomponenten av ett datum
+title: "Klass PageDate.YearComponent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PageDateYearComponent klass. Representerar årkomponenten i ett datum"
 type: docs
-weight: 8140
+weight: 8280
 url: /sv/net/aspose.pdf/pagedate.yearcomponent/
 ---
-## PageDate.YearComponent klass
+## PageDate.YearComponent class
 
-Representerar årskomponenten av ett datum.
+Representerar årskomponenten i ett datum.
 
 ```csharp
 public class YearComponent : DateComponent
@@ -24,18 +24,20 @@ public class YearComponent : DateComponent
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Hämtar eller ställer in formatet för datumkomponenten. |
+| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Hämtar eller anger formatet för datumkomponenten. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GetFormat](../../aspose.pdf/pagedate.yearcomponent/getformat#getformat)() | Hämtar formatsträngen för årskomponenten. |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Returnerar en sträng bestående av en angiven karaktär upprepad baserat på formatet. |
+| [GetFormat](../../aspose.pdf/pagedate.yearcomponent/getformat#getformat)() | Hämtar formatsträngen för årkomponenten. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Returnerar en sträng bestående av ett specificerat tecken upprepat enligt formatet. |
 
-### Se Även
+### Se även
 
-* klass [DateComponent](../datecomponent/)
-* klass [PageDate](../pagedate/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [DateComponent](../datecomponent/)
+* class [PageDate](../pagedate/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum ImageFilterType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImageFilterType enum. Uppräkning som representerar bildfiltertyp
+title: "Enum ImageFilterType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ImageFilterType-enum. Uppräkning som representerar bildfiltertyp."
 type: docs
-weight: 5890
+weight: 6020
 url: /sv/net/aspose.pdf/imagefiltertype/
 ---
-## ImageFilterType uppräkning
+## ImageFilterType enumeration
 
-Uppräkning som representerar bildfiltertyp.
+Enum som representerar bildfiltertyp.
 
 ```csharp
 public enum ImageFilterType
@@ -23,7 +23,9 @@ public enum ImageFilterType
 | Flate | `2` | Flate. |
 | CCITTFax | `3` | CCIT Fax. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

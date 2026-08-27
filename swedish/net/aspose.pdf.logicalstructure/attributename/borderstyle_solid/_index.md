@@ -1,21 +1,23 @@
 ---
-title: AttributeName.BorderStyle_Solid
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut BorderStyle Solid  Gränsen är ett enda linjesegment
+title: "AttributeName.BorderStyle_Solid"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName field. Attribute BorderStyle Solid  Kanten är ett enda linjesegment"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.logicalstructure/attributename/borderstyle_solid/
 ---
-## Attributnamn.BorderStyle_Solid fält
+## AttributeName.BorderStyle_Solid field
 
-Attribut BorderStyle: Solid - Gränsen är ett enda linjesegment.
+Attribut BorderStyle: Solid - Kantlinjen är ett enda linjesegment.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Solid;
 ```
 
-### Se Även
+### Se även
 
-* klass [Attributnamn](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

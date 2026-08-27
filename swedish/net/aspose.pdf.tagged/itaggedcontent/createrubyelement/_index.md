@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateRubyElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-metod. Skapar RubyElement
+title: "ITaggedContent.CreateRubyElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar RubyElement"
 type: docs
-weight: 250
+weight: 280
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createrubyelement/
 ---
-## ITaggedContent.CreateRubyElement metod
+## ITaggedContent.CreateRubyElement method
 
 Skapar [`RubyElement`](../../../aspose.pdf.logicalstructure/rubyelement/).
 
@@ -16,11 +16,13 @@ public RubyElement CreateRubyElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [RubyElement](../../../aspose.pdf.logicalstructure/rubyelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [RubyElement](../../../aspose.pdf.logicalstructure/rubyelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

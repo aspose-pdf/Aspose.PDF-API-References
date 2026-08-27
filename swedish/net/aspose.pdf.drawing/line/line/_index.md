@@ -1,14 +1,14 @@
 ---
-title: Line.Line
-second_title: Aspose.PDF for .NET API Reference
-description: Line-konstruktör. Initierar en ny instans av Line-klassen
+title: "Line.Line"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Line-konstruktor. Initierar en ny instans av Line-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.drawing/line/line/
 ---
-## Line-konstruktör
+## Line constructor
 
-Initierar en ny instans av [`Line`](../) klassen.
+Initierar en ny instans av [`Line`](../)-klassen.
 
 ```csharp
 public Line(float[] positionArray)
@@ -18,8 +18,10 @@ public Line(float[] positionArray)
 | --- | --- | --- |
 | positionArray | Single[] | Linjens positionsarray. |
 
-### Se Även
+### Se även
 
-* klass [Line](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Line](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

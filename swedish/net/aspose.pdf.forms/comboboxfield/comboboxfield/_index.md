@@ -1,24 +1,24 @@
 ---
-title: ComboBoxField.ComboBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: ComboBoxField-konstruktör. Konstruktör för ComboBoxField som ska användas i Generator
+title: "ComboBoxField.ComboBoxField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ComboBoxField‑konstruktor. Konstruktor för ComboBoxField som ska användas i Generator"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/comboboxfield/comboboxfield/
 ---
 ## ComboBoxField() {#constructor}
 
-Konstruktör för ComboBoxField som ska användas i Generator.
+Konstruktor för ComboBoxField som ska användas i Generator.
 
 ```csharp
 public ComboBoxField()
 ```
 
-### Se Även
+### Se även
 
-* klass [ComboBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,20 +32,20 @@ public ComboBoxField(Document doc)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Dokument | Dokument där fältet kommer att skapas. |
+| doc | Dokument | Document där fältet kommer att skapas. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [ComboBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ComboBoxField(Page, Rectangle) {#constructor_3}
 
-Konstruktör för Combobox-fält.
+Konstruktor för Combobox-fält.
 
 ```csharp
 public ComboBoxField(Page page, Rectangle rect)
@@ -53,22 +53,22 @@ public ComboBoxField(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Sida | Sida där fältet kommer att placeras. |
-| rect | Rektangel | Rektangel som definierar storlek och position för fältet på sidan. |
+| sida | Page | Sida där fältet kommer att placeras. |
+| rect | Rectangle | Rectangle som definierar storlek och position för fältet på sidan. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [ComboBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ComboBoxField(Document, Rectangle) {#constructor_2}
 
-Konstruktör för Combobox-fält.
+Konstruktor för Combobox-fält.
 
 ```csharp
 public ComboBoxField(Document doc, Rectangle rect)
@@ -76,13 +76,15 @@ public ComboBoxField(Document doc, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Dokument | Dokument där fältet ska skapas. |
-| rect | Rektangel | Rektangel som definierar storlek och position för fältet. |
+| doc | Dokument | Document där fältet ska skapas. |
+| rect | Rectangle | Rectangle som definierar storlek och position för fältet. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [ComboBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

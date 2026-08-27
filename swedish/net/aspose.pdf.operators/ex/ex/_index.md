@@ -1,21 +1,23 @@
 ---
-title: EX.EX
-second_title: Aspose.PDF for .NET API Reference
-description: EX constructor. Initializes operator
+title: "EX.EX"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EX konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/ex/ex/
 ---
-## EX-konstruktör
+## EX constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public EX()
 ```
 
-### Se Även
+### Se även
 
-* klass [EX](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [EX](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

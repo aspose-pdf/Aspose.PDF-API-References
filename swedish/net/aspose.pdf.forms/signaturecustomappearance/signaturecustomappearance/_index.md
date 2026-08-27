@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.SignatureCustomAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-konstruktorn. Standardkonstruktorn
+title: "SignatureCustomAppearance.SignatureCustomAppearance"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureCustomAppearance-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/signaturecustomappearance/
 ---
-## SignatureCustomAppearance-konstruktorn
+## SignatureCustomAppearance constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public SignatureCustomAppearance()
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureCustomAppearance](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

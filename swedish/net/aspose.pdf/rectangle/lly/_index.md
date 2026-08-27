@@ -1,12 +1,12 @@
 ---
-title: Rectangle.LLY
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-egenskap. Y-koordinat för nedre vänstra hörnet
+title: "Rectangle.LLY"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-egenskap. Y-koordinat för nedre vänstra hörnet"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/rectangle/lly/
 ---
-## Rectangle.LLY-egenskap
+## Rectangle.LLY property
 
 Y-koordinat för nedre vänstra hörnet.
 
@@ -14,8 +14,10 @@ Y-koordinat för nedre vänstra hörnet.
 public double LLY { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

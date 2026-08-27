@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchemaDescription-egenskap. Hämtar prefixet
+title: "XmpPdfAExtensionSchemaDescription.Prefix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionSchemaDescription-egenskap. Hämtar prefixet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/xmppdfaextensionschemadescription/prefix/
 ---
-## XmpPdfAExtensionSchemaDescription.Prefix-egenskap
+## XmpPdfAExtensionSchemaDescription.Prefix property
 
 Hämtar prefixet.
 
@@ -14,8 +14,10 @@ Hämtar prefixet.
 public string Prefix { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionSchemaDescription](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchemaDescription](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Document.Background
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in bakgrundsfärgen för dokumentet
+title: "Document.Background"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document egenskap. Hämtar eller sätter bakgrundsfärgen för dokumentet."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/document/background/
 ---
-## Document.Background-egenskap
+## Document.Background property
 
-Hämtar eller ställer in bakgrundsfärgen för dokumentet.
+Hämtar eller anger bakgrundsfärgen för document.
 
 ```csharp
 public Color Background { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../color/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../../color/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

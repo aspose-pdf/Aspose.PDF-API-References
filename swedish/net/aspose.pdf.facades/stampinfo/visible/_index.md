@@ -1,21 +1,23 @@
 ---
-title: StampInfo.Visible
-second_title: Aspose.PDF for .NET API Reference
-description: StampInfo-egenskap. Hämtar synlighet av stämpel. Om false, då är stämpeln gömd med HideStampById. Gömda stämplar kan återställas med ShowStampById
+title: "StampInfo.Visible"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StampInfo egenskap. Hämtar synlighet för stämpeln. Om falskt är stämpeln dold med HideStampById. Dold stämpel kan återställas med ShowStampById"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/stampinfo/visible/
 ---
-## StampInfo.Visible-egenskap
+## StampInfo.Visible property
 
-Hämtar synlighet av stämpel. Om false, då är stämpeln gömd (med HideStampById). Gömda stämplar kan återställas med ShowStampById.
+Hämtar synlighet för stämpeln. Om falskt är stämpeln dold (med HideStampById). Dold stämpel kan återställas med ShowStampById.
 
 ```csharp
 public bool Visible { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [StampInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

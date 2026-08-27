@@ -1,23 +1,25 @@
 ---
-title: StructureTypeStandard.Formula
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard fält. Formel En matematisk formel
+title: "StructureTypeStandard.Formula"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard field. Formel En matematisk formel"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/formula/
 ---
-## StructureTypeStandard.Formula fält
+## StructureTypeStandard.Formula field
 
-(Formel) En matematisk formel.
+(Formula) En matematisk formel.
 
-Denna strukturtyp är endast användbar för att identifiera ett helt innehållselement som en formel. Inga standardstrukturtyper är definierade för att identifiera individuella komponenter inom formeln. Ur ett formateringsperspektiv ska formeln behandlas på samma sätt som en figur (strukturtyp Figur).
+Denna strukturella typ är endast användbar för att identifiera ett helt innehållselement som en formel. Inga standard strukturella typer är definierade för att identifiera enskilda komponenter inom formeln. Ur ett formateringsperspektiv ska formeln behandlas på liknande sätt som en figur (strukturtyp Figure).
 
 ```csharp
 public static readonly StructureTypeStandard Formula;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

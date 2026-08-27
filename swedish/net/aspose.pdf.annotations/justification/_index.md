@@ -1,28 +1,30 @@
 ---
-title: Enum Justification
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Justification enum. Uppräkning av formerna av kvadrering som ska användas vid visning av annotationens text
+title: "Enum Justification"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.Justification‑enum. Enumererar formerna av justering som ska användas vid visning av annoteringarnas text."
 type: docs
-weight: 1940
+weight: 2030
 url: /sv/net/aspose.pdf.annotations/justification/
 ---
 ## Justification enumeration
 
-Uppräkning av formerna av kvadrering (justering) som ska användas vid visning av annotationens text.
+Enumererar formerna av justering (quadding) som ska användas vid visning av annotationens text.
 
 ```csharp
 public enum Justification
 ```
 
-### Values
+### Värden
 
-| Name | Value | Description |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Left | `0` | Vänsterjustering. |
-| Center | `1` | Centerjustering. |
+| Center | `1` | Centrering. |
 | Right | `2` | Högerjustering. |
 
-### See Also
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

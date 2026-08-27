@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.CopyOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-egenskap. Om sant kommer konturer att kopieras
+title: "PdfFileEditor.CopyOutlines"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor-egenskap. Om true kopieras konturerna."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/pdffileeditor/copyoutlines/
 ---
-## PdfFileEditor.CopyOutlines-egenskap
+## PdfFileEditor.CopyOutlines property
 
-Om sant kommer konturer att kopieras.
+Om true kopieras konturerna.
 
 ```csharp
 public bool CopyOutlines { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

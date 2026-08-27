@@ -1,21 +1,23 @@
 ---
-title: SetCharWidthBoundingBox.Wx
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidthBoundingBox-egenskap. Horisontell förskjutning av glyf
+title: "SetCharWidthBoundingBox.Wx"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCharWidthBoundingBox egenskap. Horisontell förflyttning av glyf."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.operators/setcharwidthboundingbox/wx/
 ---
-## SetCharWidthBoundingBox.Wx-egenskap
+## SetCharWidthBoundingBox.Wx property
 
-Horisontell förskjutning av glyf.
+Horisontell förskjutning av glyph.
 
 ```csharp
 public double Wx { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetCharWidthBoundingBox](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

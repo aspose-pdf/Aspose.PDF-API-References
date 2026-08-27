@@ -1,30 +1,30 @@
 ---
-title: PdfExtractor.ExtractAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor metod. Extraherar bilagor från ett Pdf-dokument
+title: "PdfExtractor.ExtractAttachment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-metod. Extraherar bilagor från ett Pdf-dokument."
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.facades/pdfextractor/extractattachment/
 ---
 ## ExtractAttachment() {#extractattachment}
 
-Extraherar bilagor från ett Pdf-dokument.
+Extraherar bilagor från ett Pdf document.
 
 ```csharp
 public void ExtractAttachment()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExtractAttachment(string) {#extractattachment_1}
 
-Extraherar bilaga till PDF-fil efter bilagans namn.
+Extrahera bilaga till PDF-fil efter bilagnamn.
 
 ```csharp
 public void ExtractAttachment(string attachmentFileName)
@@ -32,10 +32,12 @@ public void ExtractAttachment(string attachmentFileName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| attachmentFileName | String | Namn på bilagan som ska extraheras |
+| attachmentFileName | String | Namn på bilagan som ska extraheras. |
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

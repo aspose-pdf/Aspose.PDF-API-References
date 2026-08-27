@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.TrySaveTextUnderliningAndStrikeoutingInCss
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-fält. PDFen innehåller inte understrykningstecken för texter. Det emuleras med en linje som ligger under texten. Det här alternativet gör att konverteraren kan gissa att denna eller den linjen är en texts understrykning och lägga denna information i CSS istället för att rita understrykningen grafiskt
+title: "HtmlSaveOptions.TrySaveTextUnderliningAndStrikeoutingInCss"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-fält. PDF-filen i sig innehåller inga understrykningsmarkörer för text. Det efterliknas med en linje placerad under texten. Detta alternativ låter konverteraren försöka gissa att en viss linje är en texts understrykning och placera denna information i CSS istället för att rita understrykningen grafiskt."
 type: docs
 weight: 460
 url: /sv/net/aspose.pdf/htmlsaveoptions/trysavetextunderliningandstrikeoutingincss/
 ---
-## HtmlSaveOptions.TrySaveTextUnderliningAndStrikeoutingInCss-fält
+## HtmlSaveOptions.TrySaveTextUnderliningAndStrikeoutingInCss field
 
-PDF:en innehåller inte understrykningstecken för texter. Det emuleras med en linje som ligger under texten. Det här alternativet gör att konverteraren kan gissa att denna eller den linjen är en texts understrykning och lägga denna information i CSS istället för att rita understrykningen grafiskt
+PDF i sig innehåller inga understrykningsmarkörer för texter. Det efterliknas med en linje placerad under texten. Detta alternativ låter konverteraren försöka gissa att denna eller den linjen är en texts understrykning och placera denna information i CSS istället för att rita understrykningen grafiskt.
 
 ```csharp
 public bool TrySaveTextUnderliningAndStrikeoutingInCss;
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

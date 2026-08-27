@@ -1,14 +1,14 @@
 ---
-title: GoToAction.GoToAction
-second_title: Aspose.PDF for .NET API Reference
-description: GoToAction-konstruktör. Konstruktör för GoToAction-klass
+title: "GoToAction.GoToAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GoToAction‑konstruktor. Konstruktor för GoToAction‑klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/gotoaction/gotoaction/
 ---
 ## GoToAction(Page) {#constructor_3}
 
-Konstruktör för GoToAction-klass.
+Konstruktor för GoToAction‑klass.
 
 ```csharp
 public GoToAction(Page page)
@@ -16,20 +16,20 @@ public GoToAction(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Aspose.Pdf.Page destinationsobjekt att hoppa till. |
+| sida | Page | Aspose.Pdf.Page‑destinationsobjekt att hoppa till. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [GoToAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GoToAction(Page, ExplicitDestinationType, params double[]) {#constructor_4}
 
-Konstruktör för GoToAction-klass.
+Konstruktor för GoToAction‑klass.
 
 ```csharp
 public GoToAction(Page page, ExplicitDestinationType type, params double[] values)
@@ -37,23 +37,23 @@ public GoToAction(Page page, ExplicitDestinationType type, params double[] value
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Destinationssidan. |
-| type | ExplicitDestinationType | Destinationstyp. |
-| values | Double[] | Aktionsparametrar. |
+| sida | Page | Destinationssida. |
+| typ | ExplicitDestinationType | Destinationstyp. |
+| värden | Double[] | Åtgärdsparametrar. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
+* class [Page](../../../aspose.pdf/page/)
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
-* klass [GoToAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GoToAction(ExplicitDestination) {#constructor_1}
 
-Konstruktör.
+Konstruktor.
 
 ```csharp
 public GoToAction(ExplicitDestination destination)
@@ -63,18 +63,18 @@ public GoToAction(ExplicitDestination destination)
 | --- | --- | --- |
 | destination | ExplicitDestination | Explicit destination. |
 
-### Se Även
+### Se även
 
-* klass [ExplicitDestination](../../explicitdestination/)
-* klass [GoToAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [ExplicitDestination](../../explicitdestination/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GoToAction(Document, string) {#constructor_2}
 
-Åtgärd som är kopplad till namngiven destination.
+Åtgärd som är länkad till en namngiven destination.
 
 ```csharp
 public GoToAction(Document doc, string name)
@@ -82,12 +82,14 @@ public GoToAction(Document doc, string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Document | Dokument där åtgärden kommer att skapas. |
-| name | String | Namn på destinationen. |
+| doc | Dokument | Document där åtgärden kommer att skapas. |
+| namn | String | Namn på destinationen. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [GoToAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

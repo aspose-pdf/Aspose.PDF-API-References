@@ -1,14 +1,14 @@
 ---
-title: Stamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-metod. Lägger till stämpel på sidan
+title: "Stamp.Put"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp-metod. Lägger till stamp på sidan"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf/stamp/put/
 ---
-## Stamp.Put metod
+## Stamp.Put method
 
-Lägger till stämpel på sidan.
+Lägger till en stämpel på sidan.
 
 ```csharp
 public abstract void Put(Page page)
@@ -16,11 +16,13 @@ public abstract void Put(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sidan att lägga till stämpel på. |
+| sida | Page | Sidan att lägga till stamp på. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

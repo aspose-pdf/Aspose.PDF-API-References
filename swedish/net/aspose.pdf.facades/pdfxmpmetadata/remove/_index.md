@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata metod. Tar bort element med angiven nyckel
+title: "PdfXmpMetadata.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata-metoden. Tar bort element med angiven nyckel"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/remove/
@@ -16,7 +16,7 @@ public void Remove(DefaultMetadataProperties key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Nyckeln till det element som kommer att tas bort. |
+| nyckel | DefaultMetadataProperties | Nyckeln för elementet som ska tas bort. |
 
 ## Exempel
 
@@ -26,7 +26,7 @@ xmp.BindPdf("input.pdf");
 xmp.Remove(DefaultMetadataProperties.Nickname);
 ```
 
-### Se Även
+### Se även
 
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * class [PdfXmpMetadata](../)
@@ -37,7 +37,7 @@ xmp.Remove(DefaultMetadataProperties.Nickname);
 
 ## Remove(string) {#remove_1}
 
-Tar bort nyckel från ordboken.
+Tar bort nyckeln från dictionary.
 
 ```csharp
 public bool Remove(string key)
@@ -45,11 +45,11 @@ public bool Remove(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Nyckel som kommer att tas bort. |
+| nyckel | String | Nyckel som kommer att tas bort. |
 
 ### Returvärde
 
-True - om nyckeln togs bort; annars, false.
+Sant - om nyckeln togs bort; annars falskt.
 
 ## Exempel
 
@@ -59,7 +59,7 @@ xmp.BindPdf("input.pdf");
 xmp.Remove("xmp:Nickname");
 ```
 
-### Se Även
+### Se även
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -69,7 +69,7 @@ xmp.Remove("xmp:Nickname");
 
 ## Remove(KeyValuePair&lt;string, XmpValue&gt;) {#remove}
 
-Tar bort nyckel/värde-par från samlingen.
+Tar bort nyckel/värde‑par från samlingen.
 
 ```csharp
 public bool Remove(KeyValuePair<string, XmpValue> item)
@@ -81,11 +81,13 @@ public bool Remove(KeyValuePair<string, XmpValue> item)
 
 ### Returvärde
 
-true om paret hittades och togs bort.
+Sant om paret hittades och togs bort.
 
-### Se Även
+### Se även
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

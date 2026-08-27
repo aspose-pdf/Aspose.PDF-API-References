@@ -1,21 +1,23 @@
 ---
-title: Matrix.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix-egenskap. Hämtar data av Matrix som array
+title: "Matrix.Data"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix-egenskap. Hämtar data från Matrix som en array"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/matrix/data/
 ---
-## Matrix.Data-egenskap
+## Matrix.Data property
 
-Hämtar data av Matrix som array.
+Hämtar data från Matrix som array.
 
 ```csharp
 public double[] Data { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

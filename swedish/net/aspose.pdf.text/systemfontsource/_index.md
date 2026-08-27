@@ -1,14 +1,14 @@
 ---
-title: Class SystemFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.SystemFontSource-klass. Representerar alla typsnitt som är installerade på systemet
+title: "Klass SystemFontSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.SystemFontSource klass. Representerar alla teckensnitt som är installerade på systemet"
 type: docs
-weight: 10730
+weight: 10910
 url: /sv/net/aspose.pdf.text/systemfontsource/
 ---
-## SystemFontSource klass
+## SystemFontSource class
 
-Representerar alla typsnitt installerade på systemet.
+Representerar alla teckensnitt som är installerade i systemet.
 
 ```csharp
 public sealed class SystemFontSource : FontSource
@@ -24,10 +24,12 @@ public sealed class SystemFontSource : FontSource
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/systemfontsource/equals/)(object) | Kontrollera om systemtypsnittskällor är lika. |
+| override [Equals](../../aspose.pdf.text/systemfontsource/equals/)(object) | Kontrollera om systemteckensnittskällobjekt är lika. |
 
-### Se Även
+### Se även
 
-* klass [FontSource](../fontsource/)
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../)
+* class [FontSource](../fontsource/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

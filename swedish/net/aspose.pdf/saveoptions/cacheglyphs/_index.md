@@ -1,21 +1,23 @@
 ---
-title: SaveOptions.CacheGlyphs
-second_title: Aspose.PDF for .NET API Reference
-description: SaveOptions-egenskap. Hämtar eller ställer in ett booleskt värde som indikerar om teckensnittsglypher kommer att cachas medan aps-sidor förbereds. Förbättrar prestanda vid konvertering av pdf till andra format men ökar minnesanvändningen.
+title: "SaveOptions.CacheGlyphs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SaveOptions egenskap. Hämtar eller anger ett booleskt värde som indikerar om teckenglyfer ska cachas medan APS-sidor förbereds. Förbättrar prestanda vid konvertering av PDF till andra format men ökar minnesanvändningen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/saveoptions/cacheglyphs/
 ---
-## SaveOptions.CacheGlyphs-egenskap
+## SaveOptions.CacheGlyphs property
 
-Hämtar eller ställer in ett booleskt värde som indikerar om teckensnittsglypher kommer att cachas medan aps-sidor förbereds. Förbättrar prestanda vid konvertering av pdf till andra format men ökar minnesanvändningen.
+Hämtar eller anger ett booleskt värde som indikerar om teckenglyfer ska cachas medan APS‑sidor förbereds. Förbättrar prestanda för konvertering av PDF till andra format men ökar minnesanvändningen.
 
 ```csharp
 public bool CacheGlyphs { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [SaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

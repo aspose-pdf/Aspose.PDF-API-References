@@ -1,21 +1,23 @@
 ---
-title: Annotation.EndIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-egenskap. Hämtar eller ställer in slutindexet för texten i meddelandets innehåll som behöver ersättas
+title: "Annotation.EndIndex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation-egenskap. Hämtar eller anger det avslutande indexet för texten i meddelandeinnehållet som ska ersättas"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/annotation/endindex/
 ---
-## Annotation.EndIndex-egenskap
+## Annotation.EndIndex property
 
-Hämtar eller ställer in slutindexet för texten i meddelandets innehåll som behöver ersättas.
+Hämtar eller anger slutindexet för texten i meddelandeinnehållet som ska ersättas.
 
 ```csharp
 public int EndIndex { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

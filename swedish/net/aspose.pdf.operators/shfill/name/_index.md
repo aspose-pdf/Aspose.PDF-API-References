@@ -1,21 +1,23 @@
 ---
-title: ShFill.Name
-second_title: Aspose.PDF for .NET API Reference
-description: ShFill-egenskap. Hämtar eller ställer in skuggningens namn
+title: "ShFill.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ShFill-egenskap. Hämtar eller anger skuggningsnamnet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/shfill/name/
 ---
-## ShFill.Name-egenskap
+## ShFill.Name property
 
-Hämtar eller ställer in skuggningens namn.
+Hämtar eller anger skuggningsnamnet.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ShFill](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [ShFill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

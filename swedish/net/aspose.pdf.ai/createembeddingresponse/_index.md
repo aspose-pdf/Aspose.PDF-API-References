@@ -1,14 +1,14 @@
 ---
-title: Class CreateEmbeddingResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CreateEmbeddingResponse klass. Representerar ett svar från Create Embeddings slutpunkt
+title: "Klass CreateEmbeddingResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.CreateEmbeddingResponse klass. Representerar ett svar från Create Embeddings‑slutpunkten"
 type: docs
-weight: 270
+weight: 280
 url: /sv/net/aspose.pdf.ai/createembeddingresponse/
 ---
-## CreateEmbeddingResponse klass
+## CreateEmbeddingResponse class
 
-Representerar ett svar från Create Embeddings slutpunkt.
+Representerar ett svar från slutpunkten Create Embeddings.
 
 ```csharp
 public class CreateEmbeddingResponse
@@ -24,12 +24,14 @@ public class CreateEmbeddingResponse
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Data](../../aspose.pdf.ai/createembeddingresponse/data/) { get; set; } | Hämtar eller ställer in en lista med inbäddningsobjekt. |
-| [Model](../../aspose.pdf.ai/createembeddingresponse/model/) { get; set; } | Hämtar eller ställer in modellen som används för inbäddningen. |
-| [Object](../../aspose.pdf.ai/createembeddingresponse/object/) { get; set; } | Hämtar eller ställer in objekttypen, som alltid är lista. |
-| [Usage](../../aspose.pdf.ai/createembeddingresponse/usage/) { get; set; } | Hämtar eller ställer in användningsstatistik för inbäddningsförfrågan. |
+| [Data](../../aspose.pdf.ai/createembeddingresponse/data/) { get; set; } | Hämtar eller anger en lista över inbäddningsobjekt. |
+| [Model](../../aspose.pdf.ai/createembeddingresponse/model/) { get; set; } | Hämtar eller anger modellen som används för inbäddningen. |
+| [Object](../../aspose.pdf.ai/createembeddingresponse/object/) { get; set; } | Hämtar eller anger objekttypen, som alltid är list. |
+| [Usage](../../aspose.pdf.ai/createembeddingresponse/usage/) { get; set; } | Hämtar eller anger användningsstatistiken för inbäddningsförfrågan. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

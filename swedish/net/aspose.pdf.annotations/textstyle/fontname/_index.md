@@ -1,21 +1,23 @@
 ---
-title: TextStyle.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle-egenskap. Namn på typsnittet
+title: "TextStyle.FontName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStyle egenskap. Namnet på typsnittet."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/textstyle/fontname/
 ---
-## TextStyle.FontName-egenskap
+## TextStyle.FontName property
 
-Namn på typsnittet.
+Namn på teckensnittet.
 
 ```csharp
 public string FontName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStyle](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

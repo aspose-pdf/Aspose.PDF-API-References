@@ -1,22 +1,24 @@
 ---
-title: PrinterSettings.DefaultPageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings-egenskap. Hämtar standard sidinställningar för denna skrivare
+title: "PrinterSettings.DefaultPageSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrinterSettings-egenskap. Hämtar standardinställningarna för sidan för den här skrivaren"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.printing/printersettings/defaultpagesettings/
 ---
-## PrinterSettings.DefaultPageSettings-egenskap
+## PrinterSettings.DefaultPageSettings property
 
-Hämtar standard sidinställningar för denna skrivare.
+Hämtar standardinställningarna för sidan för denna skrivare.
 
 ```csharp
 public PageSettings DefaultPageSettings { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSettings](../../pagesettings/)
-* klass [PrinterSettings](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PageSettings](../../pagesettings/)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

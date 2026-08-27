@@ -1,21 +1,23 @@
 ---
-title: DocumentInfo.Trapped
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-egenskap. Hämtar eller ställer in den fångade flaggan
+title: "DocumentInfo.Trapped"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo-egenskap. Hämtar eller anger den fångade flaggan"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/documentinfo/trapped/
 ---
-## DocumentInfo.Trapped-egenskap
+## DocumentInfo.Trapped property
 
-Hämtar eller ställer in den fångade flaggan.
+Hämtar eller anger den fångade flaggan.
 
 ```csharp
 public string Trapped { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

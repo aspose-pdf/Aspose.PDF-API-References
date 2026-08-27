@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.Save
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller-metod. Sparar alla pdfer
+title: "AutoFiller.Save"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AutoFiller metod. Sparar alla pdf-filer"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/autofiller/save/
 ---
 ## Save(string) {#save_2}
 
-Sparar alla pdf:er.
+Sparar alla pdf-filer.
 
 ```csharp
 public void Save(string destFile)
@@ -16,19 +16,19 @@ public void Save(string destFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| destFile | Sträng | Utdatafilens namn. |
+| destFile | String | Utdatafilnamn. |
 
-### Se Även
+### Se även
 
-* klass [AutoFiller](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream) {#save_1}
 
-Sparar alla pdf:er.
+Sparar alla pdf-filer.
 
 ```csharp
 public void Save(Stream destStream)
@@ -36,10 +36,12 @@ public void Save(Stream destStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| destStream | Ström | Utdataström. |
+| destStream | Stream | Utdataflöde. |
 
-### Se Även
+### Se även
 
-* klass [AutoFiller](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

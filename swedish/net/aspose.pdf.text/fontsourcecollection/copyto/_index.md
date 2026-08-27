@@ -1,14 +1,14 @@
 ---
-title: FontSourceCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection-metod. Kopierar hela samlingen till en kompatibel en-dimensionell Array som börjar vid det angivna indexet för målarrayen
+title: "FontSourceCollection.CopyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontSourceCollection-metod. Kopierar hela samlingen till en kompatibel endimensionell Array som startar vid det angivna indexet i målarrayen"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.text/fontsourcecollection/copyto/
 ---
-## FontSourceCollection.CopyTo metod
+## FontSourceCollection.CopyTo method
 
-Kopierar hela samlingen till en kompatibel en-dimensionell Array, som börjar vid det angivna indexet för målarrayen
+Kopierar hela samlingen till en kompatibel endimensionell array, med start vid det angivna indexet i målarrayen
 
 ```csharp
 public void CopyTo(FontSource[] array, int index)
@@ -17,11 +17,13 @@ public void CopyTo(FontSource[] array, int index)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | array | FontSource[] | Array av objekt som kommer att kopieras. |
-| index | Int32 | Startindex från vilket kopieringen kommer att påbörjas. |
+| index | Int32 | Startindex varifrån kopieringen ska påbörjas. |
 
-### Se Även
+### Se även
 
-* klass [FontSource](../../fontsource/)
-* klass [FontSourceCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

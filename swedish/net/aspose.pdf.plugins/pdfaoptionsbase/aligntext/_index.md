@@ -1,29 +1,31 @@
 ---
-title: PdfAOptionsBase.AlignText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase-egenskap. Hämtar eller ställer in ett värde som indikerar om ytterligare medel är nödvändiga för att bevara textjusteringen under PDF/A-konverteringsprocessen
+title: "PdfAOptionsBase.AlignText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAOptionsBase-egenskap. Hämtar eller anger ett värde som indikerar om ytterligare åtgärder behövs för att bevara textjustering under PDF/A-konverteringsprocessen."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/pdfaoptionsbase/aligntext/
 ---
-## PdfAOptionsBase.AlignText-egenskap
+## PdfAOptionsBase.AlignText property
 
-Hämtar eller ställer in ett värde som indikerar om ytterligare medel är nödvändiga för att bevara textjusteringen under PDF/A-konverteringsprocessen.
+Hämtar eller anger ett värde som indikerar om ytterligare medel behövs för att bevara textjustering under PDF/A-konverteringsprocessen.
 
 ```csharp
 public bool AlignText { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-`true` om textjusteringen ändras och ytterligare åtgärder är nödvändiga för att återställa den; annars, `false`.
+`true` om textjusteringen ändras och ytterligare åtgärder är nödvändiga för att återställa den; annars `false`.
 
-## Kommentarer
+## Anmärkningar
 
-När den är inställd på `true`, kommer konverteringsprocessen att försöka återställa de ursprungliga textsegmentgränserna. För de flesta dokument finns det ingen anledning att ändra denna egenskap från det förvalda värdet `false`, eftersom textjusteringen inte ändras under den förvalda konverteringsprocessen.
+När den är satt till `true` kommer konverteringsprocessen att försöka återställa de ursprungliga gränserna för textsegmenten. För de flesta dokument finns det inget behov av att ändra denna egenskap från standardvärdet `false`, eftersom textjusteringen inte förändras under standardkonverteringsprocessen.
 
-### Se Även
+### Se även
 
-* klass [PdfAOptionsBase](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

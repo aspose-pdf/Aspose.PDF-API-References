@@ -1,9 +1,9 @@
 ---
-title: Enum FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FieldSerializationStatus enum. Representerar statusen för serialisering av formulärfält
+title: "Enum FieldSerializationStatus"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.FieldSerializationStatus enum. Representerar statusen för formulärfältserialisering"
 type: docs
-weight: 4800
+weight: 4920
 url: /sv/net/aspose.pdf/fieldserializationstatus/
 ---
 ## FieldSerializationStatus enumeration
@@ -22,7 +22,9 @@ public enum FieldSerializationStatus
 | Warning | `1` | Indikerar att serialiseringen slutfördes med varningar. |
 | Error | `2` | Indikerar att serialiseringen stötte på fel. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

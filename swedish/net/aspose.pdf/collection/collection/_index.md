@@ -1,12 +1,12 @@
 ---
-title: Collection.Collection
-second_title: Aspose.PDF for .NET API Reference
-description: Collection-konstruktör. Initierar ett nytt Collection-objekt
+title: "Collection.Collection"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Collection konstruktor. Initierar ett nytt Collection-objekt"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/collection/collection/
 ---
-## Collection-konstruktör
+## Collection constructor
 
 Initierar ett nytt Collection-objekt.
 
@@ -14,8 +14,10 @@ Initierar ett nytt Collection-objekt.
 public Collection()
 ```
 
-### Se Även
+### Se även
 
-* klass [Collection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Collection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

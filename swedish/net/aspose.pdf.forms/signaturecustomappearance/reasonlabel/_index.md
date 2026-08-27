@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.ReasonLabel
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-egenskap. Hämtar/anger orsaksetikett. Standardvärde Orsak
+title: "SignatureCustomAppearance.ReasonLabel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureCustomAppearance-egenskap. Hämtar/anger etikett för anledning. Standardvärde Reason"
 type: docs
-weight: 140
+weight: 150
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/
 ---
-## SignatureCustomAppearance.ReasonLabel-egenskap
+## SignatureCustomAppearance.ReasonLabel property
 
-Hämtar/anger orsaksetikett. Standardvärde: "Orsak".
+Hämtar/sätter etikett för anledning. Standardvärde: "Reason".
 
 ```csharp
 public string ReasonLabel { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureCustomAppearance](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

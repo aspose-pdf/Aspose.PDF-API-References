@@ -1,21 +1,23 @@
 ---
-title: ExpiresAfter.Anchor
-second_title: Aspose.PDF for .NET API Reference
-description: ExpiresAfter-egenskap. Hämtar eller ställer in tidsstämpeln för ankaret efter vilket utgångspolicyn tillämpas. Stödda ankare last_active_at
+title: "ExpiresAfter.Anchor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExpiresAfter egenskap. Hämtar eller anger ankartidsstämpeln efter vilken utgångspolicyn gäller. Stödda ankare last_active_at"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/expiresafter/anchor/
 ---
-## ExpiresAfter.Anchor-egenskap
+## ExpiresAfter.Anchor property
 
-Hämtar eller ställer in tidsstämpeln för ankaret efter vilket utgångspolicyn tillämpas. Stödda ankare: last_active_at.
+Hämtar eller anger ankartidsstämpeln efter vilken utgångspolicyn gäller. Stödda ankare: last_active_at.
 
 ```csharp
 public string Anchor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ExpiresAfter](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ExpiresAfter](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

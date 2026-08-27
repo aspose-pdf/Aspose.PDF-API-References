@@ -1,20 +1,22 @@
 ---
-title: Class Device
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.Device-klass. Abstrakt klass för alla typer av enheter. Device används för att representera pdf-dokument i något format. Till exempel kan dokumentets sida representeras som bild eller text.
+title: "Klassen Device"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Devices.Device-klass. Abstrakt klass för alla typer av enheter. Device används för att representera ett pdf-dokument i något format. Till exempel kan en dokumentsida representeras som en bild eller text."
 type: docs
-weight: 3550
+weight: 3670
 url: /sv/net/aspose.pdf.devices/device/
 ---
-## Enhetsklass
+## Device class
 
-Abstrakt klass för alla typer av enheter. Enhet används för att representera pdf-dokument i något format. Till exempel kan en dokument sida representeras som bild eller text.
+Abstrakt klass för alla typer av enheter. Enheten används för att representera pdf‑dokument i något format. Till exempel kan dokumentsida representeras som bild eller text.
 
 ```csharp
 public abstract class Device
 ```
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

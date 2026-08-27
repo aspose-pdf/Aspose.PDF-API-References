@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateArtElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-metod. Skapar ArtElement
+title: "ITaggedContent.CreateArtElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent-metod. Skapar ArtElement"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createartelement/
 ---
-## ITaggedContent.CreateArtElement metod
+## ITaggedContent.CreateArtElement method
 
 Skapar [`ArtElement`](../../../aspose.pdf.logicalstructure/artelement/).
 
@@ -16,11 +16,13 @@ public ArtElement CreateArtElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

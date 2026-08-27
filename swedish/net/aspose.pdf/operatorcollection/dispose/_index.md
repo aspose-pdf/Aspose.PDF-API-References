@@ -1,21 +1,23 @@
 ---
-title: OperatorCollection.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection-metod. Utför applikationsdefinierade uppgifter kopplade till att frigöra, släppa eller återställa icke-hanterade resurser
+title: "OperatorCollection.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OperatorCollection metod. Utför applikationsdefinierade uppgifter som är relaterade till att frigöra, släppa eller återställa ohanterade resurser"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/operatorcollection/dispose/
 ---
-## OperatorCollection.Dispose metod
+## OperatorCollection.Dispose method
 
-Utför applikationsdefinierade uppgifter kopplade till att frigöra, släppa eller återställa icke-hanterade resurser.
+Utför applikationsdefinierade uppgifter som är kopplade till frigöring, släppande eller återställning av ohanterade resurser.
 
 ```csharp
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [OperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

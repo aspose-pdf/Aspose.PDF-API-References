@@ -1,12 +1,12 @@
 ---
-title: TextResponse.TextResponse
-second_title: Aspose.PDF for .NET API Reference
-description: TextResponse-konstruktorn. Standardkonstruktorn
+title: "TextResponse.TextResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextResponse konstruktor. Standardkonstruktor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/textresponse/textresponse/
 ---
-## TextResponse-konstruktorn
+## TextResponse constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public TextResponse()
 ```
 
-### Se Även
+### Se även
 
-* klass [TextResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

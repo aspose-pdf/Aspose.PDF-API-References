@@ -1,14 +1,14 @@
 ---
-title: Class TxtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TxtLoadOptions klass. Laddningsalternativ för TXT till PDF-konvertering
+title: "Klass TxtLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.TxtLoadOptions-klass. Läsalternativ för konvertering från TXT till PDF."
 type: docs
-weight: 11130
+weight: 11320
 url: /sv/net/aspose.pdf/txtloadoptions/
 ---
-## TxtLoadOptions klass
+## TxtLoadOptions class
 
-Laddningsalternativ för TXT till PDF-konvertering.
+Läsalternativ för TXT till PDF‑konvertering.
 
 ```csharp
 public class TxtLoadOptions : LoadOptions
@@ -18,38 +18,38 @@ public class TxtLoadOptions : LoadOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [TxtLoadOptions](txtloadoptions/)() | Standardkonstruktören. |
+| [TxtLoadOptions](txtloadoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller sätter en flagga för att inaktivera eventuella licensbegränsningar för alla typsnitt vid inläsning av filen. När `true`, tillåter att utföra operationer med typsnitt som är förbjudna av en licens för detta typsnitt, till exempel tillåter att bädda in ett typsnitt i ett PDF-dokument även om licensreglerna inaktiverar inbäddning för detta typsnitt. Som standard `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformatet som [`LoadOptions`](../loadoptions/) beskriver. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och laddningsoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall laddningsoperationen ska upphöra. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller anger en flagga för att inaktivera alla licensrestriktioner för alla teckensnitt vid inläsning av filen. När `true` tillåts operationer med ett teckensnitt som är förbjudet av dess licens, till exempel att bädda in ett teckensnitt i ett PDF‑dokument även om licensreglerna förbjuder inbäddning av detta teckensnitt. Standardvärdet är `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformat som [`LoadOptions`](../loadoptions/) beskriver. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återuppringning för att hantera eventuella genererade varningar. WarningHandler returnerar ReturnAction‑enum‑värdet som specificerar antingen Continue eller Abort. Continue är standardåtgärden och Load‑operationen fortsätter, men användaren kan också returnera Abort, varvid Load‑operationen ska avbrytas. |
 
 ## Exempel
 
-Följande exempel visar hur man konverterar en TXT-fil till en PDF-fil
+Följande exempel visar hur man konverterar en TXT-fil till en PDF-fil.
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Sökvägen till dokumentkatalogen.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your TXT File.
+	// Sökvägen till din TXT-fil.
 	string txtFile = Path.Combine(dataDir, "TXT-to-PDF.txt");
 
-	// The path to output PDF File.
+	// Sökvägen till utdata‑PDF‑filen.
 	string pdfFile = Path.Combine(dataDir, "TXT-to-PDF.pdf");
 
-	// Initialize TxtLoadOptions	
+	// Initiera TxtLoadOptions	
 	TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
 		
 	using (Document pdfDocument = new Document(txtFile, txtLoadOptions))
 	{
 	 
-		// Save PDF file
+		// Spara PDF‑fil
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -75,8 +75,10 @@ Följande exempel visar hur man konverterar en TXT-fil till en PDF-fil
     End Using
 ```
 
-### Se Även
+### Se även
 
-* klass [LoadOptions](../loadoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

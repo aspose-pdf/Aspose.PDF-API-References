@@ -1,14 +1,14 @@
 ---
-title: SetAdvancedColorStroke.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetAdvancedColorStroke-metoden. Accepterar besöksobjekt för att bearbeta operatör
+title: "SetAdvancedColorStroke.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetAdvancedColorStroke-metoden. Accepterar besökarobjekt för att bearbeta operatorn"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/setadvancedcolorstroke/accept/
 ---
-## SetAdvancedColorStroke.Accept metod
+## SetAdvancedColorStroke.Accept method
 
-Accepterar besöksobjekt för att bearbeta operatör.
+Accepterar besökarobjekt för att bearbeta operatorn.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Besöksobjekt. |
+| besökare | IOperatorSelector | Besökarobjekt. |
 
-### Se Även
+### Se även
 
 * interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

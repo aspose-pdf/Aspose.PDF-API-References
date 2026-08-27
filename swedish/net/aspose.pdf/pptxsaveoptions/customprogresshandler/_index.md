@@ -1,14 +1,14 @@
 ---
-title: PptxSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: PptxSaveOptions-egenskap. Denna hanterare kan användas för att hantera konverteringsprogress-händelser, t.ex. den kan användas för att visa en progressindikator eller meddelanden om nuvarande antal bearbetade sidor, exempel på hanterarens kod som visar progress i konsolen är
+title: "PptxSaveOptions.CustomProgressHandler"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PptxSaveOptions-egenskapen. Denna hanterare kan användas för att hantera konverteringsförlopps‑händelser, t.ex. för att visa en förloppsindikator eller meddelanden om det aktuella antalet bearbetade sidor. Exempel på kod för en hanterare som visar förloppet i konsolen är"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pptxsaveoptions/customprogresshandler/
 ---
-## PptxSaveOptions.CustomProgressHandler-egenskap
+## PptxSaveOptions.CustomProgressHandler property
 
-Denna hanterare kan användas för att hantera konverteringsprogress-händelser, t.ex. den kan användas för att visa en progressindikator eller meddelanden om nuvarande antal bearbetade sidor, exempel på hanterarens kod som visar progress i konsolen är :
+Denna hanterare kan användas för att hantera konverteringsförlopps‑händelser, t.ex. kan den användas för att visa en förloppsindikator eller meddelanden om det aktuella antalet bearbetade sidor. Exempel på hanterarens kod som visar förloppet i konsolen är:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler { get; set; }
@@ -48,9 +48,11 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 
 ```
 
-### Se Även
+### Se även
 
 * delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
 * class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

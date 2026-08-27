@@ -1,12 +1,12 @@
 ---
-title: EmbeddedFileCollection.FindByName
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection metod. Returnerar inbäddad fil efter dess namn
+title: "EmbeddedFileCollection.FindByName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EmbeddedFileCollection-metoden. Returnerar inbäddad fil efter dess namn"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/embeddedfilecollection/findbyname/
 ---
-## EmbeddedFileCollection.FindByName metod
+## EmbeddedFileCollection.FindByName method
 
 Returnerar inbäddad fil efter dess namn.
 
@@ -16,15 +16,17 @@ public FileSpecification FindByName(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Namnet på filen. |
+| namn | String | Filens namn. |
 
 ### Returvärde
 
-Filspecifikationsobjekt om det hittas; annars, null.
+Filspecifikationsobjekt om det hittas; annars null.
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../../filespecification/)
-* klass [EmbeddedFileCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

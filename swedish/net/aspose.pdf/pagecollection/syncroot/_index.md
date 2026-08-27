@@ -1,12 +1,12 @@
 ---
-title: PageCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection-egenskap. Hämtar synkroniseringsobjektet för samlingen
+title: "PageCollection.SyncRoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageCollection-egenskap. Hämtar synkroniseringsobjektet för samlingen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/pagecollection/syncroot/
 ---
-## PageCollection.SyncRoot-egenskap
+## PageCollection.SyncRoot property
 
 Hämtar synkroniseringsobjektet för samlingen.
 
@@ -14,8 +14,10 @@ Hämtar synkroniseringsobjektet för samlingen.
 public object SyncRoot { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

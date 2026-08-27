@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Color
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Hämtar eller ställer in färgen för titeltexten för detta punkt i innehållsförteckningen
+title: "OutlineItemCollection.Color"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection egenskap. Hämtar eller anger färgen för titeltexten för detta konturpost"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/outlineitemcollection/color/
 ---
-## OutlineItemCollection.Färg-egenskap
+## OutlineItemCollection.Color property
 
-Hämtar eller ställer in färgen för titeltexten för detta punkt i innehållsförteckningen.
+Hämtar eller anger färgen för titeltexten för detta outline-item.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

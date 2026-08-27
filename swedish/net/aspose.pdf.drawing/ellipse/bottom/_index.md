@@ -1,21 +1,23 @@
 ---
-title: Ellipse.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Ellipse-egenskap. Hämtar eller ställer in ett flyttal som indikerar den nedre positionen av ellipsen
+title: "Ellipse.Bottom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Ellipse-egenskap. Hämtar eller anger ett flyttal som indikerar bottenpositionen för ellipsen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.drawing/ellipse/bottom/
 ---
-## Ellipse.Bottom-egenskap
+## Ellipse.Bottom property
 
-Hämtar eller ställer in ett flyttal som indikerar den nedre positionen av ellipsen.
+Hämtar eller anger ett flyttal som indikerar den nedre positionen för ellipsen.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Ellipse](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Ellipse](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

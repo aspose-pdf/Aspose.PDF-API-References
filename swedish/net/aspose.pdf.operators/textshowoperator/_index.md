@@ -1,14 +1,14 @@
 ---
-title: Class TextShowOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.TextShowOperator klass. Abstrakt basklass för alla operatörer som används för att visa text Tj TJ etc
+title: "Klass TextShowOperator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.TextShowOperator klass. Abstrakt basisklass för alla operatorer som används för att visa text Tj TJ etc"
 type: docs
-weight: 7920
+weight: 8060
 url: /sv/net/aspose.pdf.operators/textshowoperator/
 ---
-## TextShowOperator klass
+## TextShowOperator class
 
-Abstrakt basklass för alla operatörer som används för att visa text (Tj, TJ, etc).
+Abstrakt basklass för alla operatorer som används för att skriva ut text (Tj, TJ, osv).
 
 ```csharp
 public class TextShowOperator : TextOperator
@@ -25,19 +25,21 @@ public class TextShowOperator : TextOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatörens index i sidans operatörslista. |
-| virtual [Text](../../aspose.pdf.operators/textshowoperator/text/) { get; set; } | Hämtar text som operatören visar på sidan. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| virtual [Text](../../aspose.pdf.operators/textshowoperator/text/) { get; set; } | Hämtar text som operatören placerar på sidan. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepterar besöksobjekt för att bearbeta operatören. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatören och dess parametrar. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [TextOperator](../textoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextOperator](../textoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

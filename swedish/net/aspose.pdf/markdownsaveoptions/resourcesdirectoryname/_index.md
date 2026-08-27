@@ -1,21 +1,23 @@
 ---
-title: MarkdownSaveOptions.ResourcesDirectoryName
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions-egenskap. Hämtar och ställer in katalognamnet för att spara dokumentresurser som bilder. Om värdet inte anges kommer bilderna att skrivas till samma katalog som markdown-filen själv. Detta är inte en sökväg, det är bara ett namn! Denna katalog kommer automatiskt att skapas i katalogen med den sparade markdown-filen.
+title: "MarkdownSaveOptions.ResourcesDirectoryName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkdownSaveOptions-egenskap. Hämtar och anger katalognamnet för att spara dokumentresurser såsom bilder. Om värdet inte anges kommer bilderna att skrivas till samma katalog som markdown-filen själv. Detta är inte en sökväg, det är bara ett namn. Denna katalog skapas automatiskt i katalogen med den sparade markdown-filen."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/markdownsaveoptions/resourcesdirectoryname/
 ---
-## MarkdownSaveOptions.ResourcesDirectoryName-egenskap
+## MarkdownSaveOptions.ResourcesDirectoryName property
 
-Hämtar och ställer in katalognamnet för att spara dokumentresurser som bilder. Om värdet inte anges kommer bilderna att skrivas till samma katalog som markdown-filen själv. Detta är inte en sökväg, det är bara ett namn! Denna katalog kommer automatiskt att skapas i katalogen med den sparade markdown-filen.
+Hämtar och anger katalognamnet för att spara Document‑resurser såsom bilder. Om värdet inte anges, kommer bilderna att skrivas till samma katalog som markdown‑filen själv. Detta är inte en sökväg, det är bara ett namn! Denna katalog kommer automatiskt att skapas i katalogen med den sparade markdown‑filen.
 
 ```csharp
 public string ResourcesDirectoryName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarkdownSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

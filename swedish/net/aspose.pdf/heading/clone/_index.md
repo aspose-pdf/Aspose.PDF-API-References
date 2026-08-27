@@ -1,12 +1,12 @@
 ---
-title: Heading.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Heading-metod. Klona rubriken
+title: "Heading.Clone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Heading-metoden. Klona rubriken"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/heading/clone/
 ---
-## Heading.Clone metod
+## Heading.Clone method
 
 Klona rubriken.
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 Det klonade objektet
 
-### Se Även
+### Se även
 
-* klass [Heading](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

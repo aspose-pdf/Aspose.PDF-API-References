@@ -1,12 +1,12 @@
 ---
-title: Enum ShapeType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.ShapeType enum. Denna enum representerar formtyp för de extraherade bilderna
+title: "Enum ShapeType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Devices.ShapeType enum. Denna enum representerar formtyp för de extraherade bilderna"
 type: docs
-weight: 3670
+weight: 3790
 url: /sv/net/aspose.pdf.devices/shapetype/
 ---
-## ShapeType-uppräkning
+## ShapeType enumeration
 
 Denna enum representerar formtyp för de extraherade bilderna.
 
@@ -18,11 +18,13 @@ public enum ShapeType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Ingen | `0` | Originalbildens form. |
-| Landskap | `1` | Landskapsform. |
-| Porträtt | `2` | Porträttform. |
+| None | `0` | Ursprunglig bildform. |
+| Landscape | `1` | Landskapsform. |
+| Portrait | `2` | Porträttform. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.AssignXfa
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Sätter XFA för formuläret till angivet värde
+title: "Form.AssignXfa"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form metod. Sätter XFA för formuläret till angivet värde"
 type: docs
-weight: 210
+weight: 230
 url: /sv/net/aspose.pdf.forms/form/assignxfa/
 ---
-## Form.AssignXfa metod
+## Form.AssignXfa method
 
-Sätter XFA för formuläret till angivet värde.
+Ställer in XFA för formuläret till det angivna värdet.
 
 ```csharp
 public void AssignXfa(XmlDocument xml)
@@ -16,10 +16,12 @@ public void AssignXfa(XmlDocument xml)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xml | XmlDocument | Xml-dokument som innehåller nya XFA-data. |
+| xml | XmlDocument | Xml-dokument som innehåller ny XFA‑data. |
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

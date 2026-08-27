@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.BlockQuote
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Blockcitat En del av text som består av ett eller flera stycken som tillskrivs någon annan än författaren av den omgivande texten
+title: "StructureTypeStandard.BlockQuote"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard field. Blockcitat En del av text som består av ett eller flera stycken som tillskrivs någon annan än författaren till den omgivande texten"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/blockquote/
 ---
-## StructureTypeStandard.BlockQuote-fält
+## StructureTypeStandard.BlockQuote field
 
-(Blockcitat) En del av text som består av ett eller flera stycken som tillskrivs någon annan än författaren av den omgivande texten.
+(Block quotation) En textdel bestående av ett eller flera stycken som tillskrivs någon annan än författaren till den omgivande texten.
 
 ```csharp
 public static readonly StructureTypeStandard BlockQuote;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

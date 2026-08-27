@@ -1,21 +1,23 @@
 ---
-title: Color.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Color-konstruktör. Standardkonstruktör
+title: "Color.Color"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-konstruktor. Standardkonstruktor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/color/color/
 ---
-## Color-konstruktör
+## Color constructor
 
-Standardkonstruktör.
+Standardkonstruktor.
 
 ```csharp
 public Color()
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

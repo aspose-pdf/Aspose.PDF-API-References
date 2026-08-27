@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.StartPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-egenskap. Hämtar eller ställer in startsidans intervall där extraktionsoperationen kommer att utföras
+title: "PdfExtractor.StartPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-egenskap. Hämtar eller anger startsida i sidintervallet där extraheringsoperationen kommer att utföras"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/pdfextractor/startpage/
 ---
-## PdfExtractor.StartPage-egenskap
+## PdfExtractor.StartPage property
 
-Hämtar eller ställer in startsidans intervall där extraktionsoperationen kommer att utföras.
+Hämtar eller anger startsidan i sidintervallet där extraheringsoperationen kommer att utföras.
 
 ```csharp
 PdfExtractor ext = new PdfExtractor();
@@ -22,8 +22,10 @@ ext.ExtractText();
 public int StartPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

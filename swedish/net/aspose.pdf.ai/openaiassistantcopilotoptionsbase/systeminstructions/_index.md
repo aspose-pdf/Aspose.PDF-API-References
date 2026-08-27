@@ -1,21 +1,23 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.SystemInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIAssistantCopilotOptionsBase egenskap. Hämtar eller ställer in filvägen för textfilen som innehåller assistentens systeminstruktioner
+title: "OpenAIAssistantCopilotOptionsBase.SystemInstructions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIAssistantCopilotOptionsBase egenskap. Hämtar eller anger filsökvägen för textfilen som innehåller assistentens systeminstruktioner"
 type: docs
-weight: 40
+weight: 30
 url: /sv/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/systeminstructions/
 ---
-## OpenAIAssistantCopilotOptionsBase.SystemInstructions egenskap
+## OpenAIAssistantCopilotOptionsBase.SystemInstructions property
 
-Hämtar eller ställer in filvägen för textfilen som innehåller assistentens systeminstruktioner.
+Hämtar eller anger filsökvägen för textfilen som innehåller assistentens systeminstruktioner.
 
 ```csharp
 public string SystemInstructions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OpenAIAssistantCopilotOptionsBase](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

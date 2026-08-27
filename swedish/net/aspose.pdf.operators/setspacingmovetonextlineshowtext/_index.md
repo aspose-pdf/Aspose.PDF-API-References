@@ -1,14 +1,14 @@
 ---
-title: Class SetSpacingMoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetSpacingMoveToNextLineShowText klass. Klass som representerar operatorn för att ställa in ord- och teckenavstånd, flytta till nästa rad och visa text
+title: "Klass SetSpacingMoveToNextLineShowText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetSpacingMoveToNextLineShowText-klass. Klass som representerar operatorn som sätter ord- och teckenavstånd, flyttar till nästa rad och visar text"
 type: docs
-weight: 7810
+weight: 7950
 url: /sv/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/
 ---
-## SetSpacingMoveToNextLineShowText klass
+## SetSpacingMoveToNextLineShowText class
 
-Klass som representerar " operator (ställer in ord- och teckenavstånd, flyttar till nästa rad och visar text).
+Klass som representerar "-operatorn (sätter ord- och teckenavstånd, flyttar till nästa rad och visar text).
 
 ```csharp
 public class SetSpacingMoveToNextLineShowText : TextShowOperator
@@ -18,27 +18,29 @@ public class SetSpacingMoveToNextLineShowText : TextShowOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SetSpacingMoveToNextLineShowText](setspacingmovetonextlineshowtext/)(double, double, string) | Initierar operator. |
+| [SetSpacingMoveToNextLineShowText](setspacingmovetonextlineshowtext/)(double, double, string) | Initierar operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Ac](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/) { get; } | Hämtar teckenavstånd. |
+| [Ac](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/) { get; } | Hämta teckenavstånd. |
 | [Aw](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/) { get; } | Hämtar ordavstånd. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| override [Text](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/text/) { get; } | Hämtar texten för operatorn. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| override [Text](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/text/) { get; } | Hämtar text för operatorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten för operatorn och dess parametrar. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [TextShowOperator](../textshowoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../)
+* class [TextShowOperator](../textshowoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

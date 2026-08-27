@@ -1,12 +1,12 @@
 ---
-title: RunStepDetails.RunStepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: RunStepDetails-konstruktorn. Standardkonstruktorn
+title: "RunStepDetails.RunStepDetails"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunStepDetails konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/runstepdetails/runstepdetails/
 ---
-## RunStepDetails-konstruktorn
+## RunStepDetails constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public RunStepDetails()
 ```
 
-### Se Även
+### Se även
 
-* klass [RunStepDetails](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RunStepDetails](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

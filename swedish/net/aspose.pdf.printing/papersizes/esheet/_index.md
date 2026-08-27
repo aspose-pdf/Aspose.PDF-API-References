@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.ESheet
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes fält. E papper 34 tum x 44 tum
+title: "PaperSizes.ESheet"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. E-papper 34 tum x 44 tum"
 type: docs
 weight: 400
 url: /sv/net/aspose.pdf.printing/papersizes/esheet/
 ---
-## PaperSizes.ESheet fält
+## PaperSizes.ESheet field
 
-E papper (34 tum x 44 tum).
+E-papper (34 in. by 44 in.).
 
 ```csharp
 public static readonly PaperSize ESheet;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

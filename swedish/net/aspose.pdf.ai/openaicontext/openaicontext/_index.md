@@ -1,12 +1,12 @@
 ---
-title: OpenAIContext.OpenAIContext
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIContext-konstruktorn. Standardkonstruktorn
+title: "OpenAIContext.OpenAIContext"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIContext-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/openaicontext/openaicontext/
 ---
-## OpenAIContext-konstruktorn
+## OpenAIContext constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public OpenAIContext()
 ```
 
-### Se Även
+### Se även
 
-* klass [OpenAIContext](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PDF3DRenderMode.ShadedWireframe
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode-fältet. Renderläget ShadedWireFrame
+title: "PDF3DRenderMode.ShadedWireframe"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DRenderMode fält. ShadedWireFrame renderingsläget"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/pdf3drendermode/shadedwireframe/
 ---
-## PDF3DRenderMode.ShadedWireframe-fält
+## PDF3DRenderMode.ShadedWireframe field
 
-Renderläget "ShadedWireFrame".
+Renderingsläget "ShadedWireFrame".
 
 ```csharp
 public static PDF3DRenderMode ShadedWireframe;
 ```
 
-### Se Även
+### Se även
 
-* klass [PDF3DRenderMode](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

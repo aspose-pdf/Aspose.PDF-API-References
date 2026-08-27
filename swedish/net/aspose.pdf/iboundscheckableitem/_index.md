@@ -1,12 +1,12 @@
 ---
-title: Interface IBoundsCheckableItem
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IBoundsCheckableItem-gränssnitt.
+title: "Interface IBoundsCheckableItem"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.IBoundsCheckableItem gränssnitt."
 type: docs
-weight: 5750
+weight: 5880
 url: /sv/net/aspose.pdf/iboundscheckableitem/
 ---
-## IBoundsCheckableItem-gränssnitt
+## IBoundsCheckableItem interface
 
 ```csharp
 public interface IBoundsCheckableItem
@@ -16,9 +16,11 @@ public interface IBoundsCheckableItem
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CheckBounds](../../aspose.pdf/iboundscheckableitem/checkbounds/)(double, double) | Kontrollerar om objektet passar inom de angivna behållardimensionerna (inklusive). |
+| [CheckBounds](../../aspose.pdf/iboundscheckableitem/checkbounds/)(double, double) | Kontrollerar om objektet får plats inom de angivna behållardimensionerna (inklusive). |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

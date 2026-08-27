@@ -1,12 +1,12 @@
 ---
-title: TextStyle.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle-egenskap. Textjustering. Giltiga värden är Vänster Center Höger
+title: "TextStyle.HorizontalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStyle egenskap. Textjustering. Giltiga värden är Vänster, Center, Höger"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/textstyle/horizontalalignment/
 ---
-## TextStyle.HorizontalAlignment-egenskap
+## TextStyle.HorizontalAlignment property
 
 Textjustering. Giltiga värden är: Vänster, Center, Höger.
 
@@ -14,9 +14,11 @@ Textjustering. Giltiga värden är: Vänster, Center, Höger.
 public HorizontalAlignment HorizontalAlignment { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
 * class [TextStyle](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

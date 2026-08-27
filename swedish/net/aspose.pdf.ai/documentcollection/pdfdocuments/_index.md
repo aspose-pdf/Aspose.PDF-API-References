@@ -1,22 +1,24 @@
 ---
-title: DocumentCollection.PdfDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentCollection-egenskap. Hämtar eller ställer in samlingen av PDF-dokument som ska behandlas
+title: "DocumentCollection.PdfDocuments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentCollection egenskap. Hämtar eller anger samlingen av PDF‑dokument som ska bearbetas."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/documentcollection/pdfdocuments/
 ---
-## DocumentCollection.PdfDocuments-egenskap
+## DocumentCollection.PdfDocuments property
 
-Hämtar eller ställer in samlingen av PDF-dokument som ska behandlas.
+Hämtar eller anger samlingen av PDF‑dokument som ska bearbetas.
 
 ```csharp
 public List<PdfDocument> PdfDocuments { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfDocument](../../pdfdocument/)
-* klass [DocumentCollection](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [DocumentCollection](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

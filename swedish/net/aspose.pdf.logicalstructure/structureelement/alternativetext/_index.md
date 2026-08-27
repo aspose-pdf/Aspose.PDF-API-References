@@ -1,25 +1,27 @@
 ---
-title: StructureElement.AlternativeText
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement-egenskap. Hämtar eller ställer in alternativtext för strukturelement
+title: "StructureElement.AlternativeText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-egenskap. Hämtar eller anger den alternativa texten för strukturelement."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/alternativetext/
 ---
-## StructureElement.AlternativeText-egenskap
+## StructureElement.AlternativeText property
 
-Hämtar eller ställer in alternativtext för strukturelement.
+Hämtar eller anger den alternativa texten för strukturelementet.
 
 ```csharp
 public string AlternativeText { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Alternativtext för strukturelementet.
+Alternativ text för strukturelementet.
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

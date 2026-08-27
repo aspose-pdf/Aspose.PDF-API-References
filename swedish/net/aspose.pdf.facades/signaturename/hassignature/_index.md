@@ -1,12 +1,12 @@
 ---
-title: SignatureName.HasSignature
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName-egenskap. Indikerar om signaturen är närvarande eller inte
+title: "SignatureName.HasSignature"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureName egenskap. Anger om signaturen är närvarande eller inte"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/signaturename/hassignature/
 ---
-## SignatureName.HasSignature-egenskap
+## SignatureName.HasSignature property
 
 Indikerar om signaturen är närvarande eller inte.
 
@@ -14,8 +14,10 @@ Indikerar om signaturen är närvarande eller inte.
 public bool HasSignature { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureName](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

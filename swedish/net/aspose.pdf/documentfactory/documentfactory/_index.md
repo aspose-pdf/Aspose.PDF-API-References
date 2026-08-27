@@ -1,21 +1,23 @@
 ---
-title: DocumentFactory.DocumentFactory
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentFactory-konstruktör. Standardkonstruktören
+title: "DocumentFactory.DocumentFactory"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentFactory konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/documentfactory/documentfactory/
 ---
-## DocumentFactory-konstruktör
+## DocumentFactory constructor
 
-Standardkonstruktören.
+Standardkonstruktorn.
 
 ```csharp
 public DocumentFactory()
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentFactory](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

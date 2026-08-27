@@ -1,21 +1,23 @@
 ---
-title: Document.IsXrefGapsAllowed
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in om dokumentet är pdfa-kompatibelt
+title: "Document.IsXrefGapsAllowed"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar eller anger om dokumentet är PDF/A-kompatibelt."
 type: docs
-weight: 330
+weight: 350
 url: /sv/net/aspose.pdf/document/isxrefgapsallowed/
 ---
-## Document.IsXrefGapsAllowed egenskap
+## Document.IsXrefGapsAllowed property
 
-Hämtar eller ställer in om dokumentet är pdfa-kompatibelt.
+Hämtar eller anger om dokumentet är PDF/A-kompatibelt.
 
 ```csharp
 public bool IsXrefGapsAllowed { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

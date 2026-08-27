@@ -1,14 +1,14 @@
 ---
-title: LineTo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: LineTo-metod. Returnerar textrepresentation av operatören
+title: "LineTo.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineTo-metod. Returnerar textrepresentation av operatorn"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.operators/lineto/tostring/
 ---
-## LineTo.ToString metod
+## LineTo.ToString method
 
-Returnerar textrepresentation av operatören.
+Returnerar textrepresentation av operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av operatören.
+Textrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [LineTo](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [LineTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ToolCall.ToolCall
-second_title: Aspose.PDF for .NET API Reference
-description: ToolCall-konstruktorn. Standardkonstruktorn
+title: "ToolCall.ToolCall"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ToolCall-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/toolcall/toolcall/
 ---
-## ToolCall-konstruktorn
+## ToolCall constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ToolCall()
 ```
 
-### Se Även
+### Se även
 
-* klass [ToolCall](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ToolCall](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

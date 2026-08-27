@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.GetCheckedStateName
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation-metod. Returnerar namnet på den markerade tillståndet enligt befintliga tillståndsnamn
+title: "WidgetAnnotation.GetCheckedStateName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WidgetAnnotation-metod. Returnerar namnet på den markerade statusen enligt befintliga statusnamn"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.annotations/widgetannotation/getcheckedstatename/
 ---
-## WidgetAnnotation.GetCheckedStateName metod
+## WidgetAnnotation.GetCheckedStateName method
 
-Returnerar namnet på "markerad" tillstånd enligt befintliga tillståndsnamn.
+Returnerar namnet på "checked"‑tillståndet enligt befintliga tillståndsnamn.
 
 ```csharp
 public string GetCheckedStateName()
@@ -16,10 +16,12 @@ public string GetCheckedStateName()
 
 ### Returvärde
 
-Namnet på "markerad" tillstånd för denna anteckning.
+Namnet på den "markerade" statusen för denna annotering.
 
-### Se Även
+### Se även
 
-* klass [WidgetAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

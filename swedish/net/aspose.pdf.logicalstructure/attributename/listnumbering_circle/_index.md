@@ -1,21 +1,23 @@
 ---
-title: AttributeName.ListNumbering_Circle
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut ListaNumrering Cirkel Öppen cirkulär punkt
+title: "AttributeName.ListNumbering_Circle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-fält. Attribut ListNumbering Circle  Öppen cirkulär punkt"
 type: docs
 weight: 250
 url: /sv/net/aspose.pdf.logicalstructure/attributename/listnumbering_circle/
 ---
-## AttributeName.ListNumbering_Circle fält
+## AttributeName.ListNumbering_Circle field
 
-Attribut ListaNumrering: Cirkel - Öppen cirkulär punkt.
+Attribut ListNumbering: Circle - Öppen cirkulär punkt.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Circle;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ChoiceField.CommitImmediately
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField-egenskap. Hämtar eller ställer in flaggan för att bekräfta vid valändring
+title: "ChoiceField.CommitImmediately"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ChoiceField-egenskap. Hämtar eller anger flaggan för omedelbar bekräftelse vid urvalsförändring"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/choicefield/commitimmediately/
 ---
-## ChoiceField.CommitImmediately-egenskap
+## ChoiceField.CommitImmediately property
 
-Hämtar eller ställer in flaggan för att bekräfta vid valändring.
+Hämtar eller anger flagga för bekräftelse vid urvalsförändring.
 
 ```csharp
 public bool CommitImmediately { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ChoiceField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

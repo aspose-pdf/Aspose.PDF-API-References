@@ -1,21 +1,23 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId
-second_title: Aspose.PDF for .NET API Reference
-description: QueueItem-egenskap. Plattformsspecifik kodningsidentifierare för kodningsunderbord
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "QueueItem‑egenskap. Plattformsspecifik kodningsidentifierare för kodningens deltabell."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid/
 ---
-## PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId-egenskap
+## PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId property
 
-Plattformsspecifik kodningsidentifierare för kodningsunderbord
+Plattformspecifik kodningsidentifierare för kodningsdeltabell
 
 ```csharp
 public ushort PlatformSpecificId { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [QueueItem](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

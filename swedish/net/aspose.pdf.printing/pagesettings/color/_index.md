@@ -1,21 +1,23 @@
 ---
-title: PageSettings.Color
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings-egenskap. Hämtar eller ställer in ett värde som indikerar om sidan skrivs ut i färg
+title: "PageSettings.Color"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageSettings egenskap. Hämtar eller anger ett värde som indikerar om sidan skrivs ut i färg."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.printing/pagesettings/color/
 ---
-## PageSettings.Color-egenskap
+## PageSettings.Color property
 
-Hämtar eller ställer in ett värde som indikerar om sidan skrivs ut i färg.
+Hämtar eller anger ett värde som visar om sidan skrivs ut i färg.
 
 ```csharp
 public bool Color { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSettings](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

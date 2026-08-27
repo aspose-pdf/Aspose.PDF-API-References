@@ -1,14 +1,14 @@
 ---
-title: ISummaryCopilot.GetSummaryDocumentAsync
-second_title: Aspose.PDF for .NET API Reference
-description: ISummaryCopilot-metod. Hämtar asynkront ett sammanfattande PDF-dokument
+title: "ISummaryCopilot.GetSummaryDocumentAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ISummaryCopilot‑metod. Hämtar asynkront ett sammanfattnings‑PDF‑dokument"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/
 ---
 ## GetSummaryDocumentAsync(CancellationToken?) {#getsummarydocumentasync_1}
 
-Hämtar asynkront ett sammanfattande PDF-dokument.
+Hämtar ett sammanfattnings-PDF-dokument asynkront.
 
 ```csharp
 public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationToken = default)
@@ -22,18 +22,18 @@ public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationTok
 
 En uppgift som representerar den asynkrona operationen med sammanfattningsdokumentet.
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* gränssnitt [ISummaryCopilot](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetSummaryDocumentAsync(PageInfo, CancellationToken?) {#getsummarydocumentasync}
 
-Hämtar asynkront ett sammanfattande PDF-dokument för den angivna sidinformationen.
+Hämtar ett sammanfattnings-PDF-dokument för den angivna sidinformationen asynkront.
 
 ```csharp
 public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo, 
@@ -49,10 +49,12 @@ public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo,
 
 En uppgift som representerar den asynkrona operationen med sammanfattningsdokumentet.
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PageInfo](../../../aspose.pdf/pageinfo/)
-* gränssnitt [ISummaryCopilot](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,30 +1,30 @@
 ---
-title: PaperSource.PaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSource-konstruktör. Initierar en ny instans av PaperSource-klassen med standardegenskaper
+title: "PaperSource.PaperSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSource-konstruktor. Skapar en ny instans av PaperSource-klassen med standardegenskaper"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.printing/papersource/papersource/
 ---
 ## PaperSource() {#constructor}
 
-Initierar en ny instans av [`PaperSource`](../) klassen med standardegenskaper.
+Skapar en ny instans av [`PaperSource`](../)-klassen med standardegenskaper.
 
 ```csharp
 public PaperSource()
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSource](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PaperSource(PaperSourceKind, string) {#constructor_1}
 
-Initierar en ny instans av [`PaperSource`](../) klassen med den angivna typen och namnet.
+Skapar en ny instans av [`PaperSource`](../)-klassen med den angivna typen och namnet.
 
 ```csharp
 public PaperSource(PaperSourceKind kind, string name)
@@ -32,12 +32,14 @@ public PaperSource(PaperSourceKind kind, string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| kind | PaperSourceKind | Typen av papperskälla. |
-| name | String | Namnet på papperskällan. |
+| kind | PaperSourceKind | Typen av papperskällan. |
+| namn | String | Namnet på papperskällan. |
 
-### Se Även
+### Se även
 
 * enum [PaperSourceKind](../../papersourcekind/)
-* klass [PaperSource](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

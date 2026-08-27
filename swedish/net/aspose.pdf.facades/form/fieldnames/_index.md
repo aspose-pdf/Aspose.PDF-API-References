@@ -1,12 +1,12 @@
 ---
-title: Form.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: Formulär egenskap. Hämtar lista över fältnamn på formuläret
+title: "Form.FieldNames"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-egenskap. Hämtar lista över fältnamn på formuläret"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/form/fieldnames/
 ---
-## Form.FieldNames egenskap
+## Form.FieldNames property
 
 Hämtar lista över fältnamn på formuläret.
 
@@ -25,8 +25,10 @@ foreach(string field in fields)
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

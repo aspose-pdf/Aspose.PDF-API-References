@@ -1,12 +1,12 @@
 ---
-title: Class PdfSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfSaveOptions klass. Spara alternativ för export till Pdf-format
+title: "Klass PdfSaveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PdfSaveOptions-klass. Sparaalternativ för export till Pdf-format"
 type: docs
-weight: 8430
+weight: 8570
 url: /sv/net/aspose.pdf/pdfsaveoptions/
 ---
-## PdfSaveOptions klass
+## PdfSaveOptions class
 
 Spara alternativ för export till Pdf-format
 
@@ -18,29 +18,29 @@ public class PdfSaveOptions : SaveOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [PdfSaveOptions](pdfsaveoptions/)() | Standardkonstruktören. |
+| [PdfSaveOptions](pdfsaveoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Hämtar eller ställer in ett booleskt värde som indikerar om teckensnittsglypher kommer att cachas medan aps-sidor förbereds. Förbättrar prestandan vid konvertering av pdf till andra format men ökar minnesanvändningen. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Hämtar eller ställer in ett booleskt värde som indikerar om Response-objektet kommer att stängas efter att dokumentet har sparats i svaret. |
-| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname/) { get; set; } | Teckensnittsnamn som används som standard för teckensnitt som saknas på datorn. När PDF-dokumentet som sparas i PDF innehåller teckensnitt som inte är tillgängliga i dokumentet självt och på enheten, ersätter API:et dessa teckensnitt med standardteckensnittet (om teckensnitt med [`DefaultFontName`](./defaultfontname/) finns på enheten) |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format för datalagring. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Hämtar eller anger ett booleskt värde som indikerar om teckenglyfer ska cachas medan APS‑sidor förbereds. Förbättrar prestanda för konvertering av PDF till andra format men ökar minnesanvändningen. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Hämtar eller anger ett booleskt värde som indikerar om Response‑objektet ska stängas efter att dokumentet har sparats i svaret. |
+| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname/) { get; set; } | Standardteckensnittets namn som används för teckensnitt som saknas på datorn. När PDF-dokumentet som sparas till PDF innehåller teckensnitt som inte är tillgängliga i själva dokumentet och på enheten, ersätter API:t dessa teckensnitt med standardteckensnittet (om ett teckensnitt med [`DefaultFontName`](./defaultfontname/) finns på enheten). |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format för datasparning. |
 | [TempPath](../../aspose.pdf/pdfsaveoptions/temppath/) { get; set; } | Sökväg för temporära filer. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och sparaoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall sparaoperationen ska upphöra. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Återuppringning för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction‑enum‑element som specificerar antingen Continue eller Abort. Continue är standardåtgärden och Save‑operationen fortsätter, men användaren kan också returnera Abort, varvid Save‑operationen ska avbrytas. |
 
 ## Exempel
 
-Följande exempel visar hur man ställer in standardteckensnittsnamn vid sparande av PDF
+Följande exempel visar hur man anger standardteckensnittets namn vid sparande av PDF.
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Sökvägen till dokumentkatalogen.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// Load an existing PDF document with missing font
+	// Läs in ett befintligt PDF-dokument med saknat teckensnitt
 	string documentName = dataDir + "input.pdf";
 	string fontName = "Arial";
 	using (System.IO.FileStream fs = new System.IO.FileStream(documentName, System.IO.FileMode.Open))
@@ -48,7 +48,7 @@ Följande exempel visar hur man ställer in standardteckensnittsnamn vid sparand
 	{
 		PdfSaveOptions pdfSaveOptions = new PdfSaveOptions();
 
-		// Specify Default Font Name
+		// Ange standardteckensnittets namn
 		pdfSaveOptions.DefaultFontName = fontName;
 		document.Save(dataDir + "output_out.pdf", pdfSaveOptions);
 	}
@@ -76,8 +76,10 @@ Följande exempel visar hur man ställer in standardteckensnittsnamn vid sparand
     End Using
 ```
 
-### Se Även
+### Se även
 
-* klass [SaveOptions](../saveoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

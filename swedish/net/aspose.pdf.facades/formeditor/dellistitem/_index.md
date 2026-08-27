@@ -1,12 +1,12 @@
 ---
-title: FormEditor.DelListItem
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-metod. Ta bort objekt från listfältet
+title: "FormEditor.DelListItem"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor metod. Ta bort ett objekt från listfältet"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf.facades/formeditor/dellistitem/
 ---
-## FormEditor.DelListItem metod
+## FormEditor.DelListItem method
 
 Ta bort objekt från listfältet.
 
@@ -16,8 +16,8 @@ public void DelListItem(string fieldName, string itemName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namnet på fältet. |
-| itemName | Sträng | Namnet på objektet som måste tas bort. |
+| fieldName | String | Fältets namn. |
+| itemName | String | Namnet på det objekt som måste tas bort. |
 
 ## Exempel
 
@@ -26,8 +26,10 @@ formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_DelLis
 formEditor.DelListItem("listboxField", "item2");
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

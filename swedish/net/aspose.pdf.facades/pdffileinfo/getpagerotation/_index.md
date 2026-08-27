@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageRotation
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-metod. Hämtar rotationen av den angivna sidan
+title: "PdfFileInfo.GetPageRotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo-metod. Hämtar rotationen för den angivna sidan."
 type: docs
 weight: 250
 url: /sv/net/aspose.pdf.facades/pdffileinfo/getpagerotation/
 ---
-## PdfFileInfo.GetPageRotation metod
+## PdfFileInfo.GetPageRotation method
 
-Hämtar rotationen av den angivna sidan.
+Hämtar rotationen för den angivna sidan.
 
 ```csharp
 public int GetPageRotation(int pageNum)
@@ -20,10 +20,12 @@ public int GetPageRotation(int pageNum)
 
 ### Returvärde
 
-Rotationen av sidan. Värdet kan vara 0, 90, 180, 270.
+Sidans rotation. Värdet kan vara 0,90,180,270.
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

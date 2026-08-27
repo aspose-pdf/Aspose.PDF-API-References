@@ -1,12 +1,12 @@
 ---
-title: StartEndPageEventArgs.StartEndPageEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: StartEndPageEventArgs-konstruktorn. Initierar en ny instans av klassen StartEndPageEventArgs
+title: "StartEndPageEventArgs.StartEndPageEventArgs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StartEndPageEventArgs-konstruktorn. Initierar en ny instans av klassen StartEndPageEventArgs"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.printing/startendpageeventargs/startendpageeventargs/
 ---
-## StartEndPageEventArgs-konstruktorn
+## StartEndPageEventArgs constructor
 
 Initierar en ny instans av klassen [`StartEndPageEventArgs`](../).
 
@@ -21,8 +21,10 @@ public StartEndPageEventArgs(int currentPage, int totalPages, int currentCopy, i
 | currentCopy | Int32 | Numret på kopian som för närvarande skrivs ut. |
 | totalCopies | Int32 | Det totala antalet kopior som ska skrivas ut. |
 
-### Se Även
+### Se även
 
-* klass [StartEndPageEventArgs](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

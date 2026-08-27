@@ -1,22 +1,24 @@
 ---
-title: Page.Background
-second_title: Aspose.PDF for .NET API Reference
-description: Sidans egenskap. Hämtar eller ställer in bakgrundsfärgen för sidan
+title: "Page.Background"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar eller anger sidans bakgrundsfärg"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/page/background/
 ---
-## Page.Background egenskap
+## Page.Background property
 
-Hämtar eller ställer in bakgrundsfärgen för sidan.
+Hämtar eller anger bakgrundsfärgen för page.
 
 ```csharp
 public Color Background { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../color/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../color/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

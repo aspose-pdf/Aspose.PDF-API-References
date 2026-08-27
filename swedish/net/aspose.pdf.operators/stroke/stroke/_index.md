@@ -1,21 +1,23 @@
 ---
-title: Stroke.Stroke
-second_title: Aspose.PDF for .NET API Reference
-description: Stroke-konstruktör. Initierar operatör
+title: "Stroke.Stroke"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stroke-konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/stroke/stroke/
 ---
-## Stroke-konstruktör
+## Stroke constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public Stroke()
 ```
 
-### Se Även
+### Se även
 
-* klass [Stroke](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [Stroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

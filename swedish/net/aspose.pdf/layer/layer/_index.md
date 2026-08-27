@@ -1,14 +1,14 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PDF for .NET API Reference
-description: Layer-konstruktorn. Initierar en ny instans av Layer-klassen
+title: "Layer.Layer"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Layer-konstruktor. Initierar en ny instans av klassen Layer"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/layer/layer/
 ---
-## Layer-konstruktorn
+## Layer constructor
 
-Initierar en ny instans av [`Layer`](../) klassen.
+Initierar en ny instans av klassen [`Layer`](../).
 
 ```csharp
 public Layer(string id, string name)
@@ -16,11 +16,13 @@ public Layer(string id, string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| id | Sträng | Lager-id |
-| name | Sträng | Lager namn |
+| id | String | Lagrets id |
+| namn | String | Lagrets namn |
 
-### Se Även
+### Se även
 
-* klass [Layer](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

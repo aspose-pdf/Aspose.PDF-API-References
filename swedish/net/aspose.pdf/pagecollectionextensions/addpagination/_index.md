@@ -1,14 +1,14 @@
 ---
-title: PageCollectionExtensions.AddPagination
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollectionExtensions metod. Lägger till de angivna pagineringsartefakterna till varje sida i den angivna sidkollektionen
+title: "PageCollectionExtensions.AddPagination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageCollectionExtensions‑metod. Lägger till de specificerade pagineringsartefakterna på varje sida i den angivna sidkollektionen."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pagecollectionextensions/addpagination/
 ---
-## PageCollectionExtensions.AddPagination metod
+## PageCollectionExtensions.AddPagination method
 
-Lägger till de angivna pagineringsartefakterna till varje sida i den angivna sidkollektionen.
+Lägger till de specificerade pagineringsartefakterna på varje sida i den angivna sidkollektionen.
 
 ```csharp
 public static void AddPagination(this PageCollection pageCollection, 
@@ -17,13 +17,15 @@ public static void AddPagination(this PageCollection pageCollection,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageCollection | PageCollection | Den kollektion av sidor som pagineringsartefakterna kommer att läggas till. |
-| artifacts | List`1 | Listan över pagineringsartefakter som ska läggas till varje sida. |
+| pageCollection | PageCollection | Samlingsobjektet av sidor som pagineringsartefakter ska läggas till. |
+| artefakter | List`1 | Listan med pagineringsartefakter som ska läggas till på varje sida. |
 
-### Se Även
+### Se även
 
-* klass [PageCollection](../../pagecollection/)
-* klass [PaginationArtifact](../../paginationartifact/)
-* klass [PageCollectionExtensions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../../pagecollection/)
+* class [PaginationArtifact](../../paginationartifact/)
+* class [PageCollectionExtensions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: ImagePlacement.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement-egenskap. Hämtar sammansättningsparametrar för grafikstatus aktiv för bilden som placeras på sidan
+title: "ImagePlacement.CompositingParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacement-egenskap. Hämtar kompositparametrar för grafikstatus som är aktiv för bilden som placerats på sidan"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/imageplacement/compositingparameters/
 ---
-## ImagePlacement.CompositingParameters-egenskap
+## ImagePlacement.CompositingParameters property
 
-Hämtar sammansättningsparametrar för grafikstatus aktiv för bilden som placeras på sidan.
+Hämtar sammansättningsparametrar för grafikstatus som är aktiv för bilden placerad på sidan.
 
 ```csharp
 public CompositingParameters CompositingParameters { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CompositingParameters](../../compositingparameters/)
-* klass [ImagePlacement](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [CompositingParameters](../../compositingparameters/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

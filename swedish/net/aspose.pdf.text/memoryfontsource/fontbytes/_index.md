@@ -1,21 +1,23 @@
 ---
-title: MemoryFontSource.FontBytes
-second_title: Aspose.PDF for .NET API Reference
-description: MemoryFontSource-egenskap. Teckensnittsfil byte-array
+title: "MemoryFontSource.FontBytes"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MemoryFontSource egenskap. Typsnittsfilens byte-array."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/memoryfontsource/fontbytes/
 ---
-## MemoryFontSource.FontBytes-egenskap
+## MemoryFontSource.FontBytes property
 
-Teckensnittsfil byte-array.
+Bytearray för teckensnittfil.
 
 ```csharp
 public byte[] FontBytes { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MemoryFontSource](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [MemoryFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

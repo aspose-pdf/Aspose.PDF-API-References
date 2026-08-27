@@ -1,22 +1,24 @@
 ---
-title: Note.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Note-egenskap. Hämtar eller ställer in en samling som indikerar alla stycken i fotnoten
+title: "Note.Paragraphs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Note property. Hämtar eller anger en samling som visar alla stycken i fotnoten"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/note/paragraphs/
 ---
-## Note.Paragraphs-egenskap
+## Note.Paragraphs property
 
-Hämtar eller ställer in en samling som indikerar alla stycken i fotnoten.
+Hämtar eller anger en samling som indikerar alla stycken i fotnoten.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Paragraphs](../../paragraphs/)
-* klass [Note](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Paragraphs](../../paragraphs/)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

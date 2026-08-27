@@ -1,21 +1,23 @@
 ---
-title: Field.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Fält egenskap. Hämtar antalet underfält i detta fält. Till exempel antalet objekt i radioknappfält
+title: "Field.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Field egenskap. Hämtar antalet underfält i detta fält. Till exempel antalet objekt i ett radioknappsfält."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/field/count/
 ---
-## Field.Count egenskap
+## Field.Count property
 
-Hämtar antalet underfält i detta fält. (Till exempel antalet objekt i radioknappfält).
+Hämtar antalet underfält i detta fält. (Till exempel antalet objekt i radioknappsfält).
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

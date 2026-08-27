@@ -1,14 +1,14 @@
 ---
-title: Field.ImportValueFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: Fältmetod. Importerar data till de angivna fälten från en JSON-ström baserat på en exakt matchning av fältens fullständiga namn
+title: "Field.ImportValueFromJson"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Fältmetod. Importerar data till de angivna fälten från en JSON-ström baserat på en exakt matchning av fältens fullständiga namn."
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.forms/field/importvaluefromjson/
 ---
 ## ImportValueFromJson(Stream) {#importvaluefromjson}
 
-Importerar data till de angivna fälten från en JSON-ström, baserat på en exakt matchning av fältens fullständiga namn.
+Importerar data till de angivna fälten från en JSON‑ström, baserat på en exakt matchning av fältens fullständiga namn.
 
 ```csharp
 public bool ImportValueFromJson(Stream inputJsonStream)
@@ -16,11 +16,11 @@ public bool ImportValueFromJson(Stream inputJsonStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputJsonStream | Stream | Den inmatade JSON-strömmen som innehåller fältdata som ska importeras till fältet. |
+| inputJsonStream | Stream | Inmatnings‑JSON‑ström som innehåller fältdata som ska importeras till fältet. |
 
 ### Returvärde
 
-Sant om fältet hittades i JSON-strömmen; annars - falskt
+True om fältet hittades i JSON‑strömmen; annars - false
 
 ## Exempel
 
@@ -33,17 +33,17 @@ fs.Close();
 document.Save();
 ```
 
-### Se Även
+### Se även
 
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportValueFromJson(Stream, string) {#importvaluefromjson_1}
 
-Importerar data till det angivna fältet från en JSON-ström, med hjälp av det fullständiga namnet som anges i variabeln 'fieldFullNameInJSON' för matchning.
+Importerar data till det angivna fältet från en JSON‑ström, med hjälp av det fullständiga namn som anges i variabeln 'fieldFullNameInJSON' för matchning.
 
 ```csharp
 public bool ImportValueFromJson(Stream inputJsonStream, string fieldFullNameInJSON)
@@ -51,12 +51,12 @@ public bool ImportValueFromJson(Stream inputJsonStream, string fieldFullNameInJS
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputJsonStream | Stream | Den inmatade JSON-strömmen som innehåller fältdata som ska importeras till fältet. |
-| fieldFullNameInJSON | String | Namnet på datan inom JSON-strömmen för matchning. Om datan inom JSON-strömmen har en nästlad struktur, bör det fullständiga namnet anges med alla föräldra- och barnobjekt separerade med '.' |
+| inputJsonStream | Stream | Inmatnings‑JSON‑ström som innehåller fältdata som ska importeras till fältet. |
+| fieldFullNameInJSON | String | Namnet på data i JSON‑strömmen för matchning. Om data i JSON‑strömmen har en nästlad struktur bör det fullständiga namnet specificeras med alla föräldra‑ och barn‑element separerade med '.' |
 
 ### Returvärde
 
-Sant om fältet hittades i JSON-filen; annars - falskt
+True om fältet hittades i json‑filen; annars - false
 
 ## Exempel
 
@@ -69,8 +69,10 @@ fs.Close();
 document.Save();
 ```
 
-### Se Även
+### Se även
 
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

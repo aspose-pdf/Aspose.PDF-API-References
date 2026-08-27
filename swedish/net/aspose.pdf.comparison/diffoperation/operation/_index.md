@@ -1,22 +1,24 @@
 ---
-title: DiffOperation.Operation
-second_title: Aspose.PDF for .NET API Reference
-description: DiffOperation-egenskap. Hämtar och ställer in operationstyp
+title: "DiffOperation.Operation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DiffOperation egenskap. Hämtar och anger operationstyp"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.comparison/diffoperation/operation/
 ---
-## DiffOperation.Operation-egenskap
+## DiffOperation.Operation property
 
-Hämtar och ställer in operationstyp.
+Hämtar och anger operationstyp.
 
 ```csharp
 public Operation Operation { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [Operation](../../operation/)
 * class [DiffOperation](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Bookmark.TitleColor
-second_title: Aspose.PDF for .NET API Reference
-description: Bokmärke egenskap. Hämtar eller ställer in färgen på bokmärkets titel
+title: "Bookmark.TitleColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Bookmark-egenskap. Hämtar eller anger färgen på bokmärkenas titel"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/bookmark/titlecolor/
 ---
-## Bookmark.TitleColor egenskap
+## Bookmark.TitleColor property
 
-Hämtar eller ställer in färgen på bokmärkets titel.
+Hämtar eller anger färgen på bokmärkets titel.
 
 ```csharp
 public Color TitleColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Bookmark](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

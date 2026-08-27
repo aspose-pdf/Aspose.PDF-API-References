@@ -1,21 +1,23 @@
 ---
-title: TabStop.Position
-second_title: Aspose.PDF for .NET API Reference
-description: TabStop-egenskap. Hämtar eller ställer in ett flyttal som indikerar tabstoppositionen
+title: "TabStop.Position"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TabStop egenskap. Hämtar eller anger ett flyttal som indikerar tabbpositionen."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/tabstop/position/
 ---
-## TabStop.Position-egenskap
+## TabStop.Position property
 
-Hämtar eller ställer in ett flyttal som indikerar tabstoppositionen.
+Hämtar eller anger ett flyttal som indikerar tabbstoppositionen.
 
 ```csharp
 public float Position { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TabStop](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

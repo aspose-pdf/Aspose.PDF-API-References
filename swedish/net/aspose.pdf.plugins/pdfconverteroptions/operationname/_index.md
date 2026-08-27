@@ -1,21 +1,23 @@
 ---
-title: PdfConverterOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverterOptions egenskap. Returnerar operationsnamn
+title: "PdfConverterOptions.OperationName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfConverterOptions egenskap. Returnerar operationens namn"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/pdfconverteroptions/operationname/
 ---
-## PdfConverterOptions.OperationName egenskap
+## PdfConverterOptions.OperationName property
 
-Returnerar operationsnamn.
+Returnerar operationens namn.
 
 ```csharp
 public abstract string OperationName { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfConverterOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

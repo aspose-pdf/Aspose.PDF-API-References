@@ -1,12 +1,12 @@
 ---
-title: Enum PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormat enum. Denna klass representerar ett pdf-format
+title: "Enum PdfFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PdfFormat enum. Denna klass representerar ett pdf‑format"
 type: docs
-weight: 8370
+weight: 8510
 url: /sv/net/aspose.pdf/pdfformat/
 ---
-## PdfFormat-uppräkning
+## PdfFormat enumeration
 
 Denna klass representerar ett pdf-format.
 
@@ -45,7 +45,9 @@ public enum PdfFormat
 | PDF_A_4F | `24` | PDF/A-4f-format |
 | PDF_X_4 | `25` | PDF/X-4-format |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

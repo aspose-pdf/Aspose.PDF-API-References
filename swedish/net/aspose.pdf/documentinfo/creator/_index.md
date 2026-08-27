@@ -1,21 +1,23 @@
 ---
-title: DocumentInfo.Creator
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-egenskap. Hämtar eller ställer in dokumentets skapare
+title: "DocumentInfo.Creator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo-egenskap. Hämtar eller anger dokumentets skapare"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/documentinfo/creator/
 ---
-## DocumentInfo.Creator-egenskap
+## DocumentInfo.Creator property
 
-Hämtar eller ställer in dokumentets skapare.
+Hämtar eller anger dokumentskapare.
 
 ```csharp
 public string Creator { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

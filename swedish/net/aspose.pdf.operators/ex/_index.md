@@ -1,14 +1,14 @@
 ---
-title: Class EX
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EX class. Class representing EX operator End of compatibility section
+title: "Klass EX"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.EX klass. Klass som representerar EX-operatorn End of compatibility section"
 type: docs
-weight: 7350
+weight: 7490
 url: /sv/net/aspose.pdf.operators/ex/
 ---
-## EX klass
+## EX class
 
-Klass som representerar EX-operatorn (Slut på kompatibilitetsavsnittet).
+Klass som representerar EX-operatorn (slutet på kompatibilitetssektionen).
 
 ```csharp
 public class EX : Operator
@@ -24,18 +24,20 @@ public class EX : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i listan över sidoperatorer. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/ex/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: FormEditor.AddField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor metod. Lägg till fält av angiven typ till formuläret
+title: "FormEditor.AddField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor-metod. Lägg till fält av angiven typ i formuläret"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/formeditor/addfield/
@@ -17,19 +17,19 @@ public bool AddField(FieldType fieldType, string fieldName, int pageNum, float l
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldType | FieldType | Typ av fältet som måste läggas till. |
-| fieldName | String | Namn på fältet som måste läggas till. |
-| pageNum | Int32 | Sidnummer där det nya fältet måste placeras. |
-| llx | Single | Abscissa för det nedre vänstra hörnet av fältet. |
-| lly | Single | Ordinate för det nedre vänstra hörnet av fältet. |
-| urx | Single | Abscissa för det övre högra hörnet av fältet. |
-| ury | Single | Ordinate för det övre högra hörnet av fältet. |
+| fieldType | FieldType | Typ av fält som ska läggas till. |
+| fieldName | String | Namnet på fältet som ska läggas till. |
+| pageNum | Int32 | Sidnummer där det nya fältet ska placeras. |
+| llx | Single | Abskissa för fältets nedre vänstra hörn. |
+| lly | Single | Koordinat för fältets nedre vänstra hörn. |
+| urx | Single | Abskissa för fältets övre högra hörn. |
+| ury | Single | Ordinat för fältets övre högra hörn. |
 
-### Return Value
+### Returvärde
 
-true om fältet framgångsrikt lades till.
+true om fältet lades till framgångsrikt.
 
-## Examples
+## Exempel
 
 ```csharp
 FormEditor formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_Text.pdf");
@@ -37,7 +37,7 @@ formEditor.AddField(FieldType.Text, "AddedTextField",  1, 10, 30, 110, 46);
 formEditor.Save();
 ```
 
-### See Also
+### Se även
 
 * enum [FieldType](../../fieldtype/)
 * class [FormEditor](../)
@@ -57,20 +57,20 @@ public bool AddField(FieldType fieldType, string fieldName, string initValue, in
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldType | FieldType | Typ av fältet som måste läggas till. |
-| fieldName | String | Namn på fältet som måste läggas till. |
-| initValue | String | Initialt värde för fältet. |
-| pageNum | Int32 | Sidnummer där det nya fältet måste placeras. |
-| llx | Single | Abscissa för det nedre vänstra hörnet av fältet. |
-| lly | Single | Ordinate för det nedre vänstra hörnet av fältet. |
-| urx | Single | Abscissa för det övre högra hörnet av fältet. |
-| ury | Single | Ordinate för det övre högra hörnet av fältet. |
+| fieldType | FieldType | Typ av fält som ska läggas till. |
+| fieldName | String | Namnet på fältet som ska läggas till. |
+| initValue | String | Initialvärde för fältet. |
+| pageNum | Int32 | Sidnummer där det nya fältet ska placeras. |
+| llx | Single | Abskissa för fältets nedre vänstra hörn. |
+| lly | Single | Koordinat för fältets nedre vänstra hörn. |
+| urx | Single | Abskissa för fältets övre högra hörn. |
+| ury | Single | Ordinat för fältets övre högra hörn. |
 
-### Return Value
+### Returvärde
 
-true om fältet framgångsrikt lades till.
+true om fältet lades till framgångsrikt.
 
-## Examples
+## Exempel
 
 ```csharp
 FormEditor formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_Text.pdf");
@@ -80,9 +80,11 @@ formEditor.AddField(FieldType.Radio, "RadioButtonField", 1, 265, 695, 365, 720);
 formEditor.Save();
 ```
 
-### See Also
+### Se även
 
 * enum [FieldType](../../fieldtype/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

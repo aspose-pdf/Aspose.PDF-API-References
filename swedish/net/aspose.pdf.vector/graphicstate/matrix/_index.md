@@ -1,12 +1,12 @@
 ---
-title: GraphicState.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicState-egenskap. Hämtar den aktuella transformationsmatrisen
+title: "GraphicState.Matrix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicState-egenskap. Hämtar den aktuella transformationsmatrisen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.vector/graphicstate/matrix/
 ---
-## GraphicState.Matrix-egenskap
+## GraphicState.Matrix property
 
 Hämtar den aktuella transformationsmatrisen.
 
@@ -14,9 +14,11 @@ Hämtar den aktuella transformationsmatrisen.
 public Matrix Matrix { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../../../aspose.pdf/matrix/)
-* klass [GraphicState](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [GraphicState](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

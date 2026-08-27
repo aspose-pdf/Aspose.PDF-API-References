@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Item
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-egenskap. Hämtar eller ställer in värdet som är kopplat till den angivna nyckeln
+title: "DocumentInfo.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo-egenskap. Hämtar eller anger värdet som är associerat med den angivna nyckeln"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/documentinfo/item/
 ---
 ## DocumentInfo indexer
 
-Hämtar eller ställer in värdet som är kopplat till den angivna nyckeln.
+Hämtar eller anger värdet som är associerat med den angivna nyckeln.
 
 ```csharp
 public string this[string key] { get; set; }
@@ -16,10 +16,12 @@ public string this[string key] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| key | Nyckeln vars värde ska hämtas eller ställas in. |
+| nyckel | Nyckeln vars värde ska hämtas eller anges. |
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: AnnotationActionCollection.OnModifyCharacter
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection-egenskap. Hämtar eller ställer in en åtgärd som ska utföras när användaren ändrar tecknet i fältet
+title: "AnnotationActionCollection.OnModifyCharacter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationActionCollection egenskap. Hämtar eller anger en åtgärd som ska utföras när användaren ändrar tecken i fältet"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.annotations/annotationactioncollection/onmodifycharacter/
 ---
-## AnnotationActionCollection.OnModifyCharacter-egenskap
+## AnnotationActionCollection.OnModifyCharacter property
 
-Hämtar eller ställer in en åtgärd som ska utföras när användaren ändrar tecknet i fältet.
+Hämtar eller anger en åtgärd som ska utföras när användaren ändrar tecken i fältet.
 
 ```csharp
 public PdfAction OnModifyCharacter { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [AnnotationActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

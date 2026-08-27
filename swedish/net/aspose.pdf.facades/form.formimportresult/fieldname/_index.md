@@ -1,12 +1,12 @@
 ---
-title: Form.FormImportResult.FieldName
-second_title: Aspose.PDF for .NET API Reference
-description: FormImportResult egenskap. Fullständigt namn på fältet
+title: "Form.FormImportResult.FieldName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormImportResult‑egenskap. Fullständigt namn på fältet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/form.formimportresult/fieldname/
 ---
-## Form.FormImportResult.FieldName egenskap
+## Form.FormImportResult.FieldName property
 
 Fullständigt namn på fältet.
 
@@ -14,8 +14,10 @@ Fullständigt namn på fältet.
 public string FieldName { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormImportResult](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormImportResult](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

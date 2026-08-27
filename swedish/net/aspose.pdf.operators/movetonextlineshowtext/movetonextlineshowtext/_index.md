@@ -1,30 +1,30 @@
 ---
-title: MoveToNextLineShowText.MoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLineShowText-konstruktör. Initierar operatör
+title: "MoveToNextLineShowText.MoveToNextLineShowText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MoveToNextLineShowText-konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/
 ---
 ## MoveToNextLineShowText() {#constructor}
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public MoveToNextLineShowText()
 ```
 
-### Se Även
+### Se även
 
-* klass [MoveToNextLineShowText](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [MoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MoveToNextLineShowText(string) {#constructor_1}
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public MoveToNextLineShowText(string text)
@@ -32,10 +32,12 @@ public MoveToNextLineShowText(string text)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Texten. |
+| text | String | Texten. |
 
-### Se Även
+### Se även
 
-* klass [MoveToNextLineShowText](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [MoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

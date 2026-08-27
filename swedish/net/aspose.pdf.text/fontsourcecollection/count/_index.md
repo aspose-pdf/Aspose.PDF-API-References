@@ -1,21 +1,23 @@
 ---
-title: FontSourceCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection-egenskap. Hämtar antalet Font-objektelement som faktiskt ingår i samlingen
+title: "FontSourceCollection.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontSourceCollection-egenskap. Hämtar antalet Font-objektelement som faktiskt finns i samlingen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/fontsourcecollection/count/
 ---
-## FontSourceCollection.Count-egenskap
+## FontSourceCollection.Count property
 
-Hämtar antalet [`Font`](../../font/) objekts element som faktiskt ingår i samlingen.
+Hämtar antalet [`Font`](../../font/) objektelement som faktiskt finns i samlingen.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FontSourceCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

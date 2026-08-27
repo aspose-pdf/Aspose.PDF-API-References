@@ -1,26 +1,28 @@
 ---
-title: PDF3DAnnotation.ViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation-egenskap. Hämtar vyarray
+title: "PDF3DAnnotation.ViewArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DAnnotation-egenskap. Hämtar vyarrayen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/pdf3dannotation/viewarray/
 ---
-## PDF3DAnnotation.ViewArray-egenskap
+## PDF3DAnnotation.ViewArray property
 
-Hämtar vyarray.
+Hämtar vyarrayen.
 
 ```csharp
 public PDF3DViewArray ViewArray { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Vyarray.
+Vyarrayen.
 
-### Se Även
+### Se även
 
-* klass [PDF3DViewArray](../../pdf3dviewarray/)
-* klass [PDF3DAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DViewArray](../../pdf3dviewarray/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

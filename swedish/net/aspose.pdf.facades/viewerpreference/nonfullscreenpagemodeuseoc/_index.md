@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseOC
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. Valfri innehållsgruppspanel synlig
+title: "ViewerPreference.NonFullScreenPageModeUseOC"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference‑fält. Panel för valfria innehållsgrupper är synlig"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoc/
 ---
-## ViewerPreference.NonFullScreenPageModeUseOC-fält
+## ViewerPreference.NonFullScreenPageModeUseOC field
 
-Valfri innehållsgruppspanel synlig.
+Panelen för valfri innehållsgrupp är synlig.
 
 ```csharp
 public const int NonFullScreenPageModeUseOC;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

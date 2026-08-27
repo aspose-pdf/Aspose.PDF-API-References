@@ -1,14 +1,14 @@
 ---
-title: PDF3DContent.LoadAsU3D
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent-metod. Laddar 3D-innehåll med det angivna filnamnet i U3D-format
+title: "PDF3DContent.LoadAsU3D"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DContent-metoden. Laddar 3D-innehåll med det angivna filnamnet i U3D-format"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/pdf3dcontent/loadasu3d/
 ---
 ## LoadAsU3D(string) {#loadasu3d_2}
 
-Laddar 3D-innehåll med det angivna filnamnet i U3D-format.
+Laddar 3D-innehåll med det angivna filnamnet som U3D-format.
 
 ```csharp
 public void LoadAsU3D(string filename)
@@ -16,13 +16,13 @@ public void LoadAsU3D(string filename)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filename | Sträng | Filnamnet. |
+| filnamn | String | Filnamnet. |
 
-### Se Även
+### Se även
 
-* klass [PDF3DContent](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,13 +36,13 @@ public void LoadAsU3D(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Ström | 3D-innehållsströmmen. |
+| ström | Stream | 3D-innehållsströmmen. |
 
-### Se Även
+### Se även
 
-* klass [PDF3DContent](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -56,10 +56,12 @@ public void LoadAsU3D(byte[] stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Byte[] | Strömmen. |
+| ström | Byte[] | Strömmen. |
 
-### Se Även
+### Se även
 
-* klass [PDF3DContent](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

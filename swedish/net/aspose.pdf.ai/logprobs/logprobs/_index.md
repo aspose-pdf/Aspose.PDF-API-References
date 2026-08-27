@@ -1,12 +1,12 @@
 ---
-title: Logprobs.Logprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Logprobs-konstruktorn. Standardkonstruktorn
+title: "Logprobs.Logprobs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Logprobs‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/logprobs/logprobs/
 ---
-## Logprobs-konstruktorn
+## Logprobs constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Logprobs()
 ```
 
-### Se Även
+### Se även
 
-* klass [Logprobs](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Logprobs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

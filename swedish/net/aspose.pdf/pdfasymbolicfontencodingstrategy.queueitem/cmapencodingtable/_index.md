@@ -1,22 +1,24 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable
-second_title: Aspose.PDF for .NET API Reference
-description: QueueItem-egenskap. Anger kodningsunderbord via CMapEncodingTableType-uppräkning
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "QueueItem‑egenskap. Anger kodningens deltabell via CMapEncodingTableTypeenumeration"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable/
 ---
-## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable-egenskap
+## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable property
 
-Anger kodningsunderbord via [`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)uppräkning
+Anger kodningens deltabell via [`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)‑enumeration
 
 ```csharp
 public CMapEncodingTableType CMapEncodingTable { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
 * class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.ToCosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary-metod. Försöker omvandla denna instans till CosPdfDictionary
+title: "CosPdfDictionary.ToCosPdfDictionary"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfDictionary‑metod. Försöker kasta detta objekt till CosPdfDictionary"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.dataeditor/cospdfdictionary/tocospdfdictionary/
 ---
-## CosPdfDictionary.ToCosPdfDictionary metod
+## CosPdfDictionary.ToCosPdfDictionary method
 
-Försöker omvandla denna instans till [`CosPdfDictionary`](../).
+Försöker kasta detta objekt till [`CosPdfDictionary`](../).
 
 ```csharp
 public override CosPdfDictionary ToCosPdfDictionary()
@@ -16,10 +16,12 @@ public override CosPdfDictionary ToCosPdfDictionary()
 
 ### Returvärde
 
-null om instansen inte är [`CosPdfDictionary`](../) annars [`CosPdfDictionary`](../).
+null om objektet inte är [`CosPdfDictionary`](../) annars [`CosPdfDictionary`](../).
 
-### Se Även
+### Se även
 
-* klass [CosPdfDictionary](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

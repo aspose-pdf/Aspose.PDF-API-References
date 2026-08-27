@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: ToolChoice-konstruktorn. Standardkonstruktorn
+title: "ToolChoice.ToolChoice"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ToolChoice-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/toolchoice/toolchoice/
 ---
-## ToolChoice-konstruktorn
+## ToolChoice constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ToolChoice()
 ```
 
-### Se Även
+### Se även
 
-* klass [ToolChoice](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ToolChoice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

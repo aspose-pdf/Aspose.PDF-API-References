@@ -1,14 +1,14 @@
 ---
-title: Class SignaturesCompromiseDetector
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SignaturesCompromiseDetector klass. Representerar en klass för att kontrollera komprometterande signaturer av dokumentet
+title: "Klass SignaturesCompromiseDetector"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.SignaturesCompromiseDetector-klass. Representerar en klass för att kontrollera komprometterade signaturer i dokumentet"
 type: docs
-weight: 10120
+weight: 10300
 url: /sv/net/aspose.pdf/signaturescompromisedetector/
 ---
-## SignaturesCompromiseDetector klass
+## SignaturesCompromiseDetector class
 
-Representerar en klass för att kontrollera komprometterande signaturer av dokumentet.
+Representerar en klass för att kontrollera komprometterande signaturer i dokumentet.
 
 ```csharp
 public sealed class SignaturesCompromiseDetector
@@ -18,19 +18,21 @@ public sealed class SignaturesCompromiseDetector
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SignaturesCompromiseDetector](signaturescompromisedetector/)(Document) | Skapar en instans av `SignaturesCompromiseDetector` klass. |
+| [SignaturesCompromiseDetector](signaturescompromisedetector/)(Document) | Skapar en instans av klassen `SignaturesCompromiseDetector`. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Check](../../aspose.pdf/signaturescompromisedetector/check/)(out CompromiseCheckResult) | Kontrollera de digitala signaturerna av dokumentet för kompromiss. |
+| [Check](../../aspose.pdf/signaturescompromisedetector/check/)(out CompromiseCheckResult) | Kontrollera dokumentets digitala signaturer för kompromettering. |
 
-## Kommentarer
+## Anmärkningar
 
-Detektorn kontrollerar endast kända sätt att kompromettera signaturer. Verifiering kan inte ge en 100% garanti för avsaknaden av signaturkompromiss och kan ge ett falskt negativt resultat för nya, okända kompromissmetoder som skiljer sig från de som testas.
+Detektorn kontrollerar endast kända sätt att kompromettera signaturer. Verifiering kan inte ge en 100 % garanti för att signaturer inte är komprometterade och kan ge ett falskt negativt resultat för nya, okända komprometteringsmetoder som skiljer sig från de som testas.
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

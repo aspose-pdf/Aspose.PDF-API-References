@@ -1,22 +1,24 @@
 ---
-title: DocumentActionCollection.AfterSaving
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentActionCollection-egenskap. Hämtar eller ställer in åtgärd som kommer att utföras efter dokumentbesparing
+title: "DocumentActionCollection.AfterSaving"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentActionCollection-egenskap. Hämtar eller sätter åtgärden som kommer att utföras efter att dokumentet sparats"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/documentactioncollection/aftersaving/
 ---
-## DocumentActionCollection.AfterSaving-egenskap
+## DocumentActionCollection.AfterSaving property
 
-Hämtar eller ställer in åtgärd som kommer att utföras efter dokumentbesparing.
+Hämtar eller anger åtgärd som kommer att utföras efter att dokumentet sparats.
 
 ```csharp
 public PdfAction AfterSaving { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [DocumentActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [DocumentActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

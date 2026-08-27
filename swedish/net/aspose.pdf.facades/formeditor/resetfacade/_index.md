@@ -1,12 +1,12 @@
 ---
-title: FormEditor.ResetFacade
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor metod. Återställ alla visuella attribut till tomt värde
+title: "FormEditor.ResetFacade"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor metod. Återställ alla visuella attribut till ett tomt värde"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.facades/formeditor/resetfacade/
 ---
-## FormEditor.ResetFacade metod
+## FormEditor.ResetFacade method
 
 Återställ alla visuella attribut till tomt värde.
 
@@ -14,8 +14,10 @@ url: /sv/net/aspose.pdf.facades/formeditor/resetfacade/
 public void ResetFacade()
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

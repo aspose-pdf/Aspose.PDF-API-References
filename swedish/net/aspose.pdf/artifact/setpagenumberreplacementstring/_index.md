@@ -1,12 +1,12 @@
 ---
-title: Artifact.SetPageNumberReplacementString
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-metod. Anger vilken sträng som ska ersättas med sidnumret. Standardvärdet är
+title: "Artifact.SetPageNumberReplacementString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact metod. Ställer in vilken sträng som kommer att ersättas med sidnumret. Standardvärdet är"
 type: docs
 weight: 300
 url: /sv/net/aspose.pdf/artifact/setpagenumberreplacementstring/
 ---
-## Artifact.SetPageNumberReplacementString metod
+## Artifact.SetPageNumberReplacementString method
 
 Anger vilken sträng som ska ersättas med sidnumret. Standardvärdet är #.
 
@@ -16,10 +16,12 @@ public void SetPageNumberReplacementString(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Sträng | Strängvärde som ska ersättas med sidnumret. |
+| värde | String | Strängvärde som ska ersättas med sidnumret. |
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

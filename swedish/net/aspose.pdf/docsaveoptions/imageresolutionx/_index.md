@@ -1,21 +1,23 @@
 ---
-title: DocSaveOptions.ImageResolutionX
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions egenskap. Konverterade bilder X-upplösning
+title: "DocSaveOptions.ImageResolutionX"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocSaveOptions egenskap. Konverterade bilders X-upplösning"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/docsaveoptions/imageresolutionx/
 ---
-## DocSaveOptions.ImageResolutionX egenskap
+## DocSaveOptions.ImageResolutionX property
 
-Konverterade bilder X-upplösning.
+Konverterade bilders X-upplösning.
 
 ```csharp
 public int ImageResolutionX { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

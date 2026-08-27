@@ -1,22 +1,24 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.TopMargin
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters-egenskap. Hämtar eller ställer in övre marginal på den resulterande sidan
+title: "PdfFileEditor.ContentsResizeParameters.TopMargin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Egenskapen ContentsResizeParameters. Hämtar eller anger övre marginal på den resulterande sidan"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/topmargin/
 ---
-## PdfFileEditor.ContentsResizeParameters.TopMargin-egenskap
+## PdfFileEditor.ContentsResizeParameters.TopMargin property
 
-Hämtar eller ställer in övre marginal på den resulterande sidan.
+Hämtar eller anger toppmarginal på den resulterande sidan.
 
 ```csharp
 public ContentsResizeValue TopMargin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
-* klass [ContentsResizeParameters](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

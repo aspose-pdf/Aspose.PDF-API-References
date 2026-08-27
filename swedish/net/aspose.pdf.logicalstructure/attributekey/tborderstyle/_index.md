@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.TBorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnyckel fält. TBorderStyle attribut Layout attribut ägare
+title: "AttributeKey.TBorderStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. TBorderStyle attribute Layout attribute ägare"
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/tborderstyle/
 ---
-## AttributeKey.TBorderStyle fält
+## AttributeKey.TBorderStyle field
 
-TBorderStyle attribut (Layout attribut ägare).
+TBorderStyle-attribut (Layout attributägare).
 
 ```csharp
 public static readonly AttributeKey TBorderStyle;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

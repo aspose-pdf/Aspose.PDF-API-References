@@ -1,14 +1,14 @@
 ---
-title: ScreenAnnotation.ScreenAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: ScreenAnnotation-konstruktorn. Skapar en ny skärmanmärkning på den angivna sidan
+title: "ScreenAnnotation.ScreenAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ScreenAnnotation‑konstruktor. Skapar ny skärm‑annotering på den angivna sidan"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/screenannotation/screenannotation/
 ---
-## ScreenAnnotation-konstruktorn
+## ScreenAnnotation constructor
 
-Skapar en ny skärmanmärkning på den angivna sidan.
+Skapar ny Screen-annotation på den angivna sidan.
 
 ```csharp
 public ScreenAnnotation(Page page, Rectangle rect, string mediaFile)
@@ -16,14 +16,16 @@ public ScreenAnnotation(Page page, Rectangle rect, string mediaFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Dokumentets sida där anmärkningen ska skapas. |
-| rect | Rectangle | Anmärkningens rektangel, som definierar platsen för anmärkningen på sidan. |
-| mediaFile | String | Sökvägen till multimediafilen. |
+| sida | Page | Document-sidan där annotationen bör skapas. |
+| rect | Rectangle | Annotationsrektangeln, som definierar placeringen av annotationen på sidan. |
+| mediaFile | String | Sökvägen till multimediefilen. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [ScreenAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ScreenAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

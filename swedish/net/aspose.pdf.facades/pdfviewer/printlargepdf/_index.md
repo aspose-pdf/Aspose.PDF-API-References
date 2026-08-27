@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintLargePdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-metod. Öppnar och skriver ut en stor Pdf-fil. Om din Pdf-fil har hundratals sidor eller mer eller dess storlek är mer än 3 MB rekommenderas denna metod för att få bättre prestanda
+title: "PdfViewer.PrintLargePdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer-metod. Öppnar och skriver ut en stor Pdf-fil. Om din Pdf-fil har hundratals sidor eller fler eller dess storlek är mer än 3 MB rekommenderas denna metod för att få bättre prestanda."
 type: docs
 weight: 350
 url: /sv/net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
 
-Öppnar och skriver ut en stor Pdf-fil. Om din Pdf-fil har hundratals sidor eller mer eller dess storlek är mer än 3 MB, rekommenderas denna metod för att få bättre prestanda.
+Öppnar och skriver ut en stor Pdf-fil. Om din Pdf-fil har hundratals sidor eller mer eller dess storlek är mer än 3 MB, rekommenderas denna metod för bättre prestanda.
 
 ```csharp
 public void PrintLargePdf(string filePath)
@@ -16,11 +16,11 @@ public void PrintLargePdf(string filePath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filePath | Sträng | Sökvägen till Pdf-filen. |
+| filePath | String | Sökvägen till Pdf-filen. |
 
 ## Anmärkningar
 
-Denna metod integrerar öppnandet och utskriften av filen och du behöver inte anropa BindPdf() explicit.
+Denna metod integrerar öppning och utskrift av filen och du behöver inte anropa BindPdf() explicit.
 
 ## Exempel
 
@@ -42,17 +42,17 @@ iewer.PrintLargePdf(@"d:\test.pdf")
 iewer.Close()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream) {#printlargepdf}
 
-Öppnar och skriver ut en stor Pdf-ström. Om din Pdf-fil har hundratals sidor eller mer eller dess storlek är mer än 3 MB, rekommenderas denna metod för att få bättre prestanda.
+Öppnar och skriver ut en stor Pdf-ström. Om din Pdf-fil har hundratals sidor eller mer eller dess storlek är mer än 3 MB, rekommenderas denna metod för bättre prestanda.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream)
@@ -60,11 +60,11 @@ public void PrintLargePdf(Stream inputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Ström | Pdf-strömmen som ska öppnas och skrivas ut. |
+| inputStream | Stream | Pdf-strömmen som ska öppnas och skrivas ut. |
 
 ## Anmärkningar
 
-Denna metod integrerar öppnandet och utskriften av filen och du behöver inte anropa BindPdf() explicit.
+Denna metod integrerar öppning och utskrift av filen och du behöver inte anropa BindPdf() explicit.
 
 ## Exempel
 
@@ -86,17 +86,17 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")))
 iewer.Close()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(string, PrinterSettings) {#printlargepdf_5}
 
-Öppnar och skriver ut en stor Pdf-fil med angivna skrivareinställningar. Om din Pdf-fil har hundratals sidor eller mer eller dess storlek är mer än 3 MB, rekommenderas denna metod för att få bättre prestanda.
+Öppnar och skriver ut en stor Pdf-fil med angivna skrivarinställningar. Om din Pdf-fil har hundratals sidor eller fler eller dess storlek är mer än 3 MB, rekommenderas denna metod för att få bättre prestanda.
 
 ```csharp
 public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
@@ -104,12 +104,12 @@ public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filePath | Sträng | Sökvägen till Pdf-filen. |
-| printerSettings | PrinterSettings | Skrivareinställningarna. |
+| filePath | String | Sökvägen till Pdf-filen. |
+| printerSettings | PrinterSettings | Skrivarinställningarna. |
 
 ## Anmärkningar
 
-Denna metod integrerar öppnandet och utskriften av filen och du behöver inte anropa BindPdf() explicit.
+Denna metod integrerar öppning och utskrift av filen och du behöver inte anropa BindPdf() explicit.
 
 ## Exempel
 
@@ -137,18 +137,18 @@ iewer.PrintLargePdf(@"d:\test.pdf",ps)
 iewer.Close()
 ```
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream, PrinterSettings) {#printlargepdf_2}
 
-Öppnar och skriver ut en stor Pdf-ström med angivna skrivareinställningar. Om din Pdf-fil har hundratals sidor eller mer eller dess storlek är mer än 3 MB, rekommenderas denna metod för att få bättre prestanda.
+Öppnar och skriver ut en stor Pdf-ström med angivna skrivarinställningar. Om din Pdf-fil har hundratals sidor eller mer eller dess storlek är mer än 3 MB, rekommenderas denna metod för bättre prestanda.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
@@ -156,12 +156,12 @@ public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Ström | Pdf-strömmen som ska öppnas och skrivas ut. |
-| printerSettings | PrinterSettings | Skrivareinställningarna. |
+| inputStream | Stream | Pdf-strömmen som ska öppnas och skrivas ut. |
+| printerSettings | PrinterSettings | Skrivarinställningarna. |
 
 ## Anmärkningar
 
-Denna metod integrerar öppnandet och utskriften av filen och du behöver inte anropa BindPdf() explicit.
+Denna metod integrerar öppning och utskrift av filen och du behöver inte anropa BindPdf() explicit.
 
 ## Exempel
 
@@ -189,18 +189,18 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),ps
 iewer.Close()
 ```
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-Öppnar och skriver ut en stor Pdf-fil med angivna sidinställningar och skrivareinställningar. Om din Pdf-fil har hundratals sidor eller mer eller dess storlek är mer än 3 MB, rekommenderas denna metod för att få bättre prestanda.
+Öppnar och skriver ut en stor Pdf-fil med angivna sidinställningar och skrivarinställningar. Om din Pdf-fil har hundratals sidor eller fler eller dess storlek är mer än 3 MB, rekommenderas denna metod för att få bättre prestanda.
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
@@ -209,13 +209,13 @@ public void PrintLargePdf(string filePath, PageSettings pageSettings,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filePath | Sträng | Sökvägen till Pdf-filen. |
+| filePath | String | Sökvägen till Pdf-filen. |
 | pageSettings | PageSettings | Sidinställningarna. |
-| printerSettings | PrinterSettings | Skrivareinställningarna. |
+| printerSettings | PrinterSettings | Skrivarinställningarna. |
 
 ## Anmärkningar
 
-Denna metod integrerar öppnandet och utskriften av filen och du behöver inte anropa BindPdf() explicit.
+Denna metod integrerar öppning och utskrift av filen och du behöver inte anropa BindPdf() explicit.
 
 ## Exempel
 
@@ -249,19 +249,19 @@ iewer.PrintLargePdf(@"d:\test.pdf",pgs,ps)
 iewer.Close()
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* klass [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream, PageSettings, PrinterSettings) {#printlargepdf_1}
 
-Öppnar och skriver ut en stor Pdf-ström med angivna sidinställningar och skrivareinställningar. Om din Pdf-fil har hundratals sidor eller mer eller dess storlek är mer än 3 MB, rekommenderas denna metod för att få bättre prestanda.
+Öppnar och skriver ut en stor Pdf-ström med angivna sidinställningar och skrivarinställningar. Om din Pdf-fil har hundratals sidor eller fler eller dess storlek är mer än 3 MB, rekommenderas denna metod för att få bättre prestanda.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
@@ -270,13 +270,13 @@ public void PrintLargePdf(Stream inputStream, PageSettings pageSettings,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Ström | Pdf-strömmen som ska öppnas och skrivas ut. |
+| inputStream | Stream | Pdf-strömmen som ska öppnas och skrivas ut. |
 | pageSettings | PageSettings | Sidinställningarna. |
-| printerSettings | PrinterSettings | Skrivareinställningarna. |
+| printerSettings | PrinterSettings | Skrivarinställningarna. |
 
 ## Anmärkningar
 
-Denna metod integrerar öppnandet och utskriften av filen och du behöver inte anropa BindPdf() explicit.
+Denna metod integrerar öppning och utskrift av filen och du behöver inte anropa BindPdf() explicit.
 
 ## Exempel
 
@@ -310,10 +310,12 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),pg
 iewer.Close()
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* klass [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

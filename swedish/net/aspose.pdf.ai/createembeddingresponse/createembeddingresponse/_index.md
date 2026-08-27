@@ -1,12 +1,12 @@
 ---
-title: CreateEmbeddingResponse.CreateEmbeddingResponse
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingResponse-konstruktorn. Standardkonstruktorn
+title: "CreateEmbeddingResponse.CreateEmbeddingResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateEmbeddingResponse-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/createembeddingresponse/createembeddingresponse/
 ---
-## CreateEmbeddingResponse-konstruktorn
+## CreateEmbeddingResponse constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public CreateEmbeddingResponse()
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateEmbeddingResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CreateEmbeddingResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

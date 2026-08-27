@@ -1,12 +1,12 @@
 ---
-title: ImageExtractorOptions.ImageExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ImageExtractorOptions-konstruktorn. Standardkonstruktorn
+title: "ImageExtractorOptions.ImageExtractorOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageExtractorOptions-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/imageextractoroptions/imageextractoroptions/
 ---
-## ImageExtractorOptions-konstruktorn
+## ImageExtractorOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ImageExtractorOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageExtractorOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ImageExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Left
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vänster klass. Representerar inställningarna för vänsterjustering av header- och footerdata
+title: "Klass Left"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Left-klass. Representerar vänsterjusteringsinställningarna för sidhuvud- och sidfotdata"
 type: docs
-weight: 6070
+weight: 6200
 url: /sv/net/aspose.pdf/left/
 ---
-## Vänster klass
+## Left class
 
-Representerar inställningarna för vänsterjustering av header- och footerdata.
+Representerar inställningarna för vänsterjustering av sidhuvud- och sidfotdata.
 
 ```csharp
 public sealed class Left : HeaderFooterData
@@ -18,17 +18,19 @@ public sealed class Left : HeaderFooterData
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Vänster](left/)() | Standardkonstruktorn. |
+| [Left](left/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SidDatum](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Hämtar eller ställer in datuminställningarna. |
-| [SidNummer](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Hämtar eller ställer in sidnummerinställningarna. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Hämtar eller anger datuminställningarna. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Hämtar eller anger sidnumreringsinställningarna. |
 
-### Se Även
+### Se även
 
-* klass [HeaderFooterData](../headerfooterdata/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

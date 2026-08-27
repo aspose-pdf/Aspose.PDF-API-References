@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.CosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary-konstruktorn. Skapar en ordbok från resurser
+title: "CosPdfDictionary.CosPdfDictionary"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfDictionary‑konstruktor. Skapar en dictionary från resurser"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/
 ---
-## CosPdfDictionary-konstruktorn
+## CosPdfDictionary constructor
 
 Skapar en ordbok från resurser.
 
@@ -16,17 +16,19 @@ public CosPdfDictionary(Resources resources)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| resources | Resources | Resurser med en ordbok för arbete. |
+| resurser | Resurser | Resurser med en ordbok för arbete. |
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | Resurserna är null. |
 
-### Se Även
+### Se även
 
-* klass [Resources](../../../aspose.pdf/resources/)
-* klass [CosPdfDictionary](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

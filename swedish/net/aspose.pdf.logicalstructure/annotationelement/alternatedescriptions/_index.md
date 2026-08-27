@@ -1,21 +1,23 @@
 ---
-title: AnnotationElement.AlternateDescriptions
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationElement-egenskap. Hämtar eller ställer in de alternativa beskrivningarna för annotation. Text som ska visas för annotationen eller, om denna typ av annotation inte visar text, en alternativ beskrivning av annotationens innehåll i människoläsbar form
+title: "AnnotationElement.AlternateDescriptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationElement egenskap. Hämtar eller anger de alternativa beskrivningarna för annotationen. Text som ska visas för annotationen eller om den här typen av annotation inte visar text, en alternativ beskrivning av annotationens innehåll i mänskligt läsbar form."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/annotationelement/alternatedescriptions/
 ---
-## AnnotationElement.AlternateDescriptions-egenskap
+## AnnotationElement.AlternateDescriptions property
 
-Hämtar eller ställer in de alternativa beskrivningarna för annotation. Text som ska visas för annotationen eller, om denna typ av annotation inte visar text, en alternativ beskrivning av annotationens innehåll i människoläsbar form.
+Hämtar eller anger de alternativa beskrivningarna för annoteringen. Text som ska visas för annoteringen eller, om den här typen av annotering inte visar text, en alternativ beskrivning av annoteringens innehåll i människoläsbar form.
 
 ```csharp
 public string AlternateDescriptions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AnnotationElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AnnotationElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

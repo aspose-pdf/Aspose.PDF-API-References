@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.WaitForAssistantMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Väntar på det första meddelandet från assistenten inom en tråd asynkront
+title: "OpenAIClient.WaitForAssistantMessageAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient-metod. Väntar asynkront på det första meddelandet från assistenten i en tråd"
 type: docs
-weight: 460
+weight: 470
 url: /sv/net/aspose.pdf.ai/openaiclient/waitforassistantmessageasync/
 ---
-## OpenAIClient.WaitForAssistantMessageAsync metod
+## OpenAIClient.WaitForAssistantMessageAsync method
 
-Väntar på det första meddelandet från assistenten inom en tråd asynkront.
+Väntar asynkront på det första meddelandet från assistenten inom en tråd.
 
 ```csharp
 public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId, 
@@ -18,24 +18,26 @@ public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadId | Sträng | ID:t för tråden att övervaka för det första assistentmeddelandet. |
-| queryParameters | ThreadMessageListQueryParameters | Valfria frågeparametrar för att filtrera listan över meddelanden. |
+| threadId | String | ID för tråden att övervaka för det första assistentmeddelandet. |
+| queryParameters | ThreadMessageListQueryParameters | Valfria frågeparametrar för att filtrera listan med meddelanden. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller det första assistentmeddelandet i tråden.
+En uppgift som representerar den asynkrona operationen. Uppgiftens resultat innehåller det första assistentmeddelandet i tråden.
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när tråd-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när tråd-Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageResponse](../../threadmessageresponse/)
-* klass [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

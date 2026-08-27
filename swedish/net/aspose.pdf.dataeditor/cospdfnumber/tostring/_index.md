@@ -1,12 +1,12 @@
 ---
-title: CosPdfNumber.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber-metod. Returnerar en sträng som representerar den aktuella CosPdfNumber
+title: "CosPdfNumber.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfNumber metod. Returnerar en sträng som representerar den aktuella CosPdfNumber"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.dataeditor/cospdfnumber/tostring/
 ---
-## CosPdfNumber.ToString metod
+## CosPdfNumber.ToString method
 
 Returnerar en sträng som representerar den aktuella [`CosPdfNumber`](../).
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 En sträng som representerar den aktuella [`CosPdfNumber`](../).
 
-### Se Även
+### Se även
 
-* klass [CosPdfNumber](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Operator.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Operator metod. Accepterar besökare IOperatorSelector som tillhandahåller bearbetning av operatörer
+title: "Operator.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Operator-metod. Accepterar besökaren IOperatorSelector som tillhandahåller bearbetning av operatorer"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/operator/accept/
 ---
-## Operator.Accept metod
+## Operator.Accept method
 
-Accepterar besökare IOperatorSelector som tillhandahåller bearbetning av operatörer.
+Accepterar besökaren IOperatorSelector som tillhandahåller bearbetning av operatorer.
 
 ```csharp
 public abstract void Accept(IOperatorSelector visitor)
@@ -18,9 +18,11 @@ public abstract void Accept(IOperatorSelector visitor)
 | --- | --- | --- |
 | besökare | IOperatorSelector | Besökarobjekt |
 
-### Se Även
+### Se även
 
 * interface [IOperatorSelector](../../ioperatorselector/)
 * class [Operator](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

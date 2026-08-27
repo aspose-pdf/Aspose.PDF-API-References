@@ -1,21 +1,23 @@
 ---
-title: ChoiceField.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField-egenskap. Hämtar eller ställer in index för det valda alternativet. Denna egenskap gör det möjligt att ändra valet
+title: "ChoiceField.Selected"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ChoiceField-egenskap. Hämtar eller anger index för valt alternativ. Denna egenskap tillåter att ändra urvalet."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/choicefield/selected/
 ---
-## ChoiceField.Selected-egenskap
+## ChoiceField.Selected property
 
-Hämtar eller ställer in index för det valda alternativet. Denna egenskap gör det möjligt att ändra valet.
+Hämtar eller anger index för valt alternativ. Denna egenskap möjliggör att ändra urvalet.
 
 ```csharp
 public virtual int Selected { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ChoiceField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

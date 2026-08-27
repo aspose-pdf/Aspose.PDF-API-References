@@ -1,14 +1,14 @@
 ---
-title: Enum BorderCornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BorderCornerStyle enum. Uppräkning av kantens hörnstilar för kant
+title: "Enum BorderCornerStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.BorderCornerStyle enum. Enumererar hörnstilar för kant."
 type: docs
-weight: 2890
+weight: 3000
 url: /sv/net/aspose.pdf/bordercornerstyle/
 ---
-## BorderCornerStyle uppräkning
+## BorderCornerStyle enumeration
 
-Uppräkning av kantens hörnstilar för kant.
+Enumererar hörnstilar för kant.
 
 ```csharp
 public enum BorderCornerStyle
@@ -18,10 +18,12 @@ public enum BorderCornerStyle
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Ingen | `0` | Ingen kantstil. |
-| Rund | `1` | Rund kantstil. |
+| None | `0` | Ingen kantstil. |
+| Round | `1` | Rund kantstil. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

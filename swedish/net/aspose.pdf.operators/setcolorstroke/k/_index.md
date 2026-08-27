@@ -1,21 +1,23 @@
 ---
-title: SetColorStroke.K
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke-egenskap. Hämtar eller ställer in den svarta komponenten
+title: "SetColorStroke.K"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetColorStroke-egenskap. Hämtar eller anger den svarta komponenten"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.operators/setcolorstroke/k/
 ---
-## SetColorStroke.K-egenskap
+## SetColorStroke.K property
 
-Hämtar eller ställer in den svarta komponenten.
+Hämtar eller anger den svarta komponenten.
 
 ```csharp
 public double K { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetColorStroke](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Layer.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Lager egenskap. Hämtar lagerinnehållet
+title: "Layer.Contents"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Layer-egenskap. Hämtar lagrets innehåll"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/layer/contents/
 ---
-## Layer.Contents egenskap
+## Layer.Contents property
 
-Hämtar lagerinnehållet.
+Hämtar lagrets innehåll.
 
 ```csharp
 public List<Operator> Contents { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Operator](../../operator/)
-* klass [Layer](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

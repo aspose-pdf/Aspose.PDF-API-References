@@ -1,21 +1,23 @@
 ---
-title: ImageFile.Detail
-second_title: Aspose.PDF for .NET API Reference
-description: ImageFile-egenskap. Hämtar eller ställer in detaljnivån för bilden om den anges av användaren. låg använder färre tokens, du kan välja hög upplösning med hög
+title: "ImageFile.Detail"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageFile‑egenskap. Hämtar eller anger detaljnivån för bilden om den specificeras av användaren. low använder färre token, du kan välja hög upplösning genom att använda high"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/imagefile/detail/
 ---
-## ImageFile.Detail-egenskap
+## ImageFile.Detail property
 
-Hämtar eller ställer in detaljnivån för bilden om den anges av användaren. låg använder färre tokens, du kan välja hög upplösning med hög.
+Hämtar eller anger detaljnivån för bilden om den specificeras av användaren. low använder färre token, du kan välja hög upplösning genom att använda high.
 
 ```csharp
 public string Detail { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageFile](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ImageFile](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

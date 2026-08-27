@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioHoriz
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-egenskap. Flaggan för att ange om radion är ordnade horisontellt eller vertikalt, standardvärdet är sant
+title: "FormEditor.RadioHoriz"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor‑egenskap. Flaggan som indikerar om radioknapparna är placerade horisontellt eller vertikalt, standardvärdet är true"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/formeditor/radiohoriz/
 ---
-## FormEditor.RadioHoriz-egenskap
+## FormEditor.RadioHoriz property
 
-Flaggan för att indikera om radion är arrangerade horisontellt eller vertikalt, standardvärdet är sant.
+Flaggan som indikerar om radioknapparna är ordnade horisontellt eller vertikalt, standardvärdet är true.
 
 ```csharp
 public bool RadioHoriz { get; set; }
@@ -25,8 +25,10 @@ formEditor.AddField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 3
 formEditor.Save();
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

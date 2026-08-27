@@ -1,14 +1,14 @@
 ---
-title: Security.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Säkerhetsmetod. Startar säkerhetsbearbetningen med de angivna parametrarna
+title: "Security.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Security-metod. Startar Security-behandlingen med de angivna parametrarna"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/security/process/
 ---
-## Security.Process metod
+## Security.Process method
 
-Startar [`Security`](../) bearbetningen med de angivna parametrarna.
+Startar [`Security`](../)-behandlingen med de angivna parametrarna.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | IPluginOptions | Ett optionsobjekt som innehåller instruktioner för [`Security`](../). |
+| options | IPluginOptions | Ett alternativobjekt som innehåller instruktioner för [`Security`](../). |
 
 ### Returvärde
 
@@ -24,14 +24,16 @@ Ett ResultContainer-objekt som innehåller resultatet av operationen.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
 | InvalidOperationException |  |
 
-### Se Även
+### Se även
 
-* klass [ResultContainer](../../resultcontainer/)
-* gränssnitt [IPluginOptions](../../ipluginoptions/)
-* klass [Security](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Security](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

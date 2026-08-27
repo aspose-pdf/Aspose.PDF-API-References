@@ -1,21 +1,23 @@
 ---
-title: StructureElement.ClearId
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement metod. Rensa ID för struktur element
+title: "StructureElement.ClearId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-metoden. Rensar ID för strukturelementet"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/clearid/
 ---
-## StructureElement.ClearId metod
+## StructureElement.ClearId method
 
-Rensa ID för struktur element.
+Rensa ID för strukturelementet.
 
 ```csharp
 public void ClearId()
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

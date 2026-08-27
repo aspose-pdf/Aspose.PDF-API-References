@@ -1,14 +1,14 @@
 ---
-title: Class Document.RepairOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocumentRepairOptions klass. Representerar alternativ för att reparera ett PDF-dokument
+title: "Klass Document.RepairOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.DocumentRepairOptions-klass. Representerar alternativ för reparation av ett PDF‑dokument."
 type: docs
-weight: 3840
+weight: 3960
 url: /sv/net/aspose.pdf/document.repairoptions/
 ---
-## Document.RepairOptions klass
+## Document.RepairOptions class
 
-Representerar alternativ för att reparera ett PDF-dokument.
+Representerar alternativ för reparation av ett PDF‑dokument.
 
 ```csharp
 public sealed class RepairOptions
@@ -24,14 +24,16 @@ public sealed class RepairOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | Hämtar eller ställer in ett värde som indikerar huruvida felaktiga generationsnummer i referenser till indirekta objekt ska återställas under reparationsprocessen. |
+| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | Hämtar eller anger ett värde som indikerar om felaktiga generationsnummer i referenser till indirekta objekt ska återställas under reparationsprocessen. |
 
-## Kommentarer
+## Anmärkningar
 
-Denna klass tillhandahåller ett sätt att anpassa reparationsprocessen för ett PDF-dokument.
+Denna klass tillhandahåller ett sätt att anpassa reparationsprocessen för ett PDF‑dokument.
 
-### Se Även
+### Se även
 
-* klass [Document](../document/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

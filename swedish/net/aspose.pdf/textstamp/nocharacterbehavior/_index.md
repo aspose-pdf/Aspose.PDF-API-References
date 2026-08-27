@@ -1,22 +1,24 @@
 ---
-title: TextStamp.NoCharacterBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-egenskap. Hämtar eller ställer in läge som definierar beteende om teckensnitt inte innehåller begärda tecken
+title: "TextStamp.NoCharacterBehavior"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp-egenskap. Hämtar eller anger läge som definierar beteende om teckensnitt inte innehåller begärda tecken"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/textstamp/nocharacterbehavior/
 ---
-## TextStamp.NoCharacterBehavior-egenskap
+## TextStamp.NoCharacterBehavior property
 
-Hämtar eller ställer in läge som definierar beteende om teckensnitt inte innehåller begärda tecken.
+Hämtar eller anger läget som definierar beteendet om teckensnitt inte innehåller de begärda tecknen.
 
 ```csharp
 public NoCharacterAction NoCharacterBehavior { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [NoCharacterAction](../../textstamp.nocharacteraction/)
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

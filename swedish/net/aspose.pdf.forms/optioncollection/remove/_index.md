@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection metod. Tar bort objekt från samlingen, kastar NotImplementedException
+title: "OptionCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptionCollection metod. Tar bort objekt från samlingen kastar NotImplementedException"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.forms/optioncollection/remove/
 ---
-## OptionCollection.Remove metod
+## OptionCollection.Remove method
 
 Tar bort objekt från samlingen, kastar NotImplementedException.
 
@@ -16,15 +16,17 @@ public bool Remove(Option item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | Option | Operatörsobjekt att ta bort. |
+| item | Option | Operatorobjekt att ta bort. |
 
 ### Returvärde
 
 Kastar NotImplementedException
 
-### Se Även
+### Se även
 
-* klass [Option](../../option/)
-* klass [OptionCollection](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

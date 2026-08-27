@@ -1,22 +1,24 @@
 ---
-title: ImageDevice.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice-egenskap. Hämtar eller ställer in renderingalternativ
+title: "ImageDevice.RenderingOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageDevice-egenskap. Hämtar eller anger renderingsalternativ"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.devices/imagedevice/renderingoptions/
 ---
-## ImageDevice.RenderingOptions-egenskap
+## ImageDevice.RenderingOptions property
 
-Hämtar eller ställer in renderingalternativ.
+Hämtar eller anger renderingsalternativ.
 
 ```csharp
 public RenderingOptions RenderingOptions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RenderingOptions](../../../aspose.pdf/renderingoptions/)
-* klass [ImageDevice](../)
-* namnrum [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

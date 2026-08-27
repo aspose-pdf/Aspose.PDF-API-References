@@ -1,14 +1,14 @@
 ---
-title: ExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ExplicitDestination-metod. Returnerar strängrepresentation av ExplicitDestination-objektet
+title: "ExplicitDestination.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExplicitDestination-metod. Returnerar strängrepresentation av ExplicitDestination-objektet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/explicitdestination/tostring/
 ---
-## ExplicitDestination.ToString metod
+## ExplicitDestination.ToString method
 
-Returnerar strängrepresentation av ExplicitDestination-objektet.
+Returnerar strängrepresentation av ExplicitDestination‑objektet.
 
 ```csharp
 public abstract string ToString()
@@ -18,8 +18,10 @@ public abstract string ToString()
 
 Strängrepresentation.
 
-### Se Även
+### Se även
 
-* klass [ExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

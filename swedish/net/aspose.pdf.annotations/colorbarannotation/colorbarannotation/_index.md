@@ -1,14 +1,14 @@
 ---
-title: ColorBarAnnotation.ColorBarAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: ColorBarAnnotation-konstruktör. Skapar en ny ColorBar-anteckning på den angivna sidan
+title: "ColorBarAnnotation.ColorBarAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ColorBarAnnotation-konstruktorn. Skapar en ny ColorBar-annotering på den angivna sidan"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/colorbarannotation/colorbarannotation/
 ---
-## ColorBarAnnotation-konstruktör
+## ColorBarAnnotation constructor
 
-Skapar en ny ColorBar-anteckning på den angivna sidan.
+Skapar en ny ColorBar‑annotation på den angivna sidan.
 
 ```csharp
 public ColorBarAnnotation(Page page, Rectangle rect, ColorsOfCMYK colorOfCMYK = ColorsOfCMYK.Black)
@@ -16,15 +16,17 @@ public ColorBarAnnotation(Page page, Rectangle rect, ColorsOfCMYK colorOfCMYK = 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Dokumentets sida där anteckningen ska skapas. |
-| rect | Rectangle | Obligatorisk rektangel som sätter anteckningens ritområde. |
-| colorOfCMYK | ColorsOfCMYK | Färg för vilken anteckningen ritas. |
+| sida | Page | Dokumentets sida där annoteringen ska skapas. |
+| rect | Rectangle | Obligatorisk rektangel som anger annoteringens ritningsområde. |
+| colorOfCMYK | ColorsOfCMYK | Färg som annoteringen ritas med. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * enum [ColorsOfCMYK](../../colorsofcmyk/)
-* klass [ColorBarAnnotation](../)
+* class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

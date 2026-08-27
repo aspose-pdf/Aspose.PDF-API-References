@@ -1,12 +1,12 @@
 ---
-title: FormEditor.RemoveField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-metod. Ta bort fältet från formuläret
+title: "FormEditor.RemoveField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor metod. Ta bort fält från formuläret"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.facades/formeditor/removefield/
 ---
-## FormEditor.RemoveField metod
+## FormEditor.RemoveField method
 
 Ta bort fält från formuläret.
 
@@ -16,7 +16,7 @@ public void RemoveField(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namnet på fältet som måste tas bort. |
+| fieldName | String | Namn på fältet som måste tas bort. |
 
 ## Exempel
 
@@ -26,8 +26,10 @@ formEditor.RemoveField("listboxField");
 formEditor.RemoveField("textField");
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

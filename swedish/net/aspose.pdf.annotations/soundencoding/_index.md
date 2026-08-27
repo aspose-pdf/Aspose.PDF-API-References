@@ -1,14 +1,14 @@
 ---
-title: Enum SoundEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundEncoding enum. Kodningsformatet för provdata
+title: "Enum SoundEncoding"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.SoundEncoding enum. Kodningsformatet för exempeldata"
 type: docs
-weight: 2550
+weight: 2650
 url: /sv/net/aspose.pdf.annotations/soundencoding/
 ---
-## SoundEncoding-uppräkning
+## SoundEncoding enumeration
 
-Kodningsformatet för provdata.
+Kodningsformatet för exempeldata.
 
 ```csharp
 public enum SoundEncoding
@@ -19,11 +19,13 @@ public enum SoundEncoding
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Raw | `0` | Ospecificerade eller osignerade värden i intervallet 0 till 2^bits - 1. |
-| Signed | `1` | Två-komplementvärden. |
+| Signed | `1` | Tvåkomplementvärden. |
 | MuLaw | `2` | Mu-law-kodade prover. |
 | ALaw | `3` | A-law-kodade prover. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

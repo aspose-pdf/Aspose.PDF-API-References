@@ -1,14 +1,14 @@
 ---
-title: Class TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.TextProperties klass. Representerar textegenskaper som textstorlek, färg, stil etc.
+title: "Klass TextProperties"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.TextProperties-klass. Representerar textegenskaper såsom textstorlek, färg, stil etc."
 type: docs
-weight: 4760
+weight: 4880
 url: /sv/net/aspose.pdf.facades/textproperties/
 ---
-## TextProperties klass
+## TextProperties class
 
-Representerar textegenskaper som: textstorlek, färg, stil etc.
+Representerar textegenskaper såsom: textstorlek, färg, stil etc.
 
 ```csharp
 public sealed class TextProperties
@@ -18,18 +18,20 @@ public sealed class TextProperties
 
 | Namn | Beskrivning |
 | --- | --- |
-| [TextProperties](textproperties/)(double) | Skapar `TextProperties` objekt för den angivna textstorleken |
+| [TextProperties](textproperties/)(double) | Skapar `TextProperties`-objekt för den angivna textstorleken |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Color](../../aspose.pdf.facades/textproperties/color/) { get; set; } | Hämtar eller ställer in textfärgen. |
-| [IsColorSpecified](../../aspose.pdf.facades/textproperties/iscolorspecified/) { get; } | Hämtar eller ställer in ett värde som anger om [`Color`](./color/) egenskapen är specificerad. |
-| [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified/) { get; } | Hämtar eller ställer in ett värde som anger om [`TextSize`](./textsize/) egenskapen är specificerad. |
-| [TextSize](../../aspose.pdf.facades/textproperties/textsize/) { get; set; } | Hämtar eller ställer in textstorleken. |
+| [Color](../../aspose.pdf.facades/textproperties/color/) { get; set; } | Hämtar eller anger textfärg. |
+| [IsColorSpecified](../../aspose.pdf.facades/textproperties/iscolorspecified/) { get; } | Hämtar eller anger ett värde som indikerar om [`Color`](./color/)‑egenskapen är specificerad. |
+| [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified/) { get; } | Hämtar eller anger ett värde som indikerar om egenskapen [`TextSize`](./textsize/) är specificerad. |
+| [TextSize](../../aspose.pdf.facades/textproperties/textsize/) { get; set; } | Hämtar eller anger textstorlek. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

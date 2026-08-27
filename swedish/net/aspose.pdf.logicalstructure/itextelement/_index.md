@@ -1,14 +1,14 @@
 ---
-title: Interface ITextElement
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.ITextElement-gränssnitt. Gränssnitt för att presentera textstrukturens element
+title: "Gränssnitt ITextElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.LogicalStructure.ITextElement gränssnitt. Gränssnitt för att presentera textstrukturelement"
 type: docs
-weight: 6410
+weight: 6550
 url: /sv/net/aspose.pdf.logicalstructure/itextelement/
 ---
-## ITextElement-gränssnitt
+## ITextElement interface
 
-Gränssnitt för att presentera textstrukturens element.
+Gränssnitt för att presentera textstrukturelement.
 
 ```csharp
 public interface ITextElement
@@ -18,7 +18,7 @@ public interface ITextElement
 
 | Namn | Beskrivning |
 | --- | --- |
-| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate/) { get; } | Hämtar StructureTextState-objektet för textstrukturens element. |
+| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate/) { get; } | Hämtar StructureTextState-objektet för textstrukturelementet. |
 
 ## Metoder
 
@@ -26,7 +26,9 @@ public interface ITextElement
 | --- | --- |
 | [SetText](../../aspose.pdf.logicalstructure/itextelement/settext/)(string) | Lägger till textinnehåll till det aktuella textelementet. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

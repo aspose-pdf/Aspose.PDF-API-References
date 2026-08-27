@@ -1,21 +1,23 @@
 ---
-title: AssistantListQueryParameters.AssistantListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantListQueryParameters-konstruktorn. Den förvalda konstruktorn
+title: "AssistantListQueryParameters.AssistantListQueryParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AssistantListQueryParameters konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/assistantlistqueryparameters/assistantlistqueryparameters/
 ---
-## AssistantListQueryParameters-konstruktorn
+## AssistantListQueryParameters constructor
 
-Den förvalda konstruktorn.
+Standardkonstruktorn.
 
 ```csharp
 public AssistantListQueryParameters()
 ```
 
-### Se Även
+### Se även
 
-* klass [AssistantListQueryParameters](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AssistantListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: PdfExtractor.ExtractImageMode
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-egenskap. Ställer in läget för att extrahera bilder
+title: "PdfExtractor.ExtractImageMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-egenskap. Anger läget för bildextraktionsprocessen."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/pdfextractor/extractimagemode/
 ---
-## PdfExtractor.ExtractImageMode-egenskap
+## PdfExtractor.ExtractImageMode property
 
-Ställer in läget för att extrahera bilder.
+Ställer in läget för bildextraktionsprocessen.
 
 ```csharp
 public ExtractImageMode ExtractImageMode { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Standardvärdet är ExtractImageMode.DefinedInResources som extraherar alla bilder som definieras i resurser. För att extrahera faktiskt visade bilder bör läget ExtractImageMode.ActuallyUsed användas.
+Standardvärdet är ExtractImageMode.DefinedInResources som extraherar alla bilder som definierats i resurser. För att extrahera faktiskt visade bilder bör läget ExtractImageMode.ActuallyUsed användas.
 
-### Se Även
+### Se även
 
 * enum [ExtractImageMode](../../../aspose.pdf/extractimagemode/)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection-metod. Kopierar array av anteckningar till samlingen
+title: "AnnotationCollection.CopyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationCollection metod. Kopierar array av annotationer till samlingen"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.annotations/annotationcollection/copyto/
 ---
-## AnnotationCollection.CopyTo metod
+## AnnotationCollection.CopyTo method
 
-Kopierar array av anteckningar till samlingen.
+Kopierar en array av annotationer till samlingen.
 
 ```csharp
 public void CopyTo(Annotation[] array, int index)
@@ -17,11 +17,13 @@ public void CopyTo(Annotation[] array, int index)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | array | Annotation[] | Array att kopiera till samlingen. |
-| index | Int32 | Startindex där samlingen kommer att kopieras. |
+| index | Int32 | Startindex där samlingen ska kopieras. |
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../annotation/)
-* klass [AnnotationCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

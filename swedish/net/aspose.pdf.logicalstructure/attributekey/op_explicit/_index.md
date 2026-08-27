@@ -1,7 +1,7 @@
 ---
-title: AttributeKey.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-metod. Utför en explicit konvertering från String till AttributeKey
+title: "AttributeKey.op_Explicit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey-metod. Utför en explicit konvertering från String till AttributeKey"
 type: docs
 weight: 450
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/op_explicit/
@@ -16,14 +16,16 @@ public static explicit operator AttributeKey(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Attributnyckeln. |
+| nyckel | String | Attributnyckeln. |
 
 ### Returvärde
 
 Resultatet av konverteringen.
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

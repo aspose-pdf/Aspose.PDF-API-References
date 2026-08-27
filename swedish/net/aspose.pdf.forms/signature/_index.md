@@ -1,14 +1,14 @@
 ---
-title: Class Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.Signature klass. En abstrakt klass som representerar signaturobjektet i pdf-dokumentet. Signaturer är fält med värden av signaturobjekt, de sista innehåller data som används för att verifiera dokumentets giltighet.
+title: "Klassen Signature"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Forms.Signature klass. En abstrakt klass som representerar signaturobjekt i pdf-dokumentet. Signaturer är fält med värden av signaturobjekt som i sin tur innehåller data som används för att verifiera dokumentets giltighet"
 type: docs
-weight: 5270
+weight: 5390
 url: /sv/net/aspose.pdf.forms/signature/
 ---
-## Signatur klass
+## Signature class
 
-En abstrakt klass som representerar signaturobjektet i pdf-dokumentet. Signaturer är fält med värden av signaturobjekt, de sista innehåller data som används för att verifiera dokumentets giltighet.
+En abstrakt klass som representerar signaturobjekt i pdf-dokumentet. Signaturer är fält med värden av signaturobjekt, där de sista innehåller data som används för att verifiera dokumentets giltighet.
 
 ```csharp
 public abstract class Signature
@@ -18,38 +18,41 @@ public abstract class Signature
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Signature](signature/#constructor)() | Initierar en ny instans av `Signature` klassen. |
-| [Signature](signature/#constructor_1)(Stream, string) | Initierar en ny instans av `Signature` klassen. |
-| [Signature](signature/#constructor_2)(string, string) | Initierar en ny instans av `Signature` klassen. |
+| [Signature](signature/#constructor)() | Initierar en ny instans av `Signature`-klassen. |
+| [Signature](signature/#constructor_1)(Stream, string) | Initierar en ny instans av `Signature`-klassen. |
+| [Signature](signature/#constructor_2)(string, string) | Initierar en ny instans av `Signature`-klassen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
 | [Authority](../../aspose.pdf.forms/signature/authority/) { get; set; } | Namnet på personen eller myndigheten som signerar dokumentet. |
-| [AvoidEstimatingSignatureLength](../../aspose.pdf.forms/signature/avoidestimatingsignaturelength/) { get; set; } | Hämtar och ställer in ett alternativ som avgör om längden på en signatur ska uppskattas. |
-| [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | En array av par av heltal (startbyteoffset, längd i byte) som ska beskriva det exakta byteintervallet för digestberäkningen. |
-| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | Information som tillhandahålls av signatären för att möjliggöra för en mottagare att kontakta signatären för att verifiera signaturen, t.ex. ett telefonnummer. |
-| [CustomAppearance](../../aspose.pdf.forms/signature/customappearance/) { get; set; } | Hämtar/ställer in den anpassade utseendet. |
-| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | Delegaten för att anpassa signaturen av dokumenthashen. |
-| [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | Tiden för signeringen. |
-| [DefaultSignatureLength](../../aspose.pdf.forms/signature/defaultsignaturelength/) { get; set; } | Hämtar eller ställer in standardlängden för signaturdata i byte. |
-| [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | CPU-värdnamn eller fysisk plats för signeringen. |
-| [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | Hämtar/ställer in ocsp-inställningar. |
-| [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | Anledningen till signeringen, såsom (Jag godkänner, Pip B.). |
-| [ShowProperties](../../aspose.pdf.forms/signature/showproperties/) { get; set; } | Tvinga att visa/dölja signaturens egenskaper. Om ShowProperties är sant har signaturfältet ett fördefinierat format av utseende (strängar att representera): ------------------------------------------- Digitalt signerad av {certifikatets ämne} Datum: {signature.Date} Anledning: {signature.Reason} Plats: {signature.Location} ------------------------------------------- där {X} är en platshållare för X-värdet. Signaturen kan också ha en bild, i så fall placeras de listade strängarna över bilden. ShowProperties är sant som standard. |
-| [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings/) { get; set; } | Hämtar/ställer in tidsstämpelinställningar. |
-| [UseLtv](../../aspose.pdf.forms/signature/useltv/) { get; set; } | Hämtar/ställer in ltv-valideringsflagga. |
+| [AvoidEstimatingSignatureLength](../../aspose.pdf.forms/signature/avoidestimatingsignaturelength/) { get; set; } | Hämtar och anger ett alternativ som avgör om man ska undvika att uppskatta längden på en signatur. |
+| [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | En array av heltalpar (startbyteoffset, längd i byte) som ska beskriva det exakta byteintervallet för digestberäkningen. |
+| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | Information som tillhandahålls av undertecknaren för att möjliggöra att mottagaren kan kontakta undertecknaren för att verifiera signaturen, t.ex. ett telefonnummer. |
+| [CustomAppearance](../../aspose.pdf.forms/signature/customappearance/) { get; set; } | Hämtar/anger det anpassade utseendet. |
+| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | Delegaten för att anpassat signera dokumenthashen. |
+| [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | Tidpunkten för signering. |
+| [DefaultSignatureLength](../../aspose.pdf.forms/signature/defaultsignaturelength/) { get; set; } | Hämtar eller anger standardlängden för signaturdata i byte. |
+| [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | CPU-värdnamnet eller den fysiska platsen för signeringen. |
+| [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | Hämtar/anger OCSP-inställningar. |
+| [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | Anledningen till signeringen, till exempel (Jag samtycker, Pip B.). |
+| [ShowProperties](../../aspose.pdf.forms/signature/showproperties/) { get; set; } | Tvingar att visa/dölja signaturens egenskaper. Om ShowProperties är true har signaturfältet ett fördefinierat format för utseende (strängar att representera): ------------------------------------------- Digitalt signerat av {certificate subject} Datum: {signature.Date} Orsak: {signature.Reason} Plats: {signature.Location} ------------------------------------------- där {X} är en platshållare för X‑värdet. Signaturen kan också ha en bild; i så fall placeras de listade strängarna över bilden. ShowProperties är true som standard. |
+| [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings/) { get; set; } | Hämtar/anger tidsstämpelinställningar. |
+| [UseLtv](../../aspose.pdf.forms/signature/useltv/) { get; set; } | Hämtar/anger LTV-valideringsflagga. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Hämtar information om signaturalgoritmen som används i signaturen. |
-| [Verify](../../aspose.pdf.forms/signature/verify/#verify)() | Verifiera dokumentet angående denna signatur och returnera sant om dokumentet är giltigt eller annars falskt. |
-| [Verify](../../aspose.pdf.forms/signature/verify/#verify_1)(ValidationOptions, out ValidationResult) | Verifiera dokumentet angående denna signatur och returnera sant om dokumentet är giltigt eller annars falskt. |
+| [Verify](../../aspose.pdf.forms/signature/verify/#verify)() | Verifiera dokumentet med avseende på denna signatur och returnera true om dokumentet är giltigt annars false. |
+| [Verify](../../aspose.pdf.forms/signature/verify/#verify_1)(ValidationOptions, out ValidationResult) | Verifiera dokumentet med avseende på denna signatur och returnera true om dokumentet är giltigt annars false. |
+| [Verify](../../aspose.pdf.forms/signature/verify/#verify_2)(X509Certificate2, ValidationOptions, out ValidationResult) | Verifiera dokumentet med avseende på denna signatur och returnera true om dokumentet är giltigt annars false. Verifieringen utförs med hjälp av det externa offentliga nyckelcertifikatet. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

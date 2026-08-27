@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.ExportBookmarksToHtml
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor metod. Exporterar bokmärken till HTML-fil
+title: "PdfBookmarkEditor.ExportBookmarksToHtml"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfBookmarkEditor-metod. Exporterar bokmärken till en HTML-fil"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml/
 ---
-## PdfBookmarkEditor.ExportBookmarksToHtml metod
+## PdfBookmarkEditor.ExportBookmarksToHtml method
 
-Exporterar bokmärken till HTML-fil.
+Exporterar bokmärken till en HTML-fil.
 
 ```csharp
 public static void ExportBookmarksToHtml(string inPdfFile, string outHtmlFile)
@@ -16,8 +16,8 @@ public static void ExportBookmarksToHtml(string inPdfFile, string outHtmlFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inPdfFile | Sträng | Inmatad PDF-fil vars bokmärken kommer att exporteras. |
-| outHtmlFile | Sträng | Utmatad HTML-fil |
+| inPdfFile | String | Inmatnings-PDF-filen som bokmärken kommer att exporteras från. |
+| outHtmlFile | String | Utdata HTML-fil |
 
 ## Exempel
 
@@ -25,8 +25,10 @@ public static void ExportBookmarksToHtml(string inPdfFile, string outHtmlFile)
 PdfBookmarkEditor.ExtractBookmarksToHTML("example.pdf", "bookmarks.html");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfBookmarkEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

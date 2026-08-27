@@ -1,14 +1,14 @@
 ---
-title: Enum FormType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.FormType enum. Uppräkning av möjliga typer av Acro Form
+title: "Enum FormType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Forms.FormType enum. Uppräkning av möjliga typer av AcroForm"
 type: docs
-weight: 5100
+weight: 5220
 url: /sv/net/aspose.pdf.forms/formtype/
 ---
-## FormType uppräkning
+## FormType enumeration
 
-Uppräkning av möjliga typer av Acro Form.
+Enumeration av möjliga typer av Acro Form.
 
 ```csharp
 public enum FormType
@@ -19,10 +19,12 @@ public enum FormType
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Standard | `0` | Standard AcroForm. |
-| Statisk | `1` | Statisk XFA-form. |
-| Dynamisk | `2` | Dynamisk XFA-form. |
+| Static | `1` | Statisk XFA-form. |
+| Dynamic | `2` | Dynamisk XFA-form. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

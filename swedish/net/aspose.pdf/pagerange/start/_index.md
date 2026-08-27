@@ -1,21 +1,23 @@
 ---
-title: PageRange.Start
-second_title: Aspose.PDF for .NET API Reference
-description: PageRange-egenskap. Hämtar eller ställer in det första sidnumret
+title: "PageRange.Start"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageRange-egenskap. Hämtar eller anger startsidnumret"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/pagerange/start/
 ---
-## PageRange.Start-egenskap
+## PageRange.Start property
 
-Hämtar eller ställer in det första sidnumret.
+Hämtar eller anger startsidans nummer.
 
 ```csharp
 public int Start { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageRange](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageRange](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

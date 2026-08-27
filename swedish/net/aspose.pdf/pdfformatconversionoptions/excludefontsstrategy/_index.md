@@ -1,22 +1,24 @@
 ---
-title: PdfFormatConversionOptions.ExcludeFontsStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions egenskap. Strategier för att utesluta överflödiga typsnitt och minska dokumentfilstorleken. Denna parameter har mening endast när flaggan OptimizeFileSize är inställd på true. Som standard används en kombination av strategierna SubsetFonts och RemoveDuplicatedFonts.
+title: "PdfFormatConversionOptions.ExcludeFontsStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFormatConversionOptions-egenskap. Strategier för att utesluta överflödiga teckensnitt och minska dokumentfilens storlek. Denna parameter har mening endast när flaggan OptimizeFileSize är satt till true. Som standard används en kombination av strategierna SubsetFonts och RemoveDuplicatedFonts."
 type: docs
-weight: 60
+weight: 70
 url: /sv/net/aspose.pdf/pdfformatconversionoptions/excludefontsstrategy/
 ---
-## PdfFormatConversionOptions.ExcludeFontsStrategy egenskap
+## PdfFormatConversionOptions.ExcludeFontsStrategy property
 
-Strategi(er) för att utesluta överflödiga typsnitt och minska dokumentfilstorleken. Denna parameter har mening endast när flaggan [`OptimizeFileSize`](../optimizefilesize/) är inställd på true. Som standard används en kombination av strategierna SubsetFonts och RemoveDuplicatedFonts.
+Strategi(er) för att utesluta överflödiga teckensnitt och minska dokumentfilens storlek. Denna parameter har mening endast när flaggan [`OptimizeFileSize`](../optimizefilesize/) är satt till true. Som standard används en kombination av strategierna SubsetFonts och RemoveDuplicatedFonts.
 
 ```csharp
 public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [RemoveFontsStrategy](../../pdfformatconversionoptions.removefontsstrategy/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

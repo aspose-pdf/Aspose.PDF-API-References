@@ -1,12 +1,12 @@
 ---
-title: Class PatternColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.PatternColorSpace klass. Representerar basmönsterklass
+title: "Klass PatternColorSpace"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Drawing.PatternColorSpace-klass. Representerar basmönsterklass"
 type: docs
-weight: 3980
+weight: 4100
 url: /sv/net/aspose.pdf.drawing/patterncolorspace/
 ---
-## PatternColorSpace klass
+## PatternColorSpace class
 
 Representerar basmönsterklass.
 
@@ -14,7 +14,9 @@ Representerar basmönsterklass.
 public abstract class PatternColorSpace
 ```
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

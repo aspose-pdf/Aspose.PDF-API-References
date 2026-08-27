@@ -1,12 +1,12 @@
 ---
-title: Class Resources.ExtGStateValue
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ResourcesExtGStateValue klass. Representerar ExtGStates med vissa värden
+title: "Klass Resources.ExtGStateValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ResourcesExtGStateValue‑klass. Representerar ExtGStates med vissa värden."
 type: docs
-weight: 9780
+weight: 9930
 url: /sv/net/aspose.pdf/resources.extgstatevalue/
 ---
-## Resources.ExtGStateValue klass
+## Resources.ExtGStateValue class
 
 Representerar ExtGStates med vissa värden.
 
@@ -28,8 +28,10 @@ public class ExtGStateValue
 | [ca](../../aspose.pdf/resources.extgstatevalue/ca) { get; } |  |
 | [Name](../../aspose.pdf/resources.extgstatevalue/name) { get; } |  |
 
-### Se Även
+### Se även
 
-* klass [Resources](../resources/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [Resources](../resources/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

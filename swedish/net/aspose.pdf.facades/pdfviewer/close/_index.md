@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.Close
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer metod. Stänger fasaden
+title: "PdfViewer.Close"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer-metod. Stänger fasaden"
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf.facades/pdfviewer/close/
 ---
-## PdfViewer.Close metod
+## PdfViewer.Close method
 
 Stänger fasaden.
 
@@ -14,8 +14,10 @@ Stänger fasaden.
 public void Close()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

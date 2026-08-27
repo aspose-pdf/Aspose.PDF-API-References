@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. Sets the document collection for the chat copilot options
+title: "OpenAIChatCopilotOptions.WithDocuments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions metod. Anger dokumentsamlingen för chat‑copilot‑alternativen"
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-Ställer in dokumentkollektionen för chattkopilotalternativen.
+Ställer in dokumentsamlingen för chat copilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(DocumentCollection documentCollection)
@@ -16,24 +16,24 @@ public OpenAIChatCopilotOptions WithDocuments(DocumentCollection documentCollect
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | Den dokumentkollektion som ska ställas in. |
+| documentCollection | DocumentCollection | Dokumentsamlingen att ställa in. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [DocumentCollection](../../documentcollection/)
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-Lägger till flera textdokument i dokumentkollektionen för chattkopilotalternativen.
+Lägger till flera textdokument i dokumentsamlingen för chat copilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<TextDocument> textDocuments)
@@ -41,24 +41,24 @@ public OpenAIChatCopilotOptions WithDocuments(List<TextDocument> textDocuments)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| textDocuments | List`1 | Listan över textdokument som ska läggas till. |
+| textDocuments | List`1 | Listan med textdokument att lägga till. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [TextDocument](../../textdocument/)
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TextDocument](../../textdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-Lägger till flera PDF-dokument i dokumentkollektionen för chattkopilotalternativen.
+Lägger till flera PDF-dokument i dokumentsamlingen för chat copilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
@@ -66,24 +66,24 @@ public OpenAIChatCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pdfDocuments | List`1 | Listan över PDF-dokument som ska läggas till. |
+| pdfDocuments | List`1 | Listan med PDF-dokument att lägga till. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [PdfDocument](../../pdfdocument/)
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-Lägger till flera dokumentvägar i dokumentkollektionen för chattkopilotalternativen.
+Lägger till flera dokumentsökvägar i dokumentsamlingen för chat copilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<string> filePaths)
@@ -91,14 +91,16 @@ public OpenAIChatCopilotOptions WithDocuments(List<string> filePaths)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filePaths | List`1 | Listan över filvägar som ska läggas till. |
+| filePaths | List`1 | Listan med filsökvägar att lägga till. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.B4
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes fält. B4 papper 250 mm med 353 mm
+title: "PaperSizes.B4"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fältet. B4-papper 250 mm gånger 353 mm"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.printing/papersizes/b4/
 ---
-## PaperSizes.B4 fält
+## PaperSizes.B4 field
 
-B4 papper (250 mm med 353 mm).
+B4-papper (250 mm x 353 mm).
 
 ```csharp
 public static readonly PaperSize B4;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

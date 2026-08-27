@@ -1,22 +1,24 @@
 ---
-title: ImageDescriptionResult.PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescriptionResult-egenskap. Hämtar eller ställer in PDF-dokumentet
+title: "ImageDescriptionResult.PdfDocument"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageDescriptionResult egenskap. Hämtar eller anger PDF-dokumentet"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/imagedescriptionresult/pdfdocument/
 ---
-## ImageDescriptionResult.PdfDocument-egenskap
+## ImageDescriptionResult.PdfDocument property
 
-Hämtar eller ställer in PDF-dokumentet.
+Hämtar eller anger PDF‑dokumentet.
 
 ```csharp
 public PdfDocument PdfDocument { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfDocument](../../pdfdocument/)
-* klass [ImageDescriptionResult](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

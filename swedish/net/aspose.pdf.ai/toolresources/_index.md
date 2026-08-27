@@ -1,14 +1,14 @@
 ---
-title: Class ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ToolResources klass. Representerar en uppsättning resurser som används av assistentens verktyg. Resurserna är specifika för typen av verktyg. Till exempel kräver verktyget code_interpreter en lista över fil-IDn medan verktyget file_search kräver en lista över vektorbutiks-IDn.
+title: "Klass ToolResources"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.ToolResources-klass. Representerar en uppsättning resurser som används av assistentverktygen. Resurserna är specifika för verktygstypen. Till exempel kräver verktyget code_interpreter en lista med fil‑ID medan verktyget file_search kräver en lista med vektor‑lagrings‑ID."
 type: docs
-weight: 1230
+weight: 1320
 url: /sv/net/aspose.pdf.ai/toolresources/
 ---
-## ToolResources klass
+## ToolResources class
 
-Representerar en uppsättning resurser som används av assistentens verktyg. Resurserna är specifika för typen av verktyg. Till exempel kräver verktyget code_interpreter en lista över fil-ID:n, medan verktyget file_search kräver en lista över vektorbutiks-ID:n.
+Representerar en uppsättning resurser som används av assistentens verktyg. Resurserna är specifika för verktygstypen. Till exempel kräver verktyget code_interpreter en lista med fil-ID:n, medan verktyget file_search kräver en lista med vektorlagrings-ID:n.
 
 ```csharp
 public class ToolResources
@@ -24,10 +24,12 @@ public class ToolResources
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CodeInterpreter](../../aspose.pdf.ai/toolresources/codeinterpreter/) { get; set; } | Hämtar eller ställer in resurserna för kodtolkaren. |
-| [FileSearch](../../aspose.pdf.ai/toolresources/filesearch/) { get; set; } | Hämtar eller ställer in resurserna för filsökningen. |
+| [CodeInterpreter](../../aspose.pdf.ai/toolresources/codeinterpreter/) { get; set; } | Hämtar eller anger resurserna för code_interpreter‑verktyget. |
+| [FileSearch](../../aspose.pdf.ai/toolresources/filesearch/) { get; set; } | Hämtar eller anger resurserna för file_search‑verktyget. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: TextItemComparisonStatistics.DeleteOperationsCount
-second_title: Aspose.PDF for .NET API Reference
-description: TextItemComparisonStatistics-egenskap. Hämtar och ställer in antalet raderingsoperationer
+title: "TextItemComparisonStatistics.DeleteOperationsCount"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextItemComparisonStatistics egenskap. Hämtar och sätter antalet borttagningsoperationer"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/
 ---
-## TextItemComparisonStatistics.DeleteOperationsCount-egenskap
+## TextItemComparisonStatistics.DeleteOperationsCount property
 
-Hämtar och ställer in antalet raderingsoperationer.
+Hämtar och anger antalet borttagningsoperationer.
 
 ```csharp
 public int DeleteOperationsCount { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextItemComparisonStatistics](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [TextItemComparisonStatistics](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

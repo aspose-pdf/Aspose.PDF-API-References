@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.C5Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes fält. C5 kuvert 162 mm med 229 mm
+title: "PaperSizes.C5Envelope"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. C5-kuvert 162 mm × 229 mm"
 type: docs
 weight: 340
 url: /sv/net/aspose.pdf.printing/papersizes/c5envelope/
 ---
-## PaperSizes.C5Envelope fält
+## PaperSizes.C5Envelope field
 
-C5 kuvert (162 mm med 229 mm).
+C5-kuvert (162 mm by 229 mm).
 
 ```csharp
 public static readonly PaperSize C5Envelope;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

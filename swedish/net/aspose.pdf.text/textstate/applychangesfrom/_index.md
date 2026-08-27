@@ -1,14 +1,14 @@
 ---
-title: TextState.ApplyChangesFrom
-second_title: Aspose.PDF for .NET API Reference
-description: TextState-metod. Tillämpa inställningar från en annan textState
+title: "TextState.ApplyChangesFrom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextState-metod. Tillämpar inställningar från ett annat textState."
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.text/textstate/applychangesfrom/
 ---
-## TextState.ApplyChangesFrom metod
+## TextState.ApplyChangesFrom method
 
-Tillämpa inställningar från en annan textState.
+Tillämpar inställningar från ett annat textState.
 
 ```csharp
 public virtual void ApplyChangesFrom(TextState textState)
@@ -16,14 +16,16 @@ public virtual void ApplyChangesFrom(TextState textState)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| textState | TextState | Text state-objekt. |
+| textState | TextState | Texttillståndsobjekt. |
 
-## Kommentarer
+## Anmärkningar
 
-Endast de egenskaper som ändrades uttryckligen kommer att kopieras.
+Endast de egenskaper som ändrats explicit kommer att kopieras.
 
-### Se Även
+### Se även
 
-* klass [TextState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

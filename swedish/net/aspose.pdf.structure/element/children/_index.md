@@ -1,22 +1,24 @@
 ---
-title: Element.Children
-second_title: Aspose.PDF for .NET API Reference
-description: Elementegenskap. Hämtar samlingen av barn-element
+title: "Element.Children"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Elementegenskap. Hämtar samling av underordnade element"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.structure/element/children/
 ---
-## Element.Children-egenskap
+## Element.Children property
 
-Hämtar samlingen av barn-element.
+Hämtar samling av underordnade element.
 
 ```csharp
 public ElementCollection Children { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ElementCollection](../../elementcollection/)
-* klass [Element](../)
-* namnrymd [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* samling [Aspose.PDF](../../../)
+* class [ElementCollection](../../elementcollection/)
+* class [Element](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

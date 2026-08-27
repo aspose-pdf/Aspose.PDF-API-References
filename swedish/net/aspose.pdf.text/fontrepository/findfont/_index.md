@@ -1,7 +1,7 @@
 ---
-title: FontRepository.FindFont
-second_title: Aspose.PDF for .NET API Reference
-description: FontRepository-metod. Söker och returnerar teckensnitt med angivet teckensnittsnamn
+title: "FontRepository.FindFont"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontRepository metod. Söker och returnerar teckensnitt med angivet teckensnittsnamn"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/fontrepository/findfont/
@@ -20,44 +20,44 @@ public static Font FindFont(string fontName)
 
 ### Returvärde
 
-Teckensnittsobjekt.
+Teckensnittobjekt.
 
 ## Exempel
 
-Exemplet visar hur man hittar teckensnitt och ersätter teckensnittet för texten på första sidan.
+Exemplet visar hur man hittar ett teckensnitt och ersätter teckensnittet i texten på den första sidan.
 
 ```csharp
-// Find font
+// Hitta teckensnitt
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Skapa ett TextFragmentAbsorber‑objekt för att hitta alla förekomster av texten \"hello world\"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Acceptera absorberaren för första sidan
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Ändra teckensnitt för den första textförekomsten
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Spara dokument
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Se Även
+### Se även
 
-* klass [Font](../../font/)
-* klass [FontRepository](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, bool) {#findfont_3}
 
-Söker och returnerar teckensnitt med angivet teckensnittsnamn och ignorerar eller beaktar skiftlägeskänslighet.
+Söker och returnerar teckensnitt med angivet teckensnittsnamn, med eller utan hänsyn till skiftlägeskänslighet.
 
 ```csharp
 public static Font FindFont(string fontName, bool ignoreCase)
@@ -70,37 +70,37 @@ public static Font FindFont(string fontName, bool ignoreCase)
 
 ### Returvärde
 
-Teckensnittsobjekt.
+Teckensnittobjekt.
 
 ## Exempel
 
-Exemplet visar hur man hittar teckensnitt och ersätter teckensnittet för texten på första sidan.
+Exemplet visar hur man hittar ett teckensnitt och ersätter teckensnittet i texten på den första sidan.
 
 ```csharp
-// Find font
+// Hitta teckensnitt
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Skapa ett TextFragmentAbsorber‑objekt för att hitta alla förekomster av texten \"hello world\"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Acceptera absorberaren för första sidan
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Ändra teckensnitt för den första textförekomsten
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Spara dokument
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Se Även
+### Se även
 
-* klass [Font](../../font/)
-* klass [FontRepository](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -116,49 +116,49 @@ public static Font FindFont(string fontFamilyName, FontStyles stl)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | fontFamilyName | String | Teckensnittsfamiljens namn. |
-| stl | FontStyles | Teckensnittsstilvärde. |
+| stl | FontStyles | Teckensnittsstilsvärde. |
 
 ### Returvärde
 
-Teckensnittsobjekt som motsvarar sökförfrågningsparametrarna.
+Teckensnittobjekt som motsvarar sökförfrågningsparametrar.
 
 ## Exempel
 
-Exemplet visar hur man hittar teckensnitt och ersätter teckensnittet för texten på första sidan.
+Exemplet visar hur man hittar ett teckensnitt och ersätter teckensnittet i texten på den första sidan.
 
 ```csharp
-// Find font
+// Hitta teckensnitt
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// Skapa TextFragmentAbsorber-objekt för att hitta alla "hello world"-textförekomster
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Acceptera absorberaren för första sidan
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// Ändra teckensnitt för den första textförekomsten
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Spara dokument
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Se Även
+### Se även
 
-* klass [Font](../../font/)
+* class [Font](../../font/)
 * enum [FontStyles](../../fontstyles/)
-* klass [FontRepository](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-Söker och returnerar teckensnitt med angivet teckensnittsnamn och teckensnittsstil och ignorerar eller beaktar skiftlägeskänslighet.
+Söker och returnerar teckensnitt med angivet teckensnittsnamn och teckensnittsstil, med eller utan hänsyn till skiftlägeskänslighet.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
@@ -167,41 +167,43 @@ public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCa
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | fontFamilyName | String | Teckensnittsfamiljens namn. |
-| stl | FontStyles | Teckensnittsstilvärde. |
+| stl | FontStyles | Teckensnittsstilsvärde. |
 | ignoreCase | Boolean | skiftlägeskänslighet |
 
 ### Returvärde
 
-Teckensnittsobjekt som motsvarar sökförfrågningsparametrarna.
+Teckensnittobjekt som motsvarar sökförfrågningsparametrar.
 
 ## Exempel
 
-Exemplet visar hur man hittar teckensnitt och ersätter teckensnittet för texten på första sidan.
+Exemplet visar hur man hittar ett teckensnitt och ersätter teckensnittet i texten på den första sidan.
 
 ```csharp
-// Find font
+// Hitta teckensnitt
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// Skapa TextFragmentAbsorber-objekt för att hitta alla "hello world"-textförekomster
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Acceptera absorberaren för första sidan
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// Ändra teckensnitt för den första textförekomsten
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Spara dokument
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Se Även
+### Se även
 
-* klass [Font](../../font/)
+* class [Font](../../font/)
 * enum [FontStyles](../../fontstyles/)
-* klass [FontRepository](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

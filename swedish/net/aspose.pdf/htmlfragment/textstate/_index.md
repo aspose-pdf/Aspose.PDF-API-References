@@ -1,22 +1,24 @@
 ---
-title: HtmlFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment-egenskap. Hämtar eller ställer in teckensnitt
+title: "HtmlFragment.TextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlFragment property. Hämtar eller anger teckensnitt"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/htmlfragment/textstate/
 ---
-## HtmlFragment.TextState-egenskap
+## HtmlFragment.TextState property
 
-Hämtar eller ställer in teckensnitt
+Hämtar eller anger teckensnitt
 
 ```csharp
 public TextState TextState { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [HtmlFragment](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

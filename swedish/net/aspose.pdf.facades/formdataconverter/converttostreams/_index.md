@@ -1,12 +1,12 @@
 ---
-title: FormDataConverter.ConvertToStreams
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter-metod. Konvertera data i tabellen till strömmar
+title: "FormDataConverter.ConvertToStreams"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormDataConverter-metoden. Konvertera data i tabellen till strömmar"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/formdataconverter/converttostreams/
 ---
-## FormDataConverter.ConvertToStreams metod
+## FormDataConverter.ConvertToStreams method
 
 Konvertera data i tabellen till strömmar.
 
@@ -39,9 +39,11 @@ fc.Table = table;
 fc.ConvertToStreams(new Stream[] { stream }, DataType.XML);
 ```
 
-### Se Även
+### Se även
 
 * enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: RegistrationMarkAnnotation.Position
-second_title: Aspose.PDF for .NET API Reference
-description: RegistrationMarkAnnotation-egenskap. Hämtar eller ställer in positionen för registreringsmärket på en sida
+title: "RegistrationMarkAnnotation.Position"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RegistrationMarkAnnotation egenskap. Hämtar eller anger positionen för registreringsmarkeringen på en sida"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/registrationmarkannotation/position/
 ---
-## RegistrationMarkAnnotation.Position-egenskap
+## RegistrationMarkAnnotation.Position property
 
-Hämtar eller ställer in positionen för registreringsmärket på en sida.
+Hämtar eller anger positionen för registreringsmarkören på en sida.
 
 ```csharp
 public PrinterMarkSidePosition Position { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [PrinterMarkSidePosition](../../printermarksideposition/)
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

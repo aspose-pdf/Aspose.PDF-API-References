@@ -1,21 +1,23 @@
 ---
-title: WidgetAnnotation.ReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation-egenskap. Hämtar eller ställer in skrivskyddad status för fältet
+title: "WidgetAnnotation.ReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WidgetAnnotation-egenskap. Hämtar eller anger skrivskyddsstatus för fältet"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.annotations/widgetannotation/readonly/
 ---
-## WidgetAnnotation.ReadOnly-egenskap
+## WidgetAnnotation.ReadOnly property
 
-Hämtar eller ställer in skrivskyddad status för fältet.
+Hämtar eller anger skrivskyddsstatus för fältet.
 
 ```csharp
 public bool ReadOnly { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [WidgetAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

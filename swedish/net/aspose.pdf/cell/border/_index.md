@@ -1,22 +1,24 @@
 ---
-title: Cell.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Cell-egenskap. Hämtar eller ställer in gränsen
+title: "Cell.Border"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cell-egenskap. Hämtar eller anger kanten"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/cell/border/
 ---
-## Cell.Border-egenskap
+## Cell.Border property
 
-Hämtar eller ställer in gränsen.
+Hämtar eller anger kanten.
 
 ```csharp
 public BorderInfo Border { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderInfo](../../borderinfo/)
-* klass [Cell](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderInfo](../../borderinfo/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

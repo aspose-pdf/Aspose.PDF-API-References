@@ -1,12 +1,12 @@
 ---
-title: Png.Png
-second_title: Aspose.PDF for .NET API Reference
-description: Png-konstruktorn. Standardkonstruktorn
+title: "Png.Png"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Png-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/png/png/
 ---
-## Png-konstruktorn
+## Png constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Png()
 ```
 
-### Se Även
+### Se även
 
-* klass [Png](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [Png](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

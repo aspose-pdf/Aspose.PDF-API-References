@@ -1,14 +1,14 @@
 ---
-title: CosPdfName.CosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfName-konstruktorn. Initierar en ny instans av CosPdfName-klassen
+title: "CosPdfName.CosPdfName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfName-konstruktor. Initierar en ny instans av CosPdfName-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.dataeditor/cospdfname/cospdfname/
 ---
-## CosPdfName-konstruktorn
+## CosPdfName constructor
 
-Initierar en ny instans av [`CosPdfName`](../) klassen.
+Initierar en ny instans av [`CosPdfName`](../)-klassen.
 
 ```csharp
 public CosPdfName(string value)
@@ -16,10 +16,12 @@ public CosPdfName(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Sträng | Namnet. |
+| värde | String | Namnet. |
 
-### Se Även
+### Se även
 
-* klass [CosPdfName](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

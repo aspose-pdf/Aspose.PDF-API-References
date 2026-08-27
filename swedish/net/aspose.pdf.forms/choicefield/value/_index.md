@@ -1,21 +1,23 @@
 ---
-title: ChoiceField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField-egenskap. Hämtar eller ställer in värdet för fältet
+title: "ChoiceField.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ChoiceField property. Hämtar eller sätter fältets värde"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.forms/choicefield/value/
 ---
-## ChoiceField.Value-egenskap
+## ChoiceField.Value property
 
-Hämtar eller ställer in värdet för fältet.
+Hämtar eller anger värde för fältet.
 
 ```csharp
 public override string Value { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ChoiceField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

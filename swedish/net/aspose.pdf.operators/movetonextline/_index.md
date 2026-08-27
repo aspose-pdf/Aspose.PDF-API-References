@@ -1,14 +1,14 @@
 ---
-title: Class MoveToNextLine
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.MoveToNextLine klass. Klass som representerar T-operatorn Flytta till början av nästa rad
+title: "Klass MoveToNextLine"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.MoveToNextLine class. Klass som representerar T-operatorn Flytta till början av nästa rad"
 type: docs
-weight: 7510
+weight: 7650
 url: /sv/net/aspose.pdf.operators/movetonextline/
 ---
-## MoveToNextLine klass
+## MoveToNextLine class
 
-Klass som representerar T* operatorn (Flytta till början av nästa rad).
+Klass som representerar T*-operatorn (flytta till början av nästa rad).
 
 ```csharp
 public class MoveToNextLine : TextPlaceOperator
@@ -24,18 +24,20 @@ public class MoveToNextLine : TextPlaceOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/movetonextline/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf.operators/movetonextline/tostring/)() | Returnerar texten av operatorn. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| override [ToString](../../aspose.pdf.operators/movetonextline/tostring/)() | Returnerar text för operatorn. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [TextPlaceOperator](../textplaceoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

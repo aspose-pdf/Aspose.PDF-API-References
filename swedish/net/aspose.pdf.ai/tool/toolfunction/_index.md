@@ -1,22 +1,24 @@
 ---
-title: Tool.ToolFunction
-second_title: Aspose.PDF for .NET API Reference
-description: Tool-egenskap. Hämtar eller ställer in funktionen som modellen kan anropa
+title: "Tool.ToolFunction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Tool-egenskap. Hämtar eller anger funktionen som modellen kan anropa"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/tool/toolfunction/
 ---
-## Tool.ToolFunction-egenskap
+## Tool.ToolFunction property
 
-Hämtar eller ställer in funktionen som modellen kan anropa.
+Hämtar eller anger funktionen som modellen kan anropa.
 
 ```csharp
 public Function ToolFunction { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Function](../../function/)
-* klass [Tool](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Function](../../function/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: IconFit.SpreadOnBorder
-second_title: Aspose.PDF for .NET API Reference
-description: IconFit-egenskap. Om sant indikerar att knappens utseende ska skalas för att passa helt inom gränserna för anteckningen utan att ta hänsyn till linjebredden på gränsen
+title: "IconFit.SpreadOnBorder"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IconFit‑egenskap. Om true indikerar att knappens utseende ska skalas så att det helt passar inom annoteringens gränser utan att ta hänsyn till kantlinjens bredd"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/iconfit/spreadonborder/
 ---
-## IconFit.SpreadOnBorder-egenskap
+## IconFit.SpreadOnBorder property
 
-Om sant indikerar att knappens utseende ska skalas för att passa helt inom gränserna för anteckningen utan att ta hänsyn till linjebredden på gränsen.
+Om true, indikerar att knappens utseende ska skalas för att passa helt inom gränserna för annotationen utan att ta hänsyn till kantlinjens bredd.
 
 ```csharp
 public bool SpreadOnBorder { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [IconFit](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [IconFit](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

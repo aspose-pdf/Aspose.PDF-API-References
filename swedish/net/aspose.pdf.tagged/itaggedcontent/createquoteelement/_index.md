@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateQuoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent metod. Skapar QuoteElement
+title: "ITaggedContent.CreateQuoteElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent-metod. Skapar QuoteElement"
 type: docs
-weight: 230
+weight: 260
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createquoteelement/
 ---
-## ITaggedContent.CreateQuoteElement metod
+## ITaggedContent.CreateQuoteElement method
 
 Skapar [`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement/).
 
@@ -16,11 +16,13 @@ public QuoteElement CreateQuoteElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

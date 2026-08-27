@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTableTHElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent metod. Skapar TableTHElement
+title: "ITaggedContent.CreateTableTHElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar TableTHElement"
 type: docs
-weight: 330
+weight: 360
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createtablethelement/
 ---
-## ITaggedContent.CreateTableTHElement metod
+## ITaggedContent.CreateTableTHElement method
 
 Skapar [`TableTHElement`](../../../aspose.pdf.logicalstructure/tablethelement/).
 
@@ -16,11 +16,13 @@ public TableTHElement CreateTableTHElement()
 
 ### Returvärde
 
-Skapat strukturelement.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [TableTHElement](../../../aspose.pdf.logicalstructure/tablethelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [TableTHElement](../../../aspose.pdf.logicalstructure/tablethelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

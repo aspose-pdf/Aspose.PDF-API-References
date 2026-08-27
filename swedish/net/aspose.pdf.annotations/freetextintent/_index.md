@@ -1,14 +1,14 @@
 ---
-title: Enum FreeTextIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FreeTextIntent enum. Uppräkning av avsikterna för fri textannotering
+title: "Enum FreeTextIntent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.FreeTextIntent-enum. Enumererar avsikterna för fri text-annoteringen."
 type: docs
-weight: 1820
+weight: 1910
 url: /sv/net/aspose.pdf.annotations/freetextintent/
 ---
-## FreeTextIntent uppräkning
+## FreeTextIntent enumeration
 
-Uppräkning av avsikterna för fri textannotering.
+Enumererar avsikterna för fri text-annotation.
 
 ```csharp
 public enum FreeTextIntent
@@ -19,10 +19,12 @@ public enum FreeTextIntent
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Undefined | `0` | Ej definierat tillstånd. |
-| FreeTextCallout | `1` | Betyder att annoteringen är avsedd att fungera som en anrop. |
-| FreeTextTypeWriter | `2` | Betyder att annoteringen är avsedd att fungera som ett klicka-för-att-skriva eller skrivmaskinsobjekt. |
+| FreeTextCallout | `1` | Betyder att annoteringen är avsedd att fungera som en förklaring. |
+| FreeTextTypeWriter | `2` | Betyder att annoteringen är avsedd att fungera som ett klick‑till‑skriv‑ eller skrivmaskinsobjekt. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

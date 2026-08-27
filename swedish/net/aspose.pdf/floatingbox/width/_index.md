@@ -1,21 +1,23 @@
 ---
-title: FloatingBox.Width
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox-egenskap. Hämtar eller ställer in ett flyttal som indikerar bredden på den flytande rutan
+title: "FloatingBox.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FloatingBox-egenskap. Hämtar eller anger ett float-värde som indikerar bredden på den flytande rutan"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/floatingbox/width/
 ---
-## FloatingBox.Width-egenskap
+## FloatingBox.Width property
 
-Hämtar eller ställer in ett flyttal som indikerar bredden på den flytande rutan.
+Hämtar eller anger ett flyttal som indikerar bredden på den flytande rutan.
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FloatingBox](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

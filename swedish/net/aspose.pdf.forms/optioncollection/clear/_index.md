@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection metod. Tar bort alla objekt från samlingen
+title: "OptionCollection.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptionCollection-metod. Tar bort alla objekt från samlingen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.forms/optioncollection/clear/
 ---
-## OptionCollection.Clear metod
+## OptionCollection.Clear method
 
 Tar bort alla objekt från samlingen.
 
@@ -14,8 +14,10 @@ Tar bort alla objekt från samlingen.
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [OptionCollection](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

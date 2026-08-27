@@ -1,22 +1,24 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue
-second_title: Aspose.PDF for .NET API Reference
-description: PdfASymbolicFontEncodingStrategy-egenskap. Anger kö av kodningsunderbord som ska bearbetas
+title: "PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfASymbolicFontEncodingStrategy egenskap. Anger kö av kodningssubtabeller att bearbeta"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/
 ---
-## PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue-egenskap
+## PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue property
 
-Anger kö av kodningsunderbord som ska bearbetas.
+Anger kö av kodningens undertabeller som ska bearbetas.
 
 ```csharp
 public Queue<QueueItem> CmapEncodingTablesPriorityQueue { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
-* klass [PdfASymbolicFontEncodingStrategy](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

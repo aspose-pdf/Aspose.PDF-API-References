@@ -1,21 +1,23 @@
 ---
-title: IPageSetOptions.ExplicitListOfSavedPages
-second_title: Aspose.PDF for .NET API Reference
-description: IPageSetOptions-egenskap. Anger arrayen av sidnummer att konvertera
+title: "IPageSetOptions.ExplicitListOfSavedPages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IPageSetOptions property. Anger arrayen med sidnummer som ska konverteras"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/ipagesetoptions/explicitlistofsavedpages/
 ---
-## IPageSetOptions.ExplicitListOfSavedPages-egenskap
+## IPageSetOptions.ExplicitListOfSavedPages property
 
-Anger arrayen av sidnummer som ska konverteras.
+Specificerar arrayen med sidnummer att konvertera.
 
 ```csharp
 public int[] ExplicitListOfSavedPages { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * interface [IPageSetOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

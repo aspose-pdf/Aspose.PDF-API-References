@@ -1,12 +1,12 @@
 ---
-title: RunStepListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: RunStepListQueryParameters-metoden. Hämtar frågeparametrarna för att lista körsteg
+title: "RunStepListQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunStepListQueryParameters-metod. Hämtar frågeparametrarna för att lista körsteg"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/runsteplistqueryparameters/getqueryparameters/
 ---
-## RunStepListQueryParameters.GetQueryParameters metod
+## RunStepListQueryParameters.GetQueryParameters method
 
 Hämtar frågeparametrarna för att lista körsteg.
 
@@ -16,10 +16,12 @@ public string GetQueryParameters()
 
 ### Returvärde
 
-Frågeparametrarna som en sträng.
+Strängen med frågeparametrar.
 
-### Se Även
+### Se även
 
-* klass [RunStepListQueryParameters](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RunStepListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

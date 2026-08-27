@@ -1,21 +1,23 @@
 ---
-title: PDF3DLightingScheme.Red
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme-fältet. Den röda belysningsschemat
+title: "PDF3DLightingScheme.Red"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DLightingScheme-fält. Det röda belysningsschemat."
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.annotations/pdf3dlightingscheme/red/
 ---
-## PDF3DLightingScheme.Red fält
+## PDF3DLightingScheme.Red field
 
-Det "Röda" belysningsschemat.
+Det "Red"-belysningsschemat.
 
 ```csharp
 public static PDF3DLightingScheme Red;
 ```
 
-### Se Även
+### Se även
 
-* klass [PDF3DLightingScheme](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

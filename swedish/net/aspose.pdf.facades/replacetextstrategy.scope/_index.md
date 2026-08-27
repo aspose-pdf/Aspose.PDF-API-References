@@ -1,14 +1,14 @@
 ---
-title: Enum ReplaceTextStrategy.Scope
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ReplaceTextStrategyScope enum. Område där ersättningsoperationen för text tillämpas REPLACE_FIRST som standard
+title: "Enum ReplaceTextStrategy.Scope"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategyScope enum. Omfattning där ersättningstextoperationen tillämpas REPLACE_FIRST som standard"
 type: docs
-weight: 4690
+weight: 4810
 url: /sv/net/aspose.pdf.facades/replacetextstrategy.scope/
 ---
 ## ReplaceTextStrategy.Scope enumeration
 
-Område där ersättningsoperationen för text tillämpas REPLACE_FIRST som standard
+Omfattning där ersättningstextoperationen tillämpas REPLACE_FIRST som standard
 
 ```csharp
 public enum Scope
@@ -18,11 +18,13 @@ public enum Scope
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| ReplaceFirst | `0` | Ersätt endast första förekomsten av texten på varje berörd sida |
-| ReplaceAll | `1` | Ersätt alla textförekomster på alla berörda sidor |
+| ReplaceFirst | `0` | Ersätt endast den första förekomsten av texten på varje påverkad sida |
+| ReplaceAll | `1` | Ersätt alla textförekomster på alla påverkade sidor |
 
-### Se Även
+### Se även
 
-* klass [ReplaceTextStrategy](../replacetextstrategy/)
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../)
+* class [ReplaceTextStrategy](../replacetextstrategy/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

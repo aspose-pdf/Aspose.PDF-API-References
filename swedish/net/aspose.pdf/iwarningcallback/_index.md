@@ -1,14 +1,14 @@
 ---
-title: Interface IWarningCallback
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IWarningCallback-gränssnitt. Gränssnitt för användarens callback-mekanismstöd
+title: "Gränssnitt IWarningCallback"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.IWarningCallback-gränssnitt. Gränssnitt för stöd av användarens återuppringningsmekanism"
 type: docs
-weight: 5840
+weight: 5970
 url: /sv/net/aspose.pdf/iwarningcallback/
 ---
-## IWarningCallback-gränssnitt
+## IWarningCallback interface
 
-Gränssnitt för användarens callback-mekanismstöd.
+Gränssnitt för stöd av användarens återuppringningsmekanism.
 
 ```csharp
 public interface IWarningCallback
@@ -18,9 +18,11 @@ public interface IWarningCallback
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Warning](../../aspose.pdf/iwarningcallback/warning/)(WarningInfo) | Callback-metoden för vissa programnotifikationer. |
+| [Warning](../../aspose.pdf/iwarningcallback/warning/)(WarningInfo) | Återuppringningsmetoden för vissa programmeddelanden. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

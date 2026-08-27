@@ -1,21 +1,23 @@
 ---
-title: PdfFileInfo.HasOpenPassword
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-egenskap. Returnerar sant om lösenord krävs för att öppna ett lösenordsskyddat pdf-dokument
+title: "PdfFileInfo.HasOpenPassword"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo egenskap. Returnerar sant om ett lösenord krävs för att öppna ett lösenordsskyddat PDF-dokument"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/pdffileinfo/hasopenpassword/
 ---
-## PdfFileInfo.HasOpenPassword-egenskap
+## PdfFileInfo.HasOpenPassword property
 
-Returnerar sant om lösenord krävs för att öppna ett lösenordsskyddat pdf-dokument.
+Returnerar true om ett lösenord krävs för att öppna ett lösenordsskyddat pdf-dokument.
 
 ```csharp
 public bool HasOpenPassword { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

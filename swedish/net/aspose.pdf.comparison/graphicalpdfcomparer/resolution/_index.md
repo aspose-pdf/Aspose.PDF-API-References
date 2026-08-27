@@ -1,22 +1,24 @@
 ---
-title: GraphicalPdfComparer.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer-egenskap. Hämtar och ställer in upplösningen för de resulterande bilderna. Standardvärdet är 150dpi
+title: "GraphicalPdfComparer.Resolution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicalPdfComparer egenskap. Hämtar och anger upplösningen för de resulterande bilderna. Standardvärdet är 150dpi"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.comparison/graphicalpdfcomparer/resolution/
 ---
-## GraphicalPdfComparer.Resolution-egenskap
+## GraphicalPdfComparer.Resolution property
 
-Hämtar och ställer in upplösningen för de resulterande bilderna. Standardvärdet är 150dpi.
+Hämtar och anger upplösningen för de resulterande bilderna. Standardvärdet är 150 dpi.
 
 ```csharp
 public Resolution Resolution { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Resolution](../../../aspose.pdf.devices/resolution/)
-* klass [GraphicalPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

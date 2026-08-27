@@ -1,14 +1,14 @@
 ---
-title: Class ToUnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ToUnicodeProcessingRules klass. Denna klass beskriver regler som kan användas för att lösa Adobe Preflight-fel "Text kan inte mappas till Unicode"
+title: "Klass ToUnicodeProcessingRules"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ToUnicodeProcessingRules-klass. Denna klass beskriver regler som kan användas för att lösa Adobe Preflight-felet Text kan inte mappas till Unicode"
 type: docs
-weight: 11110
+weight: 11300
 url: /sv/net/aspose.pdf/tounicodeprocessingrules/
 ---
-## ToUnicodeProcessingRules klass
+## ToUnicodeProcessingRules class
 
-Denna klass beskriver regler som kan användas för att lösa Adobe Preflight-fel "Text kan inte mappas till Unicode".
+Denna klass beskriver regler som kan användas för att lösa Adobe Preflight‑felet \"Text kan inte mappas till Unicode\".
 
 ```csharp
 public class ToUnicodeProcessingRules
@@ -19,17 +19,19 @@ public class ToUnicodeProcessingRules
 | Namn | Beskrivning |
 | --- | --- |
 | [ToUnicodeProcessingRules](tounicodeprocessingrules/#constructor)() | Initierar en ny instans av klassen `ToUnicodeProcessingRules`. |
-| [ToUnicodeProcessingRules](tounicodeprocessingrules/#constructor_1)(bool) | Initierar en ny instans av klassen `ToUnicodeProcessingRules` med det angivna alternativet att ta bort mellanslag från CMap-namn. |
+| [ToUnicodeProcessingRules](tounicodeprocessingrules/#constructor_1)(bool) | Initierar en ny instans av klassen `ToUnicodeProcessingRules` med det angivna alternativet för att ta bort mellanslag från CMap-namn. |
 | [ToUnicodeProcessingRules](tounicodeprocessingrules/#constructor_2)(bool, bool) | Initierar en ny instans av klassen `ToUnicodeProcessingRules` med angivna alternativ. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [MapNonLinkedSymbolsOnSpace](../../aspose.pdf/tounicodeprocessingrules/mapnonlinkedsymbolsonspace/) { get; set; } | Vissa typsnitt tillhandahåller inte information om unicodes för vissa textsymboler. Denna brist på information orsakar ett fel "Text kan inte mappas till Unicode". Använd denna flagga för att mappa icke-länkade symboler på unicode "mellanslag" (kod 32). |
-| [RemoveSpacesFromCMapNames](../../aspose.pdf/tounicodeprocessingrules/removespacesfromcmapnames/) { get; set; } | Vissa typsnitt har ToUnicode-teckenkodkartor med mellanslag i namnen. Dessa mellanslag kan orsaka fel med unicode-textmappning. Denna flagga kommanderar att ta bort mellanslag från namnen på ToUnicode-teckenkodkartor. Som standard falskt. |
+| [MapNonLinkedSymbolsOnSpace](../../aspose.pdf/tounicodeprocessingrules/mapnonlinkedsymbolsonspace/) { get; set; } | Vissa teckensnitt tillhandahåller inte information om Unicode för vissa textsymboler. Denna brist på information ger felet "Text cannot be mapped to Unicode". Använd detta flagga för att mappa icke‑länkade symboler till Unicode‑"space" (kod 32). |
+| [RemoveSpacesFromCMapNames](../../aspose.pdf/tounicodeprocessingrules/removespacesfromcmapnames/) { get; set; } | Vissa teckensnitt har ToUnicode-teckenkodkartor med mellanslag i namn. Dessa mellanslag kan orsaka fel vid Unicode‑textmappning. Detta flagga instruerar att ta bort mellanslag från namn på ToUnicode‑teckenkodkartor. Standardvärdet är falskt. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

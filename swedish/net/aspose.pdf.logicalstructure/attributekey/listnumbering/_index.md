@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.ListNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. ListNumbering-attribut Listattributägare
+title: "AttributeKey.ListNumbering"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. ListNumbering attribut List-attributägare"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/listnumbering/
 ---
-## AttributeKey.ListNumbering-fält
+## AttributeKey.ListNumbering field
 
-ListNumbering-attribut (Listattributägare).
+ListNumbering-attribut (List attributägare).
 
 ```csharp
 public static readonly AttributeKey ListNumbering;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

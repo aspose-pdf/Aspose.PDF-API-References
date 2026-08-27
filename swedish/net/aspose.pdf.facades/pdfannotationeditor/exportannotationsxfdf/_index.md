@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ExportAnnotationsXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor metod. Exporterar innehållet av de angivna annotationstyperna till XFDF
+title: "PdfAnnotationEditor.ExportAnnotationsXfdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAnnotationEditor-metod. Exporterar innehållet för de angivna annoteringstyperna till XFDF."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/
 ---
 ## ExportAnnotationsXfdf(Stream, int, int, string[]) {#exportannotationsxfdf_1}
 
-Exporterar innehållet av de angivna annotationstyperna till XFDF
+Exporterar innehållet för de angivna Annotation‑typerna till XFDF.
 
 ```csharp
 public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, string[] annotTypes)
@@ -16,10 +16,10 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, st
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xmlOutputStream | Stream | Utdata XFDF-ström. |
-| start | Int32 | Start sida från vilken annotationerna i dokumentet kommer att exporteras. |
-| end | Int32 | Slut sida till vilken annotationerna i dokumentet kommer att exporteras. |
-| annotTypes | String[] | Array av annotationstyper som behöver exporteras. |
+| xmlOutputStream | Stream | Utdata-XFDF-strömmen. |
+| start | Int32 | Startsidan från vilken dokumentets annoteringar kommer att exporteras. |
+| end | Int32 | Slutsidan till vilken dokumentets annoteringar kommer att exporteras. |
+| annotTypes | String[] | Arrayen med annoteringstyper som ska exporteras. |
 
 ## Exempel
 
@@ -33,17 +33,17 @@ using (Stream stream = File.Create("example.xfdf"))
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAnnotationEditor](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExportAnnotationsXfdf(Stream, int, int, AnnotationType[]) {#exportannotationsxfdf}
 
-Exporterar innehållet av de angivna annotationstyperna till XFDF
+Exporterar innehållet för de angivna Annotation‑typerna till XFDF.
 
 ```csharp
 public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, 
@@ -52,10 +52,10 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xmlOutputStream | Stream | Utdata XFDF-ström. |
-| start | Int32 | Start sida från vilken annotationerna i dokumentet kommer att exporteras. |
-| end | Int32 | Slut sida till vilken annotationerna i dokumentet kommer att exporteras. |
-| annotTypes | AnnotationType[] | Array av annotationstyper som behöver exporteras. |
+| xmlOutputStream | Stream | Utdata-XFDF-strömmen. |
+| start | Int32 | Startsidan från vilken dokumentets annoteringar kommer att exporteras. |
+| end | Int32 | Slutsidan till vilken dokumentets annoteringar kommer att exporteras. |
+| annotTypes | AnnotationType[] | Arrayen med annoteringstyper som ska exporteras. |
 
 ## Exempel
 
@@ -69,9 +69,11 @@ using (Stream stream = File.Create("example.xfdf"))
 }
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* klass [PdfAnnotationEditor](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.PreventGlyphsGrouping
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Denna attribut aktiverar läget när textglyphs inte kommer att grupperas i ord och strängar. Detta läge möjliggör maximal precision under positionering av glyphs på sidan och kan användas för konvertering av dokument med musiknoter eller glyphs som ska placeras separat från varandra. Denna parameter kommer att tillämpas på dokumentet endast när värdet av attributet FixedLayout är sant.
+title: "HtmlSaveOptions.PreventGlyphsGrouping"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-egenskap. Detta attribut aktiverar läget där textglyfer inte grupperas till ord och strängar. Detta läge möjliggör maximal precision vid placering av glyfer på sidan och kan användas för konvertering av dokument med musiknoter eller glyfer som bör placeras separat från varandra. Denna parameter tillämpas på dokumentet endast när värdet för FixedLayout‑attributet är true."
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/htmlsaveoptions/preventglyphsgrouping/
 ---
-## HtmlSaveOptions.PreventGlyphsGrouping-egenskap
+## HtmlSaveOptions.PreventGlyphsGrouping property
 
-Denna attribut aktiverar läget när textglyphs inte kommer att grupperas i ord och strängar. Detta läge möjliggör maximal precision under positionering av glyphs på sidan och kan användas för konvertering av dokument med musiknoter eller glyphs som ska placeras separat från varandra. Denna parameter kommer att tillämpas på dokumentet endast när värdet av attributet FixedLayout är sant.
+Detta attribut aktiverar läget där textglyphs inte grupperas till ord och strängar. Detta läge möjliggör maximal precision vid placering av glyphs på sidan och kan användas för konvertering av dokument med musiknoter eller glyphs som ska placeras separat från varandra. Denna parameter tillämpas på dokumentet endast när värdet för FixedLayout‑attributet är true.
 
 ```csharp
 public bool PreventGlyphsGrouping { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

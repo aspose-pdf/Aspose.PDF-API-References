@@ -1,14 +1,14 @@
 ---
-title: IChatCopilot.SaveResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IChatCopilot-metod. Asynkront sparar svaret för det angivna meddelandet till en PDF-fil
+title: "IChatCopilot.SaveResponseAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IChatCopilot-metod. Sparar asynkront svaret för det givna meddelandet till en PDF-fil."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/ichatcopilot/saveresponseasync/
 ---
 ## SaveResponseAsync(string, string, CancellationToken?) {#saveresponseasync_3}
 
-Asynkront sparar svaret för det angivna meddelandet till en PDF-fil.
+Sparar asynkront svaret för det angivna meddelandet till en PDF-fil.
 
 ```csharp
 public Task SaveResponseAsync(string message, string outputFileName, 
@@ -17,15 +17,15 @@ public Task SaveResponseAsync(string message, string outputFileName,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | String | Inmatningsmeddelandet för vilket svaret sparas. |
-| outputFileName | String | Namnet på PDF-filen som svaret ska sparas i. |
+| meddelande | String | Det inmatade meddelandet för vilket svaret sparas. |
+| outputFileName | String | Namnet på PDF-utdatafilen för att spara svaret. |
 | cancellationToken | Nullable`1 | Avbokningstoken (valfritt). |
 
 ### Returvärde
 
 En uppgift som representerar den asynkrona operationen.
 
-### Se Även
+### Se även
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -35,7 +35,7 @@ En uppgift som representerar den asynkrona operationen.
 
 ## SaveResponseAsync(string, string, SaveFormat, CancellationToken?) {#saveresponseasync_2}
 
-Asynkront sparar svaret för det angivna meddelandet till en fil med angivet format.
+Sparar asynkront svaret för det angivna meddelandet till en fil med angivet format.
 
 ```csharp
 public Task SaveResponseAsync(string message, string outputFileName, SaveFormat saveFormat, 
@@ -44,16 +44,16 @@ public Task SaveResponseAsync(string message, string outputFileName, SaveFormat 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | String | Inmatningsmeddelandet för vilket svaret sparas. |
-| outputFileName | String | Namnet på filen som svaret ska sparas i. |
-| saveFormat | SaveFormat | Formatet i vilket svaret ska sparas (PDF om inget anges). |
+| meddelande | String | Det inmatade meddelandet för vilket svaret sparas. |
+| outputFileName | String | Namnet på utdatafilen för att spara svaret. |
+| saveFormat | SaveFormat | Formatet att spara svaret i (PDF om inget annat anges). |
 | cancellationToken | Nullable`1 | Avbokningstoken (valfritt). |
 
 ### Returvärde
 
 En uppgift som representerar den asynkrona operationen.
 
-### Se Även
+### Se även
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * interface [IChatCopilot](../)
@@ -64,7 +64,7 @@ En uppgift som representerar den asynkrona operationen.
 
 ## SaveResponseAsync(List&lt;string&gt;, string, CancellationToken?) {#saveresponseasync_1}
 
-Asynkront sparar svaren för den angivna listan av meddelanden till en PDF-fil.
+Sparar asynkront svaren för den angivna listan med meddelanden till en PDF-fil.
 
 ```csharp
 public Task SaveResponseAsync(List<string> messages, string outputFileName, 
@@ -73,15 +73,15 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| messages | List`1 | Listan av inmatningsmeddelanden för vilka svaren sparas. |
-| outputFileName | String | Namnet på PDF-filen som svaren ska sparas i. |
+| meddelanden | List`1 | Listan över inmatade meddelanden för vilka svar sparas. |
+| outputFileName | String | Namnet på PDF-utdatafilen för att spara svaren. |
 | cancellationToken | Nullable`1 | Avbokningstoken (valfritt). |
 
 ### Returvärde
 
 En uppgift som representerar den asynkrona operationen.
 
-### Se Även
+### Se även
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -91,7 +91,7 @@ En uppgift som representerar den asynkrona operationen.
 
 ## SaveResponseAsync(List&lt;string&gt;, string, SaveFormat, CancellationToken?) {#saveresponseasync}
 
-Asynkront sparar svaren för den angivna listan av meddelanden till en fil med angivet format.
+Sparar asynkront svaren för den angivna listan med meddelanden till en fil med angivet format.
 
 ```csharp
 public Task SaveResponseAsync(List<string> messages, string outputFileName, SaveFormat saveFormat, 
@@ -100,18 +100,20 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName, Save
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| messages | List`1 | Listan av inmatningsmeddelanden för vilka svaren sparas. |
-| outputFileName | String | Namnet på filen som svaren ska sparas i. |
-| saveFormat | SaveFormat | Formatet i vilket svaren ska sparas (PDF om inget anges). |
+| meddelanden | List`1 | Listan över inmatade meddelanden för vilka svar sparas. |
+| outputFileName | String | Namnet på utdatafilen för att spara svaren. |
+| saveFormat | SaveFormat | Formatet att spara svaren i (PDF om inget annat anges). |
 | cancellationToken | Nullable`1 | Avbokningstoken (valfritt). |
 
 ### Returvärde
 
 En uppgift som representerar den asynkrona operationen.
 
-### Se Även
+### Se även
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

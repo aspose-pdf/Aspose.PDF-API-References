@@ -1,14 +1,14 @@
 ---
-title: Class BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BoundsOutOfRangeException klass. Representerar ett undantag som inträffar när ett objekt inte passar inom de angivna behållardimensionerna
+title: "Klass BoundsOutOfRangeException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.BoundsOutOfRangeException-klass. Representerar ett undantag som uppstår när ett objekt inte får plats inom de angivna behållardimensionerna."
 type: docs
-weight: 2940
+weight: 3050
 url: /sv/net/aspose.pdf/boundsoutofrangeexception/
 ---
-## BoundsOutOfRangeException klass
+## BoundsOutOfRangeException class
 
-Representerar ett undantag som inträffar när ett objekt inte passar inom de angivna behållardimensionerna.
+Representerar ett undantag som uppstår när ett objekt inte får plats inom de angivna behållardimensionerna.
 
 ```csharp
 public class BoundsOutOfRangeException : PdfException
@@ -18,12 +18,14 @@ public class BoundsOutOfRangeException : PdfException
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor)() | Initierar en ny instans av klassen `BoundsOutOfRangeException`. |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | Initierar en ny instans av klassen `BoundsOutOfRangeException` med ett specificerat felmeddelande. |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | Initierar en ny instans av klassen `BoundsOutOfRangeException` med ett specificerat felmeddelande och objektets dimensioner. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor)() | Initierar en ny instans av `BoundsOutOfRangeException`-klassen. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | Initierar en ny instans av `BoundsOutOfRangeException`-klassen med ett specificerat felmeddelande. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | Initierar en ny instans av `BoundsOutOfRangeException`-klassen med ett specificerat felmeddelande och objektets dimensioner. |
 
-### Se Även
+### Se även
 
-* klass [PdfException](../pdfexception/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

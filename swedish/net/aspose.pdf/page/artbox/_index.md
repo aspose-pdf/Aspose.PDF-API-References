@@ -1,14 +1,14 @@
 ---
-title: Page.ArtBox
-second_title: Aspose.PDF for .NET API Reference
-description: Sidans egenskap. Hämtar eller ställer in konstlådan för sidan
+title: "Page.ArtBox"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar eller anger artboxen för sidan"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/page/artbox/
 ---
-## Page.ArtBox egenskap
+## Page.ArtBox property
 
-Hämtar eller ställer in konstlådan för sidan.
+Hämtar eller anger art‑boxen för sidan.
 
 ```csharp
 public Rectangle ArtBox { get; set; }
@@ -16,16 +16,18 @@ public Rectangle ArtBox { get; set; }
 
 ## Exempel
 
-Exemplet visar hur man hämtar konstlådan för sidan:
+Exempel visar hur man hämtar artboxen för sidan:
 
 ```csharp
 Document document = new Document("sample.pdf");
 Rectangle artBox = document.Pages[1].ArtBox;
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../rectangle/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

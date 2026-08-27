@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.TD
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Tabell datacell En tabellcell som innehåller data som är en del av tabellens innehåll
+title: "StructureTypeStandard.TD"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard fält. Tabelldatacell En tabellcell som innehåller data som är en del av tabellens innehåll."
 type: docs
 weight: 400
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/td/
 ---
-## StructureTypeStandard.TD-fält
+## StructureTypeStandard.TD field
 
-(Tabell datacell) En tabellcell som innehåller data som är en del av tabellens innehåll.
+(Table data cell) En tabellcell som innehåller data som är en del av tabellens innehåll.
 
 ```csharp
 public static readonly StructureTypeStandard TD;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

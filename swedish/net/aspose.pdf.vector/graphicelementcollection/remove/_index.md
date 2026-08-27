@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection metod. Tar bort GraphicElement-elementet
+title: "GraphicElementCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicElementCollection-metoden. Tar bort GraphicElement-elementet"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.vector/graphicelementcollection/remove/
 ---
-## GraphicElementCollection.Remove metod
+## GraphicElementCollection.Remove method
 
 Tar bort [`GraphicElement`](../../graphicelement/) elementet.
 
@@ -20,11 +20,13 @@ public bool Remove(GraphicElement item)
 
 ### Returvärde
 
-Sant - om elementet hittas; annars, falskt.
+True - om elementet hittas; annars false.
 
-### Se Även
+### Se även
 
-* klass [GraphicElement](../../graphicelement/)
-* klass [GraphicElementCollection](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

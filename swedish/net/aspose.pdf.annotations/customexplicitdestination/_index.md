@@ -1,14 +1,14 @@
 ---
-title: Class CustomExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CustomExplicitDestination klass. Representerar anpassad explicit destination
+title: "Klass CustomExplicitDestination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.CustomExplicitDestination klass. Representerar en anpassad explicit destination"
 type: docs
-weight: 1640
+weight: 1730
 url: /sv/net/aspose.pdf.annotations/customexplicitdestination/
 ---
-## CustomExplicitDestination klass
+## CustomExplicitDestination class
 
-Representerar anpassad explicit destination.
+Representerar en anpassad explicit destination.
 
 ```csharp
 public sealed class CustomExplicitDestination : ExplicitDestination
@@ -18,8 +18,8 @@ public sealed class CustomExplicitDestination : ExplicitDestination
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Hämtar destinationssidobjektet |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Hämtar destinationssidnumret |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Hämtar destinationssidans objekt |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Hämtar destinationssidans sidnummer |
 
 ## Metoder
 
@@ -27,8 +27,10 @@ public sealed class CustomExplicitDestination : ExplicitDestination
 | --- | --- |
 | override [ToString](../../aspose.pdf.annotations/customexplicitdestination/tostring/)() | Konverterar till sidnummer. |
 
-### Se Även
+### Se även
 
-* klass [ExplicitDestination](../explicitdestination/)
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [ExplicitDestination](../explicitdestination/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

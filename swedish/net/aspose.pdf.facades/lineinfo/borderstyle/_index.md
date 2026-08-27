@@ -1,21 +1,23 @@
 ---
-title: LineInfo.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: LineInfo-egenskap. Hämtar eller ställer in kantstilen för en linje, 0 representerar solid, 1 representerar streckad, 2 representerar belagd, 3 representerar insättning, 4 representerar understrykning.
+title: "LineInfo.BorderStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineInfo property. Hämtar eller anger kantstilen för en linje 0 representerar solid 1 representerar streckad 2 representerar beleved 3 representerar infogad 4 representerar understruken"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/lineinfo/borderstyle/
 ---
-## LineInfo.BorderStyle-egenskap
+## LineInfo.BorderStyle property
 
-Hämtar eller ställer in kantstilen för en linje, 0 representerar solid, 1 representerar streckad, 2 representerar belagd, 3 representerar insättning, 4 representerar understrykning.
+Hämtar eller anger kantstilen för en linje, 0 representerar solid, 1 representerar streckad, 2 representerar avfasad, 3 representerar infogad, 4 representerar understruken.
 
 ```csharp
 public int BorderStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LineInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

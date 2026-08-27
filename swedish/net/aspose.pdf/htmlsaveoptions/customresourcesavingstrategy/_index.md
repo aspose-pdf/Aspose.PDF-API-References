@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.CustomResourceSavingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-fält. Detta fält kan innehålla en sparstrategi som måste användas om den finns under konvertering för anpassad hantering av skapade refererade resursfiler som bilder och typsnitt relaterade till noder av sparad HTML. Den strategin måste bearbeta resurser och returnera en sträng som representerar önskad URL för den sparade resursen i den genererade HTMLen.
+title: "HtmlSaveOptions.CustomResourceSavingStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions field. Detta fält kan innehålla en sparstrategi som måste användas om den är närvarande under konverteringen för anpassad hantering av skapade refererade resursfiler såsom bilder och teckensnitt som är relaterade till noder i sparad HTML. Strategin måste bearbeta resurserna och returnera en sträng som representerar önskad URL för den sparade resursen i den genererade HTML."
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf/htmlsaveoptions/customresourcesavingstrategy/
 ---
-## HtmlSaveOptions.CustomResourceSavingStrategy-fält
+## HtmlSaveOptions.CustomResourceSavingStrategy field
 
-Detta fält kan innehålla en sparstrategi som måste användas (om den finns) under konvertering för anpassad hantering av skapade refererade resursfiler (som bilder och typsnitt) relaterade till noder av sparad HTML. Den strategin måste bearbeta resurser och returnera en sträng som representerar önskad URL för den sparade resursen i den genererade HTML:en.
+Detta fält kan innehålla en sparstrategi som måste användas (om den finns) under konverteringen för anpassad hantering av skapade refererade resursfiler (såsom bilder och teckensnitt) relaterade till noder i sparad HTML. Strategin måste bearbeta resurserna och returnera en sträng som representerar önskad URL för den sparade resursen i den genererade HTML‑koden.
 
 ```csharp
 public ResourceSavingStrategy CustomResourceSavingStrategy;
 ```
 
-### Se Även
+### Se även
 
 * delegate [ResourceSavingStrategy](../../htmlsaveoptions.resourcesavingstrategy/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

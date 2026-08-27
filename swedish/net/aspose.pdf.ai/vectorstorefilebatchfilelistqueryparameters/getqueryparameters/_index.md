@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchFileListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchFileListQueryParameters-metod. Hämtar frågeparametrarna för att lista lagrade filbatchfiler
+title: "VectorStoreFileBatchFileListQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreFileBatchFileListQueryParameters‑metod. Hämtar frågeparametrarna för att lista lagrade filbatch‑filer"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/getqueryparameters/
 ---
-## VectorStoreFileBatchFileListQueryParameters.GetQueryParameters metod
+## VectorStoreFileBatchFileListQueryParameters.GetQueryParameters method
 
-Hämtar frågeparametrarna för att lista lagrade filbatchfiler.
+Hämtar frågeparametrarna för att lista lagringsfilbatch-filer.
 
 ```csharp
 public string GetQueryParameters()
@@ -16,10 +16,12 @@ public string GetQueryParameters()
 
 ### Returvärde
 
-Frågeparametrarna som sträng.
+Strängen med frågeparametrar.
 
-### Se Även
+### Se även
 
-* klass [VectorStoreFileBatchFileListQueryParameters](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchFileListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

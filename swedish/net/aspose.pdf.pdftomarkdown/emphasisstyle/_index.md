@@ -1,14 +1,14 @@
 ---
-title: Enum EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfToMarkdown.EmphasisStyle enum. Definierar de tillgängliga serialiseringsstilarna för betoning och stark betoning. För specifikation se CommonMark  Betoning och stark betoning
+title: "Enum EmphasisStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PdfToMarkdown.EmphasisStyle enum. Definierar de tillgängliga serialiseringsstilarna för betoning och stark betoning. För specifikationen, se CommonMark Emphasis och strong emphasis."
 type: docs
 weight: 8360
 url: /sv/net/aspose.pdf.pdftomarkdown/emphasisstyle/
 ---
-## EmphasisStyle-uppräkning
+## EmphasisStyle enumeration
 
-Definierar de tillgängliga serialiseringsstilarna för betoning och stark betoning. För specifikation se CommonMark - Betoning och stark betoning.
+Definierar de tillgängliga serialiseringsstilarna för betoning och stark betoning. För specifikationen, se CommonMark - Emphasis and strong emphasis.
 
 ```csharp
 public enum EmphasisStyle
@@ -18,10 +18,12 @@ public enum EmphasisStyle
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Asterisk | `0` | Använd '*' respektive '**' för (starkt) betoningstext. |
-| Underscore | `1` | Använd '_' respektive '__' för (starkt) betoningstext. |
+| Asterisk | `0` | Använd '*' respektive '**' för (starkt) betonterad text. |
+| Underscore | `1` | Använd '_' respektive '__' för (starkt) betonterad text. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../)
+
+

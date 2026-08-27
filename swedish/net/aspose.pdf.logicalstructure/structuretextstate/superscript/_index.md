@@ -1,25 +1,27 @@
 ---
-title: StructureTextState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState-egenskap. Hämtar eller ställer in superscript för texten
+title: "StructureTextState.Superscript"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTextState-egenskap. Hämtar eller anger superscript för texten"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.logicalstructure/structuretextstate/superscript/
 ---
-## StructureTextState.Superscript-egenskap
+## StructureTextState.Superscript property
 
-Hämtar eller ställer in superscript för texten.
+Hämtar eller anger upphöjd text.
 
 ```csharp
 public bool? Superscript { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Kan vara null. Använd null för att ärva `Superscript`-egenskapen från överordnat strukturelement.
+Kan vara null. Använd null för att ärva `Superscript`-egenskapen från föräldra strukturelementet.
 
-### Se Även
+### Se även
 
-* klass [StructureTextState](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

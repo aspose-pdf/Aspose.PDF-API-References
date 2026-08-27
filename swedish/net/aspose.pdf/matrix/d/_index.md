@@ -1,21 +1,23 @@
 ---
-title: Matrix.D
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix-egenskap. D-medlem av transformationsmatrisen
+title: "Matrix.D"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix egenskap. D-medlem i transformationsmatrisen"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/matrix/d/
 ---
-## Matrix.D-egenskap
+## Matrix.D property
 
-D-medlem av transformationsmatrisen.
+D-medlem i transformationsmatrisen.
 
 ```csharp
 public double D { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

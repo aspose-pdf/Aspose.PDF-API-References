@@ -1,25 +1,27 @@
 ---
-title: StructureElement.ActualText
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement-egenskap. Hämtar eller ställer in den faktiska texten för struktur element
+title: "StructureElement.ActualText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-egenskapen. Hämtar eller anger den faktiska texten för strukturelementet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/actualtext/
 ---
-## StructureElement.ActualText-egenskap
+## StructureElement.ActualText property
 
-Hämtar eller ställer in den faktiska texten för struktur element.
+Hämtar eller anger den faktiska texten för strukturelementet.
 
 ```csharp
 public string ActualText { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Faktisk text av struktur element.
+Faktisk text för strukturelementet.
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

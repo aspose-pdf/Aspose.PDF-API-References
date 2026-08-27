@@ -1,14 +1,14 @@
 ---
-title: DateField.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: DateField-metod. Bildinläggning nekad för detta fält
+title: "DateField.AddImage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DateField-metod. Bildtillägg nekas för detta fält"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/datefield/addimage/
 ---
-## DateField.AddImage metod
+## DateField.AddImage method
 
-Bildinläggning nekad för detta fält.
+Bildtillägg nekas för detta fält.
 
 ```csharp
 public void AddImage(Image image)
@@ -20,13 +20,15 @@ public void AddImage(Image image)
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
 | InvalidOperationException |  |
 
-### Se Även
+### Se även
 
-* klass [Bild](../../../aspose.pdf/image/)
-* klass [DateField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Image](../../../aspose.pdf/image/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

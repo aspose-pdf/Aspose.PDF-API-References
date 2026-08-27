@@ -1,14 +1,14 @@
 ---
-title: Class Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Signature klass. Representerar Signature-plugin
+title: "Klassen Signature"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.Signature-klass. Representerar Signature‑plugin"
 type: docs
-weight: 9260
+weight: 9410
 url: /sv/net/aspose.pdf.plugins/signature/
 ---
-## Signatur klass
+## Signature class
 
-Representerar `Signature` plugin.
+Representerar `Signature`‑plugin.
 
 ```csharp
 public sealed class Signature : IPlugin
@@ -18,33 +18,35 @@ public sealed class Signature : IPlugin
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Signature](signature/)() | Standardkonstruktören. |
+| [Signature](signature/)() | Standardkonstruktorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/signature/process/)(IPluginOptions) | Startar `Signature` bearbetning med angivna parametrar. |
+| [Process](../../aspose.pdf.plugins/signature/process/)(IPluginOptions) | Startar `Signature`‑bearbetningen med de angivna parametrarna. |
 
 ## Exempel
 
-Exemplet visar hur man signerar en PDF-dokument.
+Exemplet visar hur man signerar PDF‑dokument.
 
 ```csharp
-// create Signature
+// skapa Signature
 var plugin = new Signature();
-// create SignOptions object to set instructions
+// skapa SignOptions‑objekt för att ange instruktioner
 var opt = new SignOptions(inputPfx, inputPfxPassword);
-// add input file path
+// lägg till indatafilens sökväg
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// ange utdatafilens sökväg
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// utför processen
 plugin.Process(opt);
 ```
 
-### Se Även
+### Se även
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

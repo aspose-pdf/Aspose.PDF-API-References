@@ -1,21 +1,23 @@
 ---
-title: Form.AutoRestoreForm
-second_title: Aspose.PDF for .NET API Reference
-description: Formulär egenskap. Om den är inställd kommer frånvarande formulärfält automatiskt att skapas om de finns i anteckningarna
+title: "Form.AutoRestoreForm"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form egenskap. Om den är inställd skapas frånvarande formulärfält automatiskt om de finns i annotationer"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/form/autorestoreform/
 ---
-## Form.AutoRestoreForm egenskap
+## Form.AutoRestoreForm property
 
-Om den är inställd kommer frånvarande formulärfält automatiskt att skapas om de finns i anteckningarna.
+Om inställd kommer frånvarande formulärfält att automatiskt skapas om de finns i annotationer.
 
 ```csharp
 public bool AutoRestoreForm { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

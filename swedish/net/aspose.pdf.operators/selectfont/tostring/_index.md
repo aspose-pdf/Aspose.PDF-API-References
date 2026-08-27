@@ -1,14 +1,14 @@
 ---
-title: SelectFont.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SelectFont-metod. Returnerar textrepresentation av operatör
+title: "SelectFont.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SelectFont metod. Returnerar textrepresentation av operatorn"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.operators/selectfont/tostring/
 ---
-## SelectFont.ToString metod
+## SelectFont.ToString method
 
-Returnerar textrepresentation av operatör.
+Returnerar textrepresentation av operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av operatör.
+Textrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [SelectFont](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SelectFont](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

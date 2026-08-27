@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary-egenskap. Hämtar ett värde som indikerar om ordboken har en fast storlek
+title: "AppearanceDictionary.IsFixedSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AppearanceDictionary-egenskap. Hämtar ett värde som indikerar om ordboken har en fast storlek."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/appearancedictionary/isfixedsize/
 ---
-## AppearanceDictionary.IsFixedSize-egenskap
+## AppearanceDictionary.IsFixedSize property
 
 Hämtar ett värde som indikerar om ordboken har en fast storlek.
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om ordboken har en fast storlek.
 public bool IsFixedSize { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: RenderingOptions.MaxSymbolsCacheSize
-second_title: Aspose.PDF for .NET API Reference
-description: RenderingOptions-egenskap. Maximalt antal symboler i symbolcache. Standardvärde är 100
+title: "RenderingOptions.MaxSymbolsCacheSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RenderingOptions-egenskapen. Maximalt antal symboler i symbolcachen. Standardvärdet är 100"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/renderingoptions/maxsymbolscachesize/
 ---
-## RenderingOptions.MaxSymbolsCacheSize-egenskap
+## RenderingOptions.MaxSymbolsCacheSize property
 
-Maximalt antal symboler i symbolcache. Standardvärde är 100.
+Maximalt antal symboler i symbolcache. Standardvärdet är 100.
 
 ```csharp
 public int MaxSymbolsCacheSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RenderingOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

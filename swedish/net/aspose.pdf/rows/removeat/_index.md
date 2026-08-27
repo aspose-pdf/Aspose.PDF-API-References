@@ -1,14 +1,14 @@
 ---
-title: Rows.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: Rows-metod. Ta bort rad på position från samlingen
+title: "Rows.RemoveAt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rows-metoden. Ta bort rad på position från samlingen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/rows/removeat/
 ---
-## Rows.RemoveAt metod
+## Rows.RemoveAt method
 
-Ta bort rad på position från samlingen.
+Ta bort raden på positionen från samlingen.
 
 ```csharp
 public void RemoveAt(int index)
@@ -18,8 +18,10 @@ public void RemoveAt(int index)
 | --- | --- | --- |
 | index | Int32 | Samlingens index. |
 
-### Se Även
+### Se även
 
-* klass [Rows](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

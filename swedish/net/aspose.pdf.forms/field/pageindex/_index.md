@@ -1,12 +1,12 @@
 ---
-title: Field.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Fält egenskap. Hämtar index för sidan som innehåller detta fält
+title: "Field.PageIndex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Fält egenskap. Hämtar sidans index som innehåller detta fält"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.forms/field/pageindex/
 ---
-## Field.PageIndex egenskap
+## Field.PageIndex property
 
 Hämtar index för sidan som innehåller detta fält.
 
@@ -14,8 +14,10 @@ Hämtar index för sidan som innehåller detta fält.
 public override int PageIndex { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

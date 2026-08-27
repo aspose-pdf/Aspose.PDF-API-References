@@ -1,21 +1,21 @@
 ---
-title: AICopilotFactory.CreateImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory-metod. Skapar en bildbeskrivningskopilot baserat på klienten och alternativen
+title: "AICopilotFactory.CreateImageDescriptionCopilot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AICopilotFactory metod. Skapar en bildbeskrivnings‑copilot baserad på klienten och alternativ."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/aicopilotfactory/createimagedescriptioncopilot/
 ---
-## AICopilotFactory.CreateImageDescriptionCopilot&lt;TOptions&gt; metod
+## AICopilotFactory.CreateImageDescriptionCopilot&lt;TOptions&gt; method
 
-Skapar en bildbeskrivningskopilot baserat på klienten och alternativen.
+Skapar en bildbeskrivningscopilot baserad på klienten och alternativen.
 
 ```csharp
 public static IImageDescriptionCopilot CreateImageDescriptionCopilot<TOptions>(
     IImageDescriptionClient<TOptions> client, IImageDescriptionCopilotOptions<TOptions> options)
 ```
 
-### Se Även
+### Se även
 
 * interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
 * interface [IImageDescriptionClient&lt;TOptions&gt;](../../iimagedescriptionclient-1/)
@@ -23,3 +23,5 @@ public static IImageDescriptionCopilot CreateImageDescriptionCopilot<TOptions>(
 * class [AICopilotFactory](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

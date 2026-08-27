@@ -1,21 +1,23 @@
 ---
-title: SoundData.Rate
-second_title: Aspose.PDF for .NET API Reference
-description: SoundData-egenskap. Hämtar eller ställer in samplingsfrekvensen i prover per sekund
+title: "SoundData.Rate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SoundData-egenskap. Hämtar eller anger samplingsfrekvensen i prover per sekund"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/sounddata/rate/
 ---
-## SoundData.Rate-egenskap
+## SoundData.Rate property
 
-Hämtar eller ställer in samplingsfrekvensen, i prover per sekund.
+Hämtar eller anger samplingsfrekvensen, i prover per sekund.
 
 ```csharp
 public int Rate { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SoundData](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SoundData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

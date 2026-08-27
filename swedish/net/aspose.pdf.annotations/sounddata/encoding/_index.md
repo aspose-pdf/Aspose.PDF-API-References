@@ -1,22 +1,24 @@
 ---
-title: SoundData.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: SoundData-egenskap. Hämtar eller ställer in kodningsformatet för provdata
+title: "SoundData.Encoding"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SoundData-egenskap. Hämtar eller anger kodningsformatet för provdata"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/sounddata/encoding/
 ---
-## SoundData.Encoding-egenskap
+## SoundData.Encoding property
 
-Hämtar eller ställer in kodningsformatet för provdata.
+Hämtar eller anger kodningsformatet för samplingsdata.
 
 ```csharp
 public SoundEncoding Encoding { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [SoundEncoding](../../soundencoding/)
 * class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

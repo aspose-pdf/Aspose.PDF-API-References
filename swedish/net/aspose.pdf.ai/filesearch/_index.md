@@ -1,14 +1,14 @@
 ---
-title: Class FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileSearch klass. Representerar resurserna för fil sökverktyget
+title: "Klass FileSearch"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.FileSearch-klass. Representerar resurserna för filsökverktyget"
 type: docs
-weight: 410
+weight: 430
 url: /sv/net/aspose.pdf.ai/filesearch/
 ---
-## FileSearch klass
+## FileSearch class
 
-Representerar resurserna för fil sökverktyget.
+Representerar resurserna för fil­sökverktyget.
 
 ```csharp
 public class FileSearch
@@ -24,10 +24,12 @@ public class FileSearch
 
 | Namn | Beskrivning |
 | --- | --- |
-| [VectorStoreIds](../../aspose.pdf.ai/filesearch/vectorstoreids/) { get; set; } | Hämtar eller ställer in ID för vektorbutiken som är kopplad till denna assistent. Det kan finnas högst 1 vektorbutik kopplad till assistenten. |
-| [VectorStores](../../aspose.pdf.ai/filesearch/vectorstores/) { get; set; } | Hämtar eller ställer in hjälpen för att skapa en vektorbutik med file_ids och koppla den till denna tråd. Det kan finnas högst 1 vektorbutik kopplad till tråden. |
+| [VectorStoreIds](../../aspose.pdf.ai/filesearch/vectorstoreids/) { get; set; } | Hämtar eller anger ID för vektorlager som är kopplat till den här assistenten. Det kan högst finnas 1 vektorlager kopplat till assistenten. |
+| [VectorStores](../../aspose.pdf.ai/filesearch/vectorstores/) { get; set; } | Hämtar eller anger hjälpen för att skapa ett vektorlager med file_ids och bifoga det till den här tråden. Det kan högst finnas 1 vektorlager kopplat till tråden. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

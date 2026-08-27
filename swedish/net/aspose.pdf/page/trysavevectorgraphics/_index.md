@@ -1,14 +1,14 @@
 ---
-title: Page.TrySaveVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Page-metod. Försöker spara vektorgrafik om de finns på sidan. Spara formatet är SVG
+title: "Page.TrySaveVectorGraphics"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-metod. Försöker spara vektorgrafik om den finns på sidan. Sparaformatet är SVG"
 type: docs
 weight: 550
 url: /sv/net/aspose.pdf/page/trysavevectorgraphics/
 ---
-## Page.TrySaveVectorGraphics metod
+## Page.TrySaveVectorGraphics method
 
-Försöker spara vektorgrafik om de finns på sidan. Spara formatet är SVG.
+Försöker spara vektorgrafik om den finns på sidan. Sparaformatet är SVG.
 
 ```csharp
 public bool TrySaveVectorGraphics(string pathToSave)
@@ -16,14 +16,16 @@ public bool TrySaveVectorGraphics(string pathToSave)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pathToSave | Sträng | Utdatafil |
+| pathToSave | String | Utdatafil |
 
 ### Returvärde
 
-Sant om sidan innehåller vägkonstruktionsoperatorer; annars, Falskt.
+Sant om sidan innehåller operatorer för sökvägskonstruktion; annars Falskt.
 
-### Se Även
+### Se även
 
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileStamp.PageNumberRotation
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-egenskap. Hämtar eller ställer in rotation av sidnummer. Rotation är i grader. Standard är 0
+title: "PdfFileStamp.PageNumberRotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileStamp-egenskap. Hämtar eller anger rotation för sidnummer. Rotation är i grader. Standard är 0"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/pdffilestamp/pagenumberrotation/
 ---
-## PdfFileStamp.PageNumberRotation-egenskap
+## PdfFileStamp.PageNumberRotation property
 
-Hämtar eller ställer in rotation av sidnummer. Rotation är i grader. Standard är 0.
+Hämtar eller anger rotation för sidnummer. Rotation är i grader. Standard är 0.
 
 ```csharp
 public float PageNumberRotation { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

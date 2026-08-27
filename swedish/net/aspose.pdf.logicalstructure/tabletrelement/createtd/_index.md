@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.CreateTD
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement-metod. Skapar TableTHElement och lägger till det i den aktuella tabellen
+title: "TableTRElement.CreateTD"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableTRElement‑metod. Skapar TableTHElement och lägger till den i den aktuella tabellen"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.logicalstructure/tabletrelement/createtd/
 ---
-## TableTRElement.CreateTD metod
+## TableTRElement.CreateTD method
 
-Skapar [`TableTHElement`](../../tablethelement/) och lägger till det i den aktuella tabellen.
+Skapar [`TableTHElement`](../../tablethelement/) och lägger till den i den aktuella tabellen.
 
 ```csharp
 public TableTDElement CreateTD()
@@ -16,11 +16,13 @@ public TableTDElement CreateTD()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [TableTDElement](../../tabletdelement/)
-* klass [TableTRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [TableTDElement](../../tabletdelement/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

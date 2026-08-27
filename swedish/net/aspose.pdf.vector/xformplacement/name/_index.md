@@ -1,12 +1,12 @@
 ---
-title: XFormPlacement.Name
-second_title: Aspose.PDF for .NET API Reference
-description: XFormPlacement-egenskap. Hämtar namnet på XForm
+title: "XFormPlacement.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFormPlacement-egenskapen. Hämtar namnet på XForm."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.vector/xformplacement/name/
 ---
-## XFormPlacement.Namn-egenskap
+## XFormPlacement.Name property
 
 Hämtar namnet på XForm.
 
@@ -14,8 +14,10 @@ Hämtar namnet på XForm.
 public string Name { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XFormPlacement](../)
-* namnrum [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [XFormPlacement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

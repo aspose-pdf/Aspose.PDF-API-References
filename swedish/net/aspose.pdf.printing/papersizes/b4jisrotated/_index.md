@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.B4JisRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. JIS B4 roterat papper 364 mm med 257 mm
+title: "PaperSizes.B4JisRotated"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. JIS B4 roterat papper 364 mm x 257 mm"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.printing/papersizes/b4jisrotated/
 ---
-## PaperSizes.B4JisRotated-fält
+## PaperSizes.B4JisRotated field
 
-JIS B4 roterat papper (364 mm med 257 mm).
+JIS B4 roterat papper (364 mm x 257 mm).
 
 ```csharp
 public static readonly PaperSize B4JisRotated;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

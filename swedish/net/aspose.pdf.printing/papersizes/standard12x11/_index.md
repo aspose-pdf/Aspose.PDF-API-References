@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.Standard12x11
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. Standardpapper 12 tum x 11 tum
+title: "PaperSizes.Standard12x11"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. Standardpapper 12 tum x 11 tum"
 type: docs
 weight: 1100
 url: /sv/net/aspose.pdf.printing/papersizes/standard12x11/
 ---
-## PaperSizes.Standard12x11-fält
+## PaperSizes.Standard12x11 field
 
 Standardpapper (12 tum x 11 tum).
 
@@ -14,9 +14,11 @@ Standardpapper (12 tum x 11 tum).
 public static readonly PaperSize Standard12x11;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

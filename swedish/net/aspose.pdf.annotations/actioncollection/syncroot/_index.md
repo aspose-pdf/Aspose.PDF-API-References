@@ -1,21 +1,23 @@
 ---
-title: ActionCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection egenskap. Hämtar synkroniseringsobjekt
+title: "ActionCollection.SyncRoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ActionCollection egenskap. Hämtar synkroniseringsobjekt"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/actioncollection/syncroot/
 ---
-## ActionCollection.SyncRoot egenskap
+## ActionCollection.SyncRoot property
 
-Hämtar synkroniseringsobjekt.
+Hämtar synkroniseringsobjektet.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

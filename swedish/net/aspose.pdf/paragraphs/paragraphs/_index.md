@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Stycken konstruktor. Standardkonstruktorn
+title: "Paragraphs.Paragraphs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Paragraphs konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/paragraphs/paragraphs/
 ---
-## Stycken konstruktor
+## Paragraphs constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Paragraphs()
 ```
 
-### Se Även
+### Se även
 
-* klass [Stycken](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

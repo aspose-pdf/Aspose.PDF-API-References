@@ -1,14 +1,14 @@
 ---
-title: Page.Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Page-egenskap. Hämtar sidresurser. Resursobjektet innehåller samlingar av bilder, formulär och typsnitt. Resurser
+title: "Page.Resources"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page‑egenskap. Hämtar sidresurser. Resursobjektet innehåller samlingar av bilder, formulär och teckensnitt. Resources"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf/page/resources/
 ---
-## Page.Resources-egenskap
+## Page.Resources property
 
-Hämtar sidresurser. Resursobjektet innehåller samlingar av bilder, formulär och typsnitt. `Resources`
+Hämtar sidresurser. Resursobjektet innehåller samlingar av bilder, formulär och teckensnitt. `Resources`
 
 ```csharp
 public Resources Resources { get; }
@@ -16,7 +16,7 @@ public Resources Resources { get; }
 
 ## Exempel
 
-Exemplet visar hur man skannar igenom sidbilder:
+Exempel visar skanning genom sidbilder:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -28,9 +28,11 @@ foreach(XImage image in resources.Images)
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [Resources](../../resources/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Resources](../../resources/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

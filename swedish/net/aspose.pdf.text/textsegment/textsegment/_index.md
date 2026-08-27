@@ -1,14 +1,14 @@
 ---
-title: TextSegment.TextSegment
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment-konstruktör. Skapar TextSegment-objekt
+title: "TextSegment.TextSegment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSegment-konstruktor. Skapar TextSegment-objekt"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/textsegment/textsegment/
 ---
 ## TextSegment() {#constructor}
 
-Skapar TextSegment-objekt.
+Skapar TextSegment‑objekt.
 
 ```csharp
 public TextSegment()
@@ -16,49 +16,49 @@ public TextSegment()
 
 ## Exempel
 
-Exemplet visar hur man skapar ett textfragmentobjekt, lägger till ett textsegment i textfragmentkollektionen och lägger till det på Pdf-sidan.
+Exemplet visar hur man skapar ett textfragmentobjekt, lägger till ett textsegment i textfragmentsamlingen och lägger till det på Pdf-sidan.
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-// create text fragment
+// skapa textfragment
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// set it's text properties
+// ange dess textegenskaper
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-// add one more segment to text fragment's Segments collection
+// lägg till ett segment till textfragmentets Segments-samling
 TextSegment segment2 = new TextSegment();
 segment2.Text = "another segment";
 
 tf.Segments.Add(segment2);
 
-// create TextBuilder object
+// skapa TextBuilder-objekt
 TextBuilder builder = new TextBuilder(page);
 
-// append the text fragment to the Pdf page
+// lägg till textfragmentet på Pdf-sidan
 builder.AppendText(tf);
 
-//save document
+//spara dokumentet
 doc.Save(outFile);
 ```
 
-### Se Även
+### Se även
 
-* klass [TextSegment](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextSegment(string) {#constructor_1}
 
-Skapar TextSegment-objekt.
+Skapar TextSegment‑objekt.
 
 ```csharp
 public TextSegment(string text)
@@ -66,43 +66,45 @@ public TextSegment(string text)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textsegmentets text. |
+| text | String | Textsegmentets text. |
 
 ## Exempel
 
-Exemplet visar hur man skapar ett textfragmentobjekt, lägger till ett textsegment i textfragmentkollektionen och lägger till det på Pdf-sidan.
+Exemplet visar hur man skapar ett textfragmentobjekt, lägger till ett textsegment i textfragmentsamlingen och lägger till det på Pdf-sidan.
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-// create text fragment
+// skapa textfragment
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// set it's text properties
+// ange dess textegenskaper
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-// add one more segment to text fragment's Segments collection
+// lägg till ett segment till textfragmentets Segments-samling
 TextSegment segment2 = new TextSegment("another segment");
 
 tf.Segments.Add(segment2);
 
-// create TextBuilder object
+// skapa TextBuilder-objekt
 TextBuilder builder = new TextBuilder(page);
 
-// append the text fragment to the Pdf page
+// lägg till textfragmentet på Pdf-sidan
 builder.AppendText(tf);
 
-//save document
+//spara dokumentet
 doc.Save(outFile);
 ```
 
-### Se Även
+### Se även
 
-* klass [TextSegment](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: FormEditor.DecorateField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-metod. Ändrar visuella attribut för det angivna fältet
+title: "FormEditor.DecorateField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor metod. Ändrar visuella attribut för det angivna fältet"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.facades/formeditor/decoratefield/
@@ -16,7 +16,7 @@ public void DecorateField(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Det fullständigt kvalificerade fältnamnet. |
+| fieldName | String | Det fullständigt kvalificerade fältnamnet. |
 
 ## Exempel
 
@@ -30,11 +30,11 @@ fe.Facade.Alignment = FormFieldFacade.AlignCenter;
 fe.DecorateField("textField");
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -48,7 +48,7 @@ public void DecorateField(FieldType fieldType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldType | FieldType | Typ av fält som kommer att dekoreras. |
+| fieldType | FieldType | Typ av fält som ska dekoreras. |
 
 ## Exempel
 
@@ -59,22 +59,22 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all text fields.
+//dekorera alla textfält.
 fe.DecorateField(FieldType.Text);
 ```
 
-### Se Även
+### Se även
 
 * enum [FieldType](../../fieldtype/)
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DecorateField() {#decoratefield}
 
-Ändrar visuella attribut för alla fält i PDF-dokumentet.
+Ändrar visuella attribut för alla fält i PDF‑dokumentet.
 
 ```csharp
 public void DecorateField()
@@ -89,12 +89,14 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all fields.
+//dekorera alla fält.
 fe.DecorateField();
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

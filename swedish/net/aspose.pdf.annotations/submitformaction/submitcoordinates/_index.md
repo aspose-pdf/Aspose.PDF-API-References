@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.SubmitCoordinates
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction-fält. Om det är inställt ska koordinaterna för musens klick som orsakade submitform-åtgärden överföras som en del av formulärdata
+title: "SubmitFormAction.SubmitCoordinates"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SubmitFormAction-fält. Om den är inställd ska koordinaterna för musklicken som orsakade submitform‑åtgärden överföras som en del av formulärdata"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.annotations/submitformaction/submitcoordinates/
 ---
-## SubmitFormAction.SubmitCoordinates-fält
+## SubmitFormAction.SubmitCoordinates field
 
-Om det är inställt ska koordinaterna för musens klick som orsakade submit-form-åtgärden överföras som en del av formulärdata.
+Om angivet, ska koordinaterna för musklicken som orsakade submit‑form‑åtgärden överföras som en del av formulärdata.
 
 ```csharp
 public const int SubmitCoordinates;
 ```
 
-### Se Även
+### Se även
 
-* klass [SubmitFormAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

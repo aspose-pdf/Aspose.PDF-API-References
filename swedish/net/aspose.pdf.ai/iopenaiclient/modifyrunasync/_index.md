@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.ModifyRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Modifierar en befintlig körning inom en tråd asynkront
+title: "IOpenAIClient.ModifyRunAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient-metod. Ändrar en befintlig körning i en tråd asynkront"
 type: docs
 weight: 370
 url: /sv/net/aspose.pdf.ai/iopenaiclient/modifyrunasync/
 ---
-## IOpenAIClient.ModifyRunAsync metod
+## IOpenAIClient.ModifyRunAsync method
 
 Modifierar en befintlig körning inom en tråd asynkront.
 
@@ -17,26 +17,28 @@ public Task<RunResponse> ModifyRunAsync(string threadId, string runId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadId | Sträng | ID:t för tråden som innehåller körningen. |
-| runId | Sträng | ID:t för körningen som ska modifieras. |
-| assistantModifyRequest | RunModifyRequest | Begärningsdetaljer för att modifiera körningen. |
+| threadId | String | ID för tråden som innehåller körningen. |
+| runId | String | ID för körningen som ska modifieras. |
+| assistantModifyRequest | RunModifyRequest | Begärans detaljer för att modifiera körningen. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från körningsmodifieringen.
+En Task som representerar den asynkrona operationen. Task‑resultatet innehåller svaret från körningsmodifieringen.
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när tråd-ID:t är null eller tomt. |
-| [AIClientException](../../aiclientexception/) | Utlöses när körnings-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när tråd-Id är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när körnings‑ID är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [RunResponse](../../runresponse/)
-* klass [RunModifyRequest](../../runmodifyrequest/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* class [RunModifyRequest](../../runmodifyrequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

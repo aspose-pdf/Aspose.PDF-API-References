@@ -1,14 +1,14 @@
 ---
-title: InkAnnotation.InkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: InkAnnotation-konstruktör. Konstruktör för bläckanteckning för Generator
+title: "InkAnnotation.InkAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "InkAnnotation-konstruktorn. Konstruktor för bläckannotation för Generator."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/inkannotation/inkannotation/
 ---
 ## InkAnnotation(Document, IList&lt;Point[]&gt;) {#constructor}
 
-Konstruktor för bläckannotering för Generator.
+Konstruktor för Ink-annotation för Generator.
 
 ```csharp
 public InkAnnotation(Document document, IList<Point[]> inkList)
@@ -16,14 +16,14 @@ public InkAnnotation(Document document, IList<Point[]> inkList)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Document | Dokumentet där bläckannoteringen kommer att skapas. |
-| inkList | IList`1 | En array av Point[]-arrayer, där varje representerar en ritad väg. |
+| dokument | Dokument | Dokument där bläckanteckning kommer att skapas. |
+| inkList | IList`1 | En array av Point[]-arrayer, där varje representerar en ritad bana. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Point](../../../aspose.pdf/point/)
-* klass [InkAnnotation](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Point](../../../aspose.pdf/point/)
+* class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -31,7 +31,7 @@ public InkAnnotation(Document document, IList<Point[]> inkList)
 
 ## InkAnnotation(Page, Rectangle, IList&lt;Point[]&gt;) {#constructor_1}
 
-Skapar en ny bläckannotering på den angivna sidan.
+Skapar ny Ink-annotation på den angivna sidan.
 
 ```csharp
 public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
@@ -39,15 +39,17 @@ public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Dokumentets sida där annoteringen ska skapas. |
-| rect | Rectangle | Annoteringsrektangeln, som definierar platsen för annoteringen på sidan. |
-| inkList | IList`1 | En array av Point[]-arrayer, där varje representerar en ritad väg. |
+| sida | Page | Document-sidan där annotationen bör skapas. |
+| rect | Rectangle | Annotationsrektangeln, som definierar placeringen av annotationen på sidan. |
+| inkList | IList`1 | En array av Point[]-arrayer, där varje representerar en ritad bana. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [Point](../../../aspose.pdf/point/)
-* klass [InkAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
+* class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: LineAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation-egenskap. Hämtar eller ställer in inre färg för annoteringen
+title: "LineAnnotation.InteriorColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineAnnotation egenskap. Hämtar eller anger annoteringens inre färg"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.annotations/lineannotation/interiorcolor/
 ---
-## LineAnnotation.InteriorColor-egenskap
+## LineAnnotation.InteriorColor property
 
-Hämtar eller ställer in inre färg för annoteringen.
+Hämtar eller anger annotationens inre färg.
 
 ```csharp
 public Color InteriorColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [LineAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Color](../../../aspose.pdf/color/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

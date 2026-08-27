@@ -1,21 +1,23 @@
 ---
-title: XmpPdfAExtensionValueType.Type
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType-egenskap. Hämtar värdetyp
+title: "XmpPdfAExtensionValueType.Type"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionValueType egenskap. Hämtar värdetypen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/xmppdfaextensionvaluetype/type/
 ---
-## XmpPdfAExtensionValueType.Type-egenskap
+## XmpPdfAExtensionValueType.Type property
 
-Hämtar värdetyp.
+Hämtar värdetypen.
 
 ```csharp
 public string Type { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionValueType](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

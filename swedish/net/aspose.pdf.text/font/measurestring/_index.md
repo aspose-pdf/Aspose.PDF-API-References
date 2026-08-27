@@ -1,12 +1,12 @@
 ---
-title: Font.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: Font-metod. Mäter strängen
+title: "Font.MeasureString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Font metod. Mäter strängen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.text/font/measurestring/
 ---
-## Font.MeasureString metod
+## Font.MeasureString method
 
 Mäter strängen.
 
@@ -16,15 +16,17 @@ public double MeasureString(string str, float fontSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| str | Sträng | Strängen. |
-| fontSize | Enkel | Teckenstorlek. |
+| str | String | Strängen. |
+| fontSize | Single | Teckensnittsstorlek. |
 
 ### Returvärde
 
 Bredden på strängen som representeras med detta teckensnitt och den angivna storleken.
 
-### Se Även
+### Se även
 
-* klass [Font](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

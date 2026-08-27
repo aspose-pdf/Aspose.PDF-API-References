@@ -1,21 +1,23 @@
 ---
-title: XForm.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: XForm-egenskap. Hämtar formulär Subtyp
+title: "XForm.Subtype"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XForm-egenskap. Hämtar form Subtype"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/xform/subtype/
 ---
-## XForm.Subtype-egenskap
+## XForm.Subtype property
 
-Hämtar formulär Subtyp.
+Hämtar formens subtyp.
 
 ```csharp
 public string Subtype { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XForm](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfToImage.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImage-metod. Implementering av . Faktiskt är det inte nödvändigt för
+title: "PdfToImage.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfToImage-metoden. Implementation av . Faktiskt är det inte nödvändigt för"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/pdftoimage/dispose/
 ---
-## PdfToImage.Dispose metod
+## PdfToImage.Dispose method
 
 Implementering av . Faktiskt, det är inte nödvändigt för .
 
@@ -14,8 +14,10 @@ Implementering av . Faktiskt, det är inte nödvändigt för .
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfToImage](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [PdfToImage](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

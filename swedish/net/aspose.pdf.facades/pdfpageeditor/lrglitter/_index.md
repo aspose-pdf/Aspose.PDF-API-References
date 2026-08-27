@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.LRGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-fält. Vänster-Höger Glitter
+title: "PdfPageEditor.LRGLITTER"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-fält. VänsterHöger Glitter"
 type: docs
 weight: 250
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/lrglitter/
 ---
-## PdfPageEditor.LRGLITTER-fält
+## PdfPageEditor.LRGLITTER field
 
-Vänster-Höger Glitter
+Vänster-höger glitter
 
 ```csharp
 public const int LRGLITTER;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

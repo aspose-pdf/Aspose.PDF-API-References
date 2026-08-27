@@ -1,14 +1,14 @@
 ---
-title: Class RunStepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.RunStepDetails klass. Detaljer om körsteget
+title: "Klass RunStepDetails"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.RunStepDetails-klass. Detaljerna för körsteget"
 type: docs
-weight: 1030
+weight: 1110
 url: /sv/net/aspose.pdf.ai/runstepdetails/
 ---
-## RunStepDetails klass
+## RunStepDetails class
 
-Detaljer om körsteget.
+Detaljerna för körningssteget.
 
 ```csharp
 public class RunStepDetails
@@ -18,17 +18,19 @@ public class RunStepDetails
 
 | Namn | Beskrivning |
 | --- | --- |
-| [RunStepDetails](runstepdetails/)() | Standardkonstruktören. |
+| [RunStepDetails](runstepdetails/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [MessageCreation](../../aspose.pdf.ai/runstepdetails/messagecreation/) { get; set; } | Hämtar eller ställer in detaljerna för meddelandeskapandet. |
-| [RunStepType](../../aspose.pdf.ai/runstepdetails/runsteptype/) { get; set; } | Hämtar eller ställer in typen av körsteg. |
-| [ToolCalls](../../aspose.pdf.ai/runstepdetails/toolcalls/) { get; set; } | Hämtar eller ställer in detaljerna för verktygskall. |
+| [MessageCreation](../../aspose.pdf.ai/runstepdetails/messagecreation/) { get; set; } | Hämtar eller anger detaljerna för meddelandets skapande. |
+| [RunStepType](../../aspose.pdf.ai/runstepdetails/runsteptype/) { get; set; } | Hämtar eller anger typen av körsteg. |
+| [ToolCalls](../../aspose.pdf.ai/runstepdetails/toolcalls/) { get; set; } | Hämtar eller anger detaljerna för verktygsanropen. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

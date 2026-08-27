@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ToRect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-metod. Konverterar rektangel till instans av System.Drawing.Rectangle. Flyttal positioner och storlek trunkeras
+title: "Rectangle.ToRect"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-metod. Konverterar rektangeln till en instans av System.Drawing.Rectangle. Flyttalspositioner och storlek trunkeras"
 type: docs
 weight: 280
 url: /sv/net/aspose.pdf/rectangle/torect/
 ---
-## Rectangle.ToRect metod
+## Rectangle.ToRect method
 
-Konverterar rektangel till instans av System.Drawing.Rectangle. Flyttal positioner och storlek trunkeras.
+Konverterar rektangel till en instans av System.Drawing.Rectangle. Flyttalspositioner och storlek trunkeras.
 
 ```csharp
 public Rectangle ToRect()
@@ -18,8 +18,10 @@ public Rectangle ToRect()
 
 Resultat av konverteringen.
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetCharacterSpacing.SetCharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharacterSpacing-konstruktorn. Initierar operatör
+title: "SetCharacterSpacing.SetCharacterSpacing"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCharacterSpacing-konstruktör. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/setcharacterspacing/setcharacterspacing/
 ---
-## SetCharacterSpacing-konstruktorn
+## SetCharacterSpacing constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public SetCharacterSpacing(double charSpacing)
@@ -18,8 +18,10 @@ public SetCharacterSpacing(double charSpacing)
 | --- | --- | --- |
 | charSpacing | Double | Teckenavstånd. |
 
-### Se Även
+### Se även
 
-* klass [SetCharacterSpacing](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SetCharacterSpacing](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

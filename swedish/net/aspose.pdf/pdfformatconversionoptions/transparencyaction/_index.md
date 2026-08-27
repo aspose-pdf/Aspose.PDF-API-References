@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.TransparencyAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions egenskap. Åtgärd för bildmaskerade objekt
+title: "PdfFormatConversionOptions.TransparencyAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFormatConversionOptions‑egenskap. Åtgärd för bildmaskerade objekt"
 type: docs
-weight: 210
+weight: 220
 url: /sv/net/aspose.pdf/pdfformatconversionoptions/transparencyaction/
 ---
-## PdfFormatConversionOptions.TransparencyAction egenskap
+## PdfFormatConversionOptions.TransparencyAction property
 
 Åtgärd för bildmaskerade objekt
 
@@ -14,9 +14,11 @@ url: /sv/net/aspose.pdf/pdfformatconversionoptions/transparencyaction/
 public ConvertTransparencyAction TransparencyAction { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [ConvertTransparencyAction](../../converttransparencyaction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

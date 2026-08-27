@@ -1,21 +1,23 @@
 ---
-title: FitBHExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: FitBHExplicitDestination-egenskap. Hämtar den vertikala koordinaten top som är placerad vid fönstrets övre kant
+title: "FitBHExplicitDestination.Top"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FitBHExplicitDestination egenskap. Hämtar den vertikala koordinaten top som är placerad vid fönstrets övre kant"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/fitbhexplicitdestination/top/
 ---
-## FitBHExplicitDestination.Top-egenskap
+## FitBHExplicitDestination.Top property
 
-Hämtar den vertikala koordinaten top som är placerad vid fönstrets övre kant.
+Hämtar den vertikala koordinaten top som är placerad vid fönstrets överkant.
 
 ```csharp
 public double Top { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FitBHExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FitBHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

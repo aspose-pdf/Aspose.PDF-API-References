@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.SetOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode-metod. Ställer in opaciteten
+title: "PDF3DRenderMode.SetOpacity"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DRenderMode metod. Ställer in opaciteten"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.annotations/pdf3drendermode/setopacity/
 ---
-## PDF3DRenderMode.SetOpacity metod
+## PDF3DRenderMode.SetOpacity method
 
 Ställer in opaciteten.
 
@@ -22,8 +22,10 @@ public PDF3DRenderMode SetOpacity(double opacity)
 
 PDF3DRenderMode.
 
-### Se Även
+### Se även
 
-* klass [PDF3DRenderMode](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

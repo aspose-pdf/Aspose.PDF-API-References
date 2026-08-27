@@ -1,21 +1,23 @@
 ---
-title: StampAnnotation.Image
-second_title: Aspose.PDF for .NET API Reference
-description: StampAnnotation-egenskap. Hämtar eller ställer in bilden av anteckningen
+title: "StampAnnotation.Image"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StampAnnotation-egenskap. Hämtar eller anger bild för annoteringen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/stampannotation/image/
 ---
-## StampAnnotation.Image-egenskap
+## StampAnnotation.Image property
 
-Hämtar eller ställer in bilden av anteckningen.
+Hämtar eller anger bild för annotationen.
 
 ```csharp
 public Stream Image { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [StampAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [StampAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

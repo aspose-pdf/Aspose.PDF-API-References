@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetVectorStoreFileBatchFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Hämtar en lista över filer inom en specifik vektorbutik filbatch asynkront
+title: "IOpenAIClient.GetVectorStoreFileBatchFilesAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Hämtar en lista med filer inom en specifik vector store file batch asynkront"
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf.ai/iopenaiclient/getvectorstorefilebatchfilesasync/
 ---
-## IOpenAIClient.GetVectorStoreFileBatchFilesAsync metod
+## IOpenAIClient.GetVectorStoreFileBatchFilesAsync method
 
-Hämtar en lista över filer inom en specifik vektorbutik filbatch asynkront.
+Hämtar en lista med filer inom en specifik vektorlagerfilbatch asynkront.
 
 ```csharp
 public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(string vectorStoreId, 
@@ -18,26 +18,28 @@ public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(strin
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreId | Sträng | ID:t för vektorbutiken som innehåller filbatchen. |
-| fileBatchId | Sträng | ID:t för filbatchen att hämta filer från. |
-| queryParameters | VectorStoreFileBatchFileListQueryParameters | Valfria frågeparametrar för att filtrera listan över filer. |
+| vectorStoreId | String | ID för vector store som innehåller filbatchen. |
+| fileBatchId | String | ID‑t för filbatchen att hämta filer från. |
+| queryParameters | VectorStoreFileBatchFileListQueryParameters | Valfria frågeparametrar för att filtrera listan med filer. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller en lista över filer inom filbatchen.
+Ett uppdrag som representerar den asynkrona operationen. Uppgiftsresultatet innehåller en lista med filer inom filbatchen.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorbutikens Id är null eller tomt. |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorbutikens filbatch Id är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när vektorlager-ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när vector store‑filbatch‑Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
-* klass [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
+* class [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

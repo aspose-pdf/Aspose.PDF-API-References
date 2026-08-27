@@ -1,26 +1,28 @@
 ---
-title: TableCellElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement-egenskap. Hämtar StructureTextState-objekt för nuvarande element
+title: "TableCellElement.StructureTextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableCellElement egenskap. Hämtar StructureTextState-objektet för aktuellt element"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.logicalstructure/tablecellelement/structuretextstate/
 ---
-## TableCellElement.StructureTextState-egenskap
+## TableCellElement.StructureTextState property
 
-Hämtar StructureTextState-objekt för nuvarande element.
+Hämtar StructureTextState-objekt för aktuellt element.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-StructureTextState-objekt för nuvarande element.
+StructureTextState objekt för aktuellt element.
 
-### Se Även
+### Se även
 
-* klass [StructureTextState](../../structuretextstate/)
-* klass [TableCellElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTextState](../../structuretextstate/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

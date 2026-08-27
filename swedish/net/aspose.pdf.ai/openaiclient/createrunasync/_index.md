@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Skapar en körning inom en angiven tråd asynkront
+title: "OpenAIClient.CreateRunAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient-metod. Skapar en körning i en angiven tråd asynkront"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/openaiclient/createrunasync/
 ---
-## OpenAIClient.CreateRunAsync metod
+## OpenAIClient.CreateRunAsync method
 
-Skapar en körning inom en angiven tråd asynkront.
+Skapar en körning inom en specificerad tråd asynkront.
 
 ```csharp
 public Task<RunResponse> CreateRunAsync(string threadId, RunCreateRequest runCreateRequest, 
@@ -17,24 +17,26 @@ public Task<RunResponse> CreateRunAsync(string threadId, RunCreateRequest runCre
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadId | Sträng | ID:t för tråden där körningen kommer att skapas. |
-| runCreateRequest | RunCreateRequest | Begärningsdetaljer för att skapa körningen. |
+| threadId | String | ID för tråden där körningen kommer att skapas. |
+| runCreateRequest | RunCreateRequest | Begärans detaljer för att skapa körningen. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från körningsskapandet.
+En Task som representerar den asynkrona operationen. Task-resultatet innehåller svaret från körningsskapandet.
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när tråd-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när tråd-Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [RunResponse](../../runresponse/)
-* klass [RunCreateRequest](../../runcreaterequest/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunResponse](../../runresponse/)
+* class [RunCreateRequest](../../runcreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

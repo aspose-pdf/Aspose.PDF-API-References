@@ -1,14 +1,14 @@
 ---
-title: Class MoveTextPositionSetLeading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.MoveTextPositionSetLeading klass. Klass som representerar TD-operatorn för att flytta position och ställa in ledig plats
+title: "Klass MoveTextPositionSetLeading"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.MoveTextPositionSetLeading klass. Klass som representerar TD-operatorn för att flytta position och ange ledning"
 type: docs
-weight: 7490
+weight: 7630
 url: /sv/net/aspose.pdf.operators/movetextpositionsetleading/
 ---
-## MoveTextPositionSetLeading klass
+## MoveTextPositionSetLeading class
 
-Klass som representerar TD-operatorn (flytta position och ställa in ledig plats).
+Klass som representerar TD-operatorn (flytta position och sätt radavstånd).
 
 ```csharp
 public class MoveTextPositionSetLeading : TextPlaceOperator
@@ -24,20 +24,22 @@ public class MoveTextPositionSetLeading : TextPlaceOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [X](../../aspose.pdf.operators/movetextpositionsetleading/x/) { get; set; } | X-koordinat för textposition. |
-| [Y](../../aspose.pdf.operators/movetextpositionsetleading/y/) { get; set; } | Y-koordinat för textposition. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [X](../../aspose.pdf.operators/movetextpositionsetleading/x/) { get; set; } | X‑koordinat för textpositionen. |
+| [Y](../../aspose.pdf.operators/movetextpositionsetleading/y/) { get; set; } | Y‑koordinat för textpositionen. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept/)(IOperatorSelector) | Accepterar besöksobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [TextPlaceOperator](../textplaceoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FontSubstitutionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection-egenskap. Hämtar font-elementet vid det angivna indexet
+title: "FontSubstitutionCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontSubstitutionCollection‑egenskap. Hämtar teckensnittselementet på det angivna indexet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/fontsubstitutioncollection/item/
 ---
 ## FontSubstitutionCollection indexer
 
-Hämtar font-elementet vid det angivna indexet.
+Hämtar teckensnittselementet på det angivna indexet.
 
 ```csharp
 public FontSubstitution this[int index] { get; }
@@ -16,15 +16,17 @@ public FontSubstitution this[int index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Index inom samlingen. |
+| index | Index i samlingen. |
 
 ### Returvärde
 
-FontSubstitution-objekt.
+FontSubstitution‑objekt.
 
-### Se Även
+### Se även
 
-* klass [FontSubstitution](../../fontsubstitution/)
-* klass [FontSubstitutionCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

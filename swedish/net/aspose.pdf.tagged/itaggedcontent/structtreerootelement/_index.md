@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.StructTreeRootElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-egenskap. Hämtar StructTreeRootElement av PDF-dokument
+title: "ITaggedContent.StructTreeRootElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent egenskap. Hämtar StructTreeRootElement av PDF-dokument"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/structtreerootelement/
 ---
-## ITaggedContent.StructTreeRootElement-egenskap
+## ITaggedContent.StructTreeRootElement property
 
 Hämtar [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) av PDF-dokument.
 
@@ -14,13 +14,15 @@ Hämtar [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtre
 public StructTreeRootElement StructTreeRootElement { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) av PDF-dokument.
+[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) of PDF document.
 
-### Se Även
+### Se även
 
-* klass [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BackgroundArtifact.BackgroundArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: BackgroundArtifact-konstruktör. Initierar BackgroundArtifact-objekt
+title: "BackgroundArtifact.BackgroundArtifact"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BackgroundArtifact-konstruktor. Initierar ett BackgroundArtifact-objekt"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/backgroundartifact/backgroundartifact/
 ---
-## BackgroundArtifact-konstruktör
+## BackgroundArtifact constructor
 
 Initierar BackgroundArtifact-objekt.
 
@@ -14,8 +14,10 @@ Initierar BackgroundArtifact-objekt.
 public BackgroundArtifact()
 ```
 
-### Se Även
+### Se även
 
-* klass [BackgroundArtifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BackgroundArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

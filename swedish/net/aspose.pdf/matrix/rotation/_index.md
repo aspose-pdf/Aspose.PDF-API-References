@@ -1,7 +1,7 @@
 ---
-title: Matrix.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Matrismetod. Skapar matris för given rotationsvinkel
+title: "Matrix.Rotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix‑metod. Skapar matris för given rotationsvinkel"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/matrix/rotation/
@@ -16,7 +16,7 @@ public static Matrix Rotation(double alpha)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| alpha | Dubbel | Rotationsvinkel i radianer. |
+| alpha | Double | Rotationsvinkel i radianer. |
 
 ### Returvärde
 
@@ -28,10 +28,10 @@ Transformationsmatris.
 Matrix m = Matrix.Rotation(Math.PI / 2);
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -50,11 +50,13 @@ public static Matrix Rotation(Rotation rotation)
 
 ### Returvärde
 
-Matris med rotation.
+Matrix med rotation.
 
-### Se Även
+### Se även
 
 * enum [Rotation](../../rotation/)
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.PageRotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-egenskap. En hashtabell innehåller sidnumret och rotationsgraden, nyckeln representerar sidnumret, värdet av nyckeln representerar rotationen i grader
+title: "PdfPageEditor.PageRotations"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-egenskap. En hashtabell som innehåller sidnumret och rotationsgraden; nyckeln representerar sidnumret och värdet på nyckeln representerar rotationen i grader"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/pagerotations/
 ---
-## PdfPageEditor.PageRotations-egenskap
+## PdfPageEditor.PageRotations property
 
-En hashtabell innehåller sidnumret och rotationsgraden, nyckeln representerar sidnumret, värdet av nyckeln representerar rotationen i grader.
+En hashtabell innehåller sidnumret och rotationsgraden, nyckeln representerar sidnumret, värdet för nyckeln representerar rotationen i grader.
 
 ```csharp
 public Dictionary<int, int> PageRotations { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

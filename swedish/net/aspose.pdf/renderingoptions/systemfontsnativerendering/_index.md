@@ -1,21 +1,23 @@
 ---
-title: RenderingOptions.SystemFontsNativeRendering
-second_title: Aspose.PDF for .NET API Reference
-description: RenderingOptions-egenskap. Hämtar eller ställer in ett läge där systemteckensnitt renderas nativt
+title: "RenderingOptions.SystemFontsNativeRendering"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RenderingOptions property. Hämtar eller anger ett läge där systemteckensnitt renderas nativt"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/renderingoptions/systemfontsnativerendering/
 ---
-## RenderingOptions.SystemFontsNativeRendering-egenskap
+## RenderingOptions.SystemFontsNativeRendering property
 
-Hämtar eller ställer in ett läge där systemteckensnitt renderas nativt.
+Hämtar eller anger ett läge där systemteckensnitt renderas inbyggt.
 
 ```csharp
 public bool SystemFontsNativeRendering { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RenderingOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

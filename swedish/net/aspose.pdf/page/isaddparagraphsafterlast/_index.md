@@ -1,25 +1,27 @@
 ---
-title: Page.IsAddParagraphsAfterLast
-second_title: Aspose.PDF for .NET API Reference
-description: Page-egenskap. Hämtar eller ställer in tillägget av stycken efter det sista stycket på sidan
+title: "Page.IsAddParagraphsAfterLast"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar eller anger tillägget av stycken efter det sista stycket på sidan"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf/page/isaddparagraphsafterlast/
 ---
-## Page.IsAddParagraphsAfterLast-egenskap
+## Page.IsAddParagraphsAfterLast property
 
-Hämtar eller ställer in tillägget av stycken efter det sista stycket på sidan
+Hämtar eller anger tillägg av stycken efter sista stycket på page
 
 ```csharp
 public bool IsAddParagraphsAfterLast { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Värdet indikerar om stycken kommer att läggas till efter det sista stycket på sidan. Stycken kommer att läggas till efter det sista stycket på sidan om värdet är sant.
 
-### Se Även
+### Se även
 
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

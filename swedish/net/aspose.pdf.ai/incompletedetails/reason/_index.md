@@ -1,21 +1,23 @@
 ---
-title: IncompleteDetails.Reason
-second_title: Aspose.PDF for .NET API Reference
-description: IncompleteDetails-egenskap. Hämtar eller ställer in anledningen till varför meddelandet är ofullständigt
+title: "IncompleteDetails.Reason"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IncompleteDetails egenskap. Hämtar eller anger orsaken till att meddelandet är ofullständigt"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/incompletedetails/reason/
 ---
-## IncompleteDetails.Reason-egenskap
+## IncompleteDetails.Reason property
 
-Hämtar eller ställer in anledningen till varför meddelandet är ofullständigt.
+Hämtar eller anger orsaken till att meddelandet är ofullständigt.
 
 ```csharp
 public string Reason { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [IncompleteDetails](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [IncompleteDetails](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

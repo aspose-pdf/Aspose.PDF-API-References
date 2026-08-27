@@ -1,14 +1,14 @@
 ---
-title: Class ThreadMessageListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ThreadMessageListQueryParameters klass. Frågeparametrar objekt för att lista trådmeddelanden
+title: "Klass ThreadMessageListQueryParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.ThreadMessageListQueryParameters klass. Objekt för frågeparametrar för att lista trådmeddelanden"
 type: docs
-weight: 1130
+weight: 1220
 url: /sv/net/aspose.pdf.ai/threadmessagelistqueryparameters/
 ---
-## ThreadMessageListQueryParameters klass
+## ThreadMessageListQueryParameters class
 
-Frågeparametrar objekt för att lista trådmeddelanden.
+Objekt för frågeparametrar för att lista trådmeddelanden.
 
 ```csharp
 public class ThreadMessageListQueryParameters : BaseListQueryParameters, IQueryParameters
@@ -24,11 +24,11 @@ public class ThreadMessageListQueryParameters : BaseListQueryParameters, IQueryP
 
 | Namn | Beskrivning |
 | --- | --- |
-| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | Hämtar eller sätter en markör för användning i paginering. after är ett objekt-ID som definierar din plats i listan. Till exempel, om du gör en listförfrågan och får 100 objekt, som slutar med obj_foo, kan din efterföljande anrop inkludera after=obj_foo för att hämta nästa sida av listan. |
-| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | Hämtar eller sätter en markör för användning i paginering. before är ett objekt-ID som definierar din plats i listan. Till exempel, om du gör en listförfrågan och får 100 objekt, som slutar med obj_foo, kan din efterföljande anrop inkludera before=obj_foo för att hämta föregående sida av listan. |
-| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | Hämtar eller sätter en gräns för antalet objekt som ska returneras. Limit kan variera mellan 1 och 100, och standardvärdet är 20. |
-| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | Hämtar eller sätter sorteringsordning efter created_at tidsstämpeln för objekten. asc för stigande ordning och desc för fallande ordning. |
-| [RunId](../../aspose.pdf.ai/threadmessagelistqueryparameters/runid/) { get; set; } | Filtrera meddelanden efter kör-ID som genererade dem. |
+| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | Hämtar eller anger en markör för användning i paginering. after är ett objekt‑ID som definierar din position i listan. Till exempel, om du gör en listförfrågan och får 100 objekt, avslutade med obj_foo, kan ditt efterföljande anrop inkludera after=obj_foo för att hämta nästa sida av listan. |
+| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | Hämtar eller anger en markör för användning i paginering. before är ett objekt‑ID som definierar din position i listan. Till exempel, om du gör en listförfrågan och får 100 objekt, avslutade med obj_foo, kan ditt efterföljande anrop inkludera before=obj_foo för att hämta föregående sida av listan. |
+| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | Hämtar eller anger en gräns för antalet objekt som ska returneras. Gränsen kan ligga mellan 1 och 100, och standardvärdet är 20. |
+| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | Hämtar eller anger sorteringsordning efter objektens created_at‑tidsstämpel. asc för stigande ordning och desc för fallande ordning. |
+| [RunId](../../aspose.pdf.ai/threadmessagelistqueryparameters/runid/) { get; set; } | Filtrera meddelanden efter körnings-ID som genererade dem. |
 
 ## Metoder
 
@@ -36,9 +36,11 @@ public class ThreadMessageListQueryParameters : BaseListQueryParameters, IQueryP
 | --- | --- |
 | [GetQueryParameters](../../aspose.pdf.ai/threadmessagelistqueryparameters/getqueryparameters/)() | Hämtar frågeparametrarna för att lista trådmeddelanden. |
 
-### Se Även
+### Se även
 
-* klass [BaseListQueryParameters](../baselistqueryparameters/)
-* gränssnitt [IQueryParameters](../iqueryparameters/)
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* class [BaseListQueryParameters](../baselistqueryparameters/)
+* interface [IQueryParameters](../iqueryparameters/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

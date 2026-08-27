@@ -1,21 +1,23 @@
 ---
-title: Stamp.ZoomY
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Vertikal zoomfaktor för stämpeln. Möjliggör vertikal skalning av stämpeln
+title: "Stamp.ZoomY"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp-egenskap. Vertikal zoomfaktor för stampen. Tillåter att skala stampen vertikalt"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf/stamp/zoomy/
 ---
-## Stamp.ZoomY-egenskap
+## Stamp.ZoomY property
 
-Vertikal zoomfaktor för stämpeln. Möjliggör vertikal skalning av stämpeln.
+Vertikal zoomfaktor för stämpeln. Tillåter att skala stämpeln vertikalt.
 
 ```csharp
 public double ZoomY { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

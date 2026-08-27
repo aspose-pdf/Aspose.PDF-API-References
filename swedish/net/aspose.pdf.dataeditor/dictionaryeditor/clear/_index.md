@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor metod. Tar bort alla objekt från DictionaryEditor
+title: "DictionaryEditor.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DictionaryEditor metod. Tar bort alla objekt från DictionaryEditor"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.dataeditor/dictionaryeditor/clear/
 ---
-## DictionaryEditor.Clear metod
+## DictionaryEditor.Clear method
 
 Tar bort alla objekt från [`DictionaryEditor`](../).
 
@@ -14,8 +14,10 @@ Tar bort alla objekt från [`DictionaryEditor`](../).
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [DictionaryEditor](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

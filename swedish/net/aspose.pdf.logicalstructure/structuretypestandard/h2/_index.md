@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.H2
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Nivå 2 Rubrik för användning i konformerande författare som inte kan hierarkiskt nästla sina sektioner och därmed inte kan bestämma nivån på en rubrik utifrån dess nästlingsnivå
+title: "StructureTypeStandard.H2"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard field. Rubrik nivå 2 för användning i överensstämmande skribenter som inte kan hierarkiskt nästla sina sektioner och därför inte kan bestämma rubriknivån utifrån dess nästlingsnivå"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/h2/
 ---
-## StructureTypeStandard.H2-fält
+## StructureTypeStandard.H2 field
 
-Nivå 2 Rubrik, för användning i konformerande författare som inte kan hierarkiskt nästla sina sektioner och därmed inte kan bestämma nivån på en rubrik utifrån dess nästlingsnivå.
+Rubrik nivå 2, för användning i kompatibla skribenter som inte kan hierarkiskt nästla sina sektioner och därför inte kan bestämma rubriknivån utifrån dess nästlingsnivå.
 
 ```csharp
 public static readonly StructureTypeStandard H2;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

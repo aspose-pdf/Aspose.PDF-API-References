@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection-egenskap. Hämtar ett objekt som kan användas för att synkronisera åtkomst till samlingen
+title: "FontSubstitutionCollection.SyncRoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontSubstitutionCollection‑egenskap. Hämtar ett objekt som kan användas för att synkronisera åtkomst till samlingen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/fontsubstitutioncollection/syncroot/
 ---
-## FontSubstitutionCollection.SyncRoot-egenskap
+## FontSubstitutionCollection.SyncRoot property
 
 Hämtar ett objekt som kan användas för att synkronisera åtkomst till samlingen.
 
@@ -14,8 +14,10 @@ Hämtar ett objekt som kan användas för att synkronisera åtkomst till samling
 public object SyncRoot { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FontSubstitutionCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo.HtmlImageSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlImageSavingInfo-konstruktorn. Standardkonstruktorn
+title: "HtmlSaveOptions.HtmlImageSavingInfo.HtmlImageSavingInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlImageSavingInfo‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlimagesavinginfo/
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo-konstruktorn
+## HtmlSaveOptions.HtmlImageSavingInfo constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public HtmlImageSavingInfo()
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlImageSavingInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [HtmlImageSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

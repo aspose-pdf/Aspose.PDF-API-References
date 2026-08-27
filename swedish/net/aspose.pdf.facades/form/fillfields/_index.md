@@ -1,14 +1,14 @@
 ---
-title: Form.FillFields
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Fyller textlådefälten med textvärden och sparar dokumentet. Relevant för signerade dokument. Observera Endast tillämplig på Text Box. Både fältnamn och värden är skiftlägeskänsliga.
+title: "Form.FillFields"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form metod. Fyller i textrutefälten med textvärden och sparar dokumentet. Relevant för signerade dokument. Observera att det endast gäller textrutor. Både fältnamn och värden är skiftlägeskänsliga."
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.facades/form/fillfields/
 ---
-## Form.FillFields metod
+## Form.FillFields method
 
-Fyller textlådefälten med textvärden och sparar dokumentet. Relevant för signerade dokument. Observera: Endast tillämplig på Text Box. Både fältnamn och värden är skiftlägeskänsliga.
+Fyller i textrutefälten med textvärden och sparar dokumentet. Relevant för signerade dokument. Obs: Gäller endast för textruta. Både fältnamnen och värdena är skiftlägeskänsliga.
 
 ```csharp
 public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream output)
@@ -16,13 +16,13 @@ public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream out
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldNames | String[] | Namn på fälten. |
+| fieldNames | String[] | Namn på fält. |
 | fieldValues | String[] | Nya värden för fälten. |
-| output | Stream& | Stream där dokumentet kommer att sparas. |
+| utdata | Stream& | Ström där dokumentet kommer att sparas. |
 
 ### Returvärde
 
-true om fälten hittades och framgångsrikt fylldes.
+true om fältet hittades och framgångsrikt fylldes.
 
 ## Exempel
 
@@ -32,8 +32,10 @@ Stream stream;
 form.FillFields(new string[] {"Field1"}, new string[] {"+"}, out stream);
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

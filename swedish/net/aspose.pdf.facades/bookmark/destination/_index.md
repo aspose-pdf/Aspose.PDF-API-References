@@ -1,21 +1,23 @@
 ---
-title: Bookmark.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Bokmärkeegenskap. Hämtar eller ställer in bokmärkets destinationssida. Krävs om åtgärden är inställd på string.Empty
+title: "Bookmark.Destination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Bookmark-egenskap. Hämtar eller anger bokmärkets destinationssida. Krävs om åtgärden är satt till string.Empty"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.facades/bookmark/destination/
 ---
-## Bokmärke.Destination egenskap
+## Bookmark.Destination property
 
-Hämtar eller ställer in bokmärkets destinationssida. Krävs om åtgärden är inställd på string.Empty.
+Hämtar eller anger bokmärkets destinationssida. Krävs om åtgärden är satt till string.Empty.
 
 ```csharp
 public string Destination { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Bokmärke](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

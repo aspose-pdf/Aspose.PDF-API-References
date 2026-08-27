@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection-metod. Tar bort det angivna objektet kastar NotSupportedException
+title: "PageCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageCollection-metod. Tar bort det specificerade objektet och kastar NotSupportedException"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf/pagecollection/remove/
 ---
-## PageCollection.Remove metod
+## PageCollection.Remove method
 
 Tar bort det angivna objektet, kastar NotSupportedException.
 
@@ -22,9 +22,11 @@ public bool Remove(Page item)
 
 NotSupportedException
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [PageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

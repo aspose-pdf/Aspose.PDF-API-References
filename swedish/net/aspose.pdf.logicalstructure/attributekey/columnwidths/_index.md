@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.ColumnWidths
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. ColumnWidths-attribut Layout-attribut ägare
+title: "AttributeKey.ColumnWidths"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. ColumnWidths attribut Layout-attributägare"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/columnwidths/
 ---
-## AttributeKey.ColumnWidths-fält
+## AttributeKey.ColumnWidths field
 
-ColumnWidths-attribut (Layout-attribut ägare).
+ColumnWidths-attribut (Layout-attributägare).
 
 ```csharp
 public static readonly AttributeKey ColumnWidths;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

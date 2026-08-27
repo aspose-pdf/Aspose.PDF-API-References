@@ -1,21 +1,23 @@
 ---
-title: StructureTypeCategory.BLSEs
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory-fält. Blocknivåstruktur-element - BLSE - beskriver den övergripande layouten av innehåll på sidan som fortskrider i blockprogressionsriktningen
+title: "StructureTypeCategory.BLSEs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeCategory fält. Blocknivå strukturelement BLSEs beskriver den övergripande layouten av innehåll på sidan som fortskrider i blockprogressionsriktning"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/structuretypecategory/blses/
 ---
-## StructureTypeCategory.BLSEs-fält
+## StructureTypeCategory.BLSEs field
 
-Blocknivåstruktur-element (BLSE) beskriver den övergripande layouten av innehåll på sidan, som fortskrider i blockprogressionsriktningen.
+Blocknivå strukturelement (BLSEs) beskriver den övergripande layouten av innehållet på sidan, i block-progressionsriktning.
 
 ```csharp
 public static readonly StructureTypeCategory BLSEs;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeCategory](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

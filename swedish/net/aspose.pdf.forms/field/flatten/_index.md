@@ -1,12 +1,12 @@
 ---
-title: Field.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Fältmetod. Tar bort detta fält och placerar dess värde direkt på sidan
+title: "Field.Flatten"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Field metod. Tar bort detta fält och placerar dess värde direkt på sidan"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.forms/field/flatten/
 ---
-## Field.Flatten metod
+## Field.Flatten method
 
 Tar bort detta fält och placerar dess värde direkt på sidan.
 
@@ -18,8 +18,10 @@ public override void Flatten()
 | --- | --- |
 | isPageContentsBracketed |  |
 
-### Se Även
+### Se även
 
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: TextSearchOptions.IsRegularExpressionUsed
-second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions-egenskap. Hämtar eller ställer in indikation om att reguljära uttryck används
+title: "TextSearchOptions.IsRegularExpressionUsed"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSearchOptions‑egenskap. Hämtar eller anger en indikation på att reguljärt uttryck används."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/textsearchoptions/isregularexpressionused/
 ---
-## TextSearchOptions.IsRegularExpressionUsed-egenskap
+## TextSearchOptions.IsRegularExpressionUsed property
 
-Hämtar eller ställer in indikation om att reguljära uttryck används.
+Hämtar eller anger indikation på att reguljärt uttryck används.
 
 ```csharp
 public bool IsRegularExpressionUsed { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextSearchOptions](../)
-* namnrum [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

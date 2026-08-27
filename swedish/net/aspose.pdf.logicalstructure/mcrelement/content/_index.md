@@ -1,27 +1,29 @@
 ---
-title: MCRElement.Content
-second_title: Aspose.PDF for .NET API Reference
-description: MCRElement-egenskap. Hämtar textinnehåll för markerat innehålls referenselement
+title: "MCRElement.Content"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MCRElement egenskap. Hämtar textinnehåll för markerat innehållsreferenselement"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/mcrelement/content/
 ---
-## MCRElement.Content-egenskap
+## MCRElement.Content property
 
-Hämtar textinnehåll för markerat innehålls referenselement.
+Hämtar textinnehåll för markerat innehållsreferenselement.
 
-För just skapad objekt som implementerar [`ITextElement`](../../itextelement/). Är null i andra fall.
+För just skapat objekt som implementerar [`ITextElement`](../../itextelement/). Är null i andra fall.
 
 ```csharp
 public string Content { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Textinnehåll för markerat innehålls referenselement.
+Textinnehåll för markerat innehållsreferenselement.
 
-### Se Även
+### Se även
 
-* klass [MCRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

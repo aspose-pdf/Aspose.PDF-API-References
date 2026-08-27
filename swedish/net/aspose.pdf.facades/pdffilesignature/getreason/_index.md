@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetReason
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature metod. Hämtar anledningen till en signatur
+title: "PdfFileSignature.GetReason"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature-metod. Hämtar anledningen till en signatur"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/pdffilesignature/getreason/
 ---
-## PdfFileSignature.GetReason metod
+## PdfFileSignature.GetReason method
 
-Hämtar anledningen till en signatur.
+Hämtar signaturens anledning.
 
 ```csharp
 public string GetReason(SignatureName signName)
@@ -20,11 +20,13 @@ public string GetReason(SignatureName signName)
 
 ### Returvärde
 
-Returnerar ett resultat av strängtyp.
+Returnerar ett resultat av typen string.
 
-### Se Även
+### Se även
 
-* klass [SignatureName](../../signaturename/)
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

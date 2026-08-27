@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-metod. Startar PdfExtractor-behandling med de angivna parametrarna
+title: "PdfExtractor.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor metod. Startar PdfExtractor‑bearbetning med de angivna parametrarna"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/pdfextractor/process/
 ---
-## PdfExtractor.Process metod
+## PdfExtractor.Process method
 
-Startar PdfExtractor-behandling med de angivna parametrarna.
+Startar PdfExtractor‑bearbetning med de angivna parametrarna.
 
 ```csharp
 public ResultContainer Process(IPluginOptions pdfExtractorOptions)
@@ -16,16 +16,18 @@ public ResultContainer Process(IPluginOptions pdfExtractorOptions)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pdfExtractorOptions | IPluginOptions | Ett optionsobjekt som innehåller instruktioner för PdfExtractor. |
+| pdfExtractorOptions | IPluginOptions | Ett options‑objekt som innehåller instruktioner för PdfExtractor. |
 
 ### Returvärde
 
-Ett ResultContainer-objekt som innehåller resultatet av extraktionen.
+Ett ResultContainer‑objekt som innehåller resultatet av extraktionen.
 
-### Se Även
+### Se även
 
-* klass [ResultContainer](../../resultcontainer/)
-* gränssnitt [IPluginOptions](../../ipluginoptions/)
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

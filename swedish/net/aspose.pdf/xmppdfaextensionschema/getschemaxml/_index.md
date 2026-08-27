@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.GetSchemaXml
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema-metod. Returnerar xml-elementtaggen li som representerar schema i xml-trädet
+title: "XmpPdfAExtensionSchema.GetSchemaXml"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionSchema metod. Returnerar xml-elementtaggen li som representerar schemat i xml-trädet"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/xmppdfaextensionschema/getschemaxml/
 ---
-## XmpPdfAExtensionSchema.GetSchemaXml metod
+## XmpPdfAExtensionSchema.GetSchemaXml method
 
-Returnerar xml-elementet (tagg - li) som representerar schema i xml-trädet.
+Returnerar xml‑elementet (tagg - li) som representerar schemat i xml‑trädet.
 
 ```csharp
 public XmlElement GetSchemaXml(XmlDocument xmlDocument)
@@ -16,14 +16,16 @@ public XmlElement GetSchemaXml(XmlDocument xmlDocument)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | Den källxml-dokumentet. |
+| xmlDocument | XmlDocument | Källdokumentet i xml. |
 
 ### Returvärde
 
 Xml-elementet.
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

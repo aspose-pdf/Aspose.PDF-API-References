@@ -1,14 +1,14 @@
 ---
-title: CircleAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: CircleAnnotation-metod. Accepterar besökarobjekt för att bearbeta annotationen
+title: "CircleAnnotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CircleAnnotation‑metod. Accepterar besökarobjekt för att bearbeta annotationen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/circleannotation/accept/
 ---
-## CircleAnnotation.Accept metod
+## CircleAnnotation.Accept method
 
-Accepterar besökarobjekt för att bearbeta annotationen.
+Accepterar besökarobjekt för att bearbeta anteckningen.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Besökarobjekt. |
+| besökare | AnnotationSelector | Besökarobjekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [CircleAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [CircleAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

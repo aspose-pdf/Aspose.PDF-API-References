@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions metod. Ställer in max fullföljande tokens för sammanfattningskopilotalternativen
+title: "LlamaSummaryCopilotOptions.WithMaxCompletionTokens"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaSummaryCopilotOptions metod. Anger maximalt antal slutförandetoken för sammanfattnings‑copilot‑alternativen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.ai/llamasummarycopilotoptions/withmaxcompletiontokens/
 ---
-## LlamaSummaryCopilotOptions.WithMaxCompletionTokens metod
+## LlamaSummaryCopilotOptions.WithMaxCompletionTokens method
 
-Ställer in max fullföljande tokens för sammanfattningskopilotalternativen.
+Ställer in maximalt antal token för slutförande för alternativ för sammanfattnings‑copilot.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -16,14 +16,16 @@ public LlamaSummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionToke
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | De max fullföljande tokens som ska ställas in. |
+| maxCompletionTokens | Nullable`1 | Det maximala antalet slutförandetoken att ställa in. |
 
 ### Returvärde
 
 Den aktuella instansen av [`LlamaSummaryCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [LlamaSummaryCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

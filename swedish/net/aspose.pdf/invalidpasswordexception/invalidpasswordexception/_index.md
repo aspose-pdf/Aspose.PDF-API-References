@@ -1,14 +1,14 @@
 ---
-title: InvalidPasswordException.InvalidPasswordException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidPasswordException-konstruktorn. Initierar en ny instans av InvalidPasswordException-klassen
+title: "InvalidPasswordException.InvalidPasswordException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "InvalidPasswordException‑konstruktör. Initierar en ny instans av klassen InvalidPasswordException"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/invalidpasswordexception/invalidpasswordexception/
 ---
 ## InvalidPasswordException(string) {#constructor_1}
 
-Initierar en ny instans av [`InvalidPasswordException`](../) klassen.
+Initialiserar en ny instans av klassen [`InvalidPasswordException`](../).
 
 ```csharp
 public InvalidPasswordException(string message)
@@ -16,19 +16,19 @@ public InvalidPasswordException(string message)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Meddelandet. |
+| meddelande | String | Meddelandet. |
 
-### Se Även
+### Se även
 
-* klass [InvalidPasswordException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidPasswordException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidPasswordException(string, Exception) {#constructor_2}
 
-Initierar en ny instans av [`InvalidPasswordException`](../) klassen med ett specificerat felmeddelande och en referens till den inre undantaget som orsakar detta undantag.
+Initialiserar en ny instans av klassen [`InvalidPasswordException`](../) med ett specificerat felmeddelande och en referens till det inre undantaget som är orsaken till detta undantag.
 
 ```csharp
 public InvalidPasswordException(string message, Exception innerException)
@@ -36,20 +36,20 @@ public InvalidPasswordException(string message, Exception innerException)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Felmeddelandet som förklarar orsaken till undantaget. |
-| innerException | Exception | Undantaget som orsakar det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag anges. |
+| meddelande | String | Felmeddelandet som förklarar orsaken till undantaget. |
+| innerException | Exception | Undantaget som är orsaken till det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag har angetts. |
 
-### Se Även
+### Se även
 
-* klass [InvalidPasswordException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidPasswordException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidPasswordException(Exception) {#constructor}
 
-Initierar en ny instans av [`InvalidPasswordException`](../) klassen med en referens till det inre undantaget som orsakar detta undantag.
+Initialiserar en ny instans av klassen [`InvalidPasswordException`](../) med en referens till det inre undantaget som är orsaken till detta undantag.
 
 ```csharp
 public InvalidPasswordException(Exception innerException)
@@ -57,10 +57,12 @@ public InvalidPasswordException(Exception innerException)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| innerException | Exception | Undantaget som orsakar det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag anges. |
+| innerException | Exception | Undantaget som är orsaken till det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag har angetts. |
 
-### Se Även
+### Se även
 
-* klass [InvalidPasswordException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidPasswordException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Form.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Formegenskap. Hämtar eller ställer in standardutseendet för formobjektet som beskriver standard teckensnitt, textstorlek och färg för fälten på formuläret
+title: "Form.DefaultAppearance"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formegenskap. Hämtar eller anger standardutseendet för formulärobjektet som beskriver standardteckensnitt, textstorlek och färg för fält i formuläret."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/form/defaultappearance/
 ---
-## Form.DefaultAppearance-egenskap
+## Form.DefaultAppearance property
 
-Hämtar eller ställer in standardutseendet för formuläret (objekt som beskriver standard teckensnitt, textstorlek och färg för fälten på formuläret).
+Hämtar eller anger standardutseendet för formuläret (objekt som beskriver standardtypsnitt, textstorlek och färg för fält i formuläret).
 
 ```csharp
 public DefaultAppearance DefaultAppearance { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: ValidationOptions.ValidationMethod
-second_title: Aspose.PDF for .NET API Reference
-description: ValidationOptions-egenskap. Hämtar eller ställer in metoden som används för att validera ett certifikat
+title: "ValidationOptions.ValidationMethod"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ValidationOptions egenskap. Hämtar eller anger metoden som används för att validera ett certifikat."
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.pdf.security/validationoptions/validationmethod/
 ---
-## ValidationOptions.ValidationMethod-egenskap
+## ValidationOptions.ValidationMethod property
 
-Hämtar eller ställer in metoden som används för att validera ett certifikat.
+Hämtar eller anger metoden som används för att validera ett certifikat.
 
 ```csharp
 public ValidationMethod ValidationMethod { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [ValidationMethod](../../validationmethod/)
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-egenskap. Hämtar eller ställer in zoomkoefficient. Värdet 1.0 motsvarar 100. Standardvärdet är 1.0. Följande exempel visar hur man ändrar zoom på dokumentets sidor
+title: "PdfPageEditor.Zoom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-egenskap. Hämtar eller anger zoomkoefficient. Värde 1.0 motsvarar 100. Standardvärdet är 1.0.  Följande exempel visar hur man ändrar zoom för dokumentets sidor"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/zoom/
 ---
-## PdfPageEditor.Zoom-egenskap
+## PdfPageEditor.Zoom property
 
-Hämtar eller ställer in zoomkoefficient. Värdet 1.0 motsvarar 100%. Standardvärdet är 1.0. Följande exempel visar hur man ändrar zoom på dokumentets sidor.
+Hämtar eller anger zoomkoefficient. Värdet 1,0 motsvarar 100 %. Standardvärdet är 1,0. Följande exempel visar hur man ändrar zoom för dokumentets sidor.
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -20,8 +20,10 @@ editor.Zoom = 0.5f;
 public float Zoom { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

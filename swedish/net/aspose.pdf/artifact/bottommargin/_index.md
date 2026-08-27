@@ -1,21 +1,23 @@
 ---
-title: Artifact.BottomMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-egenskap. Nedre marginal av artefakt. Om positionen anges uttryckligen i Position-egenskapen ignoreras detta värde
+title: "Artifact.BottomMargin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact egenskap. Nedre marginal för artifact. Om position anges explicit i Position-egenskapen ignoreras detta värde."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/artifact/bottommargin/
 ---
-## Artifact.BottomMargin-egenskap
+## Artifact.BottomMargin property
 
-Nedre marginal av artefakt. Om positionen anges uttryckligen (i Position-egenskapen) ignoreras detta värde.
+Bottenmarginal för artefakt. Om position anges explicit (i Position-egenskapen) ignoreras detta värde.
 
 ```csharp
 public double BottomMargin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

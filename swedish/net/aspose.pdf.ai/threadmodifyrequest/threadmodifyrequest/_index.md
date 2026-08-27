@@ -1,21 +1,23 @@
 ---
-title: ThreadModifyRequest.ThreadModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadModifyRequest-konstruktorn. Den förvalda konstruktorn
+title: "ThreadModifyRequest.ThreadModifyRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadModifyRequest konstruktör. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/threadmodifyrequest/threadmodifyrequest/
 ---
-## ThreadModifyRequest-konstruktorn
+## ThreadModifyRequest constructor
 
-Den förvalda konstruktorn.
+Standardkonstruktorn.
 
 ```csharp
 public ThreadModifyRequest()
 ```
 
-### Se Även
+### Se även
 
-* klass [ThreadModifyRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ThreadModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

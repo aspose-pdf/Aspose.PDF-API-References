@@ -1,22 +1,24 @@
 ---
-title: TextFragment.FootNote
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment-egenskap. Hämtar eller ställer in styckets fotnot.
+title: "TextFragment.FootNote"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragment-egenskap. Hämtar eller anger styckets fotnot, endast för pdf-generering."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/textfragment/footnote/
 ---
-## TextFragment.FootNote-egenskap
+## TextFragment.FootNote property
 
-Hämtar eller ställer in styckets fotnot. (endast för PDF-generering)
+Hämtar eller anger paragrafens fotnot.(endast för pdf-generering)
 
 ```csharp
 public Note FootNote { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Note](../../../aspose.pdf/note/)
-* klass [TextFragment](../)
-* namnrum [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Note](../../../aspose.pdf/note/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

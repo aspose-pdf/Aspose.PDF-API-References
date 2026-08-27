@@ -1,12 +1,12 @@
 ---
-title: TrimMarkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: TrimMarkAnnotation-egenskap. Hämtar typ av annotation
+title: "TrimMarkAnnotation.AnnotationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TrimMarkAnnotation-egenskap. Hämtar typ av annotering"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/trimmarkannotation/annotationtype/
 ---
-## TrimMarkAnnotation.AnnotationType-egenskap
+## TrimMarkAnnotation.AnnotationType property
 
 Hämtar typ av annotation.
 
@@ -14,9 +14,11 @@ Hämtar typ av annotation.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../annotationtype/)
 * class [TrimMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

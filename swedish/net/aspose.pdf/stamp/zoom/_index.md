@@ -1,21 +1,23 @@
 ---
-title: Stamp.Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Zoomfaktor för stämpeln. Möjliggör skalning av stämpeln. Observera att paret av egenskaperna ZoomX och ZoomY möjliggör att ställa in zoomfaktorn för varje axel separat. Inställningen av denna egenskap ändrar både ZoomX- och ZoomY-egenskaperna. Om ZoomX och ZoomY är olika returnerar Zoom-egenskapen värdet av ZoomX.
+title: "Stamp.Zoom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp‑egenskap. Zoom‑faktor för stamp. Gör det möjligt att skala stamp. Observera att paret av egenskaper ZoomX och ZoomY tillåter att sätta zoom‑faktor för varje axel separat. Inställning av denna egenskap ändrar både ZoomX‑ och ZoomY‑egenskaperna. Om ZoomX och ZoomY är olika returnerar Zoom‑egenskapen värdet från ZoomX."
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf/stamp/zoom/
 ---
-## Stamp.Zoom-egenskap
+## Stamp.Zoom property
 
-Zoomfaktor för stämpeln. Möjliggör skalning av stämpeln. Observera att paret av egenskaperna ZoomX och ZoomY möjliggör att ställa in zoomfaktorn för varje axel separat. Inställningen av denna egenskap ändrar både ZoomX- och ZoomY-egenskaperna. Om ZoomX och ZoomY är olika returnerar Zoom-egenskapen värdet av ZoomX.
+Zoomfaktor för stämpeln. Tillåter att skala stämpeln. Observera att paret av egenskaper ZoomX och ZoomY tillåter att ange zoomfaktor för varje axel separat. Inställning av denna egenskap ändrar både ZoomX- och ZoomY-egenskaperna. Om ZoomX och ZoomY är olika returnerar Zoom‑egenskapen ZoomX‑värdet.
 
 ```csharp
 public double Zoom { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

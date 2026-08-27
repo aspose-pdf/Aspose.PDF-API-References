@@ -1,14 +1,14 @@
 ---
-title: Enum Symbology
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.Symbology enum. En streckkodssymbologi definierar de tekniska detaljerna för en viss typ av streckkod bredden på staplarna, teckenuppsättning, metod för kodning, checksumma specifikationer etc.
+title: "Enum Symbology"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Forms.Symbology-enum. En Barcode‑symbologi definierar de tekniska detaljerna för en viss typ av streckkod, inklusive stapelbredd, teckenuppsättning, kodningsmetod, kontrollsummaspecifikationer osv."
 type: docs
-weight: 5310
+weight: 5430
 url: /sv/net/aspose.pdf.forms/symbology/
 ---
-## Symbologi-uppräkning
+## Symbology enumeration
 
-En (streckkod) symbologi definierar de tekniska detaljerna för en viss typ av streckkod: bredden på staplarna, teckenuppsättning, metod för kodning, checksumma specifikationer etc.
+En (Streckkod) symbologi definierar de tekniska detaljerna för en viss typ av streckkod: stapelns bredd, teckenuppsättning, kodningsmetod, kontrollsumme-specifikationer osv.
 
 ```csharp
 public enum Symbology
@@ -18,11 +18,13 @@ public enum Symbology
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| PDF417 | `0` | En fleradig, variabel längd 2D-symbologi med hög datakapacitet och felkorrigeringsförmåga. |
-| QRCode | `1` | QR-kod (kort för Quick Response) är en specifik matrisstreckkod (2D-kod), läsbar av dedikerade QR-streckkodsläsare och kameramobiler. |
-| DataMatrix | `2` | En 2D-matris-symbologi bestående av svarta och vita fyrkantiga moduler arrangerade i antingen ett fyrkantigt eller rektangulärt mönster. |
+| PDF417 | `0` | En flerradig, variabel längd 2D‑symbologi med hög datakapacitet och felkorrigeringsförmåga. |
+| QRCode | `1` | QR‑kod (kort för Quick Response) är en specifik matrisstreckkod (2D‑kod) som kan läsas av dedikerade QR‑streckkodsläsare och mobiltelefoner med kamera. |
+| DataMatrix | `2` | En 2D‑matrissymbologi bestående av svarta och vita fyrkantiga moduler arrangerade i antingen ett fyrkantigt eller rektangulärt mönster. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

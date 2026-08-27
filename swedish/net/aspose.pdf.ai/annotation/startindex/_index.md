@@ -1,21 +1,23 @@
 ---
-title: Annotation.StartIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-egenskap. Hämtar eller ställer in startindex för texten i meddelandets innehåll som behöver ersättas
+title: "Annotation.StartIndex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation-egenskap. Hämtar eller anger det startande indexet för texten i meddelandeinnehållet som ska ersättas"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/annotation/startindex/
 ---
-## Annotation.StartIndex-egenskap
+## Annotation.StartIndex property
 
-Hämtar eller ställer in startindex för texten i meddelandets innehåll som behöver ersättas.
+Hämtar eller anger startindexet för texten i meddelandeinnehållet som ska ersättas.
 
 ```csharp
 public int StartIndex { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

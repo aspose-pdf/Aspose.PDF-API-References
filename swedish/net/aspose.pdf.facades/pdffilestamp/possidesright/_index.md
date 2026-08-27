@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosSidesRight
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-fält. Höger position
+title: "PdfFileStamp.PosSidesRight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileStamp-fält. Höger position."
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.facades/pdffilestamp/possidesright/
 ---
-## PdfFileStamp.PosSidesRight-fält
+## PdfFileStamp.PosSidesRight field
 
 Höger position.
 
@@ -14,8 +14,10 @@ Höger position.
 public const int PosSidesRight;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

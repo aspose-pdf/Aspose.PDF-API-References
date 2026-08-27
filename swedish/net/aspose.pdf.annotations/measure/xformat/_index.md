@@ -1,22 +1,24 @@
 ---
-title: Measure.XFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Mått egenskap. En nummerformatarray för mätning av förändring längs x-axeln och om Y inte är närvarande längs y-axeln också
+title: "Measure.XFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Measure-egenskap. En talformatarray för mätning av förändring längs x-axeln och om Y inte är närvarande längs y-axeln också"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.annotations/measure/xformat/
 ---
-## Measure.XFormat egenskap
+## Measure.XFormat property
 
-En nummerformatarray för mätning av förändring längs x-axeln och, om Y inte är närvarande, längs y-axeln också
+En talformatmatris för mätning av förändring längs x-axeln och, om Y inte finns, även längs y-axeln.
 
 ```csharp
 public NumberFormatList XFormat { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [NumberFormatList](../../measure.numberformatlist/)
-* klass [Measure](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

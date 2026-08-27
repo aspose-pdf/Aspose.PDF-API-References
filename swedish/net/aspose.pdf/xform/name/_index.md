@@ -1,21 +1,23 @@
 ---
-title: XForm.Name
-second_title: Aspose.PDF for .NET API Reference
-description: XForm-egenskap. Hämtar eller ställer in formulärnamn. Formulärnamn är namnet som används för att referera till formuläret i XObejct-dictionary i sidresurser
+title: "XForm.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XForm-egenskap. Hämtar eller anger formnamn. Formnamn är namnet som används för att referera till formuläret i XObejct ductionary i sidresurser."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/xform/name/
 ---
-## XForm.Namn-egenskap
+## XForm.Name property
 
-Hämtar eller ställer in formulärnamn. Formulärnamn är namnet som används för att referera till formuläret i XObejct-dictionary i sidresurser.
+Hämtar eller anger formulärets namn. Formulärets namn är det namn som används för att referera till formuläret i XObejct-ordboken i sidresurserna.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XForm](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection-metod. Lägger till det angivna objektet. Samlingen är skrivskyddad. Kastar alltid undantaget NotSupportedException
+title: "DestinationCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DestinationCollection-metod. Lägger till det angivna objektet. Samlingen är skrivskyddad. Kastar alltid ett NotSupportedException‑undantag"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/destinationcollection/add/
 ---
-## DestinationCollection.Add metod
+## DestinationCollection.Add method
 
-Lägger till det angivna objektet. Samlingen är skrivskyddad. Kastar alltid undantaget NotSupportedException.
+Lägger till det angivna objektet. Samlingen är skrivskyddad. Kastar alltid ett NotSupportedException-undantag.
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
@@ -20,12 +20,14 @@ public void Add(KeyValuePair<string, object> item)
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
 | NotSupportedException |  |
 
-### Se Även
+### Se även
 
-* klass [DestinationCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

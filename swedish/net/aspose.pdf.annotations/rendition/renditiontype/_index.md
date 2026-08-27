@@ -1,22 +1,24 @@
 ---
-title: Rendition.RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: Rendition-egenskap. Hämtar rendition-typ
+title: "Rendition.RenditionType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rendition-egenskapen. Hämtar rendition-typ"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/rendition/renditiontype/
 ---
-## Rendition.RenditionType-egenskap
+## Rendition.RenditionType property
 
-Hämtar rendition-typ.
+Hämtar renditionstyp.
 
 ```csharp
 public RenditionType RenditionType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [RenditionType](../../renditiontype/)
 * class [Rendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

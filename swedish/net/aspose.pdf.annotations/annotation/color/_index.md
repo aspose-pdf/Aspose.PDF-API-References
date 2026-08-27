@@ -1,22 +1,24 @@
 ---
-title: Annotation.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-egenskap. Hämtar eller ställer in annotationsfärg
+title: "Annotation.Color"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation‑egenskap. Hämtar eller anger annotationfärg"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/annotation/color/
 ---
-## Annotation.Färg-egenskap
+## Annotation.Color property
 
-Hämtar eller ställer in annotationsfärg.
+Hämtar eller anger annoteringsfärg.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [Annotation](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

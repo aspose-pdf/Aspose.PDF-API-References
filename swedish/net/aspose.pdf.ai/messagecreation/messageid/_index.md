@@ -1,21 +1,23 @@
 ---
-title: MessageCreation.MessageId
-second_title: Aspose.PDF for .NET API Reference
-description: MessageCreation-egenskap. Hämtar eller ställer in det unika identifieraren för meddelandet
+title: "MessageCreation.MessageId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MessageCreation egenskap. Hämtar eller anger det unika identifieraren för meddelandet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/messagecreation/messageid/
 ---
-## MessageCreation.MessageId-egenskap
+## MessageCreation.MessageId property
 
-Hämtar eller ställer in det unika identifieraren för meddelandet.
+Hämtar eller anger det unika identifieraren för meddelandet.
 
 ```csharp
 public string MessageId { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MessageCreation](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [MessageCreation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

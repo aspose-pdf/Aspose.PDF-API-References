@@ -1,12 +1,12 @@
 ---
-title: Enum TextFormattingOptions.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextFormattingOptionsWordWrapMode enum. Definierar strategier för radbrytning
+title: "Enum TextFormattingOptions.WordWrapMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.TextFormattingOptionsWordWrapMode enum. Definierar strategier för radbrytning"
 type: docs
-weight: 10930
+weight: 11110
 url: /sv/net/aspose.pdf.text/textformattingoptions.wordwrapmode/
 ---
-## TextFormattingOptions.WordWrapMode-uppräkning
+## TextFormattingOptions.WordWrapMode enumeration
 
 Definierar strategier för radbrytning
 
@@ -19,12 +19,14 @@ public enum WordWrapMode
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | NoWrap | `0` | Ingen radbrytning utförs |
-| DiscretionaryHyphenation | `1` | Valfri bindestreckning utförs. Tillåter att bryta ord i mitten. |
-| ByWords | `2` | Radbrytning av ord bryter endast kompletta ord. Om det kompletta ordet inte kan brytas, försöker det använda valfri bindestreckning |
-| Undefined | `3` | WordWrapMode är inte inställt. Radbrytningsstrategier för överordnad struktur (tabellcell, stycke, etc.) kommer att användas. |
+| DiscretionaryHyphenation | `1` | Diskretionär avstavning utförs. Tillåter att ord bryts mitt i. |
+| ByWords | `2` | Radbrytning bryter endast hela ord. Om ett helt ord inte kan brytas, försöker den använda diskretionär avstavning |
+| Undefined | `3` | WordWrapMode är inte inställt. Inslagningsstrategier för överordnad struktur (tabellcell, stycke osv.) kommer att användas. |
 
-### Se Även
+### Se även
 
-* klass [TextFormattingOptions](../textformattingoptions/)
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../)
+* class [TextFormattingOptions](../textformattingoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

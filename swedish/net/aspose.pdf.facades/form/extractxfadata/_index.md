@@ -1,14 +1,14 @@
 ---
-title: Form.ExtractXfaData
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Extraherar XFA datapaketer
+title: "Form.ExtractXfaData"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form metod. Extraherar XFA-datapaketet"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.facades/form/extractxfadata/
 ---
-## Form.ExtractXfaData metod
+## Form.ExtractXfaData method
 
-Extraherar XFA datapaketer
+Extraherar XFA-datapaket
 
 ```csharp
 public void ExtractXfaData(Stream outputXmlStream)
@@ -16,10 +16,12 @@ public void ExtractXfaData(Stream outputXmlStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputXmlStream | Stream | Stream där XML-data kommer att lagras. |
+| outputXmlStream | Stream | Ström där XML-data kommer att lagras. |
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

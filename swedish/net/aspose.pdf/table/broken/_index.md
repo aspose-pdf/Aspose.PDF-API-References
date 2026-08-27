@@ -1,22 +1,24 @@
 ---
-title: Table.Broken
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellens egenskap. Hämtar eller ställer in tabellens vertikala brott
+title: "Table.Broken"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Table‑egenskap. Hämtar eller anger om tabellen är vertikalt bruten."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/table/broken/
 ---
-## Table.Broken egenskap
+## Table.Broken property
 
-Hämtar eller ställer in tabellens vertikala brott;
+Hämtar eller anger tabellens vertikala brytning;
 
 ```csharp
 public TableBroken Broken { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [TableBroken](../../tablebroken/)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

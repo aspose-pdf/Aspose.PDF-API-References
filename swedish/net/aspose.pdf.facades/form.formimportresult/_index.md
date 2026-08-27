@@ -1,12 +1,12 @@
 ---
-title: Class Form.FormImportResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FormFormImportResult klass. Klass som beskriver resultatet av fältimport
+title: "Klass Form.FormImportResult"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.FormFormImportResult‑klass. Klass som beskriver resultatet av fältimport"
 type: docs
-weight: 4300
+weight: 4420
 url: /sv/net/aspose.pdf.facades/form.formimportresult/
 ---
-## Form.FormImportResult klass
+## Form.FormImportResult class
 
 Klass som beskriver resultatet av fältimport.
 
@@ -21,8 +21,10 @@ public class FormImportResult
 | [FieldName](../../aspose.pdf.facades/form.formimportresult/fieldname) { get; } | Fullständigt namn på fältet. |
 | [Status](../../aspose.pdf.facades/form.formimportresult/status) { get; } | Status för fältimport. |
 
-### Se Även
+### Se även
 
-* klass [Form](../form/)
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../)
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

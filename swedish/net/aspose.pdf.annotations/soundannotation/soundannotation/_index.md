@@ -1,14 +1,14 @@
 ---
-title: SoundAnnotation.SoundAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: SoundAnnotation-konstruktorn. Skapar en ny ljudanteckning på den angivna sidan
+title: "SoundAnnotation.SoundAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SoundAnnotation-konstruktor. Skapar ny Sound-annotering på den angivna sidan"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/soundannotation/soundannotation/
 ---
 ## SoundAnnotation(Page, Rectangle, string) {#constructor}
 
-Skapar en ny ljudanteckning på den angivna sidan.
+Skapar en ny Sound-anteckning på den angivna sidan.
 
 ```csharp
 public SoundAnnotation(Page page, Rectangle rect, string soundFile)
@@ -16,23 +16,23 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Dokumentets sida där anteckningen ska skapas. |
-| rect | Rectangle | Anteckningsrektangeln, som definierar platsen för anteckningen på sidan. |
-| soundFile | String | En ljudfil som definierar ljudet som ska spelas när anteckningen aktiveras. |
+| sida | Page | Document-sidan där annotationen bör skapas. |
+| rect | Rectangle | Annotationsrektangeln, som definierar placeringen av annotationen på sidan. |
+| soundFile | String | En ljudfil som definierar ljudet som ska spelas när annoteringen aktiveras. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [SoundAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SoundAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SoundAnnotation(Page, Rectangle, string, SoundSampleData) {#constructor_1}
 
-Skapar en ny ljudanteckning på den angivna sidan.
+Skapar en ny Sound-anteckning på den angivna sidan.
 
 ```csharp
 public SoundAnnotation(Page page, Rectangle rect, string soundFile, SoundSampleData soundSampleData)
@@ -40,16 +40,18 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile, SoundSampleD
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Dokumentets sida där anteckningen ska skapas. |
-| rect | Rectangle | Anteckningsrektangeln, som definierar platsen för anteckningen på sidan. |
-| soundFile | String | En ljudfil som definierar ljudet som ska spelas när anteckningen aktiveras. |
-| soundSampleData | SoundSampleData | En ljudprovdata som innehåller extra ljudparametrar såsom samplingsfrekvens, bitar per prov och så vidare. |
+| sida | Page | Document-sidan där annotationen bör skapas. |
+| rect | Rectangle | Annotationsrektangeln, som definierar placeringen av annotationen på sidan. |
+| soundFile | String | En ljudfil som definierar ljudet som ska spelas när annoteringen aktiveras. |
+| soundSampleData | SoundSampleData | Ett ljudexempeldata innehåller extra ljudparametrar såsom samplingsfrekvens, bitar per prov och så vidare. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [SoundSampleData](../../soundsampledata/)
-* klass [SoundAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SoundSampleData](../../soundsampledata/)
+* class [SoundAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

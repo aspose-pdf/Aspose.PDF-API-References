@@ -1,14 +1,14 @@
 ---
-title: Class StreamSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.StreamSaveTarget klass. Representerar stream spara mål för en plugin
+title: "Klass StreamSaveTarget"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.StreamSaveTarget-klass. Representerar strömsparmål för en plugin"
 type: docs
-weight: 9310
+weight: 9460
 url: /sv/net/aspose.pdf.plugins/streamsavetarget/
 ---
-## StreamSaveTarget klass
+## StreamSaveTarget class
 
-Representerar stream spara mål för en plugin.
+Representerar ström‑sparmål för en plugin.
 
 ```csharp
 public class StreamSaveTarget : ISaveTarget
@@ -18,17 +18,19 @@ public class StreamSaveTarget : ISaveTarget
 
 | Namn | Beskrivning |
 | --- | --- |
-| [StreamSaveTarget](streamsavetarget/)(Stream) | Initierar nytt stream spara mål. |
+| [StreamSaveTarget](streamsavetarget/)(Stream) | Initierar ett nytt strömsparmål. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Data](../../aspose.pdf.plugins/streamsavetarget/data/) { get; } | Hämtar streamen för nuvarande spara mål. |
-| [SaveTarget](../../aspose.pdf.plugins/streamsavetarget/savetarget/) { get; } | Typ av spara mål (stream). |
+| [Data](../../aspose.pdf.plugins/streamsavetarget/data/) { get; } | Hämtar strömmen för det aktuella sparmålet. |
+| [SaveTarget](../../aspose.pdf.plugins/streamsavetarget/savetarget/) { get; } | Typ av målet för sparning (ström). |
 
-### Se Även
+### Se även
 
 * interface [ISaveTarget](../isavetarget/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CreateFineTuningJobRequest.CreateFineTuningJobRequest
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobRequest-konstruktorn. Standardkonstruktorn
+title: "CreateFineTuningJobRequest.CreateFineTuningJobRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateFineTuningJobRequest konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/createfinetuningjobrequest/createfinetuningjobrequest/
 ---
-## CreateFineTuningJobRequest-konstruktorn
+## CreateFineTuningJobRequest constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public CreateFineTuningJobRequest()
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateFineTuningJobRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [CreateFineTuningJobRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

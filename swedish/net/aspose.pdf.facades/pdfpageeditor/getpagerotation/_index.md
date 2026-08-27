@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.GetPageRotation
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-metod. Returnerar rotationen av angiven sida
+title: "PdfPageEditor.GetPageRotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-metod. Returnerar rotationen för den angivna sidan"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/getpagerotation/
 ---
-## PdfPageEditor.GetPageRotation metod
+## PdfPageEditor.GetPageRotation method
 
-Returnerar rotationen av angiven sida.
+Returnerar rotationen för den angivna sidan.
 
 ```csharp
 public int GetPageRotation(int page)
@@ -16,15 +16,15 @@ public int GetPageRotation(int page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Sidanummer. Dokumentets sidor numreras från 1. |
+| sida | Int32 | Sidindex. Dokumentets sidor är numrerade från 1. |
 
 ### Returvärde
 
-Sidorotation i grader.
+Sidrotation i grader.
 
 ## Exempel
 
-Följande exempel visar hur man får sidrotation:
+Följande exempel visar hur man hämtar sidrotation:
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -33,8 +33,10 @@ int rotation = editor.GetPageSize(1);
 Console.WriteLine("Rotation of 1st page : " + rotation + " degrees");        
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OBJRElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: OBJRElement metod. Binda ett strukturelement till innehållsström BDC-operator
+title: "OBJRElement.Tag"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OBJRElement-metod. Bind ett strukturelement till innehållsström BDC-operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/objrelement/tag/
 ---
 ## Tag(BDC) {#tag_1}
 
-Binda ett strukturelement till innehållsström BDC-operator.
+Koppla ett strukturelement till innehållsströmmen BDC-operatorn.
 
 ```csharp
 public override MCRElement Tag(BDC bdc)
@@ -22,19 +22,19 @@ public override MCRElement Tag(BDC bdc)
 
 MCRElementStructure element.
 
-### Se Även
+### Se även
 
-* klass [MCRElement](../../mcrelement/)
-* klass [BDC](../../../aspose.pdf.operators/bdc/)
-* klass [OBJRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [MCRElement](../../mcrelement/)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [OBJRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(XForm) {#tag_3}
 
-Binda ett strukturelement till innehållsström XForm.
+Koppla ett strukturelement till innehållsströmmen XForm.
 
 ```csharp
 public override OBJRElement Tag(XForm form)
@@ -42,24 +42,24 @@ public override OBJRElement Tag(XForm form)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| form | XForm | Pdf-form. |
+| formulär | XForm | Pdf-formulär. |
 
 ### Returvärde
 
 OBJRElementStructure element.
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [OBJRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [OBJRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(XImage) {#tag_4}
 
-Binda ett strukturelement till XImage.
+Koppla ett strukturelement till XImage.
 
 ```csharp
 public override OBJRElement Tag(XImage image)
@@ -67,24 +67,24 @@ public override OBJRElement Tag(XImage image)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | XImage | Pdf-bild. |
+| bild | XImage | Pdf bild. |
 
 ### Returvärde
 
 OBJRElementStructure element.
 
-### Se Även
+### Se även
 
-* klass [XImage](../../../aspose.pdf/ximage/)
-* klass [OBJRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [XImage](../../../aspose.pdf/ximage/)
+* class [OBJRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(Artifact) {#tag}
 
-Binda ett strukturelement till Artefakten.
+Koppla ett strukturelement till Artifact.
 
 ```csharp
 public override MCRElement Tag(Artifact artifact)
@@ -92,25 +92,25 @@ public override MCRElement Tag(Artifact artifact)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| artifact | Artifact | Pdf-artefakt. |
+| artefakt | Artefakt | Pdf artefakt. |
 
 ### Returvärde
 
 MCRElementStructure element.
 
-### Se Även
+### Se även
 
-* klass [MCRElement](../../mcrelement/)
-* klass [Artifact](../../../aspose.pdf/artifact/)
-* klass [OBJRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [MCRElement](../../mcrelement/)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [OBJRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(Annotation) {#tag_2}
 
-Binda ett strukturelement till Anteckningen.
+Koppla ett strukturelement till Annotation.
 
 ```csharp
 public override OBJRElement Tag(Annotation annotation)
@@ -118,15 +118,17 @@ public override OBJRElement Tag(Annotation annotation)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotation | Annotation | Pdf-anteckning. |
+| annotation | Annotation | Pdf-annotation. |
 
 ### Returvärde
 
 OBJRElementStructure element.
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../../aspose.pdf.annotations/annotation/)
-* klass [OBJRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [OBJRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Artifact.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-metod. Sätter bilden av artefakten
+title: "Artifact.SetImage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact metod. Ställer in bild för artefakten"
 type: docs
 weight: 280
 url: /sv/net/aspose.pdf/artifact/setimage/
 ---
 ## SetImage(Stream) {#setimage}
 
-Sätter bilden av artefakten.
+Anger bild för artefakten.
 
 ```csharp
 public void SetImage(Stream imageStream)
@@ -16,19 +16,19 @@ public void SetImage(Stream imageStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageStream | Stream | Stream som innehåller bilddata. |
+| imageStream | Stream | Ström som innehåller bilddata. |
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetImage(string) {#setimage_1}
 
-Sätter bilden av artefakten.
+Anger bild för artefakten.
 
 ```csharp
 public void SetImage(string imageName)
@@ -38,8 +38,10 @@ public void SetImage(string imageName)
 | --- | --- | --- |
 | imageName | String | Namn på bildfil. |
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

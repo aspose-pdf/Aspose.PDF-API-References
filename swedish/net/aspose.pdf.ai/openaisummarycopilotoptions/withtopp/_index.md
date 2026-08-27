@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions-metod. Ställer in top P-värdet för sammanfattningskopilotalternativen
+title: "OpenAISummaryCopilotOptions.WithTopP"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAISummaryCopilotOptions‑metoden. Ställer in top‑P‑värdet för sammanfattnings‑copilot‑alternativen"
 type: docs
-weight: 140
+weight: 150
 url: /sv/net/aspose.pdf.ai/openaisummarycopilotoptions/withtopp/
 ---
-## OpenAISummaryCopilotOptions.WithTopP metod
+## OpenAISummaryCopilotOptions.WithTopP method
 
-Ställer in top P-värdet för sammanfattningskopilotalternativen.
+Ställer in top‑P‑värdet för alternativ för sammanfattnings‑copilot.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithTopP(double? topP)
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithTopP(double? topP)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| topP | Nullable`1 | Det top P-värde som ska ställas in. |
+| topP | Nullable`1 | Top P-värdet att ställa in. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAISummaryCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAISummaryCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

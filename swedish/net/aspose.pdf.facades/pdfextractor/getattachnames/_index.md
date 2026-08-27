@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachNames
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-metod. Returnerar lista över bilagor i PDF-fil. Observera att ExtractAttachments måste anropas innan denna metod används
+title: "PdfExtractor.GetAttachNames"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-metod. Returnerar en lista över bilagor i PDF-filen. Observera att ExtractAttachments måste anropas innan denna metod används"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.facades/pdfextractor/getattachnames/
 ---
-## PdfExtractor.GetAttachNames metod
+## PdfExtractor.GetAttachNames method
 
-Returnerar lista över bilagor i PDF-fil. Observera: ExtractAttachments måste anropas innan denna metod används.
+Returnerar en lista över bilagor i PDF-filen. Obs: ExtractAttachments måste anropas innan denna metod används.
 
 ```csharp
 public IList<string> GetAttachNames()
@@ -20,7 +20,7 @@ Lista över bilagor
 
 ## Exempel
 
-Exemplet visar hur man extraherar bilagnamn från PDF-fil.
+Exemplet visar hur man extraherar namn på bilagor från PDF-filen.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -31,8 +31,10 @@ foreach (string name in attachments)
 	Console.WriteLine(name);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

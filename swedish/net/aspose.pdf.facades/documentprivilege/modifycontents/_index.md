@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.ModifyContents
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege-egenskap. Tillåter att modifiera fil
+title: "DocumentPrivilege.ModifyContents"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege-egenskap. Tillåter att modifiera filen"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/documentprivilege/modifycontents/
 ---
-## DocumentPrivilege.ModifyContents-egenskap
+## DocumentPrivilege.ModifyContents property
 
-Tillåter att modifiera fil.
+Tillåter modifiering av fil.
 
 ```csharp
 public static DocumentPrivilege ModifyContents { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

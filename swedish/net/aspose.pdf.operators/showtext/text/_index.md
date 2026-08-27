@@ -1,21 +1,23 @@
 ---
-title: ShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: ShowText property. Text of operator
+title: "ShowText.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ShowText egenskap. Text för operatorn"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/showtext/text/
 ---
-## ShowText.Text-egenskap
+## ShowText.Text property
 
-Text av operator.
+Text för operatorn.
 
 ```csharp
 public override string Text { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ShowText](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

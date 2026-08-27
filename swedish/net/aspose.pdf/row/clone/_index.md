@@ -1,12 +1,12 @@
 ---
-title: Row.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Row-metod. Klona raden
+title: "Row.Clone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-metod. Klona raden"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/row/clone/
 ---
-## Row.Clone metod
+## Row.Clone method
 
 Klona raden.
 
@@ -18,8 +18,10 @@ public object Clone()
 
 Det klonade objektet
 
-### Se Även
+### Se även
 
-* klass [Row](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

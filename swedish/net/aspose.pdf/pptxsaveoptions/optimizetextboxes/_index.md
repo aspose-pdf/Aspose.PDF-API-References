@@ -1,12 +1,12 @@
 ---
-title: PptxSaveOptions.OptimizeTextBoxes
-second_title: Aspose.PDF for .NET API Reference
-description: PptxSaveOptions-egenskap. Växlar igenkänning av textkolumner
+title: "PptxSaveOptions.OptimizeTextBoxes"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PptxSaveOptions-egenskapen. Växlar igenkänning av textkolumner."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/pptxsaveoptions/optimizetextboxes/
 ---
-## PptxSaveOptions.OptimizeTextBoxes-egenskap
+## PptxSaveOptions.OptimizeTextBoxes property
 
 Växlar igenkänning av textkolumner
 
@@ -14,8 +14,10 @@ Växlar igenkänning av textkolumner
 public bool OptimizeTextBoxes { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PptxSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

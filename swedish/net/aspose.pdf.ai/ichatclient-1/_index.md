@@ -1,12 +1,12 @@
 ---
-title: Interface IChatClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IChatClient1TOptions-gränssnitt. Representerar ett gränssnitt för en chattklient med specifika alternativ
+title: "Gränssnitt IChatClientTOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.IChatClient1TOptions-gränssnitt. Representerar ett gränssnitt för en chattklient med specifika alternativ"
 type: docs
-weight: 460
+weight: 480
 url: /sv/net/aspose.pdf.ai/ichatclient-1/
 ---
-## IChatClient&lt;TOptions&gt; gränssnitt
+## IChatClient&lt;TOptions&gt; interface
 
 Representerar ett gränssnitt för en chattklient med specifika alternativ.
 
@@ -24,8 +24,10 @@ public interface IChatClient<in TOptions> : IAIClient
 | --- | --- |
 | [GetChatCopilot](../../aspose.pdf.ai/ichatclient-1/getchatcopilot/)(IChatCopilotOptions&lt;TOptions&gt;) | Hämtar en instans av [`IChatCopilot`](../ichatcopilot/) med de angivna alternativen. |
 
-### Se Även
+### Se även
 
-* gränssnitt [IAIClient](../iaiclient/)
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

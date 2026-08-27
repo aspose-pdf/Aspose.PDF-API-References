@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateNoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-metod. Skapar NoteElement
+title: "ITaggedContent.CreateNoteElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar NoteElement"
 type: docs
-weight: 190
+weight: 220
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createnoteelement/
 ---
-## ITaggedContent.CreateNoteElement metod
+## ITaggedContent.CreateNoteElement method
 
 Skapar [`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement/).
 
@@ -16,11 +16,13 @@ public NoteElement CreateNoteElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

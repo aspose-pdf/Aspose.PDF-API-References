@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.AddMargins
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-metod. Ändrar storlek på sidinnehåll och lägger till angivna marginaler. Marginaler anges i standard rymdenheter
+title: "PdfFileEditor.AddMargins"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor-metod. Ändrar storlek på sidinnehåll och lägger till angivna marginaler. Marginaler anges i standardrymdsenheter."
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.facades/pdffileeditor/addmargins/
 ---
 ## AddMargins(Stream, Stream, int[], double, double, double, double) {#addmargins}
 
-Ändrar storlek på sidinnehåll och lägger till angivna marginaler. Marginaler anges i standard rymdenheter.
+Ändrar storlek på sidinnehållet och lägger till angivna marginaler. Marginalerna specificeras i standardenheterna för utrymme.
 
 ```csharp
 public bool AddMargins(Stream source, Stream destination, int[] pages, double leftMargin, 
@@ -17,9 +17,9 @@ public bool AddMargins(Stream source, Stream destination, int[] pages, double le
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| source | Stream | Stream som innehåller källdokumentet. |
-| destination | Stream | Stream där det resulterande dokumentet kommer att sparas. |
-| pages | Int32[] | Array av sidindex. Om null kommer alla dokumentets sidor att behandlas. |
+| källa | Stream | Ström som innehåller källdokumentet. |
+| destination | Stream | Ström där det resulterande dokumentet kommer att sparas. |
+| sidor | Int32[] | Array av sidindex. Om null kommer alla dokumentsidor att bearbetas. |
 | leftMargin | Double | Vänster marginal. |
 | rightMargin | Double | Höger marginal. |
 | topMargin | Double | Övre marginal. |
@@ -27,7 +27,7 @@ public bool AddMargins(Stream source, Stream destination, int[] pages, double le
 
 ### Returvärde
 
-true om operationen var framgångsrik.
+true om operationen lyckades.
 
 ## Exempel
 
@@ -36,30 +36,30 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMargins(src, dest, 
-    //process pages 1, 2, 3
+    //bearbeta sidor 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 10 units
+    //vänster marginal är 10 enheter
     10, 
-    //right margin is 5 units
+    //höger marginal är 5 enheter
     5, 
-    //top margin is 5 units
+    //övre marginal är 5 enheter
     5, 
-    //bottom margin is 5 units
+    //nedre marginal är 5 enheter
     5);
     dest.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddMargins(string, string, int[], double, double, double, double) {#addmargins_1}
 
-Ändrar storlek på sidinnehåll och lägger till angivna marginaler. Marginaler anges i standard rymdenheter.
+Ändrar storlek på sidinnehållet och lägger till angivna marginaler. Marginalerna specificeras i standardenheterna för utrymme.
 
 ```csharp
 public bool AddMargins(string source, string destination, int[] pages, double leftMargin, 
@@ -68,9 +68,9 @@ public bool AddMargins(string source, string destination, int[] pages, double le
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| source | String | Sökväg till källdokumentet. |
+| källa | String | Sökväg till källdokumentet. |
 | destination | String | Sökväg där det resulterande dokumentet kommer att sparas. |
-| pages | Int32[] | Array av sidindex. Om null kommer alla dokumentets sidor att behandlas. |
+| sidor | Int32[] | Array av sidindex. Om null kommer alla dokumentsidor att bearbetas. |
 | leftMargin | Double | Vänster marginal. |
 | rightMargin | Double | Höger marginal. |
 | topMargin | Double | Övre marginal. |
@@ -78,27 +78,29 @@ public bool AddMargins(string source, string destination, int[] pages, double le
 
 ### Returvärde
 
-true om ändringen av storlek var framgångsrik.
+true om storleksändringen lyckades.
 
 ## Exempel
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMargins("input.pdf", "output.pdf", 
-    //process pages 1, 2, 3
+    //bearbeta sidor 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 10 units
+    //vänster marginal är 10 enheter
     10, 
-    //right margin is 5 units
+    //höger marginal är 5 enheter
     5, 
-    //top margin is 5 units
+    //övre marginal är 5 enheter
     5, 
-    //bottom margin is 5 units
+    //nedre marginal är 5 enheter
     5);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

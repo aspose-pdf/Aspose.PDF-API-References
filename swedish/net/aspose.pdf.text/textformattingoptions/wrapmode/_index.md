@@ -1,22 +1,24 @@
 ---
-title: TextFormattingOptions.WrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: TextFormattingOptions-egenskap. Hämtar eller ställer in ordomslagsläge. Standardvärde är WordWrapMode.NoWrap
+title: "TextFormattingOptions.WrapMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFormattingOptions egenskap. Hämtar eller anger ordbrytningsläge. Standardvärdet är WordWrapMode.NoWrap"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/textformattingoptions/wrapmode/
 ---
-## TextFormattingOptions.WrapMode-egenskap
+## TextFormattingOptions.WrapMode property
 
-Hämtar eller ställer in ordomslagsläge. Standardvärde är WordWrapMode.NoWrap
+Hämtar eller anger radbrytningsläge. Standardvärdet är WordWrapMode.NoWrap
 
 ```csharp
 public WordWrapMode WrapMode { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [WordWrapMode](../../textformattingoptions.wordwrapmode/)
 * class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

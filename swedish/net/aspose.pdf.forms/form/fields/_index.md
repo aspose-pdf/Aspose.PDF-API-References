@@ -1,22 +1,24 @@
 ---
-title: Form.Fields
-second_title: Aspose.PDF for .NET API Reference
-description: Formegenskap. Hämtar lista över alla fält på den lägsta nivån av hierarkisk form
+title: "Form.Fields"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form egenskap. Hämtar lista över alla fält på den lägsta nivån i det hierarkiska formuläret"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.forms/form/fields/
 ---
-## Form.Fields egenskap
+## Form.Fields property
 
-Hämtar lista över alla fält på den lägsta nivån av hierarkisk form.
+Hämtar en lista över alla fält på den lägsta nivån i det hierarkiska formuläret.
 
 ```csharp
 public Field[] Fields { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Field](../../field/)
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

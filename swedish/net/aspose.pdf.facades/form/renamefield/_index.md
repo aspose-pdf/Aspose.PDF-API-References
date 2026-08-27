@@ -1,14 +1,14 @@
 ---
-title: Form.RenameField
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Byter namn på ett fält. Antingen AcroForm-fält eller XFA-fält är okej
+title: "Form.RenameField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form metod. Byter namn på ett fält. Antingen AcroForm-fält eller XFA-fält är OK"
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf.facades/form/renamefield/
 ---
-## Form.RenameField metod
+## Form.RenameField method
 
-Byter namn på ett fält. Antingen AcroForm-fält eller XFA-fält är okej.
+Byter namn på ett fält. Antingen AcroForm-fält eller XFA-fält är godkänt.
 
 ```csharp
 public void RenameField(string fieldName, string newFieldName)
@@ -16,8 +16,8 @@ public void RenameField(string fieldName, string newFieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | det gamla fältnamnet |
-| newFieldName | Sträng | det nya fältnamnet |
+| fieldName | String | det gamla fältnamnet |
+| newFieldName | String | det nya fältnamnet |
 
 ## Exempel
 
@@ -27,8 +27,10 @@ form.RenameField("field", "field1");
 form.Save();
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

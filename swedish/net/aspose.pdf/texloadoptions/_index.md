@@ -1,14 +1,14 @@
 ---
-title: Class TeXLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TeXLoadOptions klass. Representerar alternativ för att ladda/importera TeX-fil till PDF-dokument
+title: "Klass TeXLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.TeXLoadOptions-klass. Representerar alternativ för att läsa in/importera TeX-fil till PDF-dokument"
 type: docs
-weight: 10370
+weight: 10550
 url: /sv/net/aspose.pdf/texloadoptions/
 ---
-## TeXLoadOptions klass
+## TeXLoadOptions class
 
-Representerar alternativ för att ladda/importera TeX-fil till PDF-dokument.
+Representerar alternativ för att läsa in/importera TeX‑fil till PDF‑dokument.
 
 ```csharp
 public class TeXLoadOptions : LoadOptions
@@ -18,54 +18,54 @@ public class TeXLoadOptions : LoadOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [TeXLoadOptions](texloadoptions/)() | Standardkonstruktören. |
+| [TeXLoadOptions](texloadoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [DateTime](../../aspose.pdf/texloadoptions/datetime/) { get; set; } | Hämtar/anger ett visst värde för datum/tid primitiva som år, månad, dag och tid. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller anger flagga för att inaktivera eventuella licensbegränsningar för alla typsnitt vid inläsning av filen. När `true`, tillåter att utföra operationer med typsnitt som är förbjudna av en licens för detta typsnitt, till exempel tillåter att bädda in ett typsnitt i ett PDF-dokument även om licensreglerna inaktiverar inbäddning för detta typsnitt. Som standard `false`. |
-| [InputDirectory](../../aspose.pdf/texloadoptions/inputdirectory/) { get; set; } | Hämtar/anger TeX inmatningskatalog. |
-| [JobName](../../aspose.pdf/texloadoptions/jobname/) { get; set; } | Hämtar/anger namnet på jobbet. |
+| [DateTime](../../aspose.pdf/texloadoptions/datetime/) { get; set; } | Hämtar/sätter ett visst värde för datum/tid‑primitiver som år, månad, dag och tid. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller anger en flagga för att inaktivera alla licensrestriktioner för alla teckensnitt vid inläsning av filen. När `true` tillåts operationer med ett teckensnitt som är förbjudet av dess licens, till exempel att bädda in ett teckensnitt i ett PDF‑dokument även om licensreglerna förbjuder inbäddning av detta teckensnitt. Standardvärdet är `false`. |
+| [InputDirectory](../../aspose.pdf/texloadoptions/inputdirectory/) { get; set; } | Hämtar/sätter TeX‑indatakatalog. |
+| [JobName](../../aspose.pdf/texloadoptions/jobname/) { get; set; } | Hämtar/sätter namnet på jobbet. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformat som [`LoadOptions`](../loadoptions/) beskriver. |
-| [NoLigatures](../../aspose.pdf/texloadoptions/noligatures/) { get; set; } | Hämtar/anger en flagga som avbryter ligaturer i alla typsnitt. |
-| [OutputDirectory](../../aspose.pdf/texloadoptions/outputdirectory/) { get; set; } | Hämtar/anger TeX utmatningskatalog. |
-| [RasterizeFormulas](../../aspose.pdf/texloadoptions/rasterizeformulas/) { get; set; } | Hämtar/anger en flagga som tillåter att rasterisera matematiska formler. |
-| [Repeat](../../aspose.pdf/texloadoptions/repeat/) { get; set; } | Hämtar/anger flaggan som indikerar om det är nödvändigt att köra TeX-jobbet två gånger i fall, till exempel, det finns referenser i inmatnings-TeX-fil(er). Generellt är detta beteende användbart när motorn samlar in viss data under typografiprocessen och lagrar den i en hjälpfiler, allt vid första körningen. Och vid den andra körningen använder motorn på något sätt den datan. |
-| [RequiredInputDirectory](../../aspose.pdf/texloadoptions/requiredinputdirectory/) { get; set; } | Hämtar/anger TeX kräver inmatningskatalog. Obligatorisk inmatning är de filer som på något sätt ingår i huvud .tex-fil, t.ex. paket för vilka det inte finns något inbyggt stöd. |
-| [ShowTerminalOutput](../../aspose.pdf/texloadoptions/showterminaloutput/) { get; set; } | Hämtar/anger flaggan som indikerar om terminalutdata ska visas på konsolen. |
-| [SubsetFonts](../../aspose.pdf/texloadoptions/subsetfonts/) { get; set; } | Hämtar/anger flaggan som indikerar om typsnitt ska delas upp i utdatafilen eller inte. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och inläsningsoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall inläsningsoperationen ska upphöra. |
+| [NoLigatures](../../aspose.pdf/texloadoptions/noligatures/) { get; set; } | Hämtar/sätter en flagga som avbryter ligaturer i alla teckensnitt. |
+| [OutputDirectory](../../aspose.pdf/texloadoptions/outputdirectory/) { get; set; } | Hämtar/sätter TeX‑utdatakatalog. |
+| [RasterizeFormulas](../../aspose.pdf/texloadoptions/rasterizeformulas/) { get; set; } | Hämtar/sätter en flagga som tillåter rasterisering av matematiska formler. |
+| [Repeat](../../aspose.pdf/texloadoptions/repeat/) { get; set; } | Hämtar/sätter flaggan som anger om det är nödvändigt att köra TeX‑jobbet två gånger i fall, till exempel, det finns referenser i indata‑TeX‑fil(er). I allmänhet är detta beteende användbart när motorn samlar in data under typografiprocessen och lagrar den i en hjälpfil under första körningen. Och vid den andra körningen använder motorn på något sätt den datan. |
+| [RequiredInputDirectory](../../aspose.pdf/texloadoptions/requiredinputdirectory/) { get; set; } | Hämtar/sätter TeX‑krävd indata‑katalog. Krävda indata är de filer som på något sätt inkluderas i huvud‑.tex‑filen, t.ex. paket för vilka det inte finns inbyggt stöd. |
+| [ShowTerminalOutput](../../aspose.pdf/texloadoptions/showterminaloutput/) { get; set; } | Hämtar/sätter flaggan som anger om terminalutdata ska visas i konsolen. |
+| [SubsetFonts](../../aspose.pdf/texloadoptions/subsetfonts/) { get; set; } | Hämtar/sätter flaggan som anger om teckensnitt ska delmängdas i utdatafilen eller inte. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återuppringning för att hantera eventuella genererade varningar. WarningHandler returnerar ReturnAction‑enum‑värdet som specificerar antingen Continue eller Abort. Continue är standardåtgärden och Load‑operationen fortsätter, men användaren kan också returnera Abort, varvid Load‑operationen ska avbrytas. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GetLoadResult](../../aspose.pdf/texloadoptions/getloadresult/)() | Hämtar resultatet för TeX-laddning och kompilering - gick allt smidigt eller fanns det några kommentarer/fel. |
+| [GetLoadResult](../../aspose.pdf/texloadoptions/getloadresult/)() | Hämtar resultatet för TeX‑laddning och kompilering – gick allt smidigt eller fanns det några kommentarer/fel. |
 
 ## Exempel
 
-Följande exempel visar hur man konverterar TeX-fil till PDF-fil
+Följande exempel visar hur man konverterar en TeX‑fil till en PDF‑fil
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Sökvägen till dokumentkatalogen.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your TeX File.
+	// Sökvägen till din TeX‑fil.
 	string texFile = Path.Combine(dataDir, "TeX-to-PDF.tex");
 
-	// The path to output PDF File.
+	// Sökvägen till utdata‑PDF‑filen.
 	string pdfFile = Path.Combine(dataDir, "Tex-to-PDF.pdf");
 
-	// Initialize TeXLoadOptions	
+	// Initiera TeXLoadOptions	
 	TeXLoadOptions texLoadOptions = new TeXLoadOptions();
 		
 	using (Document pdfDocument = new Document(texFile, texLoadOptions))
 	{
 	 
-		// Save PDF file
+		// Spara PDF‑fil
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -92,8 +92,10 @@ Följande exempel visar hur man konverterar TeX-fil till PDF-fil
     End Using
 ```
 
-### Se Även
+### Se även
 
-* klass [LoadOptions](../loadoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

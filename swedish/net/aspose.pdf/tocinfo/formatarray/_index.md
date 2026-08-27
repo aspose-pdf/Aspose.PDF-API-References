@@ -1,22 +1,24 @@
 ---
-title: TocInfo.FormatArray
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo-egenskap. Hämtar eller ställer in formatarray för innehållsförteckning
+title: "TocInfo.FormatArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TocInfo-egenskap. Hämtar eller anger formatarray för innehållsförteckning"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/tocinfo/formatarray/
 ---
-## TocInfo.FormatArray-egenskap
+## TocInfo.FormatArray property
 
-Hämtar eller ställer in formatarray för innehållsförteckning.
+Hämtar eller anger formatarray för innehållsförteckning.
 
 ```csharp
 public LevelFormat[] FormatArray { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LevelFormat](../../levelformat/)
-* klass [TocInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [LevelFormat](../../levelformat/)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

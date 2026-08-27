@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Prev
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Hämtar det utkastobjekt som representerar det föregående objektet relativt detta objekt i utkasthierarkin
+title: "OutlineItemCollection.Prev"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection egenskap. Hämtar outline‑objektet som representerar föregående objekt relativt detta objekt i outline‑hierarkin"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf/outlineitemcollection/prev/
 ---
-## OutlineItemCollection.Prev-egenskap
+## OutlineItemCollection.Prev property
 
-Hämtar det utkastobjekt som representerar det föregående objektet relativt detta objekt i utkasthierarkin.
+Hämtar outline-item som representerar föregående objekt relativt detta objekt i outline-hierarkin.
 
 ```csharp
 public OutlineItemCollection Prev { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

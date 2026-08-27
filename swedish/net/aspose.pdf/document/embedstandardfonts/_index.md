@@ -1,21 +1,23 @@
 ---
-title: Document.EmbedStandardFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Egenskap som deklarerar att dokumentet måste bädda in alla standard Type1-teckensnitt som har flaggan IsEmbedded inställd på true. Alla PDF-teckensnitt kan bäddas in i dokumentet helt enkelt genom att ställa in flaggan IsEmbedded på true, men PDF-standard Type1-teckensnitt är ett undantag från denna regel. Inbäddning av standard Type1-teckensnitt kräver mycket tid, så för att bädda in dessa teckensnitt är det nödvändigt att inte bara ställa in flaggan IsEmbedded på true för det angivna teckensnittet utan också ställa in en ytterligare flagga på dokumentnivå - EmbedStandardFonts = true; Denna egenskap kan endast ställas in en gång för alla teckensnitt. Som standard false.
+title: "Document.EmbedStandardFonts"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document egenskap. Egenskap som deklarerar att dokumentet måste bädda in alla standard Type1‑typsnitt som har flaggan IsEmbedded satt till true. Alla PDF‑typsnitt kan bäddas in i dokumentet enkelt genom att sätta flaggan IsEmbedded till true men PDF‑standard‑Type1‑typsnitt är ett undantag från denna regel. Inbäddning av standard Type1‑typsnitt kräver mycket tid så för att bädda in dessa typsnitt är det nödvändigt inte bara sätta flaggan IsEmbedded till true för det angivna typsnittet utan också sätta en ytterligare flagga på dokumentnivå  EmbedStandardFonts  true. Denna egenskap kan endast sättas en gång för alla typsnitt. Standardvärdet är false."
 type: docs
-weight: 150
+weight: 160
 url: /sv/net/aspose.pdf/document/embedstandardfonts/
 ---
-## Document.EmbedStandardFonts-egenskap
+## Document.EmbedStandardFonts property
 
-Egenskap som deklarerar att dokumentet måste bädda in alla standard Type1-teckensnitt som har flaggan IsEmbedded inställd på true. Alla PDF-teckensnitt kan bäddas in i dokumentet helt enkelt genom att ställa in flaggan IsEmbedded på true, men PDF-standard Type1-teckensnitt är ett undantag från denna regel. Inbäddning av standard Type1-teckensnitt kräver mycket tid, så för att bädda in dessa teckensnitt är det nödvändigt att inte bara ställa in flaggan IsEmbedded på true för det angivna teckensnittet utan också ställa in en ytterligare flagga på dokumentnivå - EmbedStandardFonts = true; Denna egenskap kan endast ställas in en gång för alla teckensnitt. Som standard false.
+Egenskap som deklarerar att document måste bädda in alla standard‑Type1‑font som har flaggan IsEmbedded satt till true. Alla PDF‑font kan bäddas in i document enkelt genom att sätta flaggan IsEmbedded till true, men PDF‑standard‑Type1‑font är ett undantag från denna regel. Inbäddning av standard‑Type1‑font kräver mycket tid, så för att bädda in dessa font är det nödvändigt inte bara att sätta flaggan IsEmbedded till true för den angivna fonten utan också att sätta en ytterligare flagga på document‑nivå – EmbedStandardFonts = true; Denna egenskap kan endast sättas en gång för alla font. Standardvärdet är falskt.
 
 ```csharp
 public bool EmbedStandardFonts { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

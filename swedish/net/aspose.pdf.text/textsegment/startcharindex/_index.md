@@ -1,21 +1,23 @@
 ---
-title: TextSegment.StartCharIndex
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment-egenskap. Hämtar startteckenindex för den aktuella segmentet i show text-operatorn Tj TJ-segment
+title: "TextSegment.StartCharIndex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSegment-egenskap. Hämtar startteckenindex för aktuellt segment i show text-operatorn Tj TJ-segment"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.text/textsegment/startcharindex/
 ---
-## TextSegment.StartCharIndex-egenskap
+## TextSegment.StartCharIndex property
 
-Hämtar startteckenindex för den aktuella segmentet i show text-operatorn (Tj, TJ) segment.
+Hämtar startteckningsindex för aktuellt segment i show‑text‑operatorn (Tj, TJ)‑segmentet.
 
 ```csharp
 public int StartCharIndex { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextSegment](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

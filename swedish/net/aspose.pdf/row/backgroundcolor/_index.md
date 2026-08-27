@@ -1,22 +1,24 @@
 ---
-title: Row.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Rad egenskap. Hämtar eller ställer in bakgrundsfärgen
+title: "Row.BackgroundColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-egenskap. Hämtar eller anger bakgrundsfärgen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/row/backgroundcolor/
 ---
-## Row.BackgroundColor egenskap
+## Row.BackgroundColor property
 
-Hämtar eller ställer in bakgrundsfärgen.
+Hämtar eller anger bakgrundsfärgen.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../color/)
-* klass [Row](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../../color/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

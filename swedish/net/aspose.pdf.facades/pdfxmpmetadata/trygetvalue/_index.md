@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-metod. Försöker att hitta nyckel i ordboken och hämtar värde om det hittas
+title: "PdfXmpMetadata.TryGetValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata-metoden. Försöker hitta nyckel i ordboken och hämtar värdet om den hittas"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/trygetvalue/
 ---
-## PdfXmpMetadata.TryGetValue metod
+## PdfXmpMetadata.TryGetValue method
 
-Försöker att hitta nyckel i ordboken och hämtar värde om det hittas.
+Försöker hitta nyckeln i dictionary och hämtar värdet om den hittas.
 
 ```csharp
 public bool TryGetValue(string key, out XmpValue value)
@@ -16,16 +16,18 @@ public bool TryGetValue(string key, out XmpValue value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckel att söka i ordboken. |
-| value | XmpValue& | Hämtat värde. |
+| nyckel | String | Nyckel att söka i ordboken. |
+| värde | XmpValue& | Hämtat värde. |
 
 ### Returvärde
 
 true om nyckeln hittades.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../../aspose.pdf/xmpvalue/)
-* klass [PdfXmpMetadata](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ChatMessage klass. Ett chattkompletteringsmeddelande som genererats av modellen
+title: "Klass ChatMessage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.ChatMessage‑klass. Ett chatt‑slutförandemeddelande som genererats av modellen"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.ai/chatmessage/
 ---
-## ChatMessage klass
+## ChatMessage class
 
-Ett chattkompletteringsmeddelande som genererats av modellen.
+Ett chattkompletteringsmeddelande genererat av modellen.
 
 ```csharp
 public class ChatMessage
@@ -18,18 +18,18 @@ public class ChatMessage
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ChatMessage](chatmessage/#constructor)() | Initierar en ny instans av `ChatMessage` klassen. |
-| [ChatMessage](chatmessage/#constructor_1)(string, string) | Initierar en ny instans av `ChatMessage` klassen. |
+| [ChatMessage](chatmessage/#constructor)() | Initierar en ny instans av klassen `ChatMessage`. |
+| [ChatMessage](chatmessage/#constructor_1)(string, string) | Initierar en ny instans av klassen `ChatMessage`. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Content](../../aspose.pdf.ai/chatmessage/content/) { get; set; } | Hämtar eller ställer in innehållet i meddelandet. |
-| [Name](../../aspose.pdf.ai/chatmessage/name/) { get; set; } | Hämtar eller ställer in ett valfritt namn för deltagaren. Ger modellen information för att särskilja mellan deltagare med samma roll. |
-| [Role](../../aspose.pdf.ai/chatmessage/role/) { get; set; } | Hämtar eller ställer in rollen för meddelandets författare. |
-| [ToolCallId](../../aspose.pdf.ai/chatmessage/toolcallid/) { get; set; } | Hämtar eller ställer in verktygskall som detta meddelande svarar på. |
-| [ToolCalls](../../aspose.pdf.ai/chatmessage/toolcalls/) { get; set; } | Hämtar eller ställer in verktygskall som genererats av modellen, såsom funktionsanrop. |
+| [Content](../../aspose.pdf.ai/chatmessage/content/) { get; set; } | Hämtar eller anger innehållet i meddelandet. |
+| [Name](../../aspose.pdf.ai/chatmessage/name/) { get; set; } | Hämtar eller anger ett valfritt namn för deltagaren. Tillhandahåller modellinformation för att särskilja mellan deltagare med samma roll. |
+| [Role](../../aspose.pdf.ai/chatmessage/role/) { get; set; } | Hämtar eller anger författarens roll för meddelandet. |
+| [ToolCallId](../../aspose.pdf.ai/chatmessage/toolcallid/) { get; set; } | Hämtar eller anger verktygsanropet som detta meddelande svarar på. |
+| [ToolCalls](../../aspose.pdf.ai/chatmessage/toolcalls/) { get; set; } | Hämtar eller anger verktygsanropen som genererats av modellen, såsom funktionsanrop. |
 
 ## Metoder
 
@@ -37,9 +37,11 @@ public class ChatMessage
 | --- | --- |
 | static [FromAssistant](../../aspose.pdf.ai/chatmessage/fromassistant/)(string) | Skapar ett nytt ChatMessage-objekt som representerar ett assistentmeddelande. |
 | static [FromSystem](../../aspose.pdf.ai/chatmessage/fromsystem/)(string) | Skapar ett nytt ChatMessage-objekt som representerar ett systemmeddelande. |
-| static [FromUser](../../aspose.pdf.ai/chatmessage/fromuser/)(string) | Skapar ett nytt ChatMessage-objekt som representerar ett användarmedelande. |
+| static [FromUser](../../aspose.pdf.ai/chatmessage/fromuser/)(string) | Skapar ett nytt ChatMessage-objekt som representerar ett användarmeddelande. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

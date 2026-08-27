@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementAbsorber.ImagePlacementAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementAbsorber-konstruktorn. Standardkonstruktorn
+title: "ImagePlacementAbsorber.ImagePlacementAbsorber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacementAbsorber-konstruktorn. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/imageplacementabsorber/imageplacementabsorber/
 ---
-## ImagePlacementAbsorber-konstruktorn
+## ImagePlacementAbsorber constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ImagePlacementAbsorber()
 ```
 
-### Se Även
+### Se även
 
-* klass [ImagePlacementAbsorber](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

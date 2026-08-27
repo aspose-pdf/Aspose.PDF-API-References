@@ -1,21 +1,23 @@
 ---
-title: HtmlLoadOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlLoadOptions-egenskap. Basvägen/url för html-filen
+title: "HtmlLoadOptions.BasePath"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlLoadOptions egenskap. Basvägen/URL för HTML-filen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/htmlloadoptions/basepath/
 ---
-## HtmlLoadOptions.BasePath-egenskap
+## HtmlLoadOptions.BasePath property
 
-Basvägen/url för html-filen.
+Basvägen/URL för html-filen.
 
 ```csharp
 public string BasePath { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

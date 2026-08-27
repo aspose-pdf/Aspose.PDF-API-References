@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.PageLayoutTwoColumnRight
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. Visa sidorna i två kolumner med udda numrerade sidor till höger
+title: "ViewerPreference.PageLayoutTwoColumnRight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-fält. Visa sidorna i två kolumner med udda sidnummer till höger"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/viewerpreference/pagelayouttwocolumnright/
 ---
-## ViewerPreference.PageLayoutTwoColumnRight-fält
+## ViewerPreference.PageLayoutTwoColumnRight field
 
-Visa sidorna i två kolumner, med udda numrerade sidor till höger.
+Visa sidorna i två kolumner, med udda sidnummer till höger.
 
 ```csharp
 public const int PageLayoutTwoColumnRight;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

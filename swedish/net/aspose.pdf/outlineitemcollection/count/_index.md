@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Antal samlingselement. Vänligen förväxla inte med VisibleCount VisibleCount får antalet synliga utkastselement på alla nivåer.
+title: "OutlineItemCollection.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection egenskap. Antal objekt i samlingen. Vänligen förväxla inte med VisibleCount. VisibleCount hämtar antalet synliga konturposter på alla nivåer"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/outlineitemcollection/count/
 ---
-## OutlineItemCollection.Count-egenskap
+## OutlineItemCollection.Count property
 
-Antal samlingselement. Vänligen förväxla inte med VisibleCount: VisibleCount får antalet synliga utkastselement på alla nivåer.
+Antal objekt i samlingen. Vänligen förväxla inte med VisibleCount: VisibleCount får antalet synliga dispositionsobjekt på alla nivåer.
 
 ```csharp
 public override int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

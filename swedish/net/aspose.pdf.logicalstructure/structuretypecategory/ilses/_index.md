@@ -1,21 +1,23 @@
 ---
-title: StructureTypeCategory.ILSEs
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory-fält. Inline-nivå struktur element ILSEs beskriver layouten av innehåll inom en BLSE-process i inline-progression riktning
+title: "StructureTypeCategory.ILSEs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeCategory fält. Inline-nivå strukturelement ILSEs beskriver layouten av innehåll inom en BLSE som fortskrider i inlineprogressionsriktning."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.logicalstructure/structuretypecategory/ilses/
 ---
-## StructureTypeCategory.ILSEs fält
+## StructureTypeCategory.ILSEs field
 
-Inline-nivå struktur element (ILSEs) beskriver layouten av innehåll inom en BLSE, som fortskrider i inline-progression riktning.
+Inline-nivå strukturelement (ILSEs) beskriver layouten av innehåll inom en BLSE, i inline-progressionsriktning.
 
 ```csharp
 public static readonly StructureTypeCategory ILSEs;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeCategory](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

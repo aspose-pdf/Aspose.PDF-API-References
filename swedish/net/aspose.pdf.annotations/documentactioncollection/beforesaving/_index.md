@@ -1,22 +1,24 @@
 ---
-title: DocumentActionCollection.BeforeSaving
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentActionCollection-egenskap. Hämtar eller ställer in åtgärd som utförs före dokumentbesparing
+title: "DocumentActionCollection.BeforeSaving"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentActionCollection-egenskap. Hämtar eller sätter åtgärden som utförs innan dokumentet sparas"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/documentactioncollection/beforesaving/
 ---
-## DocumentActionCollection.BeforeSaving-egenskap
+## DocumentActionCollection.BeforeSaving property
 
-Hämtar eller ställer in åtgärd som utförs före dokumentbesparing.
+Hämtar eller anger åtgärd som utförs innan dokumentet sparas.
 
 ```csharp
 public PdfAction BeforeSaving { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [DocumentActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [DocumentActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

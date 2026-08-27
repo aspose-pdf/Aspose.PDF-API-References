@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.PrintScalingAppDefault
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. Den överensstämmande läsarens standard utskrifts skalning
+title: "ViewerPreference.PrintScalingAppDefault"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-fält. De konformerande läsarnas standardutskriftsskalning"
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf.facades/viewerpreference/printscalingappdefault/
 ---
-## ViewerPreference.PrintScalingAppDefault-fält
+## ViewerPreference.PrintScalingAppDefault field
 
-Den överensstämmande läsarens standard utskrifts skalning.
+Den konforma läsarens standardutskriftsskalning.
 
 ```csharp
 public const int PrintScalingAppDefault;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

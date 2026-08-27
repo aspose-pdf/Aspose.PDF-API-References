@@ -1,9 +1,9 @@
 ---
-title: Document.SendTo
-second_title: Aspose.PDF for .NET API Reference
-description: Document metod. Skickar hela dokumentet till dokumentenheten för bearbetning
+title: "Document.SendTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document metod. Skickar hela dokumentet till dokumentenheten för bearbetning."
 type: docs
-weight: 860
+weight: 880
 url: /sv/net/aspose.pdf/document/sendto/
 ---
 ## SendTo(DocumentDevice, Stream) {#sendto_2}
@@ -16,21 +16,21 @@ public void SendTo(DocumentDevice device, Stream output)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| device | DocumentDevice | Dokumentenhet som används för att bearbeta dokumentet. |
-| output | Stream | Utdataflödet innehåller resultaten av dokumentbearbetningen med angiven enhet. |
+| enhet | DocumentDevice | Document enhet som används för att bearbeta dokumentet. |
+| utdata | Stream | Utdataflöde innehåller resultaten av dokumentbearbetningen med given enhet. |
 
-### Se Även
+### Se även
 
-* klass [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SendTo(DocumentDevice, int, int, Stream) {#sendto}
 
-Skickar vissa sidor av dokumentet till dokumentenheten för bearbetning.
+Skickar vissa sidor i dokumentet till dokumentenheten för bearbetning.
 
 ```csharp
 public void SendTo(DocumentDevice device, int fromPage, int toPage, Stream output)
@@ -38,16 +38,16 @@ public void SendTo(DocumentDevice device, int fromPage, int toPage, Stream outpu
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| device | DocumentDevice | Dokumentenhet som används för att bearbeta dokumentet. |
+| enhet | DocumentDevice | Document enhet som används för att bearbeta dokumentet. |
 | fromPage | Int32 | Den första sidan för bearbetning. |
 | toPage | Int32 | Den sista sidan för bearbetning. |
-| output | Stream | Utdataflödet innehåller resultaten av dokumentets sidor bearbetning med angiven enhet. |
+| utdata | Stream | Utdataflöde innehåller resultaten av dokumentets sidbearbetning med given enhet. |
 
-### Se Även
+### Se även
 
-* klass [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -62,14 +62,14 @@ public void SendTo(DocumentDevice device, string outputFileName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| device | DocumentDevice | Dokumentenhet som används för att bearbeta dokumentet. |
+| enhet | DocumentDevice | Document enhet som används för att bearbeta dokumentet. |
 | outputFileName | String | Utdatafilnamn med resultaten av bearbetningen. |
 
-### Se Även
+### Se även
 
-* klass [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -84,14 +84,16 @@ public void SendTo(DocumentDevice device, int fromPage, int toPage, string outpu
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| device | DocumentDevice | Dokumentenhet som används för att bearbeta dokumentet. |
+| enhet | DocumentDevice | Document enhet som används för att bearbeta dokumentet. |
 | fromPage | Int32 | Den första sidan för bearbetning. |
 | toPage | Int32 | Den sista sidan för bearbetning. |
 | outputFileName | String | Utdatafilnamn med resultaten av bearbetningen. |
 
-### Se Även
+### Se även
 
-* klass [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

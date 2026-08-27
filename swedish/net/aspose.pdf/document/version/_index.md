@@ -1,21 +1,23 @@
 ---
-title: Document.Version
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar en version av Pdf från Pdf-filens header
+title: "Document.Version"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document egenskap. Hämtar en version av Pdf från Pdf-filhuvudet"
 type: docs
-weight: 530
+weight: 550
 url: /sv/net/aspose.pdf/document/version/
 ---
-## Document.Version-egenskap
+## Document.Version property
 
-Hämtar en version av Pdf från Pdf-filens header.
+Hämtar en version av Pdf från Pdf-filens rubrik.
 
 ```csharp
 public string Version { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

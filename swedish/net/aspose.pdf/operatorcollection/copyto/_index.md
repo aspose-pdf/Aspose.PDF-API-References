@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection-metod. Kopierar operatörer till operatörslistan
+title: "OperatorCollection.CopyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OperatorCollection metod. Kopierar operatorer till operatorlistan"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/operatorcollection/copyto/
 ---
-## OperatorCollection.CopyTo metod
+## OperatorCollection.CopyTo method
 
-Kopierar operatörer till operatörslistan.
+Kopierar operatorer till operatorlistan.
 
 ```csharp
 public override void CopyTo(Operator[] array, int index)
@@ -16,12 +16,14 @@ public override void CopyTo(Operator[] array, int index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| array | Operator[] | Array med operatörer som måste kopieras. Denna array måste vara Object[] eller Operator[]. |
-| index | Int32 | Startindex från vilket operatörer kommer att kopieras |
+| array | Operator[] | Array med operatorer som måste kopieras. Denna array måste vara Object[] eller Operator[]. |
+| index | Int32 | Startindex från vilket operatorer kommer att kopieras |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../operator/)
-* klass [OperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

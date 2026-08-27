@@ -1,14 +1,14 @@
 ---
-title: Resources.GetExtGStates
-second_title: Aspose.PDF for .NET API Reference
-description: Resursmetod. Hämtar alla ExGStates från resurser
+title: "Resources.GetExtGStates"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Resources‑metod. Hämtar alla ExGStates från resurser"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/resources/getextgstates/
 ---
-## Resources.GetExtGStates metod
+## Resources.GetExtGStates method
 
-Hämtar alla ExGStates från resurser.
+Hämtar alla ExGStates från resurserna.
 
 ```csharp
 public Dictionary<string, ExtGStateValue> GetExtGStates()
@@ -16,11 +16,13 @@ public Dictionary<string, ExtGStateValue> GetExtGStates()
 
 ### Returvärde
 
-Returnerar en ordbok med ExGStates namnnycklar.
+Returnerar en dictionary med ExGStates namn‑nycklar.
 
-### Se Även
+### Se även
 
-* klass [ExtGStateValue](../../resources.extgstatevalue/)
-* klass [Resources](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ExtGStateValue](../../resources.extgstatevalue/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

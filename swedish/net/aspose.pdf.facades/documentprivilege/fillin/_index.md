@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.FillIn
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege-egenskap. Möjliggör ifyllning av formulär i fil
+title: "DocumentPrivilege.FillIn"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege egenskap. Tillåter ifyllning av formulär i fil"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/documentprivilege/fillin/
 ---
-## DocumentPrivilege.FillIn-egenskap
+## DocumentPrivilege.FillIn property
 
-Möjliggör ifyllning av formulär i fil.
+Tillåter ifyllning av formulär i fil.
 
 ```csharp
 public static DocumentPrivilege FillIn { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

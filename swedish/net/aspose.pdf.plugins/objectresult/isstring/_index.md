@@ -1,14 +1,14 @@
 ---
-title: ObjectResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectResult-egenskap. Indikerar huruvida resultatet är en sträng
+title: "ObjectResult.IsString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ObjectResult egenskap. Anger om resultatet är en sträng"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.plugins/objectresult/isstring/
 ---
-## ObjectResult.IsString-egenskap
+## ObjectResult.IsString property
 
-Indikerar huruvida resultatet är en sträng.
+Anger om resultatet är en sträng.
 
 ```csharp
 public bool IsString { get; }
@@ -18,8 +18,10 @@ public bool IsString { get; }
 
 `true` om resultatet är en sträng; annars `false`.
 
-### Se Även
+### Se även
 
-* klass [ObjectResult](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Arc.Alpha
-second_title: Aspose.PDF for .NET API Reference
-description: Arc-egenskap. Hämtar eller ställer in ett flyttal som indikerar den inledande vinkelgraden av bågen
+title: "Arc.Alpha"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Arc-egenskap. Hämtar eller anger ett flyttal som indikerar startvinkeln i grader för arcens"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.drawing/arc/alpha/
 ---
-## Arc.Alpha-egenskap
+## Arc.Alpha property
 
-Hämtar eller ställer in ett flyttal som indikerar den inledande vinkelgraden av bågen.
+Hämtar eller anger ett flyttal som indikerar startvinkeln i grader för bågen.
 
 ```csharp
 public double Alpha { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Arc](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

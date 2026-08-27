@@ -1,12 +1,12 @@
 ---
-title: Class ThreadCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ThreadCreateRequest klass. Representerar en begäran om att skapa en tråd
+title: "Klass ThreadCreateRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.ThreadCreateRequest-klass. Representerar en begäran om att skapa en tråd"
 type: docs
-weight: 1110
+weight: 1200
 url: /sv/net/aspose.pdf.ai/threadcreaterequest/
 ---
-## ThreadCreateRequest klass
+## ThreadCreateRequest class
 
 Representerar en begäran om att skapa en tråd.
 
@@ -24,11 +24,13 @@ public class ThreadCreateRequest
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Messages](../../aspose.pdf.ai/threadcreaterequest/messages/) { get; set; } | Hämtar eller ställer in en lista med meddelanden för att starta tråden med. |
-| [Metadata](../../aspose.pdf.ai/threadcreaterequest/metadata/) { get; set; } | Hämtar eller ställer in en uppsättning av 16 nyckel-värde-par som kan kopplas till ett objekt. |
-| [ToolResources](../../aspose.pdf.ai/threadcreaterequest/toolresources/) { get; set; } | Hämtar eller ställer in en uppsättning resurser som görs tillgängliga för assistentens verktyg i denna tråd. |
+| [Messages](../../aspose.pdf.ai/threadcreaterequest/messages/) { get; set; } | Hämtar eller anger en lista med meddelanden att starta tråden med. |
+| [Metadata](../../aspose.pdf.ai/threadcreaterequest/metadata/) { get; set; } | Hämtar eller anger en uppsättning av 16 nyckel‑värdepar som kan bifogas till ett objekt. |
+| [ToolResources](../../aspose.pdf.ai/threadcreaterequest/toolresources/) { get; set; } | Hämtar eller anger en uppsättning resurser som görs tillgängliga för assistentens verktyg i denna tråd. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

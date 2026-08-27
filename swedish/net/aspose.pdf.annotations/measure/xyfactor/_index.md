@@ -1,12 +1,12 @@
 ---
-title: Measure.XYFactor
-second_title: Aspose.PDF for .NET API Reference
-description: Mät egenskap. En faktor som ska användas för att konvertera de största enheterna längs y-axeln till de största enheterna längs x-axeln
+title: "Measure.XYFactor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Measure egenskap. En faktor som ska användas för att konvertera de största enheterna längs y-axeln till de största enheterna längs x-axeln."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.annotations/measure/xyfactor/
 ---
-## Measure.XYFactor egenskap
+## Measure.XYFactor property
 
 En faktor som ska användas för att konvertera de största enheterna längs y-axeln till de största enheterna längs x-axeln.
 
@@ -14,8 +14,10 @@ En faktor som ska användas för att konvertera de största enheterna längs y-a
 public double XYFactor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Measure](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

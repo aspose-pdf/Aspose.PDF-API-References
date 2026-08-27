@@ -1,22 +1,24 @@
 ---
-title: PaperSources.Middle
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources-fält. Representerar den mittersta facket av skrivaren
+title: "PaperSources.Middle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSources fält. Representerar den mellersta lådan i skrivaren"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.printing/papersources/middle/
 ---
-## PaperSources.Middle fält
+## PaperSources.Middle field
 
-Representerar den mittersta facket av skrivaren.
+Representerar den mellersta behållaren i skrivaren.
 
 ```csharp
 public static readonly PaperSource Middle;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSource](../../papersource/)
-* klass [PaperSources](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

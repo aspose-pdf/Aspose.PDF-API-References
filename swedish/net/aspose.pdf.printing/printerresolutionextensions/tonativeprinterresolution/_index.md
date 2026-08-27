@@ -1,12 +1,12 @@
 ---
-title: PrinterResolutionExtensions.ToNativePrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterResolutionExtensions metod. Konverterar PrinterResolution till Windows-specifik System.Drawing.Printing.PrinterResolution
+title: "PrinterResolutionExtensions.ToNativePrinterResolution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrinterResolutionExtensions-metod. Konverterar PrinterResolution till Windows-specifik System.Drawing.Printing.PrinterResolution"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.printing/printerresolutionextensions/tonativeprinterresolution/
 ---
-## PrinterResolutionExtensions.ToNativePrinterResolution metod
+## PrinterResolutionExtensions.ToNativePrinterResolution method
 
 Konverterar [`PrinterResolution`](../../printerresolution/) till Windows-specifik System.Drawing.Printing.PrinterResolution.
 
@@ -20,11 +20,13 @@ public static PrinterResolution ToNativePrinterResolution(this PrinterResolution
 
 ### Returvärde
 
-Windows skrivarupplösning.
+Windows-skrivarupplösning.
 
-### Se Även
+### Se även
 
-* klass [PrinterResolution](../../printerresolution/)
-* klass [PrinterResolutionExtensions](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterResolution](../../printerresolution/)
+* class [PrinterResolutionExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

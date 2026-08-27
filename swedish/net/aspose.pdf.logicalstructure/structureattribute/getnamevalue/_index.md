@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetNameValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute-metod. Hämtar värdenamn
+title: "StructureAttribute.GetNameValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureAttribute-metod. Hämtar värde namn"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.logicalstructure/structureattribute/getnamevalue/
 ---
-## StructureAttribute.GetNameValue metod
+## StructureAttribute.GetNameValue method
 
-Hämtar värdenamn.
+Hämtar Value Name.
 
 ```csharp
 public AttributeName GetNameValue()
@@ -16,11 +16,13 @@ public AttributeName GetNameValue()
 
 ### Returvärde
 
-Värdenamn.
+Värde namn.
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../../attributename/)
-* klass [StructureAttribute](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

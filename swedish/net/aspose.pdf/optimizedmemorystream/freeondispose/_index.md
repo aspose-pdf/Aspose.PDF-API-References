@@ -1,21 +1,23 @@
 ---
-title: OptimizedMemoryStream.FreeOnDispose
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream-egenskap. Hämtar eller ställer in ett värde som indikerar huruvida de underliggande buffertarna ska frigöras vid avyttring
+title: "OptimizedMemoryStream.FreeOnDispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizedMemoryStream egenskap. Hämtar eller anger ett värde som indikerar om de underliggande buffertarna ska frigöras vid dispose."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/optimizedmemorystream/freeondispose/
 ---
-## OptimizedMemoryStream.FreeOnDispose-egenskap
+## OptimizedMemoryStream.FreeOnDispose property
 
-Hämtar eller ställer in ett värde som indikerar huruvida de underliggande buffertarna ska frigöras vid avyttring.
+Hämtar eller anger ett värde som indikerar om de underliggande buffertarna ska frigöras vid disponering.
 
 ```csharp
 public bool FreeOnDispose { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OptimizedMemoryStream](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

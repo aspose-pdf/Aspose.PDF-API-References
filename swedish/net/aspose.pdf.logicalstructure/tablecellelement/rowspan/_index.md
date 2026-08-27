@@ -1,21 +1,23 @@
 ---
-title: TableCellElement.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement-egenskap. Hämtar eller ställer in radspannet
+title: "TableCellElement.RowSpan"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableCellElement egenskap. Hämtar eller anger radspannet"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.logicalstructure/tablecellelement/rowspan/
 ---
-## TableCellElement.RowSpan-egenskap
+## TableCellElement.RowSpan property
 
-Hämtar eller ställer in radspannet.
+Hämtar eller anger radspannet.
 
 ```csharp
 public int RowSpan { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TableCellElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

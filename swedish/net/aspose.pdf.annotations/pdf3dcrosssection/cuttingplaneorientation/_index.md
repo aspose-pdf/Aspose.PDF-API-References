@@ -1,32 +1,34 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSection-egenskap. Hämtar eller ställer in skärplanens orientering
+title: "PDF3DCrossSection.CuttingPlaneOrientation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DCrossSection-egenskapen. Hämtar eller anger genomskärningsplanets orientering"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneorientation/
 ---
-## PDF3DCrossSection.CuttingPlaneOrientation-egenskap
+## PDF3DCrossSection.CuttingPlaneOrientation property
 
-Hämtar eller ställer in skärplanens orientering.
+Hämtar eller anger skärningsplanens orientering.
 
 ```csharp
 public PDF3DCuttingPlaneOrientation CuttingPlaneOrientation { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Skärplanens orientering.
+Skärningsplanens orientering.
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| Undantag | Endast en av värdena får vara Null |
+| Exception | Endast ett av värdena får vara Null |
 
-### Se Även
+### Se även
 
-* klass [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)
-* klass [PDF3DCrossSection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

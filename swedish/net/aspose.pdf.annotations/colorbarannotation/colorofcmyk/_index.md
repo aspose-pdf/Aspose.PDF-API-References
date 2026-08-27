@@ -1,22 +1,24 @@
 ---
-title: ColorBarAnnotation.ColorOfCMYK
-second_title: Aspose.PDF for .NET API Reference
-description: ColorBarAnnotation-egenskap. Hämtar eller ställer in färg för vilken annotationen ritar
+title: "ColorBarAnnotation.ColorOfCMYK"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ColorBarAnnotation-egenskapen. Hämtar eller anger färgen cyan magenta yellow black för vilken annoteringen ritas."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/colorbarannotation/colorofcmyk/
 ---
-## ColorBarAnnotation.ColorOfCMYK-egenskap
+## ColorBarAnnotation.ColorOfCMYK property
 
-Hämtar eller ställer in färg (en av cyan, magenta, gul, svart) för vilken annotationen ritar.
+Hämtar eller anger färg (en av cyan, magenta, gul, svart) som annotationen ritar med.
 
 ```csharp
 public ColorsOfCMYK ColorOfCMYK { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [ColorsOfCMYK](../../colorsofcmyk/)
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

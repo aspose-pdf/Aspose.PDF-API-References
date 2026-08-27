@@ -1,7 +1,7 @@
 ---
-title: Cells.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Cells-metod. Lägg till cell i samlingen
+title: "Cells.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cells‑metod. Lägg till cell i samlingen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/cells/add/
@@ -14,15 +14,15 @@ Lägg till cell i samlingen.
 public Cell Add()
 ```
 
-### Return Value
+### Returvärde
 
 Den nya cellen
 
-### Se Även
+### Se även
 
-* klass [Cell](../../cell/)
-* klass [Cells](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,19 +37,19 @@ public Cell Add(string text, TextState ts)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Texten för cellen. |
+| text | String | Texten för cellen. |
 | ts | TextState | Texttillståndet. |
 
-### Return Value
+### Returvärde
 
 Den nya cellen
 
-### Se Även
+### Se även
 
-* klass [Cell](../../cell/)
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [Cells](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../../cell/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -64,17 +64,17 @@ public Cell Add(string text)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Texten för cellen. |
+| text | String | Texten för cellen. |
 
-### Return Value
+### Returvärde
 
 Den nya cellen
 
-### Se Även
+### Se även
 
-* klass [Cell](../../cell/)
-* klass [Cells](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -91,9 +91,11 @@ public void Add(Cell cell)
 | --- | --- | --- |
 | cell | Cell | Cellen till samlingen. |
 
-### Se Även
+### Se även
 
-* klass [Cell](../../cell/)
-* klass [Cells](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

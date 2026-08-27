@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Returnerar flaggor för fältet
+title: "Form.GetFieldFlag"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formulärmetod. Returnerar flaggor för fältet"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.facades/form/getfieldflag/
 ---
-## Form.GetFieldFlag metod
+## Form.GetFieldFlag method
 
-Returnerar flaggor för fältet.
+Returnerar fältets flaggor.
 
 ```csharp
 public PropertyFlag GetFieldFlag(string fieldName)
@@ -16,7 +16,7 @@ public PropertyFlag GetFieldFlag(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Fältnamn |
+| fieldName | String | Fältnamn |
 
 ### Returvärde
 
@@ -32,9 +32,11 @@ if (form.GetFieldFlag("textField") == PropertyFlag.ReadOnly)
 }
 ```
 
-### Se Även
+### Se även
 
 * enum [PropertyFlag](../../propertyflag/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Prc16KRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. 16K roterat papper 146 mm med 215 mm
+title: "PaperSizes.Prc16KRotated"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. 16K roterat papper 146 mm x 215 mm"
 type: docs
 weight: 810
 url: /sv/net/aspose.pdf.printing/papersizes/prc16krotated/
 ---
-## PaperSizes.Prc16KRotated-fält
+## PaperSizes.Prc16KRotated field
 
-16K roterat papper (146 mm med 215 mm).
+16K roterat papper (146 mm × 215 mm).
 
 ```csharp
 public static readonly PaperSize Prc16KRotated;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

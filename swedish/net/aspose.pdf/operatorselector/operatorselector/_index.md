@@ -1,7 +1,7 @@
 ---
-title: OperatorSelector.OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorSelector-konstruktorn. Initierar en ny instans av Selector-klassen
+title: "OperatorSelector.OperatorSelector"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OperatorSelector‑konstruktor. Initierar en ny instans av Selector‑klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/operatorselector/operatorselector/
@@ -14,11 +14,11 @@ Initierar en ny instans av !:Selector-klassen.
 public OperatorSelector()
 ```
 
-### Se Även
+### Se även
 
-* klass [OperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,11 +32,13 @@ public OperatorSelector(Operator op)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| op | Operator | Operatören att besöka/välja. |
+| op | Operator | Operatorn att besöka/välja. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../operator/)
-* klass [OperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

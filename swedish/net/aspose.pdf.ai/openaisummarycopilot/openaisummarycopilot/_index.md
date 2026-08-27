@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilot.OpenAISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilot-konstruktorn. Initierar en ny instans av OpenAISummaryCopilot-klassen
+title: "OpenAISummaryCopilot.OpenAISummaryCopilot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAISummaryCopilot konstruktor. Initierar en ny instans av klassen OpenAISummaryCopilot"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/openaisummarycopilot/openaisummarycopilot/
 ---
-## OpenAISummaryCopilot-konstruktorn
+## OpenAISummaryCopilot constructor
 
 Initierar en ny instans av klassen [`OpenAISummaryCopilot`](../).
 
@@ -17,10 +17,10 @@ public OpenAISummaryCopilot(IOpenAIClient client,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| client | IOpenAIClient | Instansen av OpenAI-klienten. |
+| klient | IOpenAIClient | OpenAI‑klientinstansen. |
 | options | ISummaryCopilotOptions`1 | Alternativen för OpenAI Summary Copilot. |
 
-### Se Även
+### Se även
 
 * interface [IOpenAIClient](../../iopenaiclient/)
 * interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
@@ -28,3 +28,5 @@ public OpenAISummaryCopilot(IOpenAIClient client,
 * class [OpenAISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

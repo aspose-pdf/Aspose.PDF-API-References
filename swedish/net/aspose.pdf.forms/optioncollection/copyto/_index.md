@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection metod. Kopierar alternativ till array
+title: "OptionCollection.CopyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptionCollection-metod. Kopierar alternativ till en array"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.forms/optioncollection/copyto/
 ---
-## OptionCollection.CopyTo metod
+## OptionCollection.CopyTo method
 
-Kopierar alternativ till array.
+Kopierar alternativ till en array.
 
 ```csharp
 public void CopyTo(Option[] array, int index)
@@ -16,12 +16,14 @@ public void CopyTo(Option[] array, int index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| array | Option[] | Array där alternativ kommer att kopieras. |
-| index | Int32 | Startindex i array. |
+| array | Option[] | Array där alternativen kommer att kopieras. |
+| index | Int32 | Startindex i arrayen. |
 
-### Se Även
+### Se även
 
-* klass [Option](../../option/)
-* klass [OptionCollection](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

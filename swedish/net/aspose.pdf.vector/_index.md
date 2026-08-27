@@ -1,23 +1,25 @@
 ---
-title: Aspose.Pdf.Vector
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vector är ett rot-namnrum för grafikoperationer
+title: "Aspose.Pdf.Vector"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Vector är ett rot-namnrymd för grafikoperationer."
 type: docs
-weight: 270
+weight: 260
 url: /sv/net/aspose.pdf.vector/
 ---
-Den **Aspose.Pdf.Vector** är ett rot-namnrum för grafikoperationer.
+Den **Aspose.Pdf.Vector** är ett rot‑namnrymd för grafikoperationer.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [GraphicElement](./graphicelement/) | Representerar basklass för grafikobjekt på sidan. |
-| [GraphicElementCollection](./graphicelementcollection/) | Representerar [`GraphicElement`](../aspose.pdf.vector/graphicelement/) samling. |
-| [GraphicsAbsorber](./graphicsabsorber/) | Representerar ett absorberande objekt av grafikelement. Utför grafik sökning och ger tillgång till sökresultat via [`Elements`](../aspose.pdf.vector/graphicsabsorber/elements/) samling. |
-| [GraphicState](./graphicstate/) | Representerar grafiskt tillstånd för den aktuella [`GraphicElement`](../aspose.pdf.vector/graphicelement/). |
-| [SubPath](./subpath/) | Representerar vektorgrafikobjekt på sidan. I grunden representeras vektorgrafikobjekt av två grupper av SubPaths. En av dem representeras av en uppsättning linjer och kurvor. Andra presenteras som rektanglar och kan ibland förväxlas. Vanligtvis är det ett rektangulärt område som har en färg, men mycket ofta placeras denna rektangel i början av sidan och definierar hela sidans utrymme i vitt. Så du får SubPath, men visuellt ser du bara texten på sidan. |
-| [SubPathGroup](./subpathgroup/) | Representerar en klass för en grupp av grafikelementbehållare. Klassobjekt har en avgränsningsruta för att ta hänsyn till gruppens storlek. |
-| [SvgExtractionOptions](./svgextractionoptions/) | Representerar en optionsklass för att extrahera vektorgrafik från pdf-dokumentets sida. |
-| [SvgExtractor](./svgextractor/) | Representerar en klass för extraktion av SVG-bilder från sidan. |
-| [XFormPlacement](./xformplacement/) | Representerar XForm placering. Om XForm visas på sidan mer än 1 gång, kommer alla XformPlacements kopplade till denna XForm att ha gemensamma grafiska element, men olika grafiska tillstånd. |
+| [GraphicElement](./graphicelement/) | Representerar basklass för grafikobjekt på page. |
+| [GraphicElementCollection](./graphicelementcollection/) | Representerar samlingen [`GraphicElement`](../aspose.pdf.vector/graphicelement/). |
+| [GraphicsAbsorber](./graphicsabsorber/) | Representerar ett absorberingsobjekt för grafikelement. Utför grafiksökning och ger åtkomst till sökresultaten via samlingen [`Elements`](../aspose.pdf.vector/graphicsabsorber/elements/). |
+| [GraphicState](./graphicstate/) | Representerar det grafiska tillståndet för den aktuella [`GraphicElement`](../aspose.pdf.vector/graphicelement/). |
+| [SubPath](./subpath/) | Representerar ett vektorgrafikobjekt på sidan. I grund och botten representeras vektorgrafikobjekt av två grupper av SubPaths. En av dem representeras av en uppsättning linjer och kurvor. De andra visas som rektanglar och kan ibland förväxlas. Vanligtvis är det ett rektangulärt område som har en färg, men mycket ofta placeras denna rektangel i början av sidan och definierar hela sidans utrymme i vitt. Så du får SubPath, men visuellt ser du bara texten på sidan. |
+| [SubPathGroup](./subpathgroup/) | Representerar en klass för en grupp av grafikelementbehållare. Klassobjekt har en omgivningsruta för att ta hänsyn till gruppens storlek. |
+| [SvgExtractionOptions](./svgextractionoptions/) | Representerar en alternativklass för extrahering av vektorgrafik från pdf-dokumentets sida. |
+| [SvgExtractor](./svgextractor/) | Representerar en klass för extrahering av SVG-bilder från sidan. |
+| [XFormPlacement](./xformplacement/) | Representerar XForm-placering. Om XForm visas på sidan mer än en gång, kommer alla XformPlacements som är associerade med detta XForm att ha gemensamma grafiska element, men olika grafiska tillstånd. |
+
+

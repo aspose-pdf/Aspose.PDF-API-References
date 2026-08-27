@@ -1,14 +1,14 @@
 ---
-title: Form.FormSubmitButtonNames
-second_title: Aspose.PDF for .NET API Reference
-description: Formegenskap. Hämtar alla namn på formulärsändningsknappar
+title: "Form.FormSubmitButtonNames"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-egenskap. Hämtar alla namn på formulärskickknappar"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/form/formsubmitbuttonnames/
 ---
-## Form.FormSubmitButtonNames-egenskap
+## Form.FormSubmitButtonNames property
 
-Hämtar alla namn på formulärsändningsknappar.
+Hämtar alla namn på formulärets skicka-knappar.
 
 ```csharp
 public string[] FormSubmitButtonNames { get; }
@@ -25,8 +25,10 @@ foreach(string btn in submits)
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

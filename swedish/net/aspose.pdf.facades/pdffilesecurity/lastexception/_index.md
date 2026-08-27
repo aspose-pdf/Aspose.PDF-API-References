@@ -1,12 +1,12 @@
 ---
-title: PdfFileSecurity.LastException
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity-egenskap. Returnerar undantaget som kastades av den senaste operationen
+title: "PdfFileSecurity.LastException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSecurity‑egenskap. Returnerar undantaget som kastades av den senaste operationen."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdffilesecurity/lastexception/
 ---
-## PdfFileSecurity.LastException-egenskap
+## PdfFileSecurity.LastException property
 
 Returnerar undantaget som kastades av den senaste operationen.
 
@@ -14,8 +14,10 @@ Returnerar undantaget som kastades av den senaste operationen.
 public Exception LastException { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

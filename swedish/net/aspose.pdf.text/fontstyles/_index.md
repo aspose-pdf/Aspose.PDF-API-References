@@ -1,14 +1,14 @@
 ---
-title: Enum FontStyles
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontStyles enum. Anger stilinformation som tillämpas på text
+title: "Enum FontStyles"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.FontStyles enum. Anger stilinformation som tillämpas på text"
 type: docs
-weight: 10570
+weight: 10750
 url: /sv/net/aspose.pdf.text/fontstyles/
 ---
-## FontStyles-uppräkning
+## FontStyles enumeration
 
-Anger stilinformation som tillämpas på text.
+Specificerar stilinformation som tillämpas på text.
 
 ```csharp
 [Flags]
@@ -23,11 +23,13 @@ public enum FontStyles
 | Bold | `1` | Fet text. |
 | Italic | `2` | Kursiv text. |
 
-## Kommentarer
+## Anmärkningar
 
-Denna uppräkning har en FlagsAttribute-attribut som tillåter en kombination av dess medlemsvärden.
+Denna uppräkning har ett FlagsAttribute‑attribut som tillåter en kombination av dess medlemsvärden.
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

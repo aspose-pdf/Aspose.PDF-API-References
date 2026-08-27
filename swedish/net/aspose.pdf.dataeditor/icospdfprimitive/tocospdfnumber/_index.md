@@ -1,14 +1,14 @@
 ---
-title: ICosPdfPrimitive.ToCosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: ICosPdfPrimitive metod. Försöker att omvandla denna instans till CosPdfNumber
+title: "ICosPdfPrimitive.ToCosPdfNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ICosPdfPrimitive‑metod. Försöker kasta detta objekt till CosPdfNumber"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfnumber/
 ---
-## ICosPdfPrimitive.ToCosPdfNumber metod
+## ICosPdfPrimitive.ToCosPdfNumber method
 
-Försöker att omvandla denna instans till [`CosPdfNumber`](../../cospdfnumber/).
+Försöker kasta detta objekt till [`CosPdfNumber`](../../cospdfnumber/).
 
 ```csharp
 public CosPdfNumber ToCosPdfNumber()
@@ -18,9 +18,11 @@ public CosPdfNumber ToCosPdfNumber()
 
 null om instansen inte är [`CosPdfNumber`](../../cospdfnumber/) annars [`CosPdfNumber`](../../cospdfnumber/).
 
-### Se Även
+### Se även
 
-* klass [CosPdfNumber](../../cospdfnumber/)
-* gränssnitt [ICosPdfPrimitive](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfNumber](../../cospdfnumber/)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

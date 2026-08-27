@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.PageResizePct
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters-metod. Skapar storleksparametrar för sidstorlek. Nya storlekar anges i procent
+title: "PdfFileEditor.ContentsResizeParameters.PageResizePct"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metoden ContentsResizeParameters. Skapar storleksändringsparametrar för sidändring. Nya storlekar anges i procent"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresizepct/
 ---
-## PdfFileEditor.ContentsResizeParameters.PageResizePct metod
+## PdfFileEditor.ContentsResizeParameters.PageResizePct method
 
-Skapar storleksparametrar för sidstorlek. Nya storlekar anges i procent.
+Skapar ändringsparametrar för sidändring. Nya storlekar anges i procent.
 
 ```csharp
 public static ContentsResizeParameters PageResizePct(double widthPct, double heightPct)
@@ -21,10 +21,12 @@ public static ContentsResizeParameters PageResizePct(double widthPct, double hei
 
 ### Returvärde
 
-Nya storleksparametrar.
+Nya storleksändringsparametrar.
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeParameters](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

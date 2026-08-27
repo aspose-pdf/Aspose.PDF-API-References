@@ -1,14 +1,14 @@
 ---
-title: EncryptedPayload.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptedPayload-konstruktorn. Initiera instans av krypterad payload
+title: "EncryptedPayload.EncryptedPayload"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EncryptedPayload konstruktor. Initierar krypterad nyttolastinstans"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/encryptedpayload/encryptedpayload/
 ---
-## EncryptedPayload-konstruktorn
+## EncryptedPayload constructor
 
-Initiera instans av krypterad payload.
+Initiera en instans av krypterad nyttolast.
 
 ```csharp
 public EncryptedPayload(FileSpecification fileSpecification)
@@ -16,11 +16,13 @@ public EncryptedPayload(FileSpecification fileSpecification)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileSpecification | FileSpecification | Den filspecifikation som används för initiering. |
+| fileSpecification | FileSpecification | Filspecifikationen som används för initiering. |
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../../filespecification/)
-* klass [EncryptedPayload](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../../filespecification/)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

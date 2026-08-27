@@ -1,14 +1,14 @@
 ---
-title: Enum SoundIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundIcon enum. Uppräkning av ikoner som ska användas för att visa annotationen
+title: "Enum SoundIcon"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.SoundIcon‑enum. Enumererar ikonerna som ska användas för att visa annotationen."
 type: docs
-weight: 2560
+weight: 2660
 url: /sv/net/aspose.pdf.annotations/soundicon/
 ---
-## SoundIcon-uppräkning
+## SoundIcon enumeration
 
-Uppräkning av ikoner som ska användas för att visa annotationen.
+Enumererar ikonerna som ska användas vid visning av annotationen.
 
 ```csharp
 public enum SoundIcon
@@ -18,10 +18,12 @@ public enum SoundIcon
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Högtalare | `0` | Högtalarikon. |
-| Mikrofon | `1` | Mikrofonikon. |
+| Speaker | `0` | Högtalarikon. |
+| Mic | `1` | Mikrofonikon. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

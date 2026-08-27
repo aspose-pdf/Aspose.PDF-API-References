@@ -1,14 +1,14 @@
 ---
-title: StrikeOutAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: StrikeOutAnnotation-metod. Accepterar besöksobjekt för att bearbeta annoteringen
+title: "StrikeOutAnnotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StrikeOutAnnotation metod. Accepterar besökarobjekt för att bearbeta annoteringen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/strikeoutannotation/accept/
 ---
-## StrikeOutAnnotation.Accept metod
+## StrikeOutAnnotation.Accept method
 
-Accepterar besöksobjekt för att bearbeta annoteringen.
+Accepterar besökarobjekt för att bearbeta anteckningen.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Besöksobjekt. |
+| besökare | AnnotationSelector | Besökarobjekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [StrikeOutAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [StrikeOutAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

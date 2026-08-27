@@ -1,14 +1,14 @@
 ---
-title: Enum BoxStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.BoxStyle enum. Representerar stilar för att rita en bock i en kryssruta
+title: "Enum BoxStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Forms.BoxStyle-enum. Representerar stilar för att rita kryss i kryssruta."
 type: docs
-weight: 4960
+weight: 5080
 url: /sv/net/aspose.pdf.forms/boxstyle/
 ---
-## BoxStyle-uppräkning
+## BoxStyle enumeration
 
-Representerar stilar för att rita en bock i en kryssruta.
+Representerar stilar för att rita kryss i kryssruta.
 
 ```csharp
 public enum BoxStyle
@@ -19,13 +19,15 @@ public enum BoxStyle
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Circle | `0` | Cirkelform. |
-| Check | `1` | Bockstil. |
+| Check | `1` | Kryssstil. |
 | Cross | `2` | Korsstil. |
 | Diamond | `3` | Diamantstil. |
-| Square | `4` | Fyrkantig stil. |
-| Star | `5` | Stjärnform. |
+| Square | `4` | Kvadratisk stil. |
+| Star | `5` | Stjärnstil. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

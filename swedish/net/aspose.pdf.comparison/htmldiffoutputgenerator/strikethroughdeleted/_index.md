@@ -1,21 +1,23 @@
 ---
-title: HtmlDiffOutputGenerator.StrikethroughDeleted
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlDiffOutputGenerator-egenskap. Hämta eller ställ in textdekoration linjeöverstrykning stil för raderingsoperationen. Standardvärde är False
+title: "HtmlDiffOutputGenerator.StrikethroughDeleted"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlDiffOutputGenerator egenskap. Hämta eller ange textdecoration linethrough stil för raderingsoperationen. Standardvärdet är False"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.comparison/htmldiffoutputgenerator/strikethroughdeleted/
 ---
-## HtmlDiffOutputGenerator.StrikethroughDeleted-egenskap
+## HtmlDiffOutputGenerator.StrikethroughDeleted property
 
-Hämta eller ställ in textdekoration: linjeöverstrykning stil för raderingsoperationen. Standardvärde är `False`.
+Hämta eller ange text-decoration: line-through‑stil för delete‑operationen. Standardvärdet är `False`.
 
 ```csharp
 public bool StrikethroughDeleted { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlDiffOutputGenerator](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: OutputTextStyle.InsertedStyle
-second_title: Aspose.PDF for .NET API Reference
-description: OutputTextStyle-egenskap. Hämta och ställ in en textstil för insatt text
+title: "OutputTextStyle.InsertedStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutputTextStyle egenskap. Hämta och sätt en textstil för infogad text"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.comparison/outputtextstyle/insertedstyle/
 ---
-## OutputTextStyle.InsertedStyle-egenskap
+## OutputTextStyle.InsertedStyle property
 
-Hämta och ställ in en textstil för insatt text.
+Hämta och ange en textstil för infogad text.
 
 ```csharp
 public TextStyle InsertedStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStyle](../../textstyle/)
-* klass [OutputTextStyle](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [TextStyle](../../textstyle/)
+* class [OutputTextStyle](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

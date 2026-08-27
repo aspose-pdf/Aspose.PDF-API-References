@@ -1,22 +1,24 @@
 ---
-title: Document.PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in sidskalningsalternativet som ska väljas när en utskriftsdialog visas för detta dokument
+title: "Document.PrintScaling"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar eller anger sidskaleringsalternativet som ska väljas när en utskriftsdialog visas för detta dokument"
 type: docs
-weight: 510
+weight: 530
 url: /sv/net/aspose.pdf/document/printscaling/
 ---
-## Document.PrintScaling-egenskap
+## Document.PrintScaling property
 
-Hämtar eller ställer in sidskalningsalternativet som ska väljas när en utskriftsdialog visas för detta dokument.
+Hämtar eller anger page-skalningsalternativet som ska väljas när en utskriftsdialog visas för detta document.
 
 ```csharp
 public PrintScaling PrintScaling { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [PrintScaling](../../printscaling/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

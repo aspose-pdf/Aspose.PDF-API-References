@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Oeb_100
-second_title: Aspose.PDF for .NET API Reference
-description: AttributOwnerStandard fält. OEB1.00 attributägare
+title: "AttributeOwnerStandard.Oeb_100"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeOwnerStandard-fält. OEB1.00-attributägare"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.logicalstructure/attributeownerstandard/oeb_100/
 ---
-## AttributeOwnerStandard.Oeb_100 fält
+## AttributeOwnerStandard.Oeb_100 field
 
 OEB-1.00 attributägare.
 
@@ -14,8 +14,10 @@ OEB-1.00 attributägare.
 public static readonly AttributeOwnerStandard Oeb_100;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

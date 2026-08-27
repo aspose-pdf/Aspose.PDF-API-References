@@ -1,21 +1,23 @@
 ---
-title: AutoFiller.UnFlattenFields
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller-egenskap. Anger de fält som inte kommer att plattas ut. Om denna egenskap inte är inställd kommer alla fält att plattas ut
+title: "AutoFiller.UnFlattenFields"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AutoFiller egenskap. Ställer in fälten som inte kommer att plattas ut. Om denna egenskap inte är inställd kommer alla fält att plattas ut"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/autofiller/unflattenfields/
 ---
-## AutoFiller.UnFlattenFields-egenskap
+## AutoFiller.UnFlattenFields property
 
-Anger de fält som inte kommer att plattas ut. Om denna egenskap inte är inställd kommer alla fält att plattas ut.
+Anger fälten som inte ska plattas ut. Om den här egenskapen inte är angiven, kommer alla fält att plattas ut.
 
 ```csharp
 public string[] UnFlattenFields { set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AutoFiller](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

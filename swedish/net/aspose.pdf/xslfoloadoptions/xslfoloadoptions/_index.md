@@ -1,7 +1,7 @@
 ---
-title: XslFoLoadOptions.XslFoLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: XslFoLoadOptions-konstruktör. Skapar XslFoLoadOptions-objekt utan xsl-data
+title: "XslFoLoadOptions.XslFoLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XslFoLoadOptions-konstruktor. Skapar ett XslFoLoadOptions-objekt utan xsl-data"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/
@@ -14,11 +14,11 @@ Skapar [`XslFoLoadOptions`](../) objekt utan xsl-data.
 public XslFoLoadOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [XslFoLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,13 +32,13 @@ public XslFoLoadOptions(string xslFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xslFile | Sträng | Xsl-fil för att konvertera XSL-FO-dokument till pdf-dokument. |
+| xslFile | String | Xsl-fil för att konvertera XSL-FO-dokument till pdf-dokument. |
 
-### Se Även
+### Se även
 
-* klass [XslFoLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,10 +52,12 @@ public XslFoLoadOptions(Stream xslStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xslStream | Ström | Xsl-ström för att konvertera XSL-FO-dokument till pdf-dokument. |
+| xslStream | Stream | Xsl-ström för att konvertera XSL-FO-dokument till pdf-dokument. |
 
-### Se Även
+### Se även
 
-* klass [XslFoLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

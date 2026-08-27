@@ -1,22 +1,24 @@
 ---
-title: SaveOptions.BorderPartStyle.LineType
-second_title: Aspose.PDF for .NET API Reference
-description: BorderPartStyle-fält. Representerar typ av kantlinjer, t.ex. Streckad eller Solid
+title: "SaveOptions.BorderPartStyle.LineType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BorderPartStyle-fält. Representerar typen av kantlinjer, t.ex. Streckad eller Solid"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/saveoptions.borderpartstyle/linetype/
 ---
-## SaveOptions.BorderPartStyle.LineType-fält
+## SaveOptions.BorderPartStyle.LineType field
 
-Representerar typ av kantlinje - t.ex. Streckad eller Solid
+Representerar kantlinjens typ – t.ex. streckad eller solid
 
 ```csharp
 public HtmlBorderLineType LineType;
 ```
 
-### Se Även
+### Se även
 
 * enum [HtmlBorderLineType](../../saveoptions.htmlborderlinetype/)
 * class [BorderPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

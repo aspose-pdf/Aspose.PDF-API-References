@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.LineHeight
-second_title: Aspose.PDF for .NET API Reference
-description: AttributNyckel fält. LineHeight attribut Layout attribut ägare
+title: "AttributeKey.LineHeight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. LineHeight attribute Layout attribute ägare"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/lineheight/
 ---
-## AttributNyckel.LineHeight fält
+## AttributeKey.LineHeight field
 
-LineHeight attribut (Layout attribut ägare).
+LineHeight-attribut (Layout-attributägare).
 
 ```csharp
 public static readonly AttributeKey LineHeight;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributNyckel](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

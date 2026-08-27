@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.TryMergeFragments
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Flaggan för att kombinera bildfragment till en bild
+title: "HtmlSaveOptions.TryMergeFragments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-egenskap. Flaggan för att kombinera bildfragment till en enda bild."
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf/htmlsaveoptions/trymergefragments/
 ---
-## HtmlSaveOptions.TryMergeFragments-egenskap
+## HtmlSaveOptions.TryMergeFragments property
 
 Flaggan för att kombinera bildfragment till en bild.
 
@@ -14,8 +14,10 @@ Flaggan för att kombinera bildfragment till en bild.
 public bool TryMergeFragments { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

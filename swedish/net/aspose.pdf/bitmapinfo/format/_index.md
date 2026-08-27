@@ -1,22 +1,24 @@
 ---
-title: BitmapInfo.Format
-second_title: Aspose.PDF for .NET API Reference
-description: BitmapInfo-egenskap. Hämtar pixelformatet för bitmappen
+title: "BitmapInfo.Format"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BitmapInfo-egenskap. Hämtar pixelformatet för bitmapen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/bitmapinfo/format/
 ---
-## BitmapInfo.Format-egenskap
+## BitmapInfo.Format property
 
-Hämtar pixelformatet för bitmappen.
+Hämtar pixelformatet för bitmapen.
 
 ```csharp
 public PixelFormat Format { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [PixelFormat](../../bitmapinfo.pixelformat/)
 * class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

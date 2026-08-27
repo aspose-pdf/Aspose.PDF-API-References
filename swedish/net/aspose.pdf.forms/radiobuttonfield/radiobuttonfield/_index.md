@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.RadioButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField-konstruktör. Konstruktör för RadiouttonField
+title: "RadioButtonField.RadioButtonField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RadioButtonField konstruktor. Konstruktor för RadiouttonField."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/radiobuttonfield/radiobuttonfield/
 ---
 ## RadioButtonField(Page) {#constructor_1}
 
-Konstruktör för RadiouttonField
+Konstruktor för RadiouttonField
 
 ```csharp
 public RadioButtonField(Page page)
@@ -16,20 +16,20 @@ public RadioButtonField(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sida där radioknappen kommer att placeras. |
+| sida | Page | Sida där radioknappen kommer att placeras. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [RadioButtonField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Page](../../../aspose.pdf/page/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## RadioButtonField(Document) {#constructor}
 
-Konstruktör för RadioButtonField.
+Konstruktor för RadioButtonField.
 
 ```csharp
 public RadioButtonField(Document doc)
@@ -37,11 +37,13 @@ public RadioButtonField(Document doc)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Document | Dokument där radioknappen kommer att skapas. |
+| doc | Dokument | Dokument där radioknappen kommer att skapas. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [RadioButtonField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Document](../../../aspose.pdf/document/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

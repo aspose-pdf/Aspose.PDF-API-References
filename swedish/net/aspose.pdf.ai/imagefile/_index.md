@@ -1,14 +1,14 @@
 ---
-title: Class ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ImageFile klass. Representerar en bildfil i innehållet av ett meddelande
+title: "Klass ImageFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.ImageFile-klass. Representerar en bildfil i innehållet i ett meddelande."
 type: docs
-weight: 630
+weight: 680
 url: /sv/net/aspose.pdf.ai/imagefile/
 ---
-## ImageFile klass
+## ImageFile class
 
-Representerar en bildfil i innehållet av ett meddelande.
+Representerar en bildfil i innehållet i ett meddelande.
 
 ```csharp
 public class ImageFile
@@ -24,10 +24,12 @@ public class ImageFile
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Detail](../../aspose.pdf.ai/imagefile/detail/) { get; set; } | Hämtar eller ställer in detaljnivån för bilden om den anges av användaren. låg använder färre tokens, du kan välja hög upplösning med hög. |
-| [FileId](../../aspose.pdf.ai/imagefile/fileid/) { get; set; } | Hämtar eller ställer in fil-ID för bilden i meddelandeinnehållet. Ställ in purpose="vision" när du laddar upp filen om du senare behöver visa filinnehållet. |
+| [Detail](../../aspose.pdf.ai/imagefile/detail/) { get; set; } | Hämtar eller anger detaljnivån för bilden om den specificeras av användaren. low använder färre token, du kan välja hög upplösning genom att använda high. |
+| [FileId](../../aspose.pdf.ai/imagefile/fileid/) { get; set; } | Hämtar eller anger File‑ID för bilden i meddelandets innehåll. Ställ in purpose=\"vision\" när du laddar upp File om du senare behöver visa filens innehåll. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

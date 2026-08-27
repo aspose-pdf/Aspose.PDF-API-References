@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.RP
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Ruby-punktuation Punktuation som omger texten för ruby-annoteringen. Det används endast när en ruby-annotering inte kan formateras korrekt i en ruby-stil och istället formateras som en vanlig kommentar eller när den formateras som en warichu. Det innehåller text, vanligtvis en enda VÄNSTER eller HÖGER PARANTES eller liknande avgränsande tecken
+title: "StructureTypeStandard.RP"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard field. Ruby-interpunktion Interpunktion som omger ruby-annoteringstexten. Den används endast när en ruby-annotering inte kan formateras korrekt i ruby-stil och istället formateras som en vanlig kommentar eller när den formateras som en warichu. Den innehåller vanligtvis en enda VÄNSTER- eller HÖGER-PARANTES eller liknande parentesliknande tecken"
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/rp/
 ---
-## StructureTypeStandard.RP-fält
+## StructureTypeStandard.RP field
 
-(Ruby-punktuation) Punktuation som omger texten för ruby-annoteringen. Det används endast när en ruby-annotering inte kan formateras korrekt i en ruby-stil och istället formateras som en vanlig kommentar, eller när den formateras som en warichu. Det innehåller text (vanligtvis en enda VÄNSTER eller HÖGER PARANTES eller liknande avgränsande tecken).
+(Ruby punctuation) Interpunktion som omger ruby‑annoteringstexten. Den används endast när en ruby‑annotering inte kan formateras korrekt i ruby‑stil och i stället formateras som en vanlig kommentar, eller när den formateras som en warichu. Den innehåller text (vanligtvis ett enda VÄNSTER‑ eller HÖGER‑PARANTES eller liknande avgränsningstecken).
 
 ```csharp
 public static readonly StructureTypeStandard RP;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

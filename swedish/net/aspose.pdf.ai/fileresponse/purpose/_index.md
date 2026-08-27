@@ -1,21 +1,23 @@
 ---
-title: FileResponse.Purpose
-second_title: Aspose.PDF for .NET API Reference
-description: FileResponse-egenskap. Hämtar eller ställer in den avsedda användningen av filen. Stödda värden är assistants, assistants_output, batch, batch_output, fine-tune, fine-tune-results och vision
+title: "FileResponse.Purpose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileResponse egenskap. Hämtar eller anger det avsedda syftet med filen. Stödda värden är assistants assistants_output batch batch_output finetune finetuneresults och vision"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.ai/fileresponse/purpose/
 ---
-## FileResponse.Purpose-egenskap
+## FileResponse.Purpose property
 
-Hämtar eller ställer in den avsedda användningen av filen. Stödda värden är assistants, assistants_output, batch, batch_output, fine-tune, fine-tune-results och vision.
+Hämtar eller anger det avsedda syftet med filen. Stödda värden är assistants, assistants_output, batch, batch_output, fine-tune, fine-tune-results och vision.
 
 ```csharp
 public string Purpose { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [FileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor metod. Importerar de angivna anteckningarna till dokumentet från en array av andra PDF-dokument
+title: "PdfAnnotationEditor.ImportAnnotations"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAnnotationEditor-metod. Importerar de angivna annoteringarna till dokumentet från en array av andra PDF-dokument."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdfannotationeditor/importannotations/
 ---
 ## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
 
-Importerar de angivna anteckningarna till dokumentet från en array av andra PDF-dokument.
+Importerar de specificerade annotationerna till dokument från en array av andra PDF-dokument.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
@@ -16,8 +16,8 @@ public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotFile | String[] | Arrayen av sökvägar till PDF-dokument som innehåller källanteckningar. |
-| annotType | AnnotationType[] | Arrayen av anteckningstyper som ska importeras. |
+| annotFile | String[] | Arrayen med sökvägar till PDF-dokument som innehåller källannoteringar. |
+| annotType | AnnotationType[] | Arrayen av annotationstyper som ska importeras. |
 
 ## Exempel
 
@@ -30,7 +30,7 @@ editor.ImportAnnotations(paths, annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
@@ -41,7 +41,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(string[]) {#importannotations_2}
 
-Importerar anteckningar till dokumentet från en array av andra PDF-dokument.
+Importerar annotationer till dokument från en array av andra PDF-dokument.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile)
@@ -49,7 +49,7 @@ public void ImportAnnotations(string[] annotFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotFile | String[] | Arrayen av sökvägar till PDF-dokument som innehåller källanteckningar. |
+| annotFile | String[] | Arrayen med sökvägar till PDF-dokument som innehåller källannoteringar. |
 
 ## Exempel
 
@@ -61,7 +61,7 @@ editor.ImportAnnotations(paths);
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -71,7 +71,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
 
-Importerar de angivna anteckningarna till dokumentet från en array av andra PDF-dokumentströmmar.
+Importerar de specificerade annotationerna till dokument från en array av andra PDF-dokumentströmmar.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotType)
@@ -79,8 +79,8 @@ public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotTy
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotFileStream | Stream[] | Arrayen av strömmar av PDF-dokument som innehåller källanteckningar. |
-| annotType | AnnotationType[] | Anteckningstyperna som ska importeras. |
+| annotFileStream | Stream[] | Arrayen med strömmar av PDF-dokument som innehåller källannoteringar. |
+| annotType | AnnotationType[] | Annoteringstyperna som ska importeras. |
 
 ## Exempel
 
@@ -97,7 +97,7 @@ stream[0].Close();
 stream[1].Close();
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
@@ -108,7 +108,7 @@ stream[1].Close();
 
 ## ImportAnnotations(Stream[]) {#importannotations}
 
-Importerar anteckningar till dokumentet från en array av andra PDF-dokumentströmmar.
+Importerar Annotation till Document från en array av strömmar från ett annat PDF Document.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream)
@@ -116,7 +116,7 @@ public void ImportAnnotations(Stream[] annotFileStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotFileStream | Stream[] | Arrayen av strömmar av PDF-dokument som innehåller källanteckningar. |
+| annotFileStream | Stream[] | Arrayen med strömmar av PDF-dokument som innehåller källannoteringar. |
 
 ## Exempel
 
@@ -132,8 +132,10 @@ streams[0].Close();
 streams[1].Close();
 ```
 
-### Se Även
+### Se även
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

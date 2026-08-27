@@ -1,14 +1,14 @@
 ---
-title: PageDate.YearComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: YearComponent-metod. Hämtar formatsträngen för årskomponenten
+title: "PageDate.YearComponent.GetFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "YearComponent metod. Hämtar formatsträngen för årkomponenten"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pagedate.yearcomponent/getformat/
 ---
-## PageDate.YearComponent.GetFormat metod
+## PageDate.YearComponent.GetFormat method
 
-Hämtar formatsträngen för årskomponenten.
+Hämtar formatsträngen för årkomponenten.
 
 ```csharp
 public string GetFormat()
@@ -18,8 +18,10 @@ public string GetFormat()
 
 En sträng som representerar årformatet.
 
-### Se Även
+### Se även
 
-* klass [YearComponent](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [YearComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

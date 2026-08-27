@@ -1,25 +1,27 @@
 ---
-title: ExportFieldsOptions.ExportPasswordValue
-second_title: Aspose.PDF for .NET API Reference
-description: ExportFieldsOptions-egenskap. Hämtar eller ställer in ett värde som indikerar om lösenordsvärdet ska exporteras
+title: "ExportFieldsOptions.ExportPasswordValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExportFieldsOptions‑egenskap. Hämtar eller anger ett värde som indikerar om lösenordsvärdet ska exporteras"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/exportfieldsoptions/exportpasswordvalue/
 ---
-## ExportFieldsOptions.ExportPasswordValue-egenskap
+## ExportFieldsOptions.ExportPasswordValue property
 
-Hämtar eller ställer in ett värde som indikerar om lösenordsvärdet ska exporteras.
+Hämtar eller anger ett värde som indikerar om lösenordsvärdet ska exporteras.
 
 ```csharp
 public bool ExportPasswordValue { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-`true` om lösenordsvärdet ska exporteras; annars, `false`.
+`true` om lösenordsvärdet ska exporteras; annars `false`.
 
-### Se Även
+### Se även
 
-* klass [ExportFieldsOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ExportFieldsOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

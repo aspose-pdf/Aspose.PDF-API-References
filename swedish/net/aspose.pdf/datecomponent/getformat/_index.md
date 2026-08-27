@@ -1,14 +1,14 @@
 ---
-title: DateComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: DateComponent-metod. Returnerar en sträng bestående av ett angivet tecken som upprepas baserat på formatet
+title: "DateComponent.GetFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DateComponent-metoden. Returnerar en sträng bestående av ett angivet tecken upprepat enligt formatet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/datecomponent/getformat/
 ---
-## DateComponent.GetFormat metod
+## DateComponent.GetFormat method
 
-Returnerar en sträng bestående av ett angivet tecken som upprepas baserat på formatet.
+Returnerar en sträng bestående av ett specificerat tecken upprepat enligt formatet.
 
 ```csharp
 public string GetFormat(char ch)
@@ -20,10 +20,12 @@ public string GetFormat(char ch)
 
 ### Returvärde
 
-En sträng som består av tecknet upprepat.
+En sträng bestående av tecknet upprepat.
 
-### Se Även
+### Se även
 
-* klass [DateComponent](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DateComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

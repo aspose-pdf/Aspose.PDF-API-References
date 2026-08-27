@@ -1,21 +1,23 @@
 ---
-title: OutputIntent.Info
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntent-egenskap. Hämtar eller ställer in en människoläsbar text som innehåller ytterligare information eller kommentarer om den avsedda mål-enheten eller produktionsvillkoret
+title: "OutputIntent.Info"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutputIntent‑egenskap. Hämtar eller anger en mänskligt läsbar text som innehåller ytterligare information eller kommentarer om den avsedda mål‑enheten eller produktionsvillkoret."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/outputintent/info/
 ---
-## OutputIntent.Info-egenskap
+## OutputIntent.Info property
 
-Hämtar eller ställer in en människoläsbar text som innehåller ytterligare information eller kommentarer om den avsedda mål-enheten eller produktionsvillkoret.
+Hämtar eller anger en människoläsbar text som innehåller ytterligare information eller kommentarer om den avsedda mål-enheten eller produktionsförhållandet.
 
 ```csharp
 public string Info { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutputIntent](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OutputIntent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

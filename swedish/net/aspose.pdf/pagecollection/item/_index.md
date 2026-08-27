@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection-egenskap. Hämtar sida efter index
+title: "PageCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageCollection-egenskap. Hämtar sida efter index"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/pagecollection/item/
@@ -16,15 +16,17 @@ public Page this[int index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Index för sidan. |
+| index | Sidans index. |
 
 ### Returvärde
 
 Hämtad sida.
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [PageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

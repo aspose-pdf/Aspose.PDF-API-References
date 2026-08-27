@@ -1,21 +1,23 @@
 ---
-title: Form.FlattenSettings.CallEvents
-second_title: Aspose.PDF for .NET API Reference
-description: FlattenSettings-egenskap. Om den är inställd kommer formatering och andra JavaScript-händelser att anropas. Sant som standard
+title: "Form.FlattenSettings.CallEvents"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FlattenSettings-egenskap. Om den är satt kommer formatering och andra JavaScript‑händelser att anropas. Sant som standard."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/form.flattensettings/callevents/
 ---
-## Form.FlattenSettings.CallEvents-egenskap
+## Form.FlattenSettings.CallEvents property
 
-Om den är inställd kommer formatering och andra JavaScript-händelser att anropas. Sant som standard.
+Om satt, kommer formatering och andra JavaScript‑händelser att anropas. True som standard.
 
 ```csharp
 public bool CallEvents { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FlattenSettings](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [FlattenSettings](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

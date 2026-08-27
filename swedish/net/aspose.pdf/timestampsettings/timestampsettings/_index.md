@@ -1,12 +1,12 @@
 ---
-title: TimestampSettings.TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: TimestampSettings-konstruktorn. Initierar en ny instans av TimestampSettings-klassen
+title: "TimestampSettings.TimestampSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TimestampSettings konstruktor. Initierar en ny instans av TimestampSettings‑klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/timestampsettings/timestampsettings/
 ---
-## TimestampSettings-konstruktorn
+## TimestampSettings constructor
 
 Initierar en ny instans av [`TimestampSettings`](../) klassen.
 
@@ -17,13 +17,15 @@ public TimestampSettings(string serverUrl, string basicAuthCredentials,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| serverUrl | Sträng | Timestamp-serverns URL. |
-| basicAuthCredentials | Sträng | De grundläggande autentiseringsuppgifterna, användarnamn och lösenord kombineras till en sträng "användarnamn:lösenord". |
-| digestHashAlgorithm | DigestHashAlgorithm | Namnet på hash-algoritmen, om den utelämnas används sha1. Standardvärdet är `SHA256`. |
+| serverUrl | String | URL för tidsstämpelservern. |
+| basicAuthCredentials | String | De grundläggande autentiseringsuppgifterna, username och password kombineras till en sträng "username:password". |
+| digestHashAlgorithm | DigestHashAlgorithm | Hashalgoritmens namn, om det utelämnas används sha1. Standardvärdet är `SHA256`. |
 
-### Se Även
+### Se även
 
 * enum [DigestHashAlgorithm](../../digesthashalgorithm/)
 * class [TimestampSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

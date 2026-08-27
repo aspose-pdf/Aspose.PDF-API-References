@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary-egenskap. Hämtar ett värde som indikerar om åtkomst till ordboken är synkroniserad trådsäker
+title: "AppearanceDictionary.IsSynchronized"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AppearanceDictionary-egenskap. Hämtar ett värde som indikerar om åtkomst till ordboken är synkroniserad och trådsäker."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/appearancedictionary/issynchronized/
 ---
-## AppearanceDictionary.IsSynchronized-egenskap
+## AppearanceDictionary.IsSynchronized property
 
 Hämtar ett värde som indikerar om åtkomst till ordboken är synkroniserad (trådsäker).
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om åtkomst till ordboken är synkroniserad (tr
 public bool IsSynchronized { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

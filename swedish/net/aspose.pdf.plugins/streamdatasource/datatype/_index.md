@@ -1,12 +1,12 @@
 ---
-title: StreamDataSource.DataType
-second_title: Aspose.PDF for .NET API Reference
-description: StreamDataSource-egenskap. Typ av datakälla ström
+title: "StreamDataSource.DataType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StreamDataSource-egenskap. Typ av datakälleström"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.plugins/streamdatasource/datatype/
 ---
-## StreamDataSource.DataType-egenskap
+## StreamDataSource.DataType property
 
 Typ av datakälla (ström).
 
@@ -14,9 +14,11 @@ Typ av datakälla (ström).
 public DataType DataType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [DataType](../../datatype/)
 * class [StreamDataSource](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

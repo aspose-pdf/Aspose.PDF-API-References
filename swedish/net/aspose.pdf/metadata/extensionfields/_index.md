@@ -1,12 +1,12 @@
 ---
-title: Metadata.ExtensionFields
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-egenskap. Hämtar ordboken med tilläggsfält
+title: "Metadata.ExtensionFields"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata-egenskap. Hämtar ordboken med tilläggsfält"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/metadata/extensionfields/
 ---
-## Metadata.ExtensionFields-egenskap
+## Metadata.ExtensionFields property
 
 Hämtar ordboken med tilläggsfält.
 
@@ -14,9 +14,11 @@ Hämtar ordboken med tilläggsfält.
 public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
-* klass [Metadata](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

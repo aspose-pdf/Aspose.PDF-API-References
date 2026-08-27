@@ -1,7 +1,7 @@
 ---
-title: Watermark.Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Watermark-konstruktör. Initierar ett vattenstämpelobjekt med en bild och dess position på en sida
+title: "Watermark.Watermark"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Watermark-konstruktor. Initierar ett vattenstämpelobjekt med en bild och dess position på en sida"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/watermark/watermark/
@@ -16,14 +16,14 @@ public Watermark(Image image, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Bild | Bild av vattenstämpeln. |
-| rect | Rectangle | Position av vattenstämpeln på sidan. |
+| bild | Bild | Bild av vattenstämpeln. |
+| rect | Rectangle | Positionen för vattenstämpeln på sidan. |
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../rectangle/)
-* klass [Watermark](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../../rectangle/)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -38,10 +38,12 @@ public Watermark(Image image)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Bild | Bild av vattenstämpeln. |
+| bild | Bild | Bild av vattenstämpeln. |
 
-### Se Även
+### Se även
 
-* klass [Watermark](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

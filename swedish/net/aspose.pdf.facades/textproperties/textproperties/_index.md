@@ -1,12 +1,12 @@
 ---
-title: TextProperties.TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: TextProperties-konstruktör. Skapar TextProperties-objekt för den angivna textstorleken
+title: "TextProperties.TextProperties"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextProperties-konstruktor. Skapar ett TextProperties-objekt för den angivna textstorleken."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/textproperties/textproperties/
 ---
-## TextProperties-konstruktör
+## TextProperties constructor
 
 Skapar [`TextProperties`](../) objekt för den angivna textstorleken
 
@@ -16,10 +16,12 @@ public TextProperties(double textSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| textSize | Double | Textstorleksvärde. |
+| textSize | Double | Värde för textstorlek. |
 
-### Se Även
+### Se även
 
-* klass [TextProperties](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.DeleteAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor metod. Tar bort alla anteckningar i dokumentet
+title: "PdfAnnotationEditor.DeleteAnnotations"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAnnotationEditor metod. Raderar alla annotationer i dokumentet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/pdfannotationeditor/deleteannotations/
 ---
 ## DeleteAnnotations() {#deleteannotations}
 
-Tar bort alla anteckningar i dokumentet.
+Tar bort alla Annotation i Document.
 
 ```csharp
 public void DeleteAnnotations()
@@ -23,17 +23,17 @@ editor.DeleteAnnotations();
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAnnotationEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DeleteAnnotations(string) {#deleteannotations_1}
 
-Tar bort alla anteckningar av den angivna typen i dokumentet.
+Tar bort alla Annotation av den angivna typen i Document.
 
 ```csharp
 public void DeleteAnnotations(string annotType)
@@ -41,7 +41,7 @@ public void DeleteAnnotations(string annotType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotType | Sträng | Typen av anteckning som kommer att tas bort. |
+| annotType | String | Typen av annotation som ska raderas. |
 
 ## Exempel
 
@@ -52,8 +52,10 @@ editor.DeleteAnnotations("Text");
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAnnotationEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

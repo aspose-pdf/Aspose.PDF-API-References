@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.Height
-second_title: Aspose.PDF for .NET API Reference
-description: BitmapInfo-egenskap. Hämtar höjden på bitmapen
+title: "BitmapInfo.Height"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BitmapInfo-egenskap. Hämtar höjden på bitmapen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/bitmapinfo/height/
 ---
-## BitmapInfo.Height-egenskap
+## BitmapInfo.Height property
 
 Hämtar höjden på bitmapen.
 
@@ -14,8 +14,10 @@ Hämtar höjden på bitmapen.
 public int Height { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BitmapInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BitmapInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

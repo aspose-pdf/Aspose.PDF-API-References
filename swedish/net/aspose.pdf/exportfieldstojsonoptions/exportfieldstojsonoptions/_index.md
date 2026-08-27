@@ -1,12 +1,12 @@
 ---
-title: ExportFieldsToJsonOptions.ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ExportFieldsToJsonOptions-konstruktorn. Standardkonstruktorn
+title: "ExportFieldsToJsonOptions.ExportFieldsToJsonOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExportFieldsToJsonOptions konstruktor. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/exportfieldstojsonoptions/exportfieldstojsonoptions/
 ---
-## ExportFieldsToJsonOptions-konstruktorn
+## ExportFieldsToJsonOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ExportFieldsToJsonOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [ExportFieldsToJsonOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ExportFieldsToJsonOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

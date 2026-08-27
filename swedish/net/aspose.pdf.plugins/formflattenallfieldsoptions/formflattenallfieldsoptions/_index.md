@@ -1,12 +1,12 @@
 ---
-title: FormFlattenAllFieldsOptions.FormFlattenAllFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormFlattenAllFieldsOptions-konstruktorn. Standardkonstruktorn
+title: "FormFlattenAllFieldsOptions.FormFlattenAllFieldsOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFlattenAllFieldsOptions konstruktor. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/formflattenallfieldsoptions/formflattenallfieldsoptions/
 ---
-## FormFlattenAllFieldsOptions-konstruktorn
+## FormFlattenAllFieldsOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public FormFlattenAllFieldsOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFlattenAllFieldsOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormFlattenAllFieldsOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

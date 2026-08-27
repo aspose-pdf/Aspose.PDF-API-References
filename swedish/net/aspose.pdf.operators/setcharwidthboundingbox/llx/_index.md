@@ -1,21 +1,23 @@
 ---
-title: SetCharWidthBoundingBox.Llx
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidthBoundingBox egenskap. Nedre vänstra horisontella koordinat för avgränsningsrektangel
+title: "SetCharWidthBoundingBox.Llx"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCharWidthBoundingBox egenskap. Nedre vänstra horisontella koordinaten för den omgivande rektangeln."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/setcharwidthboundingbox/llx/
 ---
-## SetCharWidthBoundingBox.Llx egenskap
+## SetCharWidthBoundingBox.Llx property
 
-Nedre vänstra horisontella koordinat för avgränsningsrektangel.
+Nedre vänstra horisontella koordinaten för den omgivande rektangeln.
 
 ```csharp
 public double Llx { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetCharWidthBoundingBox](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetTextMatrix.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextMatrix-metoden. Returnerar textrepresentation av operator
+title: "SetTextMatrix.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetTextMatrix-metod. Returnerar textrepresentation av operatorn"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.operators/settextmatrix/tostring/
 ---
-## SetTextMatrix.ToString metod
+## SetTextMatrix.ToString method
 
-Returnerar textrepresentation av operator.
+Returnerar textrepresentation av operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av operator.
+Textrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [SetTextMatrix](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

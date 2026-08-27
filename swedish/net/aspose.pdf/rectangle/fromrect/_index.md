@@ -1,14 +1,14 @@
 ---
-title: Rectangle.FromRect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-metod. Initierar en ny rektangel från given instans av System.Drawing.Rectangle
+title: "Rectangle.FromRect"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-metoden. Initierar en ny rektangel från given instans av System.Drawing.Rectangle"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/rectangle/fromrect/
 ---
 ## FromRect(Rectangle) {#fromrect}
 
-Initierar en ny rektangel från given instans av System.Drawing.Rectangle.
+Initierar ny rektangel från given instans av System.Drawing.Rectangle.
 
 ```csharp
 public static Rectangle FromRect(Rectangle src)
@@ -22,17 +22,17 @@ public static Rectangle FromRect(Rectangle src)
 
 Ny rektangel.
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FromRect(RectangleF) {#fromrect_1}
 
-Initierar en ny rektangel från given instans av System.Drawing.Rectangle.
+Initierar ny rektangel från given instans av System.Drawing.Rectangle.
 
 ```csharp
 public static Rectangle FromRect(RectangleF src)
@@ -46,8 +46,10 @@ public static Rectangle FromRect(RectangleF src)
 
 Ny rektangel.
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

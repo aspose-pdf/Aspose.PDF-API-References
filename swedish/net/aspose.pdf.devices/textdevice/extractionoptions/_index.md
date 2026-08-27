@@ -1,14 +1,14 @@
 ---
-title: TextDevice.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextDevice-egenskap. Hämtar eller ställer in alternativ för textutvinning
+title: "TextDevice.ExtractionOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextDevice-egenskap. Hämtar eller anger alternativ för textutdragning"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.devices/textdevice/extractionoptions/
 ---
-## TextDevice.ExtractionOptions-egenskap
+## TextDevice.ExtractionOptions property
 
-Hämtar eller ställer in alternativ för textutvinning.
+Hämtar eller anger alternativ för textutdragning.
 
 ```csharp
 public TextExtractionOptions ExtractionOptions { get; set; }
@@ -22,19 +22,21 @@ Exemplet visar hur man extraherar text i rå ordning.
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// skapa textenhet
 TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
 
-// convert the page and save text to the stream
+// konvertera sidan och spara texten till strömmen
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// använd den extraherade texten
 extractedText = File.ReadAllText(outFile, Encoding.Unicode); 
 ```
 
-### Se Även
+### Se även
 
-* klass [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* klass [TextDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

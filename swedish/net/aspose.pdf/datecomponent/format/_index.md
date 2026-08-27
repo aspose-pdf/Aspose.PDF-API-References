@@ -1,21 +1,23 @@
 ---
-title: DateComponent.Format
-second_title: Aspose.PDF for .NET API Reference
-description: DateComponent-egenskap. Hämtar eller ställer in formatet för datumkomponenten
+title: "DateComponent.Format"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DateComponent-egenskap. Hämtar eller anger formatet för datumkomponenten"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/datecomponent/format/
 ---
-## DateComponent.Format-egenskap
+## DateComponent.Format property
 
-Hämtar eller ställer in formatet för datumkomponenten.
+Hämtar eller anger formatet för datumkomponenten.
 
 ```csharp
 public int Format { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DateComponent](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DateComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

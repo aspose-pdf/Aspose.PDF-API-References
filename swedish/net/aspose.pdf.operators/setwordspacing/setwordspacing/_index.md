@@ -1,14 +1,14 @@
 ---
-title: SetWordSpacing.SetWordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: SetWordSpacing constructor. Initializes operator
+title: "SetWordSpacing.SetWordSpacing"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetWordSpacing konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/setwordspacing/setwordspacing/
 ---
-## SetWordSpacing-konstruktorn
+## SetWordSpacing constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public SetWordSpacing(double wordSpacing)
@@ -16,10 +16,12 @@ public SetWordSpacing(double wordSpacing)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| wordSpacing | Double | Avstånd mellan ord. |
+| wordSpacing | Double | Mellanslag mellan ord. |
 
-### Se Även
+### Se även
 
-* klass [SetWordSpacing](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SetWordSpacing](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

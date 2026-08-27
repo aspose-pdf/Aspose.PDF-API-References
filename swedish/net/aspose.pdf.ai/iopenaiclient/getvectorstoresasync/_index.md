@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetVectorStoresAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Hämtar en lista över vektorbutiker asynkront
+title: "IOpenAIClient.GetVectorStoresAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Hämtar en lista över vektorlager asynkront"
 type: docs
 weight: 350
 url: /sv/net/aspose.pdf.ai/iopenaiclient/getvectorstoresasync/
 ---
-## IOpenAIClient.GetVectorStoresAsync metod
+## IOpenAIClient.GetVectorStoresAsync method
 
-Hämtar en lista över vektorbutiker asynkront.
+Hämtar en lista med vektorlager asynkront.
 
 ```csharp
 public Task<VectorStoreListResponse> GetVectorStoresAsync(
@@ -18,17 +18,19 @@ public Task<VectorStoreListResponse> GetVectorStoresAsync(
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| queryParameters | VectorStoreListQueryParameters | Valfria frågeparametrar för att filtrera listan över vektorbutiker. |
+| queryParameters | VectorStoreListQueryParameters | Valfria frågeparametrar för att filtrera listan över vektorlager. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller en lista över vektorbutiker.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller en lista över vektorlager.
 
-### Se Även
+### Se även
 
-* klass [VectorStoreListResponse](../../vectorstorelistresponse/)
-* klass [VectorStoreListQueryParameters](../../vectorstorelistqueryparameters/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [VectorStoreListResponse](../../vectorstorelistresponse/)
+* class [VectorStoreListQueryParameters](../../vectorstorelistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

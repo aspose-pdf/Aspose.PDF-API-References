@@ -1,12 +1,12 @@
 ---
-title: Document.IsEncrypted
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar krypteringsstatus för dokumentet. Sant om dokumentet är krypterat
+title: "Document.IsEncrypted"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document egenskap. Hämtar krypteringsstatus för dokumentet. Sant om dokumentet är krypterat."
 type: docs
-weight: 290
+weight: 310
 url: /sv/net/aspose.pdf/document/isencrypted/
 ---
-## Document.IsEncrypted egenskap
+## Document.IsEncrypted property
 
 Hämtar krypteringsstatus för dokumentet. Sant om dokumentet är krypterat.
 
@@ -14,8 +14,10 @@ Hämtar krypteringsstatus för dokumentet. Sant om dokumentet är krypterat.
 public bool IsEncrypted { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

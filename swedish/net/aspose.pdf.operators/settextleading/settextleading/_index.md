@@ -1,14 +1,14 @@
 ---
-title: SetTextLeading.SetTextLeading
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextLeading-konstruktorn. Initierar textledande operator
+title: "SetTextLeading.SetTextLeading"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetTextLeading konstruktor. Initierar textupphöjningsoperator"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/settextleading/settextleading/
 ---
-## SetTextLeading-konstruktorn
+## SetTextLeading constructor
 
-Initierar textledande operator.
+Initierar textraderingsoperatorn.
 
 ```csharp
 public SetTextLeading(double leading)
@@ -16,10 +16,12 @@ public SetTextLeading(double leading)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| leading | Double | Textledande. |
+| leading | Double | Textupphöjning. |
 
-### Se Även
+### Se även
 
-* klass [SetTextLeading](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SetTextLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextExtractionOptions.FormattingMode
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionOptions-egenskap. Hämtar formateringsläge
+title: "TextExtractionOptions.FormattingMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextExtractionOptions-egenskap. Hämtar formateringsläge"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/textextractionoptions/formattingmode/
 ---
-## TextExtractionOptions.FormattingMode-egenskap
+## TextExtractionOptions.FormattingMode property
 
 Hämtar formateringsläge.
 
@@ -14,9 +14,11 @@ Hämtar formateringsläge.
 public TextFormattingMode FormattingMode { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [TextFormattingMode](../../textextractionoptions.textformattingmode/)
 * class [TextExtractionOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

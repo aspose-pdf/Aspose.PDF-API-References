@@ -1,26 +1,28 @@
 ---
-title: PDF3DAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation-egenskap. Hämtar typ av anteckning
+title: "PDF3DAnnotation.AnnotationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DAnnotation-egenskap. Hämtar typ av annotation"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/pdf3dannotation/annotationtype/
 ---
-## PDF3DAnnotation.AnnotationType-egenskap
+## PDF3DAnnotation.AnnotationType property
 
-Hämtar typ av anteckning.
+Hämtar typ av annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Typen av anteckningen.
+Typen av annotationen.
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../annotationtype/)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

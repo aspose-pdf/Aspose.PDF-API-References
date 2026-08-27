@@ -1,22 +1,24 @@
 ---
-title: XForm.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: XForm-egenskap. Hämtar eller ställer in rektangeln för formuläret
+title: "XForm.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XForm-egenskap. Hämtar eller anger rektangel för formen"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/xform/rectangle/
 ---
-## XForm.Rectangle-egenskap
+## XForm.Rectangle property
 
-Hämtar eller ställer in rektangeln för formuläret.
+Hämtar eller anger rektangel för formen.
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../rectangle/)
-* klass [XForm](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox-metod. Klonar ett nytt FloatingBox-objekt. Stycken i den flytande rutan klonas inte
+title: "FloatingBox.Clone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FloatingBox-metoden. Klonar ett nytt FloatingBox-objekt. Stycken i den flytande rutan klonas inte"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/floatingbox/clone/
 ---
-## FloatingBox.Clone metod
+## FloatingBox.Clone method
 
-Klonar ett nytt [`FloatingBox`](../) objekt. Stycken i den flytande rutan klonas inte.
+Klonar ett nytt [`FloatingBox`](../)-objekt. Stycken i den flytande rutan klonas inte.
 
 ```csharp
 public override object Clone()
@@ -16,10 +16,12 @@ public override object Clone()
 
 ### Returvärde
 
-Det nya [`FloatingBox`](../) objektet.
+Det nya [`FloatingBox`](../)-objektet.
 
-### Se Även
+### Se även
 
-* klass [FloatingBox](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

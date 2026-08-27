@@ -1,12 +1,12 @@
 ---
-title: Annotation.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-egenskap. Hämtar lista över annoteringsåtgärder
+title: "Annotation.Actions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation-egenskap. Hämtar lista över annoteringsåtgärder"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/annotation/actions/
 ---
-## Annotation.Actions-egenskap
+## Annotation.Actions property
 
 Hämtar lista över annoteringsåtgärder.
 
@@ -14,9 +14,11 @@ Hämtar lista över annoteringsåtgärder.
 public PdfActionCollection Actions { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfActionCollection](../../pdfactioncollection/)
-* klass [Annotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PdfActionCollection](../../pdfactioncollection/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

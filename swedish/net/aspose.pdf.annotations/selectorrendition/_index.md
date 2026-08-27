@@ -1,14 +1,14 @@
 ---
-title: Class SelectorRendition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SelectorRendition klass. Klassen beskriver selector rendition
+title: "Klass SelectorRendition"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.SelectorRendition-klass. Klassen beskriver selector rendition"
 type: docs
-weight: 2520
+weight: 2620
 url: /sv/net/aspose.pdf.annotations/selectorrendition/
 ---
-## SelectorRendition klass
+## SelectorRendition class
 
-Klassen beskriver selector rendition.
+Klass beskriver selector-rendition.
 
 ```csharp
 public sealed class SelectorRendition : Rendition
@@ -18,12 +18,14 @@ public sealed class SelectorRendition : Rendition
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Textsträng som specificerar namnet på rendition för användning i ett användargränssnitt och för namntreeträffar av JavaScript-åtgärder. |
-| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | Hämtar array av renditioner. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Hämtar renditiontyp. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Textsträng som specificerar namnet på renditionen för användning i ett användargränssnitt och för namnträdssökning via JavaScript‑åtgärder. |
+| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | Hämtar en array av renditioner. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Hämtar renditionstyp. |
 
-### Se Även
+### Se även
 
-* klass [Rendition](../rendition/)
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [Rendition](../rendition/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Image.File
-second_title: Aspose.PDF for .NET API Reference
-description: Bildegenskap. Hämtar eller ställer in bildfilen
+title: "Image.File"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Image-egenskap. Hämtar eller anger bildfilen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/image/file/
 ---
-## Image.File-egenskap
+## Image.File property
 
-Hämtar eller ställer in bildfilen.
+Hämtar eller anger bildfilen.
 
 ```csharp
 public string File { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Image](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

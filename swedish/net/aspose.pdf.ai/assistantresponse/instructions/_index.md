@@ -1,21 +1,23 @@
 ---
-title: AssistantResponse.Instructions
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantResponse-egenskap. Hämtar eller ställer in systeminstruktionerna som assistenten använder. Den maximala längden är 256000 tecken
+title: "AssistantResponse.Instructions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AssistantResponse‑egenskap. Hämtar eller anger systeminstruktionerna som assistenten använder. Maxlängden är 256 000 tecken."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/assistantresponse/instructions/
 ---
-## AssistantResponse.Instructions-egenskap
+## AssistantResponse.Instructions property
 
-Hämtar eller ställer in systeminstruktionerna som assistenten använder. Den maximala längden är 256 000 tecken.
+Hämtar eller anger systeminstruktionerna som assistenten använder. Maxlängden är 256 000 tecken.
 
 ```csharp
 public string Instructions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AssistantResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [AssistantResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

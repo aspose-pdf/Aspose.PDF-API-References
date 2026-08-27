@@ -1,21 +1,23 @@
 ---
-title: AttributeOwnerStandard.PrintField
-second_title: Aspose.PDF for .NET API Reference
-description: Attributet AttributeOwnerStandard. PrintField attributägare
+title: "AttributeOwnerStandard.PrintField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeOwnerStandard-fält. PrintField-attributägare"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.logicalstructure/attributeownerstandard/printfield/
 ---
-## Attributet AttributeOwnerStandard.PrintField
+## AttributeOwnerStandard.PrintField field
 
-PrintField attributägare.
+PrintField-attributägare.
 
 ```csharp
 public static readonly AttributeOwnerStandard PrintField;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

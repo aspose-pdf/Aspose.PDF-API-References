@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType metod. Rensar alla fält
+title: "XmpPdfAExtensionValueType.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionValueType metod. Rensar alla fält"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/xmppdfaextensionvaluetype/clear/
 ---
-## XmpPdfAExtensionValueType.Clear metod
+## XmpPdfAExtensionValueType.Clear method
 
 Rensar alla fält.
 
@@ -14,8 +14,10 @@ Rensar alla fält.
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionValueType](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

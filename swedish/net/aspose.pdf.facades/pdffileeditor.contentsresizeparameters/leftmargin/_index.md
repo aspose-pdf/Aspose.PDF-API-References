@@ -1,22 +1,24 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.LeftMargin
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters-egenskap. Hämtar eller ställer in vänster marginal på den resulterande sidan
+title: "PdfFileEditor.ContentsResizeParameters.LeftMargin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ContentsResizeParameters egenskap. Hämtar eller anger vänstermarginal på den resulterande sidan"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/leftmargin/
 ---
-## PdfFileEditor.ContentsResizeParameters.LeftMargin-egenskap
+## PdfFileEditor.ContentsResizeParameters.LeftMargin property
 
-Hämtar eller ställer in vänster marginal på den resulterande sidan.
+Hämtar eller anger vänstermarginal på den resulterande sidan.
 
 ```csharp
 public ContentsResizeValue LeftMargin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
-* klass [ContentsResizeParameters](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

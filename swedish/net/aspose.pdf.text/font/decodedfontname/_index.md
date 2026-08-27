@@ -1,21 +1,23 @@
 ---
-title: Font.DecodedFontName
-second_title: Aspose.PDF for .NET API Reference
-description: Teckensnittsegenskap. Ibland kan PDF-teckensnitt ha specifika teckensnittsnamn. Detta namn är värdet av PDF-teckensnittsegenskapen "BaseFont" och ibland kan denna egenskap representeras i hexadecimalt format. Om man läser detta namn direkt kan det representeras i oläsligt format. För att få läsbart format är det nödvändigt att avkoda teckensnittets namn enligt regler specifika för detta teckensnitt. Denna egenskap returnerar det avkodade teckensnittsnamnet, så använd det i fall när du stöter på ett oläsligt [`FontName`](../fontname/). Om egenskapen [`FontName`](../fontname/) har läsbart format kommer denna egenskap att vara densamma som [`FontName`](../fontname/), så du kan använda denna egenskap i alla fall när du behöver få teckensnittsnamnet i ett läsbart format.
+title: "Font.DecodedFontName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Font egenskap. Ibland kan PDF-teckensnitt, vanligtvis kinesiska/japanska/koreanska teckensnitt, ha ett specifikt teckensnittsnamn. Detta namn är värdet för PDF-teckensnittsegenskapen BaseFont och ibland kan denna egenskap representeras i hexadecimal form. Om man läser detta namn direkt kan det visas i oläslig form. För att få en läsbar form är det nödvändigt att avkoda teckensnittets namn enligt regler som är specifika för detta teckensnitt. Denna egenskap returnerar avkodade teckensnittsnamnet, så använd den i fall där du stöter på ett oläsligt FontName. Om egenskapen FontName har en läsbar form kommer denna egenskap att vara densamma som FontName, så du kan använda den för alla fall där du behöver få teckensnittsnamnet i en läsbar form."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/font/decodedfontname/
 ---
-## Font.DecodedFontName-egenskap
+## Font.DecodedFontName property
 
-Ibland kan PDF-teckensnitt (vanligtvis kinesiska/japanska/koreanska teckensnitt) ha specifika teckensnittsnamn. Detta namn är värdet av PDF-teckensnittsegenskapen "BaseFont" och ibland kan denna egenskap representeras i hexadecimalt format. Om man läser detta namn direkt kan det representeras i oläsligt format. För att få läsbart format är det nödvändigt att avkoda teckensnittets namn enligt regler specifika för detta teckensnitt. Denna egenskap returnerar det avkodade teckensnittsnamnet, så använd det i fall när du stöter på ett oläsligt [`FontName`](../fontname/). Om egenskapen [`FontName`](../fontname/) har läsbart format kommer denna egenskap att vara densamma som [`FontName`](../fontname/), så du kan använda denna egenskap i alla fall när du behöver få teckensnittsnamnet i ett läsbart format.
+Ibland kan PDF-teckensnitt (vanligtvis kinesiska/japanska/koreanska teckensnitt) ha ett specifikt teckensnittsnamn. Detta namn är värdet för PDF-teckensnittsegenskapen "BaseFont" och ibland kan denna egenskap representeras i hexadecimal form. Om man läser detta namn direkt kan det visas i oläslig form. För att få en läsbar form är det nödvändigt att avkoda teckensnittets namn enligt regler som är specifika för detta teckensnitt. Denna egenskap returnerar avkodade teckensnittsnamnet, så använd den i fall där du stöter på ett oläsligt [`FontName`](../fontname/). Om egenskapen [`FontName`](../fontname/) har en läsbar form kommer denna egenskap att vara densamma som [`FontName`](../fontname/), så du kan använda den för alla fall där du behöver få teckensnittsnamnet i en läsbar form.
 
 ```csharp
 public string DecodedFontName { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Font](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

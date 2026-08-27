@@ -1,7 +1,7 @@
 ---
-title: ImagePlacementAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementAbsorber metod. Utför sökning på den angivna sidan
+title: "ImagePlacementAbsorber.Visit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacementAbsorber-metoden. Utför sökning på den angivna sidan"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/imageplacementabsorber/visit/
@@ -14,34 +14,36 @@ Utför sökning på den angivna sidan.
 public void Visit(Page page)
 ```
 
-| Parameter | Type | Beskrivning |
+| Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Pdf dokument sidobjekt. |
+| sida | Page | Pdf‑dokument sidobjekt. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [ImagePlacementAbsorber](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Document) {#visit}
 
-Utför sökning på det angivna dokumentet.
+Utför sökning i det angivna dokumentet.
 
 ```csharp
 public void Visit(Document pdf)
 ```
 
-| Parameter | Type | Beskrivning |
+| Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pdf | Document | Pdf dokumentobjekt. |
+| pdf | Dokument | Pdf-dokumentobjekt. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../document/)
-* klass [ImagePlacementAbsorber](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

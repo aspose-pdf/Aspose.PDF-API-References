@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.PdfBookmarkEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor-konstruktör. Initierar ett nytt PdfBookmarkEditor-objekt
+title: "PdfBookmarkEditor.PdfBookmarkEditor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfBookmarkEditor konstruktor. Initierar ett nytt PdfBookmarkEditor-objekt"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/
@@ -14,17 +14,17 @@ Initierar ett nytt [`PdfBookmarkEditor`](../) objekt.
 public PdfBookmarkEditor()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfBookmarkEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfBookmarkEditor(Document) {#constructor_1}
 
-Initierar ett nytt [`PdfBookmarkEditor`](../) objekt baserat på *dokumentet*.
+Initierar ett nytt [`PdfBookmarkEditor`](../) objekt baserat på *document*.
 
 ```csharp
 public PdfBookmarkEditor(Document document)
@@ -32,11 +32,13 @@ public PdfBookmarkEditor(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dokument | Dokument | Pdf-dokument. |
+| dokument | Dokument | Pdf‑dokument. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfBookmarkEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

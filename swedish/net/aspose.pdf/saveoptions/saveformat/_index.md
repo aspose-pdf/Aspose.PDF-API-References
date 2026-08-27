@@ -1,22 +1,24 @@
 ---
-title: SaveOptions.SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: SaveOptions egenskap. Format för datalagring
+title: "SaveOptions.SaveFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SaveOptions egenskap. Format för datalagring"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/saveoptions/saveformat/
 ---
-## SaveOptions.SaveFormat egenskap
+## SaveOptions.SaveFormat property
 
-Format för datalagring.
+Format för datasparning.
 
 ```csharp
 public SaveFormat SaveFormat { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [SaveFormat](../../saveformat/)
 * class [SaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

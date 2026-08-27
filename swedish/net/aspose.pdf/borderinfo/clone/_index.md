@@ -1,12 +1,12 @@
 ---
-title: BorderInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo-metod. Klonar ett nytt BorderInfo-objekt
+title: "**BorderInfo.Clone**"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "**BorderInfo** metod. Klonar ett nytt **BorderInfo**-objekt."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/borderinfo/clone/
 ---
-## BorderInfo.Clone metod
+## BorderInfo.Clone method
 
 Klonar ett nytt BorderInfo-objekt.
 
@@ -18,8 +18,10 @@ public object Clone()
 
 Det nya BorderInfo-objektet.
 
-### Se Även
+### Se även
 
-* klass [BorderInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

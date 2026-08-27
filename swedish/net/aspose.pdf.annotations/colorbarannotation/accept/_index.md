@@ -1,14 +1,14 @@
 ---
-title: ColorBarAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: ColorBarAnnotation-metod. Accepterar besökarobjekt för att bearbeta annoteringen
+title: "ColorBarAnnotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ColorBarAnnotation-metoden. Accepterar besöksobjekt för att bearbeta annoteringen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/colorbarannotation/accept/
 ---
-## ColorBarAnnotation.Accept metod
+## ColorBarAnnotation.Accept method
 
-Accepterar besökarobjekt för att bearbeta annoteringen.
+Accepterar besökarobjekt för att bearbeta anteckningen.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Besökarobjekt. |
+| besökare | AnnotationSelector | Besökarobjekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [ColorBarAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AnnotationSelector](../../annotationselector/)
+* class [ColorBarAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

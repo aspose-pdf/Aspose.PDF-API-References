@@ -1,12 +1,12 @@
 ---
-title: PaperSources.Cassette
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources-fält. Representerar papperskassetten i skrivaren
+title: "PaperSources.Cassette"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSources fält. Representerar papperskassetten för skrivaren"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.printing/papersources/cassette/
 ---
-## PaperSources.Cassette-fält
+## PaperSources.Cassette field
 
 Representerar papperskassetten i skrivaren.
 
@@ -14,9 +14,11 @@ Representerar papperskassetten i skrivaren.
 public static readonly PaperSource Cassette;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSource](../../papersource/)
-* klass [PaperSources](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

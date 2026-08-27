@@ -1,12 +1,12 @@
 ---
-title: TxtLoadOptions.TxtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TxtLoadOptions constructor. The default constructor
+title: "TxtLoadOptions.TxtLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TxtLoadOptions-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/txtloadoptions/txtloadoptions/
 ---
-## TxtLoadOptions-konstruktorn
+## TxtLoadOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public TxtLoadOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [TxtLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TxtLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

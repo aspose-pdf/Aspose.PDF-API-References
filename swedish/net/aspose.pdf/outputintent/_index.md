@@ -1,14 +1,14 @@
 ---
-title: Class OutputIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.OutputIntent klass. Representerar en utdataintention som matchar färgens egenskaper hos ett PDF-dokument med de hos en målenhet eller produktionsmiljö där dokumentet kommer att skrivas ut
+title: "Klass OutputIntent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.OutputIntent-klass. Representerar en output-intent som matchar färgkarakteristiken hos ett PDF-dokument med den för en målutgångsenhet eller produktionsmiljö där dokumentet kommer att skrivas ut"
 type: docs
-weight: 8030
+weight: 8170
 url: /sv/net/aspose.pdf/outputintent/
 ---
-## OutputIntent klass
+## OutputIntent class
 
-Representerar en utdataintention som matchar färgens egenskaper hos ett PDF-dokument med de hos en målenhet eller produktionsmiljö där dokumentet kommer att skrivas ut.
+Representerar en utskriftsavsikt som matchar färgkaraktäristiken hos ett PDF-dokument med den för en målutskriftsenhet eller produktionsmiljö där dokumentet kommer att skrivas ut.
 
 ```csharp
 public sealed class OutputIntent
@@ -18,19 +18,21 @@ public sealed class OutputIntent
 
 | Namn | Beskrivning |
 | --- | --- |
-| [OutputIntent](outputintent/)(string) | Initierar en ny instans av `OutputIntent` klassen med det angivna utdataförhållandets identifierare. |
+| [OutputIntent](outputintent/)(string) | Initierar en ny instans av `OutputIntent`-klassen med den angivna identifieraren för output-betingelsen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Info](../../aspose.pdf/outputintent/info/) { get; set; } | Hämtar eller ställer in en människoläsbar text som innehåller ytterligare information eller kommentarer om den avsedda målenheten eller produktionsförhållandet. |
-| [OutputCondition](../../aspose.pdf/outputintent/outputcondition/) { get; set; } | Hämtar eller ställer in en text som kortfattat identifierar den avsedda målenheten eller produktionsförhållandet i människoläsbar form. |
-| [OutputConditionIdentifier](../../aspose.pdf/outputintent/outputconditionidentifier/) { get; set; } | Hämtar eller ställer in en text som identifierar den avsedda målenheten eller produktionsförhållandet i människoläsbar eller maskinläsbar form. |
-| [RegistryName](../../aspose.pdf/outputintent/registryname/) { get; set; } | Hämtar eller ställer in en text som identifierar registret där förhållandet som anges av [`OutputConditionIdentifier`](./outputconditionidentifier/) är definierat. |
-| [Subtype](../../aspose.pdf/outputintent/subtype/) { get; } | Hämtar utdataintentionens subtype. |
+| [Info](../../aspose.pdf/outputintent/info/) { get; set; } | Hämtar eller anger en människoläsbar text som innehåller ytterligare information eller kommentarer om den avsedda mål-enheten eller produktionsförhållandet. |
+| [OutputCondition](../../aspose.pdf/outputintent/outputcondition/) { get; set; } | Hämtar eller anger en text som kortfattat identifierar den avsedda utdataenheten eller produktionsförhållandet i människoläsbar form. |
+| [OutputConditionIdentifier](../../aspose.pdf/outputintent/outputconditionidentifier/) { get; set; } | Hämtar eller anger en text som identifierar den avsedda utdataenheten eller produktionsförhållandet i människa- eller maskinläsbar form. |
+| [RegistryName](../../aspose.pdf/outputintent/registryname/) { get; set; } | Hämtar eller anger en text som identifierar registret där villkoret som betecknas av [`OutputConditionIdentifier`](./outputconditionidentifier/) är definierat. |
+| [Subtype](../../aspose.pdf/outputintent/subtype/) { get; } | Hämtar output-intentens undertyp. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

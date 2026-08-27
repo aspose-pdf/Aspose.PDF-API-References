@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions metod. Ställer in max completion tokens för chat copilot-alternativen
+title: "OpenAIChatCopilotOptions.WithMaxCompletionTokens"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions metod. Anger det maximala antalet slutförandetoken för chat‑copilot‑alternativen"
 type: docs
-weight: 130
+weight: 140
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/withmaxcompletiontokens/
 ---
-## OpenAIChatCopilotOptions.WithMaxCompletionTokens metod
+## OpenAIChatCopilotOptions.WithMaxCompletionTokens method
 
-Ställer in max completion tokens för chat copilot-alternativen.
+Ställer in maximala slutförandetoken för chat copilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | De max completion tokens som ska ställas in. |
+| maxCompletionTokens | Nullable`1 | Det maximala antalet slutförandetoken att ställa in. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

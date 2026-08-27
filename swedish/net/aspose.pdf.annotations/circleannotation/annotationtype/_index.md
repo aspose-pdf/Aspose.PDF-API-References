@@ -1,12 +1,12 @@
 ---
-title: CircleAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: CircleAnnotation-egenskap. Hämtar typ av annotation
+title: "CircleAnnotation.AnnotationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CircleAnnotation‑egenskap. Hämtar typ av annotation"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/circleannotation/annotationtype/
 ---
-## CircleAnnotation.AnnotationType-egenskap
+## CircleAnnotation.AnnotationType property
 
 Hämtar typ av annotation.
 
@@ -14,9 +14,11 @@ Hämtar typ av annotation.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../annotationtype/)
 * class [CircleAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

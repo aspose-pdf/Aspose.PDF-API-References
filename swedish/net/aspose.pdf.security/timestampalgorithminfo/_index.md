@@ -1,14 +1,14 @@
 ---
-title: Class TimestampAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.TimestampAlgorithmInfo klass. Representerar en klass för information om tidsstämpelsignaturalgoritmen
+title: "Klass TimestampAlgorithmInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Security.TimestampAlgorithmInfo klass. Representerar en klass för information om tidsstämpel‑signaturalgoritmen"
 type: docs
-weight: 10030
+weight: 10210
 url: /sv/net/aspose.pdf.security/timestampalgorithminfo/
 ---
-## TimestampAlgorithmInfo klass
+## TimestampAlgorithmInfo class
 
-Representerar en klass för information om tidsstämpelsignaturalgoritmen.
+Representerar en klass för information om tidsstämpel-signaturalgoritmen.
 
 ```csharp
 public sealed class TimestampAlgorithmInfo : SignatureAlgorithmInfo
@@ -30,13 +30,15 @@ public sealed class TimestampAlgorithmInfo : SignatureAlgorithmInfo
 
 | Namn | Beskrivning |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Hämtar typen av signaturalgoritm som används för att signera PDF-dokumentet. |
-| readonly [ContentHashAlgorithm](../../aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/) | Hämtar hash-algoritmen som hashade innehållet i dokumentet och sedan signerade det med hjälp av [`DigestHashAlgorithm`](../signaturealgorithminfo/digesthashalgorithm/). |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Hämtar den kryptografiska standard som används för att signera PDF-dokumentet. |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Hämtar digest hash-algoritmen som används för signaturen. För en tidsstämpel är detta digest hash-algoritmen med vilken hash av dokumentinnehållet signeras. |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Hämtar typen av signaturalgoritmen som används för att signera PDF-dokumentet. |
+| readonly [ContentHashAlgorithm](../../aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/) | Hämtar hash‑algoritmen som hashade dokumentets innehåll och sedan signerade det med [`DigestHashAlgorithm`](../signaturealgorithminfo/digesthashalgorithm/). |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Hämtar den kryptografiska standarden som används för att signera PDF-dokumentet. |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Hämtar digest‑hash‑algoritmen som används för signaturen. För en tidsstämpel är detta digest‑hash‑algoritmen som används för att signera hashvärdet av dokumentets innehåll. |
 
-### Se Även
+### Se även
 
-* klass [SignatureAlgorithmInfo](../signaturealgorithminfo/)
-* namnrum [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* sammansättning [Aspose.PDF](../../)
+* class [SignatureAlgorithmInfo](../signaturealgorithminfo/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ReplaceTextStrategy.IsRegularExpressionUsed
-second_title: Aspose.PDF for .NET API Reference
-description: ReplaceTextStrategy-egenskap. Om falskt är strängen att hitta en enkel text. Om sant är strängen att hitta ett reguljärt uttryck
+title: "ReplaceTextStrategy.IsRegularExpressionUsed"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ReplaceTextStrategy-egenskap. Om falskt är söksträngen enkel text. Om sant är söksträngen ett reguljärt uttryck."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/replacetextstrategy/isregularexpressionused/
 ---
-## ReplaceTextStrategy.IsRegularExpressionUsed-egenskap
+## ReplaceTextStrategy.IsRegularExpressionUsed property
 
-Om falskt är strängen att hitta en enkel text. Om sant är strängen att hitta ett reguljärt uttryck.
+Om falskt är strängen att söka en enkel text. Om sant är strängen att söka ett reguljärt uttryck.
 
 ```csharp
 public bool IsRegularExpressionUsed { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ReplaceTextStrategy](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ReplaceTextStrategy](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

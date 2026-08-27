@@ -1,21 +1,23 @@
 ---
-title: ObjectResult.Text
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectResult-egenskap. Returnerar strängrepresentation av resultatet
+title: "ObjectResult.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ObjectResult egenskap. Returnerar en strängrepresentation av resultatet"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.plugins/objectresult/text/
 ---
-## ObjectResult.Text-egenskap
+## ObjectResult.Text property
 
-Returnerar strängrepresentation av resultatet.
+Returnerar en strängrepresentation av resultatet.
 
 ```csharp
 public string Text { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ObjectResult](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

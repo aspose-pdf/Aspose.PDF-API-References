@@ -1,26 +1,28 @@
 ---
-title: PDF3DView.BackGroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView-egenskap. Hämtar eller ställer in färgen på bakgrunden av vyn
+title: "PDF3DView.BackGroundColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DView egenskap. Hämtar eller anger färgen på bakgrunden för vyn"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/pdf3dview/backgroundcolor/
 ---
-## PDF3DView.BackGroundColor-egenskap
+## PDF3DView.BackGroundColor property
 
-Hämtar eller ställer in färgen på bakgrunden av vyn.
+Hämtar eller anger färgen på bakgrunden för vyn.
 
 ```csharp
 public Color BackGroundColor { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Färgen på bakgrunden av vyn.
+Färgen på bakgrunden för vyn.
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [PDF3DView](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Matrix3D.Tz
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D-egenskap. Tz-medlem av transformationsmatrisen
+title: "Matrix3D.Tz"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix3D‑egenskap. Tz‑medlem i transformationsmatrisen"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/matrix3d/tz/
 ---
-## Matrix3D.Tz-egenskap
+## Matrix3D.Tz property
 
-Tz-medlem av transformationsmatrisen.
+Tz-medlem i transformationsmatrisen.
 
 ```csharp
 public double Tz { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix3D](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

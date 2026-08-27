@@ -1,14 +1,14 @@
 ---
-title: Class Splitter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Splitter klass. Representerar Splitter-plugin
+title: "Klass Splitter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.Splitter-klass. Representerar Splitter‑plugin"
 type: docs
-weight: 9280
+weight: 9430
 url: /sv/net/aspose.pdf.plugins/splitter/
 ---
-## Splitter klass
+## Splitter class
 
-Representerar `Splitter` plugin.
+Representerar `Splitter`‑plugin.
 
 ```csharp
 public class Splitter : IPlugin
@@ -18,34 +18,36 @@ public class Splitter : IPlugin
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Splitter](splitter/)() | Standardkonstruktören. |
+| [Splitter](splitter/)() | Standardkonstruktorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/splitter/process/)(IPluginOptions) | Startar `Splitter` bearbetning med angivna parametrar. |
+| [Process](../../aspose.pdf.plugins/splitter/process/)(IPluginOptions) | Startar `Splitter`‑bearbetningen med de angivna parametrarna. |
 
 ## Exempel
 
-Exemplet visar hur man delar en PDF-dokument.
+Exemplet visar hur man delar PDF-dokumentet.
 
 ```csharp
-// create Splitter
+// skapa Splitter
 var splitter = new Splitter();
-// create SplitOptions object to set instructions
+// skapa SplitOptions-objekt för att ange instruktioner
 var opt = new SplitOptions();
-// add input file paths
+// lägg till indatafilvägar
 opt.AddInput(new FileDataSource(inputPath));
-// set output file paths
+// ange sökvägar för utdatafiler
 opt.AddOutput(new FileDataSource(outputPath1));
 opt.AddOutput(new FileDataSource(outputPath2));
-// perform the process
+// utför processen
 splitter.Process(opt);
 ```
 
-### Se Även
+### Se även
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

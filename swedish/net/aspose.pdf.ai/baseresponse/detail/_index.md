@@ -1,21 +1,23 @@
 ---
-title: BaseResponse.Detail
-second_title: Aspose.PDF for .NET API Reference
-description: BaseResponse-egenskap. Hämtar eller ställer in svaret detalj
+title: "BaseResponse.Detail"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseResponse-egenskap. Hämtar eller anger svarsdetaljen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/baseresponse/detail/
 ---
-## BaseResponse.Detail-egenskap
+## BaseResponse.Detail property
 
-Hämtar eller ställer in svaret detalj.
+Hämtar eller anger svarsdetaljen.
 
 ```csharp
 public string Detail { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

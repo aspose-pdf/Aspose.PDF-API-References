@@ -1,14 +1,14 @@
 ---
-title: WatermarkAnnotation.SetTextAndState
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation-metod. Ställ in texten för anteckningen
+title: "WatermarkAnnotation.SetTextAndState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WatermarkAnnotation metod. Sätter texten för annoteringen"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.annotations/watermarkannotation/settextandstate/
 ---
-## WatermarkAnnotation.SetTextAndState metod
+## WatermarkAnnotation.SetTextAndState method
 
-Ställ in texten för anteckningen.
+Ange text för annoteringen.
 
 ```csharp
 public void SetTextAndState(string[] text, TextState textState)
@@ -19,9 +19,11 @@ public void SetTextAndState(string[] text, TextState textState)
 | text | String[] | Textvärde. |
 | textState | TextState | Texttillstånd. |
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [WatermarkAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

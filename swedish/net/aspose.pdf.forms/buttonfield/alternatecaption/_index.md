@@ -1,21 +1,23 @@
 ---
-title: ButtonField.AlternateCaption
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField-egenskap. Hämtar eller ställer in alternativ rubrik för knappen som ska visas när musknappen trycks inom dess aktiva område
+title: "ButtonField.AlternateCaption"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ButtonField-egenskap. Hämtar eller anger alternativ rubrik för knappen som ska visas när musknappen trycks ned inom dess aktiva område."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/buttonfield/alternatecaption/
 ---
-## ButtonField.AlternateCaption-egenskap
+## ButtonField.AlternateCaption property
 
-Hämtar eller ställer in alternativ rubrik för knappen som ska visas när musknappen trycks inom dess aktiva område.
+Hämtar eller anger alternativ rubrik för knappen som ska visas när musknappen trycks ned inom dess aktiva område.
 
 ```csharp
 public string AlternateCaption { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ButtonField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

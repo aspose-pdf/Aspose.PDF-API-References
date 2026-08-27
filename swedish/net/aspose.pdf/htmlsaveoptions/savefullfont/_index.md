@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.SaveFullFont
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Indikerar att fullständig teckensnitt kommer att sparas, stöder endast True Type-teckensnitt. Som standard är SaveFullFont false och konverteraren sparar delmängden av det ursprungliga teckensnittet som behövs för att visa texten i dokumentet.
+title: "HtmlSaveOptions.SaveFullFont"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-egenskap. Anger att hela teckensnittet kommer att sparas; stöder endast True Type‑teckensnitt. Som standard är SaveFullFont false och konverteraren sparar en delmängd av det ursprungliga teckensnittet som behövs för att visa dokumentets text."
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf/htmlsaveoptions/savefullfont/
 ---
-## HtmlSaveOptions.SaveFullFont-egenskap
+## HtmlSaveOptions.SaveFullFont property
 
-Indikerar att fullständig teckensnitt kommer att sparas, stöder endast True Type-teckensnitt. Som standard är SaveFullFont = false och konverteraren sparar delmängden av det ursprungliga teckensnittet som behövs för att visa texten i dokumentet.
+Indikerar att hela teckensnittet kommer att sparas, stöder endast True Type-teckensnitt. Som standard är SaveFullFont = false och konverteraren sparar en delmängd av det ursprungliga teckensnittet som behövs för att visa dokumentets text.
 
 ```csharp
 public bool SaveFullFont { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

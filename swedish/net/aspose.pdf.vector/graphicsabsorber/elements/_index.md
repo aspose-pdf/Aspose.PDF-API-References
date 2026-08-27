@@ -1,22 +1,24 @@
 ---
-title: GraphicsAbsorber.Elements
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicsAbsorber-egenskap. Hämtar samling av sökförekomster som presenteras med GraphicElement-objekt
+title: "GraphicsAbsorber.Elements"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicsAbsorber‑egenskap. Hämtar en samling av sökförekomster som presenteras med GraphicElement‑objekt"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.vector/graphicsabsorber/elements/
 ---
-## GraphicsAbsorber.Elements-egenskap
+## GraphicsAbsorber.Elements property
 
-Hämtar samling av sökförekomster som presenteras med [`GraphicElement`](../../graphicelement/) objekt.
+Hämtar en samling av sökförekomster som presenteras med [`GraphicElement`](../../graphicelement/) objekt.
 
 ```csharp
 public GraphicElementCollection Elements { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphicElementCollection](../../graphicelementcollection/)
-* klass [GraphicsAbsorber](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../../graphicelementcollection/)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

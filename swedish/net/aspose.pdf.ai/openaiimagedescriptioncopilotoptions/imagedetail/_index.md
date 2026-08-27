@@ -1,21 +1,23 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.ImageDetail
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions-egenskap. Hämtar eller ställer in detaljnivån för bilden om den anges av användaren. "low" använder färre tokens, du kan välja hög upplösning med "high". Om det inte anges, standardinställningen är "auto".
+title: "OpenAIImageDescriptionCopilotOptions.ImageDetail"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIImageDescriptionCopilotOptions-egenskap. Hämtar eller anger detaljnivån för bilden om den specificeras av användaren. \"low\" använder färre token, du kan välja hög upplösning med \"high\". Om den inte anges är standardvärdet \"auto\"."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/imagedetail/
 ---
-## OpenAIImageDescriptionCopilotOptions.ImageDetail-egenskap
+## OpenAIImageDescriptionCopilotOptions.ImageDetail property
 
-Hämtar eller ställer in detaljnivån för bilden om den anges av användaren. "low" använder färre tokens, du kan välja hög upplösning med "high". Om det inte anges, standardinställningen är "auto".
+Hämtar eller anger detaljnivån för bilden om den specificeras av användaren. \"low\" använder färre token, du kan välja hög upplösning med \"high\". Om den inte anges, är standardvärdet \"auto\".
 
 ```csharp
 public string ImageDetail { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OpenAIImageDescriptionCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

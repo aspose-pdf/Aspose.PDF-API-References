@@ -1,14 +1,14 @@
 ---
-title: Class LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LocalHyperlink klass. Representerar lokal hyperlänk objekt
+title: "Klass LocalHyperlink"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.LocalHyperlink-klass. Representerar ett lokalt hyperlänksobjekt"
 type: docs
-weight: 6170
+weight: 6310
 url: /sv/net/aspose.pdf/localhyperlink/
 ---
-## LocalHyperlink klass
+## LocalHyperlink class
 
-Representerar lokal hyperlänk objekt.
+Representerar ett lokalt hyperlänk-objekt.
 
 ```csharp
 public sealed class LocalHyperlink : Hyperlink
@@ -18,18 +18,20 @@ public sealed class LocalHyperlink : Hyperlink
 
 | Namn | Beskrivning |
 | --- | --- |
-| [LocalHyperlink](localhyperlink/#constructor)() | Initierar en ny instans av `LocalHyperlink` klassen. |
-| [LocalHyperlink](localhyperlink/#constructor_1)(BaseParagraph) | Initierar en ny instans av `LocalHyperlink` klassen. |
+| [LocalHyperlink](localhyperlink/#constructor)() | Initierar en ny instans av klassen `LocalHyperlink`. |
+| [LocalHyperlink](localhyperlink/#constructor_1)(BaseParagraph) | Initierar en ny instans av klassen `LocalHyperlink`. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | Hämtar eller ställer in målparagrafen. |
-| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | Hämtar eller ställer in målsidanummer. |
+| [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | Hämtar eller anger målparagrafen. |
+| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | Hämtar eller anger målsidans nummer. |
 
-### Se Även
+### Se även
 
-* klass [Hyperlink](../hyperlink/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

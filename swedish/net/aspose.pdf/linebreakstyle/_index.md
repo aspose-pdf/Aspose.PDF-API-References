@@ -1,14 +1,14 @@
 ---
-title: Enum LineBreakStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LineBreakStyle enum. Representerar de möjliga radbrytningstyperna för en fil
+title: "Enum LineBreakStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.LineBreakStyle‑enum. Representerar de möjliga radbrytningsstilarna för en fil"
 type: docs
-weight: 6100
+weight: 6240
 url: /sv/net/aspose.pdf/linebreakstyle/
 ---
-## LineBreakStyle-uppräkning
+## LineBreakStyle enumeration
 
-Representerar de möjliga radbrytningstyperna för en fil.
+Representerar möjliga radbrytningsstilar för en fil.
 
 ```csharp
 public enum LineBreakStyle
@@ -18,11 +18,13 @@ public enum LineBreakStyle
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Windows | `0` | Väljer Windows strängbrytningstilen (CRLF). |
-| Unix | `1` | Väljer Unix strängbrytningstilen (LF). Används också för OSX. |
-| Auto | `2` | Väljer automatiskt typ av strängbrytning baserat på operativsystemet. |
+| Windows | `0` | Väljer Windows-strängbrytningsstil (CRLF). |
+| Unix | `1` | Välj Unix-strängbrytningsstil (LF). Används också för OSX. |
+| Auto | `2` | Välj automatiskt typ av strängbrytning baserat på operativsystemet. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

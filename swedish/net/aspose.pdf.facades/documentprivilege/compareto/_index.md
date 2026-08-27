@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.CompareTo
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege-metod. Jämför två DocumentPrivilege-objekt.  Objektet att jämföra med. Ett signerat heltal som indikerar de relativa värdena för denna instans och värdet. Mindre än noll, denna instans är mindre än värdet. Noll, denna instans är lika med värdet. Större än noll, denna instans är större än värdet.
+title: "DocumentPrivilege.CompareTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege-metod. Jämför två DocumentPrivilege-objekt.  Objektet att jämföra med. Ett heltal med tecken som indikerar de relativa värdena för detta objekt och värdet. Mindre än noll betyder detta objekt är mindre än värdet. Noll betyder detta objekt är lika med värdet. Större än noll betyder detta objekt är större än värdet"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.facades/documentprivilege/compareto/
 ---
-## DocumentPrivilege.CompareTo metod
+## DocumentPrivilege.CompareTo method
 
-Jämför två [`DocumentPrivilege`](../) objekt.  Objektet att jämföra med. Ett signerat heltal som indikerar de relativa värdena för denna instans och värdet. Mindre än noll, denna instans är mindre än värdet. Noll, denna instans är lika med värdet. Större än noll, denna instans är större än värdet.
+Jämför två [`DocumentPrivilege`](../)-objekt.  Objektet att jämföra med. Ett heltal med tecken som indikerar de relativa värdena för detta objekt och värdet. Mindre än noll betyder detta objekt är mindre än värdet. Noll betyder detta objekt är lika med värdet. Större än noll betyder detta objekt är större än värdet.
 
 ```csharp
 public int CompareTo(object obj)
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TiffDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice-metod. Konverterar vissa dokument sidor till tiff och sparar det i utdataflödet
+title: "TiffDevice.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TiffDevice metod. Konverterar vissa dokumentsidor till tiff och sparar dem i utdataströmmen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.devices/tiffdevice/process/
 ---
 ## Process(Document, int, int, Stream) {#process}
 
-Konverterar vissa dokument sidor till tiff och sparar det i utdataflödet.
+Konverterar vissa dokumentsidor till TIFF och sparar dem i utdataströmmen.
 
 ```csharp
 public override void Process(Document document, int fromPage, int toPage, Stream output)
@@ -16,16 +16,16 @@ public override void Process(Document document, int fromPage, int toPage, Stream
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Document | Dokumentet som ska konverteras. |
-| fromPage | Int32 | Definierar sidnummer från vilket konverteringen kommer att börja. |
-| toPage | Int32 | Definierar sidnummer som kommer att avsluta konverteringen. |
-| output | Stream | Utdataflöde med tiff-bild. |
+| dokument | Dokument | Dokumentet som ska konverteras. |
+| fromPage | Int32 | Definierar sidnummer från vilket konverteringen ska starta. |
+| toPage | Int32 | Definierar sidnummer som avslutar konverteringen. |
+| utdata | Stream | Utdatastream med tiff-bild. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [TiffDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,9 +36,11 @@ public override void Process(Document document, int fromPage, int toPage, Stream
 public override void Process(Page page, Stream output)
 ```
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [TiffDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Page](../../../aspose.pdf/page/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

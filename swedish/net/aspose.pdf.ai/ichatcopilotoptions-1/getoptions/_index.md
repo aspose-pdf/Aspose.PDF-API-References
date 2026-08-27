@@ -1,12 +1,12 @@
 ---
-title: IChatCopilotOptions1.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: IChatCopilotOptions metod. Hämtar alternativen av typen TOptions
+title: "IChatCopilotOptions1.GetOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IChatCopilotOptions metod. Hämtar alternativen av typen TOptions"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/ichatcopilotoptions-1/getoptions/
 ---
-## IChatCopilotOptions&lt;TOptions&gt;.GetOptions metod
+## IChatCopilotOptions&lt;TOptions&gt;.GetOptions method
 
 Hämtar alternativen av typen *TOptions*.
 
@@ -16,10 +16,12 @@ public TOptions GetOptions()
 
 ### Returvärde
 
-Alternativen av typen *TOptions*.
+LastError.LastError
 
-### Se Även
+### Se även
 
 * interface [IChatCopilotOptions&lt;TOptions&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

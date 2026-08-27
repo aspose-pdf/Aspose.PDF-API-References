@@ -1,22 +1,24 @@
 ---
-title: PdfContentEditor.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-egenskap. Hämtar eller ställer in alternativ för textbyte
+title: "PdfContentEditor.TextReplaceOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor egenskap. Hämtar eller anger alternativ för textutbyte"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/textreplaceoptions/
 ---
-## PdfContentEditor.TextReplaceOptions-egenskap
+## PdfContentEditor.TextReplaceOptions property
 
-Hämtar eller ställer in alternativ för textbyte.
+Hämtar eller anger alternativ för textersättning.
 
 ```csharp
 public TextReplaceOptions TextReplaceOptions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextReplaceOptions](../../../aspose.pdf.text/textreplaceoptions/)
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [TextReplaceOptions](../../../aspose.pdf.text/textreplaceoptions/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

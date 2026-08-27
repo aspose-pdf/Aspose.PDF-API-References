@@ -1,14 +1,14 @@
 ---
-title: Class FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FileSaveTarget klass. Representerar filens sparmål för en plugin
+title: "Klass FileSaveTarget"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.FileSaveTarget-klass. Representerar filens sparmål för ett plugin"
 type: docs
-weight: 8570
+weight: 8700
 url: /sv/net/aspose.pdf.plugins/filesavetarget/
 ---
-## FileSaveTarget klass
+## FileSaveTarget class
 
-Representerar filens sparmål för en plugin.
+Representerar målfilen för sparning för en plugin.
 
 ```csharp
 public class FileSaveTarget : ISaveTarget
@@ -18,7 +18,7 @@ public class FileSaveTarget : ISaveTarget
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FileSaveTarget](filesavetarget/)(string) | Initierar ett nytt filens sparmål med angiven sökväg. |
+| [FileSaveTarget](filesavetarget/)(string) | Initierar ett nytt fil‑sparmål med angiven sökväg. |
 
 ## Egenskaper
 
@@ -27,8 +27,10 @@ public class FileSaveTarget : ISaveTarget
 | [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | Hämtar sökvägen till filen för det aktuella sparmålet. |
 | [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | Typ av sparmål (fil). |
 
-### Se Även
+### Se även
 
 * interface [ISaveTarget](../isavetarget/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

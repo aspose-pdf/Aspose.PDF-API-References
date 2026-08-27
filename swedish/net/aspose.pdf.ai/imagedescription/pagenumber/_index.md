@@ -1,21 +1,23 @@
 ---
-title: ImageDescription.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescription-egenskap. Hämtar eller ställer in sidnumret där bilden är belägen
+title: "ImageDescription.PageNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageDescription egenskap. Hämtar eller anger sidnumret där bilden är placerad"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/imagedescription/pagenumber/
 ---
-## ImageDescription.PageNumber-egenskap
+## ImageDescription.PageNumber property
 
-Hämtar eller ställer in sidnumret där bilden är belägen.
+Hämtar eller anger sidnumret där bilden är placerad.
 
 ```csharp
 public int PageNumber { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageDescription](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ImageDescription](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

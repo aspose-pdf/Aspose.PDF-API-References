@@ -1,21 +1,23 @@
 ---
-title: BDCProperties.MCID
-second_title: Aspose.PDF for .NET API Reference
-description: BDCProperties-egenskap. Hämtar/anger MCID-värde
+title: "BDCProperties.MCID"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BDCProperties‑egenskap. Hämtar/sätter MCID‑värde"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/bdcproperties/mcid/
 ---
-## BDCProperties.MCID-egenskap
+## BDCProperties.MCID property
 
-Hämtar/anger MCID-värde.
+Hämtar/sätter MCID-värde.
 
 ```csharp
 public int? MCID { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BDCProperties](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

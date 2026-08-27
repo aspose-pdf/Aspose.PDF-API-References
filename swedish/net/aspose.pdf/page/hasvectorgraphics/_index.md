@@ -1,14 +1,14 @@
 ---
-title: Page.HasVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Page-metod. Upptäck närvaron av vektorgrafik om den finns på sidan
+title: "Page.HasVectorGraphics"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-metod. Detekterar förekomsten av vektorgrafik om den finns på sidan"
 type: docs
 weight: 480
 url: /sv/net/aspose.pdf/page/hasvectorgraphics/
 ---
-## Page.HasVectorGraphics metod
+## Page.HasVectorGraphics method
 
-Upptäck närvaron av vektorgrafik, om den finns på sidan.
+Detekterar förekomsten av vektorgrafik, om den finns på sidan.
 
 ```csharp
 public bool HasVectorGraphics()
@@ -16,10 +16,12 @@ public bool HasVectorGraphics()
 
 ### Returvärde
 
-True om sidan innehåller vägkonstruktionsoperatorer; annars, False.
+Sant om sidan innehåller operatorer för sökvägskonstruktion; annars Falskt.
 
-### Se Även
+### Se även
 
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

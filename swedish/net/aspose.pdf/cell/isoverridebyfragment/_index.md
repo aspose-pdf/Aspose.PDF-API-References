@@ -1,21 +1,23 @@
 ---
-title: Cell.IsOverrideByFragment
-second_title: Aspose.PDF for .NET API Reference
-description: Cell-egenskap. Anger att cellens TextState-egenskap överskrivs av TextFragment TextState-egenskap
+title: "Cell.IsOverrideByFragment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cell-egenskap. Anger att cellens TextState-egenskap åsidosätts av TextFragment TextState-egenskapen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/cell/isoverridebyfragment/
 ---
-## Cell.IsOverrideByFragment-egenskap
+## Cell.IsOverrideByFragment property
 
-Anger att cellens TextState-egenskap överskrivs av TextFragment TextState-egenskap.
+Anger cellens TextState‑egenskap som åsidosätts av TextFragment TextState‑egenskapen.
 
 ```csharp
 public bool IsOverrideByFragment { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Cell](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

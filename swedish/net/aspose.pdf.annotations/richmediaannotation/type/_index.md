@@ -1,22 +1,24 @@
 ---
-title: RichMediaAnnotation.Type
-second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation-egenskap. Hämtar eller ställer in typ av innehåll. Möjliga värden Ljud Video
+title: "RichMediaAnnotation.Type"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RichMediaAnnotation egenskap. Hämtar eller anger typ av innehåll. Möjliga värden Audio Video"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/richmediaannotation/type/
 ---
-## RichMediaAnnotation.Type-egenskap
+## RichMediaAnnotation.Type property
 
-Hämtar eller ställer in typ av innehåll. Möjliga värden: Ljud, Video.
+Hämtar eller anger typ av innehåll. Möjliga värden: Audio, Video.
 
 ```csharp
 public ContentType Type { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [ContentType](../../richmediaannotation.contenttype/)
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

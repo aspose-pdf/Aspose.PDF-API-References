@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.ChangeViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Ändrar visningspreferensen
+title: "PdfContentEditor.ChangeViewerPreference"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor‑metod. Ändrar visningsinställningen."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/
 ---
-## PdfContentEditor.ChangeViewerPreference metod
+## PdfContentEditor.ChangeViewerPreference method
 
-Ändrar visningspreferensen.
+Ändrar visningsinställningen.
 
 ```csharp
 public void ChangeViewerPreference(int viewerAttribution)
@@ -16,7 +16,7 @@ public void ChangeViewerPreference(int viewerAttribution)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| viewerAttribution | Int32 | Den visningsattribution som definieras i ViewerPreference-klassen. |
+| viewerAttribution | Int32 | Visningsattributet som definieras i ViewerPreference‑klassen. |
 
 ## Exempel
 
@@ -28,8 +28,10 @@ editor.ChangeViewerPreference(ViewerPreference.PageModeUseNone);
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

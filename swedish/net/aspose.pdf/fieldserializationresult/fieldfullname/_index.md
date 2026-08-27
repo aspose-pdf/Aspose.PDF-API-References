@@ -1,25 +1,27 @@
 ---
-title: FieldSerializationResult.FieldFullName
-second_title: Aspose.PDF for .NET API Reference
-description: FieldSerializationResult-egenskap. Hämtar det fullständiga namnet på fältet
+title: "FieldSerializationResult.FieldFullName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FieldSerializationResult egenskap. Hämtar fältets fullständiga namn"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/fieldserializationresult/fieldfullname/
 ---
-## FieldSerializationResult.FieldFullName-egenskap
+## FieldSerializationResult.FieldFullName property
 
-Hämtar det fullständiga namnet på fältet.
+Hämtar fältets fullständiga namn.
 
 ```csharp
 public string FieldFullName { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Det fullständiga namnet på fältet.
 
-### Se Även
+### Se även
 
-* klass [FieldSerializationResult](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

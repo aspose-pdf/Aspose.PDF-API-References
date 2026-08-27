@@ -1,12 +1,12 @@
 ---
-title: BaseResponse.IsSuccessful
-second_title: Aspose.PDF for .NET API Reference
-description: BaseResponse-egenskap. Indikerar om svaret var framgångsrikt
+title: "BaseResponse.IsSuccessful"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseResponse-egenskap. Anger om svaret var framgångsrikt"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/baseresponse/issuccessful/
 ---
-## BaseResponse.IsSuccessful-egenskap
+## BaseResponse.IsSuccessful property
 
 Indikerar om svaret var framgångsrikt.
 
@@ -14,8 +14,10 @@ Indikerar om svaret var framgångsrikt.
 public bool IsSuccessful { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

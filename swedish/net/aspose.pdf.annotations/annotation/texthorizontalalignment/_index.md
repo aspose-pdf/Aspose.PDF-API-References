@@ -1,22 +1,24 @@
 ---
-title: Annotation.TextHorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-egenskap. Hämtar eller ställer in textjustering för annotation
+title: "Annotation.TextHorizontalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation‑egenskap. Hämtar eller anger textjustering för annotation"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.annotations/annotation/texthorizontalalignment/
 ---
-## Annotation.TextHorizontalAlignment-egenskap
+## Annotation.TextHorizontalAlignment property
 
-Hämtar eller ställer in textjustering för annotation.
+Hämtar eller anger textjustering för annotationen.
 
 ```csharp
 public HorizontalAlignment TextHorizontalAlignment { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: SaveOptions.MarginInfo.TopMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo-fält. Representerar övre sidmarginal om någon
+title: "SaveOptions.MarginInfo.TopMarginIfAny"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarginInfo-fält. Representerar övre sidmarginal om någon"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/saveoptions.margininfo/topmarginifany/
 ---
-## SaveOptions.MarginInfo.TopMarginIfAny-fält
+## SaveOptions.MarginInfo.TopMarginIfAny field
 
-Representerar övre sidmarginal (om någon)
+Representerar övermarginal (om någon)
 
 ```csharp
 public MarginPartStyle TopMarginIfAny;
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginPartStyle](../../saveoptions.marginpartstyle/)
-* klass [MarginInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

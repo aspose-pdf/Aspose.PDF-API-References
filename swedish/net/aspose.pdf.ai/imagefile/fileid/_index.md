@@ -1,21 +1,23 @@
 ---
-title: ImageFile.FileId
-second_title: Aspose.PDF for .NET API Reference
-description: ImageFile-egenskap. Hämtar eller ställer in File ID för bilden i meddelandets innehåll. Ställ in purpose="vision" när du laddar upp filen om du senare behöver visa filinnehållet.
+title: "ImageFile.FileId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageFile‑egenskap. Hämtar eller anger fil‑ID för bilden i meddelandeinnehållet. Ställ in purposevision när du laddar upp filen om du senare behöver visa filinnehållet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/imagefile/fileid/
 ---
-## ImageFile.FileId-egenskap
+## ImageFile.FileId property
 
-Hämtar eller ställer in File ID för bilden i meddelandets innehåll. Ställ in purpose="vision" när du laddar upp filen om du senare behöver visa filinnehållet.
+Hämtar eller anger File‑ID för bilden i meddelandets innehåll. Ställ in purpose=\"vision\" när du laddar upp File om du senare behöver visa filens innehåll.
 
 ```csharp
 public string FileId { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageFile](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ImageFile](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: PdfExtractor.ExtractTextMode
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-egenskap. Ställer in läget för extraherade texters resultat
+title: "PdfExtractor.ExtractTextMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-egenskap. Anger läget för resultatet av extraherade texter."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/pdfextractor/extracttextmode/
 ---
-## PdfExtractor.ExtractTextMode-egenskap
+## PdfExtractor.ExtractTextMode property
 
-Ställer in läget för extraherad texts resultat.
+Ställer in läget för resultatet av textutdragning.
 
 ```csharp
 public int ExtractTextMode { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-0 är rent textläge och 1 är rå ordningsläge. Standard är 0.
+0 är rent textläge och 1 är råt sorteringsläge. Standard är 0.
 
 ## Exempel
 
-Exemplet visar användningen av `ExtractTextMode`-egenskapen i ett textutvinningsscenario.
+Exemplet demonstrerar användningen av `ExtractTextMode`-egenskapen i ett textutdragningsscenario.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -30,8 +30,10 @@ extractor.ExtractText();
 extractor.GetText(@"D:\Text\text.txt");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

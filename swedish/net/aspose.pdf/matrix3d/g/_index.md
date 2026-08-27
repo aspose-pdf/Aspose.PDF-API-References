@@ -1,21 +1,23 @@
 ---
-title: Matrix3D.G
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D-egenskap. G-medlem av transformationsmatrisen
+title: "Matrix3D.G"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix3D-egenskap. G-medlem i transformationsmatrisen"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/matrix3d/g/
 ---
-## Matrix3D.G-egenskap
+## Matrix3D.G property
 
-G-medlem av transformationsmatrisen.
+G-medlem i transformationsmatrisen.
 
 ```csharp
 public double G { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix3D](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

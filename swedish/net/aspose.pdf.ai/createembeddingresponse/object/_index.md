@@ -1,21 +1,23 @@
 ---
-title: CreateEmbeddingResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingResponse-egenskap. Hämtar eller ställer in objekttypen som alltid är lista
+title: "CreateEmbeddingResponse.Object"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateEmbeddingResponse-egenskap. Hämtar eller anger objekttypen som alltid är lista"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/createembeddingresponse/object/
 ---
-## CreateEmbeddingResponse.Object-egenskap
+## CreateEmbeddingResponse.Object property
 
-Hämtar eller ställer in objekttypen, som alltid är lista.
+Hämtar eller anger objekttypen, som alltid är list.
 
 ```csharp
 public string Object { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateEmbeddingResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [CreateEmbeddingResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

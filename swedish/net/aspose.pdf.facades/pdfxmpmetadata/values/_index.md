@@ -1,22 +1,24 @@
 ---
-title: PdfXmpMetadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-egenskap. Hämtar samlingen av värden i ordbok
+title: "PdfXmpMetadata.Values"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata egenskap. Hämtar samlingen av värden i ordboken"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/values/
 ---
-## PdfXmpMetadata.Values-egenskap
+## PdfXmpMetadata.Values property
 
-Hämtar samlingen av värden i ordbok.
+Hämtar samlingen av värden i ordboken.
 
 ```csharp
 public ICollection<XmpValue> Values { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../../aspose.pdf/xmpvalue/)
-* klass [PdfXmpMetadata](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

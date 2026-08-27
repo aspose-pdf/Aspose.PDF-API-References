@@ -1,14 +1,14 @@
 ---
-title: Enum TabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TabOrder enum. Tabordning på sidan
+title: "Enum TabOrder"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.TabOrder enum. Tabordning på sidan"
 type: docs
-weight: 10270
+weight: 10450
 url: /sv/net/aspose.pdf/taborder/
 ---
-## TabOrder-uppräkning
+## TabOrder enumeration
 
-Tabordning på sidan
+Tabbordning på page
 
 ```csharp
 public enum TabOrder
@@ -18,13 +18,15 @@ public enum TabOrder
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Ingen | `0` | Ingen tabordning. |
-| Rad | `1` | Radsordning. |
-| Kolumn | `2` | Kolumnordning. |
-| Standard | `3` | Standard tabordning. |
-| Manuell | `4` | Manuell tabordning. |
+| None | `0` | Ingen tabordning. |
+| Row | `1` | Radordning. |
+| Column | `2` | Kolumnordning. |
+| Default | `3` | Standardtabordning. |
+| Manual | `4` | Manuell tabordning. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

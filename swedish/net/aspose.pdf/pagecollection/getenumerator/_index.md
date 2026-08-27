@@ -1,14 +1,14 @@
 ---
-title: PageCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: SidaSamling metod. Returnerar uppräkning av sidor
+title: "PageCollection.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageCollection-metod. Returnerar en enumerator för sidor"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/pagecollection/getenumerator/
 ---
-## PageCollection.GetEnumerator metod
+## PageCollection.GetEnumerator method
 
-Returnerar enumerator av sidor.
+Returnerar en enumerator för sidor.
 
 ```csharp
 public IEnumerator<Page> GetEnumerator()
@@ -16,11 +16,13 @@ public IEnumerator<Page> GetEnumerator()
 
 ### Returvärde
 
-Enumerator av sidor
+Enumerator för sidor
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [PageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

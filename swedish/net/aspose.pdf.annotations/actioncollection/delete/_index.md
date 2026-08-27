@@ -1,7 +1,7 @@
 ---
-title: ActionCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection metod. Tar bort åtgärd från samlingen efter index
+title: "ActionCollection.Delete"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ActionCollection-metod. Tar bort en åtgärd från samlingen efter index"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.annotations/actioncollection/delete/
@@ -16,13 +16,13 @@ public void Delete(int index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| index | Int32 | Index för åtgärden som ska tas bort. |
+| index | Int32 | Index för åtgärd som ska tas bort. |
 
-### Se Även
+### Se även
 
-* klass [ActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,8 +34,10 @@ Ta bort alla åtgärder.
 public void Delete()
 ```
 
-### Se Även
+### Se även
 
-* klass [ActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

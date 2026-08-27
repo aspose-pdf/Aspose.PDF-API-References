@@ -1,22 +1,24 @@
 ---
-title: PdfAction.Next
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAction-egenskap. Nästa åtgärder i sekvens
+title: "PdfAction.Next"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAction‑egenskap. Nästa åtgärder i sekvens"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/pdfaction/next/
 ---
-## PdfAction.Nästa egenskap
+## PdfAction.Next property
 
-Nästa åtgärder i sekvens.
+Nästa åtgärder i sekvensen.
 
 ```csharp
 public ActionCollection Next { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ActionCollection](../../actioncollection/)
-* klass [PdfAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [ActionCollection](../../actioncollection/)
+* class [PdfAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

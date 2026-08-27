@@ -1,14 +1,14 @@
 ---
-title: Enum LoadOptions.MarginsAreaUsageModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptionsMarginsAreaUsageModes enum. Representerar användningsläge för marginalområdet under konvertering som HTML EPUB etc definierar behandling av instruktioner från det importerade formatet relaterat till användning av marginaler
+title: "Enum LoadOptions.MarginsAreaUsageModes"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.LoadOptionsMarginsAreaUsageModes enum. Representerar läge för användning av marginalområde under konvertering, som HTML, EPUB etc., och definierar behandlingen av instruktioner i importerat format relaterade till användning av marginaler"
 type: docs
-weight: 6130
+weight: 6270
 url: /sv/net/aspose.pdf/loadoptions.marginsareausagemodes/
 ---
-## LoadOptions.MarginsAreaUsageModes uppräkning
+## LoadOptions.MarginsAreaUsageModes enumeration
 
-Representerar användningsläge för marginalområdet under konvertering (som HTML, EPUB etc), definierar behandling av instruktioner från det importerade formatet relaterat till användning av marginaler.
+Representerar läge för användning av marginalområde under konvertering (som HTML, EPUB etc.), definierar behandlingen av instruktioner i importerat format relaterade till användning av marginaler.
 
 ```csharp
 public enum MarginsAreaUsageModes
@@ -18,11 +18,13 @@ public enum MarginsAreaUsageModes
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| PutContentOnMarginAreaIfNecessary | `0` | I detta läge följer konverteraren formatet av det importerade dokumentet (t.ex. CSS av importerad HTML) i användningen av marginalområdet. Så, om formatet av det importerade dokumentet kräver användning av marginalområdet för rendering, kommer konverteraren att tillåta det |
-| NeverPutContentOnMarginArea | `1` | Detta läge förbjuder strikt användning av marginalområdet, så konverteraren kommer aldrig att använda marginalområdet för rendering, även om CSS eller formatet av källdokumentet tillåter eller kräver det |
+| PutContentOnMarginAreaIfNecessary | `0` | I detta läge följer konverteraren formatet för det importerade dokumentet (t.ex. CSS för importerad HTML) vid användning av marginalområdet. Så om formatet för det importerade dokumentet kräver användning av marginalområdet för rendering, kommer konverteraren att tillåta det. |
+| NeverPutContentOnMarginArea | `1` | Detta läge förbjuder strikt användning av marginalområdet, så konverteraren kommer aldrig att använda marginalområdet för rendering, även om CSS eller formatet för källdokumentet tillåter eller kräver det. |
 
-### Se Även
+### Se även
 
-* klass [LoadOptions](../loadoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

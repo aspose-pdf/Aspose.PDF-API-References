@@ -1,14 +1,14 @@
 ---
-title: Class AIClientBase
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.AIClientBase klass. Representerar klient för att få åtkomst till AI API
+title: "Klass AIClientBase"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.AIClientBase-klass. Representerar en klient för att komma åt AI API"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/aiclientbase/
 ---
-## AIClientBase klass
+## AIClientBase class
 
-Representerar klient för att få åtkomst till AI API.
+Representerar en klient för att komma åt AI‑API.
 
 ```csharp
 public abstract class AIClientBase : IDisposable
@@ -18,18 +18,20 @@ public abstract class AIClientBase : IDisposable
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BackoffDelaySeconds](../../aspose.pdf.ai/aiclientbase/backoffdelayseconds/) { get; set; } | Hämtar eller ställer in backoff-fördröjningen i sekunder. |
-| [HttpRequestMaxRetries](../../aspose.pdf.ai/aiclientbase/httprequestmaxretries/) { get; set; } | Hämtar eller ställer in det maximala antalet HTTP-förfrågningsåterförsök. |
-| [PollingIntervalSeconds](../../aspose.pdf.ai/aiclientbase/pollingintervalseconds/) { get; set; } | Hämtar eller ställer in pollingintervallet i sekunder. |
-| [PollingTimeoutSeconds](../../aspose.pdf.ai/aiclientbase/pollingtimeoutseconds/) { get; set; } | Hämtar eller ställer in pollingtimeouten i sekunder. |
+| [BackoffDelaySeconds](../../aspose.pdf.ai/aiclientbase/backoffdelayseconds/) { get; set; } | Hämtar eller anger backoff-fördröjning i sekunder. |
+| [HttpRequestMaxRetries](../../aspose.pdf.ai/aiclientbase/httprequestmaxretries/) { get; set; } | Hämtar eller anger maximalt antal HTTP-förfrågningsförsök. |
+| [PollingIntervalSeconds](../../aspose.pdf.ai/aiclientbase/pollingintervalseconds/) { get; set; } | Hämtar eller anger pollingintervall i sekunder. |
+| [PollingTimeoutSeconds](../../aspose.pdf.ai/aiclientbase/pollingtimeoutseconds/) { get; set; } | Hämtar eller anger polling-timeout i sekunder. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | Frigör de resurser som används av `AIClientBase`. |
+| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | Frigör resurserna som används av `AIClientBase`. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

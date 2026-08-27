@@ -1,22 +1,24 @@
 ---
-title: Heading.UserLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Heading-egenskap. Hämtar eller ställer in användarens etikett
+title: "Heading.UserLabel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Heading-egenskap. Hämtar eller anger användaretikett"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/heading/userlabel/
 ---
-## Heading.UserLabel-egenskap
+## Heading.UserLabel property
 
-Hämtar eller ställer in användarens etikett.
+Hämtar eller anger användarlabel.
 
 ```csharp
 public TextSegment UserLabel { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextSegment](../../../aspose.pdf.text/textsegment/)
-* klass [Heading](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextSegment](../../../aspose.pdf.text/textsegment/)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.IsPercent
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue-egenskap. Får true om värdet uttrycks i procent, False om värdet uttrycks i standardenheter
+title: "PdfFileEditor.ContentsResizeValue.IsPercent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ContentsResizeValue-egenskap. Returnerar true om värdet uttrycks i procent, false om värdet uttrycks i standardenheter"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/ispercent/
 ---
-## PdfFileEditor.ContentsResizeValue.IsPercent-egenskap
+## PdfFileEditor.ContentsResizeValue.IsPercent property
 
-Får true om värdet uttrycks i procent; False om värdet uttrycks i standardenheter.
+Returnerar true om värdet uttrycks i procent; False om värdet uttrycks i standardenheter.
 
 ```csharp
 public bool IsPercent { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeValue](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

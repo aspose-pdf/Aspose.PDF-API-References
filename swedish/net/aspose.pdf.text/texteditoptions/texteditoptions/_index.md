@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions-konstruktorn. Initierar en ny instans av TextEditOptions-objektet för den angivna nocharacter-beteendemodellen
+title: "TextEditOptions.TextEditOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextEditOptions-konstruktor. Initierar en ny instans av TextEditOptions-objektet för det angivna beteendemodet utan tecken"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/texteditoptions/texteditoptions/
 ---
 ## TextEditOptions(NoCharacterAction) {#constructor_3}
 
-Initierar en ny instans av [`TextEditOptions`](../) objektet för den angivna no-character-beteendemodellen.
+Initierar en ny instans av [`TextEditOptions`](../) objektet för det angivna beteendemodet utan tecken.
 
 ```csharp
 public TextEditOptions(NoCharacterAction noCharacterBehavior)
@@ -16,9 +16,9 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| noCharacterBehavior | NoCharacterAction | Objekt för no-character-beteendemodell. |
+| noCharacterBehavior | NoCharacterAction | Objekt för beteendemodet utan tecken. |
 
-### Se Även
+### Se även
 
 * enum [NoCharacterAction](../../texteditoptions.nocharacteraction/)
 * class [TextEditOptions](../)
@@ -29,7 +29,7 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 ## TextEditOptions(FontReplace) {#constructor_1}
 
-Initierar en ny instans av [`TextEditOptions`](../) objektet för den angivna font replacement-beteendemodellen.
+Initierar en ny instans av [`TextEditOptions`](../) objektet för det angivna beteendemodet för teckensnittsersättning.
 
 ```csharp
 public TextEditOptions(FontReplace fontReplaceBehavior)
@@ -37,9 +37,9 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontReplaceBehavior | FontReplace | Objekt för font replace-beteende. |
+| fontReplaceBehavior | FontReplace | Objekt för teckensnittsersättningsbeteende. |
 
-### Se Även
+### Se även
 
 * enum [FontReplace](../../texteditoptions.fontreplace/)
 * class [TextEditOptions](../)
@@ -50,7 +50,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 ## TextEditOptions(bool) {#constructor}
 
-Initierar en ny instans av [`TextEditOptions`](../) objektet för den angivna språktransformationstillståndet.
+Initierar en ny instans av [`TextEditOptions`](../) objektet för den angivna behörigheten för språktransformation.
 
 ```csharp
 public TextEditOptions(bool allowLanguageTransformation)
@@ -58,9 +58,9 @@ public TextEditOptions(bool allowLanguageTransformation)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| allowLanguageTransformation | Boolean | Tillåter språktransformation om det är inställt på true. |
+| allowLanguageTransformation | Boolean | Tillåter språktransformation om den är satt till true. |
 
-### Se Även
+### Se även
 
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -70,7 +70,7 @@ public TextEditOptions(bool allowLanguageTransformation)
 
 ## TextEditOptions(LanguageTransformation) {#constructor_2}
 
-Initierar en ny instans av [`TextEditOptions`](../) objektet för den angivna språktransformation-beteendemodellen.
+Initierar en ny instans av [`TextEditOptions`](../) objektet för det angivna beteendemodet för språktransformation.
 
 ```csharp
 public TextEditOptions(LanguageTransformation languageTransformationBehavior)
@@ -78,11 +78,13 @@ public TextEditOptions(LanguageTransformation languageTransformationBehavior)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| languageTransformationBehavior | LanguageTransformation | Objekt för språktransformation-beteende. |
+| languageTransformationBehavior | LanguageTransformation | Objekt för språktransformationsbeteende. |
 
-### Se Även
+### Se även
 
 * enum [LanguageTransformation](../../texteditoptions.languagetransformation/)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Image.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Bildmetod. Klona bilden
+title: "Image.Clone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Image-metod. Klonar bilden"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/image/clone/
 ---
-## Image.Clone metod
+## Image.Clone method
 
 Klona bilden.
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 Det klonade objektet
 
-### Se Även
+### Se även
 
-* klass [Image](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

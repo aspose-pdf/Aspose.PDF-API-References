@@ -1,12 +1,12 @@
 ---
-title: EmfDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: EmfDevice-metod. Konverterar sidan till emf och sparar den i utdataflödet
+title: "EmfDevice.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EmfDevice-metoden. Konverterar sidan till emf och sparar den i utdataströmmen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.devices/emfdevice/process/
 ---
-## EmfDevice.Process metod
+## EmfDevice.Process method
 
 Konverterar sidan till emf och sparar den i utdataflödet.
 
@@ -16,12 +16,14 @@ public override void Process(Page page, Stream output)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sidan som ska konverteras. |
-| output | Stream | Utdataström med emf-bild. |
+| sida | Page | Sidan som ska konverteras. |
+| utdata | Stream | Utdatastream med emf-bild. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [EmfDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Page](../../../aspose.pdf/page/)
+* class [EmfDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: DocumentCollection.TextDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentCollection-egenskap. Hämtar eller ställer in samlingen av textdokument som ska behandlas
+title: "DocumentCollection.TextDocuments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentCollection egenskap. Hämtar eller anger samlingen av textdokument som ska bearbetas."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/documentcollection/textdocuments/
 ---
-## DocumentCollection.TextDocuments-egenskap
+## DocumentCollection.TextDocuments property
 
-Hämtar eller ställer in samlingen av textdokument som ska behandlas.
+Hämtar eller anger samlingen av textdokument som ska bearbetas.
 
 ```csharp
 public List<TextDocument> TextDocuments { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextDocument](../../textdocument/)
-* klass [DocumentCollection](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [DocumentCollection](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

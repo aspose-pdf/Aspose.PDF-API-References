@@ -1,14 +1,14 @@
 ---
-title: PDF3DCrossSectionArray.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray-egenskap. Hämtar eller ställer in PDF3DCrossSection vid det angivna indexet
+title: "PDF3DCrossSectionArray.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DCrossSectionArray‑egenskap. Hämtar eller anger PDF3DCrossSection på det angivna indexet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/pdf3dcrosssectionarray/item/
 ---
 ## PDF3DCrossSectionArray indexer
 
-Hämtar eller ställer in den [`PDF3DCrossSection`](../../pdf3dcrosssection/) vid det angivna indexet.
+Hämtar eller anger [`PDF3DCrossSection`](../../pdf3dcrosssection/) på det angivna indexet.
 
 ```csharp
 public PDF3DCrossSection this[int index] { get; set; }
@@ -26,11 +26,13 @@ Tvärsnitt.
 
 | undantag | villkor |
 | --- | --- |
-| IndexOutOfRangeException | Ogiltigt index: indexet bör vara inom intervallet [1..n] där n är antalet tvärsnitt. |
+| IndexOutOfRangeException | Ogiltigt index: indexet bör ligga i intervallet [1..n] där n är lika med antalet tvärsnitt. |
 
-### Se Även
+### Se även
 
-* klass [PDF3DCrossSection](../../pdf3dcrosssection/)
-* klass [PDF3DCrossSectionArray](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DCrossSection](../../pdf3dcrosssection/)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

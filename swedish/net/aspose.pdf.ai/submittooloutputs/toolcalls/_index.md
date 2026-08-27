@@ -1,22 +1,24 @@
 ---
-title: SubmitToolOutputs.ToolCalls
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitToolOutputs-egenskap. Hämtar eller ställer in en lista över relevanta verktygsanrop
+title: "SubmitToolOutputs.ToolCalls"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SubmitToolOutputs-egenskap. Hämtar eller anger en lista över de relevanta verktygsanropen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/submittooloutputs/toolcalls/
 ---
-## SubmitToolOutputs.ToolCalls-egenskap
+## SubmitToolOutputs.ToolCalls property
 
-Hämtar eller ställer in en lista över relevanta verktygsanrop.
+Hämtar eller anger en lista över de relevanta verktygsanropen.
 
 ```csharp
 public List<ToolCall> ToolCalls { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ToolCall](../../toolcall/)
-* klass [SubmitToolOutputs](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ToolCall](../../toolcall/)
+* class [SubmitToolOutputs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

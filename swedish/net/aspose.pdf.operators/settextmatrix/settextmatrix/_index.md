@@ -1,14 +1,14 @@
 ---
-title: SetTextMatrix.SetTextMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextMatrix-konstruktör. Initierar operatör
+title: "SetTextMatrix.SetTextMatrix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetTextMatrix-konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/settextmatrix/settextmatrix/
 ---
 ## SetTextMatrix(double, double, double, double, double, double) {#constructor_1}
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public SetTextMatrix(double a, double b, double c, double d, double e, double f)
@@ -16,24 +16,24 @@ public SetTextMatrix(double a, double b, double c, double d, double e, double f)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| a | Double | En koefficient |
-| b | Double | B koefficient |
-| c | Double | C koefficient |
-| d | Double | D koefficient |
-| e | Double | E koefficient |
-| f | Double | F koefficient |
+| a | Double | A-koefficient |
+| b | Double | B-koefficient |
+| c | Double | C-koefficient |
+| d | Double | D-koefficient |
+| e | Double | E-koefficient |
+| f | Double | F-koefficient |
 
-### Se Även
+### Se även
 
-* klass [SetTextMatrix](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetTextMatrix(Matrix) {#constructor}
 
-Initierar operatör med matris.
+Initierar operatorn med en matris.
 
 ```csharp
 public SetTextMatrix(Matrix m)
@@ -41,11 +41,13 @@ public SetTextMatrix(Matrix m)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| m | Matrix | Transformationsmatris. |
+| m | Matrix | Transfomation matris. |
 
-### Se Även
+### Se även
 
-* klass [Matrix](../../../aspose.pdf/matrix/)
-* klass [SetTextMatrix](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

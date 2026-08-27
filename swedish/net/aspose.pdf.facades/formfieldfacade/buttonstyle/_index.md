@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.ButtonStyle
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade property. The style of check box or radio box field defined by FormFieldFacade.CheckBoxStyle
+title: "FormFieldFacade.ButtonStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade property. Stilen för kryssruta eller radioknappfält definierad av FormFieldFacade.CheckBoxStyle"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/formfieldfacade/buttonstyle/
 ---
-## FormFieldFacade.ButtonStyle-egenskap
+## FormFieldFacade.ButtonStyle property
 
-Stilen för kryssruta eller radioknappfält, definierad av FormFieldFacade.CheckBoxStyle*.
+Stilen på kryssruta‑ eller radioknappsfält, definierad av FormFieldFacade.CheckBoxStyle*.
 
 ```csharp
 public int ButtonStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

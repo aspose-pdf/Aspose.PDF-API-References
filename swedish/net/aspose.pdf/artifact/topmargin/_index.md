@@ -1,21 +1,23 @@
 ---
-title: Artifact.TopMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-egenskap. Övre marginal av artefakt. Om positionen anges uttryckligen i Position-egenskapen ignoreras detta värde
+title: "Artifact.TopMargin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact egenskap. Övre marginal för artefakten. Om position anges explicit i Position-egenskapen ignoreras detta värde"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf/artifact/topmargin/
 ---
-## Artifact.TopMargin-egenskap
+## Artifact.TopMargin property
 
-Övre marginal av artefakt. Om positionen anges uttryckligen (i Position-egenskapen) ignoreras detta värde.
+Övre marginal för artefakten. Om position anges explicit (i egenskapen Position) ignoreras detta värde.
 
 ```csharp
 public double TopMargin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

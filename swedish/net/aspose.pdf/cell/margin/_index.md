@@ -1,22 +1,24 @@
 ---
-title: Cell.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Cell-egenskap. Hämtar eller ställer in padding
+title: "Cell.Margin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cell-egenskap. Hämtar eller anger utfyllnaden"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/cell/margin/
 ---
-## Cell.Margin-egenskap
+## Cell.Margin property
 
-Hämtar eller ställer in padding.
+Hämtar eller anger utfyllnaden.
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../../margininfo/)
-* klass [Cell](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

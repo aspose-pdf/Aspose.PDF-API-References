@@ -1,22 +1,24 @@
 ---
-title: TocInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo-egenskap. Hämtar eller ställer in titeln för innehållsförteckningen
+title: "TocInfo.Title"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TocInfo-egenskap. Hämtar eller anger titel för innehållsförteckning"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/tocinfo/title/
 ---
-## TocInfo.Title-egenskap
+## TocInfo.Title property
 
-Hämtar eller ställer in titeln för innehållsförteckningen.
+Hämtar eller anger titel för innehållsförteckning.
 
 ```csharp
 public TextFragment Title { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragment](../../../aspose.pdf.text/textfragment/)
-* klass [TocInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

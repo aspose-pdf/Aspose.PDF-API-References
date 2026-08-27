@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.DegradedPrinting
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege-egenskap. Möjliggör försämrad utskrift
+title: "DocumentPrivilege.DegradedPrinting"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege egenskap. Tillåter degraderad utskrift"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/documentprivilege/degradedprinting/
 ---
-## DocumentPrivilege.DegradedPrinting-egenskap
+## DocumentPrivilege.DegradedPrinting property
 
-Möjliggör försämrad utskrift.
+Tillåter degraderad utskrift.
 
 ```csharp
 public static DocumentPrivilege DegradedPrinting { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

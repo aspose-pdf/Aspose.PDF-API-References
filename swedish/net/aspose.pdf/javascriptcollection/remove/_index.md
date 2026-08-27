@@ -1,12 +1,12 @@
 ---
-title: JavaScriptCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: JavaScriptCollection-metod. Tar bort JavaScript efter dess namn
+title: "JavaScriptCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "JavaScriptCollection-metod. Tar bort JavaScript efter dess namn"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/javascriptcollection/remove/
 ---
-## JavaScriptCollection.Remove metod
+## JavaScriptCollection.Remove method
 
 Tar bort JavaScript efter dess namn.
 
@@ -16,14 +16,16 @@ public bool Remove(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckelvärde. |
+| nyckel | String | Nyckelvärde. |
 
 ### Returvärde
 
-Sant - om JavaScript togs bort; annars, falskt.
+Sant - om javascript togs bort; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [JavaScriptCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

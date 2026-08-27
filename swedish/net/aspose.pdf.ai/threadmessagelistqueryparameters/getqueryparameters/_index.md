@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageListQueryParameters-metod. Hämtar frågeparametrarna för att lista trådmeddelanden
+title: "ThreadMessageListQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageListQueryParameters‑metod. Hämtar frågeparametrarna för att lista trådmeddelanden"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/threadmessagelistqueryparameters/getqueryparameters/
 ---
-## ThreadMessageListQueryParameters.GetQueryParameters metod
+## ThreadMessageListQueryParameters.GetQueryParameters method
 
 Hämtar frågeparametrarna för att lista trådmeddelanden.
 
@@ -16,10 +16,12 @@ public string GetQueryParameters()
 
 ### Returvärde
 
-Frågeparametrarna som en sträng.
+Strängen med frågeparametrar.
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageListQueryParameters](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ThreadMessageListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

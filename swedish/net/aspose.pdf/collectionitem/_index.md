@@ -1,14 +1,14 @@
 ---
-title: Class CollectionItem
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CollectionItem klass. Representerar en klass för samlingsobjekt. Samlingsobjektet innehåller de data som beskrivs av samlingsschemat
+title: "Klass CollectionItem"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.CollectionItem klass. Representerar en samlingsobjektklass. Samlingsobjektet innehåller data som beskrivs av samlingsschemat."
 type: docs
-weight: 3050
+weight: 3160
 url: /sv/net/aspose.pdf/collectionitem/
 ---
-## CollectionItem klass
+## CollectionItem class
 
-Representerar en klass för samlingsobjekt. Samlingsobjektet innehåller de data som beskrivs av samlingsschemat.
+Representerar en klass för ett samlingsobjekt. Samlingsobjektet innehåller de data som beskrivs av samlingsschemat.
 
 ```csharp
 public class CollectionItem
@@ -18,7 +18,7 @@ public class CollectionItem
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AllNames](../../aspose.pdf/collectionitem/allnames/) { get; } | Hämtar en samling av alla namn på värdena i samlingsobjektet. |
+| [AllNames](../../aspose.pdf/collectionitem/allnames/) { get; } | Hämtar en samling av alla namn på samlingsobjektets värden. |
 | [IsEmpty](../../aspose.pdf/collectionitem/isempty/) { get; } | Hämtar ett värde som indikerar om samlingsobjektet är tomt. |
 
 ## Metoder
@@ -31,13 +31,15 @@ public class CollectionItem
 | [TryGetIntValue](../../aspose.pdf/collectionitem/trygetintvalue/)(string, out Value&lt;int&gt;) |  |
 | [TryGetTextValue](../../aspose.pdf/collectionitem/trygettextvalue/)(string, out Value&lt;string&gt;) |  |
 
-## Andra Medlemmar
+## Övriga medlemmar
 
 | Namn | Beskrivning |
 | --- | --- |
-| class [Value&lt;T&gt;](../../aspose.pdf/collectionitem.value-1) | Representerar en klass för ett värde av samlingsobjekt. |
+| class [Value&lt;T&gt;](../../aspose.pdf/collectionitem.value-1) | Representerar en klass för ett värde av ett samlingsobjekt. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

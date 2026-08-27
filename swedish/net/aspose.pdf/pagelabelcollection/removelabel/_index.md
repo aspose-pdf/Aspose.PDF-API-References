@@ -1,14 +1,14 @@
 ---
-title: PageLabelCollection.RemoveLabel
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabelCollection metod. Ta bort etikett efter sidindex, sidindex börjar från 0
+title: "PageLabelCollection.RemoveLabel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageLabelCollection-metod. Ta bort etikett efter sidindex, sidindex börjar från 0"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/pagelabelcollection/removelabel/
 ---
-## PageLabelCollection.RemoveLabel metod
+## PageLabelCollection.RemoveLabel method
 
-Ta bort etikett efter sidindex (sidindex börjar från 0).
+Tar bort etikett efter sidindex (sidindex startar från 0).
 
 ```csharp
 public bool RemoveLabel(int pageIndex)
@@ -16,14 +16,16 @@ public bool RemoveLabel(int pageIndex)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageIndex | Int32 | Index för sidan där etiketten måste tas bort. |
+| pageIndex | Int32 | Index för sidan där etiketten ska tas bort. |
 
 ### Returvärde
 
 true om operationen utfördes framgångsrikt.
 
-### Se Även
+### Se även
 
-* klass [PageLabelCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

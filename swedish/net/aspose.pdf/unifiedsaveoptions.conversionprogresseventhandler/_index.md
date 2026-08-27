@@ -1,22 +1,24 @@
 ---
-title: Delegate UnifiedSaveOptions.ConversionProgressEventHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Representerar metod som vanligtvis tillhandahålls av anropande sida och hanterar framstegshändelser som kommer från konverteraren. Vanligtvis kan en sådan tillhandahållen kundhanterare användas för att visa den totala konverteringsframstegen på konsolen eller i en framstegsindikator. representerar information om inträffad framstegshändelse
+title: "Delegat UnifiedSaveOptions.ConversionProgressEventHandler"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Representerar en metod som vanligtvis tillhandahålls av anropande sida och hanterar förloppshändelser som kommer från konverteraren. Sådan levererad kundhanterare kan vanligtvis användas för att visa total konverteringsprogress på konsolen eller i en förloppsindikator. Representerar information om inträffad förloppshändelse."
 type: docs
-weight: 11150
+weight: 11340
 url: /sv/net/aspose.pdf/unifiedsaveoptions.conversionprogresseventhandler/
 ---
-## UnifiedSaveOptions.ConversionProgressEventHandler-delegat
+## UnifiedSaveOptions.ConversionProgressEventHandler delegate
 
-Representerar metod som vanligtvis tillhandahålls av anropande sida och hanterar framstegshändelser som kommer från konverteraren. Vanligtvis kan en sådan tillhandahållen kundhanterare användas för att visa den totala konverteringsframstegen på konsolen eller i en framstegsindikator. representerar information om inträffad framstegshändelse
+Representerar en metod som vanligtvis tillhandahålls av anropande sida och hanterar förloppshändelser som kommer från konverteraren. Sådan levererad kunds hanterare kan vanligtvis användas för att visa total konverteringsprogress på konsolen eller i en förloppsindikator. Representerar information om inträffad förloppshändelse.
 
 ```csharp
 public delegate void ConversionProgressEventHandler(ProgressEventHandlerInfo eventInfo);
 ```
 
-### Se Även
+### Se även
 
-* klass [ProgressEventHandlerInfo](../unifiedsaveoptions.progresseventhandlerinfo/)
-* klass [UnifiedSaveOptions](../unifiedsaveoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [ProgressEventHandlerInfo](../unifiedsaveoptions.progresseventhandlerinfo/)
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

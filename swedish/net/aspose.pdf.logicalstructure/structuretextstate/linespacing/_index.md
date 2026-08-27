@@ -1,25 +1,27 @@
 ---
-title: StructureTextState.LineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState-egenskap. Hämtar eller ställer in radavståndet för texten
+title: "StructureTextState.LineSpacing"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTextState egenskap. Hämtar eller anger radavstånd för texten"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.logicalstructure/structuretextstate/linespacing/
 ---
-## StructureTextState.LineSpacing-egenskap
+## StructureTextState.LineSpacing property
 
-Hämtar eller ställer in radavståndet för texten.
+Hämtar eller anger radavståndet för texten.
 
 ```csharp
 public float? LineSpacing { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Kan vara null. Använd null för att ärva `LineSpacing`-egenskapen från överordnat strukturelement.
+Kan vara null. Använd null för att ärva `LineSpacing`-egenskapen från förälderelementet i strukturen.
 
-### Se Även
+### Se även
 
-* klass [StructureTextState](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

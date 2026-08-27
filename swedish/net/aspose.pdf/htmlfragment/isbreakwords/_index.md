@@ -1,21 +1,23 @@
 ---
-title: HtmlFragment.IsBreakWords
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment-egenskap. Hämtar eller ställer in ordavbrott
+title: "HtmlFragment.IsBreakWords"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlFragment property. Hämtar eller anger ordbrytning"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/htmlfragment/isbreakwords/
 ---
-## HtmlFragment.IsBreakWords-egenskap
+## HtmlFragment.IsBreakWords property
 
-Hämtar eller ställer in ordavbrott
+Hämtar eller anger ordbrytning
 
 ```csharp
 public bool IsBreakWords { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlFragment](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

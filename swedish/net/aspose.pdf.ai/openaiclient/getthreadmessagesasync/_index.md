@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetThreadMessagesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Hämtar en lista med meddelanden för en specifik tråd asynkront
+title: "OpenAIClient.GetThreadMessagesAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient-metod. Hämtar en lista med meddelanden för en specifik tråd asynkront"
 type: docs
-weight: 320
+weight: 330
 url: /sv/net/aspose.pdf.ai/openaiclient/getthreadmessagesasync/
 ---
-## OpenAIClient.GetThreadMessagesAsync metod
+## OpenAIClient.GetThreadMessagesAsync method
 
 Hämtar en lista med meddelanden för en specifik tråd asynkront.
 
@@ -18,24 +18,26 @@ public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadId | Sträng | ID:t för tråden att hämta meddelanden från. |
+| threadId | String | ID för tråden att hämta meddelanden från. |
 | queryParameters | ThreadMessageListQueryParameters | Valfria frågeparametrar för att filtrera listan med meddelanden. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftens resultat innehåller en lista med trådmeddelanden.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller en lista med trådmeldanden.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när tråd-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när tråd-Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageListResponse](../../threadmessagelistresponse/)
-* klass [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadMessageListResponse](../../threadmessagelistresponse/)
+* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

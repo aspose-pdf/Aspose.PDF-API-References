@@ -1,21 +1,23 @@
 ---
-title: RenderingOptions.InterpolationHighQuality
-second_title: Aspose.PDF for .NET API Reference
-description: RenderingOptions-egenskap. Hämtar eller ställer in högkvalitetsläge för interpolation
+title: "RenderingOptions.InterpolationHighQuality"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RenderingOptions-egenskapen. Hämtar eller ställer in högkvalitetsläge för interpolering"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/renderingoptions/interpolationhighquality/
 ---
-## RenderingOptions.InterpolationHighQuality-egenskap
+## RenderingOptions.InterpolationHighQuality property
 
-Hämtar eller ställer in högkvalitetsläge för interpolation.
+Hämtar eller anger högkvalitetsläge för interpolering.
 
 ```csharp
 public bool InterpolationHighQuality { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RenderingOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

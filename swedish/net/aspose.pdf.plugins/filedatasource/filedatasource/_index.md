@@ -1,14 +1,14 @@
 ---
-title: FileDataSource.FileDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: FileDataSource-konstruktorn. Initierar en ny fildatasource med den angivna sökvägen
+title: "FileDataSource.FileDataSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileDataSource konstruktor. Initierar en ny fil‑datakälla med den angivna sökvägen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/filedatasource/filedatasource/
 ---
-## FileDataSource-konstruktorn
+## FileDataSource constructor
 
-Initierar en ny fildatasource med den angivna sökvägen.
+Initierar en ny fildatakälla med den angivna sökvägen.
 
 ```csharp
 public FileDataSource(string path)
@@ -16,10 +16,12 @@ public FileDataSource(string path)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| path | Sträng | En sträng som representerar sökvägen till källfilen. |
+| sökväg | String | En sträng som representerar sökvägen till källfilen. |
 
-### Se Även
+### Se även
 
-* klass [FileDataSource](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileDataSource](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

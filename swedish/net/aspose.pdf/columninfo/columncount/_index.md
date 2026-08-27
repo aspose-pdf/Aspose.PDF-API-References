@@ -1,21 +1,23 @@
 ---
-title: ColumnInfo.ColumnCount
-second_title: Aspose.PDF for .NET API Reference
-description: ColumnInfo-egenskap. Hämtar eller ställer in ett int-värde som indikerar antalet kolumner
+title: "ColumnInfo.ColumnCount"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ColumnInfo‑egenskap. Hämtar eller anger ett heltalsvärde som indikerar antalet kolumner"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/columninfo/columncount/
 ---
-## ColumnInfo.ColumnCount-egenskap
+## ColumnInfo.ColumnCount property
 
-Hämtar eller ställer in ett int-värde som indikerar antalet kolumner.
+Hämtar eller anger ett heltalsvärde som indikerar antalet kolumner.
 
 ```csharp
 public int ColumnCount { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ColumnInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ColumnInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

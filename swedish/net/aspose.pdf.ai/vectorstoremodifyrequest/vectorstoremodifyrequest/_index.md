@@ -1,21 +1,23 @@
 ---
-title: VectorStoreModifyRequest.VectorStoreModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor för VectorStoreModifyRequest. Den förvalda konstruktorn
+title: "VectorStoreModifyRequest.VectorStoreModifyRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreModifyRequest constructor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/vectorstoremodifyrequest/vectorstoremodifyrequest/
 ---
-## Konstruktor för VectorStoreModifyRequest
+## VectorStoreModifyRequest constructor
 
-Den förvalda konstruktorn.
+Standardkonstruktorn.
 
 ```csharp
 public VectorStoreModifyRequest()
 ```
 
-### Se Även
+### Se även
 
-* klass [VectorStoreModifyRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [VectorStoreModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

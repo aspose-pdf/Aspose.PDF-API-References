@@ -1,22 +1,24 @@
 ---
-title: TextExtractionErrorLocation.TextStartPoint
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation-egenskap. Nyckelnamn för PDF-teckensnittobjektet som används för att visa operatören som orsakar textutvinningsfel
+title: "TextExtractionErrorLocation.TextStartPoint"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextExtractionErrorLocation-egenskapen. Nyckelnamnet för PDF Font-objektet som används för att visa operatorn som orsakar fel vid textutdragning"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.text/textextractionerrorlocation/textstartpoint/
 ---
-## TextExtractionErrorLocation.TextStartPoint-egenskap
+## TextExtractionErrorLocation.TextStartPoint property
 
-Nyckel (namn) för PDF-teckensnittobjektet som används för att visa operatören som orsakar textutvinningsfel.
+Nyckel (namn) för PDF Font-objektet som används för att visa operatorn som orsakar textutvinningsfel.
 
 ```csharp
 public Point TextStartPoint { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../../../aspose.pdf/point/)
-* klass [TextExtractionErrorLocation](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

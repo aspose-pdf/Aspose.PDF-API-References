@@ -1,14 +1,14 @@
 ---
-title: Enum IconCaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.IconCaptionPosition enum. Beskriver positionen för ikonen
+title: "Enum IconCaptionPosition"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Forms.IconCaptionPosition-enum. Beskriver ikonens position."
 type: docs
-weight: 5110
+weight: 5230
 url: /sv/net/aspose.pdf.forms/iconcaptionposition/
 ---
-## IconCaptionPosition-uppräkning
+## IconCaptionPosition enumeration
 
-Beskriver positionen för ikonen.
+Beskriver ikonens position.
 
 ```csharp
 public enum IconCaptionPosition
@@ -18,15 +18,17 @@ public enum IconCaptionPosition
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| NoIcon | `0` | Ikonen visas inte. |
-| NoCaption | `1` | Texten visas inte. |
-| CaptionBelowIcon | `2` | Texten är under ikonen. |
-| CaptionAboveIcon | `3` | Texten är ovanför ikonen. |
-| CaptionToTheRight | `4` | Texten är till höger. |
-| CaptionToTheLeft | `5` | Texten är till vänster. |
-| CaptionOverlaid | `6` | Texten är överlagd. |
+| NoIcon | `0` | Ikon visas inte. |
+| NoCaption | `1` | Rubrik visas inte. |
+| CaptionBelowIcon | `2` | Rubrik är under ikonen. |
+| CaptionAboveIcon | `3` | Rubrik är över ikonen. |
+| CaptionToTheRight | `4` | Rubrik till höger. |
+| CaptionToTheLeft | `5` | Rubrik till vänster. |
+| CaptionOverlaid | `6` | Rubrik överlagrad. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

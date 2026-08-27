@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.DecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity-metod. Avkrypterar ett krypterat Pdf-dokument med ägarens lösenord. Om dokumentet inte har ägarens lösenord är det tillåtet att använda användarens lösenord. Kastar ett undantag om processen misslyckas
+title: "PdfFileSecurity.DecryptFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSecurity‑metod. Dekrypterar ett krypterat Pdf‑dokument med ägarlösenordet. Om dokumentet saknar ägarlösenord tillåts användning av användarlösenordet. Kastar ett undantag om processen misslyckas."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.facades/pdffilesecurity/decryptfile/
 ---
-## PdfFileSecurity.DecryptFile metod
+## PdfFileSecurity.DecryptFile method
 
-Avkrypterar ett krypterat Pdf-dokument med ägarens lösenord. Om dokumentet inte har ägarens lösenord, är det tillåtet att använda användarens lösenord. Kastar ett undantag om processen misslyckas.
+Dekrypterar ett krypterat Pdf‑dokument med ägarlösenord. Om dokumentet saknar ägarlösenord tillåts användning av användarlösenord. Kastar ett undantag om processen misslyckas.
 
 ```csharp
 public bool DecryptFile(string ownerPassword)
@@ -16,7 +16,7 @@ public bool DecryptFile(string ownerPassword)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ownerPassword | Sträng | Ägarens lösenord. |
+| ownerPassword | String | Ägarlösenord. |
 
 ### Returvärde
 
@@ -38,8 +38,10 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.DecryptFile("ownerpass")
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

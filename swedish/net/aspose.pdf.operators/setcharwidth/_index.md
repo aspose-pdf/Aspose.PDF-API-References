@@ -1,14 +1,14 @@
 ---
-title: Class SetCharWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetCharWidth klass. Klass som representerar d0-operatorn för att ställa in glyph-bredd
+title: "Klass SetCharWidth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetCharWidth klass. Klass som representerar d0-operatorn som sätter glyfbredd"
 type: docs
-weight: 7600
+weight: 7740
 url: /sv/net/aspose.pdf.operators/setcharwidth/
 ---
-## SetCharWidth klass
+## SetCharWidth class
 
-Klass som representerar d0-operatorn (ställer in glyph-bredd).
+Klass som representerar d0-operatorn (ställer in glyfbredd).
 
 ```csharp
 public class SetCharWidth : Operator
@@ -18,26 +18,28 @@ public class SetCharWidth : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SetCharWidth](setcharwidth/)(double, double) | Konstruktör. |
+| [SetCharWidth](setcharwidth/)(double, double) | Konstruktor. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatörens index i sidans operatörslista. |
-| [Wx](../../aspose.pdf.operators/setcharwidth/wx/) { get; } | Horisontell förskjutning av glyph-koordinat. |
-| [Wy](../../aspose.pdf.operators/setcharwidth/wy/) { get; } | Vertikal förskjutning av glyph-koordinat. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [Wx](../../aspose.pdf.operators/setcharwidth/wx/) { get; } | Horisontell förskjutning av glyfkoordinat. |
+| [Wy](../../aspose.pdf.operators/setcharwidth/wy/) { get; } | Vertikal förskjutning av glyfkoordinat. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcharwidth/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatören. |
-| override [ToString](../../aspose.pdf.operators/setcharwidth/tostring/)() | Returnerar textrepresentation av operatören. |
+| override [Accept](../../aspose.pdf.operators/setcharwidth/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
+| override [ToString](../../aspose.pdf.operators/setcharwidth/tostring/)() | Returnerar textrepresentation av operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

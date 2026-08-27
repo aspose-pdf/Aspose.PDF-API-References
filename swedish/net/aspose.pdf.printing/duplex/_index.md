@@ -1,29 +1,31 @@
 ---
-title: Enum Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.Duplex enum. Anger printerns duplexinställning
+title: "Enum Duplex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Printing.Duplex enum. Anger skrivarens duplexinställning"
 type: docs
-weight: 9530
+weight: 9680
 url: /sv/net/aspose.pdf.printing/duplex/
 ---
 ## Duplex enumeration
 
-Anger printerns duplexinställning.
+Anger skrivarens duplexinställning.
 
 ```csharp
 public enum Duplex
 ```
 
-### Values
+### Värden
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Default | `-1` | Printerns standard duplexinställning. |
-| Simplex | `1` | Enkelsidig utskrift. |
-| Horizontal | `3` | Dubbel-sidig, horisontell utskrift. |
-| Vertical | `2` | Dubbel-sidig, vertikal utskrift. |
+| Default | `-1` | Skrivarens standardduplexinställning. |
+| Simplex | `1` | Ensidig utskrift. |
+| Horizontal | `3` | Dubbelsidig, horisontell utskrift. |
+| Vertical | `2` | Dubbelsidig, vertikal utskrift. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

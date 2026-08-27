@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.AddRange
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType metod. Lägger till intervallet av fält
+title: "XmpPdfAExtensionValueType.AddRange"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionValueType metod. Lägger till intervallet av fält"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/xmppdfaextensionvaluetype/addrange/
 ---
-## XmpPdfAExtensionValueType.AddRange metod
+## XmpPdfAExtensionValueType.AddRange method
 
 Lägger till intervallet av fält.
 
@@ -16,11 +16,13 @@ public void AddRange(XmpPdfAExtensionField[] fields)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fields | XmpPdfAExtensionField[] | Fälten som ska läggas till. |
+| fält | XmpPdfAExtensionField[] | Fälten att lägga till. |
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* klass [XmpPdfAExtensionValueType](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection egenskap. Antal bilder i samlingen
+title: "XImageCollection.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImageCollection-egenskap. Antal bilder i samlingen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/ximagecollection/count/
 ---
-## XImageCollection.Count egenskap
+## XImageCollection.Count property
 
 Antal bilder i samlingen.
 
@@ -14,8 +14,10 @@ Antal bilder i samlingen.
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XImageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

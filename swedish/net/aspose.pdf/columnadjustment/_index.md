@@ -1,14 +1,14 @@
 ---
-title: Enum ColumnAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColumnAdjustment enum. Uppräkning av kolumnjusteringstyper
+title: "Enum ColumnAdjustment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ColumnAdjustment enum. Enumererar kolumnjusteringstyper"
 type: docs
-weight: 3110
+weight: 3220
 url: /sv/net/aspose.pdf/columnadjustment/
 ---
-## ColumnAdjustment-uppräkning
+## ColumnAdjustment enumeration
 
-Uppräkning av kolumnjusteringstyper.
+Enumererar kolumnjusteringstyper.
 
 ```csharp
 public enum ColumnAdjustment
@@ -22,7 +22,9 @@ public enum ColumnAdjustment
 | AutoFitToContent | `1` | Automatisk anpassning till innehåll. |
 | AutoFitToWindow | `2` | Automatisk anpassning till fönster. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

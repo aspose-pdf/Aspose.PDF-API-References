@@ -1,12 +1,12 @@
 ---
-title: Class LlamaSummaryCopilotOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.LlamaSummaryCopilotOptions klass. Representerar alternativen för att konfigurera OpenAICopilot
+title: "Klass LlamaSummaryCopilotOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.LlamaSummaryCopilotOptions‑klass. Representerar alternativ för att konfigurera OpenAICopilot"
 type: docs
-weight: 750
+weight: 800
 url: /sv/net/aspose.pdf.ai/llamasummarycopilotoptions/
 ---
-## LlamaSummaryCopilotOptions klass
+## LlamaSummaryCopilotOptions class
 
 Representerar alternativen för att konfigurera OpenAICopilot.
 
@@ -19,38 +19,40 @@ public class LlamaSummaryCopilotOptions : LlamaCopilotOptionsBase,
 
 | Namn | Beskrivning |
 | --- | --- |
-| [DocumentCollection](../../aspose.pdf.ai/llamacopilotoptionsbase/documentcollection/) { get; set; } | Hämtar eller ställer in samlingen av dokument som ska behandlas. |
-| [MaxCompletionTokens](../../aspose.pdf.ai/llamacopilotoptionsbase/maxcompletiontokens/) { get; set; } | Hämtar eller ställer in det maximala antalet fullföljningstokens som kan användas under körningen. |
-| virtual [Model](../../aspose.pdf.ai/llamacopilotoptionsbase/model/) { get; set; } | Hämtar eller ställer in modellen som ska användas för assistenten. |
-| [SummaryPrompt](../../aspose.pdf.ai/llamasummarycopilotoptions/summaryprompt/) { get; set; } | Hämtar eller ställer in prompten för att instruera modellen att ge en dokument sammanfattning. |
-| [SystemInstructions](../../aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions/) { get; set; } | Hämtar eller ställer in filvägen för textfilen som innehåller assistentens systeminstruktioner. |
-| [Temperature](../../aspose.pdf.ai/llamacopilotoptionsbase/temperature/) { get; set; } | Hämtar eller ställer in samplingstemperaturen som ska användas för modellen. |
-| [TopP](../../aspose.pdf.ai/llamacopilotoptionsbase/topp/) { get; set; } | Hämtar eller ställer in top-p-värdet för kärnsampling. |
+| [DocumentCollection](../../aspose.pdf.ai/llamacopilotoptionsbase/documentcollection/) { get; set; } | Hämtar eller anger samlingen av dokument som ska bearbetas. |
+| [MaxCompletionTokens](../../aspose.pdf.ai/llamacopilotoptionsbase/maxcompletiontokens/) { get; set; } | Hämtar eller anger det maximala antalet slutförandetoken som kan användas under körningen. |
+| virtual [Model](../../aspose.pdf.ai/llamacopilotoptionsbase/model/) { get; set; } | Hämtar eller anger modellen som ska användas för assistenten. |
+| [SummaryPrompt](../../aspose.pdf.ai/llamasummarycopilotoptions/summaryprompt/) { get; set; } | Hämtar eller anger prompten för att instruera modellen att leverera en dokumentsammanfattning. |
+| [SystemInstructions](../../aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions/) { get; set; } | Hämtar eller anger filsökvägen för textfilen som innehåller assistentens systeminstruktioner. |
+| [Temperature](../../aspose.pdf.ai/llamacopilotoptionsbase/temperature/) { get; set; } | Hämtar eller anger samplingstemperaturen som ska användas för modellen. |
+| [TopP](../../aspose.pdf.ai/llamacopilotoptionsbase/topp/) { get; set; } | Hämtar eller anger top‑p‑värdet för kärnsampling. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | static [Create](../../aspose.pdf.ai/llamasummarycopilotoptions/create/#create)() | Skapar en ny instans av `LlamaSummaryCopilotOptions`. |
-| static [Create](../../aspose.pdf.ai/llamasummarycopilotoptions/create/#create_1)(Action&lt;LlamaSummaryCopilotOptions&gt;) | Skapar en instans av `LlamaSummaryCopilotOptions` och konfigurerar den med hjälp av den angivna delegaten. |
-| [GetOptions](../../aspose.pdf.ai/llamasummarycopilotoptions/getoptions/)() | Hämtar de aktuella `LlamaSummaryCopilotOptions`. |
-| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument/#withdocument)(PdfDocument) | Lägger till ett PDF-dokument i dokumentkollektionen för sammanfattningskopilotalternativen. |
-| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument/#withdocument_2)(string) | Lägger till en dokumentväg i dokumentkollektionen för sammanfattningskopilotalternativen. |
-| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument/#withdocument_1)(TextDocument) | Lägger till ett textdokument i dokumentkollektionen för sammanfattningskopilotalternativen. |
-| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments)(DocumentCollection) | Ställer in dokumentkollektionen för sammanfattningskopilotalternativen. |
-| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments_1)(List&lt;PdfDocument&gt;) | Lägger till flera PDF-dokument i dokumentkollektionen för sammanfattningskopilotalternativen. |
-| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments_3)(List&lt;string&gt;) | Lägger till flera dokumentvägar i dokumentkollektionen för sammanfattningskopilotalternativen. |
-| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments_2)(List&lt;TextDocument&gt;) | Lägger till flera textdokument i dokumentkollektionen för sammanfattningskopilotalternativen. |
-| [WithInstructions](../../aspose.pdf.ai/llamasummarycopilotoptions/withinstructions/)(string) | Ställer in instruktionerna för sammanfattningskopilotalternativen. |
-| [WithMaxCompletionTokens](../../aspose.pdf.ai/llamasummarycopilotoptions/withmaxcompletiontokens/)(int?) | Ställer in max fullföljningstokens för sammanfattningskopilotalternativen. |
-| [WithModel](../../aspose.pdf.ai/llamasummarycopilotoptions/withmodel/)(string) | Ställer in modellen för sammanfattningskopilotalternativen. |
-| [WithSummaryPrompt](../../aspose.pdf.ai/llamasummarycopilotoptions/withsummaryprompt/)(string) | Ställer in sammanfattningsprompten för sammanfattningskopilotalternativen. |
-| [WithTemperature](../../aspose.pdf.ai/llamasummarycopilotoptions/withtemperature/)(double?) | Ställer in temperaturen för sammanfattningskopilotalternativen. |
-| [WithTopP](../../aspose.pdf.ai/llamasummarycopilotoptions/withtopp/)(double?) | Ställer in top P-värdet för sammanfattningskopilotalternativen. |
+| static [Create](../../aspose.pdf.ai/llamasummarycopilotoptions/create/#create_1)(Action&lt;LlamaSummaryCopilotOptions&gt;) | Skapar en instans av `LlamaSummaryCopilotOptions` och konfigurerar den med den angivna delegaten. |
+| [GetOptions](../../aspose.pdf.ai/llamasummarycopilotoptions/getoptions/)() | Hämtar den aktuella `LlamaSummaryCopilotOptions`. |
+| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument/#withdocument)(PdfDocument) | Lägger till ett PDF‑dokument i dokumentsamlingen för sammanfattnings‑copilot‑alternativen. |
+| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument/#withdocument_2)(string) | Lägger till en dokumentväg i dokumentsamlingen för alternativ för sammanfattnings‑copilot. |
+| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument/#withdocument_1)(TextDocument) | Lägger till ett textdokument i dokumentsamlingen för alternativ för sammanfattnings‑copilot. |
+| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments)(DocumentCollection) | Ställer in dokumentsamlingen för alternativ för sammanfattnings‑copilot. |
+| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments_1)(List&lt;PdfDocument&gt;) | Lägger till flera PDF-dokument i dokumentsamlingen för alternativ för sammanfattnings‑copilot. |
+| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments_3)(List&lt;string&gt;) | Lägger till flera dokumentvägar i dokumentsamlingen för alternativ för sammanfattnings‑copilot. |
+| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments_2)(List&lt;TextDocument&gt;) | Lägger till flera textdokument i dokumentsamlingen för alternativ för sammanfattnings‑copilot. |
+| [WithInstructions](../../aspose.pdf.ai/llamasummarycopilotoptions/withinstructions/)(string) | Ställer in instruktionerna för alternativ för sammanfattnings‑copilot. |
+| [WithMaxCompletionTokens](../../aspose.pdf.ai/llamasummarycopilotoptions/withmaxcompletiontokens/)(int?) | Ställer in maximalt antal token för slutförande för alternativ för sammanfattnings‑copilot. |
+| [WithModel](../../aspose.pdf.ai/llamasummarycopilotoptions/withmodel/)(string) | Ställer in modellen för alternativ för sammanfattnings‑copilot. |
+| [WithSummaryPrompt](../../aspose.pdf.ai/llamasummarycopilotoptions/withsummaryprompt/)(string) | Ställer in sammanfattningsprompten för alternativ för sammanfattnings‑copilot. |
+| [WithTemperature](../../aspose.pdf.ai/llamasummarycopilotoptions/withtemperature/)(double?) | Ställer in temperaturen för alternativ för sammanfattnings‑copilot. |
+| [WithTopP](../../aspose.pdf.ai/llamasummarycopilotoptions/withtopp/)(double?) | Ställer in top‑P‑värdet för alternativ för sammanfattnings‑copilot. |
 
-### Se Även
+### Se även
 
-* klass [LlamaCopilotOptionsBase](../llamacopilotoptionsbase/)
-* gränssnitt [ISummaryCopilotOptions&lt;TOptions&gt;](../isummarycopilotoptions-1/)
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [LlamaCopilotOptionsBase](../llamacopilotoptionsbase/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../isummarycopilotoptions-1/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: RunResponse.FailedAt
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse-egenskap. Hämtar eller ställer in Unix-tidsstämpeln i sekunder för när körningen misslyckades
+title: "RunResponse.FailedAt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunResponse-egenskap. Hämtar eller anger Unix-tidsstämpeln i sekunder för när körningen misslyckades"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.ai/runresponse/failedat/
 ---
-## RunResponse.FailedAt-egenskap
+## RunResponse.FailedAt property
 
-Hämtar eller ställer in Unix-tidsstämpeln (i sekunder) för när körningen misslyckades.
+Hämtar eller anger Unix-tidsstämpeln (i sekunder) för när körningen misslyckades.
 
 ```csharp
 public long? FailedAt { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RunResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

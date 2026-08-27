@@ -1,21 +1,23 @@
 ---
-title: XmpValue.IsField
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-egenskap. Returnerar sant om XmpValue är ett fält
+title: "XmpValue.IsField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue-egenskap. Returnerar true om XmpValue är ett fält"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/xmpvalue/isfield/
 ---
-## XmpValue.IsField-egenskap
+## XmpValue.IsField property
 
-Returnerar sant om XmpValue är ett fält.
+Returnerar true om XmpValue är ett fält.
 
 ```csharp
 public bool IsField { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

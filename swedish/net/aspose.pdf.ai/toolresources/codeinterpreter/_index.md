@@ -1,22 +1,24 @@
 ---
-title: ToolResources.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: ToolResources-egenskap. Hämtar eller ställer in resurser för kodtolkverktyget
+title: "ToolResources.CodeInterpreter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ToolResources-egenskap. Hämtar eller anger resurser för kodtolkaren"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/toolresources/codeinterpreter/
 ---
-## ToolResources.CodeInterpreter-egenskap
+## ToolResources.CodeInterpreter property
 
-Hämtar eller ställer in resurser för kodtolkverktyget.
+Hämtar eller anger resurserna för code_interpreter‑verktyget.
 
 ```csharp
 public CodeInterpreter CodeInterpreter { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CodeInterpreter](../../codeinterpreter/)
-* klass [ToolResources](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CodeInterpreter](../../codeinterpreter/)
+* class [ToolResources](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

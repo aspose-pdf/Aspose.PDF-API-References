@@ -1,12 +1,12 @@
 ---
-title: LastError.LastError
-second_title: Aspose.PDF for .NET API Reference
-description: LastError-konstruktorn. Standardkonstruktorn
+title: "LastError-konstruktor. Standardkonstruktorn"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LastError.Message"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/lasterror/lasterror/
 ---
-## LastError-konstruktorn
+## LastError constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public LastError()
 ```
 
-### Se Även
+### Se även
 
-* klass [LastError](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [LastError](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

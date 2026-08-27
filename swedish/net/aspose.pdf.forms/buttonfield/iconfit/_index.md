@@ -1,22 +1,24 @@
 ---
-title: ButtonField.IconFit
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField-egenskap. Hämtar ikonpassningsobjekt som specificerar hur widgetens annotationsikon ska visas inom dess annotationsrektangel
+title: "ButtonField.IconFit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ButtonField-egenskap. Hämtar ikonpassningsobjekt som specificerar hur widget-annoteringens ikon ska visas inom dess annoteringsrektangel."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/buttonfield/iconfit/
 ---
-## ButtonField.IconFit-egenskap
+## ButtonField.IconFit property
 
-Hämtar ikonpassningsobjekt som specificerar hur widgetens annotationsikon ska visas inom dess annotationsrektangel.
+Hämtar ikonpassningsobjekt som specificerar hur widget-annotationens ikon ska visas inom dess annotationsrektangel.
 
 ```csharp
 public IconFit IconFit { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [IconFit](../../iconfit/)
-* klass [ButtonField](../)
-* namnrum [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [IconFit](../../iconfit/)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Hämtar eller ställer in HTML-sidans titel
+title: "HtmlSaveOptions.Title"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions property. Hämtar eller anger HTML‑sidans titel"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf/htmlsaveoptions/title/
 ---
-## HtmlSaveOptions.Title-egenskap
+## HtmlSaveOptions.Title property
 
-Hämtar eller ställer in HTML-sidans titel.
+Hämtar eller anger HTML‑sidans titel.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

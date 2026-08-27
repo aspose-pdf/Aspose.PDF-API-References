@@ -1,14 +1,14 @@
 ---
-title: FileSaveTarget.Path
-second_title: Aspose.PDF for .NET API Reference
-description: FileSaveTarget-egenskap. Hämtar sökvägen till filen för nuvarande sparmål
+title: "FileSaveTarget.Path"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSaveTarget-egenskapen. Hämtar sökvägen till filen för det aktuella sparningsmålet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/filesavetarget/path/
 ---
-## FileSaveTarget.Path-egenskap
+## FileSaveTarget.Path property
 
-Hämtar sökvägen till filen för nuvarande sparmål.
+Hämtar sökvägen till filen för det aktuella sparmålet.
 
 ```csharp
 public string Path { get; }
@@ -18,8 +18,10 @@ public string Path { get; }
 
 En sträng som representerar sökvägen till utdatafilen.
 
-### Se Även
+### Se även
 
-* klass [FileSaveTarget](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

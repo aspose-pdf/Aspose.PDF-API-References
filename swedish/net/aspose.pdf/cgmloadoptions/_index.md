@@ -1,14 +1,14 @@
 ---
-title: Class CgmLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CgmLoadOptions klass. Innehåller alternativ för att ladda/importera CGM-fil till pdf-dokument
+title: "Klass CgmLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.CgmLoadOptions klass. Innehåller alternativ för att ladda/importera CGM-fil till pdf dokument."
 type: docs
-weight: 3010
+weight: 3120
 url: /sv/net/aspose.pdf/cgmloadoptions/
 ---
-## CgmLoadOptions klass
+## CgmLoadOptions class
 
-Innehåller alternativ för att ladda/importera CGM-fil till pdf-dokument.
+Innehåller alternativ för att läsa in/importera CGM-fil till ett pdf-dokument.
 
 ```csharp
 public sealed class CgmLoadOptions : LoadOptions
@@ -18,20 +18,22 @@ public sealed class CgmLoadOptions : LoadOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CgmLoadOptions](cgmloadoptions/#constructor)() | Skapar standardladdningsalternativ för att konvertera CGM-fil till pdf-dokument. Standard pdf-sidstorlek - A4 300dpi 2480 X 3508. |
+| [CgmLoadOptions](cgmloadoptions/#constructor)() | Skapar standardladdningsalternativ för att konvertera CGM-fil till pdf dokument. Standard pdf sidstorlek - A4 300dpi 2480 X 3508. |
 | [CgmLoadOptions](cgmloadoptions/#constructor_1)(SizeF) | Skapar laddningsalternativ med definierad !:pageSize. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller ställer in flagga för att inaktivera eventuella licensbegränsningar för alla typsnitt vid inläsning av filen. När `true`, tillåter att utföra operationer med typsnitt som är förbjudna av en licens för detta typsnitt, till exempel tillåter att bädda in ett typsnitt i ett PDF-dokument även om licensreglerna inaktiverar inbäddning för detta typsnitt. Som standard `false`. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller anger en flagga för att inaktivera alla licensrestriktioner för alla teckensnitt vid inläsning av filen. När `true` tillåts operationer med ett teckensnitt som är förbjudet av dess licens, till exempel att bädda in ett teckensnitt i ett PDF‑dokument även om licensreglerna förbjuder inbäddning av detta teckensnitt. Standardvärdet är `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformat som [`LoadOptions`](../loadoptions/) beskriver. |
-| [PageSize](../../aspose.pdf/cgmloadoptions/pagesize/) { get; } | Hämtar eller ställer in utdata sidstorlek för import. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och laddningsoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall laddningsoperationen ska upphöra. |
+| [PageSize](../../aspose.pdf/cgmloadoptions/pagesize/) { get; } | Hämtar eller anger utdata‑sidstorlek för import. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återuppringning för att hantera eventuella genererade varningar. WarningHandler returnerar ReturnAction‑enum‑värdet som specificerar antingen Continue eller Abort. Continue är standardåtgärden och Load‑operationen fortsätter, men användaren kan också returnera Abort, varvid Load‑operationen ska avbrytas. |
 
-### Se Även
+### Se även
 
-* klass [LoadOptions](../loadoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

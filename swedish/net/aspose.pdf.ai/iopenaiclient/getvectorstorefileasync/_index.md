@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Hämtar detaljer om en specifik fil inom en vektorbutik asynkront
+title: "IOpenAIClient.GetVectorStoreFileAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Hämtar detaljer för en specifik fil i en vektorlager asynkront"
 type: docs
 weight: 310
 url: /sv/net/aspose.pdf.ai/iopenaiclient/getvectorstorefileasync/
 ---
-## IOpenAIClient.GetVectorStoreFileAsync metod
+## IOpenAIClient.GetVectorStoreFileAsync method
 
-Hämtar detaljer om en specifik fil inom en vektorbutik asynkront.
+Hämtar detaljer för en specifik fil inom ett vektorlager asynkront.
 
 ```csharp
 public Task<VectorStoreFileResponse> GetVectorStoreFileAsync(string vectorStoreId, string fileId, 
@@ -17,24 +17,26 @@ public Task<VectorStoreFileResponse> GetVectorStoreFileAsync(string vectorStoreI
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreId | Sträng | ID:t för vektorbutiken som innehåller filen. |
-| fileId | Sträng | ID:t för filen som ska hämtas. |
+| vectorStoreId | String | ID för vektorlager som innehåller filen. |
+| fileId | String | ID för filen som ska hämtas. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljer om filen.
+En Task som representerar den asynkrona operationen. Task-resultatet innehåller filens detaljer.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorbutikens ID är null eller tomt. |
-| [AIClientException](../../aiclientexception/) | Utlöses när filens ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när vektorlager-ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när fil‑ID är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [VectorStoreFileResponse](../../vectorstorefileresponse/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

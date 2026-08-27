@@ -1,22 +1,24 @@
 ---
-title: PolyAnnotation.StartingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: PolyAnnotation-egenskap. Hämtar eller ställer in stilen för första linjeändningen
+title: "PolyAnnotation.StartingStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PolyAnnotation-egenskap. Hämtar eller anger stil för den första linjeänden"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/polyannotation/startingstyle/
 ---
-## PolyAnnotation.StartingStyle-egenskap
+## PolyAnnotation.StartingStyle property
 
-Hämtar eller ställer in stilen för första linjeändningen.
+Hämtar eller anger stilen för den första linjeänden.
 
 ```csharp
 public LineEnding StartingStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [LineEnding](../../lineending/)
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

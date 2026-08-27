@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetSignNames
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature metod. Hämtar namnen på alla icke tomma signaturer
+title: "PdfFileSignature.GetSignNames"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature-metoden. Hämtar namnen på alla icke‑tomma signaturer"
 type: docs
 weight: 230
 url: /sv/net/aspose.pdf.facades/pdffilesignature/getsignnames/
 ---
-## PdfFileSignature.GetSignNames metod
+## PdfFileSignature.GetSignNames method
 
-Hämtar namnen på alla icke tomma signaturer.
+Hämtar namnen på alla icke-tomma signaturer.
 
 ```csharp
 public IList<string> GetSignNames(bool onlyActive = true)
@@ -16,11 +16,11 @@ public IList<string> GetSignNames(bool onlyActive = true)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| onlyActive | Boolean | om sant, returnera endast aktiva signaturer; annars, returnera alla signaturer. |
+| onlyActive | Boolean | om true, returnera endast aktiva signaturer; annars returnera alla signaturer. |
 
 ### Returvärde
 
-Returnera en IList&lt;string&gt;.
+Returnerar en IList&lt;string&gt;.
 
 ## Exempel
 
@@ -59,8 +59,10 @@ Next i
 Console.WriteLine("totalvision:"+pdfSign.GetTotalRevision())
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

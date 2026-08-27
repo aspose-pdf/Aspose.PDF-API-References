@@ -1,21 +1,23 @@
 ---
-title: Rectangle.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-egenskap. Höjd av rektangel
+title: "Rectangle.Height"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-egenskap. Höjd på rektangeln"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/rectangle/height/
 ---
-## Rectangle.Height-egenskap
+## Rectangle.Height property
 
-Höjd av rektangel.
+Höjd på rektangel.
 
 ```csharp
 public double Height { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

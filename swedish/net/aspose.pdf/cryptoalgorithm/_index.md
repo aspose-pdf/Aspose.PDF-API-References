@@ -1,14 +1,14 @@
 ---
-title: Enum CryptoAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CryptoAlgorithm enum. Representerar typ av kryptografisk algoritm som används i krypterings-/dekrypteringsrutiner
+title: "Enum CryptoAlgorithm"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.CryptoAlgorithm‑enum. Representerar typen av kryptografisk algoritm som används i krypterings-/dekrypteringsrutiner."
 type: docs
-weight: 3400
+weight: 3520
 url: /sv/net/aspose.pdf/cryptoalgorithm/
 ---
-## CryptoAlgorithm-uppräkning
+## CryptoAlgorithm enumeration
 
-Representerar typ av kryptografisk algoritm som används i krypterings-/dekrypteringsrutiner.
+Representerar typ av kryptografisk algoritm som används i krypterings-/avkrypteringsrutiner.
 
 ```csharp
 public enum CryptoAlgorithm
@@ -22,8 +22,11 @@ public enum CryptoAlgorithm
 | RC4x128 | `1` | RC4 med nyckellängd 128. |
 | AESx128 | `2` | AES med nyckellängd 128. |
 | AESx256 | `3` | AES med nyckellängd 256. |
+| Custom | `4` | Den anpassade krypteringsalgoritmen |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

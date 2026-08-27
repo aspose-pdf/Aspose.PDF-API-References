@@ -1,22 +1,24 @@
 ---
-title: MediaRendition.MediaClip
-second_title: Aspose.PDF for .NET API Reference
-description: MediaRendition-egenskap. Hämtar eller ställer in medieklippobjekt som är kopplade till rendition
+title: "MediaRendition.MediaClip"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MediaRendition egenskap. Hämtar eller anger mediaklippobjekt som är associerade med rendition"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/mediarendition/mediaclip/
 ---
-## MediaRendition.MediaClip-egenskap
+## MediaRendition.MediaClip property
 
-Hämtar eller ställer in medieklippobjekt som är kopplade till rendition.
+Hämtar eller anger medieklippobjekt som är associerade med återgivningen.
 
 ```csharp
 public MediaClip MediaClip { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MediaClip](../../mediaclip/)
-* klass [MediaRendition](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [MediaClip](../../mediaclip/)
+* class [MediaRendition](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

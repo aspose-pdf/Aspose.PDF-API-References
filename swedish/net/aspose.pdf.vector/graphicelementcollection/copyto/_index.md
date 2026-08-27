@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection-metod. Kopierar hela samlingen till en kompatibel en-dimensionell Array som börjar vid det angivna indexet i mål-arrayen
+title: "GraphicElementCollection.CopyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicElementCollection-metod. Kopierar hela samlingen till en kompatibel endimensionell Array som startar vid det angivna indexet i målarrayen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.vector/graphicelementcollection/copyto/
 ---
-## GraphicElementCollection.CopyTo metod
+## GraphicElementCollection.CopyTo method
 
-Kopierar hela samlingen till en kompatibel en-dimensionell Array, som börjar vid det angivna indexet i mål-arrayen.
+Kopierar hela samlingen till en kompatibel endimensionell Array, med start vid det angivna indexet i målarrayen.
 
 ```csharp
 public void CopyTo(GraphicElement[] array, int arrayIndex)
@@ -17,11 +17,13 @@ public void CopyTo(GraphicElement[] array, int arrayIndex)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | array | GraphicElement[] | Array av objekt som kommer att kopieras. |
-| arrayIndex | Int32 | Startindex från vilket kopieringen kommer att påbörjas. |
+| arrayIndex | Int32 | Startindex varifrån kopieringen ska påbörjas. |
 
-### Se Även
+### Se även
 
-* klass [GraphicElement](../../graphicelement/)
-* klass [GraphicElementCollection](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

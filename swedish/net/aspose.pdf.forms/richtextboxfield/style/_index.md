@@ -1,21 +1,23 @@
 ---
-title: RichTextBoxField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField-egenskap. Hämtar eller ställer in standardstilsträngen för det rika textfältet
+title: "RichTextBoxField.Style"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RichTextBoxField-egenskap. Hämtar eller anger standardstilsträng för rich text-fältet"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/richtextboxfield/style/
 ---
-## RichTextBoxField.Style-egenskap
+## RichTextBoxField.Style property
 
-Hämtar eller ställer in standardstilsträngen för det rika textfältet.
+Hämtar eller anger standardstilssträng för rich text-fältet.
 
 ```csharp
 public string Style { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RichTextBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

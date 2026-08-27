@@ -1,21 +1,23 @@
 ---
-title: Cell.IsWordWrapped
-second_title: Aspose.PDF for .NET API Reference
-description: Cell-egenskap. Hämtar eller ställer in cellens text som är radbrytad
+title: "Cell.IsWordWrapped"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cell-egenskap. Hämtar eller anger cellens text med ordbrytning"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/cell/iswordwrapped/
 ---
-## Cell.IsWordWrapped-egenskap
+## Cell.IsWordWrapped property
 
-Hämtar eller ställer in cellens text som är radbrytad.
+Hämtar eller anger cellens text radbrytning.
 
 ```csharp
 public bool IsWordWrapped { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Cell](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

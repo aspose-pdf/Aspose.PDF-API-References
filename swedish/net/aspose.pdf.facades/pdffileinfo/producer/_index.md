@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.Producer
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-egenskap. Hämtar producentinformationen för PDF-dokumentet
+title: "PdfFileInfo.Producer"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo egenskap. Hämtar producentinformationen för PDF-dokument"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.facades/pdffileinfo/producer/
 ---
-## PdfFileInfo.Producer-egenskap
+## PdfFileInfo.Producer property
 
 Hämtar producentinformationen för PDF-dokumentet.
 
@@ -14,8 +14,10 @@ Hämtar producentinformationen för PDF-dokumentet.
 public string Producer { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

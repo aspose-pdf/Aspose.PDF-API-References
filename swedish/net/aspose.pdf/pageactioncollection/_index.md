@@ -1,14 +1,14 @@
 ---
-title: Class PageActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageActionCollection klass. Denna klass beskriver sidåtgärder
+title: "Klass PageActionCollection"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PageActionCollection-klass. Denna klass beskriver sidåtgärder"
 type: docs
-weight: 8070
+weight: 8210
 url: /sv/net/aspose.pdf/pageactioncollection/
 ---
-## PageActionCollection klass
+## PageActionCollection class
 
-Denna klass beskriver sidåtgärder
+Denna klass beskriver sidåtgärder.
 
 ```csharp
 public class PageActionCollection : BaseActionCollection
@@ -25,10 +25,12 @@ public class PageActionCollection : BaseActionCollection
 
 | Namn | Beskrivning |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Tar bort alla åtgärder för anteckningen. |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Tar bort alla åtgärder för annotationen. |
 
-### Se Även
+### Se även
 
-* klass [BaseActionCollection](../baseactioncollection/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [BaseActionCollection](../baseactioncollection/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

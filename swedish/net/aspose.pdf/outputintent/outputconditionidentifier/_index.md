@@ -1,21 +1,23 @@
 ---
-title: OutputIntent.OutputConditionIdentifier
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntent-egenskap. Hämtar eller ställer in en text som identifierar den avsedda utdataenheten eller produktionsvillkoret i mänskligt eller maskinläsbart format
+title: "OutputIntent.OutputConditionIdentifier"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutputIntent‑egenskap. Hämtar eller anger en text som identifierar den avsedda utskriftsenheten eller produktionsvillkoret i mänskligt eller maskinläsbart format."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/outputintent/outputconditionidentifier/
 ---
-## OutputIntent.OutputConditionIdentifier-egenskap
+## OutputIntent.OutputConditionIdentifier property
 
-Hämtar eller ställer in en text som identifierar den avsedda utdataenheten eller produktionsvillkoret i mänskligt eller maskinläsbart format.
+Hämtar eller anger en text som identifierar den avsedda utdataenheten eller produktionsförhållandet i människa- eller maskinläsbar form.
 
 ```csharp
 public string OutputConditionIdentifier { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutputIntent](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutputIntent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

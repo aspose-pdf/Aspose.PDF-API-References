@@ -1,21 +1,23 @@
 ---
-title: PngDevice.TransparentBackground
-second_title: Aspose.PDF for .NET API Reference
-description: PngDevice-egenskap. Hämtar eller ställer in om bilden har transparent bakgrund
+title: "PngDevice.TransparentBackground"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PngDevice‑egenskap. Hämtar eller anger om bilden har transparent bakgrund."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.devices/pngdevice/transparentbackground/
 ---
-## PngDevice.TransparentBackground-egenskap
+## PngDevice.TransparentBackground property
 
-Hämtar eller ställer in om bilden har transparent bakgrund.
+Hämtar eller anger om bilden har transparent bakgrund.
 
 ```csharp
 public bool TransparentBackground { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PngDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [PngDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

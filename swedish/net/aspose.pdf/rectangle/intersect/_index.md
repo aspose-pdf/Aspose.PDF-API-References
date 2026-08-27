@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-metod. Skär två rektanglar
+title: "Rectangle.Intersect"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-metoden. Skär två rektanglar"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf/rectangle/intersect/
 ---
-## Rectangle.Intersect metod
+## Rectangle.Intersect method
 
 Skär två rektanglar.
 
@@ -20,10 +20,12 @@ public Rectangle Intersect(Rectangle otherRect)
 
 ### Returvärde
 
-Skärning av rektanglar; null om rektanglarna inte skärs.
+Skärning av rektanglar; null om rektanglarna inte skär varandra.
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

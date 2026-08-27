@@ -1,7 +1,7 @@
 ---
-title: ElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ElementCollection-egenskap. Hämtar Element efter index
+title: "ElementCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ElementCollection egenskap. Hämtar Element efter index"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.structure/elementcollection/item/
@@ -22,9 +22,11 @@ public Element this[int index] { get; }
 
 Hämtat element.
 
-### Se Även
+### Se även
 
-* klass [Element](../../element/)
-* klass [ElementCollection](../)
-* namnrymd [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* samling [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

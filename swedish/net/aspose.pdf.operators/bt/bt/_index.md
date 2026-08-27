@@ -1,21 +1,23 @@
 ---
-title: BT.BT
-second_title: Aspose.PDF for .NET API Reference
-description: BT-konstruktör. Initierar operatör
+title: "BT.BT"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BT konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/bt/bt/
 ---
-## BT-konstruktör
+## BT constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public BT()
 ```
 
-### Se Även
+### Se även
 
-* klass [BT](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [BT](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

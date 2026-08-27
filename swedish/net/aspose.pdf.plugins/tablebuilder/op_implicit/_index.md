@@ -1,14 +1,14 @@
 ---
-title: TableBuilder.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: TableBuilder-metod. Konverterar byggare TableBuilder till alternativ TableOptions
+title: "TableBuilder.op_Implicit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableBuilder‑metod. Konverterar byggaren TableBuilder till alternativ TableOptions."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.plugins/tablebuilder/op_implicit/
 ---
 ## TableBuilder Implicit operator
 
-Konverterar byggare [`TableBuilder`](../) till alternativ [`TableOptions`](../../tableoptions/)
+Konverterar byggaren [`TableBuilder`](../) till alternativ [`TableOptions`](../../tableoptions/).
 
 ```csharp
 public static implicit operator TableOptions(TableBuilder builder)
@@ -16,15 +16,17 @@ public static implicit operator TableOptions(TableBuilder builder)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| builder | TableBuilder | Instans av nuvarande [`TableBuilder`](../). |
+| builder | TableBuilder | Instans av aktuell [`TableBuilder`](../). |
 
 ### Returvärde
 
 Resultat av konvertering till PdfGeneratorTableOptions.
 
-### Se Även
+### Se även
 
-* klass [TableOptions](../../tableoptions/)
-* klass [TableBuilder](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

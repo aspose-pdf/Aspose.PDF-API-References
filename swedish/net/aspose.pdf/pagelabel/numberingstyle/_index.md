@@ -1,22 +1,24 @@
 ---
-title: PageLabel.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabel-egenskap. Hämtar eller ställer in numreringsstil
+title: "PageLabel.NumberingStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageLabel-egenskap. Hämtar eller anger numreringsstil"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pagelabel/numberingstyle/
 ---
-## PageLabel.Numreringsstil-egenskap
+## PageLabel.NumberingStyle property
 
-Hämtar eller ställer in numreringsstil.
+Hämtar eller anger numreringsstil.
 
 ```csharp
 public NumberingStyle NumberingStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* enum [Numreringsstil](../../numberingstyle/)
+* enum [NumberingStyle](../../numberingstyle/)
 * class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

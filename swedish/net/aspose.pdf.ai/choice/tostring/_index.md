@@ -1,12 +1,12 @@
 ---
-title: Choice.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Choice-metod. Returnerar innehållet i valet som en sträng
+title: "Choice.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Choice-metod. Returnerar innehållet i valet som en sträng"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/choice/tostring/
 ---
-## Choice.ToString metod
+## Choice.ToString method
 
 Returnerar innehållet i valet som en sträng.
 
@@ -14,8 +14,10 @@ Returnerar innehållet i valet som en sträng.
 public override string ToString()
 ```
 
-### Se Även
+### Se även
 
-* klass [Choice](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Choice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

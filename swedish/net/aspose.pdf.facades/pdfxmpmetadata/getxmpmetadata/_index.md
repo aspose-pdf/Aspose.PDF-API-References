@@ -1,24 +1,24 @@
 ---
-title: PdfXmpMetadata.GetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-metod. Hämta XmpMetadata för den angivna pdf-filen i xml-format
+title: "PdfXmpMetadata.GetXmpMetadata"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata-metoden. Hämta XmpMetadata för den angivna pdf i XML-format"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/
 ---
 ## GetXmpMetadata() {#getxmpmetadata}
 
-Hämta XmpMetadata för den angivna pdf-filen i xml-format.
+Hämta XmpMetadata för den angivna pdf-filen i XML-format.
 
 ```csharp
 public byte[] GetXmpMetadata()
 ```
 
-### Return Value
+### Returvärde
 
-Bytes av XmpMetadata.
+Byte för XmpMetadata.
 
-## Examples
+## Exempel
 
 ```csharp
 PdfXmpMetadata pxm = new PdfXmpMetadata();
@@ -26,7 +26,7 @@ pxm.BindPdf("PdfFile.pdf");
 byte[] data = pxm.GetXmpMetadata();
 ```
 
-### See Also
+### Se även
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -36,21 +36,21 @@ byte[] data = pxm.GetXmpMetadata();
 
 ## GetXmpMetadata(string) {#getxmpmetadata_1}
 
-Hämta en del av XmpMetadata för den angivna pdf-filen enligt ett meta-namn.
+Hämta en del av XmpMetadata för den angivna pdf-filen enligt ett metanamn.
 
 ```csharp
 public byte[] GetXmpMetadata(string name)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Metadata-namn. |
+| namn | String | Metadatnamn. |
 
-### Return Value
+### Returvärde
 
-Bytes av metadata.
+Byte av metadata.
 
-## Examples
+## Exempel
 
 ```csharp
 PdfXmpMetadata pxm = new PdfXmpMetadata();
@@ -58,8 +58,10 @@ pxm.BindPdf("PdfFile.pdf");
 byte[] data = pxm.GetXmpMetadata("dc:creator");
 ```
 
-### See Also
+### Se även
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

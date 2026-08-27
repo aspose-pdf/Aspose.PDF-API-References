@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-egenskap. Hämtar bredden på första sidan i indatafilen
+title: "PdfFileStamp.PageWidth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileStamp-egenskap. Hämtar bredden på den första sidan i indatafilen."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/pdffilestamp/pagewidth/
 ---
-## PdfFileStamp.PageWidth-egenskap
+## PdfFileStamp.PageWidth property
 
-Hämtar bredden på första sidan i indatafilen.
+Hämtar bredden på den första sidan i indatafilen.
 
 ```csharp
 public float PageWidth { get; }
@@ -22,8 +22,10 @@ Console.WriteLine("Width = " + fileStamp.PageWidth);
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

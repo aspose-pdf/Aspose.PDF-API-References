@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Auto
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue-metoden. Initierar automatiskt beräknat värde
+title: "PdfFileEditor.ContentsResizeValue.Auto"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ContentsResizeValue‑metod. Initierar automatiskt beräknat värde"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/auto/
 ---
-## PdfFileEditor.ContentsResizeValue.Auto metod
+## PdfFileEditor.ContentsResizeValue.Auto method
 
 Initierar automatiskt beräknat värde.
 
@@ -18,8 +18,10 @@ public static ContentsResizeValue Auto()
 
 Ny värdeinstans.
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeValue](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

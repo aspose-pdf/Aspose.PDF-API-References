@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.ReadByte
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream-metod. Läser en byte från strömmen och avancerar positionen inom strömmen med en byte eller returnerar -1 om den är i slutet av strömmen
+title: "OptimizedMemoryStream.ReadByte"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizedMemoryStream metod. Läser en byte från strömmen och avancerar positionen i strömmen med en byte eller returnerar 1 om den är i slutet av strömmen"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/optimizedmemorystream/readbyte/
 ---
-## OptimizedMemoryStream.ReadByte metod
+## OptimizedMemoryStream.ReadByte method
 
-Läser en byte från strömmen och avancerar positionen inom strömmen med en byte, eller returnerar -1 om den är i slutet av strömmen.
+Läser en byte från strömmen och flyttar positionen i strömmen framåt med en byte, eller returnerar -1 om slutet av strömmen har nåtts.
 
 ```csharp
 public override int ReadByte()
@@ -18,8 +18,10 @@ public override int ReadByte()
 
 byte eller -1 om den är i slutet av strömmen.
 
-### Se Även
+### Se även
 
-* klass [OptimizedMemoryStream](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

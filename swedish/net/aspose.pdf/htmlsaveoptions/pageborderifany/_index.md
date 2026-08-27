@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.PageBorderIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-fält. Denna attribut representerar en uppsättning inställningar som används för att rita en kantlinje i det resulterande HTML-dokumentet runt området som representerar käll-PDF-sidan. I huvudsak handlar det om att visa sidans papperkanter, inte sidokant som refereras i PDF-sidan själv.
+title: "HtmlSaveOptions.PageBorderIfAny"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-fält. Detta attribut representerar en uppsättning inställningar som används för att rita en eventuell ram i det resulterande HTML‑dokumentet runt det område som representerar käll‑PDF‑sidan. I huvudsak handlar det om att visa sidornas papperkanter, inte sidramen som refereras i PDF‑sidan själv."
 type: docs
 weight: 360
 url: /sv/net/aspose.pdf/htmlsaveoptions/pageborderifany/
 ---
-## HtmlSaveOptions.PageBorderIfAny-fält
+## HtmlSaveOptions.PageBorderIfAny field
 
-Denna attribut representerar en uppsättning inställningar som används för att rita en kantlinje (om någon) i det resulterande HTML-dokumentet runt området som representerar käll-PDF-sidan. I huvudsak handlar det om att visa sidans papperkanter, inte sidokant som refereras i PDF-sidan själv.
+Detta attribut representerar en uppsättning inställningar som används för att rita en ram (om någon) i det resulterande HTML‑dokumentet runt området som representerar käll‑PDF‑sidan. I huvudsak handlar det om att visa sidans papperkanter, inte sidramen som refereras i PDF‑sidan själv.
 
 ```csharp
 public BorderInfo PageBorderIfAny;
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderInfo](../../saveoptions.borderinfo/)
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderInfo](../../saveoptions.borderinfo/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

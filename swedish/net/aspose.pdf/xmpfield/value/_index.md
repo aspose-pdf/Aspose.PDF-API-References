@@ -1,12 +1,12 @@
 ---
-title: XmpField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField-egenskap. Hämtar värdet
+title: "XmpField.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField property. Hämtar värdet"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/xmpfield/value/
 ---
-## XmpField.Värde-egenskap
+## XmpField.Value property
 
 Hämtar värdet.
 
@@ -14,13 +14,15 @@ Hämtar värdet.
 public XmpValue Value { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Värdet.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../xmpvalue/)
-* klass [XmpField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

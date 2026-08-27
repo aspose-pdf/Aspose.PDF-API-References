@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement-egenskap. Hämtar höjd för rad
+title: "TableTRElement.MinRowHeight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableTRElement‑egenskap. Hämtar höjden för raden"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/
 ---
-## TableTRElement.MinRowHeight-egenskap
+## TableTRElement.MinRowHeight property
 
 Hämtar höjd för rad.
 
@@ -14,8 +14,10 @@ Hämtar höjd för rad.
 public double MinRowHeight { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TableTRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

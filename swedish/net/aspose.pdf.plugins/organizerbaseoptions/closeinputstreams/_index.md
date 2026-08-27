@@ -1,21 +1,23 @@
 ---
-title: OrganizerBaseOptions.CloseInputStreams
-second_title: Aspose.PDF for .NET API Reference
-description: OrganizerBaseOptions egenskap. Stäng inmatningsströmmar efter att operationen har slutförts
+title: "OrganizerBaseOptions.CloseInputStreams"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OrganizerBaseOptions-egenskap. Stänger indatastreamar efter att operationen är slutförd"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/
 ---
-## OrganizerBaseOptions.CloseInputStreams egenskap
+## OrganizerBaseOptions.CloseInputStreams property
 
-Stäng inmatningsströmmar efter att operationen har slutförts.
+Stäng inmatningsströmmar när operationen är slutförd.
 
 ```csharp
 public bool CloseInputStreams { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OrganizerBaseOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

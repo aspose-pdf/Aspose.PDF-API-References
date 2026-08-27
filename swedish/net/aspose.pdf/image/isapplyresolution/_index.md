@@ -1,21 +1,23 @@
 ---
-title: Image.IsApplyResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Bildegenskap. Hämtar eller ställer in ett bool-värde som indikerar om bilden använder upplösning under generation
+title: "Image.IsApplyResolution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Image-egenskap. Hämtar eller anger ett booleskt värde som indikerar om bilden använder upplösning under generering"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/image/isapplyresolution/
 ---
-## Image.IsApplyResolution-egenskap
+## Image.IsApplyResolution property
 
-Hämtar eller ställer in ett bool-värde som indikerar om bilden använder upplösning under generation
+Hämtar eller anger ett booleskt värde som indikerar om bilden använder upplösning under generering.
 
 ```csharp
 public bool IsApplyResolution { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Image](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

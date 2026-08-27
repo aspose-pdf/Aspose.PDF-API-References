@@ -1,9 +1,9 @@
 ---
-title: Enum ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColorSpace enum. Enumeration av färgrymder
+title: "Enum ColorSpace"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ColorSpace enum. Uppräkning av färgrymderna"
 type: docs
-weight: 3090
+weight: 3200
 url: /sv/net/aspose.pdf/colorspace/
 ---
 ## ColorSpace enumeration
@@ -20,9 +20,11 @@ public enum ColorSpace
 | --- | --- | --- |
 | DeviceRGB | `0` | Den enhetsberoende RGB-färgrymden. |
 | DeviceCMYK | `1` | Den enhetsberoende CMYK-färgrymden. |
-| DeviceGray | `2` | Den enhetsberoende grå färgrymden. |
+| DeviceGray | `2` | Den enhetsberoende gråa färgrymden. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

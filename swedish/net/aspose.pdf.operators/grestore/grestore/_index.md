@@ -1,21 +1,23 @@
 ---
-title: GRestore.GRestore
-second_title: Aspose.PDF for .NET API Reference
-description: GRestore constructor. Initializes Q operator
+title: "GRestore.GRestore"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GRestore konstruktor. Initierar Q-operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/grestore/grestore/
 ---
-## GRestore-konstruktör
+## GRestore constructor
 
-Initierar Q-operator.
+Initierar Q-operatorn.
 
 ```csharp
 public GRestore()
 ```
 
-### Se Även
+### Se även
 
-* klass [GRestore](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [GRestore](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

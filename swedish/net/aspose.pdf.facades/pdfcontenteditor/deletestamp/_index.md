@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.DeleteStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Tar bort flera stämplar på den angivna sidan efter stämpelindex
+title: "PdfContentEditor.DeleteStamp"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor-metod. Tar bort flera stämplar på den angivna sidan med stämpelindex."
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/
 ---
-## PdfContentEditor.DeleteStamp metod
+## PdfContentEditor.DeleteStamp method
 
 Tar bort flera stämplar på den angivna sidan efter stämpelindex.
 
@@ -28,8 +28,10 @@ contentEditor.DeleteStamp(1, new int[] { 2, 3, 5} );
 contentEditor.Save("outfile.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

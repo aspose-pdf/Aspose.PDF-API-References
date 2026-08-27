@@ -1,14 +1,14 @@
 ---
-title: PageDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: PageDevice-metod. Utför en operation på den angivna sidan, t.ex. konverterar sidan till en grafisk bild
+title: "PageDevice.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageDevice-metod. Utför någon operation på den angivna sidan, t.ex. konverterar sidan till en grafisk bild"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.devices/pagedevice/process/
 ---
 ## Process(Page, Stream) {#process}
 
-Utför en operation på den angivna sidan, t.ex. konverterar sidan till en grafisk bild.
+Utför någon operation på den angivna sidan, t.ex. konverterar sidan till en grafisk bild.
 
 ```csharp
 public abstract void Process(Page page, Stream output)
@@ -16,21 +16,21 @@ public abstract void Process(Page page, Stream output)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Den sida som ska bearbetas. |
-| output | Stream | Denna ström innehåller resultaten av bearbetningen. |
+| sida | Page | Sidan att bearbeta. |
+| utdata | Stream | Denna ström innehåller resultaten av bearbetningen. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [PageDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Page](../../../aspose.pdf/page/)
+* class [PageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Process(Page, string) {#process_1}
 
-Utför en operation på den angivna sidan och sparar resultaten i filen.
+Utför någon operation på den angivna sidan och sparar resultatet i filen.
 
 ```csharp
 public void Process(Page page, string outputFileName)
@@ -38,12 +38,14 @@ public void Process(Page page, string outputFileName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Den sida som ska bearbetas. |
+| sida | Page | Sidan att bearbeta. |
 | outputFileName | String | Denna fil innehåller resultaten av bearbetningen. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [PageDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Page](../../../aspose.pdf/page/)
+* class [PageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

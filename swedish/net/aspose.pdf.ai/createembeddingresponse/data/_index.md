@@ -1,22 +1,24 @@
 ---
-title: CreateEmbeddingResponse.Data
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingResponse-egenskap. Hämtar eller ställer in en lista med inbäddningsobjekt
+title: "CreateEmbeddingResponse.Data"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateEmbeddingResponse-egenskap. Hämtar eller anger en lista med inbäddningsobjekt"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/createembeddingresponse/data/
 ---
-## CreateEmbeddingResponse.Data-egenskap
+## CreateEmbeddingResponse.Data property
 
-Hämtar eller ställer in en lista med inbäddningsobjekt.
+Hämtar eller anger en lista över inbäddningsobjekt.
 
 ```csharp
 public List<Embedding> Data { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Embedding](../../embedding/)
-* klass [CreateEmbeddingResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Embedding](../../embedding/)
+* class [CreateEmbeddingResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

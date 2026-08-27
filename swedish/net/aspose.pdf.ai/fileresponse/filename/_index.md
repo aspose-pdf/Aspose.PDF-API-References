@@ -1,21 +1,23 @@
 ---
-title: FileResponse.Filename
-second_title: Aspose.PDF for .NET API Reference
-description: FileResponse-egenskap. Hämtar eller ställer in namnet på filen
+title: "FileResponse.Filename"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileResponse egenskap. Hämtar eller anger filens namn"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/fileresponse/filename/
 ---
-## FileResponse.Filename-egenskap
+## FileResponse.Filename property
 
-Hämtar eller ställer in namnet på filen.
+Hämtar eller anger filens namn.
 
 ```csharp
 public string Filename { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

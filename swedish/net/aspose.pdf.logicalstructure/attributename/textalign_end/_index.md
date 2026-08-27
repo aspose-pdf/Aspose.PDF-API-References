@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextAlign_End
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut TextAlign Slut  Justerat med slutkanten
+title: "AttributeName.TextAlign_End"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-fältet. Attribut TextAlign End Justerad med slutkanten"
 type: docs
 weight: 560
 url: /sv/net/aspose.pdf.logicalstructure/attributename/textalign_end/
 ---
-## AttributeName.TextAlign_End fält
+## AttributeName.TextAlign_End field
 
-Attribut TextAlign: Slut - Justerat med slutkanten.
+Attribut TextAlign: End - Justerad mot slutkanten.
 
 ```csharp
 public static readonly AttributeName TextAlign_End;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

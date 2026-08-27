@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetLocation
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature metod. Hämtar platsen för en signatur
+title: "PdfFileSignature.GetLocation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature‑metod. Hämtar platsen för en signatur."
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf.facades/pdffilesignature/getlocation/
 ---
-## PdfFileSignature.GetLocation metod
+## PdfFileSignature.GetLocation method
 
-Hämtar platsen för en signatur.
+Hämtar signaturens plats.
 
 ```csharp
 public string GetLocation(SignatureName signName)
@@ -20,11 +20,13 @@ public string GetLocation(SignatureName signName)
 
 ### Returvärde
 
-Returnerar ett resultat av strängtyp.
+Returnerar ett resultat av typen string.
 
-### Se Även
+### Se även
 
-* klass [SignatureName](../../signaturename/)
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateRubberStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Skapar en gummistämpelannotering
+title: "PdfContentEditor.CreateRubberStamp"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor-metod. Skapar en gummistämpelannotation"
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createrubberstamp/
 ---
 ## CreateRubberStamp(int, Rectangle, string, string, Color) {#createrubberstamp_2}
 
-Skapar en gummistämpelannotering.
+Skapar en gummistämpel-annotation.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string annotContents, 
@@ -17,11 +17,11 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Numret på den ursprungliga sidan där annoteringen kommer att skapas. |
-| annotRect | Rectangle | Annoteringsrektangeln som definierar platsen för annoteringen på sidan. |
-| icon | String | En ikon som ska användas för att visa annoteringen. Standardvärde: 'Draft'. |
-| annotContents | String | Innehållet i annoteringen. |
-| color | Color | Färgen på annoteringen. |
+| sida | Int32 | Numret på den ursprungliga sidan där annotationen kommer att skapas. |
+| annotRect | Rectangle | Rektangeln för annotationen som definierar placeringen av annotationen på sidan. |
+| icon | String | En ikon ska användas för att visa annotationen. Standardvärde: 'Draft'. |
+| annotContents | String | Innehållet i annotationen. |
+| color | Color | Färgen på annotationen. |
 
 ## Exempel
 
@@ -33,17 +33,17 @@ editor.CreateRubberStamp(1, System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateRubberStamp(int, Rectangle, string, Color, string) {#createrubberstamp_1}
 
-Skapar en gummistämpelannotering.
+Skapar en gummistämpel-annotation.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
@@ -52,11 +52,11 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Numret på den ursprungliga sidan där annoteringen kommer att skapas. |
-| annotRect | Rectangle | Annoteringsrektangeln som definierar platsen för annoteringen på sidan. |
-| annotContents | String | Innehållet i annoteringen. |
-| color | Color | Färgen på annoteringen. |
-| appearanceFile | String | Sökvägen till utseendefilen. |
+| sida | Int32 | Numret på den ursprungliga sidan där annotationen kommer att skapas. |
+| annotRect | Rectangle | Rektangeln för annotationen som definierar placeringen av annotationen på sidan. |
+| annotContents | String | Innehållet i annotationen. |
+| color | Color | Färgen på annotationen. |
+| appearanceFile | String | Sökvägen till appearance file. |
 
 ## Exempel
 
@@ -68,17 +68,17 @@ editor.CreateRubberStamp(1, System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateRubberStamp(int, Rectangle, string, Color, Stream) {#createrubberstamp}
 
-Skapar en gummistämpelannotering.
+Skapar en gummistämpel-annotation.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
@@ -87,11 +87,11 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Numret på den ursprungliga sidan där annoteringen kommer att skapas. |
-| annotRect | Rectangle | Annoteringsrektangeln som definierar platsen för annoteringen på sidan. |
-| annotContents | String | Innehållet i annoteringen. |
-| color | Color | Färgen på annoteringen. |
-| appearanceStream | Stream | Strömmen av utseendefilen. |
+| sida | Int32 | Numret på den ursprungliga sidan där annotationen kommer att skapas. |
+| annotRect | Rectangle | Rektangeln för annotationen som definierar placeringen av annotationen på sidan. |
+| annotContents | String | Innehållet i annotationen. |
+| color | Color | Färgen på annotationen. |
+| appearanceStream | Stream | Strömmen för appearance file. |
 
 ## Exempel
 
@@ -106,8 +106,10 @@ using (System.IO.FileStream appStream = File.OpenRead("appearance_file.pdf"))
 }    
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

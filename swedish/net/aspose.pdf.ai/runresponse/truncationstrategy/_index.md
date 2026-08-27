@@ -1,22 +1,24 @@
 ---
-title: RunResponse.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse-egenskap. Hämtar eller ställer in avkortningsstrategin som styr hur en tråd kommer att avkortas före körningen. Använd detta för att kontrollera det initiala kontextfönstret för körningen
+title: "RunResponse.TruncationStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunResponse egenskap. Hämtar eller anger trunkeringsstrategin som styr hur en tråd trunkeras innan körningen. Använd detta för att kontrollera det initiala kontextfönstret för körningen."
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf.ai/runresponse/truncationstrategy/
 ---
-## RunResponse.TruncationStrategy-egenskap
+## RunResponse.TruncationStrategy property
 
-Hämtar eller ställer in avkortningsstrategin som styr hur en tråd kommer att avkortas före körningen. Använd detta för att kontrollera det initiala kontextfönstret för körningen.
+Hämtar eller anger trunkeringsstrategin som styr hur en tråd trunkeras före körningen. Använd detta för att kontrollera det initiala kontextfönstret för körningen.
 
 ```csharp
 public TruncationStrategy TruncationStrategy { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TruncationStrategy](../../truncationstrategy/)
-* klass [RunResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

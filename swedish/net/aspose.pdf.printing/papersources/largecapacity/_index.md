@@ -1,22 +1,24 @@
 ---
-title: PaperSources.LargeCapacity
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources-fältet. Representerar den stora kapacitetsbehållaren för skrivaren
+title: "PaperSources.LargeCapacity"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSources-fält. Representerar det stora kapacitetsfacket i skrivaren"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.printing/papersources/largecapacity/
 ---
-## PaperSources.LargeCapacity-fält
+## PaperSources.LargeCapacity field
 
-Representerar den stora kapacitetsbehållaren för skrivaren.
+Representerar den stora kapacitetsbehållaren i skrivaren.
 
 ```csharp
 public static readonly PaperSource LargeCapacity;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSource](../../papersource/)
-* klass [PaperSources](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

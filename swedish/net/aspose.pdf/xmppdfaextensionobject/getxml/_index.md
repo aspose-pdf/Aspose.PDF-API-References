@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionObject.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionObject method. Returns the list of xml elements that represent object in xml tree
+title: "XmpPdfAExtensionObject.GetXml"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionObject-metod. Returnerar listan med xml-element som representerar objektet i xml-trädet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/xmppdfaextensionobject/getxml/
 ---
-## XmpPdfAExtensionObject.GetXml metod
+## XmpPdfAExtensionObject.GetXml method
 
-Returnerar listan över xml-element som representerar objekt i xml-trädet.
+Returnerar listan med xml-element som representerar objektet i xml-trädet.
 
 ```csharp
 public abstract List<XmlElement> GetXml(XmlDocument xmlDocument)
@@ -16,14 +16,16 @@ public abstract List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | Den källxml-dokumentet. |
+| xmlDocument | XmlDocument | Källdokumentet i xml. |
 
 ### Returvärde
 
-&gt;Listan över xml-element.
+&gt;Listan med xml-element.
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionObject](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

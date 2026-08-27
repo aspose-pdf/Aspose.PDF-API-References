@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings-konstruktorn. Standardkonstruktorn
+title: "PrinterSettings.PrinterSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrinterSettings-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.printing/printersettings/printersettings/
 ---
-## PrinterSettings-konstruktorn
+## PrinterSettings constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PrinterSettings()
 ```
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

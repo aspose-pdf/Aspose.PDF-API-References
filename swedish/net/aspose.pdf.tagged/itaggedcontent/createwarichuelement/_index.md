@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateWarichuElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-metod. Skapar WarichuElement
+title: "ITaggedContent.CreateWarichuElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar WarichuElement"
 type: docs
-weight: 370
+weight: 400
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createwarichuelement/
 ---
-## ITaggedContent.CreateWarichuElement metod
+## ITaggedContent.CreateWarichuElement method
 
 Skapar [`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement/).
 
@@ -16,11 +16,13 @@ public WarichuElement CreateWarichuElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [WarichuElement](../../../aspose.pdf.logicalstructure/warichuelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [WarichuElement](../../../aspose.pdf.logicalstructure/warichuelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

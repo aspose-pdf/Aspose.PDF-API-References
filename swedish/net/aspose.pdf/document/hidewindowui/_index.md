@@ -1,14 +1,14 @@
 ---
-title: Document.HideWindowUI
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in flagga som specificerar om användargränssnittselement ska döljas när dokumentet är aktivt
+title: "Document.HideWindowUI"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar eller anger flagga som specificerar om användargränssnittselement ska döljas när dokumentet är aktivt"
 type: docs
-weight: 250
+weight: 270
 url: /sv/net/aspose.pdf/document/hidewindowui/
 ---
-## Document.HideWindowUI-egenskap
+## Document.HideWindowUI property
 
-Hämtar eller ställer in flagga som specificerar om användargränssnittselement ska döljas när dokumentet är aktivt.
+Hämtar eller anger flagga som specificerar om användargränssnittselement ska döljas när dokumentet är aktivt.
 
 ```csharp
 public bool HideWindowUI { get; set; }
@@ -16,15 +16,17 @@ public bool HideWindowUI { get; set; }
 
 ## Exempel
 
-Exemplet visar hur man hämtar HideWindowUI-flaggan:
+Exempel visar hur man hämtar HideWindowUI-flaggan:
 
 ```csharp
 Document document = new Document("sample.pdf");
 bool value = document.HideWindowUI;
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

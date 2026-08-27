@@ -1,12 +1,12 @@
 ---
-title: PageMarkup.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: PageMarkup-egenskap. Hämtar samling av MarkupParagraph som hittades på sidan
+title: "PageMarkup.Paragraphs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageMarkup-egenskap. Hämtar samling av MarkupParagraph som hittades på sidan"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/pagemarkup/paragraphs/
 ---
-## PageMarkup.Paragraphs-egenskap
+## PageMarkup.Paragraphs property
 
 Hämtar samling av [`MarkupParagraph`](../../markupparagraph/) som hittades på sidan.
 
@@ -14,9 +14,11 @@ Hämtar samling av [`MarkupParagraph`](../../markupparagraph/) som hittades på 
 public List<MarkupParagraph> Paragraphs { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarkupParagraph](../../markupparagraph/)
-* klass [PageMarkup](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [MarkupParagraph](../../markupparagraph/)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

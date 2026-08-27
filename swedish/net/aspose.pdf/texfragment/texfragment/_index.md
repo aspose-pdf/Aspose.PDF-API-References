@@ -1,7 +1,7 @@
 ---
-title: TeXFragment.TeXFragment
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFragment-konstruktorn. Initierar en ny instans av HtmlFragment-klassen
+title: "TeXFragment.TeXFragment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXFragment-konstruktor. Initierar en ny instans av HtmlFragment-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/texfragment/texfragment/
@@ -16,13 +16,13 @@ public TeXFragment(string text)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Fragmenttexten |
+| text | String | Fragmenttexten |
 
-### Se Även
+### Se även
 
-* klass [TeXFragment](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,11 +36,13 @@ public TeXFragment(string text, bool removeIndents)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Fragmenttexten |
-| removeIndents | Boolean | Bestämmer om indrag inte ska göras vid typesättning av LaTeX-fragment |
+| text | String | Fragmenttexten |
+| removeIndents | Boolean | Avgör om indrag ska undvikas vid formatering av LaTeX-fragment |
 
-### Se Även
+### Se även
 
-* klass [TeXFragment](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

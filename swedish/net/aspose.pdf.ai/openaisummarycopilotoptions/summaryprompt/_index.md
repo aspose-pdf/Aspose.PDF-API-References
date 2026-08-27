@@ -1,21 +1,23 @@
 ---
-title: OpenAISummaryCopilotOptions.SummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions-egenskap. Hämtar eller ställer in prompten för att instruera modellen att ge en dokument sammanfattning
+title: "OpenAISummaryCopilotOptions.SummaryPrompt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAISummaryCopilotOptions‑egenskap. Hämtar eller anger prompten för att instruera modellen att leverera en dokument‑sammanfattning"
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.pdf.ai/openaisummarycopilotoptions/summaryprompt/
 ---
-## OpenAISummaryCopilotOptions.SummaryPrompt-egenskap
+## OpenAISummaryCopilotOptions.SummaryPrompt property
 
-Hämtar eller ställer in prompten för att instruera modellen att ge en dokument sammanfattning.
+Hämtar eller anger prompten för att instruera modellen att leverera en dokumentsammanfattning.
 
 ```csharp
 public string SummaryPrompt { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OpenAISummaryCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

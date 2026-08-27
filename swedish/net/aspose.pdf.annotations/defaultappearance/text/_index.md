@@ -1,21 +1,23 @@
 ---
-title: DefaultAppearance.Text
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance-egenskapen. Hämtar listan över pdf-operatörer som representerar utseende
+title: "DefaultAppearance.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DefaultAppearance-egenskap. Hämtar listan över pdf-operatorer som representerar utseendet"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/defaultappearance/text/
 ---
-## DefaultAppearance.Text-egenskap
+## DefaultAppearance.Text property
 
-Hämtar listan över pdf-operatörer som representerar utseende.
+Hämtar listan över pdf‑operatorer som representerar utseendet.
 
 ```csharp
 public string Text { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DefaultAppearance](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

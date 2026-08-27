@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.BorderThickness
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. BorderThickness-attribut Layout-attribut ägare
+title: "AttributeKey.BorderThickness"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. BorderThickness attribut Layout attribut ägare"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/borderthickness/
 ---
-## AttributeKey.BorderThickness-fält
+## AttributeKey.BorderThickness field
 
-BorderThickness-attribut (Layout-attribut ägare).
+BorderThickness-attribut (Layout-attributägare).
 
 ```csharp
 public static readonly AttributeKey BorderThickness;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

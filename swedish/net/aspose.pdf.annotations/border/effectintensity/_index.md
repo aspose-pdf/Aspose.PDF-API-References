@@ -1,21 +1,23 @@
 ---
-title: Border.EffectIntensity
-second_title: Aspose.PDF for .NET API Reference
-description: Border-egenskap. Hämtar eller ställer in effektintensitet. Giltigt värdeområde är 0..2
+title: "Border.EffectIntensity"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Border‑egenskap. Hämtar eller anger effektintensitet. Giltigt värdeintervall är 0..2"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/border/effectintensity/
 ---
-## Border.EffectIntensity-egenskap
+## Border.EffectIntensity property
 
-Hämtar eller ställer in effektintensitet. Giltigt värdeområde är [0..2].
+Hämtar eller anger effektintensitet. Giltigt värdeintervall är [0..2].
 
 ```csharp
 public int EffectIntensity { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Border](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

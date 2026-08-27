@@ -1,21 +1,23 @@
 ---
-title: HeaderArtifact.HeaderArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderArtifact-konstruktör. Skapar en instans av Header Artifact
+title: "HeaderArtifact.HeaderArtifact"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HeaderArtifact‑konstruktor. Skapar en Header Artifact‑instans"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/headerartifact/headerartifact/
 ---
-## HeaderArtifact-konstruktör
+## HeaderArtifact constructor
 
-Skapar en instans av Header Artifact.
+Skapar en Header-artifakt-instans.
 
 ```csharp
 public HeaderArtifact()
 ```
 
-### Se Även
+### Se även
 
-* klass [HeaderArtifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HeaderArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

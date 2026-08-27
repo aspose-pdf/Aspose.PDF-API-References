@@ -1,12 +1,12 @@
 ---
-title: ChoiceField.Options
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField-egenskap. Hämtar samling av valalternativ
+title: "ChoiceField.Options"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ChoiceField property. Hämtar samling av valalternativ"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/choicefield/options/
 ---
-## ChoiceField.Options-egenskap
+## ChoiceField.Options property
 
 Hämtar samling av valalternativ.
 
@@ -14,9 +14,11 @@ Hämtar samling av valalternativ.
 public virtual OptionCollection Options { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OptionCollection](../../optioncollection/)
-* klass [ChoiceField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [OptionCollection](../../optioncollection/)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

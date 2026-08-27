@@ -1,12 +1,12 @@
 ---
-title: RadioButtonField.Options
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField-egenskap. Hämtar samling av alternativ för radioknappen
+title: "RadioButtonField.Options"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RadioButtonField egenskap. Hämtar samling av alternativ för radioknappen."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/radiobuttonfield/options/
 ---
-## RadioButtonField.Options-egenskap
+## RadioButtonField.Options property
 
 Hämtar samling av alternativ för radioknappen.
 
@@ -14,9 +14,11 @@ Hämtar samling av alternativ för radioknappen.
 public override OptionCollection Options { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OptionCollection](../../optioncollection/)
-* klass [RadioButtonField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [OptionCollection](../../optioncollection/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

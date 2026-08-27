@@ -1,12 +1,12 @@
 ---
-title: PdfToXlsOptions.PdfToXlsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToXlsOptions-konstruktorn. Standardkonstruktorn
+title: "PdfToXlsOptions.PdfToXlsOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfToXlsOptions konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/pdftoxlsoptions/pdftoxlsoptions/
 ---
-## PdfToXlsOptions-konstruktorn
+## PdfToXlsOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PdfToXlsOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfToXlsOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfToXlsOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

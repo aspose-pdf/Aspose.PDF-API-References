@@ -1,21 +1,23 @@
 ---
-title: Metadata.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-egenskap. Hämtar samlingssynkroniseringsobjekt
+title: "Metadata.SyncRoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata-egenskap. Hämtar objektet för samlingssynkronisering"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/metadata/syncroot/
 ---
-## Metadata.SyncRoot-egenskap
+## Metadata.SyncRoot property
 
-Hämtar samlingssynkroniseringsobjekt.
+Hämtar samlingens synkroniseringsobjekt.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

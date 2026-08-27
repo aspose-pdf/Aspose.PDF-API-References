@@ -1,21 +1,23 @@
 ---
-title: TableCellElement.IsWordWrapped
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement-egenskap. Hämtar eller ställer in cellens text som är radbrytad
+title: "TableCellElement.IsWordWrapped"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableCellElement egenskap. Hämtar eller anger om cellens text är radbryten"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/
 ---
-## TableCellElement.IsWordWrapped-egenskap
+## TableCellElement.IsWordWrapped property
 
-Hämtar eller ställer in cellens text som är radbrytad.
+Hämtar eller anger cellens text radbrytning.
 
 ```csharp
 public bool IsWordWrapped { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TableCellElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfViewer.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer metod. Frigör fasadresurser
+title: "PdfViewer.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer‑metod. Frigör fasadens resurser"
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf.facades/pdfviewer/dispose/
 ---
-## PdfViewer.Dispose metod
+## PdfViewer.Dispose method
 
-Frigör fasadresurser.
+Frigör facade-resurserna.
 
 ```csharp
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

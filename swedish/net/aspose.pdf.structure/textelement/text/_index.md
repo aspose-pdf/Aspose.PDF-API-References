@@ -1,21 +1,23 @@
 ---
-title: TextElement.Text
-second_title: Aspose.PDF for .NET API Reference
-description: TextElement-egenskap. Hämtar värdet av textstrukturens element
+title: "TextElement.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextElement-egenskap. Hämtar värdet av textstruktur‑elementet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.structure/textelement/text/
 ---
-## TextElement.Text-egenskap
+## TextElement.Text property
 
-Hämtar värdet av textstrukturens element.
+Hämtar värdet för textelementets struktur.
 
 ```csharp
 public string Text { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextElement](../)
-* namnrymd [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* samling [Aspose.PDF](../../../)
+* class [TextElement](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

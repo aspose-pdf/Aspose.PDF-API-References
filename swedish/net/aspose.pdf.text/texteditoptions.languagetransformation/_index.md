@@ -1,14 +1,14 @@
 ---
-title: Enum TextEditOptions.LanguageTransformation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextEditOptionsLanguageTransformation enum. Språktransformation lägen
+title: "Enum TextEditOptions.LanguageTransformation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.TextEditOptionsLanguageTransformation enum. Språktransformationslägen"
 type: docs
-weight: 10850
+weight: 11030
 url: /sv/net/aspose.pdf.text/texteditoptions.languagetransformation/
 ---
 ## TextEditOptions.LanguageTransformation enumeration
 
-Språktransformation lägen
+Språktransformationslägen
 
 ```csharp
 public enum LanguageTransformation
@@ -19,11 +19,13 @@ public enum LanguageTransformation
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Default | `0` | Standard språktransformation utförs. |
-| ExactlyAsISee | `1` | Språktransformation utförs på samma sätt som i en textredigerare. Det betyder vanligtvis att texten kommer att se ut i dokumentet precis som du ser den i koden. Men inga garantier. |
-| None | `2` | Ingen språktransformation utförs. |
+| ExactlyAsISee | `1` | Språktransformation utförs på samma sätt som i en textredigerare. Det innebär vanligtvis att texten ser i dokumentet exakt ut som du ser den i koden. Men inga garantier. |
+| None | `2` | Språktransformation utförs inte. |
 
-### Se Även
+### Se även
 
-* klass [TextEditOptions](../texteditoptions/)
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../)
+* class [TextEditOptions](../texteditoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

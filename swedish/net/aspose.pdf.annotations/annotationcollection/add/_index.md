@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection-metod. Lägger till annotation i samlingen. Om sidan är roterad kommer annotationsrektangeln att beräknas om i enlighet med detta
+title: "AnnotationCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationCollection‑metod. Lägger till annotation i samlingen. Om sidan är roterad kommer annotation‑rektangeln att beräknas om i enlighet med detta"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/annotationcollection/add/
 ---
 ## Add(Annotation, bool) {#add_1}
 
-Lägger till annotation i samlingen. Om sidan är roterad kommer annotationsrektangeln att beräknas om i enlighet med detta.
+Lägger till annotation i samlingen. Om sidan är roterad kommer annotation rectangle att beräknas om i enlighet med detta.
 
 ```csharp
 public void Add(Annotation annotation, bool considerRotation)
@@ -17,13 +17,13 @@ public void Add(Annotation annotation, bool considerRotation)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | annotation | Annotation | Annotation som ska läggas till. |
-| considerRotation | Boolean | Om sant och om sidan är roterad kommer annotationspositionen att beräknas om enligt sidrotationen. |
+| considerRotation | Boolean | Om true och om sidan är roterad kommer annotation‑positionen att beräknas om enligt sidrotation. |
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../annotation/)
-* klass [AnnotationCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -40,9 +40,11 @@ public void Add(Annotation annotation)
 | --- | --- | --- |
 | annotation | Annotation | Annotation som ska läggas till. |
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../annotation/)
-* klass [AnnotationCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum TextIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.TextIcon enum. Uppräkning av ikoner som ska användas för att visa anteckningen
+title: "Enum TextIcon"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.TextIcon-enum. Enumererar ikonerna som ska användas vid visning av annoteringen."
 type: docs
-weight: 2660
+weight: 2760
 url: /sv/net/aspose.pdf.annotations/texticon/
 ---
-## TextIcon-uppräkning
+## TextIcon enumeration
 
-Uppräkning av ikoner som ska användas för att visa anteckningen.
+Enumererar ikonerna som ska användas vid visning av annotationen.
 
 ```csharp
 public enum TextIcon
@@ -18,19 +18,21 @@ public enum TextIcon
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Note | `0` | Anteckningsikon. |
-| Comment | `1` | Kommentarikon. |
+| Note | `0` | Notikon. |
+| Comment | `1` | Kommentarsikon. |
 | Key | `2` | Nyckelikon. |
-| Help | `3` | Hjälpikonen. |
-| NewParagraph | `4` | Nytt stycke-ikon. |
-| Paragraph | `5` | Styckeikon. |
-| Insert | `6` | Infoga ikon. |
-| Check | `7` | Kontrollikon. |
+| Help | `3` | Hjälpikon. |
+| NewParagraph | `4` | NewParagraph-ikon. |
+| Paragraph | `5` | Paragraph-ikon. |
+| Insert | `6` | Insert-ikon. |
+| Check | `7` | Check-ikon. |
 | Cross | `8` | Korsikon. |
-| Circle | `9` | Cirkelikonen. |
+| Circle | `9` | Cirkelikon. |
 | Star | `10` | Stjärnikon. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

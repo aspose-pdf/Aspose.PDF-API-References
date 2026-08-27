@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor metod. Extrahera bilder från PDF-fil
+title: "PdfExtractor.ExtractImage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor‑metod. Extrahera bilder från PDF‑filen"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.facades/pdfextractor/extractimage/
 ---
-## PdfExtractor.ExtractImage metod
+## PdfExtractor.ExtractImage method
 
 Extrahera bilder från PDF-fil.
 
@@ -27,8 +27,10 @@ while (extractor.HasNextImage())
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

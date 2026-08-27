@@ -1,30 +1,30 @@
 ---
-title: NumberField.NumberField
-second_title: Aspose.PDF for .NET API Reference
-description: NumberField-konstruktorn. Initierar en ny instans av NumberField-klassen
+title: "NumberField.NumberField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NumberField konstruktor. Initierar en ny instans av klassen NumberField"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/numberfield/numberfield/
 ---
 ## NumberField() {#constructor}
 
-Initierar en ny instans av [`NumberField`](../) klassen.
+Initierar en ny instans av klassen [`NumberField`](../).
 
 ```csharp
 public NumberField()
 ```
 
-### Se Även
+### Se även
 
-* klass [NumberField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## NumberField(Page, Rectangle) {#constructor_2}
 
-Initierar en ny instans av [`NumberField`](../) klassen.
+Initierar en ny instans av klassen [`NumberField`](../).
 
 ```csharp
 public NumberField(Page page, Rectangle rect)
@@ -32,22 +32,22 @@ public NumberField(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sida där textfältet är placerat. |
-| rect | Rectangle | Rektangel där fältet kommer att placeras på sidan. |
+| sida | Page | Sida där textfältet placeras. |
+| rect | Rectangle | Rectangle där fältet kommer att placeras på sidan. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [NumberField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## NumberField(Document, Rectangle) {#constructor_1}
 
-Initierar en ny instans av [`NumberField`](../) klassen.
+Initierar en ny instans av klassen [`NumberField`](../).
 
 ```csharp
 public NumberField(Document doc, Rectangle rect)
@@ -55,13 +55,15 @@ public NumberField(Document doc, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Document | Dokument där fältet kommer att skapas. |
-| rect | Rectangle | Rektangel av fältet. |
+| doc | Dokument | Document där fältet kommer att skapas. |
+| rect | Rectangle | Rektangel för fältet. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [NumberField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

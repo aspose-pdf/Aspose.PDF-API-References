@@ -1,12 +1,12 @@
 ---
-title: Class Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.Hyperparameters klass. Representerar hyperparametrarna som används för ett finjusteringsjobb
+title: "Klass Hyperparameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.Hyperparameters klass. Representerar hyperparametrarna som används för ett finjusteringsjobb."
 type: docs
-weight: 430
+weight: 450
 url: /sv/net/aspose.pdf.ai/hyperparameters/
 ---
-## Hyperparametrar klass
+## Hyperparameters class
 
 Representerar hyperparametrarna som används för ett finjusteringsjobb.
 
@@ -18,15 +18,17 @@ public class Hyperparameters
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Hyperparameters](hyperparameters/)() | Standardkonstruktören. |
+| [Hyperparameters](hyperparameters/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BatchSize](../../aspose.pdf.ai/hyperparameters/batchsize/) { get; set; } | Hämtar eller ställer in antalet exempel i varje batch. |
+| [BatchSize](../../aspose.pdf.ai/hyperparameters/batchsize/) { get; set; } | Hämtar eller anger antalet exempel i varje batch. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

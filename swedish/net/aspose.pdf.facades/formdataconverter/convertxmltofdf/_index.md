@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ConvertXmlToFdf
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter-metod. Konvertera XML import/export formulärdatafil till FDF-format
+title: "FormDataConverter.ConvertXmlToFdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormDataConverter metod. Konvertera XML-import/export-formulärdatafil till FDF-format"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/formdataconverter/convertxmltofdf/
 ---
-## FormDataConverter.ConvertXmlToFdf metod
+## FormDataConverter.ConvertXmlToFdf method
 
-Konvertera XML import/export formulärdatafil till FDF-format.
+Konvertera XML-import/export-formulärdatafil till FDF-format.
 
 ```csharp
 public static void ConvertXmlToFdf(Stream sourceXml, Stream destFdf)
@@ -17,10 +17,12 @@ public static void ConvertXmlToFdf(Stream sourceXml, Stream destFdf)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceXml | Stream | Källström som innehåller XML-fil. |
-| destFdf | Stream | Destinationskälla där den resulterande FDF-filen kommer att lagras. |
+| destFdf | Stream | Målkälla där den resulterande FDF-filen kommer att lagras. |
 
-### Se Även
+### Se även
 
-* klass [FormDataConverter](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormDataConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

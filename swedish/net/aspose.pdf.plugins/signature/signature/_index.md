@@ -1,12 +1,12 @@
 ---
-title: Signature.Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Signaturkonstruktör. Standardkonstruktorn
+title: "Signature.Signature"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Signature‑konstruktor. Standardkonstruktor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/signature/signature/
 ---
-## Signaturkonstruktör
+## Signature constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Signature()
 ```
 
-### Se Även
+### Se även
 
-* klass [Signature](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.Builder.Build
-second_title: Aspose.PDF for .NET API Reference
-description: Byggmetod. Bygger och returnerar en instans av OpenAIClient med de konfigurerade alternativen
+title: "OpenAIClient.Builder.Build"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Builder-metod. Skapar och returnerar en instans av OpenAIClient med de konfigurerade alternativen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/openaiclient.builder/build/
 ---
-## OpenAIClient.Builder.Build metod
+## OpenAIClient.Builder.Build method
 
-Bygger och returnerar en instans av [`OpenAIClient`](../../openaiclient/) med de konfigurerade alternativen.
+Skapar och returnerar en instans av [`OpenAIClient`](../../openaiclient/) med de konfigurerade alternativen.
 
 ```csharp
 public OpenAIClient Build()
@@ -18,9 +18,11 @@ public OpenAIClient Build()
 
 En instans av [`OpenAIClient`](../../openaiclient/).
 
-### Se Även
+### Se även
 
-* klass [OpenAIClient](../../openaiclient/)
-* klass [Builder](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIClient](../../openaiclient/)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

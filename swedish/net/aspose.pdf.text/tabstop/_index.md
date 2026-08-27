@@ -1,14 +1,14 @@
 ---
-title: Class TabStop
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TabStop klass. Representerar en anpassad Tab stopp position i ett stycke
+title: "Klass TabStop"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.TabStop-klass. Representerar en anpassad tabbstopposition i ett stycke."
 type: docs
-weight: 10770
+weight: 10950
 url: /sv/net/aspose.pdf.text/tabstop/
 ---
-## TabStop klass
+## TabStop class
 
-Representerar en anpassad Tab stopp position i ett stycke.
+Representerar en anpassad tabbstopp-position i ett stycke.
 
 ```csharp
 public class TabStop
@@ -18,19 +18,21 @@ public class TabStop
 
 | Namn | Beskrivning |
 | --- | --- |
-| [TabStop](tabstop/#constructor)() | Initierar en ny instans av `TabStop` klassen. |
-| [TabStop](tabstop/#constructor_1)(float) | Initierar en ny instans av `TabStop` klassen med angiven position. |
+| [TabStop](tabstop/#constructor)() | Initierar en ny instans av `TabStop`-klassen. |
+| [TabStop](tabstop/#constructor_1)(float) | Initierar en ny instans av `TabStop`-klassen med angiven position. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype/) { get; set; } | Hämtar eller sätter en [`AlignmentType`](./alignmenttype/) enum som indikerar tab stopp justeringstyp. |
-| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | Hämtar värde som indikerar att denna `TabStop` instans redan är kopplad till [`TextFragment`](../textfragment/) och blivit skrivskyddad |
-| [LeaderType](../../aspose.pdf.text/tabstop/leadertype/) { get; set; } | Hämtar eller sätter en [`TabLeaderType`](../tableadertype/) enum som indikerar tab ledartyp. |
-| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | Hämtar eller sätter ett flyttal som indikerar tab stopp position. |
+| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype/) { get; set; } | Hämtar eller anger en [`AlignmentType`](./alignmenttype/)-enum som indikerar tabulatorns justeringstyp. |
+| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | Hämtar värde som indikerar att denna `TabStop`-instans redan är bifogad till [`TextFragment`](../textfragment/) och har blivit skrivskyddad. |
+| [LeaderType](../../aspose.pdf.text/tabstop/leadertype/) { get; set; } | Hämtar eller anger en [`TabLeaderType`](../tableadertype/)-enum som indikerar tabbleder-typen. |
+| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | Hämtar eller anger ett flyttal som indikerar tabbstoppositionen. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

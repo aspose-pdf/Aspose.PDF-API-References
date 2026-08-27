@@ -1,22 +1,24 @@
 ---
-title: ToolCall.Function
-second_title: Aspose.PDF for .NET API Reference
-description: ToolCall-egenskap. Hämtar eller ställer in funktionen som modellen kallade
+title: "ToolCall.Function"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ToolCall-egenskap. Hämtar eller anger funktionen som modellen anropade"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/toolcall/function/
 ---
-## ToolCall.Function-egenskap
+## ToolCall.Function property
 
-Hämtar eller ställer in funktionen som modellen kallade.
+Hämtar eller anger funktionen som modellen anropade.
 
 ```csharp
 public Function Function { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Function](../../function/)
-* klass [ToolCall](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Function](../../function/)
+* class [ToolCall](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RgbToDeviceGrayConversionStrategy.Convert
-second_title: Aspose.PDF for .NET API Reference
-description: RgbToDeviceGrayConversionStrategy-metod. Konverterar sidan av dokumentet
+title: "RgbToDeviceGrayConversionStrategy.Convert"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RgbToDeviceGrayConversionStrategy-metod. Konverterar den page of document"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/rgbtodevicegrayconversionstrategy/convert/
 ---
-## RgbToDeviceGrayConversionStrategy.Convert metod
+## RgbToDeviceGrayConversionStrategy.Convert method
 
-Konverterar sidan av dokumentet.
+Konverterar sidan i dokumentet.
 
 ```csharp
 public void Convert(Page page)
@@ -16,11 +16,13 @@ public void Convert(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sidan av dokumentet. |
+| sida | Page | Den page of document. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [RgbToDeviceGrayConversionStrategy](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [RgbToDeviceGrayConversionStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

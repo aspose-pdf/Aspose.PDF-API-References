@@ -1,21 +1,23 @@
 ---
-title: AttributeOwnerStandard.List
-second_title: Aspose.PDF for .NET API Reference
-description: AttributägareStandard fält. Lista attributägare
+title: "AttributeOwnerStandard.List"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeOwnerStandard-fält. List-attributägare"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.logicalstructure/attributeownerstandard/list/
 ---
-## AttributeOwnerStandard.List fält
+## AttributeOwnerStandard.List field
 
-Lista attributägare.
+List-attributägare.
 
 ```csharp
 public static readonly AttributeOwnerStandard List;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

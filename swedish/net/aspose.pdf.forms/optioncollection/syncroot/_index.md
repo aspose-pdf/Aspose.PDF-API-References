@@ -1,21 +1,23 @@
 ---
-title: OptionCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection-egenskap. Synchroniseringsobjekt för samlingen
+title: "OptionCollection.SyncRoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptionCollection-egenskap. Synkroniseringsobjekt för samlingen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/optioncollection/syncroot/
 ---
-## OptionCollection.SyncRoot-egenskap
+## OptionCollection.SyncRoot property
 
-Synchroniseringsobjekt för samlingen.
+Synkroniseringsobjekt för samlingen.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OptionCollection](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

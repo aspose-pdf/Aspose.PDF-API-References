@@ -1,12 +1,12 @@
 ---
-title: ResponseFormat.IsStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: ResponseFormat-egenskap. Hämtar ett värde som indikerar om svarformatet är ett strängvärde
+title: "ResponseFormat.IsStringValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ResponseFormat‑egenskap. Hämtar ett värde som indikerar om svarformatet är ett strängvärde"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/responseformat/isstringvalue/
 ---
-## ResponseFormat.IsStringValue-egenskap
+## ResponseFormat.IsStringValue property
 
 Hämtar ett värde som indikerar om svarformatet är ett strängvärde.
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om svarformatet är ett strängvärde.
 public bool IsStringValue { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ResponseFormat](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ResponseFormat](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

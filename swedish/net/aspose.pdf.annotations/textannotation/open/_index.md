@@ -1,21 +1,23 @@
 ---
-title: TextAnnotation.Open
-second_title: Aspose.PDF for .NET API Reference
-description: TextAnnotation-egenskap. Hämtar eller ställer in en flagga som anger om anteckningen initialt ska visas öppen
+title: "TextAnnotation.Open"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextAnnotation-egenskap. Hämtar eller anger en flagga som specificerar om annoteringen initialt ska visas öppen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/textannotation/open/
 ---
-## TextAnnotation.Open-egenskap
+## TextAnnotation.Open property
 
-Hämtar eller ställer in en flagga som anger om anteckningen initialt ska visas öppen.
+Hämtar eller anger en flagga som specificerar om anteckningen initialt ska visas öppen.
 
 ```csharp
 public bool Open { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [TextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.PageResize
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters-metod. Skapar omformateringsparametrar för sidomformatering
+title: "PdfFileEditor.ContentsResizeParameters.PageResize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metoden ContentsResizeParameters. Skapar storleksändringsparametrar för sidändring"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize/
 ---
-## PdfFileEditor.ContentsResizeParameters.PageResize metod
+## PdfFileEditor.ContentsResizeParameters.PageResize method
 
-Skapar omformateringsparametrar för sidomformatering.
+Skapar ändringsparametrar för sidändring.
 
 ```csharp
 public static ContentsResizeParameters PageResize(double width, double height)
@@ -21,10 +21,12 @@ public static ContentsResizeParameters PageResize(double width, double height)
 
 ### Returvärde
 
-Nya omformateringsparametrar.
+Nya storleksändringsparametrar.
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeParameters](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

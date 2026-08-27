@@ -1,12 +1,12 @@
 ---
-title: Enum ImageCompressionVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Optimization.ImageCompressionVersion enum. Beskriver versioner av bildkomprimeringsalgoritmen
+title: "Enum ImageCompressionVersion"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Optimization.ImageCompressionVersion enum. Beskriver versioner av bildkomprimeringsalgoritmen"
 type: docs
-weight: 7960
+weight: 8100
 url: /sv/net/aspose.pdf.optimization/imagecompressionversion/
 ---
-## ImageCompressionVersion-uppräkning
+## ImageCompressionVersion enumeration
 
 Beskriver versioner av bildkomprimeringsalgoritmen.
 
@@ -19,10 +19,12 @@ public enum ImageCompressionVersion
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Standard | `0` | Standardalgoritm. Standardvärde. |
-| Snabb | `2` | Förbättrad algoritm som är snabbare än standard men tillämplig inte för alla fall. |
-| Blandad | `3` | Använd snabb algoritm när det är möjligt och standard för andra fall. Kan vara långsammare än "Snabb" men kan ge bättre komprimering. |
+| Fast | `2` | Förbättrad algoritm som är snabbare än standard men inte tillämplig i alla fall. |
+| Mixed | `3` | Använd snabb algoritm när det är möjligt och standard för andra fall. Kan vara långsammare än \"Fast\" men kan ge bättre komprimering. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../)
+
+

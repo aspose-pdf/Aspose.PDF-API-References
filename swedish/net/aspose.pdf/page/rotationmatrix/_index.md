@@ -1,22 +1,24 @@
 ---
-title: Page.RotationMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Sidans egenskap. Hämtar transformationsmatrisen för sidan
+title: "Page.RotationMatrix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar transformationsmatrisen för sidan"
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf/page/rotationmatrix/
 ---
-## Page.RotationMatrix egenskap
+## Page.RotationMatrix property
 
-Hämtar transformationsmatrisen för sidan.
+Hämtar transofmation‑matris för page.
 
 ```csharp
 public Matrix RotationMatrix { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../../matrix/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../../matrix/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

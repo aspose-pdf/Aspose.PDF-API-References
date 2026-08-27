@@ -1,12 +1,12 @@
 ---
-title: Class HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfToMarkdown.HeadingLevels klass. Representerar en klass för att arbeta med rubriknivåer baserat på teckenstorlek
+title: "Klass HeadingLevels"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PdfToMarkdown.HeadingLevels klass. Representerar en klass för att arbeta med rubriknivåer baserat på teckenstorlek"
 type: docs
 weight: 8440
 url: /sv/net/aspose.pdf.pdftomarkdown/headinglevels/
 ---
-## HeadingLevels klass
+## HeadingLevels class
 
 Representerar en klass för att arbeta med rubriknivåer baserat på teckenstorlek.
 
@@ -31,9 +31,11 @@ public class HeadingLevels
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AddLevels](../../aspose.pdf.pdftomarkdown/headinglevels/addlevels/)(ICollection&lt;double&gt;) | Lägger till rubriknivåer. Teckenstorlekskollektionen bör sorteras i minskande storlek. |
+| [AddLevels](../../aspose.pdf.pdftomarkdown/headinglevels/addlevels/)(ICollection&lt;double&gt;) | Lägger till rubriknivåer. Teckenstorlekskollektionen bör sorteras i fallande storlek. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../)
+
+

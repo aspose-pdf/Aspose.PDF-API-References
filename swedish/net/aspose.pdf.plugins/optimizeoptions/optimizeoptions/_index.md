@@ -1,12 +1,12 @@
 ---
-title: OptimizeOptions.OptimizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizeOptions-konstruktorn. Standardkonstruktorn
+title: "OptimizeOptions.OptimizeOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizeOptions-konstruktor. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/optimizeoptions/optimizeoptions/
 ---
-## OptimizeOptions-konstruktorn
+## OptimizeOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public OptimizeOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [OptimizeOptions](../)
-* namnrum [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [OptimizeOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

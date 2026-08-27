@@ -1,30 +1,30 @@
 ---
-title: PdfOutputGenerator.PdfOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: PdfOutputGenerator-konstruktör. Skapar en instans av PdfOutputGenerator-klassen
+title: "PdfOutputGenerator.PdfOutputGenerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfOutputGenerator-konstruktor. Skapar en instans av PdfOutputGenerator-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.comparison/pdfoutputgenerator/pdfoutputgenerator/
 ---
 ## PdfOutputGenerator() {#constructor}
 
-Skapar en instans av [`PdfOutputGenerator`](../) klassen.
+Skapar en instans av [`PdfOutputGenerator`](../)-klassen.
 
 ```csharp
 public PdfOutputGenerator()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfOutputGenerator](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfOutputGenerator(PageInfo) {#constructor_3}
 
-Skapar en instans av [`PdfOutputGenerator`](../) klassen.
+Skapar en instans av [`PdfOutputGenerator`](../)-klassen.
 
 ```csharp
 public PdfOutputGenerator(PageInfo pageInfo)
@@ -32,20 +32,20 @@ public PdfOutputGenerator(PageInfo pageInfo)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageInfo | PageInfo | Inställningar för sidstorlek och marginaler. |
+| pageInfo | PageInfo | Sidstorlek och marginalinställningar. |
 
-### Se Även
+### Se även
 
-* klass [PageInfo](../../../aspose.pdf/pageinfo/)
-* klass [PdfOutputGenerator](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfOutputGenerator(OutputTextStyle) {#constructor_1}
 
-Skapar en instans av [`PdfOutputGenerator`](../) klassen.
+Skapar en instans av [`PdfOutputGenerator`](../)-klassen.
 
 ```csharp
 public PdfOutputGenerator(OutputTextStyle textStyle)
@@ -53,20 +53,20 @@ public PdfOutputGenerator(OutputTextStyle textStyle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| textStyle | OutputTextStyle | Stilar för den ändrade texten. |
+| textStyle | OutputTextStyle | Stilarna för den ändrade texten. |
 
-### Se Även
+### Se även
 
-* klass [OutputTextStyle](../../outputtextstyle/)
-* klass [PdfOutputGenerator](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfOutputGenerator(OutputTextStyle, PageInfo) {#constructor_2}
 
-Skapar en instans av [`PdfOutputGenerator`](../) klassen.
+Skapar en instans av [`PdfOutputGenerator`](../)-klassen.
 
 ```csharp
 public PdfOutputGenerator(OutputTextStyle textStyle, PageInfo pageInfo)
@@ -74,13 +74,15 @@ public PdfOutputGenerator(OutputTextStyle textStyle, PageInfo pageInfo)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| textStyle | OutputTextStyle | Stilar för den ändrade texten. |
-| pageInfo | PageInfo | Inställningar för sidstorlek och marginaler. |
+| textStyle | OutputTextStyle | Stilarna för den ändrade texten. |
+| pageInfo | PageInfo | Sidstorlek och marginalinställningar. |
 
-### Se Även
+### Se även
 
-* klass [OutputTextStyle](../../outputtextstyle/)
-* klass [PageInfo](../../../aspose.pdf/pageinfo/)
-* klass [PdfOutputGenerator](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.GetCollectionField
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionSchema-metod. Hämtar ett samlingsfält efter namn
+title: "CollectionSchema.GetCollectionField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CollectionSchema-metod. Hämtar ett samlingsfält efter namn"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/collectionschema/getcollectionfield/
 ---
-## CollectionSchema.GetCollectionField metod
+## CollectionSchema.GetCollectionField method
 
 Hämtar ett samlingsfält efter namn.
 
@@ -16,11 +16,13 @@ public CollectionField GetCollectionField(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Fältnamn |
+| namn | String | Fältnamnet |
 
-### Se Även
+### Se även
 
-* klass [CollectionField](../../collectionfield/)
-* klass [CollectionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [CollectionField](../../collectionfield/)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

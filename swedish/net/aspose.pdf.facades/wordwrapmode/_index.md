@@ -1,12 +1,12 @@
 ---
-title: Enum WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.WordWrapMode enum. Definierar strategier för radbrytning
+title: "Enum WordWrapMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.WordWrapMode enum. Definierar strategier för radbrytning."
 type: docs
-weight: 4780
+weight: 4900
 url: /sv/net/aspose.pdf.facades/wordwrapmode/
 ---
-## WordWrapMode-uppräkning
+## WordWrapMode enumeration
 
 Definierar strategier för radbrytning
 
@@ -19,9 +19,11 @@ public enum WordWrapMode
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Default | `0` | Standardalgoritm (tillåter att bryta ord i mitten) |
-| ByWords | `1` | Radbrytning av ord bryter endast kompletta ord. Om det kompletta ordet inte kan brytas, försöker det att bryta ordet i mitten |
+| ByWords | `1` | Radbrytning bryter bara hela ord. Om hela ordet inte kan brytas, försöker den bryta ordet i mitten. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

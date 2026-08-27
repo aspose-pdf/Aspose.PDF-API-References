@@ -1,14 +1,14 @@
 ---
-title: Enum TabAlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TabAlignmentType enum. Uppräkning av tabbaligneringstyper
+title: "Enum TabAlignmentType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.TabAlignmentType enum. Enumererar typerna av tabbalansering."
 type: docs
-weight: 10750
+weight: 10930
 url: /sv/net/aspose.pdf.text/tabalignmenttype/
 ---
-## TabAlignmentType-uppräkning
+## TabAlignmentType enumeration
 
-Uppräkning av tabbaligneringstyper.
+Enumererar typerna av tabbalansering.
 
 ```csharp
 public enum TabAlignmentType
@@ -18,11 +18,13 @@ public enum TabAlignmentType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Vänster | `0` | Text som är vänsterjusterad från tabbstopp |
-| Center | `1` | Text som är centrerad från tabbstopp |
-| Höger | `2` | Text som är högerjusterad från tabbstopp |
+| Left | `0` | Text justerad åt vänster från tabbstoppet |
+| Center | `1` | Text centrerad från tabbstoppet |
+| Right | `2` | Text justerad åt höger från tabbstoppet |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Hyperlink klass. Representerar abstrakt hyperlänk
+title: "Klass Hyperlink"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Hyperlink klass. Representerar abstrakt hyperlänk"
 type: docs
-weight: 5740
+weight: 5870
 url: /sv/net/aspose.pdf/hyperlink/
 ---
-## Hyperlänk klass
+## Hyperlink class
 
 Representerar abstrakt hyperlänk.
 
@@ -14,7 +14,9 @@ Representerar abstrakt hyperlänk.
 public abstract class Hyperlink
 ```
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: SignatureCustomAppearance.ForegroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-egenskap. Hämtar/anger förgrundsfärg. Standardvärde Blå
+title: "SignatureCustomAppearance.ForegroundColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureCustomAppearance-egenskap. Hämtar/anger förgrundsfärg för text. Standardvärde Blue"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/
 ---
-## SignatureCustomAppearance.ForegroundColor-egenskap
+## SignatureCustomAppearance.ForegroundColor property
 
-Hämtar/anger förgrundsfärg (färg på text). Standardvärde: Blå.
+Hämtar/sätter förgrundsfärg (textfärg). Standardvärde: Blue.
 
 ```csharp
 public Color ForegroundColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [SignatureCustomAppearance](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LoadOptions.ResourceLoadingResult.ResourceLoadingResult
-second_title: Aspose.PDF for .NET API Reference
-description: ResourceLoadingResult-konstruktorn. Skapar en instans av laddningsresultatet
+title: "LoadOptions.ResourceLoadingResult.ResourceLoadingResult"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ResourceLoadingResult-konstruktor. Skapar en instans av laddningsresultatet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/loadoptions.resourceloadingresult/resourceloadingresult/
 ---
-## LoadOptions.ResourceLoadingResult-konstruktorn
+## LoadOptions.ResourceLoadingResult constructor
 
-Skapar en instans av laddningsresultatet
+Skapar en instans av inläsningsresultatet
 
 ```csharp
 public ResourceLoadingResult(byte[] data)
@@ -16,10 +16,12 @@ public ResourceLoadingResult(byte[] data)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| data | Byte[] | resultatet av anpassad laddning måste alltid tillhandahållas, det kan vara en array med noll längd om det är omöjligt att få något resultat |
+| data | Byte[] | Resultatet av anpassad laddning måste alltid tillhandahållas, det kan vara en noll‑längd array om det är omöjligt att få något resultat |
 
-### Se Även
+### Se även
 
-* klass [ResourceLoadingResult](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

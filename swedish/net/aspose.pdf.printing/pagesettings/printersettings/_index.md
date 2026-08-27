@@ -1,22 +1,24 @@
 ---
-title: PageSettings.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings-egenskap. Hämtar eller ställer in de associerade skrivareinställningarna
+title: "PageSettings.PrinterSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageSettings-egenskap. Hämtar eller anger de associerade skrivarinställningarna"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.printing/pagesettings/printersettings/
 ---
-## PageSettings.PrinterSettings-egenskap
+## PageSettings.PrinterSettings property
 
-Hämtar eller ställer in de associerade skrivareinställningarna.
+Hämtar eller anger de associerade skrivareinställningarna.
 
 ```csharp
 public PrinterSettings PrinterSettings { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../../printersettings/)
-* klass [PageSettings](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

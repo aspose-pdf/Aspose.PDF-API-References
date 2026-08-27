@@ -1,25 +1,27 @@
 ---
-title: PDF3DContent.Extension
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent-egenskap. Hämtar tillägget
+title: "PDF3DContent.Extension"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DContent-egenskap. Hämtar filändelsen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/pdf3dcontent/extension/
 ---
-## PDF3DContent.Extension-egenskap
+## PDF3DContent.Extension property
 
-Hämtar tillägget.
+Hämtar filtillägget .
 
 ```csharp
 public string Extension { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Tillägget.
+Filändelsen.
 
-### Se Även
+### Se även
 
-* klass [PDF3DContent](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

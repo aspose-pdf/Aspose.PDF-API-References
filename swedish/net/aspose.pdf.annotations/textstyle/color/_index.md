@@ -1,12 +1,12 @@
 ---
-title: TextStyle.Color
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle egenskap. Färg på texten
+title: "TextStyle.Color"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStyle egenskap. Färgen på texten."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/textstyle/color/
 ---
-## TextStyle.Color egenskap
+## TextStyle.Color property
 
 Färg på texten.
 
@@ -14,8 +14,10 @@ Färg på texten.
 public Color Color { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStyle](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

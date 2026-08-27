@@ -1,21 +1,23 @@
 ---
-title: JavascriptAction.Script
-second_title: Aspose.PDF for .NET API Reference
-description: JavascriptAction-egenskap. Hämtar eller ställer in javascriptkod
+title: "JavascriptAction.Script"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "JavascriptAction egenskap. Hämtar eller anger JavaScript-kod"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/javascriptaction/script/
 ---
-## JavascriptAction.Script-egenskap
+## JavascriptAction.Script property
 
-Hämtar eller ställer in javascriptkod.
+Hämtar eller anger javascript‑kod.
 
 ```csharp
 public string Script { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [JavascriptAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [JavascriptAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

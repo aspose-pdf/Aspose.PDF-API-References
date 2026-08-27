@@ -1,14 +1,14 @@
 ---
-title: WatermarkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation metod. Tillämpa besökare för anteckning
+title: "WatermarkAnnotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WatermarkAnnotation-metod. Tillämpa besökare för annotation"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/watermarkannotation/accept/
 ---
-## WatermarkAnnotation.Accept metod
+## WatermarkAnnotation.Accept method
 
-Tillämpa besökare för anteckning.
+Applicera besökare för annotering.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Besökarobjekt. |
+| besökare | AnnotationSelector | Besökarobjekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [WatermarkAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

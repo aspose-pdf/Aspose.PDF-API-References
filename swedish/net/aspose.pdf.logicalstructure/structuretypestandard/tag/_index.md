@@ -1,25 +1,27 @@
 ---
-title: StructureTypeStandard.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-egenskap. Hämtar taggnamn för StructureElement
+title: "StructureTypeStandard.Tag"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard egenskap. Hämtar taggnamnet för StructureElement"
 type: docs
 weight: 510
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/tag/
 ---
-## StructureTypeStandard.Tag-egenskap
+## StructureTypeStandard.Tag property
 
-Hämtar taggnamn för [`StructureElement`](../../structureelement/).
+Hämtar taggnamnet för [`StructureElement`](../../structureelement/).
 
 ```csharp
 public string Tag { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Taggnamn för [`StructureElement`](../../structureelement/).
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

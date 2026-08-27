@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.GetProperty
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema-metod. Returnerar PDF/A-egenskapen efter dess namn
+title: "XmpPdfAExtensionSchema.GetProperty"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionSchema-metod. Returnerar PDF/A-egenskapen efter dess namn."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/xmppdfaextensionschema/getproperty/
 ---
-## XmpPdfAExtensionSchema.GetProperty metod
+## XmpPdfAExtensionSchema.GetProperty method
 
-Returnerar PDF/A-egenskapen efter dess namn.
+Returnerar PDF/A‑egenskap efter dess namn.
 
 ```csharp
 public XmpPdfAExtensionProperty GetProperty(string name)
@@ -16,15 +16,17 @@ public XmpPdfAExtensionProperty GetProperty(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Egenskapsnamn. |
+| namn | String | Egenskapsnamn. |
 
 ### Returvärde
 
 Egenskapen.
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionProperty](../../xmppdfaextensionproperty/)
-* klass [XmpPdfAExtensionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionProperty](../../xmppdfaextensionproperty/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

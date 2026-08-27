@@ -1,22 +1,24 @@
 ---
-title: Facade.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Facade-egenskap. Hämtar dokumentfacaden som arbetar med
+title: "Facade.Document"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Facade egenskap. Hämtar dokumentet som fasaden arbetar med"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/facade/document/
 ---
-## Facade.Document-egenskap
+## Facade.Document property
 
-Hämtar dokumentfacaden som arbetar med.
+Hämtar den dokumentfacade som arbetet sker på.
 
 ```csharp
 public Document Document { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Facade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

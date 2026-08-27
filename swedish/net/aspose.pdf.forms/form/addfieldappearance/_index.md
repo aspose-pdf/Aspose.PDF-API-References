@@ -1,14 +1,14 @@
 ---
-title: Form.AddFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Lägger till ytterligare utseende av fältet på angiven sida av dokumentet på angiven plats
+title: "Form.AddFieldAppearance"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formulärmetod. Lägger till ytterligare utseende för fältet på den angivna sidan i dokumentet på den specificerade platsen."
 type: docs
-weight: 200
+weight: 220
 url: /sv/net/aspose.pdf.forms/form/addfieldappearance/
 ---
-## Form.AddFieldAppearance metod
+## Form.AddFieldAppearance method
 
-Lägger till ytterligare utseende av fältet på angiven sida av dokumentet på angiven plats.
+Lägger till ett ytterligare utseende för fältet på den angivna sidan i dokumentet på den specificerade platsen.
 
 ```csharp
 public void AddFieldAppearance(Field field, int pageNumber, Rectangle rect)
@@ -16,14 +16,16 @@ public void AddFieldAppearance(Field field, int pageNumber, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| field | Field | Fält vars utseende ska läggas till på formuläret. |
-| pageNumber | Int32 | Nummer på sidan där fältet måste placeras. |
+| fält | Fält | Fält vars utseende ska läggas till i formuläret. |
+| pageNumber | Int32 | Nummer på den sida där fältet ska placeras. |
 | rect | Rectangle | Rektangel där fältet kommer att placeras. |
 
-### Se Även
+### Se även
 
-* klass [Field](../../field/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../../field/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

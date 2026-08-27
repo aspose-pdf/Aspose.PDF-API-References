@@ -1,21 +1,23 @@
 ---
-title: Heading.IsInList
-second_title: Aspose.PDF for .NET API Reference
-description: Heading-egenskap. Hämtar rubriken som ska vara i toc-listan
+title: "Heading.IsInList"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Heading-egenskap. Hämtar om rubriken ska finnas i innehållsförteckningslistan."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/heading/isinlist/
 ---
-## Heading.IsInList-egenskap
+## Heading.IsInList property
 
-Hämtar rubriken som ska vara i toc-listan.
+Hämtar om rubriken ska vara i toc‑listan.
 
 ```csharp
 public bool IsInList { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Heading](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

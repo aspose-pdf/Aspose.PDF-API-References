@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.H4
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Nivå 4 Rubrik för användning i konformerande skribenter som inte kan hierarkiskt nästla sina sektioner och därmed inte kan bestämma nivån på en rubrik utifrån dess nästlingsnivå
+title: "StructureTypeStandard.H4"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard field. Nivå 4 rubrik för användning i konformerande skribenter som inte kan hierarkiskt nästla sina sektioner och därför inte kan bestämma rubriknivån från dess nästlingsnivå"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/h4/
 ---
-## StructureTypeStandard.H4-fält
+## StructureTypeStandard.H4 field
 
-Nivå 4 Rubrik, för användning i konformerande skribenter som inte kan hierarkiskt nästla sina sektioner och därmed inte kan bestämma nivån på en rubrik utifrån dess nästlingsnivå.
+Rubrik nivå 4, för användning i kompatibla skribenter som inte kan hierarkiskt nästla sina sektioner och därför inte kan bestämma rubriknivån utifrån dess nästlingsnivå.
 
 ```csharp
 public static readonly StructureTypeStandard H4;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

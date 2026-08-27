@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: AttributNyckel fält. Bakgrundsfärg attribut Layout attribut ägare
+title: "AttributeKey.BackgroundColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. BackgroundColor attribute Layout attribute ägare"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/backgroundcolor/
 ---
-## AttributNyckel.Bakgrundsfärg fält
+## AttributeKey.BackgroundColor field
 
-Bakgrundsfärg attribut (Layout attribut ägare).
+BackgroundColor-attribut (Layout-attributägare).
 
 ```csharp
 public static readonly AttributeKey BackgroundColor;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributNyckel](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

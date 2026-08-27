@@ -1,12 +1,12 @@
 ---
-title: Class CompressOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.CompressOptions klass. Representerar komprimeringsalternativ för Optimizer-plugin
+title: "Klass CompressOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.CompressOptions klass. Representerar komprimeringsalternativ för Optimizer‑plugin"
 type: docs
-weight: 8490
+weight: 8620
 url: /sv/net/aspose.pdf.plugins/compressoptions/
 ---
-## CompressOptions klass
+## CompressOptions class
 
 Representerar komprimeringsalternativ för [`Optimizer`](../optimizer/) plugin.
 
@@ -24,20 +24,22 @@ public sealed class CompressOptions : OrganizerBaseOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Stänger indataflöden efter att operationen har slutförts. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Stänger utdataflöden efter att operationen har slutförts. |
-| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Returnerar datainsamlingen för OrganizerOptions-plugin. |
-| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Hämtar samlingen av tillagda mål för att spara operationens resultat. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Stäng inmatningsströmmar när operationen är slutförd. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Stäng utmatningsströmmar när operationen är slutförd. |
+| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Returnerar data-samlingen för OrganizerOptions-pluginen. |
+| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Hämtar samlingen av tillagda mål för att spara resultat av operationen. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | Lägger till en ny datakälla till PdfOrganizer-pluginens datainsamling. |
-| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | Lägger till en ny datakälla till PdfOrganizer-pluginens datainsamling. |
+| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | Lägger till en ny datakälla i PdfOrganizer-pluginens datasamling. |
+| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | Lägger till en ny datakälla i PdfOrganizer-pluginens datasamling. |
 
-### Se Även
+### Se även
 
-* klass [OrganizerBaseOptions](../organizerbaseoptions/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

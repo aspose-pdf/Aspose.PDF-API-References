@@ -1,14 +1,14 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PDF for .NET API Reference
-description: Color metod. Returnerar sant om två färger inte är lika
+title: "Color.op_Inequality"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-metod. Returnerar true om två Color-objekt inte är lika"
 type: docs
 weight: 1570
 url: /sv/net/aspose.pdf/color/op_inequality/
 ---
-## Färg ojämlikhetsoperator
+## Color Inequality operator
 
-Returnerar sant om två färger inte är lika.
+Returnerar true om två Colors inte är lika.
 
 ```csharp
 public static bool operator !=(Color x, Color y)
@@ -16,15 +16,17 @@ public static bool operator !=(Color x, Color y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Färg | Första färgobjektet. |
-| y | Färg | Andra färgobjektet. |
+| x | Color | Första Color-objektet. |
+| y | Color | Andra Color-objektet. |
 
 ### Returvärde
 
-Sant om färgobjekten inte är lika.
+True om Color-objekten inte är lika.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

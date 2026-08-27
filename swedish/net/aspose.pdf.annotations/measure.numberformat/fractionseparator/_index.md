@@ -1,21 +1,23 @@
 ---
-title: Measure.NumberFormat.FractionSeparator
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat-egenskap. Text som ska användas som decimalposition vid visning av numeriska värden. En tom sträng indikerar att standarden ska användas. Standard är punkttecken
+title: "Measure.NumberFormat.FractionSeparator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NumberFormat-egenskap. Text som ska användas som decimaltecken vid visning av numeriska värden. En tom sträng indikerar att standardvärdet ska användas. Standard är punkttecken."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.annotations/measure.numberformat/fractionseparator/
 ---
-## Measure.NumberFormat.FractionSeparator-egenskap
+## Measure.NumberFormat.FractionSeparator property
 
-Text som ska användas som decimalposition vid visning av numeriska värden. En tom sträng indikerar att standarden ska användas. Standard är punkttecken.
+Text som ska användas som decimaltecken vid visning av numeriska värden. En tom sträng indikerar att standardvärdet ska användas. Standard är punkttecknet.
 
 ```csharp
 public string FractionSeparator { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [NumberFormat](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

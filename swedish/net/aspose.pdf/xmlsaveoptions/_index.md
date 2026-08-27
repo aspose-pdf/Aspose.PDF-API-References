@@ -1,14 +1,14 @@
 ---
-title: Class XmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmlSaveOptions klass. Spara alternativ för export till Xml-format
+title: "Klass XmlSaveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.XmlSaveOptions klass. Spara alternativ för export till Xml-format"
 type: docs
-weight: 11400
+weight: 11590
 url: /sv/net/aspose.pdf/xmlsaveoptions/
 ---
-## XmlSaveOptions klass
+## XmlSaveOptions class
 
-Spara alternativ för export till Xml-format
+Sparalternativ för export till Xml-format.
 
 ```csharp
 public class XmlSaveOptions : SaveOptions
@@ -18,16 +18,16 @@ public class XmlSaveOptions : SaveOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [XmlSaveOptions](xmlsaveoptions/)() | Standardkonstruktören. |
+| [XmlSaveOptions](xmlsaveoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Hämtar eller ställer in ett booleanvärde som indikerar om teckensnittsglypher ska cachas medan aps-sidor förbereds. Förbättrar prestandan vid konvertering av pdf till andra format men ökar minnesanvändningen. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Hämtar eller ställer in ett booleanvärde som indikerar om Response-objektet ska stängas efter att dokumentet har sparats i svaret. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format för datalagring. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och sparaoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall sparaoperationen ska upphöra. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Hämtar eller anger ett booleskt värde som indikerar om teckenglyfer ska cachas medan APS‑sidor förbereds. Förbättrar prestanda för konvertering av PDF till andra format men ökar minnesanvändningen. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Hämtar eller anger ett booleskt värde som indikerar om Response‑objektet ska stängas efter att dokumentet har sparats i svaret. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format för datasparning. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Återuppringning för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction‑enum‑element som specificerar antingen Continue eller Abort. Continue är standardåtgärden och Save‑operationen fortsätter, men användaren kan också returnera Abort, varvid Save‑operationen ska avbrytas. |
 
 ## Exempel
 
@@ -35,20 +35,20 @@ Följande exempel visar hur man konverterar en PDF-fil till en XML-fil
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Sökvägen till dokumentkatalogen.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your PDF File.
+	// Sökvägen till din PDF‑fil.
 	var pdfFile = Path.Combine(dataDir, "PDF-to-XML.pdf");
 
-	// The path to output XML File.
+	// Sökvägen till utdata-XML-filen.
 	var xmlFile= Path.Combine(dataDir, "PDF-to-XML.xml");
 		
 	using (Document pdfDocument = new Document(pdfFile)){
-		// Initialize XmlSaveOptions	
+		// Initiera XmlSaveOptions\t
 		XmlSaveOptions saveOptions = new XmlSaveOptions();
 		
-		// Save XML file
+		// Spara XML-fil
 		pdfDocument.Save(xmlFile, saveOptions);
 	}
 ```
@@ -74,8 +74,10 @@ Följande exempel visar hur man konverterar en PDF-fil till en XML-fil
     End Using
 ```
 
-### Se Även
+### Se även
 
-* klass [SaveOptions](../saveoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

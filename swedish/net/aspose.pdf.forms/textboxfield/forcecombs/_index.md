@@ -1,21 +1,23 @@
 ---
-title: TextBoxField.ForceCombs
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField-egenskap. Hämtar eller ställer in flagga som indikerar om fältet är indelat i avståndspositioner
+title: "TextBoxField.ForceCombs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextBoxField-egenskap. Hämtar eller anger flagga som indikerar om fältet är uppdelat i separata positioner"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/textboxfield/forcecombs/
 ---
-## TextBoxField.ForceCombs-egenskap
+## TextBoxField.ForceCombs property
 
-Hämtar eller ställer in flagga som indikerar om fältet är indelat i avståndspositioner.
+Hämtar eller anger flagga som indikerar om fältet är delat i separata positioner.
 
 ```csharp
 public bool ForceCombs { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

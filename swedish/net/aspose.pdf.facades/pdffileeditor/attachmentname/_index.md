@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.AttachmentName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-egenskap. Hämtar eller ställer in namnet på bilagan när resultatet av operationen lagras i HttpResponse-objekt som bilaga
+title: "PdfFileEditor.AttachmentName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor-egenskap. Hämtar eller anger namn på attachment när resultatet av operationen lagras i HttpResponse-objekt som en attachment."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdffileeditor/attachmentname/
 ---
-## PdfFileEditor.AttachmentName-egenskap
+## PdfFileEditor.AttachmentName property
 
-Hämtar eller ställer in namnet på bilagan när resultatet av operationen lagras i HttpResponse-objekt som bilaga.
+Hämtar eller anger namn på bilagan när resultatet av operationen lagras i HttpResponse-objekt som en bilaga.
 
 ```csharp
 public string AttachmentName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

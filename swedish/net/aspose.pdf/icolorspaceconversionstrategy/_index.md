@@ -1,14 +1,14 @@
 ---
-title: Interface IColorSpaceConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IColorSpaceConversionStrategy-gränssnitt. Gränssnitt för färgrumsomvandlingsstrategier
+title: "Gränssnitt IColorSpaceConversionStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.IColorSpaceConversionStrategy interface. Gränssnitt för färgrymdkonverteringsstrategier"
 type: docs
-weight: 5760
+weight: 5890
 url: /sv/net/aspose.pdf/icolorspaceconversionstrategy/
 ---
-## IColorSpaceConversionStrategy-gränssnitt
+## IColorSpaceConversionStrategy interface
 
-Gränssnitt för färgrumsomvandlingsstrategier.
+Gränssnitt för konverteringsstrategier för färgrymder.
 
 ```csharp
 public interface IColorSpaceConversionStrategy
@@ -18,9 +18,11 @@ public interface IColorSpaceConversionStrategy
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Convert](../../aspose.pdf/icolorspaceconversionstrategy/convert/)(Page) | Konverterar sidan av dokumentet. |
+| [Convert](../../aspose.pdf/icolorspaceconversionstrategy/convert/)(Page) | Konverterar sidan i dokumentet. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

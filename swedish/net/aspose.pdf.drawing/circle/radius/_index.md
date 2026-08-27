@@ -1,21 +1,23 @@
 ---
-title: Circle.Radius
-second_title: Aspose.PDF for .NET API Reference
-description: Circle-egenskap. Hämtar eller ställer in ett flyttal som indikerar radien av cirkeln
+title: "Circle.Radius"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Circle egenskap. Hämtar eller anger ett flyttal som indikerar radien av cirkeln"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.drawing/circle/radius/
 ---
-## Circle.Radius-egenskap
+## Circle.Radius property
 
-Hämtar eller ställer in ett flyttal som indikerar radien av cirkeln.
+Hämtar eller anger ett flyttalsvärde som indikerar radien på cirkeln.
 
 ```csharp
 public double Radius { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Circle](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Circle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

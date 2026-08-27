@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.Width
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice-egenskap. Hämtar bildens utdata bredd
+title: "TiffDevice.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TiffDevice-egenskap. Hämtar bildens utdata bredd"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.devices/tiffdevice/width/
 ---
-## TiffDevice.Width-egenskap
+## TiffDevice.Width property
 
 Hämtar bildens utdata bredd.
 
@@ -14,8 +14,10 @@ Hämtar bildens utdata bredd.
 public int Width { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TiffDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

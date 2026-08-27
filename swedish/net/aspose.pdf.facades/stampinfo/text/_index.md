@@ -1,12 +1,12 @@
 ---
-title: StampInfo.Text
-second_title: Aspose.PDF for .NET API Reference
-description: StampInfo-egenskap. Hämtar text i stämpeln
+title: "StampInfo.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StampInfo egenskap. Hämtar text i stämpeln"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/stampinfo/text/
 ---
-## StampInfo.Text-egenskap
+## StampInfo.Text property
 
 Hämtar text i stämpeln.
 
@@ -14,8 +14,10 @@ Hämtar text i stämpeln.
 public string Text { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [StampInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

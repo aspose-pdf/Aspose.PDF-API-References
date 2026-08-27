@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute metod. Hämtar värdesträng
+title: "StructureAttribute.GetStringValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureAttribute‑metod. Hämtar värdesträng"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.logicalstructure/structureattribute/getstringvalue/
 ---
-## StructureAttribute.GetStringValue metod
+## StructureAttribute.GetStringValue method
 
-Hämtar värdesträng.
+Hämtar Value String.
 
 ```csharp
 public string GetStringValue()
@@ -18,8 +18,10 @@ public string GetStringValue()
 
 Värdesträng.
 
-### Se Även
+### Se även
 
-* klass [StructureAttribute](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

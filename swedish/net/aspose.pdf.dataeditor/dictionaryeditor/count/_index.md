@@ -1,21 +1,23 @@
 ---
-title: DictionaryEditor.Count
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor-egenskap. Hämtar antalet element som ingår i DictionaryEditor
+title: "DictionaryEditor.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DictionaryEditor egenskap. Hämtar antalet element som finns i DictionaryEditor"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.dataeditor/dictionaryeditor/count/
 ---
-## DictionaryEditor.Count-egenskap
+## DictionaryEditor.Count property
 
-Hämtar antalet element som ingår i [`DictionaryEditor`](../).
+Hämtar antalet element som finns i [`DictionaryEditor`](../).
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DictionaryEditor](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

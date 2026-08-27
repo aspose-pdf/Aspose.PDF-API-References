@@ -1,14 +1,14 @@
 ---
-title: Class ShFill
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ShFill klass. Klass som representerar sh-operatorns målningsområde med skuggmönster
+title: "Klass ShFill"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.ShFill klass. Klass som representerar sh-operatorn paint area with shading pattern"
 type: docs
-weight: 7870
+weight: 8010
 url: /sv/net/aspose.pdf.operators/shfill/
 ---
-## ShFill klass
+## ShFill class
 
-Klass som representerar sh-operatorn (målningsområde med skuggmönster).
+Klass som representerar sh-operatorn (målar område med skuggningsmönster).
 
 ```csharp
 public class ShFill : Operator
@@ -24,19 +24,21 @@ public class ShFill : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [Name](../../aspose.pdf.operators/shfill/name/) { get; set; } | Hämtar eller ställer in skuggnamnet. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [Name](../../aspose.pdf.operators/shfill/name/) { get; set; } | Hämtar eller anger skuggningsnamnet. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/shfill/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

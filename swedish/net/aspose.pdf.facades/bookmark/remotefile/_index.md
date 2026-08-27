@@ -1,21 +1,23 @@
 ---
-title: Bookmark.RemoteFile
-second_title: Aspose.PDF for .NET API Reference
-description: Bokmärksegenskap. Hämtar eller ställer in filvägen som krävs för GoToR-åtgärden av bokmärket
+title: "Bookmark.RemoteFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Bookmark-egenskap. Hämtar eller anger filsökvägen som krävs för GoToR‑åtgärden för bokmärket"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.facades/bookmark/remotefile/
 ---
-## Bookmark.RemoteFile-egenskap
+## Bookmark.RemoteFile property
 
-Hämtar eller ställer in filen (vägen) som krävs för "GoToR"-åtgärden av bokmärket.
+Hämtar eller anger filen (sökvägen) som krävs för \"GoToR\"‑åtgärden för bokmärket.
 
 ```csharp
 public string RemoteFile { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Bookmark](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

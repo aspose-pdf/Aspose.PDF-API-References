@@ -1,21 +1,23 @@
 ---
-title: IconFit.LeftoverBottom
-second_title: Aspose.PDF for .NET API Reference
-description: IconFit-egenskap. Hämtar eller ställer in utrymme som ska allokeras längst ner på ikonen
+title: "IconFit.LeftoverBottom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IconFit‑egenskap. Hämtar eller anger utrymme att tilldela längst ner på ikonen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/iconfit/leftoverbottom/
 ---
-## IconFit.LeftoverBottom-egenskap
+## IconFit.LeftoverBottom property
 
-Hämtar eller ställer in utrymme som ska allokeras längst ner på ikonen.
+Hämtar eller anger utrymme att tilldela längst ner på ikonen.
 
 ```csharp
 public double LeftoverBottom { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [IconFit](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [IconFit](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

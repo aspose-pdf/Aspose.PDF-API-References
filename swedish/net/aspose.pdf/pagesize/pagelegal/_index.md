@@ -1,21 +1,23 @@
 ---
-title: PageSize.PageLegal
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize-egenskap. Legalt format 356x216 mm
+title: "PageSize.PageLegal"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageSize-egenskap. Legal storlek 356x216 mm"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/pagesize/pagelegal/
 ---
-## PageSize.PageLegal-egenskap
+## PageSize.PageLegal property
 
-Legalt format (356x216 mm).
+Legal-storlek (356x216 mm).
 
 ```csharp
 public static PageSize PageLegal { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSize](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

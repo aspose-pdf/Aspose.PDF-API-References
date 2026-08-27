@@ -1,14 +1,14 @@
 ---
-title: Class TextExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.TextExtractor klass. Representerar TextExtractor-plugin
+title: "Klass TextExtractor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.TextExtractor-klass. Representerar TextExtractor‑plugin."
 type: docs
-weight: 9380
+weight: 9530
 url: /sv/net/aspose.pdf.plugins/textextractor/
 ---
-## TextExtractor klass
+## TextExtractor class
 
-Representerar TextExtractor-plugin.
+Representerar TextExtractor‑plugin.
 
 ```csharp
 public class TextExtractor : PdfExtractor
@@ -24,37 +24,39 @@ public class TextExtractor : PdfExtractor
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Implementering av IDisposable. Faktiskt, det är inte nödvändigt för PdfExtractor. |
-| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | Startar PdfExtractor-behandling med angivna parametrar. |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Implementering av IDisposable. Faktiskt är det inte nödvändigt för PdfExtractor. |
+| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | Startar PdfExtractor‑bearbetning med de angivna parametrarna. |
 
-## Kommentarer
+## Anmärkningar
 
-`TextExtractor`-objektet används för att extrahera text i PDF-dokument.
+Objektet `TextExtractor` används för att extrahera text i PDF‑dokument.
 
 ## Exempel
 
-Exemplet visar hur man extraherar textinnehållet i ett PDF-dokument.
+Exemplet visar hur man extraherar textinnehållet i ett PDF‑dokument.
 
 ```csharp
-// create TextExtractor object to extract text in PDF contents
+// skapa TextExtractor‑objekt för att extrahera text i PDF‑innehåll
 using (TextExtractor extractor = new TextExtractor())
 {
-    // create TextExtractorOptions
+    // skapa TextExtractorOptions
     textExtractorOptions = new TextExtractorOptions();
     
-    // add input file path to data sources
+    // lägg till inmatningsfilens sökväg till datakällorna
     textExtractorOptions.AddDataSource(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // utför extraktionsprocessen
     ResultContainer resultContainer = extractor.Process(textExtractorOptions);
     
-    // get the extracted text from the ResultContainer object
+    // hämta den extraherade texten från ResultContainer‑objektet
     string textExtracted = resultContainer.ResultCollection[0].ToString();
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../pdfextractor/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfExtractor](../pdfextractor/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

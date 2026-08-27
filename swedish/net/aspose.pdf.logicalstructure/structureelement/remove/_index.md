@@ -1,12 +1,12 @@
 ---
-title: StructureElement.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement-metod. Tar bort ett element från strukturen, en referens till det från föräldraobjektet, referenser till det från barnobjekt, det motsvarande objektet från dokumentet
+title: "StructureElement.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-metod. Tar bort ett element från strukturen, en referens till det från föräldraobjektet, referenser till det från barnobjekt, det motsvarande objektet från dokumentet."
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/remove/
 ---
-## StructureElement.Remove metod
+## StructureElement.Remove method
 
 Tar bort: ett element från strukturen, en referens till det från föräldraobjektet, referenser till det från barnobjekt, det motsvarande objektet från dokumentet.
 
@@ -14,8 +14,10 @@ Tar bort: ett element från strukturen, en referens till det från föräldraobj
 public void Remove()
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

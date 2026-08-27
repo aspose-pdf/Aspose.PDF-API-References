@@ -1,14 +1,14 @@
 ---
-title: Class SetTextRise
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetTextRise klass. Klass som representerar Ts-operatorn för att ställa in textens höjd
+title: "Klass SetTextRise"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetTextRise klass. Klass som representerar Ts-operatorn som sätter texthöjd"
 type: docs
-weight: 7850
+weight: 7990
 url: /sv/net/aspose.pdf.operators/settextrise/
 ---
-## SetTextRise klass
+## SetTextRise class
 
-Klass som representerar Ts-operatorn (ställer in textens höjd).
+Klass som representerar Ts-operatorn (sätter textlyft).
 
 ```csharp
 public class SetTextRise : TextStateOperator
@@ -24,19 +24,21 @@ public class SetTextRise : TextStateOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [TextRise](../../aspose.pdf.operators/settextrise/textrise/) { get; set; } | Hämtar eller ställer in textens höjd. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [TextRise](../../aspose.pdf.operators/settextrise/textrise/) { get; set; } | Hämtar eller anger texthöjden. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextrise/accept/)(IOperatorSelector) | Accepterar besöksobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
+| override [Accept](../../aspose.pdf.operators/settextrise/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [TextStateOperator](../textstateoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

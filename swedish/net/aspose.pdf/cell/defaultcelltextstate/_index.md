@@ -1,22 +1,24 @@
 ---
-title: Cell.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Cell-egenskap. Hämtar eller ställer in standard celltexttillstånd
+title: "Cell.DefaultCellTextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cell-egenskap. Hämtar eller anger standardtexttillståndet för cellen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/cell/defaultcelltextstate/
 ---
-## Cell.DefaultCellTextState-egenskap
+## Cell.DefaultCellTextState property
 
-Hämtar eller ställer in standard celltexttillstånd.
+Hämtar eller anger standardcellens texttillstånd.
 
 ```csharp
 public TextState DefaultCellTextState { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [Cell](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

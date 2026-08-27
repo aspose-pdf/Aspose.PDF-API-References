@@ -1,12 +1,12 @@
 ---
-title: Class SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.SignatureName klass. Representerar en klass för ett signaturnamn
+title: "Klass SignatureName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.SignatureName klass. Representerar en klass för ett signaturnamn."
 type: docs
-weight: 4710
+weight: 4830
 url: /sv/net/aspose.pdf.facades/signaturename/
 ---
-## SignatureName klass
+## SignatureName class
 
 Representerar en klass för ett signaturnamn.
 
@@ -25,8 +25,8 @@ public sealed class SignatureName
 | Namn | Beskrivning |
 | --- | --- |
 | override [Equals](../../aspose.pdf.facades/signaturename/equals/)(object) | Bestämmer om denna instans och ett specificerat objekt är lika. |
-| override [GetHashCode](../../aspose.pdf.facades/signaturename/gethashcode/)() | Returnerar en hashkod för denna instans baserat på FullName-egenskapen. |
-| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | Returnerar en strängrepresentation av `SignatureName`-instansen, främst med hjälp av dess namn. |
+| override [GetHashCode](../../aspose.pdf.facades/signaturename/gethashcode/)() | Returnerar en hashkod för denna instans baserat på egenskapen FullName. |
+| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | Returnerar en strängrepresentation av `SignatureName`‑instansen, främst med dess namn. |
 
 ## Fält
 
@@ -39,7 +39,9 @@ public sealed class SignatureName
 
 Representerar ett mer exakt signaturnamn. Används istället för strängnamn. Gör det möjligt att presentera signaturer med samma strängnamn.
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePolygon
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Skapar polygonannotering
+title: "PdfContentEditor.CreatePolygon"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor-metod. Skapar polygonanteckning"
 type: docs
 weight: 230
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createpolygon/
 ---
-## PdfContentEditor.CreatePolygon metod
+## PdfContentEditor.CreatePolygon method
 
-Skapar polygonannotering.
+Skapar polygonannotation.
 
 ```csharp
 public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
@@ -17,9 +17,9 @@ public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, stri
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | lineInfo | LineInfo | Instansen av LineInfo-klassen. |
-| page | Int32 | Numret på den ursprungliga sidan där annoteringen kommer att skapas. |
-| annotRect | Rectangle | Annoteringsrektangeln som definierar platsen för annoteringen på sidan. |
-| annotContents | String | Innehållet i annoteringen. |
+| sida | Int32 | Numret på den ursprungliga sidan där annotationen kommer att skapas. |
+| annotRect | Rectangle | Rektangeln för annotationen som definierar placeringen av annotationen på sidan. |
+| annotContents | String | Innehållet i annotationen. |
 
 ## Exempel
 
@@ -33,9 +33,11 @@ editor.CreatePolygon(lineInfo, 1 , new System.Drawing.Rectangle(0, 0, 0, 0), "We
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [LineInfo](../../lineinfo/)
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

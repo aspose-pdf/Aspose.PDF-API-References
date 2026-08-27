@@ -1,21 +1,23 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.Value
-second_title: Aspose.PDF for .NET API Reference
-description: ProgressEventHandlerInfo-fält. Nuvarande värde av progressvärdet
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ProgressEventHandlerInfo field. Aktuellt värde för framsteg"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value/
 ---
-## UnifiedSaveOptions.ProgressEventHandlerInfo.Value-fält
+## UnifiedSaveOptions.ProgressEventHandlerInfo.Value field
 
-Nuvarande värde av progressvärdet.
+Aktuellt värde för förloppsvärdet.
 
 ```csharp
 public int Value;
 ```
 
-### Se Även
+### Se även
 
-* klass [ProgressEventHandlerInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ProgressEventHandlerInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

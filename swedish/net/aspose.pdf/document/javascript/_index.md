@@ -1,12 +1,12 @@
 ---
-title: Document.JavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: Document-egenskap. Samling av JavaScript på dokumentnivå
+title: "Document.JavaScript"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Samling av JavaScript på dokumentnivå"
 type: docs
-weight: 340
+weight: 360
 url: /sv/net/aspose.pdf/document/javascript/
 ---
-## Document.JavaScript-egenskap
+## Document.JavaScript property
 
 Samling av JavaScript på dokumentnivå.
 
@@ -14,9 +14,11 @@ Samling av JavaScript på dokumentnivå.
 public JavaScriptCollection JavaScript { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [JavaScriptCollection](../../javascriptcollection/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [JavaScriptCollection](../../javascriptcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

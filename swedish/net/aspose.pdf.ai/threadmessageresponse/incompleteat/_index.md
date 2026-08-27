@@ -1,21 +1,23 @@
 ---
-title: ThreadMessageResponse.IncompleteAt
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse-egenskap. Hämtar eller ställer in Unix-tidsstämpeln i sekunder för när meddelandet markerades som ofullständigt
+title: "ThreadMessageResponse.IncompleteAt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageResponse property. Hämtar eller anger Unix-tidsstämpeln i sekunder för när meddelandet markerades som ofullständigt"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.ai/threadmessageresponse/incompleteat/
 ---
-## ThreadMessageResponse.IncompleteAt-egenskap
+## ThreadMessageResponse.IncompleteAt property
 
-Hämtar eller ställer in Unix-tidsstämpeln (i sekunder) för när meddelandet markerades som ofullständigt.
+Hämtar eller anger Unix‑tidsstämpeln (i sekunder) för när meddelandet markerades som ofullständigt.
 
 ```csharp
 public long? IncompleteAt { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

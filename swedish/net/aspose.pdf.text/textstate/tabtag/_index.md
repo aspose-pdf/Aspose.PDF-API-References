@@ -1,25 +1,27 @@
 ---
-title: TextState.TabTag
-second_title: Aspose.PDF for .NET API Reference
-description: TextState-fält. Du kan placera denna tagg i text för att deklarera tabulering
+title: "TextState.TabTag"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextState‑egenskap. Du kan placera denna tagg i texten för att ange tabulering."
 type: docs
-weight: 210
+weight: 180
 url: /sv/net/aspose.pdf.text/textstate/tabtag/
 ---
-## TextState.TabTag-fält
+## TextState.TabTag property
 
-Du kan placera denna tagg i text för att deklarera tabulering.
+Du kan placera denna tagg i texten för att ange tabulering.
 
 ```csharp
-public readonly string TabTag;
+public string TabTag { get; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Det har effekt endast i kombination med [`TabStops`](../../tabstops/).
+Den har endast effekt i kombination med [`TabStops`](../../tabstops/).
 
-### Se Även
+### Se även
 
-* klass [TextState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

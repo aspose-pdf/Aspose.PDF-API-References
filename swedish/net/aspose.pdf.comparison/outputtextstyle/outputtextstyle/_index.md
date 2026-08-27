@@ -1,12 +1,12 @@
 ---
-title: OutputTextStyle.OutputTextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: OutputTextStyle-konstruktorn. Standardkonstruktorn
+title: "OutputTextStyle.OutputTextStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutputTextStyle konstruktör. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.comparison/outputtextstyle/outputtextstyle/
 ---
-## OutputTextStyle-konstruktorn
+## OutputTextStyle constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public OutputTextStyle()
 ```
 
-### Se Även
+### Se även
 
-* klass [OutputTextStyle](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [OutputTextStyle](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

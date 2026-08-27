@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings-metod. Ger intressant information om PrinterSettings i strängform
+title: "PrinterSettings.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrinterSettings-metod. Tillhandahåller viss intressant information om PrinterSettings i strängformat."
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.printing/printersettings/tostring/
 ---
-## PrinterSettings.ToString metod
+## PrinterSettings.ToString method
 
-Ger intressant information om PrinterSettings i strängform.
+Tillhandahåller viss intressant information om PrinterSettings i strängformat.
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 Sträng som representerar PrinterSettings.
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

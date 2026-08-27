@@ -1,12 +1,12 @@
 ---
-title: Class Circle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Circle klass. Representerar cirkel
+title: "Klass Circle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Drawing.Circle klass. Representerar cirkel"
 type: docs
-weight: 3890
+weight: 4010
 url: /sv/net/aspose.pdf.drawing/circle/
 ---
-## Cirkel klass
+## Circle class
 
 Representerar cirkel.
 
@@ -18,17 +18,17 @@ public sealed class Circle : Shape
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Circle](circle/)(float, float, float) | Initierar en ny instans av `Circle` klassen. |
+| [Circle](circle/)(float, float, float) | Initierar en ny instans av klassen `Circle`. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Hämtar eller ställer in ett [`GraphInfo`](../shape/graphinfo/) objekt som indikerar grafinformation, såsom färg, linjebredd, etc. |
-| [PosX](../../aspose.pdf.drawing/circle/posx/) { get; set; } | Hämtar eller ställer in ett flyttal som indikerar x-koordinaten för cirkelns centrum. |
-| [PosY](../../aspose.pdf.drawing/circle/posy/) { get; set; } | Hämtar eller ställer in ett flyttal som indikerar y-koordinaten för cirkelns centrum. |
-| [Radius](../../aspose.pdf.drawing/circle/radius/) { get; set; } | Hämtar eller ställer in ett flyttal som indikerar cirkelns radie. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Hämtar eller ställer in en text för formen |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Hämtar eller anger ett [`GraphInfo`](../shape/graphinfo/)‑objekt som indikerar grafinformationen, såsom färg, linjebredd, etc. |
+| [PosX](../../aspose.pdf.drawing/circle/posx/) { get; set; } | Hämtar eller anger ett flyttalsvärde som indikerar x-koordinaten för cirkelns centrum. |
+| [PosY](../../aspose.pdf.drawing/circle/posy/) { get; set; } | Hämtar eller anger ett flyttalsvärde som indikerar y-koordinaten för cirkelns centrum. |
+| [Radius](../../aspose.pdf.drawing/circle/radius/) { get; set; } | Hämtar eller anger ett flyttalsvärde som indikerar radien på cirkeln. |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Hämtar eller anger en text för formen |
 
 ## Metoder
 
@@ -36,8 +36,10 @@ public sealed class Circle : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/circle/checkbounds/)(double, double) |  |
 
-### Se Även
+### Se även
 
-* klass [Shape](../shape/)
-* namnrymd [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

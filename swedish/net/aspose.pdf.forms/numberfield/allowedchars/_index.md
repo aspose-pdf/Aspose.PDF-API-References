@@ -1,25 +1,27 @@
 ---
-title: NumberField.AllowedChars
-second_title: Aspose.PDF for .NET API Reference
-description: NumberField-egenskap. Hämtar eller ställer in de tillåtna tecknen
+title: "NumberField.AllowedChars"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NumberField egenskap. Hämtar eller anger de tillåtna tecknen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/numberfield/allowedchars/
 ---
-## NumberField.AllowedChars-egenskap
+## NumberField.AllowedChars property
 
-Hämtar eller ställer in de tillåtna tecknen.
+Hämtar eller anger de tillåtna tecknen.
 
 ```csharp
 public string AllowedChars { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Strängen med tillåtna tecken. 0123456789 som standard
+Den tillåtna teckensträngen. 0123456789 som standard
 
-### Se Även
+### Se även
 
-* klass [NumberField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

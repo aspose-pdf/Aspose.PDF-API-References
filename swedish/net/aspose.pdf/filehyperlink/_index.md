@@ -1,14 +1,14 @@
 ---
-title: Class FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FileHyperlink klass. Representerar filhyperlänkobjekt
+title: "Klass FileHyperlink"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.FileHyperlink klass. Representerar filhyperlänksobjekt"
 type: docs
-weight: 4830
+weight: 4950
 url: /sv/net/aspose.pdf/filehyperlink/
 ---
-## FileHyperlink klass
+## FileHyperlink class
 
-Representerar filhyperlänkobjekt.
+Representerar filhyperlänksobjekt.
 
 ```csharp
 public sealed class FileHyperlink : Hyperlink
@@ -18,18 +18,20 @@ public sealed class FileHyperlink : Hyperlink
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FileHyperlink](filehyperlink/#constructor)() | Initierar en ny instans av `FileHyperlink` klassen. |
-| [FileHyperlink](filehyperlink/#constructor_1)(string) | Initierar en ny instans av `FileHyperlink` klassen. |
+| [FileHyperlink](filehyperlink/#constructor)() | Initierar en ny instans av klassen `FileHyperlink`. |
+| [FileHyperlink](filehyperlink/#constructor_1)(string) | Initierar en ny instans av klassen `FileHyperlink`. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | Hämtar eller ställer in en flagga som specificerar om destinationdokumentet ska öppnas i ett nytt fönster (påverkar endast PDF-dokument). |
-| [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | Hämtar eller ställer in sökvägen till filen. |
+| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | Hämtar eller anger en flagga som specificerar om destinationsdokumentet ska öppnas i ett nytt fönster (gäller endast PDF‑dokument). |
+| [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | Hämtar eller anger sökvägen till filen. |
 
-### Se Även
+### Se även
 
-* klass [Hyperlink](../hyperlink/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

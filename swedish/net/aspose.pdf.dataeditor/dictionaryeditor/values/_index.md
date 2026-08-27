@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.Values
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor-egenskap. Hämtar en ICollection som innehåller värdena i DictionaryEditor
+title: "DictionaryEditor.Values"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DictionaryEditor egenskap. Hämtar en ICollection som innehåller värdena i DictionaryEditor"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.dataeditor/dictionaryeditor/values/
 ---
-## DictionaryEditor.Values-egenskap
+## DictionaryEditor.Values property
 
 Hämtar en ICollection som innehåller värdena i [`DictionaryEditor`](../).
 
@@ -14,9 +14,11 @@ Hämtar en ICollection som innehåller värdena i [`DictionaryEditor`](../).
 public ICollection<ICosPdfPrimitive> Values { get; }
 ```
 
-### Se Även
+### Se även
 
 * interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Point.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Punkt egenskap. Y-koordinatvärde
+title: "Point.Y"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Point-egenskapen. Y-koordinatvärde"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/point/y/
 ---
-## Point.Y-egenskap
+## Point.Y property
 
 Y-koordinatvärde.
 
@@ -14,8 +14,10 @@ Y-koordinatvärde.
 public double Y { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

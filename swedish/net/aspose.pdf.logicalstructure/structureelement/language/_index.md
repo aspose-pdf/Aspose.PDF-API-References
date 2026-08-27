@@ -1,25 +1,27 @@
 ---
-title: StructureElement.Language
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement-egenskap. Hämtar eller ställer in språket för struktur element
+title: "StructureElement.Language"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-egenskapen. Hämtar eller anger språket för strukturelementet"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/language/
 ---
-## StructureElement.Language-egenskap
+## StructureElement.Language property
 
-Hämtar eller ställer in språket för struktur element.
+Hämtar eller anger språket för strukturelementet.
 
 ```csharp
 public string Language { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Språket för struktur element.
+Språket för strukturelementet.
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

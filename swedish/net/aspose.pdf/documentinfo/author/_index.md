@@ -1,21 +1,23 @@
 ---
-title: DocumentInfo.Author
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-egenskap. Hämtar eller ställer in dokumentförfattare
+title: "DocumentInfo.Author"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo-egenskap. Hämtar eller anger dokumentförfattare"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/documentinfo/author/
 ---
-## DocumentInfo.Author-egenskap
+## DocumentInfo.Author property
 
-Hämtar eller ställer in dokumentförfattare.
+Hämtar eller anger dokumentförfattare.
 
 ```csharp
 public string Author { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

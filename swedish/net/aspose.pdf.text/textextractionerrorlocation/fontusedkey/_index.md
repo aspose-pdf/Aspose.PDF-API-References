@@ -1,21 +1,23 @@
 ---
-title: TextExtractionErrorLocation.FontUsedKey
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation-egenskap. Nyckelnamn för PDF Font-objektet som används för att visa operatören som orsakar textutvinningsfel
+title: "TextExtractionErrorLocation.FontUsedKey"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextExtractionErrorLocation-egenskapen. Nyckelnamnet för PDF Font-objektet som används för att visa operatorn som orsakar fel vid textutdragning"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/textextractionerrorlocation/fontusedkey/
 ---
-## TextExtractionErrorLocation.FontUsedKey-egenskap
+## TextExtractionErrorLocation.FontUsedKey property
 
-Nyckel (namn) för PDF Font-objektet som används för att visa operatören som orsakar textutvinningsfel.
+Nyckel (namn) för PDF Font-objektet som används för att visa operatorn som orsakar textutvinningsfel.
 
 ```csharp
 public string FontUsedKey { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextExtractionErrorLocation](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

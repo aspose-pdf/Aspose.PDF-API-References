@@ -1,21 +1,23 @@
 ---
-title: Id.Modified
-second_title: Aspose.PDF for .NET API Reference
-description: Id-egenskap. Ändrar identifierare baserat på dokumentets innehåll vid den tidpunkt det senast uppdaterades
+title: "Id.Modified"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Id-egenskap. Ändrande identifierare baserad på dokumentets innehåll vid den tidpunkt då det senast uppdaterades"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/id/modified/
 ---
-## Id.Modified-egenskap
+## Id.Modified property
 
-Ändrar identifierare baserat på dokumentets innehåll vid den tidpunkt det senast uppdaterades.
+Ändrar identifieraren baserat på dokumentets innehåll vid den tidpunkt den senast uppdaterades.
 
 ```csharp
 public string Modified { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Id](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Id](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

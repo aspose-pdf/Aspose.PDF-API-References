@@ -1,12 +1,12 @@
 ---
-title: XmpField.NamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField-egenskap. Hämtar namnrymdens URI
+title: "XmpField.NamespaceUri"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField-egenskap. Hämtar namnrymdens URI"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/xmpfield/namespaceuri/
 ---
-## XmpField.NamespaceUri-egenskap
+## XmpField.NamespaceUri property
 
 Hämtar namnrymdens URI.
 
@@ -14,12 +14,14 @@ Hämtar namnrymdens URI.
 public string NamespaceUri { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Namnrymdens URI.
+Namnrummets URI.
 
-### Se Även
+### Se även
 
-* klass [XmpField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

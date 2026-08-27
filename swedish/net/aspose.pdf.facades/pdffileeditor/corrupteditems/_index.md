@@ -1,17 +1,17 @@
 ---
-title: PdfFileEditor.CorruptedItems
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-egenskap. Array av upptäckta problem när sammanfogning utfördes. För varje korrupt dokument från som passerades till Concatenate-funktionen skapas en ny CorruptedItem-post. Denna egenskap kan endast användas när CorruptedFileAction är ConcatenateIgnoringCorrupted
+title: "PdfFileEditor.CorruptedItems"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor-egenskapen. Array av uppkomna problem när sammanslagning utfördes. För varje korrupt Document som skickas till Concatenate-funktionen skapas en ny CorruptedItem-post. Denna egenskap får endast användas när CorruptedFileAction är ConcatenateIgnoringCorrupted."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdffileeditor/corrupteditems/
 ---
-## PdfFileEditor.CorruptedItems-egenskap
+## PdfFileEditor.CorruptedItems property
 
-Array av upptäckta problem när sammanfogning utfördes. För varje korrupt dokument från som passerades till Concatenate() funktionen skapas en ny CorruptedItem-post. Denna egenskap kan endast användas när CorruptedFileAction är ConcatenateIgnoringCorrupted.
+Array av påträffade problem när konkatenering utfördes. För varje korrupt dokument som skickas till Concatenate()-funktionen skapas en ny CorruptedItem-post. Denna egenskap kan endast användas när CorruptedFileAction är ConcatenateIgnoringCorrupted.
 
 ```csharp
-//concatenate documents and show information about corrupted documents
+//sammanfoga Document och visa information om korrupta Document
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.CorruptedFileAction = PdfFileEditor.ConcatenateCorruptedFileActions.ConcatenateIgnoringCorrupted;
 if (pfe.CorruptedItems.Length >0)
@@ -27,9 +27,11 @@ if (pfe.CorruptedItems.Length >0)
 public CorruptedItem[] CorruptedItems { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CorruptedItem](../../pdffileeditor.corrupteditem/)
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [CorruptedItem](../../pdffileeditor.corrupteditem/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorStore.VectorStore
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStore-konstruktorn. Standardkonstruktorn
+title: "VectorStore.VectorStore"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStore-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/vectorstore/vectorstore/
 ---
-## VectorStore-konstruktor
+## VectorStore constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public VectorStore()
 ```
 
-### Se Även
+### Se även
 
-* klass [VectorStore](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [VectorStore](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

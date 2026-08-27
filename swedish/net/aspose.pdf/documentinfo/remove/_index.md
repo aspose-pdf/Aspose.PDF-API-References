@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-metod. Tar bort elementet med den angivna nyckeln från samlingen
+title: "DocumentInfo.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo-metod. Tar bort elementet med den angivna nyckeln från samlingen"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf/documentinfo/remove/
 ---
-## DocumentInfo.Remove metod
+## DocumentInfo.Remove method
 
 Tar bort elementet med den angivna nyckeln från samlingen.
 
@@ -16,10 +16,12 @@ public void Remove(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckeln för elementet som ska tas bort. |
+| nyckel | String | Nyckeln för elementet som ska tas bort. |
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

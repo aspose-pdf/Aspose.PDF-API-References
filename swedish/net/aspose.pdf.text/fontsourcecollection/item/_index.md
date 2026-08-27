@@ -1,14 +1,14 @@
 ---
-title: FontSourceCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection-egenskap. Hämtar font-elementet vid det angivna indexet
+title: "FontSourceCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontSourceCollection-egenskap. Hämtar font-elementet vid det angivna indexet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/fontsourcecollection/item/
 ---
 ## FontSourceCollection indexer
 
-Hämtar font-elementet vid det angivna indexet.
+Hämtar teckensnittselementet på det angivna indexet.
 
 ```csharp
 public FontSource this[int index] { get; }
@@ -16,15 +16,17 @@ public FontSource this[int index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Index inom samlingen. |
+| index | Index i samlingen. |
 
 ### Returvärde
 
-Fontkälla objekt.
+Font-källobjekt.
 
-### Se Även
+### Se även
 
-* klass [FontSource](../../fontsource/)
-* klass [FontSourceCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

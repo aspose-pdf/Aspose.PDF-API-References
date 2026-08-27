@@ -1,21 +1,23 @@
 ---
-title: DocSaveOptions.ConvertType3Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions-egenskap. Hämtar eller ställer in konvertering för Type3-teckensnitt. I Type 3-teckensnitt ska glyfer definieras av strömmar av grafikoperatörer. Detta innebär att vi i DOC/DOCX-utdata ser bilder istället för text. Ställ in denna flagga på true för att konvertera Type3-teckensnitt till TTF och få text i den resulterande filen.
+title: "DocSaveOptions.ConvertType3Fonts"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocSaveOptions egenskap. Hämtar eller anger konvertering för Type3-teckensnitt. I Type 3-teckensnitt ska glyfer definieras av strömmar av grafikoperatorer. Detta innebär att i DOC/DOCX-utdata ser vi bilder istället för text. Sätt detta flagga till true för att konvertera Type3-teckensnitt till TTF och få text i den resulterande filen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/docsaveoptions/converttype3fonts/
 ---
-## DocSaveOptions.ConvertType3Fonts-egenskap
+## DocSaveOptions.ConvertType3Fonts property
 
-Hämtar eller ställer in konvertering för Type3-teckensnitt. I Type 3-teckensnitt ska glyfer definieras av strömmar av grafikoperatörer. Detta innebär att vi i DOC/DOCX-utdata ser bilder istället för text. Ställ in denna flagga på true för att konvertera Type3-teckensnitt till TTF och få text i den resulterande filen.
+Hämtar eller anger konvertering för Type3-teckensnitt. I Type3-teckensnitt ska glyfer definieras av strömmar av grafikoperatorer. Det betyder att i DOC/DOCX-utdata ser vi bilder istället för text. Ställ in denna flagga till true för att konvertera Type3-teckensnitt till TTF och få text i den resulterande filen.
 
 ```csharp
 public bool ConvertType3Fonts { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class DocMDPSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.DocMDPSignature klass. Representerar klassen för dokument MDP-modifieringsdetektering och förebyggande signaturtyp
+title: "Klass DocMDPSignature"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Forms.DocMDPSignature-klass. Representerar klassen för dokument‑MDP‑modifieringsdetektering och förebyggande signaturtyp"
 type: docs
-weight: 5030
+weight: 5150
 url: /sv/net/aspose.pdf.forms/docmdpsignature/
 ---
-## DocMDPSignature klass
+## DocMDPSignature class
 
-Representerar klassen för dokument MDP (modifieringsdetektering och förebyggande) signaturtyp.
+Representerar klassen för dokument-MDP (modifieringsdetektering och förebyggande) signaturtyp.
 
 ```csharp
 public sealed class DocMDPSignature
@@ -18,15 +18,17 @@ public sealed class DocMDPSignature
 
 | Namn | Beskrivning |
 | --- | --- |
-| [DocMDPSignature](docmdpsignature/)(Signature, DocMDPAccessPermissions) | Initierar en ny instans av `DocMDPSignature` klassen. |
+| [DocMDPSignature](docmdpsignature/)(Signature, DocMDPAccessPermissions) | Initierar en ny instans av klassen `DocMDPSignature`. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AccessPermissions](../../aspose.pdf.forms/docmdpsignature/accesspermissions/) { get; } | Returnerar de åtkomsträttigheter som beviljats för detta dokument. |
+| [AccessPermissions](../../aspose.pdf.forms/docmdpsignature/accesspermissions/) { get; } | Returnerar åtkomstbehörigheterna som beviljats för detta dokument. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

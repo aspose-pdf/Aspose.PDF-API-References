@@ -1,14 +1,14 @@
 ---
-title: Color.DarkGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FF006400
+title: "Color.DarkGreen"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskap. Hämtar en systemdefinierad färg som har ett ARGB‑värde på c FF006400"
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf/color/darkgreen/
 ---
-## Color.DarkGreen egenskap
+## Color.DarkGreen property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FF006400.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FF006400.
 
 ```csharp
 public static Color DarkGreen { get; }
@@ -16,10 +16,12 @@ public static Color DarkGreen { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

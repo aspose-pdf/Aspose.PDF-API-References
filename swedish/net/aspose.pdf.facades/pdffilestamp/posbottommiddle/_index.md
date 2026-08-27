@@ -1,21 +1,23 @@
 ---
-title: PdfFileStamp.PosBottomMiddle
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-fält. Nedersta mittenposition
+title: "PdfFileStamp.PosBottomMiddle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileStamp-fält. Nedre mittenposition."
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf.facades/pdffilestamp/posbottommiddle/
 ---
-## PdfFileStamp.PosBottomMiddle-fält
+## PdfFileStamp.PosBottomMiddle field
 
-Nedersta mittenposition.
+Nedre mittersta positionen.
 
 ```csharp
 public const int PosBottomMiddle;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

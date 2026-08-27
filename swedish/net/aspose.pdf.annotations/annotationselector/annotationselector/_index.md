@@ -1,7 +1,7 @@
 ---
-title: AnnotationSelector.AnnotationSelector
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationSelector-konstruktör. Initierar en ny instans av AnnotationSelector-klassen
+title: "AnnotationSelector.AnnotationSelector"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationSelector-konstruktor. Initierar en ny instans av klassen AnnotationSelector"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/annotationselector/annotationselector/
@@ -14,11 +14,11 @@ Initierar en ny instans av AnnotationSelector-klassen.
 public AnnotationSelector()
 ```
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,11 +32,13 @@ public AnnotationSelector(Annotation annotation)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotation | Annotation | Annotation som ska väljas. Detta objekt beskriver endast några egenskaper som vi vill att de funna annotationerna ska ha, t.ex. typen av annotation. |
+| annotation | Annotation | Annotation att välja. Detta objekt beskriver endast vissa egenskaper som vi vill att hittade annotationer ska ha, t.ex. typen av annotation. |
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../annotation/)
-* klass [AnnotationSelector](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

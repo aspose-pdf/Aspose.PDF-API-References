@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.CreationTimeZone
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-egenskap. Tidszon för skapelsedatum
+title: "DocumentInfo.CreationTimeZone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo-egenskap. Tidszon för skapandedatum"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/documentinfo/creationtimezone/
 ---
-## DocumentInfo.CreationTimeZone-egenskap
+## DocumentInfo.CreationTimeZone property
 
 Tidszon för skapelsedatum.
 
@@ -14,8 +14,10 @@ Tidszon för skapelsedatum.
 public TimeSpan CreationTimeZone { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateCompletionAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Skapar en ny fullföljd asynkront
+title: "OpenAIClient.CreateCompletionAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient-metod. Skapar en ny komplettering asynkront."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/openaiclient/createcompletionasync/
 ---
-## OpenAIClient.CreateCompletionAsync metod
+## OpenAIClient.CreateCompletionAsync method
 
-Skapar en ny fullföljd asynkront.
+Skapar en ny slutförande asynkront.
 
 ```csharp
 public Task<CompletionResponse> CreateCompletionAsync(
@@ -17,17 +17,19 @@ public Task<CompletionResponse> CreateCompletionAsync(
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| completionCreateRequest | CompletionCreateRequest | Begärningsobjektet som innehåller detaljer för att skapa fullföljden. |
+| completionCreateRequest | CompletionCreateRequest | Begäranobjektet som innehåller detaljer för att skapa slutförandet. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från skapandet av fullföljden.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från skapandet av slutförandet.
 
-### Se Även
+### Se även
 
-* klass [CompletionResponse](../../completionresponse/)
-* klass [CompletionCreateRequest](../../completioncreaterequest/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [CompletionResponse](../../completionresponse/)
+* class [CompletionCreateRequest](../../completioncreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FixedPrint.VerticalTranslation
-second_title: Aspose.PDF for .NET API Reference
-description: FixedPrint-egenskap. Hämtar eller ställer in vertikal översättning
+title: "FixedPrint.VerticalTranslation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FixedPrint-egenskap. Hämtar eller anger vertikal förskjutning"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/fixedprint/verticaltranslation/
 ---
-## FixedPrint.VerticalTranslation-egenskap
+## FixedPrint.VerticalTranslation property
 
-Hämtar eller ställer in vertikal översättning.
+Hämtar eller anger vertikal förskjutning.
 
 ```csharp
 public double VerticalTranslation { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FixedPrint](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FixedPrint](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

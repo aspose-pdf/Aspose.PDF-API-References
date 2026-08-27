@@ -1,12 +1,12 @@
 ---
-title: Page.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Page-metod. Tar bort alla fält som finns på sidan och placerar deras värden istället
+title: "Page.Flatten"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-metod. Tar bort alla fält som finns på sidan och placerar deras värden istället."
 type: docs
 weight: 430
 url: /sv/net/aspose.pdf/page/flatten/
 ---
-## Page.Flatten metod
+## Page.Flatten method
 
 Tar bort alla fält som finns på sidan och placerar deras värden istället.
 
@@ -14,8 +14,10 @@ Tar bort alla fält som finns på sidan och placerar deras värden istället.
 public void Flatten()
 ```
 
-### Se Även
+### Se även
 
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

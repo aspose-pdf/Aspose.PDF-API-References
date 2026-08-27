@@ -1,14 +1,14 @@
 ---
-title: Enum SubstitutionFontCategories
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.SubstitutionFontCategories enum. Representerar teckensnittskategorier som kan ersättas
+title: "Enum SubstitutionFontCategories"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.SubstitutionFontCategories enum. Representerar teckensnittskategorier som kan ersättas"
 type: docs
-weight: 10720
+weight: 10900
 url: /sv/net/aspose.pdf.text/substitutionfontcategories/
 ---
-## SubstitutionFontCategories-uppräkning
+## SubstitutionFontCategories enumeration
 
-Representerar teckensnittskategorier som kan ersättas.
+Representerar fontkategorier som kan ersättas.
 
 ```csharp
 public enum SubstitutionFontCategories
@@ -18,10 +18,12 @@ public enum SubstitutionFontCategories
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| TheSameNamedEmbeddedFonts | `0` | Teckensnitten som har samma namn som systemteckensnitt. Dessa teckensnitt är mestadels säkra att ersätta med systemteckensnitt med samma namn. |
+| TheSameNamedEmbeddedFonts | `0` | Teckensnitten som har samma namn som systemteckensnitt. Dessa teckensnitt är oftast säkra att ersättas med systemteckensnitt med samma namn. |
 | AllEmbeddedFonts | `1` | Alla inbäddade teckensnitt ersätts. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

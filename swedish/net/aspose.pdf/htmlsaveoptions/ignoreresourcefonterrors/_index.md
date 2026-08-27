@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.IgnoreResourceFontErrors
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Hämtar eller ställer in indikation att fel relaterade till avsaknad av teckensnitt kommer att ignoreras. true betyder att fel av avsaknad av teckensnitt kommer att ignoreras. Textsegment som hänvisar till felaktiga resurser kommer att hoppas över under bearbetning. false som standard
+title: "HtmlSaveOptions.IgnoreResourceFontErrors"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-egenskap. Hämtar eller anger indikation på att fel relaterade till avsaknad av teckensnitt kommer att ignoreras. true betyder att fel av avsaknad av teckensnitt kommer att ignoreras. Textsegment som refererar till felaktiga resurser kommer att hoppas över under bearbetning. false som standard."
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/htmlsaveoptions/ignoreresourcefonterrors/
 ---
-## HtmlSaveOptions.IgnoreResourceFontErrors-egenskap
+## HtmlSaveOptions.IgnoreResourceFontErrors property
 
-Hämtar eller ställer in indikation att fel relaterade till avsaknad av teckensnitt kommer att ignoreras. true - betyder att fel av avsaknad av teckensnitt kommer att ignoreras. Textsegment som hänvisar till felaktiga resurser kommer att hoppas över under bearbetning. false som standard
+Hämtar eller anger indikation på att fel relaterade till avsaknad av teckensnitt ska ignoreras. true – betyder att fel på avsaknad av teckensnitt ignoreras. Textsegment som refererar till felaktiga resurser hoppas över under bearbetning. false som standard.
 
 ```csharp
 public bool IgnoreResourceFontErrors { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

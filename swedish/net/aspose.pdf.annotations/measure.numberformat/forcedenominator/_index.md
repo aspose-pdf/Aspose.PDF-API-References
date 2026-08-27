@@ -1,21 +1,23 @@
 ---
-title: Measure.NumberFormat.ForceDenominator
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat-egenskap. Om FractionDisplayment är ShowAsFraction bestämmer detta värde om bråket kan reduceras eller inte. Om värdet är sant kan bråket inte reduceras.
+title: "Measure.NumberFormat.ForceDenominator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NumberFormat-egenskap. Om FractionDisplayment är ShowAsFraction bestämmer detta värde om bråket ska reduceras eller inte. Om värdet är true får bråket inte reduceras."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/measure.numberformat/forcedenominator/
 ---
-## Measure.NumberFormat.ForceDenominator-egenskap
+## Measure.NumberFormat.ForceDenominator property
 
-Om FractionDisplayment är ShowAsFraction bestämmer detta värde om bråket kan reduceras eller inte. Om värdet är sant kan bråket inte reduceras.
+Om FractionDisplayment är ShowAsFraction bestämmer detta värde om bråket ska reduceras eller inte. Om värdet är true får bråket inte reduceras.
 
 ```csharp
 public bool ForceDenominator { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [NumberFormat](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

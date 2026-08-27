@@ -1,21 +1,23 @@
 ---
-title: DocumentCollection.DocumentPaths
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentCollection-egenskap. Hämtar eller ställer in samlingen av dokumentvägar som ska behandlas
+title: "DocumentCollection.DocumentPaths"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentCollection egenskap. Hämtar eller anger samlingen av dokumentvägar som ska bearbetas."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/documentcollection/documentpaths/
 ---
-## DocumentCollection.DocumentPaths-egenskap
+## DocumentCollection.DocumentPaths property
 
-Hämtar eller ställer in samlingen av dokumentvägar som ska behandlas.
+Hämtar eller anger samlingen av dokumentvägar som ska bearbetas.
 
 ```csharp
 public List<string> DocumentPaths { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentCollection](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DocumentCollection](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

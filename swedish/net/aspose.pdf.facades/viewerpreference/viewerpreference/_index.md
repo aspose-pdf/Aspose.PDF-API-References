@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.ViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-konstruktorn. Standardkonstruktorn
+title: "ViewerPreference.ViewerPreference"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/viewerpreference/viewerpreference/
 ---
-## ViewerPreference-konstruktorn
+## ViewerPreference constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ViewerPreference()
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

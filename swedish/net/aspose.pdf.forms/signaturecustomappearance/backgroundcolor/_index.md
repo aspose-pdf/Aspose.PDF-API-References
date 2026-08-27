@@ -1,22 +1,24 @@
 ---
-title: SignatureCustomAppearance.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-egenskap. Hämtar/anger bakgrundsfärg. Standardvärde Transparent
+title: "SignatureCustomAppearance.BackgroundColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureCustomAppearance-egenskap. Hämtar/sätter bakgrundsfärg. Standardvärde Transparent."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/
 ---
-## SignatureCustomAppearance.BackgroundColor-egenskap
+## SignatureCustomAppearance.BackgroundColor property
 
-Hämtar/anger bakgrundsfärg. Standardvärde: Transparent.
+Hämtar/sätter bakgrundsfärg. Standardvärde: Transparent.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [SignatureCustomAppearance](../)
-* namnrum [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

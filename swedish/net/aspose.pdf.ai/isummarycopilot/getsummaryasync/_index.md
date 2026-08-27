@@ -1,12 +1,12 @@
 ---
-title: ISummaryCopilot.GetSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: ISummaryCopilot-metod. Hämtar en sammanfattning asynkront
+title: "ISummaryCopilot.GetSummaryAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ISummaryCopilot‑metod. Hämtar en sammanfattning asynkront"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/isummarycopilot/getsummaryasync/
 ---
-## ISummaryCopilot.GetSummaryAsync metod
+## ISummaryCopilot.GetSummaryAsync method
 
 Hämtar en sammanfattning asynkront.
 
@@ -20,10 +20,12 @@ public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = defau
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen med sammanfattningssträngen.
+Ett task som representerar den asynkrona operationen med sammanfattningssträngen.
 
-### Se Även
+### Se även
 
 * interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

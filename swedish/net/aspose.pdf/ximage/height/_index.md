@@ -1,21 +1,23 @@
 ---
-title: XImage.Height
-second_title: Aspose.PDF for .NET API Reference
-description: XImage-egenskap. Hämtar höjden av bilden
+title: "XImage.Height"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImage-egenskapen. Hämtar bildens höjd"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/ximage/height/
 ---
-## XImage.Höjd-egenskap
+## XImage.Height property
 
-Hämtar höjden av bilden.
+Hämtar bildens höjd.
 
 ```csharp
 public int Height { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XImage](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

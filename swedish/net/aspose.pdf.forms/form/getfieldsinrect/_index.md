@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldsInRect
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Returnerar fält inuti angiven rektangel
+title: "Form.GetFieldsInRect"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-metod. Returnerar fält inom den angivna rektangeln."
 type: docs
-weight: 270
+weight: 290
 url: /sv/net/aspose.pdf.forms/form/getfieldsinrect/
 ---
-## Form.GetFieldsInRect metod
+## Form.GetFieldsInRect method
 
-Returnerar fält inuti angiven rektangel.
+Returnerar fält inom den angivna rektangeln.
 
 ```csharp
 public Field[] GetFieldsInRect(Rectangle rect)
@@ -16,16 +16,18 @@ public Field[] GetFieldsInRect(Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rektangel | Rektangel där fält ska hittas. |
+| rect | Rectangle | Rectangle där fält ska hittas. |
 
 ### Returvärde
 
 Array med hittade fält.
 
-### Se Även
+### Se även
 
-* klass [Field](../../field/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Field](../../field/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

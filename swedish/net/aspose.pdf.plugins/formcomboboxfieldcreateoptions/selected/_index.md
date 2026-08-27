@@ -1,21 +1,23 @@
 ---
-title: FormComboBoxFieldCreateOptions.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: FormComboBoxFieldCreateOptions-egenskap. Hämtar/anger värdet för att bestämma egenskapen Selected för skapad ComboBoxField.
+title: "FormComboBoxFieldCreateOptions.Selected"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormComboBoxFieldCreateOptions egenskap. Hämtar/sätter värdet för att bestämma egenskapen Selected för den skapade ComboBoxField om den kommer att sättas"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/selected/
 ---
-## FormComboBoxFieldCreateOptions.Selected-egenskap
+## FormComboBoxFieldCreateOptions.Selected property
 
-Hämtar/anger värdet för att bestämma egenskapen Selected för skapad ComboBoxField (om den kommer att ställas in).
+Hämtar/anger värdet för att bestämma egenskapen Selected för den skapade ComboBoxField (om det kommer att anges).
 
 ```csharp
 public int? Selected { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormComboBoxFieldCreateOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormComboBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

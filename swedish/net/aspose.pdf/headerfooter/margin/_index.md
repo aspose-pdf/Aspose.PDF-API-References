@@ -1,22 +1,24 @@
 ---
-title: HeaderFooter.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooter-egenskap. Hämtar eller ställer in marginalinformationen
+title: "HeaderFooter.Margin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HeaderFooter property. Hämtar eller anger marginalinformationen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/headerfooter/margin/
 ---
-## HeaderFooter.Margin-egenskap
+## HeaderFooter.Margin property
 
-Hämtar eller ställer in marginalinformationen.
+Hämtar eller anger marginalinformationen.
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../../margininfo/)
-* klass [HeaderFooter](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

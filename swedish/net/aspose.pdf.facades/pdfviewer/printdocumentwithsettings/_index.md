@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocumentWithSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-metod. Skriver ut Pdf-dokumentet med inställningar. Om dokumentstorleken inte motsvarar sidstorleken kommer den att utvidgas för att passa sidstorleken
+title: "PdfViewer.PrintDocumentWithSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer metod. Skriver ut Pdf-dokumentet med inställningar. Om dokumentets storlek inte motsvarar sidans storlek kommer den att utökas för att passa sidstorleken"
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-Skriver ut Pdf-dokumentet med inställningar. Om dokumentstorleken inte motsvarar sidstorleken, kommer den att utvidgas för att passa sidstorleken.
+Skriver ut Pdf-dokumentet med inställningar. Om dokumentets storlek inte motsvarar sidstorleken kommer den att utökas för att passa sidstorleken.
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
@@ -16,8 +16,8 @@ public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageSettings | PageSettings | Sidinställningen för det utskrivna dokumentet. |
-| printerSettings | PrinterSettings | Skrivarinställningen för det utskrivna dokumentet. |
+| pageSettings | PageSettings | Sidinställningen för utskriftsdokumentet. |
+| printerSettings | PrinterSettings | Skrivarinställningen för utskriftsdokumentet. |
 
 ## Exempel
 
@@ -55,19 +55,19 @@ iewer.Close()
 
 printerSettings-objektet används för att skriva ut dokumentet. pageSettings.PrinterSettings-objektet ignoreras.
 
-### Se Även
+### Se även
 
-* klass [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* klass [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-Skriver ut Pdf-dokumentet med skrivarinställningar. Utskriftssidans storlek kommer att passa dokumentets första sidstorlek.
+Skriver ut Pdf-dokumentet med skrivarinställningar. Utskrifts sidstorlek anpassas till dokumentets första sidstorlek.
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)
@@ -75,7 +75,7 @@ public void PrintDocumentWithSettings(PrinterSettings printerSettings)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | Skrivarinställningen för det utskrivna dokumentet. |
+| printerSettings | PrinterSettings | Skrivarinställningen för utskriftsdokumentet. |
 
 ## Exempel
 
@@ -105,9 +105,11 @@ iewer.PrintDocumentWithSettings(ps);
 iewer.ClosePdfFile()
 ```
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

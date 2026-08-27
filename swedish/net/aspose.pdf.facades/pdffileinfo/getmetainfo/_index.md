@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetMetaInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-metod. Hämtar anpassad information om PDF-dokument med egenskapsnamn. Om det inte finns någon egenskap som matchar namnet returneras en tom sträng.
+title: "PdfFileInfo.GetMetaInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo-metod. Hämtar anpassad information för PDF-dokumentet med egenskapsnamn. Om ingen egenskap matchar namnet returneras en tom sträng."
 type: docs
 weight: 230
 url: /sv/net/aspose.pdf.facades/pdffileinfo/getmetainfo/
 ---
-## PdfFileInfo.GetMetaInfo metod
+## PdfFileInfo.GetMetaInfo method
 
-Hämtar anpassad information om PDF-dokument med egenskapsnamn. Om det inte finns någon egenskap som matchar namnet returneras en tom sträng.
+Hämtar anpassad information för PDF-dokumentet med egenskapsnamn. Om ingen egenskap matchar namnet returneras en tom sträng.
 
 ```csharp
 public string GetMetaInfo(string name)
@@ -16,14 +16,16 @@ public string GetMetaInfo(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Anpassad metaegenskap nyckel. |
+| namn | String | Anpassad metaegenskapsnyckel. |
 
 ### Returvärde
 
-Anpassad metaegenskap värde.
+Anpassat metaegenskapsvärde.
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

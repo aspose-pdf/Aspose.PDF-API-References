@@ -1,21 +1,23 @@
 ---
-title: TocInfo.FormatArrayLength
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo-egenskap. Hämtar eller ställer in formatarrayens längd
+title: "TocInfo.FormatArrayLength"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TocInfo-egenskap. Hämtar eller anger längd på formatarray"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/tocinfo/formatarraylength/
 ---
-## TocInfo.FormatArrayLength-egenskap
+## TocInfo.FormatArrayLength property
 
-Hämtar eller ställer in formatarrayens längd
+Hämtar eller anger längd på formatarrayen
 
 ```csharp
 public int FormatArrayLength { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TocInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

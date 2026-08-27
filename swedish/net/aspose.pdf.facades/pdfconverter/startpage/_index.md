@@ -1,21 +1,23 @@
 ---
-title: PdfConverter.StartPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter-egenskap. Hämtar eller ställer in startpositionen som du vill konvertera. Det minimi värdet är 1
+title: "PdfConverter.StartPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfConverter-egenskap. Hämtar eller anger startpositionen som du vill konvertera. Det minsta värdet är 1."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdfconverter/startpage/
 ---
-## PdfConverter.StartPage-egenskap
+## PdfConverter.StartPage property
 
-Hämtar eller ställer in startpositionen som du vill konvertera. Det minimi värdet är 1.
+Hämtar eller anger startpositionen som du vill konvertera. Minimivärdet är 1.
 
 ```csharp
 public int StartPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfConverter](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

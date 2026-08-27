@@ -1,21 +1,23 @@
 ---
-title: Cells.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Cells metod. Dispose metod
+title: "Cells.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cells-metoden. Dispose-metoden"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/cells/dispose/
 ---
-## Cells.Dispose metod
+## Cells.Dispose method
 
-Dispose metod
+Dispose-metod
 
 ```csharp
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [Cells](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

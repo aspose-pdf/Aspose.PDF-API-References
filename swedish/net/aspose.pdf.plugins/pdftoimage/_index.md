@@ -1,14 +1,14 @@
 ---
-title: Class PdfToImage
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToImage klass. Representerar PDF till bild-plugin
+title: "Klass PdfToImage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.PdfToImage-klass. Representerar PDF‑till‑bild‑pluginet"
 type: docs
-weight: 9120
+weight: 9270
 url: /sv/net/aspose.pdf.plugins/pdftoimage/
 ---
-## PdfToImage klass
+## PdfToImage class
 
-Representerar PDF till bild-plugin.
+Representerar PDF‑till‑bild‑plugin.
 
 ```csharp
 public abstract class PdfToImage : IDisposable, IPlugin
@@ -21,12 +21,14 @@ public abstract class PdfToImage : IDisposable, IPlugin
 | [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implementering av . Faktiskt, det är inte nödvändigt för . |
 | [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | Startar bearbetning med de angivna parametrarna. |
 
-## Kommentarer
+## Anmärkningar
 
-Klassen `PdfToImage` används för att konvertera PDF-dokument till bilder
+`PdfToImage`‑klassen används för att konvertera PDF‑dokument till bilder
 
-### Se Även
+### Se även
 
-* gränssnitt [IPlugin](../iplugin/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

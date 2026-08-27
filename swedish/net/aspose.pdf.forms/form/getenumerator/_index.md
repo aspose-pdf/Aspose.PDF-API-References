@@ -1,14 +1,14 @@
 ---
-title: Form.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Hämtar enumeration av formulärfält
+title: "Form.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form method. Hämtar uppräkning av formulärfält"
 type: docs
-weight: 260
+weight: 280
 url: /sv/net/aspose.pdf.forms/form/getenumerator/
 ---
-## Form.GetEnumerator metod
+## Form.GetEnumerator method
 
-Hämtar enumeration av formulärfält.
+Hämtar uppräkning av formulärfält.
 
 ```csharp
 public IEnumerator<WidgetAnnotation> GetEnumerator()
@@ -16,11 +16,13 @@ public IEnumerator<WidgetAnnotation> GetEnumerator()
 
 ### Returvärde
 
-Fältenumerator.
+Fältuppräknare.
 
-### Se Även
+### Se även
 
-* klass [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

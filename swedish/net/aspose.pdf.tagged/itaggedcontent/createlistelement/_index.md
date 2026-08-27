@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateListElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent metod. Skapar ListElement
+title: "ITaggedContent.CreateListElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar ListElement"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createlistelement/
 ---
-## ITaggedContent.CreateListElement metod
+## ITaggedContent.CreateListElement method
 
 Skapar [`ListElement`](../../../aspose.pdf.logicalstructure/listelement/).
 
@@ -16,11 +16,13 @@ public ListElement CreateListElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [ListElement](../../../aspose.pdf.logicalstructure/listelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [ListElement](../../../aspose.pdf.logicalstructure/listelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

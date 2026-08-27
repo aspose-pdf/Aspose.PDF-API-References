@@ -1,21 +1,23 @@
 ---
-title: Table.IsBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellens egenskap. Hämtar eller ställer in om tabellen är trasig - kommer att trunkeras för nästa sida
+title: "Table.IsBroken"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Table‑egenskap. Hämtar eller anger om tabellen är bruten; den kommer att trunkeras för nästa sida."
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/table/isbroken/
 ---
-## Table.IsBroken egenskap
+## Table.IsBroken property
 
-Hämtar eller ställer in om tabellen är trasig - kommer att trunkeras för nästa sida.
+Hämtar eller anger att tabellen är bruten – kommer att trunkeras för nästa sida.
 
 ```csharp
 public bool IsBroken { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

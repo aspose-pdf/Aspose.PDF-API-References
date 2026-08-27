@@ -1,20 +1,22 @@
 ---
-title: Class SubPathGroup
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vector.SubPathGroup klass. Representerar en klass för en grupp av grafiska elementbehållare. Klassobjekt har en avgränsningsruta för att ta hänsyn till gruppens storlek
+title: "Klass SubPathGroup"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Vector.SubPathGroup-klass. Representerar en klass för en grupp av grafik‑elementbehållare. Klassobjekt har en bounding box för att ta hänsyn till gruppens storlek."
 type: docs
-weight: 11230
+weight: 11420
 url: /sv/net/aspose.pdf.vector/subpathgroup/
 ---
-## SubPathGroup klass
+## SubPathGroup class
 
-Representerar en klass för en grupp av grafiska elementbehållare. Klassobjekt har en avgränsningsruta för att ta hänsyn till gruppens storlek.
+Representerar en klass för en grupp av grafikelementbehållare. Klassobjekt har en omgivningsruta för att ta hänsyn till gruppens storlek.
 
 ```csharp
 public class SubPathGroup
 ```
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../)
+
+

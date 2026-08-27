@@ -1,12 +1,12 @@
 ---
-title: Document.LoadFrom
-second_title: Aspose.PDF for .NET API Reference
-description: Document-metod. Laddar en fil och konverterar den till PDF
+title: "Document.LoadFrom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Laddar en fil och konverterar den till PDF"
 type: docs
-weight: 730
+weight: 750
 url: /sv/net/aspose.pdf/document/loadfrom/
 ---
-## Document.LoadFrom metod
+## Document.LoadFrom method
 
 Laddar en fil och konverterar den till PDF.
 
@@ -16,19 +16,21 @@ public void LoadFrom(string filename, LoadOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filename | Sträng | Sökvägen till filen som ska öppnas. |
+| filnamn | String | Sökvägen till filen som ska öppnas. |
 | options | LoadOptions | Laddningsalternativen. |
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [PdfException](../../pdfexception/) | Om filen inte kan laddas. |
+| [PdfException](../../pdfexception/) | Om filen inte kan läsas in. |
 | FileNotFoundException | Om filen inte hittas. |
 
-### Se Även
+### Se även
 
-* klass [LoadOptions](../../loadoptions/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

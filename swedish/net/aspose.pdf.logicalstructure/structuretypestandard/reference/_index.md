@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Reference
-second_title: Aspose.PDF for .NET API Reference
-description: Strukturtypstandardfält. Referens En hänvisning till innehåll på annat ställe i dokumentet
+title: "StructureTypeStandard.Reference"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard fält. Referens En hänvisning till innehåll någon annanstans i dokumentet."
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/reference/
 ---
-## StructureTypeStandard.Reference fält
+## StructureTypeStandard.Reference field
 
-(Referens) En hänvisning till innehåll någon annanstans i dokumentet.
+(Reference) En hänvisning till innehåll någon annanstans i dokumentet.
 
 ```csharp
 public static readonly StructureTypeStandard Reference;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

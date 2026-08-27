@@ -1,26 +1,28 @@
 ---
-title: PDF3DArtwork.RenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DArtwork-egenskap. Hämtar eller ställer in renderingsläget
+title: "PDF3DArtwork.RenderMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DArtwork egenskap. Hämtar eller anger renderingsläget"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/pdf3dartwork/rendermode/
 ---
-## PDF3DArtwork.RenderMode-egenskap
+## PDF3DArtwork.RenderMode property
 
-Hämtar eller ställer in renderingsläget.
+Hämtar eller anger renderingsläget.
 
 ```csharp
 public PDF3DRenderMode RenderMode { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Renderingsläget.
 
-### Se Även
+### Se även
 
-* klass [PDF3DRenderMode](../../pdf3drendermode/)
-* klass [PDF3DArtwork](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ExcelSaveOptions.MinimizeTheNumberOfWorksheets
-second_title: Aspose.PDF for .NET API Reference
-description: ExcelSaveOptions-egenskap. Sätt till true om du behöver minimera antalet kalkylblad i den resulterande arbetsboken. Standardvärdet är false vilket innebär att varje PDF-sida sparas som ett separat kalkylblad.
+title: "ExcelSaveOptions.MinimizeTheNumberOfWorksheets"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExcelSaveOptions-egenskap. Ställ in true om du behöver minska antalet kalkylblad i den resulterande arbetsboken. Standardvärdet är false, vilket betyder att varje PDF-sida sparas som ett separat kalkylblad."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/excelsaveoptions/minimizethenumberofworksheets/
 ---
-## ExcelSaveOptions.MinimizeTheNumberOfWorksheets-egenskap
+## ExcelSaveOptions.MinimizeTheNumberOfWorksheets property
 
-Sätt till true om du behöver minimera antalet kalkylblad i den resulterande arbetsboken. Standardvärdet är false; det innebär att varje PDF-sida sparas som ett separat kalkylblad.
+Ange true om du behöver minimera antalet kalkylblad i den resulterande arbetsboken. Standardvärdet är false; det betyder att varje PDF-sida sparas som ett separat kalkylblad.
 
 ```csharp
 public bool MinimizeTheNumberOfWorksheets { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ExcelSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ExcelSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

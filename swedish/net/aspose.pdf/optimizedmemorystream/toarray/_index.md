@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream-metod. Konverterar den aktuella strömmen till en byte-array
+title: "OptimizedMemoryStream.ToArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizedMemoryStream metod. Konverterar den aktuella strömmen till en byte-array"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/optimizedmemorystream/toarray/
 ---
-## OptimizedMemoryStream.ToArray metod
+## OptimizedMemoryStream.ToArray method
 
-Konverterar den aktuella strömmen till en byte-array.
+Konverterar den aktuella strömmen till en bytearray.
 
 ```csharp
 public byte[] ToArray()
@@ -18,8 +18,10 @@ public byte[] ToArray()
 
 En array av bytes
 
-### Se Även
+### Se även
 
-* klass [OptimizedMemoryStream](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

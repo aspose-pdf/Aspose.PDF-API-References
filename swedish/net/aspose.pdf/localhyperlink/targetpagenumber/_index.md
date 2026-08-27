@@ -1,21 +1,23 @@
 ---
-title: LocalHyperlink.TargetPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: LocalHyperlink-egenskap. Hämtar eller ställer in målsidanummer
+title: "LocalHyperlink.TargetPageNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LocalHyperlink-egenskap. Hämtar eller anger målsidans nummer"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/localhyperlink/targetpagenumber/
 ---
-## LocalHyperlink.TargetPageNumber-egenskap
+## LocalHyperlink.TargetPageNumber property
 
-Hämtar eller ställer in målsidanummer.
+Hämtar eller anger målsidans nummer.
 
 ```csharp
 public int TargetPageNumber { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LocalHyperlink](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [LocalHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

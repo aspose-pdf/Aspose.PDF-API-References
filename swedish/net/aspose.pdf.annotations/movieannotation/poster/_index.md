@@ -1,21 +1,23 @@
 ---
-title: MovieAnnotation.Poster
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotation-egenskap. Hämtar eller ställer in en flagga eller ström som specificerar om och hur en affischbild som representerar filmen ska visas. Om sant ska affischbilden hämtas från filmfilen; om det är falskt ska ingen affisch visas.
+title: "MovieAnnotation.Poster"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MovieAnnotation-egenskap. Hämtar eller anger en flagga eller ström som specificerar om och hur en posterbild som representerar filmen ska visas. Om true ska posterbilden hämtas från filmfilen; om false ska ingen poster visas"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/movieannotation/poster/
 ---
-## MovieAnnotation.Poster-egenskap
+## MovieAnnotation.Poster property
 
-Hämtar eller ställer in en flagga eller ström som specificerar om och hur en affischbild som representerar filmen ska visas. Om sant ska affischbilden hämtas från filmfilen; om det är falskt ska ingen affisch visas.
+Hämtar eller anger en flagga eller ström som specificerar om och hur en postervisningsbild som representerar filmen ska visas. Om true, hämtas postervisningsbilden från filmfilen; om false visas ingen postervisning.
 
 ```csharp
 public bool Poster { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MovieAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

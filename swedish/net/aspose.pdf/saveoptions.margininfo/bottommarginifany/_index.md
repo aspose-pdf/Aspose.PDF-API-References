@@ -1,22 +1,24 @@
 ---
-title: SaveOptions.MarginInfo.BottomMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo-fält. Representerar nedersta sidmarginal om någon
+title: "SaveOptions.MarginInfo.BottomMarginIfAny"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarginInfo fält. Representerar bottenmarginal på sidan om någon"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/saveoptions.margininfo/bottommarginifany/
 ---
-## SaveOptions.MarginInfo.BottomMarginIfAny-fält
+## SaveOptions.MarginInfo.BottomMarginIfAny field
 
-Representerar nedersta sidmarginal (om någon)
+Representerar bottenmarginal (om någon)
 
 ```csharp
 public MarginPartStyle BottomMarginIfAny;
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginPartStyle](../../saveoptions.marginpartstyle/)
-* klass [MarginInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

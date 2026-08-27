@@ -1,22 +1,24 @@
 ---
-title: PositionSettings.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: PositionSettings-egenskap. Hämtar eller ställer in en vertikal justering av stycke
+title: "PositionSettings.VerticalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PositionSettings egenskap. Hämtar eller anger en vertikal justering av stycket"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.tagged/positionsettings/verticalalignment/
 ---
-## PositionSettings.VerticalAlignment-egenskap
+## PositionSettings.VerticalAlignment property
 
-Hämtar eller ställer in en vertikal justering av stycke.
+Hämtar eller anger en vertikal justering av stycket.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureElement.ChangeParentElement
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement-metod. Ändra förälderelement för nuvarande strukturelement
+title: "StructureElement.ChangeParentElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-metod. Ändra förälderelement för aktuellt strukturelement."
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/changeparentelement/
 ---
-## StructureElement.ChangeParentElement metod
+## StructureElement.ChangeParentElement method
 
-Ändra förälderelement för nuvarande strukturelement
+Ändra föräldraelement för aktuellt strukturelement
 
 ```csharp
 public void ChangeParentElement(StructureElement newParentElement, 
@@ -17,11 +17,13 @@ public void ChangeParentElement(StructureElement newParentElement,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| newParentElement | StructureElement | Nytt föräldrestrukturelement |
+| newParentElement | StructureElement | Nytt föräldra strukturelement |
 | checkIfParentCanBeChanged | Boolean | Kontrollera om föräldern kan ändras. |
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

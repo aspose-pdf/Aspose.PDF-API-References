@@ -1,22 +1,24 @@
 ---
-title: TextFragmentAbsorber.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber-egenskap. Hämtar eller ställer in alternativ för textbyte. Alternativen definierar beteende när fragmenttext ersätts med mer kort/lång
+title: "TextFragmentAbsorber.TextReplaceOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragmentAbsorber property. Hämtar eller anger alternativ för textersättning. Alternativen definierar beteendet när fragmenttext ersätts med kortare eller längre text."
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.text/textfragmentabsorber/textreplaceoptions/
 ---
-## TextFragmentAbsorber.TextReplaceOptions-egenskap
+## TextFragmentAbsorber.TextReplaceOptions property
 
-Hämtar eller ställer in alternativ för textbyte. Alternativen definierar beteende när fragmenttext ersätts med mer kort/lång.
+Hämtar eller anger alternativ för textersättning. Alternativen definierar beteendet när fragmenttext ersätts med kortare eller längre text.
 
 ```csharp
 public TextReplaceOptions TextReplaceOptions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextReplaceOptions](../../textreplaceoptions/)
-* klass [TextFragmentAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextReplaceOptions](../../textreplaceoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

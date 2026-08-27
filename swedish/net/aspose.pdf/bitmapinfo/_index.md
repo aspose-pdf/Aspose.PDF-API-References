@@ -1,12 +1,12 @@
 ---
-title: Class BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BitmapInfo klass. Objekt som innehåller en array av pixlar och bitmap-information
+title: "Klass BitmapInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.BitmapInfo-klass. Objekt som innehåller en array av pixlar och bitmapinformation"
 type: docs
-weight: 2860
+weight: 2970
 url: /sv/net/aspose.pdf/bitmapinfo/
 ---
-## BitmapInfo klass
+## BitmapInfo class
 
 Objekt som innehåller en array av pixlar och bitmap-information.
 
@@ -24,12 +24,14 @@ public class BitmapInfo
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Format](../../aspose.pdf/bitmapinfo/format/) { get; } | Hämtar pixelformatet för bitmap. |
-| [Height](../../aspose.pdf/bitmapinfo/height/) { get; } | Hämtar höjden på bitmap. |
+| [Format](../../aspose.pdf/bitmapinfo/format/) { get; } | Hämtar pixelformatet för bitmapen. |
+| [Height](../../aspose.pdf/bitmapinfo/height/) { get; } | Hämtar höjden på bitmapen. |
 | [PixelBytes](../../aspose.pdf/bitmapinfo/pixelbytes/) { get; } | Hämtar arrayen av pixlar. |
-| [Width](../../aspose.pdf/bitmapinfo/width/) { get; } | Hämtar bredden på bitmap. |
+| [Width](../../aspose.pdf/bitmapinfo/width/) { get; } | Hämtar bredden på bitmapen. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

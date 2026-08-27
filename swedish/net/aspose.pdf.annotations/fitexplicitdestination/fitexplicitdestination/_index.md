@@ -1,7 +1,7 @@
 ---
-title: FitExplicitDestination.FitExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: FitExplicitDestination-konstruktör. Skapar lokal explicit destination
+title: "FitExplicitDestination.FitExplicitDestination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FitExplicitDestination konstruktor. Skapar lokal explicit destination"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/fitexplicitdestination/fitexplicitdestination/
@@ -16,13 +16,13 @@ public FitExplicitDestination(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Detaljsidan objekt. |
+| sida | Page | Destinationens sidobjekt. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [FitExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,10 +37,12 @@ public FitExplicitDestination(int pageNumber)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageNumber | Int32 | Detaljsidan nummer av fjärrdokumentet. |
+| pageNumber | Int32 | Destinationens sidnummer för fjärrdokumentet. |
 
-### Se Även
+### Se även
 
-* klass [FitExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

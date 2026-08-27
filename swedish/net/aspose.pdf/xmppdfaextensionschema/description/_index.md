@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.Description
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema-egenskap. Hämtar schemabeskrivningen
+title: "XmpPdfAExtensionSchema.Description"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionSchema egenskap. Hämtar schemabeskrivningen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/xmppdfaextensionschema/description/
 ---
-## XmpPdfAExtensionSchema.Beskrivning-egenskap
+## XmpPdfAExtensionSchema.Description property
 
 Hämtar schemabeskrivningen.
 
@@ -14,9 +14,11 @@ Hämtar schemabeskrivningen.
 public XmpPdfAExtensionSchemaDescription Description { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
-* klass [XmpPdfAExtensionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

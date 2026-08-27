@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.GetImageName
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection metod. Returnerar namnet i bildlistan som är nyckeln till den angivna bilden
+title: "XImageCollection.GetImageName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImageCollection-metod. Returnerar namn i bildlistan som är nyckeln för den angivna bilden"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/ximagecollection/getimagename/
 ---
-## XImageCollection.GetImageName metod
+## XImageCollection.GetImageName method
 
-Returnerar namnet i bildlistan som är nyckeln till den angivna bilden.
+Returnerar namn i bildlistan som är nyckeln för den angivna bilden.
 
 ```csharp
 public string GetImageName(XImage image)
@@ -16,15 +16,17 @@ public string GetImageName(XImage image)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | XImage | Bild att söka efter. |
+| bild | XImage | Bild att söka efter. |
 
 ### Returvärde
 
-Namn (nyckel) på den hittade bilden; null om bilderna inte hittades.
+Namn (nyckel) på den hittade bilden; null om bilden inte hittades.
 
-### Se Även
+### Se även
 
-* klass [XImage](../../ximage/)
-* klass [XImageCollection](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

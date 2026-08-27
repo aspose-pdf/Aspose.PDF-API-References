@@ -1,21 +1,23 @@
 ---
-title: SetCharWidthBoundingBox.Wy
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidthBoundingBox-egenskap. Vertikal förskjutning av glyfer
+title: "SetCharWidthBoundingBox.Wy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCharWidthBoundingBox egenskap. Vertikal förskjutning av tecken"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.operators/setcharwidthboundingbox/wy/
 ---
-## SetCharWidthBoundingBox.Wy-egenskap
+## SetCharWidthBoundingBox.Wy property
 
-Vertikal förskjutning av glyfer.
+Vertikal förskjutning av glyph.
 
 ```csharp
 public double Wy { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetCharWidthBoundingBox](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

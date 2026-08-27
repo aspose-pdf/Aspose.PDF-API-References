@@ -1,21 +1,23 @@
 ---
-title: BaseResponse.HttpResponseHeaders
-second_title: Aspose.PDF for .NET API Reference
-description: BaseResponse-egenskap. Hämtar eller ställer in HTTP-svarshuvuden
+title: "BaseResponse.HttpResponseHeaders"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseResponse-egenskap. Hämtar eller anger HTTP-svarsrubrikerna"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/baseresponse/httpresponseheaders/
 ---
-## BaseResponse.HttpResponseHeaders-egenskap
+## BaseResponse.HttpResponseHeaders property
 
-Hämtar eller ställer in HTTP-svarshuvuden.
+Hämtar eller anger HTTP‑svarsrubriker.
 
 ```csharp
 public HttpResponseHeaders HttpResponseHeaders { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

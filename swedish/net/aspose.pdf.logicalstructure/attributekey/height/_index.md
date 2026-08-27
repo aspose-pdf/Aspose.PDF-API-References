@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Height
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. Höjdattribut Layoutattributägare
+title: "AttributeKey.Height"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. Height attribut Layout attribut ägare"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/height/
 ---
-## AttributeKey.Höjd fält
+## AttributeKey.Height field
 
-Höjdattribut (Layoutattributägare).
+Height-attribut (Layout-attributägare).
 
 ```csharp
 public static readonly AttributeKey Height;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrum [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

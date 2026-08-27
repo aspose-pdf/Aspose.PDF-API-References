@@ -1,21 +1,23 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: SetSpacingMoveToNextLineShowText-egenskap. Hämtar texten av operatorn
+title: "SetSpacingMoveToNextLineShowText.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetSpacingMoveToNextLineShowText egenskap. Hämtar texten för operatorn"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/text/
 ---
-## SetSpacingMoveToNextLineShowText.Text-egenskap
+## SetSpacingMoveToNextLineShowText.Text property
 
-Hämtar texten av operatorn.
+Hämtar text för operatorn.
 
 ```csharp
 public override string Text { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetSpacingMoveToNextLineShowText](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetSpacingMoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

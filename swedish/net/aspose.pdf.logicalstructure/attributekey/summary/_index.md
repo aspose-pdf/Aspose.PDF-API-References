@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Summary
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. Sammanfattningsattribut Tabellattributägare
+title: "AttributeKey.Summary"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey-fält. Summary-attribut Table-attribut ägare"
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/summary/
 ---
-## AttributeKey.Summary-fält
+## AttributeKey.Summary field
 
-Sammanfattningsattribut (Tabellattributägare).
+Summary-attribut (Table attributägare).
 
 ```csharp
 public static readonly AttributeKey Summary;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrum [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Page.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Sidans egenskap. Hämtar samlingen av operatorer i sidans innehållsström. OperatorCollection
+title: "Page.Contents"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar samling av operatorer i sidans innehållsström. OperatorCollection"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/page/contents/
 ---
-## Page.Contents egenskap
+## Page.Contents property
 
-Hämtar samlingen av operatorer i sidans innehållsström. [`OperatorCollection`](../../operatorcollection/)
+Hämtar samling av operatorer i sidans innehållsström. [`OperatorCollection`](../../operatorcollection/)
 
 ```csharp
 public OperatorCollection Contents { get; }
@@ -16,7 +16,7 @@ public OperatorCollection Contents { get; }
 
 ## Exempel
 
-Exemplet visar hur man skannar operatorernas ström på sidan.
+Exemplet visar hur man skannar operatorströmmen för en sida.
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -27,9 +27,11 @@ foreach(Operator op in contents)
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [OperatorCollection](../../operatorcollection/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [OperatorCollection](../../operatorcollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Row.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Row-egenskap. Hämtar höjd för rad
+title: "Row.MinRowHeight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-egenskap. Hämtar höjden för raden"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/row/minrowheight/
 ---
-## Row.MinRowHeight-egenskap
+## Row.MinRowHeight property
 
-Hämtar höjd för rad;
+Hämtar radens höjd;
 
 ```csharp
 public double MinRowHeight { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Row](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

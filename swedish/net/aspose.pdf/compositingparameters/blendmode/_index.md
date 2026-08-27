@@ -1,22 +1,24 @@
 ---
-title: CompositingParameters.BlendMode
-second_title: Aspose.PDF for .NET API Reference
-description: CompositingParameters-egenskap. Hämtar blandningsläge för det aktuella grafikläget
+title: "CompositingParameters.BlendMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CompositingParameters‑egenskapen. Hämtar blandningsläget för det aktuella grafikläget"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/compositingparameters/blendmode/
 ---
-## CompositingParameters.BlendMode-egenskap
+## CompositingParameters.BlendMode property
 
-Hämtar blandningsläge för det aktuella grafikläget.
+Hämtar blandningsläget för det aktuella grafikläget.
 
 ```csharp
 public BlendMode BlendMode { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [BlendMode](../../blendmode/)
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

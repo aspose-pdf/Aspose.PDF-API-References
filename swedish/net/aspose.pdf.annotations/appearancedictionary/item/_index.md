@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Item
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary-egenskap. Representerar en bekväm form för att hämta utseende strömmar
+title: "AppearanceDictionary.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AppearanceDictionary egenskap. Representerar ett bekvämt sätt att hämta appearance‑strömmar"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/appearancedictionary/item/
 ---
 ## AppearanceDictionary indexer
 
-Representerar en bekväm form för att hämta utseende strömmar.
+Representerar ett bekvämt sätt att hämta utseendeströmmar.
 
 ```csharp
 public XForm this[string key] { get; set; }
@@ -16,15 +16,17 @@ public XForm this[string key] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| key | Representerar sökväg till utseende ström. Om utseendeordlistan har underordlistor, måste sökvägen innehålla 2 delar ([`Keys`](../keys/)), annars har sökvägen endast en del. |
+| key | Representerar sökväg till appearance‑ström. Om appearance‑dictionary har underordnade dictionaries, måste sökvägen innehålla 2 delar ([`Keys`](../keys/)), annars har sökvägen bara en del. |
 
-### Return Value
+### Returvärde
 
-XForm-objekt (utseende ström) som motsvarar den angivna nyckeln.
+XForm‑objekt (appearance‑ström) som motsvarar den angivna nyckeln.
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

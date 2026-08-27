@@ -1,12 +1,12 @@
 ---
-title: RgbToDeviceGrayConversionStrategy.RgbToDeviceGrayConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: RgbToDeviceGrayConversionStrategy-konstruktorn. Standardkonstruktorn
+title: "RgbToDeviceGrayConversionStrategy.RgbToDeviceGrayConversionStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RgbToDeviceGrayConversionStrategy-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/rgbtodevicegrayconversionstrategy/rgbtodevicegrayconversionstrategy/
 ---
-## RgbToDeviceGrayConversionStrategy-konstruktorn
+## RgbToDeviceGrayConversionStrategy constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public RgbToDeviceGrayConversionStrategy()
 ```
 
-### Se Även
+### Se även
 
-* klass [RgbToDeviceGrayConversionStrategy](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [RgbToDeviceGrayConversionStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

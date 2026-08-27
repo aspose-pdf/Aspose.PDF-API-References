@@ -1,26 +1,28 @@
 ---
-title: TextParagraph.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph-egenskap. Hämtar eller ställer in vertikal justering för texten inuti paragrafs [`Rectangle`](../rectangle/).
+title: "TextParagraph.VerticalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextParagraph egenskap. Hämtar eller anger vertikal justering för texten i paragrphs Rectangle"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.text/textparagraph/verticalalignment/
 ---
-## TextParagraph.VerticalAlignment-egenskap
+## TextParagraph.VerticalAlignment property
 
-Hämtar eller ställer in vertikal justering för texten inuti paragrafens [`Rectangle`](../rectangle/).
+Hämtar eller anger vertikal justering för texten i paragrphs [`Rectangle`](../rectangle/).
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
 VerticalAlignment.None är lika med VerticalAlignment.Bottom.
 
-### Se Även
+### Se även
 
 * enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Graph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Graph-metod. Klona grafen
+title: "Graph.Clone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Graph-metod. Klona diagrammet."
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.drawing/graph/clone/
 ---
-## Graph.Clone metod
+## Graph.Clone method
 
-Klona grafen.
+Klona diagrammet.
 
 ```csharp
 public override object Clone()
@@ -18,8 +18,10 @@ public override object Clone()
 
 Det klonade objektet
 
-### Se Även
+### Se även
 
-* klass [Graph](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

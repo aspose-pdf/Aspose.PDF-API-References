@@ -1,21 +1,23 @@
 ---
-title: TeXLoadOptions.RasterizeFormulas
-second_title: Aspose.PDF for .NET API Reference
-description: TeXLoadOptions-egenskap. Hämtar/anger en flagga som tillåter rasterisering av matematiska formler
+title: "TeXLoadOptions.RasterizeFormulas"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXLoadOptions-egenskap. Hämtar/sätter en flagga som möjliggör rasterisering av matematiska formler."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/texloadoptions/rasterizeformulas/
 ---
-## TeXLoadOptions.RasterizeFormulas-egenskap
+## TeXLoadOptions.RasterizeFormulas property
 
-Hämtar/anger en flagga som tillåter rasterisering av matematiska formler.
+Hämtar/sätter en flagga som tillåter rasterisering av matematiska formler.
 
 ```csharp
 public bool RasterizeFormulas { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TeXLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

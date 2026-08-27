@@ -1,21 +1,23 @@
 ---
-title: CosPdfDictionary.Count
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary-egenskap. Hämtar antalet element som ingår i CosPdfDictionary
+title: "CosPdfDictionary.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfDictionary egenskap. Hämtar antalet element som finns i CosPdfDictionary"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.dataeditor/cospdfdictionary/count/
 ---
-## CosPdfDictionary.Count-egenskap
+## CosPdfDictionary.Count property
 
-Hämtar antalet element som ingår i [`CosPdfDictionary`](../).
+Hämtar antalet element som finns i [`CosPdfDictionary`](../).
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CosPdfDictionary](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

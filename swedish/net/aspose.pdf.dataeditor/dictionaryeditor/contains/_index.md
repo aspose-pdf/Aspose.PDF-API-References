@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor-metod. Bestämmer om DictionaryEditor innehåller ett specifikt värde
+title: "DictionaryEditor.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DictionaryEditor‑metod. Avgör om DictionaryEditor innehåller ett specifikt värde"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.dataeditor/dictionaryeditor/contains/
 ---
-## DictionaryEditor.Contains metod
+## DictionaryEditor.Contains method
 
-Bestämmer om [`DictionaryEditor`](../) innehåller ett specifikt värde.
+Avgör om [`DictionaryEditor`](../) innehåller ett specifikt värde.
 
 ```csharp
 public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
@@ -20,11 +20,13 @@ public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
 
 ### Returvärde
 
-true om item hittas i [`DictionaryEditor`](../); annars, false.
+true om objektet hittas i [`DictionaryEditor`](../); annars false.
 
-### Se Även
+### Se även
 
 * interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: License.License
-second_title: Aspose.PDF for .NET API Reference
-description: Licenskonstruktör. Standardkonstruktorn
+title: "License.License"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "License‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/license/license/
 ---
-## Licenskonstruktör
+## License constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public License()
 ```
 
-### Se Även
+### Se även
 
-* klass [License](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

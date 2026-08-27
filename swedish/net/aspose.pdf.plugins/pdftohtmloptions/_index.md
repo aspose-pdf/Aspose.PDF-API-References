@@ -1,14 +1,14 @@
 ---
-title: Class PdfToHtmlOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToHtmlOptions klass. Representerar PDF till HTML-konverteringsalternativ för Html-plugin
+title: "Klass PdfToHtmlOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.PdfToHtmlOptions-klass. Representerar PDF‑till‑HTML‑konverteringsalternativ för Html‑pluginet"
 type: docs
-weight: 9100
+weight: 9250
 url: /sv/net/aspose.pdf.plugins/pdftohtmloptions/
 ---
-## PdfToHtmlOptions klass
+## PdfToHtmlOptions class
 
-Representerar PDF till HTML-konverteringsalternativ för [`Html`](../html/) plugin.
+Representerar PDF‑till‑HTML‑konverteringsalternativ för [`Html`](../html/)‑pluginet.
 
 ```csharp
 public sealed class PdfToHtmlOptions : PdfConverterOptions
@@ -18,33 +18,35 @@ public sealed class PdfToHtmlOptions : PdfConverterOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [PdfToHtmlOptions](pdftohtmloptions/#constructor)() | Initierar en ny instans av `PdfToHtmlOptions`-objektet med standardalternativ. |
+| [PdfToHtmlOptions](pdftohtmloptions/#constructor)() | Initierar en ny instans av objektet `PdfToHtmlOptions` med standardalternativ. |
 | [PdfToHtmlOptions](pdftohtmloptions/#constructor_1)(SaveDataType) | Initierar en ny instans av `PdfToHtmlOptions`-objektet för den angivna utdata-typen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | Returnerar PdfConverterOptions plugin datainsamling. |
+| [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | Returnerar PdfConverterOptions-pluginens datainsamling. |
 | override [OperationName](../../aspose.pdf.plugins/pdftohtmloptions/operationname/) { get; } | Hämtar namnet på operationen. |
 | [OutputDataType](../../aspose.pdf.plugins/pdftohtmloptions/outputdatatype/) { get; } | Hämtar utdata-typen. |
-| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | Hämtar samlingen av tillagda mål för att spara operationens resultat. |
+| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | Hämtar samlingen av tillagda mål för att spara resultat av operationen. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfconverteroptions/addinput/)(IDataSource) | Lägger till ny datakälla till PdfConverter plugin datainsamling. |
-| [AddOutput](../../aspose.pdf.plugins/pdfconverteroptions/addoutput/)(IDataSource) | Lägger till ny datakälla till PdfToXLSXConverterOptions plugin datainsamling. |
+| [AddInput](../../aspose.pdf.plugins/pdfconverteroptions/addinput/)(IDataSource) | Lägger till en ny datakälla i PdfConverter‑pluginens datainsamling. |
+| [AddOutput](../../aspose.pdf.plugins/pdfconverteroptions/addoutput/)(IDataSource) | Lägger till en ny datakälla i PdfToXLSXConverterOptions‑pluginens datainsamling. |
 
-## Andra Medlemmar
+## Övriga medlemmar
 
 | Namn | Beskrivning |
 | --- | --- |
-| enum [SaveDataType](../../aspose.pdf.plugins/pdftohtmloptions.savedatatype) | Definierar utdata-typen av HTML-fil. |
+| enum [SaveDataType](../../aspose.pdf.plugins/pdftohtmloptions.savedatatype) | Definierar utmatningstyp för HTML-fil. |
 
-### Se Även
+### Se även
 
-* klass [PdfConverterOptions](../pdfconverteroptions/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfConverterOptions](../pdfconverteroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

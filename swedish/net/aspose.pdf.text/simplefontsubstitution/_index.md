@@ -1,14 +1,14 @@
 ---
-title: Class SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.SimpleFontSubstitution klass. Representerar en klass för enkel teckensnittsubstitutionsstrategi
+title: "Klass SimpleFontSubstitution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.SimpleFontSubstitution-klass. Representerar en klass för enkel teckensnittssubstitutionsstrategi"
 type: docs
-weight: 10710
+weight: 10890
 url: /sv/net/aspose.pdf.text/simplefontsubstitution/
 ---
-## SimpleFontSubstitution klass
+## SimpleFontSubstitution class
 
-Representerar en klass för enkel teckensnittsubstitutionsstrategi.
+Representerar en klass för enkel teckensnittssubstitutionsstrategi.
 
 ```csharp
 public sealed class SimpleFontSubstitution : FontSubstitution
@@ -18,17 +18,19 @@ public sealed class SimpleFontSubstitution : FontSubstitution
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SimpleFontSubstitution](simplefontsubstitution/)(string, string, bool) | Initierar en ny instans av `SimpleFontSubstitution` klass. |
+| [SimpleFontSubstitution](simplefontsubstitution/)(string, string, bool) | Initierar en ny instans av `SimpleFontSubstitution`-klassen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Hämtar det ursprungliga teckensnittnamnet som ska ersättas med [`SubstitutionFontName`](./substitutionfontname/) |
-| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | Hämtar teckensnittnamnet som ska ersätta [`OriginalFontName`](./originalfontname/) |
+| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Hämtar det ursprungliga teckensnittsnamnet som ska ersättas med [`SubstitutionFontName`](./substitutionfontname/) |
+| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | Hämtar teckensnittsnamnet som ska ersätta [`OriginalFontName`](./originalfontname/) |
 
-### Se Även
+### Se även
 
-* klass [FontSubstitution](../fontsubstitution/)
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../)
+* class [FontSubstitution](../fontsubstitution/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

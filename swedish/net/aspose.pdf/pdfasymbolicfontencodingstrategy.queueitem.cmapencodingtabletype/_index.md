@@ -1,30 +1,32 @@
 ---
-title: Enum PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfASymbolicFontEncodingStrategyQueueItemCMapEncodingTableType enum. Deklarerar uppsättning av några kända kodningssubtabeller
+title: "Enum PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PdfASymbolicFontEncodingStrategyQueueItemCMapEncodingTableType enum. Anger en uppsättning av vissa kända kodningstabeller."
 type: docs
-weight: 8350
+weight: 8490
 url: /sv/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType enumeration
 
-Deklarerar uppsättning av några kända kodningssubtabeller
+Anger en uppsättning av vissa kända kodningstabeller.
 
 ```csharp
 public enum CMapEncodingTableType : short
 ```
 
-### Values
+### Värden
 
-| Name | Value | Description |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| WindowsUnicodeTable | `0` | Anger windows unicode-tabell(3,1) - Unicode BMP-endast (UCS-2) |
-| WindowsSymbolicTable | `1` | Anger windows symbolisk tabell - (3,0) |
-| MacTable | `2` | Anger mac-tabell(1,0) |
-| UnicodeTable | `3` | Anger unicode-tabell(0,3) |
+| WindowsUnicodeTable | `0` | Anger Windows Unicode-tabell(3,1) - Endast Unicode BMP (UCS-2) |
+| WindowsSymbolicTable | `1` | Anger Windows symbolisk tabell - (3,0) |
+| MacTable | `2` | Anger Mac-tabell(1,0) |
+| UnicodeTable | `3` | Anger Unicode-tabell(0,3) |
 
-### See Also
+### Se även
 
 * class [QueueItem](../pdfasymbolicfontencodingstrategy.queueitem/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

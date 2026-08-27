@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.H
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Rubrik En etikett för en underavdelning av ett dokuments innehåll. Det bör vara det första barnet av den avdelning som det leder
+title: "StructureTypeStandard.H"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard fält. Rubrik En etikett för en underindelning av ett dokuments innehåll. Den bör vara det första barnet i den division som den rubriker."
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/h/
 ---
-## StructureTypeStandard.H-fält
+## StructureTypeStandard.H field
 
-(Rubrik) En etikett för en underavdelning av ett dokuments innehåll. Det bör vara det första barnet av den avdelning som det leder.
+(Heading) En etikett för en underindelning av ett dokuments innehåll. Den bör vara det första underobjektet i den division som den rubriker.
 
 ```csharp
 public static readonly StructureTypeStandard H;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

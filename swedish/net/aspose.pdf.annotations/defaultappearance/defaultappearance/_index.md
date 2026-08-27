@@ -1,30 +1,30 @@
 ---
-title: DefaultAppearance.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance-konstruktör. Konstruktör av DefaultAppearance
+title: "DefaultAppearance.DefaultAppearance"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DefaultAppearance-konstruktor. Konstruktor för DefaultAppearance"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/defaultappearance/defaultappearance/
 ---
 ## DefaultAppearance() {#constructor}
 
-Konstruktör av DefaultAppearance.
+Konstruktor för DefaultAppearance.
 
 ```csharp
 public DefaultAppearance()
 ```
 
-### Se Även
+### Se även
 
-* klass [DefaultAppearance](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DefaultAppearance(string, double, Color) {#constructor_2}
 
-Konstruktör av DefaultAppearance.
+Konstruktor för DefaultAppearance.
 
 ```csharp
 public DefaultAppearance(string fontName, double fontSize, Color textColor)
@@ -32,21 +32,21 @@ public DefaultAppearance(string fontName, double fontSize, Color textColor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontName | Sträng | Teckensnittets namn. |
-| fontSize | Dubbel | Teckensnittsstorlek. |
-| textColor | Färg | Färg på text. |
+| fontName | String | Teckensnittsnamn. |
+| fontSize | Double | Teckensnittsstorlek. |
+| textColor | Color | Färg på texten. |
 
-### Se Även
+### Se även
 
-* klass [DefaultAppearance](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DefaultAppearance(Font, double, Color) {#constructor_1}
 
-Konstruktör av Default Appearance. Tidigare skapad teckensnitt kan anges som standardteckensnitt.
+Konstruktor för Default Appearance. Tidigare skapat teckensnitt kan anges som standardteckensnitt.
 
 ```csharp
 public DefaultAppearance(Font font, double fontSize, Color textColor)
@@ -54,13 +54,15 @@ public DefaultAppearance(Font font, double fontSize, Color textColor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| font | Teckensnitt | Teckensnitt som kommer att användas som standard. |
-| fontSize | Dubbel | Teckensnittsstorlek. |
-| textColor | Färg | Färg på text. |
+| teckensnitt | Font | Teckensnitt som kommer att användas som standard. |
+| fontSize | Double | Teckensnittsstorlek. |
+| textColor | Color | Färg på texten. |
 
-### Se Även
+### Se även
 
-* klass [Font](../../../aspose.pdf.text/font/)
-* klass [DefaultAppearance](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

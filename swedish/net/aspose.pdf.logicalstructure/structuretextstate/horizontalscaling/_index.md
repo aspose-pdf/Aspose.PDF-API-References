@@ -1,25 +1,27 @@
 ---
-title: StructureTextState.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState-egenskap. Hämtar eller ställer in horisontell skalning av texten
+title: "StructureTextState.HorizontalScaling"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTextState egenskap. Hämtar eller anger horisontell skalning av texten"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/
 ---
-## StructureTextState.HorizontalScaling-egenskap
+## StructureTextState.HorizontalScaling property
 
-Hämtar eller ställer in horisontell skalning av texten.
+Hämtar eller anger horisontell skalning av texten.
 
 ```csharp
 public float? HorizontalScaling { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Kan vara null. Använd null för att ärva `HorizontalScaling`-egenskapen från överordnat strukturelement.
+Kan vara null. Använd null för att ärva `HorizontalScaling`-egenskapen från förälderelementet i strukturen.
 
-### Se Även
+### Se även
 
-* klass [StructureTextState](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

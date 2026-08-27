@@ -1,12 +1,12 @@
 ---
-title: Layer.Unlock
-second_title: Aspose.PDF for .NET API Reference
-description: Layer-metod. Låser upp lagret
+title: "Layer.Unlock"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Layer-metod. Låser upp lagret"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/layer/unlock/
 ---
-## Layer.Unlock metod
+## Layer.Unlock method
 
 Låser upp lagret.
 
@@ -14,8 +14,10 @@ Låser upp lagret.
 public void Unlock()
 ```
 
-### Se Även
+### Se även
 
-* klass [Layer](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

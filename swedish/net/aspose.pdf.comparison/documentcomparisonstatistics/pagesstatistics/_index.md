@@ -1,22 +1,24 @@
 ---
-title: DocumentComparisonStatistics.PagesStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentComparisonStatistics-egenskap. Hämtar och ställer in listan över sidstatistik
+title: "DocumentComparisonStatistics.PagesStatistics"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentComparisonStatistics-egenskap. Hämtar och anger listan över sidstatistik"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.comparison/documentcomparisonstatistics/pagesstatistics/
 ---
-## DocumentComparisonStatistics.PagesStatistics-egenskap
+## DocumentComparisonStatistics.PagesStatistics property
 
-Hämtar och ställer in listan över sidstatistik.
+Hämtar och anger listan över sidstatistik.
 
 ```csharp
 public List<TextItemComparisonStatistics> PagesStatistics { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
-* klass [DocumentComparisonStatistics](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
+* class [DocumentComparisonStatistics](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

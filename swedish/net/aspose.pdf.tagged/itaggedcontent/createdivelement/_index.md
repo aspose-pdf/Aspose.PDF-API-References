@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateDivElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-metod. Skapar DivElement
+title: "ITaggedContent.CreateDivElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar DivElement"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createdivelement/
 ---
-## ITaggedContent.CreateDivElement metod
+## ITaggedContent.CreateDivElement method
 
 Skapar [`DivElement`](../../../aspose.pdf.logicalstructure/divelement/).
 
@@ -16,11 +16,13 @@ public DivElement CreateDivElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [DivElement](../../../aspose.pdf.logicalstructure/divelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [DivElement](../../../aspose.pdf.logicalstructure/divelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

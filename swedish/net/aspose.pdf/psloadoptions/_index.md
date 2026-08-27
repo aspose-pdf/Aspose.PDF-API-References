@@ -1,14 +1,14 @@
 ---
-title: Class PsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PsLoadOptions klass. Representerar alternativ för att ladda/importera .mht-fil till pdf-dokument
+title: "Klass PsLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PsLoadOptions‑klass. Representerar alternativ för inläsning/import av .mht‑fil till pdf‑dokument."
 type: docs
-weight: 9730
+weight: 9880
 url: /sv/net/aspose.pdf/psloadoptions/
 ---
-## PsLoadOptions klass
+## PsLoadOptions class
 
-Representerar alternativ för att ladda/importera .mht-fil till pdf-dokument.
+Representerar alternativ för laddning/import av .mht-fil till pdf-dokument.
 
 ```csharp
 public sealed class PsLoadOptions : LoadOptions
@@ -24,13 +24,16 @@ public sealed class PsLoadOptions : LoadOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller sätter flagga för att inaktivera eventuella licensbegränsningar för alla typsnitt vid inläsning av filen. När `true`, tillåter att utföra operationer med typsnitt som är förbjudna av en licens för detta typsnitt, till exempel tillåter att bädda in ett typsnitt i ett PDF-dokument även om licensreglerna inaktiverar inbäddning för detta typsnitt. Som standard `false`. |
-| [FontsFolders](../../aspose.pdf/psloadoptions/fontsfolders/) { get; set; } | Hämtar eller sätter sökvägar för typsnittsmappar. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformatet som [`LoadOptions`](../loadoptions/) beskriver. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och inläsningsoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall inläsningsoperationen ska upphöra. |
+| [ConvertFontsToTTF](../../aspose.pdf/psloadoptions/convertfontstottf/) { get; set; } | Anger om icke‑TrueType‑typsnitt ska sparas som TTF. Det minskar avsevärt volymen på det resulterande dokumentet vid PS‑till‑PDF‑konvertering och ökar hastigheten för konvertering av PS‑filer med stor mängd text i icke‑TrueType‑typsnitt till vilket output‑format som helst. Däremot uppstår en liten vertikal förskjutning av texten när en PostSctipt‑fil konverteras till bild. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller anger en flagga för att inaktivera alla licensrestriktioner för alla teckensnitt vid inläsning av filen. När `true` tillåts operationer med ett teckensnitt som är förbjudet av dess licens, till exempel att bädda in ett teckensnitt i ett PDF‑dokument även om licensreglerna förbjuder inbäddning av detta teckensnitt. Standardvärdet är `false`. |
+| [FontsFolders](../../aspose.pdf/psloadoptions/fontsfolders/) { get; set; } | Hämtar eller anger sökvägar till teckensnittsmappar. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformat som [`LoadOptions`](../loadoptions/) beskriver. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återuppringning för att hantera eventuella genererade varningar. WarningHandler returnerar ReturnAction‑enum‑värdet som specificerar antingen Continue eller Abort. Continue är standardåtgärden och Load‑operationen fortsätter, men användaren kan också returnera Abort, varvid Load‑operationen ska avbrytas. |
 
-### Se Även
+### Se även
 
-* klass [LoadOptions](../loadoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

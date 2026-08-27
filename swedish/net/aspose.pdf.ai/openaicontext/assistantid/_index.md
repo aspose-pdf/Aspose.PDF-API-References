@@ -1,21 +1,23 @@
 ---
-title: OpenAIContext.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIContext-egenskap. Hämtar eller ställer in Assistant ID
+title: "OpenAIContext.AssistantId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIContext-egenskap. Hämtar eller anger assistentens ID"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/openaicontext/assistantid/
 ---
-## OpenAIContext.AssistantId-egenskap
+## OpenAIContext.AssistantId property
 
-Hämtar eller ställer in Assistant ID.
+Hämtar eller anger assistent‑ID.
 
 ```csharp
 public string AssistantId { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OpenAIContext](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

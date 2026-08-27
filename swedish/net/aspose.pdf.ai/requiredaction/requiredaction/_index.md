@@ -1,12 +1,12 @@
 ---
-title: RequiredAction.RequiredAction
-second_title: Aspose.PDF for .NET API Reference
-description: RequiredAction-konstruktorn. Standardkonstruktorn
+title: "RequiredAction.RequiredAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RequiredAction-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/requiredaction/requiredaction/
 ---
-## RequiredAction-konstruktorn
+## RequiredAction constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public RequiredAction()
 ```
 
-### Se Även
+### Se även
 
-* klass [RequiredAction](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [RequiredAction](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

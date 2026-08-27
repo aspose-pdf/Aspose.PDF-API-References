@@ -1,21 +1,23 @@
 ---
-title: Bookmark.PageDisplay
-second_title: Aspose.PDF for .NET API Reference
-description: Bokmärkeegenskap. Hämtar eller ställer in typen av visning av bokmärkets destinationssida
+title: "Bookmark.PageDisplay"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Bookmark-egenskap. Hämtar eller anger typ av visning för bokmärkets destinationssida"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/bookmark/pagedisplay/
 ---
-## Bokmärke.SidaVisning egenskap
+## Bookmark.PageDisplay property
 
-Hämtar eller ställer in typen av visning av bokmärkets destinationssida.
+Hämtar eller anger typen av visning för bokmärkets destinationssida.
 
 ```csharp
 public string PageDisplay { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Bokmärke](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

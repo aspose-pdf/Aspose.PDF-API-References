@@ -1,21 +1,23 @@
 ---
-title: SelectFont.Size
-second_title: Aspose.PDF for .NET API Reference
-description: SelectFont-egenskap. Storlek på text
+title: "SelectFont.Size"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SelectFont egenskap. Storlek på texten"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/selectfont/size/
 ---
-## SelectFont.Size-egenskap
+## SelectFont.Size property
 
-Storlek på text.
+Textstorlek.
 
 ```csharp
 public double Size { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SelectFont](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SelectFont](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.DSheet
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. D-papper 22 tum x 34 tum
+title: "PaperSizes.DSheet"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. D-papper 22 tum × 34 tum"
 type: docs
 weight: 390
 url: /sv/net/aspose.pdf.printing/papersizes/dsheet/
 ---
-## PaperSizes.DSheet-fält
+## PaperSizes.DSheet field
 
 D-papper (22 tum x 34 tum).
 
@@ -14,9 +14,11 @@ D-papper (22 tum x 34 tum).
 public static readonly PaperSize DSheet;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

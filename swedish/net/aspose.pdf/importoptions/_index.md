@@ -1,14 +1,14 @@
 ---
-title: Class ImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImportOptions klass. ImportOptions-typ håller en nivå av abstraktion på individuella importalternativ
+title: "Klassen ImportOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ImportOptions-klass. ImportOptions-typen håller en abstraktionsnivå för enskilda importalternativ"
 type: docs
-weight: 5950
+weight: 6080
 url: /sv/net/aspose.pdf/importoptions/
 ---
-## ImportOptions klass
+## ImportOptions class
 
-ImportOptions-typ håller en nivå av abstraktion på individuella importalternativ.
+ImportOptions-typen håller en abstraktionsnivå för enskilda importalternativ.
 
 ```csharp
 public abstract class ImportOptions
@@ -20,7 +20,9 @@ public abstract class ImportOptions
 | --- | --- |
 | [ImportFormat](../../aspose.pdf/importoptions/importformat/) { get; } | Importformat. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

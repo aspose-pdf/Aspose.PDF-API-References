@@ -1,12 +1,12 @@
 ---
-title: EpubSaveOptions.EpubSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: EpubSaveOptions-konstruktorn. Standardkonstruktorn
+title: "EpubSaveOptions.EpubSaveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EpubSaveOptions constructor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/epubsaveoptions/epubsaveoptions/
 ---
-## EpubSaveOptions-konstruktorn
+## EpubSaveOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public EpubSaveOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [EpubSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [EpubSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

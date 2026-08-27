@@ -1,21 +1,23 @@
 ---
-title: ComboBoxField.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: ComboBoxField-egenskap. Hämtar eller ställer in stavningskontrollens aktivitetsstatus
+title: "ComboBoxField.SpellCheck"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ComboBoxField‑egenskap. Hämtar eller anger stavningskontrollens aktivitetsstatus"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/comboboxfield/spellcheck/
 ---
-## ComboBoxField.Stavningskontroll-egenskap
+## ComboBoxField.SpellCheck property
 
-Hämtar eller ställer in stavningskontrollens aktivitetsstatus.
+Hämtar eller anger stavningskontrollens aktivitetsstatus.
 
 ```csharp
 public bool SpellCheck { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ComboBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

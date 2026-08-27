@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.PageBreak.PageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: PageBreak-konstruktör. Konstruktör för att skapa PageBreak-objekt
+title: "PdfFileEditor.PageBreak.PageBreak"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageBreak konstruktor. Konstruktor för att skapa ett PageBreak‑objekt"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdffileeditor.pagebreak/pagebreak/
 ---
-## PdfFileEditor.PageBreak-konstruktör
+## PdfFileEditor.PageBreak constructor
 
-Konstruktör för att skapa PageBreak-objekt.
+Konstruktor för att skapa PageBreak-objekt.
 
 ```csharp
 public PageBreak(int pageNumber, double position)
@@ -17,10 +17,12 @@ public PageBreak(int pageNumber, double position)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | pageNumber | Int32 | Nummer på sidan där sidbrytningen placeras. |
-| position | Double | Vertikal position för sidbrytningen. |
+| position | Double | Vertikal position för sidbrytning. |
 
-### Se Även
+### Se även
 
-* klass [PageBreak](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageBreak](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

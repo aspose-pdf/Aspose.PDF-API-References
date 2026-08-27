@@ -1,12 +1,12 @@
 ---
-title: Page.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Page-metod. Frigör minne
+title: "Page.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-metod. Frigör minne."
 type: docs
 weight: 420
 url: /sv/net/aspose.pdf/page/dispose/
 ---
-## Page.Dispose metod
+## Page.Dispose method
 
 Frigör minne
 
@@ -14,8 +14,10 @@ Frigör minne
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: OutputTextStyle.DeletedStyle
-second_title: Aspose.PDF for .NET API Reference
-description: OutputTextStyle-egenskap. Hämta och ställ in en textstil för raderad text
+title: "OutputTextStyle.DeletedStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutputTextStyle egenskap. Hämta och sätt en textstil för borttagen text"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.comparison/outputtextstyle/deletedstyle/
 ---
-## OutputTextStyle.DeletedStyle-egenskap
+## OutputTextStyle.DeletedStyle property
 
-Hämta och ställ in en textstil för raderad text.
+Hämta och ange en textstil för borttagen text.
 
 ```csharp
 public TextStyle DeletedStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStyle](../../textstyle/)
-* klass [OutputTextStyle](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [TextStyle](../../textstyle/)
+* class [OutputTextStyle](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

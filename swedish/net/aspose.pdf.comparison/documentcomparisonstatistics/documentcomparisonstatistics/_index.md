@@ -1,12 +1,12 @@
 ---
-title: DocumentComparisonStatistics.DocumentComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentComparisonStatistics-konstruktorn. Standardkonstruktorn
+title: "DocumentComparisonStatistics.DocumentComparisonStatistics"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentComparisonStatistics-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.comparison/documentcomparisonstatistics/documentcomparisonstatistics/
 ---
-## DocumentComparisonStatistics-konstruktorn
+## DocumentComparisonStatistics constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public DocumentComparisonStatistics()
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentComparisonStatistics](../)
-* namnrum [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentComparisonStatistics](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

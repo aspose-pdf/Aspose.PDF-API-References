@@ -1,21 +1,23 @@
 ---
-title: Measure.NumberFormat.Denominator
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat-egenskap. Om FractionDisplayment är ShowAsFraction är detta värde nämnaren av bråket. Standardvärde är 16
+title: "Measure.NumberFormat.Denominator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NumberFormat-egenskap. Om FractionDisplayment är ShowAsFraction är detta värde nämnaren i bråket. Standardvärdet är 16."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/measure.numberformat/denominator/
 ---
-## Measure.NumberFormat.Denominator-egenskap
+## Measure.NumberFormat.Denominator property
 
-Om FractionDisplayment är ShowAsFraction, är detta värde nämnaren av bråket. Standardvärde är 16.
+Om FractionDisplayment är ShowAsFraction är detta värde nämnaren i bråket. Standardvärdet är 16.
 
 ```csharp
 public int Denominator { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [NumberFormat](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

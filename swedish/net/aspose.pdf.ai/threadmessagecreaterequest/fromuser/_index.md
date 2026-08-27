@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.FromUser
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest-metod. Skapar en ny ThreadMessageCreateRequest med rollen inställd på Användare
+title: "ThreadMessageCreateRequest.FromUser"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageCreateRequest-metod. Skapar en ny ThreadMessageCreateRequest med rollen inställd på User"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/threadmessagecreaterequest/fromuser/
 ---
-## ThreadMessageCreateRequest.FromUser metod
+## ThreadMessageCreateRequest.FromUser method
 
-Skapar en ny [`ThreadMessageCreateRequest`](../) med rollen inställd på Användare.
+Skapar en ny [`ThreadMessageCreateRequest`](../) med rollen inställd på User.
 
 ```csharp
 public static ThreadMessageCreateRequest FromUser()
@@ -16,10 +16,12 @@ public static ThreadMessageCreateRequest FromUser()
 
 ### Returvärde
 
-En ny instans av [`ThreadMessageCreateRequest`](../) med rollen inställd på Användare.
+En ny instans av [`ThreadMessageCreateRequest`](../) med rollen inställd på User.
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

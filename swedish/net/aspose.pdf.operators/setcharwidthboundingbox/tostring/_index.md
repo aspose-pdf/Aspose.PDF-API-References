@@ -1,14 +1,14 @@
 ---
-title: SetCharWidthBoundingBox.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidthBoundingBox-metoden. Returnerar textrepresentation av operator
+title: "SetCharWidthBoundingBox.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCharWidthBoundingBox metod. Returnerar textrepresentation av operatorn."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.operators/setcharwidthboundingbox/tostring/
 ---
-## SetCharWidthBoundingBox.ToString-metod
+## SetCharWidthBoundingBox.ToString method
 
-Returnerar textrepresentation av operator.
+Returnerar textrepresentation av operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av representation
+Textrepresentation av representationen
 
-### Se Även
+### Se även
 
-* klass [SetCharWidthBoundingBox](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

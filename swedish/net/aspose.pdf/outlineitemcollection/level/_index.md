@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Level
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Hämtar hierarkinivå för punkt i disposition
+title: "OutlineItemCollection.Level"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection-egenskap. Hämtar hierarkinivå för konturposten"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/outlineitemcollection/level/
 ---
-## OutlineItemCollection.Level-egenskap
+## OutlineItemCollection.Level property
 
-Hämtar hierarkinivå för punkt i disposition.
+Hämtar hierarkinivå för outline-item.
 
 ```csharp
 public int Level { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

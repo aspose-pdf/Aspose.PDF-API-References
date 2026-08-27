@@ -1,21 +1,23 @@
 ---
-title: WebHyperlink.Url
-second_title: Aspose.PDF for .NET API Reference
-description: WebHyperlink-egenskap. Hämtar eller ställer in webbadressen
+title: "WebHyperlink.Url"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WebHyperlink-egenskapen. Hämtar eller anger webbadressen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/webhyperlink/url/
 ---
-## WebHyperlink.Url-egenskap
+## WebHyperlink.Url property
 
-Hämtar eller ställer in webbadressen.
+Hämtar eller anger webbadressen.
 
 ```csharp
 public string Url { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [WebHyperlink](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [WebHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

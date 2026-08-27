@@ -1,12 +1,12 @@
 ---
-title: MhtLoadOptions.MhtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: MhtLoadOptions constructor. The default constructor
+title: "MhtLoadOptions.MhtLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MhtLoadOptions‑konstruktör. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/mhtloadoptions/mhtloadoptions/
 ---
-## MhtLoadOptions-konstruktorn
+## MhtLoadOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public MhtLoadOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [MhtLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MhtLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

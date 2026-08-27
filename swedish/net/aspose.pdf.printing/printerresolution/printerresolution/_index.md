@@ -1,21 +1,23 @@
 ---
-title: PrinterResolution.PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterResolution-konstruktorn. Initierar en ny instans av PrinterResolution-klassen med standardegenskaper
+title: "PrinterResolution.PrinterResolution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrinterResolution-konstruktor. Initierar en ny instans av PrinterResolution-klassen med standardegenskaper"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.printing/printerresolution/printerresolution/
 ---
-## PrinterResolution-konstruktorn
+## PrinterResolution constructor
 
-Initierar en ny instans av den [`PrinterResolution`](../) klassen med standardegenskaper.
+Initierar en ny instans av [`PrinterResolution`](../)-klassen med standardegenskaper.
 
 ```csharp
 public PrinterResolution()
 ```
 
-### Se Även
+### Se även
 
-* klass [PrinterResolution](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PrinterResolution](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

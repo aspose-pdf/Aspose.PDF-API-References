@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor-egenskap. Hämtar ett värde som indikerar om DictionaryEditor är skrivskyddad
+title: "DictionaryEditor.IsReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DictionaryEditor-egenskap. Hämtar ett värde som indikerar om DictionaryEditor är skrivskyddad"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.dataeditor/dictionaryeditor/isreadonly/
 ---
-## DictionaryEditor.IsReadOnly-egenskap
+## DictionaryEditor.IsReadOnly property
 
 Hämtar ett värde som indikerar om [`DictionaryEditor`](../) är skrivskyddad.
 
@@ -18,8 +18,10 @@ public bool IsReadOnly { get; }
 
 true om [`DictionaryEditor`](../) är skrivskyddad; annars false.
 
-### Se Även
+### Se även
 
-* klass [DictionaryEditor](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

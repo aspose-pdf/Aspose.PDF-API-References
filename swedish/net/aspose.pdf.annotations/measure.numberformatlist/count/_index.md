@@ -1,21 +1,23 @@
 ---
-title: Measure.NumberFormatList.Count
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormatList-egenskap. Antal om objekt i listan
+title: "Measure.NumberFormatList.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NumberFormatList egenskap. Antal objekt i listan"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/measure.numberformatlist/count/
 ---
-## Measure.NumberFormatList.Count-egenskap
+## Measure.NumberFormatList.Count property
 
-Antal om objekt i listan.
+Antal objekt i listan.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [NumberFormatList](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [NumberFormatList](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

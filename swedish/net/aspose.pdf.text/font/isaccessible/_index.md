@@ -1,46 +1,48 @@
 ---
-title: Font.IsAccessible
-second_title: Aspose.PDF for .NET API Reference
-description: Font-egenskap. Hämtar information om huruvida typsnittet är installerat i systemet
+title: "Font.IsAccessible"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Font‑egenskap. Hämtar information om huruvida teckensnittet är installerat i systemet"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/font/isaccessible/
 ---
-## Font.IsAccessible-egenskap
+## Font.IsAccessible property
 
-Hämtar information om huruvida typsnittet är närvarande (installerat) i systemet.
+Hämtar indikation på om teckensnittet finns (är installerat) i systemet.
 
 ```csharp
 public bool IsAccessible { get; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Vissa operationer är inte tillgängliga med typsnitt som inte kunde hittas i systemet.
+Vissa operationer är inte tillgängliga med teckensnitt som inte kunde hittas i systemet.
 
 ## Exempel
 
-Exemplet visar hur man söker text på första sidan och får värdet som indikerar huruvida typsnittet är installerat i systemet.
+Exemplet visar hur man söker text på den första sidan och får värdet som indikerar om teckensnittet är installerat i systemet.
 
 ```csharp
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Skapa ett TextFragmentAbsorber‑objekt för att hitta alla förekomster av texten \"hello world\"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Acceptera absorberaren för första sidan
 doc.Pages[1].Accept(absorber);
 
-// View font's IsSubset value of first text occurrence
+// Visa teckensnittets IsSubset‑värde för den första textförekomsten
 if(absorber.TextFragments[1].TextState.Font.IsAccessible)
    Console.Out.WriteLine("the font is installed in the system");
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragmentAbsorber](../../textfragmentabsorber/)
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Font](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

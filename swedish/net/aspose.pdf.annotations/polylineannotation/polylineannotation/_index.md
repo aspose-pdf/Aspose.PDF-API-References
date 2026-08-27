@@ -1,14 +1,14 @@
 ---
-title: PolylineAnnotation.PolylineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: PolylineAnnotation-konstruktorn. Skapar en ny Polyline-annotering på den angivna sidan
+title: "PolylineAnnotation.PolylineAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PolylineAnnotation-konstruktor. Skapar ny Polyline-annotering på den angivna sidan"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/polylineannotation/polylineannotation/
 ---
-## PolylineAnnotation-konstruktorn
+## PolylineAnnotation constructor
 
-Skapar en ny Polyline-annotering på den angivna sidan.
+Skapar en ny Polyline-anteckning på den angivna sidan.
 
 ```csharp
 public PolylineAnnotation(Page page, Rectangle rect, Point[] vertices)
@@ -16,15 +16,17 @@ public PolylineAnnotation(Page page, Rectangle rect, Point[] vertices)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Dokumentets sida där annoteringen ska skapas. |
-| rect | Rectangle | Annoteringsrektangeln, som definierar platsen för annoteringen på sidan. |
-| vertices | Point[] | En array av polygonens hörn. |
+| sida | Page | Document-sidan där annotationen bör skapas. |
+| rect | Rectangle | Annotationsrektangeln, som definierar placeringen av annotationen på sidan. |
+| hörnpunkter | Point[] | En array av polygonens hörnpunkter. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [Point](../../../aspose.pdf/point/)
-* klass [PolylineAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
+* class [PolylineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

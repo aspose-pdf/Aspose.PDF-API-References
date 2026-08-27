@@ -1,21 +1,23 @@
 ---
-title: Stamp.Quality
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Hämtar eller ställer in kvaliteten på bildstämplar i procent. Värdena 0..100
+title: "Stamp.Quality"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp‑egenskap. Hämtar eller anger kvaliteten på bildstämpeln i procent. Tillåtna värden 0..100."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/stamp/quality/
 ---
-## Stamp.Quality-egenskap
+## Stamp.Quality property
 
-Hämtar eller ställer in kvaliteten på bildstämplar i procent. Värdena 0..100%.
+Hämtar eller anger kvaliteten på bildstämpeln i procent. Tillåtna värden 0..100%.
 
 ```csharp
 public int Quality { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DStream
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DStream class. Class PDF3DStream
+title: "Klassen PDF3DStream"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.PDF3DStream-klass. Klass PDF3DStream"
 type: docs
-weight: 2230
+weight: 2320
 url: /sv/net/aspose.pdf.annotations/pdf3dstream/
 ---
-## PDF3DStream klass
+## PDF3DStream class
 
 Klass PDF3DStream.
 
@@ -18,15 +18,17 @@ public class PDF3DStream
 
 | Namn | Beskrivning |
 | --- | --- |
-| [PDF3DStream](pdf3dstream/)(Document, PDF3DArtwork) | Initierar en ny instans av klassen `PDF3DStream`. |
+| [PDF3DStream](pdf3dstream/)(Document, PDF3DArtwork) | Initierar en ny instans av `PDF3DStream`-klassen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Content](../../aspose.pdf.annotations/pdf3dstream/content/) { get; set; } | Hämtar eller ställer in innehållet. |
+| [Content](../../aspose.pdf.annotations/pdf3dstream/content/) { get; set; } | Hämtar eller anger innehållet. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

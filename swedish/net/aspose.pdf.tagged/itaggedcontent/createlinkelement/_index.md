@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateLinkElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent metod. Skapar LinkElement
+title: "ITaggedContent.CreateLinkElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar LinkElement"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createlinkelement/
 ---
-## ITaggedContent.CreateLinkElement metod
+## ITaggedContent.CreateLinkElement method
 
 Skapar [`LinkElement`](../../../aspose.pdf.logicalstructure/linkelement/).
 
@@ -16,11 +16,13 @@ public LinkElement CreateLinkElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [LinkElement](../../../aspose.pdf.logicalstructure/linkelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [LinkElement](../../../aspose.pdf.logicalstructure/linkelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

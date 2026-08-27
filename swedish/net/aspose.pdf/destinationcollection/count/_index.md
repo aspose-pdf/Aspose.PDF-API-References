@@ -1,21 +1,23 @@
 ---
-title: DestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection-egenskap. Hämtar antalet element som ingår i samlingen
+title: "DestinationCollection.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DestinationCollection-egenskap. Hämtar antalet element som finns i samlingen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/destinationcollection/count/
 ---
-## DestinationCollection.Count-egenskap
+## DestinationCollection.Count property
 
-Hämtar antalet element som ingår i samlingen.
+Hämtar antalet element som finns i samlingen.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DestinationCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

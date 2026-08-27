@@ -1,22 +1,24 @@
 ---
-title: PdfConverter.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter-egenskap. Hämtar eller ställer in renderingalternativ
+title: "PdfConverter.RenderingOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfConverter-egenskap. Hämtar eller anger renderingsalternativ."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/pdfconverter/renderingoptions/
 ---
-## PdfConverter.RenderingOptions-egenskap
+## PdfConverter.RenderingOptions property
 
-Hämtar eller ställer in renderingalternativ.
+Hämtar eller anger renderingsalternativ.
 
 ```csharp
 public RenderingOptions RenderingOptions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RenderingOptions](../../../aspose.pdf/renderingoptions/)
-* klass [PdfConverter](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Interface IPageSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IPageSetOptions-gränssnitt. Definierar konverteringsalternativ relaterade till en uppsättning sidor att konvertera
+title: "Interface IPageSetOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.IPageSetOptions-interface. Definierar konverteringsalternativ relaterade till en uppsättning sidor att konvertera"
 type: docs
-weight: 5800
+weight: 5930
 url: /sv/net/aspose.pdf/ipagesetoptions/
 ---
-## IPageSetOptions-gränssnitt
+## IPageSetOptions interface
 
 Definierar konverteringsalternativ relaterade till en uppsättning sidor att konvertera.
 
@@ -18,9 +18,11 @@ public interface IPageSetOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | Anger arrayen av sidnummer som ska konverteras. |
+| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | Specificerar arrayen med sidnummer att konvertera. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

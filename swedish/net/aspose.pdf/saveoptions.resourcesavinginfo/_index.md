@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions.ResourceSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptionsResourceSavingInfo klass. Denna klass representerar en uppsättning data som är relaterad till sparande av externa resursfiler som sker under konvertering av PDF till något annat format, t.ex. HTML
+title: "Klassen SaveOptions.ResourceSavingInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.SaveOptionsResourceSavingInfo-klass. Denna klass representerar en uppsättning data som är relaterade till sparande av externa resursfiler som sker under konvertering av PDF till något annat format, t.ex. HTML."
 type: docs
-weight: 9940
+weight: 10090
 url: /sv/net/aspose.pdf/saveoptions.resourcesavinginfo/
 ---
-## SaveOptions.ResourceSavingInfo klass
+## SaveOptions.ResourceSavingInfo class
 
-Denna klass representerar en uppsättning data som är relaterad till sparande av externa resursfiler som sker under konvertering av PDF till något annat format (t.ex. HTML)
+Denna klass representerar en uppsättning data som är relaterade till sparande av externa resursfiler som sker under konvertering av PDF till något annat format (t.ex. HTML).
 
 ```csharp
 public class ResourceSavingInfo
@@ -18,18 +18,20 @@ public class ResourceSavingInfo
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Satt av konverteraren. Antagen filnamn som går från konverteraren till koden för den anpassade metoden. Kan användas i anpassad kod för att avgöra hur man ska bearbeta eller var man ska spara den filen |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Sätts av konverteraren. Antaget filnamn som går från konverteraren till kod för anpassad metod. Kan användas i anpassad kod för att avgöra hur filen ska bearbetas eller var den ska sparas. |
 
 ## Fält
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Satt av konverteraren. Representerar binärt innehåll av den sparade filen. |
-| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | Denna flagga måste sättas till "true" i anpassad kod om filen av någon anledning bör bearbetas inte med anpassad kod utan med konverterarens egen kod på standard sätt för konverteraren. Så, att den sätts till true betyder att den anpassade koden inte bearbetade den refererade filen och konverteraren måste hantera den själv (i båda avseenden - för att spara någonstans och för namngivning i den refererade filen). |
-| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Satt av konverteraren. Antagen filnamn som går från konverteraren till koden för den anpassade metoden. Kan användas i anpassad kod för att avgöra hur man ska bearbeta eller var man ska spara den filen |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Sätts av konverteraren. Representerar binärt innehåll i den sparade filen. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | Denna flagga måste sättas till "true" i anpassad kod om den föreslagna filen av någon anledning ska bearbetas av konverterarens kod istället för av anpassad kod på standardiserat sätt för konverteraren. Så, om flaggan är satt till true betyder det att anpassad kod inte har bearbetat den refererade filen och konverteraren måste hantera den själv (både för att spara den någonstans och för att namnge den i referensfilen). |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Sätts av konverteraren. Antaget filnamn som går från konverteraren till kod för anpassad metod. Kan användas i anpassad kod för att avgöra hur filen ska bearbetas eller var den ska sparas. |
 
-### Se Även
+### Se även
 
-* klass [SaveOptions](../saveoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

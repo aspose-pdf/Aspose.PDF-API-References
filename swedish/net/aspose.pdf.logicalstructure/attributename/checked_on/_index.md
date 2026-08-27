@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Checked_on
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut kontrollerat På Tillståndet för en radioknapp eller kryssruta fält
+title: "AttributeName.Checked_on"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-fältet. Attribut checked On Tillståndet för en radioknapp eller kryssruta"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.logicalstructure/attributename/checked_on/
 ---
-## AttributeName.Checked_on-fält
+## AttributeName.Checked_on field
 
-Attributet markerat: På - Tillståndet för ett radioknapp- eller kryssruta-fält.
+Attribut checked: On - Tillståndet för ett radioknapp- eller kryssrutfält.
 
 ```csharp
 public static readonly AttributeName Checked_on;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: OperatorCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection-egenskap. Hämtar antalet operatörer i samlingen
+title: "OperatorCollection.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OperatorCollection egenskap. Hämtar antalet operatorer i samlingen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/operatorcollection/count/
 ---
-## OperatorCollection.Count-egenskap
+## OperatorCollection.Count property
 
-Hämtar antalet operatörer i samlingen.
+Hämtar antalet operatorer i samlingen.
 
 ```csharp
 public override int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

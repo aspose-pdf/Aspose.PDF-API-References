@@ -1,21 +1,23 @@
 ---
-title: Form.FlattenSettings.ApplyRedactions
-second_title: Aspose.PDF for .NET API Reference
-description: FlattenSettings-egenskap. Om sant kommer den angivna redaktionen att tillämpas
+title: "Form.FlattenSettings.ApplyRedactions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FlattenSettings-egenskap. Om sant kommer den specificerade Redaction‑annoteringen att tillämpas."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/form.flattensettings/applyredactions/
 ---
-## Form.FlattenSettings.ApplyRedactions-egenskap
+## Form.FlattenSettings.ApplyRedactions property
 
-Om sant kommer den angivna redaktionen att tillämpas
+Om true, kommer den specificerade Redaction-annotation att tillämpas.
 
 ```csharp
 public bool ApplyRedactions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FlattenSettings](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [FlattenSettings](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

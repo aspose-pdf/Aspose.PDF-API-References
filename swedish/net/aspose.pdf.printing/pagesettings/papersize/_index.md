@@ -1,22 +1,24 @@
 ---
-title: PageSettings.PaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings-egenskap. Hämtar eller ställer in pappersstorleken
+title: "PageSettings.PaperSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageSettings-egenskap. Hämtar eller anger papperstorleken"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.printing/pagesettings/papersize/
 ---
-## PageSettings.PaperSize-egenskap
+## PageSettings.PaperSize property
 
-Hämtar eller ställer in pappersstorleken.
+Hämtar eller anger pappersstorleken.
 
 ```csharp
 public PaperSize PaperSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PageSettings](../)
-* namnrum [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

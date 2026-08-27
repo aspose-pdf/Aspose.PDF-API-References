@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.EndEdit
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph-metod. Avslutar redigeringen av TextParagraph
+title: "TextParagraph.EndEdit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextParagraph metod. Avslutar redigeringen av TextParagraph"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.text/textparagraph/endedit/
 ---
-## TextParagraph.EndEdit metod
+## TextParagraph.EndEdit method
 
 Avslutar redigeringen av TextParagraph.
 
@@ -14,12 +14,14 @@ Avslutar redigeringen av TextParagraph.
 public void EndEdit()
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Förbättrar prestandan för TextParagraph-befolkning. Eventuell layoutberäkning är pausad tills EndEdit-metoden anropas. Observera att metodanrop inte kan nästlas.
+Förbättrar prestandan för TextParagraph-befolkning. Alla layoutberäkningar skjuts upp tills EndEdit-metoden anropas. Observera att metodanropet inte kan nästlas.
 
-### Se Även
+### Se även
 
-* klass [TextParagraph](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

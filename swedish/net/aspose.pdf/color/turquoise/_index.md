@@ -1,14 +1,14 @@
 ---
-title: Color.Turquoise
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FF40E0D0
+title: "Color.Turquoise"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskap. Hämtar en systemdefinierad färg som har ett ARGB‑värde på c FF40E0D0"
 type: docs
 weight: 1360
 url: /sv/net/aspose.pdf/color/turquoise/
 ---
-## Färg.Turkos egenskap
+## Color.Turquoise property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FF40E0D0.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FF40E0D0.
 
 ```csharp
 public static Color Turquoise { get; }
@@ -16,10 +16,12 @@ public static Color Turquoise { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

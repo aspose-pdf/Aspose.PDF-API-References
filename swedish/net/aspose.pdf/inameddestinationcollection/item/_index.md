@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: INamedDestinationCollection-egenskap. Hämtar eller ställer in destinationen efter dess namn
+title: "INamedDestinationCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "INamedDestinationCollection-egenskap. Hämtar eller anger destinationen efter dess namn"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/inameddestinationcollection/item/
 ---
 ## INamedDestinationCollection indexer
 
-Hämtar eller ställer in destinationen efter dess namn.
+Hämtar eller anger destination efter namn.
 
 ```csharp
 public IAppointment this[string name] { get; set; }
@@ -16,15 +16,17 @@ public IAppointment this[string name] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| name | Namnvärde. |
+| namn | Namnvärde. |
 
 ### Returvärde
 
-Destinationobjekt.
+Destination-objekt.
 
-### Se Även
+### Se även
 
 * interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * interface [INamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

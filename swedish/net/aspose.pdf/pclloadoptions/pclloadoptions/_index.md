@@ -1,12 +1,12 @@
 ---
-title: PclLoadOptions.PclLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PclLoadOptions constructor. The default constructor
+title: "PclLoadOptions.PclLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PclLoadOptions-konstruktorn. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pclloadoptions/pclloadoptions/
 ---
-## PclLoadOptions-konstruktorn
+## PclLoadOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PclLoadOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [PclLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PclLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

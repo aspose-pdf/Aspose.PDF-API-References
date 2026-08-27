@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.ExtractText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-metod. Extraherar text från ett Pdf-dokument med hjälp av Unicode-kodning
+title: "PdfExtractor.ExtractText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-metod. Extraherar text från ett PDF-dokument med Unicode-kodning"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/pdfextractor/extracttext/
 ---
 ## ExtractText() {#extracttext}
 
-Extraherar text från ett Pdf-dokument med hjälp av Unicode-kodning.
+Extraherar text från ett Pdf document med Unicode‑kodning.
 
 ```csharp
 public void ExtractText()
@@ -16,7 +16,7 @@ public void ExtractText()
 
 ## Exempel
 
-Det första exemplet visar hur man extraherar all text från en PDF-fil.
+Det första exemplet visar hur man extraherar all text från PDF-filen.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -61,17 +61,17 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExtractText(Encoding) {#extracttext_1}
 
-Extraherar text från ett Pdf-dokument med angiven kodning.
+Extraherar text från ett Pdf document med angiven kodning.
 
 ```csharp
 public void ExtractText(Encoding encoding)
@@ -79,11 +79,11 @@ public void ExtractText(Encoding encoding)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| encoding | Encoding | Kodningen av den extraherade texten. |
+| encoding | Kodning | Kodningen av den extraherade texten. |
 
 ## Exempel
 
-Det första exemplet visar hur man extraherar all text från en PDF-fil.
+Det första exemplet visar hur man extraherar all text från PDF-filen.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -128,8 +128,10 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

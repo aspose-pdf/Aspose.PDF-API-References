@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Hämtar detaljer om en specifik assistent asynkront
+title: "OpenAIClient.GetAssistantAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient-metod. Hämtar detaljer för en specifik assistent asynkront"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.ai/openaiclient/getassistantasync/
 ---
-## OpenAIClient.GetAssistantAsync metod
+## OpenAIClient.GetAssistantAsync method
 
-Hämtar detaljer om en specifik assistent asynkront.
+Hämtar detaljer för en specifik assistent asynkront.
 
 ```csharp
 public Task<AssistantResponse> GetAssistantAsync(string assistantId, 
@@ -17,22 +17,24 @@ public Task<AssistantResponse> GetAssistantAsync(string assistantId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| assistantId | Sträng | ID:t för assistenten som ska hämtas. |
+| assistantId | String | ID för assistenten som ska hämtas. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljerna om assistenten.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljerna för assistenten.
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när assistent-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när assistent-Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [AssistantResponse](../../assistantresponse/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [AssistantResponse](../../assistantresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

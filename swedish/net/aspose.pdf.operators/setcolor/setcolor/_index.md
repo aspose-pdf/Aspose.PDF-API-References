@@ -1,30 +1,30 @@
 ---
-title: SetColor.SetColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetColor-konstruktör. Initierar operatör
+title: "SetColor.SetColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetColor-konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/setcolor/setcolor/
 ---
 ## SetColor() {#constructor}
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public SetColor()
 ```
 
-### Se Även
+### Se även
 
-* klass [SetColor](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetColor(double) {#constructor_1}
 
-Sätt färg för sträckoperatörer för DeviceGray, CalGray och Indexed färgrum.
+Ställ in färg för streckningsoperatorer för DeviceGray-, CalGray- och Indexed-färgrymder.
 
 ```csharp
 public SetColor(double g)
@@ -34,17 +34,17 @@ public SetColor(double g)
 | --- | --- | --- |
 | g | Double | Färgvärde. |
 
-### Se Även
+### Se även
 
-* klass [SetColor](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetColor(double, double, double) {#constructor_2}
 
-Sätt färg för sträckoperatör för DeviceRGB, CalRGB och Lab färgrum.
+Ställ in färg för streckningsoperator för DeviceRGB-, CalRGB- och Lab-färgrymder
 
 ```csharp
 public SetColor(double r, double g, double b)
@@ -56,17 +56,17 @@ public SetColor(double r, double g, double b)
 | g | Double | Grön komponent. |
 | b | Double | Blå komponent. |
 
-### Se Även
+### Se även
 
-* klass [SetColor](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetColor(double, double, double, double) {#constructor_3}
 
-Sätt färg för icke-sträckoperatör för CMYK färgrum.
+Sätt färg för icke‑strykoperator i CMYK-färgrymden
 
 ```csharp
 public SetColor(double c, double m, double y, double k)
@@ -74,22 +74,22 @@ public SetColor(double c, double m, double y, double k)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| c | Double | Cyan komponent. |
-| m | Double | Magenta komponent. |
-| y | Double | Gul komponent. |
-| k | Double | Svart komponent. |
+| c | Double | Cyan-komponent. |
+| m | Double | Magenta-komponent. |
+| y | Double | Gul-komponent. |
+| k | Double | Svart-komponent. |
 
-### Se Även
+### Se även
 
-* klass [SetColor](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetColor(double[]) {#constructor_4}
 
-Konstruktör som tillåter att specificera färgkomponenter.
+Konstruktor som tillåter att specificera färgkomponenter.
 
 ```csharp
 public SetColor(double[] color)
@@ -99,8 +99,10 @@ public SetColor(double[] color)
 | --- | --- | --- |
 | color | Double[] | Array av färgkomponenter. |
 
-### Se Även
+### Se även
 
-* klass [SetColor](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

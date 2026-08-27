@@ -1,22 +1,24 @@
 ---
-title: OutlineCollection.Last
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection-egenskap. Hämtar en outline-post som representerar den sista översta nivån i outline
+title: "OutlineCollection.Last"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineCollection‑egenskap. Hämtar ett dispositionsobjekt som representerar det sista toppnivåobjektet i dispositionen"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/outlinecollection/last/
 ---
-## OutlineCollection.Last-egenskap
+## OutlineCollection.Last property
 
-Hämtar en outline-post som representerar den sista översta nivån i outline.
+Hämtar ett dispositionsobjekt som representerar det sista top‑nivåobjektet i dispositionen.
 
 ```csharp
 public OutlineItemCollection Last { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../../outlineitemcollection/)
-* klass [OutlineCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

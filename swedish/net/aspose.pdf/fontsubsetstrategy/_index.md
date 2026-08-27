@@ -1,14 +1,14 @@
 ---
-title: Enum FontSubsetStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FontSubsetStrategy enum. upprättar strategier för teckensnittssubsettering
+title: "Enum FontSubsetStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.FontSubsetStrategy-enum. Enumererar strategier för teckensnittssubsetting"
 type: docs
-weight: 4910
+weight: 5030
 url: /sv/net/aspose.pdf/fontsubsetstrategy/
 ---
-## FontSubsetStrategy-uppräkning
+## FontSubsetStrategy enumeration
 
-upprättar strategier för teckensnittssubsettering
+enumererar strategier för teckensnittssubsetting
 
 ```csharp
 public enum FontSubsetStrategy : byte
@@ -18,10 +18,12 @@ public enum FontSubsetStrategy : byte
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| SubsetEmbeddedFontsOnly | `0` | Deklarerar att endast subsettera teckensnitt som redan är inbäddade i dokumentet |
-| SubsetAllFonts | `1` | Deklarerar att subsettera alla teckensnitt, både inbäddade och icke-inbäddade |
+| SubsetEmbeddedFontsOnly | `0` | Anger att endast delmängda av teckensnitt som redan är inbäddade i dokumentet |
+| SubsetAllFonts | `1` | Anger att delmängda alla teckensnitt, både icke-inbäddade och inbäddade |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.VerifySigned
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-metod. Kontrollerar giltigheten av en signatur
+title: "PdfFileSignature.VerifySigned"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature-metoden. Kontrollerar giltigheten för en signatur"
 type: docs
 weight: 310
 url: /sv/net/aspose.pdf.facades/pdffilesignature/verifysigned/
 ---
-## PdfFileSignature.VerifySigned metod
+## PdfFileSignature.VerifySigned method
 
-Kontrollerar giltigheten av en signatur.
+Kontrollerar giltigheten för en signatur.
 
 ```csharp
 public bool VerifySigned(string signName)
@@ -16,14 +16,16 @@ public bool VerifySigned(string signName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| signName | Sträng | Namnet på signaturen. |
+| signName | String | Namnet på signaturen. |
 
 ### Returvärde
 
-Returnerar ett resultat av bool-typ.
+Returnerar ett resultat av bool‑typ.
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

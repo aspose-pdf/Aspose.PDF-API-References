@@ -1,12 +1,12 @@
 ---
-title: NamedDestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestinationCollection metod. Ta bort namngiven destination
+title: "NamedDestinationCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NamedDestinationCollection-metod. Ta bort namngiven destination"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/nameddestinationcollection/remove/
 ---
-## NamedDestinationCollection.Remove metod
+## NamedDestinationCollection.Remove method
 
 Ta bort namngiven destination.
 
@@ -16,10 +16,12 @@ public void Remove(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Namnet på destinationen som ska tas bort. |
+| namn | String | Namnet på destinationen att ta bort. |
 
-### Se Även
+### Se även
 
-* klass [NamedDestinationCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

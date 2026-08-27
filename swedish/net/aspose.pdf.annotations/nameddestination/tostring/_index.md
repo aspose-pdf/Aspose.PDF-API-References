@@ -1,14 +1,14 @@
 ---
-title: NamedDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestination-metod. Konverterar destination till strängvärde
+title: "NamedDestination.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NamedDestination-metod. Konverterar destination till strängvärde"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/nameddestination/tostring/
 ---
-## NamedDestination.ToString metod
+## NamedDestination.ToString method
 
-Konverterar destination till strängvärde.
+Konverterar destination till ett strängvärde.
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 Strängvärde.
 
-### Se Även
+### Se även
 
-* klass [NamedDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [NamedDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

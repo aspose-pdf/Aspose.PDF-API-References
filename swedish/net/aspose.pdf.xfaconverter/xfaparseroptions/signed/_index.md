@@ -1,21 +1,23 @@
 ---
-title: XfaParserOptions.Signed
-second_title: Aspose.PDF for .NET API Reference
-description: XfaParserOptions property. If this property is true then document will be converted with using of xfa form stream if it exists. If it is false then xfa form stream will be ignored. This property was inrtoduced because its not clear how to calculate check sum that used for checking sygnature
+title: "XfaParserOptions.Signed"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XfaParserOptions egenskap. Om denna egenskap är sann så kommer dokumentet att konverteras med användning av xfa‑formulärströmmen om den finns. Om den är falsk så kommer xfa‑formulärströmmen att ignoreras. Denna egenskap infördes eftersom det inte är tydligt hur man beräknar kontrollsumman som används för att verifiera signaturen."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.xfaconverter/xfaparseroptions/signed/
 ---
-## XfaParserOptions.Signed-egenskap
+## XfaParserOptions.Signed property
 
-Om denna egenskap är sann kommer dokumentet att konverteras med användning av xfa-formströmmen (om den finns). Om den är falsk kommer xfa-formströmmen att ignoreras. Denna egenskap introducerades eftersom det inte är klart hur man beräknar kontrollsumman som används för att kontrollera signaturen.
+Om den här egenskapen är sann kommer dokumentet att konverteras med användning av xfa-formulärström (om den finns). Om den är falsk kommer xfa-formulärströmmen att ignoreras. Denna egenskap introducerades eftersom det inte är tydligt hur man beräknar kontrollsumman som används för att kontrollera signaturen.
 
 ```csharp
 public bool Signed { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XfaParserOptions](../)
-* namnrymd [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* samling [Aspose.PDF](../../../)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

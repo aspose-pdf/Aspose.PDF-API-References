@@ -1,12 +1,12 @@
 ---
-title: Html.Html
-second_title: Aspose.PDF for .NET API Reference
-description: Html-konstruktorn. Standardkonstruktorn
+title: "Html.Html"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Html‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/html/html/
 ---
-## Html-konstruktorn
+## Html constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Html()
 ```
 
-### Se Även
+### Se även
 
-* klass [Html](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Html](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

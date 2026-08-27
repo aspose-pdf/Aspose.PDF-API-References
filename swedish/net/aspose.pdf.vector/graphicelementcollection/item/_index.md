@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection-egenskap. Hämtar GraphicElement-elementet vid det angivna indexet
+title: "GraphicElementCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicElementCollection-egenskapen. Hämtar GraphicElement-elementet på det angivna indexet."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.vector/graphicelementcollection/item/
 ---
 ## GraphicElementCollection indexer
 
-Hämtar [`GraphicElement`](../../graphicelement/) elementet vid det angivna indexet.
+Hämtar [`GraphicElement`](../../graphicelement/) elementet på det angivna indexet.
 
 ```csharp
 public GraphicElement this[int index] { get; }
@@ -16,15 +16,17 @@ public GraphicElement this[int index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Index inom samlingen. |
+| index | Index i samlingen. |
 
 ### Returvärde
 
 [`GraphicElement`](../../graphicelement/).
 
-### Se Även
+### Se även
 
-* klass [GraphicElement](../../graphicelement/)
-* klass [GraphicElementCollection](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

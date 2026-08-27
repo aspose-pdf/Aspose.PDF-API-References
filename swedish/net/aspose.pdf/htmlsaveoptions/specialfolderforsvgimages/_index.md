@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.SpecialFolderForSvgImages
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-fält. Hämtar eller ställer in sökväg till katalogen där endast SVG-bilder måste sparas om de stöts på under sparande av dokumentet som HTML. Om parametern är tom eller null kommer SVG-filer att sparas tillsammans med andra bildfiler eller i en speciell mapp för bilder. Det påverkar ingenting om egenskapen CustomImageSavingStrategy framgångsrikt har använts för att bearbeta relevant bildfil.
+title: "HtmlSaveOptions.SpecialFolderForSvgImages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-fält. Hämtar eller anger sökvägen till katalogen där endast SVG‑bilder ska sparas om de påträffas under sparande av dokumentet som HTML. Om parametern är tom eller null sparas SVG‑filer, om några finns, tillsammans med andra bildfiler nära utdatafilen eller i en särskild bildmapp om den anges i alternativet SpecialImagesFolderIfAny. Detta påverkar ingenting om egenskapen CustomImageSavingStrategy har använts framgångsrikt för att bearbeta relevant bildfil."
 type: docs
 weight: 450
 url: /sv/net/aspose.pdf/htmlsaveoptions/specialfolderforsvgimages/
 ---
-## HtmlSaveOptions.SpecialFolderForSvgImages-fält
+## HtmlSaveOptions.SpecialFolderForSvgImages field
 
-Hämtar eller ställer in sökväg till katalogen där endast SVG-bilder måste sparas om de stöts på under sparande av dokumentet som HTML. Om parametern är tom eller null kommer SVG-filer (om några) att sparas tillsammans med andra bildfiler (nära utdatafilen) eller i en speciell mapp för bilder (om det anges i alternativet SpecialImagesFolderIfAny). Det påverkar ingenting om egenskapen CustomImageSavingStrategy framgångsrikt har använts för att bearbeta relevant bildfil.
+Hämtar eller anger sökvägen till den katalog där endast SVG‑bilder måste sparas om de påträffas under sparande av dokumentet som HTML. Om parametern är tom eller null sparas SVG‑filer (om några) tillsammans med övriga bildfiler (nära utdatafilen) eller i en särskild bildmapp (om den anges i alternativet SpecialImagesFolderIfAny). Detta påverkar inte något om egenskapen CustomImageSavingStrategy har använts framgångsrikt för att bearbeta den relevanta bildfilen.
 
 ```csharp
 public string SpecialFolderForSvgImages;
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

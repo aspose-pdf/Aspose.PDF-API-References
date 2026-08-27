@@ -1,30 +1,30 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem
-second_title: Aspose.PDF for .NET API Reference
-description: QueueItem-konstruktör. Konstruktören specificerar mac subtable10 som standard
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "QueueItem‑konstruktor. Konstruktor specificerar mac‑deltabell10 som standard."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/
 ---
 ## QueueItem() {#constructor}
 
-Konstruktör, specificerar mac subtable(1,0) som standard
+Konstruktor, anger mac-deltabell (1,0) som standard
 
 ```csharp
 public QueueItem()
 ```
 
-### Se Även
+### Se även
 
-* klass [QueueItem](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## QueueItem(ushort, ushort) {#constructor_2}
 
-Konstruktör
+Konstruktor
 
 ```csharp
 public QueueItem(ushort platformID, ushort platformSpecificID)
@@ -32,20 +32,20 @@ public QueueItem(ushort platformID, ushort platformSpecificID)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| platformID | UInt16 | Plattformidentifierare för kodningssubtabell |
-| platformSpecificID | UInt16 | Plattformsspecifik kodningsidentifierare för kodningssubtabell |
+| platformID | UInt16 | Plattformsidentifierare för kodningsdeltabell |
+| platformSpecificID | UInt16 | Plattformspecifik kodningsidentifierare för kodningsdeltabell |
 
-### Se Även
+### Se även
 
-* klass [QueueItem](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## QueueItem(CMapEncodingTableType) {#constructor_1}
 
-Konstruktör
+Konstruktor
 
 ```csharp
 public QueueItem(CMapEncodingTableType cmapTable)
@@ -53,11 +53,13 @@ public QueueItem(CMapEncodingTableType cmapTable)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| cmapTable | CMapEncodingTableType | kodningssubtabell |
+| cmapTable | CMapEncodingTableType | kodningsundertabell |
 
-### Se Även
+### Se även
 
 * enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
-* klass [QueueItem](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

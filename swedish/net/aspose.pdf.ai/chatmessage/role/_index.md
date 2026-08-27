@@ -1,21 +1,23 @@
 ---
-title: ChatMessage.Role
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage-egenskap. Hämtar eller ställer in rollen för meddelandets författare
+title: "ChatMessage.Role"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ChatMessage-egenskap. Hämtar eller anger rollen för meddelandets författare"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.ai/chatmessage/role/
 ---
-## ChatMessage.Role-egenskap
+## ChatMessage.Role property
 
-Hämtar eller ställer in rollen för meddelandets författare.
+Hämtar eller anger författarens roll för meddelandet.
 
 ```csharp
 public string Role { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ChatMessage](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

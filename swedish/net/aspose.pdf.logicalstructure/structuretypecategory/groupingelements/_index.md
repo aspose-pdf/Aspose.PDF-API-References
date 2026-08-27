@@ -1,21 +1,23 @@
 ---
-title: StructureTypeCategory.GroupingElements
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory-fält. Grupperande element grupperar andra element i sekvenser eller hierarkier men innehåller inget innehåll direkt och har ingen direkt effekt på layouten
+title: "StructureTypeCategory.GroupingElements"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeCategory fält. Grupperande element grupperar andra element i sekvenser eller hierarkier men innehåller inget innehåll direkt och har ingen direkt effekt på layouten."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.logicalstructure/structuretypecategory/groupingelements/
 ---
-## StructureTypeCategory.GroupingElements-fält
+## StructureTypeCategory.GroupingElements field
 
-Grupperande element grupperar andra element i sekvenser eller hierarkier men innehåller inget innehåll direkt och har ingen direkt effekt på layouten.
+Grupperingselement grupperar andra element i sekvenser eller hierarkier men innehåller inget innehåll direkt och har ingen direkt effekt på layouten.
 
 ```csharp
 public static readonly StructureTypeCategory GroupingElements;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeCategory](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

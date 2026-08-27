@@ -1,7 +1,7 @@
 ---
-title: OptionCollection.get
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection metod. Hämtar alternativ efter index
+title: "OptionCollection.get"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptionCollection metod. Hämtar alternativ efter index"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.forms/optioncollection/get/
@@ -16,17 +16,17 @@ public Option get(int index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| index | Int32 | Alternativets index. Index bör vara inom intervallet [1..n] där n är antalet alternativ. |
+| index | Int32 | Alternativindex. Index bör vara i intervallet [1..n] där n är antalet alternativ. |
 
 ### Returvärde
 
 Hämtat alternativ.
 
-### Se Även
+### Se även
 
-* klass [Option](../../option/)
-* klass [OptionCollection](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,15 +41,17 @@ public Option get(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Alternativnamn. |
+| namn | String | Alternativnamn. |
 
 ### Returvärde
 
 Hämtat alternativ.
 
-### Se Även
+### Se även
 
-* klass [Option](../../option/)
-* klass [OptionCollection](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

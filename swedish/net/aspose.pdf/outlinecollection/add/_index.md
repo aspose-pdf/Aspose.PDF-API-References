@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection-metod. Lägger till en outline-post i samlingen
+title: "OutlineCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineCollection‑metod. Lägger till ett dispositionsobjekt i samlingen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/outlinecollection/add/
 ---
-## OutlineCollection.Add metod
+## OutlineCollection.Add method
 
-Lägger till en outline-post i samlingen.
+Lägger till ett dispositionsobjekt i samlingen.
 
 ```csharp
 public override void Add(OutlineItemCollection outline)
@@ -16,11 +16,13 @@ public override void Add(OutlineItemCollection outline)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outline | OutlineItemCollection | Den outline-post som ska läggas till. |
+| disposition | OutlineItemCollection | Dispositionsobjektet som ska läggas till. |
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../../outlineitemcollection/)
-* klass [OutlineCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: WidgetAnnotation.WidgetAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation-konstruktorn. Skapa annotation som används för Generator
+title: "WidgetAnnotation.WidgetAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WidgetAnnotation-konstruktor. Skapa annotation som används för Generator"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/widgetannotation/widgetannotation/
 ---
-## WidgetAnnotation-konstruktor
+## WidgetAnnotation constructor
 
 Skapa annotation (används för Generator)
 
@@ -16,11 +16,13 @@ public WidgetAnnotation(Document doc)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Dokument | Dokument där annotationen kommer att skapas. |
+| doc | Dokument | Document där annotationen kommer att skapas. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [WidgetAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

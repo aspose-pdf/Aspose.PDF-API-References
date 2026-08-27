@@ -1,12 +1,12 @@
 ---
-title: Matrix.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix-metod. Hashkod för objekt
+title: "Matrix.GetHashCode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix-metod. Hashkod för objekt"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf/matrix/gethashcode/
 ---
-## Matrix.GetHashCode metod
+## Matrix.GetHashCode method
 
 Hashkod för objekt.
 
@@ -16,10 +16,12 @@ public override int GetHashCode()
 
 ### Returvärde
 
-Hashkod.
+Hash-kod.
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IllustrationElement.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: IllustrationElement metod. Lägger till bild till nuvarande illustreringselement
+title: "IllustrationElement.SetImage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IllustrationElement metod. Lägger till bild i aktuellt illustrations-element"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.logicalstructure/illustrationelement/setimage/
 ---
 ## SetImage(string, double) {#setimage}
 
-Lägger till bild till nuvarande illustreringselement.
+Lägger till bild till det aktuella illustrationselementet.
 
 ```csharp
 public virtual void SetImage(string imageSrc, double imageResolution = 300m)
@@ -16,20 +16,20 @@ public virtual void SetImage(string imageSrc, double imageResolution = 300m)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageSrc | Sträng | Bildkälla. |
-| imageResolution | Dubbel | (Valfritt) Bildupplösning. Standard: 300 DPI. |
+| imageSrc | String | Bildkälla. |
+| imageResolution | Double | (Valfritt) Bildupplösning. Standard: 300 DPI. |
 
-### Se Även
+### Se även
 
-* klass [IllustrationElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [IllustrationElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetImage(string, double, double) {#setimage_1}
 
-Lägger till bild till nuvarande illustreringselement.
+Lägger till bild till det aktuella illustrationselementet.
 
 ```csharp
 public virtual void SetImage(string imageSrc, double imageWidth, double imageHeight)
@@ -37,12 +37,14 @@ public virtual void SetImage(string imageSrc, double imageWidth, double imageHei
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageSrc | Sträng | Bildkälla. |
-| imageWidth | Dubbel | Bildbredd. |
-| imageHeight | Dubbel | Bildhöjd. |
+| imageSrc | String | Bildkälla. |
+| imageWidth | Double | Bildbredd. |
+| imageHeight | Double | Bildhöjd. |
 
-### Se Även
+### Se även
 
-* klass [IllustrationElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [IllustrationElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.B5Transverse
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. JIS B5 tvärpapper 182 mm med 257 mm
+title: "PaperSizes.B5Transverse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. JIS B5 tvärgående papper 182 mm × 257 mm"
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf.printing/papersizes/b5transverse/
 ---
-## PaperSizes.B5Transverse-fält
+## PaperSizes.B5Transverse field
 
-JIS B5 tvärpapper (182 mm med 257 mm).
+JIS B5 tvärformat papper (182 mm × 257 mm).
 
 ```csharp
 public static readonly PaperSize B5Transverse;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

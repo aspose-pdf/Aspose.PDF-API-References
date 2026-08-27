@@ -1,14 +1,14 @@
 ---
-title: Page.TrimBox
-second_title: Aspose.PDF for .NET API Reference
-description: Page-egenskap. Hämtar eller ställer in trimboxen för sidan
+title: "Page.TrimBox"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar eller anger trimrutan för sidan"
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf/page/trimbox/
 ---
-## Page.TrimBox-egenskap
+## Page.TrimBox property
 
-Hämtar eller ställer in trimboxen för sidan.
+Hämtar eller anger trim‑ruta för page.
 
 ```csharp
 public Rectangle TrimBox { get; set; }
@@ -16,16 +16,18 @@ public Rectangle TrimBox { get; set; }
 
 ## Exempel
 
-Exemplet visar hur man hämtar trimboxen för sidan:
+Exempel visar hur man får trimrutan för sidan:
 
 ```csharp
 Document document = new Document("sample.pdf");
 Rectangle trimBox = document.Pages[1].TrimBox;
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../rectangle/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

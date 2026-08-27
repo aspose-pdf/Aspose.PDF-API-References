@@ -1,21 +1,23 @@
 ---
-title: OpenAICopilotOptionsBase.Model
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAICopilotOptionsBase-egenskap. Hämtar eller ställer in modellen som ska användas för assistenten
+title: "OpenAICopilotOptionsBase.Model"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAICopilotOptionsBase egenskap. Hämtar eller anger modellen som ska användas för assistenten"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/openaicopilotoptionsbase/model/
 ---
-## OpenAICopilotOptionsBase.Model-egenskap
+## OpenAICopilotOptionsBase.Model property
 
-Hämtar eller ställer in modellen som ska användas för assistenten.
+Hämtar eller anger modellen som ska användas för assistenten.
 
 ```csharp
-public virtual string Model { get; set; }
+public string Model { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OpenAICopilotOptionsBase](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OpenAICopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

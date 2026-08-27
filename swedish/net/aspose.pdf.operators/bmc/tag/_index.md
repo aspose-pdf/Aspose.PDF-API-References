@@ -1,21 +1,23 @@
 ---
-title: BMC.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: BMC-egenskap. Hämtar eller ställer in markerad innehållstag
+title: "BMC.Tag"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BMC-egenskap. Hämtar eller anger markerat innehållstag"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/bmc/tag/
 ---
-## BMC.Tag-egenskap
+## BMC.Tag property
 
-Hämtar eller ställer in markerad innehållstag
+Hämtar eller anger tagg för markerat innehåll
 
 ```csharp
 public string Tag { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BMC](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [BMC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

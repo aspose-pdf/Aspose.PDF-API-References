@@ -1,14 +1,14 @@
 ---
-title: Class Document.MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocumentMergeOptions klass. Representerar alternativen för Merge-metoder
+title: "Klass Document.MergeOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.DocumentMergeOptions-klass. Representerar alternativen för Merge‑metoder"
 type: docs
-weight: 3830
+weight: 3950
 url: /sv/net/aspose.pdf/document.mergeoptions/
 ---
-## Document.MergeOptions klass
+## Document.MergeOptions class
 
-Representerar alternativen för Merge-metoder.
+Representerar alternativen för Merge‑metoder.
 
 ```csharp
 public class MergeOptions
@@ -24,11 +24,13 @@ public class MergeOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | Hämtar och sätter kravet för balans i sidträdet. Hela sidträdet i det resulterande dokumentet kommer att ombalanseras. Det skapar ett balanserat sidträd för att snabba upp sidåtkomst. |
-| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | Hämtar och sätter det maximala antalet noder i sidträdets nivå. Standard är 10. |
+| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | Hämtar och anger kravet på sidträdsbalansering. Det hela sidträdet i det resulterande dokumentet kommer att balanseras om. Det skapar ett balanserat sidträd för att snabba upp sidåtkomst. |
+| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | Hämtar och anger det maximala antalet noder på sidträdnivå. Standardvärdet är 10. |
 
-### Se Även
+### Se även
 
-* klass [Document](../document/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

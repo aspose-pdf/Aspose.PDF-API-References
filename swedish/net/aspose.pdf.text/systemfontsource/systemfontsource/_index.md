@@ -1,12 +1,12 @@
 ---
-title: SystemFontSource.SystemFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: SystemFontSource-konstruktorn. Standardkonstruktorn
+title: "SystemFontSource.SystemFontSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SystemFontSource‑konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/systemfontsource/systemfontsource/
 ---
-## SystemFontSource-konstruktorn
+## SystemFontSource constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public SystemFontSource()
 ```
 
-### Se Även
+### Se även
 
-* klass [SystemFontSource](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SystemFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ConvertToDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter-metod. Konvertera filer av strömmar till tabell
+title: "FormDataConverter.ConvertToDataTable"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormDataConverter metod. Konvertera filer av strömmar till tabell"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/formdataconverter/converttodatatable/
 ---
-## FormDataConverter.ConvertToDataTable metod
+## FormDataConverter.ConvertToDataTable method
 
-Konvertera filer av strömmar till tabell.
+Konvertera filer av strömmar till en tabell.
 
 ```csharp
 public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
@@ -17,7 +17,7 @@ public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceStreams | Stream[] | Array av källströmmar i angivet format. |
-| sourceType | DataType | Format av data i strömmar. Giltiga värden är: PDF, FDF, XFDF, XML. |
+| sourceType | DataType | Format för data i strömmar. Giltiga värden är: PDF, FDF, XFDF, XML. |
 
 ## Exempel
 
@@ -35,9 +35,11 @@ fc.ConvertToDataTable(new Stream[] { stream }, DataType.PDF);
 stream.Close();
 ```
 
-### Se Även
+### Se även
 
 * enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

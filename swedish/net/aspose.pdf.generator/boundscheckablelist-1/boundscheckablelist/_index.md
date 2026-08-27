@@ -1,30 +1,30 @@
 ---
-title: BoundsCheckableList1.BoundsCheckableList
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList-konstruktorn. Initierar en ny instans av BoundsCheckableList-klassen
+title: "BoundsCheckableList1.BoundsCheckableList"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BoundsCheckableList-konstruktör. Initierar en ny instans av klassen BoundsCheckableList"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.generator/boundscheckablelist-1/boundscheckablelist/
 ---
 ## BoundsCheckableList() {#constructor}
 
-Initierar en ny instans av BoundsCheckableList-klassen.
+Initierar en ny instans av klassen BoundsCheckableList.
 
 ```csharp
 public BoundsCheckableList()
 ```
 
-### Se Även
+### Se även
 
-* klass [BoundsCheckableList&lt;T&gt;](../)
-* namnrymd [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* samling [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BoundsCheckableList(BoundsCheckMode, double, double) {#constructor_1}
 
-Initierar en ny instans av BoundsCheckableList-klassen.
+Initierar en ny instans av klassen BoundsCheckableList.
 
 ```csharp
 public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidth, 
@@ -33,13 +33,15 @@ public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidt
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode | Gränskontrollläget. |
+| boundsCheckMode | BoundsCheckMode | Gränsvärdes cCheck-läget. |
 | containerWidth | Double | Behållarens bredd. |
 | containerHeight | Double | Behållarens höjd. |
 
-### Se Även
+### Se även
 
 * enum [BoundsCheckMode](../../boundscheckmode/)
-* klass [BoundsCheckableList&lt;T&gt;](../)
-* namnrymd [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* samling [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

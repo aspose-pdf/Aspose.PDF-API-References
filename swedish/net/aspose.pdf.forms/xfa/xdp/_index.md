@@ -1,21 +1,23 @@
 ---
-title: XFA.XDP
-second_title: Aspose.PDF for .NET API Reference
-description: XFA-egenskap. XML Data Package alla XFA-formkomponenter inom en omgivande XML-behållare
+title: "XFA.XDP"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFA egenskap. XML Data Package för alla XFA-formulärkomponenter inom en omgivande XML-behållare."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.forms/xfa/xdp/
 ---
-## XFA.XDP-egenskap
+## XFA.XDP property
 
-XML Data Package (alla XFA-formkomponenter inom en omgivande XML-behållare).
+XML Data Package (alla XFA-formulärkomponenter inom en omgivande XML-behållare).
 
 ```csharp
 public XmlDocument XDP { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XFA](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

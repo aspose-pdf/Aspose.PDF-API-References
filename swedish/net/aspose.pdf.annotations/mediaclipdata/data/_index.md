@@ -1,22 +1,24 @@
 ---
-title: MediaClipData.Data
-second_title: Aspose.PDF for .NET API Reference
-description: MediaClipData-egenskap. Returnera filspecifikation som innehåller faktisk mediedata
+title: "MediaClipData.Data"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MediaClipData-egenskap. Returnerar filspecificering som innehåller faktiska mediedata"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/mediaclipdata/data/
 ---
-## MediaClipData.Data-egenskap
+## MediaClipData.Data property
 
-Returnera filspecifikation som innehåller faktisk mediedata.
+Returnerar filspecificering som innehåller faktiska mediedata.
 
 ```csharp
 public FileSpecification Data { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../../../aspose.pdf/filespecification/)
-* klass [MediaClipData](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [MediaClipData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

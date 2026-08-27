@@ -1,14 +1,14 @@
 ---
-title: Enum BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.BorderStyle enum. Beskriver stil på annotationsgränsen
+title: "Enum BorderStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.BorderStyle enum. Beskriver stil för annoteringsramen"
 type: docs
-weight: 1530
+weight: 1620
 url: /sv/net/aspose.pdf.annotations/borderstyle/
 ---
-## BorderStyle-uppräkning
+## BorderStyle enumeration
 
-Beskriver stil på annotationsgränsen.
+Beskriver stil för annotationens kantlinje.
 
 ```csharp
 public enum BorderStyle
@@ -18,13 +18,15 @@ public enum BorderStyle
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Solid | `0` | Solid gräns. |
-| Dashed | `1` | Streckad gräns. |
-| Beveled | `2` | Fased gräns. |
-| Inset | `3` | Inramad gräns. |
-| Underline | `4` | Understruken gräns. |
+| Solid | `0` | Solid kant. |
+| Dashed | `1` | Streckad kant. |
+| Beveled | `2` | Avfasad kant. |
+| Inset | `3` | Inskjuten kant. |
+| Underline | `4` | Understruken kant. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

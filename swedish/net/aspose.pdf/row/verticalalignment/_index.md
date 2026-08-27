@@ -1,22 +1,24 @@
 ---
-title: Row.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Rad egenskap. Hämtar eller ställer in den vertikala justeringen
+title: "Row.VerticalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-egenskap. Hämtar eller anger vertikal justering"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/row/verticalalignment/
 ---
-## Row.VerticalAlignment egenskap
+## Row.VerticalAlignment property
 
-Hämtar eller ställer in den vertikala justeringen.
+Hämtar eller anger vertikal justering.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [VerticalAlignment](../../verticalalignment/)
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

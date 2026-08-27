@@ -1,22 +1,24 @@
 ---
-title: Row.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Rad egenskap. Hämtar eller ställer in kanten
+title: "Row.Border"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-egenskap. Hämtar eller anger kanten"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/row/border/
 ---
-## Rad.Kant egenskap
+## Row.Border property
 
-Hämtar eller ställer in kanten.
+Hämtar eller anger kanten.
 
 ```csharp
 public BorderInfo Border { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderInfo](../../borderinfo/)
-* klass [Rad](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderInfo](../../borderinfo/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

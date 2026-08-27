@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateMarkup
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Skapar markup-anteckning i PDF-dokument
+title: "PdfContentEditor.CreateMarkup"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor‑metod. Skapar markup‑annotation i PDF‑dokumentet."
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createmarkup/
 ---
-## PdfContentEditor.CreateMarkup metod
+## PdfContentEditor.CreateMarkup method
 
-Skapar markup-anteckning i PDF-dokument.
+Skapar markup-annotation i PDF-dokument.
 
 ```csharp
 public void CreateMarkup(Rectangle rect, string contents, int type, int page, Color clr)
@@ -16,10 +16,10 @@ public void CreateMarkup(Rectangle rect, string contents, int type, int page, Co
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln som definierar platsen för anteckningen på sidan. |
-| contents | String | Innehållet i anteckningen. |
-| type | Int32 | Typen av markup-anteckning. Kan vara 0 (Markera), 1 (Understrykning), 2 (Genomstrykning), 3 (Vågig). |
-| page | Int32 | Numret på den ursprungliga sidan där anteckningen kommer att skapas. |
+| rect | Rectangle | Rektangeln som definierar annotationens placering på sidan. |
+| innehåll | String | Innehållet i annotationen. |
+| typ | Int32 | Typen av markup‑annotation. Kan vara 0 (Highlight), 1 (Underline), 2 (StrikeOut), 3 (Squiggly). |
+| sida | Int32 | Numret på den ursprungliga sidan där annotationen kommer att skapas. |
 | clr | Color | Färgen på markup. |
 
 ## Exempel
@@ -32,8 +32,10 @@ editor.CreateMarkup(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

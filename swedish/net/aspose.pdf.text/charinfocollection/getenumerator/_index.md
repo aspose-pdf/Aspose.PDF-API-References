@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection metod. Returnerar en enumerator för hela samlingen
+title: "CharInfoCollection.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CharInfoCollection-metod. Returnerar en enumerator för hela samlingen"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.text/charinfocollection/getenumerator/
 ---
-## CharInfoCollection.GetEnumerator metod
+## CharInfoCollection.GetEnumerator method
 
 Returnerar en enumerator för hela samlingen.
 
@@ -16,11 +16,13 @@ public IEnumerator<CharInfo> GetEnumerator()
 
 ### Returvärde
 
-Enumeratorobjekt.
+Enumerator-objekt.
 
-### Se Även
+### Se även
 
-* klass [CharInfo](../../charinfo/)
-* klass [CharInfoCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

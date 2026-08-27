@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTOCIElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-metod. Skapar TOCIElement
+title: "ITaggedContent.CreateTOCIElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar TOCIElement"
 type: docs
-weight: 360
+weight: 390
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createtocielement/
 ---
-## ITaggedContent.CreateTOCIElement metod
+## ITaggedContent.CreateTOCIElement method
 
 Skapar [`TOCIElement`](../../../aspose.pdf.logicalstructure/tocielement/).
 
@@ -16,11 +16,13 @@ public TOCIElement CreateTOCIElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

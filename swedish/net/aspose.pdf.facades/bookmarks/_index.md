@@ -1,12 +1,12 @@
 ---
-title: Class Bookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.Bokmärken klass. Representerar en samling av Bokmärkesobjekt
+title: "Klass Bookmarks"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.Bookmarks-klass. Representerar en samling av Bookmark-objekt"
 type: docs
-weight: 4200
+weight: 4320
 url: /sv/net/aspose.pdf.facades/bookmarks/
 ---
-## Bokmärken klass
+## Bookmarks class
 
 Representerar en samling av [`Bookmark`](../bookmark/) objekt.
 
@@ -20,8 +20,10 @@ public sealed class Bookmarks : List<Bookmark>
 | --- | --- |
 | [Bookmarks](bookmarks/)() | Standardkonstruktorn. |
 
-### Se Även
+### Se även
 
-* klass [Bookmark](../bookmark/)
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../)
+* class [Bookmark](../bookmark/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: TextStyle.Color
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle-egenskap. Hämtar och ställer in textfärgen
+title: "TextStyle.Color"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStyle egenskap. Hämtar och anger textfärgen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.comparison/textstyle/color/
 ---
-## TextStyle.Color-egenskap
+## TextStyle.Color property
 
-Hämtar och ställer in textfärgen.
+Hämtar och anger textfärgen.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [TextStyle](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

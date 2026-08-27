@@ -1,7 +1,7 @@
 ---
-title: AttributeOwnerStandard.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard-metod. Utför en explicit konvertering från String till AttributeOwnerStandard
+title: "AttributeOwnerStandard.op_Explicit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeOwnerStandard-metod. Utför en explicit konvertering från String till AttributeOwnerStandard"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.logicalstructure/attributeownerstandard/op_explicit/
@@ -16,14 +16,16 @@ public static explicit operator AttributeOwnerStandard(string owner)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| owner | String | Ägaren. |
+| ägare | String | Ägaren. |
 
 ### Returvärde
 
 Resultatet av konverteringen.
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

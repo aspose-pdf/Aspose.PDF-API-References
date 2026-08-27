@@ -1,14 +1,14 @@
 ---
-title: StampAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: StampAnnotation metod. Accepterar AnnotationSelector-besökare när man bläddrar i annotationssamlingen
+title: "StampAnnotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StampAnnotation-metod. Accepterar AnnotationSelector-besökare när du bläddrar i annoteringssamlingen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/stampannotation/accept/
 ---
-## StampAnnotation.Accept metod
+## StampAnnotation.Accept method
 
-Accepterar [`AnnotationSelector`](../../annotationselector/) besökare när man bläddrar i annotationssamlingen.
+Accepterar [`AnnotationSelector`](../../annotationselector/) besökare när du bläddrar i annoteringssamlingen.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Besökarobjekt. |
+| besökare | AnnotationSelector | Besökarobjekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [StampAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AnnotationSelector](../../annotationselector/)
+* class [StampAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

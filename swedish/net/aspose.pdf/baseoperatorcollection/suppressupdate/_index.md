@@ -1,21 +1,23 @@
 ---
-title: BaseOperatorCollection.SuppressUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection metod. Suppressar uppdateringsinnehållsdata. Innehållsströmmen uppdateras inte förrän ResumeUpdate anropas
+title: "BaseOperatorCollection.SuppressUpdate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseOperatorCollection metod. Undertrycker uppdatering av innehållsdata. Innehållsströmmen uppdateras inte förrän ResumeUpdate anropas"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/baseoperatorcollection/suppressupdate/
 ---
-## BaseOperatorCollection.SuppressUpdate metod
+## BaseOperatorCollection.SuppressUpdate method
 
-Suppressar uppdateringsinnehållsdata. Innehållsströmmen uppdateras inte förrän ResumeUpdate anropas.
+Undertrycker uppdatering av innehållsdata. Innehållsströmmen uppdateras inte förrän ResumeUpdate anropas.
 
 ```csharp
 public abstract void SuppressUpdate()
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseOperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

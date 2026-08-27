@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.CSheet
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. C-papper 17 tum x 22 tum
+title: "PaperSizes.CSheet"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. C-papper 17 tum gånger 22 tum"
 type: docs
 weight: 370
 url: /sv/net/aspose.pdf.printing/papersizes/csheet/
 ---
-## PaperSizes.CSheet-fält
+## PaperSizes.CSheet field
 
 C-papper (17 tum x 22 tum).
 
@@ -14,9 +14,11 @@ C-papper (17 tum x 22 tum).
 public static readonly PaperSize CSheet;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

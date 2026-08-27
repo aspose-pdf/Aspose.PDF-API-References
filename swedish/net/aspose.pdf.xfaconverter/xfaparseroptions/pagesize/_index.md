@@ -1,25 +1,27 @@
 ---
-title: XfaParserOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: XfaParserOptions-egenskap. Hämtar eller ställer in storleken på sidan
+title: "XfaParserOptions.PageSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XfaParserOptions egenskap. Hämtar eller anger sidans storlek"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.xfaconverter/xfaparseroptions/pagesize/
 ---
-## XfaParserOptions.PageSize-egenskap
+## XfaParserOptions.PageSize property
 
-Hämtar eller ställer in storleken på sidan.
+Hämtar eller anger storleken på sidan.
 
 ```csharp
 public SizeF PageSize { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Storleken på sidan.
+Sidans storlek.
 
-### Se Även
+### Se även
 
-* klass [XfaParserOptions](../)
-* namnrymd [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

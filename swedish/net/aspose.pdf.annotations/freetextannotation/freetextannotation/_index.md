@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.FreeTextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation-konstruktör. Konstruktör att använda med Generator
+title: "FreeTextAnnotation.FreeTextAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FreeTextAnnotation-konstruktor. Konstruktor att använda med Generator"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/freetextannotation/freetextannotation/
 ---
 ## FreeTextAnnotation(Document, DefaultAppearance) {#constructor}
 
-Konstruktör att använda med Generator.
+Konstruktor att använda med Generator.
 
 ```csharp
 public FreeTextAnnotation(Document document, DefaultAppearance appearance)
@@ -16,22 +16,22 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Document | Dokumentet där anteckningen kommer att skapas. |
+| dokument | Dokument | Document där annotationen kommer att skapas. |
 | appearance | DefaultAppearance | Standardutseende |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [DefaultAppearance](../../defaultappearance/)
-* klass [FreeTextAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FreeTextAnnotation(Page, Rectangle, DefaultAppearance) {#constructor_1}
 
-Skapar en ny FreeText-anteckning på den angivna sidan.
+Skapar en ny FreeText annotation på den angivna sidan.
 
 ```csharp
 public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearance)
@@ -39,15 +39,17 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Dokumentets sida där anteckningen ska skapas. |
-| rect | Rectangle | Anteckningsrektangeln, som definierar platsen för anteckningen på sidan. |
-| appearance | DefaultAppearance | Det standardutseende som ska användas för att formatera texten. |
+| sida | Page | Document-sidan där annotationen bör skapas. |
+| rect | Rectangle | Annotationsrektangeln, som definierar placeringen av annotationen på sidan. |
+| appearance | DefaultAppearance | Standardutseendet som ska användas vid formatering av texten. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [DefaultAppearance](../../defaultappearance/)
-* klass [FreeTextAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

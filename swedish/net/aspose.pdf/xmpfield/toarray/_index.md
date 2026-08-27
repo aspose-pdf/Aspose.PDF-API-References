@@ -1,14 +1,14 @@
 ---
-title: XmpField.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField-metod. Hämtar värde som en array
+title: "XmpField.ToArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField method. Hämtar värdet som en array"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/xmpfield/toarray/
 ---
-## XmpField.ToArray metod
+## XmpField.ToArray method
 
-Hämtar värde som en array.
+Hämtar värdet som en array.
 
 ```csharp
 public XmpValue[] ToArray()
@@ -18,9 +18,11 @@ public XmpValue[] ToArray()
 
 Arrayen.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../xmpvalue/)
-* klass [XmpField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

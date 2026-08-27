@@ -1,12 +1,12 @@
 ---
-title: FormDataConverter.FormDataConverter
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter-konstruktorn. Standardkonstruktorn
+title: "FormDataConverter.FormDataConverter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormDataConverter-konstruktorn. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/formdataconverter/formdataconverter/
 ---
-## FormDataConverter-konstruktorn
+## FormDataConverter constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public FormDataConverter()
 ```
 
-### Se Även
+### Se även
 
-* klass [FormDataConverter](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormDataConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

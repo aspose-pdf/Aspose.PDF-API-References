@@ -1,14 +1,14 @@
 ---
-title: Class PaperSizeExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PaperSizeExtensions klass. Representerar extensionsmetoder för PaperSize
+title: "Klass PaperSizeExtensions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Printing.PaperSizeExtensions-klass. Representerar utökande metoder för PaperSize"
 type: docs
-weight: 9580
+weight: 9730
 url: /sv/net/aspose.pdf.printing/papersizeextensions/
 ---
-## PaperSizeExtensions klass
+## PaperSizeExtensions class
 
-Representerar extensionsmetoder för [`PaperSize`](../papersize/).
+Representerar utökande metoder för [`PaperSize`](../papersize/).
 
 ```csharp
 public static class PaperSizeExtensions
@@ -18,10 +18,12 @@ public static class PaperSizeExtensions
 
 | Namn | Beskrivning |
 | --- | --- |
-| static [ToAsposePaperSize](../../aspose.pdf.printing/papersizeextensions/toasposepapersize/)(this PaperSize) | Konverterar Windows-specifik System.Drawing.Printing.PaperSize till [`PaperSize`](../papersize/). |
-| static [ToNativePaperSize](../../aspose.pdf.printing/papersizeextensions/tonativepapersize/)(this PaperSize) | Konverterar [`PaperSize`](../papersize/) till Windows-specifik System.Drawing.Printing.PaperSize. |
+| static [ToAsposePaperSize](../../aspose.pdf.printing/papersizeextensions/toasposepapersize/)(this PaperSize) | Konverterar Windows-specifika System.Drawing.Printing.PaperSize till [`PaperSize`](../papersize/). |
+| static [ToNativePaperSize](../../aspose.pdf.printing/papersizeextensions/tonativepapersize/)(this PaperSize) | Konverterar [`PaperSize`](../papersize/) till Windows-specifika System.Drawing.Printing.PaperSize. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

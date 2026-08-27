@@ -1,19 +1,21 @@
 ---
-title: Line.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: Line-metod.
+title: "Line.CheckBounds"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Line-metod."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.drawing/line/checkbounds/
 ---
-## Line.CheckBounds metod
+## Line.CheckBounds method
 
 ```csharp
 public override bool CheckBounds(double containerWidth, double containerHeight)
 ```
 
-### Se Även
+### Se även
 
-* klass [Line](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Line](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

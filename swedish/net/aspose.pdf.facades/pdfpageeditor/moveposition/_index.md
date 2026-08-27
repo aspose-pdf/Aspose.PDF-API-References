@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.MovePosition
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-metod. Flyttar ursprunget från 0 0 till den angivna punkten. Ursprunget är vänster-nederst och enheten är punkt - 1 tum = 72 punkter.
+title: "PdfPageEditor.MovePosition"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-metod. Flyttar ursprunget från 0 0 till den angivna punkten. Ursprunget är vänsterunder och enheten är punkt1 tum  72 punkter"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/moveposition/
 ---
-## PdfPageEditor.MovePosition metod
+## PdfPageEditor.MovePosition method
 
-Flyttar ursprunget från (0, 0) till den angivna punkten. Ursprunget är vänster-nederst och enheten är punkt(1 tum = 72 punkter).
+Flyttar origo från (0, 0) till den angivna punkten. Origo är vänster‑nedre och enheten är point (1 tum = 72 punkter).
 
 ```csharp
 public void MovePosition(float moveX, float moveY)
@@ -28,8 +28,10 @@ editor.MovePosition(-100, 60);
 editor.Save("moved.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

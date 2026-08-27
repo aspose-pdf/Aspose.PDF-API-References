@@ -1,12 +1,12 @@
 ---
-title: PngDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: PngDevice-metod. Konverterar sidan till png och sparar den i utdataflödet
+title: "PngDevice.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PngDevice‑metod. Konverterar sidan till png och sparar den i utdata‑strömmen."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.devices/pngdevice/process/
 ---
-## PngDevice.Process metod
+## PngDevice.Process method
 
 Konverterar sidan till png och sparar den i utdataflödet.
 
@@ -16,12 +16,14 @@ public override void Process(Page page, Stream output)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sidan som ska konverteras. |
-| output | Stream | Utdataflöde med png-bild. |
+| sida | Page | Sidan som ska konverteras. |
+| utdata | Stream | Utdata‑ström med png‑bild. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [PngDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Page](../../../aspose.pdf/page/)
+* class [PngDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

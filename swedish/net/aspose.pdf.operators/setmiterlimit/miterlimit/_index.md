@@ -1,21 +1,23 @@
 ---
-title: SetMiterLimit.MiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: SetMiterLimit-egenskap. Hämtar eller ställer in mitergränsen
+title: "SetMiterLimit.MiterLimit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetMiterLimit egenskap. Hämtar eller anger mitergränsen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/setmiterlimit/miterlimit/
 ---
-## SetMiterLimit.MiterLimit-egenskap
+## SetMiterLimit.MiterLimit property
 
-Hämtar eller ställer in mitergränsen.
+Hämtar eller anger snittgränsen.
 
 ```csharp
 public double MiterLimit { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetMiterLimit](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetMiterLimit](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,30 +1,30 @@
 ---
-title: OutlineItemCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-metod. Tar bort detta punkt från dokumentets strukturhierarki
+title: "OutlineItemCollection.Delete"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection metod. Tar bort detta konturpost från dokumentets konturhierarki"
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf/outlineitemcollection/delete/
 ---
 ## Delete() {#delete}
 
-Tar bort detta punkt från dokumentets strukturhierarki.
+Tar bort detta outline-item från dokumentets outline-hierarki.
 
 ```csharp
 public void Delete()
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Delete(string) {#delete_1}
 
-Tar bort punkt med angivet namn från dokumentets strukturhierarki.
+Tar bort outline-post med angivet namn från dokumentets outline-hierarki.
 
 ```csharp
 public void Delete(string name)
@@ -32,10 +32,12 @@ public void Delete(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Titel på punkten som kommer att tas bort. |
+| namn | String | Titeln för konturposten kommer att tas bort. |
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

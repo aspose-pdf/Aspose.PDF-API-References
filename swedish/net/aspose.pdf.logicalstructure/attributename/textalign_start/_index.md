@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextAlign_Start
-second_title: Aspose.PDF for .NET API Reference
-description: AttributNamn fält. Attribut TextAlign Start  Justerat med startkanten
+title: "AttributeName.TextAlign_Start"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-fältet. Attribut TextAlign Start Justerad med startkanten"
 type: docs
 weight: 580
 url: /sv/net/aspose.pdf.logicalstructure/attributename/textalign_start/
 ---
-## AttributNamn.TextAlign_Start fält
+## AttributeName.TextAlign_Start field
 
-Attribut TextAlign: Start - Justerat med startkanten.
+Attribut TextAlign: Start - Justerad mot startkanten.
 
 ```csharp
 public static readonly AttributeName TextAlign_Start;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributNamn](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

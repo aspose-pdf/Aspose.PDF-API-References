@@ -1,22 +1,24 @@
 ---
-title: ImagePlacement.Image
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement-egenskap. Hämtar relaterad XImage-resursobjekt
+title: "ImagePlacement.Image"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacement-egenskap. Hämtar relaterat XImage-resursobjekt"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/imageplacement/image/
 ---
-## ImagePlacement.Image-egenskap
+## ImagePlacement.Image property
 
-Hämtar relaterad XImage-resursobjekt.
+Hämtar relaterat XImage-resursobjekt.
 
 ```csharp
 public XImage Image { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XImage](../../ximage/)
-* klass [ImagePlacement](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

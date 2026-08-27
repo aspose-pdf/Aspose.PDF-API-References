@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ImportIntoDataBase
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter-metod. Importerar data från tabell till databas
+title: "FormDataConverter.ImportIntoDataBase"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormDataConverter-metoden. Importerar data från tabellen till databasen"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.facades/formdataconverter/importintodatabase/
 ---
-## FormDataConverter.ImportIntoDataBase metod
+## FormDataConverter.ImportIntoDataBase method
 
-Importerar data från tabell till databas.
+Importerar data från tabellen till databasen.
 
 ```csharp
 public void ImportIntoDataBase(string connectString, DataType dbType)
@@ -16,7 +16,7 @@ public void ImportIntoDataBase(string connectString, DataType dbType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| connectString | Sträng | Anslutningssträng för databasen. |
+| connectString | String | Anslutningssträng för databasen. |
 | dbType | DataType | Typ av databasanslutning: OLEDB eller ODBC. |
 
 ## Exempel
@@ -36,9 +36,11 @@ string connection = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=ConverterDatab
 fc.ImportIntoDataBase(connection, DataType.OLEDB);
 ```
 
-### Se Även
+### Se även
 
 * enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

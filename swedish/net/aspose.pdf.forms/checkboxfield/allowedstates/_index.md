@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.AllowedStates
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField-egenskap. Returnerar lista över tillåtna tillstånd
+title: "CheckboxField.AllowedStates"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CheckboxField-egenskap. Returnerar lista över tillåtna tillstånd"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/checkboxfield/allowedstates/
 ---
-## CheckboxField.AllowedStates-egenskap
+## CheckboxField.AllowedStates property
 
 Returnerar lista över tillåtna tillstånd.
 
@@ -14,8 +14,10 @@ Returnerar lista över tillåtna tillstånd.
 public List<string> AllowedStates { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CheckboxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

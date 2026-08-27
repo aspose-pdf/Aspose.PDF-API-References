@@ -1,14 +1,14 @@
 ---
-title: FontSourceCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection-metod. Tar bort fontkälla elementet
+title: "FontSourceCollection.Delete"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontSourceCollection metod. Tar bort teckensnittskällelementet"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.text/fontsourcecollection/delete/
 ---
-## FontSourceCollection.Delete metod
+## FontSourceCollection.Delete method
 
-Tar bort fontkälla elementet.
+Tar bort teckensnittskällselementet.
 
 ```csharp
 public void Delete(FontSource fontSource)
@@ -16,11 +16,13 @@ public void Delete(FontSource fontSource)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontSource | FontSource | FontSource-objektet som kommer att tas bort. |
+| fontSource | FontSource | FontSource-objekt som kommer att tas bort. |
 
-### Se Även
+### Se även
 
-* klass [FontSource](../../fontsource/)
-* klass [FontSourceCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

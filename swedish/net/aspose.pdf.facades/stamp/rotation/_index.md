@@ -1,14 +1,14 @@
 ---
-title: Stamp.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Hämtar eller ställer in rotationen av stämpeln i grader
+title: "Stamp.Rotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp‑egenskap. Hämtar eller anger rotationen för stämpeln i grader."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/stamp/rotation/
 ---
-## Stamp.Rotation-egenskap
+## Stamp.Rotation property
 
-Hämtar eller ställer in rotationen av stämpeln i grader.
+Hämtar eller anger rotationen för stämpeln i grader.
 
 ```csharp
 public float Rotation { get; set; }
@@ -25,8 +25,10 @@ fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

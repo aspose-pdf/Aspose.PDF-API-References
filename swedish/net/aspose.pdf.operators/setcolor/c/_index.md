@@ -1,21 +1,23 @@
 ---
-title: SetColor.C
-second_title: Aspose.PDF for .NET API Reference
-description: SetColor-egenskap. Hämtar eller ställer in cyan-komponenten
+title: "SetColor.C"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetColor-egenskap. Hämtar eller anger den cyan komponenten"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/setcolor/c/
 ---
-## SetColor.C-egenskap
+## SetColor.C property
 
-Hämtar eller ställer in cyan-komponenten.
+Hämtar eller anger cyan-komponenten.
 
 ```csharp
 public double C { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetColor](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

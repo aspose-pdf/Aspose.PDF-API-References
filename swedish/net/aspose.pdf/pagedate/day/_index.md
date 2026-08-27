@@ -1,22 +1,24 @@
 ---
-title: PageDate.Day
-second_title: Aspose.PDF for .NET API Reference
-description: PageDate-egenskap. Hämtar eller ställer in dagkomponenten av datumet. Formatet för datumet kommer att uppdateras baserat på denna komponent
+title: "PageDate.Day"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageDate egenskap. Hämtar eller anger dagkomponenten i datumet. Datumformatet kommer att uppdateras baserat på denna komponent"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pagedate/day/
 ---
-## PageDate.Day-egenskap
+## PageDate.Day property
 
-Hämtar eller ställer in dagkomponenten av datumet. Formatet för datumet kommer att uppdateras baserat på denna komponent.
+Hämtar eller anger dagkomponenten i datumet. Datumformatet kommer att uppdateras baserat på denna komponent.
 
 ```csharp
 public DayComponent Day { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DayComponent](../../pagedate.daycomponent/)
-* klass [PageDate](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DayComponent](../../pagedate.daycomponent/)
+* class [PageDate](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

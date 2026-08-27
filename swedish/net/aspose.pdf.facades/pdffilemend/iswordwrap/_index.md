@@ -1,21 +1,23 @@
 ---
-title: PdfFileMend.IsWordWrap
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend-egenskap. Ställer in ett bool-värde som indikerar radbrytning i AddText-metoder. Om värdet är sant kommer texten i FormattedText att radbrytas. Som standard är värdet falskt
+title: "PdfFileMend.IsWordWrap"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileMend-egenskap. Anger ett bool värde som indikerar radbrytning i AddText-metoder. Om värdet är true kommer texten i FormattedText att radbrytas. Som standard är värdet false"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdffilemend/iswordwrap/
 ---
-## PdfFileMend.IsWordWrap-egenskap
+## PdfFileMend.IsWordWrap property
 
-Ställer in ett bool-värde som indikerar radbrytning i AddText-metoder. Om värdet är sant kommer texten i FormattedText att radbrytas. Som standard är värdet falskt.
+Ställer in ett booleskt värde som indikerar radbrytning i AddText-metoder. Om värdet är true, kommer texten i FormattedText att radbrytas. Som standard är värdet false.
 
 ```csharp
 public bool IsWordWrap { set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileMend](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

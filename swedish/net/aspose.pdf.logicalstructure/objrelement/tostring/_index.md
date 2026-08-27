@@ -1,12 +1,12 @@
 ---
-title: OBJRElement.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: OBJRElement-metod. Returnerar en sträng som representerar det aktuella objektet
+title: "OBJRElement.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OBJRElement-metod. Returnerar en sträng som representerar det aktuella objektet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.logicalstructure/objrelement/tostring/
 ---
-## OBJRElement.ToString metod
+## OBJRElement.ToString method
 
 Returnerar en sträng som representerar det aktuella objektet.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Sträng som representerar det aktuella objektet.
 
-### Se Även
+### Se även
 
-* klass [OBJRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [OBJRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

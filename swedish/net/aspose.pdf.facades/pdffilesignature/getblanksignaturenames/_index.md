@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.GetBlankSignatureNames
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-metod. Hämtar namnen på alla tomma signaturfält
+title: "PdfFileSignature.GetBlankSignatureNames"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature-metod. Hämtar namnen på alla tomma signaturfält"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.facades/pdffilesignature/getblanksignaturenames/
 ---
-## PdfFileSignature.GetBlankSignatureNames metod
+## PdfFileSignature.GetBlankSignatureNames method
 
 Hämtar namnen på alla tomma signaturfält.
 
@@ -18,9 +18,11 @@ public IList<SignatureName> GetBlankSignatureNames()
 
 Returnerar en IList.
 
-### Se Även
+### Se även
 
-* klass [SignatureName](../../signaturename/)
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

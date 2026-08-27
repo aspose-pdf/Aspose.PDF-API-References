@@ -1,14 +1,14 @@
 ---
-title: Class Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Rendition klass. Klass som beskriver renditionsobjektet av RendtionAnnotation
+title: "Klass Rendition"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.Rendition-klass. Klass som beskriver renditionsobjektet för RendtionAnnotation"
 type: docs
-weight: 2430
+weight: 2520
 url: /sv/net/aspose.pdf.annotations/rendition/
 ---
-## Rendition klass
+## Rendition class
 
-Klass som beskriver renditionsobjektet av RendtionAnnotation.
+Klass som beskriver renditionsobjektet för RendtionAnnotation.
 
 ```csharp
 public class Rendition
@@ -18,10 +18,12 @@ public class Rendition
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Textsträng som specificerar namnet på rendition för användning i ett användargränssnitt och för namntreessökning av JavaScript-åtgärder. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Hämtar renditions typ. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Textsträng som specificerar namnet på renditionen för användning i ett användargränssnitt och för namnträdssökning via JavaScript‑åtgärder. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Hämtar renditionstyp. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

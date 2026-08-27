@@ -1,21 +1,23 @@
 ---
-title: OutputIntents.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents metod. Tar bort alla utdataintentioner från samlingen
+title: "OutputIntents.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutputIntents‑metoden. Tar bort alla output‑intents från samlingen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/outputintents/clear/
 ---
-## OutputIntents.Clear metod
+## OutputIntents.Clear method
 
-Tar bort alla utdataintentioner från samlingen.
+Tar bort alla output‑intents från samlingen.
 
 ```csharp
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [OutputIntents](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

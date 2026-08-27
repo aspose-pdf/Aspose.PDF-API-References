@@ -1,25 +1,27 @@
 ---
-title: TextParagraph.BeginEdit
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph metod. Börjar redigeringen av TextParagraph
+title: "TextParagraph.BeginEdit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextParagraph-metod. Påbörjar redigeringen av TextParagraph"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.text/textparagraph/beginedit/
 ---
-## TextParagraph.BeginEdit metod
+## TextParagraph.BeginEdit method
 
-Börjar redigeringen av TextParagraph.
+Påbörjar redigeringen av TextParagraph.
 
 ```csharp
 public void BeginEdit()
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Förbättrar prestandan för TextParagraph-befolkning. Eventuell layoutberäkning är pausad tills EndEdit-metoden anropas. Observera att metodanrop inte kan nästlas.
+Förbättrar prestandan för TextParagraph-befolkning. Alla layoutberäkningar skjuts upp tills EndEdit-metoden anropas. Observera att metodanropet inte kan nästlas.
 
-### Se Även
+### Se även
 
-* klass [TextParagraph](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

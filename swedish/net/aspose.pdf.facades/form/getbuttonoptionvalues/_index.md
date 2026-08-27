@@ -1,14 +1,14 @@
 ---
-title: Form.GetButtonOptionValues
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Hämtar alternativfälten för radioknappar och relaterade värden baserat på fältnamnet. Denna metod har betydelse för grupper av radioknappar
+title: "Form.GetButtonOptionValues"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formulärmetod. Hämtar radioknappsalternativfält och relaterade värden baserat på fältnamnet. Denna metod är relevant för radioknappsgupper"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/form/getbuttonoptionvalues/
 ---
-## Form.GetButtonOptionValues metod
+## Form.GetButtonOptionValues method
 
-Hämtar alternativfälten för radioknappar och relaterade värden baserat på fältnamnet. Denna metod har betydelse för grupper av radioknappar.
+Hämtar radioknappens alternativfält och relaterade värden baserat på fältnamnet. Denna metod är relevant för radioknappgrupper.
 
 ```csharp
 public Dictionary<string, string> GetButtonOptionValues(string fieldName)
@@ -16,11 +16,11 @@ public Dictionary<string, string> GetButtonOptionValues(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Fältnamn |
+| fieldName | String | Fältnamn |
 
 ### Returvärde
 
-Hash-tabell av alternativvärden indexerade efter formulärobjektnamn
+Hash‑tabell med alternativvärden indexerade efter formulärelementets namn
 
 ## Exempel
 
@@ -31,8 +31,10 @@ Console.WriteLine(values["White"].ToString());
 Console.WriteLine(values["Black"].ToString());
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

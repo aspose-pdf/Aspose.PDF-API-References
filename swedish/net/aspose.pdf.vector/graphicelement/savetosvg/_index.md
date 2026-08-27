@@ -1,7 +1,7 @@
 ---
-title: GraphicElement.SaveToSvg
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement-metod. Konverterar elementet till en enda SVG-bild
+title: "GraphicElement.SaveToSvg"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicElement‑metod. Konverterar elementet till en enda SVG‑bild"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.vector/graphicelement/savetosvg/
@@ -14,15 +14,15 @@ Konverterar elementet till en enda SVG-bild.
 public string SaveToSvg()
 ```
 
-### Return Value
+### Returvärde
 
-SVG-strängen.
+SVG‑strängen.
 
-### Se Även
+### Se även
 
-* klass [GraphicElement](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public void SaveToSvg(string svgFilePath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| svgFilePath | Sträng | Filvägen för att spara svg-bild. |
+| svgFilePath | String | Filvägen för att spara svg‑bilden. |
 
-### Se Även
+### Se även
 
-* klass [GraphicElement](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

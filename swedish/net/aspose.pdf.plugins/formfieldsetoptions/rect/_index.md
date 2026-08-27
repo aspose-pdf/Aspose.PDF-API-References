@@ -1,22 +1,24 @@
 ---
-title: FormFieldSetOptions.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldSetOptions egenskap. Rektangel som kan sättas till fält
+title: "FormFieldSetOptions.Rect"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldSetOptions egenskap. Rektangel som sätts till fält"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/formfieldsetoptions/rect/
 ---
-## FormFieldSetOptions.Rect egenskap
+## FormFieldSetOptions.Rect property
 
-Rektangel som kan sättas till fält.
+Rectangle som ska sättas till fält(en).
 
 ```csharp
 public Rectangle Rect { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [FormFieldSetOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

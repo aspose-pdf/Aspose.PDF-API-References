@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber-egenskap. Hämtar eller ställer in alternativ för textutvinning
+title: "TextAbsorber.ExtractionOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextAbsorber-egenskap. Hämtar eller anger alternativ för textextraktion."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/textabsorber/extractionoptions/
 ---
-## TextAbsorber.ExtractionOptions-egenskap
+## TextAbsorber.ExtractionOptions property
 
-Hämtar eller ställer in alternativ för textutvinning.
+Hämtar eller anger alternativ för textutdragning.
 
 ```csharp
 public virtual TextExtractionOptions ExtractionOptions { get; set; }
@@ -16,32 +16,34 @@ public virtual TextExtractionOptions ExtractionOptions { get; set; }
 
 ## Anmärkningar
 
-Möjliggör att definiera textformateringsläge [`TextExtractionOptions`](../../textextractionoptions/) under utvinning. Standardläget är Pure
+Tillåter att definiera textformateringsläge [`TextExtractionOptions`](../../textextractionoptions/) under extraktionen. Standardläget är Pure.
 
 ## Exempel
 
-Exemplet visar hur man ställer in Pure textformateringsläge och utför textutvinning.
+Exemplet visar hur man ställer in Pure-textformateringsläge och utför textextraktion.
 
 ```csharp
-// open document
+// öppna dokument
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text with formatting
+// skapa ett TextAbsorber-objekt för att extrahera text med formatering
 TextAbsorber absorber = new TextAbsorber();
 
-// set pure text formatting mode
+// ställ in pure-textformateringsläge
 absorber.ExtractionOptions = new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure);
 
-// accept the absorber for all document's pages
+// acceptera absorberaren för alla dokumentets sidor
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// hämta den extraherade texten
 string extractedText = absorber.Text;
 ```
 
-### Se Även
+### Se även
 
-* klass [TextExtractionOptions](../../textextractionoptions/)
-* klass [TextAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

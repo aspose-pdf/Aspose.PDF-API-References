@@ -1,30 +1,30 @@
 ---
-title: TextOperator.TextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: TextOperator-konstruktör. Initierar operatör
+title: "TextOperator.TextOperator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextOperator-konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/textoperator/textoperator/
 ---
 ## TextOperator() {#constructor}
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public TextOperator()
 ```
 
-### Se Även
+### Se även
 
-* klass [TextOperator](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [TextOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextOperator(TextProperties) {#constructor_1}
 
-Textoperatör som accepterar textegenskaper.
+Textoperator som accepterar textegenskaper.
 
 ```csharp
 public TextOperator(TextProperties textProperties)
@@ -32,11 +32,13 @@ public TextOperator(TextProperties textProperties)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| textProperties | TextProperties | Text egenskaper. |
+| textProperties | TextProperties | Textegenskaper. |
 
-### Se Även
+### Se även
 
-* klass [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* klass [TextOperator](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [TextOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Stroke
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.Stroke klass. Klass som representerar S-operatorns stroke-bana
+title: "Klass Stroke"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.Stroke klass. Klass som representerar S‑operatorn för att streka en bana."
 type: docs
-weight: 7890
+weight: 8030
 url: /sv/net/aspose.pdf.operators/stroke/
 ---
-## Stroke klass
+## Stroke class
 
-Klass som representerar S-operatorn (stroke-bana).
+Klass som representerar S-operatorn (strokar bana).
 
 ```csharp
 public class Stroke : Operator
@@ -24,7 +24,7 @@ public class Stroke : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
@@ -34,8 +34,10 @@ public class Stroke : Operator
 | override [ToString](../../aspose.pdf.operators/stroke/tostring/)() | Returnerar textrepresentation av operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

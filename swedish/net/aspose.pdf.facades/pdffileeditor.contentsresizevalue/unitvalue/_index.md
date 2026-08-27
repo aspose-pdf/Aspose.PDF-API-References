@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.UnitValue
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue-egenskap. Sätter värde i standard rymdenheter
+title: "PdfFileEditor.ContentsResizeValue.UnitValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ContentsResizeValue-egenskap. Anger värde i standardrymdsenheter"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/unitvalue/
 ---
-## PdfFileEditor.ContentsResizeValue.UnitValue-egenskap
+## PdfFileEditor.ContentsResizeValue.UnitValue property
 
-Sätter värde i standard rymdenheter.
+Ställer in värdet i standardrymdsenheter.
 
 ```csharp
 public double UnitValue { set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeValue](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

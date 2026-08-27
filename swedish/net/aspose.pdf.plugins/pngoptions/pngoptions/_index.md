@@ -1,12 +1,12 @@
 ---
-title: PngOptions.PngOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PngOptions-konstruktorn. Standardkonstruktorn
+title: "PngOptions.PngOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PngOptions‑konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/pngoptions/pngoptions/
 ---
-## PngOptions-konstruktorn
+## PngOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PngOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [PngOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [PngOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

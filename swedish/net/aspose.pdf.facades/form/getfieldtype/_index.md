@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Returnerar typ av fält
+title: "Form.GetFieldType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formulärmetod. Returnerar fälttypen"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.facades/form/getfieldtype/
 ---
-## Form.GetFieldType metod
+## Form.GetFieldType method
 
-Returnerar typ av fält.
+Returnerar fälttypen.
 
 ```csharp
 public FieldType GetFieldType(string fieldName)
@@ -16,11 +16,11 @@ public FieldType GetFieldType(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Fältnamn. |
+| fieldName | String | Fältnamn. |
 
 ### Returvärde
 
-Element av FileType-uppräkning som motsvarar fälttyp.
+Element i FileType‑uppräkning som motsvarar fälttypen.
 
 ## Exempel
 
@@ -32,9 +32,11 @@ if (form.GetFieldType("textField") == FieldType.Text)
 }
 ```
 
-### Se Även
+### Se även
 
 * enum [FieldType](../../fieldtype/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

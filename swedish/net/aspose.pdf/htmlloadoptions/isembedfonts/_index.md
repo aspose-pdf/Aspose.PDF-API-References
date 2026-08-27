@@ -1,21 +1,23 @@
 ---
-title: HtmlLoadOptions.IsEmbedFonts
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlLoadOptions-egenskap. Hämtar eller ställer in teckensnittsinbäddning till resultatdokumentet
+title: "HtmlLoadOptions.IsEmbedFonts"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlLoadOptions egenskap. Hämtar eller anger inbäddning av teckensnitt i resultatsdokumentet"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/htmlloadoptions/isembedfonts/
 ---
-## HtmlLoadOptions.IsEmbedFonts-egenskap
+## HtmlLoadOptions.IsEmbedFonts property
 
-Hämtar eller ställer in teckensnittsinbäddning till resultatdokumentet
+Hämtar eller anger inbäddning av teckensnitt i resulterande dokument
 
 ```csharp
 public bool IsEmbedFonts { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

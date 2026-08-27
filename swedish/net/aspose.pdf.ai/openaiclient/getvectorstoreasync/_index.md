@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Hämtar detaljer om en specifik vektorbutik asynkront
+title: "OpenAIClient.GetVectorStoreAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient metod. Hämtar detaljer för en specifik vektorbutik asynkront"
 type: docs
-weight: 330
+weight: 340
 url: /sv/net/aspose.pdf.ai/openaiclient/getvectorstoreasync/
 ---
-## OpenAIClient.GetVectorStoreAsync metod
+## OpenAIClient.GetVectorStoreAsync method
 
-Hämtar detaljer om en specifik vektorbutik asynkront.
+Hämtar detaljer för ett specifikt vektorlager asynkront.
 
 ```csharp
 public Task<VectorStoreResponse> GetVectorStoreAsync(string vectorStoreId, 
@@ -17,22 +17,24 @@ public Task<VectorStoreResponse> GetVectorStoreAsync(string vectorStoreId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreId | Sträng | ID:t för vektorbutiken som ska hämtas. |
+| vectorStoreId | String | ID för vektorlager att hämta. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljerna om vektorbutiken.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljerna för vektorlager.
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorbutikens ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när vektorlager-ID är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [VectorStoreResponse](../../vectorstoreresponse/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

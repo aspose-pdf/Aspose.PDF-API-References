@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-egenskap. Hämtar nycklar från ordboken
+title: "PdfXmpMetadata.Keys"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata-egenskap. Hämtar nycklar från ordboken"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/keys/
 ---
-## PdfXmpMetadata.Keys-egenskap
+## PdfXmpMetadata.Keys property
 
 Hämtar nycklar från ordboken.
 
@@ -14,8 +14,10 @@ Hämtar nycklar från ordboken.
 public ICollection<string> Keys { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfXmpMetadata](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

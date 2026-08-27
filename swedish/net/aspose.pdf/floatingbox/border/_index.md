@@ -1,22 +1,24 @@
 ---
-title: FloatingBox.Border
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox-egenskap. Hämtar eller ställer in ett BorderInfo-objekt som indikerar gränsinformationen för den flytande rutan
+title: "FloatingBox.Border"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FloatingBox-egenskap. Hämtar eller anger ett BorderInfo-objekt som indikerar kantinformationen för den flytande rutan"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/floatingbox/border/
 ---
-## FloatingBox.Border-egenskap
+## FloatingBox.Border property
 
-Hämtar eller ställer in ett [`BorderInfo`](../../borderinfo/) objekt som indikerar gränsinformationen för den flytande rutan.
+Hämtar eller anger ett [`BorderInfo`](../../borderinfo/) objekt som indikerar kantinformationen för den flytande rutan.
 
 ```csharp
 public BorderInfo Border { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderInfo](../../borderinfo/)
-* klass [FloatingBox](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderInfo](../../borderinfo/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.ExportXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Exporterar innehållet i fälten i pdfen till xml-strömmen. Värdet av knappfälten kommer inte att exporteras
+title: "Form.ExportXfdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formulärmetod. Exporterar innehållet i fälten i pdf-filen till xml‑strömmen. Värdet för knappraderna exporteras inte."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/form/exportxfdf/
 ---
-## Form.ExportXfdf metod
+## Form.ExportXfdf method
 
-Exporterar innehållet i fälten i pdf:en till xml-strömmen. Värdet av knappfältet kommer inte att exporteras.
+Exporterar innehållet i pdf-fältens data till xml-strömmen. Värdet för knappfältet exporteras inte.
 
 ```csharp
 public void ExportXfdf(Stream outputXfdfStream)
@@ -16,7 +16,7 @@ public void ExportXfdf(Stream outputXfdfStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputXfdfStream | Stream | Den utgående xml-strömmen. |
+| outputXfdfStream | Stream | Utdata‑xml‑strömmen. |
 
 ## Exempel
 
@@ -27,8 +27,10 @@ form.ExportXfdf(fs);
 fs.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

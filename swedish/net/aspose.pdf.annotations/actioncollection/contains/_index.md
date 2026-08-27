@@ -1,14 +1,14 @@
 ---
-title: ActionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection-metod. Returnerar sant om det angivna objektet finns i samlingen
+title: "ActionCollection.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ActionCollection metod. Returnerar true om angivet objekt finns i samlingen"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.annotations/actioncollection/contains/
 ---
-## ActionCollection.Contains metod
+## ActionCollection.Contains method
 
-Returnerar sant om det angivna objektet finns i samlingen.
+Returnerar true om angivet objekt finns i samlingen.
 
 ```csharp
 public bool Contains(PdfAction item)
@@ -20,11 +20,13 @@ public bool Contains(PdfAction item)
 
 ### Returvärde
 
-Inte implementerat.
+Ej implementerad.
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [ActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

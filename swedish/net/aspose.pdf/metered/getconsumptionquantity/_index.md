@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.PDF for .NET API Reference
-description: Metered metod. Hämtar storleken på konsumtionsfilen
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metered-metoden. Hämtar konsumtionsfilens storlek"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/metered/getconsumptionquantity/
 ---
-## Metered.GetConsumptionQuantity metod
+## Metered.GetConsumptionQuantity method
 
-Hämtar storleken på konsumtionsfilen.
+Hämtar förbrukningsfilens storlek.
 
 ```csharp
 public static decimal GetConsumptionQuantity()
@@ -18,8 +18,10 @@ public static decimal GetConsumptionQuantity()
 
 Konsumtionskvantitet.
 
-### Se Även
+### Se även
 
-* klass [Metered](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

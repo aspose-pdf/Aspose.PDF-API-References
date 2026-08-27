@@ -1,22 +1,24 @@
 ---
-title: TextEditOptions.FontReplaceBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions-egenskap. Hämtar läge som definierar beteende för teckensnittsersättningsscenarier
+title: "TextEditOptions.FontReplaceBehavior"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextEditOptions-egenskap. Hämtar läge som definierar beteendet för scenarier där teckensnitt ersätts"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/texteditoptions/fontreplacebehavior/
 ---
-## TextEditOptions.FontReplaceBehavior-egenskap
+## TextEditOptions.FontReplaceBehavior property
 
-Hämtar läge som definierar beteende för teckensnittsersättningsscenarier.
+Hämtar läget som definierar beteendet för scenarier med teckensnittsersättning.
 
 ```csharp
 public FontReplace FontReplaceBehavior { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [FontReplace](../../texteditoptions.fontreplace/)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

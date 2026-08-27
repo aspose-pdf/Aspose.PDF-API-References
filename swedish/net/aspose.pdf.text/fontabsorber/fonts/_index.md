@@ -1,22 +1,24 @@
 ---
-title: FontAbsorber.Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: FontAbsorber-egenskap. Hämtar samling av sökförekomster som presenteras med Font-objekt
+title: "FontAbsorber.Fonts"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontAbsorber‑egenskap. Hämtar en samling av sökresultat som presenteras med Font‑objekt."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/fontabsorber/fonts/
 ---
-## FontAbsorber.Fonts-egenskap
+## FontAbsorber.Fonts property
 
-Hämtar samling av sökförekomster som presenteras med [`Font`](../../font/) objekt.
+Hämtar en samling av sökresultat som presenteras med [`Font`](../../font/)‑objekt.
 
 ```csharp
 public FontCollection Fonts { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FontCollection](../../fontcollection/)
-* klass [FontAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontCollection](../../fontcollection/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

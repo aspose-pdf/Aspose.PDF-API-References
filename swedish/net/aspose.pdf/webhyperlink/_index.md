@@ -1,14 +1,14 @@
 ---
-title: Class WebHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.WebHyperlink klass. Representerar webblänk objekt
+title: "Klass WebHyperlink"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.WebHyperlink-klass. Representerar ett webblänksobjekt"
 type: docs
-weight: 11320
+weight: 11510
 url: /sv/net/aspose.pdf/webhyperlink/
 ---
-## WebHyperlink klass
+## WebHyperlink class
 
-Representerar webblänk objekt.
+Representerar webbhyperlänksobjekt.
 
 ```csharp
 public sealed class WebHyperlink : Hyperlink
@@ -18,17 +18,19 @@ public sealed class WebHyperlink : Hyperlink
 
 | Namn | Beskrivning |
 | --- | --- |
-| [WebHyperlink](webhyperlink/#constructor)() | Initierar en ny instans av klassen `WebHyperlink`. |
-| [WebHyperlink](webhyperlink/#constructor_1)(string) | Initierar en ny instans av klassen `WebHyperlink`. |
+| [WebHyperlink](webhyperlink/#constructor)() | Initierar en ny instans av `WebHyperlink`-klassen. |
+| [WebHyperlink](webhyperlink/#constructor_1)(string) | Initierar en ny instans av `WebHyperlink`-klassen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Url](../../aspose.pdf/webhyperlink/url/) { get; set; } | Hämtar eller ställer in webbadressen. |
+| [Url](../../aspose.pdf/webhyperlink/url/) { get; set; } | Hämtar eller anger webbadressen. |
 
-### Se Även
+### Se även
 
-* klass [Hyperlink](../hyperlink/)
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

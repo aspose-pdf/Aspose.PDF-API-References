@@ -1,12 +1,12 @@
 ---
-title: PageDate.DayComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: DayComponent-metod. Hämtar formatsträngen för dagkomponenten
+title: "PageDate.DayComponent.GetFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DayComponent-metod. Hämtar formatsträngen för dagkomponenten"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pagedate.daycomponent/getformat/
 ---
-## PageDate.DayComponent.GetFormat metod
+## PageDate.DayComponent.GetFormat method
 
 Hämtar formatsträngen för dagkomponenten.
 
@@ -18,8 +18,10 @@ public string GetFormat()
 
 En sträng som representerar dagformatet.
 
-### Se Även
+### Se även
 
-* klass [DayComponent](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DayComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

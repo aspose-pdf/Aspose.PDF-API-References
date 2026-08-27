@@ -1,7 +1,7 @@
 ---
-title: TextPdfComparer.CompareDocumentsPageByPage
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer metod. Jämför två dokument sida för sida
+title: "TextPdfComparer.CompareDocumentsPageByPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextPdfComparer‑metod. Jämför två dokument sida för sida."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/
@@ -17,21 +17,21 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document1 | Document | Första dokumentet.. |
-| document2 | Document | Andra dokumentet. |
+| document1 | Dokument | Första dokumentet.. |
+| document2 | Dokument | Andra dokumentet. |
 | options | ComparisonOptions | Jämförelsealternativ. |
 
 ### Returvärde
 
 Lista över ändringar per sida.
 
-### Se Även
+### Se även
 
-* klass [DiffOperation](../../diffoperation/)
-* klass [Document](../../../aspose.pdf/document/)
-* klass [ComparisonOptions](../../comparisonoptions/)
-* klass [TextPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [DiffOperation](../../diffoperation/)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../comparisonoptions/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -47,20 +47,22 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document1 | Document | Första dokumentet.. |
-| document2 | Document | Andra dokumentet. |
+| document1 | Dokument | Första dokumentet.. |
+| document2 | Dokument | Andra dokumentet. |
 | options | ComparisonOptions | Jämförelsealternativ. |
-| resultPdfDocumentPath | String | Sökväg till pdf-filen för att spara jämförelseresultaten. |
+| resultPdfDocumentPath | String | Sökväg till pdf-filen för att spara jämförelsens resultat. |
 
 ### Returvärde
 
 Lista över ändringar per sida.
 
-### Se Även
+### Se även
 
-* klass [DiffOperation](../../diffoperation/)
-* klass [Document](../../../aspose.pdf/document/)
-* klass [ComparisonOptions](../../comparisonoptions/)
-* klass [TextPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [DiffOperation](../../diffoperation/)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../comparisonoptions/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

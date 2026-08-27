@@ -1,14 +1,14 @@
 ---
-title: HighlightAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: HighlightAnnotation-metod. Accepterar besöksobjekt för att bearbeta annoteringen
+title: "HighlightAnnotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HighlightAnnotation‑metod. Accepterar besökarobjekt för att bearbeta annoteringen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/highlightannotation/accept/
 ---
-## HighlightAnnotation.Accept metod
+## HighlightAnnotation.Accept method
 
-Accepterar besöksobjekt för att bearbeta annoteringen.
+Accepterar besökarobjekt för att bearbeta anteckningen.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Besöksobjekt. |
+| besökare | AnnotationSelector | Besökarobjekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [HighlightAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [HighlightAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

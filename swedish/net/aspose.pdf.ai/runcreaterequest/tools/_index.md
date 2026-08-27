@@ -1,22 +1,24 @@
 ---
-title: RunCreateRequest.Tools
-second_title: Aspose.PDF for .NET API Reference
-description: RunCreateRequest-egenskap. Hämtar eller ställer in de verktyg som åsidosätter de verktyg som assistenten kan använda för denna körning. Detta är användbart för att modifiera beteendet per körning.
+title: "RunCreateRequest.Tools"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunCreateRequest property. Hämtar eller anger verktygen som åsidosätter de verktyg som assistenten kan använda för denna körning. Detta är användbart för att ändra beteendet per körning"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.ai/runcreaterequest/tools/
 ---
-## RunCreateRequest.Tools-egenskap
+## RunCreateRequest.Tools property
 
-Hämtar eller ställer in de verktyg som åsidosätter de verktyg som assistenten kan använda för denna körning. Detta är användbart för att modifiera beteendet per körning.
+Hämtar eller anger verktygen som åsidosätter de verktyg som assistenten kan använda för denna körning. Detta är användbart för att ändra beteendet per körning.
 
 ```csharp
 public List<Tool> Tools { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Tool](../../tool/)
-* klass [RunCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Tool](../../tool/)
+* class [RunCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

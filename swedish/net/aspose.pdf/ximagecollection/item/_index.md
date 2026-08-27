@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection-egenskap. Hämtar bild från samlingen efter dess index
+title: "XImageCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImageCollection egenskap. Hämtar bild från samlingen med dess index"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/ximagecollection/item/
 ---
-## XImageCollection indexer (1 av 2)
+## XImageCollection indexer (1 of 2)
 
-Hämtar bild från samlingen efter dess index.
+Hämtar bild från samlingen med dess index.
 
 ```csharp
 public XImage this[int index] { get; }
@@ -22,18 +22,18 @@ public XImage this[int index] { get; }
 
 Hämtad bild.
 
-### Se Även
+### Se även
 
-* klass [XImage](../../ximage/)
-* klass [XImageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## XImageCollection indexer (2 av 2)
+## XImageCollection indexer (2 of 2)
 
-Hämtar bild från samlingen efter dess namn.
+Hämtar bild från samlingen med dess namn.
 
 ```csharp
 public XImage this[string name] { get; }
@@ -41,15 +41,17 @@ public XImage this[string name] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| name | Bildnamn. |
+| namn | Bildnamn. |
 
 ### Returvärde
 
 Hämtad bild.
 
-### Se Även
+### Se även
 
-* klass [XImage](../../ximage/)
-* klass [XImageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

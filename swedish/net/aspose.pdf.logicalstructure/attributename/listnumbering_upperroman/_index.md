@@ -1,21 +1,23 @@
 ---
-title: AttributeName.ListNumbering_UpperRoman
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName-fält. Attribut ListaNumrering ÖvreRomersk  Versaler romerska siffror I II III IV
+title: "AttributeName.ListNumbering_UpperRoman"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-fält. Attribut ListNumbering UpperRoman  Stora romerska siffror I II III IV"
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf.logicalstructure/attributename/listnumbering_upperroman/
 ---
-## AttributeName.ListNumbering_UpperRoman-fält
+## AttributeName.ListNumbering_UpperRoman field
 
-Attribut ListaNumrering: ÖvreRomersk - Versaler romerska siffror (I, II, III, IV, ...).
+Attribut ListNumbering: UpperRoman - Versala romerska siffror (I, II, III, IV, ...).
 
 ```csharp
 public static readonly AttributeName ListNumbering_UpperRoman;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions-metod. Ställer in modellen för chattkopilotalternativen
+title: "OpenAIChatCopilotOptions.WithModel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions metod. Anger modellen för chat copilot-alternativen"
 type: docs
-weight: 150
+weight: 160
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/withmodel/
 ---
-## OpenAIChatCopilotOptions.WithModel metod
+## OpenAIChatCopilotOptions.WithModel method
 
-Ställer in modellen för chattkopilotalternativen.
+Ställer in modellen för chat copilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithModel(string model)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithModel(string model)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| model | Sträng | Modellen som ska ställas in. |
+| modell | String | Modellen som ska anges. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

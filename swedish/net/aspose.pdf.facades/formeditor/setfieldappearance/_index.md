@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor metod. Ställ in fältflaggor
+title: "FormEditor.SetFieldAppearance"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor-metod. Ställ in fältflaggor"
 type: docs
 weight: 280
 url: /sv/net/aspose.pdf.facades/formeditor/setfieldappearance/
 ---
-## FormEditor.SetFieldAppearance metod
+## FormEditor.SetFieldAppearance method
 
 Ställ in fältflaggor
 
@@ -16,8 +16,8 @@ public bool SetFieldAppearance(string fieldName, AnnotationFlags flags)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namn på fältet vars flaggor ska uppdateras. |
-| flags | AnnotationFlags | Flagga för fältet. |
+| fieldName | String | Namnet på fältet vars flaggor ska uppdateras. |
+| flaggor | AnnotationFlags | Flagga för fältet. |
 
 ### Returvärde
 
@@ -31,9 +31,11 @@ formEditor.SetFieldAppearance("Name", AnnotationFlags.Hidden);
 formEditor.SetFieldAppearance("Phone", AnnotationFlags.NoView | AnnotationFlags.Print);
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

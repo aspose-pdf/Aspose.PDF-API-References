@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.Copy
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege-egenskap. Tillåter kopiering av fil
+title: "DocumentPrivilege.Copy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege-egenskap. Tillåter att kopiera filen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/documentprivilege/copy/
 ---
-## DocumentPrivilege.Copy-egenskap
+## DocumentPrivilege.Copy property
 
 Tillåter kopiering av fil.
 
@@ -14,8 +14,10 @@ Tillåter kopiering av fil.
 public static DocumentPrivilege Copy { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

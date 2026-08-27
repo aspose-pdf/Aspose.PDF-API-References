@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.UploadFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Laddar upp en fil asynkront till OpenAI-servern
+title: "OpenAIClient.UploadFileAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient‑metod. Laddar upp en fil asynkront till OpenAI‑servern."
 type: docs
-weight: 450
+weight: 460
 url: /sv/net/aspose.pdf.ai/openaiclient/uploadfileasync/
 ---
-## OpenAIClient.UploadFileAsync metod
+## OpenAIClient.UploadFileAsync method
 
 Laddar upp en fil asynkront till OpenAI-servern.
 
@@ -17,25 +17,27 @@ public Task<FileResponse> UploadFileAsync(string purpose, string fileName, byte[
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| purpose | Sträng | Syftet med filuppladdningen, som vanligtvis beskriver hur filen kommer att användas. |
-| fileName | Sträng | Namnet på filen som ska laddas upp. |
-| fileBytes | Byte[] | Byte-array som innehåller filens data. |
+| `purpose` | String | Syftet med filuppladdningen, beskriver vanligtvis hur filen kommer att användas. |
+| `fileName` | String | Namnet på filen som ska laddas upp. |
+| `fileBytes` | Byte[] | Byte‑arrayen som innehåller filens data. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från filuppladdningen.
+En Task som representerar den asynkrona operationen. Task-resultatet innehåller svaret från filuppladdningen.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när filens syfte är null eller tomt. |
-| [AIClientException](../../aiclientexception/) | Utlöses när filnamnet är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när filens syfte är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när filnamnet är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [FileResponse](../../fileresponse/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [FileResponse](../../fileresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

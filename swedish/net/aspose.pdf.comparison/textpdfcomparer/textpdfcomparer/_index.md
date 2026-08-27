@@ -1,12 +1,12 @@
 ---
-title: TextPdfComparer.TextPdfComparer
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer-konstruktorn. Standardkonstruktorn
+title: "TextPdfComparer.TextPdfComparer"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextPdfComparer‑konstruktor. Standardkonstruktor."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.comparison/textpdfcomparer/textpdfcomparer/
 ---
-## TextPdfComparer-konstruktorn
+## TextPdfComparer constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public TextPdfComparer()
 ```
 
-### Se Även
+### Se även
 
-* klass [TextPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

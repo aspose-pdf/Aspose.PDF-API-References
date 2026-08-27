@@ -1,22 +1,24 @@
 ---
-title: Resources.Forms
-second_title: Aspose.PDF for .NET API Reference
-description: Resursens egenskap. Hämtar formulärsamlingen
+title: "Resources.Forms"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Resources‑egenskap. Hämtar Forms‑formulärsamling"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/resources/forms/
 ---
-## Resurser.Formulär egenskap
+## Resources.Forms property
 
-Hämtar `Forms` formulärsamling
+Hämtar `Forms`‑formulärsamling
 
 ```csharp
 public XFormCollection Forms { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XFormCollection](../../xformcollection/)
-* klass [Resurser](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XFormCollection](../../xformcollection/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

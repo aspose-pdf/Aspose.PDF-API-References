@@ -1,21 +1,23 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema-fält. Standard schema-namnrymds-URI
+title: "XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionSchema fält. Standard schemnamnutrymme-URI"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceuri/
 ---
-## XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri-fält
+## XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri field
 
-Standard schema namnrymd uri.
+Standard URI för schemats namnrymd.
 
 ```csharp
 public const string DefaultSchemaNamespaceUri;
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

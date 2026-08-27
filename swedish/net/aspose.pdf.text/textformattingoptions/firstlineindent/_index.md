@@ -1,21 +1,23 @@
 ---
-title: TextFormattingOptions.FirstLineIndent
-second_title: Aspose.PDF for .NET API Reference
-description: TextFormattingOptions-egenskap. Hämtar eller ställer in värdet för indragning av första raden
+title: "TextFormattingOptions.FirstLineIndent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFormattingOptions egenskap. Hämtar eller anger värdet för första radens indrag"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/textformattingoptions/firstlineindent/
 ---
-## TextFormattingOptions.FirstLineIndent-egenskap
+## TextFormattingOptions.FirstLineIndent property
 
-Hämtar eller ställer in värdet för indragning av första raden.
+Hämtar eller anger värdet för indrag på första raden.
 
 ```csharp
 public float FirstLineIndent { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFormattingOptions](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextFormattingOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

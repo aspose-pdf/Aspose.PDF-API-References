@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.Count
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary-egenskap. Hämtar antalet element som finns i ordboken
+title: "AppearanceDictionary.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AppearanceDictionary-egenskap. Hämtar antalet element som finns i ordboken."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/appearancedictionary/count/
 ---
-## AppearanceDictionary.Count-egenskap
+## AppearanceDictionary.Count property
 
 Hämtar antalet element som finns i ordboken.
 
@@ -14,8 +14,10 @@ Hämtar antalet element som finns i ordboken.
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

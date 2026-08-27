@@ -1,21 +1,23 @@
 ---
-title: PdfViewer.PrinterJobName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-egenskap. Hämtar eller ställer in namnet på dokumentet i skrivarkön när dokumentet skrivs ut. Standardvärdet är filnamnet
+title: "PdfViewer.PrinterJobName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer egenskap. Hämtar eller anger namn på dokument i skrivarkön när dokumentet skrivs ut. Standardvärdet är filnamnet"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.facades/pdfviewer/printerjobname/
 ---
-## PdfViewer.PrinterJobName-egenskap
+## PdfViewer.PrinterJobName property
 
-Hämtar eller ställer in namnet på dokumentet i skrivarkön när dokumentet skrivs ut. Standardvärdet är filnamnet.
+Hämtar eller anger namn på dokumentet i skrivarens kö när dokumentet skrivs ut. Standardvärdet är filnamnet.
 
 ```csharp
 public string PrinterJobName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

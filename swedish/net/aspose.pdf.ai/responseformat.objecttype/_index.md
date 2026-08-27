@@ -1,12 +1,12 @@
 ---
-title: Class ResponseFormat.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ResponseFormatObjectType klass. Representerar ett objektvärde i svarformatet
+title: "Klass ResponseFormat.ObjectType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.ResponseFormatObjectType-klass. Representerar ett objektvärde i svarformatet."
 type: docs
-weight: 970
+weight: 1050
 url: /sv/net/aspose.pdf.ai/responseformat.objecttype/
 ---
-## ResponseFormat.ObjectType klass
+## ResponseFormat.ObjectType class
 
 Representerar ett objektvärde i svarformatet.
 
@@ -24,10 +24,12 @@ public class ObjectType
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ResponseType](../../aspose.pdf.ai/responseformat.objecttype/responsetype) { get; set; } | Hämtar eller ställer in typen av objektvärdet. |
+| [ResponseType](../../aspose.pdf.ai/responseformat.objecttype/responsetype) { get; set; } | Hämtar eller anger typen av objektvärdet. |
 
-### Se Även
+### Se även
 
-* klass [ResponseFormat](../responseformat/)
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [ResponseFormat](../responseformat/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

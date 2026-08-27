@@ -1,7 +1,7 @@
 ---
-title: FontColor.FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: FontColor-konstruktorn. Initierar färg med angivna färgkomponenter
+title: "FontColor.FontColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontColor-konstruktor. Initierar färg med angivna färgkomponenter."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/fontcolor/fontcolor/
@@ -20,11 +20,11 @@ public FontColor(int r, int g, int b)
 | g | Int32 | Grön komponent. |
 | b | Int32 | Blå komponent. |
 
-### Se Även
+### Se även
 
-* klass [FontColor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,8 +36,10 @@ Initierar färg.
 public FontColor()
 ```
 
-### Se Även
+### Se även
 
-* klass [FontColor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

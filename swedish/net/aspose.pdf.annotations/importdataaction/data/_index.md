@@ -1,22 +1,24 @@
 ---
-title: ImportDataAction.Data
-second_title: Aspose.PDF for .NET API Reference
-description: ImportDataAction-egenskap. FDF-filen från vilken data ska importeras
+title: "ImportDataAction.Data"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImportDataAction egenskap. FDF-filen som data ska importeras från"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/importdataaction/data/
 ---
-## ImportDataAction.Data-egenskap
+## ImportDataAction.Data property
 
-FDF-filen från vilken data ska importeras.
+FDF-filen som data ska importeras från.
 
 ```csharp
 public FileSpecification Data { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../../../aspose.pdf/filespecification/)
-* klass [ImportDataAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [ImportDataAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

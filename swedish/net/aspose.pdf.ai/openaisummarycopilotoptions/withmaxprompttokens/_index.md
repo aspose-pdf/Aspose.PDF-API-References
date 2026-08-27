@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions-metod. Ställer in max prompt tokens för sammanfattningskopilotalternativen
+title: "OpenAISummaryCopilotOptions.WithMaxPromptTokens"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAISummaryCopilotOptions‑metoden. Ställer in max antal prompt‑token för sammanfattnings‑copilot‑alternativen"
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxprompttokens/
 ---
-## OpenAISummaryCopilotOptions.WithMaxPromptTokens metod
+## OpenAISummaryCopilotOptions.WithMaxPromptTokens method
 
-Ställer in max prompt tokens för sammanfattningskopilotalternativen.
+Ställer in maximalt antal token för prompt för alternativ för sammanfattnings‑copilot.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| maxPromptTokens | Nullable`1 | De max prompt tokens som ska ställas in. |
+| maxPromptTokens | Nullable`1 | Det maximala antalet prompt‑token att ange. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAISummaryCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAISummaryCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

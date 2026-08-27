@@ -1,30 +1,30 @@
 ---
-title: FileHyperlink.FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: FileHyperlink-konstruktorn. Initierar en ny instans av FileHyperlink-klassen
+title: "FileHyperlink.FileHyperlink"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileHyperlink-konstruktorn. Initierar en ny instans av FileHyperlink-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/filehyperlink/filehyperlink/
 ---
 ## FileHyperlink() {#constructor}
 
-Initierar en ny instans av den [`FileHyperlink`](../) klassen.
+Initierar en ny instans av [`FileHyperlink`](../)-klassen.
 
 ```csharp
 public FileHyperlink()
 ```
 
-### Se Även
+### Se även
 
-* klass [FileHyperlink](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FileHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FileHyperlink(string) {#constructor_1}
 
-Initierar en ny instans av den [`FileHyperlink`](../) klassen.
+Initierar en ny instans av [`FileHyperlink`](../)-klassen.
 
 ```csharp
 public FileHyperlink(string path)
@@ -32,10 +32,12 @@ public FileHyperlink(string path)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| path | Sträng | Sökväg till fil. |
+| sökväg | String | Sökväg till filen. |
 
-### Se Även
+### Se även
 
-* klass [FileHyperlink](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FileHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

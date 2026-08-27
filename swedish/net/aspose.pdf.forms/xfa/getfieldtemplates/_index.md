@@ -1,14 +1,14 @@
 ---
-title: XFA.GetFieldTemplates
-second_title: Aspose.PDF for .NET API Reference
-description: XFA-metod. Returnerar lista över alla fältmallar på XFA-formulär
+title: "XFA.GetFieldTemplates"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFA metod. Returnerar en lista över alla fältmallar i XFA-formuläret."
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.forms/xfa/getfieldtemplates/
 ---
-## XFA.GetFieldTemplates metod
+## XFA.GetFieldTemplates method
 
-Returnerar lista över alla fältmallar på XFA-formulär.
+Returnerar lista över alla fältmallar i XFA-formuläret.
 
 ```csharp
 public XmlNodeList GetFieldTemplates()
@@ -18,8 +18,10 @@ public XmlNodeList GetFieldTemplates()
 
 Lista över fältmallar.
 
-### Se Även
+### Se även
 
-* klass [XFA](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

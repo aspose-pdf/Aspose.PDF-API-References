@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement-egenskap. Hämtar eller ställer in cellens bakgrundsfärg
+title: "TableCellElement.BackgroundColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableCellElement egenskap. Hämtar eller anger cellens bakgrundsfärg"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.logicalstructure/tablecellelement/backgroundcolor/
 ---
-## TableCellElement.BackgroundColor-egenskap
+## TableCellElement.BackgroundColor property
 
 Hämtar eller ställer in cellens bakgrundsfärg.
 
@@ -14,9 +14,11 @@ Hämtar eller ställer in cellens bakgrundsfärg.
 public Color BackgroundColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [TableCellElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Color](../../../aspose.pdf/color/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

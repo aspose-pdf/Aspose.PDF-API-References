@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.GetViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Returnerar visningspreferensen
+title: "PdfContentEditor.GetViewerPreference"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor metod. Returnerar visningspreferensen"
 type: docs
 weight: 390
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/getviewerpreference/
 ---
-## PdfContentEditor.GetViewerPreference metod
+## PdfContentEditor.GetViewerPreference method
 
 Returnerar visningspreferensen.
 
@@ -16,7 +16,7 @@ public int GetViewerPreference()
 
 ### Returvärde
 
-Returnerar uppsättning av ViewerPrefernece-flaggor
+Returnerar en uppsättning av ViewerPrefernece-flaggor
 
 ## Exempel
 
@@ -28,8 +28,10 @@ if ((prefValue & ViewerPreference.PageModeUseOutline) != 0)
 { // ... }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

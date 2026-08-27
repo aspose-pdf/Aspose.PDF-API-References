@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DView
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DView class. Class PDF3DView
+title: "Klass PDF3DView"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.PDF3DView-klass. Klass PDF3DView"
 type: docs
-weight: 2240
+weight: 2330
 url: /sv/net/aspose.pdf.annotations/pdf3dview/
 ---
-## PDF3DView klass
+## PDF3DView class
 
 Klass PDF3DView.
 
@@ -25,15 +25,17 @@ public class PDF3DView
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BackGroundColor](../../aspose.pdf.annotations/pdf3dview/backgroundcolor/) { get; set; } | Hämtar eller ställer in färgen på bakgrunden av vyn. |
-| [CameraOrbit](../../aspose.pdf.annotations/pdf3dview/cameraorbit/) { get; set; } | Hämtar eller ställer in kamerans omloppsbana för vyn. |
-| [CameraPosition](../../aspose.pdf.annotations/pdf3dview/cameraposition/) { get; set; } | Hämtar eller ställer in kamerans position för vyn. |
-| [CrossSectionsArray](../../aspose.pdf.annotations/pdf3dview/crosssectionsarray/) { get; } | Hämtar arrayen av tvärsnitt för vyn. |
-| [LightingScheme](../../aspose.pdf.annotations/pdf3dview/lightingscheme/) { get; set; } | Hämtar eller ställer in belysningsschemat för vyn. |
-| [RenderMode](../../aspose.pdf.annotations/pdf3dview/rendermode/) { get; set; } | Hämtar eller ställer in renderingsläget för vyn. |
-| [ViewName](../../aspose.pdf.annotations/pdf3dview/viewname/) { get; set; } | Hämtar eller ställer in namnet på vyn. |
+| [BackGroundColor](../../aspose.pdf.annotations/pdf3dview/backgroundcolor/) { get; set; } | Hämtar eller anger färgen på bakgrunden för vyn. |
+| [CameraOrbit](../../aspose.pdf.annotations/pdf3dview/cameraorbit/) { get; set; } | Hämtar eller anger kamerans bana för vyn. |
+| [CameraPosition](../../aspose.pdf.annotations/pdf3dview/cameraposition/) { get; set; } | Hämtar eller anger kamerans position för vyn. |
+| [CrossSectionsArray](../../aspose.pdf.annotations/pdf3dview/crosssectionsarray/) { get; } | Hämtar tvärsnittsarrayen för vyn. |
+| [LightingScheme](../../aspose.pdf.annotations/pdf3dview/lightingscheme/) { get; set; } | Hämtar eller anger belysningsschemat för vyn. |
+| [RenderMode](../../aspose.pdf.annotations/pdf3dview/rendermode/) { get; set; } | Hämtar eller anger renderingsläget för vyn. |
+| [ViewName](../../aspose.pdf.annotations/pdf3dview/viewname/) { get; set; } | Hämtar eller anger namnet på vyn. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

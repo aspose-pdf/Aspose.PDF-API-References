@@ -1,9 +1,9 @@
 ---
-title: Enum ReplaceTextStrategy.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction enum. Åtgärd att utföra om teckensnittet inte innehåller det nödvändiga tecknet
+title: "Enum ReplaceTextStrategy.NoCharacterAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction enum. Åtgärd att utföra om teckensnittet inte innehåller det nödvändiga tecknet"
 type: docs
-weight: 4680
+weight: 4800
 url: /sv/net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/
 ---
 ## ReplaceTextStrategy.NoCharacterAction enumeration
@@ -19,11 +19,13 @@ public enum NoCharacterAction
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | ThrowException | `0` | Kasta undantag |
-| UseStandardFont | `1` | Ersätt teckensnitt med standardteckensnitt som innehåller det nödvändiga tecknet |
-| ReplaceAnyway | `2` | Ersätt text ändå utan teckensnittsbyte |
+| UseStandardFont | `1` | Ersätt teckensnitt till standardteckensnitt som innehåller det nödvändiga tecknet |
+| ReplaceAnyway | `2` | Ersätt text ändå utan teckensnittssubstitution |
 
-### Se Även
+### Se även
 
-* klass [ReplaceTextStrategy](../replacetextstrategy/)
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../)
+* class [ReplaceTextStrategy](../replacetextstrategy/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

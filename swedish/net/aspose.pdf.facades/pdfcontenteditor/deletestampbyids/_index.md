@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.DeleteStampByIds
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Tar bort stämplar med angivna IDn från alla sidor i dokumentet
+title: "PdfContentEditor.DeleteStampByIds"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor method. Raderar stämplar med angivna ID:n från alla sidor i dokumentet"
 type: docs
 weight: 350
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyids/
@@ -27,17 +27,17 @@ contentEditor.DeleteStampByIds(new int[] { 102, 103 } );
 contentEditor.Save("outfile.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DeleteStampByIds(int, int[]) {#deletestampbyids}
 
-Tar bort stämplar på den angivna sidan med flera stämpel-ID:n.
+Tar bort stämplar på den angivna sidan efter flera stämpel-ID:n.
 
 ```csharp
 public void DeleteStampByIds(int pageNumber, int[] stampIds)
@@ -45,7 +45,7 @@ public void DeleteStampByIds(int pageNumber, int[] stampIds)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageNumber | Int32 | Sidnummer där stämplar kommer att tas bort. |
+| pageNumber | Int32 | Sidnummer där stämplar kommer att raderas. |
 | stampIds | Int32[] | Array av stämpel-ID:n. |
 
 ## Exempel
@@ -57,8 +57,10 @@ contentEditor.DeleteStampByIds(1, new int[] { 100, 101 } );
 contentEditor.Save("outfile.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: SoundSampleData.BitsPerChannel
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData-egenskap. Hämtar eller ställer in antalet bitar per provvärde per kanal
+title: "SoundSampleData.BitsPerChannel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SoundSampleData egenskap. Hämtar eller anger antalet bitar per samplingsvärde per kanal"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/soundsampledata/bitsperchannel/
 ---
-## SoundSampleData.BitsPerChannel-egenskap
+## SoundSampleData.BitsPerChannel property
 
-Hämtar eller ställer in antalet bitar per provvärde per kanal.
+Hämtar eller anger antalet bitar per samplingsvärde per kanal.
 
 ```csharp
 public int BitsPerChannel { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SoundSampleData](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

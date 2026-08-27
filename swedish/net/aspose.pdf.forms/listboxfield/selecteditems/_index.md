@@ -1,21 +1,23 @@
 ---
-title: ListBoxField.SelectedItems
-second_title: Aspose.PDF for .NET API Reference
-description: ListBoxField-egenskap. Hämtar eller ställer in en array av de valda objekten i den flervalslista. För en enstaka val lista returnerar en array med ett enda objekt
+title: "ListBoxField.SelectedItems"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ListBoxField-egenskap. Hämtar eller anger en array med de valda objekten i en flervalslista. För enkelvalslista returneras en array med ett enda objekt"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/listboxfield/selecteditems/
 ---
-## ListBoxField.SelectedItems-egenskap
+## ListBoxField.SelectedItems property
 
-Hämtar eller ställer in en array av de valda objekten i den flervalslista. För en enstaka val lista returnerar en array med ett enda objekt.
+Hämtar eller anger array av de valda objekten i flervalslistan. För enkelvalslista returneras en array med ett enda objekt.
 
 ```csharp
 public override int[] SelectedItems { set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ListBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

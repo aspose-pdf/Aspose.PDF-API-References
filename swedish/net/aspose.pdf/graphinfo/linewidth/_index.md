@@ -1,21 +1,23 @@
 ---
-title: GraphInfo.LineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo-egenskap. Hämtar eller ställer in ett flyttal som indikerar linjebredden för grafen
+title: "GraphInfo.LineWidth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphInfo-egenskap. Hämtar eller anger ett flyttal som indikerar linjebredden på diagrammet"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/graphinfo/linewidth/
 ---
-## GraphInfo.LineWidth-egenskap
+## GraphInfo.LineWidth property
 
-Hämtar eller ställer in ett flyttal som indikerar linjebredden för grafen.
+Hämtar eller anger ett flyttal som indikerar linjebredden för grafen.
 
 ```csharp
 public float LineWidth { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

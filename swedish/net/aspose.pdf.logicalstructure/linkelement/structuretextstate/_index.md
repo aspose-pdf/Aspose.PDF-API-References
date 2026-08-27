@@ -1,26 +1,28 @@
 ---
-title: LinkElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: LinkElement-egenskap. Hämtar StructureTextState-objekt för nuvarande element
+title: "LinkElement.StructureTextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LinkElement egenskap. Hämtar StructureTextState objekt för aktuellt element"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.logicalstructure/linkelement/structuretextstate/
 ---
-## LinkElement.StructureTextState-egenskap
+## LinkElement.StructureTextState property
 
-Hämtar StructureTextState-objekt för nuvarande element.
+Hämtar StructureTextState-objekt för aktuellt element.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-StructureTextState-objekt för nuvarande element.
+StructureTextState objekt för aktuellt element.
 
-### Se Även
+### Se även
 
-* klass [StructureTextState](../../structuretextstate/)
-* klass [LinkElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTextState](../../structuretextstate/)
+* class [LinkElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

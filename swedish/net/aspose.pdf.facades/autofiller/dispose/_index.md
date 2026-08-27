@@ -1,21 +1,23 @@
 ---
-title: AutoFiller.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller-metod. Stänger objektet och utdataflödena
+title: "AutoFiller.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AutoFiller metod. Stänger objektet och utdataflödena"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/autofiller/dispose/
 ---
-## AutoFiller.Dispose metod
+## AutoFiller.Dispose method
 
-Stänger objektet och utdataflödena.
+Stänger objektet och utdata‑strömmarna.
 
 ```csharp
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [AutoFiller](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

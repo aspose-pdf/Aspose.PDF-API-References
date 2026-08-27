@@ -1,14 +1,14 @@
 ---
-title: Class PageNumber.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageNumberPageTotalNum klass. Representerar komponenten för det totala antalet sidor i sidnumreringsformatet
+title: "Klass PageNumber.PageTotalNum"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PageNumberPageTotalNum-klass. Representerar komponenten för det totala antalet sidor i sidnumreringsformatet"
 type: docs
-weight: 8220
+weight: 8360
 url: /sv/net/aspose.pdf/pagenumber.pagetotalnum/
 ---
-## PageNumber.PageTotalNum klass
+## PageNumber.PageTotalNum class
 
-Representerar komponenten för det totala antalet sidor i sidnumreringsformatet.
+Representerar komponenten för totalt antal sidor i sidnummerformatet.
 
 ```csharp
 public sealed class PageTotalNum
@@ -20,8 +20,10 @@ public sealed class PageTotalNum
 | --- | --- |
 | [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum/.ctor)() | Standardkonstruktorn. |
 
-### Se Även
+### Se även
 
-* klass [PageNumber](../pagenumber/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [PageNumber](../pagenumber/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

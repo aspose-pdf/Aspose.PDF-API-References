@@ -1,14 +1,14 @@
 ---
-title: Enum LightingSchemeType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LightingSchemeType enum. Enum LightingSchemeType uppsättning av belysningsscheman
+title: "Enum LightingSchemeType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.LightingSchemeType‑enum. Enum LightingSchemeType är en uppsättning av belysningsschematyper."
 type: docs
-weight: 1970
+weight: 2060
 url: /sv/net/aspose.pdf.annotations/lightingschemetype/
 ---
-## LightingSchemeType uppräkning
+## LightingSchemeType enumeration
 
-Enum LightingSchemeType: uppsättning av belysningsscheman.
+Enum LightingSchemeType: uppsättning av belysningsschematyper.
 
 ```csharp
 public enum LightingSchemeType
@@ -18,20 +18,22 @@ public enum LightingSchemeType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Artwork | `0` | Belysningsschemat "Artwork". |
-| None | `1` | Belysningsschemat "None". |
-| White | `2` | Belysningsschemat "White". |
-| Day | `3` | Belysningsschemat "Day". |
-| Night | `4` | Belysningsschemat "Night". |
-| Hard | `5` | Belysningsschemat "Hard". |
-| Primary | `6` | Belysningsschemat "Primary". |
-| Blue | `7` | Belysningsschemat "Blue". |
-| Red | `8` | Belysningsschemat "Red". |
-| Cube | `9` | Belysningsschemat "Cube". |
-| CAD | `10` | Belysningsschemat "Cad". |
-| Headlamp | `11` | Belysningsschemat "Headlamp". |
+| Artwork | `0` | Det "Artwork"-belysningsschemat. |
+| None | `1` | Det "None"-belysningsschemat. |
+| White | `2` | Det "White"-belysningsschemat. |
+| Day | `3` | Det "Day"-belysningsschemat. |
+| Night | `4` | Det "Night"-belysningsschemat. |
+| Hard | `5` | Det "Hard"-belysningsschemat. |
+| Primary | `6` | Det "Primary"-belysningsschemat. |
+| Blue | `7` | Det "Blue"-belysningsschemat. |
+| Red | `8` | Det "Red"-belysningsschemat. |
+| Cube | `9` | Det "Cube"-belysningsschemat. |
+| CAD | `10` | Det "Cad"-belysningsschemat. |
+| Headlamp | `11` | Det "Headlamp"-belysningsschemat. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

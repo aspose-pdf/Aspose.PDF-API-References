@@ -1,12 +1,12 @@
 ---
-title: UnifiedSaveOptions.UnifiedSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: UnifiedSaveOptions-konstruktorn. Standardkonstruktorn
+title: "UnifiedSaveOptions.UnifiedSaveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "UnifiedSaveOptions‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/unifiedsaveoptions/unifiedsaveoptions/
 ---
-## UnifiedSaveOptions-konstruktorn
+## UnifiedSaveOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public UnifiedSaveOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [UnifiedSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [UnifiedSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

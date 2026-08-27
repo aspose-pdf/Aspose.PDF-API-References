@@ -1,12 +1,12 @@
 ---
-title: PageMarkup.Sections
-second_title: Aspose.PDF for .NET API Reference
-description: PageMarkup-egenskap. Hämtar samling av MarkupSection som hittades på sidan
+title: "PageMarkup.Sections"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageMarkup-egenskap. Hämtar samling av MarkupSection som hittades på sidan"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/pagemarkup/sections/
 ---
-## PageMarkup.Sections-egenskap
+## PageMarkup.Sections property
 
 Hämtar samling av [`MarkupSection`](../../markupsection/) som hittades på sidan.
 
@@ -14,9 +14,11 @@ Hämtar samling av [`MarkupSection`](../../markupsection/) som hittades på sida
 public List<MarkupSection> Sections { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarkupSection](../../markupsection/)
-* klass [PageMarkup](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [MarkupSection](../../markupsection/)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

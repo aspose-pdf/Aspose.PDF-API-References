@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-egenskap. Färgen på en fälts bakgrund är som standard vit
+title: "FormFieldFacade.BackgroundColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade egenskap. Färgen på ett fälts bakgrund är vit som standard"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/formfieldfacade/backgroundcolor/
 ---
-## FormFieldFacade.BackgroundColor-egenskap
+## FormFieldFacade.BackgroundColor property
 
-Färgen på en fälts bakgrund, som standard är vit.
+Färgen på ett fältbakgrund, standard är vit.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

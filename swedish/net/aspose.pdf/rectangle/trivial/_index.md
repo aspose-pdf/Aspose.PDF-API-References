@@ -1,21 +1,23 @@
 ---
-title: Rectangle.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-egenskap. Initierar trivial rektangel dvs. rektangel med noll position och storlek
+title: "Rectangle.Trivial"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-egenskap. Initierar trivial rektangel, d.v.s. rektangel med noll position och storlek."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/rectangle/trivial/
 ---
-## Rectangle.Trivial-egenskap
+## Rectangle.Trivial property
 
-Initierar trivial rektangel dvs. rektangel med noll position och storlek.
+Initierar trivial rektangel, d.v.s. rektangel med noll position och storlek.
 
 ```csharp
 public static Rectangle Trivial { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

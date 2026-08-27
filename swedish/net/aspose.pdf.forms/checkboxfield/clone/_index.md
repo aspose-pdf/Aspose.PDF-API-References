@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField-metod. Klona kryssrutan
+title: "CheckboxField.Clone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CheckboxField-metod. Klona kryssrutan"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.forms/checkboxfield/clone/
 ---
-## CheckboxField.Clone metod
+## CheckboxField.Clone method
 
 Klona kryssrutan.
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 Det klonade objektet
 
-### Se Även
+### Se även
 
-* klass [CheckboxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

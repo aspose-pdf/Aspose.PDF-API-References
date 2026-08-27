@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetNumberValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute-metod. Hämtar värde nummer
+title: "StructureAttribute.GetNumberValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureAttribute‑metod. Hämtar värdenummer"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.logicalstructure/structureattribute/getnumbervalue/
 ---
-## StructureAttribute.GetNumberValue metod
+## StructureAttribute.GetNumberValue method
 
-Hämtar värde nummer.
+Hämtar Value Number.
 
 ```csharp
 public double? GetNumberValue()
@@ -16,10 +16,12 @@ public double? GetNumberValue()
 
 ### Returvärde
 
-Värde nummer.
+Värdenummer.
 
-### Se Även
+### Se även
 
-* klass [StructureAttribute](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

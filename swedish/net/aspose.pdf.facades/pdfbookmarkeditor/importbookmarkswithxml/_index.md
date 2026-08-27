@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.ImportBookmarksWithXML
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor metod. Importerar bokmärken till dokumentet från XML-fil
+title: "PdfBookmarkEditor.ImportBookmarksWithXML"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfBookmarkEditor-metod. Importerar bokmärken till dokumentet från en XML-fil"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/
 ---
 ## ImportBookmarksWithXML(string) {#importbookmarkswithxml_1}
 
-Importerar bokmärken till dokumentet från XML-fil.
+Importerar bokmärken till dokumentet från en XML-fil.
 
 ```csharp
 public void ImportBookmarksWithXML(string xmlFile)
@@ -16,7 +16,7 @@ public void ImportBookmarksWithXML(string xmlFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xmlFile | Sträng | XML-filen som innehåller listan över bokmärken. |
+| xmlFile | String | XML-filen som innehåller bokmärkeslistan. |
 
 ## Exempel
 
@@ -27,17 +27,17 @@ editor.ImportBookmarksWithXML("bookmarks.xml");
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfBookmarkEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportBookmarksWithXML(Stream) {#importbookmarkswithxml}
 
-Importerar bokmärken till dokumentet från XML-fil.
+Importerar bokmärken till dokumentet från en XML-fil.
 
 ```csharp
 public void ImportBookmarksWithXML(Stream stream)
@@ -45,10 +45,12 @@ public void ImportBookmarksWithXML(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Ström | Ström med bokmärkesdata. |
+| ström | Stream | Ström med bokmärkesdata. |
 
-### Se Även
+### Se även
 
-* klass [PdfBookmarkEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

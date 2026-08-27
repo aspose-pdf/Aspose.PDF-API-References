@@ -1,12 +1,12 @@
 ---
-title: Table.GetWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellmetod. Hämta bredd
+title: "Table.GetWidth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Table-metod. Hämta bredd"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf/table/getwidth/
 ---
-## Table.GetWidth metod
+## Table.GetWidth method
 
 Hämta bredd.
 
@@ -18,8 +18,10 @@ public double GetWidth()
 
 Tabellens bredd
 
-### Se Även
+### Se även
 
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

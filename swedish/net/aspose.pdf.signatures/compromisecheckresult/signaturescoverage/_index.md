@@ -1,22 +1,24 @@
 ---
-title: CompromiseCheckResult.SignaturesCoverage
-second_title: Aspose.PDF for .NET API Reference
-description: CompromiseCheckResult-egenskap. Hämtar täckningsstatus för digitala signaturer i ett dokument. Om den är lika med Undefined, då är en av signaturerna komprometterad
+title: "CompromiseCheckResult.SignaturesCoverage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CompromiseCheckResult egenskap. Hämtar täckningsstatusen för digitala signaturer i ett dokument. Om den är lika med Undefined betyder det att en av signaturerna är komprometterad"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.signatures/compromisecheckresult/signaturescoverage/
 ---
-## CompromiseCheckResult.SignaturesCoverage-egenskap
+## CompromiseCheckResult.SignaturesCoverage property
 
-Hämtar täckningsstatus för digitala signaturer i ett dokument. Om den är lika med Undefined, då är en av signaturerna komprometterad.
+Hämtar täckningsstatusen för digitala signaturer i ett dokument. Om den är lika med Undefined innebär det att en av signaturerna är komprometterad.
 
 ```csharp
 public SignaturesCoverage SignaturesCoverage { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [SignaturesCoverage](../../signaturescoverage/)
 * class [CompromiseCheckResult](../)
 * namespace [Aspose.Pdf.Signatures](../../../aspose.pdf.signatures/)
 * assembly [Aspose.PDF](../../../)
+
+

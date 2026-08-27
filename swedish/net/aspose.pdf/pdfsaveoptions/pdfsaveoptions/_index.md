@@ -1,12 +1,12 @@
 ---
-title: PdfSaveOptions.PdfSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfSaveOptions-konstruktorn. Standardkonstruktorn
+title: "PdfSaveOptions.PdfSaveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfSaveOptions‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pdfsaveoptions/pdfsaveoptions/
 ---
-## PdfSaveOptions-konstruktorn
+## PdfSaveOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PdfSaveOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

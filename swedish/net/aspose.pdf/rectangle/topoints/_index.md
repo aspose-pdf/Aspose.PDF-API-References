@@ -1,12 +1,12 @@
 ---
-title: Rectangle.ToPoints
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-metod. Konverterar rektangel till en array av punkter QuadPoints
+title: "Rectangle.ToPoints"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-metod. Konverterar rektangel till en array av punkter QuadPoints"
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf/rectangle/topoints/
 ---
-## Rectangle.ToPoints metod
+## Rectangle.ToPoints method
 
 Konverterar rektangel till en array av punkter ("QuadPoints").
 
@@ -18,9 +18,11 @@ public Point[] ToPoints()
 
 Array av punkter.
 
-### Se Även
+### Se även
 
-* klass [Point](../../point/)
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Point](../../point/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

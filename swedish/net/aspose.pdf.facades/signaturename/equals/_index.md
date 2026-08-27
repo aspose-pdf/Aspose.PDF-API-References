@@ -1,12 +1,12 @@
 ---
-title: SignatureName.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName-metod. Bestämmer om denna instans och ett specificerat objekt är lika
+title: "SignatureName.Equals"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureName metod. Avgör om detta objekt och ett angivet objekt är lika"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/signaturename/equals/
 ---
-## SignatureName.Equals metod
+## SignatureName.Equals method
 
 Bestämmer om denna instans och ett specificerat objekt är lika.
 
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Objekt | Det objekt som ska jämföras med den aktuella instansen. |
+| obj | Objekt | Objektet att jämföra med den aktuella instansen. |
 
 ### Returvärde
 
-Sant om det specificerade objektet är lika med den aktuella instansen; annars falskt.
+Sant om det angivna objektet är lika med den aktuella instansen; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [SignatureName](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

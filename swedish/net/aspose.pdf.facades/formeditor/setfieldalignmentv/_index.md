@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetFieldAlignmentV
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-metod. Ställ in den vertikala justeringsstilen för ett textfält
+title: "FormEditor.SetFieldAlignmentV"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor metod. Ställ in den vertikala justeringsstilen för ett textfält"
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf.facades/formeditor/setfieldalignmentv/
 ---
-## FormEditor.SetFieldAlignmentV metod
+## FormEditor.SetFieldAlignmentV method
 
 Ställ in den vertikala justeringsstilen för ett textfält.
 
@@ -16,12 +16,12 @@ public bool SetFieldAlignmentV(string fieldName, int alignment)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Det kvalificerade fältnamnet. |
-| alignment | Int32 | Definitionen av justeringsstilen, inklusive FormFieldFacade.AlignTop, FormFieldFacade.AlignMiddle och FormFieldFacade.AlignRight. |
+| fieldName | String | Det kvalificerade fältnamnet. |
+| alignment | Int32 | Justeringstilsdefinitionen, inklusive FormFieldFacade.AlignTop, FormFieldFacade.AlignMiddle och FormFieldFacade.AlignRight. |
 
 ### Returvärde
 
-true om fältet hittades och justeringen framgångsrikt fylldes.
+Sant om fältet hittades och justeringen fylldes framgångsrikt.
 
 ## Exempel
 
@@ -30,8 +30,10 @@ FormEditor fe = new FormEditor("PdfStaticForm.pdf", "VerticalAlign.pdf");
 fe.SetFieldAlignmentV("form1[0].TextField[0]", FormFieldFacade.AlignBottom);
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

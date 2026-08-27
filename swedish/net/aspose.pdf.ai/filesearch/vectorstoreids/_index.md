@@ -1,21 +1,23 @@
 ---
-title: FileSearch.VectorStoreIds
-second_title: Aspose.PDF for .NET API Reference
-description: FileSearch-egenskap. Hämtar eller ställer in IDt för vektorbutiken kopplad till denna assistent. Det kan finnas högst 1 vektorbutik kopplad till assistenten.
+title: "FileSearch.VectorStoreIds"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSearch egenskap. Hämtar eller anger ID för vektorlager som är kopplat till denna assistent. Det kan högst finnas 1 vektorlager kopplat till assistenten."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/filesearch/vectorstoreids/
 ---
-## FileSearch.VectorStoreIds-egenskap
+## FileSearch.VectorStoreIds property
 
-Hämtar eller ställer in ID:t för vektorbutiken kopplad till denna assistent. Det kan finnas högst 1 vektorbutik kopplad till assistenten.
+Hämtar eller anger ID för vektorlager som är kopplat till den här assistenten. Det kan högst finnas 1 vektorlager kopplat till assistenten.
 
 ```csharp
 public List<string> VectorStoreIds { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileSearch](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileSearch](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

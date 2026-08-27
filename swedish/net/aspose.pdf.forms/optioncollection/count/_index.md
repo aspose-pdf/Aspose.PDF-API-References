@@ -1,21 +1,23 @@
 ---
-title: OptionCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection-egenskap. Hämtar antal alternativ
+title: "OptionCollection.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptionCollection-egenskap. Hämtar antalet alternativ"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/optioncollection/count/
 ---
-## OptionCollection.Count-egenskap
+## OptionCollection.Count property
 
-Hämtar antal alternativ.
+Hämtar antalet alternativ.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OptionCollection](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

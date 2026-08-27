@@ -1,14 +1,14 @@
 ---
-title: FileFontSource.FileFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: FileFontSource-konstruktorn. Initierar en ny instans av FileFontSource-klassen
+title: "FileFontSource.FileFontSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileFontSource‑konstruktor. Initierar en ny instans av klassen FileFontSource"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/filefontsource/filefontsource/
 ---
-## FileFontSource-konstruktorn
+## FileFontSource constructor
 
-Initierar en ny instans av [`FileFontSource`](../) klassen.
+Initierar en ny instans av klassen [`FileFontSource`](../).
 
 ```csharp
 public FileFontSource(string filePath)
@@ -16,10 +16,12 @@ public FileFontSource(string filePath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filePath | Sträng | Sökväg till teckensnittsfiler. |
+| filePath | String | Sökväg till teckensnittsfilen. |
 
-### Se Även
+### Se även
 
-* klass [FileFontSource](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

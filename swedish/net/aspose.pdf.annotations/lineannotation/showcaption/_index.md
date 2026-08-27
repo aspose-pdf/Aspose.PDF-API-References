@@ -1,21 +1,23 @@
 ---
-title: LineAnnotation.ShowCaption
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation-egenskap. Hämtar eller ställer in en boolesk flagga som avgör om innehållet ska visas som en bildtext
+title: "LineAnnotation.ShowCaption"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineAnnotation egenskap. Hämtar eller anger booleskt flagga som bestämmer om innehållet ska visas som rubrik"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.annotations/lineannotation/showcaption/
 ---
-## LineAnnotation.ShowCaption-egenskap
+## LineAnnotation.ShowCaption property
 
-Hämtar eller ställer in en boolesk flagga som avgör om innehållet ska visas som en bildtext.
+Hämtar eller anger ett booleskt flagga som bestämmer om innehållet ska visas som rubrik.
 
 ```csharp
 public bool ShowCaption { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LineAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

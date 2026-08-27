@@ -1,14 +1,14 @@
 ---
-title: Class PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.PdfDocument klass. Representerar ett PDF-dokument med ett namn
+title: "Klass PdfDocument"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.PdfDocument-klass. Representerar ett PDF document med ett namn"
 type: docs
-weight: 940
+weight: 1020
 url: /sv/net/aspose.pdf.ai/pdfdocument/
 ---
-## PdfDocument klass
+## PdfDocument class
 
-Representerar ett PDF-dokument med ett namn.
+Representerar ett PDF‑dokument med ett namn.
 
 ```csharp
 public class PdfDocument
@@ -24,10 +24,12 @@ public class PdfDocument
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Document](../../aspose.pdf.ai/pdfdocument/document/) { get; set; } | Hämtar eller ställer in PDF-dokumentet. |
-| [Name](../../aspose.pdf.ai/pdfdocument/name/) { get; set; } | Hämtar eller ställer in namnet på PDF-dokumentet. Genererar en ny GUID om namnet inte är angivet. |
+| [Document](../../aspose.pdf.ai/pdfdocument/document/) { get; set; } | Hämtar eller anger PDF document. |
+| [Name](../../aspose.pdf.ai/pdfdocument/name/) { get; set; } | Hämtar eller anger namnet på PDF document. Genererar ett nytt GUID om namnet inte är angivet. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

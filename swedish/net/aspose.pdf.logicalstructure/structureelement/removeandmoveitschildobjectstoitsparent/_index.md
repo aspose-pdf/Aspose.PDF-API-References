@@ -1,14 +1,14 @@
 ---
-title: StructureElement.RemoveAndMoveItsChildObjectsToItsParent
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement-metod. Tar bort ett element från strukturen, en referens till det från föräldraobjektet, referenser till det från barnobjekt och det motsvarande objektet från dokumentet. Infogar barnobjekt från det borttagna objektet i dess tidigare förälders barnobjektskollektion som börjar vid indexet för det borttagna objektet.
+title: "StructureElement.RemoveAndMoveItsChildObjectsToItsParent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-metod. Tar bort ett element från strukturen, en referens till det från föräldraobjektet, referenser till det från barnobjekt och det motsvarande objektet från dokumentet. Infogar barnobjekt från det borttagna objektet i dess tidigare förälders barnobjektssamling med start vid indexet för det borttagna objektet."
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/
 ---
-## StructureElement.RemoveAndMoveItsChildObjectsToItsParent metod
+## StructureElement.RemoveAndMoveItsChildObjectsToItsParent method
 
-Tar bort ett element från strukturen, en referens till det från föräldraobjektet, referenser till det från barnobjekt och det motsvarande objektet från dokumentet. Infogar barnobjekt från det borttagna objektet i dess tidigare förälders barnobjektskollektion som börjar vid indexet för det borttagna objektet.
+Tar bort ett element från strukturen, en referens till det från föräldraobjektet, referenser till det från barnobjekt och det motsvarande objektet från dokumentet. Infogar barnobjekt från det borttagna objektet i dess tidigare förälders barnobjektssamling med start vid indexet för det borttagna objektet.
 
 ```csharp
 public void RemoveAndMoveItsChildObjectsToItsParent(
@@ -17,10 +17,12 @@ public void RemoveAndMoveItsChildObjectsToItsParent(
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| checkIfChildObjectsCanBeMovedToParent | Boolean | Kontrollera om barnobjekt från det borttagna objektet kan infogas i dess förälders barnobjektskollektion. |
+| checkIfChildObjectsCanBeMovedToParent | Boolean | Kontrollera om barnobjekt från det borttagna objektet kan infogas i dess förälders barnobjektssamling. |
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

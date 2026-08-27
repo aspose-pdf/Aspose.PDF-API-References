@@ -1,12 +1,12 @@
 ---
-title: OutlineCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection-egenskap. Hämtar ett värde som indikerar om samlingen är skrivskyddad
+title: "OutlineCollection.IsReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineCollection‑egenskap. Hämtar ett värde som indikerar om samlingen är skrivskyddad"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/outlinecollection/isreadonly/
 ---
-## OutlineCollection.IsReadOnly-egenskap
+## OutlineCollection.IsReadOnly property
 
 Hämtar ett värde som indikerar om samlingen är skrivskyddad.
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om samlingen är skrivskyddad.
 public override bool IsReadOnly { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

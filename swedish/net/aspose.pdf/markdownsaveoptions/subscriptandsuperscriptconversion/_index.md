@@ -1,21 +1,23 @@
 ---
-title: MarkdownSaveOptions.SubscriptAndSuperscriptConversion
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions-egenskap. Hämtar och ställer in tillåtelse att konvertera subscript och superscript. Detta värde är sant som standard
+title: "MarkdownSaveOptions.SubscriptAndSuperscriptConversion"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkdownSaveOptions-egenskap. Hämtar och anger tillåtelse att konvertera nedsänkt och upphöjt. Detta värde är sant som standard"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/markdownsaveoptions/subscriptandsuperscriptconversion/
 ---
-## MarkdownSaveOptions.SubscriptAndSuperscriptConversion-egenskap
+## MarkdownSaveOptions.SubscriptAndSuperscriptConversion property
 
-Hämtar och ställer in tillåtelse att konvertera subscript och superscript. Detta värde är sant som standard.
+Hämtar och anger tillåtelse att konvertera nedsänkt och upphöjd text. Detta värde är sant som standard.
 
 ```csharp
 public bool SubscriptAndSuperscriptConversion { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarkdownSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

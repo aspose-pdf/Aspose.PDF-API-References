@@ -1,14 +1,14 @@
 ---
-title: Class TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.TruncationStrategy klass. Representerar trunceringsstrategin som kontrollerar hur en tråd kommer att trunkeras före körningen
+title: "Klass TruncationStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.TruncationStrategy-klass. Representerar trunkeringsstrategin som styr hur en tråd kommer att trunkeras före körningen"
 type: docs
-weight: 1240
+weight: 1330
 url: /sv/net/aspose.pdf.ai/truncationstrategy/
 ---
-## TruncationStrategy klass
+## TruncationStrategy class
 
-Representerar trunceringsstrategin som kontrollerar hur en tråd kommer att trunkeras före körningen.
+Representerar trunkeringsstrategin som styr hur en tråd kommer att trunkeras före körningen.
 
 ```csharp
 public class TruncationStrategy
@@ -24,10 +24,12 @@ public class TruncationStrategy
 
 | Namn | Beskrivning |
 | --- | --- |
-| [LastMessages](../../aspose.pdf.ai/truncationstrategy/lastmessages/) { get; set; } | Hämtar eller ställer in antalet senaste meddelanden från tråden när kontexten för körningen konstrueras. |
-| [StrategyType](../../aspose.pdf.ai/truncationstrategy/strategytype/) { get; set; } | Hämtar eller ställer in trunceringsstrategin som ska användas för tråden. Standard är auto. Om den sätts till last_messages, kommer tråden att trunkeras till de n senaste meddelandena i tråden. När den sätts till auto, kommer meddelanden i mitten av tråden att tas bort för att passa kontextlängden för modellen, max_prompt_tokens. |
+| [LastMessages](../../aspose.pdf.ai/truncationstrategy/lastmessages/) { get; set; } | Hämtar eller anger antalet senaste meddelanden från tråden när kontexten för körningen byggs. |
+| [StrategyType](../../aspose.pdf.ai/truncationstrategy/strategytype/) { get; set; } | Hämtar eller anger trunkeringsstrategin som ska användas för tråden. Standard är auto. Om den sätts till last_messages kommer tråden att trunkeras till de n senaste meddelandena i tråden. När den sätts till auto kommer meddelanden i mitten av tråden att tas bort för att passa modellens kontextlängd, max_prompt_tokens. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

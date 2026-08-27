@@ -1,22 +1,24 @@
 ---
-title: MhtLoadOptions.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: MhtLoadOptions-egenskap. Hämtar eller ställer in dokumentets sidinformation
+title: "MhtLoadOptions.PageInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MhtLoadOptions‑egenskap. Hämtar eller anger dokumentets sidinformation"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/mhtloadoptions/pageinfo/
 ---
-## MhtLoadOptions.PageInfo-egenskap
+## MhtLoadOptions.PageInfo property
 
-Hämtar eller ställer in dokumentets sidinformation
+Hämtar eller anger sidinformation för dokumentet
 
 ```csharp
 public PageInfo PageInfo { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageInfo](../../pageinfo/)
-* klass [MhtLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageInfo](../../pageinfo/)
+* class [MhtLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

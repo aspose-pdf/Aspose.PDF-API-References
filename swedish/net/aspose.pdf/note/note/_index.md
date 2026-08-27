@@ -1,30 +1,30 @@
 ---
-title: Note.Note
-second_title: Aspose.PDF for .NET API Reference
-description: Notering konstruktor. Initierar en ny instans av Notering klassen
+title: "Note.Note"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Note constructor. Initierar en ny instans av Note-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/note/note/
 ---
-## Notering() {#constructor}
+## Note() {#constructor}
 
-Initierar en ny instans av [`Notering`](../) klassen.
+Initierar en ny instans av klassen [`Note`](../).
 
 ```csharp
 public Note()
 ```
 
-### Se Även
+### Se även
 
-* klass [Notering](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Notering(string) {#constructor_1}
+## Note(string) {#constructor_1}
 
-Initierar en ny instans av [`Notering`](../) klassen.
+Initierar en ny instans av klassen [`Note`](../).
 
 ```csharp
 public Note(string content)
@@ -32,10 +32,12 @@ public Note(string content)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| innehåll | Sträng | Innehållet i noteringen. |
+| innehåll | String | Notinnehållet. |
 
-### Se Även
+### Se även
 
-* klass [Notering](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TryChangePassword
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity-metod. Ändrar användarlösenordet och ägarens lösenord genom att ägarens lösenord behåller de ursprungliga säkerhetsinställningarna. Det nya användarlösenordet och det nya ägarens lösenord kan vara null eller tomma. Ägarens lösenord kommer att ersättas. Kastar inte ett undantag om processen misslyckas. med en slumpmässig sträng om det nya ägarens lösenord är null eller tomt
+title: "PdfFileSecurity.TryChangePassword"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSecurity‑metod. Ändrar användarlösenordet och ägarlösenordet med ägarlösenordet och behåller de ursprungliga säkerhetsinställningarna. Det nya användarlösenordet och det nya ägarlösenordet kan vara null eller tomma. Ägarlösenordet ersätts med en slumpmässig sträng om det nya ägarlösenordet är null eller tomt. Kastar inte ett undantag om processen misslyckas."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdffilesecurity/trychangepassword/
 ---
 ## TryChangePassword(string, string, string) {#trychangepassword}
 
-Ändrar användarlösenordet och ägarens lösenord genom att ägarens lösenord behåller de ursprungliga säkerhetsinställningarna. Det nya användarlösenordet och det nya ägarens lösenord kan vara null eller tomma. Ägarens lösenord kommer att ersättas. Kastar inte ett undantag om processen misslyckas. med en slumpmässig sträng om det nya ägarens lösenord är null eller tomt.
+Ändrar användarlösenordet och ägarlösenordet med ägarlösenordet, behåller de ursprungliga säkerhetsinställningarna. Det nya användarlösenordet och det nya ägarlösenordet kan vara null eller tomma. Ägarlösenordet kommer att ersättas med en slumpmässig sträng om det nya ägarlösenordet är null eller tomt. Kastar inte ett undantag om processen misslyckas.
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword)
@@ -16,13 +16,13 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword, stri
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ownerPassword | Sträng | Ursprungligt ägarens lösenord. |
-| newUserPassword | Sträng | Nytt användarlösenord. |
-| newOwnerPassword | Sträng | Nytt ägarens lösenord. |
+| ownerPassword | String | Ursprungligt ägarlösenord. |
+| newUserPassword | String | Nytt användarlösenord. |
+| newOwnerPassword | String | Nytt ägarlösenord. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för lyckat, eller falskt.
 
 ## Exempel
 
@@ -40,17 +40,17 @@ Sant för framgång, eller falskt.
  Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner")	
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryChangePassword(string, string, string, DocumentPrivilege, KeySize) {#trychangepassword_1}
 
-Ändrar användarlösenordet och lösenordet genom att ägarens lösenord, tillåter att återställa Pdf-dokumentets säkerhet. Det nya användarlösenordet och det nya ägarens lösenord kan vara null eller tomma. Ägarens lösenord kommer att ersättas med en slumpmässig sträng om det nya ägarens lösenord är null eller tomt. Kastar inte ett undantag om processen misslyckas.
+Ändrar användarlösenordet och lösenordet med ägarlösenordet, möjliggör återställning av Pdf‑dokumentets säkerhet. Det nya användarlösenordet och det nya ägarlösenordet kan vara null eller tomma. Ägarlösenordet kommer att ersättas med en slumpmässig sträng om det nya ägarlösenordet är null eller tomt. Kastar inte ett undantag om processen misslyckas.
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, 
@@ -59,15 +59,15 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ownerPassword | Sträng | Ursprungligt ägarens lösenord. |
-| newUserPassword | Sträng | Nytt användarlösenord. |
-| newOwnerPassword | Sträng | Nytt ägarens lösenord. |
-| privilege | DocumentPrivilege | Återställ säkerhet. |
-| keySize | KeySize | KeySize.x40 för 40 bits kryptering, KeySize.x128 för 128 bits kryptering och KeySize.x256 för 256 bits kryptering. |
+| ownerPassword | String | Ursprungligt ägarlösenord. |
+| newUserPassword | String | Nytt användarlösenord. |
+| newOwnerPassword | String | Nytt ägarlösenord. |
+| behörighet | DocumentPrivilege | Återställ säkerhet. |
+| keySize | KeySize | KeySize.x40 för 40‑bits kryptering, KeySize.x128 för 128‑bits kryptering och KeySize.x256 för 256‑bits kryptering. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för framgång, annars falskt.
 
 ## Exempel
 
@@ -85,19 +85,19 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256)
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../../documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#trychangepassword_2}
 
-Ändrar användarlösenordet och lösenordet genom att ägarens lösenord, tillåter att återställa Pdf-dokumentets säkerhet. Det nya användarlösenordet och det nya ägarens lösenord kan vara null eller tomma. Ägarens lösenord kommer att ersättas med en slumpmässig sträng om det nya ägarens lösenord är null eller tomt. Det finns 6 möjliga kombinationer av KeySize och Algorithm-värden. Men (KeySize.x40, Algorithm.AES) och (KeySize.x256, Algorithm.RC4) är ogiltiga och motsvarande undantag kommer att uppstå om kit stöter på denna kombination. Kastar inte ett undantag om processen misslyckas.
+Ändrar användarlösenordet och lösenordet med ägarlösenordet, möjliggör återställning av Pdf‑dokumentets säkerhet. Det nya användarlösenordet och det nya ägarlösenordet kan vara null eller tomma. Ägarlösenordet kommer att ersättas med en slumpmässig sträng om det nya ägarlösenordet är null eller tomt. Det finns 6 möjliga kombinationer av KeySize‑ och Algorithm‑värden. Dock är (KeySize.x40, Algorithm.AES) och (KeySize.x256, Algorithm.RC4) ogiltiga och motsvarande undantag kommer att kastas om verktyget stöter på denna kombination. Kastar inte ett undantag om processen misslyckas.
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, 
@@ -106,16 +106,16 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ownerPassword | Sträng | Ursprungligt ägarens lösenord. |
-| newUserPassword | Sträng | Nytt användarlösenord. |
-| newOwnerPassword | Sträng | Nytt ägarens lösenord. |
-| privilege | DocumentPrivilege | Återställ säkerhet. |
-| keySize | KeySize | KeySize.x40 för 40 bits kryptering, KeySize.x128 för 128 bits kryptering och KeySize.x256 för 256 bits kryptering. |
-| cipher | Algorithm | Algorithm.AES för att kryptera med AES-algoritmen eller Algorithm.RC4 för RC4-kryptering. |
+| ownerPassword | String | Ursprungligt ägarlösenord. |
+| newUserPassword | String | Nytt användarlösenord. |
+| newOwnerPassword | String | Nytt ägarlösenord. |
+| behörighet | DocumentPrivilege | Återställ säkerhet. |
+| keySize | KeySize | KeySize.x40 för 40‑bits kryptering, KeySize.x128 för 128‑bits kryptering och KeySize.x256 för 256‑bits kryptering. |
+| chiffer | Algoritm | Algorithm.AES för att kryptera med AES‑algoritmen eller Algorithm.RC4 för RC4‑kryptering. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för framgång, annars falskt.
 
 ## Exempel
 
@@ -133,11 +133,13 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../../documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
 * enum [Algorithm](../../algorithm/)
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

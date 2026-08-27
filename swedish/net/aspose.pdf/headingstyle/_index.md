@@ -1,14 +1,14 @@
 ---
-title: Enum HeadingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeadingStyle enum. Definierar de tillgängliga serialiseringsstilarna för rubriker. För specifikation se CommonMark ATX-rubriker respektive CommonMark Setext-rubriker
+title: "Enum HeadingStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.HeadingStyle‑enum. Definierar de tillgängliga serialiseringsstilarna för rubriker. För specifikationen, se CommonMark ATX‑rubriker respektive CommonMark Setext‑rubriker"
 type: docs
-weight: 5490
+weight: 5620
 url: /sv/net/aspose.pdf/headingstyle/
 ---
-## HeadingStyle-uppräkning
+## HeadingStyle enumeration
 
-Definierar de tillgängliga serialiseringsstilarna för rubriker. För specifikation se CommonMark - ATX-rubriker, respektive CommonMark - Setext-rubriker.
+Definierar de tillgängliga serialiseringsstilarna för rubriker. För specifikationen, se CommonMark - ATX headings, respektive CommonMark - Setext headings.
 
 ```csharp
 public enum HeadingStyle
@@ -21,7 +21,9 @@ public enum HeadingStyle
 | Atx | `0` | Prefixa rubriker med '#' |
 | Setext | `1` | Understryk nivå 1 och 2 rubriker med "======" respektive "------" |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

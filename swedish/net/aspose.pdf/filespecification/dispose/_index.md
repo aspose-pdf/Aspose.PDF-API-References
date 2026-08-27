@@ -1,21 +1,23 @@
 ---
-title: FileSpecification.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification metod. Avsluta innehåll
+title: "FileSpecification.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSpecification method. Frigör innehållet"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/filespecification/dispose/
 ---
-## FileSpecification.Dispose metod
+## FileSpecification.Dispose method
 
-Avsluta innehåll.
+Rensa innehållet.
 
 ```csharp
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

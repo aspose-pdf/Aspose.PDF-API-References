@@ -1,14 +1,14 @@
 ---
-title: TableRowCollectionElement.CreateTR
-second_title: Aspose.PDF for .NET API Reference
-description: TableRowCollectionElement-metod. Skapar TableTRElement och lägger till det i den aktuella tabellen
+title: "TableRowCollectionElement.CreateTR"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableRowCollectionElement metod. Skapar TableTRElement och lägger till den i den aktuella tabellen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/tablerowcollectionelement/createtr/
 ---
-## TableRowCollectionElement.CreateTR metod
+## TableRowCollectionElement.CreateTR method
 
-Skapar [`TableTRElement`](../../tabletrelement/) och lägger till det i den aktuella tabellen.
+Skapar [`TableTRElement`](../../tabletrelement/) och lägger till den i den aktuella tabellen.
 
 ```csharp
 public virtual TableTRElement CreateTR()
@@ -16,11 +16,13 @@ public virtual TableTRElement CreateTR()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [TableTRElement](../../tabletrelement/)
-* klass [TableRowCollectionElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [TableTRElement](../../tabletrelement/)
+* class [TableRowCollectionElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

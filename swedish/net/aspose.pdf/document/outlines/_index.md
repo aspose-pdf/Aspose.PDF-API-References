@@ -1,22 +1,24 @@
 ---
-title: Document.Outlines
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar dokumentöversikter
+title: "Document.Outlines"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar dokumentets konturer"
 type: docs
-weight: 410
+weight: 430
 url: /sv/net/aspose.pdf/document/outlines/
 ---
-## Document.Outlines-egenskap
+## Document.Outlines property
 
-Hämtar dokumentöversikter.
+Hämtar dokumentets innehållsförteckning.
 
 ```csharp
 public OutlineCollection Outlines { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineCollection](../../outlinecollection/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineCollection](../../outlinecollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

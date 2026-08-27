@@ -1,12 +1,12 @@
 ---
-title: TableCellBuilder.AddCell
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellBuilder metod. Lägg till cell i tabell
+title: "TableCellBuilder.AddCell"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableCellBuilder-metod. Lägg till cell i tabell"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/tablecellbuilder/addcell/
 ---
-## TableCellBuilder.AddCell metod
+## TableCellBuilder.AddCell method
 
 Lägg till cell i tabell.
 
@@ -16,10 +16,12 @@ public override TableCellBuilder AddCell()
 
 ### Returvärde
 
-Instans av nuvarande [`TableCellBuilder`](../).
+Instans av aktuell [`TableCellBuilder`](../).
 
-### Se Även
+### Se även
 
-* klass [TableCellBuilder](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [TableCellBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

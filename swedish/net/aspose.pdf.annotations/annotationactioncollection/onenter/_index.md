@@ -1,22 +1,24 @@
 ---
-title: AnnotationActionCollection.OnEnter
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection-egenskap. Hämtar eller ställer in en åtgärd som ska utföras när muspekaren går in i annotationens aktiva område
+title: "AnnotationActionCollection.OnEnter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationActionCollection egenskap. Hämtar eller anger en åtgärd som ska utföras när markören går in i annotationens aktiva område"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/annotationactioncollection/onenter/
 ---
-## AnnotationActionCollection.OnEnter-egenskap
+## AnnotationActionCollection.OnEnter property
 
-Hämtar eller ställer in en åtgärd som ska utföras när muspekaren går in i annotationens aktiva område.
+Hämtar eller anger en åtgärd som ska utföras när markören går in i annoteringens aktiva område.
 
 ```csharp
 public PdfAction OnEnter { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [AnnotationActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

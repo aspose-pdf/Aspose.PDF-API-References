@@ -1,22 +1,24 @@
 ---
-title: Document.FontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumenthändelse. Inträffar när ett teckensnitt ersätter ett annat teckensnitt i dokumentet
+title: "Document.FontSubstitution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document händelse. Uppstår när ett typsnitt ersätter ett annat typsnitt i dokumentet."
 type: docs
-weight: 540
+weight: 560
 url: /sv/net/aspose.pdf/document/fontsubstitution/
 ---
-## Document.FontSubstitution-händelse
+## Document.FontSubstitution event
 
-Inträffar när ett teckensnitt ersätter ett annat teckensnitt i dokumentet.
+Uppstår när ett teckensnitt ersätter ett annat teckensnitt i dokumentet.
 
 ```csharp
 public event FontSubstitutionHandler FontSubstitution;
 ```
 
-### Se Även
+### Se även
 
-* delegat [FontSubstitutionHandler](../../document.fontsubstitutionhandler/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* delegate [FontSubstitutionHandler](../../document.fontsubstitutionhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

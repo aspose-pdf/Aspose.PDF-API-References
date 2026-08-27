@@ -1,21 +1,23 @@
 ---
-title: XmpValue.IsDouble
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-egenskap. Returnerar sant om värdet är ett flyttal
+title: "XmpValue.IsDouble"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue-egenskap. Returnerar true om värdet är ett flyttal"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/xmpvalue/isdouble/
 ---
-## XmpValue.IsDouble-egenskap
+## XmpValue.IsDouble property
 
-Returnerar sant om värdet är ett flyttal.
+Returnerar true om värdet är ett flyttal.
 
 ```csharp
 public bool IsDouble { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

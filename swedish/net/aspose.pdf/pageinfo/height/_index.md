@@ -1,21 +1,23 @@
 ---
-title: PageInfo.Height
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo-egenskap. Hämtar eller ställer in sidans höjd
+title: "PageInfo.Height"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageInfo egenskap. Hämtar eller anger sidhöjd"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/pageinfo/height/
 ---
-## PageInfo.Höjd-egenskap
+## PageInfo.Height property
 
-Hämtar eller ställer in sidans höjd.
+Hämtar eller anger sidhöjd.
 
 ```csharp
 public double Height { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

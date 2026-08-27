@@ -1,12 +1,12 @@
 ---
-title: Interface IStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IStatus-gränssnitt. Representerar statusen för en operation
+title: "Gränssnitt IStatus"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.IStatus-gränssnitt. Representerar statusen för en operation"
 type: docs
-weight: 560
+weight: 610
 url: /sv/net/aspose.pdf.ai/istatus/
 ---
-## IStatus-gränssnitt
+## IStatus interface
 
 Representerar statusen för en operation.
 
@@ -18,9 +18,11 @@ public interface IStatus
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Status](../../aspose.pdf.ai/istatus/status/) { get; set; } | Hämtar eller ställer in statusen för operationen. |
+| [Status](../../aspose.pdf.ai/istatus/status/) { get; set; } | Hämtar eller anger statusen för operationen. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

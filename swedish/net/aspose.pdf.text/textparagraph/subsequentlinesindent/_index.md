@@ -1,21 +1,23 @@
 ---
-title: TextParagraph.SubsequentLinesIndent
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph-egenskap. Hämtar eller ställer in indenteringsvärdet för efterföljande rader. Om det ställs in på ett icke-nollvärde har det en fördel över värdet för FormattingOptions.SubsequentLinesIndent
+title: "TextParagraph.SubsequentLinesIndent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextParagraph-egenskap. Hämtar eller anger indragsvärdet för efterföljande rader. Om det sätts till ett icke-nollvärde har det en fördel jämfört med FormattingOptions.SubsequentLinesIndent‑värdet"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.text/textparagraph/subsequentlinesindent/
 ---
-## TextParagraph.SubsequentLinesIndent-egenskap
+## TextParagraph.SubsequentLinesIndent property
 
-Hämtar eller ställer in indenteringsvärdet för efterföljande rader. Om det ställs in på ett icke-nollvärde har det en fördel över värdet för FormattingOptions.SubsequentLinesIndent.
+Hämtar eller anger indragsvärdet för efterföljande rader. Om det sätts till ett icke‑nollvärde har det en fördel jämfört med värdet FormattingOptions.SubsequentLinesIndent.
 
 ```csharp
 public float SubsequentLinesIndent { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextParagraph](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

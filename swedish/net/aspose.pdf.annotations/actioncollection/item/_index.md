@@ -1,7 +1,7 @@
 ---
-title: ActionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection-egenskap. Hämtar åtgärd efter dess index
+title: "ActionCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ActionCollection egenskap. Hämtar åtgärd med dess index"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/actioncollection/item/
@@ -16,15 +16,17 @@ public PdfAction this[int index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Index för åtgärd. |
+| index | Index för åtgärden. |
 
 ### Returvärde
 
 Hämtad åtgärd.
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [ActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

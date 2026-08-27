@@ -1,12 +1,12 @@
 ---
-title: Class FieldSerializationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FieldSerializationResult klass. Representerar resultatet av en serialiseringsprocess för formulärfält
+title: "Klass FieldSerializationResult"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.FieldSerializationResult-klass. Representerar resultatet av en formulärfältserialiseringsprocess"
 type: docs
-weight: 4790
+weight: 4910
 url: /sv/net/aspose.pdf/fieldserializationresult/
 ---
-## FieldSerializationResult klass
+## FieldSerializationResult class
 
 Representerar resultatet av en serialiseringsprocess för formulärfält.
 
@@ -18,12 +18,14 @@ public class FieldSerializationResult
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ErrorMessages](../../aspose.pdf/fieldserializationresult/errormessages/) { get; } | Hämtar felmeddelandena kopplade till serialiseringsprocessen. |
-| [FieldFullName](../../aspose.pdf/fieldserializationresult/fieldfullname/) { get; } | Hämtar det fullständiga namnet på fältet. |
-| [FieldSerializationStatus](../../aspose.pdf/fieldserializationresult/fieldserializationstatus/) { get; } | Hämtar statusen för serialiseringen av formulärfältet. |
-| [WarningMessages](../../aspose.pdf/fieldserializationresult/warningmessages/) { get; } | Hämtar varningsmeddelandena kopplade till serialiseringsprocessen. |
+| [ErrorMessages](../../aspose.pdf/fieldserializationresult/errormessages/) { get; } | Hämtar felmeddelandena som är associerade med serialiseringsprocessen. |
+| [FieldFullName](../../aspose.pdf/fieldserializationresult/fieldfullname/) { get; } | Hämtar fältets fullständiga namn. |
+| [FieldSerializationStatus](../../aspose.pdf/fieldserializationresult/fieldserializationstatus/) { get; } | Hämtar statusen för formulärfältserialiseringen. |
+| [WarningMessages](../../aspose.pdf/fieldserializationresult/warningmessages/) { get; } | Hämtar varningsmeddelandena som är associerade med serialiseringsprocessen. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

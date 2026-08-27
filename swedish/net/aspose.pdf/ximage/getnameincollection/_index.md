@@ -1,14 +1,14 @@
 ---
-title: XImage.GetNameInCollection
-second_title: Aspose.PDF for .NET API Reference
-description: XImage-metod. Returnerar namnet på bilden i dess samling
+title: "XImage.GetNameInCollection"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImage-metod. Returnerar bildens namn i dess samling"
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/aspose.pdf/ximage/getnameincollection/
 ---
-## XImage.GetNameInCollection metod
+## XImage.GetNameInCollection method
 
-Returnerar namnet på bilden i dess samling.
+Returnerar bildens namn i dess samling.
 
 ```csharp
 public string GetNameInCollection()
@@ -18,8 +18,10 @@ public string GetNameInCollection()
 
 Bildnyckel (namn).
 
-### Se Även
+### Se även
 
-* klass [XImage](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

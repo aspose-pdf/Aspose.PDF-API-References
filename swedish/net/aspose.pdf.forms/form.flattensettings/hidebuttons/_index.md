@@ -1,21 +1,23 @@
 ---
-title: Form.FlattenSettings.HideButtons
-second_title: Aspose.PDF for .NET API Reference
-description: FlattenSettings-egenskap. Om den är inställd kommer knappar att tas bort från det plattade dokumentet. Falskt som standard
+title: "Form.FlattenSettings.HideButtons"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FlattenSettings-egenskap. Om den är satt kommer knappar att tas bort från det plattlagda dokumentet. Falskt som standard."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/form.flattensettings/hidebuttons/
 ---
-## Form.FlattenSettings.HideButtons-egenskap
+## Form.FlattenSettings.HideButtons property
 
-Om den är inställd kommer knappar att tas bort från det plattade dokumentet. Falskt som standard.
+Om satt, kommer knappar att tas bort från det plattade dokumentet. False som standard.
 
 ```csharp
 public bool HideButtons { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FlattenSettings](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FlattenSettings](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

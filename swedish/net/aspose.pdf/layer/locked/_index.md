@@ -1,12 +1,12 @@
 ---
-title: Layer.Locked
-second_title: Aspose.PDF for .NET API Reference
-description: Lager egenskap. Hämtar ett värde som indikerar om lagret är låst
+title: "Layer.Locked"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Layer-egenskap. Hämtar ett värde som indikerar om lagret är låst."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/layer/locked/
 ---
-## Layer.Locked egenskap
+## Layer.Locked property
 
 Hämtar ett värde som indikerar om lagret är låst.
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om lagret är låst.
 public bool Locked { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Layer](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

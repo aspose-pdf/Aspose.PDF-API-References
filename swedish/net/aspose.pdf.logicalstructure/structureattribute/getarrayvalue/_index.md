@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetArrayValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute-metod. Hämtar värdenamnarray
+title: "StructureAttribute.GetArrayValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureAttribute-metod. Hämtar värde namn-array"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.logicalstructure/structureattribute/getarrayvalue/
 ---
-## StructureAttribute.GetArrayValue metod
+## StructureAttribute.GetArrayValue method
 
-Hämtar värdenamnarray.
+Hämtar Value Name Array.
 
 ```csharp
 public AttributeName[] GetArrayValue()
@@ -16,11 +16,13 @@ public AttributeName[] GetArrayValue()
 
 ### Returvärde
 
-Värdenamnarray.
+Värde namn-array.
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../../attributename/)
-* klass [StructureAttribute](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

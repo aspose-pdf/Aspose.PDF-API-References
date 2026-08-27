@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection metod. Kopierar array av FileSpecification objekt till kollektionen
+title: "EmbeddedFileCollection.CopyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EmbeddedFileCollection-metoden. Kopierar en array av FileSpecification-objekt till samlingen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/embeddedfilecollection/copyto/
 ---
-## EmbeddedFileCollection.CopyTo metod
+## EmbeddedFileCollection.CopyTo method
 
-Kopierar array av FileSpecification objekt till kollektionen.
+Kopierar array av FileSpecification-objekt till colleciton.
 
 ```csharp
 public void CopyTo(FileSpecification[] array, int index)
@@ -17,11 +17,13 @@ public void CopyTo(FileSpecification[] array, int index)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | array | FileSpecification[] | Array av objekt som kommer att kopieras. |
-| index | Int32 | Startindex från vilket kopieringen kommer att påbörjas. |
+| index | Int32 | Startindex varifrån kopieringen ska påbörjas. |
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../../filespecification/)
-* klass [EmbeddedFileCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

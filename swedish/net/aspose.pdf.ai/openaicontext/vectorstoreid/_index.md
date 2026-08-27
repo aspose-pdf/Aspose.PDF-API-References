@@ -1,21 +1,23 @@
 ---
-title: OpenAIContext.VectorStoreId
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIContext-egenskap. Hämtar eller ställer in Vector Store ID
+title: "OpenAIContext.VectorStoreId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIContext-egenskap. Hämtar eller anger ID för vektorlager"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/openaicontext/vectorstoreid/
 ---
-## OpenAIContext.VectorStoreId-egenskap
+## OpenAIContext.VectorStoreId property
 
-Hämtar eller ställer in Vector Store ID.
+Hämtar eller anger Vector Store ID.
 
 ```csharp
 public string VectorStoreId { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OpenAIContext](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

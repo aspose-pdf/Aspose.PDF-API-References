@@ -1,12 +1,12 @@
 ---
-title: Point3D.Z
-second_title: Aspose.PDF for .NET API Reference
-description: Point3D egenskap. Z-koordinatvärde
+title: "Point3D.Z"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Point3D-egenskap. Z-koordinatvärde"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/point3d/z/
 ---
-## Point3D.Z egenskap
+## Point3D.Z property
 
 Z-koordinatvärde.
 
@@ -14,8 +14,10 @@ Z-koordinatvärde.
 public double Z { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point3D](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Point3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

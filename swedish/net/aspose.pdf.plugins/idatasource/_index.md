@@ -1,14 +1,14 @@
 ---
-title: Interface IDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.IDataSource-gränssnitt. Allmänt datakälla gränssnitt som definierar gemensamma medlemmar som konkreta datakällor bör implementera
+title: "Gränssnitt IDataSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.IDataSource-gränssnitt. Allmänt datakällagränssnitt som definierar gemensamma medlemmar som konkreta datakällor bör implementera."
 type: docs
-weight: 8840
+weight: 8970
 url: /sv/net/aspose.pdf.plugins/idatasource/
 ---
-## IDataSource-gränssnitt
+## IDataSource interface
 
-Allmänt datakälla gränssnitt som definierar gemensamma medlemmar som konkreta datakällor bör implementera.
+Allmän datakällgränssnitt som definierar gemensamma medlemmar som konkreta datakällor bör implementera.
 
 ```csharp
 public interface IDataSource
@@ -20,7 +20,9 @@ public interface IDataSource
 | --- | --- |
 | [DataType](../../aspose.pdf.plugins/idatasource/datatype/) { get; } | Typ av datakälla (fil eller ström). |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: MessageContentRequest.Text
-second_title: Aspose.PDF for .NET API Reference
-description: MessageContentRequest-egenskap. Hämtar eller ställer in textinnehållet som är en del av ett meddelande
+title: "MessageContentRequest.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MessageContentRequest egenskap. Hämtar eller anger textinnehållet som är en del av ett meddelande"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/messagecontentrequest/text/
 ---
-## MessageContentRequest.Text-egenskap
+## MessageContentRequest.Text property
 
-Hämtar eller ställer in textinnehållet som är en del av ett meddelande.
+Hämtar eller anger textinnehållet som är en del av ett meddelande.
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MessageContentRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [MessageContentRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

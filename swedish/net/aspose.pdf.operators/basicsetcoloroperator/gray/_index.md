@@ -1,21 +1,23 @@
 ---
-title: BasicSetColorOperator.Gray
-second_title: Aspose.PDF for .NET API Reference
-description: BasicSetColorOperator-egenskap. Hämtar den svarta komponenten av grå färg
+title: "BasicSetColorOperator.Gray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BasicSetColorOperator-egenskap. Hämtar svart komponent av grå färg"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.operators/basicsetcoloroperator/gray/
 ---
-## BasicSetColorOperator.Gray-egenskap
+## BasicSetColorOperator.Gray property
 
-Hämtar den svarta komponenten av grå färg.
+Hämtar den svarta komponenten i grå färg.
 
 ```csharp
 public double Gray { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BasicSetColorOperator](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

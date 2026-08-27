@@ -1,22 +1,24 @@
 ---
-title: RunStepResponse.StepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: RunStepResponse-egenskap. Hämtar eller ställer in detaljerna för körsteget
+title: "RunStepResponse.StepDetails"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunStepResponse-egenskap. Hämtar eller anger detaljerna för körsteget"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.ai/runstepresponse/stepdetails/
 ---
-## RunStepResponse.StepDetails-egenskap
+## RunStepResponse.StepDetails property
 
-Hämtar eller ställer in detaljerna för körsteget.
+Hämtar eller anger detaljerna för körsteget.
 
 ```csharp
 public RunStepDetails StepDetails { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RunStepDetails](../../runstepdetails/)
-* klass [RunStepResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RunStepDetails](../../runstepdetails/)
+* class [RunStepResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageDate.YearComponent.YearComponent
-second_title: Aspose.PDF for .NET API Reference
-description: YearComponent-konstruktorn. Standardkonstruktorn
+title: "PageDate.YearComponent.YearComponent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "YearComponent konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pagedate.yearcomponent/yearcomponent/
 ---
-## PageDate.YearComponent-konstruktor
+## PageDate.YearComponent constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public YearComponent()
 ```
 
-### Se Även
+### Se även
 
-* klass [YearComponent](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [YearComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSources.TractorFeed
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources-fält. Representerar en traktorfodrings kontinuerlig papperskälla
+title: "PaperSources.TractorFeed"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSources fält. Representerar en traktormatad kontinuerlig papperskälla"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.printing/papersources/tractorfeed/
 ---
-## PaperSources.TractorFeed-fält
+## PaperSources.TractorFeed field
 
-Representerar en traktorfodrings kontinuerlig papperskälla.
+Representerar en traktormatningskontinuerlig papperskälla.
 
 ```csharp
 public static readonly PaperSource TractorFeed;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSource](../../papersource/)
-* klass [PaperSources](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

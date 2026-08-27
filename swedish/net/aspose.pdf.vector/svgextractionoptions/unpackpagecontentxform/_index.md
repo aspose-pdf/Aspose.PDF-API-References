@@ -1,21 +1,23 @@
 ---
-title: SvgExtractionOptions.UnpackPageContentXForm
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractionOptions-egenskap. Hämtar och ställer in en flagga som avgör om XFrom som finns på sidor ska packas upp eller inte. XFrom-element kan hamna i olika SVG-filer. Endast XForms som renderas av Do-satser från sidinnehållet packas upp. Nästlade XForms packas inte upp.
+title: "SvgExtractionOptions.UnpackPageContentXForm"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SvgExtractionOptions egenskap. Hämtar och anger en flagga som bestämmer om XFrom som hittas på sidor ska packas upp eller inte. XFrom-element kan hamna i olika SVG-filer. Endast XForms som renderas av Do‑satser från sidinnehållet packas upp. Inbäddade XForms packas inte upp."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.vector/svgextractionoptions/unpackpagecontentxform/
 ---
-## SvgExtractionOptions.UnpackPageContentXForm-egenskap
+## SvgExtractionOptions.UnpackPageContentXForm property
 
-Hämtar och ställer in en flagga som avgör om XFrom som finns på sidor ska packas upp eller inte. XFrom-element kan hamna i olika SVG-filer. Endast XForms som renderas av Do-satser från sidinnehållet packas upp. Nästlade XForms packas inte upp.
+Hämtar och anger en flagga som bestämmer om XFrom som hittas på sidor ska packas upp eller inte. XFrom‑element kan hamna i olika SVG‑filer. Endast XForms som renderas av Do‑satser från sidans innehåll packas upp. Inbäddade XForms packas inte upp.
 
 ```csharp
 public bool UnpackPageContentXForm { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SvgExtractionOptions](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber3
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. 3 kuvert 125 mm med 176 mm
+title: "PaperSizes.PrcEnvelopeNumber3"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. 3 kuvert 125 mm x 176 mm"
 type: docs
 weight: 920
 url: /sv/net/aspose.pdf.printing/papersizes/prcenvelopenumber3/
 ---
-## PaperSizes.PrcEnvelopeNumber3-fält
+## PaperSizes.PrcEnvelopeNumber3 field
 
-#3 kuvert (125 mm med 176 mm).
+#3-kuvert (125 mm x 176 mm).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber3;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

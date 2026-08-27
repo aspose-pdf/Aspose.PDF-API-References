@@ -1,21 +1,23 @@
 ---
-title: Layer.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Lager egenskap. Hämtar lager namnet
+title: "Layer.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Layer-egenskap. Hämtar lagrets namn."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/layer/name/
 ---
-## Layer.Name egenskap
+## Layer.Name property
 
-Hämtar lager namnet.
+Hämtar lagrets namn.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Layer](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

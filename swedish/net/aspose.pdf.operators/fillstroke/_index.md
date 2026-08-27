@@ -1,14 +1,14 @@
 ---
-title: Class FillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.FillStroke klass. Klass som representerar B-operatorn för att fylla och stryka en väg med hjälp av icke-noll vindningsregel
+title: "Klass FillStroke"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.FillStroke klass. Klass som representerar B-operatorn som fyller och ritar konturväg med icke-noll winding-regel"
 type: docs
-weight: 7380
+weight: 7520
 url: /sv/net/aspose.pdf.operators/fillstroke/
 ---
-## FillStroke klass
+## FillStroke class
 
-Klass som representerar B-operatorn (fyll och stryk väg med hjälp av icke-noll vindningsregel)
+Klass som representerar B-operatorn (fyll och konturera bana med icke‑noll winding‑regeln)
 
 ```csharp
 public class FillStroke : Operator
@@ -24,7 +24,7 @@ public class FillStroke : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
@@ -32,10 +32,12 @@ public class FillStroke : Operator
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/fillstroke/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
 | override [ToString](../../aspose.pdf.operators/fillstroke/tostring/)() | Returnerar textrepresentation av operatorn. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

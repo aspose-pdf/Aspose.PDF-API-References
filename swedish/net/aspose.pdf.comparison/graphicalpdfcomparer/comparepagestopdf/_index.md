@@ -1,14 +1,14 @@
 ---
-title: GraphicalPdfComparer.ComparePagesToPdf
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer-metod. Jämför sidor grafiskt. Jämförelseresultatet placeras i ett PDF-dokument
+title: "GraphicalPdfComparer.ComparePagesToPdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicalPdfComparer‑metod. Jämför sidor grafiskt. Jämförelsens resultat placeras i ett PDF‑dokument."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/
 ---
 ## ComparePagesToPdf(Page, Page, string) {#comparepagestopdf_1}
 
-Jämför sidor grafiskt. Jämförelseresultatet placeras i ett PDF-dokument.
+Jämför sidor grafiskt. Jämförelsresultatet placeras i ett PDF-dokument.
 
 ```csharp
 public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
@@ -18,26 +18,26 @@ public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
 | --- | --- | --- |
 | page1 | Page | Den första sidan. |
 | page2 | Page | Den andra sidan. |
-| resultPdfPath | String | Sökvägen till målpdf-filen. |
+| resultPdfPath | String | Sökvägen till mål‑pdf‑filen. |
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| ArgumentException | Om de sidor som jämförs har olika storlekar. Om resultPdfPath är null eller en tom sträng. |
+| ArgumentException | Om de jämförda sidorna har olika storlekar. Om resultPdfPath är null eller en tom sträng. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [GraphicalPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ComparePagesToPdf(Page, Page, Document) {#comparepagestopdf}
 
-Jämför sidor grafiskt. Jämförelseresultatet placeras i ett PDF-dokument.
+Jämför sidor grafiskt. Jämförelsresultatet placeras i ett PDF-dokument.
 
 ```csharp
 public void ComparePagesToPdf(Page page1, Page page2, Document pdfDocument)
@@ -47,18 +47,20 @@ public void ComparePagesToPdf(Page page1, Page page2, Document pdfDocument)
 | --- | --- | --- |
 | page1 | Page | Den första sidan. |
 | page2 | Page | Den andra sidan. |
-| pdfDocument | Document | PDF-dokumentinstansen. |
+| pdfDocument | Dokument | pdf-dokumentinstansen. |
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| ArgumentException | Om de sidor som jämförs har olika storlekar. |
+| ArgumentException | Om de jämförda sidorna har olika storlekar. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Document](../../../aspose.pdf/document/)
-* klass [GraphicalPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Document](../../../aspose.pdf/document/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

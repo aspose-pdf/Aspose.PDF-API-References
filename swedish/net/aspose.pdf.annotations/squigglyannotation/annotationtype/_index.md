@@ -1,12 +1,12 @@
 ---
-title: SquigglyAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: SquigglyAnnotation-egenskap. Hämtar typ av annotation
+title: "SquigglyAnnotation.AnnotationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SquigglyAnnotation egenskap. Hämtar typ av annotation"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/squigglyannotation/annotationtype/
 ---
-## SquigglyAnnotation.AnnotationType-egenskap
+## SquigglyAnnotation.AnnotationType property
 
 Hämtar typ av annotation.
 
@@ -14,9 +14,11 @@ Hämtar typ av annotation.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../annotationtype/)
 * class [SquigglyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Font.GetLastFontEmbeddingError
-second_title: Aspose.PDF for .NET API Reference
-description: Font-metod. Ett syfte med denna metod är att returnera en beskrivning av felet om ett försök att bädda in teckensnitt misslyckades. Om det inte finns några fel fall returneras en tom sträng.
+title: "Font.GetLastFontEmbeddingError"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Font‑metod. Syftet med denna metod är att returnera felbeskrivning om ett försök att bädda in teckensnittet misslyckades. Om det inte finns några fel returneras en tom sträng"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.text/font/getlastfontembeddingerror/
 ---
-## Font.GetLastFontEmbeddingError metod
+## Font.GetLastFontEmbeddingError method
 
-Ett syfte med denna metod - att returnera en beskrivning av felet om ett försök att bädda in teckensnitt misslyckades. Om det inte finns några fel fall returneras en tom sträng.
+Syftet med denna metod är att returnera en felbeskrivning om ett försök att inbädda teckensnittet misslyckades. Om det inte finns några felreturneras en tom sträng.
 
 ```csharp
 public string GetLastFontEmbeddingError()
@@ -18,8 +18,10 @@ public string GetLastFontEmbeddingError()
 
 Felbeskrivning
 
-### Se Även
+### Se även
 
-* klass [Font](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

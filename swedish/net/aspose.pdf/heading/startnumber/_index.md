@@ -1,12 +1,12 @@
 ---
-title: Heading.StartNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Heading-egenskap. Hämtar rubrikens startnummer
+title: "Heading.StartNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Heading-egenskap. Hämtar rubrikens startnummer."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/heading/startnumber/
 ---
-## Heading.StartNumber-egenskap
+## Heading.StartNumber property
 
 Hämtar rubrikens startnummer.
 
@@ -14,8 +14,10 @@ Hämtar rubrikens startnummer.
 public int StartNumber { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Heading](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

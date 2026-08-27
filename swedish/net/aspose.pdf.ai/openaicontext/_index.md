@@ -1,14 +1,14 @@
 ---
-title: Class OpenAIContext
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIContext klass. Representerar enhets-IDn relaterade till en assistent
+title: "Klass OpenAIContext"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.OpenAIContext-klass. Representerar enhets‑ID:n relaterade till en assistent"
 type: docs
-weight: 860
+weight: 920
 url: /sv/net/aspose.pdf.ai/openaicontext/
 ---
-## OpenAIContext klass
+## OpenAIContext class
 
-Representerar enhets-ID:n relaterade till en assistent.
+Representerar enhets‑ID:n relaterade till en assistent.
 
 ```csharp
 public class OpenAIContext
@@ -24,12 +24,14 @@ public class OpenAIContext
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AssistantId](../../aspose.pdf.ai/openaicontext/assistantid/) { get; set; } | Hämtar eller ställer in Assistents-ID. |
-| [FileIds](../../aspose.pdf.ai/openaicontext/fileids/) { get; set; } | Hämtar eller ställer in listan över fil-ID:n. |
-| [ThreadId](../../aspose.pdf.ai/openaicontext/threadid/) { get; set; } | Hämtar eller ställer in tråd-ID. |
-| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | Hämtar eller ställer in vektorbutikens ID. |
+| [AssistantId](../../aspose.pdf.ai/openaicontext/assistantid/) { get; set; } | Hämtar eller anger assistent‑ID. |
+| [FileIds](../../aspose.pdf.ai/openaicontext/fileids/) { get; set; } | Hämtar eller anger listan över fil‑ID:n. |
+| [ThreadId](../../aspose.pdf.ai/openaicontext/threadid/) { get; set; } | Hämtar eller anger tråd‑ID. |
+| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | Hämtar eller anger Vector Store ID. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

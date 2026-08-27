@@ -1,21 +1,23 @@
 ---
-title: Class ObjectReferenceCorruptedException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ObjectReferenceCorruptedException klass. Representerar ett undantag som kastas när en objektreferens i ett PDF-dokument visar sig vara korrupt. Det betyder att det inte finns något objekt som pekas på av länken
+title: "Klass ObjectReferenceCorruptedException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ObjectReferenceCorruptedException-klass. Representerar ett undantag som kastas när en objektreferens i ett PDF-dokument visar sig vara korrupt. Det betyder att det inte finns något objekt som länken pekar på."
 type: docs
-weight: 7040
+weight: 7180
 url: /sv/net/aspose.pdf/objectreferencecorruptedexception/
 ---
-## ObjectReferenceCorruptedException klass
+## ObjectReferenceCorruptedException class
 
-Representerar ett undantag som kastas när en objektreferens i ett PDF-dokument visar sig vara korrupt. Det betyder att det inte finns något objekt som pekas på av länken.
+Representerar ett undantag som kastas när en objektreferens i ett PDF-dokument visar sig vara korrupt. Det betyder att det inte finns något objekt som länken pekar på.
 
 ```csharp
 public class ObjectReferenceCorruptedException : PdfException
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfException](../pdfexception/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

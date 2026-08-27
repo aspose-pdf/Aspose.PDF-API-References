@@ -1,14 +1,14 @@
 ---
-title: Document.OpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in åtgärd som utförs vid dokumentöppning
+title: "Document.OpenAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar eller anger åtgärden som utförs vid dokumentöppning"
 type: docs
-weight: 390
+weight: 410
 url: /sv/net/aspose.pdf/document/openaction/
 ---
-## Document.OpenAction-egenskap
+## Document.OpenAction property
 
-Hämtar eller ställer in åtgärd som utförs vid dokumentöppning.
+Hämtar eller anger åtgärd som utförs vid dokumentets öppning.
 
 ```csharp
 public IAppointment OpenAction { get; set; }
@@ -16,16 +16,18 @@ public IAppointment OpenAction { get; set; }
 
 ## Exempel
 
-Exemplet visar hur man får CenterWindow-flaggan:
+Exempel visar hur man hämtar CenterWindow-flaggan:
 
 ```csharp
 Document document = new Document("sample.pdf");
 IAppointment value = document.OpenAction;
 ```
 
-### Se Även
+### Se även
 
 * interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

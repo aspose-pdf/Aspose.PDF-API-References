@@ -1,21 +1,23 @@
 ---
-title: TextFragmentAbsorber.Text
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber-egenskap. Hämtar extraherad text som TextAbsorber extraherar från PDF-dokumentet eller sidan
+title: "TextFragmentAbsorber.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragmentAbsorber property. Hämtar extraherad text som TextAbsorber extraherar i PDF-dokumentet eller på sidan."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/textfragmentabsorber/text/
 ---
-## TextFragmentAbsorber.Text-egenskap
+## TextFragmentAbsorber.Text property
 
-Hämtar extraherad text som [`TextAbsorber`](../../textabsorber/) extraherar från PDF-dokumentet eller sidan.
+Hämtar extraherad text som [`TextAbsorber`](../../textabsorber/) extraherar i PDF-dokumentet eller på sidan.
 
 ```csharp
 public override string Text { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragmentAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: RadioButtonOptionField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonOptionField-egenskap. Hämtar eller ställer in stil för kryssruta
+title: "RadioButtonOptionField.Style"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RadioButtonOptionField egenskap. Hämtar eller anger stil för kryssruta"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/radiobuttonoptionfield/style/
 ---
-## RadioButtonOptionField.Style-egenskap
+## RadioButtonOptionField.Style property
 
-Hämtar eller ställer in stil för kryssruta.
+Hämtar eller anger stil för kryssruta.
 
 ```csharp
 public BoxStyle Style { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [BoxStyle](../../boxstyle/)
 * class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

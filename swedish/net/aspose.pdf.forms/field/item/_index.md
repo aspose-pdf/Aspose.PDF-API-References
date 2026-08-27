@@ -1,14 +1,14 @@
 ---
-title: Field.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Fält egenskap. Hämtar underfält som ingår i detta fält med namn på underfältet
+title: "Field.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Fält egenskap. Hämtar underfält som finns i detta fält enligt underfältets namn"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.forms/field/item/
 ---
-## Fält indexer (1 av 2)
+## Field indexer (1 of 2)
 
-Hämtar underfält som ingår i detta fält med namn på underfältet.
+Hämtar underfält som finns i detta fält enligt underfältets namn.
 
 ```csharp
 public WidgetAnnotation this[string name] { get; }
@@ -16,24 +16,24 @@ public WidgetAnnotation this[string name] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| name | Innehållet underfält namn. |
+| namn | Inkluderat underfält namn. |
 
 ### Returvärde
 
 Fältinstans.
 
-### Se Även
+### Se även
 
-* klass [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Fält indexer (2 av 2)
+## Field indexer (2 of 2)
 
-Hämtar underfält som ingår i detta fält med index.
+Hämtar underfält som finns i detta fält enligt index.
 
 ```csharp
 public WidgetAnnotation this[int index] { get; }
@@ -47,9 +47,11 @@ public WidgetAnnotation this[int index] { get; }
 
 Fältinstans.
 
-### Se Även
+### Se även
 
-* klass [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

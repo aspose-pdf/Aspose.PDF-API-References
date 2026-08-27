@@ -1,14 +1,14 @@
 ---
-title: Document.GetObjectById
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Hämtar ett objekt med angivet ID i dokumentet
+title: "Document.GetObjectById"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Hämtar ett objekt med angivet ID i dokumentet"
 type: docs
-weight: 680
+weight: 700
 url: /sv/net/aspose.pdf/document/getobjectbyid/
 ---
-## Document.GetObjectById metod
+## Document.GetObjectById method
 
-Hämtar ett objekt med angivet ID i dokumentet.
+Hämtar ett objekt med specificerat ID i document.
 
 ```csharp
 public object GetObjectById(string id)
@@ -16,14 +16,16 @@ public object GetObjectById(string id)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| id | Sträng | Objektets ID. |
+| id | String | Objektets ID. |
 
 ### Returvärde
 
 Objektet med angivet ID. Null om ID:t inte hittas.
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

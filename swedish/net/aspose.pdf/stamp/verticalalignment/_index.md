@@ -1,22 +1,24 @@
 ---
-title: Stamp.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Hämtar eller ställer in vertikal justering av stämpel på sidan
+title: "Stamp.VerticalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp‑egenskap. Hämtar eller anger vertikal justering av stamp på sidan"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/stamp/verticalalignment/
 ---
-## Stamp.VerticalAlignment-egenskap
+## Stamp.VerticalAlignment property
 
-Hämtar eller ställer in vertikal justering av stämpel på sidan.
+Hämtar eller anger vertikal justering av stämpeln på sidan.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [VerticalAlignment](../../verticalalignment/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

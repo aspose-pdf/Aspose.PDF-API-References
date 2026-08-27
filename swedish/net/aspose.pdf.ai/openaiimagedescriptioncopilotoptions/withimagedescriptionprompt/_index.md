@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions-metod. Ställer in prompten för bildbeskrivningskopilotalternativen
+title: "OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIImageDescriptionCopilotOptions metod. Anger prompten för bildbeskrivnings copilot‑alternativen"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedescriptionprompt/
 ---
-## OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt metod
+## OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt method
 
-Ställer in prompten för bildbeskrivningskopilotalternativen.
+Ställer in prompten för alternativen för bildbeskrivnings‑copilot.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithImageDescriptionPrompt(
@@ -17,14 +17,16 @@ public OpenAIImageDescriptionCopilotOptions WithImageDescriptionPrompt(
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageDescriptionPrompt | Sträng | Den bildbeskrivningsprompt som ska ställas in. |
+| imageDescriptionPrompt | String | Bildbeskrivnings‑prompten att ange. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIImageDescriptionCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

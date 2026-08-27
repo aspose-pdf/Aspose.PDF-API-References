@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary-metod. Kopierar elementen i ordboken till en Array som börjar vid ett visst Array-index
+title: "AppearanceDictionary.CopyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AppearanceDictionary-metod. Kopierar elementen i ordboken till en array med start vid ett specifikt arrayindex."
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.annotations/appearancedictionary/copyto/
 ---
 ## CopyTo(XForm[], int) {#copyto}
 
-Kopierar elementen i ordboken till en Array, som börjar vid ett visst Array-index.
+Kopierar elementen i ordboken till en array, med start vid ett specifikt array‑index.
 
 ```csharp
 public void CopyTo(XForm[] array, int index)
@@ -19,11 +19,11 @@ public void CopyTo(XForm[] array, int index)
 | array | XForm[] | Array där objekt måste kopieras. |
 | index | Int32 | Index där objekt måste kopieras. |
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -34,9 +34,11 @@ public void CopyTo(XForm[] array, int index)
 public void CopyTo(KeyValuePair<string, XForm>[] array, int arrayIndex)
 ```
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: GradientAxialShading.End
-second_title: Aspose.PDF for .NET API Reference
-description: GradientAxialShading egenskap. Hämtar eller ställer in slutpunkt
+title: "GradientAxialShading.End"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GradientAxialShading-egenskap. Hämtar eller anger slutpunkt"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.drawing/gradientaxialshading/end/
 ---
-## GradientAxialShading.End egenskap
+## GradientAxialShading.End property
 
-Hämtar eller ställer in slutpunkt.
+Hämtar eller anger slutpunkt.
 
 ```csharp
 public Point End { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../../../aspose.pdf/point/)
-* klass [GradientAxialShading](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientAxialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

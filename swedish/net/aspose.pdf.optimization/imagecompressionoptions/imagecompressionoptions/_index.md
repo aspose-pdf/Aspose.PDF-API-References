@@ -1,21 +1,23 @@
 ---
-title: ImageCompressionOptions.ImageCompressionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ImageCompressionOptions-konstruktorn. Den förvalda konstruktorn
+title: "ImageCompressionOptions.ImageCompressionOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageCompressionOptions-konstruktör. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.optimization/imagecompressionoptions/imagecompressionoptions/
 ---
-## ImageCompressionOptions-konstruktorn
+## ImageCompressionOptions constructor
 
-Den förvalda konstruktorn.
+Standardkonstruktorn.
 
 ```csharp
 public ImageCompressionOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageCompressionOptions](../)
-* namnrymd [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ImageCompressionOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

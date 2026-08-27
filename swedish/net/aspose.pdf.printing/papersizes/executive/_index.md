@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Executive
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. Executive-papper 7.25 tum x 10.5 tum
+title: "PaperSizes.Executive"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. Executive-papper 7,25 tum x 10,5 tum"
 type: docs
 weight: 410
 url: /sv/net/aspose.pdf.printing/papersizes/executive/
 ---
-## PaperSizes.Executive-fält
+## PaperSizes.Executive field
 
-Executive-papper (7.25 tum x 10.5 tum).
+Executive-papper (7,25 tum x 10,5 tum).
 
 ```csharp
 public static readonly PaperSize Executive;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

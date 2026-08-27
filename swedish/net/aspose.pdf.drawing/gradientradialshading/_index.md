@@ -1,12 +1,12 @@
 ---
-title: Class GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.GradientRadialShading klass. Representerar gradient radial skuggtyp
+title: "Klass GradientRadialShading"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Drawing.GradientRadialShading-klass. Representerar gradientradial skuggningstyp"
 type: docs
-weight: 3930
+weight: 4050
 url: /sv/net/aspose.pdf.drawing/gradientradialshading/
 ---
-## GradientRadialShading klass
+## GradientRadialShading class
 
 Representerar gradient radial skuggtyp.
 
@@ -18,22 +18,24 @@ public class GradientRadialShading : PatternColorSpace
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GradientRadialShading](gradientradialshading/#constructor)() | Initierar en ny instans av klassen `GradientRadialShading`. |
-| [GradientRadialShading](gradientradialshading/#constructor_1)(Color, Color) | Initierar en ny instans av klassen `GradientRadialShading`. |
+| [GradientRadialShading](gradientradialshading/#constructor)() | Initierar en ny instans av `GradientRadialShading`-klassen. |
+| [GradientRadialShading](gradientradialshading/#constructor_1)(Color, Color) | Initierar en ny instans av `GradientRadialShading`-klassen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [End](../../aspose.pdf.drawing/gradientradialshading/end/) { get; set; } | Hämtar eller ställer in slutcirkelns mittpunkt. |
-| [EndColor](../../aspose.pdf.drawing/gradientradialshading/endcolor/) { get; set; } | Hämtar eller ställer in slutfärg. |
-| [EndingRadius](../../aspose.pdf.drawing/gradientradialshading/endingradius/) { get; set; } | Hämtar eller ställer in slutcirkelns radie. |
-| [Start](../../aspose.pdf.drawing/gradientradialshading/start/) { get; set; } | Hämtar eller ställer in startcirkelns mittpunkt. |
-| [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor/) { get; set; } | Hämtar eller ställer in startfärg. |
-| [StartingRadius](../../aspose.pdf.drawing/gradientradialshading/startingradius/) { get; set; } | Hämtar eller ställer in startcirkelns radie. |
+| [End](../../aspose.pdf.drawing/gradientradialshading/end/) { get; set; } | Hämtar eller anger slutcirkeln centrumpunkt. |
+| [EndColor](../../aspose.pdf.drawing/gradientradialshading/endcolor/) { get; set; } | Hämtar eller anger slutfärg. |
+| [EndingRadius](../../aspose.pdf.drawing/gradientradialshading/endingradius/) { get; set; } | Hämtar eller anger slutcirkeln radie. |
+| [Start](../../aspose.pdf.drawing/gradientradialshading/start/) { get; set; } | Hämtar eller anger startcirkeln centrumpunkt. |
+| [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor/) { get; set; } | Hämtar eller anger startfärg. |
+| [StartingRadius](../../aspose.pdf.drawing/gradientradialshading/startingradius/) { get; set; } | Hämtar eller anger startcirkeln radie. |
 
-### Se Även
+### Se även
 
-* klass [PatternColorSpace](../patterncolorspace/)
-* namnrymd [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* sammansättning [Aspose.PDF](../../)
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

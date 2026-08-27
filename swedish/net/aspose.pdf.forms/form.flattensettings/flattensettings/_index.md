@@ -1,12 +1,12 @@
 ---
-title: Form.FlattenSettings.FlattenSettings
-second_title: Aspose.PDF for .NET API Reference
-description: FlattenSettings-konstruktorn. Standardkonstruktorn
+title: "Form.FlattenSettings.FlattenSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FlattenSettings-konstruktör. Standardkonstruktören."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/form.flattensettings/flattensettings/
 ---
-## Form.FlattenSettings-konstruktorn
+## Form.FlattenSettings constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public FlattenSettings()
 ```
 
-### Se Även
+### Se även
 
-* klass [FlattenSettings](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [FlattenSettings](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

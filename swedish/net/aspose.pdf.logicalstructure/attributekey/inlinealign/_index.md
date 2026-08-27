@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.InlineAlign
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. InlineAlign-attribut Layout-attribut ägare
+title: "AttributeKey.InlineAlign"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. InlineAlign attribut Layout-attributägare"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/inlinealign/
 ---
-## AttributeKey.InlineAlign-fält
+## AttributeKey.InlineAlign field
 
-InlineAlign-attribut (Layout-attribut ägare).
+InlineAlign-attribut (Layout-attributägare).
 
 ```csharp
 public static readonly AttributeKey InlineAlign;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

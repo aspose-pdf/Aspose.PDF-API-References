@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.Builder.WithProject
-second_title: Aspose.PDF for .NET API Reference
-description: Byggmetod. Ställer in projekt-ID för klienten
+title: "OpenAIClient.Builder.WithProject"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Builder-metod. Ställer in projekt-ID för klienten"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/openaiclient.builder/withproject/
 ---
-## OpenAIClient.Builder.WithProject metod
+## OpenAIClient.Builder.WithProject method
 
 Ställer in projekt-ID för klienten.
 
@@ -16,14 +16,16 @@ public Builder WithProject(string projectId)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| projectId | Sträng | Projekt-ID att ställa in. |
+| projectId | String | Projekt-ID att ställa in. |
 
 ### Returvärde
 
 Den aktuella instansen av [`Builder`](../).
 
-### Se Även
+### Se även
 
-* klass [Builder](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

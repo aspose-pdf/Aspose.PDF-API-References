@@ -1,14 +1,14 @@
 ---
-title: Artifact.BeginUpdates
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-metod. Starta fördröjda uppdateringar. Använd denna funktion om du behöver göra flera ändringar i samma artefakt för att förbättra prestanda. Vanligtvis ändras artefaktoperatörer varje gång en artefaktens egenskap ändras. Detta orsakar en förändring av sidinnehållet varje gång artefakten ändras. För att undvika denna effekt, placera alla artefaktuppdateringar mellan StartUpdates/SaveUpdates-anrop. Detta gör att sidinnehållet endast kan ändras en gång.
+title: "Artifact.BeginUpdates"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact metod. Starta fördröjda uppdateringar. Använd den här funktionen om du behöver göra flera ändringar av samma artefakt för att förbättra prestanda. Vanligtvis ändras artefaktoperatorer när som helst när artefaktens egenskap har ändrats. Detta orsakar förändring av sidinnehåll varje gång artefakten ändras. För att undvika denna effekt, placera alla artefaktuppdateringar mellan StartUpdates/SaveUpdates-anrop. Detta möjliggör att sidinnehållet bara ändras en gång."
 type: docs
 weight: 230
 url: /sv/net/aspose.pdf/artifact/beginupdates/
 ---
-## Artifact.BeginUpdates metod
+## Artifact.BeginUpdates method
 
-Starta fördröjda uppdateringar. Använd denna funktion om du behöver göra flera ändringar i samma artefakt för att förbättra prestanda. Vanligtvis ändras artefaktoperatörer varje gång en artefaktens egenskap ändras. Detta orsakar en förändring av sidinnehållet varje gång artefakten ändras. För att undvika denna effekt, placera alla artefaktuppdateringar mellan StartUpdates/SaveUpdates-anrop. Detta gör att sidinnehållet endast kan ändras en gång.
+Starta försenade uppdateringar. Använd den här funktionen om du behöver göra flera ändringar av samma artefakt för att förbättra prestanda. Vanligtvis ändras artefaktoperatorer varje gång en artefakt‑egenskap ändras. Detta leder till att sidans innehåll ändras varje gång artefakten ändras. För att undvika detta, placera alla artefaktuppdateringar mellan anropen StartUpdates/SaveUpdates. Detta möjliggör att sidans innehåll bara ändras en gång.
 
 ```csharp
 public void BeginUpdates()
@@ -25,8 +25,10 @@ art.Rotation = 30;
 art.SaveUpdates();
 ```
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

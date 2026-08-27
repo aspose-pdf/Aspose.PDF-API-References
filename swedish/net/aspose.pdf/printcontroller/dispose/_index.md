@@ -1,21 +1,23 @@
 ---
-title: PrintController.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController-metod. Avyttra
+title: "PrintController.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrintController‑metod. Dispose"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/printcontroller/dispose/
 ---
-## PrintController.Dispose metod
+## PrintController.Dispose method
 
-Dispose.
+Avsluta.
 
 ```csharp
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [PrintController](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FloatingBox.Left
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox-egenskap. Hämtar eller ställer in tabellens vänstra koordinat
+title: "FloatingBox.Left"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FloatingBox-egenskap. Hämtar eller anger tabellens vänstra koordinat"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/floatingbox/left/
 ---
-## FloatingBox.Left-egenskap
+## FloatingBox.Left property
 
-Hämtar eller ställer in tabellens vänstra koordinat.
+Hämtar eller anger tabellens vänstra koordinat.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FloatingBox](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: TeXLoadOptions.InputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: TeXLoadOptions-egenskap. Hämtar/anger TeX inmatningskatalog
+title: "TeXLoadOptions.InputDirectory"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXLoadOptions egenskap. Hämtar/sätter TeX-indatakatalog"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/texloadoptions/inputdirectory/
 ---
-## TeXLoadOptions.InputDirectory-egenskap
+## TeXLoadOptions.InputDirectory property
 
-Hämtar/anger TeX inmatningskatalog.
+Hämtar/sätter TeX‑indatakatalog.
 
 ```csharp
 public ITeXInputDirectory InputDirectory { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * interface [ITeXInputDirectory](../../itexinputdirectory/)
 * class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

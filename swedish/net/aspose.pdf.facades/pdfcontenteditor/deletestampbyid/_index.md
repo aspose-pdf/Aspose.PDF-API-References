@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DeleteStampById
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Tar bort stämpel på den angivna sidan med stämpel-ID
+title: "PdfContentEditor.DeleteStampById"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor‑metod. Tar bort stämpel på den angivna sidan med stämpel‑ID."
 type: docs
 weight: 340
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyid/
 ---
 ## DeleteStampById(int, int) {#deletestampbyid_1}
 
-Tar bort stämpel på den angivna sidan med stämpel-ID.
+Tar bort stämpel på den angivna sidan efter stämpel-ID.
 
 ```csharp
 public void DeleteStampById(int pageNumber, int stampId)
@@ -17,7 +17,7 @@ public void DeleteStampById(int pageNumber, int stampId)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | pageNumber | Int32 | Sidnummer där stämpeln kommer att tas bort. |
-| stampId | Int32 | Identifierare för stämpeln som ska tas bort. |
+| stampId | Int32 | Identifierare för stanp som ska tas bort. |
 
 ## Exempel
 
@@ -28,17 +28,17 @@ contentEditor.DeleteStampById(1, 100);
 contentEditor.Save("outfile.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DeleteStampById(int) {#deletestampbyid}
 
-Ta bort stämpel med ID från alla sidor i dokumentet.
+Ta bort stämpel efter ID från alla sidor i dokumentet.
 
 ```csharp
 public void DeleteStampById(int stampId)
@@ -46,7 +46,7 @@ public void DeleteStampById(int stampId)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stampId | Int32 | Identifierare för stämpeln som ska tas bort. |
+| stampId | Int32 | Identifierare för stämpel som ska tas bort. |
 
 ## Exempel
 
@@ -57,8 +57,10 @@ contentEditor.DeleteStampById(100);
 contentEditor.Save("outfile.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

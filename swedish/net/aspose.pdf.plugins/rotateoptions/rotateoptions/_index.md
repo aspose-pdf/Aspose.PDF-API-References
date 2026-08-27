@@ -1,12 +1,12 @@
 ---
-title: RotateOptions.RotateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: RotateOptions-konstruktorn. Standardkonstruktorn
+title: "RotateOptions.RotateOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RotateOptions konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/rotateoptions/rotateoptions/
 ---
-## RotateOptions-konstruktorn
+## RotateOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public RotateOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [RotateOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RotateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

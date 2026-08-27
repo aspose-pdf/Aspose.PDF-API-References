@@ -1,12 +1,12 @@
 ---
-title: Rectangle.URX
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-egenskap. X-koordinat för övre högra hörnet
+title: "Rectangle.URX"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-egenskap. X-koordinat för övre högra hörnet"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/rectangle/urx/
 ---
-## Rectangle.URX-egenskap
+## Rectangle.URX property
 
 X-koordinat för övre högra hörnet.
 
@@ -14,8 +14,10 @@ X-koordinat för övre högra hörnet.
 public double URX { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

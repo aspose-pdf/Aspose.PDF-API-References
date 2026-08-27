@@ -1,21 +1,23 @@
 ---
-title: GraphInfo.DashArray
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo-egenskap. Hämtar eller ställer in en dash-array
+title: "GraphInfo.DashArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphInfo-egenskap. Hämtar eller anger en streckarray"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/graphinfo/dasharray/
 ---
-## GraphInfo.DashArray-egenskap
+## GraphInfo.DashArray property
 
-Hämtar eller ställer in en dash-array.
+Hämtar eller anger en streckarray.
 
 ```csharp
 public int[] DashArray { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

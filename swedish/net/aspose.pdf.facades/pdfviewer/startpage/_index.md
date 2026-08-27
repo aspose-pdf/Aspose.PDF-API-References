@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.StartPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-händelse. Inträffar innan en sida börjar skrivas ut
+title: "PdfViewer.StartPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer‑händelse. Uppstår innan en sida börjar skrivas ut."
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.facades/pdfviewer/startpage/
 ---
-## PdfViewer.StartPage-händelse
+## PdfViewer.StartPage event
 
 Inträffar innan en sida börjar skrivas ut.
 
@@ -14,13 +14,15 @@ Inträffar innan en sida börjar skrivas ut.
 public event EventHandler<StartEndPageEventArgs> StartPage;
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Denna händelse utlöses för varje sida som ska skrivas ut. Den kan användas för att utföra anpassade åtgärder innan utskriften av sidan börjar.
+Denna händelse utlöses för varje sida som håller på att skrivas ut. Den kan användas för att utföra anpassade åtgärder innan sidutskriften startar.
 
-### Se Även
+### Se även
 
-* klass [StartEndPageEventArgs](../../../aspose.pdf.printing/startendpageeventargs/)
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [StartEndPageEventArgs](../../../aspose.pdf.printing/startendpageeventargs/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

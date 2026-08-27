@@ -1,14 +1,14 @@
 ---
-title: Class SetDash
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetDash klass. Klass som representerar d operator set line dash-mönster
+title: "Klass SetDash"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetDash class. Klass som representerar d-operatorn för att sätta linjestreckmönster"
 type: docs
-weight: 7690
+weight: 7830
 url: /sv/net/aspose.pdf.operators/setdash/
 ---
-## SetDash klass
+## SetDash class
 
-Klass som representerar d operator (set line dash-mönster).
+Klass som representerar d-operatorn (ställer in streckmönster för linje).
 
 ```csharp
 public class SetDash : Operator
@@ -18,26 +18,28 @@ public class SetDash : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SetDash](setdash/)(int[], int) | Skapar set dash-mönsteroperator. |
+| [SetDash](setdash/)(int[], int) | Skapar operator för att sätta streckmönster. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatörens index i sidans operatörslista. |
-| [Pattern](../../aspose.pdf.operators/setdash/pattern/) { get; set; } | Dash-mönster. Arrayens element ska vara siffror som specificerar längderna på växlande streck och luckor. I fallet med en element-array är längderna på streck och luckor lika. |
-| [Phase](../../aspose.pdf.operators/setdash/phase/) { get; set; } | Dash-fas. Innan man börjar stryka en väg ska dash-arrayen cyklas igenom, och längderna på strecken och luckorna ska adderas. När den ackumulerade längden är lika med det värde som specificeras av dash-fasen, ska strykningen av vägen börja, och dash-arrayen ska användas cykliskt från den punkten och framåt. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [Pattern](../../aspose.pdf.operators/setdash/pattern/) { get; set; } | Streckmönster. Arrayens element ska vara tal som specificerar längderna på alternerande streck och mellanrum. Om arrayen har ett element är streck- och mellanrumslängderna lika. |
+| [Phase](../../aspose.pdf.operators/setdash/phase/) { get; set; } | Streckfas. Innan en bana sträcks, ska streckarrayen cyklas igenom och summan av streck- och mellanrumslängderna beräknas. När den ackumulerade längden motsvarar värdet som anges av streckfasen, ska sträckning av banan påbörjas, och streckarrayen ska användas cykliskt från den punkten och framåt. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setdash/accept/)(IOperatorSelector) | Accepterar besöksobjekt för att bearbeta operatören. |
-| override [ToString](../../aspose.pdf.operators/setdash/tostring/)() | Hämtar operatörens strängrepresentation. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| override [Accept](../../aspose.pdf.operators/setdash/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
+| override [ToString](../../aspose.pdf.operators/setdash/tostring/)() | Hämtar operatorns strängrepresentation. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

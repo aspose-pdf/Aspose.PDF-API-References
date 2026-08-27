@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.ItalyEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. Italien kuvert 110 mm med 230 mm
+title: "PaperSizes.ItalyEnvelope"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. Italienskt kuvert 110 mm x 230 mm"
 type: docs
 weight: 470
 url: /sv/net/aspose.pdf.printing/papersizes/italyenvelope/
 ---
-## PaperSizes.ItalyEnvelope fält
+## PaperSizes.ItalyEnvelope field
 
-Italien kuvert (110 mm med 230 mm).
+Italienskt kuvert (110 mm by 230 mm).
 
 ```csharp
 public static readonly PaperSize ItalyEnvelope;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

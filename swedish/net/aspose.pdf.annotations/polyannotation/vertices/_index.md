@@ -1,22 +1,24 @@
 ---
-title: PolyAnnotation.Vertices
-second_title: Aspose.PDF for .NET API Reference
-description: PolyAnnotation-egenskap. Hämtar eller ställer in en array av punkter som representerar de horisontella och vertikala koordinaterna för varje hörn
+title: "PolyAnnotation.Vertices"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PolyAnnotation-egenskap. Hämtar eller anger en array av punkter som representerar de horisontella och vertikala koordinaterna för varje hörn"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/polyannotation/vertices/
 ---
-## PolyAnnotation.Vertices-egenskap
+## PolyAnnotation.Vertices property
 
-Hämtar eller ställer in en array av punkter som representerar de horisontella och vertikala koordinaterna för varje hörn.
+Hämtar eller anger en array av punkter som representerar de horisontella och vertikala koordinaterna för varje hörn.
 
 ```csharp
 public Point[] Vertices { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../../../aspose.pdf/point/)
-* klass [PolyAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Point](../../../aspose.pdf/point/)
+* class [PolyAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

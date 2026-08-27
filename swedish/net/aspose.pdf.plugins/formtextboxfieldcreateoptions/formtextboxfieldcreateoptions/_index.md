@@ -1,14 +1,14 @@
 ---
-title: FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldCreateOptions-konstruktorn. Initierar en ny instans av objektet FormTextBoxFieldCreateOptions som innehåller parametrar för skapad och tillagd TextBoxField
+title: "FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormTextBoxFieldCreateOptions konstruktor. Initierar en ny instans av FormTextBoxFieldCreateOptions-objektet som innehåller parametrar för skapad och tillagd TextBoxField"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/formtextboxfieldcreateoptions/
 ---
-## FormTextBoxFieldCreateOptions-konstruktorn
+## FormTextBoxFieldCreateOptions constructor
 
-Initierar en ny instans av objektet [`FormTextBoxFieldCreateOptions`](../), som innehåller parametrar för skapad och tillagd TextBoxField.
+Initierar en ny instans av [`FormTextBoxFieldCreateOptions`](../)-objektet, som innehåller parametrar för skapad och tillagd TextBoxField.
 
 ```csharp
 public FormTextBoxFieldCreateOptions(int pageNum, Rectangle rect)
@@ -19,9 +19,11 @@ public FormTextBoxFieldCreateOptions(int pageNum, Rectangle rect)
 | pageNum | Int32 | Sidnummer där den tillagda TextBoxField kommer att placeras. |
 | rect | Rectangle | Ställer in TextBoxField-rektangeln. |
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [FormTextBoxFieldCreateOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormTextBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Stamp.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Vertikal stämpelkoordinat som börjar från botten
+title: "Stamp.YIndent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp‑egenskap. Vertikal stamp‑koordinat med början från botten"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf/stamp/yindent/
 ---
-## Stamp.YIndent-egenskap
+## Stamp.YIndent property
 
-Vertikal stämpelkoordinat, som börjar från botten.
+Vertikal stämpelkoordinat, räknat från botten.
 
 ```csharp
 public virtual double YIndent { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

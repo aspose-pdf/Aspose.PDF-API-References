@@ -1,21 +1,23 @@
 ---
-title: Form.FlattenSettings.UpdateAppearances
-second_title: Aspose.PDF for .NET API Reference
-description: FlattenSettings-egenskap. Om den är inställd kommer alla fältutseenden att regenereras innan de plattas ut. Det här alternativet kan hjälpa om fältet är felaktigt plattat. Det här alternativet kan minska prestandan. Som standard är det inställt på false
+title: "Form.FlattenSettings.UpdateAppearances"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FlattenSettings-egenskap. Om den är satt kommer alla fältutseenden att återskapas innan plattläggning. Detta alternativ kan hjälpa om fältet plattläggs felaktigt. Detta alternativ kan minska prestanda. Som standard är den falsk."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/form.flattensettings/updateappearances/
 ---
-## Form.FlattenSettings.UpdateAppearances-egenskap
+## Form.FlattenSettings.UpdateAppearances property
 
-Om den är inställd kommer alla fältutseenden att regenereras innan de plattas ut. Det här alternativet kan hjälpa om fältet är felaktigt plattat. Det här alternativet kan minska prestandan. Som standard är det inställt på false.
+Om satt, kommer alla fältutseenden att återskapas innan plattning. Detta alternativ kan hjälpa om ett fält har plattats felaktigt. Detta alternativ kan minska prestandan. Som standard är det satt till false.
 
 ```csharp
 public bool UpdateAppearances { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FlattenSettings](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [FlattenSettings](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

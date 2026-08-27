@@ -1,21 +1,23 @@
 ---
-title: TextParagraph.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph-egenskap. Hämtar eller ställer in rotationsvinkel i grader
+title: "TextParagraph.Rotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextParagraph-egenskap. Hämtar eller anger rotationsvinkeln i grader"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.text/textparagraph/rotation/
 ---
-## TextParagraph.Rotation-egenskap
+## TextParagraph.Rotation property
 
-Hämtar eller ställer in rotationsvinkel i grader.
+Hämtar eller anger rotationsvinkeln i grader.
 
 ```csharp
 public double Rotation { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextParagraph](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

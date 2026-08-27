@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection metod. Tar bort angiven post från samlingen
+title: "ImagePlacementCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacementCollection metod. Raderar angivet objekt från samlingen"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/imageplacementcollection/remove/
 ---
-## ImagePlacementCollection.Remove metod
+## ImagePlacementCollection.Remove method
 
-Tar bort angiven post från samlingen
+Tar bort specificerat objekt från samlingen
 
 ```csharp
 public bool Remove(ImagePlacement item)
@@ -16,15 +16,17 @@ public bool Remove(ImagePlacement item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | ImagePlacement | Post att ta bort |
+| item | ImagePlacement | Objekt att radera |
 
 ### Returvärde
 
-true om posten togs bort; annars, false.
+true om objektet raderades; annars false.
 
-### Se Även
+### Se även
 
-* klass [ImagePlacement](../../imageplacement/)
-* klass [ImagePlacementCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

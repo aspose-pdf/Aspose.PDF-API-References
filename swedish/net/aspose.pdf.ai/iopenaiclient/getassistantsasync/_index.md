@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.GetAssistantsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Hämtar en lista över assistenter asynkront
+title: "IOpenAIClient.GetAssistantsAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Hämtar en lista över assistenter asynkront"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.ai/iopenaiclient/getassistantsasync/
 ---
-## IOpenAIClient.GetAssistantsAsync metod
+## IOpenAIClient.GetAssistantsAsync method
 
 Hämtar en lista över assistenter asynkront.
 
@@ -18,17 +18,19 @@ public Task<AssistantListResponse> GetAssistantsAsync(
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| queryParameters | AssistantListQueryParameters | Valfria frågeparametrar för att filtrera listan över assistenter. |
+| queryParameters | AssistantListQueryParameters | Valfria frågeparametrar för att filtrera listan med assistenter. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller listan över assistenter.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller listan med assistenter.
 
-### Se Även
+### Se även
 
-* klass [AssistantListResponse](../../assistantlistresponse/)
-* klass [AssistantListQueryParameters](../../assistantlistqueryparameters/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [AssistantListResponse](../../assistantlistresponse/)
+* class [AssistantListQueryParameters](../../assistantlistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

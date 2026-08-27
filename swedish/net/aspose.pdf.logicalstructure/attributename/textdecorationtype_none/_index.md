@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextDecorationType_None
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut TextDecorationType Ingen  Ingen textdekoration
+title: "AttributeName.TextDecorationType_None"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-fält. Attribut TextDecorationType None  Ingen textdekoration"
 type: docs
 weight: 600
 url: /sv/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_none/
 ---
-## AttributeName.TextDecorationType_None fält
+## AttributeName.TextDecorationType_None field
 
-Attribut TextDecorationType: Ingen - Ingen textdekoration.
+Attribut TextDecorationType: None - Ingen textdekoration.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_None;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

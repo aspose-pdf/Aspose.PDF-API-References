@@ -1,21 +1,23 @@
 ---
-title: RenderingOptions.OptimizeDimensions
-second_title: Aspose.PDF for .NET API Reference
-description: RenderingOptions-egenskap. Hämtar eller ställer in läget för att optimera dimensioner
+title: "RenderingOptions.OptimizeDimensions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RenderingOptions property. Hämtar eller anger läge för optimering av dimensioner"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/renderingoptions/optimizedimensions/
 ---
-## RenderingOptions.OptimizeDimensions-egenskap
+## RenderingOptions.OptimizeDimensions property
 
-Hämtar eller ställer in läget för att optimera dimensioner.
+Hämtar eller anger läge för optimering av dimensioner.
 
 ```csharp
 public bool OptimizeDimensions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RenderingOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

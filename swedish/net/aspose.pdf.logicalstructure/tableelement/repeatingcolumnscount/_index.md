@@ -1,21 +1,23 @@
 ---
-title: TableElement.RepeatingColumnsCount
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement-egenskap. Hämtar eller ställer in det maximala antalet kolumner för tabellen
+title: "TableElement.RepeatingColumnsCount"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableElement egenskap. Hämtar eller anger maximalt antal kolumner för tabellen"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.logicalstructure/tableelement/repeatingcolumnscount/
 ---
-## TableElement.RepeatingColumnsCount-egenskap
+## TableElement.RepeatingColumnsCount property
 
-Hämtar eller ställer in det maximala antalet kolumner för tabellen.
+Hämtar eller anger maximalt antal kolumner för tabellen.
 
 ```csharp
 public int RepeatingColumnsCount { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TableElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

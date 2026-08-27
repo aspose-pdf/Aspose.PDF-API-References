@@ -1,21 +1,23 @@
 ---
-title: Bookmark.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Bokmärke egenskap. Hämtar eller ställer in antalet bokmärkes destinationssida
+title: "Bookmark.PageNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Bookmark-egenskap. Hämtar eller anger antalet bokmärkenas destinationssida"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.facades/bookmark/pagenumber/
 ---
-## Bokmärke.Sidnummer egenskap
+## Bookmark.PageNumber property
 
-Hämtar eller ställer in antalet bokmärkes destinationssida.
+Hämtar eller anger numret på bokmärkets destinationssida.
 
 ```csharp
 public int PageNumber { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Bokmärke](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

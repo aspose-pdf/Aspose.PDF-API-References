@@ -1,21 +1,23 @@
 ---
-title: Metadata.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-egenskap. Hämtar samling av metadata nycklar
+title: "Metadata.Keys"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata-egenskap. Hämtar samling av metadata-nycklar"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/metadata/keys/
 ---
-## Metadata.Keys-egenskap
+## Metadata.Keys property
 
-Hämtar samling av metadata nycklar.
+Hämtar samling av metadata-nycklar.
 
 ```csharp
 public ICollection<string> Keys { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

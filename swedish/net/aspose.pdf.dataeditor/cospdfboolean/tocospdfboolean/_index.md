@@ -1,14 +1,14 @@
 ---
-title: CosPdfBoolean.ToCosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean-metod. Försöker omvandla denna instans till CosPdfBoolean
+title: "CosPdfBoolean.ToCosPdfBoolean"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfBoolean-metod. Försöker kasta denna instans till CosPdfBoolean"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.dataeditor/cospdfboolean/tocospdfboolean/
 ---
-## CosPdfBoolean.ToCosPdfBoolean metod
+## CosPdfBoolean.ToCosPdfBoolean method
 
-Försöker omvandla denna instans till [`CosPdfBoolean`](../).
+Försöker kasta denna instans till [`CosPdfBoolean`](../).
 
 ```csharp
 public override CosPdfBoolean ToCosPdfBoolean()
@@ -18,8 +18,10 @@ public override CosPdfBoolean ToCosPdfBoolean()
 
 null om instansen inte är [`CosPdfBoolean`](../) annars [`CosPdfBoolean`](../).
 
-### Se Även
+### Se även
 
-* klass [CosPdfBoolean](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

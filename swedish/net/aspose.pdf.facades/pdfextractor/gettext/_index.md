@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor metod. Sparar text till fil. se ävenExtractText
+title: "PdfExtractor.GetText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-metod. Sparar text till fil. se även ExtractText"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/pdfextractor/gettext/
@@ -16,12 +16,12 @@ public void GetText(string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFile | Sträng | Filvägen och namnet för att spara texten. |
+| outputFile | String | Filens sökväg och namn för att spara texten. |
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,12 +36,12 @@ public void GetText(Stream outputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputStream | Ström | Strömmen för att spara texten. |
+| outputStream | Stream | Strömmen för att spara texten. |
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -56,11 +56,13 @@ public void GetText(Stream outputStream, bool filterNotAscii)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputStream | Ström | Strömmen för att spara texten. |
+| outputStream | Stream | Strömmen för att spara texten. |
 | filterNotAscii | Boolean | Om denna parameter är sann kommer alla icke-ASCII-symboler att tas bort |
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

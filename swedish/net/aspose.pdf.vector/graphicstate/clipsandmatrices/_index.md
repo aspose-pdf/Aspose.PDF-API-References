@@ -1,22 +1,24 @@
 ---
-title: GraphicState.ClipsAndMatrices
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicState-egenskap. Hämtar operatörerna som representerar klipp och sammanfogning matriser
+title: "GraphicState.ClipsAndMatrices"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicState-egenskap. Hämtar operatorerna som representerar klipp och konkateneringsmatriser"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.vector/graphicstate/clipsandmatrices/
 ---
-## GraphicState.ClipsAndMatrices-egenskap
+## GraphicState.ClipsAndMatrices property
 
-Hämtar operatörerna som representerar klipp och sammanfogning matriser.
+Hämtar operatorerna som representerar klipp och konkateneringsmatriser.
 
 ```csharp
 public List<Operator> ClipsAndMatrices { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Operator](../../../aspose.pdf/operator/)
-* klass [GraphicState](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* class [Operator](../../../aspose.pdf/operator/)
+* class [GraphicState](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

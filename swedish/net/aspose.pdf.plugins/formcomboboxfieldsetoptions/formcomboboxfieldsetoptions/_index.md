@@ -1,12 +1,12 @@
 ---
-title: FormComboBoxFieldSetOptions.FormComboBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormComboBoxFieldSetOptions-konstruktorn. Standardkonstruktorn
+title: "FormComboBoxFieldSetOptions.FormComboBoxFieldSetOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormComboBoxFieldSetOptions‑konstruktor. Standardkonstruktor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/formcomboboxfieldsetoptions/formcomboboxfieldsetoptions/
 ---
-## FormComboBoxFieldSetOptions-konstruktorn
+## FormComboBoxFieldSetOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public FormComboBoxFieldSetOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [FormComboBoxFieldSetOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormComboBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

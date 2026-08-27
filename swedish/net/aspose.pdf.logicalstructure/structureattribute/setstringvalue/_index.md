@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute metod. Sätter värdesträng
+title: "StructureAttribute.SetStringValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureAttribute-metod. Ställer in värdesträng"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.logicalstructure/structureattribute/setstringvalue/
 ---
-## StructureAttribute.SetStringValue metod
+## StructureAttribute.SetStringValue method
 
-Sätter värdesträng.
+Sätter Value String.
 
 ```csharp
 public void SetStringValue(string value)
@@ -16,10 +16,12 @@ public void SetStringValue(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Sträng | Värdesträng. |
+| värde | String | Värdesträng. |
 
-### Se Även
+### Se även
 
-* klass [StructureAttribute](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

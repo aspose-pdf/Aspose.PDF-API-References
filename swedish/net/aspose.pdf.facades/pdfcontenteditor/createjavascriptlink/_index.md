@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateJavaScriptLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Skapar en länk till JavaScript i PDF-dokument
+title: "PdfContentEditor.CreateJavaScriptLink"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor-metod. Skapar en länk till JavaScript i PDF-dokument."
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createjavascriptlink/
 ---
-## PdfContentEditor.CreateJavaScriptLink metod
+## PdfContentEditor.CreateJavaScriptLink method
 
 Skapar en länk till JavaScript i PDF-dokument.
 
@@ -16,10 +16,10 @@ public void CreateJavaScriptLink(string code, Rectangle rect, int originalPage, 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| code | Sträng | JavaScript-koden. |
-| rect | Rektangel | Rektangeln för aktiv klick. |
-| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplas till länken kommer att skapas. |
-| color | Färg | Färgen på rektangeln för aktiv klick. |
+| kod | String | JavaScript-koden. |
+| rect | Rectangle | Rektangeln för aktivt klick. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln som är bunden till länken kommer att skapas. |
+| color | Color | Färgen på rektangeln för aktivt klick. |
 
 ## Exempel
 
@@ -31,8 +31,10 @@ editor.CreateJavaScriptLink("app.alert('welcome to aspose!');",
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

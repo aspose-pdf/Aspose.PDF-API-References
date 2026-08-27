@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.CheckBoxStyleUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar en odefinierad kryssruta stil
+title: "FormFieldFacade.CheckBoxStyleUndefined"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade field. Definierar en odefinierad kryssrutestil"
 type: docs
 weight: 450
 url: /sv/net/aspose.pdf.facades/formfieldfacade/checkboxstyleundefined/
 ---
-## FormFieldFacade.CheckBoxStyleUndefined fält
+## FormFieldFacade.CheckBoxStyleUndefined field
 
-Definierar en odefinierad kryssruta stil.
+Definierar en odefinierad kryssruta-stil.
 
 ```csharp
 public const int CheckBoxStyleUndefined;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

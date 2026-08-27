@@ -1,12 +1,12 @@
 ---
-title: Class Error
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.Error klass. Representerar ett fel i API-svaret
+title: "Klass Error"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.Error-klass. Representerar ett fel i API-svaret"
 type: docs
-weight: 340
+weight: 360
 url: /sv/net/aspose.pdf.ai/error/
 ---
-## Felklass
+## Error class
 
 Representerar ett fel i API-svaret.
 
@@ -18,18 +18,20 @@ public class Error
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Error](error/)() | Standardkonstruktören. |
+| [Error](error/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Code](../../aspose.pdf.ai/error/code/) { get; set; } | Hämtar eller ställer in felkoden. |
-| [ErrorType](../../aspose.pdf.ai/error/errortype/) { get; set; } | Hämtar eller ställer in feltypen. |
-| [Message](../../aspose.pdf.ai/error/message/) { get; set; } | Hämtar eller ställer in felmeddelandet. |
-| [Param](../../aspose.pdf.ai/error/param/) { get; set; } | Hämtar eller ställer in parameternamnet. |
+| [Code](../../aspose.pdf.ai/error/code/) { get; set; } | Hämtar eller anger felkoden. |
+| [ErrorType](../../aspose.pdf.ai/error/errortype/) { get; set; } | Hämtar eller anger feltypen. |
+| [Message](../../aspose.pdf.ai/error/message/) { get; set; } | Hämtar eller anger felmeddelandet. |
+| [Param](../../aspose.pdf.ai/error/param/) { get; set; } | Hämtar eller anger parameternamnet. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.GetPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-metod. Returnerar sidstorleken för den angivna sidan
+title: "PdfPageEditor.GetPageSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor metod. Returnerar sidstorleken för den angivna sidan"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/getpagesize/
 ---
-## PdfPageEditor.GetPageSize metod
+## PdfPageEditor.GetPageSize method
 
 Returnerar sidstorleken för den angivna sidan.
 
@@ -16,15 +16,15 @@ public PageSize GetPageSize(int page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Sidindex. Dokumentets sidor numreras från 1. |
+| sida | Int32 | Sidindex. Dokumentets sidor är numrerade från 1. |
 
 ### Returvärde
 
-Resultatet är en instans av PageSize. Använd egenskaperna Width och Height för det returnerade objektet för att få sidans bredd och höjd.
+Resultatet är en instans av PageSize. Använd Width- och Height-egenskaperna hos det returnerade objektet för att få sidans bredd och höjd.
 
 ## Exempel
 
-Följande exempel visar användningen av GetPageSize-metoden:
+Följande exempel demonstrerar användning av GetPageSize-metoden:
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -33,9 +33,11 @@ PageSize size = editor.GetPageSize(1);
 Console.WriteLine("Size of 1st page : " + size.Width + " x " + size.Height);
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSize](../../../aspose.pdf/pagesize/)
-* klass [PdfPageEditor](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

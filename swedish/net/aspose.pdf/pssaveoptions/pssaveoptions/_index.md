@@ -1,30 +1,30 @@
 ---
-title: PsSaveOptions.PsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PsSaveOptions-konstruktör. Konstruktör
+title: "PsSaveOptions.PsSaveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PsSaveOptions-konstruktor. Konstruktor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pssaveoptions/pssaveoptions/
 ---
 ## PsSaveOptions() {#constructor}
 
-Konstruktör.
+Konstruktor.
 
 ```csharp
 public PsSaveOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [PsSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [PsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PsSaveOptions(SaveFormat) {#constructor_1}
 
-Konstruktör.
+Konstruktor.
 
 ```csharp
 public PsSaveOptions(SaveFormat saveFormat)
@@ -34,9 +34,11 @@ public PsSaveOptions(SaveFormat saveFormat)
 | --- | --- | --- |
 | saveFormat | SaveFormat | Spara format. |
 
-### Se Även
+### Se även
 
 * enum [SaveFormat](../../saveformat/)
-* klass [PsSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [PsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

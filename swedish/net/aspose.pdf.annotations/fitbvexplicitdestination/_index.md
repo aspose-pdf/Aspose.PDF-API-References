@@ -1,14 +1,14 @@
 ---
-title: Class FitBVExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FitBVExplicitDestination klass. Representerar en explicit destination som visar sidan med den horisontella koordinaten left placerad vid vänster kant av fönstret och innehållet på sidan förstorat precis tillräckligt för att passa hela höjden av dess avgränsningsruta inom fönstret. Ett nullvärde för left anger att det aktuella värdet för den parametern ska behållas oförändrat.
+title: "Klassen FitBVExplicitDestination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.FitBVExplicitDestination-klass. Representerar en explicit destination som visar sidan med den horisontella koordinaten left placerad vid fönstrets vänstra kant och sidans innehåll förstoras precis så att hela höjden av dess begränsningsruta får plats i fönstret. Ett null-värde för left anger att det aktuella värdet för den parametern ska behållas oförändrat."
 type: docs
-weight: 1750
+weight: 1840
 url: /sv/net/aspose.pdf.annotations/fitbvexplicitdestination/
 ---
-## FitBVExplicitDestination klass
+## FitBVExplicitDestination class
 
-Representerar en explicit destination som visar sidan med den horisontella koordinaten left placerad vid vänster kant av fönstret och innehållet på sidan förstorat precis tillräckligt för att passa hela höjden av dess avgränsningsruta inom fönstret. Ett nullvärde för left anger att det aktuella värdet för den parametern ska behållas oförändrat.
+Representerar en explicit destination som visar sidan med den horisontella koordinaten left placerad vid fönstrets vänstra kant och sidans innehåll förstorat precis så att hela höjden av dess begränsningsruta får plats i fönstret. Ett null-värde för left anger att det aktuella värdet för den parametern ska behållas oförändrat.
 
 ```csharp
 public sealed class FitBVExplicitDestination : ExplicitDestination
@@ -18,25 +18,27 @@ public sealed class FitBVExplicitDestination : ExplicitDestination
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FitBVExplicitDestination](fitbvexplicitdestination/#constructor_2)(int, double) | Skapar en fjärrexplicit destination. |
-| [FitBVExplicitDestination](fitbvexplicitdestination/#constructor_1)(Page, double) | Skapar en lokal explicit destination. |
+| [FitBVExplicitDestination](fitbvexplicitdestination/#constructor_2)(int, double) | Skapar fjärrexplicit destination. |
+| [FitBVExplicitDestination](fitbvexplicitdestination/#constructor_1)(Page, double) | Skapar lokal explicit destination. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Left](../../aspose.pdf.annotations/fitbvexplicitdestination/left/) { get; } | Hämtar den horisontella koordinaten left placerad vid vänster kant av fönstret. |
+| [Left](../../aspose.pdf.annotations/fitbvexplicitdestination/left/) { get; } | Hämtar den horisontella koordinaten left placerad vid fönstrets vänstra kant. |
 | [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Hämtar destinationssidans objekt |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Hämtar destinationssidans nummer |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Hämtar destinationssidans sidnummer |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitbvexplicitdestination/tostring/)() | Konverterar objektets tillstånd till strängvärde. Exempel: "1 FitBV 100". |
+| override [ToString](../../aspose.pdf.annotations/fitbvexplicitdestination/tostring/)() | Konverterar objektets tillstånd till ett strängvärde. Exempel: "1 FitBV 100". |
 
-### Se Även
+### Se även
 
-* klass [ExplicitDestination](../explicitdestination/)
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [ExplicitDestination](../explicitdestination/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

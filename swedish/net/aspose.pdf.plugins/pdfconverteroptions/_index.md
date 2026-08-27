@@ -1,14 +1,14 @@
 ---
-title: Class PdfConverterOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfConverterOptions klass. Representerar alternativ för Pdf-konverteringsplugin
+title: "Klassen PdfConverterOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.PdfConverterOptions-klass. Representerar alternativ för Pdf-konverterings‑plugins"
 type: docs
-weight: 9050
+weight: 9200
 url: /sv/net/aspose.pdf.plugins/pdfconverteroptions/
 ---
-## PdfConverterOptions klass
+## PdfConverterOptions class
 
-Representerar alternativ för Pdf-konverteringsplugin.
+Representerar alternativ för Pdf‑konverterings‑plugins.
 
 ```csharp
 public abstract class PdfConverterOptions : IPluginOptions
@@ -18,19 +18,21 @@ public abstract class PdfConverterOptions : IPluginOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | Returnerar PdfConverterOptions plugin datainsamling. |
-| abstract [OperationName](../../aspose.pdf.plugins/pdfconverteroptions/operationname/) { get; } | Returnerar operationsnamn. |
-| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | Hämtar samling av tillagda mål för att spara operationens resultat. |
+| [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | Returnerar PdfConverterOptions-pluginens datainsamling. |
+| abstract [OperationName](../../aspose.pdf.plugins/pdfconverteroptions/operationname/) { get; } | Returnerar operationens namn. |
+| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | Hämtar samlingen av tillagda mål för att spara resultat av operationen. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfconverteroptions/addinput/)(IDataSource) | Lägger till ny datakälla till PdfConverter plugin datainsamling. |
-| [AddOutput](../../aspose.pdf.plugins/pdfconverteroptions/addoutput/)(IDataSource) | Lägger till ny datakälla till PdfToXLSXConverterOptions plugin datainsamling. |
+| [AddInput](../../aspose.pdf.plugins/pdfconverteroptions/addinput/)(IDataSource) | Lägger till en ny datakälla i PdfConverter‑pluginens datainsamling. |
+| [AddOutput](../../aspose.pdf.plugins/pdfconverteroptions/addoutput/)(IDataSource) | Lägger till en ny datakälla i PdfToXLSXConverterOptions‑pluginens datainsamling. |
 
-### Se Även
+### Se även
 
 * interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

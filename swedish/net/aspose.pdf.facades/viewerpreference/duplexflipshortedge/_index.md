@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.DuplexFlipShortEdge
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. Duplex och vändning på kortsidan av arket
+title: "ViewerPreference.DuplexFlipShortEdge"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-fält. Duplex och vänd på kortsidan av bladet"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/viewerpreference/duplexflipshortedge/
 ---
-## ViewerPreference.DuplexFlipShortEdge-fält
+## ViewerPreference.DuplexFlipShortEdge field
 
 Duplex och vändning på kortsidan av arket.
 
@@ -14,8 +14,10 @@ Duplex och vändning på kortsidan av arket.
 public const int DuplexFlipShortEdge;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

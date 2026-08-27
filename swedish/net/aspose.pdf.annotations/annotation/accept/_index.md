@@ -1,12 +1,12 @@
 ---
-title: Annotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Annoteringsmetod. Accepterar besökare för annoteringsbearbetning
+title: "Annotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation‑metod. Accepterar besökare för annotationbearbetning"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.annotations/annotation/accept/
 ---
-## Annotation.Accept metod
+## Annotation.Accept method
 
 Accepterar besökare för annoteringsbearbetning.
 
@@ -16,11 +16,13 @@ public abstract void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | AnnotationSelector-objekt. |
+| besökare | AnnotationSelector | AnnotationSelector‑objekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [Annotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

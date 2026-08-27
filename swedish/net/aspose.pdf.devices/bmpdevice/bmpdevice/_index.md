@@ -1,47 +1,47 @@
 ---
-title: BmpDevice.BmpDevice
-second_title: Aspose.PDF for .NET API Reference
-description: BmpDevice-konstruktorn. Initierar en ny instans av BmpDevice-klassen med standardupplösning
+title: "BmpDevice.BmpDevice"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BmpDevice‑konstruktor. Initierar en ny instans av klassen BmpDevice med standardupplösning."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.devices/bmpdevice/bmpdevice/
 ---
 ## BmpDevice() {#constructor}
 
-Initierar en ny instans av den [`BmpDevice`](../) klassen med standardupplösning.
+Initierar en ny instans av klassen [`BmpDevice`](../) med standardupplösning.
 
 ```csharp
 public BmpDevice()
 ```
 
-### Se Även
+### Se även
 
-* klass [BmpDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(Resolution) {#constructor_1}
 
-Initierar en ny instans av den [`BmpDevice`](../) klassen. Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/) klass.
+Initierar en ny instans av klassen [`BmpDevice`](../).  Upplösning för den resulterande bildfilen, se klassen [`Resolution`](../../resolution/).
 
 ```csharp
 public BmpDevice(Resolution resolution)
 ```
 
-### Se Även
+### Se även
 
-* klass [Resolution](../../resolution/)
-* klass [BmpDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../../resolution/)
+* class [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(int, int, Resolution) {#constructor_5}
 
-Initierar en ny instans av den [`BmpDevice`](../) klassen med angivna bilddimensioner och upplösning.
+Initierar en ny instans av klassen [`BmpDevice`](../) med angivna bilddimensioner och upplösning.
 
 ```csharp
 public BmpDevice(int width, int height, Resolution resolution)
@@ -49,22 +49,22 @@ public BmpDevice(int width, int height, Resolution resolution)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| width | Int32 | Bildens utdata bredd. |
-| height | Int32 | Bildens utdata höjd. |
-| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/) klass. |
+| width | Int32 | Bredd på bildutdata. |
+| height | Int32 | Höjd på bildutdata. |
+| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/)-klassen. |
 
-### Se Även
+### Se även
 
-* klass [Resolution](../../resolution/)
-* klass [BmpDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../../resolution/)
+* class [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(PageSize, Resolution) {#constructor_3}
 
-Initierar en ny instans av den [`BmpDevice`](../) klassen med angiven sidstorlek och upplösning.
+Initierar en ny instans av klassen [`BmpDevice`](../) med angiven sidstorlek och upplösning.
 
 ```csharp
 public BmpDevice(PageSize pageSize, Resolution resolution)
@@ -72,22 +72,22 @@ public BmpDevice(PageSize pageSize, Resolution resolution)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageSize | PageSize | Sidstorlek på den utdata bilden. |
-| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/) klass. |
+| pageSize | PageSize | Sidstorlek för den utgående bilden. |
+| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/)-klassen. |
 
-### Se Även
+### Se även
 
-* klass [PageSize](../../../aspose.pdf/pagesize/)
-* klass [Resolution](../../resolution/)
-* klass [BmpDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(int, int) {#constructor_4}
 
-Initierar en ny instans av den [`BmpDevice`](../) klassen med angivna bilddimensioner, standardupplösning (=150).
+Initierar en ny instans av klassen [`BmpDevice`](../) med angivna bilddimensioner, standardupplösning (=150).
 
 ```csharp
 public BmpDevice(int width, int height)
@@ -95,20 +95,20 @@ public BmpDevice(int width, int height)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| width | Int32 | Bildens utdata bredd. |
-| height | Int32 | Bildens utdata höjd. |
+| width | Int32 | Bredd på bildutdata. |
+| height | Int32 | Höjd på bildutdata. |
 
-### Se Även
+### Se även
 
-* klass [BmpDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(PageSize) {#constructor_2}
 
-Initierar en ny instans av den [`BmpDevice`](../) klassen med angiven sidstorlek, standardupplösning (=150).
+Initierar en ny instans av klassen [`BmpDevice`](../) med angiven sidstorlek, standardupplösning (=150).
 
 ```csharp
 public BmpDevice(PageSize pageSize)
@@ -116,11 +116,13 @@ public BmpDevice(PageSize pageSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageSize | PageSize | Sidstorlek på den utdata bilden. |
+| pageSize | PageSize | Sidstorlek för den utgående bilden. |
 
-### Se Även
+### Se även
 
-* klass [PageSize](../../../aspose.pdf/pagesize/)
-* klass [BmpDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

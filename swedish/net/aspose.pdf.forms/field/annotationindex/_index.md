@@ -1,21 +1,23 @@
 ---
-title: Field.AnnotationIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Fält egenskap. Hämtar eller ställer in index för denna anmärkning på sidan
+title: "Field.AnnotationIndex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Field egenskap. Hämtar eller anger index för denna annotation på sidan."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/field/annotationindex/
 ---
-## Field.AnnotationIndex egenskap
+## Field.AnnotationIndex property
 
-Hämtar eller ställer in index för denna anmärkning på sidan.
+Hämtar eller anger index för denna annotation på sidan.
 
 ```csharp
 public int AnnotationIndex { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

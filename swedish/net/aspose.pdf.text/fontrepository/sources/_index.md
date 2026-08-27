@@ -1,22 +1,24 @@
 ---
-title: FontRepository.Sources
-second_title: Aspose.PDF for .NET API Reference
-description: FontRepository-egenskap. Hämtar teckensnittskällor samling
+title: "FontRepository.Sources"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontRepository egenskap. Hämtar samling av teckensnittskällor"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/fontrepository/sources/
 ---
-## FontRepository.Sources-egenskap
+## FontRepository.Sources property
 
-Hämtar teckensnittskällor samling.
+Hämtar samling av teckensnittskällor.
 
 ```csharp
 public static FontSourceCollection Sources { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FontSourceCollection](../../fontsourcecollection/)
-* klass [FontRepository](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FontSourceCollection](../../fontsourcecollection/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection metod. Tar bort objekt från samlingen, kastar NotImplementedException
+title: "XImageCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImageCollection-metod. Tar bort ett objekt från samlingen och kastar NotImplementedException"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/ximagecollection/remove/
 ---
-## XImageCollection.Remove metod
+## XImageCollection.Remove method
 
 Tar bort objekt från samlingen, kastar NotImplementedException.
 
@@ -22,9 +22,11 @@ public bool Remove(XImage item)
 
 NotImplementedException
 
-### Se Även
+### Se även
 
-* klass [XImage](../../ximage/)
-* klass [XImageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

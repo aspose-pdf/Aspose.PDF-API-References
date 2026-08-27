@@ -1,21 +1,23 @@
 ---
-title: SetDash.Phase
-second_title: Aspose.PDF for .NET API Reference
-description: SetDash-egenskap. Dash-fas. Innan man börjar stryka en väg ska dash-arrayen cyklas igenom och längderna av streck och luckor läggas ihop. När den ackumulerade längden är lika med det värde som anges av dash-fasen ska strykningen av vägen börja, och dash-arrayen ska användas cykliskt från den punkten och framåt.
+title: "SetDash.Phase"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetDash‑egenskap. Streckfas. Innan en bana sträcks ska dash‑arrayen cyklas genom att summera längderna på streck och mellanrum. När den ackumulerade längden är lika med värdet som anges av streckfasen påbörjas sträckningen av banan och dash‑arrayen ska användas cykliskt från den punkten."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/setdash/phase/
 ---
-## SetDash.Phase-egenskap
+## SetDash.Phase property
 
-Dash-fas. Innan man börjar stryka en väg ska dash-arrayen cyklas igenom, och längderna av streck och luckor läggas ihop. När den ackumulerade längden är lika med det värde som anges av dash-fasen, ska strykningen av vägen börja, och dash-arrayen ska användas cykliskt från den punkten och framåt.
+Streckfas. Innan en bana sträcks, ska streckarrayen cyklas igenom och summan av streck- och mellanrumslängderna beräknas. När den ackumulerade längden motsvarar värdet som anges av streckfasen, ska sträckning av banan påbörjas, och streckarrayen ska användas cykliskt från den punkten och framåt.
 
 ```csharp
 public int Phase { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetDash](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetDash](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

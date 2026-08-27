@@ -1,12 +1,12 @@
 ---
-title: FileResponse.FileResponse
-second_title: Aspose.PDF for .NET API Reference
-description: FileResponse-konstruktorn. Standardkonstruktorn
+title: "FileResponse.FileResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileResponse konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/fileresponse/fileresponse/
 ---
-## FileResponse-konstruktorn
+## FileResponse constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public FileResponse()
 ```
 
-### Se Även
+### Se även
 
-* klass [FileResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

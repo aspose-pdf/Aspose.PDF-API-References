@@ -1,22 +1,24 @@
 ---
-title: Page.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: Page-egenskap. Hämtar samling av sidannoteringar. Annotations
+title: "Page.Annotations"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar samling av sidanteckningar. Annotations"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/page/annotations/
 ---
-## Page.Annotations-egenskap
+## Page.Annotations property
 
-Hämtar samling av sidannoteringar. `Annotations`
+Hämtar samling av sidanteckningar. `Annotations`
 
 ```csharp
 public AnnotationCollection Annotations { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

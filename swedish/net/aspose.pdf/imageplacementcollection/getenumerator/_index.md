@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection metod. Returnerar en enumerator för hela samlingen
+title: "ImagePlacementCollection.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacementCollection metod. Returnerar en enumerator för hela samlingen"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/imageplacementcollection/getenumerator/
 ---
-## ImagePlacementCollection.GetEnumerator metod
+## ImagePlacementCollection.GetEnumerator method
 
 Returnerar en enumerator för hela samlingen.
 
@@ -16,11 +16,13 @@ public IEnumerator<ImagePlacement> GetEnumerator()
 
 ### Returvärde
 
-Enumeratorobjekt.
+Enumerator-objekt.
 
-### Se Även
+### Se även
 
-* klass [ImagePlacement](../../imageplacement/)
-* klass [ImagePlacementCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FileFontSource.FilePath
-second_title: Aspose.PDF for .NET API Reference
-description: FileFontSource-egenskap. Sökväg till teckensnittsfiler
+title: "FileFontSource.FilePath"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileFontSource-egenskap. Sökväg till teckensnittsfilen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/filefontsource/filepath/
 ---
-## FileFontSource.FilePath-egenskap
+## FileFontSource.FilePath property
 
-Sökväg till teckensnittsfiler.
+Sökväg till teckensnittsfilen.
 
 ```csharp
 public string FilePath { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileFontSource](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

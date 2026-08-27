@@ -1,21 +1,23 @@
 ---
-title: StructureElement.GenerateId
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement metod. Generera ID för struktur element
+title: "StructureElement.GenerateId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement metod. Generera ID för strukturelement"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/generateid/
 ---
-## StructureElement.GenerateId metod
+## StructureElement.GenerateId method
 
-Generera ID för struktur element.
+Generera ID för strukturelementet.
 
 ```csharp
 public void GenerateId()
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

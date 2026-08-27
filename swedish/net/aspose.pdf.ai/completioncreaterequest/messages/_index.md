@@ -1,22 +1,24 @@
 ---
-title: CompletionCreateRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionCreateRequest-egenskap. Hämtar eller ställer in en lista med meddelanden som utgör konversationen hittills
+title: "CompletionCreateRequest.Messages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CompletionCreateRequest-egenskap. Hämtar eller anger en lista med meddelanden som utgör konversationen hittills."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/completioncreaterequest/messages/
 ---
-## CompletionCreateRequest.Messages-egenskap
+## CompletionCreateRequest.Messages property
 
-Hämtar eller ställer in en lista med meddelanden som utgör konversationen hittills.
+Hämtar eller anger en lista med meddelanden som utgör konversationen hittills.
 
 ```csharp
 public List<ChatMessage> Messages { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ChatMessage](../../chatmessage/)
-* klass [CompletionCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ChatMessage](../../chatmessage/)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

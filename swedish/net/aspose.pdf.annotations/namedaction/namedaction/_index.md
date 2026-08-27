@@ -1,14 +1,14 @@
 ---
-title: NamedAction.NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: NamedAction-konstruktör. Konstruktör för Named Action-klass
+title: "NamedAction.NamedAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NamedAction‑konstruktor. Konstruktor för Named Action‑klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/namedaction/namedaction/
 ---
-## NamedAction-konstruktör
+## NamedAction constructor
 
-Konstruktör för Named Action-klass.
+Konstruktor för Named Action‑klass.
 
 ```csharp
 public NamedAction(PredefinedAction action)
@@ -16,11 +16,13 @@ public NamedAction(PredefinedAction action)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| action | PredefinedAction | Åtgärd för vilken detta objekt skapas. |
+| åtgärd | PredefinedAction | Åtgärd för vilken detta objekt skapas. |
 
-### Se Även
+### Se även
 
 * enum [PredefinedAction](../../predefinedaction/)
 * class [NamedAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

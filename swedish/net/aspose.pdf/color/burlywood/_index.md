@@ -1,14 +1,14 @@
 ---
-title: Color.BurlyWood
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FFDEB887
+title: "Color.BurlyWood"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskap. Hämtar en systemdefinierad färg som har ett ARGB‑värde c FFDEB887"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/color/burlywood/
 ---
-## Color.BurlyWood egenskap
+## Color.BurlyWood property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FFDEB887.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FFDEB887.
 
 ```csharp
 public static Color BurlyWood { get; }
@@ -16,10 +16,12 @@ public static Color BurlyWood { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

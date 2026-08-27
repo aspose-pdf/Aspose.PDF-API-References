@@ -1,14 +1,14 @@
 ---
-title: Enum FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FieldType enum. Uppräkning av möjliga fälttyper
+title: "Enum FieldType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.FieldType enum. Uppräkning av möjliga fälttyper"
 type: docs
-weight: 4260
+weight: 4380
 url: /sv/net/aspose.pdf.facades/fieldtype/
 ---
-## FieldType uppräkning
+## FieldType enumeration
 
-Uppräkning av möjliga fälttyper.
+Enumeration av möjliga fälttyper.
 
 ```csharp
 public enum FieldType
@@ -19,20 +19,22 @@ public enum FieldType
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Text | `0` | Textfält. |
-| ComboBox | `1` | Kombinationsruta. |
-| ListBox | `2` | Lista ruta. |
-| Radio | `3` | Radioknappfält. |
-| CheckBox | `4` | Kryssruta. |
-| PushButton | `5` | Tryckknappfält. |
-| MultiLineText | `6` | Fält för flerlinjig text. |
-| Barcode | `7` | Streckkodfält. |
+| ComboBox | `1` | Kombinationsruta-fält. |
+| ListBox | `2` | Listbox-fält. |
+| Radio | `3` | Radioknappsfält. |
+| CheckBox | `4` | Kryssruta-fält. |
+| PushButton | `5` | Tryckknappsfält. |
+| MultiLineText | `6` | Flerradigt textfält. |
+| Barcode | `7` | Streckkodsfält. |
 | InvalidNameOrType | `8` | Ogiltig fälttyp. |
 | Signature | `9` | Signaturfält. |
 | Image | `10` | Bildfält. |
 | Numeric | `11` | Numeriskt fält |
-| DateTime | `12` | Datum/tid fält |
+| DateTime | `12` | Datum/tid-fält |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

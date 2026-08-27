@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToDateTime
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-metod. Konverterar till datum och tid
+title: "XmpValue.ToDateTime"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue metod. Konverterar till datum och tid"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/xmpvalue/todatetime/
 ---
-## XmpValue.ToDateTime metod
+## XmpValue.ToDateTime method
 
-Konverterar till datum och tid.
+Konverterar till datum/tid.
 
 ```csharp
 public DateTime ToDateTime()
@@ -16,10 +16,12 @@ public DateTime ToDateTime()
 
 ### Returvärde
 
-DateTime-värde.
+DateTime‑värde.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

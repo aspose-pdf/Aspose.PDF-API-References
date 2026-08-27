@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection-metod. Returnerar en uppräkning för alternativ i samlingen
+title: "OptionCollection.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptionCollection metod. Returnerar enumerator för alternativ i samlingen"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.forms/optioncollection/getenumerator/
 ---
-## OptionCollection.GetEnumerator metod
+## OptionCollection.GetEnumerator method
 
-Returnerar en uppräkning för alternativ i samlingen.
+Returnerar enumerator för alternativ i samlingen.
 
 ```csharp
 public IEnumerator<Option> GetEnumerator()
@@ -16,11 +16,13 @@ public IEnumerator<Option> GetEnumerator()
 
 ### Returvärde
 
-Alternativs uppräkning.
+Alternativ enumerator.
 
-### Se Även
+### Se även
 
-* klass [Option](../../option/)
-* klass [OptionCollection](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

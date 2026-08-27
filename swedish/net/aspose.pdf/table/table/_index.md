@@ -1,12 +1,12 @@
 ---
-title: Table.Table
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellkonstruktör. Standardkonstruktorn
+title: "Table.Table"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Table‑konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/table/table/
 ---
-## Tabellkonstruktör
+## Table constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Table()
 ```
 
-### Se Även
+### Se även
 
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

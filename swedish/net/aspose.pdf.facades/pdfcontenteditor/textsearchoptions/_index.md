@@ -1,22 +1,24 @@
 ---
-title: PdfContentEditor.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-egenskap. Hämtar eller ställer in alternativ för textsökning
+title: "PdfContentEditor.TextSearchOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor egenskap. Hämtar eller anger alternativ för textsökning"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/textsearchoptions/
 ---
-## PdfContentEditor.TextSearchOptions-egenskap
+## PdfContentEditor.TextSearchOptions property
 
-Hämtar eller ställer in alternativ för textsökning.
+Hämtar eller anger alternativ för textsökning.
 
 ```csharp
 public TextSearchOptions TextSearchOptions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Single2Multiple
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor metod. Ändra ett enradigt textfält till ett flerradigt.
+title: "FormEditor.Single2Multiple"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor metod. Ändra ett enradigt textfält till ett flerradigt"
 type: docs
 weight: 350
 url: /sv/net/aspose.pdf.facades/formeditor/single2multiple/
 ---
-## FormEditor.Single2Multiple metod
+## FormEditor.Single2Multiple method
 
-Ändra ett enradigt textfält till ett flerradigt.
+Ändra ett enkellinjigt textfält till ett flerradigt.
 
 ```csharp
 public bool Single2Multiple(string fieldName)
@@ -16,11 +16,11 @@ public bool Single2Multiple(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Det kvalificerade fältnamnet. |
+| fieldName | String | Det kvalificerade fältnamnet. |
 
 ### Returvärde
 
-Om framgång, returnera true; annars false.
+Om lyckat, returnera true; annars false.
 
 ## Exempel
 
@@ -29,8 +29,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
 formEditor.Single2Multiple("textField");
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

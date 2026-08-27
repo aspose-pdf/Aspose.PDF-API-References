@@ -1,12 +1,12 @@
 ---
-title: Class PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageRange klass. Representerar intervallet av sidor för inställningar av sidhuvud och sidfot
+title: "Klass PageRange"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PageRange-klass. Representerar intervallet av sidor för sidhuvud- och sidfotinställningar"
 type: docs
-weight: 8240
+weight: 8380
 url: /sv/net/aspose.pdf/pagerange/
 ---
-## PageRange klass
+## PageRange class
 
 Representerar intervallet av sidor för inställningar av sidhuvud och sidfot.
 
@@ -24,12 +24,14 @@ public sealed class PageRange
 
 | Namn | Beskrivning |
 | --- | --- |
-| [End](../../aspose.pdf/pagerange/end/) { get; set; } | Hämtar eller ställer in det avslutande sidnumret. |
-| [Even](../../aspose.pdf/pagerange/even/) { get; set; } | Hämtar eller ställer in inställningen för jämna sidor. |
-| [Odd](../../aspose.pdf/pagerange/odd/) { get; set; } | Hämtar eller ställer in inställningen för udda sidor. |
-| [Start](../../aspose.pdf/pagerange/start/) { get; set; } | Hämtar eller ställer in det startande sidnumret. |
+| [End](../../aspose.pdf/pagerange/end/) { get; set; } | Hämtar eller anger det sista sidnumret. |
+| [Even](../../aspose.pdf/pagerange/even/) { get; set; } | Hämtar eller anger inställningen för jämna sidor. |
+| [Odd](../../aspose.pdf/pagerange/odd/) { get; set; } | Hämtar eller anger inställningen för udda sidor. |
+| [Start](../../aspose.pdf/pagerange/start/) { get; set; } | Hämtar eller anger startsidans nummer. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

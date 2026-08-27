@@ -1,21 +1,23 @@
 ---
-title: TextSearchOptions.SearchForTextRelatedGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions-egenskap. Hämtar eller ställer in värde som tillåter sökning efter textrelaterade grafik som understrykning, bakgrund etc. under textsökning. true - sökning efter textrelaterade grafik kommer att utföras. false - grafiska element som kan finnas i källdokumentet kommer att ignoreras. Ställ in detta vid prestandaproblem eller om det inte finns något behov av att hantera understrykning, bakgrund eller beskärning.
+title: "TextSearchOptions.SearchForTextRelatedGraphics"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSearchOptions‑egenskap. Hämtar eller anger ett värde som tillåter sökning efter textrelaterad grafik, understrykning, bakgrund osv. under textsökning. true – sökning efter textrelaterad grafik kommer att utföras (standardvärde). false – grafikelement som kan finnas i källdokumentet ignoreras. Ställ in detta vid prestandaproblem eller när det inte behövs att hantera understrykning, bakgrund eller beskärning."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics/
 ---
-## TextSearchOptions.SearchForTextRelatedGraphics-egenskap
+## TextSearchOptions.SearchForTextRelatedGraphics property
 
-Hämtar eller ställer in värde som tillåter sökning efter textrelaterade grafik (understrykning, bakgrund etc.) under textsökning. true - sökning efter textrelaterade grafik kommer att utföras (standardvärde). false - grafiska element som kan finnas i källdokumentet kommer att ignoreras. Ställ in detta vid prestandaproblem eller om det inte finns något behov av att hantera understrykning, bakgrund eller beskärning.
+Hämtar eller anger värdet som tillåter sökning efter textrelaterad grafik (understrykning, bakgrund osv.) under textsökning. true – sökning efter textrelaterad grafik kommer att utföras (standardvärde). false – grafiska element som kan finnas i källdokumentet kommer att ignoreras. Ställ in detta vid prestandaproblem eller när det inte behövs att hantera understrykning, bakgrund eller beskärning.
 
 ```csharp
 public bool SearchForTextRelatedGraphics { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextSearchOptions](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

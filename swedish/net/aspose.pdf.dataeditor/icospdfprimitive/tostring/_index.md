@@ -1,14 +1,14 @@
 ---
-title: ICosPdfPrimitive.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ICosPdfPrimitive metod. Strängrepresentation av instans ICosPdfPrimitive
+title: "ICosPdfPrimitive.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ICosPdfPrimitive‑metod. Strängrepresentation av instansen ICosPdfPrimitive"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/
 ---
-## ICosPdfPrimitive.ToString metod
+## ICosPdfPrimitive.ToString method
 
-Strängrepresentation av instans [`ICosPdfPrimitive`](../).
+Strängrepresentation av instansen [`ICosPdfPrimitive`](../).
 
 ```csharp
 public string ToString()
@@ -16,10 +16,12 @@ public string ToString()
 
 ### Returvärde
 
-Värde av strängrepresentation av instans [`ICosPdfPrimitive`](../).
+Värde av strängrepresentation av instansen [`ICosPdfPrimitive`](../).
 
-### Se Även
+### Se även
 
-* gränssnitt [ICosPdfPrimitive](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

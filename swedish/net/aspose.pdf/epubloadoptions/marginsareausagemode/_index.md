@@ -1,22 +1,24 @@
 ---
-title: EpubLoadOptions.MarginsAreaUsageMode
-second_title: Aspose.PDF for .NET API Reference
-description: EpubLoadOptions-fält. Representerar användningsläge för marginalområde definierar behandling av instruktioner om några av CSS i det importerade dokumentet relaterat till användning av marginaler
+title: "EpubLoadOptions.MarginsAreaUsageMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EpubLoadOptions‑fält. Representerar lägesanvändning av marginalområdet och definierar hur instruktioner behandlas om någon CSS i det importerade dokumentet relaterar till marginalanvändning."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/epubloadoptions/marginsareausagemode/
 ---
-## EpubLoadOptions.MarginsAreaUsageMode-fält
+## EpubLoadOptions.MarginsAreaUsageMode field
 
-Representerar användningsläge för marginalområde - definierar behandling av instruktioner (om några) av CSS i det importerade dokumentet relaterat till användning av marginaler.
+Representerar användningsläge för marginalområdet – definierar behandlingen av instruktioner (om några) i CSS för det importerade dokumentet som rör användning av marginaler.
 
 ```csharp
 public MarginsAreaUsageModes MarginsAreaUsageMode;
 ```
 
-### Se Även
+### Se även
 
 * enum [MarginsAreaUsageModes](../../loadoptions.marginsareausagemodes/)
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

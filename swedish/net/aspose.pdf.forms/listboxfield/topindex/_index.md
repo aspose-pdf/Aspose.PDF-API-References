@@ -1,21 +1,23 @@
 ---
-title: ListBoxField.TopIndex
-second_title: Aspose.PDF for .NET API Reference
-description: ListBoxField-egenskap. Hämtar eller ställer in index för det översta synliga elementet i listan
+title: "ListBoxField.TopIndex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ListBoxField-egenskap. Hämtar eller anger index för det översta synliga elementet i listan"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/listboxfield/topindex/
 ---
-## ListBoxField.TopIndex-egenskap
+## ListBoxField.TopIndex property
 
-Hämtar eller ställer in index för det översta synliga elementet i listan.
+Hämtar eller anger index för det översta synliga elementet i listan.
 
 ```csharp
 public int TopIndex { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ListBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

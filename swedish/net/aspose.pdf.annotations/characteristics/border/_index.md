@@ -1,21 +1,23 @@
 ---
-title: Characteristics.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Egenskaper egenskap. Hämtar eller ställer in färgen på kanten
+title: "Characteristics.Border"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Characteristics egenskap. Hämtar eller anger kantens färg"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/characteristics/border/
 ---
-## Egenskaper.Bord egenskap
+## Characteristics.Border property
 
-Hämtar eller ställer in färgen på kanten.
+Hämtar eller anger kantens färg.
 
 ```csharp
 public Color Border { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Egenskaper](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Characteristics](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

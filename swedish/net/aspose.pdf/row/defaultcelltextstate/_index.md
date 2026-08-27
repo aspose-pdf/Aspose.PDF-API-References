@@ -1,22 +1,24 @@
 ---
-title: Row.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Row-egenskap. Hämtar eller ställer in standardtextstatus för radceller
+title: "Row.DefaultCellTextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-egenskap. Hämtar eller anger standardtexttillstånd för radceller"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/row/defaultcelltextstate/
 ---
-## Row.DefaultCellTextState-egenskap
+## Row.DefaultCellTextState property
 
-Hämtar eller ställer in standardtextstatus för radceller
+Hämtar eller anger standardtexttillstånd för radceller
 
 ```csharp
 public TextState DefaultCellTextState { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [Row](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.SetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity-metod. Ställer in Pdf-filens säkerhet med tomma användar-/ägarlösenord. Ägarlösenordet kommer att läggas till med en slumpmässig sträng. Kastar ett undantag om processen misslyckas
+title: "PdfFileSecurity.SetPrivilege"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSecurity‑metod. Ställer in PDF‑filens säkerhet med tomma användar‑/ägarlösenord. Ägarlösenordet kommer att läggas till med en slumpmässig sträng. Kastar ett undantag om processen misslyckas"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/pdffilesecurity/setprivilege/
 ---
 ## SetPrivilege(DocumentPrivilege) {#setprivilege}
 
-Ställer in Pdf-filens säkerhet med tomma användar-/ägarlösenord. Ägarlösenordet kommer att läggas till med en slumpmässig sträng. Kastar ett undantag om processen misslyckas.
+Ställer in Pdf‑filens säkerhet med tomma användar‑/ägarlösenord. Ägarlösenordet kommer att läggas till med en slumpmässig sträng. Kastar ett undantag om processen misslyckas.
 
 ```csharp
 public bool SetPrivilege(DocumentPrivilege privilege)
@@ -16,7 +16,7 @@ public bool SetPrivilege(DocumentPrivilege privilege)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| privilege | DocumentPrivilege | Ställ in privilegiet. |
+| behörighet | DocumentPrivilege | Ange behörighet. |
 
 ### Returvärde
 
@@ -38,18 +38,18 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../../documentprivilege/)
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetPrivilege(string, string, DocumentPrivilege) {#setprivilege_1}
 
-Ställer in Pdf-filens säkerhet med originallösenord. Kastar ett undantag om processen misslyckas.
+Ställer in Pdf‑filens säkerhet med originallösenordet. Kastar ett undantag om processen misslyckas.
 
 ```csharp
 public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
@@ -57,9 +57,9 @@ public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPriv
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| userPassword | Sträng | Originalanvändarlösenord. |
-| ownerPassword | Sträng | Originalägarlösenord. |
-| privilege | DocumentPrivilege | Ställ in privilegiet. |
+| userPassword | String | Ursprungligt användarlösenord. |
+| ownerPassword | String | Ursprungligt ägarlösenord. |
+| behörighet | DocumentPrivilege | Ange behörighet. |
 
 ### Returvärde
 
@@ -81,9 +81,11 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../../documentprivilege/)
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

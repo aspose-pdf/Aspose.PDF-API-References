@@ -1,14 +1,47 @@
 ---
-title: Document.SaveAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Lagrar dokumentet i ström
+title: "Document.SaveAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Sparar dokumentet till en ström med sparaalternativ"
 type: docs
-weight: 840
+weight: 860
 url: /sv/net/aspose.pdf/document/saveasync/
 ---
+## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
+
+Sparar dokumentet till en ström med sparalternativ.
+
+```csharp
+public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| outputStream | Stream | Ström där dokumentet kommer att lagras. |
+| options | SaveOptions | Sparaalternativ. |
+| cancellationToken | CancellationToken | Avbokningstoken. |
+
+### Returvärde
+
+Asynkron uppgift.
+
+### Undantag
+
+| undantag | villkor |
+| --- | --- |
+| ArgumentException | ArgumentException när [`HtmlSaveOptions`](../../htmlsaveoptions/) skickas till en metod. Att spara ett dokument till html-strömmen stöds inte. Använd metoden spara till filen. |
+
+### Se även
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## SaveAsync(Stream, CancellationToken) {#saveasync_3}
 
-Lagrar dokumentet i ström.
+Lagrar document i en ström.
 
 ```csharp
 public Task SaveAsync(Stream output, CancellationToken cancellationToken)
@@ -16,24 +49,24 @@ public Task SaveAsync(Stream output, CancellationToken cancellationToken)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| output | Stream | Ström där dokumentet ska lagras. |
+| utdata | Stream | Ström där dokumentet ska lagras. |
 | cancellationToken | CancellationToken | Avbokningstoken. |
 
 ### Returvärde
 
 Asynkron uppgift.
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(string, CancellationToken) {#saveasync_6}
 
-Sparar dokumentet i den angivna filen.
+Sparar document i den angivna filen.
 
 ```csharp
 public Task SaveAsync(string outputFileName, CancellationToken cancellationToken)
@@ -41,24 +74,24 @@ public Task SaveAsync(string outputFileName, CancellationToken cancellationToken
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFileName | Sträng | Sökväg till filen där dokumentet kommer att lagras. |
+| outputFileName | String | Sökväg till filen där dokumentet kommer att lagras. |
 | cancellationToken | CancellationToken | Avbokningstoken. |
 
 ### Returvärde
 
 Asynkron uppgift.
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(CancellationToken) {#saveasync_7}
 
-Sparar dokumentet inkrementellt (dvs. med hjälp av inkrementell uppdateringsteknik).
+Spara document inkrementellt (dvs. med inkrementell uppdateringsteknik).
 
 ```csharp
 public Task SaveAsync(CancellationToken cancellationToken)
@@ -72,21 +105,21 @@ public Task SaveAsync(CancellationToken cancellationToken)
 
 Asynkron uppgift.
 
-## Kommentarer
+## Anmärkningar
 
-För att spara dokumentet inkrementellt måste vi öppna dokumentfilen för skrivning. Därför måste Document initialiseras med en skrivbar ström som i följande kodsnutt: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // gör några ändringar och spara dokumentet inkrementellt doc.Save();
+För att spara dokumentet inkrementellt bör vi öppna dokumentfilen för skrivning. Därför måste Document initieras med en skrivbar ström som i följande kodsnutt: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // gör några ändringar och spara dokumentet inkrementellt doc.Save();
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(SaveOptions, CancellationToken) {#saveasync}
 
-Sparar dokumentet med spara alternativ.
+Sparar document med sparalternativ.
 
 ```csharp
 public Task SaveAsync(SaveOptions options, CancellationToken cancellationToken)
@@ -94,25 +127,25 @@ public Task SaveAsync(SaveOptions options, CancellationToken cancellationToken)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | SaveOptions | Spara alternativ. |
+| options | SaveOptions | Sparaalternativ. |
 | cancellationToken | CancellationToken | Avbokningstoken. |
 
 ### Returvärde
 
 Asynkron uppgift.
 
-### Se Även
+### Se även
 
-* klass [SaveOptions](../../saveoptions/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(string, SaveFormat, CancellationToken) {#saveasync_4}
 
-Sparar dokumentet med ett nytt namn tillsammans med ett filformat.
+Sparar document med ett nytt namn samt ett filformat.
 
 ```csharp
 public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToken cancellationToken)
@@ -120,7 +153,7 @@ public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToke
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFileName | Sträng | Sökväg till filen där dokumentet kommer att lagras. |
+| outputFileName | String | Sökväg till filen där dokumentet kommer att lagras. |
 | format | SaveFormat | Formatalternativ. |
 | cancellationToken | CancellationToken | Avbokningstoken. |
 
@@ -128,18 +161,18 @@ public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToke
 
 Asynkron uppgift.
 
-### Se Även
+### Se även
 
 * enum [SaveFormat](../../saveformat/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(Stream, SaveFormat, CancellationToken) {#saveasync_1}
 
-Sparar dokumentet med ett nytt namn tillsammans med ett filformat.
+Sparar document med ett nytt namn samt ett filformat.
 
 ```csharp
 public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken cancellationToken)
@@ -149,7 +182,7 @@ public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken 
 | --- | --- | --- |
 | outputStream | Stream | Ström där dokumentet kommer att lagras. |
 | format | SaveFormat | Formatalternativ. |
-| cancellationToken | CancellationToken | Avbokningstoken. |
+| cancellationToken | CancellationToken | Avbrytningstoken |
 
 ### Returvärde
 
@@ -157,22 +190,22 @@ Asynkron uppgift.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | ArgumentException när [`HtmlSaveOptions`](../../htmlsaveoptions/) skickas till en metod. Att spara ett dokument till htmlström stöds inte. Vänligen använd metoden för att spara till fil. |
+| ArgumentException | ArgumentException när [`HtmlSaveOptions`](../../htmlsaveoptions/) skickas till en metod. Att spara ett dokument till html-strömmen stöds inte. Använd metoden spara till filen. |
 
-### Se Även
+### Se även
 
 * enum [SaveFormat](../../saveformat/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(string, SaveOptions, CancellationToken) {#saveasync_5}
 
-Sparar dokumentet med ett nytt namn och ställer in dess spara alternativ.
+Sparar dokumentet med ett nytt namn och ställer in dess sparalternativ.
 
 ```csharp
 public Task SaveAsync(string outputFileName, SaveOptions options, 
@@ -181,50 +214,19 @@ public Task SaveAsync(string outputFileName, SaveOptions options,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFileName | Sträng | Sökväg till filen där dokumentet kommer att lagras. |
-| options | SaveOptions | Spara alternativ. |
+| outputFileName | String | Sökväg till filen där dokumentet kommer att lagras. |
+| options | SaveOptions | Sparaalternativ. |
 | cancellationToken | CancellationToken | Avbokningstoken. |
 
 ### Returvärde
 
 Asynkron uppgift.
 
-### Se Även
+### Se även
 
-* klass [SaveOptions](../../saveoptions/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
----
 
-## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
-
-Sparar dokumentet till en ström med spara alternativ.
-
-```csharp
-public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| outputStream | Stream | Ström där dokumentet kommer att lagras. |
-| options | SaveOptions | Spara alternativ. |
-| cancellationToken | CancellationToken | Avbokningstoken. |
-
-### Returvärde
-
-Asynkron uppgift.
-
-### Undantag
-
-| undantag | tillstånd |
-| --- | --- |
-| ArgumentException | ArgumentException när [`HtmlSaveOptions`](../../htmlsaveoptions/) skickas till en metod. Att spara ett dokument till htmlström stöds inte. Vänligen använd metoden för att spara till fil. |
-
-### Se Även
-
-* klass [SaveOptions](../../saveoptions/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)

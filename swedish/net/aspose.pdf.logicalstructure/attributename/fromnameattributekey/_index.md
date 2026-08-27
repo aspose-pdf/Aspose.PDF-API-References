@@ -1,12 +1,12 @@
 ---
-title: AttributeName.FromNameAttributeKey
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName-metod. Hämtar attributnamn för attributnyckel
+title: "AttributeName.FromNameAttributeKey"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-metod. Hämtar attributnamn för attributnyckel"
 type: docs
 weight: 670
 url: /sv/net/aspose.pdf.logicalstructure/attributename/fromnameattributekey/
 ---
-## AttributeName.FromNameAttributeKey metod
+## AttributeName.FromNameAttributeKey method
 
 Hämtar attributnamn för attributnyckel.
 
@@ -16,16 +16,18 @@ public static AttributeName FromNameAttributeKey(string name, AttributeKey attri
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Attributnamn |
-| attributeKey | Attributnyckel | Attributnyckel |
+| namn | String | Attributnamn |
+| attributeKey | AttributeKey | Attributnyckel |
 
 ### Returvärde
 
 Attributnamn
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../../attributekey/)
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeKey](../../attributekey/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

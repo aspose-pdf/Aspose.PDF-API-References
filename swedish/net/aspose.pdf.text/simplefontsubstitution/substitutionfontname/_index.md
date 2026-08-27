@@ -1,21 +1,23 @@
 ---
-title: SimpleFontSubstitution.SubstitutionFontName
-second_title: Aspose.PDF for .NET API Reference
-description: SimpleFontSubstitution-egenskap. Hämtar teckensnittnamn som ska ersätta OriginalFontName
+title: "SimpleFontSubstitution.SubstitutionFontName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SimpleFontSubstitution egenskap. Hämtar teckensnittnamnet som ska ersätta OriginalFontName"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/simplefontsubstitution/substitutionfontname/
 ---
-## SimpleFontSubstitution.SubstitutionFontName-egenskap
+## SimpleFontSubstitution.SubstitutionFontName property
 
-Hämtar teckensnittnamn som ska ersätta den [`OriginalFontName`](../originalfontname/)
+Hämtar teckensnittnamnet som ska ersätta [`OriginalFontName`](../originalfontname/)
 
 ```csharp
 public string SubstitutionFontName { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SimpleFontSubstitution](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [SimpleFontSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

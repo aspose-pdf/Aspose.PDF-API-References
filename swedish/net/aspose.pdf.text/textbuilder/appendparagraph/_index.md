@@ -1,14 +1,14 @@
 ---
-title: TextBuilder.AppendParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: TextBuilder-metod. Lägger till textstycke på Pdf-sidan
+title: "TextBuilder.AppendParagraph"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextBuilder-metod. Lägger till textparagraf till Pdf-sida"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/textbuilder/appendparagraph/
 ---
-## TextBuilder.AppendParagraph metod
+## TextBuilder.AppendParagraph method
 
-Lägger till textstycke på Pdf-sidan.
+Lägger till textparagraf på Pdf-sida.
 
 ```csharp
 public void AppendParagraph(TextParagraph textParagraph)
@@ -16,42 +16,44 @@ public void AppendParagraph(TextParagraph textParagraph)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| textParagraph | TextParagraph | Textstyckeobjekt. |
+| textParagraph | TextParagraph | Textparagraf-objekt. |
 
 ## Exempel
 
-Exemplet visar hur man skapar ett textstyckeobjekt och lägger till det på Pdf-sidan.
+Exemplet visar hur man skapar ett textparagrafobjekt och lägger till det på Pdf-sidan.
 
 ```csharp
 Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// create text paragraph
+// skapa textparagraf
 TextParagraph paragraph = new TextParagraph();
            
-// set the paragraph rectangle
+// ange paragrafens rektangel
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// set word wrapping options
+// ange alternativ för radbrytning
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// append string lines
+// lägg till strängrader
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// append the paragraph to the Pdf page with the TextBuilder
+// lägg till paragrafen på Pdf-sidan med TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// save Pdf document
+// spara Pdf-dokument
 doc.Save(outFile);
 ```
 
-### Se Även
+### Se även
 
-* klass [TextParagraph](../../textparagraph/)
-* klass [TextBuilder](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextParagraph](../../textparagraph/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

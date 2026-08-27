@@ -1,22 +1,24 @@
 ---
-title: SaveOptions.BorderInfo.BottomStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo-fält. Representerar nederdelen av kanten
+title: "SaveOptions.BorderInfo.BottomStyleIfAny"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BorderInfo‑fält. Representerar den nedre delen av kanten, om någon."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/saveoptions.borderinfo/bottomstyleifany/
 ---
-## SaveOptions.BorderInfo.BottomStyleIfAny-fält
+## SaveOptions.BorderInfo.BottomStyleIfAny field
 
-Representerar nederdelen (om någon) av kanten
+Representerar den nedre delen (om någon) av ramen.
 
 ```csharp
 public BorderPartStyle BottomStyleIfAny;
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* klass [BorderInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

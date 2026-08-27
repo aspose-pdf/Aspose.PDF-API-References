@@ -1,26 +1,28 @@
 ---
-title: PdfAOptionsBase.NonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase-egenskap. Hämtar flaggorna som styr PDF/A-konverteringen för fall när den käll-PDF-dokumentet inte överensstämmer med PDF-specifikationen
+title: "PdfAOptionsBase.NonSpecificationFlags"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAOptionsBase egenskap. Hämtar flaggorna som styr PDF/A‑konverteringen för fall då källdokumentet PDF inte motsvarar PDF‑specifikationen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.plugins/pdfaoptionsbase/nonspecificationflags/
 ---
-## PdfAOptionsBase.NonSpecificationFlags-egenskap
+## PdfAOptionsBase.NonSpecificationFlags property
 
-Hämtar flaggorna som styr PDF/A-konverteringen för fall när den käll-PDF-dokumentet inte överensstämmer med PDF-specifikationen.
+Hämtar flaggorna som styr PDF/A‑konverteringen för fall då källdokumentet PDF inte överensstämmer med PDF‑specifikationen.
 
 ```csharp
 public PdfANonSpecificationFlags NonSpecificationFlags { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Flaggorna för icke-specifikationsfall under PDF/A-konvertering.
+Flaggorna för icke‑specifikationsfall under PDF/A‑konvertering.
 
-### Se Även
+### Se även
 
-* klass [PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)
-* klass [PdfAOptionsBase](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

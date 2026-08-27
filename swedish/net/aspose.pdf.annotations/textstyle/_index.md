@@ -1,14 +1,14 @@
 ---
-title: Class TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.TextStyle klass. Klassen representerar stil av text i annotation
+title: "Klass TextStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.TextStyle-klass. Klass som representerar textstil i annotation"
 type: docs
-weight: 2680
+weight: 2780
 url: /sv/net/aspose.pdf.annotations/textstyle/
 ---
-## TextStyle klass
+## TextStyle class
 
-Klassen representerar stil av text i annotation
+Klass som representerar stil för text i annotation
 
 ```csharp
 public class TextStyle
@@ -19,8 +19,8 @@ public class TextStyle
 | Namn | Beskrivning |
 | --- | --- |
 | [Color](../../aspose.pdf.annotations/textstyle/color/) { get; set; } | Färg på texten. |
-| [FontName](../../aspose.pdf.annotations/textstyle/fontname/) { get; set; } | Namn på typsnittet. |
-| [FontSize](../../aspose.pdf.annotations/textstyle/fontsize/) { get; set; } | Typsnittsstorlek. |
+| [FontName](../../aspose.pdf.annotations/textstyle/fontname/) { get; set; } | Namn på teckensnittet. |
+| [FontSize](../../aspose.pdf.annotations/textstyle/fontsize/) { get; set; } | Teckenstorlek. |
 | [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment/) { get; set; } | Textjustering. Giltiga värden är: Vänster, Center, Höger. |
 
 ## Metoder
@@ -29,7 +29,9 @@ public class TextStyle
 | --- | --- |
 | override [ToString](../../aspose.pdf.annotations/textstyle/tostring/)() | Strängrepresentation av TextStyle. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

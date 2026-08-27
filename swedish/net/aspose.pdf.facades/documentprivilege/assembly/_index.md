@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.Assembly
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege-egenskap. Tillåter sammansättning av fil
+title: "DocumentPrivilege.Assembly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege egenskap. Tillåter sammansättning av fil"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/documentprivilege/assembly/
 ---
-## DocumentPrivilege.Assembly-egenskap
+## DocumentPrivilege.Assembly property
 
-Tillåter sammansättning av fil.
+Tillåter montering av fil.
 
 ```csharp
 public static DocumentPrivilege Assembly { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Form.SignaturesExist
-second_title: Aspose.PDF for .NET API Reference
-description: Formulär egenskap. Om den är inställd innehåller dokumentet minst ett signaturfält
+title: "Form.SignaturesExist"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form property. Om satt innebär det att dokumentet innehåller minst ett signaturfält"
 type: docs
-weight: 140
+weight: 160
 url: /sv/net/aspose.pdf.forms/form/signaturesexist/
 ---
-## Form.SignaturesExist egenskap
+## Form.SignaturesExist property
 
 Om den är inställd innehåller dokumentet minst ett signaturfält.
 
@@ -14,8 +14,10 @@ Om den är inställd innehåller dokumentet minst ett signaturfält.
 public bool SignaturesExist { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

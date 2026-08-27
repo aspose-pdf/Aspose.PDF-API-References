@@ -1,12 +1,12 @@
 ---
-title: Table.RepeatingRowsCount
-second_title: Aspose.PDF for .NET API Reference
-description: Tabell egenskap. Hämtar antalet första rader som upprepas för flera sidor
+title: "Table.RepeatingRowsCount"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Table-egenskap. Hämtar antalet första rader som upprepas på flera sidor"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf/table/repeatingrowscount/
 ---
-## Table.RepeatingRowsCount egenskap
+## Table.RepeatingRowsCount property
 
 Hämtar antalet första rader som upprepas för flera sidor
 
@@ -14,8 +14,10 @@ Hämtar antalet första rader som upprepas för flera sidor
 public int RepeatingRowsCount { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

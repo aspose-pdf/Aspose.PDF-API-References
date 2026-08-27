@@ -1,12 +1,12 @@
 ---
-title: CgmImportOptions.CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: CgmImportOptions-konstruktorn. Standardkonstruktorn
+title: "CgmImportOptions.CgmImportOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CgmImportOptions‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/cgmimportoptions/cgmimportoptions/
 ---
-## CgmImportOptions-konstruktorn
+## CgmImportOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public CgmImportOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [CgmImportOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CgmImportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

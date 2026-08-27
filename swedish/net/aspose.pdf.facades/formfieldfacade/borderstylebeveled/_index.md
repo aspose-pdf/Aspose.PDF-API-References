@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderStyleBeveled
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar en fasad kantstil
+title: "FormFieldFacade.BorderStyleBeveled"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade fält. Definierar en avfasad kantstil"
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf.facades/formfieldfacade/borderstylebeveled/
 ---
-## FormFieldFacade.BorderStyleBeveled fält
+## FormFieldFacade.BorderStyleBeveled field
 
-Definierar en fasad kantstil.
+Definierar en avfasad kantstil.
 
 ```csharp
 public const int BorderStyleBeveled;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

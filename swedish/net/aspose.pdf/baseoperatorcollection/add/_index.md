@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection metod. Lägger till ny operator i samlingen
+title: "BaseOperatorCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseOperatorCollection metod. Lägger till ny operator i samlingen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/baseoperatorcollection/add/
 ---
-## BaseOperatorCollection.Add metod
+## BaseOperatorCollection.Add method
 
-Lägger till ny operator i samlingen.
+Lägger till en ny operator i samlingen.
 
 ```csharp
 public abstract void Add(Operator op)
@@ -18,9 +18,11 @@ public abstract void Add(Operator op)
 | --- | --- | --- |
 | op | Operator | Operator som måste läggas till |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../operator/)
-* klass [BaseOperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

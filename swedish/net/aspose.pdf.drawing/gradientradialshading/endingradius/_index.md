@@ -1,21 +1,23 @@
 ---
-title: GradientRadialShading.EndingRadius
-second_title: Aspose.PDF for .NET API Reference
-description: GradientRadialShading-egenskap. Hämtar eller ställer in slutlig cirkelradie
+title: "GradientRadialShading.EndingRadius"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GradientRadialShading-egenskap. Hämtar eller anger slutcirkeln radie"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.drawing/gradientradialshading/endingradius/
 ---
-## GradientRadialShading.EndingRadius-egenskap
+## GradientRadialShading.EndingRadius property
 
-Hämtar eller ställer in slutlig cirkelradie.
+Hämtar eller anger slutcirkeln radie.
 
 ```csharp
 public double EndingRadius { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [GradientRadialShading](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

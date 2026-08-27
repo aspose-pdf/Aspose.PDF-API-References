@@ -1,12 +1,12 @@
 ---
-title: Class MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.MarginInfo klass. Denna klass representerar en marginal för olika objekt
+title: "Class MarginInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.MarginInfo class. Denna klass representerar en marginal för olika objekt"
 type: docs
-weight: 6900
+weight: 7040
 url: /sv/net/aspose.pdf/margininfo/
 ---
-## MarginInfo klass
+## MarginInfo class
 
 Denna klass representerar en marginal för olika objekt.
 
@@ -18,25 +18,27 @@ public sealed class MarginInfo : ICloneable
 
 | Namn | Beskrivning |
 | --- | --- |
-| [MarginInfo](margininfo/#constructor)() | Initierar en ny instans av `MarginInfo` klassen. |
-| [MarginInfo](margininfo/#constructor_1)(double, double, double, double) | Konstruktör för Rectangle. |
+| [MarginInfo](margininfo/#constructor)() | Initierar en ny instans av `MarginInfo`-klassen. |
+| [MarginInfo](margininfo/#constructor_1)(double, double, double, double) | Konstruktor för Rectangle. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Bottom](../../aspose.pdf/margininfo/bottom/) { get; set; } | Hämtar eller ställer in ett flyttal som anger den nedre marginalen. |
-| [Left](../../aspose.pdf/margininfo/left/) { get; set; } | Hämtar eller ställer in ett flyttal som anger den vänstra marginalen. |
-| [Right](../../aspose.pdf/margininfo/right/) { get; set; } | Hämtar eller ställer in ett flyttal som anger den högra marginalen. |
-| [Top](../../aspose.pdf/margininfo/top/) { get; set; } | Hämtar eller ställer in ett flyttal som anger den övre marginalen. |
+| [Bottom](../../aspose.pdf/margininfo/bottom/) { get; set; } | Hämtar eller anger ett flyttal som indikerar den nedre marginalen. |
+| [Left](../../aspose.pdf/margininfo/left/) { get; set; } | Hämtar eller anger ett flyttal som indikerar den vänstra marginalen. |
+| [Right](../../aspose.pdf/margininfo/right/) { get; set; } | Hämtar eller anger ett flyttal som indikerar den högra marginalen. |
+| [Top](../../aspose.pdf/margininfo/top/) { get; set; } | Hämtar eller anger ett flyttal som indikerar den övre marginalen. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Clone](../../aspose.pdf/margininfo/clone/)() | Klonar ett nytt `MarginInfo` objekt. |
+| [Clone](../../aspose.pdf/margininfo/clone/)() | Klonar ett nytt `MarginInfo`-objekt. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

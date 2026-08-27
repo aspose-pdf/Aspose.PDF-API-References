@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.DictionaryEditor
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor constructor.
+title: "DictionaryEditor.DictionaryEditor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DictionaryEditor-konstruktor."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
@@ -14,7 +14,7 @@ public DictionaryEditor(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | En sida med en ordbok för arbete. |
+| sida | Page | En sida med en ordbok för arbete. |
 
 ### Undantag
 
@@ -22,11 +22,11 @@ public DictionaryEditor(Page page)
 | --- | --- |
 | ArgumentNullException | Sidan är null eller sidstrukturen är trasig. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [DictionaryEditor](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [Page](../../../aspose.pdf/page/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -39,7 +39,7 @@ public DictionaryEditor(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Document | Ett dokument med en ordbok för arbete. |
+| dokument | Dokument | Ett dokument med en ordbok för arbete. |
 
 ### Undantag
 
@@ -47,11 +47,11 @@ public DictionaryEditor(Document document)
 | --- | --- |
 | ArgumentNullException | Dokumentet är null. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [DictionaryEditor](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [Document](../../../aspose.pdf/document/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -64,7 +64,7 @@ public DictionaryEditor(Resources resources)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| resources | Resources | Resurser med en ordbok för arbete. |
+| resurser | Resurser | Resurser med en ordbok för arbete. |
 
 ### Undantag
 
@@ -72,9 +72,11 @@ public DictionaryEditor(Resources resources)
 | --- | --- |
 | ArgumentNullException | Resurserna är null. |
 
-### Se Även
+### Se även
 
-* klass [Resources](../../../aspose.pdf/resources/)
-* klass [DictionaryEditor](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

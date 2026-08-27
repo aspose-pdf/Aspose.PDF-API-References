@@ -1,12 +1,12 @@
 ---
-title: Class FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FontColor klass. Klass som representerar färgen på texten
+title: "Klass FontColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.FontColor-klass. Klass som representerar färgen på texten"
 type: docs
-weight: 4270
+weight: 4390
 url: /sv/net/aspose.pdf.facades/fontcolor/
 ---
-## FontColor klass
+## FontColor class
 
 Klass som representerar färgen på texten.
 
@@ -25,11 +25,13 @@ public sealed class FontColor
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Blue](../../aspose.pdf.facades/fontcolor/blue/) { get; set; } | Blå komponent av färg. |
-| [Green](../../aspose.pdf.facades/fontcolor/green/) { get; set; } | Grön komponent av färg. |
-| [Red](../../aspose.pdf.facades/fontcolor/red/) { get; set; } | Röd komponent av färg. |
+| [Blue](../../aspose.pdf.facades/fontcolor/blue/) { get; set; } | Blå komponent i färgen. |
+| [Green](../../aspose.pdf.facades/fontcolor/green/) { get; set; } | Grön komponent i färgen. |
+| [Red](../../aspose.pdf.facades/fontcolor/red/) { get; set; } | Röd komponent i färgen. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

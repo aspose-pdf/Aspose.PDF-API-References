@@ -1,22 +1,24 @@
 ---
-title: PaperSources.Upper
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources-fältet. Representerar den översta facket av skrivaren eller det förvalda facket om skrivaren endast har ett fack
+title: "PaperSources.Upper"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSources-fält. Representerar det översta facket i skrivaren eller standardfacket om skrivaren bara har ett fack"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.printing/papersources/upper/
 ---
-## PaperSources.Upper-fält
+## PaperSources.Upper field
 
-Representerar den översta facket av skrivaren, eller det förvalda facket om skrivaren endast har ett fack.
+Representerar den översta behållaren i skrivaren, eller standardbehållaren om skrivaren bara har en behållare.
 
 ```csharp
 public static readonly PaperSource Upper;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSource](../../papersource/)
-* klass [PaperSources](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

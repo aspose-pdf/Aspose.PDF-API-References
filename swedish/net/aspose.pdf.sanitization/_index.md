@@ -1,15 +1,17 @@
 ---
-title: Aspose.Pdf.Sanitization
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Sanitization är ett namnrum för saniteringsoperationer
+title: "Aspose.Pdf.Sanitization"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Den Aspose.Pdf.Sanitization är ett namnrymd för saneringsoperationer."
 type: docs
-weight: 210
+weight: 200
 url: /sv/net/aspose.pdf.sanitization/
 ---
-Den **Aspose.Pdf.Sanitization** är ett namnrum för saniteringsoperationer.
+Namnområdet **Aspose.Pdf.Sanitization** är ett namnrum för saneringsoperationer.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [SanitizationException](./sanitizationexception/) | Undantaget som kastas när en saniteringsoperation misslyckades. |
+| [SanitizationException](./sanitizationexception/) | Det undantag som kastas när en saneringsoperation misslyckas. |
+
+

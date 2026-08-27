@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreFileCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.VectorStoreFileCreateRequest klass. Skapa en begäran om en vektorbutiksfil
+title: "Klass VectorStoreFileCreateRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.VectorStoreFileCreateRequest-klass. Skapa en begäran om vektorlagringsfil"
 type: docs
-weight: 1320
+weight: 1410
 url: /sv/net/aspose.pdf.ai/vectorstorefilecreaterequest/
 ---
-## VectorStoreFileCreateRequest klass
+## VectorStoreFileCreateRequest class
 
-Skapa en begäran om en vektorbutiksfil.
+Skapa en begäran om vektorlagerfil.
 
 ```csharp
 public class VectorStoreFileCreateRequest
@@ -24,9 +24,11 @@ public class VectorStoreFileCreateRequest
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FileId](../../aspose.pdf.ai/vectorstorefilecreaterequest/fileid/) { get; set; } | Hämtar eller ställer in ett fil-ID som vektorbutiken ska använda. Användbart för verktyg som file_search som kan komma åt filer. |
+| [FileId](../../aspose.pdf.ai/vectorstorefilecreaterequest/fileid/) { get; set; } | Hämtar eller anger ett fil-ID som vektorlager ska använda. Användbart för verktyg som file_search som kan komma åt filer. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

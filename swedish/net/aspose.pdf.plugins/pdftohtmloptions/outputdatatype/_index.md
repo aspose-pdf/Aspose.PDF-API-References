@@ -1,22 +1,24 @@
 ---
-title: PdfToHtmlOptions.OutputDataType
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToHtmlOptions-egenskap. Hämtar utdata datatyp
+title: "PdfToHtmlOptions.OutputDataType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfToHtmlOptions-egenskapen. Hämtar utdata-typ"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.plugins/pdftohtmloptions/outputdatatype/
 ---
-## PdfToHtmlOptions.OutputDataType-egenskap
+## PdfToHtmlOptions.OutputDataType property
 
-Hämtar utdata datatyp.
+Hämtar utdata-typen.
 
 ```csharp
 public SaveDataType OutputDataType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [SaveDataType](../../pdftohtmloptions.savedatatype/)
 * class [PdfToHtmlOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

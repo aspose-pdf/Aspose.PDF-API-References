@@ -1,14 +1,14 @@
 ---
-title: Delegate Document.FontSubstitutionHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Representerar metoden som kommer att hantera FontSubstitution-händelsen
+title: "Delegat Document.FontSubstitutionHandler"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Representerar metoden som kommer att hantera FontSubstitution‑händelsen"
 type: docs
-weight: 3810
+weight: 3930
 url: /sv/net/aspose.pdf/document.fontsubstitutionhandler/
 ---
-## Document.FontSubstitutionHandler-delegat
+## Document.FontSubstitutionHandler delegate
 
-Representerar metoden som kommer att hantera FontSubstitution-händelsen.
+Representerar metoden som kommer att hantera FontSubstitution‑händelsen.
 
 ```csharp
 public delegate void FontSubstitutionHandler(Font oldFont, Font newFont);
@@ -16,12 +16,14 @@ public delegate void FontSubstitutionHandler(Font oldFont, Font newFont);
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| oldFont | Font | original font |
-| newFont | Font | ny font |
+| oldFont | Font | ursprungligt teckensnitt |
+| newFont | Font | nytt teckensnitt |
 
-### Se Även
+### Se även
 
-* klass [Font](../../aspose.pdf.text/font/)
-* klass [Document](../document/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [Font](../../aspose.pdf.text/font/)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

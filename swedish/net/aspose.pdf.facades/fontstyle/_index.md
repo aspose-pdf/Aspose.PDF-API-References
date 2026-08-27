@@ -1,14 +1,14 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FontStyle enum. Uppräknar 14 typer av typsnitt
+title: "Enum FontStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.FontStyle enum. Enumererar 14 typer av teckensnitt"
 type: docs
-weight: 4280
+weight: 4400
 url: /sv/net/aspose.pdf.facades/fontstyle/
 ---
-## FontStyle-uppräkning
+## FontStyle enumeration
 
-Uppräknar 14 typer av typsnitt.
+Enumererar 14 typer av typsnitt.
 
 ```csharp
 public enum FontStyle
@@ -20,12 +20,12 @@ public enum FontStyle
 | --- | --- | --- |
 | Courier | `0` | Courier-typsnitt. |
 | CourierBold | `1` | Fet Courier-typsnitt. |
-| CourierOblique | `2` | Lutande Courier-typsnitt. |
-| CourierBoldOblique | `3` | Fet lutande Courier-typsnitt. |
+| CourierOblique | `2` | Kursiv Curier-typsnitt. |
+| CourierBoldOblique | `3` | Fet kursiv Courier-typsnitt. |
 | Helvetica | `4` | Helvetica-typsnitt. |
 | HelveticaBold | `5` | Fet Helvetica-typsnitt. |
-| HelveticaOblique | `6` | Lutande Helvetica-typsnitt. |
-| HelveticaBoldOblique | `7` | Fet lutande Helvetica-typsnitt. |
+| HelveticaOblique | `6` | Kursiv Helvetica-typsnitt. |
+| HelveticaBoldOblique | `7` | Fet kursiv Helvetica-typsnitt. |
 | Symbol | `8` | Symbol-typsnitt. |
 | TimesRoman | `9` | Times-Roman-typsnitt. |
 | TimesBold | `10` | Fet Times-typsnitt. |
@@ -33,9 +33,11 @@ public enum FontStyle
 | TimesBoldItalic | `12` | Fet kursiv Times-typsnitt. |
 | ZapfDingbats | `13` | ZapfDingbats-typsnitt. |
 | Unknown | `14` | Okänt typsnitt. Standardtypsnitt kommer att användas. |
-| CjkFont | `15` | True Type Font för CJK-stöd, standard är MS PGothic-typsnitt. |
+| CjkFont | `15` | True Type-typsnitt för CJK-stöd, standard är MS PGothic-typsnitt. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

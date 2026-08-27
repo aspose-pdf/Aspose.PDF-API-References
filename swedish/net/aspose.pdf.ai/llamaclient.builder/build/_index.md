@@ -1,14 +1,14 @@
 ---
-title: LlamaClient.Builder.Build
-second_title: Aspose.PDF for .NET API Reference
-description: Byggmetod. Bygger och returnerar en instans av LlamaClient med de konfigurerade alternativen
+title: "LlamaClient.Builder.Build"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Builder-metod. Bygger och returnerar en instans av LlamaClient med de konfigurerade alternativen."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/llamaclient.builder/build/
 ---
-## LlamaClient.Builder.Build metod
+## LlamaClient.Builder.Build method
 
-Bygger och returnerar en instans av [`LlamaClient`](../../llamaclient/) med de konfigurerade alternativen.
+Skapar och returnerar en instans av [`LlamaClient`](../../llamaclient/) med de konfigurerade alternativen.
 
 ```csharp
 public LlamaClient Build()
@@ -18,9 +18,11 @@ public LlamaClient Build()
 
 En instans av [`LlamaClient`](../../llamaclient/).
 
-### Se Även
+### Se även
 
-* klass [LlamaClient](../../llamaclient/)
-* klass [Builder](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [LlamaClient](../../llamaclient/)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

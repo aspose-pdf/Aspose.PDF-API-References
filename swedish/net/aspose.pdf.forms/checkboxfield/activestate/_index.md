@@ -1,21 +1,23 @@
 ---
-title: CheckboxField.ActiveState
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField-egenskap. Hämtar eller ställer in det aktuella utseendet för annotationen
+title: "CheckboxField.ActiveState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CheckboxField-egenskap. Hämtar eller anger aktuellt annoteringsutseende."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/checkboxfield/activestate/
 ---
-## CheckboxField.ActiveState-egenskap
+## CheckboxField.ActiveState property
 
-Hämtar eller ställer in det aktuella utseendet för annotationen.
+Hämtar eller anger aktuellt annoteringsutseende.
 
 ```csharp
 public override string ActiveState { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CheckboxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

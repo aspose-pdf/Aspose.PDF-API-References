@@ -1,21 +1,23 @@
 ---
-title: TextExtractionErrorLocation.OperatorIndex
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation-egenskap. Index av text som visar operator i innehållsströmmen operator-samlingen som orsakar textutvinningsfel
+title: "TextExtractionErrorLocation.OperatorIndex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextExtractionErrorLocation egenskap. Index för textvisningsoperator i innehållsströmens operatörssamling som orsakar fel vid textutdragning."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/textextractionerrorlocation/operatorindex/
 ---
-## TextExtractionErrorLocation.OperatorIndex-egenskap
+## TextExtractionErrorLocation.OperatorIndex property
 
-Index av text som visar operator i innehållsströmmen (operatorsamling) som orsakar textutvinningsfel.
+Index för textvisningsoperator i innehållsströmmen (operator-samling) som orsakar textutvinningsfel.
 
 ```csharp
 public int OperatorIndex { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextExtractionErrorLocation](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Rows klass. Representerar en samling av rader i tabellen
+title: "Klass Rows"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Rows-klass. Representerar en radsamling i en tabell"
 type: docs
-weight: 9840
+weight: 9990
 url: /sv/net/aspose.pdf/rows/
 ---
-## Rader klass
+## Rows class
 
-Representerar en samling av rader i tabellen.
+Representerar en samling rader i tabellen.
 
 ```csharp
 public sealed class Rows : IEnumerable<Row>
@@ -18,14 +18,14 @@ public sealed class Rows : IEnumerable<Row>
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Rows](rows/)() | Standardkonstruktören. |
+| [Rows](rows/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
 | [Count](../../aspose.pdf/rows/count/) { get; } | Antalet objekt. |
-| [Item](../../aspose.pdf/rows/item/) { get; set; } | Hämtar eller sätter rad. |
+| [Item](../../aspose.pdf/rows/item/) { get; set; } | Hämtar eller anger rad. |
 
 ## Metoder
 
@@ -33,15 +33,17 @@ public sealed class Rows : IEnumerable<Row>
 | --- | --- |
 | [Add](../../aspose.pdf/rows/add/#add)() | Lägg till rad i samlingen. |
 | [Add](../../aspose.pdf/rows/add/#add_1)(Row) | Lägg till rad i samlingen. |
-| [Dispose](../../aspose.pdf/rows/dispose/)() | Avyttra. |
+| [Dispose](../../aspose.pdf/rows/dispose/)() | Avsluta. |
 | [GetEnumerator](../../aspose.pdf/rows/getenumerator/)() | Hämtar samlingens enumerator |
-| [IndexOf](../../aspose.pdf/rows/indexof/)(Row) | Returnerar index för rad i samlingen. |
-| [Remove](../../aspose.pdf/rows/remove/)(Row) | Ta bort rad från samlingen. |
-| [RemoveAt](../../aspose.pdf/rows/removeat/)(int) | Ta bort rad på position från samlingen. |
-| [RemoveRange](../../aspose.pdf/rows/removerange/)(int, int) | Ta bort raduppsättning från samlingen. |
+| [IndexOf](../../aspose.pdf/rows/indexof/)(Row) | Returnerar index för raden i samlingen. |
+| [Remove](../../aspose.pdf/rows/remove/)(Row) | Ta bort raden från samlingen. |
+| [RemoveAt](../../aspose.pdf/rows/removeat/)(int) | Ta bort raden på positionen från samlingen. |
+| [RemoveRange](../../aspose.pdf/rows/removerange/)(int, int) | Ta bort raduppsättningen från samlingen. |
 
-### Se Även
+### Se även
 
-* klass [Row](../row/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [Row](../row/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

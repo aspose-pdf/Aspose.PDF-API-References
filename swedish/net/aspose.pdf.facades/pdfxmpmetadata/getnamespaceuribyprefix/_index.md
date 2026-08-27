@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.GetNamespaceURIByPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-metod. Hämtar namnrymds-URI efter prefix
+title: "PdfXmpMetadata.GetNamespaceURIByPrefix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata‑metod. Hämtar namnrymdens URI efter prefix"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/getnamespaceuribyprefix/
 ---
-## PdfXmpMetadata.GetNamespaceURIByPrefix metod
+## PdfXmpMetadata.GetNamespaceURIByPrefix method
 
-Hämtar namnrymds-URI efter prefix.
+Hämtar namespace‑URI med prefix.
 
 ```csharp
 public string GetNamespaceURIByPrefix(string prefix)
@@ -16,7 +16,7 @@ public string GetNamespaceURIByPrefix(string prefix)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| prefix | Sträng | Prefixet. |
+| prefix | String | Prefixet. |
 
 ### Returvärde
 
@@ -29,8 +29,10 @@ PdfXmpMetadata xmp = new PdfXmpMetadata("input.pdf");
 Console.WriteLine(xmp.GetNamespaceURIByPrefix("xmp"));
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfXmpMetadata](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

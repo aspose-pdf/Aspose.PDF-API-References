@@ -1,22 +1,24 @@
 ---
-title: PaperSources.LargeFormat
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources-fältet. Representerar facket för det större formatpappret
+title: "PaperSources.LargeFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSources fält. Representerar lådan för papper i större format"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.printing/papersources/largeformat/
 ---
-## PaperSources.LargeFormat-fält
+## PaperSources.LargeFormat field
 
-Representerar facket för det större formatpappret.
+Representerar behållaren för papper i större format.
 
 ```csharp
 public static readonly PaperSource LargeFormat;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSource](../../papersource/)
-* klass [PaperSources](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

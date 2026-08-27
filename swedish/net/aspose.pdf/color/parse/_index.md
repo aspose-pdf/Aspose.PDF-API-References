@@ -1,12 +1,12 @@
 ---
-title: Color.Parse
-second_title: Aspose.PDF for .NET API Reference
-description: Color-metod. Extraherar färgkomponenter från strängen
+title: "Color.Parse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-metod. Extraherar färgkomponenter från strängen"
 type: docs
 weight: 1480
 url: /sv/net/aspose.pdf/color/parse/
 ---
-## Color.Parse metod
+## Color.Parse method
 
 Extraherar färgkomponenter från strängen.
 
@@ -16,14 +16,16 @@ public static Color Parse(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Sträng | Strängvärde med färgkomponentvärden. |
+| värde | String | Strängvärde med färgkomponentvärden. |
 
 ### Returvärde
 
-Färgobjekt.
+Color-objekt.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

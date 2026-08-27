@@ -1,21 +1,23 @@
 ---
-title: CreateEmbeddingRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingRequest-egenskap. Hämtar eller ställer in modellen för att generera inbäddningen för
+title: "CreateEmbeddingRequest.Model"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateEmbeddingRequest-egenskap. Hämtar eller anger modellen för att generera inbäddningen för"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/createembeddingrequest/model/
 ---
-## CreateEmbeddingRequest.Model-egenskap
+## CreateEmbeddingRequest.Model property
 
-Hämtar eller ställer in modellen för att generera inbäddningen för.
+Hämtar eller anger modellen för att generera embeddingarna.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateEmbeddingRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [CreateEmbeddingRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

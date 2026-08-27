@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.FindByName
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection metod. Returnerar annotationen med dess namn
+title: "AnnotationCollection.FindByName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationCollection‑metod. Returnerar annotation efter dess namn"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.annotations/annotationcollection/findbyname/
 ---
-## AnnotationCollection.FindByName metod
+## AnnotationCollection.FindByName method
 
-Returnerar annotationen med dess namn.
+Returnerar annotation efter dess namn.
 
 ```csharp
 public Annotation FindByName(string name)
@@ -16,15 +16,17 @@ public Annotation FindByName(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Namn på annotationen |
+| namn | String | Namnet på annotationen |
 
 ### Returvärde
 
-Annotation-objekt om det hittas; annars, null.
+Annotation‑objekt om hittat; annars null.
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../annotation/)
-* klass [AnnotationCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ImageStamp.Image
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp-egenskap. Hämtar bildström som används för stämpling
+title: "ImageStamp.Image"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageStamp egenskap. Hämtar bildström som används för stämpling"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/imagestamp/image/
 ---
-## ImageStamp.Image-egenskap
+## ImageStamp.Image property
 
 Hämtar bildström som används för stämpling.
 
@@ -14,8 +14,10 @@ Hämtar bildström som används för stämpling.
 public Stream Image { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

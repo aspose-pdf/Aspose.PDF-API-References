@@ -1,22 +1,24 @@
 ---
-title: LineAnnotation.CaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation-egenskap. Hämtar eller ställer in positionen för annotationsrubriken
+title: "LineAnnotation.CaptionPosition"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineAnnotation egenskap. Hämtar eller anger position för annoteringsrubrik"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/lineannotation/captionposition/
 ---
-## LineAnnotation.CaptionPosition-egenskap
+## LineAnnotation.CaptionPosition property
 
-Hämtar eller ställer in positionen för annotationsrubriken.
+Hämtar eller anger annotationens bildtextposition.
 
 ```csharp
 public CaptionPosition CaptionPosition { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [CaptionPosition](../../captionposition/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TocGenerator.TocGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: TocGenerator-konstruktorn. Standardkonstruktorn
+title: "TocGenerator.TocGenerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TocGenerator-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/tocgenerator/tocgenerator/
 ---
-## TocGenerator-konstruktorn
+## TocGenerator constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public TocGenerator()
 ```
 
-### Se Även
+### Se även
 
-* klass [TocGenerator](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TocGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

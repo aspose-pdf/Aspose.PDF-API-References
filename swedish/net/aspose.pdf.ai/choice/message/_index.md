@@ -1,22 +1,24 @@
 ---
-title: Choice.Message
-second_title: Aspose.PDF for .NET API Reference
-description: Choice-egenskap. Hämtar eller ställer in ett chattkompletteringsmeddelande som genererats av modellen
+title: "Choice.Message"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Choice-egenskap. Hämtar eller anger ett chattkompletteringsmeddelande som genererats av modellen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/choice/message/
 ---
-## Choice.Message-egenskap
+## Choice.Message property
 
-Hämtar eller ställer in ett chattkompletteringsmeddelande som genererats av modellen.
+Hämtar eller anger ett chattkompletteringsmeddelande genererat av modellen.
 
 ```csharp
-public ChatMessage Message { get; set; }
+public ChatMessageResponse Message { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ChatMessage](../../chatmessage/)
-* klass [Choice](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ChatMessageResponse](../../chatmessageresponse/)
+* class [Choice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

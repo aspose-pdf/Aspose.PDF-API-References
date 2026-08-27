@@ -1,14 +1,14 @@
 ---
-title: Interface IPipelineOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IPipelineOptions-gränssnitt. Definierar konverteringsalternativ relaterade till pipeline-konfiguration
+title: "Gränssnitt IPipelineOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.IPipelineOptions gränssnitt. Definierar konverteringsalternativ relaterade till pipeline-konfiguration"
 type: docs
-weight: 5810
+weight: 5940
 url: /sv/net/aspose.pdf/ipipelineoptions/
 ---
-## IPipelineOptions-gränssnitt
+## IPipelineOptions interface
 
-Definierar konverteringsalternativ relaterade till pipeline-konfiguration.
+Definierar konverteringsalternativ relaterade till pipeline‑konfiguration.
 
 ```csharp
 public interface IPipelineOptions
@@ -18,9 +18,11 @@ public interface IPipelineOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize/) { get; set; } | Anger storleken på en portion sidor som ska överföras från nod till nod. |
+| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize/) { get; set; } | Anger storleken på en del av sidorna som ska överföras från nod till nod. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

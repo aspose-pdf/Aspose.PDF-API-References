@@ -1,12 +1,12 @@
 ---
-title: Class WarningInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.WarningInfo klass. Oföränderligt objekt för att kapsla in varningsinformation
+title: "Klass WarningInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.WarningInfo klass. Oföränderligt objekt för att kapsla in varningsinformation"
 type: docs
-weight: 11280
+weight: 11470
 url: /sv/net/aspose.pdf/warninginfo/
 ---
-## WarningInfo klass
+## WarningInfo class
 
 Oföränderligt objekt för att kapsla in varningsinformation.
 
@@ -18,16 +18,18 @@ public sealed class WarningInfo
 
 | Namn | Beskrivning |
 | --- | --- |
-| [WarningInfo](warninginfo/)(WarningType, string) | Konstruerar instans för att samla information. |
+| [WarningInfo](warninginfo/)(WarningType, string) | Skapar en instans för att samla information. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [WarningMessage](../../aspose.pdf/warninginfo/warningmessage/) { get; } | Returnerar strängrepresentation av varningsmeddelande. |
+| [WarningMessage](../../aspose.pdf/warninginfo/warningmessage/) { get; } | Returnerar strängrepresentation av varningsmeddelandet. |
 | [WarningTypeProperty](../../aspose.pdf/warninginfo/warningtypeproperty/) { get; } | Returnerar varningstyp. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

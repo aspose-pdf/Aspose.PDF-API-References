@@ -1,14 +1,14 @@
 ---
-title: Field.ExecuteFieldJavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: Fältmetod. Utför en specificerad JavaScript-åtgärd för fältet
+title: "Field.ExecuteFieldJavaScript"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Field metod. Utför en specificerad JavaScript‑åtgärd för fältet"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.forms/field/executefieldjavascript/
 ---
-## Field.ExecuteFieldJavaScript metod
+## Field.ExecuteFieldJavaScript method
 
-Utför en specificerad JavaScript-åtgärd för fältet.
+Utför en specificerad JavaScript‑åtgärd för fältet.
 
 ```csharp
 public void ExecuteFieldJavaScript(JavascriptAction javaScriptAction)
@@ -16,11 +16,13 @@ public void ExecuteFieldJavaScript(JavascriptAction javaScriptAction)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| javaScriptAction | JavascriptAction | Den JavaScript-åtgärd som ska utföras. |
+| javaScriptAction | JavascriptAction | JavaScript‑åtgärden att utföra. |
 
-### Se Även
+### Se även
 
-* klass [JavascriptAction](../../../aspose.pdf.annotations/javascriptaction/)
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [JavascriptAction](../../../aspose.pdf.annotations/javascriptaction/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

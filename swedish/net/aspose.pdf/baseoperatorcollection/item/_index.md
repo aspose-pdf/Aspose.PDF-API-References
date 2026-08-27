@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection-egenskap. Hämtar operatör efter dess index
+title: "BaseOperatorCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseOperatorCollection egenskap. Hämtar operatorn efter dess index"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/baseoperatorcollection/item/
 ---
 ## BaseOperatorCollection indexer
 
-Hämtar operatör efter dess index.
+Hämtar operatorn efter dess index.
 
 ```csharp
 public abstract Operator this[int index] { get; set; }
@@ -16,15 +16,17 @@ public abstract Operator this[int index] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Index för operatör. Numreringen börjar från 1. |
+| index | Index för operatorn. Numreringen börjar från 1. |
 
 ### Returvärde
 
-Operatör från begärt index
+Operator från begärt index
 
-### Se Även
+### Se även
 
-* klass [Operator](../../operator/)
-* klass [BaseOperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

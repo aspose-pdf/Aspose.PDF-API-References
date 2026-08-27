@@ -1,21 +1,23 @@
 ---
-title: TextSearchOptions.StoredGraphicElementsMaxCount
-second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions-egenskap. Hämtar eller ställer in värde som begränsar sökningen efter textrelaterade grafik på en sida för det angivna antalet element. Standardvärdet är 250. Ställ in ett lägre värde vid prestandaproblem, försök med ett högre värde om vissa grafiska element inte hittades.
+title: "TextSearchOptions.StoredGraphicElementsMaxCount"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSearchOptions‑egenskap. Hämtar eller anger ett värde som begränsar sökningen efter textrelaterade grafik‑understrykningar, bakgrunder osv. på en sida för det angivna antalet element. Standardvärdet är 250. Ange ett lägre värde vid prestandaproblem, prova ett högre värde om vissa grafikelement inte hittades."
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount/
 ---
-## TextSearchOptions.StoredGraphicElementsMaxCount-egenskap
+## TextSearchOptions.StoredGraphicElementsMaxCount property
 
-Hämtar eller ställer in värde som begränsar sökningen efter textrelaterade grafik (understrykning, bakgrund osv.) på en sida för det angivna antalet element. Standardvärdet är 250. Ställ in ett lägre värde vid prestandaproblem, försök med ett högre värde om vissa grafiska element inte hittades.
+Hämtar eller anger värdet som begränsar sökning efter textrelaterad grafik (understrykning, bakgrund osv.) på en sida för det angivna antalet element. Standardvärdet är 250. Ange ett lägre värde vid prestandaproblem, prova ett högre värde om vissa grafiska element inte hittades.
 
 ```csharp
 public int StoredGraphicElementsMaxCount { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextSearchOptions](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

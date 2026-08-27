@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.TextDecorationThickness
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnyckel fält. TextDecorationThickness attribut Layout attribut ägare
+title: "AttributeKey.TextDecorationThickness"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey-fält. TextDecorationThickness-attribut Layout-attribut ägare"
 type: docs
 weight: 360
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/textdecorationthickness/
 ---
-## AttributeKey.TextDecorationThickness fält
+## AttributeKey.TextDecorationThickness field
 
-TextDecorationThickness attribut (Layout attribut ägare).
+TextDecorationThickness-attribut (Layout attributägare).
 
 ```csharp
 public static readonly AttributeKey TextDecorationThickness;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TeXMemoryOutputDirectory.TeXMemoryOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: TeXMemoryOutputDirectory-konstruktorn. Standardkonstruktorn
+title: "TeXMemoryOutputDirectory.TeXMemoryOutputDirectory"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXMemoryOutputDirectory‑konstruktorn. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/texmemoryoutputdirectory/texmemoryoutputdirectory/
 ---
-## TeXMemoryOutputDirectory-konstruktorn
+## TeXMemoryOutputDirectory constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public TeXMemoryOutputDirectory()
 ```
 
-### Se Även
+### Se även
 
-* klass [TeXMemoryOutputDirectory](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: SignOptions.Contact
-second_title: Aspose.PDF for .NET API Reference
-description: SignOptions-egenskap. Kontakten för signaturen
+title: "SignOptions.Contact"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignOptions‑egenskap. Kontaktinformationen för signaturen."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/signoptions/contact/
 ---
-## SignOptions.Contact-egenskap
+## SignOptions.Contact property
 
-Kontakten för signaturen.
+Kontakt för signaturen.
 
 ```csharp
 public string Contact { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SignOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

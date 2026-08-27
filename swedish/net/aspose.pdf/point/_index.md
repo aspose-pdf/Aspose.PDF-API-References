@@ -1,14 +1,14 @@
 ---
-title: Class Point
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Point klass. Representera punkt med bråkdelar koordinater
+title: "Klass Point"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Point-klass. Representerar en punkt med bråkliga koordinater"
 type: docs
-weight: 9460
+weight: 9610
 url: /sv/net/aspose.pdf/point/
 ---
-## Punkt klass
+## Point class
 
-Representera punkt med bråkdelar koordinater.
+Representerar en punkt med bråkliga koordinater.
 
 ```csharp
 public sealed class Point
@@ -24,19 +24,21 @@ public sealed class Point
 
 | Namn | Beskrivning |
 | --- | --- |
-| static [Trivial](../../aspose.pdf/point/trivial/) { get; } | Hämtar punkt med noll koordinater. |
-| [X](../../aspose.pdf/point/x/) { get; set; } | X koordinat värde. |
-| [Y](../../aspose.pdf/point/y/) { get; set; } | Y koordinat värde. |
+| static [Trivial](../../aspose.pdf/point/trivial/) { get; } | Hämtar en punkt med nollkoordinater. |
+| [X](../../aspose.pdf/point/x/) { get; set; } | X-koordinatvärde. |
+| [Y](../../aspose.pdf/point/y/) { get; set; } | Y-koordinatvärde. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ToPoint](../../aspose.pdf/point/topoint/)() | Konverterar punkt till System.Drawing.PointF objekt. |
-| override [ToString](../../aspose.pdf/point/tostring/)() | Returnerar strängrepresentation av nuvarande punkt. |
+| [ToPoint](../../aspose.pdf/point/topoint/)() | Konverterar punkten till ett System.Drawing.PointF-objekt. |
+| override [ToString](../../aspose.pdf/point/tostring/)() | Returnerar en strängrepresentation av den aktuella punkten. |
 | static [Distance](../../aspose.pdf/point/distance/)(Point, Point) | Beräknar avståndet mellan två punkter. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageStamp.PdfPageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageStamp-konstruktör. Konstruktör av PdfPageStamp
+title: "PdfPageStamp.PdfPageStamp"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageStamp konstruktor. Konstruktor för PdfPageStamp"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pdfpagestamp/pdfpagestamp/
 ---
 ## PdfPageStamp(Page) {#constructor}
 
-Konstruktör av PdfPageStamp.
+Konstruktor för PdfPageStamp.
 
 ```csharp
 public PdfPageStamp(Page pdfPage)
@@ -18,18 +18,18 @@ public PdfPageStamp(Page pdfPage)
 | --- | --- | --- |
 | pdfPage | Page | Sida som används för stämpling. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [PdfPageStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfPageStamp(string, int) {#constructor_2}
 
-Skapar Pdf-sidestämpel från angiven sida av dokumentet i angiven fil.
+Skapar en PDF-sidstämpel från den angivna sidan i dokumentet i den specificerade filen.
 
 ```csharp
 public PdfPageStamp(string fileName, int pageIndex)
@@ -37,20 +37,20 @@ public PdfPageStamp(string fileName, int pageIndex)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | Sträng | Namn och sida av PDF-fil. |
-| pageIndex | Int32 | Index för sidan. |
+| `fileName` | String | Namn och sida för PDF-fil. |
+| pageIndex | Int32 | Sidans index. |
 
-### Se Även
+### Se även
 
-* klass [PdfPageStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfPageStamp(Stream, int) {#constructor_1}
 
-Skapar Pdf-sidestämpel från angiven sida i dokumentet från strömmen.
+Skapar en PDF-sidstämpel från den angivna sidan i dokumentet från strömmen.
 
 ```csharp
 public PdfPageStamp(Stream stream, int pageIndex)
@@ -58,11 +58,13 @@ public PdfPageStamp(Stream stream, int pageIndex)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Ström som innehåller PDF |
-| pageIndex | Int32 | Index för sidan. |
+| ström | Stream | Ström som innehåller PDF |
+| pageIndex | Int32 | Sidans index. |
 
-### Se Även
+### Se även
 
-* klass [PdfPageStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

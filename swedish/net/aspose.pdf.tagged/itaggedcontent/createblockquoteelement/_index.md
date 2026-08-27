@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateBlockQuoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent metod. Skapar BlockQuoteElement
+title: "ITaggedContent.CreateBlockQuoteElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar BlockQuoteElement"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createblockquoteelement/
 ---
-## ITaggedContent.CreateBlockQuoteElement metod
+## ITaggedContent.CreateBlockQuoteElement method
 
 Skapar [`BlockQuoteElement`](../../../aspose.pdf.logicalstructure/blockquoteelement/).
 
@@ -16,11 +16,13 @@ public BlockQuoteElement CreateBlockQuoteElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [BlockQuoteElement](../../../aspose.pdf.logicalstructure/blockquoteelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [BlockQuoteElement](../../../aspose.pdf.logicalstructure/blockquoteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

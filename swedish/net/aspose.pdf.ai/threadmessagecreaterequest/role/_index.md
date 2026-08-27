@@ -1,21 +1,23 @@
 ---
-title: ThreadMessageCreateRequest.Role
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest-egenskap. Hämtar eller ställer in rollen för entiteten som skapar meddelandet. Tillåtna värden inkluderar användare, assistent
+title: "ThreadMessageCreateRequest.Role"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageCreateRequest-egenskap. Hämtar eller anger rollen för enheten som skapar meddelandet. Tillåtna värden inkluderar user assistant"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.ai/threadmessagecreaterequest/role/
 ---
-## ThreadMessageCreateRequest.Role-egenskap
+## ThreadMessageCreateRequest.Role property
 
-Hämtar eller ställer in rollen för entiteten som skapar meddelandet. Tillåtna värden inkluderar: "user", "assistant".
+Hämtar eller anger rollen för enheten som skapar meddelandet. Tillåtna värden inkluderar: "user", "assistant".
 
 ```csharp
 public string Role { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

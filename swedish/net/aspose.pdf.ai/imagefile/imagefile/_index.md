@@ -1,12 +1,12 @@
 ---
-title: ImageFile.ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: ImageFile-konstruktorn. Standardkonstruktorn
+title: "ImageFile.ImageFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageFile‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/imagefile/imagefile/
 ---
-## ImageFile-konstruktorn
+## ImageFile constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ImageFile()
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageFile](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ImageFile](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

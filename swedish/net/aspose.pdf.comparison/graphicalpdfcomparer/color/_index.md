@@ -1,22 +1,24 @@
 ---
-title: GraphicalPdfComparer.Color
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer-egenskap. Hämtar och ställer in färgen för ändringsflaggan. Standardfärgen är röd
+title: "GraphicalPdfComparer.Color"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicalPdfComparer egenskap. Hämtar och anger färgen på förändringsflaggan. Standardfärgen är röd"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.comparison/graphicalpdfcomparer/color/
 ---
-## GraphicalPdfComparer.Color-egenskap
+## GraphicalPdfComparer.Color property
 
-Hämtar och ställer in färgen för ändringsflaggan. Standardfärgen är röd.
+Hämtar och anger färgen på förändringsflaggan. Standardfärgen är röd.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [GraphicalPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [Color](../../../aspose.pdf/color/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

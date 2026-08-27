@@ -1,14 +1,14 @@
 ---
-title: Class GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.GradientAxialShading klass. Representerar gradient axial skuggning klass
+title: "Klass GradientAxialShading"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Drawing.GradientAxialShading-klass. Representerar gradientaxial skuggklass."
 type: docs
-weight: 3920
+weight: 4040
 url: /sv/net/aspose.pdf.drawing/gradientaxialshading/
 ---
-## GradientAxialShading klass
+## GradientAxialShading class
 
-Representerar gradient axial skuggning klass.
+Representerar gradientaxial skuggklass.
 
 ```csharp
 public class GradientAxialShading : PatternColorSpace
@@ -18,20 +18,22 @@ public class GradientAxialShading : PatternColorSpace
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GradientAxialShading](gradientaxialshading/#constructor)() | Initierar en ny instans av `GradientAxialShading` klassen. |
-| [GradientAxialShading](gradientaxialshading/#constructor_1)(Color, Color) | Initierar en ny instans av `GradientAxialShading` klassen. |
+| [GradientAxialShading](gradientaxialshading/#constructor)() | Initierar en ny instans av `GradientAxialShading`-klassen. |
+| [GradientAxialShading](gradientaxialshading/#constructor_1)(Color, Color) | Initierar en ny instans av `GradientAxialShading`-klassen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [End](../../aspose.pdf.drawing/gradientaxialshading/end/) { get; set; } | Hämtar eller ställer in slutpunkt. |
-| [EndColor](../../aspose.pdf.drawing/gradientaxialshading/endcolor/) { get; set; } | Hämtar eller ställer in slutfärg. |
-| [Start](../../aspose.pdf.drawing/gradientaxialshading/start/) { get; set; } | Hämtar eller ställer in startpunkt. |
-| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor/) { get; set; } | Hämtar eller ställer in startfärg. |
+| [End](../../aspose.pdf.drawing/gradientaxialshading/end/) { get; set; } | Hämtar eller anger slutpunkt. |
+| [EndColor](../../aspose.pdf.drawing/gradientaxialshading/endcolor/) { get; set; } | Hämtar eller anger slutfärg. |
+| [Start](../../aspose.pdf.drawing/gradientaxialshading/start/) { get; set; } | Hämtar eller anger startpunkt. |
+| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor/) { get; set; } | Hämtar eller anger startfärg. |
 
-### Se Även
+### Se även
 
-* klass [PatternColorSpace](../patterncolorspace/)
-* namnrymd [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* sammansättning [Aspose.PDF](../../)
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: MarkdownSaveOptions.ExtractVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions-egenskap. Hämtar och ställer in en egenskap som indikerar om vektorgrafik ska extraheras
+title: "MarkdownSaveOptions.ExtractVectorGraphics"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkdownSaveOptions-egenskap. Hämtar och anger en egenskap som visar om vektorgrafik ska extraheras"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/markdownsaveoptions/extractvectorgraphics/
 ---
-## MarkdownSaveOptions.ExtractVectorGraphics-egenskap
+## MarkdownSaveOptions.ExtractVectorGraphics property
 
-Hämtar och ställer in en egenskap som indikerar om vektorgrafik ska extraheras.
+Hämtar och anger en egenskap som indikerar om vektorgrafik ska extraheras.
 
 ```csharp
 public bool ExtractVectorGraphics { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarkdownSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

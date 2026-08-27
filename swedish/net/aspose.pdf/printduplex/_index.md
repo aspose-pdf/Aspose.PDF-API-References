@@ -1,14 +1,14 @@
 ---
-title: Enum PrintDuplex
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PrintDuplex enum. Pappershanteringsalternativet som ska användas när filen skrivs ut från utskriftsdialogrutan
+title: "Enum PrintDuplex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PrintDuplex-enum. Pappershanteringsalternativet att använda när filen skrivs ut från utskriftsdialogen"
 type: docs
-weight: 9500
+weight: 9650
 url: /sv/net/aspose.pdf/printduplex/
 ---
-## PrintDuplex-uppräkning
+## PrintDuplex enumeration
 
-Pappershanteringsalternativet som ska användas när filen skrivs ut från utskriftsdialogrutan..
+Pappershanteringsalternativet att använda när filen skrivs ut från utskriftsdialogen.
 
 ```csharp
 public enum PrintDuplex
@@ -18,11 +18,13 @@ public enum PrintDuplex
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Simplex | `0` | Skriv ut enkel sida. |
-| DuplexFlipShortEdge | `1` | Duplex och vänd på kortsidan av arket. |
-| DuplexFlipLongEdge | `2` | Duplex och vänd på långsidan av arket. |
+| Simplex | `0` | Skriv ut enkeltsidig. |
+| DuplexFlipShortEdge | `1` | Duplex och vändning på kortsidan av arket. |
+| DuplexFlipLongEdge | `2` | Duplex och vändning på papirets långa kant. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

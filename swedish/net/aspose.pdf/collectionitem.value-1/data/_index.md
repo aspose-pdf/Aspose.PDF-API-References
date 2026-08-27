@@ -1,21 +1,23 @@
 ---
-title: CollectionItem.Value1.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Värdeegenskap. Hämtar ett samlingsobjekts värde
+title: "CollectionItem.Value1.Data"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Value-egenskap. Hämtar ett värde för ett samlingsobjekt"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/collectionitem.value-1/data/
 ---
-## CollectionItem.Value&lt;T&gt;.Data-egenskap
+## CollectionItem.Value&lt;T&gt;.Data property
 
-Hämtar ett samlingsobjekts värde.
+Hämtar ett värde för en samlingspost.
 
 ```csharp
 public T Data { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Value&lt;T&gt;](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Value&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

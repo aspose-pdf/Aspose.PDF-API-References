@@ -1,37 +1,39 @@
 ---
-title: Enum AnnotationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.AnnotationFlags enum. En uppsättning flaggor som specificerar olika egenskaper för annotationen
+title: "Enum AnnotationFlags"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.AnnotationFlags enum. En uppsättning flaggor som specificerar olika egenskaper hos annoteringen"
 type: docs
-weight: 1440
+weight: 1530
 url: /sv/net/aspose.pdf.annotations/annotationflags/
 ---
 ## AnnotationFlags enumeration
 
-En uppsättning flaggor som specificerar olika egenskaper för annotationen.
+En uppsättning flaggor som specificerar olika egenskaper hos annotationen.
 
 ```csharp
 [Flags]
 public enum AnnotationFlags
 ```
 
-### Values
+### Värden
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Default | `0` | Standardvärde. |
-| Invisible | `1` | Om inställd, visa inte annotationen om den inte tillhör en av de standardiserade annotationstyperna och ingen annotationhanterare är tillgänglig. Om avmarkerad, visa en sådan okänd annotation med hjälp av en utseendeström som specificeras av dess utseendedokument, om någon. |
-| Hidden | `2` | Om inställd, visa eller skriv inte ut annotationen eller tillåt den att interagera med användaren, oavsett dess annotationstyp eller om en annotationhanterare är tillgänglig. I fall där skärmutrymmet är begränsat kan möjligheten att dölja och visa annotationer selektivt användas i kombination med utseendeströmmar för att visa hjälpinformation som liknar funktionaliteten hos onlinehjälpsystem. |
-| Print | `4` | Om inställd, skriv ut annotationen när sidan skrivs ut. Om avmarkerad, skriv aldrig ut annotationen, oavsett om den visas på skärmen. Detta kan vara användbart, till exempel för annotationer som representerar interaktiva knappar, som inte skulle ha något meningsfullt syfte på den utskrivna sidan. |
-| NoZoom | `8` | Om inställd, skala inte annotationens utseende för att matcha förstoring av sidan. Platsen för annotationen på sidan (definierad av det övre vänstra hörnet av dess annotationsrektangel) förblir fast, oavsett sidförstoring. |
-| NoRotate | `10` | Om inställd, rotera inte annotationens utseende för att matcha rotationen av sidan. Det övre vänstra hörnet av annotationsrektangeln förblir på en fast plats på sidan, oavsett sidrotation. |
-| NoView | `20` | Om inställd, visa inte annotationen på skärmen eller tillåt den att interagera med användaren. Annotationen kan skrivas ut (beroende på inställningen av Print-flaggan) men bör betraktas som dold för syften med visning på skärmen och användarinteraktion. |
-| ReadOnly | `40` | Om inställd, tillåt inte annotationen att interagera med användaren. Annotationen kan visas eller skrivas ut (beroende på inställningarna för NoView och Print-flaggarna) men bör inte svara på musklik eller ändra sitt utseende som svar på musrörelser. Denna flagga ignoreras för widgetannotationer; dess funktion är underordnad ReadOnly-flaggan för det associerade formulärfältet. |
-| Locked | `80` | Om inställd, tillåt inte att annotationen raderas eller dess egenskaper (inklusive position och storlek) ändras av användaren. Denna flagga begränsar dock inte ändringar av annotationens innehåll, såsom värdet av ett formulärfält. |
-| ToggleNoView | `100` | Om inställd, invertera tolkningen av NoView-flaggan för vissa händelser. En typisk användning är att ha en annotation som endast visas när en muspekare hålls över den. |
-| LockedContents | `200` | Om inställd, tillåt inte att innehållet i annotationen ändras av användaren. Denna flagga begränsar inte radering av annotationen eller ändringar av andra annotationsegenskaper, såsom position och storlek. |
+| Invisible | `1` | Om flaggan är satt, visa inte annoteringen om den inte tillhör någon av de standardannotationstyperna och ingen annotation handler är tillgänglig. Om flaggan är avstängd, visa en sådan okänd annotation med hjälp av en appearance stream som specificeras i dess appearance dictionary, om någon finns. |
+| Hidden | `2` | Om flaggan är satt, visa eller skriv inte ut annoteringen eller tillåt den att interagera med användaren, oavsett dess annotationstyp eller om en annotation handler är tillgänglig. I situationer där skärmutrymmet är begränsat kan möjligheten att selektivt dölja och visa annotationer användas i kombination med appearance streams för att visa extra popup‑information som fungerar liknande online‑hjälpsystem. |
+| Print | `4` | Om flaggan är satt, skriv ut annoteringen när sidan skrivs ut. Om flaggan är avstängd, skriv aldrig ut annoteringen, oavsett om den visas på skärmen. Detta kan vara användbart, till exempel för annotationer som representerar interaktiva tryckknappar, vilka inte har någon meningsfull funktion på den utskrivna sidan. |
+| NoZoom | `8` | Om flaggan är satt, skala inte annoteringens utseende för att matcha sidans förstoring. Annoteringens position på sidan (definierad av det övre vänstra hörnet av dess annotation‑rektangel) förblir fast, oavsett sidans förstoring. |
+| NoRotate | `10` | Om flaggan är satt, rotera inte annoteringens utseende för att matcha sidans rotation. Det övre vänstra hörnet av annotation‑rektangeln förblir på en fast plats på sidan, oavsett sidans rotation. |
+| NoView | `20` | Om flaggan är satt, visa inte annoteringen på skärmen eller låt den interagera med användaren. Annoteringen kan skrivas ut (beroende på Print‑flaggan) men bör betraktas som dold för skärmvisning och användarinteraktion. |
+| ReadOnly | `40` | Om flaggan är satt, tillåt inte annoteringen att interagera med användaren. Annoteringen kan visas eller skrivas ut (beroende på inställningarna för NoView‑ och Print‑flaggorna) men ska inte svara på musklick eller ändra sitt utseende vid musrörelser. Denna flagga ignoreras för widget‑annotationer; dess funktion tas över av ReadOnly‑flaggan för det associerade formulärfältet. |
+| Locked | `80` | Om flaggan är satt, tillåt inte att annoteringen tas bort eller att dess egenskaper (inklusive position och storlek) ändras av användaren. Denna flagga begränsar dock inte ändringar av annoteringens innehåll, såsom värdet i ett formulärfält. |
+| ToggleNoView | `100` | Om flaggan är satt, invertera tolkningen av NoView‑flaggan för vissa händelser. Ett typiskt användningsområde är en annotation som bara visas när muspekaren hålls över den. |
+| LockedContents | `200` | Om flaggan är satt, tillåt inte att annoteringens innehåll ändras av användaren. Denna flagga begränsar inte borttagning av annoteringen eller ändringar av andra annoteringsegenskaper, såsom position och storlek. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Table.RepeatingRowsStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellens egenskap. Hämtar stilen för upprepande rader
+title: "Table.RepeatingRowsStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Table‑egenskap. Hämtar stilen för upprepande rader."
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf/table/repeatingrowsstyle/
 ---
-## Table.RepeatingRowsStyle egenskap
+## Table.RepeatingRowsStyle property
 
 Hämtar stilen för upprepande rader
 
@@ -14,9 +14,11 @@ Hämtar stilen för upprepande rader
 public TextState RepeatingRowsStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

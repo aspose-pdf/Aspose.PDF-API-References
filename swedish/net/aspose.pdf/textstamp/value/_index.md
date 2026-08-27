@@ -1,21 +1,23 @@
 ---
-title: TextStamp.Value
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-egenskap. Hämtar eller ställer in strängvärde som används som stämpel på sidan
+title: "TextStamp.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp-egenskap. Hämtar eller anger strängvärdet som används som stämpel på sidan"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/textstamp/value/
 ---
-## TextStamp.Value-egenskap
+## TextStamp.Value property
 
-Hämtar eller ställer in strängvärde som används som stämpel på sidan.
+Hämtar eller anger strängvärdet som används som stämpel på sidan.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

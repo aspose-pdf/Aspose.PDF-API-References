@@ -1,22 +1,24 @@
 ---
-title: PdfToXlsOptions.Format
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToXlsOptions egenskap. Utdataformat
+title: "PdfToXlsOptions.Format"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfToXlsOptions egenskap. Utdataformat"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/pdftoxlsoptions/format/
 ---
-## PdfToXlsOptions.Format egenskap
+## PdfToXlsOptions.Format property
 
-Utdataformat.
+Utdatformat.
 
 ```csharp
 public ExcelFormat Format { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [ExcelFormat](../../pdftoxlsoptions.excelformat/)
 * class [PdfToXlsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

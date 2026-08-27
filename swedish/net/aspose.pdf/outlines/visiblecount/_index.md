@@ -1,21 +1,23 @@
 ---
-title: Outlines.VisibleCount
-second_title: Aspose.PDF for .NET API Reference
-description: Outlines-egenskap. Hämtar det totala antalet punktlistor på alla nivåer i dokumentets punktlistahierarki
+title: "Outlines.VisibleCount"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Outlines-egenskapen. Hämtar det totala antalet konturposter på alla nivåer i dokumentets konturhierarki."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/outlines/visiblecount/
 ---
-## Outlines.VisibleCount-egenskap
+## Outlines.VisibleCount property
 
-Hämtar det totala antalet punktlistor på alla nivåer i dokumentets punktlistahierarki.
+Hämtar det totala antalet outline-items på alla nivåer i dokumentets outline-hierarki.
 
 ```csharp
 public abstract int VisibleCount { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Outlines](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

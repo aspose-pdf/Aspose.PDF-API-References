@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Units
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue-metoden. Initierar värde i standard rymdenheter
+title: "PdfFileEditor.ContentsResizeValue.Units"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ContentsResizeValue‑metod. Initierar värde i standardrymdsenheter"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/units/
 ---
-## PdfFileEditor.ContentsResizeValue.Units metod
+## PdfFileEditor.ContentsResizeValue.Units method
 
-Initierar värde i standard rymdenheter.
+Initierar värdet i standardrymdsenheter.
 
 ```csharp
 public static ContentsResizeValue Units(double value)
@@ -16,14 +16,16 @@ public static ContentsResizeValue Units(double value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Double | Värde i enheter. |
+| värde | Double | Värde i enheter. |
 
 ### Returvärde
 
 Ny värdeinstans.
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeValue](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

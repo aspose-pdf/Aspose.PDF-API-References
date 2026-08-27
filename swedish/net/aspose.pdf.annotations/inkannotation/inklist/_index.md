@@ -1,22 +1,24 @@
 ---
-title: InkAnnotation.InkList
-second_title: Aspose.PDF for .NET API Reference
-description: InkAnnotation-egenskap. Hämtar eller ställer in en lista över gester som är oberoende linjer som representeras av Point-arrayer
+title: "InkAnnotation.InkList"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "InkAnnotation-egenskapen. Hämtar eller anger en lista med gester som är oberoende linjer representerade av Point-arrayer."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/inkannotation/inklist/
 ---
-## InkAnnotation.InkList-egenskap
+## InkAnnotation.InkList property
 
-Hämtar eller ställer in en lista över gester som är oberoende linjer som representeras av Point[]-arrayer.
+Hämtar eller anger lista över gester som är oberoende linjer representerade av Point[]-arrayer.
 
 ```csharp
 public IList<Point[]> InkList { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../../../aspose.pdf/point/)
-* klass [InkAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Point](../../../aspose.pdf/point/)
+* class [InkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

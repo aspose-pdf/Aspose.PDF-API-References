@@ -1,21 +1,23 @@
 ---
-title: TeXLoadOptions.DateTime
-second_title: Aspose.PDF for .NET API Reference
-description: TeXLoadOptions-egenskap. Hämtar/anger ett visst värde för datum/tid primitiva som år, månad, dag och tid
+title: "TeXLoadOptions.DateTime"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXLoadOptions egenskap. Hämtar/sätter ett visst värde för datum/tid‑primitiver såsom år, månad, dag och tid"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/texloadoptions/datetime/
 ---
-## TeXLoadOptions.DateTime-egenskap
+## TeXLoadOptions.DateTime property
 
-Hämtar/anger ett visst värde för datum/tid primitiva som år, månad, dag och tid.
+Hämtar/sätter ett visst värde för datum/tid‑primitiver som år, månad, dag och tid.
 
 ```csharp
 public DateTime DateTime { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TeXLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

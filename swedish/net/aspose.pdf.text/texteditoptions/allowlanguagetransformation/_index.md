@@ -1,21 +1,23 @@
 ---
-title: TextEditOptions.AllowLanguageTransformation
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions-egenskap. Hämtar eller ställer in värde som tillåter användning av språktransformation vid tillägg eller redigering av text. true - språktransformation kommer att tillämpas om det behövs. false - språktransformation kommer INTE att tillämpas.
+title: "TextEditOptions.AllowLanguageTransformation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextEditOptions-egenskap. Hämtar eller anger värde som tillåter användning av språktransformation under tillägg eller redigering av text. true  språktransformation kommer att tillämpas om nödvändigt standardvärde. false  språktransformation kommer INTE att tillämpas"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/texteditoptions/allowlanguagetransformation/
 ---
-## TextEditOptions.AllowLanguageTransformation-egenskap
+## TextEditOptions.AllowLanguageTransformation property
 
-Hämtar eller ställer in värde som tillåter användning av språktransformation vid tillägg eller redigering av text. true - språktransformation kommer att tillämpas om det behövs (standardvärde). false - språktransformation kommer INTE att tillämpas.
+Hämtar eller anger värdet som tillåter användning av språktransformering vid tillägg eller redigering av text. true – språktransformering kommer att tillämpas om nödvändigt (standardvärde). false – språktransformering kommer INTE att tillämpas.
 
 ```csharp
 public bool AllowLanguageTransformation { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextEditOptions](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextEditOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

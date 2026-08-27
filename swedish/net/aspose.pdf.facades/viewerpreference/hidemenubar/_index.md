@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.HideMenubar
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. En flagga som specificerar huruvida menyraden för den överensstämmande läsaren ska döljas när dokumentet är aktivt
+title: "ViewerPreference.HideMenubar"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-fält. En flagga som anger om menyraden för kompatibla läsare ska döljas när dokumentet är aktivt"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/viewerpreference/hidemenubar/
 ---
-## ViewerPreference.HideMenubar-fält
+## ViewerPreference.HideMenubar field
 
-En flagga som specificerar huruvida menyraden för den överensstämmande läsarens ska döljas när dokumentet är aktivt.
+En flagga som anger om den konforma läsarens menyfält ska döljas när dokumentet är aktivt.
 
 ```csharp
 public const int HideMenubar;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

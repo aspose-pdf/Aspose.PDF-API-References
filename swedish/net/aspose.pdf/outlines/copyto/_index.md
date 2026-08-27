@@ -1,14 +1,14 @@
 ---
-title: Outlines.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Outlines-metod. Kopierar konturposterna till en System.Array som börjar vid ett särskilt System.Array-index
+title: "Outlines.CopyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Outlines-metoden. Kopierar konturposterna till en System.Array med start vid ett specifikt System.Array-index."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/outlines/copyto/
 ---
-## Outlines.CopyTo metod
+## Outlines.CopyTo method
 
-Kopierar konturposterna till en System.Array, som börjar vid ett särskilt System.Array-index.
+Kopierar outline-poster till en System.Array, med start vid ett specifikt System.Array-index.
 
 ```csharp
 public abstract void CopyTo(OutlineItemCollection[] array, int arrayIndex)
@@ -17,11 +17,13 @@ public abstract void CopyTo(OutlineItemCollection[] array, int arrayIndex)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | array | OutlineItemCollection[] | Den endimensionella System.Array som är destinationen. Måste ha nollbaserad indexering. |
-| arrayIndex | Int32 | Det nollbaserade indexet i array där kopieringen börjar. |
+| arrayIndex | Int32 | Det nollbaserade indexet i arrayen där kopieringen börjar. |
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../../outlineitemcollection/)
-* klass [Outlines](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

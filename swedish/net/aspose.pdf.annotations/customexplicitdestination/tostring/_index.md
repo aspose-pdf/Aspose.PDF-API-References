@@ -1,12 +1,12 @@
 ---
-title: CustomExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: CustomExplicitDestination metod. Konverterar till sidnummer
+title: "CustomExplicitDestination.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CustomExplicitDestination-metod. Konverterar till sidnummer"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/customexplicitdestination/tostring/
 ---
-## CustomExplicitDestination.ToString metod
+## CustomExplicitDestination.ToString method
 
 Konverterar till sidnummer.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Sidnummer.
 
-### Se Även
+### Se även
 
-* klass [CustomExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CustomExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

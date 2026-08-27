@@ -1,25 +1,27 @@
 ---
-title: TextFragmentState.LineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState-egenskap. Hämtar eller ställer in radavståndet för texten
+title: "TextFragmentState.LineSpacing"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragmentState-egenskap. Hämtar eller anger radavstånd för texten"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.text/textfragmentstate/linespacing/
 ---
-## TextFragmentState.LineSpacing-egenskap
+## TextFragmentState.LineSpacing property
 
-Hämtar eller ställer in radavståndet för texten.
+Hämtar eller anger radavståndet för texten.
 
 ```csharp
 public override float LineSpacing { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Observera att värdet inte bevaras som en textkarakteristik inom dokumentet. LineSpacing-egenskapens getter fungerar för ett objekt om det tidigare har ställts in uttryckligen med LineSpacing-setter för det objektet. Egenskapen används av körningstiden i samband med den aktuella generations-/modifieringsprocessen.
+Observera att värdet inte bevaras som en textegenskap i dokumentet. LineSpacing‑egenskapens läsare fungerar för ett objekt om det tidigare har satts explicit med LineSpacing‑skrivaren för det objektet. Egenskapen används av körtiden i samband med den aktuella genererings-/modifieringsprocessen.
 
-### Se Även
+### Se även
 
-* klass [TextFragmentState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

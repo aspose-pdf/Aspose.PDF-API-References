@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.OutlineItemCollection
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-konstruktorn. Initierar instans av utkastobjekt med hjälp av rot-hierarkins objekt
+title: "OutlineItemCollection.OutlineItemCollection"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection konstruktor. Initierar en konturpostinstans med hjälp av rot‑hierarkiobjektet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/outlineitemcollection/outlineitemcollection/
 ---
-## OutlineItemCollection-konstruktorn
+## OutlineItemCollection constructor
 
-Initierar instans av utkastobjekt med hjälp av rot-hierarkins objekt.
+Initierar outline-item-instans med rot-hierarkiobjekt.
 
 ```csharp
 public OutlineItemCollection(OutlineCollection outlines)
@@ -16,11 +16,13 @@ public OutlineItemCollection(OutlineCollection outlines)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outlines | OutlineCollection | Utkastkollektion. |
+| konturer | OutlineCollection | Outlune samling. |
 
-### Se Även
+### Se även
 
-* klass [OutlineCollection](../../outlinecollection/)
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineCollection](../../outlinecollection/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

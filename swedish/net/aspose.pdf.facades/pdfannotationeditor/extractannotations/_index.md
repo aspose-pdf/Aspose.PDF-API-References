@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ExtractAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor-metod. Hämtar listan över anteckningar av de angivna typerna
+title: "PdfAnnotationEditor.ExtractAnnotations"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAnnotationEditor-metod. Hämtar listan med annotationer av de angivna typerna"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.facades/pdfannotationeditor/extractannotations/
 ---
 ## ExtractAnnotations(int, int, string[]) {#extractannotations_1}
 
-Hämtar listan över anteckningar av de angivna typerna.
+Hämtar listan över Annotation av de angivna typerna.
 
 ```csharp
 public IList<Annotation> ExtractAnnotations(int start, int end, string[] annotTypes)
@@ -16,13 +16,13 @@ public IList<Annotation> ExtractAnnotations(int start, int end, string[] annotTy
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| start | Int32 | Start sida från vilken anteckningarna kommer att väljas. |
-| end | Int32 | Slut sida till vilken anteckningarna kommer att väljas. |
-| annotTypes | String[] | Array av nödvändiga anteckningstyper. |
+| start | Int32 | Startsidan från vilken annotationerna ska väljas. |
+| end | Int32 | Slutsidan till vilken annotationerna ska väljas. |
+| annotTypes | String[] | Arrayen med nödvändiga annotationstyper. |
 
 ### Returvärde
 
-Lista över anteckningar.
+Lista över annotationer.
 
 ## Exempel
 
@@ -33,18 +33,18 @@ string[] annotTypes = new string[] {"Text", "Highlight"};
 IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../../aspose.pdf.annotations/annotation/)
-* klass [PdfAnnotationEditor](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExtractAnnotations(int, int, AnnotationType[]) {#extractannotations}
 
-Hämtar listan över anteckningar av de angivna typerna.
+Hämtar listan över Annotation av de angivna typerna.
 
 ```csharp
 public IList<Annotation> ExtractAnnotations(int start, int end, AnnotationType[] annotTypes)
@@ -52,13 +52,13 @@ public IList<Annotation> ExtractAnnotations(int start, int end, AnnotationType[]
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| start | Int32 | Start sida från vilken anteckningarna kommer att väljas. |
-| end | Int32 | Slut sida till vilken anteckningarna kommer att väljas. |
-| annotTypes | AnnotationType[] | Array av nödvändiga anteckningstyper. |
+| start | Int32 | Startsidan från vilken annotationerna ska väljas. |
+| end | Int32 | Slutsidan till vilken annotationerna ska väljas. |
+| annotTypes | AnnotationType[] | Arrayen med nödvändiga annotationstyper. |
 
 ### Returvärde
 
-Lista över anteckningar.
+Lista över annotationer.
 
 ## Exempel
 
@@ -69,10 +69,12 @@ AnnotationType[] annotTypes = new AnnotationType[] {AnnotationType.Text, Annotat
 IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* klass [PdfAnnotationEditor](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

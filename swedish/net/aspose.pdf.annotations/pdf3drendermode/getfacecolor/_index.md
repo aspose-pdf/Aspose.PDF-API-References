@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.GetFaceColor
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode-metod. Hämtar färgen på ytan
+title: "PDF3DRenderMode.GetFaceColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DRenderMode metod. Hämtar färgen på ytan"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.annotations/pdf3drendermode/getfacecolor/
 ---
-## PDF3DRenderMode.GetFaceColor metod
+## PDF3DRenderMode.GetFaceColor method
 
-Hämtar färgen på ytan.
+Hämtar färgen på ansiktet.
 
 ```csharp
 public object GetFaceColor()
@@ -16,10 +16,12 @@ public object GetFaceColor()
 
 ### Returvärde
 
-Objekt.
+Object.
 
-### Se Även
+### Se även
 
-* klass [PDF3DRenderMode](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+
