@@ -1,0 +1,60 @@
+---
+title: "FolderFontSource"
+linktitle: "FolderFontSource"
+second_title: "Référence de l'API Aspose.PDF pour Java"
+description: "Représente le dossier qui contient les fichiers de police."
+type: docs
+weight: 1640
+url: /fr/java/com.aspose.pdf/folderfontsource/
+---
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.FontSource com.aspose.pdf.FolderFontSource, com.aspose.pdf.FontSource, com.aspose.pdf.FolderFontSource
+
+```
+public final class FolderFontSource extends FontSource
+```
+
+Représente le dossier qui contient les fichiers de police.
+
+## Constructeurs
+
+| Constructeur | Description |
+| --- | --- |
+| [FolderFontSource](#FolderFontSource-java.lang.String-) | Initialise une nouvelle instance de la classe {@code FolderFontSource}. |
+
+## Méthodes
+
+| Méthode | Description |
+| --- | --- |
+| [equals](#equals-java.lang.Object-) | Vérifie si les objets source de police du dossier sont égaux. |
+| [getFolderPath](#getFolderPath--) | Chemin vers le dossier contenant les fichiers de police. |
+| [hashCode](#hashCode--) | Renvoie une valeur de code de hachage pour l'objet. Cette méthode est prise en charge pour le bénéfice des tables de hachage telles que celles fournies par {@link java.util.HashMap}. <p> Le contrat général de {@code hashCode} est : <ul> <li>Chaque fois qu'elle est invoquée sur le même objet plus d'une fois pendant l'exécution d'une application Java, la méthode {@code hashCode} doit renvoyer de manière cohérente le même entier, à condition qu'aucune information utilisée dans les comparaisons {@code equals} sur l'objet ne soit modifiée. Cet entier n'a pas besoin de rester identique d'une exécution d'une application à une autre exécution de la même application. <li>Si deux objets sont égaux selon la méthode {@code equals(Object)}, alors appeler la méthode {@code hashCode} sur chacun des deux objets doit produire le même résultat entier. <li>Il n'est <em>pas</em> requis que si deux objets sont différents selon la méthode {@link java.lang.Object#equals(java.lang.Object)}, alors appeler la méthode {@code hashCode} sur chacun des deux objets produise des résultats entiers distincts. Cependant, le programmeur doit être conscient que produire des résultats entiers distincts pour des objets différents peut améliorer les performances des tables de hachage. </ul> <p> Autant que cela soit raisonnablement praticable, la méthode hashCode définie par la classe {@code Object} renvoie des entiers distincts pour des objets distincts. (Cela est généralement implémenté en convertissant l'adresse interne de l'objet en un entier, mais cette technique d'implémentation n'est pas requise par le langage de programmation Java<span style=\"font-size:70%\"><sup>TM</sup></span>.) |
+| [setFolderPath](#setFolderPath-java.lang.String-) |  |
+
+### FolderFontSource {#FolderFontSource-java.lang.String-}
+Initialise une nouvelle instance de la classe {@code FolderFontSource}.
+
+### equals {#equals-java.lang.Object-}
+Vérifie si les objets source de police du dossier sont égaux.
+
+### getFolderPath {#getFolderPath--}
+```
+public String getFolderPath()
+```
+
+Chemin vers le dossier contenant les fichiers de police.
+
+**Returns:**
+valeur String
+
+### hashCode {#hashCode--}
+```
+public int hashCode()
+```
+
+Renvoie une valeur de code de hachage pour l'objet. Cette méthode est prise en charge pour le bénéfice des tables de hachage telles que celles fournies par {@link java.util.HashMap}. <p> Le contrat général de {@code hashCode} est : <ul> <li>Chaque fois qu'elle est invoquée sur le même objet plus d'une fois pendant l'exécution d'une application Java, la méthode {@code hashCode} doit renvoyer de manière cohérente le même entier, à condition qu'aucune information utilisée dans les comparaisons {@code equals} sur l'objet ne soit modifiée. Cet entier n'a pas besoin de rester identique d'une exécution d'une application à une autre exécution de la même application. <li>Si deux objets sont égaux selon la méthode {@code equals(Object)}, alors appeler la méthode {@code hashCode} sur chacun des deux objets doit produire le même résultat entier. <li>Il n'est <em>pas</em> requis que si deux objets sont différents selon la méthode {@link java.lang.Object#equals(java.lang.Object)}, alors appeler la méthode {@code hashCode} sur chacun des deux objets produise des résultats entiers distincts. Cependant, le programmeur doit être conscient que produire des résultats entiers distincts pour des objets différents peut améliorer les performances des tables de hachage. </ul> <p> Autant que cela soit raisonnablement praticable, la méthode hashCode définie par la classe {@code Object} renvoie des entiers distincts pour des objets distincts. (Cela est généralement implémenté en convertissant l'adresse interne de l'objet en un entier, mais cette technique d'implémentation n'est pas requise par le langage de programmation Java<span style=\"font-size:70%\"><sup>TM</sup></span>.)
+
+**Returns:**
+une valeur de code de hachage pour cet objet. @see java.lang.Object#equals(java.lang.Object) @see java.lang.System#identityHashCode
+
+### setFolderPath {#setFolderPath-java.lang.String-}

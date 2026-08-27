@@ -1,0 +1,25 @@
+---
+title: "WarichuWPElement"
+linktitle: "WarichuWPElement"
+second_title: "Référence de l'API Aspose.PDF pour Java"
+description: "Représente l'élément de structure WP dans la structure logique du Warichu."
+type: docs
+weight: 190
+url: /fr/java/com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuwpelement/
+---
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.tagged.logicalstructure.elements.Element com.aspose.pdf.tagged.logicalstructure.elements.StructureElement com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuChildElement com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuWPElement, com.aspose.pdf.tagged.logicalstructure.elements.Element, com.aspose.pdf.tagged.logicalstructure.elements.StructureElement com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuChildElement com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuWPElement, com.aspose.pdf.tagged.logicalstructure.elements.StructureElement, com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuChildElement com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuWPElement, com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuChildElement, com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuWPElement
+
+```
+public final class WarichuWPElement extends WarichuChildElement
+```
+
+Représente l'élément de structure WP dans la structure logique du Warichu.
+
+## Constructeurs
+
+| Constructeur | Description |
+| --- | --- |
+| [WarichuWPElement](#WarichuWPElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+
+### WarichuWPElement {#WarichuWPElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
