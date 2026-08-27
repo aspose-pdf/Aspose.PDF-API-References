@@ -1,0 +1,29 @@
+---
+title: "PdfASymbolicFontEncodingStrategy"
+second_title: "Aspose.PDF for Python via .NET API リファレンス"
+description: "このクラスは、TrueType シンボリックフォントが複数のエンコーディングを持つ場合のコピーエンコーディングデータ処理を調整するために使用できるルールを記述します。PDF を PDF/A 形式に変換した後、一部の PDF 文書で「シンボリック TrueType フォントの cmap に複数のエンコーディングが存在する」エラーが発生することがあります。このエラーの原因は、すべての TrueType シンボリックフォントが内部データに cmap という特別なテーブルを持ち、文字コードをグリフインデックスにマッピングするためです。このテーブルは、使用されるエンコーディングを記述する複数のサブテーブルを含むことがあります。cmap テーブルの詳細については、https//developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html を参照してください。通常、cmap テーブルにはいくつかのエンコーディングサブテーブルが含まれますが、PDF/A 標準ではこのフォントに対して 30 という 1 つのエンコーディングサブテーブルだけが残されることが要求されます。ここでの重要な質問は、別のサブテーブルからどのデータを取得して宛先エンコーディングテーブル 30 にコピーすべきか、ということです。ほとんどのフォントは、すべてのエンコーディングサブテーブルが他のサブテーブルと完全に一致している整合性の取れた cmap テーブルを持っています。しかし、一部のフォントは衝突する cmap テーブルを持ち、例えばあるサブテーブルが Unicode 100 に対してグリフインデックス 100 を持ち、別のサブテーブルが同じ Unicode 100 に対してグリフインデックス 200 を持つ場合があります。この問題を解決するには特別な戦略が必要です。デフォルトでは、mac サブテーブル 10 が検索されます。このテーブルが見つかった場合、宛先テーブル 30 を埋めるためにこのデータのみが使用されます。mac サブテーブルが見つからない場合、30 以外のすべてのサブテーブルが順に走査され、宛先 30 サブテーブルにデータがコピーされます。また、各 Unicode‑glyph インデックスのマッピングは、宛先テーブルにその Unicode が現在存在しない場合にのみコピーされます。したがって、最初のサブテーブルが Unicode 100 に対してグリフインデックス 100 を持ち、次のサブテーブルが同じ Unicode 100 に対してグリフインデックス 200 を持つ場合、最初のサブテーブルのデータ（Unicode 100 のグリフインデックス 100）のみがコピーされます。各以前のサブテーブルが次のサブテーブルよりも優先されます。このクラス PdfASymbolicFontEncodingStrategy./pdfasymbolicfontencodingstrategy のプロパティは、デフォルト動作を調整するのに役立ちます。プロパティ PreferredCmapEncodingTable./pdfasymbolicfontencodingstrategy/preferredcmapencodingtable（型は CMapEncodingTableType./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype）を設定すると、mac サブテーブル 10 に対する優先順位として関連するサブテーブルが使用されます。列挙型 CMapEncodingTableType./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype の値 MacTable は、この場合意味がなく、デフォルトで使用される mac サブテーブル 10 と同じものを指します。プロパティ CmapEncodingTablesPriorityQueue./pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue は、任意のサブテーブルに対するすべての優先順位を破棄します。このプロパティが設定されている場合、宣言されたキューのサブテーブルのみが指定された順序で使用されます。キューに指定されたサブテーブルが見つからない場合、すべてのサブテーブルのデフォルト走査と上記のコピー戦略が使用されます。オブジェクト QueueItem./pdfasymbolicfontencodingstrategy.queueitem は使用するエンコーディングサブテーブルを指定します。このサブテーブルは、メンバー PlatformID PlatformSpecificId の組み合わせや CMapEncodingTableType./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype 列挙体を介して設定できます。"
+type: docs
+weight: 1190
+url: /ja/python-net/aspose.pdf/pdfasymbolicfontencodingstrategy/
+---
+
+## PdfASymbolicFontEncodingStrategy class
+
+このクラスは、TrueType シンボリックフォントが複数のエンコーディングを持つ場合のコピーエンコーディングデータ処理を調整するために使用できるルールを記述します。<br/>            TrueType シンボリックフォントが 1 つ以上のエンコーディングを持つ場合に適用されます。<br/>            PDF 文書を PDF/A 形式に変換した後に、\"More than one encoding in symbolic TrueType font's cmap\" というエラーが発生することがあります。<br/>            このエラーの原因は何でしょうか？すべての TrueType シンボリックフォントは、内部データに特別なテーブル \"cmap\" を持ちます。このテーブルは文字コードをグリフインデックスにマッピングします。<br/>            そして、このテーブルは使用されるエンコーディングを記述する複数のエンコーディングサブテーブルを含むことがあります。cmap テーブルに関する詳細情報は、<br/>            https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html を参照してください。<br/>            通常、cmap テーブルは複数のエンコーディングサブテーブルを含みますが、PDF/A 標準では、このフォントに対して PDF/A 文書内で (3,0) の 1 つのエンコーディングサブテーブルだけが残されることが要求されます。<br/>            ここでの重要な質問は、別のサブテーブルからどのデータを取得して宛先エンコーディングテーブル (3,0) にコピーすべきか、ということです。多くのフォントは、すべてのエンコーディングサブテーブルが他のサブテーブルと完全に一致する「整合性の取れた」cmap テーブルを持ちますが、いくつかのフォントは衝突を含む cmap テーブルを持ちます。たとえば、あるサブテーブルが Unicode 100 に対してグリフインデックス 100 を持ち、別のサブテーブルが同じ Unicode 100 に対してグリフインデックス 200 を持つ場合です。<br/>            この問題を解決するには特別な戦略が必要です。<br/>            デフォルトでは以下の戦略が使用されます：<br/>            mac サブテーブル (1,0) を探します。このテーブルが見つかった場合、宛先テーブル (3,0) を埋めるためにこのデータのみが使用されます。mac サブテーブルが見つからない場合、(3,0) を除くすべてのサブテーブルが順に走査され、宛先 (3,0) サブテーブルにデータがコピーされます。また、各 Unicode（Unicode、グリフインデックス）のマッピングは、宛先テーブルに現在その Unicode が存在しない場合にのみコピーされます。<br/>            したがって、例えば最初のサブテーブルが Unicode 100 に対してグリフインデックス 100 を持ち、次のサブテーブルが同じ Unicode 100 に対してグリフインデックス 200 を持つ場合、最初のサブテーブル（unicode=100、glyph index = 100）のデータだけがコピーされます。<br/>            つまり、各以前のサブテーブルが次のサブテーブルよりも優先されます。<br/>            このクラスのプロパティ [PdfASymbolicFontEncodingStrategy](/pdf/python-net/aspose.pdf/pdfasymbolicfontencodingstrategy/) はデフォルト動作の調整に役立ちます。<br/>            プロパティ [preferred_cmap_encoding_table](/pdf/python-net/aspose.pdf/pdfasymbolicfontencodingstrategy/) が [CMapEncodingTableType](/pdf/python-net/aspose.pdf.pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtabletype/) 型で設定されている場合、mac サブテーブル (1,0) に対する優先順位で該当サブテーブルが使用されます。列挙体 [CMapEncodingTableType](/pdf/python-net/aspose.pdf.pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtabletype/) の値 'MacTable' はこのケースでは意味がなく、デフォルトで使用される mac サブテーブル (1,0) と同じものを指します。<br/>            プロパティ [None](/pdf/python-net/aspose.pdf/pdfasymbolicfontencodingstrategy/) はすべてのサブテーブルの優先順位を破棄します。このプロパティが設定されている場合、宣言されたキューのサブテーブルのみが指定された順序で使用されます。指定されたサブテーブルが見つからない場合、上記のデフォルトのすべてのサブテーブルの走査とコピー戦略が使用されます。<br/>            オブジェクト [QueueItem](/pdf/python-net/aspose.pdf.pdfasymbolicfontencodingstrategy/queueitem/) は使用されるエンコーディングサブテーブルを指定します。このサブテーブルは、メンバー (PlatformID、PlatformSpecificId) の組み合わせ、または [CMapEncodingTableType](/pdf/python-net/aspose.pdf.pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtabletype/) 列挙体によって設定できます。
+
+PdfASymbolicFontEncodingStrategy 型は次のメンバーを公開します：
+## コンストラクター
+| 名前 | 説明 |
+| :- | :- |
+| PdfASymbolicFontEncodingStrategy() | コンストラクタ。デフォルトのサブテーブル（mac 1,0）を設定します。 |
+| PdfASymbolicFontEncodingStrategy(preferred_encoding_table) | PdfASymbolicFontEncodingStrategy クラスの新しいインスタンスを初期化します |
+## プロパティ
+| 名前 | 説明 |
+| :- | :- |
+| preferred_cmap_encoding_table | mac サブテーブル(1,0) に優先して使用されるサブテーブルを指定します。<br/>            列挙型 [CMapEncodingTableType](/pdf/python-net/aspose.pdf.pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtabletype/) からの値 'MacTable' はこの場合意味がありません。 |
+
+### 関連項目
+
+* namespace [aspose.pdf](/pdf/python-net/aspose.pdf/)
+* assembly [Aspose.PDF](/pdf/python-net/)
+
