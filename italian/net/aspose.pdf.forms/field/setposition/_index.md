@@ -1,12 +1,12 @@
 ---
-title: Field.SetPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Field. Imposta la posizione del campo
+title: "Field.SetPosition"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Field. Imposta la posizione del campo"
 type: docs
 weight: 230
 url: /it/net/aspose.pdf.forms/field/setposition/
 ---
-## Metodo Field.SetPosition
+## Field.SetPosition method
 
 Imposta la posizione del campo.
 
@@ -16,11 +16,13 @@ public virtual void SetPosition(Point point)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| point | Point | Punto in cui il campo dovrebbe essere posizionato. |
+| punto | Punto | Punto in cui il campo dovrebbe essere posizionato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [Field](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

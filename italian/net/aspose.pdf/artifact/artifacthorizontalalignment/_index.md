@@ -1,22 +1,24 @@
 ---
-title: Artifact.ArtifactHorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'artifact. Allineamento orizzontale dell'artifact. Se la posizione è specificata esplicitamente nella proprietà Position, questo valore viene ignorato
+title: "Artifact.ArtifactHorizontalAlignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Artifact. Allineamento orizzontale dell'artifact. Se la posizione è specificata esplicitamente nella proprietà Position, questo valore è ignorato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/artifact/artifacthorizontalalignment/
 ---
-## Proprietà Artifact.ArtifactHorizontalAlignment
+## Artifact.ArtifactHorizontalAlignment property
 
-Allineamento orizzontale dell'artifact. Se la posizione è specificata esplicitamente (nella proprietà Position) questo valore viene ignorato.
+Allineamento orizzontale dell'artefatto. Se la posizione è specificata esplicitamente (nella proprietà Position) questo valore è ignorato.
 
 ```csharp
 public HorizontalAlignment ArtifactHorizontalAlignment { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [HorizontalAlignment](../../horizontalalignment/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

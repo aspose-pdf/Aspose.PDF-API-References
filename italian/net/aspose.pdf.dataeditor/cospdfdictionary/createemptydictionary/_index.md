@@ -1,34 +1,34 @@
 ---
-title: CosPdfDictionary.CreateEmptyDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CosPdfDictionary. Crea un dizionario vuoto che sarà allegato alla pagina
+title: "CosPdfDictionary.CreateEmptyDictionary"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CosPdfDictionary method. Crea un dizionario vuoto che verrà allegato alla pagina"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/
 ---
 ## CreateEmptyDictionary(Page) {#createemptydictionary_1}
 
-Crea un dizionario vuoto che sarà allegato alla pagina.
+Crea un dizionario vuoto che verrà allegato alla pagina.
 
 ```csharp
 public static CosPdfDictionary CreateEmptyDictionary(Page page)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Il dizionario risultante sarà allegato a questa pagina. |
+| pagina | Page | Il dizionario risultato verrà allegato a questa pagina. |
 
-### Return Value
+### Valore di ritorno
 
 Un dizionario vuoto.
 
-### Exceptions
+### Eccezioni
 
-| exception | condition |
+| eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | La pagina è nulla. |
+| ArgumentNullException | La pagina è null. |
 
-### See Also
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [CosPdfDictionary](../)
@@ -39,29 +39,31 @@ Un dizionario vuoto.
 
 ## CreateEmptyDictionary(Document) {#createemptydictionary}
 
-Crea un dizionario vuoto che sarà allegato al documento.
+Crea un dizionario vuoto che verrà allegato al documento.
 
 ```csharp
 public static CosPdfDictionary CreateEmptyDictionary(Document document)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| document | Document | Il dizionario risultante sarà allegato a questo documento. |
+| document | Document | Il dizionario risultato verrà allegato a questo documento. |
 
-### Return Value
+### Valore di ritorno
 
 Un dizionario vuoto.
 
-### Exceptions
+### Eccezioni
 
-| exception | condition |
+| eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il documento è nullo. |
 
-### See Also
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum CompressionType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.CompressionType enum. Utilizzato per specificare il valore del parametro passato a un dispositivo immagine TIFF.
+title: "Enum CompressionType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Devices.CompressionType enum. Utilizzato per specificare il valore del parametro passato a un dispositivo immagine Tiff."
 type: docs
-weight: 3540
+weight: 3660
 url: /it/net/aspose.pdf.devices/compressiontype/
 ---
-## Enumerazione CompressionType
+## CompressionType enumeration
 
-Utilizzato per specificare il valore del parametro passato a un dispositivo immagine Tiff.
+Usato per specificare il valore del parametro passato a un dispositivo immagine Tiff.
 
 ```csharp
 public enum CompressionType
@@ -18,13 +18,15 @@ public enum CompressionType
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| LZW | `0` | Specifica lo schema di compressione LZW. Può essere passato all'encoder Tiff come parametro che appartiene alla categoria Compression. |
-| CCITT4 | `1` | Specifica lo schema di compressione CCITT4. Può essere passato all'encoder CCITT4 come parametro che appartiene alla categoria Compression. |
-| CCITT3 | `2` | Specifica lo schema di compressione CCITT3. Può essere passato all'encoder CCITT3 come parametro che appartiene alla categoria Compression. |
-| RLE | `3` | Specifica lo schema di compressione RLE. Può essere passato all'encoder RLE come parametro che appartiene alla categoria Compression. |
-| None | `4` | Specifica nessuna compressione. Può essere passato all'encoder Tiff come parametro che appartiene alla categoria compressione. |
+| LZW | `0` | Specifica lo schema di compressione LZW. Può essere passato al codificatore Tiff come parametro appartenente alla categoria Compressione. |
+| CCITT4 | `1` | Specifica lo schema di compressione CCITT4. Può essere passato al codificatore CCITT4 come parametro appartenente alla categoria Compressione. |
+| CCITT3 | `2` | Specifica lo schema di compressione CCITT3. Può essere passato al codificatore CCITT3 come parametro appartenente alla categoria Compressione. |
+| RLE | `3` | Specifica lo schema di compressione RLE. Può essere passato al codificatore RLE come parametro appartenente alla categoria Compressione. |
+| None | `4` | Specifica nessuna compressione. Può essere passato al codificatore Tiff come parametro appartenente alla categoria Compressione. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

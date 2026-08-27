@@ -1,21 +1,23 @@
 ---
-title: Layer.Locked
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Layer. Ottiene un valore che indica se il layer è bloccato
+title: "Layer.Locked"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Layer. Ottiene un valore che indica se il Layer è bloccato"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/layer/locked/
 ---
-## Proprietà Layer.Locked
+## Layer.Locked property
 
-Ottiene un valore che indica se il layer è bloccato.
+Ottiene un valore che indica se il livello è bloccato.
 
 ```csharp
 public bool Locked { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

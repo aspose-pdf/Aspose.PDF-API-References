@@ -1,12 +1,12 @@
 ---
-title: WidgetAnnotation.Exportable
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà WidgetAnnotation. Ottiene o imposta il flag esportabile del campo
+title: "WidgetAnnotation.Exportable"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "WidgetAnnotation proprietà. Ottiene o imposta il flag esportabile del campo"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/widgetannotation/exportable/
 ---
-## Proprietà WidgetAnnotation.Exportable
+## WidgetAnnotation.Exportable property
 
 Ottiene o imposta il flag esportabile del campo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il flag esportabile del campo.
 public bool Exportable { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [WidgetAnnotation](../)
+* class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

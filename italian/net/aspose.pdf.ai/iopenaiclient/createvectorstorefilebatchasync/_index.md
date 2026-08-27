@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Crea un nuovo batch di file di archiviazione vettoriale in modo asincrono
+title: "IOpenAIClient.CreateVectorStoreFileBatchAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IOpenAIClient. Crea un nuovo batch di file di archivio vettoriale in modo asincrono"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.ai/iopenaiclient/createvectorstorefilebatchasync/
 ---
-## Metodo IOpenAIClient.CreateVectorStoreFileBatchAsync
+## IOpenAIClient.CreateVectorStoreFileBatchAsync method
 
-Crea un nuovo batch di file di archiviazione vettoriale in modo asincrono.
+Crea un nuovo batch di file di archivio vettoriale in modo asincrono.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -18,8 +18,8 @@ public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| vectorStoreId | String | L'ID dell'archivio vettoriale dove verrà creato il batch di file. |
-| vectorStoreFileCreateRequest | VectorStoreFileBatchCreateRequest | L'oggetto di richiesta contenente i dettagli per la creazione del batch di file. |
+| vectorStoreId | String | L'ID dell'archivio vettoriale in cui verrà creato il batch di file. |
+| vectorStoreFileCreateRequest | VectorStoreFileBatchCreateRequest | L'oggetto di richiesta contenente i dettagli per creare il batch di file. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
 ### Valore di ritorno
@@ -30,12 +30,14 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'archivio vettoriale è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del vector store è nullo o vuoto. |
 
 ### Vedi anche
 
-* classe [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* classe [VectorStoreFileBatchCreateRequest](../../vectorstorefilebatchcreaterequest/)
-* interfaccia [IOpenAIClient](../)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [VectorStoreFileBatchCreateRequest](../../vectorstorefilebatchcreaterequest/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

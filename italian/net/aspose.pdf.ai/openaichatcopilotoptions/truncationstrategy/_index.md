@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OpenAIChatCopilotOptions. Ottiene o imposta la strategia di troncamento per il thread
+title: "OpenAIChatCopilotOptions.TruncationStrategy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OpenAIChatCopilotOptions. Ottiene o imposta la strategia di troncamento per il thread"
 type: docs
-weight: 50
+weight: 60
 url: /it/net/aspose.pdf.ai/openaichatcopilotoptions/truncationstrategy/
 ---
-## Proprietà OpenAIChatCopilotOptions.TruncationStrategy
+## OpenAIChatCopilotOptions.TruncationStrategy property
 
 Ottiene o imposta la strategia di troncamento per il thread.
 
@@ -14,9 +14,11 @@ Ottiene o imposta la strategia di troncamento per il thread.
 public TruncationStrategy TruncationStrategy { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TruncationStrategy](../../truncationstrategy/)
-* classe [OpenAIChatCopilotOptions](../)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

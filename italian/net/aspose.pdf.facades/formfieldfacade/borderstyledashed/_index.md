@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderStyleDashed
-second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldFacade. Definisce uno stile di bordo tratteggiato
+title: "FormFieldFacade.BorderStyleDashed"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo FormFieldFacade. Definisce uno stile di bordo tratteggiato"
 type: docs
 weight: 300
 url: /it/net/aspose.pdf.facades/formfieldfacade/borderstyledashed/
 ---
-## Campo FormFieldFacade.BorderStyleDashed
+## FormFieldFacade.BorderStyleDashed field
 
 Definisce uno stile di bordo tratteggiato.
 
@@ -14,8 +14,10 @@ Definisce uno stile di bordo tratteggiato.
 public const int BorderStyleDashed;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

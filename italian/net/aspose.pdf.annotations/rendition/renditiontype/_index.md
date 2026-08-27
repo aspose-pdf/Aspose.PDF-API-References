@@ -1,22 +1,24 @@
 ---
-title: Rendition.RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di rendizione. Ottiene il tipo di rendizione
+title: "Rendition.RenditionType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Rendition. Ottiene il tipo di rendition"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/rendition/renditiontype/
 ---
-## Proprietà Rendition.RenditionType
+## Rendition.RenditionType property
 
-Ottiene il tipo di rendizione.
+Ottiene il tipo di rendition.
 
 ```csharp
 public RenditionType RenditionType { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [RenditionType](../../renditiontype/)
 * class [Rendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

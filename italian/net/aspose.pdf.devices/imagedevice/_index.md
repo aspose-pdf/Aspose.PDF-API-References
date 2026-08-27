@@ -1,12 +1,12 @@
 ---
-title: Class ImageDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Devices.ImageDevice. Una classe astratta per dispositivi immagine
+title: "Classe ImageDevice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Devices.ImageDevice class. Una classe astratta per dispositivi immagine."
 type: docs
-weight: 3610
+weight: 3730
 url: /it/net/aspose.pdf.devices/imagedevice/
 ---
-## Classe ImageDevice
+## ImageDevice class
 
 Una classe astratta per dispositivi immagine.
 
@@ -29,22 +29,25 @@ public abstract class ImageDevice : PageDevice
 
 | Nome | Descrizione |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Ottiene o imposta il tipo di coordinate della pagina (Media/Crop boxes). Il valore CropBox è utilizzato per impostazione predefinita. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Ottiene o imposta il tipo di coordinate della pagina (scatole Media/Crop). Il valore CropBox è usato per impostazione predefinita. |
 | [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Ottiene o imposta la modalità di presentazione del modulo. |
-| [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Ottiene l'altezza dell'immagine di output. |
+| [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Ottiene l'altezza dell'output dell'immagine. |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Ottiene o imposta le opzioni di rendering. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | Ottiene la risoluzione dell'immagine. |
-| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Ottiene la larghezza dell'immagine di output. |
+| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Ottiene la larghezza dell'output dell'immagine. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| abstract [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, Stream) | Esegue alcune operazioni sulla pagina data, ad esempio converte la pagina in un'immagine grafica. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Esegue alcune operazioni sulla pagina data e salva i risultati nel file. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converte la pagina in Bitmap. |
+| abstract [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, Stream) | Esegue qualche operazione sulla pagina fornita, ad es. converte la pagina in un'immagine grafica. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Esegue alcune operazioni sulla pagina fornita e salva i risultati nel file. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageDevice](../pagedevice/)
+* class [PageDevice](../pagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

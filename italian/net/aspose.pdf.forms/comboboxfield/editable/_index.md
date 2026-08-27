@@ -1,12 +1,12 @@
 ---
-title: ComboBoxField.Editable
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ComboBoxField. Ottiene o imposta lo stato modificabile del campo
+title: "ComboBoxField.Editable"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ComboBoxField proprietà. Ottiene o imposta lo stato modificabile del campo"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.forms/comboboxfield/editable/
 ---
-## Proprietà ComboBoxField.Editable
+## ComboBoxField.Editable property
 
 Ottiene o imposta lo stato modificabile del campo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta lo stato modificabile del campo.
 public bool Editable { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ComboBoxField](../)
+* class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

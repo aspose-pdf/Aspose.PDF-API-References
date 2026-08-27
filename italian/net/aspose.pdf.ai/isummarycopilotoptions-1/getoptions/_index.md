@@ -1,12 +1,12 @@
 ---
-title: ISummaryCopilotOptions1.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ISummaryCopilotOptions method. Gets the options of type TOptions
+title: "ISummaryCopilotOptions1.GetOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ISummaryCopilotOptions. Ottiene le opzioni di tipo TOptions"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/isummarycopilotoptions-1/getoptions/
 ---
-## ISummaryCopilotOptions&lt;TOptions&gt;.GetOptions metodo
+## ISummaryCopilotOptions&lt;TOptions&gt;.GetOptions method
 
 Ottiene le opzioni di tipo *TOptions*.
 
@@ -14,12 +14,14 @@ Ottiene le opzioni di tipo *TOptions*.
 public TOptions GetOptions()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Le opzioni di tipo *TOptions*.
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ISummaryCopilotOptions&lt;TOptions&gt;](../)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

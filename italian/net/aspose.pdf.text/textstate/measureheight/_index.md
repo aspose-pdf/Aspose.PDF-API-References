@@ -1,14 +1,14 @@
 ---
-title: TextState.MeasureHeight
-second_title: Aspose.PDF for .NET API Reference
-description: TextState method. Measures character height
+title: "TextState.MeasureHeight"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextState. Misura l'altezza del carattere"
 type: docs
 weight: 230
 url: /it/net/aspose.pdf.text/textstate/measureheight/
 ---
-## Metodo TextState.MeasureHeight
+## TextState.MeasureHeight method
 
-Misura l'altezza dei caratteri.
+Misura l'altezza del carattere.
 
 ```csharp
 public double MeasureHeight(char character)
@@ -16,14 +16,16 @@ public double MeasureHeight(char character)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| character | Char | Carattere da misurare. |
+| carattere | Char | Carattere da misurare. |
 
 ### Valore di ritorno
 
-Altezza del carattere se possiamo ottenerla dal font; altrimenti 0.
+Altezza del carattere se è possibile ottenerla dal font; altrimenti 0.
 
 ### Vedi anche
 
-* classe [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

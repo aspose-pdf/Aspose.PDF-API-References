@@ -1,14 +1,14 @@
 ---
-title: PdfConverterOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfConverterOptions. Aggiunge una nuova fonte di dati alla raccolta di dati del plugin PdfToXLSXConverterOptions
+title: "PdfConverterOptions.AddOutput"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfConverterOptions metodo. Aggiunge una nuova origine dati alla raccolta dati del plugin PdfToXLSXConverterOptions"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.plugins/pdfconverteroptions/addoutput/
 ---
-## Metodo PdfConverterOptions.AddOutput
+## PdfConverterOptions.AddOutput method
 
-Aggiunge una nuova fonte di dati alla raccolta di dati del plugin PdfToXLSXConverterOptions.
+Aggiunge una nuova fonte dati alla raccolta dati del plugin PdfToXLSXConverterOptions.
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
@@ -16,7 +16,7 @@ public void AddOutput(IDataSource saveDataSource)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| saveDataSource | IDataSource | Fonte di dati (file o stream) per i risultati dell'operazione di salvataggio. |
+| saveDataSource | IDataSource | Origine dati (file o flusso) per i risultati dell'operazione di salvataggio. |
 
 ### Eccezioni
 
@@ -24,9 +24,11 @@ public void AddOutput(IDataSource saveDataSource)
 | --- | --- |
 | NotImplementedException |  |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../../idatasource/)
-* classe [PdfConverterOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

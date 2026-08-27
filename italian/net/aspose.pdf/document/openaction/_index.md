@@ -1,12 +1,12 @@
 ---
-title: Document.OpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta l'azione eseguita all'apertura del documento
+title: "Document.OpenAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene o imposta l'azione eseguita all'apertura del documento"
 type: docs
-weight: 390
+weight: 410
 url: /it/net/aspose.pdf/document/openaction/
 ---
-## Proprietà Document.OpenAction
+## Document.OpenAction property
 
 Ottiene o imposta l'azione eseguita all'apertura del documento.
 
@@ -23,9 +23,11 @@ Document document = new Document("sample.pdf");
 IAppointment value = document.OpenAction;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* classe [Document](../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

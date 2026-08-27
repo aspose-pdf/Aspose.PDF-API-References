@@ -1,12 +1,12 @@
 ---
-title: FillStroke.FillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore FillStroke. Inizializza l'operatore
+title: "FillStroke.FillStroke"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FillStroke costruttore. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/fillstroke/fillstroke/
 ---
-## Costruttore FillStroke
+## FillStroke constructor
 
 Inizializza l'operatore.
 
@@ -14,8 +14,10 @@ Inizializza l'operatore.
 public FillStroke()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FillStroke](../)
+* class [FillStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

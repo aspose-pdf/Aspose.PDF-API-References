@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.BorderInfo.TopStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Campo BorderInfo. Rappresenta la parte superiore, se presente, del bordo
+title: "SaveOptions.BorderInfo.TopStyleIfAny"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo BorderInfo. Rappresenta la parte superiore, se presente, del bordo"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/saveoptions.borderinfo/topstyleifany/
 ---
-## Campo SaveOptions.BorderInfo.TopStyleIfAny
+## SaveOptions.BorderInfo.TopStyleIfAny field
 
 Rappresenta la parte superiore (se presente) del bordo
 
@@ -14,9 +14,11 @@ Rappresenta la parte superiore (se presente) del bordo
 public BorderPartStyle TopStyleIfAny;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* classe [BorderInfo](../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

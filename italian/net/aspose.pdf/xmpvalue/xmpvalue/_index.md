@@ -1,7 +1,7 @@
 ---
-title: XmpValue.XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore XmpValue. Costruttore per valore stringa
+title: "XmpValue.XmpValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore XmpValue. Costruttore per valore stringa"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/xmpvalue/xmpvalue/
@@ -14,11 +14,11 @@ Costruttore per valore stringa.
 public XmpValue(string value)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | String | Valore stringa. |
+| valore | String | Valore stringa. |
 
-### See Also
+### Vedi anche
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,11 +34,11 @@ Costruttore per valore intero.
 public XmpValue(int value)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | Int32 | Valore intero. |
+| valore | Int32 | Valore intero. |
 
-### See Also
+### Vedi anche
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -48,17 +48,17 @@ public XmpValue(int value)
 
 ## XmpValue(double) {#constructor_1}
 
-Costruttore per valore a punto flottante.
+Costruttore per valore a virgola mobile.
 
 ```csharp
 public XmpValue(double value)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | Double | Valore doppio. |
+| valore | Double | Valore double. |
 
-### See Also
+### Vedi anche
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -68,17 +68,17 @@ public XmpValue(double value)
 
 ## XmpValue(DateTime) {#constructor_3}
 
-Costruttore per valore data e ora.
+Costruttore per valore data/ora.
 
 ```csharp
 public XmpValue(DateTime value)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | DateTime | Valore data e ora. |
+| valore | DateTime | Valore data e ora. |
 
-### See Also
+### Vedi anche
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -94,12 +94,14 @@ Costruttore per valore array.
 public XmpValue(XmpValue[] array)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| array | XmpValue[] | Valore array. |
+| array | XmpValue[] | Valore dell'array. |
 
-### See Also
+### Vedi anche
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

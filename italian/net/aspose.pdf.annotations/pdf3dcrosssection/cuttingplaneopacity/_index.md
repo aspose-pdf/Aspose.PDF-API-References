@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DCrossSection. Ottiene o imposta l'opacità del piano di taglio
+title: "PDF3DCrossSection.CuttingPlaneOpacity"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PDF3DCrossSection. Ottiene o imposta l'opacità del piano di taglio"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/
 ---
-## Proprietà PDF3DCrossSection.CuttingPlaneOpacity
+## PDF3DCrossSection.CuttingPlaneOpacity property
 
 Ottiene o imposta l'opacità del piano di taglio.
 
@@ -14,7 +14,7 @@ Ottiene o imposta l'opacità del piano di taglio.
 public double CuttingPlaneOpacity { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 L'opacità del piano di taglio.
 
@@ -22,10 +22,12 @@ L'opacità del piano di taglio.
 
 | eccezione | condizione |
 | --- | --- |
-| Eccezione | Il numero deve essere compreso nell'intervallo [0 , 1] |
+| Exception | Il numero deve essere nell'intervallo [0 , 1] |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DCrossSection](../)
+* class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Cell.IsOverrideByFragment
-second_title: Aspose.PDF for .NET API Reference
-description: Cell property. Sets the cells TextState property is overriden by TextFragment TextState property
+title: "Cell.IsOverrideByFragment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cell. Imposta che la proprietà TextState della cella sia sovrascritta dalla proprietà TextState del TextFragment"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/cell/isoverridebyfragment/
 ---
-## Proprietà Cell.IsOverrideByFragment
+## Cell.IsOverrideByFragment property
 
-Imposta la proprietà TextState della cella come sovrascritta dalla proprietà TextState di TextFragment.
+Imposta la proprietà TextState della cella, che è sovrascritta dalla proprietà TextState di TextFragment.
 
 ```csharp
 public bool IsOverrideByFragment { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Cell](../)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

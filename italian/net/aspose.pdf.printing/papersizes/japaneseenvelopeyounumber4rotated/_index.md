@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.JapaneseEnvelopeYouNumber4Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Giapone Tu 4 foglietto rotato
+title: "PaperSizes.JapaneseEnvelopeYouNumber4Rotated"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Busta giapponese You 4 ruotata"
 type: docs
 weight: 590
 url: /it/net/aspose.pdf.printing/papersizes/japaneseenvelopeyounumber4rotated/
 ---
-## Campo PaperSizes.JapaneseEnvelopeYouNumber4Rotated
+## PaperSizes.JapaneseEnvelopeYouNumber4Rotated field
 
 Busta giapponese You #4 ruotata.
 
@@ -14,9 +14,11 @@ Busta giapponese You #4 ruotata.
 public static readonly PaperSize JapaneseEnvelopeYouNumber4Rotated;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

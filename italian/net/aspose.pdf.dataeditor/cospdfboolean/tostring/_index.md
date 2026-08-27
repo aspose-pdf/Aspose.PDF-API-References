@@ -1,25 +1,27 @@
 ---
-title: CosPdfBoolean.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CosPdfBoolean. Restituisce una Stringa che rappresenta l'attuale CosPdfBoolean
+title: "CosPdfBoolean.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CosPdfBoolean. Restituisce una stringa che rappresenta il corrente CosPdfBoolean"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.dataeditor/cospdfboolean/tostring/
 ---
-## Metodo CosPdfBoolean.ToString
+## CosPdfBoolean.ToString method
 
-Restituisce una Stringa che rappresenta l'attuale [`CosPdfBoolean`](../).
+Restituisce una stringa che rappresenta il corrente [`CosPdfBoolean`](../).
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Una Stringa che rappresenta l'attuale [`CosPdfBoolean`](../).
+Una stringa che rappresenta il corrente [`CosPdfBoolean`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfBoolean](../)
+* class [CosPdfBoolean](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.Decrypt
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo del documento. Decifra il documento. Chiamata, salva per ottenere la versione decifrata del documento.
+title: "Document.Decrypt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Document. Decripta il documento. Chiama poi Save per ottenere la versione decrittata del documento"
 type: docs
-weight: 600
+weight: 620
 url: /it/net/aspose.pdf/document/decrypt/
 ---
-## Metodo Document.Decrypt
+## Document.Decrypt method
 
-Decripta il documento. Chiamare poi Salva per ottenere la versione decrittografata del documento.
+Decripta il documento. Chiama poi Save per ottenere la versione decrittata del documento.
 
 ```csharp
 public void Decrypt()
@@ -16,20 +16,20 @@ public void Decrypt()
 
 ### Esempi
 
-Il seguente codice di esempio mostra come decriptare un file PDF.
+Il seguente codice di esempio mostra come decrittare un file PDF.
 
 ```csharp
 [C#]
-	// The path to your PDF File.
+	// Il percorso al tuo file PDF.
 	string pdfFilePath = "YOUR_PDF_FILE_PATH";
 
-	// Open document
+	// Apri documento
 	using (Document document = new Document(pdfFilePath, "YOUR_PASSWORD"))
 	{
-		// Decrypt PDF
+		// Decrittare PDF
 		document.Decrypt();
 
-		// Save updated PDF
+		// Salva PDF aggiornato
 		document.Save(pdfFilePath);
 	}
 ```
@@ -51,8 +51,10 @@ Il seguente codice di esempio mostra come decriptare un file PDF.
     End Using
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

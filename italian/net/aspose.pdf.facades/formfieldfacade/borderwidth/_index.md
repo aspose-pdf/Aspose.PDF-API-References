@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormFieldFacade. La larghezza di un bordo di campo
+title: "FormFieldFacade.BorderWidth"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade property. La larghezza di un bordo del campo"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.facades/formfieldfacade/borderwidth/
 ---
-## Proprietà FormFieldFacade.BorderWidth
+## FormFieldFacade.BorderWidth property
 
-La larghezza di un bordo di campo.
+La larghezza di un bordo del campo.
 
 ```csharp
 public float BorderWidth { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

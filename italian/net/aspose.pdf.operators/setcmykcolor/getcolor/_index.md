@@ -1,25 +1,27 @@
 ---
-title: SetCMYKColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SetCMYKColor. Restituisce colore
+title: "SetCMYKColor.getColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SetCMYKColor. Restituisce il colore"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.operators/setcmykcolor/getcolor/
 ---
-## Metodo SetCMYKColor.getColor
+## SetCMYKColor.getColor method
 
-Restituisce colore.
+Restituisce il colore.
 
 ```csharp
 public override Color getColor()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Colore specificato dall'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetCMYKColor](../)
+* class [SetCMYKColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

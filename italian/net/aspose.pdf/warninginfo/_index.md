@@ -1,14 +1,14 @@
 ---
-title: Class WarningInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.WarningInfo. Oggetto immutabile per incapsulare informazioni di avviso
+title: "Classe WarningInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.WarningInfo. Oggetto immutabile per incapsulare le informazioni di avviso"
 type: docs
-weight: 11280
+weight: 11470
 url: /it/net/aspose.pdf/warninginfo/
 ---
-## Classe WarningInfo
+## WarningInfo class
 
-Oggetto immutabile per incapsulare informazioni di avviso.
+Oggetto immutabile per incapsulare le informazioni di avviso.
 
 ```csharp
 public sealed class WarningInfo
@@ -18,16 +18,18 @@ public sealed class WarningInfo
 
 | Nome | Descrizione |
 | --- | --- |
-| [WarningInfo](warninginfo/)(WarningType, string) | Costruisce un'istanza per raccogliere informazioni. |
+| [WarningInfo](warninginfo/)(WarningType, string) | Crea un'istanza per raccogliere informazioni. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [WarningMessage](../../aspose.pdf/warninginfo/warningmessage/) { get; } | Restituisce la rappresentazione in stringa del messaggio di avviso. |
+| [WarningMessage](../../aspose.pdf/warninginfo/warningmessage/) { get; } | Restituisce la rappresentazione stringa del messaggio di avviso. |
 | [WarningTypeProperty](../../aspose.pdf/warninginfo/warningtypeproperty/) { get; } | Restituisce il tipo di avviso. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

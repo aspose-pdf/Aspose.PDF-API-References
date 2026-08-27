@@ -1,21 +1,23 @@
 ---
-title: HtmlLoadOptions.IsRenderToSinglePage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlLoadOptions. Ottiene o imposta il rendering di tutto il documento su una singola pagina
+title: "HtmlLoadOptions.IsRenderToSinglePage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "HtmlLoadOptions proprietà. Ottiene o imposta la resa di tutto il documento in una singola pagina"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/htmlloadoptions/isrendertosinglepage/
 ---
-## Proprietà HtmlLoadOptions.IsRenderToSinglePage
+## HtmlLoadOptions.IsRenderToSinglePage property
 
-Ottiene o imposta il rendering di tutto il documento su una singola pagina
+Restituisce o imposta il rendering di tutto il document in una singola pagina
 
 ```csharp
 public bool IsRenderToSinglePage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlLoadOptions](../)
+* class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

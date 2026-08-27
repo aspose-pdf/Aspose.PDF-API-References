@@ -1,22 +1,24 @@
 ---
-title: Signature.OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di firma. Ottiene/imposta le impostazioni ocsp
+title: "Signature.OcspSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Signature. Ottiene/imposta le impostazioni OCSP"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.forms/signature/ocspsettings/
 ---
-## Proprietà Signature.OcspSettings
+## Signature.OcspSettings property
 
-Ottiene/imposta le impostazioni ocsp.
+Ottiene/imposta le impostazioni OCSP.
 
 ```csharp
 public OcspSettings OcspSettings { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OcspSettings](../../../aspose.pdf/ocspsettings/)
-* classe [Signature](../)
+* class [OcspSettings](../../../aspose.pdf/ocspsettings/)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

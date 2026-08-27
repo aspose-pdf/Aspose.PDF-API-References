@@ -1,14 +1,14 @@
 ---
-title: Class IncorrectFontUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IncorrectFontUsageException class. The exception that is thrown when font usage is incorrect
+title: "Classe IncorrectFontUsageException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.IncorrectFontUsageException. L'eccezione che viene generata quando l'uso del font è errato"
 type: docs
-weight: 5970
+weight: 6100
 url: /it/net/aspose.pdf/incorrectfontusageexception/
 ---
-## Classe IncorrectFontUsageException
+## IncorrectFontUsageException class
 
-L'eccezione che viene sollevata quando l'uso del font è errato.
+L'eccezione che viene generata quando l'uso del carattere è errato.
 
 ```csharp
 public sealed class IncorrectFontUsageException : InvalidFileFormatException
@@ -22,8 +22,10 @@ public sealed class IncorrectFontUsageException : InvalidFileFormatException
 | [IncorrectFontUsageException](incorrectfontusageexception/#constructor_1)(string) | Inizializza una nuova istanza della classe `IncorrectFontUsageException`. |
 | [IncorrectFontUsageException](incorrectfontusageexception/#constructor_2)(string, Exception) | Inizializza una nuova istanza della classe `IncorrectFontUsageException` con un messaggio di errore specificato e un riferimento all'eccezione interna che è la causa di questa eccezione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [InvalidFileFormatException](../invalidfileformatexception/)
+* class [InvalidFileFormatException](../invalidfileformatexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

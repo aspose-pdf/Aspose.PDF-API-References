@@ -1,22 +1,24 @@
 ---
-title: Note.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Note. Ottiene o imposta uno stato del testo della nota
+title: "Note.TextState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Note proprietà. Ottiene o imposta lo stato del testo della nota"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/note/textstate/
 ---
-## Proprietà Note.TextState
+## Note.TextState property
 
-Ottiene o imposta uno stato del testo della nota.
+Ottiene o imposta lo stato del testo della nota.
 
 ```csharp
 public TextState TextState { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [Note](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

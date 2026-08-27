@@ -1,12 +1,12 @@
 ---
-title: Characteristics.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Characteristics. Ottiene o imposta il colore del bordo
+title: "Characteristics.Border"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Characteristics. Ottiene o imposta il colore del bordo"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/characteristics/border/
 ---
-## Proprietà Characteristics.Border
+## Characteristics.Border property
 
 Ottiene o imposta il colore del bordo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il colore del bordo.
 public Color Border { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Characteristics](../)
+* class [Characteristics](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

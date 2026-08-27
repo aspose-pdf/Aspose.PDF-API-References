@@ -1,12 +1,12 @@
 ---
-title: CompressOptions.CompressOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di CompressOptions. Il costruttore predefinito
+title: "CompressOptions.CompressOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore CompressOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/compressoptions/compressoptions/
 ---
-## Costruttore di CompressOptions
+## CompressOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public CompressOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CompressOptions](../)
+* class [CompressOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

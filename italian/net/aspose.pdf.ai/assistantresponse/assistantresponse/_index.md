@@ -1,12 +1,12 @@
 ---
-title: AssistantResponse.AssistantResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di AssistantResponse. Il costruttore predefinito
+title: "AssistantResponse.AssistantResponse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AssistantResponse costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/assistantresponse/assistantresponse/
 ---
-## Costruttore di AssistantResponse
+## AssistantResponse constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public AssistantResponse()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AssistantResponse](../)
+* class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

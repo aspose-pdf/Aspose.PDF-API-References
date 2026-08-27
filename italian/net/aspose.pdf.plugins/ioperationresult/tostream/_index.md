@@ -1,25 +1,27 @@
 ---
-title: IOperationResult.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOperationResult. Tenta di convertire il risultato nell'oggetto stream
+title: "IOperationResult.ToStream"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IOperationResult. Prova a convertire il risultato nell'oggetto stream"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.plugins/ioperationresult/tostream/
 ---
-## Metodo IOperationResult.ToStream
+## IOperationResult.ToStream method
 
-Tenta di convertire il risultato nell'oggetto stream.
+Cerca di convertire il risultato nell'oggetto stream.
 
 ```csharp
 public Stream ToStream()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un oggetto stream che rappresenta i dati di output se il risultato è uno stream; altrimenti `null`.
+Un oggetto stream che rappresenta i dati di output se il risultato è stream; altrimenti `null`.
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperationResult](../)
+* interface [IOperationResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

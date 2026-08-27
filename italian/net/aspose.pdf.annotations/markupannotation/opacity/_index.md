@@ -1,21 +1,23 @@
 ---
-title: MarkupAnnotation.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MarkupAnnotation. Ottiene o imposta il valore di opacità costante da utilizzare per dipingere l'annotazione
+title: "MarkupAnnotation.Opacity"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MarkupAnnotation. Ottiene o imposta il valore costante di opacità da utilizzare nella resa dell'annotazione"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/markupannotation/opacity/
 ---
-## Proprietà MarkupAnnotation.Opacity
+## MarkupAnnotation.Opacity property
 
-Ottiene o imposta il valore di opacità costante da utilizzare per dipingere l'annotazione.
+Ottiene o imposta il valore costante di opacità da utilizzare nella visualizzazione dell'annotazione.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarkupAnnotation](../)
+* class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

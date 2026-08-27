@@ -1,7 +1,7 @@
 ---
-title: BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di BorderInfo. Inizializza una nuova istanza della classe BorderInfo
+title: "BorderInfo.BorderInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "BorderInfo costruttore. Inizializza una nuova istanza della classe BorderInfo"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/borderinfo/borderinfo/
@@ -16,10 +16,10 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| borderSide | BorderSide | Indica le informazioni sui lati del bordo. Ad esempio: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | Indica le informazioni dei lati del bordo. Per esempio: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
 | borderColor | Color | Il colore del bordo. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BorderSide](../../borderside/)
 * class [Color](../../color/)
@@ -37,7 +37,7 @@ Inizializza una nuova istanza della classe [`BorderInfo`](../).
 public BorderInfo()
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -55,9 +55,9 @@ public BorderInfo(BorderSide borderSide)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| borderSide | BorderSide | Indica le informazioni sui lati del bordo. Ad esempio: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | Indica le informazioni dei lati del bordo. Per esempio: (BorderSide.Left &#x7C; BorderSide.Top). |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BorderSide](../../borderside/)
 * class [BorderInfo](../)
@@ -76,10 +76,10 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| borderSide | BorderSide | Indica le informazioni sui lati del bordo. Ad esempio: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | Indica le informazioni dei lati del bordo. Per esempio: (BorderSide.Left &#x7C; BorderSide.Top). |
 | borderWidth | Single | La larghezza del bordo. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BorderSide](../../borderside/)
 * class [BorderInfo](../)
@@ -98,11 +98,11 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| borderSide | BorderSide | Indica le informazioni sui lati del bordo. Ad esempio: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | Indica le informazioni dei lati del bordo. Per esempio: (BorderSide.Left &#x7C; BorderSide.Top). |
 | borderWidth | Single | La larghezza del bordo. |
 | borderColor | Color | Il colore del bordo. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BorderSide](../../borderside/)
 * class [Color](../../color/)
@@ -122,13 +122,15 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| borderSide | BorderSide | Indica le informazioni sui lati del bordo. Ad esempio: (BorderSide.Left &#x7C; BorderSide.Top). |
-| info | GraphInfo | Le informazioni sul bordo. |
+| borderSide | BorderSide | Indica le informazioni dei lati del bordo. Per esempio: (BorderSide.Left &#x7C; BorderSide.Top). |
+| info | GraphInfo | Le informazioni del bordo. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BorderSide](../../borderside/)
 * class [GraphInfo](../../graphinfo/)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

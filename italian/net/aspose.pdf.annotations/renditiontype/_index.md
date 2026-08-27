@@ -1,12 +1,12 @@
 ---
-title: Enum RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RenditionType enum. Enumeration describes possible types of Rendition
+title: "Enum RenditionType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Annotations.RenditionType. L'enumerazione descrive i possibili tipi di Rendition"
 type: docs
-weight: 2460
+weight: 2550
 url: /it/net/aspose.pdf.annotations/renditiontype/
 ---
-## Enumerazione RenditionType
+## RenditionType enumeration
 
 L'enumerazione descrive i possibili tipi di Rendition.
 
@@ -18,11 +18,13 @@ public enum RenditionType
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Media | `0` | Oggetto di rendizione media. |
-| Selector | `1` | Oggetto di rendizione selector. |
-| Undefined | `2` | Il tipo di rendizione è indefinito. |
+| Media | `0` | Oggetto di rappresentazione multimediale. |
+| Selector | `1` | Oggetto di rappresentazione del selettore. |
+| Undefined | `2` | Il tipo di Rendition non è definito. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

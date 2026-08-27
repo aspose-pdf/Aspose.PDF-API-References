@@ -1,12 +1,12 @@
 ---
-title: XmpField.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpField. Ottiene un campo xmp vuoto
+title: "XmpField.Empty"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XmpField. Restituisce un campo xmp vuoto"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/xmpfield/empty/
 ---
-## Proprietà XmpField.Empty
+## XmpField.Empty property
 
 Ottiene un campo xmp vuoto.
 
@@ -14,8 +14,10 @@ Ottiene un campo xmp vuoto.
 public static XmpField Empty { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Measure.ScaleRatio
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Measure. Una stringa di testo che esprime il rapporto di scala del disegno
+title: "Measure.ScaleRatio"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Measure. Una stringa di testo che esprime il rapporto di scala del disegno"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/measure/scaleratio/
 ---
-## Proprietà Measure.ScaleRatio
+## Measure.ScaleRatio property
 
 Una stringa di testo che esprime il rapporto di scala del disegno.
 
@@ -14,8 +14,10 @@ Una stringa di testo che esprime il rapporto di scala del disegno.
 public string ScaleRatio { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Measure](../)
+* class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

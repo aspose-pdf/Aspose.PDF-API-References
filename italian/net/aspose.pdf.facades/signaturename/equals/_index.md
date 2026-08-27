@@ -1,12 +1,12 @@
 ---
-title: SignatureName.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SignatureName. Determina se questa istanza e un oggetto specificato sono uguali
+title: "SignatureName.Equals"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo di SignatureName. Determina se questa istanza e un oggetto specificato sono uguali"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.facades/signaturename/equals/
 ---
-## Metodo SignatureName.Equals
+## SignatureName.Equals method
 
 Determina se questa istanza e un oggetto specificato sono uguali.
 
@@ -20,10 +20,12 @@ public override bool Equals(object obj)
 
 ### Valore di ritorno
 
-Vero se l'oggetto specificato è uguale all'istanza corrente; altrimenti, falso.
+True se l'oggetto specificato è uguale all'istanza corrente; altrimenti, false.
 
 ### Vedi anche
 
-* classe [SignatureName](../)
+* class [SignatureName](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

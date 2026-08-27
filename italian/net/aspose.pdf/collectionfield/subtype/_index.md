@@ -1,22 +1,24 @@
 ---
-title: CollectionField.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CollectionField. Ottiene il sottotipo di un valore di campo in una collezione di schemi. Il sottotipo di campo di collezione o campo relativo a file che questo dizionario descrive. Questa voce identifica il tipo di dati che devono essere memorizzati nel campo.
+title: "CollectionField.Subtype"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CollectionField. Ottiene il sottotipo di un valore di campo in una collezione di schema. Il sottotipo del campo di collezione o del campo correlato al file che questo dizionario descrive. Questa voce identifica il tipo di dati che deve essere memorizzato nel campo"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/collectionfield/subtype/
 ---
-## Proprietà CollectionField.Subtype
+## CollectionField.Subtype property
 
-Ottiene il sottotipo di un valore di campo in una collezione di schemi. Il sottotipo di campo di collezione o campo relativo a file che questo dizionario descrive. Questa voce identifica il tipo di dati che devono essere memorizzati nel campo.
+Restituisce il sottotipo di un valore di campo in una raccolta di schema. Il sottotipo del campo di raccolta o del campo relativo a file che questo dizionario descrive. Questa voce identifica il tipo di dati che deve essere memorizzato nel campo.
 
 ```csharp
 public CollectionFieldSubtype Subtype { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [CollectionFieldSubtype](../../collectionfieldsubtype/)
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

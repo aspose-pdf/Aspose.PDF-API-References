@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.B5Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Busta B5 176 mm per 250 mm
+title: "PaperSizes.B5Envelope"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. B5 busta 176 mm per 250 mm"
 type: docs
 weight: 240
 url: /it/net/aspose.pdf.printing/papersizes/b5envelope/
 ---
-## Campo PaperSizes.B5Envelope
+## PaperSizes.B5Envelope field
 
 Busta B5 (176 mm per 250 mm).
 
@@ -14,9 +14,11 @@ Busta B5 (176 mm per 250 mm).
 public static readonly PaperSize B5Envelope;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

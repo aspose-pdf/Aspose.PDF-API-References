@@ -1,12 +1,12 @@
 ---
-title: ListBoxField.TopIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ListBoxField. Ottiene o imposta l'indice dell'elemento visibile superiore della lista
+title: "ListBoxField.TopIndex"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ListBoxField. Ottiene o imposta l'indice dell'elemento visibile superiore della lista"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.forms/listboxfield/topindex/
 ---
-## Proprietà ListBoxField.TopIndex
+## ListBoxField.TopIndex property
 
 Ottiene o imposta l'indice dell'elemento visibile superiore della lista.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'indice dell'elemento visibile superiore della lista.
 public int TopIndex { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ListBoxField](../)
+* class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: UnifiedSaveOptions.ExtractOcrSublayerOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di UnifiedSaveOptions. Questo attributo attiva la funzionalità per estrarre immagini o testo per documenti PDF con sottolivello OCR
+title: "UnifiedSaveOptions.ExtractOcrSublayerOnly"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà UnifiedSaveOptions. Questo attributo attiva la funzionalità di estrazione di immagini o testo per documenti PDF con sottolivello OCR"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/
 ---
-## Proprietà UnifiedSaveOptions.ExtractOcrSublayerOnly
+## UnifiedSaveOptions.ExtractOcrSublayerOnly property
 
-Questo attributo attiva la funzionalità per estrarre immagini o testo per documenti PDF con sottolivello OCR.
+Questo attributo attiva la funzionalità di estrazione di immagini o testo per i documenti PDF con sottolivello OCR.
 
 ```csharp
 public bool ExtractOcrSublayerOnly { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-`true` il testo sarà estratto nel documento risultante; altrimenti, `false`.
+`true` il testo verrà estratto nel documento risultato; altrimenti, `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [UnifiedSaveOptions](../)
+* class [UnifiedSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Form.GetFieldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Returns flags of the field
+title: "Form.GetFieldFlag"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Restituisce i flag del campo"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.facades/form/getfieldflag/
 ---
-## Metodo Form.GetFieldFlag
+## Form.GetFieldFlag method
 
 Restituisce i flag del campo.
 
@@ -16,7 +16,7 @@ public PropertyFlag GetFieldFlag(string fieldName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Nome del campo |
+| fieldName | String | Nome campo |
 
 ### Valore di ritorno
 
@@ -32,9 +32,11 @@ if (form.GetFieldFlag("textField") == PropertyFlag.ReadOnly)
 }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [PropertyFlag](../../propertyflag/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

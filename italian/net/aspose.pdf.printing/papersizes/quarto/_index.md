@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.Quarto
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Carta Quarto 215 mm per 275 mm
+title: "PaperSizes.Quarto"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Quarto carta 215 mm per 275 mm"
 type: docs
 weight: 1060
 url: /it/net/aspose.pdf.printing/papersizes/quarto/
 ---
-## Campo PaperSizes.Quarto
+## PaperSizes.Quarto field
 
 Carta Quarto (215 mm per 275 mm).
 
@@ -14,9 +14,11 @@ Carta Quarto (215 mm per 275 mm).
 public static readonly PaperSize Quarto;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

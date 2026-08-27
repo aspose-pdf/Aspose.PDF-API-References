@@ -1,14 +1,14 @@
 ---
-title: Class ExportFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.ExportFieldsOptions. Rappresenta la classe base delle opzioni per l'esportazione dei campi del modulo
+title: "Classe ExportFieldsOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.ExportFieldsOptions. Rappresenta la classe base delle opzioni per l'esportazione dei campi modulo."
 type: docs
-weight: 4100
+weight: 4220
 url: /it/net/aspose.pdf/exportfieldsoptions/
 ---
-## Classe ExportFieldsOptions
+## ExportFieldsOptions class
 
-Rappresenta la classe base delle opzioni per l'esportazione dei campi del modulo.
+Rappresenta la classe base delle opzioni per l'esportazione dei campi modulo.
 
 ```csharp
 public abstract class ExportFieldsOptions
@@ -20,7 +20,9 @@ public abstract class ExportFieldsOptions
 | --- | --- |
 | [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | Ottiene o imposta un valore che indica se il valore della password deve essere esportato. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

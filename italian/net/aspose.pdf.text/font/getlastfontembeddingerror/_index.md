@@ -1,25 +1,27 @@
 ---
-title: Font.GetLastFontEmbeddingError
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Font. Un obiettivo di questo metodo è restituire la descrizione dell'errore se un tentativo di incorporare il font è fallito. Se non ci sono casi di errore, restituisce una stringa vuota.
+title: "Font.GetLastFontEmbeddingError"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Font. Lo scopo di questo metodo è restituire la descrizione dell'errore se un tentativo di incorporare il font è fallito. Se non ci sono errori restituisce una stringa vuota."
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.text/font/getlastfontembeddingerror/
 ---
-## Metodo Font.GetLastFontEmbeddingError
+## Font.GetLastFontEmbeddingError method
 
-Un obiettivo di questo metodo è restituire la descrizione dell'errore se un tentativo di incorporare il font è fallito. Se non ci sono casi di errore, restituisce una stringa vuota.
+Lo scopo di questo metodo è restituire la descrizione dell'errore se un tentativo di incorporare il font è fallito. Se non ci sono errori restituisce una stringa vuota.
 
 ```csharp
 public string GetLastFontEmbeddingError()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Descrizione dell'errore
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Font](../)
+* class [Font](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

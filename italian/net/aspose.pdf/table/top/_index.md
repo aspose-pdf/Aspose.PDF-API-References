@@ -1,12 +1,12 @@
 ---
-title: Table.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della tabella. Ottiene o imposta la coordinata superiore della tabella
+title: "Table.Top"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Table. Ottiene o imposta la coordinata superiore della tabella"
 type: docs
 weight: 210
 url: /it/net/aspose.pdf/table/top/
 ---
-## Proprietà Table.Top
+## Table.Top property
 
 Ottiene o imposta la coordinata superiore della tabella.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la coordinata superiore della tabella.
 public float Top { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Table](../)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

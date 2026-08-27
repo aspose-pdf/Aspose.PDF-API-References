@@ -1,12 +1,12 @@
 ---
-title: Form.XFA
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del modulo. Ottiene i dati XFA del modulo se presenti
+title: "Form.XFA"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Form. Ottiene i dati XFA del modulo se presenti"
 type: docs
-weight: 170
+weight: 190
 url: /it/net/aspose.pdf.forms/form/xfa/
 ---
-## Proprietà Form.XFA
+## Form.XFA property
 
 Ottiene i dati XFA del modulo (se presenti).
 
@@ -14,9 +14,11 @@ Ottiene i dati XFA del modulo (se presenti).
 public XFA XFA { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFA](../../xfa/)
-* classe [Form](../)
+* class [XFA](../../xfa/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

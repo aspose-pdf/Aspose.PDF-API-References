@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.ExtractTextMode
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfExtractor. Imposta la modalità per il risultato dell'estrazione dei testi
+title: "PdfExtractor.ExtractTextMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfExtractor property. Imposta la modalità per il risultato dell'estrazione del testo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.facades/pdfextractor/extracttextmode/
 ---
-## Proprietà PdfExtractor.ExtractTextMode
+## PdfExtractor.ExtractTextMode property
 
 Imposta la modalità per il risultato dell'estrazione del testo.
 
@@ -14,9 +14,9 @@ Imposta la modalità per il risultato dell'estrazione del testo.
 public int ExtractTextMode { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-0 è la modalità testo puro e 1 è la modalità di ordinamento grezzo. Il valore predefinito è 0.
+0 è la modalità testo puro e 1 è la modalità ordine grezzo. Il valore predefinito è 0.
 
 ## Esempi
 
@@ -30,8 +30,10 @@ extractor.ExtractText();
 extractor.GetText(@"D:\Text\text.txt");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

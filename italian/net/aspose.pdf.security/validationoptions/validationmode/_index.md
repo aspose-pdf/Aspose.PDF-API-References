@@ -1,22 +1,24 @@
 ---
-title: ValidationOptions.ValidationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ValidationOptions. Ottiene o imposta la modalità di validazione per le firme digitali in un documento PDF. La proprietà ValidationMode determina la severità del processo di validazione
+title: "ValidationOptions.ValidationMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ValidationOptions. Ottiene o imposta la modalità di convalida per le firme digitali in un documento PDF. La proprietà ValidationMode determina il livello di rigore del processo di convalida"
 type: docs
-weight: 40
+weight: 50
 url: /it/net/aspose.pdf.security/validationoptions/validationmode/
 ---
-## Proprietà ValidationOptions.ValidationMode
+## ValidationOptions.ValidationMode property
 
-Ottiene o imposta la modalità di validazione per le firme digitali in un documento PDF. La proprietà ValidationMode determina la severità del processo di validazione.
+Ottiene o imposta la modalità di convalida per le firme digitali in un PDF Document. La proprietà ValidationMode determina il livello di rigore del processo di convalida.
 
 ```csharp
 public ValidationMode ValidationMode { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ValidationMode](../../validationmode/)
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

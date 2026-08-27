@@ -1,26 +1,28 @@
 ---
-title: FontSourceCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FontSourceCollection. Restituisce un enumeratore per l'intera collezione
+title: "FontSourceCollection.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FontSourceCollection. Restituisce un enumeratore per l'intera collezione"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.text/fontsourcecollection/getenumerator/
 ---
-## Metodo FontSourceCollection.GetEnumerator
+## FontSourceCollection.GetEnumerator method
 
-Restituisce un enumeratore per l'intera collezione.
+Restituisce un enumeratore per l'intera raccolta.
 
 ```csharp
 public IEnumerator<FontSource> GetEnumerator()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto enumeratore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontSource](../../fontsource/)
-* classe [FontSourceCollection](../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

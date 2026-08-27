@@ -1,21 +1,23 @@
 ---
-title: Note.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Note. Ottiene o imposta un testo di nota
+title: "Note.Text"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Note proprietà. Ottiene o imposta il testo della nota"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/note/text/
 ---
-## Proprietà Note.Text
+## Note.Text property
 
-Ottiene o imposta un testo di nota.
+Ottiene o imposta il testo della nota.
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Note](../)
+* class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

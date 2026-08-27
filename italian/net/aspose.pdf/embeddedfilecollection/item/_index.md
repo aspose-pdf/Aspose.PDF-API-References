@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà EmbeddedFileCollection. Ottiene il file incorporato in base al suo indice
+title: "EmbeddedFileCollection.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà EmbeddedFileCollection. Ottiene il file incorporato per il suo indice"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/embeddedfilecollection/item/
 ---
-## Indicizzatore EmbeddedFileCollection (1 di 2)
+## EmbeddedFileCollection indexer (1 of 2)
 
-Ottiene il file incorporato in base al suo indice.
+Ottiene il file incorporato per il suo indice.
 
 ```csharp
 public FileSpecification this[int index] { get; }
@@ -20,20 +20,20 @@ public FileSpecification this[int index] { get; }
 
 ### Valore di ritorno
 
-Specifiche del file incorporato recuperato
+Specificazione del file incorporato recuperato
 
 ### Vedi anche
 
-* classe [FileSpecification](../../filespecification/)
-* classe [EmbeddedFileCollection](../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Indicizzatore EmbeddedFileCollection (2 di 2)
+## EmbeddedFileCollection indexer (2 of 2)
 
-Ottiene il file incorporato in base al suo nome.
+Ottiene il file incorporato per il suo nome.
 
 ```csharp
 public FileSpecification this[string name] { get; }
@@ -41,15 +41,17 @@ public FileSpecification this[string name] { get; }
 
 | Parametro | Descrizione |
 | --- | --- |
-| name | Nome del file incorporato. |
+| nome | Nome del file incorporato. |
 
 ### Valore di ritorno
 
-Specifiche del file incorporato recuperato.
+Specificazione del file incorporato recuperato.
 
 ### Vedi anche
 
-* classe [FileSpecification](../../filespecification/)
-* classe [EmbeddedFileCollection](../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

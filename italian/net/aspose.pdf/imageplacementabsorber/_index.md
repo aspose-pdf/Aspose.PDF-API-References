@@ -1,14 +1,14 @@
 ---
-title: Class ImagePlacementAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.ImagePlacementAbsorber. Rappresenta un oggetto assorbitore di oggetti di posizionamento delle immagini. Esegue la ricerca degli utilizzi delle immagini e fornisce accesso ai risultati della ricerca tramite la collezione ImagePlacements
+title: "Classe ImagePlacementAbsorber"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.ImagePlacementAbsorber. Rappresenta un oggetto assorbitore di oggetti di posizionamento immagine. Esegue la ricerca degli utilizzi delle immagini e fornisce l'accesso ai risultati della ricerca tramite la collezione ImagePlacements."
 type: docs
-weight: 5910
+weight: 6040
 url: /it/net/aspose.pdf/imageplacementabsorber/
 ---
-## Classe ImagePlacementAbsorber
+## ImagePlacementAbsorber class
 
-Rappresenta un oggetto assorbitore di oggetti di posizionamento delle immagini. Esegue la ricerca degli utilizzi delle immagini e fornisce accesso ai risultati della ricerca tramite la collezione [`ImagePlacements`](./imageplacements/).
+Rappresenta un oggetto assorbitore di oggetti di posizionamento immagine. Esegue la ricerca degli utilizzi delle immagini e fornisce l'accesso ai risultati della ricerca tramite la collezione [`ImagePlacements`](./imageplacements/).
 
 ```csharp
 public sealed class ImagePlacementAbsorber
@@ -24,35 +24,35 @@ public sealed class ImagePlacementAbsorber
 
 | Nome | Descrizione |
 | --- | --- |
-| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements/) { get; } | Ottiene la collezione delle occorrenze di posizionamento delle immagini che sono presentate con oggetti [`ImagePlacement`](../imageplacement/). |
-| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode/) { get; set; } | Ottiene/imposta la modalità di sola lettura per la collezione delle operazioni di parsing. Può aiutare contro le eccezioni di memoria esaurita. |
+| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements/) { get; } | Ottiene la collezione di occorrenze di posizionamento delle immagini presentate con oggetti [`ImagePlacement`](../imageplacement/). |
+| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode/) { get; set; } | Ottiene/imposta la modalità di sola lettura per la collezione di operazioni di parsing. Può aiutare a prevenire eccezioni di out of memory. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit)(Document) | Esegue la ricerca nel documento specificato. |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit_1)(Page) | Esegue la ricerca nella pagina specificata. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit)(Document) | Esegue la ricerca sul documento specificato. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit_1)(Page) | Esegue la ricerca sulla pagina specificata. |
 
 ## Osservazioni
 
-L'oggetto `ImagePlacementAbsorber` è fondamentalmente utilizzato nello scenario di ricerca delle immagini. Quando la ricerca è completata, le occorrenze sono rappresentate con oggetti [`ImagePlacement`](../imageplacement/) che la collezione [`ImagePlacements`](./imageplacements/) contiene. L'oggetto [`ImagePlacement`](../imageplacement/) fornisce accesso alle proprietà di posizionamento delle immagini: dimensioni, risoluzione, ecc. La rotazione positiva dell'immagine è antioraria, per la pagina, è oraria. Qui, dobbiamo rappresentare l'angolo di rotazione dell'immagine, quindi sottraiamo l'angolo della pagina dall'angolo dell'immagine.
+L'oggetto `ImagePlacementAbsorber` è fondamentalmente utilizzato nello scenario di ricerca di immagini. Quando la ricerca è completata, le occorrenze sono rappresentate con oggetti [`ImagePlacement`](../imageplacement/) contenuti nella collezione [`ImagePlacements`](./imageplacements/). L'oggetto [`ImagePlacement`](../imageplacement/) fornisce l'accesso alle proprietà di posizionamento dell'immagine: dimensioni, risoluzione, ecc. La rotazione positiva dell'immagine è in senso antiorario, mentre per la pagina è in senso orario. Qui, dobbiamo rappresentare l'angolo di rotazione dell'immagine, quindi sottraiamo l'angolo della pagina dall'angolo dell'immagine.
 
 ## Esempi
 
-L'esempio dimostra come trovare immagini nella prima pagina del documento PDF e ottenere le proprietà di posizionamento delle immagini.
+L'esempio dimostra come trovare le immagini nella prima pagina del documento PDF e ottenere le proprietà di posizionamento dell'immagine.
 
 ```csharp
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create ImagePlacementAbsorber object to perform image placement search
+// Crea un oggetto ImagePlacementAbsorber per eseguire la ricerca di posizionamento delle immagini.
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(abs);
 
-// Display image placement properties for all placements
+// Visualizza le proprietà di posizionamento delle immagini per tutti i posizionamenti.
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {     
     Console.Out.WriteLine("image width:" + imagePlacement.Rectangle.Width);
@@ -64,7 +64,9 @@ foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: ImagePlacementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ImagePlacementCollection. Restituisce un enumeratore per l'intera collezione
+title: "ImagePlacementCollection.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ImagePlacementCollection. Restituisce un enumeratore per l'intera collezione"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/imageplacementcollection/getenumerator/
 ---
-## Metodo ImagePlacementCollection.GetEnumerator
+## ImagePlacementCollection.GetEnumerator method
 
-Restituisce un enumeratore per l'intera collezione.
+Restituisce un enumeratore per l'intera raccolta.
 
 ```csharp
 public IEnumerator<ImagePlacement> GetEnumerator()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto enumeratore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImagePlacement](../../imageplacement/)
-* classe [ImagePlacementCollection](../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

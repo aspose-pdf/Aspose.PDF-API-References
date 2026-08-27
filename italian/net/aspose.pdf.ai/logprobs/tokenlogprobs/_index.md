@@ -1,12 +1,12 @@
 ---
-title: Logprobs.TokenLogprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Logprobs. Ottiene o imposta un elenco di probabilità logaritmiche dei token
+title: "Logprobs.TokenLogprobs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Logprobs. Ottiene o imposta un elenco di probabilità logaritmiche dei token"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/logprobs/tokenlogprobs/
 ---
-## Proprietà Logprobs.TokenLogprobs
+## Logprobs.TokenLogprobs property
 
 Ottiene o imposta un elenco di probabilità logaritmiche dei token.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un elenco di probabilità logaritmiche dei token.
 public List<double?> TokenLogprobs { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Logprobs](../)
+* class [Logprobs](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

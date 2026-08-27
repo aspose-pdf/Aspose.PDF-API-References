@@ -1,7 +1,7 @@
 ---
-title: AICopilotException.AICopilotException
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di AICopilotException. Inizializza una nuova istanza della classe AICopilotException con un messaggio di errore specificato
+title: "AICopilotException.AICopilotException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore AICopilotException. Inizializza una nuova istanza della classe AICopilotException con un messaggio di errore specificato."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/aicopilotexception/aicopilotexception/
@@ -16,11 +16,11 @@ public AICopilotException(string message)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio di errore che descrive l'eccezione. |
+| messaggio | String | Il messaggio di errore che descrive l'eccezione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AICopilotException](../)
+* class [AICopilotException](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,11 +36,13 @@ public AICopilotException(string message, Exception innerException)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio di errore che descrive l'eccezione. |
+| messaggio | String | Il messaggio di errore che descrive l'eccezione. |
 | innerException | Exception | L'eccezione che è la causa dell'eccezione corrente. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AICopilotException](../)
+* class [AICopilotException](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.Builder.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Builder. Inizializza una nuova istanza della classe Builder con la chiave API
+title: "OpenAIClient.Builder.Builder"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Builder. Inizializza una nuova istanza della classe Builder con la chiave API"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/openaiclient.builder/builder/
 ---
-## Costruttore OpenAIClient.Builder
+## OpenAIClient.Builder constructor
 
 Inizializza una nuova istanza della classe [`Builder`](../) con la chiave API.
 
@@ -18,8 +18,10 @@ public Builder(string apiKey)
 | --- | --- | --- |
 | apiKey | String | La chiave API da utilizzare per il client. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Builder](../)
+* class [Builder](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SideBySideComparisonOptions.ComparisonMode
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SideBySideComparisonOptions. Ottiene e imposta una modalità di confronto. Il valore predefinito è SideBySideComparison.ComparisonMode.IgnoreSpaces
+title: "SideBySideComparisonOptions.ComparisonMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SideBySideComparisonOptions. Ottiene e imposta una modalità di confronto. Il valore predefinito è SideBySideComparison.ComparisonMode.IgnoreSpaces"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.comparison/sidebysidecomparisonoptions/comparisonmode/
 ---
-## Proprietà SideBySideComparisonOptions.ComparisonMode
+## SideBySideComparisonOptions.ComparisonMode property
 
 Ottiene e imposta una modalità di confronto. Il valore predefinito è !:SideBySideComparison.ComparisonMode.IgnoreSpaces.
 
@@ -14,9 +14,11 @@ Ottiene e imposta una modalità di confronto. Il valore predefinito è !:SideByS
 public ComparisonMode ComparisonMode { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ComparisonMode](../../comparisonmode/)
 * class [SideBySideComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

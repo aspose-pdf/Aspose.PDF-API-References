@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.Exclude
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SubmitFormAction. Se vuoto, l'array Fields specifica quali campi includere nella sottomissione
+title: "SubmitFormAction.Exclude"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo SubmitFormAction. Se non impostato, l'array Fields specifica quali campi includere nella trasmissione"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.annotations/submitformaction/exclude/
 ---
-## Campo SubmitFormAction.Exclude
+## SubmitFormAction.Exclude field
 
-Se vuoto, l'array Fields specifica quali campi includere nella sottomissione.
+Se cancellato, l'array Fields specifica quali campi includere nella sottomissione.
 
 ```csharp
 public const int Exclude;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

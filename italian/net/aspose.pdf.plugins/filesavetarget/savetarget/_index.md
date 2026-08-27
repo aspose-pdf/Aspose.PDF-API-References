@@ -1,26 +1,28 @@
 ---
-title: FileSaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileSaveTarget. Tipo del file di destinazione per il salvataggio
+title: "FileSaveTarget.SaveTarget"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FileSaveTarget. Tipo del file di destinazione di salvataggio"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.plugins/filesavetarget/savetarget/
 ---
-## Proprietà FileSaveTarget.SaveTarget
+## FileSaveTarget.SaveTarget property
 
-Tipo del file di destinazione per il salvataggio.
+Tipo della destinazione di salvataggio (file).
 
 ```csharp
 public DataType SaveTarget { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un oggetto [`DataType`](../../datatype/) che rappresenta i dati di output.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [DataType](../../datatype/)
 * class [FileSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

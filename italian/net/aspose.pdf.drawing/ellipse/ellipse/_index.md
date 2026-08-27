@@ -1,12 +1,12 @@
 ---
-title: Ellipse.Ellipse
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Ellipse. Inizializza una nuova istanza della classe Ellipse
+title: "Ellipse.Ellipse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Ellipse. Inizializza una nuova istanza della classe Ellipse"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.drawing/ellipse/ellipse/
 ---
-## Costruttore Ellipse
+## Ellipse constructor
 
 Inizializza una nuova istanza della classe [`Ellipse`](../).
 
@@ -16,13 +16,15 @@ public Ellipse(double left, double bottom, double width, double height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| left | Double | La posizione sinistra dell'ellisse. |
-| bottom | Double | La posizione inferiore dell'ellisse. |
-| width | Double | La larghezza dell'ellisse. |
-| height | Double | L'altezza dell'ellisse. |
+| sinistra | Double | La posizione sinistra dell'ellisse. |
+| inferiore | Double | La posizione inferiore dell'ellisse. |
+| larghezza | Double | La larghezza dell'ellisse. |
+| altezza | Double | L'altezza dell'ellisse. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Ellipse](../)
+* class [Ellipse](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

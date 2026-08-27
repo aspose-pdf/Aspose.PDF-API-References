@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.WithSummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAISummaryCopilotOptions. Imposta il prompt di riepilogo per le opzioni del copilot di riepilogo
+title: "OpenAISummaryCopilotOptions.WithSummaryPrompt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAISummaryCopilotOptions metodo. Imposta il prompt di riepilogo per le opzioni del copilot di riepilogo"
 type: docs
-weight: 120
+weight: 130
 url: /it/net/aspose.pdf.ai/openaisummarycopilotoptions/withsummaryprompt/
 ---
-## Metodo OpenAISummaryCopilotOptions.WithSummaryPrompt
+## OpenAISummaryCopilotOptions.WithSummaryPrompt method
 
 Imposta il prompt di riepilogo per le opzioni del copilot di riepilogo.
 
@@ -24,6 +24,8 @@ L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState method. Measures the string
+title: "TextFragmentState.MeasureString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextFragmentState. Misura la stringa"
 type: docs
 weight: 270
 url: /it/net/aspose.pdf.text/textfragmentstate/measurestring/
 ---
-## Metodo TextFragmentState.MeasureString
+## TextFragmentState.MeasureString method
 
 Misura la stringa.
 
@@ -18,12 +18,14 @@ public override double MeasureString(string str)
 | --- | --- | --- |
 | str | String | La stringa. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Larghezza della stringa.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentState](../)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.Flush
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OptimizedMemoryStream. La funzione sovrascritta
+title: "OptimizedMemoryStream.Flush"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OptimizedMemoryStream. La funzione sovrascritta"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/optimizedmemorystream/flush/
 ---
-## Metodo OptimizedMemoryStream.Flush
+## OptimizedMemoryStream.Flush method
 
-La funzione sovrascritta.
+La funzione è stata sovrascritta.
 
 ```csharp
 public override void Flush()
@@ -16,6 +16,8 @@ public override void Flush()
 
 ### Vedi anche
 
-* classe [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

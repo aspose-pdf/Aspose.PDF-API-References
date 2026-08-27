@@ -1,12 +1,12 @@
 ---
-title: CompletionResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CompletionResponse. Ottiene o imposta un identificatore univoco per il completamento della chat
+title: "CompletionResponse.Id"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CompletionResponse proprietà. Ottiene o imposta un identificatore univoco per il completamento della chat"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/completionresponse/id/
 ---
-## Proprietà CompletionResponse.Id
+## CompletionResponse.Id property
 
 Ottiene o imposta un identificatore univoco per il completamento della chat.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un identificatore univoco per il completamento della chat.
 public string Id { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CompletionResponse](../)
+* class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

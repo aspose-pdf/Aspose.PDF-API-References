@@ -1,7 +1,7 @@
 ---
-title: SetTextMatrix.SetTextMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextMatrix constructor. Initializes operator
+title: "SetTextMatrix.SetTextMatrix"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SetTextMatrix. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/settextmatrix/settextmatrix/
@@ -16,16 +16,16 @@ public SetTextMatrix(double a, double b, double c, double d, double e, double f)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| a | Double | Un coefficiente |
-| b | Double | Coefficiente B |
-| c | Double | Coefficiente C |
-| d | Double | Coefficiente D |
-| e | Double | Coefficiente E |
-| f | Double | Coefficiente F |
+| a | Double | coefficiente A |
+| b | Double | coefficiente B |
+| c | Double | coefficiente C |
+| d | Double | coefficiente D |
+| e | Double | coefficiente E |
+| f | Double | coefficiente F |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetTextMatrix](../)
+* class [SetTextMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ public SetTextMatrix(double a, double b, double c, double d, double e, double f)
 
 ## SetTextMatrix(Matrix) {#constructor}
 
-Inizializza l'operatore tramite matrice.
+Inizializza l'operatore mediante Matrix.
 
 ```csharp
 public SetTextMatrix(Matrix m)
@@ -43,9 +43,11 @@ public SetTextMatrix(Matrix m)
 | --- | --- | --- |
 | m | Matrix | Matrice di trasformazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix](../../../aspose.pdf/matrix/)
-* classe [SetTextMatrix](../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [SetTextMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ResponseFormat.StringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ResponseFormat. Permette di ottenere o impostare il valore della stringa della formattazione della risposta.
+title: "ResponseFormat.StringValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ResponseFormat. Ottiene o imposta il valore stringa del formato di risposta"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/responseformat/stringvalue/
 ---
-## Proprietà ResponseFormat.StringValue
+## ResponseFormat.StringValue property
 
-Ottiene o imposta il valore stringa del formato di risposta.
+Ottiene o imposta il valore stringa del formato della risposta.
 
 ```csharp
 public string StringValue { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ResponseFormat](../)
+* class [ResponseFormat](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

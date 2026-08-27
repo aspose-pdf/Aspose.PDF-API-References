@@ -1,14 +1,14 @@
 ---
-title: Class TableGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.TableGenerator. Rappresenta il plugin TableGenerator di Aspose.PDF
+title: "Classe TableGenerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Plugins.TableGenerator. Rappresenta il plugin Aspose.PDF TableGenerator"
 type: docs
-weight: 9350
+weight: 9500
 url: /it/net/aspose.pdf.plugins/tablegenerator/
 ---
-## Classe TableGenerator
+## TableGenerator class
 
-Rappresenta il plugin TableGenerator di Aspose.PDF.
+Rappresenta il plugin Aspose.PDF TableGenerator.
 
 ```csharp
 public sealed class TableGenerator : IDisposable, IPlugin
@@ -24,7 +24,7 @@ public sealed class TableGenerator : IDisposable, IPlugin
 
 | Nome | Descrizione |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/tablegenerator/dispose/)() | Implementazione di IDisposable. In effetti, non è necessario per TableGenerator. |
+| [Dispose](../../aspose.pdf.plugins/tablegenerator/dispose/)() | Implementazione di IDisposable. In realtà, non è necessaria per TableGenerator. |
 | [Process](../../aspose.pdf.plugins/tablegenerator/process/)(IPluginOptions) | Avvia l'elaborazione di PdfGenerator con i parametri specificati. |
 
 ## Esempi
@@ -32,21 +32,23 @@ public sealed class TableGenerator : IDisposable, IPlugin
 L'esempio dimostra come aggiungere una tabella a un file PDF.
 
 ```csharp
-// create TableGenerator
+// crea TableGenerator
 var generator = new TableGenerator();
-// create TableOptions object to set instructions
+// crea l'oggetto TableOptions per impostare le istruzioni
 var opt = new TableOptions();
-// add input file paths
+// aggiungi i percorsi dei file di input
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// imposta il percorso del file di output
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// esegui il processo di estrazione
 generator.Process(opt);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IPlugin](../iplugin/)
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

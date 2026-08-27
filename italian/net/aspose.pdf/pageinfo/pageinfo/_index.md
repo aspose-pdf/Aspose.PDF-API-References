@@ -1,12 +1,12 @@
 ---
-title: PageInfo.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PageInfo. Il costruttore predefinito
+title: "PageInfo.PageInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PageInfo. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/pageinfo/pageinfo/
 ---
-## Costruttore di PageInfo
+## PageInfo constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public PageInfo()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageInfo](../)
+* class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

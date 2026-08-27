@@ -1,12 +1,12 @@
 ---
-title: BasicSetColorAndPatternOperator.PatternName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BasicSetColorAndPatternOperator. Ottiene il nome del pattern
+title: "BasicSetColorAndPatternOperator.PatternName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà BasicSetColorAndPatternOperator. Ottiene il nome del pattern"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/
 ---
-## Proprietà BasicSetColorAndPatternOperator.PatternName
+## BasicSetColorAndPatternOperator.PatternName property
 
 Ottiene il nome del pattern.
 
@@ -14,8 +14,10 @@ Ottiene il nome del pattern.
 public string PatternName { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BasicSetColorAndPatternOperator](../)
+* class [BasicSetColorAndPatternOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

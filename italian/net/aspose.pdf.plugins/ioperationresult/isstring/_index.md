@@ -1,12 +1,12 @@
 ---
-title: IOperationResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà IOperationResult. Indica se il risultato è una stringa di testo
+title: "IOperationResult.IsString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà IOperationResult. Indica se il risultato è una stringa di testo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.plugins/ioperationresult/isstring/
 ---
-## Proprietà IOperationResult.IsString
+## IOperationResult.IsString property
 
 Indica se il risultato è una stringa di testo.
 
@@ -14,12 +14,14 @@ Indica se il risultato è una stringa di testo.
 public bool IsString { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 `true` se il risultato è una stringa; altrimenti `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperationResult](../)
+* interface [IOperationResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

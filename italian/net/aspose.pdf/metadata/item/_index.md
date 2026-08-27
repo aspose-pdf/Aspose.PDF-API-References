@@ -1,12 +1,12 @@
 ---
-title: Metadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dei metadati. Ottiene o imposta i dati dai metadati
+title: "Metadata.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Metadata. Ottiene o imposta i dati dai metadati"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/metadata/item/
 ---
-## Indicizzatore dei metadati
+## Metadata indexer
 
 Ottiene o imposta i dati dai metadati.
 
@@ -16,7 +16,7 @@ public XmpValue this[string key] { get; set; }
 
 | Parametro | Descrizione |
 | --- | --- |
-| key | Il nome della chiave. |
+| chiave | Il nome della chiave. |
 
 ### Valore di ritorno
 
@@ -24,7 +24,9 @@ Oggetto Metadata.
 
 ### Vedi anche
 
-* classe [XmpValue](../../xmpvalue/)
-* classe [Metadata](../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

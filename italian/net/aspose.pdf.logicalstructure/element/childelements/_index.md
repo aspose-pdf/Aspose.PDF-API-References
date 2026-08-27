@@ -1,26 +1,28 @@
 ---
-title: Element.ChildElements
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Element. Ottiene la collezione di figli degli oggetti Element
+title: "Element.ChildElements"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Element proprietà. Ottiene la raccolta di figli degli oggetti Element"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.logicalstructure/element/childelements/
 ---
-## Proprietà Element.ChildElements
+## Element.ChildElements property
 
-Ottiene la collezione di figli degli oggetti Element.
+Ottiene la collezione di figli di oggetti Element.
 
 ```csharp
 public ElementList ChildElements { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Collezione di figli degli oggetti Element.
+Raccolta di figli degli oggetti Element.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ElementList](../../elementlist/)
-* classe [Element](../)
+* class [ElementList](../../elementlist/)
+* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

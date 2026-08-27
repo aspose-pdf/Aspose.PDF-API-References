@@ -1,14 +1,14 @@
 ---
-title: IBoundsCheckableItem.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IBoundsCheckableItem. Controlla se l'elemento si adatta alle dimensioni del contenitore date, inclusivo
+title: "IBoundsCheckableItem.CheckBounds"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IBoundsCheckableItem. Verifica se l'elemento si adatta alle dimensioni del contenitore specificate, inclusivamente."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.generator/iboundscheckableitem/checkbounds/
 ---
-## Metodo IBoundsCheckableItem.CheckBounds
+## IBoundsCheckableItem.CheckBounds method
 
-Controlla se l'elemento si adatta alle dimensioni del contenitore date (inclusive).
+Verifica se l'elemento si adatta alle dimensioni del contenitore specificate (inclusivo).
 
 ```csharp
 public bool CheckBounds(double containerWidth, double containerHeight)
@@ -21,10 +21,12 @@ public bool CheckBounds(double containerWidth, double containerHeight)
 
 ### Valore di ritorno
 
-Vero se si adatta; altrimenti, falso.
+True se si adatta; altrimenti, false.
 
 ### Vedi anche
 
-* interfaccia [IBoundsCheckableItem](../)
+* interface [IBoundsCheckableItem](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

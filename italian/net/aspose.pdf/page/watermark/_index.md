@@ -1,12 +1,12 @@
 ---
-title: Page.Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene o imposta il watermark della pagina
+title: "Page.Watermark"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene o imposta il watermark della Page."
 type: docs
 weight: 310
 url: /it/net/aspose.pdf/page/watermark/
 ---
-## Proprietà Page.Watermark
+## Page.Watermark property
 
 Ottiene o imposta il watermark della pagina.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il watermark della pagina.
 public Watermark Watermark { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Watermark](../../watermark/)
-* classe [Page](../)
+* class [Watermark](../../watermark/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

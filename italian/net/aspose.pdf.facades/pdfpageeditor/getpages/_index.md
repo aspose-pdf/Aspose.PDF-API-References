@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.GetPages
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor metodo. Restituisce il numero totale di pagine
+title: "PdfPageEditor.GetPages"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfPageEditor. Restituisce il numero totale di pagine"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.facades/pdfpageeditor/getpages/
 ---
-## Metodo PdfPageEditor.GetPages
+## PdfPageEditor.GetPages method
 
 Restituisce il numero totale di pagine.
 
@@ -14,7 +14,7 @@ Restituisce il numero totale di pagine.
 public int GetPages()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Numero di pagine.
 
@@ -28,8 +28,10 @@ editor.BindPdf("sample.pdf");
 Console.WriteLine("Document has: " + editor.GetPages());
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

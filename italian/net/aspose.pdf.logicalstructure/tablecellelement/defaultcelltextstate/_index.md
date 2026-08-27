@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableCellElement. Ottiene o imposta lo stato di testo predefinito della cella
+title: "TableCellElement.DefaultCellTextState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableCellElement. Ottiene o imposta lo stato di testo predefinito della cella"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.logicalstructure/tablecellelement/defaultcelltextstate/
 ---
-## Proprietà TableCellElement.DefaultCellTextState
+## TableCellElement.DefaultCellTextState property
 
 Ottiene o imposta lo stato di testo predefinito della cella.
 
@@ -14,9 +14,11 @@ Ottiene o imposta lo stato di testo predefinito della cella.
 public TextState DefaultCellTextState { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [TableCellElement](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

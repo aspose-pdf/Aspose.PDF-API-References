@@ -1,14 +1,14 @@
 ---
-title: Form.MakeFormAnnotationsIndependent
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Rende le annotazioni dei campi del modulo indipendenti
+title: "Form.MakeFormAnnotationsIndependent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Rende le annotazioni dei campi modulo indipendenti"
 type: docs
-weight: 300
+weight: 320
 url: /it/net/aspose.pdf.forms/form/makeformannotationsindependent/
 ---
-## Metodo Form.MakeFormAnnotationsIndependent
+## Form.MakeFormAnnotationsIndependent method
 
-Rende le annotazioni dei campi del modulo indipendenti.
+Rende le annotazioni dei campi modulo indipendenti.
 
 ```csharp
 public void MakeFormAnnotationsIndependent(Page page)
@@ -16,11 +16,13 @@ public void MakeFormAnnotationsIndependent(Page page)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pagina | Pagina | La pagina di destinazione. |
+| pagina | Page | La pagina di destinazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Pagina](../../../aspose.pdf/page/)
-* classe [Modulo](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

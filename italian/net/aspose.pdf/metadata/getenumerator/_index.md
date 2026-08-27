@@ -1,12 +1,12 @@
 ---
-title: Metadata.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Metadata. Restituisce l'enumeratore del dizionario
+title: "Metadata.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Metadata. Restituisce l'enumeratore del dizionario"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf/metadata/getenumerator/
 ---
-## Metodo Metadata.GetEnumerator
+## Metadata.GetEnumerator method
 
 Restituisce l'enumeratore del dizionario.
 
@@ -20,7 +20,9 @@ Enumeratore.
 
 ### Vedi anche
 
-* classe [XmpValue](../../xmpvalue/)
-* classe [Metadata](../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

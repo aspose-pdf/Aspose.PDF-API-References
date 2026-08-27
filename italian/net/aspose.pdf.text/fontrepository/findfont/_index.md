@@ -1,52 +1,52 @@
 ---
-title: FontRepository.FindFont
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FontRepository. Cerca e restituisce il font con il nome specificato
+title: "FontRepository.FindFont"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FontRepository. Cerca e restituisce il font con il nome del font specificato"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.text/fontrepository/findfont/
 ---
 ## FindFont(string) {#findfont}
 
-Cerca e restituisce il font con il nome specificato.
+Cerca e restituisce il font con il nome del font specificato.
 
 ```csharp
 public static Font FindFont(string fontName)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | fontName | String | Nome del font. |
 
-### Return Value
+### Valore di ritorno
 
-Oggetto Font.
+Oggetto font.
 
-## Examples
+## Esempi
 
-L'esempio dimostra come trovare un font e sostituire il font del testo della prima pagina.
+L'esempio dimostra come trovare il font e sostituire il font del testo della prima pagina.
 
 ```csharp
-// Find font
+// Trova font
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze del testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Cambia il font della prima occorrenza di testo
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Salva documento
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### See Also
+### Vedi anche
 
 * class [Font](../../font/)
 * class [FontRepository](../)
@@ -57,46 +57,46 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, bool) {#findfont_3}
 
-Cerca e restituisce il font con il nome specificato ignorando o rispettando la sensibilità al maiuscolo/minuscolo.
+Cerca e restituisce il font con il nome del font specificato ignorando o rispettando la sensibilità al maiuscolo/minuscolo.
 
 ```csharp
 public static Font FindFont(string fontName, bool ignoreCase)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | fontName | String | Nome del font. |
-| ignoreCase | Boolean | sensibilità al maiuscolo/minuscolo |
+| ignoreCase | Boolean | sensibilità al caso |
 
-### Return Value
+### Valore di ritorno
 
-Oggetto Font.
+Oggetto font.
 
-## Examples
+## Esempi
 
-L'esempio dimostra come trovare un font e sostituire il font del testo della prima pagina.
+L'esempio dimostra come trovare il font e sostituire il font del testo della prima pagina.
 
 ```csharp
-// Find font
+// Trova font
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze del testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Cambia il font della prima occorrenza di testo
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Salva documento
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### See Also
+### Vedi anche
 
 * class [Font](../../font/)
 * class [FontRepository](../)
@@ -107,46 +107,46 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles) {#findfont_1}
 
-Cerca e restituisce il font con il nome specificato e lo stile del font.
+Cerca e restituisce il font con il nome del font e lo stile del font specificati.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | fontFamilyName | String | Nome della famiglia di font. |
 | stl | FontStyles | Valore dello stile del font. |
 
-### Return Value
+### Valore di ritorno
 
-Oggetto Font corrispondente ai parametri della richiesta di ricerca.
+Oggetto font corrispondente ai parametri della richiesta di ricerca.
 
-## Examples
+## Esempi
 
-L'esempio dimostra come trovare un font e sostituire il font del testo della prima pagina.
+L'esempio dimostra come trovare il font e sostituire il font del testo della prima pagina.
 
 ```csharp
-// Find font
+// Trova font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze di testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// Modifica il font della prima occorrenza di testo
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Salva documento
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### See Also
+### Vedi anche
 
 * class [Font](../../font/)
 * enum [FontStyles](../../fontstyles/)
@@ -158,50 +158,52 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-Cerca e restituisce il font con il nome specificato e lo stile del font ignorando o rispettando la sensibilità al maiuscolo/minuscolo.
+Cerca e restituisce il font con il nome del font e lo stile del font specificati ignorando o rispettando la sensibilità al maiuscolo/minuscolo.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | fontFamilyName | String | Nome della famiglia di font. |
 | stl | FontStyles | Valore dello stile del font. |
-| ignoreCase | Boolean | sensibilità al maiuscolo/minuscolo |
+| ignoreCase | Boolean | sensibilità al caso |
 
-### Return Value
+### Valore di ritorno
 
-Oggetto Font corrispondente ai parametri della richiesta di ricerca.
+Oggetto font corrispondente ai parametri della richiesta di ricerca.
 
-## Examples
+## Esempi
 
-L'esempio dimostra come trovare un font e sostituire il font del testo della prima pagina.
+L'esempio dimostra come trovare il font e sostituire il font del testo della prima pagina.
 
 ```csharp
-// Find font
+// Trova font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze di testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// Modifica il font della prima occorrenza di testo
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Salva documento
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### See Also
+### Vedi anche
 
 * class [Font](../../font/)
 * enum [FontStyles](../../fontstyles/)
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

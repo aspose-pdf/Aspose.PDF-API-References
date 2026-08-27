@@ -1,12 +1,12 @@
 ---
-title: EOFillStroke.EOFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di EOFillStroke. Inizializza l'operatore
+title: "EOFillStroke.EOFillStroke"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore EOFillStroke. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/eofillstroke/eofillstroke/
 ---
-## Costruttore di EOFillStroke
+## EOFillStroke constructor
 
 Inizializza l'operatore.
 
@@ -14,8 +14,10 @@ Inizializza l'operatore.
 public EOFillStroke()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EOFillStroke](../)
+* class [EOFillStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

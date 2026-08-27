@@ -1,14 +1,14 @@
 ---
-title: Class StreamDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.StreamDataSource class. Represents stream data source for load and save operations of a plugin
+title: "Classe StreamDataSource"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Plugins.StreamDataSource classe. Rappresenta la sorgente dati stream per le operazioni di caricamento e salvataggio di un plugin"
 type: docs
-weight: 9290
+weight: 9440
 url: /it/net/aspose.pdf.plugins/streamdatasource/
 ---
-## Classe StreamDataSource
+## StreamDataSource class
 
-Rappresenta una sorgente di dati stream per operazioni di caricamento e salvataggio di un plugin.
+Rappresenta la sorgente dati stream per le operazioni di caricamento e salvataggio di un plugin.
 
 ```csharp
 public sealed class StreamDataSource : IDataSource
@@ -18,17 +18,19 @@ public sealed class StreamDataSource : IDataSource
 
 | Nome | Descrizione |
 | --- | --- |
-| [StreamDataSource](streamdatasource/)(Stream) | Inizializza una nuova sorgente di dati stream con l'oggetto stream specificato. |
+| [StreamDataSource](streamdatasource/)(Stream) | Inizializza una nuova sorgente dati stream con l'oggetto stream specificato. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [Data](../../aspose.pdf.plugins/streamdatasource/data/) { get; } | Ottiene l'oggetto stream della sorgente di dati corrente. |
-| [DataType](../../aspose.pdf.plugins/streamdatasource/datatype/) { get; } | Tipo di sorgente di dati (stream). |
+| [Data](../../aspose.pdf.plugins/streamdatasource/data/) { get; } | Restituisce l'oggetto stream della sorgente dati corrente. |
+| [DataType](../../aspose.pdf.plugins/streamdatasource/datatype/) { get; } | Tipo di sorgente dati (stream). |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../idatasource/)
+* interface [IDataSource](../idatasource/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

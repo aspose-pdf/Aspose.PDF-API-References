@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.MovePosition
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfPageEditor. Sposta l'origine da 0 0 al punto designato. L'origine è in basso a sinistra e l'unità è punto. 1 pollice = 72 punti
+title: "PdfPageEditor.MovePosition"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfPageEditor. Sposta l'origine da 0 0 al punto specificato. L'origine è in basso a sinistra e l'unità è point1 inch  72 punti"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.facades/pdfpageeditor/moveposition/
 ---
-## Metodo PdfPageEditor.MovePosition
+## PdfPageEditor.MovePosition method
 
-Sposta l'origine da (0, 0) al punto designato. L'origine è in basso a sinistra e l'unità è punto (1 pollice = 72 punti).
+Sposta l'origine da (0, 0) al punto indicato. L'origine è in basso a sinistra e l'unità è il punto (1 pollice = 72 punti).
 
 ```csharp
 public void MovePosition(float moveX, float moveY)
@@ -16,8 +16,8 @@ public void MovePosition(float moveX, float moveY)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| moveX | Singolo | Coordinata X. |
-| moveY | Singolo | Coordinata Y. |
+| moveX | Single | Coordinata X. |
+| moveY | Single | Coordinata Y. |
 
 ## Esempi
 
@@ -28,8 +28,10 @@ editor.MovePosition(-100, 60);
 editor.Save("moved.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

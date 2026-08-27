@@ -1,12 +1,12 @@
 ---
-title: JpegDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo JpegDevice. Converte la pagina in jpeg e la salva nello stream di output
+title: "JpegDevice.Process"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo JpegDevice. Converte la pagina in jpeg e la salva nello stream di output"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.devices/jpegdevice/process/
 ---
-## Metodo JpegDevice.Process
+## JpegDevice.Process method
 
 Converte la pagina in jpeg e la salva nello stream di output.
 
@@ -16,12 +16,14 @@ public override void Process(Page page, Stream output)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina da convertire. |
+| pagina | Page | La pagina da convertire. |
 | output | Stream | Stream di output con immagine jpeg. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [JpegDevice](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [JpegDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

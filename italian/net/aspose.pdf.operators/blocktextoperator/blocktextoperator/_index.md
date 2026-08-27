@@ -1,7 +1,7 @@
 ---
-title: BlockTextOperator.BlockTextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di BlockTextOperator. Inizializza l'operatore
+title: "BlockTextOperator.BlockTextOperator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "BlockTextOperator costruttore. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/blocktextoperator/blocktextoperator/
@@ -14,9 +14,9 @@ Inizializza l'operatore.
 public BlockTextOperator()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BlockTextOperator](../)
+* class [BlockTextOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,9 +34,11 @@ public BlockTextOperator(TextProperties textProperties)
 | --- | --- | --- |
 | textProperties | TextProperties | Proprietà del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* classe [BlockTextOperator](../)
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [BlockTextOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

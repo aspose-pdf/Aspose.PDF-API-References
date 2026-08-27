@@ -1,12 +1,12 @@
 ---
-title: SetGlyphsPositionShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetGlyphsPositionShowText. Ottiene il testo dall'argomento dell'operatore. il posizionamento dei glifi è ignorato
+title: "SetGlyphsPositionShowText.Text"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetGlyphsPositionShowText. Ottiene il testo dall'argomento dell'operatore; il posizionamento dei glifi è ignorato"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/setglyphspositionshowtext/text/
 ---
-## Proprietà SetGlyphsPositionShowText.Text
+## SetGlyphsPositionShowText.Text property
 
 Ottiene il testo dall'argomento dell'operatore (il posizionamento dei glifi è ignorato).
 
@@ -14,8 +14,10 @@ Ottiene il testo dall'argomento dell'operatore (il posizionamento dei glifi è i
 public override string Text { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetGlyphsPositionShowText](../)
+* class [SetGlyphsPositionShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

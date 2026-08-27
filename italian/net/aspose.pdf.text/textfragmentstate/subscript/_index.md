@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di TextFragmentState. Ottiene o imposta il pedice del testo rappresentato dall'oggetto TextFragment
+title: "TextFragmentState.Subscript"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragmentState. Ottiene o imposta il pedice del testo rappresentato dall'oggetto TextFragment"
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.text/textfragmentstate/subscript/
 ---
-## Proprietà TextFragmentState.Subscript
+## TextFragmentState.Subscript property
 
 Ottiene o imposta il pedice del testo, rappresentato dall'oggetto [`TextFragment`](../../textfragment/).
 
@@ -14,8 +14,10 @@ Ottiene o imposta il pedice del testo, rappresentato dall'oggetto [`TextFragment
 public override bool Subscript { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentState](../)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

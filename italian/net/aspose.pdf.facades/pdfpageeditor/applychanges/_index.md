@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.ApplyChanges
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfPageEditor. Applica le modifiche apportate alle pagine del documento
+title: "PdfPageEditor.ApplyChanges"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfPageEditor metodo. Applica le modifiche apportate alle pagine del documento"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.facades/pdfpageeditor/applychanges/
 ---
-## Metodo PdfPageEditor.ApplyChanges
+## PdfPageEditor.ApplyChanges method
 
 Applica le modifiche apportate alle pagine del documento.
 
@@ -14,8 +14,10 @@ Applica le modifiche apportate alle pagine del documento.
 public void ApplyChanges()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

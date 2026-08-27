@@ -1,12 +1,12 @@
 ---
-title: Rows.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Rows. Il conteggio degli elementi
+title: "Rows.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Rows. Il conteggio degli elementi"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/rows/count/
 ---
-## Proprietà Rows.Count
+## Rows.Count property
 
 Il conteggio degli elementi.
 
@@ -14,8 +14,10 @@ Il conteggio degli elementi.
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rows](../)
+* class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

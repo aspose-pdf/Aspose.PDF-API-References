@@ -1,7 +1,7 @@
 ---
-title: PdfFileInfo.HasOpenPassword
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo property. Returns true if password is needed to open password protected pdf document
+title: "PdfFileInfo.HasOpenPassword"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFileInfo. Restituisce true se è necessaria una password per aprire un documento PDF protetto da password"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.facades/pdffileinfo/hasopenpassword/
@@ -14,8 +14,10 @@ Restituisce true se è necessaria una password per aprire un documento pdf prote
 public bool HasOpenPassword { get; }
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

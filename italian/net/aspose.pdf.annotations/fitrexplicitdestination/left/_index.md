@@ -1,12 +1,12 @@
 ---
-title: FitRExplicitDestination.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FitRExplicitDestination. Ottiene la coordinata orizzontale sinistra del rettangolo visibile
+title: "FitRExplicitDestination.Left"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FitRExplicitDestination proprietà. Ottiene la coordinata orizzontale sinistra del rettangolo visibile"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/fitrexplicitdestination/left/
 ---
-## Proprietà FitRExplicitDestination.Left
+## FitRExplicitDestination.Left property
 
 Ottiene la coordinata orizzontale sinistra del rettangolo visibile.
 
@@ -14,8 +14,10 @@ Ottiene la coordinata orizzontale sinistra del rettangolo visibile.
 public double Left { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FitRExplicitDestination](../)
+* class [FitRExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

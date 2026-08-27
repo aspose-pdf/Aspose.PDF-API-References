@@ -1,14 +1,14 @@
 ---
-title: Tool.Function
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Tool. Crea una nuova istanza dello strumento con la funzione specificata
+title: "Tool.Function"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Tool. Crea una nuova istanza di strumento con la funzione specificata"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/tool/function/
 ---
-## Metodo Tool.Function
+## Tool.Function method
 
-Crea una nuova istanza dello strumento con la funzione specificata.
+Crea una nuova istanza di strumento con la funzione specificata.
 
 ```csharp
 public static Tool Function(Function function)
@@ -16,15 +16,17 @@ public static Tool Function(Function function)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| function | Function | La funzione che il modello può chiamare. |
+| function | Funzione | La funzione che il modello può chiamare. |
 
 ### Valore di ritorno
 
-Una nuova istanza dello strumento con la funzione specificata.
+Una nuova istanza di tool con la funzione specificata.
 
 ### Vedi anche
 
-* classe [Function](../../function/)
-* classe [Tool](../)
+* class [Function](../../function/)
+* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

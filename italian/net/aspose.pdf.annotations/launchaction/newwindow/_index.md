@@ -1,22 +1,24 @@
 ---
-title: LaunchAction.NewWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LaunchAction. Ottiene o imposta un flag che specifica se aprire il documento di destinazione in una nuova finestra.
+title: "LaunchAction.NewWindow"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LaunchAction proprietà. Ottiene o imposta un flag che specifica se aprire il documento di destinazione in una nuova finestra, influisce solo sui documenti PDF"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/launchaction/newwindow/
 ---
-## Proprietà LaunchAction.NewWindow
+## LaunchAction.NewWindow property
 
-Ottiene o imposta un flag che specifica se aprire il documento di destinazione in una nuova finestra (riguarda solo i documenti PDF).
+Ottiene o imposta un flag che specifica se aprire il documento di destinazione in una nuova finestra (influisce solo sui documenti PDF).
 
 ```csharp
 public ExtendedBoolean NewWindow { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ExtendedBoolean](../../../aspose.pdf/extendedboolean/)
 * class [LaunchAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

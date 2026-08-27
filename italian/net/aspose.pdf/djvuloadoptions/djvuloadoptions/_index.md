@@ -1,12 +1,12 @@
 ---
-title: DjvuLoadOptions.DjvuLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di DjvuLoadOptions. Il costruttore predefinito
+title: "DjvuLoadOptions.DjvuLoadOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore DjvuLoadOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/djvuloadoptions/djvuloadoptions/
 ---
-## Costruttore di DjvuLoadOptions
+## DjvuLoadOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public DjvuLoadOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DjvuLoadOptions](../)
+* class [DjvuLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

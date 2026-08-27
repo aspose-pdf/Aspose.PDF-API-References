@@ -1,28 +1,28 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIImageDescriptionCopilotOptions. Aggiunge un documento PDF alla collezione di documenti per le opzioni del copilota di descrizione dell'immagine
+title: "OpenAIImageDescriptionCopilotOptions.WithDocument"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIImageDescriptionCopilotOptions metodo. Aggiunge un documento PDF alla raccolta di documenti per le opzioni del copilot di descrizione immagine"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocument/
 ---
 ## WithDocument(PdfDocument) {#withdocument}
 
-Aggiunge un documento PDF alla collezione di documenti per le opzioni del copilota di descrizione dell'immagine.
+Aggiunge un documento PDF alla raccolta di documenti per le opzioni del copilot di descrizione immagine.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocument(PdfDocument pdfDocument)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | pdfDocument | PdfDocument | Il documento PDF da aggiungere. |
 
-### Return Value
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### Vedi anche
 
 * class [PdfDocument](../../pdfdocument/)
 * class [OpenAIImageDescriptionCopilotOptions](../)
@@ -33,22 +33,24 @@ L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ## WithDocument(string) {#withdocument_1}
 
-Aggiunge un percorso di documento alla collezione di documenti per le opzioni del copilota di descrizione dell'immagine.
+Aggiunge un percorso di documento alla raccolta di documenti per le opzioni del copilot di descrizione immagine.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocument(string filePath)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePath | String | Il percorso del file del documento da aggiungere. |
+| filePath | String | Il percorso file del documento da aggiungere. |
 
-### Return Value
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### Vedi anche
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di TextAbsorber. Ottiene o imposta le opzioni di ricerca del testo
+title: "TextAbsorber.TextSearchOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextAbsorber. Ottiene o imposta le opzioni di ricerca del testo"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/textabsorber/textsearchoptions/
 ---
-## Proprietà TextAbsorber.TextSearchOptions
+## TextAbsorber.TextSearchOptions property
 
 Ottiene o imposta le opzioni di ricerca del testo.
 
@@ -16,11 +16,13 @@ public virtual TextSearchOptions TextSearchOptions { get; set; }
 
 ## Osservazioni
 
-Consente di definire un rettangolo che delimita il testo estratto. Per impostazione predefinita, il rettangolo è vuoto. Ciò significa che i confini della pagina definiscono solo la regione di estrazione del testo.
+Consente di definire un rettangolo che delimita il testo estratto. Per impostazione predefinita il rettangolo è vuoto. Ciò significa che solo i bordi della pagina definiscono la regione di estrazione del testo.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextSearchOptions](../../textsearchoptions/)
-* classe [TextAbsorber](../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

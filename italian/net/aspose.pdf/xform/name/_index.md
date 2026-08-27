@@ -1,21 +1,23 @@
 ---
-title: XForm.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XForm. Ottiene o imposta il nome del modulo. Il nome del modulo è il nome utilizzato per fare riferimento al modulo nel dizionario XObject nelle risorse della pagina.
+title: "XForm.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XForm. Ottiene o imposta il nome del modulo. Il nome del modulo è il nome utilizzato per fare riferimento al modulo nel dizionario XObject delle risorse della pagina"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/xform/name/
 ---
-## Proprietà XForm.Name
+## XForm.Name property
 
-Ottiene o imposta il nome del modulo. Il nome del modulo è il nome utilizzato per fare riferimento al modulo nel dizionario XObject nelle risorse della pagina.
+Ottiene o imposta il nome del modulo. Il nome del modulo è il nome usato per fare riferimento al modulo nel dizionario XObejct ductionary nelle risorse della pagina.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XForm](../)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

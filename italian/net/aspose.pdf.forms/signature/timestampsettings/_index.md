@@ -1,12 +1,12 @@
 ---
-title: Signature.TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di firma. Ottiene/imposta le impostazioni del timestamp
+title: "Signature.TimestampSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Signature. Ottiene/imposta le impostazioni del timestamp"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.forms/signature/timestampsettings/
 ---
-## Proprietà Signature.TimestampSettings
+## Signature.TimestampSettings property
 
 Ottiene/imposta le impostazioni del timestamp.
 
@@ -14,9 +14,11 @@ Ottiene/imposta le impostazioni del timestamp.
 public TimestampSettings TimestampSettings { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TimestampSettings](../../../aspose.pdf/timestampsettings/)
-* classe [Signature](../)
+* class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

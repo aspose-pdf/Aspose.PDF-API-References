@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Annot
-second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeStandard. Annotazione PDF 1.5 Un'associazione tra una porzione del contenuto degli ILSE e una corrispondente annotazione PDF. Annot deve essere utilizzato per tutte le annotazioni PDF tranne le annotazioni di collegamento e le annotazioni di widget
+title: "StructureTypeStandard.Annot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard field. Annotation PDF 1.5 Un'associazione tra una parte del contenuto degli ILSE e una corrispondente annotation PDF. Annot deve essere usato per tutte le annotation PDF eccetto le annotation di collegamento e le annotation widget."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/annot/
 ---
-## Campo StructureTypeStandard.Annot
+## StructureTypeStandard.Annot field
 
-(Annotazione; PDF 1.5) Un'associazione tra una porzione del contenuto degli ILSE e una corrispondente annotazione PDF. Annot deve essere utilizzato per tutte le annotazioni PDF tranne le annotazioni di collegamento e le annotazioni di widget.
+(Annotation; PDF 1.5) Un'associazione tra una parte del contenuto dell'ILSE e una annotazione PDF corrispondente. Annot deve essere usato per tutte le annotazioni PDF eccetto le annotazioni di collegamento e le annotazioni widget.
 
 ```csharp
 public static readonly StructureTypeStandard Annot;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

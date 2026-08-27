@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Bold
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OutlineItemCollection. Ottiene o imposta il flag bold per il testo del titolo di questo elemento di outline
+title: "OutlineItemCollection.Bold"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OutlineItemCollection. Ottiene o imposta il flag grassetto per il testo del titolo di questa voce di indice"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/outlineitemcollection/bold/
 ---
-## Proprietà OutlineItemCollection.Bold
+## OutlineItemCollection.Bold property
 
-Ottiene o imposta il flag bold per il testo del titolo di questo elemento di outline
+Ottiene o imposta il flag grassetto per il testo del titolo di questa voce di indice
 
 ```csharp
 public bool Bold { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

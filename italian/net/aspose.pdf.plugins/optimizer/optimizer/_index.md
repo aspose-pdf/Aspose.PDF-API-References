@@ -1,12 +1,12 @@
 ---
-title: Optimizer.Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di Optimizer. Il costruttore predefinito
+title: "Optimizer.Optimizer"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Optimizer constructor. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/optimizer/optimizer/
 ---
-## Costruttore di Optimizer
+## Optimizer constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Optimizer()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Optimizer](../)
+* class [Optimizer](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

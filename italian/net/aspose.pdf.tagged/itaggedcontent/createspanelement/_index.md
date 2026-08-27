@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateSpanElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ITaggedContent. Crea SpanElement
+title: "ITaggedContent.CreateSpanElement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ITaggedContent. Crea SpanElement"
 type: docs
-weight: 270
+weight: 300
 url: /it/net/aspose.pdf.tagged/itaggedcontent/createspanelement/
 ---
-## Metodo ITaggedContent.CreateSpanElement
+## ITaggedContent.CreateSpanElement method
 
 Crea [`SpanElement`](../../../aspose.pdf.logicalstructure/spanelement/).
 
@@ -14,13 +14,15 @@ Crea [`SpanElement`](../../../aspose.pdf.logicalstructure/spanelement/).
 public SpanElement CreateSpanElement()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elemento di struttura creato.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SpanElement](../../../aspose.pdf.logicalstructure/spanelement/)
-* interfaccia [ITaggedContent](../)
+* class [SpanElement](../../../aspose.pdf.logicalstructure/spanelement/)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

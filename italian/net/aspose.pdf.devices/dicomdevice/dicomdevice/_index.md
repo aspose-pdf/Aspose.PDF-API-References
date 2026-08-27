@@ -1,7 +1,7 @@
 ---
-title: DicomDevice.DicomDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore DicomDevice. Inizializza una nuova istanza della classe DicomDevice con risoluzione predefinita
+title: "DicomDevice.DicomDevice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore DicomDevice. Inizializza una nuova istanza della classe DicomDevice con risoluzione predefinita"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.devices/dicomdevice/dicomdevice/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`DicomDevice`](../) con risoluzione 
 public DicomDevice()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DicomDevice](../)
+* class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -30,10 +30,10 @@ Inizializza una nuova istanza della classe [`DicomDevice`](../). Risoluzione per
 public DicomDevice(Resolution resolution)
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resolution](../../resolution/)
-* classe [DicomDevice](../)
+* class [Resolution](../../resolution/)
+* class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,7 @@ public DicomDevice(Resolution resolution)
 
 ## DicomDevice(PageSize) {#constructor_2}
 
-Inizializza una nuova istanza della classe [`DicomDevice`](../) con la dimensione della pagina fornita, con risoluzione predefinita (=150).
+Inizializza una nuova istanza della classe [`DicomDevice`](../) con la dimensione di pagina fornita, con risoluzione predefinita (=150).
 
 ```csharp
 public DicomDevice(PageSize pageSize)
@@ -51,10 +51,10 @@ public DicomDevice(PageSize pageSize)
 | --- | --- | --- |
 | pageSize | PageSize | Dimensione della pagina dell'immagine di output. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [DicomDevice](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -70,12 +70,12 @@ public DicomDevice(int width, int height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| width | Int32 | Larghezza dell'immagine di output. |
-| height | Int32 | Altezza dell'immagine di output. |
+| larghezza | Int32 | Larghezza dell'immagine di output. |
+| altezza | Int32 | Altezza dell'immagine di output. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DicomDevice](../)
+* class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -83,7 +83,7 @@ public DicomDevice(int width, int height)
 
 ## DicomDevice(PageSize, Resolution) {#constructor_3}
 
-Inizializza una nuova istanza della classe [`DicomDevice`](../) con la dimensione della pagina e la risoluzione fornite.
+Inizializza una nuova istanza della classe [`DicomDevice`](../) con la dimensione di pagina e la risoluzione fornite.
 
 ```csharp
 public DicomDevice(PageSize pageSize, Resolution resolution)
@@ -94,11 +94,11 @@ public DicomDevice(PageSize pageSize, Resolution resolution)
 | pageSize | PageSize | Dimensione della pagina dell'immagine di output. |
 | resolution | Resolution | Risoluzione per il file immagine risultante, vedere la classe [`Resolution`](../../resolution/). |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [Resolution](../../resolution/)
-* classe [DicomDevice](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -114,13 +114,15 @@ public DicomDevice(int width, int height, Resolution resolution)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| width | Int32 | Larghezza dell'immagine di output. |
-| height | Int32 | Altezza dell'immagine di output. |
+| larghezza | Int32 | Larghezza dell'immagine di output. |
+| altezza | Int32 | Altezza dell'immagine di output. |
 | resolution | Resolution | Risoluzione per il file immagine risultante, vedere la classe [`Resolution`](../../resolution/). |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resolution](../../resolution/)
-* classe [DicomDevice](../)
+* class [Resolution](../../resolution/)
+* class [DicomDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

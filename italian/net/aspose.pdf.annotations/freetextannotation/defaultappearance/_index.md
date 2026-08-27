@@ -1,21 +1,23 @@
 ---
-title: FreeTextAnnotation.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FreeTextAnnotation. Ottiene o imposta la stringa di aspetto predefinita da utilizzare per formattare il testo
+title: "FreeTextAnnotation.DefaultAppearance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FreeTextAnnotation. Ottiene o imposta la stringa di aspetto predefinito da utilizzare nella formattazione del testo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/freetextannotation/defaultappearance/
 ---
-## Proprietà FreeTextAnnotation.DefaultAppearance
+## FreeTextAnnotation.DefaultAppearance property
 
-Ottiene o imposta la stringa di aspetto predefinita da utilizzare per formattare il testo.
+Ottiene o imposta la stringa di aspetto predefinito da utilizzare nella formattazione del testo.
 
 ```csharp
 public string DefaultAppearance { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FreeTextAnnotation](../)
+* class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

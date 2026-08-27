@@ -1,7 +1,7 @@
 ---
-title: PDF3DView.PDF3DView
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore PDF3DView. Inizializza una nuova istanza della classe PDF3DView
+title: "PDF3DView.PDF3DView"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PDF3DView. Inizializza una nuova istanza della classe PDF3DView"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/pdf3dview/pdf3dview/
@@ -16,16 +16,16 @@ public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, stri
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Il documento. |
+| doc | Document | Il Document. |
 | cameraPosition | Matrix3D | La posizione della telecamera. |
-| cameraOrbit | Double | L'orbita della telecamera. |
+| cameraOrbit | Double | L'orbita della fotocamera. |
 | viewName | String | Nome della vista. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Matrix3D](../../../aspose.pdf/matrix3d/)
-* classe [PDF3DView](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Matrix3D](../../../aspose.pdf/matrix3d/)
+* class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,13 +41,15 @@ public PDF3DView(Document doc, PDF3DView view, string viewName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Il documento. |
+| doc | Document | Il Document. |
 | view | PDF3DView | La vista. |
 | viewName | String | Nome della vista. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PDF3DView](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

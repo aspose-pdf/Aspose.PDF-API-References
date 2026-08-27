@@ -1,12 +1,12 @@
 ---
-title: Interface IStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.AI.IStatus. Rappresenta lo stato di un'operazione
+title: "Interfaccia IStatus"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.AI.IStatus. Rappresenta lo stato di un'operazione"
 type: docs
-weight: 560
+weight: 610
 url: /it/net/aspose.pdf.ai/istatus/
 ---
-## Interfaccia IStatus
+## IStatus interface
 
 Rappresenta lo stato di un'operazione.
 
@@ -20,7 +20,9 @@ public interface IStatus
 | --- | --- |
 | [Status](../../aspose.pdf.ai/istatus/status/) { get; set; } | Ottiene o imposta lo stato dell'operazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

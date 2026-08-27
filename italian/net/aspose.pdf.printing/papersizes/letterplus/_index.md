@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.LetterPlus
-second_title: Aspose.PDF for .NET API Reference
-description: Campo delle Dimensioni della Carta. Carta lettera 8,5 pollici x 12,69 pollici
+title: "PaperSizes.LetterPlus"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Carta Letter plus 8,5 pollici per 12,69 pollici"
 type: docs
 weight: 680
 url: /it/net/aspose.pdf.printing/papersizes/letterplus/
 ---
-## Campo PaperSizes.LetterPlus
+## PaperSizes.LetterPlus field
 
-Carta lettera plus (8.5 in. per 12.69 in.).
+Carta Letter plus (8.5 in. by 12.69 in.).
 
 ```csharp
 public static readonly PaperSize LetterPlus;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

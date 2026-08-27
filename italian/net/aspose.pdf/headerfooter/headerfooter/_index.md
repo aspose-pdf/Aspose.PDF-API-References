@@ -1,12 +1,12 @@
 ---
-title: HeaderFooter.HeaderFooter
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooter costruttore. Il costruttore predefinito.
+title: "HeaderFooter.HeaderFooter"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "HeaderFooter costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/headerfooter/headerfooter/
 ---
-## Costruttore HeaderFooter
+## HeaderFooter constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public HeaderFooter()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HeaderFooter](../)
+* class [HeaderFooter](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

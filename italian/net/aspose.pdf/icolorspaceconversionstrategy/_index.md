@@ -1,14 +1,14 @@
 ---
-title: Interface IColorSpaceConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.IColorSpaceConversionStrategy. Interfaccia per strategie di conversione degli spazi colore
+title: "Interfaccia IColorSpaceConversionStrategy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.IColorSpaceConversionStrategy. Interfaccia per le strategie di conversione dello spazio colore"
 type: docs
-weight: 5760
+weight: 5890
 url: /it/net/aspose.pdf/icolorspaceconversionstrategy/
 ---
-## Interfaccia IColorSpaceConversionStrategy
+## IColorSpaceConversionStrategy interface
 
-Interfaccia per strategie di conversione degli spazi colore.
+Interfaccia per le strategie di conversione dello spazio colore.
 
 ```csharp
 public interface IColorSpaceConversionStrategy
@@ -20,7 +20,9 @@ public interface IColorSpaceConversionStrategy
 | --- | --- |
 | [Convert](../../aspose.pdf/icolorspaceconversionstrategy/convert/)(Page) | Converte la pagina del documento. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

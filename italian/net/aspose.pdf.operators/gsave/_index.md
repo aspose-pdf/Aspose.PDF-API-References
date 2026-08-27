@@ -1,12 +1,12 @@
 ---
-title: Class GSave
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.GSave. Classe che rappresenta l'operatore q per salvare lo stato grafico
+title: "Classe GSave"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.GSave classe. Classe che rappresenta l'operatore q per salvare lo stato grafico"
 type: docs
-weight: 7410
+weight: 7550
 url: /it/net/aspose.pdf.operators/gsave/
 ---
-## Classe GSave
+## GSave class
 
 Classe che rappresenta l'operatore q (salva lo stato grafico).
 
@@ -24,18 +24,20 @@ public class GSave : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori di pagina. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori della pagina. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/gsave/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/gsave/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf.operators/gsave/tostring/)() | Restituisce il testo dell'operatore. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: FileSpecification.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FileSpecification. Costruttore per FileSpecification
+title: "FileSpecification.FileSpecification"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FileSpecification. Costruttore per FileSpecification"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/filespecification/filespecification/
@@ -14,11 +14,11 @@ Costruttore per FileSpecification
 public FileSpecification(string file)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | file | String | Percorso del file. |
 
-### See Also
+### Vedi anche
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,18 @@ public FileSpecification(string file)
 
 ## FileSpecification(Stream, string) {#constructor_1}
 
-Costruttore per la specifica del file.
+Costruttore per la specifica di file.
 
 ```csharp
 public FileSpecification(Stream stream, string name)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream contenente il file di dati. |
-| name | String | Specifica del file. |
+| stream | Stream | Stream contenente il file dati. |
+| nome | String | Specificazione del file. |
 
-### See Also
+### Vedi anche
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -55,12 +55,12 @@ Costruttore per FileSpecification.
 public FileSpecification(string file, string description)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | file | String | Percorso del file. |
 | description | String | Descrizione del file. |
 
-### See Also
+### Vedi anche
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -76,13 +76,13 @@ Costruttore per FileSpecification.
 public FileSpecification(Stream stream, string name, string description)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | stream | Stream | Stream da utilizzare nel documento. |
-| name | String | Una stringa di specifica del file. |
+| nome | String | Una stringa di specifica del file. |
 | description | String | Descrizione del file. |
 
-### See Also
+### Vedi anche
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -98,12 +98,12 @@ Costruttore per FileSpecification.
 public FileSpecification(string fileName, Annotation annot)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | fileName | String | Percorso del file. |
 | annot | Annotation | L'annotazione. |
 
-### See Also
+### Vedi anche
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [FileSpecification](../)
@@ -120,8 +120,10 @@ Crea una nuova specifica di file vuota.
 public FileSpecification()
 ```
 
-### See Also
+### Vedi anche
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Placement_Start
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Inizio Posizionamento Attributo  Posizionato in modo che il bordo di inizio del rettangolo di allocazione degli elementi coincida con quello dell'area di riferimento più vicina
+title: "AttributeName.Placement_Start"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName campo. Attributo Placement Start  Posizionato in modo che il bordo iniziale del rettangolo di allocazione dell'elemento coincida con quello dell'area di riferimento più vicina che lo racchiude"
 type: docs
 weight: 380
 url: /it/net/aspose.pdf.logicalstructure/attributename/placement_start/
 ---
-## Campo AttributeName.Placement_Start
+## AttributeName.Placement_Start field
 
-Posizionamento Attributo: Inizio - Posizionato in modo che il bordo di inizio del rettangolo di allocazione dell'elemento coincida con quello dell'area di riferimento più vicina.
+Attributo Placement: Start - Posizionato in modo che il bordo iniziale del rettangolo di allocazione dell'elemento coincida con quello dell'area di riferimento più vicina che lo contiene.
 
 ```csharp
 public static readonly AttributeName Placement_Start;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

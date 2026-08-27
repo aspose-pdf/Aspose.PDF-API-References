@@ -1,12 +1,12 @@
 ---
-title: XForm.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XForm. Ottiene o imposta il rettangolo del modulo
+title: "XForm.Rectangle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XForm. Ottiene o imposta il rettangolo del modulo"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/xform/rectangle/
 ---
-## Proprietà XForm.Rectangle
+## XForm.Rectangle property
 
 Ottiene o imposta il rettangolo del modulo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il rettangolo del modulo.
 public Rectangle Rectangle { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../rectangle/)
-* classe [XForm](../)
+* class [Rectangle](../../rectangle/)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

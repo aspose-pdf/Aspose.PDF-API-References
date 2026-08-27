@@ -1,21 +1,23 @@
 ---
-title: Measure.NumberFormat.UnitLabel
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat property. A text string specifying a label for displaying the units
+title: "Measure.NumberFormat.UnitLabel"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà NumberFormat. Una stringa di testo che specifica un'etichetta per visualizzare le unità"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.annotations/measure.numberformat/unitlabel/
 ---
-## Proprietà Measure.NumberFormat.UnitLabel
+## Measure.NumberFormat.UnitLabel property
 
-Una stringa di testo che specifica un'etichetta per visualizzare le unità.
+Una stringa di testo che specifica un'etichetta per la visualizzazione delle unità.
 
 ```csharp
 public string UnitLabel { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TableCellBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.TableCellBuilder. La classe rappresenta un costruttore per la cella della tabella
+title: "Classe TableCellBuilder"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Plugins.TableCellBuilder. La classe rappresenta un costruttore per la cella della tabella"
 type: docs
-weight: 9340
+weight: 9490
 url: /it/net/aspose.pdf.plugins/tablecellbuilder/
 ---
-## Classe TableCellBuilder
+## TableCellBuilder class
 
-La classe rappresenta un costruttore per la cella della tabella.
+La classe rappresenta il costruttore per una cella di tabella.
 
 ```csharp
 public class TableCellBuilder : TableRowBuilder
@@ -25,8 +25,10 @@ public class TableCellBuilder : TableRowBuilder
 | [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | Inserisci pagina dopo la pagina specificata. |
 | [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | Inserisci pagina prima della pagina specificata. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TableRowBuilder](../tablerowbuilder/)
+* class [TableRowBuilder](../tablerowbuilder/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

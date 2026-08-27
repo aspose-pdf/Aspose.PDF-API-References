@@ -1,21 +1,23 @@
 ---
-title: AttributeName.WritingMode_RlTb
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Attributo WritingMode RlTb Progressione in linea da destra a sinistra, progressione del blocco dall'alto verso il basso. Questo è il modo di scrittura tipico per i sistemi di scrittura arabi ed ebraici.
+title: "AttributeName.WritingMode_RlTb"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo AttributeName. Attributo WritingMode RlTb  Progressione in linea da destra a sinistra, progressione a blocchi dall'alto verso il basso. Questa è la modalità di scrittura tipica per i sistemi di scrittura arabi ed ebraici"
 type: docs
 weight: 650
 url: /it/net/aspose.pdf.logicalstructure/attributename/writingmode_rltb/
 ---
-## Campo AttributeName.WritingMode_RlTb
+## AttributeName.WritingMode_RlTb field
 
-Attributo WritingMode: RlTb - Progressione in linea da destra a sinistra; progressione del blocco dall'alto verso il basso. Questo è il modo di scrittura tipico per i sistemi di scrittura arabi ed ebraici.
+Attributo WritingMode: RlTb - Progressione in linea da destra a sinistra; progressione di blocco dall'alto verso il basso. Questa è la modalità di scrittura tipica per i sistemi di scrittura arabi ed ebraici.
 
 ```csharp
 public static readonly AttributeName WritingMode_RlTb;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DCrossSectionArray
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.PDF3DCrossSectionArray. Classe PDF3DCrossSectionArray
+title: "Classe PDF3DCrossSectionArray"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Annotations.PDF3DCrossSectionArray. Classe PDF3DCrossSectionArray"
 type: docs
-weight: 2190
+weight: 2280
 url: /it/net/aspose.pdf.annotations/pdf3dcrosssectionarray/
 ---
-## Classe PDF3DCrossSectionArray
+## PDF3DCrossSectionArray class
 
 Classe PDF3DCrossSectionArray.
 
@@ -24,7 +24,7 @@ public class PDF3DCrossSectionArray
 
 | Nome | Descrizione |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | Ottiene il conteggio delle sezioni trasversali. |
+| [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | Restituisce il conteggio delle sezioni trasversali. |
 | [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item/) { get; set; } | Ottiene o imposta il [`PDF3DCrossSection`](../pdf3dcrosssection/) all'indice specificato. |
 
 ## Metodi
@@ -35,7 +35,9 @@ public class PDF3DCrossSectionArray
 | [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/)() | Rimuove tutte le sezioni trasversali dall'array. |
 | [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/)(int) | Rimuove la sezione trasversale dall'array all'indice specificato. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

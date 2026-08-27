@@ -1,24 +1,24 @@
 ---
-title: ImagePlacement.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ImagePlacement. Salva l'immagine con le corrispondenti trasformazioni di scalatura, rotazione e risoluzione
+title: "ImagePlacement.Save"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ImagePlacement. Salva l'immagine con le trasformazioni corrispondenti di ridimensionamento, rotazione e risoluzione"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/imageplacement/save/
 ---
 ## Save(Stream) {#save}
 
-Salva l'immagine con le corrispondenti trasformazioni: scalatura, rotazione e risoluzione.
+Salva l'immagine con le trasformazioni corrispondenti: ridimensionamento, rotazione e risoluzione.
 
 ```csharp
 public void Save(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream dove l'immagine sarà salvata |
+| stream | Stream | Stream in cui l'immagine verrà salvata |
 
-### See Also
+### Vedi anche
 
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,19 +28,21 @@ public void Save(Stream stream)
 
 ## Save(Stream, ImageFormat) {#save_1}
 
-Salva l'immagine con le corrispondenti trasformazioni: scalatura, rotazione e risoluzione.
+Salva l'immagine con le trasformazioni corrispondenti: ridimensionamento, rotazione e risoluzione.
 
 ```csharp
 public void Save(Stream stream, ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream dove l'immagine sarà salvata |
-| format | ImageFormat | Formato che sarà utilizzato per la codifica dell'immagine. ImageFormat |
+| stream | Stream | Stream in cui l'immagine verrà salvata |
+| format | ImageFormat | Formato che verrà utilizzato per la codifica dell'immagine. ImageFormat |
 
-### See Also
+### Vedi anche
 
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

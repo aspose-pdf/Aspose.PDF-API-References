@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetFieldAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormEditor. Imposta lo stile di allineamento di un campo di testo
+title: "FormEditor.SetFieldAlignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FormEditor. Imposta lo stile di allineamento di un campo di testo"
 type: docs
 weight: 260
 url: /it/net/aspose.pdf.facades/formeditor/setfieldalignment/
 ---
-## Metodo FormEditor.SetFieldAlignment
+## FormEditor.SetFieldAlignment method
 
 Imposta lo stile di allineamento di un campo di testo.
 
@@ -16,10 +16,10 @@ public bool SetFieldAlignment(string fieldName, int alignment)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Il nome del campo qualificato. |
-| alignment | Int32 | La definizione dello stile di allineamento, inclusi FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter e FormFieldFacade.AlignRight. |
+| fieldName | String | Il nome qualificato del campo. |
+| alignment | Int32 | Definizione dello stile di allineamento, includendo FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter e FormFieldFacade.AlignRight. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 true se il campo è stato trovato e l'allineamento è stato impostato.
 
@@ -30,8 +30,10 @@ FormEditor fe = new FormEditor("PdfStaticForm.pdf", "VerticalAlign.pdf");
 fe.SetFieldAlignment("form1[0].TextField[0]", FormFieldFacade.AlignLeft);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

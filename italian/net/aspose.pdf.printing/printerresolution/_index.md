@@ -1,12 +1,12 @@
 ---
-title: Class PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Printing.PrinterResolution. Rappresenta la risoluzione supportata da una stampante
+title: "Classe PrinterResolution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Printing.PrinterResolution. Rappresenta la risoluzione supportata da una stampante"
 type: docs
-weight: 9660
+weight: 9810
 url: /it/net/aspose.pdf.printing/printerresolution/
 ---
-## Classe PrinterResolution
+## PrinterResolution class
 
 Rappresenta la risoluzione supportata da una stampante.
 
@@ -18,7 +18,7 @@ public class PrinterResolution
 
 | Nome | Descrizione |
 | --- | --- |
-| [PrinterResolution](printerresolution/)() | Inizializza una nuova istanza della classe `PrinterResolution` con proprietà predefinite. |
+| [PrinterResolution](printerresolution/)() | Inizializza una nuova istanza della classe `PrinterResolution` con le proprietà predefinite. |
 
 ## Proprietà
 
@@ -32,9 +32,11 @@ public class PrinterResolution
 
 | Nome | Descrizione |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/printerresolution/tostring/)() | Fornisce alcune informazioni interessanti sulla PrinterResolution in forma di Stringa. |
+| override [ToString](../../aspose.pdf.printing/printerresolution/tostring/)() | Fornisce alcune informazioni interessanti sulla PrinterResolution in forma di stringa. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

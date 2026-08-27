@@ -1,14 +1,14 @@
 ---
-title: Document.FitWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta un flag che specifica se la finestra del documento deve essere ridimensionata per adattarsi alla prima pagina visualizzata
+title: "Document.FitWindow"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene o imposta il flag che specifica se la finestra del documento deve essere ridimensionata per adattarsi alla prima pagina visualizzata."
 type: docs
-weight: 190
+weight: 210
 url: /it/net/aspose.pdf/document/fitwindow/
 ---
-## Proprietà Document.FitWindow
+## Document.FitWindow property
 
-Ottiene o imposta un flag che specifica se la finestra del documento deve essere ridimensionata per adattarsi alla prima pagina visualizzata.
+Ottiene o imposta la flag che specifica se la finestra del documento deve essere ridimensionata per adattarsi alla prima pagina visualizzata.
 
 ```csharp
 public bool FitWindow { get; set; }
@@ -23,8 +23,10 @@ Document document = new Document("sample.pdf");
 bool value = document.FitWindow;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

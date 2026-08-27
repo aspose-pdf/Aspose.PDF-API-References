@@ -1,7 +1,7 @@
 ---
-title: PageNumberStamp.PageNumberStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PageNumberStamp. Inizializza una nuova istanza della classe PageNumberStamp
+title: "PageNumberStamp.PageNumberStamp"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PageNumberStamp. Inizializza una nuova istanza della classe PageNumberStamp"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/pagenumberstamp/pagenumberstamp/
@@ -16,11 +16,11 @@ public PageNumberStamp(string format)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| format | String | Valore stringa utilizzato per il timbro. Vedi la proprietà [`Format`](../format/) per dettagli. |
+| format | String | Valore stringa usato per il timbro. Vedi la proprietà [`Format`](../format/) per i dettagli. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageNumberStamp](../)
+* class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,9 +34,9 @@ Inizializza una nuova istanza della classe [`PageNumberStamp`](../). Il formato 
 public PageNumberStamp()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageNumberStamp](../)
+* class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public PageNumberStamp()
 
 ## PageNumberStamp(FormattedText) {#constructor_1}
 
-Crea PageNumberStamp tramite testo formattato.
+Crea PageNumberStamp mediante testo formattato.
 
 ```csharp
 public PageNumberStamp(FormattedText formattedText)
@@ -54,9 +54,11 @@ public PageNumberStamp(FormattedText formattedText)
 | --- | --- | --- |
 | formattedText | FormattedText | Testo formattato utilizzato per creare il timbro del numero di pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* classe [PageNumberStamp](../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

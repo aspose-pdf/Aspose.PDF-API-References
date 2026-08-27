@@ -1,14 +1,14 @@
 ---
-title: Enum BlendMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BlendMode di Aspose.Pdf. L'enumerazione dei modi di fusione
+title: "Enumerazione BlendMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.BlendMode enum. L'enumerazione delle modalità di fusione"
 type: docs
-weight: 2880
+weight: 2990
 url: /it/net/aspose.pdf/blendmode/
 ---
-## Enumerazione BlendMode
+## BlendMode enumeration
 
-L'enumerazione dei modi di fusione.
+Enumerazione delle modalità di fusione.
 
 ```csharp
 public enum BlendMode
@@ -19,11 +19,11 @@ public enum BlendMode
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | Normal | `0` | Modalità di fusione normale. |
-| Multiply | `1` | Modalità di fusione moltiplica. |
+| Multiply | `1` | Modalità di fusione moltiplicazione. |
 | Screen | `2` | Modalità di fusione schermo. |
-| Overlay | `3` | Modalità di fusione sovrapposta. |
-| Darken | `4` | Modalità di fusione scura. |
-| Lighten | `5` | Modalità di fusione chiara. |
+| Overlay | `3` | Modalità di fusione sovrapposizione. |
+| Darken | `4` | Modalità di fusione scurimento. |
+| Lighten | `5` | Modalità di fusione schiarimento. |
 | ColorDodge | `6` | Modalità di fusione ColorDodge. |
 | ColorBurn | `7` | Modalità di fusione ColorBurn. |
 | HardLight | `8` | Modalità di fusione HardLight. |
@@ -32,11 +32,13 @@ public enum BlendMode
 | Exclusion | `11` | Modalità di fusione esclusione. |
 | Hue | `12` | Modalità di fusione tonalità. |
 | Saturation | `13` | Modalità di fusione saturazione. |
-| Color | `14` | Modalità di fusione colore. |
-| Luminosity | `15` | Modalità di fusione luminosità. |
-| Compatible | `16` | Modalità di fusione compatibile. |
+| Color | `14` | Modalità di fusione Color. |
+| Luminosity | `15` | Modalità di fusione Luminosità. |
+| Compatible | `16` | Modalità di fusione Compatibile. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

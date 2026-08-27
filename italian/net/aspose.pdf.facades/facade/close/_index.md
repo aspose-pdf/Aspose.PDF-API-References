@@ -1,21 +1,23 @@
 ---
-title: Facade.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Facade. Dispone Aspose.Pdf.Document legato a una facciata
+title: "Facade.Close"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Facade. Rilascia l'Aspose.Pdf.Document associato a una facciata"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.facades/facade/close/
 ---
-## Metodo Facade.Close
+## Facade.Close method
 
-Dispone Aspose.Pdf.Document legato a una facciata.
+Rilascia l'Aspose.Pdf.Document associato a una facciata.
 
 ```csharp
 public virtual void Close()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Facade](../)
+* class [Facade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

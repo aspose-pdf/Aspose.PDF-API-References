@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.AlignBottom
-second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldFacade. Definisce l'allineamento verticale come stile in basso
+title: "FormFieldFacade.AlignBottom"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade campo. Definisce l'allineamento verticale come stile inferiore"
 type: docs
 weight: 210
 url: /it/net/aspose.pdf.facades/formfieldfacade/alignbottom/
 ---
-## Campo FormFieldFacade.AlignBottom
+## FormFieldFacade.AlignBottom field
 
-Definisce l'allineamento verticale come stile in basso.
+Definisce l'allineamento verticale come stile inferiore.
 
 ```csharp
 public const int AlignBottom;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

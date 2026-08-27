@@ -1,14 +1,14 @@
 ---
-title: Class LlamaModels
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.LlamaModels. Contiene costanti relative ai diversi modelli Llama
+title: "Classe LlamaModels"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.AI.LlamaModels classe. Contiene costanti relative a diversi modelli Llama"
 type: docs
-weight: 730
+weight: 780
 url: /it/net/aspose.pdf.ai/llamamodels/
 ---
-## Classe LlamaModels
+## LlamaModels class
 
-Contiene costanti relative ai diversi modelli Llama.
+Contiene costanti relative a diversi modelli Llama.
 
 ```csharp
 public static class LlamaModels
@@ -20,7 +20,9 @@ public static class LlamaModels
 | --- | --- |
 | static [Llama13BChat](../../aspose.pdf.ai/llamamodels/llama13bchat/) { get; } | Il modello di chat Llama 13b. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

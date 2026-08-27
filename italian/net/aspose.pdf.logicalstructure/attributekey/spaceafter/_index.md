@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.SpaceAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ChiaveAttributo. SpazioDopo Attributo Layout Attributo Proprietario
+title: "AttributeKey.SpaceAfter"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. SpaceAfter attributo Layout attributo proprietario"
 type: docs
 weight: 290
 url: /it/net/aspose.pdf.logicalstructure/attributekey/spaceafter/
 ---
-## Campo AttributeKey.SpaceAfter
+## AttributeKey.SpaceAfter field
 
-Attributo SpaceAfter (proprietario dell'attributo Layout).
+Attributo SpaceAfter (proprietario dell'attributo del layout).
 
 ```csharp
 public static readonly AttributeKey SpaceAfter;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

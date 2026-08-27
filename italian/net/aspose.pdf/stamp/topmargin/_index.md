@@ -1,12 +1,12 @@
 ---
-title: Stamp.TopMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Stamp. Ottiene o imposta il margine superiore del timbro
+title: "Stamp.TopMargin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Stamp. Ottiene o imposta il margine superiore del timbro"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/stamp/topmargin/
 ---
-## Proprietà Stamp.TopMargin
+## Stamp.TopMargin property
 
 Ottiene o imposta il margine superiore del timbro.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il margine superiore del timbro.
 public double TopMargin { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

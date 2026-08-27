@@ -1,12 +1,12 @@
 ---
-title: Class PptxSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PptxSaveOptions. Opzioni di salvataggio per l'esportazione in formato SVG
+title: "Classe PptxSaveOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.PptxSaveOptions. Opzioni di salvataggio per l'esportazione in formato SVG"
 type: docs
-weight: 9480
+weight: 9630
 url: /it/net/aspose.pdf/pptxsaveoptions/
 ---
-## Classe PptxSaveOptions
+## PptxSaveOptions class
 
 Opzioni di salvataggio per l'esportazione in formato SVG
 
@@ -24,23 +24,23 @@ public class PptxSaveOptions : UnifiedSaveOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Ottiene o imposta un valore booleano che indica se i glifi del font saranno memorizzati nella cache durante la preparazione delle pagine aps. Migliora le prestazioni della conversione da pdf ad altri formati, ma aumenta il consumo di memoria. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Ottiene o imposta un valore booleano che indica se i glifi dei caratteri saranno memorizzati nella cache durante la preparazione delle pagine aps. Migliora le prestazioni della conversione PDF in altri formati ma aumenta il consumo di memoria. |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Ottiene o imposta un valore booleano che indica se l'oggetto Response sarà chiuso dopo che il documento è stato salvato nella risposta. |
-| [CustomProgressHandler](../../aspose.pdf/pptxsaveoptions/customprogresshandler/) { get; set; } | Questo gestore può essere utilizzato per gestire eventi di avanzamento della conversione, ad esempio può essere utilizzato per mostrare una barra di avanzamento o messaggi sulla quantità attuale di pagine elaborate, un esempio di codice del gestore che mostra il progresso sulla console è: |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Questo attributo attiva la funzionalità per estrarre immagini o testo per documenti PDF con sottolivello OCR. |
+| [CustomProgressHandler](../../aspose.pdf/pptxsaveoptions/customprogresshandler/) { get; set; } | Questo gestore può essere utilizzato per gestire gli eventi di avanzamento della conversione, ad esempio può servire a mostrare una barra di avanzamento o messaggi sul numero corrente di pagine elaborate; un esempio di codice del gestore che mostra l'avanzamento sulla console è: |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Questo attributo attiva la funzionalità di estrazione di immagini o testo per i documenti PDF con sottolivello OCR. |
 | [ImageResolution](../../aspose.pdf/pptxsaveoptions/imageresolution/) { get; set; } | Ottiene o imposta la risoluzione dell'immagine (dpi). Il valore predefinito è 192 dpi. |
-| [OptimizeTextBoxes](../../aspose.pdf/pptxsaveoptions/optimizetextboxes/) { get; set; } | Attiva il riconoscimento delle colonne di testo |
+| [OptimizeTextBoxes](../../aspose.pdf/pptxsaveoptions/optimizetextboxes/) { get; set; } | Attiva/disattiva il riconoscimento delle colonne di testo |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Formato di salvataggio dei dati. |
-| [SeparateImages](../../aspose.pdf/pptxsaveoptions/separateimages/) { get; set; } | Se impostato su true, le immagini sono separate da tutte le altre grafiche |
-| [SlidesAsImages](../../aspose.pdf/pptxsaveoptions/slidesasimages/) { get; set; } | Se impostato su true, tutto il contenuto è riconosciuto come immagini (una per pagina) |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback per gestire eventuali avvisi generati. Il WarningHandler restituisce un elemento dell'enumerazione ReturnAction che specifica se Continuare o Abortire. Continuare è l'azione predefinita e l'operazione di salvataggio continua, tuttavia l'utente può anche restituire Abort, nel qual caso l'operazione di salvataggio dovrebbe cessare. |
+| [SeparateImages](../../aspose.pdf/pptxsaveoptions/separateimages/) { get; set; } | Se impostato su true, le immagini vengono separate da tutte le altre grafiche |
+| [SlidesAsImages](../../aspose.pdf/pptxsaveoptions/slidesasimages/) { get; set; } | Se impostato su true, tutto il contenuto viene riconosciuto come immagini (una per pagina) |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback per gestire eventuali avvisi generati. Il WarningHandler restituisce l'elemento enum ReturnAction che specifica Continuare o Interrompere. Continuare è l'azione predefinita e l'operazione di salvataggio prosegue, tuttavia l'utente può anche restituire Interrompere, nel qual caso l'operazione di salvataggio deve cessare. |
 
 ## Campi
 
 | Nome | Descrizione |
 | --- | --- |
-| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Elabora le pagine in più thread. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | A volte i PDF contengono immagini di sfondo (di pagine o celle di tabella) costruite da diverse immagini di sfondo a mosaico identiche messe una vicino all'altra. In tal caso, i renderer dei formati di destinazione (ad esempio MsWord per il formato DOCS) a volte generano confini visibili tra le parti delle immagini di sfondo, poiché le loro tecniche di levigatura dei bordi delle immagini (anti-aliasing) sono diverse da quelle di Acrobat Reader. Se sembra che il documento esportato contenga tali confini visibili tra le parti delle stesse immagini di sfondo, si prega di provare a utilizzare questa impostazione per eliminare quell'effetto indesiderato. ATTENZIONE! Questa ottimizzazione della qualità rallenta solitamente notevolmente la conversione, quindi, si prega di utilizzare questa opzione solo quando è veramente necessario. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Elabora le pagine in pochi thread. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | A volte i PDF contengono immagini di sfondo (di pagine o celle di tabella) costruite da diverse immagini di sfondo a tasselli identiche posizionate una accanto all'altra. In tal caso i renderer dei formati di destinazione (ad es. MsWord per il formato DOCS) a volte generano bordi visibili tra le parti delle immagini di sfondo, poiché le loro tecniche di smussatura dei bordi delle immagini (anti-aliasing) differiscono da quelle di Acrobat Reader. Se sembra che il documento esportato contenga tali bordi visibili tra le parti delle stesse immagini di sfondo, provare a utilizzare questa impostazione per eliminare l'effetto indesiderato. ATTENZIONE! Questa ottimizzazione della qualità solitamente rallenta notevolmente la conversione, quindi, per favore, usala solo quando è davvero necessaria. |
 
 ## Esempi
 
@@ -48,21 +48,21 @@ Il seguente esempio mostra come convertire un file PDF in un file PPT o PPTX
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Il percorso della directory dei documenti.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your PDF File.
+	// Il percorso al tuo file PDF.
 	var pdfFile = Path.Combine(dataDir, "PDF-to-PPTX.pdf");
 
-	// The path to your PPT or PPTX File.
+	// Il percorso al tuo file PPT o PPTX.
 	var pptxFile = Path.Combine(dataDir, "PDF-to-PPTX.pptx");
 		
 	using (Document pdfDocument = new Document(pdfFile))
 	{
-		// Initialize PptxSaveOptions	
+		// Inizializza PptxSaveOptions
 		PptxSaveOptions saveOptions = new PptxSaveOptions();
 		
-		// Save PPT or PPTX file
+		// Salva il file PPT o PPTX
 		pdfDocument.Save(pptxFile, saveOptions);
 	}
 ```
@@ -88,6 +88,8 @@ Il seguente esempio mostra come convertire un file PDF in un file PPT o PPTX
 
 ### Vedi anche
 
-* classe [UnifiedSaveOptions](../unifiedsaveoptions/)
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

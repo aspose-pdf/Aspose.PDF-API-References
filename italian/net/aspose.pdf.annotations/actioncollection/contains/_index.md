@@ -1,14 +1,14 @@
 ---
-title: ActionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection method. Returns true if give item presents in the collection
+title: "ActionCollection.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ActionCollection. Restituisce true se l'elemento fornito è presente nella collezione"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.annotations/actioncollection/contains/
 ---
-## Metodo ActionCollection.Contains
+## ActionCollection.Contains method
 
-Restituisce true se l'elemento fornito è presente nella collezione.
+Restituisce true se l'elemento dato è presente nella collezione.
 
 ```csharp
 public bool Contains(PdfAction item)
@@ -24,7 +24,9 @@ Non implementato.
 
 ### Vedi anche
 
-* classe [PdfAction](../../pdfaction/)
-* classe [ActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

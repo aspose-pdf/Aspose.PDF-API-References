@@ -1,14 +1,14 @@
 ---
-title: Enum BoxStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.Stili Enum. Rappresenta stili per disegno di controllo nel controllo di box.
+title: "Enum BoxStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Forms.BoxStyle. Rappresenta gli stili per disegnare il segno di spunta nella casella di controllo"
 type: docs
-weight: 4960
+weight: 5080
 url: /it/net/aspose.pdf.forms/boxstyle/
 ---
-## Enumerazione BoxStyle
+## BoxStyle enumeration
 
-Rappresenta stili per disegnare il segno nella casella di controllo.
+Rappresenta gli stili per il disegno del segno di spunta nella casella di controllo.
 
 ```csharp
 public enum BoxStyle
@@ -18,14 +18,16 @@ public enum BoxStyle
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Cerchio | `0` | Stile cerchio. |
-| Segno | `1` | Stile segno. |
-| Croce | `2` | Stile croce. |
-| Diamante | `3` | Stile diamante. |
-| Quadrato | `4` | Stile quadrato. |
-| Stella | `5` | Stile stella. |
+| Circle | `0` | Stile cerchio. |
+| Check | `1` | Stile spunta. |
+| Cross | `2` | Stile croce. |
+| Diamond | `3` | Stile diamante. |
+| Square | `4` | Stile quadrato. |
+| Star | `5` | Stile stella. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

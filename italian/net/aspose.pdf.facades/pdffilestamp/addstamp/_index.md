@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.AddStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileStamp. Aggiunge un timbro al file
+title: "PdfFileStamp.AddStamp"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileStamp metodo. Aggiunge il timbro al file"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.facades/pdffilestamp/addstamp/
 ---
-## Metodo PdfFileStamp.AddStamp
+## PdfFileStamp.AddStamp method
 
-Aggiunge un timbro al file.
+Aggiunge il timbro al file.
 
 ```csharp
 public void AddStamp(Stamp stamp)
@@ -16,7 +16,7 @@ public void AddStamp(Stamp stamp)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stamp | Stamp | Oggetto timbro che. |
+| timbro | Timbro | Oggetto timbro. |
 
 ## Esempi
 
@@ -32,9 +32,11 @@ fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Stamp](../../stamp/)
-* classe [PdfFileStamp](../)
+* class [Stamp](../../stamp/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

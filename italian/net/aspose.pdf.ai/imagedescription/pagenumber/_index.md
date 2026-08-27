@@ -1,21 +1,23 @@
 ---
-title: ImageDescription.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImageDescription. Ottiene o imposta il numero di pagina in cui si trova l'immagine
+title: "ImageDescription.PageNumber"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImageDescription. Ottiene o imposta il numero di pagina in cui si trova l'immagine"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/imagedescription/pagenumber/
 ---
-## Proprietà ImageDescription.PageNumber
+## ImageDescription.PageNumber property
 
-Ottiene o imposta il numero di pagina in cui si trova l'immagine.
+Ottiene o imposta il page number in cui si trova l'immagine.
 
 ```csharp
 public int PageNumber { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageDescription](../)
+* class [ImageDescription](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

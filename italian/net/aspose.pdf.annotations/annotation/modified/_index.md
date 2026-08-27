@@ -1,21 +1,23 @@
 ---
-title: Annotation.Modified
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'annotazione. Ottiene o imposta la data e l'ora in cui l'annotazione è stata recentemente modificata
+title: "Annotation.Modified"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Annotation. Ottiene o imposta data e ora in cui l'annotazione è stata modificata di recente"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.annotations/annotation/modified/
 ---
-## Proprietà Annotation.Modified
+## Annotation.Modified property
 
-Ottiene o imposta la data e l'ora in cui l'annotazione è stata recentemente modificata.
+Ottiene o imposta la data e l'ora in cui l'annotazione è stata modificata di recente.
 
 ```csharp
 public DateTime Modified { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

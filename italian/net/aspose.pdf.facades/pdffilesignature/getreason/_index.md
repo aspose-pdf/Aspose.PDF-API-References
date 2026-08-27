@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetReason
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSignature. Ottiene il motivo di una firma
+title: "PdfFileSignature.GetReason"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSignature. Ottiene il motivo di una firma"
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.facades/pdffilesignature/getreason/
 ---
-## Metodo PdfFileSignature.GetReason
+## PdfFileSignature.GetReason method
 
-Ottiene il motivo di una firma.
+Restituisce il motivo di una firma.
 
 ```csharp
 public string GetReason(SignatureName signName)
@@ -18,13 +18,15 @@ public string GetReason(SignatureName signName)
 | --- | --- | --- |
 | signName | SignatureName | Il nome della firma. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Restituisce un risultato di tipo stringa.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureName](../../signaturename/)
-* classe [PdfFileSignature](../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

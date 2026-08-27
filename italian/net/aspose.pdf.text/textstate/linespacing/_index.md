@@ -1,12 +1,12 @@
 ---
-title: TextState.LineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextState. Ottiene o imposta l'interlinea del testo
+title: "TextState.LineSpacing"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextState. Ottiene o imposta l'interlinea del testo."
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.text/textstate/linespacing/
 ---
-## Proprietà TextState.LineSpacing
+## TextState.LineSpacing property
 
 Ottiene o imposta l'interlinea del testo.
 
@@ -16,10 +16,12 @@ public virtual float LineSpacing { get; set; }
 
 ## Osservazioni
 
-Si noti che il valore non è preservato come caratteristica del testo all'interno del documento. Il getter della proprietà LineSpacing funziona per un oggetto nel caso in cui sia stato impostato esplicitamente in precedenza con il setter LineSpacing per quegli oggetti. La proprietà è utilizzata dal runtime nel contesto del processo di generazione/modifica corrente.
+Nota che il valore non è conservato come caratteristica del testo all'interno del documento. Il getter della proprietà LineSpacing funziona per un oggetto nel caso in cui sia stato impostato esplicitamente in precedenza con il setter LineSpacing per quell'oggetto. La proprietà è utilizzata dal runtime nel contesto del processo corrente di generazione/modifica.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

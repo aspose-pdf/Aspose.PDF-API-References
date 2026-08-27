@@ -1,12 +1,12 @@
 ---
-title: SetRGBColorStroke.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColorStroke method. Returns color specified by operator
+title: "SetRGBColorStroke.getColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SetRGBColorStroke. Restituisce il colore specificato dall'operatore"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.operators/setrgbcolorstroke/getcolor/
 ---
-## Metodo SetRGBColorStroke.getColor
+## SetRGBColorStroke.getColor method
 
 Restituisce il colore specificato dall'operatore.
 
@@ -14,12 +14,14 @@ Restituisce il colore specificato dall'operatore.
 public override Color getColor()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Colore specificato dall'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetRGBColorStroke](../)
+* class [SetRGBColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

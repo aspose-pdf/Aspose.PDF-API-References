@@ -1,22 +1,24 @@
 ---
-title: Annotation.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Annotation. Ottiene l'elenco delle azioni di annotazione
+title: "Annotation.Actions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Annotation. Ottiene l'elenco delle azioni dell'annotazione"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/annotation/actions/
 ---
-## Proprietà Annotation.Actions
+## Annotation.Actions property
 
-Ottiene l'elenco delle azioni di annotazione.
+Ottiene l'elenco delle azioni di Annotation.
 
 ```csharp
 public PdfActionCollection Actions { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfActionCollection](../../pdfactioncollection/)
-* classe [Annotation](../)
+* class [PdfActionCollection](../../pdfactioncollection/)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

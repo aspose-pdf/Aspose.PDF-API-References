@@ -1,14 +1,14 @@
 ---
-title: PdfProducer.Produce
-second_title: Aspose.PDF for .NET API Reference
-description: PdfProducer metodo. Produrre il fiume PDF utilizzando il formato di importazione specificato. Questo esempio mostra come fare produrre il fiume PDF dal fiume CGM.
+title: "PdfProducer.Produce"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfProducer. Produce lo stream PDF utilizzando il formato di importazione specificato. Questo esempio mostra come produrre uno stream PDF da uno stream CGM."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdfproducer/produce/
 ---
 ## Produce(Stream, ImportFormat, Stream) {#produce}
 
-Produce il flusso PDF utilizzando il formato di importazione specificato. Questo esempio mostra come produrre un flusso Pdf da un flusso CGM.
+Genera lo stream PDF utilizzando il formato di importazione specificato. Questo esempio mostra come produrre lo stream Pdf da uno stream CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -26,7 +26,7 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Flusso di input. |
+| inputStream | Stream | Stream di input. |
 | format | ImportFormat | Formato di importazione. |
 | outputStream | Stream | Flusso PDF di output. |
 
@@ -34,10 +34,10 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 | eccezione | condizione |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene sollevata quando un file è non valido. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene generata quando un file non è valido. |
 | ArgumentNullException | Il flusso di input o di output è nullo |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -48,7 +48,7 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 ## Produce(string, ImportFormat, Stream) {#produce_4}
 
-Produce il flusso PDF utilizzando il formato di importazione specificato. Questo esempio mostra come produrre un flusso Pdf da un file CGM.
+Genera lo stream PDF utilizzando il formato di importazione specificato. Questo esempio mostra come produrre lo stream Pdf da un file CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -65,7 +65,7 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputFileName | String | Nome del file di input. |
+| inputFileName | String | Nome file di input. |
 | format | ImportFormat | Formato di importazione. |
 | outputStream | Stream | Flusso PDF di output. |
 
@@ -73,11 +73,11 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 | eccezione | condizione |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene sollevata quando un file è non valido. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene generata quando un file non è valido. |
 | ArgumentNullException | Il flusso di output è nullo |
-| ArgumentException | Il nome del file di input è una stringa vuota |
+| ArgumentException | Il nome file di input è una stringa vuota |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -88,7 +88,7 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 ## Produce(Stream, ImportFormat, string) {#produce_1}
 
-Produce il file PDF utilizzando il formato di importazione specificato. Questo esempio mostra come produrre un file Pdf da un flusso CGM.
+Genera il file PDF utilizzando il formato di importazione specificato. Questo esempio mostra come produrre un file Pdf da uno stream CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -106,7 +106,7 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Flusso di input. |
+| inputStream | Stream | Stream di input. |
 | format | ImportFormat | Formato di importazione. |
 | outputFileName | String | File PDF di output |
 
@@ -114,11 +114,11 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 | eccezione | condizione |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene sollevata quando un file è non valido. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene generata quando un file non è valido. |
 | ArgumentNullException | Il flusso di input è nullo |
-| ArgumentException | Il nome del file di output è una stringa vuota |
+| ArgumentException | Il nome file di output è una stringa vuota |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -129,7 +129,7 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 ## Produce(string, ImportFormat, string) {#produce_5}
 
-Produce il file PDF utilizzando il formato di importazione specificato. Questo esempio mostra come produrre un file Pdf da un file CGM.
+Genera il file PDF utilizzando il formato di importazione specificato. Questo esempio mostra come produrre un file Pdf da un file CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -143,7 +143,7 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputFileName | String | Nome del file di input. |
+| inputFileName | String | Nome file di input. |
 | format | ImportFormat | Formato di importazione. |
 | outputFileName | String | File PDF di output |
 
@@ -151,10 +151,10 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 | eccezione | condizione |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene sollevata quando un file è non valido. |
-| ArgumentException | Il nome del file di input o di output è una stringa vuota |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene generata quando un file non è valido. |
+| ArgumentException | Il nome file di input o di output è una stringa vuota |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -165,7 +165,7 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 ## Produce(string, ImportOptions, Stream) {#produce_6}
 
-Produce il flusso PDF utilizzando l'opzione di importazione specificata. Questo esempio mostra come produrre un flusso Pdf da un file CGM.
+Genera lo stream PDF utilizzando l'opzione di importazione specificata. Questo esempio mostra come produrre lo stream Pdf da un file CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -183,7 +183,7 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputFileName | String | Nome del file di input. |
+| inputFileName | String | Nome file di input. |
 | options | ImportOptions | Opzione di importazione. |
 | outputStream | Stream | Flusso PDF di output. |
 
@@ -191,11 +191,11 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 | eccezione | condizione |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene sollevata quando un file è non valido. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene generata quando un file non è valido. |
 | ArgumentNullException | Il flusso di output è nullo |
-| ArgumentException | Il nome del file di input è una stringa vuota |
+| ArgumentException | Il nome file di input è una stringa vuota |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -206,7 +206,7 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 ## Produce(Stream, ImportOptions, string) {#produce_3}
 
-Produce il file PDF utilizzando l'opzione di importazione specificata. Questo esempio mostra come produrre un file Pdf da un flusso CGM.
+Genera il file PDF utilizzando l'opzione di importazione specificata. Questo esempio mostra come produrre un file Pdf da uno stream CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -224,7 +224,7 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Flusso di input. |
+| inputStream | Stream | Stream di input. |
 | options | ImportOptions | Opzione di importazione. |
 | outputFileName | String | File PDF di output. |
 
@@ -232,11 +232,11 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 | eccezione | condizione |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene sollevata quando un file è non valido. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene generata quando un file non è valido. |
 | ArgumentNullException | Il flusso di input è nullo |
-| ArgumentException | Il nome del file di output è una stringa vuota |
+| ArgumentException | Il nome file di output è una stringa vuota |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -247,7 +247,7 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 ## Produce(string, ImportOptions, string) {#produce_7}
 
-Produce il file PDF utilizzando l'opzione di importazione specificata. Questo esempio mostra come produrre un file Pdf da un file CGM.
+Genera il file PDF utilizzando l'opzione di importazione specificata. Questo esempio mostra come produrre un file Pdf da un file CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -262,7 +262,7 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputFileName | String | Nome del file di input. |
+| inputFileName | String | Nome file di input. |
 | options | ImportOptions | Opzione di importazione. |
 | outputFileName | String | Flusso PDF di output. |
 
@@ -270,10 +270,10 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 | eccezione | condizione |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene sollevata quando un file è non valido. |
-| ArgumentException | Il nome del file di input o di output è una stringa vuota |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene generata quando un file non è valido. |
+| ArgumentException | Il nome file di input o di output è una stringa vuota |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -284,7 +284,7 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 ## Produce(Stream, ImportOptions, Stream) {#produce_2}
 
-Produce il file PDF utilizzando l'opzione di importazione specificata. Questo esempio mostra come produrre un flusso Pdf da un flusso CGM.
+Genera il file PDF utilizzando l'opzione di importazione specificata. Questo esempio mostra come produrre lo stream Pdf da uno stream CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -303,7 +303,7 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Flusso di input. |
+| inputStream | Stream | Stream di input. |
 | options | ImportOptions | Opzione di importazione. |
 | outputStream | Stream | Flusso PDF di output. |
 
@@ -311,12 +311,14 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 
 | eccezione | condizione |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene sollevata quando un file è non valido. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | L'eccezione viene generata quando un file non è valido. |
 | ArgumentNullException | Il flusso di input o di output è nullo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

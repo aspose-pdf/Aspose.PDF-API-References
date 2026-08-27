@@ -1,7 +1,7 @@
 ---
-title: MarkdownDiffOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo MarkdownDiffOutputGenerator. Genera l'output basato sulle differenze tra i testi e lo salva in un file
+title: "MarkdownDiffOutputGenerator.GenerateOutput"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo MarkdownDiffOutputGenerator. Genera l'output basato sulle differenze tra i testi e lo salva in un file"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.comparison/markdowndiffoutputgenerator/generateoutput/
@@ -14,15 +14,15 @@ Genera l'output basato sulle differenze tra i testi e lo salva in un file.
 public string GenerateOutput(List<DiffOperation> diffrences)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| diffrences | List`1 | L'elenco delle differenze tra i testi. |
+| differenze | List`1 | Elenco delle differenze tra i testi. |
 
-### Return Value
+### Valore di ritorno
 
 Testo Markdown.
 
-### See Also
+### Vedi anche
 
 * class [DiffOperation](../../diffoperation/)
 * class [MarkdownDiffOutputGenerator](../)
@@ -39,12 +39,12 @@ Genera l'output basato sulle differenze tra i testi e lo salva in un file.
 public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| diffrences | List`1 | L'elenco delle differenze tra i testi. |
+| differenze | List`1 | Elenco delle differenze tra i testi. |
 | targetFilePath | String | Il percorso del file di destinazione per salvare l'output. |
 
-### See Also
+### Vedi anche
 
 * class [DiffOperation](../../diffoperation/)
 * class [MarkdownDiffOutputGenerator](../)
@@ -61,15 +61,15 @@ Genera l'output basato sulle differenze tra i testi e lo salva in un file.
 public string GenerateOutput(List<List<DiffOperation>> diffrences)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| diffrences | List`1 | L'elenco delle differenze tra i testi. |
+| differenze | List`1 | Elenco delle differenze tra i testi. |
 
-### Return Value
+### Valore di ritorno
 
 Testo Markdown.
 
-### See Also
+### Vedi anche
 
 * class [DiffOperation](../../diffoperation/)
 * class [MarkdownDiffOutputGenerator](../)
@@ -86,14 +86,16 @@ Genera l'output basato sulle differenze tra i testi e lo salva in un file.
 public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFilePath)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| diffrences | List`1 | L'elenco delle differenze tra i testi. |
+| differenze | List`1 | Elenco delle differenze tra i testi. |
 | targetFilePath | String | Il percorso del file di destinazione per salvare l'output. |
 
-### See Also
+### Vedi anche
 
 * class [DiffOperation](../../diffoperation/)
 * class [MarkdownDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

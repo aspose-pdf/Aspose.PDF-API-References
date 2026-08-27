@@ -1,12 +1,12 @@
 ---
-title: Class ET
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.ET. Classe che rappresenta l'operatore ET Fine del blocco di testo
+title: "Classe ET"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Operators.ET. Classe che rappresenta l'operatore ET fine del blocco di testo"
 type: docs
-weight: 7340
+weight: 7480
 url: /it/net/aspose.pdf.operators/et/
 ---
-## Classe ET
+## ET class
 
 Classe che rappresenta l'operatore ET (Fine del blocco di testo).
 
@@ -30,12 +30,14 @@ public class ET : BlockTextOperator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/et/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
-| override [ToString](../../aspose.pdf.operators/et/tostring/)() | Produce il codice di testo dell'operatore. |
+| override [Accept](../../aspose.pdf.operators/et/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
+| override [ToString](../../aspose.pdf.operators/et/tostring/)() | Genera il codice di testo dell'operatore. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BlockTextOperator](../blocktextoperator/)
+* class [BlockTextOperator](../blocktextoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

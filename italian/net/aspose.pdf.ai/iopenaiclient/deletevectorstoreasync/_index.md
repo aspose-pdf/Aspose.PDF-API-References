@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.DeleteVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Elimina un archivio vettoriale in modo asincrono
+title: "IOpenAIClient.DeleteVectorStoreAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IOpenAIClient. Elimina un archivio vettoriale in modo asincrono"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.ai/iopenaiclient/deletevectorstoreasync/
 ---
-## Metodo IOpenAIClient.DeleteVectorStoreAsync
+## IOpenAIClient.DeleteVectorStoreAsync method
 
 Elimina un archivio vettoriale in modo asincrono.
 
@@ -28,11 +28,13 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'archivio vettoriale è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del vector store è nullo o vuoto. |
 
 ### Vedi anche
 
-* classe [DeleteStatusResponse](../../deletestatusresponse/)
-* interfaccia [IOpenAIClient](../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilot.OpenAIImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di OpenAIImageDescriptionCopilot. Inizializza una nuova istanza della classe OpenAIImageDescriptionCopilot
+title: "OpenAIImageDescriptionCopilot.OpenAIImageDescriptionCopilot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore OpenAIImageDescriptionCopilot. Inizializza una nuova istanza della classe OpenAIImageDescriptionCopilot"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilot/openaiimagedescriptioncopilot/
 ---
-## Costruttore di OpenAIImageDescriptionCopilot
+## OpenAIImageDescriptionCopilot constructor
 
 Inizializza una nuova istanza della classe [`OpenAIImageDescriptionCopilot`](../).
 
@@ -17,14 +17,16 @@ public OpenAIImageDescriptionCopilot(IOpenAIClient client,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| client | IOpenAIClient | L'istanza del client OpenAI. |
-| options | IImageDescriptionCopilotOptions`1 | Le opzioni del Copilot di Descrizione Immagine OpenAI. |
+| client | IOpenAIClient | L'istanza client OpenAI. |
+| options | IImageDescriptionCopilotOptions`1 | Le opzioni del Copilota di descrizione immagini OpenAI. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOpenAIClient](../../iopenaiclient/)
-* interfaccia [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* classe [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
-* classe [OpenAIImageDescriptionCopilot](../)
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
+* class [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: TextEditOptions.AllowLanguageTransformation
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextEditOptions. Ottiene o imposta un valore che consente l'uso della trasformazione linguistica durante l'aggiunta o la modifica del testo. true - la trasformazione linguistica sarà applicata se necessario. false - la trasformazione linguistica NON sarà applicata.
+title: "TextEditOptions.AllowLanguageTransformation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextEditOptions. Ottiene o imposta il valore che consente l'uso della trasformazione linguistica durante l'aggiunta o la modifica del testo. true  la trasformazione linguistica verrà applicata se necessario (valore predefinito). false  la trasformazione linguistica NON verrà applicata"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/texteditoptions/allowlanguagetransformation/
 ---
-## Proprietà TextEditOptions.AllowLanguageTransformation
+## TextEditOptions.AllowLanguageTransformation property
 
-Ottiene o imposta un valore che consente l'uso della trasformazione linguistica durante l'aggiunta o la modifica del testo. true - la trasformazione linguistica sarà applicata se necessario (valore predefinito). false - la trasformazione linguistica NON sarà applicata.
+Ottiene o imposta il valore che consente l'uso della trasformazione linguistica durante l'aggiunta o la modifica del testo. true - la trasformazione linguistica verrà applicata se necessario (valore predefinito). false - la trasformazione linguistica NON verrà applicata.
 
 ```csharp
 public bool AllowLanguageTransformation { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextEditOptions](../)
+* class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

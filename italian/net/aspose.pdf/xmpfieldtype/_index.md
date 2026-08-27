@@ -1,14 +1,14 @@
 ---
-title: Enum XmpFieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpFieldType enum. This enum represents types of a XMP field
+title: "Enum XmpFieldType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.XmpFieldType. Questo enum rappresenta i tipi di un campo XMP."
 type: docs
-weight: 11420
+weight: 11610
 url: /it/net/aspose.pdf/xmpfieldtype/
 ---
-## Enumerazione XmpFieldType
+## XmpFieldType enumeration
 
-Questo enum rappresenta i tipi di un campo XMP.
+Questa enumerazione rappresenta i tipi di un campo XMP.
 
 ```csharp
 public enum XmpFieldType
@@ -24,7 +24,9 @@ public enum XmpFieldType
 | Packet | `3` | Questo tipo rappresenta un pacchetto. |
 | Unknown | `4` | Questo campo rappresenta un tipo sconosciuto. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

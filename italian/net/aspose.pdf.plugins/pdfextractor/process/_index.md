@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfExtractor. Avvia l'elaborazione di PdfExtractor con i parametri specificati
+title: "PdfExtractor.Process"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfExtractor. Avvia l'elaborazione di PdfExtractor con i parametri specificati"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/pdfextractor/process/
 ---
-## Metodo PdfExtractor.Process
+## PdfExtractor.Process method
 
 Avvia l'elaborazione di PdfExtractor con i parametri specificati.
 
@@ -16,16 +16,18 @@ public ResultContainer Process(IPluginOptions pdfExtractorOptions)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pdfExtractorOptions | IPluginOptions | Un oggetto opzioni contenente istruzioni per il PdfExtractor. |
+| pdfExtractorOptions | IPluginOptions | Un oggetto di opzioni contenente le istruzioni per il PdfExtractor. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un oggetto ResultContainer contenente il risultato dell'estrazione.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ResultContainer](../../resultcontainer/)
-* interfaccia [IPluginOptions](../../ipluginoptions/)
-* classe [PdfExtractor](../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

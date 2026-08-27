@@ -1,7 +1,7 @@
 ---
-title: TextSearchOptions.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TextSearchOptions. Inizializza una nuova istanza dell'oggetto TextSearchOptions. Specifica la modalità di utilizzo delle espressioni regolari
+title: "TextSearchOptions.TextSearchOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TextSearchOptions. Inizializza una nuova istanza dell'oggetto TextSearchOptions. Specifica la modalità di utilizzo delle espressioni regolari"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/textsearchoptions/textsearchoptions/
@@ -16,11 +16,11 @@ public TextSearchOptions(bool isRegularExpressionUsed)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| isRegularExpressionUsed | Boolean | Valore che indica che viene utilizzata un'espressione regolare. |
+| isRegularExpressionUsed | Boolean | Valore che indica che l'espressione regolare è utilizzata. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextSearchOptions](../)
+* class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,12 +36,12 @@ public TextSearchOptions(Rectangle rectangle)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| rectangle | Rectangle | Rettangolo che include il testo estratto. |
+| rettangolo | Rectangle | Rectangle che include il testo estratto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [TextSearchOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,12 +57,14 @@ public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| rectangle | Rectangle | Rettangolo che include il testo estratto. |
-| isRegularExpressionUsed | Boolean | Valore che indica che viene utilizzata un'espressione regolare. |
+| rettangolo | Rectangle | Rectangle che include il testo estratto. |
+| isRegularExpressionUsed | Boolean | Valore che indica che l'espressione regolare è utilizzata. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [TextSearchOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

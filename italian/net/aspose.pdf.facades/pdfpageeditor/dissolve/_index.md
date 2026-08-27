@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.DISSOLVE
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PdfPageEditor. La pagina vecchia si dissolva.
+title: "PdfPageEditor.DISSOLVE"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PdfPageEditor. La vecchia pagina si dissolve"
 type: docs
 weight: 230
 url: /it/net/aspose.pdf.facades/pdfpageeditor/dissolve/
 ---
-## Campo PdfPageEditor.DISSOLVE
+## PdfPageEditor.DISSOLVE field
 
 La vecchia pagina si dissolve
 
@@ -14,8 +14,10 @@ La vecchia pagina si dissolve
 public const int DISSOLVE;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

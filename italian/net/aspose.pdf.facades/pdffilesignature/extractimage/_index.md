@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSignature. Estrae l'immagine delle firme
+title: "PdfFileSignature.ExtractImage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSignature. Estrae l'immagine delle firme"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.facades/pdffilesignature/extractimage/
 ---
-## Metodo PdfFileSignature.ExtractImage
+## PdfFileSignature.ExtractImage method
 
 Estrae l'immagine della firma.
 
@@ -18,13 +18,15 @@ public Stream ExtractImage(SignatureName signName)
 | --- | --- | --- |
 | signName | SignatureName | Il nome della firma. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Se l'immagine è stata trovata con successo, restituisce un oggetto stream; altrimenti, null.
+Se l'immagine è stata trovata con successo, restituisce l'oggetto stream; altrimenti, null.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureName](../../signaturename/)
-* classe [PdfFileSignature](../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

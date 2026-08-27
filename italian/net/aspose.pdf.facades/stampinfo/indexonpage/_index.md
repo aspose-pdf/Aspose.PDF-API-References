@@ -1,21 +1,23 @@
 ---
-title: StampInfo.IndexOnPage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà StampInfo. Ottiene l'indice del timbro sulla pagina
+title: "StampInfo.IndexOnPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StampInfo. Ottiene l'indice del timbro nella pagina"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.facades/stampinfo/indexonpage/
 ---
-## Proprietà StampInfo.IndexOnPage
+## StampInfo.IndexOnPage property
 
-Ottiene l'indice del timbro sulla pagina.
+Restituisce l'indice del timbro nella pagina.
 
 ```csharp
 public int IndexOnPage { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StampInfo](../)
+* class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

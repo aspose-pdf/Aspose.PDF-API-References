@@ -1,21 +1,23 @@
 ---
-title: FormComboBoxFieldSetOptions.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormComboBoxFieldSetOptions. Ottiene/imposta il valore per determinare la proprietà Selected per il campo modificato se sarà impostato
+title: "FormComboBoxFieldSetOptions.Selected"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormComboBoxFieldSetOptions. Ottiene/Imposta il valore per determinare la proprietà Selected per il campo modificato se verrà impostata"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.plugins/formcomboboxfieldsetoptions/selected/
 ---
-## Proprietà FormComboBoxFieldSetOptions.Selected
+## FormComboBoxFieldSetOptions.Selected property
 
-Ottiene/imposta il valore per determinare la proprietà Selected per il campo modificato (se sarà impostato).
+Ottiene/imposta il valore per determinare la proprietà Selected per il campo modificato (se verrà impostata).
 
 ```csharp
 public int? Selected { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormComboBoxFieldSetOptions](../)
+* class [FormComboBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

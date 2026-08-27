@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.AddRange
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XmpPdfAExtensionValueType. Aggiunge l'intervallo di campi
+title: "XmpPdfAExtensionValueType.AddRange"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "XmpPdfAExtensionValueType metodo. Aggiunge l'intervallo di campi"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/xmppdfaextensionvaluetype/addrange/
 ---
-## Metodo XmpPdfAExtensionValueType.AddRange
+## XmpPdfAExtensionValueType.AddRange method
 
 Aggiunge l'intervallo di campi.
 
@@ -16,11 +16,13 @@ public void AddRange(XmpPdfAExtensionField[] fields)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fields | XmpPdfAExtensionField[] | I campi da aggiungere. |
+| campi | XmpPdfAExtensionField[] | I campi da aggiungere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* classe [XmpPdfAExtensionValueType](../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

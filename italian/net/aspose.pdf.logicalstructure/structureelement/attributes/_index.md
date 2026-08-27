@@ -1,12 +1,12 @@
 ---
-title: StructureElement.Attributes
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà StructureElement. Ottiene l'oggetto StructureAttributeCollection
+title: "StructureElement.Attributes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StructureElement. Ottiene l'oggetto StructureAttributeCollection"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.logicalstructure/structureelement/attributes/
 ---
-## Proprietà StructureElement.Attributes
+## StructureElement.Attributes property
 
 Ottiene l'oggetto StructureAttributeCollection.
 
@@ -14,13 +14,15 @@ Ottiene l'oggetto StructureAttributeCollection.
 public StructureAttributeCollection Attributes { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Oggetto StructureAttributeCollection.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureAttributeCollection](../../structureattributecollection/)
-* classe [StructureElement](../)
+* class [StructureAttributeCollection](../../structureattributecollection/)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

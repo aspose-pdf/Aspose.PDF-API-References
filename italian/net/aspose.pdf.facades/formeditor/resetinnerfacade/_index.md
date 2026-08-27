@@ -1,21 +1,23 @@
 ---
-title: FormEditor.ResetInnerFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormEditor. Ripristina tutti gli attributi visivi della facciata interna a valore vuoto
+title: "FormEditor.ResetInnerFacade"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FormEditor. Reimposta tutti gli attributi visivi della facciata interna a valore vuoto"
 type: docs
 weight: 250
 url: /it/net/aspose.pdf.facades/formeditor/resetinnerfacade/
 ---
-## Metodo FormEditor.ResetInnerFacade
+## FormEditor.ResetInnerFacade method
 
-Ripristina tutti gli attributi visivi della facciata interna a valore vuoto.
+Reimposta tutti gli attributi visivi della facciata interna a valore vuoto.
 
 ```csharp
 public void ResetInnerFacade()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

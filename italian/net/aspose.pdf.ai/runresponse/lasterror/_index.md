@@ -1,22 +1,24 @@
 ---
-title: RunResponse.LastError
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RunResponse. Ottiene o imposta l'ultimo errore associato a questa esecuzione. Sarà nullo se non ci sono errori
+title: "RunResponse.LastError"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunResponse. Ottiene o imposta l'ultimo errore associato a questa esecuzione. Sarà null se non ci sono errori"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.ai/runresponse/lasterror/
 ---
-## Proprietà RunResponse.LastError
+## RunResponse.LastError property
 
-Ottiene o imposta l'ultimo errore associato a questa esecuzione. Sarà nullo se non ci sono errori.
+Ottiene o imposta l'ultimo errore associato a questo run. Sarà null se non ci sono errori.
 
 ```csharp
 public LastError LastError { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LastError](../../lasterror/)
-* classe [RunResponse](../)
+* class [LastError](../../lasterror/)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

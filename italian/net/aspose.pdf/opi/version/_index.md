@@ -1,12 +1,12 @@
 ---
-title: Opi.Version
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Opi. Ottiene la versione di OPI a cui si riferisce questo dizionario
+title: "Opi.Version"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Opi. Ottiene la versione di OPI a cui si riferisce questo dizionario"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/opi/version/
 ---
-## Proprietà Opi.Version
+## Opi.Version property
 
 Ottiene la versione di OPI a cui si riferisce questo dizionario.
 
@@ -14,8 +14,10 @@ Ottiene la versione di OPI a cui si riferisce questo dizionario.
 public string Version { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Opi](../)
+* class [Opi](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ParagraphAbsorberOptions.SectionUnbreakingHorizontalOverride
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di ParagraphAbsorberOptions. Ottiene o imposta la lunghezza massima della zona con livello di riempimento zero che non sarà trattata come un vero e proprio interruzione di sezione orizzontale come frazione della larghezza / altezza di una pagina. Il valore predefinito è 0.005
+title: "ParagraphAbsorberOptions.SectionUnbreakingHorizontalOverride"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ParagraphAbsorberOptions. Ottiene o imposta la lunghezza massima della zona con livello di riempimento zero che non sarà trattata come interruzione di sezione orizzontale reale, espressa come frazione della larghezza/altezza di una pagina. Il valore predefinito è 0.005"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/paragraphabsorberoptions/sectionunbreakinghorizontaloverride/
 ---
-## Proprietà ParagraphAbsorberOptions.SectionUnbreakingHorizontalOverride
+## ParagraphAbsorberOptions.SectionUnbreakingHorizontalOverride property
 
-Ottiene o imposta la lunghezza massima della zona con 'livello di riempimento zero' che non sarà trattata come un vero e proprio interruzione di sezione orizzontale (come frazione della larghezza / altezza di una pagina). Il valore predefinito è 0.005.
+Ottiene o imposta la lunghezza massima della zona con 'livello di riempimento zero' che non sarà considerata come interruzione di sezione orizzontale reale (come frazione della larghezza/altezza di una pagina). Il valore predefinito è 0.005.
 
 ```csharp
 public double SectionUnbreakingHorizontalOverride { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ParagraphAbsorberOptions](../)
+* class [ParagraphAbsorberOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

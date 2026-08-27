@@ -1,12 +1,12 @@
 ---
-title: DocumentCollection.DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di DocumentCollection. Il costruttore predefinito
+title: "DocumentCollection.DocumentCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocumentCollection costruttore. Il costruttore predefinito."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/documentcollection/documentcollection/
 ---
-## Costruttore di DocumentCollection
+## DocumentCollection constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public DocumentCollection()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentCollection](../)
+* class [DocumentCollection](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

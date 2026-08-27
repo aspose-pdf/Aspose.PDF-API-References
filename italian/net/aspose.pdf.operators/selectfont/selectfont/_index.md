@@ -1,12 +1,12 @@
 ---
-title: SelectFont.SelectFont
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SelectFont. Inizializza l'operatore
+title: "SelectFont.SelectFont"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SelectFont. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/selectfont/selectfont/
 ---
-## Costruttore di SelectFont
+## SelectFont constructor
 
 Inizializza l'operatore.
 
@@ -16,11 +16,13 @@ public SelectFont(string resName, double size)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| resName | String | Il nome della risorsa del font, ad esempio F1, F2 ecc. |
-| size | Double | Dimensione del font. |
+| resName | String | Il nome della risorsa del carattere, ad es. F1, F2 ecc. |
+| dimensione | Double | Dimensione del carattere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SelectFont](../)
+* class [SelectFont](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

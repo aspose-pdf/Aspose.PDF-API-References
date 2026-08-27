@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo AppearanceDictionary. Rimuove tutti gli elementi dal dizionario
+title: "AppearanceDictionary.Clear"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo AppearanceDictionary. Rimuove tutti gli elementi dal dizionario"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.annotations/appearancedictionary/clear/
 ---
-## Metodo AppearanceDictionary.Clear
+## AppearanceDictionary.Clear method
 
 Rimuove tutti gli elementi dal dizionario.
 
@@ -14,8 +14,10 @@ Rimuove tutti gli elementi dal dizionario.
 public void Clear()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AppearanceDictionary](../)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

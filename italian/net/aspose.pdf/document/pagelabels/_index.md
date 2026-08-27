@@ -1,12 +1,12 @@
 ---
-title: Document.PageLabels
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene le etichette delle pagine nel documento
+title: "Document.PageLabels"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene le etichette di pagina nel documento"
 type: docs
-weight: 440
+weight: 460
 url: /it/net/aspose.pdf/document/pagelabels/
 ---
-## Proprietà Document.PageLabels
+## Document.PageLabels property
 
 Ottiene le etichette delle pagine nel documento.
 
@@ -14,9 +14,11 @@ Ottiene le etichette delle pagine nel documento.
 public PageLabelCollection PageLabels { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageLabelCollection](../../pagelabelcollection/)
-* classe [Document](../)
+* class [PageLabelCollection](../../pagelabelcollection/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

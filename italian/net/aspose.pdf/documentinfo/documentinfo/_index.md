@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.DocumentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di DocumentInfo. Inizializza l'istanza di DocumentInfo
+title: "DocumentInfo.DocumentInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore DocumentInfo. Inizializza un'istanza di DocumentInfo"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/documentinfo/documentinfo/
 ---
-## Costruttore di DocumentInfo
+## DocumentInfo constructor
 
-Inizializza l'istanza di DocumentInfo.
+Inizializza un'istanza di DocumentInfo.
 
 ```csharp
 public DocumentInfo(Document document)
@@ -18,9 +18,11 @@ public DocumentInfo(Document document)
 | --- | --- | --- |
 | document | Document | Le informazioni di questo documento verranno utilizzate per l'inizializzazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../document/)
-* classe [DocumentInfo](../)
+* class [Document](../../document/)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: Class BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: La classe Aspose.Pdf.BoundsOutOfRangeException. Rappresenta un'eccezione che si verifica quando un elemento non si adatta alle dimensioni del contenitore fornite
+title: "Classe BoundsOutOfRangeException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.BoundsOutOfRangeException. Rappresenta un'eccezione che si verifica quando un elemento non si adatta alle dimensioni del contenitore specificato"
 type: docs
-weight: 2940
+weight: 3050
 url: /it/net/aspose.pdf/boundsoutofrangeexception/
 ---
 ## BoundsOutOfRangeException class
 
-Rappresenta un'eccezione che si verifica quando un elemento non si adatta alle dimensioni del contenitore fornite.
+Rappresenta un'eccezione che si verifica quando un elemento non si adatta alle dimensioni del contenitore specificato.
 
 ```csharp
 public class BoundsOutOfRangeException : PdfException
 ```
 
-## Constructors
+## Costruttori
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor)() | Inizializza una nuova istanza della classe `BoundsOutOfRangeException`. |
 | [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | Inizializza una nuova istanza della classe `BoundsOutOfRangeException` con un messaggio di errore specificato. |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | Inizializza una nuova istanza della classe `BoundsOutOfRangeException` con un messaggio di errore specificato e dimensioni dell'elemento. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | Inizializza una nuova istanza della classe `BoundsOutOfRangeException` con un messaggio di errore specificato e le dimensioni dell'elemento. |
 
-### See Also
+### Vedi anche
 
 * class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

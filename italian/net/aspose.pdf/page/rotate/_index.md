@@ -1,12 +1,12 @@
 ---
-title: Page.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Page. Ottiene o imposta la rotazione della pagina
+title: "Page.Rotate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene o imposta la rotazione della pagina"
 type: docs
 weight: 250
 url: /it/net/aspose.pdf/page/rotate/
 ---
-## Proprietà Page.Rotate
+## Page.Rotate property
 
 Ottiene o imposta la rotazione della pagina.
 
@@ -23,9 +23,11 @@ Document document = new Document("sample.pdf");
 Console.WriteLine(document.Pages[1].Rotate);
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [Rotation](../../rotation/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

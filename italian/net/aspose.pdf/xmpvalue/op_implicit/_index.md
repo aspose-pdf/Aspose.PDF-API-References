@@ -1,14 +1,14 @@
 ---
-title: XmpValue.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XmpValue. Converte stringa in XmpValue
+title: "XmpValue.op_Implicit"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XmpValue. Converte una stringa in XmpValue"
 type: docs
 weight: 250
 url: /it/net/aspose.pdf/xmpvalue/op_implicit/
 ---
-## operatore implicito {#op_implicit_4}
+## implicit operator {#op_implicit_4}
 
-Converte stringa in XmpValue.
+Converte una stringa in XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(string value)
@@ -16,7 +16,7 @@ public static implicit operator XmpValue(string value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | String | Valore da convertire. |
+| valore | String | Valore da convertire. |
 
 ### Valore di ritorno
 
@@ -24,15 +24,15 @@ XmlValue.
 
 ### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## operatore implicito {#op_implicit_1}
+## implicit operator {#op_implicit_1}
 
-Converte intero in XmpValue.
+Converte un intero in XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(int value)
@@ -40,7 +40,7 @@ public static implicit operator XmpValue(int value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | Int32 | Valore da convertire. |
+| valore | Int32 | Valore da convertire. |
 
 ### Valore di ritorno
 
@@ -48,15 +48,15 @@ XmlValue.
 
 ### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## operatore implicito {#op_implicit}
+## implicit operator {#op_implicit}
 
-Converte double in XmpValue.
+Converte un double in XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(double value)
@@ -64,7 +64,7 @@ public static implicit operator XmpValue(double value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | Double | Valore da convertire. |
+| valore | Double | Valore da convertire. |
 
 ### Valore di ritorno
 
@@ -72,15 +72,15 @@ XmlValue.
 
 ### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## operatore implicito {#op_implicit_2}
+## implicit operator {#op_implicit_2}
 
-Converte DateTime in XmpValue.
+Converte un DateTime in XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(DateTime value)
@@ -88,7 +88,7 @@ public static implicit operator XmpValue(DateTime value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | DateTime | Valore da convertire. |
+| valore | DateTime | Valore da convertire. |
 
 ### Valore di ritorno
 
@@ -96,15 +96,15 @@ XmlValue.
 
 ### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## operatore implicito {#op_implicit_3}
+## implicit operator {#op_implicit_3}
 
-Converte array in XmpValue.
+Converte un array in XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(object[] value)
@@ -112,7 +112,7 @@ public static implicit operator XmpValue(object[] value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | Object[] | Valore da convertire. |
+| valore | Object[] | Valore da convertire. |
 
 ### Valore di ritorno
 
@@ -120,6 +120,8 @@ XmlValue.
 
 ### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragmentCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextFragmentCollection. Copia l'intera collezione in un Array unidimensionale compatibile a partire dall'indice specificato dell'array di destinazione
+title: "TextFragmentCollection.CopyTo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextFragmentCollection. Copia l'intera collezione in un Array unidimensionale compatibile a partire dall'indice specificato dell'array di destinazione"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.text/textfragmentcollection/copyto/
 ---
-## Metodo TextFragmentCollection.CopyTo
+## TextFragmentCollection.CopyTo method
 
-Copia l'intera collezione in un Array unidimensionale compatibile, a partire dall'indice specificato dell'array di destinazione
+Copia l'intera raccolta in un Array monodimensionale compatibile, iniziando all'indice specificato dell'array di destinazione
 
 ```csharp
 public void CopyTo(TextFragment[] array, int index)
@@ -16,12 +16,14 @@ public void CopyTo(TextFragment[] array, int index)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| array | TextFragment[] | Array di oggetti che verranno copiati. |
-| index | Int32 | Indice di partenza da cui inizierà la copia. |
+| array | TextFragment[] | Array di oggetti da copiare. |
+| index | Int32 | Indice di partenza da cui avverrà la copia. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragment](../../textfragment/)
-* classe [TextFragmentCollection](../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

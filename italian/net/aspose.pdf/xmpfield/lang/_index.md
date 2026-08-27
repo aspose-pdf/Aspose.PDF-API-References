@@ -1,12 +1,12 @@
 ---
-title: XmpField.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpField. Ottiene il qualificatore xmllang
+title: "XmpField.Lang"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XmpField. Restituisce il qualificatore xmllang"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/xmpfield/lang/
 ---
-## Proprietà XmpField.Lang
+## XmpField.Lang property
 
 Ottiene il qualificatore xml:lang.
 
@@ -14,8 +14,10 @@ Ottiene il qualificatore xml:lang.
 public static XmpField Lang { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

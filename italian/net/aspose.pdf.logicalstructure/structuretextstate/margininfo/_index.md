@@ -1,22 +1,24 @@
 ---
-title: StructureTextState.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di StructureTextState. Ottiene o imposta il margine per l'elemento di struttura del blocco
+title: "StructureTextState.MarginInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTextState proprietà. Ottiene o imposta il margine per l'elemento di struttura a blocco"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.logicalstructure/structuretextstate/margininfo/
 ---
-## Proprietà StructureTextState.MarginInfo
+## StructureTextState.MarginInfo property
 
-Ottiene o imposta il margine per l'elemento di struttura del blocco.
+Ottiene o imposta il margine per l'elemento di struttura a blocco.
 
 ```csharp
 public MarginInfo MarginInfo { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../../../aspose.pdf/margininfo/)
-* classe [StructureTextState](../)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

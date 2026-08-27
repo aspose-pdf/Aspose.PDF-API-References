@@ -1,12 +1,12 @@
 ---
-title: SetSpacingMoveToNextLineShowText.SetSpacingMoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SetSpacingMoveToNextLineShowText. Inizializza l'operatore
+title: "SetSpacingMoveToNextLineShowText.SetSpacingMoveToNextLineShowText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SetSpacingMoveToNextLineShowText. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/setspacingmovetonextlineshowtext/
 ---
-## Costruttore di SetSpacingMoveToNextLineShowText
+## SetSpacingMoveToNextLineShowText constructor
 
 Inizializza l'operatore.
 
@@ -18,10 +18,12 @@ public SetSpacingMoveToNextLineShowText(double aw, double ac, string text)
 | --- | --- | --- |
 | aw | Double | Spaziatura delle parole. |
 | ac | Double | Spaziatura dei caratteri. |
-| text | String | Valore del testo. |
+| testo | String | Valore del testo. |
 
 ### Vedi anche
 
-* classe [SetSpacingMoveToNextLineShowText](../)
+* class [SetSpacingMoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

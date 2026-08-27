@@ -1,21 +1,23 @@
 ---
-title: Row.IsRowBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Row. Ottiene se la riga può essere spezzata tra due pagine
+title: "Row.IsRowBroken"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Row. Indica se la riga può essere interrotta tra due pagine"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/row/isrowbroken/
 ---
-## Proprietà Row.IsRowBroken
+## Row.IsRowBroken property
 
-Ottiene se la riga può essere spezzata tra due pagine
+Ottiene se la riga può essere interrotta tra due pagine
 
 ```csharp
 public bool IsRowBroken { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Row](../)
+* class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

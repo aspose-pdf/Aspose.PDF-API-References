@@ -1,22 +1,24 @@
 ---
-title: Graph.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del grafico. Ottiene o imposta un oggetto GraphInfo che indica le informazioni sul grafico come colore, larghezza della linea, ecc.
+title: "Graph.GraphInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Graph. Ottiene o imposta un oggetto GraphInfo che indica le informazioni del grafico, come colore, spessore della linea, ecc."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.drawing/graph/graphinfo/
 ---
-## Proprietà Graph.GraphInfo
+## Graph.GraphInfo property
 
-Ottiene o imposta un oggetto `GraphInfo` che indica le informazioni sul grafico, come colore, larghezza della linea, ecc.
+Ottiene o imposta un oggetto `GraphInfo` che indica le informazioni del grafico, come colore, spessore della linea, ecc.
 
 ```csharp
 public GraphInfo GraphInfo { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphInfo](../../../aspose.pdf/graphinfo/)
-* classe [Graph](../)
+* class [GraphInfo](../../../aspose.pdf/graphinfo/)
+* class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

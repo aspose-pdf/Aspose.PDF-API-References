@@ -1,12 +1,12 @@
 ---
-title: Enum AnnotationStateModel
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.AnnotationStateModel enum. The state model corresponding to state of annotation
+title: "Enum AnnotationStateModel"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Annotations.AnnotationStateModel. Il modello di stato corrispondente allo stato dell'annotazione."
 type: docs
-weight: 1470
+weight: 1560
 url: /it/net/aspose.pdf.annotations/annotationstatemodel/
 ---
-## Enumerazione AnnotationStateModel
+## AnnotationStateModel enumeration
 
 Il modello di stato corrispondente allo stato dell'annotazione.
 
@@ -19,10 +19,12 @@ public enum AnnotationStateModel
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | Undefined | `0` | Modello di stato non definito. |
-| Marked | `1` | L'annotazione è stata contrassegnata (o deselezionata) dall'utente. |
-| Review | `2` | L'annotazione è stata esaminata (accettata, rifiutata, annullata, completata, nessuna) dall'utente. |
+| Marked | `1` | L'annotazione è stata contrassegnata (o decontrassegnata) dall'utente. |
+| Review | `2` | L'annotazione è stata revisionata (accettata, rifiutata, annullata, completata, nessuna) dall'utente. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

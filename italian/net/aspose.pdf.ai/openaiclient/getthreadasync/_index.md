@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Recupera i dettagli di un thread specifico in modo asincrono
+title: "OpenAIClient.GetThreadAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Recupera i dettagli di un thread specifico in modo asincrono"
 type: docs
-weight: 300
+weight: 310
 url: /it/net/aspose.pdf.ai/openaiclient/getthreadasync/
 ---
-## Metodo OpenAIClient.GetThreadAsync
+## OpenAIClient.GetThreadAsync method
 
 Recupera i dettagli di un thread specifico in modo asincrono.
 
@@ -20,7 +20,7 @@ public Task<ThreadResponse> GetThreadAsync(string threadId,
 | threadId | String | L'ID del thread da recuperare. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene i dettagli del thread.
 
@@ -28,11 +28,13 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ThreadResponse](../../threadresponse/)
-* classe [OpenAIClient](../)
+* class [ThreadResponse](../../threadresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

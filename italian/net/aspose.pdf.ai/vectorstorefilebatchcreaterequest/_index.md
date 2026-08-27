@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreFileBatchCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest class. Create a vector store file batch request
+title: "Classe VectorStoreFileBatchCreateRequest"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest classe. Crea una richiesta batch di file per il vector store"
 type: docs
-weight: 1280
+weight: 1370
 url: /it/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/
 ---
-## Classe VectorStoreFileBatchCreateRequest
+## VectorStoreFileBatchCreateRequest class
 
-Crea una richiesta di batch per file di archiviazione vettoriale.
+Crea una richiesta di batch di file per il vector store.
 
 ```csharp
 public class VectorStoreFileBatchCreateRequest
@@ -24,9 +24,11 @@ public class VectorStoreFileBatchCreateRequest
 
 | Nome | Descrizione |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/) { get; set; } | Ottiene o imposta un elenco di ID file che l'archiviazione vettoriale dovrebbe utilizzare. Utile per strumenti come file_search che possono accedere ai file. |
+| [FileIds](../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/) { get; set; } | Ottiene o imposta un elenco di ID file che il vector store dovrebbe utilizzare. Utile per strumenti come file_search che possono accedere ai file. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

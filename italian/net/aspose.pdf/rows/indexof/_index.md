@@ -1,12 +1,12 @@
 ---
-title: Rows.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Rows. Restituisce l'indice della riga nella collezione
+title: "Rows.IndexOf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Rows. Restituisce l'indice della riga nella collezione"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/rows/indexof/
 ---
-## Metodo Rows.IndexOf
+## Rows.IndexOf method
 
 Restituisce l'indice della riga nella collezione.
 
@@ -18,13 +18,15 @@ public int IndexOf(Row row)
 | --- | --- | --- |
 | row | Row | La riga esistente. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'indice della riga
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Row](../../row/)
-* classe [Rows](../)
+* class [Row](../../row/)
+* class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

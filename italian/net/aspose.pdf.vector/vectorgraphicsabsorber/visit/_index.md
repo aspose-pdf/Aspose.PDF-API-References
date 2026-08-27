@@ -1,14 +1,14 @@
 ---
-title: Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Esegue la ricerca nella pagina specificata.
+title: "Visita"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Esegue la ricerca sulla pagina specificata."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.vector/vectorgraphicsabsorber/visit/
 ---
-## Metodo VectorGraphicsAbsorber.Visit
+## VectorGraphicsAbsorber.Visit method
 
-Esegue la ricerca nella pagina specificata.
+Esegue la ricerca sulla pagina specificata.
 
 ```csharp
 public void Visit(Page page)
@@ -16,12 +16,12 @@ public void Visit(Page page)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Oggetto pagina del documento PDF. |
+| pagina | Page | Oggetto pagina del documento PDF. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page)
-* classe [VectorGraphicsAbsorber](../../vectorgraphicsabsorber)
+* class [Page](../../../aspose.pdf/page)
+* class [VectorGraphicsAbsorber](../../vectorgraphicsabsorber)
 * namespace [Aspose.Pdf.Vector](../../vectorgraphicsabsorber)
 * assembly [Aspose.PDF](../../../)
 

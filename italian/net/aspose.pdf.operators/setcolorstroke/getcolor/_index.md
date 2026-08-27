@@ -1,12 +1,12 @@
 ---
-title: SetColorStroke.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SetColorStroke. Restituisce il colore specificato dall'operatore
+title: "SetColorStroke.getColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SetColorStroke. Restituisce il colore specificato dall'operatore"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.operators/setcolorstroke/getcolor/
 ---
-## Metodo SetColorStroke.getColor
+## SetColorStroke.getColor method
 
 Restituisce il colore specificato dall'operatore.
 
@@ -14,12 +14,14 @@ Restituisce il colore specificato dall'operatore.
 public override Color getColor()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Colore specificato dall'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

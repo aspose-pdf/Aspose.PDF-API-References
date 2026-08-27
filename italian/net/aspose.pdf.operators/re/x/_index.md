@@ -1,12 +1,12 @@
 ---
-title: Re.X
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Re. Coordinata X del lato più sinistro del rettangolo
+title: "Re.X"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Re. Coordinata X del lato più a sinistra del rettangolo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.operators/re/x/
 ---
-## Proprietà Re.X
+## Re.X property
 
 Coordinata X del lato più sinistro del rettangolo.
 
@@ -14,8 +14,10 @@ Coordinata X del lato più sinistro del rettangolo.
 public double X { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Re](../)
+* class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

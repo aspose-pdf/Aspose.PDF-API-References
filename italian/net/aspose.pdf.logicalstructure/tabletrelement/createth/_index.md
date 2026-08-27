@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.CreateTH
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TableTRElement. Crea TableTHElement e lo aggiunge alla tabella corrente
+title: "TableTRElement.CreateTH"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TableTRElement. Crea TableTHElement e lo aggiunge alla tabella corrente."
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.logicalstructure/tabletrelement/createth/
 ---
-## Metodo TableTRElement.CreateTH
+## TableTRElement.CreateTH method
 
 Crea [`TableTHElement`](../../tablethelement/) e lo aggiunge alla tabella corrente.
 
@@ -14,13 +14,15 @@ Crea [`TableTHElement`](../../tablethelement/) e lo aggiunge alla tabella corren
 public TableTHElement CreateTH()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elemento di struttura creato.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TableTHElement](../../tablethelement/)
-* classe [TableTRElement](../)
+* class [TableTHElement](../../tablethelement/)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

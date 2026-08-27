@@ -1,21 +1,23 @@
 ---
-title: ActionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ActionCollection. Pulisci la collezione
+title: "ActionCollection.Clear"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ActionCollection. Cancella la collezione"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.annotations/actioncollection/clear/
 ---
-## Metodo ActionCollection.Clear
+## ActionCollection.Clear method
 
-Pulisci la collezione.
+Svuota la collezione.
 
 ```csharp
 public void Clear()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ActionCollection](../)
+* class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

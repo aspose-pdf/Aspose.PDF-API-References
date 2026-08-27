@@ -1,22 +1,24 @@
 ---
-title: RadioButtonField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RadioButtonField. Stile della casella di campo
+title: "RadioButtonField.Style"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RadioButtonField. Stile della casella del campo."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.forms/radiobuttonfield/style/
 ---
-## Proprietà RadioButtonField.Style
+## RadioButtonField.Style property
 
-Stile della casella di campo.
+Stile della casella del campo.
 
 ```csharp
 public BoxStyle Style { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BoxStyle](../../boxstyle/)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TeXFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TeXFragment. Clona il frammento
+title: "TeXFragment.Clone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TeXFragment. Clona il frammento"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/texfragment/clone/
 ---
-## Metodo TeXFragment.Clone
+## TeXFragment.Clone method
 
 Clona il frammento.
 
@@ -20,6 +20,8 @@ Frammento clonato.
 
 ### Vedi anche
 
-* classe [TeXFragment](../)
+* class [TeXFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

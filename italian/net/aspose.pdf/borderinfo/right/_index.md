@@ -1,22 +1,24 @@
 ---
-title: BorderInfo.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BorderInfo. Ottiene o imposta un oggetto che indica il lato destro del bordo
+title: "BorderInfo.Right"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "BorderInfo proprietà. Ottiene o imposta un oggetto che indica il bordo destro"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/borderinfo/right/
 ---
-## Proprietà BorderInfo.Right
+## BorderInfo.Right property
 
-Ottiene o imposta un oggetto che indica il lato destro del bordo.
+Ottiene o imposta un oggetto che indica il bordo destro.
 
 ```csharp
 public GraphInfo Right { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphInfo](../../graphinfo/)
-* classe [BorderInfo](../)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

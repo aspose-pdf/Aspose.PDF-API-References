@@ -1,30 +1,32 @@
 ---
-title: PdfAOptionsBase.SymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfAOptionsBase. Ottiene o imposta la strategia per la codifica dei font simbolici durante la conversione in formato PDF/A
+title: "PdfAOptionsBase.SymbolicFontEncodingStrategy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfAOptionsBase proprietà. Ottiene o imposta la strategia per la codifica dei font simbolici durante la conversione al formato PDF/A."
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.plugins/pdfaoptionsbase/symbolicfontencodingstrategy/
 ---
-## Proprietà PdfAOptionsBase.SymbolicFontEncodingStrategy
+## PdfAOptionsBase.SymbolicFontEncodingStrategy property
 
-Ottiene o imposta la strategia per la codifica dei font simbolici durante la conversione in formato PDF/A.
+Ottiene o imposta la strategia per la codifica dei font simbolici durante la conversione al formato PDF/A.
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-La strategia di codifica del font simbolico.
+La strategia di codifica dei font simbolici.
 
 ## Osservazioni
 
-Questa proprietà consente di controllare quale sottotabella CMap verrebbe copiata nel documento risultante nei casi in cui il font simbolico TrueType originale nel documento sorgente contiene più sottotabelle CMap.
+Questa proprietà consente di controllare quale sotto-tabella CMap verrà copiata nel Document risultato nei casi in cui il font simbolico TrueType originale nel Document sorgente contenga più sotto-tabelle CMap.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfASymbolicFontEncodingStrategy](../../../aspose.pdf/pdfasymbolicfontencodingstrategy/)
-* classe [PdfAOptionsBase](../)
+* class [PdfASymbolicFontEncodingStrategy](../../../aspose.pdf/pdfasymbolicfontencodingstrategy/)
+* class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: HeaderFooter.IsClipExtraContent
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HeaderFooter. Ottiene o imposta se ritaglia contenuti extra
+title: "HeaderFooter.IsClipExtraContent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà HeaderFooter. Ottiene o imposta se ritaglia contenuti extra."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/headerfooter/isclipextracontent/
 ---
-## Proprietà HeaderFooter.IsClipExtraContent
+## HeaderFooter.IsClipExtraContent property
 
-Ottiene o imposta se ritaglia contenuti extra.
+Ottiene o imposta se ritaglia contenuto extra.
 
 ```csharp
 public bool IsClipExtraContent { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HeaderFooter](../)
+* class [HeaderFooter](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

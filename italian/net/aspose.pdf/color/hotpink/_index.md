@@ -1,12 +1,12 @@
 ---
-title: Color.HotPink
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFFF69B4
+title: "Color.HotPink"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema che ha un valore ARGB di c FFFF69B4"
 type: docs
 weight: 560
 url: /it/net/aspose.pdf/color/hotpink/
 ---
-## Proprietà Color.HotPink
+## Color.HotPink property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFFF69B4.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFFF69B4.
 public static Color HotPink { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Watermark. Rappresenta un watermark della pagina
+title: "Classe Watermark"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Watermark. Rappresenta una filigrana della pagina"
 type: docs
-weight: 11300
+weight: 11490
 url: /it/net/aspose.pdf/watermark/
 ---
-## Classe Watermark
+## Watermark class
 
-Rappresenta un watermark della pagina.
+Rappresenta una filigrana della pagina.
 
 ```csharp
 public class Watermark
@@ -18,8 +18,8 @@ public class Watermark
 
 | Nome | Descrizione |
 | --- | --- |
-| [Watermark](watermark/#constructor)(Image) | Inizializza un oggetto watermark con un'immagine. |
-| [Watermark](watermark/#constructor_1)(Image, Rectangle) | Inizializza un oggetto watermark con un'immagine e la sua posizione su una pagina. |
+| [Watermark](watermark/#constructor)(Image) | Inizializza un oggetto filigrana con un'immagine. |
+| [Watermark](watermark/#constructor_1)(Image, Rectangle) | Initializes a watermark object with an image and it's position on a page. |
 
 ## Proprietà
 
@@ -27,9 +27,11 @@ public class Watermark
 | --- | --- |
 | [Available](../../aspose.pdf/watermark/available/) { get; } | Ottiene un flag che indica se il watermark è presente. |
 | [Image](../../aspose.pdf/watermark/image/) { get; } | Ottiene un'immagine del watermark. |
-| [Position](../../aspose.pdf/watermark/position/) { get; } | Ottiene una posizione dell'immagine del watermark su una pagina. |
+| [Position](../../aspose.pdf/watermark/position/) { get; } | Ottiene la posizione dell'immagine del watermark su una pagina. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

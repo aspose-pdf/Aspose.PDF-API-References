@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.TBWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor field. TopBottom Wipe
+title: "PdfPageEditor.TBWIPE"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PdfPageEditor. Cancellazione dall'alto al basso"
 type: docs
 weight: 340
 url: /it/net/aspose.pdf.facades/pdfpageeditor/tbwipe/
 ---
-## Campo PdfPageEditor.TBWIPE
+## PdfPageEditor.TBWIPE field
 
-Wipe Dall'Alto in Basso
+Cancellazione alto-basso
 
 ```csharp
 public const int TBWIPE;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

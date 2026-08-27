@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.GetMethod
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SubmitFormAction. Se impostato, i nomi e i valori dei campi devono essere inviati utilizzando una richiesta HTTP GET
+title: "SubmitFormAction.GetMethod"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo SubmitFormAction. Se impostato, i nomi dei campi e i valori saranno inviati usando una richiesta HTTP GET."
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.annotations/submitformaction/getmethod/
 ---
-## Campo SubmitFormAction.GetMethod
+## SubmitFormAction.GetMethod field
 
-Se impostato, i nomi e i valori dei campi devono essere inviati utilizzando una richiesta HTTP GET.
+Se impostato, i nomi dei campi e i valori saranno inviati tramite una richiesta HTTP GET.
 
 ```csharp
 public const int GetMethod;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

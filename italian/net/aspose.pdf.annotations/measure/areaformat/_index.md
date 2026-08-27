@@ -1,22 +1,24 @@
 ---
-title: Measure.AreaFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Measure. Un array di formato numerico per la misurazione dell'area
+title: "Measure.AreaFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Measure. Un array di formati numerici per la misurazione dell'area"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/measure/areaformat/
 ---
-## Proprietà Measure.AreaFormat
+## Measure.AreaFormat property
 
-Un array di formato numerico per la misurazione dell'area.
+Un array di formati numerici per la misurazione dell'area.
 
 ```csharp
 public NumberFormatList AreaFormat { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [NumberFormatList](../../measure.numberformatlist/)
-* classe [Measure](../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

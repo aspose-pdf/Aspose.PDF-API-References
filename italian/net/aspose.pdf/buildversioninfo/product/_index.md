@@ -1,21 +1,23 @@
 ---
-title: BuildVersionInfo.Product
-second_title: Aspose.PDF for .NET API Reference
-description: BuildVersionInfo campo. Nome del Prodotto.
+title: "BuildVersionInfo.Product"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo BuildVersionInfo. Nome del prodotto"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/buildversioninfo/product/
 ---
-## Campo BuildVersionInfo.Product
+## BuildVersionInfo.Product field
 
-Nome del prodotto
+Nome Prodotto
 
 ```csharp
 public const string Product;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BuildVersionInfo](../)
+* class [BuildVersionInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

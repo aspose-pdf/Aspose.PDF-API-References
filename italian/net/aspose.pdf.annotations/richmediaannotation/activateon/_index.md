@@ -1,12 +1,12 @@
 ---
-title: RichMediaAnnotation.ActivateOn
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RichMediaAnnotation. Evento che attiva l'applicazione
+title: "RichMediaAnnotation.ActivateOn"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "RichMediaAnnotation proprietà. Evento che attiva l'applicazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/richmediaannotation/activateon/
 ---
-## Proprietà RichMediaAnnotation.ActivateOn
+## RichMediaAnnotation.ActivateOn property
 
 Evento che attiva l'applicazione.
 
@@ -14,9 +14,11 @@ Evento che attiva l'applicazione.
 public ActivationEvent ActivateOn { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ActivationEvent](../../richmediaannotation.activationevent/)
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Restituisce un enumeratore per l'intera collezione.
+title: "GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Restituisce un enumeratore per l'intera raccolta."
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.vector/subpathcollection/getenumerator/
 ---
 ## SubPathCollection.GetEnumerator method
 
-Restituisce un enumeratore per l'intera collezione.
+Restituisce un enumeratore per l'intera raccolta.
 
 ```csharp
 public IEnumerator<SubPath> GetEnumerator()
 ```
 
-### Return Value
+### Valore di ritorno
 
 Oggetto enumeratore.
 
-### See Also
+### Vedi anche
 
 * class [SubPath](../../subpath)
 * class [SubPathCollection](../../subpathcollection)

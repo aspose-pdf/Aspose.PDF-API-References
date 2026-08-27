@@ -1,12 +1,12 @@
 ---
-title: FontColor.Blue
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FontColor. Componente blu del colore
+title: "FontColor.Blue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FontColor. Componente blu del colore"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/fontcolor/blue/
 ---
-## Proprietà FontColor.Blue
+## FontColor.Blue property
 
 Componente blu del colore.
 
@@ -14,8 +14,10 @@ Componente blu del colore.
 public int Blue { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontColor](../)
+* class [FontColor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

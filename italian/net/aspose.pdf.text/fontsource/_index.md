@@ -1,20 +1,22 @@
 ---
-title: Class FontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.FontSource. Rappresenta una classe base per la sorgente dei caratteri
+title: "Classe FontSource"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "classe Aspose.Pdf.Text.FontSource. Rappresenta una classe base per la sorgente del font"
 type: docs
-weight: 10550
+weight: 10730
 url: /it/net/aspose.pdf.text/fontsource/
 ---
-## Classe FontSource
+## FontSource class
 
-Rappresenta una classe base per la sorgente dei caratteri.
+Rappresenta una classe base per la fonte del font.
 
 ```csharp
 public abstract class FontSource
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

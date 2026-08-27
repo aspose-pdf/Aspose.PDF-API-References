@@ -1,21 +1,23 @@
 ---
-title: Annotation.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'annotazione. Ottiene o imposta il nome dell'annotazione sulla pagina
+title: "Annotation.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Annotation. Ottiene o imposta il nome dell'annotazione nella pagina"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.annotations/annotation/name/
 ---
-## Proprietà Annotation.Name
+## Annotation.Name property
 
-Ottiene o imposta il nome dell'annotazione sulla pagina.
+Ottiene o imposta il nome dell'annotazione nella pagina.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

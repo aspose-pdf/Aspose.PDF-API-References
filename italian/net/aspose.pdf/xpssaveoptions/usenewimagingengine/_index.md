@@ -1,7 +1,7 @@
 ---
-title: UseNewImagingEngine
-second_title: Aspose.PDF for .NET API Reference
-description: Ottiene o imposta l'opzione UseNewImagingEngine.
+title: "UseNewImagingEngine"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Ottiene o imposta l'opzione UseNewImagingEngine."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/xpssaveoptions/usenewimagingengine/
@@ -14,7 +14,7 @@ Ottiene o imposta l'opzione UseNewImagingEngine.
 public bool UseNewImagingEngine { get; set; }
 ```
 
-### See Also
+### Vedi anche
 
 * class [XpsSaveOptions](../../xpssaveoptions)
 * namespace [Aspose.Pdf](../../xpssaveoptions)

@@ -1,21 +1,23 @@
 ---
-title: OutlineCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OutlineCollection. Ottiene un valore che indica se la collezione è di sola lettura
+title: "OutlineCollection.IsReadOnly"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di OutlineCollection. Ottiene un valore che indica se la collezione è di sola lettura"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/outlinecollection/isreadonly/
 ---
-## Proprietà OutlineCollection.IsReadOnly
+## OutlineCollection.IsReadOnly property
 
-Ottiene un valore che indica se la collezione è di sola lettura.
+Restituisce un valore che indica se la collezione è di sola lettura.
 
 ```csharp
 public override bool IsReadOnly { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineCollection](../)
+* class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

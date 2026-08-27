@@ -1,21 +1,23 @@
 ---
-title: TableCellElement.IsWordWrapped
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableCellElement. Ottiene o imposta il testo della cella a capo
+title: "TableCellElement.IsWordWrapped"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableCellElement. Ottiene o imposta il testo della cella a capo"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/
 ---
-## Proprietà TableCellElement.IsWordWrapped
+## TableCellElement.IsWordWrapped property
 
-Ottiene o imposta il testo della cella a capo.
+Ottiene o imposta il testo della cella con interruzione di riga.
 
 ```csharp
 public bool IsWordWrapped { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TableCellElement](../)
+* class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

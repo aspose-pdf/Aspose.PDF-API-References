@@ -1,22 +1,24 @@
 ---
-title: LineAnnotation.StartingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LineAnnotation. Ottiene o imposta lo stile di fine linea per il punto di partenza della linea
+title: "LineAnnotation.StartingStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LineAnnotation proprietà. Ottiene o imposta lo stile di terminazione della linea per il punto di inizio della linea"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.annotations/lineannotation/startingstyle/
 ---
-## Proprietà LineAnnotation.StileIniziale
+## LineAnnotation.StartingStyle property
 
-Ottiene o imposta lo stile di fine linea per il punto di partenza della linea.
+Ottiene o imposta lo stile di chiusura della linea per il punto di partenza della linea.
 
 ```csharp
 public LineEnding StartingStyle { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [LineEnding](../../lineending/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

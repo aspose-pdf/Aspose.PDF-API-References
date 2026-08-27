@@ -1,14 +1,14 @@
 ---
-title: IconFit.ScalingReasonToName
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IconFit. Converte l'oggetto motivo di scaling in nome
+title: "IconFit.ScalingReasonToName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IconFit. Converte l'oggetto del motivo di ridimensionamento in un nome"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.forms/iconfit/scalingreasontoname/
 ---
-## Metodo IconFit.ScalingReasonToName
+## IconFit.ScalingReasonToName method
 
-Converte l'oggetto motivo di scaling in nome.
+Converte l'oggetto del motivo di ridimensionamento in nome.
 
 ```csharp
 public static string ScalingReasonToName(ScalingReason reason)
@@ -16,11 +16,11 @@ public static string ScalingReasonToName(ScalingReason reason)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| reason | ScalingReason | Oggetto motivo di scaling da convertire. |
+| motivo | ScalingReason | Oggetto del motivo di ridimensionamento da convertire. |
 
 ### Valore di ritorno
 
-Nome del motivo di scaling.
+Nome del motivo di ridimensionamento.
 
 ### Vedi anche
 
@@ -28,3 +28,5 @@ Nome del motivo di scaling.
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

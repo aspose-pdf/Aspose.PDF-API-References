@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Role_cb
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Ruolo dell'attributo cb  Casella di controllo
+title: "AttributeName.Role_cb"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo AttributeName. Attributo Role cb  Casella di controllo"
 type: docs
 weight: 390
 url: /it/net/aspose.pdf.logicalstructure/attributename/role_cb/
 ---
-## Campo AttributeName.Role_cb
+## AttributeName.Role_cb field
 
-Ruolo dell'attributo: cb - Casella di controllo.
+Attributo Role: cb - Casella di controllo.
 
 ```csharp
 public static readonly AttributeName Role_cb;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

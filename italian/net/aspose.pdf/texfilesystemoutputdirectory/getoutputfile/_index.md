@@ -1,14 +1,14 @@
 ---
-title: TeXFileSystemOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TeXFileSystemOutputDirectory. Restituisce lo stream su cui scrivere
+title: "TeXFileSystemOutputDirectory.GetOutputFile"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TeXFileSystemOutputDirectory. Restituisce lo stream su cui scrivere"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/texfilesystemoutputdirectory/getoutputfile/
 ---
-## Metodo TeXFileSystemOutputDirectory.GetOutputFile
+## TeXFileSystemOutputDirectory.GetOutputFile method
 
-Restituisce lo stream su cui scrivere.
+Restituisce il flusso su cui scrivere.
 
 ```csharp
 public Stream GetOutputFile(string fileName, out string fullName)
@@ -16,15 +16,17 @@ public Stream GetOutputFile(string fileName, out string fullName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fileName | String | Il nome del file. |
+| fileName | String | Il nome file. |
 | fullName | String& | Il nome completo del file. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Lo stream.
+Il flusso.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TeXFileSystemOutputDirectory](../)
+* class [TeXFileSystemOutputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

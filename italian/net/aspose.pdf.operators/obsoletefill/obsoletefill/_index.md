@@ -1,12 +1,12 @@
 ---
-title: ObsoleteFill.ObsoleteFill
-second_title: Aspose.PDF for .NET API Reference
-description: ObsoleteFill constructor. Initializes operator
+title: "ObsoleteFill.ObsoleteFill"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ObsoleteFill. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/obsoletefill/obsoletefill/
 ---
-## Costruttore ObsoleteFill
+## ObsoleteFill constructor
 
 Inizializza l'operatore.
 
@@ -14,8 +14,10 @@ Inizializza l'operatore.
 public ObsoleteFill()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ObsoleteFill](../)
+* class [ObsoleteFill](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

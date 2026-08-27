@@ -1,12 +1,12 @@
 ---
-title: Form.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Ottiene l'enumerazione dei campi del modulo
+title: "Form.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Ottiene l'enumerazione dei campi del modulo"
 type: docs
-weight: 260
+weight: 280
 url: /it/net/aspose.pdf.forms/form/getenumerator/
 ---
-## Metodo Form.GetEnumerator
+## Form.GetEnumerator method
 
 Ottiene l'enumerazione dei campi del modulo.
 
@@ -20,7 +20,9 @@ Enumeratore dei campi.
 
 ### Vedi anche
 
-* classe [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* classe [Form](../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

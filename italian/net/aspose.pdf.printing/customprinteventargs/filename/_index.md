@@ -1,12 +1,12 @@
 ---
-title: CustomPrintEventArgs.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: Campo CustomPrintEventArgs. Ottiene il nome del file che viene stampato
+title: "CustomPrintEventArgs.FileName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo CustomPrintEventArgs. Ottiene il nome del file che viene stampato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.printing/customprinteventargs/filename/
 ---
-## Campo CustomPrintEventArgs.FileName
+## CustomPrintEventArgs.FileName field
 
 Ottiene il nome del file che viene stampato.
 
@@ -14,8 +14,10 @@ Ottiene il nome del file che viene stampato.
 public readonly string FileName;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CustomPrintEventArgs](../)
+* class [CustomPrintEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: MoveTextPositionSetLeading.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MoveTextPositionSetLeading. Coordinata Y della posizione del testo
+title: "MoveTextPositionSetLeading.Y"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MoveTextPositionSetLeading. Coordinata Y della posizione del testo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/movetextpositionsetleading/y/
 ---
-## Proprietà MoveTextPositionSetLeading.Y
+## MoveTextPositionSetLeading.Y property
 
 Coordinata Y della posizione del testo.
 
@@ -14,8 +14,10 @@ Coordinata Y della posizione del testo.
 public double Y { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MoveTextPositionSetLeading](../)
+* class [MoveTextPositionSetLeading](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

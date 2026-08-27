@@ -1,12 +1,12 @@
 ---
-title: PdfANonSpecificationFlags.PdfANonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfANonSpecificationFlags. Il costruttore predefinito
+title: "PdfANonSpecificationFlags.PdfANonSpecificationFlags"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfANonSpecificationFlags. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/pdfanonspecificationflags/pdfanonspecificationflags/
 ---
-## Costruttore di PdfANonSpecificationFlags
+## PdfANonSpecificationFlags constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public PdfANonSpecificationFlags()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfANonSpecificationFlags](../)
+* class [PdfANonSpecificationFlags](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

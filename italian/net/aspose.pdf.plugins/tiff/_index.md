@@ -1,14 +1,14 @@
 ---
-title: Class Tiff
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.Tiff. Rappresenta il plugin da Pdf a Tiff
+title: "Classe Tiff"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Plugins.Tiff. Rappresenta il plugin Pdf to Tiff"
 type: docs
-weight: 9410
+weight: 9560
 url: /it/net/aspose.pdf.plugins/tiff/
 ---
-## Classe Tiff
+## Tiff class
 
-Rappresenta il plugin da Pdf a Tiff.
+Rappresenta il plugin Pdf to Tiff.
 
 ```csharp
 public sealed class Tiff : PdfToImage
@@ -24,11 +24,13 @@ public sealed class Tiff : PdfToImage
 
 | Nome | Descrizione |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implementazione di . In realtà, non è necessario per . |
-| [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | Inizia l'elaborazione con i parametri specificati. |
+| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implementazione di . In realtà, non è necessaria per . |
+| [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | Avvia l'elaborazione con i parametri specificati. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfToImage](../pdftoimage/)
+* class [PdfToImage](../pdftoimage/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

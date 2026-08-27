@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber10Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Busta 10 ruotata 458 mm per 324 mm
+title: "PaperSizes.PrcEnvelopeNumber10Rotated"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Busta ruotata 10 458 mm per 324 mm"
 type: docs
 weight: 880
 url: /it/net/aspose.pdf.printing/papersizes/prcenvelopenumber10rotated/
 ---
-## Campo PaperSizes.PrcEnvelopeNumber10Rotated
+## PaperSizes.PrcEnvelopeNumber10Rotated field
 
-#Busta 10 ruotata (458 mm per 324 mm).
+#10 busta ruotata (458 mm per 324 mm).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber10Rotated;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

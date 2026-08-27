@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions.BorderPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptionsBorderPartStyle classe. Rappresenta informazione di uno aspetto del bordertop, del lato inferiore sinistro o del lato destro.
+title: "Classe SaveOptions.BorderPartStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.SaveOptionsBorderPartStyle class. Rappresenta le informazioni di una parte del bordo (superiore, inferiore, lato sinistro o destro)"
 type: docs
-weight: 9890
+weight: 10040
 url: /it/net/aspose.pdf/saveoptions.borderpartstyle/
 ---
-## Classe SaveOptions.BorderPartStyle
+## SaveOptions.BorderPartStyle class
 
-Rappresenta informazioni su una parte del bordo (superiore, inferiore, lato sinistro o lato destro)
+Rappresenta le informazioni di una parte del bordo (superiore, inferiore, lato sinistro o destro)
 
 ```csharp
 public class BorderPartStyle
@@ -31,10 +31,12 @@ public class BorderPartStyle
 | Nome | Descrizione |
 | --- | --- |
 | [Color](../../aspose.pdf/saveoptions.borderpartstyle/color) | Rappresenta il colore della linea del bordo |
-| [LineType](../../aspose.pdf/saveoptions.borderpartstyle/linetype) | Rappresenta il tipo di linea del bordo - ad esempio, tratteggiata o solida |
+| [LineType](../../aspose.pdf/saveoptions.borderpartstyle/linetype) | Rappresenta il tipo di linea del bordo - ad es. Tratteggiata o Solida |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SaveOptions](../saveoptions/)
+* class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FreeTextAnnotation.DefaultAppearanceObject
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FreeTextAnnotation. Oggetto che rappresenta l'aspetto predefinito dell'annotazione FreeText
+title: "FreeTextAnnotation.DefaultAppearanceObject"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FreeTextAnnotation property. Oggetto che rappresenta l'aspetto predefinito dell'annotazione FreeText"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/freetextannotation/defaultappearanceobject/
 ---
-## Proprietà FreeTextAnnotation.DefaultAppearanceObject
+## FreeTextAnnotation.DefaultAppearanceObject property
 
 Oggetto che rappresenta l'aspetto predefinito dell'annotazione FreeText.
 
@@ -14,9 +14,11 @@ Oggetto che rappresenta l'aspetto predefinito dell'annotazione FreeText.
 public DefaultAppearance DefaultAppearanceObject { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DefaultAppearance](../../defaultappearance/)
-* classe [FreeTextAnnotation](../)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

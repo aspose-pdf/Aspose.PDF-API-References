@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextDecorationType_Underline
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute TextDecorationType Underline  A line below the text
+title: "AttributeName.TextDecorationType_Underline"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName campo. Attributo TextDecorationType Underline  Una linea sotto il testo"
 type: docs
 weight: 620
 url: /it/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_underline/
 ---
-## Campo AttributeName.TextDecorationType_Underline
+## AttributeName.TextDecorationType_Underline field
 
-Attributo TextDecorationType: Sottolinea - Una linea sotto il testo.
+Attributo TextDecorationType: Underline - Una linea sotto il testo.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Underline;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

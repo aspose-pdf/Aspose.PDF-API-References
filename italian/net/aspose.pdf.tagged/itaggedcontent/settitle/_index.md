@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.SetTitle
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ITaggedContent. Imposta il titolo per il documento PDF
+title: "ITaggedContent.SetTitle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ITaggedContent. Imposta il titolo per il documento PDF"
 type: docs
-weight: 390
+weight: 440
 url: /it/net/aspose.pdf.tagged/itaggedcontent/settitle/
 ---
-## Metodo ITaggedContent.SetTitle
+## ITaggedContent.SetTitle method
 
 Imposta il titolo per il documento PDF.
 
@@ -18,8 +18,10 @@ public void SetTitle(string title)
 | --- | --- | --- |
 | title | String | Il titolo del documento PDF. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ITaggedContent](../)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

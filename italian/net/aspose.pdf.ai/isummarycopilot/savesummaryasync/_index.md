@@ -1,7 +1,7 @@
 ---
-title: ISummaryCopilot.SaveSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ISummaryCopilot. Salva in modo asincrono il riepilogo in un file PDF
+title: "ISummaryCopilot.SaveSummaryAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ISummaryCopilot. Salva in modo asincrono il riepilogo in un file PDF"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/isummarycopilot/savesummaryasync/
@@ -19,13 +19,13 @@ public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellat
 | outputFileName | String | Il nome del file di output in cui salvare il riepilogo. |
 | cancellationToken | Nullable`1 | Il token di cancellazione (opzionale). |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona.
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ISummaryCopilot](../)
+* interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ Un'attività che rappresenta l'operazione asincrona.
 
 ## SaveSummaryAsync(string, SaveFormat, CancellationToken?) {#savesummaryasync}
 
-Salva in modo asincrono il riepilogo in un file con formato specificato.
+Salva in modo asincrono il riepilogo in un file con il formato specificato.
 
 ```csharp
 public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat, 
@@ -46,13 +46,15 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat,
 | saveFormat | SaveFormat | Il formato in cui salvare il riepilogo. |
 | cancellationToken | Nullable`1 | Il token di cancellazione (opzionale). |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
-* interfaccia [ISummaryCopilot](../)
+* interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

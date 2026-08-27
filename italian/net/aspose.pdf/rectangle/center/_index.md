@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Rectangle. Restituisce le coordinate del centro del rettangolo
+title: "Rectangle.Center"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Rectangle. Restituisce le coordinate del centro del rettangolo"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf/rectangle/center/
 ---
-## Metodo Rectangle.Center
+## Rectangle.Center method
 
 Restituisce le coordinate del centro del rettangolo.
 
@@ -14,13 +14,15 @@ Restituisce le coordinate del centro del rettangolo.
 public Point Center()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Punto che è il centro del rettangolo.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../point/)
-* classe [Rectangle](../)
+* class [Point](../../point/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

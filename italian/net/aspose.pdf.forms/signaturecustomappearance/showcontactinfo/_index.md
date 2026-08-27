@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.ShowContactInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignatureCustomAppearance. Ottiene/imposta la visibilità delle informazioni di contatto. Valore predefinito true
+title: "SignatureCustomAppearance.ShowContactInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignatureCustomAppearance. Ottiene/imposta la visibilità delle informazioni di contatto. Valore predefinito true"
 type: docs
-weight: 160
+weight: 170
 url: /it/net/aspose.pdf.forms/signaturecustomappearance/showcontactinfo/
 ---
-## Proprietà SignatureCustomAppearance.ShowContactInfo
+## SignatureCustomAppearance.ShowContactInfo property
 
 Ottiene/imposta la visibilità delle informazioni di contatto. Valore predefinito: true.
 
@@ -14,8 +14,10 @@ Ottiene/imposta la visibilità delle informazioni di contatto. Valore predefinit
 public bool ShowContactInfo { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

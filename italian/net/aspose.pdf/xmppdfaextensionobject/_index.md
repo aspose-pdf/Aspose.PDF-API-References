@@ -1,14 +1,14 @@
 ---
-title: Class XmpPdfAExtensionObject
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionObject classe. Rappresenta la classe base per le istanze degli oggetti di tipo valore della proprietà del campo.
+title: "Classe XmpPdfAExtensionObject"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.XmpPdfAExtensionObject classe. Rappresenta la classe base per le istanze di tipo valore della proprietà del campo"
 type: docs
-weight: 11450
+weight: 11640
 url: /it/net/aspose.pdf/xmppdfaextensionobject/
 ---
-## Classe XmpPdfAExtensionObject
+## XmpPdfAExtensionObject class
 
-Rappresenta la classe base per le istanze del tipo di valore delle proprietà dei campi.
+Rappresenta la classe base per le istanze di campo, proprietà e tipo di valore.
 
 ```csharp
 public abstract class XmpPdfAExtensionObject
@@ -27,7 +27,9 @@ public abstract class XmpPdfAExtensionObject
 | --- | --- |
 | abstract [GetXml](../../aspose.pdf/xmppdfaextensionobject/getxml/)(XmlDocument) | Restituisce l'elenco degli elementi xml che rappresentano l'oggetto nell'albero xml. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

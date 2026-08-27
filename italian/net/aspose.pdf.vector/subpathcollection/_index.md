@@ -1,7 +1,7 @@
 ---
-title: SubPathCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Rappresenta la collezione di SubPaths.
+title: "SubPathCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Rappresenta la collezione di SubPaths."
 type: docs
 weight: 8020
 url: /it/net/aspose.pdf.vector/subpathcollection/
@@ -14,25 +14,25 @@ Rappresenta la collezione di SubPaths.
 public sealed class SubPathCollection : ICollection<SubPath>
 ```
 
-## Properties
+## Proprietà
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [Count](../../aspose.pdf.vector/subpathcollection/count) { get; } | Ottiene il numero di elementi oggetto [`SubPath`](../subpath) effettivamente contenuti nella collezione. |
 | [Item](../../aspose.pdf.vector/subpathcollection/item) { get; } | Ottiene l'elemento SubPath all'indice specificato. |
 
-## Methods
+## Metodi
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [Add](../../aspose.pdf.vector/subpathcollection/add)(SubPath) | Aggiunge un nuovo oggetto SubPath alla collezione. |
-| [Clear](../../aspose.pdf.vector/subpathcollection/clear)() | Pulisce la collezione di SubPaths. |
-| [Contains](../../aspose.pdf.vector/subpathcollection/contains)(SubPath) | Determina se un elemento è nella collezione. |
-| [CopyTo](../../aspose.pdf.vector/subpathcollection/copyto)(SubPath[], int) | Copia l'intera collezione in un array unidimensionale compatibile, a partire dall'indice specificato dell'array di destinazione. |
-| [GetEnumerator](../../aspose.pdf.vector/subpathcollection/getenumerator)() | Restituisce un enumeratore per l'intera collezione. |
+| [Clear](../../aspose.pdf.vector/subpathcollection/clear)() | Cancella la collezione di SubPaths. |
+| [Contains](../../aspose.pdf.vector/subpathcollection/contains)(SubPath) | Determina se un elemento è nella raccolta. |
+| [CopyTo](../../aspose.pdf.vector/subpathcollection/copyto)(SubPath[], int) | Copia l'intera collezione in un Array monodimensionale compatibile, iniziando dall'indice specificato dell'array di destinazione. |
+| [GetEnumerator](../../aspose.pdf.vector/subpathcollection/getenumerator)() | Restituisce un enumeratore per l'intera raccolta. |
 | [Remove](../../aspose.pdf.vector/subpathcollection/remove)(SubPath) | Elimina l'elemento SubPath. |
 
-### See Also
+### Vedi anche
 
 * class [SubPath](../subpath)
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector)

@@ -1,56 +1,56 @@
 ---
-title: Class MhtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.MhtLoadOptions. Rappresenta le opzioni per il caricamento/importazione di un file .mht in un documento pdf
+title: "Classe MhtLoadOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.MhtLoadOptions class. Rappresenta le opzioni per il caricamento/importazione di un file .mht in un documento pdf"
 type: docs
-weight: 6970
+weight: 7110
 url: /it/net/aspose.pdf/mhtloadoptions/
 ---
 ## MhtLoadOptions class
 
-Rappresenta le opzioni per il caricamento/importazione di un file .mht in un documento pdf.
+Rappresenta le opzioni per il caricamento/importazione di file .mht in un documento pdf.
 
 ```csharp
 public sealed class MhtLoadOptions : LoadOptions
 ```
 
-## Constructors
+## Costruttori
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [MhtLoadOptions](mhtloadoptions/)() | Il costruttore predefinito. |
 
-## Properties
+## Proprietà
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Ottiene o imposta un flag per disabilitare eventuali restrizioni di licenza per tutti i caratteri durante il caricamento del file. Quando `true`, consente di eseguire operazioni con caratteri che sono vietate da una licenza di questo carattere, ad esempio consente di incorporare un carattere in un documento PDF anche se le regole di licenza disabilitano l'incorporamento per questo carattere. Per impostazione predefinita `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Rappresenta il formato del file che [`LoadOptions`](../loadoptions/) descrive. |
-| [PageInfo](../../aspose.pdf/mhtloadoptions/pageinfo/) { get; } | Ottiene o imposta le informazioni sulla pagina del documento |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback per gestire eventuali avvisi generati. Il WarningHandler restituisce un elemento dell'enumerazione ReturnAction che specifica se Continuare o Abortire. Continuare è l'azione predefinita e l'operazione di caricamento continua, tuttavia l'utente può anche restituire Abortire, nel qual caso l'operazione di caricamento dovrebbe cessare. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Ottiene o imposta il flag per disabilitare qualsiasi restrizione di licenza per tutti i font durante il caricamento del file. Quando `true`, consente di eseguire operazioni con font proibiti da una licenza di quel font, ad esempio consente di incorporare un font in un documento PDF anche se le regole di licenza disabilitano l'incorporamento per quel font. Per impostazione predefinita `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Rappresenta il formato file descritto da [`LoadOptions`](../loadoptions/). |
+| [PageInfo](../../aspose.pdf/mhtloadoptions/pageinfo/) { get; } | Restituisce o imposta le informazioni della pagina del document |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback per gestire eventuali avvisi generati. Il WarningHandler restituisce l'elemento enum ReturnAction che specifica Continue o Abort. Continue è l'azione predefinita e l'operazione Load continua, tuttavia l'utente può anche restituire Abort, nel qual caso l'operazione Load deve cessare. |
 
-## Examples
+## Esempi
 
 Il seguente esempio mostra come convertire un file MHT in un file PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Il percorso della directory dei documenti.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your MHT File.
+	// Il percorso al tuo file MHT.
 	string mhtFile = Path.Combine(dataDir, "MHT-to-PDF.mht");
 
-	// The path to output PDF File.
+	// Il percorso del file PDF di output.
 	string pdfFile = Path.Combine(dataDir, "MHT-to-PDF.pdf");
 
-	// Initialize MhtLoadOptions	
+	// Inizializza MhtLoadOptions	
 	MhtLoadOptions mhtLoadOptions = new MhtLoadOptions();
 		
 	using (Document pdfDocument = new Document(mhtFile, mhtLoadOptions))
 	{
 	 
-		// Save PDF file
+		// Salva file PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -77,8 +77,10 @@ Il seguente esempio mostra come convertire un file MHT in un file PDF
     End Using
 ```
 	
-### See Also
+### Vedi anche
 
 * class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

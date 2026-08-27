@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A3Transverse
-second_title: Aspose.PDF for .NET API Reference
-description: Campo di dimensioni del foglio. A3 carta orizzontale 297 mm x 420 mm
+title: "PaperSizes.A3Transverse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Carta A3 trasversale 297 mm per 420 mm"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.printing/papersizes/a3transverse/
 ---
-## Campo PaperSizes.A3Transverse
+## PaperSizes.A3Transverse field
 
 Carta A3 trasversale (297 mm per 420 mm).
 
@@ -14,9 +14,11 @@ Carta A3 trasversale (297 mm per 420 mm).
 public static readonly PaperSize A3Transverse;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

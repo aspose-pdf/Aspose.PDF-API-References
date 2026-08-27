@@ -1,12 +1,12 @@
 ---
-title: Enum XmpPdfAExtensionCategoryType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionCategoryType enum. Property category internal or external
+title: "Enum XmpPdfAExtensionCategoryType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.XmpPdfAExtensionCategoryType enum. Proprietà categoria interna o esterna"
 type: docs
-weight: 11430
+weight: 11620
 url: /it/net/aspose.pdf/xmppdfaextensioncategorytype/
 ---
-## Enumerazione XmpPdfAExtensionCategoryType
+## XmpPdfAExtensionCategoryType enumeration
 
 Categoria della proprietà: interna o esterna.
 
@@ -18,10 +18,12 @@ public enum XmpPdfAExtensionCategoryType
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Interna | `0` | Le proprietà interne vengono create automaticamente dal contenuto del documento. |
-| Esterna | `1` | Le proprietà esterne si basano sull'input dell'utente. |
+| Internal | `0` | Le proprietà interne sono create automaticamente dal contenuto del documento. |
+| External | `1` | Le proprietà esterne si basano sull'input dell'utente. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

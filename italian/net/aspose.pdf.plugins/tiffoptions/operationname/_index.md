@@ -1,12 +1,12 @@
 ---
-title: TiffOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TiffOptions. Restituisce il nome dell'operazione
+title: "TiffOptions.OperationName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TiffOptions. Restituisce il nome dell'operazione"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.plugins/tiffoptions/operationname/
 ---
-## Proprietà TiffOptions.OperationName
+## TiffOptions.OperationName property
 
 Restituisce il nome dell'operazione.
 
@@ -14,8 +14,10 @@ Restituisce il nome dell'operazione.
 public override string OperationName { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TiffOptions](../)
+* class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextBuilder.AppendParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextBuilder. Aggiunge un paragrafo di testo alla pagina Pdf
+title: "TextBuilder.AppendParagraph"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextBuilder. Aggiunge un paragrafo di testo alla pagina Pdf"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/textbuilder/appendparagraph/
 ---
-## Metodo TextBuilder.AppendParagraph
+## TextBuilder.AppendParagraph method
 
 Aggiunge un paragrafo di testo alla pagina Pdf.
 
@@ -20,38 +20,40 @@ public void AppendParagraph(TextParagraph textParagraph)
 
 ## Esempi
 
-L'esempio dimostra come creare un oggetto paragrafo di testo e aggiungerlo alla pagina Pdf.
+L'esempio dimostra come creare un oggetto TextParagraph e aggiungerlo alla pagina Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// create text paragraph
+// crea TextParagraph
 TextParagraph paragraph = new TextParagraph();
            
-// set the paragraph rectangle
+// imposta il rettangolo del paragrafo
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// set word wrapping options
+// imposta le opzioni di a capo automatico
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// append string lines
+// aggiungi righe di stringa
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// append the paragraph to the Pdf page with the TextBuilder
+// aggiungi il paragrafo alla pagina Pdf con il TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// save Pdf document
+// salva il documento Pdf
 doc.Save(outFile);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextParagraph](../../textparagraph/)
-* classe [TextBuilder](../)
+* class [TextParagraph](../../textparagraph/)
+* class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

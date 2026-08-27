@@ -1,7 +1,7 @@
 ---
-title: CosPdfDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CosPdfDictionary. Rimuove l'elemento con la chiave specificata dal CosPdfDictionary
+title: "CosPdfDictionary.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CosPdfDictionary. Rimuove l'elemento con la chiave specificata dal CosPdfDictionary"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.dataeditor/cospdfdictionary/remove/
@@ -16,15 +16,15 @@ public bool Remove(string key)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | String | La chiave dell'elemento da rimuovere. |
+| chiave | String | La chiave dell'elemento da rimuovere. |
 
 ### Valore di ritorno
 
-True se l'elemento è stato rimosso con successo; altrimenti, false. Questo metodo restituisce anche false se la chiave non è stata trovata nel dizionario originale o se la chiave non è modificabile.
+True se l'elemento è stato rimosso con successo; altrimenti, false. Questo metodo restituisce anche false se la chiave non è stata trovata nel dizionario originale o se la chiave non è modificabile
 
 ### Vedi anche
 
-* classe [CosPdfDictionary](../)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,11 +44,13 @@ public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
 
 ### Valore di ritorno
 
-true se l'item è stato rimosso con successo dal [`CosPdfDictionary`](../); altrimenti, false. Questo metodo restituisce anche false se l'item non è trovato nel [`CosPdfDictionary`](../).
+true se l'elemento è stato rimosso con successo dal [`CosPdfDictionary`](../); altrimenti, false. Questo metodo restituisce anche false se l'elemento non è trovato nel [`CosPdfDictionary`](../) originale.
 
 ### Vedi anche
 
-* interfaccia [ICosPdfPrimitive](../../icospdfprimitive/)
-* classe [CosPdfDictionary](../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

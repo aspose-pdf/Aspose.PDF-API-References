@@ -1,14 +1,14 @@
 ---
-title: Class GoToRemoteAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.GoToRemoteAction class. Represents a remote goto action that is similar to an ordinary goto action but jumps to a destination in another PDF file instead of the current file
+title: "Classe GoToRemoteAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Annotations.GoToRemoteAction. Rappresenta un'azione di salto remoto simile a un'azione di salto ordinaria ma che passa a una destinazione in un altro file PDF invece del file corrente."
 type: docs
-weight: 1840
+weight: 1930
 url: /it/net/aspose.pdf.annotations/gotoremoteaction/
 ---
-## Classe GoToRemoteAction
+## GoToRemoteAction class
 
-Rappresenta un'azione di salto remoto simile a un'azione di salto ordinaria, ma salta a una destinazione in un altro file PDF invece che nel file corrente.
+Rappresenta un'azione vai-a remota simile a un'azione vai-a ordinaria ma salta a una destinazione in un altro file PDF invece del file corrente.
 
 ```csharp
 public sealed class GoToRemoteAction : GoToAction
@@ -28,16 +28,18 @@ public sealed class GoToRemoteAction : GoToAction
 | override [Destination](../../aspose.pdf.annotations/gotoremoteaction/destination/) { get; set; } | Ottiene o imposta la destinazione a cui saltare. |
 | [File](../../aspose.pdf.annotations/gotoremoteaction/file/) { get; set; } | Ottiene o imposta la specifica del file in cui si trova la destinazione. |
 | [NewWindow](../../aspose.pdf.annotations/gotoremoteaction/newwindow/) { get; set; } | Ottiene o imposta un flag che specifica se aprire il documento di destinazione in una nuova finestra. |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Azioni successive in sequenza. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Azioni successive nella sequenza. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Ottiene la stringa per l'azione ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Ottiene la stringa per l'Azione ECMAScript. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GoToAction](../gotoaction/)
+* class [GoToAction](../gotoaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

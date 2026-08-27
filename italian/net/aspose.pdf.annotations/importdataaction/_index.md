@@ -1,14 +1,14 @@
 ---
-title: Class ImportDataAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ImportDataAction classe. Allorché viene invocata un'azione importdata, dati del formato FDF del modulo dovrano essere importati nel modulo interattivo del documento da un file specificato.
+title: "Classe ImportDataAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Annotations.ImportDataAction. All'atto dell'invocazione di un'azione importdata, i dati Form Data Format (FDF) verranno importati nel modulo interattivo del documento da un file specificato."
 type: docs
-weight: 1910
+weight: 2000
 url: /it/net/aspose.pdf.annotations/importdataaction/
 ---
-## Classe ImportDataAction
+## ImportDataAction class
 
-All'invocazione di un'azione di importazione dati, i dati del formato FDF verranno importati nel modulo interattivo del documento da un file specificato.
+All'invocazione di un'azione import-data, i dati Forms Data Format (FDF) devono essere importati nel modulo interattivo del documento da un file specificato.
 
 ```csharp
 public class ImportDataAction : PdfAction
@@ -19,16 +19,18 @@ public class ImportDataAction : PdfAction
 | Nome | Descrizione |
 | --- | --- |
 | [Data](../../aspose.pdf.annotations/importdataaction/data/) { get; set; } | Il file FDF da cui importare i dati. |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Azioni successive in sequenza. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Azioni successive nella sequenza. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Ottiene la stringa per l'azione ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Ottiene la stringa per l'Azione ECMAScript. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAction](../pdfaction/)
+* class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

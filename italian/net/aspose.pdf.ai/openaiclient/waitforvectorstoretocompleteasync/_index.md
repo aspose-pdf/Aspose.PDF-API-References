@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Waits for a specific vector store to complete asynchronously
+title: "OpenAIClient.WaitForVectorStoreToCompleteAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Attende che un archivio vettoriale specifico venga completato in modo asincrono"
 type: docs
-weight: 500
+weight: 510
 url: /it/net/aspose.pdf.ai/openaiclient/waitforvectorstoretocompleteasync/
 ---
-## Metodo OpenAIClient.WaitForVectorStoreToCompleteAsync
+## OpenAIClient.WaitForVectorStoreToCompleteAsync method
 
-Attende che un determinato archivio vettoriale completi in modo asincrono.
+Attende che un archivio vettoriale specifico termini in modo asincrono.
 
 ```csharp
 public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vectorStoreId, 
@@ -20,7 +20,7 @@ public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vector
 | vectorStoreId | String | L'ID dell'archivio vettoriale da monitorare fino al completamento. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene lo stato finale dell'archivio vettoriale.
 
@@ -28,11 +28,13 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'archivio vettoriale è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del vector store è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorStoreResponse](../../vectorstoreresponse/)
-* classe [OpenAIClient](../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

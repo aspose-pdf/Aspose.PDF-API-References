@@ -1,7 +1,7 @@
 ---
-title: OpenAISummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAISummaryCopilotOptions. Crea una nuova istanza di OpenAISummaryCopilotOptions
+title: "OpenAISummaryCopilotOptions.Create"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAISummaryCopilotOptions metodo. Crea una nuova istanza di OpenAISummaryCopilotOptions"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/openaisummarycopilotoptions/create/
@@ -14,13 +14,13 @@ Crea una nuova istanza di [`OpenAISummaryCopilotOptions`](../).
 public static OpenAISummaryCopilotOptions Create()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Una nuova istanza di [`OpenAISummaryCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,14 +36,16 @@ public static OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOpti
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| config | Action`1 | Il delegato per configurare le opzioni. |
+| configurazione | Action`1 | Il delegato per configurare le opzioni. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza configurata di [`OpenAISummaryCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

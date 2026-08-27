@@ -1,12 +1,12 @@
 ---
-title: Rows.Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Rows. Il costruttore predefinito
+title: "Rows.Rows"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Rows. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/rows/rows/
 ---
-## Costruttore Rows
+## Rows constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Rows()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rows](../)
+* class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

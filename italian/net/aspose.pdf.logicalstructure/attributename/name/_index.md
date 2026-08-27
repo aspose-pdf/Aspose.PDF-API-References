@@ -1,12 +1,12 @@
 ---
-title: AttributeName.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AttributeName. Ottiene il valore del nome dell'attributo
+title: "AttributeName.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName property. Ottiene il valore del nome dell'attributo"
 type: docs
 weight: 690
 url: /it/net/aspose.pdf.logicalstructure/attributename/name/
 ---
-## Proprietà AttributeName.Name
+## AttributeName.Name property
 
 Ottiene il valore del nome dell'attributo.
 
@@ -14,8 +14,10 @@ Ottiene il valore del nome dell'attributo.
 public string Name { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

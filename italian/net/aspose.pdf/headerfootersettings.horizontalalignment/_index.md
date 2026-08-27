@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooterSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment. Rappresenta le impostazioni di allineamento orizzontale per intestazioni e piè di pagina
+title: "Classe HeaderFooterSettings.HorizontalAlignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "classe Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment. Rappresenta le impostazioni di allineamento orizzontale per intestazione e piè di pagina"
 type: docs
-weight: 5460
+weight: 5580
 url: /it/net/aspose.pdf/headerfootersettings.horizontalalignment/
 ---
-## Classe HeaderFooterSettings.HorizontalAlignment
+## HeaderFooterSettings.HorizontalAlignment class
 
-Rappresenta le impostazioni di allineamento orizzontale per intestazioni e piè di pagina.
+Rappresenta le impostazioni di allineamento orizzontale per intestazione e piè di pagina.
 
 ```csharp
 public class HorizontalAlignment
@@ -28,8 +28,10 @@ public class HorizontalAlignment
 | [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Ottiene o imposta le impostazioni di allineamento a sinistra. |
 | [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Ottiene o imposta le impostazioni di allineamento a destra. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HeaderFooterSettings](../headerfootersettings/)
+* class [HeaderFooterSettings](../headerfootersettings/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

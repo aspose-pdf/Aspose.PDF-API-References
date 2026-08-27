@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageCreateRequest.Attachments
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ThreadMessageCreateRequest. Ottiene o imposta un elenco di file allegati al messaggio
+title: "ThreadMessageCreateRequest.Attachments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ThreadMessageCreateRequest property. Ottiene o imposta un elenco di file allegati al messaggio"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/threadmessagecreaterequest/attachments/
 ---
-## Proprietà ThreadMessageCreateRequest.Attachments
+## ThreadMessageCreateRequest.Attachments property
 
 Ottiene o imposta un elenco di file allegati al messaggio.
 
@@ -14,9 +14,11 @@ Ottiene o imposta un elenco di file allegati al messaggio.
 public List<Attachment> Attachments { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Attachment](../../attachment/)
-* classe [ThreadMessageCreateRequest](../)
+* class [Attachment](../../attachment/)
+* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

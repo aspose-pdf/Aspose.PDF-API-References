@@ -1,14 +1,14 @@
 ---
-title: CancellationTokenExtensions.NoneIfNull
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CancellationTokenExtensions. Restituisce CancellationToken.None se il CancellationToken di input è nullo, altrimenti restituisce il CancellationToken di input
+title: "CancellationTokenExtensions.NoneIfNull"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CancellationTokenExtensions. Restituisce CancellationToken.None se il CancellationToken di input è nullo, altrimenti restituisce il CancellationToken di input"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/cancellationtokenextensions/noneifnull/
 ---
-## Metodo CancellationTokenExtensions.NoneIfNull
+## CancellationTokenExtensions.NoneIfNull method
 
-Restituisce CancellationToken.None se il CancellationToken di input è nullo; altrimenti, restituisce il CancellationToken di input.
+Restituisce CancellationToken.None se il CancellationToken di input è null; altrimenti, restituisce il CancellationToken di input.
 
 ```csharp
 public static CancellationToken NoneIfNull(this CancellationToken? cancellationToken)
@@ -20,10 +20,12 @@ public static CancellationToken NoneIfNull(this CancellationToken? cancellationT
 
 ### Valore di ritorno
 
-Il valore CancellationToken basato sull'input.
+Il valore del CancellationToken basato sull'input.
 
 ### Vedi anche
 
-* classe [CancellationTokenExtensions](../)
+* class [CancellationTokenExtensions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

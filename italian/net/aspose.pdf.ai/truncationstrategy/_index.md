@@ -1,12 +1,12 @@
 ---
-title: Class TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: La classe Aspose.Pdf.AI.TruncationStrategy. Rappresenta la strategia di troncamento che controlla come un thread verrà troncato prima dell'esecuzione
+title: "Classe TruncationStrategy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.TruncationStrategy. Rappresenta la strategia di troncamento che controlla come un thread verrà troncato prima dell'esecuzione."
 type: docs
-weight: 1240
+weight: 1330
 url: /it/net/aspose.pdf.ai/truncationstrategy/
 ---
-## Classe TruncationStrategy
+## TruncationStrategy class
 
 Rappresenta la strategia di troncamento che controlla come un thread verrà troncato prima dell'esecuzione.
 
@@ -24,10 +24,12 @@ public class TruncationStrategy
 
 | Nome | Descrizione |
 | --- | --- |
-| [LastMessages](../../aspose.pdf.ai/truncationstrategy/lastmessages/) { get; set; } | Ottiene o imposta il numero di messaggi più recenti dal thread durante la costruzione del contesto per l'esecuzione. |
-| [StrategyType](../../aspose.pdf.ai/truncationstrategy/strategytype/) { get; set; } | Ottiene o imposta la strategia di troncamento da utilizzare per il thread. Il predefinito è auto. Se impostato su last_messages, il thread verrà troncato ai n messaggi più recenti nel thread. Quando impostato su auto, i messaggi nel mezzo del thread verranno eliminati per adattarsi alla lunghezza del contesto del modello, max_prompt_tokens. |
+| [LastMessages](../../aspose.pdf.ai/truncationstrategy/lastmessages/) { get; set; } | Ottiene o imposta il numero dei messaggi più recenti dal thread durante la costruzione del contesto per l'esecuzione. |
+| [StrategyType](../../aspose.pdf.ai/truncationstrategy/strategytype/) { get; set; } | Ottiene o imposta la strategia di troncamento da utilizzare per il thread. Il valore predefinito è auto. Se impostato su last_messages, il thread verrà troncato ai n messaggi più recenti del thread. Quando impostato su auto, i messaggi al centro del thread verranno eliminati per adattarsi alla lunghezza del contesto del modello, max_prompt_tokens. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

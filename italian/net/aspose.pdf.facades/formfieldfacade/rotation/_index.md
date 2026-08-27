@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di FormFieldFacade. La rotazione di un testo di campo
+title: "FormFieldFacade.Rotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade proprietà. La rotazione del testo del campo"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.facades/formfieldfacade/rotation/
 ---
-## Proprietà FormFieldFacade.Rotation
+## FormFieldFacade.Rotation property
 
-La rotazione di un testo di campo.
+La rotazione del testo di un campo.
 
 ```csharp
 public int Rotation { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

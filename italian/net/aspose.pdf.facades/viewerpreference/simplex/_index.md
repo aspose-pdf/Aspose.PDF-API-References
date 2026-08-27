@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.Simplex
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ViewerPreference. Stampa fronte/retro
+title: "ViewerPreference.Simplex"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo ViewerPreference. Stampa a una faccia"
 type: docs
 weight: 290
 url: /it/net/aspose.pdf.facades/viewerpreference/simplex/
 ---
-## Campo ViewerPreference.Simplex
+## ViewerPreference.Simplex field
 
-Stampa fronte/retro.
+Stampa su un solo lato.
 
 ```csharp
 public const int Simplex;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

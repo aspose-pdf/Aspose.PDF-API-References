@@ -1,12 +1,12 @@
 ---
-title: SetHorizontalTextScaling.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetHorizontalTextScaling. Ottiene o imposta la scala orizzontale
+title: "SetHorizontalTextScaling.HorizontalScaling"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetHorizontalTextScaling. Ottiene o imposta la scalatura orizzontale"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/
 ---
-## Proprietà SetHorizontalTextScaling.HorizontalScaling
+## SetHorizontalTextScaling.HorizontalScaling property
 
 Ottiene o imposta la scala orizzontale.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la scala orizzontale.
 public double HorizontalScaling { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetHorizontalTextScaling](../)
+* class [SetHorizontalTextScaling](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

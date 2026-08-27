@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.PageModeUseNone
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ViewerPreference. Né l'outline del documento né le immagini in miniatura sono visibili
+title: "ViewerPreference.PageModeUseNone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo ViewerPreference. Né la struttura del documento né le immagini in miniatura sono visibili"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.facades/viewerpreference/pagemodeusenone/
 ---
-## Campo ViewerPreference.PageModeUseNone
+## ViewerPreference.PageModeUseNone field
 
-Né l'outline del documento né le immagini in miniatura sono visibili
+Né la struttura del documento né le miniature sono visibili
 
 ```csharp
 public const int PageModeUseNone;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

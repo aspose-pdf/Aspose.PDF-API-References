@@ -1,25 +1,27 @@
 ---
-title: Margins.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Margini. Ottiene o imposta il sinistro
+title: "Margins.Left"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Margins. Ottiene o imposta il valore sinistro."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.devices/margins/left/
 ---
-## Proprietà Margini.Sinistra
+## Margins.Left property
 
-Ottiene o imposta il sinistro.
+Ottiene o imposta il valore sinistro.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Il sinistro.
+Il valore sinistro.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Margins](../)
+* class [Margins](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

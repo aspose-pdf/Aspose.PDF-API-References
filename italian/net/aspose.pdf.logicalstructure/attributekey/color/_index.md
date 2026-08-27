@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo colore Proprietario dell'attributo Layout
+title: "AttributeKey.Color"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. Color attributo Layout attributo proprietario"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.logicalstructure/attributekey/color/
 ---
-## Campo AttributeKey.Color
+## AttributeKey.Color field
 
-Attributo colore (Proprietario dell'attributo Layout).
+Attributo Color (proprietario dell'attributo Layout).
 
 ```csharp
 public static readonly AttributeKey Color;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

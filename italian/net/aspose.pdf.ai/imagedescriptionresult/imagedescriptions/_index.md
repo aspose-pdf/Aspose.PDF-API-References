@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.ImageDescriptions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImageDescriptionResult. Ottiene o imposta l'elenco delle descrizioni delle immagini
+title: "ImageDescriptionResult.ImageDescriptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImageDescriptionResult. Ottiene o imposta l'elenco delle descrizioni delle immagini"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/imagedescriptionresult/imagedescriptions/
 ---
-## Proprietà ImageDescriptionResult.ImageDescriptions
+## ImageDescriptionResult.ImageDescriptions property
 
 Ottiene o imposta l'elenco delle descrizioni delle immagini.
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'elenco delle descrizioni delle immagini.
 public List<ImageDescription> ImageDescriptions { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageDescription](../../imagedescription/)
-* classe [ImageDescriptionResult](../)
+* class [ImageDescription](../../imagedescription/)
+* class [ImageDescriptionResult](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

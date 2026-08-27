@@ -1,39 +1,41 @@
 ---
-title: Class FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FolderFontSource classe. Rappresenta la cartella che contiene i file di fonte.
+title: "Classe FolderFontSource"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Text.FolderFontSource. Rappresenta la cartella che contiene i file dei font"
 type: docs
-weight: 10500
+weight: 10680
 url: /it/net/aspose.pdf.text/folderfontsource/
 ---
 ## FolderFontSource class
 
-Rappresenta la cartella che contiene i file dei caratteri.
+Rappresenta la cartella che contiene i file di font.
 
 ```csharp
 public sealed class FolderFontSource : FontSource
 ```
 
-## Constructors
+## Costruttori
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [FolderFontSource](folderfontsource/)(string) | Inizializza una nuova istanza della classe `FolderFontSource`. |
 
-## Properties
+## Proprietà
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
-| [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath/) { get; set; } | Percorso della cartella che contiene i file dei caratteri. |
+| [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath/) { get; set; } | Percorso della cartella che contiene i file dei font. |
 
-## Methods
+## Metodi
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | Controlla se gli oggetti della sorgente font della cartella sono uguali. |
+| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | Verifica se gli oggetti folder font source sono uguali. |
 
-### See Also
+### Vedi anche
 
 * class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

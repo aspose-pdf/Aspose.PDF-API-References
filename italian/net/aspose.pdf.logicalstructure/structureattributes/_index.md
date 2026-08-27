@@ -1,12 +1,12 @@
 ---
-title: Class StructureAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.StructureAttributes classe. Rappresenta attributi di elemento strutturale per proprietari di attributi standard.
+title: "Classe StructureAttributes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.LogicalStructure.StructureAttributes classe. Rappresenta gli attributi dell'elemento di struttura per i proprietari di attributi standard"
 type: docs
-weight: 6690
+weight: 6830
 url: /it/net/aspose.pdf.logicalstructure/structureattributes/
 ---
-## Classe StructureAttributes
+## StructureAttributes class
 
 Rappresenta gli attributi dell'elemento di struttura per i proprietari di attributi standard.
 
@@ -27,7 +27,9 @@ public class StructureAttributes
 | [GetAttribute](../../aspose.pdf.logicalstructure/structureattributes/getattribute/)(AttributeKey) | Ottiene StructureAttribute per AttributeKey. |
 | [SetAttribute](../../aspose.pdf.logicalstructure/structureattributes/setattribute/)(StructureAttribute) | Imposta StructureAttribute in StructureAttributes. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

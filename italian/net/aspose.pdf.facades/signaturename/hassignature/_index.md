@@ -1,12 +1,12 @@
 ---
-title: SignatureName.HasSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignatureName. Indica se la firma è presente o meno
+title: "SignatureName.HasSignature"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di SignatureName. Indica se la firma è presente o meno"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/signaturename/hassignature/
 ---
-## Proprietà SignatureName.HasSignature
+## SignatureName.HasSignature property
 
 Indica se la firma è presente o meno.
 
@@ -14,8 +14,10 @@ Indica se la firma è presente o meno.
 public bool HasSignature { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureName](../)
+* class [SignatureName](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

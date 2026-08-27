@@ -1,14 +1,14 @@
 ---
-title: Document.ImportAnnotationsFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo del documento. Importa annotazioni da un file XFDF al documento
+title: "Document.ImportAnnotationsFromXfdf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Document. Importa le annotazioni da un file XFDF al documento"
 type: docs
-weight: 710
+weight: 730
 url: /it/net/aspose.pdf/document/importannotationsfromxfdf/
 ---
 ## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
 
-Importa annotazioni da un file XFDF al documento.
+Importa le annotazioni da un file XFDF al documento.
 
 ```csharp
 public void ImportAnnotationsFromXfdf(string fileName)
@@ -16,11 +16,11 @@ public void ImportAnnotationsFromXfdf(string fileName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fileName | String | Nome del file XFDF |
+| fileName | String | Nome file XFDF |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public void ImportAnnotationsFromXfdf(string fileName)
 
 ## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf}
 
-Importa annotazioni da uno stream al documento.
+Importa le annotazioni dallo stream al documento.
 
 ```csharp
 public void ImportAnnotationsFromXfdf(Stream stream)
@@ -38,8 +38,10 @@ public void ImportAnnotationsFromXfdf(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Lo stream contiene dati XFDF. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

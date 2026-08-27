@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSectionArray.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DCrossSectionArray. Ottiene o imposta il PDF3DCrossSection all'indice specificato
+title: "PDF3DCrossSectionArray.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PDF3DCrossSectionArray. Ottiene o imposta il PDF3DCrossSection all'indice specificato"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/pdf3dcrosssectionarray/item/
 ---
-## Indicizzatore PDF3DCrossSectionArray
+## PDF3DCrossSectionArray indexer
 
 Ottiene o imposta il [`PDF3DCrossSection`](../../pdf3dcrosssection/) all'indice specificato.
 
@@ -18,7 +18,7 @@ public PDF3DCrossSection this[int index] { get; set; }
 | --- | --- |
 | index | L'indice. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Sezione trasversale.
 
@@ -28,9 +28,11 @@ Sezione trasversale.
 | --- | --- |
 | IndexOutOfRangeException | Indice non valido: l'indice deve essere nell'intervallo [1..n] dove n è uguale al conteggio delle sezioni trasversali. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DCrossSection](../../pdf3dcrosssection/)
-* classe [PDF3DCrossSectionArray](../)
+* class [PDF3DCrossSection](../../pdf3dcrosssection/)
+* class [PDF3DCrossSectionArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

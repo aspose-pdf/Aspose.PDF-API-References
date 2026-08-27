@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ThreadMessageResponse. Ottiene o imposta lo stato della messaggio. Uno dei sospeso, in corso, richiede azione, o completato.
+title: "ThreadMessageResponse.Status"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ThreadMessageResponse. Ottiene o imposta lo stato del messaggio. Uno tra queued  in_progress  requires_action  o completed."
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.ai/threadmessageresponse/status/
 ---
-## Proprietà ThreadMessageResponse.Status
+## ThreadMessageResponse.Status property
 
 Ottiene o imposta lo stato del messaggio. Uno tra queued, in_progress, requires_action o completed.
 
@@ -14,8 +14,10 @@ Ottiene o imposta lo stato del messaggio. Uno tra queued, in_progress, requires_
 public string Status { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ThreadMessageResponse](../)
+* class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

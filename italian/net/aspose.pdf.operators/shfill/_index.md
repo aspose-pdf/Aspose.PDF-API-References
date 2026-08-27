@@ -1,14 +1,14 @@
 ---
-title: Class ShFill
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.ShFill. Classe che rappresenta l'area di pittura dell'operatore sh con un modello di ombreggiatura
+title: "Classe ShFill"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Operators.ShFill. Classe che rappresenta l'operatore sh dipinge l'area con un modello di sfumatura"
 type: docs
-weight: 7870
+weight: 8010
 url: /it/net/aspose.pdf.operators/shfill/
 ---
-## Classe ShFill
+## ShFill class
 
-Classe che rappresenta l'operatore sh (area di pittura con modello di ombreggiatura).
+Classe che rappresenta l'operatore sh (disegna l'area con un modello di ombreggiatura).
 
 ```csharp
 public class ShFill : Operator
@@ -25,18 +25,20 @@ public class ShFill : Operator
 | Nome | Descrizione |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori della pagina. |
-| [Name](../../aspose.pdf.operators/shfill/name/) { get; set; } | Ottiene o imposta il nome dell'ombreggiatura. |
+| [Name](../../aspose.pdf.operators/shfill/name/) { get; set; } | Ottiene o imposta il nome della sfumatura. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/shfill/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/shfill/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Restituisce il testo dell'operatore e i suoi parametri. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto dato. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

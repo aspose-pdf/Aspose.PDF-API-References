@@ -1,12 +1,12 @@
 ---
-title: TextState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextState. Ottiene o imposta il pedice del testo
+title: "TextState.Subscript"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextState. Ottiene o imposta il pedice del testo."
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.text/textstate/subscript/
 ---
-## Proprietà TextState.Subscript
+## TextState.Subscript property
 
 Ottiene o imposta il pedice del testo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il pedice del testo.
 public virtual bool Subscript { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

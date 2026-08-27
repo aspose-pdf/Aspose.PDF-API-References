@@ -1,21 +1,23 @@
 ---
-title: PDF3DLightingScheme.Day
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PDF3DLightingScheme. Lo schema di illuminazione diurno
+title: "PDF3DLightingScheme.Day"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PDF3DLightingScheme. Lo schema di illuminazione Day"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/pdf3dlightingscheme/day/
 ---
-## Campo PDF3DLightingScheme.Day
+## PDF3DLightingScheme.Day field
 
-Lo schema di illuminazione "Diurno".
+Lo schema di illuminazione "Day".
 
 ```csharp
 public static PDF3DLightingScheme Day;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DLightingScheme](../)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

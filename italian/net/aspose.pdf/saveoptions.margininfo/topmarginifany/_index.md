@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.MarginInfo.TopMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Campo MarginInfo. Rappresenta il margine superiore della pagina, se presente
+title: "SaveOptions.MarginInfo.TopMarginIfAny"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo MarginInfo. Rappresenta il margine superiore della pagina, se presente"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/saveoptions.margininfo/topmarginifany/
 ---
-## Campo SaveOptions.MarginInfo.TopMarginIfAny
+## SaveOptions.MarginInfo.TopMarginIfAny field
 
 Rappresenta il margine superiore della pagina (se presente)
 
@@ -14,9 +14,11 @@ Rappresenta il margine superiore della pagina (se presente)
 public MarginPartStyle TopMarginIfAny;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginPartStyle](../../saveoptions.marginpartstyle/)
-* classe [MarginInfo](../)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

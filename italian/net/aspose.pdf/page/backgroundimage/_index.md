@@ -1,22 +1,24 @@
 ---
-title: Page.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene o imposta l'immagine di sfondo per la pagina. solo per il generatore, non compilata durante la lettura del documento.
+title: "Page.BackgroundImage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene o imposta l'immagine di sfondo per la pagina, solo per il generatore, non viene riempita durante la lettura del documento"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/page/backgroundimage/
 ---
-## Proprietà Page.BackgroundImage
+## Page.BackgroundImage property
 
-Ottiene o imposta l'immagine di sfondo per la pagina (solo per il generatore, non compilata durante la lettura del documento).
+Ottiene o imposta l'immagine di sfondo per la pagina (solo per il generatore, non viene popolata durante la lettura del documento).
 
 ```csharp
 public Image BackgroundImage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Image](../../image/)
-* classe [Page](../)
+* class [Image](../../image/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

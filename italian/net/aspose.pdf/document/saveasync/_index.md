@@ -1,14 +1,47 @@
 ---
-title: Document.SaveAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Document. Memorizza il documento nello stream
+title: "Document.SaveAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Document. Salva il documento in un flusso con opzioni di salvataggio"
 type: docs
-weight: 840
+weight: 860
 url: /it/net/aspose.pdf/document/saveasync/
 ---
+## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
+
+Salva il documento in uno stream con le opzioni di salvataggio.
+
+```csharp
+public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| outputStream | Stream | Stream in cui il documento sarà memorizzato. |
+| options | SaveOptions | Opzioni di salvataggio. |
+| cancellationToken | CancellationToken | Token di annullamento. |
+
+### Valore di ritorno
+
+Attività asincrona.
+
+### Eccezioni
+
+| eccezione | condizione |
+| --- | --- |
+| ArgumentException | ArgumentException quando [`HtmlSaveOptions`](../../htmlsaveoptions/) viene passato a un metodo. Il salvataggio di un documento nello stream html non è supportato. Si prega di utilizzare il metodo di salvataggio su file. |
+
+### Vedi anche
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## SaveAsync(Stream, CancellationToken) {#saveasync_3}
 
-Memorizza il documento nello stream.
+Memorizza il documento in uno stream.
 
 ```csharp
 public Task SaveAsync(Stream output, CancellationToken cancellationToken)
@@ -16,16 +49,16 @@ public Task SaveAsync(Stream output, CancellationToken cancellationToken)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| output | Stream | Stream dove il documento sarà memorizzato. |
-| cancellationToken | CancellationToken | Token di cancellazione. |
+| output | Stream | Flusso in cui il documento dovrebbe essere memorizzato. |
+| cancellationToken | CancellationToken | Token di annullamento. |
 
 ### Valore di ritorno
 
-Compito asincrono.
+Attività asincrona.
 
 ### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,16 +74,16 @@ public Task SaveAsync(string outputFileName, CancellationToken cancellationToken
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputFileName | String | Percorso del file dove il documento sarà memorizzato. |
-| cancellationToken | CancellationToken | Token di cancellazione. |
+| outputFileName | String | Percorso del file in cui il documento sarà memorizzato. |
+| cancellationToken | CancellationToken | Token di annullamento. |
 
 ### Valore di ritorno
 
-Compito asincrono.
+Attività asincrona.
 
 ### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -66,19 +99,19 @@ public Task SaveAsync(CancellationToken cancellationToken)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| cancellationToken | CancellationToken | Token di cancellazione. |
+| cancellationToken | CancellationToken | Token di annullamento. |
 
 ### Valore di ritorno
 
-Compito asincrono.
+Attività asincrona.
 
 ## Osservazioni
 
-Per salvare il documento in modo incrementale, dobbiamo aprire il file del documento per la scrittura. Pertanto, il Document deve essere inizializzato con uno stream scrivibile come nel seguente frammento di codice: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // apporta alcune modifiche e salva il documento in modo incrementale doc.Save();
+Per salvare il documento in modo incrementale dovremmo aprire il file del documento in scrittura. Pertanto Document deve essere inizializzato con uno stream scrivibile come nel seguente frammento di codice: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // apportare alcune modifiche e salvare il documento in modo incrementale doc.Save();
 
 ### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -86,7 +119,7 @@ Per salvare il documento in modo incrementale, dobbiamo aprire il file del docum
 
 ## SaveAsync(SaveOptions, CancellationToken) {#saveasync}
 
-Salva il documento con opzioni di salvataggio.
+Salva il documento con le opzioni di salvataggio.
 
 ```csharp
 public Task SaveAsync(SaveOptions options, CancellationToken cancellationToken)
@@ -95,16 +128,16 @@ public Task SaveAsync(SaveOptions options, CancellationToken cancellationToken)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | options | SaveOptions | Opzioni di salvataggio. |
-| cancellationToken | CancellationToken | Token di cancellazione. |
+| cancellationToken | CancellationToken | Token di annullamento. |
 
 ### Valore di ritorno
 
-Compito asincrono.
+Attività asincrona.
 
 ### Vedi anche
 
-* classe [SaveOptions](../../saveoptions/)
-* classe [Document](../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -112,7 +145,7 @@ Compito asincrono.
 
 ## SaveAsync(string, SaveFormat, CancellationToken) {#saveasync_4}
 
-Salva il documento con un nuovo nome insieme a un formato di file.
+Salva il documento con un nuovo nome insieme a un formato file.
 
 ```csharp
 public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToken cancellationToken)
@@ -120,18 +153,18 @@ public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToke
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputFileName | String | Percorso del file dove il documento sarà memorizzato. |
+| outputFileName | String | Percorso del file in cui il documento sarà memorizzato. |
 | format | SaveFormat | Opzioni di formato. |
-| cancellationToken | CancellationToken | Token di cancellazione. |
+| cancellationToken | CancellationToken | Token di annullamento. |
 
 ### Valore di ritorno
 
-Compito asincrono.
+Attività asincrona.
 
 ### Vedi anche
 
 * enum [SaveFormat](../../saveformat/)
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -139,7 +172,7 @@ Compito asincrono.
 
 ## SaveAsync(Stream, SaveFormat, CancellationToken) {#saveasync_1}
 
-Salva il documento con un nuovo nome insieme a un formato di file.
+Salva il documento con un nuovo nome insieme a un formato file.
 
 ```csharp
 public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken cancellationToken)
@@ -147,24 +180,24 @@ public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken 
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputStream | Stream | Stream dove il documento sarà memorizzato. |
+| outputStream | Stream | Stream in cui il documento sarà memorizzato. |
 | format | SaveFormat | Opzioni di formato. |
 | cancellationToken | CancellationToken | Token di cancellazione |
 
 ### Valore di ritorno
 
-Compito asincrono.
+Attività asincrona.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentException | ArgumentException quando [`HtmlSaveOptions`](../../htmlsaveoptions/) viene passato a un metodo. Salvare un documento nello stream html non è supportato. Si prega di utilizzare il metodo salva nel file. |
+| ArgumentException | ArgumentException quando [`HtmlSaveOptions`](../../htmlsaveoptions/) viene passato a un metodo. Il salvataggio di un documento nello stream html non è supportato. Si prega di utilizzare il metodo di salvataggio su file. |
 
 ### Vedi anche
 
 * enum [SaveFormat](../../saveformat/)
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -181,50 +214,19 @@ public Task SaveAsync(string outputFileName, SaveOptions options,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputFileName | String | Percorso del file dove il documento sarà memorizzato. |
+| outputFileName | String | Percorso del file in cui il documento sarà memorizzato. |
 | options | SaveOptions | Opzioni di salvataggio. |
-| cancellationToken | CancellationToken | Token di cancellazione. |
+| cancellationToken | CancellationToken | Token di annullamento. |
 
 ### Valore di ritorno
 
-Compito asincrono.
+Attività asincrona.
 
 ### Vedi anche
 
-* classe [SaveOptions](../../saveoptions/)
-* classe [Document](../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
----
 
-## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
-
-Salva il documento in uno stream con opzioni di salvataggio.
-
-```csharp
-public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
-```
-
-| Parametro | Tipo | Descrizione |
-| --- | --- | --- |
-| outputStream | Stream | Stream dove il documento sarà memorizzato. |
-| options | SaveOptions | Opzioni di salvataggio. |
-| cancellationToken | CancellationToken | Token di cancellazione. |
-
-### Valore di ritorno
-
-Compito asincrono.
-
-### Eccezioni
-
-| eccezione | condizione |
-| --- | --- |
-| ArgumentException | ArgumentException quando [`HtmlSaveOptions`](../../htmlsaveoptions/) viene passato a un metodo. Salvare un documento nello stream html non è supportato. Si prega di utilizzare il metodo salva nel file. |
-
-### Vedi anche
-
-* classe [SaveOptions](../../saveoptions/)
-* classe [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)

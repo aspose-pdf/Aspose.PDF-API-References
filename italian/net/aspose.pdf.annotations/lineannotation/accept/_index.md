@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo LineAnnotation. Accetta il visitatore per l'elaborazione delle annotazioni
+title: "LineAnnotation.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LineAnnotation metodo. Accetta un visitatore per l'elaborazione dell'annotazione"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.annotations/lineannotation/accept/
 ---
-## Metodo LineAnnotation.Accept
+## LineAnnotation.Accept method
 
-Accetta il visitatore per l'elaborazione delle annotazioni.
+Accetta un visitatore per l'elaborazione dell'annotazione.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Oggetto visitatore |
+| visitatore | AnnotationSelector | Oggetto Visitor |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AnnotationSelector](../../annotationselector/)
-* classe [LineAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

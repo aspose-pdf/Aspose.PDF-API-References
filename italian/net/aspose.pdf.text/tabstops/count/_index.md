@@ -1,14 +1,14 @@
 ---
-title: TabStops.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TabStops. Inizializza una nuova istanza della classe TabStop con posizione specificata e la aggiunge alla collezione TabStops
+title: "TabStops.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TabStops. Inizializza una nuova istanza della classe TabStop con la posizione specificata e la aggiunge alla collezione TabStops."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/tabstops/count/
 ---
-## Proprietà TabStops.Count
+## TabStops.Count property
 
-Inizializza una nuova istanza della classe [`TabStop`](../../tabstop/) con posizione specificata e la aggiunge alla collezione TabStops.
+Inizializza una nuova istanza della classe [`TabStop`](../../tabstop/) con la posizione specificata e la aggiunge alla collezione TabStops.
 
 ```csharp
 public int Count { get; }
@@ -18,12 +18,14 @@ public int Count { get; }
 | --- | --- |
 | position | La posizione del tab stop. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Il nuovo oggetto [`TabStop`](../../tabstop/).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TabStops](../)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: FormEditor.FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FormEditor. Costruttore per FormEditor
+title: "FormEditor.FormEditor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FormEditor. Costruttore per FormEditor"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/formeditor/formeditor/
@@ -20,9 +20,9 @@ public FormEditor()
 FormEditor formEditor = new FormEditor();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -30,7 +30,7 @@ FormEditor formEditor = new FormEditor();
 
 ## FormEditor(Document) {#constructor_1}
 
-Inizializza un nuovo oggetto [`FormEditor`](../) basato sul *documento*.
+Inizializza un nuovo oggetto [`FormEditor`](../) basato sul *document*.
 
 ```csharp
 public FormEditor(Document document)
@@ -38,11 +38,13 @@ public FormEditor(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| documento | Documento | Documento Pdf. |
+| document | Document | Documento Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [FormEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

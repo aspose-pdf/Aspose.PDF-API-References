@@ -1,22 +1,24 @@
 ---
-title: Artifact.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'artefatto. Stato del testo per il testo dell'artefatto.
+title: "Artifact.TextState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Artifact. Stato del testo per il testo dell'artifact"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf/artifact/textstate/
 ---
-## Proprietà Artifact.TextState
+## Artifact.TextState property
 
-Stato del testo per il testo dell'artifact.
+Stato del testo per il testo dell'artefatto.
 
 ```csharp
 public TextState TextState { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [Artifact](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.UploadFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Carica un file in modo asincrono sul server OpenAI
+title: "IOpenAIClient.UploadFileAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IOpenAIClient. Carica un file in modo asincrono sul server OpenAI"
 type: docs
 weight: 420
 url: /it/net/aspose.pdf.ai/iopenaiclient/uploadfileasync/
 ---
-## Metodo IOpenAIClient.UploadFileAsync
+## IOpenAIClient.UploadFileAsync method
 
 Carica un file in modo asincrono sul server OpenAI.
 
@@ -17,7 +17,7 @@ public Task<FileResponse> UploadFileAsync(string purpose, string fileName, byte[
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| purpose | String | Lo scopo del caricamento del file, che descrive tipicamente come verrà utilizzato il file. |
+| purpose | String | Lo scopo del caricamento del file, tipicamente descrivendo come il file verrà utilizzato. |
 | fileName | String | Il nome del file da caricare. |
 | fileBytes | Byte[] | L'array di byte contenente i dati del file. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
@@ -30,12 +30,14 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando lo scopo del file è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando il nome del file è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando lo scopo del file è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando il nome del file è nullo o vuoto. |
 
 ### Vedi anche
 
-* classe [FileResponse](../../fileresponse/)
-* interfaccia [IOpenAIClient](../)
+* class [FileResponse](../../fileresponse/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

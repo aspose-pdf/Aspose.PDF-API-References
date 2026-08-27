@@ -1,12 +1,12 @@
 ---
-title: XmpField.op_Inequality
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XmpField. Implementa l'operatore
+title: "XmpField.op_Inequality"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XmpField. Implementa l'operatore"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf/xmpfield/op_inequality/
 ---
-## Operatore di disuguaglianza XmpField
+## XmpField Inequality operator
 
 Implementa l'operatore !=.
 
@@ -25,6 +25,8 @@ Il risultato dell'operatore.
 
 ### Vedi anche
 
-* classe [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

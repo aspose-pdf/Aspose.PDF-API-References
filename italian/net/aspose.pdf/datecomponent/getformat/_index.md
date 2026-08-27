@@ -1,12 +1,12 @@
 ---
-title: DateComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Il metodo DateComponent. Ritorna una stringa composta di un carattere specificato ripetuto in base al formato.
+title: "DateComponent.GetFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo DateComponent. Restituisce una stringa composta da un carattere specificato ripetuto in base al formato"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/datecomponent/getformat/
 ---
-## Metodo DateComponent.GetFormat
+## DateComponent.GetFormat method
 
 Restituisce una stringa composta da un carattere specificato ripetuto in base al formato.
 
@@ -20,10 +20,12 @@ public string GetFormat(char ch)
 
 ### Valore di ritorno
 
-Una stringa costituita dal carattere ripetuto.
+Una stringa composta dal carattere ripetuto.
 
 ### Vedi anche
 
-* classe [DateComponent](../)
+* class [DateComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

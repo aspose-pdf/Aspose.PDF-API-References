@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateCustomActionLink
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfContentEditor. Crea un link a azioni personalizzate nel documento PDF
+title: "PdfContentEditor.CreateCustomActionLink"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Crea un collegamento a azioni personalizzate in PDF Document"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/createcustomactionlink/
 ---
-## Metodo PdfContentEditor.CreateCustomActionLink
+## PdfContentEditor.CreateCustomActionLink method
 
-Crea un link a azioni personalizzate nel documento PDF.
+Crea un collegamento a azioni personalizzate nel documento PDF.
 
 ```csharp
 public void CreateCustomActionLink(Rectangle rect, int originalPage, Color color, Enum[] actionName)
@@ -17,9 +17,9 @@ public void CreateCustomActionLink(Rectangle rect, int originalPage, Color color
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo per il clic attivo. |
-| originalPage | Int32 | Il numero della pagina originale dove verrà creato il rettangolo legato al link. |
+| originalPage | Int32 | Il numero della pagina originale dove verrà creato il rettangolo associato al collegamento. |
 | color | Color | Il colore del rettangolo per il clic attivo. |
-| actionName | Enum[] | L'array di azioni (membri dell'enum PredefinedAction) corrispondenti all'esecuzione degli elementi di menu nel visualizzatore Acrobat. |
+| actionName | Enum[] | L'array di azioni (membri dell'enumerazione PredefinedAction) corrispondente all'esecuzione delle voci di menu nel visualizzatore Acrobat. |
 
 ## Esempi
 
@@ -34,6 +34,8 @@ editor.Save("example_out.pdf");
 
 ### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

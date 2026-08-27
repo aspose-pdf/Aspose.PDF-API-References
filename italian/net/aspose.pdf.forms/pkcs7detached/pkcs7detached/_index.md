@@ -1,7 +1,7 @@
 ---
-title: PKCS7Detached.PKCS7Detached
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PKCS7Detached. Inizializza una nuova istanza della classe PKCS7Detached
+title: "PKCS7Detached.PKCS7Detached"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PKCS7Detached constructor. Inizializza una nuova istanza della classe PKCS7Detached"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/pkcs7detached/pkcs7detached/
@@ -18,9 +18,9 @@ public PKCS7Detached(Stream image)
 | --- | --- | --- |
 | immagine | Stream | Questa immagine definirà l'aspetto della firma sulla pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,10 +39,10 @@ public PKCS7Detached(Stream image, DigestHashAlgorithm digestHashAlgorithm)
 | immagine | Stream | Questa immagine definirà l'aspetto della firma sulla pagina. |
 | digestHashAlgorithm | DigestHashAlgorithm | L'algoritmo di digest per firmare un documento. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* classe [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -56,9 +56,9 @@ Inizializza una nuova istanza della classe [`PKCS7Detached`](../).
 public PKCS7Detached()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -76,10 +76,10 @@ public PKCS7Detached(DigestHashAlgorithm digestHashAlgorithm)
 | --- | --- | --- |
 | digestHashAlgorithm | DigestHashAlgorithm | L'algoritmo di digest per firmare un documento. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* classe [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -95,12 +95,12 @@ public PKCS7Detached(string pfx, string password)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pfx | String | File pfx che contiene il certificato per la firma. |
+| pfx | String | File Pfx che contiene il certificato per la firma. |
 | password | String | Password per accedere alla chiave privata nel certificato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -116,14 +116,14 @@ public PKCS7Detached(string pfx, string password, DigestHashAlgorithm digestHash
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pfx | String | File pfx che contiene il certificato per la firma. |
+| pfx | String | File Pfx che contiene il certificato per la firma. |
 | password | String | Password per accedere alla chiave privata nel certificato. |
 | digestHashAlgorithm | DigestHashAlgorithm | L'algoritmo di digest per firmare un documento. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* classe [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -142,9 +142,9 @@ public PKCS7Detached(Stream pfx, string password)
 | pfx | Stream | Stream con i dati del certificato organizzati come pfx. |
 | password | String | Password per accedere alla chiave privata nel certificato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -164,9 +164,11 @@ public PKCS7Detached(Stream pfx, string password, DigestHashAlgorithm digestHash
 | password | String | Password per accedere alla chiave privata nel certificato. |
 | digestHashAlgorithm | DigestHashAlgorithm | L'algoritmo di digest per firmare un documento. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* classe [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

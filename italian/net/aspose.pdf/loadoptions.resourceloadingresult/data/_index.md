@@ -1,21 +1,23 @@
 ---
-title: LoadOptions.ResourceLoadingResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ResourceLoadingResult. Dati binari caricati con un caricatore personalizzato devono essere impostati dopo il caricamento
+title: "LoadOptions.ResourceLoadingResult.Data"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "proprietà ResourceLoadingResult. Dati binari caricati con un loader personalizzato devono essere impostati dopo il caricamento"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/loadoptions.resourceloadingresult/data/
 ---
-## Proprietà LoadOptions.ResourceLoadingResult.Data
+## LoadOptions.ResourceLoadingResult.Data property
 
-Dati binari caricati con un caricatore personalizzato - devono essere impostati dopo il caricamento
+Dati binari caricati con il loader personalizzato - devono essere impostati dopo il caricamento
 
 ```csharp
 public byte[] Data { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ResourceLoadingResult](../)
+* class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FontSourceCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FontSourceCollection. Ottiene il numero di elementi oggetto Font effettivamente contenuti nella collezione
+title: "FontSourceCollection.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FontSourceCollection. Restituisce il numero di elementi oggetto Font effettivamente contenuti nella collezione"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/fontsourcecollection/count/
 ---
-## Proprietà FontSourceCollection.Count
+## FontSourceCollection.Count property
 
-Ottiene il numero di [`Font`](../../font/) elementi oggetto effettivamente contenuti nella collezione.
+Restituisce il numero di elementi oggetto [`Font`](../../font/) effettivamente contenuti nella collezione.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontSourceCollection](../)
+* class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

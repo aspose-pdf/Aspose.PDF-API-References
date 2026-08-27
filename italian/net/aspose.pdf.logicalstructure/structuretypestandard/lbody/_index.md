@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.LBody
-second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeStandard. Corpo della lista Il contenuto descrittivo di un elemento della lista. In un elenco di dizionari, ad esempio, contiene la definizione del termine. Può contenere direttamente il contenuto o avere altri BLSE, forse includendo elenchi nidificati come figli.
+title: "StructureTypeStandard.LBody"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo StructureTypeStandard. List body Il contenuto descrittivo di un elemento di elenco. In un elenco dizionario, ad esempio, contiene la definizione del termine. Può contenere direttamente il contenuto o includere altri BLSE, forse includendo elenchi annidati come figli."
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/lbody/
 ---
-## Campo StructureTypeStandard.LBody
+## StructureTypeStandard.LBody field
 
-(Corpo della lista) Il contenuto descrittivo di un elemento della lista. In un elenco di dizionari, ad esempio, contiene la definizione del termine. Può contenere direttamente il contenuto o avere altri BLSE, forse includendo elenchi nidificati, come figli.
+(List body) Il contenuto descrittivo di un elemento di lista. In una lista dizionario, ad esempio, contiene la definizione del termine. Può contenere direttamente il contenuto o avere altri BLSE, forse includendo liste annidate, come figli.
 
 ```csharp
 public static readonly StructureTypeStandard LBody;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

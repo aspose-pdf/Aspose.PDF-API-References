@@ -1,12 +1,12 @@
 ---
-title: Aspose.Pdf.Tagged
-second_title: Aspose.PDF for .NET API Reference
-description: L'Aspose.Pdf.Tagged è uno spazio dei nomi per classi a supporto di documenti PDF taggati
+title: "Aspose.Pdf.Tagged"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Il Aspose.Pdf.Tagged è uno spazio dei nomi per classi a supporto dei documenti Tagged PDF"
 type: docs
-weight: 250
+weight: 240
 url: /it/net/aspose.pdf.tagged/
 ---
-Il **Aspose.Pdf.Tagged** è uno spazio dei nomi per classi a supporto di documenti PDF taggati.
+Il **Aspose.Pdf.Tagged** è uno spazio dei nomi per le classi a supporto dei documenti PDF Tagged.
 
 ## Classi
 
@@ -18,5 +18,7 @@ Il **Aspose.Pdf.Tagged** è uno spazio dei nomi per classi a supporto di documen
 
 | Interfaccia | Descrizione |
 | --- | --- |
-| [IAdjustPosition](./iadjustposition/) | Interfaccia per metodi di posizionamento. |
+| [IAdjustPosition](./iadjustposition/) | Interfaccia per i metodi di posizionamento. |
 | [ITaggedContent](./itaggedcontent/) | Rappresenta un'interfaccia per lavorare con il contenuto TaggedPdf del documento. |
+
+

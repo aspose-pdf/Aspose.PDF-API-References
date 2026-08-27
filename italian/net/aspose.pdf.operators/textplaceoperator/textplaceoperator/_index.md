@@ -1,7 +1,7 @@
 ---
-title: TextPlaceOperator.TextPlaceOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TextPlaceOperator. Inizializza TextPlaceOperator
+title: "TextPlaceOperator.TextPlaceOperator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TextPlaceOperator. Inizializza TextPlaceOperator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/textplaceoperator/textplaceoperator/
@@ -14,9 +14,9 @@ Inizializza TextPlaceOperator.
 public TextPlaceOperator()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextPlaceOperator](../)
+* class [TextPlaceOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,9 +34,11 @@ public TextPlaceOperator(TextProperties textProperties)
 | --- | --- | --- |
 | textProperties | TextProperties | Proprietà del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* classe [TextPlaceOperator](../)
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [TextPlaceOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

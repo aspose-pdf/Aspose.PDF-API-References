@@ -1,12 +1,12 @@
 ---
-title: ICosPdfPrimitive.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ICosPdfPrimitive. Rappresentazione stringa dell'istanza ICosPdfPrimitive
+title: "ICosPdfPrimitive.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ICosPdfPrimitive. Rappresentazione stringa dell'istanza ICosPdfPrimitive"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/
 ---
-## Metodo ICosPdfPrimitive.ToString
+## ICosPdfPrimitive.ToString method
 
 Rappresentazione stringa dell'istanza [`ICosPdfPrimitive`](../).
 
@@ -14,12 +14,14 @@ Rappresentazione stringa dell'istanza [`ICosPdfPrimitive`](../).
 public string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Valore della rappresentazione stringa dell'istanza [`ICosPdfPrimitive`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ICosPdfPrimitive](../)
+* interface [ICosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: XslFoLoadOptions.XsltArgumentList
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XslFoLoadOptions. XsltArgumentList per inserire valori nei parametri xls esistenti.
+title: "XslFoLoadOptions.XsltArgumentList"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XslFoLoadOptions. XsltArgumentList per inserire valori nei parametri xls esistenti  Il file XLS ha il parametro animal senza valore XsltArgumentList args  new XsltArgumentList args.AddParamanimal  cat ora il convertitore assume che esista un parametro animal con valore cat nel file XLS"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/xslfoloadoptions/xsltargumentlist/
 ---
-## Proprietà XslFoLoadOptions.XsltArgumentList
+## XslFoLoadOptions.XsltArgumentList property
 
-XslArgumentList per inserire valori nei parametri xls esistenti. Il file XLS ha un parametro 'animale' senza valore: XsltArgumentList args = new XsltArgumentList(); args.AddParam("animale", "", "gatto"); ora il convertitore presume che ci sia un parametro 'animale' con il valore 'gatto' nel file XLS.
+XsltArgumentList per inserire valori nei parametri xls esistenti  Il file XLS ha il parametro 'animal' senza valore: XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); ora il convertitore assume che esista un parametro 'animal' con valore 'cat' nel file XLS.
 
 ```csharp
 public XsltArgumentList XsltArgumentList { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XslFoLoadOptions](../)
+* class [XslFoLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

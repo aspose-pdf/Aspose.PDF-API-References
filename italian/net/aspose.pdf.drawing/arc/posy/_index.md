@@ -1,12 +1,12 @@
 ---
-title: Arc.PosY
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Arc. Ottiene o imposta un valore float che indica la coordinata y del centro dell'arco
+title: "Arc.PosY"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Arc. Ottiene o imposta un valore float che indica la coordinata y del centro dell'arco"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.drawing/arc/posy/
 ---
-## Proprietà Arc.PosY
+## Arc.PosY property
 
 Ottiene o imposta un valore float che indica la coordinata y del centro dell'arco.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore float che indica la coordinata y del centro dell'arc
 public double PosY { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Arc](../)
+* class [Arc](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

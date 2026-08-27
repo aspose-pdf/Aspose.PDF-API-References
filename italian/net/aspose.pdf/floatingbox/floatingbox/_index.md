@@ -1,7 +1,7 @@
 ---
-title: FloatingBox.FloatingBox
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FloatingBox. Inizializza una nuova istanza della classe FloatingBox con larghezza e altezza specificate
+title: "FloatingBox.FloatingBox"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FloatingBox constructor. Inizializza una nuova istanza della classe FloatingBox con larghezza e altezza specificate"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/floatingbox/floatingbox/
@@ -16,12 +16,12 @@ public FloatingBox(float width, float height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| width | Singolo | La larghezza della scatola. |
-| height | Singolo | L'altezza della scatola. |
+| larghezza | Single | La larghezza del box. |
+| altezza | Single | L'altezza del box. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FloatingBox](../)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -35,8 +35,10 @@ Inizializza una nuova istanza della classe [`FloatingBox`](../).
 public FloatingBox()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FloatingBox](../)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

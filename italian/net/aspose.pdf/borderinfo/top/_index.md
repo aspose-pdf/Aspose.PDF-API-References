@@ -1,12 +1,12 @@
 ---
-title: BorderInfo.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BorderInfo. Ottiene o imposta un oggetto che indica il bordo superiore
+title: "BorderInfo.Top"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "BorderInfo proprietà. Ottiene o imposta un oggetto che indica il bordo superiore"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/borderinfo/top/
 ---
-## Proprietà BorderInfo.Top
+## BorderInfo.Top property
 
 Ottiene o imposta un oggetto che indica il bordo superiore.
 
@@ -14,9 +14,11 @@ Ottiene o imposta un oggetto che indica il bordo superiore.
 public GraphInfo Top { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphInfo](../../graphinfo/)
-* classe [BorderInfo](../)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PaperSource.PaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PaperSource. Inizializza una nuova istanza della classe PaperSource con proprietà predefinite
+title: "PaperSource.PaperSource"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PaperSource. Inizializza una nuova istanza della classe PaperSource con le proprietà predefinite."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.printing/papersource/papersource/
 ---
 ## PaperSource() {#constructor}
 
-Inizializza una nuova istanza della classe [`PaperSource`](../) con proprietà predefinite.
+Inizializza una nuova istanza della classe [`PaperSource`](../) con le proprietà predefinite.
 
 ```csharp
 public PaperSource()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSource](../)
+* class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,12 +32,14 @@ public PaperSource(PaperSourceKind kind, string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| kind | PaperSourceKind | Il tipo della sorgente di carta. |
-| name | String | Il nome della sorgente di carta. |
+| kind | PaperSourceKind | Il tipo della sorgente carta. |
+| nome | String | Il nome della sorgente carta. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [PaperSourceKind](../../papersourcekind/)
-* classe [PaperSource](../)
+* class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

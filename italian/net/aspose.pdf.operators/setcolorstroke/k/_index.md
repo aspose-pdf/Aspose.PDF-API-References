@@ -1,12 +1,12 @@
 ---
-title: SetColorStroke.K
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetColorStroke. Ottiene o imposta il componente nero
+title: "SetColorStroke.K"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetColorStroke. Ottiene o imposta il componente nero"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.operators/setcolorstroke/k/
 ---
-## Proprietà SetColorStroke.K
+## SetColorStroke.K property
 
 Ottiene o imposta il componente nero.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il componente nero.
 public double K { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

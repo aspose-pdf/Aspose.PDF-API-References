@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.WaitForRunToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Attende che un'esecuzione venga completata all'interno di un thread in modo asincrono
+title: "OpenAIClient.WaitForRunToCompleteAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Attende che un run termini all'interno di un thread in modo asincrono"
 type: docs
-weight: 470
+weight: 480
 url: /it/net/aspose.pdf.ai/openaiclient/waitforruntocompleteasync/
 ---
-## Metodo OpenAIClient.WaitForRunToCompleteAsync
+## OpenAIClient.WaitForRunToCompleteAsync method
 
-Attende che un'esecuzione venga completata all'interno di un thread in modo asincrono.
+Attende che un'esecuzione termini all'interno di un thread in modo asincrono.
 
 ```csharp
 public Task<RunResponse> WaitForRunToCompleteAsync(string threadId, string runId, 
@@ -17,24 +17,26 @@ public Task<RunResponse> WaitForRunToCompleteAsync(string threadId, string runId
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| threadId | String | L'ID del thread contenente l'esecuzione. |
-| runId | String | L'ID dell'esecuzione da monitorare fino al completamento. |
+| threadId | String | L'ID del thread che contiene l'esecuzione. |
+| runId | String | L'ID del run da monitorare fino al completamento. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene lo stato finale dell'esecuzione.
+Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene lo stato finale del run.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'esecuzione è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID dell'esecuzione è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunResponse](../../runresponse/)
-* classe [OpenAIClient](../)
+* class [RunResponse](../../runresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

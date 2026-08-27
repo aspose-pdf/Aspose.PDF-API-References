@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Keywords
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocumentInfo. Ottiene o imposta le parole chiave del documento
+title: "DocumentInfo.Keywords"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DocumentInfo. Ottiene o imposta le parole chiave del documento"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/documentinfo/keywords/
 ---
-## Proprietà DocumentInfo.Keywords
+## DocumentInfo.Keywords property
 
 Ottiene o imposta le parole chiave del documento.
 
@@ -14,8 +14,10 @@ Ottiene o imposta le parole chiave del documento.
 public string Keywords { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

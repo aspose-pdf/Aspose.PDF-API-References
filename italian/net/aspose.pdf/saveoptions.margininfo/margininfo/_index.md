@@ -1,7 +1,7 @@
 ---
-title: SaveOptions.MarginInfo.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di MarginInfo. Crea un'istanza di MarginInfo
+title: "SaveOptions.MarginInfo.MarginInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore MarginInfo. Crea un'istanza di MarginInfo"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/saveoptions.margininfo/margininfo/
@@ -14,9 +14,9 @@ Crea un'istanza di MarginInfo
 public MarginInfo()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public MarginInfo()
 
 ## MarginInfo(MarginPartStyle) {#constructor_1}
 
-Crea un'istanza della classe MarginInfo e inizializza tutti gli elementi del margine della pagina (Superiore, Sinistro, Destro, Inferiore) con attributi copiati dallo stile di margine fornito
+Crea un'istanza della classe MarginInfo e inizializza tutti gli elementi del margine della pagina (Top, Left, Right, Bottom) con gli attributi copiati dallo stile di margine fornito
 
 ```csharp
 public MarginInfo(MarginPartStyle commonMargin)
@@ -32,11 +32,13 @@ public MarginInfo(MarginPartStyle commonMargin)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| commonMargin | MarginPartStyle | stile delle parti del margine che verrà utilizzato per tutti gli elementi del margine (sinistro, destro, superiore, inferiore) |
+| commonMargin | MarginPartStyle | stile delle parti del margine che verranno utilizzate per tutti gli elementi del margine (sinistra, destra, superiore, inferiore) |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginPartStyle](../../saveoptions.marginpartstyle/)
-* classe [MarginInfo](../)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

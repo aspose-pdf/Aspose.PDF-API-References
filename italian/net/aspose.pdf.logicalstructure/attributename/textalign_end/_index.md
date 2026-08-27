@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextAlign_End
-second_title: Aspose.PDF for .NET API Reference
-description: NomeAttributo campo. Attributo AllineamentoTesto Fine Allineato con l'ultimo margine.
+title: "AttributeName.TextAlign_End"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName campo. Attributo TextAlign End  Allineato con il bordo finale"
 type: docs
 weight: 560
 url: /it/net/aspose.pdf.logicalstructure/attributename/textalign_end/
 ---
-## Campo AttributeName.TextAlign_End
+## AttributeName.TextAlign_End field
 
-Attributo TextAlign: End - Allineato con il bordo finale.
+Attributo TextAlign: End - Allineato al bordo finale.
 
 ```csharp
 public static readonly AttributeName TextAlign_End;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

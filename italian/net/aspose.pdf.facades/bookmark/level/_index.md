@@ -1,12 +1,12 @@
 ---
-title: Bookmark.Level
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del segnalibro. Ottiene o imposta il livello gerarchico dei segnalibri
+title: "Bookmark.Level"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Bookmark. Ottiene o imposta il livello gerarchico dei segnalibri"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.facades/bookmark/level/
 ---
-## Proprietà Bookmark.Level
+## Bookmark.Level property
 
 Ottiene o imposta il livello gerarchico del segnalibro.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il livello gerarchico del segnalibro.
 public int Level { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

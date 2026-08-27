@@ -1,21 +1,23 @@
 ---
-title: RenderingOptions.SystemFontsNativeRendering
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RenderingOptions. Ottiene o imposta una modalità in cui i caratteri di sistema vengono renderizzati nativamente
+title: "RenderingOptions.SystemFontsNativeRendering"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RenderingOptions. Ottiene o imposta una modalità in cui i font di sistema sono renderizzati nativamente."
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/renderingoptions/systemfontsnativerendering/
 ---
-## Proprietà RenderingOptions.SystemFontsNativeRendering
+## RenderingOptions.SystemFontsNativeRendering property
 
-Ottiene o imposta una modalità in cui i caratteri di sistema vengono renderizzati nativamente.
+Ottiene o imposta una modalità in cui i font di sistema vengono renderizzati nativamente.
 
 ```csharp
 public bool SystemFontsNativeRendering { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RenderingOptions](../)
+* class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

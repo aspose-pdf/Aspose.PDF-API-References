@@ -1,21 +1,23 @@
 ---
-title: TableTRElement.IsRowBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableTRElement. Ottiene se la riga può essere spezzata tra due pagine
+title: "TableTRElement.IsRowBroken"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableTRElement. Ottiene se la riga può essere interrotta tra due pagine"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.logicalstructure/tabletrelement/isrowbroken/
 ---
-## Proprietà TableTRElement.IsRowBroken
+## TableTRElement.IsRowBroken property
 
-Ottiene se la riga può essere spezzata tra due pagine.
+Ottiene se la riga può essere interrotta tra due pagine.
 
 ```csharp
 public bool IsRowBroken { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TableTRElement](../)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

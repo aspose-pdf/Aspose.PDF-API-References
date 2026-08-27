@@ -1,25 +1,27 @@
 ---
-title: GraphicElementCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo GraphicElementCollection. Ottiene una rappresentazione in stringa di questa collezione
+title: "GraphicElementCollection.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo GraphicElementCollection. Ottiene una rappresentazione stringa di questa collezione."
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.vector/graphicelementcollection/tostring/
 ---
-## Metodo GraphicElementCollection.ToString
+## GraphicElementCollection.ToString method
 
-Ottiene una rappresentazione in stringa di questa collezione.
+Restituisce una rappresentazione stringa di questa collezione.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 La stringa.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphicElementCollection](../)
+* class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

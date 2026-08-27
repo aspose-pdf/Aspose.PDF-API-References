@@ -1,14 +1,103 @@
 ---
-title: Document.Encrypt
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Document. Cripta il documento. Chiama poi Salva per ottenere la versione criptata del documento
+title: "Document.Encrypt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Document metodo. Cifra il documento"
 type: docs
-weight: 620
+weight: 640
 url: /it/net/aspose.pdf/document/encrypt/
 ---
-## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt}
+## Encrypt(Permissions, CryptoAlgorithm, IList&lt;X509Certificate2&gt;) {#encrypt}
 
-Cripta il documento. Chiama poi Salva per ottenere la versione criptata del documento.
+Cripta il documento.
+
+```csharp
+public void Encrypt(Permissions permissions, CryptoAlgorithm cryptoAlgorithm, 
+    IList<X509Certificate2> publicCertificates)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| permissions | Permissions | Permessi del Document, vedi [`Permissions`](../permissions/) per i dettagli. |
+| cryptoAlgorithm | CryptoAlgorithm | Algoritmo crittografico, vedi [`CryptoAlgorithm`](../cryptoalgorithm/) per i dettagli. |
+| publicCertificates | IList`1 | I certificati pubblici utilizzati per la crittografia — uno per destinatario. |
+
+## Osservazioni
+
+Questo metodo prepara la crittografia. Per crittografare un documento, è necessario chiamare il metodo Save per salvarlo.
+
+### Vedi anche
+
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Encrypt(string, string, DocumentPrivilege, ICustomSecurityHandler) {#encrypt_2}
+
+Cripta il documento.
+
+```csharp
+public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
+    ICustomSecurityHandler customHandler)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| userPassword | String | Password utente. |
+| ownerPassword | String | Password del proprietario. |
+| privileges | DocumentPrivilege | Permessi del Document, vedi [`Permissions`](../permissions/) per i dettagli. |
+| customHandler | ICustomSecurityHandler | Il gestore di sicurezza personalizzato. |
+
+## Osservazioni
+
+Questo metodo prepara la crittografia. Per crittografare un documento, è necessario chiamare il metodo Save per salvarlo.
+
+### Vedi anche
+
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Encrypt(string, string, Permissions, ICustomSecurityHandler) {#encrypt_5}
+
+Cripta il documento.
+
+```csharp
+public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
+    ICustomSecurityHandler customHandler)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| userPassword | String | Password utente. |
+| ownerPassword | String | Password del proprietario. |
+| permissions | Permissions | Permessi del Document, vedi [`Permissions`](../permissions/) per i dettagli. |
+| customHandler | ICustomSecurityHandler | Il gestore di sicurezza personalizzato. |
+
+## Osservazioni
+
+Questo metodo prepara la crittografia. Per crittografare un documento, è necessario chiamare il metodo Save per salvarlo.
+
+### Vedi anche
+
+* enum [Permissions](../../permissions/)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt_1}
+
+Cripta il documento.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
@@ -18,60 +107,28 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | userPassword | String | Password utente. |
-| ownerPassword | String | Password proprietario. |
-| privileges | DocumentPrivilege | Permessi del documento, vedere [`Permissions`](../permissions/) per dettagli. |
-| cryptoAlgorithm | CryptoAlgorithm | Algoritmo crittografico, vedere [`CryptoAlgorithm`](../cryptoalgorithm/) per dettagli. |
+| ownerPassword | String | Password del proprietario. |
+| privileges | DocumentPrivilege | Permessi del Document, vedi [`Permissions`](../permissions/) per i dettagli. |
+| cryptoAlgorithm | CryptoAlgorithm | Algoritmo crittografico, vedi [`CryptoAlgorithm`](../cryptoalgorithm/) per i dettagli. |
 | usePdf20 | Boolean | Supporto per la revisione 6 (Estensione 8). |
 
-### Esempi
+## Osservazioni
 
-Il seguente esempio mostra come criptare file PDF con [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)
+Questo metodo prepara la crittografia. Per crittografare un documento, è necessario chiamare il metodo Save per salvarlo.
 
-```csharp
-[C#]
+### Vedi anche
 
-	// The path to your PDF File.
-	string pdfFilePath = "YOUR_PDF_FILE_PATH";
-
-	// Open document
-	using (Document document = new Document(pdfFilePath))
-	{
-	// Encrypt PDF
-	document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, true);
-
-	// Save updated PDF
-	document.Save(pdfFilePath);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to your PDF File.
-    Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
-    
-	' Open document
-    Using document As Document = New Document(pdfFilePath)
-        ' Encrypt PDF
-        document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, True)
-        ' Save updated PDF
-        document.Save(pdfFilePath)
-    End Using
-```
-
-### Vedi Anche
-
-* classe [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 * enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_1}
+## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_3}
 
-Cripta il documento. Chiama poi Salva per ottenere la versione criptata del documento.
+Cripta il documento.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
@@ -81,23 +138,27 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | userPassword | String | Password utente. |
-| ownerPassword | String | Password proprietario. |
-| permissions | Permissions | Permessi del documento, vedere [`Permissions`](../permissions/) per dettagli. |
-| cryptoAlgorithm | CryptoAlgorithm | Algoritmo crittografico, vedere [`CryptoAlgorithm`](../cryptoalgorithm/) per dettagli. |
+| ownerPassword | String | Password del proprietario. |
+| permissions | Permissions | Permessi del Document, vedi [`Permissions`](../permissions/) per i dettagli. |
+| cryptoAlgorithm | CryptoAlgorithm | Algoritmo crittografico, vedi [`CryptoAlgorithm`](../cryptoalgorithm/) per i dettagli. |
 
-### Vedi Anche
+## Osservazioni
+
+Questo metodo prepara la crittografia. Per crittografare un documento, è necessario chiamare il metodo Save per salvarlo.
+
+### Vedi anche
 
 * enum [Permissions](../../permissions/)
 * enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_2}
+## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_4}
 
-Cripta il documento. Chiama poi Salva per ottenere la versione criptata del documento.
+Cripta il documento.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
@@ -107,15 +168,21 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | userPassword | String | Password utente. |
-| ownerPassword | String | Password proprietario. |
-| permissions | Permissions | Permessi del documento, vedere [`Permissions`](../permissions/) per dettagli. |
-| cryptoAlgorithm | CryptoAlgorithm | Algoritmo crittografico, vedere [`CryptoAlgorithm`](../cryptoalgorithm/) per dettagli. |
+| ownerPassword | String | Password del proprietario. |
+| permissions | Permissions | Permessi del Document, vedi [`Permissions`](../permissions/) per i dettagli. |
+| cryptoAlgorithm | CryptoAlgorithm | Algoritmo crittografico, vedi [`CryptoAlgorithm`](../cryptoalgorithm/) per i dettagli. |
 | usePdf20 | Boolean | Supporto per la revisione 6 (Estensione 8). |
 
-### Vedi Anche
+## Osservazioni
+
+Questo metodo prepara la crittografia. Per crittografare un documento, è necessario chiamare il metodo Save per salvarlo.
+
+### Vedi anche
 
 * enum [Permissions](../../permissions/)
 * enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

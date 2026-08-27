@@ -1,12 +1,12 @@
 ---
-title: SetGlyphsPositionShowText.SetGlyphsPositionShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SetGlyphsPositionShowText. Costruttore per l'operatore TJ
+title: "SetGlyphsPositionShowText.SetGlyphsPositionShowText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SetGlyphsPositionShowText. Costruttore per l'operatore TJ"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/setglyphspositionshowtext/setglyphspositionshowtext/
 ---
-## Costruttore di SetGlyphsPositionShowText
+## SetGlyphsPositionShowText constructor
 
 Costruttore per l'operatore TJ.
 
@@ -16,11 +16,13 @@ public SetGlyphsPositionShowText(IEnumerable<GlyphPosition> glyphPositions)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| glyphPositions | IEnumerable`1 | Elenco delle posizioni dei glifi. |
+| glyphPositions | IEnumerable`1 | Elenco di posizioni dei glifi. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GlyphPosition](../../glyphposition/)
-* classe [SetGlyphsPositionShowText](../)
+* class [GlyphPosition](../../glyphposition/)
+* class [SetGlyphsPositionShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

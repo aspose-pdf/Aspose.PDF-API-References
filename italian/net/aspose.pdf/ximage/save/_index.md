@@ -1,9 +1,9 @@
 ---
-title: XImage.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XImage. Salva i dati dell'immagine nello stream come immagine JPEG
+title: "XImage.Save"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XImage. Salva i dati dell'immagine nello stream come immagine JPEG"
 type: docs
-weight: 150
+weight: 160
 url: /it/net/aspose.pdf/ximage/save/
 ---
 ## Save(Stream) {#save}
@@ -16,11 +16,11 @@ public void Save(Stream stream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream dove i dati dell'immagine saranno salvati. |
+| stream | Stream | Stream in cui verranno salvati i dati dell'immagine. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,12 +36,12 @@ public void Save(Stream stream, ImageFormat format)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream dove l'immagine sarà salvata |
-| format | ImageFormat | Formato che sarà utilizzato per la codifica dell'immagine. ImageFormat |
+| stream | Stream | Stream in cui l'immagine verrà salvata |
+| format | ImageFormat | Formato che verrà utilizzato per la codifica dell'immagine. ImageFormat |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,12 +57,12 @@ public void Save(Stream stream, int resolution)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream dove i dati dell'immagine saranno salvati. |
+| stream | Stream | Stream in cui verranno salvati i dati dell'immagine. |
 | resolution | Int32 | Risoluzione dell'immagine |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -78,12 +78,14 @@ public void Save(Stream stream, ImageFormat format, int resolution)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream dove l'immagine sarà salvata |
-| format | ImageFormat | Formato che sarà utilizzato per la codifica dell'immagine. ImageFormat |
+| stream | Stream | Stream in cui l'immagine verrà salvata |
+| format | ImageFormat | Formato che verrà utilizzato per la codifica dell'immagine. ImageFormat |
 | resolution | Int32 | Risoluzione dell'immagine |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

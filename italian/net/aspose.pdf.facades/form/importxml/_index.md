@@ -1,14 +1,14 @@
 ---
-title: Form.ImportXml
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo di formazione. Importa i contenuti dei campi dal file XML e mettili nel nuovo PDF.
+title: "Form.ImportXml"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Importa il contenuto dei campi dal file xml e lo inserisce nel nuovo pdf."
 type: docs
 weight: 310
 url: /it/net/aspose.pdf.facades/form/importxml/
 ---
 ## ImportXml(Stream) {#importxml}
 
-Importa il contenuto dei campi dal file xml e li inserisce nel nuovo pdf.
+Importa il contenuto dei campi dal file xml e lo inserisce nel nuovo pdf.
 
 ```csharp
 public void ImportXml(Stream inputXmlStream)
@@ -16,7 +16,7 @@ public void ImportXml(Stream inputXmlStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputXmlStream | Stream | Stream da cui viene letto l'XML per l'importazione. |
+| inputXmlStream | Stream | Flusso da cui viene letto l'XML per l'importazione. |
 
 ## Esempi
 
@@ -27,9 +27,9 @@ form.ImportXml(fs);
 form.Save();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,7 +37,7 @@ form.Save();
 
 ## ImportXml(Stream, bool) {#importxml_1}
 
-Importa il contenuto dei campi dal file xml e li inserisce nel nuovo pdf.
+Importa il contenuto dei campi dal file xml e lo inserisce nel nuovo pdf.
 
 ```csharp
 public void ImportXml(Stream inputXmlStream, bool IgnoreFormTemplateChanges)
@@ -45,11 +45,13 @@ public void ImportXml(Stream inputXmlStream, bool IgnoreFormTemplateChanges)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputXmlStream | Stream | Lo stream xml di input. |
-| IgnoreFormTemplateChanges | Boolean | Se questo parametro è vero, tutte le modifiche del modello di modulo XFA non verranno salvate |
+| inputXmlStream | Stream | Il flusso xml di input. |
+| IgnoreFormTemplateChanges | Boolean | Se questo parametro è true, tutte le modifiche del modello di modulo XFA non verranno salvate. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

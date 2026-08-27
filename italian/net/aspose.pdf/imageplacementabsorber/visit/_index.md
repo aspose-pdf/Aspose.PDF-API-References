@@ -1,7 +1,7 @@
 ---
-title: ImagePlacementAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementAbsorber method. Performs search on the specified page
+title: "ImagePlacementAbsorber.Visit"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ImagePlacementAbsorber. Esegue la ricerca nella pagina specificata"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/imageplacementabsorber/visit/
@@ -16,12 +16,12 @@ public void Visit(Page page)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Oggetto pagina del documento Pdf. |
+| pagina | Page | Oggetto pagina PDF. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../page/)
-* classe [ImagePlacementAbsorber](../)
+* class [Page](../../page/)
+* class [ImagePlacementAbsorber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,11 +37,13 @@ public void Visit(Document pdf)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pdf | Document | Oggetto documento Pdf. |
+| pdf | Document | Oggetto Pdf pocument. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../document/)
-* classe [ImagePlacementAbsorber](../)
+* class [Document](../../document/)
+* class [ImagePlacementAbsorber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionProperty.Category
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpPdfAExtensionProperty. Ottiene la categoria della proprietà
+title: "XmpPdfAExtensionProperty.Category"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XmpPdfAExtensionProperty. Ottiene la categoria della proprietà"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/xmppdfaextensionproperty/category/
 ---
-## Proprietà XmpPdfAExtensionProperty.Category
+## XmpPdfAExtensionProperty.Category property
 
 Ottiene la categoria della proprietà.
 
@@ -14,9 +14,11 @@ Ottiene la categoria della proprietà.
 public XmpPdfAExtensionCategoryType Category { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [XmpPdfAExtensionCategoryType](../../xmppdfaextensioncategorytype/)
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

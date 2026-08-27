@@ -1,14 +1,14 @@
 ---
-title: Metadata.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Metadata. Tenta di trovare la chiave nel dizionario e recupera il valore se trovato
+title: "Metadata.TryGetValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Metadata. Tenta di trovare la chiave nel dizionario e restituisce il valore se trovata"
 type: docs
 weight: 210
 url: /it/net/aspose.pdf/metadata/trygetvalue/
 ---
-## Metodo Metadata.TryGetValue
+## Metadata.TryGetValue method
 
-Tenta di trovare la chiave nel dizionario e recupera il valore se trovato.
+Cerca di trovare la chiave nel dizionario e recupera il valore se trovata.
 
 ```csharp
 public bool TryGetValue(string key, out XmpValue value)
@@ -16,16 +16,18 @@ public bool TryGetValue(string key, out XmpValue value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | String | Chiave da cercare nel dizionario. |
-| value | XmpValue& | Valore recuperato. |
+| chiave | String | Chiave da cercare nel dizionario. |
+| valore | XmpValue& | Valore recuperato. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 true se la chiave è stata trovata.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../../xmpvalue/)
-* classe [Metadata](../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

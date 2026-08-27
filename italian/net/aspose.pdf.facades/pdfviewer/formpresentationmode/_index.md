@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfViewer. Ottiene o imposta la modalità di presentazione del modulo
+title: "PdfViewer.FormPresentationMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfViewer. Ottiene o imposta la modalità di presentazione del modulo"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.facades/pdfviewer/formpresentationmode/
 ---
-## Proprietà PdfViewer.FormPresentationMode
+## PdfViewer.FormPresentationMode property
 
 Ottiene o imposta la modalità di presentazione del modulo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta la modalità di presentazione del modulo.
 public FormPresentationMode FormPresentationMode { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FormPresentationMode](../../../aspose.pdf.devices/formpresentationmode/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

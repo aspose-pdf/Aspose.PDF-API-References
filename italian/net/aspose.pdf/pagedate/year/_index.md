@@ -1,12 +1,12 @@
 ---
-title: PageDate.Year
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageDate. Ottiene o imposta il componente anno della data. Il formato della data verrà aggiornato in base a questo componente
+title: "PageDate.Year"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageDate. Ottiene o imposta la componente dell'anno della data. Il formato della data verrà aggiornato in base a questa componente."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/pagedate/year/
 ---
-## Proprietà PageDate.Year
+## PageDate.Year property
 
 Ottiene o imposta il componente anno della data. Il formato della data verrà aggiornato in base a questo componente.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il componente anno della data. Il formato della data verrà ag
 public YearComponent Year { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [YearComponent](../../pagedate.yearcomponent/)
-* classe [PageDate](../)
+* class [YearComponent](../../pagedate.yearcomponent/)
+* class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

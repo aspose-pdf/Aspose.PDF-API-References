@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionField.XmpPdfAExtensionField
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di XmpPdfAExtensionField. Inizializza l'oggetto
+title: "XmpPdfAExtensionField.XmpPdfAExtensionField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore XmpPdfAExtensionField. Inizializza l'oggetto"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/
 ---
-## Costruttore di XmpPdfAExtensionField
+## XmpPdfAExtensionField constructor
 
 Inizializza l'oggetto.
 
@@ -16,13 +16,15 @@ public XmpPdfAExtensionField(string name, string value, string valueType, string
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Il nome del campo. |
-| value | String | Il valore del campo. |
+| nome | String | Il nome del campo. |
+| valore | String | Il valore del campo. |
 | valueType | String | Il tipo di valore del campo. |
 | description | String | La descrizione del campo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpPdfAExtensionField](../)
+* class [XmpPdfAExtensionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

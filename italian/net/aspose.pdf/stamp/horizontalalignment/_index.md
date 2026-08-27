@@ -1,12 +1,12 @@
 ---
-title: Stamp.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Stamp. Ottiene o imposta l'allineamento orizzontale del timbro sulla pagina
+title: "Stamp.HorizontalAlignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Stamp. Ottiene o imposta l'allineamento orizzontale del timbro sulla pagina"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/stamp/horizontalalignment/
 ---
-## Proprietà Stamp.HorizontalAlignment
+## Stamp.HorizontalAlignment property
 
 Ottiene o imposta l'allineamento orizzontale del timbro sulla pagina.
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'allineamento orizzontale del timbro sulla pagina.
 public HorizontalAlignment HorizontalAlignment { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [HorizontalAlignment](../../horizontalalignment/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

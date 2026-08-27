@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OptionCollection. Controlla se l'elemento esiste nella collezione e genera NotImplementedException
+title: "OptionCollection.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OptionCollection. Verifica se l'elemento esiste nella collezione lancia NotImplementedException"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.forms/optioncollection/contains/
 ---
-## Metodo OptionCollection.Contains
+## OptionCollection.Contains method
 
-Controlla se l'elemento esiste nella collezione, genera NotImplementedException.
+Verifica se l'elemento esiste nella raccolta, genera NotImplementedException.
 
 ```csharp
 public bool Contains(Option item)
@@ -20,11 +20,13 @@ public bool Contains(Option item)
 
 ### Valore di ritorno
 
-Genera NotImplementedException
+Lancia NotImplementedException
 
 ### Vedi anche
 
-* classe [Option](../../option/)
-* classe [OptionCollection](../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

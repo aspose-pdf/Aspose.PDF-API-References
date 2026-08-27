@@ -1,14 +1,14 @@
 ---
-title: Document.Pages
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta la collezione delle pagine del documento. Nota che le pagine sono numerate a partire da 1 nella collezione
+title: "Document.Pages"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Document property. Ottiene o imposta la collezione di pagine del documento. Nota che le pagine sono numerate a partire da 1 nella collezione"
 type: docs
-weight: 470
+weight: 490
 url: /it/net/aspose.pdf/document/pages/
 ---
-## Proprietà Document.Pages
+## Document.Pages property
 
-Ottiene o imposta la collezione delle pagine del documento. Nota che le pagine sono numerate a partire da 1 nella collezione.
+Ottiene o imposta la raccolta di pagine del documento. Nota che le pagine sono numerate a partire da 1 nella raccolta.
 
 ```csharp
 public PageCollection Pages { get; }
@@ -26,9 +26,11 @@ Page page = pages[1];
 Rectangle rect = page.Rect;        
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageCollection](../../pagecollection/)
-* classe [Document](../)
+* class [PageCollection](../../pagecollection/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

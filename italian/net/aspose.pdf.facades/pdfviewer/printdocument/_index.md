@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.PrintDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfViewer. Stampa il documento Pdf utilizzando la stampante predefinita
+title: "PdfViewer.PrintDocument"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfViewer. Stampa il documento PDF utilizzando la stampante predefinita"
 type: docs
 weight: 320
 url: /it/net/aspose.pdf.facades/pdfviewer/printdocument/
 ---
-## Metodo PdfViewer.PrintDocument
+## PdfViewer.PrintDocument method
 
 Stampa il documento Pdf utilizzando la stampante predefinita.
 
@@ -38,6 +38,8 @@ iewer.ClosePdfFile()
 
 ### Vedi anche
 
-* classe [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultSchemaNamespacePrefix
-second_title: Aspose.PDF for .NET API Reference
-description: Campo XmpPdfAExtensionSchema. Prefisso del namespace dello schema predefinito
+title: "XmpPdfAExtensionSchema.DefaultSchemaNamespacePrefix"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "XmpPdfAExtensionSchema campo. Prefisso predefinito dello spazio dei nomi dello schema"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceprefix/
 ---
-## Campo XmpPdfAExtensionSchema.DefaultSchemaNamespacePrefix
+## XmpPdfAExtensionSchema.DefaultSchemaNamespacePrefix field
 
-Prefisso del namespace dello schema predefinito.
+Prefisso predefinito dello spazio dei nomi dello schema.
 
 ```csharp
 public const string DefaultSchemaNamespacePrefix;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpPdfAExtensionSchema](../)
+* class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

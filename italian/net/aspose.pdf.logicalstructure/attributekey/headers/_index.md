@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Headers
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo Headers Proprietario dell'attributo Tabella
+title: "AttributeKey.Headers"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. Headers attributo Table attributo proprietario"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.logicalstructure/attributekey/headers/
 ---
-## Campo AttributeKey.Headers
+## AttributeKey.Headers field
 
-Attributo Headers (Proprietario dell'attributo Tabella).
+Attributo Headers (proprietario dell'attributo Table).
 
 ```csharp
 public static readonly AttributeKey Headers;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

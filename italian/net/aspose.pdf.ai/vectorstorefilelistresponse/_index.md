@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreFileListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IntelligenzaArtificiale.VectorStore.ElencoFile.Risposta. Rappresenta una risposta elencata che contiene dati di file del VectorStore.
+title: "Classe VectorStoreFileListResponse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.VectorStoreFileListResponse. Rappresenta una risposta di elenco contenente i dati dei file del vector store."
 type: docs
-weight: 1340
+weight: 1430
 url: /it/net/aspose.pdf.ai/vectorstorefilelistresponse/
 ---
-## Classe VectorStoreFileListResponse
+## VectorStoreFileListResponse class
 
-Rappresenta una risposta di elenco contenente dati sui file del negozio vettoriale.
+Rappresenta una risposta di elenco contenente i dati dei file del vector store.
 
 ```csharp
 public class VectorStoreFileListResponse : ListDataResponse<List<VectorStoreFileResponse>>
@@ -25,26 +25,28 @@ public class VectorStoreFileListResponse : ListDataResponse<List<VectorStoreFile
 | Nome | Descrizione |
 | --- | --- |
 | [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } |  |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Ottiene o imposta i dettagli della risposta. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Ottiene o imposta il dettaglio della risposta. |
 | [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Ottiene o imposta l'errore della risposta HTTP. |
 | [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Ottiene o imposta le informazioni sull'errore. |
 | [FirstId](../../aspose.pdf.ai/listdataresponse-1/firstid/) { get; set; } |  |
 | [HasMore](../../aspose.pdf.ai/listdataresponse-1/hasmore/) { get; set; } |  |
 | [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Ottiene o imposta le intestazioni della risposta HTTP. |
 | [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Ottiene o imposta il codice di stato HTTP. |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indica se la risposta è stata positiva. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indica se la risposta ha avuto successo. |
 | [LastId](../../aspose.pdf.ai/listdataresponse-1/lastid/) { get; set; } |  |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Ottiene la frase di ragione dell'errore. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Ottiene la frase di motivo dell'errore. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [GetFileIdList](../../aspose.pdf.ai/vectorstorefilelistresponse/getfileidlist/)() | Ottiene l'elenco degli ID dei file dal negozio vettoriale. |
+| [GetFileIdList](../../aspose.pdf.ai/vectorstorefilelistresponse/getfileidlist/)() | Ottiene l'elenco degli ID file dal vector store. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
-* classe [VectorStoreFileResponse](../vectorstorefileresponse/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [VectorStoreFileResponse](../vectorstorefileresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

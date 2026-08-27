@@ -1,12 +1,12 @@
 ---
-title: LlamaClient.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo LlamaClient. Ottiene un'istanza di ISummaryCopilot con le opzioni specificate
+title: "LlamaClient.GetSummaryCopilot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo LlamaClient. Ottiene un'istanza di ISummaryCopilot con le opzioni specificate"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/llamaclient/getsummarycopilot/
 ---
-## Metodo LlamaClient.GetSummaryCopilot
+## LlamaClient.GetSummaryCopilot method
 
 Ottiene un'istanza di [`ISummaryCopilot`](../../isummarycopilot/) con le opzioni specificate.
 
@@ -16,7 +16,7 @@ public ISummaryCopilot GetSummaryCopilot(ISummaryCopilotOptions<LlamaSummaryCopi
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| options | ISummaryCopilotOptions`1 | Le opzioni per il copilot di riepilogo. |
+| options | ISummaryCopilotOptions`1 | Le opzioni per il copilota di riepilogo. |
 
 ### Valore di ritorno
 
@@ -24,9 +24,11 @@ Un'istanza di [`ISummaryCopilot`](../../isummarycopilot/).
 
 ### Vedi anche
 
-* interfaccia [ISummaryCopilot](../../isummarycopilot/)
-* interfaccia [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* classe [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
-* classe [LlamaClient](../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
+* class [LlamaClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

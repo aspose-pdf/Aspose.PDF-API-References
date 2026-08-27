@@ -1,12 +1,12 @@
 ---
-title: ResizeOptions.ResizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ResizeOptions. Il costruttore predefinito
+title: "ResizeOptions.ResizeOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ResizeOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/resizeoptions/resizeoptions/
 ---
-## Costruttore di ResizeOptions
+## ResizeOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ResizeOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ResizeOptions](../)
+* class [ResizeOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

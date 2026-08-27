@@ -1,12 +1,12 @@
 ---
-title: ImageDevice.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImageDevice. Ottiene la larghezza dell'output dell'immagine
+title: "ImageDevice.Width"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImageDevice. Ottiene la larghezza di output dell'immagine"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.devices/imagedevice/width/
 ---
-## Proprietà ImageDevice.Width
+## ImageDevice.Width property
 
 Ottiene la larghezza dell'output dell'immagine.
 
@@ -14,8 +14,10 @@ Ottiene la larghezza dell'output dell'immagine.
 public int Width { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageDevice](../)
+* class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

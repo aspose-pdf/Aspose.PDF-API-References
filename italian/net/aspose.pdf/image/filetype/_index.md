@@ -1,22 +1,24 @@
 ---
-title: Image.FileType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'immagine. Ottiene o imposta il tipo di file immagine
+title: "Image.FileType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Image. Ottiene o imposta il tipo di file dell'immagine"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/image/filetype/
 ---
-## Proprietà Image.FileType
+## Image.FileType property
 
-Ottiene o imposta il tipo di file immagine.
+Ottiene o imposta il tipo di file dell'immagine.
 
 ```csharp
 public ImageFileType FileType { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ImageFileType](../../imagefiletype/)
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

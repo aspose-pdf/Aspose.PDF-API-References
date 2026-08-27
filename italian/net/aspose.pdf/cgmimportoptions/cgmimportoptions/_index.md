@@ -1,12 +1,12 @@
 ---
-title: CgmImportOptions.CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di CgmImportOptions. Il costruttore predefinito
+title: "CgmImportOptions.CgmImportOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore CgmImportOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/cgmimportoptions/cgmimportoptions/
 ---
-## Costruttore di CgmImportOptions
+## CgmImportOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public CgmImportOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CgmImportOptions](../)
+* class [CgmImportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

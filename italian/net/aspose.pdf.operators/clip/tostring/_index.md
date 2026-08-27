@@ -1,12 +1,12 @@
 ---
-title: Clip.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Clip. Restituisce la rappresentazione testuale degli operatori
+title: "Clip.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Clip. Restituisce la rappresentazione testuale degli operatori"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/clip/tostring/
 ---
-## Metodo Clip.ToString
+## Clip.ToString method
 
 Restituisce la rappresentazione testuale degli operatori.
 
@@ -14,12 +14,14 @@ Restituisce la rappresentazione testuale degli operatori.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Rappresentazione testuale dell'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Clip](../)
+* class [Clip](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

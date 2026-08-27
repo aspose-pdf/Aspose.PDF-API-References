@@ -1,7 +1,7 @@
 ---
-title: GoToRemoteAction.GoToRemoteAction
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore GoToRemoteAction. Inizializza l'oggetto GoToRemoteAction
+title: "GoToRemoteAction.GoToRemoteAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore GoToRemoteAction. Inizializza l'oggetto GoToRemoteAction"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/gotoremoteaction/gotoremoteaction/
@@ -19,9 +19,9 @@ public GoToRemoteAction(string remotePdf, int remotePageNumber)
 | remotePdf | String | Documento PDF di destinazione. |
 | remotePageNumber | Int32 | Numero di pagina di destinazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GoToRemoteAction](../)
+* class [GoToRemoteAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,9 +40,11 @@ public GoToRemoteAction(string remotePdf, ExplicitDestination destination)
 | remotePdf | String | Documento PDF di destinazione. |
 | destination | ExplicitDestination | Destinazione nel documento PDF. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ExplicitDestination](../../explicitdestination/)
-* classe [GoToRemoteAction](../)
+* class [ExplicitDestination](../../explicitdestination/)
+* class [GoToRemoteAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

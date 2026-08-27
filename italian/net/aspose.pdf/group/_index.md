@@ -1,14 +1,14 @@
 ---
-title: Class Group
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Group. Una classe di attributi di gruppo che specifica gli attributi del gruppo di pagine della pagina da utilizzare nel modello di imaging trasparente
+title: "Classe Group"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "classe Aspose.Pdf.Group. Una classe di attributi di gruppo che specifica gli attributi del gruppo di pagine per l'uso nel modello di imaging trasparente"
 type: docs
-weight: 5350
+weight: 5470
 url: /it/net/aspose.pdf/group/
 ---
-## Classe Gruppo
+## Group class
 
-Una classe di attributi di gruppo che specifica gli attributi del gruppo di pagine della pagina da utilizzare nel modello di imaging trasparente.
+Una classe di attributi di gruppo che specifica gli attributi del gruppo di pagine della pagina per l'uso nel modello di imaging trasparente.
 
 ```csharp
 public sealed class Group
@@ -26,7 +26,9 @@ public sealed class Group
 | --- | --- |
 | [ColorSpace](../../aspose.pdf/group/colorspace/) { get; set; } | Lo spazio colore del gruppo. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

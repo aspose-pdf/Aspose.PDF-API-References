@@ -1,21 +1,23 @@
 ---
-title: PdfViewer.PrintStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfViewer. Ottiene il risultato del lavoro di stampa. Se ha successo, allora null; altrimenti, oggetto eccezione
+title: "PdfViewer.PrintStatus"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfViewer. Ottiene il risultato del lavoro di stampa. Se ha successo restituisce null, altrimenti un oggetto eccezione"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.facades/pdfviewer/printstatus/
 ---
-## Proprietà PdfViewer.PrintStatus
+## PdfViewer.PrintStatus property
 
-Ottiene il risultato del lavoro di stampa. Se ha successo, allora null; altrimenti, oggetto eccezione.
+Ottiene il risultato del lavoro di stampa. Se ha successo restituisce null; altrimenti, un oggetto eccezione.
 
 ```csharp
 public object PrintStatus { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

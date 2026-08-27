@@ -1,12 +1,12 @@
 ---
-title: Annotation.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Annotation. Ottiene o imposta la larghezza dell'annotazione
+title: "Annotation.Width"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Annotation. Ottiene o imposta la larghezza dell'annotazione"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf.annotations/annotation/width/
 ---
-## Proprietà Annotation.Width
+## Annotation.Width property
 
 Ottiene o imposta la larghezza dell'annotazione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la larghezza dell'annotazione.
 public virtual double Width { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

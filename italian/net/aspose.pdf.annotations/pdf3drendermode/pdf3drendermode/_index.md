@@ -1,7 +1,7 @@
 ---
-title: PDF3DRenderMode.PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore PDF3DRenderMode. Inizializza una nuova istanza della classe PDF3DRenderMode
+title: "PDF3DRenderMode.PDF3DRenderMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PDF3DRenderMode. Inizializza una nuova istanza della classe PDF3DRenderMode"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/
@@ -18,7 +18,7 @@ public PDF3DRenderMode(RenderModeType subtype)
 | --- | --- | --- |
 | subtype | RenderModeType | Il tipo di modalità di rendering. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [RenderModeType](../../rendermodetype/)
 * class [PDF3DRenderMode](../)
@@ -43,10 +43,12 @@ public PDF3DRenderMode(string typeName)
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentException | Tipo di argomento modalità di rendering sconosciuto |
+| ArgumentException | Tipo di argomento di modalità di rendering sconosciuto |
 
-### Vedi Anche
+### Vedi anche
 
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

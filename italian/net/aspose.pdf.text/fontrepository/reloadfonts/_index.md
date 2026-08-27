@@ -1,12 +1,12 @@
 ---
-title: FontRepository.ReloadFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FontRepository. Ricarica tutti i font specificati dalla proprietà Sources
+title: "FontRepository.ReloadFonts"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FontRepository. Ricarica tutti i font specificati dalla proprietà Sources"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.text/fontrepository/reloadfonts/
 ---
-## Metodo FontRepository.ReloadFonts
+## FontRepository.ReloadFonts method
 
 Ricarica tutti i font specificati dalla proprietà [`Sources`](../sources/)
 
@@ -14,8 +14,10 @@ Ricarica tutti i font specificati dalla proprietà [`Sources`](../sources/)
 public static void ReloadFonts()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontRepository](../)
+* class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

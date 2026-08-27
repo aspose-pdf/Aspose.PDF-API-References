@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.DeleteStampById
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfContentEditor. Elimina il timbro nella pagina specificata per ID timbro
+title: "PdfContentEditor.DeleteStampById"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Elimina lo stamp nella Page specificata per ID stamp"
 type: docs
 weight: 340
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyid/
@@ -16,8 +16,8 @@ public void DeleteStampById(int pageNumber, int stampId)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNumber | Int32 | Numero della pagina in cui il timbro sarà eliminato. |
-| stampId | Int32 | Identificatore del timbro che deve essere eliminato. |
+| pageNumber | Int32 | Numero della Page dove lo stamp sarà eliminato. |
+| stampId | Int32 | Identificatore di stanp che dovrebbe essere eliminato. |
 
 ## Esempi
 
@@ -28,9 +28,9 @@ contentEditor.DeleteStampById(1, 100);
 contentEditor.Save("outfile.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -46,7 +46,7 @@ public void DeleteStampById(int stampId)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stampId | Int32 | Identificatore del timbro che deve essere eliminato. |
+| stampId | Int32 | Identificatore di stamp che dovrebbe essere eliminato. |
 
 ## Esempi
 
@@ -57,8 +57,10 @@ contentEditor.DeleteStampById(100);
 contentEditor.Save("outfile.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

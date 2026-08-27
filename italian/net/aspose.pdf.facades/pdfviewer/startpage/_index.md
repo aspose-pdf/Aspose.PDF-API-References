@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.StartPage
-second_title: Aspose.PDF for .NET API Reference
-description: Evento PdfViewer. Si verifica prima che una pagina inizi a stampare
+title: "PdfViewer.StartPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Evento PdfViewer. Si verifica prima che una pagina inizi la stampa"
 type: docs
 weight: 240
 url: /it/net/aspose.pdf.facades/pdfviewer/startpage/
 ---
-## Evento PdfViewer.StartPage
+## PdfViewer.StartPage event
 
 Si verifica prima che una pagina inizi a stampare.
 
@@ -16,11 +16,13 @@ public event EventHandler<StartEndPageEventArgs> StartPage;
 
 ## Osservazioni
 
-Questo evento viene attivato per ogni pagina che sta per essere stampata. Può essere utilizzato per eseguire azioni personalizzate prima che inizi la stampa della pagina.
+Questo evento viene attivato per ogni pagina che sta per essere stampata. Può essere usato per eseguire azioni personalizzate prima dell'inizio della stampa della pagina.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StartEndPageEventArgs](../../../aspose.pdf.printing/startendpageeventargs/)
-* classe [PdfViewer](../)
+* class [StartEndPageEventArgs](../../../aspose.pdf.printing/startendpageeventargs/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

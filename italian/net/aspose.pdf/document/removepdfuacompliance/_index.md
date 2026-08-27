@@ -1,21 +1,23 @@
 ---
-title: Document.RemovePdfUaCompliance
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo documento. Rimuovere conformità pdfUa dal documento.
+title: "Document.RemovePdfUaCompliance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Document. Rimuove la conformità pdfUa dal documento"
 type: docs
-weight: 810
+weight: 830
 url: /it/net/aspose.pdf/document/removepdfuacompliance/
 ---
 ## Document.RemovePdfUaCompliance method
 
-Rimuovi la conformità pdfUa dal documento
+Rimuovi la conformità pdfUa dal documento.
 
 ```csharp
 public void RemovePdfUaCompliance()
 ```
 
-### See Also
+### Vedi anche
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

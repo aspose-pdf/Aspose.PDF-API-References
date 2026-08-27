@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextAlign_Start
-second_title: Aspose.PDF for .NET API Reference
-description: Campo del attributo Nome. Attributo Allineamento del testo Inizio Allineato all'origine.
+title: "AttributeName.TextAlign_Start"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName campo. Attributo TextAlign Start  Allineato al bordo iniziale"
 type: docs
 weight: 580
 url: /it/net/aspose.pdf.logicalstructure/attributename/textalign_start/
 ---
-## Campo AttributeName.TextAlign_Start
+## AttributeName.TextAlign_Start field
 
-Attributo TextAlign: Inizio - Allineato con il bordo di inizio.
+Attributo TextAlign: Start - Allineato al margine iniziale.
 
 ```csharp
 public static readonly AttributeName TextAlign_Start;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

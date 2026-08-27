@@ -1,12 +1,12 @@
 ---
-title: OptimizationOptions.ImageCompressionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OptimizationOptions. Impostazioni opzionale che descrivono se gli immagini nel documento saranno compressi e i parametri della compressione.
+title: "OptimizationOptions.ImageCompressionOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OptimizationOptions. Insieme di opzioni che descrivono se le immagini nel documento saranno compresse e i parametri della compressione"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.optimization/optimizationoptions/imagecompressionoptions/
 ---
-## Proprietà OptimizationOptions.ImageCompressionOptions
+## OptimizationOptions.ImageCompressionOptions property
 
 Insieme di opzioni che descrivono se le immagini nel documento saranno compresse e i parametri della compressione.
 
@@ -14,9 +14,11 @@ Insieme di opzioni che descrivono se le immagini nel documento saranno compresse
 public ImageCompressionOptions ImageCompressionOptions { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageCompressionOptions](../../imagecompressionoptions/)
-* classe [OptimizationOptions](../)
+* class [ImageCompressionOptions](../../imagecompressionoptions/)
+* class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

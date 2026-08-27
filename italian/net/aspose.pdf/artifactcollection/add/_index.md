@@ -1,14 +1,14 @@
 ---
-title: ArtifactCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection method. Adds artifacts to the collection
+title: "ArtifactCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ArtifactCollection. Aggiunge artefatti alla collezione"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/artifactcollection/add/
 ---
-## Metodo ArtifactCollection.Add
+## ArtifactCollection.Add method
 
-Aggiunge artefatti alla collezione.
+Aggiunge gli artifact alla raccolta.
 
 ```csharp
 public void Add(Artifact artifact)
@@ -16,11 +16,13 @@ public void Add(Artifact artifact)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| artifact | Artifact | Artefatto che deve essere aggiunto alla collezione. |
+| artefatto | Artefatto | Artifact da aggiungere alla raccolta. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Artifact](../../artifact/)
-* classe [ArtifactCollection](../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

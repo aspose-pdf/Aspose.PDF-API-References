@@ -1,21 +1,23 @@
 ---
-title: FitHExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: FitHExplicitDestination property. Gets the vertical coordinate top positioned at the top edge of the window
+title: "FitHExplicitDestination.Top"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FitHExplicitDestination. Restituisce la coordinata verticale superiore posizionata al bordo superiore della finestra"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/fithexplicitdestination/top/
 ---
-## Proprietà FitHExplicitDestination.Top
+## FitHExplicitDestination.Top property
 
-Ottiene la coordinata verticale superiore posizionata al bordo superiore della finestra.
+Restituisce la coordinata verticale top posizionata sul bordo superiore della finestra.
 
 ```csharp
 public double Top { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FitHExplicitDestination](../)
+* class [FitHExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

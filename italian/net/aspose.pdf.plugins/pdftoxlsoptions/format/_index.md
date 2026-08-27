@@ -1,12 +1,12 @@
 ---
-title: PdfToXlsOptions.Format
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfToXlsOptions. Formato di output
+title: "PdfToXlsOptions.Format"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfToXlsOptions proprietà. Formato di output"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/pdftoxlsoptions/format/
 ---
-## Proprietà PdfToXlsOptions.Format
+## PdfToXlsOptions.Format property
 
 Formato di output.
 
@@ -14,9 +14,11 @@ Formato di output.
 public ExcelFormat Format { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ExcelFormat](../../pdftoxlsoptions.excelformat/)
 * class [PdfToXlsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

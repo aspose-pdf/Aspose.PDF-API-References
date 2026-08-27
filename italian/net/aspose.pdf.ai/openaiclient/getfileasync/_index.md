@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Retrieves details of a specific file asynchronously
+title: "OpenAIClient.GetFileAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Recupera i dettagli di un file specifico in modo asincrono"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.ai/openaiclient/getfileasync/
 ---
-## Metodo OpenAIClient.GetFileAsync
+## OpenAIClient.GetFileAsync method
 
 Recupera i dettagli di un file specifico in modo asincrono.
 
@@ -28,11 +28,13 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del file è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del file è nullo o vuoto. |
 
 ### Vedi anche
 
-* classe [FileResponse](../../fileresponse/)
-* classe [OpenAIClient](../)
+* class [FileResponse](../../fileresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

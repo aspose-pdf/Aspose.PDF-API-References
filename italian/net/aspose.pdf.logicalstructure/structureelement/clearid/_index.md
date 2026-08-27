@@ -1,21 +1,23 @@
 ---
-title: StructureElement.ClearId
-second_title: Aspose.PDF for .NET API Reference
-description: Elemento Strutturale metodo. ID Chiaro per Elemento Strutturale.
+title: "StructureElement.ClearId"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StructureElement. Cancella l'ID per l'elemento di struttura"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.logicalstructure/structureelement/clearid/
 ---
-## Metodo StructureElement.ClearId
+## StructureElement.ClearId method
 
-Cancella ID per l'elemento di struttura.
+Cancella l'ID per l'elemento di struttura.
 
 ```csharp
 public void ClearId()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

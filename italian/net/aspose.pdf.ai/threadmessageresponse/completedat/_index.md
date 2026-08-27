@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageResponse.CompletedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ThreadMessageResponse. Ottiene o imposta il timestamp Unix in secondi per quando il messaggio è stato completato
+title: "ThreadMessageResponse.CompletedAt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ThreadMessageResponse. Ottiene o imposta il timestamp Unix in secondi per quando il messaggio è stato completato"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/threadmessageresponse/completedat/
 ---
-## Proprietà ThreadMessageResponse.CompletedAt
+## ThreadMessageResponse.CompletedAt property
 
 Ottiene o imposta il timestamp Unix (in secondi) per quando il messaggio è stato completato.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il timestamp Unix (in secondi) per quando il messaggio è stat
 public long? CompletedAt { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ThreadMessageResponse](../)
+* class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EpubLoadOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà EpubLoadOptions. Ottiene o imposta la dimensione della pagina di output per l'importazione
+title: "EpubLoadOptions.PageSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà EpubLoadOptions. Ottiene o imposta la dimensione della pagina di output per l'importazione."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/epubloadoptions/pagesize/
 ---
-## Proprietà EpubLoadOptions.PageSize
+## EpubLoadOptions.PageSize property
 
 Ottiene o imposta la dimensione della pagina di output per l'importazione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la dimensione della pagina di output per l'importazione.
 public SizeF PageSize { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EpubLoadOptions](../)
+* class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

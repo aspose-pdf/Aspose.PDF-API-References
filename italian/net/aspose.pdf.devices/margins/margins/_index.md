@@ -1,12 +1,12 @@
 ---
-title: Margins.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di Margini. Inizializza una nuova istanza della classe Margini
+title: "Margins.Margins"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Margins. Inizializza una nuova istanza della classe Margins"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.devices/margins/margins/
 ---
-## Margini(int, int, int, int) {#constructor_1}
+## Margins(int, int, int, int) {#constructor_1}
 
 Inizializza una nuova istanza della classe [`Margins`](../).
 
@@ -18,18 +18,18 @@ public Margins(int left, int right, int top, int bottom)
 | --- | --- | --- |
 | sinistra | Int32 | La coordinata sinistra. |
 | destra | Int32 | La coordinata destra. |
-| sopra | Int32 | La coordinata superiore. |
-| sotto | Int32 | La coordinata inferiore. |
+| alto | Int32 | La coordinata superiore. |
+| inferiore | Int32 | La coordinata inferiore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Margins](../)
+* class [Margins](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Margini() {#constructor}
+## Margins() {#constructor}
 
 Inizializza una nuova istanza della classe [`Margins`](../).
 
@@ -37,8 +37,10 @@ Inizializza una nuova istanza della classe [`Margins`](../).
 public Margins()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Margins](../)
+* class [Margins](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

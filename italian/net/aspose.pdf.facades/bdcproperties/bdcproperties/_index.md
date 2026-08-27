@@ -1,7 +1,7 @@
 ---
-title: BDCProperties.BDCProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di BDCProperties. Costruttore per le proprietà dell'operatore BDC
+title: "BDCProperties.BDCProperties"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore BDCProperties. Costruttore per le proprietà dell'operatore BDC"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/bdcproperties/bdcproperties/
@@ -16,12 +16,12 @@ public BDCProperties(string lang = null, string expansionText = null)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| lang | String | Tag della lingua. |
+| lang | String | Tag Lang. |
 | expansionText | String | Testo di espansione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BDCProperties](../)
+* class [BDCProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,11 +38,13 @@ public BDCProperties(int? mcid, string lang = null, string expansionText = null)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | mcid | Nullable`1 | MCID. |
-| lang | String | Tag della lingua. |
+| lang | String | Tag Lang. |
 | expansionText | String | Testo di espansione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BDCProperties](../)
+* class [BDCProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

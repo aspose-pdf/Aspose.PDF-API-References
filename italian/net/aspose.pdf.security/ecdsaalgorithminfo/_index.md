@@ -1,12 +1,12 @@
 ---
-title: Class EcdsaAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Security.EcdsaAlgorithmInfo. Rappresenta una classe per le informazioni sull'algoritmo di firma ECDSA
+title: "Classe EcdsaAlgorithmInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Security.EcdsaAlgorithmInfo. Rappresenta una classe per le informazioni sull'algoritmo di firma ECDSA"
 type: docs
-weight: 9970
+weight: 10130
 url: /it/net/aspose.pdf.security/ecdsaalgorithminfo/
 ---
-## Classe EcdsaAlgorithmInfo
+## EcdsaAlgorithmInfo class
 
 Rappresenta una classe per le informazioni sull'algoritmo di firma ECDSA.
 
@@ -18,13 +18,13 @@ public sealed class EcdsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
 
 | Nome | Descrizione |
 | --- | --- |
-| [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | Ottiene il nome del campo di firma. |
+| [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | Ottiene il nome del campo della firma. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [ToString](../../aspose.pdf.security/signaturealgorithminfo/tostring/)() | Converte l'oggetto informativo corrente nella sua rappresentazione stringa. |
+| override [ToString](../../aspose.pdf.security/signaturealgorithminfo/tostring/)() | Converte l'oggetto informazione corrente nella sua rappresentazione stringa. |
 
 ## Campi
 
@@ -36,8 +36,10 @@ public sealed class EcdsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
 | readonly [EccName](../../aspose.pdf.security/ecdsaalgorithminfo/eccname/) | Ottiene il nome della curva ellittica utilizzata dall'ECDSA. |
 | readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | Ottiene la dimensione della chiave crittografica utilizzata dall'algoritmo di firma. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
+* class [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

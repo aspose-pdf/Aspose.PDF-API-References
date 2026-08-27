@@ -1,14 +1,14 @@
 ---
-title: PdfGeneratorOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfGeneratorOptions. Aggiunge una nuova fonte di dati alla raccolta di dati del plugin PdfGenerator
+title: "PdfGeneratorOptions.AddOutput"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfGeneratorOptions metodo. Aggiunge una nuova origine dati alla raccolta dati del plugin PdfGenerator"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.plugins/pdfgeneratoroptions/addoutput/
 ---
-## Metodo PdfGeneratorOptions.AddOutput
+## PdfGeneratorOptions.AddOutput method
 
-Aggiunge una nuova fonte di dati alla raccolta di dati del plugin PdfGenerator.
+Aggiunge una nuova origine dati alla raccolta dati del plugin PdfGenerator.
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
@@ -16,11 +16,13 @@ public void AddOutput(IDataSource saveDataSource)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| saveDataSource | IDataSource | Fonte di dati (file o stream) per i risultati dell'operazione di salvataggio. |
+| saveDataSource | IDataSource | Origine dati (file o flusso) per i risultati dell'operazione di salvataggio. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../../idatasource/)
-* classe [PdfGeneratorOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfGeneratorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

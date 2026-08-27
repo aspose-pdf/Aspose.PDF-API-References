@@ -1,12 +1,12 @@
 ---
-title: Color.PaleTurquoise
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFAFEEEE
+title: "Color.PaleTurquoise"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema con valore ARGB c FFAFEEEE"
 type: docs
 weight: 1060
 url: /it/net/aspose.pdf/color/paleturquoise/
 ---
-## Proprietà Color.PaleTurquoise
+## Color.PaleTurquoise property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFAFEEEE.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFAFEEEE.
 public static Color PaleTurquoise { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

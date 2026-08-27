@@ -1,12 +1,12 @@
 ---
-title: Choice.Choice
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di Choice. Il costruttore predefinito
+title: "Choice.Choice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Choice constructor. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/choice/choice/
 ---
-## Costruttore di Choice
+## Choice constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Choice()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Choice](../)
+* class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

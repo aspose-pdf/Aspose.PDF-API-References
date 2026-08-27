@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateWarichuElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates WarichuElement
+title: "ITaggedContent.CreateWarichuElement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ITaggedContent. Crea WarichuElement"
 type: docs
-weight: 370
+weight: 400
 url: /it/net/aspose.pdf.tagged/itaggedcontent/createwarichuelement/
 ---
-## Metodo ITaggedContent.CreateWarichuElement
+## ITaggedContent.CreateWarichuElement method
 
 Crea [`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement/).
 
@@ -20,7 +20,9 @@ Elemento di struttura creato.
 
 ### Vedi anche
 
-* classe [WarichuElement](../../../aspose.pdf.logicalstructure/warichuelement/)
-* interfaccia [ITaggedContent](../)
+* class [WarichuElement](../../../aspose.pdf.logicalstructure/warichuelement/)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

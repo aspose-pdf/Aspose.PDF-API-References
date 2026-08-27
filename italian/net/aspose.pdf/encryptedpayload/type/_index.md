@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà EncryptedPayload. Ottiene il tipo
+title: "EncryptedPayload.Type"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà EncryptedPayload. Ottiene il tipo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/encryptedpayload/type/
 ---
-## Proprietà EncryptedPayload.Type
+## EncryptedPayload.Type property
 
 Ottiene il tipo.
 
@@ -14,8 +14,10 @@ Ottiene il tipo.
 public string Type { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EncryptedPayload](../)
+* class [EncryptedPayload](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

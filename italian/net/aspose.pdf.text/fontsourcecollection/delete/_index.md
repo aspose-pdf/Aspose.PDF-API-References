@@ -1,14 +1,14 @@
 ---
-title: FontSourceCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FontSourceCollection. Elimina l'elemento font source.
+title: "FontSourceCollection.Delete"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FontSourceCollection. Elimina l'elemento font source"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.text/fontsourcecollection/delete/
 ---
-## Metodo FontSourceCollection.Delete
+## FontSourceCollection.Delete method
 
-Elimina l'elemento della fonte.
+Elimina l'elemento della sorgente di carattere.
 
 ```csharp
 public void Delete(FontSource fontSource)
@@ -18,9 +18,11 @@ public void Delete(FontSource fontSource)
 | --- | --- | --- |
 | fontSource | FontSource | Oggetto FontSource che verrà eliminato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontSource](../../fontsource/)
-* classe [FontSourceCollection](../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

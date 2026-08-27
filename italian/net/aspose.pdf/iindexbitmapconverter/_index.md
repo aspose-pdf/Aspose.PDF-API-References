@@ -1,14 +1,14 @@
 ---
-title: Interface IIndexBitmapConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.IIndexBitmapConverter. Questa interfaccia è dichiarata per algoritmi di personalizzazione della quantizzazione. Gli utenti possono implementare la propria realizzazione di questi algoritmi, ad esempio algoritmi basati su codice non gestito.
+title: "Interfaccia IIndexBitmapConverter"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.IIndexBitmapConverter interfaccia. Questa interfaccia è dichiarata per la personalizzazione degli algoritmi di quantizzazione. Gli utenti possono implementare la propria realizzazione di questi algoritmi, ad esempio algoritmi basati su codice non gestito"
 type: docs
-weight: 5770
+weight: 5900
 url: /it/net/aspose.pdf/iindexbitmapconverter/
 ---
-## Interfaccia IIndexBitmapConverter
+## IIndexBitmapConverter interface
 
-Questa interfaccia è dichiarata per algoritmi di personalizzazione della quantizzazione. Gli utenti possono implementare la propria realizzazione di questi algoritmi (ad esempio algoritmi basati su codice non gestito).
+Questa interfaccia è dichiarata per la personalizzazione degli algoritmi di quantizzazione. Gli utenti possono implementare la propria realizzazione di questi algoritmi (ad esempio algoritmi basati su codice non gestito).
 
 ```csharp
 public interface IIndexBitmapConverter
@@ -22,7 +22,9 @@ public interface IIndexBitmapConverter
 | [Get4BppImage](../../aspose.pdf/iindexbitmapconverter/get4bppimage/)(Bitmap) | Restituisce la rappresentazione bitmap 4Bpp |
 | [Get8BppImage](../../aspose.pdf/iindexbitmapconverter/get8bppimage/)(Bitmap) | Restituisce la rappresentazione bitmap 8Bpp |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

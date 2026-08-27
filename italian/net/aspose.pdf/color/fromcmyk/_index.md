@@ -1,14 +1,14 @@
 ---
-title: Color.FromCmyk
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Color. Ottiene un oggetto Color pdf valido dai componenti di colore CMYK
+title: "Color.FromCmyk"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Color. Restituisce un oggetto Color PDF valido dai componenti di colore CMYK"
 type: docs
 weight: 1450
 url: /it/net/aspose.pdf/color/fromcmyk/
 ---
-## Metodo Color.FromCmyk
+## Color.FromCmyk method
 
-Ottiene un oggetto Color pdf valido dai componenti di colore CMYK.
+Ottiene un oggetto Color PDF valido dai componenti di colore CMYK.
 
 ```csharp
 public static Color FromCmyk(double c, double m, double y, double k)
@@ -21,12 +21,14 @@ public static Color FromCmyk(double c, double m, double y, double k)
 | y | Double | Il componente di colore Giallo (valore 0 - 1). |
 | k | Double | Il componente di colore Nero (valore 0 - 1). |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Oggetto Color con ciascun valore del componente nell'intervallo [0..1].
+Oggetto Color con il valore di ciascun componente nell'intervallo [0..1].
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

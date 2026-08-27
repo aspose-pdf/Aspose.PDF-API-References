@@ -1,12 +1,12 @@
 ---
-title: TiffSettings.Compression
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings property. Gets or sets the type of the compression
+title: "TiffSettings.Compression"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TiffSettings. Ottiene o imposta il tipo di compressione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.devices/tiffsettings/compression/
 ---
-## Proprietà TiffSettings.Compression
+## TiffSettings.Compression property
 
 Ottiene o imposta il tipo di compressione.
 
@@ -14,7 +14,7 @@ Ottiene o imposta il tipo di compressione.
 public CompressionType Compression { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Il tipo di compressione.
 
@@ -22,9 +22,11 @@ Il tipo di compressione.
 
 Il valore predefinito è CompressionType.LZW
 
-### Vedi Anche
+### Vedi anche
 
 * enum [CompressionType](../../compressiontype/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

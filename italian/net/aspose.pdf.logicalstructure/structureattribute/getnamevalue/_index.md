@@ -1,26 +1,28 @@
 ---
-title: StructureAttribute.GetNameValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo StructureAttribute. Ottiene il Nome del Valore
+title: "StructureAttribute.GetNameValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StructureAttribute. Recupera il nome del valore"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.logicalstructure/structureattribute/getnamevalue/
 ---
-## Metodo StructureAttribute.GetNameValue
+## StructureAttribute.GetNameValue method
 
-Ottiene il Nome del Valore.
+Ottiene il nome del valore.
 
 ```csharp
 public AttributeName GetNameValue()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Nome del Valore.
+Nome del valore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../../attributename/)
-* classe [StructureAttribute](../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

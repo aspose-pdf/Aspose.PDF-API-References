@@ -1,14 +1,14 @@
 ---
-title: Page.Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene le risorse della pagina. L'oggetto Risorse contiene collezioni di immagini, moduli e caratteri. Risorse
+title: "Page.Resources"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene le risorse della pagina. L'oggetto Resources contiene collezioni di immagini, moduli e font. Resources"
 type: docs
 weight: 240
 url: /it/net/aspose.pdf/page/resources/
 ---
-## Proprietà Page.Resources
+## Page.Resources property
 
-Ottiene le risorse della pagina. L'oggetto Risorse contiene collezioni di immagini, moduli e caratteri. `Resources`
+Ottiene le risorse della pagina. L'oggetto Resources contiene collezioni di immagini, moduli e font. `Resources`
 
 ```csharp
 public Resources Resources { get; }
@@ -28,9 +28,11 @@ foreach(XImage image in resources.Images)
 }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resources](../../resources/)
-* classe [Page](../)
+* class [Resources](../../resources/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

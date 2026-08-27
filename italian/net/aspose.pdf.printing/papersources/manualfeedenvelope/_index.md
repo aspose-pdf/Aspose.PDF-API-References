@@ -1,22 +1,24 @@
 ---
-title: PaperSources.ManualFeedEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSources. Rappresenta una fonte di carta per buste di alimentazione manuale
+title: "PaperSources.ManualFeedEnvelope"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSources. Rappresenta una sorgente di carta per buste a alimentazione manuale"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.printing/papersources/manualfeedenvelope/
 ---
-## Campo PaperSources.ManualFeedEnvelope
+## PaperSources.ManualFeedEnvelope field
 
-Rappresenta una fonte di carta per buste di alimentazione manuale.
+Rappresenta una sorgente di buste a caricamento manuale.
 
 ```csharp
 public static readonly PaperSource ManualFeedEnvelope;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSource](../../papersource/)
-* classe [PaperSources](../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

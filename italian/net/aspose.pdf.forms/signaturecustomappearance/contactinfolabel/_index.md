@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.ContactInfoLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignatureCustomAppearance. Ottiene/imposta l'etichetta delle informazioni di contatto. Valore predefinito Contatto
+title: "SignatureCustomAppearance.ContactInfoLabel"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignatureCustomAppearance. Ottiene/imposta l'etichetta delle informazioni di contatto. Valore predefinito Contact"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.forms/signaturecustomappearance/contactinfolabel/
 ---
-## Proprietà SignatureCustomAppearance.ContactInfoLabel
+## SignatureCustomAppearance.ContactInfoLabel property
 
-Ottiene/imposta l'etichetta delle informazioni di contatto. Valore predefinito: "Contatto".
+Ottiene/imposta l'etichetta delle informazioni di contatto. Valore predefinito: "Contact".
 
 ```csharp
 public string ContactInfoLabel { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

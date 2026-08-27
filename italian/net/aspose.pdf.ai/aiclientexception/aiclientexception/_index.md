@@ -1,7 +1,7 @@
 ---
-title: AIClientException.AIClientException
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di AIClientException. Inizializza una nuova istanza della classe AIClientException con un messaggio di errore specificato
+title: "AIClientException.AIClientException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore AIClientException. Inizializza una nuova istanza della classe AIClientException con un messaggio di errore specificato"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/aiclientexception/aiclientexception/
@@ -16,11 +16,11 @@ public AIClientException(string message)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio di errore che descrive l'eccezione. |
+| messaggio | String | Il messaggio di errore che descrive l'eccezione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AIClientException](../)
+* class [AIClientException](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,11 +36,13 @@ public AIClientException(string message, Exception innerException)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio di errore che descrive l'eccezione. |
+| messaggio | String | Il messaggio di errore che descrive l'eccezione. |
 | innerException | Exception | L'eccezione che è la causa dell'eccezione corrente. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AIClientException](../)
+* class [AIClientException](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

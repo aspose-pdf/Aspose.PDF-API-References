@@ -1,24 +1,24 @@
 ---
-title: DeleteVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Elimina grafica vettoriale dalla pagina.
+title: "DeleteVectorGraphics"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Elimina le grafiche vettoriali dalla pagina."
 type: docs
 weight: 410
 url: /it/net/aspose.pdf/page/deletevectorgraphics/
 ---
 ## Page.DeleteVectorGraphics method
 
-Elimina grafica vettoriale dalla pagina.
+Elimina le grafiche vettoriali dalla pagina.
 
 ```csharp
 public void DeleteVectorGraphics(SubPathCollection pathsToDelete)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pathsToDelete | SubPathCollection | collezione di grafica vettoriale che sarà eliminata dalla pagina. |
+| pathsToDelete | SubPathCollection | collezione di grafiche vettoriali che verrà eliminata dalla pagina. |
 
-### See Also
+### Vedi anche
 
 * class [SubPathCollection](../../../aspose.pdf.vector/subpathcollection)
 * class [Page](../../page)

@@ -1,14 +1,14 @@
 ---
-title: UnderlineAnnotation.UnderlineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di UnderlineAnnotation. Crea una nuova annotazione sottolineata sulla pagina specificata
+title: "UnderlineAnnotation.UnderlineAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore UnderlineAnnotation. Crea una nuova annotazione Underline nella pagina specificata"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/underlineannotation/underlineannotation/
 ---
-## Costruttore di UnderlineAnnotation
+## UnderlineAnnotation constructor
 
-Crea una nuova annotazione sottolineata sulla pagina specificata.
+Crea una nuova annotazione Underline nella pagina specificata.
 
 ```csharp
 public UnderlineAnnotation(Page page, Rectangle rect)
@@ -16,13 +16,15 @@ public UnderlineAnnotation(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina del documento in cui deve essere creata l'annotazione. |
+| pagina | Page | La pagina del documento in cui l'annotazione dovrebbe essere creata. |
 | rect | Rectangle | Il rettangolo dell'annotazione, che definisce la posizione dell'annotazione sulla pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [UnderlineAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [UnderlineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

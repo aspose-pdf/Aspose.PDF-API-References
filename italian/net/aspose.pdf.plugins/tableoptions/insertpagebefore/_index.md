@@ -1,12 +1,12 @@
 ---
-title: TableOptions.InsertPageBefore
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TableOptions. Inserisci pagina prima della pagina specificata
+title: "TableOptions.InsertPageBefore"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TableOptions. Inserisci pagina prima della pagina specificata"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.plugins/tableoptions/insertpagebefore/
 ---
-## Metodo TableOptions.InsertPageBefore
+## TableOptions.InsertPageBefore method
 
 Inserisci pagina prima della pagina specificata.
 
@@ -24,6 +24,8 @@ Istanza dell'attuale [`TableOptions`](../).
 
 ### Vedi anche
 
-* classe [TableOptions](../)
+* class [TableOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

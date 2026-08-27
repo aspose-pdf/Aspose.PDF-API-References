@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderStyleUnderline
-second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldFacade. Definisce uno stile di bordo sottolineato
+title: "FormFieldFacade.BorderStyleUnderline"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade field. Definisce uno stile di bordo sottolineato"
 type: docs
 weight: 340
 url: /it/net/aspose.pdf.facades/formfieldfacade/borderstyleunderline/
 ---
-## Campo FormFieldFacade.BorderStyleUnderline
+## FormFieldFacade.BorderStyleUnderline field
 
 Definisce uno stile di bordo sottolineato.
 
@@ -14,8 +14,10 @@ Definisce uno stile di bordo sottolineato.
 public const int BorderStyleUnderline;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

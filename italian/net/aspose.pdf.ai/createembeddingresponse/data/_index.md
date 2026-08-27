@@ -1,12 +1,12 @@
 ---
-title: CreateEmbeddingResponse.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CreateEmbeddingResponse. Ottiene o imposta un elenco di oggetti di embedding
+title: "CreateEmbeddingResponse.Data"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CreateEmbeddingResponse proprietà. Ottiene o imposta un elenco di oggetti di embedding"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/createembeddingresponse/data/
 ---
-## Proprietà CreateEmbeddingResponse.Data
+## CreateEmbeddingResponse.Data property
 
 Ottiene o imposta un elenco di oggetti di embedding.
 
@@ -14,9 +14,11 @@ Ottiene o imposta un elenco di oggetti di embedding.
 public List<Embedding> Data { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Embedding](../../embedding/)
-* classe [CreateEmbeddingResponse](../)
+* class [Embedding](../../embedding/)
+* class [CreateEmbeddingResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

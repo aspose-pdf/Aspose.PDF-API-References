@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HeaderFooterSettings. Ottiene o imposta le impostazioni del piè di pagina
+title: "HeaderFooterSettings.Footer"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "HeaderFooterSettings proprietà. Ottiene o imposta le impostazioni del piè di pagina"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/headerfootersettings/footer/
 ---
-## Proprietà HeaderFooterSettings.Footer
+## HeaderFooterSettings.Footer property
 
 Ottiene o imposta le impostazioni del piè di pagina.
 
@@ -16,7 +16,9 @@ public Footer Footer { get; set; }
 
 ### Vedi anche
 
-* classe [Footer](../../footer/)
-* classe [HeaderFooterSettings](../)
+* class [Footer](../../footer/)
+* class [HeaderFooterSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

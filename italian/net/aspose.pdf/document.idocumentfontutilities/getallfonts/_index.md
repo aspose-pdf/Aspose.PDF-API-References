@@ -1,26 +1,28 @@
 ---
-title: Document.IDocumentFontUtilities.GetAllFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IDocumentFontUtilities. Restituisce tutti i caratteri dal documento
+title: "Document.IDocumentFontUtilities.GetAllFonts"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IDocumentFontUtilities. Restituisce tutti i caratteri dal Document"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/document.idocumentfontutilities/getallfonts/
 ---
-## Metodo Document.IDocumentFontUtilities.GetAllFonts
+## Document.IDocumentFontUtilities.GetAllFonts method
 
-Restituisce tutti i caratteri dal documento
+Restituisce tutti i font dal documento
 
 ```csharp
 public Font[] GetAllFonts()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 caratteri
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Font](../../../aspose.pdf.text/font/)
-* interfaccia [IDocumentFontUtilities](../)
+* class [Font](../../../aspose.pdf.text/font/)
+* interface [IDocumentFontUtilities](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

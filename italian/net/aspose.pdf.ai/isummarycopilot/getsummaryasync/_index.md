@@ -1,14 +1,14 @@
 ---
-title: ISummaryCopilot.GetSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ISummaryCopilot. Ottiene un riepilogo in modo asincrono
+title: "ISummaryCopilot.GetSummaryAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ISummaryCopilot. Ottiene in modo asincrono un riepilogo"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/isummarycopilot/getsummaryasync/
 ---
-## Metodo ISummaryCopilot.GetSummaryAsync
+## ISummaryCopilot.GetSummaryAsync method
 
-Ottiene un riepilogo in modo asincrono.
+Recupera in modo asincrono un riepilogo.
 
 ```csharp
 public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = default)
@@ -18,12 +18,14 @@ public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = defau
 | --- | --- | --- |
 | cancellationToken | Nullable`1 | Il token di cancellazione (opzionale). |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un'attività che rappresenta l'operazione asincrona con la stringa di riepilogo.
+Un'attività che rappresenta l'operazione asincrona con la stringa del riepilogo.
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ISummaryCopilot](../)
+* interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

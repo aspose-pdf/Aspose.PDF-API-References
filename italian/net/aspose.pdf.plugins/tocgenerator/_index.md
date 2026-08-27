@@ -1,14 +1,14 @@
 ---
-title: Class TocGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.TocGenerator. Rappresenta il plugin TocGenerator di Aspose.PDF
+title: "Classe TocGenerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Plugins.TocGenerator classe. Rappresenta il plugin Aspose.PDF TocGenerator"
 type: docs
-weight: 9430
+weight: 9580
 url: /it/net/aspose.pdf.plugins/tocgenerator/
 ---
-## Classe TocGenerator
+## TocGenerator class
 
-Rappresenta il plugin TocGenerator di Aspose.PDF.
+Rappresenta il plugin Aspose.PDF TocGenerator.
 
 ```csharp
 public sealed class TocGenerator : IDisposable, IPlugin
@@ -24,29 +24,31 @@ public sealed class TocGenerator : IDisposable, IPlugin
 
 | Nome | Descrizione |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/tocgenerator/dispose/)() | Implementazione di IDisposable. In effetti, non è necessario per TocGenerator. |
+| [Dispose](../../aspose.pdf.plugins/tocgenerator/dispose/)() | Implementazione di IDisposable. In realtà, non è necessaria per TocGenerator. |
 | [Process](../../aspose.pdf.plugins/tocgenerator/process/)(IPluginOptions) | Avvia l'elaborazione di PdfGenerator con i parametri specificati. |
 
 ## Esempi
 
-L'esempio dimostra come aggiungere un TOC a un file PDF.
+L'esempio dimostra come aggiungere il TOC al file PDF.
 
 ```csharp
-// create TocGenerator
+// crea TocGenerator
 var generator = new TocGenerator();
-// create TocOptions object to set instructions
+// crea l'oggetto TocOptions per impostare le istruzioni
 var opt = new TocOptions();
-// add input file paths
+// aggiungi i percorsi dei file di input
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// imposta il percorso del file di output
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// esegui il processo di estrazione
 generator.Process(opt);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IPlugin](../iplugin/)
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ConvertToDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormDataConverter. Convertire file di flussi in tabella
+title: "FormDataConverter.ConvertToDataTable"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormDataConverter metodo. Converte i file di flussi in una tabella"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.facades/formdataconverter/converttodatatable/
 ---
-## Metodo FormDataConverter.ConvertToDataTable
+## FormDataConverter.ConvertToDataTable method
 
-Convertire file di flussi in tabella.
+Converti i file di strems in una table.
 
 ```csharp
 public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
@@ -16,7 +16,7 @@ public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| sourceStreams | Stream[] | Array di flussi sorgente nel formato specificato. |
+| sourceStreams | Stream[] | Array di flussi di origine nel formato specificato. |
 | sourceType | DataType | Formato dei dati nei flussi. I valori validi sono: PDF, FDF, XFDF, XML. |
 
 ## Esempi
@@ -41,3 +41,5 @@ stream.Close();
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

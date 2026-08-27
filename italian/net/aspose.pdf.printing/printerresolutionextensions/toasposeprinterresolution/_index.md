@@ -1,14 +1,14 @@
 ---
-title: PrinterResolutionExtensions.ToAsposePrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterResolutionExtensions method. Converts Windowsspecific System.Drawing.Printing.PrinterResolution PrinterResolution
+title: "PrinterResolutionExtensions.ToAsposePrinterResolution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PrinterResolutionExtensions. Converte System.Drawing.Printing.PrinterResolution specifico per Windows PrinterResolution"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.printing/printerresolutionextensions/toasposeprinterresolution/
 ---
-## Metodo PrinterResolutionExtensions.ToAsposePrinterResolution
+## PrinterResolutionExtensions.ToAsposePrinterResolution method
 
-Converte PrinterResolution specifico di Windows System.Drawing.Printing.PrinterResolution [`PrinterResolution`](../../printerresolution/).
+Converte System.Drawing.Printing.PrinterResolution specifico per Windows [`PrinterResolution`](../../printerresolution/).
 
 ```csharp
 public static PrinterResolution ToAsposePrinterResolution(this PrinterResolution nativeResolution)
@@ -24,7 +24,9 @@ Risoluzione della stampante convertita.
 
 ### Vedi anche
 
-* classe [PrinterResolution](../../printerresolution/)
-* classe [PrinterResolutionExtensions](../)
+* class [PrinterResolution](../../printerresolution/)
+* class [PrinterResolutionExtensions](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

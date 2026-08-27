@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.RemoveRange
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Paragraphs. Rimuovi intervallo di paragrafi
+title: "Paragraphs.RemoveRange"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Paragraphs. Rimuovi l'intervallo di paragrafi"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/paragraphs/removerange/
 ---
-## Metodo Paragraphs.RemoveRange
+## Paragraphs.RemoveRange method
 
-Rimuovi intervallo di paragrafi.
+Rimuovi l'intervallo di paragrafi.
 
 ```csharp
 public void RemoveRange(int index, int count)
@@ -17,10 +17,12 @@ public void RemoveRange(int index, int count)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | index | Int32 | L'indice del primo paragrafo. |
-| count | Int32 | Il numero di paragrafi. |
+| conteggio | Int32 | Il conteggio dei paragrafi. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Paragraphs](../)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

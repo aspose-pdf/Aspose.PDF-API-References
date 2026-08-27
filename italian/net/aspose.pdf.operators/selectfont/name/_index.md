@@ -1,12 +1,12 @@
 ---
-title: SelectFont.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SelectFont. Nome del carattere
+title: "SelectFont.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SelectFont. Nome del carattere"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/selectfont/name/
 ---
-## Proprietà SelectFont.Name
+## SelectFont.Name property
 
 Nome del carattere.
 
@@ -14,8 +14,10 @@ Nome del carattere.
 public string Name { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SelectFont](../)
+* class [SelectFont](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

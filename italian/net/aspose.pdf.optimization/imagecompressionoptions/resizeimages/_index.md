@@ -1,21 +1,23 @@
 ---
-title: ImageCompressionOptions.ResizeImages
-second_title: Aspose.PDF for .NET API Reference
-description: ImageCompressionOptions property. If this flag set to true and CompressImages is true images will be resized if image resoultion is greater then specified MaxResolution parameter
+title: "ImageCompressionOptions.ResizeImages"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImageCompressionOptions. Se questo flag è impostato su true e CompressImages è true, le immagini saranno ridimensionate se la risoluzione dell'immagine è superiore al parametro MaxResolution specificato"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.optimization/imagecompressionoptions/resizeimages/
 ---
-## Proprietà ImageCompressionOptions.ResizeImages
+## ImageCompressionOptions.ResizeImages property
 
-Se questo flag è impostato su true e CompressImages è true, le immagini verranno ridimensionate se la risoluzione dell'immagine è maggiore del parametro MaxResolution specificato.
+Se questo flag è impostato su true e CompressImages è true, le immagini verranno ridimensionate se la risoluzione dell'immagine è superiore al parametro MaxResolution specificato.
 
 ```csharp
 public bool ResizeImages { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageCompressionOptions](../)
+* class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

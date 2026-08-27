@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di Paragrafi. Il costruttore predefinito
+title: "Paragraphs.Paragraphs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Paragraphs. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/paragraphs/paragraphs/
 ---
-## Costruttore di Paragrafi
+## Paragraphs constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Paragraphs()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Paragrafi](../)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: AssistantCreateRequest.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AssistantCreateRequest. Ottiene o imposta le risorse utilizzate dagli strumenti degli assistenti. Le risorse sono specifiche per il tipo di strumento. Ad esempio, lo strumento code_interpreter richiede un elenco di ID file, mentre lo strumento file_search richiede un elenco di ID di archiviazione vettoriale.
+title: "AssistantCreateRequest.ToolResources"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AssistantCreateRequest. Ottiene o imposta le risorse utilizzate dagli strumenti dell'assistente. Le risorse sono specifiche per il tipo di strumento. Ad esempio, lo strumento code_interpreter richiede un elenco di ID file, mentre lo strumento file_search richiede un elenco di ID di archivi vettoriali."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.ai/assistantcreaterequest/toolresources/
 ---
-## Proprietà AssistantCreateRequest.ToolResources
+## AssistantCreateRequest.ToolResources property
 
-Ottiene o imposta le risorse utilizzate dagli strumenti dell'assistente. Le risorse sono specifiche per il tipo di strumento. Ad esempio, lo strumento code_interpreter richiede un elenco di ID file, mentre lo strumento file_search richiede un elenco di ID di archiviazione vettoriale.
+Ottiene o imposta le risorse utilizzate dagli strumenti dell'assistente. Le risorse sono specifiche per il tipo di strumento. Ad esempio, lo strumento code_interpreter richiede un elenco di ID file, mentre lo strumento file_search richiede un elenco di ID store vettoriali.
 
 ```csharp
 public ToolResources ToolResources { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ToolResources](../../toolresources/)
-* classe [AssistantCreateRequest](../)
+* class [ToolResources](../../toolresources/)
+* class [AssistantCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

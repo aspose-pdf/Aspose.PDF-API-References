@@ -1,12 +1,12 @@
 ---
-title: Tool.ToolFunction
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dello strumento. Ottiene o imposta la funzione che il modello può chiamare
+title: "Tool.ToolFunction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Tool. Ottiene o imposta la funzione che il modello può chiamare"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/tool/toolfunction/
 ---
-## Proprietà Tool.ToolFunction
+## Tool.ToolFunction property
 
 Ottiene o imposta la funzione che il modello può chiamare.
 
@@ -14,9 +14,11 @@ Ottiene o imposta la funzione che il modello può chiamare.
 public Function ToolFunction { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Function](../../function/)
-* classe [Tool](../)
+* class [Function](../../function/)
+* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

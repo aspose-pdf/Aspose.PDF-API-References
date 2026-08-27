@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.DeletedCharactersCount
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextItemComparisonStatistics. Ottiene e imposta il numero di caratteri eliminati
+title: "TextItemComparisonStatistics.DeletedCharactersCount"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextItemComparisonStatistics. Ottiene e imposta il numero di caratteri eliminati"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/
 ---
-## Proprietà TextItemComparisonStatistics.DeletedCharactersCount
+## TextItemComparisonStatistics.DeletedCharactersCount property
 
 Ottiene e imposta il numero di caratteri eliminati.
 
@@ -14,8 +14,10 @@ Ottiene e imposta il numero di caratteri eliminati.
 public int DeletedCharactersCount { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextItemComparisonStatistics](../)
+* class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

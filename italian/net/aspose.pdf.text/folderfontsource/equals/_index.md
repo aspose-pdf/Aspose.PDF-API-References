@@ -1,14 +1,14 @@
 ---
-title: FolderFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FolderFontSource. Controlla se gli oggetti sorgente font della cartella sono uguali
+title: "FolderFontSource.Equals"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FolderFontSource. Verifica se gli oggetti di origine del font della cartella sono uguali"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/folderfontsource/equals/
 ---
-## Metodo FolderFontSource.Equals
+## FolderFontSource.Equals method
 
-Controlla se gli oggetti sorgente font della cartella sono uguali.
+Verifica se gli oggetti folder font source sono uguali.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| obj | Object | Oggetto sorgente font della cartella che sarà confrontato. |
+| obj | Oggetto | Oggetto di origine del font della cartella che verrà confrontato. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Vero se entrambi gli oggetti sono sorgenti font della cartella destinati alla stessa cartella.
+True se entrambi gli oggetti sono origini di font della cartella indirizzate alla stessa cartella.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FolderFontSource](../)
+* class [FolderFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

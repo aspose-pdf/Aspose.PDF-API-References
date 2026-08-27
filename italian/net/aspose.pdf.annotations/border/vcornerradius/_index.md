@@ -1,12 +1,12 @@
 ---
-title: Border.VCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del border. Ottiene o imposta il raggio del angolo verticale.
+title: "Border.VCornerRadius"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Border. Ottiene o imposta il raggio verticale dell'angolo"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.annotations/border/vcornerradius/
 ---
-## Proprietà Border.VCornerRadius
+## Border.VCornerRadius property
 
 Ottiene o imposta il raggio dell'angolo verticale.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il raggio dell'angolo verticale.
 public double VCornerRadius { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Border](../)
+* class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

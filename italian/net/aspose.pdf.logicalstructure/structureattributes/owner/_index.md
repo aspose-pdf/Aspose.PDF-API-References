@@ -1,12 +1,12 @@
 ---
-title: StructureAttributes.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà StructureAttributes. Ottiene il proprietario dell'attributo standard
+title: "StructureAttributes.Owner"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StructureAttributes. Ottiene il proprietario standard dell'attributo"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.logicalstructure/structureattributes/owner/
 ---
-## Proprietà StructureAttributes.Owner
+## StructureAttributes.Owner property
 
 Ottiene il proprietario dell'attributo standard.
 
@@ -14,13 +14,15 @@ Ottiene il proprietario dell'attributo standard.
 public AttributeOwnerStandard Owner { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Proprietario dell'attributo standard.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeOwnerStandard](../../attributeownerstandard/)
-* classe [StructureAttributes](../)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Image.File
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà immagine. Ottiene o imposta il file immagine
+title: "Image.File"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Image. Ottiene o imposta il file dell'immagine"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/image/file/
 ---
-## Proprietà Image.File
+## Image.File property
 
-Ottiene o imposta il file immagine.
+Ottiene o imposta il file dell'immagine.
 
 ```csharp
 public string File { get; set; }
@@ -16,6 +16,8 @@ public string File { get; set; }
 
 ### Vedi anche
 
-* classe [Image](../)
+* class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

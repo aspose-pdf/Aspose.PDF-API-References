@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.AddOnPage
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo GraphicElement. Aggiunge l'elemento corrente sulla pagina. Se ci sono molti elementi da aggiungere è meglio usare AddGraphics
+title: "GraphicElement.AddOnPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "GraphicElement method. Aggiunge l'elemento corrente nella pagina. Se ci sono molti elementi da aggiungere è meglio usare AddGraphics"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.vector/graphicelement/addonpage/
 ---
-## Metodo GraphicElement.AddOnPage
+## GraphicElement.AddOnPage method
 
-Aggiunge l'elemento corrente sulla pagina. Se ci sono molti elementi da aggiungere è meglio usare [`AddGraphics`](../../../aspose.pdf/page/addgraphics/).
+Aggiunge l'elemento corrente nella pagina. Se ci sono molti elementi da aggiungere è meglio usare [`AddGraphics`](../../../aspose.pdf/page/addgraphics/).
 
 ```csharp
 public virtual void AddOnPage(Page destination)
@@ -16,11 +16,13 @@ public virtual void AddOnPage(Page destination)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| destinazione | Pagina | Pagina di destinazione |
+| destination | Page | Destinazione Page |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [GraphicElement](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageSettings.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageSettings. Ottiene o imposta un valore che indica se la pagina è stampata a colori
+title: "PageSettings.Color"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageSettings. Ottiene o imposta un valore che indica se la pagina viene stampata a colori"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.printing/pagesettings/color/
 ---
-## Proprietà PageSettings.Color
+## PageSettings.Color property
 
 Ottiene o imposta un valore che indica se la pagina è stampata a colori.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore che indica se la pagina è stampata a colori.
 public bool Color { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSettings](../)
+* class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

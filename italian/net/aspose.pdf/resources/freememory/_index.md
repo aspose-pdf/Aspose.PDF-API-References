@@ -1,21 +1,23 @@
 ---
-title: Resources.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Resources method. Clears cached data frees memory etc
+title: "Resources.FreeMemory"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "metodo Resources. Cancella i dati nella cache, libera memoria, ecc."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/resources/freememory/
 ---
-## Metodo Resources.FreeMemory
+## Resources.FreeMemory method
 
-Pulisce i dati memorizzati nella cache, libera memoria, ecc.
+Cancella i dati nella cache, libera memoria ecc.
 
 ```csharp
 public void FreeMemory()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resources](../)
+* class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

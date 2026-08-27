@@ -1,12 +1,12 @@
 ---
-title: Color.Khaki
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFF0E68C
+title: "Color.Khaki"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema con valore ARGB c FFF0E68C"
 type: docs
 weight: 600
 url: /it/net/aspose.pdf/color/khaki/
 ---
-## Proprietà Color.Khaki
+## Color.Khaki property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF0E68C.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF0E68C.
 public static Color Khaki { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

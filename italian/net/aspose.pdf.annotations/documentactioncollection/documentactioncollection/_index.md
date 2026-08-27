@@ -1,14 +1,14 @@
 ---
-title: DocumentActionCollection.DocumentActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di DocumentActionCollection. Costruttore per DocumentActionCollection. Costruisce oggetti DocumentActionCollection dall'oggetto Document di Pdf.Kit.Engine
+title: "DocumentActionCollection.DocumentActionCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocumentActionCollection costruttore. Costruttore per DocumentActionCollection. Crea oggetti DocumentActionCollection da un oggetto Document di Pdf.Kit.Engine"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/documentactioncollection/documentactioncollection/
 ---
-## Costruttore di DocumentActionCollection
+## DocumentActionCollection constructor
 
-Costruttore per DocumentActionCollection. Costruisce oggetti DocumentActionCollection dall'oggetto Document di Pdf.Kit.Engine.
+Costruttore per DocumentActionCollection. Costruisce oggetti DocumentActionCollection da un oggetto Document di Pdf.Kit.Engine.
 
 ```csharp
 public DocumentActionCollection(Document document)
@@ -16,11 +16,13 @@ public DocumentActionCollection(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| document | Document | Documento per il quale viene creata la collezione di azioni. |
+| document | Document | Document per il quale la collezione di azioni è creata. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [DocumentActionCollection](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo AttributeOwnerStandard. Restituisce una stringa che rappresenta l'oggetto corrente
+title: "AttributeOwnerStandard.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo AttributeOwnerStandard. Restituisce una stringa che rappresenta l'oggetto corrente"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.logicalstructure/attributeownerstandard/tostring/
 ---
-## Metodo AttributeOwnerStandard.ToString
+## AttributeOwnerStandard.ToString method
 
 Restituisce una stringa che rappresenta l'oggetto corrente.
 
@@ -14,12 +14,14 @@ Restituisce una stringa che rappresenta l'oggetto corrente.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Stringa che rappresenta l'oggetto corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeOwnerStandard](../)
+* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

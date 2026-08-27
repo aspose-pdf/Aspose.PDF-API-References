@@ -1,28 +1,28 @@
 ---
-title: Class DocumentActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: La classe Aspose.Pdf.Annotations.DocumentActionCollection. La classe descrive le azioni eseguite su alcune azioni con il documento
+title: "Classe DocumentActionCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.DocumentActionCollection class. La classe descrive le azioni eseguite su alcune azioni con il Document"
 type: docs
-weight: 1670
+weight: 1760
 url: /it/net/aspose.pdf.annotations/documentactioncollection/
 ---
 ## DocumentActionCollection class
 
-La classe descrive le azioni eseguite su alcune azioni con il documento
+Classe che descrive le azioni eseguite su alcune azioni con il documento.
 
 ```csharp
 public sealed class DocumentActionCollection
 ```
 
-## Constructors
+## Costruttori
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [DocumentActionCollection](documentactioncollection/)(Document) | Costruttore per DocumentActionCollection. Costruisce oggetti DocumentActionCollection da un oggetto Document di Pdf.Kit.Engine. |
 
-## Properties
+## Proprietà
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [AfterPrinting](../../aspose.pdf.annotations/documentactioncollection/afterprinting/) { get; set; } | Azione che verrà eseguita dopo la stampa del documento. |
 | [AfterSaving](../../aspose.pdf.annotations/documentactioncollection/aftersaving/) { get; set; } | Ottiene o imposta l'azione che verrà eseguita dopo il salvataggio del documento. |
@@ -30,7 +30,9 @@ public sealed class DocumentActionCollection
 | [BeforePrinting](../../aspose.pdf.annotations/documentactioncollection/beforeprinting/) { get; set; } | Azione che verrà eseguita prima della stampa del documento. |
 | [BeforeSaving](../../aspose.pdf.annotations/documentactioncollection/beforesaving/) { get; set; } | Ottiene o imposta l'azione eseguita prima del salvataggio del documento. |
 
-### See Also
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

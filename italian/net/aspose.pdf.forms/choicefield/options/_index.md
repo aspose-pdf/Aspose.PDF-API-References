@@ -1,12 +1,12 @@
 ---
-title: ChoiceField.Options
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del ChoiceField. Ottiene collezione di opzioni di scelta.
+title: "ChoiceField.Options"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ChoiceField proprietà. Ottiene la raccolta di opzioni di scelta"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.forms/choicefield/options/
 ---
-## Proprietà ChoiceField.Options
+## ChoiceField.Options property
 
 Ottiene la collezione delle opzioni di scelta.
 
@@ -14,9 +14,11 @@ Ottiene la collezione delle opzioni di scelta.
 public virtual OptionCollection Options { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptionCollection](../../optioncollection/)
-* classe [ChoiceField](../)
+* class [OptionCollection](../../optioncollection/)
+* class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

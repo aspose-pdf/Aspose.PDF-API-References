@@ -1,21 +1,23 @@
 ---
-title: TextFormattingOptions.SubsequentLinesIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextFormattingOptions. Ottiene o imposta il valore di rientro delle linee successive
+title: "TextFormattingOptions.SubsequentLinesIndent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFormattingOptions. Ottiene o imposta il valore di rientro delle righe successive."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.text/textformattingoptions/subsequentlinesindent/
 ---
-## Proprietà TextFormattingOptions.SubsequentLinesIndent
+## TextFormattingOptions.SubsequentLinesIndent property
 
-Ottiene o imposta il valore di rientro delle linee successive.
+Ottiene o imposta il valore del rientro delle righe successive.
 
 ```csharp
 public float SubsequentLinesIndent { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFormattingOptions](../)
+* class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

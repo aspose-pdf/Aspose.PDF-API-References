@@ -1,12 +1,12 @@
 ---
-title: CustomPrintEventArgs.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Campo CustomPrintEventArgs. Ottiene informazioni sulla stampante su cui il documento deve essere stampato
+title: "CustomPrintEventArgs.PrinterSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo CustomPrintEventArgs. Ottiene informazioni sulla stampante su cui il documento deve essere stampato."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.printing/customprinteventargs/printersettings/
 ---
-## Campo CustomPrintEventArgs.PrinterSettings
+## CustomPrintEventArgs.PrinterSettings field
 
 Ottiene informazioni sulla stampante su cui il documento deve essere stampato.
 
@@ -14,9 +14,11 @@ Ottiene informazioni sulla stampante su cui il documento deve essere stampato.
 public readonly PrinterSettings PrinterSettings;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrinterSettings](../../printersettings/)
-* classe [CustomPrintEventArgs](../)
+* class [PrinterSettings](../../printersettings/)
+* class [CustomPrintEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

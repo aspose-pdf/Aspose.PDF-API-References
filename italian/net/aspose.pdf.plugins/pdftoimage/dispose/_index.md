@@ -1,21 +1,23 @@
 ---
-title: PdfToImage.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo per convertire PDF in immagini. Esecuzione del metodo. In realtà, non è necessario per...
+title: "PdfToImage.Dispose"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfToImage. Implementazione di . In realtà non è necessario per"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/pdftoimage/dispose/
 ---
-## Metodo PdfToImage.Dispose
+## PdfToImage.Dispose method
 
-Implementazione di . In realtà, non è necessario per .
+Implementazione di . In realtà, non è necessaria per .
 
 ```csharp
 public void Dispose()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfToImage](../)
+* class [PdfToImage](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

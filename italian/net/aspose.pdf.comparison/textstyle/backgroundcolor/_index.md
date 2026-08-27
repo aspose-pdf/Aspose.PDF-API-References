@@ -1,22 +1,24 @@
 ---
-title: TextStyle.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextStyle. Ottiene e imposta il colore di sfondo
+title: "TextStyle.BackgroundColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextStyle. Ottiene e imposta il colore di sfondo"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.comparison/textstyle/backgroundcolor/
 ---
-## Proprietà TextStyle.BackgroundColor
+## TextStyle.BackgroundColor property
 
-Ottiene e imposta il colore di sfondo.
+Ottiene e imposta il background Color.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [TextStyle](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

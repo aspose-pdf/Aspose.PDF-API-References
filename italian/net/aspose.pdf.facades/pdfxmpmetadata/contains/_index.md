@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfXmpMetadata. Controlla se il dizionario contiene la chiave specificata
+title: "PdfXmpMetadata.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfXmpMetadata. Verifica se il dizionario contiene la chiave specificata"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.facades/pdfxmpmetadata/contains/
 ---
 ## Contains(string) {#contains_2}
 
-Controlla se il dizionario contiene la chiave specificata.
+Verifica se il dizionario contiene la chiave specificata.
 
 ```csharp
 public bool Contains(string key)
@@ -16,9 +16,9 @@ public bool Contains(string key)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | String | Chiave che verrà controllata. |
+| chiave | String | Chiave che sarà verificata. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 True - se il dizionario contiene la chiave specificata; altrimenti, false.
 
@@ -32,9 +32,9 @@ if (!xmp.Contains("xmp:Nickname"))
   Console.WriteLine("Key does not exists");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -42,7 +42,7 @@ if (!xmp.Contains("xmp:Nickname"))
 
 ## Contains(DefaultMetadataProperties) {#contains}
 
-Controlla se il dizionario contiene la proprietà specificata.
+Verifica se il dizionario contiene la proprietà specificata.
 
 ```csharp
 public bool Contains(DefaultMetadataProperties property)
@@ -50,16 +50,16 @@ public bool Contains(DefaultMetadataProperties property)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| property | DefaultMetadataProperties | Proprietà che verrà controllata. |
+| proprietà | DefaultMetadataProperties | Proprietà che sarà verificata. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 True - se il dizionario contiene la proprietà specificata; altrimenti, false.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* classe [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -67,7 +67,7 @@ True - se il dizionario contiene la proprietà specificata; altrimenti, false.
 
 ## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains_1}
 
-Controlla se la coppia chiave-valore specificata è contenuta nel dizionario.
+Verifica se la coppia chiave-valore specificata è contenuta nel dizionario.
 
 ```csharp
 public bool Contains(KeyValuePair<string, XmpValue> item)
@@ -77,13 +77,15 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 | --- | --- | --- |
 | item | KeyValuePair`2 | Coppia chiave-valore. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 true se questa coppia è stata trovata.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../../../aspose.pdf/xmpvalue/)
-* classe [PdfXmpMetadata](../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Element.FindElements
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Element. Trova elementi di un tipo specifico
+title: "Element.FindElements"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Element. Trova gli Elementi di un tipo specificato"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.logicalstructure/element/findelements/
 ---
-## Metodo Element.FindElements&lt;T&gt;
+## Element.FindElements&lt;T&gt; method
 
-Trova elementi di un tipo specifico
+Trova Elementi di un determinato tipo
 
 ```csharp
 public List<T> FindElements<T>(bool recursiveSearch = false)
@@ -17,15 +17,17 @@ public List<T> FindElements<T>(bool recursiveSearch = false)
 
 | Parametro | Descrizione |
 | --- | --- |
-| T | Tipo di elemento struttura da cercare |
-| recursiveSearch | (Opzionale) Ricerca ricorsiva (predefinito falso, cerca solo tra i figli diretti) |
+| T | Tipo di Structure Element per la ricerca |
+| recursiveSearch | (Opzionale) Ricerca ricorsiva (predefinito false, ricerca solo dai figli diretti) |
 
 ### Valore di ritorno
 
-Elenco degli elementi trovati
+Elenco degli Elementi trovati
 
 ### Vedi anche
 
-* classe [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

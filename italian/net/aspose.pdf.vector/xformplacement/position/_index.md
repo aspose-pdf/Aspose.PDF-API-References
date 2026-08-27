@@ -1,20 +1,22 @@
 ---
-title: XFormPlacement.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XFormPlacement.
+title: "XFormPlacement.Position"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "XFormPlacement proprietà."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.vector/xformplacement/position/
 ---
-## Proprietà XFormPlacement.Position
+## XFormPlacement.Position property
 
 ```csharp
 public override Point Position { set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [XFormPlacement](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [XFormPlacement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

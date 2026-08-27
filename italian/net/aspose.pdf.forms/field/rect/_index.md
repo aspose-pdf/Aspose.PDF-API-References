@@ -1,12 +1,12 @@
 ---
-title: Field.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del campo. Ottiene o imposta il rettangolo del campo.
+title: "Field.Rect"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà del campo. Ottiene o imposta il rettangolo del campo"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.forms/field/rect/
 ---
-## Proprietà Field.Rect
+## Field.Rect property
 
 Ottiene o imposta il rettangolo del campo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il rettangolo del campo.
 public override Rectangle Rect { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [Field](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

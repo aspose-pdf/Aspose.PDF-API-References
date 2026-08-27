@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.DefaultPageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PrinterSettings. Ottiene le impostazioni di pagina predefinite per questa stampante
+title: "PrinterSettings.DefaultPageSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PrinterSettings proprietà. Ottiene le impostazioni di pagina predefinite per questa stampante"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.printing/printersettings/defaultpagesettings/
 ---
-## Proprietà PrinterSettings.DefaultPageSettings
+## PrinterSettings.DefaultPageSettings property
 
 Ottiene le impostazioni di pagina predefinite per questa stampante.
 
@@ -14,9 +14,11 @@ Ottiene le impostazioni di pagina predefinite per questa stampante.
 public PageSettings DefaultPageSettings { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSettings](../../pagesettings/)
-* classe [PrinterSettings](../)
+* class [PageSettings](../../pagesettings/)
+* class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

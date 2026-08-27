@@ -1,22 +1,24 @@
 ---
-title: PaperSource.Kind
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PaperSource. Ottiene o imposta un valore che indica il tipo di fonte di carta
+title: "PaperSource.Kind"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PaperSource. Ottiene o imposta un valore che indica il tipo di sorgente carta."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.printing/papersource/kind/
 ---
-## Proprietà PaperSource.Kind
+## PaperSource.Kind property
 
-Ottiene o imposta un valore che indica il tipo di fonte di carta.
+Ottiene o imposta un valore che indica il tipo di sorgente carta.
 
 ```csharp
 public PaperSourceKind Kind { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [PaperSourceKind](../../papersourcekind/)
 * class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

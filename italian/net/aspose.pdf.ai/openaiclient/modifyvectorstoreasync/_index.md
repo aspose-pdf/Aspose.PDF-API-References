@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.ModifyVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Modifica un archivio vettoriale esistente in modo asincrono
+title: "OpenAIClient.ModifyVectorStoreAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Modifica un vector store esistente in modo asincrono."
 type: docs
-weight: 430
+weight: 440
 url: /it/net/aspose.pdf.ai/openaiclient/modifyvectorstoreasync/
 ---
-## Metodo OpenAIClient.ModifyVectorStoreAsync
+## OpenAIClient.ModifyVectorStoreAsync method
 
 Modifica un archivio vettoriale esistente in modo asincrono.
 
@@ -18,24 +18,26 @@ public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| vectorStoreId | String | L'ID dell'archivio vettoriale da modificare. |
-| vectorStoreModifyRequest | VectorStoreModifyRequest | L'oggetto di richiesta contenente i dettagli della modifica. |
+| vectorStoreId | String | L'ID del vector store da modificare. |
+| vectorStoreModifyRequest | VectorStoreModifyRequest | L'oggetto richiesta contenente i dettagli della modifica. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene la risposta dalla modifica dell'archivio vettoriale.
+Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene la risposta dalla modifica del vector store.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'archivio vettoriale è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del vector store è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorStoreResponse](../../vectorstoreresponse/)
-* classe [VectorStoreModifyRequest](../../vectorstoremodifyrequest/)
-* classe [OpenAIClient](../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreModifyRequest](../../vectorstoremodifyrequest/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

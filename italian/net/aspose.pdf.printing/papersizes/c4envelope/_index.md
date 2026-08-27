@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.C4Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. C4 envelope 229 mm by 324 mm
+title: "PaperSizes.C4Envelope"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Busta C4 229 mm per 324 mm"
 type: docs
 weight: 330
 url: /it/net/aspose.pdf.printing/papersizes/c4envelope/
 ---
-## Campo PaperSizes.C4Envelope
+## PaperSizes.C4Envelope field
 
 Busta C4 (229 mm per 324 mm).
 
@@ -14,9 +14,11 @@ Busta C4 (229 mm per 324 mm).
 public static readonly PaperSize C4Envelope;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

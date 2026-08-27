@@ -1,14 +1,14 @@
 ---
-title: PageInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PageInfo. Clona le informazioni sulla pagina
+title: "PageInfo.Clone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageInfo. Clona le informazioni della pagina"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/pageinfo/clone/
 ---
-## Metodo PageInfo.Clone
+## PageInfo.Clone method
 
-Clona le informazioni sulla pagina.
+Clona le informazioni della pagina.
 
 ```csharp
 public object Clone()
@@ -20,6 +20,8 @@ L'oggetto clonato
 
 ### Vedi anche
 
-* classe [PageInfo](../)
+* class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

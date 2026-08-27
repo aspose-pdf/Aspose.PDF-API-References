@@ -1,21 +1,23 @@
 ---
-title: RichMediaAnnotation.CustomFlashVariables
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RichMediaAnnotation. Imposta o ottiene variabili flash che vengono passate al lettore
+title: "RichMediaAnnotation.CustomFlashVariables"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RichMediaAnnotation. Imposta o ottiene le variabili flash che vengono passate al lettore"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/richmediaannotation/customflashvariables/
 ---
-## Proprietà RichMediaAnnotation.CustomFlashVariables
+## RichMediaAnnotation.CustomFlashVariables property
 
-Imposta o ottiene variabili flash che vengono passate al lettore.
+Imposta o ottiene le variabili flash che vengono passate al lettore.
 
 ```csharp
 public string CustomFlashVariables { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RichMediaAnnotation](../)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

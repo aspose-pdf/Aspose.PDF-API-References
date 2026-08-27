@@ -1,14 +1,14 @@
 ---
-title: Font.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Font. Ottiene il nome del font dell'oggetto Font
+title: "Font.FontName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Font. Ottiene il nome del carattere dell'oggetto Font"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/font/fontname/
 ---
-## Proprietà Font.FontName
+## Font.FontName property
 
-Ottiene il nome del font dell'oggetto [`Font`](../).
+Ottiene il nome del carattere dell'oggetto [`Font`](../).
 
 ```csharp
 public string FontName { get; }
@@ -16,26 +16,28 @@ public string FontName { get; }
 
 ## Esempi
 
-L'esempio dimostra come cercare testo nella prima pagina e visualizzare il nome del font della prima occorrenza di testo.
+L'esempio dimostra come cercare testo nella prima pagina e visualizzare il nome del carattere della prima occorrenza di testo.
 
 ```csharp
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze del testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// View font name of first text occurrence
+// Visualizza il nome del carattere della prima occorrenza di testo
 Console.Out.WriteLine(absorber.TextFragments[1].TextState.Font.FontName); 
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Font](../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

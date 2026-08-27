@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageListQueryParameters method. Gets the query parameters for listing thread messages
+title: "ThreadMessageListQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ThreadMessageListQueryParameters metodo. Ottiene i parametri di query per elencare i messaggi del thread"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/threadmessagelistqueryparameters/getqueryparameters/
 ---
-## Metodo ThreadMessageListQueryParameters.GetQueryParameters
+## ThreadMessageListQueryParameters.GetQueryParameters method
 
 Ottiene i parametri di query per elencare i messaggi del thread.
 
@@ -14,12 +14,14 @@ Ottiene i parametri di query per elencare i messaggi del thread.
 public string GetQueryParameters()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 La stringa dei parametri di query.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ThreadMessageListQueryParameters](../)
+* class [ThreadMessageListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

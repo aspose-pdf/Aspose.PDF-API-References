@@ -1,12 +1,12 @@
 ---
-title: OptimizationOptions.OptimizationOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di OptimizationOptions. Il costruttore predefinito
+title: "OptimizationOptions.OptimizationOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore OptimizationOptions. Il costruttore predefinito."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.optimization/optimizationoptions/optimizationoptions/
 ---
-## Costruttore di OptimizationOptions
+## OptimizationOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public OptimizationOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizationOptions](../)
+* class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

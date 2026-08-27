@@ -1,21 +1,23 @@
 ---
-title: StructureAttribute.IsInitializedValue
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà StructureAttribute. Ottiene lo stato del valore dell'attributo della struttura. Vero se il valore è impostato
+title: "StructureAttribute.IsInitializedValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureAttribute proprietà. Ottiene stato del valore dell'attributo di struttura. Vero se il valore è impostato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.logicalstructure/structureattribute/isinitializedvalue/
 ---
-## Proprietà StructureAttribute.IsInitializedValue
+## StructureAttribute.IsInitializedValue property
 
-Ottiene lo stato del valore dell'attributo della struttura. Vero se il valore è impostato.
+Restituisce lo stato del valore dell'attributo di struttura. True se il valore è impostato.
 
 ```csharp
 public bool IsInitializedValue { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureAttribute](../)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

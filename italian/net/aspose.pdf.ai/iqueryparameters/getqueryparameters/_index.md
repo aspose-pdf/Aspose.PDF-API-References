@@ -1,12 +1,12 @@
 ---
-title: IQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IQueryParameters. Ottiene i parametri di query come stringa
+title: "IQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo di IQueryParameters. Ottiene i parametri di query come stringa"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/iqueryparameters/getqueryparameters/
 ---
-## Metodo IQueryParameters.GetQueryParameters
+## IQueryParameters.GetQueryParameters method
 
 Ottiene i parametri di query come stringa.
 
@@ -14,12 +14,14 @@ Ottiene i parametri di query come stringa.
 public string GetQueryParameters()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 I parametri di query come stringa.
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IQueryParameters](../)
+* interface [IQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

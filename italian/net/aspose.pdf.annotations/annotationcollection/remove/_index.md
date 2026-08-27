@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo AnnotationCollection. Elimina l'annotazione specificata dalla collezione
+title: "AnnotationCollection.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo AnnotationCollection. Elimina l'annotation specificata dalla collezione"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.annotations/annotationcollection/remove/
 ---
-## Metodo AnnotationCollection.Remove
+## AnnotationCollection.Remove method
 
 Elimina l'annotazione specificata dalla collezione.
 
@@ -16,15 +16,17 @@ public bool Remove(Annotation annotation)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| annotation | Annotation | Annotazione che deve essere eliminata. |
+| annotation | Annotation | Annotation che deve essere eliminata. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-True - se l'annotazione è stata rimossa; altrimenti, false.
+True - se l'annotation è stata rimossa; altrimenti, false.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Annotation](../../annotation/)
-* classe [AnnotationCollection](../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

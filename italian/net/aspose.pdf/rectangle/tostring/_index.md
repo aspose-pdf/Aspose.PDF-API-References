@@ -1,25 +1,27 @@
 ---
-title: Rectangle.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Rectangle. Ottiene la rappresentazione in stringa del rettangolo
+title: "Rectangle.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Rectangle. Ottiene la rappresentazione stringa del rettangolo"
 type: docs
 weight: 290
 url: /it/net/aspose.pdf/rectangle/tostring/
 ---
-## Metodo Rectangle.ToString
+## Rectangle.ToString method
 
-Ottiene la rappresentazione in stringa del rettangolo.
+Ottiene la rappresentazione stringa del rettangolo.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 La stringa ha il formato llx,lly,urx,ury.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

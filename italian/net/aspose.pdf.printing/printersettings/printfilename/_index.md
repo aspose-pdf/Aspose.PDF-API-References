@@ -1,21 +1,23 @@
 ---
-title: PrinterSettings.PrintFileName
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings property. Indicates the name of the printerfile
+title: "PrinterSettings.PrintFileName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PrinterSettings. Indica il nome del file della stampante."
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.printing/printersettings/printfilename/
 ---
-## Proprietà PrinterSettings.PrintFileName
+## PrinterSettings.PrintFileName property
 
-Indica il nome del file della stampante.
+Indica il nome del printerfile.
 
 ```csharp
 public string PrintFileName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrinterSettings](../)
+* class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

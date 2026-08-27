@@ -1,12 +1,12 @@
 ---
-title: CreateEmbeddingRequest.CreateEmbeddingRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Il costruttore predefinito
+title: "CreateEmbeddingRequest.CreateEmbeddingRequest"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CreateEmbeddingRequest costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/createembeddingrequest/createembeddingrequest/
 ---
-## Costruttore di CreateEmbeddingRequest
+## CreateEmbeddingRequest constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public CreateEmbeddingRequest()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CreateEmbeddingRequest](../)
+* class [CreateEmbeddingRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

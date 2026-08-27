@@ -1,14 +1,14 @@
 ---
-title: SoundAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SoundAnnotation. Accetta un oggetto visitatore per elaborare l'annotazione
+title: "SoundAnnotation.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SoundAnnotation. Accetta un oggetto visitor per elaborare l'annotazione."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/soundannotation/accept/
 ---
-## Metodo SoundAnnotation.Accept
+## SoundAnnotation.Accept method
 
-Accetta un oggetto visitatore per elaborare l'annotazione.
+Accetta un oggetto visitor per elaborare l'annotazione.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Oggetto visitatore. |
+| visitatore | AnnotationSelector | Oggetto visitor. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AnnotationSelector](../../annotationselector/)
-* classe [SoundAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

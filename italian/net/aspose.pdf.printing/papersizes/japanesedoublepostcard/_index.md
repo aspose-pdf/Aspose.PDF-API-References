@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.JapaneseDoublePostcard
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Cartolina doppia giapponese 200 mm per 148 mm
+title: "PaperSizes.JapaneseDoublePostcard"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Cartolina doppia giapponese 200 mm per 148 mm"
 type: docs
 weight: 480
 url: /it/net/aspose.pdf.printing/papersizes/japanesedoublepostcard/
 ---
-## Campo PaperSizes.JapaneseDoublePostcard
+## PaperSizes.JapaneseDoublePostcard field
 
 Cartolina doppia giapponese (200 mm per 148 mm).
 
@@ -14,9 +14,11 @@ Cartolina doppia giapponese (200 mm per 148 mm).
 public static readonly PaperSize JapaneseDoublePostcard;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureTypeCategory.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo StructureTypeCategory. Restituisce una stringa che rappresenta l'oggetto corrente
+title: "StructureTypeCategory.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StructureTypeCategory. Restituisce una stringa che rappresenta l'oggetto corrente."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.logicalstructure/structuretypecategory/tostring/
 ---
-## Metodo StructureTypeCategory.ToString
+## StructureTypeCategory.ToString method
 
 Restituisce una stringa che rappresenta l'oggetto corrente.
 
@@ -14,12 +14,14 @@ Restituisce una stringa che rappresenta l'oggetto corrente.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Stringa che rappresenta l'oggetto corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeCategory](../)
+* class [StructureTypeCategory](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

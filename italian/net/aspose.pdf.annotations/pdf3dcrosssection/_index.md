@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DCrossSection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DCrossSection class. Class PDF3DCrossSection
+title: "Classe PDF3DCrossSection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.PDF3DCrossSection class. Classe PDF3DCrossSection"
 type: docs
-weight: 2180
+weight: 2270
 url: /it/net/aspose.pdf.annotations/pdf3dcrosssection/
 ---
-## Classe PDF3DCrossSection
+## PDF3DCrossSection class
 
 Classe PDF3DCrossSection.
 
@@ -31,7 +31,9 @@ public class PDF3DCrossSection
 | [CuttingPlanesIntersectionColor](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplanesintersectioncolor/) { get; set; } | Ottiene o imposta il colore dell'intersezione dei piani di taglio. |
 | [Visibility](../../aspose.pdf.annotations/pdf3dcrosssection/visibility/) { get; set; } | Ottiene o imposta un valore che indica la visibilità dell'intersezione dei piani di taglio. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

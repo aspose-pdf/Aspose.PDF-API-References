@@ -1,12 +1,12 @@
 ---
-title: DefaultAppearance.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DefaultAppearance. Ottiene l'elenco degli operatori pdf che rappresentano l'aspetto
+title: "DefaultAppearance.Text"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DefaultAppearance. Ottiene l'elenco degli operatori pdf che rappresentano l'aspetto"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/defaultappearance/text/
 ---
-## Proprietà DefaultAppearance.Text
+## DefaultAppearance.Text property
 
 Ottiene l'elenco degli operatori pdf che rappresentano l'aspetto.
 
@@ -14,8 +14,10 @@ Ottiene l'elenco degli operatori pdf che rappresentano l'aspetto.
 public string Text { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DefaultAppearance](../)
+* class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

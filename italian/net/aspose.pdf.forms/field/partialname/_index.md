@@ -1,12 +1,12 @@
 ---
-title: Field.PartialName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del campo. Ottiene o imposta il nome parziale del campo
+title: "Field.PartialName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Field. Ottiene o imposta il nome parziale del campo"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.forms/field/partialname/
 ---
-## Proprietà Field.PartialName
+## Field.PartialName property
 
 Ottiene o imposta il nome parziale del campo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il nome parziale del campo.
 public string PartialName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

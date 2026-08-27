@@ -1,21 +1,23 @@
 ---
-title: PrinterSettings.MaximumPage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PrinterSettings. Ottiene o imposta il numero massimo di FromPage o ToPage che può essere selezionato in una finestra di dialogo di stampa
+title: "PrinterSettings.MaximumPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PrinterSettings. Ottiene o imposta il valore più alto di FromPage o ToPage che può essere selezionato in una finestra di dialogo di stampa."
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.printing/printersettings/maximumpage/
 ---
-## Proprietà PrinterSettings.MaximumPage
+## PrinterSettings.MaximumPage property
 
-Ottiene o imposta il numero massimo di [`FromPage`](../frompage/) o [`ToPage`](../topage/) che può essere selezionato in una finestra di dialogo di stampa.
+Ottiene o imposta il valore più alto di [`FromPage`](../frompage/) o [`ToPage`](../topage/) che può essere selezionato in una finestra di dialogo di stampa.
 
 ```csharp
 public int MaximumPage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrinterSettings](../)
+* class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.ColumnWidths
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo ColumnWidths Proprietario dell'attributo Layout
+title: "AttributeKey.ColumnWidths"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. ColumnWidths attributo Layout attributo proprietario"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.logicalstructure/attributekey/columnwidths/
 ---
-## Campo AttributeKey.ColumnWidths
+## AttributeKey.ColumnWidths field
 
-Attributo ColumnWidths (Proprietario dell'attributo Layout).
+Attributo ColumnWidths (proprietario dell'attributo Layout).
 
 ```csharp
 public static readonly AttributeKey ColumnWidths;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

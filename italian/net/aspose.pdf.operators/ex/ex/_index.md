@@ -1,12 +1,12 @@
 ---
-title: EX.EX
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore EX. Inizializza l'operatore
+title: "EX.EX"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore EX. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/ex/ex/
 ---
-## Costruttore EX
+## EX constructor
 
 Inizializza l'operatore.
 
@@ -14,8 +14,10 @@ Inizializza l'operatore.
 public EX()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EX](../)
+* class [EX](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

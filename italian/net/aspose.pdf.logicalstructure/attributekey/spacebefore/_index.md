@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.SpaceBefore
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo SpaceBefore Proprietario dell'attributo Layout
+title: "AttributeKey.SpaceBefore"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo AttributeKey. attributo SpaceBefore attributo Layout proprietario"
 type: docs
 weight: 300
 url: /it/net/aspose.pdf.logicalstructure/attributekey/spacebefore/
 ---
-## Campo AttributeKey.SpaceBefore
+## AttributeKey.SpaceBefore field
 
-Attributo SpaceBefore (Proprietario dell'attributo Layout).
+Attributo SpaceBefore (proprietario dell'attributo del layout).
 
 ```csharp
 public static readonly AttributeKey SpaceBefore;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

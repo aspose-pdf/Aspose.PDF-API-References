@@ -1,21 +1,23 @@
 ---
-title: Layer.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Layer. Elimina il livello corrente dal documento PDF
+title: "Layer.Delete"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Layer. Elimina il Layer corrente dal documento PDF."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/layer/delete/
 ---
-## Metodo Layer.Delete
+## Layer.Delete method
 
-Elimina il livello corrente dal documento PDF.
+Elimina lo strato corrente dal documento PDF.
 
 ```csharp
 public void Delete()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

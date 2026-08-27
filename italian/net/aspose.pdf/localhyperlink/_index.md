@@ -1,14 +1,14 @@
 ---
-title: Class LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LocalHyperlink class. Represents local hyperlink object
+title: "Classe LocalHyperlink"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.LocalHyperlink. Rappresenta un oggetto hyperlink locale"
 type: docs
-weight: 6170
+weight: 6310
 url: /it/net/aspose.pdf/localhyperlink/
 ---
-## Classe LocalHyperlink
+## LocalHyperlink class
 
-Rappresenta un oggetto collegamento ipertestuale locale.
+Rappresenta un oggetto di collegamento ipertestuale locale.
 
 ```csharp
 public sealed class LocalHyperlink : Hyperlink
@@ -28,8 +28,10 @@ public sealed class LocalHyperlink : Hyperlink
 | [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | Ottiene o imposta il paragrafo di destinazione. |
 | [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | Ottiene o imposta il numero di pagina di destinazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Hyperlink](../hyperlink/)
+* class [Hyperlink](../hyperlink/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

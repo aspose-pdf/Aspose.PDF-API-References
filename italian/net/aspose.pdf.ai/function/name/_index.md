@@ -1,12 +1,12 @@
 ---
-title: Function.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della funzione. Ottiene o imposta il nome della funzione da chiamare
+title: "Function.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Function. Ottiene o imposta il nome della funzione da chiamare"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/function/name/
 ---
-## Proprietà Function.Name
+## Function.Name property
 
 Ottiene o imposta il nome della funzione da chiamare.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il nome della funzione da chiamare.
 public string Name { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Function](../)
+* class [Function](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

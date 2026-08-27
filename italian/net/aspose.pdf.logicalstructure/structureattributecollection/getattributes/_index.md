@@ -1,14 +1,14 @@
 ---
-title: StructureAttributeCollection.GetAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: Restituisce StrutturaAttributi della struttura elemento per proprietario attributo standard.
+title: "StructureAttributeCollection.GetAttributes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StructureAttributeCollection. Restituisce StructureAttributes dell'elemento di struttura per il proprietario dell'attributo standard"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/
 ---
-## Metodo StructureAttributeCollection.GetAttributes
+## StructureAttributeCollection.GetAttributes method
 
-Restituisce [`StructureAttributes`](../../structureattributes/) dell'elemento struttura per proprietario di attributo standard.
+Restituisce [`StructureAttributes`](../../structureattributes/) dell'elemento di struttura per il proprietario dell'attributo standard.
 
 ```csharp
 public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
@@ -16,16 +16,18 @@ public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| ownerStandard | AttributeOwnerStandard | Proprietario di attributo standard. |
+| ownerStandard | AttributeOwnerStandard | Proprietario dell'attributo standard. |
 
 ### Valore di ritorno
 
-[`StructureAttributes`](../../structureattributes/) dell'elemento struttura. Restituisce null se non trovato.
+[`StructureAttributes`](../../structureattributes/) of structure element. Return null if not found.
 
 ### Vedi anche
 
-* classe [StructureAttributes](../../structureattributes/)
-* classe [AttributeOwnerStandard](../../attributeownerstandard/)
-* classe [StructureAttributeCollection](../)
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

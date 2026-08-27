@@ -1,22 +1,24 @@
 ---
-title: Row.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Row. Ottiene il bordo della cella predefinito
+title: "Row.DefaultCellBorder"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Row. Ottiene il bordo predefinito della cella"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/row/defaultcellborder/
 ---
-## Proprietà Row.DefaultCellBorder
+## Row.DefaultCellBorder property
 
-Ottiene il bordo della cella predefinito;
+Ottiene il bordo predefinito della cella;
 
 ```csharp
 public BorderInfo DefaultCellBorder { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BorderInfo](../../borderinfo/)
-* classe [Row](../)
+* class [BorderInfo](../../borderinfo/)
+* class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: Layer.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Layer. Salva il layer corrente in un documento PDF
+title: "Layer.Save"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Layer. Salva il livello corrente in un documento PDF"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/layer/save/
 ---
 ## Save(string) {#save_1}
 
-Salva il layer corrente in un documento PDF.
+Salva lo strato corrente in un documento PDF.
 
 ```csharp
 public void Save(string outputPath)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputPath | String | Il percorso del file dove il documento PDF sarà salvato. |
+| outputPath | String | Il percorso file in cui verrà salvato il documento PDF. |
 
-### See Also
+### Vedi anche
 
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,20 @@ public void Save(string outputPath)
 
 ## Save(Stream) {#save}
 
-Salva il layer corrente in un documento PDF.
+Salva lo strato corrente in un documento PDF.
 
 ```csharp
 public void Save(Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputStream | Stream | Lo stream dove il documento PDF sarà salvato. |
+| outputStream | Stream | Il flusso in cui verrà salvato il documento PDF. |
 
-### See Also
+### Vedi anche
 
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

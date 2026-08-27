@@ -1,7 +1,7 @@
 ---
-title: Note.Note
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di Note. Inizializza una nuova istanza della classe Note
+title: "Note.Note"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Note costruttore. Inizializza una nuova istanza della classe Note"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/note/note/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`Note`](../).
 public Note()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Note](../)
+* class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,10 +32,12 @@ public Note(string content)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| content | String | Il contenuto della nota. |
+| contenuto | String | Il contenuto della nota. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Note](../)
+* class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

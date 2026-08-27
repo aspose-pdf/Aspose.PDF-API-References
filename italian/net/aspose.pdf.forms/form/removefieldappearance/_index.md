@@ -1,14 +1,14 @@
 ---
-title: Form.RemoveFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Rimuove l'aspetto del campo all'indice specificato. Se rimane solo un aspetto figlio, il metodo lo incorpora nel campo
+title: "Form.RemoveFieldAppearance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Rimuove l'aspetto del campo all'indice specificato. Se rimane un solo aspetto figlio, il metodo lo incorpora nel campo"
 type: docs
-weight: 310
+weight: 330
 url: /it/net/aspose.pdf.forms/form/removefieldappearance/
 ---
-## Metodo Form.RemoveFieldAppearance
+## Form.RemoveFieldAppearance method
 
-Rimuove l'aspetto del campo all'indice specificato. Se rimane solo un aspetto figlio, il metodo lo incorpora nel campo.
+Rimuove l'aspetto del campo all'indice specificato. Se rimane un solo aspetto figlio, il metodo lo incorpora nel campo.
 
 ```csharp
 public void RemoveFieldAppearance(Field field, int appearanceIndex)
@@ -16,12 +16,14 @@ public void RemoveFieldAppearance(Field field, int appearanceIndex)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| field | Field | Campo con aspetti. |
+| campo | Campo | Campo con aspetti. |
 | appearanceIndex | Int32 | Indice degli aspetti. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../../field/)
-* classe [Form](../)
+* class [Field](../../field/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

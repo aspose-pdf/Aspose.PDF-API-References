@@ -1,22 +1,24 @@
 ---
-title: FloatingBox.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FloatingBox. Ottiene o imposta una collezione di Paragrafi che indica tutti i paragrafi nella cella
+title: "FloatingBox.Paragraphs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FloatingBox property. Ottiene o imposta una raccolta Paragraphs che indica tutti i paragrafi nella cella"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/floatingbox/paragraphs/
 ---
-## Proprietà FloatingBox.Paragraphs
+## FloatingBox.Paragraphs property
 
-Ottiene o imposta una collezione di `Paragraphs` che indica tutti i paragrafi nella cella.
+Ottiene o imposta una raccolta `Paragraphs` che indica tutti i paragrafi nella cella.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Paragraphs](../../paragraphs/)
-* classe [FloatingBox](../)
+* class [Paragraphs](../../paragraphs/)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A2
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Carta A2 420 mm per 594 mm
+title: "PaperSizes.A2"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Carta A2 420 mm per 594 mm"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.printing/papersizes/a2/
 ---
-## Campo PaperSizes.A2
+## PaperSizes.A2 field
 
 Carta A2 (420 mm per 594 mm).
 
@@ -14,9 +14,11 @@ Carta A2 (420 mm per 594 mm).
 public static readonly PaperSize A2;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

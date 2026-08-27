@@ -1,14 +1,14 @@
 ---
-title: VectorGraphicsAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Rappresenta un oggetto assorbitore di elementi grafici vettoriali. Esegue la ricerca di grafica vettoriale e fornisce accesso ai risultati della ricerca tramite la collezione [`SubPaths`](./subpaths).
+title: "VectorGraphicsAbsorber"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Rappresenta un oggetto assorbitore di elementi di grafica vettoriale. Esegue la ricerca di grafica vettoriale e fornisce l'accesso ai risultati della ricerca tramite la collezione SubPaths./vectorgraphicsabsorber/subpaths."
 type: docs
 weight: 8030
 url: /it/net/aspose.pdf.vector/vectorgraphicsabsorber/
 ---
-## Classe VectorGraphicsAbsorber
+## VectorGraphicsAbsorber class
 
-Rappresenta un oggetto assorbitore di elementi grafici vettoriali. Esegue la ricerca di grafica vettoriale e fornisce accesso ai risultati della ricerca tramite la collezione [`SubPaths`](./subpaths).
+Rappresenta un oggetto assorbitore di elementi di grafica vettoriale. Esegue la ricerca di grafica vettoriale e fornisce l'accesso ai risultati della ricerca tramite la collezione [`SubPaths`](./subpaths).
 
 ```csharp
 public class VectorGraphicsAbsorber
@@ -24,15 +24,15 @@ public class VectorGraphicsAbsorber
 
 | Nome | Descrizione |
 | --- | --- |
-| [SubPaths](../../aspose.pdf.vector/vectorgraphicsabsorber/subpaths) { get; } | Ottiene la collezione delle occorrenze di ricerca presentate con oggetti [`SubPath`](../subpath). |
+| [SubPaths](../../aspose.pdf.vector/vectorgraphicsabsorber/subpaths) { get; } | Ottiene la collezione di occorrenze di ricerca presentate con oggetti [`SubPath`](../subpath). |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Visit](../../aspose.pdf.vector/vectorgraphicsabsorber/visit)(Page) | Esegue la ricerca nella pagina specificata. |
+| [Visit](../../aspose.pdf.vector/vectorgraphicsabsorber/visit)(Page) | Esegue la ricerca sulla pagina specificata. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector)
 * assembly [Aspose.PDF](../../)

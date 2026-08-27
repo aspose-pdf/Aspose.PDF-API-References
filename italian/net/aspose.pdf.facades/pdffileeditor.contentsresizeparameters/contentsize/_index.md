@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentSize
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ContentsResizeParameters. Crea parametri di ridimensionamento con dimensioni dei contenuti specificate
+title: "PdfFileEditor.ContentsResizeParameters.ContentSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ContentsResizeParameters. Crea parametri di ridimensionamento con la dimensione del contenuto specificata."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize/
 ---
-## Metodo PdfFileEditor.ContentsResizeParameters.ContentSize
+## PdfFileEditor.ContentsResizeParameters.ContentSize method
 
-Crea parametri di ridimensionamento con dimensioni dei contenuti specificate.
+Crea i parametri di ridimensionamento con la dimensione del contenuto specificata.
 
 ```csharp
 public static ContentsResizeParameters ContentSize(double width, double height)
@@ -16,8 +16,8 @@ public static ContentsResizeParameters ContentSize(double width, double height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| width | Double | Nuova larghezza dei contenuti. |
-| height | Double | Nuova altezza dei contenuti. |
+| larghezza | Double | Nuova larghezza del contenuto. |
+| altezza | Double | Nuova altezza del contenuto. |
 
 ### Valore di ritorno
 
@@ -25,6 +25,8 @@ Restituisce nuovi parametri di ridimensionamento.
 
 ### Vedi anche
 
-* classe [ContentsResizeParameters](../)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

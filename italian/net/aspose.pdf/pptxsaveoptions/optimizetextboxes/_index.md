@@ -1,21 +1,23 @@
 ---
-title: PptxSaveOptions.OptimizeTextBoxes
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PptxSaveOptions. Attiva o disattiva il riconoscimento delle colonne di testo
+title: "PptxSaveOptions.OptimizeTextBoxes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PptxSaveOptions. Attiva/disattiva il riconoscimento delle colonne di testo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/pptxsaveoptions/optimizetextboxes/
 ---
-## Proprietà PptxSaveOptions.OptimizeTextBoxes
+## PptxSaveOptions.OptimizeTextBoxes property
 
-Attiva o disattiva il riconoscimento delle colonne di testo
+Attiva/disattiva il riconoscimento delle colonne di testo
 
 ```csharp
 public bool OptimizeTextBoxes { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PptxSaveOptions](../)
+* class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

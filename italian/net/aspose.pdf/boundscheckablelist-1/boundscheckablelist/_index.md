@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.BoundsCheckableList
-second_title: Aspose.PDF for .NET API Reference
-description: costruttore di BoundsCheckableList. inizializza una nuova istanza della classe BoundsCheckableList.
+title: "BoundsCheckableList1.BoundsCheckableList"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore BoundsCheckableList. Inizializza una nuova istanza della classe BoundsCheckableList"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/boundscheckablelist-1/boundscheckablelist/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe BoundsCheckableList.
 public BoundsCheckableList()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BoundsCheckableList&lt;T&gt;](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,13 +33,15 @@ public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidt
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode | La modalità di controllo dei limiti. |
+| boundsCheckMode | BoundsCheckMode | La modalità di verifica dei limiti cCheck. |
 | containerWidth | Double | La larghezza del contenitore. |
 | containerHeight | Double | L'altezza del contenitore. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BoundsCheckMode](../../boundscheckmode/)
-* classe [BoundsCheckableList&lt;T&gt;](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

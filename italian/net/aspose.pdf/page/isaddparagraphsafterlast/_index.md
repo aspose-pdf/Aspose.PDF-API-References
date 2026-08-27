@@ -1,12 +1,12 @@
 ---
-title: Page.IsAddParagraphsAfterLast
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene o imposta l'aggiunta di paragrafi dopo l'ultimo paragrafo della pagina
+title: "Page.IsAddParagraphsAfterLast"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene o imposta l'aggiunta di paragrafi dopo l'ultimo paragrafo della pagina."
 type: docs
 weight: 160
 url: /it/net/aspose.pdf/page/isaddparagraphsafterlast/
 ---
-## Proprietà Page.IsAddParagraphsAfterLast
+## Page.IsAddParagraphsAfterLast property
 
 Ottiene o imposta l'aggiunta di paragrafi dopo l'ultimo paragrafo della pagina
 
@@ -14,12 +14,14 @@ Ottiene o imposta l'aggiunta di paragrafi dopo l'ultimo paragrafo della pagina
 public bool IsAddParagraphsAfterLast { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Il valore indica se i paragrafi verranno aggiunti dopo l'ultimo paragrafo della pagina. I paragrafi verranno aggiunti dopo l'ultimo paragrafo della pagina se il valore è true.
+Il valore indica se i paragrafi saranno aggiunti dopo l'ultimo paragrafo della pagina. I paragrafi saranno aggiunti dopo l'ultimo paragrafo della pagina se il valore è true.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.LightCoral
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Color. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFF08080
+title: "Color.LightCoral"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Color proprietà. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFF08080"
 type: docs
 weight: 660
 url: /it/net/aspose.pdf/color/lightcoral/
 ---
-## Proprietà Color.LightCoral
+## Color.LightCoral property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF08080.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF08080.
 public static Color LightCoral { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

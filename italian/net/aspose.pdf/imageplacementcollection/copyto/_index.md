@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ImagePlacementCollection. Copia l'intera collezione in un Array unidimensionale compatibile a partire dall'indice specificato dell'array di destinazione
+title: "ImagePlacementCollection.CopyTo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ImagePlacementCollection. Copia l'intera collezione in un Array monodimensionale compatibile a partire dall'indice specificato dell'array di destinazione"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/imageplacementcollection/copyto/
 ---
-## Metodo ImagePlacementCollection.CopyTo
+## ImagePlacementCollection.CopyTo method
 
-Copia l'intera collezione in un Array unidimensionale compatibile, a partire dall'indice specificato dell'array di destinazione
+Copia l'intera raccolta in un Array monodimensionale compatibile, iniziando all'indice specificato dell'array di destinazione
 
 ```csharp
 public void CopyTo(ImagePlacement[] array, int index)
@@ -16,12 +16,14 @@ public void CopyTo(ImagePlacement[] array, int index)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| array | ImagePlacement[] | Array di oggetti che verranno copiati. |
-| index | Int32 | Indice di partenza da cui inizierà la copia. |
+| array | ImagePlacement[] | Array di oggetti da copiare. |
+| index | Int32 | Indice di partenza da cui avverrà la copia. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImagePlacement](../../imageplacement/)
-* classe [ImagePlacementCollection](../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

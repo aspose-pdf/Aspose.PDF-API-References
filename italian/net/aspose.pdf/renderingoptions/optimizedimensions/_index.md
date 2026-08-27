@@ -1,12 +1,12 @@
 ---
-title: RenderingOptions.OptimizeDimensions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RenderingOptions. Ottiene o imposta la modalità di ottimizzazione delle dimensioni
+title: "RenderingOptions.OptimizeDimensions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RenderingOptions. Ottiene o imposta la modalità di ottimizzazione delle dimensioni."
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/renderingoptions/optimizedimensions/
 ---
-## Proprietà RenderingOptions.OptimizeDimensions
+## RenderingOptions.OptimizeDimensions property
 
 Ottiene o imposta la modalità di ottimizzazione delle dimensioni.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la modalità di ottimizzazione delle dimensioni.
 public bool OptimizeDimensions { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RenderingOptions](../)
+* class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

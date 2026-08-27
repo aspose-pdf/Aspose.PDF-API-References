@@ -1,14 +1,14 @@
 ---
-title: Interface ISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.AI.ISummaryCopilot. Rappresenta un copilota per generare riassunti per documenti utilizzando modelli AI
+title: "Interfaccia ISummaryCopilot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.AI.ISummaryCopilot interfaccia. Rappresenta un copilot di riepilogo per generare riepiloghi per documenti utilizzando modelli AI"
 type: docs
-weight: 590
+weight: 640
 url: /it/net/aspose.pdf.ai/isummarycopilot/
 ---
-## Interfaccia ISummaryCopilot
+## ISummaryCopilot interface
 
-Rappresenta un copilota per generare riassunti per documenti utilizzando modelli AI.
+Rappresenta un copilota di riepilogo per generare riepiloghi dei documenti usando modelli AI.
 
 ```csharp
 public interface ISummaryCopilot : IAICopilot
@@ -18,14 +18,16 @@ public interface ISummaryCopilot : IAICopilot
 
 | Nome | Descrizione |
 | --- | --- |
-| [GetSummaryAsync](../../aspose.pdf.ai/isummarycopilot/getsummaryasync/)(CancellationToken?) | Ottiene un riassunto in modo asincrono. |
-| [GetSummaryDocumentAsync](../../aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/#getsummarydocumentasync_1)(CancellationToken?) | Ottiene un documento PDF di riassunto in modo asincrono. |
-| [GetSummaryDocumentAsync](../../aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/#getsummarydocumentasync)(PageInfo, CancellationToken?) | Ottiene un documento PDF di riassunto per le informazioni sulla pagina specificata in modo asincrono. |
-| [SaveSummaryAsync](../../aspose.pdf.ai/isummarycopilot/savesummaryasync/#savesummaryasync_1)(string, CancellationToken?) | Salva il riassunto in un file PDF in modo asincrono. |
-| [SaveSummaryAsync](../../aspose.pdf.ai/isummarycopilot/savesummaryasync/#savesummaryasync)(string, SaveFormat, CancellationToken?) | Salva il riassunto in un file con formato specificato in modo asincrono. |
+| [GetSummaryAsync](../../aspose.pdf.ai/isummarycopilot/getsummaryasync/)(CancellationToken?) | Recupera in modo asincrono un riepilogo. |
+| [GetSummaryDocumentAsync](../../aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/#getsummarydocumentasync_1)(CancellationToken?) | Recupera in modo asincrono un documento PDF di riepilogo. |
+| [GetSummaryDocumentAsync](../../aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/#getsummarydocumentasync)(PageInfo, CancellationToken?) | Recupera in modo asincrono un documento PDF di riepilogo per le informazioni di pagina specificate. |
+| [SaveSummaryAsync](../../aspose.pdf.ai/isummarycopilot/savesummaryasync/#savesummaryasync_1)(string, CancellationToken?) | Salva in modo asincrono il riepilogo in un file PDF. |
+| [SaveSummaryAsync](../../aspose.pdf.ai/isummarycopilot/savesummaryasync/#savesummaryasync)(string, SaveFormat, CancellationToken?) | Salva in modo asincrono il riepilogo in un file con il formato specificato. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IAICopilot](../iaicopilot/)
+* interface [IAICopilot](../iaicopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

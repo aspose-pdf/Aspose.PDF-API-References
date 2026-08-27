@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DeleteStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfContentEditor. Elimina più timbri nella pagina specificata in base agli indici dei timbri
+title: "PdfContentEditor.DeleteStamp"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Elimina più timbri nella pagina specificata per indice dei timbri"
 type: docs
 weight: 330
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/
 ---
-## Metodo PdfContentEditor.DeleteStamp
+## PdfContentEditor.DeleteStamp method
 
-Elimina più timbri nella pagina specificata in base agli indici dei timbri.
+Elimina più timbri nella pagina specificata per indici dei timbri.
 
 ```csharp
 public void DeleteStamp(int pageNumber, int[] index)
@@ -16,7 +16,7 @@ public void DeleteStamp(int pageNumber, int[] index)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNumber | Int32 | Numero della pagina in cui il timbro verrà eliminato. |
+| pageNumber | Int32 | Numero della Page dove lo stamp sarà eliminato. |
 | index | Int32[] | Indici dei timbri. |
 
 ## Esempi
@@ -30,6 +30,8 @@ contentEditor.Save("outfile.pdf");
 
 ### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

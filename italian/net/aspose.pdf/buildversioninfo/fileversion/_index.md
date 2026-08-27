@@ -1,14 +1,14 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Campo BuildVersionInfo. Versione del file
+title: "BuildVersionInfo.FileVersion"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo BuildVersionInfo. Versione del file"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/buildversioninfo/fileversion/
 ---
-## Campo BuildVersionInfo.FileVersion
+## BuildVersionInfo.FileVersion field
 
-Versione del file
+Versione File
 
 ```csharp
 public const string FileVersion;
@@ -16,6 +16,8 @@ public const string FileVersion;
 
 ### Vedi anche
 
-* classe [BuildVersionInfo](../)
+* class [BuildVersionInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

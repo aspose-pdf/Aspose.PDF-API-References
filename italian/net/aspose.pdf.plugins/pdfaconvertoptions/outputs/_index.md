@@ -1,22 +1,24 @@
 ---
-title: PdfAConvertOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfAConvertOptions. Ottiene la collezione delle sorgenti dati di destinazione aggiunte per i risultati dell'operazione di salvataggio
+title: "PdfAConvertOptions.Outputs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfAConvertOptions. Ottiene la collezione delle destinazioni aggiunte (file o flussi di dati) per i risultati dell'operazione di salvataggio."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/pdfaconvertoptions/outputs/
 ---
-## Proprietà PdfAConvertOptions.Outputs
+## PdfAConvertOptions.Outputs property
 
-Ottiene la collezione delle sorgenti dati di destinazione aggiunte (file o stream) per i risultati dell'operazione di salvataggio.
+Ottiene la collezione di destinazioni aggiunte (file o sorgenti dati stream) per i risultati dell'operazione di salvataggio.
 
 ```csharp
 public List<IDataSource> Outputs { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../../idatasource/)
-* classe [PdfAConvertOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfAConvertOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

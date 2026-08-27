@@ -1,48 +1,50 @@
 ---
-title: Class Cells
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Cells. Rappresenta una collezione di celle di riga
+title: "Classe Cells"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Cells. Rappresenta una raccolta di celle di una riga"
 type: docs
-weight: 2980
+weight: 3090
 url: /it/net/aspose.pdf/cells/
 ---
 ## Cells class
 
-Rappresenta una collezione di celle di riga.
+Rappresenta una raccolta di celle della riga.
 
 ```csharp
 public sealed class Cells : IEnumerable<Cell>
 ```
 
-## Constructors
+## Costruttori
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [Cells](cells/)() | Il costruttore predefinito. |
 
-## Properties
+## Proprietà
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [Count](../../aspose.pdf/cells/count/) { get; } | Il conteggio degli elementi. |
 | [Item](../../aspose.pdf/cells/item/) { get; set; } | Ottiene o imposta le celle. |
 
-## Methods
+## Metodi
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
-| [Add](../../aspose.pdf/cells/add/#add)() | Aggiungi cella alla collezione. |
-| [Add](../../aspose.pdf/cells/add/#add_3)(Cell) | Aggiungi cella alla collezione. |
-| [Add](../../aspose.pdf/cells/add/#add_1)(string) | Aggiungi cella alla collezione. |
-| [Add](../../aspose.pdf/cells/add/#add_2)(string, TextState) | Aggiungi cella alla collezione. |
+| [Add](../../aspose.pdf/cells/add/#add)() | Aggiungi una cella alla raccolta. |
+| [Add](../../aspose.pdf/cells/add/#add_3)(Cell) | Aggiungi una cella alla raccolta. |
+| [Add](../../aspose.pdf/cells/add/#add_1)(string) | Aggiungi una cella alla raccolta. |
+| [Add](../../aspose.pdf/cells/add/#add_2)(string, TextState) | Aggiungi una cella alla raccolta. |
 | [Dispose](../../aspose.pdf/cells/dispose/)() | Metodo Dispose |
-| [GetEnumerator](../../aspose.pdf/cells/getenumerator/)() | Ottiene l'enumeratore della collezione. |
-| [Insert](../../aspose.pdf/cells/insert/)(int, Cell) | Inserisci cella nella collezione. |
-| [Remove](../../aspose.pdf/cells/remove/#remove)(Cell) | Rimuovi insieme di celle dalla collezione. |
-| [RemoveRange](../../aspose.pdf/cells/removerange/)(int, int) | Rimuovi insieme di celle dalla collezione. |
+| [GetEnumerator](../../aspose.pdf/cells/getenumerator/)() | Ottiene l'enumeratore della raccolta. |
+| [Insert](../../aspose.pdf/cells/insert/)(int, Cell) | Inserisci una cella nella raccolta. |
+| [Remove](../../aspose.pdf/cells/remove/#remove)(Cell) | Rimuovi il set di celle dalla raccolta. |
+| [RemoveRange](../../aspose.pdf/cells/removerange/)(int, int) | Rimuovi il set di celle dalla raccolta. |
 
-### See Also
+### Vedi anche
 
 * class [Cell](../cell/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

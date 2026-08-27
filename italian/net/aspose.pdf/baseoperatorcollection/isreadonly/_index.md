@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di BaseOperatorCollection. Restituisce true se la collezione è di sola lettura
+title: "BaseOperatorCollection.IsReadOnly"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà BaseOperatorCollection. Restituisce true se la collezione è di sola lettura."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/baseoperatorcollection/isreadonly/
 ---
-## Proprietà BaseOperatorCollection.IsReadOnly
+## BaseOperatorCollection.IsReadOnly property
 
 Restituisce true se la collezione è di sola lettura.
 
@@ -14,8 +14,10 @@ Restituisce true se la collezione è di sola lettura.
 public abstract bool IsReadOnly { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseOperatorCollection](../)
+* class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

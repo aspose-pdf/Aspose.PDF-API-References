@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableTRElement. Ottiene o imposta il bordo della riga
+title: "TableTRElement.Border"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableTRElement. Ottiene o imposta il bordo della riga."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.logicalstructure/tabletrelement/border/
 ---
-## Proprietà TableTRElement.Border
+## TableTRElement.Border property
 
 Ottiene o imposta il bordo della riga.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il bordo della riga.
 public BorderInfo Border { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BorderInfo](../../../aspose.pdf/borderinfo/)
-* classe [TableTRElement](../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

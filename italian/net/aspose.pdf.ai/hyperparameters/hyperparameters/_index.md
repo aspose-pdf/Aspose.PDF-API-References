@@ -1,12 +1,12 @@
 ---
-title: Hyperparameters.Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di iperparametri. Il costruttore predefinito
+title: "Hyperparameters.Hyperparameters"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Hyperparameters costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/hyperparameters/hyperparameters/
 ---
-## Costruttore di iperparametri
+## Hyperparameters constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Hyperparameters()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Hyperparameters](../)
+* class [Hyperparameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

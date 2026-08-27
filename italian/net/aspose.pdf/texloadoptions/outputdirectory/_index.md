@@ -1,22 +1,24 @@
 ---
-title: TeXLoadOptions.OutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TeXLoadOptions. Ottiene/imposta la directory di output TeX
+title: "TeXLoadOptions.OutputDirectory"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TeXLoadOptions. Ottiene/Imposta la directory di output di TeX"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/texloadoptions/outputdirectory/
 ---
-## Proprietà TeXLoadOptions.OutputDirectory
+## TeXLoadOptions.OutputDirectory property
 
-Ottiene/imposta la directory di output TeX.
+Ottiene/Imposta la directory di output TeX.
 
 ```csharp
 public ITeXOutputDirectory OutputDirectory { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ITeXOutputDirectory](../../itexoutputdirectory/)
-* classe [TeXLoadOptions](../)
+* interface [ITeXOutputDirectory](../../itexoutputdirectory/)
+* class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

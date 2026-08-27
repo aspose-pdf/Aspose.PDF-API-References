@@ -1,14 +1,14 @@
 ---
-title: Operator.IsTextShowOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo dell'operatore. Determina se l'operatore è l'operatore responsabile per l'output di testo Tj TJ ecc
+title: "Operator.IsTextShowOperator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Operator. Determina se l'operatore è quello responsabile dell'output di testo Tj TJ ecc"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/operator/istextshowoperator/
 ---
-## Metodo Operator.IsTextShowOperator
+## Operator.IsTextShowOperator method
 
-Determina se l'operatore è l'operatore responsabile per l'output di testo (Tj, TJ, ecc)
+Determina se l'operatore è quello responsabile dell'output di testo (Tj, TJ, ecc).
 
 ```csharp
 public static bool IsTextShowOperator(Operator op)
@@ -16,14 +16,16 @@ public static bool IsTextShowOperator(Operator op)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| op | Operatore | Oggetto operatore |
+| op | Operator | Oggetto Operator |
 
 ### Valore di ritorno
 
-Vero se questo è un operatore di output di testo
+True se questo è un operatore di output di testo
 
 ### Vedi anche
 
-* classe [Operator](../)
+* class [Operator](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

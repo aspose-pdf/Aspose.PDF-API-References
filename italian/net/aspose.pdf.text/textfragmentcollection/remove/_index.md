@@ -1,14 +1,14 @@
 ---
-title: TextFragmentCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextFragmentCollection. Elimina l'elemento specificato dalla collezione
+title: "TextFragmentCollection.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextFragmentCollection. Elimina l'elemento specificato dalla collezione"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.text/textfragmentcollection/remove/
 ---
-## Metodo TextFragmentCollection.Remove
+## TextFragmentCollection.Remove method
 
-Elimina l'elemento specificato dalla collezione.
+Elimina l'elemento specificato dalla raccolta.
 
 ```csharp
 public bool Remove(TextFragment item)
@@ -18,13 +18,15 @@ public bool Remove(TextFragment item)
 | --- | --- | --- |
 | item | TextFragment | L'oggetto da eliminare |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 true se l'elemento è stato eliminato dalla collezione; altrimenti, false.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragment](../../textfragment/)
-* classe [TextFragmentCollection](../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

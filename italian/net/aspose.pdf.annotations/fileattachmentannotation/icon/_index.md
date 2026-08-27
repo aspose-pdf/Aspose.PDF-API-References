@@ -1,22 +1,24 @@
 ---
-title: FileAttachmentAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileAttachmentAnnotation. Ottiene o imposta l'icona che deve essere utilizzata per visualizzare l'annotazione
+title: "FileAttachmentAnnotation.Icon"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FileAttachmentAnnotation proprietà. Ottiene o imposta l'icona che deve essere usata nella visualizzazione dell'annotazione"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/fileattachmentannotation/icon/
 ---
-## Proprietà FileAttachmentAnnotation.Icon
+## FileAttachmentAnnotation.Icon property
 
-Ottiene o imposta l'icona che deve essere utilizzata per visualizzare l'annotazione.
+Ottiene o imposta l'icona da utilizzare nella visualizzazione dell'annotazione.
 
 ```csharp
 public FileIcon Icon { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FileIcon](../../fileicon/)
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.RemoveMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Document. Rimuove i metadati dal documento
+title: "Document.RemoveMetadata"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo del Document. Rimuove i metadati dal documento."
 type: docs
-weight: 790
+weight: 810
 url: /it/net/aspose.pdf/document/removemetadata/
 ---
-## Metodo Document.RemoveMetadata
+## Document.RemoveMetadata method
 
 Rimuove i metadati dal documento.
 
@@ -14,8 +14,10 @@ Rimuove i metadati dal documento.
 public void RemoveMetadata()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

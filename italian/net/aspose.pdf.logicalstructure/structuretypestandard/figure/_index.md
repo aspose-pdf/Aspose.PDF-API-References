@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Figure
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard field. Figure An item of graphical content. Its placement may be specified with the Placement layout attribute
+title: "StructureTypeStandard.Figure"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard campo. Figure Un elemento di contenuto grafico. Il suo posizionamento può essere specificato con l'attributo di layout Placement"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/figure/
 ---
-## Campo StructureTypeStandard.Figure
+## StructureTypeStandard.Figure field
 
-(Figura) Un elemento di contenuto grafico. La sua posizione può essere specificata con l'attributo di layout Placement.
+(Figure) Un elemento di contenuto grafico. Il suo posizionamento può essere specificato con l'attributo di layout Placement.
 
 ```csharp
 public static readonly StructureTypeStandard Figure;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

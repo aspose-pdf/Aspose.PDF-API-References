@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.RedactArea
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfAnnotationEditor. Riduce l'area sulla pagina specificata. Tutti i contenuti vengono rimossi
+title: "PdfAnnotationEditor.RedactArea"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfAnnotationEditor. Redige l'area nella pagina specificata. Tutti i contenuti sono rimossi."
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.facades/pdfannotationeditor/redactarea/
 ---
-## Metodo PdfAnnotationEditor.RedactArea
+## PdfAnnotationEditor.RedactArea method
 
-Riduce l'area sulla pagina specificata. Tutti i contenuti vengono rimossi.
+Oscura l'area nella pagina specificata. Tutti i contenuti vengono rimossi.
 
 ```csharp
 public void RedactArea(int pageIndex, Rectangle rect, Color color)
@@ -20,9 +20,11 @@ public void RedactArea(int pageIndex, Rectangle rect, Color color)
 | rect | Rectangle | Rettangolo dell'area. |
 | color | Color | Colore di riempimento. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [PdfAnnotationEditor](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ElementList.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ElementList. Recupera un elemento all'indice specificato
+title: "ElementList.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ElementList. Recupera un elemento all'indice specificato"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.logicalstructure/elementlist/item/
 ---
-## Metodo ElementList.Item
+## ElementList.Item method
 
 Recupera un elemento all'indice specificato.
 
@@ -18,13 +18,15 @@ public abstract Element Item(int index)
 | --- | --- | --- |
 | index | Int32 | L'indice nella lista degli elementi. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-L'Elemento con l'indice specificato nella collezione. Se *index* è maggiore o uguale al numero di elementi nella lista, restituisce null.
+L'Elemento con l'indice specificato nella collezione. Se *index* è maggiore o uguale al numero di elementi nell'elenco, restituisce null.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Element](../../element/)
-* classe [ElementList](../)
+* class [Element](../../element/)
+* class [ElementList](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

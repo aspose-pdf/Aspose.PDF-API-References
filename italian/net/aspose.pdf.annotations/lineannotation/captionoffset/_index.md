@@ -1,22 +1,24 @@
 ---
-title: LineAnnotation.CaptionOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LineAnnotation. Ottiene o imposta l'offset del testo della didascalia dalla sua posizione normale
+title: "LineAnnotation.CaptionOffset"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LineAnnotation proprietà. Ottiene o imposta lo spostamento del testo della didascalia dalla sua posizione normale"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/lineannotation/captionoffset/
 ---
-## Proprietà LineAnnotation.CaptionOffset
+## LineAnnotation.CaptionOffset property
 
-Ottiene o imposta l'offset del testo della didascalia dalla sua posizione normale.
+Ottiene o imposta lo spostamento del testo della didascalia dalla sua posizione normale.
 
 ```csharp
 public Point CaptionOffset { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [LineAnnotation](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

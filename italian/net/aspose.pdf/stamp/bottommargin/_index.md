@@ -1,12 +1,12 @@
 ---
-title: Stamp.BottomMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Stamp. Ottiene o imposta il margine inferiore del timbro
+title: "Stamp.BottomMargin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di Stamp. Ottiene o imposta il margine inferiore del timbro"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/stamp/bottommargin/
 ---
-## Proprietà Stamp.BottomMargin
+## Stamp.BottomMargin property
 
 Ottiene o imposta il margine inferiore del timbro.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il margine inferiore del timbro.
 public double BottomMargin { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

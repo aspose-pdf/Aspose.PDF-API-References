@@ -1,21 +1,23 @@
 ---
-title: OperatorCollection.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OperatorCollection. Esegue attività definite dall'applicazione associate alla liberazione, rilascio o ripristino di risorse non gestite
+title: "OperatorCollection.Dispose"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OperatorCollection. Esegue attività definite dall'applicazione associate al rilascio, alla liberazione o al reset delle risorse non gestite"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/operatorcollection/dispose/
 ---
-## Metodo OperatorCollection.Dispose
+## OperatorCollection.Dispose method
 
-Esegue attività definite dall'applicazione associate alla liberazione, rilascio o ripristino di risorse non gestite.
+Esegue le attività definite dall'applicazione associate al rilascio, alla liberazione o al reset delle risorse non gestite.
 
 ```csharp
 public void Dispose()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OperatorCollection](../)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.SPLITVOUT
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PdfPageEditor. Divisione verticale esterna
+title: "PdfPageEditor.SPLITVOUT"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfPageEditor campo. Divisione verticale in uscita"
 type: docs
 weight: 320
 url: /it/net/aspose.pdf.facades/pdfpageeditor/splitvout/
 ---
-## Campo PdfPageEditor.SPLITVOUT
+## PdfPageEditor.SPLITVOUT field
 
-Divisione verticale esterna
+Fuori divisione verticale
 
 ```csharp
 public const int SPLITVOUT;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

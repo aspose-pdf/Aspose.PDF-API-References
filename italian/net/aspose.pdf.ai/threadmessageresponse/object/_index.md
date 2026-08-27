@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ThreadMessageResponse. Ottiene o imposta il tipo di oggetto che è sempre thread.message
+title: "ThreadMessageResponse.Object"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ThreadMessageResponse. Ottiene o imposta il tipo di oggetto, che è sempre thread.message."
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.ai/threadmessageresponse/object/
 ---
-## Proprietà ThreadMessageResponse.Object
+## ThreadMessageResponse.Object property
 
 Ottiene o imposta il tipo di oggetto, che è sempre "thread.message".
 
@@ -14,8 +14,10 @@ Ottiene o imposta il tipo di oggetto, che è sempre "thread.message".
 public string Object { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ThreadMessageResponse](../)
+* class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

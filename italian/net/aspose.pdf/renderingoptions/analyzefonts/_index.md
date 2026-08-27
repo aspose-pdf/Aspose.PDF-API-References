@@ -1,21 +1,23 @@
 ---
-title: RenderingOptions.AnalyzeFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RenderingOptions. Sostituisce i caratteri secondo necessità per garantire che tutti i caratteri nel testo possano essere visualizzati. L'algoritmo di sostituzione dei caratteri segue questi passaggi 1. Se l'utente imposta esplicitamente la proprietà DefaultFontName, controlla se il carattere specificato può visualizzare i caratteri desiderati. 2. Se non è impostato alcun carattere definito dall'utente, cerca tra i caratteri aggiunti tramite FontRepository.Sources. 3. Analizza il testo per identificare il suo alfabeto o script e suggerire nomi di caratteri di conseguenza. Tenta di localizzare e utilizzare questi caratteri dal sistema. 4. Come fallback, cerca nel sistema qualsiasi carattere in grado di visualizzare i caratteri richiesti.
+title: "RenderingOptions.AnalyzeFonts"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RenderingOptions. Sostituisce i font secondo necessità per garantire che tutti i caratteri nel testo possano essere visualizzati. L'algoritmo di sostituzione dei font segue questi passaggi 1. Se l'utente imposta esplicitamente la proprietà DefaultFontName, verifica se il font specificato può visualizzare i caratteri desiderati. 2. Se non è impostato alcun font definito dall'utente, cerca tra i font aggiunti tramite FontRepository.Sources. 3. Analizza il testo per identificare il suo alfabeto o script e suggerisce i nomi dei font di conseguenza. Tenta di individuare e utilizzare questi font dal sistema. 4. Come fallback, cerca nel sistema un qualsiasi font in grado di visualizzare i caratteri richiesti."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/renderingoptions/analyzefonts/
 ---
-## Proprietà RenderingOptions.AnalyzeFonts
+## RenderingOptions.AnalyzeFonts property
 
-Sostituisce i caratteri secondo necessità per garantire che tutti i caratteri nel testo possano essere visualizzati. L'algoritmo di sostituzione dei caratteri segue questi passaggi: 1. Se l'utente imposta esplicitamente la proprietà DefaultFontName, controlla se il carattere specificato può visualizzare i caratteri desiderati. 2. Se non è impostato alcun carattere definito dall'utente, cerca tra i caratteri aggiunti tramite la !:FontRepository.Sources. 3. Analizza il testo per identificare il suo alfabeto o script e suggerire nomi di caratteri di conseguenza. Tenta di localizzare e utilizzare questi caratteri dal sistema. 4. Come fallback, cerca nel sistema qualsiasi carattere in grado di visualizzare i caratteri richiesti.
+Sostituisce i caratteri tipografici secondo necessità per garantire che tutti i caratteri nel testo possano essere visualizzati. L'algoritmo di sostituzione dei font segue questi passaggi: 1. Se l'utente imposta esplicitamente la proprietà DefaultFontName, verifica se il font specificato può visualizzare i caratteri desiderati. 2. Se non è impostato alcun font definito dall'utente, cerca tra i font aggiunti tramite !:FontRepository.Sources. 3. Analizza il testo per identificare il suo alfabeto o script e suggerisce i nomi dei font di conseguenza. Tenta di individuare e utilizzare questi font dal sistema. 4. Come soluzione di ripiego, cerca nel sistema un qualsiasi font in grado di visualizzare i caratteri richiesti.
 
 ```csharp
 public bool AnalyzeFonts { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RenderingOptions](../)
+* class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

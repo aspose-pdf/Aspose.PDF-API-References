@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.GetDefaultPrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfViewer. Ottiene le impostazioni predefinite della stampante
+title: "PdfViewer.GetDefaultPrinterSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfViewer. Ottiene le impostazioni predefinite della stampante"
 type: docs
 weight: 310
 url: /it/net/aspose.pdf.facades/pdfviewer/getdefaultprintersettings/
 ---
-## Metodo PdfViewer.GetDefaultPrinterSettings
+## PdfViewer.GetDefaultPrinterSettings method
 
 Ottiene le impostazioni predefinite della stampante.
 
@@ -14,13 +14,15 @@ Ottiene le impostazioni predefinite della stampante.
 public PrinterSettings GetDefaultPrinterSettings()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Oggetto delle impostazioni della stampante.
+Oggetto impostazioni stampante.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* classe [PdfViewer](../)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

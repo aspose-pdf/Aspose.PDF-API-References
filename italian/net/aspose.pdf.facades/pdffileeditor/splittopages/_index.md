@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.SplitToPages
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileEditor. Divide il file PDF in documenti a pagina singola
+title: "PdfFileEditor.SplitToPages"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileEditor. Divide il file PDF in documenti a pagina singola."
 type: docs
 weight: 370
 url: /it/net/aspose.pdf.facades/pdffileeditor/splittopages/
@@ -16,15 +16,15 @@ public MemoryStream[] SplitToPages(string inputFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputFile | String | Nome del file PDF di input. |
+| inputFile | String | Nome file PDF di input. |
 
 ### Valore di ritorno
 
-Flussi PDF di output, ogni flusso memorizza un documento PDF a pagina singola.
+Flussi PDF di output, ogni flusso memorizza in buffer un documento PDF a pagina singola.
 
 ### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,11 +44,11 @@ public MemoryStream[] SplitToPages(Stream inputStream)
 
 ### Valore di ritorno
 
-Array di flussi di memoria che contengono le pagine del documento.
+Array di stream di memoria che contengono le pagine del documento.
 
 ### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -56,7 +56,7 @@ Array di flussi di memoria che contengono le pagine del documento.
 
 ## SplitToPages(string, string) {#splittopages_3}
 
-Divide il file Pdf in documenti a pagina singola e lo salva nel percorso specificato. Il percorso è specificato dal nome del campo template.
+Dividi il file Pdf in documenti a pagina singola e salvalo nel percorso specificato. Il percorso è specificato dal nome del campo temaplate.
 
 ```csharp
 public void SplitToPages(string inputFile, string fileNameTemplate)
@@ -64,12 +64,12 @@ public void SplitToPages(string inputFile, string fileNameTemplate)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputFile | String | Nome del file di input. |
-| fileNameTemplate | String | Template del nome del file risultante. Deve contenere %NUM% che viene sostituito con il numero di pagina. Ad esempio, se viene specificato c:/dir/page%NUM%.pdf, i file risultanti avranno i seguenti nomi: c:/dir/page1.pdf, c:/dir/page2.pdf ecc. |
+| inputFile | String | Nome file di input. |
+| fileNameTemplate | String | Modello del nome file risultante. Deve contenere %NUM% che viene sostituito con il numero di pagina. Per esempio, se viene specificato c:/dir/page%NUM%.pdf, i file risultanti avranno i seguenti nomi: c:/dir/page1.pdf, c:/dir/page2.pdf ecc. |
 
 ### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -77,7 +77,7 @@ public void SplitToPages(string inputFile, string fileNameTemplate)
 
 ## SplitToPages(Stream, string) {#splittopages_2}
 
-Divide il file Pdf in documenti a pagina singola e lo salva nel percorso specificato. Il percorso è specificato dal nome del campo template.
+Dividi il file Pdf in documenti a pagina singola e salvalo nel percorso specificato. Il percorso è specificato dal nome del campo temaplate.
 
 ```csharp
 public void SplitToPages(Stream inputStream, string fileNameTemplate)
@@ -85,11 +85,13 @@ public void SplitToPages(Stream inputStream, string fileNameTemplate)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Flusso del documento sorgente. |
-| fileNameTemplate | String | Template del nome del file risultante. Deve contenere %NUM% che viene sostituito con il numero di pagina. Ad esempio, se viene specificato c:/dir/page%NUM%.pdf, i file risultanti avranno i seguenti nomi: c:/dir/page1.pdf, c:/dir/page2.pdf ecc. |
+| inputStream | Stream | Stream del documento sorgente. |
+| fileNameTemplate | String | Modello del nome file risultante. Deve contenere %NUM% che viene sostituito con il numero di pagina. Per esempio, se viene specificato c:/dir/page%NUM%.pdf, i file risultanti avranno i seguenti nomi: c:/dir/page1.pdf, c:/dir/page2.pdf ecc. |
 
 ### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

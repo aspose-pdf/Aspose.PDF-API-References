@@ -1,14 +1,14 @@
 ---
-title: Enum ExtendedBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExtendedBoolean enum. Rappresenta il tipo booleano che supporta il valore indefinito.
+title: "Enum ExtendedBoolean"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.ExtendedBoolean. Rappresenta un tipo booleano che supporta il valore Undefined"
 type: docs
-weight: 4120
+weight: 4240
 url: /it/net/aspose.pdf/extendedboolean/
 ---
-## Enumerazione ExtendedBoolean
+## ExtendedBoolean enumeration
 
-Rappresenta un tipo booleano che supporta il valore Undefined.
+Rappresenta il tipo booleano che supporta il valore Undefined.
 
 ```csharp
 public enum ExtendedBoolean
@@ -22,7 +22,9 @@ public enum ExtendedBoolean
 | False | `1` | Valore False di ExtendnedBoolean. |
 | True | `2` | Valore True di ExtendnedBoolean. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

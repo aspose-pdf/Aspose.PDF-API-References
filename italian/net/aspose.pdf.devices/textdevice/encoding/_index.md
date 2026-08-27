@@ -1,12 +1,12 @@
 ---
-title: TextDevice.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di TextDevice. Ottiene o imposta la codifica del testo estratto
+title: "TextDevice.Encoding"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextDevice. Ottiene o imposta la codifica del testo estratto"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.devices/textdevice/encoding/
 ---
-## Proprietà TextDevice.Encoding
+## TextDevice.Encoding property
 
 Ottiene o imposta la codifica del testo estratto.
 
@@ -16,24 +16,26 @@ public Encoding Encoding { get; set; }
 
 ## Esempi
 
-L'esempio dimostra come rappresentare il testo estratto in codifica UTF-8.
+L'esempio dimostra come rappresentare il testo estratto nella codifica UTF-8.
 
 ```csharp
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// crea dispositivo di testo
 TextDevice device = new TextDevice(Encoding.UTF8);
 
-// convert the page and save text to the stream
+// converti la pagina e salva il testo nello stream
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// usa il testo estratto
 extractedText = File.ReadAllText(outFile, Encoding.UTF8);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextDevice](../)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

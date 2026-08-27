@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OperatorCollection. Rimuove tutti gli operatori dalla lista
+title: "OperatorCollection.Clear"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OperatorCollection. Rimuove tutti gli operatori dall'elenco"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/operatorcollection/clear/
 ---
-## Metodo OperatorCollection.Clear
+## OperatorCollection.Clear method
 
-Rimuove tutti gli operatori dalla lista.
+Rimuove tutti gli operatori dall'elenco.
 
 ```csharp
 public override void Clear()
@@ -16,15 +16,17 @@ public override void Clear()
 
 ## Esempi
 
-L'esempio dimostra come cancellare i contenuti della pagina.
+L'esempio dimostra come cancellare il contenuto della pagina.
 
 ```csharp
 Document doc = new Document("input.pdf");
 doc.Pages[1].Clear();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OperatorCollection](../)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

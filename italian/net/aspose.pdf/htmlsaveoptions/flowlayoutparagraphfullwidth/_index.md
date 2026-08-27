@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.FlowLayoutParagraphFullWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlSaveOptions. Questo attributo specifica il testo del paragrafo a larghezza intera per la modalità Flow, FixedLayout = false
+title: "HtmlSaveOptions.FlowLayoutParagraphFullWidth"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà HtmlSaveOptions. Questo attributo specifica il testo del paragrafo a larghezza piena per la modalità Flow. FixedLayout  false"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth/
 ---
-## Proprietà HtmlSaveOptions.FlowLayoutParagraphFullWidth
+## HtmlSaveOptions.FlowLayoutParagraphFullWidth property
 
 Questo attributo specifica il testo del paragrafo a larghezza intera per la modalità Flow, FixedLayout = false
 
@@ -14,8 +14,10 @@ Questo attributo specifica il testo del paragrafo a larghezza intera per la moda
 public bool FlowLayoutParagraphFullWidth { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

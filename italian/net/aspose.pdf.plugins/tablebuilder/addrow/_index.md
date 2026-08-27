@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TableBuilder. Aggiungi una nuova riga alla tabella
+title: "TableBuilder.AddRow"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TableBuilder. Aggiungi una nuova riga alla tabella"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/tablebuilder/addrow/
 ---
-## Metodo TableBuilder.AddRow
+## TableBuilder.AddRow method
 
 Aggiungi una nuova riga alla tabella.
 
@@ -16,11 +16,13 @@ public virtual TableRowBuilder AddRow()
 
 ### Valore di ritorno
 
-Istanze dell'attuale [`TableRowBuilder`](../../tablerowbuilder/).
+Istanza dell'attuale [`TableRowBuilder`](../../tablerowbuilder/).
 
 ### Vedi anche
 
-* classe [TableRowBuilder](../../tablerowbuilder/)
-* classe [TableBuilder](../)
+* class [TableRowBuilder](../../tablerowbuilder/)
+* class [TableBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

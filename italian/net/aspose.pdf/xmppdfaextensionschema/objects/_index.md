@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.Objects
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpPdfAExtensionSchema. Ottiene l'elenco dei tipi di valore delle proprietà degli oggetti
+title: "XmpPdfAExtensionSchema.Objects"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "XmpPdfAExtensionSchema proprietà. Ottiene l'elenco dei tipi di valore delle proprietà degli oggetti"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/xmppdfaextensionschema/objects/
 ---
-## Proprietà XmpPdfAExtensionSchema.Objects
+## XmpPdfAExtensionSchema.Objects property
 
 Ottiene l'elenco degli oggetti (proprietà, tipi di valore).
 
@@ -14,9 +14,11 @@ Ottiene l'elenco degli oggetti (proprietà, tipi di valore).
 public List<XmpPdfAExtensionObject> Objects { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* classe [XmpPdfAExtensionSchema](../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

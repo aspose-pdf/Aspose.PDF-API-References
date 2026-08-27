@@ -1,21 +1,23 @@
 ---
-title: Document.IsLicensed
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottenere lo stato licenziato del sistema. Restituisce vero se il sistema funziona in modalità autorizzata, altrimenti restituisce falso.
+title: "Document.IsLicensed"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Document proprietà. Ottiene lo stato di licenza del sistema. Restituisce true se il sistema funziona in modalità licenza e false altrimenti"
 type: docs
-weight: 910
+weight: 930
 url: /it/net/aspose.pdf/document/islicensed/
 ---
-## Proprietà Document.IsLicensed
+## Document.IsLicensed property
 
-Ottiene lo stato di licenza del sistema. Restituisce true se il sistema funziona in modalità licenziata e false altrimenti.
+Ottiene lo stato con licenza del sistema. Restituisce true se il sistema funziona in modalità con licenza e false altrimenti.
 
 ```csharp
 public static bool IsLicensed { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

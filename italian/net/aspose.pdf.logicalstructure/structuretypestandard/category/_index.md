@@ -1,26 +1,28 @@
 ---
-title: StructureTypeStandard.Category
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard property. Gets category of Standard Structure Type
+title: "StructureTypeStandard.Category"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard property. Ottiene la categoria del Tipo di Struttura Standard."
 type: docs
 weight: 500
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/category/
 ---
-## Proprietà StructureTypeStandard.Category
+## StructureTypeStandard.Category property
 
-Ottiene la categoria del Tipo di Struttura Standard.
+Ottiene la categoria del tipo di struttura standard.
 
 ```csharp
 public StructureTypeCategory Category { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Categoria del Tipo di Struttura Standard.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeCategory](../../structuretypecategory/)
-* classe [StructureTypeStandard](../)
+* class [StructureTypeCategory](../../structuretypecategory/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

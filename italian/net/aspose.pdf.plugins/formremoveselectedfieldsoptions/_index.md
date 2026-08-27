@@ -1,12 +1,12 @@
 ---
-title: Class FormRemoveSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FormRemoveSelectedFieldsOptions. Rappresenta le opzioni per rimuovere i campi selezionati nel documento tramite il plugin FormEditor
+title: "Classe FormRemoveSelectedFieldsOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Plugins.FormRemoveSelectedFieldsOptions classe. Rappresenta le opzioni per rimuovere i campi selezionati nel documento tramite il plugin FormEditor"
 type: docs
-weight: 8790
+weight: 8920
 url: /it/net/aspose.pdf.plugins/formremoveselectedfieldsoptions/
 ---
-## Classe FormRemoveSelectedFieldsOptions
+## FormRemoveSelectedFieldsOptions class
 
 Rappresenta le opzioni per rimuovere i campi selezionati nel documento tramite il plugin [`FormEditor`](../formeditor/).
 
@@ -24,18 +24,20 @@ public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Restituisce la raccolta di dati dei plugin Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Ottiene la raccolta degli obiettivi aggiunti per i risultati dell'operazione di salvataggio. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Restituisce la raccolta dati dei plugin Form.... |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Ottiene la raccolta dei target aggiunti per salvare i risultati dell'operazione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Aggiunge una nuova sorgente dati alla raccolta di dati dei plugin Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Aggiunge una nuova sorgente dati alla raccolta di dati dei plugin Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati dei plugin Form... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati dei plugin Form... |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditorRemoveOptions](../formeditorremoveoptions/)
+* class [FormEditorRemoveOptions](../formeditorremoveoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

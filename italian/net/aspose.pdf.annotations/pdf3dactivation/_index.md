@@ -1,14 +1,14 @@
 ---
-title: Enum PDF3DActivation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotationi.PDF3DActivation enum. Enum PDF3DActivation insieme a 3D annotazione attivazione
+title: "Enum PDF3DActivation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.PDF3DActivation enum. Enum PDF3DActivation insieme di modalità di attivazione dell'annotazione 3D"
 type: docs
-weight: 2140
+weight: 2230
 url: /it/net/aspose.pdf.annotations/pdf3dactivation/
 ---
-## Enumerazione PDF3DActivation
+## PDF3DActivation enumeration
 
-Enum PDF3DActivation: set di modalità di attivazione delle annotazioni 3D.
+Enum PDF3DActivation: insieme di modalità di attivazione dell'annotazione 3D.
 
 ```csharp
 public enum PDF3DActivation
@@ -19,10 +19,12 @@ public enum PDF3DActivation
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | activeWhenOpen | `0` | Attivo quando aperto |
-| activeWhenVisible | `1` | Attivo quando visibile |
-| activatedUserOrScriptAction | `2` | Attivato da un'azione dell'utente o da uno script |
+| activeWhenVisible | `1` | Attivo quando è visibile |
+| activatedUserOrScriptAction | `2` | L'azione attivata dall'utente o dallo script |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

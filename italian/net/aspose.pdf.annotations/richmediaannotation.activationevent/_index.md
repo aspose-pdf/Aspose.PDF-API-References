@@ -1,12 +1,12 @@
 ---
-title: Enum RichMediaAnnotation.ActivationEvent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RichMediaAnnotationActivationEvent enum. Event which activates annotation
+title: "Enum RichMediaAnnotation.ActivationEvent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.RichMediaAnnotationActivationEvent enum. Evento che attiva l'annotazione"
 type: docs
-weight: 2490
+weight: 2580
 url: /it/net/aspose.pdf.annotations/richmediaannotation.activationevent/
 ---
-## Enumerazione RichMediaAnnotation.ActivationEvent
+## RichMediaAnnotation.ActivationEvent enumeration
 
 Evento che attiva l'annotazione.
 
@@ -18,12 +18,14 @@ public enum ActivationEvent
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Click | `0` | Attivato con un clic sull'annotazione. |
-| PageOpen | `1` | Attivato all'apertura della pagina. |
-| PageVisible | `2` | Attivato quando la pagina diventa visibile. |
+| Click | `0` | Attivata facendo clic sull'annotazione. |
+| PageOpen | `1` | Attivata all'apertura della pagina. |
+| PageVisible | `2` | Attivata quando la pagina diventa visibile. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RichMediaAnnotation](../richmediaannotation/)
+* class [RichMediaAnnotation](../richmediaannotation/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

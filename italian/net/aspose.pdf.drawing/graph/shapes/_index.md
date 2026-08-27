@@ -1,12 +1,12 @@
 ---
-title: Graph.Shapes
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del grafico. Ottiene o imposta una raccolta di Shape che indica tutti i grafiche nel grafico.
+title: "Graph.Shapes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Graph. Ottiene o imposta una collezione Shapes che indica tutte le forme nel grafico"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.drawing/graph/shapes/
 ---
-## Proprietà Graph.Shapes
+## Graph.Shapes property
 
 Ottiene o imposta una collezione `Shapes` che indica tutte le forme nel grafico.
 
@@ -14,10 +14,12 @@ Ottiene o imposta una collezione `Shapes` che indica tutte le forme nel grafico.
 public BoundsCheckableList<Shape> Shapes { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BoundsCheckableList&lt;T&gt;](../../../aspose.pdf/boundscheckablelist-1/)
-* classe [Shape](../../shape/)
-* classe [Graph](../)
+* class [BoundsCheckableList&lt;T&gt;](../../../aspose.pdf/boundscheckablelist-1/)
+* class [Shape](../../shape/)
+* class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Signature.ShowProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Signature property. Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance strings to represent  Digitally signed by certificate subject Date signature.Date Reason signature.Reason Location signature.Location  where X is placeholder for X value. Also signature can have image in this case listed strings are placed over image. ShowProperties is true by default
+title: "Signature.ShowProperties"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Signature. Forza la visualizzazione/nascondere le proprietà della firma. Nel caso in cui ShowProperties è true, il campo firma ha un formato predefinito di stringhe di aspetto per rappresentare  Digitally signed by certificate subject Date signature.Date Reason signature.Reason Location signature.Location  dove X è un segnaposto per il valore X. Inoltre la firma può avere un'immagine; in questo caso le stringhe elencate sono posizionate sull'immagine. ShowProperties è true per impostazione predefinita."
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.forms/signature/showproperties/
 ---
-## Proprietà Signature.ShowProperties
+## Signature.ShowProperties property
 
-Forza a mostrare/nascondere le proprietà della firma. Nel caso in cui ShowProperties sia vero, il campo della firma ha un formato predefinito di apparizione (stringhe da rappresentare): ------------------------------------------- Firmato digitalmente da {soggetto del certificato} Data: {signature.Date} Motivo: {signature.Reason} Luogo: {signature.Location} ------------------------------------------- dove {X} è un segnaposto per il valore X. Inoltre, la firma può avere un'immagine, in questo caso le stringhe elencate sono posizionate sopra l'immagine. ShowProperties è vero per impostazione predefinita.
+Obbliga a mostrare/nascondere le proprietà della firma. Nel caso in cui ShowProperties è true, il campo firma ha un formato di aspetto predefinito (stringhe da rappresentare): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- dove {X} è un segnaposto per il valore X. Inoltre la firma può avere un'immagine; in questo caso le stringhe elencate sono posizionate sull'immagine. ShowProperties è true per impostazione predefinita.
 
 ```csharp
 public bool ShowProperties { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Signature](../)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: ToUnicodeProcessingRules.ToUnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ToUnicodeProcessingRules. Inizializza una nuova istanza della classe ToUnicodeProcessingRules
+title: "ToUnicodeProcessingRules.ToUnicodeProcessingRules"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ToUnicodeProcessingRules. Inizializza una nuova istanza della classe ToUnicodeProcessingRules"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/tounicodeprocessingrules/tounicodeprocessingrules/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`ToUnicodeProcessingRules`](../).
 public ToUnicodeProcessingRules()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ToUnicodeProcessingRules](../)
+* class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,9 +34,9 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 | --- | --- | --- |
 | removeSpaces | Boolean | Un valore booleano che indica se rimuovere gli spazi dai nomi CMap. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ToUnicodeProcessingRules](../)
+* class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 
 ## ToUnicodeProcessingRules(bool, bool) {#constructor_2}
 
-Inizializza una nuova istanza della classe [`ToUnicodeProcessingRules`](../) con opzioni specificate.
+Inizializza una nuova istanza della classe [`ToUnicodeProcessingRules`](../) con le opzioni specificate.
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSpace)
@@ -53,10 +53,12 @@ public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSp
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | removeSpaces | Boolean | Indica se gli spazi devono essere rimossi dai nomi CMap. |
-| mapNonLinkedUnicodesOnSpace | Boolean | Indica se i simboli Unicode non collegati devono essere mappati sugli spazi. |
+| mapNonLinkedUnicodesOnSpace | Boolean | Indica se i simboli Unicode non collegati devono essere mappati a spazi. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ToUnicodeProcessingRules](../)
+* class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

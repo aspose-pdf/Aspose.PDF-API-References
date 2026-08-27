@@ -1,12 +1,12 @@
 ---
-title: BaseListQueryParameters.BaseListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di BaseListQueryParameters. Il costruttore predefinito
+title: "BaseListQueryParameters.BaseListQueryParameters"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore BaseListQueryParameters. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/baselistqueryparameters/baselistqueryparameters/
 ---
-## Costruttore di BaseListQueryParameters
+## BaseListQueryParameters constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public BaseListQueryParameters()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseListQueryParameters](../)
+* class [BaseListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

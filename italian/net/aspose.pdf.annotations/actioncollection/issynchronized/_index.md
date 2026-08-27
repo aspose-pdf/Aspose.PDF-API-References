@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection property. Returns true if object is synchronized
+title: "ActionCollection.IsSynchronized"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ActionCollection. Restituisce true se l'oggetto è sincronizzato"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/actioncollection/issynchronized/
 ---
-## Proprietà ActionCollection.IsSynchronized
+## ActionCollection.IsSynchronized property
 
 Restituisce true se l'oggetto è sincronizzato.
 
@@ -14,8 +14,10 @@ Restituisce true se l'oggetto è sincronizzato.
 public bool IsSynchronized { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ActionCollection](../)
+* class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

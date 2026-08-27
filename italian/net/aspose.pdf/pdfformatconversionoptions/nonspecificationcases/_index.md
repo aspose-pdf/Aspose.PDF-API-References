@@ -1,22 +1,24 @@
 ---
-title: PdfFormatConversionOptions.NonSpecificationCases
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfFormatConversionOptions. Contiene flag per controllare il processo di conversione PDF/A per i casi in cui il documento sorgente non corrisponde alla specifica PDF/A
+title: "PdfFormatConversionOptions.NonSpecificationCases"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFormatConversionOptions. Contiene flag per controllare il processo di conversione PDF/A nei casi in cui il documento sorgente non corrisponda alla specifica PDF/A"
 type: docs
-weight: 150
+weight: 160
 url: /it/net/aspose.pdf/pdfformatconversionoptions/nonspecificationcases/
 ---
 ## PdfFormatConversionOptions.NonSpecificationCases property
 
-Contiene flag per controllare il processo di conversione PDF/A per i casi in cui il documento sorgente non corrisponde alla specifica PDF/A.
+Contiene le opzioni per controllare il processo di conversione PDF/A nei casi in cui il documento di origine non corrisponda alla specifica PDF/A.
 
 ```csharp
 public PdfANonSpecificationFlags NonSpecificationCases { get; }
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfANonSpecificationFlags](../../pdfanonspecificationflags/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

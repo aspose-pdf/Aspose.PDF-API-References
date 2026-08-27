@@ -1,7 +1,7 @@
 ---
-title: PKCS7.PKCS7
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore PKCS7. Inizializza una nuova istanza della classe PKCS7
+title: "PKCS7.PKCS7"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PKCS7 constructor. Inizializza una nuova istanza della classe PKCS7"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/pkcs7/pkcs7/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`PKCS7`](../).
 public PKCS7()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PKCS7](../)
+* class [PKCS7](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,12 +32,12 @@ public PKCS7(string pfx, string password)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pfx | String | File pfx che contiene il certificato per la firma. |
+| pfx | String | File Pfx che contiene il certificato per la firma. |
 | password | String | Password per il certificato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PKCS7](../)
+* class [PKCS7](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -56,8 +56,10 @@ public PKCS7(Stream pfx, string password)
 | pfx | Stream | Stream con i dati del certificato organizzati come pfx. |
 | password | String | Password per accedere alla chiave privata nel certificato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PKCS7](../)
+* class [PKCS7](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileBatchResponse.VectorStoreFileBatchResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di VectorStoreFileBatchResponse. Il costruttore predefinito
+title: "VectorStoreFileBatchResponse.VectorStoreFileBatchResponse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "VectorStoreFileBatchResponse costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/vectorstorefilebatchresponse/vectorstorefilebatchresponse/
 ---
-## Costruttore di VectorStoreFileBatchResponse
+## VectorStoreFileBatchResponse constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public VectorStoreFileBatchResponse()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorStoreFileBatchResponse](../)
+* class [VectorStoreFileBatchResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

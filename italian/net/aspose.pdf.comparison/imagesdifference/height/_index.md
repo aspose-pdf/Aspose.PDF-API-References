@@ -1,12 +1,12 @@
 ---
-title: ImagesDifference.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImagesDifference. L'altezza della differenza
+title: "ImagesDifference.Height"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImagesDifference. L'altezza della differenza"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.comparison/imagesdifference/height/
 ---
-## Proprietà ImagesDifference.Height
+## ImagesDifference.Height property
 
 L'altezza della differenza.
 
@@ -14,8 +14,10 @@ L'altezza della differenza.
 public int Height { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImagesDifference](../)
+* class [ImagesDifference](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

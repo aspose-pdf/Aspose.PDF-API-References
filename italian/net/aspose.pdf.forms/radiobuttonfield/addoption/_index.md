@@ -1,25 +1,25 @@
 ---
-title: RadioButtonField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo RadioButtonField. Aggiungi un'opzione al pulsante di opzione con rettangolo specificato
+title: "RadioButtonField.AddOption"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo RadioButtonField. Aggiunge un'opzione al pulsante radio con il rettangolo specificato."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.forms/radiobuttonfield/addoption/
 ---
 ## AddOption(string, Rectangle) {#addoption_1}
 
-Aggiungi un'opzione al pulsante di opzione con rettangolo specificato.
+Aggiungi all'opzione del pulsante radio con rettangolo specificato.
 
 ```csharp
 public void AddOption(string optionName, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | optionName | String | Nome della nuova opzione. |
 | rect | Rectangle | Rettangolo del nuovo elemento. |
 
-### See Also
+### Vedi anche
 
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [RadioButtonField](../)
@@ -30,18 +30,20 @@ public void AddOption(string optionName, Rectangle rect)
 
 ## AddOption(string) {#addoption}
 
-Aggiungi un'opzione al pulsante di opzione.
+Aggiungi opzione al pulsante radio.
 
 ```csharp
 public override void AddOption(string optionName)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | optionName | String | Nome dell'opzione che verrà aggiunta. |
 
-### See Also
+### Vedi anche
 
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

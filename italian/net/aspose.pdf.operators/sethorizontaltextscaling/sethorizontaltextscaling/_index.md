@@ -1,12 +1,12 @@
 ---
-title: SetHorizontalTextScaling.SetHorizontalTextScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SetHorizontalTextScaling. Inizializza l'operatore
+title: "SetHorizontalTextScaling.SetHorizontalTextScaling"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SetHorizontalTextScaling costruttore. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/sethorizontaltextscaling/sethorizontaltextscaling/
 ---
-## Costruttore di SetHorizontalTextScaling
+## SetHorizontalTextScaling constructor
 
 Inizializza l'operatore.
 
@@ -18,8 +18,10 @@ public SetHorizontalTextScaling(double horizintalScaling)
 | --- | --- | --- |
 | horizintalScaling | Double | Scalatura orizzontale. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetHorizontalTextScaling](../)
+* class [SetHorizontalTextScaling](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

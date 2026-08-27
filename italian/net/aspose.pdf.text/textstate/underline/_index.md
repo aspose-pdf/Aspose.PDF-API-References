@@ -1,21 +1,23 @@
 ---
-title: TextState.Underline
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextState. Ottiene o imposta la sottolineatura per il testo rappresentato dall'oggetto TextFragment
+title: "TextState.Underline"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextState. Ottiene o imposta il sottolineato per il testo rappresentato dall'oggetto TextFragment"
 type: docs
-weight: 180
+weight: 190
 url: /it/net/aspose.pdf.text/textstate/underline/
 ---
-## Proprietà TextState.Underline
+## TextState.Underline property
 
-Ottiene o imposta la sottolineatura per il testo, rappresentato dall'oggetto [`TextFragment`](../../textfragment/) 
+Ottiene o imposta il sottolineato per il testo, rappresentato dall'oggetto [`TextFragment`](../../textfragment/)
 
 ```csharp
 public virtual bool Underline { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

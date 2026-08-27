@@ -1,22 +1,24 @@
 ---
-title: PdfPageEditor.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfPageEditor. Ottiene o imposta la dimensione della pagina del file di output
+title: "PdfPageEditor proprietà. Ottiene o imposta la dimensione della pagina dei file di output"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfPageEditor.LRWIPE"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/pdfpageeditor/pagesize/
 ---
-## Proprietà PdfPageEditor.PageSize
+## PdfPageEditor.PageSize property
 
-Ottiene o imposta la dimensione della pagina del file di output.
+Ottiene o imposta le dimensioni della pagina del file di output.
 
 ```csharp
 public PageSize PageSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [PdfPageEditor](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

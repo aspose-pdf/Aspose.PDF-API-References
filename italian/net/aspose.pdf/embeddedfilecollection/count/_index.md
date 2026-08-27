@@ -1,12 +1,12 @@
 ---
-title: EmbeddedFileCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà EmbeddedFileCollection. Ottiene il numero di file incorporati nella collezione
+title: "EmbeddedFileCollection.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà EmbeddedFileCollection. Ottiene il numero di file incorporati nella collezione"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/embeddedfilecollection/count/
 ---
-## Proprietà EmbeddedFileCollection.Count
+## EmbeddedFileCollection.Count property
 
 Ottiene il numero di file incorporati nella collezione.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Vedi anche
 
-* classe [EmbeddedFileCollection](../)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

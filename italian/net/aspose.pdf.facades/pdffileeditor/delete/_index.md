@@ -1,37 +1,37 @@
 ---
-title: PdfFileEditor.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileEditor. Elimina le pagine specificate dall'array di numeri dal file di input e salva come un nuovo file Pdf
+title: "PdfFileEditor.Delete"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileEditor. Elimina le pagine specificate da un array di numeri dal file di input e le salva come nuovo file Pdf"
 type: docs
 weight: 270
 url: /it/net/aspose.pdf.facades/pdffileeditor/delete/
 ---
 ## Delete(string, int[], string) {#delete_1}
 
-Elimina le pagine specificate dall'array di numeri dal file di input, salva come un nuovo file Pdf.
+Elimina le pagine specificate da un array di numeri dal file di input, salvando come un nuovo file Pdf.
 
 ```csharp
 public bool Delete(string inputFile, int[] pageNumber, string outputFile)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | inputFile | String | Percorso del file di input. |
 | pageNumber | Int32[] | Indice della pagina nel file di input. |
 | outputFile | String | Percorso del file di output. |
 
-### Return Value
+### Valore di ritorno
 
 True se l'operazione è riuscita.
 
-## Examples
+## Esempi
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Delete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -41,23 +41,23 @@ pfe.Delete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 
 ## Delete(Stream, int[], Stream) {#delete}
 
-Elimina le pagine specificate dall'array di numeri dal file di input, salva come un nuovo file Pdf.
+Elimina le pagine specificate da un array di numeri dal file di input, salvando come un nuovo file Pdf.
 
 ```csharp
 public bool Delete(Stream inputStream, int[] pageNumber, Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Stream del file di input. |
+| inputStream | Stream | Flusso del file di input. |
 | pageNumber | Int32[] | Indice della pagina nel file di input. |
-| outputStream | Stream | Stream del file di output. |
+| outputStream | Stream | Flusso del file di output. |
 
-### Return Value
+### Valore di ritorno
 
 True per successo, o false.
 
-## Examples
+## Esempi
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -66,8 +66,10 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.Delete(inputStream, new int[] { 2, 3 }, outputStream);
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

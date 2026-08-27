@@ -1,12 +1,12 @@
 ---
-title: Border.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Border. Ottiene o imposta la larghezza del bordo
+title: "Border.Width"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Border. Ottiene o imposta la larghezza del bordo"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.annotations/border/width/
 ---
-## Proprietà Border.Width
+## Border.Width property
 
 Ottiene o imposta la larghezza del bordo.
 
@@ -16,6 +16,8 @@ public int Width { get; set; }
 
 ### Vedi anche
 
-* classe [Border](../)
+* class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

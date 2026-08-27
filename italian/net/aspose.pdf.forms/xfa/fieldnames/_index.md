@@ -1,21 +1,23 @@
 ---
-title: XFA.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XFA. Elenco dei nomi dei campi nel modello di modulo
+title: "XFA.FieldNames"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XFA. Elenco dei nomi dei campi nel modello del modulo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.forms/xfa/fieldnames/
 ---
-## Proprietà XFA.FieldNames
+## XFA.FieldNames property
 
-Elenco dei nomi dei campi nel modello di modulo.
+Elenco dei nomi dei campi nel modello del modulo.
 
 ```csharp
 public string[] FieldNames { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFA](../)
+* class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

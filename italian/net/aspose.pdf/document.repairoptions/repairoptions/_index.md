@@ -1,12 +1,12 @@
 ---
-title: Document.RepairOptions.RepairOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di RepairOptions. Il costruttore predefinito
+title: "Document.RepairOptions.RepairOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore RepairOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/document.repairoptions/repairoptions/
 ---
-## Costruttore di Document.RepairOptions
+## Document.RepairOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public RepairOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RepairOptions](../)
+* class [RepairOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfToImageOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfToImageOptions. Imposta una nuova sorgente di salvataggio. Può essere solo un . Se vuoi salvare le immagini in flussi di memoria, passa null come parametro
+title: "PdfToImageOptions.AddOutput"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfToImageOptions. Imposta una nuova origine dati di salvataggio. Può essere solo un . Se vuoi salvare le immagini in stream di memoria, passa null come parametro"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.plugins/pdftoimageoptions/addoutput/
 ---
-## Metodo PdfToImageOptions.AddOutput
+## PdfToImageOptions.AddOutput method
 
-Imposta una nuova sorgente di salvataggio. Può essere solo un . Se vuoi salvare le immagini in flussi di memoria, passa null come parametro.
+Imposta una nuova origine dati di salvataggio. Può essere solo un . Se vuoi salvare le immagini in stream di memoria, passa null come parametro.
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
@@ -16,11 +16,13 @@ public void AddOutput(IDataSource saveDataSource)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| saveDataSource | IDataSource | Sorgente di salvataggio. |
+| saveDataSource | IDataSource | Salva l'origine dati. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../../idatasource/)
-* classe [PdfToImageOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

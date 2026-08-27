@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetRunStepsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Recupera una lista di passaggi per un run specifico all'interno di un thread in modo asincrono.
+title: "OpenAIClient.GetRunStepsAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Recupera un elenco di passaggi per un'esecuzione specifica all'interno di un thread in modo asincrono"
 type: docs
-weight: 280
+weight: 290
 url: /it/net/aspose.pdf.ai/openaiclient/getrunstepsasync/
 ---
-## Metodo OpenAIClient.GetRunStepsAsync
+## OpenAIClient.GetRunStepsAsync method
 
-Recupera un elenco di passaggi per un'esecuzione specifica all'interno di un thread in modo asincrono.
+Recupera un elenco di step per un'esecuzione specifica all'interno di un thread in modo asincrono.
 
 ```csharp
 public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId, 
@@ -18,26 +18,28 @@ public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| threadId | String | L'ID del thread contenente l'esecuzione. |
+| threadId | String | L'ID del thread che contiene l'esecuzione. |
 | runId | String | L'ID dell'esecuzione da cui recuperare i passaggi. |
-| queryParameters | RunStepListQueryParameters | Parametri di query opzionali per filtrare l'elenco dei passaggi dell'esecuzione. |
+| queryParameters | RunStepListQueryParameters | Parametri di query opzionali per filtrare l'elenco dei passaggi di esecuzione. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene l'elenco dei passaggi dell'esecuzione.
+Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene l'elenco dei passaggi di esecuzione.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'esecuzione è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID dell'esecuzione è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunStepListResponse](../../runsteplistresponse/)
-* classe [RunStepListQueryParameters](../../runsteplistqueryparameters/)
-* classe [OpenAIClient](../)
+* class [RunStepListResponse](../../runsteplistresponse/)
+* class [RunStepListQueryParameters](../../runsteplistqueryparameters/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Desc
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey campo. Desc attributo. PrintField attributo. Proprietario.
+title: "AttributeKey.Desc"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. attributo Desc proprietario dell'attributo PrintField"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.logicalstructure/attributekey/desc/
 ---
-## Campo AttributeKey.Desc
+## AttributeKey.Desc field
 
 Attributo Desc (proprietario dell'attributo PrintField).
 
@@ -14,8 +14,10 @@ Attributo Desc (proprietario dell'attributo PrintField).
 public static readonly AttributeKey Desc;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

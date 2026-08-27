@@ -1,21 +1,23 @@
 ---
-title: TextFormattingOptions.FirstLineIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextFormattingOptions. Ottiene o imposta il valore dell'indentazione della prima riga
+title: "TextFormattingOptions.FirstLineIndent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFormattingOptions. Ottiene o imposta il valore di rientro della prima riga."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/textformattingoptions/firstlineindent/
 ---
-## Proprietà TextFormattingOptions.FirstLineIndent
+## TextFormattingOptions.FirstLineIndent property
 
-Ottiene o imposta il valore dell'indentazione della prima riga.
+Ottiene o imposta il valore del rientro della prima riga.
 
 ```csharp
 public float FirstLineIndent { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFormattingOptions](../)
+* class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

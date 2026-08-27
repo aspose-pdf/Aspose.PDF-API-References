@@ -1,14 +1,14 @@
 ---
-title: Class PdfAction
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.PdfAction. Rappresenta un'azione nel documento PDF
+title: "Classe PdfAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.PdfAction classe. Rappresenta Action in documento PDF"
 type: docs
-weight: 2270
+weight: 2360
 url: /it/net/aspose.pdf.annotations/pdfaction/
 ---
-## Classe PdfAction
+## PdfAction class
 
-Rappresenta un'azione nel documento PDF
+Rappresenta l'Azione in un documento PDF
 
 ```csharp
 public abstract class PdfAction : IAppointment
@@ -24,10 +24,12 @@ public abstract class PdfAction : IAppointment
 
 | Nome | Descrizione |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Ottiene la stringa per l'azione ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Ottiene la stringa per l'Azione ECMAScript. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IAppointment](../iappointment/)
+* interface [IAppointment](../iappointment/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

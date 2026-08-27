@@ -1,21 +1,23 @@
 ---
-title: OutputIntents.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OutputIntents. Rimuove tutti gli intenti di output dalla collezione
+title: "OutputIntents.Clear"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OutputIntents. Rimuove tutti gli output intent dalla raccolta"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/outputintents/clear/
 ---
-## Metodo OutputIntents.Clear
+## OutputIntents.Clear method
 
-Rimuove tutti gli intenti di output dalla collezione.
+Rimuove tutti gli output intent dalla raccolta.
 
 ```csharp
 public void Clear()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutputIntents](../)
+* class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

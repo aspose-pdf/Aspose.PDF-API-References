@@ -1,12 +1,12 @@
 ---
-title: SetCharacterSpacing.CharSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetCharacterSpacing. Ottiene o imposta la spaziatura dei caratteri
+title: "SetCharacterSpacing.CharSpacing"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetCharacterSpacing. Ottiene o imposta la spaziatura dei caratteri"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/setcharacterspacing/charspacing/
 ---
-## Proprietà SetCharacterSpacing.CharSpacing
+## SetCharacterSpacing.CharSpacing property
 
 Ottiene o imposta la spaziatura dei caratteri.
 
@@ -16,6 +16,8 @@ public double CharSpacing { get; set; }
 
 ### Vedi anche
 
-* classe [SetCharacterSpacing](../)
+* class [SetCharacterSpacing](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

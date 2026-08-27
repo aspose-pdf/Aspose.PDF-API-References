@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XImageCollection. Copia un array di immagini nella collezione
+title: "XImageCollection.CopyTo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XImageCollection. Copia l'array di immagini nella collezione"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/ximagecollection/copyto/
 ---
-## Metodo XImageCollection.CopyTo
+## XImageCollection.CopyTo method
 
-Copia un array di immagini nella collezione.
+Copia l'array di immagini nella raccolta.
 
 ```csharp
 public void CopyTo(XImage[] array, int index)
@@ -17,11 +17,13 @@ public void CopyTo(XImage[] array, int index)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | array | XImage[] | Array da copiare. |
-| index | Int32 | Indice in cui le immagini saranno copiate nella collezione. |
+| index | Int32 | Indice dove le immagini saranno copiate nella collezione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImage](../../ximage/)
-* classe [XImageCollection](../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

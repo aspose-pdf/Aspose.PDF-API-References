@@ -1,22 +1,24 @@
 ---
-title: DocumentCollection.PdfDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocumentCollection. Ottiene o imposta la collezione di documenti PDF da elaborare
+title: "DocumentCollection.PdfDocuments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocumentCollection proprietà. Ottiene o imposta la raccolta di documenti PDF da elaborare."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/documentcollection/pdfdocuments/
 ---
-## Proprietà DocumentCollection.PdfDocuments
+## DocumentCollection.PdfDocuments property
 
-Ottiene o imposta la collezione di documenti PDF da elaborare.
+Ottiene o imposta la raccolta di documenti PDF da elaborare.
 
 ```csharp
 public List<PdfDocument> PdfDocuments { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfDocument](../../pdfdocument/)
-* classe [DocumentCollection](../)
+* class [PdfDocument](../../pdfdocument/)
+* class [DocumentCollection](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

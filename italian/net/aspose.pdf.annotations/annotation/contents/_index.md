@@ -1,12 +1,12 @@
 ---
-title: Annotation.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'annotazione. Ottiene o imposta il testo dell'annotazione
+title: "Annotation.Contents"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Annotation. Ottiene o imposta il testo dell'annotazione"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.annotations/annotation/contents/
 ---
-## Proprietà Annotation.Contents
+## Annotation.Contents property
 
 Ottiene o imposta il testo dell'annotazione.
 
@@ -16,6 +16,8 @@ public string Contents { get; set; }
 
 ### Vedi anche
 
-* classe [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

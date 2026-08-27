@@ -1,14 +1,14 @@
 ---
-title: Class XYZExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.XYZExplicitDestination. Rappresenta una destinazione esplicita che visualizza la pagina con le coordinate in alto a sinistra posizionate nell'angolo superiore sinistro della finestra e i contenuti della pagina ingranditi dal fattore zoom. Un valore nullo per uno qualsiasi dei parametri left, top o zoom specifica che il valore attuale di quel parametro deve rimanere invariato. Un valore di zoom di 0 ha lo stesso significato di un valore nullo.
+title: "Classe XYZExplicitDestination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.XYZExplicitDestination class. Rappresenta una destinazione esplicita che visualizza la pagina con le coordinate sinistra‑superiore posizionate nell'angolo in alto a sinistra della finestra e il contenuto della pagina ingrandito del fattore zoom. Un valore nullo per uno qualsiasi dei parametri sinistra, superiore o zoom specifica che il valore corrente di quel parametro deve rimanere invariato. Un valore di zoom pari a 0 ha lo stesso significato di un valore nullo"
 type: docs
-weight: 2730
+weight: 2830
 url: /it/net/aspose.pdf.annotations/xyzexplicitdestination/
 ---
-## Classe XYZExplicitDestination
+## XYZExplicitDestination class
 
-Rappresenta una destinazione esplicita che visualizza la pagina con le coordinate (left, top) posizionate nell'angolo superiore sinistro della finestra e i contenuti della pagina ingranditi dal fattore zoom. Un valore nullo per uno qualsiasi dei parametri left, top o zoom specifica che il valore attuale di quel parametro deve rimanere invariato. Un valore di zoom di 0 ha lo stesso significato di un valore nullo.
+Rappresenta una destinazione esplicita che visualizza la pagina con le coordinate (left, top) posizionate nell'angolo superiore sinistro della finestra e il contenuto della pagina ingrandito del fattore zoom. Un valore nullo per ciascuno dei parametri left, top o zoom specifica che il valore corrente di quel parametro deve essere mantenuto invariato. Un valore di zoom pari a 0 ha lo stesso significato di un valore nullo.
 
 ```csharp
 public sealed class XYZExplicitDestination : ExplicitDestination
@@ -25,20 +25,20 @@ public sealed class XYZExplicitDestination : ExplicitDestination
 
 | Nome | Descrizione |
 | --- | --- |
-| [Left](../../aspose.pdf.annotations/xyzexplicitdestination/left/) { get; } | Ottiene la coordinata orizzontale sinistra dell'angolo superiore sinistro della finestra. |
+| [Left](../../aspose.pdf.annotations/xyzexplicitdestination/left/) { get; } | Restituisce la coordinata orizzontale sinistra dell'angolo in alto a sinistra della finestra. |
 | [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Ottiene l'oggetto pagina di destinazione |
 | [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Ottiene il numero della pagina di destinazione |
-| [Top](../../aspose.pdf.annotations/xyzexplicitdestination/top/) { get; } | Ottiene la coordinata verticale superiore dell'angolo superiore sinistro della finestra. |
-| [Zoom](../../aspose.pdf.annotations/xyzexplicitdestination/zoom/) { get; } | Ottiene il fattore di zoom. |
+| [Top](../../aspose.pdf.annotations/xyzexplicitdestination/top/) { get; } | Restituisce la coordinata verticale superiore dell'angolo in alto a sinistra della finestra. |
+| [Zoom](../../aspose.pdf.annotations/xyzexplicitdestination/zoom/) { get; } | Restituisce il fattore di zoom. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| static [CreateDestination](../../aspose.pdf.annotations/xyzexplicitdestination/createdestination/)(Page, double, double, double, bool) | Crea una destinazione nella posizione specificata della pagina considerando la rotazione della pagina se necessario. |
+| static [CreateDestination](../../aspose.pdf.annotations/xyzexplicitdestination/createdestination/)(Page, double, double, double, bool) | Crea una destinazione nella posizione specificata della pagina considerando la rotazione della pagina, se necessario. |
 | static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/#createdestinationtoupperleftcorner)(Page) | Crea una destinazione per la pagina specificata. |
-| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/#createdestinationtoupperleftcorner_1)(Page, double) | Crea una destinazione nell'angolo superiore sinistro della pagina specificata. |
-| override [ToString](../../aspose.pdf.annotations/xyzexplicitdestination/tostring/)() | Converte lo stato dell'oggetto in un valore stringa. Esempio: "1 XYZ 100 200 3". |
+| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/#createdestinationtoupperleftcorner_1)(Page, double) | Crea una destinazione nell'angolo in alto a sinistra della pagina specificata. |
+| override [ToString](../../aspose.pdf.annotations/xyzexplicitdestination/tostring/)() | Converte lo stato dell'oggetto in valore stringa. Esempio: "1 XYZ 100 200 3". |
 
 ## Esempi
 
@@ -50,8 +50,10 @@ string top = dest.Top;
 string zoom = dest.Zoom;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ExplicitDestination](../explicitdestination/)
+* class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

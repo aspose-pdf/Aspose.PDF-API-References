@@ -1,22 +1,24 @@
 ---
-title: SystemFontsSubstitution.DefaultFont
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SystemFontsSubstitution. Ottiene o imposta il font di sostituzione predefinito. Il font viene utilizzato quando non sono state trovate altre sostituzioni valide, ma il font iniziale appartiene alla categoria di sostituzione target FontCategories
+title: "SystemFontsSubstitution.DefaultFont"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SystemFontsSubstitution property. Ottiene o imposta il font di sostituzione predefinito. Il font è usato quando non sono state trovate altre sostituzioni valide ma il font iniziale appartiene alla categoria di sostituzione target FontCategories"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/systemfontssubstitution/defaultfont/
 ---
-## Proprietà SystemFontsSubstitution.DefaultFont
+## SystemFontsSubstitution.DefaultFont property
 
-Ottiene o imposta il font di sostituzione predefinito. Il font viene utilizzato quando non sono state trovate altre sostituzioni valide, ma il font iniziale appartiene alla categoria di sostituzione target ([`FontCategories`](../fontcategories/)).
+Ottiene o imposta il font di sostituzione predefinito. Il font è usato quando non sono state trovate altre sostituzioni valide ma il font iniziale appartiene alla categoria di sostituzione target ([`FontCategories`](../fontcategories/)).
 
 ```csharp
 public Font DefaultFont { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Font](../../font/)
-* classe [SystemFontsSubstitution](../)
+* class [Font](../../font/)
+* class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

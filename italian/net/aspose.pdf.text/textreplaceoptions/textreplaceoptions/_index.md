@@ -1,7 +1,7 @@
 ---
-title: TextReplaceOptions.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TextReplaceOptions. Inizializza una nuova istanza dell'oggetto TextReplaceOptions per l'ambito specificato
+title: "TextReplaceOptions.TextReplaceOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TextReplaceOptions. Inizializza una nuova istanza dell'oggetto TextReplaceOptions per l'ambito specificato"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/textreplaceoptions/textreplaceoptions/
@@ -16,9 +16,9 @@ public TextReplaceOptions(Scope scope)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| scope | Scope | Oggetto Scope. |
+| ambito | Ambito | Oggetto Ambito. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [Scope](../../textreplaceoptions.scope/)
 * class [TextReplaceOptions](../)
@@ -29,7 +29,7 @@ public TextReplaceOptions(Scope scope)
 
 ## TextReplaceOptions(ReplaceAdjustment) {#constructor}
 
-Inizializza una nuova istanza dell'oggetto [`TextReplaceOptions`](../) per l'azione di sostituzione specificata.
+Inizializza una nuova istanza dell'oggetto [`TextReplaceOptions`](../) per l'azione specificata dopo la sostituzione.
 
 ```csharp
 public TextReplaceOptions(ReplaceAdjustment adjustment)
@@ -37,11 +37,13 @@ public TextReplaceOptions(ReplaceAdjustment adjustment)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| adjustment | ReplaceAdjustment | Oggetto ReplaceAdjustment. |
+| regolazione | ReplaceAdjustment | Oggetto ReplaceAdjustment. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ReplaceAdjustment](../../textreplaceoptions.replaceadjustment/)
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

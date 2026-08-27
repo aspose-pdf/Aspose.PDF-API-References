@@ -1,12 +1,12 @@
 ---
-title: Enum SubstitutionFontCategories
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Testo.Sostituzione delle Categorie delle Fonti enum. Rappresenta le Categorie delle Fonti che possono essere sostituti.
+title: "Enum SubstitutionFontCategories"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.SubstitutionFontCategories enum. Rappresenta le categorie di carattere che possono essere sostituite"
 type: docs
-weight: 10720
+weight: 10900
 url: /it/net/aspose.pdf.text/substitutionfontcategories/
 ---
-## Enumerazione SubstitutionFontCategories
+## SubstitutionFontCategories enumeration
 
 Rappresenta le categorie di font che possono essere sostituite.
 
@@ -18,10 +18,12 @@ public enum SubstitutionFontCategories
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| TheSameNamedEmbeddedFonts | `0` | I font che hanno lo stesso nome dei font di sistema. Questi font sono per lo più sicuri da sostituire con i font di sistema con lo stesso nome. |
-| AllEmbeddedFonts | `1` | Tutti i font incorporati vengono sostituiti. |
+| TheSameNamedEmbeddedFonts | `0` | I caratteri che hanno lo stesso nome dei caratteri di sistema. Questi caratteri sono per lo più sicuri da sostituire con i caratteri di sistema con lo stesso nome. |
+| AllEmbeddedFonts | `1` | Tutti i caratteri incorporati sono sostituiti. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

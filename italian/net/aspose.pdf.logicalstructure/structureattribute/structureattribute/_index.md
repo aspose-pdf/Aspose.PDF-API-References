@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.StructureAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di StructureAttribute. Inizializza una nuova istanza di StructureAttribute
+title: "StructureAttribute.StructureAttribute"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore StructureAttribute. Inizializza una nuova istanza di StructureAttribute"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.logicalstructure/structureattribute/structureattribute/
 ---
-## Costruttore di StructureAttribute
+## StructureAttribute constructor
 
 Inizializza una nuova istanza di StructureAttribute.
 
@@ -16,11 +16,13 @@ public StructureAttribute(AttributeKey attributeKey)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| attributeKey | AttributeKey | Chiave dell'attributo |
+| attributeKey | AttributeKey | Chiave attributo |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../../attributekey/)
-* classe [StructureAttribute](../)
+* class [AttributeKey](../../attributekey/)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

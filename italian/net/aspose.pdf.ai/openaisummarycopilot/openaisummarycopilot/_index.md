@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilot.OpenAISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilot constructor. Initializes a new instance of the OpenAISummaryCopilot class
+title: "OpenAISummaryCopilot.OpenAISummaryCopilot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAISummaryCopilot costruttore. Inizializza una nuova istanza della classe OpenAISummaryCopilot"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/openaisummarycopilot/openaisummarycopilot/
 ---
-## Costruttore di OpenAISummaryCopilot
+## OpenAISummaryCopilot constructor
 
 Inizializza una nuova istanza della classe [`OpenAISummaryCopilot`](../).
 
@@ -17,14 +17,16 @@ public OpenAISummaryCopilot(IOpenAIClient client,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| client | IOpenAIClient | L'istanza del client OpenAI. |
-| options | ISummaryCopilotOptions`1 | Le opzioni del Summary Copilot di OpenAI. |
+| client | IOpenAIClient | L'istanza client OpenAI. |
+| options | ISummaryCopilotOptions`1 | Le opzioni di OpenAI Summary Copilot. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOpenAIClient](../../iopenaiclient/)
-* interfaccia [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* classe [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
-* classe [OpenAISummaryCopilot](../)
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

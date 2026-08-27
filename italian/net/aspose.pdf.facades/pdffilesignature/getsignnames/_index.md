@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetSignNames
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSignature. Ottiene i nomi di tutte le firme non vuote
+title: "PdfFileSignature.GetSignNames"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSignature. Ottiene i nomi di tutte le firme non vuote."
 type: docs
 weight: 230
 url: /it/net/aspose.pdf.facades/pdffilesignature/getsignnames/
 ---
-## Metodo PdfFileSignature.GetSignNames
+## PdfFileSignature.GetSignNames method
 
-Ottiene i nomi di tutte le firme non vuote.
+Restituisce i nomi di tutte le firme non vuote.
 
 ```csharp
 public IList<string> GetSignNames(bool onlyActive = true)
@@ -18,7 +18,7 @@ public IList<string> GetSignNames(bool onlyActive = true)
 | --- | --- | --- |
 | onlyActive | Boolean | se true, restituisce solo le firme attive; altrimenti, restituisce tutte le firme. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Restituisce un IList&lt;string&gt;.
 
@@ -59,8 +59,10 @@ Next i
 Console.WriteLine("totalvision:"+pdfSign.GetTotalRevision())
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

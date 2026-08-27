@@ -1,12 +1,12 @@
 ---
-title: PptxSaveOptions.SeparateImages
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PptxSaveOptions. Se impostato su true, le immagini vengono separate da tutte le altre grafiche
+title: "PptxSaveOptions.SeparateImages"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PptxSaveOptions. Se impostata su true, le immagini vengono separate da tutte le altre grafiche"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/pptxsaveoptions/separateimages/
 ---
-## Proprietà PptxSaveOptions.SeparateImages
+## PptxSaveOptions.SeparateImages property
 
 Se impostato su true, le immagini vengono separate da tutte le altre grafiche
 
@@ -14,8 +14,10 @@ Se impostato su true, le immagini vengono separate da tutte le altre grafiche
 public bool SeparateImages { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PptxSaveOptions](../)
+* class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

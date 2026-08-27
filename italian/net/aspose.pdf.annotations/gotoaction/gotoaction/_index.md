@@ -1,7 +1,7 @@
 ---
-title: GoToAction.GoToAction
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di GoToAction. Costruttore per la classe GoToAction.
+title: "GoToAction.GoToAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "GoToAction costruttore. Costruttore per la classe GoToAction"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/gotoaction/gotoaction/
@@ -16,12 +16,12 @@ public GoToAction(Page page)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Oggetto di destinazione Aspose.Pdf.Page a cui saltare. |
+| pagina | Page | Aspose.Pdf.Page oggetto destinazione a cui saltare. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [GoToAction](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,15 +37,15 @@ public GoToAction(Page page, ExplicitDestinationType type, params double[] value
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina di destinazione. |
+| pagina | Page | Destinazione Page. |
 | type | ExplicitDestinationType | Tipo di destinazione. |
-| values | Double[] | Parametri dell'azione. |
+| valori | Double[] | Parametri dell'azione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
+* class [Page](../../../aspose.pdf/page/)
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
-* classe [GoToAction](../)
+* class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -63,10 +63,10 @@ public GoToAction(ExplicitDestination destination)
 | --- | --- | --- |
 | destination | ExplicitDestination | Destinazione esplicita. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ExplicitDestination](../../explicitdestination/)
-* classe [GoToAction](../)
+* class [ExplicitDestination](../../explicitdestination/)
+* class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -74,7 +74,7 @@ public GoToAction(ExplicitDestination destination)
 
 ## GoToAction(Document, string) {#constructor_2}
 
-Azione collegata a una Destinazione Nominata.
+Azione collegata a Named Destination.
 
 ```csharp
 public GoToAction(Document doc, string name)
@@ -83,11 +83,13 @@ public GoToAction(Document doc, string name)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | doc | Document | Documento in cui verrà creata l'azione. |
-| name | String | Nome della destinazione. |
+| nome | String | Nome della destinazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [GoToAction](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

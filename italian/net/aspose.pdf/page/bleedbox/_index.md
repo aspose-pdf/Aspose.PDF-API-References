@@ -1,12 +1,12 @@
 ---
-title: Page.BleedBox
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene o imposta il bleed box della pagina
+title: "Page.BleedBox"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene o imposta la bleed box della pagina"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/page/bleedbox/
 ---
-## Proprietà Page.BleedBox
+## Page.BleedBox property
 
 Ottiene o imposta il bleed box della pagina.
 
@@ -16,16 +16,18 @@ public Rectangle BleedBox { get; set; }
 
 ## Esempi
 
-L'esempio dimostra come ottenere il bleed box della pagina:
+L'esempio dimostra come ottenere la bleed box della pagina:
 
 ```csharp
 Document document = new Document("sample.pdf");
 Rectangle bleedBox = document.Pages[1].BleedBox;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../rectangle/)
-* classe [Page](../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

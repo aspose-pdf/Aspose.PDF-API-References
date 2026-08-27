@@ -1,22 +1,24 @@
 ---
-title: GraphicElement.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GraphicElement. Ottiene o imposta la posizione nello spazio delle coordinate corrente. Se Parent non è null, allora l'elemento ha uno spazio delle coordinate xForm
+title: "GraphicElement.Position"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "GraphicElement property. Ottiene o imposta la posizione nello spazio di coordinate corrente. Se Parent non è null, l'elemento ha lo spazio di coordinate xForm"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.vector/graphicelement/position/
 ---
-## Proprietà GraphicElement.Position
+## GraphicElement.Position property
 
-Ottiene o imposta la posizione nello spazio delle coordinate corrente. Se [`Parent`](../parent/) non è !:null, allora l'elemento ha uno spazio delle coordinate xForm.
+Ottiene o imposta la posizione nello spazio di coordinate corrente. Se [`Parent`](../parent/) non è !:null, l'elemento ha lo spazio di coordinate xForm.
 
 ```csharp
 public virtual Point Position { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [GraphicElement](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

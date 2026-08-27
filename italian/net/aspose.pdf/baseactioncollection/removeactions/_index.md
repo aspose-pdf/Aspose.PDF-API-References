@@ -1,12 +1,12 @@
 ---
-title: BaseActionCollection.RemoveActions
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo BaseActionCollection. Rimuove tutte le azioni dell'annotazione
+title: "BaseActionCollection.RemoveActions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo BaseActionCollection. Rimuove tutte le azioni dell'annotazione."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/baseactioncollection/removeactions/
 ---
-## Metodo BaseActionCollection.RemoveActions
+## BaseActionCollection.RemoveActions method
 
 Rimuove tutte le azioni dell'annotazione.
 
@@ -14,8 +14,10 @@ Rimuove tutte le azioni dell'annotazione.
 public void RemoveActions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseActionCollection](../)
+* class [BaseActionCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

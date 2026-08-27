@@ -1,12 +1,12 @@
 ---
-title: XFA.Datasets
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XFA. Componente XFA Datasets di un modulo XFA
+title: "XFA.Datasets"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XFA. Componente XFA Datasets di un modulo XFA"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.forms/xfa/datasets/
 ---
-## Proprietà XFA.Datasets
+## XFA.Datasets property
 
 Componente XFA Datasets di un modulo XFA.
 
@@ -14,8 +14,10 @@ Componente XFA Datasets di un modulo XFA.
 public XmlNode Datasets { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFA](../)
+* class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

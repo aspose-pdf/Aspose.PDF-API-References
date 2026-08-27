@@ -1,12 +1,12 @@
 ---
-title: MP.MP
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore MP. Inizializza l'operatore
+title: "MP.MP"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "MP costruttore. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/mp/mp/
 ---
-## Costruttore MP
+## MP constructor
 
 Inizializza l'operatore.
 
@@ -16,10 +16,12 @@ public MP(string tag)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| tag | String | Tag del contenuto contrassegnato. |
+| etichetta | String | Etichetta di contenuto marcato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MP](../)
+* class [MP](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

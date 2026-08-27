@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.DeleteThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Elimina un messaggio all'interno di un thread in modo asincrono
+title: "IOpenAIClient.DeleteThreadMessageAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IOpenAIClient. Elimina un messaggio all'interno di un thread in modo asincrono"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.ai/iopenaiclient/deletethreadmessageasync/
 ---
-## Metodo IOpenAIClient.DeleteThreadMessageAsync
+## IOpenAIClient.DeleteThreadMessageAsync method
 
 Elimina un messaggio all'interno di un thread in modo asincrono.
 
@@ -21,7 +21,7 @@ public Task<DeleteStatusResponse> DeleteThreadMessageAsync(string threadId, stri
 | threadMessageId | String | L'ID del messaggio da eliminare. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene lo stato dell'operazione di eliminazione.
 
@@ -29,12 +29,14 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del messaggio del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del messaggio del thread è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DeleteStatusResponse](../../deletestatusresponse/)
-* interfaccia [IOpenAIClient](../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

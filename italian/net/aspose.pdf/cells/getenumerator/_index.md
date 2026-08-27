@@ -1,26 +1,28 @@
 ---
-title: Cells.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Cells. Ottiene l'enumeratore delle collezioni
+title: "Cells.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Cells. Ottiene l'enumeratore della collezione"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/cells/getenumerator/
 ---
-## Metodo Cells.GetEnumerator
+## Cells.GetEnumerator method
 
-Ottiene l'enumeratore della collezione.
+Ottiene l'enumeratore della raccolta.
 
 ```csharp
 public IEnumerator<Cell> GetEnumerator()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto enumeratore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Cell](../../cell/)
-* classe [Cells](../)
+* class [Cell](../../cell/)
+* class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

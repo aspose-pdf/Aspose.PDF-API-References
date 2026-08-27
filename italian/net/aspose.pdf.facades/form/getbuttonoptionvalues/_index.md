@@ -1,14 +1,14 @@
 ---
-title: Form.GetButtonOptionValues
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Ottiene i campi delle opzioni dei pulsanti radio e i valori correlati in base al nome del campo. Questo metodo ha significato per i gruppi di pulsanti radio
+title: "Form.GetButtonOptionValues"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Ottiene i campi di opzione dei pulsanti radio e i valori correlati in base al nome del campo. Questo metodo è significativo per i gruppi di pulsanti radio"
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.facades/form/getbuttonoptionvalues/
 ---
-## Metodo Form.GetButtonOptionValues
+## Form.GetButtonOptionValues method
 
-Ottiene i campi delle opzioni dei pulsanti radio e i valori correlati in base al nome del campo. Questo metodo ha significato per i gruppi di pulsanti radio.
+Ottiene i campi opzione dei pulsanti radio e i valori correlati in base al nome del campo. Questo metodo è significativo per i gruppi di pulsanti radio.
 
 ```csharp
 public Dictionary<string, string> GetButtonOptionValues(string fieldName)
@@ -16,11 +16,11 @@ public Dictionary<string, string> GetButtonOptionValues(string fieldName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Nome del campo |
+| fieldName | String | Nome Campo |
 
 ### Valore di ritorno
 
-Tabella hash dei valori delle opzioni indicizzati per nome dell'elemento del modulo
+Tabella hash dei valori di opzione indicizzati per nome dell'elemento del modulo
 
 ## Esempi
 
@@ -31,8 +31,10 @@ Console.WriteLine(values["White"].ToString());
 Console.WriteLine(values["Black"].ToString());
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

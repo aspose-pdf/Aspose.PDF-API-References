@@ -1,22 +1,24 @@
 ---
-title: FormFieldOptions.Highlighting
-second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldOptions. Ottiene/imposta il valore per determinare la proprietà Evidenziazione per il campo creato/modificato.
+title: "FormFieldOptions.Highlighting"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldOptions field. Ottiene/imposta il valore per determinare la proprietà Highlighting per il campo creato/modificato se verrà impostata"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.plugins/formfieldoptions/highlighting/
 ---
-## Campo FormFieldOptions.Highlighting
+## FormFieldOptions.Highlighting field
 
-Ottiene/imposta il valore per determinare la proprietà Evidenziazione per il campo creato/modificato (se sarà impostato).
+Ottiene/Imposta il valore per determinare la proprietà Highlighting per il campo creato/modificato (se verrà impostato).
 
 ```csharp
 public HighlightingMode? Highlighting;
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

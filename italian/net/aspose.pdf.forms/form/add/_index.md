@@ -1,9 +1,9 @@
 ---
-title: Form.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Aggiunge un campo al modulo
+title: "Form.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Aggiunge un campo al modulo"
 type: docs
-weight: 190
+weight: 210
 url: /it/net/aspose.pdf.forms/form/add/
 ---
 ## Add(Field, int) {#add_2}
@@ -16,13 +16,13 @@ public void Add(Field field, int pageNumber)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| field | Field | Campo che deve essere aggiunto. |
-| pageNumber | Int32 | Indice della pagina in cui verrà posizionato il campo aggiunto. |
+| campo | Campo | Campo che deve essere aggiunto. |
+| pageNumber | Int32 | Indice della pagina in cui il campo aggiunto sarà posizionato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../../field/)
-* classe [Form](../)
+* class [Field](../../field/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,12 +38,12 @@ public void Add(Field field)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| field | Field | Campo che deve essere aggiunto. |
+| campo | Campo | Campo che deve essere aggiunto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../../field/)
-* classe [Form](../)
+* class [Field](../../field/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -51,7 +51,7 @@ public void Add(Field field)
 
 ## Add(Field, string, int) {#add}
 
-Aggiunge un nuovo campo al modulo; Se questo campo è già posizionato su un altro modulo o su questo modulo, verrà creata una copia del campo.
+Aggiunge un nuovo campo al modulo; se questo campo è già posizionato su un altro modulo o su questo, viene creata una copia del campo.
 
 ```csharp
 public Field Add(Field field, string partialName, int pageNumber)
@@ -59,17 +59,19 @@ public Field Add(Field field, string partialName, int pageNumber)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| field | Field | Nome del campo. |
-| partialName | String | Nome del campo sul modulo. |
-| pageNumber | Int32 | Numero della pagina in cui verrà aggiunto il campo. |
+| campo | Campo | Nome del campo. |
+| partialName | String | Nome del campo nel modulo. |
+| pageNumber | Int32 | Numero di pagina dove verrà aggiunto il campo. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Campo aggiunto restituito. Se è stata creata una copia del campo, verrà restituita.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../../field/)
-* classe [Form](../)
+* class [Field](../../field/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

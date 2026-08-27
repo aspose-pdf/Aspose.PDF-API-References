@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Html_401
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard field. HTML4.01 attribute owner
+title: "AttributeOwnerStandard.Html_401"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo AttributeOwnerStandard. Proprietario attributo HTML4.01"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.logicalstructure/attributeownerstandard/html_401/
 ---
-## Campo AttributeOwnerStandard.Html_401
+## AttributeOwnerStandard.Html_401 field
 
 Proprietario dell'attributo HTML-4.01.
 
@@ -14,8 +14,10 @@ Proprietario dell'attributo HTML-4.01.
 public static readonly AttributeOwnerStandard Html_401;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeOwnerStandard](../)
+* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

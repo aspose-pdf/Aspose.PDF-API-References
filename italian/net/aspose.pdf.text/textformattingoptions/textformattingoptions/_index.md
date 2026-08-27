@@ -1,14 +1,14 @@
 ---
-title: TextFormattingOptions.TextFormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TextFormattingOptions. Inizializza una nuova istanza dell'oggetto TextFormattingOptions per la modalità di interruzione di riga specificata
+title: "TextFormattingOptions.TextFormattingOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TextFormattingOptions. Inizializza una nuova istanza dell'oggetto TextFormattingOptions per la modalità di word wrap specificata"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/textformattingoptions/textformattingoptions/
 ---
 ## TextFormattingOptions(WordWrapMode) {#constructor_1}
 
-Inizializza una nuova istanza dell'oggetto [`TextFormattingOptions`](../) per la modalità di interruzione di riga specificata.
+Inizializza una nuova istanza dell'oggetto [`TextFormattingOptions`](../) per la modalità di word wrap specificata.
 
 ```csharp
 public TextFormattingOptions(WordWrapMode wrapMode)
@@ -16,9 +16,9 @@ public TextFormattingOptions(WordWrapMode wrapMode)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| wrapMode | WordWrapMode | Modalità di interruzione di riga. |
+| wrapMode | WordWrapMode | Modalità di word wrap. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [WordWrapMode](../../textformattingoptions.wordwrapmode/)
 * class [TextFormattingOptions](../)
@@ -29,14 +29,16 @@ public TextFormattingOptions(WordWrapMode wrapMode)
 
 ## TextFormattingOptions() {#constructor}
 
-Inizializza una nuova istanza dell'oggetto [`TextFormattingOptions`](../) con modalità di interruzione di riga non definita.
+Inizializza una nuova istanza dell'oggetto [`TextFormattingOptions`](../) con modalità di word wrap non definita.
 
 ```csharp
 public TextFormattingOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Grey
-second_title: Aspose.PDF for .NET API Reference
-description: Ottiene il componente nero del colore grigio.
+title: "Grigio"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Ottiene il componente nero del colore grigio."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.operators/basicsetcoloroperator/grey/
@@ -14,7 +14,7 @@ Ottiene il componente nero del colore grigio.
 public double Grey { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * class [BasicSetColorOperator](../../basicsetcoloroperator)
 * namespace [Aspose.Pdf.Operators](../../basicsetcoloroperator)

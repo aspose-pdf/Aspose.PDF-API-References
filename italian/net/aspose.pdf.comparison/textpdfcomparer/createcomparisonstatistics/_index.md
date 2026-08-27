@@ -1,28 +1,28 @@
 ---
-title: TextPdfComparer.CreateComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextPdfComparer. Ottiene statistiche di confronto
+title: "TextPdfComparer.CreateComparisonStatistics"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextPdfComparer. Ottiene le statistiche di confronto"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/
 ---
 ## CreateComparisonStatistics(List&lt;DiffOperation&gt;) {#createcomparisonstatistics_1}
 
-Ottiene statistiche di confronto.
+Ottiene le statistiche di confronto.
 
 ```csharp
 public static TextItemComparisonStatistics CreateComparisonStatistics(List<DiffOperation> diffs)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| diffs | List`1 | La lista delle modifiche. |
+| differenze | List`1 | L'elenco delle modifiche. |
 
-### Return Value
+### Valore di ritorno
 
 Le statistiche.
 
-### See Also
+### Vedi anche
 
 * class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
 * class [DiffOperation](../../diffoperation/)
@@ -34,25 +34,27 @@ Le statistiche.
 
 ## CreateComparisonStatistics(List&lt;List&lt;DiffOperation&gt;&gt;) {#createcomparisonstatistics}
 
-Ottiene statistiche di confronto dei documenti.
+Ottiene le statistiche di confronto dei documenti.
 
 ```csharp
 public static DocumentComparisonStatistics CreateComparisonStatistics(
     List<List<DiffOperation>> diffs)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| diffs | List`1 | La lista delle modifiche. |
+| differenze | List`1 | L'elenco delle modifiche. |
 
-### Return Value
+### Valore di ritorno
 
 Le statistiche.
 
-### See Also
+### Vedi anche
 
 * class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
 * class [DiffOperation](../../diffoperation/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

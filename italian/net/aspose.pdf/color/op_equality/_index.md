@@ -1,12 +1,12 @@
 ---
-title: Color.op_Equality
-second_title: Aspose.PDF for .NET API Reference
-description: Color method. Returns true if two Colors are equal
+title: "Color.op_Equality"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Color. Restituisce true se due Color sono uguali"
 type: docs
 weight: 1560
 url: /it/net/aspose.pdf/color/op_equality/
 ---
-## Operatore di uguaglianza dei colori
+## Color Equality operator
 
 Restituisce true se due colori sono uguali.
 
@@ -25,6 +25,8 @@ True nel caso in cui gli oggetti Color siano uguali.
 
 ### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

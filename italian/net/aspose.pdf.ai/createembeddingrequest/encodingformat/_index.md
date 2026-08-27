@@ -1,21 +1,23 @@
 ---
-title: CreateEmbeddingRequest.EncodingFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di CreateEmbeddingRequest. Ottiene o imposta il formato per restituire gli embedding. Può essere float o base64
+title: "CreateEmbeddingRequest.EncodingFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CreateEmbeddingRequest proprietà. Ottiene o imposta il formato in cui restituire gli embedding. Può essere float o base64"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/createembeddingrequest/encodingformat/
 ---
-## Proprietà CreateEmbeddingRequest.EncodingFormat
+## CreateEmbeddingRequest.EncodingFormat property
 
-Ottiene o imposta il formato per restituire gli embedding. Può essere float o base64.
+Ottiene o imposta il formato in cui restituire gli embedding. Può essere float o base64.
 
 ```csharp
 public string EncodingFormat { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CreateEmbeddingRequest](../)
+* class [CreateEmbeddingRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: TextStyle.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextStyle. Dimensione del font
+title: "TextStyle.FontSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextStyle. Dimensione del carattere"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/textstyle/fontsize/
 ---
-## Proprietà TextStyle.FontSize
+## TextStyle.FontSize property
 
-Dimensione del font.
+Dimensione del carattere.
 
 ```csharp
 public double FontSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextStyle](../)
+* class [TextStyle](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

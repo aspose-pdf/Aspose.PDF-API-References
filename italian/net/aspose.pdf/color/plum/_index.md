@@ -1,12 +1,12 @@
 ---
-title: Color.Plum
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFDDA0DD
+title: "Color.Plum"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore definito dal sistema con valore ARGB c FFDDA0DD"
 type: docs
 weight: 1120
 url: /it/net/aspose.pdf/color/plum/
 ---
-## Proprietà Color.Plum
+## Color.Plum property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFDDA0DD.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFDDA0DD.
 public static Color Plum { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

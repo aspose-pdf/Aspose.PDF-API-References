@@ -1,21 +1,23 @@
 ---
-title: PageInfo.IsLandscape
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageInfo. Ottiene o imposta se la pagina è in formato paesaggio
+title: "PageInfo.IsLandscape"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageInfo. Ottiene o imposta se la pagina è in orientamento orizzontale"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/pageinfo/islandscape/
 ---
-## Proprietà PageInfo.IsLandscape
+## PageInfo.IsLandscape property
 
-Ottiene o imposta se la pagina è in formato paesaggio.
+Ottiene o imposta se la pagina è in modalità landscape.
 
 ```csharp
 public bool IsLandscape { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageInfo](../)
+* class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.ExportBookmarksToXML
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfBookmarkEditor. Esporta i segnalibri in un file XML
+title: "PdfBookmarkEditor.ExportBookmarksToXML"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfBookmarkEditor. Esporta i segnalibri in un file XML."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/
@@ -26,9 +26,9 @@ editor.BindPdf("example.pdf");
 editor.ExportBookmarksToXML("bookmarks.xml");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,7 @@ editor.ExportBookmarksToXML("bookmarks.xml");
 
 ## ExportBookmarksToXML(Stream) {#exportbookmarkstoxml}
 
-Esporta i segnalibri in uno stream XML.
+Esporta i segnalibri in un flusso XML.
 
 ```csharp
 public void ExportBookmarksToXML(Stream stream)
@@ -44,10 +44,12 @@ public void ExportBookmarksToXML(Stream stream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream di output dove i dati saranno memorizzati. |
+| stream | Stream | Flusso di output dove verranno memorizzati i dati. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: RunStepDetails.MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RunStepDetails. Ottiene o imposta i dettagli della creazione del messaggio
+title: "RunStepDetails.MessageCreation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunStepDetails. Ottiene o imposta i dettagli della creazione del messaggio"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/runstepdetails/messagecreation/
 ---
-## Proprietà RunStepDetails.MessageCreation
+## RunStepDetails.MessageCreation property
 
 Ottiene o imposta i dettagli della creazione del messaggio.
 
@@ -14,9 +14,11 @@ Ottiene o imposta i dettagli della creazione del messaggio.
 public MessageCreation MessageCreation { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MessageCreation](../../messagecreation/)
-* classe [RunStepDetails](../)
+* class [MessageCreation](../../messagecreation/)
+* class [RunStepDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

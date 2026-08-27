@@ -1,21 +1,23 @@
 ---
-title: MarkdownSaveOptions.SubscriptAndSuperscriptConversion
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MarkdownSaveOptions. Immette asenza imposta permesso a converto sottoscrizione e sovrascrizione. Questo valore è vero per default.
+title: "MarkdownSaveOptions.SubscriptAndSuperscriptConversion"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di MarkdownSaveOptions. Ottiene e imposta l'autorizzazione a convertire pedici e apici. Questo valore è vero per impostazione predefinita"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/markdownsaveoptions/subscriptandsuperscriptconversion/
 ---
-## Proprietà MarkdownSaveOptions.SubscriptAndSuperscriptConversion
+## MarkdownSaveOptions.SubscriptAndSuperscriptConversion property
 
-Ottiene e imposta il permesso di convertire pedici e apici. Questo valore è true per impostazione predefinita.
+Ottiene e imposta l'autorizzazione a convertire apice e pedice. Questo valore è vero per impostazione predefinita.
 
 ```csharp
 public bool SubscriptAndSuperscriptConversion { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarkdownSaveOptions](../)
+* class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

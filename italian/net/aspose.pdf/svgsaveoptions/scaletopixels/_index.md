@@ -1,12 +1,12 @@
 ---
-title: SvgSaveOptions.ScaleToPixels
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SvgSaveOptions. Specifica se scalare il documento di output da punti tipografici a pixel
+title: "SvgSaveOptions.ScaleToPixels"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo SvgSaveOptions. Specifica se scalare il document di output da punti tipografici a pixel"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/svgsaveoptions/scaletopixels/
 ---
-## Campo SvgSaveOptions.ScaleToPixels
+## SvgSaveOptions.ScaleToPixels field
 
 Specifica se scalare il documento di output da punti tipografici a pixel.
 
@@ -14,8 +14,10 @@ Specifica se scalare il documento di output da punti tipografici a pixel.
 public bool ScaleToPixels;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SvgSaveOptions](../)
+* class [SvgSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

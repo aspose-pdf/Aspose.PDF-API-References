@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.OutlineItemCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di OutlineItemCollection. Inizializza l'istanza dell'elemento di outline utilizzando l'oggetto gerarchico radice
+title: "OutlineItemCollection.OutlineItemCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OutlineItemCollection costruttore. Inizializza un'istanza di elemento di contorno utilizzando l'oggetto della gerarchia radice"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/outlineitemcollection/outlineitemcollection/
 ---
-## Costruttore di OutlineItemCollection
+## OutlineItemCollection constructor
 
-Inizializza l'istanza dell'elemento di outline utilizzando l'oggetto gerarchico radice.
+Inizializza l'istanza della voce di indice utilizzando l'oggetto gerarchia radice.
 
 ```csharp
 public OutlineItemCollection(OutlineCollection outlines)
@@ -16,11 +16,13 @@ public OutlineItemCollection(OutlineCollection outlines)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outlines | OutlineCollection | Collezione di outline. |
+| contorni | OutlineCollection | Raccolta Outlune. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineCollection](../../outlinecollection/)
-* classe [OutlineItemCollection](../)
+* class [OutlineCollection](../../outlinecollection/)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

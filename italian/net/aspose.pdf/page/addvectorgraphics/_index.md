@@ -1,25 +1,25 @@
 ---
-title: AddVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Aggiunge grafica vettoriale all'interno del rettangolo dato alla pagina.
+title: "AddVectorGraphics"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aggiunge grafica vettoriale all'interno del rettangolo fornito alla Page."
 type: docs
 weight: 360
 url: /it/net/aspose.pdf/page/addvectorgraphics/
 ---
 ## Page.AddVectorGraphics method
 
-Aggiunge grafica vettoriale all'interno del rettangolo dato alla pagina.
+Aggiunge grafica vettoriale all'interno del rettangolo fornito alla Page.
 
 ```csharp
 public void AddVectorGraphics(SubPathCollection pathsToAdd, Rectangle rectangle = null)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | pathsToAdd | SubPathCollection | collezione di grafica vettoriale. |
-| rectangle | Rectangle | I sotto-percorsi saranno aggiunti alla pagina se sono all'interno dell'area del rettangolo. |
+| rettangolo | Rectangle | I Subpathes saranno aggiunti alla Page se sono all'interno dell'area del rettangolo. |
 
-### See Also
+### Vedi anche
 
 * class [SubPathCollection](../../../aspose.pdf.vector/subpathcollection)
 * class [Rectangle](../../rectangle)

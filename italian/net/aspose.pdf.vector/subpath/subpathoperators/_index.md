@@ -1,20 +1,20 @@
 ---
-title: SubPathOperators
-second_title: Aspose.PDF for .NET API Reference
-description: Ottiene la collezione di operatori che rappresenta SubPath.
+title: "SubPathOperators"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Ottiene la raccolta di operatori che rappresenta SubPath."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.vector/subpath/subpathoperators/
 ---
 ## SubPath.SubPathOperators property
 
-Ottiene la collezione di operatori che rappresenta SubPath.
+Ottiene la raccolta di operatori che rappresenta SubPath.
 
 ```csharp
 public List<Operator> SubPathOperators { get; }
 ```
 
-### See Also
+### Vedi anche
 
 * class [Operator](../../../aspose.pdf/operator)
 * class [SubPath](../../subpath)

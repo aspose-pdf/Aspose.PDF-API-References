@@ -1,21 +1,23 @@
 ---
-title: CheckboxField.ActiveState
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CheckboxField. Ottiene o imposta lo stato attuale dell'aspetto dell'annotazione
+title: "CheckboxField.ActiveState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CheckboxField. Ottiene o imposta lo stato di aspetto dell'Annotation corrente"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.forms/checkboxfield/activestate/
 ---
-## Proprietà CheckboxField.ActiveState
+## CheckboxField.ActiveState property
 
-Ottiene o imposta lo stato attuale dell'aspetto dell'annotazione.
+Ottiene o imposta lo stato di aspetto corrente dell'annotazione.
 
 ```csharp
 public override string ActiveState { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CheckboxField](../)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

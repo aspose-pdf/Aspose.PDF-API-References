@@ -1,12 +1,12 @@
 ---
-title: ToolCall.ToolCall
-second_title: Aspose.PDF for .NET API Reference
-description: ToolCall costruttore. Il costruttore predefinito.
+title: "ToolCall.ToolCall"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di ToolCall. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/toolcall/toolcall/
 ---
-## Costruttore ToolCall
+## ToolCall constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ToolCall()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ToolCall](../)
+* class [ToolCall](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

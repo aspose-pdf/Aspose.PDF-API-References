@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions.MarginPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.SaveOptionsMarginPartStyle. Rappresenta informazioni su una parte del margine
+title: "Classe SaveOptions.MarginPartStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.SaveOptionsMarginPartStyle. Rappresenta le informazioni di una parte del margine superiore, inferiore, sinistro o destro"
 type: docs
-weight: 9920
+weight: 10070
 url: /it/net/aspose.pdf/saveoptions.marginpartstyle/
 ---
-## Classe SaveOptions.MarginPartStyle
+## SaveOptions.MarginPartStyle class
 
-Rappresenta informazioni su una parte del margine (superiore, inferiore, lato sinistro o lato destro)
+Rappresenta le informazioni di una parte del margine (superiore, inferiore, sinistro o destro)
 
 ```csharp
 public class MarginPartStyle
@@ -28,8 +28,10 @@ public class MarginPartStyle
 | [IsAuto](../../aspose.pdf/saveoptions.marginpartstyle/isauto) { get; set; } | Ottiene o imposta un valore che indica se questa istanza è automatica. |
 | [ValueInPoints](../../aspose.pdf/saveoptions.marginpartstyle/valueinpoints) { get; set; } | Rappresenta il margine in punti. Deve essere un numero maggiore di zero. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SaveOptions](../saveoptions/)
+* class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

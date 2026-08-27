@@ -1,22 +1,24 @@
 ---
-title: CaretAnnotation.Frame
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CaretAnnotation. Ottiene o imposta il rettangolo del cursore
+title: "CaretAnnotation.Frame"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CaretAnnotation. Ottiene o imposta il rettangolo del caret"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/caretannotation/frame/
 ---
-## Proprietà CaretAnnotation.Frame
+## CaretAnnotation.Frame property
 
-Ottiene o imposta il rettangolo del cursore.
+Ottiene o imposta il rettangolo del caret.
 
 ```csharp
 public Rectangle Frame { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [CaretAnnotation](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

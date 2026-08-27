@@ -1,12 +1,12 @@
 ---
-title: TextFragment.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextFragment. Clona il frammento con tutti i segmenti
+title: "TextFragment.CloneWithSegments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextFragment. Clona il frammento con tutti i segmenti."
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.text/textfragment/clonewithsegments/
 ---
-## Metodo TextFragment.CloneWithSegments
+## TextFragment.CloneWithSegments method
 
 Clona il frammento con tutti i segmenti.
 
@@ -14,12 +14,14 @@ Clona il frammento con tutti i segmenti.
 public virtual object CloneWithSegments()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'oggetto clonato
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragment](../)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: RenditionAction.Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RenditionAction. Ottiene o imposta la rappresentazione associata all'azione
+title: "RenditionAction.Rendition"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RenditionAction. Ottiene o imposta il rendering associato all'azione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/renditionaction/rendition/
 ---
-## Proprietà RenditionAction.Rendition
+## RenditionAction.Rendition property
 
-Ottiene o imposta la rappresentazione associata all'azione.
+Ottiene o imposta la riproduzione associata all'azione.
 
 ```csharp
 public Rendition Rendition { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rendition](../../rendition/)
-* classe [RenditionAction](../)
+* class [Rendition](../../rendition/)
+* class [RenditionAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

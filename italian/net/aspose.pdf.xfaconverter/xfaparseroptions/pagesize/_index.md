@@ -1,12 +1,12 @@
 ---
-title: XfaParserOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XfaParserOptions. Ottiene o imposta la dimensione della pagina
+title: "XfaParserOptions.PageSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "XfaParserOptions property. Ottiene o imposta la dimensione della pagina"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.xfaconverter/xfaparseroptions/pagesize/
 ---
-## Proprietà XfaParserOptions.PageSize
+## XfaParserOptions.PageSize property
 
 Ottiene o imposta la dimensione della pagina.
 
@@ -14,12 +14,14 @@ Ottiene o imposta la dimensione della pagina.
 public SizeF PageSize { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 La dimensione della pagina.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XfaParserOptions](../)
+* class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

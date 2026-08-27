@@ -1,12 +1,12 @@
 ---
-title: TextDocument.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextDocument. Ottiene o imposta il contenuto del documento di testo
+title: "TextDocument.Content"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "TextDocument proprietà. Ottiene o imposta il contenuto del documento di testo."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/textdocument/content/
 ---
-## Proprietà TextDocument.Content
+## TextDocument.Content property
 
 Ottiene o imposta il contenuto del documento di testo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il contenuto del documento di testo.
 public string Content { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextDocument](../)
+* class [TextDocument](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Artifact.RightMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'artifact. Margine destro dell'artifact. Se la posizione è specificata esplicitamente nella proprietà Position, questo valore viene ignorato
+title: "Artifact.RightMargin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Artifact. Margine destro dell'artifact. Se la posizione è specificata esplicitamente nella proprietà Position, questo valore è ignorato."
 type: docs
 weight: 160
 url: /it/net/aspose.pdf/artifact/rightmargin/
 ---
-## Proprietà Artifact.RightMargin
+## Artifact.RightMargin property
 
-Margine destro dell'artifact. Se la posizione è specificata esplicitamente (nella proprietà Position) questo valore viene ignorato.
+Margine destro dell'artefatto. Se la posizione è specificata esplicitamente (nella proprietà Position) questo valore è ignorato.
 
 ```csharp
 public double RightMargin { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

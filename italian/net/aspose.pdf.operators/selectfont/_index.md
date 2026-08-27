@@ -1,12 +1,12 @@
 ---
-title: Class SelectFont
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SelectFont. Classe che rappresenta l'operatore Tf per impostare il font e la dimensione del testo
+title: "Classe SelectFont"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.SelectFont classe. Classe che rappresenta l'operatore Tf per impostare il carattere e la dimensione del testo"
 type: docs
-weight: 7550
+weight: 7690
 url: /it/net/aspose.pdf.operators/selectfont/
 ---
-## Classe SelectFont
+## SelectFont class
 
 Classe che rappresenta l'operatore Tf (imposta il font e la dimensione del testo).
 
@@ -25,19 +25,21 @@ public class SelectFont : TextStateOperator
 | Nome | Descrizione |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori della pagina. |
-| [Name](../../aspose.pdf.operators/selectfont/name/) { get; } | Nome del font. |
+| [Name](../../aspose.pdf.operators/selectfont/name/) { get; } | Nome del carattere. |
 | [Size](../../aspose.pdf.operators/selectfont/size/) { get; } | Dimensione del testo. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/selectfont/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/selectfont/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf.operators/selectfont/tostring/)() | Restituisce la rappresentazione testuale dell'operatore. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextStateOperator](../textstateoperator/)
+* class [TextStateOperator](../textstateoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

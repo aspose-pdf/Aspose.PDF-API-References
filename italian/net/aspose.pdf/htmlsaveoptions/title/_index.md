@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlSaveOptions. Ottiene o imposta il titolo della pagina HTML
+title: "HtmlSaveOptions.Title"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà HtmlSaveOptions. Ottiene o imposta il titolo della pagina HTML."
 type: docs
 weight: 210
 url: /it/net/aspose.pdf/htmlsaveoptions/title/
 ---
-## Proprietà HtmlSaveOptions.Title
+## HtmlSaveOptions.Title property
 
 Ottiene o imposta il titolo della pagina HTML.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il titolo della pagina HTML.
 public string Title { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

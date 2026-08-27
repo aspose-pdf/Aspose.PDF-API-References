@@ -1,21 +1,23 @@
 ---
-title: CrashReportOptions.CrashReportDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CrashReportOptions. Directory di output per il rapporto di crash. Per impostazione predefinita, viene impostato a directory corrente.
+title: "CrashReportOptions.CrashReportDirectory"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CrashReportOptions. Directory di output per il report di crash. Per impostazione predefinita è impostata alla directory corrente"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/crashreportoptions/crashreportdirectory/
 ---
-## Proprietà CrashReportOptions.CrashReportDirectory
+## CrashReportOptions.CrashReportDirectory property
 
-Directory di output per il rapporto di crash. Per impostazione predefinita è impostata sulla directory corrente.
+Directory di output per il report di crash. Per impostazione predefinita è impostata alla directory corrente.
 
 ```csharp
 public string CrashReportDirectory { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CrashReportOptions](../)
+* class [CrashReportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Document.EnableObjectUnload
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta un flag che consente al documento di essere parzialmente scaricato dalla memoria. Questo consente di ridurre l'uso della memoria, ma potrebbe avere un effetto negativo sulle prestazioni.
+title: "Document.EnableObjectUnload"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene o imposta il flag che consente al documento di essere parzialmente scaricato dalla memoria. Questo permette di ridurre l'uso della memoria ma può avere un effetto negativo sulle prestazioni"
 type: docs
-weight: 160
+weight: 180
 url: /it/net/aspose.pdf/document/enableobjectunload/
 ---
-## Proprietà Document.EnableObjectUnload
+## Document.EnableObjectUnload property
 
-Ottiene o imposta un flag che consente al documento di essere parzialmente scaricato dalla memoria. Questo consente di ridurre l'uso della memoria, ma potrebbe avere un effetto negativo sulle prestazioni.
+Ottiene o imposta la flag che consente al documento di essere parzialmente scaricato dalla memoria. Questo permette di ridurre l'uso della memoria ma può avere un effetto negativo sulle prestazioni.
 
 ```csharp
 public bool EnableObjectUnload { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

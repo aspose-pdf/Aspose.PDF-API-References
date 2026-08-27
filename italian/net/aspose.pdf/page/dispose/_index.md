@@ -1,21 +1,23 @@
 ---
-title: Page.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Page method. Frees up memory
+title: "Page.Dispose"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Page. Libera la memoria"
 type: docs
 weight: 420
 url: /it/net/aspose.pdf/page/dispose/
 ---
-## Metodo Page.Dispose
+## Page.Dispose method
 
-Libera memoria
+Libera la memoria
 
 ```csharp
 public void Dispose()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

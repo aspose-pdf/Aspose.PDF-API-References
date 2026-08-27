@@ -1,22 +1,24 @@
 ---
-title: TableElement.CornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement property. Gets or sets the styles of the border corners
+title: "TableElement.CornerStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableElement. Ottiene o imposta gli stili degli angoli del bordo"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.logicalstructure/tableelement/cornerstyle/
 ---
-## Proprietà TableElement.CornerStyle
+## TableElement.CornerStyle property
 
-Ottiene o imposta gli stili degli angoli del bordo
+Ottiene o imposta gli stili degli angoli del bordo.
 
 ```csharp
 public BorderCornerStyle CornerStyle { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BorderCornerStyle](../../../aspose.pdf/bordercornerstyle/)
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

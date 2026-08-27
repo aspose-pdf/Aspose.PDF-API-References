@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormFieldFacade. Lo stile di un bordo di campo
+title: "FormFieldFacade.BorderStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade proprietà. Lo stile del bordo del campo"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/formfieldfacade/borderstyle/
 ---
-## Proprietà FormFieldFacade.BorderStyle
+## FormFieldFacade.BorderStyle property
 
-Lo stile di un bordo di campo.
+Lo stile di un bordo del campo.
 
 ```csharp
 public int BorderStyle { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

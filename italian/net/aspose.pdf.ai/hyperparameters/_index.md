@@ -1,12 +1,12 @@
 ---
-title: Class Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Hyperparameters. Rappresenta gli iperparametri utilizzati per un lavoro di fine-tuning
+title: "Classe Hyperparameters"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.AI.Hyperparameters classe. Rappresenta gli iperparametri usati per un lavoro di fine‑tuning"
 type: docs
-weight: 430
+weight: 450
 url: /it/net/aspose.pdf.ai/hyperparameters/
 ---
-## Classe Iperparametri
+## Hyperparameters class
 
 Rappresenta gli iperparametri utilizzati per un lavoro di fine-tuning.
 
@@ -24,9 +24,11 @@ public class Hyperparameters
 
 | Nome | Descrizione |
 | --- | --- |
-| [BatchSize](../../aspose.pdf.ai/hyperparameters/batchsize/) { get; set; } | Ottiene o imposta il numero di esempi in ciascun batch. |
+| [BatchSize](../../aspose.pdf.ai/hyperparameters/batchsize/) { get; set; } | Ottiene o imposta il numero di esempi in ogni batch. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

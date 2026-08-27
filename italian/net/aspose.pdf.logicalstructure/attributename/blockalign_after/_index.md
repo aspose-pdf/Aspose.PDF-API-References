@@ -1,21 +1,23 @@
 ---
-title: AttributeName.BlockAlign_After
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Attributo BlockAlign After - Dopo il bordo dell'allocazione dell'ultimo figlio allineato con quello del rettangolo di contenuto delle celle della tabella
+title: "AttributeName.BlockAlign_After"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName field. Attribute BlockAlign After  Il bordo posteriore del rettangolo di allocazione dell'ultimo figlio è allineato con quello del rettangolo di contenuto delle celle della tabella"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.logicalstructure/attributename/blockalign_after/
 ---
-## Campo AttributeName.BlockAlign_After
+## AttributeName.BlockAlign_After field
 
-Attributo BlockAlign: Dopo - Dopo il bordo dell'allocazione dell'ultimo figlio allineato con quello del rettangolo di contenuto della cella della tabella.
+Attributo BlockAlign: After - Il bordo posteriore dell'ultimo rettangolo di allocazione del figlio è allineato con quello del rettangolo di contenuto della cella della tabella.
 
 ```csharp
 public static readonly AttributeName BlockAlign_After;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

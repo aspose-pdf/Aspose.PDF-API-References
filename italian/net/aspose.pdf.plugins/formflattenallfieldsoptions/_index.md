@@ -1,14 +1,14 @@
 ---
-title: Class FormFlattenAllFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions. Rappresenta le opzioni per appiattire tutti i campi non annotazioni nel documento tramite il plugin FormFlattener
+title: "Classe FormFlattenAllFieldsOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions classe. Rappresenta le opzioni per appiattire tutti i campi, non le annotazioni, nel documento tramite il plugin FormFlattener"
 type: docs
-weight: 8730
+weight: 8860
 url: /it/net/aspose.pdf.plugins/formflattenallfieldsoptions/
 ---
-## Classe FormFlattenAllFieldsOptions
+## FormFlattenAllFieldsOptions class
 
-Rappresenta le opzioni per appiattire tutti i campi (non annotazioni) nel documento tramite il plugin [`FormFlattener`](../formflattener/).
+Rappresenta le opzioni per appiattire tutti i campi (non le annotazioni) nel documento tramite il plugin [`FormFlattener`](../formflattener/).
 
 ```csharp
 public class FormFlattenAllFieldsOptions : FormFlattenerOptions
@@ -24,18 +24,20 @@ public class FormFlattenAllFieldsOptions : FormFlattenerOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Restituisce la raccolta di dati dei plugin Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Ottiene la raccolta degli obiettivi aggiunti per i risultati dell'operazione di salvataggio. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Restituisce la raccolta dati dei plugin Form.... |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Ottiene la raccolta dei target aggiunti per salvare i risultati dell'operazione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Aggiunge una nuova sorgente dati alla raccolta di dati dei plugin Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Aggiunge una nuova sorgente dati alla raccolta di dati dei plugin Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati dei plugin Form... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati dei plugin Form... |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFlattenerOptions](../formflatteneroptions/)
+* class [FormFlattenerOptions](../formflatteneroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: UseNewImagingEngine
-second_title: Aspose.PDF for .NET API Reference
-description: Ottiene o imposta un flag che determina se il nuovo motore di imaging è utilizzato o meno.
+title: "UseNewImagingEngine"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Ottiene o imposta un flag che determina se il nuovo motore di imaging è utilizzato o meno."
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/renderingoptions/usenewimagingengine/
@@ -14,7 +14,7 @@ Ottiene o imposta un flag che determina se il nuovo motore di imaging è utilizz
 public bool UseNewImagingEngine { get; set; }
 ```
 
-### See Also
+### Vedi anche
 
 * class [RenderingOptions](../../renderingoptions)
 * namespace [Aspose.Pdf](../../renderingoptions)

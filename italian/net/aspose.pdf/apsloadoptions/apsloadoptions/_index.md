@@ -1,12 +1,12 @@
 ---
-title: ApsLoadOptions.ApsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ApsLoadOptions. Il costruttore predefinito
+title: "ApsLoadOptions.ApsLoadOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ApsLoadOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/apsloadoptions/apsloadoptions/
 ---
-## Costruttore di ApsLoadOptions
+## ApsLoadOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ApsLoadOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ApsLoadOptions](../)
+* class [ApsLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

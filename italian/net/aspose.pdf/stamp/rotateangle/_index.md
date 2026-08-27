@@ -1,12 +1,12 @@
 ---
-title: Stamp.RotateAngle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Stamp. Ottiene o imposta l'angolo di rotazione del timbro in gradi. Questa proprietà consente di impostare un angolo di rotazione arbitrario
+title: "Stamp.RotateAngle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di Stamp. Ottiene o imposta l'angolo di rotazione del timbro in gradi. Questa proprietà consente di impostare un angolo di rotazione arbitrario"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/stamp/rotateangle/
 ---
-## Proprietà Stamp.RotateAngle
+## Stamp.RotateAngle property
 
 Ottiene o imposta l'angolo di rotazione del timbro in gradi. Questa proprietà consente di impostare un angolo di rotazione arbitrario.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'angolo di rotazione del timbro in gradi. Questa proprietà c
 public double RotateAngle { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

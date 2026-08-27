@@ -1,7 +1,7 @@
 ---
-title: BoundsOutOfRangeException.BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di BoundsOutOfRangeException. Inizializza una nuova istanza della classe BoundsOutOfRangeException
+title: "BoundsOutOfRangeException.BoundsOutOfRangeException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore BoundsOutOfRangeException. Inizializza una nuova istanza della classe BoundsOutOfRangeException"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.generator/boundsoutofrangeexception/boundsoutofrangeexception/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`BoundsOutOfRangeException`](../).
 public BoundsOutOfRangeException()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BoundsOutOfRangeException](../)
+* class [BoundsOutOfRangeException](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,11 @@ public BoundsOutOfRangeException(string message)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
+| messaggio | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BoundsOutOfRangeException](../)
+* class [BoundsOutOfRangeException](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public BoundsOutOfRangeException(string message)
 
 ## BoundsOutOfRangeException(string, double, double) {#constructor_2}
 
-Inizializza una nuova istanza della classe [`BoundsOutOfRangeException`](../) con un messaggio di errore specificato e dimensioni dell'elemento.
+Inizializza una nuova istanza della classe [`BoundsOutOfRangeException`](../) con un messaggio di errore specificato e le dimensioni dell'elemento.
 
 ```csharp
 public BoundsOutOfRangeException(string message, double containerWidth, double containerHeight)
@@ -52,12 +52,14 @@ public BoundsOutOfRangeException(string message, double containerWidth, double c
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
+| messaggio | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
 | containerWidth | Double | La larghezza del contenitore. |
 | containerHeight | Double | L'altezza del contenitore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BoundsOutOfRangeException](../)
+* class [BoundsOutOfRangeException](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

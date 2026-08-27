@@ -1,12 +1,12 @@
 ---
-title: ChatMessage.FromUser
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ChatMessage. Crea un nuovo oggetto ChatMessage che rappresenta un messaggio dell'utente
+title: "ChatMessage.FromUser"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ChatMessage. Crea un nuovo oggetto ChatMessage che rappresenta un messaggio dell'utente"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/chatmessage/fromuser/
 ---
-## Metodo ChatMessage.FromUser
+## ChatMessage.FromUser method
 
 Crea un nuovo oggetto ChatMessage che rappresenta un messaggio dell'utente.
 
@@ -16,14 +16,16 @@ public static ChatMessage FromUser(string content)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| content | String | Il contenuto del messaggio. |
+| contenuto | String | Il contenuto del messaggio. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un nuovo [`ChatMessage`](../) oggetto con il contenuto specificato e il ruolo Utente.
+Un nuovo oggetto [`ChatMessage`](../) con il contenuto specificato e il ruolo User.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ChatMessage](../)
+* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PrinterSettings. Il costruttore predefinito
+title: "PrinterSettings.PrinterSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PrinterSettings costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.printing/printersettings/printersettings/
 ---
-## Costruttore di PrinterSettings
+## PrinterSettings constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public PrinterSettings()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrinterSettings](../)
+* class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

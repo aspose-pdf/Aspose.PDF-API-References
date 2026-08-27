@@ -1,7 +1,7 @@
 ---
-title: ShowText.ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore ShowText. Inizializza l'operatore Tj
+title: "ShowText.ShowText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ShowText. Inizializza l'operatore Tj"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/showtext/showtext/
@@ -17,11 +17,11 @@ public ShowText(int index, string text)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | index | Int32 | Indice dell'operatore nell'elenco degli operatori. |
-| text | String | argomento dell'operatore. |
+| testo | String | argomento dell'operatore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ShowText](../)
+* class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,11 +37,11 @@ public ShowText(string text)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | argomento dell'operatore. |
+| testo | String | argomento dell'operatore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ShowText](../)
+* class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,13 +57,13 @@ public ShowText(string text, Font font)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | testo da aggiungere. |
+| testo | String | testo da aggiungere. |
 | font | Font | font utilizzato per disegnare il testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Font](../../../aspose.pdf.text/font/)
-* classe [ShowText](../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -77,8 +77,10 @@ Inizializza l'operatore Tj.
 public ShowText()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ShowText](../)
+* class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

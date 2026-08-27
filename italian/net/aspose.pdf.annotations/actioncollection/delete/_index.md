@@ -1,7 +1,7 @@
 ---
-title: ActionCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ActionCollection. Rimuove l'azione dalla collezione per indice
+title: "ActionCollection.Delete"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ActionCollection. Rimuove l'azione dalla collezione per indice"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.annotations/actioncollection/delete/
@@ -18,9 +18,9 @@ public void Delete(int index)
 | --- | --- | --- |
 | index | Int32 | Indice dell'azione da rimuovere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ActionCollection](../)
+* class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,8 +34,10 @@ Elimina tutte le azioni.
 public void Delete()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ActionCollection](../)
+* class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

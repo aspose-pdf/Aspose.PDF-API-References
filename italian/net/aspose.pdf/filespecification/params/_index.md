@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.Params
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileSpecification. Ottiene i parametri del file
+title: "FileSpecification.Params"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FileSpecification. Ottiene i parametri del file"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/filespecification/params/
 ---
-## Proprietà FileSpecification.Params
+## FileSpecification.Params property
 
 Ottiene i parametri del file.
 
@@ -14,9 +14,11 @@ Ottiene i parametri del file.
 public FileParams Params { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileParams](../../fileparams/)
-* classe [FileSpecification](../)
+* class [FileParams](../../fileparams/)
+* class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

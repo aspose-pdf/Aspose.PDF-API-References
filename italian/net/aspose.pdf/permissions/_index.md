@@ -1,14 +1,14 @@
 ---
-title: Enum Permissions
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Permissions. Questo enum rappresenta i permessi degli utenti per un pdf
+title: "Enum Permissions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Permissions. Questo enum rappresenta i permessi degli utenti per un pdf"
 type: docs
-weight: 8480
+weight: 8610
 url: /it/net/aspose.pdf/permissions/
 ---
-## Enumerazione dei permessi
+## Permissions enumeration
 
-Questo enum rappresenta i permessi dell'utente per un pdf.
+Questa enumerazione rappresenta i permessi dell'utente per un PDF.
 
 ```csharp
 [Flags]
@@ -19,16 +19,18 @@ public enum Permissions
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| PrintDocument | `4` | (Gestori di sicurezza della revisione 2) Stampa il documento. (Gestori di sicurezza della revisione 3 o superiore) Stampa il documento (possibilmente non al livello di qualità più elevato, a seconda che PrintingQuality sia impostato). |
-| ModifyContent | `8` | Modifica il contenuto del documento tramite operazioni diverse da quelle controllate da ModifyTextAnnotations, FillForm e 11. |
-| ExtractContent | `10` | (Gestori di sicurezza della revisione 2) Copia o estrae in altro modo testo e grafica dal documento, inclusa l'estrazione di testo e grafica (a supporto dell'accessibilità per utenti con disabilità o per altri scopi). (Gestori di sicurezza della revisione 3 o superiore) Copia o estrae in altro modo testo e grafica dal documento tramite operazioni diverse da quelle controllate da ExtractContentWithDisabilities. |
-| ModifyTextAnnotations | `20` | Aggiungi o modifica annotazioni di testo, compila i campi del modulo interattivo e, se ModifyContent è impostato, crea o modifica i campi del modulo interattivo (inclusi i campi di firma). |
-| FillForm | `100` | (Gestori di sicurezza della revisione 3 o superiore) Compila i campi del modulo interattivo esistenti (inclusi i campi di firma), anche se ModifyTextAnnotations è chiaro. |
-| ExtractContentWithDisabilities | `200` | (Gestori di sicurezza della revisione 3 o superiore) Estrai testo e grafica (a supporto dell'accessibilità per utenti con disabilità o per altri scopi). |
-| AssembleDocument | `400` | (Gestori di sicurezza della revisione 3 o superiore) Assembla il documento (inserisci, ruota o elimina pagine e crea segnalibri o immagini in miniatura), anche se ModifyContent è chiaro. |
-| PrintingQuality | `800` | (Gestori di sicurezza della revisione 3 o superiore) Stampa il documento in una rappresentazione dalla quale potrebbe essere generata una copia digitale fedele del contenuto PDF. Quando questo bit è chiaro (e il bit 3 è impostato), la stampa è limitata a una rappresentazione di basso livello dell'aspetto, possibilmente di qualità degradata. |
+| PrintDocument | `4` | (Gestori di sicurezza della revisione 2) Stampa il documento. (Gestori di sicurezza della revisione 3 o successive) Stampa il documento (possibilmente non al livello di qualità più alto, a seconda se PrintingQuality è anche impostato). |
+| ModifyContent | `8` | Modifica il contenuto del documento mediante operazioni diverse da quelle controllate da ModifyTextAnnotations, FillForm e 11. |
+| ExtractContent | `10` | (Gestori di sicurezza della revisione 2) Copia o estrae in altro modo testo e grafica dal documento, includendo l'estrazione di testo e grafica (a supporto dell'accessibilità per utenti con disabilità o per altri scopi). (Gestori di sicurezza della revisione 3 o successive) Copia o estrae in altro modo testo e grafica dal documento mediante operazioni diverse da quelle controllate da ExtractContentWithDisabilities. |
+| ModifyTextAnnotations | `20` | Aggiungi o modifica annotazioni di testo, compila campi di modulo interattivi e, se ModifyContent è anche impostato, crea o modifica campi di modulo interattivi (inclusi i campi firma). |
+| FillForm | `100` | (Gestori di sicurezza della revisione 3 o successive) Compila i campi di modulo interattivi esistenti (inclusi i campi firma), anche se ModifyTextAnnotations non è impostato. |
+| ExtractContentWithDisabilities | `200` | (Gestori di sicurezza della revisione 3 o successive) Estrai testo e grafica (a supporto dell'accessibilità per utenti con disabilità o per altri scopi). |
+| AssembleDocument | `400` | (Gestori di sicurezza della revisione 3 o successive) Assembla il documento (inserisci, ruota o elimina pagine e crea segnalibri o miniature), anche se ModifyContent non è impostato. |
+| PrintingQuality | `800` | (Gestori di sicurezza della revisione 3 o successive) Stampa il documento in una rappresentazione da cui può essere generata una copia digitale fedele del contenuto PDF. Quando questo bit è disattivato (e il bit 3 è impostato), la stampa è limitata a una rappresentazione di basso livello dell'aspetto, possibilmente di qualità degradata. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

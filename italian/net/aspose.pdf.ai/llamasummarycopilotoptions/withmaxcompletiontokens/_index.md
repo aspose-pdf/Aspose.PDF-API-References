@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo LlamaSummaryCopilotOptions. Imposta i token di completamento massimi per le opzioni del copilot di sintesi
+title: "LlamaSummaryCopilotOptions.WithMaxCompletionTokens"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo LlamaSummaryCopilotOptions. Imposta il numero massimo di token di completamento per le opzioni del copilot di riepilogo"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.ai/llamasummarycopilotoptions/withmaxcompletiontokens/
 ---
-## Metodo LlamaSummaryCopilotOptions.WithMaxCompletionTokens
+## LlamaSummaryCopilotOptions.WithMaxCompletionTokens method
 
-Imposta i token di completamento massimi per le opzioni del copilot di sintesi.
+Imposta il numero massimo di token di completamento per le opzioni del copilot di riepilogo.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -24,6 +24,8 @@ L'istanza corrente di [`LlamaSummaryCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

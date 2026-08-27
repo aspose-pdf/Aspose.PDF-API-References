@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.FreeTextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FreeTextAnnotation. Costruttore da utilizzare con Generator
+title: "FreeTextAnnotation.FreeTextAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FreeTextAnnotation. Costruttore da utilizzare con Generator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/freetextannotation/freetextannotation/
 ---
 ## FreeTextAnnotation(Document, DefaultAppearance) {#constructor}
 
-Costruttore da utilizzare con Generator.
+Costruttore da usare con Generator.
 
 ```csharp
 public FreeTextAnnotation(Document document, DefaultAppearance appearance)
@@ -17,13 +17,13 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | document | Document | Documento in cui verrà creata l'annotazione. |
-| appearance | DefaultAppearance | Aspetto predefinito |
+| aspetto | DefaultAppearance | Aspetto predefinito |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [DefaultAppearance](../../defaultappearance/)
-* classe [FreeTextAnnotation](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -31,7 +31,7 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 
 ## FreeTextAnnotation(Page, Rectangle, DefaultAppearance) {#constructor_1}
 
-Crea una nuova annotazione FreeText sulla pagina specificata.
+Crea una nuova annotazione FreeText nella pagina specificata.
 
 ```csharp
 public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearance)
@@ -39,15 +39,17 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina del documento in cui dovrebbe essere creata l'annotazione. |
+| pagina | Page | La pagina del documento in cui l'annotazione dovrebbe essere creata. |
 | rect | Rectangle | Il rettangolo dell'annotazione, che definisce la posizione dell'annotazione sulla pagina. |
-| appearance | DefaultAppearance | L'aspetto predefinito da utilizzare per formattare il testo. |
+| aspetto | DefaultAppearance | L'aspetto predefinito da utilizzare nella formattazione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [DefaultAppearance](../../defaultappearance/)
-* classe [FreeTextAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

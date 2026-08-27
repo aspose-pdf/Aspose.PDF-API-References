@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Scope_Column
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Colonna di ambito dell'attributo
+title: "AttributeName.Scope_Column"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName campo. Attributo Scope Column"
 type: docs
 weight: 530
 url: /it/net/aspose.pdf.logicalstructure/attributename/scope_column/
 ---
-## Campo AttributeName.Scope_Column
+## AttributeName.Scope_Column field
 
-Ambito dell'attributo: Colonna.
+Attributo Scope: Column.
 
 ```csharp
 public static readonly AttributeName Scope_Column;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

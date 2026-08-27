@@ -1,12 +1,12 @@
 ---
-title: WidgetAnnotation.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà WidgetAnnotation. Ottiene o imposta l'aspetto predefinito del campo
+title: "WidgetAnnotation.DefaultAppearance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà WidgetAnnotation. Ottiene o imposta l'aspetto predefinito del campo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/widgetannotation/defaultappearance/
 ---
-## Proprietà WidgetAnnotation.DefaultAppearance
+## WidgetAnnotation.DefaultAppearance property
 
 Ottiene o imposta l'aspetto predefinito del campo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'aspetto predefinito del campo.
 public DefaultAppearance DefaultAppearance { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DefaultAppearance](../../defaultappearance/)
-* classe [WidgetAnnotation](../)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

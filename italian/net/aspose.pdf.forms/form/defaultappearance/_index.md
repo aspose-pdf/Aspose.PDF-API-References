@@ -1,12 +1,12 @@
 ---
-title: Form.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del modulo. Ottiene o imposta l'aspetto predefinito dell'oggetto modulo che descrive la dimensione e il colore del testo del carattere predefiniti per i campi del modulo
+title: "Form.DefaultAppearance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Form. Ottiene o imposta l'aspetto predefinito dell'oggetto modulo che descrive la dimensione del testo e il colore del carattere predefiniti per i campi del modulo."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.forms/form/defaultappearance/
 ---
-## Proprietà Form.DefaultAppearance
+## Form.DefaultAppearance property
 
 Ottiene o imposta l'aspetto predefinito del modulo (oggetto che descrive il carattere predefinito, la dimensione del testo e il colore per i campi del modulo).
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'aspetto predefinito del modulo (oggetto che descrive il cara
 public DefaultAppearance DefaultAppearance { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
-* classe [Form](../)
+* class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

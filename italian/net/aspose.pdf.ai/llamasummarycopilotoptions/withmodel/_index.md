@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo LlamaSummaryCopilotOptions. Imposta il modello per le opzioni del copilot di sintesi
+title: "LlamaSummaryCopilotOptions.WithModel"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo LlamaSummaryCopilotOptions. Imposta il modello per le opzioni del copilot di riepilogo"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.ai/llamasummarycopilotoptions/withmodel/
 ---
-## Metodo LlamaSummaryCopilotOptions.WithModel
+## LlamaSummaryCopilotOptions.WithModel method
 
-Imposta il modello per le opzioni del copilot di sintesi.
+Imposta il modello per le opzioni del copilot di riepilogo.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithModel(string model)
@@ -16,7 +16,7 @@ public LlamaSummaryCopilotOptions WithModel(string model)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| model | String | Il modello da impostare. |
+| modello | String | Il modello da impostare. |
 
 ### Valore di ritorno
 
@@ -24,6 +24,8 @@ L'istanza corrente di [`LlamaSummaryCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

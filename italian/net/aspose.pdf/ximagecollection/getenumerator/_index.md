@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XImageCollection. Restituisce l'enumeratore della collezione
+title: "XImageCollection.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XImageCollection. Restituisce l'enumeratore della collezione"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/ximagecollection/getenumerator/
 ---
-## Metodo XImageCollection.GetEnumerator
+## XImageCollection.GetEnumerator method
 
 Restituisce l'enumeratore della collezione.
 
@@ -14,13 +14,15 @@ Restituisce l'enumeratore della collezione.
 public IEnumerator<XImage> GetEnumerator()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Enumeratore della collezione
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImage](../../ximage/)
-* classe [XImageCollection](../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

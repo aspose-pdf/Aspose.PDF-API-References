@@ -1,12 +1,12 @@
 ---
-title: TextStamp.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextStamp. Definisce la giustificazione del testo. Se questa proprietà è impostata su true, entrambi i bordi sinistro e destro del testo sono allineati. Valore predefinito false
+title: "TextStamp.Justify"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextStamp. Definisce l'allineamento del testo. Se questa proprietà è impostata su true, entrambi i bordi sinistro e destro del testo sono allineati. Valore predefinito false"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/textstamp/justify/
 ---
-## Proprietà TextStamp.Justify
+## TextStamp.Justify property
 
 Definisce la giustificazione del testo. Se questa proprietà è impostata su true, entrambi i bordi sinistro e destro del testo sono allineati. Valore predefinito: false.
 
@@ -14,8 +14,10 @@ Definisce la giustificazione del testo. Se questa proprietà è impostata su tru
 public bool Justify { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

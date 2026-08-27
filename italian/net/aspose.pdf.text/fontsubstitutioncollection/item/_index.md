@@ -1,14 +1,14 @@
 ---
-title: FontSubstitutionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FontSubstitutionCollection. Ottiene l'elemento font all'indice specificato
+title: "FontSubstitutionCollection.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FontSubstitutionCollection proprietà. Ottiene l'elemento Font all'indice specificato"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/fontsubstitutioncollection/item/
 ---
-## Indicizzatore FontSubstitutionCollection
+## FontSubstitutionCollection indexer
 
-Ottiene l'elemento font all'indice specificato.
+Restituisce l'elemento del carattere all'indice specificato.
 
 ```csharp
 public FontSubstitution this[int index] { get; }
@@ -18,13 +18,15 @@ public FontSubstitution this[int index] { get; }
 | --- | --- |
 | index | Indice all'interno della collezione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto FontSubstitution.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontSubstitution](../../fontsubstitution/)
-* classe [FontSubstitutionCollection](../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

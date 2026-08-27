@@ -1,7 +1,7 @@
 ---
-title: TeXFragment.TeXFragment
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFragment constructor. Initializes a new instance of the HtmlFragment class
+title: "TeXFragment.TeXFragment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TeXFragment. Inizializza una nuova istanza della classe HtmlFragment"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/texfragment/texfragment/
@@ -16,11 +16,11 @@ public TeXFragment(string text)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Il testo del frammento |
+| testo | String | Il testo del frammento |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TeXFragment](../)
+* class [TeXFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,11 +36,13 @@ public TeXFragment(string text, bool removeIndents)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Il testo del frammento |
-| removeIndents | Boolean | Determina se non fare rientri durante la composizione del frammento LaTeX |
+| testo | String | Il testo del frammento |
+| removeIndents | Boolean | Determina se non creare rientri durante l'impaginazione del frammento LaTeX |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TeXFragment](../)
+* class [TeXFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

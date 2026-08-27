@@ -1,12 +1,12 @@
 ---
-title: Rectangle.ContainsLine
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Rectangle. Determina se il rettangolo contiene una linea rappresentata da due punti
+title: "Rectangle.ContainsLine"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Rectangle. Determina se il rettangolo contiene una linea rappresentata da due punti"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf/rectangle/containsline/
 ---
-## Metodo Rectangle.ContainsLine
+## Rectangle.ContainsLine method
 
 Determina se il rettangolo contiene una linea rappresentata da due punti.
 
@@ -27,6 +27,8 @@ public bool ContainsLine(double x1, double y1, double x2, double y2)
 
 ### Vedi anche
 
-* classe [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsDateTime
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpValue. Restituisce true se il valore è DateTime
+title: "XmpValue.IsDateTime"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XmpValue. Restituisce true se il valore è DateTime"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/xmpvalue/isdatetime/
 ---
-## Proprietà XmpValue.IsDateTime
+## XmpValue.IsDateTime property
 
 Restituisce true se il valore è DateTime.
 
@@ -14,8 +14,10 @@ Restituisce true se il valore è DateTime.
 public bool IsDateTime { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

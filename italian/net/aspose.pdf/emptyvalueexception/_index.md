@@ -1,12 +1,12 @@
 ---
-title: Class EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.EmptyValueException. Eccezione sollevata quando il valore richiesto non esiste
+title: "Classe EmptyValueException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.EmptyValueException classe. Eccezione che viene lanciata quando il valore richiesto non esiste"
 type: docs
-weight: 4030
+weight: 4150
 url: /it/net/aspose.pdf/emptyvalueexception/
 ---
-## Classe EmptyValueException
+## EmptyValueException class
 
 Eccezione sollevata quando il valore richiesto non esiste.
 
@@ -21,8 +21,10 @@ public class EmptyValueException : PdfException
 | [EmptyValueException](emptyvalueexception/#constructor)() | Inizializza una nuova istanza della classe `EmptyValueException`. |
 | [EmptyValueException](emptyvalueexception/#constructor_1)(string) | Costruttore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

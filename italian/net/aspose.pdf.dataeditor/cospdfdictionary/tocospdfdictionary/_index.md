@@ -1,25 +1,27 @@
 ---
-title: CosPdfDictionary.ToCosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CosPdfDictionary. Tenta di convertire questa istanza in CosPdfDictionary
+title: "CosPdfDictionary.ToCosPdfDictionary"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CosPdfDictionary. Prova a eseguire il cast di questa istanza a CosPdfDictionary"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.dataeditor/cospdfdictionary/tocospdfdictionary/
 ---
-## Metodo CosPdfDictionary.ToCosPdfDictionary
+## CosPdfDictionary.ToCosPdfDictionary method
 
-Tenta di convertire questa istanza in [`CosPdfDictionary`](../).
+Prova a eseguire il cast di questa istanza a [`CosPdfDictionary`](../).
 
 ```csharp
 public override CosPdfDictionary ToCosPdfDictionary()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 null se l'istanza non è [`CosPdfDictionary`](../) altrimenti [`CosPdfDictionary`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfDictionary](../)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

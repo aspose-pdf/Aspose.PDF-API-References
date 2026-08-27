@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Clona la casella di controllo.
+title: "CheckboxField.Clone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CheckboxField. Clona la casella di controllo"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.forms/checkboxfield/clone/
 ---
-## Metodo CheckboxField.Clone
+## CheckboxField.Clone method
 
 Clona la casella di controllo.
 
@@ -14,12 +14,14 @@ Clona la casella di controllo.
 public override object Clone()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'oggetto clonato
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CheckboxField](../)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

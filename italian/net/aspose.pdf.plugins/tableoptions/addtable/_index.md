@@ -1,12 +1,12 @@
 ---
-title: TableOptions.AddTable
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TableOptions. Aggiunta di una tabella al documento
+title: "TableOptions.AddTable"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TableOptions. Aggiunta della tabella al documento"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.plugins/tableoptions/addtable/
 ---
-## Metodo TableOptions.AddTable
+## TableOptions.AddTable method
 
 Aggiunta di una tabella al documento.
 
@@ -20,7 +20,9 @@ Nuova istanza di [`TableBuilder`](../../tablebuilder/).
 
 ### Vedi anche
 
-* classe [TableBuilder](../../tablebuilder/)
-* classe [TableOptions](../)
+* class [TableBuilder](../../tablebuilder/)
+* class [TableOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

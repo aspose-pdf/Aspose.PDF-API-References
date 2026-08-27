@@ -1,12 +1,12 @@
 ---
-title: Stamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Stamp. Altezza desiderata del timbro sulla pagina
+title: "Stamp.Height"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di Stamp. Altezza desiderata del timbro sulla pagina"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/stamp/height/
 ---
-## Proprietà Stamp.Height
+## Stamp.Height property
 
 Altezza desiderata del timbro sulla pagina.
 
@@ -14,8 +14,10 @@ Altezza desiderata del timbro sulla pagina.
 public virtual double Height { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

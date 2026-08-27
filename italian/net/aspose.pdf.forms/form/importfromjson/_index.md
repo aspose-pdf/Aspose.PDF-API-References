@@ -1,9 +1,9 @@
 ---
-title: Form.ImportFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: Importa i campi del form PDF dal formato JSON forniti nel flusso.
+title: "Form.ImportFromJson"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Importa i campi del modulo PDF dal formato JSON fornito nello stream"
 type: docs
-weight: 290
+weight: 310
 url: /it/net/aspose.pdf.forms/form/importfromjson/
 ---
 ## ImportFromJson(Stream) {#importfromjson}
@@ -18,7 +18,7 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Lo stream da cui leggere l'input JSON. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Una collezione di [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) che indica il risultato dell'operazione di importazione per ciascun campo del modulo.
 
@@ -32,10 +32,10 @@ fs.Close();
 document.Save();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* classe [Form](../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,7 +53,7 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
 | --- | --- | --- |
 | fileName | String | Il nome del file da cui leggere l'input JSON. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Una collezione di [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) che indica il risultato dell'operazione di importazione per ciascun campo del modulo.
 
@@ -66,9 +66,11 @@ document.Form.ImportFormFieldsFromJson(jsonPath);
 document.Save();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* classe [Form](../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

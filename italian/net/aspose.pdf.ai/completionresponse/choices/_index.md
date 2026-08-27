@@ -1,22 +1,24 @@
 ---
-title: CompletionResponse.Choices
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CompletionResponse. Ottiene o imposta un elenco di scelte di completamento della chat. Può essere più di uno se n è maggiore di 1
+title: "CompletionResponse.Choices"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CompletionResponse. Ottiene o imposta un elenco di scelte di completamento della chat. Può essere più di una se n è maggiore di 1"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/completionresponse/choices/
 ---
-## Proprietà CompletionResponse.Choices
+## CompletionResponse.Choices property
 
-Ottiene o imposta un elenco di scelte di completamento della chat. Può essere più di uno se n è maggiore di 1.
+Ottiene o imposta un elenco di scelte di completamento della chat. Può essere più di una se n è maggiore di 1.
 
 ```csharp
 public List<Choice> Choices { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Choice](../../choice/)
-* classe [CompletionResponse](../)
+* class [Choice](../../choice/)
+* class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

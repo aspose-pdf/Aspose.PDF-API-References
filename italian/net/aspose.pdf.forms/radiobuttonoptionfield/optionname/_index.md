@@ -1,12 +1,12 @@
 ---
-title: RadioButtonOptionField.OptionName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RadioButtonOptionField. Ottiene o imposta il nome dell'opzione
+title: "RadioButtonOptionField.OptionName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RadioButtonOptionField. Ottiene o imposta il nome dell'opzione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.forms/radiobuttonoptionfield/optionname/
 ---
-## Proprietà RadioButtonOptionField.OptionName
+## RadioButtonOptionField.OptionName property
 
 Ottiene o imposta il nome dell'opzione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il nome dell'opzione.
 public string OptionName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RadioButtonOptionField](../)
+* class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

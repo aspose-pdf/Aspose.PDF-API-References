@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfXmpMetadata. Ottiene o imposta il valore per chiave
+title: "PdfXmpMetadata.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfXmpMetadata. Ottiene o imposta il valore per chiave"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.facades/pdfxmpmetadata/item/
 ---
-## Indicizzatore PdfXmpMetadata (1 di 2)
+## PdfXmpMetadata indexer (1 of 2)
 
 Ottiene o imposta il valore per chiave.
 
@@ -16,7 +16,7 @@ public XmpValue this[string key] { get; set; }
 
 | Parametro | Descrizione |
 | --- | --- |
-| key | Il nome della chiave da ottenere/impostare. |
+| chiave | Il nome della chiave da ottenere/impostare. |
 
 ### Valore di ritorno
 
@@ -30,16 +30,16 @@ pxm.BindPdf("PdfFile.pdf");
 Console.WriteLine(pxm["xmp:Nickname"]);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../../../aspose.pdf/xmpvalue/)
-* classe [PdfXmpMetadata](../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Indicizzatore PdfXmpMetadata (2 di 2)
+## PdfXmpMetadata indexer (2 of 2)
 
 Ottiene il valore dei metadati XMP per chiave.
 
@@ -49,7 +49,7 @@ public XmpValue this[DefaultMetadataProperties key] { get; set; }
 
 | Parametro | Descrizione |
 | --- | --- |
-| key | Chiave del valore. |
+| chiave | Chiave del valore. |
 
 ### Valore di ritorno
 
@@ -63,10 +63,12 @@ pxm.BindPdf("PdfFile.pdf");
 Console.WriteLine(pxm[DefaultMetadataProperties.CreatorTool]);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* classe [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

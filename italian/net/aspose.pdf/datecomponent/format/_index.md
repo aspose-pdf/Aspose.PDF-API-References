@@ -1,21 +1,23 @@
 ---
-title: DateComponent.Format
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DateComponent. Ottiene o imposta il formato per il componente data
+title: "DateComponent.Format"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DateComponent. Ottiene o imposta il formato per il componente data"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/datecomponent/format/
 ---
-## Proprietà DateComponent.Format
+## DateComponent.Format property
 
-Ottiene o imposta il formato per il componente data.
+Ottiene o imposta il formato per la componente data.
 
 ```csharp
 public int Format { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DateComponent](../)
+* class [DateComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

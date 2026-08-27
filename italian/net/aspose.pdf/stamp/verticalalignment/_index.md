@@ -1,12 +1,12 @@
 ---
-title: Stamp.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Stamp. Ottiene o imposta l'allineamento verticale del timbro sulla pagina
+title: "Stamp.VerticalAlignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Stamp. Ottiene o imposta l'allineamento verticale del timbro sulla pagina"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/stamp/verticalalignment/
 ---
-## Proprietà Stamp.VerticalAlignment
+## Stamp.VerticalAlignment property
 
 Ottiene o imposta l'allineamento verticale del timbro sulla pagina.
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'allineamento verticale del timbro sulla pagina.
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [VerticalAlignment](../../verticalalignment/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

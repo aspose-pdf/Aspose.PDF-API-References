@@ -1,12 +1,12 @@
 ---
-title: CompletionFunction.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CompletionFunction. Ottiene o imposta il nome della funzione da chiamare
+title: "CompletionFunction.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CompletionFunction proprietà. Ottiene o imposta il nome della funzione da chiamare."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/completionfunction/name/
 ---
-## Proprietà CompletionFunction.Name
+## CompletionFunction.Name property
 
 Ottiene o imposta il nome della funzione da chiamare.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il nome della funzione da chiamare.
 public string Name { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CompletionFunction](../)
+* class [CompletionFunction](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

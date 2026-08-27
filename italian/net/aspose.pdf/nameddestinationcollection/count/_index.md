@@ -1,12 +1,12 @@
 ---
-title: NamedDestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestinationCollection property. Count of named destinations
+title: "NamedDestinationCollection.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà NamedDestinationCollection. Conteggio delle destinazioni nominate"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/nameddestinationcollection/count/
 ---
-## Proprietà NamedDestinationCollection.Count
+## NamedDestinationCollection.Count property
 
 Conteggio delle destinazioni nominate.
 
@@ -14,8 +14,10 @@ Conteggio delle destinazioni nominate.
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [NamedDestinationCollection](../)
+* class [NamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

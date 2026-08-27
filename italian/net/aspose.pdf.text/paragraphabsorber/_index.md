@@ -1,14 +1,14 @@
 ---
-title: Class ParagraphAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.ParagraphAbsorber. Rappresenta un oggetto assorbitore di oggetti di struttura della pagina come sezioni e paragrafi. Esegue la ricerca di sezioni e paragrafi di testo e fornisce accesso a rettangoli e poligoni che lo descrivono nello spazio delle coordinate del testo. Esegue anche la ricerca di segmenti di testo e fornisce accesso ai risultati della ricerca tramite collezioni di TextFragments raggruppate per elementi di struttura.
+title: "Class ParagraphAbsorber"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.ParagraphAbsorber class. Rappresenta un oggetto assorbitore di oggetti della struttura della pagina come sezioni e paragrafi. Esegue la ricerca di sezioni e paragrafi di testo e fornisce l'accesso a rettangoli e polydons che li descrivono nello spazio delle coordinate del testo. Esegue anche la ricerca di segmenti di testo e fornisce l'accesso ai risultati della ricerca tramite collezioni di TextFragments raggruppate per elementi di struttura."
 type: docs
-weight: 10670
+weight: 10850
 url: /it/net/aspose.pdf.text/paragraphabsorber/
 ---
-## Classe ParagraphAbsorber
+## ParagraphAbsorber class
 
-Rappresenta un oggetto assorbitore di oggetti di struttura della pagina come sezioni e paragrafi. Esegue la ricerca di sezioni e paragrafi di testo e fornisce accesso a rettangoli e poligoni che lo descrivono nello spazio delle coordinate del testo. Esegue anche la ricerca di segmenti di testo e fornisce accesso ai risultati della ricerca tramite collezioni di !:TextFragments raggruppate per elementi di struttura.
+Rappresenta un oggetto assorbitore di oggetti della struttura della pagina come sezioni e paragrafi. Esegue la ricerca di sezioni e paragrafi di testo e fornisce l'accesso a rettangoli e poligoni che li descrivono nello spazio delle coordinate del testo. Esegue anche la ricerca di segmenti di testo e fornisce l'accesso ai risultati della ricerca tramite le collezioni !:TextFragments raggruppate per elementi di struttura.
 
 ```csharp
 public class ParagraphAbsorber
@@ -27,56 +27,58 @@ public class ParagraphAbsorber
 
 | Nome | Descrizione |
 | --- | --- |
-| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed/) { get; set; } | Ottiene o imposta il valore che indica se le righe di testo iniziali di una sezione successiva possono essere trattate come continuazione dell'ultimo paragrafo di una sezione precedente. |
+| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed/) { get; set; } | Ottiene o imposta il valore che indica se le linee di testo iniziali della sezione successiva possono essere trattate come continuazione dell'ultimo paragrafo della sezione precedente. |
 | [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups/) { get; } | Ottiene la collezione di [`PageMarkup`](../pagemarkup/) che sono stati assorbiti. |
-| [ParagraphAbsorberOptions](../../aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/) { get; set; } | Ottiene o imposta le opzioni di ParagraphAbsorber. |
-| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth/) { get; set; } | Ottiene o imposta il valore che istruisce su quante volte verranno eseguite ricerche sequenziali per elementi di struttura più dettagliati. La profondità di ricerca predefinita è 3. Ciò significa tre ricerche per sezioni divise orizzontalmente (intestazioni, paragrafi, ecc.) e tre ricerche per quelle divise verticalmente (colonne). |
-| [TextReplaceOptions](../../aspose.pdf.text/paragraphabsorber/textreplaceoptions/) { get; set; } | Ottiene o imposta le opzioni di TextReplace. |
+| [ParagraphAbsorberOptions](../../aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/) { get; set; } | Ottiene o imposta le ParagraphAbsorberOptions. |
+| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth/) { get; set; } | Ottiene o imposta il valore che indica quante volte verranno eseguite ricerche sequenziali per elementi più fini della struttura. La profondità di ricerca predefinita è 3. Significa tre ricerche per sezioni divise orizzontalmente (intestazioni, paragrafi ecc.) e tre ricerche per quelle divise verticalmente (colonne). |
+| [TextReplaceOptions](../../aspose.pdf.text/paragraphabsorber/textreplaceoptions/) { get; set; } | Ottiene o imposta le TextReplaceOptions. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit/#visit)(Document) | Esegue la ricerca di sezioni e paragrafi nel [`Document`](../../aspose.pdf/document/) specificato. |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit/#visit_1)(Page) | Esegue la ricerca nella [`Page`](../../aspose.pdf/page/) specificata. |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit/#visit)(Document) | Esegue la ricerca di sezioni e paragrafi sul [`Document`](../../aspose.pdf/document/) specificato. |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit/#visit_1)(Page) | Esegue la ricerca sulla [`Page`](../../aspose.pdf/page/) specificata. |
 
 ## Osservazioni
 
-Quando la ricerca è completata, la collezione [`PageMarkups`](./pagemarkups/) conterrà oggetti [`PageMarkup`](../pagemarkup/) che rappresentano la struttura della pagina tramite collezioni di [`MarkupSection`](../markupsection/) e [`MarkupParagraph`](../markupparagraph/). L'oggetto [`TextFragment`](../textfragment/) fornisce accesso al testo dell'occorrenza della ricerca, alle proprietà del testo e consente di modificare il testo e cambiare lo stato del testo (font, dimensione del font, colore, ecc.).
+Quando la ricerca è completata, la collezione [`PageMarkups`](./pagemarkups/) conterrà oggetti [`PageMarkup`](../pagemarkup/) che rappresentano la struttura della pagina tramite collezioni di [`MarkupSection`](../markupsection/) e [`MarkupParagraph`](../markupparagraph/). L'oggetto [`TextFragment`](../textfragment/) fornisce l'accesso al testo dell'occorrenza trovata, alle proprietà del testo e consente di modificare il testo e cambiare lo stato del testo (font, dimensione del font, colore ecc.).
 
 ## Esempi
 
-L'esempio dimostra come trovare il primo segmento di testo di ciascun paragrafo nella prima pagina del documento PDF e metterlo in evidenza.
+L'esempio dimostra come trovare il primo segmento di testo di ogni paragrafo nella prima pagina del documento PDF e evidenziarlo.
 
 ```csharp
-// Open document
+// Apri documento
 Document doc = new Document("input.pdf");
 
-// Create ParagraphAbsorber object
+// Crea oggetto ParagraphAbsorber
 ParagraphAbsorber absorber = new ParagraphAbsorber();
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 absorber.Visit(doc.Pages[1]);
 
-// Get markup object of first page
+// Ottieni l'oggetto markup della prima pagina
 PageMarkup markup = absorber.PageMarkups[0];
 
-// Loop through structure elements of the page text to find first text fragment of each paragraph
+// Scorri gli elementi strutturali del testo della pagina per trovare il primo frammento di testo di ogni paragrafo
 foreach (MarkupSection section in markup.Sections)
 {
     foreach (MarkupParagraph paragraph in section.Paragraphs)
     {
         TextFragment fragment = paragraph.Fragments[0];
-        // Update text properties
+        // Aggiorna le proprietà del testo
         fragment.TextState.BackgroundColor = Color.LightBlue;
     }
 }
 
-// Save document
+// Salva documento
 doc.Save(GetOutputPath("output.pdf"));
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

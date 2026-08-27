@@ -1,14 +1,14 @@
 ---
-title: FormOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormOptions. Aggiunge una nuova fonte di dati alla raccolta di dati dei plugin del Form...
+title: "FormOptions.AddOutput"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormOptions metodo. Aggiunge una nuova origine dati alla raccolta dati dei plugin Form..."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.plugins/formoptions/addoutput/
 ---
-## Metodo FormOptions.AddOutput
+## FormOptions.AddOutput method
 
-Aggiunge una nuova fonte di dati alla raccolta di dati dei plugin del Form...
+Aggiunge una nuova origine dati alla raccolta dati dei plugin Form...
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
@@ -16,7 +16,7 @@ public void AddOutput(IDataSource saveDataSource)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| saveDataSource | IDataSource | Fonte di dati (file o stream) per i risultati dell'operazione di salvataggio. |
+| saveDataSource | IDataSource | Origine dati (file o flusso) per i risultati dell'operazione di salvataggio. |
 
 ### Eccezioni
 
@@ -24,9 +24,11 @@ public void AddOutput(IDataSource saveDataSource)
 | --- | --- |
 | NotImplementedException |  |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../../idatasource/)
-* classe [FormOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [FormOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

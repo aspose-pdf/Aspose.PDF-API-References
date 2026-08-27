@@ -1,21 +1,23 @@
 ---
-title: VectorStoreFileResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di VectorStoreFileResponse. Ottiene o imposta il timestamp Unix in secondi per quando è stato creato il file del negozio vettoriale
+title: "VectorStoreFileResponse.CreatedAt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "VectorStoreFileResponse property. Ottiene o imposta il timestamp Unix in secondi per quando il file del vector store è stato creato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/vectorstorefileresponse/createdat/
 ---
-## Proprietà VectorStoreFileResponse.CreatedAt
+## VectorStoreFileResponse.CreatedAt property
 
-Ottiene o imposta il timestamp Unix (in secondi) per quando è stato creato il file del negozio vettoriale.
+Ottiene o imposta il timestamp Unix (in secondi) per quando il file di vector store è stato creato.
 
 ```csharp
 public long CreatedAt { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorStoreFileResponse](../)
+* class [VectorStoreFileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: FloatingBox.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FloatingBox. Ottiene o imposta l'immagine di sfondo per la pagina
+title: "FloatingBox.BackgroundImage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FloatingBox property. Ottiene o imposta l'immagine di sfondo per la pagina, solo per il generatore, non viene riempita durante la lettura del documento"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/floatingbox/backgroundimage/
 ---
-## Proprietà FloatingBox.BackgroundImage
+## FloatingBox.BackgroundImage property
 
-Ottiene o imposta l'immagine di sfondo per la pagina (solo per il generatore, non compilata durante la lettura del documento).
+Ottiene o imposta l'immagine di sfondo per la pagina (solo per il generatore, non viene popolata durante la lettura del documento).
 
 ```csharp
 public Image BackgroundImage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Image](../../image/)
-* classe [FloatingBox](../)
+* class [Image](../../image/)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

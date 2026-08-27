@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Recupera i dettagli di un batch di file di archiviazione vettoriale specifico in modo asincrono
+title: "OpenAIClient.GetVectorStoreFileBatchAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Recupera i dettagli di un batch di file di archivio vettoriale specifico in modo asincrono"
 type: docs
-weight: 350
+weight: 360
 url: /it/net/aspose.pdf.ai/openaiclient/getvectorstorefilebatchasync/
 ---
-## Metodo OpenAIClient.GetVectorStoreFileBatchAsync
+## OpenAIClient.GetVectorStoreFileBatchAsync method
 
-Recupera i dettagli di un batch di file di archiviazione vettoriale specifico in modo asincrono.
+Recupera i dettagli di un batch di file di archivio vettoriale specifico in modo asincrono.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -21,7 +21,7 @@ public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string ve
 | fileBatchId | String | L'ID del batch di file da recuperare. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene i dettagli del batch di file.
 
@@ -29,12 +29,14 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'archivio vettoriale è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del batch di file dell'archivio vettoriale è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del vector store è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del batch di file dell'archivio vettoriale è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* classe [OpenAIClient](../)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

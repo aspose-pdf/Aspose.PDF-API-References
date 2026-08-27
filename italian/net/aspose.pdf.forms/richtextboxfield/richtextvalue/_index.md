@@ -1,21 +1,23 @@
 ---
-title: RichTextBoxField.RichTextValue
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RichTextBoxField. Ottiene o imposta il valore di testo formattato
+title: "RichTextBoxField.RichTextValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "RichTextBoxField proprietà. Ottiene o imposta il valore di testo ricco"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.forms/richtextboxfield/richtextvalue/
 ---
-## Proprietà RichTextBoxField.RichTextValue
+## RichTextBoxField.RichTextValue property
 
-Ottiene o imposta il valore di testo formattato.
+Ottiene o imposta il valore di testo ricco.
 
 ```csharp
 public string RichTextValue { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RichTextBoxField](../)
+* class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

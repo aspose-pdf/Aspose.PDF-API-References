@@ -1,12 +1,12 @@
 ---
-title: Field.Recalculate
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo dei campi. Ricalcolare tutti i campi calcolati della form.
+title: "Field.Recalculate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo del campo. Ricalcola tutti i campi calcolati nel modulo"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.forms/field/recalculate/
 ---
-## Metodo Field.Recalculate
+## Field.Recalculate method
 
 Ricalcola tutti i campi calcolati nel modulo.
 
@@ -20,6 +20,8 @@ true se il valore del campo è stato modificato durante il ricalcolo.
 
 ### Vedi anche
 
-* classe [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

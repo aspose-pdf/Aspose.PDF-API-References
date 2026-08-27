@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCheck
-second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldFacade. Definisce la forma di un campo di casella di controllo quando è selezionato
+title: "FormFieldFacade.CheckBoxStyleCheck"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo FormFieldFacade. Definisce la forma di un campo casella di controllo quando è selezionato"
 type: docs
 weight: 390
 url: /it/net/aspose.pdf.facades/formfieldfacade/checkboxstylecheck/
 ---
-## Campo FormFieldFacade.CheckBoxStyleCheck
+## FormFieldFacade.CheckBoxStyleCheck field
 
-Definisce la forma di un campo di casella di controllo quando è selezionato.
+Definisce la forma di un campo casella di controllo quando è selezionata.
 
 ```csharp
 public const int CheckBoxStyleCheck;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

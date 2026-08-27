@@ -1,14 +1,14 @@
 ---
-title: Matrix.UnScale
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Matrix. Ridimensiona x1 e y1 e restituisce x e y prima della trasformazione della matrice utilizzando la seguente formula x = D  x1 - C  y1 / A  D - C  B; y = A y1 - B x1 / A D - C B;
+title: "Matrix.UnScale"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Matrix. Riporta indietro x1 e y1 e restituisce x e y prima della trasformazione della matrice usando la seguente formula x  D  x1  C  y1 / A  D  C  B y  A y1  B x1 / A D  C B"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf/matrix/unscale/
 ---
-## Metodo Matrix.UnScale
+## Matrix.UnScale method
 
-Ridimensiona x1 e y1 e restituisce x e y prima della trasformazione della matrice utilizzando la seguente formula: x = (D * x1 - C * y1) / (A * D - C * B); y = (A* y1 - B* x1) / (A* D - C* B);
+Ripristina x1 e y1 e restituisce x e y prima della trasformazione della matrice usando la seguente formula: x = (D * x1 - C * y1) / (A * D - C * B); y = (A * y1 - B * x1) / (A * D - C * B);
 
 ```csharp
 public void UnScale(double x1, double y1, out double x, out double y)
@@ -21,8 +21,10 @@ public void UnScale(double x1, double y1, out double x, out double y)
 | x | Double& | Coordinata X di output |
 | y | Double& | Coordinata Y di output |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

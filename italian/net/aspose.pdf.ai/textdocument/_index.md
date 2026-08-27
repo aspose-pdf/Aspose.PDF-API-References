@@ -1,14 +1,14 @@
 ---
-title: Class TextDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.TextDocument. Rappresenta un documento di testo con un nome e contenuto
+title: "Classe TextDocument"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.TextDocument. Rappresenta un documento di testo con un nome e contenuto"
 type: docs
-weight: 1090
+weight: 1170
 url: /it/net/aspose.pdf.ai/textdocument/
 ---
-## Classe TextDocument
+## TextDocument class
 
-Rappresenta un documento di testo con un nome e contenuto.
+Rappresenta un documento di testo con un nome e un contenuto.
 
 ```csharp
 public class TextDocument
@@ -27,7 +27,9 @@ public class TextDocument
 | [Content](../../aspose.pdf.ai/textdocument/content/) { get; set; } | Ottiene o imposta il contenuto del documento di testo. |
 | [Name](../../aspose.pdf.ai/textdocument/name/) { get; set; } | Ottiene o imposta il nome del documento di testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

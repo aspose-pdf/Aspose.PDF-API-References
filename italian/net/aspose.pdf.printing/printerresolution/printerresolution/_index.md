@@ -1,12 +1,12 @@
 ---
-title: PrinterResolution.PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore PrinterResolution. Inizializza una nuova istanza della classe PrinterResolution con proprietà predefinite
+title: "PrinterResolution.PrinterResolution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PrinterResolution costruttore. Inizializza una nuova istanza della classe PrinterResolution con proprietà predefinite"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.printing/printerresolution/printerresolution/
 ---
-## Costruttore PrinterResolution
+## PrinterResolution constructor
 
 Inizializza una nuova istanza della classe [`PrinterResolution`](../) con proprietà predefinite.
 
@@ -14,8 +14,10 @@ Inizializza una nuova istanza della classe [`PrinterResolution`](../) con propri
 public PrinterResolution()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrinterResolution](../)
+* class [PrinterResolution](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PrinterSettings.PrintToFile
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PrinterSettings. Indica se stampare su un file invece di una porta
+title: "PrinterSettings.PrintToFile"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PrinterSettings. Indica se stampare su un file invece che su una porta."
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.printing/printersettings/printtofile/
 ---
-## Proprietà PrinterSettings.PrintToFile
+## PrinterSettings.PrintToFile property
 
-Indica se stampare su un file invece di una porta.
+Indica se stampare su un file invece che su una porta.
 
 ```csharp
 public bool PrintToFile { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrinterSettings](../)
+* class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

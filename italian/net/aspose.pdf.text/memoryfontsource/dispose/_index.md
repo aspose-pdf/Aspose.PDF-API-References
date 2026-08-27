@@ -1,21 +1,23 @@
 ---
-title: MemoryFontSource.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: MemoryFontSource method. Releases internal resources
+title: "MemoryFontSource.Dispose"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo MemoryFontSource. Rilascia le risorse interne"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/memoryfontsource/dispose/
 ---
-## Metodo MemoryFontSource.Dispose
+## MemoryFontSource.Dispose method
 
-Rilascia risorse interne.
+Rilascia le risorse interne.
 
 ```csharp
 public void Dispose()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MemoryFontSource](../)
+* class [MemoryFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

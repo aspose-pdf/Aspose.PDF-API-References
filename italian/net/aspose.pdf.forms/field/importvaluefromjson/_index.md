@@ -1,14 +1,14 @@
 ---
-title: Field.ImportValueFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo del campo. Importa dati nei campi specificati da un flusso JSON basato su una corrispondenza esatta dei nomi completi dei campi
+title: "Field.ImportValueFromJson"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Field. Importa dati nei campi specificati da un flusso JSON basandosi su una corrispondenza esatta dei nomi completi dei campi."
 type: docs
 weight: 210
 url: /it/net/aspose.pdf.forms/field/importvaluefromjson/
 ---
 ## ImportValueFromJson(Stream) {#importvaluefromjson}
 
-Importa dati nei campi specificati da un flusso JSON, basato su una corrispondenza esatta dei nomi completi dei campi.
+Importa i dati nei campi specificati da uno stream JSON, basandosi su una corrispondenza esatta dei nomi completi dei campi.
 
 ```csharp
 public bool ImportValueFromJson(Stream inputJsonStream)
@@ -20,7 +20,7 @@ public bool ImportValueFromJson(Stream inputJsonStream)
 
 ### Valore di ritorno
 
-Vero se il campo è stato trovato nel flusso JSON; altrimenti - falso
+Vero se il campo è stato trovato nel flusso JSON; altrimenti - falso.
 
 ## Esempi
 
@@ -33,9 +33,9 @@ fs.Close();
 document.Save();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -43,7 +43,7 @@ document.Save();
 
 ## ImportValueFromJson(Stream, string) {#importvaluefromjson_1}
 
-Importa dati nel campo specificato da un flusso JSON, utilizzando il nome completo specificato nella variabile 'fieldFullNameInJSON' per la corrispondenza.
+Importa i dati nel campo specificato da uno stream JSON, utilizzando il nome completo specificato nella variabile 'fieldFullNameInJSON' per il confronto.
 
 ```csharp
 public bool ImportValueFromJson(Stream inputJsonStream, string fieldFullNameInJSON)
@@ -52,11 +52,11 @@ public bool ImportValueFromJson(Stream inputJsonStream, string fieldFullNameInJS
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | inputJsonStream | Stream | Il flusso JSON di input contenente i dati del campo da importare nel campo. |
-| fieldFullNameInJSON | String | Il nome dei dati all'interno del flusso JSON per la corrispondenza. Se i dati all'interno del flusso JSON hanno una struttura annidata, il nome completo deve essere specificato con tutti gli elementi genitori e figli separati da '.' |
+| fieldFullNameInJSON | String | Il nome dei dati nel flusso JSON da confrontare. Se i dati nel flusso JSON hanno una struttura annidata, il nome completo deve essere specificato con tutti gli elementi padre e figlio separati da '.'. |
 
 ### Valore di ritorno
 
-Vero se il campo è stato trovato nel file json; altrimenti - falso
+Vero se il campo è stato trovato nel file json; altrimenti - falso.
 
 ## Esempi
 
@@ -69,8 +69,10 @@ fs.Close();
 document.Save();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

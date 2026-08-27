@@ -1,12 +1,12 @@
 ---
-title: MobiXmlSaveOptions.MobiXmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di MobiXmlSaveOptions. Il costruttore predefinito
+title: "MobiXmlSaveOptions.MobiXmlSaveOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di MobiXmlSaveOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/mobixmlsaveoptions/mobixmlsaveoptions/
 ---
-## Costruttore di MobiXmlSaveOptions
+## MobiXmlSaveOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public MobiXmlSaveOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MobiXmlSaveOptions](../)
+* class [MobiXmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

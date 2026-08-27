@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo LlamaSummaryCopilotOptions. Imposta le istruzioni per le opzioni del copilot di riepilogo
+title: "LlamaSummaryCopilotOptions.WithInstructions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo LlamaSummaryCopilotOptions. Imposta le istruzioni per le opzioni del copilot di riepilogo"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.ai/llamasummarycopilotoptions/withinstructions/
 ---
-## Metodo LlamaSummaryCopilotOptions.WithInstructions
+## LlamaSummaryCopilotOptions.WithInstructions method
 
 Imposta le istruzioni per le opzioni del copilot di riepilogo.
 
@@ -24,6 +24,8 @@ L'istanza corrente di [`LlamaSummaryCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

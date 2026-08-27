@@ -1,14 +1,14 @@
 ---
-title: Class TabStop
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.TabStop. Rappresenta una posizione di tabulazione personalizzata in un paragrafo
+title: "Classe TabStop"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.TabStop class. Rappresenta una posizione di tabulazione personalizzata in un paragrafo."
 type: docs
-weight: 10770
+weight: 10950
 url: /it/net/aspose.pdf.text/tabstop/
 ---
-## Classe TabStop
+## TabStop class
 
-Rappresenta una posizione di tabulazione personalizzata in un paragrafo.
+Rappresenta una posizione di Tab personalizzata in un paragrafo.
 
 ```csharp
 public class TabStop
@@ -19,18 +19,20 @@ public class TabStop
 | Nome | Descrizione |
 | --- | --- |
 | [TabStop](tabstop/#constructor)() | Inizializza una nuova istanza della classe `TabStop`. |
-| [TabStop](tabstop/#constructor_1)(float) | Inizializza una nuova istanza della classe `TabStop` con posizione specificata. |
+| [TabStop](tabstop/#constructor_1)(float) | Inizializza una nuova istanza della classe `TabStop` con la posizione specificata. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
 | [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype/) { get; set; } | Ottiene o imposta un enum [`AlignmentType`](./alignmenttype/) che indica il tipo di allineamento della tabulazione. |
-| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | Ottiene un valore che indica che questa istanza di `TabStop` è già attaccata a [`TextFragment`](../textfragment/) ed è diventata di sola lettura. |
+| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | Restituisce il valore che indica che questa istanza `TabStop` è già collegata a [`TextFragment`](../textfragment/) ed è diventata readonly. |
 | [LeaderType](../../aspose.pdf.text/tabstop/leadertype/) { get; set; } | Ottiene o imposta un enum [`TabLeaderType`](../tableadertype/) che indica il tipo di leader della tabulazione. |
-| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | Ottiene o imposta un valore float che indica la posizione della tabulazione. |
+| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | Ottiene o imposta un valore float che indica la posizione del tabulatore. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

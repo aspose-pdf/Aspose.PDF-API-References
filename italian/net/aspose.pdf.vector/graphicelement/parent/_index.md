@@ -1,12 +1,12 @@
 ---
-title: GraphicElement.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GraphicElement. Ottiene l'attuale XFormPlacement in cui si trova l'elemento
+title: "GraphicElement.Parent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "GraphicElement property. Ottiene l'attuale XFormPlacement in cui si trova l'elemento"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.vector/graphicelement/parent/
 ---
-## Proprietà GraphicElement.Parent
+## GraphicElement.Parent property
 
 Ottiene l'attuale [`XFormPlacement`](../../xformplacement/) in cui si trova l'elemento.
 
@@ -14,9 +14,11 @@ Ottiene l'attuale [`XFormPlacement`](../../xformplacement/) in cui si trova l'el
 public XFormPlacement Parent { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFormPlacement](../../xformplacement/)
-* classe [GraphicElement](../)
+* class [XFormPlacement](../../xformplacement/)
+* class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

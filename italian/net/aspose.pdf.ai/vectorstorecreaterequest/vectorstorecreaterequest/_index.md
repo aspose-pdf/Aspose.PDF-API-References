@@ -1,12 +1,12 @@
 ---
-title: VectorStoreCreateRequest.VectorStoreCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di VectorStoreCreateRequest. Il costruttore predefinito
+title: "VectorStoreCreateRequest.VectorStoreCreateRequest"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore VectorStoreCreateRequest. Il costruttore predefinito."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/vectorstorecreaterequest/vectorstorecreaterequest/
 ---
-## Costruttore di VectorStoreCreateRequest
+## VectorStoreCreateRequest constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public VectorStoreCreateRequest()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorStoreCreateRequest](../)
+* class [VectorStoreCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

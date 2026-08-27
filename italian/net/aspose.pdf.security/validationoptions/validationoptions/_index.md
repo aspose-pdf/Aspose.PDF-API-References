@@ -1,12 +1,12 @@
 ---
-title: ValidationOptions.ValidationOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ValidationOptions. Il costruttore predefinito
+title: "ValidationOptions.ValidationOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ValidationOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.security/validationoptions/validationoptions/
 ---
-## Costruttore di ValidationOptions
+## ValidationOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ValidationOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ValidationOptions](../)
+* class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

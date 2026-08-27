@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TryDecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSecurity. Decripta un documento Pdf crittografato con la password del proprietario. Se il documento non ha la password del proprietario, è consentito utilizzare la password dell'utente. Non genera un'eccezione se il processo fallisce.
+title: "PdfFileSecurity.TryDecryptFile"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSecurity. Decripta un documento Pdf crittografato con la password del proprietario. Se il documento non ha una password del proprietario, è consentito utilizzare la password utente. Non lancia un'eccezione se l'operazione fallisce"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.facades/pdffilesecurity/trydecryptfile/
 ---
-## Metodo PdfFileSecurity.TryDecryptFile
+## PdfFileSecurity.TryDecryptFile method
 
-Decripta un documento Pdf crittografato con la password del proprietario. Se il documento non ha la password del proprietario, è consentito utilizzare la password dell'utente. Non genera un'eccezione se il processo fallisce.
+Decripta un documento Pdf crittografato con la password del proprietario. Se il documento non ha una password del proprietario, è consentito usare la password utente. Non genera un'eccezione se il processo fallisce.
 
 ```csharp
 public bool TryDecryptFile(string ownerPassword)
@@ -20,7 +20,7 @@ public bool TryDecryptFile(string ownerPassword)
 
 ### Valore di ritorno
 
-Vero per successo, o falso.
+True per indicare il successo, o false.
 
 ## Esempi
 
@@ -40,6 +40,8 @@ Dim result As Boolean = fileSecurity.TryDecryptFile("ownerpass")
 
 ### Vedi anche
 
-* classe [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

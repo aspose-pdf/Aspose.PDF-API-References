@@ -1,7 +1,7 @@
 ---
-title: Re.Re
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Re. Inizializza l'operatore
+title: "Re.Re"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Re costruttore. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/re/re/
@@ -14,9 +14,9 @@ Inizializza l'operatore.
 public Re()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Re](../)
+* class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,11 +34,13 @@ public Re(double x, double y, double width, double height)
 | --- | --- | --- |
 | x | Double | La coordinata x dell'angolo in basso a sinistra del rettangolo. |
 | y | Double | La coordinata y dell'angolo in basso a sinistra del rettangolo. |
-| width | Double | La larghezza del rettangolo. |
-| height | Double | L'altezza del rettangolo. |
+| larghezza | Double | La larghezza del rettangolo. |
+| altezza | Double | L'altezza del rettangolo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Re](../)
+* class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

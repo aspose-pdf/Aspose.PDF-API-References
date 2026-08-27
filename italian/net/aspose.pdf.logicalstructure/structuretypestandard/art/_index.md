@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Art
-second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeStandard. Articolo Un corpo di testo relativamente autonomo che costituisce una singola narrazione o esposizione. Gli articoli dovrebbero essere disgiunti, cioè non dovrebbero contenere altri articoli come elementi costitutivi.
+title: "StructureTypeStandard.Art"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo StructureTypeStandard. Articolo. Un corpo di testo relativamente autonomo che costituisce una singola narrazione o esposizione. Gli articoli dovrebbero essere disgiunti, cioè non dovrebbero contenere altri articoli come elementi costitutivi"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/art/
 ---
-## Campo StructureTypeStandard.Art
+## StructureTypeStandard.Art field
 
-(Articolo) Un corpo di testo relativamente autonomo che costituisce una singola narrazione o esposizione. Gli articoli dovrebbero essere disgiunti; cioè, non dovrebbero contenere altri articoli come elementi costitutivi.
+(Article) Un corpo di testo relativamente autonomo che costituisce una singola narrazione o esposizione. Gli articoli dovrebbero essere disgiunti; cioè, non dovrebbero contenere altri articoli come elementi costitutivi.
 
 ```csharp
 public static readonly StructureTypeStandard Art;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

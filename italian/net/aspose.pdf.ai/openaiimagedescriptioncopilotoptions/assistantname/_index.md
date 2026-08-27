@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.AssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OpenAIImageDescriptionCopilotOptions. Ottiene o imposta il nome dell'assistente
+title: "OpenAIImageDescriptionCopilotOptions.AssistantName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIImageDescriptionCopilotOptions proprietà. Ottiene o imposta il nome dell'assistente"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/assistantname/
 ---
-## Proprietà OpenAIImageDescriptionCopilotOptions.AssistantName
+## OpenAIImageDescriptionCopilotOptions.AssistantName property
 
 Ottiene o imposta il nome dell'assistente.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il nome dell'assistente.
 public string AssistantName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

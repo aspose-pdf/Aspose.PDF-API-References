@@ -1,22 +1,24 @@
 ---
-title: ImagePlacement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImagePlacement. Ottiene il rettangolo dell'immagine
+title: "ImagePlacement.Rectangle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImagePlacement. Ottiene il rettangolo dell'Immagine"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/imageplacement/rectangle/
 ---
-## Proprietà ImagePlacement.Rectangle
+## ImagePlacement.Rectangle property
 
-Ottiene il rettangolo dell'immagine.
+Ottiene il rettangolo dell'Immagine.
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../rectangle/)
-* classe [ImagePlacement](../)
+* class [Rectangle](../../rectangle/)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

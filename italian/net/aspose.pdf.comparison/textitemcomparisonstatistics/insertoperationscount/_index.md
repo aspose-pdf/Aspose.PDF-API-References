@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.InsertOperationsCount
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di TextItemComparisonStatistics. Ottiene e imposta il numero di operazioni di inserimento
+title: "TextItemComparisonStatistics.InsertOperationsCount"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextItemComparisonStatistics. Ottiene e imposta il numero di operazioni di inserimento"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/
 ---
-## Proprietà TextItemComparisonStatistics.InsertOperationsCount
+## TextItemComparisonStatistics.InsertOperationsCount property
 
 Ottiene e imposta il numero di operazioni di inserimento.
 
@@ -14,8 +14,10 @@ Ottiene e imposta il numero di operazioni di inserimento.
 public int InsertOperationsCount { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextItemComparisonStatistics](../)
+* class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

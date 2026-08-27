@@ -1,14 +1,14 @@
 ---
-title: Class CurveTo2
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.CurveTo2. Classe che rappresenta l'operatore y - aggiungi curva al percorso, punto finale replicato.
+title: "Classe CurveTo2"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Operators.CurveTo2. Classe che rappresenta l'operatore y aggiunge una curva al percorso, punto finale replicato"
 type: docs
-weight: 7260
+weight: 7400
 url: /it/net/aspose.pdf.operators/curveto2/
 ---
-## Classe CurveTo2
+## CurveTo2 class
 
-Classe che rappresenta l'operatore y (aggiungi curva al percorso, punto finale replicato).
+Classe che rappresenta l'operatore y (append curve to path, final point replicated).
 
 ```csharp
 public class CurveTo2 : Operator
@@ -31,12 +31,14 @@ public class CurveTo2 : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/curveto2/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/curveto2/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Restituisce il testo dell'operatore e i suoi parametri. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto dato. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

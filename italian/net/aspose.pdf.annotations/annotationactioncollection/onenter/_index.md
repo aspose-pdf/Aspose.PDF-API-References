@@ -1,12 +1,12 @@
 ---
-title: AnnotationActionCollection.OnEnter
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AnnotationActionCollection. Ottiene o imposta un'azione da eseguire quando il cursore entra nell'area attiva delle annotazioni
+title: "AnnotationActionCollection.OnEnter"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AnnotationActionCollection. Ottiene o imposta un'azione da eseguire quando il cursore entra nell'area attiva dell'annotazione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/annotationactioncollection/onenter/
 ---
-## Proprietà AnnotationActionCollection.OnEnter
+## AnnotationActionCollection.OnEnter property
 
 Ottiene o imposta un'azione da eseguire quando il cursore entra nell'area attiva dell'annotazione.
 
@@ -14,9 +14,11 @@ Ottiene o imposta un'azione da eseguire quando il cursore entra nell'area attiva
 public PdfAction OnEnter { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAction](../../pdfaction/)
-* classe [AnnotationActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

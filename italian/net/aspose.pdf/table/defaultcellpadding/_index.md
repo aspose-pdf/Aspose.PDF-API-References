@@ -1,22 +1,24 @@
 ---
-title: Table.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della tabella. Ottiene o imposta il padding predefinito delle celle
+title: "Table.DefaultCellPadding"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà della classe Table. Ottiene o imposta il padding predefinito delle celle"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/table/defaultcellpadding/
 ---
-## Proprietà Table.DefaultCellPadding
+## Table.DefaultCellPadding property
 
-Ottiene o imposta il padding predefinito delle celle.
+Ottiene o imposta il padding predefinito della cella.
 
 ```csharp
 public MarginInfo DefaultCellPadding { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../../margininfo/)
-* classe [Table](../)
+* class [MarginInfo](../../margininfo/)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.ModifyThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Modifica un messaggio esistente all'interno di un thread in modo asincrono
+title: "IOpenAIClient.ModifyThreadMessageAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IOpenAIClient. Modifica un messaggio esistente all'interno di un thread in modo asincrono"
 type: docs
 weight: 390
 url: /it/net/aspose.pdf.ai/iopenaiclient/modifythreadmessageasync/
 ---
-## Metodo IOpenAIClient.ModifyThreadMessageAsync
+## IOpenAIClient.ModifyThreadMessageAsync method
 
 Modifica un messaggio esistente all'interno di un thread in modo asincrono.
 
@@ -31,13 +31,15 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del messaggio del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del messaggio del thread è nullo o vuoto. |
 
 ### Vedi anche
 
-* classe [ThreadMessageResponse](../../threadmessageresponse/)
-* classe [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
-* interfaccia [IOpenAIClient](../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class PdfGeneratorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.PdfGeneratorOptions. Rappresenta le opzioni per i plugin Generator
+title: "Classe PdfGeneratorOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Plugins.PdfGeneratorOptions. Rappresenta le opzioni per i plugin Generator"
 type: docs
-weight: 9080
+weight: 9230
 url: /it/net/aspose.pdf.plugins/pdfgeneratoroptions/
 ---
-## Classe PdfGeneratorOptions
+## PdfGeneratorOptions class
 
 Rappresenta le opzioni per i plugin Generator.
 
@@ -18,18 +18,20 @@ public abstract class PdfGeneratorOptions : IPluginOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | Restituisce la raccolta di dati del plugin PdfGenerator. |
-| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Ottiene la raccolta degli obiettivi aggiunti per i risultati dell'operazione di salvataggio. |
+| [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | Restituisce la raccolta dati del plugin PdfGenerator. |
+| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Ottiene la raccolta dei target aggiunti per salvare i risultati dell'operazione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfgeneratoroptions/addinput/)(IDataSource) | Aggiunge una nuova sorgente di dati alla raccolta di dati del plugin PdfGenerator. |
-| [AddOutput](../../aspose.pdf.plugins/pdfgeneratoroptions/addoutput/)(IDataSource) | Aggiunge una nuova sorgente di dati alla raccolta di dati del plugin PdfGenerator. |
+| [AddInput](../../aspose.pdf.plugins/pdfgeneratoroptions/addinput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati del plugin PdfGenerator. |
+| [AddOutput](../../aspose.pdf.plugins/pdfgeneratoroptions/addoutput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati del plugin PdfGenerator. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IPluginOptions](../ipluginoptions/)
+* interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

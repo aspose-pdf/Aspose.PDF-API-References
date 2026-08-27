@@ -1,14 +1,14 @@
 ---
-title: TableAbsorber.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TableAbsorber. Sostituisce un AbsorbedTable con Table nella pagina
+title: "TableAbsorber.Replace"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TableAbsorber. Sostituisce una AbsorbedTable con Table nella pagina"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/tableabsorber/replace/
 ---
-## Metodo TableAbsorber.Replace
+## TableAbsorber.Replace method
 
-Sostituisce un [`AbsorbedTable`](../../absorbedtable/) con [`Table`](../../../aspose.pdf/table/) nella pagina.
+Sostituisce una [`AbsorbedTable`](../../absorbedtable/) con [`Table`](../../../aspose.pdf/table/) nella pagina.
 
 ```csharp
 public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
@@ -16,19 +16,21 @@ public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Oggetto pagina del documento Pdf. |
+| pagina | Page | Oggetto pagina PDF. |
 | oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) da sostituire. |
 | newTable | Table | [`Table`](../../../aspose.pdf/table/) per sostituire la vecchia tabella. |
 
 ## Osservazioni
 
-Si prega di tenere in considerazione che modifica la collezione TableList. In caso di rimozione/sostituzione di tabelle in un ciclo, si prega di utilizzare una copia della collezione TableList.
+Si prega di tenere presente che modifica la collezione TableList. Nel caso di rimozione/sostituzione di tabelle in un ciclo, utilizzare una copia della collezione TableList.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [AbsorbedTable](../../absorbedtable/)
-* classe [Table](../../../aspose.pdf/table/)
-* classe [TableAbsorber](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [Table](../../../aspose.pdf/table/)
+* class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

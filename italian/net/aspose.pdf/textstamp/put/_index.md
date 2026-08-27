@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextStamp. Aggiunge un timbro testuale sulla pagina
+title: "TextStamp.Put"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextStamp. Aggiunge un timbro testuale nella pagina"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf/textstamp/put/
 ---
-## Metodo TextStamp.Put
+## TextStamp.Put method
 
-Aggiunge un timbro testuale sulla pagina.
+Aggiunge un timbro testuale nella pagina.
 
 ```csharp
 public override void Put(Page page)
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pagina | Page | Pagina per il timbro. |
+| pagina | Page | Pagina per il timbraggio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../page/)
-* classe [TextStamp](../)
+* class [Page](../../page/)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

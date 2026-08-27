@@ -1,25 +1,27 @@
 ---
-title: SetColor.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Restituisce la rappresentazione di stringa del colore.
+title: "SetColor.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SetColor. Restituisce la rappresentazione stringa del colore"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.operators/setcolor/tostring/
 ---
-## Metodo SetColor.ToString
+## SetColor.ToString method
 
-Restituisce la rappresentazione in stringa del colore.
+Restituisce la rappresentazione stringa del colore.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Rappresentazione in stringa del colore.
+Rappresentazione stringa del colore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColor](../)
+* class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

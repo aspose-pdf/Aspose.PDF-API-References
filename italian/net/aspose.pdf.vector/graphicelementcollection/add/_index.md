@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection metodo. Aggiunge un nuovo GraphicElement alla collezione. Tutti gli elementi della collezione devono avere lo stesso Padre.
+title: "GraphicElementCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo GraphicElementCollection. Aggiunge un nuovo GraphicElement alla collezione. Tutti gli elementi nella collezione devono avere lo stesso Parent."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.vector/graphicelementcollection/add/
 ---
-## Metodo GraphicElementCollection.Add
+## GraphicElementCollection.Add method
 
 Aggiunge un nuovo [`GraphicElement`](../../graphicelement/) alla collezione. Tutti gli elementi nella collezione devono avere lo stesso [`Parent`](../../graphicelement/parent/).
 
@@ -18,9 +18,11 @@ public void Add(GraphicElement item)
 | --- | --- | --- |
 | item | GraphicElement | IGraphicElement. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphicElement](../../graphicelement/)
-* classe [GraphicElementCollection](../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

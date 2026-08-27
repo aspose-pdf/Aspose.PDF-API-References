@@ -1,12 +1,12 @@
 ---
-title: Form.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Rimuove tutti i campi del modulo e posiziona i loro valori direttamente sulla pagina
+title: "Form.Flatten"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Rimuove tutti i campi del modulo e posiziona i loro valori direttamente sulla pagina."
 type: docs
-weight: 250
+weight: 270
 url: /it/net/aspose.pdf.forms/form/flatten/
 ---
-## Metodo Form.Flatten
+## Form.Flatten method
 
 Rimuove tutti i campi del modulo e posiziona i loro valori direttamente sulla pagina.
 
@@ -14,8 +14,10 @@ Rimuove tutti i campi del modulo e posiziona i loro valori direttamente sulla pa
 public void Flatten()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

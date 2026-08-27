@@ -1,14 +1,14 @@
 ---
-title: FileSaveTarget.FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FileSaveTarget. Inizializza un nuovo obiettivo di salvataggio file con il percorso specificato
+title: "FileSaveTarget.FileSaveTarget"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FileSaveTarget. Inizializza una nuova destinazione di salvataggio file con il percorso specificato"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/filesavetarget/filesavetarget/
 ---
-## Costruttore di FileSaveTarget
+## FileSaveTarget constructor
 
-Inizializza un nuovo obiettivo di salvataggio file con il percorso specificato.
+Inizializza una nuova destinazione di salvataggio file con il percorso specificato.
 
 ```csharp
 public FileSaveTarget(string path)
@@ -18,8 +18,10 @@ public FileSaveTarget(string path)
 | --- | --- | --- |
 | path | String | Una stringa che rappresenta il percorso del file di output. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSaveTarget](../)
+* class [FileSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XFormCollection. Oggetto di sincronizzazione
+title: "XFormCollection.SyncRoot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XFormCollection. Oggetto di sincronizzazione"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/xformcollection/syncroot/
 ---
-## Proprietà XFormCollection.SyncRoot
+## XFormCollection.SyncRoot property
 
 Oggetto di sincronizzazione.
 
@@ -14,8 +14,10 @@ Oggetto di sincronizzazione.
 public object SyncRoot { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFormCollection](../)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

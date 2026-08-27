@@ -1,14 +1,14 @@
 ---
-title: Enum ImageMergeMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ImageMergeMode di Aspose.Pdf.Facades. Rappresenta modalità per unire immagini
+title: "Enum ImageMergeMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Facades.ImageMergeMode. Rappresenta le modalità per unire le immagini."
 type: docs
-weight: 4380
+weight: 4500
 url: /it/net/aspose.pdf.facades/imagemergemode/
 ---
-## Enumerazione ImageMergeMode
+## ImageMergeMode enumeration
 
-Rappresenta modalità per unire immagini.
+Rappresenta le modalità per unire le immagini.
 
 ```csharp
 public enum ImageMergeMode
@@ -18,11 +18,13 @@ public enum ImageMergeMode
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Verticale | `1` | Immagini unite verticalmente. |
-| Orizzontale | `2` | Immagini unite orizzontalmente. |
-| Centro | `3` | Immagini allineate al centro. |
+| Vertical | `1` | Immagini unite verticalmente. |
+| Horizontal | `2` | Immagini unite orizzontalmente. |
+| Center | `3` | Immagini allineate al centro. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Executive
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Carta esecutiva 7,25 in. per 10,5 in
+title: "PaperSizes.Executive"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. carta Executive 7,25 pol. per 10,5 pol"
 type: docs
 weight: 410
 url: /it/net/aspose.pdf.printing/papersizes/executive/
 ---
-## Campo PaperSizes.Executive
+## PaperSizes.Executive field
 
-Carta esecutiva (7,25 in. per 10,5 in.).
+Carta Executive (7,25 pollici per 10,5 pollici).
 
 ```csharp
 public static readonly PaperSize Executive;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

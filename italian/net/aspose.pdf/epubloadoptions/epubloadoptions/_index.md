@@ -1,22 +1,22 @@
 ---
-title: EpubLoadOptions.EpubLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore EpubLoadOptions. Crea opzioni di caricamento predefinite per convertire un file EPUB in un documento pdf. Dimensione pagina pdf predefinita A4 300dpi 2480 X 3508
+title: "EpubLoadOptions.EpubLoadOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore EpubLoadOptions. Crea le opzioni di caricamento predefinite per convertire un file EPUB in documento pdf. Dimensione pagina pdf predefinita A4 300dpi 2480 × 3508."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/epubloadoptions/epubloadoptions/
 ---
 ## EpubLoadOptions() {#constructor}
 
-Crea opzioni di caricamento predefinite per convertire un file EPUB in un documento pdf. Dimensione pagina pdf predefinita - A4 300dpi 2480 X 3508.
+Crea le opzioni di caricamento predefinite per la conversione di file EPUB in un documento pdf. Dimensione pagina pdf predefinita - A4 300dpi 2480 X 3508.
 
 ```csharp
 public EpubLoadOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EpubLoadOptions](../)
+* class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public EpubLoadOptions()
 
 ## EpubLoadOptions(SizeF) {#constructor_1}
 
-Crea opzioni di caricamento con dimensioni di pagina specificate.
+Crea le opzioni di caricamento con la dimensione pagina specificata.
 
 ```csharp
 public EpubLoadOptions(SizeF pageSize)
@@ -34,8 +34,10 @@ public EpubLoadOptions(SizeF pageSize)
 | --- | --- | --- |
 | pageSize | SizeF | Definisce la larghezza e l'altezza della pagina pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EpubLoadOptions](../)
+* class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

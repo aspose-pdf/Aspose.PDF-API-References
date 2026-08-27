@@ -1,14 +1,14 @@
 ---
-title: Page.MediaBox
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene o imposta la media box della pagina
+title: "Page.MediaBox"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene o imposta il media box della pagina"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf/page/mediabox/
 ---
-## Proprietà Page.MediaBox
+## Page.MediaBox property
 
-Ottiene o imposta la media box della pagina.
+Ottiene o imposta il media box della pagina.
 
 ```csharp
 public Rectangle MediaBox { get; set; }
@@ -16,16 +16,18 @@ public Rectangle MediaBox { get; set; }
 
 ## Esempi
 
-L'esempio dimostra come ottenere la media box della pagina:
+L'esempio dimostra come ottenere il media box della pagina:
 
 ```csharp
 Document document = new Document("sample.pdf");
 Rectangle mediaBox = document.Pages[1].MediaBox;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../rectangle/)
-* classe [Page](../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

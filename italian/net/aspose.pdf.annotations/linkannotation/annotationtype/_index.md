@@ -1,12 +1,12 @@
 ---
-title: LinkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: LinkAnnotation proprietà. Ottiene tipo di annotazione.
+title: "LinkAnnotation.AnnotationType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà LinkAnnotation. Ottiene il tipo di annotazione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/linkannotation/annotationtype/
 ---
-## Proprietà LinkAnnotation.AnnotationType
+## LinkAnnotation.AnnotationType property
 
 Ottiene il tipo di annotazione.
 
@@ -14,9 +14,11 @@ Ottiene il tipo di annotazione.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [AnnotationType](../../annotationtype/)
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

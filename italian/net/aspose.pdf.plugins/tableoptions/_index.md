@@ -1,12 +1,12 @@
 ---
-title: Class TableOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.TableOptions. Rappresenta le opzioni per aggiungere una tabella al documento tramite il plugin TableGenerator
+title: "Classe TableOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Plugins.TableOptions classe. Rappresenta le opzioni per aggiungere una tabella al documento tramite il plugin TableGenerator"
 type: docs
-weight: 9360
+weight: 9510
 url: /it/net/aspose.pdf.plugins/tableoptions/
 ---
-## Classe TableOptions
+## TableOptions class
 
 Rappresenta le opzioni per aggiungere una tabella al documento tramite il plugin [`TableGenerator`](../tablegenerator/).
 
@@ -24,22 +24,24 @@ public sealed class TableOptions : PdfGeneratorOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | Restituisce la raccolta di dati del plugin PdfGenerator. |
-| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Ottiene la raccolta degli obiettivi aggiunti per i risultati dell'operazione di salvataggio. |
+| [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | Restituisce la raccolta dati del plugin PdfGenerator. |
+| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Ottiene la raccolta dei target aggiunti per salvare i risultati dell'operazione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
 | static [Create](../../aspose.pdf.plugins/tableoptions/create/)() | Crea un'istanza di `TableOptions`. |
-| [AddInput](../../aspose.pdf.plugins/pdfgeneratoroptions/addinput/)(IDataSource) | Aggiunge una nuova sorgente dati alla raccolta di dati del plugin PdfGenerator. |
-| [AddOutput](../../aspose.pdf.plugins/pdfgeneratoroptions/addoutput/)(IDataSource) | Aggiunge una nuova sorgente dati alla raccolta di dati del plugin PdfGenerator. |
+| [AddInput](../../aspose.pdf.plugins/pdfgeneratoroptions/addinput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati del plugin PdfGenerator. |
+| [AddOutput](../../aspose.pdf.plugins/pdfgeneratoroptions/addoutput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati del plugin PdfGenerator. |
 | [AddTable](../../aspose.pdf.plugins/tableoptions/addtable/)() | Aggiunta di una tabella al documento. |
-| [InsertPageAfter](../../aspose.pdf.plugins/tableoptions/insertpageafter/)(int) | Inserisce una pagina dopo la pagina specificata. |
-| [InsertPageBefore](../../aspose.pdf.plugins/tableoptions/insertpagebefore/)(int) | Inserisce una pagina prima della pagina specificata. |
+| [InsertPageAfter](../../aspose.pdf.plugins/tableoptions/insertpageafter/)(int) | Inserisci pagina dopo la pagina specificata. |
+| [InsertPageBefore](../../aspose.pdf.plugins/tableoptions/insertpagebefore/)(int) | Inserisci pagina prima della pagina specificata. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfGeneratorOptions](../pdfgeneratoroptions/)
+* class [PdfGeneratorOptions](../pdfgeneratoroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

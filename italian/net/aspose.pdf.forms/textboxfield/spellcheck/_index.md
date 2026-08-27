@@ -1,21 +1,23 @@
 ---
-title: TextBoxField.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextBoxField. Ottiene o imposta il flag di controllo ortografico per il campo. Se vero, il campo sarà controllato ortograficamente
+title: "TextBoxField.SpellCheck"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "TextBoxField property. Ottiene o imposta il flag di correzione ortografica per il campo. Se vero il campo verrà controllato ortograficamente"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.forms/textboxfield/spellcheck/
 ---
-## Proprietà TextBoxField.SpellCheck
+## TextBoxField.SpellCheck property
 
-Ottiene o imposta il flag di controllo ortografico per il campo. Se vero, il campo sarà controllato ortograficamente.
+Ottiene o imposta il flag di correzione ortografica per il campo. Se vero, il campo deve essere controllato ortograficamente.
 
 ```csharp
 public bool SpellCheck { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextBoxField](../)
+* class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

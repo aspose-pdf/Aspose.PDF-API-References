@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.RB
-second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeStandard. Testo base Ruby Il testo a grandezza naturale a cui è applicata l'annotazione ruby. RB può contenere testo, altri elementi inline o una miscela di entrambi. Può avere l'attributo RubyAlign.
+title: "StructureTypeStandard.RB"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard field. Testo base Ruby Il testo a dimensione completa a cui viene applicata l'annotazione ruby. RB può contenere testo, altri elementi in linea o una combinazione di entrambi. Può avere l'attributo RubyAlign."
 type: docs
 weight: 310
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/rb/
 ---
-## Campo StructureTypeStandard.RB
+## StructureTypeStandard.RB field
 
-(Testo base Ruby) Il testo a grandezza naturale a cui è applicata l'annotazione ruby. RB può contenere testo, altri elementi inline o una miscela di entrambi. Può avere l'attributo RubyAlign.
+(Ruby base text) Il testo a grandezza piena a cui viene applicata l'annotazione ruby. RB può contenere testo, altri elementi in linea o una combinazione di entrambi. Può avere l'attributo RubyAlign.
 
 ```csharp
 public static readonly StructureTypeStandard RB;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

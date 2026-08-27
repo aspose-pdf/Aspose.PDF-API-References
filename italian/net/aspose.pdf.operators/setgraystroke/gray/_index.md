@@ -1,12 +1,12 @@
 ---
-title: SetGrayStroke.Gray
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetGrayStroke. Ottiene o imposta il livello del valore di grigio
+title: "SetGrayStroke.Gray"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetGrayStroke. Ottiene o imposta il livello del valore di grigio"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/setgraystroke/gray/
 ---
-## Proprietà SetGrayStroke.Gray
+## SetGrayStroke.Gray property
 
 Ottiene o imposta il livello del valore di grigio.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il livello del valore di grigio.
 public double Gray { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetGrayStroke](../)
+* class [SetGrayStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

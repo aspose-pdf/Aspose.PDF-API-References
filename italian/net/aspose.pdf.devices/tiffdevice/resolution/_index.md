@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TiffDevice. Ottiene la risoluzione dell'immagine
+title: "TiffDevice.Resolution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TiffDevice. Ottiene la risoluzione dell'immagine"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.devices/tiffdevice/resolution/
 ---
-## Proprietà TiffDevice.Resolution
+## TiffDevice.Resolution property
 
 Ottiene la risoluzione dell'immagine.
 
@@ -14,9 +14,11 @@ Ottiene la risoluzione dell'immagine.
 public Resolution Resolution { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resolution](../../resolution/)
-* classe [TiffDevice](../)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

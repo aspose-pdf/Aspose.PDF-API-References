@@ -1,12 +1,12 @@
 ---
-title: AnnotationActionCollection.OnHidePage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AnnotationActionCollection. Ottiene o imposta un'azione da eseguire quando la pagina contenente l'annotazione non è più visibile nell'interfaccia utente delle applicazioni visualizzatore
+title: "AnnotationActionCollection.OnHidePage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AnnotationActionCollection. Ottiene o imposta un'azione da eseguire quando la pagina contenente l'annotazione non è più visibile nell'interfaccia utente dell'applicazione visualizzatore"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/annotationactioncollection/onhidepage/
 ---
-## Proprietà AnnotationActionCollection.OnHidePage
+## AnnotationActionCollection.OnHidePage property
 
 Ottiene o imposta un'azione da eseguire quando la pagina contenente l'annotazione non è più visibile nell'interfaccia utente dell'applicazione visualizzatore.
 
@@ -14,9 +14,11 @@ Ottiene o imposta un'azione da eseguire quando la pagina contenente l'annotazion
 public PdfAction OnHidePage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAction](../../pdfaction/)
-* classe [AnnotationActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

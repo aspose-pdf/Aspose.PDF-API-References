@@ -1,12 +1,12 @@
 ---
-title: TeXFileSystemInputDirectory.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TeXFileSystemInputDirectory. Rilascia l'istanza
+title: "TeXFileSystemInputDirectory.Dispose"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TeXFileSystemInputDirectory. Dispone l'istanza"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/texfilesysteminputdirectory/dispose/
 ---
-## Metodo TeXFileSystemInputDirectory.Dispose
+## TeXFileSystemInputDirectory.Dispose method
 
 Rilascia l'istanza.
 
@@ -14,8 +14,10 @@ Rilascia l'istanza.
 public virtual void Dispose()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TeXFileSystemInputDirectory](../)
+* class [TeXFileSystemInputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

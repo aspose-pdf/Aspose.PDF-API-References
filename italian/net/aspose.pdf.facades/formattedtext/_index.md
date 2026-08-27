@@ -1,14 +1,14 @@
 ---
-title: Class FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.FormattedText. Classe che rappresenta testo formattato. Contiene informazioni sul testo e sul suo colore, dimensione, stile
+title: "Classe FormattedText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Facades.FormattedText classe. Classe che rappresenta testo formattato. Contiene informazioni sul testo e sul suo colore, dimensione e stile"
 type: docs
-weight: 4350
+weight: 4470
 url: /it/net/aspose.pdf.facades/formattedtext/
 ---
-## Classe FormattedText
+## FormattedText class
 
-Classe che rappresenta testo formattato. Contiene informazioni sul testo e sul suo colore, dimensione, stile.
+Classe che rappresenta il testo formattato. Contiene informazioni sul testo e sul suo colore, dimensione, stile.
 
 ```csharp
 public sealed class FormattedText
@@ -43,12 +43,14 @@ public sealed class FormattedText
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext)(string) | Aggiunge una nuova riga all'oggetto FormattedText e imposta newLineText sul testo della riga successiva. |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext_1)(string, float) | Aggiunge una nuova riga all'oggetto FormattedText e imposta newLineText sul testo della riga successiva. |
-| [IsCjk](../../aspose.pdf.facades/formattedtext/iscjk/)() | Controlla se il testo è CJK (Cinese, Giapponese o Coreano). |
-| [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle/)() | Cambia lo stile del carattere di FormattedText per caratteri CJK (Cinese, Giapponese o Coreano). |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext)(string) | Aggiunge una nuova riga all'oggetto FormattedText e imposta newLineText al testo della riga successiva. |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext_1)(string, float) | Aggiunge una nuova riga all'oggetto FormattedText e imposta newLineText al testo della riga successiva. |
+| [IsCjk](../../aspose.pdf.facades/formattedtext/iscjk/)() | Verifica se il testo è CJK (cinese, giapponese o coreano). |
+| [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle/)() | Cambia lo stile del carattere di FormattedText per il font CJK (cinese, giapponese o coreano). |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

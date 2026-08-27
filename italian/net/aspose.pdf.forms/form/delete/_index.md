@@ -1,9 +1,9 @@
 ---
-title: Form.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Elimina il campo dal modulo
+title: "Form.Delete"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Elimina il campo dal modulo."
 type: docs
-weight: 230
+weight: 250
 url: /it/net/aspose.pdf.forms/form/delete/
 ---
 ## Delete(Field) {#delete}
@@ -16,12 +16,12 @@ public void Delete(Field field)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| field | Field | Campo che deve essere eliminato. |
+| campo | Campo | Campo da eliminare. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../../field/)
-* classe [Form](../)
+* class [Field](../../field/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public void Delete(Field field)
 
 ## Delete(string) {#delete_1}
 
-Elimina il campo dal modulo in base al suo nome.
+Elimina il campo dal modulo per nome.
 
 ```csharp
 public void Delete(string fieldName)
@@ -37,10 +37,12 @@ public void Delete(string fieldName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Nome del campo che deve essere eliminato. |
+| fieldName | String | Nome del campo da eliminare. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

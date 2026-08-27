@@ -1,12 +1,12 @@
 ---
-title: XForm.BBox
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XForm. Ottiene o imposta il riquadro di delimitazione del modulo
+title: "XForm.BBox"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XForm. Ottiene o imposta il riquadro di delimitazione del modulo"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/xform/bbox/
 ---
-## Proprietà XForm.BBox
+## XForm.BBox property
 
 Ottiene o imposta il riquadro di delimitazione del modulo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il riquadro di delimitazione del modulo.
 public Rectangle BBox { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../rectangle/)
-* classe [XForm](../)
+* class [Rectangle](../../rectangle/)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

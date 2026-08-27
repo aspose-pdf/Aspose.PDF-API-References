@@ -1,12 +1,12 @@
 ---
-title: HtmlToPdfOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlToPdfOptions property. Gets name of the operation
+title: "HtmlToPdfOptions.OperationName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "HtmlToPdfOptions proprietà. Ottiene il nome dell'operazione"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.plugins/htmltopdfoptions/operationname/
 ---
-## Proprietà HtmlToPdfOptions.OperationName
+## HtmlToPdfOptions.OperationName property
 
 Ottiene il nome dell'operazione.
 
@@ -14,8 +14,10 @@ Ottiene il nome dell'operazione.
 public override string OperationName { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlToPdfOptions](../)
+* class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

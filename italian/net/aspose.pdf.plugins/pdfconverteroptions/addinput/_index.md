@@ -1,14 +1,14 @@
 ---
-title: PdfConverterOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfConverterOptions. Aggiunge una nuova fonte di dati alla raccolta di dati del plugin PdfConverter
+title: "PdfConverterOptions.AddInput"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfConverterOptions metodo. Aggiunge una nuova origine dati alla raccolta dati del plugin PdfConverter"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.plugins/pdfconverteroptions/addinput/
 ---
-## Metodo PdfConverterOptions.AddInput
+## PdfConverterOptions.AddInput method
 
-Aggiunge una nuova fonte di dati alla raccolta di dati del plugin PdfConverter.
+Aggiunge una nuova fonte dati alla raccolta dati del plugin PdfConverter.
 
 ```csharp
 public void AddInput(IDataSource dataSource)
@@ -16,11 +16,13 @@ public void AddInput(IDataSource dataSource)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| dataSource | IDataSource | Fonte di dati da aggiungere. |
+| dataSource | IDataSource | Origine dati da aggiungere. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../../idatasource/)
-* classe [PdfConverterOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

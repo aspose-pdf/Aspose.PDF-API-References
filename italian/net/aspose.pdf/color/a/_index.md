@@ -1,21 +1,23 @@
 ---
-title: Color.A
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene il valore del componente alpha
+title: "Color.A"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce il valore del componente alpha"
 type: docs
 weight: 1490
 url: /it/net/aspose.pdf/color/a/
 ---
-## Proprietà Color.A
+## Color.A property
 
-Ottiene il valore del componente alpha
+Ottiene il valore del componente alfa.
 
 ```csharp
 public double A { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

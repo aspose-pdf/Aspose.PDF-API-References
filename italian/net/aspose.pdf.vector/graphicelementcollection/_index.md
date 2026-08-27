@@ -1,14 +1,14 @@
 ---
-title: Class GraphicElementCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Vector.GraphicElementCollection. Rappresenta una collezione di GraphicElement
+title: "Classe GraphicElementCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Vector.GraphicElementCollection. Rappresenta la collezione di GraphicElement"
 type: docs
-weight: 11190
+weight: 11380
 url: /it/net/aspose.pdf.vector/graphicelementcollection/
 ---
-## Classe GraphicElementCollection
+## GraphicElementCollection class
 
-Rappresenta una collezione di [`GraphicElement`](../graphicelement/).
+Rappresenta la collezione di [`GraphicElement`](../graphicelement/).
 
 ```csharp
 public sealed class GraphicElementCollection : ICollection<GraphicElement>
@@ -32,15 +32,17 @@ public sealed class GraphicElementCollection : ICollection<GraphicElement>
 | Nome | Descrizione |
 | --- | --- |
 | [Add](../../aspose.pdf.vector/graphicelementcollection/add/)(GraphicElement) | Aggiunge un nuovo [`GraphicElement`](../graphicelement/) alla collezione. Tutti gli elementi nella collezione devono avere lo stesso [`Parent`](../graphicelement/parent/). |
-| [Clear](../../aspose.pdf.vector/graphicelementcollection/clear/)() | Pulisce la collezione. |
-| [Contains](../../aspose.pdf.vector/graphicelementcollection/contains/)(GraphicElement) | Determina se un elemento è nella collezione. |
-| [CopyTo](../../aspose.pdf.vector/graphicelementcollection/copyto/)(GraphicElement[], int) | Copia l'intera collezione in un array unidimensionale compatibile, a partire dall'indice specificato dell'array di destinazione. |
-| [GetEnumerator](../../aspose.pdf.vector/graphicelementcollection/getenumerator/)() | Restituisce un enumeratore per l'intera collezione. |
+| [Clear](../../aspose.pdf.vector/graphicelementcollection/clear/)() | Svuota la collezione. |
+| [Contains](../../aspose.pdf.vector/graphicelementcollection/contains/)(GraphicElement) | Determina se un elemento è nella raccolta. |
+| [CopyTo](../../aspose.pdf.vector/graphicelementcollection/copyto/)(GraphicElement[], int) | Copia l'intera collezione in un Array monodimensionale compatibile, iniziando dall'indice specificato dell'array di destinazione. |
+| [GetEnumerator](../../aspose.pdf.vector/graphicelementcollection/getenumerator/)() | Restituisce un enumeratore per l'intera raccolta. |
 | [Remove](../../aspose.pdf.vector/graphicelementcollection/remove/)(GraphicElement) | Elimina l'elemento [`GraphicElement`](../graphicelement/). |
-| override [ToString](../../aspose.pdf.vector/graphicelementcollection/tostring/)() | Ottiene una rappresentazione stringa di questa collezione. |
+| override [ToString](../../aspose.pdf.vector/graphicelementcollection/tostring/)() | Restituisce una rappresentazione stringa di questa collezione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphicElement](../graphicelement/)
+* class [GraphicElement](../graphicelement/)
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../)
+
+

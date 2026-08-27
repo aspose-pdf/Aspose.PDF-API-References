@@ -1,14 +1,14 @@
 ---
-title: Enum PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormat enum. This class represents an pdf format
+title: "Enum PdfFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.PdfFormat enum. Questa classe rappresenta un formato pdf"
 type: docs
-weight: 8370
+weight: 8510
 url: /it/net/aspose.pdf/pdfformat/
 ---
-## Enumerazione PdfFormat
+## PdfFormat enumeration
 
-Questa classe rappresenta un formato pdf.
+Questa classe rappresenta un formato PDF.
 
 ```csharp
 public enum PdfFormat
@@ -39,13 +39,15 @@ public enum PdfFormat
 | PDF_X_1A_2001 | `18` |  |
 | PDF_X_1A | `19` |  |
 | PDF_X_3 | `20` |  |
-| ZUGFeRD | `21` | formato ZUGFeRD |
-| PDF_A_4 | `22` | formato PDF/A-4 |
-| PDF_A_4E | `23` | formato PDF/A-4e |
-| PDF_A_4F | `24` | formato PDF/A-4f |
-| PDF_X_4 | `25` | formato PDF/X-4 |
+| ZUGFeRD | `21` | Formato ZUGFeRD |
+| PDF_A_4 | `22` | Formato PDF/A-4 |
+| PDF_A_4E | `23` | Formato PDF/A-4e |
+| PDF_A_4F | `24` | Formato PDF/A-4f |
+| PDF_X_4 | `25` | Formato PDF/X-4 |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

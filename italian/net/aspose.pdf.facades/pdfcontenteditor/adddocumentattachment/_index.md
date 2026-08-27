@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.AddDocumentAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfContentEditor. Aggiunge un allegato di documento senza annotazione
+title: "PdfContentEditor.AddDocumentAttachment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Aggiunge un allegato di documento senza annotazione"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
 ---
 ## AddDocumentAttachment(string, string) {#adddocumentattachment_1}
 
-Aggiunge un allegato di documento senza annotazione.
+Aggiunge un allegato al documento senza annotazione.
 
 ```csharp
 public void AddDocumentAttachment(string fileAttachmentPath, string description)
@@ -16,7 +16,7 @@ public void AddDocumentAttachment(string fileAttachmentPath, string description)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fileAttachmentPath | String | Il percorso del file che sarà allegato. |
+| fileAttachmentPath | String | Il percorso del file verrà allegato. |
 | description | String | Le informazioni di descrizione. |
 
 ## Esempi
@@ -28,9 +28,9 @@ editor.AddDocumentAttachment("attachment_file.pdf", "description of attachment_f
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,7 +38,7 @@ editor.Save("example_out.pdf");
 
 ## AddDocumentAttachment(Stream, string, string) {#adddocumentattachment}
 
-Aggiunge un allegato di documento senza annotazione.
+Aggiunge un allegato al documento senza annotazione.
 
 ```csharp
 public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttachmentName, 
@@ -47,7 +47,7 @@ public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttach
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fileAttachmentStream | Stream | Il flusso del file che sarà allegato. |
+| fileAttachmentStream | Stream | Il flusso del file verrà allegato. |
 | fileAttachmentName | String | Il nome dell'allegato. |
 | description | String | Le informazioni di descrizione. |
 
@@ -63,8 +63,10 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }    
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: ICosPdfPrimitive.ToCosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ICosPdfPrimitive. Tenta di convertire questa istanza in CosPdfName
+title: "ICosPdfPrimitive.ToCosPdfName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ICosPdfPrimitive. Prova a convertire questa istanza in CosPdfName"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfname/
 ---
-## Metodo ICosPdfPrimitive.ToCosPdfName
+## ICosPdfPrimitive.ToCosPdfName method
 
-Tenta di convertire questa istanza in [`CosPdfName`](../../cospdfname/).
+Prova a eseguire il cast di questa istanza a [`CosPdfName`](../../cospdfname/).
 
 ```csharp
 public CosPdfName ToCosPdfName()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 null se l'istanza non è [`CosPdfName`](../../cospdfname/) altrimenti [`CosPdfName`](../../cospdfname/).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfName](../../cospdfname/)
-* interfaccia [ICosPdfPrimitive](../)
+* class [CosPdfName](../../cospdfname/)
+* interface [ICosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

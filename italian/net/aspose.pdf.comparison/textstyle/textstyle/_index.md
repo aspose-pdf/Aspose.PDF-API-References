@@ -1,12 +1,12 @@
 ---
-title: TextStyle.TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TextStyle. Il costruttore predefinito.
+title: "TextStyle.TextStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TextStyle. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.comparison/textstyle/textstyle/
 ---
-## Costruttore di TextStyle
+## TextStyle constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public TextStyle()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextStyle](../)
+* class [TextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

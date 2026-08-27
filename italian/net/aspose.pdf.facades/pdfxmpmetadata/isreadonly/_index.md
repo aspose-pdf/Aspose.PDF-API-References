@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfXmpMetadata. Restituisce true se la collezione è di sola lettura
+title: "PdfXmpMetadata.IsReadOnly"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfXmpMetadata. Restituisce true se la collezione è sola lettura"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/pdfxmpmetadata/isreadonly/
 ---
-## Proprietà PdfXmpMetadata.IsReadOnly
+## PdfXmpMetadata.IsReadOnly property
 
 Restituisce true se la collezione è di sola lettura.
 
@@ -14,8 +14,10 @@ Restituisce true se la collezione è di sola lettura.
 public bool IsReadOnly { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

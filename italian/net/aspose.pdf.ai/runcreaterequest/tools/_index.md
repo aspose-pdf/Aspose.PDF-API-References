@@ -1,22 +1,24 @@
 ---
-title: RunCreateRequest.Tools
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RunCreateRequest. Ottiene o imposta gli strumenti che sovrascrivono gli strumenti che l'assistente può utilizzare per questa esecuzione. Questo è utile per modificare il comportamento su base per esecuzione
+title: "RunCreateRequest.Tools"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunCreateRequest. Ottiene o imposta gli strumenti che sovrascrivono gli strumenti che l'assistente può usare per questo run. Questo è utile per modificare il comportamento su base perrun."
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.ai/runcreaterequest/tools/
 ---
-## Proprietà RunCreateRequest.Tools
+## RunCreateRequest.Tools property
 
-Ottiene o imposta gli strumenti che sovrascrivono gli strumenti che l'assistente può utilizzare per questa esecuzione. Questo è utile per modificare il comportamento su base per esecuzione.
+Ottiene o imposta gli strumenti che sovrascrivono gli strumenti che l'assistente può utilizzare per questa esecuzione. Questo è utile per modificare il comportamento per ogni esecuzione.
 
 ```csharp
 public List<Tool> Tools { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Tool](../../tool/)
-* classe [RunCreateRequest](../)
+* class [Tool](../../tool/)
+* class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

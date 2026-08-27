@@ -1,12 +1,12 @@
 ---
-title: Annotation.EndIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'annotazione. Imposta o ottiene l'indice finale del testo nel contenuto della messaggio che deve essere sostituito.
+title: "Annotation.EndIndex"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Annotation. Ottiene o imposta l'indice finale del testo nel contenuto del messaggio che deve essere sostituito"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/annotation/endindex/
 ---
-## Proprietà Annotation.EndIndex
+## Annotation.EndIndex property
 
 Ottiene o imposta l'indice finale del testo nel contenuto del messaggio che deve essere sostituito.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'indice finale del testo nel contenuto del messaggio che deve
 public int EndIndex { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

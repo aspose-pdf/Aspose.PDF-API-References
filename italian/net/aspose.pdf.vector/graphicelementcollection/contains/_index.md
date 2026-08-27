@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo GraphicElementCollection. Determina se un elemento è nella collezione
+title: "GraphicElementCollection.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "GraphicElementCollection method. Determina se un elemento è nella collezione"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.vector/graphicelementcollection/contains/
 ---
-## Metodo GraphicElementCollection.Contains
+## GraphicElementCollection.Contains method
 
-Determina se un elemento è nella collezione.
+Determina se un elemento è nella raccolta.
 
 ```csharp
 public bool Contains(GraphicElement item)
@@ -18,13 +18,15 @@ public bool Contains(GraphicElement item)
 | --- | --- | --- |
 | item | GraphicElement | [`GraphicElement`](../../graphicelement/) da cercare. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-True - se l'elemento è trovato; altrimenti, false.
+True - se l'elemento è stato trovato; altrimenti, false.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphicElement](../../graphicelement/)
-* classe [GraphicElementCollection](../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

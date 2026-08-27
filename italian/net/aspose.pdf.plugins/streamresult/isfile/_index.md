@@ -1,12 +1,12 @@
 ---
-title: StreamResult.IsFile
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà StreamResult. Indica se il risultato è un percorso a un file di output
+title: "StreamResult.IsFile"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StreamResult. Indica se il risultato è un percorso a un file di output"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/streamresult/isfile/
 ---
-## Proprietà StreamResult.IsFile
+## StreamResult.IsFile property
 
 Indica se il risultato è un percorso a un file di output.
 
@@ -14,12 +14,14 @@ Indica se il risultato è un percorso a un file di output.
 public bool IsFile { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 `true` se il risultato è un file; altrimenti `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StreamResult](../)
+* class [StreamResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

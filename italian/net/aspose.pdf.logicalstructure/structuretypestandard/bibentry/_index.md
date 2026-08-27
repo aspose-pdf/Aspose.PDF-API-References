@@ -1,23 +1,25 @@
 ---
-title: StructureTypeStandard.BibEntry
-second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeStandard. Voce bibliografica Una referenza che identifica la fonte esterna di alcuni contenuti citati. Può contenere una struttura di etichetta tipo Lbl come figlio
+title: "StructureTypeStandard.BibEntry"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo StructureTypeStandard. Voce di bibliografia. Un riferimento che identifica la fonte esterna di un contenuto citato. Può contenere un tipo di struttura etichetta Lbl come figlio"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/bibentry/
 ---
-## Campo StructureTypeStandard.BibEntry
+## StructureTypeStandard.BibEntry field
 
-(Voce bibliografica) Una referenza che identifica la fonte esterna di alcuni contenuti citati. Può contenere un'etichetta (struttura tipo Lbl) come figlio.
+(Bibliography entry) Un riferimento che identifica la fonte esterna di un contenuto citato. Può contenere un'etichetta (tipo di struttura Lbl) come figlio.
 
-Sebbene una voce bibliografica possa includere parti componenti che identificano l'autore, l'opera, l'editore e così via dei contenuti citati, non sono definiti tipi di struttura standard a questo livello di dettaglio.
+Sebbene una voce di bibliografia includa probabilmente componenti che identificano l'autore, l'opera, l'editore e così via del contenuto citato, non sono definiti tipi di struttura standard a questo livello di dettaglio.
 
 ```csharp
 public static readonly StructureTypeStandard BibEntry;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeName.BorderStyle_Hidden
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Attributo BorderStyle Nascosto. Stesso di Nessuno, tranne che in termini di risoluzione dei conflitti di bordo per gli elementi della tabella.
+title: "AttributeName.BorderStyle_Hidden"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName campo. Attributo BorderStyle Hidden  Stesso di None eccetto per la risoluzione dei conflitti di bordo per gli elementi della tabella"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.logicalstructure/attributename/borderstyle_hidden/
 ---
-## Campo AttributeName.BorderStyle_Hidden
+## AttributeName.BorderStyle_Hidden field
 
-Attributo BorderStyle: Nascosto - Stesso di Nessuno, tranne che in termini di risoluzione dei conflitti di bordo per gli elementi della tabella.
+Attributo BorderStyle: Hidden - Come None, tranne per la risoluzione dei conflitti di bordo per gli elementi della tabella.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Hidden;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

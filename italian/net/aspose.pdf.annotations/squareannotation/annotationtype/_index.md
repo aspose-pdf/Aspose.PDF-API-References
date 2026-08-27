@@ -1,12 +1,12 @@
 ---
-title: SquareAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SquareAnnotation. Ottiene il tipo di annotazione
+title: "SquareAnnotation.AnnotationType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SquareAnnotation. Ottiene il tipo di annotazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/squareannotation/annotationtype/
 ---
-## Proprietà SquareAnnotation.AnnotationType
+## SquareAnnotation.AnnotationType property
 
 Ottiene il tipo di annotazione.
 
@@ -14,9 +14,11 @@ Ottiene il tipo di annotazione.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [AnnotationType](../../annotationtype/)
 * class [SquareAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

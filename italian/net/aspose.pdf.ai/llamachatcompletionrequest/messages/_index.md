@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LlamaChatCompletionRequest. Imposta o ottiene un elenco di messaggi che compongono la conversazione
+title: "LlamaChatCompletionRequest.Messages"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LlamaChatCompletionRequest property. Imposta o ottiene un elenco di messaggi che compongono la conversazione"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/llamachatcompletionrequest/messages/
 ---
-## Proprietà LlamaChatCompletionRequest.Messages
+## LlamaChatCompletionRequest.Messages property
 
 Imposta o ottiene un elenco di messaggi che compongono la conversazione.
 
@@ -14,9 +14,11 @@ Imposta o ottiene un elenco di messaggi che compongono la conversazione.
 public List<ChatMessage> Messages { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ChatMessage](../../chatmessage/)
-* classe [LlamaChatCompletionRequest](../)
+* class [ChatMessage](../../chatmessage/)
+* class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

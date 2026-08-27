@@ -1,12 +1,12 @@
 ---
-title: PdfFileSanitization.PdfFileSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfFileSanitization. Il costruttore predefinito
+title: "PdfFileSanitization.PdfFileSanitization"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfFileSanitization. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/
 ---
-## Costruttore di PdfFileSanitization
+## PdfFileSanitization constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public PdfFileSanitization()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileSanitization](../)
+* class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

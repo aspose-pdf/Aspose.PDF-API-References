@@ -1,14 +1,14 @@
 ---
-title: Class ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ShowText classe. Classe che rappresenta l'operatore Tj mostra testo.
+title: "Classe ShowText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.ShowText classe. Classe che rappresenta l'operatore Tj per mostrare il testo"
 type: docs
-weight: 7880
+weight: 8020
 url: /it/net/aspose.pdf.operators/showtext/
 ---
-## Classe ShowText
+## ShowText class
 
-Classe che rappresenta l'operatore Tj (mostra testo).
+Classe che rappresenta l'operatore Tj (mostra il testo).
 
 ```csharp
 public class ShowText : TextShowOperator
@@ -27,19 +27,21 @@ public class ShowText : TextShowOperator
 
 | Nome | Descrizione |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori di pagina. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori della pagina. |
 | override [Text](../../aspose.pdf.operators/showtext/text/) { get; set; } | Testo dell'operatore. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/showtext/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
-| override [ToString](../../aspose.pdf.operators/showtext/tostring/)() | Produce il codice di testo dell'operatore. |
+| override [Accept](../../aspose.pdf.operators/showtext/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
+| override [ToString](../../aspose.pdf.operators/showtext/tostring/)() | Genera il codice di testo dell'operatore. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextShowOperator](../textshowoperator/)
+* class [TextShowOperator](../textshowoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

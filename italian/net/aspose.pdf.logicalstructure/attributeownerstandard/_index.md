@@ -1,14 +1,14 @@
 ---
-title: Class AttributeOwnerStandard
-second_title: Aspose.PDF for .NET API Reference
-description: AttributoProprietarioStandard class. Rappresenta i Proprietari Standard degli Attributi
+title: "Classe AttributeOwnerStandard"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.LogicalStructure.AttributeOwnerStandard. Rappresenta i proprietari di attributi standard"
 type: docs
-weight: 6230
+weight: 6370
 url: /it/net/aspose.pdf.logicalstructure/attributeownerstandard/
 ---
-## Classe AttributeOwnerStandard
+## AttributeOwnerStandard class
 
-Rappresenta i Proprietari di Attributi Standard.
+Rappresenta i proprietari di attributi standard.
 
 ```csharp
 public sealed class AttributeOwnerStandard
@@ -18,7 +18,7 @@ public sealed class AttributeOwnerStandard
 
 | Nome | Descrizione |
 | --- | --- |
-| [Owner](../../aspose.pdf.logicalstructure/attributeownerstandard/owner/) { get; } | Ottiene il Proprietario dell'Attributo. |
+| [Owner](../../aspose.pdf.logicalstructure/attributeownerstandard/owner/) { get; } | Ottieni il proprietario dell'attributo. |
 
 ## Metodi
 
@@ -36,14 +36,16 @@ public sealed class AttributeOwnerStandard
 | static readonly [Html_320](../../aspose.pdf.logicalstructure/attributeownerstandard/html_320/) | Proprietario dell'attributo HTML-3.20. |
 | static readonly [Html_401](../../aspose.pdf.logicalstructure/attributeownerstandard/html_401/) | Proprietario dell'attributo HTML-4.01. |
 | static readonly [Layout](../../aspose.pdf.logicalstructure/attributeownerstandard/layout/) | Proprietario dell'attributo Layout. |
-| static readonly [List](../../aspose.pdf.logicalstructure/attributeownerstandard/list/) | Proprietario dell'attributo Lista. |
+| static readonly [List](../../aspose.pdf.logicalstructure/attributeownerstandard/list/) | Proprietario dell'attributo List. |
 | static readonly [Oeb_100](../../aspose.pdf.logicalstructure/attributeownerstandard/oeb_100/) | Proprietario dell'attributo OEB-1.00. |
 | static readonly [PrintField](../../aspose.pdf.logicalstructure/attributeownerstandard/printfield/) | Proprietario dell'attributo PrintField. |
 | static readonly [Rtf_105](../../aspose.pdf.logicalstructure/attributeownerstandard/rtf_105/) | Proprietario dell'attributo RTF-1.05. |
-| static readonly [Table](../../aspose.pdf.logicalstructure/attributeownerstandard/table/) | Proprietario dell'attributo Tabella. |
+| static readonly [Table](../../aspose.pdf.logicalstructure/attributeownerstandard/table/) | Proprietario dell'attributo Table. |
 | static readonly [Xml_100](../../aspose.pdf.logicalstructure/attributeownerstandard/xml_100/) | Proprietario dell'attributo XML-1.0.0. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

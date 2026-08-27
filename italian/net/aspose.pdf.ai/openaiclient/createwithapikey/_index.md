@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.CreateWithApiKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Crea una nuova istanza del Builder con la chiave API fornita.
+title: "OpenAIClient.CreateWithApiKey"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Crea una nuova istanza di Builder con la chiave API fornita"
 type: docs
-weight: 510
+weight: 520
 url: /it/net/aspose.pdf.ai/openaiclient/createwithapikey/
 ---
-## Metodo OpenAIClient.CreateWithApiKey
+## OpenAIClient.CreateWithApiKey method
 
 Crea una nuova istanza di [`Builder`](../../openaiclient.builder/) con la chiave API fornita.
 
@@ -24,7 +24,9 @@ Un'istanza di [`Builder`](../../openaiclient.builder/).
 
 ### Vedi anche
 
-* classe [Builder](../../openaiclient.builder/)
-* classe [OpenAIClient](../)
+* class [Builder](../../openaiclient.builder/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

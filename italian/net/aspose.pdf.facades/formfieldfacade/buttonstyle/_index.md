@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.ButtonStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di FormFieldFacade. Lo stile del campo della casella di controllo o della casella radio definito da FormFieldFacade.CheckBoxStyle
+title: "FormFieldFacade.ButtonStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade proprietà. Lo stile del campo casella di controllo o radio definito da FormFieldFacade.CheckBoxStyle"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.facades/formfieldfacade/buttonstyle/
 ---
-## Proprietà FormFieldFacade.ButtonStyle
+## FormFieldFacade.ButtonStyle property
 
-Lo stile del campo della casella di controllo o della casella radio, definito da FormFieldFacade.CheckBoxStyle*.
+Lo stile di un campo casella di controllo o pulsante radio, definito da FormFieldFacade.CheckBoxStyle*.
 
 ```csharp
 public int ButtonStyle { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

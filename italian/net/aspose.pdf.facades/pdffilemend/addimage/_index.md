@@ -1,7 +1,7 @@
 ---
-title: PdfFileMend.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileMend. Aggiunge un'immagine alla pagina specificata del documento PDF alle coordinate specificate
+title: "PdfFileMend.AddImage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileMend. Aggiunge un'immagine alla pagina specificata del documento PDF alle coordinate specificate."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/pdffilemend/addimage/
@@ -17,16 +17,16 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| imageStream | Stream | Stream dell'immagine di input. |
+| imageStream | Stream | Flusso di immagine in ingresso. |
 | pageNum | Int32 | Il numero della pagina che riceverà l'immagine. |
-| lowerLeftX | Single | La coordinata x in basso a sinistra del rettangolo dell'immagine. |
-| lowerLeftY | Single | La coordinata y in basso a sinistra del rettangolo dell'immagine. |
-| upperRightX | Single | La coordinata x in alto a destra del rettangolo dell'immagine. |
-| upperRightY | Single | La coordinata y in alto a destra del rettangolo dell'immagine. |
+| lowerLeftX | Single | L'asse x in basso a sinistra del rettangolo dell'immagine. |
+| lowerLeftY | Single | L'asse y in basso a sinistra del rettangolo dell'immagine. |
+| upperRightX | Single | L'asse x in alto a destra del rettangolo dell'immagine. |
+| upperRightY | Single | L'asse y in alto a destra del rettangolo dell'immagine. |
 
 ### Valore di ritorno
 
-True se ha successo, false altrimenti.
+Vero se ha successo, falso altrimenti.
 
 ## Esempi
 
@@ -41,7 +41,7 @@ mendor.Close();
 
 ### Vedi anche
 
-* classe [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,17 +58,17 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| imageStream | Stream | Stream dell'immagine di input. |
+| imageStream | Stream | Flusso di immagine in ingresso. |
 | pageNum | Int32 | Il numero della pagina che riceverà l'immagine. |
-| lowerLeftX | Single | La coordinata x in basso a sinistra del rettangolo dell'immagine. |
-| lowerLeftY | Single | La coordinata y in basso a sinistra del rettangolo dell'immagine. |
-| upperRightX | Single | La coordinata x in alto a destra del rettangolo dell'immagine. |
-| upperRightY | Single | La coordinata y in alto a destra del rettangolo dell'immagine. |
+| lowerLeftX | Single | L'asse x in basso a sinistra del rettangolo dell'immagine. |
+| lowerLeftY | Single | L'asse y in basso a sinistra del rettangolo dell'immagine. |
+| upperRightX | Single | L'asse x in alto a destra del rettangolo dell'immagine. |
+| upperRightY | Single | L'asse y in alto a destra del rettangolo dell'immagine. |
 | compositingParameters | CompositingParameters | I parametri di composizione grafica per l'immagine. |
 
 ### Valore di ritorno
 
-True se ha successo, false altrimenti.
+Vero se ha successo, falso altrimenti.
 
 ## Esempi
 
@@ -83,8 +83,8 @@ mendor.Close();
 
 ### Vedi anche
 
-* classe [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* classe [PdfFileMend](../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -101,16 +101,16 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| imageStream | Stream | Stream dell'immagine di input. |
-| pageNums | Int32[] | I numeri delle pagine che riceveranno l'immagine. |
-| lowerLeftX | Single | La coordinata x in basso a sinistra del rettangolo dell'immagine. |
-| lowerLeftY | Single | La coordinata y in basso a sinistra del rettangolo dell'immagine. |
-| upperRightX | Single | La coordinata x in alto a destra del rettangolo dell'immagine. |
-| upperRightY | Single | La coordinata y in alto a destra del rettangolo dell'immagine. |
+| imageStream | Stream | Flusso di immagine in ingresso. |
+| pageNums | Int32[] | Il numero di pagine che riceveranno l'immagine. |
+| lowerLeftX | Single | L'asse x in basso a sinistra del rettangolo dell'immagine. |
+| lowerLeftY | Single | L'asse y in basso a sinistra del rettangolo dell'immagine. |
+| upperRightX | Single | L'asse x in alto a destra del rettangolo dell'immagine. |
+| upperRightY | Single | L'asse y in alto a destra del rettangolo dell'immagine. |
 
 ### Valore di ritorno
 
-True se ha successo, false altrimenti.
+Vero se ha successo, falso altrimenti.
 
 ## Esempi
 
@@ -125,7 +125,7 @@ mendor.Close();
 
 ### Vedi anche
 
-* classe [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -142,17 +142,17 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| imageStream | Stream | Stream dell'immagine di input. |
-| pageNums | Int32[] | I numeri delle pagine che riceveranno l'immagine. |
-| lowerLeftX | Single | La coordinata x in basso a sinistra del rettangolo dell'immagine. |
-| lowerLeftY | Single | La coordinata y in basso a sinistra del rettangolo dell'immagine. |
-| upperRightX | Single | La coordinata x in alto a destra del rettangolo dell'immagine. |
-| upperRightY | Single | La coordinata y in alto a destra del rettangolo dell'immagine. |
+| imageStream | Stream | Flusso di immagine in ingresso. |
+| pageNums | Int32[] | Il numero di pagine che riceveranno l'immagine. |
+| lowerLeftX | Single | L'asse x in basso a sinistra del rettangolo dell'immagine. |
+| lowerLeftY | Single | L'asse y in basso a sinistra del rettangolo dell'immagine. |
+| upperRightX | Single | L'asse x in alto a destra del rettangolo dell'immagine. |
+| upperRightY | Single | L'asse y in alto a destra del rettangolo dell'immagine. |
 | compositingParameters | CompositingParameters | I parametri di composizione grafica per le immagini. |
 
 ### Valore di ritorno
 
-True se ha successo, false altrimenti.
+Vero se ha successo, falso altrimenti.
 
 ## Esempi
 
@@ -167,8 +167,8 @@ mendor.Close();
 
 ### Vedi anche
 
-* classe [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* classe [PdfFileMend](../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -187,14 +187,14 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 | --- | --- | --- |
 | imageName | String | Il percorso del file immagine di input. |
 | pageNum | Int32 | Il numero della pagina che riceverà l'immagine. |
-| lowerLeftX | Single | La coordinata x in basso a sinistra del rettangolo dell'immagine. |
-| lowerLeftY | Single | La coordinata y in basso a sinistra del rettangolo dell'immagine. |
-| upperRightX | Single | La coordinata x in alto a destra del rettangolo dell'immagine. |
-| upperRightY | Single | La coordinata y in alto a destra del rettangolo dell'immagine. |
+| lowerLeftX | Single | L'asse x in basso a sinistra del rettangolo dell'immagine. |
+| lowerLeftY | Single | L'asse y in basso a sinistra del rettangolo dell'immagine. |
+| upperRightX | Single | L'asse x in alto a destra del rettangolo dell'immagine. |
+| upperRightY | Single | L'asse y in alto a destra del rettangolo dell'immagine. |
 
 ### Valore di ritorno
 
-True se ha successo, false altrimenti.
+Vero se ha successo, falso altrimenti.
 
 ## Esempi
 
@@ -206,7 +206,7 @@ mendor.Close();
 
 ### Vedi anche
 
-* classe [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -225,15 +225,15 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 | --- | --- | --- |
 | imageName | String | Il percorso del file immagine di input. |
 | pageNum | Int32 | Il numero della pagina che riceverà l'immagine. |
-| lowerLeftX | Single | La coordinata x in basso a sinistra del rettangolo dell'immagine. |
-| lowerLeftY | Single | La coordinata y in basso a sinistra del rettangolo dell'immagine. |
-| upperRightX | Single | La coordinata x in alto a destra del rettangolo dell'immagine. |
-| upperRightY | Single | La coordinata y in alto a destra del rettangolo dell'immagine. |
+| lowerLeftX | Single | L'asse x in basso a sinistra del rettangolo dell'immagine. |
+| lowerLeftY | Single | L'asse y in basso a sinistra del rettangolo dell'immagine. |
+| upperRightX | Single | L'asse x in alto a destra del rettangolo dell'immagine. |
+| upperRightY | Single | L'asse y in alto a destra del rettangolo dell'immagine. |
 | compositingParameters | CompositingParameters | I parametri di composizione grafica per le immagini. |
 
 ### Valore di ritorno
 
-True se ha successo, false altrimenti.
+Vero se ha successo, falso altrimenti.
 
 ## Esempi
 
@@ -245,8 +245,8 @@ mendor.Close();
 
 ### Vedi anche
 
-* classe [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* classe [PdfFileMend](../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -264,15 +264,15 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | imageName | String | Il percorso del file immagine di input. |
-| pageNums | Int32[] | I numeri delle pagine che riceveranno l'immagine. |
-| lowerLeftX | Single | La coordinata x in basso a sinistra del rettangolo dell'immagine. |
-| lowerLeftY | Single | La coordinata y in basso a sinistra del rettangolo dell'immagine. |
-| upperRightX | Single | La coordinata x in alto a destra del rettangolo dell'immagine. |
-| upperRightY | Single | La coordinata y in alto a destra del rettangolo dell'immagine. |
+| pageNums | Int32[] | Il numero di pagine che riceveranno l'immagine. |
+| lowerLeftX | Single | L'asse x in basso a sinistra del rettangolo dell'immagine. |
+| lowerLeftY | Single | L'asse y in basso a sinistra del rettangolo dell'immagine. |
+| upperRightX | Single | L'asse x in alto a destra del rettangolo dell'immagine. |
+| upperRightY | Single | L'asse y in alto a destra del rettangolo dell'immagine. |
 
 ### Valore di ritorno
 
-True se ha successo, false altrimenti.
+Vero se ha successo, falso altrimenti.
 
 ## Esempi
 
@@ -284,7 +284,7 @@ mendor.Close();
 
 ### Vedi anche
 
-* classe [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -302,16 +302,16 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | imageName | String | Il percorso del file immagine di input. |
-| pageNums | Int32[] | I numeri delle pagine che riceveranno l'immagine. |
-| lowerLeftX | Single | La coordinata x in basso a sinistra del rettangolo dell'immagine. |
-| lowerLeftY | Single | La coordinata y in basso a sinistra del rettangolo dell'immagine. |
-| upperRightX | Single | La coordinata x in alto a destra del rettangolo dell'immagine. |
-| upperRightY | Single | La coordinata y in alto a destra del rettangolo dell'immagine. |
+| pageNums | Int32[] | Il numero di pagine che riceveranno l'immagine. |
+| lowerLeftX | Single | L'asse x in basso a sinistra del rettangolo dell'immagine. |
+| lowerLeftY | Single | L'asse y in basso a sinistra del rettangolo dell'immagine. |
+| upperRightX | Single | L'asse x in alto a destra del rettangolo dell'immagine. |
+| upperRightY | Single | L'asse y in alto a destra del rettangolo dell'immagine. |
 | compositingParameters | CompositingParameters | I parametri di composizione grafica per le immagini. |
 
 ### Valore di ritorno
 
-True se ha successo, false altrimenti.
+Vero se ha successo, falso altrimenti.
 
 ## Esempi
 
@@ -323,7 +323,9 @@ mendor.Close();
 
 ### Vedi anche
 
-* classe [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* classe [PdfFileMend](../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

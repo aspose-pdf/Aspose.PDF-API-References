@@ -1,12 +1,12 @@
 ---
-title: PdfBookmarkEditor.ExportBookmarksToHtml
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfBookmarkEditor. Esporta i segnalibri in un file HTML
+title: "PdfBookmarkEditor.ExportBookmarksToHtml"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfBookmarkEditor. Esporta i segnalibri in un file HTML"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml/
 ---
-## Metodo PdfBookmarkEditor.ExportBookmarksToHtml
+## PdfBookmarkEditor.ExportBookmarksToHtml method
 
 Esporta i segnalibri in un file HTML.
 
@@ -16,7 +16,7 @@ public static void ExportBookmarksToHtml(string inPdfFile, string outHtmlFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inPdfFile | String | File PDF di input da cui verranno esportati i segnalibri. |
+| inPdfFile | String | File PDF di input i cui segnalibri verranno esportati. |
 | outHtmlFile | String | File HTML di output |
 
 ## Esempi
@@ -25,8 +25,10 @@ public static void ExportBookmarksToHtml(string inPdfFile, string outHtmlFile)
 PdfBookmarkEditor.ExtractBookmarksToHTML("example.pdf", "bookmarks.html");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

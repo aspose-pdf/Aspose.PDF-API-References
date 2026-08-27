@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HorizontalAlignment. Ottiene o imposta le impostazioni di allineamento a destra
+title: "HeaderFooterSettings.HorizontalAlignment.Right"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà HorizontalAlignment. Ottiene o imposta le impostazioni di allineamento a destra."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/headerfootersettings.horizontalalignment/right/
 ---
-## Proprietà HeaderFooterSettings.HorizontalAlignment.Right
+## HeaderFooterSettings.HorizontalAlignment.Right property
 
 Ottiene o imposta le impostazioni di allineamento a destra.
 
@@ -14,9 +14,11 @@ Ottiene o imposta le impostazioni di allineamento a destra.
 public Right Right { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Right](../../right/)
-* classe [HorizontalAlignment](../)
+* class [Right](../../right/)
+* class [HorizontalAlignment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

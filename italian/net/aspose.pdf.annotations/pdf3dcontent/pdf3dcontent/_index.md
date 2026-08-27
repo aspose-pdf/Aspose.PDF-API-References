@@ -1,7 +1,7 @@
 ---
-title: PDF3DContent.PDF3DContent
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore PDF3DContent. Inizializza una nuova istanza della classe PDF3DContent
+title: "PDF3DContent.PDF3DContent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PDF3DContent. Inizializza una nuova istanza della classe PDF3DContent"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/pdf3dcontent/pdf3dcontent/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`PDF3DContent`](../).
 public PDF3DContent()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,16 +32,18 @@ public PDF3DContent(string filename)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filename | String | Il nome del file. |
+| filename | String | Il nome file. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentException | Tipo di opera d'arte 3D sconosciuto |
+| ArgumentException | Tipo di Artwork 3D sconosciuto |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

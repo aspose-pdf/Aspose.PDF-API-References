@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Reason
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignOptions. Il motivo della firma
+title: "SignOptions.Reason"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignOptions. Il motivo della firma"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.plugins/signoptions/reason/
 ---
-## Proprietà SignOptions.Reason
+## SignOptions.Reason property
 
 Il motivo della firma.
 
@@ -14,8 +14,10 @@ Il motivo della firma.
 public string Reason { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignOptions](../)
+* class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

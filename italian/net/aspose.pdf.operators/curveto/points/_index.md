@@ -1,12 +1,12 @@
 ---
-title: CurveTo.Points
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CurveTo. Punti della curva
+title: "CurveTo.Points"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CurveTo. Punti della curva"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/curveto/points/
 ---
-## Proprietà CurveTo.Points
+## CurveTo.Points property
 
 Punti della curva.
 
@@ -14,9 +14,11 @@ Punti della curva.
 public Point[] Points { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [CurveTo](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [CurveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

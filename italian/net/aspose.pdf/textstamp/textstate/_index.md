@@ -1,22 +1,24 @@
 ---
-title: TextStamp.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextStamp. Ottiene le proprietà del testo del timbro. Vedi TextState per dettagli
+title: "TextStamp.TextState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextStamp. Restituisce le proprietà testuali del timbro. Vedi TextState per i dettagli"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/textstamp/textstate/
 ---
-## Proprietà TextStamp.TextState
+## TextStamp.TextState property
 
-Ottiene le proprietà del testo del timbro. Vedi `TextState` per dettagli.
+Restituisce le proprietà testuali del timbro. Vedi `TextState` per i dettagli.
 
 ```csharp
 public TextState TextState { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [TextStamp](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

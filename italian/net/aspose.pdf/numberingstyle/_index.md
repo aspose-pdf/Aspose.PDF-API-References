@@ -1,14 +1,14 @@
 ---
-title: Enum NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum di Aspose.Pdf.NumberingStyle. Enumerazione degli stili di numerazione delle pagine supportati per la classe PageLabel
+title: "Enum NumberingStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.NumberingStyle enum. Enumerazione degli stili di numerazione di pagina supportati per la classe PageLabel"
 type: docs
-weight: 7030
+weight: 7170
 url: /it/net/aspose.pdf/numberingstyle/
 ---
-## Enumerazione NumberingStyle
+## NumberingStyle enumeration
 
-Enumerazione degli stili di numerazione delle pagine supportati per la classe PageLabel.
+Enumerazione degli stili di numerazione di pagina supportati per la classe PageLabel.
 
 ```csharp
 public enum NumberingStyle
@@ -25,7 +25,9 @@ public enum NumberingStyle
 | LettersLowercase | `4` | Lettere latine minuscole (a, b, c...). |
 | None | `5` | Nessuna numerazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionValueType.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XmpPdfAExtensionValueType. Aggiungi nuovo campo
+title: "XmpPdfAExtensionValueType.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "XmpPdfAExtensionValueType metodo. Aggiunge un nuovo campo"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/xmppdfaextensionvaluetype/add/
 ---
-## Metodo XmpPdfAExtensionValueType.Add
+## XmpPdfAExtensionValueType.Add method
 
-Aggiungi nuovo campo.
+Aggiungi un nuovo campo.
 
 ```csharp
 public void Add(XmpPdfAExtensionField field)
@@ -16,11 +16,13 @@ public void Add(XmpPdfAExtensionField field)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| field | XmpPdfAExtensionField | Il campo da aggiungere. |
+| campo | XmpPdfAExtensionField | Il campo da aggiungere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* classe [XmpPdfAExtensionValueType](../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

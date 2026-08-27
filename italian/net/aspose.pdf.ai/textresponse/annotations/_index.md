@@ -1,12 +1,12 @@
 ---
-title: TextResponse.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextResponse. Ottiene o imposta un elenco di annotazioni per il messaggio
+title: "TextResponse.Annotations"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "TextResponse proprietà. Ottiene o imposta un elenco di annotazioni per il messaggio"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/textresponse/annotations/
 ---
-## Proprietà TextResponse.Annotations
+## TextResponse.Annotations property
 
 Ottiene o imposta un elenco di annotazioni per il messaggio.
 
@@ -14,9 +14,11 @@ Ottiene o imposta un elenco di annotazioni per il messaggio.
 public List<Annotation> Annotations { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Annotation](../../annotation/)
-* classe [TextResponse](../)
+* class [Annotation](../../annotation/)
+* class [TextResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

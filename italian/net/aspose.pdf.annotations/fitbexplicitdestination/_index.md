@@ -1,14 +1,14 @@
 ---
-title: Class FitBExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.FitBExplicitDestination. Rappresenta una destinazione esplicita che visualizza la pagina con i suoi contenuti ingranditi giusto abbastanza per adattare completamente il suo riquadro all'interno della finestra sia orizzontalmente che verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due centrando il riquadro all'interno della finestra nell'altra dimensione.
+title: "Classe FitBExplicitDestination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Annotations.FitBExplicitDestination. Rappresenta una destinazione esplicita che visualizza la pagina con i suoi contenuti ingranditi appena a sufficienza per far rientrare interamente il suo riquadro di delimitazione nella finestra sia orizzontalmente sia verticalmente. Se i fattori di ingrandimento orizzontali e verticali richiesti sono diversi, utilizzare il più piccolo dei due centrando il riquadro di delimitazione nella finestra nell'altra dimensione."
 type: docs
-weight: 1730
+weight: 1820
 url: /it/net/aspose.pdf.annotations/fitbexplicitdestination/
 ---
-## Classe FitBExplicitDestination
+## FitBExplicitDestination class
 
-Rappresenta una destinazione esplicita che visualizza la pagina con i suoi contenuti ingranditi giusto abbastanza per adattare completamente il suo riquadro all'interno della finestra sia orizzontalmente che verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due, centrando il riquadro all'interno della finestra nell'altra dimensione.
+Rappresenta una destinazione esplicita che visualizza la pagina con i suoi contenuti ingranditi appena a sufficienza per far entrare interamente la sua area di delimitazione nella finestra sia orizzontalmente sia verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due, centrando l'area di delimitazione nella finestra nell'altra dimensione.
 
 ```csharp
 public sealed class FitBExplicitDestination : ExplicitDestination
@@ -32,10 +32,12 @@ public sealed class FitBExplicitDestination : ExplicitDestination
 
 | Nome | Descrizione |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitbexplicitdestination/tostring/)() | Converte lo stato dell'oggetto in un valore stringa. Esempio: "1 FitB". |
+| override [ToString](../../aspose.pdf.annotations/fitbexplicitdestination/tostring/)() | Converte lo stato dell'oggetto in valore stringa. Esempio: "1 FitB". |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ExplicitDestination](../explicitdestination/)
+* class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AttributeName.TextDecorationType_Overline
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute TextDecorationType Overline  A line above the text
+title: "AttributeName.TextDecorationType_Overline"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo AttributeName. Attributo TextDecorationType Overline  Una linea sopra il testo"
 type: docs
 weight: 610
 url: /it/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_overline/
 ---
-## Campo AttributeName.TextDecorationType_Overline
+## AttributeName.TextDecorationType_Overline field
 
 Attributo TextDecorationType: Overline - Una linea sopra il testo.
 
@@ -14,8 +14,10 @@ Attributo TextDecorationType: Overline - Una linea sopra il testo.
 public static readonly AttributeName TextDecorationType_Overline;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

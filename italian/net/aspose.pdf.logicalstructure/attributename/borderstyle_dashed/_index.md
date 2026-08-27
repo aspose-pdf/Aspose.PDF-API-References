@@ -1,12 +1,12 @@
 ---
-title: AttributeName.BorderStyle_Dashed
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Attributo BorderStyle Spazzolato. La bordura è una serie di breve segmenti lineari.
+title: "AttributeName.BorderStyle_Dashed"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName campo. Attributo BorderStyle Dashed  Il bordo è una serie di brevi segmenti di linea"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.logicalstructure/attributename/borderstyle_dashed/
 ---
-## Campo AttributeName.BorderStyle_Dashed
+## AttributeName.BorderStyle_Dashed field
 
 Attributo BorderStyle: Dashed - Il bordo è una serie di brevi segmenti di linea.
 
@@ -14,8 +14,10 @@ Attributo BorderStyle: Dashed - Il bordo è una serie di brevi segmenti di linea
 public static readonly AttributeName BorderStyle_Dashed;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

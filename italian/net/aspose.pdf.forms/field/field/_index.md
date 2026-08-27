@@ -1,14 +1,14 @@
 ---
-title: Field.Field
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di Field. Crea un campo da utilizzare in Generator
+title: "Field.Field"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Field. Crea un campo da utilizzare in Generator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/field/field/
 ---
-## Costruttore di Field
+## Field constructor
 
-Crea un campo da utilizzare in Generator.
+Crea un campo da utilizzare nel Generatore.
 
 ```csharp
 public Field(Document doc)
@@ -16,11 +16,13 @@ public Field(Document doc)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Documento in cui verrà creato il campo. |
+| doc | Document | Document dove verrà creato il campo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Field](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

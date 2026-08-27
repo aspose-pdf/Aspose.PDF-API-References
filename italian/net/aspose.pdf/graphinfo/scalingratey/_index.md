@@ -1,21 +1,23 @@
 ---
-title: GraphInfo.ScalingRateY
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GraphInfo. Ottiene o imposta un valore float che indica il tasso di scalatura della coordinata y durante la trasformazione di un sistema di coordinate
+title: "GraphInfo.ScalingRateY"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GraphInfo. Ottiene o imposta un valore float che indica il fattore di scala della coordinata y durante la trasformazione di un sistema di coordinate"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/graphinfo/scalingratey/
 ---
-## Proprietà GraphInfo.ScalingRateY
+## GraphInfo.ScalingRateY property
 
-Ottiene o imposta un valore float che indica il tasso di scalatura della coordinata y durante la trasformazione di un sistema di coordinate.
+Ottiene o imposta un valore float che indica il fattore di scala della coordinata y durante la trasformazione di un sistema di coordinate.
 
 ```csharp
 public double ScalingRateY { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphInfo](../)
+* class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

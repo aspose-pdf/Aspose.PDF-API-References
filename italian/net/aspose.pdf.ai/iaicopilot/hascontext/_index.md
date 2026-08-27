@@ -1,21 +1,23 @@
 ---
-title: IAICopilot.HasContext
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di IAICopilot. Ottiene un valore che indica se il copilot ha contesto
+title: "IAICopilot.HasContext"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "IAICopilot proprietà. Restituisce un valore che indica se il copilot ha contesto"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/iaicopilot/hascontext/
 ---
-## Proprietà IAICopilot.HasContext
+## IAICopilot.HasContext property
 
-Ottiene un valore che indica se il copilot ha contesto.
+Restituisce un valore che indica se il copilota ha il contesto.
 
 ```csharp
 public bool HasContext { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IAICopilot](../)
+* interface [IAICopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextDocument.TextDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TextDocument. Il costruttore predefinito
+title: "TextDocument.TextDocument"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "TextDocument costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/textdocument/textdocument/
 ---
-## Costruttore di TextDocument
+## TextDocument constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public TextDocument()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextDocument](../)
+* class [TextDocument](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

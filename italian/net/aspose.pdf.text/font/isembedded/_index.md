@@ -1,14 +1,14 @@
 ---
-title: Font.IsEmbedded
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Font. Ottiene o imposta un valore che indica se il font è incorporato. I font basati su IFont verranno automaticamente suddivisi e incorporati
+title: "Font.IsEmbedded"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Font. Ottiene o imposta un valore che indica se il carattere è incorporato. Font basato su IFont verrà automaticamente sottoposto a subset e incorporato"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/font/isembedded/
 ---
-## Proprietà Font.IsEmbedded
+## Font.IsEmbedded property
 
-Ottiene o imposta un valore che indica se il font è incorporato. I font basati su IFont verranno automaticamente suddivisi e incorporati
+Restituisce o imposta un valore che indica se il font è incorporato. Un font basato su IFont verrà automaticamente sottoposto a subset e incorporato.
 
 ```csharp
 public bool IsEmbedded { get; set; }
@@ -16,33 +16,35 @@ public bool IsEmbedded { get; set; }
 
 ## Esempi
 
-Il seguente esempio dimostra come trovare un font, marcarlo come incorporato, cercare testo nella pagina del documento e sostituire il font del testo.
+Il seguente esempio dimostra come trovare un carattere, contrassegnarlo come incorporato, cercare testo nella pagina del documento e sostituire il carattere del testo.
 
 ```csharp
-// Create font and mark it to be embedded
+// Crea un font e contrassegnalo per l'incorporamento
 Font font = FontRepository.FindFont("Arial");
 font.IsEmbedded = true;
 
-// open document
+// apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// create TextFragmentAbsorber object to find all "hello world" text occurrences
+// crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze di testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-// accept the absorber for first page
+// accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// change font for the first text occurrence
+// cambia il carattere per la prima occorrenza di testo
 absorber.TextFragments[1].TextState.Font = font;
 
-// save document
+// salva il Document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [FontRepository](../../fontrepository/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Font](../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [FontRepository](../../fontrepository/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

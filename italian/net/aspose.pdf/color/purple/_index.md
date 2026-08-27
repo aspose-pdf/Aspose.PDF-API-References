@@ -1,12 +1,12 @@
 ---
-title: Color.Purple
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF800080
+title: "Color.Purple"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema che ha un valore ARGB di c FF800080"
 type: docs
 weight: 1140
 url: /it/net/aspose.pdf/color/purple/
 ---
-## Proprietà Color.Purple
+## Color.Purple property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF800080.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF800080.
 public static Color Purple { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

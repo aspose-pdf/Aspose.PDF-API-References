@@ -1,7 +1,7 @@
 ---
-title: LlamaSummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo LlamaSummaryCopilotOptions. Crea una nuova istanza di LlamaSummaryCopilotOptions
+title: "LlamaSummaryCopilotOptions.Create"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo LlamaSummaryCopilotOptions. Crea una nuova istanza di LlamaSummaryCopilotOptions"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/llamasummarycopilotoptions/create/
@@ -14,13 +14,13 @@ Crea una nuova istanza di [`LlamaSummaryCopilotOptions`](../).
 public static LlamaSummaryCopilotOptions Create()
 ```
 
-### Return Value
+### Valore di ritorno
 
 Una nuova istanza di [`LlamaSummaryCopilotOptions`](../).
 
-### See Also
+### Vedi anche
 
-* classe [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ Una nuova istanza di [`LlamaSummaryCopilotOptions`](../).
 
 ## Create(Action&lt;LlamaSummaryCopilotOptions&gt;) {#create_1}
 
-Crea un'istanza di [`LlamaSummaryCopilotOptions`](../) e la configura utilizzando il delegato fornito.
+Crea un'istanza di [`LlamaSummaryCopilotOptions`](../) e la configura usando il delegato fornito.
 
 ```csharp
 public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
@@ -36,14 +36,16 @@ public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOption
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| config | Action`1 | Il delegato per configurare le opzioni. |
+| configurazione | Action`1 | Il delegato per configurare le opzioni. |
 
-### Return Value
+### Valore di ritorno
 
 L'istanza configurata di [`LlamaSummaryCopilotOptions`](../).
 
-### See Also
+### Vedi anche
 
-* classe [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

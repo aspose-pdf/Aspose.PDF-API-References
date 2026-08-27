@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.GetAttachmentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfExtractor. Ottiene la lista degli allegati.
+title: "PdfExtractor.GetAttachmentInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfExtractor method. Ottiene l'elenco degli allegati"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.facades/pdfextractor/getattachmentinfo/
 ---
-## Metodo PdfExtractor.GetAttachmentInfo
+## PdfExtractor.GetAttachmentInfo method
 
 Ottiene l'elenco degli allegati.
 
@@ -14,13 +14,15 @@ Ottiene l'elenco degli allegati.
 public List<FileSpecification> GetAttachmentInfo()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Restituisce un List&lt;FileSpecificatio&gt;&gt;.
+Restituisce una List&lt;FileSpecificatio&gt;&gt;.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSpecification](../../../aspose.pdf/filespecification/)
-* classe [PdfExtractor](../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

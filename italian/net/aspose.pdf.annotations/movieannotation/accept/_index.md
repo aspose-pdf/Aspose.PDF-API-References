@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo MovieAnnotation. Accetta un oggetto visitatore per elaborare l'annotazione
+title: "MovieAnnotation.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo MovieAnnotation. Accetta un oggetto visitor per elaborare l'annotazione"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.annotations/movieannotation/accept/
 ---
-## Metodo MovieAnnotation.Accept
+## MovieAnnotation.Accept method
 
-Accetta un oggetto visitatore per elaborare l'annotazione.
+Accetta un oggetto visitor per elaborare l'annotazione.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Oggetto visitatore. |
+| visitatore | AnnotationSelector | Oggetto visitor. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AnnotationSelector](../../annotationselector/)
-* classe [MovieAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

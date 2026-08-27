@@ -1,21 +1,23 @@
 ---
-title: TextShowOperator.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextShowOperator. Ottiene il testo che l'operatore visualizza sulla pagina
+title: "TextShowOperator.Text"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextShowOperator. Ottiene il testo che l'operatore stampa sulla pagina"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/textshowoperator/text/
 ---
-## Proprietà TextShowOperator.Text
+## TextShowOperator.Text property
 
-Ottiene il testo che l'operatore visualizza sulla pagina.
+Ottiene il testo che l'operatore restituisce sulla pagina.
 
 ```csharp
 public virtual string Text { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextShowOperator](../)
+* class [TextShowOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

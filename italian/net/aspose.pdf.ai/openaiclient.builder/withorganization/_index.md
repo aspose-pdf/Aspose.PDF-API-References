@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.Builder.WithOrganization
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo builder. Imposta l'ID dell'organizzazione per il client
+title: "OpenAIClient.Builder.WithOrganization"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Builder. Imposta l'ID dell'organizzazione per il client"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/openaiclient.builder/withorganization/
 ---
-## Metodo OpenAIClient.Builder.WithOrganization
+## OpenAIClient.Builder.WithOrganization method
 
 Imposta l'ID dell'organizzazione per il client.
 
@@ -24,6 +24,8 @@ L'istanza corrente di [`Builder`](../).
 
 ### Vedi anche
 
-* classe [Builder](../)
+* class [Builder](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

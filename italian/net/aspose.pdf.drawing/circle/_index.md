@@ -1,12 +1,12 @@
 ---
-title: Class Circle
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Drawing.Circle. Rappresenta un cerchio
+title: "Classe Circle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Drawing.Circle. Rappresenta un cerchio"
 type: docs
-weight: 3890
+weight: 4010
 url: /it/net/aspose.pdf.drawing/circle/
 ---
-## Classe Cerchio
+## Circle class
 
 Rappresenta un cerchio.
 
@@ -24,7 +24,7 @@ public sealed class Circle : Shape
 
 | Nome | Descrizione |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Ottiene o imposta un oggetto [`GraphInfo`](../shape/graphinfo/) che indica le informazioni grafiche, come colore, larghezza della linea, ecc. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Ottiene o imposta un oggetto [`GraphInfo`](../shape/graphinfo/) che indica le informazioni del grafico, come colore, larghezza della linea, ecc. |
 | [PosX](../../aspose.pdf.drawing/circle/posx/) { get; set; } | Ottiene o imposta un valore float che indica la coordinata x del centro del cerchio. |
 | [PosY](../../aspose.pdf.drawing/circle/posy/) { get; set; } | Ottiene o imposta un valore float che indica la coordinata y del centro del cerchio. |
 | [Radius](../../aspose.pdf.drawing/circle/radius/) { get; set; } | Ottiene o imposta un valore float che indica il raggio del cerchio. |
@@ -36,8 +36,10 @@ public sealed class Circle : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/circle/checkbounds/)(double, double) |  |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Shape](../shape/)
+* class [Shape](../shape/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocumentInfo. Ottiene o imposta il titolo del documento
+title: "DocumentInfo.Title"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DocumentInfo. Ottiene o imposta il titolo del documento"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/documentinfo/title/
 ---
-## Proprietà DocumentInfo.Title
+## DocumentInfo.Title property
 
 Ottiene o imposta il titolo del documento.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il titolo del documento.
 public string Title { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PageSize.A5
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageSize. Dimensione A5 210x148 mm
+title: "PageSize.A5"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageSize. Formato A5 210x148 mm"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/pagesize/a5/
 ---
-## Proprietà PageSize.A5
+## PageSize.A5 property
 
-Dimensione A5 (210x148 mm).
+Formato A5 (210x148 mm).
 
 ```csharp
 public static PageSize A5 { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

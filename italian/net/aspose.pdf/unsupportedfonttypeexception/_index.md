@@ -1,14 +1,14 @@
 ---
-title: Class UnsupportedFontTypeException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.UnsupportedFontTypeException. L'eccezione che viene sollevata quando un tipo di carattere non è supportato
+title: "Classe UnsupportedFontTypeException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.UnsupportedFontTypeException classe. L'eccezione che viene generata quando un tipo di carattere non è supportato"
 type: docs
-weight: 11170
+weight: 11360
 url: /it/net/aspose.pdf/unsupportedfonttypeexception/
 ---
-## Classe UnsupportedFontTypeException
+## UnsupportedFontTypeException class
 
-L'eccezione che viene sollevata quando un tipo di carattere non è supportato.
+L'eccezione che viene generata quando un tipo di carattere non è supportato.
 
 ```csharp
 public sealed class UnsupportedFontTypeException : PdfException
@@ -22,8 +22,10 @@ public sealed class UnsupportedFontTypeException : PdfException
 | [UnsupportedFontTypeException](unsupportedfonttypeexception/#constructor_1)(string) | Inizializza una nuova istanza della classe `UnsupportedFontTypeException`. |
 | [UnsupportedFontTypeException](unsupportedfonttypeexception/#constructor_2)(string, Exception) | Inizializza una nuova istanza della classe `UnsupportedFontTypeException` con un messaggio di errore specificato e un riferimento all'eccezione interna che è la causa di questa eccezione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: XmpValue.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XmpValue. Restituisce la rappresentazione in stringa di XmpValue
+title: "XmpValue.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XmpValue. Restituisce la rappresentazione stringa di XmpValue"
 type: docs
 weight: 210
 url: /it/net/aspose.pdf/xmpvalue/tostring/
 ---
 ## ToString() {#tostring}
 
-Restituisce la rappresentazione in stringa di XmpValue.
+Restituisce la rappresentazione stringa di XmpValue.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Rappresentazione in stringa.
+Rappresentazione stringa.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ Rappresentazione in stringa.
 
 ## ToString(IFormatProvider) {#tostring_1}
 
-Restituisce la rappresentazione in stringa.
+Restituisce la rappresentazione stringa.
 
 ```csharp
 public string ToString(IFormatProvider formatProvider)
@@ -38,12 +38,14 @@ public string ToString(IFormatProvider formatProvider)
 | --- | --- | --- |
 | formatProvider | IFormatProvider | Fornitore di formato. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Rappresentazione in stringa.
+Rappresentazione stringa.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

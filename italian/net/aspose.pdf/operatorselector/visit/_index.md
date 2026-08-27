@@ -1,7 +1,7 @@
 ---
-title: OperatorSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OperatorSelector. Visita/seleziona l'operatore j
+title: "OperatorSelector.Visit"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OperatorSelector. Visita/seleziona l'operatore j"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/operatorselector/visit/
@@ -16,9 +16,9 @@ public void Visit(SetLineJoin j)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| j | SetLineJoin | Imposta lo stile di giunzione della linea. |
+| j | SetLineJoin | Operatore per impostare lo stile di unione delle linee. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
 * class [OperatorSelector](../)
@@ -39,7 +39,7 @@ public void Visit(EX EX)
 | --- | --- | --- |
 | EX | EX | Operatore di fine sezione di compatibilità. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [EX](../../../aspose.pdf.operators/ex/)
 * class [OperatorSelector](../)
@@ -60,7 +60,7 @@ public void Visit(ET ET)
 | --- | --- | --- |
 | ET | ET | Operatore di fine oggetto di testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ET](../../../aspose.pdf.operators/et/)
 * class [OperatorSelector](../)
@@ -81,7 +81,7 @@ public void Visit(EMC EMC)
 | --- | --- | --- |
 | EMC | EMC | Operatore di fine sequenza di contenuto marcato. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [EMC](../../../aspose.pdf.operators/emc/)
 * class [OperatorSelector](../)
@@ -100,9 +100,9 @@ public void Visit(EI EI)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| EI | EI | Operatore di fine immagine inline. |
+| EI | EI | Operatore di fine oggetto immagine inline. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [EI](../../../aspose.pdf.operators/ei/)
 * class [OperatorSelector](../)
@@ -121,9 +121,9 @@ public void Visit(DP DP)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| DP | DP | Definisci l'operatore di punto di contenuto marcato (con lista di proprietà). |
+| DP | DP | Operatore di definizione del punto di contenuto marcato (con elenco di proprietà). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [DP](../../../aspose.pdf.operators/dp/)
 * class [OperatorSelector](../)
@@ -142,9 +142,9 @@ public void Visit(Do Do)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| Do | Do | Invoca l'operatore XObject nominato. |
+| Do | Do | Operatore di invocazione di XObject nominato. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Do](../../../aspose.pdf.operators/do/)
 * class [OperatorSelector](../)
@@ -163,9 +163,9 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | Imposta la larghezza del glifo e il riquadro di delimitazione nell'operatore di font di Tipo 3. |
+| d1 | SetCharWidthBoundingBox | Operatore per impostare la larghezza del glifo e il riquadro di delimitazione nel font Type 3. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
 * class [OperatorSelector](../)
@@ -184,9 +184,9 @@ public void Visit(SetCharWidth d0)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| d0 | SetCharWidth | Imposta la larghezza del glifo nell'operatore di font di Tipo 3. |
+| d0 | SetCharWidth | Operatore per impostare la larghezza del glifo nel font Type 3. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
 * class [OperatorSelector](../)
@@ -205,9 +205,9 @@ public void Visit(SetDash d)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| d | SetDash | Imposta il modello di tratteggio della linea. |
+| d | SetDash | Operatore per impostare il modello di tratteggio della linea. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetDash](../../../aspose.pdf.operators/setdash/)
 * class [OperatorSelector](../)
@@ -226,9 +226,9 @@ public void Visit(SetColorSpaceStroke CS)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | Imposta l'operatore di spazio colore (per operazioni di tracciamento). |
+| CS | SetColorSpaceStroke | Operatore di spazio colore (per operazioni di tracciatura). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
 * class [OperatorSelector](../)
@@ -247,9 +247,9 @@ public void Visit(SetColorSpace cs)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| cs | SetColorSpace | Imposta l'operatore di spazio colore (per operazioni non di tracciamento). |
+| cs | SetColorSpace | Operatore di spazio colore (per operazioni senza tracciatura). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
 * class [OperatorSelector](../)
@@ -268,9 +268,9 @@ public void Visit(ConcatenateMatrix cm)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | Concatenare la matrice all'operatore della matrice di trasformazione corrente. |
+| cm | ConcatenateMatrix | Operatore per concatenare la matrice alla matrice di trasformazione corrente. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
 * class [OperatorSelector](../)
@@ -289,9 +289,9 @@ public void Visit(CurveTo c)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| c | CurveTo | Aggiungi segmento curvo al percorso (tre punti di controllo). |
+| c | CurveTo | Aggiunge un segmento curvo all'operatore di percorso (tre punti di controllo). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [CurveTo](../../../aspose.pdf.operators/curveto/)
 * class [OperatorSelector](../)
@@ -310,9 +310,9 @@ public void Visit(BX BX)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| BX | BX | Inizio della sezione di compatibilità. |
+| BX | BX | Inizia l'operatore di sezione di compatibilità. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [BX](../../../aspose.pdf.operators/bx/)
 * class [OperatorSelector](../)
@@ -331,9 +331,9 @@ public void Visit(BT BT)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| BT | BT | Inizio dell'operatore di oggetto di testo. |
+| BT | BT | Inizia l'operatore di oggetto testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [BT](../../../aspose.pdf.operators/bt/)
 * class [OperatorSelector](../)
@@ -352,9 +352,9 @@ public void Visit(BMC BMC)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| BMC | BMC | Inizio della sequenza di contenuto marcato. |
+| BMC | BMC | Inizia l'operatore di sequenza di contenuto contrassegnato. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [BMC](../../../aspose.pdf.operators/bmc/)
 * class [OperatorSelector](../)
@@ -373,9 +373,9 @@ public void Visit(BI BI)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| BI | BI | Inizio dell'operatore di immagine inline. |
+| BI | BI | Inizia l'operatore di oggetto immagine inline. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [BI](../../../aspose.pdf.operators/bi/)
 * class [OperatorSelector](../)
@@ -394,9 +394,9 @@ public void Visit(BDC BDC)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| BDC | BDC | Inizio dell'operatore di sequenza di contenuto marcato (con lista di proprietà). |
+| BDC | BDC | Inizia l'operatore di sequenza di contenuto contrassegnato (con elenco di proprietà). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [BDC](../../../aspose.pdf.operators/bdc/)
 * class [OperatorSelector](../)
@@ -415,9 +415,9 @@ public void Visit(FillStroke B)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| B | FillStroke | Riempire e tracciare il percorso (regola del numero di avvolgimento non nullo). |
+| B | FillStroke | Operatore di riempimento e tracciatura del percorso (regola del numero di avvolgimento non zero). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [FillStroke](../../../aspose.pdf.operators/fillstroke/)
 * class [OperatorSelector](../)
@@ -436,9 +436,9 @@ public void Visit(ClosePathFillStroke b)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| b | ClosePathFillStroke | Chiudi, riempi e traccia il percorso (regola del numero di avvolgimento non nullo). |
+| b | ClosePathFillStroke | Operatore di chiusura, riempimento e tracciatura del percorso (regola del numero di avvolgimento non zero). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
 * class [OperatorSelector](../)
@@ -457,9 +457,9 @@ public void Visit(EOFillStroke B_)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| B_ | EOFillStroke | Riempire e tracciare il percorso (regola pari-dispari). |
+| B_ | EOFillStroke | Operatore di riempimento e tracciatura del percorso (regola pari-dispari). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
 * class [OperatorSelector](../)
@@ -478,9 +478,9 @@ public void Visit(ClosePathEOFillStroke b_)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | Chiudi, riempi e traccia il percorso (regola pari-dispari). |
+| b_ | ClosePathEOFillStroke | Operatore di chiusura, riempimento e tracciatura del percorso (regola pari-dispari). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
 * class [OperatorSelector](../)
@@ -499,9 +499,9 @@ public void Visit(MoveToNextLineShowText _)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | Passa alla riga successiva e mostra il testo. |
+| _ | MoveToNextLineShowText | Operatore di spostamento alla riga successiva e visualizzazione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
 * class [OperatorSelector](../)
@@ -520,9 +520,9 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | Imposta la spaziatura delle parole e dei caratteri, passa alla riga successiva e mostra il testo. |
+| __ | SetSpacingMoveToNextLineShowText | Imposta la spaziatura di parole e caratteri, passa alla riga successiva e mostra l'operatore di testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
 * class [OperatorSelector](../)
@@ -541,9 +541,9 @@ public void Visit(EOFill f_)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| f_ | EOFill | Riempire il percorso (regola pari-dispari). |
+| f_ | EOFill | Operatore di riempimento del percorso (regola pari‑dispari). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [EOFill](../../../aspose.pdf.operators/eofill/)
 * class [OperatorSelector](../)
@@ -562,9 +562,9 @@ public void Visit(Fill f)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| f | Fill | Riempire il percorso (regola del numero di avvolgimento non nullo). |
+| f | Fill | Operatore di riempimento del percorso (regola del numero di avvolgimento non zero). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Fill](../../../aspose.pdf.operators/fill/)
 * class [OperatorSelector](../)
@@ -583,9 +583,9 @@ public void Visit(ObsoleteFill F)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| F | ObsoleteFill | Riempire il percorso (regola del numero di avvolgimento non nullo). |
+| F | ObsoleteFill | Operatore di riempimento del percorso (regola del numero di avvolgimento non zero). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
 * class [OperatorSelector](../)
@@ -604,9 +604,9 @@ public void Visit(SetGray g)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| g | SetGray | Imposta il livello di grigio (per operazioni non di tracciamento). |
+| g | SetGray | Operatore di impostazione del livello di grigio (per operazioni non di tracciatura). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetGray](../../../aspose.pdf.operators/setgray/)
 * class [OperatorSelector](../)
@@ -625,9 +625,9 @@ public void Visit(SetGrayStroke G)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| G | SetGrayStroke | Imposta il livello di grigio (per operazioni di tracciamento). |
+| G | SetGrayStroke | Operatore di impostazione del livello di grigio (per operazioni di tracciatura). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
 * class [OperatorSelector](../)
@@ -646,9 +646,9 @@ public void Visit(GS gs)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| gs | GS | Imposta l'operatore di stato grafico. |
+| gs | GS | Operatore di impostazione dello stato grafico. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [GS](../../../aspose.pdf.operators/gs/)
 * class [OperatorSelector](../)
@@ -667,9 +667,9 @@ public void Visit(ClosePath h)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| h | ClosePath | Chiudi l'operatore di sottopercorso. |
+| h | ClosePath | Operatore di chiusura del sotto‑percorso. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ClosePath](../../../aspose.pdf.operators/closepath/)
 * class [OperatorSelector](../)
@@ -688,9 +688,9 @@ public void Visit(SetFlat i)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| i | SetFlat | Imposta la tolleranza di planarità. |
+| i | SetFlat | Operatore di impostazione della tolleranza di piattezza. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetFlat](../../../aspose.pdf.operators/setflat/)
 * class [OperatorSelector](../)
@@ -709,9 +709,9 @@ public void Visit(ID ID)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| ID | ID | Inizio dell'operatore di dati di immagine inline. |
+| ID | ID | Operatore per avviare i dati dell'immagine inline. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ID](../../../aspose.pdf.operators/id/)
 * class [OperatorSelector](../)
@@ -730,9 +730,9 @@ public void Visit(SetLineCap J)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| J | SetLineCap | Imposta lo stile di cappuccio della linea. |
+| J | SetLineCap | Operatore per impostare lo stile del cappuccio della linea. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
 * class [OperatorSelector](../)
@@ -751,9 +751,9 @@ public void Visit(SetCMYKColor k)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| k | SetCMYKColor | Imposta l'operatore di colore CMYK (per operazioni non di tracciamento). |
+| k | SetCMYKColor | Operatore per impostare il colore CMYK (per operazioni senza tracciatura). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
 * class [OperatorSelector](../)
@@ -772,9 +772,9 @@ public void Visit(SetCMYKColorStroke K)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | Imposta l'operatore di colore CMYK (per operazioni di tracciamento). |
+| K | SetCMYKColorStroke | Operatore per impostare il colore CMYK (per operazioni di tracciatura). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
 * class [OperatorSelector](../)
@@ -793,9 +793,9 @@ public void Visit(LineTo l)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| l | LineTo | Aggiungi segmento di linea retta al percorso. |
+| l | LineTo | Operatore per aggiungere un segmento di linea retta al percorso. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [LineTo](../../../aspose.pdf.operators/lineto/)
 * class [OperatorSelector](../)
@@ -814,9 +814,9 @@ public void Visit(MoveTo m)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| m | MoveTo | Inizio di un nuovo sottopercorso. |
+| m | MoveTo | Operatore per avviare un nuovo sottopercorso. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [MoveTo](../../../aspose.pdf.operators/moveto/)
 * class [OperatorSelector](../)
@@ -835,9 +835,9 @@ public void Visit(SetMiterLimit M)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| M | SetMiterLimit | Imposta il limite di miter. |
+| M | SetMiterLimit | Operatore per impostare il limite di spigolo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
 * class [OperatorSelector](../)
@@ -856,9 +856,9 @@ public void Visit(MP MP)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| MP | MP | Definisci l'operatore di punto di contenuto marcato. |
+| MP | MP | Operatore per definire un punto di contenuto marcato. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [MP](../../../aspose.pdf.operators/mp/)
 * class [OperatorSelector](../)
@@ -877,9 +877,9 @@ public void Visit(EndPath n)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| n | EndPath | Operatore di fine percorso (senza riempimento o tracciamento). |
+| n | EndPath | Operatore per terminare il percorso (senza riempimento o tracciatura). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [EndPath](../../../aspose.pdf.operators/endpath/)
 * class [OperatorSelector](../)
@@ -898,9 +898,9 @@ public void Visit(GSave q)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| q | GSave | Salva l'operatore di stato grafico. |
+| q | GSave | Operatore per salvare lo stato grafico. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [GSave](../../../aspose.pdf.operators/gsave/)
 * class [OperatorSelector](../)
@@ -919,9 +919,9 @@ public void Visit(GRestore Q)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| Q | GRestore | Ripristina l'operatore di stato grafico. |
+| Q | GRestore | Operatore di ripristino dello stato grafico. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [GRestore](../../../aspose.pdf.operators/grestore/)
 * class [OperatorSelector](../)
@@ -940,9 +940,9 @@ public void Visit(Re re)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| re | Re | Aggiungi rettangolo all'operatore di percorso. |
+| re | Re | Operatore di aggiunta di un rettangolo al percorso. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Re](../../../aspose.pdf.operators/re/)
 * class [OperatorSelector](../)
@@ -961,9 +961,9 @@ public void Visit(SetRGBColor rg)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| rg | SetRGBColor | Imposta l'operatore di colore RGB (per operazioni non di tracciamento). |
+| rg | SetRGBColor | Operatore di impostazione del colore RGB (per operazioni non di tracciatura). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
 * class [OperatorSelector](../)
@@ -982,9 +982,9 @@ public void Visit(SetRGBColorStroke RG)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| RG | SetRGBColorStroke | Imposta l'operatore di colore RGB (per operazioni di tracciamento). |
+| RG | SetRGBColorStroke | Operatore di impostazione del colore RGB (per operazioni di tracciatura). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
 * class [OperatorSelector](../)
@@ -1003,9 +1003,9 @@ public void Visit(SetColorRenderingIntent ri)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | Imposta l'intento di rendering del colore. |
+| ri | SetColorRenderingIntent | Operatore di impostazione dell'intento di rendering del colore. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
 * class [OperatorSelector](../)
@@ -1024,9 +1024,9 @@ public void Visit(ClosePathStroke s)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| s | ClosePathStroke | Chiudi e traccia il percorso. |
+| s | ClosePathStroke | Operatore di chiusura e tracciatura del percorso. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
 * class [OperatorSelector](../)
@@ -1045,9 +1045,9 @@ public void Visit(Stroke S)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| S | Stroke | Traccia il percorso. |
+| S | Stroke | Operatore di tracciatura del percorso. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Stroke](../../../aspose.pdf.operators/stroke/)
 * class [OperatorSelector](../)
@@ -1066,9 +1066,9 @@ public void Visit(SetColor sc)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| sc | SetColor | Imposta l'operatore di colore (per operazioni non di tracciamento). |
+| sc | SetColor | Operatore di impostazione del colore (per operazioni non di tracciatura). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetColor](../../../aspose.pdf.operators/setcolor/)
 * class [OperatorSelector](../)
@@ -1087,9 +1087,9 @@ public void Visit(SetColorStroke SC)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| SC | SetColorStroke | Imposta l'operatore di colore (per operazioni di tracciamento). |
+| SC | SetColorStroke | Imposta l'operatore di colore (per operazioni di tracciatura). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
 * class [OperatorSelector](../)
@@ -1108,9 +1108,9 @@ public void Visit(SetAdvancedColor scn)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| scn | SetAdvancedColor | Imposta l'operatore di colore (per operazioni non di tracciamento, spazi colore ICCBased e speciali). |
+| scn | SetAdvancedColor | Imposta l'operatore di colore (per operazioni non di tracciatura, ICCBased e spazi colore speciali). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
 * class [OperatorSelector](../)
@@ -1129,9 +1129,9 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | Imposta l'operatore di colore (per operazioni di tracciamento, spazi colore ICCBased e speciali). |
+| SCN | SetAdvancedColorStroke | Imposta l'operatore di colore (per operazioni di tracciatura, ICCBased e spazi colore speciali). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
 * class [OperatorSelector](../)
@@ -1150,9 +1150,9 @@ public void Visit(ShFill sh)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| sh | ShFill | Dipingi l'area definita dal modello di ombreggiatura. |
+| sh | ShFill | Dipingi l'area definita dall'operatore di pattern di sfumatura. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ShFill](../../../aspose.pdf.operators/shfill/)
 * class [OperatorSelector](../)
@@ -1171,9 +1171,9 @@ public void Visit(MoveToNextLine T_)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| T_ | MoveToNextLine | Passa all'inizio della prossima riga di testo. |
+| T_ | MoveToNextLine | Sposta all'inizio della riga di testo successiva (operatore). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
 * class [OperatorSelector](../)
@@ -1192,9 +1192,9 @@ public void Visit(SetCharacterSpacing Tc)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | Imposta la spaziatura dei caratteri. |
+| Tc | SetCharacterSpacing | Imposta l'operatore di spaziatura dei caratteri. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
 * class [OperatorSelector](../)
@@ -1213,9 +1213,9 @@ public void Visit(MoveTextPosition Td)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| Td | MoveTextPosition | Sposta la posizione del testo. |
+| Td | MoveTextPosition | Sposta la posizione del testo (operatore). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
 * class [OperatorSelector](../)
@@ -1234,9 +1234,9 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | Sposta la posizione del testo e imposta il leading. |
+| TD | MoveTextPositionSetLeading | Sposta la posizione del testo e imposta il leading (operatore). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
 * class [OperatorSelector](../)
@@ -1255,9 +1255,9 @@ public void Visit(SelectFont Tf)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| Tf | SelectFont | Imposta il font e la dimensione del testo. |
+| Tf | SelectFont | Imposta l'operatore di carattere e dimensione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SelectFont](../../../aspose.pdf.operators/selectfont/)
 * class [OperatorSelector](../)
@@ -1276,9 +1276,9 @@ public void Visit(ShowText Tj)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| Tj | ShowText | Mostra il testo. |
+| Tj | ShowText | Operatore di visualizzazione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [ShowText](../../../aspose.pdf.operators/showtext/)
 * class [OperatorSelector](../)
@@ -1297,9 +1297,9 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | Mostra il testo (consentendo il posizionamento individuale dei glifi). |
+| TJ | SetGlyphsPositionShowText | Operatore di visualizzazione del testo (consente il posizionamento individuale dei glifi). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
 * class [OperatorSelector](../)
@@ -1318,9 +1318,9 @@ public void Visit(SetTextLeading TL)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| TL | SetTextLeading | Imposta il leading del testo. |
+| TL | SetTextLeading | Operatore di impostazione dell'interlinea del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
 * class [OperatorSelector](../)
@@ -1339,9 +1339,9 @@ public void Visit(SetTextMatrix Tm)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| Tm | SetTextMatrix | Imposta la matrice di testo e la matrice di linea di testo. |
+| Tm | SetTextMatrix | Operatore di impostazione della matrice del testo e della matrice della linea di testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
 * class [OperatorSelector](../)
@@ -1360,9 +1360,9 @@ public void Visit(SetTextRenderingMode Tr)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | Imposta la modalità di rendering del testo. |
+| Tr | SetTextRenderingMode | Operatore di impostazione della modalità di rendering del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
 * class [OperatorSelector](../)
@@ -1381,9 +1381,9 @@ public void Visit(SetTextRise Ts)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| Ts | SetTextRise | Imposta l'altezza del testo. |
+| Ts | SetTextRise | Operatore di impostazione dell'altezza del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetTextRise](../../../aspose.pdf.operators/settextrise/)
 * class [OperatorSelector](../)
@@ -1402,9 +1402,9 @@ public void Visit(SetWordSpacing Tw)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| Tw | SetWordSpacing | Imposta la spaziatura delle parole. |
+| Tw | SetWordSpacing | Operatore di impostazione della spaziatura delle parole. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
 * class [OperatorSelector](../)
@@ -1423,9 +1423,9 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| Tz | SetHorizontalTextScaling | Imposta la scala orizzontale del testo. |
+| Tz | SetHorizontalTextScaling | Operatore di impostazione della scala orizzontale del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
 * class [OperatorSelector](../)
@@ -1444,9 +1444,9 @@ public void Visit(CurveTo1 v)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| v | CurveTo1 | Aggiungi segmento curvo al percorso (punto iniziale replicato). |
+| v | CurveTo1 | Aggiunge segmento curvo all'operatore di percorso (punto iniziale replicato). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [CurveTo1](../../../aspose.pdf.operators/curveto1/)
 * class [OperatorSelector](../)
@@ -1465,9 +1465,9 @@ public void Visit(EOClip W_)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| W_ | EOClip | Imposta l'operatore di percorso di ritaglio (regola pari-dispari). |
+| W_ | EOClip | Imposta operatore di percorso di ritaglio (regola pari-dispari). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [EOClip](../../../aspose.pdf.operators/eoclip/)
 * class [OperatorSelector](../)
@@ -1486,9 +1486,9 @@ public void Visit(SetLineWidth w)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| w | SetLineWidth | Imposta l'operatore di larghezza della linea. |
+| w | SetLineWidth | Operatore per impostare la larghezza della linea. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
 * class [OperatorSelector](../)
@@ -1507,9 +1507,9 @@ public void Visit(Clip W)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| W | Clip | Imposta l'operatore di percorso di ritaglio (regola del numero di avvolgimento non nullo). |
+| W | Clip | Imposta operatore di percorso di ritaglio (regola del numero di avvolgimento non zero). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Clip](../../../aspose.pdf.operators/clip/)
 * class [OperatorSelector](../)
@@ -1528,9 +1528,9 @@ public void Visit(CurveTo2 y)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| y | CurveTo2 | Aggiungi segmento curvo al percorso (punto finale replicato). |
+| y | CurveTo2 | Aggiunge segmento curvo all'operatore di percorso (punto finale replicato). |
 
-### Vedi Anche
+### Vedi anche
 
 * class [CurveTo2](../../../aspose.pdf.operators/curveto2/)
 * class [OperatorSelector](../)
@@ -1549,11 +1549,13 @@ public void Visit(TextOperator textOperator)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| textOperator | TextOperator | Operatore di testo generale utilizzato per selezionare il set di operatori pdf corrispondenti. |
+| textOperator | TextOperator | Operatore di testo generale utilizzato per selezionare l'insieme degli operatori pdf corrispondenti. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [TextOperator](../../../aspose.pdf.operators/textoperator/)
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

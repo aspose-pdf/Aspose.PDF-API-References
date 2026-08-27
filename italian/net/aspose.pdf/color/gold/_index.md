@@ -1,12 +1,12 @@
 ---
-title: Color.Gold
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFFFD700
+title: "Color.Gold"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema con valore ARGB c FFFFD700"
 type: docs
 weight: 500
 url: /it/net/aspose.pdf/color/gold/
 ---
-## Proprietà Color.Gold
+## Color.Gold property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFFFD700.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFFFD700.
 public static Color Gold { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

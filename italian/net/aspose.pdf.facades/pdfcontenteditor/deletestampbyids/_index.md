@@ -1,24 +1,24 @@
 ---
-title: PdfContentEditor.DeleteStampByIds
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Deletes stamps with specified IDs from all pages of the document
+title: "PdfContentEditor.DeleteStampByIds"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Elimina i timbri con ID specificati da tutte le pagine del documento"
 type: docs
 weight: 350
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyids/
 ---
 ## DeleteStampByIds(int[]) {#deletestampbyids_1}
 
-Elimina i timbri con ID specificati da tutte le pagine del documento.
+Elimina i timbri con gli ID specificati da tutte le pagine del documento.
 
 ```csharp
 public void DeleteStampByIds(int[] stampIds)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stampIds | Int32[] | Array di ID timbri. |
+| stampIds | Int32[] | Array di ID dei timbri. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfContentEditor contentEditor = new PdfContentEditor();
@@ -27,7 +27,7 @@ contentEditor.DeleteStampByIds(new int[] { 102, 103 } );
 contentEditor.Save("outfile.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -37,18 +37,18 @@ contentEditor.Save("outfile.pdf");
 
 ## DeleteStampByIds(int, int[]) {#deletestampbyids}
 
-Elimina i timbri nella pagina specificata tramite più ID timbri.
+Elimina i timbri nella pagina specificata per più ID timbro.
 
 ```csharp
 public void DeleteStampByIds(int pageNumber, int[] stampIds)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNumber | Int32 | Numero di pagina da cui verranno eliminati i timbri. |
-| stampIds | Int32[] | Array di ID timbri. |
+| pageNumber | Int32 | Numero di pagina in cui i timbri verranno eliminati. |
+| stampIds | Int32[] | Array di ID dei timbri. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfContentEditor contentEditor = new PdfContentEditor();
@@ -57,8 +57,10 @@ contentEditor.DeleteStampByIds(1, new int[] { 100, 101 } );
 contentEditor.Save("outfile.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

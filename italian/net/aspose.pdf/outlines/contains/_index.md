@@ -1,14 +1,14 @@
 ---
-title: Outlines.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Outlines method. Always throws NotImplementedException
+title: "Outlines.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Outlines metodo. Lancia sempre NotImplementedException"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/outlines/contains/
 ---
-## Metodo Outlines.Contains
+## Outlines.Contains method
 
-Genera sempre NotImplementedException.
+Lancia sempre NotImplementedException.
 
 ```csharp
 public abstract bool Contains(OutlineItemCollection item)
@@ -16,7 +16,7 @@ public abstract bool Contains(OutlineItemCollection item)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| item | OutlineItemCollection | L'oggetto da localizzare nella collezione |
+| item | OutlineItemCollection | L'oggetto da individuare nella collezione |
 
 ### Valore di ritorno
 
@@ -24,7 +24,9 @@ NotImplementedException
 
 ### Vedi anche
 
-* classe [OutlineItemCollection](../../outlineitemcollection/)
-* classe [Outlines](../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

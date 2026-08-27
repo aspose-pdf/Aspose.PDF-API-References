@@ -1,14 +1,14 @@
 ---
-title: Class FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.FontEmbeddingOptions. Lo standard PDF/A richiede che tutti i caratteri debbano essere incorporati nel documento. Questa classe include flag per i casi in cui non è possibile incorporare alcuni caratteri perché questo carattere è assente nel PC di destinazione.
+title: "Classe FontEmbeddingOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.FontEmbeddingOptions. Lo standard PDF/A richiede che tutti i caratteri siano incorporati nel documento. Questa classe include flag per i casi in cui non è possibile incorporare alcuni caratteri perché tali caratteri sono assenti sul PC di destinazione."
 type: docs
-weight: 4890
+weight: 5010
 url: /it/net/aspose.pdf/fontembeddingoptions/
 ---
-## Classe FontEmbeddingOptions
+## FontEmbeddingOptions class
 
-Lo standard PDF/A richiede che tutti i caratteri debbano essere incorporati nel documento. Questa classe include flag per i casi in cui non è possibile incorporare alcuni caratteri perché questo carattere è assente nel PC di destinazione.
+Lo standard PDF/A richiede che tutti i font siano incorporati nel documento. Questa classe include flag per i casi in cui non è possibile incorporare alcuni font perché tali font sono assenti sul PC di destinazione.
 
 ```csharp
 public class FontEmbeddingOptions
@@ -24,9 +24,11 @@ public class FontEmbeddingOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | Indica se sostituire il carattere non incorporato utilizzando la strategia di sostituzione del carattere predefinita. Valore predefinito: `false`. |
+| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | Indica se sostituire i caratteri non incorporati utilizzando la strategia di sostituzione dei caratteri predefinita. Valore predefinito: `false`. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

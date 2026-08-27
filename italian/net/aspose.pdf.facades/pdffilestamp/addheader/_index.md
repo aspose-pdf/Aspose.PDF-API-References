@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.AddHeader
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileStamp. Aggiunge un'intestazione alla pagina
+title: "PdfFileStamp.AddHeader"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileStamp. Aggiunge l'intestazione alla pagina"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.facades/pdffilestamp/addheader/
 ---
 ## AddHeader(FormattedText, float) {#addheader}
 
-Aggiunge un'intestazione alla pagina.
+Aggiunge un'intestazione alla page.
 
 ```csharp
 public void AddHeader(FormattedText formattedText, float topMargin)
@@ -17,7 +17,7 @@ public void AddHeader(FormattedText formattedText, float topMargin)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | formattedText | FormattedText | Testo per l'intestazione e proprietà del testo. |
-| topMargin | Single | Margine in cima alla pagina. |
+| topMargin | Single | Margine nella parte superiore della pagina. |
 
 ## Esempi
 
@@ -27,10 +27,10 @@ fileStamp.AddHeader(new FormattedText("Head of the page"), 50);
 fileStamp.Close();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormattedText](../../formattedtext/)
-* classe [PdfFileStamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,7 +38,7 @@ fileStamp.Close();
 
 ## AddHeader(FormattedText, float, float, float) {#addheader_1}
 
-Aggiunge un'intestazione alle pagine del file.
+Aggiunge un'intestazione alle pages del file.
 
 ```csharp
 public void AddHeader(FormattedText formattedText, float topMargin, float leftMargin, 
@@ -47,10 +47,10 @@ public void AddHeader(FormattedText formattedText, float topMargin, float leftMa
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| formattedText | FormattedText | Oggetto di testo formattato che contiene il testo della pagina e le sue proprietà. |
-| topMargin | Single | Margine in cima alla pagina. |
-| leftMargin | Single | Margine a sinistra della pagina. |
-| rightMargin | Single | Margine a destra della pagina. |
+| formattedText | FormattedText | Oggetto FormattedText che contiene il testo della pagina e le sue proprietà. |
+| topMargin | Single | Margine nella parte superiore della pagina. |
+| leftMargin | Single | Margine sul lato sinistro della pagina. |
+| rightMargin | Single | Margine sul lato destro della pagina. |
 
 ## Esempi
 
@@ -59,10 +59,10 @@ PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormattedText](../../formattedtext/)
-* classe [PdfFileStamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -70,7 +70,7 @@ stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 
 ## AddHeader(string, float) {#addheader_4}
 
-Aggiunge un'immagine come intestazione alle pagine del file.
+Aggiunge un'immagine come intestazione alle pages del file.
 
 ```csharp
 public void AddHeader(string imageFile, float topMargin)
@@ -79,7 +79,7 @@ public void AddHeader(string imageFile, float topMargin)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | imageFile | String | Percorso del file immagine. |
-| topMargin | Single | Margine in cima alla pagina. |
+| topMargin | Single | Margine nella parte superiore della pagina. |
 
 ## Esempi
 
@@ -90,9 +90,9 @@ fileStamp.AddHeader("image.jpg", 50);
 fileStamp.Close();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -100,7 +100,7 @@ fileStamp.Close();
 
 ## AddHeader(string, float, float, float) {#addheader_5}
 
-Aggiunge un'immagine come intestazione sulle pagine.
+Aggiunge un'immagine come intestazione sulle pages.
 
 ```csharp
 public void AddHeader(string imageFile, float topMargin, float leftMargin, float rightMargin)
@@ -109,9 +109,9 @@ public void AddHeader(string imageFile, float topMargin, float leftMargin, float
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | imageFile | String | Percorso del file immagine. |
-| topMargin | Single | Margine in cima alla pagina. |
-| leftMargin | Single | Margine a sinistra della pagina. |
-| rightMargin | Single | Margine a destra della pagina. |
+| topMargin | Single | Margine nella parte superiore della pagina. |
+| leftMargin | Single | Margine sul lato sinistro della pagina. |
+| rightMargin | Single | Margine sul lato destro della pagina. |
 
 ## Esempi
 
@@ -122,9 +122,9 @@ fileStamp.AddHeader("image.jpg", 50, 100, 100);
 fileStamp.Close();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -132,7 +132,7 @@ fileStamp.Close();
 
 ## AddHeader(Stream, float) {#addheader_2}
 
-Aggiunge un'immagine come intestazione sulle pagine.
+Aggiunge un'immagine come intestazione sulle pages.
 
 ```csharp
 public void AddHeader(Stream imageStream, float topMargin)
@@ -141,7 +141,7 @@ public void AddHeader(Stream imageStream, float topMargin)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | imageStream | Stream | Stream dell'immagine. |
-| topMargin | Single | Margine in cima alla pagina. |
+| topMargin | Single | Margine nella parte superiore della pagina. |
 
 ## Esempi
 
@@ -152,9 +152,9 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -162,7 +162,7 @@ fileStamp.Close();
 
 ## AddHeader(Stream, float, float, float) {#addheader_3}
 
-Aggiunge un'immagine in cima alla pagina.
+Aggiunge un'immagine nella parte superiore della page.
 
 ```csharp
 public void AddHeader(Stream inputStream, float topMargin, float leftMargin, float rightMargin)
@@ -171,9 +171,9 @@ public void AddHeader(Stream inputStream, float topMargin, float leftMargin, flo
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | inputStream | Stream | Stream che contiene i dati dell'immagine. |
-| topMargin | Single | Margine in cima alla pagina. |
-| leftMargin | Single | Margine a sinistra della pagina. |
-| rightMargin | Single | Margine a destra della pagina. |
+| topMargin | Single | Margine nella parte superiore della pagina. |
+| leftMargin | Single | Margine sul lato sinistro della pagina. |
+| rightMargin | Single | Margine sul lato destro della pagina. |
 
 ## Esempi
 
@@ -184,8 +184,10 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

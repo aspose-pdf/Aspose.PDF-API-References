@@ -1,14 +1,14 @@
 ---
-title: Class CosPdfString
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.DataEditor.CosPdfString. Questa classe rappresenta un oggetto Pdf String
+title: "Classe CosPdfString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.DataEditor.CosPdfString. Questa classe rappresenta l'oggetto Pdf String"
 type: docs
-weight: 3460
+weight: 3580
 url: /it/net/aspose.pdf.dataeditor/cospdfstring/
 ---
-## Classe CosPdfString
+## CosPdfString class
 
-Questa classe rappresenta un oggetto Pdf String.
+Questa classe rappresenta l'oggetto Pdf String.
 
 ```csharp
 public sealed class CosPdfString : CosPdfPrimitive
@@ -25,24 +25,26 @@ public sealed class CosPdfString : CosPdfPrimitive
 
 | Nome | Descrizione |
 | --- | --- |
-| [IsHexadecimal](../../aspose.pdf.dataeditor/cospdfstring/ishexadecimal/) { get; } | Ottiene un valore che indica se questa istanza è esadecimale. |
-| [Value](../../aspose.pdf.dataeditor/cospdfstring/value/) { get; } | Ottiene la stringa (ANSII). |
+| [IsHexadecimal](../../aspose.pdf.dataeditor/cospdfstring/ishexadecimal/) { get; } | Restituisce un valore che indica se questa istanza è esadecimale. |
+| [Value](../../aspose.pdf.dataeditor/cospdfstring/value/) { get; } | Restituisce la stringa (ANSII). |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Equals](../../aspose.pdf.dataeditor/cospdfstring/equals/)(object) | Determina se l'oggetto specificato è uguale all'oggetto corrente. |
-| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfstring/gethashcode/)() | Ottiene il codice hash per l'oggetto corrente. |
-| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Tenta di convertire questa istanza in [`CosPdfBoolean`](../cospdfboolean/). |
-| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Tenta di convertire questa istanza in [`CosPdfDictionary`](../cospdfdictionary/). |
-| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Tenta di convertire questa istanza in [`CosPdfName`](../cospdfname/). |
-| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Tenta di convertire questa istanza in [`CosPdfNumber`](../cospdfnumber/). |
-| override [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfstring/tocospdfstring/)() | Tenta di convertire questa istanza in `CosPdfString`. |
-| override [ToString](../../aspose.pdf.dataeditor/cospdfstring/tostring/)() | Restituisce una stringa che rappresenta il corrente `CosPdfString`. |
+| override [Equals](../../aspose.pdf.dataeditor/cospdfstring/equals/)(object) | Determina che l'oggetto specificato è uguale all'oggetto corrente. |
+| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfstring/gethashcode/)() | Ottieni l'hashcode per l'oggetto corrente. |
+| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Prova a convertire questa istanza in [`CosPdfBoolean`](../cospdfboolean/). |
+| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Prova a convertire questa istanza in [`CosPdfDictionary`](../cospdfdictionary/). |
+| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Prova a convertire questa istanza in [`CosPdfName`](../cospdfname/). |
+| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Prova a convertire questa istanza in [`CosPdfNumber`](../cospdfnumber/). |
+| override [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfstring/tocospdfstring/)() | Prova a convertire questa istanza in `CosPdfString`. |
+| override [ToString](../../aspose.pdf.dataeditor/cospdfstring/tostring/)() | Restituisce una String che rappresenta il `CosPdfString` corrente. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfPrimitive](../cospdfprimitive/)
+* class [CosPdfPrimitive](../cospdfprimitive/)
 * namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../)
+
+

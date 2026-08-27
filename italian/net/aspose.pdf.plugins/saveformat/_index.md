@@ -1,14 +1,14 @@
 ---
-title: Enum SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.SaveFormat enumerazione. Per specificare .doc o .docx formato file.
+title: "Enumerazione SaveFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enumerazione Aspose.Pdf.Plugins.SaveFormat. Consente di specificare il formato file .doc o .docx"
 type: docs
-weight: 9220
+weight: 9370
 url: /it/net/aspose.pdf.plugins/saveformat/
 ---
-## Enumerazione SaveFormat
+## SaveFormat enumeration
 
-Consente di specificare il formato di file .doc o .docx.
+Consente di specificare il formato file .doc o .docx.
 
 ```csharp
 public enum SaveFormat
@@ -18,10 +18,12 @@ public enum SaveFormat
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Doc | `0` | \c \[MS-DOC]: Formato di file binario Word (.doc) |
-| DocX | `1` | Formato di file Office Open XML (.docx) |
+| Doc | `0` | \c \[MS-DOC]: Formato file binario Word (.doc) |
+| DocX | `1` | Formato file Office Open XML (.docx) |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

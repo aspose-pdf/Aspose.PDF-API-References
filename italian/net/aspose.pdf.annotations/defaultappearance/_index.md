@@ -1,12 +1,12 @@
 ---
-title: Class DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.DefaultAppearance. Descrive l'aspetto predefinito della dimensione e del colore del testo del campo
+title: "Classe DefaultAppearance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Annotations.DefaultAppearance. Descrive l'aspetto predefinito della dimensione e del colore del testo del carattere del campo."
 type: docs
-weight: 1660
+weight: 1750
 url: /it/net/aspose.pdf.annotations/defaultappearance/
 ---
-## Classe DefaultAppearance
+## DefaultAppearance class
 
 Descrive l'aspetto predefinito del campo (font, dimensione del testo e colore).
 
@@ -19,7 +19,7 @@ public sealed class DefaultAppearance
 | Nome | Descrizione |
 | --- | --- |
 | [DefaultAppearance](defaultappearance/#constructor)() | Costruttore di DefaultAppearance. |
-| [DefaultAppearance](defaultappearance/#constructor_1)(Font, double, Color) | Costruttore di Default Appearance. È possibile specificare un font precedentemente creato come font predefinito. |
+| [DefaultAppearance](defaultappearance/#constructor_1)(Font, double, Color) | Costruttore di Default Appearance. Il font creato in precedenza può essere specificato come font predefinito. |
 | [DefaultAppearance](defaultappearance/#constructor_2)(string, double, Color) | Costruttore di DefaultAppearance. |
 
 ## Proprietà
@@ -33,7 +33,9 @@ public sealed class DefaultAppearance
 | [Text](../../aspose.pdf.annotations/defaultappearance/text/) { get; } | Ottiene l'elenco degli operatori pdf che rappresentano l'aspetto. |
 | [TextColor](../../aspose.pdf.annotations/defaultappearance/textcolor/) { get; set; } | Ottiene o imposta il colore del testo nell'aspetto predefinito. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

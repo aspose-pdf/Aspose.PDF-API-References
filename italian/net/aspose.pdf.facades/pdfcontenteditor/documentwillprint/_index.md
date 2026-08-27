@@ -1,21 +1,23 @@
 ---
-title: PdfContentEditor.DocumentWillPrint
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor campo. Un tipo di evento documentario. Eseguire un'azione prima di stampare.
+title: "PdfContentEditor.DocumentWillPrint"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PdfContentEditor. Un tipo di evento del documento. Esegue un'azione prima della stampa."
 type: docs
 weight: 510
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/documentwillprint/
 ---
-## Campo PdfContentEditor.DocumentWillPrint
+## PdfContentEditor.DocumentWillPrint field
 
-Un tipo di evento del documento. Esegui un'azione prima della stampa.
+Un tipo di evento documento. Esegue un'azione prima della stampa.
 
 ```csharp
 public const string DocumentWillPrint;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

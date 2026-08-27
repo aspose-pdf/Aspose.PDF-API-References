@@ -1,14 +1,14 @@
 ---
-title: Class BuildVersionInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Questa classe fornisce informazioni sull'edizione corrente del prodotto.
+title: "Classe BuildVersionInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.BuildVersionInfo class. Questa classe fornisce informazioni sulla build corrente del prodotto"
 type: docs
-weight: 2950
+weight: 3060
 url: /it/net/aspose.pdf/buildversioninfo/
 ---
-## Classe BuildVersionInfo
+## BuildVersionInfo class
 
-Questa classe fornisce informazioni sulla versione attuale del prodotto.
+Questa classe fornisce informazioni sulla build corrente del prodotto.
 
 ```csharp
 public sealed class BuildVersionInfo
@@ -24,11 +24,13 @@ public sealed class BuildVersionInfo
 
 | Nome | Descrizione |
 | --- | --- |
-| const [AssemblyVersion](../../aspose.pdf/buildversioninfo/assemblyversion/) | Versione dell'assembly |
-| const [FileVersion](../../aspose.pdf/buildversioninfo/fileversion/) | Versione del file |
-| const [Product](../../aspose.pdf/buildversioninfo/product/) | Nome del prodotto |
+| const [AssemblyVersion](../../aspose.pdf/buildversioninfo/assemblyversion/) | Versione Assembly |
+| const [FileVersion](../../aspose.pdf/buildversioninfo/fileversion/) | Versione File |
+| const [Product](../../aspose.pdf/buildversioninfo/product/) | Nome Prodotto |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

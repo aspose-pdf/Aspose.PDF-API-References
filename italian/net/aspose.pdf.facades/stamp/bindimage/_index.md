@@ -1,14 +1,14 @@
 ---
-title: Stamp.BindImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Stamp. Imposta l'immagine come un timbro
+title: "Stamp.BindImage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Stamp. Imposta l'immagine come timbro"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.facades/stamp/bindimage/
 ---
 ## BindImage(string) {#bindimage_1}
 
-Imposta l'immagine come un timbro.
+Imposta l'immagine come timbro.
 
 ```csharp
 public void BindImage(string imageFile)
@@ -28,9 +28,9 @@ fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,7 +38,7 @@ fileStamp.Close();
 
 ## BindImage(Stream) {#bindimage}
 
-Imposta l'immagine che sarà utilizzata come timbro.
+Imposta l'immagine che sarà usata come timbro.
 
 ```csharp
 public void BindImage(Stream image)
@@ -46,10 +46,12 @@ public void BindImage(Stream image)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| image | Stream | Stream che contiene i dati dell'immagine. |
+| immagine | Stream | Stream che contiene i dati dell'immagine. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

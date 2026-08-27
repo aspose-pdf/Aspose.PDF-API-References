@@ -1,19 +1,21 @@
 ---
-title: Shape.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo della forma.
+title: "Shape.CheckBounds"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Shape."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.drawing/shape/checkbounds/
 ---
-## Metodo Shape.CheckBounds
+## Shape.CheckBounds method
 
 ```csharp
 public virtual bool CheckBounds(double containerWidth, double containerHeight)
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Shape](../)
+* class [Shape](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

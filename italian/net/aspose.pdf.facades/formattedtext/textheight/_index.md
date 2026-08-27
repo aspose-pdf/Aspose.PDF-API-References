@@ -1,12 +1,12 @@
 ---
-title: FormattedText.TextHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormattedText. Ottiene l'altezza del testo
+title: "FormattedText.TextHeight"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormattedText. Restituisce l'altezza del testo."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/formattedtext/textheight/
 ---
-## Proprietà FormattedText.TextHeight
+## FormattedText.TextHeight property
 
 Ottiene l'altezza del testo.
 
@@ -14,8 +14,10 @@ Ottiene l'altezza del testo.
 public float TextHeight { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: CosPdfPrimitive.ToCosPdfString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CosPdfPrimitive. Tenta di convertire questa istanza in CosPdfString
+title: "CosPdfPrimitive.ToCosPdfString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CosPdfPrimitive. Prova a eseguire il cast di questa istanza a CosPdfString"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/
 ---
 ## CosPdfPrimitive.ToCosPdfString method
 
-Tenta di convertire questa istanza in [`CosPdfString`](../../cospdfstring/).
+Prova a eseguire il cast di questa istanza a [`CosPdfString`](../../cospdfstring/).
 
 ```csharp
 public virtual CosPdfString ToCosPdfString()
 ```
 
-### Return Value
+### Valore di ritorno
 
 null se l'istanza non è [`CosPdfString`](../../cospdfstring/) altrimenti [`CosPdfString`](../../cospdfstring/).
 
-### See Also
+### Vedi anche
 
-* classe [CosPdfString](../../cospdfstring/)
-* classe [CosPdfPrimitive](../)
+* class [CosPdfString](../../cospdfstring/)
+* class [CosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,37 +1,39 @@
 ---
-title: Class Document.RepairOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.DocumentRepairOptions. Rappresenta le opzioni per riparare un documento PDF
+title: "Classe Document.RepairOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.DocumentRepairOptions. Rappresenta le opzioni per la riparazione di un documento PDF"
 type: docs
-weight: 3840
+weight: 3960
 url: /it/net/aspose.pdf/document.repairoptions/
 ---
 ## Document.RepairOptions class
 
-Rappresenta le opzioni per riparare un documento PDF.
+Rappresenta le opzioni per la riparazione di un documento PDF.
 
 ```csharp
 public sealed class RepairOptions
 ```
 
-## Constructors
+## Costruttori
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [RepairOptions](../../aspose.pdf/document.repairoptions/.ctor)() | Il costruttore predefinito. |
 
-## Properties
+## Proprietà
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
-| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | Ottiene o imposta un valore che indica se ripristinare numeri di generazione errati nei riferimenti a oggetti indiretti durante il processo di riparazione. |
+| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | Ottiene o imposta un valore che indica se ripristinare i numeri di generazione errati nei riferimenti a oggetti indiretti durante il processo di riparazione. |
 
-## Remarks
+## Osservazioni
 
 Questa classe fornisce un modo per personalizzare il processo di riparazione di un documento PDF.
 
-### See Also
+### Vedi anche
 
 * class [Document](../document/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DRenderMode. Ottiene il tipo
+title: "PDF3DRenderMode.Type"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PDF3DRenderMode proprietà. Ottiene il tipo"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.annotations/pdf3drendermode/type/
 ---
-## Proprietà PDF3DRenderMode.Type
+## PDF3DRenderMode.Type property
 
 Ottiene il tipo.
 
@@ -14,13 +14,15 @@ Ottiene il tipo.
 public RenderModeType Type { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Il tipo.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [RenderModeType](../../rendermodetype/)
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

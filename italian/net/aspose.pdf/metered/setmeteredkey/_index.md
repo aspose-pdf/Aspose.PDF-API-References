@@ -1,14 +1,14 @@
 ---
-title: Metered.SetMeteredKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Metered. Imposta la chiave pubblica e privata misurata. Se acquisti una licenza misurata, quando avvii l'applicazione, questa API dovrebbe essere chiamata, normalmente, questo è sufficiente. Tuttavia, se fallisci sempre nel caricare i dati di consumo e superi le 24 ore, la licenza sarà impostata su stato di valutazione, per evitare tale caso, dovresti controllare regolarmente lo stato della licenza, se è in stato di valutazione, chiama di nuovo questa API.
+title: "Metered.SetMeteredKey"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metered method. Imposta la chiave pubblica e privata di metered. Se acquisti una licenza metered quando avvii l'applicazione, questa API dovrebbe essere chiamata normalmente; questo è sufficiente. Tuttavia, se fallisce sempre il caricamento dei dati di consumo e supera le 24 ore, la licenza verrà impostata allo stato di valutazione; per evitare tale caso dovresti controllare regolarmente lo stato della licenza e, se è in stato di valutazione, chiamare nuovamente questa API."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/metered/setmeteredkey/
 ---
-## Metodo Metered.SetMeteredKey
+## Metered.SetMeteredKey method
 
-Imposta la chiave pubblica e privata misurata. Se acquisti una licenza misurata, quando avvii l'applicazione, questa API dovrebbe essere chiamata, normalmente, questo è sufficiente. Tuttavia, se fallisci sempre nel caricare i dati di consumo e superi le 24 ore, la licenza sarà impostata su stato di valutazione, per evitare tale caso, dovresti controllare regolarmente lo stato della licenza, se è in stato di valutazione, chiama di nuovo questa API.
+Imposta la chiave pubblica e privata metered. Se acquisti una licenza metered, all'avvio dell'applicazione questa API dovrebbe essere chiamata; normalmente è sufficiente. Tuttavia, se il caricamento dei dati di consumo fallisce continuamente e supera le 24 ore, la licenza verrà impostata in stato di valutazione; per evitare tale caso, dovresti controllare regolarmente lo stato della licenza e, se è in stato di valutazione, chiamare nuovamente questa API.
 
 ```csharp
 public void SetMeteredKey(string publicKey, string privateKey)
@@ -19,8 +19,10 @@ public void SetMeteredKey(string publicKey, string privateKey)
 | publicKey | String | chiave pubblica |
 | privateKey | String | chiave privata |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Metered](../)
+* class [Metered](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

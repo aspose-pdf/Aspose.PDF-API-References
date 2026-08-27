@@ -1,21 +1,23 @@
 ---
-title: BaseListQueryParameters.Order
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BaseListQueryParameters. Ottiene o imposta l'ordine di ordinamento in base al timestamp created_at degli oggetti. asc per ordine crescente e desc per ordine decrescente
+title: "BaseListQueryParameters.Order"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà BaseListQueryParameters. Ottiene o imposta l'ordine di ordinamento in base al timestamp created_at degli oggetti. asc per ordine ascendente e desc per ordine discendente"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/baselistqueryparameters/order/
 ---
-## Proprietà BaseListQueryParameters.Order
+## BaseListQueryParameters.Order property
 
-Ottiene o imposta l'ordine di ordinamento in base al timestamp created_at degli oggetti. asc per ordine crescente e desc per ordine decrescente.
+Ottiene o imposta l'ordine di ordinamento in base al timestamp created_at degli oggetti. asc per ordine ascendente e desc per ordine discendente.
 
 ```csharp
 public string Order { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseListQueryParameters](../)
+* class [BaseListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

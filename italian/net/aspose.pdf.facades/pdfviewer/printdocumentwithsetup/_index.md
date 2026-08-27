@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocumentWithSetup
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfViewer. Stampa il documento Pdf con una finestra di dialogo di configurazione. Scegli una stampante utilizzando la finestra di dialogo
+title: "PdfViewer.PrintDocumentWithSetup"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfViewer. Stampa il documento Pdf con una finestra di configurazione. Scegli una stampante usando la finestra di dialogo."
 type: docs
 weight: 340
 url: /it/net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/
 ---
-## Metodo PdfViewer.PrintDocumentWithSetup
+## PdfViewer.PrintDocumentWithSetup method
 
-Stampa il documento Pdf con una finestra di dialogo di configurazione. Scegli una stampante utilizzando la finestra di dialogo.
+Stampa il documento Pdf con una finestra di configurazione. Scegli una stampante usando la finestra.
 
 ```csharp
 public void PrintDocumentWithSetup()
@@ -36,8 +36,10 @@ iewer.PrintDocumentWithSetup()
 iewer.Close()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

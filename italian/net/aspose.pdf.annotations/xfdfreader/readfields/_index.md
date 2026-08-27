@@ -1,14 +1,14 @@
 ---
-title: XfdfReader.ReadFields
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XfdfReader. Importa valori dei campi da un file XFDF
+title: "XfdfReader.ReadFields"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XfdfReader. Importa i valori dei campi dal file XFDF"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/xfdfreader/readfields/
 ---
-## Metodo XfdfReader.ReadFields
+## XfdfReader.ReadFields method
 
-Importa valori dei campi da un file XFDF.
+Importa i valori dei campi dal file XFDF.
 
 ```csharp
 public static void ReadFields(Stream stream, Document document)
@@ -16,12 +16,14 @@ public static void ReadFields(Stream stream, Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream contenente dati XFDF. |
-| document | Document | Documento in cui i dati dei campi saranno importati. |
+| stream | Stream | Flusso contenente i dati XFDF. |
+| document | Document | Documento in cui verranno importati i dati dei campi. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [XfdfReader](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [XfdfReader](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

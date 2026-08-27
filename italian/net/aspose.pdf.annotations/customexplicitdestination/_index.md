@@ -1,12 +1,12 @@
 ---
-title: Class CustomExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.CustomExplicitDestination. Rappresenta una destinazione esplicita personalizzata
+title: "Classe CustomExplicitDestination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.CustomExplicitDestination class. Rappresenta una destinazione esplicita personalizzata"
 type: docs
-weight: 1640
+weight: 1730
 url: /it/net/aspose.pdf.annotations/customexplicitdestination/
 ---
-## Classe CustomExplicitDestination
+## CustomExplicitDestination class
 
 Rappresenta una destinazione esplicita personalizzata.
 
@@ -27,8 +27,10 @@ public sealed class CustomExplicitDestination : ExplicitDestination
 | --- | --- |
 | override [ToString](../../aspose.pdf.annotations/customexplicitdestination/tostring/)() | Converte in numero di pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ExplicitDestination](../explicitdestination/)
+* class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

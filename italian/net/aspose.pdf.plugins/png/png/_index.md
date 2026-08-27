@@ -1,12 +1,12 @@
 ---
-title: Png.Png
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Png. Il costruttore predefinito
+title: "Png.Png"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Png costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/png/png/
 ---
-## Costruttore Png
+## Png constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Png()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Png](../)
+* class [Png](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

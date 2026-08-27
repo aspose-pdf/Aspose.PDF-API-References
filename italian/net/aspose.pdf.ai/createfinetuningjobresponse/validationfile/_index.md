@@ -1,21 +1,23 @@
 ---
-title: CreateFineTuningJobResponse.ValidationFile
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di CreateFineTuningJobResponse. Ottiene o imposta l'ID di un file caricato che contiene dati di validazione
+title: "CreateFineTuningJobResponse.ValidationFile"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CreateFineTuningJobResponse. Ottiene o imposta l'ID di un file caricato che contiene dati di validazione"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.ai/createfinetuningjobresponse/validationfile/
 ---
-## Proprietà CreateFineTuningJobResponse.ValidationFile
+## CreateFineTuningJobResponse.ValidationFile property
 
-Ottiene o imposta l'ID di un file caricato che contiene dati di validazione.
+Ottiene o imposta l'ID di un file caricato che contiene i dati di convalida.
 
 ```csharp
 public string ValidationFile { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CreateFineTuningJobResponse](../)
+* class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

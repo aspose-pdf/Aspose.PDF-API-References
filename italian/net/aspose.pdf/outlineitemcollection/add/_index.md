@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OutlineItemCollection. Aggiunge un elemento di outline alla collezione
+title: "OutlineItemCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OutlineItemCollection metodo. Aggiunge un elemento di contorno alla raccolta"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf/outlineitemcollection/add/
 ---
-## Metodo OutlineItemCollection.Add
+## OutlineItemCollection.Add method
 
-Aggiunge un elemento di outline alla collezione.
+Aggiunge un elemento di contorno alla raccolta.
 
 ```csharp
 public override void Add(OutlineItemCollection outline)
@@ -16,10 +16,12 @@ public override void Add(OutlineItemCollection outline)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outline | OutlineItemCollection | L'elemento di outline da aggiungere. |
+| indice | OutlineItemCollection | L'elemento outline da aggiungere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

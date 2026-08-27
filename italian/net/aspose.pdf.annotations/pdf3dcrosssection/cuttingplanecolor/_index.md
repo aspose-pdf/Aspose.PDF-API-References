@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DCrossSection. Ottiene o imposta il colore del piano di taglio
+title: "PDF3DCrossSection.CuttingPlaneColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PDF3DCrossSection. Ottiene o imposta il color del piano di taglio"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplanecolor/
 ---
-## Proprietà PDF3DCrossSection.CuttingPlaneColor
+## PDF3DCrossSection.CuttingPlaneColor property
 
 Ottiene o imposta il colore del piano di taglio.
 
@@ -14,13 +14,15 @@ Ottiene o imposta il colore del piano di taglio.
 public Color CuttingPlaneColor { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Il colore del piano di taglio.
+Il color del piano di taglio.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [PDF3DCrossSection](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

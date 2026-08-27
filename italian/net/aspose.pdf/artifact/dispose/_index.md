@@ -1,21 +1,23 @@
 ---
-title: Artifact.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Artifact. Disporre dell'artefatto
+title: "Artifact.Dispose"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Artifact. Rilascia l'artifact."
 type: docs
 weight: 240
 url: /it/net/aspose.pdf/artifact/dispose/
 ---
-## Metodo Artifact.Dispose
+## Artifact.Dispose method
 
-Disporre dell'artefatto.
+Rilascia l'artefatto.
 
 ```csharp
 public void Dispose()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

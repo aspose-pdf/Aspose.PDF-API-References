@@ -1,12 +1,12 @@
 ---
-title: Document.GetObjectById
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo del documento. Ottiene un oggetto con l'ID specificato nel documento.
+title: "Document.GetObjectById"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Document. Ottiene un oggetto con ID specificato nel documento"
 type: docs
-weight: 680
+weight: 700
 url: /it/net/aspose.pdf/document/getobjectbyid/
 ---
-## Metodo Document.GetObjectById
+## Document.GetObjectById method
 
 Ottiene un oggetto con ID specificato nel documento.
 
@@ -20,10 +20,12 @@ public object GetObjectById(string id)
 
 ### Valore di ritorno
 
-L'oggetto con ID specificato. Null se l'ID non viene trovato.
+L'oggetto con ID specificato. Null se l'ID non è trovato.
 
 ### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

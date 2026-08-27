@@ -1,12 +1,12 @@
 ---
-title: IncompleteDetails.IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di IncompleteDetails. Il costruttore predefinito.
+title: "IncompleteDetails.IncompleteDetails"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore IncompleteDetails. Il costruttore predefinito."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/incompletedetails/incompletedetails/
 ---
-## Costruttore di IncompleteDetails
+## IncompleteDetails constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public IncompleteDetails()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [IncompleteDetails](../)
+* class [IncompleteDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

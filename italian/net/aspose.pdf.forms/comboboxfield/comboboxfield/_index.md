@@ -1,7 +1,7 @@
 ---
-title: ComboBoxField.ComboBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ComboBoxField. Costruttore per ComboBoxField da utilizzare in Generator
+title: "ComboBoxField.ComboBoxField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ComboBoxField costruttore. Costruttore per ComboBoxField da utilizzare in Generator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/comboboxfield/comboboxfield/
@@ -14,7 +14,7 @@ Costruttore per ComboBoxField da utilizzare in Generator.
 public ComboBoxField()
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -24,7 +24,7 @@ public ComboBoxField()
 
 ## ComboBoxField(Document) {#constructor_1}
 
-Crea un campo CombBox per lavorare con Generator.
+Crea un campo CombBox da utilizzare con Generator.
 
 ```csharp
 public ComboBoxField(Document doc)
@@ -32,9 +32,9 @@ public ComboBoxField(Document doc)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Documento in cui verrà creato il campo. |
+| doc | Document | Document dove verrà creato il campo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [ComboBoxField](../)
@@ -53,10 +53,10 @@ public ComboBoxField(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina in cui verrà posizionato il campo. |
-| rect | Rectangle | Rettangolo che definisce dimensione e posizione del campo sulla pagina. |
+| pagina | Page | Page dove il campo verrà posizionato. |
+| rect | Rectangle | Rectangle che definisce dimensione e posizione del campo sulla pagina. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -76,13 +76,15 @@ public ComboBoxField(Document doc, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Documento in cui dovrebbe essere creato il campo. |
-| rect | Rectangle | Rettangolo che definisce dimensione e posizione del campo. |
+| doc | Document | Document dove il campo dovrebbe essere creato. |
+| rect | Rectangle | Rectangle che definisce dimensione e posizione del campo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

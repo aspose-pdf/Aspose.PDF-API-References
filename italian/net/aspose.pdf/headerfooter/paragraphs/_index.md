@@ -1,22 +1,24 @@
 ---
-title: HeaderFooter.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HeaderFooter. Ottiene o imposta i paragrafi delle note finali
+title: "HeaderFooter.Paragraphs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà HeaderFooter. Ottiene o imposta i paragrafi della nota finale."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/headerfooter/paragraphs/
 ---
-## Proprietà HeaderFooter.Paragraphs
+## HeaderFooter.Paragraphs property
 
-Ottiene o imposta i paragrafi delle note finali.
+Ottiene o imposta i paragrafi della nota finale.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Paragraphs](../../paragraphs/)
-* classe [HeaderFooter](../)
+* class [Paragraphs](../../paragraphs/)
+* class [HeaderFooter](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

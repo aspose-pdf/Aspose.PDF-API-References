@@ -1,12 +1,12 @@
 ---
-title: Cells.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà delle celle. Il conteggio degli elementi
+title: "Cells.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cells. Il conteggio degli elementi"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/cells/count/
 ---
-## Proprietà Cells.Count
+## Cells.Count property
 
 Il conteggio degli elementi.
 
@@ -14,8 +14,10 @@ Il conteggio degli elementi.
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Cells](../)
+* class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

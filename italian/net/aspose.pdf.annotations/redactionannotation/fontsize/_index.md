@@ -1,12 +1,12 @@
 ---
-title: RedactionAnnotation.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RedactionAnnotation. Ottiene o imposta la dimensione del carattere per OverlayText
+title: "RedactionAnnotation.FontSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RedactionAnnotation. Ottiene o imposta la dimensione del carattere per OverlayText"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/redactionannotation/fontsize/
 ---
-## Proprietà RedactionAnnotation.FontSize
+## RedactionAnnotation.FontSize property
 
 Ottiene o imposta la dimensione del carattere per OverlayText.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la dimensione del carattere per OverlayText.
 public float FontSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RedactionAnnotation](../)
+* class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: OpenAIChatCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIChatCopilotOptions. Crea una nuova istanza di OpenAIChatCopilotOptions
+title: "OpenAIChatCopilotOptions.Create"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIChatCopilotOptions metodo. Crea una nuova istanza di OpenAIChatCopilotOptions"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/openaichatcopilotoptions/create/
@@ -14,13 +14,13 @@ Crea una nuova istanza di [`OpenAIChatCopilotOptions`](../).
 public static OpenAIChatCopilotOptions Create()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Una nuova istanza di [`OpenAIChatCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,14 +36,16 @@ public static OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> c
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| config | Action`1 | Il delegato per configurare le opzioni. |
+| configurazione | Action`1 | Il delegato per configurare le opzioni. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza configurata di [`OpenAIChatCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

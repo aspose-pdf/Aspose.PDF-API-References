@@ -1,12 +1,12 @@
 ---
-title: StringResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà StringResult. Indica se il risultato è una stringa.
+title: "StringResult.IsString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StringResult. Indica se il risultato è una stringa"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.plugins/stringresult/isstring/
 ---
-## Proprietà StringResult.IsString
+## StringResult.IsString property
 
 Indica se il risultato è una stringa.
 
@@ -14,12 +14,14 @@ Indica se il risultato è una stringa.
 public bool IsString { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 `true` se il risultato è una stringa; altrimenti `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StringResult](../)
+* class [StringResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

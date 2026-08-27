@@ -1,12 +1,12 @@
 ---
-title: TextStamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextStamp. Altezza desiderata del timbro sulla pagina
+title: "TextStamp.Height"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextStamp. Altezza desiderata del timbro nella pagina."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/textstamp/height/
 ---
-## Proprietà TextStamp.Height
+## TextStamp.Height property
 
 Altezza desiderata del timbro sulla pagina.
 
@@ -14,8 +14,10 @@ Altezza desiderata del timbro sulla pagina.
 public override double Height { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

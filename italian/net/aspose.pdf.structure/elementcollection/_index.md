@@ -1,14 +1,14 @@
 ---
-title: Class ElementCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Structure.ElementCollection class. Collection of base logical structure elements
+title: "Classe ElementCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Structure.ElementCollection. Collezione di elementi di struttura logica di base"
 type: docs
-weight: 10150
+weight: 10330
 url: /it/net/aspose.pdf.structure/elementcollection/
 ---
-## Classe ElementCollection
+## ElementCollection class
 
-Collezione di elementi di struttura logica di base.
+Raccolta di elementi base della struttura logica.
 
 ```csharp
 public class ElementCollection : IEnumerable<Element>
@@ -19,7 +19,7 @@ public class ElementCollection : IEnumerable<Element>
 | Nome | Descrizione |
 | --- | --- |
 | [Count](../../aspose.pdf.structure/elementcollection/count/) { get; } | Conteggio degli elementi. |
-| [Item](../../aspose.pdf.structure/elementcollection/item/) { get; } | Ottiene l'elemento per indice. |
+| [Item](../../aspose.pdf.structure/elementcollection/item/) { get; } | Ottiene l'Elemento per indice. |
 
 ## Metodi
 
@@ -28,8 +28,10 @@ public class ElementCollection : IEnumerable<Element>
 | [GetEnumerator](../../aspose.pdf.structure/elementcollection/getenumerator/)() | Restituisce un enumeratore che itera attraverso la collezione. |
 | [Remove](../../aspose.pdf.structure/elementcollection/remove/)(Element) | Rimuove l'elemento dalla collezione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Element](../element/)
+* class [Element](../element/)
 * namespace [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../)
+
+

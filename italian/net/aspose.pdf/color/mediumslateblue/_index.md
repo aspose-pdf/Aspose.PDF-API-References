@@ -1,12 +1,12 @@
 ---
-title: Color.MediumSlateBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF7B68EE
+title: "Color.MediumSlateBlue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore definito dal sistema che ha un valore ARGB di c FF7B68EE"
 type: docs
 weight: 880
 url: /it/net/aspose.pdf/color/mediumslateblue/
 ---
-## Proprietà Color.MediumSlateBlue
+## Color.MediumSlateBlue property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF7B68EE.
 
@@ -16,10 +16,12 @@ public static Color MediumSlateBlue { get; }
 
 ### Valore di ritorno
 
-Un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
 ### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

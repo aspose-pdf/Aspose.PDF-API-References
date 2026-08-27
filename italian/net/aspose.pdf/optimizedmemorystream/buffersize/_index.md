@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.BufferSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OptimizedMemoryStream. Ottiene o imposta la dimensione dei buffer sottostanti
+title: "OptimizedMemoryStream.BufferSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OptimizedMemoryStream. Ottiene o imposta la dimensione dei buffer sottostanti."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/optimizedmemorystream/buffersize/
 ---
-## Proprietà OptimizedMemoryStream.BufferSize
+## OptimizedMemoryStream.BufferSize property
 
 Ottiene o imposta la dimensione dei buffer sottostanti.
 
@@ -14,12 +14,14 @@ Ottiene o imposta la dimensione dei buffer sottostanti.
 public int BufferSize { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 La dimensione dei buffer.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

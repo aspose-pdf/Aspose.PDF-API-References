@@ -1,14 +1,14 @@
 ---
-title: Color.FromRgb
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Color. Ottiene un oggetto Color pdf valido dal valore System.Drawing.Color
+title: "Color.FromRgb"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Color. Restituisce un oggetto Color pdf valido dal valore System.Drawing.Color"
 type: docs
 weight: 1470
 url: /it/net/aspose.pdf/color/fromrgb/
 ---
 ## FromRgb(Color) {#fromrgb_1}
 
-Ottiene un oggetto Color pdf valido dal valore System.Drawing.Color.
+Ottiene un oggetto Color PDF valido dal valore System.Drawing.Color.
 
 ```csharp
 public static Color FromRgb(Color color)
@@ -18,13 +18,13 @@ public static Color FromRgb(Color color)
 | --- | --- | --- |
 | color | Color | Valore System.Drawing.Color. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Oggetto Color con ciascun valore del componente nell'intervallo [0..1].
+Oggetto Color con il valore di ciascun componente nell'intervallo [0..1].
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,7 +32,7 @@ Oggetto Color con ciascun valore del componente nell'intervallo [0..1].
 
 ## FromRgb(double, double, double) {#fromrgb}
 
-Ottiene un oggetto Color pdf valido dai componenti di colore RGB.
+Ottiene un oggetto Color PDF valido dai componenti di colore RGB.
 
 ```csharp
 public static Color FromRgb(double r, double g, double b)
@@ -40,16 +40,18 @@ public static Color FromRgb(double r, double g, double b)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| r | Double | Il componente di colore Rosso (valore 0 - 1). |
-| g | Double | Il componente di colore Verde (valore 0 - 1). |
-| b | Double | Il componente di colore Blu (valore 0 - 1). |
+| r | Double | Il componente colore Rosso (valore 0 - 1). |
+| g | Double | Il componente colore Verde (valore 0 - 1). |
+| b | Double | Il componente colore Blu (valore 0 - 1). |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Oggetto Color con ciascun valore del componente nell'intervallo [0..1].
+Oggetto Color con il valore di ciascun componente nell'intervallo [0..1].
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

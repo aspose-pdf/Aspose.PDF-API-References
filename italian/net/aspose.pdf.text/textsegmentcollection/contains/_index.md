@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextSegmentCollection. Determina se la collezione contiene un valore specifico
+title: "TextSegmentCollection.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextSegmentCollection. Determina se la collezione contiene un valore specifico"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.text/textsegmentcollection/contains/
 ---
-## Metodo TextSegmentCollection.Contains
+## TextSegmentCollection.Contains method
 
-Determina se la collezione contiene un valore specifico.
+Determina se la raccolta contiene un valore specifico.
 
 ```csharp
 public bool Contains(TextSegment item)
@@ -16,7 +16,7 @@ public bool Contains(TextSegment item)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| item | TextSegment | L'oggetto da localizzare nella collezione |
+| item | TextSegment | L'oggetto da individuare nella collezione |
 
 ### Valore di ritorno
 
@@ -24,7 +24,9 @@ true se l'elemento è trovato nella collezione; altrimenti, false.
 
 ### Vedi anche
 
-* classe [TextSegment](../../textsegment/)
-* classe [TextSegmentCollection](../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class JavascriptExtensionsException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.JavascriptExtensionsException. L'eccezione che viene sollevata in caso di errori durante l'utilizzo di JavascriptExtensions
+title: "Classe JavascriptExtensionsException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.JavascriptExtensionsException class. L'eccezione generata in caso di errori durante l'utilizzo di JavascriptExtensions"
 type: docs
-weight: 6050
+weight: 6180
 url: /it/net/aspose.pdf/javascriptextensionsexception/
 ---
-## Classe JavascriptExtensionsException
+## JavascriptExtensionsException class
 
-L'eccezione che viene sollevata in caso di errori durante l'utilizzo di JavascriptExtensions.
+L'eccezione che viene generata in caso di errori durante l'uso di JavascriptExtensions.
 
 ```csharp
 public class JavascriptExtensionsException : PdfException
@@ -22,8 +22,10 @@ public class JavascriptExtensionsException : PdfException
 | [JavascriptExtensionsException](javascriptextensionsexception/#constructor_1)(string) | Inizializza una nuova istanza della classe `JavascriptExtensionsException`. |
 | [JavascriptExtensionsException](javascriptextensionsexception/#constructor_2)(string, Exception) | Inizializza una nuova istanza della classe `JavascriptExtensionsException` con un messaggio di errore specificato e un riferimento all'eccezione interna che è la causa di questa eccezione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

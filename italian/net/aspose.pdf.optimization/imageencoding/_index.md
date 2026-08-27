@@ -1,12 +1,12 @@
 ---
-title: Enum ImageEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Optimizzazione.ImageEncoding enum. Tipi di codice di compressione delle immagini
+title: "Enum ImageEncoding"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Optimization.ImageEncoding enum. Tipi di codifica immagine"
 type: docs
-weight: 7970
+weight: 8110
 url: /it/net/aspose.pdf.optimization/imageencoding/
 ---
-## Enumerazione ImageEncoding
+## ImageEncoding enumeration
 
 Tipi di codifica delle immagini.
 
@@ -18,12 +18,14 @@ public enum ImageEncoding
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Unchanged | `0` | Non cambiare la codifica. |
+| Unchanged | `0` | Non modificare la codifica. |
 | Jpeg | `1` | Codifica JPEG (DCT). |
 | Flate | `2` | Codifica Flate. |
 | Jpeg2000 | `3` | Codifica JPEG2000 (JPX). |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DCuttingPlaneOrientation.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PDF3DCuttingPlaneOrientation. Restituisce una Stringa che rappresenta questa istanza
+title: "PDF3DCuttingPlaneOrientation.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PDF3DCuttingPlaneOrientation. Restituisce una String che rappresenta questa istanza"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/
 ---
-## Metodo PDF3DCuttingPlaneOrientation.ToString
+## PDF3DCuttingPlaneOrientation.ToString method
 
 Restituisce una Stringa che rappresenta questa istanza.
 
@@ -14,12 +14,14 @@ Restituisce una Stringa che rappresenta questa istanza.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Una Stringa che rappresenta questa istanza.
+Una String che rappresenta questa istanza.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DCuttingPlaneOrientation](../)
+* class [PDF3DCuttingPlaneOrientation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

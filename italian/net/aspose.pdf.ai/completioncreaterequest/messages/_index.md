@@ -1,22 +1,24 @@
 ---
-title: CompletionCreateRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CompletionCreateRequest. Ottiene o imposta una lista di messaggi comprendendo la conversazione finora.
+title: "CompletionCreateRequest.Messages"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CompletionCreateRequest property. Ottiene o imposta un elenco di messaggi che compongono la conversazione fino a ora"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.ai/completioncreaterequest/messages/
 ---
-## Proprietà CompletionCreateRequest.Messages
+## CompletionCreateRequest.Messages property
 
-Ottiene o imposta un elenco di messaggi che compongono la conversazione fino ad ora.
+Ottiene o imposta un elenco di messaggi che compongono la conversazione fino a ora.
 
 ```csharp
 public List<ChatMessage> Messages { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ChatMessage](../../chatmessage/)
-* classe [CompletionCreateRequest](../)
+* class [ChatMessage](../../chatmessage/)
+* class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

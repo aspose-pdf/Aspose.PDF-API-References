@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToField
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XmpValue. Restituisce il valore XMP come campo XMP
+title: "XmpValue.ToField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XmpValue. Restituisce il valore XMP come campo XMP"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf/xmpvalue/tofield/
 ---
-## Metodo XmpValue.ToField
+## XmpValue.ToField method
 
 Restituisce il valore XMP come campo XMP.
 
@@ -14,13 +14,15 @@ Restituisce il valore XMP come campo XMP.
 public XmpField ToField()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Valore del campo.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpField](../../xmpfield/)
-* classe [XmpValue](../)
+* class [XmpField](../../xmpfield/)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

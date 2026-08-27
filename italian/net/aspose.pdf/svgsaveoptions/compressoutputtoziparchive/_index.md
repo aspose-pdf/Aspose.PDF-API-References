@@ -1,21 +1,23 @@
 ---
-title: SvgSaveOptions.CompressOutputToZipArchive
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SvgSaveOptions. Specifica se l'output sarà creato come un unico ziparchive. Si prega di fare riferimento al commento sulle opzioni 'TreatTargetFileNameAsDirectory' per vedere le regole di denominazione dei file svg delle pagine per documenti sorgente multipagina, che si applicano anche al set compresso di file di output.
+title: "SvgSaveOptions.CompressOutputToZipArchive"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo SvgSaveOptions. Specifica se l'output verrà creato come un unico archivio zip. Si prega di fare riferimento al commento delle opzioni TreatTargetFileNameAsDirectory per vedere le regole di denominazione dei file svg delle pagine per un source document multipagina che sono anche applicate al set compresso di file di output."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/svgsaveoptions/compressoutputtoziparchive/
 ---
-## Campo SvgSaveOptions.CompressOutputToZipArchive
+## SvgSaveOptions.CompressOutputToZipArchive field
 
-Specifica se l'output sarà creato come un'unica zip-archive. Si prega di fare riferimento al commento sulle opzioni 'TreatTargetFileNameAsDirectory' per vedere le regole di denominazione dei file svg delle pagine per documenti sorgente multipagina, che si applicano anche al set compresso di file di output.
+Specifica se l'output verrà creato come un unico archivio zip. Si prega di fare riferimento al commento delle opzioni 'TreatTargetFileNameAsDirectory' per vedere le regole di denominazione dei file svg delle pagine per documenti sorgente multipagina, che sono applicate anche al set compresso di file di output.
 
 ```csharp
 public bool CompressOutputToZipArchive;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SvgSaveOptions](../)
+* class [SvgSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

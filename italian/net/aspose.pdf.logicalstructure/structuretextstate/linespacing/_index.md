@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.LineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di StructureTextState. Ottiene o imposta l'interlinea del testo
+title: "StructureTextState.LineSpacing"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTextState proprietà. Ottiene o imposta l'interlinea del testo"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.logicalstructure/structuretextstate/linespacing/
 ---
-## Proprietà StructureTextState.LineSpacing
+## StructureTextState.LineSpacing property
 
 Ottiene o imposta l'interlinea del testo.
 
@@ -16,10 +16,12 @@ public float? LineSpacing { get; set; }
 
 ## Osservazioni
 
-Può essere nullo. Usa null per ereditare la proprietà `LineSpacing` dall'elemento di struttura genitore.
+Può essere null. Usa null per ereditare la proprietà `LineSpacing` dall'elemento strutturale genitore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTextState](../)
+* class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

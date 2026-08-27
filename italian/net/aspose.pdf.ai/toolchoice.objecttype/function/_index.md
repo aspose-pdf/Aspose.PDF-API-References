@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.ObjectType.Function
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ObjectType. Ottiene o imposta la funzione da chiamare
+title: "ToolChoice.ObjectType.Function"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ObjectType proprietà. Ottiene o imposta la funzione da chiamare"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/toolchoice.objecttype/function/
 ---
-## Proprietà ToolChoice.ObjectType.Function
+## ToolChoice.ObjectType.Function property
 
 Ottiene o imposta la funzione da chiamare.
 
@@ -14,9 +14,11 @@ Ottiene o imposta la funzione da chiamare.
 public CompletionFunction Function { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CompletionFunction](../../completionfunction/)
-* classe [ObjectType](../)
+* class [CompletionFunction](../../completionfunction/)
+* class [ObjectType](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

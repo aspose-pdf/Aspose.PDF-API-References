@@ -1,22 +1,24 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OpenAIAssistantCopilotOptionsBase. Ottiene o imposta la collezione di documenti da elaborare
+title: "OpenAIAssistantCopilotOptionsBase.DocumentCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIAssistantCopilotOptionsBase proprietà. Ottiene o imposta la raccolta di documenti da elaborare"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/documentcollection/
 ---
-## Proprietà OpenAIAssistantCopilotOptionsBase.DocumentCollection
+## OpenAIAssistantCopilotOptionsBase.DocumentCollection property
 
-Ottiene o imposta la collezione di documenti da elaborare.
+Ottiene o imposta la raccolta di documenti da elaborare.
 
 ```csharp
 public DocumentCollection DocumentCollection { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentCollection](../../documentcollection/)
-* classe [OpenAIAssistantCopilotOptionsBase](../)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAIAssistantCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

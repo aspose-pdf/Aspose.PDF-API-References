@@ -1,24 +1,24 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationsFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfAnnotationEditor. Importa tutte le annotazioni da un file XFDF
+title: "PdfAnnotationEditor.ImportAnnotationsFromXfdf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfAnnotationEditor. Importa tutte le annotazioni dal file XFDF"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/
 ---
 ## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
 
-Importa tutte le annotazioni da un file XFDF.
+Importa tutte le annotazioni dal file XFDF.
 
 ```csharp
 public void ImportAnnotationsFromXfdf(string xfdfFile)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | xfdfFile | String | Il file XFDF di input. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -27,7 +27,7 @@ editor.ImportAnnotationsFromXfdf("annots.xfdf");
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -37,17 +37,17 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf}
 
-Importa tutte le annotazioni da un flusso di dati XFDF.
+Importa tutte le annotazioni dal flusso di dati XFDF.
 
 ```csharp
 public void ImportAnnotationsFromXfdf(Stream xfdfStream)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | xfdfStream | Stream | Il flusso di dati XFDF di input. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -56,8 +56,10 @@ editor.ImportAnnotationsFromXfdf(File.OpenRead("annots.xfdf"));
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

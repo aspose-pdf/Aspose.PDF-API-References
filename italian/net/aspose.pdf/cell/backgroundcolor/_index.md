@@ -1,12 +1,12 @@
 ---
-title: Cell.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della cella. Ottiene o imposta il colore di sfondo
+title: "Cell.BackgroundColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cell. Ottiene o imposta il colore di sfondo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/cell/backgroundcolor/
 ---
-## Proprietà Cell.BackgroundColor
+## Cell.BackgroundColor property
 
 Ottiene o imposta il colore di sfondo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il colore di sfondo.
 public Color BackgroundColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../color/)
-* classe [Cell](../)
+* class [Color](../../color/)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

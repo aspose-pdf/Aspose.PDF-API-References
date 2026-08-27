@@ -1,20 +1,22 @@
 ---
-title: PdfToImageOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfToImageOptions.
+title: "PdfToImageOptions.Outputs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfToImageOptions."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.plugins/pdftoimageoptions/outputs/
 ---
-## Proprietà PdfToImageOptions.Outputs
+## PdfToImageOptions.Outputs property
 
 ```csharp
 public List<IDataSource> Outputs { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../../idatasource/)
-* classe [PdfToImageOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Bookmark.BoldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del segnalibro. Ottiene o imposta il flag grassetto del titolo dei segnalibri
+title: "Bookmark.BoldFlag"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Bookmark. Ottiene o imposta il flag grassetto del titolo dei segnalibri"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.facades/bookmark/boldflag/
 ---
-## Proprietà Bookmark.BoldFlag
+## Bookmark.BoldFlag property
 
 Ottiene o imposta il flag grassetto del titolo del segnalibro.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il flag grassetto del titolo del segnalibro.
 public bool BoldFlag { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

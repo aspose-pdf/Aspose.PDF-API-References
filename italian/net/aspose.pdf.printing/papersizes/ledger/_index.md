@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Ledger
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Ledger paper 17 in. by 11 in
+title: "PaperSizes.Ledger"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSizes. carta Ledger 17 pol. per 11 pol."
 type: docs
 weight: 620
 url: /it/net/aspose.pdf.printing/papersizes/ledger/
 ---
-## Campo PaperSizes.Ledger
+## PaperSizes.Ledger field
 
-Carta Ledger (17 in. per 11 in.).
+Carta Ledger (17 pollici per 11 pollici).
 
 ```csharp
 public static readonly PaperSize Ledger;
@@ -16,7 +16,9 @@ public static readonly PaperSize Ledger;
 
 ### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

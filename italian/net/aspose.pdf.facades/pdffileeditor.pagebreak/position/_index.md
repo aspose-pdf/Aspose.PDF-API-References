@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.PageBreak.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageBreak. Posizione verticale del salto di pagina
+title: "PdfFileEditor.PageBreak.Position"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageBreak. Posizione verticale dell'interruzione di pagina"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.facades/pdffileeditor.pagebreak/position/
 ---
-## Proprietà PdfFileEditor.PageBreak.Position
+## PdfFileEditor.PageBreak.Position property
 
-Posizione verticale del salto di pagina.
+Posizione verticale dell'interruzione di pagina.
 
 ```csharp
 public double Position { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageBreak](../)
+* class [PageBreak](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

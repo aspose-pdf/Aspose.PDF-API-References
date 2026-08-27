@@ -1,21 +1,23 @@
 ---
-title: FormCheckBoxFieldSetOptions.Checked
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormCheckBoxFieldSetOptions. Ottiene/imposta il valore per determinare la proprietà Checked per il campo modificato se sarà impostato
+title: "FormCheckBoxFieldSetOptions.Checked"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormCheckBoxFieldSetOptions. Ottiene/imposta il valore per determinare la proprietà Checked per il campo modificato se verrà impostata"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/formcheckboxfieldsetoptions/checked/
 ---
-## Proprietà FormCheckBoxFieldSetOptions.Checked
+## FormCheckBoxFieldSetOptions.Checked property
 
-Ottiene/imposta il valore per determinare la proprietà Checked per il campo modificato (se sarà impostato).
+Ottiene/Imposta il valore per determinare la proprietà Checked per il campo modificato (se verrà impostata).
 
 ```csharp
 public bool? Checked { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormCheckBoxFieldSetOptions](../)
+* class [FormCheckBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

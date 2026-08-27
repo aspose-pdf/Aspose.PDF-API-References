@@ -1,22 +1,24 @@
 ---
-title: ConcatenateMatrix.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ConcatenateMatrix. Argomento matrice dell'operatore
+title: "ConcatenateMatrix.Matrix"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ConcatenateMatrix. Argomento Matrix dell'operatore"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/concatenatematrix/matrix/
 ---
-## Proprietà ConcatenateMatrix.Matrix
+## ConcatenateMatrix.Matrix property
 
-Argomento matrice dell'operatore.
+Argomento Matrix dell'operatore.
 
 ```csharp
 public Matrix Matrix { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix](../../../aspose.pdf/matrix/)
-* classe [ConcatenateMatrix](../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [ConcatenateMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

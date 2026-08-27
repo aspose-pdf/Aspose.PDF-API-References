@@ -1,7 +1,7 @@
 ---
-title: PageSettings.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PageSettings. Inizializza una nuova istanza della classe PageSettings utilizzando la stampante predefinita
+title: "PageSettings.PageSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PageSettings. Inizializza una nuova istanza della classe PageSettings utilizzando la stampante predefinita"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.printing/pagesettings/pagesettings/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`PageSettings`](../) utilizzando la 
 public PageSettings()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSettings](../)
+* class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,9 +40,11 @@ public PageSettings(PrinterSettings printerSettings)
 | --- | --- |
 | ArgumentNullException | *printerSettings* è nullo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrinterSettings](../../printersettings/)
-* classe [PageSettings](../)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

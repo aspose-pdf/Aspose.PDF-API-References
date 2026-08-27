@@ -1,14 +1,14 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetSpacingMoveToNextLineShowText metodo. Accetta oggetto visitor per elaborare l'operatore.
+title: "SetSpacingMoveToNextLineShowText.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SetSpacingMoveToNextLineShowText. Accetta un oggetto visitor per elaborare l'operatore"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/accept/
 ---
-## Metodo SetSpacingMoveToNextLineShowText.Accept
+## SetSpacingMoveToNextLineShowText.Accept method
 
-Accetta un oggetto visitatore per elaborare l'operatore.
+Accetta un oggetto visitor per elaborare l'operatore.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Oggetto visitatore. |
+| visitatore | IOperatorSelector | Oggetto visitor. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [SetSpacingMoveToNextLineShowText](../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetSpacingMoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

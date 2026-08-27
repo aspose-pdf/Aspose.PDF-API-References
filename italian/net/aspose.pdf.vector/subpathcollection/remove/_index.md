@@ -1,12 +1,12 @@
 ---
-title: Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Elimina l'elemento SubPath.
+title: "Rimuovi"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Elimina l'elemento SubPath."
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.vector/subpathcollection/remove/
 ---
-## SubPathCollection.Remove metodo
+## SubPathCollection.Remove method
 
 Elimina l'elemento SubPath.
 
@@ -24,8 +24,8 @@ True - se l'elemento è stato trovato; altrimenti, false.
 
 ### Vedi anche
 
-* classe [SubPath](../../subpath)
-* classe [SubPathCollection](../../subpathcollection)
+* class [SubPath](../../subpath)
+* class [SubPathCollection](../../subpathcollection)
 * namespace [Aspose.Pdf.Vector](../../subpathcollection)
 * assembly [Aspose.PDF](../../../)
 

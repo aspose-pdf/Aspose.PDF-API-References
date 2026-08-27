@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Rectangle. Clona l'oggetto Rectangle
+title: "Rectangle.Clone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Rectangle. Clona l'oggetto Rectangle."
 type: docs
 weight: 160
 url: /it/net/aspose.pdf/rectangle/clone/
 ---
-## Metodo Rectangle.Clone
+## Rectangle.Clone method
 
 Clona l'oggetto Rectangle.
 
@@ -16,10 +16,12 @@ public object Clone()
 
 ### Valore di ritorno
 
-Oggetto clone.
+Clona l'oggetto.
 
 ### Vedi anche
 
-* classe [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

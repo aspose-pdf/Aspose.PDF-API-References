@@ -1,7 +1,7 @@
 ---
-title: PdfPageEditor.PdfPageEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfPageEditor. Costruttore per la classe PdfPageEditor
+title: "PdfPageEditor.PdfPageEditor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfPageEditor costruttore. Costruttore per la classe PdfPageEditor"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/
@@ -14,9 +14,9 @@ Costruttore per la classe PdfPageEditor.
 public PdfPageEditor()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,13 @@ public PdfPageEditor(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| document | Document | Oggetto documento che deve essere elaborato. |
+| document | Document | Oggetto Document che dovrebbe essere elaborato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfPageEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

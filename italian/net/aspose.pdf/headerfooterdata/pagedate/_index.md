@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterData.PageDate
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HeaderFooterData. Ottiene o imposta le impostazioni della data
+title: "HeaderFooterData.PageDate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "HeaderFooterData proprietà. Ottiene o imposta le impostazioni della data"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/headerfooterdata/pagedate/
 ---
-## Proprietà HeaderFooterData.PageDate
+## HeaderFooterData.PageDate property
 
 Ottiene o imposta le impostazioni della data.
 
@@ -14,9 +14,11 @@ Ottiene o imposta le impostazioni della data.
 public PageDate PageDate { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageDate](../../pagedate/)
-* classe [HeaderFooterData](../)
+* class [PageDate](../../pagedate/)
+* class [HeaderFooterData](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

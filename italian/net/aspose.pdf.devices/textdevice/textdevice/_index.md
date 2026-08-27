@@ -1,14 +1,14 @@
 ---
-title: TextDevice.TextDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TextDevice. Inizializza una nuova istanza di TextDevice con opzioni di estrazione del testo
+title: "TextDevice.TextDevice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TextDevice. Inizializza una nuova istanza di TextDevice con le opzioni di estrazione del testo."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.devices/textdevice/textdevice/
 ---
 ## TextDevice(TextExtractionOptions) {#constructor_1}
 
-Inizializza una nuova istanza di [`TextDevice`](../) con opzioni di estrazione del testo.
+Inizializza una nuova istanza di [`TextDevice`](../) con le opzioni di estrazione del testo.
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions)
@@ -18,10 +18,10 @@ public TextDevice(TextExtractionOptions extractionOptions)
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | Opzioni di estrazione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* classe [TextDevice](../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,15 +29,15 @@ public TextDevice(TextExtractionOptions extractionOptions)
 
 ## TextDevice() {#constructor}
 
-Inizializza una nuova istanza di [`TextDevice`](../) con la modalità di formattazione del testo Raw e codifica del testo Unicode.
+Inizializza una nuova istanza di [`TextDevice`](../) con la modalità di formattazione Raw text e la codifica Unicode del testo.
 
 ```csharp
 public TextDevice()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextDevice](../)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,11 +53,11 @@ public TextDevice(Encoding encoding)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| encoding | Encoding | Codifica del testo estratto |
+| encoding | Codifica | Codifica del testo estratto |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextDevice](../)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -65,7 +65,7 @@ public TextDevice(Encoding encoding)
 
 ## TextDevice(TextExtractionOptions, Encoding) {#constructor_2}
 
-Inizializza una nuova istanza di [`TextDevice`](../) per la codifica specificata con opzioni di estrazione del testo.
+Inizializza una nuova istanza di [`TextDevice`](../) per la codifica specificata con le opzioni di estrazione del testo.
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)
@@ -74,11 +74,13 @@ public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | Opzioni di estrazione del testo. |
-| encoding | Encoding | Codifica del testo estratto. |
+| encoding | Codifica | Codifica del testo estratto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* classe [TextDevice](../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

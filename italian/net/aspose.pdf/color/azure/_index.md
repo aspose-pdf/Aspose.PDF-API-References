@@ -1,12 +1,12 @@
 ---
-title: Color.Azure
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Color. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFF0FFFF
+title: "Color.Azure"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore di sistema definito che ha un valore ARGB di c FFF0FFFF"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/color/azure/
 ---
-## Proprietà Color.Azure
+## Color.Azure property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF0FFFF.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF0FFFF.
 public static Color Azure { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

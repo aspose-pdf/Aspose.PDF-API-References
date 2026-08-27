@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.Length
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OptimizedMemoryStream. Quando sovrascritta in una classe derivata, ottiene la lunghezza in byte dello stream
+title: "OptimizedMemoryStream.Length"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OptimizedMemoryStream. Quando sovrascritto in una classe derivata restituisce la lunghezza in byte dello stream"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/optimizedmemorystream/length/
 ---
-## Proprietà OptimizedMemoryStream.Length
+## OptimizedMemoryStream.Length property
 
-Quando sovrascritta in una classe derivata, ottiene la lunghezza in byte dello stream.
+Quando sovrascritto in una classe derivata, ottiene la lunghezza in byte dello stream.
 
 ```csharp
 public override long Length { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un valore long che rappresenta la lunghezza dello stream in byte.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

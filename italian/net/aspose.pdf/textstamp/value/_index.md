@@ -1,21 +1,23 @@
 ---
-title: TextStamp.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextStamp. Ottiene o imposta un valore stringa che viene utilizzato come timbro sulla pagina
+title: "TextStamp.Value"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextStamp. Restituisce o imposta il valore stringa utilizzato come timbro sulla page"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf/textstamp/value/
 ---
-## Proprietà TextStamp.Value
+## TextStamp.Value property
 
-Ottiene o imposta un valore stringa che viene utilizzato come timbro sulla pagina.
+Ottiene o imposta il valore stringa utilizzato come timbro nella pagina.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

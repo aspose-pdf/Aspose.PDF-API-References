@@ -1,12 +1,12 @@
 ---
-title: Class Right
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Right. Rappresenta le impostazioni di allineamento a destra per i dati di intestazione e piè di pagina
+title: "Classe Right"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Right. Rappresenta le impostazioni di allineamento a destra per i dati di intestazione e piè di pagina."
 type: docs
-weight: 9810
+weight: 9960
 url: /it/net/aspose.pdf/right/
 ---
-## Classe Right
+## Right class
 
 Rappresenta le impostazioni di allineamento a destra per i dati di intestazione e piè di pagina.
 
@@ -27,8 +27,10 @@ public sealed class Right : HeaderFooterData
 | [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Ottiene o imposta le impostazioni della data. |
 | [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Ottiene o imposta le impostazioni del numero di pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HeaderFooterData](../headerfooterdata/)
+* class [HeaderFooterData](../headerfooterdata/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class CompromiseCheckResult
-second_title: Aspose.PDF for .NET API Reference
-description: Rappresenta una classe per verificare le firme digitali del documento per compromissione.
+title: "Classe CompromiseCheckResult"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Signatures.CompromiseCheckResult. Rappresenta una classe per verificare le firme digitali del documento per compromissione"
 type: docs
-weight: 10100
+weight: 10280
 url: /it/net/aspose.pdf.signatures/compromisecheckresult/
 ---
-## Classe CompromiseCheckResult
+## CompromiseCheckResult class
 
-Rappresenta una classe per controllare le firme digitali dei documenti per compromissione.
+Rappresenta una classe per verificare le firme digitali del documento per compromissione.
 
 ```csharp
 public sealed class CompromiseCheckResult
@@ -25,9 +25,11 @@ public sealed class CompromiseCheckResult
 
 | Nome | Descrizione |
 | --- | --- |
-| readonly [CompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/compromisedsignatures/) | Ottiene una collezione di firme digitali che sono state identificate come compromesse. Questa proprietà contiene l'elenco di tutte le firme compromesse rilevate nel documento. |
+| readonly [CompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/compromisedsignatures/) | Ottiene una raccolta di firme digitali identificate come compromesse. Questa proprietà contiene l'elenco di tutte le firme compromesse rilevate nel documento. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Signatures](../../aspose.pdf.signatures/)
 * assembly [Aspose.PDF](../../)
+
+

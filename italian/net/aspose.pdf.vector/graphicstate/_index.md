@@ -1,14 +1,14 @@
 ---
-title: Class GraphicState
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vector.StatoGraphicco. Rappresenta lo stato grafico dell'elemento grafico corrente.
+title: "Classe GraphicState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Vector.GraphicState. Rappresenta lo stato grafico dell'attuale GraphicElement."
 type: docs
-weight: 11200
+weight: 11390
 url: /it/net/aspose.pdf.vector/graphicstate/
 ---
-## Classe GraphicState
+## GraphicState class
 
-Rappresenta lo stato grafico dell'attuale [`GraphicElement`](../graphicelement/).
+Rappresenta lo stato grafico dell'[`GraphicElement`](../graphicelement/) corrente.
 
 ```csharp
 public class GraphicState
@@ -18,11 +18,13 @@ public class GraphicState
 
 | Nome | Descrizione |
 | --- | --- |
-| [ClipsAndMatrices](../../aspose.pdf.vector/graphicstate/clipsandmatrices/) { get; } | Ottiene gli operatori che rappresentano clip e matrici di concatenazione. |
-| [ColorsAndStyles](../../aspose.pdf.vector/graphicstate/colorsandstyles/) { get; } | Ottiene gli operatori che rappresentano spazi colore, colori e stili di linea. |
-| [Matrix](../../aspose.pdf.vector/graphicstate/matrix/) { get; set; } | Ottiene l'attuale matrice di trasformazione. |
+| [ClipsAndMatrices](../../aspose.pdf.vector/graphicstate/clipsandmatrices/) { get; } | Ottiene gli operatori che rappresentano i clip e le matrici di concatenazione. |
+| [ColorsAndStyles](../../aspose.pdf.vector/graphicstate/colorsandstyles/) { get; } | Ottiene gli operatori che rappresentano gli spazi colore, i colori e gli stili di linea. |
+| [Matrix](../../aspose.pdf.vector/graphicstate/matrix/) { get; set; } | Ottiene la matrice di trasformazione corrente. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../)
+
+

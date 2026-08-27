@@ -1,12 +1,12 @@
 ---
-title: GraphicState.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GraphicState. Ottiene la matrice di trasformazione corrente
+title: "GraphicState.Matrix"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GraphicState. Ottiene la matrice di trasformazione corrente."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.vector/graphicstate/matrix/
 ---
-## Proprietà GraphicState.Matrix
+## GraphicState.Matrix property
 
 Ottiene la matrice di trasformazione corrente.
 
@@ -14,9 +14,11 @@ Ottiene la matrice di trasformazione corrente.
 public Matrix Matrix { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix](../../../aspose.pdf/matrix/)
-* classe [GraphicState](../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [GraphicState](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

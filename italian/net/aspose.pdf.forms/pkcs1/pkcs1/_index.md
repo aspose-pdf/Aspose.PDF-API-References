@@ -1,7 +1,7 @@
 ---
-title: PKCS1.PKCS1
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore PKCS1. Inizializza una nuova istanza della classe PKCS1
+title: "PKCS1.PKCS1"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di PKCS1. Inizializza una nuova istanza della classe PKCS1."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/pkcs1/pkcs1/
@@ -18,9 +18,9 @@ public PKCS1(Stream image)
 | --- | --- | --- |
 | immagine | Stream | Questa immagine definirà l'aspetto della firma sulla pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PKCS1](../)
+* class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,9 +34,9 @@ Inizializza una nuova istanza della classe [`PKCS1`](../).
 public PKCS1()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PKCS1](../)
+* class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -52,12 +52,12 @@ public PKCS1(string pfx, string password)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pfx | String | File pfx che contiene il certificato per la firma. |
+| pfx | String | File Pfx che contiene il certificato per la firma. |
 | password | String | Password per il certificato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PKCS1](../)
+* class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -76,8 +76,10 @@ public PKCS1(Stream pfx, string password)
 | pfx | Stream | Stream con i dati del certificato organizzati come pfx. |
 | password | String | Password per accedere alla chiave privata nel certificato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PKCS1](../)
+* class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

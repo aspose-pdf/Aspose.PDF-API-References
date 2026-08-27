@@ -1,14 +1,14 @@
 ---
-title: Enum LineCap
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.LineCap enum. La linea cap style dovrebbe specificare la forma che dovrebbe essere utilizzata all'asfalto di sottolinee aperte e se ci sono linee tratteggiate quando vengono tracciate.
+title: "Enumerazione LineCap"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Operators.LineCap. Lo stile di fine linea deve specificare la forma da utilizzare alle estremità dei sottopercorsi aperti e dei trattini, se presenti, quando vengono tracciati"
 type: docs
-weight: 7440
+weight: 7580
 url: /it/net/aspose.pdf.operators/linecap/
 ---
-## Enumerazione LineCap
+## LineCap enumeration
 
-Lo stile del cap della linea deve specificare la forma che deve essere utilizzata agli estremi dei sottopercorsi aperti (e delle linee tratteggiate, se presenti) quando vengono tracciati.
+Lo stile di estremità della linea deve specificare la forma da utilizzare alle estremità dei sottopercorsi aperti (e dei tratti, se presenti) quando vengono tracciati.
 
 ```csharp
 public enum LineCap
@@ -18,11 +18,13 @@ public enum LineCap
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| ButtCap | `0` | Cap a taglio. Il tratto deve essere squadrato all'estremità del percorso. Non ci deve essere alcuna proiezione oltre l'estremità del percorso. |
-| RoundCap | `1` | Cap rotondo. Un arco semicircolare con un diametro uguale alla larghezza della linea deve essere disegnato attorno all'estremità e deve essere riempito. |
-| SquareCap | `2` | Cap quadrato sporgente. Il tratto deve continuare oltre l'estremità del percorso per una distanza pari alla metà della larghezza della linea e deve essere squadrato. |
+| ButtCap | `0` | Cap a spillo. Il tratto deve essere squadrato all'estremità del percorso. Non deve esserci alcuna proiezione oltre la fine del percorso. |
+| RoundCap | `1` | Cap arrotondato. Un arco semicircolare con diametro pari allo spessore della linea deve essere disegnato intorno all'estremità e deve essere riempito. |
+| SquareCap | `2` | Cap quadrato proiettato. Il tratto deve continuare oltre l'estremità del percorso per una distanza pari a metà dello spessore della linea e deve essere squadrato. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSection.CuttingPlanesIntersectionColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DCrossSection. Ottiene o imposta il colore dell'intersezione dei piani di taglio
+title: "PDF3DCrossSection.CuttingPlanesIntersectionColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PDF3DCrossSection. Ottiene o imposta il color dell'intersezione dei piani di taglio"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplanesintersectioncolor/
 ---
-## Proprietà PDF3DCrossSection.CuttingPlanesIntersectionColor
+## PDF3DCrossSection.CuttingPlanesIntersectionColor property
 
 Ottiene o imposta il colore dell'intersezione dei piani di taglio.
 
@@ -14,13 +14,15 @@ Ottiene o imposta il colore dell'intersezione dei piani di taglio.
 public Color CuttingPlanesIntersectionColor { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Il colore dell'intersezione dei piani di taglio.
+Il color dell'intersezione dei piani di taglio.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [PDF3DCrossSection](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

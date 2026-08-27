@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderStyleInset
-second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldFacade. Definisce uno stile di bordo incassato
+title: "FormFieldFacade.BorderStyleInset"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade field. Definisce uno stile di bordo incassato"
 type: docs
 weight: 310
 url: /it/net/aspose.pdf.facades/formfieldfacade/borderstyleinset/
 ---
-## Campo FormFieldFacade.BorderStyleInset
+## FormFieldFacade.BorderStyleInset field
 
-Definisce uno stile di bordo incassato.
+Definisce uno stile di bordo inserito.
 
 ```csharp
 public const int BorderStyleInset;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

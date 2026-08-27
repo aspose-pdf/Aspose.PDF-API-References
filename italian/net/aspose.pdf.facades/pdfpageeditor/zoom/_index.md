@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfPageEditor. Ottiene o imposta il coefficiente di zoom. Il valore 1.0 corrisponde a 100. Il valore predefinito è 1.0.  Il seguente esempio dimostra come cambiare lo zoom delle pagine del documento
+title: "PdfPageEditor.Zoom"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfPageEditor proprietà. Ottiene o imposta il coefficiente di zoom. Il valore 1.0 corrisponde al 100. Il valore predefinito è 1.0.  L'esempio seguente dimostra come modificare lo zoom delle pagine del documento"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.facades/pdfpageeditor/zoom/
 ---
-## Proprietà PdfPageEditor.Zoom
+## PdfPageEditor.Zoom property
 
-Ottiene o imposta il coefficiente di zoom. Il valore 1.0 corrisponde al 100%. Il valore predefinito è 1.0.  Il seguente esempio dimostra come cambiare lo zoom delle pagine del documento.
+Ottiene o imposta il coefficiente di zoom. Il valore 1,0 corrisponde al 100%. Il valore predefinito è 1,0.  L'esempio seguente dimostra come modificare lo zoom delle pagine del documento.
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -20,8 +20,10 @@ editor.Zoom = 0.5f;
 public float Zoom { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TocInfo.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TocInfo. Inizializza una nuova istanza della classe TocInfo
+title: "TocInfo.TocInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TocInfo. Inizializza una nuova istanza della classe TocInfo"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/tocinfo/tocinfo/
 ---
-## Costruttore di TocInfo
+## TocInfo constructor
 
 Inizializza una nuova istanza della classe [`TocInfo`](../).
 
@@ -14,8 +14,10 @@ Inizializza una nuova istanza della classe [`TocInfo`](../).
 public TocInfo()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TocInfo](../)
+* class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: ClosePathFillStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ClosePathFillStroke. Restituisce la rappresentazione in stringa dell'operatore
+title: "ClosePathFillStroke.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ClosePathFillStroke. Restituisce la rappresentazione stringa dell'operatore"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/closepathfillstroke/tostring/
 ---
-## Metodo ClosePathFillStroke.ToString
+## ClosePathFillStroke.ToString method
 
-Restituisce la rappresentazione in stringa dell'operatore.
+Restituisce la rappresentazione stringa dell'operatore.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Rappresentazione in stringa
+Rappresentazione stringa
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ClosePathFillStroke](../)
+* class [ClosePathFillStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

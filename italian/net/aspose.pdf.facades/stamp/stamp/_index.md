@@ -1,12 +1,12 @@
 ---
-title: Stamp.Stamp
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di Stamp. Il costruttore predefinito
+title: "Stamp.Stamp"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Stamp. Il costruttore predefinito."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/stamp/stamp/
 ---
-## Costruttore di Stamp
+## Stamp constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Stamp()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

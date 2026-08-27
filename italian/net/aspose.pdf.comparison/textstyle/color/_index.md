@@ -1,22 +1,24 @@
 ---
-title: TextStyle.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextStyle. Ottiene e imposta il colore del testo
+title: "TextStyle.Color"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextStyle. Ottiene e imposta il colore del testo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.comparison/textstyle/color/
 ---
-## Proprietà TextStyle.Color
+## TextStyle.Color property
 
-Ottiene e imposta il colore del testo.
+Ottiene e imposta il text Color.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [TextStyle](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

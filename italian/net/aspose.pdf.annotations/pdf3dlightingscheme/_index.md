@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DLightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.PDF3DLightingScheme. Classe PDF3DLightingScheme
+title: "Classe PDF3DLightingScheme"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Annotations.PDF3DLightingScheme. Classe PDF3DLightingScheme"
 type: docs
-weight: 2210
+weight: 2300
 url: /it/net/aspose.pdf.annotations/pdf3dlightingscheme/
 ---
-## Classe PDF3DLightingScheme
+## PDF3DLightingScheme class
 
 Classe PDF3DLightingScheme.
 
@@ -48,3 +48,5 @@ public class PDF3DLightingScheme
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

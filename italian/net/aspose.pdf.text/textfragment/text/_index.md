@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextFragment. Ottiene o imposta l'oggetto String di testo che l'oggetto TextFragment rappresenta
+title: "TextFragment.Text"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragment. Ottiene o imposta l'oggetto String che il TextFragment rappresenta."
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.text/textfragment/text/
 ---
-## Proprietà TextFragment.Text
+## TextFragment.Text property
 
-Ottiene o imposta l'oggetto String di testo che l'oggetto [`TextFragment`](../) rappresenta.
+Ottiene o imposta l'oggetto String che l'oggetto [`TextFragment`](../) rappresenta.
 
 ```csharp
 public string Text { get; set; }
@@ -19,26 +19,28 @@ public string Text { get; set; }
 L'esempio dimostra come cercare un testo e sostituire la prima occorrenza rappresentata con l'oggetto [`TextFragment`](../).
 
 ```csharp
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze del testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Cambia il font della prima occorrenza di testo
 absorber.TextFragments[1].Text = "hi world";
 
-// Save document
+// Salva documento
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [TextFragment](../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

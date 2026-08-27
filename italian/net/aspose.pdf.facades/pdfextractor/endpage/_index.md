@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfExtractor. Ottiene o imposta la pagina finale nell'intervallo di pagine in cui verrà eseguita l'operazione di estrazione
+title: "PdfExtractor.EndPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfExtractor property. Ottiene o imposta la pagina finale nell'intervallo di pagine in cui verrà eseguita l'operazione di estrazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/pdfextractor/endpage/
 ---
-## Proprietà PdfExtractor.EndPage
+## PdfExtractor.EndPage property
 
-Ottiene o imposta la pagina finale nell'intervallo di pagine in cui verrà eseguita l'operazione di estrazione.
+Ottiene o imposta la Page finale nell'intervallo di Page in cui verrà eseguita l'operazione di estrazione.
 
 ```csharp
 PdfExtractor ext = new PdfExtractor();
@@ -22,8 +22,10 @@ ext.ExtractText();
 public int EndPage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

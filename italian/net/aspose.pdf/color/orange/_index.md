@@ -1,12 +1,12 @@
 ---
-title: Color.Orange
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Color. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFFFA500
+title: "Color.Orange"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Color proprietà. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFFFA500"
 type: docs
 weight: 1010
 url: /it/net/aspose.pdf/color/orange/
 ---
-## Proprietà Color.Orange
+## Color.Orange property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFFFA500.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFFFA500.
 public static Color Orange { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

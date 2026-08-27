@@ -1,7 +1,7 @@
 ---
-title: SetRGBColor.SetRGBColor
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore SetRGBColor. Inizializza l'operatore
+title: "SetRGBColor.SetRGBColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SetRGBColor. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/setrgbcolor/setrgbcolor/
@@ -17,12 +17,12 @@ public SetRGBColor(double r, double g, double b)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | r | Double | Il livello di rosso da 0.0 a 1.0 |
-| g | Double | Il livello di verde da 0.0 a 1.0 |
+| g | Double | Il livello di verde da 0,0 a 1,0 |
 | b | Double | Il livello di blu da 0.0 a 1.0 |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetRGBColor](../)
+* class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,8 +40,10 @@ public SetRGBColor(Color color)
 | --- | --- | --- |
 | color | Color | Colore specificato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetRGBColor](../)
+* class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

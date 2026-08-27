@@ -1,14 +1,14 @@
 ---
-title: MemoryFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo MemoryFontSource. Controlla se gli oggetti sorgente del file font sono uguali
+title: "MemoryFontSource.Equals"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo MemoryFontSource. Verifica se gli oggetti sorgente del file di font sono uguali"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.text/memoryfontsource/equals/
 ---
-## Metodo MemoryFontSource.Equals
+## MemoryFontSource.Equals method
 
-Controlla se gli oggetti sorgente del file font sono uguali.
+Verifica se gli oggetti sorgente del file del font sono uguali.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| obj | Oggetto | Oggetto sorgente del file font che sarà confrontato. |
+| obj | Oggetto | Oggetto sorgente del file font da confrontare. |
 
 ### Valore di ritorno
 
-Vero se entrambi gli oggetti sono sorgenti di file font destinati allo stesso file.
+Vero se entrambi gli oggetti sono sorgenti di file font puntate allo stesso file.
 
 ### Vedi anche
 
-* classe [MemoryFontSource](../)
+* class [MemoryFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

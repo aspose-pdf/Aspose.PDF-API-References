@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.IsoB4
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. ISO B4 250 mm per 353 mm
+title: "PaperSizes.IsoB4"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. ISO B4 250 mm per 353 mm"
 type: docs
 weight: 460
 url: /it/net/aspose.pdf.printing/papersizes/isob4/
 ---
-## Campo PaperSizes.IsoB4
+## PaperSizes.IsoB4 field
 
-ISO B4 (250 mm per 353 mm).
+ISO B4 (250 mm by 353 mm).
 
 ```csharp
 public static readonly PaperSize IsoB4;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

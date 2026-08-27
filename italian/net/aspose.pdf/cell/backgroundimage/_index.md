@@ -1,12 +1,12 @@
 ---
-title: Cell.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Cell. Ottiene o imposta l'immagine di sfondo
+title: "Cell.BackgroundImage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cell. Ottiene o imposta l'immagine di sfondo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/cell/backgroundimage/
 ---
-## Proprietà Cell.BackgroundImage
+## Cell.BackgroundImage property
 
 Ottiene o imposta l'immagine di sfondo
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'immagine di sfondo
 public Image BackgroundImage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Image](../../image/)
-* classe [Cell](../)
+* class [Image](../../image/)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

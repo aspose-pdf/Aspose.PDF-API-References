@@ -1,7 +1,7 @@
 ---
-title: UnifiedSaveOptions.IsMultiThreading
-second_title: Aspose.PDF for .NET API Reference
-description: Campo delle opzioni di salvataggio unificate. Elabora le pagine in pochi thread.
+title: "UnifiedSaveOptions.IsMultiThreading"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo UnifiedSaveOptions. Elabora le pagine in pochi thread"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/unifiedsaveoptions/ismultithreading/
@@ -14,8 +14,10 @@ Elabora le pagine in pochi thread.
 public bool IsMultiThreading;
 ```
 
-### See Also
+### Vedi anche
 
 * class [UnifiedSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

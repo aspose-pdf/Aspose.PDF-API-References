@@ -1,21 +1,23 @@
 ---
-title: ChatMessage.Role
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ChatMessage. Ottiene o imposta il ruolo dell'autore dei messaggi
+title: "ChatMessage.Role"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di ChatMessage. Ottiene o imposta il ruolo dell'autore del messaggio."
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.ai/chatmessage/role/
 ---
-## Proprietà ChatMessage.Role
+## ChatMessage.Role property
 
-Ottiene o imposta il ruolo dell'autore dei messaggi.
+Ottiene o imposta il ruolo dell'autore del messaggio.
 
 ```csharp
 public string Role { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ChatMessage](../)
+* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: GraphicElementCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo GraphicElementCollection. Pulisce la collezione
+title: "GraphicElementCollection.Clear"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo GraphicElementCollection. Cancella la collezione."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.vector/graphicelementcollection/clear/
 ---
-## Metodo GraphicElementCollection.Clear
+## GraphicElementCollection.Clear method
 
-Pulisce la collezione.
+Svuota la collezione.
 
 ```csharp
 public void Clear()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphicElementCollection](../)
+* class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

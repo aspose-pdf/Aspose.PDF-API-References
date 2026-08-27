@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.ModifyBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfBookmarkEditor. Modifica il titolo del segnalibro secondo il titolo del segnalibro specificato
+title: "PdfBookmarkEditor.ModifyBookmarks"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfBookmarkEditor. Modifica il titolo del segnalibro in base al titolo del segnalibro specificato."
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/
 ---
-## Metodo PdfBookmarkEditor.ModifyBookmarks
+## PdfBookmarkEditor.ModifyBookmarks method
 
-Modifica il titolo del segnalibro secondo il titolo del segnalibro specificato.
+Modifica il titolo del segnalibro in base al titolo del segnalibro specificato.
 
 ```csharp
 public void ModifyBookmarks(string sTitle, string dTitle)
@@ -16,7 +16,7 @@ public void ModifyBookmarks(string sTitle, string dTitle)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| sTitle | String | Titolo del segnalibro sorgente. |
+| sTitle | String | Titolo del segnalibro di origine. |
 | dTitle | String | Titolo del segnalibro modificato. |
 
 ## Esempi
@@ -28,8 +28,10 @@ editor.ModifyBookmarks("existing bookmark title", "new bookmark title");
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

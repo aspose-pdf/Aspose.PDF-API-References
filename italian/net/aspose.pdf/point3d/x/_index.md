@@ -1,12 +1,12 @@
 ---
-title: Point3D.X
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Point3D. Valore della coordinata X
+title: "Point3D.X"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Point3D. Valore della coordinata X"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/point3d/x/
 ---
-## Proprietà Point3D.X
+## Point3D.X property
 
 Valore della coordinata X.
 
@@ -14,8 +14,10 @@ Valore della coordinata X.
 public double X { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point3D](../)
+* class [Point3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Metadata.GetPrefixByNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Metadata. Restituisce il prefisso per URI del namespace
+title: "Metadata.GetPrefixByNamespaceUri"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Metadata. Restituisce il prefisso per l'URI dello spazio dei nomi"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf/metadata/getprefixbynamespaceuri/
 ---
-## Metodo Metadata.GetPrefixByNamespaceUri
+## Metadata.GetPrefixByNamespaceUri method
 
-Restituisce il prefisso per URI del namespace.
+Restituisce il prefisso per l'URI dello spazio dei nomi.
 
 ```csharp
 public string GetPrefixByNamespaceUri(string namespaceUri)
@@ -16,14 +16,16 @@ public string GetPrefixByNamespaceUri(string namespaceUri)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| namespaceUri | String | URI del namespace. |
+| namespaceUri | String | URI dello spazio dei nomi. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Il valore del prefisso.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

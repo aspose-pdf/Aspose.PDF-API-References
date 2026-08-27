@@ -1,12 +1,12 @@
 ---
-title: XImage.Grayscaled
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XImage. Ottiene la versione in scala di grigi dell'immagine
+title: "XImage.Grayscaled"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XImage. Ottiene la versione in scala di grigi dell'immagine"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/ximage/grayscaled/
 ---
-## Proprietà XImage.Grayscaled
+## XImage.Grayscaled property
 
 Ottiene la versione in scala di grigi dell'immagine.
 
@@ -14,8 +14,10 @@ Ottiene la versione in scala di grigi dell'immagine.
 public Image Grayscaled { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

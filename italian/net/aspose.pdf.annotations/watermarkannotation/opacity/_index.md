@@ -1,12 +1,12 @@
 ---
-title: WatermarkAnnotation.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà WatermarkAnnotation. Ottiene o imposta l'opacità dell'annotazione
+title: "WatermarkAnnotation.Opacity"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà WatermarkAnnotation. Ottiene o imposta l'opacità dell'annotazione"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/watermarkannotation/opacity/
 ---
-## Proprietà WatermarkAnnotation.Opacity
+## WatermarkAnnotation.Opacity property
 
 Ottiene o imposta l'opacità dell'annotazione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'opacità dell'annotazione.
 public double Opacity { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [WatermarkAnnotation](../)
+* class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

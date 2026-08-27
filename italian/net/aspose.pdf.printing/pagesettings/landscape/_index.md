@@ -1,12 +1,12 @@
 ---
-title: PageSettings.Landscape
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageSettings. Ottiene o imposta un valore che indica se la pagina deve essere stampata in orientamento orizzontale o verticale
+title: "PageSettings.Landscape"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageSettings. Ottiene o imposta un valore che indica se la pagina deve essere stampata in orientamento orizzontale o verticale"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.printing/pagesettings/landscape/
 ---
-## Proprietà PageSettings.Landscape
+## PageSettings.Landscape property
 
 Ottiene o imposta un valore che indica se la pagina deve essere stampata in orientamento orizzontale o verticale.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore che indica se la pagina deve essere stampata in orie
 public bool Landscape { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSettings](../)
+* class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

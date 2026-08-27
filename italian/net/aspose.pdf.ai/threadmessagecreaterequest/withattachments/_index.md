@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.WithAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ThreadMessageCreateRequest. Imposta gli allegati per la richiesta del messaggio del thread
+title: "ThreadMessageCreateRequest.WithAttachments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ThreadMessageCreateRequest method. Imposta gli allegati per la richiesta di messaggio del thread"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.ai/threadmessagecreaterequest/withattachments/
 ---
-## Metodo ThreadMessageCreateRequest.WithAttachments
+## ThreadMessageCreateRequest.WithAttachments method
 
-Imposta gli allegati per la richiesta del messaggio del thread.
+Imposta gli allegati per la richiesta di messaggio del thread.
 
 ```csharp
 public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
@@ -16,7 +16,7 @@ public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| attachments | List`1 | L'elenco degli allegati da impostare. |
+| allegati | List`1 | L'elenco degli allegati da impostare. |
 
 ### Valore di ritorno
 
@@ -24,7 +24,9 @@ L'istanza corrente di [`ThreadMessageCreateRequest`](../).
 
 ### Vedi anche
 
-* classe [Attachment](../../attachment/)
-* classe [ThreadMessageCreateRequest](../)
+* class [Attachment](../../attachment/)
+* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

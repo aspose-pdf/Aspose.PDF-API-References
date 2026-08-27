@@ -1,12 +1,12 @@
 ---
-title: Re.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Re. Larghezza del rettangolo
+title: "Re.Width"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Re. Larghezza del rettangolo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/re/width/
 ---
-## Proprietà Re.Width
+## Re.Width property
 
 Larghezza del rettangolo.
 
@@ -16,6 +16,8 @@ public double Width { get; set; }
 
 ### Vedi anche
 
-* classe [Re](../)
+* class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

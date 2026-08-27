@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePolygon
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates polygon annotation
+title: "PdfContentEditor.CreatePolygon"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Crea annotazione poligonale."
 type: docs
 weight: 230
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/createpolygon/
 ---
-## Metodo PdfContentEditor.CreatePolygon
+## PdfContentEditor.CreatePolygon method
 
-Crea annotazione poligonale.
+Crea un'annotazione poligono.
 
 ```csharp
 public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
@@ -17,9 +17,9 @@ public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, stri
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | lineInfo | LineInfo | L'istanza della classe LineInfo. |
-| page | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
+| pagina | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
 | annotRect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
-| annotContents | String | I contenuti dell'annotazione. |
+| annotContents | String | Il contenuto dell'annotazione. |
 
 ## Esempi
 
@@ -33,9 +33,11 @@ editor.CreatePolygon(lineInfo, 1 , new System.Drawing.Rectangle(0, 0, 0, 0), "We
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LineInfo](../../lineinfo/)
-* classe [PdfContentEditor](../)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

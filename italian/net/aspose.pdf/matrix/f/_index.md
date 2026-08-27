@@ -1,12 +1,12 @@
 ---
-title: Matrix.F
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Matrix. Membro F della matrice di trasformazione
+title: "Matrix.F"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Matrix. Membro F della matrice di trasformazione"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/matrix/f/
 ---
-## Proprietà Matrix.F
+## Matrix.F property
 
 Membro F della matrice di trasformazione.
 
@@ -14,8 +14,10 @@ Membro F della matrice di trasformazione.
 public double F { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XFormCollection. Ottiene il conteggio degli XForms nella collezione
+title: "XFormCollection.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XFormCollection. Ottiene il conteggio degli XForm nella collezione"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/xformcollection/count/
 ---
-## Proprietà XFormCollection.Count
+## XFormCollection.Count property
 
-Ottiene il conteggio degli XForms nella collezione.
+Ottiene il conteggio degli XForm nella collezione.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Vedi anche
 
-* classe [XFormCollection](../)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

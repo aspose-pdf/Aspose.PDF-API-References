@@ -1,14 +1,14 @@
 ---
-title: Class GifDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Devices.GifDevice. Rappresenta un dispositivo immagine che aiuta a salvare le pagine del documento pdf in gif
+title: "Classe GifDevice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Devices.GifDevice. Rappresenta un dispositivo immagine che aiuta a salvare le pagine del documento pdf in gif"
 type: docs
-weight: 3600
+weight: 3720
 url: /it/net/aspose.pdf.devices/gifdevice/
 ---
-## Classe GifDevice
+## GifDevice class
 
-Rappresenta un dispositivo immagine che aiuta a salvare le pagine del documento pdf in gif.
+Rappresenta un dispositivo immagine che consente di salvare le pagine del documento pdf in gif.
 
 ```csharp
 public sealed class GifDevice : ImageDevice
@@ -19,49 +19,50 @@ public sealed class GifDevice : ImageDevice
 | Nome | Descrizione |
 | --- | --- |
 | [GifDevice](gifdevice/#constructor)() | Inizializza una nuova istanza della classe `GifDevice` con risoluzione predefinita. |
-| [GifDevice](gifdevice/#constructor_2)(PageSize) | Inizializza una nuova istanza della classe `GifDevice` con la dimensione della pagina fornita, risoluzione predefinita (=150). |
-| [GifDevice](gifdevice/#constructor_1)(Resolution) | Inizializza una nuova istanza della classe `GifDevice`. Risoluzione per il file immagine risultante, vedere la classe [`Resolution`](../resolution/). |
-| [GifDevice](gifdevice/#constructor_4)(int, int) | Inizializza una nuova istanza della classe `GifDevice` con le dimensioni dell'immagine fornite, risoluzione predefinita (=150). |
-| [GifDevice](gifdevice/#constructor_3)(PageSize, Resolution) | Inizializza una nuova istanza della classe `GifDevice` con la dimensione della pagina e la risoluzione fornite. |
-| [GifDevice](gifdevice/#constructor_5)(int, int, Resolution) | Inizializza una nuova istanza della classe `GifDevice` con le dimensioni dell'immagine e la risoluzione fornite. |
+| [GifDevice](gifdevice/#constructor_2)(PageSize) | Inizializza una nuova istanza della classe `GifDevice` con dimensione della pagina fornita, risoluzione predefinita (=150). |
+| [GifDevice](gifdevice/#constructor_1)(Resolution) | Inizializza una nuova istanza della classe `GifDevice`.  Risoluzione per il file immagine risultante, vedi la classe [`Resolution`](../resolution/). |
+| [GifDevice](gifdevice/#constructor_4)(int, int) | Inizializza una nuova istanza della classe `GifDevice` con dimensioni dell'immagine fornite, risoluzione predefinita (=150). |
+| [GifDevice](gifdevice/#constructor_3)(PageSize, Resolution) | Inizializza una nuova istanza della classe `GifDevice` con dimensione della pagina e risoluzione fornite. |
+| [GifDevice](gifdevice/#constructor_5)(int, int, Resolution) | Inizializza una nuova istanza della classe `GifDevice` con dimensioni dell'immagine e risoluzione fornite. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Ottiene o imposta il tipo di coordinate della pagina (Media/Crop boxes). Il valore CropBox è utilizzato per impostazione predefinita. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Ottiene o imposta il tipo di coordinate della pagina (scatole Media/Crop). Il valore CropBox è usato per impostazione predefinita. |
 | [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Ottiene o imposta la modalità di presentazione del modulo. |
-| [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Ottiene l'altezza dell'immagine di output. |
+| [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Ottiene l'altezza dell'output dell'immagine. |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Ottiene o imposta le opzioni di rendering. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | Ottiene la risoluzione dell'immagine. |
-| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Ottiene la larghezza dell'immagine di output. |
+| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Ottiene la larghezza dell'output dell'immagine. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converte la pagina in Bitmap. |
 | override [Process](../../aspose.pdf.devices/gifdevice/process/#process)(Page, Stream) | Converte la pagina in gif e la salva nello stream di output. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Esegue alcune operazioni sulla pagina data e salva i risultati nel file. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Esegue alcune operazioni sulla pagina fornita e salva i risultati nel file. |
 
 ## Esempi
 
-Il seguente esempio mostra come convertire un file PDF in immagini GIF.
+Il seguente esempio mostra come convertire un file PDF in Immagini GIF.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Il percorso alla tua directory PDF
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Il nome file del PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Inizializza un'istanza della classe Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Crea un oggetto Resolution 	
 		Resolution resolution = new Resolution(300);
 
-		// Initialize GifDevice	
+		// Inizializza GifDevice\t
 		GifDevice gifDevice = new GifDevice(resolution);
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
 		{
@@ -69,10 +70,10 @@ Il seguente esempio mostra come convertire un file PDF in immagini GIF.
 			new FileStream($"{dataDir}image{pageCount}_out.gif",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// Converti una pagina specifica e salva l'immagine nello stream.
 				gifDevice.Process(pdfDocument.Pages[pageCount], gifStream);
 
-				// Close stream
+				// Chiudi lo stream
 				gifStream.Close();
 			}
 		}
@@ -107,8 +108,10 @@ Il seguente esempio mostra come convertire un file PDF in immagini GIF.
 	End Using
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageDevice](../imagedevice/)
+* class [ImageDevice](../imagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

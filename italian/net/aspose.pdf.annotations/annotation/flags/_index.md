@@ -1,12 +1,12 @@
 ---
-title: Annotation.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di annotazione. Flag dell'annotazione
+title: "Annotation.Flags"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Annotation. Flag dell'annotazione"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.annotations/annotation/flags/
 ---
-## Proprietà Annotation.Flags
+## Annotation.Flags property
 
 Flag dell'annotazione.
 
@@ -14,9 +14,11 @@ Flag dell'annotazione.
 public AnnotationFlags Flags { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [AnnotationFlags](../../annotationflags/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

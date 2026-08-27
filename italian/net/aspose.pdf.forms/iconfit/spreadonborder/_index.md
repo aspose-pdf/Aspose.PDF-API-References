@@ -1,21 +1,23 @@
 ---
-title: IconFit.SpreadOnBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà IconFit. Se vero, indica che l'aspetto del pulsante deve essere scalato per adattarsi completamente all'interno dei limiti dell'annotazione senza considerare la larghezza della linea del bordo
+title: "IconFit.SpreadOnBorder"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà IconFit. Se true indica che l'aspetto del pulsante deve essere scalato per adattarsi completamente entro i limiti dell'annotazione senza considerare lo spessore della linea del bordo"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.forms/iconfit/spreadonborder/
 ---
-## Proprietà IconFit.SpreadOnBorder
+## IconFit.SpreadOnBorder property
 
-Se vero, indica che l'aspetto del pulsante deve essere scalato per adattarsi completamente all'interno dei limiti dell'annotazione senza considerare la larghezza della linea del bordo.
+Se true, indica che l'aspetto del pulsante deve essere ridimensionato per adattarsi completamente entro i limiti dell'annotazione senza considerare lo spessore della linea del bordo.
 
 ```csharp
 public bool SpreadOnBorder { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [IconFit](../)
+* class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

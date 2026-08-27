@@ -1,21 +1,23 @@
 ---
-title: OptimizedMemoryStream.FreeOnDispose
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OptimizedMemoryStream. Impegni or imposta un valore che indica se è libero i buffer sottostanti all'impostazione di dispose.
+title: "OptimizedMemoryStream.FreeOnDispose"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OptimizedMemoryStream. Ottiene o imposta un valore che indica se liberare i buffer sottostanti al rilascio."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/optimizedmemorystream/freeondispose/
 ---
-## Proprietà OptimizedMemoryStream.FreeOnDispose
+## OptimizedMemoryStream.FreeOnDispose property
 
-Ottiene o imposta un valore che indica se liberare i buffer sottostanti alla chiusura.
+Ottiene o imposta un valore che indica se liberare i buffer sottostanti al momento del dispose.
 
 ```csharp
 public bool FreeOnDispose { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

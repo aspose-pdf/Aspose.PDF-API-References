@@ -1,12 +1,12 @@
 ---
-title: PageInfo.AnyMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageInfo. Ottiene o imposta il margine della pagina per qualsiasi pagina tranne la prima
+title: "PageInfo.AnyMargin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageInfo. Ottiene o imposta il margine della pagina per qualsiasi pagina tranne la prima"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/pageinfo/anymargin/
 ---
-## Proprietà PageInfo.AnyMargin
+## PageInfo.AnyMargin property
 
 Ottiene o imposta il margine della pagina per qualsiasi pagina tranne la prima.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il margine della pagina per qualsiasi pagina tranne la prima.
 public MarginInfo AnyMargin { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../../margininfo/)
-* classe [PageInfo](../)
+* class [MarginInfo](../../margininfo/)
+* class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

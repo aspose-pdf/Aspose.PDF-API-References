@@ -1,12 +1,12 @@
 ---
-title: Document.Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta l'opzione di gestione della modalità duplex di stampa da utilizzare quando si stampa il file dalla finestra di dialogo di stampa
+title: "Document.Duplex"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene o imposta l'opzione di gestione della stampa duplex da utilizzare quando si stampa il file dalla finestra di dialogo di stampa"
 type: docs
-weight: 130
+weight: 140
 url: /it/net/aspose.pdf/document/duplex/
 ---
-## Proprietà Document.Duplex
+## Document.Duplex property
 
 Ottiene o imposta l'opzione di gestione della modalità duplex di stampa da utilizzare quando si stampa il file dalla finestra di dialogo di stampa.
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'opzione di gestione della modalità duplex di stampa da util
 public PrintDuplex Duplex { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [PrintDuplex](../../printduplex/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

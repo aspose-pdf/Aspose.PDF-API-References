@@ -1,26 +1,28 @@
 ---
-title: MarkupAnnotation.GetState
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation method. Gets the state of the annotation. Note the state stored in other text annotation which has state and statemodel keys
+title: "MarkupAnnotation.GetState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "MarkupAnnotation metodo. Ottiene lo stato dell'annotazione. Nota lo stato memorizzato in altre annotazioni di testo che hanno le chiavi state e statemodel"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.annotations/markupannotation/getstate/
 ---
-## Metodo MarkupAnnotation.GetState
+## MarkupAnnotation.GetState method
 
-Ottiene lo stato dell'annotazione. Nota, lo stato memorizzato in altre annotazioni di testo che hanno chiavi state e statemodel.
+Ottiene lo stato dell'annotazione. Nota, lo stato è memorizzato in altre annotazioni di testo che hanno le chiavi state e statemodel.
 
 ```csharp
 public AnnotationState GetState()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Stato dell'annotazione.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [AnnotationState](../../annotationstate/)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SignatureName.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SignatureName. Restituisce un codice hash per questa istanza basato sulla proprietà FullName
+title: "SignatureName.GetHashCode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo di SignatureName. Restituisce un codice hash per questa istanza basato sulla proprietà FullName"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/signaturename/gethashcode/
 ---
-## Metodo SignatureName.GetHashCode
+## SignatureName.GetHashCode method
 
 Restituisce un codice hash per questa istanza basato sulla proprietà FullName.
 
@@ -14,12 +14,14 @@ Restituisce un codice hash per questa istanza basato sulla proprietà FullName.
 public override int GetHashCode()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un intero che rappresenta il codice hash della proprietà FullName.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureName](../)
+* class [SignatureName](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: SignatureAlgorithmInfo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SignatureAlgorithmInfo. Converte l'oggetto informativo corrente nella sua rappresentazione stringa
+title: "SignatureAlgorithmInfo.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SignatureAlgorithmInfo method. Converte l'oggetto informazione corrente nella sua rappresentazione stringa"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.security/signaturealgorithminfo/tostring/
 ---
-## Metodo SignatureAlgorithmInfo.ToString
+## SignatureAlgorithmInfo.ToString method
 
-Converte l'oggetto informativo corrente nella sua rappresentazione stringa.
+Converte l'oggetto informazione corrente nella sua rappresentazione stringa.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Una stringa che rappresenta l'oggetto informativo corrente.
+Una stringa che rappresenta l'oggetto informazione corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureAlgorithmInfo](../)
+* class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

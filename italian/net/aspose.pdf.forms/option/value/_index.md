@@ -1,12 +1,12 @@
 ---
-title: Option.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'opzione. Ottiene o imposta il valore di esportazione dell'opzione
+title: "Option.Value"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Option. Ottiene o imposta il valore di esportazione dell'opzione"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.forms/option/value/
 ---
-## Proprietà Option.Value
+## Option.Value property
 
 Ottiene o imposta il valore di esportazione dell'opzione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il valore di esportazione dell'opzione.
 public string Value { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Option](../)
+* class [Option](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

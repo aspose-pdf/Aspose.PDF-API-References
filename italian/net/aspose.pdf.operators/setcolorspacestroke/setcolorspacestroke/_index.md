@@ -1,12 +1,12 @@
 ---
-title: SetColorSpaceStroke.SetColorSpaceStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SetColorSpaceStroke. Inizializza l'operatore
+title: "SetColorSpaceStroke.SetColorSpaceStroke"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SetColorSpaceStroke. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/setcolorspacestroke/setcolorspacestroke/
 ---
-## Costruttore di SetColorSpaceStroke
+## SetColorSpaceStroke constructor
 
 Inizializza l'operatore.
 
@@ -16,10 +16,12 @@ public SetColorSpaceStroke(string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome dello spazio colore. |
+| nome | String | Nome dello spazio colore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColorSpaceStroke](../)
+* class [SetColorSpaceStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

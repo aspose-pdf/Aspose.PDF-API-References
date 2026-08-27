@@ -1,14 +1,14 @@
 ---
-title: Class ClosePathFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.ClosePathFillStroke. Classe che rappresenta l'operatore b che chiude, riempie e traccia un percorso con la regola di avvolgimento non zero
+title: "Classe ClosePathFillStroke"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.ClosePathFillStroke classe. Classe che rappresenta l'operatore b per chiudere, riempire e tracciare il percorso con la regola di winding non zero"
 type: docs
-weight: 7210
+weight: 7350
 url: /it/net/aspose.pdf.operators/closepathfillstroke/
 ---
-## Classe ClosePathFillStroke
+## ClosePathFillStroke class
 
-Classe che rappresenta l'operatore b (chiude, riempie e traccia un percorso con la regola di avvolgimento non zero).
+Classe che rappresenta l'operatore b (close, fill and stroke path with nonzer winding rule).
 
 ```csharp
 public class ClosePathFillStroke : Operator
@@ -30,12 +30,14 @@ public class ClosePathFillStroke : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
-| override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring/)() | Restituisce la rappresentazione in stringa dell'operatore. |
+| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
+| override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring/)() | Restituisce la rappresentazione stringa dell'operatore. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

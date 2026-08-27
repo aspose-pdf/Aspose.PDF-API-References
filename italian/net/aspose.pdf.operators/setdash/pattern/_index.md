@@ -1,21 +1,23 @@
 ---
-title: SetDash.Pattern
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetDash. Modello di tratteggio. Gli elementi dell'array devono essere numeri che specificano le lunghezze delle tratte e degli spazi alternati. In caso di array con un solo elemento, le lunghezze delle tratte e degli spazi sono uguali.
+title: "SetDash.Pattern"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SetDash proprietà. Modello dash. Gli elementi dell'array devono essere numeri che specificano le lunghezze di dash e spazi alternati. Nel caso di un array a un elemento, le lunghezze di dash e spazio sono uguali"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/setdash/pattern/
 ---
-## Proprietà SetDash.Pattern
+## SetDash.Pattern property
 
-Modello di tratteggio. Gli elementi dell'array devono essere numeri che specificano le lunghezze delle tratte e degli spazi alternati. In caso di array con un solo elemento, le lunghezze delle tratte e degli spazi sono uguali.
+Modello di tratteggio. Gli elementi dell'array devono essere numeri che specificano le lunghezze di trattini e spazi alternati. Nel caso di un array a un elemento, le lunghezze di trattino e spazio sono uguali.
 
 ```csharp
 public int[] Pattern { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetDash](../)
+* class [SetDash](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

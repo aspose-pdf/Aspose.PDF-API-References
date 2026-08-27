@@ -1,14 +1,14 @@
 ---
-title: Form.GetRichText
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Ottieni il valore di un campo Rich Text inclusa l'informazione di formattazione di ogni carattere
+title: "Form.GetRichText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Ottiene il valore di un campo Rich Text includendo le informazioni di formattazione di ogni carattere"
 type: docs
 weight: 260
 url: /it/net/aspose.pdf.facades/form/getrichtext/
 ---
-## Metodo Form.GetRichText
+## Form.GetRichText method
 
-Ottieni il valore di un campo Rich Text, inclusa l'informazione di formattazione di ogni carattere.
+Ottieni il valore di un campo Rich Text, includendo le informazioni di formattazione di ogni carattere.
 
 ```csharp
 public string GetRichText(string fieldName)
@@ -16,11 +16,11 @@ public string GetRichText(string fieldName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Il nome del campo Rich Text completamente qualificato. |
+| fieldName | String | Il nome completo del campo Rich Text. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Restituisce una stringa contenente informazioni di formattazione del campo Rich Text.
+Restituisce una stringa contenente le informazioni di formattazione del campo Rich Text.
 
 ## Esempi
 
@@ -29,8 +29,10 @@ Form form = new Form("PdfForm.pdf");
 Console.WriteLine(form.GetRichText("txtDescriptionRTF"));
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

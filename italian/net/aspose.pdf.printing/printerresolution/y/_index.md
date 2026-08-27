@@ -1,12 +1,12 @@
 ---
-title: PrinterResolution.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PrinterResolution. Ottiene la risoluzione della stampante nella direzione verticale in punti per pollice
+title: "PrinterResolution.Y"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PrinterResolution proprietà. Ottiene la risoluzione della stampante nella direzione verticale in punti per pollice"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.printing/printerresolution/y/
 ---
-## Proprietà PrinterResolution.Y
+## PrinterResolution.Y property
 
 Ottiene la risoluzione della stampante nella direzione verticale, in punti per pollice.
 
@@ -14,8 +14,10 @@ Ottiene la risoluzione della stampante nella direzione verticale, in punti per p
 public int Y { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrinterResolution](../)
+* class [PrinterResolution](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

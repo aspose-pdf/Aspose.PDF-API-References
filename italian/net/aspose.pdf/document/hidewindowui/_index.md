@@ -1,14 +1,14 @@
 ---
-title: Document.HideWindowUI
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta un flag che specifica se gli elementi dell'interfaccia utente devono essere nascosti quando il documento è attivo
+title: "Document.HideWindowUI"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene o imposta il flag che specifica se gli elementi dell'interfaccia utente devono essere nascosti quando il documento è attivo"
 type: docs
-weight: 250
+weight: 270
 url: /it/net/aspose.pdf/document/hidewindowui/
 ---
-## Proprietà Document.HideWindowUI
+## Document.HideWindowUI property
 
-Ottiene o imposta un flag che specifica se gli elementi dell'interfaccia utente devono essere nascosti quando il documento è attivo.
+Ottiene o imposta la flag che specifica se gli elementi dell'interfaccia utente devono essere nascosti quando il documento è attivo.
 
 ```csharp
 public bool HideWindowUI { get; set; }
@@ -23,8 +23,10 @@ Document document = new Document("sample.pdf");
 bool value = document.HideWindowUI;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

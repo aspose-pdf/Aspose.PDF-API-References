@@ -1,22 +1,24 @@
 ---
-title: RichTextBoxField.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RichTextBoxField. Ottiene o imposta la giustificazione della casella di testo ricco
+title: "RichTextBoxField.Justify"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "RichTextBoxField proprietà. Ottiene o imposta l'allineamento del riquadro di testo ricco"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.forms/richtextboxfield/justify/
 ---
-## Proprietà RichTextBoxField.Justify
+## RichTextBoxField.Justify property
 
-Ottiene o imposta la giustificazione della casella di testo ricco.
+Ottiene o imposta l'allineamento del rich text box.
 
 ```csharp
 public Justification Justify { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* enum [Giustificazione](../../../aspose.pdf.annotations/justification/)
+* enum [Justification](../../../aspose.pdf.annotations/justification/)
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

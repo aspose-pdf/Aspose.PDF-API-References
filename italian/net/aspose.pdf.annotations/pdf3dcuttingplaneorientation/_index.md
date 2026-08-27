@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DCuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation. Classe PDF3DCuttingPlaneOrientation
+title: "Classe PDF3DCuttingPlaneOrientation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation. Classe PDF3DCuttingPlaneOrientation"
 type: docs
-weight: 2200
+weight: 2290
 url: /it/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/
 ---
-## Classe PDF3DCuttingPlaneOrientation
+## PDF3DCuttingPlaneOrientation class
 
 Classe PDF3DCuttingPlaneOrientation.
 
@@ -33,9 +33,11 @@ public class PDF3DCuttingPlaneOrientation
 
 | Nome | Descrizione |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/)() | Restituisce una stringa che rappresenta questa istanza. |
+| override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/)() | Restituisce una Stringa che rappresenta questa istanza. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

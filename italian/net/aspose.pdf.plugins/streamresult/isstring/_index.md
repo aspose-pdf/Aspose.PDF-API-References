@@ -1,12 +1,12 @@
 ---
-title: StreamResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà StreamResult. Indica se il risultato è una stringa
+title: "StreamResult.IsString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StreamResult. Indica se il risultato è una stringa"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.plugins/streamresult/isstring/
 ---
-## Proprietà StreamResult.IsString
+## StreamResult.IsString property
 
 Indica se il risultato è una stringa.
 
@@ -14,12 +14,14 @@ Indica se il risultato è una stringa.
 public bool IsString { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 `true` se il risultato è una stringa; altrimenti `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StreamResult](../)
+* class [StreamResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

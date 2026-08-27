@@ -1,12 +1,12 @@
 ---
-title: Interface IQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.AI.IQueryParameters. Rappresenta i parametri di query per le richieste API
+title: "Interfaccia IQueryParameters"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.AI.IQueryParameters. Rappresenta i parametri di query per le richieste API."
 type: docs
-weight: 550
+weight: 600
 url: /it/net/aspose.pdf.ai/iqueryparameters/
 ---
-## Interfaccia IQueryParameters
+## IQueryParameters interface
 
 Rappresenta i parametri di query per le richieste API.
 
@@ -20,7 +20,9 @@ public interface IQueryParameters
 | --- | --- |
 | [GetQueryParameters](../../aspose.pdf.ai/iqueryparameters/getqueryparameters/)() | Ottiene i parametri di query come stringa. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

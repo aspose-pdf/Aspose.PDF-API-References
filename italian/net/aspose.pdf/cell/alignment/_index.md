@@ -1,12 +1,12 @@
 ---
-title: Cell.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della cella. Ottiene o imposta l'allineamento
+title: "Cell.Alignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cell. Ottiene o imposta l'allineamento"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/cell/alignment/
 ---
-## Proprietà Cell.Alignment
+## Cell.Alignment property
 
 Ottiene o imposta l'allineamento.
 
@@ -20,3 +20,5 @@ public HorizontalAlignment Alignment { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CompletionResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CompletionResponse. Ottiene o imposta il modello utilizzato per il completamento della chat
+title: "CompletionResponse.Model"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CompletionResponse. Ottiene o imposta il modello utilizzato per il completamento della chat"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/completionresponse/model/
 ---
-## Proprietà CompletionResponse.Model
+## CompletionResponse.Model property
 
 Ottiene o imposta il modello utilizzato per il completamento della chat.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il modello utilizzato per il completamento della chat.
 public string Model { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CompletionResponse](../)
+* class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

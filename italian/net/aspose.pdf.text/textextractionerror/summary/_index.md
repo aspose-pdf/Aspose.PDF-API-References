@@ -1,12 +1,12 @@
 ---
-title: TextExtractionError.Summary
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextExtractionError. Breve descrizione dell'errore
+title: "TextExtractionError.Summary"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "TextExtractionError property. Breve descrizione dell'errore"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/textextractionerror/summary/
 ---
-## Proprietà TextExtractionError.Summary
+## TextExtractionError.Summary property
 
 Breve descrizione dell'errore.
 
@@ -14,8 +14,10 @@ Breve descrizione dell'errore.
 public string Summary { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextExtractionError](../)
+* class [TextExtractionError](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

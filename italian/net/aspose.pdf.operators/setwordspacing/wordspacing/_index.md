@@ -1,14 +1,14 @@
 ---
-title: SetWordSpacing.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetWordSpacing. Ottiene o imposta lo spazio tra le parole
+title: "SetWordSpacing.WordSpacing"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetWordSpacing. Ottiene o imposta la spaziatura delle parole"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/setwordspacing/wordspacing/
 ---
-## Proprietà SetWordSpacing.WordSpacing
+## SetWordSpacing.WordSpacing property
 
-Ottiene o imposta lo spazio tra le parole.
+Ottiene o imposta la spaziatura delle parole.
 
 ```csharp
 public double WordSpacing { get; set; }
@@ -16,6 +16,8 @@ public double WordSpacing { get; set; }
 
 ### Vedi anche
 
-* classe [SetWordSpacing](../)
+* class [SetWordSpacing](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

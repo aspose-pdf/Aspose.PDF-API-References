@@ -1,22 +1,24 @@
 ---
-title: PdfFileInfo.PasswordType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfFileInfo. Restituisce il tipo di password che è stata passata per creare un'istanza di PdfFileInfo. Vedi i valori possibili in PasswordType. Fai attenzione che il documento pdf può essere aperto utilizzando sia la password utente sia la password proprietario.
+title: "PdfFileInfo.PasswordType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileInfo property. Restituisce il tipo di password passato per creare l'istanza PdfFileInfo. Vedi i possibili valori in PasswordType. Attenzione: il documento PDF può essere aperto sia con la password utente (o di apertura) sia con la password proprietario (o di permessi, modifica)."
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.facades/pdffileinfo/passwordtype/
 ---
-## Proprietà PdfFileInfo.PasswordType
+## PdfFileInfo.PasswordType property
 
-Restituisce il tipo di password che è stata passata per creare un'istanza di PdfFileInfo. Vedi i valori possibili in `PasswordType`. Fai attenzione che il documento pdf può essere aperto utilizzando sia la password utente (o di apertura) sia la password proprietario (o di modifica dei permessi).
+Restituisce il tipo di password passato per creare l'istanza PdfFileInfo. Vedi i possibili valori in `PasswordType`. Attenzione: il documento PDF può essere aperto sia con la password utente (o di apertura) sia con la password proprietario (o di permessi, modifica).
 
 ```csharp
 public PasswordType PasswordType { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [PasswordType](../../../aspose.pdf/passwordtype/)
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Error.Message
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà errore. Ottiene o imposta il messaggio di errore
+title: "Error.Message"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di Error. Ottiene o imposta il messaggio di errore"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/error/message/
 ---
-## Proprietà Messaggio.Errore
+## Error.Message property
 
 Ottiene o imposta il messaggio di errore.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il messaggio di errore.
 public string Message { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Errore](../)
+* class [Error](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: RunResponse.RequiredAction
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse property. Gets or sets the details on the action required to continue the run. Will be null if no action is required
+title: "RunResponse.RequiredAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunResponse. Ottiene o imposta i dettagli sull'azione richiesta per continuare l'esecuzione. Sarà null se non è richiesta alcuna azione"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.ai/runresponse/requiredaction/
 ---
-## Proprietà RunResponse.RequiredAction
+## RunResponse.RequiredAction property
 
-Ottiene o imposta i dettagli sull'azione richiesta per continuare l'esecuzione. Sarà nullo se non è richiesta alcuna azione.
+Ottiene o imposta i dettagli sull'azione richiesta per continuare il run. Sarà null se non è richiesta alcuna azione.
 
 ```csharp
 public RequiredAction RequiredAction { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RequiredAction](../../requiredaction/)
-* classe [RunResponse](../)
+* class [RequiredAction](../../requiredaction/)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

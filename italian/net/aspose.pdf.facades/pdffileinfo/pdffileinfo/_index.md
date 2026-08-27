@@ -1,7 +1,7 @@
 ---
-title: PdfFileInfo.PdfFileInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfFileInfo. Inizializza una nuova istanza della classe Aspose.Pdf.Facades.PdfFileInfo con valori predefiniti
+title: "PdfFileInfo.PdfFileInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfFileInfo. Inizializza una nuova istanza della classe Aspose.Pdf.Facades.PdfFileInfo con valori predefiniti"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdffileinfo/pdffileinfo/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe Aspose.Pdf.Facades.PdfFileInfo con va
 public PdfFileInfo()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,11 @@ public PdfFileInfo(Stream inputStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Stream dove è posizionato il file di input. |
+| inputStream | Stream | Stream in cui è posizionato il file di input. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -52,18 +52,42 @@ public PdfFileInfo(Stream inputStream, string password)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Stream dove è posizionato il file di input. |
+| inputStream | Stream | Stream in cui è posizionato il file di input. |
 | password | String | Password per l'accesso al file. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(string) {#constructor_4}
+## PdfFileInfo(Stream, string, ICustomSecurityHandler) {#constructor_4}
+
+Inizializza una nuova istanza della classe Aspose.Pdf.Facades.PdfFileInfo.
+
+```csharp
+public PdfFileInfo(Stream inputStream, string password, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| inputStream | Stream | Stream in cui è posizionato il file di input. |
+| password | String | Password per l'accesso al file. |
+| customSecurityHandler | ICustomSecurityHandler | Il gestore di sicurezza personalizzato. |
+
+### Vedi anche
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string) {#constructor_5}
 
 Inizializza una nuova istanza della classe Aspose.Pdf.Facades.PdfFileInfo.
 
@@ -75,15 +99,15 @@ public PdfFileInfo(string inputFile)
 | --- | --- | --- |
 | inputFile | String | Nome del file contenente il file di input. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(string, string) {#constructor_5}
+## PdfFileInfo(string, string) {#constructor_6}
 
 Inizializza una nuova istanza della classe Aspose.Pdf.Facades.PdfFileInfo.
 
@@ -96,9 +120,32 @@ public PdfFileInfo(string inputFile, string password)
 | inputFile | String | Nome del file contenente il file di input. |
 | password | String | Password per l'accesso al file. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string, string, ICustomSecurityHandler) {#constructor_7}
+
+Inizializza una nuova istanza della classe Aspose.Pdf.Facades.PdfFileInfo.
+
+```csharp
+public PdfFileInfo(string inputFile, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| inputFile | String | Nome del file contenente il file di input. |
+| password | String | Password per l'accesso al file. |
+| customSecurityHandler | ICustomSecurityHandler | Il gestore di sicurezza personalizzato. |
+
+### Vedi anche
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -106,7 +153,7 @@ public PdfFileInfo(string inputFile, string password)
 
 ## PdfFileInfo(Document) {#constructor_1}
 
-Inizializza un nuovo oggetto [`PdfFileInfo`](../) sulla base del *documento*.
+Inizializza un nuovo oggetto [`PdfFileInfo`](../) basato sul *document*.
 
 ```csharp
 public PdfFileInfo(Document document)
@@ -116,9 +163,11 @@ public PdfFileInfo(Document document)
 | --- | --- | --- |
 | document | Document | Documento Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfFileInfo](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

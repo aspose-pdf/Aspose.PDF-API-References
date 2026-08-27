@@ -1,14 +1,14 @@
 ---
-title: Enum CoordinateOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Testo.CoordinateOrigin enum. Testo CoordinateOrigin enumerazione
+title: "Enum CoordinateOrigin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.CoordinateOrigin enum. Enumerazione CoordinateOrigin del testo"
 type: docs
-weight: 10460
+weight: 10640
 url: /it/net/aspose.pdf.text/coordinateorigin/
 ---
-## Enumerazione CoordinateOrigin
+## CoordinateOrigin enumeration
 
-Enumerazione CoordinateOrigin del testo.
+Enumerazione Text CoordinateOrigin.
 
 ```csharp
 public enum CoordinateOrigin
@@ -19,9 +19,11 @@ public enum CoordinateOrigin
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | BaseLine | `0` | La coordinata più bassa del testo dovrebbe essere trattata come la linea di base. |
-| Descender | `1` | La coordinata più bassa del testo dovrebbe essere trattata come la linea dei discendenti. |
+| Descender | `1` | La coordinata più bassa del testo dovrebbe essere trattata come la linea discendente. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfActionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfActionCollection. Ottiene l'enumeratore
+title: "PdfActionCollection.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfActionCollection. Ottiene l'enumeratore"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/pdfactioncollection/getenumerator/
 ---
-## Metodo PdfActionCollection.GetEnumerator
+## PdfActionCollection.GetEnumerator method
 
 Ottiene l'enumeratore.
 
@@ -14,13 +14,15 @@ Ottiene l'enumeratore.
 public IEnumerator<PdfAction> GetEnumerator()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Enumeratore PDfAction.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAction](../../pdfaction/)
-* classe [PdfActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [PdfActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

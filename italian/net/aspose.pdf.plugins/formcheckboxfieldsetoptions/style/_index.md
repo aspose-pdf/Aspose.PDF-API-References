@@ -1,22 +1,24 @@
 ---
-title: FormCheckBoxFieldSetOptions.Style
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormCheckBoxFieldSetOptions. Ottiene/imposta il valore per determinare la proprietà BoxStyle per il campo modificato se sarà impostato
+title: "FormCheckBoxFieldSetOptions.Style"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormCheckBoxFieldSetOptions. Ottiene/imposta il valore per determinare la proprietà BoxStyle per il campo modificato se verrà impostata"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.plugins/formcheckboxfieldsetoptions/style/
 ---
-## Proprietà FormCheckBoxFieldSetOptions.Stile
+## FormCheckBoxFieldSetOptions.Style property
 
-Ottiene/imposta il valore per determinare la proprietà BoxStyle per il campo modificato (se sarà impostato).
+Ottiene/Imposta il valore per determinare la proprietà BoxStyle per il campo modificato (se verrà impostata).
 
 ```csharp
 public BoxStyle? Style { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BoxStyle](../../../aspose.pdf.forms/boxstyle/)
 * class [FormCheckBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

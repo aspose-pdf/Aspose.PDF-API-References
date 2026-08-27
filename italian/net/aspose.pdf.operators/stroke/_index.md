@@ -1,14 +1,14 @@
 ---
-title: Class Stroke
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.Stroke. Classe che rappresenta il percorso dello stroke dell'operatore S
+title: "Classe Stroke"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Operators.Stroke. Classe che rappresenta l'operatore S per tracciare il percorso"
 type: docs
-weight: 7890
+weight: 8030
 url: /it/net/aspose.pdf.operators/stroke/
 ---
-## Classe Stroke
+## Stroke class
 
-Classe che rappresenta l'operatore S (percorso dello stroke).
+Classe che rappresenta l'operatore S (traccia il percorso).
 
 ```csharp
 public class Stroke : Operator
@@ -30,12 +30,14 @@ public class Stroke : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/stroke/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/stroke/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf.operators/stroke/tostring/)() | Restituisce la rappresentazione testuale dell'operatore. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto dato. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

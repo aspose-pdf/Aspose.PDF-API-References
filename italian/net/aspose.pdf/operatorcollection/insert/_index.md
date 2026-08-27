@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection method. Inserts operator into collection
+title: "OperatorCollection.Insert"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OperatorCollection. Inserisce un operatore nella collezione."
 type: docs
 weight: 140
 url: /it/net/aspose.pdf/operatorcollection/insert/
 ---
 ## Insert(int, Operator) {#insert}
 
-Inserisce l'operatore nella collezione.
+Inserisce l'operatore nella raccolta.
 
 ```csharp
 public override void Insert(int index, Operator op)
@@ -16,12 +16,12 @@ public override void Insert(int index, Operator op)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| index | Int32 | Indice in cui il nuovo operatore deve essere aggiunto |
-| op | Operator | Operatore che verrà inserito |
+| index | Int32 | Indice dove deve essere aggiunto il nuovo operatore. |
+| op | Operator | Operatore che sarà inserito. |
 
 ## Esempi
 
-L'esempio dimostra come inserire un operatore nei contenuti della pagina.
+L'esempio dimostra come inserire un operatore nel contenuto della pagina.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -30,10 +30,10 @@ oc.Insert(1, new Aspose.Pdf.Operators.q());
 oc.Add(new Aspose.Pdf.Operators.Q());
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../operator/)
-* classe [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,7 @@ oc.Add(new Aspose.Pdf.Operators.Q());
 
 ## Insert(int, Operator[]) {#insert_1}
 
-Inserisci operatori nella posizione data.
+Inserisce gli operatori nella posizione indicata.
 
 ```csharp
 public void Insert(int at, Operator[] ops)
@@ -49,12 +49,12 @@ public void Insert(int at, Operator[] ops)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| at | Int32 | Indice da cui gli operatori iniziano a essere inseriti. |
-| ops | Operator[] | Array di operatori da inserire. Ogni operatore può avere qualsiasi indice (per impostazione predefinita -1) poiché i loro indici vengono regolati automaticamente a partire da *at*. |
+| at | Int32 | Indice da cui gli operatori iniziano ad essere inseriti. |
+| ops | Operator[] | Array di operatori da inserire. Ogni operatore può avere qualsiasi indice (per impostazione predefinita -1) perché i loro indici vengono regolati automaticamente a partire da *at*. |
 
 ## Esempi
 
-L'esempio dimostra come inserire un operatore nei contenuti della pagina.
+L'esempio dimostra come inserire un operatore nel contenuto della pagina.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -62,10 +62,10 @@ OperatorCollection oc = doc.Pages[1].Contents;
 oc.Insert(1, new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q() } );
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../operator/)
-* classe [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,7 +73,7 @@ oc.Insert(1, new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Opera
 
 ## Insert(int, IList&lt;Operator&gt;) {#insert_2}
 
-Inserisci operatori nella posizione data.
+Inserisce gli operatori nella posizione indicata.
 
 ```csharp
 public void Insert(int at, IList<Operator> ops)
@@ -81,12 +81,12 @@ public void Insert(int at, IList<Operator> ops)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| at | Int32 | Indice da cui gli operatori iniziano a essere inseriti. |
+| at | Int32 | Indice da cui gli operatori iniziano ad essere inseriti. |
 | ops | IList`1 | Array di operatori da inserire. |
 
 ## Esempi
 
-L'esempio dimostra come inserire operatori nei contenuti della pagina.
+L'esempio dimostra come inserire operatori nel contenuto della pagina.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -97,9 +97,11 @@ opList.Add(new Operators.Q());
 oc.Insert(1, opList);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../operator/)
-* classe [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

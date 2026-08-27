@@ -1,21 +1,23 @@
 ---
-title: Document.EnableSignatureSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta un flag per gestire la sanitizzazione dei campi di firma. Abilitato per impostazione predefinita
+title: "Document.EnableSignatureSanitization"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene o imposta il flag per gestire la sanificazione dei campi firma. Abilitato per impostazione predefinita"
 type: docs
-weight: 170
+weight: 190
 url: /it/net/aspose.pdf/document/enablesignaturesanitization/
 ---
-## Proprietà Document.EnableSignatureSanitization
+## Document.EnableSignatureSanitization property
 
-Ottiene o imposta un flag per gestire la sanitizzazione dei campi di firma. Abilitato per impostazione predefinita.
+Ottiene o imposta la flag per gestire la sanitizzazione dei campi firma. Abilitata per impostazione predefinita.
 
 ```csharp
 public bool EnableSignatureSanitization { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

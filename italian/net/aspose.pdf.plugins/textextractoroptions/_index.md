@@ -1,12 +1,12 @@
 ---
-title: Class TextExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.TextExtractorOptions. Rappresenta le opzioni di estrazione del testo per il plugin TextExtractor
+title: "Classe TextExtractorOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Plugins.TextExtractorOptions. Rappresenta le opzioni di estrazione del testo per il plugin TextExtractor."
 type: docs
-weight: 9390
+weight: 9540
 url: /it/net/aspose.pdf.plugins/textextractoroptions/
 ---
-## Classe TextExtractorOptions
+## TextExtractorOptions class
 
 Rappresenta le opzioni di estrazione del testo per il plugin TextExtractor.
 
@@ -26,16 +26,16 @@ public sealed class TextExtractorOptions : PdfExtractorOptions
 | Nome | Descrizione |
 | --- | --- |
 | [FormattingMode](../../aspose.pdf.plugins/textextractoroptions/formattingmode/) { get; } | Ottiene la modalità di formattazione. |
-| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | Restituisce la raccolta di dati del plugin PdfExtractor. |
+| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | Restituisce la raccolta dati del plugin PdfExtractor. |
 | override [OperationName](../../aspose.pdf.plugins/textextractoroptions/operationname/) { get; } | Restituisce il nome dell'operazione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | Aggiunge una nuova sorgente di dati alla raccolta di dati del plugin PdfExtractor. |
+| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati del plugin PdfExtractor. |
 
-## Altri Membri
+## Altri membri
 
 | Nome | Descrizione |
 | --- | --- |
@@ -43,32 +43,34 @@ public sealed class TextExtractorOptions : PdfExtractorOptions
 
 ## Osservazioni
 
-L'oggetto `TextExtractorOptions` viene utilizzato per impostare [`TextFormattingMode`](../textextractoroptions.textformattingmode/) e altre opzioni per l'operazione di estrazione del testo. Inoltre, eredita funzioni per aggiungere dati (file, flussi) che rappresentano documenti PDF di input.
+L'oggetto `TextExtractorOptions` è usato per impostare [`TextFormattingMode`](../textextractoroptions.textformattingmode/) e altre opzioni per l'operazione di estrazione del testo. Inoltre, eredita funzioni per aggiungere dati (file, stream) che rappresentano i documenti PDF di input.
 
 ## Esempi
 
 L'esempio dimostra come estrarre il contenuto testuale di un documento PDF.
 
 ```csharp
-// create TextExtractor object to extract PDF contents
+// crea un oggetto TextExtractor per estrarre i contenuti PDF
 using (TextExtractor extractor = new TextExtractor())
 {
-    // create TextExtractorOptions object to set TextFormattingMode (Pure,  or Raw - default)
+    // crea un oggetto TextExtractorOptions per impostare TextFormattingMode (Pure,  o Raw - predefinito)
     extractorOptions = new TextExtractorOptions(TextExtractorOptions.TextFormattingMode.Pure);
     
-    // add input file path to data sources
+    // aggiungi il percorso del file di input alle fonti dati
     extractorOptions.AddInput(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // esegui il processo di estrazione
     ResultContainer resultContainer = extractor.Process(extractorOptions);
     
-    // get the extracted text from the ResultContainer object
+    // ottieni il testo estratto dall'oggetto ResultContainer
     string textExtracted = resultContainer.ResultCollection[0].ToString();
 }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractorOptions](../pdfextractoroptions/)
+* class [PdfExtractorOptions](../pdfextractoroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

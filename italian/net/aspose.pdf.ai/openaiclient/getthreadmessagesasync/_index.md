@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetThreadMessagesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Recupera un elenco di messaggi per un thread specifico in modo asincrono
+title: "OpenAIClient.GetThreadMessagesAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Recupera un elenco di messaggi per un thread specifico in modo asincrono"
 type: docs
-weight: 320
+weight: 330
 url: /it/net/aspose.pdf.ai/openaiclient/getthreadmessagesasync/
 ---
-## Metodo OpenAIClient.GetThreadMessagesAsync
+## OpenAIClient.GetThreadMessagesAsync method
 
 Recupera un elenco di messaggi per un thread specifico in modo asincrono.
 
@@ -22,7 +22,7 @@ public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId,
 | queryParameters | ThreadMessageListQueryParameters | Parametri di query opzionali per filtrare l'elenco dei messaggi. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene un elenco di messaggi del thread.
 
@@ -30,12 +30,14 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ThreadMessageListResponse](../../threadmessagelistresponse/)
-* classe [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* classe [OpenAIClient](../)
+* class [ThreadMessageListResponse](../../threadmessagelistresponse/)
+* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

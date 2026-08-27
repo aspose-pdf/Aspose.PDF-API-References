@@ -1,14 +1,14 @@
 ---
-title: Class ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ToolChoice class. Represents the ToolChoice which can be either a string value or an object value
+title: "Classe ToolChoice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.AI.ToolChoice classe. Rappresenta il ToolChoice che può essere sia un valore stringa sia un valore oggetto."
 type: docs
-weight: 1210
+weight: 1300
 url: /it/net/aspose.pdf.ai/toolchoice/
 ---
-## Classe ToolChoice
+## ToolChoice class
 
-Rappresenta il ToolChoice, che può essere un valore stringa o un valore oggetto.
+Rappresenta il ToolChoice, che può essere sia un valore stringa sia un valore oggetto.
 
 ```csharp
 public class ToolChoice : IStringOrObject<ObjectType>
@@ -29,9 +29,11 @@ public class ToolChoice : IStringOrObject<ObjectType>
 | [ObjectValue](../../aspose.pdf.ai/toolchoice/objectvalue/) { get; set; } | Ottiene o imposta il valore oggetto del ToolChoice. |
 | [StringValue](../../aspose.pdf.ai/toolchoice/stringvalue/) { get; set; } | Ottiene o imposta il valore stringa del ToolChoice. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IStringOrObject&lt;T&gt;](../istringorobject-1/)
-* classe [ObjectType](../toolchoice.objecttype/)
+* interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
+* class [ObjectType](../toolchoice.objecttype/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

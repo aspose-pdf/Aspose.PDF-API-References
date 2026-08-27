@@ -1,12 +1,12 @@
 ---
-title: IIndexBitmapConverter.Get4BppImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IIndexBitmapConverter. Restituisce la rappresentazione bitmap 4Bpp
+title: "IIndexBitmapConverter.Get4BppImage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IIndexBitmapConverter. Restituisce la rappresentazione bitmap a 4Bpp"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/iindexbitmapconverter/get4bppimage/
 ---
-## Metodo IIndexBitmapConverter.Get4BppImage
+## IIndexBitmapConverter.Get4BppImage method
 
 Restituisce la rappresentazione bitmap 4Bpp
 
@@ -16,14 +16,16 @@ public Bitmap Get4BppImage(Bitmap src)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| src | Bitmap | Bitmap sorgente. |
+| src | Bitmap | Bitmap di origine. |
 
 ### Valore di ritorno
 
-Bitmap in formato immagine 4 bpp.
+Bitmap in formato immagine a 4 bpp.
 
 ### Vedi anche
 
-* interfaccia [IIndexBitmapConverter](../)
+* interface [IIndexBitmapConverter](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

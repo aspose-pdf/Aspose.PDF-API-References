@@ -1,21 +1,23 @@
 ---
-title: PageCollection.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PageCollection. Rimuove tutti i campi presenti sulle pagine e inserisce i loro valori al loro posto
+title: "PageCollection.Flatten"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageCollection. Rimuove tutti i campi presenti nelle pagine e ne colloca i valori al loro posto"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/pagecollection/flatten/
 ---
-## Metodo PageCollection.Flatten
+## PageCollection.Flatten method
 
-Rimuove tutti i campi presenti sulle pagine e inserisce i loro valori al loro posto.
+Rimuove tutti i campi presenti nelle pagine e ne inserisce i valori al loro posto.
 
 ```csharp
 public void Flatten()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageCollection](../)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FileCounts.Failed
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileCounts. Ottiene o imposta il numero di file che non sono stati elaborati
+title: "FileCounts.Failed"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FileCounts proprietà. Ottiene o imposta il numero di file che non sono stati elaborati"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/filecounts/failed/
 ---
-## Proprietà FileCounts.Failed
+## FileCounts.Failed property
 
 Ottiene o imposta il numero di file che non sono stati elaborati.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il numero di file che non sono stati elaborati.
 public int Failed { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileCounts](../)
+* class [FileCounts](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

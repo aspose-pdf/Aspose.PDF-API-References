@@ -1,7 +1,7 @@
 ---
-title: TextOperator.TextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TextOperator. Inizializza l'operatore
+title: "TextOperator.TextOperator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TextOperator. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/textoperator/textoperator/
@@ -14,9 +14,9 @@ Inizializza l'operatore.
 public TextOperator()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextOperator](../)
+* class [TextOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public TextOperator()
 
 ## TextOperator(TextProperties) {#constructor_1}
 
-Operatore di testo che accetta proprietà di testo.
+Operatore di testo che accetta le proprietà del testo.
 
 ```csharp
 public TextOperator(TextProperties textProperties)
@@ -32,11 +32,13 @@ public TextOperator(TextProperties textProperties)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| textProperties | TextProperties | Proprietà di testo. |
+| textProperties | TextProperties | Proprietà del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* classe [TextOperator](../)
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [TextOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

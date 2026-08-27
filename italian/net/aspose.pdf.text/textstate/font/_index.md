@@ -1,22 +1,24 @@
 ---
-title: TextState.Font
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextState. Ottiene o imposta il font del testo
+title: "TextState.Font"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextState. Ottiene o imposta il carattere del testo"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.text/textstate/font/
 ---
-## Proprietà TextState.Font
+## TextState.Font property
 
-Ottiene o imposta il font del testo.
+Ottiene o imposta il carattere del testo.
 
 ```csharp
 public virtual Font Font { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Font](../../font/)
-* classe [TextState](../)
+* class [Font](../../font/)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

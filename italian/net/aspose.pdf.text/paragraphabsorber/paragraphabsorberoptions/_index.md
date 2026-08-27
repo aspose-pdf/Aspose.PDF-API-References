@@ -1,12 +1,12 @@
 ---
-title: ParagraphAbsorber.ParagraphAbsorberOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ParagraphAbsorber. Permette di ottenere o impostare le opzioni del ParagraphAbsorberOptions.
+title: "ParagraphAbsorber.ParagraphAbsorberOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ParagraphAbsorber. Ottiene o imposta le ParagraphAbsorberOptions"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/
 ---
-## Proprietà ParagraphAbsorber.ParagraphAbsorberOptions
+## ParagraphAbsorber.ParagraphAbsorberOptions property
 
 Ottiene o imposta le ParagraphAbsorberOptions.
 
@@ -14,9 +14,11 @@ Ottiene o imposta le ParagraphAbsorberOptions.
 public ParagraphAbsorberOptions ParagraphAbsorberOptions { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
-* classe [ParagraphAbsorber](../)
+* class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
+* class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

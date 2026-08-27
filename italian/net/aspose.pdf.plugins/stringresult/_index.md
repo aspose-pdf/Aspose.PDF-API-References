@@ -1,12 +1,12 @@
 ---
-title: Class StringResult
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.StringResult. Rappresenta il risultato dell'operazione sotto forma di stringa
+title: "Classe StringResult"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Plugins.StringResult. Rappresenta il risultato dell'operazione sotto forma di stringa"
 type: docs
-weight: 9320
+weight: 9470
 url: /it/net/aspose.pdf.plugins/stringresult/
 ---
-## Classe StringResult
+## StringResult class
 
 Rappresenta il risultato dell'operazione sotto forma di stringa.
 
@@ -28,12 +28,14 @@ public sealed class StringResult : IOperationResult
 
 | Nome | Descrizione |
 | --- | --- |
-| [ToFile](../../aspose.pdf.plugins/stringresult/tofile/)() | Tenta di convertire il risultato in un file. |
-| [ToStream](../../aspose.pdf.plugins/stringresult/tostream/)() | Tenta di convertire il risultato in un oggetto stream. |
-| override [ToString](../../aspose.pdf.plugins/stringresult/tostring/)() | Tenta di convertire il risultato in una stringa. |
+| [ToFile](../../aspose.pdf.plugins/stringresult/tofile/)() | Prova a convertire il risultato in un file. |
+| [ToStream](../../aspose.pdf.plugins/stringresult/tostream/)() | Prova a convertire il risultato in un oggetto stream. |
+| override [ToString](../../aspose.pdf.plugins/stringresult/tostring/)() | Prova a convertire il risultato in una stringa. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperationResult](../ioperationresult/)
+* interface [IOperationResult](../ioperationresult/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

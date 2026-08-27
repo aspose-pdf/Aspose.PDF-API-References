@@ -1,12 +1,12 @@
 ---
-title: SubmitFormAction.SubmitFormAction
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SubmitFormAction. Inizializza l'oggetto SubmitFormAction
+title: "SubmitFormAction.SubmitFormAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SubmitFormAction. Inizializza l'oggetto SubmitFormAction"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/submitformaction/submitformaction/
 ---
-## Costruttore di SubmitFormAction
+## SubmitFormAction constructor
 
 Inizializza l'oggetto SubmitFormAction.
 
@@ -14,8 +14,10 @@ Inizializza l'oggetto SubmitFormAction.
 public SubmitFormAction()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

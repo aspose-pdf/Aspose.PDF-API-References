@@ -1,12 +1,12 @@
 ---
-title: SubmitFormAction.IncludeAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SubmitFormAction. Se impostato, il file FDF inviato includerà tutte le annotazioni di markup nel documento PDF sottostante
+title: "SubmitFormAction.IncludeAnnotations"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo SubmitFormAction. Se impostato, il file FDF inviato includerà tutte le annotazioni markup nel documento PDF sottostante."
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.annotations/submitformaction/includeannotations/
 ---
-## Campo SubmitFormAction.IncludeAnnotations
+## SubmitFormAction.IncludeAnnotations field
 
 Se impostato, il file FDF inviato includerà tutte le annotazioni di markup nel documento PDF sottostante.
 
@@ -14,8 +14,10 @@ Se impostato, il file FDF inviato includerà tutte le annotazioni di markup nel 
 public const int IncludeAnnotations;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

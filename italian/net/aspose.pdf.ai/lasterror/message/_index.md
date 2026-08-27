@@ -1,12 +1,12 @@
 ---
-title: LastError.Message
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LastError. Ottiene o imposta una descrizione leggibile dall'uomo dell'errore
+title: "LastError.Message"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà LastError. Ottiene o imposta una descrizione leggibile dall'uomo dell'errore"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/lasterror/message/
 ---
-## Proprietà LastError.Message
+## LastError.Message property
 
 Ottiene o imposta una descrizione leggibile dall'uomo dell'errore.
 
@@ -14,8 +14,10 @@ Ottiene o imposta una descrizione leggibile dall'uomo dell'errore.
 public string Message { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LastError](../)
+* class [LastError](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

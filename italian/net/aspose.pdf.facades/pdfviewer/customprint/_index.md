@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.CustomPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Evento PdfViewer. Si verifica prima dell'inizio della stampa e consente di fornire gestori di stampa personalizzati invece di quello predefinito
+title: "PdfViewer.CustomPrint"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Evento PdfViewer. Si verifica prima dell'inizio della stampa e consente di fornire gestori di stampa personalizzati al posto di quello predefinito"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.facades/pdfviewer/customprint/
 ---
-## Evento PdfViewer.CustomPrint
+## PdfViewer.CustomPrint event
 
-Si verifica prima dell'inizio della stampa e consente di fornire gestori di stampa personalizzati invece di quello predefinito.
+Si verifica prima dell'inizio della stampa e consente di fornire gestori di stampa personalizzati al posto di quello predefinito.
 
 ```csharp
 public event EventHandler<CustomPrintEventArgs> CustomPrint;
@@ -16,33 +16,33 @@ public event EventHandler<CustomPrintEventArgs> CustomPrint;
 
 ## Esempi
 
-L'esempio dimostra come stampare da Aspose.PDF su sistemi Linux. Il seguente codice è principalmente mirato alla stampa da Aspose.PDF su sistemi Linux. Gli utenti di sistemi Windows possono continuare a utilizzare l'implementazione di stampa predefinita di PdfViewer senza fornire un gestore CustomPrint.
+L'esempio dimostra come stampare da Aspose.PDF su sistemi Linux. Il codice seguente è principalmente rivolto alla stampa da Aspose.PDF su sistemi Linux. Gli utenti di sistemi Windows possono continuare a utilizzare l'implementazione di stampa predefinita di PdfViewer senza fornire un gestore CustomPrint.
 
-### Requisiti
+### Prerequisites
 
-1. Sul sistema del server di stampa, CUPS dovrebbe essere installato e configurato:
+1. Sul sistema del server di stampa CUPS dovrebbe essere installato e configurato:
 * sudo apt update && apt install cups
 * sudo service cups start
-* se intendi stampare documenti sullo stesso sistema in cui è in esecuzione l'app abilitata per Aspose.PDF, non avrai bisogno di ulteriore configurazione di CUPS. Se hai bisogno di stampare da un sistema diverso, ti preghiamo di fare riferimento alla documentazione di CUPS su come consentire l'accesso al server di stampa tramite la rete.
-2. Una stampante può essere configurata utilizzando l'interfaccia web di CUPS. Facoltativamente, puoi utilizzare una stampante PDF virtuale:
+* if you're going to print documents on the same system where the Aspose.PDF-enabled app is running, you won't need additional CUPS configuration. If you need to print from a different system, please refer to the CUPS documentation on how to allow access to print server via the network.
+2. Una stampante può essere configurata usando l'interfaccia web di CUPS. Facoltativamente, è possibile utilizzare una stampante PDF virtuale:
 * sudo apt install printer-driver-cups-pdf
 * sudo service cups restart
-* ti preghiamo di assicurarti che la stampante PDF virtuale sia apparsa nell'elenco delle stampanti disponibili nell'interfaccia web di CUPS (a http://localhost:631/printers/ con le impostazioni predefinite di CUPS)
-3. Se il tuo sistema client (dove è in esecuzione l'app abilitata per Aspose.PDF) è diverso dal server di stampa, devi installare e avviare CUPS anche lì:
+* please make sure that the virtual PDF printer appeared in the list of available printers in the CUPS web interface (at http://localhost:631/printers/ with default CUPS settings)
+3. Se il tuo sistema client (dove è in esecuzione l'app abilitata per Aspose.PDF) è diverso dal server di stampa, devi installare ed eseguire CUPS anche lì:
 * sudo apt update && apt install cups
 * sudo service cups start
 
-### Come stampare un documento utilizzando il comando lp
+### How to print a document using the lp command
 
 ```csharp
 var docPath = dataDir + "input.pdf";
 var viewer = new PdfViewer();
 viewer.BindPdf(docPath);
 
-// Set a custom printing handler that builds an lp command and runs it with bash
+// Imposta un gestore di stampa personalizzato che costruisce un comando lp e lo esegue con bash
 viewer.CustomPrint += ViewerOnCustomPrintLp;
 
-// Send the document to the virtual PDF printer installed with the printer-driver-cups-pdf package
+// Invia il documento alla stampante PDF virtuale installata con il pacchetto printer-driver-cups-pdf
 var ps = new PrinterSettings
 {
     PrinterName = "PDF"
@@ -50,39 +50,39 @@ var ps = new PrinterSettings
 var pgs = ps.DefaultPageSettings;
 pgs.PaperSize = PaperSizes.A4;
 
-// The document will be printed using the provided print handler
+// Il documento verrà stampato utilizzando il gestore di stampa fornito
 viewer.PrintDocumentWithSettings(pgs, ps);
 viewer.Close();
 
-// Custom print handler
+// Gestore di stampa personalizzato
 private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
 {
     var sb = new StringBuilder("lp ");
-    // Set the name of the printer to print at
+    // Imposta il nome della stampante su cui stampare
     sb.AppendFormat("-d {0} ", e.PrinterSettings.PrinterName);
 
-    // Set the number of copies
+    // Imposta il numero di copie
     if (e.PrinterSettings.Copies > 0)
     {
         sb.AppendFormat("-n {0} ", e.PrinterSettings.Copies);
     }
 
-    // Set the range of pages to print
+    // Imposta l'intervallo di pagine da stampare
     if (e.PrinterSettings.PrintRange == PrintRange.SomePages)
     {
         sb.AppendFormat("-P {0}-{1} ", e.PrinterSettings.FromPage, e.PrinterSettings.ToPage);
     }
 
-    // Set paper size
+    // Imposta la dimensione della carta
     sb.AppendFormat("-o media={0} ", e.PageSettings.PaperSize.Kind.ToString("G").ToLower());
 
-    // Set landscape orientation if requested
+    // Imposta l'orientamento orizzontale se richiesto
     if (e.PageSettings.Landscape)
     {
         sb.Append("-o orientation-requested=4 ");
     }
 
-    // Set printer resolution
+    // Imposta la risoluzione della stampante
     switch (e.PageSettings.PrinterResolution.Kind)
     {
         case PrinterResolutionKind.High:
@@ -98,7 +98,7 @@ private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
             break;
     }
 
-    // Set two-sided print if requested
+    // Imposta la stampa fronte/retro se richiesta
     switch (e.PrinterSettings.Duplex)
     {
         case Duplex.Simplex:
@@ -114,10 +114,10 @@ private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
             break;
     }
 
-    // The name of the file to print
+    // Il nome del file da stampare
     sb.AppendFormat("-- {0} ", e.FileName);
 
-    // Run the prepared lp command with bash
+    // Esegui il comando lp preparato con bash
     var psi = new ProcessStartInfo
     {
         FileName = "/bin/bash",
@@ -134,17 +134,17 @@ private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
 }
 ```
 
-### Come stampare un documento utilizzando ipptool
+### How to print a document using the ipptool
 
 ```csharp
 var docPath = dataDir + "input.pdf";
 var viewer = new PdfViewer();
 viewer.BindPdf(docPath);
 
-// Set a custom printing handler that builds an ipptool job file and runs ipptool with bash
+// Imposta un gestore di stampa personalizzato che costruisce un file di lavoro ipptool e lo esegue con ipptool tramite bash
 viewer.CustomPrint += ViewerOnCustomPrintIpptool;
 
-// Send the document to the virtual PDF printer installed with the printer-driver-cups-pdf package
+// Invia il documento alla stampante PDF virtuale installata con il pacchetto printer-driver-cups-pdf
 var ps = new PrinterSettings
 {
     PrinterUri = new Uri("ipp://localhost/printers/PDF");
@@ -152,32 +152,32 @@ var ps = new PrinterSettings
 var pgs = ps.DefaultPageSettings;
 pgs.PaperSize = PaperSizes.A4;
 
-// The document will be printed using the provided print handler
+// Il documento verrà stampato utilizzando il gestore di stampa fornito
 viewer.PrintDocumentWithSettings(pgs, ps);
 viewer.Close();
 
-// Custom print handler
+// Gestore di stampa personalizzato
 private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
 {
     var command = new StringBuilder("ipptool -tv ");
 
-    // The name of the file to print
+    // Il nome del file da stampare
     command.AppendFormat("-f {0} ", e.FileName);
 
-    // Set the URI of the printer to print at
+    // Imposta l'URI della stampante su cui stampare
     command.Append(e.PrinterSettings.PrinterUri);
 
-    // Get the temporary file name for the ipptool job file
+    // Ottieni il nome del file temporaneo per il file di lavoro ipptool
     var jobFile = Path.GetTempFileName();
 
     var sb = new StringBuilder();
     sb.AppendLine("{");
 
-    // Set job name and type of the job
+    // Imposta il nome del lavoro e il tipo del lavoro
     sb.AppendLine("  NAME \"Print file using Print-Job\"");
     sb.AppendLine("  OPERATION Print-Job");
 
-    // Set default job settings
+    // Imposta le impostazioni predefinite del lavoro
     sb.AppendLine("  GROUP operation-attributes-tag");
     sb.AppendLine("  ATTR charset attributes-charset utf-8");
     sb.AppendLine("  ATTR language attributes-natural-language en");
@@ -187,21 +187,21 @@ private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
 
     sb.AppendLine("  GROUP job-attributes-tag");
 
-    // Set number of copies
+    // Imposta il numero di copie
     var copies = e.PrinterSettings.Copies < 1 ? 1 : e.PrinterSettings.Copies;
     sb.AppendFormat("  ATTR integer copies {0}{1}", copies, Environment.NewLine);
 
     sb.AppendLine("  ATTR collection media-col {");
-    // Set paper size
+    // Imposta la dimensione della carta
     sb.AppendLine("    MEMBER collection media-size {");
-    // .NET uses 1/100th of inch to represent paper size while IPP requires 1/1000th of millimeter - conversion is needed
+    // .NET utilizza 1/100 di pollice per rappresentare le dimensioni della carta mentre IPP richiede 1/1000 di millimetro – è necessaria la conversione
     sb.AppendFormat("      MEMBER integer x-dimension {0}{1}", (int) (e.PageSettings.PaperSize.Width * 25.4),
         Environment.NewLine);
     sb.AppendFormat("      MEMBER integer y-dimension {0}{1}", (int) (e.PageSettings.PaperSize.Height * 25.4),
         Environment.NewLine);
     sb.AppendLine("    }");
 
-    // Set margins
+    // Imposta i margini
     if (pageSettings.Margins != null)
     {
         sb.AppendFormat("    MEMBER integer media-top-margin {0}{1}", (int) (e.PageSettings.Margins.Top * 25.4),
@@ -225,13 +225,13 @@ private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
     sb.AppendLine("  EXPECT job-uri");
     sb.AppendLine("}");
 
-    // Create ipptool job file
+    // Crea il file di lavoro ipptool
     File.WriteAllText(jobFile, sb.ToString());
 
-    // Pass the job file to ipptool
+    // Passa il file di lavoro a ipptool
     command.AppendFormat(" {0}", jobFile);
 
-    // Run the prepared ipptool command with bash
+    // Esegui il comando ipptool preparato con bash
     var psi = new ProcessStartInfo
     {
         FileName = "/bin/bash",
@@ -246,14 +246,16 @@ private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
         process.WaitForExit();
     }
 
-    // Delete temporary job file after the document is printed
+    // Elimina il file di lavoro temporaneo dopo che il documento è stato stampato
     File.Delete(jobFile);
 }
 ```
 
 ### Vedi anche
 
-* classe [CustomPrintEventArgs](../../../aspose.pdf.printing/customprinteventargs/)
-* classe [PdfViewer](../)
+* class [CustomPrintEventArgs](../../../aspose.pdf.printing/customprinteventargs/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

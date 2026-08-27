@@ -1,12 +1,12 @@
 ---
-title: Class PageDate.MonthComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageDateMonthComponent class. Represents the month component of a date
+title: "Classe PageDate.MonthComponent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.PageDateMonthComponent classe. Rappresenta il componente mese di una data"
 type: docs
-weight: 8130
+weight: 8270
 url: /it/net/aspose.pdf/pagedate.monthcomponent/
 ---
-## Classe PageDate.MonthComponent
+## PageDate.MonthComponent class
 
 Rappresenta il componente mese di una data.
 
@@ -24,7 +24,7 @@ public class MonthComponent : DateComponent
 
 | Nome | Descrizione |
 | --- | --- |
-| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Ottiene o imposta il formato per il componente data. |
+| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Ottiene o imposta il formato per la componente data. |
 
 ## Metodi
 
@@ -33,9 +33,11 @@ public class MonthComponent : DateComponent
 | [GetFormat](../../aspose.pdf/pagedate.monthcomponent/getformat#getformat)() | Ottiene la stringa di formato per il componente mese. |
 | [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Restituisce una stringa composta da un carattere specificato ripetuto in base al formato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DateComponent](../datecomponent/)
-* classe [PageDate](../pagedate/)
+* class [DateComponent](../datecomponent/)
+* class [PageDate](../pagedate/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

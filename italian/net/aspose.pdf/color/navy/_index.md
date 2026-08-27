@@ -1,12 +1,12 @@
 ---
-title: Color.Navy
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF000080
+title: "Color.Navy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema con valore ARGB c FF000080"
 type: docs
 weight: 970
 url: /it/net/aspose.pdf/color/navy/
 ---
-## Proprietà Color.Navy
+## Color.Navy property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF000080.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF000080.
 public static Color Navy { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un rappresentante di un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

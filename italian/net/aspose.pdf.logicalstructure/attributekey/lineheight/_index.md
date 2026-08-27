@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.LineHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo LineHeight Proprietario dell'attributo Layout
+title: "AttributeKey.LineHeight"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. LineHeight attributo Layout attributo proprietario"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.logicalstructure/attributekey/lineheight/
 ---
-## Campo AttributeKey.LineHeight
+## AttributeKey.LineHeight field
 
-Attributo LineHeight (Proprietario dell'attributo Layout).
+Attributo LineHeight (proprietario dell'attributo Layout).
 
 ```csharp
 public static readonly AttributeKey LineHeight;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

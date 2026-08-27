@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetText
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfExtractor. Salva il testo su file. vedi ancheExtractText
+title: "PdfExtractor.GetText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfExtractor method. Salva il testo su file. vedi anche ExtractText"
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.facades/pdfextractor/gettext/
@@ -16,11 +16,11 @@ public void GetText(string outputFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputFile | String | Il percorso e il nome del file in cui salvare il testo. |
+| outputFile | String | Il percorso e il nome del file dove salvare il testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,11 +36,11 @@ public void GetText(Stream outputStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputStream | Stream | Lo stream in cui salvare il testo. |
+| outputStream | Stream | Lo stream dove salvare il testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -56,11 +56,13 @@ public void GetText(Stream outputStream, bool filterNotAscii)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputStream | Stream | Lo stream in cui salvare il testo. |
-| filterNotAscii | Boolean | Se questo parametro è vero, tutti i simboli non ASCII verranno rimossi |
+| outputStream | Stream | Lo stream dove salvare il testo. |
+| filterNotAscii | Boolean | Se questo parametro è vero, tutti i simboli non ASCII verranno rimossi. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

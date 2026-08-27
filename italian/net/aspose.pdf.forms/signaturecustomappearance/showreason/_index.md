@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.ShowReason
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignatureCustomAppearance. Ottiene/imposta la visibilità del motivo. Valore predefinito true
+title: "SignatureCustomAppearance.ShowReason"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignatureCustomAppearance. Ottiene/imposta la visibilità del motivo. Valore predefinito true"
 type: docs
-weight: 180
+weight: 190
 url: /it/net/aspose.pdf.forms/signaturecustomappearance/showreason/
 ---
-## Proprietà SignatureCustomAppearance.ShowReason
+## SignatureCustomAppearance.ShowReason property
 
 Ottiene/imposta la visibilità del motivo. Valore predefinito: true.
 
@@ -14,8 +14,10 @@ Ottiene/imposta la visibilità del motivo. Valore predefinito: true.
 public bool ShowReason { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: ArtifactCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ArtifactCollection. Elimina l'articolo specificato
+title: "ArtifactCollection.Delete"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ArtifactCollection. Elimina l'artifact specificato"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/artifactcollection/delete/
 ---
 ## Delete(Artifact) {#delete}
 
-Elimina l'articolo specificato.
+Elimina l'artifact specificato.
 
 ```csharp
 public void Delete(Artifact artifact)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| artifact | Artifact | Articolo che verrà eliminato. |
+| artefatto | Artefatto | Artifact che verrà eliminato. |
 
-### See Also
+### Vedi anche
 
 * class [Artifact](../../artifact/)
 * class [ArtifactCollection](../)
@@ -29,18 +29,20 @@ public void Delete(Artifact artifact)
 
 ## Delete(int) {#delete_1}
 
-Elimina l'articolo in base al suo indice.
+Elimina l'artifact per indice.
 
 ```csharp
 public void Delete(int index)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| index | Int32 | Indice dell'articolo da eliminare. |
+| index | Int32 | Indice dell'artifact da eliminare. |
 
-### See Also
+### Vedi anche
 
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

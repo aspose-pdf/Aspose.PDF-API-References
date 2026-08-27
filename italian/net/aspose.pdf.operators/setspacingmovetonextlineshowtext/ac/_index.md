@@ -1,12 +1,12 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Ac
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetSpacingMoveToNextLineShowText. Ottieni la spaziatura dei caratteri
+title: "SetSpacingMoveToNextLineShowText.Ac"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SetSpacingMoveToNextLineShowText proprietà. Ottiene la spaziatura dei caratteri"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/
 ---
-## Proprietà SetSpacingMoveToNextLineShowText.Ac
+## SetSpacingMoveToNextLineShowText.Ac property
 
 Ottieni la spaziatura dei caratteri.
 
@@ -14,8 +14,10 @@ Ottieni la spaziatura dei caratteri.
 public double Ac { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetSpacingMoveToNextLineShowText](../)
+* class [SetSpacingMoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

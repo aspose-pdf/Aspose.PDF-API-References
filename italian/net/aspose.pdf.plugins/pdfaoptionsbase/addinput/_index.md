@@ -1,14 +1,14 @@
 ---
-title: PdfAOptionsBase.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase metodo. Aggiunge una nuova fonte dati nella raccolta.
+title: "PdfAOptionsBase.AddInput"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfAOptionsBase method. Aggiunge una nuova origine dati alla collezione"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.plugins/pdfaoptionsbase/addinput/
 ---
-## Metodo PdfAOptionsBase.AddInput
+## PdfAOptionsBase.AddInput method
 
-Aggiunge una nuova sorgente di dati alla collezione
+Aggiunge una nuova origine dati alla raccolta
 
 ```csharp
 public void AddInput(IDataSource dataSource)
@@ -18,9 +18,11 @@ public void AddInput(IDataSource dataSource)
 | --- | --- | --- |
 | dataSource | IDataSource |  |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../../idatasource/)
-* classe [PdfAOptionsBase](../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

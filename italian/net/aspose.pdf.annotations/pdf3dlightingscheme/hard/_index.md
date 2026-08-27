@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.Hard
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PDF3DLightingScheme. Lo schema di illuminazione Hard
+title: "PDF3DLightingScheme.Hard"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PDF3DLightingScheme. Lo schema di illuminazione Hard"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.annotations/pdf3dlightingscheme/hard/
 ---
-## Campo PDF3DLightingScheme.Hard
+## PDF3DLightingScheme.Hard field
 
 Lo schema di illuminazione "Hard".
 
@@ -14,8 +14,10 @@ Lo schema di illuminazione "Hard".
 public static PDF3DLightingScheme Hard;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DLightingScheme](../)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

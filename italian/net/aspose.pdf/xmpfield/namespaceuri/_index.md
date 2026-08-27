@@ -1,25 +1,27 @@
 ---
-title: XmpField.NamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpField. Ottiene l'URI del namespace
+title: "XmpField.NamespaceUri"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XmpField. Restituisce l'URI dello spazio dei nomi"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/xmpfield/namespaceuri/
 ---
-## Proprietà XmpField.NamespaceUri
+## XmpField.NamespaceUri property
 
-Ottiene l'URI del namespace.
+Ottiene l'URI dello spazio dei nomi.
 
 ```csharp
 public string NamespaceUri { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-L'URI del namespace.
+L'URI dello spazio dei nomi.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

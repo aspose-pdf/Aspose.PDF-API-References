@@ -1,12 +1,12 @@
 ---
-title: TextAbsorber.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di TextAbsorber. Ottiene o imposta le opzioni di estrazione del testo
+title: "TextAbsorber.ExtractionOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextAbsorber. Ottiene o imposta le opzioni di estrazione del testo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/textabsorber/extractionoptions/
 ---
-## Proprietà TextAbsorber.ExtractionOptions
+## TextAbsorber.ExtractionOptions property
 
 Ottiene o imposta le opzioni di estrazione del testo.
 
@@ -23,25 +23,27 @@ Consente di definire la modalità di formattazione del testo [`TextExtractionOpt
 L'esempio dimostra come impostare la modalità di formattazione del testo Pure e eseguire l'estrazione del testo.
 
 ```csharp
-// open document
+// apri documento
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text with formatting
+// crea un oggetto TextAbsorber per estrarre il testo con formattazione
 TextAbsorber absorber = new TextAbsorber();
 
-// set pure text formatting mode
+// imposta la modalità di formattazione del testo Pure
 absorber.ExtractionOptions = new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure);
 
-// accept the absorber for all document's pages
+// accetta l'assorbitore per tutte le pagine del documento
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// ottieni il testo estratto
 string extractedText = absorber.Text;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextExtractionOptions](../../textextractionoptions/)
-* classe [TextAbsorber](../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

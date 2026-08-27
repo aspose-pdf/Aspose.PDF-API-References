@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ImportIntoDataBase
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormDataConverter. Importa dati dalla tabella nel database
+title: "FormDataConverter.ImportIntoDataBase"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormDataConverter metodo. Importa dati dalla tabella nel database"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.facades/formdataconverter/importintodatabase/
 ---
-## Metodo FormDataConverter.ImportIntoDataBase
+## FormDataConverter.ImportIntoDataBase method
 
-Importa dati dalla tabella nel database.
+Importa i dati dalla table nel database.
 
 ```csharp
 public void ImportIntoDataBase(string connectString, DataType dbType)
@@ -36,9 +36,11 @@ string connection = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=ConverterDatab
 fc.ImportIntoDataBase(connection, DataType.OLEDB);
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

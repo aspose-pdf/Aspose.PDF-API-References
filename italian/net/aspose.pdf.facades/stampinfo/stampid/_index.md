@@ -1,21 +1,23 @@
 ---
-title: StampInfo.StampId
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà StampInfo. Ottiene l'identificatore del timbro
+title: "StampInfo.StampId"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StampInfo. Ottiene l'identificatore del timbro"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/stampinfo/stampid/
 ---
-## Proprietà StampInfo.StampId
+## StampInfo.StampId property
 
-Ottiene l'identificatore del timbro.
+Restituisce l'identificatore del timbro.
 
 ```csharp
 public int StampId { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StampInfo](../)
+* class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

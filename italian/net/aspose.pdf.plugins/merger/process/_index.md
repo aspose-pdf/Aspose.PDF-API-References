@@ -1,14 +1,14 @@
 ---
-title: Merger.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Merger. Avvia l'elaborazione del Merger con i parametri specificati
+title: "Merger.Process"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Merger metodo. Avvia l'elaborazione del Merger con i parametri specificati"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/merger/process/
 ---
-## Metodo Merger.Process
+## Merger.Process method
 
-Avvia l[`Merger`](../) elaborazione con i parametri specificati.
+Avvia l'elaborazione del [`Merger`](../) con i parametri specificati.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| options | IPluginOptions | Un oggetto opzioni contenente istruzioni per il [`Merger`](../). |
+| options | IPluginOptions | Un oggetto options contenente le istruzioni per il [`Merger`](../). |
 
 ### Valore di ritorno
 
@@ -30,8 +30,10 @@ Un oggetto ResultContainer contenente il risultato dell'operazione.
 
 ### Vedi anche
 
-* classe [ResultContainer](../../resultcontainer/)
-* interfaccia [IPluginOptions](../../ipluginoptions/)
-* classe [Merger](../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Merger](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

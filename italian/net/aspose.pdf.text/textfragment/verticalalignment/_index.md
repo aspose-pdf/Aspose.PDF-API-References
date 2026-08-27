@@ -1,22 +1,24 @@
 ---
-title: TextFragment.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextFragment. Ottiene o imposta un allineamento verticale del frammento di testo
+title: "TextFragment.VerticalAlignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragment. Ottiene o imposta un allineamento verticale del frammento di testo."
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.text/textfragment/verticalalignment/
 ---
-## Proprietà TextFragment.VerticalAlignment
+## TextFragment.VerticalAlignment property
 
-Ottiene o imposta un allineamento verticale del frammento di testo.
+Ottiene o imposta l'allineamento verticale del frammento di testo.
 
 ```csharp
 public override VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

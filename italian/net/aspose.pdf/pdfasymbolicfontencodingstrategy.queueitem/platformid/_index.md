@@ -1,12 +1,12 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.PlatformId
-second_title: Aspose.PDF for .NET API Reference
-description: QueueItem property. Platform identifier for encoding subtable
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.PlatformId"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà QueueItem. Identificatore della piattaforma per la sotto-tabella di codifica"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformid/
 ---
-## Proprietà PdfASymbolicFontEncodingStrategy.QueueItem.PlatformId
+## PdfASymbolicFontEncodingStrategy.QueueItem.PlatformId property
 
 Identificatore della piattaforma per la sottotabella di codifica
 
@@ -14,8 +14,10 @@ Identificatore della piattaforma per la sottotabella di codifica
 public ushort PlatformId { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [QueueItem](../)
+* class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

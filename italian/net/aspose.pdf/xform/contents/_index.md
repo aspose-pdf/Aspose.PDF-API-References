@@ -1,14 +1,14 @@
 ---
-title: XForm.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XForm. Ottiene operatori della forma
+title: "XForm.Contents"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XForm. Ottiene gli operatori del modulo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/xform/contents/
 ---
-## Proprietà XForm.Contents
+## XForm.Contents property
 
-Ottiene operatori della forma.
+Ottiene gli operatori del modulo.
 
 ```csharp
 public OperatorCollection Contents { get; }
@@ -16,7 +16,9 @@ public OperatorCollection Contents { get; }
 
 ### Vedi anche
 
-* classe [OperatorCollection](../../operatorcollection/)
-* classe [XForm](../)
+* class [OperatorCollection](../../operatorcollection/)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

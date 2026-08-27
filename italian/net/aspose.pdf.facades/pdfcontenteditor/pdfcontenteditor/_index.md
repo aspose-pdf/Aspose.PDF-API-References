@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.PdfContentEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfContentEditor. Il costruttore dell'oggetto PdfContentEditor
+title: "PdfContentEditor.PdfContentEditor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfContentEditor. Il costruttore dell'oggetto PdfContentEditor"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/pdfcontenteditor/
@@ -14,9 +14,9 @@ Il costruttore dell'oggetto PdfContentEditor.
 public PdfContentEditor()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public PdfContentEditor()
 
 ## PdfContentEditor(Document) {#constructor_1}
 
-Inizializza un nuovo oggetto [`PdfContentEditor`](../) sulla base del *documento*.
+Inizializza un nuovo oggetto [`PdfContentEditor`](../) basato sul *document*.
 
 ```csharp
 public PdfContentEditor(Document document)
@@ -32,11 +32,13 @@ public PdfContentEditor(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| documento | Documento | Documento Pdf. |
+| document | Document | Documento Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfContentEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

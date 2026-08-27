@@ -1,12 +1,12 @@
 ---
-title: CompletionResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CompletionResponse. Ottiene o imposta le statistiche di utilizzo per la richiesta di completamento
+title: "CompletionResponse.Usage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CompletionResponse. Ottiene o imposta le statistiche di utilizzo per la richiesta di completamento"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.ai/completionresponse/usage/
 ---
-## Proprietà CompletionResponse.Usage
+## CompletionResponse.Usage property
 
 Ottiene o imposta le statistiche di utilizzo per la richiesta di completamento.
 
@@ -14,9 +14,11 @@ Ottiene o imposta le statistiche di utilizzo per la richiesta di completamento.
 public Usage Usage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Usage](../../usage/)
-* classe [CompletionResponse](../)
+* class [Usage](../../usage/)
+* class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

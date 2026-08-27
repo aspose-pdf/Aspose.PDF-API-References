@@ -1,22 +1,24 @@
 ---
-title: PaperSources.SmallFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSources. Rappresenta il contenitore per la carta di formato più piccolo
+title: "PaperSources.SmallFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSources. Rappresenta il vassoio per la carta di formato più piccolo"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.printing/papersources/smallformat/
 ---
-## Campo PaperSources.SmallFormat
+## PaperSources.SmallFormat field
 
-Rappresenta il contenitore per la carta di formato più piccolo.
+Rappresenta il vassoio per la carta di formato più piccolo.
 
 ```csharp
 public static readonly PaperSource SmallFormat;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSource](../../papersource/)
-* classe [PaperSources](../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: UnderlineAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: UnderlineAnnotation method. Accepts visitor object to process the annotation
+title: "UnderlineAnnotation.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo UnderlineAnnotation. Accetta l'oggetto visitor per elaborare l'annotazione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/underlineannotation/accept/
 ---
-## Metodo UnderlineAnnotation.Accept
+## UnderlineAnnotation.Accept method
 
 Accetta un oggetto visitor per elaborare l'annotazione.
 
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Oggetto visitor. |
+| visitatore | AnnotationSelector | Oggetto visitor. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AnnotationSelector](../../annotationselector/)
-* classe [UnderlineAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [UnderlineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

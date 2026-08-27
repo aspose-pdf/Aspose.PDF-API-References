@@ -1,12 +1,12 @@
 ---
-title: MCRElement.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo MCRElement. Restituisce una stringa che rappresenta l'oggetto corrente
+title: "MCRElement.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo MCRElement. Restituisce una stringa che rappresenta l'oggetto corrente"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.logicalstructure/mcrelement/tostring/
 ---
-## Metodo MCRElement.ToString
+## MCRElement.ToString method
 
 Restituisce una stringa che rappresenta l'oggetto corrente.
 
@@ -14,12 +14,14 @@ Restituisce una stringa che rappresenta l'oggetto corrente.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Stringa che rappresenta l'oggetto corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MCRElement](../)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

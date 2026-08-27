@@ -1,30 +1,32 @@
 ---
-title: Class InvalidCgmFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.InvalidCgmFileFormatException class. The exception that is thrown when a Cgm file is invalid
+title: "Classe InvalidCgmFileFormatException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.InvalidCgmFileFormatException. L'eccezione che viene generata quando un file Cgm non è valido"
 type: docs
-weight: 5980
+weight: 6110
 url: /it/net/aspose.pdf/invalidcgmfileformatexception/
 ---
 ## InvalidCgmFileFormatException class
 
-L'eccezione che viene sollevata quando un file Cgm è non valido.
+L'eccezione che viene generata quando un file Cgm non è valido.
 
 ```csharp
 public sealed class InvalidCgmFileFormatException : InvalidFileFormatException
 ```
 
-## Constructors
+## Costruttori
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor)() | Inizializza una nuova istanza della classe `InvalidCgmFileFormatException`. |
 | [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_1)(Exception) | Inizializza una nuova istanza della classe `InvalidCgmFileFormatException` con un messaggio di errore specificato e un riferimento all'eccezione interna che è la causa di questa eccezione. |
 | [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_2)(string) | Inizializza una nuova istanza della classe `InvalidCgmFileFormatException`. |
 | [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_3)(string, Exception) | Inizializza una nuova istanza della classe `InvalidCgmFileFormatException` con un messaggio di errore specificato e un riferimento all'eccezione interna che è la causa di questa eccezione. |
 
-### See Also
+### Vedi anche
 
 * class [InvalidFileFormatException](../invalidfileformatexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

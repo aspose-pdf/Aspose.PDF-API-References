@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePolyLine
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates polyline annotation
+title: "PdfContentEditor.CreatePolyLine"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Crea un'annotazione polilinea"
 type: docs
 weight: 240
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/createpolyline/
 ---
-## Metodo PdfContentEditor.CreatePolyLine
+## PdfContentEditor.CreatePolyLine method
 
-Crea annotazione polilinea.
+Crea un'annotazione polilinea.
 
 ```csharp
 public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
@@ -17,9 +17,9 @@ public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, str
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | lineInfo | LineInfo | L'istanza della classe LineInfo. |
-| page | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
+| pagina | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
 | annotRect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
-| annotContents | String | I contenuti dell'annotazione. |
+| annotContents | String | Il contenuto dell'annotazione. |
 
 ## Esempi
 
@@ -33,9 +33,11 @@ editor.CreatePolyLine(lineInfo, 1 , new System.Drawing.Rectangle(0, 0, 0, 0), "W
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LineInfo](../../lineinfo/)
-* classe [PdfContentEditor](../)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

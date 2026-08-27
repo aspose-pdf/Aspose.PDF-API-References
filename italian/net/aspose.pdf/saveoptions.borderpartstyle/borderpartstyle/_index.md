@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.BorderPartStyle.BorderPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di BorderPartStyle. Il costruttore predefinito
+title: "SaveOptions.BorderPartStyle.BorderPartStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore BorderPartStyle. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/saveoptions.borderpartstyle/borderpartstyle/
 ---
-## Costruttore di SaveOptions.BorderPartStyle
+## SaveOptions.BorderPartStyle constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public BorderPartStyle()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BorderPartStyle](../)
+* class [BorderPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

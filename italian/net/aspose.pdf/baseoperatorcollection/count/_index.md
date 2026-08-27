@@ -1,21 +1,23 @@
 ---
-title: BaseOperatorCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di BaseOperatorCollection. Ottiene il conteggio degli operatori nella collezione
+title: "BaseOperatorCollection.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà BaseOperatorCollection. Ottiene il conteggio degli operatori nella collezione."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/baseoperatorcollection/count/
 ---
-## Proprietà BaseOperatorCollection.Count
+## BaseOperatorCollection.Count property
 
-Ottiene il conteggio degli operatori nella collezione.
+Restituisce il conteggio degli operatori nella collezione.
 
 ```csharp
 public abstract int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseOperatorCollection](../)
+* class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

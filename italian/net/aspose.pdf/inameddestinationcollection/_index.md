@@ -1,14 +1,14 @@
 ---
-title: Interface INamedDestinationCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.INamedDestinationCollection interfaccia. Collezione di destinazioni denominate.
+title: "Interfaccia INamedDestinationCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.INamedDestinationCollection. Collezione di destinazioni nominate."
 type: docs
-weight: 5780
+weight: 5910
 url: /it/net/aspose.pdf/inameddestinationcollection/
 ---
-## Interfaccia INamedDestinationCollection
+## INamedDestinationCollection interface
 
-Collezione di Destinazioni Nominate.
+Raccolta di destinazioni nominate.
 
 ```csharp
 public interface INamedDestinationCollection
@@ -19,17 +19,19 @@ public interface INamedDestinationCollection
 | Nome | Descrizione |
 | --- | --- |
 | [Count](../../aspose.pdf/inameddestinationcollection/count/) { get; } | Restituisce il conteggio delle destinazioni. |
-| [Item](../../aspose.pdf/inameddestinationcollection/item/) { get; set; } | Ottiene o imposta la destinazione in base al suo nome. |
-| [Names](../../aspose.pdf/inameddestinationcollection/names/) { get; } | Ottiene un array di nomi delle destinazioni. |
+| [Item](../../aspose.pdf/inameddestinationcollection/item/) { get; set; } | Ottiene o imposta la destinazione per nome. |
+| [Names](../../aspose.pdf/inameddestinationcollection/names/) { get; } | Ottiene l'array dei nomi delle destinazioni. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
 | [Add](../../aspose.pdf/inameddestinationcollection/add/)(string, IAppointment) | Aggiunge una nuova destinazione nominata. |
-| [Remove](../../aspose.pdf/inameddestinationcollection/remove/)(string) | Rimuove la destinazione in base al suo nome. |
+| [Remove](../../aspose.pdf/inameddestinationcollection/remove/)(string) | Rimuove la destinazione per nome. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

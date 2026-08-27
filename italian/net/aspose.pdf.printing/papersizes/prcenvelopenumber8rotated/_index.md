@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber8Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Fogli 8 rotati 309 mm per 120 mm.
+title: "PaperSizes.PrcEnvelopeNumber8Rotated"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSizes. busta ruotata 8 309 mm per 120 mm"
 type: docs
 weight: 1030
 url: /it/net/aspose.pdf.printing/papersizes/prcenvelopenumber8rotated/
 ---
-## Campo PaperSizes.PrcEnvelopeNumber8Rotated
+## PaperSizes.PrcEnvelopeNumber8Rotated field
 
-#Busta 8 ruotata (309 mm per 120 mm).
+Busta #8 ruotata (309 mm per 120 mm).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber8Rotated;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

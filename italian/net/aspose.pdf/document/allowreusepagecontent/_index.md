@@ -1,21 +1,23 @@
 ---
-title: Document.AllowReusePageContent
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Consente di unire i contenuti delle pagine per ottimizzare le dimensioni del documento. Se utilizzato, pagine diverse ma duplicate possono fare riferimento allo stesso oggetto contenuto. Si prega di notare che questa modalità può causare effetti collaterali come la modifica del contenuto della pagina quando un'altra pagina viene modificata.
+title: "Document.AllowReusePageContent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di Document. Consente di unire i contenuti delle pagine per ottimizzare le dimensioni del documento. Se usata, pagine diverse ma duplicate possono fare riferimento allo stesso oggetto contenuto. Si prega di notare che questa modalità può causare effetti collaterali, come la modifica del contenuto di una pagina quando un'altra pagina viene modificata."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/document/allowreusepagecontent/
 ---
-## Proprietà Document.AllowReusePageContent
+## Document.AllowReusePageContent property
 
-Consente di unire i contenuti delle pagine per ottimizzare le dimensioni del documento. Se utilizzato, pagine diverse ma duplicate possono fare riferimento allo stesso oggetto contenuto. Si prega di notare che questa modalità può causare effetti collaterali come la modifica del contenuto della pagina quando un'altra pagina viene modificata.
+Consente di unire i contenuti delle pagine per ottimizzare le dimensioni del documento. Se usato, pagine diverse ma duplicate possono fare riferimento allo stesso oggetto di contenuto. Si noti che questa modalità può causare effetti collaterali, come la modifica del contenuto di una pagina quando un'altra pagina viene modificata.
 
 ```csharp
 public bool AllowReusePageContent { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PositionSettings.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PositionSettings. Ottiene o imposta un margine esterno per il paragrafo
+title: "PositionSettings.Margin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PositionSettings. Ottiene o imposta un margine esterno per il paragrafo"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.tagged/positionsettings/margin/
 ---
-## Proprietà PositionSettings.Margin
+## PositionSettings.Margin property
 
 Ottiene o imposta un margine esterno per il paragrafo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta un margine esterno per il paragrafo.
 public MarginInfo Margin { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../../../aspose.pdf/margininfo/)
-* classe [PositionSettings](../)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

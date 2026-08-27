@@ -1,12 +1,12 @@
 ---
-title: PdfToImageOptions.PageList
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfToImageOptions. Ottiene o imposta un elenco di pagine per il processo
+title: "PdfToImageOptions.PageList"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfToImageOptions. Ottiene o imposta un elenco di pagine per il processo"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.plugins/pdftoimageoptions/pagelist/
 ---
-## Proprietà PdfToImageOptions.PageList
+## PdfToImageOptions.PageList property
 
 Ottiene o imposta un elenco di pagine per il processo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un elenco di pagine per il processo.
 public List<int> PageList { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfToImageOptions](../)
+* class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

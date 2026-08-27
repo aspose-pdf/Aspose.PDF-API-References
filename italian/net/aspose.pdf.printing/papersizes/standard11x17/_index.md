@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.Standard11x17
-second_title: Aspose.PDF for .NET API Reference
-description: Dimensioni della Carta Campo. Carta Standard 11 pollici x 17 pollici.
+title: "PaperSizes.Standard11x17"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PaperSizes. Carta standard 11 pol. per 17 pol."
 type: docs
 weight: 1090
 url: /it/net/aspose.pdf.printing/papersizes/standard11x17/
 ---
-## Campo PaperSizes.Standard11x17
+## PaperSizes.Standard11x17 field
 
 Carta standard (11 in. per 17 in.).
 
@@ -14,9 +14,11 @@ Carta standard (11 in. per 17 in.).
 public static readonly PaperSize Standard11x17;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

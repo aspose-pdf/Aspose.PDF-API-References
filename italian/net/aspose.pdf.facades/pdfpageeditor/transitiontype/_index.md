@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.TransitionType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfPageEditor. Ottiene o imposta lo stile di transizione da utilizzare quando si passa a questa pagina da un'altra durante una presentazione
+title: "PdfPageEditor proprietà. Ottiene o imposta lo stile di transizione da utilizzare quando si passa a questa pagina da un'altra durante una presentazione"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfPageEditor.OUTBOX"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.facades/pdfpageeditor/transitiontype/
 ---
-## Proprietà PdfPageEditor.TransitionType
+## PdfPageEditor.TransitionType property
 
 Ottiene o imposta lo stile di transizione da utilizzare quando si passa a questa pagina da un'altra durante una presentazione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta lo stile di transizione da utilizzare quando si passa a questa
 public int TransitionType { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

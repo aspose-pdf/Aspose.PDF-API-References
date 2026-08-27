@@ -1,21 +1,23 @@
 ---
-title: TeXLoadOptions.JobName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TeXLoadOptions. Ottiene/imposta il nome del lavoro
+title: "TeXLoadOptions.JobName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TeXLoadOptions. Ottiene/Imposta il nome del lavoro"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/texloadoptions/jobname/
 ---
-## Proprietà TeXLoadOptions.JobName
+## TeXLoadOptions.JobName property
 
-Ottiene/imposta il nome del lavoro.
+Ottiene/Imposta il nome del lavoro.
 
 ```csharp
 public string JobName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TeXLoadOptions](../)
+* class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SvgExtractionOptions.SvgExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SvgExtractionOptions. Il costruttore predefinito
+title: "SvgExtractionOptions.SvgExtractionOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SvgExtractionOptions costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.vector/svgextractionoptions/svgextractionoptions/
 ---
-## Costruttore di SvgExtractionOptions
+## SvgExtractionOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public SvgExtractionOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SvgExtractionOptions](../)
+* class [SvgExtractionOptions](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

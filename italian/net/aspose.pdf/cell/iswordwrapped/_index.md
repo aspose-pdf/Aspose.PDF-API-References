@@ -1,21 +1,23 @@
 ---
-title: Cell.IsWordWrapped
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della cella. Ottiene o imposta il testo della cella a capo
+title: "Cell.IsWordWrapped"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cell. Ottiene o imposta se il testo della cella è a capo"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/cell/iswordwrapped/
 ---
-## Proprietà Cell.IsWordWrapped
+## Cell.IsWordWrapped property
 
-Ottiene o imposta il testo della cella a capo.
+Ottiene o imposta il testo della cella con interruzione di riga.
 
 ```csharp
 public bool IsWordWrapped { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Cell](../)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

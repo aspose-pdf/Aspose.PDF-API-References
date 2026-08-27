@@ -1,12 +1,12 @@
 ---
-title: Class TextFormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.TextFormattingOptions. Rappresenta le opzioni di formattazione del testo
+title: "Classe TextFormattingOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.TextFormattingOptions classe. Rappresenta le opzioni di formattazione del testo"
 type: docs
-weight: 10910
+weight: 11090
 url: /it/net/aspose.pdf.text/textformattingoptions/
 ---
-## Classe TextFormattingOptions
+## TextFormattingOptions class
 
 Rappresenta le opzioni di formattazione del testo
 
@@ -18,21 +18,23 @@ public sealed class TextFormattingOptions : TextOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [TextFormattingOptions](textformattingoptions/#constructor)() | Inizializza una nuova istanza dell'oggetto `TextFormattingOptions` con modalità di interruzione di riga non definita. |
-| [TextFormattingOptions](textformattingoptions/#constructor_1)(WordWrapMode) | Inizializza una nuova istanza dell'oggetto `TextFormattingOptions` per la modalità di interruzione di riga specificata. |
+| [TextFormattingOptions](textformattingoptions/#constructor)() | Inizializza una nuova istanza dell'oggetto `TextFormattingOptions` con modalità di a capo parole non definita. |
+| [TextFormattingOptions](textformattingoptions/#constructor_1)(WordWrapMode) | Inizializza una nuova istanza dell'oggetto `TextFormattingOptions` per la modalità di a capo parole specificata. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [FirstLineIndent](../../aspose.pdf.text/textformattingoptions/firstlineindent/) { get; set; } | Ottiene o imposta il valore dell'indentazione della prima riga. |
-| [HyphenSymbol](../../aspose.pdf.text/textformattingoptions/hyphensymbol/) { get; set; } | Ottiene o imposta il simbolo del trattino utilizzato nel processo di divisione in sillabe. |
+| [FirstLineIndent](../../aspose.pdf.text/textformattingoptions/firstlineindent/) { get; set; } | Ottiene o imposta il valore del rientro della prima riga. |
+| [HyphenSymbol](../../aspose.pdf.text/textformattingoptions/hyphensymbol/) { get; set; } | Ottiene o imposta il simbolo di trattino utilizzato nel processo di sillabazione. |
 | [LineSpacing](../../aspose.pdf.text/textformattingoptions/linespacing/) { get; set; } | Ottiene o imposta la modalità di interlinea. Il valore predefinito è LineSpacingMode.FontSize |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textformattingoptions/subsequentlinesindent/) { get; set; } | Ottiene o imposta il valore dell'indentazione delle righe successive. |
-| [WrapMode](../../aspose.pdf.text/textformattingoptions/wrapmode/) { get; set; } | Ottiene o imposta la modalità di interruzione di riga. Il valore predefinito è WordWrapMode.NoWrap |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textformattingoptions/subsequentlinesindent/) { get; set; } | Ottiene o imposta il valore del rientro delle righe successive. |
+| [WrapMode](../../aspose.pdf.text/textformattingoptions/wrapmode/) { get; set; } | Ottiene o imposta la modalità di a capo parole. Il valore predefinito è WordWrapMode.NoWrap |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextOptions](../textoptions/)
+* class [TextOptions](../textoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

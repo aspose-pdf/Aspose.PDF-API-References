@@ -1,12 +1,12 @@
 ---
-title: PageDate.Month
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageDate. Ottiene o imposta il componente mese della data. Il formato della data verrà aggiornato in base a questo componente
+title: "PageDate.Month"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageDate. Ottiene o imposta la componente del mese della data. Il formato della data verrà aggiornato in base a questa componente."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/pagedate/month/
 ---
-## Proprietà PageDate.Month
+## PageDate.Month property
 
 Ottiene o imposta il componente mese della data. Il formato della data verrà aggiornato in base a questo componente.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il componente mese della data. Il formato della data verrà ag
 public MonthComponent Month { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MonthComponent](../../pagedate.monthcomponent/)
-* classe [PageDate](../)
+* class [MonthComponent](../../pagedate.monthcomponent/)
+* class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

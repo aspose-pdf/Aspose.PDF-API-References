@@ -1,22 +1,24 @@
 ---
-title: PdfConverterOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfConverterOptions. Ottiene la collezione di obiettivi aggiunti per i risultati dell'operazione di salvataggio
+title: "PdfConverterOptions.Outputs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfConverterOptions proprietà. Ottiene la collezione di destinazioni aggiunte per il salvataggio dei risultati dell'operazione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.plugins/pdfconverteroptions/outputs/
 ---
-## Proprietà PdfConverterOptions.Outputs
+## PdfConverterOptions.Outputs property
 
-Ottiene la collezione di obiettivi aggiunti per i risultati dell'operazione di salvataggio.
+Ottiene la raccolta dei target aggiunti per salvare i risultati dell'operazione.
 
 ```csharp
 public List<IDataSource> Outputs { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../../idatasource/)
-* classe [PdfConverterOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

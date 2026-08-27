@@ -1,12 +1,12 @@
 ---
-title: Class Point
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Point. Rappresenta un punto con coordinate frazionarie
+title: "Classe Point"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Point. Rappresenta un punto con coordinate frazionarie"
 type: docs
-weight: 9460
+weight: 9610
 url: /it/net/aspose.pdf/point/
 ---
-## Classe Point
+## Point class
 
 Rappresenta un punto con coordinate frazionarie.
 
@@ -36,7 +36,9 @@ public sealed class Point
 | override [ToString](../../aspose.pdf/point/tostring/)() | Restituisce la rappresentazione stringa del punto corrente. |
 | static [Distance](../../aspose.pdf/point/distance/)(Point, Point) | Calcola la distanza tra due punti. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

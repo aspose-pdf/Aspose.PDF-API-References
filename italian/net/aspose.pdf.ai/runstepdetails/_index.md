@@ -1,34 +1,36 @@
 ---
-title: Class RunStepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.RunStepDetails class. The details of the run step
+title: "Classe RunStepDetails"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.RunStepDetails. I dettagli del passaggio di esecuzione."
 type: docs
-weight: 1030
+weight: 1110
 url: /it/net/aspose.pdf.ai/runstepdetails/
 ---
 ## RunStepDetails class
 
-I dettagli del passo di esecuzione.
+I dettagli del passaggio dell'esecuzione.
 
 ```csharp
 public class RunStepDetails
 ```
 
-## Constructors
+## Costruttori
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [RunStepDetails](runstepdetails/)() | Il costruttore predefinito. |
 
-## Properties
+## Proprietà
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [MessageCreation](../../aspose.pdf.ai/runstepdetails/messagecreation/) { get; set; } | Ottiene o imposta i dettagli della creazione del messaggio. |
-| [RunStepType](../../aspose.pdf.ai/runstepdetails/runsteptype/) { get; set; } | Ottiene o imposta il tipo di passo di esecuzione. |
+| [RunStepType](../../aspose.pdf.ai/runstepdetails/runsteptype/) { get; set; } | Ottiene o imposta il tipo di passaggio di esecuzione. |
 | [ToolCalls](../../aspose.pdf.ai/runstepdetails/toolcalls/) { get; set; } | Ottiene o imposta i dettagli delle chiamate agli strumenti. |
 
-### See Also
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

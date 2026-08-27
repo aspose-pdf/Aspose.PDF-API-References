@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ImagePlacement. Sostituisci un'immagine nella collezione con un'altra immagine
+title: "ImagePlacement.Replace"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ImagePlacement. Sostituisce l'immagine nella collezione con un'altra immagine"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/imageplacement/replace/
 ---
-## Metodo ImagePlacement.Replace
+## ImagePlacement.Replace method
 
-Sostituisci un'immagine nella collezione con un'altra immagine.
+Sostituisci l'immagine nella raccolta con un'altra immagine.
 
 ```csharp
 public void Replace(Stream image)
@@ -18,8 +18,10 @@ public void Replace(Stream image)
 | --- | --- | --- |
 | immagine | Stream | Stream contenente i dati dell'immagine. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImagePlacement](../)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

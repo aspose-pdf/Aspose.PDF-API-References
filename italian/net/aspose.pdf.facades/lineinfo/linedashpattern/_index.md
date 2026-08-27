@@ -1,12 +1,12 @@
 ---
-title: LineInfo.LineDashPattern
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LineInfo. Ottiene o imposta il modello di tratteggio di una linea
+title: "LineInfo.LineDashPattern"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà LineInfo. Ottiene o imposta il modello di tratteggio di una linea"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.facades/lineinfo/linedashpattern/
 ---
-## Proprietà LineInfo.LineDashPattern
+## LineInfo.LineDashPattern property
 
 Ottiene o imposta il modello di tratteggio di una linea.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il modello di tratteggio di una linea.
 public int[] LineDashPattern { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LineInfo](../)
+* class [LineInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

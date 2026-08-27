@@ -1,12 +1,12 @@
 ---
-title: Class ImagesDifference
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.DifferenzaImmagini. Rappresenta la classe del risultato del confronto tra due pagine PDF.
+title: "Classe ImagesDifference"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Comparison.ImagesDifference. Rappresenta la classe risultato del confronto di due pagine PDF"
 type: docs
-weight: 3230
+weight: 3340
 url: /it/net/aspose.pdf.comparison/imagesdifference/
 ---
-## Classe ImagesDifference
+## ImagesDifference class
 
 Rappresenta la classe risultato del confronto di due pagine PDF.
 
@@ -18,20 +18,22 @@ public sealed class ImagesDifference : IDisposable
 
 | Nome | Descrizione |
 | --- | --- |
-| [Difference](../../aspose.pdf.comparison/imagesdifference/difference/) { get; } | Ottiene l'array delle differenze. Questo array è simile all'array dei dati dell'immagine originale ottenuto come risultato del metodo LockBits. |
+| [Difference](../../aspose.pdf.comparison/imagesdifference/difference/) { get; } | Ottiene l'array delle differenze. Questo array è simile all'array dei dati immagine originale ottenuto come risultato del metodo LockBits. |
 | [Height](../../aspose.pdf.comparison/imagesdifference/height/) { get; } | L'altezza della differenza. |
 | [SourceImage](../../aspose.pdf.comparison/imagesdifference/sourceimage/) { get; } | Ottiene l'immagine della prima pagina confrontata. L'immagine ha un formato pixel di 24bpp. |
-| [Stride](../../aspose.pdf.comparison/imagesdifference/stride/) { get; } | Lo stride dei dati dell'immagine di differenza. |
+| [Stride](../../aspose.pdf.comparison/imagesdifference/stride/) { get; } | Il passo dei dati immagine della differenza. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
 | [DifferenceToImage](../../aspose.pdf.comparison/imagesdifference/differencetoimage/)(Color, Color) | Converte l'array delle differenze in un'immagine bitmap utilizzando i colori specificati. |
-| [Dispose](../../aspose.pdf.comparison/imagesdifference/dispose/)() | Esegue eventuali operazioni di pulizia necessarie prima che l'oggetto venga distrutto. |
-| [GetDestinationImage](../../aspose.pdf.comparison/imagesdifference/getdestinationimage/)() | Restituisce un nuovo bitmap che rappresenta l'immagine di destinazione applicando l'array delle differenze all'immagine sorgente. |
+| [Dispose](../../aspose.pdf.comparison/imagesdifference/dispose/)() | Esegue le operazioni di pulizia necessarie prima che l'oggetto venga distrutto. |
+| [GetDestinationImage](../../aspose.pdf.comparison/imagesdifference/getdestinationimage/)() | Restituisce un nuovo bitmap che rappresenta l'immagine di destinazione applicando l'array delle differenze all'immagine di origine. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

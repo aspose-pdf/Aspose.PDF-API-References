@@ -1,12 +1,12 @@
 ---
-title: Table.Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della tabella. Ottiene le righe della tabella
+title: "Table.Rows"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Table. Ottiene le righe della tabella"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf/table/rows/
 ---
-## Proprietà Table.Rows
+## Table.Rows property
 
 Ottiene le righe della tabella.
 
@@ -14,9 +14,11 @@ Ottiene le righe della tabella.
 public Rows Rows { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rows](../../rows/)
-* classe [Table](../)
+* class [Rows](../../rows/)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

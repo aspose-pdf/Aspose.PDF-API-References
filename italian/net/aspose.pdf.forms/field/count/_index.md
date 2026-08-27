@@ -1,21 +1,23 @@
 ---
-title: Field.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Field. Ottiene il numero di sotto-campi in questo campo. Ad esempio, il numero di elementi nel campo dei pulsanti di opzione
+title: "Field.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà del campo. Ottiene il numero di sotto‑campi in questo campo. Per esempio, il numero di elementi in un campo di pulsante radio"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.forms/field/count/
 ---
-## Proprietà Field.Count
+## Field.Count property
 
-Ottiene il numero di sotto-campi in questo campo. (Ad esempio, il numero di elementi nel campo dei pulsanti di opzione).
+Ottiene il numero di sotto‑campi in questo campo. (Ad esempio il numero di elementi nel campo pulsante radio).
 
 ```csharp
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

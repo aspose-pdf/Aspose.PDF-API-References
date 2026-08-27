@@ -1,12 +1,12 @@
 ---
-title: Signature.Location
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di firma. Il nome host della CPU o la posizione fisica della firma
+title: "Signature.Location"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Signature. Il nome host della CPU o la posizione fisica della firma"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.forms/signature/location/
 ---
-## Proprietà Signature.Location
+## Signature.Location property
 
 Il nome host della CPU o la posizione fisica della firma.
 
@@ -14,8 +14,10 @@ Il nome host della CPU o la posizione fisica della firma.
 public string Location { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Signature](../)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

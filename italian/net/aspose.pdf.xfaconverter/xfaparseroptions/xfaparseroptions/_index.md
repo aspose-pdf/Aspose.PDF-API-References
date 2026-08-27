@@ -1,12 +1,12 @@
 ---
-title: XfaParserOptions.XfaParserOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di XfaParserOptions. Inizializza una nuova istanza della classe XfaParserOptions
+title: "XfaParserOptions.XfaParserOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di XfaParserOptions. Inizializza una nuova istanza della classe XfaParserOptions"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.xfaconverter/xfaparseroptions/xfaparseroptions/
 ---
-## Costruttore di XfaParserOptions
+## XfaParserOptions constructor
 
 Inizializza una nuova istanza della classe [`XfaParserOptions`](../).
 
@@ -18,8 +18,10 @@ public XfaParserOptions(SizeF pageSize)
 | --- | --- | --- |
 | pageSize | SizeF | Dimensione della pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XfaParserOptions](../)
+* class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

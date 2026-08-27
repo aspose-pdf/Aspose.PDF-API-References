@@ -1,21 +1,23 @@
 ---
-title: Row.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Row. Ottiene la riga fissa è nella nuova pagina - la pagina con questa proprietà dovrebbe essere stampata nella pagina successiva. Predefinito falso
+title: "Row.IsInNewPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Row. Indica se la riga fissa è in una nuova pagina; la pagina con questa proprietà dovrebbe essere stampata nella pagina successiva. Predefinito false"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/row/isinnewpage/
 ---
-## Proprietà Row.IsInNewPage
+## Row.IsInNewPage property
 
-Ottiene la riga fissa è nella nuova pagina - la pagina con questa proprietà dovrebbe essere stampata nella pagina successiva. Predefinito falso;
+Ottiene se la riga fissa è in una nuova pagina - la pagina con questa proprietà dovrebbe essere stampata nella pagina successiva. Predefinito false;
 
 ```csharp
 public bool IsInNewPage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Row](../)
+* class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

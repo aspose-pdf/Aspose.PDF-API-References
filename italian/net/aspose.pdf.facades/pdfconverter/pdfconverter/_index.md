@@ -1,7 +1,7 @@
 ---
-title: PdfConverter.PdfConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfConverter. Inizializza un nuovo oggetto PdfConverter
+title: "PdfConverter.PdfConverter"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfConverter costruttore. Inizializza un nuovo oggetto PdfConverter"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdfconverter/pdfconverter/
@@ -14,9 +14,9 @@ Inizializza un nuovo oggetto [`PdfConverter`](../).
 public PdfConverter()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public PdfConverter()
 
 ## PdfConverter(Document) {#constructor_1}
 
-Inizializza un nuovo oggetto [`PdfConverter`](../) sulla base del *documento*. 
+Inizializza un nuovo oggetto [`PdfConverter`](../) basato sul *document*.
 
 ```csharp
 public PdfConverter(Document document)
@@ -32,11 +32,13 @@ public PdfConverter(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| documento | Documento | Documento Pdf. |
+| document | Document | Documento Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfConverter](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

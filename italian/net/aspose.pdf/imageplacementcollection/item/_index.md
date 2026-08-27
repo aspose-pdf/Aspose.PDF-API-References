@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di ImagePlacementCollection. Ottiene l'elemento del frammento di testo all'indice specificato
+title: "ImagePlacementCollection.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImagePlacementCollection. Ottiene l'elemento del frammento di testo all'indice specificato"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/imageplacementcollection/item/
 ---
-## Indicizzatore ImagePlacementCollection
+## ImagePlacementCollection indexer
 
-Ottiene l'elemento del frammento di testo all'indice specificato.
+Restituisce l'elemento del frammento di testo all'indice specificato.
 
 ```csharp
 public ImagePlacement this[int index] { get; }
@@ -24,7 +24,9 @@ Oggetto ImagePlacement.
 
 ### Vedi anche
 
-* classe [ImagePlacement](../../imageplacement/)
-* classe [ImagePlacementCollection](../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.FillBarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Compila un campo codice a barre secondo il suo nome di campo completamente qualificato
+title: "Form.FillBarcodeField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Compila un campo barcode in base al suo nome di campo completamente qualificato"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.facades/form/fillbarcodefield/
 ---
-## Metodo Form.FillBarcodeField
+## Form.FillBarcodeField method
 
-Compila un campo codice a barre secondo il suo nome di campo completamente qualificato.
+Compila un campo barcode in base al suo nome campo completamente qualificato.
 
 ```csharp
 public bool FillBarcodeField(string fieldName, string data)
@@ -16,10 +16,10 @@ public bool FillBarcodeField(string fieldName, string data)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Il nome di campo completamente qualificato. |
-| data | String | Il nuovo valore del codice a barre. |
+| fieldName | String | Il nome completo del campo. |
+| data | String | Il nuovo valore del barcode. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Se la compilazione ha successo, restituisce true; altrimenti, false.
 
@@ -30,8 +30,10 @@ Form form = new Form("PdfForm.pdf");
 form.FillBarcodeField("textField", "42207252");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

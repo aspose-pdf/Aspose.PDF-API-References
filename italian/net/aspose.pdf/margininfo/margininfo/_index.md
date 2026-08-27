@@ -1,7 +1,7 @@
 ---
-title: MarginInfo.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di MarginInfo. Inizializza una nuova istanza della classe MarginInfo
+title: "MarginInfo.MarginInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore MarginInfo. Inizializza una nuova istanza della classe MarginInfo"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/margininfo/margininfo/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`MarginInfo`](../).
 public MarginInfo()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,13 +32,15 @@ public MarginInfo(double left, double bottom, double right, double top)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| left | Double | Margine sinistro. |
-| bottom | Double | Margine inferiore |
-| right | Double | Margine destro. |
-| top | Double | Margine superiore. |
+| sinistra | Double | Margine sinistro. |
+| inferiore | Double | Margine inferiore |
+| destra | Double | Margine destro. |
+| alto | Double | Margine superiore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

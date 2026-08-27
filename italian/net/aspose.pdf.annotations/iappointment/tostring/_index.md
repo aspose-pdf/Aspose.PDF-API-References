@@ -1,25 +1,27 @@
 ---
-title: IAppointment.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IAppointment. Restituisce la rappresentazione in stringa
+title: "IAppointment.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "metodo IAppointment. Restituisce la rappresentazione stringa"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/iappointment/tostring/
 ---
-## Metodo IAppointment.ToString
+## IAppointment.ToString method
 
-Restituisce la rappresentazione in stringa
+Restituisce la rappresentazione come stringa
 
 ```csharp
 public string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Rappresentazione in stringa.
+Rappresentazione stringa.
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IAppointment](../)
+* interface [IAppointment](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

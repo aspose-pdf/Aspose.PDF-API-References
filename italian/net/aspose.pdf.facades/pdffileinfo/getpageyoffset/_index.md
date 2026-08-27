@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageYOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileInfo. Ottiene l'offset verticale dell'area di visualizzazione della pagina specificata
+title: "PdfFileInfo.GetPageYOffset"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileInfo. Ottiene l'offset verticale dell'area di visualizzazione della pagina specificata"
 type: docs
 weight: 280
 url: /it/net/aspose.pdf.facades/pdffileinfo/getpageyoffset/
 ---
-## Metodo PdfFileInfo.GetPageYOffset
+## PdfFileInfo.GetPageYOffset method
 
-Ottiene l'offset verticale dell'area di visualizzazione della pagina specificata.
+Ottiene lo spostamento verticale dell'area di visualizzazione della pagina specificata.
 
 ```csharp
 public float GetPageYOffset(int pageNum)
@@ -16,7 +16,7 @@ public float GetPageYOffset(int pageNum)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNum | Int32 | Numero della pagina. |
+| pageNum | Int32 | Numero di pagina. |
 
 ### Valore di ritorno
 
@@ -24,6 +24,8 @@ L'offset verticale dell'area di visualizzazione della pagina.
 
 ### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

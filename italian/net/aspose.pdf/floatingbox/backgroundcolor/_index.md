@@ -1,22 +1,24 @@
 ---
-title: FloatingBox.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FloatingBox. Ottiene o imposta un oggetto Color che indica il colore di sfondo della casella flottante
+title: "FloatingBox.BackgroundColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FloatingBox property. Ottiene o imposta un oggetto Color che indica il colore di sfondo del floating box"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/floatingbox/backgroundcolor/
 ---
-## Proprietà FloatingBox.BackgroundColor
+## FloatingBox.BackgroundColor property
 
-Ottiene o imposta un [`Color`](../../color/) oggetto che indica il colore di sfondo della casella flottante.
+Ottiene o imposta un oggetto [`Color`](../../color/) che indica il colore di sfondo del floating box.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../color/)
-* classe [FloatingBox](../)
+* class [Color](../../color/)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

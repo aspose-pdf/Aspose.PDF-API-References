@@ -1,14 +1,14 @@
 ---
-title: Class BT
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.BT. Classe che rappresenta l'operatore BT Inizio del blocco di testo
+title: "Classe BT"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.BT classe. Classe che rappresenta l'operatore BT Inizio del blocco di testo"
 type: docs
-weight: 7130
+weight: 7270
 url: /it/net/aspose.pdf.operators/bt/
 ---
-## Classe BT
+## BT class
 
-Classe che rappresenta l'operatore BT (Inizio del blocco di testo).
+Classe che rappresenta l'operatore BT (Begin of text block).
 
 ```csharp
 public class BT : BlockTextOperator
@@ -24,18 +24,20 @@ public class BT : BlockTextOperator
 
 | Nome | Descrizione |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori di pagina. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori della pagina. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bt/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
-| override [ToString](../../aspose.pdf.operators/bt/tostring/)() | Produce il codice testuale dell'operatore. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operatore) | Confronta questa istanza con l'oggetto dato. |
+| override [Accept](../../aspose.pdf.operators/bt/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
+| override [ToString](../../aspose.pdf.operators/bt/tostring/)() | Genera il codice di testo dell'operatore. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BlockTextOperator](../blocktextoperator/)
+* class [BlockTextOperator](../blocktextoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

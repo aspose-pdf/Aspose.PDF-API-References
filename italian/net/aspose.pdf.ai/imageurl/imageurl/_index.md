@@ -1,12 +1,12 @@
 ---
-title: ImageUrl.ImageUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ImageUrl. Il costruttore predefinito
+title: "ImageUrl.ImageUrl"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ImageUrl. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/imageurl/imageurl/
 ---
-## Costruttore di ImageUrl
+## ImageUrl constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ImageUrl()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageUrl](../)
+* class [ImageUrl](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

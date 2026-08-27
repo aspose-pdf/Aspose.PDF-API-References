@@ -1,21 +1,23 @@
 ---
-title: TextState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextState. Ottiene o imposta il distanziamento delle parole del testo
+title: "TextState.WordSpacing"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextState. Ottiene o imposta la spaziatura tra parole del testo"
 type: docs
-weight: 190
+weight: 200
 url: /it/net/aspose.pdf.text/textstate/wordspacing/
 ---
-## Proprietà TextState.WordSpacing
+## TextState.WordSpacing property
 
-Ottiene o imposta il distanziamento delle parole del testo.
+Ottiene o imposta la spaziatura delle parole del testo.
 
 ```csharp
 public virtual float WordSpacing { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

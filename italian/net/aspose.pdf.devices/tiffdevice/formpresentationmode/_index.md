@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TiffDevice. Ottiene o imposta la modalità di presentazione del modulo
+title: "TiffDevice.FormPresentationMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TiffDevice. Ottiene o imposta la modalità di presentazione del modulo"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.devices/tiffdevice/formpresentationmode/
 ---
-## Proprietà TiffDevice.FormPresentationMode
+## TiffDevice.FormPresentationMode property
 
 Ottiene o imposta la modalità di presentazione del modulo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta la modalità di presentazione del modulo.
 public FormPresentationMode FormPresentationMode { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FormPresentationMode](../../formpresentationmode/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

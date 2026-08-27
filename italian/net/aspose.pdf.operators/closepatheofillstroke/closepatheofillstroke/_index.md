@@ -1,12 +1,12 @@
 ---
-title: ClosePathEOFillStroke.ClosePathEOFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ClosePathEOFillStroke. Inizializza l'operatore
+title: "ClosePathEOFillStroke.ClosePathEOFillStroke"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ClosePathEOFillStroke. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/closepatheofillstroke/closepatheofillstroke/
 ---
-## Costruttore di ClosePathEOFillStroke
+## ClosePathEOFillStroke constructor
 
 Inizializza l'operatore.
 
@@ -14,8 +14,10 @@ Inizializza l'operatore.
 public ClosePathEOFillStroke()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ClosePathEOFillStroke](../)
+* class [ClosePathEOFillStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

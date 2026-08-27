@@ -1,12 +1,12 @@
 ---
-title: MessageCreation.MessageId
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MessageCreation. Ottiene o imposta l'identificatore univoco del messaggio
+title: "MessageCreation.MessageId"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MessageCreation. Ottiene o imposta l'identificatore univoco del messaggio"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/messagecreation/messageid/
 ---
-## Proprietà MessageCreation.MessageId
+## MessageCreation.MessageId property
 
 Ottiene o imposta l'identificatore univoco del messaggio.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'identificatore univoco del messaggio.
 public string MessageId { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MessageCreation](../)
+* class [MessageCreation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

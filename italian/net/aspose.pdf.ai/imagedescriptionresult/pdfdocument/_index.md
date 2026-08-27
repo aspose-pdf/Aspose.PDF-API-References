@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImageDescriptionResult. Ottiene o imposta il documento PDF
+title: "ImageDescriptionResult.PdfDocument"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImageDescriptionResult. Ottiene o imposta il documento PDF"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.ai/imagedescriptionresult/pdfdocument/
 ---
-## Proprietà ImageDescriptionResult.PdfDocument
+## ImageDescriptionResult.PdfDocument property
 
 Ottiene o imposta il documento PDF.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il documento PDF.
 public PdfDocument PdfDocument { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfDocument](../../pdfdocument/)
-* classe [ImageDescriptionResult](../)
+* class [PdfDocument](../../pdfdocument/)
+* class [ImageDescriptionResult](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

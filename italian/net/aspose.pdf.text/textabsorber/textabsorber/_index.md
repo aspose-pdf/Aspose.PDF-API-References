@@ -1,7 +1,7 @@
 ---
-title: TextAbsorber.TextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TextAbsorber. Inizializza una nuova istanza di TextAbsorber
+title: "TextAbsorber.TextAbsorber"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di TextAbsorber. Inizializza una nuova istanza di TextAbsorber"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/textabsorber/textabsorber/
@@ -16,30 +16,30 @@ public TextAbsorber()
 
 ## Osservazioni
 
-Esegue l'estrazione del testo e fornisce accesso al testo estratto tramite l'oggetto [`Text`](../text/).
+Esegue l'estrazione del testo e fornisce l'accesso al testo estratto tramite l'oggetto [`Text`](../text/).
 
 ## Esempi
 
-L'esempio dimostra come estrarre testo da tutte le pagine del documento PDF.
+L'esempio dimostra come estrarre il testo da tutte le pagine del documento PDF.
 
 ```csharp
-// open document
+// apri documento
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// crea un oggetto TextAbsorber per estrarre testo
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// accetta l'assorbitore per tutte le pagine del documento
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// ottieni il testo estratto
 string extractedText = absorber.Text;
 
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextAbsorber](../)
+* class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -47,7 +47,7 @@ string extractedText = absorber.Text;
 
 ## TextAbsorber(TextExtractionOptions) {#constructor_1}
 
-Inizializza una nuova istanza di [`TextAbsorber`](../) con opzioni di estrazione.
+Inizializza una nuova istanza di [`TextAbsorber`](../) con le opzioni di estrazione.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions)
@@ -59,31 +59,31 @@ public TextAbsorber(TextExtractionOptions extractionOptions)
 
 ## Osservazioni
 
-Esegue l'estrazione del testo e fornisce accesso al testo estratto tramite l'oggetto [`Text`](../text/).
+Esegue l'estrazione del testo e fornisce l'accesso al testo estratto tramite l'oggetto [`Text`](../text/).
 
 ## Esempi
 
-L'esempio dimostra come estrarre testo da tutte le pagine del documento PDF.
+L'esempio dimostra come estrarre il testo da tutte le pagine del documento PDF.
 
 ```csharp
-// open document
+// apri documento
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text with formatting
+// crea un oggetto TextAbsorber per estrarre il testo con formattazione
 TextAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
 
-// accept the absorber for all document's pages
+// accetta l'assorbitore per tutte le pagine del documento
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// ottieni il testo estratto
 string extractedText = absorber.Text;
 
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextExtractionOptions](../../textextractionoptions/)
-* classe [TextAbsorber](../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -91,7 +91,7 @@ string extractedText = absorber.Text;
 
 ## TextAbsorber(TextExtractionOptions, TextSearchOptions) {#constructor_2}
 
-Inizializza una nuova istanza di [`TextAbsorber`](../) con opzioni di estrazione e di ricerca del testo.
+Inizializza una nuova istanza di [`TextAbsorber`](../) con le opzioni di estrazione e di ricerca del testo.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions textSearchOptions)
@@ -104,13 +104,13 @@ public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions t
 
 ## Osservazioni
 
-Esegue l'estrazione del testo e fornisce accesso al testo estratto tramite l'oggetto [`Text`](../text/).
+Esegue l'estrazione del testo e fornisce l'accesso al testo estratto tramite l'oggetto [`Text`](../text/).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextExtractionOptions](../../textextractionoptions/)
-* classe [TextSearchOptions](../../textsearchoptions/)
-* classe [TextAbsorber](../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -118,7 +118,7 @@ Esegue l'estrazione del testo e fornisce accesso al testo estratto tramite l'ogg
 
 ## TextAbsorber(TextSearchOptions) {#constructor_3}
 
-Inizializza una nuova istanza di [`TextAbsorber`](../) con opzioni di ricerca del testo.
+Inizializza una nuova istanza di [`TextAbsorber`](../) con le opzioni di ricerca del testo.
 
 ```csharp
 public TextAbsorber(TextSearchOptions textSearchOptions)
@@ -130,11 +130,13 @@ public TextAbsorber(TextSearchOptions textSearchOptions)
 
 ## Osservazioni
 
-Esegue l'estrazione del testo e fornisce accesso al testo estratto tramite l'oggetto [`Text`](../text/).
+Esegue l'estrazione del testo e fornisce l'accesso al testo estratto tramite l'oggetto [`Text`](../text/).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextSearchOptions](../../textsearchoptions/)
-* classe [TextAbsorber](../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

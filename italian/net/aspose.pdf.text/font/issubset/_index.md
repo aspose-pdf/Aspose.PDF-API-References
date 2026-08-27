@@ -1,14 +1,14 @@
 ---
-title: Font.IsSubset
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Font. Ottiene o imposta un valore che indica se il font è un sottoinsieme. I font basati su IFont saranno automaticamente sottoinsieme e incorporati
+title: "Font.IsSubset"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Font. Ottiene o imposta un valore che indica se il carattere è un subset. Font basato su IFont verrà automaticamente sottoposto a subset e incorporato"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.text/font/issubset/
 ---
-## Proprietà Font.IsSubset
+## Font.IsSubset property
 
-Ottiene o imposta un valore che indica se il font è un sottoinsieme. I font basati su IFont saranno automaticamente sottoinsieme e incorporati
+Restituisce o imposta un valore che indica se il font è un subset. Un font basato su IFont verrà automaticamente sottoposto a subset e incorporato.
 
 ```csharp
 public bool IsSubset { get; set; }
@@ -16,27 +16,29 @@ public bool IsSubset { get; set; }
 
 ## Esempi
 
-L'esempio dimostra come cercare testo nella prima pagina e ottenere il valore che indica se il font è un sottoinsieme.
+L'esempio dimostra come cercare testo nella prima pagina e ottenere il valore che indica se il carattere è un subset.
 
 ```csharp
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze del testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// View font's IsSubset value of first text occurrence
+// Visualizza il valore IsSubset del carattere della prima occorrenza di testo
 if(absorber.TextFragments[1].TextState.Font.IsSubset)
    Console.Out.WriteLine("the font is a subset");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Font](../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

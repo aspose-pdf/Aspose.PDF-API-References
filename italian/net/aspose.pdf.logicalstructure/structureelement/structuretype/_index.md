@@ -1,26 +1,28 @@
 ---
-title: StructureElement.StructureType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di StructureElement. Ottiene il tipo di elemento di struttura
+title: "StructureElement.StructureType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StructureElement. Ottiene il tipo dell'elemento di struttura"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 ---
-## Proprietà StructureElement.StructureType
+## StructureElement.StructureType property
 
-Ottiene il tipo di elemento di struttura.
+Ottiene il tipo dell'elemento di struttura.
 
 ```csharp
 public StructureTypeStandard StructureType { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Oggetto StructureTypeStandard dell'elemento di struttura.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../../structuretypestandard/)
-* classe [StructureElement](../)
+* class [StructureTypeStandard](../../structuretypestandard/)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

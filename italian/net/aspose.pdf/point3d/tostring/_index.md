@@ -1,25 +1,27 @@
 ---
-title: Point3D.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Point3D. Restituisce la rappresentazione in stringa dell'oggetto
+title: "Point3D.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Point3D metodo. Restituisce la rappresentazione stringa dell'oggetto"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/point3d/tostring/
 ---
-## Metodo Point3D.ToString
+## Point3D.ToString method
 
-Restituisce la rappresentazione in stringa dell'oggetto.
+Restituisce la rappresentazione stringa dell'oggetto.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Il valore della stringa
+Il valore stringa
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point3D](../)
+* class [Point3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

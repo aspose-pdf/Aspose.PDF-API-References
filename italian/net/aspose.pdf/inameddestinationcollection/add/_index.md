@@ -1,12 +1,12 @@
 ---
-title: INamedDestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo INamedDestinationCollection. Aggiunge una nuova destinazione nominata
+title: "INamedDestinationCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo INamedDestinationCollection. Aggiunge una nuova destinazione denominata"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/inameddestinationcollection/add/
 ---
-## Metodo INamedDestinationCollection.Add
+## INamedDestinationCollection.Add method
 
 Aggiunge una nuova destinazione nominata.
 
@@ -16,12 +16,14 @@ public void Add(string name, IAppointment appointment)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Valore del nome. |
-| appointment | IAppointment | Oggetto appuntamento. |
+| nome | String | Valore nome. |
+| appuntamento | IAppointment | Oggetto Appointment. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* interfaccia [INamedDestinationCollection](../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [INamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

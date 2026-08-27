@@ -1,14 +1,14 @@
 ---
-title: Interface ITeXOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.ITeXOutputDirectory. Interfaccia del directory di output TeX generalizzato
+title: "Interfaccia ITeXOutputDirectory"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.ITeXOutputDirectory. Interfaccia della directory di output TeX generalizzata"
 type: docs
-weight: 5830
+weight: 5960
 url: /it/net/aspose.pdf/itexoutputdirectory/
 ---
-## Interfaccia ITeXOutputDirectory
+## ITeXOutputDirectory interface
 
-Interfaccia del directory di output TeX generalizzato.
+Interfaccia della directory di output TeX generalizzata.
 
 ```csharp
 public interface ITeXOutputDirectory : ITeXInputDirectory
@@ -20,8 +20,10 @@ public interface ITeXOutputDirectory : ITeXInputDirectory
 | --- | --- |
 | [GetOutputFile](../../aspose.pdf/itexoutputdirectory/getoutputfile/)(string, out string) | Restituisce il flusso su cui scrivere. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ITeXInputDirectory](../itexinputdirectory/)
+* interface [ITeXInputDirectory](../itexinputdirectory/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Form.FlattenSettings.CallEvents
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FlattenSettings. Se impostato, verranno chiamati eventi di formattazione e altri eventi JavaScript. Vero per impostazione predefinita
+title: "Form.FlattenSettings.CallEvents"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FlattenSettings. Se impostata, verranno chiamati la formattazione e altri eventi JavaScript. Vero per impostazione predefinita"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.forms/form.flattensettings/callevents/
 ---
-## Proprietà Form.FlattenSettings.CallEvents
+## Form.FlattenSettings.CallEvents property
 
-Se impostato, verranno chiamati eventi di formattazione e altri eventi JavaScript. Vero per impostazione predefinita.
+Se impostato, verranno chiamati la formattazione e altri eventi JavaScript. Vero per impostazione predefinita.
 
 ```csharp
 public bool CallEvents { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FlattenSettings](../)
+* class [FlattenSettings](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

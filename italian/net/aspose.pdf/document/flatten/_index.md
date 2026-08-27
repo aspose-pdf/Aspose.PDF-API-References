@@ -1,22 +1,22 @@
 ---
-title: Document.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Document. Rimuove tutti i campi dal documento e inserisce i loro valori al loro posto
+title: "Document.Flatten"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Document. Rimuove tutti i campi dal documento e ne colloca i valori al loro posto"
 type: docs
-weight: 640
+weight: 660
 url: /it/net/aspose.pdf/document/flatten/
 ---
 ## Flatten() {#flatten}
 
-Rimuove tutti i campi dal documento e inserisce i loro valori al loro posto.
+Rimuove tutti i campi dal documento e ne inserisce i valori al loro posto.
 
 ```csharp
 public void Flatten()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public void Flatten()
 
 ## Flatten(FlattenSettings) {#flatten_1}
 
-Rimuove tutti i campi (e annotazioni) dal documento e inserisce i loro valori al loro posto.
+Rimuove tutti i campi (e le annotazioni) dal documento e ne inserisce i valori al loro posto.
 
 ```csharp
 public void Flatten(FlattenSettings flattenSettings)
@@ -34,9 +34,11 @@ public void Flatten(FlattenSettings flattenSettings)
 | --- | --- | --- |
 | flattenSettings | FlattenSettings | Impostazioni per il processo di appiattimento. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
-* classe [Document](../)
+* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: XmlLoadOptions.XmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore XmlLoadOptions. Crea un oggetto XmlLoadOptions senza dati xsl
+title: "XmlLoadOptions.XmlLoadOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore XmlLoadOptions. Crea un oggetto XmlLoadOptions senza dati XSL"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/xmlloadoptions/xmlloadoptions/
 ---
 ## XmlLoadOptions() {#constructor}
 
-Crea un oggetto [`XmlLoadOptions`](../) senza dati xsl.
+Crea l'oggetto [`XmlLoadOptions`](../) senza dati XSL.
 
 ```csharp
 public XmlLoadOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmlLoadOptions](../)
+* class [XmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public XmlLoadOptions()
 
 ## XmlLoadOptions(string) {#constructor_2}
 
-Crea un oggetto [`XmlLoadOptions`](../) con dati xsl.
+Crea l'oggetto [`XmlLoadOptions`](../) con dati xsl.
 
 ```csharp
 public XmlLoadOptions(string xslFile)
@@ -32,11 +32,11 @@ public XmlLoadOptions(string xslFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| xslFile | String | File xsl per convertire il documento xml in documento pdf. |
+| xslFile | String | File Xsl per convertire il documento xml in documento pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmlLoadOptions](../)
+* class [XmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public XmlLoadOptions(string xslFile)
 
 ## XmlLoadOptions(Stream) {#constructor_1}
 
-Crea un oggetto [`XmlLoadOptions`](../) con dati xsl.
+Crea l'oggetto [`XmlLoadOptions`](../) con dati xsl.
 
 ```csharp
 public XmlLoadOptions(Stream xslStream)
@@ -52,10 +52,12 @@ public XmlLoadOptions(Stream xslStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| xslStream | Stream | Stream xsl per convertire il documento xml in documento pdf. |
+| xslStream | Stream | Stream Xsl per convertire il documento xml in documento pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmlLoadOptions](../)
+* class [XmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

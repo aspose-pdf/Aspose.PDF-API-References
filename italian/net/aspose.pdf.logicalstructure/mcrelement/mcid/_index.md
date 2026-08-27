@@ -1,25 +1,27 @@
 ---
-title: MCRElement.MCID
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MCRElement. Ottiene l'MCID dell'oggetto di riferimento del contenuto contrassegnato
+title: "MCRElement.MCID"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MCRElement. Ottiene il MCID dell'oggetto di riferimento markedcontent"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.logicalstructure/mcrelement/mcid/
 ---
-## Proprietà MCRElement.MCID
+## MCRElement.MCID property
 
-Ottiene l'MCID dell'oggetto di riferimento del contenuto contrassegnato.
+Ottiene MCID dell'oggetto di riferimento marked-content.
 
 ```csharp
 public int MCID { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-MCID dell'oggetto di riferimento del contenuto contrassegnato.
+MCID dell'oggetto di riferimento marked-content.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MCRElement](../)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

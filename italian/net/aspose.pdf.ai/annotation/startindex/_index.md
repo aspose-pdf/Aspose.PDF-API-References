@@ -1,12 +1,12 @@
 ---
-title: Annotation.StartIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Annotation. Ottiene o imposta l'indice iniziale del testo nel contenuto del messaggio che deve essere sostituito
+title: "Annotation.StartIndex"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Annotation. Ottiene o imposta l'indice iniziale del testo nel contenuto del messaggio che deve essere sostituito"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/annotation/startindex/
 ---
-## Proprietà Annotation.StartIndex
+## Annotation.StartIndex property
 
 Ottiene o imposta l'indice iniziale del testo nel contenuto del messaggio che deve essere sostituito.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'indice iniziale del testo nel contenuto del messaggio che de
 public int StartIndex { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

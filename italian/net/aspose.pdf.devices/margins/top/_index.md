@@ -1,25 +1,27 @@
 ---
-title: Margins.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Margini. Ottiene o imposta il superiore
+title: "Margins.Top"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Margins. Ottiene o imposta il valore superiore."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.devices/margins/top/
 ---
-## Proprietà Margini.Superiore
+## Margins.Top property
 
-Ottiene o imposta il superiore.
+Ottiene o imposta la parte superiore.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Il superiore.
+Il valore superiore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Margins](../)
+* class [Margins](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

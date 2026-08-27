@@ -1,12 +1,12 @@
 ---
-title: Id.Original
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Id. Identificatore permanente basato sul contenuto del documento al momento della sua creazione originale
+title: "Id.Original"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Id. Identificatore permanente basato sul contenuto del document al momento della sua creazione originale"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/id/original/
 ---
-## Proprietà Id.Original
+## Id.Original property
 
 Identificatore permanente basato sul contenuto del documento al momento della sua creazione originale.
 
@@ -14,8 +14,10 @@ Identificatore permanente basato sul contenuto del documento al momento della su
 public string Original { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Id](../)
+* class [Id](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

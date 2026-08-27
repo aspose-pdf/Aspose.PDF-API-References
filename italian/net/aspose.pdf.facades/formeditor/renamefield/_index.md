@@ -1,12 +1,12 @@
 ---
-title: FormEditor.RenameField
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormEditor. Cambia il nome del campo
+title: "FormEditor.RenameField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FormEditor. Cambia il nome del campo"
 type: docs
 weight: 230
 url: /it/net/aspose.pdf.facades/formeditor/renamefield/
 ---
-## Metodo FormEditor.RenameField
+## FormEditor.RenameField method
 
 Cambia il nome del campo.
 
@@ -26,8 +26,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
 formEditor.RenameField("textField", "textField_Renamed");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

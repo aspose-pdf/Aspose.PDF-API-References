@@ -1,22 +1,24 @@
 ---
-title: FileSpecification.AFRelationship
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification property. Associated file Relationship
+title: "FileSpecification.AFRelationship"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FileSpecification proprietà. Relazione del file associato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/filespecification/afrelationship/
 ---
-## Proprietà FileSpecification.AFRelationship
+## FileSpecification.AFRelationship property
 
-Relazione file associato.
+Relazione del file associato.
 
 ```csharp
 public AFRelationship AFRelationship { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [AFRelationship](../../afrelationship/)
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Drawing.Rectangle. Rappresenta un rettangolo
+title: "Classe Rectangle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Drawing.Rectangle. Rappresenta un rettangolo"
 type: docs
-weight: 3990
+weight: 4110
 url: /it/net/aspose.pdf.drawing/rectangle/
 ---
-## Classe Rettangolo
+## Rectangle class
 
 Rappresenta un rettangolo.
 
@@ -25,7 +25,7 @@ public sealed class Rectangle : Shape
 | Nome | Descrizione |
 | --- | --- |
 | [Bottom](../../aspose.pdf.drawing/rectangle/bottom/) { get; set; } | Ottiene o imposta un valore float che indica la posizione inferiore del rettangolo. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Ottiene o imposta un oggetto [`GraphInfo`](../shape/graphinfo/) che indica le informazioni grafiche, come colore, larghezza della linea, ecc. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Ottiene o imposta un oggetto [`GraphInfo`](../shape/graphinfo/) che indica le informazioni del grafico, come colore, larghezza della linea, ecc. |
 | [Height](../../aspose.pdf.drawing/rectangle/height/) { get; set; } | Ottiene o imposta un valore float che indica l'altezza del rettangolo. |
 | [Left](../../aspose.pdf.drawing/rectangle/left/) { get; set; } | Ottiene o imposta un valore float che indica la posizione sinistra del rettangolo. |
 | [RoundedCornerRadius](../../aspose.pdf.drawing/rectangle/roundedcornerradius/) { get; set; } | Ottiene o imposta un valore float che indica il raggio degli angoli del rettangolo. |
@@ -38,8 +38,10 @@ public sealed class Rectangle : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/rectangle/checkbounds/)(double, double) |  |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Shape](../shape/)
+* class [Shape](../shape/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

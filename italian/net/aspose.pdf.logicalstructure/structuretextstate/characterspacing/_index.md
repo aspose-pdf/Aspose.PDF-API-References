@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.CharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di StructureTextState. Ottiene o imposta il interlinea dei caratteri del testo
+title: "StructureTextState.CharacterSpacing"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTextState proprietà. Ottiene o imposta la spaziatura dei caratteri del testo"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.logicalstructure/structuretextstate/characterspacing/
 ---
-## Proprietà StructureTextState.CharacterSpacing
+## StructureTextState.CharacterSpacing property
 
-Ottiene o imposta il interlinea dei caratteri del testo.
+Ottiene o imposta la spaziatura dei caratteri del testo.
 
 ```csharp
 public float? CharacterSpacing { get; set; }
@@ -16,10 +16,12 @@ public float? CharacterSpacing { get; set; }
 
 ## Osservazioni
 
-Può essere nullo. Usa nullo per ereditare la proprietà `CharacterSpacing` dall'elemento di struttura genitore.
+Può essere null. Usa null per ereditare la proprietà `CharacterSpacing` dall'elemento strutturale genitore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTextState](../)
+* class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

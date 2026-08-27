@@ -1,12 +1,12 @@
 ---
-title: AssistantListQueryParameters.AssistantListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di AssistantListQueryParameters. Il costruttore predefinito
+title: "AssistantListQueryParameters.AssistantListQueryParameters"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AssistantListQueryParameters costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/assistantlistqueryparameters/assistantlistqueryparameters/
 ---
-## Costruttore di AssistantListQueryParameters
+## AssistantListQueryParameters constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public AssistantListQueryParameters()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AssistantListQueryParameters](../)
+* class [AssistantListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

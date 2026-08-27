@@ -1,21 +1,23 @@
 ---
-title: Document.PickTrayByPdfSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta un flag che specifica se la dimensione della pagina PDF deve essere utilizzata per selezionare il vassoio della carta in ingresso
+title: "Document.PickTrayByPdfSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene o imposta un flag che specifica se la dimensione della pagina PDF deve essere usata per selezionare il vassoio di ingresso della carta"
 type: docs
-weight: 500
+weight: 520
 url: /it/net/aspose.pdf/document/picktraybypdfsize/
 ---
-## Proprietà Document.PickTrayByPdfSize
+## Document.PickTrayByPdfSize property
 
-Ottiene o imposta un flag che specifica se la dimensione della pagina PDF deve essere utilizzata per selezionare il vassoio della carta in ingresso.
+Ottiene o imposta un flag che specifica se la dimensione della pagina PDF deve essere usata per selezionare il vassoio di ingresso della carta.
 
 ```csharp
 public bool PickTrayByPdfSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

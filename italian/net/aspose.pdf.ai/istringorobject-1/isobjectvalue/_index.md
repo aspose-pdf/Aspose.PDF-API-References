@@ -1,12 +1,12 @@
 ---
-title: IStringOrObject1.IsObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà IStringOrObject. Ottenere un valore indicando se il formato della risposta è un valore oggetto.
+title: "IStringOrObject1.IsObjectValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "IStringOrObject proprietà. Ottiene un valore che indica se il formato della risposta è un valore oggetto"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/istringorobject-1/isobjectvalue/
 ---
-## IStringOrObject&lt;T&gt;.IsObjectValue proprietà
+## IStringOrObject&lt;T&gt;.IsObjectValue property
 
 Ottiene un valore che indica se il formato della risposta è un valore oggetto.
 
@@ -14,8 +14,10 @@ Ottiene un valore che indica se il formato della risposta è un valore oggetto.
 public bool IsObjectValue { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IStringOrObject&lt;T&gt;](../)
+* interface [IStringOrObject&lt;T&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

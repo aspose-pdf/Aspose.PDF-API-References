@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.SetLength
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OptimizedMemoryStream. Quando sovrascritto in una classe derivata, imposta la lunghezza dello stream corrente
+title: "OptimizedMemoryStream.SetLength"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OptimizedMemoryStream. Quando sovrascritto in una classe derivata imposta la lunghezza del flusso corrente."
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/optimizedmemorystream/setlength/
 ---
-## Metodo OptimizedMemoryStream.SetLength
+## OptimizedMemoryStream.SetLength method
 
 Quando sovrascritto in una classe derivata, imposta la lunghezza dello stream corrente.
 
@@ -16,10 +16,12 @@ public override void SetLength(long value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | Int64 | La lunghezza desiderata dello stream corrente in byte. |
+| valore | Int64 | La lunghezza desiderata del flusso corrente in byte. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

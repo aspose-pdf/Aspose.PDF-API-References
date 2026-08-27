@@ -1,7 +1,7 @@
 ---
-title: DocumentFactory.CreateDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo DocumentFactory. Crea documento
+title: "DocumentFactory.CreateDocument"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo DocumentFactory. Crea documento"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/documentfactory/createdocument/
@@ -25,9 +25,9 @@ Documento creato.
 
 ### Vedi anche
 
-* classe [Document](../../document/)
-* classe [LoadOptions](../../loadoptions/)
-* classe [DocumentFactory](../)
+* class [Document](../../document/)
+* class [LoadOptions](../../loadoptions/)
+* class [DocumentFactory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -35,7 +35,7 @@ Documento creato.
 
 ## CreateDocument() {#createdocument}
 
-Crea documento vuoto.
+Crea un documento vuoto.
 
 ```csharp
 public Document CreateDocument()
@@ -47,8 +47,8 @@ Documento creato.
 
 ### Vedi anche
 
-* classe [Document](../../document/)
-* classe [DocumentFactory](../)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -56,7 +56,7 @@ Documento creato.
 
 ## CreateDocument(Stream) {#createdocument_1}
 
-Carica documento da uno stream.
+Carica il documento da uno stream.
 
 ```csharp
 public Document CreateDocument(Stream input)
@@ -72,8 +72,8 @@ Documento creato.
 
 ### Vedi anche
 
-* classe [Document](../../document/)
-* classe [DocumentFactory](../)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -81,7 +81,7 @@ Documento creato.
 
 ## CreateDocument(Stream, string) {#createdocument_3}
 
-Carica documento protetto da password da uno stream.
+Carica un documento protetto da password da uno stream.
 
 ```csharp
 public Document CreateDocument(Stream input, string password)
@@ -89,7 +89,7 @@ public Document CreateDocument(Stream input, string password)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| input | Stream | Stream sorgente. |
+| input | Stream | Flusso di origine. |
 | password | String | Password per l'accesso al documento. |
 
 ### Valore di ritorno
@@ -98,8 +98,8 @@ Documento creato.
 
 ### Vedi anche
 
-* classe [Document](../../document/)
-* classe [DocumentFactory](../)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -107,7 +107,7 @@ Documento creato.
 
 ## CreateDocument(string) {#createdocument_4}
 
-Carica documento da un file.
+Carica il documento da un file.
 
 ```csharp
 public Document CreateDocument(string fileName)
@@ -123,7 +123,9 @@ Documento creato.
 
 ### Vedi anche
 
-* classe [Document](../../document/)
-* classe [DocumentFactory](../)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

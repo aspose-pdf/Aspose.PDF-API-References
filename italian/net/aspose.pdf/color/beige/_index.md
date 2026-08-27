@@ -1,12 +1,12 @@
 ---
-title: Color.Beige
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFF5F5DC
+title: "Color.Beige"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Ottiene un colore predefinito di sistema che ha un valore ARGB di c FFF5F5DC"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/color/beige/
 ---
-## Proprietà Color.Beige
+## Color.Beige property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF5F5DC.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF5F5DC.
 public static Color Beige { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un rappresentante di un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

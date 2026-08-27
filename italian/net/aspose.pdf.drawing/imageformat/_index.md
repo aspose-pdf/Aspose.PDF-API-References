@@ -1,14 +1,14 @@
 ---
-title: Enum ImageFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Questo enum rappresenta i formati immagine.
+title: "Enumerazione ImageFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enumerazione Aspose.Pdf.Drawing.ImageFormat. Questa enumerazione rappresenta i formati immagine"
 type: docs
-weight: 3950
+weight: 4070
 url: /it/net/aspose.pdf.drawing/imageformat/
 ---
-## Enumerazione ImageFormat
+## ImageFormat enumeration
 
-Questo enum rappresenta i formati delle immagini.
+Questo enum rappresenta i formati immagine.
 
 ```csharp
 public enum ImageFormat
@@ -29,7 +29,9 @@ public enum ImageFormat
 | Wmf | `8` | Formato Wmf. |
 | Exif | `9` | Formato Exif. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

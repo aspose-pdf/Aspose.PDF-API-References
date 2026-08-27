@@ -1,7 +1,7 @@
 ---
-title: NumberField.NumberField
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore NumberField. Inizializza una nuova istanza della classe NumberField
+title: "NumberField.NumberField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "NumberField constructor. Inizializza una nuova istanza della classe NumberField"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/numberfield/numberfield/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`NumberField`](../).
 public NumberField()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [NumberField](../)
+* class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,14 +32,14 @@ public NumberField(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina in cui è posizionato il campo di testo. |
-| rect | Rectangle | Rettangolo in cui il campo sarà posizionato sulla pagina. |
+| pagina | Page | Pagina in cui è posizionato il campo di testo. |
+| rect | Rectangle | Rectangle dove il campo verrà posizionato nella pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [NumberField](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -55,13 +55,15 @@ public NumberField(Document doc, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Documento in cui sarà creato il campo. |
-| rect | Rectangle | Rettangolo del campo. |
+| doc | Document | Document dove verrà creato il campo. |
+| rect | Rectangle | Rectangle del campo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [NumberField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

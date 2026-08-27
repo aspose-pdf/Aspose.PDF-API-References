@@ -1,22 +1,24 @@
 ---
-title: FormFieldFacade.Font
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormFieldFacade. Il tipo di carattere di un testo di campo
+title: "FormFieldFacade.Font"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade property. Il tipo di carattere del testo di un campo"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.facades/formfieldfacade/font/
 ---
-## Proprietà FormFieldFacade.Font
+## FormFieldFacade.Font property
 
-Il tipo di carattere di un testo di campo.
+Il tipo di carattere del testo di un campo.
 
 ```csharp
 public FontStyle Font { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FontStyle](../../fontstyle/)
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

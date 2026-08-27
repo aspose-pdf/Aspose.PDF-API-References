@@ -1,12 +1,12 @@
 ---
-title: Class Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Usage. Rappresenta le statistiche di utilizzo per una richiesta
+title: "Classe Usage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.Usage. Rappresenta le statistiche di utilizzo per una richiesta"
 type: docs
-weight: 1250
+weight: 1340
 url: /it/net/aspose.pdf.ai/usage/
 ---
-## Classe Utilizzo
+## Usage class
 
 Rappresenta le statistiche di utilizzo per una richiesta.
 
@@ -24,11 +24,13 @@ public class Usage
 
 | Nome | Descrizione |
 | --- | --- |
-| [CompletionTokens](../../aspose.pdf.ai/usage/completiontokens/) { get; set; } | Ottiene o imposta il numero di token nella completazione generata. |
+| [CompletionTokens](../../aspose.pdf.ai/usage/completiontokens/) { get; set; } | Ottiene o imposta il numero di token nel completamento generato. |
 | [PromptTokens](../../aspose.pdf.ai/usage/prompttokens/) { get; set; } | Ottiene o imposta il numero di token nel prompt. |
 | [TotalTokens](../../aspose.pdf.ai/usage/totaltokens/) { get; set; } | Ottiene o imposta il numero totale di token utilizzati nella richiesta (prompt + completamento). |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

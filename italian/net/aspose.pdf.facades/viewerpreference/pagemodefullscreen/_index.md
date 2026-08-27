@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.PageModeFullScreen
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ViewerPreference. Modalità a schermo intero senza controlli della finestra della barra dei menu o alcuna altra finestra visibile
+title: "ViewerPreference.PageModeFullScreen"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ViewerPreference campo. Modalità a schermo intero senza barra dei menu, controlli della finestra o qualsiasi altra finestra visibile"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.facades/viewerpreference/pagemodefullscreen/
 ---
-## Campo ViewerPreference.PageModeFullScreen
+## ViewerPreference.PageModeFullScreen field
 
-Modalità a schermo intero, senza barra dei menu, controlli della finestra o alcuna altra finestra visibile.
+Modalità a schermo intero, senza barra dei menu, controlli della finestra o qualsiasi altra finestra visibile.
 
 ```csharp
 public const int PageModeFullScreen;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

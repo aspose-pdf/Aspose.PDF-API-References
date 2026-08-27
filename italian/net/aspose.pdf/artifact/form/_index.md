@@ -1,22 +1,24 @@
 ---
-title: Artifact.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Artifact. Ottiene XForm dell'artefatto se XForm è utilizzato
+title: "Artifact.Form"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Artifact. Ottiene XForm dell'artifact se XForm è utilizzato."
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/artifact/form/
 ---
-## Proprietà Artifact.Form
+## Artifact.Form property
 
-Ottiene XForm dell'artefatto (se XForm è utilizzato).
+Ottiene l'XForm dell'artefatto (se viene usato XForm).
 
 ```csharp
 public XForm Form { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XForm](../../xform/)
-* classe [Artifact](../)
+* class [XForm](../../xform/)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Form.ExportXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Esporta il contenuto dei campi del pdf nello stream xml. Il valore dei campi pulsante non verrà esportato
+title: "Form.ExportXfdf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Esporta il contenuto dei campi del pdf nello stream xml. Il valore dei campi pulsante non verrà esportato"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.facades/form/exportxfdf/
 ---
-## Metodo Form.ExportXfdf
+## Form.ExportXfdf method
 
 Esporta il contenuto dei campi del pdf nello stream xml. Il valore del campo pulsante non verrà esportato.
 
@@ -16,7 +16,7 @@ public void ExportXfdf(Stream outputXfdfStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputXfdfStream | Stream | Lo stream xml di output. |
+| outputXfdfStream | Stream | Il flusso xml di output. |
 
 ## Esempi
 
@@ -27,8 +27,10 @@ form.ExportXfdf(fs);
 fs.Close();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

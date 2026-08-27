@@ -1,14 +1,14 @@
 ---
-title: Element.InsertChild
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Element. Inserisci Elemento nella collezione di figli all'indice specificato
+title: "Element.InsertChild"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "metodo Element. Inserisci Element nella collezione di figli all'indice specificato"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.logicalstructure/element/insertchild/
 ---
-## Metodo Element.InsertChild
+## Element.InsertChild method
 
-Inserisci Elemento nella collezione di figli all'indice specificato.
+Inserisci Element nella collezione di figli all'indice specificato.
 
 ```csharp
 public Element InsertChild(Element element, int index, bool checkIfCanBeInserted = true)
@@ -16,13 +16,13 @@ public Element InsertChild(Element element, int index, bool checkIfCanBeInserted
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| element | Element | Oggetto Elemento da aggiungere. |
-| index | Int32 | Indice dell'Elemento. |
-| checkIfCanBeInserted | Boolean | Controlla se può essere inserito. |
+| elemento | Element | oggetto Element da aggiungere. |
+| index | Int32 | indice Element. |
+| checkIfCanBeInserted | Boolean | Verifica se può essere inserito. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Elemento che è stato aggiunto.
+Element che è stato aggiunto.
 
 ### Eccezioni
 
@@ -30,8 +30,10 @@ Elemento che è stato aggiunto.
 | --- | --- |
 | [TaggedException](../../../aspose.pdf.tagged/taggedexception/) |  |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

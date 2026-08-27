@@ -1,21 +1,23 @@
 ---
-title: TeXLoadOptions.DateTime
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TeXLoadOptions. Ottiene/imposta un certo valore per le primitive di data/ora come anno, mese, giorno e ora
+title: "TeXLoadOptions.DateTime"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TeXLoadOptions. Ottiene/Imposta un determinato valore per le primitive data/ora come anno, mese, giorno e ora"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/texloadoptions/datetime/
 ---
-## Proprietà TeXLoadOptions.DateTime
+## TeXLoadOptions.DateTime property
 
-Ottiene/imposta un certo valore per le primitive di data/ora come anno, mese, giorno e ora.
+Ottiene/Imposta un certo valore per i primitivi data/ora come anno, mese, giorno e ora.
 
 ```csharp
 public DateTime DateTime { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TeXLoadOptions](../)
+* class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

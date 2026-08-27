@@ -1,12 +1,12 @@
 ---
-title: Cell.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Cell. Ottiene o imposta il padding
+title: "Cell.Margin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cell. Ottiene o imposta la spaziatura interna"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/cell/margin/
 ---
-## Proprietà Cell.Margin
+## Cell.Margin property
 
 Ottiene o imposta il padding.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il padding.
 public MarginInfo Margin { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../../margininfo/)
-* classe [Cell](../)
+* class [MarginInfo](../../margininfo/)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

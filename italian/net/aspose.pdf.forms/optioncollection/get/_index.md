@@ -1,28 +1,28 @@
 ---
-title: OptionCollection.get
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OptionCollection. Ottiene l'opzione per indice
+title: "OptionCollection.get"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OptionCollection. Ottiene l'opzione per indice"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.forms/optioncollection/get/
 ---
 ## get(int) {#get}
 
-Ottiene l'opzione per indice.
+Restituisce l'opzione per indice.
 
 ```csharp
 public Option get(int index)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| index | Int32 | Indice dell'opzione. L'indice deve essere nell'intervallo [1..n] dove n è il numero di opzioni. |
+| index | Int32 | Indice dell'opzione. L'indice deve essere nell'intervallo [1..n] dove n è il conteggio delle opzioni. |
 
-### Return Value
+### Valore di ritorno
 
 Opzione recuperata.
 
-### See Also
+### Vedi anche
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
@@ -33,23 +33,25 @@ Opzione recuperata.
 
 ## get(string) {#get_1}
 
-Ottiene l'opzione dalla collezione per nome dell'opzione.
+Restituisce l'opzione dalla raccolta per nome dell'opzione.
 
 ```csharp
 public Option get(string name)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome dell'opzione. |
+| nome | String | Nome dell'opzione. |
 
-### Return Value
+### Valore di ritorno
 
 Opzione recuperata.
 
-### See Also
+### Vedi anche
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

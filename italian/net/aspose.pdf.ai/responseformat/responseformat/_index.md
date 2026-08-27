@@ -1,12 +1,12 @@
 ---
-title: ResponseFormat.ResponseFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ResponseFormat. Il costruttore predefinito
+title: "ResponseFormat.ResponseFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ResponseFormat. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/responseformat/responseformat/
 ---
-## Costruttore di ResponseFormat
+## ResponseFormat constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ResponseFormat()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ResponseFormat](../)
+* class [ResponseFormat](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: RunStepResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RunStepResponse. Ottiene o imposta il timestamp Unix in secondi per quando è stato creato il passo di esecuzione
+title: "RunStepResponse.CreatedAt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunStepResponse. Ottiene o imposta il timestamp Unix in secondi per il momento in cui il passaggio di esecuzione è stato creato"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/runstepresponse/createdat/
 ---
-## Proprietà RunStepResponse.CreatedAt
+## RunStepResponse.CreatedAt property
 
-Ottiene o imposta il timestamp Unix (in secondi) per quando è stato creato il passo di esecuzione.
+Ottiene o imposta il timestamp Unix (in secondi) per quando il run step è stato creato.
 
 ```csharp
 public long CreatedAt { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunStepResponse](../)
+* class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

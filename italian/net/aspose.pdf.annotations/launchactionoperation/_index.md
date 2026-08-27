@@ -1,14 +1,14 @@
 ---
-title: Enum LaunchActionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LaunchActionOperation enum. Enumerates the operations to perform with document during launch action executing
+title: "Enum LaunchActionOperation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Annotations.LaunchActionOperation. Elenca le operazioni da eseguire sul documento durante l'esecuzione dell'azione di avvio"
 type: docs
-weight: 1960
+weight: 2050
 url: /it/net/aspose.pdf.annotations/launchactionoperation/
 ---
-## Enumerazione LaunchActionOperation
+## LaunchActionOperation enumeration
 
-Enumera le operazioni da eseguire con il documento durante l'esecuzione dell'azione di avvio.
+Enumera le operazioni da eseguire sul documento durante l'esecuzione dell'azione di avvio.
 
 ```csharp
 public enum LaunchActionOperation
@@ -18,11 +18,13 @@ public enum LaunchActionOperation
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Undefined | `0` | Stato indefinito. |
+| Undefined | `0` | Stato non definito. |
 | Open | `1` | Apri un documento. |
 | Print | `2` | Stampa un documento. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Layer.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Layer. Ottiene il contenuto del layer
+title: "Layer.Contents"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Layer. Ottiene il contenuto del livello"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/layer/contents/
 ---
-## Proprietà Layer.Contents
+## Layer.Contents property
 
-Ottiene il contenuto del layer.
+Ottiene il contenuto del livello.
 
 ```csharp
 public List<Operator> Contents { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../operator/)
-* classe [Layer](../)
+* class [Operator](../../operator/)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

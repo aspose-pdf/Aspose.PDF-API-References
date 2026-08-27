@@ -1,12 +1,12 @@
 ---
-title: FormattedText.TextWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormattedText. Ottiene la larghezza del testo
+title: "FormattedText.TextWidth"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormattedText. Restituisce la larghezza del testo."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.facades/formattedtext/textwidth/
 ---
-## Proprietà FormattedText.TextWidth
+## FormattedText.TextWidth property
 
 Ottiene la larghezza del testo.
 
@@ -14,8 +14,10 @@ Ottiene la larghezza del testo.
 public float TextWidth { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

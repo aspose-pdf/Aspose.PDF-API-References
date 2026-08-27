@@ -1,12 +1,12 @@
 ---
-title: AbsorbedCell.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AbsorbedCell. Ottiene il rettangolo che descrive la posizione della cella nella pagina
+title: "AbsorbedCell.Rectangle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AbsorbedCell. Ottiene il rettangolo che descrive la posizione della cella nella pagina"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/absorbedcell/rectangle/
 ---
-## Proprietà AbsorbedCell.Rectangle
+## AbsorbedCell.Rectangle property
 
 Ottiene il rettangolo che descrive la posizione della cella nella pagina
 
@@ -14,9 +14,11 @@ Ottiene il rettangolo che descrive la posizione della cella nella pagina
 public Rectangle Rectangle { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [AbsorbedCell](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [AbsorbedCell](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

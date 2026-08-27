@@ -1,12 +1,12 @@
 ---
-title: MarginInfo.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MarginInfo. Ottiene o imposta un valore float che indica il margine superiore
+title: "MarginInfo.Top"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MarginInfo. Ottiene o imposta un valore float che indica il margine superiore"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/margininfo/top/
 ---
-## Proprietà MarginInfo.Top
+## MarginInfo.Top property
 
 Ottiene o imposta un valore float che indica il margine superiore.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore float che indica il margine superiore.
 public double Top { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

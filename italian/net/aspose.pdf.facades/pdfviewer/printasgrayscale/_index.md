@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintAsGrayscale
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfViewer. Ottiene o imposta un valore bool che indica se la pagina viene stampata in scala di grigi. Per impostazione predefinita è falso
+title: "PdfViewer.PrintAsGrayscale"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfViewer. Ottiene o imposta un valore booleano che indica se la pagina viene stampata in scala di grigi. Per impostazione predefinita è false"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.facades/pdfviewer/printasgrayscale/
 ---
-## Proprietà PdfViewer.PrintAsGrayscale
+## PdfViewer.PrintAsGrayscale property
 
-Ottiene o imposta un valore bool che indica se la pagina viene stampata in scala di grigi. Per impostazione predefinita è falso.
+Ottiene o imposta un valore bool che indica se la pagina viene stampata in scala di grigi. Per impostazione predefinita è false.
 
 ```csharp
 public bool PrintAsGrayscale { get; set; }
@@ -16,10 +16,12 @@ public bool PrintAsGrayscale { get; set; }
 
 ## Osservazioni
 
-Il valore predefinito è falso.
+Il valore predefinito è false.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

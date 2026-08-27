@@ -1,12 +1,12 @@
 ---
-title: FormEditor.GetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormEditor. Ottieni i flag del campo
+title: "FormEditor.GetFieldAppearance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FormEditor. Ottieni i flag del campo"
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.facades/formeditor/getfieldappearance/
 ---
-## Metodo FormEditor.GetFieldAppearance
+## FormEditor.GetFieldAppearance method
 
 Ottieni i flag del campo.
 
@@ -28,3 +28,5 @@ Insieme di flag del campo
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

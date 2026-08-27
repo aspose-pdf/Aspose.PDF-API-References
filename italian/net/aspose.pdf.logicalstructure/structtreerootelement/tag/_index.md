@@ -1,14 +1,14 @@
 ---
-title: StructTreeRootElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo StructTreeRootElement. Collega un elemento di struttura all'operatore BDC del flusso di contenuto
+title: "StructTreeRootElement.Tag"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StructTreeRootElement. Associa un elemento di struttura al flusso di contenuto tramite l'operatore BDC"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.logicalstructure/structtreerootelement/tag/
 ---
 ## Tag(BDC) {#tag_1}
 
-Collega un elemento di struttura all'operatore BDC del flusso di contenuto.
+Associa un elemento di struttura all'operatore BDC del flusso di contenuto.
 
 ```csharp
 public override MCRElement Tag(BDC bdc)
@@ -20,13 +20,13 @@ public override MCRElement Tag(BDC bdc)
 
 ### Valore di ritorno
 
-Elemento MCRElementStructure.
+MCRElementStructure elemento.
 
 ### Vedi anche
 
-* classe [MCRElement](../../mcrelement/)
-* classe [BDC](../../../aspose.pdf.operators/bdc/)
-* classe [StructTreeRootElement](../)
+* class [MCRElement](../../mcrelement/)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [StructTreeRootElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,7 +34,7 @@ Elemento MCRElementStructure.
 
 ## Tag(XForm) {#tag_3}
 
-Collega un elemento di struttura all'XForm del flusso di contenuto.
+Associa un elemento di struttura al XForm del flusso di contenuto.
 
 ```csharp
 public override OBJRElement Tag(XForm form)
@@ -42,17 +42,17 @@ public override OBJRElement Tag(XForm form)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| form | XForm | Modulo Pdf. |
+| modulo | XForm | Pdf modulo. |
 
 ### Valore di ritorno
 
-Elemento OBJRElementStructure.
+OBJRElementStructure elemento.
 
 ### Vedi anche
 
-* classe [OBJRElement](../../objrelement/)
-* classe [XForm](../../../aspose.pdf/xform/)
-* classe [StructTreeRootElement](../)
+* class [OBJRElement](../../objrelement/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [StructTreeRootElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
@@ -60,7 +60,7 @@ Elemento OBJRElementStructure.
 
 ## Tag(XImage) {#tag_4}
 
-Collega un elemento di struttura all'XImage.
+Associa un elemento di struttura al XImage.
 
 ```csharp
 public override OBJRElement Tag(XImage image)
@@ -68,17 +68,17 @@ public override OBJRElement Tag(XImage image)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| image | XImage | Immagine Pdf. |
+| immagine | XImage | Pdf immagine. |
 
 ### Valore di ritorno
 
-Elemento OBJRElementStructure.
+OBJRElementStructure elemento.
 
 ### Vedi anche
 
-* classe [OBJRElement](../../objrelement/)
-* classe [XImage](../../../aspose.pdf/ximage/)
-* classe [StructTreeRootElement](../)
+* class [OBJRElement](../../objrelement/)
+* class [XImage](../../../aspose.pdf/ximage/)
+* class [StructTreeRootElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
@@ -86,7 +86,7 @@ Elemento OBJRElementStructure.
 
 ## Tag(Artifact) {#tag}
 
-Collega un elemento di struttura all'Artifact.
+Associa un elemento di struttura all'Artifact.
 
 ```csharp
 public override MCRElement Tag(Artifact artifact)
@@ -94,17 +94,17 @@ public override MCRElement Tag(Artifact artifact)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| artifact | Artifact | Artefatto Pdf. |
+| artefatto | Artefatto | Pdf artefatto. |
 
 ### Valore di ritorno
 
-Elemento MCRElementStructure.
+MCRElementStructure elemento.
 
 ### Vedi anche
 
-* classe [MCRElement](../../mcrelement/)
-* classe [Artifact](../../../aspose.pdf/artifact/)
-* classe [StructTreeRootElement](../)
+* class [MCRElement](../../mcrelement/)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [StructTreeRootElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
@@ -112,7 +112,7 @@ Elemento MCRElementStructure.
 
 ## Tag(Annotation) {#tag_2}
 
-Collega un elemento di struttura all'Annotation.
+Associa un elemento di struttura all'Annotation.
 
 ```csharp
 public override OBJRElement Tag(Annotation annotation)
@@ -120,16 +120,18 @@ public override OBJRElement Tag(Annotation annotation)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| annotation | Annotation | Annotazione Pdf. |
+| annotation | Annotation | Pdf annotazione. |
 
 ### Valore di ritorno
 
-Elemento OBJRElementStructure.
+OBJRElementStructure elemento.
 
 ### Vedi anche
 
-* classe [OBJRElement](../../objrelement/)
-* classe [Annotation](../../../aspose.pdf.annotations/annotation/)
-* classe [StructTreeRootElement](../)
+* class [OBJRElement](../../objrelement/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [StructTreeRootElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

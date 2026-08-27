@@ -1,14 +1,14 @@
 ---
-title: PptxSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PptxSaveOptions. Questo gestore può essere utilizzato per gestire eventi di progresso della conversione, ad esempio può essere utilizzato per mostrare una barra di progresso o messaggi riguardanti l'attuale quantità di pagine elaborate. Un esempio di codice del gestore che mostra il progresso sulla console è
+title: "PptxSaveOptions.CustomProgressHandler"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PptxSaveOptions. Questo gestore può essere usato per gestire gli eventi di avanzamento della conversione, ad es. può essere usato per mostrare una barra di avanzamento o messaggi sulla quantità corrente di pagine elaborate; un esempio di codice del gestore che mostra l'avanzamento sulla console è"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/pptxsaveoptions/customprogresshandler/
 ---
-## Proprietà PptxSaveOptions.CustomProgressHandler
+## PptxSaveOptions.CustomProgressHandler property
 
-Questo gestore può essere utilizzato per gestire eventi di progresso della conversione, ad esempio può essere utilizzato per mostrare una barra di progresso o messaggi riguardanti l'attuale quantità di pagine elaborate. Un esempio di codice del gestore che mostra il progresso sulla console è :
+Questo gestore può essere utilizzato per gestire gli eventi di avanzamento della conversione, ad esempio può servire a mostrare una barra di avanzamento o messaggi sul numero corrente di pagine elaborate; un esempio di codice del gestore che mostra l'avanzamento sulla console è:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler { get; set; }
@@ -48,9 +48,11 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
 * class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

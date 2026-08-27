@@ -1,21 +1,23 @@
 ---
-title: Annotation.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Annotation. Ottiene l'indice della pagina che contiene l'annotazione
+title: "Annotation.PageIndex"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Annotation. Ottiene l'indice della pagina che contiene l'annotazione"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.annotations/annotation/pageindex/
 ---
-## Proprietà Annotation.PageIndex
+## Annotation.PageIndex property
 
-Ottiene l'indice della pagina che contiene l'annotazione.
+Ottiene l'indice della pagina che contiene l'Annotation.
 
 ```csharp
 public virtual int PageIndex { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

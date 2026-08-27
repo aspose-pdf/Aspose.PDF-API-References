@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioButtonItemSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di FormEditor. Ottiene o imposta la dimensione dell'elemento del pulsante di opzione quando viene aggiunto un nuovo campo pulsante di opzione
+title: "FormEditor.RadioButtonItemSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormEditor. Ottiene o imposta la dimensione dell'elemento del pulsante radio quando viene aggiunto un nuovo campo pulsante radio."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.facades/formeditor/radiobuttonitemsize/
 ---
-## Proprietà FormEditor.RadioButtonItemSize
+## FormEditor.RadioButtonItemSize property
 
-Ottiene o imposta la dimensione dell'elemento del pulsante di opzione (quando viene aggiunto un nuovo campo pulsante di opzione).
+Ottiene o imposta la dimensione dell'elemento del pulsante radio (quando viene aggiunto un nuovo campo pulsante radio).
 
 ```csharp
 formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
@@ -24,8 +24,10 @@ formEditor.Save();
 public double RadioButtonItemSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

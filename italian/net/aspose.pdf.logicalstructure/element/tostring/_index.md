@@ -1,12 +1,12 @@
 ---
-title: Element.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Element. Restituisce una stringa che rappresenta l'oggetto corrente
+title: "Element.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "metodo Element. Restituisce una stringa che rappresenta l'oggetto corrente"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.logicalstructure/element/tostring/
 ---
-## Metodo Element.ToString
+## Element.ToString method
 
 Restituisce una stringa che rappresenta l'oggetto corrente.
 
@@ -14,12 +14,14 @@ Restituisce una stringa che rappresenta l'oggetto corrente.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Stringa che rappresenta l'oggetto corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

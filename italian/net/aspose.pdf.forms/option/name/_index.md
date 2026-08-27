@@ -1,12 +1,12 @@
 ---
-title: Option.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'opzione. Ottiene o imposta il nome dell'opzione
+title: "Option.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Option. Ottiene o imposta il nome dell'opzione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.forms/option/name/
 ---
-## Proprietà Option.Name
+## Option.Name property
 
 Ottiene o imposta il nome dell'opzione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il nome dell'opzione.
 public string Name { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Option](../)
+* class [Option](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

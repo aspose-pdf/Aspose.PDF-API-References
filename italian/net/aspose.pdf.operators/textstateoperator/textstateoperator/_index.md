@@ -1,7 +1,7 @@
 ---
-title: TextStateOperator.TextStateOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TextStateOperator. Inizializza TextStateOperator
+title: "TextStateOperator.TextStateOperator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TextStateOperator. Inizializza TextStateOperator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/textstateoperator/textstateoperator/
@@ -14,9 +14,9 @@ Inizializza TextStateOperator.
 public TextStateOperator()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextStateOperator](../)
+* class [TextStateOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,9 +34,11 @@ public TextStateOperator(TextProperties textProperties)
 | --- | --- | --- |
 | textProperties | TextProperties | Proprietà del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* classe [TextStateOperator](../)
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [TextStateOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

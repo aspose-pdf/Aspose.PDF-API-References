@@ -1,22 +1,24 @@
 ---
-title: RunResponse.IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse property. Gets or sets the details on why the run is incomplete. Will be null if the run is not incomplete
+title: "RunResponse.IncompleteDetails"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunResponse. Ottiene o imposta i dettagli sul motivo per cui la run è incompleta. Sarà null se la run non è incompleta."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.ai/runresponse/incompletedetails/
 ---
-## Proprietà RunResponse.IncompleteDetails
+## RunResponse.IncompleteDetails property
 
-Ottiene o imposta i dettagli sul motivo per cui l'esecuzione è incompleta. Sarà nullo se l'esecuzione non è incompleta.
+Ottiene o imposta i dettagli sul motivo per cui il run è incompleto. Sarà null se il run non è incompleto.
 
 ```csharp
 public IncompleteDetails IncompleteDetails { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [IncompleteDetails](../../incompletedetails/)
-* classe [RunResponse](../)
+* class [IncompleteDetails](../../incompletedetails/)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

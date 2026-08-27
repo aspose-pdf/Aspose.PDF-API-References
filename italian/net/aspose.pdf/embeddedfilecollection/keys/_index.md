@@ -1,21 +1,23 @@
 ---
-title: EmbeddedFileCollection.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà EmbeddedFileCollection. Restituisce un elenco di chiavi di allegati di file
+title: "EmbeddedFileCollection.Keys"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà EmbeddedFileCollection. Restituisce l'elenco delle chiavi degli allegati file"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/embeddedfilecollection/keys/
 ---
-## Proprietà EmbeddedFileCollection.Keys
+## EmbeddedFileCollection.Keys property
 
-Restituisce un elenco di chiavi di allegati di file.
+Restituisce l'elenco delle chiavi degli allegati file.
 
 ```csharp
 public List<string> Keys { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EmbeddedFileCollection](../)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Artifact.SetTextAndState
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Artifact. Imposta il testo e le proprietà del testo dell'artifact
+title: "Artifact.SetTextAndState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Artifact. Imposta il testo e le proprietà del testo dell'artifact"
 type: docs
 weight: 330
 url: /it/net/aspose.pdf/artifact/settextandstate/
 ---
-## Metodo Artifact.SetTextAndState
+## Artifact.SetTextAndState method
 
-Imposta il testo e le proprietà del testo dell'artifact.
+Imposta il testo e le proprietà del testo dell'artefatto.
 
 ```csharp
 public void SetTextAndState(string text, TextState textState)
@@ -16,12 +16,14 @@ public void SetTextAndState(string text, TextState textState)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Stringa di testo. |
+| testo | String | Stringa di testo. |
 | textState | TextState | Stato del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [Artifact](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

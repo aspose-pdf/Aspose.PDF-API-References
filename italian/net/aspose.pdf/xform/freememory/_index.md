@@ -1,21 +1,23 @@
 ---
-title: XForm.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XForm. Pulisce i dati memorizzati nella cache
+title: "XForm.FreeMemory"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XForm. Cancella i dati memorizzati nella cache"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/xform/freememory/
 ---
-## Metodo XForm.FreeMemory
+## XForm.FreeMemory method
 
-Pulisce i dati memorizzati nella cache
+Cancella i dati memorizzati nella cache
 
 ```csharp
 public void FreeMemory()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XForm](../)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

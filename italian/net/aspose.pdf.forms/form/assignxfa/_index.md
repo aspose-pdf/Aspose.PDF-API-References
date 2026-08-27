@@ -1,12 +1,12 @@
 ---
-title: Form.AssignXfa
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Imposta XFA del modulo al valore specificato
+title: "Form.AssignXfa"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Imposta XFA del modulo al valore specificato"
 type: docs
-weight: 210
+weight: 230
 url: /it/net/aspose.pdf.forms/form/assignxfa/
 ---
-## Metodo Form.AssignXfa
+## Form.AssignXfa method
 
 Imposta XFA del modulo al valore specificato.
 
@@ -18,8 +18,10 @@ public void AssignXfa(XmlDocument xml)
 | --- | --- | --- |
 | xml | XmlDocument | Documento Xml che contiene i nuovi dati XFA. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

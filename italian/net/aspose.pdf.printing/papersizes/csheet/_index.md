@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.CSheet
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. C paper 17 in. by 22 in
+title: "PaperSizes.CSheet"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Carta C 17 pollici per 22 pollici"
 type: docs
 weight: 370
 url: /it/net/aspose.pdf.printing/papersizes/csheet/
 ---
-## Campo PaperSizes.CSheet
+## PaperSizes.CSheet field
 
 Carta C (17 in. per 22 in.).
 
@@ -14,9 +14,11 @@ Carta C (17 in. per 22 in.).
 public static readonly PaperSize CSheet;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

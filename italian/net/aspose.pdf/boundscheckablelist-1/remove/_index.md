@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList method. Removes the first occurrence of a specific object from the System.Collections.Generic.List
+title: "BoundsCheckableList1.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo BoundsCheckableList. Rimuove la prima occorrenza di un oggetto specifico dalla System.Collections.Generic.List"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/boundscheckablelist-1/remove/
@@ -14,16 +14,18 @@ Rimuove la prima occorrenza di un oggetto specifico dalla System.Collections.Gen
 public bool Remove(T item)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | item | T | L'oggetto da rimuovere dalla System.Collections.Generic.List. Il valore può essere null per i tipi di riferimento. |
 
-### Return Value
+### Valore di ritorno
 
-true se *item* viene rimosso con successo; altrimenti, false. Questo metodo restituisce anche false se *item* non è stato trovato nella System.Collections.Generic.List.
+true se *item* è stato rimosso con successo; altrimenti, false. Questo metodo restituisce anche false se *item* non è stato trovato nella System.Collections.Generic.List.
 
-### See Also
+### Vedi anche
 
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

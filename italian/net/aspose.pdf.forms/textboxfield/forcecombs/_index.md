@@ -1,21 +1,23 @@
 ---
-title: TextBoxField.ForceCombs
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextBoxField. Ottiene o imposta un flag che indica se il campo è diviso in posizioni distanziate
+title: "TextBoxField.ForceCombs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "TextBoxField property. Ottiene o imposta il flag che indica se il campo è diviso in posizioni spaziate"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.forms/textboxfield/forcecombs/
 ---
-## Proprietà TextBoxField.ForceCombs
+## TextBoxField.ForceCombs property
 
-Ottiene o imposta un flag che indica se il campo è diviso in posizioni distanziate.
+Ottiene o imposta il flag che indica se il campo è diviso in posizioni spaziate.
 
 ```csharp
 public bool ForceCombs { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextBoxField](../)
+* class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

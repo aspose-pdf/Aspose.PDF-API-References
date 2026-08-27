@@ -1,12 +1,12 @@
 ---
-title: Stamp.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Stamp. Ottiene o imposta la rotazione del timbro in gradi
+title: "Stamp.Rotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Stamp. Ottiene o imposta la rotazione del timbro in gradi."
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.facades/stamp/rotation/
 ---
-## Proprietà Stamp.Rotation
+## Stamp.Rotation property
 
 Ottiene o imposta la rotazione del timbro in gradi.
 
@@ -27,6 +27,8 @@ fileStamp.Close();
 
 ### Vedi anche
 
-* classe [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

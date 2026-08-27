@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.MergeImagesAsTiff
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfConverter. Unisce un elenco di flussi tiff in un unico flusso tiff a più fotogrammi
+title: "PdfConverter.MergeImagesAsTiff"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfConverter metodo. Unisce un elenco di flussi tiff in un unico flusso tiff a più fotogrammi."
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.facades/pdfconverter/mergeimagesastiff/
 ---
-## Metodo PdfConverter.MergeImagesAsTiff
+## PdfConverter.MergeImagesAsTiff method
 
-Unisce un elenco di flussi tiff in un unico flusso tiff a più fotogrammi.
+Unisce un elenco di stream tiff in un unico stream tiff a più fotogrammi.
 
 ```csharp
 public static Stream MergeImagesAsTiff(List<Stream> inputImagesStreams)
@@ -24,6 +24,8 @@ Flusso tiff a più fotogrammi.
 
 ### Vedi anche
 
-* classe [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

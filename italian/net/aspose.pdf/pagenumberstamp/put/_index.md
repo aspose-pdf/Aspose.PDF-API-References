@@ -1,12 +1,12 @@
 ---
-title: PageNumberStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PageNumberStamp. Aggiunge il numero di pagina
+title: "PageNumberStamp.Put"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageNumberStamp. Aggiunge il numero di pagina"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/pagenumberstamp/put/
 ---
-## Metodo PageNumberStamp.Put
+## PageNumberStamp.Put method
 
 Aggiunge il numero di pagina.
 
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina per il timbro. |
+| pagina | Page | Pagina per il timbraggio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../page/)
-* classe [PageNumberStamp](../)
+* class [Page](../../page/)
+* class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

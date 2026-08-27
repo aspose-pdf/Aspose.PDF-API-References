@@ -1,12 +1,12 @@
 ---
-title: Point3D.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Point3D. Valore della coordinata Y
+title: "Point3D.Y"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Point3D. Valore della coordinata Y"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/point3d/y/
 ---
-## Proprietà Point3D.Y
+## Point3D.Y property
 
 Valore della coordinata Y.
 
@@ -14,8 +14,10 @@ Valore della coordinata Y.
 public double Y { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point3D](../)
+* class [Point3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

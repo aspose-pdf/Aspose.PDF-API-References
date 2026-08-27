@@ -1,12 +1,12 @@
 ---
-title: Enum Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Stampa.Duplice enumerazione. Specificano le stampanti impostazione a doppio foglio.
+title: "Enum Duplex"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Printing.Duplex enum. Specifica l'impostazione duplex della stampante."
 type: docs
-weight: 9530
+weight: 9680
 url: /it/net/aspose.pdf.printing/duplex/
 ---
-## Enumerazione Duplex
+## Duplex enumeration
 
 Specifica l'impostazione duplex della stampante.
 
@@ -18,12 +18,14 @@ public enum Duplex
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Default | `-1` | L'impostazione duplex predefinita della stampante. |
-| Simplex | `1` | Stampa su un solo lato. |
-| Horizontal | `3` | Stampa fronte-retro, orizzontale. |
-| Vertical | `2` | Stampa fronte-retro, verticale. |
+| Default | `-1` | Impostazione duplex predefinita della stampante. |
+| Simplex | `1` | Stampa a una faccia. |
+| Horizontal | `3` | Stampa fronte/retro, orizzontale. |
+| Vertical | `2` | Stampa fronte/retro, verticale. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

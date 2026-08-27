@@ -1,12 +1,12 @@
 ---
-title: PrinterResolution.Kind
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PrinterResolution. Ottiene un valore che indica il tipo di risoluzione della stampante
+title: "PrinterResolution.Kind"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PrinterResolution proprietà. Ottiene un valore che indica il tipo di risoluzione della stampante"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.printing/printerresolution/kind/
 ---
-## Proprietà PrinterResolution.Kind
+## PrinterResolution.Kind property
 
 Ottiene un valore che indica il tipo di risoluzione della stampante.
 
@@ -14,9 +14,11 @@ Ottiene un valore che indica il tipo di risoluzione della stampante.
 public PrinterResolutionKind Kind { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [PrinterResolutionKind](../../printerresolutionkind/)
 * class [PrinterResolution](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

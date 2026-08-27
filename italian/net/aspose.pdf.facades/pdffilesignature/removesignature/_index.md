@@ -1,24 +1,24 @@
 ---
-title: PdfFileSignature.RemoveSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSignature. Rimuovi la firma in base al nome della firma
+title: "PdfFileSignature.RemoveSignature"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileSignature metodo. Rimuove la firma in base al nome della firma"
 type: docs
 weight: 250
 url: /it/net/aspose.pdf.facades/pdffilesignature/removesignature/
 ---
 ## RemoveSignature(SignatureName) {#removesignature}
 
-Rimuovi la firma in base al nome della firma.
+Rimuove la firma in base al nome della firma.
 
 ```csharp
 public void RemoveSignature(SignatureName signName)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | signName | SignatureName | Il nome della firma. |
 
-## Examples
+## Esempi
 
 ```csharp
 [C#]
@@ -42,7 +42,7 @@ Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### See Also
+### Vedi anche
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
@@ -59,12 +59,12 @@ Rimuove la firma in base al nome della firma.
 public void RemoveSignature(SignatureName signName, bool removeField)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | signName | SignatureName | Il nome della firma. |
 | removeField | Boolean | Se impostato su true, rimuove sia la firma che il campo dal documento; altrimenti, solo la firma. |
 
-## Examples
+## Esempi
 
 ```csharp
 [C#]
@@ -88,9 +88,11 @@ Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### See Also
+### Vedi anche
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextAbsorber. Estrae testo nella pagina specificata
+title: "TextAbsorber.Visit"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextAbsorber. Estrae il testo nella pagina specificata."
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.text/textabsorber/visit/
 ---
 ## Visit(Page) {#visit_1}
 
-Estrae testo nella pagina specificata
+Estrae il testo dalla pagina specificata
 
 ```csharp
 public virtual void Visit(Page page)
@@ -16,27 +16,27 @@ public virtual void Visit(Page page)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Oggetto pagina del documento Pdf. |
+| pagina | Page | Oggetto pagina PDF. |
 
 ## Esempi
 
 L'esempio dimostra come estrarre testo nella prima pagina del documento PDF.
 
 ```csharp
-// open document
+// apri documento
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// crea un oggetto TextAbsorber per estrarre testo
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// accetta l'assorbitore per tutte le pagine del documento
 absorber.Visit(doc.Pages[1]);
 
-// get the extracted text
+// ottieni il testo estratto
 string extractedText = absorber.Text;
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [TextAbsorber](../)
@@ -47,7 +47,7 @@ string extractedText = absorber.Text;
 
 ## Visit(XForm) {#visit_2}
 
-Estrae testo nel XForm specificato.
+Estrae il testo sull'XForm specificato.
 
 ```csharp
 public virtual void Visit(XForm form)
@@ -55,27 +55,27 @@ public virtual void Visit(XForm form)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| form | XForm | Oggetto modulo Pdf. |
+| modulo | XForm | Oggetto modulo Pdf. |
 
 ## Esempi
 
 L'esempio dimostra come estrarre testo nella prima pagina del documento PDF.
 
 ```csharp
-// open document
+// apri documento
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// crea un oggetto TextAbsorber per estrarre testo
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// accetta l'assorbitore per tutte le pagine del documento
 absorber.Visit(doc.Pages[1].Resources.Forms["Xform1"]);
 
-// get the extracted text
+// ottieni il testo estratto
 string extractedText = absorber.Text;
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * class [XForm](../../../aspose.pdf/xform/)
 * class [TextAbsorber](../)
@@ -86,7 +86,7 @@ string extractedText = absorber.Text;
 
 ## Visit(Document) {#visit}
 
-Estrae testo nel documento specificato
+Estrae il testo dal documento specificato
 
 ```csharp
 public virtual void Visit(Document pdf)
@@ -94,29 +94,31 @@ public virtual void Visit(Document pdf)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pdf | Document | Oggetto documento Pdf. |
+| pdf | Document | Oggetto Pdf pocument. |
 
 ## Esempi
 
-L'esempio dimostra come estrarre testo nel documento PDF.
+L'esempio dimostra come estrarre il testo su un documento PDF.
 
 ```csharp
-// open document
+// apri documento
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// crea un oggetto TextAbsorber per estrarre testo
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// accetta l'assorbitore per tutte le pagine del documento
 absorber.Visit(doc);
 
-// get the extracted text
+// ottieni il testo estratto
 string extractedText = absorber.Text;
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

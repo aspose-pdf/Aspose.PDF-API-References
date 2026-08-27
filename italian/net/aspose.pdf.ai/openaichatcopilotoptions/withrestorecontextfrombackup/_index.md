@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithRestoreContextFromBackup
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIChatCopilotOptions. Imposta se ripristinare il contesto dal backup nelle opzioni del copilot chat
+title: "OpenAIChatCopilotOptions.WithRestoreContextFromBackup"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIChatCopilotOptions metodo. Imposta se ripristinare il contesto dal backup nelle opzioni del copilot chat"
 type: docs
-weight: 160
+weight: 170
 url: /it/net/aspose.pdf.ai/openaichatcopilotoptions/withrestorecontextfrombackup/
 ---
-## Metodo OpenAIChatCopilotOptions.WithRestoreContextFromBackup
+## OpenAIChatCopilotOptions.WithRestoreContextFromBackup method
 
-Imposta se ripristinare il contesto dal backup nelle opzioni del copilot chat.
+Imposta se ripristinare il contesto dal backup nelle opzioni del copilot della chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithRestoreContextFromBackup(bool restoreContext)
@@ -18,12 +18,14 @@ public OpenAIChatCopilotOptions WithRestoreContextFromBackup(bool restoreContext
 | --- | --- | --- |
 | restoreContext | Boolean | Un valore che indica se ripristinare il contesto dal backup. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIChatCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfViewer.PdfViewer
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore PdfViewer. Inizializza un nuovo oggetto PdfViewer
+title: "PdfViewer.PdfViewer"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfViewer. Inizializza un nuovo oggetto PdfViewer"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdfviewer/pdfviewer/
@@ -14,9 +14,9 @@ Inizializza un nuovo oggetto [`PdfViewer`](../).
 public PdfViewer()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,13 @@ public PdfViewer(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| document | Document | Oggetto documento. |
+| document | Document | Oggetto Document. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfViewer](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAISummaryCopilotOptions. Imposta le istruzioni per le opzioni del copilot di sintesi
+title: "OpenAISummaryCopilotOptions.WithInstructions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAISummaryCopilotOptions metodo. Imposta le istruzioni per le opzioni del copilota di riepilogo"
 type: docs
-weight: 80
+weight: 90
 url: /it/net/aspose.pdf.ai/openaisummarycopilotoptions/withinstructions/
 ---
-## Metodo OpenAISummaryCopilotOptions.WithInstructions
+## OpenAISummaryCopilotOptions.WithInstructions method
 
-Imposta le istruzioni per le opzioni del copilot di sintesi.
+Imposta le istruzioni per le opzioni del copilot di riepilogo.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithInstructions(string instructions)
@@ -24,6 +24,8 @@ L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

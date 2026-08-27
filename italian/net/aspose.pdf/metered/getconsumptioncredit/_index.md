@@ -1,12 +1,12 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo misurato. Ottiene credito consumo.
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metered method. Ottiene il credito di consumo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/metered/getconsumptioncredit/
 ---
-## Metodo Metered.GetConsumptionCredit
+## Metered.GetConsumptionCredit method
 
 Ottiene il credito di consumo.
 
@@ -14,12 +14,14 @@ Ottiene il credito di consumo.
 public static decimal GetConsumptionCredit()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Quantità di consumo.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Metered](../)
+* class [Metered](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableElement.DefaultColumnWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableElement. Ottiene o imposta la larghezza predefinita della colonna
+title: "TableElement.DefaultColumnWidth"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableElement. Ottiene o imposta la larghezza predefinita della colonna"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.logicalstructure/tableelement/defaultcolumnwidth/
 ---
-## Proprietà TableElement.DefaultColumnWidth
+## TableElement.DefaultColumnWidth property
 
 Ottiene o imposta la larghezza predefinita della colonna.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la larghezza predefinita della colonna.
 public string DefaultColumnWidth { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TableElement](../)
+* class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

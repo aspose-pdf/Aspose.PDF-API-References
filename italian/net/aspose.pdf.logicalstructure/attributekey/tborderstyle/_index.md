@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.TBorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo TBorderStyle proprietario dell'attributo Layout
+title: "AttributeKey.TBorderStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. TBorderStyle attributo Layout attributo proprietario"
 type: docs
 weight: 330
 url: /it/net/aspose.pdf.logicalstructure/attributekey/tborderstyle/
 ---
-## Campo AttributeKey.TBorderStyle
+## AttributeKey.TBorderStyle field
 
-Attributo TBorderStyle (proprietario dell'attributo Layout).
+Attributo TBorderStyle (proprietario dell'attributo del layout).
 
 ```csharp
 public static readonly AttributeKey TBorderStyle;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

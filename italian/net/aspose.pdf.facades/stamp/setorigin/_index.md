@@ -1,14 +1,14 @@
 ---
-title: Stamp.SetOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Stamp. Imposta la posizione sulla pagina dove verrà posizionato il timbro
+title: "Stamp.SetOrigin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Stamp. Imposta la posizione nella pagina dove il timbro verrà posizionato"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.facades/stamp/setorigin/
 ---
-## Metodo Stamp.SetOrigin
+## Stamp.SetOrigin method
 
-Imposta la posizione sulla pagina dove verrà posizionato il timbro.
+Imposta la posizione sulla pagina dove il timbro sarà posizionato.
 
 ```csharp
 public void SetOrigin(float originX, float originY)
@@ -16,11 +16,13 @@ public void SetOrigin(float originX, float originY)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| originX | Singolo | Coordinata X del timbro. |
-| originY | Singolo | Coordinata Y del timbro. |
+| originX | Single | Coordinata X del timbro. |
+| originY | Single | Coordinata Y del timbro. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

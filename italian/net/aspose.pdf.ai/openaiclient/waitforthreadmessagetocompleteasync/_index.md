@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.WaitForThreadMessageToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Attende che un messaggio di thread specifico venga completato in modo asincrono
+title: "OpenAIClient.WaitForThreadMessageToCompleteAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Attende che un messaggio specifico del thread venga completato in modo asincrono"
 type: docs
-weight: 480
+weight: 490
 url: /it/net/aspose.pdf.ai/openaiclient/waitforthreadmessagetocompleteasync/
 ---
-## Metodo OpenAIClient.WaitForThreadMessageToCompleteAsync
+## OpenAIClient.WaitForThreadMessageToCompleteAsync method
 
-Attende che un messaggio di thread specifico venga completato in modo asincrono.
+Attende che un messaggio di thread specifico termini in modo asincrono.
 
 ```csharp
 public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string threadId, 
@@ -17,11 +17,11 @@ public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string th
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| threadId | String | L'ID del thread contenente il messaggio. |
+| threadId | String | L'ID del thread che contiene il messaggio. |
 | threadMessageId | String | L'ID del messaggio da monitorare fino al completamento. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene lo stato finale del messaggio.
 
@@ -29,12 +29,14 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del messaggio del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del messaggio del thread è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ThreadMessageResponse](../../threadmessageresponse/)
-* classe [OpenAIClient](../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

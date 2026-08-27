@@ -1,12 +1,12 @@
 ---
-title: GradientAxialShading.EndColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GradientAxialShading. Ottiene o imposta il colore finale
+title: "GradientAxialShading.EndColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GradientAxialShading. Ottiene o imposta il colore finale"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.drawing/gradientaxialshading/endcolor/
 ---
-## Proprietà GradientAxialShading.EndColor
+## GradientAxialShading.EndColor property
 
 Ottiene o imposta il colore finale.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il colore finale.
 public Color EndColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [GradientAxialShading](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientAxialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

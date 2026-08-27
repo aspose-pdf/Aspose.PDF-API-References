@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.TextBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: Campo di Testo costruttore. Costruttore che deve essere utilizzato insieme al Generatore.
+title: "TextBoxField.TextBoxField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di TextBoxField. Costruttore che dovrebbe essere usato con Generator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/textboxfield/textboxfield/
 ---
 ## TextBoxField(Document) {#constructor_1}
 
-Costruttore che dovrebbe essere utilizzato con Generator.
+Costruttore da utilizzare con Generator.
 
 ```csharp
 public TextBoxField(Document doc)
@@ -16,9 +16,9 @@ public TextBoxField(Document doc)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Documento in cui verrà creato il campo. |
+| doc | Document | Document dove verrà creato il campo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [TextBoxField](../)
@@ -37,10 +37,10 @@ public TextBoxField(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina in cui è posizionato il campo di testo. |
-| rect | Rectangle | Rettangolo in cui verrà posizionato il campo di testo sulla pagina. |
+| pagina | Page | Pagina in cui è posizionato il campo di testo. |
+| rect | Rectangle | Rectangle in cui il campo di testo sarà posizionato sulla pagina. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -60,10 +60,10 @@ public TextBoxField(Page page, Rectangle[] rects)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina in cui è posizionato il campo di testo. |
-| rects | Rectangle[] | Rettangoli che definiscono il posizionamento delle annotazioni del widget TextBoxField sulla pagina. |
+| pagina | Page | Pagina in cui è posizionato il campo di testo. |
+| rects | Rectangle[] | Rectangles che definiscono il posizionamento delle annotazioni widget TextBoxField sulla pagina. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -83,13 +83,15 @@ public TextBoxField(Document doc, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Documento in cui verrà creato il campo. |
-| rect | Rectangle | Rettangolo del campo. |
+| doc | Document | Document dove verrà creato il campo. |
+| rect | Rectangle | Rectangle del campo. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

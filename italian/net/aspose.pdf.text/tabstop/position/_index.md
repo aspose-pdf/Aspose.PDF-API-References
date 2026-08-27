@@ -1,21 +1,23 @@
 ---
-title: TabStop.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TabStop. Ottiene o imposta un valore float che indica la posizione del tab stop
+title: "TabStop.Position"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TabStop. Restituisce o imposta un valore float che indica la posizione del tab stop"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.text/tabstop/position/
 ---
-## Proprietà TabStop.Position
+## TabStop.Position property
 
-Ottiene o imposta un valore float che indica la posizione del tab stop.
+Ottiene o imposta un valore float che indica la posizione del tabulatore.
 
 ```csharp
 public float Position { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TabStop](../)
+* class [TabStop](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

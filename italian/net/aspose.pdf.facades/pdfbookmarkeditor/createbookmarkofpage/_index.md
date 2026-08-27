@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarkOfPage
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfBookmarkEditor. Crea un segnalibro per la pagina specificata
+title: "PdfBookmarkEditor.CreateBookmarkOfPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfBookmarkEditor. Crea un segnalibro per la pagina specificata"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
@@ -28,9 +28,9 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -47,7 +47,7 @@ public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | bookmarkName | String[] | Array dei titoli dei segnalibri. |
-| pageNumber | Int32[] | Array delle pagine di destinazione dei segnalibri. |
+| pageNumber | Int32[] | Array di pagine di destinazione dei segnalibri. |
 
 ## Esempi
 
@@ -58,8 +58,10 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

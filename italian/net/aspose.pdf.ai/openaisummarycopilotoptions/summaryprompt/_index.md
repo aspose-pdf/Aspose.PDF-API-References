@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.SummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OpenAISummaryCopilotOptions. Ottiene o imposta il prompt per istruire il modello a fornire un riepilogo del documento
+title: "OpenAISummaryCopilotOptions.SummaryPrompt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAISummaryCopilotOptions proprietà. Ottiene o imposta il prompt per istruire il modello a fornire un riepilogo del documento"
 type: docs
-weight: 30
+weight: 40
 url: /it/net/aspose.pdf.ai/openaisummarycopilotoptions/summaryprompt/
 ---
-## Proprietà OpenAISummaryCopilotOptions.SummaryPrompt
+## OpenAISummaryCopilotOptions.SummaryPrompt property
 
 Ottiene o imposta il prompt per istruire il modello a fornire un riepilogo del documento.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il prompt per istruire il modello a fornire un riepilogo del d
 public string SummaryPrompt { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

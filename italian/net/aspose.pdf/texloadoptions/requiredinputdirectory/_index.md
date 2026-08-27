@@ -1,22 +1,24 @@
 ---
-title: TeXLoadOptions.RequiredInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TeXLoadOptions. Ottiene/imposta la directory di input richiesta da TeX. L'input richiesto sono i file che sono in qualche modo inclusi nel file principale .tex, ad esempio, pacchetti per i quali non c'è supporto integrato.
+title: "TeXLoadOptions.RequiredInputDirectory"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TeXLoadOptions. Ottiene/imposta la directory di input richiesta da TeX. L'input richiesto sono i file che in qualche modo vengono inclusi nel file .tex principale, ad esempio pacchetti per i quali non esiste supporto integrato."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/texloadoptions/requiredinputdirectory/
 ---
-## Proprietà TeXLoadOptions.RequiredInputDirectory
+## TeXLoadOptions.RequiredInputDirectory property
 
-Ottiene/imposta la directory di input richiesta da TeX. L'input richiesto sono i file che sono in qualche modo inclusi nel file principale .tex, ad esempio, pacchetti per i quali non c'è supporto integrato.
+Ottiene/Imposta la directory di input richiesta da TeX. L'input richiesto sono i file che sono in qualche modo inclusi nel file .tex principale, ad esempio pacchetti per i quali non esiste supporto integrato.
 
 ```csharp
 public ITeXInputDirectory RequiredInputDirectory { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ITeXInputDirectory](../../itexinputdirectory/)
-* classe [TeXLoadOptions](../)
+* interface [ITeXInputDirectory](../../itexinputdirectory/)
+* class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

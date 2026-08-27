@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.BTWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor field. BottomTop Wipe
+title: "PdfPageEditor.BTWIPE"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PdfPageEditor. Wipe dal basso verso l'alto"
 type: docs
 weight: 210
 url: /it/net/aspose.pdf.facades/pdfpageeditor/btwipe/
 ---
-## Campo PdfPageEditor.BTWIPE
+## PdfPageEditor.BTWIPE field
 
-Wipe Dall'alto in basso
+Pulizia dal basso verso l'alto
 
 ```csharp
 public const int BTWIPE;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

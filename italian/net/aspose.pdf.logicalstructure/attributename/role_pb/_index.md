@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Role_pb
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Ruolo dell'attributo pb Pulsante di attivazione
+title: "AttributeName.Role_pb"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo AttributeName. Attributo Role pb  Pulsante"
 type: docs
 weight: 400
 url: /it/net/aspose.pdf.logicalstructure/attributename/role_pb/
 ---
-## Campo AttributeName.Role_pb
+## AttributeName.Role_pb field
 
-Ruolo dell'attributo: pb - Pulsante di attivazione.
+Attributo Role: pb - Pulsante.
 
 ```csharp
 public static readonly AttributeName Role_pb;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

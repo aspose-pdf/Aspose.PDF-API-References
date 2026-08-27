@@ -1,12 +1,12 @@
 ---
-title: Cell.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Cell. Ottiene o imposta il testo formattato delle celle
+title: "Cell.Paragraphs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cell. Ottiene o imposta il testo formattato della cella"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/cell/paragraphs/
 ---
-## Proprietà Cell.Paragraphs
+## Cell.Paragraphs property
 
 Ottiene o imposta il testo formattato della cella.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il testo formattato della cella.
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Paragraphs](../../paragraphs/)
-* classe [Cell](../)
+* class [Paragraphs](../../paragraphs/)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

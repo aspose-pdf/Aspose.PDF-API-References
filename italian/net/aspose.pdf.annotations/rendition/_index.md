@@ -1,14 +1,14 @@
 ---
-title: Class Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.Rendition. Classe che descrive l'oggetto di rappresentazione di RendtionAnnotation
+title: "Classe Rendition"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.Rendition class. Classe che descrive l'oggetto rendition di RendtionAnnotation"
 type: docs
-weight: 2430
+weight: 2520
 url: /it/net/aspose.pdf.annotations/rendition/
 ---
-## Classe Rendition
+## Rendition class
 
-Classe che descrive l'oggetto di rappresentazione di RendtionAnnotation.
+Classe che descrive l'oggetto di resa di RendtionAnnotation.
 
 ```csharp
 public class Rendition
@@ -18,10 +18,12 @@ public class Rendition
 
 | Nome | Descrizione |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Stringa di testo che specifica il nome della rappresentazione da utilizzare in un'interfaccia utente e per la ricerca nel nome tramite azioni JavaScript. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Ottiene il tipo di rappresentazione. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Stringa di testo che specifica il nome del rendition da utilizzare in un'interfaccia utente e per la ricerca nell'albero dei nomi tramite azioni JavaScript. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Ottiene il tipo di rendition. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: SaveOptions.MarginPartStyle.MarginPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore MarginPartStyle. Crea un'istanza della classe MarginPartStyle e imposta il suo valore in punti
+title: "SaveOptions.MarginPartStyle.MarginPartStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di MarginPartStyle. Crea un'istanza della classe MarginPartStyle e imposta il suo valore in punti"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/saveoptions.marginpartstyle/marginpartstyle/
@@ -18,9 +18,9 @@ public MarginPartStyle(int valueInPoints)
 | --- | --- | --- |
 | valueInPoints | Int32 | Valore intero in punti |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginPartStyle](../)
+* class [MarginPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,10 +36,12 @@ public MarginPartStyle(bool isAuto)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| isAuto | Boolean | Marca margine automatico |
+| isAuto | Boolean | Imposta il margine su automatico |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginPartStyle](../)
+* class [MarginPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

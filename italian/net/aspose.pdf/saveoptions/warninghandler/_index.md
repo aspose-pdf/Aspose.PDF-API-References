@@ -1,22 +1,24 @@
 ---
-title: SaveOptions.WarningHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SaveOptions. Callback per gestire eventuali avvisi generati. Il WarningHandler restituisce un elemento dell'enumerazione ReturnAction che specifica se Continuare o Abortire. Continuare è l'azione predefinita e l'operazione di Salvataggio continua, tuttavia l'utente può anche restituire Abortire, nel qual caso l'operazione di Salvataggio dovrebbe cessare.
+title: "SaveOptions.WarningHandler"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SaveOptions proprietà. Callback per gestire eventuali avvisi generati. Il WarningHandler restituisce l'elemento enum ReturnAction che specifica Continue o Abort. Continue è l'azione predefinita e l'operazione di salvataggio continua, tuttavia l'utente può anche restituire Abort, nel qual caso l'operazione di salvataggio deve terminare"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/saveoptions/warninghandler/
 ---
-## Proprietà SaveOptions.WarningHandler
+## SaveOptions.WarningHandler property
 
-Callback per gestire eventuali avvisi generati. Il WarningHandler restituisce un elemento dell'enumerazione ReturnAction che specifica se Continuare o Abortire. Continuare è l'azione predefinita e l'operazione di Salvataggio continua, tuttavia l'utente può anche restituire Abortire, nel qual caso l'operazione di Salvataggio dovrebbe cessare.
+Callback per gestire eventuali avvisi generati. Il WarningHandler restituisce l'elemento enum ReturnAction che specifica Continuare o Interrompere. Continuare è l'azione predefinita e l'operazione di salvataggio prosegue, tuttavia l'utente può anche restituire Interrompere, nel qual caso l'operazione di salvataggio deve cessare.
 
 ```csharp
 public IWarningCallback WarningHandler { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IWarningCallback](../../iwarningcallback/)
-* classe [SaveOptions](../)
+* interface [IWarningCallback](../../iwarningcallback/)
+* class [SaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

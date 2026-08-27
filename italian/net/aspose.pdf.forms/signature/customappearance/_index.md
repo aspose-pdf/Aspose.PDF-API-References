@@ -1,12 +1,12 @@
 ---
-title: Signature.CustomAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della firma. Ottiene/imposta l'aspetto personalizzato
+title: "Signature.CustomAppearance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Signature. Ottiene/imposta l'aspetto personalizzato"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.forms/signature/customappearance/
 ---
-## Proprietà Signature.CustomAppearance
+## Signature.CustomAppearance property
 
 Ottiene/imposta l'aspetto personalizzato.
 
@@ -14,9 +14,11 @@ Ottiene/imposta l'aspetto personalizzato.
 public SignatureCustomAppearance CustomAppearance { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureCustomAppearance](../../signaturecustomappearance/)
-* classe [Signature](../)
+* class [SignatureCustomAppearance](../../signaturecustomappearance/)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

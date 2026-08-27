@@ -1,12 +1,12 @@
 ---
-title: Interface IAIClient
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.AI.IAIClient. Rappresenta un'interfaccia per un client AI
+title: "Interfaccia IAIClient"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.AI.IAIClient. Rappresenta un'interfaccia per un client AI"
 type: docs
-weight: 440
+weight: 460
 url: /it/net/aspose.pdf.ai/iaiclient/
 ---
-## Interfaccia IAIClient
+## IAIClient interface
 
 Rappresenta un'interfaccia per un client AI.
 
@@ -14,7 +14,9 @@ Rappresenta un'interfaccia per un client AI.
 public interface IAIClient
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

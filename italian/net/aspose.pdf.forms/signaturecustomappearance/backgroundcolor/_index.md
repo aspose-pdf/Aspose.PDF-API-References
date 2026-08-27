@@ -1,22 +1,24 @@
 ---
-title: SignatureCustomAppearance.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignatureCustomAppearance. Ottiene/imposta il colore di sfondo. Valore predefinito Trasparente
+title: "SignatureCustomAppearance.BackgroundColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignatureCustomAppearance. Ottiene/imposta il colore di sfondo. Valore predefinito Trasparente"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/
 ---
-## Proprietà SignatureCustomAppearance.BackgroundColor
+## SignatureCustomAppearance.BackgroundColor property
 
-Ottiene/imposta il colore di sfondo. Valore predefinito: Trasparente.
+Ottiene/imposta il colore di sfondo. Valore predefinito: Transparent.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [SignatureCustomAppearance](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

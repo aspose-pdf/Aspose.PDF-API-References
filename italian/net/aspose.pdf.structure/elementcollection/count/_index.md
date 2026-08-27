@@ -1,12 +1,12 @@
 ---
-title: ElementCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: ElementCollection proprietà. Contano degli elementi.
+title: "ElementCollection.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ElementCollection. Conteggio degli elementi"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.structure/elementcollection/count/
 ---
-## Proprietà ElementCollection.Count
+## ElementCollection.Count property
 
 Conteggio degli elementi.
 
@@ -14,8 +14,10 @@ Conteggio degli elementi.
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ElementCollection](../)
+* class [ElementCollection](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

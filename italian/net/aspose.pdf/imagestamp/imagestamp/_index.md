@@ -1,7 +1,7 @@
 ---
-title: ImageStamp.ImageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ImageStamp. Inizializza una nuova istanza della classe ImageStamp
+title: "ImageStamp.ImageStamp"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ImageStamp. Inizializza una nuova istanza della classe ImageStamp"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/imagestamp/imagestamp/
@@ -16,11 +16,11 @@ public ImageStamp(Stream image)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| image | Stream | Stream che contiene i dati dell'immagine. |
+| immagine | Stream | Stream che contiene i dati dell'immagine. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public ImageStamp(Stream image)
 
 ## ImageStamp(string) {#constructor_1}
 
-Crea un timbro immagine dall'immagine nel file specificato.
+Crea un timbro immagine a partire dall'immagine nel file specificato.
 
 ```csharp
 public ImageStamp(string fileName)
@@ -38,8 +38,10 @@ public ImageStamp(string fileName)
 | --- | --- | --- |
 | fileName | String | Nome del file che contiene l'immagine. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

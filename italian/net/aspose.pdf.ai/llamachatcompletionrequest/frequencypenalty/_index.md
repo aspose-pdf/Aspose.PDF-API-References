@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionRequest.FrequencyPenalty
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LlamaChatCompletionRequest. Imposta o ottiene la penalità di frequenza da utilizzare durante il campionamento
+title: "LlamaChatCompletionRequest.FrequencyPenalty"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LlamaChatCompletionRequest proprietà. Imposta o ottiene la penalità di frequenza da utilizzare durante il campionamento"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/llamachatcompletionrequest/frequencypenalty/
 ---
-## Proprietà LlamaChatCompletionRequest.FrequencyPenalty
+## LlamaChatCompletionRequest.FrequencyPenalty property
 
 Imposta o ottiene la penalità di frequenza da utilizzare durante il campionamento.
 
@@ -14,8 +14,10 @@ Imposta o ottiene la penalità di frequenza da utilizzare durante il campionamen
 public float? FrequencyPenalty { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LlamaChatCompletionRequest](../)
+* class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

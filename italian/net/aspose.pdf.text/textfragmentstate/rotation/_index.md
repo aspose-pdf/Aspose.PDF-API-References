@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextFragmentState. Ottiene o imposta l'angolo di rotazione in gradi
+title: "TextFragmentState.Rotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragmentState. Ottiene o imposta l'angolo di rotazione in gradi"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.text/textfragmentstate/rotation/
 ---
-## Proprietà TextFragmentState.Rotation
+## TextFragmentState.Rotation property
 
 Ottiene o imposta l'angolo di rotazione in gradi.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'angolo di rotazione in gradi.
 public double Rotation { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentState](../)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColor.M
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetCMYKColor. Ottiene o imposta il componente magenta
+title: "SetCMYKColor.M"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetCMYKColor. Ottiene o imposta il componente magenta"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.operators/setcmykcolor/m/
 ---
-## Proprietà SetCMYKColor.M
+## SetCMYKColor.M property
 
 Ottiene o imposta il componente magenta.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il componente magenta.
 public double M { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetCMYKColor](../)
+* class [SetCMYKColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

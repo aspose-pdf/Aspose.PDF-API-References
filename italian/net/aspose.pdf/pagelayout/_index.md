@@ -1,14 +1,14 @@
 ---
-title: Enum PageLayout
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PageLayout di Aspose.Pdf. Descrive il layout della pagina
+title: "Enum PageLayout"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.PageLayout enum. Descrive il layout della pagina"
 type: docs
-weight: 8180
+weight: 8320
 url: /it/net/aspose.pdf/pagelayout/
 ---
-## Enumerazione PageLayout
+## PageLayout enumeration
 
-Descrive il layout della pagina.
+Descrive la disposizione della pagina.
 
 ```csharp
 public enum PageLayout
@@ -26,7 +26,9 @@ public enum PageLayout
 | TwoPageRight | `5` | Visualizza le pagine due alla volta, con le pagine dispari a destra. |
 | Default | `6` | Layout predefinito. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

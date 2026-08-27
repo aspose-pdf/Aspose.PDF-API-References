@@ -1,21 +1,23 @@
 ---
-title: VectorStoreResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse property. Gets or sets the status of the vector store which can be either expired in_progress or completed. A status of completed indicates that the vector store is ready for use
+title: "VectorStoreResponse.Status"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà VectorStoreResponse. Ottiene o imposta lo stato del vector store che può essere expired, in_progress o completed. Uno stato completed indica che il vector store è pronto per l'uso"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.ai/vectorstoreresponse/status/
 ---
-## Proprietà VectorStoreResponse.Status
+## VectorStoreResponse.Status property
 
-Ottiene o imposta lo stato del negozio di vettori, che può essere scaduto, in_corso o completato. Uno stato di completato indica che il negozio di vettori è pronto per l'uso.
+Ottiene o imposta lo stato dell'archivio vettoriale, che può essere expired, in_progress o completed. Uno stato completed indica che l'archivio vettoriale è pronto per l'uso.
 
 ```csharp
 public string Status { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorStoreResponse](../)
+* class [VectorStoreResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

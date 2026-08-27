@@ -1,12 +1,12 @@
 ---
-title: MediaClipData.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MediaClipData. Restituisce la specifica del file che contiene i dati multimediali effettivi
+title: "MediaClipData.Data"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MediaClipData. Restituisce la specifica del file che contiene i dati multimediali effettivi"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/mediaclipdata/data/
 ---
-## Proprietà MediaClipData.Data
+## MediaClipData.Data property
 
 Restituisce la specifica del file che contiene i dati multimediali effettivi.
 
@@ -14,9 +14,11 @@ Restituisce la specifica del file che contiene i dati multimediali effettivi.
 public FileSpecification Data { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSpecification](../../../aspose.pdf/filespecification/)
-* classe [MediaClipData](../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [MediaClipData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

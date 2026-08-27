@@ -1,14 +1,14 @@
 ---
-title: Class RunListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.RunListResponse class. Represents a list response containing run data
+title: "Classe RunListResponse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.RunListResponse. Rappresenta una risposta di tipo elenco contenente dati di esecuzione"
 type: docs
-weight: 1000
+weight: 1080
 url: /it/net/aspose.pdf.ai/runlistresponse/
 ---
-## Classe RunListResponse
+## RunListResponse class
 
-Rappresenta una risposta di elenco contenente dati di esecuzione.
+Rappresenta una risposta di elenco contenente i dati dell'esecuzione.
 
 ```csharp
 public class RunListResponse : ListDataResponse<List<RunResponse>>
@@ -32,13 +32,15 @@ public class RunListResponse : ListDataResponse<List<RunResponse>>
 | [HasMore](../../aspose.pdf.ai/listdataresponse-1/hasmore/) { get; set; } |  |
 | [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Ottiene o imposta le intestazioni della risposta HTTP. |
 | [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Ottiene o imposta il codice di stato HTTP. |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indica se la risposta è stata positiva. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indica se la risposta ha avuto successo. |
 | [LastId](../../aspose.pdf.ai/listdataresponse-1/lastid/) { get; set; } |  |
 | [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Ottiene la frase di motivo dell'errore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
-* classe [RunResponse](../runresponse/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [RunResponse](../runresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

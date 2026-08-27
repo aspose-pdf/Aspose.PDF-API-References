@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.AddReturnToLineEnd
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocSaveOptions. Usa interruzioni di paragrafo o di riga
+title: "DocSaveOptions.AddReturnToLineEnd"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocSaveOptions proprietà. Usa interruzioni di paragrafo o di riga"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/docsaveoptions/addreturntolineend/
 ---
-## Proprietà DocSaveOptions.AddReturnToLineEnd
+## DocSaveOptions.AddReturnToLineEnd property
 
 Usa interruzioni di paragrafo o di riga
 
@@ -14,8 +14,10 @@ Usa interruzioni di paragrafo o di riga
 public bool AddReturnToLineEnd { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocSaveOptions](../)
+* class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

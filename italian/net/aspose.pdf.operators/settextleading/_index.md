@@ -1,12 +1,12 @@
 ---
-title: Class SetTextLeading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetTextLeading class. Class represenging TL operator set text leading
+title: "Classe SetTextLeading"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.SetTextLeading classe. Classe che rappresenta l'operatore TL per impostare l'interlinea del testo"
 type: docs
-weight: 7820
+weight: 7960
 url: /it/net/aspose.pdf.operators/settextleading/
 ---
-## Classe SetTextLeading
+## SetTextLeading class
 
 Classe che rappresenta l'operatore TL (imposta l'interlinea del testo).
 
@@ -24,19 +24,21 @@ public class SetTextLeading : TextStateOperator
 
 | Nome | Descrizione |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori di pagina. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori della pagina. |
 | [Leading](../../aspose.pdf.operators/settextleading/leading/) { get; set; } | Ottiene o imposta l'interlinea del testo. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextleading/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
-| override [ToString](../../aspose.pdf.operators/settextleading/tostring/)() | Produce il codice di testo dell'operatore. |
+| override [Accept](../../aspose.pdf.operators/settextleading/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
+| override [ToString](../../aspose.pdf.operators/settextleading/tostring/)() | Genera il codice di testo dell'operatore. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextStateOperator](../textstateoperator/)
+* class [TextStateOperator](../textstateoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmlSaveOptions.XmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di XmlSaveOptions. Il costruttore predefinito
+title: "XmlSaveOptions.XmlSaveOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore XmlSaveOptions. Il costruttore predefinito."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/xmlsaveoptions/xmlsaveoptions/
 ---
-## Costruttore di XmlSaveOptions
+## XmlSaveOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public XmlSaveOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmlSaveOptions](../)
+* class [XmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

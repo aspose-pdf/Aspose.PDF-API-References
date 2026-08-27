@@ -1,21 +1,23 @@
 ---
-title: PopupAnnotation.Open
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PopupAnnotation. Ottiene o imposta un flag che specifica se l'annotazione popup dovrebbe essere inizialmente visualizzata aperta
+title: "PopupAnnotation.Open"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PopupAnnotation. Ottiene o imposta un flag che specifica se l'annotazione popup deve essere visualizzata aperta inizialmente"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/popupannotation/open/
 ---
-## Proprietà PopupAnnotation.Open
+## PopupAnnotation.Open property
 
-Ottiene o imposta un flag che specifica se l'annotazione pop-up dovrebbe essere inizialmente visualizzata aperta.
+Ottiene o imposta un flag che specifica se l'annotazione popup deve essere inizialmente visualizzata aperta.
 
 ```csharp
 public bool Open { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PopupAnnotation](../)
+* class [PopupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

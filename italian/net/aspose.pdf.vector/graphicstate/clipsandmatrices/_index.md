@@ -1,22 +1,24 @@
 ---
-title: GraphicState.ClipsAndMatrices
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GraphicState. Ottiene gli operatori che rappresentano clip e matrici di concatenazione
+title: "GraphicState.ClipsAndMatrices"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GraphicState. Ottiene gli operatori che rappresentano clip e matrici di concatenazione."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.vector/graphicstate/clipsandmatrices/
 ---
-## Proprietà GraphicState.ClipsAndMatrices
+## GraphicState.ClipsAndMatrices property
 
-Ottiene gli operatori che rappresentano clip e matrici di concatenazione.
+Ottiene gli operatori che rappresentano i clip e le matrici di concatenazione.
 
 ```csharp
 public List<Operator> ClipsAndMatrices { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../../aspose.pdf/operator/)
-* classe [GraphicState](../)
+* class [Operator](../../../aspose.pdf/operator/)
+* class [GraphicState](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: AICopilotFactory.CreateImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo AICopilotFactory. Crea un copilot per la descrizione dell'immagine basato sul cliente e sulle opzioni
+title: "AICopilotFactory.CreateImageDescriptionCopilot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AICopilotFactory metodo. Crea un copilot di descrizione immagine basato sul client e sulle opzioni"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/aicopilotfactory/createimagedescriptioncopilot/
 ---
-## Metodo AICopilotFactory.CreateImageDescriptionCopilot&lt;TOptions&gt;
+## AICopilotFactory.CreateImageDescriptionCopilot&lt;TOptions&gt; method
 
-Crea un copilot per la descrizione dell'immagine basato sul cliente e sulle opzioni.
+Crea un copilota per la descrizione delle immagini basato sul client e sulle opzioni.
 
 ```csharp
 public static IImageDescriptionCopilot CreateImageDescriptionCopilot<TOptions>(
     IImageDescriptionClient<TOptions> client, IImageDescriptionCopilotOptions<TOptions> options)
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
-* interfaccia [IImageDescriptionClient&lt;TOptions&gt;](../../iimagedescriptionclient-1/)
-* interfaccia [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* classe [AICopilotFactory](../)
+* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
+* interface [IImageDescriptionClient&lt;TOptions&gt;](../../iimagedescriptionclient-1/)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
+* class [AICopilotFactory](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

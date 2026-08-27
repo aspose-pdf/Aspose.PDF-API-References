@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateDivElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ITaggedContent. Crea DivElement
+title: "ITaggedContent.CreateDivElement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ITaggedContent. Crea DivElement"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.tagged/itaggedcontent/createdivelement/
 ---
-## Metodo ITaggedContent.CreateDivElement
+## ITaggedContent.CreateDivElement method
 
 Crea [`DivElement`](../../../aspose.pdf.logicalstructure/divelement/).
 
@@ -14,13 +14,15 @@ Crea [`DivElement`](../../../aspose.pdf.logicalstructure/divelement/).
 public DivElement CreateDivElement()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elemento di struttura creato.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DivElement](../../../aspose.pdf.logicalstructure/divelement/)
-* interfaccia [ITaggedContent](../)
+* class [DivElement](../../../aspose.pdf.logicalstructure/divelement/)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

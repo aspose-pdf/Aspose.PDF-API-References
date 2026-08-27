@@ -1,12 +1,12 @@
 ---
-title: Class Arc
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Arc class. Represents arc
+title: "Classe Arc"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Drawing.Arc. Rappresenta un arco"
 type: docs
-weight: 3880
+weight: 4000
 url: /it/net/aspose.pdf.drawing/arc/
 ---
-## Classe Arc
+## Arc class
 
 Rappresenta un arco.
 
@@ -26,7 +26,7 @@ public sealed class Arc : Shape
 | --- | --- |
 | [Alpha](../../aspose.pdf.drawing/arc/alpha/) { get; set; } | Ottiene o imposta un valore float che indica il grado dell'angolo iniziale dell'arco. |
 | [Beta](../../aspose.pdf.drawing/arc/beta/) { get; set; } | Ottiene o imposta un valore float che indica il grado dell'angolo finale dell'arco. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Ottiene o imposta un oggetto [`GraphInfo`](../shape/graphinfo/) che indica le informazioni sul grafico, come colore, larghezza della linea, ecc. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Ottiene o imposta un oggetto [`GraphInfo`](../shape/graphinfo/) che indica le informazioni del grafico, come colore, larghezza della linea, ecc. |
 | [PosX](../../aspose.pdf.drawing/arc/posx/) { get; set; } | Ottiene o imposta un valore float che indica la coordinata x del centro dell'arco. |
 | [PosY](../../aspose.pdf.drawing/arc/posy/) { get; set; } | Ottiene o imposta un valore float che indica la coordinata y del centro dell'arco. |
 | [Radius](../../aspose.pdf.drawing/arc/radius/) { get; set; } | Ottiene o imposta un valore float che indica il raggio dell'arco. |
@@ -38,8 +38,10 @@ public sealed class Arc : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/arc/checkbounds/)(double, double) |  |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Shape](../shape/)
+* class [Shape](../shape/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

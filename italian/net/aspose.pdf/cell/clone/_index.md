@@ -1,12 +1,12 @@
 ---
-title: Cell.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo cella. Clonare la cella.
+title: "Cell.Clone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Cell. Clona la cella"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf/cell/clone/
 ---
-## Metodo Cell.Clone
+## Cell.Clone method
 
 Clona la cella.
 
@@ -14,12 +14,14 @@ Clona la cella.
 public object Clone()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'oggetto clonato
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Cell](../)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

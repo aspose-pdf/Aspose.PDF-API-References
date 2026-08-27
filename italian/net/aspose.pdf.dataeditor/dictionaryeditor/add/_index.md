@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo DictionaryEditor. Imposta ICosPdfPrimitive nel dizionario
+title: "DictionaryEditor.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo DictionaryEditor. Imposta ICosPdfPrimitive nel dizionario"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.dataeditor/dictionaryeditor/add/
@@ -23,12 +23,12 @@ public void Add(string key, ICosPdfPrimitive value)
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentException | Genera un'eccezione se la chiave/il valore non possono essere modificati o rimossi. |
+| ArgumentException | Genera un'eccezione se chiave/valore non può essere modificata o rimossa. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ICosPdfPrimitive](../../icospdfprimitive/)
-* classe [DictionaryEditor](../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,17 +44,19 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| elemento | KeyValuePair`2 | La coppia con una chiave e un valore. |
+| item | KeyValuePair`2 | La coppia con una chiave e un valore. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentException | Genera un'eccezione se la chiave/il valore non possono essere modificati o rimossi. |
+| ArgumentException | Genera un'eccezione se chiave/valore non può essere modificata o rimossa. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ICosPdfPrimitive](../../icospdfprimitive/)
-* classe [DictionaryEditor](../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

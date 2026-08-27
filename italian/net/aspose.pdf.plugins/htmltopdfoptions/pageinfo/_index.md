@@ -1,22 +1,24 @@
 ---
-title: HtmlToPdfOptions.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlToPdfOptions. Ottiene o imposta le informazioni sulla pagina del documento
+title: "HtmlToPdfOptions.PageInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "HtmlToPdfOptions proprietà. Ottiene o imposta le informazioni della pagina del documento"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.plugins/htmltopdfoptions/pageinfo/
 ---
-## Proprietà HtmlToPdfOptions.PageInfo
+## HtmlToPdfOptions.PageInfo property
 
-Ottiene o imposta le informazioni sulla pagina del documento.
+Ottiene o imposta le informazioni della Page del Document.
 
 ```csharp
 public PageInfo PageInfo { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageInfo](../../../aspose.pdf/pageinfo/)
-* classe [HtmlToPdfOptions](../)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

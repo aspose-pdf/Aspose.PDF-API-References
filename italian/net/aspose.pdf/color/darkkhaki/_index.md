@@ -1,12 +1,12 @@
 ---
-title: Color.DarkKhaki
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Color. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFBDB76B
+title: "Color.DarkKhaki"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Ottiene un colore predefinito di sistema che ha un valore ARGB di c FFBDB76B"
 type: docs
 weight: 280
 url: /it/net/aspose.pdf/color/darkkhaki/
 ---
-## Proprietà Color.DarkKhaki
+## Color.DarkKhaki property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFBDB76B.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFBDB76B.
 public static Color DarkKhaki { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

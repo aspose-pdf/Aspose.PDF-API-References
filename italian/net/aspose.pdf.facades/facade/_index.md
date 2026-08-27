@@ -1,14 +1,14 @@
 ---
-title: Class Facade
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.Facade. Classe base facade
+title: "Classe Facade"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Facades.Facade class. Classe base di facade"
 type: docs
-weight: 4250
+weight: 4370
 url: /it/net/aspose.pdf.facades/facade/
 ---
-## Classe Facade
+## Facade class
 
-Classe base facade.
+Classe di facciata di base.
 
 ```csharp
 public abstract class Facade : IFacade
@@ -18,20 +18,22 @@ public abstract class Facade : IFacade
 
 | Nome | Descrizione |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Ottiene il documento su cui la facade sta lavorando. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Ottiene il facade del documento su cui sta lavorando. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/#bindpdf)(Document) | Inizializza la facade. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/#bindpdf_1)(Stream) | Inizializza la facade. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/#bindpdf_2)(string) | Inizializza la facade. |
-| virtual [Close](../../aspose.pdf.facades/facade/close/)() | Rilascia Aspose.Pdf.Document associato a una facade. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Rilascia la facade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/#bindpdf)(Document) | Inizializza il facade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/#bindpdf_1)(Stream) | Inizializza il facade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/#bindpdf_2)(string) | Inizializza il facade. |
+| virtual [Close](../../aspose.pdf.facades/facade/close/)() | Rilascia l'Aspose.Pdf.Document associato a una facciata. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Rilascia la facciata. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IFacade](../ifacade/)
+* interface [IFacade](../ifacade/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

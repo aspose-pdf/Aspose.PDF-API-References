@@ -1,12 +1,12 @@
 ---
-title: NamedDestination.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà NamedDestination. Ottiene il nome della destinazione nominata
+title: "NamedDestination.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà NamedDestination. Ottiene il nome della destinazione nominata"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/nameddestination/name/
 ---
-## Proprietà NamedDestination.Name
+## NamedDestination.Name property
 
 Ottiene il nome della destinazione nominata.
 
@@ -14,8 +14,10 @@ Ottiene il nome della destinazione nominata.
 public string Name { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [NamedDestination](../)
+* class [NamedDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

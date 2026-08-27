@@ -1,14 +1,14 @@
 ---
-title: Class SetMiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetMiterLimit. Classe che rappresenta il limite di miter dell'operatore M
+title: "Classe SetMiterLimit"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.SetMiterLimit classe. Classe che rappresenta l'operatore M per impostare il limite di spigolo."
 type: docs
-weight: 7780
+weight: 7920
 url: /it/net/aspose.pdf.operators/setmiterlimit/
 ---
-## Classe SetMiterLimit
+## SetMiterLimit class
 
-Classe che rappresenta l'operatore M (imposta il limite di miter).
+Classe che rappresenta l'operatore M (imposta il limite di spigolo).
 
 ```csharp
 public class SetMiterLimit : Operator
@@ -24,19 +24,21 @@ public class SetMiterLimit : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori di pagina. |
-| [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit/) { get; set; } | Ottiene o imposta il limite di miter. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori della pagina. |
+| [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit/) { get; set; } | Ottiene o imposta il limite di spigolo. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Restituisce il testo dell'operatore e i suoi parametri. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto dato. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

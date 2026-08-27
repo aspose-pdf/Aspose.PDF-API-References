@@ -1,12 +1,12 @@
 ---
-title: Class ImageExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.ImageExtractorOptions. Rappresenta le opzioni di estrazione delle immagini per il plugin ImageExtractor
+title: "Classe ImageExtractorOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Plugins.ImageExtractorOptions. Rappresenta le opzioni di estrazione delle immagini per il plugin ImageExtractor."
 type: docs
-weight: 8900
+weight: 9030
 url: /it/net/aspose.pdf.plugins/imageextractoroptions/
 ---
-## Classe ImageExtractorOptions
+## ImageExtractorOptions class
 
 Rappresenta le opzioni di estrazione delle immagini per il plugin ImageExtractor.
 
@@ -24,21 +24,23 @@ public sealed class ImageExtractorOptions : PdfExtractorOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | Restituisce la raccolta di dati del plugin PdfExtractor. |
+| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | Restituisce la raccolta dati del plugin PdfExtractor. |
 | override [OperationName](../../aspose.pdf.plugins/imageextractoroptions/operationname/) { get; } | Restituisce il nome dell'operazione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | Aggiunge una nuova sorgente di dati alla raccolta di dati del plugin PdfExtractor. |
+| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati del plugin PdfExtractor. |
 
 ## Osservazioni
 
-Eredita funzioni per aggiungere dati (file, flussi) che rappresentano documenti PDF di input.
+Eredita funzioni per aggiungere dati (file, stream) che rappresentano documenti PDF di input.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractorOptions](../pdfextractoroptions/)
+* class [PdfExtractorOptions](../pdfextractoroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

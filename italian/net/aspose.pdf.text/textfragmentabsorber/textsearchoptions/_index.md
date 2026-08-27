@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di TextFragmentAbsorber. Ottiene o imposta le opzioni di ricerca. Le opzioni abilitano la ricerca utilizzando espressioni regolari
+title: "TextFragmentAbsorber.TextSearchOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragmentAbsorber. Ottiene o imposta le opzioni di ricerca. Le opzioni consentono la ricerca mediante espressioni regolari."
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.text/textfragmentabsorber/textsearchoptions/
 ---
-## Proprietà TextFragmentAbsorber.TextSearchOptions
+## TextFragmentAbsorber.TextSearchOptions property
 
-Ottiene o imposta le opzioni di ricerca. Le opzioni abilitano la ricerca utilizzando espressioni regolari.
+Ottiene o imposta le opzioni di ricerca. Le opzioni consentono la ricerca usando espressioni regolari.
 
 ```csharp
 public TextSearchOptions TextSearchOptions { get; set; }
@@ -16,30 +16,32 @@ public TextSearchOptions TextSearchOptions { get; set; }
 
 ## Esempi
 
-L'esempio dimostra come eseguire la ricerca di testo utilizzando espressioni regolari.
+L'esempio dimostra come eseguire la ricerca di testo usando le espressioni regolari.
 
 ```csharp
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object
+// Crea un oggetto TextFragmentAbsorber
 TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-// make the absorber to search all words starting 'h' and ending 'o' using regular expression.
+// Fai in modo che l'assorbitore cerchi tutte le parole che iniziano con 'h' e terminano con 'o' usando un'espressione regolare.
 absorber.Phrase = @"h\w*?o";
 absorber.TextSearchOptions = new TextSearchOptions(true);
 
-// we should find "hello" word and replace it with "Hi"
+// dovremmo trovare la parola "hello" e sostituirla con "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
-// Save document
+// Salva documento
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextSearchOptions](../../textsearchoptions/)
-* classe [TextFragmentAbsorber](../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

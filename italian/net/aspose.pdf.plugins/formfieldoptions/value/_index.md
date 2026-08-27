@@ -1,21 +1,23 @@
 ---
-title: FormFieldOptions.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormFieldOptions. Ottiene/imposta il valore per determinare la proprietà Value per il campo creato/modificato se sarà impostato
+title: "FormFieldOptions.Value"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormFieldOptions. Ottiene/imposta il valore per determinare la proprietà Value per il campo creato/modificato, se verrà impostato"
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.plugins/formfieldoptions/value/
 ---
-## Proprietà FormFieldOptions.Value
+## FormFieldOptions.Value property
 
-Ottiene/imposta il valore per determinare la proprietà Value per il campo creato/modificato (se sarà impostato).
+Ottiene/Imposta il valore per determinare la proprietà Value per il campo creato/modificato (se verrà impostato).
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldOptions](../)
+* class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

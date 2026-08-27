@@ -1,14 +1,14 @@
 ---
-title: Class DocumentDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Devices.DocumentDevice. Classe astratta per tutti i dispositivi utilizzati per elaborare l'intero documento pdf
+title: "Classe DocumentDevice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Devices.DocumentDevice class. Classe astratta per tutti i dispositivi utilizzati per elaborare l'intero documento pdf."
 type: docs
-weight: 3570
+weight: 3690
 url: /it/net/aspose.pdf.devices/documentdevice/
 ---
-## Classe DocumentDevice
+## DocumentDevice class
 
-Classe astratta per tutti i dispositivi utilizzati per elaborare l'intero documento pdf.
+Classe astratta per tutti i dispositivi utilizzata per elaborare l'intero documento pdf.
 
 ```csharp
 public abstract class DocumentDevice : PageDevice
@@ -20,13 +20,15 @@ public abstract class DocumentDevice : PageDevice
 | --- | --- |
 | [Process](../../aspose.pdf.devices/documentdevice/process/#process_2)(Document, Stream) | Elabora l'intero documento e salva i risultati nello stream. |
 | [Process](../../aspose.pdf.devices/documentdevice/process/#process_3)(Document, string) | Elabora l'intero documento e salva i risultati nel file. |
-| abstract [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, Stream) | Esegue alcune operazioni sulla pagina fornita, ad esempio converte la pagina in un'immagine grafica. |
+| abstract [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, Stream) | Esegue qualche operazione sulla pagina fornita, ad es. converte la pagina in un'immagine grafica. |
 | [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Esegue alcune operazioni sulla pagina fornita e salva i risultati nel file. |
-| abstract [Process](../../aspose.pdf.devices/documentdevice/process/#process)(Document, int, int, Stream) | Ogni dispositivo rappresenta un'operazione sul documento, ad esempio possiamo convertire un documento pdf in un altro formato. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/#process_1)(Document, int, int, string) | Elabora determinate pagine del documento e salva i risultati nel file. |
+| abstract [Process](../../aspose.pdf.devices/documentdevice/process/#process)(Document, int, int, Stream) | Ogni dispositivo rappresenta una certa operazione sul documento, ad es. possiamo convertire il documento pdf in un altro formato. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/#process_1)(Document, int, int, string) | Elabora alcune pagine del documento e salva i risultati nel file. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageDevice](../pagedevice/)
+* class [PageDevice](../pagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

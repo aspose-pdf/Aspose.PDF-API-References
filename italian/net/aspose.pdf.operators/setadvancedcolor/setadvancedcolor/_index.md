@@ -1,7 +1,7 @@
 ---
-title: SetAdvancedColor.SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SetAdvancedColor. Inizializza l'operatore
+title: "SetAdvancedColor.SetAdvancedColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SetAdvancedColor. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
@@ -14,9 +14,9 @@ Inizializza l'operatore.
 public SetAdvancedColor()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,12 +32,12 @@ public SetAdvancedColor(double g, string patternName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| g | Double | Valore del colore. |
+| g | Double | Valore colore. |
 | patternName | String | Nome del pattern. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,11 +53,11 @@ public SetAdvancedColor(double g)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| g | Double | Valore del colore. |
+| g | Double | Valore colore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,14 +73,14 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| r | Double | Componente rossa del colore. |
+| r | Double | Componente rosso del colore. |
 | g | Double | Componente verde del colore. |
 | b | Double | Componente blu del colore. |
 | patternName | String | Nome del pattern. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -98,13 +98,13 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 | --- | --- | --- |
 | c | Double | Componente ciano del colore. |
 | m | Double | Componente magenta del colore. |
-| y | Double | Componente gialla del colore. |
-| k | Double | Componente nera del colore. |
+| y | Double | Componente giallo del colore. |
+| k | Double | Componente nero del colore. |
 | patternName | String | Nome del pattern. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -122,9 +122,9 @@ public SetAdvancedColor(string patternName)
 | --- | --- | --- |
 | patternName | String | Nome del pattern. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -141,10 +141,12 @@ public SetAdvancedColor(double[] colors, string patternName)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | patternName | Double[] | Nome del pattern. |
-| colors | String | Array di colori. |
+| colori | String | Array di colori. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

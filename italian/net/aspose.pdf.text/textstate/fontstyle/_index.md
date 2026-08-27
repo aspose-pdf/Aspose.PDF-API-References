@@ -1,12 +1,12 @@
 ---
-title: TextState.FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextState. Imposta lo stile del carattere del testo
+title: "TextState.FontStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextState. Imposta lo stile di carattere del testo."
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.text/textstate/fontstyle/
 ---
-## Proprietà TextState.FontStyle
+## TextState.FontStyle property
 
 Imposta lo stile del carattere del testo.
 
@@ -14,9 +14,11 @@ Imposta lo stile del carattere del testo.
 public virtual FontStyles FontStyle { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FontStyles](../../fontstyles/)
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: GradientAxialShading.Start
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GradientAxialShading. Ottiene o imposta il punto di inizio
+title: "GradientAxialShading.Start"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GradientAxialShading. Ottiene o imposta il punto iniziale"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.drawing/gradientaxialshading/start/
 ---
-## Proprietà GradientAxialShading.Inizio
+## GradientAxialShading.Start property
 
-Ottiene o imposta il punto di inizio.
+Ottiene o imposta il punto iniziale.
 
 ```csharp
 public Point Start { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [GradientAxialShading](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientAxialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

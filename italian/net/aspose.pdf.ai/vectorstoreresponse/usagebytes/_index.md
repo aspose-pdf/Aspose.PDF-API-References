@@ -1,21 +1,23 @@
 ---
-title: VectorStoreResponse.UsageBytes
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di VectorStoreResponse. Ottiene o imposta il numero totale di byte utilizzati dai file nel negozio vettoriale
+title: "VectorStoreResponse.UsageBytes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà VectorStoreResponse. Ottiene o imposta il numero totale di byte utilizzati dai file nel vector store"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.ai/vectorstoreresponse/usagebytes/
 ---
-## Proprietà VectorStoreResponse.UsageBytes
+## VectorStoreResponse.UsageBytes property
 
-Ottiene o imposta il numero totale di byte utilizzati dai file nel negozio vettoriale.
+Ottiene o imposta il numero totale di byte utilizzati dai file nell'archivio vettoriale.
 
 ```csharp
 public int? UsageBytes { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorStoreResponse](../)
+* class [VectorStoreResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

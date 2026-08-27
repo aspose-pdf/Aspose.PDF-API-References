@@ -1,25 +1,27 @@
 ---
-title: PaperSize.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSize method. Provides some interesting information about the PaperSize in String form
+title: "PaperSize.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PaperSize. Fornisce alcune informazioni interessanti sul PaperSize in forma di stringa"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.printing/papersize/tostring/
 ---
-## Metodo PaperSize.ToString
+## PaperSize.ToString method
 
-Fornisce alcune informazioni interessanti sulla PaperSize in forma di Stringa.
+Fornisce alcune informazioni interessanti sul PaperSize in forma di stringa.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Stringa che rappresenta la PaperSize.
+Stringa che rappresenta PaperSize.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../)
+* class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

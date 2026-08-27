@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HeaderFooterSettings. Ottiene o imposta l'intervallo di pagine per le impostazioni di intestazione e piè di pagina
+title: "HeaderFooterSettings.PageRange"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "HeaderFooterSettings proprietà. Ottiene o imposta l'intervallo di pagine per le impostazioni di intestazione e piè di pagina"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/headerfootersettings/pagerange/
 ---
-## Proprietà HeaderFooterSettings.PageRange
+## HeaderFooterSettings.PageRange property
 
 Ottiene o imposta l'intervallo di pagine per le impostazioni di intestazione e piè di pagina.
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'intervallo di pagine per le impostazioni di intestazione e p
 public PageRange PageRange { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageRange](../../pagerange/)
-* classe [HeaderFooterSettings](../)
+* class [PageRange](../../pagerange/)
+* class [HeaderFooterSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

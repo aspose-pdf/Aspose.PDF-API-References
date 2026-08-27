@@ -1,21 +1,23 @@
 ---
-title: AppearanceDictionary.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AppearanceDictionary. Ottiene un valore che indica se l'accesso al dizionario è sincronizzato e thread-safe
+title: "AppearanceDictionary.IsSynchronized"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AppearanceDictionary. Ottiene un valore che indica se l'accesso al dizionario è sincronizzato e thread‑safe"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/appearancedictionary/issynchronized/
 ---
-## Proprietà AppearanceDictionary.IsSynchronized
+## AppearanceDictionary.IsSynchronized property
 
-Ottiene un valore che indica se l'accesso al dizionario è sincronizzato (thread-safe).
+Ottiene un valore che indica se l'accesso al dizionario è sincronizzato (thread‑safe).
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AppearanceDictionary](../)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

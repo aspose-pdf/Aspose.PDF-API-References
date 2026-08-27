@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.B4Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes campo. B4 fogli 250 mm x 353 mm.
+title: "PaperSizes.B4Envelope"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. B4 busta 250 mm per 353 mm"
 type: docs
 weight: 210
 url: /it/net/aspose.pdf.printing/papersizes/b4envelope/
 ---
-## Campo PaperSizes.B4Envelope
+## PaperSizes.B4Envelope field
 
 Busta B4 (250 mm per 353 mm).
 
@@ -14,9 +14,11 @@ Busta B4 (250 mm per 353 mm).
 public static readonly PaperSize B4Envelope;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

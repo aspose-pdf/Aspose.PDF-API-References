@@ -1,14 +1,14 @@
 ---
-title: StructureAttributeCollection.CreateAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo StructureAttributeCollection. Crea e restituisce StructureAttributes dell'elemento di struttura da un proprietario di attributi standard
+title: "StructureAttributeCollection.CreateAttributes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StructureAttributeCollection. Crea e restituisce StructureAttributes dell'elemento di struttura per il proprietario dell'attributo standard"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/
 ---
-## Metodo StructureAttributeCollection.CreateAttributes
+## StructureAttributeCollection.CreateAttributes method
 
-Crea e restituisce [`StructureAttributes`](../../structureattributes/) dell'elemento di struttura da un proprietario di attributi standard.
+Crea e restituisce [`StructureAttributes`](../../structureattributes/) dell'elemento di struttura per il proprietario dell'attributo standard.
 
 ```csharp
 public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard)
@@ -16,16 +16,18 @@ public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| ownerStandard | AttributeOwnerStandard | Proprietario di attributi standard. |
+| ownerStandard | AttributeOwnerStandard | Proprietario dell'attributo standard. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-[`StructureAttributes`](../../structureattributes/) dell'elemento di struttura. Gli attributi di struttura saranno creati se necessario.
+[`StructureAttributes`](../../structureattributes/) of structure element. Structure Attributes will be created if it needed.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureAttributes](../../structureattributes/)
-* classe [AttributeOwnerStandard](../../attributeownerstandard/)
-* classe [StructureAttributeCollection](../)
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

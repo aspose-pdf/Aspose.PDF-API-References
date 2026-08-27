@@ -1,22 +1,24 @@
 ---
-title: Document.PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta l'opzione di ridimensionamento della pagina che deve essere selezionata quando viene visualizzata una finestra di dialogo di stampa per questo documento
+title: "Document.PrintScaling"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene o imposta l'opzione di ridimensionamento della pagina che verrà selezionata quando viene visualizzata una finestra di stampa per questo documento"
 type: docs
-weight: 510
+weight: 530
 url: /it/net/aspose.pdf/document/printscaling/
 ---
-## Proprietà Document.PrintScaling
+## Document.PrintScaling property
 
-Ottiene o imposta l'opzione di ridimensionamento della pagina che deve essere selezionata quando viene visualizzata una finestra di dialogo di stampa per questo documento.
+Ottiene o imposta l'opzione di scaling della pagina che deve essere selezionata quando viene visualizzata una finestra di stampa per questo documento.
 
 ```csharp
 public PrintScaling PrintScaling { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [PrintScaling](../../printscaling/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PageSize.IsLandscape
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageSize. Ottiene l'orientamento della pagina. Restituisce true se questo è orientamento paesaggio e false se questo è ritratto
+title: "PageSize.IsLandscape"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageSize. Restituisce l'orientamento della pagina. Restituisce true se è landscape e false se è portrait"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf/pagesize/islandscape/
 ---
-## Proprietà PageSize.IsLandscape
+## PageSize.IsLandscape property
 
-Ottiene l'orientamento della pagina. Restituisce true se questo è orientamento paesaggio e false se questo è ritratto.
+Ottiene l'orientamento della pagina. Restituisce true se è orientamento orizzontale e false se è verticale.
 
 ```csharp
 public bool IsLandscape { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

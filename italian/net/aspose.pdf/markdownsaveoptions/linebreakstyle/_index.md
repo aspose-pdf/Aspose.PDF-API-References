@@ -1,12 +1,12 @@
 ---
-title: MarkdownSaveOptions.LineBreakStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MarkdownSaveOptions. Ottiene o imposta lo stile di interruzione di riga per il documento generato
+title: "MarkdownSaveOptions.LineBreakStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di MarkdownSaveOptions. Ottiene o imposta lo stile di interruzione di riga per il documento generato"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/markdownsaveoptions/linebreakstyle/
 ---
-## Proprietà MarkdownSaveOptions.LineBreakStyle
+## MarkdownSaveOptions.LineBreakStyle property
 
 Ottiene o imposta lo stile di interruzione di riga per il documento generato.
 
@@ -14,9 +14,11 @@ Ottiene o imposta lo stile di interruzione di riga per il documento generato.
 public LineBreakStyle LineBreakStyle { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [LineBreakStyle](../../linebreakstyle/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

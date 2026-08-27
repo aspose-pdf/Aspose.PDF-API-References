@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.SetContent
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo RichMediaAnnotation. Imposta il flusso di contenuto
+title: "RichMediaAnnotation.SetContent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "RichMediaAnnotation metodo. Imposta lo stream di contenuto"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.annotations/richmediaannotation/setcontent/
 ---
-## Metodo RichMediaAnnotation.SetContent
+## RichMediaAnnotation.SetContent method
 
-Imposta il flusso di contenuto.
+Imposta lo stream di contenuto.
 
 ```csharp
 public void SetContent(string fileName, Stream audio)
@@ -16,11 +16,13 @@ public void SetContent(string fileName, Stream audio)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fileName | String | Nome del flusso. |
-| audio | Stream | Flusso di dati. |
+| fileName | String | Nome dello stream. |
+| audio | Stream | Stream di dati. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RichMediaAnnotation](../)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

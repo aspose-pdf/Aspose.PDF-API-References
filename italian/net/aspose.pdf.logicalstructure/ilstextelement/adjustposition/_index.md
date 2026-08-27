@@ -1,20 +1,22 @@
 ---
-title: ILSTextElement.AdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: ILSTextElement method.
+title: "ILSTextElement.AdjustPosition"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ILSTextElement."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.logicalstructure/ilstextelement/adjustposition/
 ---
-## Metodo ILSTextElement.AdjustPosition
+## ILSTextElement.AdjustPosition method
 
 ```csharp
 public void AdjustPosition(PositionSettings positionSettings)
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
-* classe [ILSTextElement](../)
+* class [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
+* class [ILSTextElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

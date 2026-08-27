@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.DSheet
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. D paper 22 in. by 34 in
+title: "PaperSizes.DSheet"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Carta D 22 pollici per 34 pollici"
 type: docs
 weight: 390
 url: /it/net/aspose.pdf.printing/papersizes/dsheet/
 ---
-## Campo PaperSizes.DSheet
+## PaperSizes.DSheet field
 
 Carta D (22 in. per 34 in.).
 
@@ -14,9 +14,11 @@ Carta D (22 in. per 34 in.).
 public static readonly PaperSize DSheet;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

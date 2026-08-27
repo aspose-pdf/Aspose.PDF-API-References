@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.Box
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormFieldFacade. Un oggetto rettangolo che contiene la posizione dei campi
+title: "FormFieldFacade.Box"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormFieldFacade. Un oggetto Rectangle che contiene la posizione dei campi"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.facades/formfieldfacade/box/
 ---
-## Proprietà FormFieldFacade.Box
+## FormFieldFacade.Box property
 
-Un oggetto rettangolo che contiene la posizione del campo.
+Un oggetto Rectangle che contiene la posizione del campo.
 
 ```csharp
 public Rectangle Box { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

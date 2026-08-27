@@ -1,14 +1,14 @@
 ---
-title: Artifact.GetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo dell'artefatto. Ottiene il valore personalizzato dell'artefatto.
+title: "Artifact.GetValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Artifact. Ottiene il valore personalizzato dell'artifact"
 type: docs
 weight: 250
 url: /it/net/aspose.pdf/artifact/getvalue/
 ---
-## Metodo Artifact.GetValue
+## Artifact.GetValue method
 
-Ottiene il valore personalizzato dell'artifact.
+Ottiene il valore personalizzato dell'artefatto.
 
 ```csharp
 public string GetValue(string name)
@@ -16,14 +16,16 @@ public string GetValue(string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome del valore. |
+| nome | String | Nome del valore. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Valore, o null se il valore non esiste.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

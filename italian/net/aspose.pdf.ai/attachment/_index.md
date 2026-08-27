@@ -1,12 +1,12 @@
 ---
-title: Class Attachment
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Allegato. Rappresenta un elenco di file allegati al messaggio e gli strumenti a cui dovrebbero essere aggiunti
+title: "Classe Attachment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.Attachment. Rappresenta un elenco di file allegati al messaggio e gli strumenti a cui dovrebbero essere aggiunti."
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.ai/attachment/
 ---
-## Classe Allegato
+## Attachment class
 
 Rappresenta un elenco di file allegati al messaggio e gli strumenti a cui dovrebbero essere aggiunti.
 
@@ -18,16 +18,18 @@ public class Attachment
 
 | Nome | Descrizione |
 | --- | --- |
-| [Allegato](attachment/)() | Il costruttore predefinito. |
+| [Attachment](attachment/)() | Il costruttore predefinito. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [FileId](../../aspose.pdf.ai/attachment/fileid/) { get; set; } | Ottiene o imposta l'ID del file che è allegato. |
-| [Strumenti](../../aspose.pdf.ai/attachment/tools/) { get; set; } | Ottiene o imposta il tipo di strumento a cui è allegato il file. |
+| [FileId](../../aspose.pdf.ai/attachment/fileid/) { get; set; } | Ottiene o imposta l'ID del File che è allegato. |
+| [Tools](../../aspose.pdf.ai/attachment/tools/) { get; set; } | Ottiene o imposta il tipo di strumento a cui il File è allegato. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

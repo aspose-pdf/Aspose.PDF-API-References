@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.CreateRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Crea un run all'interno di un thread specificato in modo asincrono
+title: "IOpenAIClient.CreateRunAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IOpenAIClient. Crea un run all'interno di un thread specificato in modo asincrono"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/iopenaiclient/createrunasync/
 ---
-## Metodo IOpenAIClient.CreateRunAsync
+## IOpenAIClient.CreateRunAsync method
 
 Crea un run all'interno di un thread specificato in modo asincrono.
 
@@ -21,20 +21,22 @@ public Task<RunResponse> CreateRunAsync(string threadId, RunCreateRequest runCre
 | runCreateRequest | RunCreateRequest | I dettagli della richiesta per creare il run. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene la risposta dalla creazione del run.
+Un task che rappresenta l'operazione asincrona. Il risultato del task contiene la risposta dalla creazione del run.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunResponse](../../runresponse/)
-* classe [RunCreateRequest](../../runcreaterequest/)
-* interfaccia [IOpenAIClient](../)
+* class [RunResponse](../../runresponse/)
+* class [RunCreateRequest](../../runcreaterequest/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

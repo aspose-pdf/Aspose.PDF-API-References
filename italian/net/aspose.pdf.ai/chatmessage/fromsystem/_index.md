@@ -1,12 +1,12 @@
 ---
-title: ChatMessage.FromSystem
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ChatMessage. Crea un nuovo oggetto ChatMessage che rappresenta un messaggio di sistema
+title: "ChatMessage.FromSystem"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo di ChatMessage. Crea un nuovo oggetto ChatMessage che rappresenta un messaggio di sistema."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/chatmessage/fromsystem/
 ---
-## Metodo ChatMessage.FromSystem
+## ChatMessage.FromSystem method
 
 Crea un nuovo oggetto ChatMessage che rappresenta un messaggio di sistema.
 
@@ -16,14 +16,16 @@ public static ChatMessage FromSystem(string content)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| content | String | Il contenuto del messaggio. |
+| contenuto | String | Il contenuto del messaggio. |
 
 ### Valore di ritorno
 
-Un nuovo oggetto [`ChatMessage`](../) con il contenuto specificato e il ruolo di Sistema.
+Un nuovo oggetto [`ChatMessage`](../) con il contenuto specificato e il ruolo Sistema.
 
 ### Vedi anche
 
-* classe [ChatMessage](../)
+* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

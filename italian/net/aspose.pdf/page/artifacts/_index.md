@@ -1,22 +1,24 @@
 ---
-title: Page.Artifacts
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene la collezione di artefatti sulla pagina
+title: "Page.Artifacts"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene la collezione di artefatti sulla pagina"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/page/artifacts/
 ---
-## Proprietà Page.Artifacts
+## Page.Artifacts property
 
-Ottiene la collezione di artefatti sulla pagina.
+Ottiene la raccolta degli artefatti nella pagina.
 
 ```csharp
 public ArtifactCollection Artifacts { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ArtifactCollection](../../artifactcollection/)
-* classe [Page](../)
+* class [ArtifactCollection](../../artifactcollection/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

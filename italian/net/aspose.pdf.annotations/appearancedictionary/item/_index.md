@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Rappresenta un form conveniente per ottenere i stream di apparenza.
+title: "AppearanceDictionary.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AppearanceDictionary. Rappresenta una forma comoda per ottenere i flussi di aspetto"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/appearancedictionary/item/
 ---
-## Indicizzatore AppearanceDictionary
+## AppearanceDictionary indexer
 
-Rappresenta una forma conveniente per ottenere flussi di aspetto.
+Rappresenta una forma comoda per ottenere i flussi di aspetto.
 
 ```csharp
 public XForm this[string key] { get; set; }
@@ -16,7 +16,7 @@ public XForm this[string key] { get; set; }
 
 | Parametro | Descrizione |
 | --- | --- |
-| chiave | Rappresenta il percorso verso il flusso di aspetto. Se il dizionario di aspetto ha sottodizionari, allora il percorso deve contenere 2 parti ([`Keys`](../keys/)), altrimenti il percorso ha solo una parte. |
+| key | Rappresenta il percorso al flusso di aspetto. Se il dizionario di aspetto ha sottodizionari, allora il percorso deve contenere 2 parti ([`Keys`](../keys/)), altrimenti il percorso ha una sola parte. |
 
 ### Valore di ritorno
 
@@ -24,7 +24,9 @@ Oggetto XForm (flusso di aspetto) che corrisponde alla chiave fornita.
 
 ### Vedi anche
 
-* classe [XForm](../../../aspose.pdf/xform/)
-* classe [AppearanceDictionary](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

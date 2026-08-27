@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Summary
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo di riepilogo Proprietario dell'attributo della tabella
+title: "AttributeKey.Summary"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. attributo Summary proprietario dell'attributo Table"
 type: docs
 weight: 320
 url: /it/net/aspose.pdf.logicalstructure/attributekey/summary/
 ---
-## Campo AttributeKey.Summary
+## AttributeKey.Summary field
 
-Attributo di riepilogo (Proprietario dell'attributo della tabella).
+Attributo Summary (proprietario dell'attributo della tabella).
 
 ```csharp
 public static readonly AttributeKey Summary;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

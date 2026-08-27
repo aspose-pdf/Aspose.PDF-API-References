@@ -1,12 +1,12 @@
 ---
-title: Class XmpPdfAExtensionSchemaDescription
-second_title: Aspose.PDF for .NET API Reference
-description: La classe Aspose.Pdf.XmpPdfAExtensionSchemaDescription. Rappresenta la descrizione dello schema di estensione XMP fornito da PDF/A1
+title: "Class XmpPdfAExtensionSchemaDescription"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.XmpPdfAExtensionSchemaDescription class. Rappresenta la descrizione dello schema di estensione XMP fornito da PDF/A1"
 type: docs
-weight: 11480
+weight: 11670
 url: /it/net/aspose.pdf/xmppdfaextensionschemadescription/
 ---
-## Classe XmpPdfAExtensionSchemaDescription
+## XmpPdfAExtensionSchemaDescription class
 
 Rappresenta la descrizione dello schema di estensione XMP fornito da PDF/A-1.
 
@@ -25,7 +25,7 @@ public class XmpPdfAExtensionSchemaDescription
 | Nome | Descrizione |
 | --- | --- |
 | [Description](../../aspose.pdf/xmppdfaextensionschemadescription/description/) { get; } | Ottiene la descrizione opzionale. |
-| [NamespaceURI](../../aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/) { get; } | Ottiene l'URI del namespace. |
+| [NamespaceURI](../../aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/) { get; } | Ottiene l'URI dello spazio dei nomi. |
 | [Prefix](../../aspose.pdf/xmppdfaextensionschemadescription/prefix/) { get; } | Ottiene il prefisso. |
 
 ## Metodi
@@ -34,7 +34,9 @@ public class XmpPdfAExtensionSchemaDescription
 | --- | --- |
 | [GetXml](../../aspose.pdf/xmppdfaextensionschemadescription/getxml/)(XmlDocument) | Restituisce l'elenco degli elementi xml che rappresentano la descrizione dello schema nell'albero xml. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

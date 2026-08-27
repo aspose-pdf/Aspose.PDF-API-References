@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.CustomFont
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormFieldFacade. Ottiene o imposta il nome del carattere quando questo è non standard, diverso dai 14 caratteri standard
+title: "FormFieldFacade.CustomFont"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade property. Ottiene o imposta il nome del carattere quando questo non è standard, diverso dai 14 caratteri standard"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.facades/formfieldfacade/customfont/
 ---
-## Proprietà FormFieldFacade.CustomFont
+## FormFieldFacade.CustomFont property
 
-Ottiene o imposta il nome del carattere quando questo è non standard (diverso dai 14 caratteri standard).
+Ottiene o imposta il nome del carattere quando non è standard (diverso dai 14 caratteri standard).
 
 ```csharp
 public string CustomFont { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

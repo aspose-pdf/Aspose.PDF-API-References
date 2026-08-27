@@ -1,12 +1,12 @@
 ---
-title: Ellipse.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Ellipse. Ottiene o imposta un valore float che indica l'altezza dell'ellisse
+title: "Ellipse.Height"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Ellipse. Ottiene o imposta un valore float che indica l'altezza dell'ellisse"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.drawing/ellipse/height/
 ---
-## Proprietà Ellipse.Height
+## Ellipse.Height property
 
 Ottiene o imposta un valore float che indica l'altezza dell'ellisse.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore float che indica l'altezza dell'ellisse.
 public double Height { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Ellipse](../)
+* class [Ellipse](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.ModifyAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocumentPrivilege. Consente di modificare le annotazioni del file
+title: "DocumentPrivilege.ModifyAnnotations"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DocumentPrivilege. Consente la modifica delle annotazioni del file"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.facades/documentprivilege/modifyannotations/
 ---
-## Proprietà DocumentPrivilege.ModifyAnnotations
+## DocumentPrivilege.ModifyAnnotations property
 
-Consente di modificare le annotazioni del file.
+Consente la modifica delle annotazioni del file.
 
 ```csharp
 public static DocumentPrivilege ModifyAnnotations { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

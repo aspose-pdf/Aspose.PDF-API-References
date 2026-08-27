@@ -1,25 +1,27 @@
 ---
-title: TableRowBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: TableRowBuilder method. Overriding AddRow
+title: "TableRowBuilder.AddRow"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TableRowBuilder. Sovrascrittura di AddRow"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/tablerowbuilder/addrow/
 ---
-## Metodo TableRowBuilder.AddRow
+## TableRowBuilder.AddRow method
 
-Sovrascrivere AddRow.
+Sovrascrittura di AddRow.
 
 ```csharp
 public override TableRowBuilder AddRow()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Istanze dell'attuale [`TableRowBuilder`](../).
+Istanza dell'attuale [`TableRowBuilder`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TableRowBuilder](../)
+* class [TableRowBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

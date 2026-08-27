@@ -1,12 +1,12 @@
 ---
-title: XpsSaveOptions.XpsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di XpsSaveOptions. Il costruttore predefinito
+title: "XpsSaveOptions.XpsSaveOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di XpsSaveOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/xpssaveoptions/xpssaveoptions/
 ---
-## Costruttore di XpsSaveOptions
+## XpsSaveOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public XpsSaveOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XpsSaveOptions](../)
+* class [XpsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

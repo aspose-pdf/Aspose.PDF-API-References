@@ -1,7 +1,7 @@
 ---
-title: FitBHExplicitDestination.FitBHExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FitBHExplicitDestination. Crea una destinazione esplicita locale
+title: "FitBHExplicitDestination.FitBHExplicitDestination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FitBHExplicitDestination. Crea una destinazione esplicita locale"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/fitbhexplicitdestination/fitbhexplicitdestination/
@@ -16,13 +16,13 @@ public FitBHExplicitDestination(Page page, double top)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | L'oggetto pagina di destinazione. |
-| top | Double | La coordinata verticale superiore posizionata al bordo superiore della finestra. |
+| pagina | Page | L'oggetto pagina di destinazione. |
+| alto | Double | La coordinata verticale superiore è posizionata al bordo superiore della finestra. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [FitBHExplicitDestination](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitBHExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,10 +39,12 @@ public FitBHExplicitDestination(int pageNumber, double top)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | pageNumber | Int32 | Il numero di pagina di destinazione del documento remoto. |
-| top | Double | La coordinata verticale superiore posizionata al bordo superiore della finestra. |
+| alto | Double | La coordinata verticale superiore è posizionata al bordo superiore della finestra. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FitBHExplicitDestination](../)
+* class [FitBHExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

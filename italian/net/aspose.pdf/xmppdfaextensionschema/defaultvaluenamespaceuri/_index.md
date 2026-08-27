@@ -1,21 +1,23 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultValueNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Campo XmpPdfAExtensionSchema. URI del namespace del valore predefinito
+title: "XmpPdfAExtensionSchema.DefaultValueNamespaceUri"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "XmpPdfAExtensionSchema campo. URI predefinito dello spazio dei nomi del valore"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri/
 ---
-## Campo XmpPdfAExtensionSchema.DefaultValueNamespaceUri
+## XmpPdfAExtensionSchema.DefaultValueNamespaceUri field
 
-URI del namespace del valore predefinito.
+URI predefinito dello spazio dei nomi del valore.
 
 ```csharp
 public const string DefaultValueNamespaceUri;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpPdfAExtensionSchema](../)
+* class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

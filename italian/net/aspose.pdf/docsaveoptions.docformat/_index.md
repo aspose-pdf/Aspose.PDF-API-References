@@ -1,14 +1,14 @@
 ---
-title: Enum DocSaveOptions.DocFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocSaveOptionsDocFormat enum. Allows to specify .doc or .docx file format
+title: "Enum DocSaveOptions.DocFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.DocSaveOptionsDocFormat enum. Consente di specificare il formato file .doc o .docx"
 type: docs
-weight: 3760
+weight: 3880
 url: /it/net/aspose.pdf/docsaveoptions.docformat/
 ---
-## Enumerazione DocSaveOptions.DocFormat
+## DocSaveOptions.DocFormat enumeration
 
-Consente di specificare il formato di file .doc o .docx.
+Consente di specificare il formato file .doc o .docx.
 
 ```csharp
 public enum DocFormat
@@ -18,11 +18,13 @@ public enum DocFormat
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Doc | `0` | \c \[MS-DOC]: Formato di file binario Word (.doc) |
-| DocX | `1` | Formato di file Office Open XML (.docx) |
+| Doc | `0` | \c \[MS-DOC]: Formato file binario Word (.doc) |
+| DocX | `1` | Formato file Office Open XML (.docx) |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocSaveOptions](../docsaveoptions/)
+* class [DocSaveOptions](../docsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

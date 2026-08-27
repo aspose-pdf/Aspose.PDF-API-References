@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CheckboxField. Ottiene o imposta il valore del campo della casella di controllo
+title: "CheckboxField.Value"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CheckboxField. Ottiene o imposta il valore del campo casella di controllo"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.forms/checkboxfield/value/
 ---
-## Proprietà CheckboxField.Value
+## CheckboxField.Value property
 
-Ottiene o imposta il valore del campo della casella di controllo.
+Ottiene o imposta il valore del campo casella di controllo.
 
 ```csharp
 public override string Value { get; set; }
@@ -24,18 +24,18 @@ using (Document doc = new Document("example.pdf"))
 Form form = doc.Form;
 CheckboxField checkbox = form.Fields[0] as CheckboxField;
 
-// Allowed values may be retrieved from the AllowedStates collection
-// Set the checkbox value using Value property
+// I valori consentiti possono essere recuperati dalla collezione AllowedStates
+// Imposta il valore della casella di controllo utilizzando la proprietà Value
 checkbox.Value = checkbox.AllowedStates[0];
 checkboxValue = checkbox.Value; // the previously set value, e.g. "option 1"
 
-// The value should be any element of AllowedStates
+// Il valore deve essere un qualsiasi elemento di AllowedStates
 checkbox.Value = "option 2";
 checkboxValue = checkbox.Value; // option 2
 
-// Uncheck boxes by either setting Value to "Off" or setting Checked to false
+// Deseleziona le caselle impostando Value su "Off" o impostando Checked su false
 checkbox.Value = "Off";
-// or, alternately:
+// oppure, alternativamente:
 // checkbox.Checked = false;
 checkboxValue = checkbox.Value; // Off
 }
@@ -43,6 +43,8 @@ checkboxValue = checkbox.Value; // Off
 
 ### Vedi anche
 
-* classe [CheckboxField](../)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

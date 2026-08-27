@@ -1,29 +1,29 @@
 ---
-title: PdfContentEditor.CreateApplicationLink
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfContentEditor. Crea un link per avviare un'applicazione nel documento PDF
+title: "PdfContentEditor.CreateApplicationLink"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Crea un collegamento per avviare un'applicazione in un documento PDF"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/createapplicationlink/
 ---
 ## CreateApplicationLink(Rectangle, string, int, Color, Enum[]) {#createapplicationlink_2}
 
-Crea un link per avviare un'applicazione nel documento PDF.
+Crea un collegamento per avviare un'applicazione nel documento PDF.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr, 
     Enum[] actionName)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo per il clic attivo. |
 | application | String | Il percorso dell'applicazione da avviare. |
-| page | Int32 | Il numero della pagina originale in cui verrà creato il rettangolo legato al link. |
+| pagina | Int32 | Il numero della pagina originale dove verrà creato il rettangolo associato al collegamento. |
 | clr | Color | Il colore del rettangolo per il clic attivo. |
-| actionName | Enum[] | L'array di azioni (membri dell'enum PredefinedAction) corrispondente all'esecuzione degli elementi di menu nel visualizzatore Acrobat. |
+| actionName | Enum[] | L'array di azioni (membri dell'enumerazione PredefinedAction) corrispondente all'esecuzione delle voci di menu nel visualizzatore Acrobat. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -34,7 +34,7 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -44,20 +44,20 @@ editor.Save("example_out.pdf");
 
 ## CreateApplicationLink(Rectangle, string, int, Color) {#createapplicationlink_1}
 
-Crea un link per avviare un'applicazione nel documento PDF.
+Crea un collegamento per avviare un'applicazione nel documento PDF.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo per il clic attivo. |
 | application | String | Il percorso dell'applicazione da avviare. |
-| page | Int32 | Il numero della pagina originale in cui verrà creato il rettangolo legato al link. |
+| pagina | Int32 | Il numero della pagina originale dove verrà creato il rettangolo associato al collegamento. |
 | clr | Color | Il colore del rettangolo per il clic attivo. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -67,7 +67,7 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -77,19 +77,19 @@ editor.Save("example_out.pdf");
 
 ## CreateApplicationLink(Rectangle, string, int) {#createapplicationlink}
 
-Crea un link per avviare un'applicazione nel documento PDF.
+Crea un collegamento per avviare un'applicazione nel documento PDF.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo per il clic attivo. |
 | application | String | Il percorso dell'applicazione da avviare. |
-| page | Int32 | Il numero della pagina originale in cui verrà creato il rettangolo legato al link. |
+| pagina | Int32 | Il numero della pagina originale dove verrà creato il rettangolo associato al collegamento. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -98,8 +98,10 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100), "expl
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

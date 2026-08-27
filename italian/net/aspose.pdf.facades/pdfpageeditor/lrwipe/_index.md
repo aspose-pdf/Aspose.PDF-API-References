@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.LRWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: Campo del Editor de PDF. Sinistra Destra Elimina.
+title: "PdfPageEditor campo. LeftRight Wipe"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfPageEditor.SPLITHOUT"
 type: docs
 weight: 260
 url: /it/net/aspose.pdf.facades/pdfpageeditor/lrwipe/
 ---
-## Campo PdfPageEditor.LRWIPE
+## PdfPageEditor.LRWIPE field
 
-Wipe Sinistra-Destra
+Pulizia da sinistra a destra
 
 ```csharp
 public const int LRWIPE;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

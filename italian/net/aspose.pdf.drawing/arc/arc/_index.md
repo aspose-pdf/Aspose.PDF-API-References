@@ -1,12 +1,12 @@
 ---
-title: Arc.Arc
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Arc. Inizializza una nuova istanza della classe Arc
+title: "Arc.Arc"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Arc. Inizializza una nuova istanza della classe Arc"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.drawing/arc/arc/
 ---
-## Costruttore Arc
+## Arc constructor
 
 Inizializza una nuova istanza della classe [`Arc`](../).
 
@@ -16,14 +16,16 @@ public Arc(float posX, float posY, float radius, float alpha, float beta)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| posX | Singolo | La coordinata x del punto centrale dell'arco. |
-| posY | Singolo | La coordinata y del punto centrale dell'arco. |
-| radius | Singolo | Il valore del raggio dell'arco. |
-| alpha | Singolo | Il valore dell'angolo iniziale dell'arco. |
-| beta | Singolo | Il valore dell'angolo finale dell'arco. |
+| posX | Single | La coordinata x del punto centrale dell'arco. |
+| posY | Single | La coordinata y del punto centrale dell'arco. |
+| radius | Single | Il valore del raggio dell'arco. |
+| alpha | Single | Il valore dell'angolo iniziale dell'arco. |
+| beta | Single | Il valore dell'angolo finale dell'arco. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Arc](../)
+* class [Arc](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

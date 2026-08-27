@@ -1,7 +1,7 @@
 ---
-title: Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Confronta questa istanza con l'oggetto fornito.
+title: "Uguale"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Confronta questa istanza con l'oggetto fornito."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/operator/equals/
@@ -14,15 +14,15 @@ Confronta questa istanza con l'oggetto fornito.
 public override bool Equals(object obj)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| obj | Object | Oggetto da confrontare. |
+| obj | Oggetto | Oggetto da confrontare. |
 
-### Return Value
+### Valore di ritorno
 
 True se gli oggetti sono uguali, altrimenti false.
 
-### See Also
+### Vedi anche
 
 * class [Operator](../../operator)
 * namespace [Aspose.Pdf](../../operator)
@@ -38,15 +38,15 @@ Confronta questa istanza con l'oggetto fornito.
 public bool Equals(Operator op)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| op | Operator | Operatore da confrontare. |
+| op | Operator | Operator da confrontare. |
 
-### Return Value
+### Valore di ritorno
 
 True se gli oggetti sono uguali, altrimenti false.
 
-### See Also
+### Vedi anche
 
 * class [Operator](../../operator)
 * namespace [Aspose.Pdf](../../operator)

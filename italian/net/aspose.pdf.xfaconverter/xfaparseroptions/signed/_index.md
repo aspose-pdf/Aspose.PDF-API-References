@@ -1,21 +1,23 @@
 ---
-title: XfaParserOptions.Signed
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XfaParserOptions. Se questa proprietà è vera, il documento verrà convertito utilizzando il flusso del modulo xfa se esiste. Se è falsa, il flusso del modulo xfa verrà ignorato. Questa proprietà è stata introdotta perché non è chiaro come calcolare il checksum utilizzato per verificare la firma.
+title: "XfaParserOptions.Signed"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "XfaParserOptions property. Se questa proprietà è true, il documento verrà convertito utilizzando lo stream del modulo xfa, se esiste. Se è false, lo stream del modulo xfa verrà ignorato. Questa proprietà è stata introdotta perché non è chiaro come calcolare il checksum utilizzato per la verifica della firma"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.xfaconverter/xfaparseroptions/signed/
 ---
-## Proprietà XfaParserOptions.Signed
+## XfaParserOptions.Signed property
 
-Se questa proprietà è vera, il documento verrà convertito utilizzando il flusso del modulo xfa (se esiste). Se è falsa, il flusso del modulo xfa verrà ignorato. Questa proprietà è stata introdotta perché non è chiaro come calcolare il checksum utilizzato per verificare la firma.
+Se questa proprietà è true allora il documento verrà convertito utilizzando lo stream del modulo xfa (se esiste). Se è false lo stream del modulo xfa verrà ignorato. Questa proprietà è stata introdotta perché non è chiaro come calcolare il checksum usato per la verifica della firma.
 
 ```csharp
 public bool Signed { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XfaParserOptions](../)
+* class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

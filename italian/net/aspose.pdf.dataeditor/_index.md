@@ -1,12 +1,12 @@
 ---
-title: Aspose.Pdf.DataEditor
-second_title: Aspose.PDF for .NET API Reference
-description: L'Aspose.Pdf.DataEditor contiene strumenti per modificare i dati all'interno di un documento
+title: "Aspose.Pdf.DataEditor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Il Aspose.Pdf.DataEditor contiene strumenti per modificare i dati all'interno di un document"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.dataeditor/
 ---
-L'**Aspose.Pdf.DataEditor** contiene strumenti per modificare i dati all'interno di un documento.
+Il **Aspose.Pdf.DataEditor** contiene strumenti per modificare i dati all'interno di un documento.
 
 ## Classi
 
@@ -18,9 +18,11 @@ L'**Aspose.Pdf.DataEditor** contiene strumenti per modificare i dati all'interno
 | [CosPdfNumber](./cospdfnumber/) | Questa classe rappresenta il tipo Pdf Number. |
 | [CosPdfPrimitive](./cospdfprimitive/) | Questa classe rappresenta il tipo pubblico di base [`CosPdfPrimitive`](../aspose.pdf.dataeditor/cospdfprimitive/). |
 | [CosPdfString](./cospdfstring/) | Questa classe rappresenta l'oggetto Pdf String. |
-| [DictionaryEditor](./dictionaryeditor/) | Una classe per accedere al dizionario ad albero di un documento (dizionario del documento, dizionario della pagina, dizionario delle risorse). |
+| [DictionaryEditor](./dictionaryeditor/) | Una classe per accedere al dizionario ad albero di un documento (document dictionary, page dictionary, resources dictionary). |
 ## Interfacce
 
 | Interfaccia | Descrizione |
 | --- | --- |
 | [ICosPdfPrimitive](./icospdfprimitive/) | Interfaccia per lavorare con l'entità dati PDF |
+
+

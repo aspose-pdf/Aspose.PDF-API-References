@@ -1,21 +1,23 @@
 ---
-title: TextSegment.EndCharIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextSegment. Ottiene l'indice del carattere finale dell'attuale segmento nell'operatore di testo da mostrare segmento Tj TJ
+title: "TextSegment.EndCharIndex"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextSegment. Ottiene l'indice del carattere finale del segmento corrente nell'operatore di visualizzazione del testo Tj TJ segment"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.text/textsegment/endcharindex/
 ---
-## Proprietà TextSegment.EndCharIndex
+## TextSegment.EndCharIndex property
 
-Ottiene l'indice del carattere finale dell'attuale segmento nell'operatore di testo da mostrare (segmento Tj, TJ).
+Ottiene l'indice del carattere finale del segmento corrente nell'operatore di visualizzazione del testo (Tj, TJ).
 
 ```csharp
 public int EndCharIndex { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextSegment](../)
+* class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

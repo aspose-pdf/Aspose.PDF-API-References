@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState proprietà. Permette di impostare o riottenere scala orizzontale del testo.
+title: "StructureTextState.HorizontalScaling"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StructureTextState. Ottiene o imposta la scala orizzontale del testo"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/
 ---
-## Proprietà StructureTextState.HorizontalScaling
+## StructureTextState.HorizontalScaling property
 
 Ottiene o imposta la scala orizzontale del testo.
 
@@ -16,10 +16,12 @@ public float? HorizontalScaling { get; set; }
 
 ## Osservazioni
 
-Può essere nullo. Usa nullo per ereditare la proprietà `HorizontalScaling` dall'elemento di struttura genitore.
+Può essere null. Usa null per ereditare la proprietà `HorizontalScaling` dall'elemento struttura padre.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTextState](../)
+* class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

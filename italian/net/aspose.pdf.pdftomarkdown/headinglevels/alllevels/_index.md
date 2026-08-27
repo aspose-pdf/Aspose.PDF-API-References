@@ -1,12 +1,12 @@
 ---
-title: HeadingLevels.AllLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HeadingLevels. Ottiene tutti i livelli di intestazione
+title: "HeadingLevels.AllLevels"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà HeadingLevels. Ottiene tutti i livelli di intestazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.pdftomarkdown/headinglevels/alllevels/
 ---
-## Proprietà HeadingLevels.AllLevels
+## HeadingLevels.AllLevels property
 
 Ottiene tutti i livelli di intestazione.
 
@@ -14,8 +14,10 @@ Ottiene tutti i livelli di intestazione.
 public IList<double> AllLevels { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HeadingLevels](../)
+* class [HeadingLevels](../)
 * namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
+
+

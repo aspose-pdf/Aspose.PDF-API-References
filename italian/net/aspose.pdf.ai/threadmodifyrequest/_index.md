@@ -1,12 +1,12 @@
 ---
-title: Class ThreadModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ThreadModifyRequest class. Represents a request to modify a thread
+title: "Classe ThreadModifyRequest"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.ThreadModifyRequest. Rappresenta una richiesta per modificare un thread"
 type: docs
-weight: 1170
+weight: 1260
 url: /it/net/aspose.pdf.ai/threadmodifyrequest/
 ---
-## Classe ThreadModifyRequest
+## ThreadModifyRequest class
 
 Rappresenta una richiesta per modificare un thread.
 
@@ -24,10 +24,12 @@ public class ThreadModifyRequest
 
 | Nome | Descrizione |
 | --- | --- |
-| [Metadata](../../aspose.pdf.ai/threadmodifyrequest/metadata/) { get; set; } | Ottiene o imposta un insieme di 16 coppie chiave-valore che possono essere collegate a un oggetto. |
-| [ToolResources](../../aspose.pdf.ai/threadmodifyrequest/toolresources/) { get; set; } | Ottiene o imposta un insieme di risorse che sono rese disponibili agli strumenti dell'assistente in questo thread. |
+| [Metadata](../../aspose.pdf.ai/threadmodifyrequest/metadata/) { get; set; } | Ottiene o imposta un insieme di 16 coppie chiave-valore che possono essere associate a un oggetto. |
+| [ToolResources](../../aspose.pdf.ai/threadmodifyrequest/toolresources/) { get; set; } | Ottiene o imposta un insieme di risorse messe a disposizione degli strumenti dell'assistente in questo thread. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

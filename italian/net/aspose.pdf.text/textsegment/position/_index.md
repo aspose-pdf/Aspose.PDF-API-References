@@ -1,22 +1,24 @@
 ---
-title: TextSegment.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextSegment. Ottiene la posizione del testo per il testo rappresentato con l'oggetto TextSegment
+title: "TextSegment.Position"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextSegment. Restituisce la posizione del testo per il testo rappresentato dall'oggetto TextSegment"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/textsegment/position/
 ---
-## Proprietà TextSegment.Position
+## TextSegment.Position property
 
-Ottiene la posizione del testo per il testo, rappresentato con l'oggetto [`TextSegment`](../).
+Restituisce la posizione del testo, rappresentata dall'oggetto [`TextSegment`](../).
 
 ```csharp
 public Position Position { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Position](../../position/)
-* classe [TextSegment](../)
+* class [Position](../../position/)
+* class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

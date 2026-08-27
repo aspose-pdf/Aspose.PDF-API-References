@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.MovieAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di MovieAnnotation. Costruttore da utilizzare con il Generatore
+title: "MovieAnnotation.MovieAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore MovieAnnotation. Costruttore da utilizzare con Generator."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/movieannotation/movieannotation/
 ---
 ## MovieAnnotation(Document, string) {#constructor}
 
-Costruttore da utilizzare con il Generatore.
+Costruttore per l'uso con Generator.
 
 ```csharp
 public MovieAnnotation(Document document, string movieFile)
@@ -16,13 +16,13 @@ public MovieAnnotation(Document document, string movieFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| document | Document | Documento in cui verrà creata l'annotazione del film. |
-| movieFile | String | Nome del file del film. |
+| document | Document | Documento in cui verrà creata l'annotazione video. |
+| movieFile | String | Nome del file video. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [MovieAnnotation](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -30,7 +30,7 @@ public MovieAnnotation(Document document, string movieFile)
 
 ## MovieAnnotation(Page, Rectangle, string) {#constructor_1}
 
-Crea una nuova annotazione Sonora sulla pagina specificata.
+Crea una nuova annotazione Sound nella pagina specificata.
 
 ```csharp
 public MovieAnnotation(Page page, Rectangle rect, string movieFile)
@@ -38,14 +38,16 @@ public MovieAnnotation(Page page, Rectangle rect, string movieFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina del documento in cui deve essere creata l'annotazione. |
+| pagina | Page | La pagina del documento in cui l'annotazione dovrebbe essere creata. |
 | rect | Rectangle | Il rettangolo dell'annotazione, che definisce la posizione dell'annotazione sulla pagina. |
 | movieFile | String | Un file video da riprodurre quando l'annotazione viene attivata. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [MovieAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetColorStroke.B
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetColorStroke. Ottiene o imposta il componente blu
+title: "SetColorStroke.B"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetColorStroke. Ottiene o imposta il componente blu"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/setcolorstroke/b/
 ---
-## Proprietà SetColorStroke.B
+## SetColorStroke.B property
 
 Ottiene o imposta il componente blu.
 
@@ -14,12 +14,14 @@ Ottiene o imposta il componente blu.
 public double B { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Il livello di blu da 0.0 a 1.0
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

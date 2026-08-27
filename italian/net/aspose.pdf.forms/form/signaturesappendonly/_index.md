@@ -1,21 +1,23 @@
 ---
-title: Form.SignaturesAppendOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del modulo. Se impostata, il documento contiene firme che possono essere invalidate se il file viene salvato in un modo che altera i suoi contenuti precedenti, a differenza di un aggiornamento incrementale
+title: "Form.SignaturesAppendOnly"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Form. Se impostata, il document contiene firme che potrebbero essere invalidate se il file viene salvato in un modo che modifica il contenuto precedente, anziché con un aggiornamento incrementale."
 type: docs
-weight: 130
+weight: 150
 url: /it/net/aspose.pdf.forms/form/signaturesappendonly/
 ---
-## Proprietà Form.SignaturesAppendOnly
+## Form.SignaturesAppendOnly property
 
-Se impostata, il documento contiene firme che possono essere invalidate se il file viene salvato (scritto) in un modo che altera i suoi contenuti precedenti, a differenza di un aggiornamento incrementale.
+Se impostato, il documento contiene firme che potrebbero essere invalidate se il file viene salvato (scritto) in modo da alterare il contenuto precedente, anziché con un aggiornamento incrementale.
 
 ```csharp
 public bool SignaturesAppendOnly { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

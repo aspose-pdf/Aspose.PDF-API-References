@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.DictionaryEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di DictionaryEditor.
+title: "DictionaryEditor.DictionaryEditor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore DictionaryEditor."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
@@ -14,18 +14,18 @@ public DictionaryEditor(Page page)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Una pagina con un dizionario per lavorare. |
+| pagina | Page | Una pagina con un dizionario per il lavoro. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | La pagina è nulla o la struttura della pagina è rotta. |
+| ArgumentNullException | La pagina è nulla o la struttura della pagina è danneggiata. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [DictionaryEditor](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,7 +39,7 @@ public DictionaryEditor(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| document | Document | Un documento con un dizionario per lavorare. |
+| document | Document | Un documento con un dizionario per il lavoro. |
 
 ### Eccezioni
 
@@ -47,10 +47,10 @@ public DictionaryEditor(Document document)
 | --- | --- |
 | ArgumentNullException | Il documento è nullo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [DictionaryEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -64,7 +64,7 @@ public DictionaryEditor(Resources resources)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| resources | Resources | Risorse con un dizionario per lavorare. |
+| resources | Resources | Risorse con un dizionario per il lavoro. |
 
 ### Eccezioni
 
@@ -72,9 +72,11 @@ public DictionaryEditor(Resources resources)
 | --- | --- |
 | ArgumentNullException | Le risorse sono nulle. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resources](../../../aspose.pdf/resources/)
-* classe [DictionaryEditor](../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

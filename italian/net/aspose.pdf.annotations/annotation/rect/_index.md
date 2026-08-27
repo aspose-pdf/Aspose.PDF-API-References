@@ -1,22 +1,24 @@
 ---
-title: Annotation.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'annotazione. Ottiene o imposta il rettangolo dell'annotazione
+title: "Annotation.Rect"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Annotation proprietà. Ottiene o imposta il rettangolo dell'annotazione"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.annotations/annotation/rect/
 ---
-## Proprietà Annotation.Rect
+## Annotation.Rect property
 
-Ottiene o imposta il rettangolo dell'annotazione.
+Ottiene o imposta il rettangolo di Annotation.
 
 ```csharp
 public virtual Rectangle Rect { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [Annotation](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

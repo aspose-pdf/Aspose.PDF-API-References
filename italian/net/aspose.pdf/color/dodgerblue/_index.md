@@ -1,12 +1,12 @@
 ---
-title: Color.DodgerBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF1E90FF
+title: "Color.DodgerBlue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore di sistema definito che ha un valore ARGB di c FF1E90FF"
 type: docs
 weight: 430
 url: /it/net/aspose.pdf/color/dodgerblue/
 ---
-## Proprietà Color.DodgerBlue
+## Color.DodgerBlue property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF1E90FF.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF1E90FF.
 public static Color DodgerBlue { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

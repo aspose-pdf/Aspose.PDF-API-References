@@ -1,12 +1,12 @@
 ---
-title: Graph.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del grafico. Imposta o ottiene la coordinata del tavolo superiore.
+title: "Graph.Top"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Graph. Ottiene o imposta la coordinata superiore della tabella"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.drawing/graph/top/
 ---
-## Proprietà Graph.Top
+## Graph.Top property
 
 Ottiene o imposta la coordinata superiore della tabella.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la coordinata superiore della tabella.
 public double Top { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Graph](../)
+* class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

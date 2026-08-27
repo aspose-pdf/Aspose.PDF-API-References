@@ -1,22 +1,22 @@
 ---
-title: PaperSize.PaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PaperSize. Inizializza una nuova istanza della classe PaperSize con proprietà predefinite
+title: "PaperSize.PaperSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PaperSize. Inizializza una nuova istanza della classe PaperSize con le proprietà predefinite"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.printing/papersize/papersize/
 ---
 ## PaperSize() {#constructor}
 
-Inizializza una nuova istanza della classe [`PaperSize`](../) con proprietà predefinite.
+Inizializza una nuova istanza della classe [`PaperSize`](../) con le proprietà predefinite.
 
 ```csharp
 public PaperSize()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../)
+* class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,12 +32,14 @@ public PaperSize(string name, int width, int height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Il nome della carta. |
-| width | Int32 | La larghezza della carta, in centesimi di pollice. |
-| height | Int32 | L'altezza della carta, in centesimi di pollice. |
+| nome | String | Il nome della carta. |
+| larghezza | Int32 | La larghezza della carta, in centesimi di pollice. |
+| altezza | Int32 | L'altezza della carta, in centesimi di pollice. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../)
+* class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SoundSampleData. Inizializza nuovi dati di campione audio
+title: "SoundSampleData.SoundSampleData"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SoundSampleData. Inizializza nuovi dati di campione audio"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/soundsampledata/soundsampledata/
 ---
 ## SoundSampleData(long) {#constructor}
 
-Inizializza nuovi dati di campione audio.
+Inizializza nuovi dati del campione audio.
 
 ```csharp
 public SoundSampleData(long samplingRate)
@@ -16,11 +16,11 @@ public SoundSampleData(long samplingRate)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| samplingRate | Int64 | La frequenza di campionamento. |
+| samplingRate | Int64 | Il tasso di campionamento. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SoundSampleData](../)
+* class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public SoundSampleData(long samplingRate)
 
 ## SoundSampleData(long, int) {#constructor_1}
 
-Inizializza nuovi dati di campione audio.
+Inizializza nuovi dati del campione audio.
 
 ```csharp
 public SoundSampleData(long samplingRate, int numberOfSoundChannels)
@@ -36,12 +36,12 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| samplingRate | Int64 | La frequenza di campionamento. |
+| samplingRate | Int64 | Il tasso di campionamento. |
 | numberOfSoundChannels | Int32 | Il numero di canali audio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SoundSampleData](../)
+* class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -49,7 +49,7 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels)
 
 ## SoundSampleData(long, int, int) {#constructor_2}
 
-Inizializza nuovi dati di campione audio.
+Inizializza nuovi dati del campione audio.
 
 ```csharp
 public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel)
@@ -57,13 +57,13 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| samplingRate | Int64 | La frequenza di campionamento. |
+| samplingRate | Int64 | Il tasso di campionamento. |
 | numberOfSoundChannels | Int32 | Il numero di canali audio. |
 | bitsPerChannel | Int32 | Il numero di bit per valore di campione per canale. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SoundSampleData](../)
+* class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -71,7 +71,7 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 ## SoundSampleData(long, int, int, SoundSampleDataEncodingFormat) {#constructor_3}
 
-Inizializza nuovi dati di campione audio.
+Inizializza nuovi dati del campione audio.
 
 ```csharp
 public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel, 
@@ -80,14 +80,16 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| samplingRate | Int64 | La frequenza di campionamento. |
+| samplingRate | Int64 | Il tasso di campionamento. |
 | numberOfSoundChannels | Int32 | Il numero di canali audio. |
 | bitsPerChannel | Int32 | Il numero di bit per valore di campione per canale. |
-| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | Il formato di codifica per i dati di campione. |
+| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | Il formato di codifica per i dati di esempio. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [SoundSampleDataEncodingFormat](../../soundsampledataencodingformat/)
-* classe [SoundSampleData](../)
+* class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+
